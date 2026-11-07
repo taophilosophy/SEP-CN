@@ -800,32 +800,42 @@ segments:
     kind: body
     source: |-
       And yet, despite the divine command theme in Ockham’s ethics, it is also clear that he wanted morality to be a matter of reason as well. He concedes that we can have a “science of morals” by virtue of which, through experience and the exercise of natural reason, we can come to some knowledge of moral principles outside positive human and divine law (*Quodl*. II, q. 14, *OTh* IX, pp. 176–8). There is even a sense in which one can find a kind of natural law theory in Ockham’s ethics. One way in which God conveys his divine commands to us is by giving us the natures we have.[^note-40] Unlike Augustine, Ockham accepted the possibility of the “virtuous pagan”. Moral virtue, for Ockham, does not depend on having access to revelation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，尽管奥卡姆的伦理学有神命论的主题，同样清楚的是，他也想让道德成为理性之事。他承认，我们可以有一种"道德科学"，凭借它，通过经验与自然理性的运用，我们可以在实在的人法与神法之外获得关于道德原则的某些知识（*Quodl*. II, q. 14, *OTh* IX, pp. 176–8）。甚至在某种意义上，人们可以在奥卡姆的伦理学中找到一种自然法理论。上帝向我们传达其神圣命令的一种方式，就是赋予我们所具有的本性。[^note-40] 与奥古斯丁不同，奥卡姆接受了"有德的异教徒"的可能性。对奥卡姆而言，道德德性不依赖于是否得到启示。
+    step2: |-
+      然而，尽管有神命论这条主线，奥卡姆同样分明想让道德与理性相干。他承认：我们可以有一种"道德科学"，凭它并经由经验与自然理性的运用，在实在的人法与神法之外获得关于道德原则的某种知识（*Quodl*. II, q. 14, *OTh* IX, pp. 176–8）。甚至在某种意义上，奥卡姆的伦理学里能找到一种自然法理论：上帝向我们传达神圣命令的一途，正是赋予我们现有的本性。[^note-40] 与奥古斯丁不同，奥卡姆承认"有德异教徒"的可能。在他那里，道德德性并不系于是否得闻启示。
   - id: 92
     kind: body
     source: |-
       ### 7.1 The Virtues
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.1 德性
+    step2: |-
+      ### 7.1 德性
   - id: 93
     kind: body
     source: |-
       But while moral virtue is possible even for the pagan, moral virtue is not by itself enough for salvation. Salvation requires not just moral virtue (the opposite of which is moral vice) but merit (the opposite of which is sin), and merit requires grace, a free gift from God. In short, there is no necessary connection between virtue—moral goodness—and salvation. Ockham repeatedly emphasizes that “God is a debtor to no one”, meaning that God does not owe us anything, no matter what we do.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但是，虽然道德德性对异教徒也是可能的，道德德性本身却不足以得救。得救不仅需要道德德性（其对立面是道德恶习），还需要功绩（其对立面是罪），而功绩需要恩典——上帝的免费馈赠。简言之，德性——道德之善——与得救之间没有必然联系。奥卡姆反复强调"上帝不欠任何人的债"，意思是无论我们做什么，上帝都不欠我们任何东西。
+    step2: |-
+      然而，异教徒固然可以有道德德性，单靠道德德性却不足以得救。得救所要求的不仅是道德德性（其反面是道德恶习），还有功绩（其反面是罪）；而功绩要求恩典——上帝白白的恩赐。一言以蔽之：德性即道德之善——与得救之间并无必然关联。奥卡姆反复申说"上帝不欠任何人的债"：无论我们做什么，上帝都不欠我们分毫。
   - id: 94
     kind: body
     source: |-
       For Ockham, acts of willing are morally virtuous either extrinsically, i.e., derivatively by their conformity to some more fundamental act of willing, or intrinsically. On pain of infinite regress, therefore, extrinsically virtuous acts of willing must ultimately lead back to an intrinsically virtuous act of willing. That intrinsically virtuous act of willing, for Ockham, is an act of “loving God above all else and for his own sake”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在奥卡姆看来，意愿行为要么外在地具有道德德性——即通过符合某个更基本的意愿行为而派生地有德——要么内在地有德。因此，为避免无穷倒退，外在地有德的意愿行为最终必定回溯到一个内在有德的意愿行为。对奥卡姆而言，那个内在有德的意愿行为就是"为了上帝自身之故而爱上帝高于一切"的行为。
+    step2: |-
+      在奥卡姆那里，意愿行为要么外在地有德——凭其符合某个更基本的意愿行为而派生地有德——要么内在地有德。为免无穷倒退，外在地有德的意愿行为最终必得回溯到一个内在有德的意愿行为。在奥卡姆看来，这个内在有德的意愿行为，就是"为上帝自身之故而爱上帝高于一切"的行为。
   - id: 95
     kind: body
     source: |-
       In his early work, *On the Connection of the Virtues*, Ockham distinguishes five stages of moral virtue, which have been the topic of considerable speculation in the secondary literature:[^note-41]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在其早期著作《论诸德的联结》中，奥卡姆区分了道德德性的五个阶段，它们在二手文献中已引发大量思考：[^note-41]
+    step2: |-
+      早期著作《论诸德的联结》中，奥卡姆分出道德德性的五个阶段；二手文献对它们颇多揣摩：[^note-41]
   - id: 96
     kind: body
     source: |-
@@ -834,170 +844,234 @@ segments:
       - The third stage adds a certain exclusivity to the motivation; one wills to act in this way *only* because right reason requires it. It is not enough to will to act in accordance with right reason, even heroically, if one does so on the basis of extraneous, non-moral motives.
       - At the fourth stage of moral virtue, one wills to act in this way “precisely for the love of God”. This stage “alone is the true and perfect moral virtue of which the Saints speak”.
       - The fifth and final stage can be built immediately on either the third or the fourth stage. Thus, one can have the fifth without the fourth stage. The fifth stage adds an element of extraordinary moral heroism that goes beyond even the “seriousness” of stage two.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 第一个也是最低的阶段，见于有人愿意按"正确理性"行事——即因为这是"该做的事"。
+      - 第二个阶段给图景加上道德的"严肃性"。行动者即使面对相反的考虑也愿意按正确理性行事，甚至——如有必要——不惜一死。
+      - 第三个阶段给动机加上某种排他性：一个人愿意这样行事，*只是*因为正确理性如此要求。如果一个人是基于外在的、非道德的动机而愿意按正确理性行事，那么即便英勇，也不够格。
+      - 在道德德性的第四个阶段，一个人这样行事"恰恰是为了爱上帝"。这个阶段"唯独是圣徒们所说的真正而完全的道德德性"。
+      - 第五个也是最后的阶段可以直接建于第三个或第四个阶段之上。因此，一个人可以没有第四个阶段而有第五个阶段。第五个阶段加上了非凡的道德英勇成分，超出甚至第二个阶段的"严肃性"。
+    step2: |-
+      - 第一阶段也最低：有人愿意按"正确理性"行事——只因这是"当做之事"。
+      - 第二阶段添上道德的"严肃"：行动者纵然面对相反的考量，也甘愿按正确理性行事；必要时甚至不惜一死。
+      - 第三阶段使动机带上某种排他性：*唯有*正确理性所要求，才愿意如此行事。若所据不过是外在的、非道德的动机，那么纵然按正确理性行事、纵然英勇，也不足数。
+      - 道德德性的第四阶段："恰恰为了爱上帝"而如此行事。此阶段"唯独是圣徒所言真正而完全的道德德性"。
+      - 第五亦即最后的阶段，可直接建于第三或第四阶段之上；因此，无第四阶段者也可以有第五阶段。第五阶段添有一种非凡的道德英勇，甚至超出第二阶段的"严肃"。
   - id: 97
     kind: body
     source: |-
       ### 7.2 Moral Psychology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.2 道德心理学
+    step2: |-
+      ### 7.2 道德心理学
   - id: 98
     kind: body
     source: |-
       At the beginning of his *Nicomachean Ethics*, Aristotle remarked that “the good is that at which all things aim”. Each thing, therefore, aims at the good, according to the demands of its nature. In the Middle Ages, “Aristotelians” like Thomas Aquinas held that the good for human beings in particular is happiness, the enjoyment of the direct vision of God in the next life. And, whether they realize it or not, that is what all human beings are ultimately aiming at in their actions. For someone like Aquinas, therefore, the human will is free only in a certain restricted sense. We are *not* free to choose for or against our final end; that is built into us by nature. But we are free to choose various *mean*s to that end. All our choices, therefore, are made under the aspect of leading to that final goal. To be sure, sometimes we make the wrong choices, but when that occurs it is because of ignorance, distraction, self-deception, etc. In an important sense, then, someone like Aquinas accepts a version of the so-called Socratic Paradox: No one knowingly and deliberately does evil.[^note-42]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《尼各马可伦理学》开头，亚里士多德说："善是万物所追求的东西"。因此，每一事物都按照其本性的要求追求善。在中世纪，托马斯·阿奎那这样的"亚里士多德主义者"主张，人的善尤其在于幸福，即来世直接目见上帝的享受。而且，无论是否意识到，所有人都在其行为中最终追求这个。因此，对阿奎那这样的人来说，人的意志只在某种受限的意义上是自由的。我们*不能*自由选择终极目的还是反对它；那是自然植于我们之内的。但我们可以自由选择通往那个终点的各种*手段*。因此，我们的一切选择都是在指向那个终极目标的方面作出的。诚然，我们有时会选错，但那是因为无知、分心、自我欺骗等等。于是，在一个重要的意义上，像阿奎那这样的人接受一种版本的所谓苏格拉底悖论：没有人明知而故意作恶。[^note-42]
+    step2: |-
+      亚里士多德在《尼各马可伦理学》开篇说："善是一切事物所追求的。"于是，每样事物都依其本性的要求追求善。中世纪的"亚里士多德派"——托马斯·阿奎那即其代表——主张：人的善尤其在于幸福，即来世直面观看上帝之乐。而且不论自觉与否，所有人终究都在其行为中以此为鹄的。因此，在阿奎那这样的人那里，人的意志只在某种受限的意义上自由：我们*不能*自由选择要还是不要我们的终极目的——那由自然植入我们之内；但我们可以自由挑选通往该终点的种种*手段*。我们的一切选择，都是在"通往那个终极目标"的方面作出的。诚然，我们有时选错，但错在无知、分心、自欺等等。于是，在一个要紧的意义上，阿奎那这类人接受了一种所谓苏格拉底悖论的版本：无人明知而故意作恶。[^note-42]
   - id: 99
     kind: body
     source: |-
       Ockham’s view is quite different. Although he is very suspicious of the notion of final causality (teleology) in general, he thinks it is quite appropriate for intelligent, voluntary agents such as human beings. Thus, the charge that Ockham severs ethics from metaphysics by denying teleology seems wrong.[^note-43] Nevertheless, while Ockham grants that human beings have a natural orientation, a tendency toward their own ultimate good, he does not think this restricts their choices.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆的观点相当不同。虽然他对终极因果性（目的论）概念总体上深表怀疑，但他认为它对人类这样的有理智的自愿行动者相当合适。因此，说奥卡姆通过否认目的论而把伦理学与形而上学切断，这种指责似乎是错的。[^note-43] 然而，尽管奥卡姆承认人有一种自然取向、一种朝向自身终极之善的倾向，他并不认为这限制了他们的选择。
+    step2: |-
+      奥卡姆的看法大异其趣。目的因（目的论）这一观念，他总体上疑虑重重，却又认为它对人类这类有理智的自愿行动者再合适不过。因此，指控奥卡姆因否认目的论而斩断伦理学与形而上学的关联，似乎搞错了。[^note-43] 不过，奥卡姆固然承认人有自然取向、有朝向自身终极之善的倾向，却不认为这限制了人的选择。
   - id: 100
     kind: body
     source: |-
       For Ockham, as for Aristotle and Aquinas, I can choose the means to achieve my ultimate good. But in addition, unlike Aristotle and Aquinas, for Ockham I can choose whether to will that ultimate good.[^note-44] The natural orientation and tendency toward that good is built in; I cannot do anything about that. But I can choose whether or not to act to achieve that good. I might choose, for example, to do nothing at all, and I might choose this knowing full well what I am doing. But even more: I can choose to act knowingly directly *against* my ultimate good, to thwart it.[^note-45] I can choose evil *as* evil. Hence, Ockham can be thought to hold a radical position on the freedom of the will: the human will is free to choose otherwise than it does, and our choices, while they are informed by our intellect, are not determined by it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对奥卡姆而言，一如对亚里士多德与阿奎那，我可以选择实现我的终极之善的手段。但此外，与亚里士多德和阿奎那不同，对奥卡姆而言，我可以选择是否意愿那个终极之善。[^note-44] 朝向那个善的自然取向与倾向是内在固有的；对此我无能为力。但我可以选择是否行动以实现那个善。例如，我可以选择什么都不做，而且我可以在完全明白自己在做什么的情况下这样选择。但更多：我可以明知而选择直接*对抗*我的终极之善，阻挠它。[^note-45] 我可以*作为*恶来选择恶。因此，可以认为奥卡姆在意志自由问题上持一种激进立场：人的意志可以自由地选择不这样选择，而我们的选择虽然由我们的理智提供信息，却不由它决定。
+    step2: |-
+      对奥卡姆而言，一如亚里士多德与阿奎那，我可以选择实现终极之善的手段。但此外，与二贤不同，奥卡姆认为我还能选择是否意愿那个终极之善本身。[^note-44] 朝向那个善的自然取向与倾向是内置的，对此我无能为力；但我可以选择要不要行动以实现那个善。比如，我可以选什么也不做，而且是在完全清楚自己所作所为的情况下这样选。更有甚者：我可以明知而直接*对抗*我的终极之善，阻挠它。[^note-45] 我可以*作为*恶本身来选择恶。因此可以说，奥卡姆在意志自由上立场激进：人的意志可以自由地作别的选择；我们的选择虽由理智提供信息，却不由其决定。
   - id: 101
     kind: body
     source: |-
       For Ockham, this is required if I am going to be morally responsible for my actions.[^note-46] If I could not help but will to act to achieve my ultimate good, then it would not be morally praiseworthy of me to do so; moral “sins of omission” would be impossible (although of course I could be mistaken in the means I adopt). By the same token, moral “sins of commission” would be impossible if I could not knowingly act against my ultimate good. But for Ockham these conclusions are not just required by theory; they are confirmed by experience.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对奥卡姆而言，如果我要对我的行为负道德责任，这就是必需的。[^note-46] 如果我不得不意愿行动以实现我的终极之善，那么我这样做在道德上就不值得赞扬；道德上的"不作为之罪"将不可能（当然，我采用的手段仍可能出错）。同理，如果我不能明知而违背我的终极之善行动，道德上的"作为之罪"也将不可能。但对奥卡姆来说，这些结论不只是理论的要求；它们还得到经验的确证。
+    step2: |-
+      在奥卡姆看来，我若要为行为负道德之责，此说必不可少。[^note-46] 倘若我不得不意愿实现终极之善的行动，那么如此行动于道德上便无可称赞；道德上的"不作为之罪"将无从谈起（当然，所选手段仍可能出错）。同理，倘若我不能明知而逆着终极之善行动，"作为之罪"也无从谈起。但对奥卡姆而言，这些结论不单是理论使然，更有经验为证。
   - id: 102
     kind: body
     source: |-
       ## 8. Political Philosophy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 8. 政治哲学
+    step2: |-
+      ## 8 政治哲学
   - id: 103
     kind: body
     source: |-
       Ockham’s political writings began with a discussion of the issue of poverty and property. His views were important for the development of the notion of natural rights and property rights that emerged out of his engagement with the Franciscan conflict with Pope John XXII. This engagement led him, moreover, to inquire into the nature of heresy and the institutional aspect of the Church, particularly the papacy, since one of his central and overriding concerns was whether a pope could become a heretic. Given the authority and responsibility of the pope as the head of (Roman Catholic) Christendom, this in turn led to a generalized consideration of the relations between spiritual and temporal powers (somewhat anachronistically we can call these “church and state”). Concerned to protect temporal power from papal overreach, he was part of a tradition of medieval authors including his near contemporary John of Paris who advocated that these powers should operate within their own sphere, neither one being subordinate to the other and both deriving their legitimacy and authority from independent sources.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆的政治写作始于对贫穷与财产问题的讨论。他的观点对于从他与方济各会同教皇约翰二十二世之冲突的纠葛中产生的自然权利与财产权观念的发展十分重要。这种纠葛还引导他探究异端的性质与教会的制度面向，尤其是教皇职位，因为他一个核心的、压倒性的关切就是教皇能否变成异端。鉴于教皇作为（罗马天主教）基督教世界之首的权威与责任，这又转而引出对精神权力与世俗权力关系的普遍考量（稍带时代错置地，我们可以称之为"教会与国家"）。他关切保护世俗权力免遭教皇越权，因此属于一个中世纪作者的传统，其中包括与他几乎同时代的巴黎的约翰：这一传统主张两种权力应在各自的范围内运作，谁也不从属于谁，二者的正当性与权威都来自独立的源头。
+    step2: |-
+      奥卡姆的政治写作，始于贫穷与财产问题。方济各会与教皇约翰二十二世之争，他深涉其中；由这场纠葛生长出来的自然权利与财产权观念，其发展深深得益于他的见解。这场纠葛还引他追问异端的性质与教会的制度面向——尤其教皇之职：他一个核心的、压倒一切的关切，正是教皇会不会沦为异端。教皇身为（罗马天主教）基督教世界的首脑，其权威与责任所系，又引出对精神权力与世俗权力关系的一般性考量（稍显时代错置地，我们不妨称之为"教会与国家"）。奥卡姆一心护持世俗权力，使它免遭教皇越权侵凌，因此归入一个中世纪作者的传统——与他几乎同时的巴黎的约翰亦在其列——这一传统主张：两种权力各在己域内运作，互不统属，其正当性与权威各有独立的源头。
   - id: 104
     kind: body
     source: |-
       Ockham’s political thought is extensive, rich, and less systematic than his academic philosophy. Certain preoccupations, however, recur such as an interest in defending individual human liberty, the contingency, variability, and fallibility of human institutions, and the threat of a heretical pope.[^note-47] Three main themes are covered here.[^note-48]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆的政治思想广博而丰富，但不如他的学术哲学系统。不过，某些关注反复出现：为个人的人类自由辩护的兴趣、人类制度的偶然性、可变性与可错性、以及异端教皇的威胁。[^note-47] 这里讨论三个主要主题。[^note-48]
+    step2: |-
+      奥卡姆的政治思想博大宏富，惟不如其学院哲学那样有条贯。但某些关切反复出现：捍卫个人自由、人类制度的偶然性与可变性可错性、异端教皇之患。[^note-47] 此处讨论三个主题。[^note-48]
   - id: 105
     kind: body
     source: |-
       ### 8.1 Franciscan Poverty, Property Rights, and the Crisis in Avignon
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 8.1 方济各会的贫穷、财产权与阿维尼翁危机
+    step2: |-
+      ### 8.1 方济各会的贫穷、财产权与阿维尼翁危机
   - id: 106
     kind: body
     source: |-
       As sketched above (§1.2), while in Avignon waiting for the papal commission to decide on the orthodoxy of some of his theological views, Ockham was tasked by Michael of Cesena to look into papal documentation on the Franciscan Order and the question of Apostolic poverty. Some context is necessary to see what the issue was. Foundational to the identity of the Franciscan Order was the original ideal of austere poverty practiced and advocated by St. Francis himself (c. 1181–1226). The ideal of poverty had been, and still is, a common one in religious communities, both monastic and mendicant (mendicant communities being orders like the Franciscan and Dominican Orders, among others, that rose to prominence in the thirteenth century). Typically, the idea is that an individual member of the community in question owns no property at all. If a member buys a car, for instance, it is not strictly his car, even though he may have exclusive use of it, and it was not bought with his money; he doesn’t have any money of his own. Rather, it belongs to the community.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如上文（§1.2）所述，在阿维尼翁等待教皇委员会就他的某些神学观点的正统性作出决定期间，奥卡姆受切塞纳的迈克尔之托，研究教廷关于方济各会与使徒贫困问题的文书。要看清争的是什么，需要一些背景。方济各会身份认同的基石，是圣方济各本人（约 1181–1226）实践并倡导的严格贫穷的原始理想。贫穷理想过去是、现在仍是宗教社团——无论是隐修的还是托钵的——中的共同理想（托钵社团即方济各会、多明我会等十三世纪兴起的修会）。典型地说，其观念是：相关社团的个体成员完全不拥有任何财产。例如，如果成员买了一辆车，严格说这车不是他的，即使他可能独占地使用它，而且车也不是用他的钱买的——他自己没有任何钱。毋宁说，车属于社团。
+    step2: |-
+      前文（§1.2）已略述：在阿维尼翁候审教皇委员会裁断其若干神学观点之正统期间，奥卡姆奉切塞纳之命，查考教廷关于方济各会与使徒贫困的文书。要看清争端所在，须有些背景。方济各会认同的基石，是亚西西的圣方济各（约 1181–1226）躬行并倡立的严格贫穷理想。这一贫穷理想，往昔与今日都是宗教社团——隐修的也好，托钵的也罢——的共同理想（托钵社团指方济各会、多明我会等十三世纪崛起的修会）。大略而言，其观念是：该社团的成员个人完全不占财产。譬如成员买了一辆车，严格说车不是他的——纵然归他独用，且车非其钱所购：他自己根本没有钱；车属于社团。
   - id: 107
     kind: body
     source: |-
       The Franciscan ideal of poverty went further. Not only did the individual friar have no property of his own, *neither did the Order*. In other words, the Franciscan Order rejected both individual and collective property ownership. They were indeed supposed to be truly “mendicant”, to live by begging and by relying for their basic needs on the generosity of others. Anything donated to the Order, such as a house or a piece of land, remained the property of the original owner strictly speaking, who, however, only granted permission for its “simple” or “bare” use to the Franciscan Order. If that would not work—as, for example, in the case of a bequest in a will—the ownership would go to the Papacy after the original owner had died.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      方济各会的贫穷理想走得更远。不仅个别修士没有自己的财产，*修会也没有*。换句话说，方济各会拒绝了个体与集体的财产占有。他们的确应当是真正"托钵"的：靠乞讨、靠他人的慷慨满足基本需要而生活。任何捐赠给修会的东西，如一座房子或一块土地，严格说仍是原主的财产；但原主只授予方济各会"简单的"或"赤裸的"使用权。如果这行不通——例如遗嘱中的遗赠情形——原主死后所有权将归教廷。
+    step2: |-
+      方济各会的贫穷理想更进一层：不仅修士个人无私产，*修会也没有*。换言之，方济各会连个体的与集体的财产占有一并拒绝。他们理应真正"托钵"——靠乞讨与他人的慷慨维持基本生计。凡捐给修会之物，如一座房、一块地，严格说仍是原主财产；只是原主仅向方济各会授予"简单"或"赤裸"的使用之权。若此路不通——例如遗嘱遗赠之情形——原主身后，所有权即归教廷。
   - id: 108
     kind: body
     source: |-
       The Franciscan Order thought their ideal of poverty was exhibited by the life of Jesus and the Apostles, who—they said—had given up all property individually and collectively. St. Francis regarded this as the clear implication of several Scriptural passages: e.g., Matthew 6:24–34, 8:20, 19:21, and strove to adopt this ideal for the Order. In 1279, Pope Nicholas III officially approved of this Franciscan way of life. Yet, tensions within the Franciscan Order between moderates (the “Conventuals”) and radicals (the “Spirituals”) about how to manage the Order in practice given this ideal grew over the course of the end of the thirteenth century and into the fourteenth century. The mainstream Franciscan position, adopted by the Conventuals and included Ockham, Michael of Cesena, and others, only expected the Franciscan Order to maintain this ideal. They did not think that there was something morally wrong about property ownership *per se*. Poverty is not a duty but a “counsel of perfection”, so it is acceptable to own property, but it is better—more perfect—not to. They were not, then, advocating the total abolition of property, and they did not think that the Papacy should not own property. On the contrary, in certain cases, the Papacy owned the goods that members of the Franciscan Order could use.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      方济各会认为，耶稣与使徒的生平体现了他们的贫穷理想——他们说，耶稣与使徒在个体与集体上都放弃了所有财产。圣方济各视此为若干圣经段落的明白含义，如《马太福音》6:24–34、8:20、19:21，并力图为修会采纳这一理想。1279 年，教皇尼古拉三世正式批准了方济各会的这种生活方式。然而，鉴于这一理想，修会内部温和派（"住院派"）与激进派（"属灵派"）之间关于实践中如何治理修会的紧张关系，在十三世纪末至十四世纪的过程中滋长。主流的方济各会立场由住院派采纳，奥卡姆、切塞纳的迈克尔等人包括在内，只要求方济各会维持这一理想。他们认为财产占有*本身*并没有道德上的错误。贫穷不是义务而是"完善的劝谕"（counsel of perfection），因此占有财产是可以接受的，但更好——更完善——的是不占有。因此，他们并不主张彻底废除财产，也不认为教廷不应当拥有财产。相反，在某些情形中，教廷拥有方济各会成员可以使用的财物。
+    step2: |-
+      方济各会认为，耶稣与使徒的生平正体现了他们的贫穷理想——据他们说，耶稣与使徒无论个体还是集体都舍尽了财产。圣方济各把这一理想看作《马太福音》6:24–34、8:20、19:21 等段经文的明白蕴义，并为修会力行之。1279 年，教皇尼古拉三世正式认可方济各会的这一生活方式。然而，带着这一理想，修会内部温和派（"住院派"）与激进派（"属灵派"）之间就现实中如何治理修会的张力，从十三世纪末一直发酵到十四世纪。主流方济各会立场——住院派所持，奥卡姆、切塞纳的迈克尔等人在内——只要求方济各会守住这一理想：财产占有*本身*并无道德之失。贫穷不是义务，而是"完善劝谕"（counsel of perfection）：占有财产可接受，只是不占有更好——更完善。因此，他们既不主张彻底废除财产，也不认为教廷不该拥有财产；恰恰相反，在某些情形中，教廷正是方济各会士可用财物的所有者。
   - id: 109
     kind: body
     source: |-
       Pope John XXII decided, however, to reopen the discussion. He issued a series of papal bulls (among which, *Ad conditorem* in 1322, *Quum inter nonnullos* in 1323, and *Quia vir reprobus* in 1329) in which he rejected the Franciscan distinction between use and ownership. He also declared it heretical to hold that Christ and the Apostles did not own property. Drawing on Roman law, John argued that use and ownership could not be separated. The case of consumable goods was especially important to drive this point home: there is no meaningful distinction between use and ownership if, by virtue of using some good, I consume it in such a way that I integrally damage or destroy it, e.g., eating food or wearing out a friar’s habit. For, even if its owner has granted me the use of the good in question, once I have consumed it, the good can never be returned to its owner. For all intents and purposes, it is mine. For John, then, it is impossible to fully live the life of absolute poverty for an individual person, much less for a permanent institution like the Franciscan Order.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而教皇约翰二十二世决定重新开启讨论。他发布了一系列教皇诏书（其中有 1322 年的《Ad conditorem》、1323 年的《Quum inter nonnullos》与 1329 年的《Quia vir reprobus》），拒绝方济各会关于使用与所有权的区分。他还宣告，主张基督与使徒不拥有财产即为异端。约翰援引罗马法论证说，使用与所有权不可分离。消耗品的情形对阐明这一点尤其重要：如果由于使用某个财物，我以把它整体损坏或毁掉的方式消耗了它——例如吃掉食物或穿坏修士的会衣——那么使用与所有权之间就没有有意义的区分。因为，即使该财物的所有者已把它交给我使用，一旦我消耗了它，这财物就再也不能归还其主。就一切实际目的而言，它是我的。因此在约翰看来，个人不可能完全过绝对贫穷的生活，方济各会这样的永久性机构就更不可能了。
+    step2: |-
+      然而，约翰二十二世决意重开争端。他连发数道教皇诏书（其中有 1322 年的《Ad conditorem》、1323 年的《Quum inter nonnullos》、1329 年的《Quia vir reprobus》），拒斥方济各会"使用／所有权"之别，并宣告：主张基督与使徒无私产，即为异端。约翰援引罗马法论证：使用与所有权不可分。消耗品的情形最能说明问题：若我因使用某物而将其整体耗损乃至毁掉——如吃掉食物、穿坏会衣——使用与所有权便无实义可分。因为纵然原主把该物交我使用，一旦我将其消耗，此物便再无法物归原主；就一切实效而言，它已归我。所以在约翰看来，绝对贫穷的生活个人尚且无法彻底践行，方济各会这样的永久建制更谈不上。
   - id: 110
     kind: body
     source: |-
       Ockham’s first political work, the *Work of Ninety Days*, is a scathing line-by-line dissection of John’s *Quia vir reprobus*, in which Ockham argues on behalf of the “attackers” (the Franciscans around Michael of Cesena) against “the attacked” (John). The work is an exhaustive analysis of property and property rights, covering in minute detail different kinds of use and ownership that individuals and collectives can have. Throughout, Ockham consistently maintains the Franciscan distinction between use and ownership, even for consumables, and makes a number of significant elaborations concerning rights and property along the way.[^note-49] The first of these that bears drawing attention to is a distinction between natural rights, which are independent from any particular legal system, and rights “of the forum”, which are set up by human positive law.[^note-50] The Franciscan Order only has a natural right of using those goods that are necessary to sustain basic life. Such rights cannot be renounced, since to do so would lead to one’s own harm or death. The Franciscan Order can, however, renounce rights pertaining to ownership, which is what it does by voluntarily opting out, as it were, from the positive legal framework of property rights. A consequence of this is that the Order does not have the right to go to court to settle any property claim. The broader significance of this distinction is the suggestion that there are a certain number of natural, non-renounceable, and inalienable rights that all human beings have.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆的第一部政治著作《九十日之作》，是对约翰的《Quia vir reprobus》的逐行严苛剖析，其中奥卡姆替"进攻者"（切塞纳的迈克尔周围的方济各会士）对抗"被进攻者"（约翰）辩护。这部著作对财产与财产权作了穷尽的分析，细致入微地讨论了个人与集体可以拥有的各种使用与所有权。通篇，奥卡姆一贯坚持方济各会关于使用与所有权的区分，即使在消耗品上亦然，并沿途就权利与财产作出若干重要阐发。[^note-49] 其中第一个值得注意的是：自然权利——独立于任何特定法律体系——与"法庭权利"——由人的实在法设立——之间的区分。[^note-50] 方济各会只有使用那些维持基本生活所必需财物的自然权利。这种权利不能放弃，因为放弃会导致自己的伤害或死亡。然而，方济各会可以放弃与所有权相关的权利，它正是通过自愿退出财产权的实在法框架来做到这一点的。其后果之一是：修会没有到法庭解决任何财产主张的权利。这一区分更广的意义在于提示：有若干自然的、不可放弃的、不可让渡的权利，所有人都有。
+    step2: |-
+      奥卡姆第一部政治著作《九十日之作》，逐行严剖约翰的《Quia vir reprobus》，替"进攻方"（切塞纳的迈克尔一系方济各会士）申辩，对抗"被攻方"（约翰）。全书穷究财产与财产权，对个人与集体可有的各类使用与所有权细察入微。通篇奥卡姆固守方济各会"使用／所有权"之别——消耗品亦不例外——并一路就权利与财产作出若干重要发挥。[^note-49] 首先值得注意的，是自然权利（独立于任何特定法制）与"法庭权利"（由人类实在法设立）之别。[^note-50] 方济各会仅享有使用维系基本生活所必需财物的自然权利；此类权利不可放弃——弃之即自残自毁。不过，与所有权相关的权利，方济各会可以放弃：它自愿抽身于财产权的实在法框架之外，正是此意。其后果之一：修会无权诉诸法庭裁断任何财产主张。这一区分更深远的意义在于提示：人类人人享有若干自然的、不可放弃、不可让渡的权利。
   - id: 111
     kind: body
     source: |-
       A second notable elaboration is the origin of property and Ockham’s considered opinion, reiterated in later political works as well, that all property is in fact *private* and established through human agreement and human positive law. John had justified his view on the non-separability of use and ownership by arguing that the institution of property, and, therefore, property rights, began in the Garden of Eden. According to John, God gave Adam and Eve ownership over the goods they consumed before the Fall, so that property rights were established by divine positive law.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二个值得注意的阐发是财产的起源，以及奥卡姆的深思熟虑的意见——后来的政治著作中也重申——即一切财产事实上都是*私有的*，并通过人类的同意与人类的实在法而确立。约翰曾为其使用与所有权不可分之见辩护，其论证是：财产制度以及财产权始于伊甸园。按照约翰的说法，上帝在堕落之前就把他们消费的财物的所有权给了亚当与夏娃，因此财产权由神圣实在法确立。
+    step2: |-
+      第二项值得注意的发挥关乎财产的起源。奥卡姆的定见——后来的政治著作一再重申——是：一切财产实为*私有*，由人类同意与人类实在法而立。约翰曾为"使用与所有权不可分"辩护，理由是财产制度（以及财产权）始于伊甸园：依约翰之说，上帝在堕落之前便把受用财物的所有权交给了亚当与夏娃，故财产权立基于神圣实在法。
   - id: 112
     kind: body
     source: |-
       Ockham disagreed. He argued that there was no property in the Garden of Eden, because property implies *exclusive* lordship over goods. Adam and Eve had no such lordship before the Fall. They simply used—and had the natural right of using—whatever they needed in the Garden. Property was introduced after the Fall by human beings who, seeking to mitigate the violence and greed caused by the Fall, recognized the necessity of establishing legal arrangements for the protection, regulation, and management of property in society. Ockham is quite clear that *we* established property but he acknowledges that God gives us the power to do so. Property ownership is, therefore, permissible post-Fall. We confer certain legal rights (managing, disposing, transferring, defending claims to, etc.) over certain things (property) to certain people (owners) to the exclusion of anyone else. Owners can, of course, give permission to others to use the goods they own, but that permission does not amount to giving other people a legal right they could appeal to in a court of law. This is the way the Franciscan Order and its members operate according to Ockham. Their benefactors do not give Franciscans any legal rights over the things donated to the Franciscans, but only permission for the simple use of those things, which owners can revoke at any time and for which no Franciscan could lay claim in a court of law.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆不同意。他论证说，伊甸园中没有财产，因为财产意味着对财物的*排他性*领主权。亚当与夏娃在堕落之前没有这种领主权。他们只是使用伊甸园中他们需要的任何东西——并拥有使用的自然权利。财产是堕落之后由人引入的；这些人试图缓解堕落造成的暴力与贪婪，认识到必须建立法律安排来保护、规制与管理社会中的财产。奥卡姆说得很清楚，是*我们*确立了财产，但他承认上帝赋予我们这样做的权力。因此，财产占有在堕落之后是允许的。我们把对某些东西（财产）的某些法定权利（管理、处分、转让、维护主张等等）授予某些人（所有者），而排除任何其他人。当然，所有者可以允许他人使用其拥有的财物，但这种允许并不等于授予他人可以在法庭上援引的法定权利。奥卡姆认为，方济各会及其成员正是这样运作的。捐助人并不给方济各会士任何对所捐财物的法定权利，只给予简单使用这些财物的允许；所有者可随时撤销这种允许，任何方济各会士都不能在法庭上就此提出主张。
+    step2: |-
+      奥卡姆不以为然。他论证：伊甸园中没有财产，因为财产意味着对财物的*排他性*领主权；堕落之前的亚当与夏娃并无此等领主权——他们只是使用园中所需之物，且拥有使用的自然权利。财产是堕落之后引入的：世人欲缓和堕落所致的暴力与贪欲，遂认识到须立法律安排，以保护、规制、管理社会中的财产。奥卡姆说得分明：确立财产的是*我们*；但他承认，这样做的能力是上帝赋予的。故财产占有在堕落之后是允许的：我们把对某些物（财产）的某些法定权利（管理、处分、转让、主张之辩护等等）授予某些人（所有者），而排除其余一切人。当然，所有者可许可他人使用其财物；但这种许可并不等于授予他人可在法庭上援引的法定权利。按奥卡姆的看法，方济各会及其成员正是如此运作：捐助人并不给方济各会士对所捐财物的任何法定权利，只给简单使用之许可；原主可随时收回许可，而任何方济各会士都无法就此在法庭上主张权利。
   - id: 113
     kind: body
     source: |-
       ### 8.2 Heresy and the *Dialogue*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 8.2 异端与《对话》
+    step2: |-
+      ### 8.2 异端与《对话》
   - id: 114
     kind: body
     source: |-
       John XXII’s view that Jesus and the Apostles did not disavow property ownership is expressed in a number of claims that Ockham concluded were
-    step1: TBD
-    step2: TBD
+    step1: |-
+      约翰二十二世关于耶稣与使徒并未放弃财产占有的观点，体现在一连串主张中；奥卡姆断定这些主张是：
+    step2: |-
+      约翰二十二世认为耶稣与使徒并未弃绝财产占有。这一立场化身为一连串主张；奥卡姆断定它们是——
   - id: 115
     kind: body
     source: |-
       > heretical, erroneous, silly, ridiculous, fantastic, insane, and defamatory, contrary and likewise plainly adverse to orthodox faith. (*Epistola ad Fratres Minores*, *OPol* III, p. 6. Translation by Kilcullen in *Letter to the Friars Minor*, p. 3)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 异端的、错误的、愚蠢的、可笑的、怪诞的、疯狂的、诽谤性的，与正统信仰相悖，并且显然敌对。（*Epistola ad Fratres Minores*, *OPol* III, p. 6. Translation by Kilcullen in *Letter to the Friars Minor*, p. 3）
+    step2: |-
+      > 异端的、错误的、愚蠢的、可笑的、怪诞的、疯狂的、诽谤性的，与正统信仰相悖且显然为敌。（*Epistola ad Fratres Minores*, *OPol* III, p. 6. Translation by Kilcullen in *Letter to the Friars Minor*, p. 3）
   - id: 116
     kind: body
     source: |-
       The conviction that John XXII was a heretic and a profound worry about the state of the Church, which he tended to conceive as the totality of believing Christians, led Ockham to write his political masterwork, the *Dialogue*, to which it is impossible to do justice here. A vast work divided into three parts and left unfinished, the *Dialogue* is an exchange between a master and a student that was anonymously written—Ockham is not identified as its author—and, more intriguingly, Ockham never specifies what his own opinion is. The student initiates and guides the dialogue by asking the master questions to which the master replies by providing arguments for and against answers to those questions. Ockham is offering, in effect, a massive and often labyrinthine array of arguments on behalf of conflicting claims on many issues. The arguments put forth are from authority, typically based on Scripture, the canon law tradition, and the writings of the Church Fathers, but also include arguments “from reason”. Determining what Ockham thinks on any particular issue is not easy, but one way to decide which opinion is likely his is by comparing arguments and positions from the *Dialogue* with those we find in his non-anonymous works, like the *Short Discourse*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      约翰二十二世是异端这一信念，加上他对教会——他倾向于把教会理解为信教的基督徒全体——状况的深切忧虑，促使奥卡姆写出其政治杰作《对话》；在这里无法对它作出公允的评价。这部巨著分为三部分且未完成，是一场导师与学生之间的对话，匿名写成——奥卡姆并未被指明为其作者——而且，更耐人寻味的是，奥卡姆从不说明自己的意见是什么。学生通过向导师提问来发起并引导对话；导师则通过提供赞成与反对这些问题诸答案的论证来作答。奥卡姆实际上是在为许多问题上的相互冲突的主张提供一大批常常如迷宫般的论证。所提出的论证来自权威，通常基于《圣经》、教会法传统与教父著作，但也包括"来自理性"的论证。要确定奥卡姆在某个具体问题上想什么并不容易；判定哪个意见可能是他的一个办法，是把《对话》中的论证与立场同他在非匿名著作（如《短论》）中的论证与立场相比较。
+    step2: |-
+      坚信约翰二十二世是异端，加上对教会状况的深重忧虑——他惯于把教会理解为信基督者的全体——奥卡姆写出了政治巨著《对话》；本书在此无法细表。这部巨著分三部分，终未完成；是一场导师与学生的对话，匿名问世（奥卡姆并未署名），更耐人寻味的是，奥卡姆从不交代己见为何。学生发问，引导对话；导师应答，为诸问题之诸答案陈说正反论证。奥卡姆实际上端出了为许多议题上相互冲突的主张辩护的一大片论证，盘曲如迷宫。这些论证或诉诸权威——多本《圣经》、教会法传统与教父著述——也有"自理性而来"者。要断定奥卡姆在某个具体问题上作何想，并非易事；一个办法是把《对话》中的论证与立场，同其非匿名著作（如《短论》）中的论证与立场两相对照。
   - id: 117
     kind: body
     source: |-
       Part I of the *Dialogue* is about heresy and heretics. Ockham covers a huge range of topics starting with which group of experts, theologians or canon lawyers, has the authority to decide on matters relating to heresy (Book 1). He then turns to *what* is heresy, which necessitates a discussion of its converse, i.e., orthodox Catholic truth and its sources (Book 2), and *who* can be considered a heretic (Book 3). At this point, it becomes evident that heresy is not simply some erroneous belief contrary to orthodox faith. Rather, Ockham introduces the notion that heresy involves *stubborn* (“pertinacious”) erroneous belief contrary to orthodox faith. This focuses attention on the conditions under which a person chooses to believe some proposition *p* that conflicts with orthodox Catholic truth as contained in, notably, Scripture. Someone who persists in choosing to believe *p* even after it has been adequately explained to her that *p* conflicts with Scripture, indicates that she is pertinacious and is, therefore, condemnable as a heretic (Book 4). This explanatory process, an educational venture of sorts, is called “legitimate correction”, and can be licitly pursued by any unerring and faithful Christian or group of Christians within the Church. Institutional power and rank are less decisive for establishing one’s authority to detect and correct heresy than knowledge of orthodox Catholic faith.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《对话》第一部分论异端与异端分子。奥卡姆覆盖了巨大的话题范围，从哪一组专家——神学家还是教会法学家——有权裁断与异端相关的事务开始（第 1 卷）。他随后转向*什么是*异端，这就必须讨论其对立面，即正统的天主教真理及其来源（第 2 卷），以及*谁*可以被算作异端（第 3 卷）。至此，显而易见的是，异端不只是与正统信仰相悖的某种错误信念。毋宁说，奥卡姆引入了这样一个观念：异端涉及与正统信仰相悖的*顽固的*（"固执的"）错误信念。这就把注意力集中于这样的条件：一个人选择相信某个与正统天主教真理——尤其载于《圣经》者——相冲突的命题 *p*。即使已向其充分解释 *p* 与《圣经》相冲突，其仍坚持选择相信 *p*，这表明其固执，因此可以判定为异端（第 4 卷）。这一解释过程——某种意义上的教育之举——称为"正当纠正"，教会内任何无谬误的虔信基督徒或基督徒群体都可以正当地施行。就确立一个人发觉并纠正异端的权威而言，制度权力与位阶的作用不及正统天主教信仰的知识来得决定性。
+    step2: |-
+      《对话》第一部分论异端与异端者。奥卡姆铺开一个巨大的话题场：先问哪一组专家——神学家还是教会法学家——有权裁断异端事务（第 1 卷）；继而转向*何谓*异端，这就必须谈其反面，即正统天主教真理及其来源（第 2 卷），再问*谁*算得上异端（第 3 卷）。至此豁然：异端并不只是某种与正统信仰相悖的错误信念。毋宁说，奥卡姆提出：异端涉及*顽固的*（"固执的"）错误信念，悖于正统信仰。焦点由此落在这样的条件上：一个人选择相信命题 *p*，而 *p* 与正统天主教真理——尤其《圣经》所载——相冲突。若已向其充分讲明 *p* 与《圣经》相悖，仍执意信 *p*，便见其固执，故可判为异端（第 4 卷）。这一讲明的过程——某种教育之举——称为"正当纠正"；教会内任何无讹的虔信基督徒或基督徒群体，皆可正当地施行。就确立纠察并纠正异端的权威而论，制度权力与位阶的分量，不及正统天主教信仰的知识来得重。
   - id: 118
     kind: body
     source: |-
       The inclusion of pertinacity as a necessary criterion for being a heretic, as well as the introduction of legitimate correction as the first and primary corrective for suspected heresy, indicates that Ockham is open to a limited degree of what we would now call freedom of thought and expression (see Kilcullen 1999 for this reading)[^kilcullen-1999]. Limited, to be sure, to well-meaning and knowledge-seeking Christians who are discussing their faith. As long as one is ready to be corrected, and avoids being pertinacious, there is some latitude for debate especially amongst experts such as theologians.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把固执纳入作为异端的一个必要判据，并把正当纠正作为对疑似异端的首要纠正手段引入，表明奥卡姆对我们会称之为思想自由与表达自由的东西持有限度的开放态度（这一解读见 Kilcullen 1999）[^kilcullen-1999]。当然，仅限于善意而求知的、讨论自己信仰的基督徒。只要一个人准备接受纠正、避免固执，辩论就还有某种余地，尤其在神学家这样的专家之间。
+    step2: |-
+      将固执列为异端的必要判据，又把正当纠正立为疑似异端的第一位的、主要的纠正手段——这表明奥卡姆对今日所谓思想与表达自由，容纳到有限的程度（此读法见 Kilcullen 1999）[^kilcullen-1999]。有限，自然：仅限于善意求知的、讨论自身信仰的基督徒。只要甘受纠正、不作固执，辩论便有余地——在神学家这类专家之间尤然。
   - id: 119
     kind: body
     source: |-
       From here, Ockham launches a comprehensive discussion of whether different members of the Church can become heretics, treating sequentially the pope, cardinals, the Roman Church, the general council, the clergy, and eventually, the whole totality of Christian believers (Book 5). Scholarly consensus is that Ockham holds the view that no one member or group of members of the Church is infallible, including the pope. Consequently, *any* such member or group of members can become heretics. Accepting Christ’s promise that “I am with you always, even unto the end of the world” (Matthew 28:20), Ockham holds, by contrast, that the *whole* Church can never err. At any given moment until the Last Judgment, there will be at least one unerring and non-heretical believing Christian who will preserve the Christian faith and make good on Christ’s promise. Part I is completed with a discussion on the punishment of heretics, especially of a heretic pope (Book 6) and how to deal with their supporters (Book 7). Part I of the *Dialogue* presents, in sum, an immense study of religious belief, authority, and power in society as well as the role and responsibility of individual believing Christians in preserving their faith against any threat to that faith, even when that threat originates in the very highest office of the institution of the Church.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从这里，奥卡姆对教会的不同成员能否变成异端展开全面讨论，依次处理教皇、枢机主教、罗马教会、大公会议、教士，最后是基督徒信众的全体（第 5 卷）。学术共识是，奥卡姆持如下观点：教会中没有任何成员或成员群体是无谬误的，包括教皇。因此，*任何*这样的成员或成员群体都可能变成异端。相反，奥卡姆接受基督的应许"我就常与你们同在，直到世界的末了"（《马太福音》28:20），主张*整个*教会永远不会犯错。直到末日审判之前的任何时刻，都至少会有一个无讹而非异端的虔信基督徒，他会守护基督信仰，兑现基督的应许。第一部分以对异端者惩罚的讨论——尤其是异端教皇（第 6 卷）——以及如何处置其支持者（第 7 卷）收尾。总而言之，《对话》第一部分呈现了对社会中宗教信仰、权威与权力的巨大研究，以及对个别虔信基督徒在守护信仰、抵御对该信仰的任何威胁——哪怕威胁来自教会建制中最高的职位——方面的角色与责任的研究。
+    step2: |-
+      由此，奥卡姆全面讨论教会的各类成员能否沦为异端，依次处理教皇、枢机、罗马教会、大公会议、教士，直至基督徒信众全体（第 5 卷）。学界共识：奥卡姆认为教会中没有任何成员或成员群体无谬——教皇亦不例外。故*任何*此类成员或群体皆可能沦为异端。另一方面，奥卡姆接受基督的应许——"我就常与你们同在，直到世界的末了"（《马太福音》28:20）——主张*整个*教会永无谬误。直到末日审判的任何时刻，都至少有一位无讹而非异端的虔信基督徒，守护基督信仰，兑现基督的应许。第一部分末尾讨论异端者的惩罚——尤其异端教皇（第 6 卷）——及其支持者的处置（第 7 卷）。要言之，《对话》第一部分对宗教信仰、权威与社会权力作了一场宏大研究，兼及个别虔信基督徒在守卫信仰、抵御一切威胁——哪怕威胁来自教会建制中最高职位——方面的角色与责任。
   - id: 120
     kind: body
     source: |-
       ### 8.3 Spiritual and Temporal Power
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 8.3 精神权力与世俗权力
+    step2: |-
+      ### 8.3 精神权力与世俗权力
   - id: 121
     kind: body
     source: |-
       A heretical pope poses an existential threat to the Christian community of such proportions that if no member or group of members of the Church is able or willing to depose him, then the temporal power, the head of which is a monarch or an emperor, may intervene. The pope is the head of the spiritual power on earth, but as we have seen this does not render him infallible or immune from censure and punishment. Like his more radical political contemporary and fellow exile at Ludwig of Bavaria’s court, Marsilius of Padua, Ockham sees papal overreach as the source of major social, political, and religious unrest. In particular, Ockham targets claims to an absolutist conception of papal “fullness of power”, a doctrine according to which the pope can do whatever he wants as long as this does not contravene divine and natural law (*Breviloquium* II, c. 1, *OPol* IV, 110–11, and following chapters). One of Ockham’s arguments against the doctrine is that it would follow that all Christians would be the pope’s slaves. The preservation of human liberty, therefore, is a primary consideration for rejecting the doctrine of papal fullness of power.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      异端教皇对基督徒共同体构成生存性威胁，其规模之大，以至于如果教会中没有任何成员或成员群体能够或愿意废黜他，那么以君主或皇帝为首脑的世俗权力便可干预。教皇是地上精神权力的首脑，但如我们所见，这并不使他无谬误或免受谴责与惩罚。与他更激进的政论同代人、同样流亡于巴伐利亚的路德维希宫廷的帕多瓦的马西利乌斯一样，奥卡姆把教皇越权视为重大社会、政治与宗教动荡的根源。奥卡姆特别针对的是对教皇"完全的权力"的绝对主义构想的宣称；按照这一学说，只要不违反神法与自然法，教皇想做什么就可以做什么（《短论》II, c. 1, *OPol* IV, 110–11 及以下各章）。奥卡姆反对这一学说的论证之一是：它将推出所有基督徒都是教皇的奴隶。因此，守护人的自由是拒斥教皇权力完全学说的一个首要考虑。
+    step2: |-
+      异端教皇对基督徒共同体构成生存性威胁，规模之大：若教会中无人——无论个员还是群体——能废黜或愿废黜他，那么以君主或皇帝为首的世俗权力便可出手干预。教皇是地上精神权力之首，但如前所见，这并不使他无谬，也不使他免于谴责与惩罚。与他更激进的政论同代人、同在巴伐利亚的路德维希宫廷流亡的帕多瓦的马西利乌斯一样，奥卡姆把教皇越权看作社会、政治与宗教大动荡的源头。他尤其抨击教皇"完全的权力"的绝对主义构想：依此学说，只要不违背神法与自然法，教皇想做什么就做什么（《短论》II, c. 1, *OPol* IV, 110–11 及以下各章）。奥卡姆反对该学说的论证之一是：据此推演，全体基督徒尽成教皇之奴。故守护人的自由，是拒斥教皇权力完全说的首要考虑。
   - id: 122
     kind: body
     source: |-
       Ockham’s discussion of papal power ultimately forms part of a larger set of views on the origin and nature of spiritual and temporal power, as well as the relations that ought to obtain between them, which he explores in a number of political writings including Part III of the *Dialogue* as well as the *Short Discourse* and *Eight Questions on the Power of the Pope*. In effect, Ockham pursues a dualist path: the two powers are distinct and independent from one another in their separate spheres, both with respect to their origin and their nature, i.e., their governing structures, jurisdictional limits, and responsibilities (to Christians in the case of the spiritual power, to peoples and citizens in the case of temporal power). The origin question is important: Ockham wants to show that temporal power is not subservient to spiritual power in temporal matters, and does not owe its legitimacy to the papacy especially. As with the institution of property, Ockham proposes that after the Fall God permits human beings to organize into political communities, and that we do in fact choose to do so (*Breviloquium* III, c. 7 and 8, *OPol* IV, 180–1). In this way, he is able to argue that non-believing political communities like the pre-Christian Roman Empire are as legitimate as Christian political communities, and neither derive their legitimacy and authority from the pope.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆关于教皇权力的讨论最终构成了一个更大观点集合的一部分，即关于精神权力与世俗权力的起源与本性、以及二者之间应有的关系的观点；他在多部政治著作中探讨这一主题，包括《对话》第三部分以及《短论》与《论教皇权力八问》。实际上，奥卡姆走的是一条二元论路线：两种权力在各自领域中彼此独立而不同——就其起源与本性而言皆然，即就其治理结构、管辖界限与职责而言（精神权力对基督徒负责，世俗权力对民众与公民负责）。起源问题很重要：奥卡姆想表明，世俗权力在世俗事务上并不臣属于精神权力，尤其不把其正当性归功于教皇职位。与财产制度的情形一样，奥卡姆提出：堕落之后，上帝允许人类组织成政治共同体，而且我们事实上确实选择这样做（《短论》III, c. 7 与 8, *OPol* IV, 180–1）。由此，他能够论证：像前基督教的罗马帝国这样的非信仰政治共同体与基督教政治共同体同样正当，而且二者都不从教皇那里获得其正当性与权威。
+    step2: |-
+      奥卡姆论教皇权力，最终汇入一个更大的观点体系：精神权力与世俗权力的起源与本性，以及二者应然的关系。他在多部政治著作中探究这一主题：《对话》第三部分、《短论》与《论教皇权力八问》。实际上，奥卡姆取的是二元论路线：两种权力在各自领域中彼此分立、互不统属——起源与本性皆然；所谓本性，即治理结构、管辖界限与职责（精神权力对基督徒负责，世俗权力对民众与公民负责）。起源问题尤为要紧：奥卡姆要表明，世俗权力在世俗事务上并不臣属于精神权力，其正当性尤其不欠教皇之情。与财产制度一样，奥卡姆提出：堕落之后，上帝允许人类组织成政治共同体，而我们也确实作了这样的选择（《短论》III, c. 7 与 8, *OPol* IV, 180–1）。由此他能论证：前基督教的罗马帝国这类非信仰政治共同体，与基督教政治共同体同样正当；而且二者都不从教皇取得其正当性与权威。
   - id: 123
     kind: body
     source: |-
       The jurisdiction that temporal rulers have is remarkably restrained. Ockham suggests that their central and immediate purpose is the preservation of law and order (see, e.g., *Octo quaestiones de potestate papae* 13, c. 8, *OPol* 1, 112–13). By maintaining law and order, temporal rulers are able to keep sufficient peace within the community so that its members are free to conduct their own legally permitted activities and pursuits. The jurisdiction that spiritual leaders have is more extensive, since they are in charge of the spiritual well-being of all Christians in this life and the next. Under normal circumstances, Ockham argues that the two powers are expected to refrain from interfering with one another. They each go about exercising their authority and jurisdiction in their respective spheres, the one regarding temporal matters and the other regarding spiritual matters. However, under very exigent and exceptional circumstances, one power can intervene in the other. Ockham formulates this as the distinction between the “regular” and “occasional” exercise of power. An example is, of course, a pope who becomes a heretic and thereby endangers the spiritual life of the Christian community. If no one within the Church can or will depose him, then the temporal ruler can. The converse holds as well.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      世俗统治者拥有的管辖权相当受限。奥卡姆提出，其中心而直接的目的在于维护法律与秩序（例如见 *Octo quaestiones de potestate papae* 13, c. 8, *OPol* 1, 112–13）。通过维护法律与秩序，世俗统治者得以在共同体内部保持充分的和平，使其成员可以自由从事法律允许的活动与追求。精神领袖拥有的管辖权更为广泛，因为他们掌管所有基督徒在今生与来世的属灵福祉。奥卡姆论证说，在正常情况下，两种权力被期望互不干涉。它们各自在各自的领域中行使权威与管辖权，一个关乎世俗事务，另一个关乎精神事务。然而，在非常紧迫而例外的情形下，一种权力可以干预另一种。奥卡姆把这表述为权力的"常规"行使与"偶发"行使之间的区分。一个例子当然是变成异端的教皇，从而危及基督徒共同体的属灵生命。如果教会内没有人能够或愿意废黜他，那么世俗统治者可以。反过来同样成立。
+    step2: |-
+      世俗统治者的管辖权相当收敛。奥卡姆提出，其中心而直接的目的，是维护法律与秩序（如见 *Octo quaestiones de potestate papae* 13, c. 8, *OPol* 1, 112–13）。守住法律与秩序，世俗统治者便能在共同体中维持足够的和平，让成员自由从事法律许可的活动与追求。精神领袖的管辖权则更广：他们掌管全体基督徒今生与来世的属灵福祉。奥卡姆论证：常态之下，两种权力应互不干涉，各在其领域中行使权威与管辖——一者管世俗，一者管属灵。然而，情势万分紧迫而例外的时刻，一种权力可介入另一种。奥卡姆把这一点表述为权力的"常规"行使与"偶发"行使之别。例证自然还是沦为异端的教皇：他由此危及基督徒共同体的属灵生命；若教会之内无人能废黜他或愿废黜他，世俗统治者便可出手。反之亦然。
   - id: 124
     kind: oir
     source: |-
@@ -1005,14 +1079,24 @@ segments:
       - [*Thoughts, Words and Things: An Introduction to Late Mediaeval Logic and Semantic Theory*](https://pvspade.com/Logic/docs/thoughts1_1a.pdf), by Paul Vincent Spade (Indiana University) [Version 1.1a, in PDF]. (Contains much on Ockham’s logic and semantics.)
       - Translation of William of Ockham, [*Concerning Virtues and Vices*](https://pvspade.com/Logic/docs/circavirtutes.htm), by Rondo Keele. (This is Keele’s translation of Ockham’s short ethical treatise *Circa virtutes et vitia*.)
       - [*Dialogus*](https://publications.thebritishacademy.ac.uk/pubs/dialogus/ockdial.html), Latin Text and English Translation, John Kilcullen, et al. (ed./trans.), sponsored by the British Academy. (Includes extremely helpful materials such as a detailed summary in English of most of the *Dialogue*.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [*中世纪逻辑与哲学*](https://pvspade.com/Logic)，Paul Vincent Spade（印第安纳大学）维护。含与奥卡姆相关的链接与在线文本，如：
+      - [*思想、语词与事物：晚期中世纪逻辑与语义理论导论*](https://pvspade.com/Logic/docs/thoughts1_1a.pdf)，Paul Vincent Spade（印第安纳大学）[Version 1.1a，PDF]。（大量涉及奥卡姆的逻辑与语义学。）
+      - 奥卡姆《论德性与恶习》英译，Rondo Keele 译。（此为 Keele 对奥卡姆短篇伦理论著 *Circa virtutes et vitia* 的翻译。）
+      - [《对话》（*Dialogus*）](https://publications.thebritishacademy.ac.uk/pubs/dialogus/ockdial.html)，拉丁文本与英译，John Kilcullen 等（编/译），英国学术院资助。（含极有用的材料，如《对话》大部分的详细英文概要。）
+    step2: |-
+      - [*中世纪逻辑与哲学*](https://pvspade.com/Logic)，Paul Vincent Spade（印第安纳大学）维护；含与奥卡姆相关的链接与在线文本，例如：
+      - [*思想、语词与事物：晚期中世纪逻辑与语义理论导论*](https://pvspade.com/Logic/docs/thoughts1_1a.pdf)，Paul Vincent Spade（印第安纳大学）[Version 1.1a，PDF]。（于奥卡姆的逻辑与语义学所论甚多。）
+      - 奥卡姆《论德性与恶习》英译，Rondo Keele 译。（即 Keele 所译奥卡姆短篇伦理论著 *Circa virtutes et vitia*。）
+      - [《对话》（*Dialogus*）](https://publications.thebritishacademy.ac.uk/pubs/dialogus/ockdial.html)，拉丁文本与英译，John Kilcullen 等（编/译），英国学术院资助。（含极有用材料，如《对话》大部分内容的详细英文提要。）
   - id: 125
     kind: ack
     source: |-
       For the update to this entry published in the summer of 2011, Claude Panaccio became a co-author, having made significant revisions to Sections 3.3, 4.2, 4.3, 6.1, and 6.2. For the update published in spring 2024, Jenny Pelletier has become a co-author. She made revisions to the whole entry and significant revisions to Sections 4 and 8. She will continue to maintain and keep the entry current. She would like to thank John Kilcullen for his helpful comments on the older version of Section 8. Her work on this entry was supported by the Swedish Research Council, Project 2020-02369.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本词条 2011 年夏发布的更新中，Claude Panaccio 成为合著者，对第 3.3、4.2、4.3、6.1 与 6.2 节作了重大修订。2024 年春发布的更新中，Jenny Pelletier 成为合著者。她修订了整个词条，并对第 4 节与第 8 节作了重大修订。她将继续维护并保持本词条与时俱进。她感谢 John Kilcullen 对第 8 节旧版提出的有益意见。她对本词条的工作得到瑞典研究理事会（Project 2020-02369）支持。
+    step2: |-
+      本词条 2011 年夏的更新中，Claude Panaccio 加入为合著者，对第 3.3、4.2、4.3、6.1、6.2 节作了大幅修订。2024 年春的更新中，Jenny Pelletier 加入为合著者：她通订全篇，并大幅修订第 4 节与第 8 节；此后将由她继续维护本词条、使其常新。她感谢 John Kilcullen 就第 8 节旧版提出的有益意见。她对本词条的工作获瑞典研究理事会资助（Project 2020-02369）。
   - id: 126
     kind: note
     source: |-
