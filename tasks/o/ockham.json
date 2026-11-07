@@ -2,7 +2,7 @@
   "slug": "ockham",
   "kind": "retranslate",
   "zh_doc": "o/ockham.md",
-  "state": "s3_checked",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "direction",
@@ -45,6 +45,20 @@
       "actor": "OR-main-20261107",
       "at": "2026-11-07T20:31:24Z",
       "evidence": "三校（体例与术语）：check_style --strict 0 issue（曾 289 curly-quotes + 4 italic-cjk，账本层 ASCII 直引号批量转弯引号 149 值块、提及语单引号改双引号避开转写撇号掩码、列表行 CJK 斜体转粗、bold-spacing 补空格）；markdownlint 0（MD004 列表 * 化 34 行）；check_academic --strict 硬错误 0；check_terms 硬错误 0；check_math unbalanced 空；check_summary --headers H1 mismatch 0。术语逐项对照登记册 19 项均一致无混杂（唯名论11/共相17/指代31/意谓60/含蓄词项18/绝对词项11/种相14/自由论题6/逻辑大全11/直观认识13/抽象认识11/神命论2/使徒贫困2/精神权力6/世俗权力7/托钵4/住院派2/属灵派1，与源文出现次数对位）；补登记 3 个派生术语（首要/次生意谓、下降到单称/从单称上升、supposit for）——先登记后使用。结构：脚注键与 yuanwen 逐字符一致（180 定义）。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "OR-main-20261108",
+      "at": "2026-11-07T22:15:34Z",
+      "evidence": "初审（对照原文自审）175 段全文通读。冷置说明（ADR-0020 单会话作业条款）：s3 后经并行会话提交收编与登记册整理隔离，回读时成稿已非初译即时状态。修 7 处：(1) seg103 「one of his central and overriding concerns」弱化为「他一个……关切」→「其核心而压倒一切的关切之一」（漏「之一」）；(2) seg104 三性质并列压缩致「可变性可错性」连读拗口 → 恢复「偶然、可变与可错」；(3) seg86 引文增译「相距甚远」→「相距」（源文仅 distant in place）；(4) seg116 「typically based on Scripture」误拆为「多本《圣经》」→「多基于《圣经》」（Critical，伪托书目形态）；(5) seg106 「奉切塞纳之命」简称致歧义（形似地名）→「奉切塞纳的迈克尔之命」；(6) note-26 「change of mind」误译「改宗」（专指改换宗教）→「改变看法」（Critical，改变原意）。通读确认：8 节 + 23 小节标题层级、引文 4 处译者标注与 emphasis、50 条脚注编号与内容、References 照录区、OIR、致谢均无漏译错位。六检复跑全绿（prose/style/lint 0，H1 mismatch 0，学术硬错误 0）。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "OR-main-20261108",
+      "at": "2026-11-07T22:34:49Z",
+      "evidence": "复审（逐句回核原文与逻辑）：(a) 逻辑连接词密度对照——中文因此12/然而8/不过14/所以6/反之3/换言之2/恰恰相反4 vs 英文 Thus10/However1/Nevertheless4/hence2/Conversely1/In short2/On the contrary3，转折与推论标记一一对位，无增译因果或漏译转折；(b) 关键论证句回核 5 处——「显得只会说『不』」(only negative)、「奥卡姆如此区分二者」(Here is how)、「争的究竟是什么」(What was at stake)、「究竟图什么」(What is the purpose)、「为免无穷倒退」(On pain of infinite regress) 全部对应；(c) §8.1 财产权论证链十步逐步核验（John 拒 use/ownership 之别→消耗品论证→自然权利不可放弃→可放弃所有权→失诉权→不可让渡权利总原则→一切财产实为私有→伊甸园无财产→排他性领主权→堕落后引入）全部到位，无逻辑断裂或颠倒。抽查中 4 处技术性 MISS 经查为 ** 加粗标记导致的字符串不匹配，非译文缺失。"
     }
   ],
   "blockers": [],
