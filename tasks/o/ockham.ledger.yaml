@@ -551,185 +551,251 @@ segments:
     kind: body
     source: |-
       > For example, for the truth of ‘Socrates is similar to Plato’, it is required that Socrates have some quality and that Plato have a quality of the same species. Thus, from the very fact that Socrates is white and Plato is white, Socrates is similar to Plato and conversely. Likewise, if both are black, or hot, [then] they are similar *without anything else added.* (*SL* II, 11, *OPh* I, p. 281. Translation by Spade; emphasis added)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 例如，要使"苏格拉底与柏拉图相似"为真，只要求苏格拉底具有某个性质，而柏拉图具有同一种的性质。于是，仅凭苏格拉底是白的而柏拉图是白的这一事实，苏格拉底就与柏拉图相似，反之亦然。同样，如果两人都是黑的，或都是热的，那么他们*无须添加任何别的东西*就相似。（*SL* II, 11, *OPh* I, p. 281. Translation by Spade; emphasis added）
+    step2: |-
+      > 例如，"苏格拉底与柏拉图相似"之为真，只要求苏格拉底具有某个性质，而柏拉图具有同种的一个性质。于是，仅凭"苏格拉底是白的、柏拉图是白的"这一点，苏格拉底便与柏拉图相似，反之亦然。同理，若两人都是黑的，或都是热的，则他们*无须添加任何别的东西*即相似。（*SL* II, 11, *OPh* I, p. 281. Translation by Spade; emphasis added）
   - id: 62
     kind: body
     source: |-
       Ockham employs the distinction between absolute and connotative terms as explained above (§3.3) in full force in his discussion of the categories. Because only substances and qualities exist, only substantial and qualitative terms are absolute.[^note-31] All other categorial terms are connotative and signify those substances and qualities in different ways. And as connotative terms, they have nominal definitions that make conspicuous their primary and secondary significates. For example, the nominal definition of the relational term ‘mother’ might be something like “female animals that produce offspring”. The first term of the definition signifies female animals and the second term signifies her offspring. The term ‘mother’, therefore, primarily signifies female animals and secondarily signifies their offspring. Yet, both female animals and their offspring are just substances. With the appropriate application of connotation theory, then, we can paraphrase sentences using categorial terms, clarifying that they only require the existence of substances and qualities.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆在讨论范畴时全力运用上文（§3.3）解释的绝对词项与含蓄词项的区分。因为只有实体与性质存在，所以只有实体性的与性质性的词项是绝对词项。[^note-31] 所有其他范畴词项都是含蓄词项，以不同的方式意谓那些实体与性质。而作为含蓄词项，它们有其名义定义，把首要与次生意谓对象彰显出来。例如，关系词项"母亲"的名义定义大概是"生育后代的雌性动物"。定义的第一个词项意谓雌性动物，第二个词项意谓她的后代。"母亲"这个词因此首要意谓雌性动物，次生意谓它们的后代。然而，雌性动物与其后代都只是实体。于是，恰当地运用含蓄理论，我们就能改写使用范畴词项的句子，澄清它们只要求实体与性质的存在。
+    step2: |-
+      在讨论范畴时，奥卡姆把上文（§3.3）解释的绝对词项／含蓄词项之区分用到极处。既然只有实体与性质存在，便只有实体性、性质性的词项是绝对词项。[^note-31] 其余一切范畴词项皆为含蓄词项，以不同方式意谓那些实体与性质；而作为含蓄词项，它们各有名义定义，将其首要与次生意谓对象彰示出来。例如，关系词项"母亲"的名义定义大概是"生育后代的雌性动物"：定义的前一词项意谓雌性动物，后一词项意谓其后代。于是，"母亲"一词首要意谓雌性动物，次生意谓其后代。可是雌性动物与其后代都只是实体。这样，运用得当的含蓄理论便能改写一切使用范畴词项的句子，点明它们只要求实体与性质的存在。
   - id: 63
     kind: body
     source: |-
       It is important to stress that Ockham is not denying that substances and their qualities are quantified, related, positioned, and so on. The sentences “A table is two meters long” and “Socrates and Plato are similar” are objectively true and verifiable of things in the world. Ockham is denying, rather, that quantitative, relational, and position terms, e.g., ‘two meters long’ and ‘similar’ pick out “little” really distinct things that exist in the ontology addition to the table and its extended parts, or to Socrates, Plato, and their qualities of whiteness.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      必须强调，奥卡姆并不否认实体及其性质是被量化的、被关联的、被安置的等等。"一张桌子两米长"与"苏格拉底和柏拉图相似"这些句子客观为真，且可就世间事物加以验证。奥卡姆否认的是：数量的、关系的与位置的词项，如"两米长"与"相似"，挑出了一些"小小的"实在不同的东西，它们在本体论中除桌子及其延展的部分之外（或除苏格拉底、柏拉图及其白的性质之外）还存在着。
+    step2: |-
+      须着重指出：奥卡姆并不否认实体及其性质被量化、被关联、被安置等等。"一张桌子两米长""苏格拉底和柏拉图相似"这些句子客观为真，亦可在世间事物上验证。他所否认的是：数量、关系、位置诸词项——如"两米长""相似"——在本体论中挑出一些"小小的"实在有别的东西，于桌子及其延展部分（或苏格拉底、柏拉图及其白的性质）之外另立存在。
   - id: 64
     kind: body
     source: |-
       ### 4.4 Material Substances and Artifacts
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.4 质料实体与人工物
+    step2: |-
+      ### 4.4 质料实体与人工物
   - id: 65
     kind: body
     source: |-
       Because Ockham’s preference for ontological parsimony is so ubiquitous, it can seem that his metaphysics is only negative. All he seems to do is argue *against* metaphysical claims that are more ontologically committing than those that are less so. While not denying this basic philosophical orientation, it should not detract from the recognition that there tends to be a positive flip side to all this. We have already seen that he does give an account of how material substances are extended. His account of the metaphysical structure of material substances, on the one hand, and of artifacts on the other, are also instructive in this regard. In both cases, it is true that he denies that material substances and artifacts are wholes existing over and above their parts. In both cases, however, he provides an explanation of what sort of wholes they are on the basis of a consideration of their parts and how their parts are unified. Arguing against Scotus, he denies the existence of an additional “form of the whole” that unifies the substantial forms and chunks of matter so as to constitute a single material substance. But this does not mean that he has no positive account of the metaphysics of material substances. On the contrary, he holds that a human being, for example, is identical to its conjoined essential parts, which are its rational and sensory souls as well as a corporeal form and its matter. In the natural order and in the absence of divine intervention, the essential parts of a material substance under particular conditions have an intrinsic disposition to unite in such a way that they form that one single material substance. Similarly, he denies the existence of an additional accidental form that would unify the parts of an artifact. Rather, an artifact like a house, for instance, is identical to a collection of natural material substances, e.g., stones, lengths of wood, etc., that have been moved locally into sufficient proximity to one another.[^note-32]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由于奥卡姆对本体论节俭的偏好无处不在，他的形而上学似乎只是消极的。他似乎所做的一切就是*反对*那些本体论承诺较多的形而上学主张，而支持承诺较少者。我们不否认这一基本哲学取向，但它不应妨碍我们认识到：这一切往往有其积极的一面。我们已经看到，他确实说明了物质实体如何有广延。他对物质实体的形而上学结构的说明，以及对人工物的说明，在这方面也富有启发性。在两种情形中，他确实否认物质实体与人工物是存在于其部分之上的整体。然而在两种情形中，他都基于对部分的考虑以及部分如何被统一的考虑，说明它们是何种整体。他反对司各脱，否认存在一个额外的"整体形式"来统一诸实质形式与一块块质料，以构成一个单一的物质实体。但这不意味着他对物质实体的形而上学没有积极的说明。恰恰相反，他主张，例如，人同一于其结合着的本质部分，即其理性灵魂与感觉灵魂，以及一个形体形式与其质料。在自然秩序中、在没有神圣干预的情况下，物质实体的本质部分在特定条件下有一种内在倾向，会以这样的方式联合起来，形成那一个单独的物质实体。类似地，他否认存在一个额外的偶性形式来统一人工物的诸部分。毋宁说，像房子这样一个人工物，同一于一堆自然物质实体——例如石头、一段段木头等等——它们已被就地移动到彼此充分接近的位置。[^note-32]
+    step2: |-
+      奥卡姆处处偏爱本体论节俭，以致他的形而上学显得只会说"不"：似乎他做的一切就是*反驳*本体论承诺较多的形而上学主张，偏袒承诺较少者。这一基本取向固然不假，但它不应遮蔽另一面：这一切往往另有其积极的翻转面。前文已见，他确实说明了物质实体如何有广延；他对物质实体之形而上学结构的说明，连同对人工物的说明，在这方面同样富于启发。两种情形下，他固然都否认物质实体与人工物是凌驾于部分之上的整体；但两种情形里，他都通过考察其部分及部分如何被统一，说明了它们是怎样的整体。他驳司各脱，否认有额外的"整体形式"统一诸实质形式与一块块质料以构成单一的物质实体。但这绝不等于他对物质实体的形而上学没有正面说明。恰恰相反：例如他主张，人同一于其结合在一起的诸本质部分——理性灵魂与感觉灵魂，外加一个形体形式及其质料。在自然秩序中、在无神圣干预时，物质实体的本质部分在特定条件下内在地倾向于联合，从而构成那一个单独的物质实体。同样，他否认有额外的偶性形式统一人工物的诸部分；毋宁说，房子这类人工物同一于一堆自然物质实体——石块、木料等等——它们被就地移置到彼此充分接近之处。[^note-32]
   - id: 66
     kind: body
     source: |-
       ## 5. Natural Philosophy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. 自然哲学
+    step2: |-
+      ## 5 自然哲学
   - id: 67
     kind: body
     source: |-
       Ockham’s “physics” or natural philosophy is of a broadly Aristotelian sort, although he interprets Aristotle in his own fashion. Ockham wrote a great deal in this area, although many of those topics we would now classify as metaphysical.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆的"物理学"或自然哲学大体上是亚里士多德式的，尽管他以自己的方式解释亚里士多德。奥卡姆在这一领域写了大量东西，尽管其中许多话题我们现在会归入形而上学。
+    step2: |-
+      奥卡姆的"物理学"即自然哲学，大体属亚里士多德一路，尽管他按自己的方式解读亚里士多德。他在这一领域著述甚丰，只是其中许多论题放到今天该算形而上学。
   - id: 68
     kind: body
     source: |-
       As a nominalist about universals, Ockham had to deal with the Aristotelian claim in the *Posterior Analytics* that science pertains to certain propositions about that which is universal and necessary. He discusses this issue in the Prologue to his *Exposition of the Physics*,[^note-33] and there agrees with Aristotle. But he interprets Aristotle’s *dictum* as saying that knowledge bears upon certain propositions with general (i.e., universal) terms in them. It is only in this sense that science deals with the universal. This of course does not mean that for Ockham our scientific knowledge can never move beyond the level of language to actual things. He distinguishes various senses of ‘to know’ (*scire*, from which we get “*scientia*” and “science”):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作为共相问题上的唯名论者，奥卡姆不得不应对《后分析篇》中亚里士多德的主张：科学关乎关于普遍且必然者的某些命题。他在《〈物理学〉诠注》的序言中讨论了这个问题，[^note-33] 并在那里同意亚里士多德。但他把亚里士多德的格言解释为：知识关涉含有普遍（即共相）词项的某些命题。只有在这个意义上，科学才处理普遍者。这当然不意味着在奥卡姆看来，我们的科学知识永远不能越过语言的层面达至实际事物。他区分了"知道"（*scire*，"*scientia*"与"science"的来源）的各种意义：
+    step2: |-
+      作为共相唯名论者，奥卡姆必须面对《后分析篇》中亚里士多德的主张：科学关乎普遍且必然者的某些命题。他在《〈物理学〉诠注》序言中处理了这一问题[^note-33]，并在那里站在亚里士多德一边。但他把亚里士多德的这句格言解读为：知识关涉含有普遍（即共相）词项的某些命题——科学只有在这个意义上才处理普遍者。这当然不意味着：在奥卡姆看来，我们的科学知识永远越不过语言层面去触及实际事物。他区分了"知道"（*scire*，"*scientia*"与"science"之所自出）的种种意义：
   - id: 69
     kind: body
     source: |-
       - In one sense, “to know” is to know a proposition, or a term in that proposition. It is in this sense that the object of a science is universal, and this is what Aristotle had in mind.
       - In another sense, we can be said “to know” what the proposition is about, what its terms supposit for. What we know in this sense is always metaphysically individual, since for Ockham there is nothing else. This is not the sense in which Aristotle was speaking.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 在一种意义上，"知道"就是知道一个命题，或该命题中的一个词项。正是在这种意义上，科学的对象是普遍的，这也是亚里士多德心中所想。
+      - 在另一种意义上，我们可以说"知道"命题所谈论的东西，知道其词项所指代的东西。这种意义上的所知在形而上学上总是单个的，因为对奥卡姆来说此外别无他物。这可不是亚里士多德说话时所指的意义。
+    step2: |-
+      - 在一种意义上，"知道"是知道一个命题，或命题中的一个词项。科学的对象正是在这一意义上是普遍的——亚里士多德所想的也是这个。
+      - 在另一种意义上，我们可以说"知道"命题谈论的是什么、其词项指代的是什么。这种意义上的所知在形而上学上总是单独的，因为在奥卡姆那里，此外别无他物。这却不是亚里士多德说话时所取的意义。
   - id: 70
     kind: body
     source: |-
       As described earlier (§4.3), Ockham holds that we do not need to allow special entities in all ten of Aristotle’s categories. In particular, we do not need them in the category of quantity. For Ockham, there is no need for real mathematical entities such as numbers, points, lines, and surfaces as distinct from singular substances and qualities. Apparent talk about such things can invariably be parsed away via the theory of connotation in favor of talk about substances and qualities. This Ockhamist move is illustrative of, and was influential on, an important development in late medieval physics, namely the application of mathematics to non-mathematical things, culminating in Galileo’s famous statement that the “book of nature” is written in the “language of mathematics”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如前文（§4.3）所述，奥卡姆主张我们无须在亚里士多德全部十个范畴中设立特殊实体。尤其是量的范畴，我们不需要它们。在奥卡姆看来，诸如数、点、线、面这类不同于单个实体与性质的实在数学实体并无必要。关于这类东西的表面谈论，总是可以经由含蓄理论被解析掉，代之以关于实体与性质的谈论。这一奥卡姆式动作例示了、也影响了中世纪晚期物理学的一个重要发展，即把数学应用于非数学的东西，其顶点是伽利略的名言："自然之书"是用"数学的语言"写成的。
+    step2: |-
+      前文（§4.3）已述，奥卡姆主张：无须在亚里士多德全部十个范畴中都设立特殊实体——数量范畴尤其不需要。在他看来，数、点、线、面这类有别于单个实体与性质的实在数学实体并不需要；关于此类东西的表面谈论，尽可经含蓄理论解析掉，换成关于实体与性质的谈论。这一奥卡姆式手法例示并影响了中世纪晚期物理学的一项重要发展：把数学应用于非数学的东西——其极致便是伽利略的名言，"自然之书"以"数学的语言"写成。
   - id: 71
     kind: body
     source: |-
       Such an application of mathematics violates a traditional Aristotelian prohibition against *metabasis eis allo genos,* grounded on quite reasonable considerations. The basic idea is that things cannot be legitimately compared in any respect in which they differ in species. Thus, it makes little sense to ask whether the soprano’s high C is higher or lower than Mount Everest—much less to ask (quantitatively) *how much* higher or lower it is. But for Aristotle, straight lines and curved lines belong to different species of lines. Hence, they cannot be meaningfully compared or measured against one another. The same holds for rectilinear motion and circular motion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      数学的这种应用违反了亚里士多德传统上对 *metabasis eis allo genos*（跨类）的禁令，该禁令基于相当合理的考虑。基本想法是：事物在其种上不同的任何方面都不能被合法地比较。因此，问女高音的高音 C 比珠穆朗玛峰高还是低几乎没有意义——更不用问（定量地）高多少或低多少。但在亚里士多德那里，直线与曲线属于线的不同的种。因此，不能有意义地相互比较或测量。直线运动与圆周运动亦然。
+    step2: |-
+      如此运用数学，触犯了亚里士多德一条传统禁令——*metabasis eis allo genos*（越类跨种），而这条禁令自有其相当合理的根据。其基本想法是：事物凡在其所属的种上有别之处，便不得作正当比较。因此，问女高音的高音 C 比珠穆朗玛峰高还是低，几乎没有意义——更遑论（定量地）问高多少、低多少。但在亚里士多德那里，直线与曲线分属不同的线之种，故不能彼此有意义地比较或测量。直线运动与圆周运动同样如此。
   - id: 72
     kind: body
     source: |-
       Although the basic idea is reasonable enough, Ockham recognized that there are problems. The length of a coiled rope, for example, can straightforwardly be compared to the length of an uncoiled rope, and the one can meaningfully be said to be longer or shorter than, or equal in length to, the other. For that matter, a *single* rope surely stays the same length, whether it is coiled or extended full-length. Ockham’s solution to these problems is to note that, on his ontology, straight lines and curved lines are not *really* different species of lines—because lines are not extra things in the first place. Talk about lines is simply a “manner of speaking” about substances and qualities (taking into account only one of their dimensions, say, their length, while disregarding others, namely, their width and depth).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管基本想法相当合理，奥卡姆认识到其中有问题。例如，一根盘绕的绳子的长度可以直截了当地与一根未盘绕的绳子的长度相比较，而且可以有意义的说一根比另一根长、短或长度相等。就此而言，*同一根*绳子，无论盘绕还是完全展开，长度当然保持不变。奥卡姆对这些问题的解决办法是指出：在他的本体论中，直线与曲线并*不*是线之不同的种——因为线本来就不是额外的东西。关于线的谈论只是关于实体与性质的"一种说话方式"（只考虑它们的一个维度，如长度，而不顾其他维度，即宽度与深度）。
+    step2: |-
+      基本想法固然合理，奥卡姆却看出其中有问题。例如，一盘绕起的绳索，其长度尽可与展直的绳索直接相比，且可以有意义地说孰长孰短或等长。再进一层：*同一根*绳索，无论盘起还是展至全长，长度固然不变。奥卡姆的解法是指出：依他的本体论，直线与曲线并*非*真正不同的线之种——因为线根本不是额外的存在物。谈线不过是谈论实体与性质的"一种说法"（只计及其一个维度如长度，而不计其他维度即宽度与深度）。
   - id: 73
     kind: body
     source: |-
       Thus, to compare a “curved” (coiled) rope with a “straight” (uncoiled) one is not really to talk about the lengths of lines in two different species; it is to talk about two *ropes*. To describe the one as curved (coiled) and the other as straight (uncoiled) is not to appeal to specifically different kinds of entities—curvature and straightness—but merely to describe the ropes in ways that can be expounded according to two different patterns. Since such talk does not have ontological implications that would require specifically different kinds of entities, the Aristotelian prohibition of *metabasis* does not apply.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，把一根"弯的"（盘绕的）绳子与一根"直的"（未盘绕的）绳子相比较，实际上不是在谈论两个不同的种的线的长度；而是在谈论两根*绳子*。把这根描述为弯的（盘绕的）、把那根描述为直的（未盘绕的），并不是诉诸种上不同的实体种类——弯曲与笔直——而只是按两种不同的样式可以展开的方式描述绳子。既然这种谈论不具有要求种上不同实体种类的本体论意涵，亚里士多德对 *metabasis* 的禁令便不适用。
+    step2: |-
+      因此，把"弯"（盘起）绳与"直"（展开）绳相比，其实并非在谈两个不同种的线之长度，而是在谈两根*绳子*。称一根为弯（盘起）、另一根为直（展开），并没有诉诸种上不同的实体种类——弯曲与笔直——只是按两种不同的样式展开地描述绳子。这种谈论既不带有要求种上不同实体的本体论意涵，亚里士多德对 *metabasis* 的禁令自然落空。
   - id: 74
     kind: body
     source: |-
       Once one realizes that we can appeal to connotation theory, and more generally the theory of exposition, without invoking new entities, the door is opened to applying mathematical analyses (all of which are exponible, for Ockham) to all kinds of things, and in particular to physical nature.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一旦认识到我们可以诉诸含蓄理论——更一般地说，展开理论——而不引入新实体，把数学分析（在奥卡姆看来全都是可展开的）应用于各种东西、尤其是物理自然的大门便打开了。
+    step2: |-
+      一旦意识到：诉诸含蓄理论——更一般地，展开理论——无须引入任何新实体，那么把数学分析（在奥卡姆看来无一不可展开）施用于万事万物、尤其是物理自然的大门就此敞开。
   - id: 75
     kind: body
     source: |-
       Ockham’s contributions were by no means the only factor in the increasing mathematization of science in the fourteenth century. But they were important ones.[^note-34]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆的贡献绝不是十四世纪科学日益数学化的唯一因素。但它们是重要的因素。[^note-34]
+    step2: |-
+      十四世纪科学日益数学化，奥卡姆的贡献绝非唯一的推力，却是重要的一股。[^note-34]
   - id: 76
     kind: body
     source: |-
       ## 6. Theory of Knowledge
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6. 知识论
+    step2: |-
+      ## 6 知识论
   - id: 77
     kind: body
     source: |-
       Like most medieval accounts of knowledge, Ockham’s is not much concerned with answering skeptical doubts. He takes it for granted that humans not only can but frequently do know truths about the world, and focuses his attention instead on the mechanisms by which this knowledge comes about.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与大多数中世纪知识论述一样，奥卡姆的知识论不太关心回应怀疑论的质疑。他理所当然地认为，人类不仅能知道、而且经常确实知道关于世界的真理；他把注意力转向这种知识得以产生的机制。
+    step2: |-
+      与多数中世纪知识论一样，奥卡姆并不怎么操心回应怀疑论的疑难。人类不仅能认识、而且常常确实认识到关于世界的真理——在他这是理所当然；他关注的毋宁是这种认识赖以产生的机制。
   - id: 78
     kind: body
     source: |-
       ### 6.1 The Rejection of Species
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.1 对种相的拒斥
+    step2: |-
+      ### 6.1 对种相的拒斥
   - id: 79
     kind: body
     source: |-
       Ockham’s theory of knowledge, like his natural philosophy, is broadly Aristotelian, although—again, like his natural philosophy—it is Aristotelian in its own way. For most Aristotelians of the day, knowledge involved the transmission of a “*species*”[^note-35] between the object and the mind. At the sensory level, the sensory species may be compared to the more recent notion of a sense impression. More generally, we can think of it as the structure or configuration of the object that can be “encoded” in different ways and found isomorphically in a variety of contexts. One recent author, describing the theory as it occurs in Aquinas, puts it like this:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆的知识论如同他的自然哲学，大体是亚里士多德式的，尽管——同样如同他的自然哲学——它是以自己的方式亚里士多德式的。对当时大多数亚里士多德主义者而言，知识涉及一种"种相"[^note-35]在对象与心灵之间的传递。在感觉层面，感觉种相可以比之于较晚近的感官印象概念。更一般地说，我们可以把它看作对象的结构或构型，它可以以不同方式被"编码"，并在各种语境中以同构方式被发现。一位晚近的作者这样描述这一理论在阿奎那那里的形态：
+    step2: |-
+      奥卡姆的知识论一如其自然哲学，大体属亚里士多德一路——但也一如其自然哲学，是自成一格的亚里士多德主义。在当日多数亚里士多德派看来，知识涉及"种相"[^note-35]在对象与心灵之间的传递。感觉层面上的感觉种相，可以比之于晚近所谓的感官印象。更一般地说，不妨把它看作对象的结构或构形：它可以"编码"为不同的形态，而在种种语境中被同构地发现。一位晚近作者如此描述阿奎那笔下的这套理论：
   - id: 80
     kind: body
     source: |-
       > Consider, for example, blueprints. In a blueprint of a library, the configuration of the library itself, that is, the very configuration that will be in the finished library, is captured on paper but in such a way that it does not make the paper itself into a library. Rather, the configuration is imposed on the paper in a different sort of way from the way it is imposed on the materials of the library. What Aquinas thinks of as transferring and preserving a configuration we tend to consider as a way of encoding information. (Stump 1999: 170)[^stump-1999]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 想想蓝图。在一张图书馆的蓝图中，图书馆自身的构型——也就是落成的图书馆中将有的那个构型——被捕捉在纸上，但其方式并不使纸本身变成一座图书馆。毋宁说，构型被加诸纸上的方式不同于它被加诸图书馆材料的方式。阿奎那视为传递并保存构型的东西，我们倾向于视为编码信息的一种方式。（Stump 1999: 170）[^stump-1999]
+    step2: |-
+      > 试以蓝图为例。在图书馆的蓝图上，图书馆自身的构型——即落成的图书馆中将存在的那一构型——被捕获在纸上，却不至于使纸变成图书馆；构型加诸纸的方式，不同于它加诸图书馆建材的方式。阿奎那所谓传递并保存构型者，在我们看来不过是编码信息的一种方式。（Stump 1999: 170）[^stump-1999]
   - id: 81
     kind: body
     source: |-
       The configuration of features found in the external object is also found in encoded form as a species in the organ that senses the object. (Depending on the sense modality, it may also be found in an intervening medium. For example, with vision and hearing, the species is transmitted through the air to the sense organ.) At the intellectual level, the so-called “agent intellect” goes to work on this species, extracting out of it an intelligible species from which it somehow produces the universal concept that is the raw material of intellectual cognition.[^note-36]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在外部对象中发现的特征构型，也以编码形式作为一个种相存在于感知对象的感觉器官中。（依感觉模态的不同，它也可能存在于中介媒质中。例如，就视觉与听觉而言，种相经由空气传到感觉器官。）在理智层面，所谓"能动理智"对这一种相施加工夫，从中提炼出一个可理智的种相，并以某种方式由之产生作为理智认知原材料的普遍概念。[^note-36]
+    step2: |-
+      外部对象身上的特征构型，也以编码形式作为一个种相存在于感知该对象的感觉器官之中。（视感觉通道而定，它还可能存在于居间的媒质里：例如视觉与听觉，种相便经由空气传抵感官。）在理智层面，所谓"能动理智"对该种相加工，从中提炼出可理智种相，再以某种方式由此产生普遍概念——理智认知的原材料。[^note-36]
   - id: 82
     kind: body
     source: |-
       Ockham rejected this entire theory of species. For him, both sensory and intellectual species are unnecessary for a successful theory of cognition, and he dispenses with them by appealing to the Razor. Moreover, he argues, species theory is not supported by experience. Introspection reveals no such species in our cognitive processes.[^note-37] His rejection of the species theory of cognition, which had been foreshadowed by several previous authors (such as Henry of Ghent in the thirteenth century), was an important development in late medieval epistemology (For a discussion, see Tachau 1988)[^tachau-1988].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆拒斥了这一整套种相理论。在他看来，无论感觉种相还是理智种相，对于一个成功的认知理论都是不必要的；他诉诸剃刀将它们摒弃。而且他论证说，种相理论得不到经验的支持。内省在我们的认知过程中揭示不出这种种相。[^note-37] 他的这一认知种相理论之拒斥——此前已有几位作者（如十三世纪的根特的亨利）为之张本——是中世纪晚期知识论的一个重要发展（讨论见 Tachau 1988）[^tachau-1988]。
+    step2: |-
+      奥卡姆把这套种相理论整个儿拒之门外。在他看来，无论感觉种相还是理智种相，一个成功的认知理论都用不着；他一运剃刀，将其尽除。何况他论证道：种相理论没有经验支撑——内省在我们认知过程中根本找不到这种种相。[^note-37] 对这一认知种相理论的拒斥（此前已有若干作者为之张本，如十三世纪的根特的亨利），是中世纪晚期知识论的一大发展（讨论见 Tachau 1988）[^tachau-1988]。
   - id: 83
     kind: body
     source: |-
       ### 6.2 Intuitive and Abstractive Cognition
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.2 直观认识与抽象认识
+    step2: |-
+      ### 6.2 直观认识与抽象认识
   - id: 84
     kind: body
     source: |-
       One of the more intriguing features of late medieval epistemology in general, and of Ockham’s view in particular, is the development of a theory known as “intuitive and abstractive cognition”. The theory is found in authors as diverse as Duns Scotus, Peter Auriol, Walter Chatton, and Ockham. But, their theories of intuitive and abstractive cognition are so different that it is hard to see any one thing they are all supposed to be theories of. Nevertheless, at a first approximation, intuitive cognition can be thought of as perception, whereas abstractive cognition is closer to imagination, remembering, and generalizing or conceptual thought. The fit is not exact, however, since authors who had a theory of intuitive and abstractive cognition usually also allowed the distinction at the *intellectual* level as well. In Ockham’s case, his theory of intuitive cognition helps explain that we can cognize an individual as an individual on both the sensory and the intellectual level. Many medieval philosophers tended to deny that we can have direct intellectual cognition of an individual, believing that sensory cognition was of an individual while intellectual cognition was of a universal.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      中世纪晚期知识论总体上、尤其是奥卡姆的观点中，一个较引人入胜的特征是所谓"直观认识与抽象认识"理论的发展。这一理论见于邓斯·司各脱、彼得·奥雷奥利、沃尔特·查顿与奥卡姆等迥异的作者。但他们的直观认识与抽象认识理论彼此如此不同，以至于很难看出它们全都是关于同一件事的理论。尽管如此，作为初步近似，直观认识可以想成知觉，而抽象认识更接近想象、记忆与概括性的或概念性的思考。不过这种对位并不严格，因为持有直观认识与抽象认识理论的作者通常也允许这一区分在*理智*层面成立。就奥卡姆而言，他的直观认识理论有助于解释：我们何以能在感觉与理智两个层面上把个体作为个体来认识。许多中世纪哲学家倾向于否认我们能对个体有直接的理智认识，认为感觉认识以个体为对象，而理智认识以共相为对象。
+    step2: |-
+      中世纪晚期知识论——奥卡姆的观点尤甚——有一个相当耐人寻味的特点：所谓"直观认识与抽象认识"理论的发展。这套理论散见于邓斯·司各脱、彼得·奥雷奥利、沃尔特·查顿、奥卡姆这些迥然不同的作者笔下。但诸家的直观／抽象认识理论相差太远，简直看不出它们究竟是不是同一样东西的理论。尽管如此，作初步的近似：直观认识可当作知觉，抽象认识则更近于想象、记忆与概括性的概念思考。不过对位并不严丝合缝：持直观／抽象认识论的作者通常也允许这组区分在*理智*层面成立。就奥卡姆而论，其直观认识理论正好解释了：无论在感觉层面还是理智层面，我们都能把个体作为个体来认识。许多中世纪哲学家倾向否认我们对个体能有直接的理智认识——感觉认识以个体为对象，理智认识以共相为对象，他们如是想。
   - id: 85
     kind: body
     source: |-
       It is important to note, however, that abstractive cognition does not necessarily have to do with abstraction in the sense of producing universal concepts from cognitive encounters with individuals. What abstractive cognition abstracts from is the question of the *existence or non-existence* of the object. By contrast, intuitive cognition is very much tied up with the existence or non-existence of the object. Here is how Ockham distinguishes them:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而必须注意，抽象认识并不必然与从对个体的认知相遇中产生普遍概念这种意义上的抽象有关。抽象认识所抽象掉的是对象的*存在或不存在*问题。相比之下，直观认识则与对象的存在或不存在紧密相干。奥卡姆是这样区分它们的：
+    step2: |-
+      然而须当注意：抽象认识并不必然关乎"从与个体的认知照面中产出普遍概念"意义上的抽象。抽象认识所撇开（抽象）的，是对象的*存在与否*问题；直观认识恰恰相反，与对象的存在与否紧密缠绕。奥卡姆如此区分二者：
   - id: 86
     kind: body
     source: |-
       > For intuitive cognition of a thing is a cognition such that by virtue of it, it can be known whether the thing exists or not, in such a way that if the thing does exist, the intellect at once judges it to exist and evidently knows it to exist … Likewise, intuitive cognition is such that when some things are known, one of which inheres in the other or the one is distant in place from the other or is related in another way to the other, it is at once known by virtue of the incomplex cognitions of those things whether the thing inheres or does not inhere, whether it is distant or not distant, and so on for other contingent truths …
       >
       > Abstractive cognition, however, is that by virtue of which it cannot be evidently known of the thing whether it exists or does not exist. And in this way abstractive cognition, as opposed to intuitive cognition, ‘abstracts’ from existence and non-existence, because by it neither can it be evidently known of an existing thing that it exists, nor of a non-existent one that it does not exist. (*Sent.* I, Prologue, q. 1, *OTh* I, pp. 31–2. Translation by Spade)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 因为一个东西的直观认识是这样一种认识：凭借它，可以知道该东西存在还是不存在，而且，如果该东西确实存在，理智立即判断它存在并明证地知道它存在……同样，直观认识是这样的：当一些东西被认识时——其中一个内在于另一个，或一个与另一个在空间上相距，或以别的方式相关——凭借对这些东西的非复合认识，立即知道该东西内在于还是不内在于，相距还是不相距，其他偶然真理亦然……
+      >
+      > 然而，抽象认识是这样一种认识：凭借它，不能明证地知道该东西存在还是不存在。就这样，抽象认识与直观认识相对，从存在与不存在中"抽象"出来，因为凭借它，对于存在的东西既不能明证地知道它存在，对于不存在的东西也不能明证地知道它不存在。（*Sent.* I, Prologue, q. 1, *OTh* I, pp. 31–2. Translation by Spade）
+    step2: |-
+      > 一个东西的直观认识是这样一种认识：凭借它便能知道该东西存在与否；而且倘若该东西确实存在，理智便当即判断其存在，并明证地知其为存在……同样，当若干东西被认识——其一内在于另一，或一者在空间上距另一者甚远，或以别的方式与另一者相关——直观认识使人凭借对那些东西的非复合认识，当即知道该东西内在于否、相距与否，其余偶然真理依此类推……
+      >
+      > 抽象认识则不然：凭借它，无从明证地知道该东西存在与否。就此而言，抽象认识与直观认识相对，是从存在与不存在那里"抽象"出来的——凭借它，对存在的东西明证不了其存在，对不存在的东西也明证不了其不存在。（*Sent.* I, Prologue, q. 1, *OTh* I, pp. 31–2. Translation by Spade）
   - id: 87
     kind: body
     source: |-
       Ockham’s main point here is that an intuitive cognition *naturally* causes in the mind a number of true *contingent* judgments about the external thing(s) that caused this intuitive cognition. For example, that this thing exists, that it is white, that is at such-and-such a distance from another thing, and so on. This does not prevent God from deceiving any particular creature if He wants to, even when an intuitive cognition is present, but in such a case God would have to neutralize the natural causal effect of this intuitive cognition (this is something He can always do, according to Ockham) and directly cause instead a false judgment. Intuitive cognitions, on the other hand, can sometimes induce false beliefs, too, if the circumstances are abnormal (in cases of perceptual illusions in particular), but even then, they would still cause some true contingent judgments. The latter at any rate is their distinctive feature. Abstractive cognitions, by contrast, are not such as to naturally cause true judgments about contingent matters.[^note-38]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆在这里的要点是：直观认识*自然地*在心灵中引起若干关于引起该直观认识的外部东西的*偶然的*真实判断。例如：这个东西存在，它是白的，它与另一个东西相距如此这般，等等。这并不妨碍上帝想欺骗任何特定受造物就欺骗，即使直观认识在场；但在这种情况下，上帝必须中和这一直观认识的自然的因果效果（据奥卡姆，这是他总能做到的），转而直接引起一个假判断。另一方面，直观认识有时也能引起假信念，如果情形反常（尤其在知觉错觉的情形中）；但即便如此，它们仍会引起若干真实的偶然判断。后者无论如何是它们的独特特征。相比之下，抽象认识则不会自然地引起关于偶然事项的真实判断。[^note-38]
+    step2: |-
+      奥卡姆此处的主旨是：直观认识会*自然地*在心灵中引发若干*偶然的*真实判断，所关涉者正是引起这一直观认识的外部事物：此物存在、此物是白的、此物与彼物相距如此这般，等等。这不妨碍上帝想哄骗哪个受造物就哄骗哪个——即便直观认识在场；只是那样一来，上帝得先中和该直观认识的天然因果效果（据奥卡姆，这他总能做到），再直接引发一个假判断。反过来，直观认识有时也会引出假信念——若情形反常（尤其知觉错觉之时）；但即便如此，它们仍会引发若干真实的偶然判断。后者无论如何是它们独有的标记。抽象认识则不然：它不会自然地引发关于偶然事项的真实判断。[^note-38]
   - id: 88
     kind: body
     source: |-
       ## 7. Ethics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7. 伦理学
+    step2: |-
+      ## 7 伦理学
   - id: 89
     kind: body
     source: |-
       Ockham’s ethics combines a number of themes.[^note-39] Scholars continue to debate how to best characterize his ethics. It is a will-based ethics in which intentions, that is, free and voluntary acts of willing, count for everything. External behavior or actions are morally neutral in themselves. They derive their moral worth from the intentions that underlie them. So, two people can perform the same act—say walking to church, to use a common medieval example—but the person who walks to church because she wants to worship God is morally praiseworthy while the person who walks to church because he wants to gossip with his neighbors is not.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆的伦理学糅合了若干主题。[^note-39] 学者们仍在争论如何最好地刻画他的伦理学。这是一种以意志为根基的伦理学，其中意图——即自由而自愿的意愿行为——就是一切。外在行为或行动本身在道德上是中性的；它们的道德价值来自其底下的意图。因此，两个人可以做出同一个行为——比如步行去教堂，用一个常见的中世纪例子——但因为想崇拜上帝而步行去教堂的人在道德上值得赞扬，而因为想与邻居闲聊而步行去教堂的人则不然。
+    step2: |-
+      奥卡姆的伦理学糅合了多个主题。[^note-39] 他的伦理学该如何定性，学界至今聚讼未定。这是一套以意志为本的伦理学：意图——自由而自愿的意愿行为——就是一切；外在行为或行动本身道德上中立，其道德价值全从底下的意图而来。于是，两个人可以行同一个行为——比如步行去教堂，这是中世纪的老例子——但因想敬拜上帝而去者在道德上值得称赞，因想与邻人闲谈而去者则不然。
   - id: 90
     kind: body
     source: |-
       There is also a strong dose of divine command theory in Ockham’s ethics. Certain things, namely certain intentions, become morally obligatory, permitted, or forbidden simply because God decrees so. Thus, in Exodus, the Israelites’ “spoiling the Egyptians” (or rather their intention to do so, which they carried out) was not a matter of theft or plunder, but was morally permissible and indeed obligatory—because God had commanded it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆的伦理学中也有很浓的神命论成分。某些东西——即某些意图——成为道德上义务的、允许的或禁止的，仅仅因为上帝如此谕令。因此，在《出埃及记》中，以色列人"向埃及人讨取财物"（或者更确切地说，他们这样做的意图，并付诸实施）不是偷窃或抢劫的问题，而是道德上允许的甚至义务的——因为上帝如此命令。
+    step2: |-
+      神命论在奥卡姆伦理学中的分量也着实不轻。某些东西——确切说，某些意图——之所以成为道德上的义务、许可或禁止，全凭上帝一道谕令。《出埃及记》里，以色列人"向埃及人讨取财物"（不如说，他们讨取的意图，且付诸实施了）不算偷窃或抢掠，而是道德上允许乃至义务的——因为上帝如此吩咐。
   - id: 91
     kind: body
     source: |-
