@@ -1,4 +1,4 @@
-# 韩国佛教 Korean Buddhism
+# 韩国佛教 Buddhism (Lucy Hyekyung Jee)
 
 
 

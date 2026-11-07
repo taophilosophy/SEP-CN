@@ -1,4 +1,4 @@
-# 鸠摩利罗·跋陀 Kumārila
+# 鸠摩利罗·跋陀 Kumārila (Daniel Arnold)
 
 
 

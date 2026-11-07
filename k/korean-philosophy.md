@@ -1,4 +1,4 @@
-# 韩国哲学 Korean Philosophy
+# 韩国哲学 Korean Philosophy (Halla Kim)
 
 
 

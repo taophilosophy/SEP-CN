@@ -1,4 +1,4 @@
-# 大阿尔伯特 Albert the Great (Bruno Tremblay)
+# 艾尔伯图斯·麦格努斯（大阿尔伯特）Albert the Great [= Albertus magnus] (Bruno Tremblay)
 
 **首次发表于 2025 年 11 月 30 日。**
 

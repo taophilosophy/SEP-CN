@@ -1,4 +1,4 @@
-# 阿拉伯和伊斯兰哲学中的神秘主义 Mysticism in Arabic and Islamic Philosophy (Mehdi Aminrazavi)
+# 阿拉伯和伊斯兰哲学中的神秘主义 mysticism (Mehdi Aminrazavi)
 
 **首次发表于 2009 年 3 月 7 日；2021 年 1 月 19 日实质修订。**
 
