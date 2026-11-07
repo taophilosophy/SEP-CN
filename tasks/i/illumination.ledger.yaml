@@ -269,182 +269,242 @@ segments:
     kind: body
     source: |-
       One might try assimilating this line of thought to those passages where Augustine has in mind necessary a priori truths. But it is more natural to take this in a different way, as an account of how the mind goes beyond the sensible data to a grasp of the real essences of things. Accordingly, the theory of divine illumination would be put to two very different sorts of work in the later Middle Ages: as an account of a priori knowledge, and as an account of concept formation. Each account raises its own set of issues. Taken in the first way, divine illumination has to compete against the claim that the mind is naturally capable of grasping such truth. Taken in the second way, questions immediately arise about the nature of conceptual knowledge. Do essences (or properties in general) exist in the physical world? Do they exist only in the divine mind? Do the senses play any role in the process of concept formation? Later medieval philosophers would handle these issues in interestingly different ways.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们或许会试图把这一思路与奥古斯丁那些论必然先天真理的段落归并起来。但更自然的做法是另作理解，把它看作对心灵如何越过可感材料、把握事物真实本质的说明。据此，在后期中世纪，神圣光照理论将被用于两类极不相同的工作：既作为先天知识的解释，也作为概念形成的解释。每种用法都各有其问题。取第一种用法，神圣光照须与“心灵天然便能把握这类真理”的主张竞争。取第二种用法，关于概念性知识之本性的问题随即涌现：本质（或一般而言的诸性质）存在于物理世界之中吗？抑或仅存在于神圣心灵之中？感官在概念形成过程中有任何作用吗？后期中世纪哲学家会以耐人寻味的不同方式处理这些问题。
+    step2: |-
+      这一思路固然可以与奥古斯丁论必然先天真理的段落合流，但更自然的读法是另辟一解：把它当作心灵如何越过可感材料、把握事物真实本质的说明。如此一来，光照理论在后期中世纪便被派上两类截然不同的用场：解释先天知识，或解释概念形成。两条路各有各的问题。走第一条，光照理论须直面“心灵凭本性即可把握这类真理”的竞争者。走第二条，概念知识之本性的难题接踵而至：本质（或一般性质）究竟存于物理世界，还是仅存于神圣心灵？概念形成过程中感官有没有一席之地？后期中世纪哲学家处理这些问题的方式，歧异得耐人寻味。
   - id: 32
     kind: body
     source: |-
       ## 4. Thirteenth-century Franciscans
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. Thirteenth-century Franciscans
+    step2: |-
+      ## 4 十三世纪的方济各会
   - id: 33
     kind: body
     source: |-
       Augustine’s position would remain ascendant among Christian philosophers for most of the Middle Ages. Thirteenth-century Franciscans, led by figures such as Bonaventure (c.1217–1274) and Matthew of Aquasparta (c.1237–1302), gave the theory a detailed and systematic defense, focusing on the changeability and hence uncertainty of the human mind and the sensory world (see Marrone 2001)[^marrone-2001]. Bonaventure characteristically argues,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥古斯丁的立场将在中世纪的大部分时间里保持优势地位。以波纳文图拉（约 1217–1274）与阿夸斯帕尔塔的马修（约 1237–1302）为代表的十三世纪方济各会士对这一理论作了细致而系统的辩护，聚焦于人类心灵与感官世界的可变性及由此而来的不确定性（见 Marrone 2001）[^marrone-2001]。波纳文图拉以他惯有的方式论证道：
+    step2: |-
+      中世纪的大部分时间里，奥古斯丁的立场在基督教哲学家中一直占上风。十三世纪的方济各会士——以波纳文图拉（约 1217–1274）与阿夸斯帕尔塔的马修（约 1237–1302）为代表——为该理论提供了细致而系统的辩护，其焦点是：人类心灵与感官世界皆可变，故皆不确定（见 Marrone 2001）[^marrone-2001]。波纳文图拉惯常的论证如下：
   - id: 34
     kind: body
     source: |-
       > Things have existence in the mind, in their own nature (*proprio genere*), and in the eternal art. So the truth of things as they are in the mind or in their own nature — given that both are changeable — is sufficient for the soul to have certain knowledge only if the soul somehow reaches things as they are in the eternal art (*De scientia Christi*, q.4 resp.).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 事物存在于心灵之中，存在于其自身本性（*proprio genere*）之中，也存在于永恒技艺之中。故事物就其存在于心灵中或其自身本性中而言的真——鉴于二者皆可变——只有当灵魂以某种方式达于事物在永恒技艺中的所是时，才足以使灵魂拥有确定的知识（《论基督的知识》*De scientia Christi*，q.4 resp.）。
+    step2: |-
+      > 事物存在于心灵中，存在于其自身本性（*proprio genere*）中，也存在于永恒技艺中。因此，事物就其在心灵中或在其自身本性中而言的真理——既然二者皆可变——唯当灵魂以某种方式触及事物在永恒技艺中的所是，方足以令灵魂拥有确定的知识（《论基督的知识》*De scientia Christi*，q.4 resp.）。
   - id: 35
     kind: body
     source: |-
       Certain knowledge requires steadfast unchangeability. Since that can be found only in the divine mind, and since we have access to the divine mind only through illumination, certain knowledge requires illumination. (On the early thirteenth century see Faucher 2019; on Bonaventure see Solignac 2022.)[^faucher-2019][^solignac-2022]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      确定的知识要求坚固不变的恒定性。既然唯有神圣心灵中有这种恒定性，而我们又唯有通过光照才能通达神圣心灵，那么确定的知识便要求光照。（关于十三世纪早期见 Faucher 2019；关于波纳文图拉见 Solignac 2022。）[^faucher-2019][^solignac-2022]
+    step2: |-
+      确定的知识需要坚固的不变性。不变性唯神圣心灵中有之，而我们唯有借光照才能通达神圣心灵，故确定的知识需要光照。（十三世纪早期见 Faucher 2019；波纳文图拉见 Solignac 2022。）[^faucher-2019][^solignac-2022]
   - id: 36
     kind: body
     source: |-
       This line of argument came to seem increasingly old-fashioned as the thirteenth century progressed. The growing influence of Aristotle’s theory of cognition, as developed in particular by the Dominican friars Albert the Great (c.1200–1280) and his student, Thomas Aquinas (c.1225–1274), offered an impressive picture of how human beings might be able to achieve certain knowledge despite the changeability of mind and matter. These developments struck many Franciscans as a betrayal of Christianity. John Pecham (c.1225–1292), in a letter dating from 1285, writes
-    step1: TBD
-    step2: TBD
+    step1: |-
+      随着十三世纪的推进，这条论证路线显得越来越过时。亚里士多德认知理论影响日增——其发展尤见于道明会士大阿尔伯特（约 1200–1280）及其学生托马斯·阿奎那（约 1225–1274）——这幅图景令人信服地说明：尽管心灵与质料皆可变，人类如何仍可能获得确定的知识。在许多方济各会士看来，这些发展是对基督教的背叛。约翰·佩卡姆（约 1225–1292）在 1285 年的一封信中写道：
+    step2: |-
+      十三世纪往后，这条论证路线越来越显得陈旧。亚里士多德认知理论的影响与日俱增——道明会士大阿尔伯特（约 1200–1280）与其学生托马斯·阿奎那（约 1225–1274）尤其着力——它令人信服地勾勒出另一幅图景：纵使心灵与质料皆可变，人依然可以获致确定的知识。在许多方济各会士眼中，这些发展无异于对基督教的背弃。约翰·佩卡姆（约 1225–1292）在 1285 年的一封信里写道：
   - id: 37
     kind: body
     source: |-
       > I do not in any way disapprove of philosophical studies, insofar as they serve theological mysteries, but I do disapprove of irreverent innovations in language, introduced within the last twenty years into the depths of theology against philosophical truth and to the detriment of the Fathers, whose positions are disdained and openly held in contempt.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我绝不反对哲学研究，只要它服务于神学的奥秘；但我反对语言上的轻慢创新——它们在最近二十年间被引入神学深处，违背哲学真理，且损及教父们，其立场遭到蔑视并被公然轻侮。
+    step2: |-
+      > 哲学研究我全然不反对，只要它们服务于神学的奥秘。我反对的是言语上的轻慢创新：最近二十年间，它们被引入神学的深处，有违哲学真理，也使教父们蒙受轻视，其立场遭人鄙薄、公然轻侮。
   - id: 38
     kind: body
     source: |-
       Continuing, Pecham criticizes the doctrine
-    step1: TBD
-    step2: TBD
+    step1: |-
+      佩卡姆接着批评这样一种学说：
+    step2: |-
+      佩卡姆接着把矛头指向这样一种学说：
   - id: 39
     kind: body
     source: |-
       > which fills the entire world with wordy quarrels, weakening and destroying with all its strength what Augustine teaches concerning the eternal rules and the unchangeable light…. (quoted in Gilson 1955, p.359)[^gilson-1955].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 它以冗言的争吵填满整个世界，竭尽所能地削弱并摧毁奥古斯丁关于永恒规则与不变之光所教导的一切……（转引自 Gilson 1955, p.359）[^gilson-1955]。
+    step2: |-
+      > 它以字面的争吵填满整个世界，竭尽全力地削弱、败坏奥古斯丁关于永恒规则与不变之光的教导……（转引自 Gilson 1955, p.359）[^gilson-1955]。
   - id: 40
     kind: body
     source: |-
       At roughly the same time, Roger Marston (c.1235–1303) writes of those who, “drunk on the nectar of philosophy … twisted toward their own sense all of Augustine’s authoritative texts on the unchanging light and the eternal rules” (*Quaestiones disputatae de anima* 3 ad 30).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      大约同时，罗杰·马斯顿（约 1235–1303）这样写道那些人：“沉醉于哲学之蜜……把奥古斯丁关于不变之光与永恒规则的全部权威文本都扭向自己的意思”（《论灵魂问题集》*Quaestiones disputatae de anima* 3 ad 30）。
+    step2: |-
+      大约同一时期，罗杰·马斯顿（约 1235–1303）写到了那些人：“沉醉于哲学的琼浆……把奥古斯丁关于不变之光与永恒规则的一切权威文本，都扭成了自己的意思”（《论灵魂问题集》*Quaestiones disputatae de anima* 3 ad 30）。
   - id: 41
     kind: body
     source: |-
       Marston’s view is particularly interesting because he proposes a synthesis of Augustine and Aristotle. On his view,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      马斯顿的观点格外耐人寻味，因为他提出了一种奥古斯丁与亚里士多德的综合。依他的看法，
+    step2: |-
+      马斯顿的观点尤其耐人寻味：他提出了一种奥古斯丁与亚里士多德的综合。依他所见，
   - id: 42
     kind: body
     source: |-
       > It is necessary to posit in our mind, beyond the phantasms or abstracted species, something by which we to some degree attain the unchanging truths. I believe this to be no different than the influence of the eternal light…. For the eternal light, irradiating the human mind, makes a certain active impression on it, from which a certain passive impression is left in it, which is the formal principle of cognizing the unchanging truths (*De anima* 3, p.263).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 必须在我们的心灵中、在幻象或被抽象的种相之外，设定某种东西，我们借此在某种程度上把握不变的真理。我认为这与永恒之光的作用并无不同……永恒之光照射人类心灵，在心灵中留下某种主动的印记，由此又在其中留下某种被动的印记，后者即认知不变真理的形式原理（《论灵魂》3, p.263）。
+    step2: |-
+      > 必须在我们的心灵中、在幻象或被抽象的种相之外，再设定某种东西，我们借此才多少能触及不变的真理。我认为它与永恒之光的作用并无二致……永恒之光辐照人类心灵，在其上造成某种主动的印记，由此又在其内留下某种被动的印记，而后者正是认知不变真理的形式原理（《论灵魂》3, p.263）。
   - id: 43
     kind: body
     source: |-
       Rather than dismiss the agent intellect as superfluous, Marston follows Alexander of Aphrodisias et al. in treating the agent intellect as separate and divine — indeed, as God himself. Earlier in the thirteenth century, William of Auvergne (c.1180–1249) had in effect identified the agent intellect with God (*The Soul* 7.6; cf. Gilson 1926–27, pp.67–72)[^gilson-1926]. Such cases illustrate how the various medieval disputes over whether human beings might share a single intellect — so absurd on their face — are in fact simply alternative formulations of the dispute over divine illumination. But there were subtle differences among the various approaches. So whereas Auvergne largely turns his back on Aristotle, Marston is more accommodating. In addition to the divine agent intellect, he allows that each human being possesses its own agent intellect.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      马斯顿没有把主动理智斥为多余，而是追随阿弗罗狄西亚的亚历山大等人，把主动理智当作分离且神性的东西——实际上就是上帝本身。十三世纪早些时候，奥弗涅的威廉（约 1180–1249）事实上已把主动理智等同于上帝（《论灵魂》*The Soul* 7.6；参 Gilson 1926–27, pp.67–72）[^gilson-1926]。这些案例说明：中世纪围绕人类是否可能共享一个理智的种种争论——乍看之下荒诞不经——实际上不过是神圣光照之争的另一种表述。但各家进路之间也有微妙的差别。奥弗涅的威廉基本背对亚里士多德，马斯顿则更为宽容：除了那个神性的主动理智之外，他还允许每个人拥有自己的主动理智。
+    step2: |-
+      马斯顿并未把主动理智斥为冗余，而是追随阿弗罗狄西亚的亚历山大等人，视之为分离且神性的东西——干脆说，就是上帝本身。十三世纪更早的时候，奥弗涅的威廉（约 1180–1249）已在事实上把主动理智与上帝等同（《论灵魂》*The Soul* 7.6；参 Gilson 1926–27, pp.67–72）[^gilson-1926]。这些案例表明：中世纪围绕“人类是否共享一个理智”的种种争论——乍看荒诞至极——其实只是神圣光照之争的换一种说法。不过各家之间仍有微妙差别：奥弗涅的威廉大体背对亚里士多德，马斯顿则更肯让步——神性的主动理智之外，他还允许每个人各有一个自己的主动理智。
   - id: 44
     kind: body
     source: |-
       On Marston’s account, Aristotle and Augustine turn out to be entirely in harmony: each uses his own terminology to defend the same theory of divine illumination (*De anima* 3, p. 258). Étienne Gilson (1933) has characterized Marston’s position as an Avicennized Augustinianism (*Augustinisme avicennisant*). But this label prejudices the case in favor of Aquinas’s perspective: it assumes that Marston has been seduced by an Islamic misreading of Aristotle, and it closes off the possibility that Augustine and Aristotle might have more in common than is typically allowed.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按马斯顿的说法，亚里士多德与奥古斯丁竟然完全一致：各用各的术语捍卫同一个神圣光照理论（《论灵魂》3, p. 258）。艾蒂安·吉尔松（Gilson，1933）把马斯顿的立场刻画为“阿维森纳化的奥古斯丁主义”（*Augustinisme avicennisant*）。但这个标签预先偏向阿奎那的视角：它假定马斯顿已被一种伊斯兰式亚里士多德误读所诱，并堵死了奥古斯丁与亚里士多德可能有比通常所许更多的共同点的可能。
+    step2: |-
+      依马斯顿之说，亚里士多德与奥古斯丁竟全然相谐：各用各的术语，捍卫的却是同一个神圣光照理论（《论灵魂》3, p. 258）。Gilson（1933）把马斯顿的立场称为“阿维森纳化的奥古斯丁主义”（*Augustinisme avicennisant*）。但这一标签预先站在了阿奎那的视角一边：它假定马斯顿已被一种伊斯兰式的亚里士多德误读所诱惑，并堵死了另一种可能——奥古斯丁与亚里士多德之间的共同点，或许远比通常所容许的更多。
   - id: 45
     kind: body
     source: |-
       The case of Peter John Olivi (1247/8–1298) demonstrates how precarious a position the illumination theory held by the 1280s. Olivi, a Franciscan whose work would eventually be condemned by his own order, presents a compelling critique of the Augustinian illumination theory (*I Sent*., q. 2), presenting his comments in the form of “cautions” (*cavenda*). The theory, he notes, is often very vague with respect to the actual process of illumination. And in running through the various possible accounts of the process available to a defender of the theory, Olivi appears to rule out every one. The eternal reasons cannot represent things distinctly and specifically, because then we would have no need of any sensory input. But if the eternal reasons give us information only of a general and indistinct sort, then at what level of generality? Does it supply us with information about species, or genera? If divine illumination is efficacious at any level, why do we seem to need the senses for all of our concepts? Olivi’s questions and cautions go on and on. But after laying an entire minefield of this sort for anyone who would defend divine illumination — at ad 6 he rejects the Augustinian argument set out above by Bonaventure — he nevertheless comes to the surprising conclusion that he accepts the theory:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      彼得·约翰·奥利维（1247/8–1298）的案例表明，到 1280 年代，光照理论的处境已何其岌岌可危。奥利维是一名方济各会士，其著作最终将遭本会谴责。他对奥古斯丁光照理论提出了有力的批评（《第一句集》*I Sent*.，q. 2），以“戒慎”（*cavenda*）的形式呈现其评论。他指出，这一理论就光照的实际过程而言常常十分含糊。而当他逐一清点该理论辩护者可用的各种可能解释时，奥利维似乎把每一种都排除了。永恒理据（eternal reasons）不可能以清晰而种属特异的方式表象事物，因为那样我们就根本不需要任何感官输入。但若永恒理据只给我们一般而含混的信息，那么其一般性到什么层级？它提供的是关于种的信息，还是关于属的信息？如果神圣光照在任何层级都有效，为什么我们的所有概念似乎仍需要感官？奥利维的提问与戒慎层出不穷。在为任何想要捍卫神圣光照的人布下整整这样一片雷区之后——在 ad 6 处他拒绝了上文波纳文图拉的奥古斯丁式论证——他竟得出令人意外的结论：他接受这一理论：
+    step2: |-
+      彼得·约翰·奥利维（1247/8–1298）的例子最见 1280 年代光照理论的处境之危。奥利维身为方济各会士，其著作最终将被本会定罪。他对奥古斯丁光照理论发起了强劲批评（《第一句集》*I Sent*.，q. 2），其评论以“戒慎”（*cavenda*）的形式出之。他指出，该理论对光照的实际过程往往语焉不详。而把该理论辩护者手中各种可能的过程解释逐一过堂之后，奥利维几乎将它们一网打尽。永恒理据（eternal reasons）不可能清晰而种属特异地表象事物——否则我们根本无需感官输入。但若永恒理据只给一般而含混的信息，那这“一般”要到哪个层级？它提供的是关于种的信息，还是关于属的？若神圣光照在任一层级都有效，为何我们的一切概念看起来仍离不开感官？奥利维的诘问与戒慎层出不穷。给一切光照辩护者布好这整片雷区之后——在 ad 6 处他驳斥了上文波纳文图拉的奥古斯丁式论证——他竟出人意料地宣布接受该理论：
   - id: 46
     kind: body
     source: |-
       > These things, since I don’t know how to analyze them fully, I set out only as cautions. For although the stated position is in itself venerable (*sollemnis*) and sensible, it could nevertheless be quite dangerous to those who are not carefully supervised. And so I hold the stated position as it is, because it belongs to men who are highly venerable. Nevertheless I leave an exposition of the above to their wisdom (q. 2, pp. 512–13).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 这些事情，由于我不知如何充分分析，我只作为戒慎提出。因为上述立场虽然本身可敬（*sollemnis*）而且合乎情理，但对那些缺乏悉心督导的人来说可能相当危险。所以我把上述立场照原样持守，因为它属于极其可敬的人们。尽管如此，我把对上述内容的阐释留给他们睿智的判断（q. 2, pp. 512–13）。
+    step2: |-
+      > 这些事项，由于我不知如何全盘分析，只作为戒慎列出。上述立场虽本身可敬（*sollemnis*）且合于情理，但对缺少悉心督导的人而言可能相当危险。故我照原样持守这一立场，因为它出自极其可敬的人们。阐释之责，我则留给他们的智慧（q. 2, pp. 512–13）。
   - id: 47
     kind: body
     source: |-
       This was a favorite strategy of Olivi’s: to criticize a theory fiercely, exposing seemingly devastating difficulties, and then to embrace the theory anyway, as a pious gesture of respect. It’s hard to resist reading between the lines, and concluding that dusk was fast approaching for the theory of divine illumination.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这是奥利维惯用的策略：先猛烈批评一个理论，暴露出看似致命的困难，然后出于虔敬的尊崇姿态照样拥抱这个理论。很难不让人读出言外之意：神圣光照理论的黄昏已迫在眉睫。
+    step2: |-
+      这是奥利维惯用的策略：先把一个理论批得体无完肤，摆出貌似致命的困难，然后又出于虔敬的姿态将其拥抱。言外之意不难读出：神圣光照理论的黄昏已近在眼前。
   - id: 48
     kind: body
     source: |-
       ## 5. Thomas Aquinas
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. Thomas Aquinas
+    step2: |-
+      ## 5 托马斯·阿奎那
   - id: 49
     kind: body
     source: |-
       Thomas Aquinas is often thought of as the figure most responsible for putting an end to the theory of divine illumination. Although there is some truth to this view, as we will see, it seems more accurate to regard Aquinas as one of the last defenders of the theory, as a proponent of innate Aristotelian illumination.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      托马斯·阿奎那常被视为终结神圣光照理论责任最大的人物。这一看法虽有几分道理（我们将会看到），但更准确的说法似乎是：阿奎那是该理论最后的辩护者之一，是“亚里士多德式内在光照”的主张者。
+    step2: |-
+      人们常把托马斯·阿奎那看作终结神圣光照理论的第一责任人。此说有几分道理，我们下面会看到；但更准确的说法也许是：阿奎那其实是这一理论最后的辩护者之一——亚里士多德式内在光照的拥护者。
   - id: 50
     kind: body
     source: |-
       A vivid example of the way Aquinas moves from an Augustinian to an Aristotelian framework occurs in his Treatise on Human Nature (*Summa theologiae* 1a 75–89), where he considers the Augustinian claim that “pure truth should not be looked for from the senses of the body” (84.6 obj. 1). In reply, Aquinas invokes the Aristotelian agent intellect:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      阿奎那如何从奥古斯丁框架移步至亚里士多德框架，《人性论》（《神学大全》*Summa theologiae* 1a 75–89）中有一个生动的例子。他在那里讨论奥古斯丁的断言：“不应从肉体感官中寻找纯粹真理”（84.6 obj. 1）。作为回应，阿奎那诉诸亚里士多德的主动理智：
+    step2: |-
+      阿奎那由奥古斯丁框架移向亚里士多德框架，《人性论》部分（《神学大全》*Summa theologiae* 1a 75–89）提供了一个生动的实例。他在那里处理奥古斯丁的断言“不应从肉体感官寻求纯粹真理”（84.6 obj. 1），回应时诉诸亚里士多德的主动理智：
   - id: 51
     kind: body
     source: |-
       > From those words of Augustine we are given to understand that truth is not *entirely* to be looked for from the senses. For we require the light of agent intellect, through which we unchangeably cognize the truth in changeable things, and we distinguish the things themselves from the likenesses of things (ad 1).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 从奥古斯丁的这些话中我们得知，真理并非全然要从感官中寻找。因为我们需要主动理智之光，凭借它我们在可变之物中不变地认知真理，并把事物本身与事物的影像区分开来（ad 1）。
+    step2: |-
+      > 由奥古斯丁的这些话我们当知，真理并非*全然*要从感官寻求。我们需要主动理智之光：凭它，我们在可变之物中不变地认知真理，并把事物本身与事物的相似影像区分开来（ad 1）。
   - id: 52
     kind: body
     source: |-
       It is not at all clear, here or elsewhere, how the agent intellect carries out the two tasks he describes. (If Aquinas had given us a satisfactory account of this, he would have thereby solved two of the leading problems of epistemology.) But for present purposes it is enough to notice how Aquinas seems to replace Augustinian illumination with the Aristotelian agent intellect. Thus the traditional verdict has been that Aquinas replaced Augustine with Aristotle, and exchanged illumination for abstraction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      主动理智究竟如何完成他所描述的两项任务，此处乃至他处都不清楚。（如果阿奎那对此给出过令人满意的解释，他等于一举解决了认识论的两个头号难题。）但就眼下的目的而言，注意到阿奎那如何以亚里士多德的主动理智替换奥古斯丁式光照，就够了。于是传统的评判是：阿奎那以亚里士多德替换奥古斯丁，以抽象替换光照。
+    step2: |-
+      主动理智究竟怎样完成他所描述的两项任务，此处乃至别处都语焉不详。（阿奎那若对此给出过令人满意的解释，认识论的两个头号难题便已一并得解。）但就眼下目的而言，看清阿奎那如何用亚里士多德的主动理智顶替奥古斯丁式光照，已经足够。于是传统定论是：阿奎那以亚里士多德替换了奥古斯丁，以抽象替换了光照。
   - id: 53
     kind: body
     source: |-
       There is more to the story. In the immediately preceding article, Aquinas explicitly discusses Augustinian divine illumination, and reaches the affirmative conclusion that “the intellective soul does cognize all true things in the eternal reasons” (84.5sc). Often this affirmative conclusion gets treated as little more than lip service to the authority of Augustine, and the article as a whole gets taken as a backhanded repudiation of illumination theory: affirming the theory in form but denying it in substance. This is a misreading. Aquinas sees something important in Augustine’s theory, something worth preserving.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      事情不止于此。就在前一篇文章中，阿奎那明确讨论了奥古斯丁式神圣光照，并得出肯定结论：“理智灵魂确实在永恒理据中认知一切真的事物”（84.5sc）。人们常把这个肯定结论当作对奥古斯丁权威的敷衍应付，把整篇文章当作对光照理论的迂回否弃：形式上肯定，实质上否认。这是误读。阿奎那在奥古斯丁理论中看到了某种重要的东西，某种值得保留的东西。
+    step2: |-
+      但故事还有另一半。紧邻的前一篇文章中，阿奎那明明白白讨论了奥古斯丁式神圣光照，并得出肯定结论：“理智灵魂确实在永恒理据中认知一切真实之物”（84.5sc）。这个肯定结论常被视作对奥古斯丁权威的口惠，整篇文章则被读作对光照理论的迂回否弃——形式上肯定，实质上取消。这是误读。阿奎那在奥古斯丁的理论里看见了某种重要的东西，某种值得保留的东西。
   - id: 54
     kind: body
     source: |-
       Aquinas does reject certain conceptions of divine illumination. He denies that human beings in this life have the divine ideas as an *object* of cognition. And he denies that divine illumination is sufficient on its own, without the senses. Neither of these claims was controversial. What Aquinas further denies, and what was controversial, was the claim that there is a special ongoing divine influence, constantly required for the intellect’s operation. Aquinas instead argues that human beings possess a sufficient capacity for thought on their own, without the need for any “new illumination added onto their natural illumination” (*Summa theol*. 1a2ae 109.1c). From one perspective this makes for an important difference between Aquinas and his Franciscan contemporaries. But from another perspective the difference seems slight, because Aquinas is by no means removing God from the picture. Here is how he expresses his endorsement of illumination theory:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      阿奎那确实拒绝了对神圣光照的某些构想。他否认今世的人把神圣理念作为认知的*对象*。他也否认神圣光照离开感官可以单独充分。这两条主张都并无争议。阿奎那进一步否认的、也真正引起争议的，是这样一种主张：存在一种特殊的持续神圣影响，理智运作时刻需要它。阿奎那转而主张：人类凭自身便拥有足够的思考能力，无需任何“加于其自然光照之上的新光照”（《神学大全》*Summa theol*. 1a2ae 109.1c）。从一个视角看，这使阿奎那与其方济各会同代人判然有别。但从另一个视角看，差别似乎不大，因为阿奎那丝毫没有把上帝排除出局。他是这样表达自己对光照理论的拥护的：
+    step2: |-
+      阿奎那确实拒斥了神圣光照的某些构想：他否认今世之人能以神圣理念作为认知的*对象*；他否认神圣光照脱离感官即可自足。这两条并无争议。真正有争议的，是阿奎那进一步否认的东西：存在一种特殊的、持续的神圣影响，理智的每一运作都时刻需要它。阿奎那转而主张，人凭自身便具备充分的思考能力，无需任何“加于自然光照之上的新光照”（《神学大全》*Summa theol*. 1a2ae 109.1c）。从一个视角看，这使阿奎那与其方济各会同代人判然有别。换一个视角看，差别却似乎不大：阿奎那丝毫没有把上帝请出局。他如此表白自己对光照理论的拥护：
   - id: 55
     kind: body
     source: |-
       > It is necessary to say that the human soul cognizes all things in the eternal reasons, through participating in which we cognize all things. For the intellectual light that is in us is nothing other than a certain likeness of the uncreated light, obtained through participation, in which the eternal reasons are contained. Thus it is said in Psalm 4, *Many say, Who shows us good things?* To this question the Psalmist replies, saying *The light of your face, Lord, is imprinted upon us*. This is as if to say, through that seal of the divine light on us, all things are shown to us (*Summa theol*. 1a 84.5c).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 必须说：人类灵魂在永恒理据中认知一切事物，通过分有永恒理据我们认知一切事物。因为我们心中的理智之光无非是借分有而获得的那未被创造之光的一种相似者，永恒理据即包含于其中。所以《诗篇》第 4 篇说：*许多人说，谁能指示我们什么好处？*对此诗人答道：*主啊，你面上的光已印在我们身上*。这等于说：凭借神圣之光在我们身上的那个印记，一切事物都向我们显现（《神学大全》*Summa theol*. 1a 84.5c）。
+    step2: |-
+      > 必须说：人的灵魂在永恒理据中认知万物，而我们正是通过分有永恒理据来认知万物。因为我们内的理智之光，无非是那非受造之光的一种相似者，它借分有而得，永恒理据便包含其中。故《诗篇》第四篇说：*许多人说，谁能指示我们好处？*诗人自答：*主啊，你面上的光已印在我们身上*。这即是说：凭那神圣之光印在我们身上的印记，万物向我们显现（《神学大全》*Summa theol*. 1a 84.5c）。
   - id: 56
     kind: body
     source: |-
       There is some temptation to take all of this simply as an expression of Aquinas’s more general view that God is the first cause of all things. He writes, for instance,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们会忍不住把这整段话仅仅当作阿奎那更一般观点的表达：上帝是万物的第一因。例如他写道：
+    step2: |-
+      人们很容易把这一整段仅仅读作阿奎那更一般立场的表白：上帝是万物的第一因。比如他写道：
   - id: 57
     kind: body
     source: |-
       > *All* active created powers operate in virtue of being directed and moved by the Creator. So it is, then, that in all cognition of the truth, the human mind needs the divine operation. But in the case of things cognized naturally it does not need any new light, but only divine movement and direction (*In de trinitate* pro. 1.1c).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *一切*主动的被造能力都凭借受造物主的引导与推动而运作。因此，在对真理的一切认知中，人类心灵都需要神圣的作用。但对自然地被认知的事物，它并不需要任何新光，只需要神圣的推动与引导（《论三位一体注》*In de trinitate* pro. 1.1c）。
+    step2: |-
+      > *一切*主动的被造能力都凭受造主的引导与推动而运作。故在一切对真理的认知中，人的心灵都需要神圣的作用；但对自然认知之物，它并不需要什么新光，只需神圣的推动与引导（《论三位一体注》*In de trinitate* pro. 1.1c）。
   - id: 58
     kind: body
     source: |-
       Here there seems to be nothing special about the intellect’s need for illumination. The intellect, like all of nature, needs God as its first mover. If you like, think of this as divine illumination. But viewed under this aspect, it is no wonder the theory was controversial. While his Franciscan contemporaries were insisting on a special role for God in human cognition, Aquinas seems to move as far in the opposite direction as his theism would permit.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在这里，理智对光照的需要似乎毫无特别之处。理智与整个自然一样，需要上帝作为第一推动者。如果你愿意，可以把这称作神圣光照。但在这个面向上看，难怪这个理论会引起争议。当他的方济各会同代人坚持上帝在人类认知中有特殊作用时，阿奎那似乎朝相反方向走得和有神论所允许的一样远。
+    step2: |-
+      在此，理智对光照的需要似乎并无任何特别之处：理智与整个自然一样，需要上帝作第一推动者。你若愿意，也可以管这叫神圣光照。但照这个面向看，这一理论之招致争议便不足为奇了。方济各会同代人坚持上帝在人类认知中有特殊作用时，阿奎那似乎朝相反的方向走得不能再远——直至其有神论所容许的极限。
   - id: 59
     kind: body
     source: |-
       But passages of this last kind are misleading, because Aquinas does see something especially mysterious about human cognition, and he appeals to God as a way of solving this mystery. The agent intellect, on Aquinas’s view, accounts for our capacity to grasp self-evident truths. We have an immediate and direct grasp of the truth of first principles, such as the principle of noncontradiction (see, e.g., *Summa contra Gentiles* II.83.1678). We do not infer the truth of this principle, we do not discover that it is true through any kind of induction. Instead we simply see its truth, as soon as we are confronted with an instance where it applies. This is not innate knowledge; we are not born knowing these principles. What we are born with is the capacity to recognize their truth as soon as we are confronted with instances of them. These first natural conceptions are “the seeds of all the things that are subsequently cognized” (*De veritate* 11.1 ad 5). In this sense, Aquinas is even willing to speak of the soul’s having a prior knowledge of everything that it knows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但最后这类段落是误导性的，因为阿奎那确实认为人类认知中有某种特别神秘的东西，并且诉诸上帝来解决这一神秘。按阿奎那的看法，主动理智解释了我们把握自明真理的能力。我们对第一原理之真有直接而直接的把握，比如不矛盾原理（见《反异教大全》*Summa contra Gentiles* II.83.1678）。我们并不推论这一原理之真，也不通过任何归纳发现它为真。毋宁说，一旦面对一个适用实例，我们便直接看见其为真。这不是天赋知识；我们并非生而知这些原理。我们生而有的是一种能力：一面对实例就认出其真。这些最初的自然概念是“后来被认知的一切事物的种子”（《论真理》*De veritate* 11.1 ad 5）。在这个意义上，阿奎那甚至愿意说，灵魂对其所知的一切都有先行的知识：
+    step2: |-
+      最后这类段落却有误导性：阿奎那其实认为人类认知中有某种格外神秘的东西，并诉诸上帝来解开这一神秘。在他看来，主动理智解释了我们何以能把握自明真理。我们对第一原理——例如不矛盾原理——之真有即时而直接的把握（见《反异教大全》*Summa contra Gentiles* II.83.1678）。我们既不推论这原理为真，也不靠任何归纳发现它为真；而是面对一个适用实例时，径直看见其真。这不是天赋知识：我们并非生而知之。生而有之的是一种能力：一遇实例即认出其真。这些最初的自然概念是“此后被认知的一切事物的种子”（《论真理》*De veritate* 11.1 ad 5）。在这个意义上，阿奎那甚至愿意说，灵魂对其所知的一切都先已有所知：
   - id: 60
     kind: body
     source: |-
       > The soul forms in itself likenesses of things inasmuch as, through the light of agent intellect, forms abstracted from sensible objects are made actually intelligible, so as to be received in the possible intellect. *And so, in a way, all knowledge is imparted to us at the start*, in the light of agent intellect, mediated by the universal concepts that are cognized at once by the light of agent intellect. Through these concepts, as through universal principles, we make judgments about other things, and in these universal concepts we have a prior cognition of those others. In this connection there is truth in the view that the things we learn, we already had knowledge of (*De veritate* 10.6c).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 灵魂在自身中形成事物的相似影像，因为借助主动理智之光，从可感对象中抽象出的形式被制成现实可理解的，从而能被被动理智所接收。*于是，在某种意义上，全部知识都在开端处就注入了我们*——在主动理智之光中，经由主动理智之光即刻认知的普遍概念为中介。凭借这些概念，如同凭借普遍原理，我们对其他事物作出判断；而在这些普遍概念中，我们先已认知了那些事物。就此而言，“我们所学的东西，我们本来就已有其知识”这一说法有其真理（《论真理》*De veritate* 10.6c）。
+    step2: |-
+      > 灵魂在自身内形成事物的相似影像：借主动理智之光，由可感对象抽象出的形式被造成现实可理解的，从而可被被动理智接收。*于是，在某种意义上，全部知识一开始就已给予我们*——在主动理智之光中，经由主动理智之光同时认知的普遍概念而得。凭借这些概念，如同凭借普遍原理，我们对其他事物作判断；而在这些普遍概念中，我们先已认知了那些他者。就此而言，“我们所学之物，我们本已知之”这一说法有其真理（《论真理》*De veritate* 10.6c）。
   - id: 61
     kind: body
     source: |-
