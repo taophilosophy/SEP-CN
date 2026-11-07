@@ -19,8 +19,8 @@
    "phase": "translate",
    "claimed_by": "B-main-20261106",
    "claimed_at": "2026-11-06T15:58:44Z",
-   "note": "对账补记（2026-11-06）：四源零缺项，唯一实缺 behaviorism 正文丢 [^ross-2008]（待 r1）。进度（2026-11-07，B-main-20261106）：done 5（boolalg-math、biology-philosophy、bloch、blame、bohr-correspondence）；现计数 62=cleared 41/drafted 2/s3_checked 14/done 5；队列与家法见 results/b-batch-queue-2026-11-07.md。",
-   "advanced_at": "2026-11-07T12:44:57Z"
+   "note": "B-main-20261106：done 6/62（boolalg-math、biology-philosophy、bloch、blame、bohr-correspondence、bodily-awareness）；cleared 40 按源文词数升序推进，下一 bradley-moral；在途 16（s3_checked 14 + drafted 2，behaviorism 缺 [^ross-2008] 待 r1 必修）",
+   "advanced_at": "2026-11-07T15:52:55Z"
   },
   "c": {
    "phase": "translate",
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-07T12:44:57Z"
+ "updated_at": "2026-11-07T15:52:55Z"
 }
