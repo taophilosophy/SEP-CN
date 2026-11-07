@@ -1,0 +1,464 @@
+version: 1
+slug: jayaraasi
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Jayarāśi Bhaṭṭa, who most likely flourished between 800–840 probably in Southern India, was an Indian philosopher, a ‘qualified sceptic’, resorting to a kind of methodological scepticism, affiliated to the materialist Cārvāka / Lokāyata school of thought, the author of one of most extraordinary philosophical works in India, the Tattvôpaplava-siṁha (‘The Lion of the Dissolution of [all] Categories’ or ‘The Lion [Destroying] the Delusion of Categories’). His main claim is that it is not possible to arrive at true knowledge with standard means recognized by the traditionally adopted model of cognitive procedures (pramāṇa) in Indian epistemology, because one should first properly define basic criteria of validity for valid cognitive procedures, which is not possible without a prior true knowledge of reality against which we could test the procedures for validity etc. As it is traditionally argued, our knowledge of reality and of objects depends on valid cognitive procedures. However, as Jayarāśi points out, all valid cognitive procedures are either fundamentally flawed and ultimately unreliable or they require further valid cognitive procedures, and these stand in the same need etc. Therefore, within the traditional epistemological model, we can neither formulate proper definitions of valid cognitive procedures nor define what reality is and what basic categories are. This is at least the case, he claims, with all the cognitive tools and epistemological categories which are traditionally claimed to be now at our disposal. He has been differently classified as a sceptic, agnostic or materialist.
+    step1: |-
+      阇耶罗师·跋陀（Jayarāśi Bhaṭṭa）约在 800–840 年间活跃，可能是在南印度，是一位印度哲学家、一位“有保留的怀疑论者”，诉诸一种方法论怀疑主义，隶属于唯物论的顺世论（Cārvāka / Lokāyata）思想学派；他是印度哲学中最非凡的著作之一的作者，即《谛坏狮子论》（Tattvôpaplava-siṁha，“诸谛〔范畴〕坏灭之狮子”或“破诸谛迷妄之狮子”）。他的主要主张是：不可能经由印度认识论中传统所采纳的认知程序模型——量（pramāṇa）——所公认的标准手段而获得真知识；因为人们首先必须恰当地界定有效认知程序的有效性基本判准，而这件事若不先有关于实在的真知识——以之检验程序是否有效——便不可能做到，如此环复。按照传统论证，我们关于实在与对象的知识依赖于有效的认知程序。然而，正如阇耶罗师指出的：一切有效认知程序，或则在根本上有缺陷而终究不可靠，或则要求进一步的有效认知程序，而后者又处于同样的需要之中，如此等等。因此，在传统认识论模型之内，我们既不能为有效认知程序制定恰当的定义，也不能定义实在是什么、基本范畴是什么。他声称，至少对传统宣称当下已在我们可以置的一切认知工具与认识论范畴而言，情形就是如此。他曾被不同地归类为怀疑论者、不可知论者或唯物论者。
+    step2: |-
+      阇耶罗师·跋陀（Jayarāśi Bhaṭṭa）者，约当西历 800–840 年间活跃，或谓在南印度。其为印度哲人，号“有保留之怀疑论者”，操方法论怀疑之术，隶唯物之顺世论（Cārvāka / Lokāyata）一派；所著《谛坏狮子论》（Tattvôpaplava-siṁha，谓“诸谛〔范畴〕坏灭之狮子”或“破诸谛迷妄之狮子”），为印度哲学至奇之书。其要旨曰：循印度认识论传统所采认知程序之式——所谓量（pramāṇa）——所公认之常途，无由得真知；何则？必先正定有效认知程序之效准，而此事非先有实在之真知以为验程之据则不能，如是环复。依传统之论，吾人知实在、知对象，皆赖有效认知程序。然阇耶罗师指而告之：凡有效认知程序，或根本有亏而终不可恃，或更需有效认知程序，而后者所需亦如之，如是无穷。故在传统认识论之式内，吾人既不能为有效认知程序立正名，亦不能定义实在为何、诸谛为何。彼谓：凡传统所谓今日已在吾人之手的认知之具与认识论范畴，其情至少皆然。后人或归之为怀疑论者，或归之为不可知论者，或归之为唯物论者，说各不同。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life, Works, and Philosophical Affiliation
+    step1: |-
+      ## 1 生平、著作与学派归属
+    step2: |-
+      ## 1 生平、著作与学派归属
+  - id: 3
+    kind: body
+    source: |-
+      ### 1.1 The Dating of Jayarāśi Bhaṭṭa
+    step1: |-
+      ### 1.1 阇耶罗师·跋陀的断代
+    step2: |-
+      ### 1.1 阇耶罗师·跋陀的断代
+  - id: 4
+    kind: body
+    source: |-
+      The first serious attempt to date Jayarāśi Bhaṭṭa was undertaken by Sukhlāljī Saṁghavī and Rasiklāl C. Pārīkh, who brought the Tattvôpaplava-siṁha to light, in their 1940 edition (p. iv-xi) of the treatise, assign the work to 8th century (p. x). This dating was slightly modified by Sukhlāljī Saṁghavī (1941) who placed Jayarāśi’s Tattvôpaplava-siṁha between 725–825, which, in turn, is accepted by Eli Franco (1987: 12–13). However, the latter, in the ‘Preface to the second edition’ of 1994, modifies the date of Jayarāśi Bhaṭṭa and assigns him to the period of 770–830 on the basis of what he thinks are Jayarāśi’s indirect references (primarily terminological grounds) to the Buddhist philosopher Dharmottara (ca. 740–800).
+    step1: |-
+      最早认真尝试为阇耶罗师·跋陀断代的，是把《谛坏狮子论》公之于世的 Sukhlāljī Saṁghavī 与 Rasiklāl C. Pārīkh 二人：他们在 1940 年的刊本（第 iv–xi 页）中把这部论书系于八世纪（第 x 页）。Sukhlāljī Saṁghavī（1941）稍作修正，将阇耶罗师的《谛坏狮子论》置于 725–825 年之间；这一断代又为 Eli Franco（1987: 12–13）所接受。不过，Franco 在 1994 年“第二版序言”中修改了对阇耶罗师·跋陀的断代，依据他所认为的阇耶罗师对佛教哲学家法上（Dharmottara，约 740–800）的间接指涉（主要是术语上的根据），把阇耶罗师系于 770–830 年。
+    step2: |-
+      首为阇耶罗师·跋陀断代而加意考索者，即刊布《谛坏狮子论》之 Sukhlāljī Saṁghavī 与 Rasiklāl C. Pārīkh 二氏：其 1940 年刊本（第 iv–xi 页）系此书于八世纪（第 x 页）。Sukhlāljī Saṁghavī（1941）微调其说，置阇耶罗师《谛坏狮子论》于 725–825 年之间；Eli Franco（1987: 12–13）从之。然 Franco 于 1994 年“第二版序言”复改其断代：据其所认阇耶罗师于佛教论师法上（Dharmottara，约 740–800）之间接指涉（大抵据术语为凭），改系阇耶罗师于 770–830 年。
+  - id: 5
+    kind: body
+    source: |-
+      In fact, that dating of the Tattvôpaplava-siṁha could be slightly modified to perhaps 800–840. I would place Jayarāśi Bhaṭṭa after the Digambara Jaina philosopher Akalaṅka Bhaṭṭa (c. 720–780) and before Vidyānanda Pātrakesarisvāmin (c. 850), a philosopher in the same tradition who commented on Akalaṅka. As Franco (1994: XI) himself notices, the Buddhist Kamalaśīla (c. 740–795) nowhere refers to Jayarāśi in his encyclopedic commentary of the Tattva-saṅgraha. Further, we find no mention of Jayarāśi in the oeuvre of Akalaṅka Bhaṭṭa, although he was very well acquainted with current ideas of his contemporaries. It would be especially surprising in the case of Akalaṅka Bhaṭṭa not to mention an author who greatly influenced the way Jaina thinkers argued and formulated their thoughts, because both of them seem to belong to South India. On a few occasions Akalaṅka did have a chance to either allude or even directly refer to such an original thinker as Jayarāśi certainly was, but he nowhere does it. A good instance is Akalaṅka’s work Aṣṭa-śatī ‘In Eight Hundred Lines’ (itself a commentary on the work Āpta-mīmāṁsā, ‘An Examination of An Authoritative Person’) of Samantabhadra, c. 580–640). In it, (the commentary on verse 1.3 of Āpta-mīmāṁsā, AṣŚp.2 = AṣS 29.20), Akalaṅka refers to a materialist argument: ‘[The opponent]: “For this reason it has been said that there is no omniscient person, because truth claims [of various teachers competing for primacy] turn out to be wrong cognitive criteria, inasmuch as there is no difference between them (i.e., all are equal in their convincing force). Since one accepts that [it is not possible to decide for or against a view among a few competing ones], there is nothing wrong [in rejecting the idea of an omniscient person].” [Akalaṅka:] Ergo this decision of some [thinkers, i.e., materialists] is itself void of any rational basis. For, as we know, the scope of perception [which could prove the materialist’s rejection of an omniscient person] cannot itself demonstrate that there cannot be any other proof of an omniscient person, because this would have too far-reaching consequences. Neither can [the materialist prove that an omniscient person cannot exist] with the help of inference  (anumāna), because it has no validity [for him]’. Akalaṅka clearly has in mind a typical materialist philosopher who rejects the idea of omniscience, but at the same time accepts perception (pratyakṣa) as the only valid instrument of knowledge, while rejecting the validity of inference (anumāna). That is a standard account of a materialist (Cārvāka / Lokāyata) thinker in India and there is really nothing to suggest that what Akalaṅka had here in mind as the target of his criticism was a ‘qualified sceptic’ (like Jayarāśi) who rejected the ultimate validity also of perception.
+    step1: |-
+      实际上，《谛坏狮子论》的断代还可以稍作调整，或当为 800–840 年前后。我会把阇耶罗师·跋陀置于天衣派耆那教哲学家阿迦楞迦·跋陀（Akalaṅka Bhaṭṭa，约 720–780）之后、毗提耶难陀·跋吒罗迦沙利师婆罗门（Vidyānanda Pātrakesarisvāmin，约 850）之前——后者属于同一传统，曾为阿迦楞迦作注。正如 Franco（1994: XI）本人也注意到的那样，佛教哲学家莲花戒（Kamalaśīla，约 740–795）在其百科全书式的《摄真实论》注中从未提及阇耶罗师。再者，我们在阿迦楞迦·跋陀的著作中找不到阇耶罗师的名字，尽管他对同时代人的思想极为熟悉。阿迦楞迦·跋陀若不提及一位如此深刻影响耆那教思想家论证与表述方式——而两人似乎都属于南印度——的作者，那就尤其令人惊讶。阿迦楞迦确实有过几次机会，或暗示、或直接指涉阇耶罗师这样一位特立独行的思想家，但他从未这样做。一个很好的例子是阿迦楞迦的著作《八百颂》（Aṣṭa-śatī；它本身是萨曼塔巴德拉（Samantabhadra，约 580–640）《可信者考察》（Āpta-mīmāṁsā，“对权威者的考察”）一书的注释）。在其中（对《可信者考察》1.3 颂的注释，AṣŚp.2 = AṣS 29.20），阿迦楞迦提到一个唯物论论证：“〔论敌说〕：‘因此有人说没有全知者，因为〔争夺首要地位的诸师所主张的〕真理主张结果是错误的认知凭据，因为它们之间没有差别（即：其说服之力相等）。既然承认这一点〔即不可能在几个彼此竞争的观点之间裁断是非〕，那么〔否认全知者〕便没有什么不对。’〔阿迦楞迦答：〕‘故此，某些〔思想家，即唯物论者〕的这一裁断本身便没有任何理性根据。因为，如我们所知，知觉〔它本可以证明唯物论者对全知者的否认〕的范围不能证明全知者不可能有其他证明，因为这将导致过于深远的结果。〔唯物论者〕也不能借助比量（anumāna）来证明〔全知者不可能存在〕，因为比量对他〔而言〕没有效力。’”阿迦楞迦心中所想显然是一位典型的唯物论哲学家：他否认全知的观念，同时只承认知觉（pratyakṣa）为唯一有效的认知工具，而否认比量的效力。这是印度顺世论（Cārvāka / Lokāyata）思想家的标准写照；实在没有任何东西提示：阿迦楞迦在此当作批评对象心目中想的，是一位连知觉的终极效力也加以否认的“有保留的怀疑论者”（如阇耶罗师）。
+    step2: |-
+      实则《谛坏狮子论》之断代犹可微调，或当在 800–840 年前后。余意阇耶罗师·跋陀当天衣派耆那论师阿迦楞迦·跋陀（Akalaṅka Bhaṭṭa，约 720–780）之后，而前于毗提耶难陀·跋吒罗迦沙利师婆罗门（Vidyānanda Pātrakesarisvāmin，约 850）——后者属同统，尝注阿迦楞迦之书。Franco（1994: XI）亦自见之：佛教论师莲花戒（Kamalaśīla，约 740–795）于其百科全书式《摄真实论》注中，未尝一提阇耶罗师。又阿迦楞迦·跋陀著述之中，阇耶罗师之名亦不一见，而彼于并世诸说固甚熟稔者也。阇耶罗师深移耆那诸师论式与措辞之风，而二人似皆南印度人；阿迦楞迦于如此之人竟不一言，尤足怪者。阿迦楞迦固尝数有机会，或微讽、或直指阇耶罗师之特立者，而皆未尝为之。善例即其《八百颂》（Aṣṭa-śatī；本为萨曼塔巴德拉（Samantabhadra，约 580–640）《可信者考察》（Āpta-mīmāṁsā，“对权威者之考察”）之注）。其中（注《可信者考察》1.3 颂，AṣŚp.2 = AṣS 29.20），阿迦楞迦举一唯物论者之议：“〔论敌〕曰：‘故有言曰无全知者，盖〔诸师竞长之〕真理主张，皆成谬误之认知凭据，以其彼此无异（即其服人之力相等）故。既许此〔即数说竞陈而莫能裁夺〕，则〔斥全知者之说〕无伤也。’〔阿迦楞迦〕答曰：‘然则彼辈〔即唯物论者〕之此断，自身遂无任何理据。盖知觉〔本可证唯物者斥全知之论〕之范围，不能自证全知者更无他证，此其结果则过远矣。〔唯物论者〕亦不能假比量（anumāna）以证〔全知者不可有〕，比量于彼〔固〕无效也。’”阿迦楞迦意中所指，显为典型唯物论哲人：彼斥全知之念，而独承知觉（pratyakṣa）为唯一有效之认知之具，且否认比量之效。此印度顺世论（Cārvāka / Lokāyata）思想者之标准写照；实无一点可指：阿迦楞迦此所批评之鹄的，乃连知觉之终极效力亦予否认之“有保留之怀疑论者”（如阇耶罗师）。
+  - id: 6
+    kind: body
+    source: |-
+      However, the account changes in what Vidyānanda (c. 850) has to say on Akalaṅka’s passage. Vidyānanda is, to our knowledge, the first Indian philosopher to know of and to directly refer to Jayarāśi. In his Aṣṭa-sahasrī ‘In Eight Thousand Lines’, Vidyānanda (AṣS 29.20–36.6) takes the passage ‘“Since one accepts that [it is not possible to decide for or against a view among a few competing ones], there is nothing wrong [in rejecting the idea of an omniscient person].” [Akalaṅka:] Ergo this decision of some [thinkers, i.e., materialists] is itself void of any rational basis’ (tathêṣṭatvād adoṣa ity ekeṣām aprāmāṇikaivêṣṭiḥ) as explicitly implying two kinds of approaches to the same question. First (AṣS 29.20 ff.), he says some nihilistic thinkers (eke) are the Laukāyatika (the followers of Lokāyata, the materialist school), who do not admit any instrument of knowledge which would could go beyond the perceptible world, i.e., they accept perception as the only cognitive criterion. Second, Vidyānanda says (AṣS 31.2 ff.), there are also ‘those who propound the dissolution of [all] categories’ (tattvôpaplava-vādin), a term which could hardly be more univocal in its clearly referring to Jayarāśi. Had Akalaṅka known of Jayarāśi, his ‘qualified scepticism’ and rejection of the validity of perception also, he would have included him among those who rejected the idea of an omniscient being.
+    step1: |-
+      然而，在毗提耶难陀（约 850）论及阿迦楞迦这一段话的地方，情况就不同了。据我们所知，毗提耶难陀是第一位知道阇耶罗师并直接指涉他的印度哲学家。在其《八千颂》（Aṣṭa-sahasrī）中，毗提耶难陀（AṣS 29.20–36.6）把“‘既然承认这一点〔即不可能在几个彼此竞争的观点之间裁断是非〕，那么〔否认全知者〕便没有什么不对。’〔阿迦楞迦答：〕‘故此，某些〔思想家，即唯物论者〕的这一裁断本身便没有任何理性根据’”（tathêṣṭatvād adoṣa ity ekeṣām aprāmāṇikaivêṣṭiḥ）这一段读作对同一问题明确暗示的两种不同进路。第一（AṣS 29.20 以下），他说某些虚无主义思想家（eke）是顺世论者（Laukāyatika，即唯物论学派顺世论的信徒），他们不承认任何能够超出可感世界的认知工具，即只承认知觉为唯一的认知凭据。第二，毗提耶难陀说（AṣS 31.2 以下），还有“宣说诸谛坏灭的人”（tattvôpaplava-vādin）——这个词义再明确不过，显然指的就是阇耶罗师。倘若阿迦楞迦知道阇耶罗师，知道他的“有保留的怀疑主义”及其对知觉效力的否认，他本会把阇耶罗师归入那些否认全知者的人之中。
+    step2: |-
+      然至毗提耶难陀（约 850）论阿迦楞迦此段之处，情形遂异。就所知言之，毗提耶难陀乃首知阇耶罗师而直指其人之印度哲人。其《八千颂》（Aṣṭa-sahasrī）中，毗提耶难陀（AṣS 29.20–36.6）读“‘既许此〔即数说竞陈而莫能裁夺〕，则〔斥全知者之说〕无伤也。’〔阿迦楞迦〕答曰：‘然则彼辈〔即唯物论者〕之此断，自身遂无任何理据’”（tathêṣṭatvād adoṣa ity ekeṣām aprāmāṇikaivêṣṭiḥ）一段，以为于同一问题明含两种进路。其一（AṣS 29.20 以下），谓有虚无之思想家（eke），即顺世论者（Laukāyatika，顺世论唯物之派之徒），不认任何能超可感世界之认知之具，即独承知觉为唯一认知凭据。其二（AṣS 31.2 以下），谓更有“宣说诸谛坏灭之人”（tattvôpaplava-vādin）——此语之专指，无以复加，固指阇耶罗师。使阿迦楞迦知阇耶罗师，知其“有保留之怀疑主义”与其对知觉效力之否认，则必列之于斥全知者之伦。
+  - id: 7
+    kind: body
+    source: |-
+      That Jayarāśi postdates Akalaṅka is evident also from the fact that, in his Ascertainment of Perfection (Siddhi-viniścaya), Akalaṅka refers to ‘heretics’ (nāstika) and to the materialist tradition, which maintains that the world is composed of the four elements, but at the same time accepts only one valid cognitive procedure (pramāṇa), namely perception (pratyakṣa), not even inference (anumāna), and therefore cannot demonstrate such element-based structure of the universe, or alternatively entertains a possibility that there are no valid cognitive procedures at all (pramāṇâbhāva) or finds problems with defining what perception is (pramāṇa-lakṣaṇânupapatti; SVi 4.12, p. 272.3–5). These are clearly the forerunners of the ideas elaborated by Jayarāśi, however at the time of Akalaṅka they are still in an undeveloped form, and clearly the Jaina philosopher does not refer to Jayarāśi. However, his commentator Anantavīrya (SViṬ, p. 277.6–278.22) immediately recognizes in these nascent ideas the elaborated system of Jayarāśi, retroactively projecting them onto Akalaṅka’s passage, and refers to Jayarāśi and his treatise by name.
+    step1: |-
+      阇耶罗师晚于阿迦楞迦，这一点也可以从另一事实看出来：阿迦楞迦在其《成就决择》（Siddhi-viniścaya）中提到“外道”（nāstika）和唯物论传统——该传统主张世界由四大元素构成，但同时只承认一种有效的认知程序（pramāṇa），即知觉（pratyakṣa），连比量（anumāna）也不承认，因而无法证明宇宙这种基于元素的构造；或者，他们设想可能根本没有有效的认知程序（pramāṇâbhāva，无量），或在定义知觉为何时遇到困难（pramāṇa-lakṣaṇânupapatti，量相不成；SVi 4.12, p. 272.3–5）。这些显然是阇耶罗师所阐发诸观念的先声，但在阿迦楞迦的时代它们还处于未发展的形态，而这位耆那教哲学家显然并未指涉阇耶罗师。然而，他的注释者阿难陀维罗（Anantavīrya，SViṬ, p. 277.6–278.22）在这些萌芽观念中立刻认出了阇耶罗师的成熟体系，把它们回溯性地投射到阿迦楞迦的文句上，并且直接以名字指涉阇耶罗师及其论书。
+    step2: |-
+      阇耶罗师后于阿迦楞迦，又有一证：阿迦楞迦《成就决择》（Siddhi-viniścaya）中既提“外道”（nāstika）与唯物之统——彼统谓世界由四大元素所成，而同时惟承一种有效认知程序（pramāṇa），即知觉（pratyakṣa），比量（anumāna）亦不承之，故无由证宇宙基于元素之构造；或则设想竟无任何有效认知程序（pramāṇâbhāva，无量），或则于定义知觉（pramāṇa-lakṣaṇânupapatti，量相不成）有所困难（SVi 4.12, p. 272.3–5）。此诸观念，明为阇耶罗师所阐发者之先声；然当阿迦楞迦之世，其形犹未展，而此耆那论师固未尝指涉阇耶罗师。然其注家阿难陀维罗（Anantavīrya，SViṬ, p. 277.6–278.22）于此萌芽诸念，立认阇耶罗师之成熟体系，回溯而投诸阿迦楞迦之文句，且直以名指阇耶罗师及其论书。
+  - id: 8
+    kind: body
+    source: |-
+      ### 1.2 Native Place of Jayarāśi Bhaṭṭa
+    step1: |-
+      ### 1.2 阇耶罗师·跋陀的故里
+    step2: |-
+      ### 1.2 阇耶罗师·跋陀的故里
+  - id: 9
+    kind: body
+    source: |-
+      As little as we know of the exact dates of his life even less we know about the place where he flourished, and we are actually left to speculations, for no hard evidence, such as inscriptions etc., can be found to help us. There are three points that might suggest Jayarāśi was of South India, all being rather weak. The strongest evidence is the circulation and reception of the Tattvôpaplava-siṁha: the first mention of the work is made by South Indian Digambara authors Vidyānanda (c. 850) and Anantavīrya (turn of 10th and 11th centuries). Another equally weak piece of evidence is that Jayarāśi’s critical method of argument (see below), which the Jainas adopt, first penetrates the works of South Indian Digambara authors, incidentally the same who are the first to make reference to Jayarāśi. This method of critique becomes the standard one among Gujarati Jainas only at a later stage. The third argument in favour of South Indian origin of Jayarāśi (Saṁghavī–Pārīkh 1940, xi)[^saṁghavī-1940], even weaker that the two above, is his title Bhaṭṭa, regularly appended to the names of a number of South Indian philosophers and often used as an official title of South Indian Digambara high rank clerics (bhaṭṭa, bhaṭṭāraka). Jayarāśi’s title might suggest he was both South Indian and a Brahmin by social class (varṇa). However, the title Bhaṭṭa is not exclusively used by Brahmins or exclusively in South India, though there is indeed a certain tendency of this kind. However, since there seems nothing at all to suggest that Jayarāśi was born in North India, even such slight hints gain some evidential weight.
+    step1: |-
+      我们对他确切生卒年代的了解既如此之少，对他活跃之地的了解就更少了，实际上只能付诸推测：碑铭之类的硬证据，一概找不到，无从借力。有三点或可暗示阇耶罗师出于南印度，但都相当薄弱。最强的证据是《谛坏狮子论》的流传与接受：最早提及此书的，是南印度天衣派作者毗提耶难陀（约 850）与阿难陀维罗（十、十一世纪之交）。另一条同样薄弱的证据是：阇耶罗师的批判论证方法（见下文）——即耆那教徒所采用的那种方法——最先渗透进南印度天衣派作者的著作，而这些人恰好也是最早指涉阇耶罗师的人。这种批判方法要到更晚的阶段才成为古吉拉特耆那教徒中的标准方法。第三个有利于阇耶罗师南印度出身的论证（Saṁghavī–Pārīkh 1940, xi）[^saṁghavī-1940]，比上述两条更弱，是他的称号“跋陀”（Bhaṭṭa）：这一称号经常缀于若干南印度哲学家名字之后，并且常用作南印度天衣派高层僧侣的正式头衔（bhaṭṭa、bhaṭṭāraka）。阇耶罗师的称号或可暗示：他既是南印度人，又按社会等级（varṇa）属婆罗门种姓。然而，“跋陀”这一称号并非婆罗门所专用，也并非南印度所专用，尽管确实存在某种这类倾向。不过，既然似乎完全没有东西暗示阇耶罗师生于北印度，这些微弱的暗示也就获得了一定的证据分量。
+    step2: |-
+      其确切年代吾人所知既鲜，其活跃之地所知尤尠，实际惟付诸测度：碑铭之属，硬证全无，无可借力。有三点或可暗示阇耶罗师出于南印度，而皆甚弱。最强之证，为《谛坏狮子论》之流传与受容：首提此书者，南印度天衣派作者毗提耶难陀（约 850）与阿难陀维罗（十、十一世纪之交）也。另一证之弱与此相等者：阇耶罗师之批判论证之法（见下文）——即耆那教徒所采者——先入南印度天衣派作者之书，而此辈适为最早指涉阇耶罗师之人。此批判之法，至晚后之期，始为古吉拉特耆那教徒之常法。其三，利于阇耶罗师南印度出身之论证（Saṁghavī–Pārīkh 1940, xi）[^saṁghavī-1940]，又弱于上二者：其号“跋陀”（Bhaṭṭa）——此号常缀于若干南印度哲人名后，且常用为南印度天衣派高阶僧侣之正式头衔（bhaṭṭa、bhaṭṭāraka）。阇耶罗师之号，或暗示其人为南印度人，且依种姓（varṇa）为婆罗门。然“跋陀”之号非婆罗门所专，亦非南印度所专，惟此倾向固有之。虽然，既似全无一事暗示阇耶罗师生于北印度，则此微末之暗示，亦稍得证据之重。
+  - id: 10
+    kind: body
+    source: |-
+      ### 1.3 Works of Jayarāśi Bhaṭṭa
+    step1: |-
+      ### 1.3 阇耶罗师·跋陀的著作
+    step2: |-
+      ### 1.3 阇耶罗师·跋陀的著作
+  - id: 11
+    kind: body
+    source: |-
+      The only preserved work of Jayarāśi is the Tattvôpaplava-siṁha (‘The Lion [Destroying] the Delusion of Categories’, often interpreted as ‘The Lion of the Dissolution of [all] Categories’ or ‘The Lion which Annihilates [all] Principles’). Its palm leaf manuscript was discovered in 1926 in a manuscript library at Patan by Sukhlāljī Saṁghavī and Rasiklāl C. Pārīkh, and the text remained virtually unknown until its publication in 1940.
+    step1: |-
+      阇耶罗师唯一传世的著作是《谛坏狮子论》（Tattvôpaplava-siṁha，“破诸谛迷妄之狮子”，常被解作“诸谛〔范畴〕坏灭之狮子”或“摧毁〔一切〕原理之狮子”）。其贝叶写本于 1926 年在帕坦（Patan）的一座写本图书馆中被 Sukhlāljī Saṁghavī 与 Rasiklāl C. Pārīkh 发现；此文本在其 1940 年刊布之前，几乎无人知晓。
+    step2: |-
+      阇耶罗师传世之书，惟《谛坏狮子论》（Tattvôpaplava-siṁha，“破诸谛迷妄之狮子”，常解为“诸谛〔范畴〕坏灭之狮子”或“摧毁〔一切〕原理之狮子”）。其贝叶写本，1926 年发现于帕坦（Patan）一写本之馆，得之者 Sukhlāljī Saṁghavī 与 Rasiklāl C. Pārīkh；此文本至 1940 年刊布之前，几无人知。
+  - id: 12
+    kind: body
+    source: |-
+      The work was quite well known in mediaeval philosophical milieu, both in the South and North of India, but hardly ever treated in a way a serious and original philosophical treatise deserves: Indian philosophers of established traditions do not, as a rule, refer to the work directly or refute its contents, not to mention any attempt at the providing a genuine appraisal of the work or entering into discussion with its author. They simply ignored it.
+    step1: |-
+      此书在中世纪的哲学圈子里相当知名，南北印度皆然，却几乎从未受到一部严肃而原创的哲学论著所应受的对待：成建制的印度哲学传统中的哲学家，照例不直接引用此书或驳斥其内容，更不用说真正评估此书或与作者展开讨论了。他们干脆对它视而不见。
+    step2: |-
+      此书于中世哲学之圈，南北印度并称知名，然殆未尝受一严肃而原创哲学论著所当受之遇：成建制诸传统之印度哲人，通例不直引此书、不驳其义，遑论真评其书、与其人论学。彼辈直置之不顾而已。
+  - id: 13
+    kind: body
+    source: |-
+      Two reasons might be mentioned for such a situation. First, Indian philosophers did not principally engage in discussions with representatives of the materialist school, except for standardised dismissive refutations of a few basic materialist theories, which are mentioned by Indian philosophers in their works in order to render a ‘complete’ picture of the philosophical spectrum. These standardised, habitually repeated refutations were not applicable to Jayarāśi, who was not a typical representative of the Cārvāka / Lokāyata school. New powerful philosophical machinery would have to be applied to engage in a discussion with Jayarāśi. And that is precisely the second reason: the arguments Jayarāśi consistently applies, his rigid and coherent lines of argumentation proved to be an extremely hard piece of cake to swallow for those whose views he criticised. It seems, therefore, that the general approach of Indian philosophers vis-à-vis Jayarāśi was that of disregard and failure to notice the weight of his work. A few exceptions can be mentioned though of those who attempted to engage with Jayarāśi’s arguments, notably two Jaina philosophers, Vidyānanda and Anantavīrya, and a propounder of the Nyāya system, Bhāsarvajña (Franco (1994:  553–586)). Jayarāśi is occasionally mentioned in a positive light when Indian authors acknowledge his powerful method of critical analysis, and these are primarily, or even exclusively, Jaina authors. Sometimes they even refer to Jayarāśi as an expert in some fields, e.g. by Malliṣeṇa (c. 1229), who says: ‘A refutation of all cognitive criteria in details should be consulted from the Tattvôpaplava-siṁha’ (SVM, p.118.1–2).
+    step1: |-
+      造成这种局面，可以说有两个原因。其一，印度哲学家原则上不与唯物论学派的代表展开讨论，除非是那种标准化的、轻蔑式的反驳——他们把这些反驳写进自己的著作，为的是给整个哲学光谱画出一幅“完整”的图景。这些标准化、惯常重复的反驳并不适用于阇耶罗师，因为他不是顺世论（Cārvāka / Lokāyata）学派的典型代表。要与阇耶罗师交锋，就必须动用新的、强有力的哲学机器。而这正是第二个原因：阇耶罗师一贯应用的论证、他那严整而融贯的论证路线，对于被他批评的人来说，是极难下咽的一块硬饼。因此，印度哲学家对阇耶罗师的总体态度，似乎就是漠视，就是未能察觉其著作的分量。不过，也有少数例外值得一提：试图与阇耶罗师的论证交手的人中，最值得注意的是两位耆那教哲学家毗提耶难陀与阿难陀维罗，以及正理（Nyāya）体系的一位论师跋沙罗婆吉那（Bhāsarvajña）（Franco (1994: 553–586)）。当印度作者承认阇耶罗师强有力的批判分析方法时，偶尔也会对他加以正面的提及，而这些作者主要是、甚至 exclusively 是耆那教作者。他们有时甚至把阇耶罗师当作某些领域的专家来引用，例如摩利舍那（Malliṣeṇa，约 1229）就说：“对一切认知凭据的详细驳斥，应从《谛坏狮子论》查考”（SVM, p.118.1–2）。
+    step2: |-
+      成此局面者，可举二故。其一，印度哲人原则上不与唯物派之人论学，惟以标准化、轻蔑式之驳难应之——书之于著，以足“完”其哲学光谱之图。此等惯常复沓之驳，不施于阇耶罗师，盖彼非顺世论（Cārvāka / Lokāyata）之典型也。欲与阇耶罗师论，则必运新而有力之哲学械。此即其二故：阇耶罗师一贯所用之论证、其严整融贯之论路，于见驳者实为难下之硬饼。故印度哲人之于阇耶罗师，其大要似为漠视，为其书之重而未之觉。然亦有少数例外可记：欲与阇耶罗师之论证交手者，最可注意者为二耆那哲人——毗提耶难陀与阿难陀维罗——及正理（Nyāya）宗之论师跋沙罗婆吉那（Bhāsarvajña）（Franco (1994: 553–586)）。印度作者之许阇耶罗师批判分析之法有力者，偶亦正面提及之，而此辈主要乃至几乎全为耆那作者。彼或竟引阇耶罗师为某领域之专家，如摩利舍那（Malliṣeṇa，约 1229）曰：“详驳一切认知凭据之文，当于《谛坏狮子论》查之”（SVM, p.118.1–2）。
+  - id: 14
+    kind: body
+    source: |-
+      The text of Tattvôpaplava-siṁha was preserved without any commentary and it seems that its was never commented upon. We cannot say with absolute certainty whether its author had any followers or whether he established an independent school, but that is not unlikely because we occasionally come across the expression tattvôpaplava-vādin in the plural: ‘those who propound the dissolution of [all] categories’ in philosophical literature, and across the single term Tattvôpaplava used as if it denoted a separate school.
+    step1: |-
+      《谛坏狮子论》的文本传世而无任何注释，而且似乎从未有人为之作注。我们不能绝对确定其作者是否有追随者、是否自立门户，但这并非不可能：因为我们在哲学文献中偶尔遇见 tattvôpaplava-vādin 的复数形式——“那些宣说诸谛坏灭的人”——而且 Tattvôpaplava 这一单词有时被当作一个独立学派的名称来使用。
+    step2: |-
+      《谛坏狮子论》之文本，传世而无注，似亦从无人为之注。其作者有无追随者、有无自立一宗，吾人不能绝对断言；然亦非必无：盖哲学文献中偶见 tattvôpaplava-vādin 之复数——“宣说诸谛坏灭之众人”，而 Tattvôpaplava 一词亦间被用如一独立宗派之名。
+  - id: 15
+    kind: body
+    source: |-
+      It is not certain whether Jayarāśi composed any other work. He himself refers to a treatise entitled Lakṣaṇa-sāra (‘The Quintessence of the Definition [of Cognitive Criteria (pramāṇa)]’) on one occasion, while refuting the usage of the term ‘non-verbal’ (avyapadeśya) in the definition of the cognitive criterion (pramāṇa, or ‘veridical instrument of knowledge’) of the Nyāya school. There, he says that the inapplicability of the term has already been shown in the Lakṣaṇa-sāra and one should consult that work. It is highly probable that he indeed refers to his own text for the simple reason that he generally does not mention any works of any other authors either in support of his own views or in favourable light, except for the materialist teacher Bṛhaspati and his Bṛhaspati-sūtra. Still, it is not impossible that the text he referred to under the title Lakṣaṇa-sāra might have been penned by another representative of the Cārvāka / Lokāyata school who had been held in esteem by Jayarāśi, e.g. his own guru.
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      ### 1.4 Philosophical Affiliation of Jayarāśi Bhaṭṭa
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      There has been some controversy concerning whether Jayarāśi could at all be ranked among the representatives of the Indian materialist school, i.e., among the Cārvākas / Lokāyatas. Until the publication of the Tattvôpaplava-siṁha, Jayarāśi was considered a typical representative of the materialist school. It all changed when the publication of the work in 1940 made the text available to scholars. The publication revealed that Jayarāśi’s view are far from what one considered  ‘standard’ or ‘orthodox’ materialism and hardly compatible with what we so far knew about the schools of the Cārvākas / Lokāyatas. As a result, a wide range of conflicting interpretations abound as to how to classify Jayarāśi’s philosophy.
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      Sukhlāljī Saṁghavī and Rasiklāl C. Pārīkh (1940: xi-xii) take the text as ‘a work of the Lokāyata or Cārvāka school, or to be more precise – of a particular division of that school’, emphasising that Jayarāśi ‘is developing the doctrine of the orthodox (!) Lokāyata’  with a ‘critical method’ (p. xii). The tradition of ascribing the view to Saṁghavī and Pārīkh that the Tattvôpaplava-siṁha is ‘a genuine Cārvāka work’ relies rather on the misreading of what both the authors say: they are well aware that Jayarāśi develops an original and independent school within what he himself considered a materialist tradition. This view, adopted also by Ruben (1958), is somewhat modified by Franco (1987: 4–8), who speaks of a ‘radical change from a rather primitive materialism to a highly sophisticated form of scepticism’, and also recently by Ethan Mills (2018), who claims that Jayarāśi developed ‘materialist strains’ and represented ‘skepticism about philosophy’, or ‘skepticism about epistemology’ (Mills (2015), (2018)).
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      Thus, a group of other researchers (e.g., Koller (1977), Matilal (1985: 482), Matilal (1986: 27), Solomon (2010: xvi), Jha (2013: vii), Gokhale (2015: 156–157), Mills (2018)) classify Jayarāśi as a sceptic, either loosely affiliated to the Cārvāka / Lokāyata tradition or not at all, even as an anti-religious sceptic (Matilal (1985: 482)), a radical sceptic (Franco (1987: 3–8)), ‘the full-fledged form of Indian Skepticism’ (Solomon (2010: xvi)), an extreme sceptic who represents ‘a kind of anarchism in the realm of values’ (Gokhale (2015: 180, 155)), sometimes also as an agnostic (Ruben (1958); Matilal (1985: 483, n. 10)), or a combination of both, being an author of ‘a work in defence of scepticism, or at best, agnosticism’ (Debiprasad Chattopadhyaya’s “Editor’s Note” to Chattopadhyaya–Gangopadhyaya (1990: xiv)). A rather unusual stance on Jayarāśi’s affiliation is represented by K.K. Dixit (1962: 103) / (1990: 529), who claims that he was both a materialist and… ‘a worshipper of illogic’ (sic!).
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      Still another line of researchers disagree that Jayarāśi belonged to the materialist tradition at all, typical proponents of this opinion being Debiprasad Chattopadhyaya (1959), (1989) and Karel Werner (1995). Chattopadhyaya (1989) argues that since Jayarāśi criticises all philosophical views and schools, he cannot be reckoned as an adherent of the Cārvāka / Lokāyata tradition, because one can either be a materialist or sceptic; and clearly Jayarāśi’s philosophical views do not fit into the typical materialist framework. Karel Werner (1995) seems to support such an approach, although with some reservations, but without any solid rational argument, except for an subjective impression. Recently, also Ramkrishna Bhattacharya (2009: 51, 76 n. 43) follows this line of interpretations and argues that ‘Jayarāśi was not a Cārvāka/Lokāyata’, suggesting that he was not a sceptic but represented ‘a fundamental idealist (solipsist) position’. To this group belong also both A.K. Warder (1956: 52), who accepts that he was neither a materialist nor sceptic but a positivist instead, and K.N. Jayatilleke (1963: 82), who interprets him as ‘not a sceptic but an absolute nihilist in his metaphysics’ and ‘a pragmatic materialist’ and ‘a logical sceptic’ (p. 91).
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      There could hardly be a better source of information on the true affiliation of Jayarāśi than the author himself. He nowhere states in his work that he is a Cārvāka / Lokāyata, in which he does not differ from all other Indian authors who nowhere mention their philosophical affiliations in the form: ‘The author of the present work is Buddhist’ or ‘I am a follower of the Nyāya school’. In most cases, such affiliations are communicated through the opening sections, e.g. in the introductory verses (maṅgalâcaraṇa), or in the colophons, but usually an indirect manner, e.g. by paying homage to the Awakened One (buddha) or to a guru or Mahêśvara, or through some other hint, but it is hardly ever done directly, in an unequivocal manner. Unfortunately, the preserved text of Tattvôpaplava-siṁha does not contain any introductory verses (probably there were none). The only concealed information in the opening section of the work could be found the first verse that occurs in the very beginning which says: ‘The worldly path (laukiko mārgaḥ) should be followed…/ With respect to everyday practice of the world (loka-vyavahāra), the fool and the wise are similar’ (TUS, p.1.9–10 = Franco (1987: 68–6–7)  = Solomon (2010: 1–2) = Jha (2013: 2)), quoted from some other source, taken as authoritative by Jayarāśi. The expression ‘the worldly path’ (laukiko mārgaḥ) often occurs as a reference to the Lokāyata (‘the followers of the worldly [practice]’), e.g. by Haribhadra in his ŚVS1.64. Most importantly, however, Jayarāśi on several occasions quotes verses of Bṛhaspati in order to either support his own opinion or to show that there is no disagreement between the Tattvôpaplava-siṁha and the tradition of Bṛhaspati  (cf. Franco (1987: 5)). Further, he explicitly mentions the materialist teacher by name and refers to him with reverence ‘Honourable Bṛhaspati’ (bhagavān bṛhaspatiḥ, TUS, p.45.10–11 = Franco (1987: 228.10)  = Solomon (2010: 229) = Jha (2013: 187)),[^note-1] the reverential term occurring only once in the whole work. This is rather unique, for Jayarāśi does not seem to follow any authorities or to quote passages and opinions which he unreservedly views in favourable light. There can hardly be any doubt, that Jayarāśi placed himself within that tradition and apparently acknowledged that he was originally trained within it.
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      In the colophon of the treatise (TUP, p. 125.13–18 = Franco (1987: 7) = Solomon (2010: 98) = Jha (2013: 463–464)), Jayarāśi explicitly pays homage to Bṛhaspati, here referred to by his traditional epithet ‘preceptor of gods’ (sura-guru; cf. Bhattacharya (2009: 25, 51, 76)), and so does the author refers to himself as ‘preceptor of deities (gods)’ (deva-guru):
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      > ‘Even [all] such unshakeable reductio arguments (vikalpa) that escaped the attention of the  preceptor of gods (i.e. Bṛhaspati) find their way into this lucid [treatise] that crushes the conceit of charlatans. This [lucid treatise], titled “The Lion [Destroying] the Delusion of Categories”, which contributes to great advantage and will gain excellent reputation, has been composed by [me], the preceptor of deities (gods) [known as] Bhaṭṭa Śrī Jayarāśi.[^note-2] [These] reductio arguments of Jayarāśi [found] in this [treatise] are efficacious in annihilating the charlatans, are elaborated by [Jayarāśi who is] the ocean of knowledge, [and are meant to] vanquish disputants.’
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      The idea which Jayarāśi here expresses is clear: he follows the footsteps of his own preceptor, Bṛhaspati (both ‘preceptor of gods’), developing the latter’s arguments and augmenting them with his own, more sophisticated.
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      Jayarāśi criticises basically all philosophical schools with two exceptions: the Advaita Vedānta of Śaṅkara and the Cārvāka / Lokāyata school. The reason for being silent on the tradition of Śaṅkara was that the latter was either contemporaneous or posterior to Jayarāśi, but there would have been no reason not to formulate any criticism against the Cārvāka / Lokāyata school, if that had not been Jayarāśi’s own tradition. Further, even though Jayarāśi is generally very cautious not to express his own positive views and theories, there are several exceptions, which clearly reveal his materialistic outlook (see Section 2.3 Positive Views below).
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      There is also some external evidence corroborating to a certain degree the thesis about Cārvāka / Lokāyata affiliation of Jayarāśi. Vidyānanda who first mentions Jayarāśi brings some interesting details to light (alluded to above). In his Aṣṭa-śatī (AṣS 29.20–36.7), he explicitly indicates a category of nihilistic thinkers who reject a number of vital principles and claim that ‘There is no [reliable] omniscient authority (tīrtha-kāra), there is no [reliable] cognitive criterion (pramāṇa), there is no [reliable] authoritative doctrine (samaya) or [reliable] Vedas, or any kind of [reliable] reasoning (tarka), because they contradict each other,’ and he quotes a popular verse: ‘Reasoning is not established, testimonies differ, there is no sage whose words are a cognitive criterion (i.e., authoritative), the essence of the moral law (dharma) is concealed in a secret place (i.e., is not available). The [proper] path is that taken by the majority of people’[^note-3]. Whether the verse comes from an unidentified Lokāyata source, which is not impossible, or not, it is echoed by Jayarāśi in the above mentioned verse at the beginning of his work and the expression ‘the worldly path’ (laukiko mārgaḥ). Interestingly, the verse has an obvious sceptical underpinning. The category of such ‘nihilists’ includes (1) the followers of the Lokāyata school (laukāyatika, AṣS 29.26), also known as the Cārvāka (AṣS 30.25), who are associated with the view that there is just one cognitive criterion, i.e. perception, and (2) the category of ‘those who propound the dissolution of [all] categories’ (tattvôpaplava-vādin, AṣS 31.2). Vidyānanda (AṣS 31.2 ff.) explains who the latter are: ‘Some who are those who propound the dissolution of [all] categories take (1) all the categories of cognitive criteria such as perception etc. and (2) all the categories of the cognoscibles as dissolved (i.e., not established)’. Throughout his text, Vidyānanda keeps these two traditions – the Lokāyata and the Tattvôpaplava — separate, although he does acknowledge that they are genetically related, the main difference between them being whether one recognises at least one cognitive criterion (Cārvāka / Lokāyata) or none (Jayarāśi). Further on, Vidyānanda begins the exposition of materialism (AṣS, p. 35.22 ff.) which is designated with a generic term ‘cognitive criteria-free assumption’ (apramāṇikā … iṣṭi), among which the first variety represents standard materialists who accept perception as the only cognitive criterion (AṣS, p. 35.19–37.9), and the second variety concerns ‘those who propound the dissolution of [all] categories’ (tattvôpaplava-vādin) who do not accept any cognitive criteria (pramāṇa) (AṣS, p. 37.10 ff.). Also Anantavīrya explicitly classifies Jayarāśi as a materialist by making a pun the word cārvāka: ‘The author of “[The Lion Destroying] the Delusion of Categories’” says what is charmingly chastised by the Cārvākas’ (SViṬ, p. 277.19: tattvôpaplava-kṛd āha – cārvākaiś cāru carcitam…).
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      A typical charge against Jayarāśi’s affiliation to materialists (Cārvāka / Lokāyata), known for two main claims – that there is only one cognitive criterion (pramāṇa), namely perception, and the four elements compose all the universe, including consciousness – would the apparent paradox: Jayarāśi seems to acknowledge neither. This led Bhattacharya (2017: 353–354) to dispute, on philologically implausible grounds, that Jayarāśi refers to Bṛhaspati and the Bṛhaspati-sūtra as his own tradition. However, the earliest external recipients of Jayarāśi’s ideas, the Jaina thinkers Vidyānanda and Anantavīrya, importantly ascribe to Jayarāśi or to his immediate materialist tradition a saying that ‘Bṛhaspati’s aphorisms are primarily meant to refute the opponents with respect to all [issues].’[^note-4] This serves as an external evidence that Jayarāśi did acknowledge the authority of  Bṛhaspati and his aphorisms but interpreted them in the spirit of his own methodological scepticism.
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      That there must have been some strain among the materialists prior to Jayarāśi which both admitted that the world is composed of the four elements and at the same time apparently doubted that there is any cognitive criterion (pramāṇa) is reflected by Akalaṅka, who points to the following paradox such a materialist would have to face: ‘As a result of the absence of cognitive criteria (pramāṇa) [the materialist] cannot ascertain that perception, and nothing else, is the only one [cognitive criterion], or [ascertain] the essence of cognoscible objects. Since, when other cognitive criteria are negated, a [proper] definition of perception becomes inexplicable, what [cognoscible objects] by what [cognitive criteria] could be established or negated, on account of which [one could maintain that] the world is composed of the four elements?’ (SVi 4.12, p. 272.3–5).
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      Of significance is that Vidyānanda puts Jayarāśi on par with the Buddhist doctrine of Emptiness (śūnya-vāda), as represented by Nāgārjuna, and with Vedāntic idealists (brahma-vāda), as three kinds of self-refuting theories (TŚVA 80.22–81.14; 195.14–16). This might theoretically be taken as evidence that all three represented scepticism. However, since there is no hint that Vedāntic idealists were sceptics at all at that time,[^note-5] and we have strong evidence that Jayarāśi was not a sceptic, what Mills (2018) takes to be the three pillars of skepticism in classical India, namely Nāgārjuna, Jayarāśi and Śriharṣa, represented here by a forerunner, cannot be classified as sceptics, despite their commonalities, as noticed by Vidyānanda.
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      Jayarāśi can be therefore taken as a genuine representative of an offshoot of the Cārvāka / Lokāyata tradition, primarily because he himself thought he was a follower of Bṛhaspati’s materialist tradition, and probably because he had originally been trained in the materialist system. It also seems very likely that the representatives of the Cārvāka / Lokāyata system occasionally had sceptical inclinations prior to Jayarāśi, which helped him to abandon typically materialist claims and undertake his sceptical project. However, neither he nor his work can be taken as typical representatives of the Cārvāka / Lokāyata school or a first-hand source of information about that tradition. Despite this, the work remains the only authentic, albeit not ‘orthodox’ treatise of the Cārvāka / Lokāyata tradition that has come down to us.
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      ## 2. The Method and Philosophy of Jayarāśi
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      Jayarāśi can be classified as a sceptic  only in a qualified sense (‘qualified sceptic’), namely as a kind of methodological sceptic, who consistently avails himself of a particular method to analyse theories and the contents of propositions, but at the same time retains a set of positive beliefs.
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      ### 2.1 Use of Reductio Arguments
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      The point of departure of his methodology is a sophisticated and highly elaborated reductio type of argument (prasaṅga), developed earlier within the Madhyamaka school of Buddhism and its prominent adherent Nagārjuna (c. 150 CE).
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      In his method, Jayarāśi analyses a particular thesis T of his opponent by, first, listing all logical implications or all doctrinally possible conclusions C₁, C₂, C₃, … C_{*n*}, admissible within the opponent’s system, that follow from thesis T. Then he demonstrates how and why each of such conclusions C₁, C₂, C₃, … C_{*n*} either leads to an undesired consequence (logically problematic or unwelcome within the opponent’s system) or contradicts the initial thesis T:
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      > | (1) | T → C₁ ∧ C₂ ∧ C₃ ∧ … ∧ C_{*n*} |
+      > | --- | --- |
+      > | (2) | \|C₁\| = 0 \|C₂\| = 0 \|C₃\| = 0 … \|C_{*n*}\| = 0 |
+      > | (3) | \|T\| = 0 |
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      where ‘0’ stands not simply for ‘false’ (logically), but may also stand for ‘not admissible within the opponent’s specific set of beliefs’, or ‘not compatible with the opponent’s specific set of beliefs’. To analyse the truth value or admissibility of each of the conclusions C₁, C₂, C₃, … C_{*n*}, if their structure is complex, Jayarāśi analyses the conclusions in their turn using exactly the same method.
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      What may look like a well-known logical law that underlies the reductio ad absurdum argument, i.e.,
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      > [(~*p*→*q*) ∧ ~*q*] → *p*,
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      or like other typical laws of the proof by contradiction, i.e.,
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      > [(~*p*→*q*) ∧ (~*p*→~*q*)] → *p*,
+      >
+      > [~*p* → (*q*∧~*q*)] → *p*, or
+      >
+      > [~*p* → (*q*≡~*q*)] → *p* ,
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      seems at first closely mirrored by Jayarāśi. However, his approach is significantly different in one particular aspect. First, Jayarāśi analyses positive theses in order to disprove them. Secondly, the reductio or the proof by contradiction, whereby p is rejected, does not commit one to admitting ~p in the sense of accepting a positive state of affairs contrary to p. Jayarāśi is satisfied merely with a rejection of a thesis, without postulating his own solution to a problem. In other words, when Jayarāśi disproves thesis T by demonstrating that its conclusions C₁, C₂, C₃, … Cₙ are all wrong (either false or doctrinally inadmissible), he does not commit himself to the contrary thesis ~T with some kind of ontological entailment. The better way to describe his method would be the following patterns:
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      > [(*p*→*q*) ∧ ~*q*] → ~*p*,
+      >
+      > [(*p*→*q*) ∧ (*p*→~*q*)] → ~*p*,
+      >
+      > [*p* → (*q*∧~*q*)] → ~*p*, or
+      >
+      > [*p* → (*q*≡~*q*)] → ~*p* ,
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      To give an example, Jayarāśi first skillfully demonstrates that the universal cannot exist by mentioning three possible conclusions: If (T) the universal exists, then (C₁) the universal is different from the individuals in which it is instantiated, (C₂) it is not different from the individuals, or (C₃) it is different from the individuals in some aspects and it is not different from the individuals in other aspects. Each of these options is then analysed into further options, all being eventually shown as wrong or impossible. Since all the three conclusions C₁, C₂ and C₃ are rejected, the initial thesis T (‘the universal exists’) is also rejected. However, he does not say what at all exists, if there are no universals.
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      In his method, Jayarāśi does not mention all logically conceivable conclusions entailed by a thesis he wants to disprove. In most cases, he limits himself just to those implications which are relevant to the discussion with a particular philosophical school, and all other logical or thinkable implications of which we know that the opponent would never admit for a variety of reason are simply ignored.
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      Interestingly, the critical method of analysis of the reductio type (prasaṅga) which Jayarāśi so amply uses is basically absent in the works of the Digambara philosopher Akalaṅka, whereas the method is regularly used by his commentator Vidyānanda and all subsequent Jaina thinkers, which may have its historical relevance and suggest that Jayarāśi was posterior to Akalaṅka.
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      The reductionist tactics, which Jayarāśi shared with the Mādhyamika Buddhists, was traditionally classified by Brahmanic philosophers, e.g. the Naiyāyikas, as an eristical dispute or refutation-only debate (vitaṇḍā) and considered as a non-genuine argument, because the goal of an authentic debate was to strive for truth, understood of course in positive terms. Were such criticisms denying Jayarāśi a genuine argumentative value justified? Clearly not, and for a variety of reasons, the most important being that the main objective of Jayarāśi is indicated in the title of his treatise: the dissolution of all categories. How should we understand it? Was his approach purely negative, eristical, nihilistic or agnostic? His main objective, it seems, was not necessarily the strong claim that no truths can ever be known. Rather his intention was to show the fundamental dependence of our knowledge of reality on cognitive means and categories we accept more or less arbitrarily. The dissolution of all categories implies that the criteria on which all philosophical systems and theories of the world rest are in need of further evidence, which itself is not possible without adopting some of these categories or some other categories which again call for further evidence, but which categories and methods we chose is ultimately our arbitrary decision. To engage in what Brahmanic philosophers would call a ‘genuine debate’ (vāda) one would necessarily have to accept that such an arbitrary decision is ultimate and justified, thus giving up the further search for truth, even though the process would be infinite and doomed to terminate untimely. In other words, contradictions and inconsistencies are, in fact, inherently systemic in the sense that they are generated by a body of propositions each adopted arbitrary for this or other reason, and the systemic knowledge ultimately lacks reliable and coherent foundations. Just as with Pyrrhonism in Sextus’ interpretation, Jayarāśi seems to be a perpetual investigator: he discards all theories and propositions that are neither consistent nor proof-tight, for which there is also no compelling evidence. But it would probably be far-fetched to claim that the idea of truth did not represent any value for him.
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      ### 2.2 Scepticism and Definitions
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      Jayarāśi may be arguably claimed to represent what has been once labelled epistemological scepticism, or ontological scepticism (Hankinson 1995, 13ff)[^hankinson-1995], i.e., the position in which one refuses to accept the truth of some proposition or to affirm the existence of something, without denying it, as distinguished from negative (ontological) dogmatism, i.e., the attitude in which one actually rejects the truth of some proposition and denies the existence of the alleged objects. Further, Jayaraśi’s qualified methodological scepticism should not be confused with what is covered by the term e.g. in the case of Descartes’ approach to seek ultimately firm foundations after all beliefs liable to doubt have been successfully eliminated. Jayarāśi seeks neither ultimate foundations for his system or firm basis for his epistemology, ontology or ethics, because he never, even vaguely, intimates he would have any. He is satisfied with demonstrating that all we, the philosophers, have so far established, does not hold. But contrary to Descartes’ methodological scepticism, Jayarāśi does not really cast doubt on what comes to us from the senses.
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      At the outset of his work (TUS 1), he points out the major deficiency of our knowledge: ‘To establish cognitive criteria (pramāṇa, instruments of knowledge) depends on proper definitions. Further, to establish objects of cognitive criteria depends on cognitive criteria. When proper definitions are absent, how is it possible that one would treat both the cognitive criteria and their objects as genuinely real?’ To adopt certain definitions we first have to adopt certain definitions and criteria of validity. That has to be done vis-à-vis the external reality and tested for validity with respect to phenomena that have all the appearance of real, for Indian philosophers en bloc accepted the correspondence theory of truth. To test the definitions, criteria of validity and cognitive criteria with respect to real objects, we should first know what these real objects really are. To know that we have to have reliable instruments of knowledge (cognitive criteria) and criteria of validity at our disposal. We land in vicious circle: we can neither know cognizable real objects nor determine what genuine cognitive criteria are, nor be actually able to define them without having the idea of validity first. Without it we cannot even properly distinguish between valid cognitive procedures and invalid ones.
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      Since it is vital to have a proper definition of a cognitive criterion, or a valid cognitive procedure and criterion of truth for philosophical enterprise, Jayarāśi analyses such definitions which were formulated within most important philosophical schools in India. The cognitive criteria whose various definitions are one by one examined are perception (pratyakṣa), inference (anumāna), presumption (arthāpatti), reasoning based on analogy (upamāna), negative proof based on absence (abhāva), equivalence (sambhāva), tradition (aitihya), and verbal or scriptural testimony (śabda, āgama). In terms of argumentative structure and nature, they all can be reduced to three: perception, inference and testimony. The philosophical schools which Jayarāśi most frequently refers to and criticises their definitions of the cognitive criteria are the Nyāya, Vaiśeṣika, Sāṁkhya, Mīmāṁsā as well as Buddhist and Jaina schools.
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      He demonstrates that no one so far has offered an irrefutable definition of perception (which does not have to mean that perception as such has to be completely unreliable). All definitions of perception are seriously flawed and we cannot rely on it in the way it is defined: we do not have even a reliable method or a dependable criterion to distinguish a genuine perception from a mirage, optical illusion or a mental image (e.g. in hallucination, reminiscence or dream). However, Iit is not the case that Jayarāśi argues that ‘there is simply no way … to know that our sense-perceptions are true’ (King 1999: 19)[^king-1999]. What he is up to is to demonstrate that, given our present definitions of perception and categories on which our epistemology rests, there is no way to determine which of our sense-perceptions are true.
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      What is considered inference (anumāna) relies on data provided by perception which makes inference doubtful. But inference the way it has so far been defined is flawed for a number of other reasons. There is no reliable way to relate properties or facts in a truth-conducive way. For instance, to infer the cause from the effect one would have to first define what causality is, which as Jayarāśi demonstrates cannot be done with the categories we have at our disposal: there is actually no reliable way to relate A and B as cause and effect. Further, what do we relate in inference: universals with universals, universals with a particular, or a particular with a particular? Since universals do not exist, inferences which are based on such notions are intrinsically flawed. We are left with the idea that inferences depend on particular-to-particular relation. That being the case, there is no method to establish any kind of valid relationship of universal  character between two particulars which could allow us to draw any sound inferences from single-instantiated cases. Further, inferences will have to rely on cases of inductive reasoning which are logically not valid and cannot be demonstrated to be universally valid. Also testimony of an authority cannot be a legitimate source of knowledge because, first, such testimony would have to rely on other cognitive criteria and, second, we would have no means to determine what a reliable testimony is or who an authoritative person can be. Therefore, given all available definitions and criteria admitted by the tradition, nothing can be known for certain (Balcerowicz (2019: 918–­924)).
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      Jayarāśi’s undertaking is not restricted to the examination of valid cognitive procedures, or cognitive criteria (pramāṇa) and their definitions. In the course of his work, he analyses a number of fundamental ideas and demonstrates that their definitions are inadequate and they cannot exist as understood and defined by philosophers. These include such notions as validity and nonerroneousness, sublation of previous knowledge by a subsequent experience, universals, the relation of composite wholes to their parts, production of cognitions, ontological categories such as inherence of properties in their substrata, the nature of illusion, the definition of what exists (e.g. the real object’s ability to execute causally efficient action, artha-kriyā), the nature of sense-object contact, memory and recollection, momentariness and permanence, conceptuality or conceptual state of mind, relation of the conceptual image in cognition to the external thing represented, the nature of consciousness (rejection of non-material character), rebirth and karmic retribution, causality, visible and invisible objects, absences, rules of inference etc. All these ideas, as Jayarāśi demonstrates, stand in need of proper definition and as long as we do not have them cannot be maintained in their present form.
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      Importantly, as a recent publication demonstrates, he strictly applies fundamental principles of logic, including a range of standard, classical laws of logic, such as: the law of non-contradiction, the law of excluded middle,  the law of identity,  De Morgan’s laws,  Leibniz’s law (the indiscernibility of identicals), and other basic axioms of logic, including patterns of a priori reasoning whose validity is solely determined by their logical form and structure, and not necessarily by their empirical relevance or validation through empirical observation. At least on one occasion he also makes use of the fourfold division of logically possible alternatives of p, i.e. the tetralemma (catuṣ-koṭi) in an argument directed against the Buddhists (who themselves accept the tetralemma as a standard procedure): *p*, ~*p*, *p*∧~*p*, ~(*p*∧~*p*) (Balcerowicz (2019: 924–931). He also takes the conclusions derived from premisses through such reasoning based on logic principles and range of rules (formulated as laws of logic) as valid. Ergo, he accepts inference – but not anumāna – as legitimate means of arriving at truth, and these consistently remain beyond his criticism. This analysis sheds important light on the nature of his criticism of what was traditionally accepted in classical India as ‘inference’ (anumāna), which is deficient for two main reasons: its definitions formulated by philosophers are faulty, and its validity is rooted in empirical conditions. Indian anumāna is just a sub-theory of logic and should be understood as inference in a qualified sense and of a narrower scope, applied to empirically relevant claims, based on empirically observed regularities and advancing arguments involving the problem of induction; anumāna completely excludes deduction and all varieties of a priori reasoning and analytic judgements. What is termed anumāna should therefore be called ‘disputational inference’ or ‘debational inference’, in view of its origins in the context of debate. We can observe that Jayarāśi’s case does not present that of a genuine sceptic who would put to doubt the possibility of arriving at truth per se and would point to fundamental impossibility to know facts. His approach is not scepticism, which questions the epistemic principles he himself also employs. Instead, with the logical apparatus that rests in one domain the validity of which he takes for granted, Jayarāśi finds fault with another, quite different domain: that of the principles of traditional Indian epistemological and logical model, rooted in reasonings which are based on empirical observation and are not a priori (Balcerowicz (2019: 931–943).
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      ### 2.3 Positive Views
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      Jayarāśi, as we noted, is cautious not to affirmatively state anything, and nowhere does he use such expressions as ‘thus it was established that’ (iti sthitam) or similar expressions typical of all other philosophical works. Despite this, can we reconstruct any positive views he affirms or is his scepticism all-embracing? It seems there a few such views. His clear rejection of karmic retribution, afterlife and the supernatural (‘human actions do no bring otherworldly results, such as rebirth in heaven etc.’) and the claim the ultimate reality for us is what we experience and what surrounds us concerns both metaphysics and ethics. Metaphysically, there is no supernatural reality of any relevance to us. Ethically, the only criterion to determine what is right and wrong is what people agree to accept as such (‘the worldly path should be followed’). Quite frequently, he uses examples of non-existent entities such as demons (piśāca), atoms (paramâṇu) and god (mahêśvara), taking their fictitious character for granted, which indicates that he apparently rejected invisible reality which is intrinsically beyond our senses.
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      A recent publication enumerates altogether more than a dozen such positive views that can be possibly reconstructed and ascribed to Jayarāśi (Balcerowicz (2020: 599–600)). On one occasion (in the Buddhist section, TUP, p.57–88 = Franco (1987: 269–271) = Solomon (2010: 120) = Jha (2013: 228–229)), while refuting the view that ‘the first moment of consciousness [of the newly born], immediately after the exit from the mother’s womb, is preceded by another moment of consciousness’, he concludes that ‘the first moment of consciousness in the womb etc. [i.e., of the newly born], must come from the combination of the elements’, which is a typically materialist view. He further takes consciousness to be a product of matter; rejects the existence of the soul or any kind of conscious entity that might exist independently of the material body, and all that is supernatural and imperceptible, such as demons (piśaca), atoms (paramâṇu) or god (mahêśvara); dismisses afterlife, transmigration, karmic retribution (karman), virtue (puṇya) or vice (pāpa); denies heavens, hells, liberation, omniscient beings and omniscience; rejects ritualism and and the purposefulness of religious cult, religious revelation, religious authority (āpta), the concept of righteousness (dharma); dismisses the validity of the pramāṇa model of epistemology, but accepts the validity of direct experience (anubhava).
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      He plainly states that ‘universals do not exist’ (TUP, 4.5 ff.), which does not seem to be a mere thesis which he rejects just for the sake of argument, because throughout his work he will refer to this claim (‘we have already shown that universals do not exist’). He is a nominalist in accepting only particulars which for him are external, macroscopic, non-momentary and material objects. On another occasion (TUS 24) he criticises the view that composite macroscopic wholes cannot exist, and what exists instead are their parts only (a typical Buddhist nominalist position). He concludes there is no way to demonstrate that composite wholes are non-existent. Interestingly, he nowhere links the idea of composite wholes (and the paradox of the whole and its parts), which he seems to accept, to idea the universal (and the paradox of the universal and the particulars as its instantiations), which he clearly rejects. These two concepts, the wholes and universals, were generally analysed in India jointly as two aspects of the same problem: just as the whole exists (or does not exist) through its parts, in the very same way also the universal exists (or does not exist) through its particulars. Interestingly, Jayarāśi never links these two issues, precisely because, it seems, he admitted the existence of macroscopic objects of our experience (i.e., composite wholes) whereas he rejected the existence of universals. Being a sceptic, he does seem to accept a ‘commonsensical view’ of the world that consists of such macroscopic objects, but not of invisible atoms or universals, demons and god. In line with this approach, he seemed also to maintain that consciousness is a product or combination of the four elements (see above). It should not come as a surprise to discover that all these views he shared with genuine materialists of the Cārvāka / Lokāyata tradition.
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      What may appear as a truly sceptical thesis is his assumption that all philosophical claims are always made within a particular set of beliefs, i.e., within a particular system which is based on arbitrarily accepted criteria, definitions and categories. His pragmatic, ‘commonsensical attitude’ is highlighted in a verse he quotes: ‘with respect to everyday practice of the world, the fool and the wise are similar’ (see above), because ultimately we all have to rely on our experience and defective and partial knowledge of reality.
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      The conclusion of his work: ‘Thus, when all categories are completely dissolved in the above manner, all practical actions (which entails thought, speech and activity) can be enjoyable, without being reflected upon’, is quite meaningful. On the one hand it could be taken to imply some kind of a carpe diem attitude: given our limitations and intrinsic inability to know with certainty, the only option we are left with is to enjoy the world the way it appears to us. On the other hand, the statement could also suggest that what Jayarāśi had in mind was that for all our practical activities, including thinking, verbal communication, behaviour or ordinary life, the world of our actions — as long as it is relevant to us — is ‘here and now’ and retains its ultimate validity, even though we are incapable of its proper philosophical analysis.
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      请与作者联系，提供建议。
+    step2: |-
+      请与作者联系，以提供建议。
+  - id: 63
+    kind: note
+    source: |-
+      [^note-1]: This point is misinterpreted by Bhattacharya (2009: 76 and n. 43), who takes it surprisingly as evidence that Jayarāśi refers to Bṛhaspati ‘as a god or demi-god’ and therefore ‘that Jayarāśi was not a Cārvāka/Lokāyata’.
+    step1: |-
+      [^note-1]: 这一点被 Bhattacharya（2009: 76 及注 43）误解了：他出人意料地把它当作证据，说阇耶罗师是把 Bṛhaspati 当作“神或半神”来提及的，因此“阇耶罗师并非顺世论者（Cārvāka/Lokāyata）”。
+    step2: |-
+      [^note-1]: Bhattacharya（2009: 76 及注 43）误读此点，竟引为证，谓阇耶罗师以 Bṛhaspati 为“神或半神”，故“其人非顺世论（Cārvāka/Lokāyata）之徒”。
+  - id: 64
+    kind: note
+    source: |-
+      [^note-2]: For a different understanding of the passage, see Franco (1987: 7) and  Bhattacharya (2017: 353–354).
+    step1: |-
+      [^note-2]: 关于这一段的不同理解，见 Franco (1987: 7) 与 Bhattacharya (2017: 353–354)。
+    step2: |-
+      [^note-2]: 此段别有解，见 Franco (1987: 7)、Bhattacharya (2017: 353–354)。
+  - id: 65
+    kind: note
+    source: |-
+      [^note-3]: It is an extrapolated verse, included also in the Āraṇyaka-parvan of the Mahā-bhārata (MBh 3, Appendix I, 32.65–68, p. 1089); it occurs also in the narrative literature, e.g., it is quoted in the colophon of Kathā-saṅgraha (Tripāṭhī 1975, 288)[^tripāṭhī-1975].
+    step1: |-
+      [^note-3]: 这是一节推补出来的偈颂，也见于《摩诃婆罗多》（Mahā-bhārata）的《森林篇》（Āraṇyaka-parvan；MBh 3, Appendix I, 32.65–68, p. 1089）；它同样出现在叙事文学中，例如《故事总集》（Kathā-saṅgraha）的卷末题记中就引用了它（Tripāṭhī 1975, 288）[^tripāṭhī-1975]。
+    step2: |-
+      [^note-3]: 此为推补之偈，亦见《摩诃婆罗多·森林篇》（MBh 3, Appendix I, 32.65–68, p. 1089）；叙事之书亦有之，如《故事总集》（Kathā-saṅgraha）卷末题记引之（Tripāṭhī 1975, 288）[^tripāṭhī-1975]。
+  - id: 66
+    kind: note
+    source: |-
+      [^note-4]: *sarvatra para-paryanuyoga-parāṇy eva bṛhaspateḥ sūtrāṇi*, quoted, e.g., in  PrP 63.1; SViṬ, p. 277.22–23. For details see: Franco (1987: 6, 301) / (1994: 559); cf. also Bhattacharya (2009: 53 n. 42).
+    step1: |-
+      [^note-4]: *sarvatra para-paryanuyoga-parāṇy eva bṛhaspateḥ sūtrāṇi*，例如见于 PrP 63.1；SViṬ, p. 277.22–23。详见 Franco (1987: 6, 301) / (1994: 559)；并参 Bhattacharya (2009: 53 n. 42)。
+    step2: |-
+      [^note-4]: *sarvatra para-paryanuyoga-parāṇy eva bṛhaspateḥ sūtrāṇi*，如见 PrP 63.1；SViṬ, p. 277.22–23。详考见 Franco (1987: 6, 301)/(1994: 559)；并参 Bhattacharya (2009: 53 n. 42)。
+  - id: 67
+    kind: note
+    source: |-
+      [^note-5]: The earliest sceptical predilection within the Vedāntic tradition can be ascribed to Śrīharṣa (c. 1125–1180 CE), see: Mills (2018: 115–157).
+    step1: |-
+      [^note-5]: 吠檀多传统中最早的怀疑倾向，可以归给室利诃奢（Śrīharṣa，约公元 1125–1180），见 Mills (2018: 115–157)。
+    step2: |-
+      [^note-5]: 吠檀多统中最早之怀疑倾向，可归之室利诃奢（Śrīharṣa，约 1125–1180），见 Mills (2018: 115–157)。
