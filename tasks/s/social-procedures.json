@@ -2,7 +2,7 @@
   "slug": "social-procedures",
   "kind": "retranslate",
   "zh_doc": "s/social-procedures.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "SZ-main-20261107",
       "at": "2026-11-07T15:48:19Z",
       "evidence": "复审（逐句回核原文与逻辑）：十处易错点复核通过——cutting guarantees a fair share but no more than that／envy-free=sure sign 无人愿换／non-manipulable 宿舍抽签动机反转／token 仅持有者可发起通信／common knowledge 需公开宣告而消息交换不足（两将军）／Ignorantia legis 不知法不免责／theory of play 非博弈论本身／epistemic planning 合成协议造高阶知识配置／reciprocal altruism 互惠利他／buy back 价格 (A+B)/2；数学式逐字符与源一致（173 个）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-07T16:31:12Z",
+      "evidence": "终审：check_all --all 9 项全绿；单会话作业已按 ADR-0020 冷置——先提交现场并跑全量门禁，再回读 §3 与脚注段，发现源文偏好表 g/f 笔误并加克制译注（同步入账本）、相关词条三处定名误差以幂等后处理固化；验收签字：SZ-main-20261107"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-07T16:35:02Z",
+      "evidence": "done：s/social-procedures.md 23676 字符 96 段（6 节 + 17 子节标题 + 6 引块 + 3 脚注 + 文献定义区 + OIR 2 子节 + 致谢）；八步凭证齐全；六门+全量门禁全绿；术语 41 行、人名 32 行入册；公式 173 个逐字符照录"
     }
   ],
   "blockers": [],
