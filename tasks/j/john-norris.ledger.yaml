@@ -203,50 +203,66 @@ segments:
     kind: body
     source: |-
       > The Truth and Necessity of these Attributes is so Unquestionably certain in the Nature of that Glorious and Adorable Being which we call God, that there needs no other Evidence of the Falshood of any *Hypothesis* how rational soever and well adjusted it may otherwise appear, than the Repugnance which it shall be convinc’d to carry in it to all or any of these Attributes. And therefore it is necessary to acquit our Theory of Ideas from that Inconvenience which on this side it may seem to lie open to, and which alone would be sufficient utterly to Silence and Overthrow it. And since it is *Necessary*, ‘tis no little Satisfaction to me to find it so *Feasible*. (*Theory I* 293)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 这些属性在我们称为上帝的那位荣耀可敬的存在者之本性中，其真实与必然如此不容置疑地确定，以至于要证明任何*假说*（无论它显得多么合理、在别的方面调适得多么好）为假，别无其他证据可需，只须指出它被判定为与这些属性之全体或其中之一相违。因此，必须使我们的观念理论免于它在这一方面看来可能招致的那个不便——单是这一点，就足以彻底使该理论噤声并被推翻。而既然它是*必然的*，那么发现它同样*可行*，于我便不是小小的满足。（*理论一* 293）
+    step2: |-
+      > 此诸属性，在吾人所称上帝——彼荣耀可敬之存在者——之性中，其真与必然确然而不可疑，乃至欲证任何*假说*之伪（无论其外观何等合理、他处何等调适），更无他证可须，惟指其于此诸属性之全或其一有所抵牾而已。故必使我观念之说免于此一方面所似可招之不便——即此一端，已足尽使此说噤声而倾覆。且其既为*必然*，则知其亦*可行*，于余非小小之慰也。（*理论一* 293）
   - id: 26
     kind: body
     source: |-
       Some critics, including Arnauld, had charged Malebranche with Spinozism because he claimed God has the idea of intelligible extension. Such critics reasoned that the only way for God to contain extension is for God to be extended. Norris reconciles God’s possession of intelligible extension with the immateriality of God by using the notion of eminent containment. There are two ways a thing can be contained in another, formally or eminently. Norris notes formal and eminent containment are usually discussed in the context of causation. Generally, formal containment explains cause and effect sequences amongst similar causes and effects. For example, the cause of a child’s fear might be the recollection of a frightening image. The child’s fear is formally contained in the recollection. Eminent containment explains dissimilar causes and effects. When an architect designs a building, and several months later the architect’s vision is realized in a physical structure, that physical structure was eminently contained, or contained in a higher manner, in the mind of the architect. All human actions, as long as they are planned, are eminently contained in the human mind. Analogously, Norris states God eminently contains extension as a divine idea just as the architect eminently contains the building. Intelligible extension, then, is a divine idea. Norris believes that the ideal philosophy can settle the meaning of ‘eminent containment’, and thus settle the dispute about intelligible extension. This view is found in “*POSTSCRIPT, Concerning the Distinction of* Formaliter *and* Eminenter, *as applied to the manner of the Perfection of Things being in God*,” appended to *Theory I*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些批评者——包括阿尔诺——曾指控马勒布朗士为斯宾诺莎主义，因为他主张上帝拥有可理解广延的观念。这类批评者推论说：上帝要包含广延，唯一的方式就是上帝本身有广延。诺里斯借助“卓越包含”的概念，使上帝拥有可理解广延与上帝的非物质性相容。一个东西被包含在另一个东西之中，可以有两种方式：形式地或卓越地。诺里斯指出，形式包含与卓越包含通常是在因果性的语境中讨论的。一般说来，形式包含解释相似的原因与结果之间的序列。例如，一个孩子恐惧的原因，可能是回忆起一个可怕的影像；孩子的恐惧形式地被包含在那回忆之中。卓越包含则解释不相似的原因与结果。当一位建筑师设计一栋建筑，几个月后建筑师的构想在一实物结构中得到实现，那个实物结构就曾经卓越地被包含——或以更高的方式被包含——在建筑师心中。一切人类行动，只要是经过谋划的，就都卓越地被包含在人的心中。与此类似，诺里斯说：上帝以神圣观念的方式卓越地包含广延，正如建筑师卓越地包含建筑。那么，可理解广延就是一个神圣观念。诺里斯相信，观念哲学可以裁定“卓越包含”的含义，从而裁断关于可理解广延的争论。这一看法见于《理论一》所附的“*附记：论* Formaliter *与* Eminenter *之区分，及其如何用于万物之完满在上帝中的方式*”。
+    step2: |-
+      评者如阿尔诺，尝以斯宾诺莎主义责马勒布朗士，以其谓上帝有可理解广延之观念也。此辈推之曰：上帝容广延，其道惟一，即上帝自有广延耳。诺里斯假“卓越包含”之念，使上帝之有可理解广延与其非物之性相容。凡物之容于他物，其式有二：形式地，与卓越地。诺里斯谓形式、卓越二包含，常于因果之论中及之。大抵形式包含释相似因果之序。如童子之惧，其因或为忆一可怖之象，而童子之惧即形式地含于此忆中。卓越包含则释不相似之因果。建筑师营构一屋，数月而其构想成于实物，则此实物尝卓越地——或以更高之式——含于建筑师之心。凡人之行，苟经筹度，皆卓越地含于人心。诺里斯比之曰：上帝以神圣观念卓越地含广延，犹建筑师卓越地含其屋。然则可理解之广延，一神圣观念也。诺里斯信观念哲学能定“卓越包含”之义，因以断可理解广延之争。此说见《理论一》所附“*附记：论* Formaliter *与* Eminenter *之别，及其施于万物完满在上帝中之方式*”。
   - id: 27
     kind: body
     source: |-
       Norris derives the “divine ideality,” or the divine ideas, from the infinitude of God, and he derives God’s infinity from the divine ideas (Norris argues this is non-circular as we shall see below):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      诺里斯从上帝的无限性推出“神圣观念性”或神圣观念，又从神圣观念推出上帝的无限性（诺里斯论证这不是循环论证，见下文）：
+    step2: |-
+      诺里斯自上帝之无限推其“神圣观念性”或神圣观念，又自神圣观念推上帝之无限（诺里斯谓此非循环，见下文）：
   - id: 28
     kind: body
     source: |-
       > And as his Ideality may be Demonstratively proved from his Infinity so his Infinity may be very Rationally collected from his Ideality, it being not Conceivable that any Being that is not Infinite in Being, should be *Omniform*, or have the Ideal Reasons of all things in himself. (297)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 正如他的观念性可以由他的无限性来证明，他的无限性也可以非常合乎理性地从他的观念性推出；因为不可设想：任何一个在存在上并非无限的存在者，会是*全形的*（Omniform），或自身中具有万物的观念性理式。（297）
+    step2: |-
+      > 如其观念性可由其无限性而证，则其无限性亦可极合于理地由其观念性而推；盖不可设想：凡在存在上非无限者，乃为*全形*（Omniform），而自有万物之观念性理式于己。（297）
   - id: 29
     kind: body
     source: |-
       One objection Norris raises concerns how the infinite can represent the finite. His answer again relies upon the thought of Suarez, whom Norris reread carefully before writing his *Theories I* and *II*. Suarez had distinguished two ways of being finite. An item can be finite according to its “*esse formale*” or its “*esse reale*” (300). If a thing is positively finite, it is limited in such a way that can never be infinite. If a thing is negatively finite, it is finite “though there be no repugnance in its having it [infinitude] from elsewhere” (301–302, brackets added). A divine idea, according to its *esse formale* is negatively finite whereas according to its *esse reale* is infinite. Norris believes “Ideas are really Identical with the Divine Nature, and so partake of the same real Infinity and Incomprehensibility that essentially belongs to it” (302). If each idea is identical to God, then each idea is really infinite, and negatively finite. A further consequence is that an idea can be called both infinite and finite without contradiction. Norris also notes there is no multiplication of infinities in God on his view. Here Norris diverges from Malebranche’s view as stated in the second dialogue of *Dialogues on Metaphysics and Religion* that God is “infinitely infinite,” which strikes the reader as comparable to Spinoza’s infinite attributes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      诺里斯提出的一个反驳涉及：无限者如何能表象有限者。他的回答再次依赖苏亚雷斯的思想——诺里斯在写《理论一》与《理论二》之前曾仔细重读苏亚雷斯。苏亚雷斯区分了两种有限的方式。一个项目可以按其“*esse formale*”（形式存在）或“*esse reale*”（实在存在）而是有限的（300）。如果一个东西是肯定地有限的，它受到的限制使它永远不可能是无限的。如果一个东西是否定地有限的，它就是有限的，“尽管它从别处获得〔无限性〕并无任何矛盾”（301–302，方括号为引者所加）。一个神圣观念按其*esse formale*是否定地有限的，而按其*esse reale*则是无限的。诺里斯认为，“观念实在与神圣本性同一，因而分有本质上属于它的同一实在无限性与不可理解性”（302）。如果每个观念都与上帝同一，那么每个观念就实在是无限的，同时又是否定地有限的。进一步的结论是：一个观念可以被同时称为无限的和有限的，而不矛盾。诺里斯还指出，按他的看法，上帝之中并没有无限性的倍增。这里诺里斯偏离了马勒布朗士在《形而上学与宗教对话》第二篇对话中所表述的观点——上帝是“无限地无限的”，这给读者的印象可与斯宾诺莎的无限属性相比。
+    step2: |-
+      诺里斯所设一难：无限者何以能表有限者？其答仍赖苏亚雷斯之说——诺里斯于撰《理论一》《理论二》之前，尝细读之。苏亚雷斯分有限之式二：一物可依其“*esse formale*”（形式存在）而为有限，或依其“*esse reale*”（实在存在）而为有限（300）。肯定地有限者，其限使之永不得为无限。否定地有限者，则“虽自他处而得〔无限性〕，亦无抵牾”（301–302，方括号为引者所加）。神圣观念依其*esse formale*为否定地有限，而依其*esse reale*则为无限。诺里斯以为“观念实与神圣本性同一，故分有本质上属彼之同一实在无限性与不可穷尽性”（302）。使每一观念皆同于上帝，则每一观念实为无限，而又否定地有限。又其结论：一观念可同时称无限、称有限，而无矛盾。诺里斯又谓依其说，上帝之中无无限之倍增。此处诺里斯异于马勒布朗士《形而上学与宗教对话》第二篇所说：上帝为“无限地无限”，读者觉其可比于斯宾诺莎之无限属性。
   - id: 30
     kind: body
     source: |-
       One might wonder how God’s ideality could be proven from his infinity and his infinity from his ideality because such an argument appears circular. Norris explains why this need not concern us:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有人可能奇怪：上帝的无限性怎能由他的观念性证明，而他的观念性又怎能由他的无限性证明？这样的论证似乎是循环的。诺里斯解释说，这不必令我们担心：
+    step2: |-
+      或疑：上帝之无限何以由观念性证，观念性又何以由无限证？若是者似循环。诺里斯释其不必为虑：
   - id: 31
     kind: body
     source: |-
       > But now there is no more absurdity in proving the same by the same, if by the same be meant only really, not formally the same, than in proving one attribute of God by another, as his eternity, suppose, from the necessity or immutability of his being, which though really the same, yet being of a distinct formality, are allowed in all rational discourses about them to be considered and used as if really distinct, as to any consequence from one to the other. (406–407)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 但如今，以同一者证明同一者——只要“同一”只是实在地同一，而非形式地同一——其中的荒谬并不比用一个上帝的属性证明另一个属性更多；例如，假设由上帝存在的必然性或不变性来证明他的永恒性：二者虽然实在同一，却属于不同的形式性，因此在对它们的一切理性谈论中，都可把它们视为实在有别的，就其一推及另一的后果而言。（406–407）
+    step2: |-
+      > 然今以同者证同者——使“同”者惟谓实在之同，非形式之同——其荒谬不多于以一属性证上帝之他属性，如由存在之必然或不变以证其永恒：二者虽实在同一，而分属不同之形式性，故于一切论之之言，皆可视为实别，就其一及于其他之效而言。（406–407）
   - id: 32
     kind: body
     source: |-
       Indeed, Norris proves the existence of God from the nature of truth, which is another divine attribute. (See *A Metaphysical Essay* 193–207 in *Miscellanies*.) Norris also proves the many attributes of God beginning with God’s attribute of necessary existence, revealed in His proclamation to Moses that He is “I Am.” In *Reason and Religion* Norris interprets this proclamation as Being. These various demonstrations proceed by proving “the same by the same” since any and all attributes are “really the same” with one another, the attributes are identical to God.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      事实上，诺里斯正是从真理的本性——那又是一个神圣属性——来证明上帝的存在（见《杂集》中的《形而上学论》193–207）。诺里斯还从上帝的必然存在这一属性出发，证明上帝的诸多属性；这一属性显于上帝对摩西的宣告“我是”（I Am）。在《理性与宗教》中，诺里斯把这一宣告解释为“存在”（Being）。这些不同的证明都以“以同一者证同一者”的方式进行，因为一切属性彼此“实在同一”，属性与上帝同一。
+    step2: |-
+      实则诺里斯即真理之性——又一神圣属性——以证上帝之有（见《杂集》中《形而上学论》193–207）。又自上帝必然存在之属性始，以证其诸属性：此属性见于上帝对摩西所宣“我是”（I Am）。《理性与宗教》中，诺里斯释此宣为“存在”。此诸证皆以“同者证同者”行之，以凡属性皆彼此“实同”，而属性即上帝故。
   - id: 33
     kind: body
     source: |-
