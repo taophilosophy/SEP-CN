@@ -62,6 +62,16 @@ class TestCheckProse(unittest.TestCase):
         line = "贝叶斯认识论 | 归纳问题 | 查尔斯·桑德斯·皮尔士 | 科学实在论 | 简单性 | 怀疑论\n"
         self.assertEqual(run(line), [])
 
+    def test_bei_term_not_passive(self):
+        # "被动"是术语（主动/被动），不计入被字句（S5 白名单 2026-11-08）
+        self.assertNotIn("passive-bei", rules(run(
+            "主动与被动之间有一个重要区别，木头对火是被动的。\n")))
+
+    def test_mudi_not_de_chain(self):
+        # "目的/目的论"词内的"的"不是结构助词（S5 白名单 2026-11-08）
+        self.assertNotIn("de-chain", rules(run(
+            "这种目的论的进路把目的当作行动的解释项。\n")))
+
     def test_exempt_refs_and_math(self):
         md = ("## 参考文献\n\n"
               "[^a-2001]: Author, A., 2001. *Some Book*, Oxford: Oxford University Press.\n\n"

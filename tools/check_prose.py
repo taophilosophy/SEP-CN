@@ -17,7 +17,9 @@
 豁免: 围栏代码块与行内代码、数学定界符 $…$/$$…$$、表格行、标题行、
       脚注定义行、参考文献节（含 ADR-0011 还原的中文著录行，非叙述散文）、
       竖线列表行（如"相关词条"A｜B｜C 行，含 ≥2 个未转义 |）、
-      "进行中/进行中的"（体貌义，非弱动词结构）、
+      "进行中/进行中的"（体貌义，非弱动词结构），
+      词内"的"——"目的论""目的"（名词与术语，非结构助词；2026-11-08 S5），
+      词内"被"——"被动"（术语"主动/被动"，非被字句标记；2026-11-08 S5），
       汉字占比 <50% 或汉字数 <8 的行（公式、链接、英文镜像行）。
 
 退出码: 0 无问题（告警级，默认不拦提交）；1 有 issue（仅 --strict 时）。
@@ -74,10 +76,13 @@ def check_line(path, lineno, line, issues):
                            "rule": "long-sentence",
                            "detail": "单句 %d 汉字（阈值 70）：%s" % (len(s_han), excerpt)})
         if sent.count("被") >= 2:
-            issues.append({"path": path, "line": lineno,
-                           "rule": "passive-bei",
-                           "detail": "单句 %d 个“被”：%s" % (sent.count("被"), excerpt)})
-        if DE_CHAIN_RE.search(sent) or sent.count("的") >= 6:
+            # "被动"为术语（主动/被动），不是被字句标记（S5 白名单 2026-11-08）
+            if sent.replace("被动", "\x00\x00").count("被") >= 2:
+                issues.append({"path": path, "line": lineno,
+                               "rule": "passive-bei",
+                               "detail": "单句 %d 个“被”：%s" % (sent.count("被"), excerpt)})
+        de_text = sent.replace("目的论", "\x00\x00\x00").replace("目的", "\x00\x00")
+        if DE_CHAIN_RE.search(de_text) or de_text.count("的") >= 6:
             issues.append({"path": path, "line": lineno,
                            "rule": "de-chain",
                            "detail": "“的”连用或密度过高：%s" % excerpt})

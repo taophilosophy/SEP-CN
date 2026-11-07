@@ -43,6 +43,25 @@ CJK_LINE_RE = re.compile(r"[%s]" % HAN)
 # 脚注定义行 [^key]: ... 照录豁免：参考文献脚注定义区可位于 ## 学术工具 之后
 FN_DEF_RE = re.compile(r"^\[\^[^\]]+\]:\s")
 
+_START_QUOTE_RE = re.compile(r"(?<![\u4e00-\u9fff\w])['‘’](?=[^\W\d_])(?![\u4e00-\u9fff])")
+
+
+def _mask_start_quote(seg):
+    """遮蔽 ayn/hamza 式起始撇号（‘Abbāsid）；成对中文单引号（‘Kant’）连同闭合号一起遮蔽，
+    避免留下孤立右引号造成“右引号先于左引号”假阳性。"""
+    chars = list(seg)
+    for m in _START_QUOTE_RE.finditer(seg):
+        i = m.start()
+        if chars[i] == "A":
+            continue
+        if seg[i] == "\u2018":
+            close = seg.find("\u2019", i + 1)
+            if close != -1 and chars[close] != "A":
+                chars[i] = chars[close] = "A"
+                continue
+        chars[i] = "A"
+    return "".join(chars)
+
 
 def _segments(line):
     """一行拆成 [("text", …)/("code", …)] 交替段，检查只作用于正文段。"""
@@ -69,10 +88,13 @@ def check_line(path, lineno, line, issues):
         # 数学定界符 $…$/$$…$$ 内的 LaTeX 记号（如撇号 prime \mathbf{A}'）不是引号，先遮蔽再查；
         # 字母间的撇号（'‘’）是转写撇号（法语 l’âme、希伯来 Shi‘ur、阿拉伯 Ya’qub 等），
         # 不是引号，先遮蔽再查（[^\W\d_] 为 Unicode 字母类，覆盖变音字母）
-        # 词内撇号（两侧拉丁，Ya’qub/l’âme/Shi‘ur；排除汉字邻接——“…是如何’真…”是中文引号）
-        stripped = re.sub(r"(?<![\u4e00-\u9fff])[^\W\d_]['‘’][^\W\d_](?![\u4e00-\u9fff])", "AA", seg)
+        # 词内撇号（两侧拉丁，Ya’qub/l’âme/Shi‘ur；排除汉字邻接——“…是如何’真…”是中文引号；
+        # 两侧字母类须排除汉字，否则“的‘是-否…”这类中文成对引号会被误当词内撇号吞掉一只）
+        stripped = re.sub(r"(?<![\u4e00-\u9fff])[^\W\d_\u4e00-\u9fff]['‘’][^\W\d_\u4e00-\u9fff](?![\u4e00-\u9fff])", "AA", seg)
         # 转写 ayn/hamza 起始（‘Abbāsid：左邻标点/边界、右邻拉丁；任一侧邻汉字时必是中文引号）
-        stripped = re.sub(r"(?<![\u4e00-\u9fff\w])['‘’](?=[^\W\d_])(?![\u4e00-\u9fff])", "A", stripped)
+        # 成对中文单引号（‘Kant’、‘是-否可观察量’）须连同闭合号一起遮蔽，否则留下孤立
+        # 右引号，误报“右引号先于左引号”（2026-11-08 K 批实测）。
+        stripped = _mask_start_quote(stripped)
         _math = re.compile(r"\$\$.+?\$\$|\$[^$]+\$")
         stripped = _math.sub("\x00", stripped)
         for ch in stripped:
