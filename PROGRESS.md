@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-07 03:48（UTC）
+生成时间：2026-11-07 06:22（UTC）
 
 ## 总览
 
@@ -12,21 +12,21 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1022|
+|已建任务|1023|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|163|
-|在途（drafted 起、done 前）|239|
+|已完成（done）|165|
+|在途（drafted 起、done 前）|240|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|620|
+|pending|618|
 |cleared|168|
 |drafted|3|
-|s3_checked|68|
-|done|163|
+|s3_checked|69|
+|done|165|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -36,9 +36,9 @@
 |B|62|62|62|4|
 |C|172|172|172|3|
 |D|92|92|92|11|
-|E|99|99|99|16|
+|E|99|99|99|17|
 |F|96|96|96|0|
-|G|49|49|49|0|
+|G|49|49|49|1|
 |H|61|61|61|7|
 |I|75|75|75|18|
 |J|38|38|38|4|
@@ -55,7 +55,7 @@
 |U|4|4|0|0|
 |V|15|15|0|0|
 |W|38|38|5|0|
-|X|3|3|0|0|
+|X|3|3|1|0|
 |Y|2|2|1|0|
 |Z|6|6|0|0|
 
@@ -81,6 +81,7 @@
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
+|antonio-rosmini|retranslate|cleared|task_ops 2026-11-07|
 |basing-epistemic|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bauer|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -173,9 +174,9 @@
 |dialectical-school|retranslate|s3_checked|D-main-20261107 2026-11-06|
 |digital-art|retranslate|cleared|task_ops 2026-11-01|
 |dilthey|retranslate|cleared|task_ops 2026-11-01|
+|diodorus-cronus|retranslate|cleared|task_ops 2026-11-07|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |du-bos|retranslate|s3_checked|主代理 2026-11-01|
-|emerson|retranslate|cleared|task_ops 2026-11-06|
 |film|retranslate|drafted|EH-main-20261106 2026-11-06|
 |frame-problem|retranslate|cleared|task_ops 2026-11-06|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
@@ -183,7 +184,6 @@
 |galileo|retranslate|cleared|task_ops 2026-11-01|
 |games-abstraction|retranslate|cleared|task_ops 2026-11-01|
 |gangesa|retranslate|cleared|task_ops 2026-11-01|
-|gelukpa|retranslate|cleared|task_ops 2026-11-01|
 |gene|retranslate|cleared|EH-main-20261106 2026-11-06|
 |generics|retranslate|cleared|task_ops 2026-11-01|
 |genetic-drift|retranslate|cleared|task_ops 2026-11-01|
@@ -244,7 +244,7 @@
 |japanese-pure-land|retranslate|cleared|task_ops 2026-11-01|
 |japanese-zen|retranslate|cleared|task_ops 2026-11-01|
 |jaspers|retranslate|cleared|task_ops 2026-11-01|
-|jayaraasi|retranslate|cleared|task_ops 2026-11-01|
+|jayaraasi|retranslate|s3_checked|? 2026-11-07|
 |jefferson|retranslate|cleared|task_ops 2026-11-01|
 |johann-fichte|retranslate|cleared|task_ops 2026-11-01|
 |johann-herbart|retranslate|cleared|task_ops 2026-11-01|
@@ -302,3 +302,4 @@
 |truth-coherence|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
 |william-sherwood|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |wisdom|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
+|xenophanes|retranslate|cleared|task_ops 2026-11-07|
