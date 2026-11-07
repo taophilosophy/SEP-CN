@@ -1,0 +1,495 @@
+version: 1
+slug: wisdom
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      What is wisdom? Philosophers, psychologists, spiritual leaders, poets, novelists, life coaches, and a variety of other important thinkers have tried to understand the concept of wisdom. This entry will provide a brief and general overview, and analysis of, several philosophical views on the topic of wisdom. It is not intended to capture the many interesting and important approaches to wisdom found in other fields of inquiry. Moreover, this entry will focus on several major ideas in the Western philosophical tradition. In particular, it will focus on five general approaches to understanding what it takes to be wise: (1) wisdom as epistemic humility, (2) wisdom as epistemic accuracy, (3) wisdom as knowledge, (4) a hybrid theory of wisdom, and (5) wisdom as rationality.
+    step1: |-
+      什么是智慧？哲学家、心理学家、精神导师、诗人、小说家、人生教练，以及形形色色的重要思想家，都试图理解智慧这一概念。本文将对若干关于智慧这一主题的哲学观点作简要而总括的概述与分析。它无意囊括其他探究领域中关于智慧的许多有趣而重要的进路。此外，本文将集中于西方哲学传统中的几个主要观念。具体说来，它将集中于理解“何为有智慧”的五种一般进路：（1）智慧即认知谦逊；（2）智慧即认知准确；（3）智慧即知识；（4）智慧的混合理论；（5）智慧即合理性。
+    step2: |-
+      什么是智慧？哲学家、心理学家、精神导师、诗人、小说家、人生教练，以及各路重要思想家，都曾试图弄清智慧这个概念。本文只对若干关于智慧的哲学观点作一个简要、总括的梳理与分析，并不打算涵盖其他学科中那些有趣而重要的智慧进路；讨论范围限于西方哲学传统中的几个主要观念。具体说，本文考察理解“何谓有智慧”的五种一般进路：（1）智慧即认知谦逊；（2）智慧即认知准确；（3）智慧即知识；（4）关于智慧的混合理论；（5）智慧即合理性。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Wisdom as Epistemic Humility
+    step1: |-
+      ## 1 智慧即认知谦逊
+    step2: |-
+      ## 1 智慧即认知谦逊
+  - id: 3
+    kind: body
+    source: |-
+      Socrates’ view of wisdom, as expressed by Plato in *The Apology* (20e-23c), is sometimes interpreted as an example of a humility theory of wisdom (see, for example, Ryan 1996 and Whitcomb, 2010)[^ryan-1996]. In Plato’s *Apology*, Socrates and his friend Chaerephon visit the oracle at Delphi. As the story goes, Chaerephon asks the oracle whether anyone is wiser than Socrates. The oracle’s answer is that Socrates is the wisest person. Socrates reports that he is puzzled by this answer since so many other people in the community are well known for their extensive knowledge and wisdom, and yet Socrates claims that he lacks knowledge and wisdom. Socrates does an investigation to get to the bottom of this puzzle. He interrogates a series of politicians, poets, and craftsmen. As one would expect, Socrates’ investigation reveals that those who claim to have knowledge either do not really know any of the things they claim to know, or else know far less than they proclaim to know. The most knowledgeable of the bunch, the craftsmen, know about their craft, but they claim to know things far beyond the scope of their expertise. Socrates, so we are told, neither suffers the vice of claiming to know things he does not know, nor the vice of claiming to have wisdom when he does not have wisdom. In this revelation, we have a potential resolution to the wisdom puzzle in *The Apology*.
+    step1: |-
+      苏格拉底关于智慧的见解，如柏拉图在《申辩篇》（20e–23c）中所表述的，有时被解释为智慧谦逊理论的一个例子（例如参见 Ryan 1996 与 Whitcomb, 2010）[^ryan-1996]。在柏拉图《申辩篇》中，苏格拉底与他的朋友凯瑞丰前往德尔菲的神谕。故事说，凯瑞丰问神谕，有没有人比苏格拉底更有智慧。神谕的回答是：苏格拉底是最有智慧的人。苏格拉底报告说，他对这一回答感到困惑，因为共同体中还有那么多人以其广博的知识与智慧著称，而苏格拉底却自称缺乏知识与智慧。苏格拉底作了一番调查，以求弄清这一谜团。他盘问了一系列政治家、诗人和工匠。正如人们所料，苏格拉底的调查表明，那些自称有知识的人，要么并不真正知道他们所自称知道的任何事情，要么所知远少于他们所宣称知道的。这批人中最有知识的工匠，懂自己的手艺，却自称知道远超其专长范围的事情。据说，苏格拉底既没有犯下自称知道他所不知道之事的毛病，也没有犯下并无智慧而自称有智慧的毛病。在这一揭示中，我们得到了《申辩篇》中智慧谜团的一种可能解答。
+    step2: |-
+      苏格拉底对智慧的见解，见柏拉图《申辩篇》（20e–23c），有时被当作智慧谦逊理论的一例（例如参 Ryan 1996、Whitcomb, 2010）[^ryan-1996]。篇中苏格拉底偕友人凯瑞丰去德尔菲求问神谕：凯瑞丰问，可有人比苏格拉底更有智慧？神谕答曰：苏格拉底最有智慧。苏格拉底说这回答令他困惑——城邦里以博学多识著称的人比比皆是，而他偏偏自称无知无慧。于是他着手调查，要解开这个谜。他逐一盘问政治家、诗人、工匠。不出所料，调查显示：那些自称有知识的人，要么其实并不知道他们所自称知道的任何事，要么所知远少于所宣称的。其中最有知识的工匠，固然懂自己的手艺，却自称知道远超本行的事。而苏格拉底呢，据说既没有自称知道他所不知道的毛病，也没有无智慧而自称有智慧的毛病。这一揭示，为《申辩篇》的智慧之谜提供了一个可能的解答。
+  - id: 4
+    kind: body
+    source: |-
+      Although the story may initially appear to deliver a clear theory of wisdom, it is actually quite difficult to capture a textually accurate and plausible theory here. One interpretation is that Socrates is wise because he, unlike the others, believes he is not wise, whereas the poets, politicians, and craftsmen arrogantly and falsely believe they are wise. This theory, which will be labeled Humility Theory 1 (H1), is simply (see, for example, Lehrer & Smith 1996, 3)[^lehrer-1996][^lehrer-1996-2]:
+    step1: |-
+      尽管这个故事初看似乎给出了一个明确的智慧理论，实际上要在此捕捉一个文本上准确且可信的理论却相当困难。一种解释是：苏格拉底有智慧，是因为他与别人不同，相信自己没有智慧，而诗人、政治家、工匠则傲慢而错误地相信自己有智慧。这一理论将被称为谦逊理论 1（H1），它简单说来就是（例如参见 Lehrer & Smith 1996, 3）[^lehrer-1996][^lehrer-1996-2]：
+    step2: |-
+      故事乍看像是在交付一个明确的智慧理论；可在文本上要抓出一个既准确又可信的理论，其实相当困难。一种读法是：苏格拉底之所以有智慧，是因为他与众人相反，自认无智慧；而诗人、政治家、工匠则狂妄地误以为自己有智慧。这一理论不妨称为谦逊理论 1（H1），其内容简单说就是（例如参 Lehrer & Smith 1996, 3）[^lehrer-1996][^lehrer-1996-2]：
+  - id: 5
+    kind: body
+    source: |-
+      > **Humility Theory 1 (H1)**: *S* is wise iff *S* believes s/he is not wise.
+    step1: |-
+      > **谦逊理论 1（H1）**：*S* 有智慧，当且仅当 *S* 相信自己没有智慧。
+    step2: |-
+      > **谦逊理论 1（H1）**：*S* 有智慧，当且仅当 *S* 相信自己无智慧。
+  - id: 6
+    kind: body
+    source: |-
+      This is a tempting and popular interpretation because Socrates certainly thinks he has shown that the epistemically arrogant poets, politicians, and craftsmen lack wisdom. Moreover, Socrates claims that he is not wise, and yet, if we trust the oracle, Socrates is actually wise.
+    step1: |-
+      这是一个诱人且流行的解释，因为苏格拉底确实认为自己已经表明，那些认知上傲慢的诗人、政治家和工匠缺乏智慧。而且，苏格拉底自称没有智慧，然而，如果我们相信神谕，苏格拉底实际上是有智慧的。
+    step2: |-
+      这一读法既诱人又流行：苏格拉底确实认为自己已证明，那些认知上傲慢的诗人、政治家、工匠缺乏智慧；而他自称无智慧，可按神谕，他偏偏是有智慧的。
+  - id: 7
+    kind: body
+    source: |-
+      Upon careful inspection, (H1) is not a reasonable interpretation of Socrates’ view. Although Socrates does not *boast* of his own wisdom, he does believe the oracle. If he was convinced that he was not wise, he would have rejected the oracle and gone about his business because he would not find any puzzle to unravel. Clearly, he believes, on some level, that he is wise. The mystery is: what *is* wisdom if he has it and the others lack it? Socrates nowhere suggests that he has become unwise after believing the oracle. Thus, (H1) is not an acceptable interpretation of Socrates’ view.
+    step1: |-
+      仔细考察之下，（H1）并不是对苏格拉底见解的合理解释。尽管苏格拉底并不*夸耀*自己的智慧，他确实相信神谕。如果他确信自己没有智慧，他就会拒绝神谕、回去做自己的事，因为他不会发现任何有待解开的谜。显然，他在某种程度上相信自己有智慧。谜在于：如果他有智慧而别人缺乏智慧，那么智慧*究竟*是什么？苏格拉底从未暗示，他在相信神谕之后反倒变得没有智慧了。因此，（H1）不是对苏格拉底见解可接受的解释。
+    step2: |-
+      细究起来，（H1）并不是对苏格拉底见解的合理解释。苏格拉底虽不*夸耀*自己的智慧，却是信神谕的。倘若他确信自己无智慧，他大可以否掉神谕、照旧过日子——反正也没什么谜可解。可见他在某种意义上相信自己有智慧。真正的谜是：既然他有而众人无，智慧*究竟*是什么？苏格拉底从未暗示自己信了神谕之后就变得无智慧。所以（H1）不能算可接受的解释。
+  - id: 8
+    kind: body
+    source: |-
+      Moreover, (H1) is false. Many people are clear counterexamples to (H1). Many people who believe they are not wise are correct in their self-assessment. Thus, the belief that one is not wise is not a sufficient condition for wisdom. Furthermore, it seems that the belief that one is not wise is not necessary for wisdom. It seems plausible to think that a wise person could be wise enough to realize that she is wise. Too much modesty might get in the way of making good decisions and sharing what one knows. If one thinks Socrates was a wise person, and if one accepts that Socrates did, in fact, accept that he was wise, then Socrates himself is a counterexample to (H1). The belief that one is wise could be a perfectly well justified belief for a wise person. Having the belief that one is wise does not, in itself, eliminate the possibility that the person is wise. Nor does it guarantee the vice of arrogance. We should hope that a wise person would have a healthy dose of epistemic self-confidence, appreciate that she is wise, and share her understanding of reality with the rest of us who could benefit from her wisdom. Thus, the belief that one is not wise is not required for wisdom.
+    step1: |-
+      此外，（H1）是假的。许多人是（H1）的明确反例。许多相信自己没有智慧的人，其自我评价是正确的。因此，相信自己没有智慧并不是智慧的充分条件。而且，相信自己没有智慧似乎也不是智慧的必要条件。看来可以合理地认为，一个有智慧的人可以智慧到足以意识到自己有智慧。过度的谦虚也许会妨碍作出好决定、妨碍分享自己所知。如果有人认为苏格拉底是个有智慧的人，并且接受苏格拉底实际上确实承认自己有智慧，那么苏格拉底本人就是（H1）的反例。相信自己有智慧，对一个有智慧的人来说可能是一个完全得到良好证成的信念。怀有自己有智慧的信念，本身并不排除此人有智慧的可能性，也不保证傲慢这一毛病。我们倒应希望，一个有智慧的人会有恰如其分的认知自信，赏识自己有智慧，并把其对实在的理解分享给我们其余这些能从中受益的人。因此，相信自己没有智慧并非智慧所必需。
+    step2: |-
+      再者，（H1）本身就是假的，反例比比皆是：不少自认无智慧的人，这个自我评价一点不错。可见“自认无智慧”既非智慧的充分条件，看来也非必要条件。有智慧的人完全可以智慧到自知有智慧。过分谦虚，反倒可能妨碍拿主意、妨碍把所知分享于人。若认为苏格拉底有智慧，又承认他确实承认自己有智慧，那么苏格拉底本人就是（H1）的反例。对智者而言，“我有智慧”完全可以是一个证成充分的信念；怀有这个信念，本身既不排除他有智慧，也不等于染上傲慢。我们倒该希望，智者有恰到好处的认知自信，懂得赏识自己的智慧，并把对实在的理解分享给旁人，让我们受益。所以说，自认无智慧并不是智慧的必要条件。
+  - id: 9
+    kind: body
+    source: |-
+      (H1) focused on believing one is not wise. Another version of the humility theory is worth considering. When Socrates demonstrates that a person is not wise, he does so by showing that the person lacks some knowledge that he or she claims to possess. Thus, one might think that Socrates’ view could be better captured by focusing on the idea that wise people believe they lack knowledge (rather than lacking wisdom). That is, one might consider the following view:
+    step1: |-
+      （H1）着眼于相信自己没有智慧。另一个版本的谦逊理论值得考虑。当苏格拉底证明一个人没有智慧时，他是通过表明此人缺乏他或她自称拥有的某种知识来做到的。因此，人们可能认为，苏格拉底见解的要旨，通过着眼于有智慧的人相信自己缺乏知识（而非缺乏智慧）这一观念，可以得到更好的把握。也就是说，人们可以考虑如下观点：
+    step2: |-
+      （H1）着眼于“自认无智慧”。谦逊理论还有一个版本值得一提。苏格拉底证明某人无智慧，办法是指出此人缺乏他所自称拥有的某种知识。由此不妨设想：要把握苏格拉底的见解，关键也许在于“智者相信自己缺乏知识”，而不是“缺乏智慧”。也就是说，可以考虑下面这个观点：
+  - id: 10
+    kind: body
+    source: |-
+      > **Humility Theory 2 (H2):** *S* is wise iff *S* believes *S* does not know anything.
+    step1: |-
+      > **谦逊理论 2（H2）：** *S* 有智慧，当且仅当 *S* 相信自己什么都不知道。
+    step2: |-
+      > **谦逊理论 2（H2）：** *S* 有智慧，当且仅当 *S* 相信自己一无所知。
+  - id: 11
+    kind: body
+    source: |-
+      Unfortunately, this interpretation is not any better than (H1). It falls prey to problems similar to those that refuted (H1) both as an interpretation of Socrates, and as an acceptable account of wisdom. Moreover, remember that Socrates admits that the craftsmen do have some knowledge. Socrates might have considered them to be wise if they had restricted their confidence and claims to knowledge to what they actually did know about their craft. Their problem was that they professed to have knowledge beyond their area of expertise. The problem was not that they claimed to have knowledge.
+    step1: |-
+      不幸的是，这一解释并不比（H1）更好。它陷入了类似的难题，这些难题曾在作为苏格拉底解释与作为可接受的智慧说明两方面驳倒了（H1）。而且，请记住，苏格拉底承认工匠确实拥有某些知识。如果工匠们把自己的自信与知识主张限制在他们实际知道的本行知识上，苏格拉底也许就会认为他们有智慧。他们的问题在于自称拥有超出其专长领域的知识，而不在于自称拥有知识。
+    step2: |-
+      可惜，这一解释并不比（H1）高明，同样栽在与（H1）相似的难题上——无论是作为对苏格拉底的解释，还是作为可接受的智慧说明。别忘了，苏格拉底是承认工匠确有某些知识的。倘若工匠们把自信和知识主张限于本行所知，苏格拉底说不定就会认他们有智慧。他们的毛病出在自称知道本行以外的东西，而不是出在自称有知识。
+  - id: 12
+    kind: body
+    source: |-
+      Before turning to alternative approaches to wisdom, it is worth mentioning another interpretation of Socrates that fits with the general spirit of epistemic humility. One might think that what Socrates is establishing is that his wisdom is found in his realization that human wisdom is not a particularly valuable kind of wisdom. Only the gods possess the kind of wisdom that is truly valuable. This is clearly one of Socrates’ insights, but it does not provide us with an understanding of the nature of wisdom. It tells us only of its comparative value. Merely understanding this evaluative insight would not, for reasons similar to those discussed with (HP1) and (HP2), make one wise.
+    step1: |-
+      在转向其他进路之前，值得提到对苏格拉底的另一种解释，它与认知谦逊的总体精神相符。人们可能认为，苏格拉底所要确立的是：他的智慧在于他认识到，人的智慧并不是一种特别有价值的智慧。只有诸神才拥有真正有价值的那种智慧。这显然是苏格拉底的洞见之一，但它并未让我们理解智慧的本性。它只告诉我们智慧的相对价值。仅仅理解这一评价性的洞见，出于与（HP1）与（HP2）讨论中相似的理由，并不会使人有智慧。
+    step2: |-
+      转向别的进路之前，还有一层解释值得一提，它与认知谦逊的总精神相合：苏格拉底所要确立的，或许是“人的智慧算不上什么有价值的智慧，唯有诸神才拥有真正宝贵的智慧”。这确是苏格拉底的洞见之一，但它并不告诉我们智慧的本性，只告诉我们智慧的相对价值。仅凭领会这一评价性洞见——理由与讨论（HP1）（HP2）时相同——并不会使人有智慧。
+  - id: 13
+    kind: body
+    source: |-
+      Humility theories of wisdom are not promising, but they do, perhaps, provide us with some important character traits associated with wise people. Wise people, one might argue, possess epistemic self-confidence, yet lack epistemic arrogance. Wise people tend to acknowledge their fallibility, and wise people are reflective, introspective, and tolerant of uncertainty. Any acceptable theory of wisdom ought to be compatible with such traits. However, those traits are not, in and of themselves, definitive of wisdom.
+    step1: |-
+      智慧的谦逊理论并不令人乐观，但它们或许为我们提供了若干与有智慧的人相关联的重要品格特征。人们可以论证说，有智慧的人拥有认知自信，却缺乏认知傲慢。有智慧的人倾向于承认自己的可错性，而且有智慧的人善于反思、内省，并能容忍不确定性。任何可接受的智慧理论都应与这些特征相容。然而，这些特征本身并不界定智慧。
+    step2: |-
+      谦逊理论虽不足取，却或许点出了智者身上常见的几样品格：他们自有认知自信，却不带认知傲慢；他们肯承认自己会出错；他们爱反思、能内省，也容得下不确定。任何站得住的智慧理论都该与这些品格相容；不过，这些品格本身并不构成智慧的定义。
+  - id: 14
+    kind: body
+    source: |-
+      ## 2. Wisdom as Epistemic Accuracy
+    step1: |-
+      ## 2 智慧即认知准确
+    step2: |-
+      ## 2 智慧即认知准确
+  - id: 15
+    kind: body
+    source: |-
+      Socrates can be interpreted as providing an epistemic accuracy, rather than an epistemic humility, theory of wisdom. The poets, politicians, and craftsmen all believe they have knowledge about topics on which they are considerably ignorant. Socrates, one might argue, believes he has knowledge when, and only when, he really does have knowledge. Perhaps wise people restrict their confidence to propositions for which they have knowledge or, at least, to propositions for which they have excellent justification. Perhaps Socrates is better interpreted as having held an Epistemic Accuracy Theory such as:
+    step1: |-
+      苏格拉底可以被解释为提供了一种认知准确而非认知谦逊的智慧理论。诗人、政治家和工匠都相信自己拥有关于某些题目的知识，而他们在这些题目上其实相当无知。人们可以论证说，苏格拉底在他确实拥有知识时、并且仅在这种时候，才相信自己拥有知识。也许有智慧的人把自信限制在他们拥有知识的命题上，或者至少限制在他们拥有极好证成的命题上。也许更好的解释是，苏格拉底持有某种认知准确理论，例如：
+    step2: |-
+      苏格拉底也可解作主张一种认知准确的智慧理论，而非认知谦逊。诗人、政治家、工匠都自以为在某些题目上有知识，其实相当无知；而苏格拉底呢，人们可以说，只在真有所知时、且仅在那时才自认有知。或许智者把自信限于自己确有知识的命题，至少限于自己证成极充分的命题。也许更好的读法是：苏格拉底所持的是某种认知准确理论，譬如：
+  - id: 16
+    kind: body
+    source: |-
+      > **Epistemic Accuracy Theory 1 (EA1)**: *S* is wise iff for all *p*, (*S* believes *S* knows *p* iff S knows *p*.)
+    step1: |-
+      > **认知准确理论 1（EA1）**：*S* 有智慧，当且仅当对一切 *p*，（*S* 相信 *S* 知道 *p*，当且仅当 S 知道 *p*。）
+    step2: |-
+      > **认知准确理论 1（EA1）**：*S* 有智慧，当且仅当对一切 *p*，（*S* 相信 *S* 知道 *p*，当且仅当 *S* 知道 *p*。）
+  - id: 17
+    kind: body
+    source: |-
+      According to (EA1), a wise person is accurate about what she knows and what she does not know. If she really knows *p*, she believes she knows *p*. And, if she believes she knows *p*, then she really does know *p*. (EA1) is consistent with the idea that Socrates accepts that he is wise and with the idea that Socrates does have some knowledge. (EA1) is a plausible interpretation of the view Socrates endorses, but it is not a plausible answer in the search for an understanding of wisdom. Wise people can make mistakes about what they know. Socrates, Maimonides, King Solomon, Einstein, Goethe, Gandhi, and every other candidate for the honor of wisdom have held false beliefs about what they did and did not know. It is easy to imagine a wise person being justified in believing she possesses knowledge about some claim, and also easy to imagine that she could be shown to be mistaken, perhaps long after her death. If (EA1) is true, then just because a person believes she has knowledge when she does not, she is not wise. That seems wrong. It is hard to imagine that anyone at all is, or ever has been, wise if (EA1) is correct.
+    step1: |-
+      按照（EA1），有智慧的人对于自己知道什么、不知道什么是准确的。如果她真的知道 *p*，她就相信自己知道 *p*。而且，如果她相信自己知道 *p*，那么她确实知道 *p*。（EA1）与苏格拉底承认自己有智慧这一看法相容，也与苏格拉底确实拥有某些知识这一看法相容。（EA1）是对苏格拉底所认可见解的可信解释，但它不是探求对智慧之理解时一个可信的答案。有智慧的人可能对自己知道什么犯错误。苏格拉底、迈蒙尼德、所罗门王、爱因斯坦、歌德、甘地，以及每一位堪当智慧之名的候选人，都曾对他们知道自己什么、不知道什么持有错误信念。不难设想，一个有智慧的人有理由相信自己拥有关于某个主张的知识，也不难设想，她可能被表明弄错了，也许是在她去世很久以后。如果（EA1）为真，那么仅仅因为一个人在不拥有知识时相信自己拥有知识，她就没有智慧。这似乎是错的。如果（EA1）正确，就很难设想竟有任何人现在有智慧、或曾经有智慧。
+    step2: |-
+      照（EA1），智者对自己所知与所不知都判断准确：真知道 *p*，就相信自己知道 *p*；相信自己知道 *p*，就真知道 *p*。（EA1）既容得下苏格拉底承认自己有智慧，也容得下他确有所知。作为对苏格拉底所持见解的解读，（EA1）说得过去；但作为对“什么是智慧”的回答，它站不住。智者也会在“自己知道什么”上出错。苏格拉底、迈蒙尼德、所罗门王、爱因斯坦、歌德、甘地，举凡配称有智慧的人，都曾对自己知道什么、不知道什么抱有错误信念。我们不难设想：一个智者有理由相信自己拥有关于某主张的知识，后来却被证明弄错了——也许是在她身后多年。若（EA1）为真，那么单因一个人在本无知识时自认有知，她就够不上智慧。这说不过去。照（EA1）的标准，很难想象世上真有、或曾有任何人够得上智慧。
+  - id: 18
+    kind: body
+    source: |-
+      We could revise the Epistemic Accuracy Theory to get around this problem. We might only require that a wise person’s belief is *highly justified* when she believes she has knowledge. That excuses people with bad epistemic luck.
+    step1: |-
+      我们可以修改认知准确理论以绕开这一问题。我们或许只要求：有智慧的人在相信自己拥有知识时，其信念是*高度得到证成的*。这样就为认知运气不佳的人开了脱。
+    step2: |-
+      要绕开这个麻烦，可以修改认知准确理论：只要求智者在自认有知时，其信念*证成极充分*，如此便为认知运气不佳者留了余地。
+  - id: 19
+    kind: body
+    source: |-
+      > **Epistemic Accuracy 2 (EA2)**: *S* is wise iff for all *p*, (*S* believes *S* knows *p* iff *S*’s belief in *p* is highly justified.)
+    step1: |-
+      > **认知准确 2（EA2）**：*S* 有智慧，当且仅当对一切 *p*，（*S* 相信 *S* 知道 *p*，当且仅当 *S* 对 *p* 的信念高度得到证成。）
+    step2: |-
+      > **认知准确 2（EA2）**：*S* 有智慧，当且仅当对一切 *p*，（*S* 相信 *S* 知道 *p*，当且仅当 *S* 对 *p* 的信念证成极充分。）
+  - id: 20
+    kind: body
+    source: |-
+      (EA2) gets around the problem with (EA1). The Socratic Method challenges one to produce reasons for one’s view. When Socrates’ interlocutor is left dumbfounded, or reduced to absurdity, Socrates rests his case. One might argue that through his questioning, Socrates reveals not that his opponents lack knowledge because their beliefs are false, but he demonstrates that his opponents are not justified in holding the views they profess to know. Since the craftsmen, poets, and politicians questioned by Socrates all fail his interrogation, they were shown, one might argue, to have claimed to have knowledge when their beliefs were not even justified.
+    step1: |-
+      （EA2）绕开了（EA1）的问题。苏格拉底方法要求人为自己的观点提出理由。当苏格拉底的对谈者被问得哑口无言、或被归谬时，苏格拉底就收兵了。人们可以论证说，通过他的提问，苏格拉底所揭示的并不是其对手因信念为假而缺乏知识，而是表明其对手并没有证成他们所自称知道的观点。既然被苏格拉底盘问的工匠、诗人和政治家都未能通过他的盘问，那么可以说，他们被表明是在其信念甚至未获证成时自称拥有知识的。
+    step2: |-
+      （EA2）避开了（EA1）的麻烦。苏格拉底方法就是要人替自己的观点拿出理由；当对谈者哑口无言或被归谬时，苏格拉底便收场。可以说，苏格拉底通过发问所揭示的，并不是对手因信念虚假而缺乏知识，而是他们的信念根本未经证成，却自称有知。工匠、诗人、政治家一个个都没通过盘问，于是可以说，他们被表明是在信念尚未证成时便自称有知。
+  - id: 21
+    kind: body
+    source: |-
+      Many philosophers would hesitate to endorse this interpretation of what is going on in *The Apology*. They would argue that a failure to defend one’s beliefs from Socrates’ relentless questioning does not show that a person is not justified in believing a proposition. Many philosophers would argue that having very good evidence, or forming a belief via a reliable process, would be sufficient for justification.
+    step1: |-
+      许多哲学家会迟疑于认可这一对《申辩篇》中所发生之事的解释。他们会论证说，未能抵御苏格拉底步步紧逼的盘问，并不表明一个人没有理由相信某个命题。许多哲学家会论证说，拥有非常好的证据，或通过可靠过程形成信念，就足以构成证成。
+    step2: |-
+      不少哲学家不愿接受这种读法。他们会说：抵挡不住苏格拉底的追问，并不等于一个人对某命题的信念未获证成；有极好的证据，或经由可靠过程形成信念，便已算证成。
+  - id: 22
+    kind: body
+    source: |-
+      Proving, or demonstrating to an interrogator, that one is justified is another matter, and not necessary for simply being justified. Socrates, some might argue, shows only that the craftsmen, poets, and politicians cannot defend themselves from his questions. He does not show, one might argue, that the poets, politicians, and craftsmen have unjustified beliefs. Since we gain very little insight into the details of the conversation in this dialogue, it would be unfair to dismiss this interpretation on these grounds. Perhaps Socrates did show, through his intense questioning, that the craftsmen, poets, and politicians formed and held their beliefs without adequate evidence or formed and held them through unreliable belief forming processes. Socrates only reports that they did not know all that they professed to know. Since we do not get to witness the actual questioning as we do in Plato’s other dialogues, we should not reject (EA2) as an interpretation of Socrates’ view of wisdom in *The Apology*.
+    step1: |-
+      证明、或向盘问者表明自己有证成，是另一回事，且并非仅仅获得证成所必需。有些人可能论证说，苏格拉底所表明的只是工匠、诗人和政治家无法抵御他的问题。他们可能论证说，苏格拉底并未表明诗人、政治家、工匠的信念未获证成。由于我们从这篇对话中对谈话细节所知甚少，据此否定这一解释并不公平。也许苏格拉底确实通过其犀利的提问表明，工匠、诗人和政治家是在没有充分证据的情况下形成并持有其信念的，或者通过不可靠的信念形成过程形成并持有它们。苏格拉底只是报告说，他们并不知道他们自称知道的一切。既然我们不像在柏拉图其他对话中那样得以亲见实际盘问，我们就不应把（EA2）当作对《申辩篇》中苏格拉底智慧见解的解释而加以拒绝。
+    step2: |-
+      证明自己有证成，或向盘问者表明这一点，是另一码事，并不是仅仅有证成所必需。有人会说，苏格拉底只表明工匠、诗人、政治家经不起他的追问，并未表明他们的信念未获证成。由于这篇对话几乎没有给我们留下谈话细节，据此否掉这一解读并不公平。也许苏格拉底那番凌厉的追问，确实表明工匠、诗人、政治家是在证据不足的情况下、或经由不可靠的过程形成并持有信念的；他只是报告说，他们并不知道自己所自称知道的一切。我们既不像读柏拉图其他对话那样亲眼得见实际盘问，便不该把（EA2）从对《申辩篇》的解释中排除掉。
+  - id: 23
+    kind: body
+    source: |-
+      Regardless of whether (EA2) is Socrates’ view, there are problems for (EA2) as an account of what it means to be wise. Even if (EA2) is exactly what Socrates meant, some philosophers would argue that one could be justified in believing a proposition, but not realize that she is justified. If that is a possible situation for a wise person to be in, then she might be justified, but fail to believe she has knowledge. Could a wise person be in such a situation, or is it necessary that a wise person would always recognize the epistemic value of what he or she believes?[^note-1] If this situation is impossible, then this criticism could be avoided. There is no need to resolve this issue here because (EA1) and (EA2) fall prey to another, much less philosophically thorny and controversial problem.
+    step1: |-
+      无论（EA2）是否为苏格拉底的见解，作为对“有智慧意味着什么”的说明，（EA2）都有问题。即便（EA2）正是苏格拉底的意思，有些哲学家仍会论证说，一个人可以有理由相信某个命题，却没有意识到自己有理由。如果这是有智慧的人可能身处的一种处境，那么她也许有证成，却未能相信自己拥有知识。有智慧的人会身处这种处境吗？还是有智慧的人必然总能认识到其所信之物的认知价值？[^note-1] 如果这一处境是不可能的，那么这一批评就可以避开。此处无须解决这一问题，因为（EA1）与（EA2）还会栽在另一个麻烦上——这个麻烦在哲学上远不那么棘手、也远不那么有争议。
+    step2: |-
+      无论（EA2）是否即苏格拉底之意，作为“何谓有智慧”的说明，它都有麻烦。即便（EA2）正是苏格拉底的意思，仍有哲学家会说：一个人可以有理由相信某命题，却未能意识到自己有理由。如果智者也可能处在这种境地，那么她虽有证成，却不相信自己有知。智者会落到这般境地吗？还是说，智者必然总能认识到自己所信之物的认知价值？[^note-1] 若这种境地根本不可能，这项批评便可避开。此处不必解决它，因为（EA1）与（EA2）还要栽在另一个麻烦上——那麻烦在哲学上远没那么棘手，也远没那么聚讼。
+  - id: 24
+    kind: body
+    source: |-
+      (EA1) and (EA2) suffer from a similar, and very serious, problem. Imagine a person who has very little knowledge. Suppose further, that the few things she does know are of little or no importance. She could be the sort of person that nobody would ever go to for information or advice. Such a person could be very cautious and believe that she knows only what she actually knows. Although she would have accurate beliefs about what she does and does not know, she would not be wise. This shows that (EA1) is flawed. As for (EA2), imagine that she believes she knows only what she is actually justified in believing. She is still not wise. It should be noted, however, that although accuracy theories do not provide an adequate account of wisdom, they reveal an important insight. Perhaps a necessary condition for being wise is that wise people think they have knowledge only when their beliefs are highly justified. Or, even more simply, perhaps wise people have epistemically justified, or rational, beliefs.
+    step1: |-
+      （EA1）与（EA2）都受制于一个类似而非常严重的问题。设想一个知识极少的人。再设想，她确实知道的那几件事也无关紧要或毫不重要。她可能是那种谁也不会去向她求信息、讨主意的人。这样的人可能非常谨慎，相信自己只知道他实际知道的东西。尽管她对自己知道什么、不知道什么抱有准确的信念，她仍然不会有智慧。这表明（EA1）有缺陷。至于（EA2），设想她相信自己只知道她实际有理由相信的东西。她仍然没有智慧。然而应当指出，尽管准确理论没有提供对智慧的充分说明，它们揭示了一个重要洞见。也许有智慧的一个必要条件是：有智慧的人只在信念高度得到证成时才认为自己拥有知识。或者更简单地说，也许有智慧的人拥有认识上得到证成的、或合理的信念。
+    step2: |-
+      （EA1）与（EA2）都栽在同一个相当严重的问题上。设想一个人所知甚少，而且她所知的那几桩事都无关紧要；她属于那种谁也不会去找她问事、求主意的人。她可以非常谨慎，只相信自己确有所知的部分。这样一个人，纵然对“自己知道什么、不知道什么”判断准确，也谈不上有智慧。可见（EA1）有缺陷。至于（EA2），且设想她只相信自己确有理由相信的东西——她仍然不算有智慧。不过应当注意：准确理论虽未给出关于智慧的充分说明，却揭示了一个重要洞见。也许智慧的必要条件在于：智者只在信念证成充分时才自认有知；或者更简单地说，智者所持的是认知上得到证成的、合理的信念。
+  - id: 25
+    kind: body
+    source: |-
+      ## 3. Wisdom as Knowledge
+    step1: |-
+      ## 3 智慧即知识
+    step2: |-
+      ## 3 智慧即知识
+  - id: 26
+    kind: body
+    source: |-
+      An alternative approach to wisdom focuses on the more positive idea that wise people are very knowledgeable people. There are many views in the historical and contemporary philosophical literature on wisdom that have knowledge, as opposed to humility or accuracy, as at least a necessary condition of wisdom. Aristotle (*Nichomachean Ethics* VI, ch. 7), Descartes (*Principles of Philosophy*), Richard Garrett (1996), John Kekes (1983), Keith Lehrer & Nicholas Smith (1996), Robert Nozick (1989), Plato (*The Republic*), Sharon Ryan (1996, 1999), Valerie Tiberius (2008), Dennis Whitcomb (2010) and Linda Zagzebski (1996) for example, have all defended theories of wisdom that require a wise person to have knowledge of some sort. All of these views very clearly distinguish knowledge from expertise on a particular subject. Moreover, all of these views maintain that wise people know “what is important.” The views differ, for the most part, over what it is important for a wise person to know, and on whether there is any behavior, action, or way of living, that is required for wisdom.
+    step1: |-
+      另一种进路着眼于一个更积极的观念：有智慧的人是知识非常广博的人。在历史与当代的哲学文献中，有许多关于智慧的见解把知识——而非谦逊或准确——当作智慧至少的必要条件。例如，亚里士多德（《尼各马可伦理学》第六卷第七章）、笛卡尔（《哲学原理》）、Richard Garrett（1996）、John Kekes（1983）、Keith Lehrer 与 Nicholas Smith（1996）、Robert Nozick（1989）、柏拉图（《理想国》）、Sharon Ryan（1996, 1999）、Valerie Tiberius（2008）、Dennis Whitcomb（2010）以及 Linda Zagzebski（1996），都各自捍卫了某种要求有智慧的人拥有某类知识。所有这些见解都非常清楚地把知识与关于某一特定主题的专长区分开来。而且，所有这些见解都主张，有智慧的人知道“什么重要”。这些见解大体上的分歧在于：有智慧的人重要的是知道什么，以及智慧是否要求任何行为、行动或生活方式。
+    step2: |-
+      另一条进路抓住一个更积极的观念：智者都是知识广博之人。历来的哲学文献里，不少见解把知识（而非谦逊或准确）当作智慧至少的必要条件。例如亚里士多德（《尼各马可伦理学》第六卷第七章）、笛卡尔（《哲学原理》）、Richard Garrett（1996）、John Kekes（1983）、Keith Lehrer 与 Nicholas Smith（1996）、Robert Nozick（1989）、柏拉图（《理想国》）、Sharon Ryan（1996, 1999）、Valerie Tiberius（2008）、Dennis Whitcomb（2010）、Linda Zagzebski（1996），都各自为某种“智者须有某类知识”的理论作过辩护。这些见解都清楚地把知识与某一专门领域的专长区别开来，也都主张智者知道“什么要紧”。它们的分歧大体在于：智者所要知道的究竟是哪些东西？智慧是否还要求某种行为、行动或生活方式？
+  - id: 27
+    kind: body
+    source: |-
+      Aristotle distinguished between two different kinds of wisdom, theoretical wisdom and practical wisdom. Theoretical wisdom is, according to Aristotle, “scientific knowledge, combined with intuitive reason, of the things that are highest by nature” (*Nicomachean Ethics*, VI, 1141b). For Aristotle, theoretical wisdom involves knowledge of necessary, scientific, first principles and propositions that can be logically deduced from them. Aristotle’s idea that scientific knowledge is knowledge of necessary truths and their logical consequences is no longer a widely accepted view. Thus, for the purposes of this discussion, I will consider a theory that reflects the spirit of Aristotle’s view on theoretical wisdom, but without the controversy about the necessary or contingent nature of scientific knowledge. Moreover, it will combine scientific knowledge with other kinds of factual knowledge, including knowledge about history, philosophy, music, literature, mathematics, etc. Consider the following, knowledge based, theory of wisdom:
+    step1: |-
+      亚里士多德区分了两种不同的智慧：理论智慧与实践智慧。按亚里士多德的说法，理论智慧是“关于本性上最高的事物的科学知识，结合着直观理性”（《尼各马可伦理学》VI, 1141b）。对亚里士多德而言，理论智慧涉及对必然的、科学的、第一原理以及可由之逻辑地推出的命题的知识。亚里士多德关于科学知识是对必然真理及其逻辑推论的知识的观念，已不再是广泛接受的观点。因此，出于本文讨论的目的，我将考察一个反映亚里士多德理论智慧见解之精神的理论，但不去纠缠科学知识是必然还是偶然这一争议。此外，它将把科学知识与其他种类的事实知识结合起来，包括关于历史、哲学、音乐、文学、数学等等的知识。考虑下面这个以知识为基础的智慧理论：
+    step2: |-
+      亚里士多德把智慧分为两种：理论智慧与实践智慧。所谓理论智慧，按他的说法，是“关于本性上最高之物的科学知识，兼有直观理性”（《尼各马可伦理学》VI, 1141b）。在他看来，理论智慧涉及对必然的、科学的第一原理、以及可由之逻辑推出的命题的知识。至于“科学知识即必然真理及其逻辑推论之知识”这一看法，如今已不再广为接受。因此，为本文讨论计，我考察一个理论，它体现亚里士多德理论智慧观的精神，却避开“科学知识是必然还是偶然”的争议；同时把科学知识同其他事实知识——历史、哲学、音乐、文学、数学等——合并起来。请看下面这个以知识为基础的智慧理论：
+  - id: 28
+    kind: body
+    source: |-
+      > **Wisdom as Extensive Factual Knowledge (WFK)**: *S* is wise iff *S* has extensive factual knowledge about science, history, philosophy, literature, music, etc.
+    step1: |-
+      > **智慧即广博的事实知识（WFK）**：*S* 有智慧，当且仅当 *S* 拥有关于科学、历史、哲学、文学、音乐等等的广博事实知识。
+    step2: |-
+      > **智慧即广博的事实知识（WFK）**：*S* 有智慧，当且仅当 *S* 拥有关于科学、历史、哲学、文学、音乐等领域的广博事实知识。
+  - id: 29
+    kind: body
+    source: |-
+      According to (WFK), a wise person is a person who knows a lot about the universe and our place in it. She would have extensive knowledge about the standard academic subjects. There are many positive things to say about (WFK). (WFK) nicely distinguishes between narrow expertise and knowledge of the mundane, from the important, broad, and general kind of knowledge possessed by wise people. As Aristotle puts it, “…we think that some people are wise in general, not in some particular field or in any other limited respect…” (*Nicomachean Ethics*, Book 6, 1141a).
+    step1: |-
+      按照（WFK），有智慧的人就是对宇宙以及我们在其中的位置所知甚多的人。她会拥有关于标准学术科目的广博知识。（WFK）有许多值得肯定之处。（WFK）很好地作出了区分：一边是狭窄的专长与对琐屑之事的了解，另一边是有智慧的人所具有的那种重要、宽广而一般的知识。正如亚里士多德所说，“……我们认为有些人在一般意义上是有智慧的，而不是在某个特定领域或任何其他有限方面……”（《尼各马可伦理学》第六卷，1141a）。
+    step2: |-
+      照（WFK），智者就是对宇宙及我们在其中的位置所知甚多的人，对标准学科都有广博知识。（WFK）有不少长处：它干净利落地分开两样东西——狭窄的专长、对琐屑之事的了解，与智者所具的那种重要、宽广而一般的知识。用亚里士多德的话说：“……我们认为有些人的智慧是一般性的，而非限于某一特定领域或任何其他有限方面……”（《尼各马可伦理学》第六卷，1141a）。
+  - id: 30
+    kind: body
+    source: |-
+      The main problem for (WFK) is that some of the most knowledgeable people are not wise. Although they have an abundance of very important factual knowledge, they lack the kind of practical know-how that is a mark of a wise person. Wise people know how to get on in the world in all kinds of situations and with all kinds of people. Extensive factual knowledge is not enough to give us what a wise person knows. As Robert Nozick points out, “Wisdom is not just knowing fundamental truths, if these are unconnected with the guidance of life or with a perspective on its meaning” (1989, 269). There is more to wisdom than intelligence and knowledge of science and philosophy or any other subject matter. Aristotle is well aware of the limitations of what he calls theoretical wisdom. However, rather than making improvements to something like (WFK), Aristotle distinguishes it as one kind of wisdom. Other philosophers would be willing to abandon (WFK), that is, claim that it provides insufficient conditions for wisdom, and add on what is missing.
+    step1: |-
+      （WFK）的主要问题在于，有些知识最渊博的人并无智慧。尽管他们拥有大量非常重要的事实知识，他们却缺乏作为有智慧者标志的那种实践诀窍。有智慧的人懂得在各种各样的处境中、与各种各样的人相处时如何处世。广博的事实知识不足以给我们有智慧的人所知道的东西。正如 Robert Nozick 所指出的，“智慧并不只是知道一些基本真理，如果这些真理与生活的指导、或与对生活意义的透视无关的话”（1989, 269）。智慧不止于才智，不止于关于科学、哲学或任何其他题材的知识。亚里士多德很清楚他所谓理论智慧的局限。然而，亚里士多德并未对类似（WFK）的东西作改进，而是把它区分出来，作为智慧的一种。另一些哲学家则愿意放弃（WFK），即主张它不足以构成智慧的充分条件，并补上缺失的东西。
+    step2: |-
+      （WFK）的要害在于：有些知识最渊博的人偏偏没有智慧。他们腹笥极富、掌握大量要紧的事实，却缺了智者那种实践诀窍。智者懂得在种种处境、面对各色人等时如何处世；单靠广博的事实知识，给不出智者所知的那种东西。正如 Robert Nozick 所言：“智慧并不只是知道若干基本真理——倘若这些真理与生活的指导、与对人生意义的观照无关的话”（1989, 269）。智慧不止于聪明，不止于科学、哲学或任何题材的知识。亚里士多德深知他所谓理论智慧的局限。不过他并未去改良（WFK）之类的东西，而是把它列为智慧的一种；另一些哲学家则愿意丢掉（WFK）——说它不足以构成智慧的充分条件——再把缺失的补上。
+  - id: 31
+    kind: body
+    source: |-
+      Aristotle has a concept of practical wisdom that makes up for what is missing in theoretical wisdom. In Book VI of the *Nicomachean Ethics*, he claims, “This is why we say Anaxagoras, Thales, and men like them have philosophic but not practical wisdom, when we see them ignorant of what is to their own advantage, and why we say that they know things that are remarkable, admirable, difficult, and divine, but useless; viz. because it is not human goods they seek” (1141a). Knowledge of contingent facts that are useful to living well is required in Aristotle’s practical wisdom. According to Aristotle, “Now it is thought to be the mark of a man of practical wisdom to be able to deliberate well about what is good and expedient for himself, not in some particular respect, e.g. about what sorts of thing conduce to health or to strength, but about what sorts of thing conduce to the good life in general” (*Nichomachean Ethics*, VI, 1140a–1140b). Thus, for Aristotle, practical wisdom requires knowing, in general, how to live well. Many philosophers agree with Aristotle on this point. However, many would not be satisfied with the conclusion that theoretical wisdom is one kind of wisdom and practical wisdom another. Other philosophers, including Linda Zagzebski (1996), agree that there are these two types of wisdom that ought to be distinguished.
+    step1: |-
+      亚里士多德有一个实践智慧的概念，可以弥补理论智慧所缺。在《尼各马可伦理学》第六卷中，他声称：“这就是为什么当我们看到阿那克萨戈拉、泰勒斯以及诸如此类的人不懂什么对自己有利时，我们说他们有哲学智慧而没有实践智慧；也是为什么我们说他们知道一些非凡、可敬、困难而神圣、却无用的东西；即因为那不是他们所寻求的人类善”（1141a）。亚里士多德的实践智慧要求关于对过好生活有用之偶然事实的知识。按亚里士多德的说法，“如今，人们认为有实践智慧者的标志是：能够就对自己而言何为善、何为便利好好地斟酌，不是在某一方面，例如什么事有助于健康或体力，而是一般地什么事有助于好生活”（《尼各马可伦理学》VI, 1140a–1140b）。因此，对亚里士多德来说，实践智慧要求一般地知道如何过好生活。许多哲学家在这一点上同意亚里士多德。然而，许多人不满足于“理论智慧是智慧的一种、实践智慧是另一种”这一结论。另一些哲学家，包括 Linda Zagzebski（1996），同意确实有这两种智慧应当加以区分。
+    step2: |-
+      亚里士多德另有一个实践智慧的概念，正好补理论智慧之缺。《尼各马可伦理学》第六卷说：“我们看到阿那克萨戈拉、泰勒斯之辈不懂得什么于己有利，便说他们有哲学智慧而无实践智慧；说他们所知的固然非凡、可敬、艰难而神圣，却无用——就因为他们所求的不是人类之善”（1141a）。在亚里士多德那里，实践智慧要求知道那些对过好生活有用的偶然事实。他说：“如今，人们认为实践智慧者的标志，是能够就何者对己为善、何为便利斟酌得当——不是就某一方面，比如什么有助于健康或体力，而是一般地就什么有助于好生活”（《尼各马可伦理学》VI, 1140a–1140b）。可见实践智慧要求一般地懂得如何过好生活。许多哲学家在这一点上赞同亚里士多德；但也有不少人不满于“理论智慧一种、实践智慧又一种”的结论。另一些哲学家，包括 Linda Zagzebski（1996），则承认确有两种智慧应当分开。
+  - id: 32
+    kind: body
+    source: |-
+      Let’s proceed, without argument, on the assumption that it is possible to have a theory of one, general, kind of wisdom. Wisdom, in general, many philosophers would argue, requires practical knowledge about living. What Aristotle calls theoretical wisdom, many would contend, is not wisdom at all. Aristotle’s theoretical wisdom is merely extensive knowledge or deep understanding. Nicholas Maxwell (1984), in his argument to revolutionize education, argues that we should be teaching for wisdom, which he sharply distinguishes from standard academic knowledge. Similar points are raised by Robert Sternberg (2001) and Andrew Norman (1996). Robert Nozick holds a view very similar to Aristotle’s theory of practical wisdom, but Nozick is trying to capture the essence of wisdom, period. He is not trying to define one, alternative, kind of wisdom. Nozick claims, “Wisdom is what you need to understand in order to live well and cope with the central problems and avoid the dangers in the predicaments human beings find themselves in” (1989, 267). And, John Kekes maintains that, “What a wise man knows, therefore, is how to construct a pattern that, given the human situation, is likely to lead to a good life” (1983, 280). More recently, Valerie Tiberius (2008) has developed a practical view that connects wisdom with well being, requiring, among other things, that a wise person live the sort of life that he or she could sincerely endorse upon reflection. Such practical views of wisdom could be expressed, generally, as follows.
+    step1: |-
+      让我们不加论证地假定：有可能建立一种关于单一、一般的智慧种类的理论。许多哲学家会论证说，一般的智慧要求关于生活的实践知识。许多人会主张，亚里士多德所谓理论智慧根本不是智慧。亚里士多德的理论智慧只是广博的知识或深刻的理解。Nicholas Maxwell（1984）在为其教育改革主张辩护时论证说，我们应当为智慧而教，而他严格地把智慧与标准的学术知识区分开来。Robert Sternberg（2001）与 Andrew Norman（1996）也提出了类似论点。Robert Nozick 所持的见解与亚里士多德实践智慧理论非常相似，但 Nozick 试图把握的是智慧本身的本质，而不是要定义智慧的某一种替代类型。Nozick 声称：“智慧是你为了过好生活、应付核心问题、避开人类所处困境中的危险而需要理解的东西”（1989, 267）。而 John Kekes 主张：“因此，有智慧的人所知道的，是如何构造一种在人类处境下很可能通向好生活的模式”（1983, 280）。晚近以来，Valerie Tiberius（2008）发展出一种实践观点，把智慧与福祉联系起来，并要求有智慧的人过一种他或她经过反思能够真诚认可的生活。这类关于智慧的实践观点，大体可以表达如下。
+    step2: |-
+      不妨不加论证地假定：可以有一种关于单一、一般智慧的理论。许多哲学家会说，一般的智慧要求关于生活的实践知识；他们还会说，亚里士多德所谓的理论智慧根本不算智慧，只是广博的知识或深刻的理解。Nicholas Maxwell（1984）主张革新教育，理由是我们该“为智慧而教”，并把智慧与标准学术知识严加区别。Robert Sternberg（2001）与 Andrew Norman（1996）也提出类似论点。Robert Nozick 的见解与亚里士多德实践智慧论十分相近，但他要抓的是智慧本身的本质，并非要定义智慧的一个替代类型。他说：“智慧是你为了活得好、应付核心难题、避开人类困境中的危险而必须理解的东西”（1989, 267）。John Kekes 则说：“所以，智者所知的，是如何构建一种在人类处境下很可能引向好生活的模式”（1983, 280）。晚近 Valerie Tiberius（2008）提出一种实践观点，把智慧与福祉挂钩，要求智者过一种他或她经反思能真诚认可的生活。这类实践观点大体可表述如下。
+  - id: 33
+    kind: body
+    source: |-
+      > **Wisdom as Knowing How To Live Well (KLW)**: *S* is wise iff *S* knows how to live well.
+    step1: |-
+      > **智慧即懂得如何过好生活（KLW）**：*S* 有智慧，当且仅当 *S* 懂得如何过好生活。
+    step2: |-
+      > **智慧即懂得如何过好生活（KLW）**：*S* 有智慧，当且仅当 *S* 懂得如何过好生活。
+  - id: 34
+    kind: body
+    source: |-
+      This view captures Aristotle’s basic idea of practical wisdom. It also captures an important aspect of views defended by Nozick, Plato, Garrett, Kekes, Maxwell, Ryan, and Tiberius. Although giving an account of what it means to know how to live well may prove as difficult a topic as providing an account of wisdom, Nozick provides a very illuminating start.
+    step1: |-
+      这一见解抓住了亚里士多德实践智慧的基本观念。它也抓住了 Nozick、柏拉图、Garrett、Kekes、Maxwell、Ryan 和 Tiberius 所捍卫见解的一个重要方面。尽管说明“懂得如何过好生活”是什么意思，可能和说明智慧一样困难，Nozick 提供了一个很有启发性的开端。
+    step2: |-
+      此说抓住了亚里士多德实践智慧的基本观念，也抓住了 Nozick、柏拉图、Garrett、Kekes、Maxwell、Ryan、Tiberius 诸家见解的一个重要侧面。要说清“懂得如何过好生活”，其难度恐怕不下于说清智慧；不过 Nozick 开了一个很有启发性的头。
+  - id: 35
+    kind: body
+    source: |-
+      > Wisdom is not just one type of knowledge, but diverse. What a wise person needs to know and understand constitutes a varied list: the most important goals and values of life – the ultimate goal, if there is one; what means will reach these goals without too great a cost; what kinds of dangers threaten the achieving of these goals; how to recognize and avoid or minimize these dangers; what different types of human beings are like in their actions and motives (as this presents dangers or opportunities); what is not possible or feasible to achieve (or avoid); how to tell what is appropriate when; knowing when certain goals are sufficiently achieved; what limitations are unavoidable and how to accept them; how to improve oneself and one’s relationships with others or society; knowing what the true and unapparent value of various things is; when to take a long-term view; knowing the variety and obduracy of facts, institutions, and human nature; understanding what one’s real motives are; how to cope and deal with the major tragedies and dilemmas of life, and with the major good things too. (1989, 269)
+    step1: |-
+      > 智慧并不只是某一类知识，而是多样的。一个有智慧的人所要知道和理解的东西构成一份纷繁的清单：人生最重要的目标与价值——以及终极目标，如果有的话；什么手段能以不太大的代价达到这些目标；哪些危险会威胁这些目标的实现；如何辨认并避开或尽量减少这些危险；不同类型的人在行动与动机上是什么样子（因为这既带来危险，也带来机会）；什么是无法达到（或避开）的；如何判断何时何为适宜；知道某些目标何时已充分实现；哪些局限无法避免、以及如何接受它们；如何改进自己以及自己与他人或社会的关系；知道各种事物的真实而隐而不显的价值；何时应采取长期眼光；知道事实、制度与人性的多样与顽固；理解自己的真实动机是什么；如何应对生活中的重大悲剧与困境，也能应对重大的好事。（1989, 269）
+    step2: |-
+      > 智慧并不止一类知识，而是纷繁多样的。智者需要知道、需要理解的东西，列出来长长一串：人生最重要的目标与价值——以及终极目标（如果有的话）；哪些手段能以不太大的代价达到这些目标；哪些危险威胁着目标的实现；如何辨认并避开或尽量减小这些危险；各色人等的行为与动机是何模样（其中既藏危险，也藏机会）；什么是做不到、或行不通的；何时该做什么；某些目标何时算已充分达成；哪些局限无可避免、又该如何接受；如何改进自己、改进与他人和社会的关系；各种事物的真实而不显见的价值何在；何时该放眼长远；事实、制度与人性何等多样而顽固；自己的真实动机是什么；如何应对人生的大悲剧与大困境，也应对大好事。（1989, 269）
+  - id: 36
+    kind: body
+    source: |-
+      With Nozick’s explanation of what one must know in order to live well, we have an interesting and quite attractive, albeit somewhat rough, theory of wisdom. As noted above, many philosophers, including Aristotle and Zagzebski would, however, reject (KLW) as the full story on wisdom. Aristotle and Zagzebski would obviously reject (KLW) as the full story because they believe theoretical wisdom is another kind of wisdom, and are unwilling to accept that there is a conception of one, general, kind of wisdom. Kekes claims, “The possession of wisdom shows itself in reliable, sound, reasonable, in a word, good judgment. In good judgment, a person brings his knowledge to bear on his actions. To understand wisdom, we have to understand its connection with knowledge, action, and judgment” (1983, 277). Kekes adds, “Wisdom ought also to show in the man who has it” (1983, 281). Many philosophers, therefore, think that wisdom is not restricted even to knowledge about how to live well. Tiberius thinks the wise person’s actions reflect their basic values. These philosophers believe that being wise also includes action. A person could satisfy the conditions of any of the principles we have considered thus far and nevertheless behave in a wildly reckless manner. Wildly reckless people are, even if very knowledgeable about life, not wise.
+    step1: |-
+      有了 Nozick 关于人为了过好生活必须知道什么的说明，我们就得到了一个有趣且相当有吸引力、尽管有些粗糙的智慧理论。然而，如上所述，许多哲学家，包括亚里士多德与 Zagzebski，会拒绝把（KLW）当作关于智慧的全部故事。亚里士多德与 Zagzebski 显然会拒绝把（KLW）当作全部故事，因为他们认为理论智慧是另一种智慧，并且不愿接受存在一种关于单一、一般智慧种类的构想。Kekes 声称：“智慧的拥有显现在可靠、健全、合理、一言以蔽之，良好的判断中。在良好判断中，一个人把其知识施用于行动。要理解智慧，我们就必须理解它与知识、行动和判断的联系”（1983, 277）。Kekes 补充说：“智慧也应当显现在拥有它的人身上”（1983, 281）。因此，许多哲学家认为，智慧甚至不限于关于如何过好生活的知识。Tiberius 认为，有智慧者的行动反映其基本价值。这些哲学家相信，有智慧也包括行动。一个人可以满足我们迄今考虑的任何原则的条件，却仍然行为极其鲁莽。极其鲁莽的人，即便非常了解生活，也没有智慧。
+    step2: |-
+      Nozick 说明了人为了活得好必须知道什么，我们由此得到一个有趣、颇有吸引力、虽则略嫌粗糙的智慧理论。但如前所述，许多哲学家——亚里士多德与 Zagzebski 即在其列——会拒绝把（KLW）当作智慧的全部。他们认为理论智慧另是一种智慧，也不肯承认存在单一的、一般的智慧概念。Kekes 说：“智慧的拥有，显现在可靠、健全、合理——一言以蔽之，良好的判断里。在良好判断中，人把知识施用于行动。要理解智慧，就得理解它与知识、行动、判断的关联”（1983, 277）。他又补一句：“智慧还该显现在拥有它的人身上”（1983, 281）。因此许多哲学家认为，智慧甚至不限于“如何过好生活”的知识。Tiberius 认为智者的行动反映其基本价值。这些哲学家相信，有智慧也包括行动。一个人可以满足我们迄今所论任何原则的条件，行为却极其鲁莽；而极其鲁莽的人，纵然深谙生活，也算不上有智慧。
+  - id: 37
+    kind: body
+    source: |-
+      Philosophers who are attracted to the idea that knowing how to live well is a necessary condition for wisdom might want to simply tack on a success condition to (KLW) to get around cases in which a person knows all about living well, yet fails to put this knowledge into practice. Something along the lines of the following theory would capture this idea.
+    step1: |-
+      那些被“懂得如何过好生活是智慧的必要条件”这一观念吸引的哲学家，也许想干脆在（KLW）上附加一个成功条件，以绕开一个人完全懂得如何过好生活、却未能把这种知识付诸实践的种种情形。类似下面这样的理论将抓住这一想法。
+    step2: |-
+      有些哲学家倾心于“懂得如何过好生活是智慧的必要条件”，他们或许干脆给（KLW）添上一条成功条件，用以对付那种“全懂却不肯照做”的情形。下面这样的理论正合此意。
+  - id: 38
+    kind: body
+    source: |-
+      > **Wisdom as Knowing How To, and Succeeding at, Living Well (KLS)**: *S* is wise iff (i) *S* knows how to live well, and (ii) *S* is successful at living well.
+    step1: |-
+      > **智慧即懂得如何过好生活并成功地过好生活（KLS）**：*S* 有智慧，当且仅当（i）*S* 懂得如何过好生活，且（ii）*S* 成功地过着好生活。
+    step2: |-
+      > **智慧即懂得如何过好生活并成功地过好生活（KLS）**：*S* 有智慧，当且仅当（i）*S* 懂得如何过好生活，（ii）*S* 成功地过着好生活。
+  - id: 39
+    kind: body
+    source: |-
+      The idea of the success condition is that one puts one’s knowledge into practice. Or, rather than using the terminology of success, one might require that a wise person’s beliefs and values cohere with one’s actions (Tiberius, 2008). The main idea is that one’s actions are reflective of one’s understanding of what it means to live well. A view along the lines of (KLS) would be embraced by Aristotle and Zagzebski (for practical wisdom), and by Kekes, Nozick, and Tiberius. (KLS) would not be universally embraced, however (see Ryan 1999, for further criticisms)[^ryan-1999]. One criticism of (KLS) is that one might think that all the factual knowledge required by (WFK) is missing from this theory. One might argue that (WFK), the view that a wise person has extensive factual knowledge, was rejected only because it did not provide sufficient conditions for wisdom. Many philosophers would claim that (WFK) does provide a necessary condition for wisdom. A wise person, such a critic would argue, needs to know how to live well (as described by Nozick), but she also needs to have some deep and far-reaching theoretical, or factual, knowledge that may have very little impact on her daily life, practical decisions, or well being. In the preface of his *Principles of Philosophy*, Descartes insisted upon factual knowledge as an important component of wisdom. Descartes wrote, “It is really only God alone who has Perfect Wisdom, that is to say, who has a complete knowledge of the truth of all things; but it may be said that men have more wisdom or less according as they have more or less knowledge of the most important truths” (*Principles*, 204). Of course, among those important truths, one might claim, are truths about living well, as well as knowledge in the basic academic subject areas.
+    step1: |-
+      成功条件的想法是：一个人把知识付诸实践。或者，人们可以不用成功的术语，而要求有智慧者的信念与价值同其行动相一致（Tiberius, 2008）。主要想法是，一个人的行动反映其对“过好生活意味着什么”的理解。沿着（KLS）的思路，这样的见解会得到亚里士多德与 Zagzebski（就实践智慧而言）以及 Kekes、Nozick 和 Tiberius 的赞同。然而，（KLS）不会得到普遍赞同（进一步的批评参见 Ryan 1999）[^ryan-1999]。对（KLS）的一项批评是：人们可能认为，（WFK）所要求的一切事实知识在这一理论中都缺失了。人们可以论证说，（WFK）——即有智慧者拥有广博事实知识这一见解——之所以被拒绝，只是因为它没有提供智慧的充分条件。许多哲学家会主张，（WFK）确实提供了智慧的一个必要条件。这样的批评者会论证说，有智慧的人需要懂得如何过好生活（如 Nozick 所描述），但她还需要拥有某种深刻而影响深远的理论或事实知识，这种知识对她日常生活、实践决定或福祉也许影响甚小。笛卡尔在其《哲学原理》序言中坚持事实知识是智慧的重要组成部分。笛卡尔写道：“真正只有上帝才有完善的智慧，也就是说，只有上帝才完全知道一切事物的真理；但可以说，人按其知道最重要的真理之多寡，而有较多或较少的智慧”（《哲学原理》, 204）。当然，人们可以说，这些重要真理当中包括关于过好生活的真理，也包括基础学术科目领域的知识。
+    step2: |-
+      成功条件的意思就是：把知识用起来。或者不叫“成功”，而要求智者的信念、价值同行动相合（Tiberius, 2008）——核心是：行动要体现自己对“何谓过好生活”的理解。沿（KLS）这条路子的见解，会得到亚里士多德与 Zagzebski（就实践智慧而言）、以及 Kekes、Nozick、Tiberius 的首肯；但它不会人人买账（进一步的批评见 Ryan 1999）[^ryan-1999]。对（KLS）的一项批评是：有人会说，它把（WFK）要求的那一大堆事实知识全丢了。他们会说，（WFK）——即“智者拥有广博事实知识”之说——被否掉，只是因为它没给出智慧的充分条件；而许多哲学家恰恰认为，（WFK）给出了智慧的一个必要条件。批评者会说：智者固然要懂得如何过好生活（如 Nozick 所述），但也得有某种深刻而影响深远的理论或事实知识，哪怕这种知识对他的日常起居、实践决策或福祉帮助不大。笛卡尔在《哲学原理》序言里就坚持事实知识是智慧的重要成分：“真正只有上帝才拥有完善的智慧，也就是说，只有上帝才完全知道万物的真理；但可以说，人知道最重要的真理越多，智慧就越多，知道得越少，智慧就越少”（《哲学原理》, 204）。当然，人们可以说，这些重要真理中既有关于过好生活的真理，也有基础学科的知识。
+  - id: 40
+    kind: body
+    source: |-
+      Moreover, one might complain that the insight left standing from Epistemic Accuracy theories is also missing from (KLS). One might think that a wise person not only knows a lot, and succeeds at living well, she also confines her claims to knowledge (or belief that she has knowledge) to those propositions that she is justified in believing.
+    step1: |-
+      而且，人们可能抱怨说，认知准确理论所留下的洞见，在（KLS）中也缺失了。人们可能认为，有智慧的人不仅知道很多、成功地过好生活，她还把自己的知识主张（或相信自己拥有知识的信念）限制在她有理由相信的那些命题上。
+    step2: |-
+      还有人会抱怨：（KLS）同样丢掉了认知准确理论所留下的洞见。他们会说，智者不仅所知广博、生活顺遂，还把自己的知识主张（或“我有知识”的信念）限于那些自己有理由相信的命题。
+  - id: 41
+    kind: body
+    source: |-
+      ## 4. Hybrid Theory
+    step1: |-
+      ## 4 混合理论
+    step2: |-
+      ## 4 混合理论
+  - id: 42
+    kind: body
+    source: |-
+      One way to try to accommodate the various insights from the theories considered thus far is in the form of a hybrid theory. One such idea is:
+    step1: |-
+      要想容纳迄今所考察各理论中的种种洞见，一种办法是采用混合理论的形式。这样一个想法是：
+    step2: |-
+      要兼容迄今各理论的种种洞见，一条路子是搞一个混合理论。例如：
+  - id: 43
+    kind: body
+    source: |-
+      > *S* is wise iff
+      >
+      > 1. *S* has extensive factual and theoretical knowledge.
+      > 2. *S* knows how to live well.
+      > 3. *S* is successful at living well.
+      > 4. *S* has very few unjustified beliefs.
+    step1: |-
+      > *S* 有智慧，当且仅当
+      >
+      > 1. *S* 拥有广博的事实知识与理论知识。
+      > 2. *S* 懂得如何过好生活。
+      > 3. *S* 成功地过着好生活。
+      > 4. *S* 极少拥有未获证成的信念。
+    step2: |-
+      > *S* 有智慧，当且仅当
+      >
+      > 1. *S* 拥有广博的事实知识与理论知识；
+      > 2. *S* 懂得如何过好生活；
+      > 3. *S* 成功地过着好生活；
+      > 4. *S* 极少拥有未获证成的信念。
+  - id: 44
+    kind: body
+    source: |-
+      Although this Hybrid Theory has a lot going for it, there are a number of important criticisms to consider. Dennis Whitcomb (2010) objects to all theories of wisdom that include a living well condition, or an appreciation of living well condition. He gives several interesting objections against such views. Whitcomb thinks that a person who is deeply depressed and totally devoid of any ambition for living well could nevertheless be wise. As long as such a person is deeply knowledgeable about academic subjects and knows how to live well, that person would have all they need for wisdom. With respect to a very knowledgeable and deeply depressed person with no ambition but to stay in his room, he claims, “If I ran across such a person, I would take his advice to heart, wish him a return to health, and leave the continuing search for sages to his less grateful advisees. And I would think he was wise despite his depression-induced failure to value or desire the good life. So I think that wisdom does not require valuing or desiring the good life.”
+    step1: |-
+      尽管这一混合理论有许多可取之处，仍有若干重要批评需要考虑。Dennis Whitcomb（2010）反对一切包含“过好生活”条件或“赏识过好生活”条件的智慧理论。他针对这类见解提出了若干有趣的反对意见。Whitcomb 认为，一个深陷抑郁、毫无过好生活之抱负的人，仍可能有智慧。只要这样一个人对学术科目有深厚的知识、又懂得如何过好生活，他就具备了智慧所需的一切。针对一个知识渊博而深陷抑郁、除了待在房间里别无抱负的人，他声称：“如果我在路上碰到这样一个人，我会把他的建议记在心上，祝他康复，然后把继续寻找圣人的差事留给那些不那么知恩图报的受教者。而且，尽管他因抑郁而未能看重或欲求好生活，我仍会认为他有智慧。所以我认为，智慧并不要求看重或欲求好生活。”
+    step2: |-
+      这一混合理论固然可取之处不少，但也有若干重要批评。Dennis Whitcomb（2010）反对一切带有“过好生活”或“赏识过好生活”条件的智慧理论，并提出了几条有意思的反对理由。他认为，一个深陷抑郁、对好生活毫无抱负的人，照样可以有智慧：只要此人于学术科目上见识深厚、又懂得如何过好生活，智慧所需便已齐备。他设想一个学识渊博、深陷抑郁、除了缩在屋里别无他求的人，说：“我若在路上遇见这么个人，会把他的建议记在心上，祝他早日康复，然后把继续寻访圣人的差事留给那些不那么领情的弟子。而且，尽管他因抑郁而既不看重、也不渴求好生活，我仍会认为他有智慧。所以我认为，智慧并不要求看重或欲求好生活。”
+  - id: 45
+    kind: body
+    source: |-
+      In response to Whitcomb’s penetrating criticism, one could argue that a deeply depressed person who is wise, would still live as well as she can, and would still value living well, even if she falls far short of perfection. Such a person would attempt to get help to deal with her depression. If she really does not care at all, she may be very knowledgeable, but she is not wise. There is something irrational about knowing how to live well and refusing to try to do so. Such irrationality is not compatible with wisdom. A person with this internal conflict may be extremely clever and shrewd, one to listen to on many issues, one to trust on many issues, and may even win a Nobel Prize for her intellectual greatness, but she is not admirable enough, and rationally consistent enough, to be wise. Wisdom is a virtue and a way of living, and it requires more than smart ideas and knowledge.
+    step1: |-
+      针对 Whitcomb 犀利的批评，人们可以论证说，一个有智慧而深陷抑郁的人，仍会尽其所能地好好生活，也仍会看重过好生活，即便她远未达到完善。这样的人会设法求助于人，以应对自己的抑郁。如果她真的全然不在乎，她也许知识渊博，但没有智慧。懂得如何过好生活却拒绝去尝试，其中有一种不理性的东西。这种不理性与智慧不相容。一个内心如此冲突的人，也许极其机敏精明，在许多问题上是可听信之人、可信赖之人，甚至可能因其智识之伟大而获得诺贝尔奖，但她还不够可敬、不够理性上一致，因而算不上有智慧。智慧是一种德性，也是一种生活方式，它要求的不只是聪明的想法和知识。
+    step2: |-
+      对 Whitcomb 这番犀利的批评，可以说：一个深陷抑郁的智者，仍会尽力活得尽可能好，也仍会看重过好生活，哪怕离完善甚远。这样的人会设法求治抑郁。倘若她真的一点都不在乎，那她也许学识渊博，却算不上有智慧。懂得如何过好生活却拒绝一试，这里头有某种不理性；而这种不理性与智慧不相容。内心如此冲突的人，也许极为机敏精明，许多事上可听、可信，甚至能凭智识之伟大摘得诺贝尔奖，但她还算不上可敬，也没有做到理性上前后一贯，因此够不上智慧。智慧是一种德性、一种活法，它要的不只是聪明念头和知识。
+  - id: 46
+    kind: body
+    source: |-
+      Aristotle held that “it is evident that it is impossible to be practically wise without being good” (*Nicomachean Ethics*, 1144a, 36–37). Most of the philosophers mentioned thus far would include moral virtue in their understanding of what it means to live well. However, Whitcomb challenges any theory of wisdom that requires moral virtue. Whitcomb contends that a deeply evil person could nevertheless be wise.
+    step1: |-
+      亚里士多德认为，“显然，若不善良，就不可能具有实践智慧”（《尼各马可伦理学》, 1144a, 36–37）。迄今提到的大多数哲学家都会把道德德性纳入他们对“过好生活意味着什么”的理解。然而，Whitcomb 挑战任何要求道德德性的智慧理论。Whitcomb 主张，一个极其邪恶的人仍可能有智慧。
+    step2: |-
+      亚里士多德说：“显然，不善良便不可能有实践智慧”（《尼各马可伦理学》, 1144a, 36–37）。前面提到的大多数哲学家，都会把道德德性纳入他们对“何谓过好生活”的理解。Whitcomb 却挑战任何要求道德德性的智慧理论，主张一个极其邪恶的人照样可以有智慧。
+  - id: 47
+    kind: body
+    source: |-
+      Again, it is important to contrast being wise from being clever and intelligent. If we think of wisdom as the highest, or among the highest, of human virtues, then it seems incompatible with a deeply evil personality.
+    step1: |-
+      同样，把有智慧与聪明、智力高区分开来很重要。如果我们把智慧看作人类德性中最高者、或最高者之一，那么它似乎与深重的邪恶人格不相容。
+    step2: |-
+      同样要紧的是，把“有智慧”同“聪明、智力高”分开。若把智慧视为人类德性之最高或最高者之一，它似乎就容不下深重的邪恶人格。
+  - id: 48
+    kind: body
+    source: |-
+      There is, however, a very serious problem with the Hybrid Theory. Since so much of what was long ago considered knowledge has been abandoned, or has evolved, a theory that requires truth (through a knowledge condition) would exclude almost all people who are now long dead, including Hypatia, Socrates, Confucius, Aristotle, Homer, Lao Tzu, etc. from the list of the wise. Bad epistemic luck, and having lived in the past, should not count against being wise. But, since truth is a necessary condition for knowledge, bad epistemic luck is sufficient to undermine a claim to knowledge. What matters, as far as being wise goes, is not that a wise person has knowledge, but that she has highly justified and rational beliefs about a wide variety of subjects, including how to live well, science, philosophy, mathematics, history, geography, art, literature, psychology, and so on. And the wider the variety of interesting topics, the better. Another way of developing this same point is to imagine a person with highly justified beliefs about a wide variety of subjects, but who is unaware that she is trapped in the Matrix, or some other skeptical scenario. Such a person could be wise even if she is sorely lacking knowledge. A theory of wisdom that focuses on having rational or epistemically justified beliefs, rather than the higher standard of actually having knowledge, would be more promising. Moreover, such a theory would incorporate much of what is attractive about epistemic humility, and epistemic accuracy, theories.
+    step1: |-
+      然而，混合理论有一个非常严重的问题。既然许多很久以前被视为知识的东西已被放弃或已演变，一个要求真理（通过知识条件）的理论就会把几乎所有现已作古的人排除在智者名单之外，包括希帕提娅、苏格拉底、孔子、亚里士多德、荷马、老子等等。认知运气不佳以及生活在过去，不应成为判定一个人有无智慧的不利因素。但是，既然真理是知识的必要条件，认知运气不佳就足以推翻知识主张。就“有智慧”而言，要紧的不是有智慧的人拥有知识，而是她对广泛多样的主题拥有高度得到证成且合理的信念，这些主题包括如何过好生活、科学、哲学、数学、历史、地理、艺术、文学、心理学等等。而且，有趣主题的种类越广越好。展开同一点的另一种方式，是设想一个人对广泛多样的主题拥有高度得到证成的信念，却不知道自己身处矩阵之中或某种其他怀疑论场景。这样一个人即便极度缺乏知识，也可能有智慧。一个着眼于拥有合理的或认识上得到证成的信念、而非以实际拥有知识这一更高标准为准的智慧理论，会更有前途。而且，这样的理论会吸纳认知谦逊理论与认知准确理论中许多有吸引力之处。
+    step2: |-
+      然而，混合理论有一个极严重的麻烦。很久以前被认作“知识”的东西，如今大半已被弃置或已改易；因此，一个要求真理（经由知识条件）的理论，会把几乎一切早已作古的人逐出智者之列——希帕提娅、苏格拉底、孔子、亚里士多德、荷马、老子等等。认知运气不好、或生于往昔，都不该算作不智慧的过失。然而真理既是知识的必要条件，认知运气不佳便足以拆掉知识的主张。就智慧而论，要紧的并非智者拥有知识，而是他对广泛题目——如何过好生活、科学、哲学、数学、历史、地理、艺术、文学、心理学等等——持有证成充分而合理的信念；题目越广越好。换一种说法：设想一个人对广泛题目都持有证成充分的信念，却不知道自己困在矩阵之中、或身处别的怀疑论场景。这样的人纵然大缺知识，也可以有智慧。一个着眼于合理的、认知上得到证成的信念、而不以“实际拥有知识”这一更高标准为门槛的智慧理论，会更有希望；而且它还能把认知谦逊说与认知准确说中许多吸引人之处一并纳入。
+  - id: 49
+    kind: body
+    source: |-
+      ## 5. Wisdom as Rationality
+    step1: |-
+      ## 5 智慧即合理性
+    step2: |-
+      ## 5 智慧即合理性
+  - id: 50
+    kind: body
+    source: |-
+      The final theory to be considered here is an attempt to capture all that is good, while avoiding all the serious problems of the other theories discussed thus far. Perhaps wisdom is a deep and comprehensive kind of rationality (Ryan, 2012).
+    step1: |-
+      这里要考虑的最后一个理论，试图容纳一切优点，同时避开迄今所论其他理论的一切严重问题。也许智慧是一种深刻而全面的合理性（Ryan, 2012）。
+    step2: |-
+      最后要考察的理论，意在取其长、避其短——把迄今诸说的优点收拢，同时绕开它们的严重麻烦。也许智慧就是一种深刻而全面的合理性（Ryan, 2012）。
+  - id: 51
+    kind: body
+    source: |-
+      > **Deep Rationality Theory** (DRT): *S* is wise iff
+      >
+      > 1. *S* has a wide variety of epistemically justified beliefs on a wide variety of valuable academic subjects.
+      > 2. *S* has a wide variety of justified beliefs on how to live rationally (epistemically, morally, and practically).
+      > 3. *S* is committed to living rationally.
+      > 4. *S* has very few unjustified beliefs and is sensitive to her limitations.
+    step1: |-
+      > **深层合理性理论**（DRT）：*S* 有智慧，当且仅当
+      >
+      > 1. *S* 在广泛多样的有价值学术科目上拥有广泛多样的认识上得到证成的信念。
+      > 2. *S* 在如何合理地生活（认识上、道德上与实践上）方面拥有广泛多样的得到证成的信念。
+      > 3. *S* 致力于合理地生活。
+      > 4. *S* 极少拥有未获证成的信念，并对自己的局限保持敏感。
+    step2: |-
+      > **深层合理性理论**（DRT）：*S* 有智慧，当且仅当
+      >
+      > 1. *S* 在众多有价值的学科上持有众多认识上得到证成的信念；
+      > 2. *S* 就如何合理地生活（认识上、道德上、实践上）持有众多得到证成的信念；
+      > 3. *S* 致力于合理地生活；
+      > 4. *S* 极少持有未获证成的信念，且对自身局限保持敏感。
+  - id: 52
+    kind: body
+    source: |-
+      In condition (1), DRT takes account of what is attractive about some knowledge theories by requiring epistemically justified beliefs about a wide variety of standard academic subjects. Condition (2) takes account of what is attractive about theories that require knowledge about how to live well. For example, having justified beliefs about how to live in a practically rational way would include having a well-reasoned strategy for dealing with the practical aspects of life. Having a rational plan does not require perfect success. It requires having good reasons behind one’s actions, responding appropriately to, and learning from, one’s mistakes, and having a rational plan for all sorts of situations and problems. Having justified beliefs about how to live in a morally rational way would not involve being a moral saint, but would require that one has good reasons supporting her beliefs about what is morally right and wrong, and about what one morally ought and ought not do in a wide variety of circumstances. Having justified beliefs about living in an emotionally rational way would involve, not dispassion, but having justified beliefs about what is, and what is not, an emotionally rational response to a situation. For example, it is appropriate to feel deeply sad when dealing with the loss of a loved one. But, ordinarily, feeling deeply sad or extremely angry is not an appropriate emotion to spilled milk. A wise person would have rational beliefs about the emotional needs and behaviors of other people.
+    step1: |-
+      在条件（1）中，DRT 通过要求关于广泛多样的标准学术科目的认识上得到证成的信念，顾及了某些知识理论的吸引人之处。条件（2）顾及了那些要求关于如何过好生活的知识的理论的吸引人之处。例如，拥有关于如何以实践上合理的方式生活的得到证成的信念，将包括拥有一条经过良好推理的、应对生活实践方面的策略。拥有一条合理计划并不要求完全成功。它要求一个人的行动背后有良好理由，对错误作出恰当回应并从中学习，以及对各种处境与问题都有一条合理计划。拥有关于如何以道德上合理的方式生活的得到证成的信念，并不涉及做道德圣人，但要求一个人拥有支持其关于道德是非的信念的良好理由，以及支持其关于在广泛多样的境况中道德上应当与不应当做什么的信念的良好理由。拥有关于以情感上合理的方式生活的得到证成的信念，并不涉及不动情，而涉及拥有关于什么是对某一情境情感上合理的反应、什么不是的得到证成的信念。例如，面对亲人去世而深感悲伤是恰当的。但通常说来，为打翻的牛奶深感悲伤或暴怒，并不是恰当的情绪。有智慧的人会对别人的情感需求与行为持有合理的信念。
+    step2: |-
+      条件（1）要求对众多标准学科持有认识上得到证成的信念，这是取知识理论之长；条件（2）要求关于如何过好生活的知识，这是取那类理论之长。比如说，就如何以实践上合理的方式生活持有得到证成的信念，意味着对生活的实践面有一套推理周密的策略。有合理计划并不要求事事成功，而要求行动背后有良好理由，对错误作出恰当反应并从中吸取教训，对各种处境和难题都有合理预案。就如何以道德上合理的方式生活持有得到证成的信念，并非要人做道德圣人，而是要求：关于道德上的是非、关于在种种境况下道德上该与不该做什么，都有良好理由支撑。就如何以情感上合理的方式生活持有得到证成的信念，并非要人无情，而是要求：对何种情绪反应于某一情境算合理、何种不算，持有得到证成的信念。比如亲人离世，深感悲伤是恰当的；但一般说来，为打翻的牛奶而深悲或暴怒，就不恰当。智者对他人情感上的需要与举动，会持有合理的信念。
+  - id: 53
+    kind: body
+    source: |-
+      Condition (3) ensures that the wise person live a life that reflects what she or he is justified in believing is a rational way to live. In condition (4), DRT respects epistemic humility. Condition (4) requires that a wise person not believe things without epistemic justification. The Deep Rationality Theory rules out all of the unwise poets, politicians, and craftsmen that were ruled out by Socrates. Wise people do not think they know when they lack sufficient evidence. Moreover, wise people are not epistemically arrogant.
+    step1: |-
+      条件（3）确保有智慧的人过一种反映他或她有理由相信为合理生活方式的生活。在条件（4）中，DRT 尊重认知谦逊。条件（4）要求有智慧的人不在没有认识上证成的情况下相信事物。深层合理性理论排除了苏格拉底所排除的一切不明智的诗人、政治家和工匠。有智慧的人在缺乏充分证据时不会自认有知。而且，有智慧的人不会认知傲慢。
+    step2: |-
+      条件（3）确保智者所过的生活，体现他或她所信为合理的那种活法。条件（4）则尊重认知谦逊：要求智者不在缺乏认识上证成时相信什么。苏格拉底排除的那些不智的诗人、政治家、工匠，深层合理性理论同样排除——智者证据不足时不自认有知，也不带认知傲慢。
+  - id: 54
+    kind: body
+    source: |-
+      The Deep Rationality Theory does not require knowledge or perfection. But it does require rationality, and it accommodates degrees of wisdom. It is a promising theory of wisdom.
+    step1: |-
+      深层合理性理论不要求知识或完善，但它确实要求合理性，并且容纳智慧的程度。它是一个有前途的智慧理论。
+    step2: |-
+      深层合理性理论不要求知识，也不要求完善；但它要求合理性，并且容得下智慧有程度之别。这是个有前途的智慧理论。
+  - id: 55
+    kind: oir
+    source: |-
+      The Wisdom Page [http://www.wisdompage.com/](http://www.wisdompage.com/)
+    step1: |-
+      智慧之页 [http://www.wisdompage.com/](http://www.wisdompage.com/)
+    step2: |-
+      智慧之页（The Wisdom Page）[http://www.wisdompage.com/](http://www.wisdompage.com/)
+  - id: 56
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      [欢迎向作者提出建议。]
+    step2: |-
+      [欢迎向作者提出建议。]
+  - id: 57
+    kind: note
+    source: |-
+      [^note-1]: Keith Lehrer and Nicholas D. Smith argue that one mark of a wise person is that they are extremely good at recognizing the worth of the beliefs they judge. Lehrer and Smith might insist that a wise person would always be aware of what she is justified in believing and she would always believe she has knowledge when she has a highly justified belief. See Lehrer and Smith 1996, p. 10.
+    step1: |-
+      [^note-1]: Keith Lehrer 与 Nicholas D. Smith 论证说，有智慧者的一个标志是极善于识别他们所判断的信念的价值。Lehrer 与 Smith 可能坚持认为，有智慧的人总会意识到自己有何理由相信什么，并且在拥有高度得到证成的信念时总会相信自己拥有知识。参见 Lehrer and Smith 1996, p. 10。
+    step2: |-
+      [^note-1]: Keith Lehrer 与 Nicholas D. Smith 论证说，智者的一个标志是极善于辨识自己所判断之信念的价值。他们或会坚持：智者总能意识到自己相信什么是有理由的，而且只要信念证成充分，就总相信自己有知识。参 Lehrer and Smith 1996, p. 10。

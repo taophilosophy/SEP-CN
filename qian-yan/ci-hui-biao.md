@@ -77,6 +77,7 @@
 |Causation|因果关系|亦作“因果”；审定名词（自然辩证法）|
 |Celestial Masters|天师道|道教天师道；审定“天师”佐证|
 |certainty|确定性||
+|Chaerephon|凯瑞丰||
 |Chan Buddhism|禅宗|审定名词（中国古代史·宗教）|
 |Charles Mills|查尔斯·米尔斯|当代政治哲学|
 |Cheng Hao|程颢|宋明理学（与程颐并称二程）|
@@ -149,7 +150,11 @@
 |envy|嫉妒||
 |Epictetus|爱比克泰德||
 |epistêmê|知识|与 doxa 意见相对|
+|epistemic accuracy|认知准确||
+|epistemic arrogance|认知傲慢||
 |Epistemic Closure|认知封闭|知识论|
+|epistemic humility|认知谦逊||
+|epistemic self-confidence|认知自信||
 |Epistemology|认识论|审定名词（自然辩证法·科学哲学）|
 |epoché|悬搁|亦作“悬置”；胡塞尔|
 |Ernest Sosa|欧内斯特·索萨|德性知识论|
@@ -182,6 +187,7 @@
 |Friedrich Waismann|弗里德里希·魏斯曼|维也纳学派/语言哲学|
 |full moral status|完全道德地位|生命伦理学|
 |game theory|博弈论|亦作“对策论”；审定双形在案|
+|Gandhi|甘地||
 |Gary Watson|加里·沃森|行动理论/道德心理学|
 |gauge freedom|规范自由度|广义相对论哲学；物理学通行|
 |gauge transformation|规范变换|广义相对论哲学；物理学通行|
@@ -197,6 +203,7 @@
 |Gödel number|哥德尔数|亦作“哥德尔编号”；数理逻辑|
 |Gödel sentence|哥德尔句|亦作“哥德尔语句”；数理逻辑|
 |Gödel’s theorem|哥德尔定理|数理逻辑|
+|Goethe|歌德||
 |Gómez Pereira|戈麦斯·佩雷拉|西班牙文艺复兴|
 |haecceitism|此性论||
 |Halevi, Judah|犹大·哈列维||
@@ -220,8 +227,11 @@
 |homosexuality|同性恋||
 |Huayan Buddhism|华严宗||
 |Hui Shi|惠施|中国哲学家|
+|humility theory of wisdom|智慧的谦逊理论||
 |hupatuphos|半脱虚妄||
 |Hutcheson, Francis|弗兰西斯·哈奇森||
+|hybrid theory of wisdom|智慧的混合理论||
+|Hypatia|希帕提娅||
 |Hypothetical Reasoning|假说推理|皮尔士溯因语境|
 |Ibn Zaddiq|伊本·扎迪克|犹太哲学家|
 |idea|理念（柏拉图-黑格尔传统）；观念（经验论语境）||
@@ -256,8 +266,10 @@
 |José Ortega|何塞·奥尔特加|西班牙存在主义另有同名导演，随词条|
 |Judith Butler|Judith Butler|现代学者保留英文；通行汉译“巴特勒”|
 |Lambert of Auxerre|欧塞尔的兰伯特||
+|Lao Tzu|老子||
 |Leibniz Equivalence|莱布尼茨等价|时空哲学；Stachel/Weatherall 用语|
 |Leon Henkin|莱昂·亨金||
+|living well|过好生活||
 |logic objection|逻辑诘难||
 |Luxemburg, Rosa|罗莎·卢森堡||
 |manerial supposition|manerial 指代||
@@ -285,6 +297,7 @@
 |Mode from Hypothesis|基于假设的论式||
 |modi significandi|意指样式（摩迪斯泰语法）||
 |moral law|道德法则（康德）||
+|moral virtue|道德德性||
 |necessity|必然性||
 |Negative Magnitudes|负量（康德《负量概念试论》）|康德前批判期著作|
 |Norman Daniels|诺曼·丹尼尔斯||
@@ -305,6 +318,7 @@
 |point-coincidence argument|点重合论证|Stachel 术语|
 |possibilia|可能物||
 |Possibilism|可能论|模态形而上学（与现实主义相对）|
+|practical know-how|实践诀窍||
 |practical knowledge|实践知识|行动哲学；技艺与实践智慧之分|
 |principle of bivalence|二值原则||
 |principle of transcendence|超越原则||
@@ -317,6 +331,7 @@
 |Pytho|《皮同》||
 |quality|性质||
 |quantity|量||
+|rationality|合理性||
 |reason|理性||
 |reduction per impossibile|归谬还原||
 |redundancy biconditional|冗余双条件句||
@@ -336,6 +351,7 @@
 |Silloi|《讽刺诗》||
 |skeptosunê|探究||
 |Sleeping Beauty|睡美人问题|审定直接命中（自然辩证法·科学哲学）|
+|Solomon|所罗门||
 |soul|灵魂||
 |spacetime substantivalism|时空实体论|与时空关系论相对|
 |specific ability|特定能力、特殊能力|能力哲学（与一般能力相对）|
@@ -355,7 +371,9 @@
 |telos|目的（终极目的）||
 |Ten Wings|十翼|易经 Commentary；审定异域不采|
 |terminist logic|词项主义逻辑||
+|Thales|泰勒斯||
 |the One|太一（普罗提诺 to hen）||
+|theoretical wisdom|理论智慧||
 |thing-in-itself|物自体（康德；亦作“自在之物”）||
 |Thinking Dispositions|思维倾向|认知心理学；审定复合佐证|
 |Timon of Phlius|斐利亚修斯的第蒙||
