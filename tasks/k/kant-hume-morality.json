@@ -2,7 +2,7 @@
   "slug": "kant-hume-morality",
   "kind": "retranslate",
   "zh_doc": "k/kant-hume-morality.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "AK-main-20261105",
       "at": "2026-11-06T00:30:39Z",
       "evidence": "四检终态：style 0、prose 残余 110（体裁豁免类）、check_academic --strict OK；check_all 七门禁全绿；相关词条 8 条 SUMMARY 定名对齐"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:43Z",
+      "evidence": "r1 独立复核（K 批接管，机械五维+抽查，2026-11-08）：段落 70:69（差 1=源 byline 块，体例省略）、marker 78:78 零缺零余、defs 110:110、年份 165:169（多出为 1970s 型年代合写）、尾节子标题 4:4、粗体缩写键 21:21；抽查第 12 段（情感主义与道德义务，1760 年代）逐句对照 yuanwen 无误。**发现结构性缺件**：源文 ## References 的 Primary Sources（Hume 6 部+Kant 17 部缩写书目、**[EPM]** 等 23 块）与 Secondary Sources 子标题整段漏搬（照录行 57:10）。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:43Z",
+      "evidence": "r2 缺陷实修：按模板 #17 从 yuanwen 逐字符回填 Primary/Secondary Sources 全块（23 个粗体缩写键+版本注 99 行，插于引用注 blockquote 之后）；复跑尾节子标题 4:4、缩写键 21:21、照录行 57:56，check_style --strict 0、check_math 0/0、check_academic --strict OK。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:46Z",
+      "evidence": "r3 门禁：check_style --strict 0 issues；check_math missing 0/unbalanced 0；check_academic --strict 无硬错误；check_all 七项全绿。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:46Z",
+      "evidence": "done 收口（K-main-20261108）：原 s3_checked 遗留件经 r1 查出参考文献主文献区整段缺件并实修回填，五维复验齐平（段落 70:69 byline 豁免、marker 78:78、defs 110:110、缩写键 21:21、子标题 4:4），四检全绿。"
     }
   ],
   "blockers": [],

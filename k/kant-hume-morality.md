@@ -1,10 +1,6 @@
 # 康德和休谟论道德 Kant and Hume on Morality (Eric Entrican Wilson and Lara Denis)
 
-
-
 *首次发表于 2008 年 3 月 26 日；2022 年 8 月 19 日实质修订。*
-
-
 
 康德（1724–1804）与休谟（1711–1776）之间的关系是一个引人入胜的长期话题。康德把休谟说成将他从“教条主义的沉睡”中唤醒的人，并把《纯粹理性批判》——可以说是现代哲学最重要的著作——描述为“最大可能扩大的休谟问题”的解决方案（Prol 4:260–61）。关注点多集中在两者在形而上学与知识论上的各自观点。然而，正如 Thomas Nagel 所说，当代道德哲学“仍然被这两个巨人之间的分歧所支配”（Nagel 2012）[^nagel-2012]。因此，比较休谟与康德提供了阐明和评估现代最有影响的两种道德哲学进路的机会。比较他们的观点也照亮了十八世纪伦理思想的图景。两者之间存在根本分歧，但康德与休谟在道德方面共享一些核心假定，而且康德直接受休谟所属的情感主义传统（尤其弗朗西斯·哈奇森的版本）的影响。这一影响在康德职业生涯早期最为积极显著，但即使在他与这一传统做了决定性决裂之后，它仍长期萦绕。
 
@@ -157,6 +153,106 @@
 ## 参考文献（引用注释）
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+### Primary Sources
+
+#### Hume, David
+
+**[EPM]**
+
+*An Enquiry concerning the Principles of Morals*, Tom L. Beauchamp (ed.), Oxford: Oxford University Press, 1998. [Originally published in 1751.] (Cited as according to section, part [if any], and paragraph number.)
+
+**[T]**
+
+*A Treatise of Human Nature: A Critical Edition*, David Fate Norton and Mary J. Norton (eds.), Oxford: Clarendon Press, 2007. [Originally published in 1739–1740.] (Cited according to book, part, section, and paragraph number.)
+
+**[DR]**
+
+*Dialogues Concerning Natural Religion* in *Dialogues Concerning Natural Religion and the Posthumous Essays* “Of the Immortality of the Soul” *and* “Of Suicide”, Richard H. Popkin (ed.), Indianapolis: The Hackett Publishing Company, 1980. [Originally published in 1779.] (Cited according to part [in Roman numerals] or page number [in Arabic numerals].)
+
+**[EHU]**
+
+*An Enquiry concerning Human Understanding*, Tom L. Beauchamp (ed.), Oxford: Oxford University Press, 1999. [Originally published in 1748.] (Cited according to section, part [if any], and paragraph number.)
+
+**[EMPL]**
+
+*Essays Moral, Political, and Literary*, Eugene Miller (ed.), Indianapolis: Liberty Fund, 1985. Two essays are cited according to page number: “Of Superstition and Enthusiasm”, pp. 73–79 [Originally published in 1741] and “Of the Immortality of the Soul”, pp. 590–98. [Originally published in 1777.]
+
+**[NHR]**
+
+*The Natural History of Religion* in *David Hume: A Dissertation on the Passions; The Natural History of Religion*, Tom L. Beauchamp (ed.), Oxford: Clarendon Press, 2007. [Originally published in 1757.] (Cited according to page number.)
+
+#### Kant, Immanuel
+
+**[CPrR]**
+
+*Critique of Practical Reason*, in *Practical Philosophy*, Mary J. Gregor (trans., ed.), Cambridge: Cambridge University Press, 1996. [Originally published in 1788.]
+
+**[G]**
+
+*Groundwork of the Metaphysics of Morals*, in *Practical Philosophy*, Mary J. Gregor (trans., ed.), Cambridge: Cambridge University Press, 1996. [Originally published in 1785.]
+
+**[MM]**
+
+*The Metaphysics of Morals*, Second Edition, Lara Denis (ed.) and Mary J. Gregor (trans.), Cambridge: Cambridge University Press, 2017. [Originally published in 1797.]
+
+**[I]**
+
+*Inquiry concerning the distinctness of the principles of natural theology and morality* in *Theoretical Philosophy: 1755-1770*, David Walford and Ralf Meerbote (eds.), Cambridge: Cambridge University Press, 2002. [Originally published in 1763.]
+
+**[WS]**
+
+*M. Immanuel Kant’s Announcement of the Programme of His Lectures for the Winter Semester 1765-1766*, in in *Theoretical Philosophy: 1755-1770*, David Walford and Ralf Meerbote (eds.), Cambridge: Cambridge University Press, 2002.
+
+**[Ant]**
+
+*Anthropology from a Pragmatic Point of View*, Robert B. Louden (trans.), in *Anthropology, History, and Education*, Günter Zöller and Robert B. Louden (eds.), Cambridge: Cambridge University Press, 2007. [Originally published in 1798.]
+
+**[CPJ]**
+
+*Critique of the Power of Judgment*, Paul Guyer (trans., ed.), Cambridge: Cambridge University Press, 2000. [Originally published in 1790.]
+
+**[A], [B]**
+
+*Critique of Pure Reason*, Paul Guyer and Allen W. Wood (trans., eds.), Cambridge: Cambridge University Press, 1988. ([A] citations refer to the pagination of the first edition of 1781 and [B] citations refer to the pagination of the second edition of 1787.)
+
+**[H], [C], [M], [V]**
+
+*Lectures on Ethics*, Peter Heath (trans., ed.) and J.B. Schneewind (ed.), Cambridge: Cambridge University Press, 1997. [Translation based on material published in the *Akademie Ausgabe* from 1974–1980.] ([H] citations refer to lecture transcriptions attributed to Herder, circa 1762–1764; [C] to Collins, circa 1774–1777; [M] to Mrongovius in 1784–1785; and [V] to Vigilantius, in 1793–1794.
+
+**[LPDR]**
+
+*Lectures on the Philosophical Doctrine of Religion*, Allen W. Wood (trans.), in *Religion and Rational Theology*, Allen W. Wood and George di Giovanni (eds.), Cambridge: Cambridge University Press, 1996. [Originally published in 1817, second edition 1830, reflecting lectures most likely from 1783–1784.]
+
+**[NF]**
+
+*Notes and Fragments*, Curtis Brown (trans.), Frederick Rauscher (trans.), and Paul Guyer (trans., ed.), Cambridge: Cambridge University Press, 2005. [Translation based primarily on Kant’s handwritten remains from the 1750s through the 1790s, contained in *Akademie Ausgabe* volumes published 1913-1934.] (Citations include reflection number in addition to volume and page number.)
+
+**[OFBS]**
+
+*Observations on the Feeling of the Beautiful and Sublime*, Paul Guyer (trans.), in *Anthropology, History, and Education*, Günter Zöller and Robert B. Louden (eds.), Cambridge: Cambridge University Press, 2007. [Originally published in 1764.]
+
+**[OPA]**
+
+*The Only Possible Argument in Support of a Demonstration of the Existence of God*, David Walford (trans.), in *Theoretical Philosophy: 1755-1770*, David Walford and Ralf Meerbote (eds.), Cambridge: Cambridge University Press, 2002. [Originally published in 1763.]
+
+**[OP]**
+
+*Opus Postumum*, Eckart Förster (trans., ed.) and Michael Rosen (trans.), Cambridge: Cambridge University Press, 1993. [Translation based on material written primarily circa 1796–1801 and published in the *Akademie Ausgabe* in 1936 and 1938.]
+
+**[Prol]**
+
+*Prolegomena to Any Future Metaphysics That Will Be Able to Come Forward as a Science*, Gary Hatfield (trans.), in *Theoretical Philosophy after 1781*, Henry Allison and Peter Heath (eds.), Cambridge: Cambridge University Press, 2002. [Originally published in 1783.]
+
+**[Rel]**
+
+*Religion within the Boundaries of Mere Reason*, George di Giovani (trans.) in *Religion and Rational Theology*, Allen W. Wood and George di Giovanni (eds.), Cambridge: Cambridge University Press, 1996. [Originally published in 1793.]
+
+**[WOT]**
+
+“What does it mean to orient oneself in thinking?”, Allen W. Wood (trans.) in *Religion and Rational Theology*, Allen W. Wood and George di Giovanni (eds.), Cambridge: Cambridge University Press, 1996. [Originally published in 1786.]
+
+### Secondary Sources
 
 ## 学术工具
 
