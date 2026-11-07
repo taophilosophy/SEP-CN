@@ -2,8 +2,44 @@
   "slug": "crescas",
   "kind": "retranslate",
   "zh_doc": "c/crescas.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T14:59:40Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "C-main-20261107",
+      "at": "2026-11-07T18:20:16Z",
+      "evidence": "账本流水线（lq）：113 段双版 step1/step2 分六批填录（script/c_fill_cres1-6.py，幂等+id 定位+TBD 守卫）；id22 为 21 项教义清单整段、id81-113 为 33 条内容脚注（译中文入自建 ## 脚注节，文献键照录）；lq check 守恒门 113 段通过（曾因把源文斜体 *Urim and Tumim* 改加粗触发 ** 硬门，已改纯文本消解）；compose --write 组装 29773 字符（H1+pubinfo+8 节含 10 个 H3+References 引用注释说明+Primary/Secondary Sources+学术工具+OIR+相关词条+致谢+103 defs 照录），正文约 1.3 万汉字"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "C-main-20261107",
+      "at": "2026-11-07T18:22:24Z",
+      "evidence": "逐段对照 yuanwen 核销+分区五维对账（全等）：正文 marker 38:38、脚注区 marker 34:34、文献区 70:71（+1 为 compose 引用注释说明模板行 [^key]，非缺陷）；defs 103:103 键集全等；年份分区全等——正文 15:15、33 条脚注 53:53、文献区 142:142（总 212:212 的表面差异仅因脚注节置于参考文献之前，与 done 件 cockburn 同序，属编排而非内容）；H2 14:14、H3 12:13（差 1＝源文 ### Acknowledgments 家法作 ## 致谢，全库两形并存）；书名/拉比名/希伯来文书名（אור השם 等）照录；脚注 33 条全部译入中文，仅文献键与出版信息照录"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "C-main-20261107",
+      "at": "2026-11-07T18:26:36Z",
+      "evidence": "prose 36→0（script/c_prose_cres.py 35 条幂等 SUBS + 三轮追加 15 条手工实修，共 50 处）：拆长句 18（含 100 字意志论段、91 字属性综合段）、消『的』链 14、改弱动词 3（作出辩护×2）、被动 1；另行统一 Abner 译名 阿布纳→阿布内尔（SUMMARY a/abner-burgos 定名优先，跨条一致，涉正文 21 处+账本 42 处）；斜体 CJK *乌陵与土明* 曾改加粗触发 lq ** 硬门，终改纯文本；check_style --strict 0 issue、check_academic --strict 无硬错误、check_math 无 unbalanced、check_prose 0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "C-main-20261108",
+      "at": "2026-11-07T22:34:37Z",
+      "evidence": "四检+结构对账全绿（C-main-20261108 复验）：check_style 0、check_prose 0（s2 实修 36→0 复验）、check_academic --strict 无硬错误、check_math 无 unbalanced；结构五维 vs yuanwen：脚注 marker 40:40 集合全等、defs 103:103、H2 14:14、H3 12:13（差 1＝源文 ### Acknowledgments 依家法作 ## 致谢）、粗体仅装配模板两行；biblio_audit 70 条 0 标记；账本 113 段双版全填、lq 守恒门通过；H1 与 SUMMARY 标题一致；注：c/crescas.md 为 s2 后终稿（账本 step2 存 draft 版），勿再 compose --write 回退"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:47Z",
   "version_pin": {

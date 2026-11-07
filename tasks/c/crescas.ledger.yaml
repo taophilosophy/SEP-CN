@@ -1,0 +1,990 @@
+version: 1
+slug: crescas
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Rabbi Hasdai Crescas (ca. 1340–1410/11) was the head of the Jewish community of Aragon, and in some ways all of Hispanic Jewry, during one of its most critical periods. Crescas was one of the leading rabbinic authorities of his time,[^note-1] the political leader of the Jews of Aragon, and a philosophical polemicist against Christianity. As one of the main medieval Jewish philosophers, Crescas critiques the radical Aristotelian philosophy of Maimonides and some of his philosophical heirs. He denounces the different Aristotelian opinions as contradicting not only the Jewish tradition, but also the true empirical and rational understanding of the world. Crescas assembles traditional Jewish opinion, the diverse Aristotelian sources, the neo-platonic thought of the apostate Abner of Burgos and the new science of scholastics of the 14ᵗʰ century to create an original philosophical opinion and critique of Aristotelianism known to the medieval period. His philosophical book *Or Hashem* was an important oeuvre of both Judaic thought and of the criticism of Aristotelian science which spurred the growth of the new science of the modern period, which arguably started in the 14ᵗʰ century. Until recently this book hadn’t been translated completely in any occidental languages, though it had influenced general occidental philosophy, especially via thinkers like Pico della Mirandola and Spinoza.
+    step1: |-
+      拉比哈斯代·克雷斯卡斯（约 1340–1410/11）是阿拉贡犹太共同体的首领，在某种意义上也是整个西班牙系犹太人的首领，其时正值犹太史上最危急的时期之一。克雷斯卡斯是他那个时代最主要的拉比权威之一，[^note-1] 是阿拉贡犹太人的政治领袖，也是一位反基督教的哲学论辩家。作为中世纪主要犹太哲学家之一，克雷斯卡斯批判迈蒙尼德的激进亚里士多德主义哲学及其若干哲学后裔。他痛斥各种亚里士多德学说，认为它们不仅与犹太传统相抵触，也与对世界的真正经验性、理性性理解相抵触。克雷斯卡斯汇集传统犹太观点、各色亚里士多德来源、叛教者布尔戈斯的阿布内尔的新柏拉图主义思想以及十四世纪经院学者的新科学，创造出中世纪所知的一种原创性哲学观点和对亚里士多德主义的批判。他的哲学著作《上主之光》既是犹太思想的重要作品，也是对亚里士多德科学之批判的重要作品，而这一批判推动了现代时期新科学的成长——新科学可以说正始于十四世纪。直到最近，这本书尚未以任何西方语言完整译出，尽管它已经影响了广义的西方哲学，尤其是经由皮科·德拉·米兰多拉与斯宾诺莎这样的思想家。
+    step2: |-
+      拉比哈斯代·克雷斯卡斯（Hasdai Crescas，约 1340–1410/11）是阿拉贡犹太共同体的首领，在某种意义上也是整个西班牙系犹太人的首领——其时正值犹太史上最危急的时期之一。克雷斯卡斯是他那个时代最主要的拉比权威之一，[^note-1] 是阿拉贡犹太人的政治领袖，也是一位反基督教的哲学论辩家。作为中世纪主要犹太哲学家之一，他批判迈蒙尼德（Maimonides）的激进亚里士多德主义哲学及其若干哲学后嗣，痛斥各种亚里士多德学说不仅与犹太传统相抵触，也与对世界的真正经验性、理性的理解相抵触。克雷斯卡斯汇集传统犹太观点、各色亚里士多德来源、叛教者布尔戈斯的阿布内尔（Abner of Burgos）的新柏拉图主义思想以及十四世纪经院学者的新科学，创造出一个中世纪所知的、最具原创性的哲学观点与对亚里士多德主义的批判。他的哲学著作《上主之光》（*Or Hashem*）既是犹太思想的重要作品，也是对亚里士多德科学之批判的重要作品——正是这类批判推动了现代时期新科学的成长，而新科学可以说始于十四世纪。直到晚近，此书尚无任何西方语言的完整译本，尽管它已影响广义的西方哲学，尤其是经由皮科·德拉·米兰多拉（Pico della Mirandola）与斯宾诺莎（Spinoza）这样的思想家。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. His life
+    step1: |-
+      ## 1. 生平
+    step2: |-
+      ## 1. 生平
+  - id: 3
+    kind: body
+    source: |-
+      Crescas was born in Barcelona to a revered family of merchants and rabbis around 1340. In the first period of his life (i.e. before 1391) Crescas lived in Aragon during a relatively quiet period for the Jews. He learned in the yeshiva (Jewish academy) of the town, which was headed by Rabbi Nissim of Gerondi. In this yeshiva, Crescas learned not only the traditional Jewish corpus of Bible, Talmud, and the other parts of the Oral Law, but also Kabbala, science, and philosophy, including the Jewish philosophy of Maimonides and his followers as well as classical philosophy and perhaps even Christian scholastics.[^note-2]
+    step1: |-
+      克雷斯卡斯约于 1340 年生于巴塞罗那一个受人尊敬的商人与拉比世家。其人生第一阶段（即 1391 年之前），克雷斯卡斯生活在阿拉贡犹太人相对平静的时期。他在该城的犹太经学院（yeshiva）学习，学院由赫罗纳的拉比尼西姆主持。在这所经学院里，克雷斯卡斯不仅学习传统的犹太文献——《圣经》、《塔木德》与口传律法的其他部分——还学习喀巴拉、科学与哲学，包括迈蒙尼德及其追随者的犹太哲学，以及古典哲学，或许还有基督教经院学者。[^note-2]
+    step2: |-
+      克雷斯卡斯约于 1340 年生于巴塞罗那一个受人尊敬的商人与拉比世家。其人生第一阶段（即 1391 年之前），阿拉贡的犹太人正处于相对平静的岁月。克雷斯卡斯在该城的犹太经学院（yeshiva）学习，学院由赫罗纳的尼西姆拉比（Rabbi Nissim of Gerondi）主持。在这所经学院里，他不仅修习传统犹太文献——《圣经》、《塔木德》与口传律法的其余部分——还修习喀巴拉（Kabbala）、科学与哲学：既包括迈蒙尼德及其追随者的犹太哲学，也包括古典哲学，或许还有基督教经院学术。[^note-2]
+  - id: 4
+    kind: body
+    source: |-
+      We know that by the year 1370 Crescas was a proficient young scholar, a Talmudist, and a judge in Barcelona. Following the death of Rabbi Nissim of Gerondi, Crescas and his friend Rabbi Isaac bar Sheshet (Ribash) became the main Jewish authorities of Aragon, and possibly of all Spain. People from all over the occidental Jewish World would ask them legalist questions (Harvey 2010, 20)[^harvey-2010]. In 1387, Pierre the Fourth of Aragon died, and his son Juan became the new king. This king and his French queen, Violant de Bar, loved culture, and their palace in Saragossa became the center of culture and science. In this palace Crescas could have met Bernard Matege, a humanist employed as the court scribe. Through him, Crescas may have become aware of the humanist movement in Italy, and indeed Warren Harvey has speculated that there was a considerable amount of mutual influence between the two intellectuals.[^note-3] In 1389, Crescas left Barcelona and became the rabbi of the capital of the crown of Aragon: Saragossa. A year later the King and Queen appointed him as the highest judge of all the Jews in the crown, and bestowed him with a high degree of authority over the Jewish community.
+    step1: |-
+      我们知道，到 1370 年，克雷斯卡斯已是熟练的青年学者、塔木德学者和巴塞罗那的法官。赫罗纳的拉比尼西姆去世后，克雷斯卡斯与其友人伊萨克·巴·谢谢特拉比（Ribash）成为阿拉贡——或许也是全西班牙——最主要的犹太权威。西方犹太世界各地的民众会向他们提出律法问题（Harvey 2010, 20）[^harvey-2010]。1387 年，阿拉贡的佩德罗四世去世，其子胡安继位。这位国王与其法国王后巴尔的维奥兰特热爱文化，他们在萨拉戈萨的宫廷成为文化与科学的中心。在这座宫廷里，克雷斯卡斯可能结识了受聘为宫廷文书的人文主义者贝尔纳·马特赫。经由他，克雷斯卡斯可能了解了意大利的人文主义运动；事实上，沃伦·哈维曾推测这两位知识分子之间存在相当多的相互影响。[^note-3] 1389 年，克雷斯卡斯离开巴塞罗那，出任阿拉贡王权首都萨拉戈萨的拉比。一年后，国王与王后任命他为王权治下全体犹太人的最高法官，并授予他对犹太共同体的极大权威。
+    step2: |-
+      我们知道，到 1370 年，克雷斯卡斯已是成熟的青年学者、塔木德学者，并任巴塞罗那的法官。赫罗纳的尼西姆拉比去世后，克雷斯卡斯与其友人伊萨克·巴·谢谢特拉比（Isaac bar Sheshet，通称 Ribash）成为阿拉贡——或许也是全西班牙——最主要的犹太权威，西方犹太世界各地的人都向他们提出律法问题（Harvey 2010, 20）[^harvey-2010]。1387 年，阿拉贡的佩德罗四世（Pedro IV）去世，其子胡安（Juan）继位。这位国王与其法国王后巴尔的维奥兰特（Violant de Bar）热爱文化，他们在萨拉戈萨（Saragossa）的宫廷遂成文化与科学中心。在这座宫廷里，克雷斯卡斯可能结识了受聘为宫廷文书的、人文主义者贝尔纳·马特赫（Bernard Matege）；经由他，克雷斯卡斯或许得知了意大利的人文主义运动。事实上，沃伦·哈维（Warren Harvey）曾推测这两位知识分子之间有相当多的相互影响。[^note-3] 1389 年，克雷斯卡斯离开巴塞罗那，出任阿拉贡王权之都萨拉戈萨的拉比。一年后，国王与王后任命他为王权治下全体犹太人的最高法官，并授予他对犹太共同体的极大权威。
+  - id: 5
+    kind: body
+    source: |-
+      The pogroms of 1391 had a decisive influence on the life of Crescas and on the entire Spanish Jewish community.[^note-4] In those pogroms thousands of Jews perished and around a hundred fifty thousand converted to Christianity. The pogroms began in Castilla, but the rioters crossed the Aragon border. Almost half of the Jews of Spain after 1391 became Christian. Aragon’s major Jewish communities in Barcelona, Valencia and Gerona disappeared. A son of Crescas died in Barcelona, and the yeshiva of Barcelona, one of the most important in the Middle Ages, disappeared. In the Crown of Aragon, the King and Queen tried to save the Jews and to prevent the pogrom, but they were successful only in Aragon, whereas the communities of Valencia, Catalonia and the Baleares Island were destroyed. Amongst the reasons for the success of the pogrom in Castilla was the fact that the king was a child at the time and the Castilian government was inefficient.
+    step1: |-
+      1391 年的大屠杀对克雷斯卡斯的一生和整个西班牙犹太共同体都有决定性的影响。[^note-4] 在那些大屠杀中，成千上万的犹太人丧生，约十五万人改宗基督教。大屠杀始于卡斯蒂利亚，但暴乱者越过了阿拉贡边界。1391 年之后，西班牙的犹太人几乎有一半成了基督徒。阿拉贡在巴塞罗那、巴伦西亚与赫罗纳的主要犹太共同体消失了。克雷斯卡斯的一个儿子死在巴塞罗那，巴塞罗那的经学院——中世纪最重要的经学院之一——也不复存在。在阿拉贡王权之下，国王与王后力图保护犹太人、阻止大屠杀，但他们只在阿拉贡境内成功，巴伦西亚、加泰罗尼亚与巴利阿里群岛的共同体则被摧毁。大屠杀在卡斯蒂利亚得逞的原因之一，是国王当时尚年幼，卡斯蒂利亚政府效率低下。
+    step2: |-
+      1391 年的大屠杀（pogroms）对克雷斯卡斯的一生和整个西班牙犹太共同体都有决定性的影响。[^note-4] 在那些屠杀中，成千上万的犹太人丧生，约十五万人改宗基督教。屠杀始于卡斯蒂利亚（Castilla），但暴徒越过了阿拉贡边界。1391 年之后，西班牙的犹太人几乎半数成了基督徒；阿拉贡在巴塞罗那、巴伦西亚（Valencia）与赫罗纳（Gerona）的主要犹太共同体湮灭无存。克雷斯卡斯的一个儿子死在巴塞罗那，巴塞罗那的经学院——中世纪最重要的经学院之一——也不复存在。在阿拉贡王权之下，国王与王后力图保护犹太人、阻止屠杀，但他们只在阿拉贡境内得手；巴伦西亚、加泰罗尼亚与巴利阿里群岛的共同体则被摧毁。屠杀在卡斯蒂利亚得逞的原因之一，是国王当时尚在冲龄，卡斯蒂利亚政府又效率低下。
+  - id: 6
+    kind: body
+    source: |-
+      After these events, Crescas became the leader of the Spanish community in its fight to survive. With the help of the King and Queen of Aragon, he tried to restore the Jewish community of Barcelona (without success). He helped *converso* Jews who wanted to come back to Judaism to leave Spain for Muslim countries in North Africa. He ultimately wanted to find a safer place for the Spanish Jews, possibly in the Kingdom of Navarre.
+    step1: |-
+      这些事件之后，克雷斯卡斯成为西班牙共同体求生存斗争的领袖。在阿拉贡国王与王后的帮助下，他力图重建巴塞罗那的犹太共同体（未果）。他帮助想回归犹太教的 *converso* 改宗者离开西班牙，前往北非的穆斯林国家。他最终想为西班牙犹太人寻找一个更安全的居所，可能在纳瓦拉王国。
+    step2: |-
+      这些事件之后，克雷斯卡斯成为西班牙共同体求存斗争的领袖。在阿拉贡国王与王后的帮助下，他力图重建巴塞罗那的犹太共同体（未果）；他帮助想要回归犹太教的 *converso*（改宗者）离开西班牙，前往北非的穆斯林国家；他还想为西班牙犹太人寻找一个更安全的居所——可能在纳瓦拉（Navarre）王国。
+  - id: 7
+    kind: body
+    source: |-
+      The turning point of 1391 influenced the literary activity of Crescas. He probably wrote fewer philosophical works (and certainly fewer Talmudic and legal works), while most likely writing more polemical books against Christianity than he had planned to before the pogrom.
+    step1: |-
+      1391 年的转折影响了克雷斯卡斯的著述活动。他写下的哲学著作大概更少（塔木德与律法著作肯定更少），而反基督教的论战著作却多半比大屠杀之前计划的更多。
+    step2: |-
+      1391 年这一转折影响了克雷斯卡斯的著述活动：他写下的哲学著作大概更少（塔木德与律法著作肯定更少），而反基督教的论战著作，多半比屠杀之前所计划的更多。
+  - id: 8
+    kind: body
+    source: |-
+      Until his death late in 1410 or in January of 1411, Crescas remained the spiritual head of Spanish Jewry. As a part of his role, he tried to build a new generation of Jewish leaders. After the pogrom, Crescas continued to teach Torah, Talmud, science, and philosophy. His star pupil in philosophy was Rabbi Josef Albo, while his star pupil in Talmudic studies and law was Rabbi Josef Ibn Haviva. Crescas also influenced the polemical works of Profiat Duran (Efodi). Crescas requested the translation from Arabic to Hebrew of the work of Abraham Ibn-Dahoud *Ha-Emunah ha-Ramah* by Solomon ben Levi. The second translation of this work under the title *Ha-Emunah Nissa’ah* by Samuel ibn Motot is probably based on the first one. The original Arabic text is now lost, so it is likely thanks to Crescas that this important philosophical work has survived.
+    step1: |-
+      直到 1410 年末或 1411 年 1 月去世，克雷斯卡斯始终是西班牙犹太人的精神领袖。作为其职责的一部分，他试图培养新一代犹太领袖。大屠杀之后，克雷斯卡斯继续讲授《托拉》、《塔木德》、科学与哲学。他哲学上的高足是约瑟夫·阿尔博拉比，而塔木德与律法研究上的高足是约瑟夫·伊本·哈维瓦拉比。克雷斯卡斯还影响了普罗菲亚特·杜兰（埃福迪）的论战著作。克雷斯卡斯委托所罗门·本·列维将亚伯拉罕·伊本·达乌德的著作《崇高信仰》从阿拉伯语译为希伯来语。萨缪尔·伊本·莫托特以《崇高信仰之考察》为题的第二个译本大概以第一个译本为基础。阿拉伯语原文现已亡佚，故这一重要哲学著作得以传世，很可能要归功于克雷斯卡斯。
+    step2: |-
+      直到 1410 年末或 1411 年 1 月去世，克雷斯卡斯始终是西班牙犹太人的精神领袖。作为其职责的一部分，他致力于培养新一代犹太领袖。大屠杀之后，他继续讲授《托拉》（Torah）、《塔木德》、科学与哲学。他哲学上的高足是约瑟夫·阿尔博拉比（Rabbi Josef Albo），塔木德与律法上的高足则是约瑟夫·伊本·哈维瓦拉比（Rabbi Josef Ibn Haviva）。克雷斯卡斯还影响了普罗菲亚特·杜兰（Profiat Duran，通称 Efodi）的论战著作。他委托所罗门·本·列维（Solomon ben Levi）把亚伯拉罕·伊本·达乌德（Abraham Ibn-Dahoud）的著作《崇高信仰》（*Ha-Emunah ha-Ramah*）从阿拉伯语译为希伯来语；萨缪尔·伊本·莫托特（Samuel ibn Motot）以《崇高信仰之考察》（*Ha-Emunah Nissa'ah*）为题的第二个译本，大概以第一个译本为据。阿拉伯语原文现已亡佚，故这一重要哲学著作得以传世，很可能要归功于克雷斯卡斯。
+  - id: 9
+    kind: body
+    source: |-
+      ## 2. His works
+    step1: |-
+      ## 2. 著作
+    step2: |-
+      ## 2. 著作
+  - id: 10
+    kind: body
+    source: |-
+      ### 2.1 Earlier work
+    step1: |-
+      ### 2.1 早期著作
+    step2: |-
+      ### 2.1 早期著作
+  - id: 11
+    kind: body
+    source: |-
+      There is a controversy about the attribution of a small commentary on the secret of the Kaddish (a Jewish prayer praising God, recited between sections of the daily prayer services and on behalf of departed relatives)to Crescas. According to Harvey 2010 and Ofir 2001 Crescas wrote it when he was a young student in Rabbi Nissim of Gerondi’s yeshiva. In this first work we can see the influence of the Kabbalistic school of Gerona. According to Ackerman 2013b, this text is not from Crescas and so there is no indication that the Kabbalah had any influence on Crescas.
+    step1: |-
+      关于一篇论述卡杜什（Kaddish）之奥秘的短注是否出自克雷斯卡斯，学界有争议（卡杜什是一种赞美上帝的犹太祷文，在日常礼拜的各节之间以及为逝去的亲人而诵）。按 Harvey 2010 与 Ofir 2001 的说法，克雷斯卡斯写作此文时还是赫罗纳的拉比尼西姆经学院里的年轻学生。在这第一部作品中，我们可以看到赫罗纳喀巴拉学派的影响。按 Ackerman 2013b 的说法，此文并非克雷斯卡斯所作，因此没有迹象表明喀巴拉对克雷斯卡斯有任何影响。
+    step2: |-
+      有一篇论述卡杜什（Kaddish）之奥秘的短注，其归属是否克雷斯卡斯，学界有争议——卡杜什是赞美上帝的犹太祷文，在日常礼拜的各节之间以及为逝去的亲人诵念。按 Harvey 2010 与 Ofir 2001 的说法，克雷斯卡斯写作此文时还是赫罗纳尼西姆拉比经学院里的年轻学生；在这第一部作品中，可以见到赫罗纳喀巴拉学派的影响。按 Ackerman 2013b 的说法，此文并非克雷斯卡斯所作，因而没有迹象表明喀巴拉对他有任何影响。
+  - id: 12
+    kind: body
+    source: |-
+      ### 2.2 Passover Sermon
+    step1: |-
+      ### 2.2 逾越节布道
+    step2: |-
+      ### 2.2 逾越节布道
+  - id: 13
+    kind: body
+    source: |-
+      In this short book, which is a based on a sermon that Crescas probably gave on the night of Passover, he explores his opinion about some philosophical questions regarding the subject of the basis of belief in miracles.[^note-5] These questions arise because of the description of the different miracles experienced by the Jews in Egypt. The first question asksif belief is an act of free will, or if the miracle in fact obliges the believer to believe in it (and in the idea that the miracle worker wants to prove through the miracle). After this question, Crescas addresses the subject of the essence of miracles, the essence of free will, and the relation between free will and reward and punishment. The sermon’s conclusion is also the only legalist work of Crescas in our possession.
+    step1: |-
+      在这部短书中——它基于克雷斯卡斯大概在逾越节之夜所作的一次布道——他探讨了自己对若干哲学问题的看法，这些问题关涉信仰奇迹之根据的主题。[^note-5] 这些问题的产生，是因为《圣经》描述了犹太人在埃及经历的种种奇迹。第一个问题问：信仰是否是自由意志的行为，还是奇迹实际上强制信仰者相信它（以及奇迹施行者想借奇迹证明的观念）。在此问题之后，克雷斯卡斯讨论了奇迹的本质、自由意志的本质，以及自由意志与赏罚的关系。这篇布道的结论也是我们所拥有的克雷斯卡斯唯一的律法著作。
+    step2: |-
+      在这部短书中——它基于克雷斯卡斯大概在逾越节之夜所作的一次布道——他探讨了自己对若干哲学问题的看法，这些问题关涉信仰奇迹之根据。[^note-5] 问题之所以产生，是因为《圣经》描述了犹太人在埃及经历的种种奇迹。第一个问题是：信仰是自由意志的行为，还是奇迹实际上强制信仰者相信它（以及奇迹施行者想借奇迹证明的观念）。这一问题之后，克雷斯卡斯讨论了奇迹的本质、自由意志的本质，以及自由意志与赏罚的关系。这篇布道的结论部分，也是我们手中克雷斯卡斯唯一的律法著作。
+  - id: 14
+    kind: body
+    source: |-
+      In this book, Crescas deals with the subject of free will in a less profound manner than in his philosophical magnus opum *Or Hashem*, but his opinions here do not contradict his opinion in *Or Hashem*. The difference between the two books on this subject can be attributed to the development of the thought of Crescas. According to one view, the sermon represents an anterior stage of Crescas and *Or Hashem* a posterior one (*Sermon on the Passover*, pp. 34–68). Another explanation of these differences could be the difference of style between the two books (a sermon versus a profound philosophical tract). The difference between the two books is clearer with regard to the question of the essence of miracles. Crescas’s opinion in his sermon is that miracles by themselves don’t oblige people to believe in something (as opposed to rational proofs that oblige belief). The reason for inherent doubt in the validity of any given miracle is that the people cannot be sure that God and not a human is the author of the miracle. In *Or Hashem* (P. 312) Crescas asserts the opposite position. Humans cannot do miracles by themselves.[^note-6] This is the reason that Crescas claims that the miracle is the best way to verify if a prophet is a true one or an impostor.[^note-7] This difference between the two works is a very good argument for the opinion that the sermon is anterior to *Or Hashem*. Ravitzky has said that in the sermon, Crescas followed the ideas of Rabbi Nissim Girondi, his teacher who believed in the possibility of men performing miracles, while years later, in *Or Hashem*, Crescas retreated from this opinion and now held that only God could perform miracles.
+    step1: |-
+      在这本书中，克雷斯卡斯处理自由意志问题的方式不如在其哲学巨著《上主之光》中深刻，但他在这里的观点与《上主之光》中的观点并不矛盾。两书在这一主题上的差异可以归于克雷斯卡斯思想的发展。按一种观点，布道代表克雷斯卡斯的前期，《上主之光》代表后期（《逾越节布道》，34–68 页）。对这些差异的另一种解释是两书文体的差异（布道与深刻的哲学论著）。就奇迹本质的问题而言，两书的差异更为明显。克雷斯卡斯在布道中的观点是：奇迹本身并不强制人们相信什么（与强制信仰的理性证明相对）。任何特定奇迹之有效性存在固有怀疑的原因在于：人们无法确定奇迹的作者是上帝而非人。在《上主之光》（312 页）中，克雷斯卡斯主张相反的立场：人凭自身不能行奇迹。[^note-6] 正因如此，克雷斯卡斯主张奇迹是检验先知为真先知还是骗子的最佳途径。[^note-7] 两部著作之间的这一差异，是布道先于《上主之光》这一观点的极好论证。拉维茨基说过，在布道中，克雷斯卡斯遵循其师赫罗尼的拉比尼西姆的思想——后者相信人行奇迹的可能性；而多年之后，在《上主之光》中，克雷斯卡斯放弃了这一观点，转而认为唯有上帝能行奇迹。
+    step2: |-
+      在这本书中，克雷斯卡斯处理自由意志问题的方式，不如在其哲学巨著《上主之光》中深刻，但这里的观点与《上主之光》并不矛盾。两书在这一主题上的差异，可归于克雷斯卡斯思想的发展。按一种观点，布道代表其前期，《上主之光》代表后期（《逾越节布道》，34–68 页）；另一种解释则诉诸两书文体之异（布道对深刻的哲学论著）。就奇迹本质的问题而言，两书差异更为明显。克雷斯卡斯在布道中的观点是：奇迹本身并不强制人们相信什么（与强制信仰的理性证明相对）。任何奇迹之有效性都带有固有怀疑，原因在于：人们无法确定奇迹的作者是上帝而非人。而在《上主之光》（312 页）中，克雷斯卡斯主张相反的立场：人凭自身不能行奇迹。[^note-6] 正因如此，他主张奇迹是检验先知真伪的最佳途径。[^note-7] 两部著作的这一差异，是布道先于《上主之光》这一观点的极好论证。拉维茨基（Ravitzky）说过：在布道中，克雷斯卡斯遵循其师赫罗纳的尼西姆拉比的思想——后者相信人行奇迹的可能；多年之后，在《上主之光》中，克雷斯卡斯放弃了这一观点，转而认为唯有上帝能行奇迹。
+  - id: 15
+    kind: body
+    source: |-
+      ### 2.3 Refutation of Christian Principles
+    step1: |-
+      ### 2.3 驳基督教诸原理
+    step2: |-
+      ### 2.3 驳基督教诸原理
+  - id: 16
+    kind: body
+    source: |-
+      The book known by the name “Refutation of Christian Principles” (we don’t know the original name of this work). This book was originally written in Catalan around 1397–1398, and is available only in the medieval Hebrew translation of Rabbi Josef Ibn Shem Tov[^note-8] and in modern English and Spanish translations of the Hebrew. The target audience of the Catalan work is probably the Jews of Aragon who didn’t read Hebrew, and the Jewish descendants of the conversos of 1391. In his book, Crescas critiques ten principles of the Christian faith: 1. Original sin. 2. The liberation from this sin. 3. The Trinity. 4. Incarnation. 5. The virginity of Maria. 6. Transubstantiation. 7. Baptism. 8. The coming of the Messiah. 9. The new laws. 10. Demons.
+    step1: |-
+      这本书以“驳基督教诸原理”之名传世（我们不知道原书名）。该书原作以加泰罗尼亚语写于约 1397–1398 年，现存仅有约瑟夫·伊本·谢姆·托夫拉比的中世纪希伯来语译本[^note-8]以及据该译本而来的现代英译与西班牙语译本。这部加泰罗尼亚语著作的预期读者，大概是阿拉贡不读希伯来语的犹太人，以及 1391 年改宗者的犹太后裔。在书中，克雷斯卡斯批判基督教信仰的十条原理：1. 原罪。2. 从此罪中的解放。3. 三位一体。4. 道成肉身。5. 玛利亚的童贞。6. 变体论。7. 洗礼。8. 弥赛亚的降临。9. 新律法。10. 魔鬼。
+    step2: |-
+      此书以“驳基督教诸原理”（*Refutation of Christian Principles*）之名传世，原书名已不可考。原作以加泰罗尼亚语写于约 1397–1398 年，今仅存约瑟夫·伊本·谢姆·托夫拉比（Rabbi Josef Ibn Shem Tov）的中世纪希伯来语译本，[^note-8] 以及据此而来的现代英译与西班牙语译本。这部加泰罗尼亚语著作的预期读者，大概是阿拉贡不读希伯来语的犹太人，以及 1391 年改宗者的犹太后裔。书中，克雷斯卡斯批判基督教信仰的十条原理：1. 原罪；2. 从此罪中得解放；3. 三位一体；4. 道成肉身；5. 玛利亚的童贞；6. 变体论；7. 洗礼；8. 弥赛亚的降临；9. 新律法；10. 魔鬼。
+  - id: 17
+    kind: body
+    source: |-
+      In these topics Crescas demonstrates a good understanding of the Christian theology of his time. In the majority of these subjects he uses philosophical and logical arguments against Christian dogma and not quotations from the Bible. This book was probably one of the more philosophical works of the Jewish critics of Christianity.[^note-9] Interestingly, Crescas utilizes in his polemical book some of the very Aristotelian opinions that he himself critiques in his philosophical oeuvre *Or Hashem.* The reason for this contradiction is probably that the aim of Crescas in his polemic works is to convince Jews not to convert to Christianity, and Jewish apostates to return to Judaism. The most effective method of attaining this goal was to utilize the most popular science in his time, and not necessarily what he considered to be closest to the truth. We can summarize that in his polemic works Crescas has a polemical goal, and in his philosophical works he has a philosophical goal.[^note-10] The Hebrew translator explains that the reason for this divergence was that the philosophical works were written before the polemical ones, but after writing *Or Hashem*, Crescas returned to Aristotelian science. But this explanation doesn’t accord with the chronological order of the writing, and we don’t have any reason to suppose that Crescas retreated from his anti-Aristotelian critiques.
+    step1: |-
+      在这些主题上，克雷斯卡斯表现出对他那个时代基督教神学的良好理解。在大多数主题上，他使用哲学与逻辑论证来反对基督教教义，而非引用《圣经》。这本书大概是犹太人批判基督教的著作中较具哲学性的一种。[^note-9] 有趣的是，克雷斯卡斯在其论战著作中使用了某些他在哲学著作《上主之光》中亲自批判的亚里士多德观点。这一矛盾的原因大概是：克雷斯卡斯在论战著作中的目的是说服犹太人不改宗基督教、并说服犹太叛教者回归犹太教。达到这一目标最有效的方法是使用他那个时代最流行的科学，而不一定是他认为最接近真理的东西。我们可以总结说：在论战著作中，克雷斯卡斯有论战的目标；在哲学著作中，他有哲学的目标。[^note-10] 希伯来语译者解释说，这一分歧的原因在于哲学著作写于论战著作之前，但写完《上主之光》之后，克雷斯卡斯又回到了亚里士多德科学。但这一解释与写作的先后次序不合，而且我们没有任何理由假定克雷斯卡斯放弃了他的反亚里士多德批判。
+    step2: |-
+      在这些主题上，克雷斯卡斯表现出对当时基督教神学的良好理解。多数主题上，他针对基督教教义使用哲学与逻辑论证，而非引用《圣经》。此书大概是犹太人批判基督教的著作中较富哲学性的一种。[^note-9] 有趣的是，克雷斯卡斯在论战著作中使用的某些亚里士多德学说，正是他自己在哲学著作《上主之光》中所批判的。这一矛盾的原因大概是：论战著作意在说服犹太人不改宗基督教、并劝犹太叛教者回归犹太教；而要达此目的，最有效的手段是援用当时最流行的科学，未必是他认为最接近真理的东西。可由是总结：论战著作有其论战目标，哲学著作有其哲学目标。[^note-10] 希伯来语译者解释说，这一分歧源于哲学著作写于论战著作之前，而写完《上主之光》之后，克雷斯卡斯又回到了亚里士多德科学。然而这一解释与写作时序不合，我们也没有任何理由假定克雷斯卡斯放弃过他的反亚里士多德批判。
+  - id: 18
+    kind: body
+    source: |-
+      ### 2.4 *Or Hashem* (The Light of the Lord)
+    step1: |-
+      ### 2.4 《上主之光》（*Or Hashem*）
+    step2: |-
+      ### 2.4 《上主之光》（*Or Hashem*）
+  - id: 19
+    kind: body
+    source: |-
+      This is without a doubt the major philosophical work (and indeed the magnum opus) of Crescas.[^note-11] This book was supposed to be the first part of a two-volume work that Crescas intended to write. The set was to be named *Ner Elohim* (Candle of God). The second book was to have been a work on Jewish law. The original aim of Crescas’s project was to counter the two major works of Maimonides by writing: I. A philosophical book against Maimonides’ *Guide of the Perplexed*. II. A legal book against his *Mishneh Torah*, in which Crescas would critique Maimonides’ legal method, and especially his lack of citations from earlier authorities. In fact, probably in part because of his communal role after 1391, he only had time to write the first book of the series, along with the general introduction to both volumes.
+    step1: |-
+      这无疑是克雷斯卡斯的主要哲学著作（亦是其集大成之作）。[^note-11] 这本书本应是克雷斯卡斯打算撰写的两卷本著作的第一部分。全书拟名为 *Ner Elohim*（《上帝之灯》）。第二卷本应是一部关于犹太律法的著作。克雷斯卡斯这一计划的原初目的，是通过写作两部书来对抗迈蒙尼德的两大著作：I. 一部反对迈蒙尼德《迷途指津》的哲学书。II. 一部反对其《重述托拉》（*Mishneh Torah*）的律法书，克雷斯卡斯将在其中批判迈蒙尼德的律法方法，尤其是他征引早期权威不足。事实上，大概部分由于其 1391 年之后的共同体职责，他只有时间写出这套书的第一部，以及两卷的总导言。
+    step2: |-
+      这无疑是克雷斯卡斯的主要哲学著作（亦是其 magnum opus）。[^note-11] 此书原拟为两卷本著作的第一部分，全书拟名《上帝之灯》（*Ner Elohim*）；第二卷本应写犹太律法。克雷斯卡斯这一计划的原初目的，是以两部书对抗迈蒙尼德的两大著作：一为哲学书，以及对迈蒙尼德的《迷途指津》（*Guide of the Perplexed*）；一为律法书，以及对其《重述托拉》（*Mishneh Torah*），克雷斯卡斯将在其中批判迈蒙尼德的律法方法，尤其是他疏于征引早期权威。事实上，大约部分由于 1391 年之后的共同体职责，他只有余暇写出这套书的第一部，以及两卷共用的总导言。
+  - id: 20
+    kind: body
+    source: |-
+      We know that *Or Hashem* was written over a long period of Crescas’s life – no less than fifteen years, and perhaps more. Because of his communal activity, Crescas didn’t finish the final edition of the book himself. Due to the extended period of writing, we can see the development of his thought in the different parts of the work. In some cases, as with the attributes of God, there are some contradictions between the different layers of the book’s development. Additionally, the pupil who edited the last edition of the book introduced some changes and additions with the goal of unifying Crescas’s seemingly opposing positions while moderating his openly radical opinions.[^note-12] Examples of these kinds of additions are clearly visible in the question of free will, and are found especially in the Florence manuscript.
+    step1: |-
+      我们知道，《上主之光》是在克雷斯卡斯一生中很长的一段时期内写成的——不少于十五年，或许更久。由于他的共同体活动，克雷斯卡斯未能亲自完成此书的定本。由于写作期漫长，我们可以在该书各部分看到其思想的发展。在某些情况下，例如上帝的属性问题，书中不同发展层次之间存在一些矛盾。此外，编辑此书最后一版的弟子引入了一些改动与增补，目的是统一克雷斯卡斯看似对立的立场，同时缓和其公开的激进观点。[^note-12] 这类增补的例子在自由意志问题上清晰可见，尤其见于佛罗伦萨抄本。
+    step2: |-
+      我们知道，《上主之光》的写作跨越克雷斯卡斯一生颇长的一段时期——不少于十五年，或许更久。由于共同体事务缠身，他未能亲手完成定本。写作期既长，书中各部分便可见其思想的发展；在某些问题上，例如上帝的属性，各发展层次之间还存在矛盾。此外，编辑此书最后一版的弟子作了若干改动与增补，意在统一克雷斯卡斯看似对立的立场，同时缓和他公开的激进观点。[^note-12] 此类增补在自由意志问题上清晰可见，尤见于佛罗伦萨抄本。
+  - id: 21
+    kind: body
+    source: |-
+      The structure of *Or Hashem* is based on a hierarchical arrangement of Jewish dogma opposed to the Maimonides thirteen principles of faith.[^note-13] Crescas separates his book into four different essays:
+    step1: |-
+      《上主之光》的结构基于一种犹太教义的层级安排，与迈蒙尼德的十三信条相对。[^note-13] 克雷斯卡斯把全书分为四篇：
+    step2: |-
+      《上主之光》的结构，是依犹太教义的层级安排而成，与迈蒙尼德的十三信条相对。[^note-13] 克雷斯卡斯把全书分为四篇：
+  - id: 22
+    kind: body
+    source: |-
+      1. The existence of God (and relevant topics like his unity, his attributes, etc.). This is the foundation of all religious belief.[^note-14]
+      2. The six foundations of the law, without which the existence of the Torah (and in general of all revealed law) is impossible (*Or Hashem*, 123). These six foundations are:
+      3. God’s knowledge of all things in existence (including all particulars)
+      4. God’s providence
+      5. God’s power
+      6. Prophecy
+      7. Free will
+      8. The purpose of the Torah
+      9. Obligatory beliefs. The existence of the Torah is possible without them, but if someone denies them he is a heretic. There are eight general beliefs in the obligatory category:
+      10. The creation of the world
+      11. The survival of the soul after death
+      12. Reward and Punishment (as per degree of conformity to the divine commandments)
+      13. Resurrection
+      14. The eternity of the Torah
+      15. The prophetic stature of Moses
+      16. The *Urim and Tumim* (a mystical tool of the High Priest through which he could ask God questions)
+      17. The Messiah There are three specific obligatory beliefs related to special religious obligations:
+      18. Prayer and the priestly benediction
+      19. Repentance
+      20. Rosh Hashana, The Fast of Kippur and the three pilgrimage festivals.
+      21. Fourteen beliefs for which the Torah does not clearly establish what the correct opinions are. Regarding these beliefs Crescas explores the different options and tries, using the interpretation of the traditional Jewish sources together with philosophical enquiry, to establish the correct view.
+    step1: |-
+      1. 上帝的存在（以及其独一性、属性等相关主题）。这是一切宗教信仰的基础。[^note-14]
+      2. 律法的六项基础；若无此六者，《托拉》（以及一般而言一切启示律法）的存在便不可能（《上主之光》，123）。这六项基础是：
+      3. 上帝对一切存在之物的知识（包括一切个别事物）
+      4. 上帝的护佑
+      5. 上帝的大能
+      6. 预言
+      7. 自由意志
+      8. 《托拉》的目的
+      9. 必须相信的信念。没有它们，《托拉》的存在仍属可能，但若有人否认它们，他就是异端。必须相信的信念中共有八项普遍信念：
+      10. 世界的创造
+      11. 灵魂在死后继续存在
+      12. 赏与罚（依与神诫相符的程度）
+      13. 复活
+      14. 《托拉》的永恒性
+      15. 摩西的先知地位
+      16. 乌陵与土明（大祭司的一种神秘工具，借之可向上帝求问）
+      17. 弥赛亚
+      此外还有三项与特殊宗教义务相关的特定必信信念：
+      18. 祈祷与祭司的祝福
+      19. 悔改
+      20. 新年节、赎罪日斋与三大朝圣节
+      21. 十四项《托拉》未明确规定正确观点的信念。关于这些信念，克雷斯卡斯探讨各种选项，并试图借助对传统犹太来源的解释与哲学探究，确立正确的观点。
+    step2: |-
+      1. 上帝的存在（及其独一性、属性等相关主题）。这是一切宗教信仰的基础。[^note-14]
+      2. 律法的六项基础；无此六者，《托拉》——以及一般而言一切启示律法——便无由存在（《上主之光》，123）。此六项基础为：
+      3. 上帝对一切存在之物的知识（包括一切个别事物）；
+      4. 上帝的护佑；
+      5. 上帝的大能；
+      6. 预言；
+      7. 自由意志；
+      8. 《托拉》的目的。
+      9. 必须相信的信念。无之，《托拉》的存在仍属可能；但若有人否认，即为异端。此类必信信念共八项普遍者：
+      10. 世界的创造；
+      11. 灵魂死后继续存在；
+      12. 赏与罚（依与神诫相符之程度）；
+      13. 复活；
+      14. 《托拉》的永恒性；
+      15. 摩西的先知地位；
+      16. 乌陵与土明（Urim and Tumim，大祭司借以向上帝求问的神秘器具）；
+      17. 弥赛亚。
+      此外另有与特殊宗教义务相系的三项特定必信信念：
+      18. 祈祷与祭司的祝福；
+      19. 悔改；
+      20. 新年节（Rosh Hashana）、赎罪日斋（Fast of Kippur）与三大朝圣节。
+      21. 十四项《托拉》未明定其正确观点的信念。对此，克雷斯卡斯探讨各种可能，并试图结合传统犹太来源的解释与哲学探究，以确立正确之见。
+  - id: 23
+    kind: body
+    source: |-
+      ## 3. God’s existence and attributes
+    step1: |-
+      ## 3. 上帝的存在与属性
+    step2: |-
+      ## 3. 上帝的存在与属性
+  - id: 24
+    kind: body
+    source: |-
+      ### 3.1 God’s existence:
+    step1: |-
+      ### 3.1 上帝的存在
+    step2: |-
+      ### 3.1 上帝的存在
+  - id: 25
+    kind: body
+    source: |-
+      In the introduction of the second part of the *Guide of the Perplexed*, Maimonides summarizes twenty-five premises of Aristotelian science (and one more that Maimonides attributes to the philosopher: the eternity of the world). In the first chapter of the second part, Maimonides gives philosophical (i.e., [neo-]Aristotelian) proofs of the three principal beliefs relating to God: his existence; his unity, and his immateriality. In the first part of the first essay, Crescas explains these twenty-six premises and the six proofs offered by Maimonides on behalf of the Aristotelians. In the second part of this essay, Crescas critiques fourteen of the premises of Aristotelian science. Afterwards he argues against Maimonides’ six proofs of the existence of God, his unity, and his immateriality.
+    step1: |-
+      在《迷途指津》第二部导言中，迈蒙尼德概述了亚里士多德科学的二十五个前提（另有一个迈蒙尼德归之于哲学家的前提：世界的永恒性）。在第二部第一章中，迈蒙尼德就关乎上帝的三项主要信念——其存在、其独一性、其无形体性——给出了哲学（即〔新〕亚里士多德式）证明。在第一篇第一部分中，克雷斯卡斯解释了这二十六个前提以及迈蒙尼德代亚里士多德派给出的六个证明。在本篇第二部分，克雷斯卡斯批判了亚里士多德科学的十四个前提。此后，他反驳迈蒙尼德关于上帝存在、独一性与无形体性的六个证明。
+    step2: |-
+      《迷途指津》第二部导言中，迈蒙尼德概述了亚里士多德科学的二十五个前提，另加一个他归于“哲学家”的前提——世界的永恒性。第二部第一章，他给出关乎上帝的三项主要信念——存在、独一、无形体——的哲学（即〔新〕亚里士多德式）证明。克雷斯卡斯在《上主之光》第一篇第一部分解释这二十六个前提，以及迈蒙尼德代亚里士多德派提出的六个证明；在第二部分，他批判亚里士多德科学十四个前提，继而反驳迈蒙尼德关于上帝存在、独一与无形体的六个证明。
+  - id: 26
+    kind: body
+    source: |-
+      In the third part of the second essay, Crescas analyzes the true meaning of these three beliefs and asks whether we can prove them. He comes to the conclusion that he can prove the existence of God. In his opinion the only way to prove the existence of God is via the need for a first cause. If every single thing in the universe is caused, their existence is only possible (just as is their inexistence) and so we need a first cause that necessitates their existence as opposed to their non-existence.[^note-15]
+    step1: |-
+      在第二篇第三部分中，克雷斯卡斯分析这三项信念的真正含义，并追问我们能否证明它们。他的结论是：他可以证明上帝的存在。在他看来，证明上帝存在的唯一途径是通过对第一因的需要。如果宇宙中每一件事物都是被造成的，那么它们的存在就只是可能的（恰如它们的不存在也是可能的），因此我们需要一个第一因，它使它们的存在而非不存在成为必然。[^note-15]
+    step2: |-
+      第二篇第三部分，克雷斯卡斯分析这三项信念的真义，并追问它们可否被证明。他的结论是：上帝的存在可以证明。在他看来，证明上帝存在的唯一途径，是诉诸对第一因的需要。倘若宇宙中每一事物皆是被造成的，其存在便只是可能（其不存在亦然）；于是我们需要一个第一因，使它们的存在而非不存在成为必然。[^note-15]
+  - id: 27
+    kind: body
+    source: |-
+      In Crescas’s opinion, we can also prove the simplicity of God, but we cannot prove the uniqueness of God. We can summarize this philosophical enquiry by saying that Crescas thinks that philosophy can prove the existence of a simple cause of the world, but it cannot arrive at the uniqueness God of the Bible. On this point Crescas comes to the conclusion that the only way to know the true essence of the divinity is to learn it from the divine revelation (the Torah and the tradition).
+    step1: |-
+      按克雷斯卡斯的看法，我们也可以证明上帝的单纯性，但不能证明上帝的独一性。我们可以这样总结这一哲学探究：克雷斯卡斯认为，哲学能证明世界有一个单纯的因，但达不到《圣经》中那位独一的上帝。在这一点上，克雷斯卡斯的结论是：认识神性之真本质的唯一途径，是从神圣启示（《托拉》与传统）中习得。
+    step2: |-
+      按克雷斯卡斯之见，上帝的单纯性亦可证明，独一性则不能。我们可以这样概括这一哲学探究：克雷斯卡斯认为，哲学能证明世界有一个单纯的因，却达不到《圣经》中那位独一的上帝。故其结论是：认识神性真本质的唯一途径，是从神圣启示——《托拉》与传统——中习得。
+  - id: 28
+    kind: body
+    source: |-
+      This philosophical development is very important for the comprehension of the relation between philosophy and revelation in the thought of Crescas. The major trend of Jewish philosophers, and chiefly Maimonides, was to prove that people can come closest to the true understanding of God through philosophy. These philosophers wanted to put philosophy on the same level of truth as the Torah. In their opinion, one must interpret the Torah according to science, and the Torah does not teach anything that philosophy cannot access on its own. In Crescas’s opinion, the true meaning of the Torah (and the tradition) cannot go against philosophy, but philosophy by itself cannot reveal the entire truth that the Torah contains. One of the goals of God’s revelation is to give us some true beliefs that philosophy (and human speculation alone) cannot discover. This development elevated the Torah and the tradition to a higher level of truth than that of philosophy. There are some questions in which philosophy and revelation provide the same answers, but there are also beliefs that pure philosophy cannot claim, such that only revelation can tell us what the truth is.
+    step1: |-
+      这一哲学推演对于理解克雷斯卡斯思想中哲学与启示的关系极为重要。犹太哲学家的主流倾向，尤其是迈蒙尼德，是要证明人通过哲学能最接近于对上帝的真正理解。这些哲学家想把哲学置于与《托拉》同等的真理地位。在他们看来，必须依据科学来解释《托拉》，而《托拉》不教任何哲学自身无法达到的东西。在克雷斯卡斯看来，《托拉》（与传统）的真义不能违反哲学，但哲学本身不能揭示《托拉》所包含的全部真理。上帝启示的目的之一，是给我们一些哲学（以及单纯的人类思辨）无法发现的真信念。这一推演把《托拉》与传统提升到比哲学更高的真理层次。有些问题哲学与启示给出相同的答案，但也有一些信念纯哲学无法主张，唯有启示能告诉我们真理何在。
+    step2: |-
+      这一哲学推演，对理解克雷斯卡斯思想中哲学与启示的关系极为关键。犹太哲学家的主流——尤其是迈蒙尼德——力求证明人借哲学最能接近对上帝的真正理解，并欲把哲学置于与《托拉》同等的真理地位。在他们看来，必须依科学解释《托拉》，而《托拉》不教任何哲学自身无法达到的东西。克雷斯卡斯则认为：《托拉》与传统的真义不能违背哲学，但哲学本身不能揭示《托拉》所含的全部真理。上帝启示的目的之一，正是给予我们若干哲学（以及单纯的人类思辨）无法发现的真信念。这一推演把《托拉》与传统提升到高于哲学的真理层次：有些问题哲学与启示答案相同，也有一些信念纯哲学无从主张，唯启示能告知真理何在。
+  - id: 29
+    kind: body
+    source: |-
+      ### 3.2 God’s attributes
+    step1: |-
+      ### 3.2 上帝的属性
+    step2: |-
+      ### 3.2 上帝的属性
+  - id: 30
+    kind: body
+    source: |-
+      In the early stage of his writing[^note-16] Crescas accepted the opinion of Maimonides that the attributes of God do not have any relation to the attributes of humans, and indeed Crescas defended this position against the arguments of Gersonides. But in the later stage Crescas constructed a new opinion. This final opinion serves as an exemplar of Crescas’s use of compilation from different sources with the goal of constructing a new and original theory.[^note-17]
+    step1: |-
+      在其写作的早期阶段，[^note-16] 克雷斯卡斯接受迈蒙尼德的观点：上帝的属性与人的属性没有任何关系；事实上，克雷斯卡斯还针对格森尼德斯的论证为这一立场辩护。但在后期阶段，克雷斯卡斯建构了一种新观点。这一最终观点堪称克雷斯卡斯从不同来源汇编材料以建构一种新颖而原创的理论的范例。[^note-17]
+    step2: |-
+      写作的早期阶段，[^note-16] 克雷斯卡斯接受迈蒙尼德之说：上帝的属性与人的属性毫无关系；他事实上还针对格森尼德斯（Gersonides）的论证为这一立场辩护。但在后期，他建构出一种新说。这一最终观点，堪称克雷斯卡斯杂取诸源、熔铸新论的范例。[^note-17]
+  - id: 31
+    kind: body
+    source: |-
+      The major elements of this synthesis are:
+    step1: |-
+      这一综合的要素如下：
+    step2: |-
+      这一综合的要素如下：
+  - id: 32
+    kind: body
+    source: |-
+      1. The opinion that human attributes and divine attributes are common in essence but divergent in quantity. Crescas’s most probable source here is Gersonides.[^note-18]
+      2. The infinity of the divine attributes both in number and in strength. His source here is probably Duns Scotus.
+      3. The differentiation between the indefinable essence of God and the attributes that are related to that essence. His source for this position is the apostate Abner of Burgos.
+    step1: |-
+      1. 认为人的属性与神的属性本质相同而数量有别的观点。克雷斯卡斯此处最可能的来源是格森尼德斯。[^note-18]
+      2. 神性属性在数量与力量两方面的无限性。其来源可能是邓斯·司各脱。
+      3. 上帝不可定义的本质与关涉该本质的属性之间的区分。他这一立场的来源是叛教者布尔戈斯的阿布内尔。
+    step2: |-
+      1. 人的属性与神的属性本质相同而数量有别。此处最可能的来源是格森尼德斯。[^note-18]
+      2. 神性属性在数量与力量上皆无限。其来源可能是邓斯·司各脱（Duns Scotus）。
+      3. 区分上帝不可定义的本质与关涉该本质的属性。此一立场的来源是叛教者布尔戈斯的阿布内尔。
+  - id: 33
+    kind: body
+    source: |-
+      The three elements of this approach existed before Crescas in the writings of different thinkers, but no one had put them all together. In Crescas’s opinion, humans cannot understand the true essence of God, and nor can they speak of him but negatively (like the opinion of Maimonides). But according to Crescas, there is another kind of attribute: those that are relative to the divine essence. These attributes do not describe the divine essence, but they do describe things that always accompany the divine essence, in much the same way a flame accompanies a live coal. These attributes have the same essence as human attributes, but they are infinite in both number and strength. With this position Crescas pulls together the Aristotelian anti-Maimonidean opinion of Gersonides, Duns Scotus’s Franciscan critique of Aquinas’s understanding of Aristotle, and the Neo-Platonic opinion of Abner in his formulation of a new anti-Aristotelian critique of Maimonides (Sadik 2011)[^sadik-2011].
+    step1: |-
+      这一进路的三个要素在克雷斯卡斯之前已存在于不同思想家的著作中，但无人把它们全部合在一起。按克雷斯卡斯的观点，人无法理解上帝的真本质，也只能以否定的方式言说上帝（如迈蒙尼德的观点）。但按克雷斯卡斯的说法，还有另一种属性：相对于神性本质的属性。这些属性并不描述神性本质，但它们描述始终伴随神性本质的东西，正如火焰伴随着燃烧的煤。这些属性与人的属性本质相同，但它们在数量与力量上都是无限的。借助这一立场，克雷斯卡斯把格森尼德斯的反迈蒙尼德式亚里士多德观点、司各脱对阿奎那理解亚里士多德之方式的方济各会批判、以及阿布内尔的新柏拉图主义观点合为一体，形成一种新的反亚里士多德式、反迈蒙尼德的批判（Sadik 2011）[^sadik-2011]。
+    step2: |-
+      这一进路的三个要素，在克雷斯卡斯之前已散见于不同思想家，却无人将三者合炉。按克雷斯卡斯之见，人无法理解上帝的真本质，也只能以否定的方式言说上帝（一如迈蒙尼德之见）；但还存在另一种属性——相对于神性本质的属性：它们不描述神性本质，却描述始终伴随神性本质者，正如火焰伴随燃烧之煤。这类属性与人的属性本质相同，但在数量与力量上都无限。借此立场，克雷斯卡斯把格森尼德斯的反迈蒙尼德式亚里士多德观点、司各脱对阿奎那亚里士多德理解之方济各会批判、阿布内尔的新柏拉图主义观点熔于一炉，锻造出一种新的、反亚里士多德亦反迈蒙尼德的批判（Sadik 2011）[^sadik-2011]。
+  - id: 34
+    kind: body
+    source: |-
+      ## 4. Critiques of Aristotelian science
+    step1: |-
+      ## 4. 对亚里士多德科学的批判
+    step2: |-
+      ## 4. 对亚里士多德科学的批判
+  - id: 35
+    kind: body
+    source: |-
+      One of the more important contributions of Crescas to the history of philosophy is his critique of Aristotelian science.[^note-19] This critique takes place in the second part of the first essay in *Or Hashem*. Crescas’s opinions regarding natural science are influenced by the new Christian physics of the 14ᵗʰ century, and especially by thinkers like Ockham, Buridan, and Oresme (Pines 1967)[^pines-1967]. Another source of Crescas’s science appears to be the lost book of Abner, *The New Philosophy*. But in this case, as in others, Crescas weaves together different sources and utilizes them freely in his goal to build one unified opinion. This original thought influenced occidental philosophy, finding its way via translation into Pico della Mirandola’s book *Examen Vanitas Doctrinae Gentium*, and later into Spinoza. Some of his most well known opinions include the existence of the void, the existence of infinitude of worlds, and the existence of time without movement.
+    step1: |-
+      克雷斯卡斯对哲学史的较重要贡献之一，是他对亚里士多德科学的批判。[^note-19] 这一批判见于《上主之光》第一篇第二部分。克雷斯卡斯关于自然科学的观点，受十四世纪新的基督教物理学的影响，尤其受奥卡姆、布里丹与奥雷姆等思想家的影响（Pines 1967）[^pines-1967]。克雷斯卡斯科学的另一个来源似乎是阿布内尔的佚书《新哲学》。但无论此处还是别处，克雷斯卡斯都把不同来源编织在一起，并在构建统一观点的目标下自由地利用它们。这一原创思想影响了西方哲学，经翻译进入皮科·德拉·米兰多拉的著作《异教徒学说之虚荣的检验》，后来又进入斯宾诺莎。他最著名的观点包括：虚空的存在、世界之无限的存在、无运动之时间的存在。
+    step2: |-
+      克雷斯卡斯对哲学史较重要的贡献之一，是他对亚里士多德科学的批判。[^note-19] 批判见于《上主之光》第一篇第二部分。他关于自然科学的观点，受十四世纪新的基督教物理学影响，尤其受奥卡姆（Ockham）、布里丹（Buridan）与奥雷姆（Oresme）诸家的影响（Pines 1967）[^pines-1967]。其科学的另一来源，似乎是阿布内尔的佚书《新哲学》。但无论此处抑或别处，克雷斯卡斯都把不同来源编织起来，为构建统一观点而自由取用。这一原创思想影响了西方哲学：经翻译进入皮科·德拉·米兰多拉的《异教徒学说之虚荣的检验》（*Examen Vanitas Doctrinae Gentium*），后来又进入斯宾诺莎。他最负盛名的观点包括：虚空的存在、世界之无限的存在、无运动之时间的存在。
+  - id: 36
+    kind: body
+    source: |-
+      Now we will look at a few examples of the new physics of Crescas in more detail.
+    step1: |-
+      现在我们将更详细地考察克雷斯卡斯新物理学的几个例子。
+    step2: |-
+      下面更详细地考察克雷斯卡斯新物理学的几个例子。
+  - id: 37
+    kind: body
+    source: |-
+      ### 4.1 The definition of infinite
+    step1: |-
+      ### 4.1 无限的定义
+    step2: |-
+      ### 4.1 无限的定义
+  - id: 38
+    kind: body
+    source: |-
+      In Aristotle’s opinion, the infinite does not exist in practice but only in potential (like the infinite potential division of a fixed distance and the infinite number of people living throughout history in an eternal world). Regarding the question of mathematics, Aristotle denied the possibility of a distinction between different kinds of infinite (some bigger than others) and of the possibility of adjoining something to an infinite number. On the basis of this definition (and other physics theories) the Greek philosopher denied the existence of an infinite body in practice, and hence he denied infinite voids and expansions as well.
+    step1: |-
+      按亚里士多德的看法，无限在现实中不存在，只存在于潜能中（如对一段固定距离的无限潜在分割，以及在永恒世界中活过历史的无限人数）。关于数学问题，亚里士多德否认区分不同种类无限的可能性（一些比另一些大），也否认向一个无限数上再加东西的可能性。基于这一定义（以及其它物理学理论），这位希腊哲人否认现实中无限物体的存在，因而也否认无限虚空与无限广延。
+    step2: |-
+      按亚里士多德之见，无限在现实中不存在，只在潜能中存在（如对一段定长的无限潜在分割，以及永恒世界中活过历史的无限人数）。在数学问题上，亚里士多德否认区分不同种类无限的可能性（有的比另一些大），也否认向无限数上再添一物的可能。基于这一定义（及其它物理学理论），这位希腊哲人否认现实中无限物体之存在，因而也否认无限虚空与无限广延。
+  - id: 39
+    kind: body
+    source: |-
+      Crescas holds three original opinions regarding the infinite:[^note-20]
+    step1: |-
+      克雷斯卡斯关于无限持有三个原创观点：[^note-20]
+    step2: |-
+      克雷斯卡斯关于无限持三个原创观点：[^note-20]
+  - id: 40
+    kind: body
+    source: |-
+      1. The possibility of adding something to the infinite
+      2. The possibility of including an infinite within another infinite
+      3. Mathematical applications derived from the difference between an infinite in potential and an infinite in practice.
+    step1: |-
+      1. 向无限加某物的可能性
+      2. 把一个无限包含于另一个无限之中的可能性
+      3. 由潜能无限与现实中无限之区别导出的数学应用
+    step2: |-
+      1. 向无限再加某物的可能性；
+      2. 把一个无限包含于另一个无限之中的可能性；
+      3. 由潜能无限与现实无限之别导出的数学应用。
+  - id: 41
+    kind: body
+    source: |-
+      In the philosophy of Crescas, two infinites are not automatically the same. There are differences between various infinite things. We know two very different categories of infinite: the infinite that is limitless without qualification, and the infinite that is limitless in one entire dimension but limited in other dimensions. For example, we can imagine a line that is infinite in both directions (the first category of infinite) and a line that is infinite in only one direction, i.e. a ray (the second category of infinite). The differences between the two categories are of course more apparent (and more complex) in the case of spatial planes and volumes. Crescas accepts the existence of the second category and draws the conclusion that in such cases we can add something to an infinite. If we have two distinct infinite rays starting at the same point, and I add some dimension (A) to the finite end of one of them, the consequence of this act is that I have now two infinite rays that are different in their dimensions, for one is smaller (only infinite) and one bigger (infinite + A). The same is true regarding the question of an infinite that can include another infinite. If, for example, we posit two infinitely long rectangles before us, with one being 10-meters high and the other being 1-meter high, then in Crescas’s opinion the first one is ten times bigger than the second despite the fact that both squares are infinite in area.
+    step1: |-
+      在克雷斯卡斯的哲学中，两个无限并不必然相同。各种无限之物之间存在差异。我们知晓两类截然不同的无限：全然无界的无限，以及在一个完整维度上无界而在其它维度上有界的无限。例如，我们可以想象一条在两个方向上皆无限的直线（第一类无限），以及一条仅在一个方向上无限的直线，即射线（第二类无限）。这两类的差异，在空间平面与立体的情形中当然更为明显（也更为复杂）。克雷斯卡斯接受第二类无限的存在，并由此得出结论：在此类情形下，我们可以向无限加某物。设想两条从同一点出发的不同无限射线，若我在其中一条的有限端加上某个维度（A），其结果是我现在拥有两条维度不同的无限射线：一条较小（仅是无限），一条较大（无限+A）。关于一个无限可含另一个无限的问题亦然。例如，设想我们面前有两个无限长的矩形，一个高 10 米，一个高 1 米；按克雷斯卡斯的观点，前者比后者大十倍，尽管两个矩形面积皆无限。
+    step2: |-
+      在克雷斯卡斯的哲学中，两个无限并不必然相同——各种无限之物之间存在差异。无限有两类截然不同的范畴：一是全然无界的无限，一是在一个完整维度上无界、在其余维度上有界的无限。例如，可以想象一条两向皆无限的直线（第一类），以及一条仅一向无限的直线，即射线（第二类）。两类的差异，在空间平面与立体的情形中当然更显（也更复杂）。克雷斯卡斯接受第二类无限的存在，并由此得出结论：在此类情形中，可向无限再加某物。设想两条自同一点出发的不同无限射线，若在其中一条的有限端加一维度（A），结果便是两条维度不同的无限射线：一条较小（仅是无限），一条较大（无限＋A）。关于一个无限可含另一个无限的问题亦然。例如，设想面前两个无限长的矩形，一高 10 米，一高 1 米：按克雷斯卡斯之见，前者比后者大十倍，尽管两者面积皆无限。
+  - id: 42
+    kind: body
+    source: |-
+      Another original definition of infinite in the thought of Crescas is his utilization of the difference between the infinite in practice and the infinite in potential. One of Aristotle’s methods of affirming the non-existence of the infinite was to claim that the existence of an infinite dimension forbids some of the laws of geometry. Crescas refutes this kind of argument by the differentiation between the infinite in practice versus the infinite in potential. The argument goes thus: Even if I have an infinite dimension, all the real points in this dimension are a finite distance from one another. All of Aristotle’s arguments are based on the distance between different points, and this response cancels these arguments. We have to note that Crescas’s explanation is only a development of Aristotle’s response to Zeno’s paradox of the distance between two points.
+    step1: |-
+      克雷斯卡斯思想中另一个关于无限的原创定义，是他对现实中无限与潜能无限之区别的运用。亚里士多德否认无限存在的方法之一，是主张无限维度的存在会使几何学的某些定律失效。克雷斯卡斯通过区分现实中的无限与潜能中的无限来驳斥这类论证。论证如下：即使我有一个无限维度，这个维度中所有实际的点彼此之间的距离都是有限的。亚里士多德的全部论证都基于不同点之间的距离，而这一回应取消了这些论证。必须指出，克雷斯卡斯的解释只是亚里士多德对芝诺关于两点之间距离之悖论的回应的发展。
+    step2: |-
+      克雷斯卡斯思想中另一个关于无限的原创定义，是他对现实无限与潜能无限之别的运用。亚里士多德否认无限存在的方法之一，是主张无限维度的存在会使几何学的某些定律失效。克雷斯卡斯以现实无限与潜能无限之别驳斥这类论证，其论证如下：即使我有一个无限维度，此维度中所有实际的点彼此距离仍是有限的。亚里士多德的全部论证都基于不同点之间的距离，这一回应便将其尽数取消。须指出：克雷斯卡斯的解释，只是对亚里士多德回应芝诺两点距离悖论的发展。
+  - id: 43
+    kind: body
+    source: |-
+      This treatment of the infinite by Crescas and the (metaphoric) opinion that God is the place of the world, a point Crescas considered as one of God’s attributes, helped Spinoza build his original view that extension is also an attribute of God.[^note-21]
+    step1: |-
+      克雷斯卡斯对无限的这种处理，以及上帝是世界之所在这一（隐喻性的）观点——克雷斯卡斯视之为上帝的一种属性——帮助斯宾诺莎建构了他那广延也是上帝之属性的原创建构。[^note-21]
+    step2: |-
+      克雷斯卡斯对无限的这种处理，以及上帝是“世界之所在”这一（隐喻性的）观点——克雷斯卡斯视之为上帝的一种属性——帮助斯宾诺莎建构其原创观点：广延也是上帝的属性。[^note-21]
+  - id: 44
+    kind: body
+    source: |-
+      ### 4.2 The definition of matter
+    step1: |-
+      ### 4.2 物质的定义
+    step2: |-
+      ### 4.2 物质的定义
+  - id: 45
+    kind: body
+    source: |-
+      In Aristotle’s opinion, all actual matter exists with certain properties like dimension, quality (cold, warm, humid and dry) and weight. Crescas distinguishes between the different properties. In his opinion there are three different levels of material existence.[^note-22] Matter in and of itself has no properties. The body is the unification of matter and dimensionality (i.e. matter in corporeal form). It is possible that a pure body without any other quality has actual existence. The third level of material existence is the unification of the corporeal form (matter) with some other unique form. This latter unification affords matter the additional properties of weight and quality.
+    step1: |-
+      按亚里士多德的看法，一切现实物质都带有某些属性，如维度、质（冷、热、湿、干）与重量。克雷斯卡斯把这些不同的属性区分开来。在他看来，物质存在有三个不同的层次。[^note-22] 物质自身没有任何属性。物体是物质与维度性的统一（即以有形形式存在的物质）。一个不带任何其它性质的纯粹物体可能拥有现实存在。物质存在的第三个层次是有形形式（物质）与某种其它独特形式的统一。后一种统一赋予物质重量与质这两个附加属性。
+    step2: |-
+      按亚里士多德之见，一切现实物质都带有某些属性：维度、质（冷、热、湿、干）与重量。克雷斯卡斯将这些属性区分开来。在他看来，物质存在有三个层次。[^note-22] 物质自身没有任何属性；物体是物质与维度性的统一（即以有形形式存在的物质）；一个不带任何其它性质的纯粹物体，可以拥有现实存在；物质存在的第三个层次，是有形形式（物质）与某种独特形式的统一——后者赋予物质重量与质两项附加属性。
+  - id: 46
+    kind: body
+    source: |-
+      One example of the way that Crescas uses this new definition is to refute the proofs of Aristotle against the existence of infinity. In Aristotle’s opinion, two bodies cannot share the same space because of the property of dimension. The Greek philosopher concludes from this observation the impossibility of the existence of a void. The definition of a void is dimensional space without matter inside. Now if matter can fill a void, and matter itself has dimensions, then it follows that the dimensions of the matter can go inside the dimensions of the void. Aristotle concludes that this cannot be, for if dimensions can be shared, then we have to assume that two physical bodies could be in the same place at the same time — an absurdity that would lead to other apparent absurdities, such as the entire world fitting inside a grain of mustard.
+    step1: |-
+      克雷斯卡斯运用这一新定义的一个例子，是驳斥亚里士多德反对无限存在诸证明。按亚里士多德的看法，两个物体不能共享同一空间，因为维度是一种属性。这位希腊哲人由这一观察得出虚空不可能存在的结论。虚空的定义是其中无物的维度性空间。现在，如果物质可以填入虚空，而物质自身又有维度，那么物质的维度就能进入虚空的维度。亚里士多德断定这不可能，因为如果维度可以共享，我们就必须假定两个物理物体可以同时同地存在——一个荒谬，它还会引出其它显然的荒谬，比如整个世界装进一粒芥子。
+    step2: |-
+      克雷斯卡斯运用这一新定义的一个例子，是驳斥亚里士多德反对无限存在的诸证明。按亚里士多德之见，两个物体不能共享同一空间，因为维度是物体的属性。这位希腊哲人由此得出虚空不可能存在的结论——虚空的定义是其中无物的维度性空间。那么，若物质可填入虚空，而物质自身又有维度，则物质的维度便可进入虚空的维度。亚里士多德断定这不可能：若维度可以共享，就必须假定两个物理物体可同时同地存在——一谬既出，余谬随之，比如整个世界装进一粒芥子。
+  - id: 47
+    kind: body
+    source: |-
+      Crescas refutes these proofs with his new definition of the different levels of material existence. In his opinion, only the common existence of matter and dimension cause the impermeability of the body. A body (matter and dimension) can go inside a void (only dimension), but not inside another body. In this argument we see Crescas utilize the work of the Jewish apostate Abner. Abner explained the birth of Jesus (and transubstantiation) by the argument that Jesus is body without dimension and can go inside other bodies. Abner separated the different properties of a body from the body itself for both a philosophical goal (to prove that infinity exists) and a theological goal (to strengthen certain Christian dogmas). Crescas refutes this possibility by explaining the difference between a body that has both matter and dimension and therefore cannot go inside another such body and pure matter. Crescas distinguishes all properties only from matter and not from bodies. In this way, Crescas can utilize Abner’s critiques of Aristotelian science without accepting the theological implications. (See Sadik 2008 for Abner’s opinions.)[^sadik-2008]
+    step1: |-
+      克雷斯卡斯以他关于物质存在不同层次的新定义驳斥这些证明。在他看来，只有物质与维度的共同存在才造成物体的不可透入性。一个物体（物质与维度）可以进入一个虚空（仅有维度），但不能进入另一个物体。在这一论证中，我们看到克雷斯卡斯利用犹太叛教者阿布内尔的著作。阿布内尔以如下论证解释耶稣的诞生（以及变体论）：耶稣是没有维度的物体，可以进入其它物体。阿布内尔把物体的诸属性从物体本身分离出来，既有哲学目的（证明无限存在），也有神学目的（强化某些基督教教义）。克雷斯卡斯通过解释兼有物质与维度的物体不能进入另一此类物体与纯粹物质之间的区别，驳斥了这种可能性。克雷斯卡斯把一切属性仅仅同物质相区分，而不同物体相区分。这样，克雷斯卡斯就能利用阿布内尔对亚里士多德科学的批判，而不接受其神学意涵。（阿布内尔的观点见 Sadik 2008。）[^sadik-2008]
+    step2: |-
+      克雷斯卡斯以其关于物质存在层次的新定义驳斥这些证明。在他看来，唯有物质与维度的共同存在才造成物体的不可透入：物体（物质＋维度）可进入虚空（仅有维度），却不能进入另一个物体。在这一论证中，可见克雷斯卡斯对犹太叛教者阿布内尔著作的取用：阿布内尔以此解释耶稣的诞生（以及变体论）——耶稣是没有维度的物体，故可进入其它物体。阿布内尔把物体的诸属性从物体本身剥离，既有哲学目的（证明无限存在），也有神学目的（强化某些基督教教义）。克雷斯卡斯通过区分兼有物质与维度的物体（不能进入另一此类物体）与纯粹物质，驳斥了这种可能。他把一切属性仅仅同物质相区分，而不同物体相区分。如此，克雷斯卡斯便可利用阿布内尔对亚里士多德科学的批判，而不接受其神学意涵。（阿布内尔的观点见 Sadik 2008。）[^sadik-2008]
+  - id: 48
+    kind: body
+    source: |-
+      ### 4.3 The definition of place
+    step1: |-
+      ### 4.3 位置的定义
+    step2: |-
+      ### 4.3 位置的定义
+  - id: 49
+    kind: body
+    source: |-
+      In the thought of Aristotle the definition of place is ‘the limit of the encompassing body’. In his opinion, place has an important role in movement. The definition of a natural movement is the movement of a body to its natural place in the world. Aristotle explains that the natural place attracts the body, while the body moves naturally to its natural place.
+    step1: |-
+      在亚里士多德的思想中，位置的定义是“包围体的界限”。在他看来，位置在运动中有重要作用。自然运动的定义是物体向其在世界中自然位置的运动。亚里士多德解释说，自然位置吸引物体，而物体自然地运动向其自然位置。
+    step2: |-
+      在亚里士多德思想中，位置的定义是“包围体的界限”。在他看来，位置在运动中有重要作用：自然运动的定义，便是物体向其在世界中的自然位置的运动。亚里士多德解释说，自然位置吸引物体，物体则自然地运动向其自然位置。
+  - id: 50
+    kind: body
+    source: |-
+      Crescas opposes this definition. In his opinion, place is the part of dimension that a body occupies within the infinite expanse of the universe; dimension without matter is only place in potential.[^note-23] Crescas also denies the influence of natural place on movement. In his opinion, the movement of fire is caused by the diverse weights of the different bodies that are aflame, and not by the existence of a natural place.
+    step1: |-
+      克雷斯卡斯反对这一定义。在他看来，位置是物体在宇宙无限广延中所占据的维度部分；无物质的维度只是潜能中的位置。[^note-23] 克雷斯卡斯还否认自然位置对运动的影响。在他看来，火的运动由燃烧着的诸物体各自不同的重量造成，而非自然位置的存在。
+    step2: |-
+      克雷斯卡斯反对这一定义。在他看来，位置是物体在宇宙无限广延中所占据的维度部分；无物质的维度只是潜能中的位置。[^note-23] 他还否认自然位置对运动的影响：火的运动由燃烧诸物体各自不同的重量造成，而非自然位置的存在。
+  - id: 51
+    kind: body
+    source: |-
+      It is important to note too that in the thought of Crescas, the universe does not have any corporeal place. The universe is an infinite void containing an infinite number of worlds separated from one another by part of the void.
+    step1: |-
+      同样重要的是，在克雷斯卡斯的思想中，宇宙没有任何有形的位置。宇宙是一个无限的虚空，其中包含无限多的世界，它们彼此之间由虚空的一部分隔开。
+    step2: |-
+      还须注意：在克雷斯卡斯的思想中，宇宙没有任何有形的位置。宇宙是一个无限虚空，其中含有无限多的世界，彼此由虚空的一部分隔开。
+  - id: 52
+    kind: body
+    source: |-
+      ## 5. The question of choice and free will
+    step1: |-
+      ## 5. 选择与自由意志问题
+    step2: |-
+      ## 5. 选择与自由意志问题
+  - id: 53
+    kind: body
+    source: |-
+      Crescas devotes the sixth part of the second essay to the question of free will.[^note-24] Crescas begins this sixth part by explaining why the lack of choice can be so problematic for pious Jews: The Torah is based on the commandments of God to man, yet these commandments do not seem to make any sense if humans do not have control over their actions. After all, why should God tell humans what to do if He knows that they have to break the law? It would seem that a robust freedom of choice is essential to maintaining the significance of God’s commandments. Nevertheless, the pious Crescas does not accept this reasoning. To refute the above supposition while maintaining the relevance of the commandments, Crescas uses the first four chapters of Part Six to develop an uncompromising determinism that lives in harmony with human choice and a system of reward and punishment that are restricted to the realm of personal feelings and self-judgment. Ironically, in developing his theory of choice, Crescas quotes frequently from Abner’s book *Ofrenda de Zelos* (without citing him by name).
+    step1: |-
+      克雷斯卡斯把第二篇第六部分用来讨论自由意志问题。[^note-24] 他以解释缺乏选择何以对虔诚的犹太人如此成问题，来开始第六部分：《托拉》以上帝对人的诫命为基础，但若人不能控制自己的行为，这些诫命似乎就毫无意义。毕竟，如果上帝知道人必会违法，何必还告诉人该做什么？看来，一种强健的选择自由，对于维护上帝诫命的意义至关重要。然而，虔诚的克雷斯卡斯并不接受这一推理。为了在维护诫命相关性的同时驳斥上述假定，克雷斯卡斯用第六部分前四章发展出一种不折不扣的决定论，它与人的选择协调一致；同时又发展出一套赏罚体系，其范围仅限于个人感受与自我判断之内。具有讽刺意味的是，在阐发其选择理论时，克雷斯卡斯频繁引用阿布内尔的著作《热忱的奉献》（*Ofrenda de Zelos*），却不提其名。
+    step2: |-
+      克雷斯卡斯把第二篇第六部分用来讨论自由意志。[^note-24] 他先解释：缺乏选择何以便对虔诚的犹太人如此棘手——《托拉》以上帝对人的诫命为据，而人若不能控制自身行为，这些诫命似乎就毫无意义。毕竟，上帝既知人必违法，何必再吩咐人当行何事？看来，强健的选择自由对维护神诫之意义不可或缺。然而虔诚的克雷斯卡斯并不接受这一推理。为在维护诫命相关性的同时驳倒上述假定，他用第六部分前四章发展出一种不折不扣的决定论：它与人的选择并行不悖，而赏罚体系则被限定在个人感受与自我判断的范围之内。讽刺的是，阐发其选择理论时，克雷斯卡斯频繁引用阿布内尔的著作《热忱的奉献》（*Ofrenda de Zelos*），却不称其名。
+  - id: 54
+    kind: body
+    source: |-
+      It is worth examining how Crescas develops his position in more detail. After introducing the issue of free choice vis a vis the Torah, Crescas in the first two chapters describes the different arguments (both rational and theological) for and against freedom of choice. Crescas then reaches the conclusion that the decision making process is fundamentally deterministic, though people voluntarily choose the attitudes and feelings behind their own actions. For example, if we isolate a person hesitating between two options from the causes that influence him, such as his education and the influence of society, then we might think that this person truly chooses to do either of the two options. But upon closer analysis, if we take in to account all of the causes that influence his will, we reach the conclusion that these causes determine his will to choose only one of the two options. In Crescas’s opinion, humans are like bronze. A piece of bronze can be made into a lot of different things: a ball, a sword, etc. However, someone (i.e. an external cause) fashions the bronze into one of these options and so determines the present form of the bronze. The same is true of people: they themselves can choose between different possible options, but their relation to external causes determines their choices. We can see how Crescas views strong determinism through the way he likens human functioning to an inanimate object like bronze. It is important to note too that Crescas defines the will of man as an accord between the attractive force and the imagination — two forces that are common to humans and beasts.
+    step1: |-
+      值得更详细地考察克雷斯卡斯如何发展其立场。在引入相对于《托拉》的自由选择问题之后，克雷斯卡斯在前两章描述了支持和反对选择自由的各种论证（既有理性的，也有神学的）。随后他得出结论：决策过程从根本上说是决定论的，尽管人们自愿选择其行为背后的态度与感受。例如，如果我们把一个人从影响他的原因（如教育与社会影响）中孤立出来，让他在两个选项之间犹豫，那么我们可能会以为这个人真的选择了二者之一。但若细加分析，一旦考虑到影响其意志的全部原因，我们就得出结论：这些原因决定了他的意志只能选择二者之一。在克雷斯卡斯看来，人就像青铜。一块青铜可以被造成许多不同的东西：球、剑等等。然而有某人（即一个外在原因）把青铜造成其中之一种，从而决定了青铜当下的形式。人也是如此：他们自己可以在不同的可能选项之间选择，但他们与外在原因的关系决定了他们的选择。从克雷斯卡斯把人的活动比作青铜这类无生命之物，我们可以看出他如何看待强的决定论。同样重要的是，克雷斯卡斯把人性的意志界定为吸引力与想象力之间的一致——这两种力量人与兽共有。
+    step2: |-
+      值得细看克雷斯卡斯如何展开其立场。引入相对于《托拉》的自由选择问题之后，他在前两章历述支持与反对选择自由的各种论证（既有理性的，也有神学的），随后得出结论：决策过程从根本上说是决定论的，尽管人们是自愿地选择其行为背后的态度与感受。例如，若把一个人从影响他的诸原因（教育、社会影响等）中孤立出来，让他在两个选项之间犹豫，我们或许以为他真的择定了其中之一。但细加分析，一旦计入影响其意志的全部原因，便可断定：这些原因决定了其意志只能择其一。在克雷斯卡斯看来，人如青铜：一块青铜可被制成许多不同的东西——球、剑等等；然而有某人（即一个外在原因）把它造成其中之一种，从而决定了青铜当下的形式。人亦然：他们自己可以在不同的可能之间选择，但其与外在原因的关系决定了其选择。克雷斯卡斯把人的活动比作青铜这类无生命之物，由此足见其决定论之强。还须注意，他把人的意志界定为吸引力与想象力之间的一致——这两种力量人与兽共有。
+  - id: 55
+    kind: body
+    source: |-
+      Continuing into the middle chapters of Part Six, Crescas similarly explains the notion of possibility and accident. Things are only possible in their relation to themselves.
+    step1: |-
+      在第六部分中间几章，克雷斯卡斯同样解释了可能性与偶然的概念。事物只在与自身的关系中才是可能的。
+    step2: |-
+      第六部分中间数章，克雷斯卡斯同样解释了可能性与偶然：事物只在与自身的关系中才是可能的。
+  - id: 56
+    kind: body
+    source: |-
+      This deterministic description of the world (based on rational arguments) resolves the theological problem of the contradiction between the free will of man and the foreknowledge of God. In Crescas’s opinion, free will, in the sense of an originative cause that is itself uncaused, to decide and act does not really exist. God is the first cause and knows all the laws of the world. Therefore, He knows the entirety of that which He has determined.
+    step1: |-
+      这一对世界的决定论描述（基于理性论证）解决了人的自由意志与上帝预知之间矛盾这一神学问题。在克雷斯卡斯看来，自由意志——作为一种自身不被造成的、进行决定与行动的原创因——并不真正存在。上帝是第一因，知晓世界的一切规律。因此，祂知晓祂所决定的一切之整体。
+    step2: |-
+      这一基于理性论证的决定论描述，解决了人的自由意志与上帝预知相矛盾这一神学难题。在克雷斯卡斯看来，自由意志——作为一种自身不被造成、却能决定并行动的原创因——并不真正存在。上帝是第一因，知晓世界的一切规律；因此，祂知晓自己所决定的一切之整体。
+  - id: 57
+    kind: body
+    source: |-
+      But this deterministic description leads to two theological problems:
+    step1: |-
+      但这一决定论描述导致两个神学问题：
+    step2: |-
+      然而这一决定论描述引出两个神学难题：
+  - id: 58
+    kind: body
+    source: |-
+      1. why God sent commandments to people that do not really have the choice to observe or violate them
+      2. how people can receive reward and punishment for actions that they cannot control
+    step1: |-
+      1. 上帝为何向那些其实没有选择遵守或违反的人发出诫命
+      2. 人如何能为自己无法控制的行为获得赏罚
+    step2: |-
+      1. 上帝何以向那些其实无从选择遵守或违反的人发出诫命？
+      2. 人如何能为自己无法控制的行为受赏受罚？
+  - id: 59
+    kind: body
+    source: |-
+      Crescas solves the second problem by saying that the forbidden things are naturally bad. The punishment of the sinner is not a special act of divine providence to punish him, but rather the natural consequence of the sinner’s bad actions. At this point we can solve the first problem: according to Crescas, the goal of the Torah is to influence people to do right. The only way to influence someone to do something is to give him enough causes to do it. The Torah is only another cause that tries to influence humans to do good. It is also the reason why God punishes only the actions that are under the control of one’s choice and the will of humans. The aim of the retribution is to guide people towards doing what is right. According to this, aiming to punish other actions that are not under the control of humans will be inappropriate.
+    step1: |-
+      克雷斯卡斯解决第二个问题的方式是说：被禁止的事物本身就是坏的。罪人的惩罚并非上帝护佑中为惩罚他而施行的特殊行为，而是罪人恶行的自然后果。至此我们可以解决第一个问题：按克雷斯卡斯之说，《托拉》的目的是影响人去行正。影响某人去做某事的唯一办法，是给他足够的原因去做。 《托拉》不过是试图影响人行善的另一个原因。这也是上帝为何只惩罚那些处于个人选择与人的意志控制之下的行为。报应的目的在于引导人去做正当之事。据此，以惩罚不在人类控制之下的其它行为为目标，就是不恰当的。
+    step2: |-
+      克雷斯卡斯解决第二个难题的方式是说：被禁止之事本身就是恶的。罪人受罚并非上帝护佑中为惩罚他而施行的特殊作为，而是其恶行的自然后果。至此第一个难题亦可解：按克雷斯卡斯之说，《托拉》的目的是影响人去行正；而影响某人去做某事的唯一办法，是给他足够的原因去做。《托拉》不过是试图影响人行善的另一项原因。这也说明上帝为何只惩罚处于个人选择与意志控制之下的行为——报应之意，在于引导人去做正当之事；据此，以惩罚不在人类控制之下的其它行为为目标，便不恰当。
+  - id: 60
+    kind: body
+    source: |-
+      Regarding the two latter chapters of Part Six, my opinion differs from that of most scholars. In these chapters Crescas tries to answer the question of whether there is a difference between people that sin happily and those who are forced to sin and feel sad about doing their evil actions. Crescas also addresses the question of the obligation of various beliefs. These chapters are not based on the determinist book of Abner, and Ravitzky thinks that they are anterior to the other chapters and exist almost verbatim in the Passover sermon.[^note-25]
+    step1: |-
+      关于第六部分最后两章，我的看法与大多数学者不同。在这两章中，克雷斯卡斯试图回答这样一个问题：欢欢喜喜地犯罪的人，与被强迫犯罪、并为自己的恶行感到悲伤的人，之间是否有区别。克雷斯卡斯还论及各种信念之义务的问题。这两章并不基于阿布内尔的决定论著作；拉维茨基认为它们先于其它各章，且几乎逐字见于逾越节布道中。[^note-25]
+    step2: |-
+      关于第六部分最后两章，我的看法与大多数学者不同。在这两章中，克雷斯卡斯试图回答：欢欢喜喜犯罪的人，与被逼犯罪、并为自己的恶行感到悲伤的人，之间是否有别？他还论及各种信念之义务。这两章并不以阿布内尔的决定论著作为据；拉维茨基认为它们先于其它各章，且几乎逐字见于逾越节布道之中。[^note-25]
+  - id: 61
+    kind: body
+    source: |-
+      Some scholars understand these chapters as a departure from the deterministic opinion of Crescas.[^note-26] According to their interpretation, Crescas describes the true conscience of man, wherein the inner self can observe the actions of the deterministic external person and either be happy or unhappy with his or her actions. If the external person does something bad and the inner self is unhappy, it is not truly a sin because the true person does not want to sin. Instead, a deterministic process has coerced the external person into performing the act of sin against his conscience and his true will. According to this interpretation, the inner will of humans is under their control, but the regular will that decides their actions is the conclusion of a deterministic psychological process. Such is the usual interpretation, and in and of itself this interpretation is accurate. However other scholars understand these chapters as Crescas is that Crescas is not concerned here with finding a morsel of free choice in a highly deterministic world, but is rather addressing a very different problem: He only wants to answer the question of external obligation and the parallel issue of culpability. Back in the fifth chapter, Crescas had described punishment as a natural consequence of sin. After this rational assertion, it would seem that there is no logical difference between a voluntary and involuntary sin in terms of punishment.[^note-27] However, such a lack of moral distinction is unacceptable to Crescas. Therefore, in these chapters he wants to tell us, indeed reassure us, that an externally forced man doesn’t have any punishment for his sin (it is for certain that he is speaking to and about the Jews that were forcibly converted in 1391). According to these scholars in these chapters Crescas is not speaking about how man is ultimately distinct and free of determinist processes of the soul, but rather about how man through this determinist process wants to do good, yet due to some cause, external to the determinist psychologist processes, is forced to sin, and hence is not culpable — if indeed there was such a negative external cause that led to his sinning. Crescas thinks that the retribution of humans is a function of the interior psychological process of choice. If this process exists the man can be reattributed for his act. However if this process does not exist there is no retribution. The fact that choice and will are entirely deterministic in the view of Crescas has nothing to do with retribution. According to this opinion Crescas thinks that the use of will and choice are the criteria for retribution but are not free at all.
+    step1: |-
+      一些学者把这两章理解为对克雷斯卡斯决定论观点的偏离。[^note-26] 按他们的解释，克雷斯卡斯描述了人的真正良知：内在的自我可以观察决定论式的外在人格的行为，并对其行为感到满意或不满意。如果外在的人做了坏事而内在自我不满意，那就不算真正的罪，因为真正的人并不想犯罪。相反，一个决定论的过程迫使外在的人违背其良知与真实意志而施行罪行。按这一解释，人的内在意志在其控制之下，但决定其行动的常规意志是决定论式心理过程的结论。这是通常的解释，而这一解释本身是准确的。但其他学者把这两章理解为：克雷斯卡斯在此关心的并非在一个高度决定论的世界中寻找一小块自由选择，而是处理一个非常不同的问题：他只想回答外在义务的问题以及与之平行的罪责问题。在第五章中，克雷斯卡斯曾把惩罚描述为罪的自然后果。在这一理性主张之后，看来在惩罚方面，自愿之罪与非自愿之罪之间没有逻辑差异。[^note-27] 然而，这种道德区分的缺失对克雷斯卡斯来说是不可接受的。因此，在这两章中，他想告诉我们、确切地说是向我们保证：一个被外力强制的人不会因其罪而受任何惩罚（可以肯定，他是在对 1391 年被强制改宗的犹太人说话，并且说的是他们）。按这些学者的看法，在这两章中，克雷斯卡斯不是在说人如何最终区别于灵魂的决定论过程而获得自由，而是在说：人如何通过这一决定论过程想要行善，却由于某个外在于决定论心理过程的原因而被迫犯罪，因而不负有罪责——如果真的存在这样一个导致他犯罪的负面外在原因的话。克雷斯卡斯认为，人的报应取决于内在的心理选择过程。若这一过程存在，人就要为其行为被归责；若这一过程不存在，就没有报应。在克雷斯卡斯看来，选择与意志完全是决定论的，这一事实与报应无关。按这一观点，克雷斯卡斯认为意志与选择之运用是报应的判准，但它们根本不是自由的。
+    step2: |-
+      一些学者把这两章视为对克雷斯卡斯决定论立场的偏离。[^note-26] 依其解释，克雷斯卡斯在此描述人的真正良知：内在自我可以旁观决定论式的外在人格之所为，并对其行为或喜或忧。若外在之人作恶而内在自我不悦，那就并非真正的罪，因为真正的人并不愿犯罪；是决定论的过程迫使外在之人违背良知与真实意志而行此罪。按这一解释，人的内在意志在其掌控之中，而决定其行动的常规意志则是决定论式心理过程的结论。这是通常的解释，本身也准确。但另一些学者把这两章读作：克雷斯卡斯在此并不关心如何在高度决定论的世界中寻觅一寸自由选择，而是处理另一个迥异的问题——他只想回答外在义务的问题，以及与之平行的罪责问题。第五章中，克雷斯卡斯曾把惩罚说成罪的自然后果；这一理性主张既立，则在惩罚方面，自愿之罪与非自愿之罪似乎并无逻辑差异。[^note-27] 然而这种道德区分的阙如，克雷斯卡斯不能接受。故在这两章中，他要告诉我们——确切说是向我们保证：被外力强制的人，不因其罪受任何惩罚（可以肯定，他所对所言，正是 1391 年被强制改宗的犹太人）。按这些学者之见，克雷斯卡斯在此并非申说人如何终能区别于灵魂的决定论过程而得自由，而是申说：人如何经此决定论过程而愿行善，却因某个外在于该过程的原因而被迫犯罪，因而不负罪责——倘若真有这样一个导致其犯罪的负面外在原因。克雷斯卡斯认为，人的报应取决于内在的心理选择过程：此过程存在，人便须为其行为被归责；此过程不存在，即无报应。在他看来，选择与意志全然是决定论的，而这一事实与报应无关。按此说，克雷斯卡斯以意志与选择之运用为报应判准，却并不认为它们自由。
+  - id: 62
+    kind: body
+    source: |-
+      It is probable that the major sources of Crescas‘s determinism are the writings of Muslim thinkers whom he interpreted according to the understanding of the apostate Abner of Burgos. This deterministic understanding of the world no doubt ultimately influenced Spinoza’s opinion.
+    step1: |-
+      克雷斯卡斯决定论的主要来源，很可能是穆斯林思想家的著作，他按叛教者布尔戈斯的阿布内尔的理解来解释这些著作。这种对世界的决定论式理解，无疑最终影响了斯宾诺莎的观点。
+    step2: |-
+      克雷斯卡斯决定论的主要来源，很可能是穆斯林思想家的著作，而他按叛教者布尔戈斯的阿布内尔的理解来解释这些著作。这种决定论式的世界理解，无疑最终影响了斯宾诺莎。
+  - id: 63
+    kind: body
+    source: |-
+      Regarding the question of astrology,[^note-28] Crescas holds a very moderate opinion: On one hand, the stars have a general influence on humanity, but on the other hand, it is quite easy to free ourselves from their influences. Human choice and divine providence are both superior to the influence of the stars.
+    step1: |-
+      关于占星术问题，[^note-28] 克雷斯卡斯持非常温和的观点：一方面，星辰对人类有普遍的影响；但另一方面，摆脱其影响相当容易。人的选择与神的护佑都高于星辰的影响。
+    step2: |-
+      关于占星术问题，[^note-28] 克雷斯卡斯持论十分温和：一方面，星辰对人类有普遍影响；另一方面，摆脱其影响颇为容易。人的选择与神的护佑，皆高于星辰的影响。
+  - id: 64
+    kind: body
+    source: |-
+      ## 6. The essence of the soul and life after death
+    step1: |-
+      ## 6. 灵魂的本质与死后的生命
+    step2: |-
+      ## 6. 灵魂的本质与死后的生命
+  - id: 65
+    kind: body
+    source: |-
+      Crescas devotes an important portion of the sixth part of the second essay to the question of the soul’s essence.[^note-29] The general subject of this part is the goal of the Torah, which is for Crescas also the goal of humanity and of the entire world. In this discussion, Crescas speaks of the different goals that the Torah fulfills. The Torah helps people to fulfill their different worldly goals, such as their relation to themselves (health, morality, etc.), to their family, and to their country. In this part of the essay, Crescas’s explanation is close to Maimonides’ rational explanation of the divine commandments. But the Torah also helps humans to get a spiritual reward in the hereafter. On the subject of the essence of the soul along with reward and punishment after death, Crescas builds a philosophical critique of the Maimonidean-Aristotelian opinion and proposes instead a more traditional view.
+    step1: |-
+      克雷斯卡斯把第二篇第六部分的重要篇幅用于讨论灵魂本质的问题。[^note-29] 这一部分的总体主题是《托拉》的目的，而在克雷斯卡斯看来，这也是人类与整个世界的目的。在这一讨论中，克雷斯卡斯谈到《托拉》所实现的各种目的。《托拉》帮助人实现其不同的世俗目的，如与自身的关系（健康、道德等）、与家庭的关系、与国家的关系。在本文这一部分，克雷斯卡斯的解释接近迈蒙尼德对神诫的理性解释。但《托拉》也帮助人在来世获得精神奖赏。关于灵魂本质以及死后赏罚的问题，克雷斯卡斯对迈蒙尼德—亚里士多德式观点提出哲学批判，转而提出一种更传统的看法。
+    step2: |-
+      克雷斯卡斯把第二篇第六部分的重要篇幅用于讨论灵魂的本质。[^note-29] 该部分的总体主题是《托拉》的目的，而在克雷斯卡斯看来，这也正是人类与整个世界的目的。讨论中，他历数《托拉》所实现的种种目的：《托拉》帮助人实现各类世俗目的，如对自身（健康、道德等）、对家庭、对国家的关系。这部分中，克雷斯卡斯的解释接近迈蒙尼德对神诫的理性解释。但《托拉》也帮助人在来世获得精神奖赏。论及灵魂本质与死后赏罚，克雷斯卡斯对迈蒙尼德—亚里士多德式观点提出哲学批判，转而提出一种更为传统的看法。
+  - id: 66
+    kind: body
+    source: |-
+      Regarding the topic of soul’s essence, Crescas holds a platonic opinion: The soul naturally continues its life after its separation from the body. The reason for this immortality of the soul is that the soul is a spiritual substance with a potential for knowledge. As a spiritual substance, the soul has no opponent between its different parts and any causes of loss. In his proofs that this definition of the soul is right, Crescas critiques the different opinions of Aristotelianism. The main stream of the medieval Arab Aristotelian opinion on this topic (apart from Ibn Sina) is that only human knowledge can survive the death of the body. But there are very different opinions in the Aristotelian school about this subject. An example of this divergence is the opinion of Gersonides, who understands that the knowledge of immaterial law accords the possibility of life after death for the individual. In spite of this, Averroes (as Crescas understand his view) claims that no individual immortal existence is possible after death (all the knowledge of all people returns to its source in the active intellect). In his critique of the Aristotelian opinions, Crescas uses the different arguments[^note-30] that diverse Aristotelians attack each other with to ultimately refute all Aristotelian opinions.
+    step1: |-
+      关于灵魂本质这一主题，克雷斯卡斯持柏拉图式观点：灵魂与身体分离之后自然地继续其生命。灵魂之所以不死，是因为灵魂是一种具有知识潜能的精神实体。作为精神实体，灵魂的各部分之间没有对立者，也没有任何致其丧失的原因。在证明这一定义正确时，克雷斯卡斯批判了亚里士多德主义的各种观点。中世纪阿拉伯亚里士多德派在这一主题上的主流观点（伊本·西那除外）是：只有人的知识能在身体死后留存。但亚里士多德学派内部在这一主题上观点极为分歧。格森尼德斯的观点即是这种分歧之一例：他认为对非物质律法的知识赋予个体死后生命的可能。尽管如此，阿威罗伊（按克雷斯卡斯的理解）主张，死后不可能有个别的不朽存在（所有人的一切知识都回归其源头，即能动理智）。在批判亚里士多德诸观点时，克雷斯卡斯利用不同亚里士多德派互相攻击时所用的各种论证，[^note-30] 最终驳倒一切亚里士多德观点。
+    step2: |-
+      关于灵魂的本质，克雷斯卡斯持柏拉图式观点：灵魂与身体分离之后，自然而然地延续其生命。灵魂之所以不死，是因为它是具有知识潜能的精神实体；作为精神实体，灵魂各部分之间没有对立者，也没有致其消亡的原因。在证明这一定义正确时，克雷斯卡斯批判了亚里士多德主义的种种观点。中世纪阿拉伯亚里士多德派在这一主题上的主流（伊本·西那除外）是：唯人的知识能在身体死后留存。但亚里士多德学派内部观点极为分歧，格森尼德斯即为一例：他认为对非物质律法的知识，赋予个体以死后生命的可能。尽管如此，阿威罗伊（Averroes，按克雷斯卡斯的理解）却主张死后不可能有个别的不朽存在（所有人的一切知识都回归其源头，即能动理智）。批判之际，克雷斯卡斯借用不同亚里士多德派相互攻讦的种种论证，[^note-30] 最终将一切亚里士多德观点尽数驳倒。
+  - id: 67
+    kind: body
+    source: |-
+      Crescas tries to prove that the soul and not the mind holds the potential for knowledge. After this step he argues that the true goal of the soul is not rational knowledge but the love of God. In this argumentation, Crescas criticizes the opinion of Maimonides that love of God is a function of knowledge. According to Crescas, love is related to the will, which itself is the concordance of the appetitive and imaginative parts of the soul and is not related to the mind (itself an Aristotelian doctrine of animal volition, as mentioned above). Moreover, the true essence and the true goal of the soul is not to acquire knowledge but to delight in loving God. This opinion goes together with the view that the principal attribute and motive of God is not intellectual knowledge but love.
+    step1: |-
+      克雷斯卡斯试图证明，具有知识潜能的是灵魂，而不是心智。这一步之后，他论证灵魂的真正目的不是理性知识，而是对上帝的爱。在这一论证中，克雷斯卡斯批判迈蒙尼德的观点：对上帝的爱是知识的一种功能。按克雷斯卡斯之说，爱与意志相关，而意志本身是灵魂中欲求部分与想象部分的一致，与心智无关（这本身是亚里士多德关于动物意欲的学说，如上所述）。此外，灵魂的真正本质与真正目的不是获取知识，而是以爱上帝为乐。这一观点与下述看法一致：上帝的主要属性与动机不是理智知识，而是爱。
+    step2: |-
+      克雷斯卡斯试图证明：具有知识潜能的是灵魂，而非心智。此步之后，他论证灵魂的真正目的不是理性知识，而是对上帝的爱。在此论证中，克雷斯卡斯批判迈蒙尼德之说：对上帝的爱乃知识的一种功能。按他之见，爱与意志相关，而意志本身是灵魂中欲求部分与想象部分的一致，与心智无关（如上所述，这本身是亚里士多德关于动物意欲的学说）。再者，灵魂的真正本质与真正目的，不在于获取知识，而在于以爱上帝为乐。此说与下述看法相合：上帝的主要属性与动机不是理智知识，而是爱。
+  - id: 68
+    kind: body
+    source: |-
+      According to Crescas, the easiest way to express love for God is to fulfill obligations to him and to do what He commands. It is the reason why the Torah and particularly the commandments that are integral to it are the best way to attain spiritual reward after death. The Torah gives the easiest way to achieve our spiritual goals. After the separation of the soul from the body, the soul stands by it and naturally wants to express its true essence (loving God). If the soul loves God in this world, it becomes joyous and can now love him more (because the temptations of the body don’t distract it). This rapture is the reward of the just in the hereafter. But if a person does not fulfill the love of God in this world, the soul becomes despondent at his or her rebellion against God in the corporeal world, an error that it plainly understands after the death of the body. This profound sadness is equivalent to the fire of hell.
+    step1: |-
+      按克雷斯卡斯之说，表达对上帝之爱的最容易的方式，是履行对祂的义务并遵行祂的吩咐。这就是为什么《托拉》、尤其是其中不可或缺的诫命，是死后获得精神奖赏的最佳途径。《托拉》给出了达到我们精神目标最容易的道路。灵魂与身体分离之后，灵魂仍立于其旁，自然地想表达其真正本质（爱上帝）。如果灵魂在这个世界上爱上帝，它就会变得喜乐，并且现在能更多地爱祂（因为身体的诱惑不再分散它的注意）。这种狂喜是义人在来世的奖赏。但如果一个人在这个世界上没有实现对上帝的爱，灵魂就会因其在有形世界中对上帝的反叛而沮丧——这一错误在身体死后它才清楚地理解。这种深切的悲伤，等同于地狱之火。
+    step2: |-
+      按克雷斯卡斯之说，表达对上帝之爱最便捷的方式，是履行对祂的义务、遵行祂的吩咐。正因如此，《托拉》——尤其是其中不可或缺的诫命——才是死后获得精神奖赏的最佳途径：《托拉》给出了达到精神目标最便捷的道路。灵魂与身体分离之后，仍立于其旁，自然地要表达其真正本质（爱上帝）。灵魂若在此世爱上帝，便会变得喜乐，且能更多地爱祂（因为身体的诱惑不再分散其注意）；这种狂喜，正是义人在来世的奖赏。反之，人若在此世未实现对上帝的爱，灵魂便会因其在有形世界中对上帝的反叛而沮丧——这一过失，它在身体死后才了然明白；这种深切的悲伤，即等同于地狱之火。
+  - id: 69
+    kind: body
+    source: |-
+      In his critique of the Aristotelian position on these subjects, Crescas tries to construct a philosophical defense of what he considers to be the traditional Jewish view. He first tries to prove that the opinions of the Aristotelians are philosophically mistaken, and then goes on to argue that what he considers to be the traditional view is philosophically true. This critique of the Jewish Aristotelian opinion is one of Crescas’s more important . In the Jewish orthodox community, fulfillment of the commandments is the most important aspect of religious life. In the opinion of Maimonides, the majority of the commandments (and all of the practical commandments) are only intermediaries to achieving philosophical knowledge, which is the supreme goal of human endeavor. This opinion is one of the more problematic aspects of Maimonides from a traditional point of view. Through his critique of the Aristotelian view, Crescas builds a defense of what he considers to be the traditional view of the commandments as the way to achieve the highest religious and spiritual goals.
+    step1: |-
+      在批判亚里士多德派在这些主题上的立场时，克雷斯卡斯试图为他所认为的传统犹太观点建构一种哲学辩护。他先试图证明亚里士多德派的观点在哲学上是错误的，然后论证他所认为的传统观点在哲学上是真的。这一对犹太亚里士多德派观点的批判，是克雷斯卡斯较重要的成就之一。在犹太正统共同体中，履行诫命是宗教生活中最重要的方面。在迈蒙尼德看来，大多数诫命（以及一切实践性诫命）只是达到哲学知识这一人类努力最高目标的中间环节。从传统的观点看，这是迈蒙尼德较成问题的方面之一。通过批判亚里士多德派观点，克雷斯卡斯为他所认为的传统观点——诫命是达到最高宗教与精神目标的途径——建构了一种辩护。
+    step2: |-
+      批判亚里士多德派在这些主题上的立场时，克雷斯卡斯力图为他所认定的传统犹太观点作出哲学辩护：先证明亚里士多德派之说在哲学上谬误，再论证他所认定的传统之说在哲学上为真。这一对犹太亚里士多德派观点的批判，是克雷斯卡斯较重要的贡献之一。在犹太正统共同体中，履行诫命乃宗教生活最重要的方面；而按迈蒙尼德之说，大多数诫命（以及一切实践性诫命）只是达到哲学知识——人类努力的最高目标——的中间环节。从传统立场看，这正是迈蒙尼德较成问题的一面。克雷斯卡斯通过批判亚里士多德派之说，为他所认定的传统观点——诫命乃达致最高宗教与精神目标之途径——作出了辩护。
+  - id: 70
+    kind: body
+    source: |-
+      ## 7. Crescas and the Conversos’s Question
+    step1: |-
+      ## 7. 克雷斯卡斯与改宗者问题
+    step2: |-
+      ## 7. 克雷斯卡斯与改宗者问题
+  - id: 71
+    kind: body
+    source: |-
+      In the aftermath of the tumultuous events surrounding the 1391 riots against the Jews in Spain a considerable portion of the Jewish population in Spain underwent conversion to Christianity. From the early 15th century until the Expulsion of 1492, the Spanish Jewish community coexisted with the conversos, marking a unique period in which a Jewish community lived in close proximity to a population of converts. Crescas emerged as the inaugural Jewish philosopher and community leader to grapple with this inherently challenging new circumstance. It is evident that some of his original philosophical tenets bear profound implications for the relationship between the Jewish community and the conversos. Crescas posited that the primary criterion for religious perfection resides in human decision and sentiment, specifically, the love of God. This characterization of religious perfection as independent of human actions, such as adherence to commandments (as posited by Rabbi Yehuda Halevi) or acquisition of knowledge (as proposed by Maimonides and his adherents), offers conversos the prospect of achieving religious perfection as Jews even while outwardly living as converts. Given the constraints faced by conversos in adhering to Jewish commandments and engaging in an in-depth study of Jewish sources and philosophy, the assertions by prominent Jewish thinkers predating Crescas that religious perfection is contingent on the observance of commandments (Halevi) or the pursuit of knowledge (Maimonides) may have been disheartening for conversos. Such individuals may have perceived an insurmountable barrier to leading a profoundly religious life as Jews, potentially resulting in discouragement and a proclivity towards Christianity, especially for those unwilling or unable to relocate to a setting where they could openly practice Judaism. Even the more devout Jewish conversos likely lost incentive to transmit any semblance of Jewish identity to their offspring. Moreover, Crescas emphasized that the performance of a few Jewish commandments by conversos would yield significant religious reward, considering the associated costs and dangers. Conversely, the obligatory observance of Christian rituals is deemed by Crescas and his student Albo to lack meaningful religious significance. With this perspective, which is likely to resonate with the majority of conversos, Crescas also articulated a stern critique of those conversos who embraced Christianity (Sadik 2021)[^sadik-2021].
+    step1: |-
+      在 1391 年西班牙反犹暴乱这一动荡事件的余波中，西班牙相当一部分犹太人口改宗了基督教。从十五世纪初直到 1492 年的驱逐，西班牙犹太共同体与改宗者共处，这标志着犹太共同体与改宗者群体比邻而居的一个独特时期。克雷斯卡斯是第一位着手应对这一内蕴艰难的新处境的犹太哲学家与共同体领袖。显然，他的某些原创哲学信条对犹太共同体与改宗者的关系有深远意涵。克雷斯卡斯主张，宗教完善的首要判准在于人的抉择与情感，具言之即对上帝的爱。这种把宗教完善界定为独立于人的行为——如遵行诫命（如耶胡达·哈列维拉比所主张）或获取知识（如迈蒙尼德及其追随者所主张）——的说法，为改宗者提供了前景：即便外表上过改宗者的生活，也能作为犹太人达到宗教完善。鉴于改宗者在遵行犹太诫命、深入研究犹太来源与哲学方面所受的限制，克雷斯卡斯之前那些著名犹太思想家关于宗教完善取决于遵守诫命（哈列维）或追求知识（迈蒙尼德）的主张，可能令改宗者沮丧。这类人或许觉得自己作为犹太人过一种深切宗教的生活有着不可逾越的障碍，结果可能导致灰心以及对基督教的倾向，尤其是那些不愿或不能迁往可公开奉行犹太教之处的人。即便更虔诚的犹太改宗者，大概也失去了把任何犹太认同的痕迹传给后代的动力。此外，克雷斯卡斯强调，鉴于相关的代价与危险，改宗者履行少数几条犹太诫命也会产生可观的宗教奖赏。反过来说，克雷斯卡斯及其弟子阿尔博认为，强制遵行基督教礼仪并无有意义的宗教意义。以这一大概会引起多数改宗者共鸣的立场，克雷斯卡斯还对那些拥抱基督教的改宗者作了严厉批判（Sadik 2021）[^sadik-2021]。
+    step2: |-
+      1391 年西班牙反犹暴乱这一动荡的余波之中，西班牙相当一部分犹太人口改宗基督教。自十五世纪初至 1492 年驱逐，西班牙犹太共同体与改宗者（conversos）共处，构成犹太共同体与改宗者群体比邻而居的一段独特时期。克雷斯卡斯是第一位着手应对这一内蕴艰难之新处境的犹太哲学家与共同体领袖。他的一些原创哲学信条，显然对犹太共同体与改宗者的关系有深远意涵。克雷斯卡斯主张，宗教完善的首要判准在于人的抉择与情感，具体言之即对上帝的爱。把宗教完善界定为独立于人的行为——既不同于遵行诫命（耶胡达·哈列维拉比〔Rabbi Yehuda Halevi〕之说），也不同于获取知识（迈蒙尼德及其追随者之说）——便为改宗者开出前景：纵然外表上过着改宗者的生活，仍可作为犹太人达致宗教完善。改宗者在遵行犹太诫命、深研犹太典籍与哲学上备受限制；相形之下，克雷斯卡斯之前那些著名犹太思想家所谓宗教完善取决于遵守诫命（哈列维）或追求知识（迈蒙尼德）之说，于改宗者或为打击。此辈或觉作为犹太人过一种深切宗教的生活障碍不可逾越，遂至灰心而倾向基督教——对于那些不愿或不能迁往可公开奉行犹太教之地者，尤为如此。即便较为虔诚的犹太改宗者，大概也失去了把犹太认同的任何痕迹传给后代的动力。此外，克雷斯卡斯强调：鉴于其间代价与危险，改宗者履行少数几条犹太诫命，也会产生可观的宗教奖赏；反之，强制遵行基督教礼仪，在克雷斯卡斯及其弟子阿尔博看来并无有意义的宗教意义。以此一大概能引起多数改宗者共鸣的立场，克雷斯卡斯还对那些拥抱基督教的改宗者严加批判（Sadik 2021）[^sadik-2021]。
+  - id: 72
+    kind: body
+    source: |-
+      ## 8. Reception and influence
+    step1: |-
+      ## 8. 接受与影响
+    step2: |-
+      ## 8. 接受与影响
+  - id: 73
+    kind: body
+    source: |-
+      We can distinguish between the influence of Crescas on Jewish philosophy and his influence on general occidental philosophy.
+    step1: |-
+      我们可以区分克雷斯卡斯对犹太哲学的影响与其对一般西方哲学的影响。
+    step2: |-
+      克雷斯卡斯的影响可分为两面：对犹太哲学的影响，与对一般西方哲学的影响。
+  - id: 74
+    kind: body
+    source: |-
+      Jewish philosophy: As has been pointed out, Crescas was considered the major leader of the Jewish community of Aragon and to a certain extent all of Spanish Jewry (It should be noted that at the time, the Spanish Jewish community was the biggest in the Jewish world.). He was both the most important political leader and one of the major legal authorities of his time. A significant proportion of the major rabbis in Aragon in the generation following Crescas were in fact his immediate pupils or people within his circle of scholars.[^note-31] Crescas was also one of the most original Jewish philosophers in the Middle Ages. His critiques of Aristotelian science and of the Maimonidean integration of Aristotelianism into Judaism have an honored place in the history of the disintegration of the influence of Aristotle – a disintegration that laid the groundwork for the development of a new science. These kinds of critiques were very popular in the Renaissance and at the beginning of the modern period. Additionally, in the majority of the subjects that Crescas deals with, his opinion is closer to the traditional point of view than is Maimonides’ opinion. But contrary to what we might have expected from this situation, Crescas did not create an important Jewish current of thought as did Maimonides and the Kabbala. The majority of his direct students and of the people in his circle came back to either a different kind of Aristotelian view or else a regular traditional point of view, and did not continue Crescas’s philosophical project.
+    step1: |-
+      犹太哲学：正如已经指出的，克雷斯卡斯被视为阿拉贡犹太共同体——以及在某种程度上全西班牙系犹太人——的主要领袖（应当指出，当时西班牙犹太共同体是犹太世界中最大的）。他既是当时最重要的政治领袖，也是主要的律法权威之一。克雷斯卡斯之后一代中阿拉贡的相当一部分主要拉比，实际上都是他的直接弟子或他学术圈子内的人。[^note-31] 克雷斯卡斯也是中世纪最具原创性的犹太哲学家之一。他对亚里士多德科学、以及对迈蒙尼德把亚里士多德主义融入犹太教之做法的批判，在亚里士多德影响解体史上有光荣的位置——而这种解体为新科学的发展奠定了基础。这类批判在文艺复兴和现代时期之初非常流行。此外，在克雷斯卡斯处理的多数主题上，他的观点比迈蒙尼德的观点更接近传统看法。但与我们从这一情形所可能预期的相反，克雷斯卡斯并未像迈蒙尼德和喀巴拉那样开创一个重要的犹太思想潮流。他的大多数直接弟子与圈内人，后来都回到了另一种亚里士多德观点或寻常的传统观点，而没有继续克雷斯卡斯的哲学事业。
+    step2: |-
+      犹太哲学方面：如前所述，克雷斯卡斯被视为阿拉贡犹太共同体——某种程度上也是整个西班牙系犹太人——的主要领袖（应当指出，当时西班牙犹太共同体是犹太世界中最大的）。他既是当时最重要的政治领袖，也是主要律法权威之一；克雷斯卡斯之后一代阿拉贡的主要拉比，相当一部分正是他的直接弟子或学术圈内之人。[^note-31] 他同时是中世纪最具原创性的犹太哲学家之一。他对亚里士多德科学、以及对迈蒙尼德把亚里士多德主义融入犹太教之做法的批判，在亚里士多德影响解体史上占有尊荣位置——而这一解体为新科学的发展奠定了基础；此类批判在文艺复兴与现代时期之初甚为流行。此外，在克雷斯卡斯处理的多数主题上，其观点都比迈蒙尼德更近传统。然而与由此可能预期者相反，克雷斯卡斯并未像迈蒙尼德与喀巴拉那样开创一个重要的犹太思想流派。其大多数直接弟子与圈内人，后来都回到另一种亚里士多德观点或寻常的传统立场，未曾延续他的哲学事业。
+  - id: 75
+    kind: body
+    source: |-
+      Modern scholars have given a number of explanations for this phenomenon, most prominent of which is the disintegration of Spanish Jewry caused by the pogrom of 1391 and the persecutions at the beginning of the 15ᵗʰ century. Because of this disintegration, the Spanish Jewish community did not integrate the new and original mode of thinking of Crescas, and instead went back after his death to different more traditional opinions. Another explanation is that his opinions were ahead of their time, and people (including his own pupils) did not completely understand them. Another explanation attributes the general rejection of Crescas to his citation of Christian scholars, and especially the apostate Abner of Burgos. According to this opinion, the Jewish community knew Abner’s ideas and was dismayed by Crescas’s utilization of the apostate’s views.[^note-32] Some scholars also claim that the major goal of Crescas was to refute the Aristotelian interpretation of Judaism, so following the collapse of this interpretation, caused by the general fall of Aristotle, there was simply no more need for Crescas’s critiques. Perhaps the most probable explanation is that Crescas did not realize his original project of writing another legalistic book against the *Mishneh Torah* of Maimonides. If Crescas had written this book, he probably would have become not only one of the major Jewish philosophers, but also one of the major legal authorities of both his generation and succeeding generations. The combination of legal works, philosophical tracts, and political leadership was undoubtedly of great help to the philosophical reception of Maimonides within Judaism.
+    step1: |-
+      现代学者对这一现象给出了若干解释，其中最突出的是 1391 年大屠杀与十五世纪初迫害所造成的西班牙犹太人的解体。由于这一解体，西班牙犹太共同体未能吸纳克雷斯卡斯新颖而原创的思维方式，反而在他死后回到了不同的、更为传统的观点。另一种解释是，他的观点超前于其时代，人们（包括他自己的弟子）没有完全理解它们。还有一种解释把克雷斯卡斯之普遍被拒归于他引用基督教学者、尤其是叛教者布尔戈斯的阿布内尔。按这一看法，犹太共同体了解阿布内尔的思想，并对克雷斯卡斯利用叛教者的观点感到不安。[^note-32] 一些学者还主张，克雷斯卡斯的主要目的是驳斥对犹太教的亚里士多德式解释，因此随着这一解释在亚里士多德普遍衰落中崩塌，克雷斯卡斯的批判便再无需要。或许最可能的解释是：克雷斯卡斯未能实现其原初计划，即再写一部反对迈蒙尼德《重述托拉》（*Mishneh Torah*）的律法书。如果克雷斯卡斯写了这部书，他大概不仅会成为主要犹太哲学家之一，还会成为他那一代及后代的主要律法权威之一。律法著作、哲学论著与政治领导三者的结合，无疑大大有助于迈蒙尼德哲学在犹太教内部的接受。
+    step2: |-
+      现代学者对这一现象给出了若干解释，最突出者，是 1391 年大屠杀与十五世纪初迫害所造成的西班牙犹太人解体。经此解体，西班牙犹太共同体未能吸纳克雷斯卡斯新颖而具原创性的思维方式，反而在他身后回到不同的、更为传统的观点。另一种解释是：他的观点超前于时代，人们（包括他自己的弟子）未能完全领会。还有一种解释把他之普遍被拒归于其征引基督教学者，尤其是叛教者布尔戈斯的阿布内尔——按此说，犹太共同体了解阿布内尔的思想，对克雷斯卡斯取用叛教者之说深感不安。[^note-32] 亦有学者主张：克雷斯卡斯的主要目的是驳斥对犹太教的亚里士多德式解释，而随着这一解释在亚里士多德普遍失势中崩解，他的批判便再无需要。或许最可能的解释是：克雷斯卡斯未能实现其原初计划，即再写一部反对迈蒙尼德《重述托拉》的律法书。若此书得成，他大概不仅会成为主要犹太哲学家之一，还会成为他那一代及后代的主要律法权威之一；律法著作、哲学论著与政治领导三者兼备，无疑大大有助于迈蒙尼德哲学在犹太教内部的接受。
+  - id: 76
+    kind: body
+    source: |-
+      Yet another reason for the relative lack of influence of Crescas on posterior Judaism is his intermediate position between philosophy and tradition. Maimonides was not only the most important Jewish philosopher, but also the Jewish philosopher par excellence, such that the majority of orthodox Jewish philosophers see themselves as continuators of Maimonides. For the majority of Jewish philosophers, Crescas is too traditional, while for the majority of traditionalists he is too philosophical. Ultimately, however, and in spite of all the aforementioned factors, the influence of Crescas on Jewish thought is palpable. *Or Hashem* is found today in a large majority of the libraries of the different *yeshivot* (Jewish academies), and rabbis from all the different streams of Judaism have studied his book throughout the modern period. In universities and the research world there is a relatively large amount of interest in his original philosophy, and a substantial number of scholars of medieval Jewish philosophy consider Crescas to be the second most important medieval Jewish philosopher after Maimonides.
+    step1: |-
+      克雷斯卡斯对后世犹太教影响相对不足的又一个原因，是他在哲学与传统之间的居间位置。迈蒙尼德不仅是最重要的犹太哲学家，还是犹太哲学家的典范，以致大多数正统犹太哲学家都自视为迈蒙尼德的继承者。对大多数犹太哲学家而言，克雷斯卡斯过于传统；而对大多数传统主义者而言，他又过于哲学化。然而归根到底，尽管有上述种种因素，克雷斯卡斯对犹太思想的影响仍可触知。今天，在不同的经学院（犹太学园）的藏书室中，大多数都藏有《上主之光》；在整个现代时期，犹太教各个不同流派的拉比都研读过他的书。在大学与研究界，对其原创哲学有相当多的兴趣，而相当数量的中世纪犹太哲学学者认为克雷斯卡斯是继迈蒙尼德之后第二重要的中世纪犹太哲学家。
+    step2: |-
+      克雷斯卡斯对后世犹太教影响相对有限，还有一个原因：他居于哲学与传统之间。迈蒙尼德不仅是最重要的犹太哲学家，更是犹太哲学家的典范，以致大多数正统犹太哲学家都自视为其继承者。对多数犹太哲学家而言，克雷斯卡斯太传统；对多数传统主义者而言，他又太哲学。然而归根到底，尽管有上述种种因素，克雷斯卡斯对犹太思想的影响仍确实可感：《上主之光》如今见于大多数经学院（yeshivot，犹太学园）的藏书室，犹太教各流派的拉比在整个现代时期都研读其书；在大学与研究界，对其原创哲学的兴趣相当可观，而相当一批中世纪犹太哲学学者认为，克雷斯卡斯是继迈蒙尼德之后第二重要的中世纪犹太哲学家。
+  - id: 77
+    kind: body
+    source: |-
+      ### 8.1 Influence on general occidental philosophy
+    step1: |-
+      ### 8.1 对一般西方哲学的影响
+    step2: |-
+      ### 8.1 对一般西方哲学的影响
+  - id: 78
+    kind: body
+    source: |-
+      Crescas is not a part of the very limited group of medieval Jewish philosophers whose major philosophical works have been translated into Latin (in particular Maimonides, Rabbi Isaac Israeli, and Rabbi Shlomo Ibn Gabirol). The non-Jewish occidental philosopher had no possibility of direct access to any of his works until the very recent translation of Or Hashem into French. Despite this fact, his philosophical opinions influenced occidental philosophy, especially through their adoption by two important authors: Pico della Mirandola and Spinoza. Pico translated some of Crescas’s critiques on Aristotelian science in his book *Examen Vanitas Doctrinae Gentium*, and it is possible that Crescas may have influenced some of the Italian philosopher’s other opinions as well. The main influence of Crescas on general occidental philosophy is undoubtedly via his influence on Spinoza. Spinoza, himself Jewish, probably studied *Or Hashem* as a young student, for Crescas’s book had a profound influence on his opinions. Indeed, Crescas is one the few medieval philosophers that Spinoza quotes with sympathy.[^note-33] There is some controversy among Spinoza scholars regarding the subject of the influence of Jewish thought on Spinoza’s opinions, but it is very probable that Crescas had a significant influence on at least two of his most important views: the essence of God and determinism. We can conclude that in spite of the lack of direct influence, Crescas definitely had an important indirect influence on occidental philosophy, especially via his influence on Spinoza.
+    step1: |-
+      克雷斯卡斯不属于那个极为有限的中世纪犹太哲学家群体——其主要哲学著作已被译为拉丁文（尤其是迈蒙尼德、伊萨克·以色列拉比与所罗门·伊本·加比罗罗拉比）。直到晚近《上主之光》法译本问世之前，非犹太的西方哲学家没有任何直接接触其任何著作的可能。尽管如此，他的哲学观点仍影响了西方哲学，尤其是通过两位重要作者的采纳：皮科·德拉·米兰多拉与斯宾诺莎。皮科在其著作《异教徒学说之虚荣的检验》中翻译了克雷斯卡斯对亚里士多德科学的一些批判，而且克雷斯卡斯也可能影响了这位意大利哲学家的其它一些观点。克雷斯卡斯对一般西方哲学的主要影响，无疑是通过他对斯宾诺莎的影响。斯宾诺莎本人是犹太人，大概年轻时研读过《上主之光》，因为克雷斯卡斯的书对其观点有深刻影响。事实上，克雷斯卡斯是斯宾诺莎以同情态度引用的少数中世纪哲学家之一。[^note-33] 斯宾诺莎研究者之间就犹太思想对斯宾诺莎观点之影响这一主题存在一些争议，但克雷斯卡斯很可能至少对斯宾诺莎两个最重要的观点有显著影响：上帝的本质与决定论。我们可以总结说：尽管缺乏直接影响，克雷斯卡斯无疑对西方哲学有重要的间接影响，尤其是通过他对斯宾诺莎的影响。
+    step2: |-
+      克雷斯卡斯不属于那个极为有限的中世纪犹太哲学家群体——其主要哲学著作已译为拉丁文（尤其是迈蒙尼德、伊萨克·以色列拉比与所罗门·伊本·加比罗罗拉比）。直到晚近《上主之光》法译本问世之前，非犹太的西方哲学家无从直接接触其任何著作。尽管如此，他的哲学观点仍影响了西方哲学，尤其是经由两位重要作者的采纳：皮科·德拉·米兰多拉与斯宾诺莎。皮科在《异教徒学说之虚荣的检验》中移译了克雷斯卡斯对亚里士多德科学的一些批判，或许还受其影响而持有其它某些观点。克雷斯卡斯对一般西方哲学的主要影响，无疑经由斯宾诺莎：斯宾诺莎本人是犹太人，大概年轻时即研读过《上主之光》，因为克雷斯卡斯之书对其观点影响甚深。事实上，克雷斯卡斯是斯宾诺莎以同情笔调引用的少数中世纪哲学家之一。[^note-33] 斯宾诺莎研究者就犹太思想对其观点之影响尚有争议，但克雷斯卡斯很可能至少显著影响了斯宾诺莎两个最重要的观点：上帝的本质与决定论。可以说，尽管缺乏直接影响，克雷斯卡斯无疑对西方哲学有重要的间接影响，尤其是经由他对斯宾诺莎的影响。
+  - id: 79
+    kind: oir
+    source: |-
+      - [*Or Hashem*](http://www.daat.ac.il/daat/vl/tohen.asp?id=153) (in PDF), edited by Rabbi S. Fisher, Jerusalem 1990 (in Hebrew).
+    step1: |-
+      - [《上主之光》](http://www.daat.ac.il/daat/vl/tohen.asp?id=153)（PDF），S. Fisher 拉比编，耶路撒冷 1990 年（希伯来文）。
+    step2: |-
+      - [《上主之光》](http://www.daat.ac.il/daat/vl/tohen.asp?id=153)（*Or Hashem*，PDF），S. Fisher 拉比编，耶路撒冷 1990 年（希伯来文）。
+  - id: 80
+    kind: ack
+    source: |-
+      Section 2 on the life of Hasdai Crescas is based on Harvey (2010).
+    step1: |-
+      关于哈斯代·克雷斯卡斯生平的第 2 节依据 Harvey（2010）。
+    step2: |-
+      关于哈斯代·克雷斯卡斯生平的第 2 节，依据 Harvey（2010）。
+  - id: 81
+    kind: note
+    source: |-
+      [^note-1]: On the situation of the Jewish community of Spain during his period, see Baer 1992 and Ben Shalom 2012.
+    step1: |-
+      [^note-1]: 关于他那个时期西班牙犹太共同体的处境，见 Baer 1992 与 Ben Shalom 2012。
+    step2: |-
+      [^note-1]: 关于他那个时期西班牙犹太共同体的处境，见 Baer 1992 与 Ben Shalom 2012。
+  - id: 82
+    kind: note
+    source: |-
+      [^note-2]: On the utilization of scholastic sources by Rabbi Nissim of Gerondi see Harvey 1992.
+    step1: |-
+      [^note-2]: 关于赫罗纳的拉比尼西姆对经院来源的利用，见 Harvey 1992。
+    step2: |-
+      [^note-2]: 关于赫罗纳的拉比尼西姆对经院来源的利用，见 Harvey 1992。
+  - id: 83
+    kind: note
+    source: |-
+      [^note-3]: On this subject see Harvey 2010, pp. 63–67; Harvey 1990.
+    step1: |-
+      [^note-3]: 关于这一主题，见 Harvey 2010, pp. 63–67; Harvey 1990。
+    step2: |-
+      [^note-3]: 关于这一主题，见 Harvey 2010, pp. 63–67; Harvey 1990。
+  - id: 84
+    kind: note
+    source: |-
+      [^note-4]: On this pogrom see Netanyahu 1995, pp. 127–168.
+    step1: |-
+      [^note-4]: 关于这场大屠杀，见 Netanyahu 1995, pp. 127–168。
+    step2: |-
+      [^note-4]: 关于这场大屠杀，见 Netanyahu 1995, pp. 127–168。
+  - id: 85
+    kind: note
+    source: |-
+      [^note-5]: On this book see Ravitzky 1989. On the debate about the date of his writing see also Harvey 1989.
+    step1: |-
+      [^note-5]: 关于此书，见 Ravitzky 1989。关于其写作年代的争论，另见 Harvey 1989。
+    step2: |-
+      [^note-5]: 关于此书，见 Ravitzky 1989。关于其写作年代的争论，另见 Harvey 1989。
+  - id: 86
+    kind: note
+    source: |-
+      [^note-6]: The origin of this opinion in Avicenna and Rabbi Abraham Ibn Ezra is the view that man can acquire enough knowledge to achieve an ontological degree that allows him to tell nature what to do.
+    step1: |-
+      [^note-6]: 这一观点在阿维森纳与亚伯拉罕·伊本·以斯拉拉比那里的源头，是如下看法：人可以获得足够的知识，从而达到一种本体论等级，使之得以吩咐自然行事。
+    step2: |-
+      [^note-6]: 这一观点在阿维森纳与亚伯拉罕·伊本·以斯拉拉比那里的源头，是如下看法：人可以获得足够的知识，从而达到一种本体论等级，使之得以吩咐自然行事。
+  - id: 87
+    kind: note
+    source: |-
+      [^note-7]: *Or Hashem*, pp. 189–193. On prophecy in the thought of Crescas, see Kreisel 2001, pp. 425–485.
+    step1: |-
+      [^note-7]: *Or Hashem*, pp. 189–193。关于克雷斯卡斯思想中的预言，见 Kreisel 2001, pp. 425–485。
+    step2: |-
+      [^note-7]: *Or Hashem*, pp. 189–193。关于克雷斯卡斯思想中的预言，见 Kreisel 2001, pp. 425–485。
+  - id: 88
+    kind: note
+    source: |-
+      [^note-8]: There exists a modern critical edition by D. J. Lasker.
+    step1: |-
+      [^note-8]: D. J. Lasker 编有现代校勘本。
+    step2: |-
+      [^note-8]: D. J. Lasker 编有现代校勘本。
+  - id: 89
+    kind: note
+    source: |-
+      [^note-9]: Rabbi Josef Ibn Shem Tov, the Hebrew translator, says that Crescas wrote another polemical book in Catalan based on quotations from the Bible. He apologizes for not translating this book and explains that there exist other books in this style.
+    step1: |-
+      [^note-9]: 希伯来语译者约瑟夫·伊本·谢姆·托夫拉比说，克雷斯卡斯还用加泰罗尼亚语写了另一部以引用《圣经》为基础的论战著作。他为未译此书致歉，并解释说另有其他同类体裁的著作。
+    step2: |-
+      [^note-9]: 希伯来语译者约瑟夫·伊本·谢姆·托夫拉比说，克雷斯卡斯还用加泰罗尼亚语写了另一部以引用《圣经》为基础的论战著作。他为未译此书致歉，并解释说另有其他同类体裁的著作。
+  - id: 90
+    kind: note
+    source: |-
+      [^note-10]: On this subject see Lasker 1992, pp. 21–23.
+    step1: |-
+      [^note-10]: 关于这一主题，见 Lasker 1992, pp. 21–23。
+    step2: |-
+      [^note-10]: 关于这一主题，见 Lasker 1992, pp. 21–23。
+  - id: 91
+    kind: note
+    source: |-
+      [^note-11]: We do not currently have a critical edition; the most modern edition is that of Rabbi Fisher. In the first manuscript (Firenze 417) the name of the book is אור יי. In the rest of the manuscripts the name is אור השם (for example Parma 3020; London Mon 281), אור ה (for examle Paris 737; JTS 2251; JTS 2514) or אור יהוה (Vatican 261). The book is quoted according to his name in the Fisher edition.
+    step1: |-
+      [^note-11]: 我们目前没有校勘本；最新的版本是 Fisher 拉比的版本。在第一份抄本（Firenze 417）中，书名为 אור יי。其余抄本中，书名为 אור השם（例如 Parma 3020; London Mon 281）、אור ה（例如 Paris 737; JTS 2251; JTS 2514）或 אור יהוה（Vatican 261）。本书依 Fisher 版本中的书名引用。
+    step2: |-
+      [^note-11]: 我们目前没有校勘本；最新的版本是 Fisher 拉比的版本。在第一份抄本（Firenze 417）中，书名为 אור יי。其余抄本中，书名为 אור השם（例如 Parma 3020; London Mon 281）、אור ה（例如 Paris 737; JTS 2251; JTS 2514）或 אור יהוה（Vatican 261）。本书依 Fisher 版本中的书名引用。
+  - id: 92
+    kind: note
+    source: |-
+      [^note-12]: On this subject see Harvey 1980, Ofir 1993.
+    step1: |-
+      [^note-12]: 关于这一主题，见 Harvey 1980, Ofir 1993。
+    step2: |-
+      [^note-12]: 关于这一主题，见 Harvey 1980, Ofir 1993。
+  - id: 93
+    kind: note
+    source: |-
+      [^note-13]: On the critique of Crescas on this subject see Kellner 1986, pp. 108–139. It is interesting to note that Crescas’s pupil Rabbi Josef Albo wrote a major book, *Book on the Principles*, using the same plan. Albo does not accept all of his master opinions on this subject either. Rabbi Isaac Abrabanel, in his book *The Pinnacle of Faith*, responds to these criticisms of Maimonides’ principles.
+    step1: |-
+      [^note-13]: 关于克雷斯卡斯在这一主题上的批判，见 Kellner 1986, pp. 108–139。有趣的是，克雷斯卡斯的弟子约瑟夫·阿尔博拉比以同样的方案写了一部重要著作《论原理》（*Book on the Principles*）。阿尔博在这一主题上也并不全盘接受其师的观点。伊萨克·阿布拉瓦内尔拉比在其著作《信仰之巅》中回应了这些对迈蒙尼德诸原理的批评。
+    step2: |-
+      [^note-13]: 关于克雷斯卡斯在这一主题上的批判，见 Kellner 1986, pp. 108–139。有趣的是，克雷斯卡斯的弟子约瑟夫·阿尔博拉比以同样的方案写了一部重要著作《论原理》（*Book on the Principles*）。阿尔博在这一主题上也并不全盘接受其师的观点。伊萨克·阿布拉瓦内尔拉比在其著作《信仰之巅》中回应了这些对迈蒙尼德诸原理的批评。
+  - id: 94
+    kind: note
+    source: |-
+      [^note-14]: On this subject see *Or Hashem*, pp. 9–12.
+    step1: |-
+      [^note-14]: 关于这一主题，见 *Or Hashem*, pp. 9–12。
+    step2: |-
+      [^note-14]: 关于这一主题，见 *Or Hashem*, pp. 9–12。
+  - id: 95
+    kind: note
+    source: |-
+      [^note-15]: *Or Hashem*, pp. 98–99. Spinoza quotes this proof of Crescas in his twelfth letter. On this proof in Avicenna, see Davidson 1987, pp. 281–310; on the utilization of this proof in Crescas (different than in Avicenna), see p. 385.
+    step1: |-
+      [^note-15]: *Or Hashem*, pp. 98–99。斯宾诺莎在其第十二封信中引用了克雷斯卡斯的这一证明。关于阿维森纳的这一证明，见 Davidson 1987, pp. 281–310；关于克雷斯卡斯对这一证明的运用（与阿维森纳不同），见 p. 385。
+    step2: |-
+      [^note-15]: *Or Hashem*, pp. 98–99。斯宾诺莎在其第十二封信中引用了克雷斯卡斯的这一证明。关于阿维森纳的这一证明，见 Davidson 1987, pp. 281–310；关于克雷斯卡斯对这一证明的运用（与阿维森纳不同），见 p. 385。
+  - id: 96
+    kind: note
+    source: |-
+      [^note-16]: This we can see in the second essay, pp. 141–148.
+    step1: |-
+      [^note-16]: 这一点可见于第二篇，pp. 141–148。
+    step2: |-
+      [^note-16]: 这一点可见于第二篇，pp. 141–148。
+  - id: 97
+    kind: note
+    source: |-
+      [^note-17]: On the subject of God’s attributes, see Wolfson 1916; Pines 1967; Schweid 1970, pp. 26–37; Harvey 1983, pp. 88–91; and Harvey 2000.
+    step1: |-
+      [^note-17]: 关于上帝的属性这一主题，见 Wolfson 1916; Pines 1967; Schweid 1970, pp. 26–37; Harvey 1983, pp. 88–91; 以及 Harvey 2000。
+    step2: |-
+      [^note-17]: 关于上帝的属性这一主题，见 Wolfson 1916; Pines 1967; Schweid 1970, pp. 26–37; Harvey 1983, pp. 88–91; 以及 Harvey 2000。
+  - id: 98
+    kind: note
+    source: |-
+      [^note-18]: This opinion is common to Gersonides and some scholastic authors like Scotus, but Crescas quotes him from Gersonides. Like the other Jewish philosophers of Spain in the Middle Ages, Crescas does not name his Christian sources.
+    step1: |-
+      [^note-18]: 这一观点为格森尼德斯与司各脱等某些经院作者所共有，但克雷斯卡斯是从格森尼德斯那里引来的。与中世纪西班牙的其他犹太哲学家一样，克雷斯卡斯不提其基督教来源之名。
+    step2: |-
+      [^note-18]: 这一观点为格森尼德斯与司各脱等某些经院作者所共有，但克雷斯卡斯是从格森尼德斯那里引来的。与中世纪西班牙的其他犹太哲学家一样，克雷斯卡斯不提其基督教来源之名。
+  - id: 99
+    kind: note
+    source: |-
+      [^note-19]: On this subject see Wolfson 1929; Pines 1967; Rabinovitch 1970; Davidson 1979; Harvey 1980; Levy 1992; Harvey 1998; Maccoby 2003; Fraenkel 2008; Sadik 2008; and Harvey 2010, pp. 54–62.
+    step1: |-
+      [^note-19]: 关于这一主题，见 Wolfson 1929; Pines 1967; Rabinovitch 1970; Davidson 1979; Harvey 1980; Levy 1992; Harvey 1998; Maccoby 2003; Fraenkel 2008; Sadik 2008; 以及 Harvey 2010, pp. 54–62。
+    step2: |-
+      [^note-19]: 关于这一主题，见 Wolfson 1929; Pines 1967; Rabinovitch 1970; Davidson 1979; Harvey 1980; Levy 1992; Harvey 1998; Maccoby 2003; Fraenkel 2008; Sadik 2008; 以及 Harvey 2010, pp. 54–62。
+  - id: 100
+    kind: note
+    source: |-
+      [^note-20]: On this subject see especially *Or Hashem*, pp. 71–74. Crescas deals with infinity in a few other places in the second part of the first essay.
+    step1: |-
+      [^note-20]: 关于这一主题，尤其见 *Or Hashem*, pp. 71–74。克雷斯卡斯在第一篇第二部分的其他几处也论及无限。
+    step2: |-
+      [^note-20]: 关于这一主题，尤其见 *Or Hashem*, pp. 71–74。克雷斯卡斯在第一篇第二部分的其他几处也论及无限。
+  - id: 101
+    kind: note
+    source: |-
+      [^note-21]: On the influence of Crescas on Spinoza vis a vis this topic see Wolfson 1934, pp. 223ff; and Fraenkel 2009.
+    step1: |-
+      [^note-21]: 关于克雷斯卡斯在这一主题上对斯宾诺莎的影响，见 Wolfson 1934, pp. 223ff；以及 Fraenkel 2009。
+    step2: |-
+      [^note-21]: 关于克雷斯卡斯在这一主题上对斯宾诺莎的影响，见 Wolfson 1934, pp. 223ff；以及 Fraenkel 2009。
+  - id: 102
+    kind: note
+    source: |-
+      [^note-22]: On this subject see especially *Or Hashem*, pp. 66–69 and 81–82.
+    step1: |-
+      [^note-22]: 关于这一主题，尤其见 *Or Hashem*, pp. 66–69 与 81–82。
+    step2: |-
+      [^note-22]: 关于这一主题，尤其见 *Or Hashem*, pp. 66–69 与 81–82。
+  - id: 103
+    kind: note
+    source: |-
+      [^note-23]: On this subject see especially *Or Hashem*, pp. 64–67 and 83–84.
+    step1: |-
+      [^note-23]: 关于这一主题，尤其见 *Or Hashem*, pp. 64–67 与 83–84。
+    step2: |-
+      [^note-23]: 关于这一主题，尤其见 *Or Hashem*, pp. 64–67 与 83–84。
+  - id: 104
+    kind: note
+    source: |-
+      [^note-24]: On this subject see Ravitzky 1982; Touati 1983; Ackerman 1994; Bleich 1997; Feldman 1984 and 1982; and Harvey 1980, 1985, and Sadik 2010.
+    step1: |-
+      [^note-24]: 关于这一主题，见 Ravitzky 1982; Touati 1983; Ackerman 1994; Bleich 1997; Feldman 1984 与 1982；以及 Harvey 1980、1985 与 Sadik 2010。
+    step2: |-
+      [^note-24]: 关于这一主题，见 Ravitzky 1982; Touati 1983; Ackerman 1994; Bleich 1997; Feldman 1984 与 1982；以及 Harvey 1980、1985 与 Sadik 2010。
+  - id: 105
+    kind: note
+    source: |-
+      [^note-25]: Ravitzky 1982 argues that these two chapters were written under the influence of Duns Scotus. According to this opinion, after years of being under the influence of Abner’s book, *Ofrenda de Zelos*, Crescas built a more deterministic opinion and tried to harmonize it with his earlier thinking. Harvey 1989 critiques this position of Ravitzky and said that it is no probable that Crescas, as a Jewish philosopher, know the difficult Latin works of Dun Scott before the Hebrew book of the very knows apostate Abner. New studies (Sadik 2008)[^sadik-2008] about the influence of Abner on Crescas that prove the influence of Abner to the early stage of Crescas thinking (especially about his critiques of the Aristotelian science) reinforce the opinion of Harvey.
+    step1: |-
+      [^note-25]: Ravitzky 1982 主张，这两章是在邓斯·司各脱影响下写成的。按此说，在受阿布内尔《热忱的奉献》影响多年之后，克雷斯卡斯构建了一种更为决定论的观点，并试图使之与早先的思想相协调。Harvey 1989 批评拉维茨基这一立场，认为克雷斯卡斯作为犹太哲学家，不大可能在读到那位广为人知的叛教者阿布内尔的希伯来语著作之前，就先读到司各脱艰深的拉丁文著作。关于阿布内尔对克雷斯卡斯之影响的新研究（Sadik 2008）[^sadik-2008] 证明阿布内尔影响了克雷斯卡斯思想的早期阶段（尤其是其亚里士多德科学批判），这加强了哈维的观点。
+    step2: |-
+      [^note-25]: Ravitzky 1982 主张，这两章是在邓斯·司各脱影响下写成的。按此说，在受阿布内尔《热忱的奉献》影响多年之后，克雷斯卡斯构建了一种更为决定论的观点，并试图使之与早先的思想相协调。Harvey 1989 批评拉维茨基这一立场，认为克雷斯卡斯作为犹太哲学家，不大可能在读到那位广为人知的叛教者阿布内尔的希伯来语著作之前，就先读到司各脱艰深的拉丁文著作。关于阿布内尔对克雷斯卡斯之影响的新研究（Sadik 2008）[^sadik-2008] 证明阿布内尔影响了克雷斯卡斯思想的早期阶段（尤其是其亚里士多德科学批判），这加强了哈维的观点。
+  - id: 106
+    kind: note
+    source: |-
+      [^note-26]: Ravitzky (1982) asks a question about the breakdown of determinism in these chapters, as does Rosenberg (forthcoming), and even Harvey (2010, pp. 107–113) on the question of beliefs. See Harvey 2010, pp. 120–126 and Harvey 1985.
+    step1: |-
+      [^note-26]: Ravitzky（1982）就这两章中决定论的崩解提出疑问，Rosenberg（即出）亦然，乃至 Harvey（2010, pp. 107–113）就信念问题亦有疑问。见 Harvey 2010, pp. 120–126 与 Harvey 1985。
+    step2: |-
+      [^note-26]: Ravitzky（1982）就这两章中决定论的崩解提出疑问，Rosenberg（即出）亦然，乃至 Harvey（2010, pp. 107–113）就信念问题亦有疑问。见 Harvey 2010, pp. 120–126 与 Harvey 1985。
+  - id: 107
+    kind: note
+    source: |-
+      [^note-27]: That is the opinion of Abner according to Ravitzky 1982. For another interpretation of Abner, which is closer to the second understanding of Crescas, see Sadik 2011.
+    step1: |-
+      [^note-27]: 这是 Ravitzky 1982 所理解的阿布内尔的观点。关于阿布内尔的另一种解释——更接近对克雷斯卡斯的第二种理解——见 Sadik 2011。
+    step2: |-
+      [^note-27]: 这是 Ravitzky 1982 所理解的阿布内尔的观点。关于阿布内尔的另一种解释——更接近对克雷斯卡斯的第二种理解——见 Sadik 2011。
+  - id: 108
+    kind: note
+    source: |-
+      [^note-28]: Crescas devotes the fourth part of the fourth essay (*Or Hashem*, pp. 396–399) to this subject.
+    step1: |-
+      [^note-28]: 克雷斯卡斯把第四篇第四部分（*Or Hashem*, pp. 396–399）用于这一主题。
+    step2: |-
+      [^note-28]: 克雷斯卡斯把第四篇第四部分（*Or Hashem*, pp. 396–399）用于这一主题。
+  - id: 109
+    kind: note
+    source: |-
+      [^note-29]: *Or Hashem*, pp 239–251. Crescas touches on this subject in some other places, for example in the second and third part of the third essay. On this subject, see Harvey 1973.
+    step1: |-
+      [^note-29]: *Or Hashem*, pp 239–251。克雷斯卡斯在其他几处也涉及这一主题，例如第三篇第二、第三部分。关于这一主题，见 Harvey 1973。
+    step2: |-
+      [^note-29]: *Or Hashem*, pp 239–251。克雷斯卡斯在其他几处也涉及这一主题，例如第三篇第二、第三部分。关于这一主题，见 Harvey 1973。
+  - id: 110
+    kind: note
+    source: |-
+      [^note-30]: Especially from Gersonides’s presentation of the Aristorelian commentators.
+    step1: |-
+      [^note-30]: 尤其是取自格森尼德斯对亚里士多德注疏者的陈述。
+    step2: |-
+      [^note-30]: 尤其是取自格森尼德斯对亚里士多德注疏者的陈述。
+  - id: 111
+    kind: note
+    source: |-
+      [^note-31]: For a list of the people in his circle see Ofir 1993, pp. 321–349. Ofir gives a list of fourteen important rabbis.
+    step1: |-
+      [^note-31]: 关于其圈内人物的名单，见 Ofir 1993, pp. 321–349。Ofir 列出了十四位重要拉比。
+    step2: |-
+      [^note-31]: 关于其圈内人物的名单，见 Ofir 1993, pp. 321–349。Ofir 列出了十四位重要拉比。
+  - id: 112
+    kind: note
+    source: |-
+      [^note-32]: Rabbi Josef Ibn Shem Tov mentions the influence of Abner on Crescas (on the subject of determinism) in his commentary on the *Nicomachean Ethics*.
+    step1: |-
+      [^note-32]: 约瑟夫·伊本·谢姆·托夫拉比在其《尼各马可伦理学》注疏中提到了阿布内尔对克雷斯卡斯（在决定论问题上）的影响。
+    step2: |-
+      [^note-32]: 约瑟夫·伊本·谢姆·托夫拉比在其《尼各马可伦理学》注疏中提到了阿布内尔对克雷斯卡斯（在决定论问题上）的影响。
+  - id: 113
+    kind: note
+    source: |-
+      [^note-33]: A good example of this relation is the quotation in the twelfth letter on the subject regarding the proof of God’s existence.
+    step1: |-
+      [^note-33]: 这一关系的一个好例子，是关于上帝存在之证明的第十二封信中的引用。
+    step2: |-
+      [^note-33]: 这一关系的一个好例子，是关于上帝存在之证明的第十二封信中的引用。

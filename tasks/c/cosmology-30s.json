@@ -2,8 +2,16 @@
   "slug": "cosmology-30s",
   "kind": "retranslate",
   "zh_doc": "c/cosmology-30s.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T22:33:58Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:42Z",
   "version_pin": {
