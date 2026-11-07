@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-07 11:53（UTC）
+生成时间：2026-11-07 14:32（UTC）
 
 ## 总览
 
@@ -14,7 +14,7 @@
 |已建英文基线|1879|
 |已建任务|1024|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|170|
+|已完成（done）|171|
 |在途（drafted 起、done 前）|244|
 |阻塞|0|
 
@@ -22,18 +22,17 @@
 
 |状态|数量|
 |---|---|
-|pending|610|
-|cleared|168|
+|pending|609|
+|cleared|167|
 |drafted|2|
-|s3_checked|73|
-|r1_reviewed|1|
-|done|170|
+|s3_checked|75|
+|done|171|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|49|
+|A|160|160|160|50|
 |B|62|62|62|5|
 |C|172|172|172|3|
 |D|92|92|92|11|
@@ -82,7 +81,7 @@
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
-|auriol|retranslate|r1_reviewed|AB-main-20261106 2026-11-07|
+|arabic-islamic-phil-math|retranslate|cleared|task_ops 2026-11-07|
 |basing-epistemic|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bauer|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -150,7 +149,7 @@
 |childhood|retranslate|s3_checked|主代理 2026-11-01|
 |children|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |chinese-phil-medicine|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
-|chinese-phil-science|retranslate|cleared|task_ops 2026-11-07|
+|chinese-phil-science|retranslate|s3_checked|C-main-20261107 2026-11-07|
 |cloning|retranslate|s3_checked|CD-main-20261106 2026-11-06|
 |cognitive-science|retranslate|s3_checked|主代理 2026-11-01|
 |collingwood-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
@@ -298,7 +297,7 @@
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kumaarila|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
-|moral-responsibility-empirical|retranslate|cleared|task_ops 2026-11-07|
+|moral-responsibility-empirical|retranslate|s3_checked|LMN-main-20261107 2026-11-07|
 |ockham|retranslate|cleared|task_ops 2026-11-07|
 |rationalism-early-modern|retranslate|cleared|task_ops 2026-11-06|
 |social-procedures|retranslate|cleared|task_ops 2026-11-07|
