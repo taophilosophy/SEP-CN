@@ -1,0 +1,50 @@
+{
+  "slug": "william-sherwood",
+  "kind": "retranslate",
+  "zh_doc": "w/william-sherwood.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T01:19:00Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-07T02:50:32Z",
+      "evidence": "方向声明沿用 T–Z 批次立案（零信任重译；主会话直译不用子代理）。本条：账本 57 段（body56+oir1）双版填毕，lq.py check HARD=0（软旗=机械标题段与斜体转书名号），compose 17696 字符；图片本地化为 ../yuanwen/assets/william-sherwood/sherwood-supposition.jpg（资产已核在盘）且 alt 树状图全译。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-07T02:50:32Z",
+      "evidence": "对照核销：节标题 14:14；脚注标记键多重集 src=dst 共 67（含带变音符键 mora-márquez-2015）；文献定义 29:29 键全等；正文 56 段逐段对位。相关词条两处自动映射落空已手工归位：obligationes→中世纪的义务理论、Peter of Spain→西班牙的彼得（彼得·希斯帕努斯）的逻辑（SUMMARY 定名）。人名正形纠正：正文 4 处『奥塞尔的兰贝尔』改 SUMMARY 定名『欧塞尔的兰伯特』。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-07T02:50:32Z",
+      "evidence": "语言校：check_prose 5→2（实修 3：结论谓项/主项去的字链、模态副词长句拆分、『西班牙的彼得的』省略式改写）。余 2 处豁免留痕：de-chain 系人名内含结构所致（西班牙的彼得/巴黎的尼古拉/舍伍德的威廉，地名+人名固定形，强拆反致指认歧义）；check_style --strict 0 issue（已修 16 处单引号包裹拉丁字母触发的 curly-quotes）。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-07T02:50:35Z",
+      "evidence": "体例校：check_style 0 issue、check_academic --strict 0 硬错误、check_math 0/0/0、check_terms 0 硬错误、check_all 七项全绿。术语登记 25 行新入（词项属性/结合/对当方阵/对当六角形/各类指代/被称谓者/词项主义逻辑/直言/可能物/esse actuale/esse diminutum/周延记号/助记诀/归谬还原/限量换位/扬抑抑六音步；欧塞尔的兰伯特/让·布里丹/索尔兹伯里的约翰/普塞洛斯/彼得·伦巴德/苏瓦松的若斯兰），词汇表与池同步，行体例按 6 列重排。"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-07T01:18:59Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 26, 2024",
+    "archive_edition": "Winter 2024",
+    "sha256": "d090fe99431f7fc32b3904581c5d3b5972684a797e41762b1fe60ef39764d09c"
+  }
+}

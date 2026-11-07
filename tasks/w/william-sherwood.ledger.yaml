@@ -1,0 +1,492 @@
+version: 1
+slug: william-sherwood
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      William of Sherwood (Guilelmus, Willelmus, Schyrwode, Shirwode, Shyreswode, and others) was a 13th century English logician who taught at the University of Paris and who worked in the Realist tradition of logic. His *Introduction to Logic*, written in the middle of the century, was one of the four most influential textbooks on logics in the 13th century, along with Lambert of Auxerre’s *Summary*, Roger Bacon’s *Art and Science of Logic*, and Peter of Spain’s *Summaries of Logic*. Roger Bacon in his *Opus tertium* (1267) singles Sherwood out for high praise, describing him as “much wiser than Albert [the Great]; for in *philosophia communis* no one is greater than he” (Kretzmann 1966, pp. 5–6; Kretzmann 1968, pp. 3–4)[^kretzmann-1966][^kretzmann-1968].
+    step1: |-
+      舍伍德的威廉（Guilelmus、Willelmus、Schyrwode、Shirwode、Shyreswode 等）是 13 世纪英格兰逻辑学家，曾在巴黎大学任教，属于逻辑学中的实在论传统。他在本世纪中叶写成的《逻辑导论》，是与奥塞尔的兰贝尔《纲要》、罗吉尔·培根《逻辑的技艺与科学》以及西班牙的彼得《逻辑摘要》并列的 13 世纪最有影响的四部逻辑教科书之一。罗吉尔·培根在《第三著作》（1267）中单独点名称赞舍伍德，称他“比阿尔伯特[大帝]高明得多；因为在 *philosophia communis*（共同哲学）中无人比他更伟大”（Kretzmann 1966, pp. 5–6；Kretzmann 1968, pp. 3–4）[^kretzmann-1966][^kretzmann-1968]。
+    step2: |-
+      舍伍德的威廉（Guilelmus、Willelmus、Schyrwode、Shirwode、Shyreswode 等拼法）是 13 世纪的英格兰逻辑学家，任教于巴黎大学，站在逻辑学的实在论传统一边。他于世纪中叶写下的《逻辑导论》，是 13 世纪影响最大的四部逻辑教科书之一，与之并列的还有奥塞尔的兰贝尔《纲要》、罗吉尔·培根《逻辑的技艺与科学》和西班牙的彼得《逻辑摘要》。罗吉尔·培根在《第三著作》（1267）里单单把他挑出来大加称许，说他“比阿尔伯特[大帝]高明得多；因为在 *philosophia communis*（共同哲学）上，无人出其右”（Kretzmann 1966, pp. 5–6；Kretzmann 1968, pp. 3–4）[^kretzmann-1966][^kretzmann-1968]。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life and writing
+    step1: |-
+      ## 1 生平与著述
+    step2: |-
+      ## 1 生平与著述
+  - id: 3
+    kind: body
+    source: |-
+      William of Sherwood was born between 1200 and 1205, probably in Nottinghamshire, and died between 1266 and 1272. His school career is uncertain, but given references to his works and his influence on people such as Peter of Spain, Lambert of Auxerre, Albert the Great, and Thomas Aquinas, it is likely that he was teaching logic at the University of Paris between 1235 and 1250. After that period, he seems to have left logic. He was a master at Oxford in 1252 and treasurer of the cathedral of Lincoln about two years later; still later, he was rector at Aylesbury, in Buckinghamshire, and Attleborough, in Norfolk. He was still alive in 1266 but dead by 1272 (Kretzmann 1968, p. 3)[^kretzmann-1968].
+    step1: |-
+      舍伍德的威廉生于 1200 至 1205 年之间，大概在诺丁汉郡，卒于 1266 至 1272 年之间。他的求学经历不确定，但鉴于其著作的引用情况以及他对西班牙的彼得、奥塞尔的兰贝尔、大阿尔伯特和托马斯·阿奎那等人的影响，他很可能在 1235 至 1250 年间在巴黎大学讲授逻辑。此后，他似乎离开了逻辑学。1252 年他是牛津的一名教师，约两年后任林肯大教堂司库；再往后，他先后任白金汉郡艾尔斯伯里和诺福克郡阿特尔伯勒的教区长。1266 年他仍在世，至 1272 年已去世（Kretzmann 1968, p. 3）[^kretzmann-1968]。
+    step2: |-
+      舍伍德的威廉约生于 1200—1205 年间，出生地大概在诺丁汉郡，卒于 1266—1272 年间。他的求学经历已难考实；不过，从其著作屡被征引、又影响了西班牙的彼得、奥塞尔的兰贝尔、大阿尔伯特与托马斯·阿奎那等人来看，1235—1250 年间他多半在巴黎大学讲逻辑。此后他似乎告别了逻辑。1252 年他在牛津任硕士（教师），两年上下之后出任林肯大教堂司库；更晚又先后任白金汉郡艾尔斯伯里、诺福克郡阿特尔伯勒两地的教区长。1266 年他尚在人世，1272 年已不在了（Kretzmann 1968, p. 3）[^kretzmann-1968]。
+  - id: 4
+    kind: body
+    source: |-
+      Part of the difficulty with establishing his biography is that he has previously been conflated with various other 13th-century Englishmen named William, such as William of Leicester (d. 1213) and William of Durham (d. 1249) (cf. Grabmann 1937, pp. 11–13; Kretzmann 1966, p. 3; Mullinger 1873, p. 177)[^grabmann-1937][^kretzmann-1966][^mullinger-1873]. He has also sometimes been identified with others bearing the same surname, such as the author of commentary, now lost, on the *Sentences* of Peter Lombard with the title *Shirovodus super sententias*, a work that was known to John Leland in the 16th century (Kretzmann 1966, p. 12)[^kretzmann-1966], or Ricardus de Schirewode, who wrote a treatise on insolubles surviving in Cambridge, St John’s MS 100. This confusion, along with the usual problems presented by anonymous material, makes it difficult to identify William’s works with certainty.
+    step1: |-
+      确立其生平之所以困难，部分原因在于他先前一直被混同于其他一些名为威廉的 13 世纪英格兰人，例如莱斯特的威廉（卒于 1213 年）和达勒姆的威廉（卒于 1249 年）（参见 Grabmann 1937, pp. 11–13；Kretzmann 1966, p. 3；Mullinger 1873, p. 177）[^grabmann-1937][^kretzmann-1966][^mullinger-1873]。他有时还被认定是另一些同姓者，例如一部今已佚失的、题为《舍伍德注〈箴言四书〉》的彼得·伦巴德《箴言四书》评注的作者——该作品在 16 世纪尚为约翰·利兰所知（Kretzmann 1966, p. 12）[^kretzmann-1966]——或写有一部论不可解命题的论文、今存剑桥圣约翰学院 MS 100 的里卡德·德·希雷伍德。这种混淆，加上匿名材料惯有的问题，使人难以确凿认定威廉的著作。
+    step2: |-
+      生平难考，一半是因为他长期以来被同其他一些同名的 13 世纪英格兰人混为一谈，如莱斯特的威廉（卒于 1213 年）、达勒姆的威廉（卒于 1249 年）（参 Grabmann 1937, pp. 11–13；Kretzmann 1966, p. 3；Mullinger 1873, p. 177）[^grabmann-1937][^kretzmann-1966][^mullinger-1873]。他有时还被认作同姓的其他人：或是彼得·伦巴德《箴言四书》一部今已佚失评注（题作《舍伍德注〈箴言四书〉》）的作者——16 世纪的约翰·利兰尚知此书（Kretzmann 1966, p. 12）[^kretzmann-1966]；或是写过一篇论不可解命题的论文、今存剑桥圣约翰学院 MS 100 的里卡德·德·希雷伍德。这类混淆，再添上匿名文献常见的老难题，叫人很难把哪些著作确凿归到威廉名下。
+  - id: 5
+    kind: body
+    source: |-
+      Two works can be confidently ascribed to Sherwood, an *Introduction to Logic* and a treatise on syncategorematic terms, the *Syncategoremata*. The *Introduction* survives in complete form in only one manuscript, Bibliothèque Nationale MS. Lat. 16,617, from the late 13th or 14th century, which begins with the heading *Introductiones Magistri Guilli. de Shyreswode in logicam*, “Introduction to Logic of Master William of Sherwood”. The *Syncategoremata* immediately follows, and is likewise explicitly attributed to Sherwood. The *Syncategoremata* also survives in a second manuscript, Bodleian MS Digby 55, where it is again explicitly labeled, *Sincategoreumata Magistri Willielmi de Sirewode* “[Treatise on] Syncategorematics of Master William of Sherwood”, and Chapter Five of the *Introduction* survives in a second manuscript, MS Worcester Cath. Q. 13, written around 1293/94, and edited by Pinborg & Ebbesen (1984).
+    step1: |-
+      有两部著作可以确凿归于舍伍德：一部《逻辑导论》和一部论非范畴词的论文《非范畴词论》。《导论》全篇仅存于一份手稿，即 13 世纪末或 14 世纪的法国国家图书馆 MS Lat. 16,617，其开头标题为 *Introductiones Magistri Guilli. de Shyreswode in logicam*（“舍伍德的威廉导师的《逻辑导论》”）。《非范畴词论》紧随其后，同样被明确归于舍伍德。《非范畴词论》还见于第二份手稿博德利图书馆 MS Digby 55，其中它也明确标为 *Sincategoreumata Magistri Willielmi de Sirewode*（“舍伍德的威廉导师的《非范畴词论》”）；而《导论》第五章另存于约 1293/94 年写成的伍斯特座堂手稿 MS Q. 13，由 Pinborg 与 Ebbesen 编辑（1984）。
+    step2: |-
+      可以确凿归于舍伍德的著作有两部：一部《逻辑导论》和一部论非范畴词的论文《非范畴词论》。《导论》全篇仅存一份手稿，即约 13 世纪末或 14 世纪的法国国家图书馆 MS Lat. 16,617；其标题为 *Introductiones Magistri Guilli. de Shyreswode in logicam*（“舍伍德的威廉导师《逻辑导论》”）。紧接其后的是《非范畴词论》，同样明确署名舍伍德。《非范畴词论》另见于博德利图书馆 MS Digby 55，标题同样明确：*Sincategoreumata Magistri Willielmi de Sirewode*（“舍伍德的威廉导师《非范畴词论》”）。《导论》第五章则另存于约 1293/94 年抄写的伍斯特座堂手稿 MS Q. 13，由 Pinborg 与 Ebbesen 编辑刊行（1984）。
+  - id: 6
+    kind: body
+    source: |-
+      The *Introduction* was almost certainly written while William was lecturing on logic at the University of Paris; Ebbesen (2020, fn. 6) argues it probably dates from the 1230s. It was first edited by Grabmann (1937) and translated into English by Kretzmann (1966). A new critical edition was produced by Brands and Kann (1995), accompanied by a translation into German. It has been argued (Mullinger 1873, p. 177)[^mullinger-1873] that this book was heavily influenced by a *Synopsis* treatise written by the 11th-century Byzantine logician Michael Constantine Psellus. The *Introduction* contains the first appearance of the syllogistic mnemonic verse ‘Barbara, Celarent…’, which Augustus de Morgan described as “magic words … more full of meaning than any that ever were made”, and Sherwood may even have been the inventor of the verse, though references to individual names appear earlier (Kretzmann 1966, pp. 66–67)[^kretzmann-1966].
+    step1: |-
+      《导论》几乎可以肯定写于威廉在巴黎大学讲授逻辑期间；Ebbesen（2020, fn. 6）论证它可能成于 1230 年代。它最初由 Grabmann（1937）编辑，由 Kretzmann（1966）译成英语。Brands 与 Kann（1995）产出新的校勘本，并附德译。有人论证（Mullinger 1873, p. 177）[^mullinger-1873]此书深受 11 世纪拜占庭逻辑学家迈克尔·康斯坦丁·普塞洛斯一部《纲要》论著的影响。《导论》包含三段论助记诀“Barbara, Celarent…”的首次出现，奥古斯都·德摩根曾形容这些词是“有魔力的词……比任何曾经造出的词都更充满意义”，舍伍德甚至可能就是这一助记诀的发明者，不过对各个专名的引用出现得更早（Kretzmann 1966, pp. 66–67）[^kretzmann-1966]。
+    step2: |-
+      《导论》几乎可以肯定写于威廉在巴黎大学讲逻辑之时；Ebbesen（2020, fn. 6）论证其成书当在 1230 年代。此书最初由 Grabmann 编辑刊行（1937），Kretzmann 将其译成英文（1966）；Brands 与 Kann（1995）出了新的校勘本，附德译。有人认为（Mullinger 1873, p. 177）[^mullinger-1873]，此书深受 11 世纪拜占庭逻辑学家米哈伊尔·康斯坦丁·普塞洛斯一部《纲要》式论著的影响。《导论》首次记下了那条三段论助记诀“Barbara, Celarent…”，奥古斯都·德摩根形容它是“有魔力的词……比任何曾经造出的词都更充满意义”；舍伍德甚至可能就是这条诀的发明人，尽管其中各个专名更早已见于文字（Kretzmann 1966, pp. 66–67）[^kretzmann-1966]。
+  - id: 7
+    kind: body
+    source: |-
+      Sherwood’s treatise on syncategorematic terms has long been held to be if not the earliest such treatise, then the earliest still accessible (Boehner 1952, p. 7)[^boehner-1952]. The text was first edited by O’Donnell (1941), and this edition along with the Paris MS was the basis of Kretzmann’s 1968 translation into English. O’Donnell’s edition has since been superseded by the critical edition of Kann and Kirchhoff (2012), which also includes a translation into German. Kirchhoff (2008) is an extensive discussion and commentary on the *Syncategormeta*.
+    step1: |-
+      舍伍德的非范畴词论文长期被认为即便不是最早的此类论文，也是最早尚可寓目的论文（Boehner 1952, p. 7）[^boehner-1952]。该文本最初由 O'Donnell（1941）编辑，这一版本连同巴黎手稿构成了 Kretzmann 1968 年英译的底本。O'Donnell 的版本后来被 Kann 与 Kirchhoff（2012）的校勘本取代，后者也附德译。Kirchhoff（2008）是对《非范畴词论》的详尽讨论与评注。
+    step2: |-
+      舍伍德这部非范畴词论文，长期以来被认作：即便不是此类论文中最早的，至少也是最早仍可寓目的一部（Boehner 1952, p. 7）[^boehner-1952]。文本最初由 O'Donnell 编辑（1941）；这一版本连同巴黎手稿，正是 Kretzmann 1968 年英译的底本。O'Donnell 本后来为 Kann 与 Kirchhoff 的校勘本（2012）所取代，后者同样附德译。Kirchhoff（2008）则是对《非范畴词论》的详尽讨论与评注。
+  - id: 8
+    kind: body
+    source: |-
+      Three other logical treatises follow the *Introductiones* and the *Syncategoremata* in the Paris manuscript, which have as a result been tentatively attributed to Sherwood. The first is a treatise on insolubles, ff. 46–54, edited by Roure (1970), and the second a treatise on *obligationes* found in Paris, Bibl. Nat. 16617. This text was edited by Green (1963), who tentatively attributed it to Sherwood. The third is the text *Petitiones Contrariorum*, edited by de Rijk (1976), covering puzzles arising from hidden contradictions in sets of premises. Sherwood may also be the author of the *Fallaciae magistri Willelmi* “Fallacies, of Master William” preserved in British Museum, King’s Library MS 9 E XII, as well as the treatise ascribed to Richard of Sherwood noted above.
+    step1: |-
+      巴黎手稿中还有另外三部逻辑论文紧随《逻辑导论》与《非范畴词论》之后，因此有人暂把它们归于舍伍德。第一部是论不可解命题的论文，见 ff. 46–54，由 Roure（1970）编辑；第二部是见于巴黎 Bibl. Nat. 16617 的义务理论论文，由 Green（1963）编辑，他暂将其归于舍伍德。第三部是《相反者的请求》，由 de Rijk（1976）编辑，涉及隐藏于前提集之中的矛盾所引发的难题。舍伍德也可能是藏于不列颠博物馆国王图书馆 MS 9 E XII 的《威廉导师的谬误论证》的作者，以及上文提到的归于里卡德·德·舍伍德名下那部论文的作者。
+    step2: |-
+      在巴黎手稿里，《逻辑导论》与《非范畴词论》之后还跟着三部逻辑论文，故有人暂且把它们归于舍伍德。其一为论不可解命题的论文（ff. 46–54），Roure 编辑（1970）；其二为见于巴黎 Bibl. Nat. 16617 的义务理论论文，Green 编辑（1963）并暂归舍伍德；其三为《相反者的请求》，de Rijk 编辑（1976），讨论前提集中隐匿矛盾所生的种种难题。藏于不列颠博物馆国王图书馆 MS 9 E XII 的《威廉导师的谬误论证》，以及上文归于里卡德·德·舍伍德名下的那篇论文，作者也可能是他。
+  - id: 9
+    kind: body
+    source: |-
+      Three further treatises have previously also been attributed to Sherwood, but the evidence for their attribution is less clear: the commentary on the *Sentences* of Peter Lombard noted above, a *Distictiones theologicae*, and a *Concionces*, or collection of sermons (Kretzmann 1968, p. 4)[^kretzmann-1968].
+    step1: |-
+      另有三部论文此前也曾归于舍伍德，但归属的证据不那么清楚：上面提到的彼得·伦巴德《箴言四书》评注、一部《神学辨析集》，以及一部《布道集》即布道文汇编（Kretzmann 1968, p. 4）[^kretzmann-1968]。
+    step2: |-
+      此外还有三部论文曾归于舍伍德名下，但证据不那么扎实：前述彼得·伦巴德《箴言四书》评注、一部《神学辨析集》，以及一部《布道集》，即布道文汇编（Kretzmann 1968, p. 4）[^kretzmann-1968]。
+  - id: 10
+    kind: body
+    source: |-
+      ## 2. Doctrinal context
+    step1: |-
+      ## 2 学说语境
+    step2: |-
+      ## 2 学说语境
+  - id: 11
+    kind: body
+    source: |-
+      Along with Peter of Spain, Lambert of Auxerre, and Roger Bacon, William of Sherwood was one of the first terminist logicians, working in a context where the newly discovered and translated Aristotelian material of the 12th century had become fully integrated into the logical and philosophical curricula through the works of people such as John le Page (Uckelman & Lagerlund, 2016). The terminist period of logic was marked by the development of logical genres and techniques that go beyond Aristotle and mere commentaries on his works. The two primary branches of terminist logic are the study of the properties of terms and the study of the meaning and function of syncategorematic words. Sherwood’s *Introduction* picks up the first of these two branches in its fifth chapter (the most interesting chapter of the *Introduction*), and his *Syncategoremata* deals with the second. The remainder of the *Introductiones* is devoted to the standard Aristotelian material: Chapter One on statements corresponds to *On Interpretation*; Chapter Two on predicables to the *Categories*; Chapter Three on syllogisms to the *Prior Analytics*; Chapter Four on dialectical reasoning to the *Topics*; and Chapter Six on sophistical reasoning to the *Sophistical Refutations*. We will focus our attention in this article on the unusual or distinctive aspects of his logical and semantic theory, primarily found in Chapter Five of the *Introduction* and in the *Syncategoremata*.
+    step1: |-
+      与西班牙的彼得、奥塞尔的兰贝尔和罗吉尔·培根一道，舍伍德的威廉是最早的词项主义逻辑学家之一；他们所处的语境是，12 世纪新发现并翻译的亚里士多德材料，经由约翰·勒佩奇等人的著作，已完全融入逻辑与哲学课程（Uckelman & Lagerlund, 2016）。词项主义时期的逻辑以发展出超出亚里士多德及其单纯评注的逻辑体裁与技巧为标志。词项逻辑的两大主要分支，一是对词项特性的研究，二是对非范畴词的意义与功能的研究。舍伍德的《导论》在其第五章（全篇最有趣的章节）处理前一分支，其《非范畴词论》处理后一分支。《导论》其余部分则用于处理标准的亚里士多德材料：第一章论语句，对应《解释篇》；第二章论谓项，对应《范畴篇》；第三章论三段论，对应《前分析篇》；第四章论辩证推理，对应《论题篇》；第六章论诡辩推理，对应《辨谬篇》。本文将把注意力集中在他的逻辑与语义理论中不寻常或有特色的方面，主要见于《导论》第五章与《非范畴词论》。
+    step2: |-
+      与西班牙的彼得、奥塞尔的兰贝尔、罗吉尔·培根并列，舍伍德的威廉是最早一批词项主义逻辑学家；在他们所处的语境里，12 世纪新发现并译出的亚里士多德材料，经约翰·勒佩奇等人的著述，已完全融入逻辑与哲学课程（Uckelman & Lagerlund, 2016）。词项主义时期的特点，是发展出一批超出亚里士多德、也超出单纯评注的逻辑体裁与技术。词项逻辑两大主干：一是研究词项特性，二是研究非范畴词的意义与功能。舍伍德的《导论》在第五章（全篇最有趣的一章）处理前者，其《非范畴词论》处理后者。《导论》其余各章则处理标准亚里士多德材料：第一章论语句，对应《解释篇》；第二章论谓项，对应《范畴篇》；第三章论三段论，对应《前分析篇》；第四章论辩证推理，对应《论题篇》；第六章论诡辩推理，对应《辨谬篇》。本文着重谈其逻辑与语义理论中不寻常、有特色的方面，主要见于《导论》第五章与《非范畴词论》。
+  - id: 12
+    kind: body
+    source: |-
+      ## 3. Semantic theory
+    step1: |-
+      ## 3 语义理论
+    step2: |-
+      ## 3 语义理论
+  - id: 13
+    kind: body
+    source: |-
+      ### 3.1. Properties of terms
+    step1: |-
+      ### 3.1 词项特性
+    step2: |-
+      ### 3.1 词项特性
+  - id: 14
+    kind: body
+    source: |-
+      The theory of the properties of terms forms the basis of medieval semantic theory and provides an account of how terms function within the broader context of sentences, as well as how these different functions can account for the different rules governing inference. Sherwood identifies the four main properties of terms as (1) signification; (2) supposition; (3) copulation; and (4) appellation (Kretzmann 1966, p. 105)[^kretzmann-1966]. In this classification he differs from other accounts which mention (1) signification; (2) supposition and copulation; (3) ampliation and restriction; (4) appellation; and (5) relation.
+    step1: |-
+      词项特性理论构成中世纪语义理论的基础，它说明词项在语句这一更广语境中如何起作用，以及这些不同作用如何解释支配推理的不同规则。舍伍德把词项的四种主要特性确定为（1）意谓；（2）指代；（3）结合；（4）称谓（Kretzmann 1966, p. 105）[^kretzmann-1966]。在这一分类上，他有别于其他说法，后者提到的是（1）意谓；（2）指代与结合；（3）扩展与限制；（4）称谓；（5）关系。
+    step2: |-
+      中世纪语义理论以词项特性学说为基础：它说明词项在语句这一更大语境中怎样起作用，也说明这些不同作用如何解释各类支配推理的规则。舍伍德把词项的主要特性列为四种：（1）意谓；（2）指代；（3）结合；（4）称谓（Kretzmann 1966, p. 105）[^kretzmann-1966]。这一分类不同于另一种流行说法——后者列出的是（1）意谓；（2）指代与结合；（3）扩展与限制；（4）称谓；（5）关系。
+  - id: 15
+    kind: body
+    source: |-
+      Sherwood defines ‘signification’ as “a presentation of the form of something to the understanding”, a definition harking back to 12th-century semantic theory (Kretzmann 1966, p. 105, fn. 2)[^kretzmann-1966]. Supposition and copulation are symmetrically related to each other; ‘supposition’ is “an ordering of the understanding of something under something else” while ‘copulation’ is “an ordering of the understanding of something over something else” (Kretzmann 1966, p. 105)[^kretzmann-1966]. Only substantive nouns, pronouns, and definite descriptions can have supposition, while only adjectives, participles, and verbs can have copulation (Kretzmann 1966, p. 106)[^kretzmann-1966].
+    step1: |-
+      舍伍德把“意谓”定义为“把某物的形式呈现给理解力”，这一定义上承 12 世纪的语义理论（Kretzmann 1966, p. 105, fn. 2）[^kretzmann-1966]。指代与结合彼此对称相关；“指代”是“把对某物的理解置于另一物之下的一种安排”，而“结合”是“把对某物的理解置于另一物之上的一种安排”（Kretzmann 1966, p. 105）[^kretzmann-1966]。只有实词名词、代词和限定摹状词可以有指代，而只有形容词、分词和动词可以有结合（Kretzmann 1966, p. 106）[^kretzmann-1966]。
+    step2: |-
+      舍伍德将“意谓”界说为“把某物的形式呈交理解力”，此说上承 12 世纪语义理论（Kretzmann 1966, p. 105, fn. 2）[^kretzmann-1966]。指代与结合则互为对称：“指代”是“把对某物的理解置于另一物之下的一种安排”，“结合”是“把对某物的理解置于另一物之上的一种安排”（Kretzmann 1966, p. 105）[^kretzmann-1966]。能有指代的，只有实体名词、代词和限定摹状词；能有结合的，只有形容词、分词和动词（Kretzmann 1966, p. 106）[^kretzmann-1966]。
+  - id: 16
+    kind: body
+    source: |-
+      Finally, ‘appellation’ is “the present correct application of a term — i.e., the property with respect to which what the term signifies can be said of something through the use of the verb ‘is’” (Kretzmann 1966, p. 106)[^kretzmann-1966]. That is, the *appellata* of a term are the presently existing things of which the term can currently be truly predicated. Appellation is between supposition and copulation: Substantive nouns, adjectives, and participles can have appellation, but pronouns and verbs cannot (Kretzmann 1966, p. 106)[^kretzmann-1966].
+    step1: |-
+      最后，“称谓”是“一个词项在当下的正确施用——即，凭借它，该词项所意谓的东西可以通过动词‘是’的用法而被说成属于某物的那种特性”（Kretzmann 1966, p. 106）[^kretzmann-1966]。也就是说，一个词项的*被称谓者*，是该词项当前能够真正断言于其上的、当下存在的事物。称谓介于指代与结合之间：实词名词、形容词和分词可以有称谓，但代词和动词不能（Kretzmann 1966, p. 106）[^kretzmann-1966]。
+    step2: |-
+      最后是“称谓”：“一个词项在当下的正确施用，即这样一种特性——凭借它，词项所意谓的东西能借动词‘是’而被说成属于某物”（Kretzmann 1966, p. 106）[^kretzmann-1966]。换句话说，一个词项的*被称谓者*，就是当下实存、且该词项此刻能真正断言于其上的那些事物。称谓夹在指代与结合之间：实体名词、形容词、分词都可有称谓，代词与动词则不能（Kretzmann 1966, p. 106）[^kretzmann-1966]。
+  - id: 17
+    kind: body
+    source: |-
+      The central notion of these three is supposition, and the majority of the chapter is devoted to the division of supposition into its various kinds:
+    step1: |-
+      这三者的核心概念是指代，本章大部分篇幅用于把指代划分为各种类型：
+    step2: |-
+      三者之中，核心在指代；本章大半篇幅都在把指代分成各类：
+  - id: 18
+    kind: body
+    source: |-
+      ![Tree diagram: At the top is Supposition with 2 branches: Material and Formal; Formal has 2 branches: Simple and Personal; Simple has 3 leaves: Manerial, Reduplicative, and Unfixed; Personal has 2 branches: Determinate and Confused; Confused has 2 branches: Merely confused and Distributive confused; Distributive confused has 2 leaves: Mobile and Immobile.](../assets/william-sherwood/sherwood-supposition.jpg)
+    step1: |-
+      ![树状图：顶端为指代，分两支：质料指代与形式指代；形式指代分两支：简单指代与人称指代；简单指代有三叶：manerial 指代、重言指代与不定指代；人称指代分两支：确定指代与混淆指代；混淆指代分两支：纯混淆指代与周延混淆指代；周延混淆指代有两叶：可动与不可动。](../yuanwen/assets/william-sherwood/sherwood-supposition.jpg)
+    step2: |-
+      ![树状图：顶层是指代，下分质料指代与形式指代两支；形式指代下分简单指代与人称指代两支；简单指代生出三叶——manerial 指代、重言指代、不定指代；人称指代下分确定指代与混淆指代两支；混淆指代又分纯混淆指代与周延混淆指代；周延混淆指代再结两叶——可动与不可动。](../yuanwen/assets/william-sherwood/sherwood-supposition.jpg)
+  - id: 19
+    kind: body
+    source: |-
+      For a discussion of most of the notions in this division as well as a comparison of Sherwood’s views to those of his 13th-century contemporaries and his 14th-century posterity, see the entry on medieval theories: properties of terms. We briefly comment on two distinctive aspects of Sherwood’s supposition theory.
+    step1: |-
+      关于这一划分中的大多数概念，以及舍伍德的观点与其 13 世纪同代人及 14 世纪后学的比较，参见论中世纪词项特性理论的词条。我们简要评论舍伍德指代理论的两个特色方面。
+    step2: |-
+      这一划分中的多数概念，以及舍伍德与 13 世纪同人、14 世纪后学的异同，可参见论中世纪词项特性理论的词条。这里只简评其指代理论的两个特色。
+  - id: 20
+    kind: body
+    source: |-
+      The first is the inclusion of ‘manerial’ supposition, a type which does not appear outside of Sherwood. Some have considered *manerialis* an error for *materialis*, and considered Sherwood to have been talking here about material supposition (Grabmann 1937)[^grabmann-1937]. However, the manuscript shows *n* rather than *t*, and the type of supposition is not the same as the material supposition, which is distinguished from formal supposition, but is itself a type of formal supposition. Sherwood says that manerial supposition is a type of simple supposition in which “a word can be posited for its *significatum* without any connection with things”, and he gives as an example “Man is a species”. The explanation is that this is manerial supposition because ‘man’ “supposits for the specific character in itself” (Kretzmann 1966, p. 111)[^kretzmann-1966]. The notion of *maneries* meaning ‘character, way, mode, manner’ can be found in 12th-century discussions of universals; for example, John of Salisbury notes that Joscelin, Bishop of Soissons, says that sometimes the words *genus* and *species* “are to be understood as things of a universal kind” and sometimes he “interprets them as modes (*maneries*) of things” (Hall, Book II, ch. 17, p. 84). John says he does not know where Joscelin got such a distinction, but it occurs in Abelard and in the 12th-century *Fallacie Parvipontane* (Hall, Book II, ch. 17, p. 84, fnn. a, b; de Rijk 1962, pp. 139, 562)[^rijk-1962].
+    step1: |-
+      第一个是“manerial”指代的纳入，这一类型在舍伍德之外未曾出现。有人认为 *manerialis* 是 *materialis* 的讹写，认为舍伍德在此谈的是质料指代（Grabmann 1937）[^grabmann-1937]。然而，手稿上是 *n* 而非 *t*，而且这一指代类型并不等同于质料指代——质料指代与形式指代相区分，但它本身又是形式指代的一种。舍伍德说，manerial 指代是简单指代的一种，其中“一个词可以不与事物有任何关联而被设定为其*所意谓者*”，他给出的例子是“人是种”。解释是：这是 manerial 指代，因为“人”一词“为其自身中的种性而指代”（Kretzmann 1966, p. 111）[^kretzmann-1966]。*maneries* 一词意为“性质、方式、样式、做法”，可见于 12 世纪关于共相的讨论；例如，索尔兹伯里的约翰指出，苏瓦松主教若斯兰说，*genus* 与 *species* 两个词有时“应被理解为普遍种类的事物”，有时他“把它们解释为事物的样式（*maneries*）”（Hall, Book II, ch. 17, p. 84）。约翰说他不知道若斯兰从哪里得到这一区分，但它见于阿伯拉尔，也见于 12 世纪的《小桥谬误论》（Hall, Book II, ch. 17, p. 84, fnn. a, b；de Rijk 1962, pp. 139, 562）[^rijk-1962]。
+    step2: |-
+      第一个特色是纳入“manerial”指代，此类型在舍伍德之外不见。有人以为 *manerialis* 是 *materialis* 的讹写，因而认为他讲的其实是质料指代（Grabmann 1937）[^grabmann-1937]。可是手稿上写的是 *n* 而非 *t*；何况这种指代同质料指代并不相同——质料指代与形式指代相对，而它本身又是形式指代的一类。舍伍德说，manerial 指代是简单指代的一种，其中“一个词可以完全脱离事物而被设定为其*所意谓者*”；他举的例子是“人是种”。解释说：这属于 manerial 指代，因为“人”一词“为其自身之中的种性而指代”（Kretzmann 1966, p. 111）[^kretzmann-1966]。*maneries* 意为“性质、方式、样式、做法”，12 世纪讨论共相时已见其踪。例如索尔兹伯里的约翰提到，苏瓦松主教若斯兰说，*genus* 与 *species* 二词有时“该理解为普遍种类的事物”，有时他又“把它们解释为事物的样式（*maneries*）”（Hall, Book II, ch. 17, p. 84）。约翰自称不知若斯兰此说从何而来；但它在阿伯拉尔那里出现过，也见于 12 世纪的《小桥谬误论》（Hall, Book II, ch. 17, p. 84, fnn. a, b；de Rijk 1962, pp. 139, 562）[^rijk-1962]。
+  - id: 21
+    kind: body
+    source: |-
+      The second is his treatment of singular (also called ‘discrete’) terms, such as proper names or demonstrative phrases like ‘this cat’. Such terms were often omitted from explicit consideration in treatises on supposition, or were mentioned but ultimately excluded (Brumberg-Chaumont 2013, p. 173)[^brumberg-chaumont-2013]. Sherwood, on the other hand, recognizes that singular terms can have both simple supposition as well as personal supposition (Brumberg-Chaumont 2013, p. 174)[^brumberg-chaumont-2013]; this makes him “the only logician to take on all the implications of this position [that discrete supposition is a type of personal supposition] and to attribute to discrete terms a real capacity for semantic variation” (Brumberg-Chaumont 2013, pp. 184–185)[^brumberg-chaumont-2013].
+    step1: |-
+      第二个是他对单称（又称“离散”）词项的处理，例如专名或“这只猫”这样的指示短语。这类词项在论指代的论文中常被略去不予考虑，或者虽被提及却最终排除在外（Brumberg-Chaumont 2013, p. 173）[^brumberg-chaumont-2013]。舍伍德则承认，单称词项既能有简单指代，也能有人称指代（Brumberg-Chaumont 2013, p. 174）[^brumberg-chaumont-2013]；这使他成为“唯一一位承担了这一立场[离散指代是人称指代的一种]的全部蕴含、并赋予离散词项真正语义变化能力的逻辑学家”（Brumberg-Chaumont 2013, pp. 184–185）[^brumberg-chaumont-2013]。
+    step2: |-
+      第二个特色是他对单称词项（又称“离散”词项）的处理，如专名或“这只猫”之类的指示短语。此类词项在论指代的著作里常被略过不提，或者提了之后又排除在外（Brumberg-Chaumont 2013, p. 173）[^brumberg-chaumont-2013]。舍伍德却承认，单称词项既能作简单指代，也能作人称指代（Brumberg-Chaumont 2013, p. 174）[^brumberg-chaumont-2013]；这使他成为“唯一一位把这一立场[离散指代属人称指代]的全部蕴含都担当起来、并赋予离散词项真正语义变化能力的逻辑学家”（Brumberg-Chaumont 2013, pp. 184–185）[^brumberg-chaumont-2013]。
+  - id: 22
+    kind: body
+    source: |-
+      ### 3.2. Semantics of universal affirmatives
+    step1: |-
+      ### 3.2 全称肯定命题的语义学
+    step2: |-
+      ### 3.2 全称肯定命题的语义学
+  - id: 23
+    kind: body
+    source: |-
+      Statements are composed of two types of parts: principal and secondary. The principal parts of a statement are the nouns and verbs, that is, the subjects and predicates whose properties are the focus of the first branch of terminist logic. The secondary parts are those that remain: “the adjectival name, the adverb, and conjunctions and prepositions, for they are not necessary for the statement’s being” (Kretzmann 1968, p. 13)[^kretzmann-1968]. These are words which do not have signification in themselves, but only in conjunction with other significative words, namely the subject and predicate (Kretzmann 1966, p. 24)[^kretzmann-1966]. Because these words do not have signification in themselves, they do not have any of the usual properties of terms — supposition, copulation, and ampliation. Nevertheless, they still have a significative function. Explaining this function is the focus of Sherwood’s treatise on syncategorematic terms.
+    step1: |-
+      语句由两类部分构成：主要部分与次要部分。语句的主要部分是名词与动词，即其特性构成词项逻辑第一分支之焦点的主语与谓语。次要部分是余下的部分：“形容词性的名称、副词，以及连词和介词，因为它们对语句的存在并非必需”（Kretzmann 1968, p. 13）[^kretzmann-1968]。这些词本身没有意谓，只有在与其他有意谓的词即主语和谓语相结合时才有（Kretzmann 1966, p. 24）[^kretzmann-1966]。由于这些词本身没有意谓，它们不具有词项的通常特性——指代、结合和扩展。然而它们仍然具有一种意谓功能。解释这一功能，正是舍伍德非范畴词论文的焦点。
+    step2: |-
+      语句由两类部分合成：主要部分与次要部分。主要部分是名词与动词，也就是主语与谓语——词项逻辑第一分支所关注的，正是它们的特性。次要部分即其余者：“形容词性的名称、副词，以及连词与介词，因为它们并非语句存在所必需”（Kretzmann 1968, p. 13）[^kretzmann-1968]。这些词本身没有意谓，唯与有意谓的主语、谓语连用时才有（Kretzmann 1966, p. 24）[^kretzmann-1966]。既无自身意谓，它们便不具备词项的通常特性——指代、结合与扩展；但它们仍有一种意谓功能。说明这种功能，正是舍伍德非范畴词论文的宗旨。
+  - id: 24
+    kind: body
+    source: |-
+      It is in this treatise that we can see evidence for what some have said is a distinctively English approach to syncategorematic terms (Uckelman & Lagerlund 2016)[^uckelman-2016]. Sherwood and his English contemporary Roger Bacon both consider distributive terms such as ‘every’ to be syncategorematic, while in continental works such as those by John le Page, Peter of Spain, and Nicholas of Paris, distributive terms are usually considered in summary treatises in the chapter on distribution (a chapter found in no English summary) (Braakhuis 1981, pp. 138–139)[^braakhuis-1981]. In his consideration of ‘every’, Sherwood argues that propositions involving ‘all’ require that there be at least three things for which the predicate term truly stands:
+    step1: |-
+      正是在这篇论文中，我们可以看到有人所谓的对待非范畴词的一种独特英格兰进路（Uckelman & Lagerlund 2016）[^uckelman-2016]。舍伍德与其英格兰同代人罗吉尔·培根都把“每个”这样的周延词项视为非范畴词；而在约翰·勒佩奇、西班牙的彼得、巴黎的尼古拉等人的欧陆著作中，周延词项通常在摘要性论著的“周延”章中处理（这一章不见于任何英格兰摘要）（Braakhuis 1981, pp. 138–139）[^braakhuis-1981]。在讨论“每个”时，舍伍德论证说，含有“所有”的命题要求至少有三个事物是谓项词项真正代表的对象：
+    step2: |-
+      这篇论文恰能让我们看到有人所称的一种英格兰特有的非范畴词进路（Uckelman & Lagerlund 2016）[^uckelman-2016]。舍伍德与其英格兰同代人罗吉尔·培根，都把“每个”这类周延词项算作非范畴词；而在约翰·勒佩奇、西班牙的彼得、巴黎的尼古拉等欧陆学者的著作里，周延词项通常是在摘要性论著专论“周延”的一章中处理——这一章在任何英格兰摘要中都不见（Braakhuis 1981, pp. 138–139）[^braakhuis-1981]。论及“每个”时，舍伍德主张：含有“所有”的命题，要求谓项词项真正代表的对象至少有三个：
+  - id: 25
+    kind: body
+    source: |-
+      > Rule [II] The sign ‘every’ or ‘all’ requires that there be at least three appellata (Kretzmann 1968, p. 23)[^kretzmann-1968].
+    step1: |-
+      > 规则 [II]：“每个”或“所有”这一记号要求至少有叁个被称谓者（Kretzmann 1968, p. 23）[^kretzmann-1968]。
+    step2: |-
+      > 规则 [II]：“每个”或“所有”这个记号，要求至少有三个被称谓者（Kretzmann 1968, p. 23）[^kretzmann-1968]。
+  - id: 26
+    kind: body
+    source: |-
+      (Remember that an *appellatum* is something which both exists and which the subject stands for or refers to.) The justification for this is taken from Aristotle, who Sherwood quotes as saying, “Of two men we say that they are two, or both, and not that they are all” (Kretzmann 1968, p. 23)[^kretzmann-1968]; that is, if there were fewer than three, it would be more appropriate to say ‘Both’ or ‘One’ rather than ‘All’ (for further discussion, see Mora-Márquez 2015, p. 197)[^mora-márquez-2015].
+    step1: |-
+      （记住，一个*被称谓者*是既存在、又为主语所代表或指涉的东西。）其依据取自亚里士多德，舍伍德引述他说：“对于两个人，我们说他们是两个，或两者，而不说他们全都是”（Kretzmann 1968, p. 23）[^kretzmann-1968]；也就是说，如果少于三个，说“两者”或“一个”比说“全部”更恰当（进一步讨论见 Mora-Márquez 2015, p. 197）[^mora-márquez-2015]。
+    step2: |-
+      （记住：*被称谓者*既须存在，又须为主语所代表或指涉。）此说的依据出自亚里士多德，舍伍德引其言曰：“对于两个人，我们说他们两人，或两者，而不说他们全部”（Kretzmann 1968, p. 23）[^kretzmann-1968]。也就是说，若不足三个，说“两者”或“一个”要比说“全部”更合适（详见 Mora-Márquez 2015, p. 197）[^mora-márquez-2015]。
+  - id: 27
+    kind: body
+    source: |-
+      Sherwood is also noteworthy for being the first logician we know of to treat ‘is’ as a syncategorematic term (Kretzmann 1968, p. 90)[^kretzmann-1968]. He argues that ‘is’ is equivocal, in that it can indicate either (1) actual being (*esse actuale*) or (2) habitual being (*esse habituale*) (Kretzmann 1968, p. 92, Kretzmann 1966, p. 125; Kretzmann translates *habituale* as ‘relational’ in Kretzmann 1966 and as ‘conditional’ in Kretzmann 1968)[^kretzmann-1966][^kretzmann-1968]. As a result, the sentence ‘Every man is an animal’ is ambiguous. When ‘is’ is taken to indicate actual being, ‘Every man is an animal’ “is false when no man exists” (Kretzmann 1968, p. 93)[^kretzmann-1968]. When ‘is’ is taken to indicate habitual being, then “insofar as [”Every man is an animal“] is necessary it has the force of this conditional: ‘if it is man it is an animal’” (Kretzmann 1966, p. 125)[^kretzmann-1966]. In analyzing universal affirmative categorical sentences in this way, Sherwood can be seen as an ‘early adopter’ of our modern truth conditions for these sentences. A consequence of this view is a commitment to the existence of *possibilia*, things that could exist but which actually do not; such *possibilia* have a diminished sort of being (*esse diminutum*) (Kretzmann 1968, p. 93)[^kretzmann-1968]. This was an unusual position in the thirteenth century (Knuuttila 1993)[^knuuttila-1993], and it was later denounced by William of Ockham (Freddoso & Schuurman 1980, p. 99)[^freddoso-1980].
+    step1: |-
+      舍伍德还因是已知第一位把“是”当作非范畴词项处理的逻辑学家而值得注意（Kretzmann 1968, p. 90）[^kretzmann-1968]。他论证说，“是”是歧义的，因为它既可以标示（1）现实存在（*esse actuale*），也可以标示（2）习惯性存在（*esse habituale*）（Kretzmann 1968, p. 92，Kretzmann 1966, p. 125；Kretzmann 在 1966 年译本中把 *habituale* 译为“relational”，在 1968 年译本中译为“conditional”）[^kretzmann-1966][^kretzmann-1968]。因此，“每个人都是动物”这个句子是有歧义的。当“是”被理解为标示现实存在时，“每个人都是动物”“在无人存在时为假”（Kretzmann 1968, p. 93）[^kretzmann-1968]。当“是”被理解为标示习惯性存在时，那么“就[“每个人都是动物”]是必然的而言，它具有这一条件句的力量：‘如果它是人，它就是动物’”（Kretzmann 1966, p. 125）[^kretzmann-1966]。以这种方式分析全称肯定直言句，可以说舍伍德是我们现代这些句子真值条件的“早期采用者”。这一观点的一个后果，是承诺*可能物*的存在，即可能存在而实际不存在的东西；这类*可能物*具有一种减损的存在（*esse diminutum*）（Kretzmann 1968, p. 93）[^kretzmann-1968]。这在 13 世纪是个不寻常的立场（Knuuttila 1993）[^knuuttila-1993]，后来受到奥卡姆的威廉的谴责（Freddoso & Schuurman 1980, p. 99）[^freddoso-1980]。
+    step2: |-
+      舍伍德还有一点值得注意：就我们所知，他是头一个把“是”当作非范畴词项来处理的逻辑学家（Kretzmann 1968, p. 90）[^kretzmann-1968]。他论证说，“是”是歧义的，可标示（1）现实存在（*esse actuale*），也可标示（2）习惯性存在（*esse habituale*）（Kretzmann 1968, p. 92；Kretzmann 1966, p. 125；*habituale* 在 1966 年译本中译作“relational”，在 1968 年译本中译作“conditional”）[^kretzmann-1966][^kretzmann-1968]。由此，“每个人都是动物”便有两解。若“是”标示现实存在，则“每个人都是动物”“在无人存在时为假”（Kretzmann 1968, p. 93）[^kretzmann-1968]；若标示习惯性存在，那么“就[“每个人都是动物”]作为必然命题而言，它相当于这个条件句：‘如果它是人，它就是动物’”（Kretzmann 1966, p. 125）[^kretzmann-1966]。如此分析全称肯定直言句，可谓舍伍德早已“抢先采用”了现代为这类句子规定的真值条件。此说的一个后果，是承认*可能物*的存在——它们可能存在，却实际不存在；这类*可能物*具有一种减损的存在（*esse diminutum*）（Kretzmann 1968, p. 93）[^kretzmann-1968]。这在 13 世纪实属异数（Knuuttila 1993）[^knuuttila-1993]，后来遭到奥卡姆的威廉斥责（Freddoso & Schuurman 1980, p. 99）[^freddoso-1980]。
+  - id: 28
+    kind: body
+    source: |-
+      ## 4. Categorical statements and syllogisms
+    step1: |-
+      ## 4 直言语句与三段论
+    step2: |-
+      ## 4 直言命题与三段论
+  - id: 29
+    kind: body
+    source: |-
+      ### 4.1. Singular propositions and the hexagon of opposition
+    step1: |-
+      ### 4.1 单称命题与对当六角形
+    step2: |-
+      ### 4.1 单称命题与对当六角形
+  - id: 30
+    kind: body
+    source: |-
+      Categorical statements are traditionally divided into universal statements (‘All P are Q’, ‘No P are Q’) and partial statements (‘Some P is Q’, ‘Some P is not Q’), and it was routine, since Aristotle, for logicians to investigate these types of statements through the traditional Square of Opposition. Sherwood, however, explicitly distinguished a third type of categorical statement, the singular, where the subject term is a singular term. He argues that
+    step1: |-
+      直言语句传统上分为全称语句（“所有 P 都是 Q”“没有 P 是 Q”）和特称语句（“有的 P 是 Q”“有的 P 不是 Q”），并且自亚里士多德以来，逻辑学家通常通过传统对当方阵来研究这些类型的语句。然而，舍伍德明确区分出第三种直言语句，即主项词项为单称词项的单称语句。他论证说：
+    step2: |-
+      直言语句历来分为全称（“所有 P 都是 Q”“没有 P 是 Q”）与特称（“有的 P 是 Q”“有的 P 不是 Q”）两类；自亚里士多德以来，逻辑学家惯于借传统对当方阵来考察它们。舍伍德却明确划出第三类直言语句——单称语句，其主项为单称词项。他论证道：
+  - id: 31
+    kind: body
+    source: |-
+      > [Singular statements] differ [from partial statements] in this respect: if two statements are singular and of different quality, they are not subcontraries but, in accordance with the theory, contradictories — e.g., ‘Socrates is running,’ ‘Socrates is not running’ (Kretzmann 1968, p. 31)[^kretzmann-1968].
+    step1: |-
+      > [单称语句]在这一点上有别于[特称语句]：如果两个语句是单称的且性质不同，它们就不是下反对关系，而是按理论说构成矛盾关系——例如“苏格拉底在跑”“苏格拉底没在跑”（Kretzmann 1968, p. 31）[^kretzmann-1968]。
+    step2: |-
+      > [单称命题]与[特称命题]的分别在于：两个单称命题若质不同，彼此就不是下反对关系，按理论说倒成矛盾关系——例如“苏格拉底在跑”与“苏格拉底不在跑”（Kretzmann 1968, p. 31）[^kretzmann-1968]。
+  - id: 32
+    kind: body
+    source: |-
+      Sherwood was one of the first medieval logicians to explicitly integrate singular statements into the Square of Opposition. The result is a Hexagon of Opposition which shows how singular statements entail and can be inferred from partial and universal statements with the same subject and predicate terms. While no depiction of this hexagon occurs in any extant manuscript of Sherwood’s *Introduction*, Khomskii has argued that it is likely that at one point, the diagram was included in the text (Khomskii 2010)[^khomskii-2010].
+    step1: |-
+      舍伍德是最早把单称语句明确纳入对当方阵的中世纪逻辑学家之一。其结果是对当六角形，它显示单称语句如何蕴涵主谓词项相同的特称与全称语句、又如何可由后者推出。虽然舍伍德《导论》现存任何手稿中都没有这一六角形的图示，Khomskii 论证说，这一图示很可能曾在某个时候被收入文本（Khomskii 2010）[^khomskii-2010]。
+    step2: |-
+      在中世纪逻辑学家中，舍伍德属于最早把单称语句明确纳入对当方阵的一批。由此得出的是对当六角形：它呈现单称语句如何蕴涵、又如何可由主谓词项相同的特称、全称语句推出。舍伍德《导论》现存各手稿中都不见此六角形的图；但 Khomskii 论证说，文本里很可能一度有过这幅图（Khomskii 2010）[^khomskii-2010]。
+  - id: 33
+    kind: body
+    source: |-
+      ### 4.2. Syllogism mnemonic
+    step1: |-
+      ### 4.2 三段论助记诀
+    step2: |-
+      ### 4.2 三段论助记诀
+  - id: 34
+    kind: body
+    source: |-
+      Syllogisms are characterised by their figure — the relative arrangement of the terms — and their mood — the triple of copulae that connect the terms:
+    step1: |-
+      三段论的特征在于其格——词项的相对排列——与其式——连接各词项的三组系词：
+    step2: |-
+      三段论由两点刻画：一是格，即各词项的相对排布；二是式，即连接各词项的三重系词组合：
+  - id: 35
+    kind: body
+    source: |-
+      > | Figure 1 | Figure 2 | Figure 3 |
+      > | --- | --- | --- |
+      > | P__M | M__P | P__M |
+      > | M__S | M__S | S__M |
+      > | P__S | P__S | P__S |
+    step1: |-
+      > | 格 1 | 格 2 | 格 3 |
+      > | --- | --- | --- |
+      > | P__M | M__P | P__M |
+      > | M__S | M__S | S__M |
+      > | P__S | P__S | P__S |
+    step2: |-
+      > | 第一格 | 第二格 | 第三格 |
+      > | --- | --- | --- |
+      > | P__M | M__P | P__M |
+      > | M__S | M__S | S__M |
+      > | P__S | P__S | P__S |
+  - id: 36
+    kind: body
+    source: |-
+      where P is the predicate of the conclusion (the major term), S is the subject of the conclusion (the minor term), and M is the middle term.
+    step1: |-
+      其中 P 是结论的谓项（大项），S 是结论的主项（小项），M 是中项。
+    step2: |-
+      这里的 P 是结论的谓项（大项），S 是结论的主项（小项），M 是中项。
+  - id: 37
+    kind: body
+    source: |-
+      In the *Introduction,* Sherwood provides his students with a mnemonic verse to remember which figure is which:
+    step1: |-
+      在《导论》中，舍伍德给学生提供了一首助记诗，用来记住哪一格是哪一格：
+    step2: |-
+      《导论》里，舍伍德给学生留下一首助记诗，专记三格之别：
+  - id: 38
+    kind: body
+    source: |-
+      > The difference of the figures is retained in this verse:
+      >
+      > *Sub pre prima bis pre secunda tertia bis sub* (Kretzmann 1968, p. 66)[^kretzmann-1968].
+    step1: |-
+      > 各格之别，以下面这首诗来记：
+      >
+      > *Sub pre prima bis pre secunda tertia bis sub*（Kretzmann 1968, p. 66）[^kretzmann-1968]。
+    step2: |-
+      > 三格之别，都收在这句诗里：
+      >
+      > *Sub pre prima bis pre secunda tertia bis sub*（Kretzmann 1968, p. 66）[^kretzmann-1968]。
+  - id: 39
+    kind: body
+    source: |-
+      That is, in the first figure, the middle term is first the subject and then the predicate; in the second, it is the predicate twice; in the third, it is the subject twice. This same verse occurs in Roger Bacon (Bacon 2009, ¶290)[^bacon-2009], and Lambert of Auxerre has the same content though in a much more verbose form (Lambert 2015, p. 139)[^lambert-2015]. Following this, Sherwood then says:
+    step1: |-
+      也就是说，在第一格中，中项先是主项、后是谓项；在第二格中，它两次都是谓项；在第三格中，它两次都是主项。同一首诗也见于罗吉尔·培根（Bacon 2009, ¶290）[^bacon-2009]，奥塞尔的兰贝尔则有相同的内容，只是表述要啰嗦得多（Lambert 2015, p. 139）[^lambert-2015]。接下来，舍伍德说：
+    step2: |-
+      意思是：第一格里，中项先作主项、后作谓项；第二格里，它两度作谓项；第三格里，它两度作主项。同一句诗也见于罗吉尔·培根（Bacon 2009, ¶290）[^bacon-2009]；奥塞尔的兰贝尔内容相同，只是说得啰嗦得多（Lambert 2015, p. 139）[^lambert-2015]。接着，舍伍德又说：
+  - id: 40
+    kind: body
+    source: |-
+      > The moods and their reductions, on the other hand, are retained in these verses:
+      >
+      > > Barbara celarent darii ferio baralipton Celantes dabitis fapesmo frisesomorum Cesare camestres festino baroco Darapti felapton disamis datisi bocardo ferison (Kretzmann 1968, p. 66)[^kretzmann-1968]
+    step1: |-
+      > 各式及其还原，则以下面这些诗句来记：
+      >
+      > > Barbara celarent darii ferio baralipton Celantes dabitis fapesmo frisesomorum Cesare camestres festino baroco Darapti felapton disamis datisi bocardo ferison（Kretzmann 1968, p. 66）[^kretzmann-1968]
+    step2: |-
+      > 各式连同其还原，则收在下列诗句中：
+      >
+      > > Barbara celarent darii ferio baralipton Celantes dabitis fapesmo frisesomorum Cesare camestres festino baroco Darapti felapton disamis datisi bocardo ferison（Kretzmann 1968, p. 66）[^kretzmann-1968]
+  - id: 41
+    kind: body
+    source: |-
+      Kretzmann notes that this is “the oldest known surviving version of these famous mnemonic verses, and Sherwood may have been the inventor of them … However, there were earlier attempts at the same sort of device in the thirteenth century, and the word ‘Festino’ appears ‘in a MS dating at the latest from 1200′” (Kretzmann 1968, pp. 66–67, quoting Bochenski)[^kretzmann-1968], and similar verses also occur in the 12th-century *Logica Ut Dicit* and the *Logic ‘cum sit nostra’* (Bacon 2009, p. 146)[^bacon-2009], both of which texts influenced Sherwood (Brumberg-Chaumont 2013, p. 184)[^brumberg-chaumont-2013]. Later, in the same footnote, Kretzmann compares Sherwood’s verses to those in Peter of Spain and concludes that the differences between the two “strongly suggest at least one earlier version on which both men were drawing” (Kretzmann 1968, p. 67)[^kretzmann-1968]. The verse is in dactylic hexameter, a classical style found in Homer (in Greek) and Ovid and Virgil (in Latin), suggesting “that the anonymous creator of the mnemonic was schooled in poetry over and above, as we will see, being masterful in his knowledge of Aristotle and imaginative in logic” (Corcoran, et al., 2018, p. 13).
+    step1: |-
+      Kretzmann 指出，这是“这些著名助记诗现存最古老的版本，舍伍德可能就是它们的发明者……不过，13 世纪已有同类装置的其他尝试，而‘Festino’一词‘见于一份至迟 1200 年的手稿’”（Kretzmann 1968, pp. 66–67，引 Bochenski）[^kretzmann-1968]；类似的诗句也见于 12 世纪的《如其所言之逻辑》和《我们的逻辑》，这两部文本都影响了舍伍德（Bacon 2009, p. 146）[^bacon-2009]（Brumberg-Chaumont 2013, p. 184）[^brumberg-chaumont-2013]。后来，在同一条脚注中，Kretzmann 把舍伍德的诗句与西班牙的彼得的诗句相比较，得出结论说，二者的差异“强烈提示至少有一个更早的版本为两人所取材”（Kretzmann 1968, p. 67）[^kretzmann-1968]。这首诗用扬抑抑六音步写成，这是一种古典诗体，见于荷马（希腊文）以及奥维德与维吉尔（拉丁文），这表明“这位无名助记诀创造者受过诗歌训练，不仅如此，我们还将看到，他还精通亚里士多德、在逻辑上富于想象”（Corcoran, et al., 2018, p. 13）。
+    step2: |-
+      Kretzmann 指出，这是“这些著名助记诗现存最早的版本，说不定就是舍伍德所造……不过 13 世纪已有同类设计的其他尝试，而‘Festino’一词‘见于一份至迟 1200 年的手稿’”（Kretzmann 1968, pp. 66–67，引 Bochenski）[^kretzmann-1968]。类似的诗句也见于 12 世纪的《如其所言之逻辑》与《我们的逻辑》，两部文本都影响了舍伍德（Bacon 2009, p. 146）[^bacon-2009]（Brumberg-Chaumont 2013, p. 184）[^brumberg-chaumont-2013]。后来在同一条脚注里，Kretzmann 把舍伍德的诗句同西班牙的彼得的诗句相较，断定二者的差别“强烈提示曾有一个更早的版本，为两人所共同取材”（Kretzmann 1968, p. 67）[^kretzmann-1968]。此诗用的是扬抑抑六音步——荷马（希腊文）、奥维德与维吉尔（拉丁文）所用的一种古典诗体；这说明“这位佚名助记诀作者受过诗的训练，而且，下文将见，他还精通亚里士多德、于逻辑富有机想”（Corcoran, et al., 2018, p. 13）。
+  - id: 42
+    kind: body
+    source: |-
+      Sherwood explains the mnemonic names as follows:
+    step1: |-
+      舍伍德对这些助记名称的解释如下：
+    step2: |-
+      舍伍德对这套助记名称的解释如下：
+  - id: 43
+    kind: body
+    source: |-
+      > In these lines ‘a’ signifies a universal affirmative proposition, ‘e’ a universal negative, ‘i’ a particular affirmative, ‘o’ a particular negative, ‘s’ simple conversion [*conversio simplex*], ‘p’ conversion by limitation [*conversio per accidens*], ‘m’ transposition of the premisses, and ‘b’ and ‘r’ when they are in the same word signify reduction *per impossibile*. The first two lines are devoted to the first figure, the four words of the third line to the second figure, and all the other words to the third figure (Kretzmann 1968, p. 67)[^kretzmann-1968].
+    step1: |-
+      > 在这些诗句中，‘a’ 表示全称肯定命题，‘e’ 表示全称否定命题，‘i’ 表示特称肯定命题，‘o’ 表示特称否定命题，‘s’ 表示简单换位[*conversio simplex*]，‘p’ 表示限量换位[*conversio per accidens*]，‘m’ 表示前提的换位，‘b’ 与 ‘r’ 出现在同一个词中时表示归谬还原。前两行属于第一格，第三行的四个词属于第二格，其余所有的词属于第三格（Kretzmann 1968, p. 67）[^kretzmann-1968]。
+    step2: |-
+      > 这些诗句里，‘a’ 指全称肯定命题，‘e’ 指全称否定命题，‘i’ 指特称肯定命题，‘o’ 指特称否定命题，‘s’ 指简单换位（*conversio simplex*），‘p’ 指限量换位（*conversio per accidens*），‘m’ 指前提易位，‘b’ 与 ‘r’ 同处一词时则指归谬还原。前两行属第一格，第三行四个词属第二格，其余各词属第三格（Kretzmann 1968, p. 67）[^kretzmann-1968]。
+  - id: 44
+    kind: body
+    source: |-
+      Note that, conveniently, ‘a’ and ‘i’ are the first two vowels in Latin *affirmo* ‘I affirm’, and ‘e’ and ‘o’ are the two vowels in Latin *nego* ‘I deny’. While the names that Sherwood introduces are typical/traditional, the explanation he gives of the names is *not*. First, he doesn’t note that the first letter of the name indicates to which of the four basic syllogisms, Barbara, Celarent, Darii, and Ferio, the others can be reduced. Second, his identification of ‘b’ and ‘r’ as the cues for *reductio per impossibile* are atypical.
+    step1: |-
+      请注意，方便的是，‘a’ 与 ‘i’ 正是拉丁文 *affirmo*（“我肯定”）的头两个元音，而 ‘e’ 与 ‘o’ 是拉丁文 *nego*（“我否定”）的两个元音。舍伍德引入的这些名称是典型／传统的，但他对名称的解释却*不是*。第一，他没有指出名称的首字母表明其余三段论可以还原为四种基本三段论 Barbara、Celarent、Darii 与 Ferio 中的哪一种。第二，他把 ‘b’ 与 ‘r’ 认定为*归谬还原*的提示，这一点不合常规。
+    step2: |-
+      顺带一提，‘a’ 与 ‘i’ 恰好是拉丁文 *affirmo*（“我肯定”）的头两个元音，‘e’ 与 ‘o’ 则是 *nego*（“我否定”）里的两个元音。名称本身都是传统套路，可舍伍德对它们的解释*并不*传统。其一，他没有说明名称首字母标示着可还原为 Barbara、Celarent、Darii、Ferio 四个基本三段论中的哪一个；其二，他把 ‘b’ 与 ‘r’ 当作*归谬还原*的提示，也不循惯例。
+  - id: 45
+    kind: body
+    source: |-
+      ## 5. Modality
+    step1: |-
+      ## 5 模态
+    step2: |-
+      ## 5 模态
+  - id: 46
+    kind: body
+    source: |-
+      In his *Introduction*, Sherwood gives two definitions for ‘mode’, depending on whether the term is being used broadly or strictly: “Broadly speaking, a mode is the determination of an act, and in this respect it goes together with every adverb”, while strictly speaking we count not all adverbs as modes but only those which determine the inherence of the predicate in the subject (Kretzmann 1966, p. 40)[^kretzmann-1966]. Thus, on the broad conception of ‘mode’, both ‘Socrates is necessarily running’ and ‘Socrates is swiftly running’ count as modal statements, but on the narrow conception, only the former does. The six modes are ‘true’, ‘false’, ‘possible’, ‘contingent’, ‘impossible’, and ‘necessary’, though “the first two do not distinguish a modal proposition from an assertoric statement” (Kretzmann 1966, pp. 40–41)[^kretzmann-1966]. The other four modes give rise to properly modal propositions, and in statements expressing these propositions, the associated modal adverbs are ‘possibly’, ‘contingently’, ‘impossibly’, and ‘necessarily’. Each of these modal adverbs is a syncategorematic term; and in the *Syncategoremata*, Sherwood devotes an entire chapter to *necessario* (‘necessarily’) and *contingenter* (‘contingently’).
+    step1: |-
+      在《导论》中，舍伍德给“模态”下了两个定义，视该词作宽泛用法还是严格用法而定：“宽泛地说，模态是对行为的限定，就此而言它与每一个副词同类”；而严格说来，我们并不把所有副词都算作模态，只把限定谓项在主语中的内属者算作模态（Kretzmann 1966, p. 40）[^kretzmann-1966]。于是，按宽泛的“模态”概念，“苏格拉底必然在跑”与“苏格拉底迅速地在跑”都算模态语句；但按狭窄概念，只有前者算。六种模态是“真”“假”“可能”“偶然”“不可能”与“必然”，不过“前两种并不使一个模态命题有别于一个直言语句”（Kretzmann 1966, pp. 40–41）[^kretzmann-1966]。其余四种模态产生严格意义上的模态命题，而表达这些命题的语句中，相关的模态副词是“可能地”“偶然地”“不可能地”与“必然地”。这些模态副词每一个都是非范畴词项；在《非范畴词论》中，舍伍德用整整一章讨论 *necessario*（“必然地”）与 *contingenter*（“偶然地”）。
+    step2: |-
+      《导论》给“模态”下了两个定义，随宽严二义而别：“宽泛地说，模态是对行为的限定，就此而言，它与一切副词同类”；严格说来则不然，并非所有副词都算模态，只有限定谓项在主语中内属的才算（Kretzmann 1966, p. 40）[^kretzmann-1966]。因此，按宽义，“苏格拉底必然在跑”与“苏格拉底飞快地跑”都是模态语句；按狭义则只有前者是。六种模态为“真”“假”“可能”“偶然”“不可能”“必然”；不过“前两种并不使模态命题有别于直言语句”（Kretzmann 1966, pp. 40–41）[^kretzmann-1966]。其余四种模态才生成严格意义上的模态命题，相应语句中的模态副词是“可能地”“偶然地”“不可能地”“必然地”。这些模态副词个个都是非范畴词项；《非范畴词论》中专辟一章讨论 *necessario*（“必然地”）与 *contingenter*（“偶然地”）。
+  - id: 47
+    kind: body
+    source: |-
+      Here it must be noted that Sherwood’s views of modality differ significantly from modern views. Modern modal logic interprets modes in a nominal way, e.g., ‘necessary:’, ‘impossible:’, etc. But Sherwood is reluctant to admit a statement such as “That Socrates is running is necessary” as genuinely modal (Kretzmann 1966, p. 43)[^kretzmann-1966], instead viewing this as an assertoric categorical statement predicating ‘necessary’ of ‘that Socrates is running’. Similarly, ‘Socrates is running necessarily’ does not count as a modal statement, because here ‘necessarily’ modifies ‘running’, not “the inherence of the predicate in the subject”. The only genuinely modal construction is that exhibited by ‘Socrates is necessarily running’ (Kretzmann 1966, p. 42)[^kretzmann-1966]. The importance of the adverbial construction, where the modal adverb modifies the inherence of the predicate with the subject, is emphasized in the discussions of modal adverbs in *Syncategoremata*, which include not only the chapter mentioned above but also analyses of how modal adverbs interact with other syncategorematic terms such as ‘only’, ‘unless’, and ‘if’ (Uckelman 2020, §5)[^uckelman-2020].
+    step1: |-
+      这里必须指出，舍伍德的模态观点与现代观点大不相同。现代模态逻辑以一种名词性的方式解释诸模态，例如“必然：”“不可能：”等等。但舍伍德不愿把“苏格拉底在跑这件事是必然的”这样的语句承认为真正模态的（Kretzmann 1966, p. 43）[^kretzmann-1966]，而把它看作一个直言语句，把“必然的”断言于“苏格拉底在跑这件事”。同样，“苏格拉底必然地在跑”也不算模态语句，因为这里的“必然地”修饰的是“跑”，而不是“谓项在主语中的内属”。唯一真正的模态构造，是“苏格拉底必然在跑”所展示的那种（Kretzmann 1966, p. 42）[^kretzmann-1966]。副词性构造——模态副词修饰谓项与主语的内属——的重要性，在《非范畴词论》讨论模态副词的各章中得到强调；这些讨论不仅包括上述那一章，还包括对模态副词如何与“只有”“除非”“如果”等其他非范畴词项相互作用所作的分析（Uckelman 2020, §5）[^uckelman-2020]。
+    step2: |-
+      此处须注意，舍伍德的模态观与现代看法相去甚远。现代模态逻辑把诸模态作名词式处理，如“必然：”“不可能：”等。舍伍德却不肯承认“苏格拉底在跑这件事是必然的”这类语句为真正的模态语句（Kretzmann 1966, p. 43）[^kretzmann-1966]，而把它视为直言语句，将“必然的”断言于“苏格拉底在跑这件事”。同理，“苏格拉底必然地在跑”也不算模态语句，因为这里的“必然地”修饰“跑”，并不修饰“谓项在主语中的内属”。真正称得上模态构造的，只有“苏格拉底必然在跑”这一形态（Kretzmann 1966, p. 42）[^kretzmann-1966]。副词构造——模态副词修饰谓项与主语的内属——何以重要，《非范畴词论》论模态副词的各章有充分强调：除上述一章外，还分析了模态副词同“只有”“除非”“如果”等其他非范畴词项的相互作用（Uckelman 2020, §5）[^uckelman-2020]。
+  - id: 48
+    kind: body
+    source: |-
+      Since Aristotle it was standard practice to note that ‘possible’ can be used in two ways. In the first ‘possible’ is compatible with ‘necessary’, but in the second, that which is necessary is not (merely) possible. This second way is usually called ‘contingent’. Sherwood mentions this distinction, but goes on to say that he will be using it in a broader sense, in which possibility is compatible with necessity (Kretzmann 1966, p. 41)[^kretzmann-1966]. However, he makes a further distinction, which he does maintain, between the two ways that ‘impossible’ and ‘necessary’ can be used. These different ways are expressed in temporal notions:
+    step1: |-
+      自亚里士多德以来，指出“可能”有两种用法是标准做法。在第一种用法中，“可能”与“必然”相容；但在第二种用法中，必然者并不（仅仅）是可能的。第二种用法通常称为“偶然”。舍伍德提到这一区分，但接着说，他将在更宽泛的意义上使用该词，在这一意义中可能与必然相容（Kretzmann 1966, p. 41）[^kretzmann-1966]。然而他又作出一个他确实坚持的进一步区分，即“不可能”与“必然”的两种用法之别。这些不同用法以时间概念来表达：
+    step2: |-
+      自亚里士多德以来，指出“可能”有两义已是惯例。第一义与“必然”相容；第二义下，必然者并不（只）是可能的——这第二义通常叫“偶然”。舍伍德提到这一区分，却说自己要用较宽的义，即可能与必然相容（Kretzmann 1966, p. 41）[^kretzmann-1966]。不过他另作一层区分，且确实坚持：即“不可能”与“必然”各有两义，而以时间概念表述：
+  - id: 49
+    kind: body
+    source: |-
+      > [impossible] is used in one way of whatever cannot be true now or in the future or in the past; and this is ‘impossible *per se*’ … It is used in the other way of whatever cannot be true now or in the future although it could have been true in the past … and this is ‘impossible *per accidens*’. Similarly, in case something cannot be false now or in the future or in the past it is said to be ‘necessary *per se*’ … But it is ‘necessary *per accidens*’ in case something cannot be false now or in the future although it could have been [false] in the past (Kretzmann 1966, p. 41)[^kretzmann-1966].
+    step1: |-
+      > [不可能]的一种用法，指无论现在、将来还是过去都不能为真者；这是“自性不可能”…… 另一种用法，指现在或将来不能为真、但过去本可以为真者……这是“偶性不可能”。同样，若某物无论现在、将来还是过去都不能为假，就说它是“自性必然”…… 但若某物现在或将来不能为假、尽管过去本可以[为假]，它就是“偶性必然”（Kretzmann 1966, p. 41）[^kretzmann-1966]。
+    step2: |-
+      > [不可能]一义，指无论现在、将来还是过去都不能为真者，此即“自性不可能”……另一义，指现在或将来不能为真、但过去本可为真者……此即“偶性不可能”。同理，某物无论现在、将来还是过去都不能为假，便说它“自性必然”……但若某物现在或将来不能为假、过去却本可[为假]，则为“偶性必然”（Kretzmann 1966, p. 41）[^kretzmann-1966]。
+  - id: 50
+    kind: body
+    source: |-
+      Sherwood says that the reason it is important to separate modal propositions from assertoric ones is that
+    step1: |-
+      舍伍德说，之所以必须把模态命题与直言命题分开，是因为：
+    step2: |-
+      舍伍德说，模态命题之所以必须与直言命题分开，理由在于：
+  - id: 51
+    kind: body
+    source: |-
+      > [s]ince our treatment is oriented toward syllogism, we have to consider them under those differences that make a difference in syllogism. These are such differences as … modal, assertoric; and others of that sort. For one syllogism differs from another as a result of those differences (Kretzmann 1966, p. 39)[^kretzmann-1966].
+    step1: |-
+      > [既]然我们的处理以三段论为取向，我们就必须在那些对三段论有影响的差别下考察它们。这类差别诸如……模态的、直言的；以及其他类似的差别。因为一个三段论正是由于这些差别而有别于另一个三段论（Kretzmann 1966, p. 39）[^kretzmann-1966]。
+    step2: |-
+      > [既]然我们的处理以三段论为取向，就须在那些对三段论有影响的差别下考察它们。这类差别有……模态的与直言的，以及其他同类者。三段论彼此之别，正由此而来（Kretzmann 1966, p. 39）[^kretzmann-1966]。
+  - id: 52
+    kind: body
+    source: |-
+      Despite this, there is “no treatment of modal syllogisms in any of the works that have been ascribed to Sherwood” (Kretzmann 1966, p. 39, fn. 58)[^kretzmann-1966]. For more on Sherwood’s account of modality, see Uckelman 2008.
+    step1: |-
+      尽管如此，“在归于舍伍德名下的任何著作中，都没有对模态三段论的讨论”（Kretzmann 1966, p. 39, fn. 58）[^kretzmann-1966]。关于舍伍德模态学说的更多内容，参见 Uckelman 2008。
+    step2: |-
+      尽管如此，“在一切归于舍伍德名下的著作中，都找不到对模态三段论的讨论”（Kretzmann 1966, p. 39, fn. 58）[^kretzmann-1966]。舍伍德模态学说的更多内容，见 Uckelman 2008。
+  - id: 53
+    kind: body
+    source: |-
+      ## 6. Influence
+    step1: |-
+      ## 6 影响
+    step2: |-
+      ## 6 影响
+  - id: 54
+    kind: body
+    source: |-
+      Roger Bacon’s approbation of Sherwood is not the only explicit reference we have to him by his contemporaries. The copy of Chapter Five of the *Introduction* found in MS Worcester Cath. Q. 13 mentioned earlier is followed by a collection of anonymous notes (also edited in Pinborg & Ebbesen 1984 and there called the *Dubitationes*)[^pinborg-1984]. Pinborg and Ebbesen argue that these lecture notes, composed either for a teacher’s or a student’s use, are unlikely to have been written in response to lectures given in the 1290s, i.e., when the manuscript was copied, but rather date from the 1260s or the 1270s, favoring a date around 1270 (Pinborg and Ebbesen 1984, p. 104)[^pinborg-1984]. This text thus provides evidence that Sherwood’s works continued to be taught and circulated.
+    step1: |-
+      罗吉尔·培根对舍伍德的赞许，并不是我们仅有的同代人对他的明确提及。前面提到的伍斯特座堂手稿 MS Q. 13 中《导论》第五章抄本之后，紧跟着一组匿名笔记（亦经 Pinborg 与 Ebbesen 1984 编辑，那里称为《疑问集》）[^pinborg-1984]。Pinborg 与 Ebbesen 论证说，这些讲课笔记——无论供教师还是学生使用——不大可能是针对 1290 年代的讲授所作（即手稿抄写之时），而应成于 1260 或 1270 年代，他们倾向于定在 1270 年前后（Pinborg and Ebbesen 1984, p. 104）[^pinborg-1984]。因此，这一文本提供了证据，表明舍伍德的著作仍在被讲授和流传。
+    step2: |-
+      罗吉尔·培根的那番推许，并非同代人提到他的唯一明确记载。前述伍斯特座堂手稿 MS Q. 13 中《导论》第五章之后，紧接一组匿名笔记（Pinborg 与 Ebbesen 1984 亦曾编刊，题为《疑问集》）[^pinborg-1984]。Pinborg 与 Ebbesen 论证：这些讲课笔记无论供教师还是学生用，都不像是对 1290 年代——即手稿抄写之时——的讲授所作，而应成于 1260 或 1270 年代，他们倾向于 1270 年前后（Pinborg and Ebbesen 1984, p. 104）[^pinborg-1984]。由此可见，舍伍德的著作当时仍在讲授、仍在流传。
+  - id: 55
+    kind: body
+    source: |-
+      Beyond these explicit mentions, it is clear that Sherwood’s works were widely influential among logicians at the University of Paris in the second half of the 13th century. The most direct line of influence runs from William of Sherwood to his much better-known colleague Peter of Spain. It was for many years believed that Peter was the first person to translate Psellus’s text (Mullinger 1873, p. 176)[^mullinger-1873], prior to the rediscovery of Sherwood’s *Introduction*, which pre-dates Peter by two decades and which is closer to Psellus’s work. Peter’s *Summary of Logic* is clearly indebted to Sherwood. Kretzmann notes that “many of the features of the *Summulae* that made it far and away the most popular logic textbook in the Middle Ages seem quite plainly to have developed as modifications of more difficult discussions and less felicitous mnemonic devices in the *Introductiones*” (Kretzmann 1968, p. 6)[^kretzmann-1968]. On the other hand, Sherwood appears to have been influenced by Peter’s treatise on syncategorematic terms in writing his own; Kretzmann provides a summary of passages in Sherwood’s treatise which “can be read as allusions to positions taken by Peter” (1968, p. 7). Other influences can be found in Albert the Great, who used Sherwood’s notion of appellation rather than Peter of Spain’s (Kretzmann 1966, p. 5)[^kretzmann-1966], and Thomas Aquinas, whose analysis of modal propositions follows Sherwood (Kretzmann 1966, p. 5; Uckelman 2008)[^kretzmann-1966][^uckelman-2008].
+    step1: |-
+      除了这些明确提及之外，舍伍德的著作显然在 13 世纪后半叶的巴黎大学逻辑学家中影响广泛。最直接的传承线从舍伍德的威廉通向他名气大得多的同僚西班牙的彼得。多年来人们相信，彼得是第一个翻译普塞洛斯文本的人（Mullinger 1873, p. 176）[^mullinger-1873]，直到舍伍德《导论》被重新发现——它比彼得的著作早二十年，且更接近普塞洛斯的作品。彼得的《逻辑摘要》显然受惠于舍伍德。Kretzmann 指出，“《纲要》中那些使它成为中世纪远为最流行的逻辑教科书的许多特征，看来分明是作为对《导论》中更困难的讨论与不那么讨喜的助记装置的修改而发展出来的”（Kretzmann 1968, p. 6）[^kretzmann-1968]。另一方面，舍伍德在撰写自己的非范畴词论文时，似乎也受到彼得那部论文的影响；Kretzmann 概述了舍伍德论文中的若干段落，它们“可以读作对彼得所持立场的暗示”（1968, p. 7）。其他影响可见于大阿尔伯特——他采用舍伍德的称谓概念而非西班牙的彼得的（Kretzmann 1966, p. 5）[^kretzmann-1966]——以及托马斯·阿奎那，后者对模态命题的分析追随舍伍德（Kretzmann 1966, p. 5；Uckelman 2008）[^kretzmann-1966][^uckelman-2008]。
+    step2: |-
+      除这些明文提及外，舍伍德的著作显然在 13 世纪后半叶巴黎大学的逻辑学家间影响甚广。最直接的传承线，由舍伍德的威廉通向名气远大于他的同僚西班牙的彼得。多年间人们相信彼得是头一个翻译普塞洛斯文本的人（Mullinger 1873, p. 176）[^mullinger-1873]；直到舍伍德《导论》重见天日——它比彼得早二十年，且更贴近普塞洛斯的原作。彼得的《逻辑摘要》显然受惠于舍伍德。Kretzmann 说：“《纲要》之成为中世纪遥遥领先的最流行逻辑教科书，其中许多特色，分明是由《导论》里那些较艰深的讨论、以及不那么讨喜的助记装置修改而来”（Kretzmann 1968, p. 6）[^kretzmann-1968]。反过来说，舍伍德写自己的非范畴词论文时，似也受彼得那部论文影响；Kretzmann 列举了舍伍德文中若干段落，说它们“可读作对彼得所持立场的暗指”（1968, p. 7）。其他影响见于大阿尔伯特——他取用舍伍德的称谓概念，而不用西班牙的彼得的（Kretzmann 1966, p. 5）[^kretzmann-1966]——以及托马斯·阿奎那，其对模态命题的分析即步舍伍德后尘（Kretzmann 1966, p. 5；Uckelman 2008）[^kretzmann-1966][^uckelman-2008]。
+  - id: 56
+    kind: body
+    source: |-
+      Though Sherwood’s indirect influence on the development of logic and semantics, via his influence on Peter of Spain, should not be underestimated, his direct influence beyond the 13th century was more minimal, in part because the influence of Peter of Spain was so great. In the 14th century, any influence Sherwood’s approach to the properties of terms might have still had was almost entirely eclipsed by figures such as William of Ockham, John Buridan, and Albert of Saxony (Bos 2011, p. 773)[^bos-2011].
+    step1: |-
+      舍伍德通过影响西班牙的彼得而对逻辑与语义学的发展产生了间接影响，这不应低估；但他在 13 世纪之后的直接影响较为有限，部分原因是西班牙的彼得影响太大。在 14 世纪，舍伍德词项特性进路可能还有的任何影响，几乎完全被奥卡姆的威廉、让·布里丹和萨克森的阿尔伯特等人遮蔽（Bos 2011, p. 773）[^bos-2011]。
+    step2: |-
+      舍伍德假道西班牙的彼得而间接影响逻辑与语义学的发展，这一点不可小觑；但他在 13 世纪之后的直接影响反倒有限，部分正因彼得的影响太大。到了 14 世纪，他那套词项特性进路纵有余绪，也几乎全被奥卡姆的威廉、让·布里丹、萨克森的阿尔伯特等人盖过（Bos 2011, p. 773）[^bos-2011]。
+  - id: 57
+    kind: oir
+    source: |-
+      - [History of Philosophy Without Gaps no. 225 “No Uncertain Terms: Thirteenth Century Logic”](http://historyofphilosophy.net/thirteenth-century-logic)
+      - [Bibliography of literature relating to William of Sherwood](http://community.dur.ac.uk/s.l.uckelman/wosbib.pdf)
+    step1: |-
+      - [无缺环的哲学史](http://historyofphilosophy.net/thirteenth-century-logic)第 225 期“术语无歧：十三世纪逻辑”。
+      - [与舍伍德的威廉相关的文献目录](http://community.dur.ac.uk/s.l.uckelman/wosbib.pdf)。
+    step2: |-
+      - [《无缺环的哲学史》](http://historyofphilosophy.net/thirteenth-century-logic)第 225 期：“术语毫不含糊：十三世纪逻辑”。
+      - [与舍伍德的威廉相关的文献目录](http://community.dur.ac.uk/s.l.uckelman/wosbib.pdf)。

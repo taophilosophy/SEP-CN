@@ -31,6 +31,7 @@
 |Anti-Dühring|《反杜林论》|恩格斯|
 |Anton Marty|安东·马蒂|早期现象学（布伦塔诺学派）|
 |anumāna|比量|印度量论|
+|appellatum|被称谓者||
 |apperception|统觉|康德/莱布尼茨术语|
 |Arcesilaus|阿尔凯西劳||
 |arché|本原|亦作“始基”；希腊哲学术语|
@@ -39,6 +40,7 @@
 |Aristotelian categories|亚里士多德范畴|希腊哲学|
 |Arius Didymus|阿里乌斯·迪迪穆斯||
 |Arthur Danto|阿瑟·丹托|分析美学/历史哲学|
+|assertoric|直言的||
 |Athenaeus|阿特纳奥斯||
 |atomic formulas|原子公式|审定名词（数学·数理逻辑）|
 |atuphos|脱尽虚妄||
@@ -97,8 +99,10 @@
 |consciousness|意识||
 |constitutive aim|构成性目的|行动哲学（belief 的 aim 之辩）|
 |contingency|偶然性||
+|conversio per accidens|限量换位||
 |Conway, Lady Anne|安妮·康威||
 |Copernicus, Nicolaus|尼古拉·哥白尼||
+|copulation (copulatio)|结合||
 |Cordemoy, Géraud de|热罗·德·科尔德穆瓦||
 |Cornel West|康奈尔·韦斯特|实用主义传统/种族哲学|
 |corrective justice|矫正正义|亚里士多德；与分配正义相对|
@@ -109,6 +113,7 @@
 |Cudworth, Ralph|拉尔夫·库德沃斯||
 |current self|当前自我|advance-directives 词条核心|
 |Cynics|犬儒派||
+|dactylic hexameter|扬抑抑六音步||
 |Dana Scott|达纳·斯科特|逻辑学/集合论|
 |Dao|道|拼音转写；中国哲学核心范畴|
 |Dasein|此在|海德格尔；亦作“缘在”|
@@ -130,6 +135,7 @@
 |Dionysius the Areopagite|亚略巴古的狄奥尼修斯|即“伪狄奥尼修斯”；教父学|
 |disability studies|残障研究|社会哲学|
 |distributive justice|分配正义|亦作“分配公平”；审定“分配公平”在案|
+|distributively confused supposition|周延混淆指代||
 |divine intellect|神圣理智|亦作“神性理智”；中世纪哲学|
 |Donna Haraway|唐娜·哈拉维||
 |dynamic choice|动态选择||
@@ -149,6 +155,8 @@
 |Ernest Sosa|欧内斯特·索萨|德性知识论|
 |Ernst Mayr|恩斯特·迈尔||
 |Ernst Zermelo|恩斯特·策梅洛|集合论（策梅洛公理）|
+|esse actuale|现实存在||
+|esse diminutum|减损的存在||
 |essence|本质||
 |eudaimonia|幸福|亦作“繁盛”；亚里士多德|
 |Eusebius|优西比乌||
@@ -162,6 +170,7 @@
 |first-order logic|一阶逻辑|审定名词（数学·数理逻辑）|
 |Five Modes|五式||
 |form|形式（亚里士多德 eidos 语境）||
+|formal supposition|形式指代||
 |Four Dimensionalism|四维主义|形而上学（刘易斯）|
 |frame problem|框架问题||
 |Frankfurt School|法兰克福学派|审定名词（新闻传播学）|
@@ -201,6 +210,7 @@
 |Hegel|黑格尔||
 |hegemonikon|灵魂的主导部分（斯多亚）||
 |Hermann Diels|赫尔曼·第尔斯||
+|hexagon of opposition|对当六角形||
 |Heytesbury, William|威廉·海特斯伯里||
 |Hilary Putnam|希拉里·普特南||
 |Hillel Steiner|希勒尔·斯坦纳|分析马克思主义/权利论|
@@ -232,32 +242,40 @@
 |James Ward|詹姆斯·沃德||
 |Japanese aesthetics|日本美学||
 |Jean Hampton|琼·汉普顿||
+|John Buridan|让·布里丹||
 |John Dupré|约翰·杜普雷||
 |John Earman|约翰·厄尔曼||
 |John Harsanyi|约翰·海萨尼||
 |John MacFarlane|约翰·麦克法兰||
 |John Norris|约翰·诺里斯||
 |John Norton|约翰·诺顿||
+|John of Salisbury|索尔兹伯里的约翰||
 |John Pollock|约翰·波洛克||
 |John Stuart Mill|约翰·斯图亚特·穆勒|亦作“密尔”|
+|Joscelin of Soissons|苏瓦松的若斯兰||
 |José Ortega|何塞·奥尔特加|西班牙存在主义另有同名导演，随词条|
 |Judith Butler|Judith Butler|现代学者保留英文；通行汉译“巴特勒”|
+|Lambert of Auxerre|欧塞尔的兰伯特||
 |Leibniz Equivalence|莱布尼茨等价|时空哲学；Stachel/Weatherall 用语|
 |Leon Henkin|莱昂·亨金||
 |logic objection|逻辑诘难||
 |Luxemburg, Rosa|罗莎·卢森堡||
+|manerial supposition|manerial 指代||
 |manifold|流形|数学通行|
 |manifold of events|事件流形|时空哲学|
 |Masham, Lady Damaris|达玛里斯·库德沃斯·马沙姆||
 |Massive Modularity Hypothesis|大规模模块性假说|Carruthers 心灵架构理论|
+|material supposition|质料指代||
 |matter|质料（亚里士多德 hylê 语境；近代物理语境译“物质”）||
 |matter field|物质场|物理学通行|
 |maximal act-set|极大行动集|A批正文定案；审定“极大集”数学域佐证|
 |Maximalism|极大主义|actualism-possibilism 语境|
 |McGinn, Colin|麦金||
 |Megaric School|麦加拉学派||
+|merely confused supposition|纯混淆指代||
 |metric|度规|物理学通行，“度规”优于“度量”|
 |metric field|度规场|物理学通行|
+|Michael Constantine Psellus|米哈伊尔·康斯坦丁·普塞洛斯||
 |Michael D. Resnik|雷斯尼克|数学哲学；首现括注|
 |Michael Moore|迈克尔·摩尔|法哲学（与纪录片导演同名，随词条）|
 |Mill, Harriet Taylor|哈丽雅特·泰勒·密尔||
@@ -281,13 +299,16 @@
 |perception|知觉||
 |personal identity|人格同一性||
 |Peter Kivy|彼得·基维||
+|Peter Lombard|彼得·伦巴德||
 |Philo (follower of Pyrrho)|菲洛||
 |pneuma|普纽玛||
 |point-coincidence argument|点重合论证|Stachel 术语|
+|possibilia|可能物||
 |Possibilism|可能论|模态形而上学（与现实主义相对）|
 |practical knowledge|实践知识|行动哲学；技艺与实践智慧之分|
 |principle of bivalence|二值原则||
 |principle of transcendence|超越原则||
+|properties of terms|词项属性||
 |Protestant Reformation|新教改革|宗教改革|
 |Putnam, Hilary|普特南||
 |Pyrrho|皮浪||
@@ -297,6 +318,7 @@
 |quality|性质||
 |quantity|量||
 |reason|理性||
+|reduction per impossibile|归谬还原||
 |redundancy biconditional|冗余双条件句||
 |Rescher, Nicholas|雷谢尔||
 |retinal image|视网膜像|视觉科学；审定复合佐证|
@@ -320,6 +342,7 @@
 |specification objection|指定诘难||
 |specified set|指定集||
 |Spinoza|斯宾诺莎||
+|square of opposition|对当方阵||
 |Stanley Fish|Stanley Fish|现代学者保留英文；通行汉译“费什”|
 |Stephen Schiffer|斯蒂芬·希弗||
 |Stilpo|斯提尔波||
@@ -327,9 +350,11 @@
 |Stuart Hampshire|斯图尔特·汉普希尔||
 |sunêtheia|日常经验||
 |Supreme Ultimate|太极|审定直接命中（中国古代史/自然辩证法）|
+|syllogistic mnemonic|三段论助记诀||
 |Szilágyi, K.|K. 西拉吉|匈牙利学者|
 |telos|目的（终极目的）||
 |Ten Wings|十翼|易经 Commentary；审定异域不采|
+|terminist logic|词项主义逻辑||
 |the One|太一（普罗提诺 to hen）||
 |thing-in-itself|物自体（康德；亦作“自在之物”）||
 |Thinking Dispositions|思维倾向|认知心理学；审定复合佐证|
