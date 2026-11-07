@@ -40,3 +40,5 @@
 ## 6. 续记（复审中发现的条目级缺陷）
 
 * **e/epistemology-language-tibetan**：源参考文献含 `### A. Sources and translations` / `#### 1. Pre-classical period` / `#### 2. Classical and post-classical period` / `### B. Modern studies` 四层书目子标题，中文侧随「参考文献脚注化」（refs_kind=modern）转换而合并消失（55 个条目本身齐全）。属转换器范式缺陷而非漏译；手工重构需打散 55 条定义顺序，风险高于收益，**登记为转换器债**，留待 refs 转换器统一处理。
+
+* **E 批 4 条半截账本不可再 compose**：emotion-Christian-tradition 10/74、epictetus 20/61、erfurt 27/60、equal-ed-opportunity 79/103 段。这些账本系旧管线中途产物，`lq.py check` 会报「段数不符」HARD-FAIL；**禁止**据此 compose（会截断正文）。正文完整性以节标题/脚注键/段数比三方核销为准，账本仅作历史证据保留。

@@ -2,7 +2,7 @@
   "slug": "emotion-Christian-tradition",
   "kind": "retranslate",
   "zh_doc": "e/emotion-Christian-tradition.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "?",
       "at": "2026-11-03T19:23:10Z",
       "evidence": "四检全绿：check_style 0 / check_math 0 / check_academic --strict OK / check_prose 65 警告（豁免留痕见 s2）；术语 14 条已登记 yi-zhe-shuo-ming.md（emotion/passion/affection 三分等）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:38:10Z",
+      "evidence": "r1 结构核销：16 节一一对应、29 个脚注键全等、无重复定义、年份集合无缺无多；经卷号（5:22/5:41/7:9–11/12:13、罗 5:3、西 1:24）与 *chairein*/*chara*/*agalliasthai* 等希腊语逐项核对；注：本条账本仅 10/74 段（旧管线半截产物），已登记为不可再 compose 的历史证据（qa-findings §6）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:38:10Z",
+      "evidence": "r2 句级复读：prose 65 项逐条读核——其中 40 余处为圣经引文与詹姆斯式排比（'宗教的恐惧、宗教的爱、宗教的喜乐'）内的'的'链，属忠实引文；实修 2 处（段13 断言句改冒号结构、段15 比较句改'更因为'）；其余为神学术语叠加密度，按 ADR-0020 豁免"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:38:13Z",
+      "evidence": "r3 终检：check_style 0 issue、check_academic --strict OK；结构 16/16 节、29/29 键；账本半截已登记不 compose"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:38:13Z",
+      "evidence": "终稿验收：六道全过；引文密度豁免有据"
     }
   ],
   "blockers": [],
