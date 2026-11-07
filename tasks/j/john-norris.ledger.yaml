@@ -1,0 +1,505 @@
+version: 1
+slug: john-norris
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      John Norris (1657 – 1711) continued the broadly Cartesian project in late 17ᵗʰ Century England despite the ever-growing prominence of Lockean empiricism. Norris wrote on numerous topics, including politics, religion, philosophy and the Christian life. He also composed poetry. This entry describes several of Norris’ most noteworthy advances and insights.
+    step1: |-
+      约翰·诺里斯（John Norris，1657–1711）在十七世纪晚期的英格兰延续了广义上的笛卡尔式事业，尽管洛克式经验论日益显赫。诺里斯著述涉及众多题目，包括政治、宗教、哲学与基督徒生活。他也写诗。本词条叙述诺里斯若干最值得注意的推进与洞见。
+    step2: |-
+      约翰·诺里斯（1657–1711）当十七世纪晚叶之英格兰，犹续笛卡尔一路之业，虽洛克式经验论日益显赫而不顾。诺里斯所著，遍及政治、宗教、哲学与基督徒之生活，兼工于诗。本词条述其最可注意之数端推进与洞见。
+  - id: 2
+    kind: body
+    source: |-
+      One important goal of his philosophical writing was the completion of Malebranche’s project. Norris believed Malebranche did not prove the existence of the intelligible world, viz. the mind of God. Nor did Malebranche offer a full account of the nature of the intelligible world. Norris adopted Descartes’ view of the structure of thought, and a Malebranchean view of the contents of thought. He also elaborated a version of Descartes’ real distinction proof in order to weaken Locke’s thinking matter hypothesis. Proving the existence and immortality of the soul was a prime concern for Norris. Moreover, he was troubled by the heterodox theological views of the Enthusiasts (Quakers) and Socinians. He constructed numerous arguments against their doctrines by utilizing the “divine light,” characterized within what he called his “Ideal Philosophy.”
+    step1: |-
+      他哲学写作的一个重要目标，是完成马勒布朗士的事业。诺里斯认为，马勒布朗士没有证明可理解世界——即上帝之心——的存在；马勒布朗士也没有对可理解世界的本性给出完整的说明。诺里斯采纳了笛卡尔关于思想结构的看法，以及马勒布朗士关于思想内容的看法。他还详细阐发了笛卡尔“实在区别”证明的一个版本，以削弱洛克的“思想物质”假说。证明灵魂的存在与不朽，是诺里斯的首要关切。此外，他为狂热派（贵格会）与索齐尼派的不正统神学观点所困扰。他运用“神圣之光”——在他所谓“观念哲学”中得到刻画——构造了大量论证来反驳他们的学说。
+    step2: |-
+      其哲学之著，一要旨在成马勒布朗士之业。诺里斯以为马勒布朗士未证可理解之世界——即上帝之心——之存在，亦未备陈可理解世界之性。诺里斯取笛卡尔论思想结构之说，而取马勒布朗士论思想内容之说；又详演笛卡尔“实在区别”之证一版，以弱洛克“思想即物质”之假说。证灵魂之存在与不朽，乃诺里斯首务。又为狂热派（贵格会）与索齐尼派之异端神学所扰，乃假“神圣之光”——于其所谓“观念哲学”中见其义——构诸论证以攻其说。
+  - id: 3
+    kind: body
+    source: |-
+      ## 1. Life and Main Works
+    step1: |-
+      ## 1 生平与主要著作
+    step2: |-
+      ## 1 生平与主要著作
+  - id: 4
+    kind: body
+    source: |-
+      John Norris was born on January 2, 1657 in Collingbourne Kingston, Wiltshire. His father was a minister, and Norris was the second of four siblings. His early training was a Puritan one. In 1671, he began a course of study at Winchester School, where he received a classical education; the curriculum included Greek and Latin literature, and the young Norris excelled at his studies. He matriculated at Exeter College, at Oxford, spending the years from 1676 – 1680 studying the Scholastic and ancient authors. In 1680, Norris was elected a Fellow of All Souls College, a distinction he enjoyed for nine years and would always recall fondly. He was ordained in 1684 and sometime before 1688 he also discovered the works of Malebranche, who would become one of his philosophical heroes.
+    step1: |-
+      约翰·诺里斯于 1657 年 1 月 2 日生于威尔特郡的科林伯恩金斯顿。其父为牧师，诺里斯在四个同胞中排行第二。他早年的教养是清教徒式的。1671 年，他开始在温切斯特学校学习，在那里接受了古典教育；课程包括希腊与拉丁文学，年轻的诺里斯在学业上表现优异。他入牛津大学埃克塞特学院，1676 至 1680 年间研读经院作家与古代作家。1680 年，诺里斯当选为万灵学院研究员，这一荣誉他享有九年，并终身怀念。他于 1684 年受圣职；1688 年之前的某个时候，他还发现了马勒布朗士的著作，后者将成为他的哲学英雄之一。
+    step2: |-
+      约翰·诺里斯，1657 年 1 月 2 日生于威尔特郡科林伯恩金斯顿。父为牧师，诺里斯于四同胞中居次。其早教为清教徒之教。1671 年入温切斯特学校，受古典之教，课有希腊、拉丁文学，少年诺里斯课业甚优。既入牛津埃克塞特学院，1676 至 1680 年间治经院与古人之书。1680 年，当选万灵学院研究员，享此荣者九年，终身念之。1684 年受圣职；1688 年前，又得见马勒布朗士之书，其后为所心折者之一。
+  - id: 5
+    kind: body
+    source: |-
+      It was during his stay at All Souls that Norris published several of his most popular works. He published the first edition of *A Collection of Miscellanies* in 1687, which would culminate in a ninth edition printed in 1730. At this time he also published “The Root of Liberty,” a sermon in which he defended human freedom by an appeal to the Augustinian concept of attention. In these publications, Norris’ own thought is pronounced; they exhibit an independence from the heavy influence Malebranchean doctrine would exert upon Norris’ subsequent works. *The Theory and Regulation of Love*, a piece characterizing love as the summons of God, was published in 1688, and the first text in which Norris clearly adopted Malebranchean arguments. Norris appended to this text his correspondence with Henry More, the Cambridge Platonist. Finally in 1689, he published *Reason and Religion*, which would be reissued seven times until 1724.
+    step1: |-
+      正是在万灵学院期间，诺里斯出版了他最受欢迎著作中的几部。1687 年他出版了《杂集》（A Collection of Miscellanies）第一版，此书最终于 1730 年印至第九版。此时他还发表了《自由之根》（“The Root of Liberty”）——一篇讲道，其中借奥古斯丁式的“注意”概念为人的自由辩护。在这些出版物中，诺里斯自己的思想已相当显著；它们表现出一种独立性，尚未受马勒布朗士学说后来对他的著作所施加的重大影响。《爱的理论与规范》（The Theory and Regulation of Love）——一篇把爱刻画为上帝之召唤的作品——出版于 1688 年，是诺里斯明确采纳马勒布朗士论证的第一部文本。诺里斯在该书后附上了他与剑桥柏拉图主义者亨利·莫尔的通信。最后，1689 年他出版了《理性与宗教》（Reason and Religion），此书至 1724 年间重印七次。
+    step2: |-
+      方其在万灵时，诺里斯刊其最行之数书。1687 年刊《杂集》初版，终至 1730 年第九版。其时又刊《自由之根》，为讲道之文，借奥古斯丁“注意”之义以申人之自由。此诸刊中，诺里斯己意已著，卓然独立，犹未为马勒布朗士之说所重移——其说后乃大行于其书。《爱的理论与规范》，以爱为上帝之召者，1688 年刊，为诺里斯明取马勒布朗士论证之始。诺里斯附以与剑桥柏拉图主义者亨利·莫尔之书牍于其后。终焉 1689 年刊《理性与宗教》，至 1724 年间重印七次。
+  - id: 6
+    kind: body
+    source: |-
+      He resigned the fellowship in 1689, married, and began a two-year occupation as rector at Newton St. Loe in Somersetshire. There, he published one of his most popular texts, *Christian Blessedness*, in 1690. One year later, Locke appealed to the Earl of Pembroke on Norris’ behalf; consequently, Norris assumed the duties of rector at Bemerton near Salisbury. In general, he preferred study and meditation, and found his duties as rector to impinge upon his scholarly activities. Nonetheless, he maintained various correspondences. He engaged in correspondences with Elizabeth Thomas (“Corinna”), Damaris Cudworth (Lady Masham), Mary Astell and Locke, among others. In 1695, Norris published his correspondence with Astell and entitled it, *Letters concerning the Love of God, between the Author of the Proposal to the Ladies and Mr. John Norris*. Moreover, he found the time to publish pamphlets and treatises on a variety of topics including the Toleration Act, Christian morality, the immortality of the soul, and the difference between the Ideal Philosophy he endorsed and the enthusiasm of the Quakers. Norris made clear these differences in an addendum to *Reflections upon the Conduct of Human Life* in 1691. Richard Vickris, the Quaker, replied irately to this addendum. This generated a heated reply from Norris, in which he further elucidated the differences between the “divine light” of his own philosophy and that of the Quaker doctrines. This work was entitled *Two Treatises concerning the Divine Light* and was issued in 1692. Locke and Norris shared the objective of debunking the Quakers’ claim to direct enlightenment from God. But their differences far outweighed their similarities.
+    step1: |-
+      他于 1689 年辞去研究员职位，结婚，并开始在萨默塞特郡牛顿圣洛任堂区长，为期两年。在那里，他于 1690 年出版了他最受欢迎的文本之一《基督徒的福乐》（Christian Blessedness）。一年后，洛克为诺里斯向彭布罗克伯爵说项；结果，诺里斯就任索尔兹伯里附近贝默顿的堂区长。总的说来，他偏好研读与沉思，觉得堂区长的职责侵扰了自己的学术活动。尽管如此，他仍维持着各种通信。他与伊丽莎白·托马斯（“科琳娜”）、达玛里斯·库德沃斯（马沙姆夫人）、玛丽·阿斯特尔以及洛克等人通信。1695 年，诺里斯出版了他与阿斯特尔的通信，题为《关于上帝之爱的书信：在〈致女士们的建议〉的作者与约翰·诺里斯先生之间》（Letters concerning the Love of God, between the Author of the Proposal to the Ladies and Mr. John Norris）。此外，他还能腾出时间，就各种题目出版小册子与论著，包括《宽容法》、基督徒道德、灵魂不朽，以及他所主张的观念哲学与贵格会狂热之间的差别。诺里斯在 1691 年《对人类生活之行的反思》（Reflections upon the Conduct of Human Life）的附录中明确说明了这些差别。贵格会信徒理查德·维克里斯怒气冲冲地答复了这篇附录。这又引出诺里斯一篇激烈的答复，其中他进一步阐明了自己哲学中的“神圣之光”与贵格会学说中的“神圣之光”的差别。这部著作题为《关于神圣之光的两种论说》（Two Treatises concerning the Divine Light），于 1692 年刊行。洛克与诺里斯在揭穿贵格会所谓直接从上帝得启明的主张上目标一致。但他们的分歧远远大于相似。
+    step2: |-
+      1689 年辞研究员之职，娶妻，始为萨默塞特郡牛顿圣洛堂区长，凡二年。在彼，1690 年刊其最行之书之一《基督徒的福乐》。越一年，洛克为诺里斯请于彭布罗克伯爵；诺里斯遂为索尔兹伯里近处贝默顿之堂区长。大抵诺里斯好研读沉思，而以堂区之职为扰其学。然仍与诸人通书：伊丽莎白·托马斯（“科琳娜”）、达玛里斯·库德沃斯（马沙姆夫人）、玛丽·阿斯特尔及洛克等。1695 年，刊其与阿斯特尔之书牍，题曰《关于上帝之爱的书信：在〈致女士们的建议〉之作者与约翰·诺里斯先生之间》。又暇则刊小册与论著，题涉《宽容法》、基督徒之道德、灵魂之不朽，及其所主观念哲学与贵格会狂热之别。诺里斯于 1691 年《对人类生活之行的反思》附录中明此诸别。贵格会信徒理查德·维克里斯忿然答之，诺里斯复作激辩，益明己哲学之“神圣之光”与贵格会所说之别。其书题曰《关于神圣之光的两种论说》，1692 年刊。洛克与诺里斯于破贵格会所谓直受上帝启明之说，志同矣；然其异远过其同。
+  - id: 7
+    kind: body
+    source: |-
+      In 1690, Norris issued criticisms of Locke’s *An Essay concerning Human Understanding*¸ the first edition of which was published in December 1689. Norris’ review, entitled *Cursory Reflections upon a Book called An Essay concerning Human Understanding*, prompted Locke to modify the second edition of the *Essay* at 2.10.2. Otherwise, Locke did not reply publicly to Norris’ criticisms. It was only after Locke and Norris quarreled that Locke published his estimation of Norris’ works. Lady Masham had entrusted a letter for Locke to Norris, but news reached Locke that Norris had opened the letter. Locke suspected Norris in spite of his protests, and from that time forward, which was the end of 1692, they were not on friendly terms (Cranston 1957, 364–365)[^cranston-1957]. Shortly thereafter (1693), Locke wrote *Remarks upon some of Mr. Norris’ Books, Wherein he asserts P. Malebranche’s Opinion of seeing all Things in God and Examination of Malebranche*. Charlotte Johnston has argued that the impetus and target for Locke’s critical evaluation of Malebranche’s thought was Norris, whom he viewed as reiterating Malebranche’s thought (1958). In the *Cursory Reflections*, Norris stated that he would soon publish a treatise, in which he would present his own philosophy at length.
+    step1: |-
+      1690 年，诺里斯发表了对洛克《人类理解论》的批评——该书第一版于 1689 年 12 月刊行。诺里斯的评论题为《对一部名为〈人类理解论〉的书的匆匆反思》（Cursory Reflections upon a Book called An Essay concerning Human Understanding），促使洛克在《人类理解论》第二版 2.10.2 处作了修改。除此之外，洛克并未公开答复诺里斯的批评。只是在洛克与诺里斯争执之后，洛克才发表了他对诺里斯著作的评价。马沙姆夫人曾托诺里斯转交一封给洛克的信，但洛克得知诺里斯拆开了那封信。尽管诺里斯抗议，洛克仍怀疑他；自此以后——时在 1692 年末——两人便不再友善（Cranston 1957, 364–365）[^cranston-1957]。此后不久（1693 年），洛克写了《对诺里斯先生若干著作的评注：其中他主张马勒布朗士关于在上帝中看见万物的意见，以及对马勒布朗士的考察》。夏洛特·约翰斯顿论证说，洛克批判评估马勒布朗士思想的动力与靶子正是诺里斯，因为洛克视诺里斯为在重述马勒布朗士的思想（1958）。在《匆匆反思》中，诺里斯表示他不久将出版一部论著，在其中详尽陈述自己的哲学。
+    step2: |-
+      1690 年，诺里斯出文以驳洛克《人类理解论》——其书初版刊于 1689 年 12 月。诺里斯之评，题曰《对一部名为〈人类理解论〉的书的匆匆反思》，使洛克于《人类理解论》第二版 2.10.2 处有所改。此外洛克未公答其评。至二人相失之后，洛克乃出其评诺里斯书之论。马沙姆夫人尝托诺里斯转书于洛克，而洛克闻其私发之。诺里斯虽自辩，洛克终疑之；自是以后——时在 1692 年末——二人不复相善（Cranston 1957, 364–365）[^cranston-1957]。未几（1693 年），洛克作《对诺里斯先生若干著作之评注：其中主张马勒布朗士“于上帝中见万物”之说，并考察马勒布朗士》。夏洛特·约翰斯顿谓洛克评骘马勒布朗士之思，其发其的皆在诺里斯，以洛克视之为复述马勒布朗士之说者（1958）。诺里斯于《匆匆反思》中自言将刊一论著，详陈己之哲学。
+  - id: 8
+    kind: body
+    source: |-
+      But it was not until 1701 that Norris completed the first volume of his magnum opus, *An Essay Towards the Theory of the Ideal or Intelligible World*. The second volume was issued in 1704. (Hereafter, *Theory I* and *Theory II*, respectively.) Norris examines the divine nature in *Theory I* and in *Theory II* he details the nature of creation, specifically the nature of humanity and animals. These highly theoretical works did not enjoy the popular success of his other writings. One of these, *An Account of Reason and Faith, in Relation to the Mysteries of Christianity*, was so well-read that it was issued in a fourteenth edition as late as 1790. His last two theoretical works concerned the nature of the soul: *A Philosophical Discourse concerning the Natural Immortality of the Soul*, published in 1708, and *A Letter to Mr. Dodwell concerning the Immortality of the Soul of Man*, issued in 1709. It would seem that his many duties as rector did not hinder him completely from engaging in his beloved intellectual pursuits, as his publication record demonstrates. His final publication within his own lifetime, *A Treatise concerning Christian Prudence*, was printed just a year before his death. He died in February of 1711, aged fifty-six years, at Bemerton, and was interred there.
+    step1: |-
+      但直到 1701 年，诺里斯才完成其巨著《论观念世界即可理解世界之理论》（An Essay Towards the Theory of the Ideal or Intelligible World）第一卷。第二卷于 1704 年刊行（以下分别简称《理论一》《理论二》）。诺里斯在《理论一》中考察神性，在《理论二》中详述受造界的本性，尤其是人与动物的本性。这些高度理论性的著作并未享有他其他著作那样的流行成功。其中《理性与信仰之报告：关于基督教的奥秘》（An Account of Reason and Faith, in Relation to the Mysteries of Christianity）一部读者甚众，迟至 1790 年还印至第十四版。他最后两部理论著作论灵魂的本性：《关于灵魂自然不朽的哲学论说》（1708）与《致多德韦尔先生论人之灵魂不朽的书信》（1709）。从其出版记录看，他作为堂区长的诸多职责似乎并未完全阻碍他从事心爱的智性追求。他生前最后一部出版物《论基督徒的审慎》（A Treatise concerning Christian Prudence）在他去世前一年印行。他于 1711 年 2 月在贝默顿去世，年五十六岁，葬于该地。
+    step2: |-
+      然至 1701 年，诺里斯乃成其巨著《论观念世界即可理解世界之理论》首卷，第二卷 1704 年刊（以下称《理论一》《理论二》）。《理论一》考神性，《理论二》详受造界之性，尤人与动物之性。此诸书理趣高远，不获其他书之盛。中如《理性与信仰之报告：关于基督教之奥秘》，读者甚众，迟至 1790 年犹印第十四版。其末二理论之著论灵魂之性：《关于灵魂自然不朽之哲学论说》（1708）、《致多德韦尔先生论人之灵魂不朽之书》（1709）。观其刊书之迹，堂区长之众职似未尽阻其心好之学问。其生前最后一书《论基督徒之审慎》，卒前一年印行。1711 年 2 月卒于贝默顿，年五十六，葬其地。
+  - id: 9
+    kind: body
+    source: |-
+      It is puzzling that a figure as popular and widely-read as Norris has received such little recognition from intellectual historians of the early modern period. Perhaps Norris has not been paid much attention because his philosophical writings appear to contain an eclectic mixture of many divergent, incompatible sources rather than a coherent synthesis of those sources. Charles McCracken notes that Norris has been dubbed in a variety of ways, but that the “English Malebranche” seems most appropriate (179). Norris was heavily influenced by Malebranche, and goes so far as advising his own children that Malebranche’s *Search after Truth* should “always be read, studied, dwelt and fed upon till it be digested, made your own, and converted as it were into the very Substance of your Souls” (*Spiritual Counsel* 501). Norris was also a follower of Descartes, whom Norris viewed as constructing “the only intelligible Frame of Natural Science that has yet appear’d in the World, and the only intire System that deserves the name of *Philosophy*” (500). Norris also draws liberally from his Scholastic background, and frequently uses theoretical tools borrowed from the canonical thinkers taught at the universities, such as Aquinas, Augustine and Suarez. His heavy reliance on diverse intellectual sources, especially Descartes and Malebranche, is apparent in his writings. Nonetheless, his arguments are tremendously valuable for understanding better the debates of his time. His rehearsal of Descartes’ real distinction proof and his evaluation of Locke’s thinking matter hypothesis exposes some critical Lockean assumptions, bringing into sharp relief the disagreements between the rationalists and empiricists of that era. He also influenced the views of other minor figures, most notably, Mary Astell and Arthur Collier. Finally, Norris’ adaptation and expansion of Malebranche’s twin doctrines of Vision in God and occasionalism are also central to understanding the continuation of the Cartesian project in late 17ᵗʰ and early 18ᵗʰ century England.
+    step1: TBD
+    step2: TBD
+  - id: 10
+    kind: body
+    source: |-
+      ## 2. God
+    step1: TBD
+    step2: TBD
+  - id: 11
+    kind: body
+    source: |-
+      ### 2.1 The Intelligible World
+    step1: TBD
+    step2: TBD
+  - id: 12
+    kind: body
+    source: |-
+      The intelligible world is the realm of Platonic objects that constitutes the source and grounds of human knowledge. Malebranche’s account of the intelligible world is incomplete according to Norris:
+    step1: TBD
+    step2: TBD
+  - id: 13
+    kind: body
+    source: |-
+      > *Malebranch* has ventured the farthest of any that I know upon the Discovery. He is indeed the great *Galileo* of the Intellectual World. He has given us the *Point of View*, and what ever farther Detections are made, it must be through his *Telescope…*But even this great *Apelles* has drawn this Celestial Beauty but half way, and I am afraid the excellent Piece will Suffer, whatever other hand has the finishing of it. (*Theory I* 4)
+    step1: TBD
+    step2: TBD
+  - id: 14
+    kind: body
+    source: |-
+      Norris considers his *Theories I* and *II* to be the completion of Malebranche’s project. In *Theory I*, Norris discusses the nature of God, and in *Theory II* he discusses how creation is related to God. The most substantial expansion upon Malebranche’s thought occurs in the first part of this treatise, where Norris spends a great deal of time arguing that God is truth. The intelligible world is the mind of God, a “kind of *Terra Incognita*, a more *Intellectual America*” (3).
+    step1: TBD
+    step2: TBD
+  - id: 15
+    kind: body
+    source: |-
+      Norris first argues for the existence of an ideal counterpart to nature. Since the world is created, “it must of necessity receive its Being from some other Being that was when it self was not” (18). He considers the nature of a being that is capable of bringing existence from absolute privation, and concludes such a being must be infinitely powerful. Relying upon the premise that all action is guided by thought, and that God could not have thought about the world because it did not exist at the time, Norris concludes the ideas that guided God’s thought in the creation of the world and its inhabitants must be “their essential Reasons and Natures before they had any in this, nay even from all Eternity…and that there is an *Intelligible* as well as a *Sensible* World, truly representative and exhibitive of this,” or “ a fair intelligible Mirrour” (26). The intelligible world is the pattern or model of nature, “since it could no more be its own *Exemplary* or *Formal*, than *Efficient* Cause” (30).
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      His second argument for the intelligible world is from the existence of natural kinds. Norris asks “Why is not the Body of one Man as big as the Globe of the Sun, while that of another is too small to be seen without a *Microscope*?” and answers “’tis not according to the *Idea* of that Creature that he should be either so big, or so little” (39). This stance marks a noteworthy departure from Malebranche, who claims God does not have particular ideas of bodies in *Elucidation 10* of the *Search*. Norris’ next argument begins with our understanding of perfect, geometrical objects. Norris says when he views “a globular Body I have naturally excited in me an *Idea* of a perfect Globe or Sphere” (51). This implies the existence of an ideal sphere because “the effect cannot have more perfection than its Cause…because the Cause cannot give that to the effect which it has not it self” (52). Norris concludes that human thought of perfect circles proves an ideal circle exists as the cause of thought because there are none in nature.
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      His fourth argument comes from the nature of truth. Norris considers the skeptic’s claim that there is no absolute truth and turns the table on the skeptic. If the skeptic is right, then there is no truth, which is itself an absolute truth. As such, the claim, ‘There is no truth’, would be a necessary and eternal truth:
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      > And besides when they go to prove this sceptical Position they must do it by pretending to lay the Grounds of it in Philosophic Principles and Maxims, which besides the Confession of such Principles would be to erect their scepticism as an Institution of Science, and then since all Science is of *Necessary* and *Immutable* things, and whatsoever is necessary and immutable is also Eternal, hence it follows yet farther that they will by consequence and must allow not only Truth in general, but also *Eternal* Truth, since both the Conclusion which they pretend to prove, and the Principles whereby they prove it, according to them must be such. (65)
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      There are eternal truths, as even the skeptic must admit, so there are also eternal relations of ideas because truth relates ideas. In Norris’ view, it is the divine ideas that are related. Truth is grounded “upon this necessity of Union and Connexion of Ideas in certain Propositions” (67). Norris adapts Suarez’ view that all relations are accidental, hence require a subject. Nonetheless, Norris argues that the eternal truths “are *Real*, and have an existence out of, and independent upon the understanding” (70). The eternal truths derive their reality from the “Simple Essences of things” and these are the eternal divine ideas, which stand in Suarezian accidental relations to one another (71). Norris’ fifth argument for the existence of divine ideas is that there are objective sciences concerning universals, such as metaphysics and geometry. These disciplines concern necessary knowledge, “to speak more conformably to the School-language, in a knowledge acquired by *Demonstration*” (128–129). Since all science concerns the necessary and unchanging, science cannot be about contingent things, but about universals. These universals are the intelligible objects, or the divine ideas.
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      Norris’ final and sixth argument for the existence of the intelligible world derives from the existence of God. Indeed, Norris views his own work as the culmination of the project begun by Plato. A proper reading of the *Timaeus* will reveal Plato meant “the *Exemplaria rerum in mente Divina* to be the Original Forms or Patterns of things in the divine Understanding” rather than the standard interpretation, which is that the creator consult and not be the locus of abstract objects (139). If God has the ideas, then the intelligible world exists because God exists. God has the ideas in an eminent manner (‘eminent’ is discussed further below), and these ideas are the objects of His thought. Relying upon the principle that all knowledge is knowledge of something, Norris concludes that the divine ideas are real objects in the mind of God. These ideas are “really Coessential with and indistinct from the Essence of God” (155) so when God considers ideas, God considers himself. God considers himself adequately and inadequately,
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      > Again when he knows himself absolutely Speaking, he considers himself *adequately*, but in the knowledge of Creatures, or rather of himself in relation to Creatures, he considers himself inadequately, according to those degrees of Being or Perfection wherein his Essence is imitable or participable by them. (167)
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      He concludes his arguments for the existence of the intelligible world by stating that the ideal world is better known than the natural world because it is necessary, eternal and immutable. As Descartes had argued, the senses are part of the natural world and are designed to assist in preserving the union of soul and body, or to keep one alive, not for delivering knowledge. The nature and existence of the intelligible world is discovered by intellectual activity; the highest degree of intellectual activity is the clear and distinct perception.
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      ### 2.2 God’s Simplicity
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      When one clearly and distinctly cognizes the nature of God, one perceives God as simple, immaterial and infinite. In traditional Christian doctrine, these attributes are of paramount importance. Any philosophical theory compromising them must be rejected. Norris explains:
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      > The Truth and Necessity of these Attributes is so Unquestionably certain in the Nature of that Glorious and Adorable Being which we call God, that there needs no other Evidence of the Falshood of any *Hypothesis* how rational soever and well adjusted it may otherwise appear, than the Repugnance which it shall be convinc’d to carry in it to all or any of these Attributes. And therefore it is necessary to acquit our Theory of Ideas from that Inconvenience which on this side it may seem to lie open to, and which alone would be sufficient utterly to Silence and Overthrow it. And since it is *Necessary*, ‘tis no little Satisfaction to me to find it so *Feasible*. (*Theory I* 293)
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      Some critics, including Arnauld, had charged Malebranche with Spinozism because he claimed God has the idea of intelligible extension. Such critics reasoned that the only way for God to contain extension is for God to be extended. Norris reconciles God’s possession of intelligible extension with the immateriality of God by using the notion of eminent containment. There are two ways a thing can be contained in another, formally or eminently. Norris notes formal and eminent containment are usually discussed in the context of causation. Generally, formal containment explains cause and effect sequences amongst similar causes and effects. For example, the cause of a child’s fear might be the recollection of a frightening image. The child’s fear is formally contained in the recollection. Eminent containment explains dissimilar causes and effects. When an architect designs a building, and several months later the architect’s vision is realized in a physical structure, that physical structure was eminently contained, or contained in a higher manner, in the mind of the architect. All human actions, as long as they are planned, are eminently contained in the human mind. Analogously, Norris states God eminently contains extension as a divine idea just as the architect eminently contains the building. Intelligible extension, then, is a divine idea. Norris believes that the ideal philosophy can settle the meaning of ‘eminent containment’, and thus settle the dispute about intelligible extension. This view is found in “*POSTSCRIPT, Concerning the Distinction of* Formaliter *and* Eminenter, *as applied to the manner of the Perfection of Things being in God*,” appended to *Theory I*.
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      Norris derives the “divine ideality,” or the divine ideas, from the infinitude of God, and he derives God’s infinity from the divine ideas (Norris argues this is non-circular as we shall see below):
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      > And as his Ideality may be Demonstratively proved from his Infinity so his Infinity may be very Rationally collected from his Ideality, it being not Conceivable that any Being that is not Infinite in Being, should be *Omniform*, or have the Ideal Reasons of all things in himself. (297)
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      One objection Norris raises concerns how the infinite can represent the finite. His answer again relies upon the thought of Suarez, whom Norris reread carefully before writing his *Theories I* and *II*. Suarez had distinguished two ways of being finite. An item can be finite according to its “*esse formale*” or its “*esse reale*” (300). If a thing is positively finite, it is limited in such a way that can never be infinite. If a thing is negatively finite, it is finite “though there be no repugnance in its having it [infinitude] from elsewhere” (301–302, brackets added). A divine idea, according to its *esse formale* is negatively finite whereas according to its *esse reale* is infinite. Norris believes “Ideas are really Identical with the Divine Nature, and so partake of the same real Infinity and Incomprehensibility that essentially belongs to it” (302). If each idea is identical to God, then each idea is really infinite, and negatively finite. A further consequence is that an idea can be called both infinite and finite without contradiction. Norris also notes there is no multiplication of infinities in God on his view. Here Norris diverges from Malebranche’s view as stated in the second dialogue of *Dialogues on Metaphysics and Religion* that God is “infinitely infinite,” which strikes the reader as comparable to Spinoza’s infinite attributes.
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      One might wonder how God’s ideality could be proven from his infinity and his infinity from his ideality because such an argument appears circular. Norris explains why this need not concern us:
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      > But now there is no more absurdity in proving the same by the same, if by the same be meant only really, not formally the same, than in proving one attribute of God by another, as his eternity, suppose, from the necessity or immutability of his being, which though really the same, yet being of a distinct formality, are allowed in all rational discourses about them to be considered and used as if really distinct, as to any consequence from one to the other. (406–407)
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      Indeed, Norris proves the existence of God from the nature of truth, which is another divine attribute. (See *A Metaphysical Essay* 193–207 in *Miscellanies*.) Norris also proves the many attributes of God beginning with God’s attribute of necessary existence, revealed in His proclamation to Moses that He is “I Am.” In *Reason and Religion* Norris interprets this proclamation as Being. These various demonstrations proceed by proving “the same by the same” since any and all attributes are “really the same” with one another, the attributes are identical to God.
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      These arguments preserve the divine attribute of simplicity. If God is simple, then proofs utilizing different attributes must be proofs that utilize the same subject. The diversity of the attributes are explained as various ways of cognizing the same divine essence:
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      > … this Divine Essence which in itself is one and the same general Perfection, does exert and display it self variously in its Operations, by reason of the Diversity of Objects, the Attributes of God are by us conceiv’d distinctly. Not that they are so in respect of God, with whom they are really one and the same, and consequently so also among themselves, but only with respect to our manner of conception. (*Reason and Religion* 33–34)
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      Norris proceeds to explain how an attribute such as omnipotence can be accounted for because it is “displayed according to the diversity of objects” and “Modes of operation” (34). In the mode of creating, God is the omnipotent Creator. The relevant object here is all of creation. In the mode of legislator, God is the Supreme Lawgiver, and the relevant object is the moral realm. The diverse ways of considering the natural world are also the many ways we can conceive of God’s attributes. In the end, humanity has partial, imperfect views of God according to his operations. A lesser being, such as a human, can also be known under many operations. One might be a parent, spouse, writer and teacher. But that person is defined in those roles because of the objects that these titles refer to; in the case of the teacher, the person is a teacher only with respect to the students taught. One is a parent only with respect to the role played towards offspring, but the person is “really one and the same.” Just as we might come to know an individual better and better as we come to know more of the person’s roles, so we come to know God better by conceiving of his many attributes. Norris believes that all attributes are one in God, differently conceived according to the roles played and objects considered.
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      Furthermore, Norris reduces the eternal truths, which are the accidental relations amongst the divine ideas to the ideas themselves, and then reduces the ideas to God:
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      > The Divine Ideas are really the same with the Divine Essence. But Eternal Truths are really the same with the Divine Ideas. Therefore Eternal Truths are really the same with the Divine Essence. (*Theory I* 332–333)
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      So it is odd that, after laying out these arguments for the simplicity of God, Norris states that the flaw in Descartes’ account of voluntarism is that Descartes had attributed to the divine will what belongs to another attribute of God – the divine ideality. If the attributes are all one, it is difficult to argue for a priority amongst attributes. Nonetheless, Norris argues that Descartes was correct to claim truth must depend on God alone, but incorrectly believed God arbitrarily creates the eternal truth, for this renders truth as mutable as any other creature. What Descartes missed, according to Norris, was the distinction between God as *intelligible*, or exhibitive, and God as *intelligent*, or conceptive (*Miscellanies* 440, *Theory I* 357–358). To understand God as conceptive is to understand God as a thinker, who reflects upon his own ideas. To understand God as exhibitive is to understand God *qua* divine ideas. The complexity arising from including ideas in the divine mind is a further difficulty for divine simplicity. In the end, if Norris is to be read as consistent, he must claim that the divine ideality is another attribute of God. Norris might have taken Malebranche’s lead, who wrote, concerning divine simplicity, “I long stopped worrying about problems that are beyond me” (qtd. in Schmaltz 2000 62)[^schmaltz-2000]. But it is noteworthy that Norris did not; concerning the topic of divine simplicity, Norris advances the work of his predecessors, in particular the work of Malebranche. In a passage reminiscent of Thomistic analogical predication, Norris suggests that God as *intelligent*, or as engaging in thought, must be radically different from our experiences of cogitation:
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      > And herein (if I rightly consider what is before me) the conduct of the infinitely wise God differs from that of men. They first form their design, and then deliberate about the means whereby they may accomplish it. And this makes men (who in all things are apt to measure God by themselves, though he himself tells us that his ways are not as our ways) inclinable to think that God does so too, that he first projects, and then consults his wisdom how to execute. This indeed is our way, but this cannot be God’s way, because ‘tis not the wisest way. (*Theory I* 44)
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      The extent of humanity’s knowledge of the essence of God is a problem that has preoccupied many thinkers in the history of Western philosophy. Unlike other areas of inquiry, questions concerning the nature of God, even if they are unanswerable now, receive answers in the next life. Although Norris believes that we can answer many important questions about the divine essence, our view of the intelligible world is dim indeed. He concedes that certain mysteries are temporarily beyond our ken. Norris would agree with what Descartes wrote in his *First Replies*:
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      > Moreover, God cannot be distinctly known by those who look from a distance, as it were, and try to make their minds encompass his entirety all at once. This is the sense in which St. Thomas says…that the knowledge of God is within us ‘in a somewhat confused manner’. But those who try to attend to God’s individual perfections and try not so much to take hold of them as to surrender to them, using all the strength of their intellect to contemplate them, will certainly find that God provides much more ample and straightforward subject-matter for clear and distinct knowledge than does any created thing. (*Philosophical Writings*, 81–82)
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      Humanity does have some reliable knowledge about some subject-matter, and Norris offers an account of this partial enlightenment. Norris believes, for example, that we know enough to clearly and distinctly: 1. Accept Descartes’ real distinction proof and 2. Refute Locke’s thinking matter hypothesis.
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      ## 3. Human Knowledge and Creation
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      ### 3.1 The Structure and Content of Human Thought
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      Questions about the form and content of human thought occupied the philosophers of the early modern period. One helpful way to draw the line between the empiricists and the rationalists of this time period is along issues concerning human cognition. Norris believes the object of thought is always God and the structure of thought facilitates objective, indubitable knowledge. For these reasons, he belongs squarely in the rationalist camp.
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      Norris espouses a Cartesian theory of human thought, which he delineates in *Theory II* and *Reason and Religion*. Norris says that all thought exhibits a certain structure – formal thought, which is the act of thinking, and objective thought, which is the object of the thinking. Like Descartes, Norris claims all thought is about some thing. Formal thought is always the same, whether we are perceiving or “willing, desiring, loving, hating, hoping, fearing…even *sensation* it self” (*Theory II* 109). Thoughts differ based upon content. Like Malebranche and unlike Descartes, the object of thought is always God, and “’tis the diversity of this Ideal Object that makes all the diversity and distinction that is to be found in our Thought, whether Natural or Moral” (113). God’s omniform essence is always the content of perception, intellection and passion. Indeed, all knowledge is always of God *qua* divine ideas. When perceiving the ideas, we are viewing “the very same Divine Nature it self, as ‘tis variously imitable or Participable *ad extra*, according to such or such intelligible Degrees of Being or Perfection” (*Theory I* 294). Hence, the sole object of our perceptions, both intellectual and sensory, is God. When humans think, we think and conduct proofs in mental propositions, but “ to Speak exactly ‘tis not the mental Proposition that it [our thought] *demonstrates*, but ‘tis the mental Proposition that demonstrates the real. The former belonging to the Act, as the latter does to the Object of Science” (311, brackets added). Our thoughts are always about the ideal propositions, constituted by the divine ideas as they are related to one another.
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      When we think in propositions, we usually think directly; direct thinking is everyday cognition such as knowing to proceed at green lights or knowing dentists’ chairs are frightening. All humanity thinks directly, or in these ordinary ways, but some persons engage in reflexive thought, or about the mind itself and its contents. In reflexive thought, there is a return of the mind onto itself, or an attending to the contents of the mind; such reflexive thoughts are more attentive perceptions of the divine ideas, and these thoughts are contemplations of the eternal truths. Norris states along with Locke (*Essay* 4.3.2) that knowledge is perceiving “those Relations of agreement or disagreement that are between Ideas, which whoever clearly and rightly perceives, is truly said to *know*” (*Theory II* 147–148). Knowledge of the eternal truths, of course, is the highest grade of knowledge, or *scientia*. By engaging in reflexive thought, we can align our mental propositions with the ideal ones. The ultimate intellectual goal is this alignment of our thought with the eternal truths.
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      Norris adopts the Malebranchean doctrine of Vision in God, which states that all intellectual and sensory perception is perception of God. Norris significantly augments neither Malebranche’s account nor argument for Vision in God with respect to sensory perception. Norris limits himself to reproducing Malebranche’s eliminative argument from the *Search after Truth* for why our sensory perception must be of ideas in God. The eliminative argument is found in chapters VII through XI in *Theory II*. Yet Norris does offer a more detailed account of abstract thought (which is an intellectual perception of God) than does Malebranche. Norris meticulously conveys how we come to have knowledge of the essences of created things. God is revealed through degrees of being (i.e. divine ideas), such as the degrees of being exhibited by bodies and minds, and we can come to know their essences by attending carefully to our perceptions of divine ideas. Careful attention requires thinking abstractly for Norris, and Norris offers us a definition of abstraction:
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      > So that in short, Abstraction, as ‘tis a logical Affection of Thought, is the considering one thing without another, not *absolutely*, but in things that are not really one without the other, nor yet really deniable one of the other. For Abstraction is, as it were, the drawing away of a thing from it self. But where things are really separate or distinct, the considering them apart is not *Abstraction*, but only mere divided Consideration. (*Theory II* 174)
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      Abstraction serves to make the intellect’s “View of things more clear and distinct. As Spectacles, tho’ in him that uses them they argue weakness of Sight, yet when used they do very much assist the Act of Vision” (176–177). Abstraction is the key to understanding how we come to know about minds and bodies. When considering the ideas of body, we understand that
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      > ...one and the same Substance, may have different Modes or Manners of being in *itself*, As the same Body may have Motion and Figure, or else different Figures…For tho’ there be a real Identity between Modes and the thing modefied, yet as Figure suppose may be consider’d without Body, so Body may be consider’d without its Figure, or sometimes as having this Figure, sometimes as having that, just as it is in *Dimensions*. (22)
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      This sort of abstraction Norris calls “modal abstraction.” Since we cannot imagine a body without some shape and some dimensions, shape and dimensions are determinables, or modes, of extension. Shape is not an independently existing thing, but is always a modification of an independently existing thing. Since Norris holds that our clear and distinct mental propositions track ideal propositions, we can conclude that shape and dimensions are not substances, but modes. Modal abstraction turns out to underscore Norris’ rehearsal of real distinction. His account is noteworthy because it offers an alternative understanding of the real distinction proof. When we are certain that the two items under consideration are not distinct by modal abstraction, we can be sure the two items are really distinct.
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      ### 3.2 Cartesian Real Distinction and Lockean Thinking Matter
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      Another question preoccupying the early moderns concerned the constitution of the human being. Is the human being a union of an immortal soul and a mortal body? Or is the human being a mere body with mentality somehow added? Descartes, in connection with the version of the real distinction proof in the *Sixth Meditation*, argues that we can know clearly and distinctly that a human being is a union of two really distinct substances, a soul and a body. Locke, at 4.3.6 of the *Essay*, states we might be bodies with thought superadded. Norris perceives Locke’s hypothesis as contradicting Cartesian real distinction, so he reestablishes real distinction in his *Theory II*. His reconstruction of Descartes’ proof begins with the realization that the distinction between the mind and body is not at all like the distinction between the body and shape:
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      > And therefore from my being able to conceive a Thinking Being to be, tho’ I should suppose extended Being not be, I conclude that the Ideas of these things are distinct not by modal Abstraction, as figured Substance and moveable substance, but really and intirely distinct from one another, and independent one upon another, and that because things whenever they are must be according to their Ideas. (29–30)
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      The fact that we can clearly and distinctly conceive of the body existing without the mind and vice versa entails that the body is really distinct from the mind. Ontological relationships are reflected in human thought when we are thinking clearly and distinctly, and if a modal abstraction is present, we can be certain that the items under consideration are the modes of a substance. On the other hand, when one thing can be thought while considering the other as not existing, the things are not modes after all, but really distinct substances. Otherwise, there is no criterion of intelligibility, and for Norris “all Truth is intelligible” (30). If we do not accept the standard of clarity and distinctness, no standard for human judgment remains.
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      In *Cursory Reflections*, Norris presses Locke about the nature of an idea. Locke’s account of ideas as originating in sensation and reflection found at 2.1 of the *Essay* is met by Norris with: “These indeed are pretty *Smiling* Sentences. But before we go a step further I would willingly know of the Author what kind of things these Ideas are which are thus let in at the Gate of the Senses” (22). Norris infers that Lockean ideas must be either mental substances or modifications, and then presents difficulties for either option. For Norris, the foundation of intelligibility can never have an empirical basis. The foundation must be the true nature of ideas:
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      > What else *need*, and what else *can* be the immediate Object of our Understanding but the Divine Ideas, the *Omniform Essence* of God? This will open to us a plain intelligible Account of *Human Understanding* …Here I can tell what an Idea is, *viz*. the Omniform Essence of God partially represented or exhibited, and how it comes to be united with my Mind. But as far for all other ways, I look upon them as desperate. (*Cursory Reflections* 31)
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      In addition to the defense of real distinction, Norris questions Locke’s suggestion that we might be thinking matter. Norris, along with many of his contemporaries, questions the mechanisms by which matter could be endowed with thought. Mary Astell, with whom Norris corresponded, is as confounded when she wonders whether God “may *according to the good Pleasure of His Omnipotency*, give it [a triangle] a good *speaking*, a *walking*, or a *dancing Faculty*, and make it able to Eat and Drink” (*Christian Religion* 254–255, brackets added). Astell’s assumption here is shared by Norris; things are what they are according to their essences, which are determined by God’s ideas. Extended bodies cannot reveal mental states through walking and dancing, only minds are capable of initiating such acts. Norris utilizes this assumption in one of his arguments against the thinking matter hypothesis:
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      > In other words, If a Thinking Being and an Extended Being be really one Idea, that is…if the very same Being be in Idea both Thinking and Extended, however by us considered sometimes under one Formality, and sometimes under another, then the Production of a Thinking Being would be also the Production of an Extended Being, and so they could not be produced apart. But we suppose them separately produceable, and thence think we have reason to conclude that their Ideas are completely and intirely distinct Ideas, and not the same Idea incompletely considered. (*Theory II* 36–37)
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      Since bodies are sometimes separately produced from minds, God does not create them from the same idea. Body and mind are created from different ideas; they have separate essences.
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      Whereas Locke argues that the human being might, for all we know, be matter with thought superadded, Norris claims in no uncertain terms that the human being is a substantial union. However, Norris can only argue for his claim within his ideal philosophy, which Locke rejects. But the grounds for rejection spring from the very view of ‘idea’ Locke espouses; an idea is generated and formed by sensation and reflection. This debate concerns, fundamentally, the ontological status of ideas, and how far ideas can guarantee a correspondence to reality external to thought. In this debate, the reader can fully appreciate one main difference between Cartesian rationalism and Lockean empiricism in late 17ᵗʰ Century England. For Locke, propositions about ideas are themselves mere mental propositions. As such, their certainty does not guarantee truth. For Norris, clear and distinct mental propositions reflect ideal propositions. Certainty about mental propositions does guarantee truth.
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      Norris offers an important insight into how the real distinction proof depends on abstractive processes. However, like Malebranche, Norris claims that we have no access to God’s idea of the mind. The mind’s existence is known only by inner consciousness, or sentiment. This raises the same problems for Norris that Malebranche has defending the proof. (See Nolan and Whipple 2005.)[^nolan-2005] If humanity is ignorant about the essence of the soul, then there can be no proof using the essence of the soul as a premise; we cannot know if the proposition, ‘The mind is a substance’, is true or false. At best, it is indeterminate. So, whether Norris can fully defend the proof is questionable. Nonetheless, Norris argues for the immortality of the soul in *A Philosophical Discourse concerning the Natural Immortality of the Soul* in response to a work published by Henry Dodwell. Dodwell held that all souls are material, and only a few souls are granted immortality. Norris, relying upon the essence of the soul as immaterial, draws a distinction between the indissolvible and the imperishable (33–34). The soul is naturally indissolvible because it is indivisible, but it is not imperishable. If God ceased his constant creation, all things would immediately cease to exist.
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      Norris dedicates a chapter in *Theory II* to the topic of animals. Descartes and Malebranche had held that animals are mere machines. Norris agrees there are good reasons to believe that animals are machines, but it is possible that they have souls because “’tis easy to err in the Dark.” Norris discourages “any practices of Cruelty, upon the Bodies of these Creatures, which the Lord of Creation has…subjected to our Power.” He advises us to treat animals “with as much tenderness and pitiful regard, as if they had all that Sense and Perception, which is commonly…attributed to them” (100).
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      ## 4. Religious, Practical and Political Views
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      A recurring theme in Norris’ writings is the importance of solitude and meditation. Christianity, for Norris, was a highly personal relationship with one’s God. Being a good Christian involves the opening of one’s mind to a comprehension of God. “For Passion is the great Contrariety to Reason, and will draw a cloud over the brightest Mind. The quiet and sedate Soul is most fit for the Contemplation of Truth, as the calmest Weather is commonly the most serene” (*Two Treatises* in *Treatises upon Several Subjects* 353).
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      One truth the meditative Christian comes to understand is that God is love. Norris believes love is a natural tendency of the soul, and analogizes love to motion in *The Theory and Regulation of Love*. There he writes: “So that upon the whole to speak more *explicitly* the most general and Comprehensive Notion of Love will be found to be, *a motion of the Soul towards God*” (12). Regarding the objects of love, one can love the general, universal good, viz. God, or particular goods, which reflect the goodness of God, “For God having unfolded his Perfections in the Creation with almost infinite Variety, and as it were drawn out himself into a numerous issue of *Secondary* goods, our Love becomes also Multiplied” (12). Regarding the act of love, one can love with benevolence or with desire. Concupiscence, or loving with desire, is a general tendency towards good. Benevolent love is willing a specific good for a person. Benevolent love is further divided into self-love and other-love, which Norris also calls the “love of charity.” All concupiscence proceeds from indigence so it is rooted in self-love, whereas love of charity does not have to proceed from self-love. He explains why God is a narcissistic God: “For as GOD is to himself his own good, his own Center and Beatifick Object, so the Love of GOD can be no other than Love of himself” (*Letters* 226). Since God wants nothing, God cannot exhibit concupiscence, but only love of charity for humanity. The correct object of our love is also God, especially given the occasionalism thesis that God is the genuine cause of all the secondary goods we might desire. It is only in God that one finds full satisfaction of desire, “he is also the true final Cause of the Will of Man; which I take to be nothing else but that continual Impression whereby the Author of Nature moves him towards himself” (227). It is important to keep in mind that God is infinite love; echoing again the Thomistic theme running throughout Norris’ works, it is impossible to understand exactly how God loves.
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      Contrary to this Thomistic theme, the Socinians believed all Christian doctrine should be comprehensible. Socinianism was advanced in John Toland’s 1696 *Christianity not Mysterious*. Socinianism rejected inexplicable Christian doctrine, such as the divinity of Christ as man. Norris believed Socinianism to be a dangerous view because it leads to either deism or atheism. This threatening entailment led him to respond to the doctrine in *An Account of Reason and Faith*, which he published in 1697. In the piece, Norris defines some truths as above reason, such as the existence of the Trinity. Other claims are blatantly “Contrary to Reason when we do positively comprehend that it cannot be” (117); these claims should be rejected. However, there are many claims we should not reject so quickly:
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      > You know very well that in the great Problem of the Divisibility of Quantity there are Incomprehensibilities on both sides, it being inconceivable that Quantity should, and it being also inconceivable that it should not be divided infinitely. And yet you know again that as being parts of a Contradiction one of them must necessarily be true. Possibly you may not be able with the utmost Certainty and without all hesitation to determine which that is, but however you know in the general that One of them, indeterminately, must be true. (322)
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      Neither option presents itself as true, but Norris proceeds to ask the Socinian if he would accept it as an article of faith if God were to reveal the correct option. Human ignorance does not entail falsity. Moreover, human ignorance does not entail divine ignorance just as a neophyte mathematician’s inability to demonstrate “*the Diameter of a Square is incommensurable to the Side*” does not entail the lack of a demonstration (321). Norris concludes that the Socinians improperly hold the human intellect to be the standard for truth. Truth is understood and determined by God, who possesses an infinite intellect. The fact that the Trinity is incomprehensible does not warrant its rejection:
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      > You have our leave to suppose it as incomprehensible as you please. But then you are to Consider…that this is a Revelation of God concerning *Himself*, and do you pretend to Comprehend the Nature and Essence of God? If you do, then your Understanding is as infinite as the Divine. But if you do not, then the incomprehensibility of this Mysterious Article ought to be no Objection with you against the Belief of it, since if it be, you must be driven to say that you Comprehend the Nature of God, which I hope you have too much Religion as well as Reason to affirm. (324–325)
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      Reason is reliable, but limited. The Socinians have gone too far in their support of reason. On the other hand, Norris believes that the Quakers have gone too far in the other direction.
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      Norris was familiar with Roger Barclay and George Keith’s expositions of Quakerism, and argued against the view in *Reflections upon the Conduct of Human Life*. The Quakers had an affinity for the ideal philosophy because they believed the divine light that enlightens the human mind supported their view. Norris delineates the many differences between Quaker thought and his own, but perhaps the main difference is: “The Quakers represent this light within as a sort of *Extraordinary Inspiration* (whence they have the name of *Enthusiasts*) whereas I suppose it to be a Man’s *Natural* and *Ordinary* way of Understanding” (*Two Treatises* 365). Also, Norris identifies their inspiration as limited to moral and spiritual truths. Norris also concludes that the Quakers render the divine light a creature because it cannot be God on the Quakers’ view. God and creatures are the only two possibilities for existing things, hence, the divine light of the Quakers is a creature. Also, the divine light must be considered material since it is described as a “*Vehiculum Dei*” and it is “divisible into Measures and Portions” (437). These attributes cannot be maintained; divisibility and motion cannot “with any tolerable Congruity agree to a Spiritual Substance, strictly so call’d” (438). Finally, Norris argues that the Quakers’ divine light is contingent because it is a creature, so it cannot convey necessary and eternal truths; only an infinite being can be the source of the eternal truths (453–454). The proper way to live a good Christian life, morally and intellectually, is to engage one’s intellect, “the greatest advantage of thinking is yet behind, that it improves our Morals as well as our Intellectuals; and serves to make us Better, as well as Wiser” (*Miscellanies* 151). The Quakers, by emphasizing the passions, takes the Christian far from the intelligible world.
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      Norris also believed that the Quakers were guilty of the sin of schism. Certain nonconformist Christian groups were exempted from prosecution by the Toleration Act of 1689, and the Quakers were amongst these. Norris firmly believed that schism from the Anglican Church was a sin, and believed the Toleration Act merely removed the earthly punishment. In *The Charge of Schism Continued*, Norris cites *Ephesians* 4.3–6, and emphasizes St. Paul’s words to the Ephesians to preserve unity. God commands unity, and schism is a sin where there is an established Church. Norris divides a law into a preceptive and a punitive element. The basis of the punishment is the rationale of a law, or the preceptive aspect of a law. The Toleration Act merely removes the punitive aspect, leaving the rationale of the law, which is God’s commandment. Furthermore, the justification of all human law lies in divine law, “If it be further askt, whence has the Law-giver his Authority? I answer, if he be a Creature, he has it from God, whom I suppose to be the sole Fountain of all Power. But if the Law-giver be God, he has it Originally and Independently in himself” (*The Charge* 312). Norris held the Toleration Act to be a violation of divine law.
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      Other than his writings on toleration, his sole other published political work is *A Murnival of Knaves* issued in 1683 against the Parliamentarians. Norris was a Royalist, but he was not much engaged in the volatile politics of his day. A poem in his *Miscellanies* reveals his attitude towards politics:
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      > NO, I shan’t envy him whoe’er he be That stand upon the *Battlements* of State, Stand there who will for me, I’d rather be *secure* than *great*. Of being so *high* the *pleasure* is but *small*, But *long the Ruine* if I chance to *fall*. (29)
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      The ruination of one’s soul for the chance to achieve temporary greatness runs against Norris’ basic convictions, the foremost of which was a life dedicated to the service of God focused upon the afterlife. This dearth of political writings reveals a philosopher who engaged in intellectual activity because it reveals an orderly universe governed by the Christian God. Humility is also an important virtue for the Christian, as Norris explains in *A Practical Treatise concerning Humility* published in 1707. In Creation, humanity has a humble role to play – to love and serve God. Political and intellectual endeavors are tools to achieve that end. All human thought and institutions should be utilized to serve God’s purposes. This theme is also reflected in Norris’ 1705 *The Distinction between High Church and Low Church, distinctly considered and fairly treated*.
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      ## 5. Concluding Notes
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      Norris integrates the thought of his predecessors—Descartes, Malebranche, Suarez, Augustine, Aquinas and Plato—in a manner centering on the Christian God. God is truth, love and the aim of all religious and practical life. Norris’ ambition of completing Malebranche’s project is reflected in his arguments to establish the existence of the divine ideas and their locus in the mind of God, or the intelligible world. His detailed discussion of the eternal truths is a further expansion upon Malebranche’s philosophy. The defense of Descartes’ real distinction proof is enlightening because it renders transparent the assumption of abstractive knowledge that might have aided contemporary readers’ understanding of the proof. If Norris did not venture further into the philosophical, political and scientific debates of his own time, the explanation lies in his advice to never study out of vanity. Worldly knowledge, such as knowledge of history or languages, is a waste of one’s time. Norris was dedicated to the cause of knowledge for Christianity’s sake, and he saw his own work, as well as his predecessors’, as attempting to realize fully knowledge of the Pauline Doctrine, stated at *Acts* 17:28, that in God “we live, move and have our being.”
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: oir
+    source: |-
+      - Bryson, James, 2018, “[Henry More and John Norris Talk Sensuality and Peter’s Denial of Christ](https://cprg.hypotheses.org/564),” post on the blog of *The Cambridge Platonist Research Group*.
+    step1: TBD
+    step2: TBD
