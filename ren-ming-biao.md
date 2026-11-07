@@ -676,7 +676,7 @@
 | Ibn Ṭufayl / Abubacer | — | 伊本·图斐利 | arabic-islamic-* 集群 | 知网系查证在案；学界通行 | 2026-10-28 |
 | al-Fārābī / Al-Fârâbī / Abū Naṣr al-Fārābī | — | 法拉比（亦作“阿尔·法拉比”“阿里·法拉比”） | al-farabi 集群 | 学界通行（《中国大百科全书》主译“法拉比”）；已废弃旧主译“阿里·法拉比”（中亚文献用形），发布表同步 | 2026-10-28 |
 | al-Kindī | — | 肯迪（亦作“金迪”） | al-kindi | 学界通行 | 2026-10-28 |
-| al-Ghazālī | — | 安萨里（全名艾布·哈米德·穆罕默德·安萨里） | al-ghazali | 学界通行 | 2026-10-28 |
+| al-Ghazālī | al-Ghazālī | 安萨里（全名艾布·哈米德·穆罕默德·安萨里） | al-ghazali | 学界通行 | 2026-10-28 |
 | Abū Bakr al-Rāzī / al-Rāzī / Rhazes | — | 拉齐（医师哲学家；勿与法赫尔丁·拉齐相混） | arabic-islamic-natural | 学界通行 | 2026-10-28 |
 | Fakhr al-Dīn al-Rāzī | — | 法赫尔丁·拉齐 | arabic-islamic-* 集群 | 学界通行；与医师哲学家拉齐（Abū Bakr al-Rāzī）区分 | 2026-10-28 |
 | Ibn Khaldūn | — | 伊本·赫勒敦 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
@@ -1436,3 +1436,14 @@
 | Tennyson, Alfred | Alfred Lord Tennyson | 阿尔弗雷德·丁尼生（丁尼生勋爵） | origin-descent | 学界通行汉译（桂冠诗人）；凭证 2026-11-07 | 2026-11-07 |
 | Strawson, P.F. | — | 斯特劳森 | object | 学界通行汉译（《个体》中译本通行）；凭证 2026-11-07 | 2026-11-07 |
 | Tugendhat, Ernst | — | 图根德哈特 | object | 学界通行汉译（《自我意识与自我规定》中译本）；凭证 2026-11-07 | 2026-11-07 |
+| al-Ash‘ari | al-Ash‘ari | 艾什尔里 | occasionalism | 学界通行汉译（873–935，艾什尔里派创始人）；凭证 2026-11-07 | 2026-11-07 |
+| Avicenna | Ibn Sīnā | 阿维森纳（伊本·西那） | occasionalism | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| Nicholas of Autrecourt | — | 奥特勒库尔的尼古拉 | occasionalism | 学界惯例（14 世纪牛津）；凭证 2026-11-07 | 2026-11-07 |
+| La Forge, Louis de | — | 路易·德·拉福奇 | occasionalism | 学界惯例（1632–66）；凭证 2026-11-07 | 2026-11-07 |
+| Clauberg, Johannes | — | 约翰内斯·克劳贝格 | occasionalism | 学界惯例（1622–55）；凭证 2026-11-07 | 2026-11-07 |
+| Geulincx, Arnold | — | 阿诺德·赫林克斯 | occasionalism | 学界惯例（1624–69）；凭证 2026-11-07 | 2026-11-07 |
+| Malebranche, Nicolas | — | 尼古拉·马勒布朗士 | occasionalism | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| Durandus | — | 杜兰都斯 | occasionalism | 学界惯例（中世纪神学家）；凭证 2026-11-07 | 2026-11-07 |
+| Fontenelle | — | 丰特奈尔 | occasionalism | 学界通行汉译（与马勒布朗士往复者）；凭证 2026-11-07 | 2026-11-07 |
+| Duns Scotus, John | — | 邓斯·司各脱 | occasionalism | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| Boethius of Dacia | — | 达西亚的波爱修斯 | obligationes | 学界惯例（13 世纪）；凭证 2026-11-07 | 2026-11-07 |

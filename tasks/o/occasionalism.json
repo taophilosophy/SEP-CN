@@ -2,7 +2,7 @@
   "slug": "occasionalism",
   "kind": "retranslate",
   "zh_doc": "o/occasionalism.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "OR-main-20261106",
       "at": "2026-11-07T01:02:36Z",
       "evidence": "三校：check_style --strict 0 issue；check_academic 硬错误 0；check_terms 硬错误 0；check_prose 14 项全为引文豁免（见 s2 凭证）；markdownlint 0 issue；check_all 7/7 全绿。结构：标题 23 个与源逐级对应（H1+4 节/12 小节+References 2 小节+学术工具+其他网络资源+相关词条；源『## Notes（原文脚注）』按流水线并入『## 脚注』）；脚注 90 定义/33 引用；表格 0（本条无表）；体量 22,606 汉字 / 92,864 字节。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T01:07:29Z",
+      "evidence": "复审 r1：①译名与发布侧对齐——Ibn Rushd 统一作「伊本·鲁世德」（SUMMARY/词汇表现行形，改我作『路世德』2 处）、Boethius of Dacia 统一作「达西亚的波爱修斯」（SUMMARY 词条名，改『达契亚的波爱修』；同时回改 obligationes 2 处）；②删除与我新增重复的 Ibn Rushd 行（保留 arabic-islamic 集群既有行），术语登记 20 行、人名登记 11 行；③阿拉伯/拉丁转写补充原文列（kalām、falâsifa、al-Ash‘ari、al-Ghazālī），缺原文告警 139 条（低于本会话起点 140）；④术语表硬冲突归零，check_all 7/7 保持全绿。"
     }
   ],
   "blockers": [],
