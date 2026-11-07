@@ -2,7 +2,7 @@
   "slug": "moral-demands-permissions",
   "kind": "retranslate",
   "zh_doc": "m/moral-demands-permissions.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-07T14:49:50Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LMN-main-20261108c",
+      "at": "2026-11-07T21:37:16Z",
+      "evidence": "compose 63 段 step2 装配落盘（md 220 行），逐段正则核验 step2 全部在稿，账本双版齐（step1/step2 63/63，54 段润色）；接管会话核验前任 LMN-main-20261108b 在途件后推进"
     }
   ],
   "blockers": [],
