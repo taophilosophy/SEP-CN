@@ -11,74 +11,98 @@ segments:
     kind: body
     source: |-
       Social procedures that have algorithmic aspects can often be improved by redesign. This holds for voting and other peaceful decision making procedures, for match-making, for auctioning, for fair division of estates, and for many procedures of distributive justice. The algorithmic aspects can be analyzed with formal methods. The term “social software” was coined by Rohit Parikh (2002) for the emerging interdisciplinary enterprise that is concerned with the design and analysis of algorithms that regulate social processes. Such analysis and (re-)design uses methods from logic, game theory and theoretical computer science.[^note-1] The goals of research in formal approaches to social procedures are modeling social situations, developing theories of correctness, and (re-)designing social procedures, ideally leading to new social behavior.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      具有算法面向的社会程序，往往可以通过重新设计而得到改进。这对投票及其他和平的决策程序、对婚配、对拍卖、对遗产的公平分配，以及对分配正义的许多程序都成立。算法面向可以用形式化方法来分析。“社会软件”一词由罗希特·帕里克（2002）创制，用来指那门正在兴起的跨学科事业：它关注规制社会过程的算法的设计与分析。这样的分析与（重新）设计使用逻辑、博弈论与理论计算机科学的方法。[^note-1] 社会程序的形式化进路，其研究目标是：为社会情境建模、发展正确性理论，以及（重新）设计社会程序，理想情况下引出新的社会行为。
+    step2: |-
+      具有算法面向的社会程序，往往能通过重新设计而得到改进。投票及其他和平的决策程序如此，婚配、拍卖、遗产的公平分配，以及分配正义的许多程序亦然。这些算法面向可用形式化方法加以分析。“社会软件”一词由罗希特·帕里克（2002）创制，用以指称那门新兴的跨学科事业：它致力于设计并分析规制社会过程的算法。这类分析与（重新）设计，所凭借的是逻辑、博弈论与理论计算机科学的方法。[^note-1] 社会程序形式化进路的研究目标有三：为社会情境建模、发展正确性理论、重新设计社会程序，理想情况下还引出新的社会行为。
   - id: 2
     kind: body
     source: |-
       Logic, game theory and computer science are not the only disciplines that have something to say about social mechanisms. Such mechanisms are also an object of study in voting theory, in auction theory, in social choice theory, in social epistemology, in mechanism design theory, and in algorithmic game theory. Multi-agent interaction at a more abstract level is studied in artificial intelligence and distributed computing, so all these disciplines have something to say about the formal analysis of social interaction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      逻辑、博弈论与计算机科学并不是对社会机制有所言说的唯一学科。这类机制也是投票理论、拍卖理论、社会选择理论、社会认识论、机制设计理论与算法博弈论的研究对象。更抽象层面的多智能体互动，则在人工智能与分布式计算中得到研究，因此所有这些学科都对社会互动的形式分析有所言说。
+    step2: |-
+      对社会机制有所言说的，并不只有逻辑、博弈论与计算机科学。投票理论、拍卖理论、社会选择理论、社会认识论、机制设计理论、算法博弈论，也都把这类机制当作研究对象；更抽象层面的多智能体互动，则由人工智能与分布式计算来研究。因此，上述学科都对社会互动的形式分析各有一得。
   - id: 3
     kind: body
     source: |-
       ## 1. Social Procedures as Algorithms
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 作为算法的社会程序
+    step2: |-
+      ## 1 作为算法的社会程序
   - id: 4
     kind: body
     source: |-
       Social software cannot be seen as a clearly defined research field on its own, but rather an umbrella for certain types of research in computer science, logic, and game theory. Nevertheless, the social software perspective on social procedures and intelligent interaction, emphasizing algorithms and information, has already produced a wide variety of important insights. In this article, a number of examples will be discussed and pointers will be given to related discussions in philosophy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      社会软件不能被视为一个自身界线分明的研究领域，而毋宁是计算机科学、逻辑与博弈论中某些类型研究的伞状名称。尽管如此，以算法与信息为重的社会软件视角，对社会的程序与智能互动的看法，已经产生了种类繁多的洞见。本文将讨论若干例子，并指向哲学中的相关讨论。
+    step2: |-
+      社会软件算不上一个界线分明、自成格局的研究领域，它更像是计算机科学、逻辑与博弈论中某几类研究的统称。尽管如此，这一以算法与信息为重的视角——它同时照看社会程序与智能互动——已经催生出形形色色的重要洞见。本文要讨论若干实例，并为哲学中的相关讨论指路。
   - id: 5
     kind: body
     source: |-
       The prototypical example of an *algorithm* in mathematics (see also entry on computability and complexity) is Euclid’s recipe for finding the greatest common divisor (GCD) of two positive whole numbers $A$ and $B$. The GCD of two numbers is the greatest number that divides both numbers without residue.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      数学中 *算法* 的原型例子（另见“可计算性与复杂性”词条），是欧几里得求两个正整数 $A$ 与 $B$ 的最大公约数（GCD）的方法。两个数的最大公约数，是能整除这两个数而无余数的最大数。
+    step2: |-
+      数学中 *算法* 的典型例子（另见“可计算性与复杂性”词条），是欧几里得求两个正整数 $A$ 与 $B$ 最大公约数（GCD）的方子。所谓最大公约数，就是能同时整除两数而无余的最大整数。
   - id: 6
     kind: body
     source: |-
       > If $A$ is larger than $B$, then replace $A$ by $A - B$, otherwise, if $B$ is larger than $A$, replace $B$ by $B - A$. Continue like this until $A$ equals $B$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 若 $A$ 大于 $B$，则以 $A - B$ 替换 $A$；否则，若 $B$ 大于 $A$，则以 $B - A$ 替换 $B$。如此继续，直至 $A$ 等于 $B$。
+    step2: |-
+      > 如果 $A$ 比 $B$ 大，就把 $A$ 换成 $A - B$；反过来，如果 $B$ 比 $A$ 大，就把 $B$ 换成 $B - A$。照这样下去，直到 $A$ 等于 $B$ 为止。
   - id: 7
     kind: body
     source: |-
       The final $A = B$ yields the greatest common divisor of the numbers $A$ and $B$ that you started with. For instance, suppose you start the algorithm with $A = 20$, $B = 12$. Then in the first step, $A$ gets replaced by $20 - 12 = 8$, so $8$ becomes the new $A$. In the second step, $B$ gets replaced by $12 - 8 = 4$, so $4$ becomes the new $B$. In the third step, $A$ gets replaced by $8 - 4 = 4$, so $4$ becomes the new $A$ and the two numbers $A$ and $B$ have become equal. The algorithm yields $4$ as the GCD of $20$ and $12$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最终的 $A = B$ 给出你所起始的两个数 $A$ 与 $B$ 的最大公约数。例如，设你以 $A = 20$、$B = 12$ 开始该算法。那么第一步，$A$ 被替换为 $20 - 12 = 8$，于是 $8$ 成为新的 $A$。第二步，$B$ 被替换为 $12 - 8 = 4$，于是 $4$ 成为新的 $B$。第三步，$A$ 被替换为 $8 - 4 = 4$，于是 $4$ 成为新的 $A$，而两个数 $A$ 与 $B$ 已变得相等。该算法给出 $4$ 作为 $20$ 与 $12$ 的最大公约数。
+    step2: |-
+      最终得到的 $A = B$，即你起始时那两个数 $A$ 与 $B$ 的最大公约数。例如取 $A = 20$、$B = 12$ 起算：第一步 $A$ 换成 $20 - 12 = 8$，$8$ 成为新的 $A$；第二步 $B$ 换成 $12 - 8 = 4$，$4$ 成为新的 $B$；第三步 $A$ 换成 $8 - 4 = 4$，$4$ 成为新的 $A$，两数 $A$ 与 $B$ 已相等。算法便给出 $4$，即 $20$ 与 $12$ 的最大公约数。
   - id: 8
     kind: body
     source: |-
       Euclid’s recipe is *formal*, and we can analyze it with formal means. The correctness of Euclid’s algorithm follows from the insight that if you have two numbers $A$ and $B$ with $A$ larger than $B$, and you replace $A$ by $A - B$, then the set of common divisors of the number pair does not change.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      欧几里得的方子是 *形式的*，我们可以用形式手段来分析它。欧几里得算法的正确性，出自这样一个洞见：若你手上有两个数 $A$ 与 $B$，$A$ 大于 $B$，而你把 $A$ 替换为 $A - B$，那么这对数的公约数集合不变。
+    step2: |-
+      欧几里得的方子是 *形式的*，因而可以用形式手段来分析。其正确性源于一个洞见：设有两数 $A$ 与 $B$，$A$ 大于 $B$，若以 $A - B$ 替换 $A$，这双数的公约数集合并不改变。
   - id: 9
     kind: body
     source: |-
       Algorithms come in many forms and flavors, for example, sequential and parallel ones. For interesting introductions to algorithms in computer science, see Harel & Feldman (2004) and Miller & Boxer (2012). In a similar manner as these algorithms, social procedures can be analyzed with the formal tools of logic and theoretical computer science.[^note-2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      算法有诸多形式与风格，例如串行的与并行的。关于计算机科学中算法的有趣导论，见 Harel & Feldman（2004）与 Miller & Boxer（2012）。与这些算法类似，社会程序也可以用逻辑与理论计算机科学的形式工具来分析。[^note-2]
+    step2: |-
+      算法的形态与路数很多，串行的、并行的都有。若想要计算机科学中有趣的算法导论，可看 Harel & Feldman（2004）与 Miller & Boxer（2012）。社会程序亦可循同样的路数，用逻辑与理论计算机科学的形式工具来分析。[^note-2]
   - id: 10
     kind: body
     source: |-
       It appears that most amenable to a formal approach are those social procedures for which one wants to guarantee that given certain starting conditions, the procedure preserves or creates specific desired properties. Examples are social procedures for fair division (Section 2), matching (Section 3), communication (Section 4). Finally, the formal perspective is useful for situations requiring participants’ strategic reasoning (Section 5). A common element is that in all these situations, agents’ knowledge and lack of knowledge of other agents’ mental states play an important role. As a counterpart to the examples in the current article, Van Benthem (2018) provides an intriguing overview about the current roles of social perspectives in computer science itself, highlighting social agency and information.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      看来最适合形式化进路的，是那些人们想要保证：在给定某些起始条件下，程序保持或创造出特定期望性质的社会程序。例子有公平分配（第 2 节）、匹配（第 3 节）、通信（第 4 节）的社会程序。最后，形式视角对于需要参与者策略性推理的情境（第 5 节）也有用。一个共同要素是，在所有这些情境中，智能体对他人心理状态的知晓与不知晓都起着重要作用。作为本文诸例的对应物，Van Benthem（2018）就社会视角在计算机科学自身中当前扮演的角色，提供了一份引人入胜的概览，突出了社会能动性与信息。
+    step2: |-
+      最适合形式化进路的，看来是那些人们希望加以保证的社会程序：给定某些起始条件，程序能保持或创造出特定的期望性质。公平分配（第 2 节）、匹配（第 3 节）、通信（第 4 节）即是其例。最后，形式视角对需要参与者作策略推理的情境（第 5 节）也有用。这些情境有一个共同点：智能体对他人心理状态知道什么、不知道什么，都举足轻重。作为本文诸例的对照，Van Benthem（2018）就社会视角如今在计算机科学内部所占的位置提供了一份引人入胜的概览，突出了社会能动性与信息。
   - id: 11
     kind: body
     source: |-
       ## 2. Fairness
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 公平
+    step2: |-
+      ## 2 公平
   - id: 12
     kind: body
     source: |-
       Formal methods by themselves do not solve philosophical issues, as the following tale from Padma (2007) illustrates.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      形式化方法本身并不解决哲学问题，如下面这则出自 Padma（2007）的故事所示。
+    step2: |-
+      形式化方法本身解决不了哲学问题——Padma（2007）记下的这则故事便是明证。
   - id: 13
     kind: body
     source: |-
@@ -87,172 +111,240 @@ segments:
       > After the traveller left, Ram and Shyam wondered how they should share the 8 gold coins. Ram said that there were 8 coins and only 2 people, so each person should get an equal share of 4 coins. “But that’s not fair,” said Shyam, “since I had 5 chapatis to begin with.” Ram could see his point, but he didn’t really want to give 5 of the coins to Shyam. So he suggested they go see Maulvi, who was very wise. Shyam agreed.
       >
       > Ram and Shyam told the whole story to Maulvi. After thinking for a long time, he said that the fairest way to share the coins was to give Shyam 7 coins and Ram only 1 coin. Both men were surprised. But when they asked Maulvi to explain his reasoning, they were satisfied that it was a fair division of the 8 coins.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 两个农夫，罗摩与希亚姆，正在吃恰帕提。罗摩有 3 块这种扁圆的面饼，希亚姆有 5 块。一位看上去又饿又累的旅人骑马来到两人面前。罗摩与希亚姆决定与他分享恰帕提。3 个人把 8 块恰帕提叠起来（像煎饼那样），把这一叠切成 3 等份。他们均分这些块，一直吃到一无所有。旅人是个贵族，感激之余，给了他那一份食物的钱：8 枚金币。
+      >
+      > 旅人走后，罗摩与希亚姆商量这 8 枚金币该怎么分。罗摩说，有 8 枚金币而只有两个人，每人应得 4 枚。希亚姆说：“可这不公平，我起先有 5 块恰帕提。”罗摩看得出他有理，却实在不愿把 5 枚金币给希亚姆。于是他提议去请教毛尔维，此人极有智慧。希亚姆同意了。
+      >
+      > 罗摩与希亚姆把事情原委讲给毛尔维。他想了很久，说最公平的分法是给希亚姆 7 枚、罗摩只 1 枚。两人都很惊讶。可当他们请毛尔维解释道理时，他们满意了：这确是对 8 枚金币的公平分配。
+    step2: |-
+      > 两个农夫罗摩与希亚姆在吃恰帕提。罗摩有 3 块这种扁圆的面饼，希亚姆有 5 块。一位满面饥疲的旅人骑马来到二人面前。罗摩与希亚姆决定分些恰帕提给他。三人把 8 块恰帕提叠成一摞（像叠煎饼），再把这摞切成三等份，均分了吃，直到一点不剩。旅人原是贵族，感激之下，为自己那一份吃食给了两个农夫 8 枚金币。
+      >
+      > 旅人走后，罗摩与希亚姆为这 8 枚金币怎么分犯难。罗摩说，金币 8 枚、人只两个，一人 4 枚才公道。希亚姆说：“这不公平——我起先可是有 5 块恰帕提。”罗摩觉得他说得有理，却又实在舍不得把 5 枚给出去，便提议去请教足智多谋的毛尔维。希亚姆答应了。
+      >
+      > 两人把事情原原本本讲给毛尔维。他思忖良久，说最公道的分法是希亚姆得 7 枚，罗摩只得 1 枚。两人都吃了一惊。待请毛尔维讲明道理，他们便心服了：这确是对 8 枚金币的公平分配。
   - id: 14
     kind: body
     source: |-
       Here are reasons the participants could have given to explain each mentioned division as being fair:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以下是参与者本可以给出的理由，用以说明上述每一种分配都是公平的：
+    step2: |-
+      参与者本可以为上述每一种分配各自给出理由，说明它何以公平：
   - id: 15
     kind: body
     source: |-
       1. Ram: “If the traveller hadn’t arrived, we would have shared the chapatis equally. So it is only *fair* if we now share the eight coins equally as well.”
       2. Shyam: “If the traveller hadn’t arrived, you would have bought one chapati from me at the going rate for chapatis. Now that the traveller was so generous, the going rate suddenly went up to one gold coin for a chapati. So your chapatis turned out to be worth three gold coins and mine five gold coins.”
       3. Maulvi: “The traveller has eaten one third of eight chapatis. Ram had only three chapatis to start with, and therefore he has eaten $1/3$ chapati from Ram and $7/3$ chapatis from Shyam. So it is only fair if Ram gets one coin and Shyam gets seven.”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 罗摩：“要是旅人没来，我们本会把恰帕提平分。所以现在也把八枚金币平分，才算 *公平*。”
+      2. 希亚姆：“要是旅人没来，你会按恰帕提的市价向我买一块。如今旅人如此慷慨，市价一下子涨到一块恰帕提一枚金币。所以你那些恰帕提值三枚金币，我的值五枚。”
+      3. 毛尔维：“旅人吃了八块恰帕提中的三分之一。罗摩起先只有三块，所以他吃的是罗摩的 $1/3$ 块、希亚姆的 $7/3$ 块。所以罗摩得一枚、希亚姆得七枚，才算公平。”
+    step2: |-
+      1. 罗摩：“旅人若不来，我们本会把恰帕提平分。那么现在把八枚金币照样平分，才算得上 *公平*。”
+      2. 希亚姆：“旅人若不来，你会按市价向我买一块恰帕提。如今旅人这般慷慨，市价一下子涨到一块恰帕提一枚金币。如此说来，你的恰帕提值三枚金币，我的值五枚。”
+      3. 毛尔维：“旅人吃掉了八块恰帕提的三分之一。罗摩起先只有三块，因此他吃的是罗摩的 $1/3$ 块、希亚姆的 $7/3$ 块。要公平，罗摩就得一枚，希亚姆得七枚。”
   - id: 16
     kind: body
     source: |-
       A moral of this could be that there is no obviously correct notion of fairness, in this case, and in many cases. Formal analysis always starts from an intuition and can help to turn that intuition into a more precise definition. Then one can check if a given procedure fits the definition; however, if it fits, that does not show that the definition is right.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由此可得的一个教益或许是：在此情形以及许多情形中，并没有一个显然正确的公平概念。形式分析总是从一种直觉出发，并有助于把那种直觉转化为更精确的定义。然后人们可以检验某个给定程序是否符合该定义；然而，即使符合，也并不表明该定义是正确的。
+    step2: |-
+      这里的一个教益或许是：在此事上，也在许多事情上，并不存在什么显然正确的公平概念。形式分析总是从直觉起步，帮着把直觉磨成更精确的定义；随后可以检验某个程序是否合乎该定义。不过，合乎定义并不证明定义本身正确。
   - id: 17
     kind: body
     source: |-
       ### 2.1 Fair Division
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 公平分配
+    step2: |-
+      ### 2.1 公平分配
   - id: 18
     kind: body
     source: |-
       Social procedures are as old as the world. *Divide and choose* (also known as “I cut, you choose”) is a procedure for two-person fair division of some desirable or undesirable heterogeneous good. One person divides the good into what she believes to be equal shares, and the other person chooses. If the two participants have different value judgements on parts of the goods, it is possible that both participants feel that they received more than 50 percent of the goods. Indeed, let $X$ be a set representing the good to be divided. A valuation function $V$ for $X$ is a function from ${{\cal P}}(X)$ to $[0,1]$ with the properties that $V(\emptyset) = 0$, $V(X) = 1$, and for all subsets $A$, $B$, it holds that $A \subseteq B \subseteq X$ implies $V(A) \leq V(B)$ (for explanation of notation, see supplement on basic set theory). Suppose $V_m$ and $V_y$ are functions for my and your valuation of the contents of $X$. If $V_m$ and $V_y$ are different, this means that you and I value some items in $X$ differently. It follows, as was already observed by Steinhaus in 1948, that there exists a division that gives both parties more than their due part; “this fact disproves the common opinion that differences in estimation make fair division difficult” (Steinhaus 1948)[^steinhaus-1948].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      社会程序与世界同样古老。*分割—选择*（亦称“我切你选”）是一种程序，用于对某种合意或不合意的异质物品作两人公平分配。一人按她认为相等的份额把物品分开，另一人选择。若两位参与者对物品各部分的估值判断不同，则有可能双方都觉得自己得到了超过 50% 的物品。的确，设 $X$ 为代表待分物品的集合。$X$ 上的一个估值函数 $V$，是从 ${{\cal P}}(X)$ 到 $[0,1]$ 的函数，具有如下性质：$V(\emptyset) = 0$、$V(X) = 1$，且对所有子集 $A$、$B$，若 $A \subseteq B \subseteq X$，则 $V(A) \leq V(B)$（记号说明见基本集合论的补充材料）。设 $V_m$ 与 $V_y$ 分别是“我”与“你”对 $X$ 之内容的估值函数。若 $V_m$ 与 $V_y$ 不同，这意味着你与我对 $X$ 中某些项目的估值不同。于是可以推出——施泰因豪斯 1948 年已经指出——存在一种分配，使双方都得到超过其应得份额的部分；“这一事实驳倒了那种常见的看法：估值上的差异使公平分配变得困难”（Steinhaus 1948）[^steinhaus-1948]。
+    step2: |-
+      社会程序与世界一样古老。*分割—选择*（也叫“我切你选”）是一种两人公平分配程序，可用于合意或不合意的异质物品。一方按自己认定的均等份额把物品分开，另一方先挑。倘若两位参与者对各部分估值不同，就可能出现双方都觉得自己拿到了五成以上的情形。设 $X$ 是代表待分物品的集合；$X$ 上的估值函数 $V$，是从 ${{\cal P}}(X)$ 到 $[0,1]$ 的函数，满足 $V(\emptyset) = 0$、$V(X) = 1$，且对一切子集 $A$、$B$，由 $A \subseteq B \subseteq X$ 可推出 $V(A) \leq V(B)$（记号说明见基本集合论补充材料）。设 $V_m$ 与 $V_y$ 分别是我与你对 $X$ 内容的估值。若 $V_m$ 与 $V_y$ 不同，就说明你我给 $X$ 中某些项目定的值不一样。由此可以推出——施泰因豪斯早在 1948 年就指出了这一点——存在一种分法，使双方都拿到超过应得的部分；“这一事实驳倒了那种流行的看法：估值上的差异会让公平分配变得困难”（Steinhaus 1948）[^steinhaus-1948]。
   - id: 19
     kind: body
     source: |-
       It matters whether the valuations are known to the other party. Such knowledge can be used to advantage by the one who cuts. First consider the case that your valuation is unknown to me, and vice versa. Then if I cut, the best I can do is pick sets $A, B \subseteq X$ with $A \cap B = \emptyset$, $A \cup B = X$, and $V_m(A) = V_m(B)$. If you choose, you will use $V_y$ to pick the maximum of $\{ V_y(A), V_y(B) \}$. It follows immediately that cutting guarantees a fair share, but no more than that, while choosing holds a promise for a better deal. So if you ever get the choice between cutting and choosing in a situation where both parties only know their own valuation, then it is to your advantage to leave the cutting to the other person.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      估值是否为对方所知，这一点有影响。这种知识可以为切的一方所用。先考虑你的估值不为我所知、我的估值也不为你所知的情形。那么若由我来切，我能做的最好事情就是选取集合 $A, B \subseteq X$，使 $A \cap B = \emptyset$、$A \cup B = X$、$V_m(A) = V_m(B)$。若由你选，你会用 $V_y$ 去挑 $\{ V_y(A), V_y(B) \}$ 中的最大者。由此立即得出：切能保证一份公平的份额，但也仅此而已；而选则许诺一笔更好的交易。所以，若你在一个双方只知道自己估值的情境中获得切与选之间的选择，那么把切留给对方对你有利。
+    step2: |-
+      估值是否为对方所知，结果大不相同。切的一方可以利用这种知识。先看双方互不知情的情形：你的估值我不晓得，我的估值你也不晓得。此时若由我切，所能做的最好的事，就是取集合 $A, B \subseteq X$，使 $A \cap B = \emptyset$、$A \cup B = X$ 且 $V_m(A) = V_m(B)$。若由你选，你会依 $V_y$ 在 $\{ V_y(A), V_y(B) \}$ 中挑大者。于是立刻可见：切能保底得到公平的一份，但也仅止于此；选却可能带来更好的交易。所以，双方只知道自己估值时，若让你在切与选之间抉择，把切让给对方于你有利。
   - id: 20
     kind: body
     source: |-
       However, if the valuations are common knowledge (see entry on common knowledge), the situation is reversed, for then it is more advantageous to take the role of cutter. As cutter, you can attempt to make a division intp sets $A$ and $B$ with $A$ slightly more valuable than $B$ according to the valuation of the other party, while $B$ is much more valuable than $A$ according to your own valuation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，若估值是共同知识（见“共同知识”词条），情形就反过来了，因为那时担任切者的一方更有利。作为切者，你可以设法把物品分成集合 $A$ 与 $B$，使按对方估值 $A$ 比 $B$ 略值钱，而按你自己的估值 $B$ 比 $A$ 值钱得多。
+    step2: |-
+      不过，若估值成了共同知识（见“共同知识”词条），局面便翻转过来：此时更有利的是充当切者。作为切者，你可以设法把物品分成集合 $A$ 与 $B$：按对方的估值，$A$ 比 $B$ 略值钱；而按你自己的估值，$B$ 比 $A$ 值钱得多。
   - id: 21
     kind: body
     source: |-
       The example shows that issues of knowledge and ignorance, are crucial for analysis of fair division protocols. Epistemic logic (see entry on epistemic logic) can shed much light on many subtle aspects of knowledge and ignorance in social interactions, and in particular in fair division problems; for an interesting cake-cutting experiment showing the importance of knowledge and ignorance, see Kyropoulou et al. 2019. Still, in traditional studies of fair division the role of knowledge is not taken into account, as is witnessed by the comprehensive study of “cake cutting algorithms” in Robertson & Webb (1998).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这个例子表明，知识与否的问题对公平分配协议的分析至关重要。认知逻辑（见“认知逻辑”词条）能为社会互动中知识与否的许多微妙面向带来启发，尤其是在公平分配问题中；关于一项显示知识与否之重要性的有趣切蛋糕实验，见 Kyropoulou et al. 2019。尽管如此，在公平分配的传统研究中，知识的角色并未被考虑，Robertson & Webb（1998）对“切蛋糕算法”的全面研究可为证明。
+    step2: |-
+      这个例子表明，知与不知的问题，对公平分配协议的分析至关重要。认知逻辑（见“认知逻辑”词条）能照亮社会互动中知识与不知情的许多微妙之处，公平分配问题尤其如此；至于一项显示知与不知何其要紧的切蛋糕实验，见 Kyropoulou et al. 2019。然而在公平分配的传统研究里，知识的角色一向未受考虑——Robertson & Webb（1998）对“切蛋糕算法”的全面研究即是明证。
   - id: 22
     kind: body
     source: |-
       ### 2.2 Cutting a Cake Among More than Two Participants
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 三人以上的分蛋糕
+    step2: |-
+      ### 2.2 三人以上的分蛋糕
   - id: 23
     kind: body
     source: |-
       In the social choice literature (Brams 2005; Brams & Taylor 1996)[^brams-2005][^brams-1996] it is common practice to use cake cutting as a metaphor for a *division of a single heterogeneous good*. Dividing a piece of land at inheritance would be an example. The cake has different toppings that cannot all be cut into pieces with the same composition: it may have candied cherries on top that someone likes but another person abhors, and so on. A cake division is *simply fair* if each of $n$ players feels she received at least $1/n$ of the cake, according to her individual valuation of its parts. A procedure may be simply fair without ruling out the possibility of hard feelings. A cake division is called *envy-free* if each person feels that nobody else received a larger piece. A sure sign of a division being envy-free is that nobody wishes to trade pieces with anyone else. It turns out to be very hard to design cake cutting procedures that are both fair and envy-free. The *I cut, you choose* procedure is fair, and it is envy-free simply because the rest of the cake is a single piece, so there is no possibility for envy. See the entry on economics [normative] and economic justice for philosophical discussions of envy-freeness.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在社会选择文献中（Brams 2005; Brams & Taylor 1996）[^brams-2005][^brams-1996]，通常的做法是以切蛋糕来比喻 *单一异质物品的划分*。继承时划分一块土地即为一例。蛋糕有不同的浇头，无法都切成成分相同的块：上面可能有糖渍樱桃，某人喜欢而另一人厌恶，如此等等。若 $n$ 个参与者中每一个人按自己对各部分的估值，都觉得至少得到了蛋糕的 $1/n$，则这次分蛋糕是 *简单公平的*。一个程序可以是简单公平的，却未排除伤感情的可能。若每个人都觉得别人没有拿到更大的一块，则这次分蛋糕被称为 *无嫉妒的*。一次分配无嫉妒的确凿标志是：没有人想与别人交换所分。事实证明，要设计既公平又无嫉妒的切蛋糕程序非常困难。*我切你选* 程序是公平的，而且它无嫉妒，仅仅因为蛋糕的其余部分还是整块，所以没有嫉妒的可能。关于无嫉妒性的哲学讨论，见“经济学［规范性］与经济正义”词条。
+    step2: |-
+      在社会选择文献里（Brams 2005; Brams & Taylor 1996）[^brams-2005][^brams-1996]，人们惯常拿切蛋糕来比喻 *单一异质物品的划分*，继承时分割一块土地便是其例。蛋糕上的浇头各异，不可能块块切得成分相同：也许顶上缀着糖渍樱桃，甲喜欢，乙却厌恶，如此等等。若 $n$ 位参与者各按自己的估值，都觉得自己至少拿到了蛋糕的 $1/n$，这次分蛋糕便是 *简单公平的*。一个程序可以做到简单公平，却仍不免有人心里不痛快。若每人都觉得别人没有拿到更大的一块，这次分蛋糕便称作 *无嫉妒的*。判断一次分配是否无嫉妒，确凿的标志是没有人想跟别人交换手中那块。事实证明，要设计出既公平又无嫉妒的切蛋糕程序极为困难。*我切你选* 是公平的，而且天然无嫉妒——蛋糕剩下的部分仍是整块，嫉妒无从生起。无嫉妒性的哲学讨论，见“经济学［规范性］与经济正义”词条。
   - id: 24
     kind: body
     source: |-
       R. Parikh (2002) analyzes the so-called Banach-Knaster algorithm for cake cutting when the cake has to be divided fairly among at least three persons, which goes like this:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      R. 帕里克（2002）分析了所谓的巴拿赫—克纳斯特切蛋糕算法，用于必须在至少三人之间公平分配蛋糕的场合。该算法如下：
+    step2: |-
+      R. 帕里克（2002）分析过所谓的巴拿赫—克纳斯特切蛋糕算法，适用于把蛋糕公平分给至少三人的场合。算法如下：
   - id: 25
     kind: body
     source: |-
       > I cut a piece intended for myself. All others consider it. If nobody objects, I get my piece. If someone raises an objection, she has the right to cut off a slice and put that back with the rest of the cake. She then asks if she can have the reduced piece. If nobody objects, she gets it, otherwise someone else takes the knife and reduces the piece a bit further, and so on, until someone gets the trimmed piece. Then on to the next round, with $n-1$ players. When two players are left, they use the *Divide and choose* algorithm.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我切下一块，留给自己。其余人审视这一块。若无人反对，我得到自己那块。若有人提出异议，她有权切下一片，把它放回蛋糕的其余部分。然后她问，能否要这块削减过的块。若无人反对，她得到它；否则别人接过刀，把这块再削减一点，如此下去，直到有人得到这块修整过的块。接着进入下一轮，参与者为 $n-1$ 人。剩两人时，他们使用 *分割—选择* 算法。
+    step2: |-
+      > 我先切下一块，是给自己留的。其余人都来看这一块。若无人反对，这块就归我。若有人提出异议，她有权切下一片，把那片放回蛋糕的其余部分，然后问自己能否拿这块削小了的。若无人反对，她拿走；否则由旁人接过刀，再削去一点，如此继续，直到有人拿走这块修整过的。接着进入下一轮，只剩 $n-1$ 位参与者。到最后两位时，改用 *分割—选择* 算法。
   - id: 26
     kind: body
     source: |-
       Parikh’s discussion shows how the methods of theoretical computer science can be used to argue that the procedure is fair. The key ingredient of the procedure is a loop operation:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      帕里克的讨论显示了如何用理论计算机科学的方法来论证该程序是公平的。该程序的关键成分是一个循环操作：
+    step2: |-
+      帕里克的讨论表明，理论计算机科学的方法可以用来论证该程序公平。程序的关键，在于一个循环操作：
   - id: 27
     kind: body
     source: |-
       > Continue to trim the piece until there are no further objections about the size.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 不断修整这一块，直到对其大小再无异议。
+    step2: |-
+      > 一直修整下去，直到无人再对其大小有异议。
   - id: 28
     kind: body
     source: |-
       Suppose $r$ stands for the action of trimming a piece of cake and putting it back with the main part of the cake, according to the Banach-Knaster algorithm, and suppose $F(m,k)$ is the proposition that the main part of the cake is large enough for $k$ people. Then surely $F(m,n)$ holds at the beginning: the whole cake is large enough for the whole group to begin with. Moreover, Parikh (1983, 2002) uses his game logic to prove that $F(m,k)$ is invariant under the action $r$: If $F(m,k)$ is true before $r$, then it will still be true after $r$ has occurred. Clearly, if one can show that $F(m,k)$ continues to hold through the algorithm, for $k$ running through $n, \ldots, 1$, then this establishes that the division is fair.[^note-3]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      设 $r$ 代表按巴拿赫—克纳斯特算法切下一块蛋糕并把它放回蛋糕主体的动作，设 $F(m,k)$ 是命题：蛋糕主体对 $k$ 个人足够大。那么起初 $F(m,n)$ 无疑成立：整个蛋糕对整组人一开始就足够大。此外，帕里克（1983, 2002）用他的博弈逻辑证明，$F(m,k)$ 在动作 $r$ 下不变：若 $F(m,k)$ 在 $r$ 之前为真，则 $r$ 发生后它仍为真。显然，若能表明 $F(m,k)$ 贯穿算法持续成立，其中 $k$ 遍历 $n, \ldots, 1$，那么这就确立了分配是公平的。[^note-3]
+    step2: |-
+      设 $r$ 表示按巴拿赫—克纳斯特算法切下一块蛋糕、再把它放回蛋糕主体的动作；设 $F(m,k)$ 是“蛋糕主体足够 $k$ 人分”这一命题。那么一开始 $F(m,n)$ 当然成立：整只蛋糕对整组人本已够大。再者，帕里克（1983, 2002）用其博弈逻辑证明：$F(m,k)$ 在动作 $r$ 下保持不变——若 $F(m,k)$ 在 $r$ 之前为真，则 $r$ 发生之后仍为真。显然，若能证明 $F(m,k)$ 在整个算法中一路成立，$k$ 依次取 $n, \ldots, 1$，分配之公平便由此确立。[^note-3]
   - id: 29
     kind: body
     source: |-
       ### 2.3 Solomon’s Judgement
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.3 所罗门的判决
+    step2: |-
+      ### 2.3 所罗门的判决
   - id: 30
     kind: body
     source: |-
       A variation on *Divide and choose* was played by King Solomon in the famous Judgement of Solomon, in a dispute among two women who both claimed to be the mother of a child. The full story is in 1 Kings 3:16–28. Two women who lived in the same house both had an infant son. One of the women claimed that the other woman had stolen her child, after accidentally smothering her own son during sleep. The other woman denied this and reversed the charge. After hearing their stories, King Solomon called for a sword and declared that there was only one fair solution: cut the living child in two and give both women half of it. Upon hearing this, the true mother cried out that she was willing to give up the child if it could be spared, while the fake mother agreed with the judgement. This behaviour revealed to Solomon who was the real mother, and her child was given back to her.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *分割—选择* 的一个变体，由所罗门王在著名的“所罗门的判决”中演绎，案情是两名妇人都自称是一个孩子的母亲。完整故事见《列王纪上》3:16–28。同住一屋的两名妇人各有一个男婴。其中一名妇人声称，另一名妇人在睡梦中不慎闷死了自己的儿子，之后偷走了她的孩子。另一名妇人否认此事，并反控对方。听完她们的陈述，所罗门王叫人取剑来，宣布只有一种公平的解决办法：把活着的孩子劈成两半，两位妇人各得一半。听到这话，真正的母亲喊道，只要能留下孩子，她愿意放弃；而假母亲则同意这一判决。这一行为向所罗门揭示了谁是真正的母亲，孩子便归还给她。
+    step2: |-
+      *分割—选择* 有一个变体，所罗门王在著名的“所罗门的判决”里就用过，争讼的是两个都自称孩子生母的妇人。事情原委见《列王纪上》3:16–28。两个同住一屋的妇人各有一个男婴。一人声称，对方夜里不慎闷死了自己的儿子，便偷走了她的孩子；对方否认，反以同样的罪名相控。所罗门王听完陈述，命人取剑，宣布唯一的公平办法：把活着的孩子劈作两半，两位妇人各取一半。真母亲闻言高呼，宁可放弃孩子，只求留他一命；假母亲却赞同这一判决。这一举动让所罗门看出谁是生母，孩子便交还给她。
   - id: 31
     kind: body
     source: |-
       This procedure is not repeatable. As the Bible story puts it:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一程序不可重复。正如圣经故事所说：
+    step2: |-
+      这个程序不能重复使用。圣经故事是这样写的：
   - id: 32
     kind: body
     source: |-
       > And all Israel heard of the judgment which the king had judged; and they feared the king; for they saw that the wisdom of God was in him, to do justice.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 以色列众人听见王判断的这事，就都敬畏王，因为他们看见他心中有上帝的智慧，能以断案。
+    step2: |-
+      > 以色列众人听见王判断的这事，就都敬畏王；因为他们看见他心中有上帝的智慧，能以断案。
   - id: 33
     kind: body
     source: |-
       Obviously, in a second similar dispute, both women would exclaim “Give it to her, but let it live!”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      显然，在第二次类似的争讼中，两位妇人都会喊：“给她吧，可别杀他！”
+    step2: |-
+      不难想见，若再有第二桩类似的争讼，两位妇人都会喊出：“给她吧，只求留他一命！”
   - id: 34
     kind: body
     source: |-
       Solomon’s handling of the situation can be turned into a social procedure that is repeatable, as follows. Solomon does not call for a sword, but instead explains to the two women the following procedure. First he is going to ask the first woman if she is willing to give up the child. If the answer is “yes”, the dispute is resolved, with no further questions asked. Otherwise he will ask the other woman if she is willing to give up the child. Again, if the answer is “yes” the dispute is resolved. If they both refuse, then the child is his, and then he will allow one of the women to buy it back, at a price that is to be determined as follows. They will both write an amount of money on a sheet of paper, without their names. If the two bids are $A$ and $B$, then the price of the child is set at $\frac{A + B}{2}$, and fate will determine which woman is going to get the child at that price, where the other woman has to pay a small fine. If the two women are rational, one of them will give up the child when being first asked (see Moore 1992 and Pauly 2005; for philosophical discussions of rationality, see the entries on practical reason & game theory and ethics)[^moore-1992][^pauly-2005].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所罗门对情势的处理，可以变成一个可重复的社会程序，如下。所罗门不叫取剑，而是向两位妇人说明如下程序。首先他问第一位妇人，是否愿意放弃孩子。若答“是”，争讼即解决，不再多问。否则他再问另一位妇人是否愿意放弃孩子。同样，若答“是”，争讼即解决。若两人都拒绝，那么孩子归他，然后他允许其中一位妇人赎回孩子，价格按如下方式确定。两人各在纸上写一个金额，不署名。若两个出价为 $A$ 与 $B$，则孩子的价格定为 $\frac{A + B}{2}$，由命运决定哪位妇人以此价格得到孩子，另一位须付一小笔罚金。若两位妇人是理性的，其中一人会在被首先问到时就放弃孩子（见 Moore 1992 与 Pauly 2005；关于理性的哲学讨论，见“实践理性与博弈论”及“伦理学”词条）[^moore-1992][^pauly-2005]。
+    step2: |-
+      所罗门处理此事的方式，可以改造为一个可重复使用的社会程序。办法是：所罗门不取剑，而是把下面的程序讲给两位妇人听。他先问第一位妇人是否愿意放弃孩子；答“愿意”即了结此案，不再追问。否则就问另一位是否愿意放弃；答“愿意”同样了结。若两人都拒绝，孩子便归他所有，然后准许其中一位赎回孩子，价格这样定：两人各在纸上写一个数目，不署姓名。设两个出价为 $A$ 与 $B$，孩子的价格即定作 $\frac{A + B}{2}$，由命运决定哪一位以此价得子，另一位须缴一小笔罚金。两位妇人若是理性的，其中一位在被问及时就会放弃（见 Moore 1992 与 Pauly 2005；理性的哲学讨论见“实践理性与博弈论”“伦理学”词条）[^moore-1992][^pauly-2005]。
   - id: 35
     kind: body
     source: |-
       Both Moore (1992) and Pauly (2005) discuss the importance of reasoning about common knowledge and ignorance in the King Solomon cases. For example, King Solomon is ignorant of who is the real mother, but both women commonly know from the start who is the true mother, and that the true mother will therefore bid much higher than the other one. This makes the procedure safe. Again, epistemic logic and in particular common knowledge help to shed light on a tricky social procedure. For a more traditionally philosophical introduction to the fair division problem, including more extensive explanations of fairness, manipulability and envy-freeness, see the entry on economics [normative] and economic justice.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      摩尔（1992）与保利（2005）都讨论了在所罗门诸案中推理共同知识与不知情的重要性。例如，所罗门王不知谁是真正的母亲，但两位妇人都从一开始就共同知道谁是真正的母亲，也知道真正的母亲因此会出价远高于另一位。这使该程序变得安全。再次，认知逻辑、尤其是共同知识，有助于阐明一个棘手的社会程序。若想要对公平分配问题更传统的哲学导引，包括对公平、可操纵性与无嫉妒性更详尽的解释，见“经济学［规范性］与经济正义”词条。
+    step2: |-
+      摩尔（1992）与保利（2005）都谈到，在所罗门这类案子里，就共同知识与不知情作推理何其重要。比如：所罗门王并不知道谁是生母，而两位妇人对谁是真母亲却自始共同知晓，也因此知道真母亲出价必远高于对方。程序正因如此才安全。可见认知逻辑、尤其是共同知识，能照亮这样一个棘手的社会程序。若想读更传统的哲学导引，包括对公平、可操纵性与无嫉妒性的更详尽解释，见“经济学［规范性］与经济正义”词条。
   - id: 36
     kind: body
     source: |-
       The next section shows that the perspective of social software can also shed light on social matching problems. These range from marriages to the assignment of resident doctors to hospitals, college admission procedures, and the assignment of students to housing.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 37
     kind: body
     source: |-
       ## 3. The Stable Marriage Problem
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 38
     kind: body
     source: |-
       Suppose equal sets of men and women are given, all of them seeking to marry someone of the opposite gender, and each man has listed his preferences for the women by means of a strict ordering, and similarly for each woman. A *stable marriage match* is a one-to-one mapping between the men and women with the property that if a man prefers another woman over his own wife, then that woman does *not* prefer him to her own husband, and if a woman prefers another man over her own husband, then that man does *not* prefer her to his own wife.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 39
     kind: body
     source: |-
       ### 3.1 The Gale-Shapley Algorithm
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 40
     kind: body
     source: |-
       The computer scientists Gale and Shapley proved that stable matchings always exist, and gave an algorithm for finding such matchings, the so-called Gale-Shapley algorithm (Gale & Shapley 1962)[^gale-1962]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 41
     kind: body
     source: |-
@@ -261,300 +353,398 @@ segments:
       > Next, in a number of rounds, each free man proposes to the most-preferred woman to whom he has not yet proposed and ticks her off from his list. If the woman is free, she accepts, and they become engaged. If the woman is not free, she compares the proponent to her current fiancé. If she likes him better, she dumps the fiancé who becomes free again, and the proponent and his woman of choice become engaged.
       >
       > This goes on until all men and women are engaged.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 42
     kind: body
     source: |-
       As an example, suppose that there are three men $a, b, c$ and three women $d, e, f$, and the lists of preferences are as follows (with the most preferred one first in the list): $a: edf$, $b: {\it fed}$, $c: {\it dfe}$, $d: {\it abc}$, $e: {\it cda}$, $g: {\it acb}$. So $a: {\it edf}$ means that $a$ prefers $e$ to $d$ and $d$ to $f$. It is assumed that preferences are transitive, so $a$ also prefers $e$ to $f$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 43
     kind: body
     source: |-
       An example of a stable match for this situation is represented as three pairs $(a,e)$, $(b,f)$, $(c,d)$. Note that woman $d$ ends up with the man that is at the bottom of her list. But this match is still stable, for although $c$ is willing to swap her husband for any of the other two men, these two candidates will not agree, for they both happen to be married to the woman who is on the top of their own list.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 44
     kind: body
     source: |-
       To check that the Gale-Shapley algorithm always produces stable matchings, we can proceed as follows. Obviously, the situation where no-one is engaged is stable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 45
     kind: body
     source: |-
       What does it mean for $E$, an “engagement” mapping, to be stable on the set of women $W$ and the set of men $M$? Let us use $m >_w m'$ for “$w$ prefers $m$ over $m'$” (so bigger is better).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 46
     kind: body
     source: |-
       **(1)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 47
     kind: body
     source: |-
       For all $(m,w) \in E$: if there is $w'$ with $w' >_m w$ then there is no $m'$ with $(m',w') \in E$ and $m >_{w'} m'$;
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 48
     kind: body
     source: |-
       **(2)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 49
     kind: body
     source: |-
       For all $(m,w) \in E$: if there is $m'$ with $m' >_w m$ then there is no $w'$ with $(m',w') \in E$ and $w >_{m'} w'$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 50
     kind: body
     source: |-
       What does it mean for a man to be *free*?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 51
     kind: body
     source: |-
       **(3)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 52
     kind: body
     source: |-
       The set of free men should equal the set of all men minus the men that are engaged.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 53
     kind: body
     source: |-
       Next, inspect what happens in a single step in the algorithm. The precondition for the step is that there is at least one free man $m$ left. Such a free man $m$ proposes to the highest woman $w$ on his list to whom he has not yet proposed.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 54
     kind: body
     source: |-
       There are two cases. If $w$ is free, $w$ accepts the proposal, and they become engaged. Is the new set of engaged pairs stable? We only have to check for the new pair $(w,m)$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 55
     kind: body
     source: |-
       - Suppose that there is a free $w'$ with $w' >_m w$. This cannot be, for $w$ is at the top of $m$'s list.
       - Suppose there is $m'$ with $m' >_w m$. Then if $m'$ is engaged, let us say to $w'$, this must mean that not $w >_{m'} w'$. For otherwise $m'$ would have proposed to $w$ instead of to $w'$.
       - The new list of free men equals the old list, minus $m$. This is correct, for $m$ just got engaged.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 56
     kind: body
     source: |-
       Now the other case: suppose that $w$ is already engaged. There are two subcases. In case $w$ prefers her own current fiancé, nothing happens. The resulting list of engaged pairs is still stable. The list of free men remains the same, for $m$ proposed and got rejected.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 57
     kind: body
     source: |-
       In case $w$ prefers $m$ to her own fiancé $m'$, she swaps: $(m,w)$ replaces $(m',w)$ in the set of engaged pairs. Again, it is easy to see that the resulting list of engaged pairs is stable. Man $m$ gets replaced by $m'$ in the set of free men. This is also correct.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 58
     kind: body
     source: |-
       Note that the Gale-Shapley matching algorithm is hugely favourable to the party that is doing the proposing. The proposing party gets a chance to make proposals to any candidate, in order of preference. But at the start of the procedure the receiving party has to say “yes” to any proposal! The result of swapping the roles of the men and the women in the algorithm will also compute a stable match, but one that is more advantageous to the women.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 59
     kind: body
     source: |-
       The Gale-Shapley procedure runs in time quadratic in the number of men and women (see, e.g., Cechlérová et al. 2005)[^cechlérová-2005]. Pini et al. (2011) show how participants can easily manipulate the outcome of the procedure by misrepresenting their true preferences. Fortunately, Pini et al. also present an alternative procedure for which manipulation is hard, in that coming up with an individually profitable misrepresentation of one’s preferences is a computationally complex task.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 60
     kind: body
     source: |-
       The Gale-Shapley algorithm has many important applications, also outside of the area of marriage brokering; Gale and Shapley themselves discuss college admission procedures (1962). The next subsection presents another application.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 61
     kind: body
     source: |-
       ### 3.2 A University Housing Assignment Procedure
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 62
     kind: body
     source: |-
       Using the perspective of social software, Parikh and Pauly (2012) investigate a variant of the Gale-Shapley algorithm that is used in the Stanford Housing Draw to assign students to rooms. The situation is more complex than in the marriage setting, because students do not give a complete order on all houses, but only on 8 of them; moreover, they may choose to enter the Draw in groups. In the housing context, the students turn out to have an incentive to honestly submit their true preferences: the draw is *non-manipulable* for them. However, in theory they could still strategize about choosing the subset of 8 houses on which they submit their preferences.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 63
     kind: body
     source: |-
       The issue of knowledge is interesting in this case. Even though the algorithm can be found on the Stanford webpages, most students and administrators do not fully understand how it works. Therefore, the Stanford Housing Draw cannot be assumed as common knowledge among the students. An interesting phenomenon seems to occur: even while admitting not to understand the algorithm, most students would say that they believe it to be fair (Parikh & Pauly 2012)[^parikh-2012].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 64
     kind: body
     source: |-
       ## 4. The Logic of Communication
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 65
     kind: body
     source: |-
       Communication protocols are important in distributed computing: computing with distributed systems, where a distributed system is a set of computers that are connected through a communication network. Communication protocols are also interesting from a philosophical perspective, especially in the context of discussions of the value of privacy (see entries on privacy and computing and moral responsibility). The formal approach can help in answering philosophical questions such as “Does more security automatically lead to less privacy?”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 66
     kind: body
     source: |-
       ### 4.1 Communication and Distributed Computing
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 67
     kind: body
     source: |-
       In the following example, the inspiration does not only flow from social problems to formal solutions, but also the other way, from successful social practices to formal procedures. Many algorithms for distributed computing are related to social protocols for communication in everyday life. An example is the use of a “talking stick” to regulate discussion and decision making in a group of peers, with the rules that the talking stick gets passed around and only the person who is holding the stick is allowed to talk (Nerburn 1999)[^nerburn-1999].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 68
     kind: body
     source: |-
       A computer communication protocol based on this social procedure is the token ring protocol. A *token ring* in distributed computing is a network where each computer is connected to exactly two other computers in such a way that each computer is reachable in the network, and where a single “token” circulates around the ring-shaped network. Communication can only be initiated by the current owner of the token.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 69
     kind: body
     source: |-
       Sometimes the token gets lost through computer or network failure. In such cases the token has to be regenerated, with a guarantee that only one computer has the token. This problem of regenerating the token in a token ring is called the *leader election problem*. Here is an algorithm for it:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 70
     kind: body
     source: |-
       > Assume that communication takes place clockwise, and each computer can distinguish its clockwise neighbour from its counterclockwise neighbour. Assume that all computers have different identifiers (positive whole numbers) and each computer knows its identifier.
       >
       > Each computer sends its identifier around the ring. When a computer $c$ receives an identifier, $c$ compares it to its own. If the identifier is greater than its own, $c$ passes it on. If it is less than its own, $c$ discards it. If it is equal to its own, $c$ declares itself to be the leader.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 71
     kind: body
     source: |-
       It is not hard to see that this guarantees the computer with the highest identifier $i_{\text{max}}$ to become the leader (see Lynch 1996)[^lynch-1996]. No assumptions need to be made about the number of computers in the ring, nor about any computer knowing anything about the size of the ring or the identifiers of the other computers. A next stage of the protocol could be for the leader to send around a request to register as non-leader and halt.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 72
     kind: body
     source: |-
       One further level of abstraction is from distributed computers or processes to interacting intelligent agents, or multi-agent systems. These agents can be computers, robots, humans, teams of humans, or some mix of these. It is commonly assumed that the agents have a degree of autonomy, that the agents have a restricted local view of the system as a whole, and that there is no designated controller of the whole system (see Wooldridge 2002 [2009])[^wooldridge-2002].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 73
     kind: body
     source: |-
       ### 4.2 Common Knowledge and Social Procedures
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 74
     kind: body
     source: |-
       Many social procedures are designed to create common knowledge (Lewis 1969; van Ditmarsch et al. 2009; and entry on common knowledge)[^ditmarsch-2009][^lewis-1969]. The old-fashioned ritual that takes place when you withdraw a large amount of money from your bank account and have it paid out to you in cash by the cashier is an example.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 75
     kind: body
     source: |-
       How and whether common knowledge can be achieved depends on available communication facilities. Public announcement or publicly observable ritual (the cashier ritual mentioned above) can create common knowledge. But, as Halpern and Moses (1984) proved, message exchange in a distributed environment, where there is no guarantee that messages get delivered, cannot. Halpern and Moses use the example of two generals who are planning a coordinated attack on a city. The generals are on two hills on opposite sides of the city, each with their own army, and they know that they can only succeed in capturing the city if their two armies attack at the same time. But the valley that separates the two hills is in enemy hands, and any messengers that are sent from one army base to the other run a severe risk to get captured. The generals have agreed on a joint attack, but still have to settle the time. So the generals start sending messages, for example, “Let’s attack at 9:00 AM”. But they cannot be sure that the messengers succeed in delivering their message. And if they get through, there is no guarantee that the message of acknowledgement will get delivered. And so on.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 76
     kind: body
     source: |-
       Even if common knowledge is sometimes hard to achieve in practice, it serves as necessary presumption in regulating society. Roman lawgivers found out long ago that if citizens within their jurisdiction could plead innocence because of being unaware of the law, no offender could ever get convicted. So they invented principles like *Ignorantia legis neminem excusat*, “ignorance of the law excuses no one”. Societies that abide by the rule of law have to be organized in such a way that citizens *in principle* are in a position to know the law. The laws have to be properly published and distributed, for example, by being printed in a government gazette to which every citizen has access.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 77
     kind: body
     source: |-
       In his book “Rational Ritual” (2001), Michael Suk-Young Chwe points out the importance of the *size* of groups for which common knowledge gets established. A brand name that is common knowledge in a large group is worth a lot of money. Chwe analyzes the example of advertisements broadcasted during the American football Super Bowl. He compares the enormous cost of making something common knowledge by means of such advertisements to the obvious benefits. Part of the benefit is in the fact that the advertisements create common knowledge. An important consideration when deciding to buy a smartphone of a particular brand, for example, is the knowledge that others are going to buy the same model too.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 78
     kind: body
     source: |-
       Of course in many social situations, you may want to *prevent* common knowledge from arising, for example, if you want to keep a secret from certain others. There are also more interesting cases where everybody knows some fact, for example that a particular country possesses nuclear weapons, but where it would lead to political problems to make this fact common knowledge by making a public announcement. For a number of such social situations where maintaining privacy and ignorance are crucial, see van Eijck and Verbrugge (2009). An interesting recent development is the study of dynamic-epistemic logic-based *epistemic planning*, which enables us to synthesize communication protocols in order to create certain exact configurations of levels of higher-order knowledge within a group (Bolander and Andersen 2011, Löwe, Pacuit, and Witzel 2011)[^bolander-2011].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 79
     kind: body
     source: |-
       ## 5. Strategic Reasoning and Cooperation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 80
     kind: body
     source: |-
       The large field of game theory is extensively explained in other lemmas in this encyclopedia (see among others the entry on game theory). This field of research has been very active since the appearance of the seminal book (Von Neumann and Morgenstern 1944)[^von-1944]. Similarly, social choice theory and in particular voting theory (see entries on social choice theory and voting methods) were already thriving fields of research long before the term social software came along.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 81
     kind: body
     source: |-
       It is useful to investigate how formal methods and an algorithmic perspective can help solve societal problems. For example, in the case of the famous prisoner’s dilemma (see entry on prisoner’s dilemma) it is interesting to try to design policies that make cheating the other agent less profitable by penalizing it. Notice that this “social software engineering” takes place at the meta-level, on top of the level of the prisoners choosing their strategies (van Eijck 2015)[^eijck-2015].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 82
     kind: body
     source: |-
       A related recent trend in game theory that is relevant for social software, is to step away from solution concepts such as the Nash equilibrium and instead to focus on the process of rational deliberation: the “theory of play” (see van Benthem, Pacuit and Roy, 2011, as well as the entry logics for analyzing games). This type of research delineates both the normative principles guiding the players’ strategic reasoning, and the psychological phenomena explaining the differences between predicted and observed behavior in games (Camerer 2003; Ghosh and Verbrugge 2018; Pacuit 2015; Meijering et al. 2012, 2014; Top et al. 2018)[^camerer-2003][^ghosh-2018][^meijering-2012][^pacuit-2015][^top-2018].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 83
     kind: body
     source: |-
       In Section 4.2 we briefly discussed the role of the study of knowledge and belief when analyzing social procedures. In this vein, the field of epistemic game theory focuses on agents’ beliefs about other agents’ strategies and those agents’ beliefs about other agents’ strategies, and so on, up to the idealized case of common knowledge among a group of agents that they are all rational (see the entry on epistemic foundations of game theory; Perea 2012; Brandenburger 2014)[^brandenburger-2014][^perea-2012].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 84
     kind: body
     source: |-
       It turns out that in voting theory in particular, it is useful to design a logic to explicitly model the knowledge that agents bring to bear when they are voting. It is especially interesting to model what happens in a group when agents vote strategically by misrepresenting their own preferences in order to manipulate the outcome (van Eijck 2015; van Ditmarsch et al. 2012)[^ditmarsch-2012][^eijck-2015].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 85
     kind: body
     source: |-
       In recent years in the research area of multi-agent systems, formal approaches to social procedures have also been used to help design actual software, for example for cooperative problem solving in teams, coalition formation, knowledge fusion, auctions, and negotiations among software agents (Bulling et al. 2015; Chalkiadakis et al. 2011; Dunin-Kęplicz and Verbrugge 2010; Pauly 2002; Shoham and Leyton-Brown 2009; Vazirani et al. 2007)[^bulling-2015][^chalkiadakis-2011][^dunin-kęplicz-2010][^pauly-2002][^shoham-2009][^vazirani-2007]. This literature is mostly normative in nature.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 86
     kind: body
     source: |-
       In contrast, another fascinating area of research, evolutionary game theory (see entry on evolutionary game theory), investigates how features like altruism, social norms, moral behavior and cooperation could actually have evolved. This area combines both normative and descriptive work (Axelrod 1984; Bowles and Gintis 2011; Sigmund 2010)[^axelrod-1984][^bowles-2011][^sigmund-2010]. As a particular social software contribution to this area, Gärdenfors (2012) characterized how much cognition and communication are required for several kinds of cooperation, from simple flocking behavior, through reciprocal altruism (“I’ll scratch your back if you scratch mine”), up to fully fledged teamwork.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 87
     kind: body
     source: |-
       ## 6. Conclusion
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 88
     kind: body
     source: |-
       In conclusion, the formal perspective on social procedures and intelligent interaction, which emphasizes algorithms and information, has produced a wide variety of important insights. It has also led to interesting philosophical discussions. The main challenge for the future appears to be to unify this currently relatively scattered field, in which many contributors do not seem to be aware of relevant work in other subfields.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 89
     kind: oir
     source: |-
       ### Conference Series
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 90
     kind: oir
     source: |-
@@ -562,14 +752,18 @@ segments:
       - [TARK: Theoretical Aspects of Rationality and Knowledge](http://www.tark.org/).
       - [LORI: Workshops on Logic, Rationality, and Interaction](http://golori.org/)
       - [LOFT: Logic and the Foundations of Game and Decision Theory](http://www.econ.ucdavis.edu/faculty/bonanno/loft.html).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 91
     kind: oir
     source: |-
       ### Other Sites
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 92
     kind: oir
     source: |-
@@ -579,31 +773,41 @@ segments:
       - [Preprint of the full version of the article on Fair Cake-Cutting in Practice by Kyropoulou et al., 2019; revised 2022](https://arxiv.org/abs/1810.08243)
       - [Interactive demo of the Gale-Shapley algorithm for stable matching](http://mathsite.math.berkeley.edu/smp/smp.html)
       - [Video of the token ring protocol](https://www.youtube.com/watch?v=rMWH21f7b2Q)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 93
     kind: ack
     source: |-
       I would like to express my gratitude to Jan van Eijck for the enjoyable time of writing the first 2014 version of this article together. Thanks are also due to two anonymous referees for suggesting several improvements and additions for this updated version. Because of Jan’s retirement a few years ago, the 2019 update of the article has been made by me (Rineke Verbrugge) and I therefore bear sole responsibility for any remaining infelicities; please let me know if you spot any.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 94
     kind: note
     source: |-
       [^note-1]: “Social software” is also used as a name for Internet communication applications like MSN Messenger, Twitter, and Skype. This is not what this entry is about. And what is sometimes called “social software engineering” is again something different: it is a name for the subdiscipline of software engineering that studies its aspect of social interaction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 95
     kind: note
     source: |-
       [^note-2]: Başkent (2017) convincingly argues that it is useful to look beyond classical logic only when analyzing social procedures. He shows that for some examples’s from Parikh’s work on social software, a para-consistent logic provides a useful perspective (see also entry on paraconsistent logic).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
   - id: 96
     kind: note
     source: |-
       [^note-3]: Parikh (2002) notes:
 
       > Another property which holds is that if $F(m, k + 1)$ is true then it can be true that after the action $c$, of cutting a slice from the cake, the remaining main part is big enough for $k$ people and the slice itself is big enough for one. Note the contrast, that the action $r$ preserves $F(m, k)$ regardless of how $r$ is performed whereas the action $c$, of cutting the cake, may yield the desired outcome but need not.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TBD
+    step2: |-
+      TBD
