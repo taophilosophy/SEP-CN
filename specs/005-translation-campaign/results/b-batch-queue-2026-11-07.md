@@ -7,17 +7,16 @@
 | 指标 | 数值 |
 |---|---|
 | 正式词条 | 62 |
-| done | 3（boolalg-math、biology-philosophy、bloch） |
+| done | 4（boolalg-math、biology-philosophy、bloch、blame） |
 | s3_checked（待 r1→r3→done 收口） | 14 |
 | drafted（待 s1→s3→r1→r3→done） | 2 |
-| cleared（待全量重译） | 43 |
+| cleared（待全量重译） | 42 |
 
 ## 队列 A：cleared 44 条全量重译（按源文词数升序，先短后长）
 
 | 词数 | slug | 词数 | slug |
 |---|---|---|---|
-| 7873 | bloch | 12718 | biology-experiment |
-| 10028 | blame | 12993 | biology-individual |
+| 12718 | biology-experiment | 12993 | biology-individual |
 | 10150 | bohr-correspondence | 13118 | biodiversity |
 | 10433 | bodily-awareness | 13223 | burke |
 | 10490 | bradley-moral | 13646 | bonaventure |
@@ -72,3 +71,5 @@
 ## 进度流水（追加）
 
 - 2026-11-07：`biology-philosophy`（076c04d9）、`bloch`（d6fff72c）九步入 done。bloch 首例实证"原生脚注型"组装：note-1..12 译出进 `## 脚注`，书目 defs（含散文型导语注）照录进 `## 参考文献`，assemble 门内建 note-N 键集与非 note defs 计数双校。**教训**：prose 批量改写会丢行内脚注标记（moltmann-1964 一例），改写后必须重跑 marker/defs 守恒门。
+- 2026-11-07（续）：`blame`（da46a7cc）九步入 done。首例无内容性脚注条目（源无 Notes 区，defs 全为书目）；撇号键（o’brien-2022）须用 U+2019 与 defs 逐字符一致；斜体→加粗批处理须用 `\*([^*
+]+)\*` 逐跨度匹配，否则跨强调对粘连（areté 句事故已修复）。
