@@ -2,7 +2,7 @@
   "slug": "ethics-deontological",
   "kind": "retranslate",
   "zh_doc": "e/ethics-deontological.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "?",
       "at": "2026-11-03T20:31:43Z",
       "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 49 豁免留痕见 s2；人名 28 条登记（罗尔斯/斯坎伦/诺齐克/安斯康姆/富特/拉兹等，沃伦·奎因与蒯因异人注明）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:28:34Z",
+      "evidence": "r1 段级核销：17 节一一对应、130 个脚注键全等、无重复定义、年份集合无缺无多；案例名（Trolley/Loop Trolley/Fat Man）与学者-年份引用组逐条在位；修补前次误改留下的残句（'值得采纳并施行'）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:28:34Z",
+      "evidence": "r2 句级复读：check_prose 49→38；拆分/合并 7 处，'被要求/被禁止'被动式改写 4 处，'行动者中心的理论'类去链 6 处；余 38 条为分析哲学句法的固有'的'密度（行动者相对的理由／所违犯的绝对义务 等术语链），逐条读核无病句，按 ADR-0020 密度豁免"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:28:37Z",
+      "evidence": "r3 终检：check_style 0 issue、check_academic --strict OK；结构 17/17 节、130/130 键；账本缺档旧管线债务登记 qa-findings §4"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:28:37Z",
+      "evidence": "终稿验收：六道全过；密度豁免有逐条读核记录"
     }
   ],
   "blockers": [],
