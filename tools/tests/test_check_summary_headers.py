@@ -5,6 +5,7 @@
 重点回归：标题里的转义方括号 `\\[dge lugs pa\\]` 必须整段解析——结构审计用的
 `\\[([^]]*)\\]` 会在第一个 `]` 处截断，曾把 31 个 H1 写成半截标题（2026-11-07）。
 """
+import json
 import os
 import shutil
 import subprocess
@@ -77,6 +78,41 @@ class HeaderConsistencyTest(unittest.TestCase):
         r2 = run(self.root, "--sync-headers")
         self.assertEqual(r2.returncode, 0, r2.stdout + r2.stderr)
         self.assertIn("H1 同步 0 处，残差 0", r2.stdout)
+
+
+class AliasFragmentTest(unittest.TestCase):
+    """别名行左侧英文必须是完整标题（2026-11-07 裁定）；默认审计即硬拦。"""
+
+    def setUp(self):
+        self._tmp = tempfile.TemporaryDirectory()
+        self.root = self._tmp.name
+        os.makedirs(os.path.join(self.root, "tools"))
+        shutil.copy(SCRIPT, os.path.join(self.root, "tools", "check_summary.py"))
+        os.makedirs(os.path.join(self.root, "baseline"))
+        with open(os.path.join(self.root, "baseline", "entries.json"), "w", encoding="utf-8") as f:
+            json.dump({"entries": [{"slug": "biology-experiment", "title": "Experiment in Biology"}]}, f)
+
+    def tearDown(self):
+        self._tmp.cleanup()
+
+    def write(self, rel, text):
+        full = os.path.join(self.root, rel)
+        os.makedirs(os.path.dirname(full) or self.root, exist_ok=True)
+        with open(full, "w", encoding="utf-8", newline="") as f:
+            f.write(text)
+
+    def test_dangling_fragment_is_hard_error(self):
+        self.write("SUMMARY.md", "* [\\*生物学——见生物学：实验生物学 in biology — see biology: experiment in](b/biology-experiment.md)\n")
+        self.write("b/biology-experiment.md", "# 生物学中的实验 Experiment in Biology\n")
+        r = run(self.root)
+        self.assertEqual(r.returncode, 1)
+        self.assertIn("ALIAS", r.stdout)
+
+    def test_full_title_fragment_passes(self):
+        self.write("SUMMARY.md", "* [\\*生物学——见生物学：实验生物学 Experiment in Biology — see biology: experiment in](b/biology-experiment.md)\n")
+        self.write("b/biology-experiment.md", "# 生物学中的实验 Experiment in Biology\n")
+        r = run(self.root)
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
 
 
 if __name__ == "__main__":

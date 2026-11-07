@@ -41,6 +41,7 @@
 * **改标题只改 SUMMARY.md 一处**；各文件 H1 必须与条目文字一致，本地门禁与 CI 用同一检查器 `tools/check_summary.py` 实拦；改后跑 `python tools/check_summary.py --sync-headers` 同步 H1（ADR-0024：CI 只校验，不再写回远端）。
 * 同步/校验时会把标题中的转义还原：`\*`→`*`、`\[`→`[`、`\]`→`]`。SUMMARY 源码内的这些转义是 markdown 链接语法所需，**保留不删**。
 * 首行是 `---`（YAML frontmatter）的文件（如 `mu-lu-s.md`）不参与 H1 同步与校验。
+* 别名词条行（含 `— see`）左侧英文必须写目标词条的**完整标题**（`baseline/entries.json` 的 `title`），不得留截断片段（`in biology`、`and informed consent`）或索引倒装残段（`clinical research, ethics of`）；右侧 `— see` 之后仍写 SEP 索引名。门禁 `python tools/check_summary.py` 的 `alias fragment` 项实拦（2026-11-07 裁定，ADR-0024）。
 
 ## mu-lu-s.md（分类目录）规则
 

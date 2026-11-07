@@ -52,6 +52,59 @@ def header_lines():
     return out
 
 
+def load_baseline_titles():
+    """slug → SEP 完整标题（baseline/entries.json，入库件；缺失时返回空表并跳过别名门）。"""
+    path = os.path.join(root, 'baseline', 'entries.json')
+    if not os.path.isfile(path):
+        return {}
+    with open(path, encoding='utf-8') as f:
+        d = json.load(f)
+    ents = d['entries'] if isinstance(d, dict) and 'entries' in d else d
+    if isinstance(ents, dict):
+        ents = list(ents.values())
+    return {e['slug']: (e.get('title') or '') for e in ents}
+
+
+CJK = re.compile(r'[\u4e00-\u9fff\u3000-\u303f\uff00-\uffef]')
+SLUGPATH = re.compile(r'[a-z0-9]/[A-Za-z0-9][A-Za-z0-9.\-]*\.md')
+FUNC_START = re.compile(r'^(and|of|in|on|to|for|with|is|are)\b', re.I)
+FUNC_END = re.compile(r'\b(and|or|of|in|on|to|for|with)$', re.I)
+
+
+def norm_title(s):
+    return re.sub(r'[^a-z0-9]+', ' ', s).strip().lower()
+
+
+def alias_fragments():
+    """别名行左侧英文片段为半截/悬空的清单（2026-11-07 裁定：必须是完整标题）。
+
+    口径：取最后一个汉字之后的英文片段；与目标 baseline 完整标题或右侧索引名等价即放行，
+    否则以功能词开头/结尾（and/of/in/on/to/for/with/is/are）即判残缺。
+    """
+    titles = load_baseline_titles()
+    if not titles:
+        return []
+    rows = []
+    for t, p in header_lines():
+        if ' — see' not in t or not SLUGPATH.fullmatch(p):
+            continue
+        left, right = t.split(' — see', 1)
+        idx = max((k for k, ch in enumerate(left) if CJK.match(ch)), default=-1)
+        frag = left[idx + 1:].strip().replace('\\*', '').strip()
+        slug = os.path.basename(p)[:-3]
+        full = titles.get(slug) or ''
+        if not full:
+            continue
+        nf, nt, nr = norm_title(frag), norm_title(full), norm_title(right)
+        if not frag:
+            rows.append((p, frag, full))
+        elif nf == nt or nf == nr:
+            continue
+        elif FUNC_START.match(frag) or FUNC_END.search(frag):
+            rows.append((p, frag, full))
+    return rows
+
+
 def header_mismatches():
     """SUMMARY 正式条目文字（还原转义后）与文件 H1 不一致的清单。
 
@@ -111,6 +164,8 @@ if HEADERS_ONLY:
     for p, want, have in mismatch:
         print('  MISMATCH %s\n    SUMMARY: %s\n    H1     : %s' % (p, want, have))
     sys.exit(1 if mismatch else 0)
+
+alias_bad = alias_fragments()
 
 top_dirs = {}
 for t, p, _ in entries:
@@ -187,7 +242,11 @@ print('H1 mismatch: %d' % len(mismatch))
 for p, want, have in mismatch:
     print('  MISMATCH %s\n    SUMMARY: %s\n    H1     : %s' % (p, want, have))
 
-# 门禁：硬错误非零退出（孤儿文件/近空文件为统计信息，不计入；H1 不一致为硬错误，ADR-0024）
-hard = unparsed + len(missing) + len(bad) + len(dups) + len(mismatch)
+print('alias fragment (需完整标题): %d' % len(alias_bad))
+for p, frag, full in alias_bad[:30]:
+    print('  ALIAS %s: %r，应为 %r' % (p, frag, full))
+
+# 门禁：硬错误非零退出（孤儿文件/近空文件为统计信息，不计入；H1 不一致与别名残缺为硬错误，ADR-0024）
+hard = unparsed + len(missing) + len(bad) + len(dups) + len(mismatch) + len(alias_bad)
 print('HARD ERRORS: %d' % hard)
 sys.exit(1 if hard else 0)
