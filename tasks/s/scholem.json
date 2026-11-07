@@ -1,0 +1,22 @@
+{
+  "slug": "scholem",
+  "kind": "retranslate",
+  "zh_doc": "s/scholem.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T18:29:45Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-07T18:29:45Z",
+  "version_pin": {
+    "pubinfo_date": "Apr 14, 2026",
+    "archive_edition": "Summer 2026",
+    "sha256": "09918371bd58aaed65d8e2da76c2f37ca205e1ec913ccde5100f11e2b657a850"
+  }
+}
