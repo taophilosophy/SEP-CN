@@ -1,0 +1,281 @@
+version: 1
+slug: gelukpa
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      The Gelukpa (or Geluk) tradition of Tibetan Buddhist philosophy is inspired by the works of Tsongkhapa (1357–1419), who set out a distinctly nominalist Buddhist tradition that differs sharply from other forms of Buddhist thought not only in Tibet, but elsewhere in the Buddhist world. The negative dialectics of the Middle Way (*madhyamaka*) is the centerpiece of the Geluk intellectual tradition and is the philosophy that is commonly held in Tibet to represent the highest view. The Middle Way, a philosophy systematized in the second century by Nāgārjuna, seeks to chart a “middle way” between the extremes of essentialism and nihilism with the notion of two truths: the ultimate truth of emptiness and the conventional truth of dependent existence. Drawing upon the presentation of the middle way from the seventh-century philosopher, Candrakīrti, the Geluk school’s unique presentation of the Consequence School (*prāsaṅgika*) of the Middle Way—a tradition that does not build foundational epistemological systems, but affirms existence merely in terms of transactional usage—is a hallmark of its philosophy.
+    step1: |-
+      藏传佛教哲学的格鲁派（Gelukpa，或作 Geluk）传统，以宗喀巴（Tsongkhapa，1357–1419）的著作为灵感。宗喀巴开创了一个颇具唯名论色彩的佛教传统，它不但与西藏的其他佛教思想形态判然有别，也与佛教世界其他地方的佛教思想判然有别。中观（*madhyamaka*）的否定辩证法，是格鲁派思想传统的核心，也是在西藏通常被视为代表最高见解的哲学。中观这一哲学由龙树（Nāgārjuna）在二世纪系统化，它借助二谛的观念——空性的胜义谛与缘起而有的世俗谛——力图在本质主义与虚无主义两个极端之间标出一条“中道”。格鲁派对中观应成派（*prāsaṅgika*）的独特表述，取材于七世纪哲学家月称（Candrakīrti）对中观的论述；应成派这一传统不建立基础主义式的认识论体系，只就日常交往用法来肯定存在，而这一表述正是格鲁派哲学的标记。
+    step2: |-
+      藏传佛教中的格鲁派（Gelukpa，或作 Geluk）传统，灵感取自宗喀巴（Tsongkhapa，1357–1419）的著作。宗喀巴开创的佛教传统唯名论色彩鲜明，不仅与西藏其他佛教思想判然有别，也与佛教世界其他地方的思潮迥然不同。格鲁派思想传统的核心，是中观（*madhyamaka*）的否定辩证法；在西藏，人们通常也把这一哲学视为最高见解。中观由龙树（Nāgārjuna）在二世纪整理成体系，它提出二谛之说，即空性的胜义谛与缘起而有的世俗谛，力图借此在本质主义与虚无主义两个极端之间标出一条“中道”。七世纪哲学家月称（Candrakīrti）曾系统论述中观；格鲁派承其思路，对中观应成派（*prāsaṅgika*）给出了独特表述。应成派不建立基础主义的认识论体系，只按日常交往中的用法来肯定存在。这一表述正是格鲁派哲学的标记。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Ultimate Truth and the Middle Way
+    step1: |-
+      ## 1. 胜义谛与中观
+    step2: |-
+      ## 1 胜义谛与中观
+  - id: 3
+    kind: body
+    source: |-
+      The Geluk interpretation of the Middle Way offers a unique presentation of the Buddhist doctrine of two truths: the ultimate truth and conventional (or relative) truth. Geluk philosophers are concerned to avoid the reification of the ultimate truth and the deprecation of conventional truth, arguing that conventional existence and ultimate nonexistence are mutually implicative. In this tradition, the two truths are said to be “extensionally identical but intensionally distinct” (*ngo bo gcig la ldog pa tha dad*). That is, the two truths are not different entities, but are conceptually distinct aspects of all entities. Thus Geluk philosophers argue that (1) to exist is to be empty and (2) to exist is to exist conventionally (see Changkya in Cozort 1998, 429)[^cozort-1998].
+    step1: |-
+      格鲁派对中观的解释，为佛教二谛学说——胜义谛与世俗（或相对）谛——提供了一种独特表述。格鲁派哲学家所关心的，是避免把胜义谛实体化，也避免贬低世俗谛；他们主张，世俗的存在与胜义的不存在相互蕴含。在这一传统中，二谛被说成“外延相同而内涵有别”（*ngo bo gcig la ldog pa tha dad*）。也就是说，二谛并非不同的实体，而是同一批实体在概念上可分的两面。因此格鲁派哲学家主张：（1）存在即空；（2）存在即世俗存在（see Changkya in Cozort 1998, 429）[^cozort-1998]。
+    step2: |-
+      格鲁派对中观的理解，为佛教二谛学说提供了一种独特表述。二谛即胜义谛与世俗谛，或称相对谛。格鲁派哲学家力求两头兼顾：既不把胜义谛实体化，也不贬低世俗谛。在他们看来，世俗的存在与胜义的不存在互相蕴含。这一传统称二谛“外延相同而内涵有别”（*ngo bo gcig la ldog pa tha dad*）。可见二谛并不是两种不同的实体，而是同一批实体在概念上可分的两面。由此，格鲁派哲学家主张两点：其一，存在即空；其二，存在即世俗存在（see Changkya in Cozort 1998, 429）[^cozort-1998]。
+  - id: 4
+    kind: body
+    source: |-
+      The ultimate truth is said to be emptiness because things are not found to exist separate from their parts, causes, or designations; this non-finding itself is the meaning of emptiness. Emptiness, too, is not “found” when sought (emptiness is empty, too). To be found (when an ultimate essence is sought) is to be intrinsically or ultimately real, and nothing has this status for the Geluk tradition, not even emptiness. Emptiness is interpreted in the Geluk tradition as a non-implicative negation (*med dgag*). As opposed to a negation that implies something else, a non-implicative negation is simply an absence, such as a lack of true existence. This mere lack or absence, as a negation of essence that does not implicate any other essence, is the meaning of the ultimate truth in the Geluk tradition. Nevertheless, the claim that there is nothing ultimately real—or that the ultimate truth is emptiness—is itself a (conventional) truth (Jinpa 2002, 46–48)[^jinpa-2002]. It is expressed like this: “The ultimate truth is posited as solely the negation of truth [that is, inherent existence] upon a subject that is a basis of negation…” (Tsongkhapa 1979, 396)[^tsongkhapa-1979]. Thus, on this view, nothing exists ultimately. This lack of essence in phenomena, or “emptiness,” does not annul their appearance or conventional reality. Rather, emptiness is held to be the condition for the possibility for any appearance. To be empty means to arise dependently—to lack independent, real existence. Since nothing can be found to be independent, everything is said to be empty. Thus, in the Geluk tradition, emptiness is the nature of all phenomena (or their *lack* of independent nature), and all phenomena are necessarily empty.
+    step1: |-
+      胜义谛之所以被称为空性，是因为事物无法被找到为离其支分、其因或其假名而存在；这一“找不到”本身就是空性的含义。空性在被寻求时也“找不到”（空性也是空的）。所谓“被找到”（在寻求究竟本质之时），是指自性地或究竟地真实，而格鲁派传统认为没有任何东西具有这种地位，连空性也没有。在格鲁派传统中，空性被解释为无遮（*med dgag*）。与蕴含他者的否定不同，无遮只是一种单纯的缺席，例如真实存在的缺乏。这种单纯的缺乏，作为对本质的否定而不蕴含任何其他本质，就是格鲁派传统中胜义谛的含义。然而，“没有任何东西究竟真实”这一主张——或者说“胜义谛即是空性”——本身就是一个（世俗的）真理（Jinpa 2002, 46–48）[^jinpa-2002]。它被表述如下：“胜义谛，唯是于作为所遮基础的有法之上，遮破真实［即自性存在］而安立……”（Tsongkhapa 1979, 396）[^tsongkhapa-1979]。所以，按此观点，没有任何东西究竟存在。现象中这种本质的缺乏，或曰“空性”，并不取消它们的显现或世俗实在。相反，空性被视为任何显现之所以可能的前提条件。空即是缘起——即缺乏独立的、真实的存在。既然找不到任何独立者，一切便都被说为空。因此，在格鲁派传统中，空性是一切现象的本性（或说它们*缺乏*独立的本性），而一切现象必然为空。
+    step2: |-
+      胜义谛之所以叫空性，是因为事物离开自己的支分、因与假名便无从寻得；这种“寻而不得”本身就是空性的含义。空性自己也是寻而不得的（空性亦空）。所谓“寻得”，指在追问究竟本质时找到某种自性成立或究竟真实的东西。格鲁派传统认为，没有任何事物具备这种地位，空性也不例外。空性在格鲁派传统中被解释为无遮（*med dgag*）。有些否定会连带肯定另一物，无遮则不同，它只是单纯的缺席，比如真实存在的阙如。这种纯粹的阙如，作为对本质的否定而不肯定任何其他本质，正是格鲁派眼中胜义谛的含义。话虽如此，“没有任何东西究竟真实”或“胜义谛即空性”这一主张，本身仍是一条（世俗的）真理（Jinpa 2002, 46–48）[^jinpa-2002]。宗喀巴的表述是：“胜义谛，只是就作为所遮基础的有法，遮破真实［即自性存在］而安立……”（Tsongkhapa 1979, 396）[^tsongkhapa-1979]。照此看法，没有任何事物究竟存在。现象没有本质，或者说现象“空”，并不取消它的显现，也不取消它的世俗实在。恰恰相反，空性被视为一切显现之所以可能的前提。空，就是缘起而有，就是没有独立而真实的存在。既然找不到任何独立之物，一切便都说是空。于是在格鲁派传统中，空性是一切现象的本性（更确切地说，是它们*缺乏*独立本性），而一切现象无不是空。
+  - id: 5
+    kind: body
+    source: |-
+      ## 2. Conventional Truth and the Consequence School
+    step1: |-
+      ## 2. 世俗谛与应成派
+    step2: |-
+      ## 2 世俗谛与应成派
+  - id: 6
+    kind: body
+    source: |-
+      Geluk philosophers take the radically anti-foundationalist, antirealist Consequence School (Prāsaṅgika Madhyamaka), grounded in the texts of the Indian Buddhist philosophers Buddhapālita and Candrakīrti, to be the most sophisticated school of Buddhist philosophy. The Consequence School gets its name from the fact that it relies on *reductio* argument to demonstrate emptiness, in contrast to independent formal arguments. According to Tsongkhapa, no independent formal argument can prove the emptiness of phenomena to those not already convinced of that fact because these arguments presuppose a common understanding of the terms used. That is, this kind of formal argument presumes that a subject matter is objective or given and is understood in the same way by all parties to the debate, and he follows Candrakīrti in arguing that this cannot be the case when an antirealist (who understands emptiness) and a realist (who lacks an understanding of emptiness) engage in dialogue (Changkya in Cozort 1998, 451)[^cozort-1998]. This is because a proponent of the Consequence School consents to no such given, objective facts.
+    step1: |-
+      格鲁派哲学家认为，彻底反基础主义、反实在论的应成派（Prāsaṅgika Madhyamaka）以印度佛教哲学家佛护（Buddhapālita）与月称（Candrakīrti）的论典为依据，是佛教哲学中最精微的学派。应成派得名于它依靠*归谬*论证证明空性，而不用独立自成的正式论证。按宗喀巴的说法，对那些尚未信受这一事实的人，任何独立自成的正式论证都无法证明现象的空性，因为这类论证预设了所用术语有共同的理解。也就是说，这类正式论证假定论题客观给定，辩论各方对它的理解相同；宗喀巴追随月称主张，当一位反实在论者（理解空性的人）与一位实在论者（缺乏空性理解的人）对话时，情况不可能如此（Changkya in Cozort 1998, 451）[^cozort-1998]。这是因为应成派的拥护者不承认任何此类给定的、客观的事实。
+    step2: |-
+      应成派（Prāsaṅgika Madhyamaka）以印度佛教哲学家佛护（Buddhapālita）与月称（Candrakīrti）的论典为依据，立场彻底反基础主义、反实在论。格鲁派哲学家视之为佛教哲学中最精微的学派。应成派之名，来自它专靠*归谬*论证证明空性，不用独立自成的正式论证。宗喀巴指出，任何独立自成的正式论证都证明不了现象为空，对尚未信解空性的人尤其如此。原因在于，这类论证预设了双方对所用术语有共同理解。换句话说，它假定论题客观给定，辩论各方对它的理解一模一样。宗喀巴随月称而主张：一旦对话一方是理解空性的反实在论者，另一方是不解空性的实在论者，这种预设便站不住（Changkya in Cozort 1998, 451）[^cozort-1998]。应成派的拥护者根本不承认有这类给定的客观事实。
+  - id: 7
+    kind: body
+    source: |-
+      By invoking consensus as the mark of (conventional) reality, the Geluk school’s coherence theory of truth anticipates some of the insights of the later Wittgenstein (see Thurman 1980)[^thurman-1980]. There are no foundations in the Geluk tradition, neither ultimate nor conventional; there is only transactional usage—“what is renowned in the world.” Thus, unlike some other Middle Way philosophies, like the Autonomy School (*svātantrika*), the distinction between “correct” or “incorrect” relative truth itself depends upon our epistemic conventions and practices, not on a world of independent truthmakers. “What works” is the criterion; that is, what conforms to the ways of the world is a conventional truth in the way that a game works when you subscribe to its rules. Any further notion of a “correct” relative implicates a foundation, an essentialist presumption about the way things are (Changkya 1998, 321; Bötrül 2011, 141). Therefore, the measure of what is correct is simply what conforms to the world rather than based on any other warrant that would serve as a deeper structure or more fundamental layer of reality beyond what is simply conventional (Cozort 1998, 52)[^cozort-1998].
+    step1: |-
+      格鲁派以共识作为（世俗）实在的标志，其真理融贯论预示了后期维特根斯坦的某些洞见（see Thurman 1980）[^thurman-1980]。在格鲁派传统中没有基础，无论胜义的基础还是世俗的基础；有的只是事务性的用法——“世间所共许者”。因此，与自续派（*svātantrika*）等其他一些中观哲学不同，“正确”或“不正确”的相对真理之分，本身取决于我们的认识论惯例与实践，而不取决于一个由独立真值制造者构成的世界。“管用”就是标准；也就是说，凡与世间的方式相合者即是世俗真理，正如你接受一场游戏的规则，游戏便能进行。任何更进一步关于“正确”相对物的观念，都牵连着一个基础，一种关于事物本来面目的本质主义预设（Changkya 1998, 321; Bötrül 2011, 141）。所以，衡量何为正确的尺度，就只是与世间相合，而不是基于任何别的凭据——那种凭据会被当作比单纯世俗之物更深的结构或更根本的实在层次（Cozort 1998, 52）[^cozort-1998]。
+    step2: |-
+      格鲁派拿共识当作（世俗）实在的标志，其真理融贯论与后期维特根斯坦的某些洞见不谋而合（see Thurman 1980）[^thurman-1980]。在格鲁派传统里，胜义也好，世俗也好，都没有基础可言；剩下的只有事务性的用法，即“世间所共许者”。自续派（*svātantrika*）等其他中观哲学另有说法，格鲁派则不然。“正确”的相对真理与“不正确”的相对真理如何区分，在格鲁派看来取决于我们的认识惯例与实践，而不取决于一个由独立真值制造者构成的世界。标准是“管不管用”。凡合乎世间方式者即为世俗真理，就像你认下一场游戏的规则，游戏便玩得下去。若再追问什么才叫“正确”的相对物，那就已经牵连到一个基础，一种关于事物本来面目的本质主义预设（Changkya 1998, 321; Bötrül 2011, 141）。因此，衡量正确与否的尺度只是与世间相合，而不靠别的凭据；那类凭据会被当成比单纯世俗之物更深的结构、更根本的实在层次（Cozort 1998, 52）[^cozort-1998]。
+  - id: 8
+    kind: body
+    source: |-
+      ## 3. Unity of the Two Truths
+    step1: |-
+      ## 3. 二谛的统一
+    step2: |-
+      ## 3 二谛的统一
+  - id: 9
+    kind: body
+    source: |-
+      While all Buddhist traditions in one way or another claim to represent “the middle way” between two extremes, they do so in quite different ways. In general presentations of the Middle Way, emptiness is commonly said to undermine the extreme of existence, while appearance is said to undermine the extreme of nonexistence. Yet in Tsongkhapa’s unique articulation, he says just the opposite. In his *Three Principal Aspects of the Path*, he says: “Appearance eliminates the extreme of existence and emptiness eliminates the extreme of nonexistence.” (Tsongkhapa 2001, 7)[^tsongkhapa-2001] In doing so, he conveys that appearance simply means *conventional* appearances (without intrinsic nature) and that emptiness means simply *the lack of intrinsic existence* (not indiscriminate absence). So, appearance eliminates (reified) existence while emptiness—since it does not mean anything like the total denial of appearance—eliminates the extreme of nonexistence. Thereby, the extreme of nonexistence is eliminated by this kind of emptiness—not by an emptiness taken to be nonexistence, as a mere, unqualified void, or by an emptiness that is simply a lack of conceptual engagement. Rather, the extreme of nonexistence is undermined by emptiness understood as just the lack of intrinsic existence in conventionally existent things (Tsongkhapa 2000, 654–7)[^tsongkhapa-2000].
+    step1: |-
+      一切佛教传统都以某种方式自称代表两个极端之间的“中道”，但各自的方式颇为不同。在中观的一般表述中，通常说空性破除存在的极端，而显现破除不存在的极端。然而在宗喀巴的独特阐述中，他说的恰恰相反。他在《三主要道》中说：“显现排除存在的极端，空性排除不存在的极端。”（Tsongkhapa 2001, 7）[^tsongkhapa-2001] 这样一来，他传达出：显现只是指*世俗的*显现（无自性），而空性只是指*自性存在的缺乏*（并非不加拣择的虚无）。所以，显现排除（被实体化的）存在，而空性——既然它并不意味着全盘否定显现——则排除不存在的极端。由此，不存在的极端是由这种空性排除的，而不是由被当作不存在的空性、由一种单纯的无限定虚空、也不是由仅仅缺乏概念涉入的空性所排除。相反，破除不存在极端的，是把空性理解为世俗存在的事物缺乏自性（Tsongkhapa 2000, 654–7）[^tsongkhapa-2000]。
+    step2: |-
+      佛教各传统都自称代表两个极端之间的“中道”，只是说法各不相同。讲中观时，通行说法是：空性破斥存在的极端，显现破斥不存在的极端。宗喀巴的阐述却恰恰相反。他在《三主要道》中写道：“显现排除存在的极端，空性排除不存在的极端。”（Tsongkhapa 2001, 7）[^tsongkhapa-2001] 这句话的意思是：显现只是指*世俗*显现，即没有自性的显现；空性也只是指*自性存在的缺乏*，并非不分青红皂白地抹去一切。于是，显现排除了（被实体化的）存在；空性则排除了不存在的极端，因为它并不主张全盘否定显现。据此，排除不存在极端的是这样一种空性：它不等于不存在，不是单纯的、无限定的虚空，也不是仅仅停止概念活动。真正破除不存在极端的空性，其含义是：世俗存在的事物缺乏自性（Tsongkhapa 2000, 654–7）[^tsongkhapa-2000]。
+  - id: 10
+    kind: body
+    source: |-
+      To undermine mistaken views of the Middle Way that embed a subtle kind of realism, Tsongkhapa depicts the two truths as not really separate, but as a unity. He does not invert the hierarchy of the ultimate and conventional world, but rather *implodes* it to represent this unity, saying that appearance undermines the realist extreme of existence and that emptiness undermines the nihilist extreme of nonexistence, rather than *vice versa*. That is, because things merely appear—in an illusion-like way without intrinsic nature—these appearances are not nothing. Even while they may appear in a deceptive way that conflicts with the way they are, this does not mean that deceptively appearing phenomena do not exist. Rather, a conventional world of appearances along with ethics remain in a world that is illusion-like. In this way, this view is held simultaneously to overcome essentialism and nihilism regarding the nature of things.
+    step1: |-
+      为了破除那些内含某种微妙实在论的中观错误见解，宗喀巴把二谛描述为并非真正分离，而是一个统一体。他并未颠倒胜义世界与世俗世界的层级，而是把这一层级*内爆*，以表示这种统一：他说显现破除实在论式存在的极端，空性破除虚无主义式不存在的极端，而不是*反过来*。也就是说，因为事物只是显现——以无自性的、如幻的方式显现——这些显现并非虚无。即使它们可能以与其本来面目相违的欺诳方式显现，这也不意味着欺诳显现的现象不存在。相反，一个显现的世俗世界连同伦理，仍留在一个如幻的世界中。这样，这一观点被认为同时克服了关于事物本性的本质主义与虚无主义。
+    step2: |-
+      有些中观见解暗含一种微妙的实在论。为破除这类错误，宗喀巴把二谛说成并非彼此分离，而是一个统一体。他没有颠倒胜义世界与世俗世界的层级，而是让这一层级*内爆*，以此表示统一。在他看来，显现破除实在论式的存在极端，空性破除虚无主义式的不存在极端，次序并非*反过来*。也就是说，事物只是显现，以无自性的、如幻的方式显现，而这些显现并不是虚无。它们或许以欺诳的方式显现，与自身实相相违，但这并不等于说，欺诳显现的现象就不存在。恰恰相反，显现所构成的世俗世界连同伦理，依然留在这个如幻的世界里。按这种看法，此一观点同时克服了关于事物本性的本质主义与虚无主义。
+  - id: 11
+    kind: body
+    source: |-
+      In contrast to the conventional reality that exists, ultimate or intrinsic reality does not exist. What exists necessarily does so conventionally, relationally. To the extent that we can understand and talk about how the world *really* is, it is so only as a *conventional* (relational) world, without intrinsic existence or ultimate reality. In Tsongkhapa’s articulation, when we superimpose an intrinsic, ultimate reality to things, we impute an excess, a false imputation that is a source of confusion and suffering. An important feature of Tsongkhapa’s system is that when the two truths are related to in an asymmetrical way—as a hierarchical division between appearance and reality—one is implicitly committed to a reified conception of the world even while this reification may be explicitly denied. This happens when ultimate reality is understood to be sanctioned off from the conventional world, while the conventional world is treated as a separate plane or level of reality—rendered utterly unaffected by an ultimate analysis of its nature. That is, when the two truths are compartmentalized and held to be rigidly separate, not only does one fall to the extreme of nihilism in denying the conventional world, but one falls to the extreme of realism by reifying the ultimate world.
+    step1: |-
+      与存在的世俗实在相对，胜义的或自性的实在并不存在。凡存在者，必然以世俗的、关系的方式存在。我们能够理解并谈论世界*真正*如何，其限度仅在于：它只是一个*世俗的*（关系的）世界，没有自性存在，也没有胜义实在。在宗喀巴的阐述中，当我们给事物增益一种自性的、胜义的实在时，我们便添附了多余之物，这是一种虚假的增益，是迷惑与痛苦的根源。宗喀巴体系的一个重要特征是：当我们以不对称的方式处理二谛——把它当作显现与实在之间的层级划分——即便可能明确否认实体化，我们已在暗中承诺了一种实体化的世界观念。这种情况发生在：胜义实在被理解为与世俗世界隔离开来，而世俗世界被当作一个分离的实在层面或层级——据说它完全不受对其本性的胜义分析影响。也就是说，当二谛被分格安置并被视为僵硬分离时，人不仅由于否认世俗世界而堕入虚无主义的极端，还由于把胜义世界实体化而堕入实在论的极端。
+    step2: |-
+      世俗实在确实存在，胜义的、自性的实在却不存在。凡存在者，都只能以世俗的、关系的方式存在。我们能理解和谈论世界*真正*如何，但谈到的只是一个*世俗*世界，即关系性的世界：其中没有自性存在，也没有胜义实在。按宗喀巴的阐述，一旦我们给事物增益某种自性的、胜义的实在，就多添了一层东西；这种虚假的增益正是迷惑与痛苦的根源。宗喀巴体系有个重要特征：若以不对称的方式处理二谛，把它当作显现与实在之间的层级划分，那么即便口头上否认实体化，实际上已经默认了一种实体化的世界图景。这种情形见于如下做法：把胜义实在从世俗世界中隔离出去，同时把世俗世界当成另一个独立的实在层面，仿佛对它本性的胜义分析丝毫触动不到它。换言之，一旦把二谛分格安置、当成僵硬分离的两截，人就会两头落空：否认世俗世界，堕入虚无主义的极端；把胜义世界实体化，又堕入实在论的极端。
+  - id: 12
+    kind: body
+    source: |-
+      ## 4. Truth as Conventional
+    step1: |-
+      ## 4. 真理即世俗
+    step2: |-
+      ## 4 真理即世俗
+  - id: 13
+    kind: body
+    source: |-
+      Tsongkhapa identifies three criteria for conventional truth. A conventional truth is what (1) is acknowledged by a conventional epistemic instrument, (2) is not undermined by another conventional epistemic instrument, and (3) is not undermined by an analysis of its ultimate nature (Tsongkhapa 2000, 627)[^tsongkhapa-2000]. The third criterion underscores an important point in Gelukpa philosophy: that an object’s emptiness of intrinsic existence (its ultimate status) does not undermine its status as a conventional truth. Whether or not this is successful, or if this is even possible, is a strongly debated philosophical question. The first two criteria reflect the commitment that what counts as true or real depends upon our epistemic resources, which themselves are mutually supportive, and which both support and are supported by the entities they reveal, as well as the fact that there is a difference between being correct and incorrect regarding conventional truth. Because of this commitment to a robust sense of conventional truth, their rivals in Tibet have charged the Geluk interpretation of the Middle Way with being realist (about the conventional truth) and nihilist (about the ultimate truth), or even an incoherent mixture—full of contradictions—of Dharmakīrti’s foundationalist epistemology with Candrakīrti’s antirealist ontology. The Geluk philosophy continues to be engaged in the debate about the unique role that epistemology plays within the antifoundationalist Consequence School (The Yakherds, 2021).
+    step1: |-
+      宗喀巴为世俗谛列出三条标准。一条世俗真理是：（1）由世俗量所认可；（2）不被另一种世俗量所损害；（3）不被对其胜义本性的分析所损害（Tsongkhapa 2000, 627）[^tsongkhapa-2000]。第三条标准凸显了格鲁派哲学中的一个要点：一个对象自性存在的空（其胜义地位）并不损害它作为世俗真理的地位。这种做法是否成功，甚至是否可能，是一个争论激烈的哲学问题。前两条标准反映出这样一种承诺：何者算作真实或实在，取决于我们的认识资源；这些资源本身相互支持，并且既支持它们所揭示的实体，又受这些实体支持。它们还反映出：在世俗真理上，正确与不正确之间有区别。由于这种对强势世俗谛的承诺，西藏的论敌指责格鲁派对中观的解释既是实在论的（就世俗谛而言），又是虚无主义的（就胜义谛而言），甚至是法称的基础主义认识论与月称的反实在论本体论之间一种不融贯的混合——充满矛盾。格鲁派哲学至今仍在参与这场争论：认识论在反基础主义的应成派中扮演何种独特角色（The Yakherds, 2021）。
+    step2: |-
+      宗喀巴为世俗谛立了三条标准。（1）由世俗量认可；（2）不被其他世俗量损害；（3）不被对其胜义本性的分析损害（Tsongkhapa 2000, 627）[^tsongkhapa-2000]。第三条标准点出格鲁派哲学的要旨：对象在自性上为空，这是它的胜义地位，而这种空并不动摇它作为世俗真理的地位。这套说法能否成立，甚至是否可能，至今仍是争论激烈的哲学问题。前两条标准体现了一项承诺：什么算真、什么算实，取决于我们的认识资源。这些资源彼此支撑，既支撑它们所揭示的实体，也反过来得到这些实体的支撑。它们还表明，世俗真理确有正确与错误之别。格鲁派把世俗谛看得如此坚实，于是西藏的论敌指责它的中观解释：在世俗谛上是实在论，在胜义谛上是虚无主义。在他们看来，这不过是法称的基础主义认识论与月称的反实在论本体论杂凑而成，矛盾百出。认识论在反基础主义的应成派中究竟扮演什么独特角色，这场争论至今仍有格鲁派哲学参与（The Yakherds, 2021）。
+  - id: 14
+    kind: body
+    source: |-
+      Tsongkhapa’s third criterion for conventional truth, that a conventional truth is not undermined (*gnod*) by ultimate analysis, should be understood to mean that a thing’s being empty does not undermine or annul its (conventional) existence. It does *not* mean that the conventional world is insulated from the force of an ultimate analysis or is immune to conventional revision, which the second criterion explicitly confirms. In other words, that something is not undermined by ultimate analysis does not mean that it is immune and unaffected by this analysis. Rather, it means that the object *qua* object does not change in the wake of ultimate analysis, *mere* appearances remain, but are seen as illusion-like—*mere* objects without intrinsic existence. This is because emptiness does not eliminate the world of appearances but enables it; and a correct understanding of the way things are empty (that they are relationally constituted without intrinsic existence) impinges on how they are understood and related to subjectively; otherwise, a correct understanding emptiness would not carry liberative force. Nevertheless, Tsongkhapa’s first criterion of conventional truth sets up consensus as a fundamental feature of the conventional world, which is in tension with a revisionary metaphysics that goes hand-in-hand with the emancipatory power of emptiness. Yet a unified vision of ultimate and conventional truth is precisely what enables his metaphysical basis of ethics, which affirms an ethical dimension built into the constitution of the world, rather than an ethics relegated to a separate domain and treated as merely an instrument, appendage, or afterthought.
+    step1: |-
+      宗喀巴关于世俗谛的第三条标准——一条世俗真理不被胜义分析所损害（*gnod*）——应理解为：某物之空并不损害或取消它的（世俗）存在。这*并不*意味着世俗世界被隔离于胜义分析的力量之外，或对世俗层面的修正具有免疫力；第二条标准已明确肯定了后者。换言之，某物不被胜义分析损害，并不意味着它对这种分析免疫、不受其影响。它的意思是：对象*作为*对象并不因胜义分析而改变，*单纯的*显现依然留存，但被看作如幻——没有自性存在的*单纯*对象。这是因为空性并不消除显现的世界，而是使之成为可能；而对事物如何为空（即它们由关系构成、没有自性存在）的正确理解，会影响它们如何被主观地理解与关联；否则，对空性的正确理解就不会具有解脱的力量。然而，宗喀巴的第一条世俗谛标准把共识确立为世俗世界的一个根本特征，这与一种修正性的形而上学处于张力之中，而后者与空性的解放力量携手而行。不过，正是胜义谛与世俗谛的统一视野，才使他的伦理学形而上学基础成为可能：这一基础肯定一种内建于世界构造之中的伦理维度，而不是把伦理贬置到一个分离的领域，当作单纯的工具、附属品或事后之想。
+    step2: |-
+      第三条标准说的是：世俗真理不被胜义分析损害（*gnod*）。这里的意思是，某物为空，并不损害、也不取消它的（世俗）存在。它*并不*意味着世俗世界被隔离在胜义分析的作用之外，或者说世俗层面不可修正；第二条标准已经明确承认世俗层面可以修正。换句话说，某物不受胜义分析损害，不等于它对这种分析免疫、毫无触动。真正的意思是：对象*作为*对象，并不因胜义分析而改变；*单纯的*显现仍然留存，只是被看作如幻，即没有自性存在的*单纯*对象。原因在于，空性不消灭显现的世界，反而让它成为可能。对事物如何为空获得正确理解，即理解它们由关系构成、没有自性存在，会改变我们主观上如何理解它们、如何与之相处；否则，正确的空性理解便不会有解脱的力量。不过，宗喀巴的第一条标准把共识立为世俗世界的根本特征，这与一种修正性的形而上学存在张力，而后者恰与空性的解放力量相辅相成。尽管如此，正是胜义谛与世俗谛相统一的视野，成就了他伦理学的形而上学基础。这一基础肯定伦理维度本就内建于世界的构造之中，而不是把伦理贬到另一个领域，当作工具、附属品或事后补记。
+  - id: 15
+    kind: body
+    source: |-
+      ## 5. Metaphysical Basis of Ethics
+    step1: |-
+      ## 5. 伦理学的形而上学基础
+    step2: |-
+      ## 5 伦理学的形而上学基础
+  - id: 16
+    kind: body
+    source: |-
+      The equal deconstruction of all grounds is a unique feature of the Consequence School that, which at first blush might seem counter-intuitive, is in fact what enables Tsongkhapa to construct a robust ethic that centers the human world. This is because human beings are not reducible to something more real—neither to mental and material components nor to a single cosmic mind. Persons, as relationally-constituted entities of the conventional world, are not reducible to something more fundamental than what they are—conceptual-constructions of the conventional world—as this is the only “real” world that can be said to exist since nothing exists ultimately. Thus, the world composed of humans, beings, humanity—the conventional, appearing world—remains in the wake of ultimate analysis that undermines intrinsic existence. Yet this world is reconstituted as interdependent under a gaze integrated with wisdom whereby it appears as like an illusion, without intrinsic existence. This pairing of deconstruction and ethics constitutes a metaphysical ground of ethics in the work of Tsongkhapa.
+    step1: |-
+      对一切根据作平等的解构，是应成派的一个独特之处；初看之下这似乎反直觉，实际上正是它使宗喀巴得以建构一种以人类世界为中心的强健伦理。这是因为，人无法被还原为某种更真实的东西——既不能还原为心理与物质成分，也不能还原为一个单一的宇宙心。人作为世俗世界中由关系构成的实体，无法被还原为比其本身更根本的东西——即世俗世界的概念构造——因为既然没有任何东西究竟存在，这就是唯一可以说存在的“真实”世界。因此，由人、众生、人类组成的世界——那个世俗的、显现的世界——在瓦解自性存在的胜义分析之后依然留存。不过，这个世界在与智慧相融合的目光下被重构为相互依存的，从而显得如幻，没有自性存在。解构与伦理的这种配对，在宗喀巴的著作中构成了伦理的形而上学根据。
+    step2: |-
+      应成派有一个独特之处：它对一切根据一视同仁地解构。乍看之下，这似乎有悖直觉；实际上，正是这一点让宗喀巴得以建构一种以人类世界为中心的坚实伦理。理由在于，人不能被还原为某种更真实的东西，无论心理与物质成分，还是一个唯一的宇宙心。人是世俗世界中由关系构成的实体，不能被还原为比自身更根本之物，也就是世俗世界的概念构造。既然没有任何东西究竟存在，这个世俗世界便是唯一可以说存在的“真实”世界。因此，由人、众生、人类组成的世界，那个世俗而显现的世界，在瓦解自性存在的胜义分析之后依然留存。只是在与智慧相融的目光下，它被重构为相互依存的，显得如幻，没有自性存在。解构与伦理这样配对，在宗喀巴的著作中为伦理奠定了形而上学根据。
+  - id: 17
+    kind: body
+    source: |-
+      Tsongkhapa and his Geluk followers insist that nothing exists on its own even conventionally, and that interdependence is universal (Tsongkhapa 1988, 585). Therefore, we cannot ground conventions in any deeper foundation. The fact that there is nothing but groundless conventions—all the way up and all the way down—is another way of seeing why the ultimate and the conventional are not distinct from one another; the two truths are none other than two aspects of the same thing. Geluk philosophers argue that this explains the crucial distinction between the Middle Way (Madhyamaka) and the Mind-Only (Cittamātra or Yogācāra) schools of Buddhist philosophy which, on their reading, assigns the mind a privileged ontological status as the truly existent ground of an illusory external world. Rather than claim that the mind is independently real in contrast to unreal external objects, like a subjective idealist, Geluk theorists argue that a proponent of the Middle Way explicitly affirms the interdependency of minds and objects.
+    step1: |-
+      宗喀巴及其格鲁派追随者坚持：没有任何事物即便在世俗层面也自方存在，而且相互依存是普遍的（Tsongkhapa 1988, 585）。因此，我们无法把惯例安立于任何更深的根据之上。除了无根据的惯例以外别无他物——向上如此，向下亦然——这是看清胜义与世俗为何彼此不分的另一种方式；二谛不外是同一事物的两个方面。格鲁派哲学家主张，这解释了佛教哲学中中观（Madhyamaka）与唯识（Cittamātra 或 Yogācāra）两派之间的关键区别：按他们的解读，唯识派赋予心一种本体论上的特权地位，把它当作虚幻外境的真实存在根据。格鲁派理论家并不像主观唯心论者那样宣称心独立实在、与外境之非实在相对；他们主张，中观的拥护者明确肯定心与境的相互依存。
+    step2: |-
+      宗喀巴与格鲁派追随者坚持两点：没有任何事物即便在世俗层面也自方存在；相互依存无处不在（Tsongkhapa 1988, 585）。既然如此，惯例便无法安立在更深的根据之上。世上除了无根据的惯例别无他物，往上如此，往下也如此；换个角度看，这正是胜义与世俗何以彼此不分的原因。二谛不过是同一事物的两面。格鲁派哲学家认为，这正好说明了佛教哲学里中观（Madhyamaka）与唯识（Cittamātra，或瑜伽行派 Yogācāra）两派的关键分歧。按他们的解读，唯识派给心安排了本体论上的特权地位，把心当作虚幻外境的真实存在根据。主观唯心论者主张心独立实在、外境虚妄；格鲁派理论家不然。他们主张，中观的拥护者明确肯定心与境的相互依存。
+  - id: 18
+    kind: body
+    source: |-
+      Künzang Sönam (1823–1905) explains Tsongkhapa’s position as the thesis that minds and external objects are equally conventionally existent and equally ultimately nonexistent, and so of exactly the same ontological and epistemological status. He goes on to show how external objects are accepted conventionally in the Consequence School because the coextensive presence and absence of objects and cognitions undermines the claim that even conventionally there are no external objects. That is, when there are external objects, there are internal cognitions, and when there are internal cognitions, there are external objects; cognitions and objects are paired and thus rise and fall together. He reiterates this point by saying that not only does no conventional analysis negate external objects, but that conventional analysis undermines the absence of externality (Künzang 2007, 706–707). One might think that since Geluk philosophers take the existence of the external world to be affirmed in the Consequence School, that they are committed to external realism, and indeed some of their critics have accused them of this (The Yakherds 2021)[^yakherds-2021]. But the affirmation of the existence of the external world is simply an affirmation of its conventional reality, and of its knowability using conventional epistemic instruments. So, while Geluk philosophers are not idealists, they are certainly not external realists, either.
+    step1: |-
+      Künzang Sönam（1823–1905）把宗喀巴的立场解释为这样一个论题：心与外境同样世俗地存在，也同样胜义地不存在，因而在本体论与认识论上地位完全相同。他进而说明，应成派为何在世俗层面接受外境：因为对象与认知同延地共存共缺，这瓦解了“即便在世俗层面也没有外境”的主张。也就是说，有外境时就有内识，有内识时就有外境；认知与对象成对，因而同起同灭。他重申这一点说：不仅没有任何世俗分析否定外境，而且世俗分析恰恰瓦解了“无外境”之说（Künzang 2007, 706–707）。有人也许认为，既然格鲁派哲学家主张应成派肯定外部世界的存在，他们便承诺了外在实在论；的确，他们的一些批评者正是这样指责的（The Yakherds 2021）[^yakherds-2021]。但是，肯定外部世界的存在，不过是肯定它的世俗实在，肯定它可以借世俗量而被认知。所以，格鲁派哲学家不是唯心论者，但也绝非外在实在论者。
+    step2: |-
+      Künzang Sönam（1823–1905）把宗喀巴的立场概括为一个论题：心与外境同样世俗地存在，也同样胜义地不存在，两者的本体论与认识论地位完全一样。他接着说明，应成派为何在世俗层面接受外境。理由是对象与认知同其范围地共存共缺，这就推翻了“即便世俗层面也没有外境”的主张。也就是说，有外境便有内识，有内识便有外境；认知与对象成对，同起同灭。他重申：没有任何世俗分析否定外境，相反，世俗分析所瓦解的正是“无外境”之说（Künzang 2007, 706–707）。有人或许会想：格鲁派哲学家既然说应成派肯定外部世界存在，那就是承诺了外在实在论。他们的一些批评者确实这样指责过（The Yakherds 2021）[^yakherds-2021]。然而，肯定外部世界存在，不过是肯定它的世俗实在，肯定它能借世俗量被认知。可见格鲁派哲学家不是唯心论者，却也绝不是外在实在论者。
+  - id: 19
+    kind: body
+    source: |-
+      Tsongkhapa outlined three types of “intrinsic characteristic” (*rang mtshan*) that convey important features of the different metaphysical systems of the Abhidharma, Dharmakīrtian epistemology, and the Consequence School, respectively. Through this threefold distinction he sets up his presentation of what uniquely defines the ultimate truth, and by implication, the conventional truth, in the Consequence School, while incorporating a range of metaphysical systems into his comprehensive interpretative scheme. Firstly, Tsongkhapa says that an “intrinsic characteristic” is distinguished from a “general characteristic” in the Abhidharma context of metaphysics, where an intrinsic characteristic distinguishes a particular trope from a general type. That is to say, an intrinsic characteristic marks a contrast that delineates, for instance, the heat of fire (intrinsic characteristic) from its being a member of the larger class of material form (general characteristic). Tsongkhapa conveys another meaning of “intrinsic characteristic” found in Dharmakīrtian epistemology that distinguishes the “intrinsic characteristic” that is the unique particular from that which is a universal. In contrast to the second meaning of “intrinsic characteristic”—which marks a contrast of a more real kind of entity (a particular) from another, less substantially real counterpart (a universal)—the third meaning of “intrinsic characteristic” represents a subtle kind of reification that is a problem. This third type of intrinsic characteristic is presupposed by distorted cognitions that impute things to have independent existence. This kind of intrinsic characteristic, as the imputation of things existing on their own, even conventionally, is what Tsongkhapa describes as the subtle reification that is uniquely eliminated in the philosophical system of the Consequence School (Tsongkhapa 2008, 425–426)[^tsongkhapa-2008].
+    step1: |-
+      宗喀巴勾画出三种“自相”（*rang mtshan*），它们分别传达阿毗达磨、法称认识论与应成派不同形而上学体系的重要特征。通过这三重区分，他建立起自己对何者独特性地界定应成派胜义谛（并由此界定世俗谛）的表述，同时把一系列形而上学体系纳入其综合性的解释框架。第一，宗喀巴说，在阿毗达磨的形而上学语境中，“自相”与“共相”相对：自相把某一个别（trope）与一个一般类型区别开来。也就是说，自相标示一种对比，例如把火的热性（自相）与火之属于色法这一更大类别（共相）区别开来。宗喀巴还传达了法称认识论中“自相”的另一种含义，即把作为独特个别的“自相”与作为共相者区别开来。与“自相”的第二种含义——它标示较真实的一类实体（个别）与实体性较弱的对应物（共相）之间的对比——不同，“自相”的第三种含义代表一种成问题的微妙实体化。这第三类自相，是那些把事物增益为独立存在的颠倒认知所预设的。这种自相，即把事物增益为自方存在（即便在世俗层面）的做法，就是宗喀巴所说的微妙实体化；唯有在应成派的哲学体系中，它才被独特地消除（Tsongkhapa 2008, 425–426）[^tsongkhapa-2008]。
+    step2: |-
+      宗喀巴分疏出三种“自相”（*rang mtshan*），分别对应阿毗达磨、法称认识论与应成派三套形而上学体系的重要特征。借这三重区分，他一方面说明应成派究竟以什么独特地界定胜义谛，并由此界定世俗谛；另一方面又把一系列形而上学体系纳入自己的综合解释框架。第一种用法见于阿毗达磨的形而上学：在那里，自相与共相相对，自相把某一个别（trope）与一般类型区别开来。比如，火的热性属于自相，火归入色法这一大类则属共相，自相标示的正是这种对比。第二种用法见于法称认识论：自相指独特的个别，与共相相对。第二种含义标示一种对比：较真实的实体是个别，实体性较弱的对应物是共相。第三种含义则不同，它代表一种成问题的微妙实体化。第三类自相，正是那些把事物增益为独立存在的颠倒认知所预设的东西。把事物增益为自方存在，即便只在世俗层面，也是这种自相的做法；宗喀巴称之为微妙实体化。在他看来，唯有应成派的哲学体系才独特地消除了它（Tsongkhapa 2008, 425–426）[^tsongkhapa-2008]。
+  - id: 20
+    kind: body
+    source: |-
+      Geluk philosophers emphasize the interdependence—the relational nature of things (the internal and external, and the ultimate and conventional). Indeed, the argument for universal emptiness from the premise of interdependence is often called “the king of arguments.” Künzang Sönam says that it is “the king” because it can simultaneously induce certainty in emptiness and appearance from the side of emptiness; there are no other Middle Way arguments that do this. That is, demonstrating that the objects we encounter are (mere) appearance eliminates the reification of (intrinsic) existence, while showing that emptiness is the emptiness of intrinsic existence—as opposed to empirical existence—eliminates the misconception that things are utterly nonexistent. The fact that the interdependent world exists (dependently, without intrinsic existence) reveals how the conventional and ultimate truths are paired in this philosophy. There is no hierarchy of a transcendent, ultimate world contrasted with the immanent world of conventions that lacks any value. Rather, the ontological unity of the two truths in the Consequence School erases this dichotomy, and arguably erases the dichotomy of the domains of ontology and ethics, too. That is, the system of this antirealist “ground” of emptiness and interdependence arguably supports an ethical system in a more seamless way than an instrumental notion of ethics can, with its associated notion of a means or “path” that results in a qualitatively different, transcendent goal. Indeed, the Geluk (lit. “way of virtue”) appeals to this ethical feature in its name.
+    step1: |-
+      格鲁派哲学家强调相互依存——事物的关系性（内与外，胜义与世俗）。确实，从相互依存这一前提出发论证普遍的空性，常被称为“论证之王”。Künzang Sönam 说它之所以是“王”，是因为它能同时引生对空性的确定与从空性一侧对显现的确定；中观的其他论证都做不到这一点。也就是说，证明我们所遇的对象只是（单纯的）显现，便消除了对（自性）存在的实体化；而表明空性是自性存在的空——而非经验存在的空——则消除了“事物全无”的误解。相互依存的世界存在（依他而有，无自性），这一事实揭示了此一哲学中世俗谛与胜义谛如何配对。这里没有一种层级：一边是超越的胜义世界，另一边是毫无价值的、内在的惯例世界。相反，应成派中二谛的本体论统一抹去了这一二分，而且可以说也抹去了本体论领域与伦理领域之间的二分。也就是说，这一以空性与相互依存为反实在论“根据”的体系，可以说比工具式的伦理观更无缝隙地支持一套伦理体系；后者把伦理当作手段或“道”，最终导向一种性质不同的、超越的目标。格鲁派（字面义为“善行之道”）之名，正取义于这一伦理特征。
+    step2: |-
+      格鲁派哲学家看重相互依存，也就是事物的关系性：内与外、胜义与世俗，莫不如此。由相互依存推出普遍空性的论证，常被称为“论证之王”。Künzang Sönam 说它是“王”，因为它能一举确立两件事：空性，以及从空性一侧看的显现。中观的其他论证都做不到这一点。具体说来，证明我们所遇对象只是（单纯的）显现，便消除了对（自性）存在的实体化；表明空性空掉的是自性，不是经验存在，便除掉了“事物全无”的误解。相互依存的世界确实存在，它以依存的方式存在，没有自性；这一事实揭示了此说中世俗谛与胜义谛如何配对。这里没有层级之分：并不存在一个超越的胜义世界，高踞于毫无价值的内在惯例世界之上。应成派中二谛在本体论上的统一，抹去了这一二分，可以说也抹去了本体论与伦理学两个领域之间的二分。这套反实在论的“根据”，即空性与相互依存，据说比工具式的伦理观更能无缝隙地支撑一套伦理体系。工具式伦理观把伦理当作手段或“道”，最终导向性质迥异的超越目标。格鲁派（字面义为“善行之道”）的名字，正是取义于这一伦理特征。
+  - id: 21
+    kind: body
+    source: |-
+      ## 6. Unique Assertions of the Consequence School
+    step1: |-
+      ## 6. 应成派的独特主张
+    step2: |-
+      ## 6 应成派的独特主张
+  - id: 22
+    kind: body
+    source: |-
+      Tsongkhapa contends that the superiority of the Consequence School to all other Buddhist philosophical schools is reflected in a series of theses unique to this school, each of which reflects a deeper understanding of the nature of reality and cognition. We now turn to several of these. The Consequence School squarely rejects idealism: neither objects nor minds have a privileged status in this tradition, and so there is no privileged level of consciousness, and no self-validating awareness. While the Mind-Only school asserts that all thought and all appearances are grounded in a “foundational consciousness” (*kun gzhi rnam shes*) and that each moment of consciousness is reflexively aware (*rang rig*), the Consequence School rejects these claims. The foundational consciousness, he argues—posited as a ground for sensory consciousness—represents a mistaken attempt by other Buddhists to understand personal identity, one that ends up reifying the self. Tsongkhapa dispenses with this notion of a substrate consciousness and sees it as simply another reification.
+    step1: |-
+      宗喀巴主张，应成派之优于其他一切佛教哲学流派，体现在该派独有的一系列论题上，每一论题都反映出对实在与认知本性的更深理解。我们下面转向其中若干论题。应成派断然拒绝唯心论：在此传统中，对象与心都不具特权地位，因此没有特权层次的意识，也没有自我验证的觉知。唯识派主张，一切思想与一切显现都以“基识”（*kun gzhi rnam shes*）为根据，而每一刹那的意识都自证自知（*rang rig*）；应成派则拒绝这些主张。宗喀巴论证说，基识——被安立为感官意识的根据——代表其他佛教徒理解人格同一性的一种错误尝试，最终把自我实体化。宗喀巴舍弃这种基底意识的概念，视之为又一种实体化。
+    step2: |-
+      在宗喀巴看来，应成派胜过其他一切佛教哲学流派，这一点体现在该派独有的一系列论题上。每一论题都显示出对实在与认知本性的更深理解。下面择要而论。应成派断然拒绝唯心论。在此传统中，对象与心地位平等，没有哪个层次的意识享有特权，也没有自我验证的觉知。唯识派主张，一切思想与一切显现都以“基识”（*kun gzhi rnam shes*）为根据，每一刹那的意识都自证自知（*rang rig*）；应成派不接受这些说法。宗喀巴指出，基识被安立为感官意识的根据，其实是其他佛教徒理解人格同一性时的一次误尝试，结果把自我实体化了。他干脆舍弃这种基底意识的概念，视之为又一种实体化。
+  - id: 23
+    kind: body
+    source: |-
+      The Mind-Only school is committed to the reality of a special kind of reflexive awareness (*rang rig*), by means of which the mind knows itself, a way that is different from the way a mind knows any other object. Geluk scholars deny that there is any such distinctive mode of reflexive awareness; the mind is simply a dependently arisen phenomenon, just like any other, and is known in just the way that other phenomena are known. Moreover, nothing appears the way it really is to an ordinary being (Jamyang Zhepa in Hopkins 2003, 930)[^hopkins-2003]. For this reason, this philosophy does not partake in ordinary phenomenology. Instead, it is primarily concerned with critical ontology, or what we could call a form of “ontological deflationism,” in that it aims to undermine the foundations of the entire ontological project (MacKenzie 2008, 197)[^mackenzie-2008]. Philosophers in the Geluk tradition also point out that the posit of reflexive awareness attributes to the mind a special status as an independently existent, self-knowing entity. Yet a unique, first-personal access to self-awareness, being simply given in experience, presumes immediate access to truth. Tsongkhapa and his followers take this as a further reason to reject this view, since according to those in the Geluk tradition, conventional truths are interdependent, and knowledge is always mediated and contingent. Moreover, they argue, reflexive awareness offers no explanatory power in the realms of either the conventional or ultimate truth. Indeed, Tsongkhapa argues that in the Consequence School, neither this kind of foundational consciousness nor reflexive awareness are taken to exist even conventionally—they are simply philosophical errors.
+    step1: |-
+      唯识派承诺有一种特殊的自证（*rang rig*）为实在，心借它以某种方式认识自身，这种方式不同于心认识其他任何对象的方式。格鲁派学者否认存在任何此类独特的自证方式；心只是依缘而生的现象，与其他现象无异，其被认识的方式也与其他现象被认识的方式相同。而且，对凡夫而言，没有任何事物如其本来面目那样显现（Jamyang Zhepa in Hopkins 2003, 930）[^hopkins-2003]。由于这个缘故，这一哲学不参与通常的现象学。相反，它主要关注批判性的本体论，或可称为一种“本体论紧缩主义”，因为它旨在瓦解整个本体论事业的基础（MacKenzie 2008, 197）[^mackenzie-2008]。格鲁派传统的哲学家还指出，自证的设定赋予心一种特殊地位，使它成为独立存在、自知自明的实体。然而，对自我意识的一种独特的第一人称通达，既然只是在经验中被给予，就预设了对真理的直接通达。宗喀巴及其追随者以此为拒绝此说的又一个理由：按格鲁派的看法，世俗真理相互依存，知识总是经由中介而且是偶然的。他们还论证说，自证在世俗谛与胜义谛两个领域中都不提供任何解释力。确实，宗喀巴论证说，在应成派中，这种基识与自证即便在世俗层面也不被认为存在——它们只是哲学错误。
+    step2: |-
+      唯识派承认有一种特殊的自证（*rang rig*）确实存在。心借它认识自身，方式不同于心认识其他对象的方式。格鲁派学者否认有这种独特的自证方式。他们认为，心只是依缘而生的现象，与其他现象并无二致，被认识的方式也一样。此外，在凡夫看来，没有任何事物如其本来面目那样显现（Jamyang Zhepa in Hopkins 2003, 930）[^hopkins-2003]。正因如此，这套哲学不涉足通常意义上的现象学。它主要关心批判性的本体论，或者可以叫作一种“本体论紧缩主义”，意在挖掉整个本体论事业的地基（MacKenzie 2008, 197）[^mackenzie-2008]。格鲁派哲学家还指出，设定自证，等于赋予心一种特殊地位，把它当成独立存在、自知自明的实体。可是，对自我意识的这种独特的第一人称通达，既然只是在经验中现成给予，就已预设了对真理的直接通达。宗喀巴及其追随者据此再次拒斥此说。按格鲁派的看法，世俗真理相互依存，知识总经过中介，而且带有偶然性。他们还说，无论世俗谛还是胜义谛，自证都提供不出任何解释力。宗喀巴更断言，在应成派中，基识与自证连世俗层面都不算存在，它们纯属哲学错误。
+  - id: 24
+    kind: body
+    source: |-
+      Tsongkhapa argues that another distinctive feature of the Consequence school is its recognition of the existence of “disintegration as an entity” (*zhig pa’i dngos po*) to account for causality (Hopkins 2003, 934–35)[^hopkins-2003]. The impetus for the theory that disintegration is a distinct entity is to provide an account for causality in the absence of substance. Tsongkhapa argues that an entity’s disintegration—which many other Buddhist philosophical systems take to be a non-entity—is just as real as any positive entity, and so itself is as causally efficacious as any other entity or event. While attributing causal power to disintegration is an attempt to preserve a non-substantialist theory of causality, this theory invites other problems, such as the reification of absence (i.e., treating emptiness as a “thing”), which has been a frequent target for critics of the Geluk tradition.
+    step1: |-
+      宗喀巴论证说，应成派的另一个独特之处是：它承认“坏灭作为实体”（*zhig pa’i dngos po*）的存在，以此说明因果（Hopkins 2003, 934–35）[^hopkins-2003]。主张坏灭是一个独立实体的动因，是要在无实体的情况下说明因果。宗喀巴论证说，实体的坏灭——许多其他佛教哲学体系视为非实体——与任何肯定性的实体同样真实，因而其本身也与任何其他实体或事件一样具有因果效力。尽管赋予坏灭以因果力是为保住一种非实体主义的因果理论，这一理论却招来别的问题，例如把无实体化（即把空性当作一个“东西”），而这正是格鲁派批评者屡屡攻击的靶子。
+    step2: |-
+      应成派还有一处独特：它承认“坏灭作为实体”（*zhig pa’i dngos po*）的存在，以之说明因果（Hopkins 2003, 934–35）[^hopkins-2003]。宗喀巴就是这样论证的。提出“坏灭是独立实体”一说，用意是在没有实体的前提下说明因果。许多其他佛教哲学体系把实体的坏灭看作非实体，宗喀巴却主张，坏灭与任何肯定性的实体同样真实，本身也和别的实体或事件一样具有因果效力。赋予坏灭以因果力，本是想保住非实体主义的因果理论，却招来别的麻烦。例如把“无”实体化，也就是把空性当成一个“东西”，这恰恰是格鲁派批评者屡屡攻击的靶子。
+  - id: 25
+    kind: body
+    source: |-
+      The Geluk tradition also sees the Consequence School as offering an unapologetic affirmation of conventional reality, including the reality of the person. The Geluk tradition holds that transformation and liberation do not require us to deny the reality of the world, but rather to cease the superimposition of essences onto the entities we encounter and onto ourselves as subjects. This is another way of saying that emptiness—the absence of essence—is a negation not of existence *per se*, but rather of *intrinsic* existence, or *essence*. That is, this analysis in terms of emptiness in a significant way leaves conventional phenomena intact, and merely refutes the claim that they exist ultimately. Significantly, the denial of self, too, does not mean the denial of the “mere I” (*bdag tsam*), or the conventionally existent person (Jinpa 2002, 71)[^jinpa-2002]. The mere I or the conventional person is also accepted as conventional existent in the Geluk tradition. Only its reification or true existence is denied.
+    step1: |-
+      格鲁派传统还认为，应成派对世俗实在——包括人的实在——作出了无所歉意的肯定。格鲁派传统主张，转化与解脱并不要求我们否认世界的实在，而是要求我们停止把本质增益到所遇的实体上，也停止增益到作为主体的我们自身之上。这换一种说法就是：空性——本质的缺席——所否定的不是存在*本身*，而是*自性的*存在，或曰*本质*。也就是说，这种以空性为核心的分析在很大程度上保全了世俗现象，仅仅驳斥了它们究竟存在的说法。同样重要的是，否定自我也不意味着否定“仅仅的我”（*bdag tsam*），即世俗存在的人（Jinpa 2002, 71）[^jinpa-2002]。“仅仅的我”或世俗的人，在格鲁派传统中也被承认为世俗存在者。被否定的只是它的实体化或真实存在。
+    step2: |-
+      格鲁派传统还认为，应成派理直气壮地肯定了世俗实在，包括人的实在。在他们看来，转化与解脱无需否认世界的实在，需要停止的只是把本质增益到所遇实体上，也增益到作为主体的自身之上。换个说法：空性是本质的缺席，它否定的不是存在*本身*，而是*自性的*存在，亦即*本质*。这一以空性为线索的分析，在很大程度上保全了世俗现象，只驳斥“它们究竟存在”的主张。同样值得注意的是，否定自我并不等于否定“仅仅的我”（*bdag tsam*），也就是世俗存在的人（Jinpa 2002, 71）[^jinpa-2002]。在格鲁派传统中，“仅仅的我”或世俗的人同样算作世俗存在者。它被否定的只是实体化，或者说真实存在。
+  - id: 26
+    kind: body
+    source: |-
+      ## 7. Buddhist Context of Geluk Philosophy
+    step1: |-
+      ## 7. 格鲁派哲学的佛教语境
+    step2: |-
+      ## 7 格鲁派哲学的佛教语境
+  - id: 27
+    kind: body
+    source: |-
+      It is important to recognize how Geluk philosophy is embedded within a distinctively Buddhist soteriology. That is, the truth of no-self is liberating because understanding this is held to free one from the mistaken idea of a self that binds one to suffering. Knowledge of emptiness is key to this emancipatory process, as Tsongkhapa claims, for one must realize emptiness as it is articulated in the Consequence School, the lack of true essence, to be free from the subtle sense of self and achieve nirvāṇa (Cozort 1998, 316)[^cozort-1998]. This view is also maintained to be a prerequisite for the esoteric practices of tantra. Tantra is an important part of the path to liberation in the Geluk tradition. It is a path to liberation that is held to involve distinct, esoteric methods, but without diverging from the philosophical view of emptiness, which is indispensable. For this reason, Geluk philosophy is located squarely within the immanent world and the exoteric domain of discourse: the intersubjective spaces of dialogue and debate.
+    step1: |-
+      重要的是要认识到，格鲁派哲学如何嵌入一种独特的佛教救度论。也就是说，无我的真理具有解脱力，因为据说理解这一点能使人摆脱一种束缚人于苦难的、错误的自我的观念。如宗喀巴所主张，空性的知识是这一解放过程的关键：人必须如应成派所阐述的那样证悟空性，即真实本质的缺乏，才能摆脱微细的自我感并成就涅槃（Cozort 1998, 316）[^cozort-1998]。这一见解也被视为密续（tantra）秘密修法的前提。在格鲁派的解脱道上，密续是重要的一环。这条解脱之道被认为包含独特的秘密方法，但不得偏离空性的哲学见解，后者不可或缺。由于这个缘故，格鲁派哲学稳稳地坐落于内在世界与显教的言说领域之中：即对话与辩论的主体间空间。
+    step2: |-
+      有一点值得注意：格鲁派哲学深深嵌入一种特有的佛教救度论。无我的真理之所以能带来解脱，是因为据说懂得无我，人便可摆脱那个把自己束缚于苦难的错误自我观念。空性的知识是这一解放过程的关键。宗喀巴主张，人必须按应成派的阐述证悟空性，即证悟真实本质的缺乏，才能摆脱微细的自我感而成就涅槃（Cozort 1998, 316）[^cozort-1998]。这一见解还被当作密续（tantra）秘法修持的前提。在格鲁派的解脱道上，密续占重要一席。这条道包含独特的秘密方法，但不得偏离空性的哲学见解，因为后者不可或缺。也正因为如此，格鲁派哲学稳稳立足于内在世界与显教的言说领域，即对话与辩论的主体间空间。
+  - id: 28
+    kind: body
+    source: |-
+      Therefore, rather than overcoming mistaken concepts by circumventing them in a mystical flash of insight or an ecstatic experience of union, the Geluk tradition offers a more sober way to overcome misconceptions, one based on clear, rational analysis and a direct appeal to this world. That is, this tradition holds reasoned analysis to be necessary to understand the nature of phenomena (or rather, their *lack* of nature). This is because an ascertainment of the lack of true existence is held to be necessary to counteract the directly opposed notion—the apprehension of true existence—which is the misinterpretation of reality (as more than simply conventionally existing) that binds one to suffering. To do this, it is not sufficient to simply “let be,” stare into space, or ignore the cause of misinterpretation in some tranquil “nonconceptual” meditation; rather, one must have insight induced by reason that counteracts the habit of holding onto true existence (Tsongkhapa 2000, 788)[^tsongkhapa-2000].
+    step1: |-
+      因此，格鲁派传统并不靠神秘顿悟的一闪或狂喜合一的体验来绕过错误概念，而是提供一条更清醒的克服误解之路：基于清晰的理性分析，并直接诉诸此世。也就是说，这一传统认为，要理解现象的本性（更确切地说，是它们*缺乏*本性），推理分析必不可少。这是因为，要对抗与之直接相反的念头——执取真实存在——就必须确定真实存在的缺乏；这一执取是对实在的误解（把实在误解为多于单纯世俗存在），正是它把人束缚于苦难。要做到这一点，仅仅“随它去”、呆望虚空，或在某种宁静的“无概念”禅修中无视误解的成因，是不够的；人必须获得由推理引生的洞见，以对抗执持真实存在的习惯（Tsongkhapa 2000, 788）[^tsongkhapa-2000]。
+    step2: |-
+      所以，格鲁派不靠神秘顿悟的一闪，也不靠狂喜合一的体验来绕过错误概念。它提供的路更为清醒：凭借清晰的理性分析，直接诉诸此世。这一传统认为，要理解现象的本性（更确切地说，是它们*缺乏*本性），推理分析必不可少。道理在于：要对抗与空性直接相反的念头，即执取真实存在，就必须先确定真实存在并不存在。这种执取正是对实在的误解，把实在看成多于单纯的世俗存在，而它把人束缚在苦难之中。要做到这一点，光“随它去”、呆望虚空，或在某种宁静的“无概念”禅修里无视误解的成因，都不够。人必须获得由推理引生的洞见，以此对抗执持真实存在的习惯（Tsongkhapa 2000, 788）[^tsongkhapa-2000]。
+  - id: 29
+    kind: body
+    source: |-
+      Thus, in Geluk philosophy, we can say that insight into reality is not held to be beyond thought, or attributed to some third category beyond the world that is neither existent nor nonexistent, but is simply insight into a world that is neither (ultimately) existent nor (conventionally) nonexistent. Even though Geluk scholars consent to the fact that emptiness can be perceived nonconceptually—in the rarified case of a highly developed meditation—they maintain that the emptiness that is known nonconceptually is no different from the emptiness that is conceptually known. The sharp distinction between the conceptual and perceptual arguably falls away when there is nothing beyond conceptual designation. It is not a surprise then that it is the *conceptual* ascertainment of emptiness that is a principal element of the Geluk school’s philosophy. Moreover, their emphasis on the practice of insight is not based on an appeal to a direct, unmediated access to what is beyond concepts, but to reason. Reason is also given priority over scriptural authority, which is subjected to the scrutiny of analysis and is adjudicated by reason (Tsongkhapa in Hopkins 1999, 71)[^hopkins-1999].
+    step1: |-
+      因此，在格鲁派哲学中可以说，对实在的洞见并不被认为超出思想，也不被归给世界之外某种既非存在也非不存在的第三范畴；它只是对一个既非（胜义）存在也非（世俗）不存在的世界的洞见。尽管格鲁派学者承认，空性可以在高度发展的禅修这一稀有条件中被非概念地感知，他们仍坚持：被非概念地认知的空性，与被概念地认知的空性并无不同。当概念施设之外别无他物时，概念与感知之间的鲜明区分可以说就消解了。因此，格鲁派哲学的一个主要要素是对空性的*概念*确定，这并不奇怪。此外，他们对观修实践的强调，并非诉诸对超概念之物的直接的、无中介的通达，而是诉诸推理。推理也被置于经教权威之上，经教要经受分析的审视，由推理来裁定（Tsongkhapa in Hopkins 1999, 71）[^hopkins-1999]。
+    step2: |-
+      因此在格鲁派哲学中，对实在的洞见并不超出思想，也不被归给世界之外某个既非存在又非不存在的第三范畴。它就是对这样一个世界的洞见：这个世界既非（胜义）存在，也非（世俗）不存在。格鲁派学者也承认，在禅修高度纯熟的稀有情形下，空性可以被非概念地感知。但他们坚持，非概念地认知的空性，与概念地认知的空性并无二致。既然概念施设之外别无他物，概念与感知之间那道鲜明界线也就随之消解。难怪在格鲁派哲学中，对空性的*概念*确定会成为主要环节。此外，他们看重观修，诉诸的不是对超概念之物的直接无中介通达，而是推理。推理还优先于经教权威：经教须经分析审视，由推理来裁定（Tsongkhapa in Hopkins 1999, 71）[^hopkins-1999]。
+  - id: 30
+    kind: body
+    source: |-
+      ## 8. Geluk Education
+    step1: |-
+      ## 8. 格鲁派的教育
+    step2: |-
+      ## 8 格鲁派的教育
+  - id: 31
+    kind: body
+    source: |-
+      Following Tsongkhapa’s lead, the Geluk tradition came to establish large monastic institutions that set the standard for scholastic education in Tibet. The curriculum at Geluk monastic institutions involves five primary topics: metaphysics (*abhidharma*), epistemology (*pramāṇa*), negative dialectics (*madhyamaka*), path structure (*Abhisamayālaṃkāra*), and ethics (*vinaya*). Buddhist metaphysics instills the contours of a Buddhist view, including causality, impermanence, and an event-metaphysics that ties these two together. The path structure also plays a central role in traditional Buddhist philosophy: it provides the philosophy with a *telos*, a narrative arc toward liberation and complete enlightenment. Ethics, too, is integral to this path and to Buddhist philosophy in general, yet some of the most distinctive and interesting features of Geluk philosophy are found in its epistemology, and in particular, negative dialectics.
+    step1: |-
+      追随宗喀巴的指引，格鲁派传统建立起大型的寺院机构，为西藏的经院教育树立了标准。格鲁派寺院的课程包含五个主要科目：形而上学（*abhidharma*）、认识论（*pramāṇa*）、否定辩证法（*madhyamaka*）、道之结构（*Abhisamayālaṃkāra*）与戒律（*vinaya*）。佛教的形而上学灌输一种佛教见解的轮廓，包括因果、无常，以及把二者联结起来的事件形而上学。道之结构在传统佛教哲学中也扮演中心角色：它为哲学提供了一个*telos*（目的），一条通向解脱与圆满觉悟的叙事弧线。伦理同样是这条道以及整个佛教哲学的组成部分，不过格鲁派哲学中最独特、最有趣的若干特征，见于其认识论，尤其是否定辩证法。
+    step2: |-
+      格鲁派追随宗喀巴，建起一批大型寺院，为西藏的经院教育立下标准。寺院课程有五门主科：形而上学（*abhidharma*）、认识论（*pramāṇa*）、否定辩证法（*madhyamaka*）、道之结构（*Abhisamayālaṃkāra*）、戒律（*vinaya*）。佛教形而上学勾出一种佛教见解的轮廓，涉及因果、无常，以及把二者联结起来的事件形而上学。道之结构在传统佛教哲学中也居中心地位：它给哲学一个*telos*（目的），一条通向解脱与圆满觉悟的叙事弧线。伦理同样内在于这条道，也内在于整个佛教哲学。不过，格鲁派哲学最独特、最有趣的若干特征，却见于它的认识论，尤其是否定辩证法。
+  - id: 32
+    kind: body
+    source: |-
+      Geluk monks who train in philosophy study epistemology early in their careers, and debate is a primary means by which this tradition is internalized and enacted. Buddhist epistemology, as codified in Dharmakīrti’s *Commentary on Epistemology* (*Pramāṇavārttika*), lays out a systematic presentation of the means of knowledge and the rules for valid inference. Dharmakīrti’s epistemology can be said to be antirealist or conceptualist, in that he denies that language directly relates to the contents of perception, which are ineffable particulars. Yet to account for the relationship between real particulars and unreal universals, the Geluk tradition develops what has been dubbed a “moderate realist” position, whereby it asserts that there are universals that are real entities in contrast to the antirealism that denies that universals are entities (Dreyfus 1997, 173)[^dreyfus-1997]. Here again we see a collapse of duality; this time, the concept-percept duality that underwrites Dharmakīrtian epistemology.
+    step1: |-
+      在哲学上受训的格鲁派僧人在其学涯早期就学习认识论，而辩论是这一传统得以内化并付诸实践的主要手段。佛教认识论在法称的《释量论》（*Pramāṇavārttika*）中得到编纂，系统阐述了知识的手段与有效推理的规则。法称的认识论可以说是反实在论的或概念论的，因为他否认语言直接关联知觉的内容，而知觉内容是难以言表的个别。然而，为了说明真实个别与不真实共相之间的关系，格鲁派传统发展出一种被称为“温和实在论”的立场：它主张存在一些作为真实实体的共相，与否认共相是实体的反实在论相对（Dreyfus 1997, 173）[^dreyfus-1997]。这里我们又一次看到二元的坍缩，这一次是支撑法称认识论的概念—知觉二元。
+    step2: |-
+      格鲁派僧人学哲学，早早就学认识论。辩论则是内化并实践这一传统的主要手段。法称的《释量论》（*Pramāṇavārttika*）系统阐述了知识的手段与有效推理的规则，佛教认识论由此定型。法称认识论可说是反实在论的，也可说是概念论的：他否认语言直接关联知觉内容，而知觉内容是不可言说的个别。然而，真实个别与不真实共相之间的关系仍待说明。为此，格鲁派传统发展出一种被称为“温和实在论”的立场。它主张有些共相是真实实体，以此与否认共相为实体的反实在论相对（Dreyfus 1997, 173）[^dreyfus-1997]。这里又一次看到二元对立坍缩，这回坍缩的是支撑法称认识论的概念—知觉二元。
+  - id: 33
+    kind: body
+    source: |-
+      Straddling the delicate line between a realist view that affirms the independent reality of universals and an antirealist one that denies the reality of concepts, a Geluk account of epistemology holds that universals are real, but that they do not exists separately from their particular instances. For instance, the universal “cow” and the particular instances of cow are held to be not utterly distinct, as antirealists would have it, nor are they held to be the same, as a strict realist would claim, but are rather said to be “extensionally identical but intensionally distinct” (Dreyfus 1997, 174–78)[^dreyfus-1997]. In the epistemological context, articulating this relationship is an attempt to account for the efficacy of concepts without giving universals an autonomous existence apart from their instances. Given that the Geluk tradition claims that Dharmakīrti’s epistemological project represents an inferior philosophical position, it is arguably studied for didactic purposes, whereas the nominalism of what Geluk thinkers consider their own tradition—the view of the Consequence School of the Middle Way—is the hallmark of their philosophy.
+    step1: |-
+      格鲁派的认识论说明游走于一条微妙的分界线两端：一端是肯定共相独立实在的实在论观点，另一端是否认概念实在的反实在论观点；它主张共相是实在的，但它们并不离开各自的个别实例而存在。例如，共相“牛”与牛的个别实例，既不像反实在论者所主张的那样截然不同，也不像严格实在论者所宣称的那样完全相同，而是被称为“外延相同而内涵有别”（Dreyfus 1997, 174–78）[^dreyfus-1997]。在认识论语境中，阐明这一关系，是试图说明概念的效力，同时又不让共相离开实例而独立存在。既然格鲁派传统主张法称的认识论方案代表一种较低的哲学立场，它之被研习可以说出于教学目的；而格鲁派思想家视为自家传统的唯名论——中观应成派的观点——才是其哲学的标记。
+    step2: |-
+      实在论肯定共相独立实在，反实在论否认概念实在，格鲁派的说法恰在这条微妙的分界线上。它主张共相是实在的，但不离开各自的个别实例而存在。以共相“牛”与牛的个别实例为例：反实在论者说两者截然不同，严格实在论者说两者完全相同，格鲁派都不取，而说它们“外延相同而内涵有别”（Dreyfus 1997, 174–78）[^dreyfus-1997]。在认识论的语境中，澄清这一关系，为的是说明概念何以有效，同时又不给共相一种脱离实例的独立存在。格鲁派传统承认，法称的认识论方案代表一种较低的哲学立场。因此研习它可以说出于教学目的；真正标志格鲁派哲学的，是格鲁派思想家视为自家传统的唯名论，也就是中观应成派的观点。
+  - id: 34
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      [请向作者提出建议。]
+    step2: |-
+      [欢迎向作者提出建议。]

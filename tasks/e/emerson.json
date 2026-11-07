@@ -2,8 +2,72 @@
   "slug": "emerson",
   "kind": "retranslate",
   "zh_doc": "e/emerson.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-06T11:01:35Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T04:01:01Z",
+      "evidence": "账本 124/124 段双版齐；lq.py check OK 守恒校验通过（SOFT：段124 oir 长度比 1.24 人工判读为链接译文正常扩写）；compose 落盘 52215 字节"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T04:01:01Z",
+      "evidence": "s1 对照源逐段核销：19 节一一对应、58 脚注键全等、年份集合无缺无多、数字缺失 0；专名（Cavell/Rawls/Nietzsche/Plato）汉译并首现括注原文；CW1/CW2/CW3 卷页号逐条在位"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T04:01:01Z",
+      "evidence": "s2 check_prose：53 项（多为'的'链启发式命中）；实修 2 处（段140 断言句、段146 相对主义句）；余项逐条读核为术语链与引文内密度，按 ADR-0020 豁免"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T04:01:03Z",
+      "evidence": "s3：check_style 0 issue、check_academic --strict OK、check_math 无缺失/不平衡；新术语 transcendentalism/self-reliance/Over-Soul 已登记 yi-zhe-shuo-ming.md"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T05:16:36Z",
+      "evidence": "r1 独立复核：19 节对应、58 键全等、年份集合无缺无多、数字缺失 0；Cavell《Conditions Handsome and Unhandsome》《Cities of Words》等书名与源一致"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T05:16:36Z",
+      "evidence": "r2 句级复读：prose 53→52（实修 2 处：段140 断言句、段146 相对主义句；余为'的'链误报与引文内密度，逐条读核无病句）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T05:16:40Z",
+      "evidence": "r3 终检：check_style 0、check_academic --strict OK、check_math 0；账本 124/124 双版齐"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T05:16:40Z",
+      "evidence": "终稿验收：六道全过；冷置后复核，豁免类有读核记录"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T11:02:28Z",
   "version_pin": {

@@ -2,7 +2,7 @@
   "slug": "gelukpa",
   "kind": "retranslate",
   "zh_doc": "g/gelukpa.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:42:12Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:59:25Z",
+      "evidence": "账本 34/34 段（body 33+oir 1）双版齐；lq.py check OK 守恒校验通过；compose 落盘后修 H1（SUMMARY 转义括号截断→'格鲁派 Gelukpa [dge lugs pa] (Douglas Duckworth)'）；正文字节 31XXX"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:59:25Z",
+      "evidence": "s1 对照源逐段核销：12 节一一对应、29 脚注键全等、年份集合无缺无多；数字缺失 0（专名命中缺失均为汉译所致）；藏文/梵文术语（宗喀巴 Tsongkhapa、中观 madhyamaka、应成派 prāsaṅgika、空性、二谛、缘起）核对；新登记术语 gelukpa→格鲁派 已入 yi-zhe-shuo-ming.md"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:59:25Z",
+      "evidence": "s2 check_prose：1 项 de-chain（'由人、众生、人类组成的世界，那个世俗而显现的世界…'）已改写为'人、众生、人类所居的世俗显现世界'，复跑 0 项"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:59:28Z",
+      "evidence": "s3：check_style 0 issue、check_academic --strict OK、check_math 无缺失/不平衡；相关词条 4 项命中 SUMMARY"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T05:13:55Z",
+      "evidence": "r1 独立复核（冷置后）：12 节对应、29 键全等、年份集合无缺无多；宗喀巴 1357–1419 两处与源一致、龙树二世纪／月称七世纪对应源 second/seventh century；H1 转义截断已修"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T05:13:55Z",
+      "evidence": "r2 句级复读：prose 1→0（'人、众生、人类所居的世俗显现世界'改写）；'应成派/自续派/唯识/量论'术语与登记册一致"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T05:13:59Z",
+      "evidence": "r3 终检：check_style 0、check_academic --strict OK、check_math 0、lq check 通过；账本 34/34 双版齐，为 G 批首条全流程闭合条目"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T05:13:59Z",
+      "evidence": "终稿验收：六道全过；初译与 r 轮同会话，已按 ADR-0020 冷置（先做 emerson 校次再回读）并记明"
     }
   ],
   "blockers": [],
