@@ -1,0 +1,632 @@
+version: 1
+slug: illumination
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Divine illumination is the oldest and most influential alternative to naturalism in the areas of mind and knowledge. The doctrine holds that human beings require a special divine assistance in their ordinary cognitive activities. Although most closely associated with Augustine and his scholastic followers, the doctrine has its origins in the ancient period and would reappear, transformed, in the early modern era.
+    step1: |-
+      神圣光照论是心灵与知识领域中出现的最早、也最有影响的自然主义替代方案。该学说主张，人类在日常认知活动中需要一种特殊的神圣援助。这一学说虽然与奥古斯丁及其经院追随者的关系最为紧密，但其起源却在古代，并在近代早期以转化后的形态重新出现。
+    step2: |-
+      神圣光照论（divine illumination）是心灵与知识领域中最早、也最有影响的自然主义替代方案。这一学说主张，人类在日常认知活动中需要一种特殊的神圣援助。它与奥古斯丁及其经院学派追随者关联最深，但起源其实在古代，并在近代早期以转化后的形态重现。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Orientation
+    step1: |-
+      ## 1. Orientation
+    step2: |-
+      ## 1 定位
+  - id: 3
+    kind: body
+    source: |-
+      The theory of divine illumination is generally conceived of as distinctively Christian, distinctively medieval, and distinctively Augustinian. There is some justification for this, of course, inasmuch as Christian medieval philosophers gave the theory serious and sustained discussion, and inasmuch as Augustine gave illumination a very prominent role in his theory of knowledge. Still, it is better to think of the theory in a wider context. Divine illumination played a prominent part in ancient Greek philosophy, in the later Greek commentary tradition, in neo-Platonism, and in medieval Islamic philosophy. Moreover, it was Christian medieval philosophers, near the end of the thirteenth century, who were ultimately responsible for decisively refuting the theory. I will suggest that we view this last development as the first great turning point in the history of cognitive theory.
+    step1: |-
+      神圣光照理论通常被视为带有鲜明的基督教色彩、鲜明的中世纪色彩、鲜明的奥古斯丁主义色彩。这当然有一定道理：中世纪基督教哲学家对这一理论进行过严肃而持续的讨论，奥古斯丁也确实让光照在其知识论中占据十分突出的位置。不过，更好的做法是在更宽的语境中理解这一理论。神圣光照在古希腊哲学、后期希腊注疏传统、新柏拉图主义以及中世纪伊斯兰哲学中都扮演过重要角色。而且，恰恰是中世纪基督教哲学家在十三世纪末最终决定性地驳倒了这一理论。我建议把这一最终的发展视为认知理论历史上的第一个伟大转折点。
+    step2: |-
+      神圣光照理论通常被视为基督教特有的、中世纪特有的、奥古斯丁主义特有的。这当然有几分道理：中世纪基督教哲学家对这一理论作过严肃而持续的讨论，奥古斯丁也确实让光照在其知识论中占据显要位置。不过，更好的做法是把这一理论放进更宽的语境。神圣光照在古希腊哲学、后期希腊注疏传统、新柏拉图主义与中世纪伊斯兰哲学中都曾扮演要角。而且，恰恰是中世纪基督教哲学家在十三世纪末最终决定性地驳倒了它。我建议把这一结局视为认知理论史上的第一个伟大转折点。
+  - id: 4
+    kind: body
+    source: |-
+      I understand a theory of divine illumination to be a theory on which the human mind regularly relies on some kind of special supernatural assistance in order to complete (some part of) its ordinary cognitive activity. The assistance must be *supernatural*, of course, or it will not count as *divine* illumination. It must be *special*, in the sense that it must be something more than the divine creation and ongoing conservation of the human mind. (If this by itself were to count as illumination, then all theists would be committed to the theory of divine illumination.) The mind must *regularly* rely on this assistance, in order to complete its *ordinary* cognitive activity: otherwise, an occasional mystical experience might suffice to confirm a theory of divine illumination. But a defender of the theory need hold only that we require this assistance for *some part of* our ordinary cognitive activities: hardly anyone has supposed that every form of human cognition requires divine illumination.
+    step1: |-
+      我把神圣光照理论理解为这样一种理论：人类心灵为了完成其日常认知活动的（某一部分），会经常性地依赖某种特殊的超自然援助。这种援助必须是超自然的，否则它就算不上神圣光照。它必须是特殊的，意思是它必须超出对人类心灵的神圣创造与持续保存。（如果仅凭这一点就算光照，那么所有有神论者都会被卷入神圣光照理论。）心灵必须经常性地依赖这种援助来完成其日常认知活动：否则，一次偶然的神秘体验就足以确证某种神圣光照理论。但该理论的辩护者只需主张：我们完成日常认知活动的某一部分需要这种援助——几乎没有人认为人类认知的一切形式都需要神圣光照。
+    step2: |-
+      我所谓神圣光照理论，指这样一种理论：人类心灵为了完成日常认知活动的某一部分，会经常性地依赖某种特殊的超自然援助。援助必须超自然，否则算不上神圣光照；必须是特殊的，即须超出对人类心灵的神圣创造与持续保存。（若仅凭这一点就算光照，则一切有神论者都将被卷入神圣光照理论。）心灵必须经常性地依赖这种援助来完成日常认知活动：否则，一次偶然的神秘体验便足以确证某种光照理论。但辩护者只需主张，我们完成日常认知活动的某一部分需要这种援助——几乎无人认为人类认知的一切形式都需神圣光照。
+  - id: 5
+    kind: body
+    source: |-
+      It is useful to think of divine illumination as analogous to grace. Just as a proponent of grace postulates a special divine role on the volitional side, so a proponent of divine illumination postulates a special divine role on the cognitive side. Grace is intended as an explanation not of all human desires and motivations, nor even of all virtuous desires and motivations. Rather, the proponent of grace holds that there is a certain class of volitional states, crucial to human well-being, that we can achieve only with special divine assistance. Likewise, the theory of divine illumination is intended as an explanation not of all belief, nor even of all knowledge. Rather, the theory holds that there are certain kinds of knowledge, crucial to cognitive development, that we can achieve only with special divine assistance. It is an odd fact that, despite the close analogy, grace is regarded not as a philosophical question, but as a theological one. It is an equally odd fact that, whereas divine illumination hasn’t generally been regarded as plausible since the thirteenth century, grace continues to be taken seriously by many theologians. Perhaps both of these facts can be accounted for by motivational psychology’s relative obscurity in comparison to cognitive psychology.
+    step1: |-
+      把神圣光照类比为恩典（grace）是有益的。正如恩典论者在意志方面设定一种特殊的神圣作用，神圣光照论者也在认知方面设定一种特殊的神圣作用。恩典并不打算解释人类所有的欲望与动机，甚至也不解释所有有德性的欲望与动机。恩典论者主张的是：有一类意志状态对人的福祉至关重要，而我们只有借助特殊的神圣援助才能达到。同样，神圣光照理论也不打算解释所有信念，甚至不解释所有知识。该理论主张的是：有几类知识对认知发展至关重要，而我们只有借助特殊的神圣援助才能获得。一个奇怪的事实是：尽管二者高度类似，恩典却不被当作哲学问题，而被当作神学问题。同样奇怪的是：十三世纪以来神圣光照已很少被视为可信，而恩典却仍被许多神学家严肃对待。也许这两个事实都可以用动机心理学相对于认知心理学的不受重视来解释。
+    step2: |-
+      不妨把神圣光照类比于恩典。恩典论者在意志一侧设定一种特殊的神圣作用，光照论者则在认知一侧设定一种特殊的神圣作用。恩典并不解释人类全部的欲望与动机，甚至不解释全部有德性的欲望与动机；恩典论者只说，有一类意志状态对人的福祉至关重要，而唯有借助特殊的神圣援助才能达到。光照理论亦然：它不解释全部信念，甚至不解释全部知识；它只说，有几类知识对认知发展至关重要，而唯有借助特殊的神圣援助才能获得。一个奇怪的事实是：尽管二者高度相似，恩典被当作神学问题而非哲学问题。另一个同样奇怪的事实是：十三世纪以降，神圣光照已普遍不再被视为可信，恩典却仍为许多神学家认真对待。这两个事实或许都可用动机心理学相对认知心理学的长期冷落来解释。
+  - id: 6
+    kind: body
+    source: |-
+      For most people today it is hard to take divine illumination seriously, hard to view it as anything other than a quaint relic. A first step toward developing a proper perspective on the theory is to see it in its broader context, not as peculiarly Christian or medieval, but as an assumption shared by most premodern philosophers. A second step in the same direction is to identify and to take seriously the philosophical problem that drives illumination theory. In large part, the theory has been invoked to explain rational insight — that is, a priori knowledge. For much of the modern era, philosophers have been preoccupied with empirical knowledge and have not had much interest in this topic. (Recently, this situation has changed notably; for foundational recent treatments, see Bealer 2000 and Bonjour 1998.)[^bealer-2000][^bonjour-1998] To see how something like divine illumination could have ever seemed at all plausible, one has to see how deeply puzzling the phenomenon of rational insight actually is. One way of seeing this, and of seeing how little we understand rational insight, is to look at cases where something goes wrong. A recent biography of the Nobel-prize winning mathematician John Nash describes his long period of mental illness, during which time he held various odd beliefs such as that extraterrestrials were recruiting him to save the world. How could he believe this, a friend asked during a hospital visit, given his devotion to reason and logic?
+    step1: |-
+      今天的大多数人很难严肃看待神圣光照，很难把它当作古董以外的任何东西。培养对这一理论的恰当视角，第一步是把它放进更宽的语境：它不是基督教或中世纪特有的，而是前现代大多数哲学家共同接受的一个假定。第二步是识别并认真对待驱动光照理论的那个哲学问题。在很大程度上，这一理论被援引来解释理性洞见——即先天知识。在近现代的大部分时间里，哲学家专注于经验知识，对这个话题兴趣不大。（近来情况已显著改观；奠基性的近期讨论见 Bealer 2000 与 Bonjour 1998。）[^bealer-2000][^bonjour-1998] 要看清神圣光照之类的东西怎么会显得可信，就得看清理性洞见现象实际上有多令人困惑。看清这一点、并看清我们对理性洞见理解得何其少的一个办法，是考察出问题的案例。诺贝尔奖得主数学家约翰·纳什（John Nash）的一部近传描述了他长期罹患精神疾病的岁月，其间他持有各种古怪信念，例如外星人正在招募他去拯救世界。住院探视时一位朋友问他：既然他如此献身于理性与逻辑，怎么会相信这种事？
+    step2: |-
+      今天大多数人难以认真看待神圣光照，只觉得它是件古旧的遗物。要取得恰当的视角，第一步是把它放回更宽的语境：它并非基督教或中世纪所独有，而是前现代多数哲学家共有的假定。第二步是识别并认真对待驱动光照理论的那个哲学问题。这一理论在很大程度上是被用来解释理性洞见的，也就是先天知识。近现代哲学家长时间专注于经验知识，对此题兴味索然。（近来局面已明显改观；奠基性的近期讨论见 Bealer 2000 与 Bonjour 1998。）[^bealer-2000][^bonjour-1998] 要理解神圣光照之类何以曾显得可信，先得看清理性洞见这一现象本身有多令人困惑。看清这一点、也看清我们对它理解得何其少，一个办法是考察出岔子的案例。诺奖得主、数学家约翰·纳什（John Nash）的一部近传写到他漫长的精神疾病岁月，其间他抱有种种古怪信念，例如外星人正在招募他去拯救世界。住院探视时，一位朋友问他：既然他如此服膺理性与逻辑，怎么会信这种事？
+  - id: 7
+    kind: body
+    source: |-
+      > “Because,” Nash said slowly in his soft, reasonable southern drawl, as if talking to himself, “the ideas I had about supernatural beings came to me the same way that my mathematical ideas did. So I took them seriously” (Nasar 1998, p.11)[^nasar-1998].
+    step1: |-
+      > “因为，”纳什用他柔和、通情达理的南方拖腔慢慢说道，仿佛在自言自语，“我关于超自然存在的那些观念，是以和我的数学观念同样的方式来到我心里的。所以我认真对待了它们”（Nasar 1998, p.11）[^nasar-1998]。
+    step2: |-
+      > “因为，”纳什用他柔和而讲理的南方拖腔慢慢说，仿佛在自言自语，“我关于超自然存在物的那些观念，到我心里来的方式，和我的数学观念一模一样。所以我就把它们当真了”（Nasar 1998, p.11）[^nasar-1998]。
+  - id: 8
+    kind: body
+    source: |-
+      In a case such as this we don’t know what to do, because we are accustomed to give unhesitating trust to the deliverances of pure reason. But why should we trust reason in this way? Why should we have confidence that others can come to share our insights? Where does it come from? The theory of divine illumination attempts to answer such questions.
+    step1: |-
+      面对这样的案例我们不知所措，因为我们习惯于毫不犹豫地信任纯粹理性的裁决。可是我们凭什么如此信任理性？我们凭什么确信他人能够分享我们的洞见？这种洞见从何而来？神圣光照理论正是要回答这类问题。
+    step2: |-
+      面对这类案例，我们不知如何是好，因为我们素来毫不迟疑地信任纯粹理性的交付。但我们凭什么这样信任理性？凭什么确信别人也能分享我们的洞见？这种洞见又是从哪里来的？神圣光照理论正是要回答这类问题。
+  - id: 9
+    kind: body
+    source: |-
+      ## 2. The Ancient Background
+    step1: |-
+      ## 2. The Ancient Background
+    step2: |-
+      ## 2 古代背景
+  - id: 10
+    kind: body
+    source: |-
+      What follows is by no means a comprehensive survey. Still, it seems useful to begin near the beginning, with this remark by Socrates from the *Apology*:
+    step1: |-
+      下文绝不是一份全面综述。不过，从接近开端的地方起步似乎仍有益处，就从《申辩篇》（*Apology*）中苏格拉底的这段话开始：
+    step2: |-
+      下文绝非全面综述。不过，从接近开端处起步似仍有其益处，就从《申辩篇》（*Apology*）中苏格拉底这段话讲起：
+  - id: 11
+    kind: body
+    source: |-
+      > I have a divine or spiritual sign which Meletus has ridiculed in his deposition. This began when I was a child. It is a voice, and whenever it speaks it turns me away from something I am about to do, but it never encourages me to do anything (31d, tr. Grube).
+    step1: |-
+      > 我有一种神圣的或精神的神兆，美勒托斯在他的诉状中曾拿它打趣。这种征兆自我孩提时便已开始：它是一个声音，每当它发声，总是阻止我正要做的事，却从不鼓励我去做什么（31d，Grube 译）。
+    step2: |-
+      > 我有一种神圣的、也可以说是精灵的神兆，美勒托斯在诉状里还拿它取笑。这神兆自我年幼时就有了：它是一个声音，每逢它出声，总是拦住我正要做的事，却从不催我去做什么（31d，Grube 译）。
+  - id: 12
+    kind: body
+    source: |-
+      This appears to be an entirely straightforward expression of a theory of divine illumination. It is not clear who is providing the illumination. Apuleius (fl. 150 CE) would later identify the source as a certain kind of friendly demon, and argue that it was only fitting for Socrates, the most perfect of all human beings, to receive such illumination (*De deo Socratis*, XVII–XIX). (This idea that illumination comes to those who deserve it would be proposed by Augustine as well [e.g., *De magistro* 11.38], but abandoned in his later writings as untenable.) As one might expect from Socrates, his illumination seems restricted to the moral sphere. Its form is unclear: is it propositional? (see *Phaedrus* 242bc) Is it merely the pang of conscience? (For discussion of these and other questions, see e.g. the papers collected in Destrée and Smith 2005.)[^destrée-2005] Whatever the details, Socrates is explicitly describing a kind of cognitive guidance that has a “divine or spiritual” source. The passage may be an embarrassment to classicists, but it surely belongs in the same tradition as later medieval endorsements of illumination.
+    step1: |-
+      这似乎是对神圣光照理论全然直白的表达。提供光照者是谁并不清楚。阿普列乌斯（约 150 年活跃）后来把来源定为某种友善的精灵（daimon），并论证说：只有苏格拉底这样人类中最完美的人，才配得上接受这样的光照（《论苏格拉底之神》*De deo Socratis*，XVII–XIX）。（光照降临于配得上它的人——这一观念奥古斯丁后来也提出过［如《论教师》*De magistro* 11.38］，但在其晚期著作中作为站不住脚的东西放弃了。）不出所料，苏格拉底的光照似乎限于道德领域。其形式并不清楚：它是命题性的吗？（见《斐德罗篇》242bc）抑或只是良心的刺痛？（关于这些问题及其他问题的讨论，参见收录于 Destrée and Smith 2005 的论文。）[^destrée-2005] 无论细节如何，苏格拉底明确描述了一种具有“神圣或精神”来源的认知引导。这段文字也许令古典学者尴尬，但它无疑与后来中世纪对光照的拥护属于同一传统。
+    step2: |-
+      这看起来是神圣光照理论的直白表述。但究竟谁在提供光照，并不清楚。阿普列乌斯（约 150 年在世）后来把来源定为某一类友善的精灵（daimon），并论证说：唯有人类中最完美的苏格拉底才配得到这样的光照（《论苏格拉底之神》*De deo Socratis*，XVII–XIX）。（光照降临于配得其人者，这一观念奥古斯丁亦曾提出［如《论教师》*De magistro* 11.38］，后来却因站不住脚而在晚年著作中放弃。）如人所料，苏格拉底的光照似乎局限于道德领域。其形式也不清楚：是命题性的吗？（见《斐德罗篇》242bc）抑或只是良心的刺痛？（关于这些问题及其他问题，参见 Destrée and Smith 2005 所收论文。）[^destrée-2005] 无论细节如何，苏格拉底明确描述的是一种有“神圣或精灵”来源的认知引导。这段话或许让古典学者难堪，却无疑与中世纪后期为光照辩护的传统同属一脉。
+  - id: 13
+    kind: body
+    source: |-
+      Not all appeals to the divine involve this sort of direct communication. (Indeed, Socrates’s reference to a “voice” is quite extraordinary.) But the leading figures in ancient Greek philosophy were equally committed to some kind of divine role in cognition. Plato’s theory of recollection presupposes that the human mind somehow has built into it a grasp of the Forms, suggesting that at some point the soul must have received some kind of illumination. Indeed, Plato’s arguments for recollection anticipate the two lines along which medieval views would later develop. The *Meno* focuses on a priori, rational insight, as illustrated by the slave’s ability to see for himself the validity of a geometrical proof. The *Phaedo* in contrast focuses on universal properties — Equality, for instance, as compared with two equal sticks (74a) — contrasting the changeable imperfection of the physical world with the exemplary perfection of the Forms. Medieval philosophers from Augustine on, although largely lacking in firsthand knowledge of Plato, would argue for illumination along both of these lines.
+    step1: |-
+      并非一切诉诸神者都涉及这种直接的交流。（苏格拉底提到一个“声音”，确实极不寻常。）但古希腊哲学的领军人物同样都肯定神在认知中有某种作用。柏拉图的回忆说预设人类心灵以某种方式内置了对诸形式的把握，这提示灵魂必定曾在某时接受过某种光照。实际上，柏拉图关于回忆的论证预示了中世纪观点后来沿之发展的两条路线。《美诺篇》聚焦先天的、理性的洞见，奴隶能自行看出一条几何证明之有效性即是例证。《斐多篇》则聚焦普遍性质——例如“相等”，以两根等长的棍子（74a）作比——把物理世界的可变不完善与诸形式的典范完善相对照。从奥古斯丁以降的中世纪哲学家虽然大多缺乏对柏拉图的第一手了解，却沿这两条路线为光照辩护。
+    step2: |-
+      并非所有对神的诉诸都采取这种直接交流的形式。（苏格拉底说起一个“声音”，已属格外异常。）但古希腊哲学的领军人物同样坚信神在认知中有某种作用。柏拉图的回忆说预设人类心灵在某种意义上内置了对形式的把握，这意味着灵魂必曾在某处接受过某种光照。事实上，柏拉图关于回忆的论证已预示了中世纪理论后来分途展开的两条路线。《美诺篇》走的是先天理性洞见一路：那名奴隶能自行看出一个几何证明的有效性。《斐多篇》则走普遍性质一路，如“相等”与两根相等的棍子（74a）相较，把物理世界的可变与不完善对照于形式的典范式完善。自奥古斯丁以下的中世纪哲学家虽大多没有第一手的柏拉图文本，却正是沿这两条路线为光照辩护。
+  - id: 14
+    kind: body
+    source: |-
+      Aristotle too seems to invoke the divine. He describes the active intellect in this way:
+    step1: |-
+      亚里士多德似乎也诉诸神。他这样描述主动理智：
+    step2: |-
+      亚里士多德看来也诉诸神。他这样描述主动理智：
+  - id: 15
+    kind: body
+    source: |-
+      > This intellect is separate, unaffected, and unmixed, being in essence activity…. It is not the case that it sometimes thinks and at other times not. In separation it is just what it is, and this alone is immortal and eternal (*De anima* III 5, 430a17–23).
+    step1: |-
+      > 这种理智是分离的、不受影响的、不混杂的，就其本质而言即是现实活动……它并非时而思想、时而不思想。在分离状态中，它只是它所是的那一种东西，唯此是不朽的、永恒的（《论灵魂》III 5, 430a17–23）。
+    step2: |-
+      > 这样的理智是分离的、不受作用的、不混杂的，其本质即是现实活动……它并不时而思想、时而不思想。一旦分离，它便只是其所是，唯此不朽而永恒（《论灵魂》III 5, 430a17–23）。
+  - id: 16
+    kind: body
+    source: |-
+      There is of course unending controversy over the meaning of this text. One very common reading, in ancient times and our own, is that this active intellect is something divine, not a human faculty at all. If one then makes the further, natural assumption that the active intellect participates in ordinary human cognition, then Aristotle would clearly be committed to a version of divine illumination. (One should, however, be cautious in supposing that Aristotle’s *nous poietikos* plays anything like the role played by the scholastic *intellectus agens*. See Haldane 1992.)[^haldane-1992] Not everyone has been persuaded that this active intellect is something literally separate and divine. But even if one supposes that the active intellect is a part of the human soul, it is nevertheless difficult to avoid the suspicion that some sort of special divine influence is at work. Everything in the passage cries out for some sort of supernatural element in human cognition.
+    step1: |-
+      围绕这段文本的含义当然有无穷的争论。古人与今人共有的一种极常见解读是：这个主动理智是某种神性之物，根本不是人类官能。若再作一个自然的进一步假设——主动理智参与普通人认知——那么亚里士多德显然就主张某种版本的神圣光照论。（但应谨慎：不要以为亚里士多德的 *nous poietikos* 在多大程度上扮演了经院哲学 *intellectus agens* 的角色。见 Haldane 1992。）[^haldane-1992] 并非所有人都被说服：这个主动理智是字面上分离且神性的。但即使假定主动理智是人类灵魂的一部分，人们仍难以避免这样的怀疑：某种特殊的神圣影响在起作用。这段文字中的每一处都在呼唤人类认知中的某种超自然要素。
+    step2: |-
+      这段文本的含义当然聚讼不已。古今都极常见的一种读法是：这一主动理智是某种神性之物，根本不是人的官能。若再补上一个自然的假设，说主动理智参与普通人的认知，则亚里士多德显然主张某种版本的神圣光照论。（但须谨慎，不可径以为亚里士多德的 *nous poietikos* 所扮演的就是经院哲学 *intellectus agens* 的角色。见 Haldane 1992。）[^haldane-1992] 也并非人人都相信这一主动理智在字面上分离而神性。但即便假定它是人类灵魂的一部分，仍难以摆脱怀疑：其中有某种特殊的神圣影响在运作。这段文字处处都在呼唤人类认知中的超自然成分。
+  - id: 17
+    kind: body
+    source: |-
+      Alexander of Aphrodisias (fl. 200 CE) was influential in pushing the separate-and-divine reading of *De anima* III.5, and Islamic philosophers (most notably Ibn Sīnā [980–1037] and Ibn Rushd [c.1126–c.1198]) would later follow suit. Themistius (4th century CE), in contrast, championed the part-of-soul reading, and Thomas Aquinas (1225–1274) would second this interpretation. A full treatment of this topic would cover the later Aristotelian and Platonic traditions, Greek and Islamic. But here I will focus exclusively on the Latin West, where it was Augustine who played the decisive role in formulating the doctrine of illumination. (For a useful survey of ancient and medieval Aristotelian accounts of agent intellect, see Brentano 1992. On the later Platonic tradition, see Gersh 1978. The Islamic tradition deserves a full essay in its own right, covering not just names well known in the Latin West, but also figures like Suhrawardi and Mulla Sadra, central figures in the Islamic illuminationist tradition [see Walbridge 2005][^walbridge-2005].)
+    step1: |-
+      阿弗罗狄西亚的亚历山大（约 200 年活跃）对推动《论灵魂》III.5 的“分离且神性”解读颇有影响，伊斯兰哲学家（最著名者为伊本·西那［980–1037］与伊本·鲁世德［约 1126–约 1198］）后来也如法炮制。特米斯提乌斯（4 世纪）则相反，力主“灵魂之一部分”解读，托马斯·阿奎那（1225–1274）随后附和了这一解释。对这一主题的全面处理须涵盖后来的亚里士多德主义与柏拉图主义传统——希腊的与伊斯兰的。但本文只聚焦拉丁西方，正是在那里奥古斯丁对光照学说的成形起了决定性作用。（关于古代与中世纪亚里士多德主义能动理智论述的有用综述，见 Brentano 1992。关于后期柏拉图主义传统，见 Gersh 1978。伊斯兰传统本身值得专文处理，不仅要论及拉丁西方熟知的人物，也要论及伊斯兰光照传统中的核心人物苏哈拉瓦迪与穆拉·萨德拉［见 Walbridge 2005］。）[^walbridge-2005]
+    step2: |-
+      阿弗罗狄西亚的亚历山大（约 200 年在世）大力推动了《论灵魂》III.5 的“分离而神性”读法，伊斯兰哲学家（尤以伊本·西那［980–1037］与伊本·鲁世德［约 1126–约 1198］为著）后来踵其步。特米斯提乌斯（4 世纪）相反，力持“灵魂之部分”读法，托马斯·阿奎那（1225–1274）则附和此解。要完整处理此题，须遍及希腊与伊斯兰的后期亚里士多德主义与柏拉图主义传统。本文只聚焦拉丁西方，因为那里的光照学说系由奥古斯丁一手铸成。（古代与中世纪亚里士多德主义关于能动理智的论述，有用的综述见 Brentano 1992；后期柏拉图主义传统见 Gersh 1978。伊斯兰传统本身值得专文处理，不仅要论拉丁西方熟知的人物，还须论及伊斯兰光照传统的中心人物苏哈拉瓦迪与穆拉·萨德拉［见 Walbridge 2005］。）[^walbridge-2005]
+  - id: 18
+    kind: body
+    source: |-
+      ## 3. Augustine
+    step1: |-
+      ## 3. Augustine
+    step2: |-
+      ## 3 奥古斯丁
+  - id: 19
+    kind: body
+    source: |-
+      Throughout his long literary career, Augustine (354–430) stresses the role of divine illumination in human thought. One could choose almost any work to illustrate this point; here I will focus on the most familiar of all, the *Confessions*, where Augustine invokes divine illumination constantly, and makes bold claims for its global necessity:
+    step1: |-
+      在其漫长的著述生涯中，奥古斯丁（354–430）处处强调神圣光照在人类思想中的作用。几乎任何一部著作都可以用来说明这一点；这里我聚焦其中最著名的一部——《忏悔录》（*Confessions*）。在这部书里，奥古斯丁不断诉诸神圣光照，并大胆宣称光照的普遍必然性：
+    step2: |-
+      奥古斯丁（354–430）在漫长的著述生涯中处处强调神圣光照在人类思想中的作用。几乎任何一部作品都能说明这一点；这里只取最著名的一部《忏悔录》（*Confessions*），其中奥古斯丁不断诉诸神圣光照，并大胆断言它具有普遍的必然性：
+  - id: 20
+    kind: body
+    source: |-
+      > The mind needs to be enlightened by light from outside itself, so that it can participate in truth, because it is not itself the nature of truth. You will light my lamp, Lord (IV.xv.25).
+      >
+      > None other than you is teacher of the truth, wherever and from whatever source it is manifest (V.vi.10).
+      >
+      > You hear nothing true from me which you have not first told me (X.ii.2).
+      >
+      > Truth, when did you ever fail to walk with me, teaching me what to avoid and what to seek…. Without you I could discern none of these things (X.xl.65).
+    step1: |-
+      > 心灵需要被来自自身之外的光所照亮，以便分有真理，因为它本身并不是真理的本性。主啊，你必点亮我的灯（IV.xv.25）。
+      >
+      > 除你之外，无人是真理的教师，无论真理在何处、经由何种源头显现（V.vi.10）。
+      >
+      > 你从我这里听到的任何真话，无不先是你说给我的（X.ii.2）。
+      >
+      > 真理啊，你何曾不曾与我同行，教我何所避、何所求……没有你，我对这些一无所辨（X.xl.65）。
+    step2: |-
+      > 心灵需要被自身之外的光照亮，才能分有真理，因为它本身并非真理的本性。主啊，你将点亮我的灯（IV.xv.25）。
+      >
+      > 除你以外，没有谁是真理的教师，无论真理在何处、从何源头显现（V.vi.10）。
+      >
+      > 你从我这里听到的真话，没有一句不是你先说给我的（X.ii.2）。
+      >
+      > 真理啊，你何尝离开过我，不与我同行，不教我避什么、求什么……没有你，这些我一样也分辨不出（X.xl.65）。
+  - id: 21
+    kind: body
+    source: |-
+      Even during the Middle Ages, Augustine’s readers disagreed on the precise nature of his theory. One thing that seems clear from these passages alone is that divine illumination is an influence that we receive in an ongoing way throughout our lives. Thomas Aquinas would later understand illumination as an infusion all at once at the start (see below), but this seems untenable as an interpretation of Augustine. The mind needs to be enlightened “from outside itself”; “it is not itself the nature of truth”; “you *will* light my lamp, Lord” (he has not done so already); truth “walk[s] with me,” rather than merely setting me in motion at the start.
+    step1: |-
+      即便在中世纪，奥古斯丁的读者们对他理论的精确性质也意见不一。仅从上面几段就可以确定的一点是：神圣光照是我们终生不断接受的一种影响。托马斯·阿奎那后来把光照理解为开端处一次性注入（见下文），但作为对奥古斯丁的解释，这似乎站不住脚。心灵需要“从自身之外”被照亮；“它本身不是真理的本性”；“你必点亮我的灯”（而非已然点亮）；真理“与我同行”，而不只是在开端启动我。
+    step2: |-
+      即便在中世纪，读者对奥古斯丁理论的精确性质也莫衷一是。仅凭上引几段即可确定：神圣光照是我们终生持续接受的影响。阿奎那后来把光照理解为开端时的一次性注入（见下文），但以此解奥古斯丁，似难成立。心灵需要“从自身之外”被照亮；“它本身并非真理的本性”；“你将点亮我的灯”（可见尚未点亮）；真理“与我同行”，而不只是在开端处推我一把。
+  - id: 22
+    kind: body
+    source: |-
+      To speak of this influence as an illumination is of course to use a metaphor, one not likely to be unpacked fully. Our own minds present enough of a puzzle to us: when we try to understand how the divine mind might influence our own, we must inevitably fall back on metaphor. Still, there are a variety of ways in which we might seek some clarification. In particular, it is helpful to distinguish two ways in which God might provide illumination. First, he might simply give us information of certain kinds, telling us how things are. This is how illumination is most often understood, at least implicitly. But a second possibility is that God would provide not the information itself, but the insight into the truth of the information. On this second model, we would frame beliefs on our own, and God would illuminate our minds so that we could see the truth. In other words, God would supply the justification. It is clear that sometimes illumination takes the first form: much of Biblical revelation just is illumination in this sense. But Augustine’s theory of illumination seems largely to be of the second kind. Consider this famous passage from the *Confessions*:
+    step1: |-
+      把这种影响称作光照当然是使用一个比喻，一个不太可能被彻底展开的比喻。我们自己的心灵已经够让人困惑的了：当我们试图理解神圣心灵如何影响我们的心灵时，我们注定要退回比喻。尽管如此，仍有多种途径可以寻求澄清。特别有益的是区分上帝提供光照的两种方式。第一，他可以径直给我们某种信息，告诉我们事情是怎样的。这是对光照最常见的理解，至少是隐含的理解。但第二种可能是：上帝提供的不是信息本身，而是对信息之真理的洞见。按第二种模型，我们自己形成信念，上帝照亮我们的心灵，使我们能够看到真理。换句话说，上帝提供的是证成。显然，光照有时取第一种形式：《圣经》启示中的很大一部分正是这种意义上的光照。但奥古斯丁的光照理论似乎主要属于第二种。试看《忏悔录》中这段著名文字：
+    step2: |-
+      把这种影响称为光照，自然是用了比喻，而且是一个难以完全展开的比喻。我们自己的心灵已经足够费解：一旦追问神圣心灵如何影响我们的心灵，就难免要退回比喻。不过仍有若干途径可资澄清。特别值得区分上帝提供光照的两种方式。其一，上帝直接给我们某类信息，告诉我们事情是怎样的。这是对光照最常见的理解，虽然多半是隐含的。其二，上帝给的不是信息本身，而是对信息之真的洞见：我们自己形成信念，上帝照亮我们的心灵，使我们看见其真。换句话说，上帝提供的是证成。显然，光照有时取第一种形式：《圣经》启示的相当部分正是此义的光照。但奥古斯丁的光照理论似乎主要属第二种。试看《忏悔录》中这段名言：
+  - id: 23
+    kind: body
+    source: |-
+      > If we both see that what you say is true, and we both see that what I say is true, then where do we see that? Not I in you, nor you in me, but both of us in that unalterable truth that is above our minds (XII.xxv.35).
+    step1: |-
+      > 如果我们两人都看到你所说的为真，也都看到我所说的为真，那么我们在哪里看到？不是我在你之中，也不是你在我之中，而是我们两人都在那居于我们心灵之上、不可改变的真理之中（XII.xxv.35）。
+    step2: |-
+      > 若你我同见你所说为真，又同见我说为真，那么我们在何处看见？不是我在你内，也不是你在我内，而是你我同在超乎我们心灵之上的不变真理中看见（XII.xxv.35）。
+  - id: 24
+    kind: body
+    source: |-
+      At issue here is biblical interpretation. When a reading is advanced that seems clearly correct, how is it that everyone listening grasps the truth of that reading? It is not that God gives us the interpretation itself, but that he allows us to see that the interpretation is true.
+    step1: |-
+      这里谈的是《圣经》解释。当有人提出一个看似显然正确的读法时，所有听者为何都能把握这一读法的真理？并不是上帝把解释本身给了我们，而是他让我们看到这一解释是真的。
+    step2: |-
+      这里涉及的是《圣经》解释。当有人提出一个看来显然正确的读法时，为何在场人人都能把握该读法之真？上帝给的并不是解释本身，而是让我们看见这解释为真。
+  - id: 25
+    kind: body
+    source: |-
+      This understanding of illumination is particularly apparent in the *De magistro*, where Augustine argues that only God can teach us. Of course, other people can tell us things, and can thereby communicate ideas to us. And we can believe what others tell us: indeed, our lives would be impoverished if we didn’t regularly accept what others tell us. But all of this stays at the level of mere belief. It is not knowledge unless we grasp with our minds the truth of what we are hearing:
+    step1: |-
+      这种光照观在《论教师》（*De magistro*）中最为显豁，奥古斯丁在那里论证：唯有上帝能教导我们。当然，别人可以告诉我们事情，从而把观念传递给我们；我们也可以相信别人告诉我们的东西：事实上，如果不经常接受别人的话，我们的生活会贫乏得多。但这一切都停留在单纯的信念层面。除非我们用心把握所闻之为真，否则就不是知识：
+    step2: |-
+      这一光照观在《论教师》（*De magistro*）中尤为显豁。奥古斯丁在此论证：唯有上帝能教导我们。别人当然可以告诉我们事情，把观念传给我们；我们也可以相信别人的话——若不常接受别人的话，生活会贫乏得多。但这一切都停留在单纯的信念层面。除非我们以心把握所闻之为真，否则便不是知识：
+  - id: 26
+    kind: body
+    source: |-
+      > When I speak the truth, I do not teach someone who sees these truths. For he is taught not by my words but by the things themselves made manifest within when God discloses them (12.40).
+    step1: |-
+      > 当我说出真理时，我并不教导那看见这些真理的人。因为他受教，不是凭借我的话，而是凭藉当上帝揭示时内在显明的事物本身（12.40）。
+    step2: |-
+      > 我说出真理时，并不在教导那已看见这些真理的人。因为教他的不是我的话，而是上帝在内心揭示的事物本身（12.40）。
+  - id: 27
+    kind: body
+    source: |-
+      The speaker’s role is not irrelevant in this process. My words give listeners an idea that they can then verify for themselves in light of God’s illumination. Illumination is what allows us to go from mere true belief to knowledge. Illumination provides justification.
+    step1: |-
+      在这一过程中，说话者的角色并非无关紧要。我的话使听者获得一个观念，他们随后可以凭上帝的光照自行加以验证。光照正是使我们从单纯的真信念达到知识的东西。光照提供证成。
+    step2: |-
+      说话者的角色在此并非无关。我的话给听者一个观念，他们随后可借上帝的光照自行验证。正是光照使我们由单纯的真信念进至知识：光照提供证成。
+  - id: 28
+    kind: body
+    source: |-
+      This account is most attractive in cases of a priori knowledge or pure reasoning, where we grasp through the mind alone that an argument is valid or that a conclusion is necessary. But there is another strain of thought running through Augustine, one that focuses on the mind’s ability to transcend the untrustworthy senses and grasp the truth that lies beyond mere appearances. The following passage is very often cited in this connection:
+    step1: |-
+      这一解释在先天知识或纯粹推理的案例中最有吸引力：在那里我们仅凭心灵就把握到一个论证有效、或一个结论必然。但奥古斯丁思想中还有另一条线索，聚焦心灵超越不可靠的感官、把握居于单纯显象之外的真理的能力。下文这段文字在这一点上被引用得非常频繁：
+    step2: |-
+      这一说法在先天知识或纯粹推理的场合最有吸引力：此时我们单凭心灵就把握到一个论证有效、一个结论必然。但奥古斯丁那里还有另一条思路，着眼于心灵超越不可靠的感官、把握显象背后的真理的能力。下面这段常被引来作证：
+  - id: 29
+    kind: body
+    source: |-
+      > Everything that the bodily senses attain, that which is also called sensible, is incessantly changing…. But what is not constant cannot be perceived; for that is perceived that is comprehended in knowledge. But something that is incessantly changing cannot be comprehended. Therefore we should not expect pure truth from the bodily senses (*Eighty-three Different Questions*, q.9).
+    step1: |-
+      > 肉体感官所把握的一切，即所谓可感的东西，都在不断变化……但不是恒定的东西就不能被知觉；因为被知觉者，乃是在知识中被把握者。而不断变化的东西不能被把握。所以，我们不应指望从肉体感官得到纯粹的真理（《八十三问题》*Eighty-three Different Questions*，q.9）。
+    step2: |-
+      > 肉体感官所触及的一切，即所谓可感之物，无时不在变化……然而不恒定的东西无法被知觉；因为被知觉的，正是在知识中被把握的。而不断变化的东西无法被把握。所以我们不该指望从肉体感官获得纯粹的真理（《八十三问题》*Eighty-three Different Questions*，q.9）。
+  - id: 30
+    kind: body
+    source: |-
+      In one stroke, this argument rules out the physical world as an object of pure truth, and rules out the senses as a source for that truth. It must be the mind, then, with which we attain truth, and that truth must be something beyond the sensible world. Plainly, the mind cannot rely on the senses. But what else is there? The conclusion we are invited to reach is that the mind must rely on God.
+    step1: |-
+      这一论证一举排除了物理世界作为纯粹真理的对象，也排除了感官作为这种真理的来源。那么必定是心灵把握真理，而真理必定是可感世界之外的某种东西。显然，心灵不能依赖感官。但此外还有什么？我们被引向的结论是：心灵必须依赖上帝。
+    step2: |-
+      这一论证一举两得：既排除了物理世界作为纯粹真理的对象，也排除了感官作为此种真理的来源。那么把握真理的必是心灵，而真理必在可感世界之外。心灵显然不能依赖感官。但除此之外还有什么？作者引我们得出的结论是：心灵必须依赖上帝。
+  - id: 31
+    kind: body
+    source: |-
+      One might try assimilating this line of thought to those passages where Augustine has in mind necessary a priori truths. But it is more natural to take this in a different way, as an account of how the mind goes beyond the sensible data to a grasp of the real essences of things. Accordingly, the theory of divine illumination would be put to two very different sorts of work in the later Middle Ages: as an account of a priori knowledge, and as an account of concept formation. Each account raises its own set of issues. Taken in the first way, divine illumination has to compete against the claim that the mind is naturally capable of grasping such truth. Taken in the second way, questions immediately arise about the nature of conceptual knowledge. Do essences (or properties in general) exist in the physical world? Do they exist only in the divine mind? Do the senses play any role in the process of concept formation? Later medieval philosophers would handle these issues in interestingly different ways.
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      ## 4. Thirteenth-century Franciscans
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      Augustine’s position would remain ascendant among Christian philosophers for most of the Middle Ages. Thirteenth-century Franciscans, led by figures such as Bonaventure (c.1217–1274) and Matthew of Aquasparta (c.1237–1302), gave the theory a detailed and systematic defense, focusing on the changeability and hence uncertainty of the human mind and the sensory world (see Marrone 2001)[^marrone-2001]. Bonaventure characteristically argues,
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      > Things have existence in the mind, in their own nature (*proprio genere*), and in the eternal art. So the truth of things as they are in the mind or in their own nature — given that both are changeable — is sufficient for the soul to have certain knowledge only if the soul somehow reaches things as they are in the eternal art (*De scientia Christi*, q.4 resp.).
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      Certain knowledge requires steadfast unchangeability. Since that can be found only in the divine mind, and since we have access to the divine mind only through illumination, certain knowledge requires illumination. (On the early thirteenth century see Faucher 2019; on Bonaventure see Solignac 2022.)[^faucher-2019][^solignac-2022]
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      This line of argument came to seem increasingly old-fashioned as the thirteenth century progressed. The growing influence of Aristotle’s theory of cognition, as developed in particular by the Dominican friars Albert the Great (c.1200–1280) and his student, Thomas Aquinas (c.1225–1274), offered an impressive picture of how human beings might be able to achieve certain knowledge despite the changeability of mind and matter. These developments struck many Franciscans as a betrayal of Christianity. John Pecham (c.1225–1292), in a letter dating from 1285, writes
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      > I do not in any way disapprove of philosophical studies, insofar as they serve theological mysteries, but I do disapprove of irreverent innovations in language, introduced within the last twenty years into the depths of theology against philosophical truth and to the detriment of the Fathers, whose positions are disdained and openly held in contempt.
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      Continuing, Pecham criticizes the doctrine
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      > which fills the entire world with wordy quarrels, weakening and destroying with all its strength what Augustine teaches concerning the eternal rules and the unchangeable light…. (quoted in Gilson 1955, p.359)[^gilson-1955].
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      At roughly the same time, Roger Marston (c.1235–1303) writes of those who, “drunk on the nectar of philosophy … twisted toward their own sense all of Augustine’s authoritative texts on the unchanging light and the eternal rules” (*Quaestiones disputatae de anima* 3 ad 30).
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      Marston’s view is particularly interesting because he proposes a synthesis of Augustine and Aristotle. On his view,
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      > It is necessary to posit in our mind, beyond the phantasms or abstracted species, something by which we to some degree attain the unchanging truths. I believe this to be no different than the influence of the eternal light…. For the eternal light, irradiating the human mind, makes a certain active impression on it, from which a certain passive impression is left in it, which is the formal principle of cognizing the unchanging truths (*De anima* 3, p.263).
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      Rather than dismiss the agent intellect as superfluous, Marston follows Alexander of Aphrodisias et al. in treating the agent intellect as separate and divine — indeed, as God himself. Earlier in the thirteenth century, William of Auvergne (c.1180–1249) had in effect identified the agent intellect with God (*The Soul* 7.6; cf. Gilson 1926–27, pp.67–72)[^gilson-1926]. Such cases illustrate how the various medieval disputes over whether human beings might share a single intellect — so absurd on their face — are in fact simply alternative formulations of the dispute over divine illumination. But there were subtle differences among the various approaches. So whereas Auvergne largely turns his back on Aristotle, Marston is more accommodating. In addition to the divine agent intellect, he allows that each human being possesses its own agent intellect.
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      On Marston’s account, Aristotle and Augustine turn out to be entirely in harmony: each uses his own terminology to defend the same theory of divine illumination (*De anima* 3, p. 258). Étienne Gilson (1933) has characterized Marston’s position as an Avicennized Augustinianism (*Augustinisme avicennisant*). But this label prejudices the case in favor of Aquinas’s perspective: it assumes that Marston has been seduced by an Islamic misreading of Aristotle, and it closes off the possibility that Augustine and Aristotle might have more in common than is typically allowed.
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      The case of Peter John Olivi (1247/8–1298) demonstrates how precarious a position the illumination theory held by the 1280s. Olivi, a Franciscan whose work would eventually be condemned by his own order, presents a compelling critique of the Augustinian illumination theory (*I Sent*., q. 2), presenting his comments in the form of “cautions” (*cavenda*). The theory, he notes, is often very vague with respect to the actual process of illumination. And in running through the various possible accounts of the process available to a defender of the theory, Olivi appears to rule out every one. The eternal reasons cannot represent things distinctly and specifically, because then we would have no need of any sensory input. But if the eternal reasons give us information only of a general and indistinct sort, then at what level of generality? Does it supply us with information about species, or genera? If divine illumination is efficacious at any level, why do we seem to need the senses for all of our concepts? Olivi’s questions and cautions go on and on. But after laying an entire minefield of this sort for anyone who would defend divine illumination — at ad 6 he rejects the Augustinian argument set out above by Bonaventure — he nevertheless comes to the surprising conclusion that he accepts the theory:
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      > These things, since I don’t know how to analyze them fully, I set out only as cautions. For although the stated position is in itself venerable (*sollemnis*) and sensible, it could nevertheless be quite dangerous to those who are not carefully supervised. And so I hold the stated position as it is, because it belongs to men who are highly venerable. Nevertheless I leave an exposition of the above to their wisdom (q. 2, pp. 512–13).
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      This was a favorite strategy of Olivi’s: to criticize a theory fiercely, exposing seemingly devastating difficulties, and then to embrace the theory anyway, as a pious gesture of respect. It’s hard to resist reading between the lines, and concluding that dusk was fast approaching for the theory of divine illumination.
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      ## 5. Thomas Aquinas
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      Thomas Aquinas is often thought of as the figure most responsible for putting an end to the theory of divine illumination. Although there is some truth to this view, as we will see, it seems more accurate to regard Aquinas as one of the last defenders of the theory, as a proponent of innate Aristotelian illumination.
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      A vivid example of the way Aquinas moves from an Augustinian to an Aristotelian framework occurs in his Treatise on Human Nature (*Summa theologiae* 1a 75–89), where he considers the Augustinian claim that “pure truth should not be looked for from the senses of the body” (84.6 obj. 1). In reply, Aquinas invokes the Aristotelian agent intellect:
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      > From those words of Augustine we are given to understand that truth is not *entirely* to be looked for from the senses. For we require the light of agent intellect, through which we unchangeably cognize the truth in changeable things, and we distinguish the things themselves from the likenesses of things (ad 1).
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      It is not at all clear, here or elsewhere, how the agent intellect carries out the two tasks he describes. (If Aquinas had given us a satisfactory account of this, he would have thereby solved two of the leading problems of epistemology.) But for present purposes it is enough to notice how Aquinas seems to replace Augustinian illumination with the Aristotelian agent intellect. Thus the traditional verdict has been that Aquinas replaced Augustine with Aristotle, and exchanged illumination for abstraction.
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      There is more to the story. In the immediately preceding article, Aquinas explicitly discusses Augustinian divine illumination, and reaches the affirmative conclusion that “the intellective soul does cognize all true things in the eternal reasons” (84.5sc). Often this affirmative conclusion gets treated as little more than lip service to the authority of Augustine, and the article as a whole gets taken as a backhanded repudiation of illumination theory: affirming the theory in form but denying it in substance. This is a misreading. Aquinas sees something important in Augustine’s theory, something worth preserving.
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      Aquinas does reject certain conceptions of divine illumination. He denies that human beings in this life have the divine ideas as an *object* of cognition. And he denies that divine illumination is sufficient on its own, without the senses. Neither of these claims was controversial. What Aquinas further denies, and what was controversial, was the claim that there is a special ongoing divine influence, constantly required for the intellect’s operation. Aquinas instead argues that human beings possess a sufficient capacity for thought on their own, without the need for any “new illumination added onto their natural illumination” (*Summa theol*. 1a2ae 109.1c). From one perspective this makes for an important difference between Aquinas and his Franciscan contemporaries. But from another perspective the difference seems slight, because Aquinas is by no means removing God from the picture. Here is how he expresses his endorsement of illumination theory:
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      > It is necessary to say that the human soul cognizes all things in the eternal reasons, through participating in which we cognize all things. For the intellectual light that is in us is nothing other than a certain likeness of the uncreated light, obtained through participation, in which the eternal reasons are contained. Thus it is said in Psalm 4, *Many say, Who shows us good things?* To this question the Psalmist replies, saying *The light of your face, Lord, is imprinted upon us*. This is as if to say, through that seal of the divine light on us, all things are shown to us (*Summa theol*. 1a 84.5c).
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      There is some temptation to take all of this simply as an expression of Aquinas’s more general view that God is the first cause of all things. He writes, for instance,
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      > *All* active created powers operate in virtue of being directed and moved by the Creator. So it is, then, that in all cognition of the truth, the human mind needs the divine operation. But in the case of things cognized naturally it does not need any new light, but only divine movement and direction (*In de trinitate* pro. 1.1c).
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      Here there seems to be nothing special about the intellect’s need for illumination. The intellect, like all of nature, needs God as its first mover. If you like, think of this as divine illumination. But viewed under this aspect, it is no wonder the theory was controversial. While his Franciscan contemporaries were insisting on a special role for God in human cognition, Aquinas seems to move as far in the opposite direction as his theism would permit.
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      But passages of this last kind are misleading, because Aquinas does see something especially mysterious about human cognition, and he appeals to God as a way of solving this mystery. The agent intellect, on Aquinas’s view, accounts for our capacity to grasp self-evident truths. We have an immediate and direct grasp of the truth of first principles, such as the principle of noncontradiction (see, e.g., *Summa contra Gentiles* II.83.1678). We do not infer the truth of this principle, we do not discover that it is true through any kind of induction. Instead we simply see its truth, as soon as we are confronted with an instance where it applies. This is not innate knowledge; we are not born knowing these principles. What we are born with is the capacity to recognize their truth as soon as we are confronted with instances of them. These first natural conceptions are “the seeds of all the things that are subsequently cognized” (*De veritate* 11.1 ad 5). In this sense, Aquinas is even willing to speak of the soul’s having a prior knowledge of everything that it knows:
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      > The soul forms in itself likenesses of things inasmuch as, through the light of agent intellect, forms abstracted from sensible objects are made actually intelligible, so as to be received in the possible intellect. *And so, in a way, all knowledge is imparted to us at the start*, in the light of agent intellect, mediated by the universal concepts that are cognized at once by the light of agent intellect. Through these concepts, as through universal principles, we make judgments about other things, and in these universal concepts we have a prior cognition of those others. In this connection there is truth in the view that the things we learn, we already had knowledge of (*De veritate* 10.6c).
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      Because all of what we know can be traced back to these fundamental principles, there is a sense in which everything we learn, we already knew. An innate grasp of certain basic truths, recognized by the light of agent intellect, plays a crucial, foundational role.
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      The light of agent intellect is of course given to us from God — “a certain likeness of the uncreated light, obtained through participation” (1a 84.5c). Without appealing to God, Aquinas sees no way of explaining how we recognize the truth of first principles. Neither deductive nor inductive reasoning can account for the way in which we immediately *see* that such principles are true. This insight, then, is simply something we are given:
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      > The light of this kind of reason, by which principles of this kind are known to us, is imparted to us from God. It is like a likeness of the uncreated truth reflecting in us. So, since no human teaching can be effective except in virtue of that light, it is clear that it is God alone who internally and principally teaches us (*De veritate* 11.1c).
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      The light of agent intellect, a likeness of the divine ideas, is the essential starting point for all knowledge.
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      Aquinas agrees with his Franciscan contemporaries that intellective cognition is incomplete without some sort of supernaturally infused insight. The only difference is that Aquinas wants that insight to be given all at once, from the start — bottled up within agent intellect, as we might think of it. His opponents, in contrast, think of illumination as an ongoing process, as necessary as the air we breathe. It is easy to see how, at the time, this difference might have seemed important. But from our present perspective the differences seem rather slight: they seem to be arguing simply over the means of transmission. Aquinas conceives of illumination as a deep well within us, whereas the Franciscans conceived of it as raining down in drops. (This is a summary of the account in Pasnau 2002, Chapter 10.)[^pasnau-2002][^pasnau-2002-2]
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      ## 6. Henry of Ghent
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      Although in a sense Thomas Aquinas defends a version of divine illumination, he in another sense clearly weakens the theory by giving it the status of an innate gift rather than ongoing patronage. In making for the agent intellect a central place in his theory of cognition, Aquinas has less room for illumination. As the thirteenth century progressed, philosophers and theologians were increasingly willing to make this tradeoff. While the Aristotelian theory of cognition waxed, the Augustinian theory of divine illumination waned. To combine the two seemed, in the words of Étienne Gilson (1930), “unproductive and even, in a sense, contradictory.”
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      It is this seemingly contradictory task that Henry of Ghent (c.1217–1293) took upon himself in the years immediately after Aquinas’s death. When Peter John Olivi remarked that he would accept the theory of illumination because it “belongs to men who are highly venerable” (sec. 4 above), he would have had in mind among others Henry of Ghent, who would indeed become known as the “Venerable Doctor” (*Doctor solemnis*). Ghent was neither Dominican nor Franciscan, but a so-called “secular” master at the University of Paris. His project was to defend an Aristotelian theory of cognition while at the same time reviving divine illumination in its traditional Augustinian form. To those, like Aquinas, who were arguing for the self-sufficiency of the human cognitive powers, Ghent replies,
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      > this is true for natural things, as regards knowing what is true of the thing…. Pure truth, however, or any truth that must be cognized supernaturally, or perhaps any truth at all, cannot be known without God himself doing the teaching (*Summa* 1.7 ad 1).
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      On Ghent’s terminology, to know what is *true* of a thing is simply to have a veridical impression of it: to represent a thing as it is. To grasp the *truth* of a thing, in contrast, is to grasp its nature. Only this latter sort of cognition counts as knowledge in the strict sense, because only here are we getting at the unchanging reality of the material world.
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      > For there is no knowledge of things insofar as they are external in effect, but insofar as their nature and quiddity is grasped by the mind (*Summa* 2.2 ad 1).
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      For knowledge of this kind, divine illumination is necessary.
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      Ghent’s argument is interestingly different from that of Augustine and his Franciscan followers. Whereas they had dismissed the physical world as too changeable to be a fit subject for human knowledge, Ghent believes that pure truth and certain knowledge can be had of the physical world, provided we manage to grasp the real essences of things. Since we cannot do so on our own, we need divine illumination to go beyond sensory appearances, to have genuine insight into the nature of reality. At its most basic level, Ghent is offering a critique of the agent intellect. Although he accepts the doctrine of agent intellect, he refuses to give that faculty the kind of efficacy that it has for Aquinas and other medieval Aristotelians. Not surprisingly, Ghent proposes reviving the earlier thirteenth-century tradition of referring to God himself as a kind of agent intellect (*Quodlibet* 9.15). The way Ghent would synthesize Augustine and Aristotle, in this area, is by identifying those aspects of Aristotle that are incomplete and supplementing them with the necessary Augustinian illumination. (This is a summary of the account in Pasnau 1995. All of Henry’s important initial article from his *Summa* on the possibility of knowledge is now available in a translation from Roland Teske.)[^pasnau-1995]
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      ## 7. John Duns Scotus
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      It was the Franciscan John Duns Scotus, more than anyone else, who put an end to the theory of divine illumination. As Steven Marrone (2001) has shown in detail, there were various authors at the end of the thirteenth century who were ready to reject illumination. Indeed, Ghent himself gave illumination less and less attention in his later years. Still, it was Scotus who provided the most impressive and extensive philosophical alternative to illumination theory. (As John Boler remarked in correspondence, “as with Nixon’s trip to China, it probably could only be done by a Franciscan.” On the story from Bonaventure through Scotus see Adams 2022.)[^adams-2022] Scotus criticizes Ghent’s argument in detail (*Ordinatio* I.3.1.4), arguing against Ghent’s own arguments, against the skeptical consequences that would allegedly come from giving up divine illumination, and against the viability of such illumination in its own right. With respect to the last point, Scotus argues that if human cognition were fallible in the way Ghent argues, then outside illumination could not, even in principle, ensure “certain and pure knowledge.” On Ghent’s account, the human mind cooperates with the divine light in achieving such knowledge. Scotus replies:
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      > When one of those that come together is incompatible with certainty, then certainty cannot be achieved. For just as from one premise that is necessary and one that is contingent nothing follows but a contingent conclusion, so from something certain and something uncertain, coming together in some cognition, no cognition that is certain follows (*Ordinatio* I.3.1.4 n. 221).
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      If one part of a system is fallible, then that fallibility infects the process of a whole. Scotus’s startling claim is that if the human mind were intrinsically incapable of achieving certain knowledge, then not even divine illumination could save it.
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      Scotus’s own view is that the human mind is capable of such knowledge on its own. If by “certain and pure truth” Ghent means “infallible truth, without doubt and deception,” then Scotus thinks he has established that human beings “can achieve this, by purely natural means” (*Ord*. I.3.1.4 n. 258). How *can* such a thing be established? How can the skeptic be refuted, without appealing to divine illumination? Scotus distinguishes four kinds of knowledge:
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      - self-evident (*principia per se nota*)
+      - inductive (*cognita per experientiam*)
+      - introspective (*cognoscibilia de actibus nostris*)
+      - sensory (*ea quae subsunt actibus sensus*)
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      The general strategy is to show that sensory knowledge rests on inductive knowledge, that inductive knowledge rests on self-evident knowledge, and that introspective knowledge can be defended as analogous to self-evident knowledge. Scotus’s implicit aim is to shift as much weight as possible onto the broad shoulders of self-evident knowledge.
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      For Scotus, the self-evident is the bedrock on which other sorts of knowledge rest, and so he does not attempt to locate some further set of even more basic truths. Instead, he argues that our self-evident knowledge is foolproof because of certain psychological facts. When one considers a proposition like *Every whole is greater than its part*, one immediately grasps that the terms are related in such a way that the proposition must be true:
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      > There can be in the intellect no apprehension of the terms or composition of those terms without the conformity of that composition to the terms emerging (*quin stet conformitas*), just as two white things cannot arise without their likeness emerging (*Ord*. I.3.1.4 n. 230).
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      When we see two white objects we immediately grasp, “without doubt and deception,” their similarity to one another. Likewise, when we grasp a self-evident truth in our mind, we immediately grasp its truth. Of course, we won’t grasp the truth of the proposition if we don’t understand the meaning of the terms, but in that case we won’t have truly formed the proposition in our mind. And in contrast to the analogous case of recognizing similarity, there is no room for sensory error here. The senses help us acquire certain concepts, but once we have those concepts, the senses drop out of the picture — sensory reliability becomes irrelevant. Scotus offers the example of a blind man miraculously shown in his dreams an image of black and white. Once he acquires these concepts, he can recognize as truly and infallibly as anyone — his blindness notwithstanding — that white is not black (*Ord*. I.3.1.4 n. 234).
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      Scotus is unwilling to discard Augustinian illumination entirely, and so he articulates four senses in which the human intellect sees infallible truths in the divine light. In each sense, the divine light acts not on us but on the objects of our understanding. By giving objects their intelligibility (*esse intelligibile*), the divine intellect “is that in virtue of which secondarily the objects produced move the intellect in actuality” (*Ord*. I.3.1.4 n. 267). When the human mind grasps a self-evident truth, it does so immediately and infallibly not because the mind has received any special illumination, but because the terms of the proposition are themselves intelligible: our grasp of a proposition “seems to follow necessarily from the character of the terms, which character they derive from the divine intellect’s causing those terms to have intelligible being naturally” (*Ord*. I.3.1.4 n. 268). It is not that we are illuminated by the divine light, but that the truth we grasp is illuminated.
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      This marks a turning point in the history of philosophy, the first great victory for naturalism as a research strategy in cognitive theory. On Scotus’s account, when we grasp some conceptual truth, nothing miraculous or divine happens within us: “the terms, once apprehended and put together, are naturally suited (*sunt nati naturaliter*) to cause an awareness of the composition’s conformity with its terms” (*Ord*. I.3.1.4 n. 269). It is of course God that gives the world its intelligibility, just as it is God that creates our cognitive powers. But what is new in Scotus is the idea that the mind is not a special case. From this point forward, divine illumination would rarely be regarded as a serious philosophical possibility.
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      ## 8. Epilogue
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      It is easy to miss the significance of what Scotus brought about: in part because it now seems so inevitable, in part because Scotus comes at the end of a gradual trend toward naturalism, and in part because until only recently it was generally supposed that nothing of much philosophical importance happened between Aristotle and Descartes. Yet if one looks at the big picture of our evolving philosophical/scientific understanding of the mind, then it is clear that something important happened at the end of the thirteenth century.
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      Still, Scotus’s impact should not be overstated. Although divine illumination, so called, would no longer have many prominent supporters, the tendency toward supernatural explanations of cognitive phenomena would survive well beyond the Renaissance. Descartes, to take one prominent example, can speak of “certain seeds of truth which are naturally in our souls” (*Discourse on Method* 6, AT VI:64), and of “ideas implanted in the intellect by nature” (*Principles of Philosophy* 2.3). In its details, the view is strikingly similar to Aquinas’s: Descartes identifies these ideas as the basis of our knowledge of first principles; he holds that the ideas themselves are formed only in virtue of sensory impressions; he identifies God as the ultimate source of these ideas. Moreover, if Descartes is playing Aquinas, in modern dress, then as Henry of Ghent we can cast Malebranche, who argues that “All our ideas must be located in the efficacious substance of the Divinity, which alone is intelligible or capable of enlightening us, because it alone can affect intelligences” (*Search after Truth*, p. 232). Malebranche’s remarkable view — in support of which he quotes Augustine — is that all our ideas are seen in God. This is illumination theory, all over again. But by the seventeenth century the philosophical context has changed so dramatically that these modern developments must be regarded as a different topic.
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: oir
+    source: |-
+      - [Corpus Thomisticum](http://www.corpusthomisticum.org/). The best place to go for scholarly information about Thomas Aquinas.
+      - [Provisionalia](https://www.colorado.edu/project/provisionalia/). An attempt at an exhaustive survey of medieval scholastic authors and their works, including information on editions and translations.
+      - [Medieval Philosophy Digital Resources](https://siepm-digitalresources.bc.edu/). A collection of much useful information on Internet resources for medieval philosophy.
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: ack
+    source: |-
+      This entry has benefited greatly from suggestions by Marilyn Adams, Jenny Ashworth, John Boler, Peter King, Gyula Klima, Neil Lewis, Tim Noone, Sarah Pessin, Christopher Shields, and John Wippel.
+    step1: TBD
+    step2: TBD
