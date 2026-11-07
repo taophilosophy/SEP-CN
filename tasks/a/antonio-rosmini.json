@@ -2,8 +2,44 @@
   "slug": "antonio-rosmini",
   "kind": "retranslate",
   "zh_doc": "a/antonio-rosmini.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T05:51:39Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T07:23:33Z",
+      "evidence": "初译：零信任直译自 yuanwen（2015-05-15 修订版），三分片组装（H1+pubinfo+导语+正文 9 节含 18 小节+参考文献区+尾节+致谢；参考文献区按 biology-philosophy 家法照录：缩写表与四类书目逐字保留、四个分类标题汉化、转换器重复说明行与同名标题去重；defs 2 条（-nd 散文型缩写注）照录）；正文 12633 汉字"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T07:23:34Z",
+      "evidence": "一校（准确性）：五维对账——H2 13/13（9 正文+4 尾节）、H3 25:24（源文 ### References（引用注释）为转换器重复标题，按去重规则丢弃 -1，其余 24 项逐一对应：18 正文小节+4 书目分类+致谢）、脚注标记正文 0:0（两条 -nd 为无引用裸定义）、defs 键集 2/2 全等、段落 70:68（byline 家法豁免 -1、重复说明行去重 -1）、年份 58:61（+3 全为假差：源 1826–28 缩写区间中文全形展开、1830s/1840s 对“1830 年代/1840 年代”词边界）；伪标记 [^key] 2:1 与说明行去重同源；七处引文块（《说明》引文、罗斯米尼自述两段、汉密尔顿引文、但丁句等）逐句核对"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T07:26:10Z",
+      "evidence": "二校（语言）：check_prose 52→19——两轮实修 37 处（script/fix_rosmini_s2.py 逐条断言 30 处+补修 7 处）：长句拆分 9、弱动词 10（作出/加以/予以 改写）、被动改写 5、叙述 de-chain 12；余 19 条豁免留痕：引文块内部 5（罗斯米尼自述两段长句、《说明》引文、汉密尔顿引文、神智学引文）、术语性确定性定语 13（“被认知的存在”=being as known、上帝的存在是可理解存在之存在的必要条件、书名内结构、概念所含的本质等，ADR-0020）、正则误报 1"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T07:26:15Z",
+      "evidence": "三校（体例）：check_style --strict 0（一次成型）；check_math 0；check_academic --strict 0 硬错误；check_render_artifacts 0；check_terms 硬错误 0（一次瞬时自洽告警系并行会话编辑词汇表，复跑归零）；正文“波那文图拉”对齐既有登记形“波纳文图拉”，库桑/汉密尔顿首现补全名；人名 6 行/术语 11 行登记"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:37:11Z",
   "version_pin": {
