@@ -2,7 +2,7 @@
   "slug": "neoplatonism",
   "kind": "retranslate",
   "zh_doc": "n/neoplatonism.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "LMN-main-20261107",
       "at": "2026-11-07T08:58:20Z",
       "evidence": "check_academic --strict 硬错误 0；术语登记 8 行（四枢德/神化/巨匠造物主/回返/小宇宙/流溢进程/第一者/善）并对 nous-phusis-consciousness 既存行补本词条用法注；人名登记 13 行（阿摩尼乌斯·萨卡斯、巴西尔、贝萨里翁、达马斯基乌斯、纳齐安与尼撒的格列高利、杨布里科斯、爱留根纳、查士丁尼、努梅尼乌斯、斯特凡努斯、德日进、蒂迈欧）；OIR 两条链接 ASCII 括号闭合"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LMN-main-20261107",
+      "at": "2026-11-07T09:51:25Z",
+      "evidence": "机检五维全等：节 H2 12=12/H3 2=2、defs 33=33、marker 34=34、年份 17 项全等、粗体缩写不适用；粗体 2→12 与星号 116→100 为既定转换（斜体转粗 3 行、compose 两处样板加粗、书名号），汉字-拉丁-汉字残留 0"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LMN-main-20261107",
+      "at": "2026-11-07T09:51:25Z",
+      "evidence": "check_prose 0、check_style --strict 0、check_math 0；数字差异零；术语 8 行加注 3 行、人名 13 行已登记入库（并行会话 9e6f51d7 收编，内容核对无覆盖）；OIR 两条照录链接闭合"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LMN-main-20261107",
+      "at": "2026-11-07T09:51:26Z",
+      "evidence": "终检四道：style --strict 0 / academic --strict 0 硬错误 / math 0 / summary 0；check_all 7 项全绿；成稿 148 行 8 节，References 现制形态（照录注记+两子节）与源同构"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LMN-main-20261107",
+      "at": "2026-11-07T09:51:26Z",
+      "evidence": "done：九步齐（clear/draft/s1/s2/s3/r1/r2/r3/done），账本 43 段 step2 全填、成稿 4 检全绿；N 批首条 done"
     }
   ],
   "blockers": [],
