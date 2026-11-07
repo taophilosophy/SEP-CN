@@ -2,8 +2,44 @@
   "slug": "albo-joseph",
   "kind": "retranslate",
   "zh_doc": "a/albo-joseph.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T01:20:48Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T02:31:36Z",
+      "evidence": "初译：零信任直译自 yuanwen（2024-04-14 修订版），四分片组装（H1+pubinfo+导语+正文 8 节含 4.1/4.2+尾节四节；References（引用注释）型：说明行保留、两空 ### 分类节丢弃、defs 61 条逐字照录）；其他网络资源 1 条实链接译出；正文 7732 汉字"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T02:35:21Z",
+      "evidence": "一校（准确性）：五维对账——H2 节 12/12（8 正文+4 尾节）、H3 4:2（4.1/4.2 全对应；源文两空 ### 分类节按家法丢弃）、脚注标记多重集 67:67 全等（转换器伪标记 [^key] 1:1）、defs 键集 61/61 全等、段落 43:42（差 1=byline 设计豁免）、年份序列 147:147 逐位全等；两条引文块（社会目标/理论目标）与四处带引号定义核对源文"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T02:35:22Z",
+      "evidence": "二校（语言）：check_prose 14→11——长句拆分 1（预言理论两来源句）、弱动词 1（加以汇合→汇合而成）、de-chain 2（十三信条句/神法原则句重写），共实修 3 处（逐条断言）；余 11 条豁免留痕：术语性 de-chain 10（人的完善/摩西的预言/传信者的可信性/神性（不变）的完善等概念性定语，ADR-0020）+ 弱动词误报 1（正则命中“授予以色列民族”中的“予以”，非弱动词）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T02:35:24Z",
+      "evidence": "三校（体例）：check_style --strict 0（首轮 2 处 italic-cjk 已转加粗）；check_math 0；check_academic --strict 0 硬错误；check_render_artifacts 0；check_terms 硬错误 0、定点告警 1（Helmholtz 行首现字段误填路径属全库既存噪声，与本词条无关）；术语登记 10 行、人名 19 行"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:44Z",
   "version_pin": {
