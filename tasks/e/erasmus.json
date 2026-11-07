@@ -2,7 +2,7 @@
   "slug": "erasmus",
   "kind": "retranslate",
   "zh_doc": "e/erasmus.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "?",
       "at": "2026-11-03T19:46:38Z",
       "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 41 豁免留痕见 s2；人名 35 条登记 ren-ming-biao.md（伊拉斯谟/路德/莫尔/瓦拉/弗罗本等）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T02:34:37Z",
+      "evidence": "r1 结构核销：10/14 节——缺 4 个为源参考文献内部子标题（Erasmus' Works/Other Primary Works/Biographies/Secondary Works），随 refs 脚注化合并，77 个条目键全等、无重复定义，登记于 qa-findings §6 同类转换器债；年份差 '1490/1520' 为源所有格（1490s/1520s→'1490 年代'），核为无缺；CWE/ASD/LB/Ep. 编号与 *docta pietas*/*Ad fontes*/*Monachatus non est pietas* 等拉丁语逐字符核对"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T02:34:38Z",
+      "evidence": "r2 句级复读：prose 41→15（拆 3 处长句、去'的'链 20 处、弱动词 2 处）；余 15 条豁免——整段引文（段 29/89/163 伊拉斯谟原文，忠实引文优先）、引语内短语（段 79/95/115）、术语叠加轻度密度"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T02:34:40Z",
+      "evidence": "r3 终检：check_style 0 issue、check_academic --strict OK；结构完整（6 节+尾节）；转换器债已登记 qa-findings §6"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T02:34:40Z",
+      "evidence": "终稿验收：六道全过；豁免 15 条逐类留痕（引文/引语/轻度密度）"
     }
   ],
   "blockers": [],
