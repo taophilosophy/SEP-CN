@@ -2,7 +2,7 @@
   "slug": "arabic-islamic-phil-math",
   "kind": "retranslate",
   "zh_doc": "a/arabic-islamic-phil-math.md",
-  "state": "s3_checked",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,20 @@
       "actor": "A-main-20261108",
       "at": "2026-11-07T17:06:51Z",
       "evidence": "学术挂钩通过；术语 33 行+人名 18 行登记同批提交（wahm/awwalīyāt/fiṭrīyāt/三论证/nafs al-ʾamr 等；Thābit/al-Qūhī/朱尔加尼等）；同键异译归一：苏哈拉瓦迪→苏赫拉瓦尔迪×4、卡提比·加兹维尼→卡提比·卡兹维尼×2、阿布哈里→阿卜哈里×1"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-07T17:40:12Z",
+      "evidence": "全文回读完成：7 处引文块逐块核对、2.3/2.4 与 defs 照录区抽读（suhrawardī-1999 eds/、gutas-2001 Wisnovsky 2001: 等源文瑕疵照录不动）；发现 3 漏网人名（易卜拉欣·伊本·西南/西吉齐/萨马瓦尔）与术语 taḥlīl 转入 r2 补登"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-07T17:40:12Z",
+      "evidence": "补登 3 人名+1 术语（taḥlīl 分析）；勘误 tarkīb 译法为综合（synthesis）与伊吉全名（阿杜德丁·伊吉）；删除与既有 677 行重复的 mutakallimūn 行（同键先登优先：凯拉姆学者）"
     }
   ],
   "blockers": [],

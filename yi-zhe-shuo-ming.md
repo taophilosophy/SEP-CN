@@ -1109,6 +1109,7 @@
 | aʿrāḍ | اعراض | 偶性（亚里士多德-阿维森纳 accident） | arabic-islamic-phil-math | 学界通行 | 2026-11-08 |
 | ashyāʾ | اشياء | 事物（法拉比-阿维森纳一般事物存在论语境） | arabic-islamic-phil-math | 译名裁定（things 通用） | 2026-11-08 |
 | awhan | اوهن | 比蛛网还脆弱的（《古兰经》29:41 蛛网之喻） | arabic-islamic-phil-math | 译名裁定（Q 29:41 直译） | 2026-11-08 |
+| taḥlīl | تحلیل | 分析（analysis；与综合 tarkīb 对举） | arabic-islamic-phil-math | 学界通行 | 2026-11-08 |
 | al-uṣūl al-mutaʿārafa | — | 共同概念／公理（common notions/axioms；欧几里得传统对译） | arabic-islamic-phil-math | 译名裁定（common notion 对译） | 2026-11-08 |
 | al-uṣūl al-mawḍūʿa | — | 假设（hypotheses；欧几里得传统对译） | arabic-islamic-phil-math | 译名裁定（hypothesis 对译） | 2026-11-08 |
 | mufāriq | مفارق | 分离的（非物质分离；separate/immaterial） | arabic-islamic-phil-math | 学界通行（阿拉伯逻辑-形而上学文献） | 2026-11-08 |
@@ -1119,9 +1120,8 @@
 | yaqīnī | یقینی | 确然的（yaqīn 确信；certain） | arabic-islamic-phil-math | 译名裁定（certain；朱尔加尼语境） | 2026-11-08 |
 | taʿārīf | تعاریف | 定义（definitions；与 ḥudūd 界定同义连用） | arabic-islamic-phil-math | 学界通行 | 2026-11-08 |
 | qiyāsāt | قیاسات | 三段论（syllogisms 复数；与 qiyās 类比推理行按语境区分） | arabic-islamic-phil-math | 译名裁定（Mousavian & Ardeshir 2018 语境） | 2026-11-08 |
-| tarkīb | ترکیب | 组合（与分析对举；combining） | arabic-islamic-phil-math | 译名裁定（composition） | 2026-11-08 |
+| tarkīb | ترکیب | 综合（synthesis；图像构造语境亦作“组合”） | arabic-islamic-phil-math | 译名裁定（composition） | 2026-11-08 |
 | ʿamalī / naẓarī | عملی／نظری | 应用的／理论的（法拉比数学之分） | arabic-islamic-phil-math | 译名裁定（practical/theoretical） | 2026-11-08 |
-| mutakallimūn | متکلمون | 教义学家（凯拉姆学者；本条源文笔误作 mutikallimūn 照源直译） | arabic-islamic-phil-math | 学界通行 | 2026-11-08 |
 | anti-realism | — | 反实在论（antirealism 异形） | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | mysticism | — | 神秘主义 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | compatibilism | — | 相容论（亦作“相容主义”） | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |

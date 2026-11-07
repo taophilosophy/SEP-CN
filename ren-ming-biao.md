@@ -883,7 +883,7 @@
 | Ḥabīb ibn Bahrīz | — | 哈比卜·伊本·巴里兹 | 摩苏尔／叙利亚-阿拉伯翻译家 | d. c. 820 | arabic-islamic-phil-math | 音译（9 世纪初摩苏尔主教，尼科马霍斯《算术引论》叙利亚文译者） | 2026-11-08 |
 | al-Ḥillī / al-Ḥasan ibn Yūsuf al-Ḥillī | — | 希利 | 希勒（伊拉克）／十二伊玛目派教义学 | 1250–1325 | arabic-islamic-phil-math | 音译（al-Ḥillī 希勒人氏之称；学界无统一汉名） | 2026-11-08 |
 | Thābit ibn Qurra | ثابت بن قرة | 萨比特·伊本·库拉 | 哈兰／翻译家、数学家 | 826–901 | arabic-islamic-phil-math | 学界通行 | 2026-11-08 |
-| al-Ījī / ʿAḍud al-Dīn al-Ījī | — | 伊吉 | 波斯（伊吉）／伊斯兰教义学 | 1281–1355 | arabic-islamic-phil-math | 音译（*Al-Mawāqif* 作者；学界无统一汉名） | 2026-11-08 |
+| al-Ījī / ʿAḍūd al-Dīn al-Ījī | — | 伊吉（全名阿杜德丁·伊吉） | 波斯（伊吉）／伊斯兰教义学 | 1281–1355 | arabic-islamic-phil-math | 音译（*Al-Mawāqif* 作者；学界无统一汉名） | 2026-11-08 |
 | Sayyid al-Sharīf al-Jurjānī | — | 赛义德·谢里夫·朱尔加尼 | 波斯（朱尔扬）／教义学与语义学 | 1340–1413 | arabic-islamic-phil-math | 音译（学界无统一汉名） | 2026-11-08 |
 | Kātibī al-Qazwīnī / Najm al-Dīn al-Kātibī | — | 卡提比·卡兹维尼 | 卡兹温（波斯）／逻辑学 | d. 1276（一说 1277） | arabic-islamic-phil-math | 音译（沿用 al-khunaji 成品定译；《灵魂之智》Ḥikmat al-ʿayn 作者；卒年两说系两词条各照其源；本条“加兹维尼”已回改归一） | 2026-11-08 |
 | al-Khwārizmī | — | 花拉子米 | 花剌子模／代数学 | c. 780–850 | arabic-islamic-phil-math | 学界通行 | 2026-11-08 |
@@ -892,6 +892,9 @@
 | al-Nayrīzī | — | 奈里齐 | 波斯（奈里兹）／欧几里得评注家 | d. c. 922 | arabic-islamic-phil-math | 音译（学界无统一汉名） | 2026-11-08 |
 | al-Qūhī / Abū Sahl al-Qūhī | — | 阿布·萨赫尔·库希 | 波斯（库希斯坦）／数学家 | d. c. 1000 | arabic-islamic-phil-math | 音译（10 世纪数学家-天文学家；学界无统一汉名） | 2026-11-08 |
 | al-Shahrastānī | — | 舍拉斯塔尼 | 波斯（舍拉斯坦）／教义学史家 | 1086–1153 | arabic-islamic-phil-math | 音译（学界无统一汉名） | 2026-11-08 |
+| Ibrāhīm ibn Sinān | — | 易卜拉欣·伊本·西南 | 巴格达／数学家（萨比特·伊本·库拉之孙） | 908–946 | arabic-islamic-phil-math | 音译（“西南”形与阿维森纳“伊本·西那”区分；学界无统一汉名） | 2026-11-08 |
+| al-Sijzī | — | 西吉齐 | 锡吉斯坦／几何学家 | fl. 10 世纪（约卒于 1020 照源） | arabic-islamic-phil-math | 音译（学界无统一汉名） | 2026-11-08 |
+| al-Samawʾal | — | 萨马瓦尔 | 巴格达（犹太教改宗伊斯兰）／代数学家 | c. 1130–1180 | arabic-islamic-phil-math | 音译（*al-Bāhir fī al-jabr* 作者；学界无统一汉名） | 2026-11-08 |
 | Thomas Aquinas | — | 托马斯·阿奎那 | — | — | 语料回收（全目录）、leibniz-evil | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | David Hume | — | 大卫·休谟 | — | — | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | William James | — | 威廉·詹姆斯 | — | — | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
