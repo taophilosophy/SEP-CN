@@ -2,8 +2,44 @@
   "slug": "colonialism",
   "kind": "retranslate",
   "zh_doc": "c/colonialism.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T07:00:58Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "C-main-20261107",
+      "at": "2026-11-07T10:34:14Z",
+      "evidence": "账本流水线（lq）：51 段双版 step1/step2 反思两步逐段填录（script/c_fill_col1-5.py 五批，幂等+id 定位+TBD 守卫），lq check 守恒门过（source 逐字符一致、脚注键计数硬门），compose --write 组装 24459 字符（H1+pubinfo+6 节+References 引用注释说明+学术工具+OIR+相关词条+致谢+47 defs 照录），正文约 1.28 万汉字"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "C-main-20261107",
+      "at": "2026-11-07T10:38:11Z",
+      "evidence": "逐段对照 yuanwen 核销+五维对账：marker 63:63 顺序全等（young-2001/williams-1990/kohn-2006/pitts-2005/mccarthy-2009/tocqueville-1841×2/tocqueville-1837/robinson-2000/ahmad-1997/wallerstein-1974/mcclintock-1992/wolfe-1999 全链照录）；defs 47:47 键集全等照录；年份 172:170 差 2=1850s/1950s 中文全形展开（体例豁免非错译）；引注组逐段对齐（账本 compose 天然对位，无 james-mill 式段号漂移）；拉丁语 colonus/imperium/terra nullius 照录斜体；书名 12 种中译+括注原形；相关词条 10 项汉化"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "C-main-20261107",
+      "at": "2026-11-07T10:42:46Z",
+      "evidence": "prose 实修 28→3（script/c_prose_colonialism.py 幂等 SUBS 28 条全命中+1 追加）：拆长句 14（71-102 字阈值线拆分）、消冗余『的』12、改被动 2（『被建构与被抵抗』『被当作/被视为』）；豁免 3 留痕=行 50/60/88 学理密集段必要属格与列举项（『对土地的剥夺』等概念性定语，ADR-0020）；check_style --strict 0 issue、check_academic --strict 无硬错误、check_math 无 unbalanced"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "C-main-20261107",
+      "at": "2026-11-07T11:00:49Z",
+      "evidence": "三校收口：登记册增补人名 30 行（Tocqueville/Fanon/Said/Spivak/Wallerstein/Las Casas/Victoria IV/Innocent IV 等，现代学者按 ADR-0022 判据）+ 术语 20 行（定居者殖民主义/后殖民理论/去殖民化/东方主义/庶民研究/万民法/terra nullius/买办资产阶级/satyagraha/ahimsa/扎根规范性等）；check_terms 硬错误 0（本批新增两行缺原文列已补）；check_all 七项待复跑"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:06Z",
   "version_pin": {
