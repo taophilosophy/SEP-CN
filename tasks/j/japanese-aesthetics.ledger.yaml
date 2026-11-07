@@ -1,0 +1,700 @@
+version: 1
+slug: japanese-aesthetics
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Although the Japanese have been producing great art and writing about it for many centuries, including a rich tradition of poetics going back a millennium, the philosophical discipline in Japan corresponding to Western “aesthetics” did not get underway until the nineteenth century. A good way to survey the broader field is to examine the most important aesthetic ideas that have arisen in the course of the tradition, all of them before aesthetics was formally established as a discipline: namely, *mono no aware* (the pathos of things), *wabi* (subdued, austere beauty), *sabi* (rustic patina), *yūgen* (mysterious profundity), *iki* (refined style), and *kire* (cutting). (This last term is pronounced as two evenly accented syllables, *kee-reh.* The macrons over some vowels signify a vowel sound of double length. When a person name is used, the order is the conventional Japanese one: family name, then given name.)
+    step1: |-
+      日本人创造伟大的艺术并书写关于它的文字已有多个世纪——包括一个可以追溯到一千年前的丰富的诗学传统——但日本对应于西方“美学”的哲学学科直到十九世纪才开始起步。概览这一更宽领域的好办法，是考察在传统进程中兴起的最重要的审美观念——它们全部都在美学被正式确立为一个学科之前：即 *mono no aware*（物哀，物的哀感）、*wabi*（侘，内敛而枯淡的美）、*sabi*（寂，古朴的包浆）、*yūgen*（幽玄，神秘深邃）、*iki*（意气，洗练的格调）与 *kire*（切，切割）。（最后这个词的发音是两个重音均匀的音节 kee-reh。某些元音上的长音符表示该元音为双倍长度。人名的顺序是日式的惯常顺序：先姓后名。）
+    step2: |-
+      日人艺事之盛、论艺之文之富，历世有之，诗学之传统且逾千载；然日本对应于西方“美学”之哲学学科，至十九世纪方始。欲览此广域，善法之一即考察传统中所起诸至要审美之念——皆先于美学立为学科者：*mono no aware*（物哀，物之哀感）、*wabi*（侘，敛而枯淡之美）、*sabi*（寂，古朴之包浆）、*yūgen*（幽玄，神秘深邃）、*iki*（意气，洗练之格）与 *kire*（切）。（末词发音为重音均匀之二音节 kee-reh。元音上之长音符示双长之音。人名依日式惯序：姓前名后。）
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Introduction
+    step1: |-
+      ## 1 引言
+    step2: |-
+      ## 1 引言
+  - id: 3
+    kind: body
+    source: |-
+      Two preliminary observations about the Japanese cultural tradition are relevant to the arts. First, classical Japanese philosophy understands reality as constant *change*, or (to use a Buddhist expression) *impermanence*. The world of flux that presents itself to our senses is the only reality: there is no conception of some stable “Platonic” realm above or behind it. The arts in Japan have traditionally reflected this fundamental impermanence—sometimes lamenting but more often celebrating it. The idea of *mujō* (impermanence) is perhaps most forcefully expressed in the writings and sayings of the thirteenth-century Zen master Dōgen, who is arguably Japan’s profoundest philosopher, but there is a fine expression of it by a later Buddhist priest, Yoshida Kenkō, whose *Essays in Idleness* (*Tsurezuregusa*, 1332) sparkles with aesthetic insights:
+    step1: |-
+      与艺术相关的、关于日本文化传统的两点先行观察。第一，古典日本哲学把实在理解为恒常的*变化*，或（用佛教的表达）*无常*。呈现给感官的流变世界是唯一的实在：在它之上或背后没有稳定的“柏拉图式”领域的观念。日本的艺术传统上反映了这一根本性的无常——有时哀叹它，但更多时候礼赞它。*mujō*（无常）的观念，在十三世纪禅宗祖师道元的著述与法语中或许表达得最为有力——道元可以说是日本最深刻的哲学家——但较晚的法师吉田兼好也有一段出色的表达，其《徒然草》（Tsurezuregusa，1332）闪烁着审美的洞见：
+    step2: |-
+      与艺事相关之日本文化传统，有二先行之观察。其一，古典日本哲学以实在为恒常之*变*，或以佛语言之，*无常*。呈于感官之流变世界即唯一之实在：其上其后并无稳定“柏拉图式”领域之念。日本之艺，传统上每映此根本之无常——时或哀之，而多为礼赞。*mujō*（无常）之念，十三世纪禅祖道元之著述法语中殆最有力——道元殆日本最深之哲人——而后此法师吉田兼好亦有一妙陈，其《徒然草》（1332）审美之见，粲然可观：
+  - id: 4
+    kind: body
+    source: |-
+      > It does not matter how young or strong you may be, the hour of death comes sooner than you expect. It is an extraordinary miracle that you should have escaped to this day; do you suppose you have even the briefest respite in which to relax? (Keene, 120)
+    step1: |-
+      > 无论你多么年轻强壮，死期都比你想的来得早。你能活到今天，实在是非凡的奇迹；你以为还有片刻喘息可供松懈吗？（Keene, 120）
+    step2: |-
+      > 人无论少壮，死期每先其期而至。得至今日，实非凡之奇迹；汝岂谓尚有须臾之暇以自纵耶？（Keene, 120）
+  - id: 5
+    kind: body
+    source: |-
+      In the Japanese Buddhist tradition, awareness of the fundamental condition of existence is no cause for nihilistic despair, but rather a call to vital activity in the present moment and to gratitude for another moment’s being granted to us.
+    step1: |-
+      在日本佛教传统中，对存在之根本境况的觉知并非虚无主义式绝望的原因，而是对当下一刻积极活动的召唤，是对又一刻生命被赐予我们的感恩。
+    step2: |-
+      日本佛教之传统，于存在根本境况之觉知，不以为虚无绝望之因，而以为当下活动之召，与夫又一刻得赐之恩。
+  - id: 6
+    kind: body
+    source: |-
+      The second observation is that the arts in Japan have tended to be closely connected with Confucian practices of self-cultivation, as evidenced in the fact that they are often referred to as “ways [of living]”: *chadō*, the way of tea (tea ceremony), *shodō*, the way of writing (calligraphy), and so forth. And since the scholar official in China was expected to be skilled in the “Six Arts”—ceremonial ritual, music, calligraphy, mathematics, archery, and charioteering—culture and the arts tend to be more closely connected with intellect and the life of the mind than in the western traditions.
+    step1: |-
+      第二个观察是：日本的艺术往往与儒家式的自我修习紧密相连，其明证是：它们常被称为诸“道[之生活]”：*chadō*，茶之道（茶道），*shodō*，书之道（书法），等等。而且，既然中国的士人被要求精通“六艺”——礼仪、音乐、书法、数学、射箭与驾车——文化与艺术就倾向于比西方传统更紧密地与智性及心灵生活相连。
+    step2: |-
+      其二，日本之艺每与儒者自修之功密接，其证即诸艺多称“道[之生活]”：*chadō*，茶之道（茶道），*shodō*，书之道（书道），是已。且中国之士必精“六艺”——礼仪、乐、书、数、射、御——故文化与艺之系于智性心灵之生活，较西方之统尤为密。
+  - id: 7
+    kind: body
+    source: |-
+      To this day it is not unusual in Japan for the scholar to be a fine calligrapher and an accomplished poet in addition to possessing the pertinent intellectual abilities.
+    step1: |-
+      直到今天，在日本，学者兼为出色的书法家与有造诣的诗人（在他具备相应的智性能力之外），仍属常见。
+    step2: |-
+      迄今之日，日本学者于相应智性之外，兼工书道而有成于诗者，犹寻常事也。
+  - id: 8
+    kind: body
+    source: |-
+      ## 2. *Mono no aware*: the Pathos of Things
+    step1: |-
+      ## 2 Mono no aware：物的哀感
+    step2: |-
+      ## 2 Mono no aware：物的哀感
+  - id: 9
+    kind: body
+    source: |-
+      The meaning of the phrase *mono no aware* is complex and has changed over time, but it basically refers to a “pathos” (*aware*) of “things” (*mono*), deriving from their transience. In the classic anthology of Japanese poetry from the eighth century, *Manyōshū*, the feeling of *aware* is typically triggered by the plaintive calls of birds or other animals. It also plays a major role in the world’s first novel, Murasaki Shikibu’s *Genji monogatari* (The Tale of Genji), from the early eleventh century. The somewhat later *Heike monogatari* (The Tale of the Heike Clan) begins with these famous lines, which clearly show impermanence as the basis for the feeling of *mono no aware*:
+    step1: |-
+      *mono no aware* 一语含义复杂，且随时间而变，但基本上指“物”（mono）的“哀感”（aware），源于其无常。在八世纪的日本古典诗选《万叶集》中，aware 之感典型地由鸟或其他动物的哀鸣触发。它在世界第一部小说——紫式部作于十一世纪初的《源氏物语》——中也起重要作用。稍晚的《平家物语》以如下著名的句子开头，清楚地表明无常是物哀之感的根基：
+    step2: |-
+      *mono no aware* 一语，其义繁而随时而变，然大要谓“物”（mono）之“哀”（aware），以其无常而起。八世纪日本古典诗选《万叶集》中，aware 之感，率由鸟兽哀鸣而发。世之第一部小说——紫式部十一世纪初所作《源氏物语》——其感亦居要津。稍后《平家物语》以此名句开端，最见无常之为物哀之基：
+  - id: 10
+    kind: body
+    source: |-
+      > The sound of the Gion *shōja* bells echoes the impermanence of all things; the color of the *sōla* flowers reveals the truth that the prosperous must decline. The proud do not endure, they are like a dream on a spring night; the mighty fall at last, they are as dust before the wind. (McCullough 1988)[^mccullough-1988]
+    step1: TBD
+    step2: TBD
+  - id: 11
+    kind: body
+    source: |-
+      And here is Kenkō on the link between impermanence and beauty: “If man were never to fade away like the dews of Adashino, never to vanish like the smoke over Toribeyama, how things would lose their power to move us! The most precious thing in life is its uncertainty” (Keene, 7). The acceptance and celebration of impermanence goes beyond all morbidity, and enables full enjoyment of life:
+    step1: TBD
+    step2: TBD
+  - id: 12
+    kind: body
+    source: |-
+      > How is it possible for men not to rejoice each day over the pleasure of being alive? Foolish men, forgetting this pleasure, laboriously seek others; forgetting the wealth they possess, they risk their lives in their greed for new wealth. But their desires are never satisfied. While they live they do not rejoice in life, but, when faced with death, they fear it—what could be more illogical? (Keene, 79)
+    step1: TBD
+    step2: TBD
+  - id: 13
+    kind: body
+    source: |-
+      Insofar as we don’t rejoice in life we fail to appreciate the pathos of the things with which we share our lives. For most of us, some of these things, impermanent as they are, will outlast us—and especially if they have been loved they will become sad things: “It is sad to think that a man’s familiar possessions, indifferent to his death, should remain long after he is gone” (Keene, 30).
+    step1: TBD
+    step2: TBD
+  - id: 14
+    kind: body
+    source: |-
+      The well-known literary theorist Motoori Norinaga brought the idea of *mono no aware* to the forefront of literary theory with a study of *The Tale of Genji* that showed this phenomenon to be its central theme. He argues for a broader understanding of it as concerning a profound sensitivity to the emotional and affective dimensions of existence in general. The greatness of Lady Murasaki’s achievement consists in her ability to portray characters with a profound sense of *mono no aware* in her writing, such that the reader is able to empathize with them in this feeling.
+    step1: TBD
+    step2: TBD
+  - id: 15
+    kind: body
+    source: |-
+      The films of Ozu Yasujirō, who is often thought to be the most “Japanese” of Japanese film directors, are a series of exercises in conveying *mono no aware*. Stanley Cavell’s observation that “film returns to us and extends our first fascination with objects, with their inner and fixed lives” applies consummately to Ozu, who often expresses feelings through presenting the faces of things rather than of actors. A vase standing in the corner of a tatami-matted room where a father and daughter are asleep; two fathers contemplating the rocks in a “dry landscape” garden, their postures echoing the shapes of the stone; a mirror reflecting the absence of the daughter who has just left home after getting married—all images that express the pathos of things as powerfully as the expression on the greatest actor’s face.
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      The most frequently cited example of *mono no aware* in contemporary Japan is the traditional love of cherry blossoms, as manifested by the huge crowds of people that go out every year to view (and picnic under) the cherry trees. The blossoms of the Japanese cherry trees are intrinsically no more beautiful than those of, say, the pear or the apple tree: they are more highly valued because of their transience, since they usually begin to fall within a week of their first appearing. It is precisely the evanescence of their beauty that evokes the wistful feeling of *mono no aware* in the viewer.
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      ## 3. *Wabi*: Simple, Austere Beauty
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      In the aforementioned *Essays in Idleness* Kenkō asks, “Are we to look at cherry blossoms only in full bloom, at the moon only when it is cloudless?” (Keene, 115). If for the Buddhists the basic condition is impermanence, to privilege as consummate only certain moments in the eternal flux may signify a refusal to accept that basic condition. Kenkō continues: “To long for the moon while looking on the rain, to lower the blinds and be unaware of the passing of the spring—these are even more deeply moving. Branches about to blossom or gardens strewn with faded flowers are worthier of our admiration.” This is an example of the idea of *wabi*, understated beauty, which was first distinguished and praised when expressed in poetry. But it is in the art of tea, and the context of Zen, that the notion of *wabi* is most fully developed.
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      In the *Nampōroku* (1690), a record of sayings by the tea master Sen no Rikyū, we read: “In the small [tea] room, it is desirable for every utensil to be less than adequate. There are those who dislike a piece when it is even slightly damaged; such an attitude shows a complete lack of comprehension” (Hirota, 226). Implements with minor imperfections are often valued more highly, on the *wabi* aesthetic, than ones that are ostensibly perfect; and broken or cracked utensils, as long as they have been well repaired, more highly than the intact. The *wabi* aesthetic does not imply asceticism but rather moderation, as this passage from the *Nampōroku* demonstrates: “The meal for a gathering in a small room should be but a single soup and two or three dishes; sakè should also be served in moderation. Elaborate preparation of food for the *wabi* gathering is inappropriate” (Hirota, 227).
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      The *Zencharoku* (Zen Tea Record, 1828) contains a well-known section on the topic of *wabi*, which begins by saying that it is simply a matter of “upholding the [Buddhist] precepts” (Hirota, 274). The author continues:
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      > *Wabi* means that even in straitened circumstances no thought of hardship arises. Even amid insufficiency, one is moved by no feeling of want. Even when faced with failure, one does not brood over injustice. If you find being in straitened circumstances to be confining, if you lament insufficiency as privation, if you complain that things have been ill-disposed—this is not *wabi*. (Hirota, 275)
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      The way of tea exemplifies this attitude toward life in the elegant simplicity of the tea house and the utensils, which contradicts any notion that beauty must entail magnificence and opulence.
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      *Wabi* reaches its peak of austerity in emptiness—which is a central and pervasive idea in Buddhism. In an essay “In Praise of Shadows” (1933) the great novelist Tanizaki Jun’ichirō (1886–1965) has this to say about the beauty of the alcove (*tokonoma*) in the traditional Japanese teahouse:
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      > An empty space is marked off with plain wood and plain walls, so that the light drawn into it forms dim shadows within emptiness. There is nothing more. And yet, when we gaze into the darkness that gathers behind the crossbeam, around the flower vase, beneath the shelves, though we know perfectly well it is mere shadow, we are overcome with the feeling that in this small corner of the atmosphere there reigns complete and utter silence; that here in the darkness immutable tranquility holds sway. (Tanizaki, 20)
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      A simple structure, but a special and evocative one, a place of deeply philosophical depths. A space cut out of the room, which cuts off direct light and thereby opens up a new world: these techniques developed distinctively in the Japanese tradition of architecture. (See section 7, below, on cutting.)
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      > This was the genius of our ancestors, that by cutting off the light from this empty space they imparted to the world of shadows that formed there a quality of mystery or depth superior to that of any wall painting or ornament. The technique seems simple, but was by no means so simply achieved.
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      Instead of adding something artistic to the wall one subtracts the wall itself and sets it back into an alcove. Then one lets the emptiness fill with a play of light and shadows.
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      One place with a claim to be where the Japanese tea ceremony originated is Ginkakuji, The Temple of the Silver Pavilion, in Kyoto. Whereas the pavilion (late 15th century) is a modest monument to the joys of *sabi*, the Moon-Viewing Platform and Sea of Silver Sand beside it (from some 200 years later) are paradigms of *Wabi*. These latter two constitute an unusual version of the distinctively Japanese “dry landscape” style of garden (see section 7, below). These strikingly abstract formations (for the 17th century!) are optimally viewed from the second floor of the pavilion on a night of the full moon, when the sand glistens silver in the moonlight and the stripes appear as waves on the surface of a motionless ocean.
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      ![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji1-thumb.jpg) ![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji2-thumb.jpg) ![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji3-thumb.jpg)
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      [Larger Photographs of the Sea of Silver Sand and Moon-Viewing Platform at Ginkakuji](japanese-aesthetics.ginkakuji.md)
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      ## 4. Rikyū’s Tea and the Equalizing Aesthetic of *Wabi*
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      Few figures in Japanese history emerge as more formidable artists than Sen no Rikyū (千利休, 1522–1591), and few aesthetic movements are more transformative than his rendition of the tea ceremony, *Wabicha* (侘茶). While Rikyū is recognized as the preeminent Japanese tea master, his role as an aesthete extends much farther. A consummate painter and poet, a practitioner of *ikebana*, an accomplished calligrapher and landscape artist, Rikyū in time became an influential government dignitary advising the Shogunate on cultural and artistic matters. Through countless inventions and innovations, the impact of the aesthetic world he created, and some say perfected, stretches far beyond the boundaries of the tea ceremony itself, unearthing novel prospects for Japanese identity and citizenship, pioneering new social virtues, original visions of human existence and religious salvation, and ultimately, opening new possibilities for equality (Suzuki 278–9), all rooted in the *wabi* aesthetic.
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      While Rikyū’s reputation has come to eclipse that of his predecessors, his aesthetic innovations were part of a lineage born in the port city of Sakai, comprising the tea master Murata Shukō (村田珠光, 1423–1502) and his student Takeno Jōō (武野 紹鴎, 1502–1555), both Zen adherents, the latter of whom would later mentor Rikyū. Both of his forerunners began pioneering tea aesthetics, which laid the groundwork for Rikyū’s eventual refinement, and both harnessed fresh aesthetic stratagems aimed at incorporating the *wabi* aesthetic into the tea ceremony (Ludwig, 387–390. Sen Sōshitsu, 123–157).
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      What distinguished Rikyū’s *Wabicha* from his mentors’ ceremonies was its resolution of the tensions between competing aesthetic undercurrents coursing through the 16th-century practice of tea and broader Japanese cultural worlds (Slusser 55–57). Before the advent of *Wabicha*, medieval tea was becoming increasingly polarized in two directions. The *Shoin* (書院) style orchestrated ostentatious displays of wealth carried out in opulent domiciles of the powerful aristocracy. Within this milieu, the most cherished tea utensils (*meibutsu* 名物) were rare and precious wares imported from China, their aesthetic value predominantly gauged by how well they displayed the host’s affluence and power, rendering *Shoin* tea an intentionally non-egalitarian ceremony.
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      The ostentation of the *Shoin* style found further reinforcement in what was called the “*basara*” attitude (婆娑羅), characterized by tasting contests (*tōcha* 闘茶) and lavish tea parties (*chayoriai* 茶寄合) orchestrated for grandiose demonstrations of wealth. As the *Shoin* style was in ascendency, the tea world was simultaneously evolving in the opposite direction, in a version of the ceremony known as the *Sōan* (草庵) style, an aesthetic that extolled austerity and poverty rather than opulence and affluence. In place of grand halls of the aristocracy and gatherings with dozens or even hundreds of guests, the so called “grass-hut” *Sōan* style aestheticized the world of the farmer and hermit and sought the intimacy of a gathering in a tiny unadorned hut, typically attended by a mere handful of guests. Shukō and Jōō were some of the progenitors of this style and it was tea as the “grass hut” ideal that Rikyū inherited and eventually honed to perfection.
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      A second polarizing cultural tendency in 16ᵗʰ century Japan, which cut across the *Shoin* and *Sōan* divide, was a tension between warrior and religious aesthetic sensitivities. Rikyū’s *Wabicha* dissolved this tension by melding elements of Samurai gatherings with those cultivated in Zen monasteries. His ceremony avoided exclusive alignment with religiosity or militarism and employed the *wabi* aesthetic to infuse an egalitarianism counterbalancing hierarchical divisions entrenched within both spheres, re-casting *wabi* as a “non-hierarchical awareness of the real” (Hirota 95).
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      Beyond the realm of the martial and the monastic, the populace of 16th-century Japan was deeply stratified, from Samurai at the top all the way down to farmers, peasants, and merchants at the bottommost social rung. These divisions were absolute, and upward mobility to higher social strata was virtually inconceivable. Nevertheless, Rikyū deployed the *wabi* aesthetic to challenge social stratification (Sen Sōshitsu 182–183). In his *Wabicha*, all patrons of tea were considered equal, and his aesthetic innovations concretized this principle, ensuring this was not simply a lofty ideal. In the text attributed to him, the *Nampōroku* (1690), he claims that “worldly rank is ignored” in the tea room.
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      Rikyū’s aesthetic decisions were guided by a veneration of the meagre existence of the agrarian lifestyle, the strict economy of the mountain hermit, and the austere lack of adornment of the poor farmer. He thus had a predilection for rough un-hewn materials, which meant walls and timber within the tea hut were left raw and unfinished, with straw and cob visibly protruding. Costly Chinese porcelain, ivory flower vases and tea scoops were replaced by locally produced bamboo versions. Colorful flowers were almost entirely excluded, while an “aniconic” ceremony emerged, characterized by the absence of imagery within the hut and surrounding garden.
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      Among the numerous architectural innovations Rikyū deployed, the most egalitarian were several features of the tearoom, which rendered it physically impossible for tea guests to express their social position or power. The *nijiriguchi* (躙口), roughly translated as “crawl in space” was the only entry way for guests (previous instances of the *sukiya* had another larger entryway for nobility and aristocracy). The tiny aperture measuring only around 60cm x 60cm (2ft x 2ft) achieved two equalizing aims of *Wabicha* (Sōshitsu Sen 182–183). Firstly, samurai were prevented from entering with their two *Katana* swords, which normally were the most visible signs of their position atop the social hierarchy. (Rikyū introduced a sword rack (*katanakake* 刀掛け) next to the *nijiriguchi* under the tea hut’s eaves.) Further, the size of the opening meant that wealthy aristocrats and courtiers could not make it through the small opening with their oversized top hats. Thus, once inside Rikyū’s tiny *sukiya*, no appearance endured of the markings normally employed to exhibit and maintain the rigid social hierarchy. Even conversation or figures of speech invoking social status, references to employment, objects exhibiting one’s wealth, or associations legitimating one’s power were all strictly prohibited.
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      An additional dimension of the *Wabicha* aesthetic, which reinforces egalitarian ideals is Rikyū’s embrace of the local. He opposed the trend of importing expensive Chinese tea ware and instead championed locally crafted articles reflecting the agrarian lifestyle outside the bustling urban city centre. Amidst Rikyū’s manifold innovations, the most famous—renowned for epitomizing the very quintessence of *wabi*—was the inception of an entirely novel pottery style known as *Raku* (楽焼, *raku-yaki*). Rikyū enlisted a local potter Sasaki “Raku” Chōjirō (長次郎) to give form to tea ware embodying the *wabi* aesthetic. As opposed to highly sophisticated Chinese porcelain, *Raku* was rustic earthenware, utilitarian, un-adorned, often asymmetrical and imperfect in form and finish – celebrating the grace of a humble existence, an ode to local hermit and farmer. Firing and drying techniques were developed to grant leeway to the atmosphere, nature, and gravity to express themselves in the clay body as it heated then cooled. The aesthetic evoked the monk or farmer in the vicinity working with what was at hand rather than the worldly aristocrat importing treasures from foreign shores. Aligned with the ethos of *wabi*, *Raku* ware was valued for its exposition of the simple beauty of meagre existence, accentuating the aesthetics of paucity over opulence. Thus, *Raku* played a levelling role that made a previously exclusive material culture surrounding the tea ceremony more egalitarian.
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      Another important innovation that curtailed signs of wealth involved transformations in design and emphasis of the hanging scroll (*Kakemono* 掛物). Once a peripheral piece, Rikyū elevates the scroll, recalibrates its aesthetics toward egalitarian ideals, and installs it as the centrepiece of the tea hut and the ceremony as a whole (Hirota, 217–218). Rikyū not only elevated the scroll to the aesthetic forefront of the ceremony, (a role previously occupied by the tea caddy in the *Shoin* style) but also shifted scroll aesthetics away from costly and exclusive Chinese versions. Under Rikyū’s patronage, scrolls were for the first time commissioned from local Zen Buddhist calligraphers and painters.
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      While his interventions may have succeeded in challenging the rigid societal stratification beyond the confines of the tea world, they might have also set the stage for his own tragic downfall. The markers of social hierarchy he sought to dismantle were crucial for justifying and maintaining the Shogunate’s power. As a governmental official, Rikyū had little latitude to deny Hideyoshi’s wishes, which often diverged drastically from the austerities of *Wabicha* (for instance, building the golden Tai-an (待庵) tearoom). His egalitarianism was undermining a vital symbol the Shogun relied on to showcase his supremacy, and threatened to subvert power structures that maintained his position atop the social-political hierarchy (Slusser, 56-57). Rikyū’s *Wabicha* and the hierarchy-nullifying symbols and structures he shaped countered the power politics embraced by the Shogunate and challenged the militaristic interests of the elite he served. Rikyū would be ordered to commit ritual suicide (*seppuku* 切腹), and following his last tea ceremony in 1591, he wrote his death poem before taking his own life.
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      While Rikyū’s impact on the subsequent history of Japanese tea and culture at large is irrefutable, his legacy is complicated. His ritual suicide was appropriated for a subsequent aestheticization of hyper-nationalistic tendencies, thereby setting an early standard for an “aesthetic” death as sacrifice to one’s nation at time of war (Cross, 163–166). Thus, his tragic moment was promoted as a means to rationalize some of the empire’s most egregious brutalities. A memory that should have remained untarnished became attached to Japan’s calamitous aestheticization of imperialism, warfare, and self-sacrifice—values fundamentally at odds to those that Rikyū introduced to Japanese culture through the *wabi* aesthetic in the tea ceremony.
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      ## 5. *Sabi:* Rustic Patina
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      The term *sabi* occurs often in the *Manyōshū*, where it has a connotation of desolateness (*sabireru* means “to become desolate”), and later it seems to acquire the meaning of something that has aged well, grown rusty (another word pronounced *sabi* means “rust”), or has acquired a patina that makes it beautiful.
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      The importance of *sabi* for the way of tea was affirmed by the great fifteenth-century tea master Shukō, founder of one of the first schools of tea ceremony. As a distinguished commentator puts it: “The concept *sabi* carries not only the meaning ‘aged’—in the sense of ‘ripe with experience and insight’ as well as ‘infused with the patina that lends old things their beauty’—but also that of tranquility, aloneness, deep solitude” (Hammitzsch, 46).
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      The feeling of *sabi* is also evoked in the haiku of the famous seventeenth-century poet Matsuo Bashō, where its connection with the word *sabishii* (solitary, lonely) is emphasized. The following haiku typifies *sabi(shii)* in conveying an atmosphere of solitude or loneliness that undercuts, as Japanese poetry usually does, the distinction between subjective and objective:
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      > Solitary now — Standing amidst the blossoms Is a cypress tree.
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      Contrasting with the colorful beauty of the blossoms, the more subdued gracefulness of the cypress—no doubt older than the person seeing it but no less solitary—typifies the poetic mood of *sabi*.
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      Tanizaki’s “In Praise of Shadows” frequently celebrates *sabi*. By contrast with Western taste, he writes of the Japanese sensibility:
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      > We do not dislike everything that shines, but we do prefer a pensive lustre to a shallow brilliance, a murky light that, whether in a stone or an artifact, bespeaks a sheen of antiquity. . . . We love things that bear the marks of grime, soot, and weather, and we love the colors and the sheen that call to mind the past that made them. (Tanizaki, 11–12)
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      This is a significant existential consideration: the sheen of older things connects us with the past in ways that shiny products of modern technology simply cannot. And since older things tend to be made from natural materials, to deal with them helps us to realize our closest connections with the natural environment.
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      *Sabi* figures prominently, for Tanizaki, in the aesthetics of the traditional Japanese toilet, which “stands apart from the main building at the end of a corridor, in a grove fragrant with leaves and moss.” He wrestles with the vexations that modern technology imposes on the question of fixtures, as the traditional ones are superseded by “white porcelain and handles of sparkling metal” (Tanizaki, 3, 6).
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      > Wood finished in glistening black lacquer is the very best, but even unfinished wood, as it darkens and the grain grows more subtle with the years, acquires an inexplicable power to calm and soothe. The ultimate, of course, is a wooden “morning glory” urinal filled with boughs of cedar: this is a delight to look at and allows not the slightest sound. (Tanizaki, 6)
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      But the primary delights of the traditional Japanese toilet are its closeness to nature: in that special place, “surrounded by tranquil walls and finely grained wood, one looks out upon blue skies and green leaves” (Tanizaki, 4). Among the achievements of traditional Japanese architecture Tanizaki praises the toilet as “the most aesthetic.”
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      > Our forebears, making poetry of everything in their lives, transformed what by rights should be the most unsanitary room in the house into a place of unsurpassed elegance, replete with fond association with the beauties of nature.
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      It is surely fitting that one should perform those most natural functions of urinating and defecating, returning to the earth the remains of its bounties, in natural rather than high-tech surroundings.
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      A more exalted exemplification of *sabi* is the exquisite Silver Pavilion at Ginkakuji in Kyoto. Even though the tea ceremony is said to have originated here, in a small *sabi*-saturated teahouse, the exterior of the pavilion was originally going to be covered in silver foil, in emulation of the Golden Pavilion (14th century) at Kinkakuji. Without ever having enjoyed a coating of silver, the Silver Pavilion is the epitome of *sabi* and one of the most graceful structures ever built. The contrast with the larger, and flashier Golden Pavilion, whose coating of gold leaf lends it a quite different (and distinctly un-*sabi*) kind of beauty, is instructive.
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      ![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji4-thumb.jpg) ![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji5-thumb.jpg) ![thumbnail photo of Kinkakuji](../assets/japanese-aesthetics/kinkakuji1-thumb.jpg) ![thumbnail photo of Kinkakuji](../assets/japanese-aesthetics/kinkakuji2-thumb.jpg)
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      [Larger Photographs of the Silver Pavilion at Ginkakuji and the Golden Pavilion at Kinkakuji](japanese-aesthetics.ginkakuji-kinkakuji.md)
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      In 1950 a deranged Buddhist acolyte, deeply disturbed by the beauty of the Golden Pavilion, set fire to it and burned it to the ground. An exact replica was built on the original site in 1955. The aesthetic qualities of the original structure are celebrated in Mishima Yukio’s fine novel *The Temple of the Golden Pavilion* (1956), as well as in Ichikawa Kon’s classic film *Enjo* (Conflagration, 1958). In 1987, the burgeoning Japanese economy made it possible for the first time in the building’s history to cover the structure with gold leaf, according to the creator’s original intention. The result is breathtakingly spectacular—but totally un-Japanese. Old-time residents of Kyoto famously complained that it would take a long time for the building to acquire sufficient *sabi* to be worth looking at again. At the rate the patina seems to be progressing, probably several centuries.
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      In 2011, after the tsunami in Tōhoku and the explosions and nuclear meltdown in Fukushima caused an acute energy shortage in Japan, one of many responses was a dramatic reduction of lighting in public places, and especially in subway stations with extensive underground restaurant and shopping precincts. Tanizaki cites a prescient remark from the late 1920s to the effect that “perhaps no two countries waste more electricity than America and Japan” (Tanizaki, 35). He would be delighted now to see Japanese cities reducing the ubiquitous glare of neon lighting and all-night electric illumination, in a dimming of unnecessary lights which thereby reintroduces some of the shadows he so eloquently praises.
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      ## 6. *Yūgen*: Mysterious Grace
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      *Yūgen* may be, among generally recondite Japanese aesthetic ideas, the most ineffable. The term is first found in Chinese philosophical texts, where it has the meaning of “dark,” or “mysterious.”
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      Kamo no Chōmei, the author of the well-known *Hōjōki* (An Account of my Hut, 1212), also wrote about poetry and considered *yūgen* to be a primary concern of the poetry of his time. He offers the following as a characterization of *yūgen*: “It is like an autumn evening under a colorless expanse of silent sky. Somehow, as if for some reason that we should be able to recall, tears well uncontrollably.” Another characterization helpfully mentions the importance of the imagination: “When looking at autumn mountains through mist, the view may be indistinct yet have great depth. Although few autumn leaves may be visible through the mist, the view is alluring. The limitless vista created in imagination far surpasses anything one can see more clearly” (Hume, 253–54).
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      This passage instantiates a general feature of East-Asian culture, which favors allusiveness over explicitness and completeness. *Yūgen* does not, as has sometimes been supposed, have to do with some other world beyond this one, but rather with the depth of the world we live in, as experienced with the aid of a cultivated imagination.
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      The art in which the notion of *yūgen* has played the most important role is the Nō drama, one of the world’s great theater traditions, which attained its highest flourishing through the artistry of Zeami Motokiyo (1363–1443). Zeami wrote a number of treatises on Nō drama, in which *yūgen* (“Grace”) figures as “the highest principle” (Rimer, 92). He associates it with the highly refined culture of the Japanese nobility, and with their speech in particular, though there is also in Nō a “Grace of music,” a “Grace of performance [of different roles],” and a “Grace of the dance” (Rimer, 93). It is something rare, that is attained only by the greatest actors in the tradition, and only after decades of dedicated practice of the art. It is impossible to conceptualize, so that Zeami often resorts to imagery in trying to explain it: “Cannot the beauty of Grace be compared to the image of a swan holding a flower in its bill, I wonder?” (Rimer, 73).
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      The most famous formulation comes at the beginning of Zeami’s “Notes on the Nine Levels [of artistic attainment in Nō],” where the highest level is referred to as “the art of the flower[ing] of peerless charm”:
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      > The meaning of the phrase Peerless Charm surpasses any explanation in words and lies beyond the workings of consciousness. It can surely be said that the phrase “in the dead of night, the sun shines brightly” exists in a realm beyond logical explanation. Indeed, concerning the Grace of the greatest performers in our art [it gives rise to] the moment of Feeling that Transcends Cognition, and to an art that lies beyond any level that the artist may consciously have attained. (Rimer, 120)
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      This passage alludes to the results of a pattern of rigorous discipline that informs many “performing arts” (which would include the tea ceremony and calligraphy as well as theater) in Japan, as well as East-Asian martial arts. Nō is exemplary in this respect, since its forms of diction, gestures, gaits, and dance movements are all highly stylized and extremely unnatural. The idea is that one practices for years a “form” (*kata*) that goes counter to the movements of the body and thus requires tremendous discipline—to the point of a breakthrough to a “higher naturalness” that is exhibited when the form has been consummately incorporated. This kind of spontaneity gives the impression, as in the case of Grace, of something “supernatural.”
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      ## 7. *Yūgen* and Landscape Painting
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      Intriguing features of Japanese aesthetics are revealed through the artistic practices of Sesshū Tōyō and his most celebrated work, the so-called “Splashed ink landscape” of 1495 (*Haboku* *Sansui*, literally, “Broken Ink Landscape”). Taking the first steps towards reading his art calls on us to recognize a distinctive feature of Japanese landscape paintings, that is, as art objects they have a considerably expanded aesthetic status relative to similar works as interpreted within Western philosophical and art historical traditions. Of course, the painting object itself is important, but key aesthetic value also lies in the bodily performance the work attests to. Properly estimating the beauty of Sesshū’s “Splashed ink landscape”—similar to how one should appreciate Japanese calligraphy—involves more than simply making judgments regarding the marks on paper, but also calls for an appreciation of the bodily movements that created the work. Because Sesshū’s spontaneous movements were cultivated according to highly disciplined Zen Buddhist practices, interpreting his landscape art demands an aesthetics expanded to embrace the philosophic and religious.
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      Sesshū Tōyō (雪舟等楊, 1420–1506) was a towering figure of the Japanese art world who helped initiate an indigenous artistic tradition at a time when philosophic-religious practices were going beyond their Chinese influence, as Chan Buddhism gave rise to Zen Buddhism in Japan. Sesshū was part of a trajectory of many centuries to establish Japanese forms of Buddhism as an enduring feature of the country’s religious, philosophic, and aesthetic identity. During his life, Zen was reaching prominence as a religious discipline, as were the related arts under Ashikaga patronage. The Muromachi Period was the time of Zen aesthetics: not only monochrome ink painting, but all Japanese aesthetic practices (*geidō*) including calligraphy, tea ceremony, Nō drama, and dry landscape gardening flourished as expressions of the Zen, especially Rinzai Zen, spirit of the time. During this period, a shift was underway in the painting world from *kara-e* (唐絵 “Chinese painting”) to *yamato-e* (大和絵 “Japanese painting”). Representations of deities for devotional purposes, and paintings of Daoist and Buddhist themes (*dōshakuga*) were being supplanted as the heart of art practice as Japan saw its first movements towards initiating an art tradition seeking purely aesthetic ideals. Landscape painting was central to that movement.
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      Sesshū was a celebrated painter, poet, calligrapher, and gardener, who mastered all of the major Chinese styles and genres, from bird and flower paintings, to portraiture, hanging scrolls, screens, and fans. It was his landscapes, however, particularly his famed “Splashed Ink Landscape” for which he has been immortalized. This painting offers insight into a central concept of Japanese aesthetics discussed above, that is, *yūgen*.
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      ![reproduction of Splashed Ink Landscape](../assets/japanese-aesthetics/splashed-ink-landscape-thumb.jpg)
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      [Splashed Ink Landscape by Sesshū](japanese-aesthetics.splashed-ink.md)
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      The mysterious grace of his most celebrated landscape painting derives as much from the space that is left un-touched, the invisible and absent (often referred to as the “dragon’s veins” of a painting) as from what is painted and visible. The work appears incomplete, still in the act of formation, and the dramatic negative spaces created by the mists allow the various forms to dissolve and blend into one another, but more decisively, according to the yūgen dynamic, this negativity invites the viewer into the painting to actively complete it. As artists employing yūgen principles in other genres have shown, the incompleteness and allusiveness of the artwork summons the viewer into the scene. In Ghilardi’s words, “the onlooker must merge in the image, completing the empty spaces, making it a lively element of nature itself, ‘between’ visible and invisible” (Ghilardi, 2015, 99).
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      Sesshū does not seek to render every detail of the landscape to achieve representational verisimilitude, to depict an object that would be discernible for a subject. The aim is to give only a suggestion or a trace of trees, mountains, or waters, which appear to negate themselves as objects. Accordingly, Sesshū does not circumscribe forms but offers the impression of poetic immediacy by breaking them down. Extreme abbreviation and abstraction are employed such that any form, if even discernible, is pushed as far as possible from objectivity without disappearing completely into formlessness. As Jullien writes regarding Chinese painters who influenced Sesshū, they paint the “landscape in the tonality of *as if*, in the mode of appearing-disappearing, at once ‘as if there were’ and ‘as if there were not.’”(Jullien, 2009. 8) The central grouping of trees, the inn blending into their trunks, and the tiny oarsman all appear but feel as though they are about to be lost, maybe already transitioning into a vague memory, only a brushstroke away from dissolving completely. A sensitive viewer does not simply perceive a representation of this event but can sense the sweeping and spontaneous gestures that gave rise to the ephemerality of the scene. To appreciate this aesthetic feature of the painting invokes Buddhist principles Sesshū would have cultivated as a Zen monk.
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      Sesshū’s life and work are exemplary for Japanese aesthetics given that his practice was not aesthetic in a restricted sense, but also encompassed the religious and philosophical principles of Daoist-inspired Zen Buddhism. “Splashed ink landscape” was composed in Sesshū’s 76ᵗʰ year, a time when he claimed that his eyes “were growing misty” and Daoism was increasingly influential for his painting. As a painter-priest, both his meditative as well as his artistic practice would have aimed at self-negation, at achieving “non-self” as per the goal of Zen training. As Yukio Lippit writes, “Splashed Ink Landscape thus showcases a mode of ink painting that projects both cultivated artistic agency and a state of subjectlessness. This condition of the permeable subject would prove pitch-perfect for the Japanese monk painter of the late medieval period” (Lippit 2012, 71)[^lippit-2012]. To disclose how this aesthetic-religious goal was approached in painting practice reveals the Daoist roots of Zen Buddhism.
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      Painting was among the Japanese aesthetic practices referred to as *geidō* 芸道. One of the sinographs shared among the compounds for archery (*kyudō* 弓道), martial arts (*jūdō* 柔道), calligraphy (*shodō* 書道), flower arranging (*kadō* 華道), tea ceremony (*sadō* 茶道) is the sinograph *dao* (道), (*dō* or *michi* in Japanese) indicating the philosophic-religious orientation of the practices. To move according to the *dao* is to move with a natural spontaneity as an embodiment of the well-known concept “non-action” (*wuwei* 無爲). Acting spontaneously involves moving beyond the binary of activity or passivity; that is, the world moves the body as much as the body moves in the world. Accordingly, as Nishida comments, we can say that “Sesshū painted nature or that nature painted itself through Sesshū” (Nishida 1990, 135). The graceful naturalness of the swordsman, the calligrapher, or the Nō actor is also characteristic of the painter’s gestures. All are bodily practices that seek to harmonize with the spontaneous motions of the *dao* through non-action. Thus, to estimate the aesthetic value of Sesshū’s brushwork is to appreciate its religious source in Daoist-informed Buddhist practice. Because observers can harmonize their own bodies with the movements animating the painting, the work elicits more than aesthetic judgments, it is itself a site for cultivating religious-philosophic discipline.
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      The “splashed ink” technique Sesshū employed is particularly exemplary of the expanded frame of Japanese aesthetics. “Splashed Ink” (*hatsuboku*) was one of several “broken ink” (*haboku*) spontaneous techniques originating in China, which Sesshū learned while travelling to study with painters and conduct religious practice at its monasteries. The techniques ranged from spontaneous washes and splashes to actual ink-flinging and dripping. While these methods sound reckless and were associated with an “aesthetics of inebriation” and “aesthetics of accident,” the splashed ink idiom is in fact the most demanding style, regarded as the highest form of expression and the supreme test of the artist’s skill. Likewise, it was thought to test the observer’s sensitivity like no other genre. The style originated with the “literati” artists of the Southern Song School of Chinese landscape painting who favored *yūgen*-style abbreviated poetic suggestion, rather than the detailed and descriptive “academic” approach of the Northern School. Thus, following this tradition, painters such as Sesshū did not aim to develop virtuoso skill to create a fully formed art image, but in negating the self and becoming continuous with the motions of nature, they follow the Daoist precept that “the great image has no form.”
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      ## 8. *Iki*: Refined Style
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      *The Structure of “Iki”* (“Iki” no kōzō) by Kuki Shūzō (1888–1941) is arguably the most significant work in Japanese aesthetics from the twentieth century—and certainly one of the shortest. Kuki wrote the first draft in 1926 while living in Paris, toward the end of a seven-year stay in Europe, and published the book shortly after returning to Japan in 1929. It’s a phenomenological and hermeneutic study of a phenomenon, *iki*, that was central to Japanese aesthetic life during the previous two or three hundred years and derived from forms of erotic relations between men and geisha in the pleasure quarters of the big cities. Kuki remarks that although the French terms *chic*, *coquet*, and *raffiné* share connotations with the term *iki*, no European word is capable of translating the richness of its meanings—unsurprisingly, since it emerged from a particular cultural context and Kuki is concerned to grasp the “living form” of the phenomenon as experienced. Kuki mentions the French *esprit* and the German *Sehnsucht* as terms that are similarly untranslatable, for similar reasons of cultural embeddedness (Nara, 15–16).
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      Kuki distinguishes two further “moments” of *iki* in addition to its basis in seductiveness or coquetry (*bitai*): “brave composure” (*ikiji*) and “resignation” (*akirame*). Insofar as *iki* as seductiveness is concerned “to maintain a dualistic relationship, protecting the possibility as possibility”—an allusion to Heidegger’s existential conception of death as ultimate possibility—it already embraces impermanence and mortality. The first sense in which iki preserves the possibility as possibility, and thus maintains a dualistic relationship, is that the act of sexual union is not consummated (or at least postponed). This preservation of possibility is further enhanced by brave composure, which for Kuki is exemplified in the attitude toward death (his own and others’) on the part of the samurai warrior and his way of living (*bushidō*). It is enhanced too by the moment of resignation, which Kuki understands as the Buddhist attitude of non-attachment to a world of impermanence. All together they enable a kind of aesthetic “play”, thanks to a (phenomenological) “bracketing” of the concerns of everyday life (Nara, 18–23).
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      After positioning the phenomenon of *iki* among a variety of other aesthetic feelings such as sweet (*amami*) versus astringent (*shibumi*), flashy (*hade*) versus quiet (*jimi*), and crude (*gehin*) versus refined (*jōhin*), Kuki goes on to examine the objective expressions of the phenomenon, which are either “natural” or “artistic” (Nara, 24–34). In nature, willow trees and slow, steady rain exemplify *iki*; in the human body a slight relaxation, a voice of medium rather than high pitch, a face that is long rather than round, a certain tension and relaxation together of the eyes, mouth, and cheeks, the hand curved or slightly bent back. Also *iki* is the wearing of thin fabric, makeup thinly applied, hair styled not too formally, with the aid of water rather than oil, and a *décolletage* designed to call attention to the nape of the neck laid bare (Nara, 35–39).
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      In the “free art” of design, parallel lines, and especially vertical stripes, are expressive of *iki*: almost all the other beautiful patterns developed by Japanese fabric arts, since they often involve curved lines, are un-*iki*. The only colors that embody *iki* are certain grays, browns, and blues. In architecture the small (four-and-a-half mat) Zen teahouse is a paradigm of *iki*, especially insofar as it initiates an interplay between wood and bamboo. Lighting must be subdued: indirect daylight or else the kind of illumination provided by a paper lantern. The scales, melodies, and rhythms of various kinds of music are correspondingly *iki*, insofar as (alluding to Goethe, Schelling, and Schopenhauer) “[a]rchitecture is frozen music, and music is flowing architecture” (Nara, 41–51).
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      In his conclusion, Kuki asks whether various nineteenth-century and contemporary European arts might exemplify *iki* and decides probably not exactly, though he allows that various aspects of Baudelaire’s poetry and aesthetics come very close (with the difference that dandyism is a male prerogative whereas *iki* is associated with both sexes). During his seven years in Germany and France he listened to lectures and seminars by, and conversed with, such figures as Heinrich Rickert, Edmund Husserl, Martin Heidegger, Henri Bergson, and Jean-Paul Sartre. Kuki thereby developed a sophisticated understanding of European philosophy and aesthetics, and was concerned after his return to Japan to apply methods he had learned to a Japanese aesthetic phenomenon. He didn’t therefore aspire to any kind of universal aesthetics—since *iki* is rooted in the culture of a particular ethnic group. Yet because the Japanese at that time, under geopolitical pressure to modernise more efficiently, were losing touch with their own traditions, Kuki took it as one of his tasks to celebrate the aesthetic values of the past (Nara, 58–60).
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      He has unfortunately been excoriated on these grounds as an ultranationalist and even a fascist, notably by Leslie Pincus in her book *Authenticating Culture in Imperial Japan: Kuki Shūzō and the Rise of National Aesthetics*, and this deters some people from reading him. But while Pincus’s book provides a good deal of helpful historical background of the milieu in which Kuki was working in Japan, her claims that he was a fascist are groundless (see Parkes 1997, 2007)[^parkes-1997]. An unprejudiced reading of *The Structure of Iki* reveals no fascist tendencies whatsoever, and the nationalist themes are innocuous, simply calling for a remembering of what is valuable in the Japanese tradition and likely to be lost beneath the waves of modernization—in a world where connections with the past were withering and Japan was warding off the colonization of East and South Asia by the Western powers.
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: body
+    source: |-
+      Kuki is a fascinating thinker, and *The Structure of Iki*, while occasionally tortuous because of its commitment to a strictly European methodology, illuminates some fascinating aspects of the Japanese aesthetic tradition while at the same time engaging the deepest levels of experience anywhere.
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: body
+    source: |-
+      ## 9. *Kire*: Cutting
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: body
+    source: |-
+      A distinctive notion in Japanese aesthetic discourse is that of the “cut” (*kire*) or “cut-continuity” (*kire-tsuzuki*). The “cut” is a basic trope in the Rinzai School of Zen Buddhism, especially as exemplified in the teachings of the Zen master Hakuin (1686–1769). For Hakuin the aim of “seeing into one’s own nature” can only be realized if one has “cut off the root of life”: “You must be prepared to let go your hold when hanging from a sheer precipice, to die and return again to life” (Hakuin, 133–35). The cut appears as a fundamental feature in the distinctively Japanese art of flower arrangement called *ikebana*. The term means literally “making flowers live”—a strange name, on first impression at least, for an art that begins by initiating their death. There is an exquisite essay by Nishitani Keiji on this marvelous art, in which organic life is cut off precisely in order to let the true nature of the flower to come to the fore (Nishitani, 23–7). There is something curiously deceptive, from the Buddhist viewpoint of the impermanence of all things, about plants, which, lacking locomotion and by sinking roots into the earth, assume an appearance of being especially “at home” wherever they are. In severing the flowers from their roots, Nishitani suggests, and placing them in an alcove (itself cut off from direct light, as Tanizaki remarks), one is letting them show themselves as they truly are, namely, as absolutely rootless as every other being in this world of radical impermanence.
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: body
+    source: |-
+      The notion of cut-continuation is exemplified in the highly stylized gait of the actors in the Nō drama. The actor slides the foot along the floor with the toes raised, and then “cuts” off the movement by quickly lowering the toes to the floor—and beginning at that precise moment the sliding movement along the floor with the other foot. This stylization of the natural human walk draws attention to the episodic nature of life, which is also reflected in the pause between every exhalation of air from the lungs and the next inhalation. Through attending to the breath in zen meditation one becomes aware that the pause between exhalation and inhalation is different—more of a cut—from that between inhalation and exhalation. This reflects the possibility of life’s being cut off at any moment: the one exhalation that isn’t followed by an inhalation, known as “breathing one’s last.”
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: body
+    source: |-
+      Cutting also appears in the “cut-syllable” (*kireji*) in the art of *haiku* poetry, which cuts off one image from—at the same time as it links it to—the next. There is a famous cut-syllable, *ya*, at the end of the first line of the best-known haiku by Bashō, the most famous haiku poet:
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: body
+    source: |-
+      > | *Furuike ya* *Kawazu tobikomu* *Mizu no oto*. | Ah, an ancient pond— Suddenly a frog jumps in! The sound of water. |
+      > | --- | --- |
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: body
+    source: |-
+      The most distinctively Japanese style of garden, the “dry landscape” (*karesansui*) garden, owes its existence to the landscape’s being “cut off” from the natural world beyond its borders. The epitome of this style is the rock garden at Ryōanji in Kyoto, where fifteen “mountain”-shaped rocks are set in beds of moss in a rectangular “sea” of white gravel.
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: body
+    source: |-
+      ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji0-thumb.jpg) ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji1-thumb.jpg) ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji2-thumb.jpg) ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji3-thumb.jpg) ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji4-thumb.jpg) ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji5-thumb.jpg) ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji6-thumb.jpg) ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji7-thumb.jpg) ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji8-thumb.jpg) ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji9-thumb.jpg)
+    step1: TBD
+    step2: TBD
+  - id: 97
+    kind: body
+    source: |-
+      [Larger Photographs of the Dry Landscape Garden at Ryōanji](japanese-aesthetics.ryoanji.md)
+    step1: TBD
+    step2: TBD
+  - id: 98
+    kind: body
+    source: |-
+      (The Japanese word for landscape, *sansui*, means literally “mountains waters”: see Berthier 2000.)[^berthier-2000] At Ryōanji the rock garden is cut off from the outside by a splendid wall that is nevertheless low enough to permit a view of the natural surroundings. This cut, which is in a way doubled by the angled roof that runs along the top of the wall and seems to cut it off, is most evident in the contrast between movement and stillness. Above and beyond the wall there is nature in movement: branches wave and sway, clouds float by, and the occasional bird flies past. But unless rain or snow is falling, or a stray leaf is blown across, the only movement visible within the garden is shadowed or illusory, as the sun or moon casts slow-moving shadows of tree branches on the motionless gravel.
+    step1: TBD
+    step2: TBD
+  - id: 99
+    kind: body
+    source: |-
+      The garden is cut off on the near side too, by a border of pebbles (larger, darker, and more rounded than the pieces of gravel) that runs along the east and north edges. There is a striking contrast between the severe rectangularity of the garden’s borders and the irregular natural forms of the rocks within them. The expanse of gravel is also cut through by the upthrust of the rocks from below: earth energies mounting and peaking in irruptions of stone. Each group of rocks is cut off from the others by the expanse of gravel, and the separation is enhanced by the “ripple” patterns in the raking that surrounds each group (and some individual rocks). And yet the overall effect of these cuttings is actually to intensify the invisible lines of connection among the rocks, whose interrelations exemplify the fundamental Buddhist insight of “dependent co-arising” (*engi*).
+    step1: TBD
+    step2: TBD
+  - id: 100
+    kind: body
+    source: |-
+      The rock garden also embodies the central Buddhist insight of impermanence. Insofar as its being cut off from the surrounding nature has the effect of drying up its organic life, which then no longer decays in the usual manner. Being dried up (the *kare* of *karesansui* means “withered”), the mountains and waters of the garden at Ryōanji at first appear less temporary than their counterparts outside, which manifest the cyclical changes that organic life is heir to. But just as plants look deceptively permanent thanks to their being rooted in the earth, so the rocks of the dry landscape garden give a misleading impression of permanence, especially when one revisits them over a period of years. As participants in (what Thoreau called) “the great central life” of the earth, rocks have a life that unfolds in time sequences that are quite different from ours—and yet also subject to the impermanence that conditions all things.
+    step1: TBD
+    step2: TBD
+  - id: 101
+    kind: body
+    source: |-
+      ## 10. Ozu Yasujirō: Cinematic Cuts
+    step1: TBD
+    step2: TBD
+  - id: 102
+    kind: body
+    source: |-
+      The garden at Ryōanji makes a brief but significant appearance in one of the classics of Japanese cinema, Ozu Yasujirō’s *Late Spring* (1949). It comes right after one of the film’s most famous images: a vase standing on a tatami mat in front of a window on which silhouettes of bamboo are projected. The scene in question consists of eight shots, seven of which show the Ryōanji rocks (of which there are fifteen in total), and which are separated and joined by seven cuts. (Ozu hardly ever uses any other transition than the cut, such as the wipe.) After two shots of rocks in the garden, the camera angle reverses, and we see the main protagonist with his friend—they are both fathers of daughters—sitting on the wooden platform with the tops of two rocks occupying the lower part of the frame. Two rocks and two fathers. Cut to a close-up of the fathers from their left side, with no rocks in view. In their dark suits, seated in the classic Ozu “overlapping triangles” configuration, and leaning forward toward the garden with their arms around knees drawn up toward their chins, they resemble two rocks. They talk about how they raise children who then go off to live their own lives. As they invoke such manifestations of impermanence, they remain motionless except for the occasional nod or turn of the head.
+    step1: TBD
+    step2: TBD
+  - id: 103
+    kind: body
+    source: |-
+      ![](../assets/japanese-aesthetics/LSwindow-thumb.jpg) ![](../assets/japanese-aesthetics/LSgarden1-thumb.jpg) ![](../assets/japanese-aesthetics/LSrocks1-thumb.jpg) ![](../assets/japanese-aesthetics/LSfathers1-thumb.jpg) ![](../assets/japanese-aesthetics/LSfathers2-thumb.jpg) ![](../assets/japanese-aesthetics/LSrocks2-thumb.jpg) ![](../assets/japanese-aesthetics/LSfathers3-thumb.jpg) ![](../assets/japanese-aesthetics/LSrocks3-thumb.jpg) ![](../assets/japanese-aesthetics/LSgarden2-thumb.jpg)
+    step1: TBD
+    step2: TBD
+  - id: 104
+    kind: body
+    source: |-
+      [Enlarged Sequence of Stills from *Late Spring*](japanese-aesthetics.late-spring.md)
+    step1: TBD
+    step2: TBD
+  - id: 105
+    kind: body
+    source: |-
+      In their brief conversation by the edge of the garden, the two fathers do little more than exchange platitudes about family life—and yet the scene is a profoundly moving expression of the human condition. It gains this effect from the assimilation of the figures of the two men to rocks, which seems to affirm the persistence of cycles of impermanence. These images of assimilation capture one of the central ideas behind the dry landscape garden: that of the continuum between human consciousness and stone, which is also understandable as the kinship of awareness with its original basis.
+    step1: TBD
+    step2: TBD
+  - id: 106
+    kind: body
+    source: |-
+      The opening shots of *Tokyo Story* (1953), which some consider Ozu’s greatest film, are also exemplary with respect to the cutting. The first shot shows a shrine sculpture to the left of center and behind it an estuary with a boat chugging along to the right, in the direction of a gradual rise of hills on the horizon. After ten seconds, just as the boat is about to disappear beyond the frame—there is a cut to the pavement on the side of a street. A cart now occupies the left foreground of the frame, and beside it stand two large bottles (Ozu’s signature shapes). Eight small children in school uniform walk away from the camera to the right. Continuity is provided by a parallel between the river and horizon of the first scene and the horizontal lines of the pavement and houses in the second, as well as by the movement toward the right. Continuity is also provided aurally by the continuing sound of the boat’s putt-putting. A ninth child appears and as he passes the bottles and reaches the center of the frame—there is a cut to a shot over the roofs of houses of a train traveling to the right, with behind it the buildings of a shrine or temple, and then hills behind those. The putting sound of the boat continues before being drowned out by the sound of the train, and the almost horizontal line of the train’s passage continue to be congruent with those of the street, descending gradually to the right. Smoke issues from two chimneys at left and center, the scene lasting fifteen seconds.
+    step1: TBD
+    step2: TBD
+  - id: 107
+    kind: body
+    source: |-
+      As the end of the train reaches the center of the frame—the sound continues but there is a cut to a closer shot of the train from the hill side, so that it is now moving up along a diagonal to the left. Behind the houses on the other side of the train is the estuary again. As the train’s whistle blows—there is a cut to a shrine surrounded by pine trees and statuary standing on an embankment with the estuary in the background on the far left. Continuity is provided by a chimney in the foreground that spouts smoke as the train’s steam whistle continues. The main line has reverted to a horizontal line rising toward the right. After six seconds, the shortest scene so far—there is a cut to a grandfather and grandmother sitting on the tatami matting of their home in the village, facing toward the right. The grandfather, consulting a timetable, says, “We’ll pass Osaka at around 6:00 this evening,” referring to a train trip they are just about to take to Tokyo, which will initiate the film’s main action.
+    step1: TBD
+    step2: TBD
+  - id: 108
+    kind: body
+    source: |-
+      ![](../assets/japanese-aesthetics/TS-1-thumb.jpg) ![](../assets/japanese-aesthetics/TS-2-thumb.jpg) ![](../assets/japanese-aesthetics/TS-3-thumb.jpg) ![](../assets/japanese-aesthetics/TS-4-thumb.jpg) ![](../assets/japanese-aesthetics/TS-5-thumb.jpg) ![](../assets/japanese-aesthetics/TS-6-thumb.jpg)
+    step1: TBD
+    step2: TBD
+  - id: 109
+    kind: body
+    source: |-
+      [Enlarged Sequence of Stills from *Tokyo Story*](japanese-aesthetics.tokyo-story.md)
+    step1: TBD
+    step2: TBD
+  - id: 110
+    kind: body
+    source: |-
+      For each cut Ozu has arranged for at least one formal element to provide continuity (*kire-tsuzuki*) between the adjacent scenes. Ozu’s inconspicuous switches remain among the most stylish cuts in world cinema, and his work continues to be a source of inspiration.
+    step1: TBD
+    step2: TBD
+  - id: 111
+    kind: oir
+    source: |-
+      - [Japanese Aesthetics, Wabi-Sabi, and the Tea Ceremony](http://www.art.unt.edu/ntieva/download/teaching/Curr_resources/mutli_culture/Japan/Aesthetics/Japanese%20Aesthetics_Wabi-Sabi_Tea%20Ceremony.pdf), web page hosted by the North Texas Institute for Educators on the Visual Arts (University of North Texas).
+    step1: TBD
+    step2: TBD
+  - id: 112
+    kind: ack
+    source: |-
+      The photographs of the Silver Pavilion etc. at Ginkakuji, and of the Dry Landscape Garden at Ryōanji, are by Graham Parkes. The photographs of the Golden Pavilion at Kinkakuji are by Susanne Z. Riehemann, and are reproduced here with her permission. The acknowledgements for the still images from the films discussed in Section 7 are: *Late Spring*, directed by Ozu Yasujirō, 1949, copyright by Shochiku Co., Ltd.; and *Tokyo Story*, directed by Ozu Yasujirō, 1953, copyright by Shochiku Co., Ltd. The image of Splashed Ink Landscape is [in the public domain](https://en.wikipedia.org/wiki/Haboku_sansui#/media/File:Sesshu-Haboku-Sansui.jpg).
+    step1: TBD
+    step2: TBD
