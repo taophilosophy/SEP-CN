@@ -174,6 +174,10 @@
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
 
+[^ashtiyānī-1973]: Ashtiyānī, Mehdi, 1973. *Commentary on Sabzawārī’s “Sharḥ-i manẓumah”*, A. Falaturi and M. Mohaghegh (eds.), Tehran.
+
+[^sabzavārī-1969]: Sabzavārī, M. H., 1969. *Sharḥ-i manẓumah*, Toshihiko Izutsu and Mehdi Mohaghegh (eds.), Tehran: Tehran University Press.
+
 [^shirazi-2004]: Shirazi, Mullā Ṣadrā, 2004. *On the Hermeneutics of the Light Verse of the Quran*, translated, introduced and commentary by Latimah-Parvin Peerwani, London: Islamic College for Advanced Studies Press.
 
 [^afifi-1951]: Afifi, A.E., 1951. “The Influence of Hermetic Literature on Moslem Thought.” *Bulletin of the School of Oriental and African Studies*, 13 (4): 840–855.
