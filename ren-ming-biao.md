@@ -62,6 +62,7 @@
 | Bahya ibn Paquda | Bahya ibn Paquda | 巴希亚·伊本·帕库达 | — | — | abraham-daud | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Bailey, Samuel | — | 塞缪尔·贝利 | — | — | 语料回收（molyneux-problem 首译） | 学界通行汉译（苏格兰常识学派，Mill 论战对象）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Basil | — | 巴西尔 | — | — | neoplatonism | 学界通行汉译（卡帕多西亚教父，该撒利亚主教；亦作“大巴西尔”） | 2026-11-07 |
+| Batterman, Robert | — | 罗伯特·巴特曼 | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Bauer, Bruno | — | 布鲁诺·鲍威尔 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Bayle, Pierre | — | 皮埃尔·培尔 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Beckner, Morton | — | Morton Beckner（现代学者，保留英文） | — | — | biology-philosophy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
@@ -78,9 +79,11 @@
 | Bloch, Karola | — | 卡罗拉·布洛赫 | — | — | bloch | 学界通行音译；凭证 2026-11-07 | 2026-11-07 |
 | Bloch-von Stritzki, Else | — | 埃尔斯·布洛赫-冯·施特里茨基 | — | — | bloch | 学界通行音译；凭证 2026-11-07 | 2026-11-07 |
 | Boethius, Anicius Manlius Severinus | — | 亚尼修·玛理乌斯·塞味利诺·波爱修斯 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
+| Bohm, David | — | 大卫·玻姆 | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Bohr, Niels | — | 玻尔 | — | — | 语料回收（lakatos 首译） | 物理学界千年通行汉译（丹麦物理学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Bonaventure | — | 波纳文图拉 | — | — | 语料回收（marsilius-inghen 首译） | 学界千年通行汉译（中世纪神学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Booker T. Washington | — | 布克·托·华盛顿 | — | — | alexander-crummell | 学界通行汉译 | 2026-11-07 |
+| Born, Max | — | 马克斯·玻恩 | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Boston Crummell | — | 波士顿·克鲁梅尔 | — | — | alexander-crummell | 克鲁梅尔之父，史料人物音译 | 2026-11-07 |
 | Bouty, Edmond | — | 埃德蒙·布蒂 | — | — | duhem | 学界惯例（物理学史通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Boniface IX | — | 卜尼法斯九世 | — | — | 语料回收（marsilius-inghen 首译） | 教皇通译惯例（教皇名从天主教传统译名）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
@@ -139,6 +142,7 @@
 | da Costa, Newton | — | 达科斯塔 | — | — | 语料回收（mathematics-inconsistent 首译） | 逻辑学界通行汉译（巴西逻辑学家，弗协调逻辑创始人）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Darboux, Gaston | — | 加斯东·达布 | — | — | duhem | 学界惯例（数学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Darden, Lindley | — | 林德利·达登 | — | — | biology-philosophy | 学界通行汉译（科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| Darrigol, Olivier | — | 奥利维耶·达里戈 | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Dashtakī, Ghiyāth al-Dīn Manṣur | — | 吉亚斯丁·曼苏尔·达什塔基 | — | — | arabic-islamic-mysticism | 设拉子学派通行音译 | 2026-11-07 |
 | Dashtakī, Mīr Ṣadr al-Dīn | — | 米尔·萨德尔丁·达什塔基 | — | — | arabic-islamic-mysticism | 设拉子学派通行音译 | 2026-11-07 |
 | David | — | 大卫 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
@@ -234,6 +238,7 @@
 | Heaviside, Oliver | — | 赫维赛德 | — | — | duhem | 学界惯例（物理学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Hebel, Johann Peter | — | 约翰·彼得·赫贝尔 | — | — | bloch | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Hegel | — | 黑格尔 | — | — | 首现（truth-coherence） | 学界千年通行汉译（德国观念论）；凭证 2026-11-07 | 2026-11-07 |
+| Heisenberg, Werner | — | 维尔纳·海森堡 | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Helen of Troy | — | 海伦 | — | — | diodorus-cronus | 学界千年通行汉译（史诗人物；“海伦曾有三个丈夫”为过去时命题反例）；与 Helene 行异人；凭证 2026-11-07 | 2026-11-07 |
 | Helm, Georg | — | 黑尔姆 | — | — | duhem | 全名汉译『格奥尔格·黑尔姆』，正文简名首现括注；学界惯例（能量主义者通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Hempel, Carl G. | — | 卡尔·G. 亨佩尔 | — | — | biology-philosophy | 学界通行汉译（《自然科学哲学》作者）；凭证 2026-11-07 | 2026-11-07 |
@@ -306,6 +311,7 @@
 | Kitcher, Philip | — | 菲利普·基切尔 | — | — | biology-philosophy | 学界通行汉译（科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Kohler, Kaufmann | — | 考夫曼·科勒 | — | — | albo-joseph | JewishEncyclopedia.com 条目作者音译 | 2026-11-07 |
 | Koppelman, Jacob | — | 雅各布·科佩尔曼 | — | — | albo-joseph | 16 世纪注家音译 | 2026-11-07 |
+| Kramers, Hendrik | — | 亨德里克·克拉默斯 | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Kāshānī, Afḍal al-Dīn | — | 阿夫达勒丁·卡沙尼 | — | — | arabic-islamic-mysticism | 波斯哲学通行音译 | 2026-11-07 |
 | Kāshānī, Mullā Muḥsin Fayḍ | — | 费兹·卡沙尼 | — | — | arabic-islamic-mysticism | 萨德拉学派通行音译 | 2026-11-07 |
 | Lambert of Auxerre | — | 欧塞尔的兰伯特 | — | — | 首现（william-sherwood） | 学界通行汉译；SUMMARY 定名沿用（l/lambert-auxerre）；凭证 2026-11-07 | 2026-11-07 |
@@ -358,6 +364,7 @@
 | Orwell, George | — | 奥威尔 | — | — | 语料回收（lakatos 首译） | 学界通行汉译（《一九八四》作者）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Parreut, John | 约翰·帕勒特 | 语料回收（marsilius-inghen 首译） | 学界通行汉译（唯名论者，马西利乌斯后学）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Pashukanis, Evgeny | — | 叶夫根尼·帕舒卡尼斯 | — | — | bloch | 学界通行汉译（苏联法学家）；凭证 2026-11-07 | 2026-11-07 |
+| Pauli, Wolfgang | — | 沃尔夫冈·泡利 | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Peter de Rivo | — | 彼得·德里沃 | — | — | auriol | 鲁汶大学 15 世纪思想家通行音译 | 2026-11-07 |
 | Peter Lombard | — | 彼得·伦巴德 | — | — | 首现（william-sherwood） | 学界通行汉译（《箴言四书》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Petrus Thomae | — | 彼得·托马 | — | — | auriol | 14 世纪司各脱主义者通行音译 | 2026-11-07 |
@@ -368,6 +375,7 @@
 | Penrose, Roger | — | 彭罗斯 | — | — | 语料回收（mathematics-inconsistent 首译） | 数学物理界通行汉译（彭罗斯三角）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Picard, Emile | — | 埃米尔·皮卡尔 | — | — | duhem | 学界惯例（数学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Pius VII | — | 庇护七世 | — | — | antonio-rosmini | 教宗通行汉译 | 2026-11-07 |
+| Planck, Max | — | 马克斯·普朗克 | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Pomponazzi, Pietro | — | 皮耶特罗·彭波那齐 | — | — | auriol | 文艺复兴哲学通行汉译 | 2026-11-07 |
 | Prior, Arthur | — | 阿瑟·普赖尔 | — | — | dialectical-school | SUMMARY 定名沿用（逻辑学家，主论证重构者）；凭证 2026-11-07 | 2026-11-07 |
 | Ptolemy I Soter | Ptolemy Soter | 托勒密一世·救主 | — | — | diodorus-cronus | 学界通行汉译（埃及托勒密王朝创立者，招致希腊知识分子至亚历山大里亚）；凭证 2026-11-07 | 2026-11-07 |
@@ -375,12 +383,15 @@
 | Pyrrho | — | 皮浪 | — | — | 首现（timon-phlius） | 学界通行汉译（伊利斯人，古希腊怀疑论开创者）；SUMMARY 定名；凭证 2026-11-07 | 2026-11-07 |
 | Qian Daxin | — | 钱大昕 | — | — | dai-zhen | 上游自带汉字；学界通行（乾嘉考据名家）；凭证 2026-11-07 | 2026-11-07 |
 | Qummī, Qāḍī Saʿīd | — | 卡迪·赛义德·库米 | — | — | arabic-islamic-mysticism | 萨德拉学派通行音译 | 2026-11-07 |
+| Radder, Hans | — | 汉斯·拉德 | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Rescher, Nicholas | — | 雷谢尔 | — | — | 首现（truth-coherence） | 学界通行汉译（美国哲学家；融贯论批评者）；凭证 2026-11-07 | 2026-11-07 |
 | Richard of Mediavilla | — | 米利亚维拉的里查德 | — | — | auriol | 方济各会思想家通行（即米德尔顿的理查德） | 2026-11-07 |
 | Roger B. Taney | — | 罗杰·B·坦尼 | — | — | alexander-crummell | 美国首席大法官通行汉译（叙述处作坦尼） | 2026-11-07 |
 | Rosenberg, Alexander | — | 亚历山大·罗森伯格 | — | — | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| Rosenfeld, Léon | — | 莱昂·罗森菲尔德 | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Rosmini, Antonio | — | 安东尼奥·罗斯米尼 | — | — | antonio-rosmini | SUMMARY 定名沿用（本词条主词） | 2026-11-07 |
 | Ruse, Michael | — | 迈克尔·鲁斯 | — | — | biology-philosophy | 学界通行汉译（《达尔文主义》作者）；凭证 2026-11-07 | 2026-11-07 |
+| Rutherford, Ernest | — | 欧内斯特·卢瑟福 | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Rákosi, Mátyás | Mátyás Rákosi | 拉科西 | — | — | 语料回收（lakatos 首译） | 学界通行汉译（匈牙利共产党领袖）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Polanyi, Michael | — | 波兰尼 | — | — | 语料回收（lakatos 首译） | 学界通行汉译（《个人知识》作者，科学哲学家与经济学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Piketty, Thomas | — | 皮凯蒂 | — | — | 语料回收（lakatos 首译） | 经济学界通行汉译（《21 世纪资本论》作者）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
@@ -399,6 +410,7 @@
 | Honoré Fabri | Honoré Fabri | 奥诺雷·法布里 | — | — | legrand | 学界通行汉译（耶稣会士-自然哲学家）；待 specs/008 审定库复核 | 2026-11-03 |
 | Sarah Mabitt Elston | — | 萨拉·马比特·埃尔斯顿 | — | — | alexander-crummell | 克鲁梅尔首任妻子，史料人物音译 | 2026-11-07 |
 | Schaffner, Kenneth F. | — | 肯尼思·F. 沙夫纳 | — | — | biology-philosophy | 学界通行汉译（科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| Schrödinger, Erwin | — | 埃尔温·薛定谔 | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Schwarzschild, Karl | — | 史瓦西 | — | — | 语料回收（lakatos 首译） | 物理学界通行汉译（德国天文学家，史瓦西度规）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 
 | Seel, Gerhard | — | 塞尔 | — | — | dialectical-school | 学界通行汉译（收割者论证研究专著作者）；凭证 2026-11-07 | 2026-11-07 |
@@ -436,6 +448,7 @@
 | Smart, J. J. C. | — | J. J. C. 斯马特 | — | — | biology-philosophy | 学界通行汉译（《功利主义：赞成与反对》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Solomon | — | 所罗门 | — | — | 首现（wisdom） | 学界通行汉译（圣经智慧传统）；凭证 2026-11-07 | 2026-11-07 |
 | Solon | — | 梭伦 | — | — | 首现（xenophanes） | 学界通行汉译（雅典立法者）；凭证 2026-11-07 | 2026-11-07 |
+| Sommerfeld, Arnold | — | 阿诺德·索末菲 | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Spinoza | — | 斯宾诺莎 | — | — | 首现（truth-coherence） | 学界千年通行汉译（17 世纪荷兰哲学家）；凭证 2026-11-07 | 2026-11-07 |
 | Stephanus of Alexandria | — | 亚历山大的斯特凡努斯 | — | — | neoplatonism | 学界通行汉译（7 世纪亚历山大里亚哲学家） | 2026-11-07 |
 | Stewart, Dugald | — | 杜格尔德·斯图尔特 | — | — | antonio-rosmini | 苏格兰常识学派通行音译 | 2026-11-07 |
@@ -456,6 +469,7 @@
 | Timaeus | — | 蒂迈欧 | — | — | neoplatonism | 柏拉图《蒂迈欧篇》同名对话人物（毕达哥拉斯派）；通行汉译同篇名 | 2026-11-07 |
 | Timon of Phlius | — | 斐利亚修斯的第蒙 | — | — | 首现（timon-phlius） | 学界通行汉译（皮浪门徒，讽刺诗人）；SUMMARY 定名；凭证 2026-11-07 | 2026-11-07 |
 | Torricelli, Evangelista | — | 托里拆利 | — | — | duhem | 学界惯例（物理学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
+| Van Vleck, John | — | 约翰·范弗莱克 | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Vattimo, Gianni | — | 詹尼·瓦蒂莫 | — | — | bloch | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Vladimir Lenin | — | 弗拉基米尔·列宁 | — | — | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Vitoria, Francisco de | — | 弗朗西斯科·德·维多利亚 | — | — | 语料回收（marsilius-inghen 首译） | 西班牙经院哲学通行汉译（萨拉曼卡学派创始人）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |

@@ -2,8 +2,44 @@
   "slug": "auriol",
   "kind": "retranslate",
   "zh_doc": "a/auriol.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T09:41:28Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T11:06:17Z",
+      "evidence": "初译：零信任直译自 yuanwen（2026-02-12 修订版），三分片组装（H1+pubinfo+导语+正文 4 节含 4 小节+尾节；引用注释型：说明行保留、两空 ### 丢弃、defs 65 条照录；其他网络资源 1 条实链接译出；rationes/esse apparens/modus concipiendi 等拉丁术语按源文约定保留原形并首现括注）；正文 11675 汉字"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T11:06:17Z",
+      "evidence": "一校（准确性）：五维对账——H2 8/8、H3 6:4（正文 2.1–2.4 全对应；Primary/Secondary 两空节家法丢弃）、脚注标记多重集 78:78 全等（伪标记 0:0）、defs 键集 65/65 全等、段落 37:36（byline 豁免）、年份 192:193（+1 为源文 1465–74 缩写区间中文全形展开，家法豁免）；两处引文块（《箴言书疏》直观/抽象认知定义、帕斯瑙译本同段）逐句核对；SUMMARY 定名对齐：邓·司各脱/里米尼的格里高利"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T11:08:56Z",
+      "evidence": "二校（语言）：check_prose 42→26——实修 20 处（script/fix_auriol_s2.py 逐条断言）：长句拆分 14（范畴五项列举、校勘工程关系句、诸神学家列举、三问式阐明句、替代方案句等）、弱动词 2（作出判断/作出断言）、被动改写 3、de-chain 1；余 26 条豁免留痕：引文块内部 3（《箴言书疏》定义引文）、括注与引注组技术长串 2（含 12 枚 marker 的英文引注组）、术语性被动与“被认知对象”类 de-chain 21（object of cognition 术语链，ADR-0020）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T11:08:59Z",
+      "evidence": "三校（体例）：check_style --strict 0（一次成型）；check_math 0；check_academic --strict 0 硬错误；check_render_artifacts 0；check_terms 硬错误 0（三处正文简称补全名后告警清零：约翰·卡普雷奥鲁斯、皮耶特罗·彭波那齐、存在概念的单义性）；人名 12 行/术语 10 行登记"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:37:05Z",
   "version_pin": {

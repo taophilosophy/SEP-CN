@@ -12,6 +12,7 @@
 | abstract utopia | — | 抽象乌托邦 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | abstractive cognition | — | 抽象认知 | auriol | 与 intuitive cognition 相对 | 2026-11-07 |
 | accidents | — | 偶性 | 语料回收（marsilius-inghen 首译） | 经院哲学通行译法（accidentia）；凭证 2026-11-06 | 2026-11-06 |
+| action quantum | — | 作用量子 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Actualism | — | 现实主义（模态形而上学；亦作“现实论”；伦理学语境词条定名作“现实主义”） | 语料回收（标题词） | 学界惯例（模态形而上学通行；审定“现实论”为地质学域同名不采）；凭证 2026-11-01 | 2026-11-01 |
 | actualization | — | 现实化 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | affectedness (Betroffenheit) | — | 受触动 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -23,6 +24,7 @@
 | anticipation | — | 预期 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | aretaic | — | 德性的（aretaic） | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | associate blame | — | 关联者责备 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
+| asymptotic agreement | — | 渐近一致 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | auxiliary hypothesis | — | 辅助假设 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | appellation | — | 称谓 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Axiom of Choice | — | 选择公理 | 语料回收（lakatos 首译） | 数学界通行译法（罗素称乘法公理）；凭证 2026-11-06 | 2026-11-06 |
@@ -37,6 +39,7 @@
 | blame | — | 责备 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | blameworthiness | — | 应受责备性 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | blameworthy | — | 应受责备 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
+| Bohr-Einstein frequency condition | — | 玻尔—爱因斯坦频率条件 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | business condition | — | 关己条件 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | cardinal virtues | — | 四枢德 | neoplatonism | 经院哲学与伦理学通行（正义、审慎、节制、勇敢） | 2026-11-07 |
 | care ethics | — | 关怀伦理 | 语料回收（标题词） | 审定“关怀伦理学”直接命中（新闻传播学域）；凭证 2026-11-01 | 2026-11-01 |
@@ -46,8 +49,11 @@
 | chunk and permeate | — | 分块渗透 | 语料回收（mathematics-inconsistent 首译） | 本词条首译裁定（Brown–Priest 技术）；凭证 2026-11-06 | 2026-11-06 |
 | cladistics | — | 分支系统学 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | claimant injustice | — | 主张者不义 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
+| classical limit | — | 古典极限 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| closed theory | — | 封闭理论 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | collapse model | — | 塌缩模型 | 语料回收（mathematics-inconsistent 首译） | 本词条首译裁定（模型论 collapse 通行译法）；凭证 2026-11-06 | 2026-11-06 |
 | common sensible | — | 共同可感性质 | 语料回收（molyneux-problem 首译） | 学界惯例（洛克《人类理解论》研究通行译法）；凭证 2026-11-06 | 2026-11-06 |
+| complementarity | — | 互补性 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | complicity | — | 共谋 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | comprehension axiom | — | 概括公理 | 语料回收（mathematics-inconsistent 首译） | 数理逻辑界通行译法（亦作“内涵公理”）；凭证 2026-11-06 | 2026-11-06 |
 | conceptualism | — | 概念论 | auriol | 中世纪共相之争通行（与唯名论/实在论三分；亦作“概念主义”） | 2026-11-07 |
@@ -61,6 +67,8 @@
 | context of discovery/context of justification | — | 发现语境／辩护语境 | 语料回收（lakatos 首译） | 科学哲学界通行译法（赖兴巴赫）；凭证 2026-11-06 | 2026-11-06 |
 | Continuum Hypothesis | — | 连续统假设 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | conventional law | — | 约定法 | albo-joseph 首译 | 与神法/自然法三分相对 | 2026-11-07 |
+| Copenhagen interpretation | — | 哥本哈根解释 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| correspondence principle | — | 对应原理 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | corroboration | — | 确证 | 语料回收（lakatos 首译） | 波普尔研究通行译法（已在册佐证，批6 正文使用）；凭证 2026-11-06 | 2026-11-06 |
 | creation from nothing | — | 无中创世 | 语料回收（marsilius-inghen 首译） | 神哲学通行译法（creatio ex nihilo）；凭证 2026-11-06 | 2026-11-06 |
 | cross-modal | — | 跨模态 | 语料回收（molyneux-problem 首译） | 认知科学界通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -68,6 +76,7 @@
 | current self | — | 当前自我 | 语料回收（标题词） | 学界惯例（advance-directives 词条核心（×40））；凭证 2026-11-01 | 2026-11-01 |
 | dark-reared | — | 黑暗饲养 | 语料回收（molyneux-problem 首译） | 发育神经科学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | darkness of the lived moment | — | 体验瞬间的黑暗 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| decoherence | — | 退相干 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | degenerating research programme | — | 退化的研究纲领 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
 | deification | — | 神化 | neoplatonism | 宗教哲学通行（希腊语 theosis）；本词条视为伦理学最高目标 | 2026-11-07 |
 | demarcation criterion | — | 划界标准 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -113,14 +122,19 @@
 | extramural speech | — | 校外言论 | 语料回收（标题词） | 学界惯例（学术自由词条核心（×15））；凭证 2026-11-01 | 2026-11-01 |
 | fallibilism | — | 可错论 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | fitness | — | 适合度 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| Fourier decomposition | — | 傅里叶分解 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| Fourier series | — | 傅里叶级数 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| frequency interpretation | — | 频率解释 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | front (Front) | — | 前线 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | fulfilled moment | — | 充实的瞬间 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | full moral status | — | 完全道德地位 | 语料回收（标题词） | 学界惯例（生命伦理学通行）；凭证 2026-11-01 | 2026-11-01 |
 | Flynn effect | — | 弗林效应 | 语料回收（lakatos 首译） | 心理学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | falsificationism | — | 证伪主义 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | fundamental feeling | — | 基本感觉 | antonio-rosmini | 罗斯米尼心理学核心术语（sentimento fondamentale） | 2026-11-07 |
+| fundamental frequency | — | 基频 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | future contingents | — | 未来偶然后件 | auriol | 中世纪模态与神意论题通行 | 2026-11-07 |
 | general ability | — | 一般能力 | 语料回收（标题词） | 学界惯例（能力哲学（与特殊能力相对））；凭证 2026-11-01 | 2026-11-01 |
+| generalized correspondence principle | — | 广义对应原理 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | genetic drift | — | 遗传漂变 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | genetic information | — | 遗传信息 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | gnosis | — | 灵知 | arabic-islamic-mysticism | 与 gnostic 灵知者、gnosticism 灵知论同族 | 2026-11-07 |
@@ -129,6 +143,7 @@
 | Great Schism | — | 教会大分裂 | 语料回收（marsilius-inghen 首译） | 史学界通行译法（1378 西方教会大分裂）；凭证 2026-11-06 | 2026-11-06 |
 | hairesis | αἵρεσις | 宗派 | dialectical-school | 古代哲学史文献通行（有共同学说与制度关联的学派组织；与师承对举）；凭证 2026-11-07 | 2026-11-07 |
 | hard core | — | 硬核 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
+| harmonic | — | 谐波 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | heresy | — | 异端 | albo-joseph 首译 | 宗教哲学通行 | 2026-11-07 |
 | heritage | — | 遗产 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | holding responsible | — | 追究责任 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -147,6 +162,7 @@
 | hypothetico-deductive | — | 假设演绎 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | innateness | — | 先天性 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | insolubles | — | 不可解命题 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法（insolubilia）；凭证 2026-11-06 | 2026-11-06 |
+| intensity interpretation | — | 强度解释 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | intentional action | — | 意向行动 | 语料回收（标题词） | 学界惯例（行动哲学核心（action 词条×53））；凭证 2026-11-01 | 2026-11-01 |
 | ideology | — | 意识形态 | law-ideology | 学界通行译法（马克思主义/政治哲学通行）；凭证 2026-11-03 | 2026-11-03 |
 | internal/external history | — | 内部史／外部史 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -202,6 +218,7 @@
 | Not-Yet-Conscious (das Noch-Nicht-Bewusste) | — | 尚未意识 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | novum | — | 新奇者（novum） | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | objectivity | — | 客观性 | antonio-rosmini | 认识论通行 | 2026-11-07 |
+| old quantum theory | — | 旧量子理论 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | ontology of the unfinished | — | 未完成者本体论 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | opprobrium | — | 谴责 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | optimality model | — | 最优性模型 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -210,6 +227,7 @@
 | open set logic/closed set logic | — | 开集逻辑／闭集逻辑 | 语料回收（mathematics-inconsistent 首译） | 本词条首译裁定（拓扑语义）；凭证 2026-11-06 | 2026-11-06 |
 | non-standard analysis | — | 非标准分析 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法（鲁滨逊）；凭证 2026-11-06 | 2026-11-06 |
 | Oral Law | — | 口传律法 | albo-joseph 首译 | 犹太研究通行（与成文《托拉》相对） | 2026-11-07 |
+| overtone | — | 泛音 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | parsimony | — | 简约法 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | partinost | партийность | 党性 | 语料回收（lakatos 首译） | 苏联文艺学界通行译法（俄文 партийность）；凭证 2026-11-06 | 2026-11-06 |
 | paraconsistency | — | 弗协调性 | 语料回收（lakatos 首译） | 逻辑学界通行译法（亦作“次协调”）；凭证 2026-11-06 | 2026-11-06 |
@@ -230,10 +248,14 @@
 | propensity (interpretation of fitness) | — | 倾向 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | proper function | — | 专有功能 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | proportionality (of blame) | — | 相称性 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
+| quantum condition | — | 量子条件 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| quantum jump | — | 量子跳跃 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| quantum number | — | 量子数 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | quasi-empiricism | — | 准经验主义 | 语料回收（lakatos 首译） | 数学基础研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | primary/secondary intention | — | 第一意向／第二意向 | 语料回收（marsilius-inghen 首译） | 中世纪哲学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | projective geometry | — | 射影几何 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | quietism | — | 寂静主义 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| rational generalization | — | 合理推广 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | rational theology | — | 理性神学 | antonio-rosmini | 沃尔夫式形而上学分科通行 | 2026-11-07 |
 | reactive attitudes | — | 反应性态度 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | real possibility | — | 实在可能性 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -268,6 +290,7 @@
 | salami tactics | — | 萨拉米战术 | 语料回收（lakatos 首译） | 史学界通行译法（拉科西用语）；凭证 2026-11-06 | 2026-11-06 |
 | sanction | — | 制裁 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | selected effects (theory of function) | — | 选择效果 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| selection rule | — | 选择定则 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | self-blame | — | 自我责备 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | semantic information | — | 语义信息 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | sensationalism | — | 感觉主义 | antonio-rosmini | 近代认识论通行（与 sensism 感觉论区别） | 2026-11-07 |
@@ -283,6 +306,7 @@
 | spectator blame | — | 旁观者责备 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | speculative materialism | — | 思辨唯物主义 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | standing to blame | — | 责备资格 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
+| stationary state | — | 定态 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | stereoscope | — | 立体镜 | 语料回收（molyneux-problem 首译） | 学界通行译法（惠斯通 1838 发明）；凭证 2026-11-06 | 2026-11-06 |
 | sola fide | — | 仅凭信仰 | 语料回收（marsilius-inghen 首译） | 神学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | show trial | — | 作秀审判 | 语料回收（lakatos 首译） | 史学界通行译法；凭证 2026-11-06 | 2026-11-06 |
