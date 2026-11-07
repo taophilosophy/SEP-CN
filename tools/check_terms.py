@@ -42,6 +42,8 @@ REGISTRY2 = os.path.join(ROOT, 'ren-ming-biao.md')
 GLOSSARY = os.path.join(ROOT, 'qian-yan', 'ci-hui-biao.md')
 ORIG_REPORT = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
                            'orig-missing.txt')
+PERSON_REPORT = os.path.join(ROOT, 'specs', '013-person-attribution', 'results',
+                             'person-missing.txt')
 DEPRECATED_MARK = '已废弃'
 HEADER_WORDS = {'原文', '译法', '首现', '依据', '裁定日期', '人名', '文献',
                 '条目', 'term', '原文形态', '通行中文', '键', '出处', '日期'}
@@ -161,12 +163,12 @@ def is_data_row(cells):
             and not set(cells[0]) <= set(':-— '))
 
 
-def parse_registry_full(path):
-    """返回 rows=[(term, orig, trans, first_seen, basis, date, lineno)] 与解析告警。
+def parse_registry2_full(path):
+    """人名表八列解析（2026-11-07 籍属/年代列迁移）。
 
-    六列（键|原文|译法|出处|依据|日期，2026-11-06 原文列迁移）为标准格式；
-    旧五列（原文|译法|首现|依据|裁定日期）与旧四列（无依据）按旧口径解析并容忍，
-    此时 orig=None 表示「旧格式没有原文列」（区别于新格式的留空或填「—」）。
+    返回 rows=[(term, orig, trans, nation, years, first_seen, basis, date, lineno)]。
+    nation/years 为 None 表示「旧六列没有这两列」（区别于新格式留空或填「—」）。
+    术语表仍是六列，此处 nation/years 恒为 None。
     """
     rows, warns = [], []
     if not path or not os.path.exists(path):
@@ -178,31 +180,88 @@ def parse_registry_full(path):
         if not is_data_row(cells):
             continue
         n = len(cells)
-        if n >= 6:
+        if n >= 8:
             term, orig, trans = cells[0], cells[1], cells[2]
-            first_seen, basis, date = cells[3], cells[4], cells[5]
-            if n > 6:
-                warns.append('第 %d 行 %d 列（应为 6，已取前 6 列）：%s'
+            nation, years = cells[3], cells[4]
+            first_seen, basis, date = cells[5], cells[6], cells[7]
+            if n > 8:
+                warns.append('第 %d 行 %d 列（应为 8，已取前 8 列）：%s'
                              % (lineno, n, term))
             if not basis:
                 warns.append('缺依据列（告警）：%s（第 %d 行）' % (term, lineno))
+        elif n == 6:
+            term, orig, trans = cells[0], cells[1], cells[2]
+            first_seen, basis, date = cells[3], cells[4], cells[5]
+            nation = years = None
+            if not basis:
+                warns.append('缺依据列（告警）：%s（第 %d 行）' % (term, lineno))
+        elif n >= 5:
+            term, orig, trans = cells[0], None, cells[1]
+            first_seen = cells[2] if n >= 3 else ''
+            basis, date = cells[3], cells[4]
+            nation = years = None
+            if not basis:
+                warns.append('缺依据列（告警）：%s（第 %d 行）' % (term, lineno))
+        elif n == 4:
+            term, orig, trans = cells[0], None, cells[1]
+            first_seen, basis, date = cells[2] if n >= 3 else '', '', cells[3]
+            nation = years = None
+            warns.append('缺依据列（告警）：%s（第 %d 行）' % (term, lineno))
         else:
             term, orig, trans = cells[0], None, cells[1]
             first_seen = cells[2] if n >= 3 else ''
-            if n >= 5:
-                basis, date = cells[3], cells[4]
-                if not basis:
-                    warns.append('缺依据列（告警）：%s（第 %d 行）'
-                                 % (term, lineno))
-            elif n == 4:
-                basis, date = '', cells[3]
-                warns.append('缺依据列（告警）：%s（第 %d 行）' % (term, lineno))
-            else:
-                basis, date = '', ''
-                warns.append('第 %d 行仅 %d 列（应为 5）：%s'
-                             % (lineno, n, term))
-        rows.append((term, orig, trans, first_seen, basis, date, lineno))
+            basis, date = '', ''
+            nation = years = None
+            warns.append('第 %d 行仅 %d 列（应为 8）：%s'
+                         % (lineno, n, term))
+        rows.append((term, orig, trans, nation, years,
+                     first_seen, basis, date, lineno))
     return rows, warns
+
+
+def parse_registry_full(path):
+    """返回 rows=[(term, orig, trans, first_seen, basis, date, lineno)] 与解析告警。
+
+    六列（键|原文|译法|出处|依据|日期，2026-11-06 原文列迁移）为标准格式；
+    人名表八列（多「籍属」「生卒/鼎盛年」）由 parse_registry2_full 解析后投影，
+    这里只保留原有七元组签名，故旧工具（term_audit / tl_browser_batch）无需改动。
+    此时 orig=None 表示「旧格式没有原文列」（区别于新格式的留空或填「—」）。
+    """
+    rows2, warns = parse_registry2_full(path)
+    rows = [(t, orig, trans, fs, basis, date, ln)
+            for t, orig, trans, _nation, _years, fs, basis, date, ln in rows2]
+    return rows, warns
+
+
+def person_missing(rows2):
+    """人名缺「籍属」「生卒/鼎盛年」：返回 [(term, lineno, 缺项)]。
+
+    rows2 为 parse_registry2_full 口径；nation/years 为 None（旧六列）或空/「—」
+    都记为缺。只对人物登记册调用。
+    """
+    out = []
+    for (term, _orig, _trans, nation, years,
+         _fs, _basis, _date, lineno) in rows2:
+        lack = []
+        if nation is None or nation.strip() in ORIG_BLANK:
+            lack.append('籍属')
+        if years is None or years.strip() in ORIG_BLANK:
+            lack.append('生卒/鼎盛年')
+        if lack:
+            out.append((term, lineno, '、'.join(lack)))
+    return out
+
+
+def write_person_missing(entries, path):
+    """person-missing.txt：每行「人名\t行号\t缺项」，末行汇总（原子写）。"""
+    lines = ['%s\t%d\t%s' % e for e in entries]
+    lines.append('汇总\t%d\t人名缺籍属/生卒' % len(entries))
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    tmp = path + '.tmp'
+    with open(tmp, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(lines) + '\n')
+    os.replace(tmp, path)
+
 
 
 def parse_registry(path):
@@ -510,6 +569,18 @@ def main(argv=None):
         write_orig_missing(orig_entries, ORIG_REPORT)
         print('非英语术语缺原文（告警，不计硬错误）: %d 条，清单 → %s'
               % (len(orig_entries), ORIG_REPORT))
+        # 人名缺籍属/生卒（013 工程）：同口径告警，清单落 specs/013
+        if reg2_path:
+            rows2, _w2 = parse_registry2_full(reg2_path)
+            person_entries = person_missing(rows2)
+            if not docs:
+                for term, lineno, lack in person_entries[:22]:
+                    print('人名缺%s（告警）: %s（行 %d）' % (lack, term, lineno))
+                if len(person_entries) > 22:
+                    print('…（其余 %d 条见清单）' % (len(person_entries) - 22))
+            write_person_missing(person_entries, PERSON_REPORT)
+            print('人名缺籍属/生卒（告警，不计硬错误）: %d 条，清单 → %s'
+                  % (len(person_entries), PERSON_REPORT))
     if docs:
         return 0
     return 1 if hard else 0
