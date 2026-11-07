@@ -539,146 +539,194 @@ segments:
     kind: body
     source: |-
       Just as the alternative terms used by other languages can seem to make linguistic conventions seem like inevitable facts of nature, so too ignorance of alternatives to a given social arrangement can instill the belief that the arrangement is natural and inevitable and thus beyond the possibility of radical criticism. So, if the ancients were unable to see what virtue required in regard to slavery, that … requires some explanation by social and historical forces, by cultural limitations if you will. (Slote 1982, p. 72)[^slote-1982]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如其他语言所使用的替代术语可能使语言惯例看起来像是自然的必然事实，对某一社会安排之替代方案的不知，也能灌输这样一种信念：该安排是自然的、不可避免的，因而超出了彻底批评的可能。所以，如果古人无法看到德性在奴隶制方面所要求的东西，那……就需要由社会与历史力量、由文化限制（如果你愿意这么说）来作出某种解释。(Slote 1982, p. 72)[^slote-1982]
+    step2: |-
+      正如别的语言采用的替代称谓，会让人把自己的语言惯例看成天经地义的事实；对某一社会安排之替代方案的不知，也会让人相信这安排天然如此、无可避免，因而根本无从彻底批评。所以，古人若看不到德性在奴隶制上要求什么，那……就得由社会与历史的力量、由文化上的限制（如果你愿意这么说）来作些解释。(Slote 1982, p. 72)[^slote-1982]
   - id: 68
     kind: body
     source: |-
       Michelle Moody-Adams agrees with Slote that whether culturally acquired beliefs defeat moral responsibility depends importantly on the empirical details of how they were acquired and sustained (Moody-Adams 1994)[^moody-adams-1994]. But she disagrees with Slote’s particular etiological story: “I challenge the empirical credentials of those views which attempt to exempt historical agents from responsibility on the grounds that they suffer from some presumed culturally generated inability to avoid wrongdoing” (Moody-Adams 1994, p. 293)[^moody-adams-1994].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Michelle Moody-Adams 同意 Slote 的看法：文化上获得的信念是否使道德责任失效，很大程度上取决于它们如何获得与维持的经验细节 (Moody-Adams 1994)[^moody-adams-1994]。但她不同意 Slote 的特定成因学叙事：“我质疑那些试图以历史行动者患有某种假定的、文化造成的、无法避免不当行为的能力缺失为由，免除其责任的观点之经验凭证” (Moody-Adams 1994, p. 293)[^moody-adams-1994]。
+    step2: |-
+      Michelle Moody-Adams 与 Slote 一样认为：文化上习得的信念能否使道德责任失效，很大程度上要看它们当初如何获得、又如何维持的经验细节 (Moody-Adams 1994)[^moody-adams-1994]。但她不赞成 Slote 那套具体的成因学叙事：“有些观点以历史行动者患有某种假定的、由文化造成的、无法避免不当行为的能力缺失为由，免除其责任——我要质疑这类观点的经验凭证” (Moody-Adams 1994, p. 293)[^moody-adams-1994]。
   - id: 69
     kind: body
     source: |-
       According to Moody-Adams, a better explanation of culturally sanctioned immoral practices and institutions is that individuals choose to participate in these practices and perpetuate them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按 Moody-Adams 的看法，对于受文化认可的不道德实践与制度，更好的解释是：个人选择参与这些实践并使它们延续下去。
+    step2: |-
+      Moody-Adams 认为，对受文化认可的不道德实践与制度，更好的解释是：个人自己选择参与其中，并让它们延续下去。
   - id: 70
     kind: body
     source: |-
       Our failure to see this as the correct etiological story owes to underappreciation of two facts about human psychology that are, according to Moody-Adams, well attested to in anthropology, social psychology, and case reports. The first fact is the “banality of evil,” the observation that ordinary humans are regularly and routinely able to inflict great cruelty on their fellows if there are incentives to do so. Moody-Adams cites Stanley Milgram’s famous experiments on obedience (Milgram 1965)[^milgram-1965], among other empirical data, in support. The second fact is our proclivity towards “affected ignorance,” in which individuals engage in subtle forms of self-deception and motivated evidence seeking. Slavery was maintained as an institution, Moody-Adams surmises, because people made choices that were in part cruel and in part affectedly ignorant. See also Calhoun 1989 and Mills 2007, for influential related arguments.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们之所以未能看出这才是正确的成因学叙事，是因为低估了关于人类心理的两个事实——按 Moody-Adams 的说法，这两个事实在人类学、社会心理学与个案报告中都有充分证据。第一个事实是“恶的平庸性”：普通人在有激励时会经常而例行地对同类施加巨大残酷。Moody-Adams 引用 Stanley Milgram 著名的服从实验 (Milgram 1965)[^milgram-1965] 以及其他经验数据为证。第二个事实是我们倾向于“故作无知”，即个人从事微妙形式的自我欺骗与有动机的证据搜寻。Moody-Adams 推测，奴隶制之所以作为一种制度得以维持，是因为人们所做的选择一部分是残酷的，一部分是故作无知的。相关的重要论证另见 Calhoun 1989 与 Mills 2007。
+    step2: |-
+      我们之所以没看出这才是正确的成因学解释，是因为低估了关于人类心理的两个事实——Moody-Adams 指出，这两个事实在人类学、社会心理学与个案报告中都有大量佐证。其一是“恶的平庸性”：只要有利可图，普通人就能经常而例行地对同类施加极大的残酷。Moody-Adams 举 Stanley Milgram 著名的服从实验 (Milgram 1965)[^milgram-1965] 及其他经验数据为证。其二，人有一种“故作无知”的倾向：以微妙的方式自欺，并有选择地搜寻证据。Moody-Adams 推测，奴隶制之所以能作为制度维持下去，是因为人们所做的选择既含残酷，也含故作无知。相关的重要论证另见 Calhoun 1989、Mills 2007。
   - id: 71
     kind: body
     source: |-
       ### 3.2 Social Networks and “Bad Beliefs”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 社会网络与“坏信念”
+    step2: |-
+      ### 3.2 社会网络与“坏信念”
   - id: 72
     kind: body
     source: |-
       Neil Levy offers a contrasting perspective in investigating a related phenomenon, the acquisition of “bad beliefs” among members of certain political or ideological subcultures, for example, communities of climate change deniers, vaccination skeptics, or supporters of demagogic political figures (Levy 2021)[^levy-2021].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Neil Levy 在考察一个相关现象时提供了对照性的视角：某些政治或意识形态亚文化成员——例如气候变化否认者、疫苗怀疑者或蛊惑人心政客的支持者群体——之中“坏信念”的获得 (Levy 2021)[^levy-2021]。
+    step2: |-
+      Neil Levy 则从另一角度考察一个相关现象：某些政治或意识形态亚文化群体中的成员——比如否认气候变化者、怀疑疫苗者、煽动型政客的拥趸——如何获得“坏信念” (Levy 2021)[^levy-2021]。
   - id: 73
     kind: body
     source: |-
       Levy’s argument relies heavily on the ideas of bounded rationality and epistemic deference. He notes that the evidence that bears on most complex scientific matters (climate, evolution) is so extensive and abstruse, it is simply not feasible or rationally advisable for ordinary people to evaluate all this evidence for themselves. Drawing on the work of quantitative biologists and social scientists working in the “dual-inheritance” framework (Boyd & Richerson 1988; Henrich 2016)[^boyd-1988][^henrich-2016], Levy argues that people instead make heavy use of the strategy of deferring to the beliefs that prevail in their community. This strategy works because there are a number of features of human belief networks that jointly make it the case that the fact that others around you believe that *p* is in fact, on average, evidence for *p*. Levy argues that from these observations, it follows that those who hold beliefs that run counter to scientific consensuses are very often just engaging in rational deference—the problem is not in the way they form their beliefs but in the epistemic environment in which they are formed. See also Rini 2017, O’Connor & Weatherall 2019, Nguyen 2020, Dorst 2023, for importantly different arguments that reach similar conclusions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Levy 的论证大量依赖有限理性与认知顺从这两个观念。他指出，与大多数复杂科学问题（气候、演化）相关的证据如此广博而深奥，普通人要亲自评估全部证据根本不可行，也非理性上可取。借助在“双重继承”框架下工作的定量生物学家与社会科学家的工作 (Boyd & Richerson 1988; Henrich 2016)[^boyd-1988][^henrich-2016]，Levy 主张，人们转而大量使用一种策略：顺从共同体中流行的信念。这一策略之所以有效，是因为人类信念网络的若干特征共同使得：你周围其他人相信*p*这一事实，实际上平均而言就是*p*的证据。Levy 论证说，由这些观察可推出：持有背离科学共识之信念的人，往往不过是在进行理性的顺从——问题不在他们形成信念的方式，而在形成信念的认知环境。另见 Rini 2017、O'Connor & Weatherall 2019、Nguyen 2020、Dorst 2023 等提出重要不同论证、却得出类似结论的文献。
+    step2: |-
+      Levy 的论证在很大程度上依赖有限理性与认知顺从两个观念。他指出，涉及大多数复杂科学问题（气候、演化）的证据既庞杂又深奥，普通人要自行评估这一切，既不可行，也非理性上可取。于是人们大量采用一种策略：顺从本共同体中流行的信念——Levy 借“双重继承”框架下定量生物学家与社会科学家的工作来说明这一点 (Boyd & Richerson 1988; Henrich 2016)[^boyd-1988][^henrich-2016]。这策略管用，是因为人类信念网络的若干特征合在一起，使得“你周围的人都相信*p*”这一事实平均而言确乎构成*p*的证据。Levy 据此论证：持有与科学共识相悖之信念的人，往往只是在做理性的顺从——毛病不在信念形成的方式，而在信念形成所处的认知环境。另见 Rini 2017、O'Connor & Weatherall 2019、Nguyen 2020、Dorst 2023 等，论证虽有重要差异，结论却相近。
   - id: 74
     kind: body
     source: |-
       A striking aspect of Levy’s picture is that those who hold “good” beliefs that are in line with the scientific consensus and those who hold “bad” beliefs that deviate from this consensus typically don’t differ much in terms of their respective methods of belief formation. The former just happen to be in a less favorable epistemic environment than the latter (see Worsnip 2022, for a helpful discussion of this point)[^worsnip-2022]. Levy’s picture furthermore suggests that the ignorance of those who hold bad beliefs is often non-culpable. A parent who fails to vaccinate their child may not be morally responsible for the damage inflicted because they may be non-culpably ignorant of the balance of risks and benefits. The fault lies not with them but with the unlucky fact that their epistemic environment is polluted.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Levy 图景中一个引人注目的方面是：持有与科学共识一致的“好”信念的人，与持有偏离共识的“坏”信念的人，在各自的信念形成方法上通常差别不大。前者只是恰好处于不如后者的认知环境（关于这一点的有益讨论，见 Worsnip 2022）[^worsnip-2022]。Levy 的图景还表明，持有坏信念者的无知往往不可归咎。一位未能给孩子接种疫苗的家长，也许不必为造成的损害负道德责任，因为他们可能不可归咎地不知道风险与收益的权衡。过错不在他们，而在其认知环境遭到污染这一不幸事实。
+    step2: |-
+      Levy 图景中一个醒目的地方是：持“好”信念（与科学共识一致）的人与持“坏”信念（偏离共识）的人，在信念形成方法上往往差别不大；前者不过是恰好身处较后者更不利的认知环境（参见 Worsnip 2022 对此的有益讨论）[^worsnip-2022]。Levy 的图景还提示，持坏信念者的无知常常不可归咎。没给孩子接种疫苗的家长，未必该为造成的损害负道德责任——他们可能不可归咎地不了解风险与收益的权衡；过错不在他们，而在其认知环境已被污染这一倒霉事实。
   - id: 75
     kind: body
     source: |-
       A key empirical assumption in Levy’s account is that taking on the beliefs of those around you is done solely, or even mostly, for epistemic reasons. But there is considerable evidence that people often adopt views, especially counternormative ones, that serve as “cultural badges” that identify the members of a moral, political, or ideological community and demarcate the community’s boundaries (Boyd & Richerson 1987; McElreath et al. 2003)[^boyd-1987][^mcelreath-2003]. These views are held on to tenaciously in the face of strong and persistent counterevidence because the epistemic costs are more than made up by personal, prudential gains. Membership in the group is valuable and deviations from orthodoxy are punished so the person has strong social incentives to endorse whatever is the “tribal” creed (Williams 2023, 2021; Kahan 2017; Funkhouser 2022)[^funkhouser-2022][^williams-2023].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Levy 说明中的一个关键经验假定是：采纳周围人的信念，完全或甚至主要出于认知理由。但有可观证据表明，人们常常采纳某些观点——尤其是反规范的观点——是因为它们充当“文化徽章”，标识某个道德、政治或意识形态共同体的成员身份，并划出该共同体的边界 (Boyd & Richerson 1987; McElreath et al. 2003)[^boyd-1987][^mcelreath-2003]。这类观点面对强有力且持续的反证仍被牢牢坚持，因为认知上的代价远被个人与审慎的收益抵消。群体成员身份很有价值，背离正统会受惩罚，因此个人有强烈的社会激励去认可无论何种“部落”信条 (Williams 2023, 2021; Kahan 2017; Funkhouser 2022)[^funkhouser-2022][^williams-2023]。
+    step2: |-
+      Levy 说明中有一个关键的经验假定：人们采纳周围人的信念，纯粹——甚至主要——是出于认知理由。但相当多的证据显示，人们常常采纳某些观点（尤其是违背常规的观点），是因为它们充当“文化徽章”，标示一个人属于某个道德、政治或意识形态共同体，并划出该共同体的边界 (Boyd & Richerson 1987; McElreath et al. 2003)[^boyd-1987][^mcelreath-2003]。这类观点面对强劲而持续的反证仍被死死抱住，因为认知上的代价远被个人的审慎收益所抵消：群体成员身份有价值，背离正统要受罚，于是个人有强烈的社会激励去拥护无论何种“部落”信条 (Williams 2023, 2021; Kahan 2017; Funkhouser 2022)[^funkhouser-2022][^williams-2023]。
   - id: 76
     kind: body
     source: |-
       But notice that at this turn in the discussion, it is not at all clear that we are still talking about the attitude of *belief* anymore, which was our original topic. The present claim under consideration is that people express support for certain views for prudential reasons: personal gain, social status, avoiding ostracism, and so forth. None of this requires the person actually to believe the relevant claims for which they are expressing support. Recall the original issue that we were aiming to address: When is a person excused from moral responsibility due to ignorance and when are they not excused because they culpably brought about their ignorance? If the claims currently under consideration are correct, then some cases that appear overtly to be ignorance may turn out to be no such thing; they are simply cases of people expressing social support for certain false propositions without actually believing them. Such expressions of social support, it would seem, are not forms of ignorance and are no shield from moral responsibility.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但请注意，讨论到了这一步，我们已经不太清楚是否还在谈论*信念*态度——那才是我们最初的话题。目前考察的主张是：人们出于审慎理由表达对某些观点的支持：个人利益、社会地位、避免排斥，等等。这些都不要求人们实际相信他们所支持的相关主张。回想我们原本要处理的问题：一个人何时因无知而免除道德责任，何时因其可归咎地造成自身无知而不获免除？如果目前考察的主张正确，那么一些表面上看似无知的情形，可能根本不是无知；它们不过是人们在不实际相信某些虚假命题的情况下，对这些命题表达社会支持。这类社会支持的表达看来不属于无知形式，也不能成为道德责任的屏障。
+    step2: |-
+      但请注意：讨论走到这里，我们已经看不清是否还在谈*信念*态度了——那才是最初的话题。眼下的主张是：人们出于审慎理由（个人利益、社会地位、免遭排斥等）而表态支持某些观点。可这一切都不要求他们真的相信自己所支持的主张。回想我们本来要解决的问题：一个人何时因无知而免除道德责任，何时又因可归咎地造成自身无知而不能免除？若眼下的主张成立，那么一些表面上像是无知的情形，可能根本算不上无知：那不过是人们对一个自己并不相信的虚假命题作出社会性表态。这样的表态并不构成无知，也挡不住道德责任。
   - id: 77
     kind: body
     source: |-
       We have considered several alternative explanations for the etiology of ignorance, or related attitudes. It should be emphasized that there is one sense in which they don’t necessarily compete: each explanation might be true of different sets of cases. That is, it might be true that Slote’s explanation invoking cultural inability is applicable to some cases, Levy’s view invoking rational deference is applicable to others, and the views of Moody-Adams and other critics are applicable in still other cases (see Benson 2001, which makes a related point)[^benson-2001]. It is ultimately an empirical question which of the preceding etiological explanations best fits the particular case at hand, if any. It follows that when dealing with complex, real-world cases, as opposed to stipulated hypothetical cases, assessing whether agents exhibit culpable versus non-culpable ignorance cannot generally be accomplished from the armchair alone. Such assessment will additionally require careful empirical inquiry into the etiology of how the relevant agents came to believe what they do.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们考察了关于无知（或相关态度）成因学的几种替代解释。应当强调，在一种意义上它们未必相互竞争：每种解释可能适用于不同的案例集合。也就是说，Slote 诉诸文化无能为力的解释可能适用于某些案例，Levy 诉诸理性顺从的观点适用于另一些，而 Moody-Adams 及其他批评者的观点适用于另一些案例（见 Benson 2001 一个相关的论点）[^benson-2001]。前述几种成因学解释中哪一种最适合手头的具体案例（如果有的话），最终是个经验问题。由此可推：处理复杂的现实案例而非规定的假想案例时，判断行动者表现出的是可归咎的还是不可归咎的无知，一般无法单凭扶手椅完成。这种判断还需要对相关行动者何以相信其所作所为的成因学作细致经验探究。
+    step2: |-
+      我们考察了关于无知（及相关态度）成因的几种不同解释。须强调，在一种意义上它们未必相互竞争：每种解释可能适用于不同的案例群。也就是说，Slote 诉诸文化无能为力的解释可能适用于某些案例，Levy 诉诸理性顺从的观点适用于另一些，Moody-Adams 等批评者的看法又适用于别的案例（参见 Benson 2001 的相关论点）[^benson-2001]。前述几种成因学解释中，究竟哪一种最贴合眼前的具体案例（如果有一种贴合的话），终究是经验问题。由此可知：面对复杂的现实案例（而非规定的假想案例），要判断行动者的是可归咎的无知还是不可归咎的无知，一般没法只靠扶手椅完成，还得对相关行动者何以形成其信念作细致的经验探究。
   - id: 78
     kind: body
     source: |-
       ## 4. Moral Responsibility and Artificial Agents
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 道德责任与人工行动者
+    step2: |-
+      ## 4 道德责任与人工行动者
   - id: 79
     kind: body
     source: |-
       *Agents*, we have been saying, can be morally responsible for what they do. But what is an agent? Conceptual work is certainly needed to answer this question, but empirical work can make key contributions. An empirical field of particular interest is artificial intelligence (AI). As AI gallops forward, questions arise about whether machines of various kinds might be morally responsible for what they do.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们一直在说，*行动者*可以对其所作所为负有道德责任。但什么是行动者？回答这个问题当然需要概念工作，但经验工作也能作出关键贡献。一个特别值得关注的经验领域是人工智能（AI）。随着 AI 迅猛发展，各种机器是否可能对其所作所为负有道德责任，成为问题。
+    step2: |-
+      我们一直说，*行动者*可以对其所作所为负有道德责任。可什么是行动者？回答这个问题当然需要概念分析，但经验研究同样能作出关键贡献。一个特别值得关注的经验领域是人工智能（AI）：AI 突飞猛进，各种机器是否可能对其所作所为负有道德责任，也就成了问题。
   - id: 80
     kind: body
     source: |-
       ### 4.1 The Agent Model
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 行动者模型
+    step2: |-
+      ### 4.1 行动者模型
   - id: 81
     kind: body
     source: |-
       To get us going in thinking about this issue, a useful starting place is a framework for understanding agency developed in computer science and artificial intelligence called the “agent model” (Russell & Norvig 2020; Sutton & Barto 1998; Haas 2022)[^haas-2022][^russell-2020][^sutton-1998]. A standard formulation of the model considers an agent who interacts with an environment partitioned into a set of states, with various actions available at each state. The agent also has a function that assigns to each state a degree of intrinsic value to the agent; these assignments of intrinsic value capture the agent’s “goals”. Agency involves a loop. In the first step, the agent receives perceptual input regarding the current state and also receives the intrinsic value of that state. Next, the agent makes a selection from the actions available in that state. Based on that action, the agent enters a new state, and the loop starts again. The key task of agency involves learning over time to behave in ways that maximize cumulative, long-term achievement of intrinsic value.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为了推进对这一问题的思考，一个有用的起点是计算机科学与人工智能中发展出的理解能动性的框架，称为“行动者模型” (Russell & Norvig 2020; Sutton & Barto 1998; Haas 2022)[^haas-2022][^russell-2020][^sutton-1998]。该模型的标准表述考虑一个与环境互动的行动者，环境被划分为一组状态，每个状态下有若干可用行动。行动者还有一个函数，给每个状态赋予对行动者的内在价值程度；这些内在价值赋值捕捉了行动者的“目标”。能动性涉及一个循环。第一步，行动者收到关于当前状态的知觉输入，并收到该状态的内在价值。接着，行动者从该状态可用的行动中作出选择。基于该行动，行动者进入新状态，循环重新开始。能动性的关键任务在于随时间学习以最大化内在价值之累积、长期实现的方式行动。
+    step2: |-
+      要推进这一思考，一个有用的起点是计算机科学与人工智能中发展出的理解能动性的框架，即“行动者模型” (Russell & Norvig 2020; Sutton & Barto 1998; Haas 2022)[^haas-2022][^russell-2020][^sutton-1998]。该模型有一标准表述：行动者与环境互动，环境划分为一组状态，每个状态下有若干可用行动；行动者另有一个函数，为每个状态赋予对它的内在价值程度——这些赋值刻画了行动者的“目标”。能动性是一个循环：第一步，行动者接收关于当前状态的知觉输入，同时接收该状态的内在价值；接着，从该状态下可用的行动中作出选择；据此进入新状态，循环重来。能动性的关键任务，是随时间学会以最大化内在价值之长期累积的方式行动。
   - id: 82
     kind: body
     source: |-
       Much of the excitement in the study of artificial agents is due to the development of a wide assortment of algorithms that explain how agents embedded in the above setup can learn what are the best actions (Sutton & Barto 1998; Haas 2022; Solway & Botvinick 2012)[^haas-2022][^solway-2012][^sutton-1998]. These algorithms take a variety of forms. Some learn directly from experience, while others learn a model of the workings of the world and consequences of one’s actions and leverage this information to guide the selection of actions. And though the agent model is relatively spartan in its setup, it has been shown to be extraordinarily powerful. Recent milestones in AI, such as machines that achieve expert-level performance at chess, Go, and Atari video games, have been achieved within the agent model framework (Campbell et al. 2002; Mnih et al. 2015)[^campbell-2002][^mnih-2015].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人工行动者研究中的兴奋，很大程度上归因于形形色色算法的开发，这些算法解释了嵌入上述设置中的行动者如何学会什么是最佳行动 (Sutton & Barto 1998; Haas 2022; Solway & Botvinick 2012)[^haas-2022][^solway-2012][^sutton-1998]。这些算法形式多样。有些直接从经验学习，另一些学习世界运作方式与行动后果的模型，并利用这一信息指导行动选择。尽管行动者模型的设置相对简朴，它已被证明异常强大。AI 近来的里程碑——例如在国际象棋、围棋与 Atari 电子游戏中达到专家级表现的机器——都是在行动者模型框架内实现的 (Campbell et al. 2002; Mnih et al. 2015)[^campbell-2002][^mnih-2015]。
+    step2: |-
+      人工行动者研究之所以令人兴奋，很大程度上得益于各式算法的开发——它们解释嵌入上述设置的行动者如何学会什么是最佳行动 (Sutton & Barto 1998; Haas 2022; Solway & Botvinick 2012)[^haas-2022][^solway-2012][^sutton-1998]。这些算法形态各异：有的直接从经验中学，有的先学得世界运作与行动后果的模型，再借这一信息指导行动选择。行动者模型的设置虽然简朴，却被证明异常强大：AI 近年的里程碑——在国际象棋、围棋与 Atari 电子游戏中达到专家水准的机器——都是在行动者模型框架内实现的 (Campbell et al. 2002; Mnih et al. 2015)[^campbell-2002][^mnih-2015]。
   - id: 83
     kind: body
     source: |-
       The agent model might also serve as a tool to probe a space of possible agents, each with varying capacities, some of which might potentially be morally responsible for what they do. Recall the two core conditions for moral responsibility. It seems at least some artificial agents of the type envisioned in the agent model (hereafter just “artificial agent”) might be able satisfy these two conditions (Nyholm, 2018; Menges & Altehenger 2024)[^menges-2024].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      行动者模型还可以充当工具，以探测一个可能行动者的空间，它们能力各异，其中一些或许潜在地对其所作所为负有道德责任。回想道德责任的两个核心条件。看来至少某些行动者模型所设想类型的人工行动者（以下径称“人工行动者”）可能满足这两个条件 (Nyholm, 2018; Menges & Altehenger 2024)[^menges-2024]。
+    step2: |-
+      行动者模型也可用作工具，去探测一个由可能行动者构成的空间：它们能力各异，其中一些或许可能对其所作所为负有道德责任。回看道德责任的两个核心条件，看来至少某些行动者模型所设想的人工行动者（下文径称“人工行动者”）有可能满足这两个条件 (Nyholm, 2018; Menges & Altehenger 2024)[^menges-2024]。
   - id: 84
     kind: body
     source: |-
       An artificial agent flexibly adjusts its actions based on the current circumstances in order to maximize attainment of its aims. This kind of behavioral flexibility in pursuit of goals is widely thought to be the central element of control (Dennett 1984; Fischer & Ravizza 1998; Shepherd 2014)[^dennett-1984][^fischer-1998][^shepherd-2014]. Moreover, an artificial agent selects its actions based on various kinds of knowledge. For example, it knows what actions are available in the current situation, which of these actions are most likely to achieve its goals, and so forth. Thus, it is at least prima facie plausible that an artificial agent might be able to satisfy moral responsibility’s epistemic condition.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人工行动者根据当前情况灵活调整行动，以最大化目标的实现。这种追求目标时的行为灵活性，被广泛认为是控制的核心要素 (Dennett 1984; Fischer & Ravizza 1998; Shepherd 2014)[^dennett-1984][^fischer-1998][^shepherd-2014]。此外，人工行动者依据各种知识来选择行动。例如，它知道当前情境下有哪些可用行动、其中哪些最可能实现其目标，等等。因此，至少初看之下可信的是，人工行动者可能满足道德责任的认知条件。
+    step2: |-
+      人工行动者会依据当前情况灵活调整行动，以求最大限度地实现目标；这种追求目标时的行为灵活性，被普遍视为控制的核心要素 (Dennett 1984; Fischer & Ravizza 1998; Shepherd 2014)[^dennett-1984][^fischer-1998][^shepherd-2014]。而且，人工行动者依据各类知识选择行动：它知道当下有哪些可用行动、其中哪些最可能达成目标，等等。因此至少初看之下可以相信，人工行动者有可能满足道德责任的认知条件。
   - id: 85
     kind: body
     source: |-
       And yet, suppose an Atari game-playing artificial agent is playing the game *Space Invaders*. It fends off wave after wave of aliens and thus saves the Earth’s cities from destruction. Putting aside the question of moral responsibility in fictional scenarios, it seems deeply implausible that the artificial agent should be considered morally responsible for what it does, or that it should be somehow praised (Nyholm 2022, Chapter 6)[^nyholm-2022]. So, questions naturally arise about what is missing for moral responsibility.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，假设一个玩 Atari 游戏的人工行动者正在玩*太空侵略者*。它击退一波又一波外星人，从而拯救地球上的城市免于毁灭。撇开虚构场景中的道德责任问题不谈，认为该人工行动者应被视为对其所作所为负有道德责任，或应受到某种赞扬，似乎极不合理 (Nyholm 2022, Chapter 6)[^nyholm-2022]。于是自然产生这样的问题：为了道德责任，还缺什么？
+    step2: |-
+      可是，设想一个玩 Atari 游戏的人工行动者正在玩*太空侵略者*：它击退一波又一波外星人，拯救了地球上的城市。且不谈虚构场景中的道德责任问题，要说这个人工行动者应对其所作所为负道德责任、或该受到某种赞扬，似乎极不合理 (Nyholm 2022, Chapter 6)[^nyholm-2022]。于是问题自然来了：要负道德责任，它还缺什么？
   - id: 86
     kind: body
     source: |-
       ### 4.2 What Is Needed for Artificial Agents to be Morally Responsible for What They Do?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 人工行动者要对其所作所为负道德责任，需要什么？
+    step2: |-
+      ### 4.2 人工行动者要对其所作所为负道德责任，需要什么？
   - id: 87
     kind: body
     source: |-
       What capacities do ordinary unimpaired adult humans have that are relevant for moral responsibility that seem to be missing in relatively simple artificial agents such as an Atari-playing machine? Here are a few candidates.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      普通未受损的成年人类拥有哪些与道德责任相关、而在诸如玩 Atari 的机器这类相对简单的人工行动者身上似乎缺失的能力？以下是几个候选。
+    step2: |-
+      普通而心智健全的成年人，具备哪些与道德责任相关、却在玩 Atari 的机器这类相对简单的人工行动者身上似乎缺失的能力？下面举几个候选。
   - id: 88
     kind: body
     source: |-
       #### 4.2.1 Temporally Extended Projects and Plans
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 4.2.1 时间上延展的项目与计划
+    step2: |-
+      #### 4.2.1 时间上延展的项目与计划
   - id: 89
     kind: body
     source: |-
       The Atari-playing artificial agent has just a single goal that it reaches fairly quickly: win the Atari game. Humans have a much richer, interlocking set of things that they care about—health, success, relationships, cultivating one’s talents, and so forth (Jaworska 2007; Shoemaker 2003)[^jaworska-2007][^shoemaker-2003]. These things can typically be accomplished only through endeavors and projects that unfold over years and even decades. Moral responsibility, one might argue, requires an agent with a rich and complex evaluative point of view and capacities for long-term planning agency (Bratman 2000)[^bratman-2000] to bring about those things the agent cares about.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      玩 Atari 的人工行动者只有一个目标，且很快达成：赢下游戏。人类所关心的事情要丰富得多、并相互交织——健康、成功、人际关系、培养自身才能，等等 (Jaworska 2007; Shoemaker 2003)[^jaworska-2007][^shoemaker-2003]。这些事情通常只能通过历经数年乃至数十年展开的努力与项目来实现。有人可能论证说，道德责任要求行动者具有丰富而复杂的评价性观点，以及长期计划性能动性的能力 (Bratman 2000)[^bratman-2000]，以促成行动者所关心之事。
+    step2: |-
+      玩 Atari 的人工行动者只有一个目标，而且很快就能达成：赢下这局游戏。人类所关心的东西却丰富得多、彼此交织——健康、成就、人际关系、培养自己的才能，等等 (Jaworska 2007; Shoemaker 2003)[^jaworska-2007][^shoemaker-2003]；这些多半只能靠历经数年乃至数十年展开的努力与项目来成就。因此有人会主张：道德责任要求行动者具备丰富而复杂的评价性观点，以及长期计划性能动性的能力 (Bratman 2000)[^bratman-2000]，方能促成其所关心之事。
   - id: 90
     kind: body
     source: |-
       #### 4.2.2 A Moral Sense and Access to Moral Reasons
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 4.2.2 道德感与对道德理由的通达
+    step2: |-
+      #### 4.2.2 道德感与对道德理由的通达
   - id: 91
     kind: body
     source: |-
