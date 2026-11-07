@@ -2143,3 +2143,12 @@
 | Yueling | 月令 | 《月令》 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |
 | xiu | 宿 | 宿 | chinese-phil-science | 学界通行（二十八宿）；凭证 2026-11-07 | 2026-11-07 |
 | Huang Di neijing | 黃帝內經 | 《黄帝内经》 | chinese-phil-science | 学界通行（文树德英译本系）；凭证 2026-11-07 | 2026-11-07 |
+| intentionality | — | 意向性 | intentionality-ancient | 学界通行（布伦塔诺—胡塞尔术语；心灵的指向性） | 2026-11-07 |
+| phantasia | — | 表象 | intentionality-ancient | 斯多亚术语通行译法（与 phantasma“幻象”别） | 2026-11-07 |
+| phantasma | — | 幻象 | intentionality-ancient | 斯多亚术语（非存在者之表象；与 phantasia 分） | 2026-11-07 |
+| ennoēma | — | 内在思想对象 | intentionality-ancient | 斯多亚术语（en+noēma“在思想中者”）；随文保留拉丁 | 2026-11-07 |
+| lekton (lekta) | — | 可说者 | intentionality-ancient | 斯多亚逻辑通行译法（“可道者”；与 ennoēma 分） | 2026-11-07 |
+| asōmata | — | 无形者 | intentionality-ancient | 斯多亚本体论通行译法（incorporeals） | 2026-11-07 |
+| law of excluded middle | — | 排中律 | intentionality-ancient | 逻辑学通行译法 | 2026-11-07 |
+| inconsistent triad | — | 不一致三元组 | intentionality-ancient | 本库行文（三命题互不相容之组） | 2026-11-07 |
+| direct relational model | — | 直接关系模型 | intentionality-ancient | 本库行文（思想即与所思之直接关系） | 2026-11-07 |

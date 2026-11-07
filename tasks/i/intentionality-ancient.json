@@ -2,7 +2,7 @@
   "slug": "intentionality-ancient",
   "kind": "retranslate",
   "zh_doc": "i/intentionality-ancient.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T12:54:08Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-07T16:10:53Z",
+      "evidence": "账本 45 段全填（p1-p6 分批：body 44＋oir 1；biblio 21 照录）；以账本 source 编段、逐段双版；lq 守恒门 45 段通过"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-07T16:10:53Z",
+      "evidence": "初译自校：人名从既有登记形回改（普罗塔戈拉、塞诺（季蒂昂的）、齐硕姆），新登记 11 行（高尔吉亚/克勒安忒斯/欧绪德谟/克拉底鲁/梅特罗多洛/布伦塔诺/胡塞尔/泰阿泰德/克里提亚/泰奥多洛/亚历山大的克雷芒）；术语 9 行（意向性/表象/幻象/内在思想对象/可说者/无形者/排中律/不一致三元组/直接关系模型），二值原则从表内登记形"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-07T16:10:53Z",
+      "evidence": "风格核定：check_style --strict 0 issue；纯中文强调按守恒门体例还原为无标记（剥离 CJK 斜体 134 处，拉丁术语斜体 *lekton*/*phantasmata* 等保留）；长句 5 处拆分、被动连用 1 处改写"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-07T16:10:56Z",
+      "evidence": "三校：check_academic --strict 通过；check_prose 0 项（实修至零，无豁免）；check_math 0 公式；check_terms 硬错误 0；书目 defs 照录"
     }
   ],
   "blockers": [],
