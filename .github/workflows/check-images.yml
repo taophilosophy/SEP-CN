@@ -21,7 +21,7 @@ jobs:
       - name: Run image check script
         id: image-check
         run: |
-          pip install regex
+          # 脚本为纯标准库（tools/check_images.py），不需额外依赖
           python .github/scripts/check_images.py
 
           # 判断报告是否存在且不为空

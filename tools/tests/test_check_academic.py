@@ -48,6 +48,13 @@ class CheckAcademicTests(unittest.TestCase):
         self.assertIn('[^k2]', self.out)
         self.assertIn('[^k3]', self.out)
 
+    def test_note_def_unverified_without_en_package(self):
+        # 夹具无 en/ 原始包：注号（note-*）定义是否被补充材料页引用无从核对，
+        # 降级为告警而非硬错误（2026-11-07 CI 误判 s/spacetime-holearg.md 实例）
+        self.assertIn('[orphan-def-unverified] argument/eta-notes.md', self.out)
+        self.assertIn('[^note-7]', self.out)
+        self.assertNotIn('[orphan-def] argument/eta-notes.md', self.out)
+
     def test_task_pin_and_evidence(self):
         self.assertIn('[task-pin-missing]', self.out)
         self.assertIn('archive_edition', self.out)

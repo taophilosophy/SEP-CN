@@ -22,6 +22,8 @@
     biblio-chinese-untranslated  文献节疑似中国文献条目仍全罗马化（ADR-0011）
     trans-note              译注未闭合或出现在参考文献节
     baseline-lookup-miss    文档未能在 baseline 定位（pubinfo 不可核）
+    orphan-def-unverified   en/ 原始包缺位（CI）时注号定义 [^note-*] 的跨文件引用
+                            无法核对，降级为告警（本地有 en/ 时照常硬拦）
 
 豁免规则（2026-11-04 复核纠正，对齐 rules/04 状态机与 specs/005 在途快照入库实践）:
   `_` 前缀路径   会话脚手架（批量子代理提示词 `_f_prompts/`、拼装工作台等），
@@ -281,7 +283,8 @@ def check_pubinfo(rel, pubinfo, rec, hard, warns):
                        fmt_zh(b_rev) if b_rev else '（无）'))
 
 
-def check_footnotes(ne, rel, hard, cross_refs=None, biblio_span=None, defer_tail=False):
+def check_footnotes(ne, rel, hard, cross_refs=None, biblio_span=None, defer_tail=False,
+                    warns=None, cross_unverifiable=False):
     refs, defs = {}, {}
     fence = False
     for lineno, line in ne:
@@ -311,6 +314,16 @@ def check_footnotes(ne, rel, hard, cross_refs=None, biblio_span=None, defer_tail
             # 跨文件引用豁免：SEP 的脚注定义可被同词条补充材料引用
             # （notes.html#note-N 出现在 en/<slug>/*.html 中），主文定义非孤儿
             if cross_refs and key in cross_refs:
+                continue
+            # CI 无 en/ 原始包（不入库）：注号定义是否被补充材料页引用无从核对，
+            # 降级为告警，避免把「notes.html 聚合页」误判为孤儿（2026-11-07 实例：
+            # s/spacetime-holearg.md 的 note-7/8 由 gauge.html 引用，CI 却判硬错误）。
+            # 本地 check_all 有 en/ 时照常硬拦。
+            if cross_unverifiable and re.match(r'note-', key):
+                if warns is not None:
+                    warns.append('[orphan-def-unverified] %s:%d 脚注定义 [^%s] 正文未引用，'
+                                 'en/ 原始包缺位无法核对补充材料跨文件引用（本地跑 check_all 复核）'
+                                 % (rel, lineno, key))
                 continue
             # 引用注释方案豁免："参考文献"节内的定义即文献表条目本身
             # （转换器把整份文献表转为 [^key]: 定义，文内标记只挂已链接的引用组），
@@ -434,9 +447,11 @@ def check_one_doc(fp, root, by_zh_doc, records, hard, warns, stats, task_states=
         warns.append('[baseline-lookup-miss] %s 未能在 baseline 定位，pubinfo 不核' % rel)
     # 跨文件脚注引用：词条包内（含补充材料）对 notes.html#note-N 的引用
     cross_refs = set()
+    en_available = False
     slug = os.path.basename(rel)[:-3] if rel.endswith('.md') else ''
     en_dir = os.path.join(root, 'en', slug)
     if slug and os.path.isdir(en_dir):
+        en_available = True
         for fn in os.listdir(en_dir):
             if not fn.endswith('.html'):
                 continue
@@ -451,7 +466,8 @@ def check_one_doc(fp, root, by_zh_doc, records, hard, warns, stats, task_states=
         if m2:
             heads2.append((lineno, len(m2.group(1)), m2.group(2)))
     biblio_span = find_biblio_span(heads2)
-    check_footnotes(ne, rel, hard, cross_refs, biblio_span, defer_tail=in_flight)
+    check_footnotes(ne, rel, hard, cross_refs, biblio_span, defer_tail=in_flight,
+                    warns=warns, cross_unverifiable=not en_available)
 
 
 def main(argv=None):

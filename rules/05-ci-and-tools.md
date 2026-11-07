@@ -12,7 +12,7 @@
 | `sync-headers.yml` | 只读校验每个 SUMMARY 条目对应文件的 H1 是否与条目文字一致（转义还原后比较；跳过 frontmatter、README、别名行），不一致即红灯；**不提交、不推送**（ADR-0024：远端永不写回 main，避免造出本地没有的提交而与并行会话分叉） | push |
 | `file-name-check.yml` | 校验 SUMMARY 条目文件存在，缺失自动开 issue | push |
 | `markdown-lint2.yml`（手动）/ `Markdown-lint2-pr.yml`（PR 触发） | markdownlint 检查（统一配置 `.markdownlint-cli2.jsonc`；手动流可 `--fix` 开格式化 PR） | 手动 / pull_request |
-| `check-images.yml` | 图片引用检查（悬空、可解析、本地化） | push |
+| `check-images.yml` | 图片引用检查（悬空、可解析、大小写、本地化、未引用资产），逻辑在 `tools/check_images.py`（`.github/scripts/check_images.py` 为 CI 入口）；只报告，发现问题经报告开 issue，不设红灯（2026-11-07 补齐缺失脚本） | push（`.gitbook/assets/**`）/ 手动 |
 | `links.yml` | 链接检查 | 定时（每月 15 日 18:00 UTC）+ 手动 + repository_dispatch |
 | `md-padding.yml`、`AutoCorrect.yml` | 手动触发，自动补 CJK 空格并以 PR 提交，合并前人工核对 diff | 手动 |
 | `Auto-Assign.yml`、`GC.yml` | issue/PR 自动分配、垃圾回收 | 各自约定 |
@@ -36,13 +36,14 @@
 | `check_style.py` | 体例检查（引号、空格、HTML/AsciiDoc 残留；输出 JSON） |
 | `check_prose.py` | 语言质量预检（ADR-0020，**告警级**，不进 CI）：长句、被动、弱动词、“的”链、类名“们”、作为一个、存在着、当…的时候 八则反欧化模式；输出 JSON，默认退出码 0，`--strict` 升硬 |
 | `check_render_artifacts.py` | 渲染产物残留物扫描（ADR-0019）：对构建产物 HTML 做文本级检查——裸 `**`（星内空格粗体永不渲染）、字面 `[^`（脚注配对失效）、`](`链接残留、数学哨兵 `@@M`；代码块/预排块内字面量豁免。分期转硬门禁（`raw[^` 待镜像脚注修复后纳入） |
+| `check_images.py` | 图片引用检查（rules/01 图片三条硬性要求）：悬空引用、大小写不符（Windows 不敏感/CI 404）、外部地址、`assets/` 未引用资产；跳过代码块与行内代码，`yuanwen/` 缺位（CI）时跳过镜像引用；报告写 `state/image-report.md`（本地）或 `image-report.md`（CI 开 issue 用），无问题即清除旧报告，退出码 0 |
 | `check_summary.py` | SUMMARY.md 结构审计（条目解析、缺失文件、孤儿文件、命名、重复）＋ H1 一致性硬门禁（SUMMARY 条目文字 ↔ 文件 H1，ADR-0024）＋ 别名行英文完整标题硬门禁（`alias fragment`，ADR-0024）；硬错误退出码 1；`--headers` 只查标题（CI 用），`--sync-headers` 按 SUMMARY 同步 H1（本地用，写回后跑残差门） |
 | `check_mulu_s.py` | 分类目录 ↔ SUMMARY 对应性检测（坏链、覆盖缺口、标题不一致、重复收录）；坏链/路径错/标题不一致为硬错误，退出码 1 |
 | `check_junk.py` | 垃圾/产物入库门禁（ADR-0003 + ADR-0023）：原始物、缓存、构建产物、系统杂物命中即退出码 1；根目录白名单对跟踪清单与工作区双向核对，根级散件无论是否入库一律红灯 |
 | `check_terms.py` | 术语一致性门禁（specs/002）：登记册 ↔ 词汇表译法互斥冲突、登记册废弃链/重复为硬错误（退出码 1）；词汇表滞后、缺裁定日期、`--docs` 定点核销仅告警 |
 | `check_math.py` | 数学保真门禁（2026-10-27 裁定）：原始 HTML 每条公式内容必须原样出现在 yuanwen 产物；占位符残留、行内 `$` 失衡为硬错误（退出码 1） |
 | `check_doc_size.py` | 单体文件大小门禁（ADR-0004）：叙事/规则/规格类 md 超 1000 行或 100KB 即退出码 1；登记册与生成物豁免 |
-| `check_academic.py` | 哲学学术规范门禁（rules/07、specs/003）：非存根词条的参考文献/学术工具/译注/脚注配对、任务版本钉；`--docs <路径>...` 定点、`--strict` 告警升硬 |
+| `check_academic.py` | 哲学学术规范门禁（rules/07、specs/003）：非存根词条的参考文献/学术工具/译注/脚注配对、任务版本钉；`--docs <路径>...` 定点、`--strict` 告警升硬；CI 无 `en/` 原始包时注号定义（`note-*`）的补充材料跨文件引用无从核对，降级 `orphan-def-unverified` 告警（本地 `check_all` 有 en/ 时照常硬拦） |
 | `compare.py` | 段落级变更比较（spec 001 US-3）：抓取英文源最新快照（不覆盖 en/ 基线）与基线比较，节级 added/removed/moved + 段落级 diff，映射中文文档与节行号；无 zh_doc 标注待建任务 |
 | `fetch_audit.py` | 抓取完整性主动闭环：校验每词条包内全部被引用资产在包内，缺件自动补抓（404=缺省件登记）；引用闭包迭代至不动点（一切形如文件名的裸引用皆词条资产——页面/图片/词条自有 js/css/媒体；注释剥离＋实体反解后统计，与浏览器语义一致） |
 | `en_integrity.py` | 英文镜像逐词条深度复核（纯离线）：页面真实性（SEP 签名/截断/零字节）、引用闭包按上游 URL 语义解析（大小写精确、跨词条与子目录资产）、目录结构一致性（在盘文件＝被引用（含跨词条入站）∪已登记，否则游离）、数学形态盘点；全量凭证 `specs/001-sep-sync-pipeline/en-integrity-full.json` |

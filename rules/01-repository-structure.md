@@ -65,8 +65,9 @@
 
 ## 图片
 
-* 词条图片本地化于 `yuanwen/assets/<slug>/`（上游同名 `imageN.jpg`，ADR-0008），md 内 `../assets/<slug>/<文件名>` 相对引用（词条位于 `<letter>/` 子目录，须跨一级；ADR-0010 修订根级时代的 `assets/` 写法）；抓取原始 HTML 一律存 `en/<slug>/`（不可变原始物，不入库）。
+* 图片本地化：镜像侧存 `yuanwen/assets/<slug>/`（上游同名 `imageN.jpg`，ADR-0008），`yuanwen/<letter>/<slug>.md` 内写作 `../assets/<slug>/<文件名>`（相对解析到 `yuanwen/assets/`，ADR-0010）；中文词条 `<letter>/<slug>.md` 用同一写法，解析到**根级 `assets/<slug>/`**，即词条图片就地入库（ADR-0023 澄清，2026-11-07 按词条补齐）。抓取原始 HTML 一律存 `en/<slug>/`（不可变原始物，不入库）。
 * 三条硬性要求：每个图片文件至少被一处引用（不得悬空）；引用必须能解析（不得指向缺失文件或外链）；必须本地化存放，禁止外部 URL。
+* 门禁：`python tools/check_images.py`（悬空、大小写不符、外部地址、`assets/` 未引用资产；本地报告写 `state/image-report.md`，CI 经 `check-images.yml` 开 issue）。
 * “reprinted with permission” 图片必须在图注标明来源。
 
 ## 单体文件治理（ADR-0004）
