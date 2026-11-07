@@ -38,9 +38,9 @@
 
 * 第一行 `# Table of contents` 绝对不能变更，否则 GitBook 同步失效。
 * 条目格式 `* [标题](路径)`，嵌套子条目缩进两格。
-* **改标题只改 SUMMARY.md 一处**；各文件 H1 由 `sync-headers.yml` 按 SUMMARY 强制同步，本地手改 H1 也会被覆盖。
-* CI 同步时会把标题中的转义还原：`\*`→`*`、`\[`→`[`、`\]`→`]`。SUMMARY 源码内的这些转义是 markdown 链接语法所需，**保留不删**。
-* 首行是 `---`（YAML frontmatter）的文件（如 `mu-lu-s.md`）被 sync-headers 跳过，不参与 H1 同步。
+* **改标题只改 SUMMARY.md 一处**；各文件 H1 必须与条目文字一致，本地门禁与 CI 用同一检查器 `tools/check_summary.py` 实拦；改后跑 `python tools/check_summary.py --sync-headers` 同步 H1（ADR-0024：CI 只校验，不再写回远端）。
+* 同步/校验时会把标题中的转义还原：`\*`→`*`、`\[`→`[`、`\]`→`]`。SUMMARY 源码内的这些转义是 markdown 链接语法所需，**保留不删**。
+* 首行是 `---`（YAML frontmatter）的文件（如 `mu-lu-s.md`）不参与 H1 同步与校验。
 
 ## mu-lu-s.md（分类目录）规则
 
@@ -60,7 +60,7 @@
 ## 词条页内标题层级
 
 * 词条页 H1 为 SUMMARY 条目文字；页内分节自 `##` 起，逐级递增，不得跳级（markdownlint MD001）。
-* 词条页 H1 与 SUMMARY 不一致时以 SUMMARY 为准（CI 会改写）。
+* 词条页 H1 与 SUMMARY 不一致时以 SUMMARY 为准：门禁实拦，`--sync-headers` 同步；CI 只校验不写回（ADR-0024）。
 
 ## 图片
 

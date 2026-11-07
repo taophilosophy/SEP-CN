@@ -27,7 +27,7 @@
 
 * 结构（硬）：条目路径形态 `<letter>/<slug>.md`（ADR-0009）；章节层级完整；别名行指向存在的目标且为导航形态；无游离于 baseline 的条目路径。
 * 格式（硬）：链接文本转义规则（`\*`/`\[`/`\]` 为 markdown 链接语法所需，保留不删，rules/01）；行格式统一。
-* 内容（硬）：条目集合 = baseline 1878；条目文字 = 各 zh 词条 H1（sync-headers 单一事实源方向：SUMMARY → H1）。
+* 内容（硬）：条目集合 = baseline 1878；条目文字 = 各 zh 词条 H1（单一事实源方向：SUMMARY → H1，本地 `--sync-headers` 同步、门禁与 CI 同器实拦，ADR-0024）。
 
 **对象 2：mu-lu-s.md**
 

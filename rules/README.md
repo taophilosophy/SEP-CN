@@ -46,7 +46,7 @@
 ## 快速判例
 
 * 新任务或需求含糊 → 先写方向声明（用户到底要什么、目标/非目标、验收判据），再选手段（[08](08-intent-first.md)）。
-* 改标题 → 只改 `SUMMARY.md`，文件 H1 交由 CI 同步（[01](01-repository-structure.md)）。
+* 改标题 → 只改 `SUMMARY.md`，再跑 `python tools/check_summary.py --sync-headers` 同步 H1；门禁与 CI 同器实拦，CI 不写回（[01](01-repository-structure.md)、ADR-0024）。
 * 新术语 → 先登记 `yi-zhe-shuo-ming.md`，再使用（[03](03-terminology.md)）。
 * 动手翻译 → 先建/查任务 `tasks/`，按状态机推进，禁止跳步（[04](04-translation-workflow.md)）。
 * 引号、空格、表格格式 → 按 [02](02-style.md)，机器可判部分用 `tools/check_style.py` 预检。
