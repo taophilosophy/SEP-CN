@@ -36,6 +36,7 @@
 | blameworthiness | — | 应受责备性 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | blameworthy | — | 应受责备 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | business condition | — | 关己条件 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
+| cardinal virtues | — | 四枢德 | neoplatonism | 经院哲学与伦理学通行（正义、审慎、节制、勇敢） | 2026-11-07 |
 | care ethics | — | 关怀伦理 | 语料回收（标题词） | 审定“关怀伦理学”直接命中（新闻传播学域）；凭证 2026-11-01 | 2026-11-01 |
 | Celestial Masters | — | 天师道 | 语料回收（标题词） | 审定“天师”佐证（道教）；凭证 2026-11-01 | 2026-11-01 |
 | Cheka | Чека | 契卡 | 人名表移植 | 学界通行译法（苏俄肃反委员会，克格勃前身）；凭证 2026-11-06 | 2026-11-06 |
@@ -64,8 +65,10 @@
 | dark-reared | — | 黑暗饲养 | 语料回收（molyneux-problem 首译） | 发育神经科学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | darkness of the lived moment | — | 体验瞬间的黑暗 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | degenerating research programme | — | 退化的研究纲领 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
+| deification | — | 神化 | neoplatonism | 宗教哲学通行（希腊语 theosis）；本词条视为伦理学最高目标 | 2026-11-07 |
 | demarcation criterion | — | 划界标准 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | De Revolutionibus | De Revolutionibus | 《天体运行论》 | 语料回收（lakatos 首译） | 学界通行译名（哥白尼 1543，亦译《天球运行论》）；凭证 2026-11-06 | 2026-11-06 |
+| Demiurge | — | 巨匠造物主 | neoplatonism | 柏拉图研究通行（亦作“德穆革”）；《蒂迈欧篇》 | 2026-11-07 |
 | deontic status | — | 道义地位 | 语料回收（标题词） | 学界惯例（道义逻辑通行）；凭证 2026-11-01 | 2026-11-01 |
 | developmental constraint | — | 发育约束 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | developmental matrix | — | 发育基质 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -92,6 +95,7 @@
 | ens inquantum ens | ens inquantum ens | 作为存在的存在 | 语料回收（marsilius-inghen 首译） | 形而上学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | epigenetic inheritance | — | 表观遗传 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | epistemic blame | — | 认识论责备 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
+| epistrophe | ἐπιστροφή | 回返 | neoplatonism | 新柏拉图主义研究通行（与 prohodos 对举） | 2026-11-07 |
 | eschatology | — | 末世论 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | esoteric writing | — | 隐微写作 | albo-joseph 首译 | 与显白（exoteric）相对；施特劳斯式研究术语通行 | 2026-11-07 |
 | evolutionary developmental biology | — | 进化发育生物学 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -156,6 +160,7 @@
 | mathematical pluralism | — | 数学多元主义 | 语料回收（mathematics-inconsistent 首译） | 数学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | humility | — | 谦卑 | modesty-humility | 学界通行译法（与 modesty“谦逊”区分；凭证 2026-11-06） | 2026-11-06 |
 | intellectual humility | — | 智识谦卑 | modesty-humility | 学界通行译法（认识论语境；凭证 2026-11-06） | 2026-11-06 |
+| microcosm | — | 小宇宙 | neoplatonism | 学界通行；本词条正文作“缩影” | 2026-11-07 |
 | mitzvot | — | 诫命 | albo-joseph 首译 | 犹太研究通行（单数 mitzvah） | 2026-11-07 |
 | model organism | — | 模式生物 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | modesty | — | 谦逊 | modesty-humility | 学界通行译法（与 humility“谦卑”区分；凭证 2026-11-06） | 2026-11-06 |
@@ -206,6 +211,7 @@
 | primary quality | — | 第一性质 | 语料回收（molyneux-problem 首译） | 学界惯例（洛克研究通行译法，与第二性质对举）；凭证 2026-11-06 | 2026-11-06 |
 | positive heuristic | — | 正面启发法 | 语料回收（lakatos 首译） | 科学研究纲领方法论中译本通行译法；凭证 2026-11-06 | 2026-11-06 |
 | procedural norm | — | 程序性规范 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
+| prohodos | πρόοδος | 流溢（进程） | neoplatonism | 新柏拉图主义研究通行（与 epistrophe 对举） | 2026-11-07 |
 | propensity (interpretation of fitness) | — | 倾向 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | proper function | — | 专有功能 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | proportionality (of blame) | — | 相称性 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -276,6 +282,8 @@
 | teleonomy | — | 目的性 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | teleosemantics | — | 目的语义学 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | tendency (Tendenz) | — | 趋势 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| the First | — | 第一者 | neoplatonism | 新柏拉图主义研究通行（the One 之别称，正文并用“太一”） | 2026-11-07 |
+| the Good | τὸ ἀγαθόν | 善 | neoplatonism | 学界通行（柏拉图—新柏拉图主义最高本原之名） | 2026-11-07 |
 | theodicy | — | 神义论 | antonio-rosmini | 莱布尼茨以降通行 | 2026-11-07 |
 | theosophy | — | 神智学 | antonio-rosmini | 罗斯米尼《Teosofia》书名定译（与神智学协会 theosophy 同形异指） | 2026-11-07 |
 | tianli | 天理 | 天理 | dai-zhen | 宋明理学通行术语（戴震“自然之分理”义）；凭证 2026-11-07 | 2026-11-07 |
@@ -557,7 +565,7 @@
 | Nominalism | — | 唯名论 | 词汇表复核（源提交 36fd04fd） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | Nominalism in Metaphysics | — | 形而上学中的唯名论 | nominalism-metaphysics | 词条题名组合译法：沿用本册 Nominalism；metaphysics 采用哲学学界通行译名“形而上学”（2026-10-28） | 2026-10-28 |
 | nominatio | nominatio | 指称（阿伯拉尔；与 significatio 意涵相对） | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
-| nous | νοῦς | 努斯（亦作“理智”） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
+| nous | νοῦς | 努斯（亦作“理智”“智性”） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无直接收录（凭证 2026-10-30）；neoplatonism 词条正文从作者用语：nous 作“智性”、Consciousness 作“意识” | 2026-10-30 |
 | Novum Organum | Novum Organum | 《新工具》（培根） | 语料回收（标题词） | 学界惯例（培根著作译名）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Occam’s razor | — | 奥卡姆剃刀 | 语料回收（标题词） | 审定名词库（termonline-all·计算机科学技术·人工智能（机器学习），2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | old evidence | — | 旧证据（贝叶斯旧证据问题） | 语料回收（标题词） | 学界惯例（科学哲学（贝叶斯确认论）通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -1131,7 +1139,7 @@
 | pleonexia | πλεονεξία | 贪得（亦作“攫取过度”） | 首现（justice-virtue） | 学界惯例（亚里士多德《尼各马可伦理学》卷五）；凭证 2026-11-02 | 2026-11-02 |
 | sophrosune | σωφροσύνη | 节制（亦作“明智”） | 首现（justice-virtue） | 学界惯例（柏拉图/亚里士多德）；凭证 2026-11-02 | 2026-11-02 |
 | dikaiosune | δικαιοσύνη | 正义 | 首现（justice-virtue） | 学界惯例（柏拉图《理想国》正义，希腊语原词）；凭证 2026-11-02 | 2026-11-02 |
-| phusis | φύσις | 自然 | 首现（justice-virtue） | 学界惯例（自然/约定之辩）；凭证 2026-11-02 | 2026-11-02 |
+| phusis | φύσις | 自然 | 首现（justice-virtue） | 学界惯例（自然/约定之辩）；凭证 2026-11-02；neoplatonism 词条作“自然（本性）” | 2026-11-02 |
 | nomos | νόμος | 约定（亦作“习俗”） | 首现（justice-virtue） | 学界惯例（自然/约定之辩）；凭证 2026-11-02 | 2026-11-02 |
 | original position | — | 原初状态 | 首现（justice-virtue） | 学界惯例（《正义论》译本通行）；凭证 2026-11-02 | 2026-11-02 |
 | veil of ignorance | — | 无知之幕 | 首现（justice-virtue） | 学界惯例（《正义论》译本通行）；凭证 2026-11-02 | 2026-11-02 |
@@ -1196,7 +1204,7 @@
 | criteriological | — | 规准性的（regulative 译“范导性的”） | 首现（emotion-Christian-tradition） | 学界惯例（罗伯茨情感哲学语境）；凭证 2026-11-04 | 2026-11-04 |
 | startle response | — | 惊跳反应 | 首现（emotion-Christian-tradition） | 学界惯例（心理学通行）；凭证 2026-11-04 | 2026-11-04 |
 | Book of Common Prayer | — | 《公祷书》 | 首现（emotion-Christian-tradition） | 学界惯例（安立甘宗通行）；凭证 2026-11-04 | 2026-11-04 |
-| consciousness | — | 意识 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| consciousness | — | 意识 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；neoplatonism 词条作者以 Consciousness 指 nous，正文统一译“意识” | 2026-11-04 |
 | essence | — | 本质 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | existence | — | 存在 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | causality | — | 因果性 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
@@ -1899,3 +1907,12 @@
 | aitihya | — | 传承量 | jayaraasi | 印度量论通行译法（辗转相传为量） | 2026-11-07 |
 | śabda / āgama | — | 声量／圣典量 | jayaraasi | 因明“声量”与“圣言量”传统译名 | 2026-11-07 |
 | anubhava | — | 直接经验 | jayaraasi | 学界通行（与“量”相对的经验义） | 2026-11-07 |
+| Vision in God | — | 在上帝中看见 | john-norris | 学界通行（马勒布朗士核心学说；“于上帝中见万物”） | 2026-11-07 |
+| intelligible world | — | 可理解世界 | john-norris | 学界通行（马勒布朗士“观念世界”；与“可感世界”相对） | 2026-11-07 |
+| Ideal Philosophy | — | 观念哲学 | john-norris | 诺里斯自名其学（Ideal Philosophy）；随文括注原文 | 2026-11-07 |
+| eminent containment | — | 卓越包含 | john-norris | 经院—笛卡尔系通行译法（formaliter/eminenter 之别） | 2026-11-07 |
+| modal abstraction | — | 样态抽象 | john-norris | 诺里斯术语（abstractio per modum）；样态=modus | 2026-11-07 |
+| mental proposition / ideal proposition | — | 心理命题／理想命题 | john-norris | 诺里斯术语对（mental vs ideal proposition）；随文对举 | 2026-11-07 |
+| thinking matter | — | 思想物质 | john-norris | 洛克假说通行译法（thinking matter，亦作“会思想物质”） | 2026-11-07 |
+| divine ideas | — | 神圣观念 | john-norris | 学界通行（马勒布朗士—奥古斯丁系；上帝心中的原型） | 2026-11-07 |
+| Enthusiasts | — | 狂热派 | john-norris | 17 世纪英语语境通行译法（指贵格会等自称受直接启示者） | 2026-11-07 |

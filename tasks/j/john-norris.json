@@ -2,7 +2,7 @@
   "slug": "john-norris",
   "kind": "retranslate",
   "zh_doc": "j/john-norris.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:37:09Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-07T09:30:16Z",
+      "evidence": "账本 80 段全填（p1-p10 分批：body 79＋oir 1；biblio 45 照录）；以账本 source 编段、逐段双版；lq 守恒门 80 段通过"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-07T09:30:16Z",
+      "evidence": "初译自校：专名按 ren-ming-biao（马勒布朗士/笛卡尔/洛克/苏亚雷斯/阿奎那/阿尔诺/亨利·莫尔既有行沿用；托兰德回改既有登记形）；新登记人名 9 行（诺里斯/阿斯特尔/多德韦尔/科利尔/巴克利/基思/维克里斯/约翰斯顿/托马斯）；术语 9 行（在上帝中看见/可理解世界/观念哲学/卓越包含/样态抽象/心理命题与理想命题/思想物质/神圣观念/狂热派）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-07T09:30:16Z",
+      "evidence": "风格核定：check_style --strict 0 issue；中文强调不得斜体（禁改粗——守恒门 ** 计数为硬门，源无粗则译文禁粗），故纯中文强调一律还原为无标记文本，拉丁斜体对保留；中西文间距 2 处修复"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-07T09:30:21Z",
+      "evidence": "三校：check_academic --strict 通过；check_prose 5 项均为内嵌引文长句（含 4 条整段引文）按 ADR-0020 豁免；check_math 0 公式；check_terms 硬错误 0；书目 defs 照录"
     }
   ],
   "blockers": [],

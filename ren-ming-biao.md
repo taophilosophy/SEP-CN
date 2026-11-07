@@ -15,6 +15,7 @@
 | Abuʼl-Khayr, Abū Saʿīd | — | 阿布·赛义德·阿布·海尔 | arabic-islamic-mysticism | 苏非史通行音译 | 2026-11-07 |
 | Addams, Jane | — | 简·亚当斯 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Adolf Reinach | — | 阿道夫·莱纳赫 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Ammonius Saccas | — | 阿摩尼乌斯·萨卡斯 | neoplatonism | 学界通行汉译（3 世纪亚历山大里亚哲学家，普罗提诺之师）；与赫尔米亚的阿莫尼俄斯（Ammonius Hermeiou）异人 | 2026-11-07 |
 | Aëtius | — | 埃提乌斯 | 首现（xenophanes） | 学界通行汉译（古希腊学说汇编者）；凭证 2026-11-07 | 2026-11-07 |
 | Alain LeRoy Locke | — | 阿兰·勒罗伊·洛克 | alexander-crummell | 学界通行汉译（SUMMARY 定名沿用，alain-locke 词条既名） | 2026-11-07 |
 | Alain Locke | — | 阿兰·勒罗伊·洛克（亦作 阿兰·洛克） | 语料回收（全目录）；alain-locke/alexander-crummell | 学界通行汉译；SUMMARY 定名优先（2026-11-07 校正，与 Alain LeRoy Locke 行归一） | 2026-10-31 |
@@ -54,6 +55,7 @@
 | Ayala, F. J. | — | F. J. 阿亚拉 | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Bahya ibn Paquda | Bahya ibn Paquda | 巴希亚·伊本·帕库达 | abraham-daud | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Bailey, Samuel | — | 塞缪尔·贝利 | 语料回收（molyneux-problem 首译） | 学界通行汉译（苏格兰常识学派，Mill 论战对象）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
+| Basil | — | 巴西尔 | neoplatonism | 学界通行汉译（卡帕多西亚教父，该撒利亚主教；亦作“大巴西尔”） | 2026-11-07 |
 | Bauer, Bruno | — | 布鲁诺·鲍威尔 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Bayle, Pierre | — | 皮埃尔·培尔 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Beckner, Morton | — | Morton Beckner（现代学者，保留英文） | biology-philosophy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
@@ -62,6 +64,7 @@
 | Bergson, Henri | — | 亨利·柏格森 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Bertrand Russell | — | 伯特兰·罗素 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Berkeley, George | — | 乔治·贝克莱 | SUMMARY 定名（b/berkeley.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译，亦作『巴克莱』）；凭证 2026-11-06 | 2026-11-06 |
+| Bessarion | — | 贝萨里翁 | neoplatonism | 学界通行汉译（15 世纪希腊学者、枢机） | 2026-11-07 |
 | Bibago, Abraham | — | 亚伯拉罕·比巴戈 | albo-joseph | 犹太哲学史通行音译 | 2026-11-07 |
 | Biel, Gabriel | — | 加布里埃尔·比尔 | 语料回收（marsilius-inghen 首译） | 宗教改革研究通行汉译（近代之路晚辈）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Blanshard, Brand | — | 布兰夏德 | 首现（truth-coherence） | 学界通行汉译（美国绝对唯心论者）；凭证 2026-11-07 | 2026-11-07 |
@@ -123,6 +126,7 @@
 | Crombie, A. C. | — | 克罗姆比 | duhem | 全名形『A. C. 克罗姆比』，正文简名首现括注；学界惯例（科学史家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Cudworth, Ralph | — | 拉尔夫·库德沃斯 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Dai Zhen | Dai Dongyuan（字东原） | 戴震 | dai-zhen | 上游自带汉字；学界通行（清中叶考据学巨擘）；凭证 2026-11-07 | 2026-11-07 |
+| Damascius | — | 达马斯基乌斯 | neoplatonism | 学界通行汉译（5–6 世纪雅典学园掌门） | 2026-11-07 |
 | Dana Scott | — | 达纳·斯科特 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | da Costa, Newton | — | 达科斯塔 | 语料回收（mathematics-inconsistent 首译） | 逻辑学界通行汉译（巴西逻辑学家，弗协调逻辑创始人）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Darboux, Gaston | — | 加斯东·达布 | duhem | 学界惯例（数学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
@@ -201,6 +205,8 @@
 | Giuseppe Peano | — | 朱塞佩·皮亚诺 | 语料回收（全目录） | 审定“皮亚诺”译名系（数学）；凭证 2026-11-01 | 2026-11-01 |
 | Goethe | — | 歌德 | 首现（wisdom） | 学界通行汉译（德国文学家）；凭证 2026-11-07 | 2026-11-07 |
 | Gould, Stephen Jay | — | 斯蒂芬·杰伊·古尔德 | biology-philosophy | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| Gregory of Nazianzus | — | 纳齐安的格列高利 | neoplatonism | 教父学通行汉译（卡帕多西亚教父） | 2026-11-07 |
+| Gregory of Nyssa | — | 尼撒的格列高利 | neoplatonism | 教父学通行汉译（卡帕多西亚教父） | 2026-11-07 |
 | Gregory U. Rigsby | — | 格雷戈里·里格斯比 | alexander-crummell | 现代学者（传记作者），音译 | 2026-11-07 |
 | Grene, Marjorie | — | Marjorie Grene（现代学者，保留英文） | biology-philosophy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Gu Yanwu | — | 顾炎武 | dai-zhen | 上游自带汉字；学界千年通行（“经学即理学”之倡）；凭证 2026-11-07 | 2026-11-07 |
@@ -239,6 +245,7 @@
 | Husik, Isaac | — | 艾萨克·胡西克 | albo-joseph | 犹太哲学史家（《原则之书》英译者） | 2026-11-07 |
 | Hutcheson, Francis | — | 弗兰西斯·哈奇森 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Hypatia | — | 希帕提娅 | 首现（wisdom） | 学界通行汉译（亚历山大里亚数学家）；凭证 2026-11-07 | 2026-11-07 |
+| Iamblichus | — | 杨布里科斯 | neoplatonism | SUMMARY 定名沿用（i/iamblichus）；学界亦作“扬布利科斯” | 2026-11-07 |
 | Ibn Masarrah | — | 伊本·马萨拉 | arabic-islamic-mysticism | 西班牙苏非哲学通行音译 | 2026-11-07 |
 | Ibn Zaddiq | Ibn Zaddiq | 伊本·扎迪克 | abraham-daud | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Iris | — | 伊里斯 | 首现（xenophanes） | 学界通行汉译（彩虹女神）；凭证 2026-11-07 | 2026-11-07 |
@@ -268,6 +275,7 @@
 | John of Salisbury | — | 索尔兹伯里的约翰 | 首现（william-sherwood） | 学界通行汉译（12 世纪人文主义者）；凭证 2026-11-07 | 2026-11-07 |
 | John Pollock | — | 约翰·波洛克 | 语料回收（全目录） | 学界惯例（人工智能/认识论（OSCAR 系统））；凭证 2026-11-01 | 2026-11-01 |
 | John Rawls | — | 约翰·罗尔斯 | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
+| John Scotus Eriugena | — | 约翰·司各脱·爱留根纳 | neoplatonism | 中世纪哲学通行汉译（9 世纪爱尔兰神学家） | 2026-11-07 |
 | John Stuart Mill | — | 约翰·斯图亚特·穆勒（亦作“密尔”；SUMMARY 登记形 m/mill.md） | academic-freedom | 学界通行汉译（SUMMARY 单一事实源锚定）；审定库模糊命中 20 条存查（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | John Toland | — | 约翰·托兰德 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | John Wyclif | — | 约翰·威克里夫 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -278,6 +286,7 @@
 | José Ortega | José Ortega | 何塞·奥尔特加 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01） | 2026-11-01 |
 | Judith Butler | — | Judith Butler（现代学者正文保留英文；通行汉译“巴特勒”备查） | academic-freedom | 学界通行；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Jurjānī | — | 朱尔贾尼 | arabic-islamic-mysticism | 伊斯兰哲学通行音译 | 2026-11-07 |
+| Justinian | — | 查士丁尼 | neoplatonism | 史学界通行汉译（东罗马皇帝，529 年立法关闭雅典学园） | 2026-11-07 |
 | Jābir ibn Ḥayyān | — | 贾比尔·伊本·哈扬 | arabic-islamic-mysticism | 炼金术史通行音译（拉丁名 Geber） | 2026-11-07 |
 | Khājuʾī, Mullā Ismāʿīl | — | 穆拉·伊斯玛仪·哈朱伊 | arabic-islamic-mysticism | 德黑兰学派通行音译 | 2026-11-07 |
 | King Milinda | — | 弥兰陀王（亦作“米兰达王”） | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -326,6 +335,7 @@
 | Nagel, Ernest | — | 欧内斯特·内格尔 | biology-philosophy | 学界通行汉译（《科学的结构》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Nahmanides | — | 纳赫马尼德 | albo-joseph | 犹太思想史通行（摩西·本·纳赫曼） | 2026-11-07 |
 | Nissim of Gerona | — | 赫罗纳的尼西姆 | albo-joseph | 犹太哲学史通行（依地名冠称） | 2026-11-07 |
+| Numenius | — | 努梅尼乌斯 | neoplatonism | 学界通行汉译（阿帕梅亚的努梅尼乌斯，2 世纪中期柏拉图主义者） | 2026-11-07 |
 | Nurī, Mullā ʿAlī | — | 穆拉·阿里·努里 | arabic-islamic-mysticism | 德黑兰学派通行音译 | 2026-11-07 |
 | Nāṣir-i Khusraw | — | 纳赛尔·霍斯鲁 | arabic-islamic-mysticism | 伊斯玛仪哲学通行汉译 | 2026-11-07 |
 | Odysseus | — | 奥德修斯 | 首现（timon-phlius） | 学界通行汉译（荷马史诗人物）；凭证 2026-11-07 | 2026-11-07 |
@@ -408,6 +418,7 @@
 | Solomon | — | 所罗门 | 首现（wisdom） | 学界通行汉译（圣经智慧传统）；凭证 2026-11-07 | 2026-11-07 |
 | Solon | — | 梭伦 | 首现（xenophanes） | 学界通行汉译（雅典立法者）；凭证 2026-11-07 | 2026-11-07 |
 | Spinoza | — | 斯宾诺莎 | 首现（truth-coherence） | 学界千年通行汉译（17 世纪荷兰哲学家）；凭证 2026-11-07 | 2026-11-07 |
+| Stephanus of Alexandria | — | 亚历山大的斯特凡努斯 | neoplatonism | 学界通行汉译（7 世纪亚历山大里亚哲学家） | 2026-11-07 |
 | Stewart, Dugald | — | 杜格尔德·斯图尔特 | antonio-rosmini | 苏格兰常识学派通行音译 | 2026-11-07 |
 | Stilpo | — | 斯提尔波 | 首现（timon-phlius） | 学界通行汉译（麦加拉学派哲学家）；凭证 2026-11-07 | 2026-11-07 |
 | Strabo | — | 斯特拉波 | 首现（timon-phlius） | 学界通行汉译（古希腊地理学家）；凭证 2026-11-07 | 2026-11-07 |
@@ -416,12 +427,14 @@
 | Smith, Adam | — | 亚当·斯密 | SUMMARY 定名（s/smith-moral-political.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Rosa Luxemburg | — | 罗莎·卢森堡 | luxemburg | 学界通行汉译（《卢森堡文选》通行）；待 specs/008 审定库复核 | 2026-11-03 |
 | Taftazānī | — | 塔夫塔扎尼 | arabic-islamic-mysticism | 伊斯兰神学通行音译 | 2026-11-07 |
+| Teilhard de Chardin | — | 德日进 | neoplatonism | 学界通行汉译（法国耶稣会士、古生物学家） | 2026-11-07 |
 | Thales | — | 泰勒斯 | 首现（wisdom） | 学界通行汉译（米利都学派）；凭证 2026-11-07 | 2026-11-07 |
 | Thaumas | — | 塔乌玛斯 | 首现（xenophanes） | 学界通行汉译（海神，伊里斯之父）；凭证 2026-11-07 | 2026-11-07 |
 | Themo Judaeus | — | 特莫·尤达乌斯 | duhem | 学界惯例（中世纪学者音译）；凭证 2026-11-06 | 2026-11-06 |
 | Theodoretus | — | 塞奥多雷特 | 首现（xenophanes） | 学界通行汉译（叙利亚教父）；凭证 2026-11-07 | 2026-11-07 |
 | Theognis | — | 忒奥格尼斯 | dialectical-school | 学界通行汉译（狄奥多罗斯之女，据称逻辑学家；与麦加拉诗人忒奥格尼斯异人）；凭证 2026-11-07 | 2026-11-07 |
 | Thomas Sidney | — | 托马斯·西德尼 | alexander-crummell | 克鲁梅尔友人（19 世纪画家），音译 | 2026-11-07 |
+| Timaeus | — | 蒂迈欧 | neoplatonism | 柏拉图《蒂迈欧篇》同名对话人物（毕达哥拉斯派）；通行汉译同篇名 | 2026-11-07 |
 | Timon of Phlius | — | 斐利亚修斯的第蒙 | 首现（timon-phlius） | 学界通行汉译（皮浪门徒，讽刺诗人）；SUMMARY 定名；凭证 2026-11-07 | 2026-11-07 |
 | Torricelli, Evangelista | — | 托里拆利 | duhem | 学界惯例（物理学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Vattimo, Gianni | — | 詹尼·瓦蒂莫 | bloch | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
@@ -1586,3 +1599,12 @@
 | Bhāsarvajña | भासर्वज्ञ | 跋沙罗婆吉那 | jayaraasi | 梵音自拟（正理派论师） | 2026-11-07 |
 | Samantabhadra（耆那） | समन्तभद्र | 萨曼塔巴德拉 | jayaraasi | 梵音自拟；与佛教“普贤”别，故不取普贤 | 2026-11-07 |
 | Sextus Empiricus | — | 塞克斯都·恩披里柯 | jayaraasi | 沿用既有登记形（2026-10-30 行；《皮浪学说纲要》作者） | 2026-11-07 |
+| Norris, John | — | 约翰·诺里斯 | john-norris | 学界通行汉译（英格兰马勒布朗士派哲人）；凭证 2026-11-07 | 2026-11-07 |
+| Astell, Mary | — | 玛丽·阿斯特尔 | john-norris | 学界通行汉译（早期女性哲学家） | 2026-11-07 |
+| Dodwell, Henry | — | 亨利·多德韦尔 | john-norris | 学界通行汉译（灵魂不朽论战作者） | 2026-11-07 |
+| Collier, Arthur | — | 阿瑟·科利尔 | john-norris | 学界通行汉译（诺里斯后学） | 2026-11-07 |
+| Barclay, Roger | — | 罗杰·巴克利 | john-norris | 贵格会护教者；音译 | 2026-11-07 |
+| Keith, George | — | 乔治·基思 | john-norris | 贵格会改宗者；音译 | 2026-11-07 |
+| Vickris, Richard | — | 理查德·维克里斯 | john-norris | 贵格会信徒；音译 | 2026-11-07 |
+| Johnston, Charlotte | — | 夏洛特·约翰斯顿 | john-norris | 洛克研究者；音译 | 2026-11-07 |
+| Thomas, Elizabeth | — | 伊丽莎白·托马斯 | john-norris | 笔名 Corinna“科琳娜”；音译 | 2026-11-07 |

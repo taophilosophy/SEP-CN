@@ -2,7 +2,7 @@
   "slug": "neoplatonism",
   "kind": "retranslate",
   "zh_doc": "n/neoplatonism.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-07T02:03:14Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LMN-main-20261107",
+      "at": "2026-11-07T08:58:19Z",
+      "evidence": "43 段账本双版齐（前会话填 1–24，本会话 build_neoplatonism_p2.py 填 25–43），lq check HARD=0、SOFT 仅斜体转书名号与标题机械段；compose 写回 14110 字符，8 节 + References/学术工具/其他网络资源/相关词条与源同构（defs 33=33、marker 34=34、美元符 0）；中文强调斜体转粗 3 行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LMN-main-20261107",
+      "at": "2026-11-07T08:58:19Z",
+      "evidence": "逐段对照 yuanwen 核销 43 段（含前会话 1–24 段）：无漏译增译幻觉；数字守恒（差异仅版本行与序数 3ʳᵈ→3 世纪词形）；biblio_audit flagged 0（无中国文献需还原）；相关词条 21 项人工复核，补达马斯基乌斯、亚历山大的斯特凡努斯两条无 SUMMARY 行者；人名从表归正 4 处（克吕西波、阿弗罗狄西亚的亚历山大、辛普里丘、艾克哈特大师），前会话件形制统一（杨布里科斯、西里阿努斯、赫尔米亚的阿莫尼俄斯）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LMN-main-20261107",
+      "at": "2026-11-07T08:58:19Z",
+      "evidence": "check_prose 35 项→0：长句拆分 15、的链消解 14、作为一个 2、被字句 3、弱动词 1（其中前会话件 20 项一并实修）；改动同步回账本 step2（neo_prose_fix.py 29 处 + 后续 5 处），compose 复核仅差强调转换与相关词条行；check_style/check_math 全绿"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LMN-main-20261107",
+      "at": "2026-11-07T08:58:20Z",
+      "evidence": "check_academic --strict 硬错误 0；术语登记 8 行（四枢德/神化/巨匠造物主/回返/小宇宙/流溢进程/第一者/善）并对 nous-phusis-consciousness 既存行补本词条用法注；人名登记 13 行（阿摩尼乌斯·萨卡斯、巴西尔、贝萨里翁、达马斯基乌斯、纳齐安与尼撒的格列高利、杨布里科斯、爱留根纳、查士丁尼、努梅尼乌斯、斯特凡努斯、德日进、蒂迈欧）；OIR 两条链接 ASCII 括号闭合"
     }
   ],
   "blockers": [],
