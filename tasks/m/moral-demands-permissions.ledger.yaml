@@ -1,0 +1,403 @@
+version: 1
+slug: moral-demands-permissions
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      If morality and self-interest don’t always coincide—if sometimes doing what’s right isn’t also best for you—morality can sometimes require you to do what will be worse for you or to forgo an act that would benefit you. But some philosophers think a reasonable morality can’t be too demanding in this sense and have proposed moral views that are less so.
+    step1: |-
+      如果道德与自身利益并不总是一致——如果有时做正当之事对你并非也最有利——那么道德有时可能要求你去做对你不利的事，或放弃一项会给你带来利益的行为。但一些哲学家认为，一种合理的道德不能在这个意义上过于苛刻，并提出了不那么苛刻的道德观点。
+    step2: |-
+      如果道德与自身利益并不总是一致——做正当的事，有时并非对你最有利——那么道德有时就会要求你去做对你不利之事，或放弃能让你受益之举。但有些哲学家认为，合理的道德不应苛刻到这种地步，于是提出了不那么苛刻的道德观点。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. The Objection About Demandingness
+    step1: |-
+      ## 1 关于苛刻性的异议
+    step2: |-
+      ## 1 关于苛刻性的异议
+  - id: 3
+    kind: body
+    source: |-
+      Standard consequentialist moral views, which say the right act is always the one that will result in the most good impartially considered, face two main objections (Kagan 1989)[^kagan-1989]. One says these views permit too much. They can permit and even require acts of killing, lying, or promise-breaking if these will produce even slightly more good than any alternative; thus they can require you to kill one innocent person if that will save two other people’s lives. The other objection says these views demand too much. They say you must always do what will produce the best outcome, regardless of the cost to you. Thus, you must sacrifice your life if that will save just two other people’s lives, nor may you ever just relax or entertain yourself. Spending an evening watching television is wrong if you could do more good volunteering at the food bank, and volunteering at the food bank wrong if you could do even more good delivering medical aid in Africa. On most moral views you have some duty to contribute to charities that benefit people who are worse off than you, such as those suffering from famine. But consequentialism says you must keep giving as long as the benefit to them is greater than the cost to you, which can be until you’ve reduced yourself to their welfare level (Singer 1972: 241)[^singer-1972]. It makes no distinction between what is morally required and what, though admirable and good, is beyond duty or supererogatory. For consequentialism there is no moral time off and no sacrifice you can’t be required to make. Its demands, the second objection says, are unreasonably strong.
+    step1: |-
+      标准后果主义道德观点认为，正当行为永远是经不偏不倚考虑后能产生最多善的行为；这类观点面临两项主要异议 (Kagan 1989)[^kagan-1989]。一项说这类观点允许得太多。只要能比任何替代方案产生哪怕略多一点的善，它们就可以允许甚至要求杀人、撒谎或背约；因此，如果杀死一个无辜者能救另外两人性命，它们就可以要求你这么做。另一项异议说这类观点要求得太多。它们说你必须永远做能产生最佳结果的事，无论对你代价多大。因此，如果牺牲你的生命只救另外两人性命，你也必须牺牲；你也永远不能只是放松或娱乐。如果能去食物银行做志愿者产生更多善，那么花一晚上看电视就是错的；而如果去非洲提供医疗援助能产生更多善，去食物银行做志愿者也是错的。在多数道德观点中，你有某种义务向那些境况不如你的人——比如遭受饥荒者——捐款。但后果主义说，只要给他们带来的好处大于你的代价，你就必须一直给予，这可能直到你把自己降到他们的福利水平 (Singer 1972: 241)[^singer-1972]。它不区分道德上被要求的东西与令人钦佩、良善却超出义务或超义务的东西。对后果主义而言，没有道德上的休息时间，也没有你不能被要求做出的牺牲。第二项异议说，它的要求强得不合理。
+    step2: |-
+      标准的后果主义道德观点主张：正当行为永远是经不偏不倚考量后能带来最多善的那一个。这类观点面临两项主要异议 (Kagan 1989)[^kagan-1989]。一说它们允许得太多：只要能比任何替代方案多产生哪怕一丁点善，它们就允许甚至要求杀人、撒谎或背约——若杀死一个无辜者能救另外两人，它便要求你杀人。另一说它们要求得太多：无论对你代价几何，你都必须做能产生最佳结果的事。于是，若牺牲你的性命只能救另外两人，你也得牺牲；你永远不能只是歇一歇、寻点乐子。若能去食物银行做志愿者产生更多善，花一晚上看电视便是错的；若去非洲送医疗援助能产生更多善，去食物银行做志愿者也是错的。多数道德观点都承认，你有某种义务捐助于境况不如你者，比如饥荒中的受难者。可后果主义说，只要对方所得大于你的付出，你就必须一直给予——这可能一直给到你把自身降到他们的福利水平 (Singer 1972: 241)[^singer-1972]。它不区分道德上被要求之事与可嘉可赞却超出义务（超义务）之事。在后果主义这里，没有道德上的休息时间，也没有你不能被要求去做的牺牲。按第二项异议，它的要求强得不合理。
+  - id: 4
+    kind: body
+    source: |-
+      Bernard Williams gave an influential early statement of this objection, though not of it alone (1973: 93–100, 108–18). He said consequentialism requires you to treat your own projects, including those you’re most committed to and that define your identity, as no more important than anyone else’s and so to sacrifice them whenever that will produce more good. He described a chemist, George, who has strong moral objections to chemical and biological weapons but is urged to take a job at a laboratory developing them because, if he doesn’t, the job will go to another chemist who will work on the weapons more assiduously; by taking the job George can slow that development down. Williams’s charge that requiring George to set aside his commitments and do what’s impersonally best is “absurd” (1973: 116) is largely, but not only, about demandingness. For surely George doesn’t think only that he’s permitted not to take the job; he thinks taking it would be wrong. He thinks it’s wrong for anyone to help develop immoral weapons and that he, like everyone, has a special duty to ensure that *he* doesn’t do so. But then the example raises the objection about permitting as much as the one about demanding too much, and Williams’s emphasis on identity-defining projects, or what he calls the agent’s “integrity”, is also inessential. A moral view can seem overly demanding if it merely forbids you to relax or entertain yourself. In the simplest illustrations of this objection the act the view requires isn’t intuitively wrong, as in the George case, but is morally permitted and can even be heroic, and it may have just ordinary, not identity-threatening, costs for you.
+    step1: |-
+      Bernard Williams 对这一异议作了有影响的早期陈述，尽管并非只陈述了这一异议 (1973: 93–100, 108–18)。他说，后果主义要求你把自己的计划——包括你最投入、界定你身份的那些计划——看得不比任何人的更重要，从而只要牺牲它们能产生更多善就牺牲它们。他描述了一位化学家 George，他对化学与生物武器有强烈的道德反对，却被力劝去一家研发此类武器的实验室任职，因为如果他不去，这份工作会落到另一位更卖力研究这些武器的化学家手里；接受这份工作，George 就能让研发慢下来。Williams 指控说，要求 George 搁置自己的承诺、去做不偏不倚最好的事是“荒谬的” (1973: 116)，这主要但不只是关于苛刻性。因为 George 当然不只认为自己被允许不接受这份工作；他认为接受它是错的。他认为任何人帮助研发不道德的武器都是错的，而他与所有人一样，有一项特殊义务确保*他*不这么做。但这样一来，这个例子既提出了关于允许得太多的异议，也提出了关于要求得太多的异议，而 Williams 对界定身份之计划的强调——即他所称的行动者的“完整性”——反而并非要害。一种道德观点，只要禁止你放松或娱乐，就可能显得过于苛刻。在这一异议最简单的例证中，观点所要求的行为并不像 George 案例那样在直觉上是错的，而是道德上允许的、甚至可以很英勇，并且对你可能只有普通的、而非威胁身份的代价。
+    step2: |-
+      对这一异议，Bernard Williams 作过有影响的早期表述（但他并非只谈这一点） (1973: 93–100, 108–18)。他说，后果主义要求你把自己的计划——包括你最投入、最足以界定你身份的那些——看得不比别人的更重要，只要牺牲它们能多产生善，就牺牲它们。他举了化学家 George 的例子：George 强烈反对化学与生物武器，却被人劝去一家研发此类武器的实验室任职——因为他不去，这份工作就会落到另一位更卖力研发武器的化学家手里；接了这份工作，George 反倒能拖慢研发。Williams 指控说，要 George 搁下自己的承诺、去做不偏不倚最好的事，是“荒谬的” (1973: 116)——这一指控主要关乎苛刻性，但不止于此。因为 George 显然并不只是认为自己有权不接受这份工作；他认为接受它是错的。他认为任何人帮助研发不道德的武器都是错的，而他同所有人一样，有一项特殊义务确保*他*不这么干。可这样一来，这个例子既引出了“允许太多”的异议，也引出了“要求太多”的异议；而 Williams 对界定身份之计划的强调——他所谓行动者的“完整性”——反倒不是要害。一种道德观点，只要禁止你歇息或娱乐，就可能显得过于苛刻。在这一异议最简单的例证里，观点所要求的行为并不像 George 案例那样在直觉上是错的，而是道德上允许的、甚至可以很英勇，对你也许只有寻常代价，并不威胁身份。
+  - id: 5
+    kind: body
+    source: |-
+      Nor does the demandingness objection apply only to consequentialist moral views. W.D. Ross’s well-known non-consequentialism contains independent deontological duties not to kill, lie, or break promises and so avoids the objection about permitting too much. But it says that whenever doing so will violate no such negative duty you must produce the most good you can (1930: 39). Non-consequentialist views can therefore also be very demanding, making acts of maximizing the good obligatory that many see as merely supererogatory. The objection can also be made against views that don’t demand full maximization but say, for example, that though you needn’t sacrifice your life to save two strangers you must do so to save three, or that while you needn’t give to charity until you’re at the level of a famine sufferer you must do so until you’re just fifty percent better off than one. These claims too, for many, are excessive.
+    step1: |-
+      苛刻性异议也不只适用于后果主义道德观点。W.D. Ross 著名的非后果主义包含不杀人、不撒谎、不背约的独立义务论义务，从而避免了允许太多的异议。但它说，只要不违反这类消极义务，你就必须产生你所能产生的最大善 (1930: 39)。因此非后果主义观点也可能非常苛刻，把最大化善的行为规定为义务，而许多人认为这些行为只是超义务的。这一异议也可以针对那些不要求完全最大化、但例如说“你不必牺牲生命去救两个陌生人，却必须牺牲去救三个人”，或“你不必捐到与饥荒受难者同等水平，却必须捐到只比他们好百分之五十”的观点。对许多人来说，这些主张也过分了。
+    step2: |-
+      苛刻性异议也不限于后果主义。W.D. Ross 著名的非后果主义含有不杀人、不撒谎、不背约的独立义务论义务，因而避开了“允许太多”的异议；但它又说，只要不违反这类消极义务，你就必须产生你所能产生的最大善 (1930: 39)。于是非后果主义观点同样可能十分苛刻：它把最大化善的行为定为义务，而许多人觉得这类行为只是超义务之举。这一异议还可针对那些不要求完全最大化、却另有说法的观点：比如“你不必牺牲性命去救两个陌生人，却必须牺牲去救三个人”；或“你不必捐到与饥荒受难者同等水平，却必须捐到比他们好上百分之五十”。这些主张在许多人看来同样过分。
+  - id: 6
+    kind: body
+    source: |-
+      Deontological duties can also, though in a different way, be demanding. As merely negative these duties don’t require you to make positive sacrifices for others, or cause yourself harm, but they can require you to accept sacrifices or forgo benefits. If the only way you can save your life is by intentionally killing an innocent person, a duty that makes such killing wrong requires you to accept an outcome where you die; if the only way you can gain a financial benefit is by telling a lie, you must pass up the benefit. In this way even negative or deontological duties can be demanding, or can require sacrifices by you.
+    step1: |-
+      义务论义务也可以苛求人，只是方式不同。作为纯消极义务，它们不要求你为他人作出积极牺牲、或使自身受损，但它们可以要求你接受牺牲或放弃利益。如果你保住性命的唯一办法是故意杀死一个无辜者，那么一项使这种杀人为错的义务就要求你接受自己死亡的结果；如果你获得经济利益的唯一办法是撒谎，你就必须放弃这项利益。这样，即便消极义务或义务论义务也能苛求人，或要求你作出牺牲。
+    step2: |-
+      义务论义务也可能苛求人，只是方式不同。作为纯消极义务，它们不要求你为他人积极牺牲，或让自己受损；但它们可以要求你接受牺牲、放弃利益。若保住性命的唯一办法是故意杀死无辜者，那么“不得如此杀人”的义务就要求你接受自己死去的结局；若获取经济利益的唯一办法是撒谎，你就得放弃这笔利益。由此可见，即便消极的、义务论的义务，也能苛求人，也能要求你有所牺牲。
+  - id: 7
+    kind: body
+    source: |-
+      These claims about demandingness all consider only the costs to you, the person subject to a duty, and not the costs to others who may be affected by what you do. If you’re required to sacrifice your life to save two others, your death is a relevant cost and makes the duty demanding on you. But if you’re permitted not to make that sacrifice, the deaths of the two aren’t relevant costs and don’t make the permission objectionably demanding on them. (If they were, the result would be something like impartial consequentialism.) It has been argued that the demandingness objection is therefore not in fact distinct from the objection that consequentialist views permit too much. Since it relies on the same distinction between what you actively cause (here your death if you make the sacrifice) and what you merely allow (the others’ deaths if you don’t) that’s central to many versions of the other objection, it just repeats that objection (Sobel 2007)[^sobel-2007]. But the doing/allowing distinction doesn’t figure in all claims about demandingness. A duty not to kill even to save your life is demanding even though it requires you to allow, not actively cause, your death, and some think this duty is at times too demanding (see Section 7). What matters in this and arguably all claims about demandingness is just that a duty applies to you, so only effects on you are relevant. That the two objections are independent is underscored by the fact that Ross’s view is open to one but not the other, and they also appeal to different intuitions: the one that it’s not wrong to choose not to sacrifice your life to save two others, the other that it is wrong to kill one to save two others.
+    step1: |-
+      这些关于苛刻性的主张都只考虑对你的代价——对受义务约束者本人的代价，而不考虑可能受你行为影响的他人的代价。如果你被要求牺牲生命去救另外两人，你的死亡是一项相关代价，使该义务对你而言是苛求的。但如果你被允许不作这一牺牲，那两人的死就不是相关代价，不会使这一允许对他们而言苛求得令人反感。（如果它们是，结果就会类似不偏不倚的后果主义。）有人论证说，因此苛刻性异议实际上与“后果主义观点允许太多”的异议并无区别。因为它依赖的正是你主动造成什么（此处是若你作出牺牲则你死亡）与你仅仅允许什么（若你不牺牲则他人死亡）之间的区分，而这正是另一异议许多版本的核心，所以它只是在重复那一异议 (Sobel 2007)[^sobel-2007]。但作为/允许之分并不出现在所有关于苛刻性的主张中。一项即使为救自己性命也不得杀人的义务是苛求的，尽管它要求你允许而非主动造成自己的死亡；有些人认为这项义务有时过于苛刻（见第 7 节）。在这一主张以及可以说所有苛刻性主张中，要紧的只是某项义务适用于你，因此只有对你的影响才相关。两项异议相互独立，这点因 Ross 的观点只对其中之一敞开而对另一项不然而更加凸显；它们诉诸的直觉也不同：一说选择不牺牲性命去救另外两人并无错，另一说杀死一人去救另外两人是错的。
+    step2: |-
+      这些关于苛刻性的说法，都只算对你的代价——对受义务约束者的代价，不算可能受你行为影响的他人的代价。若你被要求牺牲性命去救另外两人，你的死就是一项相关代价，使该义务对你而言苛求。但若你被允许不作此牺牲，那两人的死便不算相关代价，不会让这项允许对他们苛求得令人反感。（若算，结果就近于不偏不倚的后果主义。）有人因此论证：苛刻性异议与“后果主义允许太多”的异议其实并无分别。因为它依赖的正是你主动造成之事（此处是牺牲则你死）与你仅予允许之事（不牺牲则他人死）的区分，而这一区分恰是另一异议许多版本的要害，所以它不过是在重复那一异议 (Sobel 2007)[^sobel-2007]。然而作为与允许之分并不进入所有苛刻性主张。一项即便为救己命也不得杀人的义务是苛求的，尽管它要求你允许、而非主动造成自己的死；有些人认为这项义务有时过于苛刻（见第 7 节）。在此处、乃至可以说在所有苛刻性主张中，要紧的只是某项义务适用于你，因而只有对你的影响才相关。两项异议彼此独立，还因 Ross 观点只招其一而不招其二而更显分明；它们所诉诸的直觉也不同：一说选择不牺牲性命去救另外两人并不为错，另一说杀死一人去救另外两人是错的。
+  - id: 8
+    kind: body
+    source: |-
+      There is, then, a distinctive and important issue about how demanding morality is or should be taken to be. Are you required to maximize the good or benefit others as often as consequentialism and Ross’s view say? Or are you sometimes permitted not to do what will have the best outcome or would otherwise be morally required, because of the cost to you? If this sometimes is permitted, when and why is it that so?
+    step1: |-
+      于是，道德有多苛求、或应被看作多苛求，是一个独特而重要的问题。你被要求像后果主义与 Ross 观点所说的那样，尽可能经常地最大化善或造福他人吗？还是说，由于对你的代价，你有时被允许不做会产生最佳结果、或在其他方面为道德所要求的事？如果这种“有时被允许”成立，那么何时、为何如此？
+    step2: |-
+      由此看来，“道德有多苛求、又应当被看成多苛求”是一个独特而重要的问题。你究竟是否像后果主义与 Ross 观点所说的那样，必须尽可能多地去最大化善、造福他人？还是说，由于代价落在你身上，你有时被允许不做能产生最佳结果、或在其他方面为道德所要求的事？若确有这种“有时被允许”，那是在何时、又为什么？
+  - id: 9
+    kind: body
+    source: |-
+      ## 2. Resisting the Demandingness Objection
+    step1: TBD
+    step2: TBD
+  - id: 10
+    kind: body
+    source: |-
+      Consequentialist and other views with strong duties to promote the good can try to resist the demandingness objection, in two ways. One is to deny that they’re in fact all that demanding; the other is to agree that they’re demanding but deny that this is a flaw.
+    step1: TBD
+    step2: TBD
+  - id: 11
+    kind: body
+    source: |-
+      Some consequentialists argue that, since you know much less about what will promote the good of distant strangers than you do about promoting your own good or that of your family and friends, you’ll do the most good, even impartially considered, if you concentrate your efforts locally, on those you know best (e.g., Sidgwick 1907: 430–39)[^sidgwick-1907]. This, they say, makes their view not in practice that demanding. But though it contains some truth, this argument hardly meets all the objection. If you can save either your own life or two strangers’, you don’t need specialized knowledge to be confident that saving the two will preserve more good. Nor can a well-off person in a developed country really doubt that the cost to his family of donating $1000 to a food agency will be smaller than the benefit to those it saves from starvation.
+    step1: TBD
+    step2: TBD
+  - id: 12
+    kind: body
+    source: |-
+      A related argument invokes “indirect” or “two-level” consequentialism, which distinguishes what’s true—the consequentialist principle—from what’s in practice the best way of deciding how to act. Since someone who tries to identify the act with the best outcome will too often get it wrong, this view says, each person should identify some simpler moral rules by following which he can, as an individual, produce the most good through time and then mainly be guided by them (e.g., Bales 1971; Hare 1981; Parfit 1984)[^bales-1971][^hare-1981][^parfit-1984]. The rules must, however, be ones he’ll actually obey, as he won’t if they’re too demanding. He’ll do better if he internalizes a weaker duty to promote the good that he’ll act on than a stronger one he’ll ignore, making again for lesser demands in practice. But it’s again unclear that this argument fully meets the objection. Even if the rule with the best consequences demands less than full maximization, it may still be considerably more demanding than those concerned about demandingness will find plausible (Mulgan 2001: 44)[^mulgan-2001]. This may especially be so if few others are doing much to promote the good, so this person’s acts can make a large difference. In addition, both this argument and the preceding one have a crucial limitation. They concern only what’s right subjectively, or relative to what you know or to what your best decision-procedure is. Both allow that objectively, or relative to the facts, any act that fails to maximize the good is wrong, and objectors may still find that unacceptable. Their concern, they may say, isn’t just that you should be able to think or act as if you’re permitted not to make large sacrifices; it’s that you actually are, objectively, permitted not to make them. A possible response distinguishes between what’s wrong and what you can be blamed for. If you do what’s objectively wrong when you couldn’t have known it was wrong or were following the rules it’s best for you to follow, this response says, you aren’t to blame for your act (e.g., Arneson 2004, 2009)[^arneson-2004]. But the objectors can again deny that this meets their point, which isn’t just about what morality says you can be blamed for but also about what it says you must, objectively, do.
+    step1: TBD
+    step2: TBD
+  - id: 13
+    kind: body
+    source: |-
+      The other reply to the objection grants that consequentialist and similar views are demanding but denies that this is a flaw. If we don’t always do what results in the most good, it says, that’s a failing in us rather than in the moral view that requires us to do more; if we think we’re sometimes permitted not to maximize the good, we’re mistaken. In fact, those who urge such a permission may just be trying to justify retaining their privileged social position (Wilson 1993)[^wilson-1993]. A more theoretical version of this reply says, first, that all views recognize a duty to promote the good impartially as at least one element in morality, and then argues that none of the revisions or additions needed to generate a less demanding view can be justified (Kagan 1989)[^kagan-1989]. This assumes, perhaps controversially, that the revisions need further justification and are unacceptable without one.
+    step1: TBD
+    step2: TBD
+  - id: 14
+    kind: body
+    source: |-
+      A different version appeals to intuitions about particular cases (e.g., Singer 1972; Unger 1996)[^singer-1972][^unger-1996]. It first describes a case where benefiting others seems uncontroversially required, most famously one of Peter Singer’s where you can save a child from drowning in a pond at the cost of dirtying your clothes (1972: 231). It then argues that cases where many deny there’s a duty to benefit, such as ones where you can save a life by contributing to famine relief, don’t differ in any morally significant way from this one and so likewise involve a requirement; there too you must sacrifice your good. As Singer recognizes, a defence starting from his pond case can’t support a duty as strong as the fully maximizing one he himself prefers. That would require an initial example where you must sacrifice something like both your legs to save the child or your life to save two children, and those acts aren’t uncontroversially required. But the defence can, if successful, support a stronger duty of aid than everyday morality recognizes, one that makes substantial contributions to charity not just generous or supererogatory but in the strict sense required.
+    step1: TBD
+    step2: TBD
+  - id: 15
+    kind: body
+    source: |-
+      There are, however, several differences between the pond case and ones involving charitable giving. The child in the pond is just a short distance from you while those suffering from famine are far away; you know who in particular will benefit if you save the child—you can see him—but you know only that someone or other will be saved if you contribute to famine relief; and only you can save the child whereas many others can contribute to charity. (The pond case is also usually imagined as a one-off, whereas if you save one person from famine there will be another whose plight makes the same demand, and then another and another. This issue, about demandingness through time, is discussed in Section 6.) Those who defend a strong duty of aid deny that these differences, either individually or together, are morally significant (e.g., Singer 1972; Unger 1996; Kagan 1998: 134–35; Pummer 2023: 99–125)[^kagan-1998][^pummer-2023][^singer-1972][^unger-1996]; thus, they deny that this duty is weakened by physical distance (contrast Kamm 2000)[^kamm-2000]. Others argue that one or more of the differences do weaken the duty (e.g., Woollard 2015: 129–43)[^woollard-2015]. More specifically, they argue that the pond case invokes a duty of immediate or emergency rescue that’s distinct from, and stronger than, any general duty of beneficence (Kagan 1998; Igneski 2006)[^igneski-2006][^kagan-1998]. Imagine that you encounter a drowning child while on your way to make a charitable donation that will save two lives and must be made without delay. If the duty to save the child were just an instance of a more general duty of beneficence, it would be wrong for you to stop and save the child; you should keep going and make the donation. But many think that would be wrong; your stronger duty is to save the child, which implies that it’s a distinct duty (e.g., Woollard 2015: 132, 142)[^woollard-2015]. But then the verdict about the original pond case doesn’t extend, at least without some loss of demandingness, to non-rescue cases like ones of charitable giving.
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      Arguments for a strong duty to promote the good, whether maximizing or somewhat weaker, are revisionist of everyday morality. How persuasive they are depends in part on whether and how a more permissive view can be constructed, something there are two general strategies for doing. The first involves weakening the duty to promote the good so, considered just on its own, it doesn’t require you to act as often as a more demanding duty does. The second supplements the duty to promote the good with a competing factor based on costs that can sometimes outweigh it and make it permitted not to act as the duty requires.
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      ## 3. Weakening the Duty to Promote the Good
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      The most radical version of the first strategy rejects the duty to promote the good entirely, recognizing only, say, deontological duties not to harm or interfere with others. The resulting view, which may be libertarian, never requires you to sacrifice any of your good to benefit others, or even to benefit them when that would be costless for you, and is therefore completely undemanding (Narveson 2003)[^narveson-2003]. But many will find this view too radical and will prefer a version of the strategy that retains a duty to promote the good, either on its own or as one duty among others, but weakens the duty so that by itself it permits some or even many acts that produce less than the most good possible. The question, though, is whether this weakening, which can be done in several ways, fully meets the demandingness objection.
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      One possibility is to replace a maximizing duty to promote the good with a satisficing duty (Slote 1985: 35–59)[^slote-1985], which says an act is right so long as it produces a reasonable amount of good, or has an outcome that’s in one or both of two senses good enough. In one sense an outcome is good enough if in it all people, or perhaps some reasonable percentage of them, lead what by absolute standards are reasonably good lives. In another it’s good enough if you’ve made some reasonable percentage, say two thirds, of the largest improvement in it you can (Hurka 1990)[^hurka-1990]. A duty that is satisficing in both senses is in two ways less demanding than a maximizing one. If the situation is by absolute standards already reasonably good, you have no duty whatever to improve it; and even if the situation isn’t reasonably good and nothing you do can make it so, you need only do, say, two thirds of the most you can to improve it.
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      These weakenings don’t, however, consider the costs to you of promoting the good, which opens a satisficing view to two objections. It gives you, first, no duty to improve a situation that’s already good enough even if that would involve just pushing a button and so no cost to you, and no duty ever to do more than two thirds of the most you can even if that means just pushing one button rather than another. This can seem unacceptable since it permits you not to promote some good when there’s no positive reason not to. At the same time, a satisficing view can be very demanding if doing two thirds or even half or a quarter of the most good you can involves significant costs for you. Though you may not be required to save six lives at the cost of your own, you may be required to save four or three of them at the cost of your own. Since it gives no weight to costs, a satisficing view doesn’t really address what for many is the core of the demandingness objection, which concerns costs. Though it weakens the duty to promote the good, it sometimes does so when that doesn’t seem appropriate, and sometimes doesn’t do so when intuitively that is called for.
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      A related possibility is to make the duty to promote the good what Kant called an “imperfect” rather than “perfect” duty. A Kantian imperfect duty mainly requires you to adopt an end rather than to perform any acts; when it does require acts, it doesn’t mandate specific ones but gives you some “latitude” to decide when and to what degree you’ll fulfill it; and it allows some exceptions for inclination or desire (Kant 1797 [1964: 49, 54, 73–74, 112]; Kant 1785 [1997: 31n2]; see also Hill 1971)[^hill-1971][^kant-1785][^kant-1797]. The third feature, about inclination, seems to introduce a competing factor that weighs against the duty, as in the second general strategy, and so can be set aside here. And the first feature only distinguishes imperfect duties given the second, about latitude, which therefore seems the primary one. But if the latitude is “for doing more or less” (Kant 1797 [1964: 54])[^kant-1797], so you may sometimes opt not to produce the best outcome, an imperfect duty is close to a satisficing one and open to similar objections; thus, it too can permit you not to benefit another when that would involve no or minimal cost for you. Some defenders of imperfect duties say that, if you don’t benefit another when that would involve minimal cost to you, you haven’t really adopted an end of beneficence (Noggle 2009; Stohr 2011)[^noggle-2009][^stohr-2011]. But this implies that when you are permitted not to benefit, it’s because there are significant costs for you, which again suggests the second strategy, with a competing factor, rather than the first of just weakening the duty. Kant’s imperfect duties do have a distinctive temporal dimension. While a satisficing duty can be read as requiring you at each time to produce at least two thirds of the most good you then can, Kant allows you sometimes not to produce any good so long as, over time, you produce a reasonable amount. But, a competing factor aside, there’s still no attention to costs as such and, in consequence, the possibility of strong demands if even promoting just some good through time requires large sacrifices by you.
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      A different weakening, proposed by Liam B. Murphy, requires you to do only as much as you would have to do if everyone else were fulfilling their duty. In charitable giving, for example, you need give only as much as would be your share if everyone else were contributing as they should (Murphy 1993, 2000)[^murphy-1993]. This “co-operative” view can be motivated by concerns other than demandingness and is so for Murphy; his rationale is more that a duty shouldn’t become more onerous for you because others aren’t fulfilling theirs. The resulting co-operative duty is considerably less demanding in cases like that of charitable giving, where others can help produce a good, but not in ones where they can’t. On its own it does nothing to block the claim that if two people are drowning and no one else can save them, you must sacrifice your life to do so. And if it may seem not permissive enough in these cases, it can seem too permissive in others. If you and another could save a third person’s life at a total cost of $20 but the other refuses to contribute his $10, the view gives you no duty to spend $20 to save the life (Tadros 2016: 106; also Mulgan 2001: 217–18; Arneson 2004: 36–37)[^arneson-2004][^mulgan-2001][^tadros-2016]. Like satisficing and imperfect-duty views, this co-operative one weakens the duty to promote the good but arguably doesn’t fully address the core concern about costs.
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      A final, more complex weakening, that of rule-consequentialism, may have better prospects of doing so. It says an act is right if it’s required or permitted by the set of moral rules whose internalization by a large majority, say 90%, of people in your society would have the best consequences through time (Hooker 2000)[^hooker-2000]. Though like indirect consequentialism in citing the effects of certain rules, it uses them to identify not just a desirable decision-procedure but also objective rightness and so lacks that other view’s limitation. Since it considers the effects not just of your accepting rules, like the indirect view, but of most people’s doing so, it can join the co-operative view in significantly weakening the duty to contribute to charity. But by considering their internalizing a rule, rather than just their acting as it requires, it can count it against a rule imposing large costs that people won’t obey it or that vast resources would be needed to get them to do so; it can therefore also allow you not to sacrifice your life to save two others. It’s unclear, though, exactly how far the resulting weakening goes. Could there not be better consequences if most people obey a more demanding rule 30% of the time than if they obey a less demanding one 80% of the time? And the very features that give rule-consequentialism its strengths also create difficulties. Will rules justified by the consequences of their acceptance by most people always give the right directives in situations where most people don’t accept and therefore aren’t acting on the rules? May the rules not then be too permissive? And what if different rules have the best consequences given different percentages of people accepting them? More abstractly, how plausible is it to rest the objective rightness of actual acts on the merely hypothetical consequences of a hypothetical acceptance of rules? How persuasive is that rationale?
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      A strength of rule-consequentialism is that as well as weakening the duty to promote the good it can introduce other moral factors that weigh against it, including not just negative duties such as not to kill but also factors that merely counteract some of its demands, resulting in permissions rather than prohibitions. But a factor of this kind can also be added directly, without reference to optimal rules. That is the second general strategy for generating a less demanding moral view.
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      ## 4. Supplementing the Duty to Promote the Good: A Requiring Factor
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      This strategy supplements a maximizing or weaker duty to promote the good with a competing factor that considers the costs to you and that can sometimes outweigh the duty, making not acting as the duty directs, for example not producing the most good possible, all things considered permitted. The result is an “agent-relative permission” (Parfit 1978; Davis 1980)[^davis-1980][^parfit-1978] or “agent-centred prerogative” (Scheffler 1982)[^scheffler-1982] not to make certain sacrifices. This all-things-considered permission is agent-relative because the factor it rests on considers only the costs to you or perhaps to someone close to you. If it’s unavoidable that either you or two strangers will die, this factor allows you to save yourself even though sacrificing your life to save the others would preserve more good; saving them is permitted and even heroic but not required. The factor may also permit you to save your child rather than two strangers, though here some will say you have a positive duty to save your child and saving the strangers would be wrong. But if someone else can save either you or two strangers or your child or two strangers, they must save the strangers. The only costs relevant to a person’s choice are costs to him or to someone close to him; what it weighs against an impersonal duty is relativized or personal.
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      In an influential discussion Samuel Scheffler proposed grounding this competing factor in a claim about our nature as agents. We don’t, he argued, evaluate outcomes only from an impersonal point of view that ranks as best those containing the most total good. We also have a personal point of view that cares disproportionately about our own projects and good because they’re ours. An adequate moral view should reflect this duality in our psychology, or reflect the “independence of the personal point of view”, as it will if it grants agent-relative permissions (Scheffler 1982: 56–70)[^scheffler-1982]. A different justification says we need these permissions if our bodies, time, and resources are truly to belong to us, or to be under our authority. If we were required to sacrifice them whenever the benefit to others would be slightly greater, they would be no more ours than anyone else’s (Woollard 2015: 109–12)[^woollard-2015]. A related claim says it’s good if we have “moral autonomy”, or the freedom to make a wide range of choices among morally permissible options, something we wouldn’t have if there was a requirement always to maximize (Slote 1985: 23–34; Shiffrin 1991)[^shiffrin-1991][^slote-1985]. Or the permissions can reflect a moral status we’re said to have as unconditionally valuable. If we always had to do what will most promote the good, we would matter only as means to that good rather than as ends in ourselves: our being such ends requires some permission not to produce what’s best (Kamm 2007, 82; Lazar 2019a)[^kamm-2007][^lazar-2019a].
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      These are philosophically ambitious arguments, which try to ground a competing factor in something more explanatory than the bare intuition that a consequentialist or other strong duty is too demanding. Some may think a grounding of this kind is essential, so without one agent-relative permissions are unacceptable; others may think it at best a useful addition. And of any proposed grounding we can ask whether it really gives the permissions an independent rationale rather than just restating the idea that there are some in more grandiose terms (Kagan 1989)[^kagan-1989].
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      A different argument says a view without permissions is in a certain sense self-contradictory. If you spend $1000 on pleasures for yourself rather than contribute it to saving others, such a view says you act wrongly. But if you contribute the $1000, those others can use it to gain pleasures or similar goods for themselves, which if it’s wrong in you must also be wrong in them. Yet surely you can’t be required to enable others to do something it would be wrong for you to do. This result is avoided, the argument says, if the others may spend some of what they receive on themselves, which means you too must be permitted to spend some of it on you (Cullity 2003, 2004)[^cullity-2003]. But this argument seems to conflate claims about the right and about the good. If you spend the $1000 on yourself, the pleasure you get, even if wrongly obtained, is still a good in your life. So is the others’ pleasure, if they spend the money on themselves, a good in theirs. And the pleasure they’ll get from the $1000 is greater than any you can get, since their material condition is worse. So even if your contributing the $1000 enables wrong acts by them, it produces more good, and so is morally preferable or closer to being right, than if you spent it on yourself (Arneson 2009)[^arneson-2009]. There may indeed be agent-relative permissions, but there’s no contradiction if there aren’t.
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      These issues about justification aside, the competing factor that generates the permissions can have either of two forms. On one view it’s a duty or ought other things equal to avoid costs to you, or a reason to do what’s best for you in the “requiring” sense where a reason to do an act tends, like an ought other things equal, to make the act simply required. Here what weighs against the duty to promote the good is a normative factor of the same general type. On the other view the factor is merely permissive. It’s a permission or prerogative other things equal to do what’s best for you, or a reason to avoid costs in the weaker “justifying” sense where a reason to do an act tends only to make it simply permitted (Gert 2004)[^gert-2004]; this factor differs in type from the duty. And whatever its form, the factor can be seen either as non-moral, so a moral duty to promote the good weighs against a non-moral ought, reason, or permission, or as itself moral, so the weighing is of two elements of morality.
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      The view that the competing factor is an ought or requiring reason is simple conceptually, since it uses just one type of normative element. In what I’ll call a one-stage version this view weighs a requiring reason to promote the good impartially and a similar reason to promote your own good (and perhaps that of those close to you) directly against each other. If one of the two is stronger, you must do as it directs; but if neither is stronger, you’re permitted all things considered to act on either (Parfit 2011: 137–41)[^parfit-2011]. This one-stage view has difficulty, however, generating permissions that are sufficiently extended. If you’re permitted to choose either one unit of good for yourself or ten for others, you surely often may also choose either one for yourself or nine or eleven for others. But this won’t be possible if the competing reasons have precise weights. If your reason to promote your own good is exactly ten times as strong as your impartial reason, you may choose either of two acts when the ratio of cost to benefit is exactly 1:10 but not when it’s either greater or smaller than 1:10; then one of the reasons is stronger and you must act on it (Kagan 1989: 374–75)[^kagan-1989]. To avoid this result, the view’s proponents often say the reasons can’t be weighed precisely. There’s a band of indeterminacy where neither is stronger but they’re also not exactly equally strong, and within this band you may act on either (Parfit 2011: 137)[^parfit-2011]. But while it’s plausible that we can’t ourselves weigh the reasons precisely, to imply that in an extended range the two choices are permitted objectively, rather than just relative to our beliefs, this view must say the reasons don’t in fact, or metaphysically, have precise weights. And do extended objective permissions really depend on this abstruse claim of objective indeterminacy? Would there be no such permissions if the normative truth were completely precise (Hurka & Shubert 2012: 4)[^hurka-2012]?
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      In addition, there are presumably not only cases where the impartial reason is stronger but also ones where your reason to promote your own good is stronger, such as one where you can give either ten units of good to another person or nine to yourself. Here your impartial reason slightly favours giving the other the ten while your self-regarding reason strongly favours giving yourself the nine. The second reason should therefore outweigh the first, making it on balance wrong to give the other the ten. But many will find this counterintuitive. They will say that while producing the most good isn’t always required—that would be too demanding—it is always permitted, so, deontological constraints aside, it’s never forbidden to do what has the best outcome impartially considered. A view that weighs two types of requiring reason directly against each other can’t easily endorse this claim.
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      Since the above view treats the two reasons symmetrically, it makes little difference whether it classifies the self-regarding one as moral or non-moral. But some requiring-reason views turn on treating this reason as non-moral and using it in a more complex procedure for judging acts. These two-stage views, as I’ll call them, first weigh your moral reasons, such as to promote everyone’s good or just the good of others, against a non-moral reason to promote your own good in order to determine what you have most reason, or ought all things considered, to do. They then pair the result of this weighing with one of its components to determine what you’re morally required or permitted to do, where that is different. One such view says that, if you can give either ten units of good to another person or nine to yourself, your non-moral reason outweighs your moral one and you ought all things considered to give yourself the nine. But you have, alongside this, a specifically moral permission to give the other the ten, because you’re always morally permitted to do either what is most supported by all your reasons or what is most supported by just your moral ones (Slote 1991; Portmore 2003)[^portmore-2003][^slote-1991]. A different view weighs the two reasons in the opposite way. It says that here your moral reason outweighs your non-moral one, so you ought all things considered to give the other the ten units. But failing to do so isn’t morally wrong, because of the cost it involves for you; though a mistake given all your reasons, it’s a morally permissible mistake, or doesn’t violate a specifically moral obligation (Harman 2016; McElwee 2017)[^harman-2016][^mcelwee-2017]. Both these two-stage views yield an extended range of all-things-considered moral permissions, since any cost that makes not acting on a stronger moral reason morally permitted will do the same given a weaker moral reason. Both also always morally permit you to do what’s morally best, either because that’s always all things considered best (the second such view) or even if it’s not (the first). But both also face difficulties.
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      First, the very complexity that gives two-stage views these merits can make them look ad hoc. What, beyond the desire to fit some intuitions, explains why one requiring reason, either the moral or the non-moral, counts twice in the assessment of acts, first in determining what you have most reason to do and then, separately, in determining what is morally permitted? These views also face a version of the last objection to the one-stage view. Both say that in our example one of the two acts is what you ought all things considered to do, so the other is all things considered forbidden; this second act is permitted only in a different, merely moral sense. Thus, the first view says that giving the other the ten units, though morally permitted, is all things considered forbidden. But many will deny that you have only a moral permission here; they will say that giving the other the ten units and giving yourself the nine are both all things considered permitted. If an act is one the balance of reasons says you ought not to do, doing it is against reason and in that sense irrational. But surely, many will say, neither doing a supererogatory act nor declining to do it is irrational (Kagan 1991: 927–28)[^kagan-1991].
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      Douglas W. Portmore (2011, 2019) has proposed a revised two-stage view that aims to avoid this objection by making supererogation not just morally but also rationally permitted. It takes rational principles to apply, first and most fundamentally, not to individual acts but to possible intended sequences of acts, potentially as long as a whole life. If an act is rationally permitted, this view says, it’s so only derivatively, because it’s part of a possible sequence that is rationally permitted; the rationality of the sequence comes first. Portmore thinks that generically, or as a whole, moral and non-moral reasons weigh roughly equally against each other, so the sequences there is most reason all things considered to choose contain a “reasonable balance” between altruism and self-interest (2011: 160; 2019: 217). But at any time you have many such sequences available to you, differing in the times at which, or the order in which, their altruism and self-interest occur. It follows that at many times both doing and not doing a supererogatory act are rationally permitted. Imagine that today you can either volunteer at the food bank or relax, where moral reasons favour the first and non-moral ones favour the second. You may rationally do either, Portmore says, because a possible sequence in which you volunteer today and relax tomorrow and one where you relax today and volunteer tomorrow are equally rational, and each of the two acts figures in one of these. Given the primacy of sequences you may order your activities as you wish, which means that at many times you may rationally act either on the moral reasons that then apply or on the all-things-considered ones; whichever you do, you could plan to make a balancing choice later.
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      The idea that rational principles apply primarily to possible sequences has wide-ranging implications that a full discussion would need to address. But the resulting view doesn’t, at least in Portmore’s formulation, rationally permit all supererogatory acts. If you sacrifice your life to save two other people, the immense loss of non-moral goods for you means the resulting shorter life is less favoured by all your reasons than ones in which you don’t make the sacrifice, which makes both this life and the supererogatory act it contains rationally forbidden. Portmore accepts this implication; for him what needs to be shown is only that most supererogatory acts are rational. But others may reject the thought that any morally permitted or heroic act is irrational. His view likewise rationally forbids many lives, for example a saintly one in which you plan to give so continuously to famine relief that you’re always just above the level of a famine sufferer. This life isn’t reasonably balanced and hence is irrational, as is a more moderately altruistic life that departs just somewhat from the required balance. Again, many will deny that these morally admirable lives are contrary to reason. In other ways, however, the view seems very permissive. Though a saintly life is as a whole forbidden, each of its charitable acts, at least until near its end, seems rationally permitted, since each is part of a possible life where it’s balanced by enough self-interest at other times. But how can a life that’s as a whole forbidden have, for most of its length, only permitted parts? Portmore’s view has other elements, including an imperfect duty to adopt others’ good as an ultimate and important end that, awkwardly, must be fulfilled in your actual sequence of acts rather than just in some possible one, and these elements raise further issues. At the very least his discussion shows how complex a view with only requiring reasons must be to come even close to capturing all plausible claims about permissible action.
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      Views using only requiring factors also have difficulty accommodating a different type of permission. Alongside “agent-favouring” permissions to prefer your own lesser good, common-sense morality seems to grant “agent-sacrificing” permissions, ones to prefer other people’s lesser good (Slote 1985: 11–12, 24–26)[^slote-1985]. While the first type of permission allows you to choose nine units of good for yourself rather than ten for another, the second says you may choose nine for another rather than ten for yourself; common sense doesn’t see that sacrifice as wrong. It may condemn preferring another’s vastly lesser good, as it condemns preferring your own vastly lesser good. But with that proviso it seems to permit some agent-sacrifice, and this doesn’t fit easily in a view with only requiring reasons. In our example both your impartial reason and your self-regarding one favour giving yourself the ten units, which makes giving the other the nine units wrong both on the simpler view that weighs the two reasons directly and on some two-stage ones. This conclusion won’t follow if your moral reason is to promote, not the good impartially, but just other people’s good, your own excluded; then your moral reason favours the sacrifice and can make it not on balance wrong. And some requiring-reason views, especially two-stage ones, do take moral reasons to concern only other people’s good (Portmore 2003, 2011, 2019; Harman 2016)[^harman-2016][^portmore-2003]; they can therefore allow agent-sacrifice. But the idea that your own good can’t ground or contribute to moral reasons is contentious (Lazar 2019a)[^lazar-2019a], and this means that to accommodate agent-sacrificing permissions a view with only requiring factors needs, if not a controversial assumption of metaphysical indeterminacy, then one about what counts as a moral reason.
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      ## 5. Supplementing the Duty to Promote the Good: A Permissive Factor
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      In the other version of the strategy that supplements the duty to promote the good with a competing factor that can outweigh it, this factor is only permissive: it’s a permission other things equal or a justifying reason, and not an ought or requiring reason, concerning your good. Scheffler proposed a version of this view in which the permissive factor is comparative, or is a permission to give your own good somewhat more weight than other people’s, say up to ten times more (1982: 20). In a different version this factor is a simpler permission other things equal to promote your good, which then has a weight (Hurka & Shubert 2012; Muñoz 2021; Pummer 2023)[^hurka-2012][^muñoz-2021][^pummer-2023]. If the permission’s weight is greater than the duty’s, you’re permitted all things considered to prefer your lesser to another’s greater good; if it’s not, you must do what is impartially best. Though perhaps not entirely familiar, the idea that permissions can have weights mirrors the parallel idea about duties. If the strength of a duty other things equal is its tendency to make an act simply required, the strength of a permission other things equal is its tendency to make an act simply permitted. Thus, a permission other things equal to promote two units of your good is stronger than a permission to promote just one unit because it outweighs some duties the other permission does not. If your permission to promote a unit of your good is ten times as strong as your duty to promote a unit of other people’s, the result is, as in Scheffler’s view, that you may all things considered prefer a unit of your good to as many as ten, but not to more than ten, for others.
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      This version of the second strategy is more complex conceptually than the one with only requiring reasons, since it uses two types of normative factor. But it’s hard to see this as a decisive flaw. “Ought” and “permitted” are mutually interdefinable, just like “necessary” and “possible”, and there’s no reason to see either as more fundamental. At the same time, this view is simpler structurally than some requiring-reason ones, especially two-stage ones, since it involves just one weighing and one assessment. With a merely permissive competing factor, moreover, it can yield an extended range of permissions even if this factor has a metaphysically precise weight. If your permission to promote a unit of your own good outweighs your duty to promote ten units for others, it also outweighs your duty to give nine, eight, or seven for others, and it does so even if ten is an exact cutoff. And since it involves only a permission other things equal, it also allows you to weigh your good equally against other people’s and so always allows you to do what’s impartially best. If its permissive factor reflects a personal point of view that, as Scheffler says, cares more about your good because it’s yours, it’s hard to see how it can allow agent-sacrifice (Slote 1985: 25)[^slote-1985]. But if that ambitious grounding is set aside, the view can give you a further permission to give your good somewhat less weight than other people’s, or a permission other thing equal not to promote your good, and this will generate agent-sacrificing permissions. The view will then allow you to depart from impartial beneficence in each of two directions, preferring either your own or another’s lesser good.
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      Controversially, however, a view that includes only a permission concerning your good doesn’t give you a non-moral, prudential, or personal requiring reason to seek what’s best for you, where many will say that non-moral reason is essential. A view of this type can derive a requiring reason to promote your good from an impartial moral duty, so you ought to do what’s good for you just as you ought to do what’s good for anyone else. But many will say you have a distinctively non-moral or personal reason to promote your good that this view omits; if you fail to do what’s best for you, you may act wrongly all things considered but you don’t, contrary to the proposed derivation, act immorally. Moreover, the derivation requires the duty the permission competes with to be impartial rather than, as in some two-stage views, just about others’ good. So not only does a purely permissive view omit a distinctive requiring reason to promote your good that some think essential, it can only affirm any requiring reason at all about your good given a specific and controversial view of what the competing moral duty is.
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      This last issue aside, in views where the competing factor is merely permissive this factor is often seen as moral, or as a permission other things equal morality itself grants (e.g., Scheffler 1992: Ch. 2; Hurka & Shubert 2012)[^hurka-2012][^scheffler-1992]. It wouldn’t make much difference, however, if it were classified as non-moral. And because the factor is permissive, some further possibilities may be attractive that would be less so given a requiring one. Thus, instead of a constant weight, your permission other things equal to promote your good may have more weight when greater rather than lesser goods are at stake for you (Mulgan 2001: 152; Kamm 2007: 15–16; Pummer 2023: 22–23)[^kamm-2007][^mulgan-2001][^pummer-2023]. Thus, if benefiting others has a small cost for you, say just a headache, you may be permitted to avoid it only if the benefit to them is less than five times as great. But if the cost to you is, say, the loss of your legs or your life, you may be permitted to decline it if the benefit to others is less than twenty or thirty times as great, the larger absolute cost to you having greater relative weight. It may even be that, for some very large costs, you can never be required to accept them no matter how much good will result; thus, you may never be required to accept being tortured to death, even to save many lives. In addition, given a permissive factor the notion of cost may be extended. Instead of counting just standard harms to you, such as pains or losses of pleasure, it may also include limitations on your freedom, especially your freedom to make choices about the larger structure of your life. If a career that would benefit others a little more would be no more costly to you in standard terms than one that would benefit them a little less, you may nonetheless be permitted to choose the second career because of a permission other things equal to yourself determine your life’s main course (Shiffrin 1991; Pummer 2023: 27–30)[^pummer-2023][^shiffrin-1991]. This would be an autonomy- or freedom-based permission rather than one just about standard costs.
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      Because they focus specifically on costs, views with a competing factor, whether requiring or permissive, avoid some of the flaws of ones that just weaken the duty to promote the good. Unlike satisficing and imperfect-duty views, they always require you to benefit others when that will involve no cost to you. At the same time, they don’t require you to sacrifice your life to save, if not all of six drowning people, then three quarters or half of them. Unlike co-operative views, they require you to spend $20 to save a drowning person even if someone who could split the cost with you declines to. But they don’t weaken the duty to aid in the way some of those views do. Thus, they don’t require you to give only what you would have to give if everyone else were giving; they consider only the effects of your act. Nor do they limit their demands to ones you or others are likely to obey, as rule-consequentialism does; they see that too as irrelevant.
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      The more specific implications of a view of this type depend on how much weight it gives its competing factor. If it permits you to prefer a unit of your own good to only as many as two for other people, it is still very demanding; if it permits you to prefer a unit for you to as many as 100 for others, it is much less so. Significantly different versions of the view are therefore possible, and some may worry that no version will be intuitively acceptable across the board. To yield intuitively plausible results in some cases, they may say, the view must give the competing factor more weight than will allow intuitive results in other cases (e.g., Frowe 2021)[^frowe-2021]. This worry may be partly met if the competing factor’s strength, or the ratio of benefit to cost needed for it to be outweighed, increases with the cost to you, as suggested above. But a further difficulty is raised by the issue of demandingness through time, or in an extended series of acts. For even a limited requirement to sacrifice your good can, if repeated enough times, demand a great deal.
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      ## 6. Demandingness Through Time
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      In Singer’s pond case it’s natural to assume that once you’ve saved the child you won’t, at least immediately, face a further demand of the same kind; the required sacrifice is a one-off. But if you save one person from starving by donating, say, $1000 to a food agency, there will be many other people facing the same fate and imposing the same demand on you. And if you give a second $1000 there will be a similar demand to give a third, and so on. Over time a sequence of individually modest demands can end up requiring a large sacrifice from you. It’s as if you encountered a long series of ponds, each requiring you to abandon what you were doing to save a child and leaving you no time for yourself (Kuper 2002; Timmerman 2015; Woollard 2015: 126; J. A. Thomson 2022)[^kuper-2002][^thomson-2022][^timmerman-2015][^woollard-2015]. Is that immense sacrifice required? Many will say not. They will say that you can’t reasonably be required to keep saving all the children in the long series of ponds, and likewise can’t be required to keep giving $1000. Even if, at any given time, you need only give aid if the benefit to the recipient is, say, ten times the cost to you, the result of your doing so repeatedly can be a very large cost to you, and the demand that you accept that cost is excessive.
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      Defenders of a competing-factor view may respond, as some consequentialists do to the original objection, that this demand is in fact legitimate and the view that it’s not is mistaken. And this response is more plausible than the consequentialists’, since the requirement it defends is less extreme. But another possibility is to make your duty to promote the good at a particular time sensitive to how much you’ve done and sacrificed in the past or will do in your life as a whole; it’s to consider morality’s demands not just occasion by occasion but also through time. This can’t, however, involve just applying the same view, with the same ratio between costs to you and benefits to others, to longer sequences of acts. If in each of a series of acts you benefit others ten times more than the act costs you, and so act as a ten-to-one ratio says you must, then in the series as a whole you benefit others ten times more than the cost to you and again do what you must. A different approach is needed.
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      One possibility is to place a limit on the total sacrifice you can be required to make in your life, so once your costs of benefiting others reach that limit you need accept no more. This view has some similarity to a satisficing one, since it in effect says you need only sacrifice a reasonable amount of your good. And it has a similar weakness, since it implies that once you’ve, say, given enough to charity, you needn’t accept even a minimal cost, say $1, to save a drowning child. A different view extends to your life as a whole the idea that the strength of your permission other things equal to promote your good increases as the good at stake for you gets larger. Then the more you’ve sacrificed or will sacrifice through time, the larger the difference between the benefits and costs of a further contribution must be for you to be required to make it now (Pummer 2023: 138–44)[^pummer-2023]; thus, if you’ve already contributed and thereby sacrificed a great deal, that difference must be greater than ten times. So long as the ratio between the benefit to others and the cost to you remains the same, you’ll eventually be permitted to cease contributing. Nor would you be required to keep saving drowning children in a sequence of hundreds of ponds; even there your permission to avoid costs would eventually outweigh the benefit to the next child.
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      Conversely, the strength of your permission concerning your good may be reduced if you’ve sacrificed or will sacrifice less in your life as a whole. Imagine that though you’ve had many opportunities to benefit others much more than ten times what it would cost you, you haven’t done so; you’ve repeatedly and wrongly favoured yourself. Now you can benefit another person nine times what it would cost you. Here your past failures to act may weaken the factor that weighs against the duty to promote the good, so you’re all things considered required to give the benefit where another might not be. Many people, reaching retirement age after a life spent working mostly for themselves, feel the need to “give back” to their community or the world and become active in charities as they weren’t before; they may be responding to a weakening of this kind. Both the strengthening and weakening should, however, have limits. No matter how much you’ve sacrificed before, you should still be required to save a life if that involves just minimal cost for you, such as dirtying your clothes. And no matter how little you’ve sacrificed before, you shouldn’t ever be required to give up your life to save two other people.
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      ## 7. Demandingness and Other Duties
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      So far, the duty a competing factor weighs against has been a duty to promote the good either impartially or just of other people, your own excluded but with those others’ goods weighed equally. There may, however, be other moral duties than these. How does a competing factor, whether requiring or permissive, relate to them?
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      Many think you don’t have an equal duty to promote all others’ good. Your duty is stronger concerning those who are close to you, such as your children, so there’s a stronger demand to benefit them. This makes for a duty of beneficence that’s differentiated and, in consequence, can also make for differentiated permissions. Since an ought or permission other things equal of fixed strength will less often outweigh a stronger duty, you have less extensive agent-favouring permissions concerning those you’re close to. If your duty to promote your child’s good is, say, five times stronger than your duty to promote a stranger’s and you may prefer a unit of your own good to as many as ten for a stranger, you may prefer a unit for you to only as many as two for your child; some self-preference that’s allowed in relation to strangers isn’t in relation to your child. Similarly, more agent-sacrifice may be permitted in relation to your child, since then the duty that supports the sacrifice is stronger; if you may prefer a unit of a stranger’s good to only as many as two for you, you may prefer a unit of your child’s to as many as three or four for you. If a competing factor weighs against a differentiated rather than impartial duty, the result is different permissions regarding different people (Hurka & Shubert 2012)[^hurka-2012].
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      More importantly, a non-consequentialist moral view can include negative duties such as not to kill, lie, or break promises, as in Ross (1930). How do these deontological duties relate to permissions regarding your good and to the factors that generate them?
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      It seems, first, that the permissions must be accompanied by the duties if unacceptable consequences aren’t to follow. If you may save your own life rather than sacrifice it to save two others and there’s no morally significant distinction between killing and letting die, or no stronger duty not to kill, you may also kill two others to save yourself, something not even impartial consequentialism allows. A view with agent-favouring permissions but no deontological duties, as in Scheffler (1982), is therefore even more open to the objection about permitting too much than consequentialism is, since it can allow killing or lying when that won’t have the best outcome (Kagan 1984; 1989: 19–24; Myers 1994; Mulgan 2001)[^kagan-1984][^mulgan-2001][^myers-1994]. To avoid this implication, agent-relative permissions must be supplemented by deontological constraints, the one departure from consequentialism mandating the other. If you’re sometimes not required to produce the best outcome, you must sometimes be forbidden to produce it.
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      But this raises the question whether the factors that generate the permissions can also weigh against and sometimes outweigh the constraints. Can an ought or permission other things equal to promote your good sometimes make infringing a negative duty permissible, so not only demands to promote the good but also ones not to kill or lie can be outweighed by costs to you? The question here is whether negative duties too can, in their different way, be excessively demanding. It’s one on which views and even intuitions are especially divided.
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      One possibility is that the competing factors weigh against these duties in the same way as against the duty to promote the good. Then the fact that not killing or not lying will have costs specifically for you will tend to make killing or lying simply permitted, just as costs to you can make not saving a life or not giving to charity permitted. If negative duties are, as deontological views typically hold, stronger than the comparable ones to promote the good, the result will less often be an all-things-considered permission. Even if avoiding the loss of your legs is enough to permit you not to save a life, it may not be enough to permit you to take a life; it will then be wrong to kill an innocent person to avoid losing your legs. Though a negative duty can be outweighed by a sufficiently strong competing duty, including one to promote the good impartially, considerations specifically about you are less likely to suffice. Imagine that intentionally killing an innocent person is permitted only if it will save at least 100 other lives and that your ought or permission to save your own life is as strong as your duty to save ten lives. Then the fact that it will save your life can never on its own suffice to justify intentional killing; it will always fall short. It can, however, make a difference at the margin. If an intentional killing must save 100 strangers’ lives to be permitted, it may need only save 90 lives if yours is among the 90; that your life is at stake can make an otherwise forbidden act permitted. Similar effects are possible for less stringent negative duties such as not to lie. Here the costs to you may, on this type of view, sometimes be enough to make infringing the duty permissible, and they can again make a difference at the margin. Good effects that wouldn’t be enough to make a lie permitted if they went only to strangers may suffice if some come to you.
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      This first view has the virtue of consistency, since it weighs its ought or permission other things equal equally against all duties, negative as well as positive. But many, especially those with strong deontological intuitions, will reject it; they’ll say that effects specifically on you are irrelevant to duties such as not to kill. Though these duties can sometimes be outweighed by impartial beneficence, that killing or lying will benefit you in particular can never change it from wrong to right (e.g., J. J. Thomson 1991; Tadros 2011: 202–08; Frowe 2021)[^frowe-2021][^tadros-2011][^thomson-1991]. This view fits easily in a theory like Ross’s, where there’s no non-deontological factor that can weigh against the duty to promote the good. It can also fit in one that limits that duty in some other way (e.g., Frowe 2021)[^frowe-2021]. But if what weighs against the duty to promote the good is a requiring or permissive factor of the kind discussed above, a deontology that says this factor can’t weigh against a negative duty faces a challenge about its internal consistency (Kagan 1984: 251)[^kagan-1984]. What explains why this factor has force against some duties but not others? Shouldn’t the costs to you weigh either against all duties, both negative and positive, or against none?
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      A third view weighs this factor against some negative duties but not others (e.g., Quong 2009; Kamm 2016: 83–91)[^kamm-2016][^quong-2009]. One case where this weighing has been accepted involves self-defence against an innocent threat, such as a fat man who’s been thrown off a cliff and will crush you if he lands on you but whom you may, many think, permissibly vaporize with a ray gun. There would be no need for weighing here if the threat had lost his right not to be killed, so you had no duty even other things equal not to kill him (J. J. Thomson 1991)[^thomson-1991]. But many find this implausible; the fat man isn’t at fault nor is his being a threat the result of any choice of his. And if the duty not to kill him is still present, the explanation why you may use the ray gun must be that your permission other things equal to promote your good, or to care especially about your life, outweighs the duty (e.g., Davis 1984; Quong 2009, 2016)[^davis-1984][^quong-2009]. And this explanation is strengthened if the threat is likewise permitted to kill you to stop you from killing him, and if a third party may not intervene on either’s side; both facts underscore the permission’s agent-relativity. The weighing has also been accepted where a runaway trolley is bearing down on you and you’re permitted to save yourself by diverting it to a track where it will kill a bystander but a third party may not divert it, or where you can throw a bomb that will destroy the trolley but will also kill a bystander; here too some think you may prefer your own to the bystander’s good even though you actively kill him. But many who endorse agent-relative permissions in some or all of these cases deny them in ones where the killing is of someone who isn’t a threat and where his death is intended, in particular as a means, rather than merely foreseen as in the last two cases. Thus, they deny that you may save yourself from a trolley by throwing an innocent person in front of it (Quong 2009; Kamm 2016)[^kamm-2016][^quong-2009]. When the duty is not to kill or harm as a means, considerations of your good have no weight against it; only agent-neutral ones do. (In the innocent-threat case, however, you do intend the fat man’s death as a means.) But this view faces even more starkly the challenge about consistency: why should a factor concerning your good weigh against some negative duties but not others? What explains the difference?
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      Questions about the demandingness of negative or deontological duties have received less attention than ones about the duty to promote the good, perhaps in part because they’re less practically pressing. Precisely because negative duties are stronger, cases where they might plausibly be outweighed are far less common. But the questions do arise and pose special difficulties.
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      ## 8. Conclusion
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      A moral view is demanding if it requires you, as part of acting rightly, to make large sacrifices or forgo large benefits for yourself. Standard consequentialist views, which say you must always do what will result in the most good impartially considered, are clearly demanding in this sense, but non-consequentialist views too can be demanding if they contain a strong duty to promote the good, and even deontological duties can require you to forgo large benefits. To critics some such views are too demanding, or require more sacrifice than is reasonable. This prompts proposals to reduce the views’ demands, either by weakening the duty that generates them or by supplementing it with a competing factor, either requiring or permissive, that can sometimes outweigh the duty and limit its demands. These different proposals have different implications and are differentially successful—perhaps none entirely so—at capturing the various intuitions one can have about what it is and is not reasonable for morality to demand.
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: ack
+    source: |-
+      My thanks to Theron Pummer and Holly Smith for valuable comments on earlier versions and to Doug Portmore and Brendan de Kenessey for discussion.
+    step1: TBD
+    step2: TBD

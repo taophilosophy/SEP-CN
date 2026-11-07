@@ -2,8 +2,16 @@
   "slug": "moral-demands-permissions",
   "kind": "retranslate",
   "zh_doc": "m/moral-demands-permissions.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T14:49:50Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T05:38:09Z",
   "version_pin": {
