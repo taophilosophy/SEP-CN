@@ -75,50 +75,66 @@ segments:
     kind: body
     source: |-
       It is puzzling that a figure as popular and widely-read as Norris has received such little recognition from intellectual historians of the early modern period. Perhaps Norris has not been paid much attention because his philosophical writings appear to contain an eclectic mixture of many divergent, incompatible sources rather than a coherent synthesis of those sources. Charles McCracken notes that Norris has been dubbed in a variety of ways, but that the “English Malebranche” seems most appropriate (179). Norris was heavily influenced by Malebranche, and goes so far as advising his own children that Malebranche’s *Search after Truth* should “always be read, studied, dwelt and fed upon till it be digested, made your own, and converted as it were into the very Substance of your Souls” (*Spiritual Counsel* 501). Norris was also a follower of Descartes, whom Norris viewed as constructing “the only intelligible Frame of Natural Science that has yet appear’d in the World, and the only intire System that deserves the name of *Philosophy*” (500). Norris also draws liberally from his Scholastic background, and frequently uses theoretical tools borrowed from the canonical thinkers taught at the universities, such as Aquinas, Augustine and Suarez. His heavy reliance on diverse intellectual sources, especially Descartes and Malebranche, is apparent in his writings. Nonetheless, his arguments are tremendously valuable for understanding better the debates of his time. His rehearsal of Descartes’ real distinction proof and his evaluation of Locke’s thinking matter hypothesis exposes some critical Lockean assumptions, bringing into sharp relief the disagreements between the rationalists and empiricists of that era. He also influenced the views of other minor figures, most notably, Mary Astell and Arthur Collier. Finally, Norris’ adaptation and expansion of Malebranche’s twin doctrines of Vision in God and occasionalism are also central to understanding the continuation of the Cartesian project in late 17ᵗʰ and early 18ᵗʰ century England.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      令人不解的是：像诺里斯这样受欢迎、被广泛阅读的人物，竟没有受到早期近代思想史家的多少承认。也许诺里斯未受多少注意，是因为他的哲学著作看来含有许多彼此分歧、互不相容的来源之折衷混合物，而不是对那些来源的融贯综合。Charles McCracken 指出，诺里斯曾被冠以各种称号，但“英格兰的马勒布朗士”似乎最为恰当（179）。诺里斯深受马勒布朗士影响，甚至这样告诫自己的子女：马勒布朗士的《真理的寻求》（Search after Truth）“应当永远被阅读、研习、涵泳、咀嚼，直到它被消化、成为你自己的，并几乎转化为你灵魂的实体本身”（Spiritual Counsel 501）。诺里斯也是笛卡尔的追随者，他认为笛卡尔构造了“世界上迄今出现过的唯一可理解的自然科学框架，以及唯一配得上哲学之名的完整体系”（500）。诺里斯还从其经院学背景中自由取用，经常使用借自大学所授正典思想家——如阿奎那、奥古斯丁与苏亚雷斯——的理论工具。他对多种思想来源（尤其笛卡尔与马勒布朗士）的严重依赖，在其著作中显而易见。尽管如此，他的论证对于更好地理解他那个时代的争论极有价值。他对笛卡尔“实在区别”证明的重述，以及他对洛克“思想物质”假说的评估，揭示出洛克的一些关键预设，使那个时代理性论者与经验论者之间的分歧格外鲜明。他还影响了其他次要人物的观点，其中最著名的是玛丽·阿斯特尔与阿瑟·科利尔。最后，诺里斯对马勒布朗士“在上帝中看见”与“偶因论”这对学说的改铸与扩展，对于理解十七世纪晚期与十八世纪早期英格兰笛卡尔事业的延续，同样至关重要。
+    step2: |-
+      可讶者：诺里斯之流行为世所诵，乃不为早期近代思想史家所重。或者以其哲学之著杂取诸源，多相歧而不相入，非能融贯为一，故少所注意与。Charles McCracken 谓诺里斯所得名号不一，而“英格兰之马勒布朗士”为最当（179）。诺里斯受马勒布朗士之移甚深，至诫其子女曰：马勒布朗士《真理的寻求》“当常读、常研、常涵泳而咀嚼之，至其消化而为我所有，几化为尔魂之体而后已”（Spiritual Counsel 501）。诺里斯亦笛卡尔之徒，以为笛卡尔所构者，“乃天下迄今所现唯一可解之自然科学之架，亦唯一足当哲学之名的完整体系”（500）。又其经院之旧学，取用不吝，常用大学所授正典诸家——阿奎那、奥古斯丁、苏亚雷斯——之器。其倚诸源之重，尤笛卡尔与马勒布朗士，于书可见。虽然，其论证于会解当时之争，至有价值。其复述笛卡尔实在区别之证，与其评洛克“思想即物质”之假说，发洛克要旨之所在，使彼时理性与经验二家之异粲然。又移易他家小名家之见，最著者为玛丽·阿斯特尔与阿瑟·科利尔。终之，其改铸而推广马勒布朗士“于上帝中见物”与“偶因论”二说，于知十七世纪晚叶、十八世纪初叶英格兰笛卡尔之业之不绝，亦为枢要。
   - id: 10
     kind: body
     source: |-
       ## 2. God
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 上帝
+    step2: |-
+      ## 2 上帝
   - id: 11
     kind: body
     source: |-
       ### 2.1 The Intelligible World
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 可理解世界
+    step2: |-
+      ### 2.1 可理解世界
   - id: 12
     kind: body
     source: |-
       The intelligible world is the realm of Platonic objects that constitutes the source and grounds of human knowledge. Malebranche’s account of the intelligible world is incomplete according to Norris:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可理解世界是柏拉图式对象的领域，它构成人类知识的来源与根据。按照诺里斯的看法，马勒布朗士关于可理解世界的说明是不完整的：
+    step2: |-
+      可理解之世界者，柏拉图式对象之域也，人类知识之源与据在焉。诺里斯以为马勒布朗士之说不备：
   - id: 13
     kind: body
     source: |-
       > *Malebranch* has ventured the farthest of any that I know upon the Discovery. He is indeed the great *Galileo* of the Intellectual World. He has given us the *Point of View*, and what ever farther Detections are made, it must be through his *Telescope…*But even this great *Apelles* has drawn this Celestial Beauty but half way, and I am afraid the excellent Piece will Suffer, whatever other hand has the finishing of it. (*Theory I* 4)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 就我所知，*马勒布朗士*在这一发现上走得最远。他确实是智性世界的大*伽利略*。他给了我们*视点*，此后纵有更远的探测，也必经由他的*望远镜*……但就连这位伟大的*阿佩莱斯*，也只把这天上之美画到一半；我恐怕这幅杰作会受损，无论由谁的手来完工。（*理论一* 4）
+    step2: |-
+      > *马勒布朗士*之于此发现，就余所知，走得最远。彼诚智性世界之大*伽利略*也。彼与我侪以*视点*，后此凡有更远之探测，必由其*望远镜*……然即此大*阿佩莱斯*，亦只画此天上之美及其半耳；余恐此佳制终有所损，无论谁何为之卒业。（*理论一* 4）
   - id: 14
     kind: body
     source: |-
       Norris considers his *Theories I* and *II* to be the completion of Malebranche’s project. In *Theory I*, Norris discusses the nature of God, and in *Theory II* he discusses how creation is related to God. The most substantial expansion upon Malebranche’s thought occurs in the first part of this treatise, where Norris spends a great deal of time arguing that God is truth. The intelligible world is the mind of God, a “kind of *Terra Incognita*, a more *Intellectual America*” (3).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      诺里斯认为他的《理论一》与《理论二》就是对马勒布朗士事业的完成。在《理论一》中，诺里斯讨论上帝的本性；在《理论二》中，他讨论受造界与上帝的关系。对马勒布朗士思想最实质性的扩展，出现在这部论著的第一部分：诺里斯在那里花了大量篇幅论证上帝就是真理。可理解世界就是上帝之心，是一种“未知之地（*Terra Incognita*），一个更具智性的美洲”（3）。
+    step2: |-
+      诺里斯自以《理论一》《理论二》为马勒布朗士之业的完成。《理论一》论上帝之性，《理论二》论受造界之于上帝。其于马勒布朗士之说所扩最实者，在此论之前部：诺里斯耗大量篇幅以证上帝即真理。可理解之世界，上帝之心也，乃一“*未知之地*（Terra Incognita），一更具智性之*美洲*”（3）。
   - id: 15
     kind: body
     source: |-
       Norris first argues for the existence of an ideal counterpart to nature. Since the world is created, “it must of necessity receive its Being from some other Being that was when it self was not” (18). He considers the nature of a being that is capable of bringing existence from absolute privation, and concludes such a being must be infinitely powerful. Relying upon the premise that all action is guided by thought, and that God could not have thought about the world because it did not exist at the time, Norris concludes the ideas that guided God’s thought in the creation of the world and its inhabitants must be “their essential Reasons and Natures before they had any in this, nay even from all Eternity…and that there is an *Intelligible* as well as a *Sensible* World, truly representative and exhibitive of this,” or “ a fair intelligible Mirrour” (26). The intelligible world is the pattern or model of nature, “since it could no more be its own *Exemplary* or *Formal*, than *Efficient* Cause” (30).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      诺里斯首先论证：自然界有一个观念性的对应物存在。既然世界是被造的，那么“它必然从另一个在它尚未存在时已存在的存在者那里获得其存在”（18）。他考察了一个能够从绝对匮乏中引出存在的存在者具有何种本性，并断定这样的存在者必定具有无限的能力。依靠这一前提——一切行动都由思想引导，而上帝不可能思想过世界，因为当时世界尚不存在——诺里斯断定：在创造世界及其居民时引导上帝之思想的那些观念，必定是“它们在进入这个世界（甚至自永恒以来）之前就具有的本质性理式与本性……并且存在着一个*可理解*世界以及一个*可感觉*世界，后者真实地表象且呈现前者”，或者说，前者是“一面美好的可理解之镜”（26）。可理解世界是自然的范式或模型，“因为它不能是自己的*范型*因或*形式*因，正如不能是自己的*动力*因一样”（30）。
+    step2: |-
+      诺里斯先证：自然有一观念之对者在。世界既为受造，“则必自另一存在者得其有，而彼存在者当世界未有之时已有”（18）。彼考能自绝对匮乏引出存在者之性，而断其为能无限者。据“凡行皆由思导”之前提，且上帝当其时不能思世界，以世界尚未有故，诺里斯断曰：创造世界与其居民之时，导上帝之思之观念，必为“其未入此世（乃至自永恒以来）之本然理式与性……而既有*可理解*之世界，又有*可感觉*之世界，后者真实表之、呈之”，或谓前者为“一面明净可解之镜”（26）。可理解之世界，自然之范式或模也，“以其不能自为*范型*因或*形式*因，犹不能自为*动力*因”（30）。
   - id: 16
     kind: body
     source: |-
       His second argument for the intelligible world is from the existence of natural kinds. Norris asks “Why is not the Body of one Man as big as the Globe of the Sun, while that of another is too small to be seen without a *Microscope*?” and answers “’tis not according to the *Idea* of that Creature that he should be either so big, or so little” (39). This stance marks a noteworthy departure from Malebranche, who claims God does not have particular ideas of bodies in *Elucidation 10* of the *Search*. Norris’ next argument begins with our understanding of perfect, geometrical objects. Norris says when he views “a globular Body I have naturally excited in me an *Idea* of a perfect Globe or Sphere” (51). This implies the existence of an ideal sphere because “the effect cannot have more perfection than its Cause…because the Cause cannot give that to the effect which it has not it self” (52). Norris concludes that human thought of perfect circles proves an ideal circle exists as the cause of thought because there are none in nature.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      他关于可理解世界的第二个论证，出自自然种类的存在。诺里斯问：“为什么一个人的身体不像太阳之球那样大，而另一个人的身体却小到不用*显微镜*就看不见？”他答道：“按该造物的*观念*，它不该那么大，也不该那么小”（39）。这一立场标志着与马勒布朗士的一个值得注意的偏离：马勒布朗士在《真理的寻求》的《阐义十》（Elucidation 10）中主张，上帝并没有关于物体的特殊观念。诺里斯的下一个论证从我们对完美的几何对象的理解出发。诺里斯说，当他观看“一个球形物体时，在我心中自然地激起了一个完美球体或圆球的*观念*”（51）。这蕴含着理想圆球的存在，因为“结果不能比其原因具有更多的完满……因为原因不能给结果它自身所没有的东西”（52）。诺里斯的结论是：人对完美圆形的思想证明了一个理想圆形的存在，作为思想的原因——因为自然界中并没有这样的圆形。
+    step2: |-
+      其论可理解世界之第二证，出于自然种类之存在。诺里斯问曰：“何以其一人之身不如日轮之大，而他人之身乃小至非*显微镜*不可见？”答曰：“按其物之*观念*，不当如此大，亦不当如此小”（39）。此一立场，于马勒布朗士为可注意之离异：马勒布朗士于《真理的寻求·阐义十》中谓上帝无关于物体之特殊观念。其次一证，起于吾人于完美几何对象之解。诺里斯曰：当观“一球形之物，吾心自然激起一完美球体或圆球之*观念*”（51）。此即含理想圆球之存在，盖“果不得比其因更完……因不能以其所未有者与果”（52）。诺里斯遂断：人于完美圆形之思，证有理想之圆形为思之因，以自然界无此圆形故。
   - id: 17
     kind: body
     source: |-
