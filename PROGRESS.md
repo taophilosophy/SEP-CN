@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-07 22:42（UTC）
+生成时间：2026-11-07 23:03（UTC）
 
 ## 总览
 
@@ -14,7 +14,7 @@
 |已建英文基线|1879|
 |已建任务|1027|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|179|
+|已完成（done）|181|
 |在途（drafted 起、done 前）|245|
 |阻塞|0|
 
@@ -22,20 +22,19 @@
 
 |状态|数量|
 |---|---|
-|pending|603|
-|cleared|162|
+|pending|601|
+|cleared|164|
 |drafted|4|
 |s3_checked|76|
-|r1_reviewed|2|
-|r2_reviewed|1|
-|done|179|
+|r1_reviewed|1|
+|done|181|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
 |A|160|160|160|51|
-|B|62|62|62|7|
+|B|62|62|62|8|
 |C|172|172|172|3|
 |D|92|92|92|11|
 |E|99|99|99|17|
@@ -48,7 +47,7 @@
 |L|144|144|19|18|
 |M|139|139|14|6|
 |N|50|50|3|1|
-|O|21|21|8|6|
+|O|21|21|8|7|
 |P|165|165|4|0|
 |Q|34|34|0|0|
 |R|85|85|11|6|
@@ -84,7 +83,6 @@
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
 |aristotle-causality|retranslate|cleared|task_ops 2026-11-07|
-|basing-epistemic|retranslate|r1_reviewed|REV-main-20261108 2026-11-07|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bauer|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |bayes-theorem|retranslate|s3_checked|? 2026-11-04|
@@ -160,6 +158,7 @@
 |conceptual-art|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |condemnation|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |confucius|retranslate|s3_checked|主代理 2026-11-01|
+|conscience|retranslate|cleared|task_ops 2026-11-07|
 |contractarianism|retranslate|s3_checked|CD-main-20261106 2026-11-06|
 |copernicus|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |cordemoy|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -235,6 +234,7 @@
 |imaginative-resistance|retranslate|cleared|task_ops 2026-11-01|
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
+|imprecise-probabilities|retranslate|cleared|task_ops 2026-11-07|
 |information-biological|retranslate|cleared|task_ops 2026-11-01|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
 |intuitionism-ethics|retranslate|cleared|task_ops 2026-11-01|
@@ -299,7 +299,6 @@
 |kumaarila|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
 |moral-demands-permissions|retranslate|drafted|LMN-main-20261108c 2026-11-07|
-|ockham|retranslate|r2_reviewed|OR-main-20261108 2026-11-07|
 |rationalism-early-modern|retranslate|r1_reviewed|OR-main-20261107 2026-11-07|
 |scholem|retranslate|drafted|SZ-main-20261108 2026-11-07|
 |telesio|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
