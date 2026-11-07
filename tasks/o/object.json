@@ -2,7 +2,7 @@
   "slug": "object",
   "kind": "retranslate",
   "zh_doc": "o/object.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "OR-main-20261106",
       "at": "2026-11-07T00:23:48Z",
       "evidence": "三校：check_style --strict 0 issue（3 处已修：**定义** 前后空格、c 圆¹/cc 爱² 分词空格）；check_academic --strict 硬错误 0；check_terms 硬错误 0（本条登记术语 42 行、无冲突）；check_math 2 公式（$\\exists xFx$、$\\exists x\\exists yGxy$）齐备且对称；check_prose 0；check_all 7/7 全绿；markdownlint 该文件 0 issue。结构：标题 31 个与源（1 H1+导语+3 节/11 小节+References+学术工具+其他网络资源+相关词条）逐级对应；脚注 290 定义/39 引用，与源 290 定义等量，未定义项仅工具样板 [^key]，孤儿定义为源参考文献式脚注（与源同）。体量 15,246 汉字 / 102,008 字节。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T00:29:55Z",
+      "evidence": "复审 r1：①词条名对齐单一事实源——按 SUMMARY 主条目名把正文引用「部分论」改「分体论」（10 处）、「普通对象」改「日常对象」（12 处，含 2.2.1 节标题）、「知觉内容」改「感知的内容」（2 处），并同步术语登记（ordinary object→日常对象）；②相关词条自动映射校正 2 处（categories 误映射到『亚里士多德的范畴论』→『范畴』；consciousness 误映射到『动物意识』→『意识』），已在 postfix 固化；③节标题体例修正（『## 3. 本性』→『## 3 本性』）；④人名登记补 2 行（Strawson 斯特劳森、Tugendhat 图根德哈特）；复核后 prose 0、style 0、terms 硬错误 0、lq 守恒 204 段通过。"
     }
   ],
   "blockers": [],
