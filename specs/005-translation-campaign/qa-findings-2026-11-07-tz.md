@@ -23,6 +23,7 @@
 | t/truth-coherence | 47+1 | 现制 References（21 条定义） | 术语登记 21 行；源文自身不一致两处照源直译（Candlish 2006 vs candlish-2021；Knight 2025 vs knight-2024） |
 | w/william-sherwood | 56+1 | 现制 References（29 条定义）+ 1 图（指代树状图，本地化 `../yuanwen/assets/`）+ 2 个拉丁诗句引块 + 表格（格/式） | 术语登记 25 行；相关词条 2 项手工归位（obligationes → 中世纪的义务理论；Peter of Spain → 西班牙的彼得（彼得·希斯帕努斯）的逻辑）；兰伯特正形对齐 SUMMARY（欧塞尔的兰伯特） |
 | w/wisdom | 54+2+1 | 现制 References（20 条定义）+ 5 个编号定义块 + 1 条真脚注（note-1） | 术语登记 18 行；相关词条 1 项手工归位（coherentist justification → 知识证成的融贯论）；源尾笔记脚手架（#### / ## Notes to Wisdom）节数差 1 属转换器约定 |
+| x/xenophanes | 50+1 | 现制 References（29 条定义）+ 11 处残篇/转述引块 | 术语登记 24 行；prose 16→0 全实修；Xenophanes 主形按 SUMMARY 定为「克塞诺芬尼（亦作色诺芬尼）」并同步词汇表；相关词条 3 项（Anaximander/Anaximenes/Thales）无 SUMMARY 条目，改中文名待挂链 |
 
 两条件均为：`lq.py check` HARD=0；节标题/标记键/定义键集/段落四维对账齐；`check_style --strict` 0 issue；`check_academic --strict` 0 硬错误；`check_math` 0；`check_all` 七项全绿。
 
@@ -38,14 +39,14 @@
 
 | 名 | 登记册正形 | SUMMARY 现形 |
 | --- | --- | --- |
-| Xenophanes | 色诺芬尼 | 克塞诺芬尼 |
+| ~~Xenophanes~~ | 克塞诺芬尼（亦作色诺芬尼）—**2026-11-07 已对齐 SUMMARY** | 克塞诺芬尼 |
 | Zeno of Elea | 埃利亚的芝诺 | 爱利亚的芝诺 |
 | Sextus Empiricus | 塞克斯都·恩披里柯 | 塞克斯都·恩披里克 |
 | Anaxagoras | 阿那克萨戈拉 | 阿那克萨哥拉 |
 
 ## 5. 下一步（按体量序）
 
-truth-coherence 之后：william-sherwood → wisdom → **已完成**；续排 xenophanes(6025) → william-jevons(6182) → telesio(6298) → theology-aristotle(6571) → xenocrates(6652) → vives(6811) → vico(6846) …；公式密集件单独排程（先跑 `check_math`）；`xunzi/zhuangzi/zhu-xi/wang-yangming` 四条中国哲学件按 ADR-0011 走中国文献还原。
+truth-coherence 之后：william-sherwood → wisdom → xenophanes → **已完成**；续排 william-jevons(6182) → telesio(6298) → theology-aristotle(6571) → xenocrates(6652) → vives(6811) → vico(6846) …；公式密集件单独排程（先跑 `check_math`）；`xunzi/zhuangzi/zhu-xi/wang-yangming` 四条中国哲学件按 ADR-0011 走中国文献还原。
 **复审波**：s3 完成后冷置回读再走 r1–r3（单会话作业须在 evidence 记明冷置），不复查旧错。
 
 ## 6. 实跑中新增的可复用经验
