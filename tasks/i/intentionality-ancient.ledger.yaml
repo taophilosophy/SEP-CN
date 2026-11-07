@@ -73,38 +73,50 @@ segments:
     kind: body
     source: |-
       A history of terminology, though, even when done correctly, tracks the wrong items. The same technical terms are often used to express very different concepts: just consider the philosophical usage of terms like ‘substance’, ‘matter’, or even ‘concept’ itself. Conversely, the same concept is often expressed by different terms, some of which may not be technical at all, a situation that is especially likely at the beginning of inquiry into a subject. So if terminology is to be used as evidence, much more must be brought into consideration – simple word searches will not do.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，术语史即使做得正确，追踪的也是错误的东西。同一技术术语常被用来表达极不相同的概念：只要想想“实体”“质料”甚至“概念”本身这类词的哲学用法就够了。反过来，同一概念又常由不同术语表达，其中某些可能根本不是技术性的；这种情形在对一个主题开始探究之初尤其常见。因此，如果要拿术语作证据，就必须把多得多的东西纳入考虑——简单的词语检索是不行的。
+    step2: |-
+      虽然，术语史纵为之而当，所迹者非其物也。同一术语，恒以表迥异之概念：“实体”“质料”，乃至“概念”之本身，其哲学之用可思也。反之，同一概念恒以异术语表之，其或竟非术语；此于学问发端之顷尤然。故欲以术语为证，则所当虑者多矣——徒检字词，不可也。
   - id: 10
     kind: body
     source: |-
       The terminology, moreover, holds little interest in its own right. In order for a history to be philosophically illuminating, it should focus on the concept of intentionality itself or, better still, the divergent conceptions of intentionality that philosophers have had and their resulting disagreements. These differences afford us the greatest perspective on our own presuppositions and preoccupations, as well as revealing paths and solutions we might not otherwise have considered. There is thus no need to settle on a single conception as *the* concept of intentionality at the outset, which would in any case only produce a Whiggish history, of development towards and deviations from some favored, but undoubtedly idiosyncratic view. On the contrary, we should take the opposite approach: substantive disagreements between philosophers are potentially the most instructive philosophically.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      再者，术语本身并无多少独立的趣味。要使一部历史有哲学上的启发，就应当聚焦于意向性概念本身，或更好地说，聚焦于哲学家们对意向性的种种不同构想及由此而来的分歧。这些分歧为我们提供关于自身预设与执念的最大视角，并揭示我们否则可能不会考虑的路径与方案。因此无须在一开始就确定某个唯一的构想为*那个*意向性概念——那样无论如何只会产生一部辉格式的历史：朝着某个受偏爱（无疑是特异的）观点的发展与偏离史。恰恰相反，我们应当采取相反的进路：哲学家之间的实质性分歧，在哲学上潜在地是最有教益的。
+    step2: |-
+      且术语本身殊乏可味。欲史之为哲学有启，当注于意向性之概念本身，或尤进者，注于哲人意向性之种种异构及其所生之歧。此诸歧，最足以照吾侪自设之前提与所执，且示吾人或未尝虑之道与解。故初不必定一构为*彼*意向性之概念——无论如何，是惟生辉格之史：趋于一见（无疑属一家之见）之发展与其偏离而已。反是，吾侪当取其反道：哲人间实质之歧，于哲学殆最有教。
   - id: 11
     kind: body
     source: |-
       A philosophical history would therefore do better to focus on the history of the *problem* of intentionality: the difficulty, that is, of providing a philosophically adequate account of the nature of intentionality in light of its various peculiarities, whatever terms may have been used to express it. Such an approach not only allows room for different theories of intentionality, but also divergent conceptions, as well as attempts to dissolve the problem, either by dismissing the phenomenon entirely or by denying that there is any genuine difficulty involved. A history of intentionality that did not include a Parmenides or a Quine would not be very informative, especially if we are trying to understand the difficulty and what is at stake.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，一部哲学史最好聚焦于意向性*问题*的历史：也就是，鉴于意向性的种种特异之处，为其本性给出一个哲学上充分的说明，这一困难的历史——无论用什么词来表达它。这样的进路不仅为意向性的不同理论留出空间，也为不同的构想、以及消解问题的尝试留出空间：或是干脆否认这一现象，或是否认其中有任何真正的困难。一部不包含巴门尼德或奎因的意向性史，不会有多大教益，尤其在我们试图理解这一困难与利害所在时。
+    step2: |-
+      故哲学之史，宜注于意向性*问题*之史：谓鉴于意向性种种特异，为其性立一哲学上足称之说，此难之史也——所用以表之者何词，勿论。此进路非独容意向性异说，亦容异构，与夫消解其题之图：或竟斥其现象，或谓其中并无真难。意向性之史而无巴门尼德与奎因，则寡所告矣，况吾侪方欲解此难与其所系。
   - id: 12
     kind: body
     source: |-
       The problem of intentionality is the problem of explaining what it is in general for mental states to have content, as well as the particular conditions responsible for specific variations in content. The difficulty of providing such an account lies in explaining why mental states often seem to violate familiar entailment patterns (whether or not we take such violations to be criterial of intentionality). To begin with, the content of many mental states does not correspond with what is in the world: what we imagine may not exist, our beliefs may be false, our desires may go unfulfilled. To put it more paradoxically, a mental state may be about something, even if there isn’t any such thing in the world. This is one of a number of peculiarities that prove difficult to account for, and which are sometimes thought to pose a particular stumbling block for naturalistic approaches to the mind. As Wittgenstein once quipped, you can’t hang a man unless he is there, but you can look for him even if he’s not, or even if he does not exist at all (*Philosophical Investigations* 1.133, §462). There are other peculiarities as well, concerning our ability to focus selectively on certain aspects of objects, without having others in mind. For example, while I cannot greet a person without greeting a person of some particular height, I can think of a person without thinking of a person of any particular height. I can also entertain different attitudes to the same object at the same time, depending on the aspect under which I consider it. So I might believe that the Morning Star is a star but that Venus is not one, despite the fact that Venus *is* the Morning Star; yet for just the same reason, we cannot land a space probe on the one without thereby landing it on the other. These and other difficulties form a loose family of phenomena that give rise to the problem of intentionality. Different philosophers may regard these phenomena differently, perhaps focusing on some but not others, or even excluding some as not belonging together with the rest. A philosophical history should be generous about such differences: what is important philosophically is that a philosopher recognizes that some of them pose a difficulty, at least *prima facie*, in accounting for mental states. (For further discussion of the methodology, see Caston 2001)[^caston-2001]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      意向性问题，是解释心理状态具有内容一般来说意味着什么的问题，也是解释造成内容特定变化的特殊条件的问题。给出这种说明的困难，在于解释心理状态为何常常违反人所熟知的蕴含模式（无论我们是否把这类违反当作意向性的判准）。首先，许多心理状态的内容与世界中的情形并不相符：我们所想象的可以不存在，我们的信念可以为假，我们的欲望可以落空。说得更悖论些：一个心理状态可以关涉某物，即使世上根本没有这样的东西。这是诸多难以说明的特异之处之一，有时被认为对心灵的自然主义进路构成特别的绊脚石。正如维特根斯坦曾经挖苦的：人不在场就无法被绞死；但你仍可以寻找他，即使他不在，甚至他根本不存在（《哲学研究》1.133，§462）。还有其他特异之处，涉及我们能够选择性关注对象的某些方面而不想到其他方面。例如，我无法问候一个人而不问候某个特定身高的人，但我可以在不想任何特定身高的情况下想一个人。我还可以同时对同一对象持不同态度，依我考虑它的那个方面而定。所以我可以相信晨星是恒星而金星不是，尽管金星*就是*晨星；但恰恰出于同样的理由，我们无法把空间探测器降落在其一而不由此降落在其二。这些及其他困难构成一个松散的现象家族，引起意向性问题。不同哲学家对这些现象的看法可以不同：也许只关注其中一些，甚至把某些排除在外，认为它们与其余不同属。哲学史对这类差异应当宽容：在哲学上重要的是，一位哲学家认识到其中一些现象在说明心理状态时带来困难，至少*初看起来*如此（方法论的进一步讨论，见 Caston 2001）[^caston-2001]。
+    step2: |-
+      意向性之题，在释凡心状之有内容者其通义为何，与夫致内容殊变之特殊条件也。此说之难，在释心状何以常违人所熟稔之蕴含之式（无论吾侪以此违为准与否）。首者，心状之内容与世之所有不必符：所想者可无有，所信者可为妄，所欲者可不遂。悖言之：心状可关于某物，而世间无其物。此诸难解特异之一也，或以为于心灵之自然主义进路特为梗焉。维特根斯坦尝讥曰：人不在，不得缢之；然人虽不在，乃至其人竟无有，犹可求之（《哲学研究》1.133，§462）。又有他特异，关吾侪择注于物之某面而不及其余之能。如吾不得问一人而不问某身高之人，然可想一人而不想任何特定身高。亦可同时于同一物持异态，依吾所观之面。故吾可信晨星为恒星而金星非，虽金星*即*晨星；而亦正以此故，探测器落于其一，即落于其二。此诸难合为松散之现象族，遂起意向性之题。哲人之视此现象可异：或专注意，或并弃其一二，谓与其余非类。哲学之史于此宜宽：其要者，哲人识其中若干于说明心状之为难，至少*初视*然（方法论之详，见 Caston 2001）[^caston-2001]。
   - id: 13
     kind: body
     source: |-
       ## 3. Before Plato
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 柏拉图之前
+    step2: |-
+      ## 3 柏拉图之前
   - id: 14
     kind: body
     source: |-
       Parmenides of Elea (early 5th century bce) is arguably the first Greek philosopher to have focused on the problematic nature of intentionality. His poem (transmitted under the title *On Nature*) offers a startling revelation of the allegedly true nature of reality and appearance, in which the narrator is instructed by a goddess that “you cannot grasp or express what is not – it cannot be accomplished” (B2), for “thinking cannot be found apart from what is, upon which its expression depends” (B8.35–36) and “what can be said and thought must be what is” (B6). The Greek for the phrases ‘what is’ and ‘what is not’ are notoriously ambiguous. But if, as many interpreters maintain (see Owen 1960; Furth 1968)[^furth-1968][^owen-1960], it should be construed here either in terms of (*a*) what does or does not *exist*, or (*b*) what *is* or *is not the case*, or perhaps (*c*) some fusion of the two, then the goddess is denying the possibility of thinking or speaking either about nonexistent objects, or about nonfactual states-of-affairs, or both, on the basis of the following intuitions. If one is to think or express anything at all, there must *be* something that one is thinking or expressing (thus quantifying in). But what is not, by hypothesis, *is not there* to be thought of (cf. B3), since either it does not exist or is not in fact the case; and if there isn’t anything there to be thought of, then we must not be thinking of anything either. Parallel problems are supposed to arise in the case of speech, for statements concerning a nonexistent or for false statements.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      埃利亚的巴门尼德（公元前五世纪早期）可以说是第一位聚焦于意向性之难题本性的希腊哲学家。他的诗篇（以《论自然》为题传世）对所谓实在与现象的真实本性给出了一个惊人的启示：女神训示叙述者，“你不能把握或言说非存在——那是不可能完成的”（B2），因为“离开存在就找不到思想，思想的表达有赖于存在”（B8.35–36），而“能被言说与被思想的必定是存在”（B6）。“存在”与“非存在”这两句希腊语出了名地含混。但如果如许多解释者所主张的（见 Owen 1960; Furth 1968）[^furth-1968][^owen-1960]，应在此按（a）存在或不存在的东西，或（b）某事是否是这种情况，或或许（c）二者的某种融合来解读，那么女神就是在否定思考或谈论如下对象的可能：非存在的对象，或非事实的事态，或两者兼之——其依据是如下直觉。若要思考或表达任何东西，就必须*有*某物是人所思考或表达的（由此量词得以进入）。但按假定，非存在*不在那里*可供思考（参 B3），因为它或者不存在，或者实际上并非如此；而既然没有东西在那里可供思考，我们也就必然没有在思考任何东西。在言语的情形中，据认为也产生平行的问题：关于非存在者的陈述，或假的陈述。
+    step2: |-
+      埃利亚巴门尼德（公元前五世纪前叶）殆首注于意向性之难者。其诗（以《论自然》传）惊揭实在与现象之所谓真性：女神诲其述者曰：“非存在者，汝不能执、不能言——其事不可为”（B2）；“离乎存在，思想不可得，思想之所表赖乎存在”（B8.35–36）；“可言可思者，必为存在”（B6）。希腊语“存在”“非存在”二语，其歧义夙著。然使如诸解者所主（见 Owen 1960; Furth 1968）[^furth-1968][^owen-1960]，此处当解为（a）存或不存者，或（b）事之然否，或并（c）二者之融，则女神所拒者，思与言非存在之对象、或非事实之事态、或并二者之可能——其所据直觉如次。欲思、欲言任何物，必*有*所思所言者在（如是量词乃得入）。然非存在者，以假定言之，*不在彼*可供思（参 B3），以其或不存在、或事不然故；既无所思者在彼，则吾侪亦必无所思。言语之例，据谓亦生平行之难：关于非存在者之陈述、与夫妄语是已。
   - id: 15
     kind: body
     source: |-
