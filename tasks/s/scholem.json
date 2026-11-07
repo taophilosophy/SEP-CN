@@ -2,7 +2,7 @@
   "slug": "scholem",
   "kind": "retranslate",
   "zh_doc": "s/scholem.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-07T18:29:45Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "SZ-main-20261108",
+      "at": "2026-11-07T20:41:28Z",
+      "evidence": "方向声明（rules/08）：用户令本会话负责 S 批全流程翻译；scholem 目标=零信任重译全篇（6 节+脚注+OIR+相关词条，账本 69 段 step1/step2 双步已填、组装稿已落盘）；非目标=不补原文内容、参考文献非中文条目照录、不动他批文件；验收=状态机十步走满+s1 逐段对照+s2/s3 三检+r1-r3 复审+check_all 全绿"
     }
   ],
   "blockers": [],
