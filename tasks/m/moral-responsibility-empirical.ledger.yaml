@@ -1,0 +1,675 @@
+version: 1
+slug: moral-responsibility-empirical
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      What are the conditions under which an agent is morally responsible for some action that they have performed? Put another way, and acknowledging that this rephrasing might be contentious, what are the conditions under which it would be appropriate to praise or blame the agent for something they have done? (Strawson 1962; Wallace 1998; Coates & Tognazzini 2013)[^coates-2013][^strawson-1962][^wallace-1998]. An account of moral responsibility supplies answers to these questions. (See the entry on “Moral Responsibility”).
+    step1: |-
+      行动者在何种条件下对其所做出的某个行动负有道德责任？换一种说法，并承认这一改写可能有争议：在何种条件下，就行动者所做的某事而赞扬或责备他们才是恰当的？(Strawson 1962; Wallace 1998; Coates & Tognazzini 2013)[^coates-2013][^strawson-1962][^wallace-1998]。一种道德责任理论正是为这些问题提供答案。（参见“道德责任”词条。）
+    step2: |-
+      行动者在什么条件下才对自己所做的某个行动负有道德责任？换个说法——这一改写或许有争议——在什么条件下，对某个行动者所做之事予以赞扬或责备才算恰当？(Strawson 1962; Wallace 1998; Coates & Tognazzini 2013)[^coates-2013][^strawson-1962][^wallace-1998]。一套道德责任理论，就是为这些问题提供答案。（参见“道德责任”词条。）
+  - id: 2
+    kind: body
+    source: |-
+      Most theorists agree that moral responsibility requires satisfying at least two core conditions. The first is a *control* condition; the agent must have the right sort of control over what they do (Dennett 1984; Fischer & Ravizza 1998; Shepherd 2014)[^dennett-1984][^fischer-1998][^shepherd-2014]. Such control would be lacking in cases involving force or coercion. The second is an *epistemic condition*; the agent must know certain things, such as what they are doing and the moral reasons that bear on their actions (Wieland & Robichaud 2017; Zimmerman 1997)[^wieland-2017][^zimmerman-1997]. The epistemic condition would be violated if a person does something out of ignorance, especially if their ignorance is itself non-culpable. See the entry by Fernando Rudy-Hiller on “The Epistemic Condition for Moral Responsibility” in this encyclopedia.
+    step1: |-
+      多数理论家同意，道德责任至少需要满足两个核心条件。第一个是*控制*条件；行动者必须对其所作所为拥有恰当类型的控制 (Dennett 1984; Fischer & Ravizza 1998; Shepherd 2014)[^dennett-1984][^fischer-1998][^shepherd-2014]。在涉及强制或胁迫的情形中，这种控制就是缺失的。第二个是*认知*条件；行动者必须知道某些事情，例如自己在做什么，以及影响其行动的道德理由 (Wieland & Robichaud 2017; Zimmerman 1997)[^wieland-2017][^zimmerman-1997]。如果一个人出于无知而做某事，尤其是当其无知本身不可归咎时，认知条件就被违反了。参见本百科全书中 Fernando Rudy-Hiller 的“道德责任的认知条件”词条。
+    step2: |-
+      多数理论家都同意，道德责任至少要满足两个核心条件。其一是*控制*条件：行动者必须对自身所为拥有恰当类型的控制 (Dennett 1984; Fischer & Ravizza 1998; Shepherd 2014)[^dennett-1984][^fischer-1998][^shepherd-2014]；凡涉强制或胁迫，这种控制便告缺失。其二是*认知*条件：行动者必须知道某些事情，比如自己在做什么、有哪些道德理由与行动相关 (Wieland & Robichaud 2017; Zimmerman 1997)[^wieland-2017][^zimmerman-1997]；人若因无知而行事——尤其当无知本身不可归咎——认知条件即遭违反。参看本百科全书中 Fernando Rudy-Hiller 所撰“道德责任的认知条件”词条。
+  - id: 3
+    kind: body
+    source: |-
+      Some of the work in constructing an account of moral responsibility is conducted from the “armchair” (Daniels 1979; Williamson 2007)[^daniels-1979][^williamson-2007]. Theorists put forward plausible principles for when an agent is morally responsible for what they do. They check these principles for consistency with other principles and with reactions to specific hypothetical cases. They revise these principles and reactions to cases in the direction of greater coherence, simplicity, explanatoriness, elegance, and so forth.
+    step1: |-
+      构建道德责任理论的部分工作是在“扶手椅”上进行的 (Daniels 1979; Williamson 2007)[^daniels-1979][^williamson-2007]。理论家提出一些看似合理的原理，用以判定行动者在何时对其所作所为负有道德责任。他们检验这些原理与其他原理是否一致，与对特定假想情形的反应是否一致。他们朝更大的融贯性、简洁性、解释力、优雅性等方向，修正这些原理与对情形的反应。
+    step2: |-
+      构建道德责任理论的某些工作，是在“扶手椅”里做的 (Daniels 1979; Williamson 2007)[^daniels-1979][^williamson-2007]。理论家先提出一些看似合理的原理，用来说明行动者何时对自身所为负有道德责任；再检验这些原理彼此是否相容，与对具体假想情形的反应是否一致；然后朝更融贯、更简洁、更具解释力、更优雅等方向，修改原理与反应。
+  - id: 4
+    kind: body
+    source: |-
+      Yet, consistent with the view that there is no sharp demarcation between philosophical and scientific inquiry (Quine 1957; Stich 1996)[^quine-1957][^stich-1996], there could be many ways empirical evidence might be relevant to the task of constructing an account of moral responsibility. For example, we might believe that ordinary adults have the kind of control that is needed to satisfy the control condition for moral responsibility, while individuals with certain mental disorders, such as addiction, lack this kind of control. Empirical investigations might help identify what is possessed by the former and lacked by the latter.
+    step1: |-
+      然而，与哲学探究和科学探究之间并无截然分界这一观点相一致 (Quine 1957; Stich 1996)[^quine-1957][^stich-1996]，经验证据可能与构建道德责任理论的任务有许多相关方式。例如，我们可能相信，普通成年人拥有满足道德责任之控制条件所需的那种控制，而患有某些精神障碍（如成瘾）的个体则缺乏这种控制。经验研究或许有助于确定前者拥有什么、后者缺少什么。
+    step2: |-
+      不过，若承认哲学探究与科学探究之间并无截然分界 (Quine 1957; Stich 1996)[^quine-1957][^stich-1996]，那么经验证据与道德责任理论的构建便可能有多种关联。举例来说，我们或许相信普通成年人拥有满足控制条件的那种控制，而成瘾等某些精神障碍患者则缺少这种控制；经验研究正可帮助弄清前者有何、后者缺何。
+  - id: 5
+    kind: body
+    source: |-
+      This example, and others to be discussed below, highlight that findings from the natural sciences, especially about reasoning, deliberation, belief formation, action selection, and self-control, among other topics, can potentially inform accounts of moral responsibility and application of these accounts to difficult real-world cases.
+    step1: |-
+      这一例子以及下文将讨论的其他例子表明：自然科学的发现——尤其是关于推理、慎思、信念形成、行动选择与自我控制等主题的发现——有可能为道德责任理论以及把这些理论应用于困难的现实情形提供信息。
+    step2: |-
+      这个例子以及下文要谈的其他例子都表明：自然科学的发现——尤其是关于推理、慎思、信念形成、行动选择与自我控制等问题的发现——可以为道德责任理论提供参照，也有助于把这些理论用于棘手的现实案例。
+  - id: 6
+    kind: body
+    source: |-
+      This entry examines four areas in which empirical insights have been fruitful aids in constructing and applying theories of moral responsibility. The focus is on work in empirical fields examining the mechanisms of agency, especially psychology, neuroscience, computational cognitive science, and artificial intelligence.
+    step1: |-
+      本词条考察经验洞见在构建与运用道德责任理论中成果丰硕的四个领域。焦点在于经验领域中对能动性机制的研究，尤其是心理学、神经科学、计算认知科学与人工智能。
+    step2: |-
+      本词条考察四个领域，经验洞见在其中为道德责任理论的构建与运用提供了有力帮助；重点放在研究能动性机制的经验学科，尤其是心理学、神经科学、计算认知科学与人工智能。
+  - id: 7
+    kind: body
+    source: |-
+      Of note, this entry does not take up findings from experimental philosophy, understood as the study of folk judgments about philosophically relevant cases (Mallon 2016)[^mallon-2016]. Experimental philosophy understood this way is about ordinary attributions of moral responsibility, especially ordinary intuitive judgments. The focus of this entry is, instead, on actual mechanisms of mind and agency, as revealed by empirical sciences, that have relevance for constructing and applying theories of moral responsibility.
+    step1: |-
+      值得注意的是，本词条不讨论实验哲学的发现，这里把实验哲学理解为对与哲学相关情形的大众判断的研究 (Mallon 2016)[^mallon-2016]。如此理解的实验哲学关涉的是道德责任的日常归赋，尤其是日常直觉判断。相反，本词条的焦点是由经验科学揭示的心灵与能动性的实际机制，这些机制与道德责任理论的构建和运用相关。
+    step2: |-
+      需要说明，本词条不涉及实验哲学的发现——这里把实验哲学理解为对哲学相关情形中大众判断的研究 (Mallon 2016)[^mallon-2016]。这种意义上的实验哲学关心的是道德责任的日常归赋，尤其是日常直觉判断；本词条则转而关注经验科学所揭示的心灵与能动性的实际机制，这些机制同道德责任理论的构建与运用相关。
+  - id: 8
+    kind: body
+    source: |-
+      Also, two topics are not discussed here: situationism and implicit bias. These topics fall within the scope of this entry, but they are covered at length in the entries in this encyclopedia by Christian Miller on “Empirical Approaches to Moral Character” and by Michael Brownstein on “Implicit Bias”.
+    step1: |-
+      此外，有两个主题不在此讨论：情境主义与内隐偏见。这些主题属于本词条的范围，但本百科全书中 Christian Miller 的“道德品质的经验主义研究”与 Michael Brownstein 的“内隐偏见”两个词条已作详尽讨论。
+    step2: |-
+      另有两个主题不在讨论之列：情境主义与内隐偏见。它们本属本词条范围，但本百科全书中 Christian Miller 的“道德品质的经验主义研究”与 Michael Brownstein 的“内隐偏见”两词条已有详细论述。
+  - id: 9
+    kind: body
+    source: |-
+      ## 1. Addiction and Impaired Control
+    step1: |-
+      ## 1 成瘾与受损的控制
+    step2: |-
+      ## 1 成瘾与受损的控制
+  - id: 10
+    kind: body
+    source: |-
+      Addiction figures frequently in contemporary works on moral responsibility because it is supposed to illustrate a canonical way that agency goes awry. We are usually authors of our actions; what we do is up to us. Many philosophers and other theorists claim that this is not so for individuals addicted to drugs. These theorists claim that these individuals are not morally responsible for their drug-directed actions, or else responsibility is to an important degree mitigated.
+    step1: |-
+      成瘾在当代道德责任研究中频频出现，因为它被认为例示了能动性出错的典型方式。我们通常是自身行动的作者；我们所做的取决于我们自己。许多哲学家和其他理论家声称，对吸毒成瘾的个体而言并非如此。这些理论家声称，这些个体对其毒品导向的行动不负道德责任，或者责任在很大程度上被减轻了。
+    step2: |-
+      成瘾之所以频频出现在当代道德责任研究中，是因为它被视为能动性失常的典型例证。我们通常是自身行动的作者，所做之事取决于自己；但不少哲学家和其他理论家声称，对吸毒成瘾者来说并非如此——他们对其毒品导向的行动不负道德责任，或者责任已在相当程度上减轻。
+  - id: 11
+    kind: body
+    source: |-
+      To better understand and assess these claims, we must get clear on a number of empirical questions about the nature of addiction and the ways it impacts agency—specifically addiction to drugs such as alcohol or opiates, which have been the focus of philosophical interest.
+    step1: |-
+      为了更好地理解与评估这些主张，我们必须弄清若干关于成瘾之性质及其影响能动性方式的经验问题——具体说来，是酒精或阿片类药物等毒品的成瘾，这些一直是哲学兴趣的焦点。
+    step2: |-
+      要更好地理解并评估这些主张，就得先弄清若干经验问题：成瘾究竟是什么，它又以何种方式影响能动性——确切地说，是酒精、阿片类药物等毒品成瘾，这类成瘾一向是哲学关注的焦点。
+  - id: 12
+    kind: body
+    source: |-
+      ### 1.1 What is Addiction?
+    step1: |-
+      ### 1.1 何谓成瘾？
+    step2: |-
+      ### 1.1 何谓成瘾？
+  - id: 13
+    kind: body
+    source: |-
+      Addiction is a complex and heterogeneous phenomenon (Glackin et al. 2021)[^glackin-2021], and it is best conceptualized as encompassing several importantly distinct components (Griffiths 2005; Sussman & Sussman 2011; Sinnott-Armstrong & Pickard 2013)[^griffiths-2005][^sinnott-armstrong-2013][^sussman-2011]. These components include excessive use despite deleterious consequences, physiological changes including tolerance and withdrawal, and excessive time spent on drug-related activities, which crowds out other aspects of life. These components are reflected in the criteria for substance use disorders in the Diagnostic and Statistical Manual of Mental Disorders (American Psychiatric Association & DSM-5 Task Force 2013)[^american-2013], a widely used text for psychiatric diagnosis and classification.
+    step1: TBD
+    step2: TBD
+  - id: 14
+    kind: body
+    source: |-
+      Impaired control is another important component of addiction that is conceptually distinct from the previous three (Heather 1998, 2020; Sripada 2022)[^heather-1998][^sripada-2022]. The hallmark of impaired control is that a person with (sincerely held) goals to cut down or quit has an inability to get themselves to reach or maintain these goals. As noted earlier, control is a core condition for moral responsibility. Naturally, then, this fourth component of addiction, impaired control, has garnered the most philosophical attention, and it shall be our focus. What is the nature of impaired control in addiction?
+    step1: TBD
+    step2: TBD
+  - id: 15
+    kind: body
+    source: |-
+      ### 1.2 Addiction Involves Irresistible Desires
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      One possibility is that impaired control in addiction arises from irresistible desires. Very roughly, a desire is irresistible if it is so strong that the person cannot resist it no matter how hard they try, though pinning down the idea with more precision is challenging (Mele 1990; Pickard 2015)[^mele-1990][^pickard-2015]. A particularly vivid depiction of irresistible addictive desires comes from Harry Frankfurt, who gives us the haunting figure of the unwilling addict:
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      [The man] hates his addiction and always struggles desperately, although to no avail, against its thrust. He tries everything that he thinks might enable him to overcome his desires for the drug. But these desires are too powerful for him to withstand, and invariably, in the end, they conquer him. He is an unwilling addict, helplessly violated by his own desires. (Frankfurt 1971, p. 12)[^frankfurt-1971]
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      The idea that addiction involves irresistible desires was famously endorsed by William James (James 1890)[^james-1890] and has been widespread in philosophy, for example, in Fischer (2012, Section 2.2), Fischer and Ravizza (1998, p. 82), Wolf (1993, Chapter 2), Scanlon (1998, p. 290), and Wallace (1998, Chapter 5), among others. But is the idea accurate? Does impaired control in addiction typically take the form of desires too powerful for a person to withstand?
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      The answer appears to be, fairly clearly, no. Hanna Pickard provides an influential critique of the idea that that conditions such as addiction involve motives so strong that the person “cannot do otherwise” (Pickard 2015)[^pickard-2015]. A key observation is that individuals with addictions display substantial “incentive sensitivity”: they both act and withhold actions related to drug use based on incentives and disincentives for doing so (Pickard 2012; Hart 2013; Husak 1992; Heyman 2009; Sripada 2022)[^hart-2013][^heyman-2009][^husak-1992][^pickard-2012][^sripada-2022]. So, for example, they avoid drug use when negative consequences are clearly and saliently present, for example when a police officer is “at the elbow” (Morse 2000; Caplan 2006)[^caplan-2006][^morse-2000], and they choose to forsake using drugs if offered only modest-sized incentives (Hart et al. 2000; Higgins & Petry 1999)[^hart-2000][^higgins-1999]. Additionally, many individuals with addictions routinely attempt to quit, and typically manage to maintain sobriety for days and weeks, something that would not be possible if drug-directed desires are literally irresistible (Pickard 2015)[^pickard-2015].
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      ### 1.3 Addiction Involves Desires That Are Very Hard to Resist
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      Faced with the preceding observations, many theorists retreat to a weaker claim: In addiction, drug-directed desires are not literally irresistible, but they are somehow uniquely *hard* or *difficult* to resist (claims along these lines are found in Watson 1999; Wallace 1999; Kennett 2013; Levy 2006; Henden, Melberg, and Rogeberg 2013; Morse 2002; Holton and Berridge 2013 and Burdman 2022)[^burdman-2022][^holton-2013][^kennett-2013][^levy-2006][^morse-2002][^wallace-1999][^watson-1999]. There are several potential problems for these “hard to resist” views.
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      First of all, there are active philosophical disagreements about how best to understand the notion of “hard” or “difficult” (Bradford 2015)[^bradford-2015]. One sense of something’s being hard emphasizes subjective effort (Bermúdez & Massin 2023)[^bermúdez-2023]. This sense seems to be at work when it is said that it is hard to lift a hefty but ultimately manageable weight, say 50 pounds. The weight is not unliftable, but it is not easy to lift—it takes some effort and feels somewhat aversive to do it.
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      But if this is the sense of “hard” at issue, it is not clear that something’s being hard or difficult counts as a form of impaired control that contributes to an excuse from moral responsibility. For example, here are some things that are hard in this effortful sense: going to work early in the morning, grading poorly written student papers, and cleaning up a baby’s messy diaper. Though these things are hard to do, it is a leap to say that we have impaired control over these things, or that we are excused from moral responsibility if we fail to do these things.
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      There is, in addition, an empirical problem for this “hard to resist” view under consideration. A number of studies have asked people to rate the strength of their drug-directed desires. These studies typically find that these desires are rated fairly moderately; notably, people almost never rate them using whatever is the highest rating the survey allows (Hofmann, Baumeister, et al. 2012; Hofmann, Vohs, et al. 2012; Preston et al. 2009)[^preston-2009].
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      Perhaps, then, one might offer an alternative analysis of what it means for one’s drug-directed desires to be “hard” to resist or otherwise control. Drawing on a picture rooted in cognitive behavioral therapy, Sripada (2021) proposes that many individuals with addiction experience distorted automatic impressions and evaluations. They inaccurately “see” their self as inadequate, the world as harsh, their future as bleak, their ability to cope without drugs as limited, their relief from using drugs as substantial, and so on. As a result, they engage in drug use (see Pickard (2016) and Flanagan (2013) for additional perspectives on distortions in addiction). These distortions that lie at the root of drug seeking are “hard” to control in the sense that they are difficult for the person to recognize and correct. More specifically, people are highly *unreliable*, in a statistical sense, at recognizing and correcting distorted impressions—they succeed sometimes but many times they don’t. On this model, the person has impaired control not over their drug-directed desires directly, but rather over their distorted impressions and evaluations, which in turn are the source of their seeking to use drugs.
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      ### 1.4 People Who Use Drugs Do Not Have Impaired Control
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      Thus far we have been assuming that addiction involves some kind of impaired control over use of drugs and have examined several accounts of what this impaired control amounts to. Not everyone, however, subscribes to this assumption. Some theorists have been attracted to the position that people who use drugs heavily (and meet many of the conventional criteria for the diagnosis of addiction) do not genuinely have impaired control at all (Foddy & Savulescu 2007, 2010; Hart 2013; Heyman 2009)[^foddy-2007][^hart-2013][^heyman-2009]. See also Pickard 2012, for a nuanced related position.
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      On these views, choices to use drugs, even substantial quantities of drugs, are made freely, rationally, and with full control. We may disagree morally with the choices these individuals make. We may not be privy to some of the instrumental goals that they are trying to achieve. But they choose rationally and their control is unimpaired.
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      There are, however, some serious problems with these “purposive choice” views. A typical pattern in addiction is that the person attempts to cut back or quit and has some temporary success (i.e., often days to weeks), but eventually resumes regular patterns of use, with this cycle typically repeating multiple times (Dennis et al. 2007; Hunt et al. 1971; Kirshenbaum et al. 2009; McLellan et al. 2000)[^dennis-2007][^hunt-1971][^kirshenbaum-2009][^mclellan-2000]. Also, in order to maintain sobriety, people with addiction frequently undertake interventions that are costly in terms of time, money, and other burdens and risks. For example, they join therapeutic communities (requiring meetings multiple times a week), attend counseling sessions, and undertake onerous drug treatments that require close clinical supervision. These observations seem inconsistent with the claim that drug use is chosen freely, purposively, and with full control.
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      ### 1.5 What Is at Stake in the Debate?
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      Philosophers frequently assert that addiction is a paradigmatic real-world case in which individuals fail to meet the control condition for moral responsibility. But the empirical literature is far more tentative and unsure. Claims that addiction involves impaired control face serious challenges, and theorists have struggled to specify in detail the nature of the supposed control impairments. But claims that addiction does not involve impaired control also face serious difficulties. Work on the issue is ongoing, but meanwhile questions of moral responsibility for individuals with addiction hang in the balance. Whether and to what degree individuals with addiction are morally responsible depend importantly on exactly how the empirical cards get settled.
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      ## 2. Responsibility for Spontaneous Conduct
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      Suppose a person does something morally criticizable. They deliberate carefully. They reflect on and endorse their relevant (morally flawed) motives. They form a judgment about what to do and follow through on it. Putting global forms of skepticism aside, assessing moral responsibility is relatively straightforward in cases like these, and most theories deliver similar verdicts. Assuming no defeaters are present, the person is morally responsible for their morally criticizable actions.
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      But many of our actions, in fact most, do not arise from deliberation; they arise spontaneously and unreflectively. A number of authors, including George Sher, Tim Scanlon, Angela Smith, and Santiago Amaya have pointed out that we can be morally responsible for various kinds of spontaneous conduct, including how we direct attention, what we notice and fail to notice, what we remember and forget, what we dwell on or ignore, our spur-of-the-moment actions (e.g., blurting something out), our momentary slips or lapses, our unwitting omissions, and so forth (Sher 2006, 2009; Scanlon 1998; A. Smith 2005, 2008; Amaya 2013; Amaya & Doris 2015; Nelkin & Rickless 2017)[^amaya-2013][^amaya-2015][^nelkin-2017][^scanlon-1998][^sher-2006][^smith-2005].
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      ### 2.1 A Case of Forgetting
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      To make matters more concrete, consider a case from Samuel Murray and Manuel Vargas that they call “Bourbon.”
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      As Randy is about to leave his home for the office, Al calls to tell him that they are out of bourbon. His regular route to the office takes him right by a liquor store, and Randy tells Al he’ll buy some. Between his home and the liquor store, Randy starts thinking about a paper he is writing on omissions. He continues thinking about his work until he arrives at the department, where he realizes that he has forgotten the bourbon. (Murray & Vargas 2020, p. 826)[^murray-2020]
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      Randy did not step back, reflect, and then deliberately violate his promise to bring the bourbon. Yet he is, it seems, morally responsible for what he did, or in this case, what he failed to do (Nelkin & Rickless 2017; Clarke 2014; Amaya & Doris 2015; Murray & Vargas 2020)[^amaya-2015][^clarke-2014][^murray-2020][^nelkin-2017]. Notice that it seems appropriate for Randy to apologize to Al, and that he might perhaps be forgiven, which further support this impression.
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      Yet, even if we are inclined to say that Randy is morally responsible, it is not at all clear how he could be because it is hard to see how he can satisfy the control and epistemic conditions for moral responsibility. After all, it seems odd to say that Randy was *in control* of his forgetting or that he *knew* he was forgetting (Murray & Vargas 2020; Nelkin & Rickless 2017)[^murray-2020][^nelkin-2017].
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      Notice further that whatever the psychological processes that led to Randy’s forgetting, they don’t seem to resemble very much the processes at work in producing deliberative actions, the more familiar case studied in the moral responsibility literature. As Murray and Vargas put the point:
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      The problem is that in *Bourbon*—and relevantly similar cases—the offending agent’s conduct lacks all familiar actional and valuative antecedents that might ground responsibility. There is no decision, volition, intention, belief, desire, choice, or judgment (among other things). (Murray & Vargas, 2020, p. 826)
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      When confronted with cases such as *Bourbon*, an important yet underexplored next question is this: What exactly *are* the processes that generate spontaneous conduct? Are these processes simple and reflex-like? Or do they reflect more sophisticated forms of agency?
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      In asking these questions, we are acknowledging that it is implausible that we can simply treat the mechanisms that produce spontaneous conduct as a black box. Instead, it is likely that we need to get clear on the mechanistic underpinnings of why Randy did what he did before we can decide if he is morally responsible for his conduct.
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      ### 2.2 Opening Up the Black Box
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      A first step is to map the language of the *Bourbon* case into more precise, empirically tractable constructs. We are told that Randy “starts thinking” about omissions during the trip. This in turn might plausibly be understood in terms of the allocation of attention: Randy attends to an internally generated stream of thought that pertains to omissions rather than other things that he could be attending to, such as thoughts about getting the bourbon. His allocation of attention to omissions is harmless until he is near the store. Unfortunately, he continues to allocate attention to omissions rather than the goal of getting bourbon, and so he passes by the store and arrives to his destination empty handed.
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      Having reconstructed the *Bourbon* case in terms of attention allocation, we can next turn to the substantial body of empirical work that illuminates how attention allocation works. Much of this work specifically studies allocation of visual attention to spatially arrayed external targets. Nonetheless, it is widely thought that allocation of attention to candidate internal targets—for example, thoughts or memory items—follows similar principles (Chun et al. 2011; Kiyonaga & Egner 2013)[^chun-2011][^kiyonaga-2013].
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      According to a leading model, choices to allocate attention to candidate targets arise from integrated priority maps (Fecteau & Munoz 2006; Zelinsky & Bisley 2015; Theeuwes et al. 2022)[^fecteau-2006][^theeuwes-2022][^zelinsky-2015]. These are maps that assign to each candidate attentional target a scalar score that represents the expected value of attending to that target. On the basis of these priority maps, the person chooses to attend to the target with highest value. Of course, due to the selectivity of attention, this implies the person is not attending (or perhaps not attending sufficiently) to the other candidate targets of attention.
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      The priority map model of attention allocation fits nicely with a much broader picture of the etiology of spontaneous conduct that has emerged in computational cognitive science (Rangel et al. 2008; Rangel & Hare 2010; Busemeyer & Townsend 1993; Carruthers 2018; Railton 2017a; Haas 2022, forthcoming; Sripada, 2025)[^busemeyer-1993][^carruthers-2018][^haas-2022][^railton-2017a][^rangel-2008][^rangel-2010]. According to this model, the mind houses an extensive set of algorithms for the ongoing calculation of the expected value of one’s actional options, where the value at issue is instrumental value relative to a person’s more basic aims, goals, and priorities. On this picture, one’s spontaneous conduct, which can sometimes feel reflexive or automatic, is actually the product of rapid decisions made on the basis of representations of the expected value of the options.
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      We can distinguish two kinds of processes operative in the priority map model of attention allocation. First, there is a set of processes that leads to the construction of priority maps. These are *subpersonal* processes that integrate a number of cues into an overall expected value representation that attaches to each attentional target (Anderson & Kim 2018; Failing & Theeuwes 2018)[^anderson-2018][^failing-2018]. Second, there is a set of rapid decision processes that translate priority map value representations into actual choices about the target to which attention is in fact allocated (Forstmann et al. 2016; Ratcliff & McKoon 2007)[^forstmann-2016][^ratcliff-2007]. Importantly, the rapid decisions implemented by this second set of processes are *person-level* events. This accords well with first person phenomenology. Allocations of attention aren’t simply happenings within one’s psychology; they are something that the *person* does (Watzl 2017; Wu 2023)[^watzl-2017].
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      Adopting this overall priority map model, we get the following detailed account of what unfolds in the *Bourbon* case. At the start of the trip, Randy allocates attention to omission thoughts. He does so based on an attentional priority map that assigns omission thoughts a higher value than alternatives including bourbon thoughts. This makes sense—Randy is highly interested in omissions, so it is natural that his attentional priority map would reflect this. As he passes the store, however, there appears to be a missed opportunity: the subpersonal processes that construct and update priority maps could have been sensitive to his current store-adjacent location and shifted the priority map to place higher value on bourbon thoughts rather than omission thoughts. But this shift did not occur—his priority map continued to place higher value on omission thoughts rather than bourbon thoughts, and thus Randy continued to choose to attend to omission thoughts. And due to the limited capacity of attention, in attending to omission thoughts, he was not attending to bourbon thoughts—that is, he forgot about the bourbon.
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      ### 2.3 How Findings from Cognitive Science Inform Assessments of Moral Responsibility
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      With these empirical details filled in, what then about moral responsibility?
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      One approach holds that the kinds of mechanisms that underwrite attention allocation in our empirically-detailed reconstruction of the *Bourbon* case do in fact confer the kind of *control* that is required for moral responsibility. This is broadly the tack taken by Murray and Vargas (2020). A hallmark of mechanisms that confer control is that they are reasons-responsive—they flexibly issue in different responses when there are sufficient reasons to do so (Vargas 2013; Fischer & Ravizza 1998; Dennett 1984; Shepherd 2014)[^dennett-1984][^fischer-1998][^shepherd-2014][^vargas-2013]. The priority map-based mechanisms that underpin attention allocation appear to be reasons-responsive in just this way—a suite of learning algorithms and other mechanisms help to make sure priority maps track the things that promote one’s aims and priorities (Haas 2022; Railton 2017a)[^haas-2022][^railton-2017a]. On this approach[^note-1], since Randy satisfies the conditions for control, he is morally responsible for forgetting the bourbon, vindicating ordinary opinion.
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      Another position focuses on the *epistemic* condition for moral responsibility. Recall that priority maps are generated by subpersonal algorithms that are sensitive to the agent’s more basic aims and interests. Now, these algorithms work well most of the time, but they aren’t perfect. Like everything else in our psychology, they are only boundedly rational (Simon 1990; Lewis et al. 2014; Lieder & Griffiths 2020)[^lewis-2014][^lieder-2020][^simon-1990], and thus, inevitably, there will be many situations in which priority maps associated with candidate attentional targets are inaccurate. That is, there are many situations in which these maps will ascribe higher value to some candidate attentional target *A* rather than some target *B*, when, in fact, the actual value, relative to the agent’s own aims and priorities, favors *B* over *A*.
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      Suppose that, at the point when he is near the store, Randy’s priority map is in fact inaccurate. That is, the map assigns higher value to omission thoughts rather than bourbon thoughts when in fact the reverse should be the case, given Randy’s own more basic aims and priorities. If Randy allocates his attention on the basis of an inaccurate priority map and this is why he forgets to bring the bourbon, then he may have done what he did under ignorance. That is, he may fail the epistemic condition for moral responsibility, and thus he would not be morally responsible for his conduct (assuming, that is, that his ignorance is itself non-culpable—see the following section). This position revises folk opinion in the *Bourbon* case, identifying a potential excusing condition, i.e., ignorance, that might have otherwise gone unnoticed or been unappreciated.[^note-2]
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      Stepping back a bit, the larger point is that we appear to have made some progress. At the start, it was noted that most theorists treat the mechanisms that produce spontaneous conduct in cases like *Bourbon* as a black box. By consulting the empirical literature, we have been able to offer up one version of what happens in the case with the box meaningfully filled in. We can next ask, given this picture of the mechanisms that operate to produce the relevant instance of spontaneous conduct, whether the control condition is satisfied, whether the epistemic condition is satisfied, and so on for other conditions relevant for moral responsibility. Empirical considerations have not settled the question of whether and why agents are morally responsible for spontaneous conduct. But they have brought to bear additional resources that clarify the debate and move it forward.
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      ## 3. Moral Responsibility and the Etiology of Ignorance
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      ### 3.1 The Epistemic Condition and Culpable Ignorance
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      When assessing the epistemic condition for moral responsibility, most theorists agree that it is not enough to check whether the agent acts under ignorance. We must further assess whether the agent is culpable for bringing about their ignorance—whether they did something that led to their own “benighting” (H. Smith 1983; Zimmerman 1997; Rosen 2004; Wieland & Robichaud 2017)[^rosen-2004][^smith-1983][^wieland-2017][^zimmerman-1997].
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      Consider the case of a doctor who infuses the wrong type of blood into a patient who then has a severe reaction (the case is loosely drawn from Rosen 2004)[^rosen-2004]. The doctor does this out of ignorance; she thinks the patient has one blood type when in fact the patient has an incompatible one. She has this mistaken impression, however, because she does not doublecheck the chart, something all doctors are supposed to do. She does not doublecheck because she is in a rush to get to her tee time at a golf club, the most exclusive in the city, and chooses to skip portions of the usual protocol. Here, her ignorance plausibly does not excuse moral responsibility as she is culpable for bringing it about.
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      Now consider a second case in which the doctor *does* doublecheck the chart. The chart itself is wrong because of a rare mistake—the laboratory procedure that establishes a patient’s blood type is nearly always accurate, but in this particular case, the procedure has assigned the wrong blood type. The doctor acts under ignorance, but she is plausibly excused from moral responsibility because her ignorance itself arises non-culpably.
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      In the preceding examples, we were able to stipulate key features of how the respective agents come to falsely believe certain things. In many interesting real-world cases, we cannot rely on stipulation. We must go out and investigate the pathways by which the agent came to be ignorant. Armed with this etiological information, we can make better assessments of whether the agent’s ignorance is culpable or non-culpable and thus whether they might receive an excuse from moral responsibility.
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      One place where this kind of empirical etiological inquiry is important is in assessing the role of culture and socialization in creating impediments to knowledge, especially moral knowledge, impediments that bear on questions of moral responsibility (Wolf 2012)[^wolf-2012].
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      One note before proceeding. Our focus in what follows is on empirical questions about how certain forms of ignorance, especially moral ignorance, arise. In putting the focus here, we are passing over important conceptual questions that remain unsettled about such things as whether moral ignorance excuses at all (we are assuming, in agreement with the weight of philosophical opinion, that it does), and if so, precisely which forms of moral ignorance are excusing. Weatherson 2019, Chapter 5 provides a helpful overview of the literature on these questions.
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      ### 3.1 Culture and Moral Ignorance
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      Michael Slote observes that though slavery is viewed as morally repugnant today, it was widespread in the ancient world (Slote 1982)[^slote-1982]. So, can we blame Greek slave owners for their wrongdoing or their acts of vice? Slote thinks we cannot, because Greek slave owners were simply unable to see what virtue required regarding slavery. The reason, he believes, is that slavery was too much of a *universal* phenomenon, constraining people’s ability to conceive of alternatives. He writes:
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      Just as the alternative terms used by other languages can seem to make linguistic conventions seem like inevitable facts of nature, so too ignorance of alternatives to a given social arrangement can instill the belief that the arrangement is natural and inevitable and thus beyond the possibility of radical criticism. So, if the ancients were unable to see what virtue required in regard to slavery, that … requires some explanation by social and historical forces, by cultural limitations if you will. (Slote 1982, p. 72)[^slote-1982]
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      Michelle Moody-Adams agrees with Slote that whether culturally acquired beliefs defeat moral responsibility depends importantly on the empirical details of how they were acquired and sustained (Moody-Adams 1994)[^moody-adams-1994]. But she disagrees with Slote’s particular etiological story: “I challenge the empirical credentials of those views which attempt to exempt historical agents from responsibility on the grounds that they suffer from some presumed culturally generated inability to avoid wrongdoing” (Moody-Adams 1994, p. 293)[^moody-adams-1994].
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      According to Moody-Adams, a better explanation of culturally sanctioned immoral practices and institutions is that individuals choose to participate in these practices and perpetuate them.
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      Our failure to see this as the correct etiological story owes to underappreciation of two facts about human psychology that are, according to Moody-Adams, well attested to in anthropology, social psychology, and case reports. The first fact is the “banality of evil,” the observation that ordinary humans are regularly and routinely able to inflict great cruelty on their fellows if there are incentives to do so. Moody-Adams cites Stanley Milgram’s famous experiments on obedience (Milgram 1965)[^milgram-1965], among other empirical data, in support. The second fact is our proclivity towards “affected ignorance,” in which individuals engage in subtle forms of self-deception and motivated evidence seeking. Slavery was maintained as an institution, Moody-Adams surmises, because people made choices that were in part cruel and in part affectedly ignorant. See also Calhoun 1989 and Mills 2007, for influential related arguments.
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      ### 3.2 Social Networks and “Bad Beliefs”
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      Neil Levy offers a contrasting perspective in investigating a related phenomenon, the acquisition of “bad beliefs” among members of certain political or ideological subcultures, for example, communities of climate change deniers, vaccination skeptics, or supporters of demagogic political figures (Levy 2021)[^levy-2021].
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      Levy’s argument relies heavily on the ideas of bounded rationality and epistemic deference. He notes that the evidence that bears on most complex scientific matters (climate, evolution) is so extensive and abstruse, it is simply not feasible or rationally advisable for ordinary people to evaluate all this evidence for themselves. Drawing on the work of quantitative biologists and social scientists working in the “dual-inheritance” framework (Boyd & Richerson 1988; Henrich 2016)[^boyd-1988][^henrich-2016], Levy argues that people instead make heavy use of the strategy of deferring to the beliefs that prevail in their community. This strategy works because there are a number of features of human belief networks that jointly make it the case that the fact that others around you believe that *p* is in fact, on average, evidence for *p*. Levy argues that from these observations, it follows that those who hold beliefs that run counter to scientific consensuses are very often just engaging in rational deference—the problem is not in the way they form their beliefs but in the epistemic environment in which they are formed. See also Rini 2017, O’Connor & Weatherall 2019, Nguyen 2020, Dorst 2023, for importantly different arguments that reach similar conclusions.
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      A striking aspect of Levy’s picture is that those who hold “good” beliefs that are in line with the scientific consensus and those who hold “bad” beliefs that deviate from this consensus typically don’t differ much in terms of their respective methods of belief formation. The former just happen to be in a less favorable epistemic environment than the latter (see Worsnip 2022, for a helpful discussion of this point)[^worsnip-2022]. Levy’s picture furthermore suggests that the ignorance of those who hold bad beliefs is often non-culpable. A parent who fails to vaccinate their child may not be morally responsible for the damage inflicted because they may be non-culpably ignorant of the balance of risks and benefits. The fault lies not with them but with the unlucky fact that their epistemic environment is polluted.
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      A key empirical assumption in Levy’s account is that taking on the beliefs of those around you is done solely, or even mostly, for epistemic reasons. But there is considerable evidence that people often adopt views, especially counternormative ones, that serve as “cultural badges” that identify the members of a moral, political, or ideological community and demarcate the community’s boundaries (Boyd & Richerson 1987; McElreath et al. 2003)[^boyd-1987][^mcelreath-2003]. These views are held on to tenaciously in the face of strong and persistent counterevidence because the epistemic costs are more than made up by personal, prudential gains. Membership in the group is valuable and deviations from orthodoxy are punished so the person has strong social incentives to endorse whatever is the “tribal” creed (Williams 2023, 2021; Kahan 2017; Funkhouser 2022)[^funkhouser-2022][^williams-2023].
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      But notice that at this turn in the discussion, it is not at all clear that we are still talking about the attitude of *belief* anymore, which was our original topic. The present claim under consideration is that people express support for certain views for prudential reasons: personal gain, social status, avoiding ostracism, and so forth. None of this requires the person actually to believe the relevant claims for which they are expressing support. Recall the original issue that we were aiming to address: When is a person excused from moral responsibility due to ignorance and when are they not excused because they culpably brought about their ignorance? If the claims currently under consideration are correct, then some cases that appear overtly to be ignorance may turn out to be no such thing; they are simply cases of people expressing social support for certain false propositions without actually believing them. Such expressions of social support, it would seem, are not forms of ignorance and are no shield from moral responsibility.
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      We have considered several alternative explanations for the etiology of ignorance, or related attitudes. It should be emphasized that there is one sense in which they don’t necessarily compete: each explanation might be true of different sets of cases. That is, it might be true that Slote’s explanation invoking cultural inability is applicable to some cases, Levy’s view invoking rational deference is applicable to others, and the views of Moody-Adams and other critics are applicable in still other cases (see Benson 2001, which makes a related point)[^benson-2001]. It is ultimately an empirical question which of the preceding etiological explanations best fits the particular case at hand, if any. It follows that when dealing with complex, real-world cases, as opposed to stipulated hypothetical cases, assessing whether agents exhibit culpable versus non-culpable ignorance cannot generally be accomplished from the armchair alone. Such assessment will additionally require careful empirical inquiry into the etiology of how the relevant agents came to believe what they do.
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      ## 4. Moral Responsibility and Artificial Agents
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      *Agents*, we have been saying, can be morally responsible for what they do. But what is an agent? Conceptual work is certainly needed to answer this question, but empirical work can make key contributions. An empirical field of particular interest is artificial intelligence (AI). As AI gallops forward, questions arise about whether machines of various kinds might be morally responsible for what they do.
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      ### 4.1 The Agent Model
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      To get us going in thinking about this issue, a useful starting place is a framework for understanding agency developed in computer science and artificial intelligence called the “agent model” (Russell & Norvig 2020; Sutton & Barto 1998; Haas 2022)[^haas-2022][^russell-2020][^sutton-1998]. A standard formulation of the model considers an agent who interacts with an environment partitioned into a set of states, with various actions available at each state. The agent also has a function that assigns to each state a degree of intrinsic value to the agent; these assignments of intrinsic value capture the agent’s “goals”. Agency involves a loop. In the first step, the agent receives perceptual input regarding the current state and also receives the intrinsic value of that state. Next, the agent makes a selection from the actions available in that state. Based on that action, the agent enters a new state, and the loop starts again. The key task of agency involves learning over time to behave in ways that maximize cumulative, long-term achievement of intrinsic value.
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      Much of the excitement in the study of artificial agents is due to the development of a wide assortment of algorithms that explain how agents embedded in the above setup can learn what are the best actions (Sutton & Barto 1998; Haas 2022; Solway & Botvinick 2012)[^haas-2022][^solway-2012][^sutton-1998]. These algorithms take a variety of forms. Some learn directly from experience, while others learn a model of the workings of the world and consequences of one’s actions and leverage this information to guide the selection of actions. And though the agent model is relatively spartan in its setup, it has been shown to be extraordinarily powerful. Recent milestones in AI, such as machines that achieve expert-level performance at chess, Go, and Atari video games, have been achieved within the agent model framework (Campbell et al. 2002; Mnih et al. 2015)[^campbell-2002][^mnih-2015].
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      The agent model might also serve as a tool to probe a space of possible agents, each with varying capacities, some of which might potentially be morally responsible for what they do. Recall the two core conditions for moral responsibility. It seems at least some artificial agents of the type envisioned in the agent model (hereafter just “artificial agent”) might be able satisfy these two conditions (Nyholm, 2018; Menges & Altehenger 2024)[^menges-2024].
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      An artificial agent flexibly adjusts its actions based on the current circumstances in order to maximize attainment of its aims. This kind of behavioral flexibility in pursuit of goals is widely thought to be the central element of control (Dennett 1984; Fischer & Ravizza 1998; Shepherd 2014)[^dennett-1984][^fischer-1998][^shepherd-2014]. Moreover, an artificial agent selects its actions based on various kinds of knowledge. For example, it knows what actions are available in the current situation, which of these actions are most likely to achieve its goals, and so forth. Thus, it is at least prima facie plausible that an artificial agent might be able to satisfy moral responsibility’s epistemic condition.
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      And yet, suppose an Atari game-playing artificial agent is playing the game *Space Invaders*. It fends off wave after wave of aliens and thus saves the Earth’s cities from destruction. Putting aside the question of moral responsibility in fictional scenarios, it seems deeply implausible that the artificial agent should be considered morally responsible for what it does, or that it should be somehow praised (Nyholm 2022, Chapter 6)[^nyholm-2022]. So, questions naturally arise about what is missing for moral responsibility.
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      ### 4.2 What Is Needed for Artificial Agents to be Morally Responsible for What They Do?
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      What capacities do ordinary unimpaired adult humans have that are relevant for moral responsibility that seem to be missing in relatively simple artificial agents such as an Atari-playing machine? Here are a few candidates.
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      #### 4.2.1 Temporally Extended Projects and Plans
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: body
+    source: |-
+      The Atari-playing artificial agent has just a single goal that it reaches fairly quickly: win the Atari game. Humans have a much richer, interlocking set of things that they care about—health, success, relationships, cultivating one’s talents, and so forth (Jaworska 2007; Shoemaker 2003)[^jaworska-2007][^shoemaker-2003]. These things can typically be accomplished only through endeavors and projects that unfold over years and even decades. Moral responsibility, one might argue, requires an agent with a rich and complex evaluative point of view and capacities for long-term planning agency (Bratman 2000)[^bratman-2000] to bring about those things the agent cares about.
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: body
+    source: |-
+      #### 4.2.2 A Moral Sense and Access to Moral Reasons
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: body
+    source: |-
+      The Atari-playing artificial agent has no sense of what is right or wrong, fair or unfair, good or bad, and what kinds of actions manifest vices or virtues. To be morally responsible, one might argue, an agent needs to be outfitted with a moral sense, have access to moral reasons (Wolf 2012; Wallace 1998; Shoemaker 2011)[^shoemaker-2011][^wallace-1998][^wolf-2012], or be able to engage in moral learning (Railton 2017b)[^railton-2017b]. Only then can the agent be blamed for failing to do what morality demands.
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: body
+    source: |-
+      #### 4.2.3 Consciousness
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: body
+    source: |-
+      Suppose a person acts based on motives that are entirely unconscious; they do what they do without awareness of why they are doing it. This is in fact what may happen in, for instance, certain kinds of sleepwalking (Levy 2014)[^levy-2014]. Reflecting on cases such as these, some philosophers have claimed that consciousness is required for moral responsibility (Levy 2014; King & Carruthers 2012)[^king-2012][^levy-2014].
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: body
+    source: |-
+      But why specifically might moral responsibility depend on consciousness? One influential view is that consciousness is required for, or else closely associated with, the widespread sharing of information throughout the agent’s psychology (King & Carruthers 2012; Levy 2014; Nahmias et al. 2020)[^king-2012][^levy-2014][^nahmias-2020]. In the conscious waking state, information is widely broadcast to diverse consumer systems, rendering the agent responsive to a wide range of reasons (Fischer & Ravizza 1998)[^fischer-1998] and rendering their actions reflective of their full evaluative point of view (Wolf 1993)[^wolf-1993]. The problem with the sleepwalker, it is argued, is that low-level modules produce their behavior. These modules are unlikely to be flexibly responsive to a broad range of reasons, and the agent’s actions correspondingly won’t (typically) be reflective of their motives and evaluations, thus explaining why the absence of consciousness undermines moral responsibility.
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: body
+    source: |-
+      #### 4.2.4 “Ultimate” Control
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: body
+    source: |-
+      Our Atari-playing artificial agent comes pre-programmed with its aims, in this case, a single aim to win the game. It learns over time to choose actions that bring it closer and closer to fulfillment of this externally installed aim. More generally, for an artificial agent like the Atari-playing machine, the moral quality of its actions depends strictly on what aims were prespecified. If these aims are morally commendable, the agent will act in the service of the good; if these aims are morally reprehensible, so too will be agent’s actions.
+    step1: TBD
+    step2: TBD
+  - id: 97
+    kind: body
+    source: |-
+      It might be argued that for genuine moral responsibility, agents cannot simply act on the basis of fixed, externally installed aims. The agents themselves must somehow have control over what they are aiming for, something we might term “ultimate control.”
+    step1: TBD
+    step2: TBD
+  - id: 98
+    kind: body
+    source: |-
+      What ultimate control amounts to is itself controversial. For some theorists, it only requires criticizability and revisability—whatever aims an agent has, there must be ways for the agent to reflectively criticize them (Frankfurt 1971)[^frankfurt-1971] or revise them (Mele 2001, 2006)[^mele-2001], or at least change them were they to conflict with certain standards of correctness (Wolf 1980, 1993; Nelkin 2011)[^nelkin-2011][^wolf-1980].
+    step1: TBD
+    step2: TBD
+  - id: 99
+    kind: body
+    source: |-
+      For other theorists, the agent must be the “root” source of their own aims or other elements of their evaluative point of view. For example, one formulation goes like this: To be responsible for what one chooses at some time *t*, the elements of one’s evaluative point of view that are the basis for what one chooses at *t* must themselves be the products of the agent’s own prior choices. This formulation appears to set up an infinite regress. This this way of understanding ultimate control may be so demanding, it makes moral responsibility essentially impossible (G. Strawson 1994)[^strawson-1994]. But notice that it is impossible irrespective of whether the agent in question is human or artificial.
+    step1: TBD
+    step2: TBD
+  - id: 100
+    kind: body
+    source: |-
+      ### 4.3 The Future of Moral Responsibility
+    step1: TBD
+    step2: TBD
+  - id: 101
+    kind: body
+    source: |-
+      We have identified several gaps that separate a fairly simple artificial agent from typical human agents. Looking to the future, some of these gaps are likely to shrink. For example, there are research programs trying to outfit artificial agents with abilities for long-term planning, leveraging sophisticated causal models of the world (Malinsky & Danks 2018; Steyvers et al. 2003)[^malinsky-2018][^steyvers-2003]. There is also great interest in building artificial agents that can engage in moral learning (Railton 2017b)[^railton-2017b] and moral reasoning (Awad et al. 2022; Sinnott-Armstrong & Skorburg 2021)[^awad-2022][^sinnott-armstrong-2021].
+    step1: TBD
+    step2: TBD
+  - id: 102
+    kind: body
+    source: |-
+      Interestingly, in some cases, gaps between humans and artificial agents may emerge and grow in the opposite direction. That is, artificial agents may exhibit responsibility-relevant abilities that exceed our own. For example, in humans, information sharing is importantly limited by the capacity of working memory (Baddeley 2019; Carruthers 2015; Persuh et al. 2018)[^baddeley-2019][^carruthers-2015][^persuh-2018], which is thought to be limited to roughly seven chunks of information at a time (Miller 1956)[^miller-1956]. In artificial systems, components that play an analogous role to working memory need not be so constrained; dozens, hundreds, or even thousands of pieces of information may be simultaneously activated and available for the purposes of reasoning and inference.
+    step1: TBD
+    step2: TBD
+  - id: 103
+    kind: body
+    source: |-
+      Accounts of moral responsibility have primarily been developed by considering ordinary adult humans as the targets for the theory. In the future, a menagerie of distinctive artificial agents might arise, each outfitted with different sets of abilities and exhibiting different limitations. The targets that a theory of moral responsibility must be sensitive to are likely to commensurably expand. Theories of moral responsibility may need to be amended, refined, or otherwise rethought to accommodate these developments.
+    step1: TBD
+    step2: TBD
+  - id: 104
+    kind: oir
+    source: |-
+      - Kahan, D. M., 2017, [*Misconceptions, misinformation, and the logic of identity-protective cognition*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067). SSRN. doi:10.2139/ssrn.2973067
+    step1: TBD
+    step2: TBD
+  - id: 105
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: TBD
+    step2: TBD
+  - id: 106
+    kind: note
+    source: |-
+      [^note-1]: Murray and Vargas (2020) actually defend a slightly different position that invokes contextually appropriate normative standards for conduct. They argue that Randy has the capacity to appropriately manage and control his thinking, which makes it appropriate to demand certain standards for his conduct and hold him responsible for failing to meet those standards. This nuance is being put aside for the purposes of exposition.
+    step1: TBD
+    step2: TBD
+  - id: 107
+    kind: note
+    source: |-
+      [^note-2]: There is another way we can fill in the *Bourbon* case, one in which Randy’s priority map when he is near the store *is* accurate in depicting omission thoughts as higher in value than bourbon thoughts. This version of the case would presumably be one in which Randy cares deeply about philosophical questions and cares much less about keeping his promises. Overall, in this setting in which the original case is underdescribed, the role of empirical theory and data is more modest. It does not deliver a verdict on its own. Rather, it tells us what details must be filled in with respect to Randy’s psychology for Randy to be exculpated or convicted in terms of moral responsibility.
+    step1: TBD
+    step2: TBD
