@@ -2,7 +2,7 @@
   "slug": "moral-responsibility-empirical",
   "kind": "retranslate",
   "zh_doc": "m/moral-responsibility-empirical.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "LMN-main-20261107",
       "at": "2026-11-07T14:19:58Z",
       "evidence": "check_academic --strict 硬错误 0；OIR 两条照录（SSRN 论文链接与联系作者句）；References 现制形态照录；门禁红点（SUMMARY o/ockham H1、tools/check_images）经核属他会话在途，非本批"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LMN-main-20261107",
+      "at": "2026-11-07T14:38:40Z",
+      "evidence": "五维机检：H3 14=14、H4 4=4、defs 144=144、marker 299=299、数字差异经逐条定性——多出的 2020 一处系源文 Notes 节位于 References 之后而译文按体例前置「脚注」，口径差非内容差；H2 10 vs 9 为源文 Notes 双标题冗余，译文取「## 脚注」契约形态"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LMN-main-20261107",
+      "at": "2026-11-07T14:38:40Z",
+      "evidence": "check_prose 0、check_style --strict 0、check_math 0；相关词条 7 项全部命中中文形（注意力/责备/有限理性/计算机与道德责任/利他主义的经验主义研究/道德责任/道德责任的认知条件）；术语 23 行入库、现代学者人名按 ADR-0012 保留英文"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LMN-main-20261107",
+      "at": "2026-11-07T14:38:41Z",
+      "evidence": "终检：check_academic --strict 0 硬错误、check_summary 本文件无差异、check_math 0；成稿 381 行，27 个标题与源一一对应；门禁残余红点（o/ockham H1、tools/check_images 未跟踪）属他会话在途"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LMN-main-20261107",
+      "at": "2026-11-07T14:38:41Z",
+      "evidence": "done：九步齐（clear/draft/s1/s2/s3/r1/r2/r3/done），107 段账本双版全填，M 批 done 5→6"
     }
   ],
   "blockers": [],
