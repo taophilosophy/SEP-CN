@@ -2,7 +2,7 @@
   "slug": "obligationes",
   "kind": "retranslate",
   "zh_doc": "o/obligationes.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "OR-main-20261106",
       "at": "2026-11-07T00:38:49Z",
       "evidence": "三校：check_style --strict 0 issue；check_academic 硬错误 0；check_terms 硬错误 0（新登记 13 行无冲突，140 条缺原文告警为他会话既存项）；check_prose 0；check_all 7/7 全绿；markdownlint 该文件 0 issue。结构：标题 14 个与源逐级对应（H1+5 节+References 及 3 小节+学术工具+其他网络资源+相关词条；源『## Notes（原文脚注）』按流水线体例并入『## 脚注』区）；两张表格 8 行完整；脚注 82 定义/32 引用，未定义项仅工具样板 [^key]。体量 7,502 汉字 / 43,822 字节。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T00:39:11Z",
+      "evidence": "复审 r1：①人名核对——瓦尔特·伯利/罗杰·斯温舍德/罗伯特·埃兰/威廉·奥卡姆/威尼斯的保罗/约翰·布里丹/邓斯·司各脱/达契亚的波爱修/理查德·基尔文顿/威尼斯的保罗，逐一对源文拼写与身份说明核验；②引文核对——伯利『有用规则』『当设定一个假的偶然命题时…』（Kretzmann and Stump 1988, 394/391）、基尔文顿 S47 各处（(q)(bb)(cc)(t)，Kretzmann & Kretzmann 1990b 127–8/128/131）、斯温舍德（Spade 1977, 254/257/274）、匿名《义务术》（Kretzmann & Stump 1985）、威尼斯的保罗（Ashworth 1988, 32）、Read 2020 逐条对读；③发现并修正结构隐患：全文『义务论』与伦理学『义务论』(deontology) 同形，改『义务理论』66 处；④lq 守恒 90 段、风格/学术/术语全绿。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T01:09:57Z",
+      "evidence": "r2 冷置复审（与 r1 之间隔 occasionalism 全流程）：①抽核 5 段回原文（21/44/58/77/85），伯利六规则、D1/D2 两表、斯温舍德三元组、苏格拉底驳诘对照均与源一致；②发现并修术语改形遗留：全文『义务论』→『义务理论』时产生『义务理论技术』13 处（补『的』）、『义务理论著』6 处（改『义务理论的论著』），并破由此新增的一处「的」链；③译名对齐 SUMMARY/发布侧：达契亚的波爱修 → 达西亚的波爱修斯（2 处）；④prose 复归 0，check_all 7/7。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T01:09:58Z",
+      "evidence": "r3 终校：标题 14 个与源逐级对应（H1+5 节+References 3 小节+学术工具+其他网络资源+相关词条；源 Notes 并入『## 脚注』）；两张论辩表 8 行齐备；脚注 82 定义/32 引用；体量 7,514 汉字 / 43.8KB；check_all 7/7 全绿、markdownlint 0 issue。收口 done。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T01:09:58Z",
+      "evidence": "九步闭环：o/obligationes.md 六检全绿 + check_all 7/7；90 段双版账本齐全；术语 13 行、人名（含达西亚的波爱修斯）在案。"
     }
   ],
   "blockers": [],
