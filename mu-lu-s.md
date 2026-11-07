@@ -123,7 +123,7 @@ outline: [1, 6]
 
 ## 教父哲学与早期经院哲学（100-700）
 
-* [艾尔伯图斯·麦格努斯（大阿尔伯特）Albert the Great \[= Albertus magnus\] (Bruno Tremblay)](a/albert-great.md)
+* [大阿尔伯特 Albert the Great (Bruno Tremblay)](a/albert-great.md)
 * [希波的奥古斯丁 Augustine of Hippo (Christian Tornau)](a/augustine.md)
 * [伪狄奥尼修斯 Pseudo-Dionysius the Areopagite (Kevin Corrigan and L. Michael Harrington)](p/pseudo-dionysius-areopagite.md)
 * [约翰内斯·司各特·爱留根纳 Eriugena, John Scottus (Dermot Moran and Adrian Guiu)](s/scottus-eriugena.md)
@@ -348,11 +348,11 @@ outline: [1, 6]
     * [先验论证 transcendental arguments (Robert Stern and Tony Cheng)](t/transcendental-arguments.md)
     * [先验证成与先验知识 a priori justification and knowledge (Bruce Russell)](a/apriori.md)
     * [康德的先验论证 transcendental arguments (Derk Pereboom)](k/kant-transcendental.md)
-  * [康德对理性的论述 account of reason (Garrath Williams)](k/kant-reason.md)
+  * [康德对理性的论述 Kant’s Account of Reason (Garrath Williams)](k/kant-reason.md)
   * [康德式概念主义/非概念主义 Kantian Conceptualism/Nonconceptualism](k/kant-conceptualism.md)
   * [康德对形而上学的批判 critique of metaphysics (Michelle Grier)](k/kant-metaphysics.md)
   * [康德和休谟论因果关系 and Hume on causality (Graciela De Pierris and Michael Friedman)](k/kant-hume-causality.md)
-  * [康德和休谟论道德 and Hume on morality (Eric Entrican Wilson and Lara Denis)](k/kant-hume-morality.md)
+  * [康德和休谟论道德 Kant and Hume on Morality (Eric Entrican Wilson and Lara Denis)](k/kant-hume-morality.md)
     * [康德的道德哲学 moral philosophy (Robert Johnson and Adam Cureton)](k/kant-moral.md)
   * [康德的数学哲学 Kant's Philosophy of Mathematics (Lisa Shabel)](k/kant-mathematics.md)
   * [康德的宗教哲学 philosophy of religion (Lawrence Pasternack and Courtney Fugate)](k/kant-religion.md)
@@ -434,7 +434,7 @@ outline: [1, 6]
   * [尼采的生平与著作 life and works (Robert Wicks)](n/nietzsche-life-works.md)
   * [尼采的伦理与政治哲学 moral and political philosophy (Brian Leiter)](n/nietzsche-moral-political.md)
   * [尼采的美学 Nietzsche’s Aesthetics (Timothy Stoll)](n/nietzsche-aesthetics.md)
-* [索伦·克尔凯郭尔 Kierkegaard, Søren (John Lippitt and C. Stephen Evans)](k/kierkegaard.md)
+* [索伦·克尔凯郭尔 Søren Kierkegaard (John Lippitt and C. Stephen Evans)](k/kierkegaard.md)
 * [威廉·狄尔泰 Dilthey, Wilhelm (Rudolf Makkreel)](d/dilthey.md)
 * [功利主义史 history of (Julia Driver)](u/utilitarianism-history.md)
 * [杰里米·边沁 Bentham, Jeremy (James E. Crimmins)](b/bentham.md)
@@ -797,7 +797,7 @@ outline: [1, 6]
 
 * [韩国哲学 Korean Philosophy (Halla Kim)](k/korean-philosophy.md)
 * [韩国儒学 Confucianism (Kevin N. Cawley)](k/korean-confucianism.md)
-* [韩国佛教 Buddhism (Lucy Hyekyung Jee)](k/korean-buddhism.md)
+* [韩国佛教 Korean Buddhism (Lucy Hyekyung Jee)](k/korean-buddhism.md)
 
 ## 拉丁美洲哲学
 
@@ -830,7 +830,7 @@ outline: [1, 6]
 * [阿拉伯和伊斯兰哲学中的希腊文献 Greek sources (Cristina D’Ancona)](a/arabic-islamic-greek.md)
 * [阿拉伯和伊斯兰哲学对犹太思想的影响 influence of Arabic and Islamic Philosophy on Judaic thought (Mauro Zonta and Charles Manekin)](a/arabic-islamic-judaic.md)
 * [阿拉伯和伊斯兰哲学对西方拉丁世界的影响 influence of Arabic and Islamic Philosophy on the Latin West (Dag Nikolaus Hasse)](a/arabic-islamic-influence.md)
-* [阿拉伯和伊斯兰哲学中的神秘主义 mysticism (Mehdi Aminrazavi)](a/arabic-islamic-mysticism.md)
+* [阿拉伯和伊斯兰哲学中的神秘主义 Mysticism in Arabic and Islamic Philosophy (Mehdi Aminrazavi)](a/arabic-islamic-mysticism.md)
 * [阿拉伯和伊斯兰思想中的因果关系 in Arabic and Islamic thought (Kara Richardson)](a/arabic-islamic-causation.md)
 * [伊本·阿拉比 Ibn ‘Arabî (William Chittick)](i/ibn-arabi.md)
 * [伊本·泰米叶 Ibn Taymiyya (Jon Hoover)](i/ibn-taymiyya.md)
@@ -1127,10 +1127,10 @@ outline: [1, 6]
 
 * [元认识论 metaepistemology (J. Adam Carter and Ernest Sosa)](m/metaepistemology.md)
 * [模态认识论 epistemology of (Antonella Mallozzi, Anand Vaidya, and Michael Wallner)](m/modality-epistemology.md)
-* [知识的分析 analysis of (Jonathan Ichikawa and Matthias Steup)](k/knowledge-analysis.md)
+* [知识的分析 The Analysis of Knowledge (Jonathan Ichikawa and Matthias Steup)](k/knowledge-analysis.md)
 * [结构理性 structural (Benjamin Kiesewetter and Alex Worsnip)](r/rationality-structural.md)
 * [认识论上的自我怀疑 self-doubt, epistemic (Sherrilyn Roush)](e/epistemic-self-doubt.md)
-  * [知识的价值 knowledge, value of (Duncan Pritchard, John Turri, and J. Adam Carter)](k/knowledge-value.md)
+  * [知识的价值 The Value of Knowledge (Duncan Pritchard, John Turri, and J. Adam Carter)](k/knowledge-value.md)
 * [分歧 disagreement (Bryan Frances and Jonathan Matheson)](d/disagreement.md)
 * [社会认识论 social (Cailin O’Connor, Sanford Goldberg, and Alvin Goldman)](e/epistemology-social.md)
 * [知识证成的融贯论 Coherentist Theories of Epistemic Justification (Erik Olsson)](j/justep-coherence.md)

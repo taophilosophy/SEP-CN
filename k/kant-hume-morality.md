@@ -1,4 +1,4 @@
-# 康德和休谟论道德 Kant and Hume on Morality
+# 康德和休谟论道德 Kant and Hume on Morality (Eric Entrican Wilson and Lara Denis)
 
 
 

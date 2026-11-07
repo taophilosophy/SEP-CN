@@ -1,4 +1,4 @@
-# 索伦·克尔凯郭尔 Søren Kierkegaard
+# 索伦·克尔凯郭尔 Søren Kierkegaard (John Lippitt and C. Stephen Evans)
 
 
 

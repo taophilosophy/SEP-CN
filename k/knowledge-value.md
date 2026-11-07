@@ -1,4 +1,4 @@
-# 知识的价值 The Value of Knowledge
+# 知识的价值 The Value of Knowledge (Duncan Pritchard, John Turri, and J. Adam Carter)
 
 
 

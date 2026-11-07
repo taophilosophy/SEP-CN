@@ -1,4 +1,4 @@
-# 知识的分析 The Analysis of Knowledge
+# 知识的分析 The Analysis of Knowledge (Jonathan Ichikawa and Matthias Steup)
 
 
 
