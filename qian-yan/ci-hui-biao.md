@@ -398,7 +398,7 @@
 |Øystein Linnebo|林内博|数学哲学；首现括注|
 |īśvara|自在天|亦作“自在”；印度哲学|
 |Jacques Lacan|雅克·拉康|精神分析哲学|
-|Jacques Maritain|雅克·马里旦|托马斯主义|
+|Jacques Maritain|雅克·马里坦|托马斯主义|
 |Jaegwon Kim|金在权|心灵哲学|
 |Jan Łukasiewicz|扬·卢卡西维茨|多值逻辑/华沙学派|
 |Jason Stanley|杰森·斯坦利|语言哲学/知识论（宣言之知）|
