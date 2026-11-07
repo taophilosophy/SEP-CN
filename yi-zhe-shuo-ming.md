@@ -105,6 +105,7 @@
 | full moral status | — | 完全道德地位 | 语料回收（标题词） | 学界惯例（生命伦理学通行）；凭证 2026-11-01 | 2026-11-01 |
 | Flynn effect | — | 弗林效应 | 语料回收（lakatos 首译） | 心理学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | falsificationism | — | 证伪主义 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| fundamental feeling | — | 基本感觉 | antonio-rosmini | 罗斯米尼心理学核心术语（sentimento fondamentale） | 2026-11-07 |
 | general ability | — | 一般能力 | 语料回收（标题词） | 学界惯例（能力哲学（与特殊能力相对））；凭证 2026-11-01 | 2026-11-01 |
 | genetic drift | — | 遗传漂变 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | genetic information | — | 遗传信息 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -122,6 +123,7 @@
 | Hungarian Uprising | — | 匈牙利起义 | 语料回收（lakatos 首译） | 史学界通行译法（1956）；凭证 2026-11-06 | 2026-11-06 |
 | hypocrisy | — | 伪善 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Hypothetical Reasoning | — | 假说推理 | 语料回收（标题词） | 学界惯例（皮尔士溯因语境（abduction 词条））；凭证 2026-11-01 | 2026-11-01 |
+| idea of being | — | 存在观念 | antonio-rosmini | 罗斯米尼核心术语（idea dell'essere） | 2026-11-07 |
 | ill will | — | 恶意 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | incipit/desinit | incipit/desinit | 开始存在／停止存在 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | inconstruable question | — | 不可建构的问题 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -134,10 +136,13 @@
 | ideology | — | 意识形态 | law-ideology | 学界通行译法（马克思主义/政治哲学通行）；凭证 2026-11-03 | 2026-11-03 |
 | internal/external history | — | 内部史／外部史 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | introgression | — | 基因渗入 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| intuition of being | — | 对存在的直观 | antonio-rosmini | 罗斯米尼认识论核心（intuizione dell'essere） | 2026-11-07 |
+| jural | — | 法权的 | antonio-rosmini | 法哲学通行（与 legal 法律的区分） | 2026-11-07 |
 | juridicalisation of politics | — | 政治的司法化 | law-ideology | 学界惯例（作者 Sypnowich 自铸术语，直译+括注）；凭证 2026-11-03 | 2026-11-03 |
 | kaozhengxue | 考證學 | 考证学 | dai-zhen | 清代学术史通行译名（梁启超《清代学术概论》语；英 evidential learning）；凭证 2026-11-07 | 2026-11-07 |
 | kin selection | — | 亲缘选择 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | latency | — | 潜隐 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| law of the least means | — | 最小手段律 | antonio-rosmini | 罗斯米尼神义论术语（lex minimi medii） | 2026-11-07 |
 | Lazy Argument | — | 懒惰论证 | dialectical-school | 学界通行（“懒惰论证”通行译法）；凭证 2026-11-07 | 2026-11-07 |
 | Liujing zaidao | 六經載道 | 六经载道 | dai-zhen | 上游自带汉字；儒学通行命题（英 the Six Classics convey the dao）；凭证 2026-11-07 | 2026-11-07 |
 | liyi | 理義 | 理义 | dai-zhen | 上游自带汉字；戴震承《孟子》原词（英 pattern and right）；凭证 2026-11-07 | 2026-11-07 |
@@ -177,6 +182,7 @@
 | Not-Yet (das Noch-Nicht) | — | 尚未 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | Not-Yet-Conscious (das Noch-Nicht-Bewusste) | — | 尚未意识 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | novum | — | 新奇者（novum） | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| objectivity | — | 客观性 | antonio-rosmini | 认识论通行 | 2026-11-07 |
 | ontology of the unfinished | — | 未完成者本体论 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | opprobrium | — | 谴责 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | optimality model | — | 最优性模型 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -188,6 +194,7 @@
 | parsimony | — | 简约法 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | partinost | партийность | 党性 | 语料回收（lakatos 首译） | 苏联文艺学界通行译法（俄文 партийность）；凭证 2026-11-06 | 2026-11-06 |
 | paraconsistency | — | 弗协调性 | 语料回收（lakatos 首译） | 逻辑学界通行译法（亦作“次协调”）；凭证 2026-11-06 | 2026-11-06 |
+| philosophia perennis | — | 常青哲学 | antonio-rosmini | 中世纪—文艺复兴哲学传统通行（与 philosophia perennis 拉丁原形并列） | 2026-11-07 |
 | phosphene | — | 光幻视 | 语料回收（molyneux-problem 首译） | 视觉科学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | per se predication | per se predication | 自身谓述 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法（per se 通译“自身”）；凭证 2026-11-06 | 2026-11-06 |
 | Petőfi Circle | Petőfi Circle | 裴多菲俱乐部 | 语料回收（lakatos 首译） | 1956 年匈牙利事件史学界通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -206,6 +213,7 @@
 | primary/secondary intention | — | 第一意向／第二意向 | 语料回收（marsilius-inghen 首译） | 中世纪哲学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | projective geometry | — | 射影几何 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | quietism | — | 寂静主义 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| rational theology | — | 理性神学 | antonio-rosmini | 沃尔夫式形而上学分科通行 | 2026-11-07 |
 | reactive attitudes | — | 反应性态度 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | real possibility | — | 实在可能性 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | Reaper Argument | θερίζων λόγος | 收割者论证 | dialectical-school | 学界通行（阿莫尼俄斯所记决定论论证）；凭证 2026-11-07 | 2026-11-07 |
@@ -241,6 +249,7 @@
 | selected effects (theory of function) | — | 选择效果 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | self-blame | — | 自我责备 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | semantic information | — | 语义信息 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| sensationalism | — | 感觉主义 | antonio-rosmini | 近代认识论通行（与 sensism 感觉论区别） | 2026-11-07 |
 | sensory substitution device (SSD) | — | 感官替代设备 | 语料回收（molyneux-problem 首译） | 认知科学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | shengsheng | 生生 | 生生 | dai-zhen | 上游自带汉字；儒学通行（生生不息，英 flourishing of life）；凭证 2026-11-07 | 2026-11-07 |
 | shu | 恕 | 恕 | dai-zhen | 儒家通行（恕道；英 sympathetic consideration，“消极金律”所本）；凭证 2026-11-07 | 2026-11-07 |
@@ -267,6 +276,8 @@
 | teleonomy | — | 目的性 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | teleosemantics | — | 目的语义学 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | tendency (Tendenz) | — | 趋势 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| theodicy | — | 神义论 | antonio-rosmini | 莱布尼茨以降通行 | 2026-11-07 |
+| theosophy | — | 神智学 | antonio-rosmini | 罗斯米尼《Teosofia》书名定译（与神智学协会 theosophy 同形异指） | 2026-11-07 |
 | tianli | 天理 | 天理 | dai-zhen | 宋明理学通行术语（戴震“自然之分理”义）；凭证 2026-11-07 | 2026-11-07 |
 | tiaoli | 條理 | 条理 | dai-zhen | 上游自带汉字；戴震术语（英 good order）；凭证 2026-11-07 | 2026-11-07 |
 | Two Visual Systems Model | — | 双视觉系统模型 | 语料回收（molyneux-problem 首译） | 认知科学界通行译法（Goodale–Milner）；凭证 2026-11-06 | 2026-11-06 |
@@ -840,6 +851,47 @@
 | total significate | total significate | 总意谓 | 首现（crathorn） | 中世纪语义学研究通行译法（complexe significabile 关联；Tachau 研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | mental language | — | 心理语言 | 首现（crathorn） | 中世纪逻辑与语言哲学通行译法（Ockham 研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | quodlibetal questions | quaestiones quodlibetales | 自由论题 | 首现（crathorn） | 中世纪大学辩论体 quodlibet 通行译法（亦作“自由论辩问题”备查）；凭证 2026-11-07 | 2026-11-07 |
+| sovereignty | — | 主权 | s/sovereignty 首译（标题词） | 学界通行译名（政治学／国际法核心术语，SUMMARY 既名）；凭证 2026-11-07 | 2026-11-07 |
+| sovereign state | — | 主权国家 | s/sovereignty 首译 | 学界通行译名（政治学／国际关系通行）；凭证 2026-11-07 | 2026-11-07 |
+| sovereign states system | — | 主权国家体系 | s/sovereignty 首译 | 学界通行译名（国际关系研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| supreme authority | — | 最高权威 | s/sovereignty 首译 | 学界通行译名（政治哲学通行）；凭证 2026-11-07 | 2026-11-07 |
+| territoriality | — | 领土性 | s/sovereignty 首译 | 学界通行译名（主权研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| circumscription (of sovereignty) | — | 限缩（对主权的限缩） | s/sovereignty 首译 | 学界通行译法（国际法语境“限缩”）；凭证 2026-11-07 | 2026-11-07 |
+| non-intervention | — | 不干涉 | s/sovereignty 首译 | 学界通行译名（《联合国宪章》通行“不干涉内政”）；凭证 2026-11-07 | 2026-11-07 |
+| Responsibility to Protect | — | 保护的责任 | s/sovereignty 首译 | 联合国官方中译（ICISS 2001 报告既名）；凭证 2026-11-07 | 2026-11-07 |
+| European integration | — | 欧洲一体化 | s/sovereignty 首译 | 学界通行译名（欧洲研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| humanitarian intervention | — | 人道主义干预 | s/sovereignty 首译 | 学界通行译名（国际法／政治学通行）；凭证 2026-11-07 | 2026-11-07 |
+| national self-determination | — | 民族自决 | s/sovereignty 首译 | 学界通行译名（国际法通行）；凭证 2026-11-07 | 2026-11-07 |
+| irredentism | — | 民族统一主义（亦作“领土收复主义”） | s/sovereignty 首译 | 学界通行译名（民族研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| body politic | — | 政治体 | s/sovereignty 首译 | 学界通行译名（政治思想史研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| corpus naturale / corpus mysticum | corpus mysticum | 自然体／奥秘体（拉丁原词保留斜体） | s/sovereignty 首译 | 学界通行译法（中世纪政治神学与圣体神学研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| consecrated host | — | 圣体 | s/sovereignty 首译 | 学界通行译法（天主教神学通行）；凭证 2026-11-07 | 2026-11-07 |
+| raison d’état | raison d’état | 国家理性（法文原词保留斜体） | s/sovereignty 首译 | 学界通行译法（近代国家研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| cuius regio, eius religio | cuius regio, eius religio | 教随国定（拉丁原词保留斜体） | s/sovereignty 首译 | 学界通行译法（宗教改革研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| Erastianism | — | 埃拉斯图主义 | s/sovereignty 首译 | 学界惯例（宗教改革研究通行，Erastus 埃拉斯图斯学说，主张教会从属于国家）；凭证 2026-11-07 | 2026-11-07 |
+| excommunication | — | 绝罚（亦作“开除教籍”） | s/sovereignty 首译 | 学界通行译法（天主教法通行）；凭证 2026-11-07 | 2026-11-07 |
+| Leviathan | — | 利维坦 | s/sovereignty 首译 | 学界通行译名（霍布斯研究通行，黎思复译本既名）；凭证 2026-11-07 | 2026-11-07 |
+| general will | — | 公意 | s/sovereignty 首译 | 学界通行译名（卢梭研究通行，何兆武译本既名）；凭证 2026-11-07 | 2026-11-07 |
+| external / internal sovereignty | — | 对外主权／对内主权 | s/sovereignty 首译 | 学界通行译法（国际法与国际关系研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| constitutional independence | — | 宪制独立 | s/sovereignty 首译 | 学界通行译法（国际关系研究通行，Alan James 术语）；凭证 2026-11-07 | 2026-11-07 |
+| anarchy（国际关系） | — | 无政府状态（国际关系语境；与 anarchism 无政府主义分义） | s/sovereignty 首译 | 学界通行译法（国际关系理论通行）；凭证 2026-11-07 | 2026-11-07 |
+| pooled sovereignty | — | 汇集主权 | s/sovereignty 首译 | 学界通行译法（欧洲一体化研究通行，Keohane/Hoffmann 语境）；凭证 2026-11-07 | 2026-11-07 |
+| supranational | — | 超国家的 | s/sovereignty 首译 | 学界通行译法（欧洲研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| ancien régime | ancien régime | 旧制度（法文原词保留斜体） | s/sovereignty 首译 | 学界通行译法（法国史研究通行，托克维尔译本既名）；凭证 2026-11-07 | 2026-11-07 |
+| vox populi | vox populi | 人民之声（拉丁原词保留斜体） | s/sovereignty 首译 | 学界惯例（拉丁语通行）；凭证 2026-11-07 | 2026-11-07 |
+| The King’s Two Bodies | — | 《国王的两个身体》（康托洛维茨 1957） | s/sovereignty 首译 | 学界通行译名（中译本既名）；凭证 2026-11-07 | 2026-11-07 |
+| De la république | De la république | 《国家六论》（法文原词保留斜体，博丹 1576） | s/sovereignty 首译 | 学界通行译名（萨拜因《政治学说史》中译通行）；凭证 2026-11-07 | 2026-11-07 |
+| Man and the State | — | 《人和国家》（马里坦 1951） | s/sovereignty 首译 | 学界通行译名（商务印书馆中译本既名）；凭证 2026-11-07 | 2026-11-07 |
+| The Right of Sovereignty | — | 《主权之权利》（丹尼尔·李 2021） | s/sovereignty 首译 | 构词直译，无中译本，待 specs/008 审定库复核；凭证 2026-11-07 | 2026-11-07 |
+| Sovereignty: An Inquiry Into the Political Good | — | 《主权：对政治善的探究》（茹弗内尔 1957） | s/sovereignty 首译 | 构词直译，无中译本，待 specs/008 审定库复核；凭证 2026-11-07 | 2026-11-07 |
+| Peace of Westphalia | — | 威斯特伐利亚和约（和会语境作“威斯特伐利亚和会”） | s/sovereignty 首译 | 学界通行译名（近代早期欧洲史通行）；凭证 2026-11-07 | 2026-11-07 |
+| Peace of Augsburg | — | 奥格斯堡和约 | s/sovereignty 首译 | 学界通行译名（宗教改革研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| Universal Declaration of Human Rights | — | 《世界人权宣言》 | s/sovereignty 首译 | 联合国官方中译；凭证 2026-11-07 | 2026-11-07 |
+| Genocide Convention | — | 《灭绝种族罪公约》（正式名《防止及惩治灭绝种族罪公约》） | s/sovereignty 首译 | 联合国官方中译；凭证 2026-11-07 | 2026-11-07 |
+| Covenant on Civil and Political Rights | — | 《公民权利和政治权利国际公约》 | s/sovereignty 首译 | 联合国官方中译；凭证 2026-11-07 | 2026-11-07 |
+| Covenant on Economic, Social and Cultural Rights | — | 《经济、社会及文化权利国际公约》 | s/sovereignty 首译 | 联合国官方中译；凭证 2026-11-07 | 2026-11-07 |
+| European Convention for the Protection of Human Rights and Fundamental Freedoms | — | 《保护人权与基本自由公约》 | s/sovereignty 首译 | 学界通行译名（欧洲人权公约正式名，国际法通行）；凭证 2026-11-07 | 2026-11-07 |
+| European Coal and Steel Community | — | 欧洲煤钢共同体 | s/sovereignty 首译 | 学界通行译名（欧洲研究通行）；凭证 2026-11-07 | 2026-11-07 |
 
 ## 伊斯兰阿拉伯术语（ADR-0013 种子区，2026-10-28）
 
@@ -1829,7 +1881,7 @@
 | prasaṅga | — | 归谬论式 | jayaraasi | 学界惯例（中观学“归谬”；与“自立论证”svatantra 相对） | 2026-11-07 |
 | vitaṇḍā | — | 只破不立之辩 | jayaraasi | 正理派辩论分类通行译法（与 vāda 真辩相对） | 2026-11-07 |
 | catuṣ-koṭi | — | 四句 | jayaraasi | 因明与中观学传统译名（有、无、亦有亦无、非有非无） | 2026-11-07 |
-| pratyakṣa（知觉义） | — | 知觉 | jayaraasi | j/jayaraasi 行文作“知觉”并括注 pratyakṣa；与表内 pratyakṣa=现量（量目义）分工 | 2026-11-07 |
+| pratyakṣa（感官知觉义） | — | 知觉（现量） | jayaraasi | j/jayaraasi 体例：作量目/认知凭据者作“现量”，作感官知觉活动者作“知觉”，随文括注原词 | 2026-11-07 |
 | upamāna | — | 譬喻量 | jayaraasi | 因明六量传统译名（与义准量 arthāpatti 同系） | 2026-11-07 |
 | abhāva | — | 无体量 | jayaraasi | 因明传统译名（依缺席之否定证） | 2026-11-07 |
 | sambhāva | — | 相等量 | jayaraasi | 印度量论通行译法 | 2026-11-07 |

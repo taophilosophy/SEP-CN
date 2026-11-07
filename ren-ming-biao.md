@@ -112,6 +112,7 @@
 | Copernicus, Nicolaus | — | 尼古拉·哥白尼 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Cordemoy, Géraud de | Géraud de Cordemoy | 热罗·德·科尔德穆瓦 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Cornel West | — | 康奈尔·韦斯特 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Cousin, Victor | — | 维克多·库桑 | antonio-rosmini | 法国折衷主义通行音译 | 2026-11-07 |
 | Crates | — | 克拉特斯 | 首现（timon-phlius） | 学界通行汉译（犬儒派哲学家，讽刺诗作者）；凭证 2026-11-07 | 2026-11-07 |
 | Crathorn, William | — | 威廉·克雷索恩 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Cremonini, Cesare | — | 克雷莫尼尼 | duhem | 学界惯例（文艺复兴哲学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
@@ -199,6 +200,7 @@
 | Gómez Pereira | Gómez Pereira | 戈麦斯·佩雷拉 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Gottlob Frege | — | 戈特洛布·弗雷格 | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
 | Halevi, Judah | — | 犹大·哈列维 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
+| Hamilton, William | — | 威廉·汉密尔顿 | antonio-rosmini | 苏格兰哲学家通行音译（与联邦党人汉密尔顿分立） | 2026-11-07 |
 | Hans Hahn | — | 汉斯·哈恩 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Hao Wang | — | 王浩 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Hare, Richard Mervyn | — | 理查德·默尔文·黑尔 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
@@ -232,7 +234,7 @@
 | Ibn Zaddiq | Ibn Zaddiq | 伊本·扎迪克 | abraham-daud | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Iṣfahānī, Ibn Turkah | — | 伊本·图尔卡·伊斯法哈尼 | arabic-islamic-mysticism | 照明哲学史通行音译 | 2026-11-07 |
 | Jacques Lacan | — | 雅克·拉康 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
-| Jacques Maritain | — | 雅克·马里旦 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Jacques Maritain | — | 雅克·马里旦（已废弃，见新行） | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；2026-11-07 改从 SUMMARY 站点定名“马里坦”（m/maritain 既名） | 2026-10-31 |
 | Jaegwon Kim | — | 金在权 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | James Ward | — | 詹姆斯·沃德 | 语料回收（全目录） | 学界惯例（英国观念论心理学家）；凭证 2026-11-01 | 2026-11-01 |
 | Jameson, Fredric | — | 弗雷德里克·詹姆逊 | bloch | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
@@ -277,6 +279,7 @@
 | Kāshānī, Mullā Muḥsin Fayḍ | — | 费兹·卡沙尼 | arabic-islamic-mysticism | 萨德拉学派通行音译 | 2026-11-07 |
 | Lambert of Auxerre | — | 欧塞尔的兰伯特 | 首现（william-sherwood） | 学界通行汉译；SUMMARY 定名沿用（l/lambert-auxerre）；凭证 2026-11-07 | 2026-11-07 |
 | Lao Tzu | — | 老子 | 首现（wisdom） | 学界通行汉译（道家创始人）；凭证 2026-11-07 | 2026-11-07 |
+| Leo XIII | — | 利奥十三世 | antonio-rosmini | 教宗通行汉译 | 2026-11-07 |
 | Leon Henkin | — | 莱昂·亨金 | 语料回收（全目录） | 学界惯例（逻辑学家（Henkin 语义））；凭证 2026-11-01 | 2026-11-01 |
 | La Mettrie, Julien Offray de | — | 拉美特利 | 语料回收（molyneux-problem 首译） | 学界通行汉译（法国启蒙唯物主义者，学界惯例省略教名）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Leopoldo Zea | — | 莱奥波尔多·塞亚 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -329,6 +332,7 @@
 | Philoponus, John | — | 菲洛波努斯（亦作“菲洛波诺斯”） | duhem；democritus | 学界惯例（古典晚期哲学家通行汉译；democritus 行同键异译并入亦作，2026-11-06 冲突消解）；凭证 2026-11-06 | 2026-11-06 |
 | Penrose, Roger | — | 彭罗斯 | 语料回收（mathematics-inconsistent 首译） | 数学物理界通行汉译（彭罗斯三角）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Picard, Emile | — | 埃米尔·皮卡尔 | duhem | 学界惯例（数学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
+| Pius VII | — | 庇护七世 | antonio-rosmini | 教宗通行汉译 | 2026-11-07 |
 | Prior, Arthur | — | 阿瑟·普赖尔 | dialectical-school | SUMMARY 定名沿用（逻辑学家，主论证重构者）；凭证 2026-11-07 | 2026-11-07 |
 | Putnam, Hilary | — | 普特南 | 首现（truth-coherence） | 学界通行汉译（分析哲学；真理与实在论）；凭证 2026-11-07 | 2026-11-07 |
 | Pyrrho | — | 皮浪 | 首现（timon-phlius） | 学界通行汉译（伊利斯人，古希腊怀疑论开创者）；SUMMARY 定名；凭证 2026-11-07 | 2026-11-07 |
@@ -337,6 +341,7 @@
 | Rescher, Nicholas | — | 雷谢尔 | 首现（truth-coherence） | 学界通行汉译（美国哲学家；融贯论批评者）；凭证 2026-11-07 | 2026-11-07 |
 | Roger B. Taney | — | 罗杰·B·坦尼 | alexander-crummell | 美国首席大法官通行汉译（叙述处作坦尼） | 2026-11-07 |
 | Rosenberg, Alexander | — | 亚历山大·罗森伯格 | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| Rosmini, Antonio | — | 安东尼奥·罗斯米尼 | antonio-rosmini | SUMMARY 定名沿用（本词条主词） | 2026-11-07 |
 | Ruse, Michael | — | 迈克尔·鲁斯 | biology-philosophy | 学界通行汉译（《达尔文主义》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Rákosi, Mátyás | Mátyás Rákosi | 拉科西 | 语料回收（lakatos 首译） | 学界通行汉译（匈牙利共产党领袖）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Polanyi, Michael | — | 波兰尼 | 语料回收（lakatos 首译） | 学界通行汉译（《个人知识》作者，科学哲学家与经济学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
@@ -392,6 +397,7 @@
 | Smart, J. J. C. | — | J. J. C. 斯马特 | biology-philosophy | 学界通行汉译（《功利主义：赞成与反对》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Solomon | — | 所罗门 | 首现（wisdom） | 学界通行汉译（圣经智慧传统）；凭证 2026-11-07 | 2026-11-07 |
 | Spinoza | — | 斯宾诺莎 | 首现（truth-coherence） | 学界千年通行汉译（17 世纪荷兰哲学家）；凭证 2026-11-07 | 2026-11-07 |
+| Stewart, Dugald | — | 杜格尔德·斯图尔特 | antonio-rosmini | 苏格兰常识学派通行音译 | 2026-11-07 |
 | Stilpo | — | 斯提尔波 | 首现（timon-phlius） | 学界通行汉译（麦加拉学派哲学家）；凭证 2026-11-07 | 2026-11-07 |
 | Strabo | — | 斯特拉波 | 首现（timon-phlius） | 学界通行汉译（古希腊地理学家）；凭证 2026-11-07 | 2026-11-07 |
 | Susan Moller Okin | — | 苏珊·莫勒·奥金 | law-ideology | 学界通行汉译（女性主义政治哲学家）；待 specs/008 审定库复核 | 2026-11-03 |
@@ -1279,7 +1285,6 @@
 | Bernard of Arezzo | — | 阿雷佐的伯纳德 | autrecourt | 学界通行（方济各会神学家，奥特古通信对手） | 2026-11-06 |
 | Curti, (Cardinal) | — | 库尔蒂枢机 | autrecourt | 音译（审判法官，埃利亚的彼得·库尔蒂枢机） | 2026-11-06 |
 | Gregory of Rimini | — | 里米尼的格里高利 | autrecourt | 学界通行（奥古斯丁会会长，complexe significabile 学说） | 2026-11-06 |
-| Marsilius of Padua | — | 帕多瓦的马西利乌斯 | autrecourt | 学界通行（《和平的保卫者》作者） | 2026-11-06 |
 | Marsilius of Inghen | — | 因根的马西利乌斯（亦作“因亨的马西利乌斯”） | autrecourt；SUMMARY m/marsilius-inghen.md | SUMMARY 定名优先（2026-11-06 修弱势方：原行作“因亨”，与 SUMMARY 不一致） | 2026-11-06 |
 | Tarteys, John | — | 约翰·塔蒂斯 | alyngton | 本词条首译（牛津实在论者，无通行汉名） | 2026-11-06 |
 | Whelpdale, Roger | — | 罗杰·惠尔普代尔 | alyngton | 本词条首译（牛津实在论者，无通行汉名） | 2026-11-06 |
@@ -1539,9 +1544,32 @@
 | Bṛhaspati | बृहस्पति | Bṛhaspati（保留原文） | jayaraasi | 汉译分歧（毗诃波提／婆罗门仙人），正文一律保留拉丁形不加汉译 | 2026-11-07 |
 | Akalaṅka Bhaṭṭa | अकलङ्क भट्ट | 阿迦楞迦·跋陀 | jayaraasi | 梵音自拟（耆那教天衣派论师，约 720–780）；Bhaṭṭa 从 kumaarila 词条 | 2026-11-07 |
 | Vidyānanda Pātrakesarisvāmin | विद्यानन्द | 毗提耶难陀 | jayaraasi | 梵音自拟（约 850，耆那教注家）；长名随文保留拉丁 | 2026-11-07 |
+| Kantorowicz, Ernst | — | 恩斯特·康托洛维茨 | sovereignty | 学界通行汉译（《国王的两个身体》中译本，与既有 Gertrud Kantorowicz 行同姓译法）；凭证 2026-11-07 | 2026-11-07 |
+| Wolff, R. P. | — | R. P. 沃尔夫 | sovereignty | 学界通行汉译（政治哲学研究通行“沃尔夫”，Robert Paul Wolff）；凭证 2026-11-07 | 2026-11-07 |
+| James, Alan | — | 艾伦·詹姆斯 | sovereignty | 学界通行汉译（国际关系研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| Strayer, Joseph R. | — | J. R. 斯特雷耶 | sovereignty | 学界通行汉译（《现代国家的起源》中译本“斯特雷耶”）；凭证 2026-11-07 | 2026-11-07 |
+| Figgis, J. N. | — | J. N. 菲吉斯 | sovereignty | 学界通行汉译（教会史／政治思想史研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| Hinsley, F. H. | — | F. H. 欣斯利 | sovereignty | 学界通行汉译（国际关系史研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| Lee, Daniel | — | 丹尼尔·李 | sovereignty | 构词直译（政治理论家，无通行定译）；凭证 2026-11-07 | 2026-11-07 |
+| de Jouvenel, Bertrand | — | 贝特朗·德·茹弗内尔 | sovereignty | 学界通行汉译（政治社会学文献通行“茹弗内尔”，亦作“儒弗内尔”）；凭证 2026-11-07 | 2026-11-07 |
+| Gentili, Alberico | — | 阿尔贝里科·金蒂利 | sovereignty | 学界通行汉译（近代国际法奠基人通行）；凭证 2026-11-07 | 2026-11-07 |
+| Marsilius of Padua | — | 帕多瓦的马西利乌斯 | sovereignty、autrecourt（合并） | 学界通行汉译（《和平的保卫者》作者；与 marsilius-inghen“印根的马西利乌斯”别）；凭证 2026-11-07 | 2026-11-07 |
+| Benedict XVI | — | 本笃十六世 | sovereignty | 学界惯例（教宗通译，与既有本笃十二世行同系）；凭证 2026-11-07 | 2026-11-07 |
+| Innocent X | — | 英诺森十世 | sovereignty | 学界惯例（教宗通译）；凭证 2026-11-07 | 2026-11-07 |
+| Annan, Kofi | — | 科菲·安南 | sovereignty | 学界惯例（国际政要通译）；凭证 2026-11-07 | 2026-11-07 |
+| Putin, Vladimir | — | 弗拉基米尔·普京 | sovereignty | 学界惯例（国际政要通译）；凭证 2026-11-07 | 2026-11-07 |
+| Trump, Donald | — | 唐纳德·特朗普 | sovereignty | 学界惯例（国际政要通译）；凭证 2026-11-07 | 2026-11-07 |
+| Xi Jinping | — | 习近平 | sovereignty | 学界惯例（通名）；凭证 2026-11-07 | 2026-11-07 |
+| Krasner, Stephen D. | — | 斯蒂芬·克拉斯纳 | sovereignty | 学界通行汉译（国际关系研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| Keohane, Robert O. | — | 罗伯特·基欧汉 | sovereignty | 学界通行汉译（国际关系研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| Hoffmann, Stanley | — | 斯坦利·霍夫曼 | sovereignty | 学界通行汉译（国际关系研究通行；与既有 Adolph Friedrich Hoffmann 行同人名异人）；凭证 2026-11-07 | 2026-11-07 |
+| Pogge, Thomas | — | 托马斯·博格 | sovereignty | 学界通行汉译（全球正义研究通行“博格”）；凭证 2026-11-07 | 2026-11-07 |
+| Paris, Roland | — | 罗兰·帕里斯 | sovereignty | 构词直译（国际关系学者，无通行定译）；凭证 2026-11-07 | 2026-11-07 |
+| Maland, David | — | 大卫·马兰德 | sovereignty | 构词直译（17 世纪英格兰史家，无通行定译）；凭证 2026-11-07 | 2026-11-07 |
+| Jacques Maritain | — | 雅克·马里坦 | sovereignty | SUMMARY 定名对齐（m/maritain 站点级既名“雅克·马里坦”）；学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Anantavīrya | अनन्तवीर्य | 阿难陀维罗 | jayaraasi | 梵音自拟（《成就决择》注家） | 2026-11-07 |
 | Kamalaśīla | कमलशील | 莲花戒 | jayaraasi | 佛典古译传统译名（约 740–795，寂护弟子） | 2026-11-07 |
 | Malliṣeṇa | मल्लिषेण | 摩利舍那 | jayaraasi | 梵音自拟（约 1229，耆那教作者） | 2026-11-07 |
 | Bhāsarvajña | भासर्वज्ञ | 跋沙罗婆吉那 | jayaraasi | 梵音自拟（正理派论师） | 2026-11-07 |
 | Samantabhadra（耆那） | समन्तभद्र | 萨曼塔巴德拉 | jayaraasi | 梵音自拟；与佛教“普贤”别，故不取普贤 | 2026-11-07 |
-| Sextus Empiricus | — | 塞克斯图斯 | jayaraasi | 学界通行汉译（《皮浪学说纲要》作者） | 2026-11-07 |
+| Sextus Empiricus | — | 塞克斯都·恩披里柯 | jayaraasi | 沿用既有登记形（2026-10-30 行；《皮浪学说纲要》作者） | 2026-11-07 |
