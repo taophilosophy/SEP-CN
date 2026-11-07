@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-07 01:42（UTC）
+生成时间：2026-11-07 02:56（UTC）
 
 ## 总览
 
@@ -12,9 +12,9 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1020|
+|已建任务|1022|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|153|
+|已完成（done）|155|
 |在途（drafted 起、done 前）|246|
 |阻塞|0|
 
@@ -26,17 +26,17 @@
 |cleared|171|
 |drafted|3|
 |s3_checked|72|
-|done|153|
+|done|155|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|46|
+|A|160|160|160|47|
 |B|62|62|62|3|
 |C|172|172|172|3|
 |D|92|92|92|11|
-|E|99|99|99|9|
+|E|99|99|99|10|
 |F|96|96|96|0|
 |G|49|49|49|0|
 |H|61|61|61|7|
@@ -45,7 +45,7 @@
 |K|36|36|36|10|
 |L|144|144|19|18|
 |M|139|139|14|5|
-|N|50|50|2|0|
+|N|50|50|3|0|
 |O|21|21|8|6|
 |P|165|165|4|0|
 |Q|34|34|0|0|
@@ -54,7 +54,7 @@
 |T|71|71|4|0|
 |U|4|4|0|0|
 |V|15|15|0|0|
-|W|38|38|4|0|
+|W|38|38|5|0|
 |X|3|3|0|0|
 |Y|2|2|1|0|
 |Z|6|6|0|0|
@@ -81,7 +81,6 @@
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
-|albo-joseph|retranslate|cleared|task_ops 2026-11-07|
 |basing-epistemic|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bauer|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -183,7 +182,6 @@
 |emotion-Christian-tradition|retranslate|s3_checked|? 2026-11-03|
 |epictetus|retranslate|s3_checked|main 2026-11-01|
 |equal-ed-opportunity|retranslate|s3_checked|main 2026-11-01|
-|erasmus|retranslate|s3_checked|? 2026-11-03|
 |ethics-deontological|retranslate|s3_checked|? 2026-11-03|
 |film|retranslate|drafted|EH-main-20261106 2026-11-06|
 |frame-problem|retranslate|cleared|task_ops 2026-11-06|
@@ -304,8 +302,10 @@
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kumaarila|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
+|neoplatonism|retranslate|cleared|task_ops 2026-11-07|
 |rationalism-early-modern|retranslate|cleared|task_ops 2026-11-06|
 |sovereignty|retranslate|cleared|task_ops 2026-11-07|
 |timon-phlius|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
 |truth-coherence|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
-|william-sherwood|retranslate|cleared|task_ops 2026-11-07|
+|william-sherwood|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
+|wisdom|retranslate|cleared|task_ops 2026-11-07|
