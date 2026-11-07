@@ -121,46 +121,64 @@ segments:
     kind: body
     source: |-
       Concerns about non-existent objects or non-factual states of affairs are not explicit in Parmenides’ poem, though – unsurprisingly, the goddess does not give examples of what she is proscribing. This leaves room for other construals of ‘what is not’, such as the view that it always requires completion or specification as ‘what is not *F*’ for some value of *F*, so that ‘what is not’ raises concerns about negative predication instead, especially in explanatory and cosmological contexts. But of course the precise nature of the difficulty here is not spelled out either, so speculative reconstruction is required. In any case, the goddess herself seems to use negation and the phrase ‘what is not’ quite freely, though perhaps this is just symptomatic of her liminal position at the borders of Night and Day (B1).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      巴门尼德的诗篇并未明说对非存在对象或非事实事态的关切——不出所料，女神并未举出她所禁的东西的例子。这就为“非存在”的另一些解读留出空间，例如这样一种看法：它总是需要补全或确定化为“不是*F*”，对某个*F*的值而言；于是“非存在”反而引起关于否定谓述的关切，尤其在解释性与宇宙论的语境中。但当然，这里困难的精确本性也没有被明确说出，因此需要思辨性的重构。无论如何，女神自己似乎相当随意地使用否定与“非存在”这一短语——不过，这也许只是她那处于夜与昼之边界（B1）的临界位置的症候。
+    step2: |-
+      巴门尼德之诗，未明言非存在之对象、非事实之事态之忧——固宜，女神不举所禁之例也。于是“非存在”之他解有隙：或谓其必待补足而为“非*F*”，取某*F*之值；如是则“非存在”乃生否定谓述之忧，尤于释物、论宇宙之域。然此处难之精状，亦未明言，故须以思辨重构。要之，女神自用否定与“非存在”之语颇纵——然此或特其居于昼夜之界（B1）之征耳。
   - id: 16
     kind: body
     source: |-
       Whatever Parmenides intended, it is clear that the subsequent reception of his poem is concerned precisely with the problem sketched above about what does not exist and what is not the case. Numerous proscriptions similar to the goddess’s are reported in the remainder of the 5th century, though offered by philosophers with quite different motivations and agendas, including Protagoras, Gorgias, the author of pseudo-Hippocratic treatise *On the Art*, Anaxagoras, Metrodorus of Chios, Euthydemus, Cratylus, and Antisthenes. In many of these cases, the denial is explicitly formulated as a rejection of the possibility of falsehood, of thinking or speaking of what is not the case.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      无论巴门尼德本意如何，清楚的是：其诗篇的后续接受，恰恰关切上文勾勒的那个关于不存在者与并非如此者的问题。公元前五世纪余下的岁月里，记载了许多与女神的禁令相似的禁令，但提出它们的哲学家动机与议程相当不同，包括普罗塔哥拉、高尔吉亚、伪希波克拉底著作《论技艺》的作者、阿那克萨戈拉、开俄斯的梅特罗多洛、欧绪德谟、克拉底鲁与安提斯泰尼。其中许多情形里，这一否定被明确表述为对虚假之可能性的拒斥，即对思考或言说“并非如此者”的拒斥。
+    step2: |-
+      无论巴门尼德本意何如，其诗之受于后世，正切于上陈“不存在者”与“不然者”之难，明矣。公元前五世纪余岁，类于女神之禁者屡见记载，而发之者之志与所务大异：普罗塔哥拉、高尔吉亚、伪希波克拉底《论技艺》之作者、阿那克萨戈拉、开俄斯之梅特罗多洛、欧绪德谟、克拉底鲁、安提斯泰尼，皆在焉。其中多例，其拒明以“无妄”为说：谓不可思、不可言“不然者”。
   - id: 17
     kind: body
     source: |-
       The sophists Protagoras and Gorgias are of particular interest. According to Plato, Protagoras held that one cannot believe what is not and that whatever one experiences is true (*Theaetetus* 167a). This fits snugly with Protagoras’ widely attested doctrine that each human being is “the measure of all things,” which, on any interpretation, excludes the possibility of error. But Protagoras’ endorsement reveals an interesting subtlety in the Parmenidean thesis that what is not cannot be thought about – or more positively, the thesis that if something is had in mind, it must be. The goddess in Parmenides’ poem uses this thesis in a negative fashion, moving from the assumption that certain things ‘are not’ to the paradoxical conclusion that we cannot actually think about them either. But one might equally use it in a positive fashion, as Protagoras seems to have done, to move from the assumption that we *can* in fact think of such things to the conclusion that they must in fact ‘be’, i.e. exist or obtain, after all. In itself, the Parmenidean thesis only makes a conditional claim, and *prima facie* it seems open to employ either *modus tollens* or *modus ponens*. Depending on whether one retains commonplace assumptions about what we can think or about what there is in the world, the Parmenidean thesis can lead to either a bloated ontology or a very restricted psychology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      智者普罗塔哥拉与高尔吉亚尤其值得注意。据柏拉图，普罗塔哥拉主张人不能相信非存在者，而凡人所经验到的都是真的（《泰阿泰德篇》167a）。这与普罗塔哥拉那广为记载的学说——每个人都是“万物的尺度”——密切相合；无论怎样解读，这一学说都排除了错误的可能。但普罗塔哥拉的认可，揭示了巴门尼德论题中一个有趣的微妙之处：非存在者不能被思想——或更正面地说，凡被置于心中的东西必定存在。巴门尼德诗中的女神以否定方式使用这一论题：从某些东西“不存在”这一假定，推出我们实际上也不能思考它们的悖论式结论。但人们同样可以正面的方式使用它，如普罗塔哥拉似乎所做的那样：从我们*能够*思考这类东西这一假定，推出它们终究必定“存在”——即存在或成立——的结论。巴门尼德的论题本身只作出一个条件性的断言；初看起来，采用*否定后件式*或*肯定前件式*似乎都可以。取决于人们是保留关于我们能思考什么、还是关于世界中有什么的日常假定，巴门尼德的论题可以导向膨胀的本体论，或一种极其受限的心理学。
+    step2: |-
+      智者普罗塔哥拉与高尔吉亚，尤可注意。据柏拉图，普罗塔哥拉谓人不能信非存在者，而凡所经验皆真（《泰阿泰德篇》167a）。此与其“人为万物之尺度”之说不谋而合——其说众所共载，无论何解，皆排错误之可能。然普罗塔哥拉之取此，正发巴门尼德论题之微旨：非存在者不可思——或正言之，凡在心中的必存在。巴门尼德诗中之女神，用此论题于否定之途：自“某物不存在”之设，推“吾人亦不能思之”之悖论。然亦可用于正面，如普罗塔哥拉之所为：自“吾人*实能*思此类”之设，推“其终究必‘存在’”——即存在或成立——之论。巴门尼德之题，本惟作条件之断；初视之，用*否定后件*或*肯定前件*皆可。视人所守者为“吾人能思何”之常设、抑“世间有何”之常设，其题可致胀大之本体论，亦可致至狭之心理学。
   - id: 18
     kind: body
     source: |-
       Gorgias challenges this thesis in his treatise *On Not Being* (preserved in two slightly different versions in the pseudo-Aristotelian *On Melissus, Xenophanes, and Gorgias* and in Sextus Empiricus’ *Adversus Mathematicos* VII 65 ff.). It takes direct aim at Eleatic assumptions, and especially those of Parmenides, by arguing that (i) there isn’t anything; (ii) even if there is something, it cannot be known; and finally, (iii) even if something can be known, one could not inform anyone of this. The second part is of particular interest, since Gorgias offers a *reductio ad absurdum* of the Parmenidean thesis, especially when deployed in the positive way we have just seen in Protagoras. Given that we obviously can have in mind, for example, a chariot-team racing on the sea – in fact, just by reading this, you have put it in mind – it should follow from the Parmenidean thesis that there *is* a chariot-team racing on the sea; but (*pace* Protagoras) plainly there is not. If both these intuitions are maintained, the only option left is to reject the Parmenidean thesis itself: it is *not* the case that one can only think or speak of what is – thought is not so tightly bound to reality. Gorgias immediately goes on to argue for a sceptical conclusion, on the grounds that we have no basis for telling which mental states correspond to reality and which do not, and so cannot know anything at all. But this further argument rests on having shown that our ordinary intuitions about what we can think and what exists or obtains together undermine the Parmenidean thesis. (For further discussion, see Caston 2002*a*)[^caston-2002][^caston-2002-2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      高尔吉亚在其《论非存在》（以两个略有不同的版本保存在伪亚里士多德《论梅里索斯、克塞诺芬尼与高尔吉亚》与塞克斯都·恩披里柯《驳数学家》VII 65 以下）中挑战这一论题。它直接针对埃利亚派的假定，尤其是巴门尼德的假定，论证：（i）没有任何东西存在；（ii）即使有东西存在，它也不能被认识；（iii）最后，即使有东西能被认识，人们也无法把这一点告知任何人。第二部分尤其值得注意，因为高尔吉亚对巴门尼德论题给出了一个*归谬*——尤其当该论题按我们刚才在普罗塔哥拉那里看到的正面方式被运用时。既然我们显然能在心中拥有，例如，一支在海上竞驰的战车队——事实上，仅仅读这句话，你就已经把它置于心中——那么按巴门尼德论题就该推出：*确实有*一支在海上竞驰的战车队；但（与普罗塔哥拉相反）显然没有。如果两个直觉都被保持，剩下的唯一选择就是拒斥巴门尼德论题本身：并非人只能思考或言说存在者——思想并不与实在绑得那么紧。高尔吉亚紧接着论证一个怀疑论结论，理由是我们没有根据分辨哪些心理状态与实在相符、哪些不符，因而根本不能认识任何东西。但这进一步的论证，是以“我们关于能思考什么与存在或成立什么的日常直觉合起来已摧毁巴门尼德论题”为前提的（进一步讨论见 Caston 2002*a*）[^caston-2002][^caston-2002-2]。
+    step2: |-
+      高尔吉亚于其《论非存在》（存于伪亚里士多德《论梅里索斯、克塞诺芬尼与高尔吉亚》与塞克斯都·恩披里柯《驳数学家》VII 65 以下，二本微异）攻此论题。其锋直指埃利亚之设，尤巴门尼德之设，而谓：（一）无有一物；（二）即有物，亦不可知；（三）终之，即有可知，亦不能以告人。其第二部分尤可味，盖高尔吉亚于巴门尼德之题出一*归谬*——尤当此题为如普罗塔哥拉之正面运用时。吾人既显然能于心中有一海上竞驰之战车之队——实言之，读此一语，汝已置之心中——则由巴门尼德之题当推：*实有*一海上竞驰之战车之队；然（与普罗塔哥拉相反）固无之。二直觉既皆守，则所余惟拒巴门尼德之题本身：非谓人惟能思言存在者——思之系于实，不若是之密也。高尔吉亚即继以怀疑之论，谓吾人无据以辨何心状合于实、何者不合，故竟不能知任何物。然此进一步之论，实以“吾人于所能思与所有之常直觉，合而倾巴门尼德之题”为据（详论见 Caston 2002*a*）[^caston-2002][^caston-2002-2]。
   - id: 19
     kind: body
     source: |-
       Why should anyone be tempted by the Parmenidean thesis in the first place? A simple intuition may lie behind it, namely, that thought consists in a *direct relation* to what is thought about (and *mutatis mutandis* for other mental states and what they are about). For given that a relation cannot obtain unless all its relata exist or obtain, it will follow that we cannot ever think of what does not exist or obtain (“what is not”). To the extent that this direct relational model has a grip on us, we will be forced to either Parmenidean or Protagorean conclusions. In fact, we can reformulate these assumptions together as an inconsistent triad (using ‘thought’ schematically for mental states more generally, and allowing for the ambiguity between ‘exists’ and ‘obtains’):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      究竟为什么人们会被巴门尼德论题所吸引？它背后可能有一个简单的直觉，即：思想在于与所思之物的一种*直接关系*（对其他心理状态及其所关涉者亦然）。因为既然一个关系除非其所有关系项都存在或成立便不能成立，那么就会推出：我们永远不能思考不存在或不成立的东西（“非存在”）。只要这种直接关系模型对我们有支配力，我们就将被逼向巴门尼德式或普罗塔哥拉式的结论。事实上，我们可以把这些假定合起来重述为一个不一致的三元组（用“思想”概略地代表更一般的心理状态，并容许“存在”与“成立”之间的含混）：
+    step2: |-
+      人何以竟为此题所动？其背或有一简之直觉：思者，与所思之物之*直接关系*也（他心状与其所关，准此）。盖关系非诸端皆存皆立则不成，则推之：凡不存在、不成立者（“非存在”），吾人永不得思之。此直接关系之模既执于吾，则必逼而至巴门尼德或普罗塔哥拉之论。实则吾侪可合此诸设而重述为一不一致之三元（以“思想”概代心状，且容“存在”与“成立”之歧）：
   - id: 20
     kind: body
     source: |-
       1. Thought consists in a direct relation to what is thought about.
       2. No relation can obtain unless all its relata exist/obtain.
       3. Sometimes we can think about what does not exist/obtain.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 思想在于与所思之物的一种直接关系。
+      2. 除非所有关系项都存在/成立，任何关系都不能成立。
+      3. 有时我们能思考不存在/不成立的东西。
+    step2: |-
+      一、思者，与所思之物之直接关系也。
+      二、关系非诸端皆存皆立，则不成。
+      三、有时吾人能思不存在、不成立者。
   - id: 21
     kind: body
     source: |-
       Each of these theses possesses a certain intuitive appeal. But taken together, they are inconsistent, and so at least one has to be given up. This does not entirely force our hand, however, since any two of the three are mutually consistent. So there is still room for disagreement among the disputants. As we have seen, some 5th century thinkers, including Parmenides himself (on some interpretations) chose to maintain (A) and (B), and reject (C). But if this seems too costly, as it does to most people, one would need to reject one of the other two theses instead. An obvious candidate for rejection is (A), that thought consists in a direct relation to what is thought about. But there are different ways of going about it. Someone could simply (i) reject a relational analysis altogether. But one could also reject (A) while continuing to accept a relational analysis, so long as (ii) it involves a relation to *something else* other than what is thought about. Much of the subsequent discussion in ancient philosophy can be seen as an attempt to pursue the latter strategy, (ii), by finding a suitable intermediary: for example, certain Platonists appeal to Forms; Aristotle appeals to changes within our body that serve as internal representations; the Stoics from Chrysippus onwards appeal to abstract semantic objects like propositions; and Epicurus appeals to parts of the surfaces of bodies. A third main option, though, would be to retain the direct relational model in (A) unchanged, while also preserving the phenomenological intuition in (C), and instead abandon the metaphysical assumption in (B), as the earliest Stoics did. Whenever one thinks, these Stoics insist, there *is* something that one is thinking about; but it needn’t be anything that *exists* or *obtains*. On this Stoic view, there are things that do not exist or obtain, which can serve as intentional objects of thought and other mental states.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这三个论题各自都有一定的直觉吸引力。但合在一起，它们不一致，因此至少要放弃一个。然而，这并不完全决定我们的手；因为三者中任意两个彼此相容。所以争论者之间仍有分歧的余地。如我们所见，某些公元前五世纪的思想家——包括巴门尼德本人（在某些解读下）——选择保留（A）与（B）而拒斥（C）。但如果这显得代价太大（对多数人而言确实如此），人们就需要转而拒斥另外两个论题之一。一个显而易见的拒斥候选是（A）：思想在于与所思之物的直接关系。但拒斥它有不同做法。有人可以简单地（i）完全放弃关系分析。但人也可以在继续接受关系分析的同时拒斥（A），只要（ii）它涉及的是与所思之物之外的*别的某物*的关系。古代哲学中随后的大量讨论，都可看作试图走（ii）这条路线的尝试：寻找一个合适的中介——例如某些柏拉图主义者诉诸形式；亚里士多德诉诸我们身体内部作为内在表象的变化；自克吕西波起的斯多亚派诉诸命题之类抽象的语义对象；伊壁鸠鲁则诉诸物体表面的部分。不过，还有第三个主要选项：原样保留（A）中的直接关系模型，同时保留（C）中的现象学直觉，而放弃（B）中的形而上学假定——最早的斯多亚派就是这样做的。这些斯多亚派坚持：每当人思考时，*确实有*某物是人所思考的；但那不必是任何*存在*或*成立*的东西。按这种斯多亚观点，有些东西不存在也不成立，而它们可以充当思想及其他心理状态的意向对象。
+    step2: |-
+      此三题，各具直觉之力。然合而观之，则不相容，故至少当弃其一。虽然，此不尽定吾手：三者之中，任意其二皆相容，故争者犹有异同之隙。如前所见，公元前五世纪诸家——巴门尼德本人亦在其列（依某解）——择守（A）（B）而拒（C）。然使此似太费，如众人所感，则当转拒其二之一。显然可拒者（A）：思为与所思之直接关系。然拒之之道不一：或径（一）尽弃关系之析；亦可（二）仍受关系之析而拒（A），惟其关系系于所思之外之*他物*。古学后此诸论，多可视为循（二）之途者：求一适中之介——如某柏拉图之徒诉诸形式；亚里士多德诉诸身内可为内在表象之变；自克吕西波以降之斯多亚诉诸命题之类抽象语义之体；伊壁鸠鲁则诉诸物体表面之分。然尚有第三要选：一仍（A）之直接关系之模，亦守（C）之现象直觉，而弃（B）之形上假定——最早之斯多亚即尔。此辈坚持：凡有思，*必有*所思者在；然不必为任何*存在*或*成立*者。按此说，有物焉，不存在亦不成立，而可充思想与夫他心状之对象。
   - id: 22
     kind: body
     source: |-
