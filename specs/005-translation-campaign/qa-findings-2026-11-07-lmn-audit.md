@@ -63,4 +63,22 @@
 * **并行收编留痕**：s3 检查点（账本 43 段双版、成稿、登记行）被并行会话提交 9e6f51d7 一并收编，内容核对无覆盖；r1–r3 与终态由 252cc89f 补记。
 * **本批下一步**：①续译 neoplatonism 余 19 段（25–43）→ compose → 三审三校收口；②清 pending：langer、M 9 条、N 2 条；③对 297 条未建任务按字母序建任务并翻译。
 
+## 6. 接手复账（2026-11-08，LMN-main-20261108）
+
+**起因**：用户指派本会话接手 L–N 三批，先复算同步、再续译。
+
+**五方复算**（`script/lmn_audit4.py`）：
+
+| 字母 | 正式词条 | 已成稿 | done | 在途 | pending 任务 | 未建任务 |
+| --- | --- | --- | --- | --- | --- | --- |
+| L | 144 | 18 | 18 | 0 | 1（langer） | 125 |
+| M | 139 | 6 | 6 | 1（moral-demands-permissions，cleared，账本 45/63） | 7 | 125 |
+| N | 50 | 1 | 1（neoplatonism） | 0 | 2 | 47 |
+| 合计 | 333 | 25（7.5%） | 25 | 1 | 10 | 297 |
+
+* 对 §5 基线变化：M done 5→6（`moral-responsibility-empirical` 于 2026-11-07T14:38Z 收口）；N done 0→1 已在 §5 记载；新增在途 `moral-demands-permissions`（账本 p4 段 33–45 落盘后暂停，余 46–63 共 18 段）。
+* **账实零偏差**：无「有稿无任务」「done 无稿」「成稿状态滞后」；pending 12→10（2 条已续作）。
+* 同步动作：PROGRESS.md 重生成（done 177 / 在途 242）；l/m/n `claimed_by` 转交 `LMN-main-20261108`。
+* 本批下一步：①续译 moral-demands-permissions 段 46–63 → compose → 三审三校收口；②清 pending 10 条（langer、M 7、N 2）；③297 条未建任务按字母序建任务并翻译。
+
 

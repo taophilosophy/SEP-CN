@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-07 17:49（UTC）
+生成时间：2026-11-07 18:59（UTC）
 
 ## 总览
 
@@ -12,9 +12,9 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1025|
+|已建任务|1026|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|176|
+|已完成（done）|177|
 |在途（drafted 起、done 前）|242|
 |阻塞|0|
 
@@ -23,11 +23,12 @@
 |状态|数量|
 |---|---|
 |pending|607|
-|cleared|163|
+|cleared|161|
 |drafted|2|
-|s3_checked|76|
+|s2_checked|1|
+|s3_checked|77|
 |r1_reviewed|1|
-|done|176|
+|done|177|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -40,7 +41,7 @@
 |E|99|99|99|17|
 |F|96|96|96|1|
 |G|49|49|49|1|
-|H|61|61|61|7|
+|H|61|61|61|8|
 |I|75|75|75|18|
 |J|38|38|38|4|
 |K|36|36|36|10|
@@ -51,7 +52,7 @@
 |P|165|165|4|0|
 |Q|34|34|0|0|
 |R|85|85|11|6|
-|S|161|161|12|8|
+|S|161|161|13|8|
 |T|71|71|5|0|
 |U|4|4|0|0|
 |V|15|15|0|0|
@@ -162,12 +163,12 @@
 |copernicus|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |cordemoy|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |creation-conservation|retranslate|s3_checked|主代理 2026-11-01|
-|crescas|retranslate|cleared|task_ops 2026-11-07|
+|crescas|retranslate|s2_checked|C-main-20261107 2026-11-07|
 |croce-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
 |cudworth|retranslate|s3_checked|主代理 2026-11-01|
 |dai-zhen|retranslate|s3_checked|D-main-20261107 2026-11-07|
 |davidson|retranslate|cleared|task_ops 2026-11-01|
-|deductivism-mathematics|retranslate|cleared|task_ops 2026-11-07|
+|deductivism-mathematics|retranslate|s3_checked|D-main-20261107 2026-11-07|
 |demonstration-medieval|retranslate|s3_checked|sub-demonstration-medieval 2026-11-01|
 |descartes-ethics|retranslate|s3_checked|? 2026-11-04|
 |descartes-ideas|retranslate|s3_checked|? 2026-11-04|
@@ -227,7 +228,6 @@
 |hume-freewill|retranslate|cleared|task_ops 2026-11-01|
 |hume-moral|retranslate|cleared|task_ops 2026-11-01|
 |humor|retranslate|cleared|task_ops 2026-11-01|
-|hutcheson|retranslate|cleared|task_ops 2026-11-01|
 |imaginative-resistance|retranslate|cleared|task_ops 2026-11-01|
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
@@ -299,6 +299,7 @@
 |moral-demands-permissions|retranslate|cleared|task_ops 2026-11-07|
 |ockham|retranslate|cleared|task_ops 2026-11-07|
 |rationalism-early-modern|retranslate|r1_reviewed|OR-main-20261107 2026-11-07|
+|scholem|retranslate|cleared|task_ops 2026-11-07|
 |telesio|retranslate|cleared|task_ops 2026-11-07|
 |timon-phlius|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
 |truth-coherence|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
