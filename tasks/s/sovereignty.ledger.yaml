@@ -5,7 +5,8 @@ params:
   temperature: 0.2
   batch_segments: all
   rate_limit_s: 0
-  timeout_s: 60segments:
+  timeout_s: 60
+segments:
   - id: 1
     kind: body
     source: |-
