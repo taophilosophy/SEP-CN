@@ -7,37 +7,37 @@
 | 指标 | 数值 |
 |---|---|
 | 正式词条 | 62 |
-| done | 6（boolalg-math、biology-philosophy、bloch、blame、bohr-correspondence、bodily-awareness） |
+| done | 7（boolalg-math、biology-philosophy、bloch、blame、bohr-correspondence、bradley-moral、bodily-awareness） |
 | s3_checked（待 r1→r3→done 收口） | 14 |
 | drafted（待 s1→s3→r1→r3→done） | 2 |
-| cleared（待全量重译） | 40 |
+| cleared（待全量重译） | 39 |
 
-## 队列 A：cleared 40 条全量重译（按源文词数升序，先短后长）
+## 队列 A：cleared 39 条全量重译（按源文词数升序，先短后长）
 
 > 词数口径：源文正文（首个 `[^key]:` defs 行之前）去掉行内脚注标记后的英文词数；由 `script/b_queue.py` 实时推导。
 
 | 词数 | slug | 词数 | slug |
 |---|---|---|---|
-| 10815 | bradley-moral | 11097 | buridan |
-| 11190 | belief-merging | 11321 | brentano-judgement |
-| 11411 | brentano | 11460 | byzantine-philosophy |
-| 11682 | black-reparations | 11745 | bosanquet |
-| 12038 | broad | 12085 | biomedicine |
-| 12120 | bodin | 12315 | buber |
-| 12359 | bradley-regress | 12615 | beauty |
-| 12960 | bioethics-latin-america | 12960 | bolzano-logic |
-| 13139 | biology-experiment | 13452 | baudrillard |
-| 13594 | biodiversity | 13615 | burke |
-| 13691 | biology-individual | 13857 | boole |
-| 14137 | bonaventure | 14290 | belief |
-| 14470 | beauvoir | 14825 | biology-developmental |
-| 15273 | boyle | 15355 | berkeley |
-| 15509 | branching-time | 16102 | bentham |
-| 16476 | burley | 17225 | boundary |
-| 17506 | berlin | 17802 | benjamin |
-| 18713 | bruno | 19438 | bell-theorem |
-| 20403 | beardsley-aesthetics | 21130 | bounded-rationality |
-| 22856 | buddhism-tiantai | 23464 | bolzano |
+| 11097 | buridan | 11190 | belief-merging |
+| 11321 | brentano-judgement | 11411 | brentano |
+| 11460 | byzantine-philosophy | 11682 | black-reparations |
+| 11745 | bosanquet | 12038 | broad |
+| 12085 | biomedicine | 12120 | bodin |
+| 12315 | buber | 12359 | bradley-regress |
+| 12615 | beauty | 12960 | bioethics-latin-america |
+| 12960 | bolzano-logic | 13139 | biology-experiment |
+| 13452 | baudrillard | 13594 | biodiversity |
+| 13615 | burke | 13691 | biology-individual |
+| 13857 | boole | 14137 | bonaventure |
+| 14290 | belief | 14470 | beauvoir |
+| 14825 | biology-developmental | 15273 | boyle |
+| 15355 | berkeley | 15509 | branching-time |
+| 16102 | bentham | 16476 | burley |
+| 17225 | boundary | 17506 | berlin |
+| 17802 | benjamin | 18713 | bruno |
+| 19438 | bell-theorem | 20403 | beardsley-aesthetics |
+| 21130 | bounded-rationality | 22856 | buddhism-tiantai |
+| 23464 | bolzano |  |  |
 
 ## 队列 B：在途 16 条收口（r1 复审口径）
 
@@ -76,3 +76,4 @@
 ]+)\*` 逐跨度匹配，否则跨强调对粘连（areté 句事故已修复）。
 - 2026-11-07（续二）：`bohr-correspondence`（f7f8bb71）九步入 done。首例含图与公式条目：公式 128 个零失衡、图路径改 `../yuanwen/assets/`；斜体→加粗逐跨度正则会把 `**已加粗**` 吃成三连星，需后处理修复；`Copenhagen interpretation` 统一词汇表定名“哥本哈根诠释”，`Jammer` 按人名表作“贾默”。
 - 2026-11-07（续三）：`bodily-awareness` 九步入 done（15 575 汉字 / 5 节 14 小节 / 207 条书目 defs 照录 / 242 标记 242 守恒）。首例**零内容性脚注且无 `## 脚注` 节**（源无 Notes 区）；`O’Shaughnessy` 撇号键为 U+2019，须与 defs 逐字符一致；`enactive approach` 沿词汇表定名“生成进路”（初写“生成式进路”已改）；prose 34 条告警逐句实修至 0。队列表由 `script/b_queue.py` 重建，避免手改错位。
+- 2026-11-08：`bradley-moral` 九步入 done（15 870 汉字 / 8 节 / 13 段直引 / 84 条书目含三个书目小节）。两处实测教训：① **`目的` 内含 `的` 字**，`de-chain` 把它计入“的”数，改写时用 `目标` 可消误报；② 斜体→加粗批量正则（`\*([^*]+)\*`）会跨强调对粘连，并与残留 `***` 叠加，事后须跑 `\*{3,}` 归一、并把拉丁单字 `*A*` 还原（本轮 7 个分片被伤，已修）。

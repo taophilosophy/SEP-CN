@@ -2,7 +2,7 @@
   "slug": "bradley-moral",
   "kind": "retranslate",
   "zh_doc": "b/bradley-moral.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-01T04:16:02Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T17:19:03Z",
+      "evidence": "初译分片 bd1–bd7 落盘（6 正文片 + 尾节），正文 15 870 汉字；标记 70:70 守恒、书目 defs 84 条键集全等、H2 8/8、引文行 13:13"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T17:19:03Z",
+      "evidence": "一校（结构守恒）：8 节 / 3 条书目小节（原始文献/二手文献/书目材料）/ 编号项 3+3 / 尾节 3 节齐备；引文 13 行均为原文直引"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T17:19:03Z",
+      "evidence": "二校（术语人名）：27 术语 + 6 人名入册（integrity 沿词汇表 诚信；idealism 用 观念论；Sittlichkeit 沿 伦理）；check_terms 硬错误 0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T17:19:06Z",
+      "evidence": "三校（文风学术）：check_style --strict 0、check_academic --strict 0 硬错误；prose 52 条告警实修 46 条，余 7 条（行 47/71/79×2/95/139/163）全为引文内部句式，按 ADR-0020 豁免留痕"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T17:19:06Z",
+      "evidence": "一审（回源 §1–§3）：双重意义论/自我实现/可普遍化原则/道德自我论证逐段对照；*Ethical Studies* 篇次与页码括注复检"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T17:19:06Z",
+      "evidence": "二审（回源 §4–§6）：适应方向、常驻/偶发/习惯性欲望、具体的普遍、三类承诺逐条对齐；‘目的的’三连误报已按 目标 改写消除"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T17:19:08Z",
+      "evidence": "终审：check_all 7/7 全绿；16 300 字符量级合规（<100 KB）；84 条书目照录含原始文献/二手文献/书目材料三节"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T17:19:08Z",
+      "evidence": "九步状态机完成；b/bradley-moral.md 15 870 汉字成稿（8 节 + 13 段引文 + 3 书目小节）"
     }
   ],
   "blockers": [],
