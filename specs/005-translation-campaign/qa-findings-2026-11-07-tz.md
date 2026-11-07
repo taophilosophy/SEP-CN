@@ -21,6 +21,8 @@
 | --- | --- | --- | --- |
 | t/timon-phlius | 26+1 | 现制 References（15 条定义照录，正文 marker 仅 long-1978） | 术语登记 28 行；相关词条 3 项无 SUMMARY 行（Academy, Plato's / Cynics / Megaric School），经 `baseline/catalog.json` 实证不在本库目录，保留中文译名待挂链 |
 | t/truth-coherence | 47+1 | 现制 References（21 条定义） | 术语登记 21 行；源文自身不一致两处照源直译（Candlish 2006 vs candlish-2021；Knight 2025 vs knight-2024） |
+| w/william-sherwood | 56+1 | 现制 References（29 条定义）+ 1 图（指代树状图，本地化 `../yuanwen/assets/`）+ 2 个拉丁诗句引块 + 表格（格/式） | 术语登记 25 行；相关词条 2 项手工归位（obligationes → 中世纪的义务理论；Peter of Spain → 西班牙的彼得（彼得·希斯帕努斯）的逻辑）；兰伯特正形对齐 SUMMARY（欧塞尔的兰伯特） |
+| w/wisdom | 54+2+1 | 现制 References（20 条定义）+ 5 个编号定义块 + 1 条真脚注（note-1） | 术语登记 18 行；相关词条 1 项手工归位（coherentist justification → 知识证成的融贯论）；源尾笔记脚手架（#### / ## Notes to Wisdom）节数差 1 属转换器约定 |
 
 两条件均为：`lq.py check` HARD=0；节标题/标记键/定义键集/段落四维对账齐；`check_style --strict` 0 issue；`check_academic --strict` 0 硬错误；`check_math` 0；`check_all` 七项全绿。
 
@@ -43,5 +45,13 @@
 
 ## 5. 下一步（按体量序）
 
-truth-coherence 之后：william-sherwood(5299) → wisdom(6016) → xenophanes(6025) → william-jevons(6182) → telesio(6298) → theology-aristotle(6571) → xenocrates(6652) → vives(6811) → vico(6846) …；公式密集件单独排程（先跑 `check_math`）；`xunzi/zhuangzi/zhu-xi/wang-yangming` 四条中国哲学件按 ADR-0011 走中国文献还原。
+truth-coherence 之后：william-sherwood → wisdom → **已完成**；续排 xenophanes(6025) → william-jevons(6182) → telesio(6298) → theology-aristotle(6571) → xenocrates(6652) → vives(6811) → vico(6846) …；公式密集件单独排程（先跑 `check_math`）；`xunzi/zhuangzi/zhu-xi/wang-yangming` 四条中国哲学件按 ADR-0011 走中国文献还原。
 **复审波**：s3 完成后冷置回读再走 r1–r3（单会话作业须在 evidence 记明冷置），不复查旧错。
+
+## 6. 实跑中新增的可复用经验
+
+1. **单引号包裹拉丁字母触发 curly-quotes**：`‘a’`/‘Festino’ 会被规则当作转写撇号部分遮蔽，留下孤立的 ’ 报「右引号先于左引号」。写法：字母/单词名一律用双引号 `“a”`，或改用斜体 `*Festino*`；不嵌在双引号内即可。
+2. **图注与图片路径**：源 `../assets/<slug>/x.jpg` 在 zh 侧必须改 `../yuanwen/assets/<slug>/x.jpg`（模板 §3.6 裁定）；长英文 alt（树状图）整段译出留在 `![]()` 内。
+3. **块内嵌套引文**（`> > Barbara celarent…`）与编号定义块（`> *S* is wise iff` + `> 1. …`）可整块作一段入账本，行内换行照写，守恒门不受影响。
+4. **节数差 1 的两种合法来源**：源尾 `## Notes（原文脚注）`/`####`/`## Notes to Wisdom` 脚手架（wisdom）；源端空标题（timon-phlius 的 `## References（引用注释）` 下空子节保留）。对账时先看尾部三元组再判缺陷。
+5. **相关词条自动映射落空的处置顺序**：先查 `SUMMARY.md` 是否有对应 slug（有则手工改成 SUMMARY 定名）；无 slug 再查 `baseline/catalog.json`（不在目录者保留中文译名待挂链）。
