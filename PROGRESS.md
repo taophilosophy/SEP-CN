@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-07 14:38（UTC）
+生成时间：2026-11-07 16:14（UTC）
 
 ## 总览
 
@@ -14,26 +14,28 @@
 |已建英文基线|1879|
 |已建任务|1024|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|172|
-|在途（drafted 起、done 前）|243|
+|已完成（done）|173|
+|在途（drafted 起、done 前）|244|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|609|
-|cleared|167|
+|pending|607|
+|cleared|164|
 |drafted|2|
-|s3_checked|74|
-|done|172|
+|s3_checked|76|
+|r1_reviewed|1|
+|r2_reviewed|1|
+|done|173|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
 |A|160|160|160|50|
-|B|62|62|62|5|
+|B|62|62|62|6|
 |C|172|172|172|3|
 |D|92|92|92|11|
 |E|99|99|99|17|
@@ -108,7 +110,6 @@
 |biology-individual|retranslate|cleared|task_ops 2026-11-01|
 |biomedicine|retranslate|cleared|task_ops 2026-11-01|
 |black-reparations|retranslate|cleared|task_ops 2026-11-01|
-|bodily-awareness|retranslate|cleared|task_ops 2026-11-01|
 |bodin|retranslate|cleared|task_ops 2026-11-01|
 |boethius|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |boethius-dacia|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -164,6 +165,7 @@
 |copernicus|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |cordemoy|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |creation-conservation|retranslate|s3_checked|主代理 2026-11-01|
+|crescas|retranslate|cleared|task_ops 2026-11-07|
 |croce-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
 |cudworth|retranslate|s3_checked|主代理 2026-11-01|
 |dai-zhen|retranslate|s3_checked|D-main-20261107 2026-11-07|
@@ -233,7 +235,7 @@
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
 |information-biological|retranslate|cleared|task_ops 2026-11-01|
-|intentionality-ancient|retranslate|cleared|task_ops 2026-11-01|
+|intentionality-ancient|retranslate|s3_checked|? 2026-11-07|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
 |intuitionism-ethics|retranslate|cleared|task_ops 2026-11-01|
 |israeli|retranslate|s3_checked|? 2026-11-06|
@@ -297,12 +299,13 @@
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kumaarila|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
+|moral-demands-permissions|retranslate|cleared|task_ops 2026-11-07|
 |ockham|retranslate|cleared|task_ops 2026-11-07|
-|rationalism-early-modern|retranslate|cleared|task_ops 2026-11-06|
-|social-procedures|retranslate|cleared|task_ops 2026-11-07|
+|rationalism-early-modern|retranslate|r1_reviewed|OR-main-20261107 2026-11-07|
+|social-procedures|retranslate|r2_reviewed|SZ-main-20261107 2026-11-07|
 |timon-phlius|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
 |truth-coherence|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
-|william-jevons|retranslate|cleared|task_ops 2026-11-07|
+|william-jevons|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |william-sherwood|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |wisdom|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |xenophanes|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
