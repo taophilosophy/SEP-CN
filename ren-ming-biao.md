@@ -251,6 +251,7 @@
 | Antoine Le Grand | — | 安托万·勒·格兰德 | legrand | SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Menexene | — | 墨涅克塞涅 | dialectical-school | 学界通行汉译（狄奥多罗斯之女，据称逻辑学家）；凭证 2026-11-07 | 2026-11-07 |
 | Mill, Harriet Taylor | — | 哈丽雅特·泰勒·密尔 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
+| Mill, James | — | 詹姆斯·密尔 | james-mill | 学界通行汉译；与 h/harriet-mill.md 及 SUMMARY 登记形同体例（增订：SUMMARY 原题作“穆勒”，2026-11-07 归一） | 2026-11-07 |
 | Moltmann, Jürgen | — | 于尔根·莫尔特曼 | bloch | 学界通行汉译（《希望神学》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Müller, Johannes | Johannes Müller | 约翰内斯·缪勒（亦作“米勒”） | 语料回收（molyneux-problem 首译） | 学界通行汉译（德国生理学家，神经特殊能量定律提出者）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Müntzer, Thomas | — | 托马斯·闵采尔 | bloch | 学界通行汉译（德国农民战争）；凭证 2026-11-07 | 2026-11-07 |

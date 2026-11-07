@@ -2,7 +2,7 @@
   "slug": "james-mill",
   "kind": "retranslate",
   "zh_doc": "j/james-mill.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:37:01Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-07T01:40:28Z",
+      "evidence": "账本重建 84 段并全量填充（p1-p5）；源分段将三段引文合并为一段而 p2 误作三段，致 22-30 段整体后移两位，fix_mill_align.py 外科纠正 20 处（残余 0）；lq 守恒门 84 段通过"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-07T01:40:28Z",
+      "evidence": "初译自校：专名按 ren-ming-biao（密尔/边沁/麦考利/伯克/麦金托什/普莱斯），术语按 yi-zhe-shuo-ming；标题与 SUMMARY、mu-lu-s 归一为“詹姆斯·密尔”并补 ren-ming-biao 行；oir 段去 CJK 斜体"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-07T01:40:29Z",
+      "evidence": "风格核定：CJK 强调用加粗、无中文斜体（check_style --strict 0 issue）；全角引号/书名号/译名撇号体例统一；脚注键 AS-CII 化；长句 6 处拆分（段2/12/14/27/53/74），段34 长引文句按 ADR-0020 豁免"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-07T01:40:31Z",
+      "evidence": "三校：check_academic --strict 通过（在途豁免 1）；check_prose 仅存段34 引文豁免 1 项；check_math 0 公式 0 缺失；lq check 84 段守恒通过；书目 defs 照录"
     }
   ],
   "blockers": [],

@@ -1737,7 +1737,7 @@
   * [墨西哥哲学 philosophy in (Guillermo Hurtado and Robert Eli Sanchez, Jr.)](p/philosophy-mexico.md)
 * [微生物学哲学 microbiology, philosophy of (Maureen A. O’Malley and Emily C. Parke)](m/microbiology.md)
 * [哈丽雅特·泰勒·密尔 Mill, Harriet Taylor (Dale E. Miller)](h/harriet-mill.md)
-* [詹姆斯·穆勒 Mill, James (Terence Ball and Antis Loizides)](j/james-mill.md)
+* [詹姆斯·密尔 Mill, James (Terence Ball and Antis Loizides)](j/james-mill.md)
 * [约翰·斯图亚特·穆勒 Mill, John Stuart (Christopher Macleod)](m/mill.md)
   * [穆勒的伦理学和政治哲学 moral and political philosophy (David Brink)](m/mill-moral-political.md)
 * [\*心灵 mind](README.md)

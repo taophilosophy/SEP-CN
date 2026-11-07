@@ -398,7 +398,7 @@ outline: [1, 6]
 * [亚历山大·冯·洪堡 Humboldt, Alexander von (Dalia Nassar)](a/alexander-humboldt.md)
 * [亚历山大·克鲁梅尔 Crummell, Alexander (Stephen Thompson)](a/alexander-crummell.md)
 * [詹姆斯·沃德 Ward, James (Pierfrancesco Basile)](j/james-ward.md)
-* [詹姆斯·穆勒 Mill, James (Terence Ball and Antis Loizides)](j/james-mill.md)
+* [詹姆斯·密尔 Mill, James (Terence Ball and Antis Loizides)](j/james-mill.md)
 * [古斯塔夫·特奥多尔·费希纳 Fechner, Gustav Theodor (Frederick C. Beiser)](f/fechner.md)
 * [威廉·马克西米利安·冯特 Wundt, Wilhelm Maximilian (Alan Kim)](w/wilhelm-wundt.md)
 * [超验主义 transcendentalism (Russell Goodman)](t/transcendentalism.md)
