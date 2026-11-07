@@ -1711,3 +1711,4 @@
 | compossibile | — | 可共存 | obligationes 首译 | 学界惯例（莱布尼茨/中世纪逻辑）；凭证 2026-11-07 | 2026-11-07 |
 | elenchus | — | 驳诘 | obligationes 首译 | 学界通行汉译（柏拉图研究）；凭证 2026-11-07 | 2026-11-07 |
 | logica moderna | — | 现代逻辑（中世纪语境） | obligationes 首译 | 学界惯例（与 logica antiqua 对举）；凭证 2026-11-07 | 2026-11-07 |
+| thin particular | — | 薄殊相 | object 首译 | 学界惯例（与裸殊相对举；Armstrong 术语）；凭证 2026-11-07 | 2026-11-07 |

@@ -2,7 +2,7 @@
   "slug": "object",
   "kind": "retranslate",
   "zh_doc": "o/object.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,27 @@
       "actor": "OR-main-20261106",
       "at": "2026-11-07T00:29:55Z",
       "evidence": "复审 r1：①词条名对齐单一事实源——按 SUMMARY 主条目名把正文引用「部分论」改「分体论」（10 处）、「普通对象」改「日常对象」（12 处，含 2.2.1 节标题）、「知觉内容」改「感知的内容」（2 处），并同步术语登记（ordinary object→日常对象）；②相关词条自动映射校正 2 处（categories 误映射到『亚里士多德的范畴论』→『范畴』；consciousness 误映射到『动物意识』→『意识』），已在 postfix 固化；③节标题体例修正（『## 3. 本性』→『## 3 本性』）；④人名登记补 2 行（Strawson 斯特劳森、Tugendhat 图根德哈特）；复核后 prose 0、style 0、terms 硬错误 0、lq 守恒 204 段通过。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T00:41:08Z",
+      "evidence": "r2 冷置复审（ADR-0020：与 r1 之间隔 obligationes 全流程）。①抽核 9 段回原文（43/49/53/61/142/147/152/157/166），并通读 §1.2–§3.2 全文：属性无处所/具体抽象之分/球性同一/实例化二元关系/内在共相束/裸殊相两论题/质形论/团块观/类唯名论，语义与括注页码均一致；②实修 1 处：段53『属性由其属性个体化…一个属性若与另一属性属性全同』改『若具有与另一属性完全相同的属性』；③术语补登 thin particular→薄殊相；④门禁复跑：prose 0、style 0、academic 0、terms 硬错误 0、lq 守恒 204 段、check_all 7/7。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T00:41:09Z",
+      "evidence": "r3 终校：①结构——31 标题与源逐级对应（源『## Notes to Object』按流水线体例并入『## 脚注』区）；脚注 290 定义/39 引用，与源定义量等；无图片；②体例——H1=SUMMARY 行、pubinfo 2023-11-03/Spring 2026；相关词条按 SUMMARY 主条目名校正（范畴/意识）；③体量 15,25x 汉字/102KB 级；④check_all 7/7 全绿。收口 done。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T00:41:09Z",
+      "evidence": "九步闭环：o/object.md 六检全绿 + check_all 7/7；账本 204 段双版齐全；术语 43 行、人名 4 行登记。"
     }
   ],
   "blockers": [],
