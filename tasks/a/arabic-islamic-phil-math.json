@@ -2,7 +2,7 @@
   "slug": "arabic-islamic-phil-math",
   "kind": "retranslate",
   "zh_doc": "a/arabic-islamic-phil-math.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "A-main-20261108",
       "at": "2026-11-07T17:40:12Z",
       "evidence": "补登 3 人名+1 术语（taḥlīl 分析）；勘误 tarkīb 译法为综合（synthesis）与伊吉全名（阿杜德丁·伊吉）；删除与既有 677 行重复的 mutakallimūn 行（同键先登优先：凯拉姆学者）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-07T17:44:40Z",
+      "evidence": "check_all 七项全绿（SUMMARY/分类目录/单体文件/垃圾/术语一致性/学术规范/单元测试，两轮复跑）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-07T17:44:40Z",
+      "evidence": "A 批 51/160；零信任重译 7494 词源文，12 节 17 段落块，五维对账全等，四检+七项门禁全绿"
     }
   ],
   "blockers": [],
