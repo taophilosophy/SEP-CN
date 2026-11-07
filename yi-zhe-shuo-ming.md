@@ -18,11 +18,13 @@
 | addiction | — | 成瘾 | moral-responsibility-empirical | 精神医学与哲学通行（substance addiction 物质成瘾） | 2026-11-07 |
 | affected ignorance | — | 故作无知 | moral-responsibility-empirical | Moody-Adams 术语（affected ignorance）；与“可归咎的无知”相关 | 2026-11-07 |
 | affectedness (Betroffenheit) | — | 受触动 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| affective touch | — | 情感性触觉 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | agent model | — | 行动者模型 | moral-responsibility-empirical | AI 与认知科学通行（Russell & Norvig 的 agent） | 2026-11-07 |
 | akolouthia | ἀκολουθία | 后随关系 | dialectical-school | 学界通行（后件对前件的后承关系，动词 akolouthein 译“后随”）；凭证 2026-11-07 | 2026-11-07 |
 | all-out change | — | 全然大变 | diodorus-cronus | 学界通行（优势论证术语：一切部分皆变）；凭证 2026-11-07 | 2026-11-07 |
 | ampliation (ampliatio) | ampliatio | 扩展（指代的扩展） | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | anamnesis | — | 回忆（anamnesis） | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| anarchic hand | — | 无政府手 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | antecedent/consequent | — | 前件／后件 | 语料回收（marsilius-inghen 首译） | 逻辑学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | anticipation | — | 预期 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | aretaic | — | 德性的（aretaic） | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -44,6 +46,13 @@
 | blame | — | 责备 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | blameworthiness | — | 应受责备性 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | blameworthy | — | 应受责备 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
+| bodily awareness | — | 身体意识 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
+| bodily experience | — | 身体经验 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
+| bodily sensation | — | 身体感觉 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
+| body image | — | 身体意象 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
+| body representation | — | 身体表征 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
+| body schema | — | 身体图式 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
+| bodyguard hypothesis | — | 保镖假设 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Bohr-Einstein frequency condition | — | 玻尔—爱因斯坦频率条件 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | bounded rationality | — | 有限理性 | moral-responsibility-empirical | 西蒙术语通行汉译 | 2026-11-07 |
 | business condition | — | 关己条件 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -84,6 +93,7 @@
 | current self | — | 当前自我 | 语料回收（标题词） | 学界惯例（advance-directives 词条核心（×40））；凭证 2026-11-01 | 2026-11-01 |
 | dark-reared | — | 黑暗饲养 | 语料回收（molyneux-problem 首译） | 发育神经科学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | darkness of the lived moment | — | 体验瞬间的黑暗 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| deafferented | — | 去传入 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | decoherence | — | 退相干 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | degenerating research programme | — | 退化的研究纲领 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
 | deification | — | 神化 | neoplatonism | 宗教哲学通行（希腊语 theosis）；本词条视为伦理学最高目标 | 2026-11-07 |
@@ -125,8 +135,10 @@
 | esoteric writing | — | 隐微写作 | albo-joseph 首译 | 与显白（exoteric）相对；施特劳斯式研究术语通行 | 2026-11-07 |
 | esse apparens | — | 显在存在 | auriol | 奥雷奥利核心术语；正文拉丁原形保留并首现括注 | 2026-11-07 |
 | essential predication | — | 本质述谓 | auriol | 中世纪逻辑与形而上学通行 | 2026-11-07 |
+| evaluative content | — | 评价性内容 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | evolutionary developmental biology | — | 进化发育生物学 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | exemption | — | 豁免 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
+| existential feelings | — | 生存感受 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | expected value | — | 期望价值 | moral-responsibility-empirical | 决策论通行 | 2026-11-07 |
 | extended replicator | — | 扩展复制子 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | extramural speech | — | 校外言论 | 语料回收（标题词） | 学界惯例（学术自由词条核心（×15））；凭证 2026-11-01 | 2026-11-01 |
@@ -157,6 +169,7 @@
 | heresy | — | 异端 | albo-joseph 首译 | 宗教哲学通行 | 2026-11-07 |
 | heritage | — | 遗产 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | holding responsible | — | 追究责任 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
+| homunculus | — | 侏儒图 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Horned Man argument | — | 有角人论证 | dialectical-school | 学界通行（狄奥多罗斯悖论）；凭证 2026-11-07 | 2026-11-07 |
 | huaisheng weisi | 懷生畏死 | 怀生畏死 | dai-zhen | 上游自带汉字；戴震术语（珍惜生命而惧怕死亡）；凭证 2026-11-07 | 2026-11-07 |
 | Hungarian Uprising | — | 匈牙利起义 | 语料回收（lakatos 首译） | 史学界通行译法（1956）；凭证 2026-11-06 | 2026-11-06 |
@@ -165,7 +178,9 @@
 | idea of being | — | 存在观念 | antonio-rosmini | 罗斯米尼核心术语（idea dell'essere） | 2026-11-07 |
 | ill will | — | 恶意 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Immaculate Conception | — | 无染原罪 | auriol | 天主教神学通行（圣母始胎无染原罪） | 2026-11-07 |
+| immunity to error through misidentification | — | 免于误认错误 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | impaired control | — | 受损的控制 | moral-responsibility-empirical | 成瘾研究通行（DSM 物质使用障碍语境） | 2026-11-07 |
+| imperative content | — | 命令式内容 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | incentive sensitivity | — | 激励敏感性 | moral-responsibility-empirical | Pickard 术语（行动随激励增减而变化） | 2026-11-07 |
 | incipit/desinit | incipit/desinit | 开始存在／停止存在 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | inconstruable question | — | 不可建构的问题 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -174,10 +189,12 @@
 | hypothetico-deductive | — | 假设演绎 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | innateness | — | 先天性 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | insolubles | — | 不可解命题 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法（insolubilia）；凭证 2026-11-06 | 2026-11-06 |
+| instrumental agency | — | 工具性能动 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | intensity interpretation | — | 强度解释 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | intentional action | — | 意向行动 | 语料回收（标题词） | 学界惯例（行动哲学核心（action 词条×53））；凭证 2026-11-01 | 2026-11-01 |
 | ideology | — | 意识形态 | law-ideology | 学界通行译法（马克思主义/政治哲学通行）；凭证 2026-11-03 | 2026-11-03 |
 | internal/external history | — | 内部史／外部史 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| interoception | — | 内感受 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | introgression | — | 基因渗入 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | intuition of being | — | 对存在的直观 | antonio-rosmini | 罗斯米尼认识论核心（intuizione dell'essere） | 2026-11-07 |
 | intuitive cognition | — | 直观认知 | auriol | 司各脱—奥卡姆传统通行 | 2026-11-07 |
@@ -191,6 +208,7 @@
 | Lazy Argument | — | 懒惰论证 | dialectical-school | 学界通行（“懒惰论证”通行译法）；凭证 2026-11-07 | 2026-11-07 |
 | Liujing zaidao | 六經載道 | 六经载道 | dai-zhen | 上游自带汉字；儒学通行命题（英 the Six Classics convey the dao）；凭证 2026-11-07 | 2026-11-07 |
 | liyi | 理義 | 理义 | dai-zhen | 上游自带汉字；戴震承《孟子》原词（英 pattern and right）；凭证 2026-11-07 | 2026-11-07 |
+| local sign theory | — | 本地符号理论 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | long-branch attraction | — | 长枝吸引 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Master Argument | kyrieuon logos | 主论证 | dialectical-school | 学界通行（狄奥多罗斯决定论论证的通行译名）；凭证 2026-11-07 | 2026-11-07 |
 | material implication | — | 实质蕴涵 | dialectical-school | 逻辑学通行译法（真值函项条件句）；凭证 2026-11-07 | 2026-11-07 |
@@ -217,7 +235,10 @@
 | moral luck | — | 道德运气 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | moral responsibility | — | 道德责任 | moral-responsibility-empirical | 学界通行（本词条核心术语） | 2026-11-07 |
 | moral sense | — | 道德感 | moral-responsibility-empirical | 道德哲学通行（moral sense 传统） | 2026-11-07 |
+| multimodality | — | 多模态性 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | multiple realizability | — | 多重可实现性 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| multisensory integration | — | 多感官整合 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
+| myness | — | 我的性 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | naive set theory | — | 朴素集合论 | 语料回收（mathematics-inconsistent 首译） | 数理逻辑界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | natura naturans | — | 能生的自然 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | natural kind | — | 自然种类 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -229,10 +250,12 @@
 | newly sighted | — | 新近复明者 | 语料回收（molyneux-problem 首译） | 本词条首译裁定（复明=视力恢复，与 congenitally blind 先天性盲对举）；凭证 2026-11-06 | 2026-11-06 |
 | Newspeak | — | 新话 | 语料回收（lakatos 首译） | 《一九八四》通行译法；凭证 2026-11-06 | 2026-11-06 |
 | No Man argument | — | 无人论证 | dialectical-school | 学界通行（狄奥多罗斯悖论）；凭证 2026-11-07 | 2026-11-07 |
+| nociceptor | — | 伤害感受器 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | non-contemporaneity (Ungleichzeitigkeit) | — | 非同时性 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | Not-Yet (das Noch-Nicht) | — | 尚未 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | Not-Yet-Conscious (das Noch-Nicht-Bewusste) | — | 尚未意识 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | novum | — | 新奇者（novum） | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| numbsense | — | 无感症 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | objectivity | — | 客观性 | antonio-rosmini | 认识论通行 | 2026-11-07 |
 | old quantum theory | — | 旧量子理论 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | omission | — | 遗漏 | moral-responsibility-empirical | 行动哲学通行（omission，与“作为”对举） | 2026-11-07 |
@@ -248,6 +271,7 @@
 | parsimony | — | 简约法 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | partinost | партийность | 党性 | 语料回收（lakatos 首译） | 苏联文艺学界通行译法（俄文 партийность）；凭证 2026-11-06 | 2026-11-06 |
 | paraconsistency | — | 弗协调性 | 语料回收（lakatos 首译） | 逻辑学界通行译法（亦作“次协调”）；凭证 2026-11-06 | 2026-11-06 |
+| phantom limb | — | 幻肢 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | philosophia perennis | — | 常青哲学 | antonio-rosmini | 中世纪—文艺复兴哲学传统通行（与 philosophia perennis 拉丁原形并列） | 2026-11-07 |
 | phosphene | — | 光幻视 | 语料回收（molyneux-problem 首译） | 视觉科学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | per se predication | per se predication | 自身谓述 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法（per se 通译“自身”）；凭证 2026-11-06 | 2026-11-06 |
@@ -266,6 +290,8 @@
 | propensity (interpretation of fitness) | — | 倾向 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | proper function | — | 专有功能 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | proportionality (of blame) | — | 相称性 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
+| proprioception | — | 本体感觉 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
+| protective agency | — | 保护性能动 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | quantum condition | — | 量子条件 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | quantum jump | — | 量子跳跃 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | quantum number | — | 量子数 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -281,6 +307,7 @@
 | recompense | — | 报偿 | albo-joseph 首译 | 阿尔博第四篇术语（赏罚之报偿） | 2026-11-07 |
 | reification | — | 物化 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | robustness | — | 稳健性 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| rubber hand illusion | — | 橡胶手错觉 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | rule of law | — | 法治 | law-ideology | 学界通行译法（法理学通行；规则之治备查）；凭证 2026-11-03 | 2026-11-03 |
 | restriction | — | 限缩 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Routley star | — | Routley 星号 | 语料回收（mathematics-inconsistent 首译） | 相干逻辑通行术语（人名保留英文）；凭证 2026-11-06 | 2026-11-06 |
@@ -313,12 +340,14 @@
 | self-control | — | 自我控制 | moral-responsibility-empirical | 心理学通行 | 2026-11-07 |
 | semantic information | — | 语义信息 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | sensationalism | — | 感觉主义 | antonio-rosmini | 近代认识论通行（与 sensism 感觉论区别） | 2026-11-07 |
+| sense of ownership | — | 拥有感 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | sensory substitution device (SSD) | — | 感官替代设备 | 语料回收（molyneux-problem 首译） | 认知科学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | shengsheng | 生生 | 生生 | dai-zhen | 上游自带汉字；儒学通行（生生不息，英 flourishing of life）；凭证 2026-11-07 | 2026-11-07 |
 | shu | 恕 | 恕 | dai-zhen | 儒家通行（恕道；英 sympathetic consideration，“消极金律”所本）；凭证 2026-11-07 | 2026-11-07 |
 | simple supposition | — | 简单指代 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | simples | amerē | 单纯者 | diodorus-cronus | 学界通行（希腊文 amerē 之译，物理与形而上皆不可分者）；凭证 2026-11-07 | 2026-11-07 |
 | sociobiology | — | 社会生物学 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| somatoparaphrenia | — | 躯体妄想 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | species concept | — | 物种概念 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | species monism | — | 物种一元论 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | species pluralism | — | 物种多元论 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -381,6 +410,7 @@
 | utopian hermeneutics | — | 乌托邦诠释学 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | Veiled Man argument | — | 蒙面人论证 | dialectical-school | 学界通行（狄奥多罗斯悖论）；凭证 2026-11-07 | 2026-11-07 |
 | verisimilitude | — | 逼真性 | 语料回收（lakatos 首译） | 波普尔研究通行译法（truth-likeness 亦译似真性）；凭证 2026-11-06 | 2026-11-06 |
+| vestibular system | — | 前庭系统 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | violinist case | — | 小提琴家案例 | 语料回收（标题词） | 学界惯例（汤姆森思想实验（abortion 词条））；凭证 2026-11-01 | 2026-11-01 |
 | Via Moderna | Via Moderna | 近代之路 | 语料回收（marsilius-inghen 首译） | 中世纪晚期思想史通行译名（与 Via Antiqua 古代之路对举）；凭证 2026-11-06 | 2026-11-06 |
 | vision-for-action | — | 行动视觉 | 语料回收（molyneux-problem 首译） | 双视觉系统文献通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -393,6 +423,7 @@
 | well-ordering theorem | — | 良序定理 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | working memory | — | 工作记忆 | moral-responsibility-empirical | 心理学通行 | 2026-11-07 |
 | world to come | — | 来世 | albo-joseph 首译 | 犹太研究通行（olam ha-ba） | 2026-11-07 |
+| xenomelia | — | 异己肢体症 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | xinzhi | 心知 | 心知 | dai-zhen | 上游自带汉字；戴震术语（心之知，英 understanding heart-mind）；凭证 2026-11-07 | 2026-11-07 |
 | xueqi | 血氣 | 血气 | dai-zhen | 上游自带汉字；戴震术语（血气心知之一环，英 blood-and-qi）；凭证 2026-11-07 | 2026-11-07 |
 | Yellow Emperor | — | 黄帝 | 语料回收（标题词） | 审定直接命中（中医药/中国古代史）；凭证 2026-11-01 | 2026-11-01 |

@@ -2,7 +2,7 @@
   "slug": "bodily-awareness",
   "kind": "retranslate",
   "zh_doc": "b/bodily-awareness.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:01:46Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T15:20:57Z",
+      "evidence": "初译分片 ba1–ba8 落盘（7 正文片 + 尾节），正文 15 575 汉字；标记多重集 242:242、书目 defs 207 条键集全等、H2 5/5、H3 14/14"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T15:20:58Z",
+      "evidence": "一校（结构守恒）：项目符号 11:11、编号项 6:6、引文 9 段齐（含 James×2/Reid/Gibson/Schilder/Merleau-Ponty/Bermúdez/Alsmith/Peacocke）、尾节 4 节（学术工具/其他网络资源/相关词条）齐备"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T15:20:58Z",
+      "evidence": "二校（术语人名）：31 术语 + 18 人名登记入册（enactive approach 沿词汇表 生成进路）；check_terms 硬错误 0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T15:21:02Z",
+      "evidence": "三校（文风学术）：check_style --strict 0 问题；check_academic --strict 0 硬错误；check_prose 34 条告警逐句人工判断后实修至 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T15:21:02Z",
+      "evidence": "一审（回源 §1–§2）：IEM 论证链、多模态三段与触觉/本体感觉/平衡/疼痛/内感受五类感觉逐一对照原文；括注年份与页码复检"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T15:21:02Z",
+      "evidence": "二审（回源 §3–§5）：身体图式 8 项特征清单、三种自表征度、紧缩论三条主张、能动论两条件、保镖假设均逐条对齐；O’Shaughnessy 撇号键 [^o’shaughnessy-1980] 原样保留"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T15:21:04Z",
+      "evidence": "终审：check_all 7/7 全绿；单体 660 行 97 KB 合规；参考文献 207 条照录与源键一一对应，无 note-N（源无内容性脚注）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T15:21:04Z",
+      "evidence": "九步状态机完成；b/bodily-awareness.md 15 575 汉字成稿，含 5 节 14 小节与 4 尾节"
     }
   ],
   "blockers": [],
