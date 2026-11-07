@@ -1656,3 +1656,43 @@
 | ignoratio elenchi | ignoratio elenchi | 拉丁原文保留（不相干谬误） | oakeshott 首译 | 体例：拉丁谬误名保留原词；凭证 2026-11-07 | 2026-11-07 |
 | en voyage | en voyage | 法文原文保留（永远在途中） | oakeshott 首译 | 体例：引语保留原文；凭证 2026-11-07 | 2026-11-07 |
 | supramodal | — | 超模式的 | oakeshott 首译 | 自译裁定（奥克肖特哲学界定；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
+| object | — | 对象 | object 首译 | 学界通行汉译（分析形而上学；与 thing/entity 分列）；凭证 2026-11-07 | 2026-11-07 |
+| umbrella view | — | 伞状观 | object 首译 | 自译裁定（Rettler & Bailey 对『万物皆对象』立场的定名；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
+| contrast question | — | 对照问题 | object 首译 | 自译裁定（同上，三问之一；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
+| extension question | — | 外延问题 | object 首译 | 自译裁定（同上；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
+| ontological question | — | 本体论问题 | object 首译 | 学界通行汉译（van Inwagen『有何物存在』之问）；凭证 2026-11-07 | 2026-11-07 |
+| special composition question | SCQ | 特殊组合问题 | object 首译 | 学界通行汉译（van Inwagen 1989 定名）；凭证 2026-11-07 | 2026-11-07 |
+| existence nihilism | — | 存在虚无主义 | object 首译 | 学界惯例（本体论虚无论辩文献）；凭证 2026-11-07 | 2026-11-07 |
+| existence monism | — | 存在一元论 | object 首译 | 学界惯例（Horgan & Potrč 用语）；凭证 2026-11-07 | 2026-11-07 |
+| existence pluralism | — | 存在多元论 | object 首译 | 学界惯例（与一元论对举）；凭证 2026-11-07 | 2026-11-07 |
+| non-object | — | 非对象 | object 首译 | 自译裁定（伞状观对照项；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
+| complement | — | 补项 | object 首译 | 自译裁定（与『对照项』并列；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
+| contingent being | — | 偶然存在者 | object 首译 | 学界通行汉译（模态形而上学）；凭证 2026-11-07 | 2026-11-07 |
+| item | — | 项 | object 首译 | 学界惯例（本体论清单用语，与 thing/entity 并举）；凭证 2026-11-07 | 2026-11-07 |
+| existent | — | 存在物 | object 首译 | 学界惯例（与 being/entity 并举）；凭证 2026-11-07 | 2026-11-07 |
+| predication | — | 谓述 | object 首译 | 学界通行汉译（逻辑与形而上学）；凭证 2026-11-07 | 2026-11-07 |
+| bare particular | bare particularism | 裸殊相；裸殊相论 | object 首译 | 学界通行汉译（与束理论对举）；凭证 2026-11-07 | 2026-11-07 |
+| bundle theory | — | 束理论 | object 首译 | 学界通行汉译（实体理论）；凭证 2026-11-07 | 2026-11-07 |
+| trope | — | 特普 | object 首译 | 学界通行译法（属性实例；与共相对举）；凭证 2026-11-07 | 2026-11-07 |
+| constituent ontology | — | 构成性本体论 | object 首译 | 学界惯例（与关系性本体论对举）；凭证 2026-11-07 | 2026-11-07 |
+| relational ontology | — | 关系性本体论 | object 首译 | 学界惯例（同上）；凭证 2026-11-07 | 2026-11-07 |
+| class nominalism | — | 类唯名论 | object 首译 | 学界通行汉译（属性即类）；凭证 2026-11-07 | 2026-11-07 |
+| immanent universal | — | 内在共相 | object 首译 | 学界通行汉译（与超越共相对举）；凭证 2026-11-07 | 2026-11-07 |
+| transcendent universal | — | 超越共相 | object 首译 | 学界通行汉译（柏拉图主义）；凭证 2026-11-07 | 2026-11-07 |
+| blob | objects as blobs | 团块 | object 首译 | 学界惯例（Armstrong 论关系性本体论）；凭证 2026-11-07 | 2026-11-07 |
+| identity of indiscernibles | — | 不可分辨者的同一 | object 首译 | 学界通行汉译（莱布尼茨第二律）；凭证 2026-11-07 | 2026-11-07 |
+| indiscernibility of identicals | — | 同一者的不可分辨 | object 首译 | 学界通行汉译（莱布尼茨第一律）；凭证 2026-11-07 | 2026-11-07 |
+| singly-located | — | 单处定位 | object 首译 | 自译裁定（与多重定位对举；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
+| multi-location | multiple location | 多重定位 | object 首译 | 学界惯例（属性多重定位问题）；凭证 2026-11-07 | 2026-11-07 |
+| sense-perceptible | — | 可感知 | object 首译 | 学界惯例（感性知觉判准）；凭证 2026-11-07 | 2026-11-07 |
+| uninstantiated | — | 未被实例化 | object 首译 | 学界惯例（属性/共相用语）；凭证 2026-11-07 | 2026-11-07 |
+| real definition | — | 实在定义 | object 首译 | 学界通行汉译（与名义定义对举）；凭证 2026-11-07 | 2026-11-07 |
+| substratum | — | 基质 | object 首译 | 学界通行汉译（基质理论）；凭证 2026-11-07 | 2026-11-07 |
+| stuff | — | 质料 | object 首译 | 学界惯例（与事物/个体对举）；凭证 2026-11-07 | 2026-11-07 |
+| ordinary object | — | 普通对象 | object 首译 | 学界通行汉译（ordinary objects 辩论）；凭证 2026-11-07 | 2026-11-07 |
+| metaontology | — | 元本体论 | object 首译 | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| quantifier variance | — | 量词变异 | object 首译 | 学界通行汉译（Hirsch 论题）；凭证 2026-11-07 | 2026-11-07 |
+| ontological commitment | — | 本体论承诺 | object 首译 | 学界通行汉译（蒯因）；凭证 2026-11-07 | 2026-11-07 |
+| possible object | — | 可能对象 | object 首译 | 学界通行汉译（迈农主义文献）；凭证 2026-11-07 | 2026-11-07 |
+| fundamental | — | 基本的 | object 首译 | 学界惯例（基础形而上学）；凭证 2026-11-07 | 2026-11-07 |
+| grounding | — | 奠基 | object 首译 | 学界通行汉译（形而上学奠基）；凭证 2026-11-07 | 2026-11-07 |

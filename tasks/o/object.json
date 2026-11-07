@@ -1,0 +1,29 @@
+{
+  "slug": "object",
+  "kind": "retranslate",
+  "zh_doc": "o/object.md",
+  "state": "drafted",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T00:13:26Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T00:15:53Z",
+      "evidence": "双版账本 204 段（body=167+oir=1+ack=1+note=35，文献 255 条照录）落盘，lq check 守恒绿（* 计数差异均为英文斜体书刊名→书名号或单复数强调合并）；compose 63,414 字符/101,948 字节；postfix 补 H1 空行、列表 * 化；italic_to_bold_cjk 转 61 行；check_style --strict 0 issue（首轮 3 处已修：**定义** 前后空格、谓词函子式 c 圆¹/cc 爱² 分词空格）；check_math 2 公式通过；check_academic 硬错误 0。"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-07T00:01:55Z",
+  "version_pin": {
+    "pubinfo_date": "Nov 3, 2023",
+    "archive_edition": "Spring 2026",
+    "sha256": "8000607b8cf52a0c1423c7fc11c5121f88f3410b6d3868443213ee4247745acc"
+  }
+}
