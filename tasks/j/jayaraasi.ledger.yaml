@@ -308,26 +308,34 @@ segments:
     kind: body
     source: |-
       where ‘0’ stands not simply for ‘false’ (logically), but may also stand for ‘not admissible within the opponent’s specific set of beliefs’, or ‘not compatible with the opponent’s specific set of beliefs’. To analyse the truth value or admissibility of each of the conclusions C₁, C₂, C₃, … C_{*n*}, if their structure is complex, Jayarāśi analyses the conclusions in their turn using exactly the same method.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里的“0”并不单纯表示（逻辑上的）“假”，它也可以表示“在论敌特定的信念集合中不可容许”，或“与论敌特定的信念集合不相容”。为分析各结论 C₁, C₂, C₃, … C_{*n*} 的真值或可容许性，若其结构复杂，阇耶罗师便以完全相同的方法再对这些结论逐一分析。
+    step2: |-
+      此处之“0”，非徒表（逻辑）“伪”，亦可表“于论敌特定信念集合中不可容许”，或“与彼集合不相容”。析诸结论 C₁, C₂, C₃, … C_{*n*} 之真值或可容许性时，若其结构繁复，阇耶罗师即以此同一之法再析其结论。
   - id: 38
     kind: body
     source: |-
       What may look like a well-known logical law that underlies the reductio ad absurdum argument, i.e.,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      归谬论证背后那条人所共知的逻辑定律，即：
+    step2: |-
+      归谬论证之所本，似即人人共喻之逻辑定律：
   - id: 39
     kind: body
     source: |-
       > [(~*p*→*q*) ∧ ~*q*] → *p*,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > [(~*p*→*q*) ∧ ~*q*] → *p*,
+    step2: |-
+      > [(~*p*→*q*) ∧ ~*q*] → *p*,
   - id: 40
     kind: body
     source: |-
       or like other typical laws of the proof by contradiction, i.e.,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      或者其他证明法的典型定律，即：
+    step2: |-
+      抑或反证法诸典型定律：
   - id: 41
     kind: body
     source: |-
@@ -336,14 +344,26 @@ segments:
       > [~*p* → (*q*∧~*q*)] → *p*, or
       >
       > [~*p* → (*q*≡~*q*)] → *p* ,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > [(~*p*→*q*) ∧ (~*p*→~*q*)] → *p*,
+      >
+      > [~*p* → (*q*∧~*q*)] → *p*, or
+      >
+      > [~*p* → (*q*≡~*q*)] → *p* ,
+    step2: |-
+      > [(~*p*→*q*) ∧ (~*p*→~*q*)] → *p*,
+      >
+      > [~*p* → (*q*∧~*q*)] → *p*, or
+      >
+      > [~*p* → (*q*≡~*q*)] → *p* ,
   - id: 42
     kind: body
     source: |-
       seems at first closely mirrored by Jayarāśi. However, his approach is significantly different in one particular aspect. First, Jayarāśi analyses positive theses in order to disprove them. Secondly, the reductio or the proof by contradiction, whereby p is rejected, does not commit one to admitting ~p in the sense of accepting a positive state of affairs contrary to p. Jayarāśi is satisfied merely with a rejection of a thesis, without postulating his own solution to a problem. In other words, when Jayarāśi disproves thesis T by demonstrating that its conclusions C₁, C₂, C₃, … Cₙ are all wrong (either false or doctrinally inadmissible), he does not commit himself to the contrary thesis ~T with some kind of ontological entailment. The better way to describe his method would be the following patterns:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      乍看之下，阇耶罗师的做法与这些定律十分相仿。然而，他的进路在一个特定方面显著不同。第一，阇耶罗师分析的是正面的论题，为的是驳倒它们。其次，通过归谬或反证而拒绝 p，并不使我们有义务接受 ~p——即并不等于承认一个与 p 相反正面的事态。阇耶罗师只满足于对论题的拒绝，而不预设自己对问题的解答。换言之，当阇耶罗师通过表明论题 T 的结论 C₁, C₂, C₃, … Cₙ 全都错误（或假，或在教义上不可容许）来驳倒 T 时，他并不把自己承诺于相反论题 ~T 及其某种本体论蕴含。描述他的方法，更恰当的是下面这些模式：
+    step2: |-
+      初视之，阇耶罗师若与此诸律丝丝入扣。然其进路于一特定处大异。其一，阇耶罗师所析者为正面之论题，所以破之也。其二，归谬反证而拒 p，并不令人有受 ~p 之责——非谓承认一与 p 相反之正面事态。阇耶罗师惟满足于拒一论题，不先立己说为解。易言之，及其示 T 之结论 C₁, C₂, C₃, … Cₙ 无一是（或伪，或于教义不可容许）以破 T，未尝自缚于反题 ~T 及其某种本体论之蕴含。述其法，以下为得其模样：
   - id: 43
     kind: body
     source: |-
@@ -354,26 +374,46 @@ segments:
       > [*p* → (*q*∧~*q*)] → ~*p*, or
       >
       > [*p* → (*q*≡~*q*)] → ~*p* ,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > [(*p*→*q*) ∧ ~*q*] → ~*p*,
+      >
+      > [(*p*→*q*) ∧ (*p*→~*q*)] → ~*p*,
+      >
+      > [*p* → (*q*∧~*q*)] → ~*p*, or
+      >
+      > [*p* → (*q*≡~*q*)] → ~*p* ,
+    step2: |-
+      > [(*p*→*q*) ∧ ~*q*] → ~*p*,
+      >
+      > [(*p*→*q*) ∧ (*p*→~*q*)] → ~*p*,
+      >
+      > [*p* → (*q*∧~*q*)] → ~*p*, or
+      >
+      > [*p* → (*q*≡~*q*)] → ~*p* ,
   - id: 44
     kind: body
     source: |-
       To give an example, Jayarāśi first skillfully demonstrates that the universal cannot exist by mentioning three possible conclusions: If (T) the universal exists, then (C₁) the universal is different from the individuals in which it is instantiated, (C₂) it is not different from the individuals, or (C₃) it is different from the individuals in some aspects and it is not different from the individuals in other aspects. Each of these options is then analysed into further options, all being eventually shown as wrong or impossible. Since all the three conclusions C₁, C₂ and C₃ are rejected, the initial thesis T (‘the universal exists’) is also rejected. However, he does not say what at all exists, if there are no universals.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      举一例来说：阇耶罗师先巧妙地表明共相不能存在，办法是举出三个可能的结论。如果（T）共相存在，那么（C₁）共相不同于体现它的各个别事物，（C₂）它与各个别事物没有差异，或（C₃）它在某些方面不同于各个别事物、在另一些方面则不然。随后，每个选项又被分析为进一步的选项，最终都被证明是错误的或不可能的。既然三个结论 C₁、C₂ 和 C₃ 全被拒绝，初始论题 T（“共相存在”）也就被拒绝。然而，他并没有说：若没有共相，究竟还有什么存在。
+    step2: |-
+      举例以明：阇耶罗师先巧示共相不能有，法在举三可能之结论。设（T）共相有，则（C₁）共相异于其所寓之诸个别，（C₂）共相于诸个别无异，（C₃）共相于某些方面异于诸个别、于另一些方面则无异。已而一一析各选项为更细之选项，究之皆谬皆不可能。三结论 C₁、C₂、C₃ 既俱见拒，首题 T（“共相有”）亦随之见拒。然使无共相，果复有何物之存，则未之语也。
   - id: 45
     kind: body
     source: |-
       In his method, Jayarāśi does not mention all logically conceivable conclusions entailed by a thesis he wants to disprove. In most cases, he limits himself just to those implications which are relevant to the discussion with a particular philosophical school, and all other logical or thinkable implications of which we know that the opponent would never admit for a variety of reason are simply ignored.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在其方法中，阇耶罗师并不提出他想驳倒的论题所蕴含的一切逻辑上可设想的结论。多数情况下，他只限于那些与同特定哲学学派讨论相关的蕴含；至于我们知道论敌出于各种原因绝不会承认的其他逻辑或可设想之蕴含，他干脆略去不论。
+    step2: |-
+      其法也，阇耶罗师不尽举所欲破论题之一切逻辑可想像之蕴含。多数惟取与某宗论辩相关之蕴含；他之逻辑或可想像之蕴含，吾人知论敌以种种因必不许者，概置不问。
   - id: 46
     kind: body
     source: |-
       Interestingly, the critical method of analysis of the reductio type (prasaṅga) which Jayarāśi so amply uses is basically absent in the works of the Digambara philosopher Akalaṅka, whereas the method is regularly used by his commentator Vidyānanda and all subsequent Jaina thinkers, which may have its historical relevance and suggest that Jayarāśi was posterior to Akalaṅka.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有趣的是，阇耶罗师大量使用的这种归谬式（prasaṅga）批判分析方法，在天衣派哲学家阿迦楞迦的著作中基本上是缺席的；而这一方法却为他的注释者毗提耶难陀以及其后的所有耆那教思想家所常规使用。这一点可能具有历史意义，并提示阇耶罗师晚于阿迦楞迦。
+    step2: |-
+      饶趣者：阇耶罗师所大发辉用的归谬式（prasaṅga）批判分析法，于天衣派哲人阿迦楞迦之书几于全无；而此法为其注家毗提耶难陀以降一切耆那思家所常用。此中或有史义，足证阇耶罗师后于阿迦楞迦。
   - id: 47
     kind: body
     source: |-
