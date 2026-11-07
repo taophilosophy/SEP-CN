@@ -2,7 +2,7 @@
   "slug": "obligationes",
   "kind": "retranslate",
   "zh_doc": "o/obligationes.md",
-  "state": "drafted",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,27 @@
       "actor": "OR-main-20261106",
       "at": "2026-11-07T00:36:28Z",
       "evidence": "双版账本 90 段（body=87+oir=1+note=2，文献 80 条照录）落盘，lq check 守恒绿（* 计数差异均为拉丁/英文斜体条目转书名号或术语并入）；compose 26,162 字符/43,723 字节；postfix 补 H1 空行、列表 * 化；italic_to_bold 5 行；check_style --strict 0；check_academic 硬错误 0；prose 首轮 9→0 已在落盘前修净（长句 3 拆、『被』堆叠 4 改、弱动词 2 改）。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T00:37:57Z",
+      "evidence": "一校逐段回核（90 段）：①数字守恒 0 差异（13 世纪、1302、1330–35、1335–1370、1270 年代、1323、1397–98、1852 等全部一致）；②拉丁术语逐条对读：positio/depositio/dubitatio/institutio·impositio/sit verum/petitio/pertinens·impertinens/est concedendum·est negandum/sequitur/compossibile/elenchus/logica moderna/positio impossibilis，一律保留原文并随文释义；③两张论辩表（D1/D2）逐格回核，*Positum* 行、命题行、评语行与源一致；④术语裁定两处：obligationes 通译作『义务理论』（与伦理学 deontology『义务论』分列，避免同形混淆，全文 66 处统一），prima facie duties 改『显见义务』（罗斯伦理学通行译法）；⑤登记术语 13 行。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T00:37:57Z",
+      "evidence": "二校反欧化：check_prose 9→0（long-sentence 3 处拆分、passive-bei 4 处改主动或『被提及而非被使用』改『只提及…并未使用』、weak-verb 2 处改『举行/给出』）；术语改形后复跑仍为 0。账本 step2 与正文同源重合成。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T00:38:49Z",
+      "evidence": "三校：check_style --strict 0 issue；check_academic 硬错误 0；check_terms 硬错误 0（新登记 13 行无冲突，140 条缺原文告警为他会话既存项）；check_prose 0；check_all 7/7 全绿；markdownlint 该文件 0 issue。结构：标题 14 个与源逐级对应（H1+5 节+References 及 3 小节+学术工具+其他网络资源+相关词条；源『## Notes（原文脚注）』按流水线体例并入『## 脚注』区）；两张表格 8 行完整；脚注 82 定义/32 引用，未定义项仅工具样板 [^key]。体量 7,502 汉字 / 43,822 字节。"
     }
   ],
   "blockers": [],

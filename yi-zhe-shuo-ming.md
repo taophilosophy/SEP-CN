@@ -1698,3 +1698,16 @@
 | grounding | — | 奠基 | object 首译 | 学界通行汉译（形而上学奠基）；凭证 2026-11-07 | 2026-11-07 |
 | being quantified over | — | 作为量化对象 | object 首译 | 自译裁定（避免单句『被』堆叠；与 being referred to 对举）；凭证 2026-11-07 | 2026-11-07 |
 | object of thought | — | 思想的对象 | object 首译 | 学界通行汉译（布伦塔诺/胡塞尔研究）；凭证 2026-11-07 | 2026-11-07 |
+| obligationes | — | 义务理论（保留拉丁原词 *Obligationes*） | obligationes 首译 | 学界惯例（中世纪逻辑研究通行；与伦理学 deontology『义务论』分列）；凭证 2026-11-07 | 2026-11-07 |
+| positio | — | 设定（保留拉丁原词） | obligationes 首译 | 学界惯例（中世纪义务理论研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| depositio | — | 撤定 | obligationes 首译 | 自译裁定（与 positio 对举；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
+| dubitatio | — | 存疑 | obligationes 首译 | 学界惯例（中世纪逻辑研究）；凭证 2026-11-07 | 2026-11-07 |
+| disputation | obligational disputation | 论辩（义务论辩） | obligationes 首译 | 学界惯例；凭证 2026-11-07 | 2026-11-07 |
+| respondent | — | 应答者 | obligationes 首译 | 学界惯例（对话逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
+| opponent | — | 提问者 | obligationes 首译 | 学界惯例（对话逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
+| sophismata | sophisma | 诡辩题 | obligationes 首译 | 学界通行汉译（中世纪逻辑文种）；凭证 2026-11-07 | 2026-11-07 |
+| est concedendum | — | 必须承认 | obligationes 首译 | 学界惯例（中世纪义务论核心术语）；凭证 2026-11-07 | 2026-11-07 |
+| est negandum | — | 必须否认 | obligationes 首译 | 学界惯例（同上）；凭证 2026-11-07 | 2026-11-07 |
+| compossibile | — | 可共存 | obligationes 首译 | 学界惯例（莱布尼茨/中世纪逻辑）；凭证 2026-11-07 | 2026-11-07 |
+| elenchus | — | 驳诘 | obligationes 首译 | 学界通行汉译（柏拉图研究）；凭证 2026-11-07 | 2026-11-07 |
+| logica moderna | — | 现代逻辑（中世纪语境） | obligationes 首译 | 学界惯例（与 logica antiqua 对举）；凭证 2026-11-07 | 2026-11-07 |
