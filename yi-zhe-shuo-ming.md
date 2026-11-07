@@ -1823,3 +1823,16 @@
 | self-reliance | — | 自立 | emerson | Emerson 篇名 Self-Reliance 通行汉译“自立”（亦作“自助”），本条锁定“自立” | 2026-11-07 |
 | Over-Soul | — | 超灵 | emerson | 学界通行（爱默生《论超灵》） | 2026-11-07 |
 | gelukpa | དགེ་ལུགས་པ | 格鲁派 | gelukpa | 传统译名（藏传佛教四大派，dge lugs pa；宗喀巴所创） | 2026-11-07 |
+| Cārvāka / Lokāyata | — | 顺世论 | jayaraasi | 印度哲学史学界通行（唯物论派；音译“遮卢婆迦”较少用）；与既有 anumāna/pratyakṣa 因明系译名并行 | 2026-11-07 |
+| pramāṇa（认知凭据义） | — | 认知凭据 | jayaraasi | 因明学“量”之散文义；j/jayaraasi 全文作“认知凭据”并括注“量”，与表内 pramāṇa=量论（学科义）分工 | 2026-11-07 |
+| Tattvôpaplava-siṁha | — | 《谛坏狮子论》 | jayaraasi | 本库自拟书名（tattva 谛、upaplava 坏灭、siṁha 狮子）；梵文原题随文括注 | 2026-11-07 |
+| prasaṅga | — | 归谬论式 | jayaraasi | 学界惯例（中观学“归谬”；与“自立论证”svatantra 相对） | 2026-11-07 |
+| vitaṇḍā | — | 只破不立之辩 | jayaraasi | 正理派辩论分类通行译法（与 vāda 真辩相对） | 2026-11-07 |
+| catuṣ-koṭi | — | 四句 | jayaraasi | 因明与中观学传统译名（有、无、亦有亦无、非有非无） | 2026-11-07 |
+| pratyakṣa（知觉义） | — | 知觉 | jayaraasi | j/jayaraasi 行文作“知觉”并括注 pratyakṣa；与表内 pratyakṣa=现量（量目义）分工 | 2026-11-07 |
+| upamāna | — | 譬喻量 | jayaraasi | 因明六量传统译名（与义准量 arthāpatti 同系） | 2026-11-07 |
+| abhāva | — | 无体量 | jayaraasi | 因明传统译名（依缺席之否定证） | 2026-11-07 |
+| sambhāva | — | 相等量 | jayaraasi | 印度量论通行译法 | 2026-11-07 |
+| aitihya | — | 传承量 | jayaraasi | 印度量论通行译法（辗转相传为量） | 2026-11-07 |
+| śabda / āgama | — | 声量／圣典量 | jayaraasi | 因明“声量”与“圣言量”传统译名 | 2026-11-07 |
+| anubhava | — | 直接经验 | jayaraasi | 学界通行（与“量”相对的经验义） | 2026-11-07 |
