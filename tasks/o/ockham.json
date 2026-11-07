@@ -2,7 +2,7 @@
   "slug": "ockham",
   "kind": "retranslate",
   "zh_doc": "o/ockham.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "direction",
@@ -59,6 +59,20 @@
       "actor": "OR-main-20261108",
       "at": "2026-11-07T22:34:49Z",
       "evidence": "复审（逐句回核原文与逻辑）：(a) 逻辑连接词密度对照——中文因此12/然而8/不过14/所以6/反之3/换言之2/恰恰相反4 vs 英文 Thus10/However1/Nevertheless4/hence2/Conversely1/In short2/On the contrary3，转折与推论标记一一对位，无增译因果或漏译转折；(b) 关键论证句回核 5 处——「显得只会说『不』」(only negative)、「奥卡姆如此区分二者」(Here is how)、「争的究竟是什么」(What was at stake)、「究竟图什么」(What is the purpose)、「为免无穷倒退」(On pain of infinite regress) 全部对应；(c) §8.1 财产权论证链十步逐步核验（John 拒 use/ownership 之别→消耗品论证→自然权利不可放弃→可放弃所有权→失诉权→不可让渡权利总原则→一切财产实为私有→伊甸园无财产→排他性领主权→堕落后引入）全部到位，无逻辑断裂或颠倒。抽查中 4 处技术性 MISS 经查为 ** 加粗标记导致的字符串不匹配，非译文缺失。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "OR-main-20261108",
+      "at": "2026-11-07T22:52:51Z",
+      "evidence": "终审（终稿验收）：check_all 7/7 全绿（SUMMARY 结构审计、分类目录对应性、单体文件大小、垃圾与产物入库、术语一致性、哲学学术规范、管线单元测试）；定点六检复跑——check_style --strict 0、check_prose 0、markdownlint 0、check_math unbalanced 空、check_summary --headers H1 mismatch 0、check_academic --strict 硬错误 0。成稿 48,663 字符 / 549 行；175 段账本与成稿同源（compose 生成，无手工分叉）。验收签字：OR-main-20261108。ADR-0020 复核独立性：r1-r3 由 OR-main-20261108 执行（初译 OR-main-20261107），跨会话署名 + s3 后冷置隔离，符合单会话冷置条款。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "OR-main-20261108",
+      "at": "2026-11-07T22:52:51Z",
+      "evidence": "done：ockham 全程闭环（direction→clear→draft→s1→s2→s3→r1→r2→r3→done 九步无跳步）。成品 o/ockham.md；账本 tasks/o/ockham.ledger.yaml 175 段双版留档；术语与人名新登记 25 行（含蓄词项/绝对词项/《逻辑大全》/《九十日之作》/完全权力/使徒贫困/住院派/属灵派/切塞纳的迈克尔/巴伐利亚的路德维希等，均含凭证）"
     }
   ],
   "blockers": [],
