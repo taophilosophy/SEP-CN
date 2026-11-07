@@ -123,9 +123,9 @@ def scan(root):
                 referenced.add(os.path.abspath(target))
                 continue
             rel_target = os.path.relpath(target, root).replace(os.sep, '/')
-            if (rel_target == 'yuanwen' or rel_target.startswith('yuanwen/')) \
-                    and not os.path.isdir(os.path.join(root, 'yuanwen')):
-                continue  # 镜像未随仓（CI），跳过
+            if rel_target.startswith('yuanwen/assets/') \
+                    and not os.path.isdir(os.path.join(root, 'yuanwen', 'assets')):
+                continue  # 镜像资产未随仓（CI 检出只有 yuanwen 的少量跟踪文件），跳过
             hit = case_hit(target)
             if hit:
                 case_bad.append((rel, ref, os.path.relpath(hit, root).replace(os.sep, '/')))
