@@ -2,7 +2,7 @@
   "slug": "intentionality-ancient",
   "kind": "retranslate",
   "zh_doc": "i/intentionality-ancient.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "?",
       "at": "2026-11-07T16:10:56Z",
       "evidence": "三校：check_academic --strict 通过；check_prose 0 项（实修至零，无豁免）；check_math 0 公式；check_terms 硬错误 0；书目 defs 照录"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "I-main-20261108",
+      "at": "2026-11-07T19:50:09Z",
+      "evidence": "独立复审（rules/04 复核独立性：本会话非初译会话 ses-FGHIJK）：对照 yuanwen/i/ 六节逐段核销 45 段，段落数与脚注位置全对齐；文献 20 条逐一核对（Brentano/Burnyeat/Caston 七种/Denyer/Frede 三种/Furth/Johansen/Owen 两种/Perler/Ryle/Sorabji/Spiegelberg/Taieb），––– 破折号缩写与斜体书名照录；引文定位核销：巴门尼德 B1/B2/B3/B6/B8.35-36、Tht. 152c/160a-b/163e/167a/186e/187b-e/188a-c/188d-189b/189c-190e/190a-c/190d/191c-d/194c-d/193c-194b/195c-d/195e-196a/197c-200d/209b、Rep. 476e/478b、Parm. 132b-c、Soph. 236e-237c/240d-241b/241d/261d-262d/262e/263a-d/263c/263d-264b/263e-264a/264e、Symp. 199d、Charm. 167c-168a、Phlb. 38e-39a/40c-e、Crat. 420b-c/429d-430a/430a-431b、Euthd. 283e-284e/286c-d/287e-288a、De Mem. 450a25/449b31/452b9-11、De An. II 12 424a17-24/III 2 425b23-24,426a2-11/III 3 427a9-b6,428a24-b9,428b10-429a8/III 4 429a15-19/III 6/III 7 431a16-17/III 8 431b26-29,432a8-10,432a12-14、Metaph. VI 4/IX 10/XII 9 1074b34-36、Int. 1 16a3-9、EN IX 9 1170a29-b1、DL VII 46/50/53/61/63/66-68/157、S.E. Adv. math. VII 51/65/246、VIII 11-12/70/71-73/409、IX 211、XI 8-11、Seneca Ep. 58.15、Stob. 1.136.21/1.138.14、Plot. Enn. 6.6.12.13-29、Origen Princ. 3.1.2、Aet. 4.11.1-4/4.12.1-4、Plut. Adv. Col. 1084f-1085a、Cic. Acad. 2.77-78、Clem. Strom. 8.9.3-4、Wittgenstein PI I.133 §462 / II.177 §iii 全在场，无漏译、无增译、无事实错"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "I-main-20261108",
+      "at": "2026-11-07T19:51:09Z",
+      "evidence": "逐句回核+实修 2 处：①§6 末段图式 '… forms a representation *that* –' 原译「——表道——」过于隐晦且不成句，改为「……形成一表象，即——」（账本 step2 同步）；②§6 克吕西波段 'universal generalization' 原译「全称之概」缩略不当，改「全称概括」。逻辑核销：不一致三元 (A)(B)(C) 与 §3 编号一一对应；(ii) 中介策略四家（柏拉图形式/亚里士多德身内变/克吕西波命题/伊壁鸠鲁物体表面）无错位；斯多亚 Something 为至高属 → ennoēma → lekton 三段递进脉络完整；二值原则 vs 排中律两处区分正确；非理性动物 lekta 归谬链条（Frede 1983/Sorabji 1993 反对设 → 因果说反证）无断裂。零信任回原文核 3 处可疑：'on pain of contradiction'→「否则相违」义确；'so beyond the pale'→「其虚之甚」义确；'secure representation'→「牢固之表」与 phantasia katalēptikē 对应确。账本守恒 45 段 HARD=0（斜体→书名号 SOFT 逐条属正常）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "I-main-20261108",
+      "at": "2026-11-07T19:51:52Z",
+      "evidence": "终稿验收：check_style 0 issue；check_math 公式 0 缺失 0 不平衡；check_summary H1 mismatch 0；check_prose 0 issue；check_academic --strict OK（s3/r3 挂钩自动拦截已过）；账本 lq.py check 45 段守恒通过。术语一致性核销：意向性/intentio/intentio 术语史三义（实践义-认知义-视觉论义）分疏清楚；ennoēma=内在对象、lekton=可说者/所意、phantasma=幻象、phantasia=表象、phantasia katalēptikē=牢固之表 全档统一；斯多亚学派三主（塞诺/克勒安忒斯/克吕西波）译名与 ren-ming-biao 一致；亚里士多德 phantasmata=影像、phantasia 保留原文斜体"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "I-main-20261108",
+      "at": "2026-11-07T19:54:09Z",
+      "evidence": "终审签字：45 段全量直译三校完成，六道门禁全过（style/math/summary/prose/academic/账本守恒），独立复审由非初译会话执行，exit 0"
     }
   ],
   "blockers": [],

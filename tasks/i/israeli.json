@@ -2,7 +2,7 @@
   "slug": "israeli",
   "kind": "retranslate",
   "zh_doc": "i/israeli.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "?",
       "at": "2026-11-06T12:50:42Z",
       "evidence": "四检全绿：check_academic --strict OK；check_style --strict issues=[]；check_prose issues=[]；check_math formulas=0/missing=[]/unbalanced=[]；lq check 守恒门 80 段通过"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "I-main-20261108",
+      "at": "2026-11-07T20:12:50Z",
+      "evidence": "独立复审（rules/04 独立性：本会话≠初译会话）：对照 yuanwen/i/israeli.md 六节逐段核销 80 段，段落数与脚注位置全对齐；37 条脚注（altmann×3/fried/freudenthal/hirschfield×2/muckle×2/stern×3/adamson×2/alonso/altmann-1979/blachere/d'ancona/engel/ferre/guttmann×2/husik/ivry/langermann/pessin×2/rudavsky/sadik/sirat/stern-1960/1957/stitskin/teicher/wolfson×2/zimmerman）逐条比对源文顺序与文字，源文拼写讹误（Guttmann 'irhen/judische'、'Addler'、'Book on Sprit and Soul'、'Fida Orthodoxa'、Guttman/Guttmann）按照录原则保全；文献页引证（Altmann and Stern pp. x/5/10-11/24/25/36-7/39/50/59/78/86/120-121/157-8/183/217/30,44,73-74,117/81-105/108-117/119-132/xiii-xiv、Blachere p.157、Teicher p.424、Stern pp.16-17、Fried pp.75-83、Alonso pp.295,325、Engel 2022、Freudenthal and Stern 2017、Wolfson 1961 pp.279-280）全在场；三书辨名核销：《论元素章》（Chapter on the Elements/曼图亚文本）、《元素之书》（Book of the Elements/Kitab al-Ustuqussat）、《定义之书》三称不混（§5 导言'除《论元素之书》外'对源 'except the Book on the Elements' 义确）。实抓 1 处：§4.4 源文括注 (אלפכר) 译文脱漏，已补回"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "I-main-20261108",
+      "at": "2026-11-07T20:14:39Z",
+      "evidence": "逐句回核+实修 1 处（§4.4 补希伯来语括注，账本 step2 同步）。逻辑与史实核销：①四类探究（存在/本质/性质/何因）与亚里士多德《后分析篇》ii.1 及肯迪第三问'哪一个'之别无误；②四因精神/形体二分与'精神性质料因'悖论化解（属为种之质料基底）脉络完整；③流溢序：第一质料+第一形式→第一理智→第二理智→三魂→天球/自然，与 §§3.5-3.7 递进一致；④理智三位格（第一理智/理性灵魂中之潜在理智/'第二理智'实为第三位格）与 Stern 斥误读肯迪、Wolfson 驳之的对立陈述未混；⑤三书归属辨（定义之书 57 条、实体之书残篇缀合、论精神与灵魂犹太教化）互相不越界。零信任抽查 4 处回原文：'belles-lettrist'→'美文故事'义确；'patronymic'→'父名'义确；'epitome'→'节要'义确；'oxymoronic'→'近于自相矛盾'义确。术语核销：流溢 emanation/位格 hypostasis/理智 Nous·Intellect/太一 The One/否定神学 Negative Theology/二值原则 全档统一"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "I-main-20261108",
+      "at": "2026-11-07T20:17:42Z",
+      "evidence": "终稿验收：check_style 0 issue；check_prose 0 issue；check_academic --strict OK（r3 挂钩自动拦截已过）；账本 lq.py check 80 段守恒通过。人名/术语一致性：与 ren-ming-biao 登记形核对（Saadya Gaon 萨阿迪亚·加昂 行1458、Ibn Gabirol 伊本·加比罗尔/阿维斯布朗 行886、al-Jahiz 贾希兹 行1463、al-Tabari 塔巴里 行1464 均一致）。跨条目待裁定 2 项（不入本任务返工，上报）：①本档正文'萨阿迪亚·加昂'合人名册、相关词条行'萨阿迪亚·果昂'合 SUMMARY(s/saadya.md) 登记题，二者冲突源于上游登记；②ibn-ezra.md 用'盖比鲁勒（阿维斯布隆）'与人名册行886'伊本·加比罗尔（阿维斯布朗）'不合"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "I-main-20261108",
+      "at": "2026-11-07T20:21:28Z",
+      "evidence": "终审签字：80 段全量直译三校完成，五道机检全绿（style/prose/academic/账本守恒/四检），独立复审由非初译会话执行，exit 0"
     }
   ],
   "blockers": [],
