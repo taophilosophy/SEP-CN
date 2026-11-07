@@ -2,7 +2,7 @@
   "slug": "auriol",
   "kind": "retranslate",
   "zh_doc": "a/auriol.md",
-  "state": "r3_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -59,6 +59,13 @@
       "actor": "A-main-20261107",
       "at": "2026-11-07T12:55:41Z",
       "evidence": "三审（体例）接管复核：check_all 七项全绿（SUMMARY 结构/分类目录/单体文件/垃圾入库/术语一致性/学术规范/管线单测）；定点复检 style --strict 0、academic --strict 0、math 0、render_artifacts 0、prose 9 全豁免留痕；SUMMARY 定名一致（彼得·奥雷奥利 Auriol [Aureol, Aureoli], Peter；司各脱形对齐 SUMMARY 家法约翰·邓·司各脱）；五维对账独立自证：H2 8:8、脚注标记多重集 86:86 全等（ASCII 归一）、defs 键集 71:71 全等、散段 37:37、引用注释型说明行照录——src=dst 逐维相等"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "A-main-20261107",
+      "at": "2026-11-07T12:56:59Z",
+      "evidence": "收口 done：r1（前会话）+r2 实修 20/r3 七项全绿接续完成，八步凭证齐（clear/draft/s1/s2/s3/r1/r2/r3），check_all 复跑全绿；A 批 done 50/160"
     }
   ],
   "blockers": [],
