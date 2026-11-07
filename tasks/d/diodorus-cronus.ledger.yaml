@@ -11,260 +11,346 @@ segments:
     kind: body
     source: |-
       Diodorus Cronus (died circa 284 BCE) was a figure widely known and admired in antiquity, for his dialectical skills, contributions to the study of logic and his philosophical views. Recent philosophy and scholarship have engaged with his Master Argument and his modal system, but other aspects of his thought, including a version of atomism, arguments against change, ambiguity, singular reference and past-tense statements, have been relatively neglected. Debates over his affiliation have played an important role in the historiography of post-classical Greek philosophy, in particular whether there was a Dialectical school, of which Diodorus would be a principal representative.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      狄奥多罗斯·克罗诺斯（Diodorus Cronus，约卒于公元前 284 年）在古代广为人知并备受推重，以其论辩技艺、对逻辑研究的贡献及其哲学观点著称。晚近的哲学与学术研究关注其主论证与模态系统，但其思想的其他方面——包括一种版本的原子论、反对变化的论证、歧义、单称指称与过去时陈述——则相对受到忽视。关于其学派归属的争论在后古典希腊哲学的史学中扮演了重要角色，尤其是是否存在一个辩证学派的问题——狄奥多罗斯将是其主要代表。
+    step2: |-
+      狄奥多罗斯·克罗诺斯（Diodorus Cronus，约卒于公元前 284 年）在古代广为人知且备受推重：论辩技艺、对逻辑研究的贡献与哲学观点皆其所长。晚近的哲学与研究关注其主论证与模态系统，但其思想的其他方面——包括一种版本的原子论、反对变化的论证、歧义、单称指称与过去时陈述——相对受到忽视。其学派归属之争，在后古典希腊哲学的史学中扮演了重要角色，尤其是辩证学派是否存在这一问题——狄奥多罗斯将是该学派的主要代表。
   - id: 2
     kind: body
     source: |-
       ## 1. Biography
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1. 生平
+    step2: |-
+      ## 1. 生平
   - id: 3
     kind: body
     source: |-
       Diodorus was born in Iasos, a city in ancient Caria, on the west coast of modern-day Turkey. Iasos had been part of the Delian league during the Peloponnesian war (431–404BCE) and Diodorus studied dialectic with a minor teacher Apollonius Cronus, a native of Cyrene. Diodorus inherited the nickname, ‘Cronus’, from Apollonius. ‘Cronus’ seems to have meant ‘old codger’ (Plato *Euthydemus* 287b), although it may also have implied ‘cunning’ (Döring 1972, 124; Muller 1985, 128; Iliad II 205; Odyssey XXI, 415; Hesiod *Theogony* 18)[^döring-1972][^muller-1985][^döring-1972-2][^muller-1985-2]. Apollonius had studied with Eubulides of Miletus, a student of Euclides of Megara. Euclides was a long-standing member of the Socratic circle (*Phaedo* 59b-c; *Theaetetus* 142a-143b).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      狄奥多罗斯生于雅索斯（Iasos），古代卡里亚的一座城市，位于今土耳其西海岸。伯罗奔尼撒战争（公元前 431–404 年）期间雅索斯是提洛同盟的成员；狄奥多师从一位次要的教师阿波罗尼俄斯·克罗诺斯（Apollonius Cronus，昔兰尼人）学习论辩术。狄奥多罗斯从阿波罗尼俄斯那里继承了“克罗诺斯”这一绰号。“克罗诺斯”似乎意为“老顽固”（柏拉图《欧绪德谟篇》287b），但也可能暗示“狡黠”（Döring 1972, 124; Muller 1985, 128; Iliad II 205; Odyssey XXI, 415; Hesiod *Theogony* 18）[^döring-1972][^muller-1985][^döring-1972-2][^muller-1985-2]。阿波罗尼俄斯曾师从米利都的欧布里德，而欧布里德是麦加拉的欧克里德的学生。欧克里德是苏格拉底圈子的资深成员（《斐多篇》59b–c；《泰阿泰德篇》142a–143b）。
+    step2: |-
+      狄奥多罗斯生于雅索斯（Iasos）——古代卡里亚的一座城市，在今土耳其西海岸。伯罗奔尼撒战争（公元前 431–404 年）期间雅索斯属提洛同盟；狄奥多罗斯师从一位次要教师、昔兰尼人阿波罗尼俄斯·克罗诺斯（Apollonius Cronus）学习论辩术，并从阿波罗尼俄斯那里继承“克罗诺斯”这一绰号。“克罗诺斯”似乎意为“老顽固”（柏拉图《欧绪德谟篇》287b），也可能暗示“狡黠”（Döring 1972, 124; Muller 1985, 128; Iliad II 205; Odyssey XXI, 415; Hesiod *Theogony* 18）[^döring-1972][^muller-1985][^döring-1972-2][^muller-1985-2]。阿波罗尼俄斯曾师从米利都的欧布里德，欧布里德则是麦加拉的欧克里德的学生。欧克里德是苏格拉底圈子的资深成员（《斐多篇》59b–c；《泰阿泰德篇》142a–143b）。
   - id: 4
     kind: body
     source: |-
       Diodorus’ date of death is easier to establish than his date of birth. David Sedley has shown that Diodorus died in Alexandria around 284BCE (Sedley 1977, 80)[^sedley-1977], a date now generally accepted (Sorabji 1980, 106; Algra 1999, 52; Duncombe 2023)[^algra-1999][^duncombe-2023][^sorabji-1980]. Diodorus was teaching in Athens in the 310s BCE, where we know he taught Zeno of Citum, founder of Stoicism, and Philo the Logician, Diodorus’ colleague in the Dialectical school. The sceptic Arcesilaus arrived in Athens around 295BCE and was at least influenced by Diodorus, if not directly taught by him. When Ptolemy Soter (d. 282–3) began to draw Greek intellectuals to Alexandria, it seems Diodorus joined them. In Alexandria, Diodorus was sufficiently well known that Callimachus could feature him in epigrams. Callimachus himself did not arrive in Alexandria until 290–85. We know from Diogenes Laertius (DL, 2, 111–2) that Diodorus died during the reign of Ptolemy Soter, so before 283–2. If Diodorus died in Alexandria, it cannot have been before 290 and was probably after 285, but before 283–2, making 284 a reasonable conjecture.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      狄奥多罗斯的卒年比生年更容易确定。戴维·塞德利已论证狄奥多罗斯于公元前 284 年左右卒于亚历山大里亚（Sedley 1977, 80）[^sedley-1977]，这一年代如今被普遍接受（Sorabji 1980, 106; Algra 1999, 52; Duncombe 2023）[^algra-1999][^duncombe-2023][^sorabji-1980]。公元前 310 年代狄奥多罗斯在雅典讲学，我们知道他在那里教过斯多亚主义创始人、基提翁的塞诺，以及辩证学派中他的同侪麦加拉的菲洛。怀疑论者阿尔凯西劳约于公元前 295 年抵达雅典，他至少受了狄奥多罗斯的影响，纵非直接受教于他。当托勒密一世·救主（Ptolemy Soter，卒于公元前 282–283 年）开始把希腊知识分子吸引到亚历山大里亚时，狄奥多罗斯似乎也加入了他们。在亚历山大里亚，狄奥多罗斯声名足以使卡利马科斯（Callimachus）能在警句诗中写到他。卡利马科斯本人直到公元前 290–285 年才抵达亚历山大里亚。我们从第欧根尼·拉尔修（DL 2, 111–2）得知狄奥多罗斯死于托勒密·救主在位期间，即公元前 283–282 年之前。若狄奥多罗斯死于亚历山大里亚，则不早于公元前 290 年，且大概在公元前 285 年之后、公元前 283–282 年之前——由此，公元前 284 年是一个合理的推测。
+    step2: |-
+      狄奥多罗斯的卒年比生年易于确定。戴维·塞德利（David Sedley）已论证狄奥多罗斯约于公元前 284 年卒于亚历山大里亚（Sedley 1977, 80）[^sedley-1977]；这一年代如今被普遍接受（Sorabji 1980, 106; Algra 1999, 52; Duncombe 2023）[^algra-1999][^duncombe-2023][^sorabji-1980]。公元前 310 年代狄奥多罗斯在雅典讲学：据我们所知，他在那里教过斯多亚主义创始人基提翁的塞诺，也教过辩证学派中他的同侪麦加拉的菲洛。怀疑论者阿尔凯西劳约于公元前 295 年抵达雅典；纵非直接受教于狄奥多罗斯，他至少受了其影响。当托勒密一世·救主（Ptolemy Soter，卒于公元前 282–283 年）开始把希腊知识分子吸引到亚历山大里亚时，狄奥多罗斯似乎也加入了他们。在亚历山大里亚，狄奥多罗斯声名之盛，足使卡利马科斯（Callimachus）在警句诗中写到他。卡利马科斯本人直到公元前 290–285 年才抵达亚历山大里亚。据第欧根尼·拉尔修（DL 2, 111–2），狄奥多罗斯卒于托勒密·救主在位期间，即公元前 283–282 年之前。若狄奥多罗斯死于亚历山大里亚，其卒年便不早于公元前 290 年，且大概在公元前 285 年之后、公元前 283–282 年之前——公元前 284 年由此成为一个合理的推测。
   - id: 5
     kind: body
     source: |-
       Aside from the historical interest, dating Diodorus death to the mid-280s makes it extremely unlikely that Aristotle (c.384-322) was influenced by Diodorus. Even if Diodorus had an exceptionally long career of 50 years, starting, say in 334BCE, his active period barely overlaps with Aristotle’s lifetime. Diodorus did use technical language we find in Aristotle’s writings and some of his arguments follow Aristotle’s closely, so it seems possible that Didodorus had access to Aristotle’s texts, presumably while they were still in circulation before the death of Theophrastus (Falcon 2014)[^falcon-2014]. But given that Diodorus must have been relatively young, it seems that an influence would have been from Aristotle to Diodorus.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了史学趣味之外，把狄奥多罗斯之死定年在公元前 280 年代中期，使亚里士多德（约公元前 384–322 年）受狄奥多罗斯影响的可能性变得极低。即使狄奥多罗斯享有长达 50 年的异常漫长的讲学生涯，比如始于公元前 334 年，其活跃时期与亚里士多德的一生也只是勉强重叠。狄奥多罗斯确实使用了我们在亚里士多德著作中看到的术语，他的某些论证也紧密追随亚里士多德，所以狄奥多罗斯有可能接触过亚里士多德的文本——大概是在泰奥弗拉斯托斯去世之前这些文本尚在流传之时（Falcon 2014）[^falcon-2014]。但鉴于狄奥多罗斯当时必然相对年轻，影响的方向似乎应当是从亚里士多德到狄奥多罗斯。
+    step2: |-
+      除史学趣味之外，把狄奥多罗斯之死定年在公元前 280 年代中期，使亚里士多德（约公元前 384–322 年）受狄奥多罗斯影响的可能性变得极低。即使狄奥多罗斯享有长达 50 年的异常漫长生涯——比如始于公元前 334 年——其活跃期与亚里士多德的一生也只是勉强重叠。狄奥多罗斯确实使用了亚里士多德著作中的术语，其某些论证也紧密追随亚里士多德；因此他可能接触过亚里士多德的文本——大概是在泰奥弗拉斯托斯（Theophrastus）去世之前、这些文本尚在流传之时（Falcon 2014）[^falcon-2014]。但鉴于狄奥多罗斯彼时必然相对年轻，影响的方向似乎应当是从亚里士多德到狄奥多罗斯。
   - id: 6
     kind: body
     source: |-
       Diodorus was traditionally thought to be part of the Megaric school, founded by Euclides of Megara. However, the scholarly consensus is now that Diodorus was part of a separate Dialectical School. Diodorus is described in our most reliable sources as a ‘dialectician’ (or ‘Dialectician’), and it is only very late that we have evidence that he was called a ‘Megaric’ (Denyer 2002)[^denyer-2002], although it is possible that Chrysippus termed certain paradoxes developed by Diodorus ‘Megaric questions’ (Döring 1989, 297; Ebert 2008, 279; Allen 2018, 36–37)[^allen-2018][^döring-1989][^ebert-2008]. For detailed discussion of this issue, see the entry on the Dialectical School.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      传统上人们认为狄奥多罗斯属于麦加拉的欧克里德创立的麦加拉学派。然而，学界目前的共识是：狄奥多罗斯属于一个单独的辩证学派。在我们最可靠的文献中，狄奥多罗斯被描述为“辩证家”（或“辩证家”），而称他为“麦加拉派”的证据出现得很晚（Denyer 2002）[^denyer-2002]，尽管克吕西波可能把狄奥多罗斯所发展的某些悖论称作“麦加拉问题”（Döring 1989, 297; Ebert 2008, 279; Allen 2018, 36–37）[^allen-2018][^döring-1989][^ebert-2008]。关于这一问题的详细讨论，见辩证学派词条。
+    step2: |-
+      传统上人们认为狄奥多罗斯属于麦加拉的欧克里德所创的麦加拉学派。然而学界目前的共识是：狄奥多罗斯属于一个单独的辩证学派。在最可靠的文献中，狄奥多罗斯被描述为“辩证家”；称他为“麦加拉派”的证据出现得很晚（Denyer 2002）[^denyer-2002]，尽管克吕西波或许把狄奥多罗斯发展的某些悖论称作“麦加拉问题”（Döring 1989, 297; Ebert 2008, 279; Allen 2018, 36–37）[^allen-2018][^döring-1989][^ebert-2008]。此问题之详论见辩证学派词条。
   - id: 7
     kind: body
     source: |-
       ## 2. Metaphysics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. 形而上学
+    step2: |-
+      ## 2. 形而上学
   - id: 8
     kind: body
     source: |-
       ### 2.1 The Master Argument
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 主论证
+    step2: |-
+      ### 2.1 主论证
   - id: 9
     kind: body
     source: |-
       The main testimony for the Master Argument comes from Epictetus and he tells us the following:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      主论证的主要见证来自爱比克泰德，他告诉我们如下内容：
+    step2: |-
+      主论证的主要见证来自爱比克泰德，其所言如下：
   - id: 10
     kind: body
     source: |-
       > The Master Argument seems to have been put from these sorts of premises. For these three conflict with each other: Every past truth is necessary; the impossible does not follow from the possible; there is a possible truth which neither is true nor will be. When he saw this conflict, Diodorus used the persuasiveness of the first two premises to establish that nothing is possible that neither is true nor will be (Epictetus *Discourses*, 2, 19, 1.1–2.1 = Döring 131).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 主论证似乎是从这几类前提提出来的。因为这三个命题彼此冲突：每一个过去的真理都是必然的；不可能者不后随于可能者；存在一个既不真也不将真的可能的真理。狄奥多罗斯看到这一冲突，便利用前两个前提的说服力来确立：凡既不真也不将真者，皆不可能。（爱比克泰德《论说集》2, 19, 1.1–2.1 = Döring 131）
+    step2: |-
+      > 主论证似乎是从这几类前提提出来的。因为这三个命题彼此冲突：每一个过去的真理都是必然的；不可能者不后随于可能者；存在一个既不真也不将真的可能的真理。狄奥多罗斯看到这一冲突，便利用前两个前提的说服力来确立：凡既不真也不将真者，皆不可能。（爱比克泰德《论说集》2, 19, 1.1–2.1 = Döring 131）
   - id: 11
     kind: body
     source: |-
       Epictetus’ report gives us the following information:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      爱比克泰德的报道给了我们如下信息：
+    step2: |-
+      爱比克泰德的报道向我们提供了如下信息：
   - id: 12
     kind: body
     source: |-
       **(MA1)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(MA1)**
+    step2: |-
+      **(MA1)**
   - id: 13
     kind: body
     source: |-
       Every past truth is necessary;
-    step1: TBD
-    step2: TBD
+    step1: |-
+      每一个过去的真理都是必然的；
+    step2: |-
+      凡过去的真理皆必然；
   - id: 14
     kind: body
     source: |-
       **(MA2)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(MA2)**
+    step2: |-
+      **(MA2)**
   - id: 15
     kind: body
     source: |-
       The impossible does not follow from the possible;
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不可能者不后随于可能者；
+    step2: |-
+      凡不可能者，不后随于可能者；
   - id: 16
     kind: body
     source: |-
       **(MA3)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(MA3)**
+    step2: |-
+      **(MA3)**
   - id: 17
     kind: body
     source: |-
       There is a possible truth which neither is true nor will be.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      存在一个既不真也不将真的可能的真理。
+    step2: |-
+      存在一个可能的真理，它既不真，也不将真。
   - id: 18
     kind: body
     source: |-
       But (MA1) to (MA3) are reported to form an inconsistent triad; so we must deny one of them. Diodorus denied (MA3). That is, he affirmed:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但 (MA1) 到 (MA3) 据报道构成一个不一致的三元组；所以我们必须否认其中之一。狄奥多罗斯否认了 (MA3)。也就是说，他肯定了：
+    step2: |-
+      但据报道，(MA1) 至 (MA3) 构成一个不一致的三元组；故我们必须否认其中之一。狄奥多罗斯否认了 (MA3)，也就是说，他肯定了：
   - id: 19
     kind: body
     source: |-
       **(D)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(D)**
+    step2: |-
+      **(D)**
   - id: 20
     kind: body
     source: |-
       All possible truths are either true or will be true (cf. Boethius, *Commentary on the De Interpretatione of Aristotle*, 234.22–26 = Döring 138).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一切可能的真理或者为真，或者将为真（参波爱修斯《亚里士多德〈解释篇〉注》234.22–26 = Döring 138）。
+    step2: |-
+      一切可能的真理，或者为真，或者将为真（参波爱修斯《亚里士多德〈解释篇〉注》234.22–26 = Döring 138）。
   - id: 21
     kind: body
     source: |-
       The Master Argument is sometimes thought to be an argument for fatalism (see the relevant section of the entry on [fatalism](https://plato.stanford.edu/entries/fatalism/#LogiFataDiodCronNecePast), the discussion of the Master Argument in the entry on the Dialectical School and the entry on [Arthur Prior](https://plato.stanford.edu/entries/prior/#OrigTensLogi)). Sometimes it is thought to be an argument for Diodorus’ account of possibility. Sometimes (including by Epictetus at *Discourses*, 2.18,17) it is thought to be a paradox or sophism to be solved. These are not exclusive options. Taken as a sophism we can see the argument as a trilemma, or a demonstration that the three premises are inconsistent and so one must be rejected. Diodorus could then be seen to reject the third, to yield his account of possibility. Diodorus account of possibility was taken in antiquity to yield a form of fatalism, since only what is now or will be true is possible (Alexander *In An. Pr.* 183.34 – 184.10). That is, anything not true now or in the future is impossible. I’m not a lawyer and never will be; so, according to Diodorus definition of possibility, it is not merely false, but also impossible that I be a lawyer.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      主论证有时被认为是一个为宿命论辩护的论证（见宿命论词条的相关部分、辩证学派词条中对主论证的讨论，以及阿瑟·普赖尔词条）。有时它被认为是一个为狄奥多罗斯可能性概念辩护的论证。有时（包括爱比克泰德在《论说集》2.18, 17 中）它被认为是一个有待解决的悖论或诡辩。这些选项并不互斥。作为一个诡辩，我们可以把这个论证看作一个三难，或一个表明三个前提不一致、故必须拒绝其一的证明。如此一来，狄奥多罗斯可以被看作拒绝了第三个前提，从而得出其可能性概念。狄奥多罗斯的可能性概念在古代被认为导向一种宿命论，因为只有现在为真或将为真者才是可能的（亚历山大《前分析篇注》183.34–184.10）。也就是说，凡现在不真且将来也不真者皆不可能。我不是律师，将来也永远不会是；所以按狄奥多罗斯的可能性定义，我是一名律师不仅为假，而且是不可能的。
+    step2: |-
+      主论证有时被视为一个为宿命论辩护的论证（见宿命论词条相关部分、辩证学派词条对主论证的讨论，以及阿瑟·普赖尔词条）；有时被视为一个为狄奥多罗斯可能性概念辩护的论证；有时（包括爱比克泰德在《论说集》2.18, 17 处）被视为一个有待化解的悖论或诡辩。这些选项并不互斥。作为诡辩，我们可把该论证看作一个三难：一个表明三前提不一致、故必须拒其一者的证明。如此，狄奥多罗斯便可被看作拒绝了第三前提，从而得出其可能性概念。在古代，狄奥多罗斯的可能性概念被认为导向一种宿命论：唯有现在为真或将为真者才可能（亚历山大《前分析篇注》183.34–184.10）。换言之，凡现在不真且将来亦不真者皆不可能。我不是律师，将来也永远不会是；故按狄奥多罗斯的可能性定义，我身为律师不仅为假，而且是不可能的。
   - id: 22
     kind: body
     source: |-
       We do not know precisely how Diodorus formulated the argument. It seems likely that, in the centuries separating Diodorus’ formulation from Epictetus report, some degree of regimentation had already taken place (Marion and Rukert, 2016, 211n55). Epictetus formulates the argument as a trilemma to exhibit the logical space of options, and to contrast the approaches of the Dialectician Panthoides (who rejected MA1), the Stoic logician Chrysippus (who rejected MA2) and Diodorus himself (who rejected MA3). The trilemma had become a common technique for presenting a philosophical issue (Seel, 1993, 295), but it is unlikely that the originator of the argument presented it this way, since we know that Diodorus used MA1 and MA2 as premises to argue for D, not merely to show that MA3 is incompatible with MA1 and MA2 and invite us to reject one. Epictetus also presents the premises in assertoric, rather than interrogative, form and Diodorus would likely have presented the argument dialectically, although it does not come down to us in that form.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们并不确切知道狄奥多罗斯如何表述这个论证。看起来，在狄奥多罗斯的表述与爱比克泰德的报道相隔的几个世纪里，某种程度的规整化可能已经发生（Marion and Rukert, 2016, 211n55）。爱比克泰德把论证表述为一个三难，以展示各选项的逻辑空间，并对照辩证家潘托伊得斯（拒绝 MA1）、斯多亚派逻辑学家克吕西波（拒绝 MA2）与狄奥多罗斯本人（拒绝 MA3）三家的进路。三难已成为陈述哲学问题的一种常用技巧（Seel, 1993, 295），但论证的原创者不大可能以这种方式呈现它，因为我们知道狄奥多罗斯是把 MA1 与 MA2 当作前提来论证 D 的，而不只是表明 MA3 与 MA1、MA2 不相容并请我们拒绝其一。爱比克泰德还以直言式而非疑问式呈现前提；狄奥多罗斯很可能以论辩方式呈现论证，尽管它没有以那种形式流传下来。
+    step2: |-
+      我们并不确切知道狄奥多罗斯如何表述这个论证。在狄奥多罗斯的表述与爱比克泰德的报道相隔的几个世纪里，某种程度的规整化可能已经发生（Marion and Rukert, 2016, 211n55）。爱比克泰德把论证表述为一个三难，以展示各选项的逻辑空间，并对照三家进路：辩证家潘托伊得斯（拒绝 MA1）、斯多亚派逻辑学家克吕西波（拒绝 MA2）与狄奥多罗斯本人（拒绝 MA3）。三难已成为陈述哲学问题的常用技巧（Seel, 1993, 295）；但论证原创者不大可能如此呈现它——我们知道狄奥多罗斯是把 MA1 与 MA2 当作前提来论证 D 的，而不只是表明 MA3 与 MA1、MA2 不相容、请我们拒绝其一。爱比克泰德还以直言式而非疑问式呈现前提；狄奥多罗斯很可能以论辩方式呈现论证，尽管它并未以此种形式流传下来。
   - id: 23
     kind: body
     source: |-
       Although the contemporary literature on the Master Argument involves machinery from modal and temporal logic, in ancient times the argument was well-known outside philosophical circles, and was discussed in informal, social contexts (Epictetus, *Discourses* 2.19.8), suggesting that it could be stated informally. None of the ancient logicians who knew how the Master Argument was formulated thought that it was invalid, since the approach seems to have been to reject one or more premises. So, it must have been plausibly valid to thinkers with a range of logical views.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管关于主论证的当代文献涉及模态逻辑与时态逻辑的机器，在古代，这个论证在哲学圈子之外也广为人知，并在非正式的社交语境中被讨论（爱比克泰德《论说集》2.19.8），这提示它可以用非正式的方式陈述。知道主论证如何表述的古代逻辑学家中，没有人认为它无效，因为人们的进路似乎是拒绝一个或多个前提。所以，对于持各种逻辑观点的思想家而言，它必定显得可信地有效。
+    step2: |-
+      尽管关于主论证的当代文献动用模态逻辑与时态逻辑的机器，在古代，这个论证在哲学圈外也广为人知，且在非正式的社交语境中被讨论（爱比克泰德《论说集》2.19.8）——这提示它可以非正式地陈述。知道主论证如何表述的古代逻辑学家中，无人认为它无效：人们的进路似乎是拒绝一个或多个前提。故对持各种逻辑观点的思想家而言，它必定显得可信地有效。
   - id: 24
     kind: body
     source: |-
       Here is one tentative, non-technical way to think about the moves in the argument, which may resemble Diodorus’ presentation. I did not train in gymnastics in childhood; so I am not now an Olympic gymnast. Neither will I be in the future. It is now too late for me to be an Olympic gymnast! But is it possible that I am or will be an Olympic gymnast? Suppose that it is possible that I will be an Olympic gymnast. That implies that I did train in gymnastics from childhood. But, since I did not train in gymnastics from childhood, it is by now impossible that I trained in gymnastics. So if it is possible that I will be an Olympic gymnast, an impossibility would follow from that possibility. But the impossible does not follow the possible. So, it is not possible that I will be an Olympic gymnast.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里有一种考虑论证步骤的试探性、非技术性的方式，可能与狄奥多罗斯的呈现方式相似。我童年没有受过体操训练；所以我现在不是奥运体操运动员。我将来也不会是。现在我要成为奥运体操运动员已经太迟了！但是，我正在或将是奥运体操运动员，这可能吗？假设我将可能是奥运体操运动员。那蕴含着我从童年起受过体操训练。但既然我童年没有受过体操训练，我受过体操训练如今已是不可能的。所以，如果我将是奥运体操运动员是可能的，就会有一个不可能者从那个可能性中推出。但不可能者不后随于可能者。所以，我将是奥运体操运动员是不可能的。
+    step2: |-
+      这里有一种考虑论证步骤的试探性、非技术性的方式，或与狄奥多罗斯的呈现相似。我童年未受体操训练，所以我现在不是奥运体操运动员，将来也不会是；如今我要成为奥运体操运动员已太迟！然而，我正在或将是奥运体操运动员，这可能吗？假设我将是奥运体操运动员是可能的。这蕴含我从童年起受过体操训练。但我童年未受体操训练，所以我受过体操训练如今已不可能。于是，若我将是奥运体操运动员是可能的，便有一个不可能者从那一可能中推出。而不可能者不后随于可能者。故我将是奥运体操运动员是不可能的。
   - id: 25
     kind: body
     source: |-
       A similar line of thought would block the present possibility of me being an Olympic gymnast. Suppose it is possible that I am now an Olympic gymnast. That implies that I did train in gymnastics from childhood. But, since I did not train in gymnastics from childhood, it is by now impossible that I trained in gymnastics. So if it is possible that I am an Olympic gymnast, an impossibility would follow. But the impossible does not follow the possible. So, it is not possible that I am an Olympic gymnast. Hence, unless I either am, or will be, and Olympic gymnast, it is not possible for me to be an Olympic gymnast.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      类似的一串思路也会挡住我此刻是奥运体操运动员的可能性。假设我现在是奥运体操运动员是可能的。那蕴含着我从童年起受过体操训练。但既然我童年没有受过体操训练，我受过体操训练如今已是不可能的。所以，如果我现在是奥运体操运动员是可能的，就会有一个不可能者推出。但不可能者不后随于可能者。所以，我现在是奥运体操运动员是不可能的。因此，除非我或者现在是、或者将是奥运体操运动员，我不可能是奥运体操运动员。
+    step2: |-
+      类似的一串思路也会挡住我此刻身为奥运体操运动员的可能性。假设我现在是奥运体操运动员是可能的。这蕴含我从童年起受过体操训练。但我童年未受体操训练，所以我受过体操训练如今已不可能。于是，若我现在是奥运体操运动员是可能的，便有一个不可能者推出。而不可能者不后随于可能者。故我现在是奥运体操运动员是不可能的。因此，除非我或者现在是、或者将是奥运体操运动员，我不可能是奥运体操运动员。
   - id: 26
     kind: body
     source: |-
       ### 2.2 Antecedents of the Master
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 主论证的前身
+    step2: |-
+      ### 2.2 主论证的先例
   - id: 27
     kind: body
     source: |-
       We find a possible antecedent to the Master Argument in Aristotle’s *Metaphysics* 9.3. There are two relevant parts of that passage. The first is an account of potentialities which Aristotle attributes to ‘the Megarics’ and others:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们在亚里士多德《形而上学》9.3 中找到一个可能的主论证前身。该段落有两个相关部分。第一部分是对潜能的一种说明，亚里士多德把它归给“麦加拉派”及其他一些人：
+    step2: |-
+      亚里士多德《形而上学》9.3 中有一个可能的主论证前身，该段落有两个相关部分。第一部分是对潜能的说明，亚里士多德将其归给“麦加拉派”等：
   - id: 28
     kind: body
     source: |-
       > There are some who say, for example, the Megarics, that something is possible only when it is actual and that thing is not possible when it is not actual. For example, someone who is not building cannot build, but someone who is building can when building. Similarly in the other cases. (*Metaphysics* 9.3, 1046b29–32)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 有些人说——例如麦加拉派——某物只有在现实时才是可能的，而不现实时便不可能。例如，一个不在建造的人不能建造，而一个正在建造的人在建造时能够建造。其他情形亦然。（《形而上学》9.3, 1046b29–32）
+    step2: |-
+      > 有些人说——例如麦加拉派——某物只有在现实时才是可能的，不现实时便不可能。例如，不在建造的人不能建造；正在建造的人，在建造时能够建造。其他情形亦然。（《形而上学》9.3, 1046b29–32）
   - id: 29
     kind: body
     source: |-
       Although the precise view, and the identity of those who hold the view, is disputed, the target view seems to be that that something has a power or capacity only when that capacity is manifest. Roughly:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管这一确切观点以及持有该观点者的身份尚有争议，其靶子似乎是：某物只有在其能力显现时才具有该能力。粗略地说：
+    step2: |-
+      这一确切观点与持有者的身份虽有争议，其靶子似乎是：某物只有在其能力显现时才具有该能力。粗略地说：
   - id: 30
     kind: body
     source: |-
       **(M0)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(M0)**
+    step2: |-
+      **(M0)**
   - id: 31
     kind: body
     source: |-
       $\alpha$ can $\phi$ only when $\alpha$ is $\phi$-ing.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $\alpha$ 能够 $\phi$，仅当 $\alpha$ 正在 $\phi$-ing。
+    step2: |-
+      $\alpha$ 能够 $\phi$，仅当 $\alpha$ 正在 $\phi$-ing。
   - id: 32
     kind: body
     source: |-
       For example, a builder can build only when in fact building. M0 resembles D for M0 looks like another way to reject MA3. According to MA3, it is possible that a builder builds, while in fact the builder is not building and never will. But according to M0, while the builder is not building, the builder cannot build. If what the builder cannot do is not possible for the builder, then it is not possible that the builder builds, while not, in fact, building. You might think that M0 and D are both motivated by a suspicion of mere possibilities, that is, possibilities that exist but remain unactualized.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，一个建造者只有在事实上正在建造时才能建造。M0 与 D 相似，因为 M0 看起来是拒斥 MA3 的另一种方式。按 MA3，一个建造者建造是可能的，而事实上该建造者不在建造、将来也不会建造。但按 M0，当建造者不在建造时，他就不能建造。如果建造者不能做之事对他而言是不可能的，那么建造者建造就在事实上没建造的同时是不可能的。你或许会认为 M0 与 D 都出于对单纯可能性的怀疑，即对存在却始终未被现实化的可能性的怀疑。
+    step2: |-
+      例如，建造者只有在事实上正在建造时才能建造。M0 与 D 相似：M0 看起来是拒斥 MA3 的另一方式。按 MA3，建造者建造是可能的，而事实上他不在建造、将来也不会建造；但按 M0，建造者不在建造时便不能建造。若建造者不能做之事对他而言不可能，则建造者建造就在事实上未建造的同时不可能。或可认为，M0 与 D 同出于对单纯可能性的怀疑——对存在却始终未被现实化的可能性之怀疑。
   - id: 33
     kind: body
     source: |-
       On the other hand, D differs from M0 in three important ways. First, M0 is formulated in terms of the powers that individuals have to act: a builder can build only when building. D is formulated in terms of whole propositions being true or possible. Second, M0 is a one way conditional, while D makes an equivalence claim between a possible truth and what is or will be true, so would be a biconditional. Third, and most importantly, D involves a disjunction: anything possible either is true or will be; M0 makes no such distinction between present and future truths. How can these differences be explained?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一方面，D 在三个重要方面不同于 M0。第一，M0 是以个体行动的能力来表述的：建造者只有在建造时才能建造；D 则以整个命题为真或可能来表述。第二，M0 是单向条件句，而 D 在可能的真理与现在为真或将为真者之间作出等值断言，因而会是双条件句。第三，也最重要的是，D 涉及一个析取：凡可能者或者为真、或者将为真；M0 不作现在真理与将来真理之间的这种区分。这些差异如何解释？
+    step2: |-
+      另一方面，D 在三个重要方面不同于 M0。第一，M0 以个体行动的能力表述——建造者唯有在建造时才能建造；D 则以整个命题的真或可能来表述。第二，M0 是单向条件句；D 在可能的真理与现在或将来为真者之间作等值断言，因而会是双条件句。第三，也最重要，D 含一个析取：凡可能者或者为真、或者将为真；M0 不作现在真理与将来真理之分。这些差异如何解释？
   - id: 34
     kind: body
     source: |-
       There are two (compatible) explanations for the first difference. First, it might simply be appealing to think, like Aristotle, that modal truths, such as, ‘it is possible that the builder build’ are grounded in facts about individuals and their powers, such as the builder and his power to build. If that is the case, then the move to a propositional formulation would be relatively harmless, and amenable to both those who think there are existing, but unactualised, possibilities, and those who don’t. The second is that Diodorus himself was one of the originators of propositional logic (see the entry on the [Dialectical School](https://plato.stanford.edu/entries/dialectical-school/#BegiPropLogi)). Thus, it would be natural for him to formulate the point using modal operators on propositions, rather than in terms of individuals and their powers. The formulation would look like this:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对第一个差异有两种（相容的）解释。第一，或许可以自然地设想——如亚里士多德那样——模态真理（如“建造者建造是可能的”）奠基于关于个体及其能力的事实，如建造者及其建造能力。若如此，则转向命题式表述相对无害，并且对认为存在既有却未现实化可能性的人、以及不这么认为的人，都可以接受。第二，狄奥多罗斯本人就是命题逻辑的创始者之一（见辩证学派词条）。因此，他用命题上的模态算子而不以个体及其能力来表述这一要点，是自然的。其表述会是这样：
+    step2: |-
+      对第一个差异有两种（相容）解释。第一，或可自然地设想——如亚里士多德——模态真理（如“建造者建造是可能的”）奠基于关于个体及其能力的事实（如建造者及其建造能力）。若如此，转向命题式表述便相对无害，既可为承认既有而未现实化可能性者接受，也可为不承认者接受。第二，狄奥多罗斯本人即命题逻辑创始者之一（见辩证学派词条）；故他用命题上的模态算子而不用个体及其能力来表述此点，十分自然。其表述会是这样：
   - id: 35
     kind: body
     source: |-
       **(D1)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(D1)**
+    step2: |-
+      **(D1)**
   - id: 36
     kind: body
     source: |-
       It is possible that $p$ only if it is true that $p$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $p$ 是可能的，仅当 $p$ 为真。
+    step2: |-
+      $p$ 为可能，仅当 $p$ 为真。
   - id: 37
     kind: body
     source: |-
       There is no reason to think that this was an actual interim stage in the development, but it is useful to consider for heuristic purposes. Once we consider D1, the second difference between M0 and D can also be explained simply too. It is natural to think that:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      没有理由认为这曾是发展中的一个实际过渡阶段，但为了启发性的目的考虑它是有用的。一旦我们考虑 D1，M0 与 D 之间的第二个差异也可以简单地解释。自然会设想：
+    step2: |-
+      没有理由认为这曾是发展过程中的实际过渡阶段；但为启发之故，考虑它是有用的。一旦考虑 D1，M0 与 D 之间的第二个差异也能简单解释。自然会设想：
   - id: 38
     kind: body
     source: |-
       **(T)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(T)**
+    step2: |-
+      **(T)**
   - id: 39
     kind: body
     source: |-
       If it is true that $p$, then it is possible that $p$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果 $p$ 为真，那么 $p$ 是可能的。
+    step2: |-
+      若 $p$ 为真，则 $p$ 为可能。
   - id: 40
     kind: body
     source: |-
       In fact, this is just to accept the T axiom of modal logic, which many modal logics accept. These two taken together would allow a biconditional formulation like this:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      事实上，这不过是接受模态逻辑的 T 公理，许多模态逻辑都接受它。两者合起来便允许一个这样的双条件式表述：
+    step2: |-
+      事实上，这不过是接受模态逻辑的 T 公理——许多模态逻辑皆接受它。二者合起来，便允许如下双条件式表述：
   - id: 41
     kind: body
     source: |-
       **(D2)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(D2)**
+    step2: |-
+      **(D2)**
   - id: 42
     kind: body
     source: |-
       It is possible that $p$ if and only if it is true that $p$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $p$ 是可能的，当且仅当 $p$ 为真。
+    step2: |-
+      $p$ 为可能，当且仅当 $p$ 为真。
   - id: 43
     kind: body
     source: |-
       The third difference is a little more philosophically interesting. Aristotle presents a series of arguments against M0. One of the most powerful is that M0 seems to rule out change (*Metaphysics* 9.3, 1047a10–15). Aristotle’s basic line of thought is that, according to M0, $a$ can sit only when sitting. So, when $a$ is sitting can $a$ stand? Apparently not:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第三个差异在哲学上更有趣一些。亚里士多德提出一系列论证反对 M0。其中最强的一个是：M0 似乎排除了变化（《形而上学》9.3, 1047a10–15）。亚里士多德的基本思路是：按 M0，$a$ 只有在坐着时才能坐。那么，当 $a$ 坐着时，$a$ 能站吗？显然不能：
+    step2: |-
+      第三个差异在哲学上更有趣。亚里士多德提出一系列论证反对 M0，其中最强的一个是：M0 似乎排除了变化（《形而上学》9.3, 1047a10–15）。其基本思路是：按 M0，$a$ 唯有坐着时才能坐。那么，当 $a$ 坐着时，$a$ 能站吗？显然不能：
   - id: 44
     kind: body
     source: |-
@@ -273,112 +359,160 @@ segments:
       3. If $a$ lacks the power to stand, $a$ cannot stand.
       4. If $a$ cannot stand, $a$ will not stand in the future.
       5. So, if $a$ is sitting, $a$ does not stand in the future.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 如果 $a$ 坐着，$a$ 就没有站着。
+      2. 但如果 $a$ 没有站着，$a$ 就缺乏站的能力（据 M0）。
+      3. 如果 $a$ 缺乏站的能力，$a$ 就不能站。
+      4. 如果 $a$ 不能站，$a$ 将来就不会站着。
+      5. 所以，如果 $a$ 坐着，$a$ 将来就不会站着。
+    step2: |-
+      1. 若 $a$ 坐着，则 $a$ 未站着。
+      2. 但若 $a$ 未站着，则 $a$ 缺乏站的能力（据 M0）。
+      3. 若 $a$ 缺乏站的能力，则 $a$ 不能站。
+      4. 若 $a$ 不能站，则 $a$ 将来不会站着。
+      5. 故若 $a$ 坐着，则 $a$ 将来不会站着。
   - id: 45
     kind: body
     source: |-
       Since ‘sitting’ and ‘standing’ are just arbitrary properties, the argument generalises to all change. Aristotle would need some suppressed premise to connect the idea that something cannot stand to the idea that it never will stand. Such a principle might be found in *De Caelo* 1, 11–12 (Makin and Denyer 2000)[^makin-2000].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      既然“坐着”与“站着”只是任意的属性，该论证便推广到一切变化。亚里士多德需要某个被省略的前提，以把“某物不能站”与“它永远不将站”联系起来。这样的原则或许可在《论天》1, 11–12 中找到（Makin and Denyer 2000）[^makin-2000]。
+    step2: |-
+      “坐着”与“站着”既是任意属性，该论证便推广到一切变化。亚里士多德需要某个被省略的前提，以连接“某物不能站”与“它永远不将站”。这样的原则或可在《论天》1, 11–12 中找到（Makin and Denyer 2000）[^makin-2000]。
   - id: 46
     kind: body
     source: |-
       This sort of argument could be blocked by accepting the disjunctive account that what is possible is true or will be. For in that case, even if *a* lacks the power to stand now, it does not follow that *a* cannot stand in the future. That is, suppose *a* is sitting. With the disjunctive account, at present, if *a* is not standing, *a* may still be able to stand, as long as *a* turns out to be standing in the future. Thus, the Diodorean account of possibility could be a development of the Megaric position on powers. But even if D is historically connected to the Megaric position in *Metaphysics* 9.3, it does not follow that Diodorus was affiliated to a Megaric ‘school’, especially because the Master Argument seems to defend D on independent grounds.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这类论证可以通过接受“可能者或为真、或将真”这一析取式说明而被挡住。因为在那种情况下，即便 *a* 现在缺乏站的能力，也不能推出 *a* 将来不能站。也就是说，假设 *a* 坐着。按析取式说明，现在若 *a* 没有站着，只要 *a* 后来被证明站着，*a* 仍可能能够站。因此，狄奥多罗斯式可能性概念可能是麦加拉派能力立场的一个发展。但即便 D 在历史上与《形而上学》9.3 中的麦加拉派立场相关联，也不能推出狄奥多罗斯隶属于一个麦加拉“学派”，尤其因为主论证似乎以独立的根据为 D 辩护。
+    step2: |-
+      这类论证可通过接受“可能者或为真、或将真”的析取式说明而挡住。因为在此情形下，即便 *a* 现在缺乏站的能力，也不能推出 *a* 将来不能站。也就是说：假设 *a* 坐着；按析取式说明，*a* 此刻未站着仍可能能够站——只要 *a* 后来被证明站着。故狄奥多罗斯式可能性概念可能是麦加拉派能力立场的一个发展。但即便 D 与《形而上学》9.3 的麦加拉派立场有历史关联，也不能推出狄奥多罗斯隶属某个麦加拉“学派”——尤其因为主论证似乎以独立根据为 D 辩护。
   - id: 47
     kind: body
     source: |-
       That suffices for MA3, the negation of which is supposed to be the conclusion of the Master Argument. What about the premises that lead us to that conclusion? MA2 tells us that entailment cannot take us from possibilities to impossibilities: possibility is closed under entailment. Some readers, such as (Mates 1953, 39)[^mates-1953] and (Denyer 1981b)[^denyer-1981b], have thought that we should understand MA2 in terms of Diodorus’ own account of ‘following’, which we know from other sources (SE *M* 8, 112–117 = Döring 142): a conditional is true iff it is not possible that the antecedent is true and the consequent false. It is unclear whether Diodorus intended his own notion of ‘possible’ here. But since the Master Argument seems to have been intended to argue for Diodorean possibilities, he could not invoke his own notion without begging the question. Probably the best way to understand this premise also appeals to *Metaphysics* 9.3. After Aristotle has rebutted the Megaric position, Aristotle introduces a ‘test’ for whether something is possible:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这对 MA3 已经够了，因为主论证的结论据说就是它的否定。那么，引出该结论的那些前提呢？MA2 告诉我们，蕴涵不能把我们由可能性带向不可能性：可能性在蕴涵下封闭。一些读者，如（Mates 1953, 39）[^mates-1953] 与（Denyer 1981b）[^denyer-1981b]，认为我们应当按狄奥多罗斯本人关于“后随”的说明来理解 MA2——我们从其他文献知道这一说明（SE *M* 8, 112–117 = Döring 142）：一个条件句为真，当且仅当前件为真而后件为假是不可能的。尚不清楚狄奥多罗斯在此是否意在用他自己的“可能”概念。但既然主论证似乎意在论证狄奥多罗斯式可能性，他便不能无须乞题地援引自己的概念。或许理解这一前提的最佳方式也要回到《形而上学》9.3。在亚里士多德反驳麦加拉派立场之后，他引入了一个检验某物是否可能的“测试”：
+    step2: |-
+      这对 MA3 已经足够——主论证的结论据说正是它的否定。那么引出该结论的前提呢？MA2 告诉我们：蕴涵不能把我们由可能性带向不可能性——可能性在蕴涵下封闭。一些读者（如 Mates 1953, 39[^mates-1953] 与 Denyer 1981b[^denyer-1981b]）主张，应按狄奥多罗斯本人关于“后随”的说明来理解 MA2（该说明见 SE *M* 8, 112–117 = Döring 142）：条件句为真，当且仅当“前件真而后件假”不可能。狄奥多罗斯在此是否意在用自己的“可能”概念，尚不清楚；但主论证似乎意在论证狄奥多罗斯式可能性，故他不能乞题地援引自家概念。理解这一前提的最佳方式，或许同样要回到《形而上学》9.3——亚里士多德反驳麦加拉派立场后，引入了一个检验某物是否可能的“测试”：
   - id: 48
     kind: body
     source: |-
       > What is possible is that for which, if the actuality of what is said to have the possibility obtains, then nothing impossible will result. (*Metaphysics* 9.3, 1047a24–6)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 可能者是这样者：若被说成具有可能性之物的现实性成立，则不会有什么不可能者随之而来。（《形而上学》9.3, 1047a24–6）
+    step2: |-
+      > 可能者是这样者：若被说成具有可能性之物的现实性成立，则不会有什么不可能者随之而来。（《形而上学》9.3, 1047a24–6）
   - id: 49
     kind: body
     source: |-
       This test works like this. To test whether $p$ is possible, suppose *p* is actual. If nothing impossible follows this supposition, $p$ is possible. I am sitting and we want to test whether it is possible that I stand. So, suppose I stand. If nothing impossible results from this supposition, it is possible that I stand. The problem is, stated as baldly as this, the test is underdetermined. I can apply the test making no accommodations: I am sitting in a room where no one is standing. And we want to test whether it is possible that I stand. So, suppose I stand. In that case, I am standing but also no one in this room is standing. This is a contradiction and so an impossibility. So it turns out that, according to the test, I cannot stand. It seems unreasonable to apply the test with no accommodation whatsoever, but also unreasonable to allow all accommodations by changing the truth-value of any proposition. If I’m maximally accommodating, only self-contradictory propositions turn out impossible. So we can hold some propositions as a fixed background for testing some *p*, for example, the necessary truths. The advantage of understanding MA2 in light of this test is that it gives a clear way to operationalize MA2 – using this idea of supposition- and also it is a conception of possibility shared by people like Aristotle who hold that some possibilities are not and never will be realized (although cf. Makin and Denyer 2000)[^makin-2000].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一测试是这样运作的。要检验 $p$ 是否可能，就假设 *p* 是现实的。如果没有不可能者随这一假设而来，$p$ 就是可能的。我正坐着，而我们要检验我站着是否可能。于是，假设我站着。如果没有不可能者由这一假设产生，我站着就是可能的。问题在于，如此直白地陈述，这一测试是不确定的。我可以不作任何调适地应用该测试：我坐在一个无人站着的房间里。而我们要检验我站着是否可能。于是，假设我站着。在这种情况下，我站着，但房间里无人站着。这是矛盾，因而是不可能。所以按该测试，结果是我不能站。不作任何调适地应用该测试似乎不合理，但为了改变任何命题的真值而允许一切调适也同样不合理。如果我作最大限度的调适，只有自相矛盾的命题才会显得不可能。因此，我们可以把某些命题固定为检验某个 $p$ 的背景，例如必然真理。按这一测试理解 MA2 的好处在于：它给出了使 MA2 可操作的一种清晰方式——运用假设这一想法；而且它是一种亚里士多德这类人共有的可能性概念——他们认为有些可能性未被实现、也永远不会被实现（尽管参 Makin and Denyer 2000）[^makin-2000]。
+    step2: |-
+      该测试如此运作：要检验某命题是否可能，便假设 *p* 是现实的；若无不可能者随此假设而来，$p$ 即可能。我正坐着，而我们要检验我站着是否可能——于是假设我站着：若无不可能者由此假设产生，我站着便可能。问题在于，如此直白地陈述，该测试并不确定。我可毫无调适地应用它：我坐在一间无人站着的房里，而要检验我站着是否可能。于是假设我站着：此时我站着，但房里无人站着。这是矛盾，因而不可能——故按该测试，结果是我不能站。毫无调适地应用测试似不合理，但为改变任何命题的真值而允许一切调适，同样不合理。若作最大限度调适，则只有自相矛盾的命题才显得不可能。故我们可把某些命题（如必然真理）固定为检验某 $p$ 的背景。按这一测试理解 MA2 的好处是：它给出了使 MA2 可操作的清晰方式——运用假设这一想法；且它是一种亚里士多德这类人所共有的可能性概念——他们认为有些可能性未被实现、也永远不会实现（尽管参 Makin and Denyer 2000）[^makin-2000]。
   - id: 50
     kind: body
     source: |-
       Finally, what about MA1? MA1 seems obvious: the past is fixed, what’s done is done and cannot be undone, and something like this was accepted by Aristotle, who quotes Agathon: ‘For even from god this power is kept, this power alone/To make it true that what’s been done had never been’ (*Nicomachean Ethics* 1139b10, Trans. Broadie and Rowe). But MA1 is not just saying that the past is irrevocable; it is saying that it is necessary. There are things which are irrevocable which are, for all that, not necessary. For example, it is not within my power to change what happens is a distant galaxy: from my standpoint, what happens far away is unalterable. But what happens in a distant galaxy is not always necessary: there are irrevocable, but contingent, truths.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，MA1 呢？MA1 似乎显而易见：过去是固定的，做了就是做了，无法撤销；类似的东西也为亚里士多德所接受，他引用阿伽通的话：“因为即便对神而言，这种能力也被保留，唯有这种能力：使已做之事成为从未发生”（《尼各马可伦理学》1139b10，Broadie 与 Rowe 译）。但 MA1 并不只是说过去不可更改；它说的是过去是必然的。有些事不可更改，却并非必然。例如，改变遥远星系中发生之事不在我的能力之内：从我的立场看，远方发生之事不可更改。但遥远星系中发生之事并不总是必然的：存在不可更改却偶然的真理。
+    step2: |-
+      最后，MA1 呢？MA1 似乎自明：过去已固定，做了便无法撤销；亚里士多德亦接受类似看法，他引阿伽通：“因为即便对神而言，这种能力也被保留，唯有此种能力：使已做之事成为从未发生”（《尼各马可伦理学》1139b10，Broadie 与 Rowe 译）。但 MA1 不只说过去不可更改，它说过去是必然的。有些事不可更改，却并非必然：例如，改变遥远星系中发生之事不在我能力之内——从我立场看，远方之事不可更改；但遥远星系之事并不总是必然的：存在不可更改却偶然的真理。
   - id: 51
     kind: body
     source: |-
       Even with this caveat, MA1 needs careful formulation. Martha Kneale (Kneale 1937)[^kneale-1937] introduced three classes of counterexample to MA1 into this literature, but her contribution is sometimes overlooked. These counterexamples are cases where a past truth seems to become false. But a past truth that can become false is not a necessary truth. The first class of counter examples are past negative existentials. (i) ‘There has never been a female Labour UK Prime Minister’. This is a past truth, but it could become false, if the UK elects a female Labour Prime Minister. The second class are past temporal distance. (ii) ‘Socrates died 2422 years ago’ is a past truth in 2023, but will be a past falsehood from 2024 onwards. Kneale’s third class are past definite descriptions, such as (iii) ‘The UK Prime Minister who completed a PhD was Scottish’. Should the UK elect another holder of a doctorate, this would become false.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即便有这一保留，MA1 仍需仔细表述。玛莎·尼尔（Kneale 1937）[^kneale-1937] 向这一文献引入了三类针对 MA1 的反例，但她的贡献有时被忽视。这些反例是过去真理似乎变成假的那些情形。但一个能变成假的过去真理不是必然真理。第一类反例是过去的否定存在命题。(i)“英国从未有过女性工党首相。”这是一个过去真理，但如果英国选出一位女性工党首相，它就可能变成假。第二类是过去的时间距离。(ii)“苏格拉底死于 2422 年前”在 2023 年是一个过去真理，但从 2024 年起将是一个过去假理。尼尔氏的第三类是过去的限定摹状词，如 (iii)“完成过博士学位的英国首相是苏格兰人”。若英国选出一位拥有博士学位的首相，这就会变成假。
+    step2: |-
+      即便有此保留，MA1 仍需仔细表述。玛莎·尼尔（Martha Kneale；Kneale 1937）[^kneale-1937] 向这一文献引入了三类针对 MA1 的反例，其贡献有时被忽视。这些反例是过去真理似乎变成假的情形——而能变成假的过去真理并非必然真理。第一类是过去的否定存在命题：(i)“英国从未有过女性工党首相。”这是过去真理；但若英国选出一位女性工党首相，它便可能变假。第二类是过去的时间距离：(ii)“苏格拉底死于 2422 年前”在 2023 年是过去真理，自 2024 年起则将成过去假理。尼尔的第三类是过去的限定摹状词，如 (iii)“完成过博士学位的英国首相是苏格兰人”——若英国选出一位拥有博士学位的首相，它便会变假。
   - id: 52
     kind: body
     source: |-
       The solution may be to notice – with (Denyer 2009, 38–39)[^denyer-2009] who follows (Prior 1967)[^prior-1967] – that not every sentence that involves a past tense is a past-tense sentence. All three of Kneale’s cases are not past truths in the sense that the main operator of the sentence is a past-tense operator, but rather the main connective is either a negation or an existential quantifier. For example ‘There has never been a female Labour UK Prime Minister’ can be written as ‘It is not the case that there has been a female Labour UK Prime Minister’. This is formalised as ‘$\neg \langle P\rangle p$’ where ‘$p$’ is the present-tense sentence ‘there is a female Labour UK Prime Minister’ and ‘$\langle P\rangle$’ is the past-tense operator ‘it has been the case that…’. If (i) changes its truth value when a female Labour Prime Minister is elected, that is only because (i) is a present-tense negated sentence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      解决办法或许是注意——随（Denyer 2009, 38–39）[^denyer-2009] 而追随（Prior 1967）[^prior-1967]——并非每个涉及过去时态的句子都是过去时句子。尼尔的三类情形都不是过去真理——就其句子的主要算子为过去时算子而言；毋宁说，其主要联结词或为否定、或为存在量词。例如“英国从未有过女性工党首相”可以写作“并非曾经有过一位女性工党首相”。这被形式化为“$\neg \langle P\rangle p$”，其中“$p$”是现在时句子“存在一位女性工党首相”，“$\langle P\rangle$”是过去时算子“曾经是这种情况：……”。如果 (i) 在女性工党首相当选时改变了真值，那只是因为 (i) 是一个现在时的否定句。
+    step2: |-
+      解决办法或许是注意（随 Denyer 2009, 38–39[^denyer-2009] 而追随 Prior 1967[^prior-1967]）：并非每个涉及过去时态的句子都是过去时句子。尼尔三类情形都不是过去真理——不成其为“句子主要算子为过去时算子”意义上的过去真理；其主联结词或为否定、或为存在量词。例如“英国从未有过女性工党首相”可写作“并非曾经有过一位女性工党首相”，形式化为“$\neg \langle P\rangle p$”：其中“$p$”是现在时句“存在一位女性工党首相”，“$\langle P\rangle$”是过去时算子“曾经是这种情况：……”。若 (i) 在女性工党首相当选时改变真值，那只是因为 (i) 是一个现在时的否定句。
   - id: 53
     kind: body
     source: |-
       With all that, however, taking an historical perspective on the Master Argument, as well as the more common logical perspective, shows why the Master Argument might be appealing. It develops a conclusion that is radically anti-Aristotelian, that what is possible is or will be the case, a modal collapse, from premises that an Aristotelian would accept, and indeed, that Aristotle appears to have accepted. Not only that, but it seems that Diodorus’ notion of modality differs in an explicable way from the Megarics of *Metaphysics* 9.3, perhaps in response to Aristotle’s criticism, while retaining the spirit of their view.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，有了这一切，从历史视角以及更常见的逻辑视角来看主论证，便能说明主论证为何可能有吸引力。它从一个亚里士多德会接受、实际上亚里士多德似乎也接受的前提，推出一个彻底反亚里士多德的结论：可能者即为或将如此者——一种模态坍塌。不仅如此，狄奥多罗斯的模态概念似乎以一种可解释的方式不同于《形而上学》9.3 中麦加拉派的模态概念——或许是对亚里士多德批评的回应，同时保留了其观点的精神。
+    step2: |-
+      然而，具备这一切之后，从历史视角兼常见的逻辑视角看主论证，便能说明它为何有吸引力：它从亚里士多德会接受——实际上似乎也接受——的前提，推出一个彻底反亚里士多德的结论——可能者即现在或将如此者，一种模态坍塌。不仅如此，狄奥多罗斯的模态概念似以一种可解释的方式不同于《形而上学》9.3 的麦加拉派模态概念——或许是对亚里士多德批评的回应，同时保留其观点的精神。
   - id: 54
     kind: body
     source: |-
       ### 2.3 Fate and the Diodorean Modal System
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.3 命运与狄奥多罗斯式模态系统
+    step2: |-
+      ### 2.3 命运与狄奥多罗斯模态系统
   - id: 55
     kind: body
     source: |-
       The Master Argument is supposed to be, amongst other things, an argument for ‘fatalism’ or ‘logical determinism’, because it argues for Diodorus’ notion of possibility, which leaves no room for counterfactual possibilities and hence rules out freedom. Several sources report Diodorus’ account of possibility (Boethius On Aristotle’s *On Interpretation* 234.22–6; Alexander *On Aristotle’s Prior Analytics* 183–4; Simplicius *On Aristotle’s Categories* 196, 220–25). According to these sources, Diodorus’ view is that: it is possible that $p$ just in case either $p$ is the true or will be true. Here is Alexander’s report:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除其他之外，主论证据说是一个为“宿命论”或“逻辑决定论”辩护的论证，因为它论证狄奥多罗斯的可能性概念，而该概念不为反事实可能性留余地，因而排除了自由。若干文献报道了狄奥多罗斯的可能性说明（波爱修斯《亚里士多德〈解释篇〉注》234.22–6；亚历山大《亚里士多德〈前分析篇〉注》183–4；辛普里丘《亚里士多德〈范畴篇〉注》196, 220–25）。据这些文献，狄奥多罗斯的观点是：$p$ 是可能的，当且仅当 $p$ 现在为真或将为真。以下是亚历山大的报道：
+    step2: |-
+      除其他之外，主论证据说是一个为“宿命论”或“逻辑决定论”辩护的论证：它论证狄奥多罗斯的可能性概念，而该概念不为反事实可能性留余地，因而排除自由。若干文献报道了狄奥多罗斯的可能性说明（波爱修斯《亚里士多德〈解释篇〉注》234.22–6；亚历山大《亚里士多德〈前分析篇〉注》183–4；辛普里丘《亚里士多德〈范畴篇〉注》196, 220–25）。据这些文献，狄奥多罗斯的观点是：$p$ 为可能，当且仅当 $p$ 现在为真或将为真。以下为亚历山大的报道：
   - id: 56
     kind: body
     source: |-
       > According to him it is possible for me to be at Corinth if I am at Corinth or if, otherwise, I am going to be at Corinth. But if I were never in Corinth, it would not be possible. And a child’s becoming a grammarian is possible if he ever becomes one. (Alexander *On Aristotle’s Prior Analytics*, 183–4)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 按他的说法，我在科林斯是可能的，如果我正在科林斯，或者如果我（在其他情况下）将去科林斯。但如果我从未在科林斯，那就不可能。一个孩子成为语法学家是可能的，如果他曾经成为语法学家。（亚历山大《亚里士多德〈前分析篇〉注》183–4）
+    step2: |-
+      > 按他的说法，我在科林斯是可能的，如果我正在科林斯，或者如果我（在其他情况下）将去科林斯。但如果我从未在科林斯，那就不可能。一个孩子成为语法学家是可能的，如果他曾经成为语法学家。（亚历山大《亚里士多德〈前分析篇〉注》183–4）
   - id: 57
     kind: body
     source: |-
       This case fits well with the other reports. It is possible that Alexander is in Corinth if either he is in Corinth or is going to be in Corinth. It is possible that a child becomes a grammarian if he does in fact become one. In general, where ‘$p$’ is a present tensed content, and ‘$\langle F\rangle \ldots$’ is a one-place modal operator meaning ‘it will be the case at some future time that…’, then:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一情形与其他报道颇为吻合。亚历山大在科林斯是可能的，如果或者他正在科林斯、或者他将去科林斯。一个孩子成为语法学家是可能的，如果他在事实上确实成为语法学家。一般地，设“$p$”是一个现在时内容，“$\langle F\rangle \ldots$”是意为“将来某个时刻会是这种情况：……”的一元模态算子，那么：
+    step2: |-
+      这一情形与其他报道颇为吻合：亚历山大在科林斯是可能的，如果或者他正在科林斯、或者他将去科林斯；一个孩子成为语法学家是可能的，如果他确实成了语法学家。一般地，设“$p$”为现在时内容，“$\langle F\rangle \ldots$”为意为“将来某个时刻会是这种情况：……”的一元模态算子，则：
   - id: 58
     kind: body
     source: |-
       > *Diodorean Possibility*.
       >
       > It is possible that $p$ iff $p$ or $\langle F\rangle p$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *狄奥多罗斯式可能性*。
+      >
+      > $p$ 是可能的，当且仅当 $p$ 或 $\langle F\rangle p$
+    step2: |-
+      > *狄奥多罗斯式可能性*。
+      >
+      > $p$ 是可能的，当且仅当 $p$ 或 $\langle F\rangle p$
   - id: 59
     kind: body
     source: |-
       Diodorean possibility ignores any intrinsic features of Alexander or the child, for example, whether the child has the capacity to learn grammar. All that Diodorean possibility cares about is what in fact turns out to be the case. What is more, if evaluating whether $p$ is possible, we only take account of what is true now and in the future. So if we know the truth values of a proposition at all times (or even just all future times), we know whether it is Diodorean possible. This contrasts with our usual modal notion of possibility. Suppose that $p$ is always false. Is it possible? On a standard notion of possibility, the answer is ‘we cannot tell’, for we cannot tell whether $p$ is possible, even if we know its actual truth values at all times. But for Diodorus, the answer is ‘no’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      狄奥多罗斯式可能性忽略亚历山大或那个孩子的任何内在特征，例如那孩子是否有学习语法的能力。狄奥多罗斯式可能性所关心的只是事实上最终成为如此者。更有甚者，在评估 $p$ 是否可能时，我们只考虑现在与将来为真者。因此，如果我们知道一个命题在所有时刻（乃至仅在所有将来时刻）的真值，我们便知道它是否是狄奥多罗斯式可能的。这与我们通常的模态可能性概念形成对照。假设 $p$ 始终为假。它是可能的吗？按标准的可能性概念，答案是“我们无法断定”，因为我们无法断定 $p$ 是否可能，即便我们知道它在所有时刻的实际真值。但对狄奥多罗斯而言，答案是“不”。
+    step2: |-
+      狄奥多罗斯式可能性忽略亚历山大或那孩子的任何内在特征——例如孩子是否有学习语法的能力；它所关心的只是事实上最终成为如此者。更有甚者，在评估 $p$ 是否可能时，我们只考虑现在与将来为真者。故若知道一个命题在所有时刻——乃至仅在所有将来时刻——的真值，我们便知道它是否狄奥多罗斯式可能。这与通常的模态可能性概念形成对照：假设 $p$ 始终为假，它是可能的吗？按标准可能性概念，答案是“无从断定”——即便知道它在所有时刻的实际真值，我们也无从断定 $p$ 是否可能；而对狄奥多罗斯，答案是“不”。
   - id: 60
     kind: body
     source: |-
       Since Diodorus links modalities to time, how he thought about time will impact on his modal notions. Generally, scholars assume that for Diodorus time is linear, discrete, and has no beginning or end moment. To be linear means, informally, that time does not branch in either the forwards or backwards direction. To be discrete means that each moment that has a successor (or predecessor) has a corresponding immediate successor (or predecessor).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      既然狄奥多罗斯把模态与时间联系起来，他如何思考时间便会影响到他的模态概念。一般地，学者们假定对狄奥多罗斯而言，时间是线性的、离散的、并且没有起点或终点。线性意味着——非正式地说——时间不在向前或向后方向上分叉。离散意味着每一个有后继（或前驱）的时刻都有一个相应的直接后继（或前驱）。
+    step2: |-
+      狄奥多罗斯既把模态与时间联系起来，其时间观便影响其模态概念。一般地，学者假定：对狄奥多罗斯而言，时间是线性的、离散的，且无起点与终点。线性——非正式地说——意味着时间不在向前或向后方向上分叉；离散意味着每个有后继（或前驱）的时刻都有相应的直接后继（或前驱）。
   - id: 61
     kind: body
     source: |-
       It is easy to derive other modalities in a standard way from Diodorean possibility. Assuming that ‘Necessarily $p$’ is equivalent to ‘not-possibly not $p$’ and that ‘contingently $p$’ is equivalent to ‘possibly-$p$ and not-necessarily $p$’ we can arrive at:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以标准方式从狄奥多罗斯式可能性推导其他模态是容易的。假定“必然地 $p$”等值于“并非可能地非 $p$”，“偶然地 $p$”等值于“可能地 $p$ 且并非必然地 $p$”，我们便可得：
+    step2: |-
+      以标准方式由狄奥多罗斯式可能性推导其他模态并不费力。假定“必然地 $p$”等值于“并非可能地非 $p$”，“偶然地 $p$”等值于“可能地 $p$ 且并非必然地 $p$”，则可得：
   - id: 62
     kind: body
     source: |-
@@ -389,925 +523,1259 @@ segments:
       > *Diodorean Contingency*.
       >
       > $\langle C\rangle p$ iff (($p$ or $\langle F\rangle p$) and not ($p$ and [$F$]$p$))
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *狄奥多罗斯式必然性*。
+      >
+      > 必然地 $p$，当且仅当 $p$ 且 [$F$]$p$。
+      >
+      > *狄奥多罗斯式偶然性*。
+      >
+      > $\langle C\rangle p$，当且仅当（（$p$ 或 $\langle F\rangle p$）且并非（$p$ 且 [$F$]$p$））
+    step2: |-
+      > *狄奥多罗斯式必然性*。
+      >
+      > 必然地 $p$，当且仅当 $p$ 且 [$F$]$p$。
+      >
+      > *狄奥多罗斯式偶然性*。
+      >
+      > $\langle C\rangle p$，当且仅当（（$p$ 或 $\langle F\rangle p$）且并非（$p$ 且 [$F$]$p$））
   - id: 63
     kind: body
     source: |-
       Where ‘[$F]p$’ is read as ‘it will be the case at every future time that $p$’ and ‘$\langle C\rangle p$’ as ‘it is possible and not necessary that $p$’. So it is now necessary that Alexander is in Corinth iff Alexander is in Corinth and always will be. It is now contingent that Alexander is in Corinth iff Alexander is either not now in Corinth but will be or is now in Corinth but will not be.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中“[$F]p$”读作“将来每一时刻都会是这种情况：$p$”，“$\langle C\rangle p$”读作“$p$ 是可能的且不是必然的”。所以，亚历山大在科林斯现在是必然的，当且仅当亚历山大在科林斯并且将始终在科林斯。亚历山大在科林斯现在是偶然的，当且仅当亚历山大或者现在不在科林斯但将在、或者现在在科林斯但将不在。
+    step2: |-
+      其中“[$F]p$”读作“将来每一时刻都会是这种情况：$p$”，“$\langle C\rangle p$”读作“$p$ 可能而非必然”。故：亚历山大在科林斯现在是必然的，当且仅当亚历山大在科林斯且将始终在科林斯；亚历山大在科林斯现在是偶然的，当且仅当亚历山大或者现在不在科林斯但将在、或者现在在科林斯但将不在。
   - id: 64
     kind: body
     source: |-
       So this modal scheme allows for present contingents. Does it allow future contingents? In a limited sense, yes, according to Denyer (1981b). What this scheme does allow are future asynchronous contingencies. Will it be contingent tomorrow that Alexander is in Corinth? That is:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，这一模态方案允许现在偶然者。它允许将来偶然者吗？按 Denyer（1981b）的看法，在有限的意义上，是的。这一方案确实允许的是将来异步的偶然性。明天“亚历山大在科林斯”会是偶然的吗？即：
+    step2: |-
+      可见这一模态方案允许现在偶然者。那么它允许将来偶然者吗？按 Denyer（1981b），在有限意义上，是的——该方案确实允许的是将来异步的偶然性。明天“亚历山大在科林斯”会是偶然的吗？即：
   - id: 65
     kind: body
     source: |-
       > $\langle F\rangle \langle C\rangle p$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > $\langle F\rangle \langle C\rangle p$。
+    step2: |-
+      > $\langle F\rangle \langle C\rangle p$。
   - id: 66
     kind: body
     source: |-
       This would cash out to:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这可以展开为：
+    step2: |-
+      这可展开为：
   - id: 67
     kind: body
     source: |-
       > $\langle F\rangle$(($p$ or $\langle F\rangle p$) and not ($p$ and [$F$]$p$)).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > $\langle F\rangle$（（$p$ 或 $\langle F\rangle p$）且并非（$p$ 且 [$F$]$p$））。
+    step2: |-
+      > $\langle F\rangle$（（$p$ 或 $\langle F\rangle p$）且并非（$p$ 且 [$F$]$p$））。
   - id: 68
     kind: body
     source: |-
       And that can hold in two circumstances. Either tomorrow, Alexander will not be in Corinth, but will be the day after. Or, tomorrow, Alexander will not be in Corinth but will be the day after. The Diodorean modal scheme also allows synchronous future contingents, when at some future time (possibly $p$ and possibly not-$p)$:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      而这可以在两种情形下成立。或者明天亚历山大不会在科林斯，但后天会在。或者明天亚历山大不会在科林斯但后天会在。狄奥多罗斯模态方案也允许同步的将来偶然者，即将来某时（可能 $p$ 且可能非 $p$）：
+    step2: |-
+      而这可在两种情形下成立：或者明天亚历山大不在科林斯、但后天会在；或者明天亚历山大不在科林斯而后天会在。狄奥多罗斯模态方案也允许同步的将来偶然者，即将来某时（可能 $p$ 且可能非 $p$）：
   - id: 69
     kind: body
     source: |-
       > $\langle F\rangle$($\Diamond p$ and $\Diamond$not-$p$).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > $\langle F\rangle$（$\Diamond p$ 且 $\Diamond$ 非-$p$）。
+    step2: |-
+      > $\langle F\rangle$（$\Diamond p$ 且 $\Diamond$ 非-$p$）。
   - id: 70
     kind: body
     source: |-
       By substitution, this would result in:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      经代换，这会产生：
+    step2: |-
+      经代换，可得：
   - id: 71
     kind: body
     source: |-
       > $\langle F\rangle$(($p$ or $\langle F\rangle p$) and (not-$p$ or $\langle F\rangle$not-$p$)).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > $\langle F\rangle$（（$p$ 或 $\langle F\rangle p$）且（非-$p$ 或 $\langle F\rangle$ 非-$p$））。
+    step2: |-
+      > $\langle F\rangle$（（$p$ 或 $\langle F\rangle p$）且（非-$p$ 或 $\langle F\rangle$ 非-$p$））。
   - id: 72
     kind: body
     source: |-
       But that can be satisfied if, say, tomorrow Alexander is in Corinth and will not be the day after. It would also be satisfied if tomorrow Alexander is in Corinth the day after but not tomorrow. So there are at least some future contingents.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但如果——比如说——明天亚历山大在科林斯而后天不在，这便可以被满足。如果明天亚历山大在科林斯而明天不在、后天在，也同样可以被满足。所以至少有某些将来偶然者。
+    step2: |-
+      但若——比如说——明天亚历山大在科林斯而后天不在，这便可被满足；若明天亚历山大在科林斯而后天不在、或明天不在而后天在，也同样可被满足。故至少有某些将来偶然者。
   - id: 73
     kind: body
     source: |-
       But is this enough to say that the Diodorean modal system is not ‘deterministic’? Bobzien (1993, 73) rejects Denyer (1981b), who claims that the system is not deterministic, as it allows future contingents in the above senses. Bobzien argues that this sense of future contingents is still deterministic, since determinism is concerned with free action and actions are particular events at particular times. Diodorus’ modal system, she claims, cannot allow simultaneous possibilities for events at the same time. Although it is unclear whether any ancient critic could have articulated the point this way, Bobzien claims, where ‘$t)n$’ is a rigid designator for the present moment (in her case 12 noon on 3rd September 1991), ‘Dio is walking at $t_n$’ is not Diodorean contingent, as this would mean that Dio would have to walk and not walk at precisely that time, which is impossible, or we say, as above, that ‘Dio is walking at $t_n$’ is true at some future time and false at some other future time. But we cannot say that, since from $t_n$ onwards, the matter is settled one way or another. So, says Bobzien, Diodorean modalities are deterministic in the sense that they do not allow present contingencies about specific events.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但这足以说狄奥多罗斯模态系统不是“决定论的”吗？Bobzien（1993, 73）拒斥 Denyer（1981b）——后者声称该系统不是决定论的，因为它在上述意义上允许将来偶然者。Bobzien 论证说，这种意义上的将来偶然者仍然是决定论的，因为决定论关切自由行动，而行动是特定时刻的特定事件。她声称，狄奥多罗斯的模态系统不能允许同一时刻事件的共时可能性。尽管尚不清楚古代任何批评者是否可能如此表述这一点，Bobzien 声称：设“$t_n$”是现在时刻的严格指示词（在她那里是 1991 年 9 月 3 日正午），“狄翁在 $t_n$ 正在走”不是狄奥多罗斯式偶然的，因为这将意味着狄翁必须在恰恰那个时刻既走又不走——这是不可能的；或者我们说，如上所述，“狄翁在 $t_n$ 正在走”在某个将来时刻为真、在另一个将来时刻为假。但我们不能这么说，因为从 $t_n$ 往后，此事已以某种方式定局。所以，Bobzien 说，狄奥多罗斯式模态是决定论的，其意义是它们不允许关于特定事件的现在偶然性。
+    step2: |-
+      但这足以说狄奥多罗斯模态系统不是“决定论的”吗？Bobzien（1993, 73）拒斥 Denyer（1981b）——后者声称该系统不是决定论的，因其在上述意义上允许将来偶然者。Bobzien 论证：这种意义上的将来偶然者仍是决定论的，因为决定论关切自由行动，而行动是特定时刻的特定事件；她称狄奥多罗斯的模态系统不能允许同一时刻事件的共时可能性。尽管古代任何批评者是否可能如此表述尚不清楚，Bobzien 仍主张：设“$t_n$”为现在时刻的严格指示词（在她那里是 1991 年 9 月 3 日正午），“狄翁在 $t_n$ 正在走”不是狄奥多罗斯式偶然的——因为这将意味着狄翁必须在恰在那一时刻既走又不走，这不可能；或者我们就得如上所述地说“狄翁在 $t_n$ 正在走”在某个将来时刻为真、在另一将来时刻为假。但我们不能这么说，因为自 $t_n$ 往后，此事已以某种方式定局。故 Bobzien 说：狄奥多罗斯式模态是决定论的，其意义是不允许关于特定事件的现在偶然性。
   - id: 74
     kind: body
     source: |-
       This dispute is important, since one key question is just how ‘deterministic’ Diodorus’ modal system is, but very little literature addresses that question. On Denyer’s view, Diodorus is weakly deterministic, as it allows for future contingents, on a particular understanding of them. ‘It will be the case that Dio walks’ is a future contingent, since there is a time further in the future when Dio walks a time still further in the future when he does not. For Bobzein, this is still deterministic, not because she thinks that to be non-deterministic, you need future contingents with robust counter-factual modalities, but rather because, even on a Diodorean understanding, by the time some specific moment, $t_n$, is present, ‘(possibly Dio is walking and possibly Dio is not walking)’ is not true, so whether Dio is walking is not a contingent matter at any present moment. Since non-determined actions only take place in the present, and it is not contingent for Dio whether he is walking at any present moment, $t_n$, it is determined whether Dio is walking or not.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这场争论很重要，因为一个关键问题恰恰是狄奥多罗斯的模态系统在多大程度上是“决定论的”，而讨论这一问题的文献却极少。在 Denyer 看来，狄奥多罗斯是弱决定论的，因为在对“将来偶然者”的某种特定理解下，它允许它们。“狄翁走将会是这种情况”是一个将来偶然者，因为在更远的将来有一个狄翁走的时间，而在还要更远的将来有一个他不走的时间。对 Bobzien 而言，这仍然是决定论的——不是因为认为非决定论需要有强反事实模态的将来偶然者，而是因为即便按狄奥多罗斯式理解，到某个特定时刻 $t_n$ 成为现在时，“（可能狄翁在走且可能狄翁不在走）”并不为真，所以狄翁是否在走在任何现在时刻都不是偶然之事。既然非决定性的行动只发生在现在，而狄翁在任何现在时刻 $t_n$ 是否在走并非偶然，那么狄翁是否在走便是被决定的。
+    step2: |-
+      这场争论重要，因为一个关键问题恰是狄奥多罗斯模态系统究竟在多大程度上“决定论”，而讨论此问题的文献极少。在 Denyer 看来，狄奥多罗斯是弱决定论者——在对将来偶然者的某种特定理解下，它允许它们：“狄翁走将会是这种情况”是一个将来偶然者，因为更远的将来有狄翁走之时，而再远之将来有他不走之时。对 Bobzien 而言，这仍是决定论的——不是因为她认为非决定论需要带强反事实模态的将来偶然者，而是因为即便按狄奥多罗斯式理解，待某个特定时刻 $t_n$ 成为现在，“（可能狄翁在走且可能狄翁不在走）”并不为真，故狄翁是否在走在任何现在时刻都不是偶然之事。既然非决定性的行动只发生在现在，而狄翁在任何现在时刻 $t_n$ 是否在走并非偶然，则狄翁是否在走便是被决定的。
   - id: 75
     kind: body
     source: |-
       It does seem that Diodorus could hold on to present contingents. Diodorus was a temporal atomist, in that he holds that time is composed of discrete indivisible units of duration, which implies that the timeline is non-dense, i.e. it is not the case that between any two moments there is a third moment. He could accept Bobzein’s point – at any given atomic moment, $t_n$, Dio walks or he does not walk. If Dio walks at $t_n$, it is fixed at $t_n$ that Dio walks. But this is precisely what we would expect, given Diodorus atomism. It does not follow from this that Dio cannot be walking at $t_n$ and not walking at the next atomic moment, $t_{n+1}$. And if that turns out to be the case, then it is contingent at $t_n$ that Dio is walking, since it is possible that he walks (because he is in fact walking at $tn)$ and not necessary that he walks (because he is not walking later). The only exception to this is the last moment of time. If $t_n$ is the last moment of time, it cannot be the case that Dio is not walking at $t_{n+1}$, and so, it is not contingent that Dio is walking at $t_n$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      看起来狄奥多罗斯确实可以坚持现在偶然者。狄奥多罗斯是一个时间原子论者，即他主张时间由离散的不可分绵延单位构成，这意味着时间线不是稠密的，即并非任意两个时刻之间都有一个第三时刻。他可以接受 Bobzien 的论点——在任何给定的原子时刻 $t_n$，狄翁或者走或者不走。如果狄翁在 $t_n$ 走，那么在 $t_n$ 狄翁走在走便是固定的。但这正是我们在狄奥多罗斯原子论之下所期待的。由此不能推出狄翁不能在 $t_n$ 走而在下一个原子时刻 $t_{n+1}$ 不走。而如果结果如此，那么狄翁在走就在 $t_n$ 是偶然的，因为他在走是可能的（因为他事实上在 $t_n$ 走）、而他走在走不是必然的（因为他后来不走）。唯一的例外是时间的最后时刻。如果 $t_n$ 是时间的最后时刻，那么狄翁在 $t_{n+1}$ 不走便不能成立，所以狄翁在 $t_n$ 在走便不是偶然的。
+    step2: |-
+      看来狄奥多罗斯确实可以保住现在偶然者。他是个时间原子论者：主张时间由离散的不可分绵延单位构成，这意味着时间线不稠密——并非任意两时刻之间都有第三时刻。他可接受 Bobzien 的论点：在任何给定原子时刻 $t_n$，狄翁或者走、或者不走；若狄翁在 $t_n$ 走，则在 $t_n$ 他走在走便是固定的。而这恰是狄奥多罗斯原子论之下所期待的。由此推不出狄翁不能在 $t_n$ 走、而在下一原子时刻 $t_{n+1}$ 不走。若果然如此，则狄翁走在走就在 $t_n$ 是偶然的：他在走是可能的（因为他事实上在 $t_n$ 走），他走在走不是必然的（因为他后来不走）。唯一例外是时间的最后时刻：若 $t_n$ 是最后时刻，则狄翁在 $t_{n+1}$ 不走便不能成立，故狄翁在 $t_n$ 走在走不是偶然的。
   - id: 76
     kind: body
     source: |-
       Diodorus’ atomism assists this sort of argument, since this argument does not work if time is dense. If time is dense, then between $t_n$ and $t_{n+1}$ there is a third moment, call it $t_{n+ 1/2}$. We are assuming that tn is the last moment of Dion’s walking, since $t_{n+1}$ is the first moment of Dion’s not walking. So is Dio walking or not walking at $t_{n+ 1/2}$? Either answer has a powerful argument against it. On the one hand, Dio is not walking at $t_{n+ 1/2}$, for $t_n$ was the last moment of his walking. But, on the other hand, Dio is *not* not walking at $t_{n+ 1/2}$, for $t_{n+1}$ is the first moment of his not walking.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      狄奥多罗斯的原子论有助于这类论证，因为若时间是稠密的，这一论证便不成立。若时间是稠密的，那么在 $t_n$ 与 $t_{n+1}$ 之间有一个第三时刻，称之为 $t_{n+1/2}$。我们假定 $t_n$ 是狄翁走的最后时刻，因为 $t_{n+1}$ 是他不走的第一个时刻。那么狄翁在 $t_{n+1/2}$ 是走还是不走？两种回答都有强有力的反驳。一方面，狄翁在 $t_{n+1/2}$ 不走，因为 $t_n$ 是他走的最后时刻。但另一方面，狄翁在 $t_{n+1/2}$ *并非*不走，因为 $t_{n+1}$ 是他不走的第一个时刻。
+    step2: |-
+      狄奥多罗斯的原子论有助于这类论证——若时间稠密，该论证便不成立。设时间稠密，则 $t_n$ 与 $t_{n+1}$ 之间有第三时刻，称之 $t_{n+1/2}$。我们假定 $t_n$ 是狄翁走的最后时刻（因 $t_{n+1}$ 是他不走的第一个时刻），那么狄翁在 $t_{n+1/2}$ 是走还是不走？两种回答都有强力反驳：一方面，狄翁在 $t_{n+1/2}$ 不走，因其为走的最后时刻；另一方面，狄翁在 $t_{n+1/2}$ *并非*不走——$t_{n+1}$ 才是其不走的第一个时刻。
   - id: 77
     kind: body
     source: |-
       Diodorus cannot have continuous change. Suppose changes from Dio walking to not walking between $t_n$ and $t_{n+1}$. Since there are only temporal atoms, there can only be ‘leaps’ between Dio walking and not walking. Diodorus can certainly say that there are synchronous possibilities. Whether this is enough for Dio to be acting freely when he walks, is a wider issue. But it certainly does not rule out Dio from acting freely on the grounds the present is fixed.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      狄奥多罗斯不能有连续的变化。假设狄翁在 $t_n$ 与 $t_{n+1}$ 之间由走变为不走。既然只有时间原子，狄翁由走到不走之间便只能有“跳跃”。狄奥多罗斯当然可以说存在共时可能性。这是否足以使狄翁在走时是自由行动，是一个更宽泛的问题。但它当然不会以“现在是固定的”为理由排除狄翁自由行动。
+    step2: |-
+      狄奥多罗斯不能有连续变化。假设狄翁在 $t_n$ 与 $t_{n+1}$ 之间由走转为不走：既然只有时间原子，他在走与不走之间便只能有“跳跃”。狄奥多罗斯当然可以说存在共时可能性。这是否足以使狄翁走时是自由行动，是更宽泛的问题；但它当然不会以“现在是固定的”为由排除狄翁自由行动。
   - id: 78
     kind: body
     source: |-
       More worrying for those who are concerned with human freedom might be Diodorus’ commitment to the view that what will never happen is impossible. If, as a matter of fact, Dio always walks from $t_n$ onwards, it is, at $t_n$ impossible that Dio does not walk. Dio is freely walking only if he could do otherwise. On Diodorus’ view, Dion, while walking at $t_n$, is not freely walking, since it is not possible for him to do otherwise. Similarly, one might say that Dio is sitting, but not freely sitting, if chained to the floor. That may be right. But there is no reason to think that Diodorus must accept the ‘could do otherwise’ condition on free action. Compatibilists reject that condition too. Diodorean modalities are compatible with a variety of views about human freedom except, perhaps, the most implausible sort of libertarianism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对那些关心人类自由的人而言，更令人担忧的或许是狄奥多罗斯对“永不发生者皆不可能”这一观点的承诺。如果事实上狄翁从 $t_n$ 起始终走，那么狄翁不走就在 $t_n$ 是不可能的。狄翁唯有能够不如此做时才是自由地走。按狄奥多罗斯的观点，狄翁在 $t_n$ 走时并非自由地走，因为他不可能不如此做。类似地，人们可以说，如果狄翁被锁在地板上，他是坐着，但并非自由地坐着。这大概是对的。但没有理由认为狄奥多罗斯必须接受自由行动的“能够不如此做”条件。相容论者也拒斥该条件。狄奥多罗斯式模态与关于人类自由的多种观点相容——或许只有最不可信的那类自由意志论除外。
+    step2: |-
+      对关心人类自由者而言，更令人担忧的或许是狄奥多罗斯对“永不发生者皆不可能”的承诺。若事实上狄翁自 $t_n$ 起始终走，则狄翁不走在 $t_n$ 便不可能。而狄翁唯有能够不如此做，才是自由地走。按狄奥多罗斯，狄翁在 $t_n$ 走时并非自由地走，因为他不可能不如此。类似地，若狄翁被锁在地板上，他是坐着，却非自由地坐着；这大概不错。但无理由认为狄奥多罗斯必须接受自由行动的“能够不如此做”条件——相容论者也拒斥该条件。狄奥多罗斯式模态与关于人类自由的多种观点相容，或许只有最不可信的那类自由意志论除外。
   - id: 79
     kind: body
     source: |-
       We can see this if we look at how Diodorean modality works with the Lazy Argument. On Diodorus view, if it turns out that I pass my exam, it turns out impossible that I failed. On the other hand, if it turns out that I fail my exam, it turns out impossible that I passed. But nothing about that determines how it will turn out. So, I am still motivated to work hard, since what is not yet determined is whether I will pass or fail. From an ethical perspective, this might lead into a philosophical consolation, of sorts. It is not determined how things will turn out, but once they have turned out a certain way, there is no point worrying about it, since by then it could not have been otherwise.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们可以通过考察狄奥多罗斯式模态如何与懒惰论证相作用而看到这一点。按狄奥多罗斯的观点，如果结果是我通过了考试，那么我失败便成为不可能。另一方面，如果结果是我没通过考试，那么我通过便成为不可能。但关于这些如何了结，没有任何东西被决定。所以，我仍然有动力努力学习，因为尚未被决定的是我将通过还是失败。从伦理视角看，这或许会导致某种哲学安慰。事情将如何了结并未被决定，但一旦它们以某种方式了结，就没有必要为之担忧，因为到那时它本来就不可能不如此。
+    step2: |-
+      通过考察狄奥多罗斯式模态如何与懒惰论证相互作用，可以看到这一点。按狄奥多罗斯：若结果是我通过了考试，则我失败成为不可能；反之，若结果是我没通过，则我通过成为不可能。但这一切并不决定事情如何了结。故我仍有动力努力学习——尚未被决定者，正是我将通过还是失败。从伦理视角看，这或可导向某种哲学安慰：事情如何了结并未决定；但一旦以某种方式了结，便无须担忧，因为到那时它本就不可不如此。
   - id: 80
     kind: body
     source: |-
       ## 3. Logic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 逻辑
+    step2: |-
+      ## 3. 逻辑
   - id: 81
     kind: body
     source: |-
       ### 3.1 Conditionals
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 条件句
+    step2: |-
+      ### 3.1 条件句
   - id: 82
     kind: body
     source: |-
       Lots of sources point to intense debate in our period on the nature of conditionals. An epigram of Callimachus jokes that the debate was so widespread that even the crows on the rooftops were cawing about it (Sextus *M1* 309.4–7 = Döring 128 (part))! What remains of this rich debate is somewhat murky, but it does allow us to make some informed interpretations of Diodorus’ views on the conditional. The main source is again, Sextus (*PH* 110–112), who distinguishes four conditionals in order of strength: Philo’s, Diodorus’, Connection (which was probably Chrysippus’ on the evidence of DL 7 73) and Meaning. Sextus orders the conditionals in terms of logical strength, but it unclear which was the first to arise chronologically (*pace* (Sedley 1977, 101)[^sedley-1977]. It may be that Philo’s arose first, and was refined in response to something like the paradoxes of material implication.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      大量文献指向我们这一时期关于条件句本性的激烈争论。卡利马科斯的一则警句开玩笑说，这场争论如此普遍，乃至屋顶上的乌鸦都在为此聒噪（塞克斯都 *M1* 309.4–7 = Döring 128（部分））！这场丰富争论的残存部分有些模糊，但它确实使我们能够对狄奥多罗斯的条件句观点作出一些有根据的诠释。主要文献仍是塞克斯都（*PH* 110–112），他按强度顺序区分了四种条件句：菲洛式、狄奥多罗斯式、联结式（据 DL 7 73 的证据，这大概是克吕西波的）与意义式。塞克斯都按逻辑强度排列这些条件句，但何者按年代先出现并不清楚（与 Sedley 1977, 101[^sedley-1977] 相反）。或许菲洛式先出现，并针对实质蕴涵悖论之类的东西而被改进。
+    step2: |-
+      大量文献指向这一时期关于条件句本性的激烈争论。卡利马科斯一则警句打趣说：争论如此普遍，连屋顶上的乌鸦都在为此聒噪（塞克斯都 *M1* 309.4–7 = Döring 128（部分））！这场丰富争论的残存部分略显模糊，却足以让我们对狄奥多罗斯的条件句观点作出一些有据的诠释。主要文献仍是塞克斯都（*PH* 110–112）：他按强度顺序区分四种条件句——菲洛式、狄奥多罗斯式、联结式（据 DL 7 73 的证据，大概是克吕西波的）与意义式。塞克斯都按逻辑强度排列它们，但何者按年代在先，并不清楚（与 Sedley 1977, 101[^sedley-1977] 相反）：或许菲洛式先出，并针对实质蕴涵悖论之类而获改进。
   - id: 83
     kind: body
     source: |-
       In any case, a conditional is true, according to Philo just in case ‘it does not begin with a truth and end with a falsehood’ (Sextus *PH* II 110. Translation Annas and Barnes, modified. Cf. *M* II 114). For example, ‘if it is day, I am conversing’, is true when both it is day and I am conversing. Philo is usually interpreted as articulating the modern material conditional (Sedley 1977, 101; Mates 1949, 234; Mates 1953, 43)[^mates-1949][^mates-1953][^sedley-1977]. That is, where ‘$\to$’ is the material conditional:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      无论如何，按菲洛，一个条件句为真，当且仅当“它不以真开始而以假结束”（塞克斯都 *PH* II 110，Annas 与 Barnes 译，有改动。参 *M* II 114）。例如，“如果现在是白天，那么我在交谈”在白天且我在交谈时为真。菲洛通常被解读为阐明了现代的实质条件句（Sedley 1977, 101; Mates 1949, 234; Mates 1953, 43）[^mates-1949][^mates-1953][^sedley-1977]。也就是说，设“$\to$”为实质条件句：
+    step2: |-
+      无论如何，按菲洛，条件句为真当且仅当“它不以真开始而以假结束”（塞克斯都 *PH* II 110，Annas 与 Barnes 译，有改动；参 *M* II 114）。例如“如果现在是白天，那么我在交谈”，在白天且我在交谈时为真。菲洛通常被解读为阐明了现代的实质条件句（Sedley 1977, 101; Mates 1949, 234; Mates 1953, 43）[^mates-1949][^mates-1953][^sedley-1977]。也就是说，设“$\to$”为实质条件句：
   - id: 84
     kind: body
     source: |-
       > **(PHILO)**
       >
       > ‘if $p$ then $q$’ is a true Philo conditional iff $(p$ $\to$ $q)$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > **(PHILO)**
+      >
+      > “如果 $p$ 那么 $q$”是一个真的菲洛式条件句，当且仅当（$p$ $\to$ $q$）。
+    step2: |-
+      > **(PHILO)**
+      >
+      > “如果 $p$ 那么 $q$”是一个真的菲洛式条件句，当且仅当（$p$ $\to$ $q$）。
   - id: 85
     kind: body
     source: |-
       Sextus then tells us that Diodorus conditional is one that ‘neither could nor can begin from truth and end in falsehood’ (*PH* 2110 Trans. Annas and Barnes, modified. Cf. *M* 2.115).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      塞克斯都随后告诉我们，狄奥多罗斯式条件句是那种“既不曾能、也不能以真开始而以假结束”的条件句（*PH* 2.110，Annas 与 Barnes 译，有改动。参 *M* 2.115）。
+    step2: |-
+      塞克斯都随后告诉我们：狄奥多罗斯式条件句是“既不曾能、也不能以真开始而以假结束”的那种（*PH* 2.110，Annas 与 Barnes 译，有改动；参 *M* 2.115）。
   - id: 86
     kind: body
     source: |-
       > **(DIODORUS)**
       >
       > ‘if $p$ then $q$’ is a true Diodorean conditional iff it (i) neither was possible nor (ii) is possible that $(p$ & not$-q)$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > **(DIODORUS)**
+      >
+      > “如果 $p$ 那么 $q$”是一个真的狄奥多罗斯式条件句，当且仅当（$p$ 且非-$q$）(i) 不曾是可能的、也 (ii) 不是可能的。
+    step2: |-
+      > **(DIODORUS)**
+      >
+      > “如果 $p$ 那么 $q$”是一个真的狄奥多罗斯式条件句，当且仅当（$p$ 且非-$q$）(i) 不曾是可能的、也 (ii) 不是可能的。
   - id: 87
     kind: body
     source: |-
       Some scholars took Diodorus to be anticipating modern notions of strict implication (e.g. Hurst, 1935, 485). That view has been discredited, since the Diodorean conditional should be stronger than the strict conditional: ‘if $p$ then $q$’ is a true Diodorean conditional iff the proposition that $p$ now strictly implies the proposition that $q$ and the proposition that $p$ has always strictly implied the proposition that $q$. Instead, it is common to follow Mates (Mates 1949)[^mates-1949] and hold that a conditional holds in the Diodorean sense iff it holds in in Philo’s sense all times. That is where ‘$\to$’ represents the material conditional:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些学者认为狄奥多罗斯在预示现代的严格蕴涵概念（如 Hurst 1935, 485）。这种看法已被否证，因为狄奥多罗斯式条件句应当强于严格条件句：“如果 $p$ 那么 $q$”是一个真的狄奥多罗斯式条件句，当且仅当“$p$”这一命题现在严格蕴涵“$q$”这一命题、并且“$p$”这一命题一直严格蕴涵“$q$”这一命题。相反，通常追随 Mates（Mates 1949）[^mates-1949]，认为一个条件句在狄奥多罗斯意义上成立，当且仅当它在所有时刻都按菲洛的意义成立。也就是说，设“$\to$”表示实质条件句：
+    step2: |-
+      一些学者认为狄奥多罗斯预示了现代的严格蕴涵概念（如 Hurst 1935, 485），此说已被否证：狄奥多罗斯式条件句应当强于严格条件句——“如果 $p$ 那么 $q$”是真的狄奥多罗斯式条件句，当且仅当“$p$”这一命题现在严格蕴涵“$q$”这一命题，且一直严格蕴涵它。相反，通常追随 Mates（Mates 1949）[^mates-1949]，主张“如果 $p$ 那么 $q$”在狄奥多罗斯意义上成立，当且仅当它在所有时刻都按菲洛的意义成立。也就是说，设“$\to$”表示实质条件句：
   - id: 88
     kind: body
     source: |-
       > **(ALL-TIME)**
       >
       > ‘if $p$ then $q$’ is a true Diodorean conditional iff at all times, $(p$$\to$$q)$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > **(ALL-TIME)**
+      >
+      > “如果 $p$ 那么 $q$”是一个真的狄奥多罗斯式条件句，当且仅当在所有时刻，（$p$ $\to$ $q$）。
+    step2: |-
+      > **(ALL-TIME)**
+      >
+      > “如果 $p$ 那么 $q$”是一个真的狄奥多罗斯式条件句，当且仅当在所有时刻，（$p$ $\to$ $q$）。
   - id: 89
     kind: body
     source: |-
       So ‘if it is day, I am conversing’ turns out false, since there are times when ‘it is day’ is true, but ‘I am conversing’ is false (Cf. $M 2 115)$. One quibble with this common way to understand Diodorus’ conditionals is that Philo’s conditional is not obviously the material conditional, since ancient propositions tend to be tensed and the material conditional both is a tenseless proposition and conjoins tenseless propositions. A more serious difficulty with Mates’ reading is that it makes clause (ii) redundant. (i) on its own, read in line with Diodorean possibility, would yield the ALL-TIME conditional (as pointed out by Mates himself (Mates 1949, 238)[^mates-1949]). So why would Diodorus formulate his conditional with the redundant clause? Third, for Diodorus, if something is true at all times, it is necessarily true. So, for Diodorus the ALL-TIME conditional will just be a strict conditional. But we saw that Diodorus’ conditional should be stronger than the strict conditional. All this has led some to suggest that Diodorus’ conditional, while intended to be stronger that Philo’s, tried to be more neutral and so compatible with a range of views of possibility, each of which would yield different accounts of the conditional (Sedley 1977, 102)[^sedley-1977].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以“如果现在是白天，那么我在交谈”结果是为假的，因为有某些时刻“现在是白天”为真，而“我在交谈”为假（参 $M 2 115$）。对这种理解狄奥多罗斯式条件句的常见方式有一处小疵：菲洛式条件句并不显然是实质条件句，因为古代命题倾向于时态化，而实质条件句既是无时态的命题、又联结无时态命题。对 Mates 解读的一个更严重的困难是：它使从句 (ii) 变得多余。(i) 独自按狄奥多罗斯式可能性来读，就会得出全时条件句（Mates 本人已指出这一点（Mates 1949, 238）[^mates-1949]）。那么狄奥多罗斯为什么要以一个多余的从句来表述他的条件句呢？第三，对狄奥多罗斯而言，如果某物在所有时刻为真，它就是必然为真。所以对狄奥多罗斯来说，全时条件句将只是严格条件句。但我们已看到狄奥多罗斯的条件句应当强于严格条件句。这一切使一些人提出：狄奥多罗斯的条件句虽意在强于菲洛式，却试图更为中立，从而与一系列可能性观点相容——每一种都会产生不同的条件句说明（Sedley 1977, 102）[^sedley-1977]。
+    step2: |-
+      故“如果现在是白天，那么我在交谈”结果为假——有某些时刻“现在是白天”为真而“我在交谈”为假（参 $M 2 115$）。这种通行理解有一处小疵：菲洛式条件句并不显然是实质条件句，因为古代命题倾向时态化，而实质条件句既是无时态命题、又联结无时态命题。对 Mates 解读更严重的困难是：它使从句 (ii) 变得多余——(i) 单独按狄奥多罗斯式可能性来读，就能得出全时条件句（Mates 本人已指出，Mates 1949, 238[^mates-1949]）。那么狄奥多罗斯为何要以多余从句来表述其条件句？第三，对狄奥多罗斯而言，某物在所有时刻为真便是必然为真；故全时条件句对他而言只是严格条件句。但我们已见其条件句应强于严格条件句。这一切使一些人提出：狄奥多罗斯的条件句虽意在强于菲洛式，却试图更中立，从而与一系列可能性观点相容——每一种都产生不同的条件句说明（Sedley 1977, 102）[^sedley-1977]。
   - id: 90
     kind: body
     source: |-
       ## 4. Ontology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 本体论
+    step2: |-
+      ## 4. 本体论
   - id: 91
     kind: body
     source: |-
       ### 4.1 Simples and ‘atomism’
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 单纯者与“原子论”
+    step2: |-
+      ### 4.1 单纯者与“原子论”
   - id: 92
     kind: body
     source: |-
       Simples are the basic constituents of of bodies, time, and space are ‘simples’ (*amerē*) (Döring 117F, Döring 120). Diodorus used the term amerē in his ontology (Döring 116). Diodorean simples are physically indivisible and metaphysically simple, in that it is not possible to divide them. In contrast, Epicurus held that atoms are physically indivisible, but could be divided into ‘conceptual’ parts, such as a top and a bottom. Diodorus denied that simples have such conceptual parts (Sedley 1977, 87; Denyer 1981a, 36–37; Döring 119; see also Döring 117A; Döring 117C; Döring 117D; Döring 117E)[^denyer-1981a][^sedley-1977]. Diodorus holds that there are partless minima of time and minima of space (Döring 120; Sextus *M*10,119). The consensus is now that Diodorus is committed to atomism about time (Denyer 1981a, 36–37; Muller 1988, 138; and Berryman 2016)[^denyer-1981a][^muller-1988], but this is rejected by Wehrli (1960, 5:63) and McKirahan (1979, 242).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      单纯者是物体、时间与空间的基本构成单位，即“单纯者”（*amerē*）（Döring 117F, Döring 120）。狄奥多罗斯在本体论中使用了 *amerē* 一词（Döring 116）。狄奥多罗斯式单纯者在物理上不可分、在形而上学上单纯，即不可能分割它们。相比之下，伊壁鸠鲁认为原子在物理上不可分，但可以被分为“概念性”的部分，例如上端与下端。狄奥多罗斯否认单纯者有这类概念性部分（Sedley 1977, 87; Denyer 1981a, 36–37; Döring 119; 另见 Döring 117A; Döring 117C; Döring 117D; Döring 117E）[^denyer-1981a][^sedley-1977]。狄奥多罗斯主张存在无部分的时间极小者与空间极小者（Döring 120; 塞克斯都 *M*10,119）。目前的共识是：狄奥多罗斯承诺了关于时间的原子论（Denyer 1981a, 36–37; Muller 1988, 138; Berryman 2016）[^denyer-1981a][^muller-1988]，但此说为 Wehrli（1960, 5:63）与 McKirahan（1979, 242）所拒。
+    step2: |-
+      单纯者是物体、时间与空间的基本构成单位，即“单纯者”（*amerē*）（Döring 117F, Döring 120）；狄奥多罗斯在本体论中用了 *amerē* 一词（Döring 116）。其单纯者在物理上不可分、在形而上学上单纯——不可能被分割。相比之下，伊壁鸠鲁主张原子物理上不可分，却可分为“概念性”部分（如上端与下端）；狄奥多罗斯否认单纯者有此概念性部分（Sedley 1977, 87; Denyer 1981a, 36–37; Döring 119; 另见 Döring 117A; Döring 117C; Döring 117D; Döring 117E）[^denyer-1981a][^sedley-1977]。他主张存在无部分的时间极小者与空间极小者（Döring 120; 塞克斯都 *M*10,119）。目前的共识是：狄奥多罗斯承诺了关于时间的原子论（Denyer 1981a, 36–37; Muller 1988, 138; Berryman 2016）[^denyer-1981a][^muller-1988]；但 Wehrli（1960, 5:63）与 McKirahan（1979, 242）拒此说。
   - id: 93
     kind: body
     source: |-
       Diodorean simples have location but also extension. Diodorus’ simples are ‘very small’ (Döring 117A; Döring 117C; Döring 117D; Döring 117E). Being small implies being extended. Likewise, simple spaces lack parts, but have extension. Several of Diodorus’ arguments assume simple spaces precisely the same size as simple bodies. If simple bodies are extended, so too are simple spaces. Finally, simple times lack parts, but have duration (Sorabji 1983, 19)[^sorabji-1983]. Although they lack parts, Diodorean simples have other properties, such as being ‘imperceptible’ (Döring 119). Diodorean simples have relational properties. A simple body occupies a simple space just in case the simple body is spatially located at that simple place. Likewise, a simple body exists at a simple time just in case the simple body is temporally located at that simple time. Simple places can relate to each other. For example, places can be ordered from first to second, and the same applies to simple times. This point is stressed by (Sorabji 1983, 369–70; Sextus *M*10,119–20)[^sorabji-1983]. Finally, simples can form complexes. In fact, they are the principles (*archai*) of complexes (Döring 116; Döring 117A; Döring 117C; Döring 117D; Döring 117E; Döring 117F).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      狄奥多罗斯式单纯者有位置，但也有延展。狄奥多罗斯的单纯者是“非常小的”（Döring 117A; Döring 117C; Döring 117D; Döring 117E）。小意味着有延展。同样，单纯的空间缺乏部分，但具有延展。狄奥多罗斯的若干论证恰恰假定单纯空间与单纯物体同样大小。若单纯物体有延展，单纯空间亦然。最后，单纯的时间缺乏部分，但具有绵延（Sorabji 1983, 19）[^sorabji-1983]。狄奥多罗斯式单纯者虽然缺乏部分，却具有其他属性，例如“不可知觉”（Döring 119）。狄奥多罗斯式单纯者具有关系属性。一个单纯物体占据一个单纯空间，当且仅当该单纯物体在空间上位于那个单纯位置。同样，一个单纯物体在一个单纯时间存在，当且仅当该单纯物体在时间上位于那个单纯时间。单纯的位置可以彼此关联，例如位置可以从第一到第二排序，单纯时间亦然。这一点为（Sorabji 1983, 369–70; 塞克斯都 *M*10,119–20）[^sorabji-1983] 所强调。最后，单纯者可以构成复合物。事实上，它们是复合物的本原（*archai*）（Döring 116; Döring 117A; Döring 117C; Döring 117D; Döring 117E; Döring 117F）。
+    step2: |-
+      狄奥多罗斯式单纯者有位置，也有延展：其单纯者是“非常小的”（Döring 117A; Döring 117C; Döring 117D; Döring 117E），而小即意味着有延展。同样，单纯空间缺乏部分却有延展；狄奥多罗斯的若干论证恰假定单纯空间与单纯物体同大——若单纯物体有延展，单纯空间亦然。最后，单纯时间缺乏部分却有绵延（Sorabji 1983, 19）[^sorabji-1983]。单纯者虽无部分，却另有属性，如“不可知觉”（Döring 119）。它们还具关系属性：一个单纯物体占据一个单纯空间，当且仅当该物体在空间上位于那个单纯位置；同样，它在某一单纯时间存在，当且仅当它在时间上位于那个单纯时间。单纯位置可彼此关联——位置可从第一到第二排序，单纯时间亦然（此点为 Sorabji 1983, 369–70 与塞克斯都 *M*10,119–20 所强调）[^sorabji-1983]。最后，单纯者能构成复合物：事实上它们是复合物的本原（*archai*）（Döring 116; Döring 117A; Döring 117C; Döring 117D; Döring 117E; Döring 117F）。
   - id: 94
     kind: body
     source: |-
       ### 4.2 Motivation for atomism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 原子论的动因
+    step2: |-
+      ### 4.2 原子论的动因
   - id: 95
     kind: body
     source: |-
       What might have motivated Diodorean atomism? No Diodorean argument for atomism is recorded so the debate is speculative, but interesting, since it shows how different parts of Diodorus thinking could be connected. Mau (1954, 28) and Sedley (1977, 88) both suggest that Diodorus could frame an argument for atomism using his definition of possibility. Such an argument would work like this:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      什么可能促动了狄奥多罗斯式原子论？没有记录下任何狄奥多罗斯为原子论辩护的论证，故此争论是思辨性的，但颇有意思，因为它展示了狄奥多罗斯思想的不同部分如何可能相互关联。Mau（1954, 28）与 Sedley（1977, 88）都提示，狄奥多罗斯可以用他的可能性定义来构造一个为原子论辩护的论证。这样一个论证会如此进行：
+    step2: |-
+      什么可能促动了狄奥多罗斯式原子论？没有记录下他为原子论辩护的任何论证，故此争论是思辨的，却也颇有意思——它展示了其思想各部分如何可能相互关联。Mau（1954, 28）与 Sedley（1977, 88）都提示：狄奥多罗斯可用其可能性定义构造一个为原子论辩护的论证，其进行方式如下：
   - id: 96
     kind: body
     source: |-
       **P1.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P1.**
+    step2: |-
+      **P1.**
   - id: 97
     kind: body
     source: |-
       Something is possible (*dunaton*) just in case it either is true or will be [D]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      某物是可能的（*dunaton*），当且仅当它或者为真、或者将为真 [D]
+    step2: |-
+      某物为可能（*dunaton*），当且仅当它或者为真、或者将为真 [D]
   - id: 98
     kind: body
     source: |-
       **P2.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P2.**
+    step2: |-
+      **P2.**
   - id: 99
     kind: body
     source: |-
       Nothing is divided into an infinite number of parts [Premise]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      没有任何东西被分为无限多的部分 [前提]
+    step2: |-
+      无物被分为无限多的部分 [前提]
   - id: 100
     kind: body
     source: |-
       **P3.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P3.**
+    step2: |-
+      **P3.**
   - id: 101
     kind: body
     source: |-
       Nothing will be divided into an infinite number of parts [Premise]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      没有任何东西将被分为无限多的部分 [前提]
+    step2: |-
+      无物将被分为无限多的部分 [前提]
   - id: 102
     kind: body
     source: |-
       **C1.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **C1.**
+    step2: |-
+      **C1.**
   - id: 103
     kind: body
     source: |-
       So, it is not possible that anything be divided into an infinite number of parts
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以，任何东西被分为无限多的部分是不可能的
+    step2: |-
+      所以，任何东西被分为无限多的部分，皆不可能
   - id: 104
     kind: body
     source: |-
       **C2.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **C2.**
+    step2: |-
+      **C2.**
   - id: 105
     kind: body
     source: |-
       So, necessarily, anything is divided into only a finite number of parts [Equivalent to C1]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以，必然地，任何东西只被分为有限多的部分 [等值于 C1]
+    step2: |-
+      故必然地：任何东西只分为有限多的部分 [等值于 C1]
   - id: 106
     kind: body
     source: |-
       However, Denyer rejects this as a reconstruction of Diodorus motivation (Denyer 1981a, 35–36)[^denyer-1981a]. The atomism that results from the above argument is not Diodorean atomism, since it allows simples that are of different sizes. Suppose that you have two objects of different sizes at the last moment of time. Neither will be further divided. So, both are simples. But, by hypothesis, each has a different size. But, according to Denyer, Diodorean simples are not only small, but also all have the same size. If two simples had different sizes, one would be equal in size to a part of the other. But this is not allowed, since neither have parts. So, all simples have the same size.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，Denyer 拒斥以此作为对狄奥多罗斯动因的重构（Denyer 1981a, 35–36）[^denyer-1981a]。上述论证所得的原子论并非狄奥多罗斯式原子论，因为它允许大小不同的单纯者。假设在时间的最后时刻你有两个大小不同的物体。两者都不会再被分割。所以两者都是单纯者。但按假设，二者大小不同。而据 Denyer，狄奥多罗斯式单纯者不仅小，而且大小全都相同。若两个单纯者大小不同，一个就会在大小上等于另一个的一部分。但这是不允许的，因为二者都没有部分。所以，一切单纯者大小相同。
+    step2: |-
+      然而 Denyer 拒斥以此作为对狄奥多罗斯动因的重构（Denyer 1981a, 35–36）[^denyer-1981a]。上述论证所得原子论并非狄奥多罗斯式原子论：它允许大小不同的单纯者。假设在时间的最后时刻你有两个大小不同的物体，二者都不会再被分割，故都是单纯者；但按假设，二者大小不同。而据 Denyer，狄奥多罗斯式单纯者不仅小，且大小全同——若两个单纯者大小不同，一个便在大小上等于另一个的一部分，而这不被允许（二者皆无部分）。故一切单纯者同大。
   - id: 107
     kind: body
     source: |-
       Several responses are open to this. The first is that Diodorus only relies dialectically on bodies and spaces having the same size in his anti-change argument (see below). So he does not need to commit to all simple bodies having the same size. Second, it may be plausible that all simple bodies do have the same very small size, even on the above argument. Grains of sand on a beach, through a long process of erosion, are all small and roughly of the same size and shape. Given an arbitrarily long time, erosion would create arbitrarily small grains of arbitrarily similar size and shape. On some interpretations, Diodorus’ Master Argument needs an assumption that there is no first moment of time (Denyer, 1999). Roughly, if there were a first moment, at that moment, there are no past truths, including necessary past truths. So (MA1) would be false. But if there is no first moment of time, there is an arbitrarily long time for erosion to occur. So we have an indefinitely long time for such physical processes to act on all bodies. Denyer himself holds that Diodorean atomism is established by Diodorus arguments against motion and change (Denyer 1981a, 33)[^denyer-1981a]. But, since those arguments rely extensively on atomism, it is unclear whether these arguments could motivate atomism without begging the question.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对此有若干回应可选。第一，狄奥多罗斯只是在反变化论证中辩证地依赖物体与空间同大（见下文）。所以他不需要承诺一切单纯物体都同大。第二，即便在上述论证中，一切单纯物体确实具有相同的极小尺寸，也似乎是可信的。海滩上的沙粒经过漫长的侵蚀过程，都变得小而大小形状大致相同。给定任意长的时间，侵蚀会造成任意小、大小形状任意相近的沙粒。按某些诠释，狄奥多罗斯的主论证需要一个“没有时间的第一时刻”的假定（Denyer, 1999）。粗略地说，若存在第一时刻，则在该时刻没有任何过去真理，包括必然的过去真理。所以 (MA1) 会是假的。但若没有时间的第一时刻，就有任意长的时间可供侵蚀发生。于是我们有不确定长的时间让这类物理过程作用于一切物体。Denyer 本人主张狄奥多罗斯式原子论是由其反对运动与变化的论证确立的（Denyer 1981a, 33）[^denyer-1981a]。但既然那些论证广泛依赖原子论，这些论证能否在不乞题的情况下促动原子论，便不清楚了。
+    step2: |-
+      对此有若干回应可选。第一，狄奥多罗斯只在反变化论证中辩证地依赖物体与空间同大（见下文），故无须承诺一切单纯物体同大。第二，即便在上述论证中，一切单纯物体确实具有相同的极小尺寸，也似可信：海滩沙粒经漫长侵蚀，都变得小而大小形状大致相同；给定任意长时间，侵蚀便造就任意小、大小形状任意相近的沙粒。按某些诠释，主论证需要一个“无第一时间之时刻”的假定（Denyer, 1999）：粗略地说，若存在第一时刻，则该时刻没有任何过去真理（包括必然的过去真理），(MA1) 便为假；而若没有第一时刻，绵延便任意长，我们遂有不确定长的时间让此类物理过程作用于一切物体。Denyer 本人主张狄奥多罗斯式原子论由其反对运动与变化的论证确立（Denyer 1981a, 33）[^denyer-1981a]；但那些论证既广泛依赖原子论，能否不乞题地促动原子论，便不清楚。
   - id: 108
     kind: body
     source: |-
       ## 5. Physics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. 物理学
+    step2: |-
+      ## 5. 物理学
   - id: 109
     kind: body
     source: |-
       ### 5.1 Arguments against present change
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.1 反对现在变化的论证
+    step2: |-
+      ### 5.1 反对现在变化的论证
   - id: 110
     kind: body
     source: |-
       Diodorus’ atomism was instrumental in his arguments about change, but Diodorus attitude towards change was sophisticated. Diodorus denied that there is change in the present, but not that there was change in the past (Döring 121; Döring 122; Döring 123). Some have thought this position is incoherent, since past change entails present change at some time, an objection we will consider below. For now, consider how Diodorus defended the claim that there is no present change.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      狄奥多罗斯的原子论在其关于变化的论证中起了工具性作用，但他对变化的态度是精致的。狄奥多罗斯否认现在有变化，但并不否认过去有变化（Döring 121; Döring 122; Döring 123）。一些人认为这一立场不自洽，因为过去的变化在某些时刻蕴含现在的变化——这一反驳我们将在下文考虑。现在先看狄奥多罗斯如何为“没有现在变化”这一主张辩护。
+    step2: |-
+      狄奥多罗斯的原子论在其关于变化的论证中起了工具作用，但他对变化的态度颇为精致：他否认现在有变化，却并不否认过去有变化（Döring 121; Döring 122; Döring 123）。有人认为这一立场不自洽，因为过去的变化在某些时刻蕴含现在的变化——此反驳下文再议。先看狄奥多罗斯如何为“无现在变化”辩护。
   - id: 111
     kind: body
     source: |-
       The traditional scholarly narrative has been that Diodorus responds to Zeno of Elea’s arguments, perhaps positing simples as a response to the Dichotomy paradox, but then arguing that, even in that case, motion is impossible (Sedley 1977, 85–86; Denyer 1981a, 40, 43; Sorabji 1983, 18, 369; and Muller 1985, 137)[^muller-1985][^denyer-1981a][^muller-1985-2][^sedley-1977][^sorabji-1983]. More recent scholarship has tried to show that Diodorus rejected not only motion but also present qualitative and existential change for both simples and complexes (Duncombe 2023)[^duncombe-2023]. A few examples should give a flavour of Diodorus strategy, which involves using his atomism to support his anti-change arguments. Here is an argument against present change of simples, attributed to Diodorus by Sextus Empiricus:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      传统的学术叙事是：狄奥多罗斯回应埃利亚的芝诺的论证，或许提出单纯者以回应二分悖论，但随后论证说，即便在那种情况下，运动也是不可能的（Sedley 1977, 85–86; Denyer 1981a, 40, 43; Sorabji 1983, 18, 369; 以及 Muller 1985, 137）[^muller-1985][^denyer-1981a][^muller-1985-2][^sedley-1977][^sorabji-1983]。较晚近的研究试图表明，狄奥多罗斯不仅拒斥运动，也拒斥单纯者与复合物的现在性质变化与存在变化（Duncombe 2023）[^duncombe-2023]。几个例子应能呈现狄奥多罗斯策略的风味——该策略运用其原子论来支撑反变化论证。以下是一个反对单纯者现在变化的论证，塞克斯都·恩披里柯将其归于狄奥多罗斯：
+    step2: |-
+      传统学术叙事是：狄奥多罗斯回应埃利亚的芝诺的论证——或许提出单纯者以回应二分悖论，但随后论证，即便在那种情况下运动也不可能（Sedley 1977, 85–86; Denyer 1981a, 40, 43; Sorabji 1983, 18, 369; 及 Muller 1985, 137）[^muller-1985][^denyer-1981a][^muller-1985-2][^sedley-1977][^sorabji-1983]。较晚近的研究则试图表明：狄奥多罗斯不仅拒斥运动，也拒斥单纯者与复合物的现在性质变化与存在变化（Duncombe 2023）[^duncombe-2023]。以下几个例子可见其策略风味——该策略以原子论支撑反变化论证。下例反对单纯者的现在变化，塞克斯都·恩披里柯归之于狄奥多罗斯：
   - id: 112
     kind: body
     source: |-
       > For the partless body must be surrounded in a partless place, and it moves (*kinētai*) neither in that place (for it fills it, and it is necessary that a thing which will move has a place larger than it), nor a place that it is not in. For it [the body] is not yet in that place in order that it [the body] might move in it [the place]. Thus it does not move (Sextus, *M*10,86 = Döring 123 (part); my translation drawing on Bury).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 因为无部分物体必被无部分位置所包围，而它既不在那个位置中运动（*kinētai*）（因为它填满了那里，而将要运动之物必须有一个比它更大的位置），也不在它不在的位置中运动。因为［该物体］尚未在那个位置中，以便［该物体］能在其中［该位置］运动。因此它不运动（塞克斯都 *M*10,86 = Döring 123（部分）；拙译，参 Bury）。
+    step2: |-
+      > 因为无部分物体必被无部分位置所包围，而它既不在那个位置中运动（*kinētai*）（因为它填满了那里，而将要运动之物必须有一个比它更大的位置），也不在它不在的位置中运动。因为［该物体］尚未在那个位置中，以便［该物体］能在其中［该位置］运动。因此它不运动（塞克斯都 *M*10,86 = Döring 123（部分）；拙译，参 Bury）。
   - id: 113
     kind: body
     source: |-
       Sextus reports reasoning of this sort:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      塞克斯都报道了这类推理：
+    step2: |-
+      塞克斯都所报道的推理如下：
   - id: 114
     kind: body
     source: |-
       **P1.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P1.**
+    step2: |-
+      **P1.**
   - id: 115
     kind: body
     source: |-
       Every simple body occupies a simple place [Premise]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      每个单纯物体占据一个单纯位置 [前提]
+    step2: |-
+      凡单纯物体皆占据一个单纯位置 [前提]
   - id: 116
     kind: body
     source: |-
       **P2.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P2.**
+    step2: |-
+      **P2.**
   - id: 117
     kind: body
     source: |-
       Any simple body that moves, moves either (a) in a place it occupies or (b) in a place it does not occupy [Premise]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      任何运动的单纯物体，或者 (a) 在它所占据的位置中运动，或者 (b) 在它所不占据的位置中运动 [前提]
+    step2: |-
+      任何运动的单纯物体，或者 (a) 在其所占据的位置中运动，或者 (b) 在其所不占据的位置中运动 [前提]
   - id: 118
     kind: body
     source: |-
       **P3.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P3.**
+    step2: |-
+      **P3.**
   - id: 119
     kind: body
     source: |-
       If a simple body moves, it moves in a place larger than it [Premise]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果一个单纯物体运动，它在比它更大的位置中运动 [前提]
+    step2: |-
+      若一个单纯物体运动，则它在比自身更大的位置中运动 [前提]
   - id: 120
     kind: body
     source: |-
       **P4.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P4.**
+    step2: |-
+      **P4.**
   - id: 121
     kind: body
     source: |-
       If a body and the place it occupies are simple, both are the same size [Premise]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果一个物体与它所占据的位置都是单纯的，二者大小相同 [前提]
+    step2: |-
+      若一个物体与其所占位置皆为单纯，则二者同大 [前提]
   - id: 122
     kind: body
     source: |-
       **C1.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **C1.**
+    step2: |-
+      **C1.**
   - id: 123
     kind: body
     source: |-
       So, no simple body moves in the place it occupies [MP P3,P4]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以，没有单纯物体在它所占据的位置中运动 [MP P3,P4]
+    step2: |-
+      故没有单纯物体在其所占位置中运动 [MP P3,P4]
   - id: 124
     kind: body
     source: |-
       **P5.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P5.**
+    step2: |-
+      **P5.**
   - id: 125
     kind: body
     source: |-
       No simple body moves in a place it does not occupy [Premise]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      没有单纯物体在它所不占据的位置中运动 [前提]
+    step2: |-
+      没有单纯物体在其所不占据的位置中运动 [前提]
   - id: 126
     kind: body
     source: |-
       **C2.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **C2.**
+    step2: |-
+      **C2.**
   - id: 127
     kind: body
     source: |-
       Therefore, no simple body moves. [MT, P2,C1,P5]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，没有单纯物体运动。[MT, P2,C1,P5]
+    step2: |-
+      故无单纯物体运动。[MT, P2,C1,P5]
   - id: 128
     kind: body
     source: |-
       Diodorus’ argument is valid, but premises 2, 3 and 4 seem false. Premise 2 seems false because it is not exhaustive: a body may move from a place it occupies to a place it does not occupy. But appealing to his atomism, Diodorus could defend the premise. Moving from one place to another implies being partly in one place and partly in another in one moment. But since neither bodies, times or places have parts according to Diodorus, nothing can be partly in another at some moment. Premise 3 seems false because it seems rotary motion can take place in a place precisely the same size as the thing rotating. But, as Diodorus could argue, rotation depends on parts because the rotating thing has a vertical axis and some point which rotates around the vertical axis. But these would be separate parts to the rotating thing, which is blocked by Diodorus atomism. Finally, premise 4 seems doubtful: why should both simple body and simple place be the same size? (Denyer 1981a, 36)[^denyer-1981a] offers an ingenious argument that all simples are the same size. Suppose for reductio that two partless simples, $a$, and $b$, differ in size. In that case one must be larger than the other, say $a$ is larger than $b$. But if $a$ is larger than $b, b$ is the same size of a part of $a$. So $a$ has parts. But this contradicts our supposition.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      狄奥多罗斯的论证是有效的，但前提 2、3、4 似乎是假的。前提 2 似乎为假，因为它的析取不穷尽：一个物体可以从它占据的位置运动到它不占据的位置。但借助其原子论，狄奥多罗斯可以为该前提辩护。从一个位置运动到另一个位置意味着在一个时刻部分地在一个位置、部分地在另一个位置。但既然按狄奥多罗斯，物体、时间与位置都没有部分，任何东西都不能在某个时刻部分地在另一个之中。前提 3 似乎为假，因为看起来旋转运动可以在一个与被旋转之物恰恰同样大小的位置中发生。但狄奥多罗斯可以论证：旋转依赖于部分，因为旋转之物有一个竖直的轴以及某个绕竖直轴旋转的点。但这些将是旋转之物的分离部分，而这被狄奥多罗斯的原子论所排除。最后，前提 4 似乎可疑：为什么单纯物体与单纯位置应当同大？（Denyer 1981a, 36）[^denyer-1981a] 提供了一个精巧的论证，表明一切单纯者大小相同。为归谬，假设两个无部分的单纯者 $a$ 与 $b$ 大小不同。那么一个必定大于另一个，设 $a$ 大于 $b$。但如果 $a$ 大于 $b$，则 $b$ 与 $a$ 的某一部分大小相同。所以 $a$ 有部分。但这与我们的假设相矛盾。
+    step2: |-
+      狄奥多罗斯的论证有效，但前提 2、3、4 似乎是假的。前提 2 似假，因其析取不穷尽：物体可从其所占位置运动到其所占之外的位置。但借助原子论，狄奥多罗斯可为之辩护：由一位置运动到另一位置，意味着在某一时刻部分地在一处、部分地在另一处；而按狄奥多罗斯，物体、时间与位置皆无部分，故任何东西都不能在某个时刻部分地在另一之中。前提 3 似假，因为旋转运动似乎可在与被旋转物恰同大的位置中发生；但狄奥多罗斯可论证：旋转依赖部分——旋转之物有竖直的轴、以及某个绕轴旋转的点，而这些将是旋转之物的分离部分，为原子论所排除。最后，前提 4 似可疑：为何单纯物体与单纯位置应当同大？（Denyer 1981a, 36）[^denyer-1981a] 给出一个精巧论证：一切单纯者同大。为归谬，设两个无部分单纯者 $a$ 与 $b$ 大小不同：则一个必大于另一个，设 $a$ 大于 $b$；但若 $a$ 更大，则 $b, b$ 与 $a$ 的某一部分同大——故 $a$ 有部分。这与假设矛盾。
   - id: 129
     kind: body
     source: |-
       Diodorus deployed a slightly different strategy against existential change:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      狄奥多罗斯对存在变化部署了一个略为不同的策略：
+    step2: |-
+      狄奥多罗斯对存在变化部署了略为不同的策略：
   - id: 130
     kind: body
     source: |-
       > And the fact that nothing perishes follows from the fact that nothing changes (*kineisthai*). For just as nothing changes (*kineitai*) in the place where it is not, so too the living being dies neither in the time when it lives nor in the time when it does not live, so it never dies. (Sextus, *M*1, 312=Döring 128 (part))
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 而没有什么东西消亡这一事实，可由没有什么东西变化（*kineisthai*）这一事实推出。因为正如没有什么东西在它所不在的位置中变化（*kineitai*），同样，生物既不在它活着的时间里死、也不在它不活着的时间里死，所以它永不死。（塞克斯都 *M*1, 312 = Döring 128（部分））
+    step2: |-
+      > 而没有什么东西消亡这一事实，可由没有什么东西变化（*kineisthai*）这一事实推出。因为正如没有什么东西在它所不在的位置中变化（*kineitai*），同样，生物既不在它活着的时间里死、也不在它不活着的时间里死，所以它永不死。（塞克斯都 *M*1, 312 = Döring 128（部分））
   - id: 131
     kind: body
     source: |-
       This line of argument shifts to a slightly different strategy. Diodorus’ argument against movement argues that there is no movement because there is no place for movement to take place. This argument against existential change is that things cannot perish or die because there is no time when existential change can take place. The argument reported by Sextus runs like this:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一论证路线转向一个略为不同的策略。狄奥多罗斯反对运动的论证主张：没有运动，因为运动没有可发生的位置。而这一反对存在变化的论证则是：事物不能消亡或死亡，因为没有可发生存在变化的时间。塞克斯都报道的论证如下：
+    step2: |-
+      这条论证路线转向略为不同的策略：反对运动的论证主张——没有运动，因为运动无处发生；而反对存在变化的这一论证则主张——事物不能消亡或死亡，因为没有可发生存在变化的时间。塞克斯都所报道的论证如下：
   - id: 132
     kind: body
     source: |-
       **P1.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P1.**
+    step2: |-
+      **P1.**
   - id: 133
     kind: body
     source: |-
       Anything that dies, either (a) dies at a time when that thing lives or (b) at a time when it does not live [Premise]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      凡死亡者，或者 (a) 在该物活着的时间里死，或者 (b) 在它不活着的时间里死 [前提]
+    step2: |-
+      凡死者，或者 (a) 在其活着之时死，或者 (b) 在其不活着之时死 [前提]
   - id: 134
     kind: body
     source: |-
       **P2.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P2.**
+    step2: |-
+      **P2.**
   - id: 135
     kind: body
     source: |-
       Nothing dies at a time when it lives [Premise]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      没有东西在它活着的时间里死 [前提]
+    step2: |-
+      无物在其活着之时死 [前提]
   - id: 136
     kind: body
     source: |-
       **P3.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P3.**
+    step2: |-
+      **P3.**
   - id: 137
     kind: body
     source: |-
       Nothing dies at a time when it does not live [Premise]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      没有东西在它不活着的时间里死 [前提]
+    step2: |-
+      无物在其不活着之时死 [前提]
   - id: 138
     kind: body
     source: |-
       **C1.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **C1.**
+    step2: |-
+      **C1.**
   - id: 139
     kind: body
     source: |-
       Nothing dies at a time when it lives nor at a time when it does not live [&, P2,P3]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      没有东西既在它活着的时间里死、也不在它不活着的时间里死 [&, P2,P3]
+    step2: |-
+      无物既在其活着时死、也不在其不活着时死 [&, P2,P3]
   - id: 140
     kind: body
     source: |-
       **C2.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **C2.**
+    step2: |-
+      **C2.**
   - id: 141
     kind: body
     source: |-
       So, nothing dies [MT on P1,C1]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以，没有东西死亡 [MT on P1,C1]
+    step2: |-
+      故无物死亡 [MT on P1,C1]
   - id: 142
     kind: body
     source: |-
       This style of argument also relies on Diodorus’ atomism. ‘Dies’ could mean (a) being in the process of dying (b) the result of that process. If we take a process reading, of course, something can be in the process of dying at a time when it lives, so premise (2) is false. If we take the result reading, anything that dies, dies at a time it does not live, since the first moment of being dead is the first moment of not being alive. But Diodorus’ atomism collapses this distinction, since if time is atomic there is no continuous process of dying, merely a series of moments, the last of which is the last moment of being alive.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种论证风格同样依赖狄奥多罗斯的原子论。“死亡”可以指 (a) 处于死亡的过程之中，(b) 该过程的结果。若取过程解读，那么当然可以在某物活着的时间处于死亡过程中，故前提 (2) 为假。若取结果解读，凡死亡者都在它不活着的时间里死，因为“已死”的第一个时刻正是“不活着”的第一个时刻。但狄奥多罗斯的原子论使这一区分坍塌了：若时间是原子的，就没有连续的死亡过程，只有一系列的时刻，其中最后一个是有生命的最后时刻。
+    step2: |-
+      这种论证风格同样依赖原子论。“死亡”既可指 (a) 正处于死亡过程之中，也可指 (b) 该过程的结果。若取过程义，则某物当然可在其活着之时处于死亡过程，故前提 (2) 为假；若取结果义，凡死者皆在其不活着之时死——“已死”的第一时刻正是“不活着”的第一时刻。而狄奥多罗斯的原子论使这一区分坍塌：若时间是原子的，便没有连续的死亡过程，只有一系列时刻，其最后一个是活着的最后时刻。
   - id: 143
     kind: body
     source: |-
       These arguments against change of simples do not rule out change of complexes, since even if simples cannot change, it does not follow that wholes composed of complexes cannot change. Wholes may have properties their parts do not have. So Diodorus needs another argument against change for complexes. We have a detailed report of such an argument in Sextus (*M* 10, 114–17), known as the Predominance Argument. Diodorus did not simply argue that ‘simples cannot change; complexes are just unstructured bundles of simples; so, complexes cannot change’. He attempted a more ambitious argument that a whole cannot change because change cannot ‘transmit’ from parts to the whole. But it is difficult to make the argument intelligible and even remotely compelling (see (Hankinson 2015)[^hankinson-2015] and (Duncombe 2023)[^duncombe-2023] for differing attempts to make sense of this argument).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些反对单纯者变化的论证并未排除复合物的变化，因为即便单纯者不能变化，也不能推出由复合物构成的整体不能变化。整体可以有部分所没有的属性。所以狄奥多罗斯需要对复合物的变化另作一个论证。我们在塞克斯都（*M* 10, 114–17）那里有一个关于此类论证的详细报道，即所谓的“优势论证”（Predominance Argument）。狄奥多罗斯并非简单地论证“单纯者不能变化；复合物只是单纯者的无结构堆束；所以复合物不能变化”。他试图作一个更有雄心的论证：整体不能变化，因为变化不能由部分“传递”到整体。但要使这一论证可理解、乃至勉强有说服力，是困难的（关于理解此论证的不同尝试，见（Hankinson 2015）[^hankinson-2015] 与（Duncombe 2023）[^duncombe-2023]）。
+    step2: |-
+      这些反对单纯者变化的论证并未排除复合物的变化：即便单纯者不变，也推不出由复合物构成的整体不变——整体可以有部分所无的属性。故狄奥多罗斯需另作一个针对复合物变化的论证。塞克斯都（*M* 10, 114–17）有一个关于此类论证的详细报道，即“优势论证”（Predominance Argument）。狄奥多罗斯并非简单论证“单纯者不能变化，复合物只是单纯者的无结构堆束，故复合物不能变化”；他试图作一个更有雄心的论证：整体不能变化，因为变化无法由部分“传递”到整体。然而要使该论证可理解、乃至勉强有说服力，颇为困难（理解此论证的不同尝试见 Hankinson 2015[^hankinson-2015] 与 Duncombe 2023[^duncombe-2023]）。
   - id: 144
     kind: body
     source: |-
       The overall argument says that for a whole to change, it must change all-out. But all-out change is impossible. So, a whole cannot change. Why is all-out change impossible? All out change is change of all the parts. It is impossible because all-out change entails predominant change, that is, change of most of the parts. But predominant change is impossible. Predominant change occurs when more than half of the parts are changing, but a few are resting. Diodorus subjects predominant change to a Sorites-style or little-by-little argument.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      总体论证说：整体要变化，就必须全然大变（all-out change）。但全然大变是不可能的。所以整体不能变化。为什么全然大变不可能？全然大变是所有部分的变化。它之所以不可能，是因为全然大变蕴含优势变化，即大多数部分的变化。但优势变化是不可能的。优势变化发生在超过一半的部分正在变化、而少数部分静止之时。狄奥多罗斯使优势变化经受一个连锁式（Sorites）或逐步的论证。
+    step2: |-
+      总体论证是：整体若有变化，必是全然大变（all-out change）；而全然大变不可能，故整体不能变化。全然大变何以不可能？全然大变即一切部分皆变，它蕴含优势变化——多数部分之变化；而优势变化不可能。所谓优势变化，指过半部分在变、少数部分静止。狄奥多罗斯对优势变化施以一个连锁式（Sorites）即逐步的论证。
   - id: 145
     kind: body
     source: |-
       **P1.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P1.**
+    step2: |-
+      **P1.**
   - id: 146
     kind: body
     source: |-
       A body changes by predominance iff more than half its parts are changing and less than half its parts are unchanging [Premise]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个物体以优势方式变化，当且仅当超过一半的部分在变化、少于一半的部分不变 [前提]
+    step2: |-
+      一个物体按优势变化，当且仅当过半部分在变、不足半数不变 [前提]
   - id: 147
     kind: body
     source: |-
       **P2.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P2.**
+    step2: |-
+      **P2.**
   - id: 148
     kind: body
     source: |-
       Suppose there is a body, $a_1$, of 2 changing and 1 unchanging parts
-    step1: TBD
-    step2: TBD
+    step1: |-
+      假设有一个物体 $a_1$，由 2 个变化的部分与 1 个不变的部分构成
+    step2: |-
+      设有一物体 $a_1$，由 2 个变化部分与 1 个不变部分构成
   - id: 149
     kind: body
     source: |-
       **C1.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **C1.**
+    step2: |-
+      **C1.**
   - id: 150
     kind: body
     source: |-
       $a_1$ changes by predominance [From P1 and P2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $a_1$ 以优势方式变化 [据 P1 与 P2]
+    step2: |-
+      $a_1$ 按优势变化 [据 P1 与 P2]
   - id: 151
     kind: body
     source: |-
       **P3.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P3.**
+    step2: |-
+      **P3.**
   - id: 152
     kind: body
     source: |-
       For any $x$, if $x$ is a body of $n$ parts changes by predominance and one part is added to $x$, the body still changes by predominance [Premise]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对任何 $x$，若 $x$ 是一个由 $n$ 个部分构成的、以优势方式变化的物体，并且给 $x$ 增加一个部分，则该物体仍以优势方式变化 [前提]
+    step2: |-
+      对任意 $x$：若 $x$ 是由 $n$ 个部分构成、按优势变化的物体，给 $x$ 增加一个部分，则该物体仍按优势变化 [前提]
   - id: 153
     kind: body
     source: |-
       **P4.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P4.**
+    step2: |-
+      **P4.**
   - id: 154
     kind: body
     source: |-
       $a_2$ is $a_1$ with one unchanging part added [Premise]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $a_2$ 是在 $a_1$ 上增加一个不变的部分 [前提]
+    step2: |-
+      $a_2$ 即 $a_1$ 加一个不变部分 [前提]
   - id: 155
     kind: body
     source: |-
       **C2.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **C2.**
+    step2: |-
+      **C2.**
   - id: 156
     kind: body
     source: |-
       $a_2$ changes by predominance [From P4 and P5]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $a_2$ 以优势方式变化 [据 P4 与 P5]
+    step2: |-
+      $a_2$ 按优势变化 [据 P4 与 P5]
   - id: 157
     kind: body
     source: |-
       **C3.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **C3.**
+    step2: |-
+      **C3.**
   - id: 158
     kind: body
     source: |-
       A body $n$ with 2 changing and $n$ unchanging parts changes by predominance [Reiteration P4-C2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个由 2 个变化的部分与 $n$ 个不变的部分构成的物体 $n$，以优势方式变化 [重复 P4–C2]
+    step2: |-
+      由 2 个变化部分与 $n$ 个不变部分构成的物体 $n$，按优势变化 [重复 P4–C2]
   - id: 159
     kind: body
     source: |-
       But now say, $n= 9998$, we have $a9998$, a body that changes by predominance, but where far less than half of its parts change. Which contradicts P1. So predominant change is impossible. Since predominant change is necessary for all-out change, all out change is also impossible. One example Sextus gives, which may well have been Diodorus’ own, was a greying beard. Another example might be a spinning top with a two part rotating flywheel and a one part non-rotating stem. Adding parts to the stem will not stop the top rotating, but eventually it seems absurd to say that the top is rotating by predominance.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但现在设 $n= 9998$，我们得到 $a9998$——一个以优势方式变化的物体，而其部分中远少于一半在变化。这与 P1 相矛盾。所以优势变化是不可能的。既然优势变化对全然大变是必要的，全然大变也是不可能的。塞克斯都给出的一个例子，很可能就是狄奥多罗斯本人的例子，是一把变白的胡须。另一个例子可能是一个旋转的陀螺，它有一个由两部分构成的旋转飞轮与一个一部分构成的不旋转轴。给轴增加部分不会使陀螺停止旋转，但最终说陀螺“以优势方式旋转”似乎荒诞。
+    step2: |-
+      但现在设 $n = 9998$，得 $a9998$——一个按优势变化的物体，而其变化部分远不足半数。这与 P1 矛盾，故优势变化不可能。既然优势变化对全然大变必要，全然大变亦不可能。塞克斯都举的一例（很可能即狄奥多罗斯本人之例）是一把渐白的胡须；另一例或是一个旋转陀螺：其飞轮分两部分旋转，转轴一部分不旋转。给转轴增部分不会使陀螺停转，但终归说陀螺“按优势旋转”显得荒诞。
   - id: 160
     kind: body
     source: |-
       It is hard not to agree with Sedley that this is one of Diodorus’ ‘feebler efforts’ (Sedley 1977, 92)[^sedley-1977]. As Sextus points out (*M* 10, 118) the Sorites-style argument can barely start, since with the addition of one non-moving part, there are two moving and two non-moving parts and so P4 is false, and that must be because P3 is false too. What’s more, it is hard to see why predominant change precedes all-out change. One approach to this question distinguishes the transitive and intransitive senses of ‘changes’. There is a sense of ‘unchanging’ which is the opposite of the transitive ‘$a$ changes $b$’. That is, ‘$a$ is unchanging’ would mean ‘a is not changing something else (but could itself be changed). Opposite to the intransitive ‘$a$ changes’ would be ‘$a$ is not itself changing’. Diodorus could answer Sextus objection if we take the first sense of unchanging to be at stake throughout the argument. A two-part body with two parts changing something else and one not changing anything else, but open to being changed, is changing by predominance. It has, as it were, two changing parts and one ‘free rider’ not contributing to the change, but not inhibiting it either. Adding further free riders will not inhibit the change. But still, it seems absurd to say that a body composed of 9998 free riders not contributing to the change and two doing all the changing, is changing by predominance.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      很难不同意塞德利的判断：这是狄奥多罗斯“较为乏力的努力”之一（Sedley 1977, 92）[^sedley-1977]。正如塞克斯都指出（*M* 10, 118），这个连锁式论证几乎无法起步：加入一个不动的部分后，就有两个动的部分与两个不动的部分，于是 P4 为假，而这必定是因为 P3 也为假。更有甚者，很难看出优势变化为何先于全然大变。对这一问题的进路之一是区分“变化”的及物意义与不及物意义。有一种“不变”的意义是及物式“$a$ 改变 $b$”的反面。也就是说，“$a$ 是不变的”会意味着“$a$ 没有在改变别的东西（但自身可能被改变）”。与不及物式“$a$ 变化”相对的则是“$a$ 自身没有在变化”。如果我们在整个论证中取“不变”的第一种意义，狄奥多罗斯就能回答塞克斯都的反驳。一个具有两部分、其中两部分在改变别的东西、一部分不在改变任何东西但可被改变的身体，是以优势方式变化的。可以说，它有两个变化的部分与一个“搭便车者”——后者不促成变化，但也不阻碍变化。增加更多的搭便车者不会阻碍变化。但仍然，说一个由 9998 个不促成变化的搭便车者与 2 个承担全部变化者构成的物体在以优势方式变化，似乎荒诞。
+    step2: |-
+      很难不同意塞德利：这是狄奥多罗斯“较为乏力的一种努力”（Sedley 1977, 92）[^sedley-1977]。如塞克斯都所指出（*M* 10, 118），该连锁式论证几乎无法起步：加入一个不动的部分后，便有两个动的部分与两个不动的部分，于是 P4 为假——而这必因 P3 亦假。更有甚者，很难看出优势变化为何先于全然大变。对此的一种进路是区分“变化”的及物义与不及物义：“不变”有一义是及物式“$a$ 改变 $b$”的反面，即“$a$ 没有在改变别的东西（但自身可被改变）”；与不及物式“$a$ 变化”相对的则是“$a$ 自身没有在变化”。若全篇取“不变”的第一义，狄奥多罗斯便可回应塞克斯都：一个两部分在改变别的东西、一部分不在改变任何东西却可被改变的身体，正以优势方式变化——可以说它有两个变化的部分与一个“搭便车者”，后者不促成变化，也不阻碍变化；增加更多搭便车者不会阻碍变化。但仍然，说一个由 9998 个不促成变化的搭便车者与 2 个承担全部变化者所构成的物体按优势变化，显得荒诞。
   - id: 161
     kind: body
     source: |-
       This is perhaps the earliest Sorities or little-by-little argument recorded. The little-by-little strategy was deployed originally with ‘changes’, which is not usually considered a vague predicate, and which makes the argumentative strategy limited in power. But whatever the merits of this style of argument, we can see that Diodorus rejects change quite broadly, not only movement of simples, but also existential change and qualitative change, for simples and complexes. But all of his arguments target present change, and several rely on the indivisibility of the present moment.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这或许是记录下来的最早的连锁式或逐步论证。逐步策略最初是用于“变化”的，而“变化”通常不被视为一个模糊谓词，这就使该论证策略的力量有限。但无论这类论证有何优点，我们都能看到狄奥多罗斯相当宽泛地拒斥变化：不仅是单纯者的运动，还有单纯者与复合物的存在变化与性质变化。但他的一切论证都针对现在的变化，且若干依赖于现在时刻的不可分性。
+    step2: |-
+      这或许是现存最早的连锁式或逐步论证。逐步策略最初施于“变化”，而“变化”通常不算模糊谓词，故该策略的力量有限。但无论这类论证优劣如何，可见狄奥多罗斯相当宽泛地拒斥变化：不止单纯者的运动，还有单纯者与复合物的存在变化与性质变化。然而其一切论证都针对现在的变化，且有若干依赖现在时刻的不可分性。
   - id: 162
     kind: body
     source: |-
       ### 5.2 Truths about past change
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.2 关于过去变化的真理
+    step2: |-
+      ### 5.2 关于过去变化的真理
   - id: 163
     kind: body
     source: |-
       Although Diodorus argues against present change, he accepted that there are some past truths about change:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管狄奥多罗斯反对现在的变化，他接受存在一些关于过去变化的真理：
+    step2: |-
+      狄奥多罗斯虽反对现在的变化，却接受存在一些关于过去变化的真理：
   - id: 164
     kind: body
     source: |-
       > But according to reason it [sc. the body] has changed [*kekinētai*]. For that which is earlier observed in a certain place is now observed in another place; precisely what would not have come about unless it [the body] had changed (*kinēthentos*). (Döring 123 (part))
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 但按理性，它［即该物体］已经变化了［*kekinētai*］。因为先前在某个位置被观察到的东西，现在在另一个位置被观察到；而这恰恰不会发生，除非它［该物体］已经变化（*kinēthentos*）。（Döring 123（部分））
+    step2: |-
+      > 但按理性，它［即该物体］已经变化了［*kekinētai*］。因为先前在某个位置被观察到的东西，现在在另一个位置被观察到；而这恰恰不会发生，除非它［该物体］已经变化（*kinēthentos*）。（Döring 123（部分））
   - id: 165
     kind: body
     source: |-
       The argument seems valid:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      论证似乎有效：
+    step2: |-
+      该论证看似有效：
   - id: 166
     kind: body
     source: |-
       **P1.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P1.**
+    step2: |-
+      **P1.**
   - id: 167
     kind: body
     source: |-
       For a body $a$, if $(a$ has occupied some place $y)$ and $(a$ occupies some place $z)$, then $a$ has moved [Premise]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对物体 $a$，如果（$a$ 曾占据某个位置 $y$）且（$a$ 占据某个位置 $z$），那么 $a$ 已经运动 [前提]
+    step2: |-
+      对物体 $a$：若（$a$ 曾占据某位置 $y$）且（$a$ 占据某位置 $z$），则 $a$ 已运动 [前提]
   - id: 168
     kind: body
     source: |-
       **P2.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P2.**
+    step2: |-
+      **P2.**
   - id: 169
     kind: body
     source: |-
       $a$ has occupied place $y$ [Premise]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $a$ 曾占据位置 $y$ [前提]
+    step2: |-
+      $a$ 曾占据位置 $y$ [前提]
   - id: 170
     kind: body
     source: |-
       **P3.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P3.**
+    step2: |-
+      **P3.**
   - id: 171
     kind: body
     source: |-
       $a$ occupies place $z$ [Premise]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $a$ 占据位置 $z$ [前提]
+    step2: |-
+      $a$ 占据位置 $z$ [前提]
   - id: 172
     kind: body
     source: |-
       **C1.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **C1.**
+    step2: |-
+      **C1.**
   - id: 173
     kind: body
     source: |-
       So, $a$ has moved [MP on P1–P3]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以，$a$ 已经运动 [MP on P1–P3]
+    step2: |-
+      故 $a$ 已运动 [MP on P1–P3]
   - id: 174
     kind: body
     source: |-
       But Sextus thinks that something has gone wrong, since each past tense proposition entails the truth of the corresponding present tense proposition (*M*10, 91–2).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但塞克斯都认为某处出了错，因为每个过去时命题都蕴含相应现在时命题为真（*M*10, 91–2）。
+    step2: |-
+      但塞克斯都认为有处出错：每个过去时命题都蕴含相应现在时命题为真（*M*10, 91–2）。
   - id: 175
     kind: body
     source: |-
       *Sextus’ Thesis.*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *塞克斯都论题*。
+    step2: |-
+      *塞克斯都的论题*。
   - id: 176
     kind: body
     source: |-
       If it has been the case that $p$ then it is the case that $p$ at some earlier time.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果曾经是这种情况：$p$，那么在某较早时刻是这种情况：$p$。
+    step2: |-
+      若曾经是这种情况：$p$，则在某较早时刻是这种情况：$p$。
   - id: 177
     kind: body
     source: |-
       Plausible as this principle might seem, there are various counterexamples. One class of counterexamples include temporal duration in the past, such as ‘The Peloponnesian War lasted 27 years’, but there is no time at which ‘the Peloponnesian War is lasting 27 years’. Diodorus, of course, needs counterexamples that involve change in the past, and gives a class of counterexamples that involve successive relations and relational change. (H) ‘Helen had three husbands’ is a past truth but does not entail that ‘Helen has three husbands’ was at some time true. Helen had a succession of husbands, not three at the same time. That is, Helen was a serial monogamist not a polygamist. There is some present tense proposition that (H) corresponds to, namely, ‘there are three men, such that Helen married the first, then later the second, then later the third’. But this proposition is not a problem for Diodorus, since it is not a present truth about change, but rather a present proposition about what exists, namely, three men that bore a relation to Helen. This solution, of course, coheres well with Diodorus atomism and views about change. On Diodorus’ view it is true that ‘Achilles moved’, but never true that ‘Achilles is moving’. That is, Achilles bears different relations to different places at different times, but there is no time at which Achilles is moving from one to the other. But what is now true is that there are two places such that Achilles occupied each. Similarly, Helen bears different relations to different men at different times, but there is no time when she bears the relation to all three of them. All that is now true is that there are three men, such that Helen married each.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一原则看似可信，却有各种反例。一类反例包括过去的时间绵延，如“伯罗奔尼撒战争持续了 27 年”，但没有任何时刻“伯罗奔尼撒战争正在持续 27 年”。当然，狄奥多罗斯需要的是涉及过去变化的反例，他给出了一类涉及相继关系与关系性变化的倒证。(H)“海伦曾有三个丈夫”是一个过去真理，但并不断言“海伦有三个丈夫”曾在某个时刻为真。海伦是相继地有丈夫，而不是同时有三个丈夫。也就是说，海伦是序列性的一夫一妻者，而不是多夫者。有一个现在时命题是 (H) 所对应的，即“存在三个男人，海伦先嫁给第一个，后来嫁给第二个，再后来嫁给第三个”。但这个命题对狄奥多罗斯不构成问题，因为它不是一个关于变化的现在真理，而是一个关于存在何物的现在命题，即三个与海伦有某种关系的男人。这一解决办法当然与狄奥多罗斯的原子论及变化观十分契合。按狄奥多罗斯的观点，“阿基里斯运动过”为真，但“阿基里斯正在运动”从不为真。也就是说，阿基里斯在不同时刻与不同位置处于不同关系，但没有任何时刻他正在由一个位置向另一个位置运动。但现在为真者，是存在两个位置、阿基里斯曾分别占据它们。同样，海伦在不同时刻与不同男人处于不同关系，但没有任何时刻她与三个人同时处于该关系。现在为真者只是：存在三个男人，海伦曾分别嫁给每一个。
+    step2: |-
+      这一原则虽似可信，却有种种反例。一类是过去的时间绵延，如“伯罗奔尼撒战争持续了 27 年”，但没有任何时刻“伯罗奔尼撒战争正在持续 27 年”。狄奥多罗斯所需的反例当然须涉及过去的变化，于是他给出了一类涉及相继关系与关系性变化的倒证。(H)“海伦曾有三个丈夫”是过去真理，却不断言“海伦有三个丈夫”曾在某时为真——海伦是相继有夫，而非同时有三夫，即她是序列性的一夫一妻者而非多夫者。(H) 有一个对应的现在时命题：“存在三个男人，海伦先嫁第一个，后嫁第二个，再后嫁第三个。”但这命题对狄奥多罗斯不构成问题：它不是关于变化的现在真理，而是关于存在何物的现在命题——三个与海伦有某种关系的男人。此解当然与其原子论及变化观十分契合：按其观点，“阿基里斯运动过”为真，而“阿基里斯正在运动”从不为真；即阿基里斯在不同时刻与不同位置处于不同关系，却没有哪个时刻他正由一处移向另一处。现在为真者，是存在两个位置、阿基里斯曾分别占据。同样，海伦在不同时刻与不同男人处于不同关系，却没有哪个时刻她同三人俱处此关系；现在为真者只是：存在三个男人，海伦曾分别嫁之。
   - id: 178
     kind: body
     source: |-
       ## 6. Philosophy of Language
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6. 语言哲学
+    step2: |-
+      ## 6. 语言哲学
   - id: 179
     kind: body
     source: |-
       ### 6.1 Ambiguity, Meaning and Paradox
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.1 歧义、意义与悖论
+    step2: |-
+      ### 6.1 歧义、意义与悖论
   - id: 180
     kind: body
     source: |-
       Ambiguity had seemed like a threat to making epistemic progress using dialectic for Plato and the first generation of Socratics (*Phaedrus* 237b-c; Antisthenes 151 = DL 6.3; Antisthenes 160 = Epictetus *Diss*. 1.17.10–12), and for a philosopher who made dialectic a specialism, reflection on ambiguity would be crucial. The basic worry was that two agents engaged in dialectic might simply mean different things by the same term, and so would fail even to contradict one another. For example, if we are arguing over whether Socrates is virtuous, we need to know whether ‘Socrates’ refers to this historical Socrates, Plato’s Socrates or Xenophon’s Socrates. If you hold that ‘Socrates is virtuous’ and I hold that ‘Socrates is not virtuous’, unless we refer to the same individual, we have not even contradicted each other.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对柏拉图与第一代苏格拉底派而言，歧义似乎是使用论辩术取得认识进步的威胁（《斐德罗篇》237b–c；安提斯泰尼 151 = DL 6.3；安提斯泰尼 160 = 爱比克泰德《论说集》1.17.10–12）；而对一个把论辩术当作专门行当的哲学家来说，对歧义的反思至关紧要。基本的担忧是：两个从事论辩的人可能对同一个词项意指不同的事物，于是甚至无法互相矛盾。例如，如果我们争论苏格拉底是否有德，就需要知道“苏格拉底”指的是历史上的这位苏格拉底、柏拉图笔下的苏格拉底，还是色诺芬笔下的苏格拉底。如果你主张“苏格拉底有德”而我主张“苏格拉底无德”，除非我们指的是同一个人，我们甚至没有互相矛盾。
+    step2: |-
+      对柏拉图与第一代苏格拉底派而言，歧义似乎是借论辩术取得认识进步的威胁（《斐德罗篇》237b–c；安提斯泰尼 151 = DL 6.3；安提斯泰尼 160 = 爱比克泰德《论说集》1.17.10–12）；对以论辩术为专门行当的哲学家而言，反思歧义尤为紧要。基本担忧是：两个论辩者可能对同一词项意指不同之物，于是甚至无法互相矛盾。例如，若争论苏格拉底是否有德，我们便须知道“苏格拉底”指历史的苏格拉底、柏拉图笔下的苏格拉底，还是色诺芬笔下的苏格拉底。若你主张“苏格拉底有德”而我主张“苏格拉底无德”，除非我们指同一人，我们甚至并未互相矛盾。
   - id: 181
     kind: body
     source: |-
       Diodorus is sometimes attributed a ‘Humpty Dumpty’ view of language, where ‘words mean what I take them to mean’ (Nawar 2021, 610 cites Ammonius *In De Int.* 38.17–22; Simplicius *In Cat*. 27.18–21)[^nawar-2021], but the evidence suggests that Diodorus is only committed to something weaker, namely, that no term is ambiguous, that is no term has more than one meaning (cf. Aristotle’s *Categories* 1a1–15 and Atherton 1993, 153)[^atherton-1993]. ‘Kid’ can mean an immature goat or a young human. Here we get a sketch of Diodorus’ reasoning in (Döring 111). The text distinguishes three claims:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      狄奥多罗斯有时被归予一种“矮胖子”（Humpty Dumpty）式的语言观，即“词的意思就是我认为它有的意思”（Nawar 2021, 610 引阿莫尼俄斯《解释篇注》38.17–22；辛普里丘《范畴篇注》27.18–21）[^nawar-2021]，但证据只表明狄奥多罗斯承诺了某种更弱的东西，即没有词项是歧义的，也就是说没有词项具有多于一个意义（参亚里士多德《范畴篇》1a1–15 与 Atherton 1993, 153）[^atherton-1993]。“Kid”可以指一只未成年的山羊，也可以指一个年幼的人。这里我们在（Döring 111）中看到狄奥多罗斯推理的一个梗概。该文本区分了三个主张：
+    step2: |-
+      狄奥多罗斯有时被归予“矮胖子”（Humpty Dumpty）式语言观，即“词义就是我认定它有的意思”（Nawar 2021, 610 引阿莫尼俄斯《解释篇注》38.17–22；辛普里丘《范畴篇注》27.18–21）[^nawar-2021]；但证据只表明他承诺了更弱的主张：没有词项是歧义的，即没有词项具有多于一个意义（参亚里士多德《范畴篇》1a1–15、Atherton 1993, 153[^atherton-1993]）。“Kid”既可指未成年的山羊，也可指年幼的人。（Döring 111）给出了狄奥多罗斯推理的梗概，该文本区分三个主张：
   - id: 182
     kind: body
     source: |-
       **(A1)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(A1)**
+    step2: |-
+      **(A1)**
   - id: 183
     kind: body
     source: |-
       No word is ambiguous (i.e. each word has at most one meaning).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      没有词语是歧义的（即每个词至多有一个意义）。
+    step2: |-
+      没有词语是歧义的（即每词至多一义）。
   - id: 184
     kind: body
     source: |-
       **(A2)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(A2)**
+    step2: |-
+      **(A2)**
   - id: 185
     kind: body
     source: |-
       No one says or thinks anything ambiguous (i.e. each thought picks out at most one thing).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      没有人说出或想到任何歧义的东西（即每个思想至多挑出一样东西）。
+    step2: |-
+      没有人说出或想到任何歧义之物（即每个思想至多指向一物）。
   - id: 186
     kind: body
     source: |-
       **(A3)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(A3)**
+    step2: |-
+      **(A3)**
   - id: 187
     kind: body
     source: |-
       Each person says precisely what they think they say (i.e. each thought precisely expresses speaker intentions).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      每个人说出的正是他们认为自己说出的（即每个思想精确表达了说话者的意图）。
+    step2: |-
+      每人说出的正是其自认为说出的（即每个思想精确表达说话者意图）。
   - id: 188
     kind: body
     source: |-
       (A2) and (A3) are premises for (A1). It is unclear whether singular terms and singular thoughts are at stake here, or whether Diodorus had in mind whole statements. But just working through with statements and thoughts the argument seems to go like this:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (A2) 与 (A3) 是 (A1) 的前提。这里所涉的是单称词项与单称思想，还是狄奥多罗斯心里想的是整个陈述，并不清楚。但仅以陈述与思想来推演，论证似乎是这样的：
+    step2: |-
+      (A2) 与 (A3) 为 (A1) 之前提。此处所涉者是单称词项与单称思想，还是整个陈述，尚不清楚。但仅就陈述与思想推演，论证似如下：
   - id: 189
     kind: body
     source: |-
       **P1.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P1.**
+    step2: |-
+      **P1.**
   - id: 190
     kind: body
     source: |-
       Suppose that I say ‘a kid has four legs’ but intend ‘a young goat has four legs’
-    step1: TBD
-    step2: TBD
+    step1: |-
+      假设我说“一头 kid 有四条腿”，但意在“一只年幼的山羊有四条腿”
+    step2: |-
+      假设我说“一头 kid 有四条腿”，而意在“一只年幼的山羊有四条腿”
   - id: 191
     kind: body
     source: |-
       **P2.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P2.**
+    step2: |-
+      **P2.**
   - id: 192
     kind: body
     source: |-
       If ‘kid’ is ambiguous, I said two things: ‘a young human has four legs’ and ‘a young goat has four legs’ [P1 and definition of ambiguity]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果“kid”是歧义的，我就说了两件事：“一个年幼的人有四条腿”与“一只年幼的山羊有四条腿”[P1 与歧义的定义]
+    step2: |-
+      若“kid”歧义，则我说了两事：“一个年幼的人有四条腿”与“一只年幼的山羊有四条腿”[P1 与歧义定义]
   - id: 193
     kind: body
     source: |-
       **P3.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P3.**
+    step2: |-
+      **P3.**
   - id: 194
     kind: body
     source: |-
       But I said precisely what I intended, i.e. ‘a young human has four legs’ [P1 and A3]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但我说的正是我意欲说的，即“一个年幼的人有四条腿”[P1 与 A3]
+    step2: |-
+      但我说的正是我所意欲者，即“一个年幼的人有四条腿”[P1 与 A3]
   - id: 195
     kind: body
     source: |-
       **C1.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **C1.**
+    step2: |-
+      **C1.**
   - id: 196
     kind: body
     source: |-
       So, I said at most one thing i.e. ‘a young human has four legs’ [from P3, i.e. A2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以，我至多说了一件事，即“一个年幼的人有四条腿”[据 P3，即 A2]
+    step2: |-
+      故我至多说了一事，即“一个年幼的人有四条腿”[据 P3，即 A2]
   - id: 197
     kind: body
     source: |-
       **C2.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **C2.**
+    step2: |-
+      **C2.**
   - id: 198
     kind: body
     source: |-
       So, ‘kid’ is not ambiguous [MT C1, P2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以，“kid”不是歧义的 [MT C1, P2]
+    step2: |-
+      故“kid”并非歧义 [MT C1, P2]
   - id: 199
     kind: body
     source: |-
       There are a few observations to make about this argument. The first obvious question is about whether (A2) is true. Why can a thought not be ambiguous? Why, for example, can it not simply be that if I think ‘a kid has four legs’ it is indeterminate which of two thoughts I’m thinking. If thoughts can be indeterminate, then speaker intentions can be too, and so terms can be ambiguous. This sort of worry goes back at least as far as Plato’s *Theaetetus* 209b-c. The answer may have to do with the fact that to have a successful thought at all, it seems to need to be determinate, because it needs to be about one thing, rather than another. But in that case, why can I not be wrong about what I’m thinking about?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于这一论证有几点可作观察。第一个显而易见的问题是 (A2) 是否为真。为什么一个思想不能是歧义的？例如，为什么不能是这样：当我想到“一头 kid 有四条腿”时，我究竟在想两个思想中的哪一个，是不确定的。如果思想可以是不确定的，那么说话者的意图也可以是不确定的，于是词项就可以是歧义的。这类担忧至少可上溯到柏拉图《泰阿泰德篇》209b–c。答案或许与这样的事实有关：要拥有一个成功的思想，它似乎需要是确定的，因为它需要关于一样东西而非另一样东西。但在那种情况下，为什么我不能对自己所想的对象搞错呢？
+    step2: |-
+      对此论证有几点可作观察。第一个显而易见的问题是：(A2) 是否为真？一个思想何以不能歧义？例如，何以不能如此：当我想到“一头 kid 有四条腿”时，我究竟在想两个思想中的哪一个，并不确定。若思想可不确定，则说话者意图亦可不确定，词项遂可歧义。这类担忧至少可上溯至柏拉图《泰阿泰德篇》209b–c。答案或与如下事实相关：要拥有一个成功的思想，它似乎须是确定的——须关于一物而非另一物。但若是如此，我又何以不能对自己所思之对象弄错？
   - id: 200
     kind: body
     source: |-
       Another point here is that P2 claims that I said two things, not that I thought two things. This suggests a philosophy of language in which words connect to the world via propositions rather than thoughts. If some term is ambiguous, sentences that use the term express several propositions. But A3 appears to reject this picture, making the intentions of the speaker trump objective meanings.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里的另一点是：P2 声称我说了两件事，而不是我想了两件事。这提示一种语言哲学：词语通过命题而非通过思想与世界相联。如果某个词项是歧义的，使用该词项的句子就表达好几个命题。但 A3 似乎拒斥这一图景，使说话者的意图压过客观意义。
+    step2: |-
+      另一点是：P2 声称我说了两事，而非我想了两事。这提示一种语言哲学：词语经由命题而非思想与世界相联。若某词项歧义，使用该词项的句子便表达数个命题。但 A3 似拒斥此图景，令说话者意图压过客观意义。
   - id: 201
     kind: body
     source: |-
       Is (A3) true? There seem to be cases where I can say something which I do not intend. Suppose I say ‘a philosopher is the largest person in the agora’, intending to pick out Socrates. Unbeknown to me, Phaedo is also in the agora, and Phaedo, a philosopher, is taller than Socrates. Arguably, I have said a truth, about Phaedo, that I did not intend to say. One way to render this more plausible would be to say that speaker meaning is decisive in determining meaning: speaker meaning in roughly the Gricean sense that the meaning is a matter of a speaker intending to induce a psychological state in the hearer. Maybe this is what is going on with Diodorus. But there are reason to be sceptical about that. For one thing, Diodorus seems to hold that statements express thoughts, and the thoughts determine what the sentence says. And second there is no clear reason to think that Diodorus intends to produce some belief in the hearer, rather than just express something. It seems that Diodorus takes a radically internalist view of meaning. What I say does not depend at all on external factors about the world. That seems in keeping with the evidence we have about naming, which looks like it assumes speaker intentions are sufficient to fix names.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (A3) 为真吗？似乎存在我能说出我无意说出之话的情形。假设我说“哲学家是市场上最高的人”，意在图指苏格拉底。我并不知道斐多也在市场上，而身为哲学家的斐多比苏格拉底更高。可以说，我说出了一个关于斐多、而我无意说出的真理。使这一点更可信的一种方式是：说话者意义在确定意义时起决定作用——说话者意义大致取格赖斯义，即意义在于说话者意图在听者身上引起某种心理状态。或许狄奥多罗斯的情形正是如此。但有理由对此持怀疑。其一，狄奥多罗斯似乎主张陈述表达思想，而思想决定句子说了什么。其二，没有清楚的理由认为狄奥多罗斯意在听者身上产生某种信念，而不只是表达什么。看来狄奥多罗斯对意义采取了一种激进的内在论观点。我所说的话完全不依赖于关于世界的外部因素。这似乎与我们关于命名的证据相合——那些证据看来假定说话者的意图足以确定名称。
+    step2: |-
+      (A3) 为真吗？似乎存在我能说出自己无意说出之话的情形。假设我说“哲学家是市场上最高的人”，意在图指苏格拉底；而我不知斐多也在市场，身为哲学家的斐多比苏格拉底更高。可以说，我说出了一个关于斐多、而我无意说出的真理。使之更可信的一途是：令说话者意义在确定意义时居决定地位——大致取格赖斯义，即意义在于说话者意图在听者身上引起某种心理状态。或许狄奥多罗斯情形正是如此。但对此有理由怀疑：其一，他似乎主张陈述表达思想，而思想决定句子所言；其二，没有清楚理由认为他意在听者身上产生某种信念，而不只是作表达。看来他对意义持一种激进的内在论：我所说的话完全不依赖关于世界的外部因素。这与关于命名的证据似相吻合——那些证据看来假定说话者意图足以确定名称。
   - id: 202
     kind: body
     source: |-
       ### 6.2 Diodorus on naming
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.2 狄奥多罗斯论命名
+    step2: |-
+      ### 6.2 狄奥多罗斯论命名
   - id: 203
     kind: body
     source: |-
       Diodorus is sometimes thought to have a radical conventionalism about naming, where not only are all names merely conventional labels for what they name, but also speaker intentions are sufficient to fix that convention. Roughly this would be because Diodorus holds that meaning is speaker meaning and meaning wholly fixes denotation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      狄奥多罗斯有时被认为在命名上持一种激进的约定论：不仅一切名称都只是其所命名之物的约定标签，而且说话者的意图足以确定那一约定。粗略地说，这会是因为狄奥多罗斯主张意义即说话者意义，而意义完全确定所指。
+    step2: |-
+      狄奥多罗斯有时被认为在命名上持激进约定论：一切名称皆只是其所命名之物的约定标签，且说话者意图足以确定那一约定。粗略地说，这会是因为他主张意义即说话者意义，而意义完全确定所指。
   - id: 204
     kind: body
     source: |-
       Several sources report that Diodorus named his slaves after logical particles, roughly translated as ‘However’, ‘On The One Hand’ and ‘On The Other Hand’ (Döring 112–115). These were the standard terms for introducing premises in dialectical arguments. Since antiquity this has been seen as evidence of Diodorus’ radical conventionalism about naming. He also gave one of his daughters, Theognis, a masculine name (Döring 101).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若干文献报道，狄奥多罗斯以逻辑小词为其奴隶命名，大致译为“然而”“一方面”与“另一方面”（Döring 112–115）。这些是论辩论证中引入前提的标准词项。自古及今，这被视为狄奥多罗斯在命名上持激进约定论的证据。他还给自己的一个女儿忒奥格尼斯取了一个男性名字（Döring 101）。
+    step2: |-
+      若干文献报道：狄奥多罗斯以逻辑小词为其奴隶命名，大致译为“然而”“一方面”“另一方面”（Döring 112–115）——这些正是论辩论证中引入前提的标准词项。自古及今，此举被视为其命名上激进约定论的证据。他还给一个女儿忒奥格尼斯取了男性名字（Döring 101）。
   - id: 205
     kind: body
     source: |-
       Simplicius (Döring 113) and Ammonius (Döring 112) give us some information about the debate into which Diodorus inserted his examples. It seems that the question was whether some terms have a purely formal linguistic role. ‘However’ presumably was a putative example of a non-referring expression, with a purely formal role of introducing a second premise in an argument. Diodorus made ‘however’ into a referring expression (of course, this is not really a counterexample, since just because I can use a term as a referring expression it does not follow that it naturally is a referring expression). But in any case, we know that there was an ancient debate about whether the genders of nouns are natural or not, dating at least as far back as Protagoras (Aristotle *Rhetoric* 3.5. 1407b7–8 = DK A27 = LM D23; Aristotle, *Sophistical Refutations* 14, 173b17–22 = DKA28 = LM D24. Cf. Aristophanes *Clouds* 658ff. Thanks to Nicholas Denyer for drawing my attention to these sources). Diodorus’ presumably named one of his daughters Theognis in a similar way, to give a counterexample to the claim that nouns have natural genders. If, after all, we can apply a masculine name to a female person, then the gender of the noun cannot be natural. (But again, this seems not to be an on-target counterexample, since the naturalist will simply say that you have used the name *incorrectly*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      辛普里丘（Döring 113）与阿莫尼俄斯（Döring 112）为我们提供了一些关于狄奥多罗斯插入其例证的那场争论的信息。看来问题是：是否有些词项具有纯粹形式性的语言作用。“然而”大概是一个假定的非指称表达式之例，其纯粹形式作用是在论证中引入第二个前提。狄奥多罗斯使“然而”成为一个指称表达式（当然，这其实不是一个真正的反例，因为仅凭我能把一个词项用作指称表达式，并不能推出它天然地就是指称表达式）。但无论如何，我们知道古代有一场关于名词的性是否是自然的争论，至少可上溯到普罗泰戈拉（亚里士多德《修辞学》3.5. 1407b7–8 = DK A27 = LM D23；亚里士多德《辩谬篇》14, 173b17–22 = DK A28 = LM D24。参阿里斯托芬《云》658 以下。感谢 Nicholas Denyer 提示这些文献）。狄奥多罗斯大概以类似方式把一个女儿命名为忒奥格尼斯，以给出一个反驳“名词有自然性别”这一主张的反例。毕竟，如果我们能把一个男性名字用于一位女性，那么名词的性就不可能是自然的。（但同样，这似乎不是一个切题的反例，因为自然论者只需说你把这个名字用错了。）
+    step2: |-
+      辛普里丘（Döring 113）与阿莫尼俄斯（Döring 112）透露了狄奥多罗斯插入其例证的那场争论：问题似乎是——是否有些词项只有纯粹形式性的语言作用。“然而”大概是非指称表达式的一个假定例证，其纯粹形式作用是引入论证的第二个前提；而狄奥多罗斯使“然而”成为指称表达式（当然这并非真正的反例：我能把某词项用作指称表达式，推不出它天然即指称表达式）。无论如何，古代确有一场关于名词之性是否自然的争论，至少可上溯至普罗泰戈拉（亚里士多德《修辞学》3.5, 1407b7–8 = DK A27 = LM D23；亚里士多德《辩谬篇》14, 173b17–22 = DK A28 = LM D24；参阿里斯托芬《云》658 以下。感谢 Nicholas Denyer 提示这些文献）。狄奥多罗斯大约以类似方式将一个女儿命名为忒奥格尼斯，以给出反驳“名词有自然性别”的反例：毕竟，若能把男性名字用于一位女性，名词之性便不可能是自然的。（但同样，这似乎并不切题——自然论者只需说你把这个名字用错了。）
   - id: 206
     kind: body
     source: |-
       ### 6.3 Paradoxes
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.3 悖论
+    step2: |-
+      ### 6.3 悖论
   - id: 207
     kind: body
     source: |-
       Most modern scholarship credits the discovery of the Veiled Paradox and the Horns Paradox to Eubulides (based on DL 2 108). However, Diogenes does not say that Eubulides invented these paradoxes, merely that he posed them. In fact, Diodorus invented the Veiled Paradox and the Horns Paradox: “Diodorus … was thought by some to have invented the Veiled Man and Horns arguments” (DL 2 111,translation Mensch). This piece of evidence has been overlooked. But even if we credit Eubulides with the invention of these paradoxes, it seems likely that these were especially associated with Diodorus. It is puzzling why Diodorus might invent these two, which are not the most philosophically interesting, at least compared with the Liar and the Sorites. But the Veiled and Horns pose a particular threat to question-and-answer dialectic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      多数现代学术把蒙面人悖论与有角人悖论的发现归功于欧布里德（据 DL 2 108）。然而，第欧根尼并没有说欧布里德发明了这些悖论，只说他提出了它们。事实上，是狄奥多罗斯发明了蒙面人悖论与有角人悖论：“狄奥多罗斯……被某些人认为发明了蒙面人论证与有角人论证”（DL 2 111，Mensch 译）。这条证据一直被忽视。但即便我们把这两个悖论的发明归功于欧布里德，它们似乎也特别与狄奥多罗斯相关联。令人费解的是狄奥多罗斯为何要发明这两个——它们并非最有哲学趣味的，至少与说谎者悖论和连锁悖论相比。但蒙面人与有角人对问答式论辩构成了特别的威胁。
+    step2: |-
+      多数现代学术把蒙面人悖论与有角人悖论的发现归功于欧布里德（据 DL 2 108）。然而第欧根尼并未说欧布里德发明了这些悖论，只说他提出了它们。事实上发明者是狄奥多罗斯：“狄奥多罗斯……被某些人认为发明了蒙面人论证与有角人论证”（DL 2 111，Mensch 译）。这条证据一向被忽视。但即便把发明权归给欧布里德，这两个悖论似也特别与狄奥多罗斯相关。令人费解的是他为何要发明这两个——至少与说谎者悖论和连锁悖论相比，它们并非最有哲学趣味者。然而蒙面人与有角人对问答式论辩构成了特殊威胁。
   - id: 208
     kind: body
     source: |-
       You might think that each dialectical question should be answerable with at least one of ‘yes’ or ‘no’. This is comparable to the Principle of the Excluded Middle. Dialectical portions of Plato’s dialogues present Socratic dialectic this way. However, the Horns seems to show that not every question has a simple ‘yes’ or ‘no’ answer. The Horns paradox sketched at (DL VII, 187) probably went something like this. The questioner asks: ‘Have you lost your horns?’. If the answerer replies ‘yes’, that implies an absurdity, namely, that the answerer had horns. If the answerer replies ‘no’, that also implies an absurdity, namely, that the answerer has horns. But from either answer, an absurdity follows. And not just an absurdity: having horns was an insult implying cuckoldry. The question does not have a non-absurd yes-or-no response, because the question makes a false presupposition, namely, that the answerer had horns.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      你或许会认为每个论辩问题都应能至少以“是”或“否”之一来回答。这与排中律相类。柏拉图对话的论辩部分就是这样呈现苏格拉底式论辩的。然而有角人悖论似乎表明，并非每个问题都有简单的“是”或“否”答案。载于（DL VII, 187）的有角人悖论大概如下。提问者问：“你失去你的角了吗？”如果回答者答“是”，那蕴含一个荒诞，即回答者曾有过角。如果回答者答“否”，那也蕴含一个荒诞，即回答者有角。但由任一回答都会推出荒诞。而且不只是荒诞：有角是一种暗指戴绿帽的侮辱。这个问题没有非荒诞的是否回答，因为该问题作出了一个假预设，即回答者曾有过角。
+    step2: |-
+      或可认为：每个论辩问题都应能至少以“是”或“否”之一作答——这与排中律相类，柏拉图对话的论辩部分即如此呈现苏格拉底式论辩。然而有角人悖论似表明：并非每个问题都有简单的“是/否”答案。载于（DL VII, 187）的该悖论大概如下：提问者问“你失去你的角了吗？”——若答“是”，则蕴含荒诞（答者曾有角）；若答“否”，亦蕴含荒诞（答者有角）。任一回答皆推出荒诞；且不止荒诞：有角乃暗指戴绿帽的侮辱。此问题没有非荒诞的是/否回答，因为它作出了假预设——答者曾有角。
   - id: 209
     kind: body
     source: |-
       On the other hand, you might think that each dialectical question should be answerable with at most one of ‘yes’ or ‘no’. This is comparable to the Principle of Non-Contradiction. But the Veiled seems to show that some questions should be answered both ‘yes’ and ‘no’. The Veiled argument probably went like this (Lucian, *Philosophers for Sale* 22 = LS 37L). The questioner asks: ‘Do you know your own father? The answerer replies, ‘yes’. The answerer then asks, ‘Do you know this veiled person?’. The answerer replies ‘no’. ‘But’, says the questioner, ‘this person is your father. So, you both know and do not know your father’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一方面，你或许会认为每个论辩问题都应能至多以“是”或“否”之一来回答。这与矛盾律相类。但蒙面人悖论似乎表明，某些问题应当既答“是”又答“否”。蒙面人论证大概如下（琉善《拍卖哲学家》22 = LS 37L）。提问者问：“你认识你自己的父亲吗？”回答者答：“认识。”回答者接着问：“你认识这个蒙面的人吗？”回答者答“不认识。”“但是，”提问者说，“这个人就是你的父亲。所以，你既认识又不认识你的父亲。”
+    step2: |-
+      另一方面，或可认为：每个论辩问题都应能至多以“是”或“否”之一作答——这与矛盾律相类。但蒙面人悖论似表明，有些问题应既答“是”又答“否”。该论证大概如下（琉善《拍卖哲学家》22 = LS 37L）：提问者问“你认识你自己的父亲吗？”答者答“认识”；又问“你认识这个蒙面的人吗？”答者答“不认识”。“但是，”提问者说，“此人正是你的父亲。所以你既认识又不认识你的父亲。”
   - id: 210
     kind: body
     source: |-
       Diodorus’ views on ambiguity could be seen in the context of the threat these paradoxes posed to Socratic dialectic. If no term in dialectic is ambiguous because each sentence precisely expresses the speakers’ meaning, neither paradox can get a grip. The Veiled paradox trades on the fact that two different terms, ‘your father’ and ‘this veiled man’, both mean your father. But, according to Diodorus theory, each term means precisely one thing, the thing the speaker intends. So, on Diodorus’ theory ‘your father’ and ‘this veiled man’ either (a) do not mean the same thing, or (b) the answerer already intends both to refer to their father. But in either case, the paradox is blocked. Likewise, with the Horns paradox, the sentence ‘Have you lost your horns?’ trades on the sentence presupposing two different propositions: ‘You had horns’ and ‘you have lost them’. But, on Diodorus’ theory, each sentence expresses precisely one proposition. This would block questions which have false suppositions, like the Horns question.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      狄奥多罗斯关于歧义的观点，可以在这些悖论对苏格拉底式论辩所构成的威胁这一语境中来看。如果在论辩中没有词项是歧义的，因为每个句子都精确表达了说话者的意思，那么这两个悖论都无法得逞。蒙面人悖论所利用的是这样的事实：两个不同词项“你的父亲”与“这个蒙面的人”都意指你的父亲。但按狄奥多罗斯的理论，每个词项精确意指一样东西，即说话者所意图的东西。所以在狄奥多罗斯的理论中，“你的父亲”与“这个蒙面的人”或者 (a) 并不意指同一样东西，或者 (b) 回答者已经意欲二者都指其父亲。但在任一情况下，悖论都被挡住了。同样，就有角人悖论而言，句子“你失去你的角了吗？”所利用的是该句子预设了两个不同命题：“你曾有过角”与“你失去了它们”。但按狄奥多罗斯的理论，每个句子精确表达一个命题。这会挡住那些带有假预设的问题，如有角人问题。
+    step2: |-
+      狄奥多罗斯的歧义观，可在这些悖论对苏格拉底式论辩所构成的威胁这一语境中理解。若论辩中无词项歧义——因为每个句子都精确表达说话者之意——两个悖论都无从得逞。蒙面人悖论利用的是：“你的父亲”与“这个蒙面的人”两个不同词项皆意指你的父亲；但按狄奥多罗斯理论，每词项精确意指一物，即说话者所意图者。故“你的父亲”与“这个蒙面的人”或 (a) 并不意指同一物，或 (b) 答者早已意欲二者皆指其父——任一情形下悖论皆被挡住。有角人情形亦然：句子“你失去你的角了吗？”利用该句预设了两个不同命题——“你曾有过角”与“你失去了它们”；但按其理论，每句精确表达一个命题。这便挡住了带假预设的问题，如有角人问题。
   - id: 211
     kind: body
     source: |-
       ## 7. Conclusion
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7. 结论
+    step2: |-
+      ## 7. 结论
   - id: 212
     kind: body
     source: |-
       Scholars have tended to see parts of Diodorus as influential on the Hellenistic schools, especially Stoic logic and fatalism, and possibly also Epicurean atomism. Sometimes he is seen as forming a bridge from Aristotelian to post-Classical philosophy. But the tendency has been to think of Diodorus as engaged in a largely negative enterprise, dialectical in the sense that it took premises accepted by his opponents and derived conclusions unacceptable to his opponents. If his arguments were influential, it was because of their negative impact. But looking synoptically at the evidence, we can certainly see a coherent world view, supported by structured arguments. The Master Argument supports an anti-Aristotelian view of modality (although see *De Caelo* 1, 11–12 for a view of modality similar to Diodorus’), in the spirit of a Megaric suspicion of unactualized possibilities. This modal system, in turn, supports a view about fate and even a certain atomism. That atomism, in turn, supports a view about present change being impossible, but past change being possible. Diodorus’ reflections on meaning and naming support a defence of the possibility of dialectic for getting to truths. Thus scholars are right to think of Diodorus as a dialectician not for familiar reasons that he was interested in logic, or practiced philosophy through discussion and argued from the assumptions of his opponents, but because he espoused a set of substantive views associated with the Dialectical School.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      学者们倾向于认为狄奥多罗斯思想的各部分影响了希腊化诸学派，尤其是斯多亚逻辑与宿命论，或许还有伊壁鸠鲁的原子论。有时他被看作从亚里士多德哲学通向后古典哲学的桥梁。但一种倾向是把狄奥多罗斯视为从事一项大体上否定性的事业——其论辩是这种意义上的：它采取对手所接受的前提，推出对手无法接受的结论。如果他的论证有影响，那是因为其否定性的冲击。但综观证据，我们确实能看到一个自洽的世界观，由有结构的论证所支撑。主论证支撑一种反亚里士多德的模态观（尽管参《论天》1, 11–12 中一种与狄奥多罗斯相似的模态观），其精神是麦加拉派对未被现实化可能性的怀疑。这一模态系统反过来支撑一种关于命运乃至某种原子论的观点。那种原子论反过来支撑一种观点：现在的变化不可能，而过去的变化可能。狄奥多罗斯关于意义与命名的反思支撑了对“论辩术能够通向真理”这一可能性的辩护。因此，学者们把狄奥多罗斯视为辩证家是对的——不是出于那些熟悉的理由（他对逻辑有兴趣、以讨论方式实践哲学、从对手的假定出发论证），而是因为他信奉一整套与辩证学派相关联的实质观点。
+    step2: |-
+      学者们倾向于认为狄奥多罗斯思想的各部分影响了希腊化诸学派——尤其是斯多亚逻辑与宿命论，或许还有伊壁鸠鲁原子论；有时他被视为从亚里士多德哲学通往古典晚期哲学的桥梁。但一种倾向是把他看作从事一项大体否定性的事业：其论辩之辩证性在于采取对手所接受的前提，推出对手无法接受的结论；其论证若有影响，也因否定性的冲击。然而综观证据，我们确实可见一个自洽的世界观，由有结构的论证支撑：主论证支撑一种反亚里士多德的模态观（尽管参《论天》1, 11–12 中一种与狄奥多罗斯相似的模态观），其精神是麦加拉派对未现实化可能性的怀疑；这一模态系统反过来支撑关于命运乃至某种原子论的观点；那种原子论反过来支撑“现在变化不可能、过去变化可能”的观点；而他对意义与命名的反思，则支撑对“论辩术能通向真理”这一可能性的辩护。故学者们视其为辩证家是对的——不是出于那些熟悉的理由（对逻辑有兴趣、以讨论实践哲学、从对手假定出发论证），而是因为他信奉一整套与辩证学派相关联的实质观点。
   - id: 213
     kind: oir
     source: |-
       - Corazzon, Raul, (n.d), *History of Logic*, [Selected Bibliography on Diodorus Cronus’ Master Argument](https://www.historyoflogic.com/biblio/master-argument-biblio.htm).
       - Denyer, Nicholas, 1998, “[The master argument. Diodorus Cronus (late 4th–early 3rd centuries BC)](https://www.rep.routledge.com/articles/biographical/diodorus-cronus-late-4th-early-3rd-centuries-bc/v-1/sections/the-master-argument/)”, *Routledge Encyclopedia of Philosophy*, Taylor and Francis.
       - Sedley, David, “Diodorus Cronus”, *Stanford Encyclopedia of Philosophy* (Spring 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <[https://plato.stanford.edu/archives/spr2024/entries/diodorus-cronus/](https://plato.stanford.edu/archives/spr2024/entries/diodorus-cronus/)>. [This was the previous entry on this topic in the *Stanford Encyclopedia of Philosophy* – see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=diodorus-cronus).]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - Corazzon, Raul，（无出版年），《逻辑史》，[狄奥多罗斯·克罗诺斯主论证选目](https://www.historyoflogic.com/biblio/master-argument-biblio.htm)。
+      - Denyer, Nicholas, 1998, “[主论证。狄奥多罗斯·克罗诺斯（公元前 4 世纪晚期–前 3 世纪早期）](https://www.rep.routledge.com/articles/biographical/diodorus-cronus-late-4th-early-3rd-centuries-bc/v-1/sections/the-master-argument/)”，《劳特里奇哲学百科全书》，Taylor and Francis。
+      - Sedley, David，“Diodorus Cronus”，《斯坦福哲学百科全书》（2024 年春季版），Edward N. Zalta 与 Uri Nodelman 编，URL = <[https://plato.stanford.edu/archives/spr2024/entries/diodorus-cronus/](https://plato.stanford.edu/archives/spr2024/entries/diodorus-cronus/)>。[这是《斯坦福哲学百科全书》中该主题的上一版词条——见[版本史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=diodorus-cronus)。]
+    step2: |-
+      - Corazzon, Raul，（无出版年），《逻辑史》，[狄奥多罗斯·克罗诺斯主论证选目](https://www.historyoflogic.com/biblio/master-argument-biblio.htm)。
+      - Denyer, Nicholas, 1998, “[主论证。狄奥多罗斯·克罗诺斯（公元前 4 世纪晚期–前 3 世纪早期）](https://www.rep.routledge.com/articles/biographical/diodorus-cronus-late-4th-early-3rd-centuries-bc/v-1/sections/the-master-argument/)”，《劳特里奇哲学百科全书》，Taylor and Francis。
+      - Sedley, David，“Diodorus Cronus”，《斯坦福哲学百科全书》（2024 年春季版），Edward N. Zalta 与 Uri Nodelman 编，URL = <[https://plato.stanford.edu/archives/spr2024/entries/diodorus-cronus/](https://plato.stanford.edu/archives/spr2024/entries/diodorus-cronus/)>。[这是《斯坦福哲学百科全书》中该主题的上一版词条——见[版本史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=diodorus-cronus)。]
   - id: 214
     kind: ack
     source: |-
       Thanks to Nicolas Denyer and Caterina Pello for comments on earlier drafts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      感谢 Nicolas Denyer 与 Caterina Pello 对早期草稿的评论。
+    step2: |-
+      感谢 Nicolas Denyer 与 Caterina Pello 对早期草稿的评阅意见。

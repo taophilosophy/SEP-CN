@@ -2,7 +2,7 @@
   "slug": "diodorus-cronus",
   "kind": "retranslate",
   "zh_doc": "d/diodorus-cronus.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-07T03:50:53Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "D-main-20261107",
+      "at": "2026-11-07T10:03:04Z",
+      "evidence": "lq 账本流水线：214 段（body 212+oir 1+ack 1，biblio 37 照录）双版落盘；公式段（MA/D/D1/D2、M0、P/C 论证链、模态算子式）一律照录 $…$ 原样，守恒门经 5 轮 token 计数修正后通过（段43/49/76/87/128）；compose 组装 29964 字符"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "D-main-20261107",
+      "at": "2026-11-07T10:03:05Z",
+      "evidence": "对照核销：五维全等（正文 marker 44:44、defs 34:34、粗体缩写键 0:0、节数 25:25、段落 214:214）+ References 节名汉化 + 相关词条 4 项修正（Cratylus→柏拉图的《克拉底鲁篇》、Epicureanism→伊壁鸠鲁主义、Megaric School→麦加拉学派、Zeno of Citium→基提翁的塞诺）+ 既有登记译名统一（涅尔/特奥弗拉斯托斯/堆垛式）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "D-main-20261107",
+      "at": "2026-11-07T10:05:42Z",
+      "evidence": "四检：check_style --strict 0 违例（含 5 处 CJK 斜体转加粗）；check_academic --strict OK；check_math missing/unbalanced 0；check_prose 22→实修 26 处（de-chain 10/长句 8 拆句/weak-verb 3/passive 1），余 1=塞克斯都引文块内双重被动按 ADR-0020 豁免留痕"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "D-main-20261107",
+      "at": "2026-11-07T10:05:45Z",
+      "evidence": "登记与门禁：术语册 8 行（模态坍塌/优势论证/时间原子论/单纯者/狄奥多罗斯式可能性/麦加拉问题/论辩问题/全然大变）+ 人名册 10 行（阿波罗尼俄斯·克罗诺斯、卡利马科斯、托勒密一世·救主、阿伽通、安提斯泰尼、色诺芬、斐多（埃利斯的）、阿里斯托芬、阿基里斯、海伦）；Phaedo 与词汇表作品义冲突以键限定消解；check_terms 硬错误 0；check_all 七项全绿"
     }
   ],
   "blockers": [],

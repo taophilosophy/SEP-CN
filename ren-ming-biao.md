@@ -13,9 +13,14 @@
 | Abraham ibn Ezra | Abraham ibn Ezra | 亚伯拉罕·伊本·以斯拉（亦作“伊本·以斯拉”） | 语料回收（全目录） | 学界惯例（犹太哲学译名）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Abravanel, Isaac | — | 以撒·阿布拉瓦内尔 | albo-joseph | 犹太哲学史通行（与 Judah Abrabanel 犹大·莱昂·阿布拉瓦内尔为父子，两键分立） | 2026-11-07 |
 | Abuʼl-Khayr, Abū Saʿīd | — | 阿布·赛义德·阿布·海尔 | arabic-islamic-mysticism | 苏非史通行音译 | 2026-11-07 |
+| Achilles | — | 阿基里斯 | diodorus-cronus | 学界千年通行汉译（荷马史诗人物，此处为变化的例证载体）；凭证 2026-11-07 | 2026-11-07 |
 | Addams, Jane | — | 简·亚当斯 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Adolf Reinach | — | 阿道夫·莱纳赫 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Agathon | — | 阿伽通 | diodorus-cronus | 学界通行汉译（古希腊悲剧诗人，亚里士多德《尼各马可伦理学》1139b10 所引）；凭证 2026-11-07 | 2026-11-07 |
 | Ammonius Saccas | — | 阿摩尼乌斯·萨卡斯 | neoplatonism | 学界通行汉译（3 世纪亚历山大里亚哲学家，普罗提诺之师）；与赫尔米亚的阿莫尼俄斯（Ammonius Hermeiou）异人 | 2026-11-07 |
+| Antisthenes | — | 安提斯泰尼 | diodorus-cronus | 学界通行汉译（苏格拉底派哲学家，犬儒派先驱）；凭证 2026-11-07 | 2026-11-07 |
+| Apollonius Cronus | — | 阿波罗尼俄斯·克罗诺斯 | diodorus-cronus | 学界通行汉译（昔兰尼人，狄奥多罗斯之师，“克罗诺斯”绰号所自出）；凭证 2026-11-07 | 2026-11-07 |
+| Aristophanes | — | 阿里斯托芬 | diodorus-cronus | 学界千年通行汉译（古希腊喜剧作家，《云》658 以下论名词性别）；凭证 2026-11-07 | 2026-11-07 |
 | Aëtius | — | 埃提乌斯 | 首现（xenophanes） | 学界通行汉译（古希腊学说汇编者）；凭证 2026-11-07 | 2026-11-07 |
 | Alain LeRoy Locke | — | 阿兰·勒罗伊·洛克 | alexander-crummell | 学界通行汉译（SUMMARY 定名沿用，alain-locke 词条既名） | 2026-11-07 |
 | Alain Locke | — | 阿兰·勒罗伊·洛克（亦作 阿兰·洛克） | 语料回收（全目录）；alain-locke/alexander-crummell | 学界通行汉译；SUMMARY 定名优先（2026-11-07 校正，与 Alain LeRoy Locke 行归一） | 2026-10-31 |
@@ -87,6 +92,7 @@
 | Buddha | — | 佛陀 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Buridan, John [Jean] | — | 让·布里丹（正文简作“布里丹”） | duhem | SUMMARY 定名沿用（学界通行汉译；SUMMARY b/buridan 行）；凭证 2026-11-06 | 2026-11-06 |
 | Bājjah, Ibn | — | 伊本·巴哲 | arabic-islamic-mysticism | 阿拉伯哲学通行汉译（拉丁名 Avempace） | 2026-11-07 |
+| Callimachus | — | 卡利马科斯 | diodorus-cronus | 学界通行汉译（亚历山大里亚诗人，警句诗涉狄奥多罗斯）；凭证 2026-11-07 | 2026-11-07 |
 | Campanella, Tommaso | — | 托马索·康帕内拉 | bloch | 学界通行汉译（《太阳城》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Carl Schmitt | — | 卡尔·施米特 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Cantor, Georg | — | 康托尔 | 语料回收（mathematics-inconsistent 首译） | 数学界千年通行汉译（集合论创始人）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
@@ -224,6 +230,7 @@
 | Heaviside, Oliver | — | 赫维赛德 | duhem | 学界惯例（物理学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Hebel, Johann Peter | — | 约翰·彼得·赫贝尔 | bloch | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Hegel | — | 黑格尔 | 首现（truth-coherence） | 学界千年通行汉译（德国观念论）；凭证 2026-11-07 | 2026-11-07 |
+| Helen of Troy | — | 海伦 | diodorus-cronus | 学界千年通行汉译（史诗人物；“海伦曾有三个丈夫”为过去时命题反例）；与 Helene 行异人；凭证 2026-11-07 | 2026-11-07 |
 | Helm, Georg | — | 黑尔姆 | duhem | 全名汉译『格奥尔格·黑尔姆』，正文简名首现括注；学界惯例（能量主义者通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Hempel, Carl G. | — | 卡尔·G. 亨佩尔 | biology-philosophy | 学界通行汉译（《自然科学哲学》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Hennig, Willi | — | 威利·亨尼希 | biology-philosophy | 学界通行汉译（系统学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -347,6 +354,7 @@
 | Parreut, John | 约翰·帕勒特 | 语料回收（marsilius-inghen 首译） | 学界通行汉译（唯名论者，马西利乌斯后学）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Pashukanis, Evgeny | — | 叶夫根尼·帕舒卡尼斯 | bloch | 学界通行汉译（苏联法学家）；凭证 2026-11-07 | 2026-11-07 |
 | Peter Lombard | — | 彼得·伦巴德 | 首现（william-sherwood） | 学界通行汉译（《箴言四书》作者）；凭证 2026-11-07 | 2026-11-07 |
+| Phaedo of Elis | — | 斐多（埃利斯的） | diodorus-cronus | 学界通行汉译（苏格拉底弟子，柏拉图《斐多篇》题名人物；与词汇表 “Phaedo＝《斐多篇》” 之作品义分立）；凭证 2026-11-07 | 2026-11-07 |
 | Philo (follower of Pyrrho) | — | 菲洛 | 首现（timon-phlius） | 学界通行汉译（皮浪追随者；与亚历山大的斐洛异人）；凭证 2026-11-07 | 2026-11-07 |
 | Philo the Logician | Philo of Megara | 麦加拉的菲洛（亦称“逻辑学家菲洛”） | dialectical-school | 学界通行汉译（狄奥多罗斯门生；与皮浪追随者菲洛、亚历山里亚的斐洛异人）；凭证 2026-11-07 | 2026-11-07 |
 | Philoponus, John | — | 菲洛波努斯（亦作“菲洛波诺斯”） | duhem；democritus | 学界惯例（古典晚期哲学家通行汉译；democritus 行同键异译并入亦作，2026-11-06 冲突消解）；凭证 2026-11-06 | 2026-11-06 |
@@ -354,6 +362,7 @@
 | Picard, Emile | — | 埃米尔·皮卡尔 | duhem | 学界惯例（数学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Pius VII | — | 庇护七世 | antonio-rosmini | 教宗通行汉译 | 2026-11-07 |
 | Prior, Arthur | — | 阿瑟·普赖尔 | dialectical-school | SUMMARY 定名沿用（逻辑学家，主论证重构者）；凭证 2026-11-07 | 2026-11-07 |
+| Ptolemy I Soter | Ptolemy Soter | 托勒密一世·救主 | diodorus-cronus | 学界通行汉译（埃及托勒密王朝创立者，招致希腊知识分子至亚历山大里亚）；凭证 2026-11-07 | 2026-11-07 |
 | Putnam, Hilary | — | 普特南 | 首现（truth-coherence） | 学界通行汉译（分析哲学；真理与实在论）；凭证 2026-11-07 | 2026-11-07 |
 | Pyrrho | — | 皮浪 | 首现（timon-phlius） | 学界通行汉译（伊利斯人，古希腊怀疑论开创者）；SUMMARY 定名；凭证 2026-11-07 | 2026-11-07 |
 | Qian Daxin | — | 钱大昕 | dai-zhen | 上游自带汉字；学界通行（乾嘉考据名家）；凭证 2026-11-07 | 2026-11-07 |
@@ -654,6 +663,7 @@
 | Wilson Jeremiah Moses | — | 威尔逊·杰里迈亚·摩西 | alexander-crummell | 现代学者（传记作者），音译 | 2026-11-07 |
 | Wilson, Edward O. | — | E. O. 威尔逊 | biology-philosophy | 学界通行汉译（《社会生物学》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Woodger, J. H. | — | J. H. Woodger（现代学者，保留英文） | biology-philosophy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Xenophon | — | 色诺芬 | diodorus-cronus | 学界千年通行汉译（苏格拉底学生，著《回忆苏格拉底》）；凭证 2026-11-07 | 2026-11-07 |
 | Yan Hui | — | 颜回 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Yang Zhu | — | 杨朱 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Yu Yingshih | Yü Ying-shih | 余英时 | dai-zhen | 上游自带汉字；学界通行（汉学家，清代学术史论著者）；凭证 2026-11-07 | 2026-11-07 |
@@ -1608,3 +1618,33 @@
 | Vickris, Richard | — | 理查德·维克里斯 | john-norris | 贵格会信徒；音译 | 2026-11-07 |
 | Johnston, Charlotte | — | 夏洛特·约翰斯顿 | john-norris | 洛克研究者；音译 | 2026-11-07 |
 | Thomas, Elizabeth | — | 伊丽莎白·托马斯 | john-norris | 笔名 Corinna“科琳娜”；音译 | 2026-11-07 |
+| Tocqueville, Alexis de | — | 托克维尔 | colonialism | 学界通行汉译（《旧制度与大革命》等中译本署名）；凭证 2026-11-07 | 2026-11-07 |
+| Fanon, Frantz | — | 弗朗茨·法农 | colonialism | 学界通行汉译（《全世界受苦的人》中译本署名）；凭证 2026-11-07 | 2026-11-07 |
+| Said, Edward | — | 爱德华·萨义德 | colonialism | 学界通行汉译（《东方学》三联中译本署名）；凭证 2026-11-07 | 2026-11-07 |
+| Spivak, Gayatri Chakravorty | — | 佳亚特里·斯皮瓦克 | colonialism | 学界通行汉译（中译文献通译）；凭证 2026-11-07 | 2026-11-07 |
+| Wallerstein, Immanuel | — | 伊曼纽尔·沃勒斯坦 | colonialism | 学界通行汉译（《现代世界体系》中译本署名）；凭证 2026-11-07 | 2026-11-07 |
+| Las Casas, Bartolomé de | — | 巴托洛梅·德·拉斯·卡萨斯 | colonialism | 学界通行汉译（《西印度毁灭述略》署名）；凭证 2026-11-07 | 2026-11-07 |
+| Victoria, Franciscus de | — | 弗朗西斯科·德·维多利亚 | colonialism | 学界通行汉译（萨拉曼卡学派；与 Azarenka, Victoria 异人）；凭证 2026-11-07 | 2026-11-07 |
+| Ferguson, Adam | — | 亚当·弗格森 | colonialism | 学界通行汉译（《文明社会史论》中译本署名；与 Ferguson, Sally 异人）；凭证 2026-11-07 | 2026-11-07 |
+| Innocent IV | — | 英诺森四世 | colonialism | 学界惯例（教宗通译，与 Innocent X『英诺森十世』同系）；凭证 2026-11-07 | 2026-11-07 |
+| Coulthard, Glen | — | 格伦·库尔特哈德 | colonialism | 学界中译文献通译（《红皮肤，白面具》引介文献）；凭证 2026-11-07 | 2026-11-07 |
+| Lenin | — | 列宁 | colonialism | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| Turner, Dale | — | 戴尔·特纳 | colonialism | 正文首现通译姓氏；中译文献常见；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
+| Tuck, Eve | — | 伊芙·塔克 | colonialism | 正文首现通译姓氏；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
+| Yang, Wayne | — | 韦恩·杨 | colonialism | 正文首现通译姓氏；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
+| Simpson, Leanne Betasamosake | — | 丽安·贝塔萨莫萨克·辛普森 | colonialism | 正文首现音译；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
+| Kuokkanen, Rauna | — | 劳娜·库奥卡宁 | colonialism | 正文首现音译；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
+| Lightfoot, Sheryl | — | 谢丽尔·莱特富特 | colonialism | 正文首现音译；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
+| Chibber, Vivek | — | 维韦克·奇贝尔 | colonialism | 学界通行（《后殖民理论与资本的幽灵》中译本署名）；凭证 2026-11-07 | 2026-11-07 |
+| Chakrabarty, Dipesh | — | 迪佩什·查卡拉巴提 | colonialism | 学界通行（《将欧洲地方化》引介文献通译）；凭证 2026-11-07 | 2026-11-07 |
+| Ahmad, Aijaz | — | 艾贾兹·阿赫默德 | colonialism | 学界中译文献通译；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
+| Césaire, Aimé | — | 艾梅·塞泽尔 | colonialism | 学界通行汉译（《话语殖民》引介文献）；凭证 2026-11-07 | 2026-11-07 |
+| Mehta, Uday | — | 乌代·梅塔 | colonialism | 正文首现音译；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
+| Borrows, John | — | 约翰·博罗斯 | colonialism | 正文首现音译；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
+| Tully, James | — | 詹姆斯·塔利 | colonialism | 学界通行汉译（《陌生的多样性》中译本署名）；凭证 2026-11-07 | 2026-11-07 |
+| Wolfe, Patrick | — | 帕特里克·沃尔夫 | colonialism | 学界中译文献通译（settler colonialism 结构论者）；凭证 2026-11-07 | 2026-11-07 |
+| O’Neill, Daniel | — | 丹尼尔·奥尼尔 | colonialism | 正文首现音译；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
+| Williams, Eric | — | 埃里克·威廉斯 | colonialism | 学界通行（《资本主义与奴隶制》引介文献；与 Williams, Robert 异人）；凭证 2026-11-07 | 2026-11-07 |
+| James, C.L.R. | — | C.L.R. 詹姆斯 | colonialism | 学界惯例（《黑色雅各宾派》引介文献通译形）；凭证 2026-11-07 | 2026-11-07 |
+| King, Hayden | — | 海登·金 | colonialism | 正文首现音译；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
+| Ash, Michael | — | 迈克尔·阿什 | colonialism | 正文首现音译；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
