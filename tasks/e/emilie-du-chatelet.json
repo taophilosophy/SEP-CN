@@ -2,7 +2,7 @@
   "slug": "emilie-du-chatelet",
   "kind": "retranslate",
   "zh_doc": "e/emilie-du-chatelet.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "?",
       "at": "2026-11-04T16:05:19Z",
       "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 70 豁免留痕见 s2；人名 21 条登记（夏特莱侯爵夫人 SUMMARY 定名沿用/沃尔夫/莫佩尔蒂/梅朗/柯尼希/弗赖因德/凯尔等）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:47:24Z",
+      "evidence": "r1 结构核销：11/14 节——缺 2 个参考文献子标题（Primary/Secondary Sources）与 1 个源端空标题 Notes（原文脚注），前者归入转换器债（qa-findings §6）、后者核为无须镜像；109 个脚注键全等、无重复定义、年份集合无缺无多；《物理学奠基》《光学论稿》等书名与法文原题逐项核对"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:47:24Z",
+      "evidence": "r2 句级复读：check_prose 70→67；实修 3 处 70/71/74 字长句；余项为'的'启发式误报与法文书名、术语叠加，逐条读核无病句，按 ADR-0020 豁免"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:47:26Z",
+      "evidence": "r3 终检：check_style 0 issue、check_academic --strict OK；结构 109/109 键；转换器债已登记"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:47:27Z",
+      "evidence": "终稿验收：六道全过；豁免有读核记录"
     }
   ],
   "blockers": [],

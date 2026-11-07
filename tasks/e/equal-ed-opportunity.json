@@ -2,7 +2,7 @@
   "slug": "equal-ed-opportunity",
   "kind": "retranslate",
   "zh_doc": "e/equal-ed-opportunity.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "main",
       "at": "2026-11-01T15:46:34Z",
       "evidence": "组装校验三：check_academic --strict 0 硬错误；check_style 仅 bibliography 照录豁免（ADR-0011）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:47:21Z",
+      "evidence": "r1 段级核销：26 节一一对应、91 个脚注键全等、无重复定义、年份集合无缺无多；Gutmann/Anderson/Arneson 等引用组与书目条目逐条在位；本条账本 79/103 段属半截产物，已登记不可再 compose（qa-findings §6）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:47:22Z",
+      "evidence": "r2 句级复读：check_prose 64→62；实修 3 处 77/72/85 字长句（拆分或改冒号/破折号结构）；余项为短句内术语修饰链的'的'启发式误报，逐条读核无病句，按 ADR-0020 豁免"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:47:24Z",
+      "evidence": "r3 终检：check_style 0 issue、check_academic --strict OK；结构 26/26 节、91/91 键"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:47:24Z",
+      "evidence": "终稿验收：六道全过；误报类豁免有读核记录"
     }
   ],
   "blockers": [],
