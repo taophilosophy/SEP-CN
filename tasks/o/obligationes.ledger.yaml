@@ -1,0 +1,753 @@
+version: 1
+slug: obligationes
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      In discussion, one is normally expected to stick to the truth, at least as far as one knows it, but one is also expected to avoid denying what one has already accepted. These two expectancies can be understood as general prima facie duties or obligations for a person in a dialectical encounter: duties of honesty and coherence. The medieval theories of *Obligationes*, or “obligations” were a genre of logic that was concerned especially with the latter. These theories tried to explicate what is logically required for a coherent defense of one’s position. The basic setting in which this duty of coherence was studied, was to imagine or undertake disputations where explicit deviation from truth was allowed through some specific additional obligation laid down at the beginning. The simplest such additional obligation was to require the acceptance of some obviously false sentence that had to be defended in the disputation so that the respondent avoids denying it while allowing the force of logical inferences to constrain the answers. In the treatises, rules were laid out showing from a logical point of view how the defense ought to proceed in order to avoid denying what one has accepted.
+    step1: |-
+      讨论中，人们通常被期望坚守真理——至少就其所知而言——同时也被期望不否认自己已经接受的东西。这两种期望可以理解为对话辩难中一个人的普遍初显义务：诚实义务与融贯义务。中世纪的*Obligationes*（“义务”）理论是一门逻辑学分支，尤其关心后者。这些理论试图阐明：为融贯地辩护自己的立场，在逻辑上要求什么。研究这一融贯义务的基本情境，是想像或实际进行一场论辩：论辩开始时，通过某种特殊的附加义务，明确允许偏离真理。最简单的附加义务，是要求接受某个显然为假的句子，并须在论辩中为之辩护，使应答者不否认它，同时让逻辑推论的力量约束其回答。诸论著列出规则，从逻辑角度说明：为免否认已接受者，辩护应如何进行。
+    step2: |-
+      讨论中，人们通常须坚守真理——至少就其所知而言——同时也不否认自己已接受的东西。这两种期望可理解为对话辩难中一个人的普遍初显义务：诚实与融贯。中世纪的*Obligationes*（“义务”）理论是逻辑学的一门分支，尤其关心后者，试图阐明：为融贯地辩护自己的立场，逻辑上要求什么。研究这一融贯义务的基本情境，是想像或实际举行一场论辩：论辩开始时，借某种特殊的附加义务，明确允许偏离真理。最简单的附加义务，是要求接受某个显然为假的句子并须在论辩中为之辩护，使应答者不否认它，同时让逻辑推论的力量约束其回答。诸论著列出规则，从逻辑角度说明：为免否认已接受者，辩护应如何进行。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. *Obligationes* as a branch of logic
+    step1: |-
+      ## 1. *Obligationes* 作为逻辑学的一个分支
+    step2: |-
+      ## 1 *Obligationes* 作为逻辑学的一个分支
+  - id: 3
+    kind: body
+    source: |-
+      As a branch of logic, obligations came to flourish with European medieval logic from the thirteenth century onwards, and they slowly vanished when logic as a discipline, a.k.a. ‘scholastic logic’ retreated in the early modern times. During the peak period in the fourteenth century, many or perhaps even most European logicians wrote a dedicated text on obligations (*de obligationibus*). These texts were either stand-alone treatises or sections in overall presentations of logic. Of the former kind, treatises by Walter Burley (“Treatise on Obligations”, written c. 1302; Latin text in Green [1963], English translation in Kretzmann and Stump [1988]), Roger Swyneshed (written 1330–35; Spade [1977]) and Robert Eland[^note-1] (written 1335–1370; Spade [1980]) have been particularly important in shaping the modern understanding of the topic. Of the latter kind, for example William Ockham’s *Summa logicae* (written c. 1323; Boehner, Gál, & Brown [1974]) and Paul of Venice’s *Logica magna* (written 1397–98; Ashworth [1988]) can be mentioned as outstanding examples.
+    step1: |-
+      作为逻辑学的一个分支，义务论辩随 13 世纪以来的欧洲中世纪逻辑而兴盛；到近代早期，随着作为一门学科的“经院逻辑”退潮，它也慢慢消失。在 14 世纪的鼎盛期，许多——或许大多数——欧洲逻辑学家都写过专论义务的著作（*de obligationibus*）。这些文本或是独立论著，或是逻辑通论中的章节。前一类中，瓦尔特·伯利（《义务论》，约 1302 年；拉丁文本见 Green [1963]，英译见 Kretzmann and Stump [1988]）、罗杰·斯温舍德（1330–35 年；Spade [1977]）与罗伯特·埃兰[^note-1]（1335–1370 年；Spade [1980]）的论著，对塑造本主题的现代理解尤为重要。后一类可举威廉·奥卡姆的《逻辑大全》（约 1323 年；Boehner, Gál, & Brown [1974]）与威尼斯的保罗的《大逻辑》（1397–98 年；Ashworth [1988]）为杰出例子。
+    step2: |-
+      作为逻辑学的一个分支，义务论辩随 13 世纪以来的欧洲中世纪逻辑而兴盛；到近代早期，随着作为学科的“经院逻辑”退潮，它也慢慢消失。在 14 世纪鼎盛期，许多——或许大多数——欧洲逻辑学家都写过专论义务的著作（*de obligationibus*）：或是独立论著，或是逻辑通论中的章节。前一类中，瓦尔特·伯利的《义务论》（约 1302 年；拉丁文本见 Green [1963]，英译见 Kretzmann and Stump [1988]）、罗杰·斯温舍德的论著（1330–35 年；Spade [1977]）与罗伯特·埃兰[^note-1]的论著（1335–1370 年；Spade [1980]），对塑造本主题的现代理解尤为重要。后一类可举威廉·奥卡姆的《逻辑大全》（约 1323 年；Boehner, Gál, & Brown [1974]）与威尼斯的保罗的《大逻辑》（1397–98 年；Ashworth [1988]）。
+  - id: 4
+    kind: body
+    source: |-
+      The technique of obligations assumes a dialectical setting or even something like a game between two persons. This setting is usually very succinctly described in the texts themselves. In a nutshell, what happens in an obligational disputation is that one person, the opponent, is putting forward propositions (*propositiones*)[^note-2] and another person, the respondent, is expected to give direct evaluations of these propositions as they come. There are two main answers, granting the proposition or denying it. Only rarely, the texts allow other answers like doubting the proposition (see e.g., Uckelman, Maat and Rybalko 2018). The sequence of propositions put forward and answered is taken to be a temporal sequence, but most authors thought that the truth values of the propositions are not to be taken to change during the disputation.
+    step1: |-
+      义务论辩的技术假定一种对话情境，甚至像是两人之间的游戏。这一情境在文本中通常描述得极为简略。简言之，义务论辩中，一个人（提问者）提出命题（*propositiones*）[^note-2]，另一个人（应答者）则须对这些命题随即作出直接评价。主要答案有两种：承认该命题，或否认它。只有在很少见的情况下，文本允许其他答案，如对命题表示怀疑（例如见 Uckelman, Maat and Rybalko 2018）。提出与回答的命题序列被视为时间序列，但多数作者认为，命题的真值在论辩过程中不应被认为发生变化。
+    step2: |-
+      义务论辩的技术假定一种对话情境，甚至像两人之间的游戏，而文本对情境的描述通常极为简略。简言之，义务论辩中，一人（提问者）提出命题（*propositiones*）[^note-2]，另一人（应答者）须随即对其作直接评价。答案主要有两种：承认或否认。只有在极少数情况下，文本才允许其他答案，如对命题存疑（如见 Uckelman, Maat and Rybalko 2018）。提出与回答的命题序列被视为时间序列，但多数作者认为，命题的真值在论辩过程中不应改变。
+  - id: 5
+    kind: body
+    source: |-
+      The sequence of propositions evaluated this way is launched by the opponent giving the respondent a specified obligation, in the paradigm case that of granting an obviously false proposition. This specified obligation must be respected throughout the sequence, regardless of how complex the sequence gets. The underlying idea is that although the specified obligation relieves the respondent from always following truth in the evaluations, the requirement of some kind of logical coherence is not suspended.
+    step1: |-
+      被这样评价的命题序列，由提问者向应答者给出某项特定义务而启动，典范情形是要求承认一个显然为假的命题。这项特定义务在整个序列中都必须被遵守，无论序列变得多复杂。其基本想法是：特定义务虽使应答者在评价中不必始终服从真理，但某种逻辑融贯的要求并未因此中止。
+    step2: |-
+      这样评价的命题序列，由提问者向应答者给出某项特定义务而启动，典范情形是要求承认显然为假的命题。这项特定义务在整个序列中都必须遵守，无论序列变得多复杂。其基本想法是：特定义务虽使应答者在评价中不必始终服从真理，但某种逻辑融贯的要求并未因此中止。
+  - id: 6
+    kind: body
+    source: |-
+      These special obligations come in different varieties. Most medieval treatments of the branch of logic are divided by discussions of different varieties. The most common is called ‘*positio*’, or ‘laying down’. In *‘positio*’ a false proposition is laid down at the beginning of the disputation, and the respondent remains obligated to grant it whenever the opponent puts it forward. Modern attention has been mainly on *positio*. (On ‘*sit verum*’, see Spade 1994–97 and Uckelman 2015.)[^spade-1994][^uckelman-2015]
+    step1: |-
+      这些特殊义务有不同种类。中世纪关于这一逻辑分支的多数论述，都按种类分节讨论。最常见的一种叫“*positio*”，即“设定”。在“*positio*”中，论辩开始时设定一个假命题，应答者负有义务：只要提问者再次提出它，就承认它。现代研究主要关注 *positio*。（论“*sit verum*”，见 Spade 1994–97 与 Uckelman 2015。）[^spade-1994][^uckelman-2015]
+    step2: |-
+      这些特殊义务有不同种类，中世纪关于这一逻辑分支的多数论述都按种类分节讨论。最常见的一种叫 *positio*，即“设定”：论辩开始时设定一个假命题，应答者负有义务，只要提问者再次提出它，就予以承认。现代研究主要关注 *positio*。（论 *sit verum*，见 Spade 1994–97 与 Uckelman 2015。）[^spade-1994][^uckelman-2015]
+  - id: 7
+    kind: body
+    source: |-
+      Walter Burley, for example, discusses six kinds of obligations (Green 1963, Kretzmann and Stump 1988)[^green-1963][^kretzmann-1988]:
+    step1: |-
+      例如，瓦尔特·伯利讨论了六种义务（Green 1963, Kretzmann and Stump 1988）[^green-1963][^kretzmann-1988]：
+    step2: |-
+      例如，瓦尔特·伯利讨论了六种义务（Green 1963, Kretzmann and Stump 1988）[^green-1963][^kretzmann-1988]：
+  - id: 8
+    kind: body
+    source: |-
+      **(1)**
+    step1: |-
+      **(1)**
+    step2: |-
+      **(1)**
+  - id: 9
+    kind: body
+    source: |-
+      ‘*Positio*’, where a specified proposition needs to be always granted.
+    step1: |-
+      “*Positio*”，即某一特定命题必须始终被承认。
+    step2: |-
+      “*Positio*”，即某一特定命题必须始终被承认。
+  - id: 10
+    kind: body
+    source: |-
+      **(2)**
+    step1: |-
+      **(2)**
+    step2: |-
+      **(2)**
+  - id: 11
+    kind: body
+    source: |-
+      ‘*Depositio*’ where a specified proposition needs to be always denied.
+    step1: |-
+      “*Depositio*”，即某一特定命题必须始终被否认。
+    step2: |-
+      “*Depositio*”，即某一特定命题必须始终被否认。
+  - id: 12
+    kind: body
+    source: |-
+      **(3)**
+    step1: |-
+      **(3)**
+    step2: |-
+      **(3)**
+  - id: 13
+    kind: body
+    source: |-
+      ‘*Dubitatio*’, where a specified proposition needs to be always doubted.
+    step1: |-
+      “*Dubitatio*”，即某一特定命题必须始终被存疑。
+    step2: |-
+      “*Dubitatio*”，即某一特定命题必须始终被存疑。
+  - id: 14
+    kind: body
+    source: |-
+      **(4)**
+    step1: |-
+      **(4)**
+    step2: |-
+      **(4)**
+  - id: 15
+    kind: body
+    source: |-
+      ‘*Institutio*’ or ‘*impositio*’ where a new meaning is given to some linguistic item.
+    step1: |-
+      “*Institutio*”或“*impositio*”，即赋予某个语言项以新含义。
+    step2: |-
+      “*Institutio*”或“*impositio*”，即赋予某个语言项以新含义。
+  - id: 16
+    kind: body
+    source: |-
+      **(5)**
+    step1: |-
+      **(5)**
+    step2: |-
+      **(5)**
+  - id: 17
+    kind: body
+    source: |-
+      ‘*Sit verum*’, where a specified proposition is to be taken as true.
+    step1: |-
+      “*Sit verum*”，即某一特定命题须被当作真。
+    step2: |-
+      “*Sit verum*”，即某一特定命题须被当作真。
+  - id: 18
+    kind: body
+    source: |-
+      **(6)**
+    step1: |-
+      **(6)**
+    step2: |-
+      **(6)**
+  - id: 19
+    kind: body
+    source: |-
+      ‘*Petitio*’, where some other requirement is put on the respondent.
+    step1: |-
+      “*Petitio*”，即对应答者提出其他某种要求。
+    step2: |-
+      “*Petitio*”，即对应答者提出其他要求。
+  - id: 20
+    kind: body
+    source: |-
+      Of these kinds only (1), (2), and (4) are commonly addressed in later discussions of the genre, but all of them can be found in texts other than Burley’s treatise. However, for a general understanding of the technique it does not seem necessary to account for varieties other than ‘*positio*’.
+    step1: |-
+      这些种类中，后世讨论通常只涉及 (1)、(2)、(4)，但所有种类都可见于伯利论著之外的文本。不过，要一般地理解这门技术，似乎无须考虑 *positio* 以外的种类。
+    step2: |-
+      这些种类中，后世讨论通常只涉及 (1)、(2)、(4)，但所有种类都见于伯利论著之外的文本。不过，要一般地理解这门技术，似乎无须考虑 *positio* 以外的种类。
+  - id: 21
+    kind: body
+    source: |-
+      Almost all the medieval dedicated treatments of obligations proceed through giving rules on how the respondent ought to give the evaluations, or what is to be granted and what is to be denied. The essential rules are based on the idea that each proposition put forward must be recognized as ‘relevant’ or ‘irrelevant’ in relation to the obligation given at the beginning. Thus, if the respondent is given as a ‘*positio*’ the proposition ‘Plato is running’, the proposition ‘Plato is moving’, and indeed any proposition following from ‘Plato is running’ is to be deemed sequentially relevant. Similarly, any proposition incompatible with ‘Plato is running’ is to be deemed incompatibly relevant: ‘Plato is sitting’ will have to be denied. On the other hand, ‘Socrates is running’ is to be deemed irrelevant at least if it is put forward immediately after the ‘*positio*’, since there is no logical connection between Plato and Socrates running.
+    step1: |-
+      中世纪几乎所有专论义务的著作，都通过给出规则来说明应答者应如何作评价、什么该承认、什么该否认。这些基本规则基于一个想法：每一被提出的命题，都须依据论辩开始时给出的义务，被认定为“相关”或“不相关”。于是，若应答者被给定 *positio* 命题“柏拉图在跑”，那么“柏拉图在运动”，以及任何从“柏拉图在跑”推出的命题，都应视为顺序相关。同样，任何与“柏拉图在跑”不相容的命题，都视为不相容相关：“柏拉图坐着”将须被否认。另一方面，“苏格拉底在跑”至少若紧接 *positio* 之后提出，就应视为不相关，因为柏拉图之跑与苏格拉底之跑之间没有逻辑联系。
+    step2: |-
+      中世纪几乎每一部专论义务的著作，都以规则说明应答者应如何评价、什么该承认、什么该否认。基本规则基于一个想法：每一被提出的命题，都须依论辩开始时给出的义务，认定为“相关”或“不相关”。例如，应答者若被给定 *positio* 命题“柏拉图在跑”，则“柏拉图在运动”以及任何从“柏拉图在跑”推出的命题，都属顺序相关；任何与“柏拉图在跑”不相容的命题则属不相容相关，“柏拉图坐着”须被否认。反之，“苏格拉底在跑”至少若紧接 *positio* 之后提出，就属不相关，因为柏拉图之跑与苏格拉底之跑之间并无逻辑联系。
+  - id: 22
+    kind: body
+    source: |-
+      The core two rules of ‘*positio*’ require the respondent to grant any sequentially relevant proposition, and to deny any incompatibly relevant proposition. These two rules are accepted by all authors, but under different interpretations. Since obligational disputations are technically constituted by sequences of propositions with their respective responses, what is relevant and what is not at a particular step need not be determined solely by the ‘*positio*’. Also, within the context of obligations, it cannot be taken as univocally given how ‘follows’ (*sequitur*), or the logical consequence relation, is to be understood.
+    step1: |-
+      *positio* 的两条核心规则要求应答者：承认任何顺序相关的命题，否认任何不相容相关的命题。这两条规则为所有作者接受，但解释不同。由于义务论辩在技术上是由命题序列及其相应回答构成的，某一步骤上什么相关、什么不相关，不必仅由 *positio* 决定。此外，在义务论的语境中，“推出”（*sequitur*）即逻辑后承关系该怎样理解，也不能视为单义给定。
+    step2: |-
+      *positio* 的两条核心规则要求应答者：承认任何顺序相关命题，否认任何不相容相关命题。这两条规则为所有作者接受，解释却不同。由于义务论辩在技术上由命题序列及其回答构成，某一步骤上什么相关，不必仅由 *positio* 决定；而且在义务论语境中，“推出”（*sequitur*）即逻辑后承关系该怎样理解，也不能视为单义给定。
+  - id: 23
+    kind: body
+    source: |-
+      The core terminology of obligations centers around ‘has to be granted’ (*est concedendum*) and ‘has to be denied’ (*est negandum*). These expressions were widely used in medieval European academic texts even outside logic, but normally with the implication that things that have to be granted are true, and vice versa, what is true must be granted. In obligations treatises, both the connection and the contrast of these expressions to truth is of special importance. What is true and what has to be granted are often not the same thing, because propositions are granted as following from the false *positio*, or on the basis of some other special obligation. That the terms ‘has to be granted’ and ‘has to be denied’ are used in general academic contexts outside obligations can presumably be attributed to the fact that medieval academia predominantly thought about arguments in a dialectical context. Obligations as such would not always be at issue when such terms are used. But it does seem that at least in the fourteenth century, obligations as a branch of logic was taken to address core aspects of what it means when something has to be granted in an argumentative setting.
+    step1: |-
+      义务论的核心术语围绕“必须承认”（*est concedendum*）与“必须否认”（*est negandum*）展开。这些表达在中世纪欧洲学术文本中广泛使用，甚至在逻辑之外，但通常隐含：必须承认的东西为真，反之，为真的东西必须被承认。在义务论著中，这些表达与真理的联系及对照都特别重要。为真的东西与必须承认的东西常常并不相同，因为命题是因从假 *positio* 推出、或依某项特殊义务而被承认的。“必须承认”“必须否认”两词在义务论之外的学术语境中也通行，这大概可归因于：中世纪学术界主要在对话语境中思考论证；使用这些词时，义务论本身未必是议题。但至少在 14 世纪，作为逻辑学分支的义务论似乎确实被看作在讨论：在论证情境中，某物必须被承认究竟意味着什么的核心方面。
+    step2: |-
+      义务论的核心术语围绕“必须承认”（*est concedendum*）与“必须否认”（*est negandum*）展开。这些表达在中世纪欧洲学术文本中广泛使用，甚至见于逻辑之外，但通常隐含：必须承认者真，反之为真者必须承认。在义务论著中，这些表达与真理的联系及对照都特别重要：为真者与必须承认者常常并不相同，因为命题是因从假 *positio* 推出、或依某项特殊义务而被承认的。“必须承认”“必须否认”二词在义务论之外的学术语境中也通行，这大概因为中世纪学术界主要在对话语境中思考论证，使用这些词时义务论本身未必是议题。但至少在 14 世纪，作为逻辑学分支的义务论似乎确实在讨论：论证情境中某物必须被承认，究竟意味着什么的核心方面。
+  - id: 24
+    kind: body
+    source: |-
+      The medieval logical genre of sophismata (see the entry on sophismata in this encyclopedia) appears especially relevant to obligations. A typical sophism in this sense consists of a case (*casus*), a sophisma sentence, arguments for and against the sophisma sentence based on the case, and a solution. The case is often imagined rather than real or even genuinely possible. One relatively natural way to think of a sophism would thus be to take the case (*casus*) as a *positio* in the sense of obligational disputations. Indeed, Richard Kilvington’s comments of the obligational rules in his *Sophismata* show him thinking that obligational rules regulate how one ought to evaluate sentences on the basis of the case (*casus*) in a sophisma. (See Kretzmann & Kretzmann 1990a and 1990b.)[^kretzmann-1990a][^kretzmann-1990b]
+    step1: |-
+      中世纪的逻辑文类“诡辩题”（sophismata，见本《百科》“诡辩题”词条）似与义务论尤为相关。这一意义上的典型诡辩，包括一个案例（*casus*）、一句诡辩命题、基于该案例为该命题所作的正反论证，以及一个解答。案例往往是想象出来的，未必真实，甚至未必真正可能。于是，思考诡辩的一种较自然的方式，是把案例（*casus*）看作义务论辩意义上的 *positio*。事实上，理查德·基尔文顿在其《诡辩题》中对义务规则的评论表明，他认为义务规则规定着：在诡辩中应如何基于案例（*casus*）评价句子。（见 Kretzmann & Kretzmann 1990a and 1990b。）[^kretzmann-1990a][^kretzmann-1990b]
+    step2: |-
+      中世纪逻辑文类“诡辩题”（sophismata，见本《百科》“诡辩题”词条）似与义务论尤为相关。典型的诡辩包括一个案例（*casus*）、一句诡辩命题、基于该案例为该命题所作的正反论证，以及一个解答。案例往往出于想象，未必真实，甚至未必真正可能。于是，思考诡辩的一个较自然方式，是把案例（*casus*）看作义务论辩意义上的 *positio*。事实上，理查德·基尔文顿在《诡辩题》中对义务规则的评论表明，他认为义务规则规定着：诡辩中应如何基于案例（*casus*）评价句子。（见 Kretzmann & Kretzmann 1990a and 1990b。）[^kretzmann-1990a][^kretzmann-1990b]
+  - id: 25
+    kind: body
+    source: |-
+      ## 2. Background in Aristotelian logic
+    step1: |-
+      ## 2. 亚里士多德逻辑中的背景
+    step2: |-
+      ## 2 亚里士多德逻辑中的背景
+  - id: 26
+    kind: body
+    source: |-
+      The core structure of an obligational disputation is closely similar to what we find from Plato’s dialogues. In a so-called Socratic *elenchus* Socrates is putting forward questions, and most of them can be and are answered by ‘yes’ or by ‘no’. The sequence of questions in effect builds up an argument leading to a situation where the person responding to Socrates’ questions is often forced to admit the opposite of what was put as a starting point in the dialectical encounter. As a core background assumption, the person answering has to grant to Socrates some propositions because of other propositions that he has already granted. In a somewhat implicit form, the obligational principle that whatever follows needs to be granted is thus present already in the Socratic *elenchus*. (See e.g., Robinson 1953)[^robinson-1953]
+    step1: |-
+      义务论辩的核心结构，与我们在柏拉图对话中所见极为相似。在所谓苏格拉底式*驳诘*（*elenchus*）中，苏格拉底提出问题，其中多数可以、也确以“是”或“否”回答。问题序列实际上构成一个论证，最终常使回答苏格拉底问题的人被迫承认与对话开始时设定者相反的东西。一个核心的背景假定是：作答者必须因他已承认的其他命题，而向苏格拉底承认某些命题。于是，“凡从前提推出者皆须承认”这一义务论原则，已经以某种隐含形式存在于苏格拉底式驳诘之中。（例如见 Robinson 1953）[^robinson-1953]
+    step2: |-
+      义务论辩的核心结构，与柏拉图对话所见极为相似。在所谓苏格拉底式*驳诘*（*elenchus*）中，苏格拉底提出问题，多数可以、也确以“是”或“否”回答。问题序列实际构成一个论证，最终常迫使作答者承认与对话起点相反的东西。核心的背景假定是：作答者必须因他已承认的其他命题，而向苏格拉底承认某些命题。“凡从前提推出者皆须承认”这一义务论原则，于是已以隐含形式存在于苏格拉底式驳诘之中。（例如见 Robinson 1953）[^robinson-1953]
+  - id: 27
+    kind: body
+    source: |-
+      There are however very central differences between the medieval obligational disputations and the Socratic *elenchus*. Indeed, it seems possible to sum up the similarities as two core ideas:
+    step1: |-
+      然而，中世纪义务论辩与苏格拉底式驳诘之间又有极为根本的差异。事实上，似乎可以把相似之处归结为两个核心观念：
+    step2: |-
+      然而，中世纪义务论辩与苏格拉底式驳诘之间又有极根本的差异。相似之处似可归结为两个核心观念：
+  - id: 28
+    kind: body
+    source: |-
+      1. Both are dialectical encounters constituted by one party putting forward propositions and the other evaluating them.
+      2. Both are taken to proceed in a form that is logical, although in the case of Plato the term ‘logical’ needs to be taken with caution for anachronism.
+    step1: |-
+      1. 二者都是对话式的交锋，由一方提出命题、另一方作出评价。
+      2. 二者都被认为以逻辑的形式进行，尽管在柏拉图那里，出于避免年代错置之考虑，“逻辑的”一词须谨慎使用。
+    step2: |-
+      1. 二者都是对话交锋：一方提出命题，另一方给出评价。
+      2. 二者都被认为以逻辑形式进行，尽管在柏拉图那里，出于避免年代错置，“逻辑的”一词须谨慎使用。
+  - id: 29
+    kind: body
+    source: |-
+      The main difference between Socratic *elenchus* and medieval obligational disputations is in what happens at the beginning. While Socrates normally challenges his discussion partner on a substantial philosophical thesis whose truth would be important to know, there is no real issue under scrutiny in obligational disputations. The thesis studied in a Socratic *elenchus* is never known to be obviously false, but this is the standard way to start an obligational disputation.
+    step1: |-
+      苏格拉底式驳诘与中世纪义务论辩的主要差异，在于开端处发生了什么。苏格拉底通常挑战对话者的某个实质性哲学论题，而其真假值得知道；义务论辩中却并无真正受审视的争点。苏格拉底式驳诘所研究的论题从不显然为假，而这恰是义务论辩的标准开场方式。
+    step2: |-
+      两者的主要差异在开端：苏格拉底通常挑战对话者的某个实质性哲学论题，其真假值得知道；义务论辩中却没有真正受审视的争点。驳诘所研究的论题从不显然为假，而这恰是义务论辩的标准开场。
+  - id: 30
+    kind: body
+    source: |-
+      As is well known, Aristotle developed dialectical encounters in a strictly theoretical manner in his *Topics*. One question that is still open in the modern scholarship on obligations is to account for the role of Aristotle’s *Topics* in the development of the obligations genre in the middle ages. Medieval commentaries on *Topics* do not regularly take up to discuss obligations systematically (see Green-Pedersen 1984)[^green-pedersen-1984]. One interesting exception is Boethius of Dacia’s commentary (written in the 1270s; Breen-Pedersen & Pinborg 1976), but the rules that he proposes for obligational disputations appear quite different from what we find from the mainstream authors of the genre itself (e.g., Burley, Swyneshed, and Eland). In any case, even judging on the basis of Boethius’ treatment of the technique in the commentary, the technique does not seem a direct descendant of the so called ‘topical’ tradition in logic.
+    step1: |-
+      众所周知，亚里士多德在《论题篇》中以严格理论化的方式发展了对话交锋。义务论研究至今悬而未决的一个问题，是说明亚里士多德《论题篇》在中世纪义务论文类形成中的作用。中世纪对《论题篇》的注疏并不经常系统讨论义务论（见 Green-Pedersen 1984）[^green-pedersen-1984]。一个有趣的例外是达契亚的波爱修的注疏（写于 1270 年代；Breen-Pedersen & Pinborg 1976），但他为义务论辩提出的规则，与该文类主流作者（如伯利、斯温舍德与埃兰）的规则看来相当不同。无论如何，即便以波爱修在注疏中对这门技术的处理来判断，它似乎也不直接出自逻辑中所谓的“论题学”传统。
+    step2: |-
+      众所周知，亚里士多德在《论题篇》中以严格理论化的方式发展了对话交锋。义务论研究中一个至今悬而未决的问题，是说明亚里士多德《论题篇》在中世纪义务论文类形成中的作用。中世纪对《论题篇》的注疏并不常系统讨论义务论（见 Green-Pedersen 1984）[^green-pedersen-1984]。有趣的例外是达契亚的波爱修所作注疏（1270 年代；Breen-Pedersen & Pinborg 1976），但他为义务论辩提出的规则，与该文类主流作者（伯利、斯温舍德、埃兰）的规则看来相当不同。无论如何，即便以波爱修注疏中的处理为准，这门技术似乎也不直接出自逻辑中所谓的“论题学”传统。
+  - id: 31
+    kind: body
+    source: |-
+      There is another medieval descendant of the structure of the Socratic *elenchus* arising more directly from the Aristotelian approach to the technique in his *Topics*. During the thirteenth century, a number of treatises “On the Modes of Opposing and Responding” were written. (Cf. De Rijk 1980, Pérez-Ilzarbe 2011)[^pérez-ilzarbe-2011]. These treatises discuss and develop techniques of winning in a disputation, or in other words ways in which the opponent can force or trick the respondent into granting the opposite of the thesis under dispute, or ways in which the respondent can avoid such contradictions. These treatises form an interesting parallel to the obligations technique, but even there the core feature of obligations – discussing an obviously false thesis – is not to be found.
+    step1: |-
+      苏格拉底式驳诘的结构还有另一个中世纪后裔，它更直接地出自亚里士多德《论题篇》对这门技术的处理。13 世纪出现了若干《论反驳与应答的方式》的论著。（参 De Rijk 1980, Pérez-Ilzarbe 2011）[^pérez-ilzarbe-2011]。这些论著讨论并发展论辩中取胜的技术：换言之，提问者如何迫使或诱使应答者承认争论论题的反面，或应答者如何避免此类矛盾。它们与义务论技术构成有趣的平行，但即便在它们那里，也找不到义务论的核心特征——讨论一个显然为假的论题。
+    step2: |-
+      苏格拉底式驳诘的结构还有另一个中世纪后裔，更直接地出自亚里士多德《论题篇》对这门技术的处理：13 世纪出现了若干《论反驳与应答的方式》的论著（参 De Rijk 1980, Pérez-Ilzarbe 2011）[^pérez-ilzarbe-2011]。它们讨论并发展论辩取胜之术：提问者如何迫使或诱使应答者承认争论论题的反面，或应答者如何避免此类矛盾。它们与义务论技术构成有趣的平行，但即便在它们那里，也找不到义务论的核心特征——讨论一个显然为假的论题。
+  - id: 32
+    kind: body
+    source: |-
+      Aristotle discussed various times (e.g., *Prior Analytics* and *Metaphysics*) what may happen in reasoning that starts with an impossible hypothesis, and these discussions have to be taken into account as a second aspect in which obligational disputations have roots in Aristotle’s works. When reasoning from an impossible hypothesis one is not to worry about truth but about what follows logically. This is one of the central technical issues in obligational disputations. Discussions concerning an impossible hypothesis have a long history that can be traced all the way from Aristotle to the Latin medieval period in which obligational disputations properly so called were developed. And it can also be pointed out that at the earliest stages of the Latin medieval development of obligational technique, assuming an impossibility (*positio impossibilis*) was one, or perhaps even the standard kind of obligation to be considered. (See Martin 1993; 1997; 2007; Kukkonen 2002; 2005.)[^kukkonen-2002][^martin-1993]
+    step1: |-
+      亚里士多德多次讨论（如《前分析篇》与《形而上学》）以不可能假设为起点的推理中可能发生什么；这些讨论须视为义务论辩植根于亚里士多德著作的第二个方面。从不可能假设推理时，人不必操心真理，只须操心逻辑上推出什么。这是义务论辩的中心技术议题之一。关于不可能假设的讨论源远流长，可从亚里士多德一直追溯到拉丁中世纪——义务论辩正是在那时发展起来的。还可以指出：在拉丁中世纪义务论技术发展的最早阶段，假定一个不可能之事（*positio impossibilis*）曾是、或许甚至是标准要考虑的义务类型。（见 Martin 1993; 1997; 2007; Kukkonen 2002; 2005。）[^kukkonen-2002][^martin-1993]
+    step2: |-
+      亚里士多德多次讨论（如《前分析篇》《形而上学》）以不可能假设为起点的推理中可能发生什么；这些讨论是义务论辩植根于亚里士多德著作的第二个方面。从不可能假设推理时，人不必操心真理，只须操心逻辑上推出什么——这是义务论辩的中心技术议题之一。关于不可能假设的讨论源远流长，可从亚里士多德一直追溯到发展出义务论辩的拉丁中世纪。还可以指出：在拉丁中世纪义务论技术发展的最早阶段，假定不可能之事（*positio impossibilis*）曾是、或许甚至是标准要考虑的义务类型。（见 Martin 1993; 1997; 2007; Kukkonen 2002; 2005。）[^kukkonen-2002][^martin-1993]
+  - id: 33
+    kind: body
+    source: |-
+      Judging from texts known to modern scholars, the obligational technique seems to have achieved a structured format during the thirteenth century, perhaps already in its first half. The oldest currently known dedicated treatises on the obligational technique seem to be a pair of anonymous treatises edited by L. M. de Rijk as *The* *Emmeran Treatise on False Positio* and *The Emmeran Treatise on Impossible Positio*. (De Rijk 1974.) De Rijk dated the treatises in his edition to the early thirteenth century, and there seems to be no reason to doubt this rough date. The rules of the technique are in these treatises almost the same as in Walter Burley’s *Treatise* *on* *Obligations*, which might be taken as the standard bearing treatise, written around 1302 (Green 1963; Kretzmann and Stump 1988)[^green-1963][^kretzmann-1988]. In terms of historical development, the obligational technique belongs to what is often called *logica moderna*, which built on Aristotelian logic but took clear distance from the Aristotelian texts themselves.
+    step1: |-
+      从现代学者所知的文本判断，义务论技术似在 13 世纪——或许已在其前半叶——形成了结构化格式。目前所知最古老的义务论技术专论，似是 L. M. de Rijk 编校的两篇匿名论著：《埃默兰论假设定》与《埃默兰论不可能的设定》。（De Rijk 1974。）De Rijk 在编校本中断定其年代为 13 世纪初，似无理由怀疑这一大致年代。这些论著中的技术规则，与瓦尔特·伯利约 1302 年所写、或可视为标准范本的《义务论》几乎相同（Green 1963; Kretzmann and Stump 1988）[^green-1963][^kretzmann-1988]。就历史发展而言，义务论技术属于通常所谓*现代逻辑*（*logica moderna*）——它建立在亚里士多德逻辑之上，却与亚里士多德文本本身明确拉开距离。
+    step2: |-
+      从现代学者所知的文本判断，义务论技术似在 13 世纪、或许已在其前半叶形成结构化格式。目前所知最古老的义务论专论，是 L. M. de Rijk 编校的两篇匿名论著：《埃默兰论假设定》与《埃默兰论不可能的设定》（De Rijk 1974）。De Rijk 断定其年代为 13 世纪初，似无理由怀疑。这些论著的技术规则，与瓦尔特·伯利约 1302 年所写、或可视为标准范本的《义务论》几乎相同（Green 1963; Kretzmann and Stump 1988）[^green-1963][^kretzmann-1988]。就历史发展而言，义务论技术属于通常所谓*现代逻辑*（*logica moderna*）——它建立在亚里士多德逻辑之上，却与亚里士多德文本本身明确拉开距离。
+  - id: 34
+    kind: body
+    source: |-
+      ## 3. Walter Burley’s standard theory
+    step1: |-
+      ## 3. 瓦尔特·伯利的标准理论
+    step2: |-
+      ## 3 瓦尔特·伯利的标准理论
+  - id: 35
+    kind: body
+    source: |-
+      According to Walter Burley’s presentation of the obligational theory in the species of *positio*, the respondent faces a sequence of propositions that he must either grant or deny, one by one. The sequence starts with a *positum* that is normally a false sentence which the respondent has to grant. Then the following propositions are evaluated in accordance with what Burley calls the essential rules of obligations. Three of these rules can be found from practically all medieval discussions of the technique. According to them, the *positum* must be granted if it is put forward, anything following from the *positum* must be granted, and anything incompatible with the *positum* must be denied. (Cf. Green 1963, Kretzmann and Stump 1988. Modern discussions of Burley’s rules can be found in e.g., Ashworth 1981; Keffer 2001; Spade 1982; Spade and Stump 1983; Stump 1985; Yrjönsuuri 1994 and 2001.)[^green-1963][^kretzmann-1988][^yrjönsuuri-2001][^ashworth-1981][^keffer-2001][^spade-1982][^spade-1983][^stump-1985][^yrjönsuuri-1994]
+    step1: |-
+      按瓦尔特·伯利在 *positio* 这一种类下对义务论理论的表述，应答者面对一系列命题，必须逐一承认或否认。序列以一个 *positum* 开始，通常是应答者必须承认的假句子。随后诸命题依伯利所谓义务的本质规则来评价。这些规则中有三条几乎见于所有中世纪关于该技术的讨论：*positum* 若被提出必须承认；凡从 *positum* 推出者必须承认；凡与 *positum* 不相容者必须否认。（参 Green 1963, Kretzmann and Stump 1988。关于伯利规则的现代讨论，可参 Ashworth 1981; Keffer 2001; Spade 1982; Spade and Stump 1983; Stump 1985; Yrjönsuuri 1994 and 2001。）[^green-1963][^kretzmann-1988][^yrjönsuuri-2001][^ashworth-1981][^keffer-2001][^spade-1982][^spade-1983][^stump-1985][^yrjönsuuri-1994]
+    step2: |-
+      按瓦尔特·伯利在 *positio* 这一种类下对义务论的表述，应答者面对一系列命题，须逐一承认或否认。序列以 *positum* 开始，通常是应答者必须承认的假句子；随后诸命题依伯利所谓义务的本质规则评价。其中三条几乎见于所有中世纪讨论：*positum* 若被提出必须承认；凡从 *positum* 推出者必须承认；凡与 *positum* 不相容者必须否认。（参 Green 1963, Kretzmann and Stump 1988。现代讨论可参 Ashworth 1981; Keffer 2001; Spade 1982; Spade and Stump 1983; Stump 1985; Yrjönsuuri 1994 and 2001。）[^green-1963][^kretzmann-1988][^yrjönsuuri-2001][^ashworth-1981][^keffer-2001][^spade-1982][^spade-1983][^stump-1985][^yrjönsuuri-1994]
+  - id: 36
+    kind: body
+    source: |-
+      In Burley’s formulations the core rules are as follows:
+    step1: |-
+      在伯利的表述中，核心规则如下：
+    step2: |-
+      在伯利的表述中，核心规则如下：
+  - id: 37
+    kind: body
+    source: |-
+      **1.**
+    step1: |-
+      **1.**
+    step2: |-
+      **1.**
+  - id: 38
+    kind: body
+    source: |-
+      Everything that is posited and put forward in the form of the *positum* during the time of the *positio* must be granted.
+    step1: |-
+      凡在 *positio* 期间以 *positum* 的形式被设定并提出者，都必须承认。
+    step2: |-
+      凡在 *positio* 期间以 *positum* 形式被设定并提出者，都必须承认。
+  - id: 39
+    kind: body
+    source: |-
+      **2.**
+    step1: |-
+      **2.**
+    step2: |-
+      **2.**
+  - id: 40
+    kind: body
+    source: |-
+      Everything that follows from the *positum* must be granted.
+    step1: |-
+      凡从 *positum* 推出的，都必须承认。
+    step2: |-
+      凡从 *positum* 推出的，都必须承认。
+  - id: 41
+    kind: body
+    source: |-
+      **3.**
+    step1: |-
+      **3.**
+    step2: |-
+      **3.**
+  - id: 42
+    kind: body
+    source: |-
+      Everything incompatible with the *positum* must be denied.
+    step1: |-
+      凡与 *positum* 不相容的，都必须否认。
+    step2: |-
+      凡与 *positum* 不相容的，都必须否认。
+  - id: 43
+    kind: body
+    source: |-
+      Already these rules show that the technique (in Burley’s version) is aiming at consistency in the answers. He seems to have this insight in mind when he gives later in the treatise a “useful rule” that “all responses must be directed to the same instant”, as if implying that any description of one instant of time needs to be consistent.
+    step1: |-
+      这些规则已经表明，这门技术（在伯利版本中）旨在使回答保持一致。他后来在论著中给出“有用规则”——“一切回答都必须针对同一时刻”——时，似乎正怀着这一洞见，仿佛暗示：对某一时刻的任何描述都须一致。
+    step2: |-
+      这些规则已表明，这门技术（伯利版）旨在使回答保持一致。他后来在论著中给出“有用规则”——“一切回答都须针对同一时刻”——时，似乎正怀着这一洞见：对某一时刻的任何描述都须一致。
+  - id: 44
+    kind: body
+    source: |-
+      The above three basic rules are not sufficient, as they cover only what follows from the *positum* alone or is incompatible with it alone. An important part of the obligational technique is to understand all propositions put forward in an obligational disputation as either relevant (*pertinens*) or irrelevant (*impertinens*). A proposition that follows or is incompatible, is relevant, and others are irrelevant. Relevant propositions are to be answered according to their logical status, or in other words according to rules 2. and 3. On how to answer irrelevant propositions, Burley gives the following rule:
+    step1: |-
+      上述三条基本规则并不充分，因为它们只涵盖仅从 *positum* 推出、或仅与 *positum* 不相容的情形。义务论技术的一个重要部分，是把论辩中提出的一切命题都理解为相关（*pertinens*）或不相关（*impertinens*）。推出或不相容的命题相关，其余不相关。相关命题依其逻辑地位回答，换言之依规则 2 与 3 回答。至于如何回答不相关命题，伯利给出如下规则：
+    step2: |-
+      上述三条基本规则并不充分，因为它们只涵盖仅从 *positum* 推出、或仅与它不相容的情形。义务论技术的重要一环，是把论辩中提出的一切命题理解为相关（*pertinens*）或不相关（*impertinens*）：推出或不相容者相关，其余不相关。相关命题依其逻辑地位、即依规则 2 与 3 回答。如何回答不相关命题，伯利有如下规则：
+  - id: 45
+    kind: body
+    source: |-
+      **4.**
+    step1: |-
+      **4.**
+    step2: |-
+      **4.**
+  - id: 46
+    kind: body
+    source: |-
+      If it is irrelevant, it must be responded to on the basis of its own quality.
+    step1: |-
+      若命题不相关，则须依其自身品质来回答。
+    step2: |-
+      若命题不相关，则须依其自身品质回答。
+  - id: 47
+    kind: body
+    source: |-
+      As Burley carefully explains, “its own quality” means what we take its truth value to be. Thus, a proposition known to be true must be granted, and one known to be false must be denied. Answering with doubt is also possible, according to Burley.
+    step1: |-
+      伯利仔细解释，“其自身品质”指我们所认定的其真值。于是，已知为真的命题必须承认，已知为假的必须否认。按伯利，以存疑作答也可以。
+    step2: |-
+      伯利仔细解释，“自身品质”即我们所认定的真值：已知为真者必须承认，已知为假者必须否认；按伯利，以存疑作答亦可。
+  - id: 48
+    kind: body
+    source: |-
+      The rule concerning irrelevant propositions is generally accepted by all medieval authors writing on obligations, but in importantly different exact versions. We will come back to some of these versions in the following, but first we must make clear about Burley’s version. He puts special attention to the following question: a proposition is relevant if it follows or is incompatible, but follows from exactly what, or is incompatible with exactly what? As Burley sees it, this relevance must be determined on the basis of all answers that have been given in the disputation so far. On the first step immediately after the *positio*, relevance is based on following from the *positum*, or being incompatible with it. But suppose the respondent must evaluate some salient irrelevant proposition on the first step. Then this answer must be taken into account in determining whether a later proposition follows or is incompatible in the disputation. That is, the respondent must take care not only that he does not deny his *positum* but that all his answers remain consistent as a set.
+    step1: |-
+      关于不相关命题的规则，为中世纪所有论义务的作者普遍接受，但确切版本有重要差异。下文将回到其中一些版本，但先须说明伯利的版本。他特别注意一个问题：命题在推出或不相容时相关，但它究竟从什么推出、与什么不相容？伯利认为，这种相关性须依论辩迄今所给出的一切回答来判定。在紧接 *positio* 的第一步，相关性基于从 *positum* 推出或与之不相容。但假定应答者在第一步必须评价某个显著的不相关命题，那么这一回答在判定后来命题是否推出或不相容时，就必须被考虑在内。也就是说，应答者不仅须留意不否认其 *positum*，还须留意他的一切回答作为集合保持融贯。
+    step2: |-
+      关于不相关命题的规则为中世纪所有论义务者普遍接受，确切版本却有重要差异。下文将回到若干版本，先须说明伯利的。他特别注意一问：命题在推出或不相容时相关，但它究竟从什么推出、与什么不相容？伯利认为，相关性须依论辩迄今的一切回答判定。紧接 *positio* 的第一步，相关性基于从 *positum* 推出或与之不相容；但假定应答者在第一步须评价某个显著的不相关命题，则此回答在判定后来命题是否推出或不相容时也须计入。也就是说，应答者不仅要留意不否认其 *positum*，还须留意他的一切回答作为集合保持融贯。
+  - id: 49
+    kind: body
+    source: |-
+      Burley formulated these ideas as further clarifications of rules 2. and 3., but let us here give them new numbers:
+    step1: |-
+      伯利把这些想法表述为对规则 2 与 3 的进一步澄清，但此处不妨重新编号：
+    step2: |-
+      伯利把这些想法表述为对规则 2、3 的进一步澄清；此处不妨重新编号：
+  - id: 50
+    kind: body
+    source: |-
+      **5.**
+    step1: |-
+      **5.**
+    step2: |-
+      **5.**
+  - id: 51
+    kind: body
+    source: |-
+      Everything that follows from the *positum* either together with an already granted proposition (or propositions), or together with the opposite of a proposition (or the opposites of propositions) already correctly denied and known to be such, must be granted.
+    step1: |-
+      凡从 *positum* 连同某一已被承认的命题（或诸命题）推出、或连同某一已被正确否认且已知如此的命题之反面（或诸命题的反面）推出者，都必须承认。
+    step2: |-
+      凡从 *positum* 连同某一已承认命题（或诸命题）推出、或连同某一已正确否认且已知如此的命题之反面（或诸反面）推出者，都必须承认。
+  - id: 52
+    kind: body
+    source: |-
+      **6.**
+    step1: |-
+      **6.**
+    step2: |-
+      **6.**
+  - id: 53
+    kind: body
+    source: |-
+      Everything that is incompatible with the *positum* together with an already granted proposition (or propositions), or together with the opposite of a proposition (or the opposites of propositions) already correctly denied and known to be such, must be denied.
+    step1: |-
+      凡与 *positum* 连同某一已被承认的命题（或诸命题）、或连同某一已被正确否认且已知如此的命题之反面（或诸命题的反面）不相容者，都必须否认。
+    step2: |-
+      凡与 *positum* 连同某一已承认命题（或诸命题）不相容、或连同某一已正确否认且已知如此的命题之反面（或诸反面）不相容者，都必须否认。
+  - id: 54
+    kind: body
+    source: |-
+      A crucial effect of these rules is that at every step where an irrelevant proposition is answered, the class of relevant propositions expands. Burley makes this explicit through a “useful rule” that “one must pay special attention to the order [of the propositions]”. Something that is irrelevant at the first step might not be so anymore later in the disputation.
+    step1: |-
+      这些规则的一个关键效果是：在回答不相关命题的每一步，相关命题的类都会扩大。伯利以“有用规则”明言此点：“必须特别注意［诸命题的］次序。”第一步不相关的命题，在论辩后段可能不再不相关。
+    step2: |-
+      这些规则的关键效果是：在回答不相关命题的每一步，相关命题之类都会扩大。伯利以“有用规则”明言此点：“必须特别注意［诸命题的］次序。”第一步不相关者，后段可能不再不相关。
+  - id: 55
+    kind: body
+    source: |-
+      Now, consider the following disputation as an example:
+    step1: |-
+      现在以如下论辩为例：
+    step2: |-
+      现在以如下论辩为例：
+  - id: 56
+    kind: body
+    source: |-
+      | *Positum* | You are in Rome. | Accepted as possible. |
+      | --- | --- | --- |
+      | Proposition 1 | You are not in Rome or you are a bishop | Granted, true and irrelevant (rule 4). |
+      | Proposition 2 | You are a bishop. | Granted, follows (rule 5). |
+    step1: |-
+      | *Positum* | 你在罗马。 | 作为可能者被接受。 |
+      | --- | --- | --- |
+      | 命题 1 | 你不在罗马，或者你是主教 | 承认；为真且不相关（规则 4）。 |
+      | 命题 2 | 你是主教。 | 承认；推出（规则 5）。 |
+    step2: |-
+      | *Positum* | 你在罗马。 | 作为可能者被接受。 |
+      | --- | --- | --- |
+      | 命题 1 | 你不在罗马，或者你是主教 | 承认；为真且不相关（规则 4）。 |
+      | 命题 2 | 你是主教。 | 承认；推出（规则 5）。 |
+  - id: 57
+    kind: body
+    source: |-
+      Disputation D1
+    step1: |-
+      论辩 D1
+    step2: |-
+      论辩 D1
+  - id: 58
+    kind: body
+    source: |-
+      According to Burley’s approach, proposition 1 has to be evaluated as irrelevant, because it does not follow from the *positum* alone, and because of the first disjunct it is taken to be true even if the respondent is not a bishop (apologies to any reader actually in Rome). It must therefore be granted. However, this answer makes the other disjunct relevant, because the first disjunct happens to be the negation of the *positum*. Thus, Proposition 2 must be granted. Indeed, by suitable selection of propositions, almost anything at all may have to be granted at the later steps of a disputation with a false *positum*. Burley gives a useful rule to make this clear: “when a false contingent proposition is posited, one can prove any false proposition that is compossible with it.” (Kretzmann and Stump 1988, 391.)[^kretzmann-1988]
+    step1: |-
+      按伯利的路数，命题 1 须评价为不相关，因为它不能仅从 *positum* 推出，又因其第一个析取支即使应答者不是主教也被视为真（谨向真正身在罗马的读者致歉）。因此它必须被承认。然而这一回答使另一个析取支变得相关，因为第一个析取支恰是 *positum* 的否定。于是命题 2 必须承认。的确，只要适当选择命题，在与假 *positum* 的论辩后段，几乎任何命题都可能必须承认。伯利给出一条有用规则以明此点：“当设定一个假的偶然命题时，凡是与之可共存的假命题，都可以证明。”（Kretzmann and Stump 1988, 391。）[^kretzmann-1988]
+    step2: |-
+      按伯利的路数，命题 1 须评价为不相关：它不能仅从 *positum* 推出，又因第一个析取支即使应答者不是主教也被视为真（谨向真正身在罗马的读者致歉），故必须承认。这一回答却使另一析取支变得相关，因为第一个析取支恰是 *positum* 的否定，于是命题 2 必须承认。的确，只要适当选择命题，在与假 *positum* 的论辩后段，几乎任何命题都可能须被承认。伯利给出一条有用规则以明此点：“设定一个假的偶然命题时，凡与之可共存的假命题皆可证明。”（Kretzmann and Stump 1988, 391。）[^kretzmann-1988]
+  - id: 59
+    kind: body
+    source: |-
+      Burley uses the word “compossible” (*compossibile*). It is important to notice that at the time Burley was writing, the concept of consistency was not a standard part of technical logical language. He and his contemporaries did not speak about consistent sets of sentences, because they did not have the vocabulary. This seems like a simple reason why Burley never says directly and explicitly that all answers must stick to consistency. Instead, it seems more probable that building the concept was a part of the development in the obligational technique.
+    step1: |-
+      伯利用“可共存”（*compossibile*）一词。须注意，伯利写作时，融贯性概念尚非技术逻辑语言的标准部分。他与同时代人不谈句子的融贯集合，因为他们没有这套词汇。这似乎是伯利从不直接明言一切回答都须守住融贯性的简单理由。更可能的是，建构这一概念本身就是义务论技术发展的一部分。
+    step2: |-
+      伯利用“可共存”（*compossibile*）一词。须注意，他写作时，融贯性概念尚非技术逻辑语言的标准部分：他与同时代人不谈句子的融贯集合，因为没有这套词汇。这似是他从不直接明言一切回答都须守住融贯性的简单理由；更可能的是，建构这一概念本身就是义务论技术发展的一部分。
+  - id: 60
+    kind: body
+    source: |-
+      In any case, the above example and the principle that almost anything may have to be granted are not problematic in Burley’s eyes. This reflects a clear-eyed understanding that obligational disputations were not about what is true and what is not, they were about logical relationships between sentences.
+    step1: |-
+      无论如何，上例以及“几乎任何命题都可能必须承认”这一原则，在伯利看来都不成问题。这反映了一种清醒的理解：义务论辩不问何为真、何为不真，只问句子之间的逻辑关系。
+    step2: |-
+      无论如何，上例以及“几乎任何命题都可能必须承认”这一原则，在伯利看来都不成问题。这反映一种清醒理解：义务论辩不问何为真、何为不真，只问句子之间的逻辑关系。
+  - id: 61
+    kind: body
+    source: |-
+      ## 4. Revisions of the rules
+    step1: |-
+      ## 4. 对规则的修正
+    step2: |-
+      ## 4 对规则的修正
+  - id: 62
+    kind: body
+    source: |-
+      Walter Burley’s rules of obligational disputations can be called the standard approach, but they were also challenged in the fourteenth century discussions. All these challenges may be taken to be directed at understanding in what sense the respondent must avoid contradicting himself in an obligational disputation.
+    step1: |-
+      瓦尔特·伯利的义务论辩规则可称为标准路数，但它们在 14 世纪的讨论中同样受到挑战。所有这些挑战，都可看作在追问：应答者在义务论辩中究竟在何种意义上必须避免自相矛盾。
+    step2: |-
+      瓦尔特·伯利的义务论辩规则可称为标准路数，但在 14 世纪讨论中同样受到挑战。这些挑战都可看作在追问：应答者在义务论辩中究竟在何种意义上必须避免自相矛盾。
+  - id: 63
+    kind: body
+    source: |-
+      *Time and modality*. When discussing modalities in his *Ordinatio* (I, d. 38, 2), John Duns Scotus rejects a principle which he calls an obligational rule, namely that with a false *positio* one must “deny the present instant”. And in fact, Walter Burley (writing roughly at the same time) mentions this as a valid, useful rule. The reasoning behind the rule is the necessity of the present. For example, suppose “you are running” is the false *positum* when you are in fact standing in a university hall and participating in an obligational disputation. Now, if one considers the possibility that you are running, this possibility must according to Burley be referred to some other time, because of the necessity of the present. You cannot be running now since you are standing now, but afterwards you can of course run. (Kretzmann and Stump 1988, 394.)[^kretzmann-1988]
+    step1: |-
+      *时间与模态*。邓斯·司各脱在《奥多》中讨论模态时（I, d. 38, 2），拒斥一条他称为义务规则的原理，即：给定假 *positio* 时，人必须“否认当前瞬间”。而事实上，瓦尔特·伯利（写作年代大致同时）却把它当作一条有效而有用的规则提出。这条规则背后的理据是当前的必然性。例如，设想“你在跑”是假 *positum*，而你实际站在大学讲堂里参加义务论辩。按伯利，若考虑你在跑这一可能性，由于当前的必然性，它必须被归到别的时刻：你现在不能跑，因为你现在站着；但稍后你当然可以跑。（Kretzmann and Stump 1988, 394。）[^kretzmann-1988]
+    step2: |-
+      *时间与模态*。邓斯·司各脱在《奥多》讨论模态时（I, d. 38, 2），拒斥一条他称为义务规则的原理：给定假 *positio* 时，人必须“否认当前瞬间”。事实上，瓦尔特·伯利（写作年代大致同时）却把它当作有效而有用的规则提出。其理据是当前的必然性。设想“你在跑”是假 *positum*，而你实际站在大学讲堂里参加义务论辩：按伯利，若考虑你在跑这一可能性，由于当前的必然性，它须归到别的时刻——你现在不能跑，因为你现在站着；但稍后当然可以跑。（Kretzmann and Stump 1988, 394。）[^kretzmann-1988]
+  - id: 64
+    kind: body
+    source: |-
+      Duns Scotus denied the necessity of the present and thought that it need not be incoherent to consider actually false propositions as possible at the present instant. That you are standing does not exclude that you are running is a logical possibility, it only excludes actual running. This kind of thinking has been found to reflect a major change in how alethic modalities are conceived. After Scotus, many thinkers thought of modalities as related to conceivability and logic, and not so much as based on being in someone’s power, or true at some time or other. That is, the possibility of a proposition became taken to be an issue unrelated to the flow of time.
+    step1: |-
+      邓斯·司各脱否认当前的必然性，认为把实际为假的命题视为在当前瞬间可能，未必不自洽。“你站着”并不排除“你在跑”在逻辑上可能，只排除实际在跑。这种想法被认为反映了真势模态构想方式的一大变化。司各脱之后，许多思想家把模态与可设想性和逻辑联系起来，而不那么看作基于某人能力所及、或在某时或他时为真。也就是说，命题的可能性被视为与时流无关的问题。
+    step2: |-
+      邓斯·司各脱否认当前的必然性，认为把实际为假的命题视为在当前瞬间可能，未必不自洽：“你站着”并不排除“你在跑”在逻辑上可能，只排除实际在跑。这种想法被认为反映了真势模态构想方式的一大变化：司各脱之后，许多思想家把模态与可设想性和逻辑联系起来，而不那么看作基于某人能力所及或在某时为真。命题的可能性因此被视为与时流无关的问题。
+  - id: 65
+    kind: body
+    source: |-
+      This change is visible in obligations treatises. When Burley mentions denying the present instant as a useful rule, he takes up a topic that is found in the earlier treatises, but in fact not often in later treatises. It looks as if Scotus’ rejection of the rule became accepted.
+    step1: |-
+      这一变化在义务论著中可见。伯利把否认当前瞬间作为有用规则提出时，接续的是较早论著中的题目，而这一题目在后来论著中其实并不常见。看来司各脱对该规则的拒斥已被接受。
+    step2: |-
+      这一变化在义务论著中可见。伯利把否认当前瞬间作为有用规则提出，接续的是较早论著中的题目，而它在后来论著中其实并不常见。看来司各脱对该规则的拒斥已被接受。
+  - id: 66
+    kind: body
+    source: |-
+      *Counterfactual thinking*. Richard Kilvington comments on obligations in his *Sophismata* (S47; Kretzmann & Kretzmann 1990a; 1990b)[^kretzmann-1990a]. In his view, it should not be possible to force the respondent to grant any falsities whatsoever, and the order in which propositions are put forward ought not to have an effect on their evaluation. As Kilvington sees it, the respondent should grant only those falsities which would be true if the *positum* were true. Kilvington gives the following example (S47, (q); Kretzmann & Kretzmann 1990b, 127–8):
+    step1: |-
+      *反事实思维*。理查德·基尔文顿在其《诡辩题》中评论义务论（S47；Kretzmann & Kretzmann 1990a; 1990b）[^kretzmann-1990a]。在他看来，不应当有可能迫使应答者承认任何假命题；命题提出的次序也不应影响其评价。按基尔文顿，应答者只应承认那些“若 *positum* 为真便会为真”的假命题。基尔文顿给出如下例子（S47, (q)；Kretzmann & Kretzmann 1990b, 127–8）：
+    step2: |-
+      *反事实思维*。理查德·基尔文顿在《诡辩题》中评论义务论（S47；Kretzmann & Kretzmann 1990a; 1990b）[^kretzmann-1990a]。在他看来，不应当有可能迫使应答者承认任何假命题，命题提出的次序也不应影响评价。按基尔文顿，应答者只应承认那些“若 *positum* 为真便会为真”的假命题。他给出如下例子（S47, (q)；Kretzmann & Kretzmann 1990b, 127–8）：
+  - id: 67
+    kind: body
+    source: |-
+      | *Positum* | You are in Rome. | Accepted as possible. |
+      | --- | --- | --- |
+      | Proposition 1 | ‘You are in Rome’ and ‘you are a bishop’ are similar in truth value. | Denied, since you are not a bishop. |
+      | Proposition 2 | You are a bishop. | Denied, does not follow. |
+    step1: |-
+      | *Positum* | 你在罗马。 | 作为可能者被接受。 |
+      | --- | --- | --- |
+      | 命题 1 | “你在罗马”与“你是主教”真值相同。 | 否认，因为你并非主教。 |
+      | 命题 2 | 你是主教。 | 否认，推不出。 |
+    step2: |-
+      | *Positum* | 你在罗马。 | 作为可能者被接受。 |
+      | --- | --- | --- |
+      | 命题 1 | “你在罗马”与“你是主教”真值相同。 | 否认，因为你并非主教。 |
+      | 命题 2 | 你是主教。 | 否认，推不出。 |
+  - id: 68
+    kind: body
+    source: |-
+      Disputation D2
+    step1: |-
+      论辩 D2
+    step2: |-
+      论辩 D2
+  - id: 69
+    kind: body
+    source: |-
+      Assuming that the respondent is not in Rome or a bishop both of the propositions mentioned in Proposition 1 are false. According Burley’s rules, Proposition 1 would have to be granted as irrelevant and true. But after having granted Proposition 1, it may appear that Proposition 2 follows and must be granted. According to Kilvington, that should not be so. Indeed, he goes directly on to generally denying Burley’s useful rule that anything false that is compossible with the *positum* may have to be granted. By Kilvington’s comparison, the respondent is bound or obligated by the *positum* “you are in Rome” to answer as he would if he were in Rome. Thus, he ought not to grant “you are a bishop” unless he is a bishop.
+    step1: |-
+      假定应答者既不在罗马、也不是主教，则命题 1 中提到的两个命题都为假。按伯利的规则，命题 1 须作为不相关且为真而承认。但承认命题 1 之后，命题 2 似乎就推出了，必须承认。基尔文顿认为不应如此。他径直进而普遍否认伯利那条有用规则：凡与 *positum* 可共存的假命题都可能必须承认。按基尔文顿的类比，应答者受 *positum*“你在罗马”的约束或义务，须像自己身在罗马那样回答。因此，除非他是主教，他就不应承认“你是主教”。
+    step2: |-
+      假定应答者既不在罗马、也不是主教，则命题 1 提到的两个命题都为假。按伯利的规则，命题 1 须作为不相关且为真而承认；但承认命题 1 之后，命题 2 似乎就推出了，必须承认。基尔文顿认为不应如此：他径直普遍否认伯利那条有用规则——凡与 *positum* 可共存的假命题都可能必须承认。按基尔文顿的类比，应答者受 *positum*“你在罗马”约束，须像身在罗马那样回答；除非他是主教，就不应承认“你是主教”。
+  - id: 70
+    kind: body
+    source: |-
+      When concluding his discussion of the example, Kilvington describes Proposition 1 as one “that is true now and that would not be true in virtue of its being in fact as is signified by the *positum*” (S47, (cc); Kretzmann & Kretzmann 1990b, 131). Kilvington is thus inviting the respondent to think counterfactually when defending a false *positum*, and as he continues, he applies this to how one ought to answer when evaluating a sophisma. One ought to grant what would be true and deny what would be false, given the *positum*.
+    step1: |-
+      在结束对该例的讨论时，基尔文顿把命题 1 描述为“现在为真、却不会因事情实际上如 *positum* 所表示的那样而为真”的命题（S47, (cc)；Kretzmann & Kretzmann 1990b, 131）。基尔文顿由此邀请应答者在为假 *positum* 辩护时作反事实思考；他接着把这套想法用于评价诡辩时应如何作答：给定 *positum*，应承认会为真者，否认会为假者。
+    step2: |-
+      结束该例讨论时，基尔文顿把命题 1 描述为“现在为真、却不会因事情实际上如 *positum* 所表示的那样而为真”的命题（S47, (cc)；Kretzmann & Kretzmann 1990b, 131）。他由此邀请应答者在为假 *positum* 辩护时作反事实思考，并进而用于评价诡辩时的作答：给定 *positum*，应承认会为真者，否认会为假者。
+  - id: 71
+    kind: body
+    source: |-
+      An anonymous treatise *De arte obligatoria* probably from the 1330s (edited and translated from a Merton College manuscript in Kretzmann & Stump 1985)[^kretzmann-1985][^stump-1985] seems to develop a central aspect of Kilvington’s suggestion into a complete set of rules for obligational disputations. Just like Kilvington, the anonymous author thought that in an obligational disputation the order of the propositions ought not influence the answers. The core change to Burley’s rules is that rules 5. and 6. above are revised so that instead of referring to earlier answers, they must refer to propositions which would be true if the *positum* was true. Thus, a proposition must be granted as sequentially relevant, if it follows from the *positum* together with a proposition that would be true if the *positum* were true. Similarly, it has to denied as incompatibly relevant if it is incompatible with the *positum* together with a proposition that would be true if the *positum* were true. The result is that all answers must be given “in accordance with how it is possible for things to be”, or “on the basis of the facts then”, as the anonymous author puts it.
+    step1: |-
+      一篇匿名论著《义务术》（*De arte obligatoria*，大概作于 1330 年代；经 Kretzmann & Stump 1985 据默顿学院抄本校勘并英译）[^kretzmann-1985][^stump-1985]，似把基尔文顿建议的一个核心方面发展为义务论辩的完整规则集。与基尔文顿一样，匿名作者认为，在义务论辩中，命题次序不应影响回答。对伯利规则的核心改动是修订上述规则 5 与 6：不再参照先前的回答，而须参照“若 *positum* 为真便会为真”的命题。于是，命题若从 *positum* 连同“若 *positum* 为真便会为真”的某命题推出，就须作为顺序相关而承认；若与 *positum* 连同此类命题不相容，就须作为不相容相关而否认。结果是：一切回答都须“依照事情可能如何”，或如匿名作者所说，“依当时的事实”给出。
+    step2: |-
+      一篇匿名论著《义务术》（*De arte obligatoria*，约作于 1330 年代；Kretzmann & Stump 1985 据默顿学院抄本校勘并英译）[^kretzmann-1985][^stump-1985]，似把基尔文顿建议的核心方面发展为义务论辩的完整规则集。与基尔文顿一样，匿名作者认为命题次序不应影响回答。对伯利规则的核心改动，是修订上述规则 5、6：不再参照先前回答，而须参照“若 *positum* 为真便会为真”的命题。于是，命题若从 *positum* 连同此类命题推出，就须作为顺序相关而承认；若与 *positum* 连同此类命题不相容，就须作为不相容相关而否认。结果：一切回答都须“依照事情可能如何”、或如匿名作者所说“依当时的事实”给出。
+  - id: 72
+    kind: body
+    source: |-
+      This approach was not followed in later theories of *obligationes*. It may be that obligations were thought of as concerned with relations between propositions rather than building a description of a possible situation that could be imagined. The anonymous author’s approach requires the respondent to imagine what the situation would be like if the *positum* were true and give evaluations on the basis of that situation. Thus, the evaluations would not be based on the logical relations between the various propositions of the disputation itself. If obligational disputations were conceived as a tool for examining logical relations between propositions, such counterfactual thinking may not be the best way to proceed.
+    step1: |-
+      这一路数在后来的 *obligationes* 理论中未被采纳。可能因为义务论被视为处理命题之间的关系，而非建构对某个可想见情境的描述。匿名作者的路数要求应答者想象：若 *positum* 为真，情境会是什么样，并据此评价。这样一来，评价便不以论辩本身诸命题之间的逻辑关系为基础。若义务论辩被设想为考察命题间逻辑关系的工具，这种反事实思维或许不是最佳做法。
+    step2: |-
+      这一路数在后来的 *obligationes* 理论中未被采纳。义务论大概被视为处理命题之间的关系，而非建构对某个可想见情境的描述。匿名作者的路数要求应答者想象若 *positum* 为真情境会如何，并据此评价；评价便不以论辩本身诸命题之间的逻辑关系为基础。若义务论辩是考察命题间逻辑关系的工具，反事实思维或许不是最佳做法。
+  - id: 73
+    kind: body
+    source: |-
+      *Accepting contradictions*. There is also another direction into which Kilvington’s comments can be developed. In another comment on the example D2 above, Kilvington says that the respondent could grant Proposition 1 and deny Proposition 2 (S47, (bb); Kretzmann & Kretzmann 1990b, 131). His point is that when the propositions ‘you are in Rome’ and ‘you are a bishop’ are claimed to be similar in truth value, they are mentioned rather than used. Given that the meanings of these strings of words is not logically necessary, it might be that Proposition 1 (claiming that the two mentioned propositions are similar in truth value) has nothing to do with the respondent being in Rome or being a bishop. Thus, Proposition 2 does not follow from the *positum* and Proposition 1 together.
+    step1: |-
+      *接受矛盾*。基尔文顿的评论还可向另一方向发展。在对上例 D2 的另一处评论中，基尔文顿说，应答者可以承认命题 1 而否认命题 2（S47, (bb)；Kretzmann & Kretzmann 1990b, 131）。他的要点是：当人们声称“你在罗马”与“你是主教”真值相同时，这里只是提及这两个命题，并未使用它们。既然这些词串的含义并非逻辑上必然，命题 1（声称两个被提及的命题真值相同）就可能与应答者身在罗马或身为主教无关。于是，命题 2 并不从 *positum* 与命题 1 一起推出。
+    step2: |-
+      *接受矛盾*。基尔文顿的评论还可向另一方向发展。在对上例 D2 的另一处评论中，他说应答者可以承认命题 1 而否认命题 2（S47, (bb)；Kretzmann & Kretzmann 1990b, 131）。要点在于：当人们声称“你在罗马”与“你是主教”真值相同时，这里只是提及这两个命题，并未使用它们。既然这些词串的含义并非逻辑必然，命题 1（声称两个被提及命题真值相同）就可能与应答者身在罗马或身为主教无关；于是命题 2 并不从 *positum* 与命题 1 一起推出。
+  - id: 74
+    kind: body
+    source: |-
+      This approach is even stronger in a related discussion where Kilvington rejects what is nowadays called Tarskian biconditionals, or the equivalence between a proposition and the claim that the proposition is true. Logically, inferring that you are in Rome from the claim that the sentence ‘you are in Rome’ is true is valid only if ‘you are in Rome’ means that you are in Rome. (S47, (t); Kretzmann & Kretzmann 1990b, 128.)
+    step1: |-
+      这一路数在另一相关讨论中更强：基尔文顿拒斥今所谓塔斯基双条件句，即命题与“该命题为真”这一断言之间的等值。逻辑上，从“‘你在罗马’为真”推出“你在罗马”，只有在“‘你在罗马’意谓你在罗马”时才有效。（S47, (t)；Kretzmann & Kretzmann 1990b, 128。）
+    step2: |-
+      这一路数在另一相关讨论中更强：基尔文顿拒斥今所谓塔斯基双条件句，即命题与“该命题为真”之间的等值。逻辑上，从“‘你在罗马’为真”推出“你在罗马”，只在“‘你在罗马’意谓你在罗马”时才有效。（S47, (t)；Kretzmann & Kretzmann 1990b, 128。）
+  - id: 75
+    kind: body
+    source: |-
+      It seems that in his treatise on *obligationes*, Roger Swyneshed developed his rules for obligational disputations with an approach like this (the text is edited in Spade 1977)[^spade-1977]. Especially interesting in this respect is his discussion on *impositio*, or the kind of obligational disputation where a new meaning is given to some linguistic entity. According to Swyneshed, even if the respondent were obligated by the *impositio* that ‘you are a donkey’ means that God exists, the respondent must deny being a donkey. The proposition “‘you are a donkey’ is true” must however be granted. According to Swyneshed’s principle, “because of an *impositio* of some proposition the answer to be given to it is not to be changed” (Spade 1977, 254)[^spade-1977]. It seems thus that the *impositio* influences only situations where the proposition at issue is mentioned rather than used.
+    step1: |-
+      看来罗杰·斯温舍德在其 *obligationes* 论著中，正是以类似路数发展其义务论辩规则（文本见 Spade 1977 校勘）[^spade-1977]。尤有趣的是他对 *impositio* 的讨论，即赋予某个语言实体以新含义的那类义务论辩。按斯温舍德，即便应答者因 *impositio* 而有义务把“你是驴”理解为上帝存在，他仍必须否认自己是驴；然而命题“‘你是驴’为真”却必须承认。按斯温舍德的原则，“因对某命题作了 *impositio*，对该命题应给出的回答并不因此改变”（Spade 1977, 254）[^spade-1977]。看来 *impositio* 只影响那种只提及命题、不使用命题的情形。
+    step2: |-
+      看来罗杰·斯温舍德在 *obligationes* 论著中，正是以类似路数发展其义务论辩规则（文本见 Spade 1977 校勘）[^spade-1977]。尤有趣的是他对 *impositio* 的讨论，即赋予某个语言实体以新含义的那类义务论辩。按斯温舍德，即便应答者因 *impositio* 而有义务把“你是驴”理解为上帝存在，他仍须否认自己是驴；然而命题“‘你是驴’为真”却必须承认。按他的原则，“因对某命题作了 *impositio*，对该命题应给出的回答并不因此改变”（Spade 1977, 254）[^spade-1977]。看来 *impositio* 只影响那种只提及命题、不使用命题的情形。
+  - id: 76
+    kind: body
+    source: |-
+      Recent scholarship has found Swyneshed’s rules for *positio* more puzzling (see e.g., Spade 1982; Stump 1981; Yrjönsuuri 1994 and 2001)[^yrjönsuuri-2001][^spade-1982][^stump-1981][^yrjönsuuri-1994]. They are very clear in terms of how to answer according to them, but it seems very problematic to give a sensible interpretation to the set of evaluations to be given according to them. Swyneshed simply rejects Burley’s rules 5 and 6. Just like Kilvington and the above-mentioned anonymous author of *De arte obligatoria*, Swyneshed does not allow the order of the propositions to have any effect on the answers. However, he does not allow counterfactual considerations either, but rather thinks that the respondent must rely on logical relations between the propositions in giving the evaluations.
+    step1: |-
+      晚近研究认为斯温舍德的 *positio* 规则更令人费解（如见 Spade 1982; Stump 1981; Yrjönsuuri 1994 and 2001）[^yrjönsuuri-2001][^spade-1982][^stump-1981][^yrjönsuuri-1994]。按这些规则如何作答，非常清楚；但要对按之给出的一套评价作出合理阐释，却似很成问题。斯温舍德径直拒斥伯利的规则 5 与 6。与基尔文顿及上述《义务术》匿名作者一样，他不容许命题次序对回答有任何影响；但他也不容许反事实考虑，而认为应答者在评价时须依靠命题之间的逻辑关系。
+    step2: |-
+      晚近研究认为斯温舍德的 *positio* 规则更令人费解（如见 Spade 1982; Stump 1981; Yrjönsuuri 1994 and 2001）[^yrjönsuuri-2001][^spade-1982][^stump-1981][^yrjönsuuri-1994]。按这些规则如何作答非常清楚，但要对按之给出的一套评价作合理阐释，却似很成问题。斯温舍德径直拒斥伯利规则 5、6：与基尔文顿及《义务术》匿名作者一样，他不容许命题次序影响回答；但他也不容许反事实考虑，而认为应答者评价时须依靠命题之间的逻辑关系。
+  - id: 77
+    kind: body
+    source: |-
+      As Swyneshed recognizes, his rules may lead the respondent into granting triads or larger sets of propositions containing contradictions. In his formulation, “the conclusion must be granted that three incompatible propositions must be granted, and four, and so on” (Spade 1977, 274)[^spade-1977]. The sequence of propositions in D1 above is an example of this. The respondent cannot according to Swyneshed rely on Burley’s rule 5 to grant Proposition 2. Instead, the respondent should grant a disjunction but deny both of its parts. Also, it may happen that a conjunction must be denied despite granting both of its parts. These structural combinations are explicitly accepted by Swyneshed (Spade 1977, 257)[^spade-1977].
+    step1: |-
+      斯温舍德自己承认，他的规则可能使应答者承认含有矛盾的三元组或更大的命题集。用他的话，“必须承认三个不相容命题必须承认这一结论，四个亦然，如此等等”（Spade 1977, 274）[^spade-1977]。上文 D1 的命题序列即为一例。按斯温舍德，应答者不能借伯利的规则 5 承认命题 2，而应承认一个析取命题、却否认其两个析取支。也可能出现必须否认一个合取命题、却承认其两个合取支的情形。斯温舍德明确接受这些结构组合（Spade 1977, 257）[^spade-1977]。
+    step2: |-
+      斯温舍德自己承认，他的规则可能使应答者承认含矛盾的三元组或更大命题集。用他的话，“必须承认三个不相容命题必须承认这一结论，四个亦然，如此等等”（Spade 1977, 274）[^spade-1977]。上文 D1 的序列即为一例：按斯温舍德，应答者不能借伯利规则 5 承认命题 2，而应承认析取命题却否认两个析取支；也可能必须否认合取命题却承认两个合取支。他明确接受这些结构组合（Spade 1977, 257）[^spade-1977]。
+  - id: 78
+    kind: body
+    source: |-
+      It must be kept in mind that in each case of granting a contradictory set by Swyneshed’s rules, at least one evaluation is given on the basis of one proposition being relevant, and at least one other answer on the basis of that proposition being irrelevant. Thus, if the evaluations of irrelevant propositions were not allowed to be mixed with evaluations of relevant ones, these contradictions would not arise. However, it seems that this is not how Swyneshed thought about the rules, since he explicitly allows the contradictions without discussing the idea of two domains of interpretation.
+    step1: |-
+      须记住，按斯温舍德规则出现承认矛盾集的每一情形，都至少有一项评价基于某命题相关，至少另有某项回答基于该命题不相关。于是，若不允许把不相关命题的评价与相关命题的评价混在一起，这些矛盾就不会出现。但斯温舍德对规则的构想似乎并非如此，因为他明言容许矛盾，却不讨论两个解释域的设想。
+    step2: |-
+      须记住，按斯温舍德规则出现承认矛盾集的每一情形，都至少有一项评价基于某命题相关，至少另有某项回答基于该命题不相关。若不允许把不相关命题的评价与相关命题的评价混在一起，这些矛盾便不会出现；但斯温舍德对规则的构想似乎并非如此：他明言容许矛盾，却不讨论两个解释域的设想。
+  - id: 79
+    kind: body
+    source: |-
+      In the context of obligations, Swyneshed does not say that it would be acceptable to grant or deny a contradictory pair of propositions in the same disputation: he discusses contradictory triads, not pairs. However, in his discussion on the Liar’s paradox, he goes as far as explicitly accepting that in some cases both contradictories are false (cf. Read 2020)[^read-2020]. This shows that Swyneshed’s understanding of what contradictions are and how they behave in logic is somewhat outside the logical mainstream. Thus, it may be that further study may shed more light on how exactly he thought about allowing contradictions in obligational evaluations of sets of propositions.
+    step1: |-
+      在义务论语境中，斯温舍德并未说在同一场论辩里承认或否认一对矛盾命题可以接受：他讨论的是矛盾三元组，而非对子。但在论说谎者悖论时，他走得远到明确接受：某些情形下两个矛盾命题都为假（参 Read 2020）[^read-2020]。这表明斯温舍德对矛盾是什么、矛盾在逻辑中如何运作的理解，多少在逻辑主流之外。因此，进一步研究或许更能说明：他究竟如何看待在义务评价中容许命题集含矛盾。
+    step2: |-
+      在义务论语境中，斯温舍德并未说同一场论辩里承认或否认一对矛盾命题可以接受：他讨论的是矛盾三元组，而非对子。但在论说谎者悖论时，他走得远到明确接受某些情形下两个矛盾命题都为假（参 Read 2020）[^read-2020]。这表明他对矛盾为何、矛盾在逻辑中如何运作的理解，多少在逻辑主流之外；进一步研究或许更能说明他究竟如何看待在义务评价中容许命题集含矛盾。
+  - id: 80
+    kind: body
+    source: |-
+      Historically, it seems that counterfactual thinking as an approach to obligations was mainly rejected, but Swyneshed’s approach garnered some following. Both of these approaches appear to take issue with Burley’s principle that the order of propositions has crucial significance in how they are to be evaluated. Since Swyneshed’s way of rejecting this principle found some followers, this fact may signal that his approach was taken to be closer to what really is at issue in obligations as a genre of logic. However, generally speaking Burley’s approach became the mainstream towards the end of the fourteenth century. Perhaps, taking the order of propositions into account was taken to be less problematic than Swyneshed’s acceptance of contradictory triads.
+    step1: |-
+      从历史看，作为义务论路数的反事实思维大体被拒斥，而斯温舍德的路数获得了一些追随者。这两种路数似乎都对伯利的一条原理有异议：命题次序对如何评价有决定性意义。既然斯温舍德拒斥该原理的方式赢得了一些追随者，这或许意味着：他的路数被认为更接近义务论作为逻辑文类真正关切的东西。然而总体而言，到 14 世纪末，伯利的路数成为主流。也许，把命题次序纳入考虑，被认为不像斯温舍德接受矛盾三元组那样成问题。
+    step2: |-
+      从历史看，作为义务论路数的反事实思维大体被拒斥，斯温舍德的路数却获得一些追随者。两种路数似乎都对伯利的一条原理有异议：命题次序对评价有决定性意义。既然斯温舍德拒斥该原理的方式赢得追随者，这或许意味着他的路数更接近义务论作为逻辑文类真正关切者。然而总体而言，到 14 世纪末伯利的路数成为主流：也许把命题次序纳入考虑，被认为不像斯温舍德接受矛盾三元组那样成问题。
+  - id: 81
+    kind: body
+    source: |-
+      ## 5. Winning the game
+    step1: |-
+      ## 5. 赢下这场游戏
+    step2: |-
+      ## 5 赢下这场游戏
+  - id: 82
+    kind: body
+    source: |-
+      If we look at obligational disputations from the modern logical point of view, it may appear hard to understand how the sequence of answers should be understood. One tempting alternative would be to think that the idea would be to describe a counterfactual situation. As pointed out above, this may be what Kilvington and the anonymous author were aiming at. (See also Spade 1982, 1992, and 1993.)[^spade-1982] However, the mainstream of medieval authors writing on obligations did not accept their approach.
+    step1: |-
+      若从现代逻辑角度看义务论辩，会难以理解应答序列应如何理解。一个诱人的选项是：其想法在于描述一个反事实情境。如前所述，这或许正是基尔文顿与匿名作者的目标。（另见 Spade 1982, 1992, and 1993。）[^spade-1982] 然而中世纪论义务的主流作者并未接受他们的路数。
+    step2: |-
+      从现代逻辑角度看义务论辩，应答序列应如何理解，颇难把握。一个诱人的选项是：其想法在于描述反事实情境——如前所述，这或许正是基尔文顿与匿名作者的目标（另见 Spade 1982, 1992, and 1993）[^spade-1982]。然而中世纪论义务的主流作者并未接受这一路数。
+  - id: 83
+    kind: body
+    source: |-
+      The mainstream understanding of the current research into the obligations treatises seems to emphasize in different ways that according to the standard approach (exemplified here by Burley’s rules) the set of all answers will be consistent. Thus, it may seem reasonable to understand obligational disputations as a kind of consistency maintenance game. Given that in modern logic the concept of a possible world is often understood in terms of what a potentially infinite consistent set of sentences describes, the sequence of answers in an obligational disputation can perhaps be interpreted as an expanding description of a possible world.
+    step1: |-
+      当前研究对义务论著的主流理解，似乎以不同方式强调：按标准路数（此处以伯利规则为例），一切回答的集合将保持融贯。于是，把义务论辩理解为一种融贯性维持游戏，似乎合情合理。既然现代逻辑常以潜在无限的融贯句子集所描述者来理解可能世界，义务论辩中的应答序列或可解释为对某个可能世界的扩展描述。
+    step2: |-
+      当前研究对义务论著的主流理解，似乎以不同方式强调：按标准路数（此处以伯利规则为例），一切回答的集合将保持融贯。于是把义务论辩理解为一种融贯性维持游戏，似乎合情合理。现代逻辑常以潜在无限的融贯句子集所描述者理解可能世界；据此，义务论辩的应答序列或可解释为对某个可能世界的扩展描述。
+  - id: 84
+    kind: body
+    source: |-
+      The problem with this interpretation is that it does not fit Swyneshed’s rules, which were accepted by some authors as a viable alternative to Burley’s approach. As the rules stand, the set of all answers cannot be understood as a description of a possible world, because it need not be consistent. The set of answers to relevant propositions is consistent even according to Swyneshed’s rules, but understanding that set as describing a possible world runs into the difficulty that that set does not expand from the logical closure of the *positum*, and thus it does not describe any possible world more fully than the *positum* alone.
+    step1: |-
+      这一解释的问题在于不合斯温舍德的规则，而后者曾被一些作者接受为伯利路数的可行替代。按这些规则，一切回答的集合不能理解为对某个可能世界的描述，因为它不必融贯。即便按斯温舍德规则，对相关命题的回答集合也是融贯的；但把该集合理解为描述一个可能世界，会遇到困难：该集合并不从 *positum* 的逻辑闭包扩展，因而并不比 *positum* 本身更完整地描述任何可能世界。
+    step2: |-
+      这一解释的问题在于不合斯温舍德的规则，而后者曾被一些作者当作伯利路数的可行替代。按这些规则，一切回答的集合不能理解为对某个可能世界的描述，因为它不必融贯。即便按斯温舍德规则，对相关命题的回答集合也是融贯的；但把该集合理解为可能世界的描述则遇困难：它不从 *positum* 的逻辑闭包扩展，因而并不比 *positum* 本身更完整地描述任何可能世界。
+  - id: 85
+    kind: body
+    source: |-
+      A crucial feature of the Socratic *elenchus* is that the answerer is led to deny what has already been granted. Avoiding it to happen that the respondent denies the *positum* is a central objective in an obligational disputation, and Burley’s rules appear to require that this objective is achieved through a consistent sequence of answers. Swyneshed allows contradictory triads. In other words, the set of answers may become inconsistent but the respondent is not allowed to grant any “contradictory incompatible with the *positum*” (Spade 1977, 274)[^spade-1977]. It appears that even in Swyneshed’s case a crucial interest is to explicate logical relations between the propositions put forward by the opponent, and especially as they relate to the *positum*. As a general description of what obligational disputations were about, consistency may not be exactly the right word. Perhaps it would be more exact to describe obligations as aiming at a dynamic understanding of logical relations within a set of propositions.
+    step1: |-
+      苏格拉底式驳诘的关键特征是：作答者被引向否认已经承认的东西。避免应答者否认 *positum*，是义务论辩的核心目标；伯利的规则似乎要求：这一目标要通过融贯的回答序列来实现。斯温舍德却容许矛盾三元组。换言之，回答集合可能变得不融贯，但不允许应答者承认任何“与 *positum* 不相容的矛盾”（Spade 1977, 274）[^spade-1977]。看来即便在斯温舍德那里，核心兴趣也在于阐明提问者所提命题之间的逻辑关系，尤其是它们与 *positum* 的关系。作为对义务论辩之所是的总体描述，“融贯性”或许并不确切；更确切的说法也许是：义务论旨在动态地理解一组命题内部的逻辑关系。
+    step2: |-
+      苏格拉底式驳诘的关键特征，是作答者被引向否认已经承认的东西。避免应答者否认 *positum* 是义务论辩的核心目标，伯利规则似乎要求通过融贯的回答序列来实现它；斯温舍德却容许矛盾三元组：回答集合可能变得不融贯，但不允许应答者承认任何“与 *positum* 不相容的矛盾”（Spade 1977, 274）[^spade-1977]。看来即便在斯温舍德那里，核心兴趣也在于阐明提问者所提命题之间的逻辑关系、尤其是它们与 *positum* 的关系。总体描述义务论辩之所是，“融贯性”或许并不确切；更确切的说法也许是：义务论旨在动态地理解一组命题内部的逻辑关系。
+  - id: 86
+    kind: body
+    source: |-
+      The square of opposition was an important tool in Aristotelian logic for understanding contradiction and other relations between pairs of assertoric predicative propositions formed with the same categorematic terms. As has been recognized, John Buridan and other logicians expanded this theory to the octagon of opposition to cover also modal propositions. Obligational disputations can be understood as an expansion into another direction. An obligational disputation abstracts from the predication as the standard form of proposition and turns from the binary logical relations into examining logical relations within a dynamically constructed sequence of propositions. (Cf. especially Dutilh Novaes 2005; 2007; 2011; Dutilh Novaes and Uckelman 2016; Strobino 2011; Uckelman 2013; Yrjönsuuri 2000; 2015.)[^dutilh-2005][^dutilh-2016][^strobino-2011][^uckelman-2013][^yrjönsuuri-2000]
+    step1: |-
+      在亚里士多德逻辑中，对当方阵是理解矛盾及其他关系的重要工具，这些关系见于由相同范畴词项构成的断言性谓述命题之间。学界已认识到，约翰·布里丹等逻辑学家把这一理论扩展为对当八边形，以涵盖模态命题。义务论辩可理解为向另一方向的扩展：它抽离作为命题标准形式的谓述，从二元逻辑关系转向考察动态建构的命题序列内部的逻辑关系。（尤参 Dutilh Novaes 2005; 2007; 2011; Dutilh Novaes and Uckelman 2016; Strobino 2011; Uckelman 2013; Yrjönsuuri 2000; 2015。）[^dutilh-2005][^dutilh-2016][^strobino-2011][^uckelman-2013][^yrjönsuuri-2000]
+    step2: |-
+      在亚里士多德逻辑中，对当方阵是理解矛盾等关系的重要工具，这些关系见于由相同范畴词项构成的断言性谓述命题之间。学界已认识到，约翰·布里丹等逻辑学家把这一理论扩展为对当八边形，以涵盖模态命题；义务论辩则可理解为向另一方向的扩展：它抽离作为命题标准形式的谓述，从二元逻辑关系转向考察动态建构的命题序列内部的逻辑关系。（尤参 Dutilh Novaes 2005; 2007; 2011; Dutilh Novaes and Uckelman 2016; Strobino 2011; Uckelman 2013; Yrjönsuuri 2000; 2015。）[^dutilh-2005][^dutilh-2016][^strobino-2011][^uckelman-2013][^yrjönsuuri-2000]
+  - id: 87
+    kind: body
+    source: |-
+      In his discussion of *obligationes* from the very end of the fourteenth century, Paul of Venice compares obligations with another genre of logic, saying that “the matter of obligations is only the matter of consequences in a more subtle style” (Paul of Venice in Ashworth 1988, 32)[^paul-1988][^ashworth-1988]. One aspect of what Paul of Venice means by this statement is presumably that both obligations and consequences are concerned with non-syllogistic logic. To this extent, this description of the theory of *obligationes* seems correct even from the modern vantage point. However, it does not seem quite right to think that an obligational disputation would try to spell out the logical relation between an antecedent and a consequent, or even a set of premises and a conclusion. The logical relations considered in an obligational disputation are not distinctively binary. It seems that they are often approached as logical relations becoming explicit only in a dynamic sequence of three or more propositions.
+    step1: |-
+      在 14 世纪末的 *obligationes* 讨论中，威尼斯的保罗把义务论与另一逻辑文类相比，说“义务论的材料只是以后承的材料，只是风格更精细”（Paul of Venice in Ashworth 1988, 32）[^paul-1988][^ashworth-1988]。他这句话的一个意思大概是：义务论与后承都关涉非三段论逻辑。就此而言，即便从现代视角看，这一描述也似正确。但若认为义务论辩试图阐明前件与后件、甚至一组前提与结论之间的逻辑关系，则似不十分确当：义务论辩所考察的逻辑关系并非特有的二元关系，而往往被当作只在一个动态的三元或更多命题序列中才显明的逻辑关系来处理。
+    step2: |-
+      在 14 世纪末的 *obligationes* 讨论中，威尼斯的保罗把义务论与另一逻辑文类相比，说“义务论的材料只是以后承的材料，只是风格更精细”（Paul of Venice in Ashworth 1988, 32）[^paul-1988][^ashworth-1988]。这大约是说：义务论与后承都关涉非三段论逻辑——就此而言，即便从现代视角看，这一描述也似正确。但若认为义务论辩试图阐明前件与后件、甚至一组前提与结论之间的逻辑关系，则似不确当。义务论辩所考察的逻辑关系并非特有的二元关系，而往往被当作只在一个动态的三元或更多命题序列中才显明的关系。
+  - id: 88
+    kind: oir
+    source: |-
+      - Spade, Paul Vincent and Mikko Yrjönsuuri, “Obligationes”, *Stanford Encyclopedia of Philosophy* (Winter 2021 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2021/entries/obligationes/](https://plato.stanford.edu/archives/win2021/entries/obligationes/)>. [This was the previous entry on this topic in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=obligationes).]
+      - Spade, Paul Vincent, 1996. “[Three Questions by John of Wesel on *Obligationes* and *Insolubilia*](http://pvspade.com/Logic/docs/wesel.pdf),” online manuscript.
+    step1: |-
+      - Spade, Paul Vincent and Mikko Yrjönsuuri, “Obligationes”, *Stanford Encyclopedia of Philosophy* (Winter 2021 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2021/entries/obligationes/](https://plato.stanford.edu/archives/win2021/entries/obligationes/)>。［这是本主题在《斯坦福哲学百科全书》中的前一词条，见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=obligationes)。］
+      - Spade, Paul Vincent, 1996. “[Three Questions by John of Wesel on *Obligationes* and *Insolubilia*](http://pvspade.com/Logic/docs/wesel.pdf),” online manuscript.
+    step2: |-
+      - Spade, Paul Vincent and Mikko Yrjönsuuri, “Obligationes”, *Stanford Encyclopedia of Philosophy* (Winter 2021 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2021/entries/obligationes/](https://plato.stanford.edu/archives/win2021/entries/obligationes/)>。［这是本主题在《斯坦福哲学百科全书》中的前一词条，见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=obligationes)。］
+      - Spade, Paul Vincent, 1996. “[Three Questions by John of Wesel on *Obligationes* and *Insolubilia*](http://pvspade.com/Logic/docs/wesel.pdf),” online manuscript.
+  - id: 89
+    kind: note
+    source: |-
+      [^note-1]: Spade spells the name as ‘Fland’. See Read and Thakkar 2016 on correcting the spelling.
+    step1: |-
+      [^note-1]: Spade 把名字拼作“Fland”。关于拼写订正，见 Read and Thakkar 2016。
+    step2: |-
+      [^note-1]: Spade 把名字拼作“Fland”；拼写订正见 Read and Thakkar 2016。
+  - id: 90
+    kind: note
+    source: |-
+      [^note-2]: Medieval logicians did not discuss propositions as abstract entities of the Fregean type but rather thought of the logical truth carrier as an actual uttered or written indicative sentence. In modern discussions of medieval logic, the Latin word ‘*propositio*’ is therefore usually translated as ‘proposition’, and the entry follows suit here.
+    step1: |-
+      [^note-2]: 中世纪逻辑学家不把命题当作弗雷格式的抽象实体讨论，而把逻辑真理的承担者设想为实际说出或写下的直陈句。因此，在现代的中世纪逻辑研究中，拉丁词“*propositio*”通常译作“命题”，本词条沿用。
+    step2: |-
+      [^note-2]: 中世纪逻辑学家不把命题当作弗雷格式抽象实体讨论，而把逻辑真理的承担者设想为实际说出或写下的直陈句。因此，现代的中世纪逻辑研究通常把拉丁词“*propositio*”译作“命题”，本词条沿用。

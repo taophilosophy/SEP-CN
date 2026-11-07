@@ -1,0 +1,29 @@
+{
+  "slug": "obligationes",
+  "kind": "retranslate",
+  "zh_doc": "o/obligationes.md",
+  "state": "drafted",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T00:34:57Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T00:36:28Z",
+      "evidence": "双版账本 90 段（body=87+oir=1+note=2，文献 80 条照录）落盘，lq check 守恒绿（* 计数差异均为拉丁/英文斜体条目转书名号或术语并入）；compose 26,162 字符/43,723 字节；postfix 补 H1 空行、列表 * 化；italic_to_bold 5 行；check_style --strict 0；check_academic 硬错误 0；prose 首轮 9→0 已在落盘前修净（长句 3 拆、『被』堆叠 4 改、弱动词 2 改）。"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-07T00:30:15Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 19, 2022",
+    "archive_edition": "Spring 2022",
+    "sha256": "8662d1e902b2543beb8942afaa0c5f6901a2f9be1349b88002af2b25fad1a20f"
+  }
+}
