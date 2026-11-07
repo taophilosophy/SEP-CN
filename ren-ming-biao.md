@@ -15,6 +15,7 @@
 | Abuʼl-Khayr, Abū Saʿīd | — | 阿布·赛义德·阿布·海尔 | arabic-islamic-mysticism | 苏非史通行音译 | 2026-11-07 |
 | Addams, Jane | — | 简·亚当斯 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Adolf Reinach | — | 阿道夫·莱纳赫 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Aëtius | — | 埃提乌斯 | 首现（xenophanes） | 学界通行汉译（古希腊学说汇编者）；凭证 2026-11-07 | 2026-11-07 |
 | Alain LeRoy Locke | — | 阿兰·勒罗伊·洛克 | alexander-crummell | 学界通行汉译（SUMMARY 定名沿用，alain-locke 词条既名） | 2026-11-07 |
 | Alain Locke | — | 阿兰·勒罗伊·洛克（亦作 阿兰·洛克） | 语料回收（全目录）；alain-locke/alexander-crummell | 学界通行汉译；SUMMARY 定名优先（2026-11-07 校正，与 Alain LeRoy Locke 行归一） | 2026-10-31 |
 | Albalag, Isaac | — | 以撒·阿尔巴拉格 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
@@ -88,6 +89,7 @@
 | Cantor, Georg | — | 康托尔 | 语料回收（mathematics-inconsistent 首译） | 数学界千年通行汉译（集合论创始人）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Buffon, Georges-Louis Leclerc de | — | 布丰 | 语料回收（molyneux-problem 首译） | 学界通行汉译（法国博物学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Carugo, Adriano | — | 卡鲁戈 | duhem | 全名汉译『阿德里亚诺·卡鲁戈』，正文简名首现括注；学界惯例（科学史研究通行音译）；凭证 2026-11-06 | 2026-11-06 |
+| Casaubon, Méric | — | 梅里克·卡索邦 | 首现（xenophanes） | 学界通行汉译（古典学者）；凭证 2026-11-07 | 2026-11-07 |
 | Cassirer, Ernst | — | 恩斯特·卡西尔 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Catharine MacKinnon | — | 凯瑟琳·麦金农 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Cauchy, Augustin-Louis | — | 柯西 | 语料回收（lakatos 首译） | 数学界千年通行汉译（法国数学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
@@ -103,6 +105,7 @@
 | Cicero, Marcus Tullius | — | 西塞罗 | dialectical-school | 学界千年通行汉译（《论命运》《学园篇》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Cinque (Joseph Cinqué) | — | 辛凯 | alexander-crummell | 阿米斯塔德号暴动领袖通行译名 | 2026-11-07 |
 | Clayman, D. | — | 克莱曼 | 首现（timon-phlius） | 学界惯例（2009 年第蒙研究作者；音译）；凭证 2026-11-07 | 2026-11-07 |
+| Clement of Alexandria | — | 亚历山大的克莱门 | 首现（xenophanes） | 学界通行汉译（教父）；凭证 2026-11-07 | 2026-11-07 |
 | Clinomachus of Thurii | — | 图里伊的克利诺马科斯 | dialectical-school | 学界通行汉译（欧布里德门生，DL 2.112 首论谓词与命题）；凭证 2026-11-07 | 2026-11-07 |
 | Cockburn, Catharine Trotter | — | 凯瑟琳·特洛特·考克本 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Confucius | — | 孔子 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
@@ -160,16 +163,19 @@
 | Einstein, Albert | — | 爱因斯坦 | 语料回收（lakatos 首译） | 学界千年通行汉译；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Emil Lask | — | 埃米尔·拉斯克 | 语料回收（全目录） | 学界惯例（新康德主义（西南学派））；凭证 2026-11-01 | 2026-11-01 |
 | Epictetus | — | 爱比克泰德 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
+| Epimenides | — | 埃庇米尼得斯 | 首现（xenophanes） | 学界通行汉译（克里特先知）；凭证 2026-11-07 | 2026-11-07 |
 | Ernest Sosa | — | 欧内斯特·索萨 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Ernst Mayr | — | 恩斯特·迈尔 | 语料回收（全目录） | 审定“迈尔”在案（生物学）；凭证 2026-11-01 | 2026-11-01 |
 | Ernst Zermelo | — | 恩斯特·策梅洛 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Eubulides of Miletus | — | 米利都的欧布里德 | dialectical-school | 学界通行汉译（欧布里德悖论〔说谎者等〕之作者，辩证传统所自出）；凭证 2026-11-07 | 2026-11-07 |
 | Euclides of Megara | — | 麦加拉的欧克里德 | dialectical-school | 学界通行汉译（麦加拉学派创立者，苏格拉底式对话作者；与几何学家欧几里得译名异人）；凭证 2026-11-07 | 2026-11-07 |
 | Euphantus of Olyntus | — | 奥林托斯的欧凡托斯 | dialectical-school | 学界通行汉译（欧布里德门生，或为学派最早成员）；凭证 2026-11-07 | 2026-11-07 |
+| Euripides | — | 欧里庇得斯 | 首现（xenophanes） | 学界通行汉译（悲剧诗人）；凭证 2026-11-07 | 2026-11-07 |
 | Eusebius | — | 优西比乌 | 首现（timon-phlius） | 学界通行汉译（凯撒利亚主教，《福音准备》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Fang Muru | — | 方楘如 | dai-zhen | 上游自带汉字；学界通行（清代学者，戴震所承写作原则出处）；凭证 2026-11-07 | 2026-11-07 |
 | Felsenstein, Joseph | — | 约瑟夫·费尔森斯坦 | biology-philosophy | 学界通行汉译（系统发生学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Ferguson, Sally | — | Sally Ferguson（现代学者，保留英文） | biology-philosophy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Feuerbach | — | 费尔巴哈 | 首现（xenophanes） | 学界通行汉译（宗教批判）；凭证 2026-11-07 | 2026-11-07 |
 | Feuerbach, Ludwig | — | 路德维希·费尔巴哈 | bloch | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Findiriskī, Mīr | — | 米尔·芬迪里斯基 | arabic-islamic-mysticism | 萨德拉学派通行音译 | 2026-11-07 |
 | Flynn, James | — | 弗林 | 语料回收（lakatos 首译） | 心理学界通行汉译（弗林效应发现者）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
@@ -179,6 +185,7 @@
 | Francis of Assisi, St. | — | 亚西西的圣方济各 | arabic-islamic-mysticism | 基督教史通行汉译 | 2026-11-07 |
 | Fred Dretske | — | 弗雷德·德雷斯基 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Frederick Douglass | — | 弗雷德里克·道格拉斯 | alexander-crummell | SUMMARY 定名沿用（frederick-douglass 词条既名） | 2026-11-07 |
+| Freud | — | 弗洛伊德 | 首现（xenophanes） | 学界通行汉译（精神分析）；凭证 2026-11-07 | 2026-11-07 |
 | Friedrich Schiller | — | 弗里德里希·席勒 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Friedrich Schleiermacher | — | 弗里德里希·施莱尔马赫 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Friedrich Waismann | — | 弗里德里希·魏斯曼 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -218,10 +225,12 @@
 | Hermann Diels | — | 赫尔曼·第尔斯 | 语料回收（全目录） | 学界惯例（前苏格拉底残篇编者（DK 本））；凭证 2026-11-01 | 2026-11-01 |
 | Helmholtz, Hermann von | — | 赫尔曼·冯·亥姆霍兹 | SUMMARY 定名（h/hermann-helmholtz.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Hermite, Charles | — | 夏尔·埃尔米特 | duhem | 学界惯例（数学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
+| Herodian | — | 赫罗迪安 | 首现（xenophanes） | 学界通行汉译（语法学家）；凭证 2026-11-07 | 2026-11-07 |
 | Heytesbury, William | — | 威廉·海特斯伯里 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Hilary Putnam | — | 希拉里·普特南 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Hillel Steiner | — | 希勒尔·斯坦纳 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Hippobotus | — | 希波博图斯 | dialectical-school | 学界通行汉译（较早的学派史家，不认辩证派为独立宗派）；凭证 2026-11-07 | 2026-11-07 |
+| Hippolytus | — | 希波吕托斯 | 首现（xenophanes） | 学界通行汉译（《驳斥一切异端》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Hirsch, Emil | — | 埃米尔·赫希 | albo-joseph | JewishEncyclopedia.com 条目作者音译 | 2026-11-07 |
 | Holz, Hans Heinz | — | 汉斯·海因茨·霍尔茨 | bloch | 学界通行音译；凭证 2026-11-07 | 2026-11-07 |
 | Hu Shi | — | 胡适 | dai-zhen | 上游自带汉字；学界通行（现代学者，《戴东原的哲学》作者）；凭证 2026-11-07 | 2026-11-07 |
@@ -232,6 +241,7 @@
 | Hypatia | — | 希帕提娅 | 首现（wisdom） | 学界通行汉译（亚历山大里亚数学家）；凭证 2026-11-07 | 2026-11-07 |
 | Ibn Masarrah | — | 伊本·马萨拉 | arabic-islamic-mysticism | 西班牙苏非哲学通行音译 | 2026-11-07 |
 | Ibn Zaddiq | Ibn Zaddiq | 伊本·扎迪克 | abraham-daud | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Iris | — | 伊里斯 | 首现（xenophanes） | 学界通行汉译（彩虹女神）；凭证 2026-11-07 | 2026-11-07 |
 | Iṣfahānī, Ibn Turkah | — | 伊本·图尔卡·伊斯法哈尼 | arabic-islamic-mysticism | 照明哲学史通行音译 | 2026-11-07 |
 | Jacques Lacan | — | 雅克·拉康 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Jacques Maritain | — | 雅克·马里旦（已废弃，见新行） | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；2026-11-07 改从 SUMMARY 站点定名“马里坦”（m/maritain 既名） | 2026-10-31 |
@@ -396,6 +406,7 @@
 | Sirhindī, Shaykh Aḥmad | — | 谢赫艾哈迈德·希尔信迪 | arabic-islamic-mysticism | 印度苏非通行音译 | 2026-11-07 |
 | Smart, J. J. C. | — | J. J. C. 斯马特 | biology-philosophy | 学界通行汉译（《功利主义：赞成与反对》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Solomon | — | 所罗门 | 首现（wisdom） | 学界通行汉译（圣经智慧传统）；凭证 2026-11-07 | 2026-11-07 |
+| Solon | — | 梭伦 | 首现（xenophanes） | 学界通行汉译（雅典立法者）；凭证 2026-11-07 | 2026-11-07 |
 | Spinoza | — | 斯宾诺莎 | 首现（truth-coherence） | 学界千年通行汉译（17 世纪荷兰哲学家）；凭证 2026-11-07 | 2026-11-07 |
 | Stewart, Dugald | — | 杜格尔德·斯图尔特 | antonio-rosmini | 苏格兰常识学派通行音译 | 2026-11-07 |
 | Stilpo | — | 斯提尔波 | 首现（timon-phlius） | 学界通行汉译（麦加拉学派哲学家）；凭证 2026-11-07 | 2026-11-07 |
@@ -406,7 +417,9 @@
 | Rosa Luxemburg | — | 罗莎·卢森堡 | luxemburg | 学界通行汉译（《卢森堡文选》通行）；待 specs/008 审定库复核 | 2026-11-03 |
 | Taftazānī | — | 塔夫塔扎尼 | arabic-islamic-mysticism | 伊斯兰神学通行音译 | 2026-11-07 |
 | Thales | — | 泰勒斯 | 首现（wisdom） | 学界通行汉译（米利都学派）；凭证 2026-11-07 | 2026-11-07 |
+| Thaumas | — | 塔乌玛斯 | 首现（xenophanes） | 学界通行汉译（海神，伊里斯之父）；凭证 2026-11-07 | 2026-11-07 |
 | Themo Judaeus | — | 特莫·尤达乌斯 | duhem | 学界惯例（中世纪学者音译）；凭证 2026-11-06 | 2026-11-06 |
+| Theodoretus | — | 塞奥多雷特 | 首现（xenophanes） | 学界通行汉译（叙利亚教父）；凭证 2026-11-07 | 2026-11-07 |
 | Theognis | — | 忒奥格尼斯 | dialectical-school | 学界通行汉译（狄奥多罗斯之女，据称逻辑学家；与麦加拉诗人忒奥格尼斯异人）；凭证 2026-11-07 | 2026-11-07 |
 | Thomas Sidney | — | 托马斯·西德尼 | alexander-crummell | 克鲁梅尔友人（19 世纪画家），音译 | 2026-11-07 |
 | Timon of Phlius | — | 斐利亚修斯的第蒙 | 首现（timon-phlius） | 学界通行汉译（皮浪门徒，讽刺诗人）；SUMMARY 定名；凭证 2026-11-07 | 2026-11-07 |
@@ -682,7 +695,7 @@
 | Plato | — | 柏拉图 | alcmaeon | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-26 |
 | Pythagoras | — | 毕达哥拉斯 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-26 |
 | Theophrastus | — | 特奥弗拉斯托斯 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-26 |
-| Xenophanes | — | 色诺芬尼 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-26 |
+| Xenophanes | — | 克塞诺芬尼（亦作“色诺芬尼”） | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-26 |
 | Diogenes Laertius | — | 第欧根尼·拉尔修 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-26 |
 | Christian Thomasius | — | 克里斯蒂安·托马修斯 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | Christian Wolff | — | 克里斯蒂安·沃尔夫 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
@@ -771,28 +784,28 @@
 | al-Fārābī / Al-Fârâbī / Abū Naṣr al-Fārābī | أبو نصر محمد الفارابي | 法拉比（亦作“阿尔·法拉比”“阿里·法拉比”） | al-farabi 集群 | 学界通行（《中国大百科全书》主译“法拉比”）；已废弃旧主译“阿里·法拉比”（中亚文献用形），发布表同步 | 2026-10-28 |
 | al-Kindī | أبو يوسف يعقوب بن إسحاق الصبّاح الكندي | 肯迪（亦作“金迪”） | al-kindi | 学界通行 | 2026-10-28 |
 | al-Ghazālī | al-Ghazālī | 安萨里（全名艾布·哈米德·穆罕默德·安萨里） | al-ghazali | 学界通行 | 2026-10-28 |
-| Abū Bakr al-Rāzī / al-Rāzī / Rhazes | — | 拉齐（医师哲学家；勿与法赫尔丁·拉齐相混） | arabic-islamic-natural | 学界通行 | 2026-10-28 |
-| Fakhr al-Dīn al-Rāzī | — | 法赫尔丁·拉齐 | arabic-islamic-* 集群 | 学界通行；与医师哲学家拉齐（Abū Bakr al-Rāzī）区分 | 2026-10-28 |
+| Abū Bakr al-Rāzī / al-Rāzī / Rhazes | أبو بكر الرازي | 拉齐（医师哲学家；勿与法赫尔丁·拉齐相混） | arabic-islamic-natural | 学界通行 | 2026-10-28 |
+| Fakhr al-Dīn al-Rāzī | فخر الدين الرازي | 法赫尔丁·拉齐 | arabic-islamic-* 集群 | 学界通行；与医师哲学家拉齐（Abū Bakr al-Rāzī）区分 | 2026-10-28 |
 | Ibn Khaldūn | ابن خلدون | 伊本·赫勒敦 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | Ibn Taymiyya | Ibn Taymiyya | 伊本·泰米叶 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | Ibn Gabirol / Solomon ibn Gabirol / Avicebron | Ibn Gabirol / Solomon ibn Gabirol / Avicebron | 伊本·加比罗尔（拉丁通行名阿维斯布朗） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | Ibn Dāwūd / Ibn Daud | — | 伊本·达乌德 | arabic-islamic-judaic | 学界通行 | 2026-10-28 |
 | Ibn al-Haytham / Alhazen | Ibn al-Haytham / Alhazen | 伊本·海赛姆（阿尔哈增） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
-| Naṣīr al-Dīn al-Ṭūsī | — | 纳西尔丁·图西 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Naṣīr al-Dīn al-Ṭūsī | نصير الدين الطوسي | 纳西尔丁·图西 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | Ibn Hazm | Ibn Hazm | 伊本·哈兹姆 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
-| Suhrawardī / al-Suhrawardī | — | 苏赫拉瓦尔迪 | suhrawardi | 学界通行 | 2026-10-28 |
-| Mullā Ṣadrā | — | 毛拉·萨德拉 | arabic-islamic-mysticism 等 | 学界通行 | 2026-10-28 |
-| Yaḥyā ibn ʿAdī | — | 叶海亚·伊本·阿迪 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
-| Ḥunayn ibn Isḥāq | — | 侯奈因·本·伊斯哈格（父，翻译家） | arabic-islamic-greek | 学界通行；与子伊沙克·本·侯奈因（Isḥāq ibn Ḥunayn）语序区分 | 2026-10-28 |
-| Isḥāq ibn Ḥunayn | — | 伊沙克·本·侯奈因（子，翻译家） | arabic-islamic-greek | 学界通行；与父侯奈因·本·伊斯哈格（Ḥunayn ibn Isḥāq）语序区分 | 2026-10-28 |
-| Abū Bishr Mattā | — | 阿布·比什尔·马塔 | al-farabi-logic | 学界通行 | 2026-10-28 |
-| Ibn Kammūna | — | 伊本·凯姆那 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
-| Ibn ʿArabī | — | 伊本·阿拉比 | arabic-islamic-mysticism | 学界通行 | 2026-10-28 |
+| Suhrawardī / al-Suhrawardī | السهروردي | 苏赫拉瓦尔迪 | suhrawardi | 学界通行 | 2026-10-28 |
+| Mullā Ṣadrā | ملا صدرا | 毛拉·萨德拉 | arabic-islamic-mysticism 等 | 学界通行 | 2026-10-28 |
+| Yaḥyā ibn ʿAdī | يحيى بن عدي | 叶海亚·伊本·阿迪 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Ḥunayn ibn Isḥāq | حنين بن إسحاق | 侯奈因·本·伊斯哈格（父，翻译家） | arabic-islamic-greek | 学界通行；与子伊沙克·本·侯奈因（Isḥāq ibn Ḥunayn）语序区分 | 2026-10-28 |
+| Isḥāq ibn Ḥunayn | إسحاق بن حنين | 伊沙克·本·侯奈因（子，翻译家） | arabic-islamic-greek | 学界通行；与父侯奈因·本·伊斯哈格（Ḥunayn ibn Isḥāq）语序区分 | 2026-10-28 |
+| Abū Bishr Mattā | أبو بشر متى بن يونس | 阿布·比什尔·马塔 | al-farabi-logic | 学界通行 | 2026-10-28 |
+| Ibn Kammūna | ابن كمونة | 伊本·凯姆那 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Ibn ʿArabī | ابن عربي | 伊本·阿拉比 | arabic-islamic-mysticism | 学界通行 | 2026-10-28 |
 | Thomas Aquinas | — | 托马斯·阿奎那 | 语料回收（全目录）、leibniz-evil | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | David Hume | — | 大卫·休谟 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | William James | — | 威廉·詹姆斯 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | ʿAyn al-Quḍāt | — | 艾因·库扎特（哈马丹的艾因·库扎特） | 语料回收（arabic-islamic-mysticism） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
-| ʿAbd al-Jabbār | — | 阿卜杜·贾巴尔（穆尔太齐赖派） | 语料回收（arabic-islamic-*） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
+| ʿAbd al-Jabbār | عبد الجبار | 阿卜杜·贾巴尔（穆尔太齐赖派） | 语料回收（arabic-islamic-*） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | Hans-Georg Gadamer | — | 汉斯-格奥尔格·伽达默尔（通称“伽达默尔”） | gadamer-aesthetics | 学界通行汉译（SUMMARY 单一事实源锚定）；审定库无相关命中（termonline-all 浏览器通道，2026-11-01） | 2026-11-01 |
 | Wilhelm Dilthey | — | 威廉·狄尔泰 | gadamer-aesthetics | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01） | 2026-11-01 |
 | Martin Heidegger | — | 马丁·海德格尔 | gadamer-aesthetics | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01） | 2026-11-01 |
@@ -1040,17 +1053,17 @@
 | Khayyam, ʿUmar | — | 欧玛尔·海亚姆 | al-qudat | 学界通行汉译（《鲁拜集》作者；SUMMARY 定名沿用） | 2026-11-06 |
 | Ghazālī, Abū Ḥāmid | — | 安萨里 | al-qudat | 学界通行汉译（SUMMARY 定名沿用） | 2026-11-06 |
 | Ghazālī, Aḥmad | — | 艾哈迈德·安萨里 | al-qudat | 学界惯例（安萨里之弟，苏菲导师） | 2026-11-06 |
-| Suhrawardī, Shihāb al-Dīn | — | 苏哈拉瓦迪 | al-qudat | 学界惯例（SUMMARY 定名沿用；光照学派） | 2026-11-06 |
+| Suhrawardī, Shihāb al-Dīn | شهاب الدين السهروردي | 苏哈拉瓦迪 | al-qudat | 学界惯例（SUMMARY 定名沿用；光照学派） | 2026-11-06 |
 | Qūnawī, Ṣadr al-Dīn | — | 库纳维 | al-qudat | 学界惯例（伊本·阿拉比后学，通行音译） | 2026-11-06 |
 | Qayṣarī, Dāwūd al- | — | 凯萨里 | al-qudat | 学界惯例（伊本·阿拉比后学，通行音译） | 2026-11-06 |
 | Fanārī, Shams al-Dīn | — | 法纳里 | al-qudat | 学界惯例（伊本·阿拉比后学，通行音译） | 2026-11-06 |
 | Dargazīnī, Qawwām al-Dīn | — | 达尔加齐尼 | al-qudat | 学界惯例（塞尔柱维齐尔，通行音译） | 2026-11-06 |
 | Nasafī, ʿAzīz al-Dīn | — | 纳萨菲 | al-qudat | 学界惯例（波斯苏菲作者，通行音译） | 2026-11-06 |
 | Jāmī, ʿAbd al-Raḥmān | — | 贾米 | al-qudat | 学界通行汉译（波斯诗人/苏菲） | 2026-11-06 |
-| Mullā Ṣadrā | — | 穆拉·萨德拉 | al-qudat | 学界通行汉译（SUMMARY 定名沿用） | 2026-11-06 |
+| Mullā Ṣadrā | ملا صدرا | 穆拉·萨德拉 | al-qudat | 学界通行汉译（SUMMARY 定名沿用） | 2026-11-06 |
 | Rūmī | جلال الدين الرومي | 鲁米 | al-qudat | 学界通行汉译（波斯苏菲诗人） | 2026-11-06 |
-| Ṭūsī, Naṣīr al-Dīn | — | 纳西尔丁·图西 | al-qudat | 学界通行汉译（马拉盖天文台） | 2026-11-06 |
-| al-Rāzī, Fakhr al-Dīn | — | 法赫尔丁·拉齐 | al-qudat | 学界惯例（SUMMARY 定名沿用） | 2026-11-06 |
+| Ṭūsī, Naṣīr al-Dīn | نصير الدين الطوسي | 纳西尔丁·图西 | al-qudat | 学界通行汉译（马拉盖天文台） | 2026-11-06 |
+| al-Rāzī, Fakhr al-Dīn | فخر الدين الرازي | 法赫尔丁·拉齐 | al-qudat | 学界惯例（SUMMARY 定名沿用） | 2026-11-06 |
 | Iblīs | — | 伊布利斯 | al-qudat | 学界惯例（《古兰经》堕落天使，通行音译） | 2026-11-06 |
 | Khidr (al-Khiḍr) | — | 希德尔 | al-qudat | 学界惯例（《古兰经》神秘人物，通行音译） | 2026-11-06 |
 

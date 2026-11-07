@@ -1678,6 +1678,17 @@
 | Five Modes | — | 五式 | 首现（timon-phlius） | 学界惯例（晚期皮浪派五种论式；Sextus）；凭证 2026-11-07 | 2026-11-07 |
 | Mode from Hypothesis | — | 基于假设的论式 | 首现（timon-phlius） | 学界惯例（五式之一；第蒙预示）；凭证 2026-11-07 | 2026-11-07 |
 | to phainomenon | — | 显现 | 首现（timon-phlius） | 学界惯例（皮浪派实践依据，appearance）；凭证 2026-11-07 | 2026-11-07 |
+| Olympiad | — | 奥林匹亚德 | 首现（xenophanes） | 学界通行（古希腊纪年）；凭证 2026-11-07 | 2026-11-07 |
+| tripartite analysis of knowledge | — | 知识的三元分析 | 首现（xenophanes） | 学界通行（JTB 三元分析）；凭证 2026-11-07 | 2026-11-07 |
+| teleology | — | 目的论 | 首现（xenophanes） | 学界通行（亚里士多德）；凭证 2026-11-07 | 2026-11-07 |
+| demythologization | — | 去神话化 | 首现（xenophanes） | 学界通行（自然现象的去神话解释）；凭证 2026-11-07 | 2026-11-07 |
+| explanans | — | 解释项 | 首现（xenophanes） | 学界通行（科学说明）；凭证 2026-11-07 | 2026-11-07 |
+| dokos | — | 臆测 | 首现（xenophanes） | 学界惯例（克塞诺芬尼 B34 用语，与知识对举）；凭证 2026-11-07 | 2026-11-07 |
+| historiê | — | 探究 | 首现（xenophanes） | 学界惯例（伊奥尼亚“探究”；正文保留斜体原词）；凭证 2026-11-07 | 2026-11-07 |
+| rhapsode | — | 诵诗人 | 首现（xenophanes） | 学界通行（古希腊职业诵诗者）；凭证 2026-11-07 | 2026-11-07 |
+| symposium | — | 会饮 | 首现（xenophanes） | 学界通行（希腊宴饮；sympotic 作会饮诗）；凭证 2026-11-07 | 2026-11-07 |
+| testimonia | — | 转述 | 首现（xenophanes） | 学界惯例（古典学 testimonia，与残篇对举）；凭证 2026-11-07 | 2026-11-07 |
+| anthropomorphism | — | 神人同形同性论 | 首现（xenophanes） | 学界通行（宗教哲学）；凭证 2026-11-07 | 2026-11-07 |
 | moral virtue | — | 道德德性 | 首现（wisdom） | 学界通行（亚里士多德伦理学）；凭证 2026-11-07 | 2026-11-07 |
 | living well | — | 过好生活 | 首现（wisdom） | 学界惯例（eudaimonia 语境下的 living well）；凭证 2026-11-07 | 2026-11-07 |
 | practical know-how | — | 实践诀窍 | 首现（wisdom） | 学界惯例（know-how 的实践义）；凭证 2026-11-07 | 2026-11-07 |
