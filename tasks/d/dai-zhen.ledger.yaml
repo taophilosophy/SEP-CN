@@ -1,0 +1,1029 @@
+version: 1
+slug: dai-zhen
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Dai Zhen 戴震 (1724–1777), also known by his courtesy name Dai Dongyuan 戴東原, was a highly accomplished scholar of the Qianlong-Jiaqing era of the Qing dynasty. His expertise encompassed a wide range of fields, including philology, phonology, mathematics, astronomy, ancient institutions, geography, chorography, and philosophy. Although his contributions to other disciplines were recognized during his lifetime, his philosophy was not widely acknowledged. Despite this, his ideas significantly influenced philosophically-minded interpreters of the Confucian *Analects* and the *Mencius*, notably Jiao Xun 焦循 (1763–1820), who frequently referenced Dai’s works in his influential book, Mengzi Zhengyi 孟子正義 (*The Correct Meaning of the Mencius*). In the early twentieth century, prominent intellectuals such as Zhang Taiyan 章太炎 (1869–1936), Liu Shipei 劉師培 (1884–1919), Liang Qichao 梁啟超 (1873–1929), and Hu Shi 胡適 (1891–1962) revived interest in Dai’s ideas. Since then, Dai has been widely regarded as the premier ethical, psychological, and metaphysical thinker of the mid-Qing dynasty.
+    step1: |-
+      戴震（1724–1777），字东原（Dai Dongyuan 戴東原），是清代乾隆—嘉庆年间成就极高的学者。其专长涵盖广泛领域，包括训诂学、音韵学、数学、天文学、古代制度、地理、方志学与哲学。虽然他的其他学科贡献在其生前即获承认，其哲学却未得到广泛认可。尽管如此，其思想深刻影响了《论语》与《孟子》的哲学化诠释者，尤其是焦循（1763–1820）——后者在其影响深远的著作《孟子正义》中频繁征引戴震的著作。二十世纪初，章太炎（1869–1936）、刘师培（1884–1919）、梁启超（1873–1929）与胡适（1891–1962）等著名知识分子重新唤起了对戴震思想的兴趣。自那时起，戴震被广泛视为清中叶最杰出的伦理、心理与形而上思想家。
+    step2: |-
+      戴震（1724–1777），字东原，是清代乾隆—嘉庆年间成就极高的学者。其专长覆盖极广：训诂学、音韵学、数学、天文学、古代制度、地理、方志学与哲学皆在其列。其他学科的贡献在他生前即获承认，哲学却未获广泛认可。尽管如此，其思想深刻影响了以哲学眼光诠释《论语》与《孟子》的学者——尤其是焦循（1763–1820），后者在其影响深远的《孟子正义》中屡屡征引戴震著作。二十世纪初，章太炎（1869–1936）、刘师培（1884–1919）、梁启超（1873–1929）、胡适（1891–1962）等著名知识分子重新唤起对戴震思想的兴趣。自此，戴震被广泛视为清中叶最杰出的伦理、心理与形而上思想家。
+  - id: 2
+    kind: body
+    source: |-
+      Dai argued that some of his influential predecessors in the Confucian tradition of the Song (960–1279) and Ming (1368–1644) dynasties, such as Zhu Xi, had in fact misunderstood the metaphysics of *dao* 道 (the Way) and its constituent patterns (*li* 理) and accordingly failed to grasp the ethical status of mundane psychological states such as wants and feelings. These errors led in turn to a misguided understanding of moral epistemology and of the process of personal ethical cultivation. For Dai, *dao* does not lie in abstract, transcendent patterns that can be realized by an appropriately clear, unsullied mind. Instead, pattern (*li*) and *dao* are inherent in concrete objects and everyday life, to be found in everyday activities such as “eating and drinking”. They are simply the appropriate order or pattern of organization of the concrete, everyday world, which can be discovered through detailed investigation based on evidence. Since patterns (*li*) are inherent in everyday life, it was an error for some Song and Ming thinkers to treat sensory desires as an obstacle to understanding and moral development. Desires or wants are an integral part of our psychology, and our shared ordinary feelings can actually be used as a guide to identifying patterns. Drawing on his encyclopedic philological knowledge of early Chinese texts, Dai employed meticulous exegesis of classical sources to argue that many of his predecessors’ purported errors stemmed from a faulty understanding of the classics. In many cases, in Dai’s view, their interpretations reflected a Daoist or Buddhist outlook, rather than what he regarded as a genuinely Confucian stance.
+    step1: |-
+      戴震指出，宋（960–1279）明（1368–1644）两代儒家传统中一些有影响的前辈——如朱熹——实际上误解了道及其构成之理的形而上学，因而未能把握欲望与情感等平凡心理状态的伦理地位。这些错误又导致对道德认识论与个人道德修养过程的误解。在戴震看来，道并不存在于可由 appropriately 清明无染之心实现的那种抽象、超越的理之中；毋宁说，理与道内在于具体事物与日常生活，见于“饮食”之类的日常活动之中。它们就是具体日常世界的适当秩序或组织之理，可通过基于证据的细致考察来发现。既然理内在于日常生活，宋明某些思想家把感官欲望当作理解与道德发展之障碍，便是一个错误。欲望或欲求是我们心理的构成部分，而我们共通的平常情感实际上可以用作辨识理的向导。戴震凭借其对早期中国文献的百科全书式训诂学知识，运用对经典文献的细致训释来论证：其前辈们所谓错误，许多源于对经典的错误理解。在戴震看来，许多情况下，他们的诠释反映的是道家或佛教的立场，而非他所认为的真正儒家立场。
+    step2: |-
+      戴震指出，宋（960–1279）明（1368–1644）两代儒家传统中一些影响深远的前辈——如朱熹——实际上误解了道及其构成之理的形而上学，因而未能把握欲望、情感这类平凡心理状态的伦理地位。这些错误又进而导致对道德认识论与个人道德修养过程的误解。在戴震看来，道并不存在于可由一颗足够清明、无染的心来实现的抽象超越之理中；毋宁说，理与道内在于具体事物与日常生活，见于“饮食”这类日常活动之中。它们就是具体日常世界的适当秩序或组织之理，可经由基于证据的细致考察来发现。理既内在于日常生活，宋明某些思想家把感官欲望当作理解与道德发展之障碍，便是错误。欲求是我们心理的构成部分，而人我共通的平常情感恰可用作辨识理的向导。戴震凭借其对早期中国文献的百科全书式训诂学知识，以对经典文献的细致训释论证：前辈们所谓的种种错误，许多源于对经典的误解。在戴震看来，多数情况下，他们的诠释反映的是道家或佛教的立场，而非他所认定的真正儒家立场。
+  - id: 3
+    kind: body
+    source: |-
+      ## 1. Life and Writings
+    step1: |-
+      ## 1. 生平与著作
+    step2: |-
+      ## 1. 生平与著作
+  - id: 4
+    kind: body
+    source: |-
+      Dai came from a poor family in Xiuning 休寧 county, Anhui 安徽 province. Because of his family’s financial constraints, Dai did not have the opportunity to study under renowned scholars during his youth. Although he attended a private school, his teacher could not provide satisfactory answers to his questions about the meaning of the terms in the classical texts. Instead, his teacher gave him dictionaries and encouraged him to continue his studies independently. Finding these dictionaries inadequate, Dai borrowed a set of the *Shisanjing Zhushu* 十三經注疏 (*Commentaries on the Thirteen Classics*) from a friend. According to Dai’s own account, at the age of 17 (by traditional Chinese reckoning, or in 1739), he developed his lifelong ambition to understand the *dao* (the right way or path of life) of the ancient sages and devised a methodology he pursued throughout his life: the chief means of understanding the *dao* is through comprehending ancient texts, he held, and to comprehend the texts thoroughly, it is necessary to understand the import of the terms in them. Such an understanding is in turn impossible without knowledge of classical institutions, terminology, and tools. Dai states:
+    step1: |-
+      戴震出身于安徽休宁县一个贫寒之家。因家庭经济拮据，戴震青年时代没有机会从学于名家。他虽入私塾就读，但先生无法就经典文辞的含义给他满意的解答，反而给他几部字典，鼓励他独立继续学习。戴震发现这些字典不够用，便从朋友处借得一部《十三经注疏》。据戴震自述，十七岁时（按中国传统计龄，即 1739 年），他立下了终身志向——理解古代圣贤的道（正确的生活道路），并确立了此后终生贯彻的方法论：理解道的主要途径是通晓古代典籍；要彻底通晓典籍，就必须理解其中的文辞含义；而要理解文辞含义，又离不开对古代制度、名物与工具的知识。戴震写道：
+    step2: |-
+      戴震出身于安徽休宁县一个贫寒之家。因家中经济拮据，青年时代的戴震没有机会从学于名家。他虽入私塾就读，但先生无法就经典文辞之义给出令他满意的解答，转而给他几部字典，鼓励他独立继续学习。戴震觉得这些字典不敷使用，便从朋友处借得一部《十三经注疏》。据戴震自述，十七岁时（按中国传统计龄，即 1739 年），他立下终身之志——理解古代圣贤的道（正确的生活道路），并确立了此后贯彻终生方法论：理解道的主要途径是通晓古代典籍；欲彻底通晓典籍，必须理解其中的文辞含义；欲理解文辞含义，又离不开对古代制度、名物与工具的知识。戴震写道：
+  - id: 5
+    kind: body
+    source: |-
+      > 經之至者道也，所以明道者其詞也，所以成詞者字也。由字以通其詞，由詞以通其道，必有漸。（〈與是仲明論學書〉）
+      >
+      > What the classics are getting at is the *dao*; they explain the *dao* through their phrases; they form phrases through words. If we seek to comprehend the phrases through the words and the *dao* through the phrases, we will surely make progress. (DZQS 6, 368)[^note-1]
+    step1: |-
+      > 經之至者道也，所以明道者其詞也，所以成詞者字也。由字以通其詞，由詞以通其道，必有漸。（〈與是仲明論學書〉）
+      >
+      > 经典的极致是道；用来阐明道的是文辞，构成文辞的是文字。由文字以通其词，由词以通其道，必有循序渐进的过程。（DZQS 6, 368）[^note-1]
+    step2: |-
+      > 經之至者道也，所以明道者其詞也，所以成詞者字也。由字以通其詞，由詞以通其道，必有漸。（〈與是仲明論學書〉）
+      >
+      > 经典的极致是道；用来阐明道的是文辞，构成文辞的是文字。由文字以通其词，由词以通其道，必有循序渐进的过程。（DZQS 6, 368）[^note-1]
+  - id: 6
+    kind: body
+    source: |-
+      In a letter to his student Duan Yucai 段玉裁 (1735–1815), Dai explained his ambition as a scholar:
+    step1: |-
+      在致其学生段玉裁（1735–1815）的一封信中，戴震解释了他作为学者的志向：
+    step2: |-
+      在致学生段玉裁（1735–1815）的一封信里，戴震如此解释其学者之志：
+  - id: 7
+    kind: body
+    source: |-
+      > 僕自十七歲時，有志聞道，謂非求之六經、孔、孟不得，非從事於字義、制度、名物，無由以通其語言。（〈與段茂堂等十一札〉）
+      >
+      > Since the age of seventeen, I have aspired to learn the *dao*, contending that it cannot be attained without seeking it in the Six Classics, Confucius, and Mencius and that without researching the import of words, the structure of institutions, and the terminology for various things there is no way to comprehend the language [of these texts]. (DZQS 6, 531)
+    step1: |-
+      > 僕自十七歲時，有志聞道，謂非求之六經、孔、孟不得，非從事於字義、制度、名物，無由以通其語言。（〈與段茂堂等十一札〉）
+      >
+      > 自十七岁起，我有志于听闻道，认为不求之于六经、孔子、孟子便无从求得；不从事于字义、制度、名物的研究，便没有办法通晓经典的语言。（DZQS 6, 531）
+    step2: |-
+      > 僕自十七歲時，有志聞道，謂非求之六經、孔、孟不得，非從事於字義、制度、名物，無由以通其語言。（〈與段茂堂等十一札〉）
+      >
+      > 我自十七岁起有志于闻道，认为非求之于六经、孔、孟不得；非从事于字义、制度、名物，便无由通晓其语言。（DZQS 6, 531）
+  - id: 8
+    kind: body
+    source: |-
+      Dai thus established his methodology for understanding the *dao* of the ancient sages before the age of 20 (or in 1742), when he met Jiang Yong 江永 (1681–1762), a renowned scholar specializing in the *Three Ritual Classics* and an expert in calendrical studies, mathematics, and phonology, who later became his teacher (Cai 2006: 3–27)[^cai-2006]. Before turning 30 (in 1752), Dai completed several original works in philology, mathematics, phonology, and classical commentary. The most notable of these were *Kaogongjitu* 考工記圖 (*Illustrated Research on Artisans’ Records*) and his initial emendations of the Shujingzhu 水經注 (*Commentaries on the Water Classic*). In the former, he created precise diagrams of the ancient tools discussed in the Kaogongji 考工記 (*Research on Artisans’ Records*) of the Zhouli 周禮 (*The Rites of Zhou*). Later archaeological discoveries confirmed the accuracy of some of Dai’s illustrations. During Dai’s lifetime, an ancient bell was discovered that matched an illustration in his work (DZQS 7, 187). In his work on the *Water Classic*, Dai attempted to distinguish the canonical text of the Shuijing from its commentaries (zhu 注). Because the two had been intermingled in transmission, the text of the *Water Classic* had become incomprehensible. Dai’s initial emendations provided new insights into reading the text. When he arrived at the capital in 1754, these early achievements earned him attention and recognition among renowned scholar-officials, such as Ji Yun 紀昀 (1724–1805), Qian Daxin 錢大昕 (1728–1804), and Zhu Yun 朱筠 (1729–1781) (DZQS 7, 144–8).
+    step1: |-
+      因此，戴震在二十岁之前（即 1742 年）——他遇见江永（1681–1762）之时——便确立了自己理解古代圣贤之道的方法论。江永是研究《三礼》的著名学者，兼精历算、数学与音韵之学，后来成为戴震的老师（Cai 2006: 3–27）[^cai-2006]。三十岁之前（1752 年），戴震已在训诂学、数学、音韵学与经典注释方面完成了若干原创著作。其中最著名的是《考工记图》以及对《水经注》的初步校勘。在前一部著作中，他为《周礼》之《考工记》所论的古代器物绘制了精确图示。后来的考古发现证实了戴震部分图示的精确性：戴震在世时，出土过一件与书中图示相合的古钟（DZQS 7, 187）。在《水经》研究著作中，戴震试图区分《水经》经文与其注文的界限。由于两者在流传中互相窜乱，《水经》经文已变得难以通读。戴震的初步校勘为读通此书提供了新见解。1754 年他抵京师时，这些早期成就为他赢得了纪昀（1724–1805）、钱大昕（1728–1804）、朱筠（1729–1781）等著名士大夫的注意与推重（DZQS 7, 144–8）。
+    step2: |-
+      因此，在二十岁之前（即 1742 年）遇见江永（1681–1762）时，戴震已确立了自己理解古代圣贤之道的方法论。江永是专研《三礼》的著名学者，兼精历算、数学与音韵，后来成为戴震的老师（Cai 2006: 3–27）[^cai-2006]。三十岁之前（1752 年），戴震已在训诂学、数学、音韵学与经典注释方面完成了若干原创著作，其中最著名的是《考工记图》与对《水经注》的初步校勘。在前书中，他为《周礼》之《考工记》所论古代器物绘制了精确图示；后来的考古发现证实了其中一些图示的精确——戴震在世时，出土过一件与其书中图示相合的古钟（DZQS 7, 187）。在《水经》研究中，戴震试图把《水经》经文与注文区分开来：由于两者在流传中互相窜乱，《水经》经文已难通读，戴震的初步校勘为读通此书提供了新见解。1754 年抵京师时，这些早期成就为他赢得纪昀（1724–1805）、钱大昕（1728–1804）、朱筠（1729–1781）等著名士大夫的注意与推重（DZQS 7, 144–8）。
+  - id: 9
+    kind: body
+    source: |-
+      Dai Zhen began writing *Yuan Shan* 原善, a philosophical work in three essays, in 1753 and continued revising it for over 10 years. He later expressed to Duan Yucai that he was thrilled upon completing the first essay (DZQS 7, 153). This excitement was at odds with the academic climate of the time, which deprecated philosophical inquiry in favor of studies based on evidence and facts, such as philology, phonology, geography, astronomy, mathematics, and history. These fields were highly valued and heavily researched in the Qing dynasty, as part of a movement known as “evidential learning” or “learning based on examination of evidence” (*kaozhengxue* 考證學). By contrast, philosophy was considered too speculative, partly as a result of the perceived excesses of Song- and Ming-dynasty thought. In response to criticism that his *Yuan Shan* essays were “empty talk”, Dai expanded them into a book by adding citations from the classics and classical commentaries to support his interpretations. Despite this effort, he felt frustrated by the negative reception and chose not to publish the book, even when it was completed in 1766 (DZQS 6, 7). Instead, he circulated it among a select few acquaintances, possibly including Zhang Xuecheng 章學誠 (1738–1801), an up-and-coming young scholar who visited him that year. According to Zhang, he was shocked and intimidated by Dai’s claims about his contemporaries’ methodologically incompetent understanding of classical texts. Zhang was among the few who were sympathetic to and influenced by Dai’s philosophical thought. As was the case with Dai’s work, Zhang’s philosophy, particularly his approach to the philosophy of history, was not fully appreciated until the early twentieth century (see Yu 1996 and 2016).
+    step1: |-
+      戴震于 1753 年开始撰写哲学著作《原善》（三篇论文），此后持续修订十余年。他后来向段玉裁表示，完成第一篇时他激动不已（DZQS 7, 153）。这种兴奋与当时的学术风气格格不入——彼时学风贬抑哲学思辨，而推崇以证据与事实为本的研究，如训诂学、音韵学、地理学、天文学、数学与史学。这些学科在清代备受重视、研究繁盛，属于一场被称为“考证学”（evidential learning，即以考订证据为本的学问）的运动。相形之下，哲学被视为过于思辨，部分原因在于世人认为宋明之学有玄虚之弊。面对《原善》诸篇是“空言”的批评，戴震通过增补经典及经典注疏的引文来支撑自己的诠释，把这几篇文章扩展成一部书。尽管如此努力，他仍为负面的接受而沮丧，决意不予刊行——即便此书已于 1766 年完成（DZQS 6, 7）。他只在少数相知间传阅此书，其中可能包括那年造访他的后起之秀章学诚（1738–1801）。据章学诚记载，戴震关于其同代人理解经典在方法上不得其门的说法令他震惊且心生敬畏。章学诚是少数同情并受戴震哲学思想影响的人之一。与戴震的著作一样，章学诚的哲学——尤其是其历史哲学进路——直到二十世纪初才得到充分赏识（见 Yu 1996 与 2016）。
+    step2: |-
+      1753 年，戴震开始撰写哲学著作《原善》（三篇论文），此后持续修订十余年。他后来向段玉裁表示，第一篇完成时他激动不已（DZQS 7, 153）。这种兴奋与当时的学术风气格格不入：彼时学风贬抑哲学思辨，推崇以证据与事实为本的研究——训诂学、音韵学、地理学、天文学、数学与史学。这些学科在清代备受重视、研究繁盛，同属一场称为“考证学”（kaozhengxue，evidential learning，即以考订证据为本的学问）的运动。相形之下，哲学被视作过于思辨——部分缘由是宋明之学被认为有玄虚之弊。面对《原善》诸篇乃“空言”的批评，戴震增补经典及经典注疏中的引文以支撑自己的诠释，把这几篇文章扩写成一部书。尽管如此，他仍因负面的接受而沮丧，决意不刊行此书——纵然它已于 1766 年完成（DZQS 6, 7）。他只在少数相知间传阅，其中可能有那年造访他的后起之秀章学诚（1738–1801）。据章学诚自述，戴震指其同代人于经典理解在方法上不得其门，令他震惊且心生敬畏。章学诚是少数同情并受戴震哲学影响者之一。与戴震的著作一样，章学诚的哲学——尤其是其历史哲学进路——直到二十世纪初才获充分赏识（见 Yu 1996 与 2016）。
+  - id: 10
+    kind: body
+    source: |-
+      Dai passed the provincial civil service examination in 1762 at the age of 40, finally qualifying him to take the metropolitan examination held every three years in the capital. From 1763 to 1775, he failed the metropolitan examination five consecutive times. Nevertheless, his reputation as a leading evidential scholar and his friendships with prominent scholar-officials earned him a position as an editor in the *Sikuguan* 四庫館 (“Office of the Four Storehouses”), established in 1772 to fulfill the Qianlong Emperor’s decree to compile a comprehensive library of all valuable publications. Despite failing in the metropolitan exam for the fifth time in 1775, his contributions at the *Sikuguan*, especially his emendation of the *Commentaries on the Water Classic*, led the emperor to award him a *shujishi* 庶吉士 degree independently of the examination results. (The *shujishi* was a three-year trainee position in the Hanlin Imperial Academy, which was a prerequisite for central government service.) Unfortunately, Dai’s health soon declined, partly due to overwork at the *Sikuguan*, and because of medical malpractice he died unexpectedly in 1777 at the age of 55.
+    step1: |-
+      戴震于 1762 年四十岁时通过乡试，取得了参加每三年在京城举行一次的会试的资格。从 1763 到 1775 年，他连续五次会试落第。尽管如此，他作为考据学领袖的声誉及其与显赫士大夫的交谊，为他赢得了四库馆纂修之职——四库馆设立于 1772 年，以奉乾隆皇帝敕令编纂一部汇集一切有价值刊本的综合性文库。1775 年第五次会试落第后，他在四库馆的贡献——尤其是对《水经注》的校勘——使皇帝越过考试结果特赐他庶吉士出身。（庶吉士是翰林院三年见习职位，是进入中央政府任职的前提。）不幸的是，戴震的健康很快恶化，部分由于四库馆劳作过度，加之医疗失误，他于 1777 年五十五岁时猝然离世。
+    step2: |-
+      戴震于 1762 年四十岁时乡试中式，取得了参加每三年一开、在京举行的会试的资格。自 1763 至 1775 年，他连续五次会试落第。尽管如此，他身为考据学巨擘的声誉及其与显赫士大夫的交谊，为他赢得四库馆纂修之职——四库馆设于 1772 年，以奉乾隆帝敕令编纂汇集一切有价值刊本的综合性文库。1775 年第五次落第后，他在四库馆的贡献——尤其是《水经注》的校勘——令皇帝越过考试结果特赐庶吉士出身。（庶吉士为翰林院三年见习之职，是进入中央政府任职的前提。）不幸的是，戴震健康随即恶化：部分缘于四库馆劳作过度，又因医疗失误，他于 1777 年五十五岁时猝然离世。
+  - id: 11
+    kind: body
+    source: |-
+      Before his unexpected death, Dai completed what he considered his greatest work, the philosophical masterpiece *Mengzi Ziyi Shuzheng* 孟子字義疏證 (*Evidential Commentary on the Meaning of Terms in the Mencius*). He spent over a decade revising this book, possibly starting as early as 1765, and completed the first draft in 1772, when he feigned illness to take leave and write it. Various early drafts were circulated among his friends and associates, resulting in many different versions. For instance, Dai’s *Xuyan* 緒言 (*Prologue*) is believed to be one of the early drafts of the *Evidential Commentary*. Dai’s dedication to revising this work stemmed from a writing principle he adopted from Fang Muru 方楘如: “Being good at composing is not as good as being good at revising, and being good at revising is not as good as being good at deleting” (DZQS 7, 204). The *Evidential Commentary* was meant to be part of an ambitious project Dai was unable to finish, to be called Qijing Xiaoji 七經小記 (*Remarks on the Seven Classics*). The “seven classics” referred to the *Odes* (Shi 詩), *Documents* (Shu 書), *Rites* (Li 禮), *Changes* (Yi 易), *Annals* (Chunqiu 春秋), *Analects*, and *Mencius*, which Dai believed jointly conveyed the dao. The *Remarks* was to be divided into five parts, approaching the seven classics from five perspectives, namely
+    step1: |-
+      在这场猝不及防的死亡之前，戴震完成了他自认为最伟大的著作——哲学杰作《孟子字义疏证》。他为此书修订逾十年，可能早在 1765 年便已动笔，并于 1772 年完成初稿——那一年他称病告假以专心写作。多个早期草稿在其友朋同道间流传，形成许多不同版本。例如，戴震的《绪言》便被相信是《疏证》的早期草稿之一。戴震修订此书的不懈坚持，源于他从方楘如那里采纳的一条写作原则：“善作者不如善改者，善改者不如善删者”（DZQS 7, 204）。《疏证》本是戴震一项宏大计划的组成部分——他未能完成的《七经小记》。所谓“七经”，指《诗》《书》《礼》《易》《春秋》与《论语》《孟子》，戴震认为它们共同传达道。《小记》拟分五部分，从五个视角进路七经，即：
+    step2: |-
+      在这场猝不及防的死亡之前，戴震完成了他自认为最伟大的著作——哲学杰作《孟子字义疏证》。此书他修订逾十年，可能早在 1765 年即已动笔，1772 年完成初稿——那年他称病告假以专事写作。多个早期草稿在友朋同道间流传，形成许多不同版本；例如《绪言》便被相信是《疏证》的早期草稿之一。戴震修订此书的坚持，源于他从方楘如处采纳的一条写作原则：“善作者不如善改者，善改者不如善删者”（DZQS 7, 204）。《疏证》本是戴震一项未能完成的宏大计划——《七经小记》——的组成部分。所谓“七经”，指《诗》《书》《礼》《易》《春秋》与《论语》《孟子》；戴震认为七者共同传达道。《小记》拟分五部分，从五个视角进路七经，即：
+  - id: 12
+    kind: body
+    source: |-
+      - *Xugupian* 訓詁篇 (containing works in philology and phonology),
+      - *Yuanxiangpian* 原象篇 (mathematics and astronomy),
+      - *Xuelipian* 學禮篇 (rituals and institutions),
+      - *Shuidipian* 水地篇 (geography and chorography), and
+      - *Yuanshanpian* 原善篇 (philosophy, construed primarily as ethics and metaethics).
+    step1: |-
+      - 训诂篇（Xugupian）：训诂学与音韵学著作；
+      - 原象篇（Yuanxiangpian）：数学与天文学；
+      - 学礼篇（Xuelipian）：礼制与制度；
+      - 水地篇（Shuidipian）：地理与方志学；
+      - 原善篇（Yuanshanpian）：哲学，主要指伦理学与元伦理学。
+    step2: |-
+      - 训诂篇（Xugupian）：训诂学与音韵学著作；
+      - 原象篇（Yuanxiangpian）：数学与天文学；
+      - 学礼篇（Xuelipian）：礼制与制度；
+      - 水地篇（Shuidipian）：地理与方志学；
+      - 原善篇（Yuanshanpian）：哲学——主要指伦理学与元伦理学。
+  - id: 13
+    kind: body
+    source: |-
+      All of Dai’s works can be categorized into these five areas. For example, his *Illustrated Research on Artisans’ Records* fits under the Xuelipian, his *Commentaries on the Water Classic* belong under Shuidipian, and his *Evidential Commentary on the Meaning of Terms of the Mencius* falls under *Yuanshanpian*. The relationship between these five areas can be inferred from Dai’s methodology, by which evidential learning is the means to discover the *dao*. Research in the first four areas serves as the foundation for work in the fifth (philosophy).[^note-2]
+    step1: |-
+      戴震的全部著作都可归入这五个领域。例如，他的《考工记图》可归入学礼篇，其《水经注》研究属于水地篇，其《孟子字义疏证》则归于原善篇。五个领域之间的关系可从戴震的方法论推知：考证学是发现道的手段。前四个领域的研究为第五个领域（哲学）的工作奠基。[^note-2]
+    step2: |-
+      戴震的全部著作皆可归入这五个领域。例如：《考工记图》归学礼篇，《水经注》研究属水地篇，《孟子字义疏证》归于原善篇。五个领域之间的关系可由戴震的方法论推知——考证学是发现道的手段，前四个领域的研究为第五领域（哲学）的工作奠基。[^note-2]
+  - id: 14
+    kind: body
+    source: |-
+      ## 2. “The Six Classics Convey the *dao*”
+    step1: |-
+      ## 2. “六经载道”
+    step2: |-
+      ## 2. “六经载道”
+  - id: 15
+    kind: body
+    source: |-
+      “The Six Classics convey the *dao* (*Liujing zaidao* 六經載道)” is a thesis accepted by all Confucians, although different thinkers interpret it differently (for convenience, we’ll refer to this as the “Conveyance Thesis”). (The Six Classics are the *Classic of Change,* the *Documents,* the *Odes,* the *Rites,* the *Music*, and the *Annals*.) Dai’s understanding of this thesis is reflected in his lifelong methodology. As shown in the letter to Duan Yucai quoted above, his stance is that study of the Six Classics is a necessary prerequisite for grasping the *dao*. In the letter, Dai ranks the *Analects* of Confucius and the *Mencius* on the same level as the Six Classics in importance (the importance of these two books is also reflected in the name of his *Remarks on the Seven Classics*). We will return to this point below. First, let’s explore the Conveyance Thesis. Dai writes:
+    step1: |-
+      “六经载道”（Liujing zaidao）是所有儒者都接受的论旨，尽管不同思想家对它的诠释各异（为方便起见，下文称之为“载道论旨”）。（六经是《易》《书》《诗》《礼》《乐》与《春秋》。）戴震对这一论旨的理解体现在他终生贯彻的方法论中。如上引致段玉裁的信所示，他的立场是：研究六经是把握道的必要前提。在信中，戴震把孔子的《论语》与《孟子》的重要性置于与六经同等的层面（这两部书的重要性也体现在他《七经小记》的书名中）。这一点下文再论。先来看载道论旨。戴震写道：
+    step2: |-
+      “六经载道”（Liujing zaidao）是所有儒者都接受的论旨，尽管不同思想家的诠释各异（为方便计，下文称“载道论旨”）。（六经为《易》《书》《诗》《礼》《乐》《春秋》。）戴震对这一论旨的理解，体现在他终生贯彻的方法论之中。如上引致段玉裁的信所示，他的立场是：研究六经是把握道的必要前提。信中，戴震把孔子的《论语》与《孟子》的重要性置于与六经同等的层面（这两部书的重要性也体现在《七经小记》之名中）。此点下文再论，先看载道论旨。戴震写道：
+  - id: 16
+    kind: body
+    source: |-
+      > 宋儒譏訓詁之學，輕語言文字，是欲渡江而棄舟楫，欲登高而無階梯也。
+      >
+      > Song dynasty scholars ridiculed the study of philology, dismissing the importance of language and written characters. This is akin to wanting to cross a river without using a boat and paddle or to climbing a height without using a ladder. (DZQS 6, 531)
+    step1: |-
+      > 宋儒譏訓詁之學，輕語言文字，是欲渡江而棄舟楫，欲登高而無階梯也。
+      >
+      > 宋代儒者讥讽训诂之学，轻视语言文字，这如同想渡江却抛弃舟楫，想登高却没有阶梯。（DZQS 6, 531）
+    step2: |-
+      > 宋儒譏訓詁之學，輕語言文字，是欲渡江而棄舟楫，欲登高而無階梯也。
+      >
+      > 宋代儒者讥讽训诂之学，轻视语言文字，这如同想渡江而弃舟楫，想登高而无阶梯。（DZQS 6, 531）
+  - id: 17
+    kind: body
+    source: |-
+      Dai’s interpretation of the Conveyance Thesis is that studying the Six Classics is a necessary means for understanding the *dao*, because any purported account of the *dao* must be shown to conform to the content of the Six Classics. He repeatedly criticizes earlier thinkers for their failure to conform to “the Six Classics, Confucius, and Mencius” (see, for example, DZQS 6, 167, 168, 176, and 203). The opposing view would be that studying the Six Classics is *not* necessary. This opposing view does not necessarily reject a weaker version of the Conveyance Thesis, as there could be more than one way to discover the *dao*. For example, perhaps someone might argue for a self-discovery view, according to which the *dao* can be discovered directly from within one’s own heart-mind. (The Ming thinker Wang Yangming’s position is probably a version of a self-discovery view.) However, a self-discovery view faces the challenge of establishing that the *dao* discovered from the heart-mind is indeed the same as the *dao* of the Six Classics. For Dai, the Six Classics have the last word in this matter.
+    step1: |-
+      戴震对载道论旨的诠释是：研究六经是理解道的必要手段，因为任何所谓的道之说都必须被证明与六经内容相合。他反复批评前人未能合于“六经、孔、孟”（例如见 DZQS 6, 167、168、176、203）。对立的观点则是：研究六经并非必要。这种对立观点并不必然拒绝载道论旨的较弱版本，因为发现道或许不止一条途径。例如，有人或许会主张一种自得说（self-discovery view），认为道可以直接从自己心内发现。（明代思想家王阳明的立场大概就是自得说的一个版本。）然而，自得说面临一个挑战：必须确立由心内发现的道确实与六经之道相同。在戴震看来，在这个问题上六经拥有最终发言权。
+    step2: |-
+      戴震对载道论旨的诠释是：研究六经是理解道的必要手段——任何关于道的说法都必须被证明与六经内容相合。他反复批评前人未能合于“六经、孔、孟”（例如见 DZQS 6, 167、168、176、203）。对立观点则是：研究六经并非必要。对立观点并不必然拒绝载道论旨的较弱版本，因为发现道的途径或许不止一条。例如，有人或许主张一种自得说（self-discovery view）：道可以直接从自己心内发现。（明代思想家王阳明的立场大概就是自得说的一个版本。）然而自得说面临一个挑战：必须确立由心内发现的道确实与六经之道相同。在戴震看来，此事六经拥有最终发言权。
+  - id: 18
+    kind: body
+    source: |-
+      As Dai sees it, the primary issue here is epistemological. Scholars can claim to grasp the Confucian sages’ *dao*, but this claim needs verification. The Conveyance Thesis entails that the Six Classics are authoritative in verifying whether one’s understanding of the sages’ *dao* is correct. It is important to ask how thoroughly one must understand the Six Classics to establish the claim that the *dao* one grasps is the same as the sages’. For example, the Cheng brothers—two influential Song-dynasty thinkers—famously claim:
+    step1: |-
+      在戴震看来，这里的首要问题是认识论层面的。学者可以声称把握了儒家圣贤的道，但这一声称需要验证。载道论旨意味着：六经在验证一个人对圣贤之道的理解是否正确上具有权威性。需要追问的是：要确立所把握的道与圣贤之道相同这一声称，必须把六经理解到何种彻底程度。例如，二程——两位有影响的宋代思想家——有一段著名的话：
+    step2: |-
+      在戴震看来，这里的首要问题在认识论层面。学者可以声称把握了儒家圣贤的道，但这一声称需要验证。载道论旨意味着：六经在验证对圣贤之道的理解是否正确上具有权威性。须追问的是：要确立所把握之道与圣贤之道相同这一声称，须把六经理解到何种彻底程度。例如，二程——两位有影响的宋代思想家——有一段名言：
+  - id: 19
+    kind: body
+    source: |-
+      > 學者當以論語孟子為本。論語孟子既治，則六經可不治而明矣。（《四書章句集注》〈讀論語孟子法〉）
+      >
+      > Scholars should take the *Analects* and *Mencius* as their foundation. Once the *Analects* and *Mencius* are well-studied, then the Six Classics can be understood clearly without further study. (Zhu *SZJ*: 44)
+    step1: |-
+      > 學者當以論語孟子為本。論語孟子既治，則六經可不治而明矣。（《四書章句集注》〈讀論語孟子法〉）
+      >
+      > 学者应当以《论语》《孟子》为根本。《论语》《孟子》既已研治，则六经可以不加研治而自然明白。（朱熹《四书章句集注·读论语孟子法》，Zhu SZJ: 44）
+    step2: |-
+      > 學者當以論語孟子為本。論語孟子既治，則六經可不治而明矣。（《四書章句集注》〈讀論語孟子法〉）
+      >
+      > 学者当以《论语》《孟子》为本。《论语》《孟子》既治，则六经可不治而明。（朱熹《四书章句集注·读论语孟子法》，Zhu SZJ: 44）
+  - id: 20
+    kind: body
+    source: |-
+      The Cheng brothers do not deny the Conveyance Thesis, but in its application, Dai is far more demanding than they are. For Dai, a complete understanding of each character in the Six Classics is necessary to grasp the *dao*. One might object that philology alone cannot settle interpretive issues. Even when we understand the meanings of the terms, multiple interpretations of a text may remain possible. Dai would likely accept this point. He needs to insist only that all philosophical interpretations must be consistent with some plausible philological interpretation.
+    step1: |-
+      二程并不否认载道论旨，但在其运用上，戴震远比他们严格。对戴震而言，通晓六经中每一个字的完整含义是把握道的必要条件。有人可能会反驳：仅凭训诂学无法解决诠释问题；即使理解了语词含义，对一段文本仍可能存在多种诠释。戴震大概会接受这一点。他只需坚持：一切哲学诠释都必须与某种可信的训诂学诠释相容。
+    step2: |-
+      二程并不否认载道论旨，但在其运用上，戴震远较他们严格。对戴震而言，通晓六经中每一个字的完整含义，是把握道的必要条件。或有人反驳：仅凭训诂学解决不了诠释问题——即使理解了语词含义，对一段文本仍可能并存多种诠释。戴震大概会接受这一点；他只需坚持：一切哲学诠释都必须与某种可信的训诂学诠释相容。
+  - id: 21
+    kind: body
+    source: |-
+      This verification problem was already recognized in the Confucian tradition prior to the rise of Qing “evidential scholarship”. Yu Yingshih has influentially argued that Qing scholarship is a continuation of the demand for a “return to the source” arising from unresolved metaphysical disputes between the Cheng-Zhu and Lu-Wang schools in the Song and Ming dynasties. This demand dates back to the sixteenth century, when Luo Qinshun 羅欽順 (1465–1547) insisted that philosophy must be grounded in the Classics (Yu 1996: 21, 91). Wang Yangming 王陽明 (1472–1529) also appealed to the old text of the Great Learning (*Daxue guben* 大學古本) to defend his interpretation of the dao. The paradigm of Qing scholarship was established by Gu Yanwu 顧炎武 (1613–1682), who asserted that “the proper study of patterns (*li* 理) is the study of the classics” (*jingxue ji lixue* 經學即理學) (Yu 2016: 91, 114–6). Gu believed that understanding the Classics required knowledge of phonology. More broadly speaking, the *dao* could be known only through evidential learning, which comprises phonology, geography, astronomy, and so on. According to Gu, scholars aim to bring order to the world, which requires understanding the *dao*. This understanding is impossible without classical research (Qian 2011: 146)[^qian-2011]. By the eighteenth century, scholars were so focused on evidential learning that they neglected philosophy.
+    step1: |-
+      这个验证问题在清代“考证之学”兴起之前的儒家传统中就已被认识到。余英时令人信服地论证：清代学术是“回归本源”这一要求的延续，而这一要求源于宋明两代程朱与陆王两派之间悬而未决的形而上争论。这一要求可上溯至十六世纪，罗钦顺（1465–1547）当时坚称哲学必须奠基于经典（Yu 1996: 21, 91）。王阳明（1472–1529）也曾援引《大学古本》（Daxue guben）的旧本来为其对道的诠释辩护。清代学术的典范由顾炎武（1613–1682）确立，他断言“经学即理学”（jingxue ji lixue）（Yu 2016: 91, 114–6）。顾炎武认为，理解经典需要音韵学知识；更宽泛地说，道只能通过考证学——包括音韵学、地理学、天文学等等——来认识。在顾炎武看来，学者以经世为志，这需要理解道；而离开经典研究，这种理解便不可能（Qian 2011: 146）[^qian-2011]。到十八世纪，学者们如此专注考证学，以至于忽视了哲学。
+    step2: |-
+      这个验证问题在清代“考证之学”兴起之前就已见于儒家传统。余英时令人信服地论证：清代学术是“回归本源”要求的延续——该要求源于宋明两代程朱与陆王两派悬而未决的形而上争论。这一要求可上溯至十六世纪：罗钦顺（1465–1547）坚称哲学必须奠基于经典（Yu 1996: 21, 91）。王阳明（1472–1529）也曾援引《大学古本》旧本为其道的诠释辩护。清代学术的典范由顾炎武（1613–1682）确立，他断言“经学即理学”（jingxue ji lixue）（Yu 2016: 91, 114–6）。顾炎武认为，理解经典需要音韵学知识；更宽泛地说，道只能经由考证学——音韵学、地理学、天文学等——来认识。在他看来，学者以经世为志，经世需要理解道；而离开经典研究，这种理解便不可能（Qian 2011: 146）[^qian-2011]。到了十八世纪，学者们专注考证学至此，遂忽视了哲学。
+  - id: 22
+    kind: body
+    source: |-
+      A widespread concern with the verification problem helps to explain this shift in focus. The key lies in the object to be verified. For instance, the *Rites of Zhou* contains details about the rites established by the sages, such as the materials, size, and color used in mourning dress, which can be determined through evidential learning and empirical evidence. In contrast, although it too must be based on a correct understanding of the terms in the texts, the correct interpretation of the philosophy of the sages cannot be entirely settled by empirical evidence. This was why Qing scholars regarded evidential learning as solid learning (*shixue* 實學) and viewed philosophy as “empty” or “insubstantial” (*xu* 虛). These scholars applied a different interpretation of the Conveyance Thesis from Dai. For Dai, the *dao* of the sages lies in the philosophy underlying the creation of institutions; evidential learning is thus a necessary but *not* sufficient means to discovering the *dao*. In contrast, his contemporaries viewed the *dao* as immanent in the institutions, and thus evidential learning was both a necessary and sufficient means of discovering the *dao*.
+    step1: |-
+      对验证问题的普遍关切有助于解释这一研究重心的转移。关键在于被验证的对象。例如，《周礼》载有圣人所立礼制的细节——丧服所用的材质、尺寸与颜色——这些可以通过考证学与经验证据来确定。相形之下，圣贤哲学的正确诠释虽然同样必须建立在对文本语词的正确理解之上，却无法全然由经验证据来裁定。这正是清代学者把考证学视为实学（shixue）、把哲学视为“虚”而无实的原因。这些学者对载道论旨的诠释与戴震不同。对戴震而言，圣贤之道在于创立制度背后的哲学；考证学因而是发现道的必要但非充分手段。与此相对，他的同代人把道看作内在于制度之中，考证学因而是发现道之必要且充分的手段。
+    step2: |-
+      对验证问题的普遍关切，有助于解释这一研究重心的转移。关键在被验证的对象。例如，《周礼》载有圣人所立礼制的细节——丧服的材质、尺寸、颜色——这些可由考证学与经验证据确定。相形之下，圣贤哲学的正确诠释虽同样必须建立在对文本语词的正确理解之上，却无法全然由经验证据裁定。这正是清代学者视考证学为实学（shixue）、视哲学为“虚”而无实的原因。这些学者对载道论旨的诠释不同于戴震：戴震认为圣贤之道在于创立制度背后的哲学，考证学因而是发现道的必要而非充分手段；其同代人则把道看作内在于制度，考证学因而既必要又充分。
+  - id: 23
+    kind: body
+    source: |-
+      This implicit difference in how Dai interprets the *dao* results in his distinct methodology and his dissatisfaction with the academic climate of his day. For Dai’s contemporaries, the *dao* is the institutions the sages established to govern the world. For Dai, the *dao* is the philosophy or guiding principles the sages applied in creating these institutions. However, we may question the scope of the understanding of the Classics that Dai demands. For example, to understand the sages’ guiding principles, a deep understanding of classical mathematics and astronomy may be unnecessary. It is unclear to what extent Dai’s philosophy is informed by his evidential learning. The literature to date has not yet provided a satisfactory answer.
+    step1: |-
+      戴震对道的诠释中的这种隐含差异，造成了其独特的方法论及其对当时学术风气的不满。对戴震的同代人而言，道是圣人为治理世界而建立的制度。对戴震而言，道是圣人在创制这些制度时所应用的哲学或指导原则。然而，我们可以质疑戴震所要求的经典理解的范围。例如，要理解圣贤的指导原则，对古代数学与天文学的深入理解可能是非必需的。戴震的哲学在多大程度上得益于其考证学，这一点并不清楚。迄今为止的文献尚未给出令人满意的答案。
+    step2: |-
+      戴震对道之诠释中的这种隐含差异，造成其独特的方法论及其对当时学术风气的不满。在其同代人看来，道是圣人为治理世界而建立的制度；在戴震看来，道是圣人创制这些制度时所应用的哲学或指导原则。然而，我们可以质疑戴震所要求的经典理解之范围：例如，要理解圣贤的指导原则，对古代数学与天文学的深入理解或非必需。戴震的哲学在多大程度上得益于其考证学，并不清楚；迄今的文献尚未给出令人满意的答案。
+  - id: 24
+    kind: body
+    source: |-
+      To return to a point raised at the beginning of this section, since Dai’s goal is to understand the sages’ philosophy or principles, it makes sense that in his interpretive project he assigns the *Analects* and the *Mencius*, two relatively philosophical works, the same importance as the Six Classics. However, we can still ask why he chose the *Mencius* rather than the *Xunzi* as a foundational text for interpreting the sages’ dao. Dai believed that Mencius’s moral psychology was more plausible than *Xunzi*’s, but this alone does not fully justify the choice. A possible answer is this: While the Conveyance Thesis can rule out some interpretations of the *dao*—such as those of Daoism and Buddhism—it does not leave us with a single interpretation. Among interpretations that align with the Six Classics, Dai’s approach is to select the one he considers philosophically most plausible, which is that he finds in the *Mencius*. Hence he includes the *Mencius* rather than the Xunzi as a foundational text. To exclude the Xunzi solely because it contradicts the *Mencius* would be a case of obviously circular reasoning.
+    step1: |-
+      回到本节开头提出的论点：既然戴震的目标是理解圣贤的哲学或原理，那么他在自己的诠释计划中把《论语》与《孟子》这两部相对更具哲学性的著作与六经置于同等重要地位，便是顺理成章的。然而我们仍可追问：他为何选择《孟子》而非《荀子》作为诠释圣贤之道的基础文本？戴震认为孟子的道德心理学比荀子的更有道理，但仅此一点尚不足以完全证成这一选择。一个可能的答案是：载道论旨能够排除某些道的诠释——如道家与佛教的——却不会只留给我们一种诠释。在与六经相合的诸诠释中，戴震的进路是选出他认为哲学上最可信的那种，即他在《孟子》中找到的那种。因此他把《孟子》而非《荀子》列为基础文本。仅仅因为《荀子》与《孟子》相抵触就排除前者，将是明显的循环论证。
+    step2: |-
+      回到本节开头的论点：既然戴震的目标是理解圣贤的哲学或原理，那么他在诠释计划中把《论语》与《孟子》这两部相对更具哲学性的著作与六经置于同等重要地位，便顺理成章。然而仍可追问：他为何选《孟子》而非《荀子》作为诠释圣贤之道的基础文本？戴震认为孟子的道德心理学比荀子的更有道理；但仅此不足以完全证成这一选择。一个可能的答案是：载道论旨能排除某些道的诠释——如道家与佛教的——却不会只留下一种诠释。在与六经相合的诸诠释中，戴震的进路是选出他认为哲学上最可信者，即他在《孟子》中找到的那种。故此他把《孟子》而非《荀子》列为基础文本。仅因《荀子》与《孟子》相抵触便排除前者，将是明显的循环论证。
+  - id: 25
+    kind: body
+    source: |-
+      ## 3. Metaphysics
+    step1: |-
+      ## 3. 形而上学
+    step2: |-
+      ## 3. 形而上学
+  - id: 26
+    kind: body
+    source: |-
+      ### 3.1 Dao 道
+    step1: |-
+      ### 3.1 道
+    step2: |-
+      ### 3.1 道
+  - id: 27
+    kind: body
+    source: |-
+      In explaining the idea of *dao* 道 (the right ethical and social way of life), Dai distinguishes between the *dao* of Tian 天道 and the *dao* of humanity 人道. The *dao* of Tian—in effect, the path of the natural world—refers to the continuous flow and transformation of *qi* 氣 (dynamic “vital stuff”), leading to the endless creation and alteration of all things.
+    step1: |-
+      在阐释道（正确的伦理与社会生活方式）这一观念时，戴震区分了天道与人道。天道——实际上即自然世界的路径——指气的持续流行与转化（气是动态的“生机之物”），由此产生万物的无穷创生与变化。
+    step2: |-
+      在阐释道（正确的伦理与社会生活方式）这一观念时，戴震区分了天道与人道。天道——实际上即自然世界的路径——指气（动态的“生机之物”）的持续流行与转化，万物由此而有无穷的创生与变化。
+  - id: 28
+    kind: body
+    source: |-
+      > 道，猶行也；氣化流行，生生不息，是故謂之道。《孟子字義疏證》
+      >
+      > Dao is akin to a process or journey; it is the continuous flow and transformation of *qi*, the unending cycle of life. Thus it is called the *dao*. (*Sz* 16)[^note-3]
+    step1: |-
+      > 道，猶行也；氣化流行，生生不息，是故謂之道。《孟子字義疏證》
+      >
+      > 道，犹如行进；气化流行，生生不息，因此称之为道。（《孟子字义疏证》，*Sz* 16）[^note-3]
+    step2: |-
+      > 道，猶行也；氣化流行，生生不息，是故謂之道。《孟子字義疏證》
+      >
+      > 道，犹如行进；气化流行，生生不息，因此称之为道。（《孟子字义疏证》，*Sz* 16）[^note-3]
+  - id: 29
+    kind: body
+    source: |-
+      *Tian* (“Heaven”, “Nature”) is an all-encompassing concept, roughly analogous to “the world” or “nature”, which includes living and non-living things. The birth of living things, including humans, is explained by the flow of *qi*, understood through the workings of *yin* 陰 and yang 陽 and the five phases, similar to how all objects are formed. Different endowments of qi lead to the varying natures (*xing* 性) of different living beings.
+    step1: |-
+      天（Tian，“Heaven”、“Nature”）是一个无所不包的概念，大致相当于“世界”或“自然”，包括生物与非生物。生物——包括人——的诞生由气的流行来解释：气经由阴与阳及五行的运作而被理解，与一切器物之形成同理。气禀的不同导致不同生物之性（xing）各异。
+    step2: |-
+      天（Tian，“Heaven”“Nature”）是一个无所不包的概念，大致相当于“世界”或“自然”，兼括生物与非生物。生物——包括人——的诞生由气的流行来解释：气经阴阳五行之运作而被理解，与一切器物之形成同理。气禀不同，不同生物之性（xing）便各异。
+  - id: 30
+    kind: body
+    source: |-
+      > 《大戴禮記》曰：「分於道謂之命，形於一謂之性。」言分於陰陽五行以有人物，而人物各限於所分以成其性。陰陽五行，道之實體也；血氣心知，性之實體也。有實體，故可分；惟分也，故不齊。古人言性惟本於天道如是。
+      >
+      > The *Dadailiji* says, “The allotment from the dao is fate (*ming* 命), and formation into one thing is nature (*xing* 性)”. This refers to how people and creatures are divided out of the *yin* and yang and the five phases, and each person or creature has its nature formed on the basis of what has been allotted to it. *Yin* and yang and the five phases are the substance of the dao; the blood-and-qi and the understanding heart-mind are the substance of nature (*xing*). Because they have substance, they can be divided [in various ways]; and because they are divided [in various ways], they are not equal. This is why the ancients said that nature is based on the *dao* of Tian. (*Sz* 16)
+    step1: |-
+      > 《大戴禮記》曰：“分於道謂之命，形於一謂之性。”言分於陰陽五行以有人物，而人物各限於所分以成其性。陰陽五行，道之實體也；血氣心知，性之實體也。有實體，故可分；惟分也，故不齊。古人言性惟本於天道如是。
+      >
+      > 《大戴礼记》说：“分于道谓之命，形于一谓之性。”这是说，人与物分自阴阳五行而有，而人与物各自受限于所分得者以成其性。阴阳五行是道的实体；血气心知是性的实体。因为有实体，故可分；惟其有分，故不齐一。古人言性，正是以天道为本如此。（*Sz* 16）
+    step2: |-
+      > 《大戴禮記》曰：“分於道謂之命，形於一謂之性。”言分於陰陽五行以有人物，而人物各限於所分以成其性。陰陽五行，道之實體也；血氣心知，性之實體也。有實體，故可分；惟分也，故不齊。古人言性惟本於天道如是。
+      >
+      > 《大戴礼记》说：“分于道谓之命，形于一谓之性。”这是说，人与物分自阴阳五行而有，而人与物各自受限于所分得者以成其性。阴阳五行是道的实体；血气心知是性的实体。因为有实体，故可分；惟其有分，故不齐一。古人言性，正是以天道为本如此。（*Sz* 16）
+  - id: 31
+    kind: body
+    source: |-
+      Indeed, the everyday life of humans is a part of the *dao* of *Tian*.
+    step1: |-
+      的确，人的日常生活是天道的一部分。
+    step2: |-
+      的确，人的日常生活即天道的一部分。
+  - id: 32
+    kind: body
+    source: |-
+      > 出於身者，無非道也…道者，居處、飲食、言動，自身而周於身之所親，無不該焉也…
+      >
+      > None of what issues from one’s person fails to be *dao*… Dwelling, eating and drinking, speaking and moving, our person and everything we see around us—all of this is appropriately regarded as *dao*… (*Sz* 33)
+    step1: |-
+      > 出於身者，無非道也…道者，居處、飲食、言動，自身而周於身之所親，無不該焉也…
+      >
+      > 出于自身者，无非是道……所谓道，居处、饮食、言动，由自身而周遍于亲身所及的一切，无不涵盖在内……（*Sz* 33）
+    step2: |-
+      > 出於身者，無非道也…道者，居處、飲食、言動，自身而周於身之所親，無不該焉也…
+      >
+      > 出于自身者，无非是道……所谓道，居处、饮食、言动，由自身而周遍于亲身所及的一切，无不涵盖在内……（*Sz* 33）
+  - id: 33
+    kind: body
+    source: |-
+      From this perspective, since humans are part of *Tian,* the *dao* of humanity is part of the *dao* of *Tian*.
+    step1: |-
+      由此观之，人既是天的一部分，人道便是天道的一部分。
+    step2: |-
+      由此观之：人既属于天，人道便属于天道。
+  - id: 34
+    kind: body
+    source: |-
+      Nevertheless, Dai sees a significant difference between the *dao* of humanity and the *dao* of inanimate objects and of living things that lack awareness (*jingshuang* 精爽), such as plants. Humans and other animals that possess awareness can act against what they should do, or what is “imperative” (*biran* 必然) for them.
+    step1: |-
+      尽管如此，戴震认为人道与无生之物、以及缺乏知觉（jingshuang，精爽）的生物（如植物）之道之间有重大差别。拥有知觉的人与其他动物能够违背其应做之事——即对其而言“必然”（biran）之事——而行动。
+    step2: |-
+      尽管如此，戴震认为：人道与无生之物、以及缺乏知觉（jingshuang，精爽）的生物（如植物）之道之间，有重大差别。拥有知觉的人与其他动物，能够违逆其应做之事——即对其而言“必然”（biran）之事——而行动。
+  - id: 35
+    kind: body
+    source: |-
+      > 一事之善，則一事合於天；成性雖殊而其善也則一，善，其必然也；性，其自然也；歸於必然，適完其自然，此之謂自然之極致，天地人物之道於是乎盡。在天道不分言，而在人物分言之始明。
+      >
+      > When one thing is good, that thing conforms to *Tian*; although the nature (*xing*) of things may vary, their goodness is one and the same. Goodness is what is imperative (*biran*); nature (*xing*) is what is self-so (*ziran*). To return to what is imperative is to bring the self-so (*ziran*) to completion. This is called the ultimate fulfillment of what is self-so (*ziran*). In this way, the *dao* of Tian and earth, humanity and other animals, is completely fulfilled. Regarding the *dao* of Tian, we do not speak of this distinction [between the self-so and the imperative], but regarding humanity and other animals only by speaking of this distinction can we be clear. (*Sz* 32)
+    step1: |-
+      > 一事之善，則一事合於天；成性雖殊而其善也則一，善，其必然也；性，其自然也；歸於必然，適完其自然，此之謂自然之極致，天地人物之道於是乎盡。在天道不分言，而在人物分言之始明。
+      >
+      > 一件事善，这件事便合于天；所成之性虽殊，其善则一。善，是其必然；性，是其自然。归于必然，恰好成全其自然，这叫做自然之极致，天地人物之道由此而尽。天道不必分开说，而在人与物处分开说才能明白。（*Sz* 32）
+    step2: |-
+      > 一事之善，則一事合於天；成性雖殊而其善也則一，善，其必然也；性，其自然也；歸於必然，適完其自然，此之謂自然之極致，天地人物之道於是乎盡。在天道不分言，而在人物分言之始明。
+      >
+      > 一件事善，这件事便合于天；所成之性虽殊，其善则一。善，是其必然；性，是其自然。归于必然，恰好成全其自然，这叫做自然之极致，天地人物之道由此而尽。天道不分言，而在人物则分言之始明。（*Sz* 32）
+  - id: 36
+    kind: body
+    source: |-
+      Dai uses the example of terrestrial animals dying in water and aquatic animals dying on land to illustrate the possibility and consequences of animals violating what is imperative for them (*Sz* 32). For humans, he cites northern people who cannot endure southern heat and southern people who cannot endure northern cold as examples of such transgression. Humans and other animals may fail to fulfill their *dao* if they do not adhere to what is imperative. In contrast, inanimate objects cannot violate what is imperative, so for them there is no distinction between the self-so and the imperative.
+    step1: |-
+      戴震用陆生动物死于水、水生动物死于陆的例子，说明动物违逆其必然的可能性与后果（Sz 32）。就人而言，他举北方人不能耐南方之暑热、南方人不能耐北方之寒冷作为这类违逆的例子。人与其他动物若不遵循必然，便可能未能尽其道。相反，无生之物不能违逆必然，故对它们而言自然与必然没有分别。
+    step2: |-
+      戴震以陆生动物死于水、水生动物死于陆为例，说明动物违逆其必然的可能性与后果（Sz 32）。就人而言，他举北方人不能耐南方暑热、南方人不能耐北方寒冷，作为这类违逆的例子。人与其他动物若不遵循必然，便可能未尽其道。相反，无生之物不能违逆必然，故对它们而言，自然与必然没有分别。
+  - id: 37
+    kind: body
+    source: |-
+      In different contexts, the *dao* of humanity functions as both a descriptive and normative notion. It refers to the actual daily lives of humans, but also to the patterns (*li* 理) they must follow to avoid harm. Similarly, in different contexts, the *dao* of Tian plays both descriptive and normative roles, depicting both what actually occurs and the ideal path by which everything flourishes (*shengsheng* 生生, the “thriving of generativity” or “flourishing of life”). (See Angle, forthcoming, for further discussion concerning the normativity of the *dao* of humanity and the *dao* of *Tian*.)
+    step1: |-
+      在不同语境中，人道既是描述性概念，也是规范性概念。它既指人的实际日常生活，也指人必须遵循以避害的理。同样，天道在不同语境中兼具描述与规范双重角色：既描绘实际发生者，也描绘万物借此繁荣的理想路径（生生，即“创生之不息”或“生命之繁荣”）。（关于人道与天道的规范性之进一步讨论，见 Angle, forthcoming。）
+    step2: |-
+      在不同语境中，人道既是描述性概念，也是规范性概念：既指人的实际日常生活，也指人必须遵循以避害的理。同样，天道在不同语境中兼具描述与规范双重角色——既描绘实际发生者，也描绘万物借此繁荣的理想路径（生生，即“创生之不息”或“生命之繁荣”）。（人道与天道之规范性的进一步讨论，见 Angle, forthcoming。）
+  - id: 38
+    kind: body
+    source: |-
+      ### 3.2 *Li* 理
+    step1: |-
+      ### 3.2 理
+    step2: |-
+      ### 3.2 理
+  - id: 39
+    kind: body
+    source: |-
+      Dai employs the idea of *li* 理 (orderly pattern or patterns) to explain what is imperative for humans and other animals. As Dai interprets them, some of his Song-dynasty Confucian predecessors held a dualist view, on which pattern (*li*), an immaterial, abstract organizing structure or grain, joins together with material *qi* 氣 (“dynamic stuff”) to form concrete objects and phenomena. (To what extent Dai is correct to attribute this view to thinkers such as Zhu Xi is a matter of scholarly controversy.) Against any such dualist view, Dai argues that patterns (*li*) are not entities existing separately from *qi*. Instead, they are the typical or normal grain, format, or regularities by which things are organized and behave. Dai says:
+    step1: |-
+      戴震运用理（有序的条理）这一观念来解释人与其他动物之必然。依戴震的理解，宋代一些儒学前辈持一种二元论观点：理是非物质性的、抽象的组织结构与纹理，与物质性的气（“动态之物”）相结合而构成具体事物与现象。（戴震把这种观点归于朱熹等思想家是否恰当，是学界争议。）针对任何这类二元论观点，戴震论证：理并非独立于气而存在的实体；毋宁说，它们是事物借以组织与运作的典型或正常的纹理、格式或规则。戴震说：
+    step2: |-
+      戴震运用理（有序的条理）这一观念，来解释人与其他动物之必然。依戴震的理解，宋代一些儒学前辈持一种二元论观点：理是非物质性的抽象组织结构或纹理，与物质性的气（“动态之物”）结合而构成具体事物与现象。（戴震把这种观点归于朱熹等思想家是否恰当，是学界争议。）针对任何这类二元论观点，戴震论证：理并非独立于气而存在的实体；毋宁说，它们是事物借以组织与运作的典型或正常的纹理、格式或规则。戴震说：
+  - id: 40
+    kind: body
+    source: |-
+      > [孟子]舉理，以見心能區分….分之，各有其不易之則，名曰「理」。
+      >
+      > [Mencius] raises the concept of *li* 理 to show that the mind is capable of making distinctions…. Through differentiation, each aspect has its own unchanging norms (*ze*), which are called “pattern” (*li*). (*Sz* 4)
+      >
+      > 以秉持為經常曰則，以各如其區分曰理，以實之於言行曰懿德。
+      >
+      > To uphold something as regular is called a “norm” (*ze*); to treat each according to its differentiation is called “pattern” (*li*); to embody it in words and conduct is called “fine virtue” (*yide*). (*Sz* 3)
+    step1: |-
+      > [孟子]舉理，以見心能區分….分之，各有其不易之則，名曰“理”。
+      >
+      > ［孟子］举理，以见心能区分……分之，各有其不易之则，名曰“理”。（*Sz* 4）
+      >
+      > 以秉持為經常曰則，以各如其區分曰理，以實之於言行曰懿德。
+      >
+      > 以秉持为经常，叫做“则”；以各如其区分，叫做“理”；以实之于言行，叫做“懿德”。（*Sz* 3）
+    step2: |-
+      > [孟子]舉理，以見心能區分….分之，各有其不易之則，名曰“理”。
+      >
+      > ［孟子］举理，以见心能区分……分之，各有其不易之则，名曰“理”。（*Sz* 4）
+      >
+      > 以秉持為經常曰則，以各如其區分曰理，以實之於言行曰懿德。
+      >
+      > 以秉持为经常，叫做“则”；以各如其区分，叫做“理”；以实之于言行，叫做“懿德”。（*Sz* 3）
+  - id: 41
+    kind: body
+    source: |-
+      Patterns (*li* 理) are norms (*ze* 則) appropriately followed by an agent when conforming to them fulfills the inherent ends of that agent’s activity. For instance, any living creature is engaged in the activity of living, for which survival is a fundamental end and a necessary component of well-being. For terrestrial animals, living on land is pattern (*li*), because for them living on land contributes to their inherent end of survival. Accordingly, this pattern is also the basis for the norm (*ze*) that terrestrial creatures must live on land. Since patterns (*li*) are the causal regularities and relations by which such ends can be fulfilled, they do not have an ontological status separate from the activity of pursuing the ends. They simply describe the distinctions, regularities, and so forth that best align with these ends. Living on land allows terrestrial animals to survive. Living in water would cause them to die, and so it is pattern (*li*) for them to live on land. Since pattern in this example is simply a behavior regularity that facilitates certain creatures’ well-being, it is not an “entity” that exists independently of concrete creatures and their behavior.
+    step1: |-
+      理是这样的则（ze）：当事者适当地遵循它们，便能成全其活动的固有目的。例如，任何生物都从事着“活着”这一活动，生存是其根本目的与福祉的必要成分。对陆生动物而言，居于陆地是理，因为居于陆地有助于其固有的生存目的；相应地，这一理也是“陆生动物必须居于陆地”这一则的根据。既然理是使这类目的得以成全的因果规则与关系，它们便不具有与追求目的之活动相分离的本体论地位；它们只是描述那些与这些目的最相契合的区分、规则等等。居于陆地使陆生动物得以存活；居于水中会使之死亡，所以居于陆地之于它们是理。既然此例中的理只是促成某些生物福祉的行为规则，它就不是独立于具体生物及其行为而存在的“实体”。
+    step2: |-
+      理是这样的则（ze）：当事者适当地遵循它们，便能成全其活动的固有目的。例如，任何生物都从事着“活着”这一活动，生存是其根本目的、也是福祉的必要成分。对陆生动物而言，居于陆地是理——居于陆地有助于其固有的生存目的；相应地，这一理也是“陆生动物必须居于陆地”这一则的根据。理既然是使这类目的得以成全的因果规则与关系，便不具有与追求目的之活动相分离的本体论地位；它们只是描述那些与目的最相契合的区分、规则等等。居于陆地，陆生动物得以存活；居于水中，则使之死亡——所以居于陆地之于它们是理。此例中的理只是促成某些生物福祉的行为规则，并非独立于具体生物及其行为而存在的“实体”。
+  - id: 42
+    kind: body
+    source: |-
+      Dai understands the *dao* of humanity—and thus the good human life—at least partly in terms of the fulfillment of people’s feelings (*qing* 情) and wants (yu 欲). Accordingly, he sees the fulfillment of feelings and wants as constituting pattern (*li*).
+    step1: |-
+      戴震把人道——因而也把人的良好生活——至少部分地理解为人的情（qing）与欲（yu）的顺遂。相应地，他把情与欲的顺遂视为理的构成。
+    step2: |-
+      戴震把人道——连同人的良好生活——至少部分地理解为人的情（qing）与欲（yu）之顺遂；相应地，他把情与欲的顺遂视为理的构成。
+  - id: 43
+    kind: body
+    source: |-
+      > 人倫日用，聖人以通天下之情，遂天下之欲，權之而分理不爽，是謂理。
+      >
+      > As to human relations and daily activity, the sages apply their comprehension of all the world’s feelings to fulfill all the world’s wants; weighing these such that there are no errors in the differentiating patterns—this is called “pattern” (*li*). (*Sz* 40)
+    step1: |-
+      > 人倫日用，聖人以通天下之情，遂天下之欲，權之而分理不爽，是謂理。
+      >
+      > 人伦日用之中，圣人凭其贯通天下之情、顺遂天下之欲，权衡之而分理毫无差失，这就叫做理。（*Sz* 40）
+    step2: |-
+      > 人倫日用，聖人以通天下之情，遂天下之欲，權之而分理不爽，是謂理。
+      >
+      > 人伦日用之中，圣人凭其贯通天下之情、顺遂天下之欲，权衡之而分理毫无差失，这就叫做理。（*Sz* 40）
+  - id: 44
+    kind: body
+    source: |-
+      This relation to pattern explains the normative function of Confucian norms of conduct, or “ritual propriety” (*li* 禮). Dai claims that the sages’ rituals (*li* 禮) exemplify pattern (*li* 理) because they successfully promote human well-being by managing people’s feelings (*Sz* 37).
+    step1: |-
+      与理的这种关系解释了儒家行为规范——即“礼”（ritual propriety）——的规范功能。戴震主张，圣人之礼体现理，因为礼通过治理人的情感而成功增进人的福祉（Sz 37）。
+    step2: |-
+      与理的这种关系，解释了儒家行为规范——“礼”——的规范功能。戴震主张：圣人之礼体现理，因为礼通过治理人的情感而成功增进人的福祉（Sz 37）。
+  - id: 45
+    kind: body
+    source: |-
+      > 禮之設所以治天下之情，或裁其過，或勉其不及，俾知天地之中而已矣。
+      >
+      > Rituals are established to regulate the feelings of the world, either by curbing excesses or by exhorting them where they fall short, simply so that people understand the fitting mean in the world. (*Sz* 37)
+    step1: |-
+      > 禮之設所以治天下之情，或裁其過，或勉其不及，俾知天地之中而已矣。
+      >
+      > 礼的设立，为的是治理天下之情：或裁抑其过，或劝勉其不及，只是使人知晓天地之中正罢了。（*Sz* 37）
+    step2: |-
+      > 禮之設所以治天下之情，或裁其過，或勉其不及，俾知天地之中而已矣。
+      >
+      > 礼的设立，为的是治理天下之情：或裁抑其过，或劝勉其不及，只是使人知晓天地之中正罢了。（*Sz* 37）
+  - id: 46
+    kind: body
+    source: |-
+      Another normative notion, virtue (*de* 德), is also integrated into this cluster of interrelated concepts. A virtuous person is one who follows dao and thus conforms to pattern (*li*) such that not only their own but others’ wants and feelings are fulfilled.
+    step1: |-
+      另一个规范性概念——德——也整合进这组相互关联的概念之中。有德之人遵循道，从而合于理，使自己的欲望与情感得到顺遂，也使他人的得到顺遂。
+    step2: |-
+      另一个规范性概念——德——也整合进这组相互关联的概念之中。有德之人遵循道、从而合于理：不仅自己的欲与情得到顺遂，他人的欲与情也得到顺遂。
+  - id: 47
+    kind: body
+    source: |-
+      > 道德之盛，使人之欲無不遂，人之情無不達，斯已矣。
+      >
+      > The flourishing of *dao* and virtue is simply for none of people’s wants to go unsatisfied and none of their feelings to go unfulfilled. (*Sz* 30)
+    step1: |-
+      > 道德之盛，使人之欲無不遂，人之情無不達，斯已矣。
+      >
+      > 道德之盛，使人的欲无不顺遂，人的情无不通达，如此而已。（*Sz* 30）
+    step2: |-
+      > 道德之盛，使人之欲無不遂，人之情無不達，斯已矣。
+      >
+      > 道德之盛，使人的欲无不顺遂，人的情无不通达，如此而已。（*Sz* 30）
+  - id: 48
+    kind: body
+    source: |-
+      The highest form of virtue thus lies in living according to norms that facilitate fulfillment for all persons. The sages in particular demonstrated the utmost virtue by not only living a morally exemplary life but establishing and promulgating norms of propriety that helped lead others to live virtuous lives.
+    step1: |-
+      因此，德的最高形式在于依那些促成所有人顺遂的规范而生活。圣人们尤其以极致之德示范：不仅自身过着道德楷模的生活，而且确立并颁行礼之规范，引导他人过有德的生活。
+    step2: |-
+      因此，德的最高形式在于依那些促成所有人顺遂的规范而生活。圣人尤以极致之德示范：不仅自身过着道德楷模的生活，而且确立并颁行礼之规范，引导他人过有德的生活。
+  - id: 49
+    kind: body
+    source: |-
+      ## 4. Moral Psychology: People’s Nature
+    step1: |-
+      ## 4. 道德心理学：人之性
+    step2: |-
+      ## 4. 道德心理学：人之性
+  - id: 50
+    kind: body
+    source: |-
+      Dai’s novel, complex views about human moral psychology underwrite his account of pattern (*li*), his rejection of the dualism of pattern and *qi* (dynamic stuff), his explanation of normativity, his view of moral development, and his account of moral deliberation. This section sketches his systematic moral psychology.
+    step1: |-
+      戴震关于人类道德心理学的新颖而复杂的观点，为其理之论述、其对理气二元论的拒斥、其规范性解释、其道德发展观及其道德思虑之说提供支撑。本节概述其系统性的道德心理学。
+    step2: |-
+      戴震关于人类道德心理学的新颖而复杂的观点，为其理之论述、其对理气二元论的拒斥、其规范性解释、其道德发展观与道德思虑之说提供支撑。本节概述其系统性的道德心理学。
+  - id: 51
+    kind: body
+    source: |-
+      Dai understands people to have a physical body, within which there are the “blood-and-*qi*” (*xueqi* 血氣) and the “understanding heart-mind” (*xinzhi* 心知). The blood-and-qi and the heart-mind are both part of the “actualized object” or the “materialization” of our nature (*xing* 性) (*Sz* 16). The blood-and-qi are fluid- or vapor-like substances that circulate throughout the body. The understanding (*zhi* 知) is the heart-mind’s capacity for awareness and cognition. Although the blood-and-*qi* function similarly in all healthy persons, the clarity and accuracy of people’s awareness and understanding vary. Depending on experience, education, attention, and habit, some perceive only a limited range of patterns, while others—such as the sages—achieve the highest level of understanding, consistently discerning the underlying patterns (*Sz* 6).
+    step1: |-
+      戴震认为人有形体，形体之内有血气（xueqi）与心知（xinzhi）。血气与心知都是我们之性的“实现之物”（actualized object）或“质料化”（materialization）的一部分（Sz 16）。血气是循环周身的液态或气态之物。知是心的知觉与认知能力。血气在一切健康人身上的运作大体相似，但人们知觉与理解的清明与准确程度却各不相同：因经验、教育、注意与习惯而异，有人只能知觉有限的理，而另一些人——如圣人——则达到理解的最高层次，能一贯洞见底层的理（Sz 6）。
+    step2: |-
+      戴震认为人有形体，形体之内有血气（xueqi）与心知（xinzhi）；二者都是我们之性的“实现之物”（actualized object）或“质料化”（materialization）的一部分（Sz 16）。血气是循环周身的液态或气态之物；知是心的知觉与认知能力。血气在一切健康人身上的运作大体相似，但人的知觉与理解，其清明与准确程度各不相同：因经验、教育、注意与习惯而异——有人只能知觉有限的理，另一些人（如圣人）则达到理解的最高层次，一贯洞见底层的理（Sz 6）。
+  - id: 52
+    kind: body
+    source: |-
+      The blood-and-*qi* produce *yu* 欲, or “bodily wants” (*Sz* 8, 30). Yu is often interpreted as “desire”, but for Dai it has a narrower scope. You can have a desire to be a doctor or a desire that your favorite team win the football game, but to Dai these attitudes are not “*yu.*” In his psychology, yu refers only to craving (*ai* 愛) or avoiding (*wei* 畏) sounds, colours, smells, and tastes and to cherishing life and fearing death (*huaisheng weisi* 懷生畏死, *Sz* 21, 30). Dai’s use of *yu* is thus closer to “basic wants” than to “desires”. Since such wants issue from the blood-and-*qi*, not the heart-mind’s understanding, they are roughly the same for all persons. (For further discussion, see Tiwald 2010a.)[^tiwald-2010a]
+    step1: |-
+      血气产生欲——即“身体之欲”（Sz 8, 30）。欲常被解读为“desire”（欲望），但在戴震那里其范围更窄。你可以有当医生的欲望，或希望自己喜欢的球队赢球的欲望，但在戴震看来这些态度都不是“欲”。在他的心理学中，欲仅指对声音、颜色、气味与味道的渴爱（ai，爱）或畏避（wei，畏），以及怀生畏死（huaisheng weisi，Sz 21, 30）。因此，戴震所用之“欲”更接近“基本之欲”而非“欲望”。既然这类欲出于血气而非心知之知，它们对所有人而言大体相同。（进一步讨论见 Tiwald 2010a。）[^tiwald-2010a]
+    step2: |-
+      血气产生欲——即“身体之欲”（Sz 8, 30）。欲常被解读为“desire”（欲望），但在戴震那里其范围更窄：你可以有当医生的欲望、或愿自己喜欢的球队赢球的欲望，但这些态度在戴震看来都不是“欲”。在他的心理学中，欲仅指对声音、颜色、气味与味道的渴爱（ai，爱）或畏避（wei，畏），以及怀生畏死（huaisheng weisi；Sz 21, 30）。故戴震所用之“欲”，更近于“基本之欲”而非“欲望”。这类欲既出于血气而非心知之知，便对所有人而言大体相同。（进一步讨论见 Tiwald 2010a。）[^tiwald-2010a]
+  - id: 53
+    kind: body
+    source: |-
+      The blood-and-*qi* also produce *qing* 情, or “feelings”. These are noncognitive responses of joy, anger, sorrow, and delight (*xi lu ai le* 喜怒哀樂), leading to misery or comfort (*can shu* 慘舒) (*Sz* 30). Craving ice cream because you are hungry is a “want” (yu); feeling delighted when you get the ice cream is a feeling (*qing*)—a comfortable or pleasant one, and so it is a “like” (*hao* 好), rather than a “dislike” (wu 惡). Like the basic wants, feelings do not require understanding and so are largely the same for everyone. By contrast, the emotions of alarm and sympathy Mencius says we have on seeing a child in danger are not “feelings”, according to Dai.
+    step1: |-
+      血气也产生情。情是喜怒哀乐（xi lu ai le）的非认知性反应，导致惨或舒（can shu）（Sz 30）。因为饥饿而想吃冰淇淋是“欲”；拿到冰淇淋时的欣喜则是情——一种舒适或愉快的情，所以是“好”而非“恶”。与基本之欲一样，情不需要知，因而对每个人大体相同。相比之下，按戴震的看法，孟子所说见孺子于险境时的怵惕与恻隐，不是“情”。
+    step2: |-
+      血气也产生情。情是喜怒哀乐（xi lu ai le）的非认知性反应，导致惨或舒（can shu）（Sz 30）。因为饥饿而想吃冰淇淋，这是“欲”；拿到冰淇淋时的欣喜，则是情——一种舒适或愉快的情，所以是“好”而非“恶”。与基本之欲一样，情不需要知，因而对每个人大体相同。相比之下，按戴震的看法，孟子所说见孺子于险境而有的怵惕与恻隐，不是“情”。
+  - id: 54
+    kind: body
+    source: |-
+      > 孟子舉惻隱、羞惡、辭讓、是非之心謂之心，不謂之情。
+      >
+      > Mencius mentioned the hearts [mental attitudes] of compassion, shame-and-loathing, respect, and approval-or-disapproval and called them “heart-mind” (*xin*), not “feelings” (*qing*). (*Sz* 30)
+    step1: |-
+      > 孟子舉惻隱、羞惡、辭讓、是非之心謂之心，不謂之情。
+      >
+      > 孟子举恻隐、羞恶、辞让、是非之心称之为心，而不称之为情。（*Sz* 30）
+    step2: |-
+      > 孟子舉惻隱、羞惡、辭讓、是非之心謂之心，不謂之情。
+      >
+      > 孟子举恻隐、羞恶、辞让、是非之心称之为心，而不称之为情。（*Sz* 30）
+  - id: 55
+    kind: body
+    source: |-
+      These “mental attitudes” require understanding and so depend on the functioning of the heart-mind (*xin* 心). We might interpret them as inclinations, concerns, or states of mind.
+    step1: |-
+      这些“心理态度”需要知，因而依赖于心（xin）的运作。我们可以把它们解读为倾向、关切或心灵状态。
+    step2: |-
+      这些“心理态度”需要知，因而依赖于心（xin）的运作。我们不妨把它们解读为倾向、关切或心灵状态。
+  - id: 56
+    kind: body
+    source: |-
+      The understanding of the heart-mind (*xinzhi* 心知) provides the capacity for perception and cognition, for aesthetic and normative judgment (*mei chou shi fei* 美醜是非) and accordingly for admiring “pattern and right” (*liyi* 理義) (*Sz* 7, 8). Moral attitudes such as sympathy, shame-and-loathing, respect, and approval-or-disapproval have a cognitive component, which arises from the understanding (*Sz* 21). This cognitive component involves seeing an analogy between one’s own wants and feelings and those of others, which triggers the moral attitude. The result, according to Dai, is that if we had no wants and feelings ourselves, we would be unable to have moral reactions such as sympathy to the situation of other people.
+    step1: |-
+      心知提供知觉与认知的能力，审美与规范判断（美丑是非）的能力，并由此提供慕好“理义”（liyi）的能力（Sz 7, 8）。恻隐、羞恶、辞让、是非这类道德态度有一个认知成分，它由知而生（Sz 21）。这一认知成分涉及在自己与他人的欲和情之间看到类比，由此触发道德态度。按戴震的看法，其结果是：若我们自己没有欲与情，便无法对他人处境产生恻隐这类道德反应。
+    step2: |-
+      心知提供知觉与认知之能、审美与规范判断（美丑是非）之能，并由此提供慕好“理义”（liyi）之能（Sz 7, 8）。恻隐、羞恶、辞让、是非这类道德态度有一个认知成分，由知而生（Sz 21）。这一认知成分涉及在自己与他人的欲和情之间见到类比，由此触发道德态度。按戴震的看法，其结果是：若我们自己没有欲与情，便无法对他人处境产生恻隐这类道德反应。
+  - id: 57
+    kind: body
+    source: |-
+      So, to feel the sympathetic concern associated with benevolence (*ren* 仁), we need to have wants (primarily, cherishing life and fearing death), which prompt us to have feelings such as delight in life and sorrow over death. To these states produced by our blood-and-*qi*, we apply our cognitive capacities—the understanding—to grasp the importance of life to us and, by analogy, to everyone.
+    step1: |-
+      因此，要感受与仁（ren）相联的恻隐之情，我们需要有欲（主要是怀生畏死），欲促使我们产生乐生哀死这类情感。对血气所产生的这些状态，我们运用认知能力——知——来把握生命之于我们的重要性，并由此及于一切人。
+    step2: |-
+      因此，要感受与仁（ren）相联的恻隐之情，我们需要有欲（主要是怀生畏死）；欲促使我们产生乐生哀死这类情感。对血气所产生的这些状态，我们运用认知能力——知——来把握生命之于我们的分量，并由此推及一切人。
+  - id: 58
+    kind: body
+    source: |-
+      > 孟子言「今人乍見孺子將入井，皆有怵惕惻隱之心」，然則所謂惻隱、所謂仁者，非心知之外別「如有物焉藏於心」也，己知懷生而畏死，故怵惕於孺子之危，惻隱於孺子之死。
+      >
+      > Mencius said, “If people were to suddenly see a child about to fall into a well, they would all have a heart-mind of alarm and compassion”. That being so, what’s called “compassion” or “benevolence” is not some distinct thing concealed in the heart-mind, apart from the understanding. We ourselves understand [what it is] to cherish life and fear death, and so we are alarmed at the danger to the child and compassionate about the child’s [risk of] death. (*Sz* 21)
+    step1: |-
+      > 孟子言“今人乍見孺子將入井，皆有怵惕惻隱之心”，然則所謂惻隱、所謂仁者，非心知之外別“如有物焉藏於心”也，己知懷生而畏死，故怵惕於孺子之危，惻隱於孺子之死。
+      >
+      > 孟子说“今人乍见孺子将入于井，皆有怵惕恻隐之心”。既然如此，所谓恻隐、所谓仁，并非心知之外另“如有物焉藏于心”；我们自己知晓怀生而畏死，所以为孺子之危而怵惕，为孺子之死而恻隐。（*Sz* 21）
+    step2: |-
+      > 孟子言“今人乍見孺子將入井，皆有怵惕惻隱之心”，然則所謂惻隱、所謂仁者，非心知之外別“如有物焉藏於心”也，己知懷生而畏死，故怵惕於孺子之危，惻隱於孺子之死。
+      >
+      > 孟子说“今人乍见孺子将入于井，皆有怵惕恻隐之心”。既然如此，所谓恻隐、所谓仁，并非心知之外另“如有物焉藏于心”；我们自己知晓怀生而畏死，所以为孺子之危而怵惕，为孺子之死而恻隐。（*Sz* 21）
+  - id: 59
+    kind: body
+    source: |-
+      Hence, Dai holds, ethical norms and values are grounded partly in the wants of the blood-and-*qi*, which the heart-mind’s understanding recognizes and applies to evaluate and guide action. Norms and values do not come from some “outside”, transcendent source such as *Tian* or abstract, cosmic pattern.
+    step1: |-
+      因此戴震主张：伦理规范与价值部分奠基于血气之欲；心知认识这些欲，并运用它们来评估与引导行动。规范与价值并非来自某个“外在的”超越源头——如天或抽象的宇宙之理。
+    step2: |-
+      因此戴震主张：伦理规范与价值部分奠基于血气之欲；心知认识这些欲，并运用它们来评估与引导行动。规范与价值并非来自“外在”的超越源头——如天或抽象的宇宙之理。
+  - id: 60
+    kind: body
+    source: |-
+      > 古賢聖所謂仁義禮智，不求於所謂欲之外，不離乎血氣心知。
+      >
+      > What the ancient worthies and sages called “benevolence”, “right”, “propriety”, and “wisdom” they did not seek outside of what they called “wants” and was not separate from the blood-and-*qi* and the heart-mind’s understanding. (*Sz* 21)
+    step1: |-
+      > 古賢聖所謂仁義禮智，不求於所謂欲之外，不離乎血氣心知。
+      >
+      > 古代贤圣所谓仁义礼智，不求于所谓欲之外，不离乎血气心知。（*Sz* 21）
+    step2: |-
+      > 古賢聖所謂仁義禮智，不求於所謂欲之外，不離乎血氣心知。
+      >
+      > 古代贤圣所谓仁义礼智，不求于所谓欲之外，不离乎血气心知。（*Sz* 21）
+  - id: 61
+    kind: body
+    source: |-
+      In Dai’s view, what he takes to be the prevailing Song- and Ming-dynasty Neo-Confucian view of moral cultivation as purifying oneself of everyday wants or desires and mundane, worldly human feelings is not only mistaken but incoherent. (Again, it is controversial whether his interpretation of his predecessors’ views is fair.) Without wants and feelings, we would lose our capacity for moral agency, because we would be unable to refer to our own wants and feelings as a benchmark by which to understand the well-being of other people.
+    step1: |-
+      在戴震看来，他所理解的宋明理学主流观点——把道德修养视为净化自己的日常欲求与人间的凡俗情感——不仅错误，而且自相矛盾。（再说一次，他对前辈观点的解读是否公允，是有争议的。）没有欲与情，我们将失去道德能动性的能力，因为我们无法以自己的欲与情为基准来理解他人的福祉。
+    step2: |-
+      在戴震看来，他所理解的宋明理学主流观点——把道德修养视为净化自己的日常欲求与人间的凡俗情感——不仅错误，而且自相矛盾。（须再申：他对前辈观点的解读是否公允，是有争议的。）没有欲与情，我们将失去道德能动性，因为我们无法以自己的欲与情为基准来理解他人的福祉。
+  - id: 62
+    kind: body
+    source: |-
+      Beyond merely being able to recognize others’ well-being, Dai thinks, the heart-mind’s understanding is constituted such that conforming to ethical norms is inherently pleasing to us. He makes this point by developing the claim in *Mengzi* 6A:7 that people share a tendency to be pleased by “pattern and right” just as we (purportedly) share a tendency to find the same foods delicious. Dai claims that this tendency is “self-so” for the understanding—that is, it arises from the inherent functioning of the heart-mind, without external influence.
+    step1: |-
+      戴震认为，心知不仅能识别他人的福祉，其构成方式还使遵循伦理规范本身就令我们愉悦。他通过发挥《孟子》6A:7 的论点来申说这一点：人们共同地以“理义”为悦，正如（据说）我们对同样的食物有共同的美味感。戴震主张，这一倾向对知而言是“自然”——即它源于心的固有运作，没有外部影响。
+    step2: |-
+      戴震认为，心知不仅能识别他人的福祉，其构成方式还使遵循伦理规范本身就令我们愉悦。他通过发挥《孟子》6A:7 的论点来申说此点：人们共同地以“理义”为悦，正如（据说）我们对同样的食物有共同的美味感。戴震主张，这一倾向对知而言是“自然”——它源于心的固有运作，没有外部影响。
+  - id: 63
+    kind: body
+    source: |-
+      > 欲者，血氣之自然；其好是懿德也，心知之自然。…心知之自然，未有不悅理義者。未能盡得理合義耳。
+      >
+      > [To have] wants [is something that comes] self-so (*ziran*) for the blood-and-*qi*; to be fond of fine virtue [is something that comes] self-so for the understanding heart-mind…. What is self-so for the understanding heart-mind is such that there’s never been anyone who fails to be pleased by pattern and right; it’s just that [some people] cannot fully grasp pattern and comply with right. (*Sz* 15)
+    step1: |-
+      > 欲者，血氣之自然；其好是懿德也，心知之自然。…心知之自然，未有不悅理義者。未能盡得理合義耳。
+      >
+      > 欲，是血气之自然；其喜好懿德，是心知之自然……心知之自然，没有不喜悦理义的；只是未能尽得理、合于义罢了。（*Sz* 15）
+    step2: |-
+      > 欲者，血氣之自然；其好是懿德也，心知之自然。…心知之自然，未有不悅理義者。未能盡得理合義耳。
+      >
+      > 欲，是血气之自然；其喜好懿德，是心知之自然……心知之自然，没有不喜悦理义的；只是未能尽得理、合于义罢了。（*Sz* 15）
+  - id: 64
+    kind: body
+    source: |-
+      So Dai claims that insofar as we apply the heart-mind’s understanding correctly, we have an inherent disposition to follow pattern and do what is right because doing so is pleasing or satisfying.
+    step1: |-
+      所以戴震主张：只要我们正确运用心知，我们就有遵循理、做正当之事的内在倾向，因为这样做令人愉悦或满足。
+    step2: |-
+      所以戴震主张：只要我们正确运用心知，便有遵循理、行正当之事的内在倾向——因为这样做令人愉悦或满足。
+  - id: 65
+    kind: body
+    source: |-
+      Dai stresses that moral feelings such as the pleasure of conforming to appropriate norms have a physiological basis. The heart-mind is not a mysterious, abstract capacity but a physical organ composed of *qi* 氣 that is integral to moral deliberation and conduct. Dai asserts that the *qi* (here roughly the energy or spirit) of the heart-mind (*xinqi* 心氣) becomes strong and self-possessed (*changran zide* 暢然自得) when we follow patterns and norms that we believe to be correct. In contrast, acting against these norms causes the heart-mind’s qi to become depressed and frustrated (*Sz* 8). This gloomy state is an uncomfortable psycho-physiological condition that prompts us to avoid certain actions, whether immediately or in the future.
+    step1: |-
+      戴震强调，遵循适当规范所带来的愉悦这类道德情感有其生理基础。心不是神秘抽象的能力，而是由气构成的形体器官，是道德思虑与行动不可或缺的部分。戴震断言，当我们遵循自己认为正确的理与规范时，心气（xinqi，此处大致指气或精神）会变得畅然自得；相反，违背这些规范会使心气沮丧郁结（Sz 8）。这种阴郁状态是一种不适的心理—生理状况，促使我们避开某些行动，无论当下还是将来。
+    step2: |-
+      戴震强调，遵循适当规范所带来的愉悦这类道德情感，有其生理基础。心不是神秘抽象的能力，而是由气构成的形体器官，是道德思虑与行动不可或缺的部分。戴震断言：当我们遵循自己认为正确的理与规范时，心气（xinqi，此处大致指气或精神）变得畅然自得；相反，违背这些规范会使心气沮丧郁结（Sz 8）。这种阴郁状态是一种不适的心理—生理状况，促使我们避开某些行动——无论当下还是将来。
+  - id: 66
+    kind: body
+    source: |-
+      Despite how features of our motivational structure align with moral norms, Dai thinks, people do not always act morally. He identifies two main causes of moral failure: selfishness and blinkering.
+    step1: |-
+      尽管我们动机结构的诸特征与道德规范相合，戴震认为，人并不总是依道德而行动。他指出道德失败的两个主因：私与蔽。
+    step2: |-
+      尽管我们动机结构的诸特征与道德规范相合，戴震仍认为：人并不总是依道德而行动。他把道德失败归为两个主因——私与蔽。
+  - id: 67
+    kind: body
+    source: |-
+      > 人之患，有私有蔽；私出於情欲，蔽出於心知。
+      >
+      > The problems with people lie in selfishness (*si* 私) and blinkering (*bi* 蔽); selfishness arises from feelings and wants, while blinkering arises from the heart-mind’s understanding. (*Sz* 40)
+    step1: |-
+      > 人之患，有私有蔽；私出於情欲，蔽出於心知。
+      >
+      > 人的祸患在于有私、有蔽；私出于情欲，蔽出于心知。（*Sz* 40）
+    step2: |-
+      > 人之患，有私有蔽；私出於情欲，蔽出於心知。
+      >
+      > 人的祸患在于有私、有蔽；私出于情欲，蔽出于心知。（*Sz* 40）
+  - id: 68
+    kind: body
+    source: |-
+      Selfishness refers to people’s drive to fulfill their feelings and wants, which can override their motivation to follow moral norms. Blinkering refers to an inability to grasp the correct patterns. The motivational structure Dai describes ensures that people are motivated to act according to what they judge to be the correct patterns, but their judgment can be mistaken. To avoid blinkering, Dai emphasizes the importance of learning, particularly from the teachings of the sages. To avoid selfishness, he believes that cultivating reverence (*jing* 敬) is essential, as it allows us to combat misguided wants and feelings (*Sz* 12). Applying a metaphor familiar from classical Confucianism, Dai views the heart-mind as analogous to a ruler that commands the other parts of the person. It is capable of judging what aligns with pattern and right (*liyi* 理義), overcoming the influence of wants and feelings, and so rectifying our actions (*Sz* 8). However, the primary focus of his discussion is on understanding, and thus blinkering, and he provides few details on how to cultivate reverence or to rectify our actions.
+    step1: |-
+      私指人顺遂自己情感与欲求的冲动，这种冲动可以压倒遵循道德规范的动机。蔽指无法把握正确的理。戴震所描述的动机结构确保人依其所判断为正确的理而行动的动机，但他们的判断可能出错。为避免蔽，戴震强调学习的重要性，尤其是向圣人之教学习。为避免私，他认为培养敬（jing）至关重要，因为敬使我们能够对抗误入歧途的欲与情（Sz 12）。戴震运用儒家经典中熟知的比喻，把心比作统率人身其他部分的君主：心能判断何者合于理义，克服欲与情的影响，从而端正我们的行动（Sz 8）。然而，他讨论的重心在知——因而也在蔽——至于如何培养敬、如何端正行动，他提供的细节很少。
+    step2: |-
+      私指人顺遂自己情感与欲求的冲动，这种冲动可以压倒遵循道德规范的动机；蔽指无法把握正确的理。戴震所描述的动机结构确保人依其所判为正确的理而行动，但其判断可能出错。为避免蔽，戴震强调学习之重要，尤其是向圣人之教学习；为避免私，他认为培养敬（jing）至关重要——敬使我们能对抗误入歧途的欲与情（Sz 12）。戴震运用儒家经典中熟知的比喻，把心比作统率人身其他部分的君主：心能判断何者合于理义，克服欲与情的影响，从而端正我们的行动（Sz 8）。然而他讨论的重心在知——因而也在蔽；至于如何培养敬、如何端正行动，他提供的细节很少。
+  - id: 69
+    kind: body
+    source: |-
+      ## 5. Normativity
+    step1: |-
+      ## 5. 规范性
+    step2: |-
+      ## 5. 规范性
+  - id: 70
+    kind: body
+    source: |-
+      One of Dai’s signature doctrines is the convergence of the self-so (*ziran* 自然) and the imperative (*biran* 必然). This convergence has both metaethical and practical dimensions. On the metaethical side, from facts about what is self-so, or comes naturally for things, we can discover what is imperative, or norms of conduct, which constitute normative patterns (*li* 理) or *dao*. On the practical side, Dai holds that conduct that conforms to the imperative fulfills what is self-so for the heart-mind. This fulfillment is manifested through a sense of peace and the absence of regret, presumably corresponding to how the heart-mind is pleased by pattern and right. Dai highlights the connection between the self-so and the imperative in a key passage:
+    step1: |-
+      戴震的标志性学说之一是自然（ziran）与必然（biran）的会通。这一会通兼具元伦理与实践两个维度。在元伦理一侧，从关于何者为自然——即事物自然而然如此——的事实中，我们可以发现何者为必然，即行为规范，它们构成规范性的理或道。在实践一侧，戴震主张：合于必然的行动成全心知的自然。这种成全表现为安宁感与无悔，大概对应于心知以理义为悦的方式。戴震在一段关键文字中凸显了自然与必然的联系：
+    step2: |-
+      戴震的标志性学说之一，是自然（ziran）与必然（biran）的会通。这一会通兼具元伦理与实践两个维度。元伦理一侧：从关于何者为自然——即事物自然而然如此——的事实中，我们可以发现何者为必然，即行为规范；它们构成规范性的理或道。实践一侧：戴震主张，合于必然的行动成全心知的自然。这种成全表现为安宁感与无悔，大概对应于心知以理义为悦的方式。戴震在一段关键文字中凸显了自然与必然的联系：
+  - id: 71
+    kind: body
+    source: |-
+      > 由血氣之自然，而審察之以知其必然，是之謂理義；自然之與必然，非二事也。就其自然，明之盡而無幾微之失焉，是其必然也。如是而後無憾，如是而後安，是乃自然之極則。若任其自然而流於失，轉喪其自然，而非自然也；故歸於必然，適完其自然。
+      >
+      > If we examine what comes self-so (*ziran*) for the blood-and-qi in order to discover what is imperative (*biran*) for it, [the result] is what we call “pattern and right”. The self-so and the imperative are not two separate matters. With respect to the self-so, to fully understand it such that there isn’t the slightest error—this reveals what is imperative (*biran*). If, attaining this, we are at peace, without regrets, then this is the ultimate norm for what is self-so [for moral agents]. If we indulge the self-so [our unregulated wants and feelings] and so drift into error, then the result is not that we attain the self-so but that we lose it. Thus by turning toward what is imperative (*biran*) for things, we bring what is self-so (*ziran*) to completion. (*Sz* 15)
+    step1: |-
+      > 由血氣之自然，而審察之以知其必然，是之謂理義；自然之與必然，非二事也。就其自然，明之盡而無幾微之失焉，是其必然也。如是而後無憾，如是而後安，是乃自然之極則。若任其自然而流於失，轉喪其自然，而非自然也；故歸於必然，適完其自然。
+      >
+      > 由血气之自然，而审察之以知其必然，这就叫做理义；自然与必然，并非两回事。就其自然，明察至尽而无丝毫之失，这便是其必然。如此而后无憾，如此而后安，这才是自然之极则。若任其自然而流于过失，反而丧失其自然，那就不成其为自然了；所以归于必然，恰好成全其自然。（*Sz* 15）
+    step2: |-
+      > 由血氣之自然，而審察之以知其必然，是之謂理義；自然之與必然，非二事也。就其自然，明之盡而無幾微之失焉，是其必然也。如是而後無憾，如是而後安，是乃自然之極則。若任其自然而流於失，轉喪其自然，而非自然也；故歸於必然，適完其自然。
+      >
+      > 由血气之自然，而审察之以知其必然，这就叫做理义；自然与必然，并非两回事。就其自然，明察至尽而无丝毫之失，这便是其必然。如此而后无憾，如此而后安，这才是自然之极则。若任其自然而流于过失，反而丧失其自然，那就不成其为自然了；所以归于必然，恰好成全其自然。（*Sz* 15）
+  - id: 72
+    kind: body
+    source: |-
+      Dai suggests that by thoroughly understanding the inherent propensities of things—what is self-so for them—we can identify the conditions in which they best fulfill, or “complete”, these propensities, attaining a state of well-being. These conditions can be taken to determine norms, which he calls the “imperative” (*biran*). The role of peace and regret here relates to our earlier discussion (section 4) about the *qi* of the heart-mind being strong and self-possessed when we follow what we take to be moral norms and frustrated when we fail to do so. What is self-so for the heart-mind, which draws us toward moral norms, is manifested partly in the natural movement of *qi* within one’s body. Therefore, by following what is self-so for the heart-mind, according to Dai, we can also fulfill what is imperative for humanity. Dai asserts that this convergence between the self-so and the imperative is the ultimate fulfillment for human agents.
+    step1: |-
+      戴震提示：透彻理解事物的固有倾向——即对它们而言的自然——我们便能辨识出它们最好地成全或“完成”这些倾向的条件，达到福祉状态。这些条件可被视为决定规范，即他所谓的“必然”。此处安宁与悔恨的角色，关联到我们此前的讨论（第 4 节）：遵循我们所认为的道德规范时心气强盛自得，未能遵循时则沮丧。心知的自然——它把我们引向道德规范——部分体现在身体内气的自然运动之中。因此戴震认为，遵循心知的自然，我们同时成全了人之必然。戴震断言：自然与必然之间的这种会通，是人的行动者的终极成全。
+    step2: |-
+      戴震提示：透彻理解事物的固有倾向——即对它们而言的自然——我们便能辨识出它们最好地成全或“完成”这些倾向的条件，达到福祉状态。这些条件可视为决定规范，即他所谓的“必然”。此处安宁与悔恨的角色，关联到我们此前的讨论（第 4 节）：遵循我们所认的道德规范时心气强盛自得，未能遵循时则沮丧。心知的自然——它把我们引向道德规范——部分体现在身体内气的自然运动之中。因此按戴震的看法，遵循心知的自然，我们同时成全了人之必然。戴震断言：自然与必然之间的这种会通，是人的行动者的终极成全。
+  - id: 73
+    kind: body
+    source: |-
+      > 歸於必然，適完其自然，此之謂自然之極致，天地人物之道於是乎盡。
+      >
+      > By turning toward what is imperative (*biran*), one brings what is self-so (*ziran*) to completion. This is called the ultimate fulfillment of what is self-so (*ziran*). In this way, the dao of Heaven and Earth, of humanity and animals, is completely fulfilled. (*Sz* 32)
+    step1: |-
+      > 歸於必然，適完其自然，此之謂自然之極致，天地人物之道於是乎盡。
+      >
+      > 归于必然，恰好成全其自然，这叫做自然之极致，天地人物之道由此而尽。（*Sz* 32）
+    step2: |-
+      > 歸於必然，適完其自然，此之謂自然之極致，天地人物之道於是乎盡。
+      >
+      > 归于必然，恰好成全其自然，这叫做自然之极致，天地人物之道由此而尽。（*Sz* 32）
+  - id: 74
+    kind: body
+    source: |-
+      Why should one follow the *qi* of the heart-mind, which leads to moral actions when one has correct moral knowledge, rather than the blood-and-*qi*, which leads to selfish actions? Both sources of motivation are equally self-so for the human person, yet Dai’s conception of the “ultimate fulfillment” of the self-so seems to assign priority to the heart-mind’s *qi*. For Dai, the answer is that this prioritization is actually what is self-so for humanity. Of course, Dai holds that acting morally also entails fulfilling our blood-and-*qi*—our physical needs—and thus satisfying our basic wants and feelings (for further discussion, see section 7). But satisfying our basic wants and feelings does not mean simply indulging our physical wants. For in Dai’s framework, only by prioritizing the self-so of the heart-mind can we attain “completion” in the sense that *both* the blood-and-*qi* and the heart-mind are fulfilled. In contrast, indulging what is self-so for the blood-and-*qi* alone would leave the heart-mind unfulfilled. Arguably, this joint fulfillment of both parts of the person follows from Dai’s wider stance that the flourishing of all living things (*shengsheng* 生生) is a foundational value. The reasoning would be that the flourishing of living things naturally includes human flourishing, and human flourishing requires the fulfillment of both parts of the person. For both parts of the person to attain fulfillment, we must prioritize fulfillment of the heart-mind—and thus conformity to moral norms—over unrestrained indulgence of the blood-and-*qi*. (For more discussion, see Chong forthcoming.)
+    step1: |-
+      为什么应当遵循心之气——它在人具有正确道德知识时引向道德行动——而不是遵循引向自私行动的血气？两个动机来源对人身而言同样是自然，但戴震对自然之“终极成全”的构想似乎把优先性给了心之气。戴震的回答是：这种优先化恰恰是人之为人的自然。当然，戴震认为依道德而行动也包含成全我们的血气——我们的身体需要——从而满足基本之欲与情（进一步讨论见第 7 节）。但满足基本之欲与情，并不意味着单纯放纵身体之欲。因为在戴震的框架中，唯有把心知的自然置于优先，我们才能达到血气与心知两者都得到成全的意义上的“完成”。相反，只放纵血气的自然，心知将不得成全。可以说，人的这两部分的共同成全，源自戴震更宽的立场：万物之生生（shengsheng）是基础价值。其推理是：生物之繁荣自然包括人的繁荣，而人的繁荣需要人身两部分的成全；要两部分都成全，就必须把心的成全——从而对道德规范的遵循——置于对血气的无节制放纵之上。（更多讨论见 Chong forthcoming。）
+    step2: |-
+      为什么应当遵循心之气——在人具有正确道德知识时引向道德行动者——而非引向自私行动的血气？两个动机来源对人身而言同样是自然，但戴震对自然之“终极成全”的构想似乎把优先性给了心之气。戴震的回答是：这种优先化恰恰是人之为人的自然。当然，戴震认为依道德而行动也包含成全我们的血气——我们的身体需要——从而满足基本之欲与情（进一步讨论见第 7 节）。但满足基本之欲与情，不等于单纯放纵身体之欲。因为在戴震的框架中，唯有把心知的自然置于优先，我们才能达到血气与心知两者俱得成全意义上的“完成”；相反，只放纵血气的自然，心知将不得成全。可以说，人身这两部分的共同成全，源自戴震更宽的立场：万物之生生（shengsheng）是基础价值。其推理是：生物之繁荣自然包括人的繁荣，而人的繁荣需要人身两部分的成全；要两部分俱成全，就必须把心的成全——从而对道德规范的遵循——置于对血气的无节制放纵之上。（更多讨论见 Chong forthcoming。）
+  - id: 75
+    kind: body
+    source: |-
+      The ties between the concepts of the self-so and the imperative, along with the dual descriptive and normative roles Dai assigns to the concepts of pattern (*li* 理) and dao (道), can be taken to raise a version of the is-ought question. On the one hand, Dai treats patterns (*li*) as descriptive regularities that have no separate ontological status from *qi*, the dynamic, material stuff of which the world is constituted. Given the Confucian theoretical framework, there is no particular conceptual difficulty in claiming that regularities of behavior are part of the ontological realm of *qi*. However, Dai also takes self-so patterns (*li*) to underwrite his conception of the imperative (*biran*). How does he explain the link between descriptive pattern—or “is”—and imperative norms—or “ought”? Why should we follow the patterns (*li*)? Dai’s answer is that adhering to the patterns tends to fulfill people’s feelings and wants and the heart-mind’s inclination toward morality. However, even if we can confirm empirically that some pattern of behavior indeed has this outcome, we can still ask why we should seek to fulfill people’s feelings and wants or their heart-mind’s inclination. One possible answer, again, is that doing so is part of the flourishing of all life, which, like many Confucians, Dai posits as a foundational value (see Tiwald forthcoming-b). A second, overlapping answer may be that we already have a commitment to following the *dao*, and conforming to the patterns amounts to the best justified way of practicing the human *dao* that fulfills what is self-so for us (see Fraser forthcoming).
+    step1: |-
+      自然与必然两个概念之间的纽带，连同戴震赋予理与道的描述与规范双重角色，可以被看作引出了“是”与“应当”问题的一个版本。一方面，戴震把理当作描述性规则，它们与气——构成世界的动态物质之物——没有相分离的本体论地位。在儒家的理论框架内，主张行为规则属于气的本体领域，并无特别的概念困难。然而，戴震也以自然之理来支撑其必然概念。他如何解释描述性的理——即“是”——与必然规范——即“应当”——之间的联系？我们为什么应当遵循理？戴震的回答是：遵循理倾向于成全人的情与欲，以及心知向道德的倾向。然而，即使我们能经验地确认某行为规则确实有此结果，我们仍可追问：为什么应当求成全人的情与欲、或其心知的倾向？一个可能的答案仍是：这样做是万物生生的一部分，而生生如同许多儒家一样被戴震设定为基础价值（见 Tiwald forthcoming-b）。另一个与之重叠的答案或许是：我们已经承诺遵循道，而合于理正是践行人道——成全我们的自然——之最有根据的方式（见 Fraser forthcoming）。
+    step2: |-
+      自然与必然两个概念之间的纽带，连同戴震赋予理与道的描述与规范双重角色，可以被看作引出了“是”与“应当”问题的一个版本。一方面，戴震把理当作描述性规则，它们与气——构成世界的动态物质之物——没有相分离的本体论地位；在儒家理论框架内，主张行为规则属于气的本体领域，并无特别的概念困难。然而，戴震也以自然之理支撑其必然概念。他如何解释描述性的理——即“是”——与必然规范——即“应当”——之间的联系？我们为什么应当遵循理？戴震的回答是：遵循理倾向于成全人的情与欲，以及心知向道德的倾向。然而，即使我们能经验地确认某行为规则确实有此结果，仍可追问：为什么应当求成全人的情与欲、或其心知的倾向？一个可能的答案仍是：这样做是万物生生的一部分，而生生如同许多儒家一样被戴震设定为基础价值（见 Tiwald forthcoming-b）。另一个与之重叠的答案或许是：我们已承诺遵循道，而合于理正是践行人道——成全我们的自然——之最有根据的方式（见 Fraser forthcoming）。
+  - id: 76
+    kind: body
+    source: |-
+      ## 6. Moral Epistemology
+    step1: |-
+      ## 6. 道德认识论
+    step2: |-
+      ## 6. 道德认识论
+  - id: 77
+    kind: body
+    source: |-
+      ### 6.1 Sympathetic Consideration
+    step1: |-
+      ### 6.1 恕（Sympathetic Consideration）
+    step2: |-
+      ### 6.1 恕（Sympathetic Consideration）
+  - id: 78
+    kind: body
+    source: |-
+      How do we identify pattern and thus the norms we should follow? How do we determine what course of conduct to take? Dai’s proposal is that the norms to follow are discovered through a process of measuring others’ feelings by reference to our own. The fundamental procedure by which to assess our activity is by identifying pattern—and thus norms—through the use of the sympathetic consideration (*shu* 恕) associated with the “negative golden rule” of the Confucian *Analects*. Dai contends that we should guide action by patterns we identify through a process of reflection and deliberation.
+    step1: |-
+      我们如何识别理、从而识别应当遵循的规范？我们如何确定应取的行动路线？戴震的提议是：应当遵循的规范，经由以己之情度人之情的过程来发现。评估我们活动的基本程序，是借助与《论语》中“消极金律”相联的恕（shu）来识别理——从而识别规范。戴震主张，我们应当以经由反思与思虑的过程所识别的理来引导行动。
+    step2: |-
+      我们如何识别理、从而识别应当遵循的规范？如何确定应取的行动路线？戴震的提议是：应当遵循的规范，经由以己之情度人之情的过程来发现。评估我们活动的基本程序，是借助与《论语》“消极金律”相联的恕（shu）来识别理——从而识别规范。戴震主张，我们应以经由反思与思虑所识别的理来引导行动。
+  - id: 79
+    kind: body
+    source: |-
+      > 凡有所施於人，反躬而靜思之：「人以此施於我，能受之乎?」凡有所責於人，反躬而靜思之：「人以此責於我，能盡之乎?」以我絜之人，則理明。
+      >
+      > Any time you undertake something that affects others, reflect and calmly consider: “If others did this to me, could I accept it?” Any time you hold others responsible for something, reflect and calmly consider, “If others held me responsible for this, could I fulfill the responsibility?” If we use ourselves [as a benchmark] to measure [whether things are suitable] for others, pattern (*li*) becomes clear. (*Sz* 2)
+    step1: |-
+      > 凡有所施於人，反躬而靜思之：“人以此施於我，能受之乎？”凡有所責於人，反躬而靜思之：“人以此責於我，能盡之乎？”以我絜之人，則理明。
+      >
+      > 凡有所施于人，反躬静思：“人以此施于我，能受之乎？”凡有所责于人，反躬静思：“人以此责于我，能尽之乎？”以我度人，则理明。（*Sz* 2）
+    step2: |-
+      > 凡有所施於人，反躬而靜思之：“人以此施於我，能受之乎？”凡有所責於人，反躬而靜思之：“人以此責於我，能盡之乎？”以我絜之人，則理明。
+      >
+      > 凡有所施于人，反躬静思：“人以此施于我，能受之乎？”凡有所责于人，反躬静思：“人以此责于我，能尽之乎？”以我度人，则理明。（*Sz* 2）
+  - id: 80
+    kind: body
+    source: |-
+      In conducting this reflection, the indicator of whether we could or could not accept the treatment we are considering is our “feelings” (*qing* 情), specifically, according to Dai’s moral psychology, the misery or comfort we feel in response to the joy, anger, sorrow, or delight incited by our interactions with things. Again, this role of feelings is why Dai thinks many Song- and Ming-dynasty Confucians were terribly mistaken to hold that ethical cultivation requires minimizing or eliminating wants (or desires) and feelings. Only because we have wants do we have feelings, and feelings are the basic data we work from to discover pattern. Without these wants, the mechanism for sympathetic concern cannot function (see Tiwald 2010a)[^tiwald-2010a].
+    step1: |-
+      进行这种反思时，判断我们能否接受所考虑之对待的指标，是我们的“情”（qing）：按戴震的道德心理学，具体说，即我们与事物交接所激起的喜怒哀乐在我们身上引起的惨或舒。又是这一点——情的作用——解释了戴震为何认为许多宋明儒者错得厉害：他们主张道德修养要求把欲（或欲望）与情减至最小或消除。只因有欲，我们才有情；情是我们发现理时所依据的基本材料。没有这些欲，恻隐关切这一机制便无法运作（见 Tiwald 2010a）[^tiwald-2010a]。
+    step2: |-
+      进行这种反思时，判断我们能否接受所考虑之对待的指标，是我们的“情”（qing）：按戴震的道德心理学，具体说，即我们与事物交接所激起的喜怒哀乐在我们身上引起的惨或舒。又正是情的作用这一点，解释了戴震为何认为许多宋明儒者错得厉害——他们主张道德修养要求把欲（或欲望）与情减至最小或消除。只因有欲，我们才有情；情是我们发现理时所依据的基本材料。没有这些欲，恻隐关切这一机制便无法运作（见 Tiwald 2010a）[^tiwald-2010a]。
+  - id: 81
+    kind: body
+    source: |-
+      > 反躬者，以人之逞其欲，思身受之之情也。
+      >
+      > Reflection is a matter of considering what feelings we would have if others were to indulge their wants and we were on the receiving end. (*Sz* 2)
+      >
+      > 以情絜情而無爽失，於行事誠得其理矣。
+      >
+      > Using our feelings to measure others’ feelings without error, in conducting affairs we can indeed attain their patterns. (*Sz* 3)
+    step1: |-
+      > 反躬者，以人之逞其欲，思身受之之情也。
+      >
+      > 所谓反躬，就是想到他人逞其欲时，思量自己身受时会有的情。（*Sz* 2）
+      >
+      > 以情絜情而無爽失，於行事誠得其理矣。
+      >
+      > 以情度情而无差失，则行事确实得其理。（*Sz* 3）
+    step2: |-
+      > 反躬者，以人之逞其欲，思身受之之情也。
+      >
+      > 所谓反躬，就是想到他人逞其欲时，思量自己身受时会有的情。（*Sz* 2）
+      >
+      > 以情絜情而無爽失，於行事誠得其理矣。
+      >
+      > 以情度情而无差失，则行事确实得其理。（*Sz* 3）
+  - id: 82
+    kind: body
+    source: |-
+      Patterns are indicated by whether a proposed path of conduct can promote mutual satisfaction of wants and feelings. Dai’s idea of measuring others’ feelings with our own is not a matter of using ourself as a model for our treatment of others. Rather, he is attempting to use shared feelings and wants as a way of identifying what objectively tends to fulfill everyone’s wants and feelings. As we saw in section 4, in Dai’s moral psychology, wants and feelings are largely the same for all. For this reason, Dai holds, our own feelings can accurately indicate others’. Hence by hypothetically reflecting on the feelings a particular situation would induce in us, we can “measure” the feelings that others would have in the same or a similar situation. In principle, if we conduct this measurement process correctly, Dai thinks, the results will not be biased toward ourselves or others.
+    step1: |-
+      理由所提议的行动路线能否促进欲与情的相互满足来标识。戴震以己之情度人之情的想法，不是把自己当作对待他人的模型；毋宁说，他试图以共有的情与欲来辨识客观上倾向于成全每个人的欲与情的东西。如第 4 节所见，在戴震的道德心理学中，欲与情对所有人而言大体相同。正因如此，戴震主张，我们自己的情能够准确地指示他人的情。于是，通过假想性地反思某一特定情境会在我们身上引起的情，我们可以“度量”他人在相同或类似情境中会有的情。戴震认为，原则上，如果我们正确地进行这一度量过程，其结果将不会偏向我们自己或他人。
+    step2: |-
+      理由所提议的行动路线能否促进欲与情的相互满足来标识。戴震以己之情度人之情的想法，不是把自己当作对待他人的模型；毋宁说，他试图以共有的情与欲，辨识客观上倾向于成全每个人的欲与情者。如第 4 节所见，在戴震的道德心理学中，欲与情对所有人而言大体相同。正因如此，戴震主张，我们自己的情能够准确地指示他人的情。于是，假想性地反思某一特定情境会在我们身上引起的情，我们便能“度量”他人在相同或类似情境中会有的情。戴震认为：原则上，若我们正确地进行这一度量过程，其结果将不会偏向我们自己或他人。
+  - id: 83
+    kind: body
+    source: |-
+      > 天理云者，言乎自然之分理也；自然之分理，以我之情絜人之情，而無不得其平是也。
+      >
+      > Heavenly pattern refers to the distinguishing patterns of what is self-so. As to the distinguishing patterns of what is self-so, if we take our feelings to measure others’ feelings, such that nothing is out of balance, they are just this. (*Sz* 2)
+      >
+      > 不偏，則其情必和易而平恕也。
+      >
+      > If one is not biased, then their feelings will surely be harmonious and gentle, balanced and sympathetic. (*Sz* 30)
+    step1: |-
+      > 天理云者，言乎自然之分理也；自然之分理，以我之情絜人之情，而無不得其平是也。
+      >
+      > 所谓天理，说的是自然之分理；自然之分理，就是以我之情度人之情，而无不得其平。（*Sz* 2）
+      >
+      > 不偏，則其情必和易而平恕也。
+      >
+      > 不偏，则其情必和易而平恕。（*Sz* 30）
+    step2: |-
+      > 天理云者，言乎自然之分理也；自然之分理，以我之情絜人之情，而無不得其平是也。
+      >
+      > 所谓天理，说的是自然之分理；自然之分理，就是以我之情度人之情，而无不得其平。（*Sz* 2）
+      >
+      > 不偏，則其情必和易而平恕也。
+      >
+      > 不偏，则其情必和易而平恕。（*Sz* 30）
+  - id: 84
+    kind: body
+    source: |-
+      When our feelings accurately indicate others’, they reflect pattern (*li* 理), or the correct norms. If we are “balanced and sympathetic”, we measure others’ feelings accurately, and so we can identify pattern, which is instantiated by conduct that satisfies the feelings of all sides. If we are not “balanced and sympathetic”, we may mistakenly prefer norms that are beneficial to ourselves at others’ expense, and these norms fail to conform to the proper patterns.
+    step1: |-
+      当我们的情准确地指示他人的情时，它们便体现理，即正确的规范。如果我们“平恕”，我们度量他人的情便准确，从而能识别理——理由使各方之情都得到满足的行动来具体化。如果我们不“平恕”，我们可能错误地偏好以他人为代价而利己的规范，这些规范便不合于正当之理。
+    step2: |-
+      当我们的情准确地指示他人的情时，它们便体现理，即正确的规范。我们若“平恕”，度量他人的情便准确，从而能识别理——理由使各方之情都得到满足的行动来具体化。我们若不“平恕”，便可能错误地偏好以他人为代价而利己的规范，这些规范便不合于正当之理。
+  - id: 85
+    kind: body
+    source: |-
+      ### 6.2 Common Affirmability
+    step1: |-
+      ### 6.2 同然（Common Affirmability）
+    step2: |-
+      ### 6.2 同然（Common Affirmability）
+  - id: 86
+    kind: body
+    source: |-
+      Dai’s aim is to offer a procedure for discovering “norms that cannot be exchanged” for anything more suitable, which are the objective content of pattern. One condition for such norms is that all persons would affirm them.
+    step1: |-
+      戴震的目标是提供一个发现“不可易之规范”的程序——即无法换取任何更合适者——它们是理的客观内容。这类规范的一个条件是：所有人都会肯定它们。
+    step2: |-
+      戴震的目标，是提供一个发现“不可易之规范”的程序——此类规范无法换取任何更合适者，是理的客观内容。这类规范的一个条件是：所有人都会肯定它们。
+  - id: 87
+    kind: body
+    source: |-
+      > 心之所同然始謂之理，謂之義…凡一人以為然，天下萬世皆曰「是不可易也」，此之謂同然。
+      >
+      > Only what all minds similarly affirm to be so can be called “pattern” or “right”.…When each person affirms something and a myriad generations in the world all say, “this cannot be exchanged [for anything else]”, this is called “similarly affirming to be so”. (*Sz* 4)
+    step1: |-
+      > 心之所同然始謂之理，謂之義…凡一人以為然，天下萬世皆曰“是不可易也”，此之謂同然。
+      >
+      > 心之所同然才叫做理、叫做义……凡一人以为然，天下万世都说“这是不可易的”，这就叫做同然。（*Sz* 4）
+    step2: |-
+      > 心之所同然始謂之理，謂之義…凡一人以為然，天下萬世皆曰“是不可易也”，此之謂同然。
+      >
+      > 心之所同然才叫做理、叫做义……凡一人以为然，天下万世都说“这是不可易的”，这就叫做同然。（*Sz* 4）
+  - id: 88
+    kind: body
+    source: |-
+      Presumably, the “all” in question is hypothetical, as Dai is not suggesting the impossible task of actually surveying “a myriad generations” of people. On a “democratic” reading (see Tiwald forthcoming-a), common affirmability is a regulative ideal complementary to sympathetic consideration, as discussed in section 6.1. On this interpretation, Dai is implying that we should inquire as to whether judgments derived from sympathetic consideration are indeed what people, especially the powerless, would affirm. Through this procedure, potentially overconfident decision makers may avoid mistaken judgments about people’s shared feelings and wants.
+    step1: |-
+      可以设想，这里的“所有人”是假设性的，因为戴震并非提议去实际调查“天下万世”的人——那是不可能完成的任务。按一种“民主式”解读（见 Tiwald forthcoming-a），同然是与恕相辅的调节性理念（如 6.1 节所论）。按这一解读，戴震是在暗示：我们应当追问，由恕所导出的判断是否确实是人们——尤其是无权无势者——会肯定的东西。经由这一程序，可能过于自信的决策者可以避免对人们共有之情与欲的错误判断。
+    step2: |-
+      可以设想，这里的“所有人”是假设性的：戴震并非提议实际调查“天下万世”的人——那是不可能完成的任务。按一种“民主式”解读（见 Tiwald forthcoming-a），同然是与恕相辅的调节性理念（如 6.1 节所论）。按这一解读，戴震是在暗示：我们应当追问，由恕所导出的判断是否确实是人们——尤其是无权无势者——会肯定的东西。经由这一程序，可能过于自信的决策者可以避免对人们共有之情与欲的错误判断。
+  - id: 89
+    kind: body
+    source: |-
+      An alternative reading is that common affirmability implies empirical verifiability. This line of interpretation builds on Dai’s remarks drawing analogies between proper pattern and craft tools. Just as the compass and set square are invariably reliable standards for identifying what is circular or square, a correct grasp of pattern (*li*) yields reliable norms of conduct.
+    step1: |-
+      另一种解读是：同然蕴含经验可验证性。这一解读路线建立戴震以正当之理比工匠工具的议论之上：正如规与矩始终是辨识圆与方的可靠标准，对理的正确把握产生可靠的行为规范。
+    step2: |-
+      另一种解读是：同然蕴含经验可验证性。这一解读路线，建立戴震以正当之理比工匠工具的议论之上：正如规与矩始终是辨识圆与方的可靠标准，对理的正确把握产生可靠的行为规范。
+  - id: 90
+    kind: body
+    source: |-
+      > 苟得其理矣，如直者之中懸，平者之中水，圓者之中規，方者之中矩，然後推諸天下萬世而準。
+      >
+      > If one attains the correct pattern, just as the vertical matches the plumb line, the level matches the water-level, the circular matches the compass, and the square matches the set square, the pattern is a standard that can be applied to a myriad generations in the world. (*Sz* 13)
+    step1: |-
+      > 苟得其理矣，如直者之中懸，平者之中水，圓者之中規，方者之中矩，然後推諸天下萬世而準。
+      >
+      > 苟得其理，则如直者中悬、平者中水、圆者中规、方者中矩，然后推诸天下万世而皆准。（*Sz* 13）
+    step2: |-
+      > 苟得其理矣，如直者之中懸，平者之中水，圓者之中規，方者之中矩，然後推諸天下萬世而準。
+      >
+      > 苟得其理，则如直者中悬、平者中水、圆者中规、方者中矩，然后推诸天下万世而皆准。（*Sz* 13）
+  - id: 91
+    kind: body
+    source: |-
+      By extension, then, if candidate norms indeed conform to the correct patterns (*li*), this conformity can be affirmed by anyone, just as anyone can use a compass to affirm whether a figure is a circle. For norms, the test would be whether they indeed facilitate the fulfillment of people’s feelings and wants (Chong forthcoming). As this relation is a matter of empirical fact, everyone—that is, “all minds”—can examine the result and affirm whether the norms indeed conform to the proper patterns. In contrast, if the verification mechanism were subjective, such as simply checking against one’s own level of confidence in the results of sympathetic consideration, it is unlikely that common affirmability could be achieved.
+    step1: |-
+      由此推广：如果候选规范确实合于正确的理，这种相合便可以被任何人肯定，正如任何人都可以用规来肯定一个图形是否为圆。对规范而言，检验标准是它们是否确实促成人的情与欲的顺遂（Chong forthcoming）。既然这种关系是经验事实，每个人——即“所有心”——都可以检视结果，肯定规范是否确实合于正当之理。相反，如果验证机制是主观的——例如仅凭自己对恕之结果的信心程度来核对——同然便不大可能达成。
+    step2: |-
+      由此推广：若候选规范确实合于正确的理，这种相合便可以被任何人肯定，正如任何人都可以用规来肯定一个图形是否为圆。对规范而言，检验标准是它们是否确实促成人的情与欲之顺遂（Chong forthcoming）。既然这种关系是经验事实，每个人——即“所有心”——都可以检视结果，肯定规范是否确实合于正当之理。相反，若验证机制是主观的——例如仅凭自己对恕之结果的信心程度来核对——同然便不大可能达成。
+  - id: 92
+    kind: body
+    source: |-
+      ## 7. Normative Ethics
+    step1: |-
+      ## 7. 规范伦理学
+    step2: |-
+      ## 7. 规范伦理学
+  - id: 93
+    kind: body
+    source: |-
+      A notable aspect of Dai’s normative ethics is his recognition of human wants and feelings as legitimate considerations in moral reasoning. The main difference between Dai and Song-Ming Confucians lies in the conceptual priority of these wants and feelings. The influential Song-dynasty thinker Zhu Xi might agree with Dai, for example, that fulfilling certain human wants or desires, such as hunger and thirst, is morally permissible, but the two assign such wants or desires different places in the structure of their normative ethics (Tiwald forthcoming-b). For Zhu, desires, including wants, are justified only if fulfilling them complies with moral norms established on other grounds. For Dai, in contrast, wants and feelings are the grounds for the content of moral norms: fulfilling basic wants and feelings is constitutive of proper pattern (*li*).
+    step1: |-
+      戴震规范伦理学的一个显著方面，是他承认人的欲与情是道德推理中的正当考量。戴震与宋明儒者的主要分歧在于这些欲与情的概念优先性。例如，有影响的宋代思想家朱熹大概会同意戴震：满足人的某些欲或欲望——如饥渴——在道德上是允许的；但两人在其规范伦理学结构中给这类欲或欲望安排了不同的位置（Tiwald forthcoming-b）。对朱熹而言，欲望——包括欲——只有在其满足合于以其他根据确立的道德规范时才得到辩护。对戴震而言，欲与情则是道德规范内容之根据：满足基本之欲与情，即构成正当之理。
+    step2: |-
+      戴震规范伦理学的一个显著方面，是他承认人的欲与情是道德推理中的正当考量。戴震与宋明儒者的主要分歧，在于这些欲与情的概念优先性。例如，有影响的宋代思想家朱熹大概会同意戴震：满足人的某些欲或欲望（如饥渴）在道德上是允许的；但两人在各自规范伦理学的结构中，给这类欲或欲望安排了不同的位置（Tiwald forthcoming-b）。对朱熹而言，欲望——包括欲——只有在其满足合于以其他根据确立的道德规范时才得到辩护；对戴震而言，欲与情则是道德规范内容之根据：满足基本之欲与情，即构成正当之理。
+  - id: 94
+    kind: body
+    source: |-
+      Although Dai’s normative ethics takes the satisfaction of people’s wants and feelings as a basic value, unlike act utilitarianism, Dai does not evaluate discrete actions on the basis of whether they fulfill or promote this end. Instead, more like an indirect utilitarian, he understands various Confucian moral ideals such as virtue (*de* 德) and ritual propriety (*li* 禮) as fundamentally explained in terms of how they fulfill people’s wants and feelings. For example, he sees benevolence (*ren* 仁) as a virtue by which one contributes to the flourishing of all.
+    step1: |-
+      虽然戴震的规范伦理学把人的欲与情之满足当作基本价值，他却不像行为功利主义那样以个别行动是否成全或促进这一目的来评价行动。毋宁说，他更像一个间接功利主义者：把德与礼这类儒家道德理想在根本上解释为它们如何成全人的欲与情。例如，他把仁视为一种德：凭此德，一个人促成万物之共同繁荣。
+    step2: |-
+      虽然戴震的规范伦理学把人的欲与情之满足当作基本价值，他却不似行为功利主义那样以个别行动是否成全或促进这一目的来评价行动。毋宁说，他更像一个间接功利主义者：把德与礼这类儒家道德理想，在根本上解释为它们如何成全人的欲与情。例如，他把仁视为一种德——凭此德，一个人促成万物之共同繁荣。
+  - id: 95
+    kind: body
+    source: |-
+      > 仁者，生生之德也；「民之質矣，日用飲食」，無非人道所以生生者。一人遂其生，推之而與天下共遂其生，仁也。
+      >
+      > Benevolence (*ren*) is the virtue of sustaining flourishing lives (*shengsheng*). “People’s material character lies in their daily activities, eating, and drinking” means nothing other than that the *dao* of humanity is how life flourishes. When one person fulfills their own life and then extends this so as to join with all the world in fulfilling their lives together, that is benevolence. (*Sz* 36)
+    step1: |-
+      > 仁者，生生之德也；“民之質矣，日用飲食”，無非人道所以生生者。一人遂其生，推之而與天下共遂其生，仁也。
+      >
+      > 仁，是生生之德；“民之质矣，日用饮食”，无非是人道所以生生者。一人遂其生，推之而与天下共遂其生，这就是仁。（*Sz* 36）
+    step2: |-
+      > 仁者，生生之德也；“民之質矣，日用飲食”，無非人道所以生生者。一人遂其生，推之而與天下共遂其生，仁也。
+      >
+      > 仁，是生生之德；“民之质矣，日用饮食”，无非是人道所以生生者。一人遂其生，推之而与天下共遂其生，这就是仁。（*Sz* 36）
+  - id: 96
+    kind: body
+    source: |-
+      Given the connections Dai draws between moral norms and virtues and well-being, understood as the satisfaction of wants and feelings, some scholars have suggested that his normative ethics bears a strong similarity to indirect utilitarianism (see Hu 1963; Zheng 2015; Carleo forthcoming)[^zheng-2015]. Others have argued that Dai does not see moral virtue as determined purely by how much it maximizes well-being and so his stance is not appropriately characterized as utilitarian (Tiwald forthcoming-b). Insofar as Dai may be applying the concept of self-so patterns (*li*) as a foundational evaluative concept, his ethics may be structurally unlike any form of consequentialism (Fraser forthcoming). How best to characterize Dai’s normative ethical stance remains a disputed question.
+    step1: |-
+      鉴于戴震在道德规范与德和福祉——即欲与情之满足——之间建立的联系，一些学者提出其规范伦理学与间接功利主义高度相似（见 Hu 1963; Zheng 2015; Carleo forthcoming）[^zheng-2015]。另一些学者则论证：戴震并不认为道德德性纯粹由其最大化福祉的程度决定，故其立场不宜以功利主义刻画（Tiwald forthcoming-b）。鉴于戴震或许正把自然之理当作基础评价概念来运用，其伦理学在结构上可能不同于任何形式的后果主义（Fraser forthcoming）。如何最佳刻画戴震的规范伦理立场，仍是一个有争议的问题。
+    step2: |-
+      鉴于戴震在道德规范与德和福祉——即欲与情之满足——之间建立的联系，一些学者提出其规范伦理学与间接功利主义高度相似（见 Hu 1963; Zheng 2015; Carleo forthcoming）[^zheng-2015]。另一些学者则论证：戴震并不认为道德德性纯粹由其最大化福祉的程度决定，故其立场不宜以功利主义刻画（Tiwald forthcoming-b）。鉴于戴震或许正把自然之理当作基础评价概念来运用，其伦理学在结构上可能不同于任何形式的后果主义（Fraser forthcoming）。如何最佳刻画戴震的规范伦理立场，仍是有争议的问题。
+  - id: 97
+    kind: body
+    source: |-
+      A further, interrelated set of questions concern Dai’s foundational values. First, while the collective flourishing of all life (*shengsheng* 生生) is undoubtedly a value for him, it is unclear whether it is a unique foundational value or whether he also affirms other basic values. For instance, Tiwald (forthcoming-b) suggests that “good order” (*tiaoli* 條理) might be a further basic value or perhaps even a more fundamental value than collective flourishing (which Tiwald calls “life fulfillment”). Furthermore, given that collective flourishing (*shengsheng*) is clearly a value for Dai, the question arises of what the exact relation is between such flourishing and the satisfaction of wants and feelings, the pivotal good he takes to be indicative of pattern (*li*). In Dai’s framework, satisfying basic wants and feelings is surely a prerequisite for collective human flourishing. But is it a sufficient condition, or are other conditions also relevant? One response might be that satisfying the wants and feelings of all is sufficient for collective human flourishing. After all, satisfying all people’s wants and feelings is no easy task. Our joy, anger, sorrow, and delight are subject to many social constraints that are beyond our individual control. Fulfilling one’s own feelings probably also entails maintaining “harmonious” and “balanced” interpersonal relationships. It seems plausible to describe members of a community that attains mutual fulfillment of wants and feelings as living flourishing lives, at least by some minimal standard.
+    step1: |-
+      另一组相互关联的问题关乎戴震的基础价值。其一：虽然万物共同的生生无疑是他的一项价值，但它是否是唯一的基础价值、他是否也肯定其他基本价值，并不清楚。例如，Tiwald（forthcoming-b）提示，“条理”（good order，tiaoli）或许是又一项基本价值，甚至可能是比集体生生（Tiwald 称之为“生命成遂”（life fulfillment））更根本的价值。此外，既然集体生生显然是戴震的一项价值，便产生这样的问题：这种生生与欲与情之满足——他把后者当作标识理的关键之善——之间的确切关系是什么。在戴震的框架中，满足基本之欲与情当然是人类集体生生的前提。但它是充分条件吗，还是有其他条件也相关？一种回答或许是：满足所有人的欲与情，对人类集体生生而言已属充分。毕竟，满足所有人的欲与情绝非易事：我们的喜怒哀乐受制于许多超出个人控制的社会约束；成全自己的情感，恐怕也要求维系“和谐”与“平衡”的人际关系。一个实现了欲与情相互成全的共同体，其成员的生活至少按某种最低标准可以恰当地描述为繁荣的生活。
+    step2: |-
+      另一组相互关联的问题关乎戴震的基础价值。其一：万物共同的生生无疑是他的一项价值，但它是否唯一的基础价值、他是否也肯定其他基本价值，并不清楚。例如，Tiwald（forthcoming-b）提示，“条理”（good order，tiaoli）或许是又一项基本价值，甚至可能比集体生生（Tiwald 称之为“生命成遂”（life fulfillment））更根本。此外，既然集体生生显然是戴震的一项价值，便产生这样的问题：这种生生与欲与情之满足——他把后者当作标识理的关键之善——之间的确切关系是什么。在戴震的框架中，满足基本之欲与情当然是人类集体生生的前提；但它是充分条件吗，抑或其他条件也相关？一种回答或许是：满足所有人的欲与情，对人类集体生生而言已属充分。毕竟，满足所有人的欲与情绝非易事：我们的喜怒哀乐受制于许多超出个人控制的社会约束；成全自己的情感，恐怕也要求维系“和谐”与“平衡”的人际关系。一个实现了欲与情相互成全的共同体，其成员的生活至少按某种最低标准可以恰当地描述为繁荣的生活。
+  - id: 98
+    kind: body
+    source: |-
+      On the other hand, it also seems reasonable to argue that this conception of human flourishing is too thin, and a flourishing life should include other goods as well, such as ethical virtues, the fulfillment of personal projects, or artistic achievement. A plausible interpretation of some of Dai’s remarks about the “completion” or “fulfillment” of what is self-so, as discussed in sections 4 and 5 above, is that a further condition for a flourishing human life is the satisfaction of the *xinqi* 心氣 (the heart-mind’s vital stuff), which has an inclination toward moral norms. An implication is that individuals within a community can flourish only when they are morally virtuous. Intriguingly, since for Dai part of moral virtue is acting in a way that contributes to the fulfillment of all persons’ wants and feelings, a community whose members reliably manifested moral virtue would probably also be one in which people’s wants and feelings were fulfilled. Possibly, then, Dai might say that in practice the two conceptions of flourishing just sketched converge and mutually reinforce each other, a view suggested as well by our discussion in section 5. How best to explain Dai’s conception of human flourishing is another issue about which the scholarly literature has yet to reach a consensus.
+    step1: |-
+      另一方面，主张这种人类繁荣观过于单薄、繁荣的生活还应包括其他善——如伦理德性、个人计划的成全或艺术成就——似乎同样有理。对戴震关于自然之“完成”或“成全”的若干议论（见上文第 4、5 节），一种可信的解读是：繁荣的人类生活还有一个条件，即心气（xinqi，心的生机之物）的满足——它有一种朝向道德规范的倾向。其含义是：共同体中的个体只有在其有道德德性时才能繁荣。有趣的是，既然对戴震而言道德德性的一部分就是以促成所有人欲与情之成全的方式行动，一个其成员稳定地表现出道德德性的共同体，多半也是一个人们的欲与情得到成全的共同体。那么戴震或许会说，在实践中，刚才粗略勾勒的两种繁荣观相互会通、相互加强——我们在第 5 节的讨论也提示了这一观点。如何最佳解释戴震的人类繁荣观，是学界尚未达成共识的另一个问题。
+    step2: |-
+      另一方面，主张这种人类繁荣观过于单薄、繁荣的生活还应包括其他善——如伦理德性、个人计划的成全或艺术成就——似乎同样有理。对戴震关于自然之“完成”或“成全”的若干议论（见上文第 4、5 节），一种可信的解读是：繁荣的人类生活还有一个条件，即心气（xinqi，心的生机之物）的满足——它有一种朝向道德规范的倾向。其含义是：共同体中的个体唯有具备道德德性方能繁荣。有趣的是，既然对戴震而言道德德性的一部分就是以促成所有人欲与情之成全的方式行动，一个其成员稳定地表现出道德德性的共同体，多半也是人们的欲与情得到成全的共同体。那么戴震或许会说：在实践中，刚才粗略勾勒的两种繁荣观相互会通、相互加强——我们在第 5 节的讨论也提示了这一观点。如何最佳解释戴震的人类繁荣观，是学界尚未达成共识的另一个问题。
+  - id: 99
+    kind: oir
+    source: |-
+      - [Chinese Text Project](https://ctext.org/), a large database of Chinese philosophical texts, translations, and other resources edited by Donald Sturgeon
+      - [List of China-related links](https://sangle.web.wesleyan.edu/china.html), maintained by Stephen C. Angle (Wesleyan University)
+      - [Hong Kong Society for Humanistic Philosophy](http://hksh.site/e-index.html)
+    step1: |-
+      - [中国哲学书电子化计划](https://ctext.org/)，由 Donald Sturgeon 编辑的大型中国哲学文本数据库，含翻译与其他资源
+      - [中国相关链接列表](https://sangle.web.wesleyan.edu/china.html)，Stephen C. Angle（卫斯理安大学）维护
+      - [香港人文哲学会](http://hksh.site/e-index.html)
+    step2: |-
+      - [中国哲学书电子化计划](https://ctext.org/)，由 Donald Sturgeon 编辑的大型中国哲学文本数据库，含翻译与其他资源
+      - [中国相关链接列表](https://sangle.web.wesleyan.edu/china.html)，Stephen C. Angle（卫斯理安大学）维护
+      - [香港人文哲学会](http://hksh.site/e-index.html)
+  - id: 100
+    kind: note
+    source: |-
+      [^note-1]: References to the *Dai Zhen Quan Shu* (*Complete Works of Dai Zhen*), abbreviated “DZQS,” give volume and page numbers.
+    step1: |-
+      [^note-1]: 凡引用《戴震全书》（缩写 DZQS），皆随文标注卷号与页码。
+    step2: |-
+      [^note-1]: 引用《戴震全书》（简称 DZQS）随文标注卷号与页码。
+  - id: 101
+    kind: note
+    source: |-
+      [^note-2]: The account in this section draws on Dai Zhen’s letters and Duan Yucai’s chronicle of Dai’s life, along with Yang’s supplementary notes on this chronicle. See DZQS 7, 132–190, and Cai 2006.
+    step1: |-
+      [^note-2]: 本节所述，依据戴震书信、段玉裁所编戴震年谱，及杨应芹对该年谱的订补；见 DZQS 7, 132–190 与 Cai 2006。
+    step2: |-
+      [^note-2]: 本节所述依据戴震书信、段玉裁所编戴震年谱，以及杨应芹对该年谱的订补。见 DZQS 7, 132–190，及 Cai 2006。
+  - id: 102
+    kind: note
+    source: |-
+      [^note-3]: References to the *Mengzi Ziyi Shuzheng* (abbreviated “*Sz*”) give Dai’s section numbers in the work.
+    step1: |-
+      [^note-3]: 凡引用《孟子字义疏证》（缩写 *Sz*），皆标注戴震书中之节次编号。
+    step2: |-
+      [^note-3]: 引用《孟子字义疏证》（简称 *Sz*）时标注戴震在该书中的节次编号。

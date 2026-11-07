@@ -2,8 +2,44 @@
   "slug": "dai-zhen",
   "kind": "retranslate",
   "zh_doc": "d/dai-zhen.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T01:18:06Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "D-main-20261107",
+      "at": "2026-11-07T03:47:22Z",
+      "evidence": "lq 账本流水线：102 段（body 98+oir 1+note 3）双版落盘；文言引块按 ADR-0011 照录繁体原文+英译段今译（不以英译回译），25 对引文块处理；守恒门通过（软旗=斜体转书名号留痕）；compose 组装 23855 字符"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "D-main-20261107",
+      "at": "2026-11-07T03:47:22Z",
+      "evidence": "对照核销：五维对账（正文 marker 8 全等；defs 48 全等；粗体缩写键 0:0；节数差 1=源 Notes 双节头合并为脚注节，登记豁免；段落 102:102）+ References 节名汉化 + 相关词条行重写（compose 错误映射修正：Chinese Philosophy: ethics→中国哲学中的伦理学 等 9 项，源文 Mencius 与 Wang Yangming 粘连拆分）+ biblio 中国文献条目汉化 21 条（ADR-0011：键与西文骨架保留，汉名书名通行简体）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "D-main-20261107",
+      "at": "2026-11-07T03:47:47Z",
+      "evidence": "四检：check_style --strict 0 违例；check_academic --strict OK；check_math missing/unbalanced 0；check_prose 25→实修 25（de-chain 19/长句 3 拆分/被动 1/weak-verb 2），零豁免全实修；中文今译段与叙述统一简体弯引号"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "D-main-20261107",
+      "at": "2026-11-07T03:47:49Z",
+      "evidence": "登记与门禁：术语册 12 行（考证学/理义/恕/自然 self-so/必然 imperative/生生/条理/血气/心知/六经载道/怀生畏死/天理）+ 人名册 18 行（戴震/段玉裁/江永/纪昀/钱大昕/朱筠/焦循/二程/章太炎/刘师培/梁启超/胡适/章学诚/余英时/罗钦顺/王阳明/顾炎武/方楘如，上游自带汉字通行汉名）；check_terms 硬错误 0；check_all 七项全绿"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T05:38:02Z",
   "version_pin": {

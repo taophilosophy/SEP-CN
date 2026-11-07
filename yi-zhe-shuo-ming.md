@@ -30,6 +30,7 @@
 | basic norm | — | 基本规范 | lawphil-theory | 学界惯例（凯尔森法学通译）；凭证 2026-11-03 | 2026-11-03 |
 | Best Interests standard | — | 最佳利益标准 | 语料回收（标题词） | 学界惯例（生命伦理学通行）；凭证 2026-11-01 | 2026-11-01 |
 | biological species concept (BSC) | — | 生物学物种概念（BSC） | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| biran | 必然 | 必然（imperative） | dai-zhen | 戴震哲学术语：当然之则，与“自然”对举（英 imperative）；凭证 2026-11-07 | 2026-11-07 |
 | bivalence | — | 二值原则 | dialectical-school | 逻辑学通行译法；凭证 2026-11-07 | 2026-11-07 |
 | blame | — | 责备 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | blameworthiness | — | 应受责备性 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -117,6 +118,7 @@
 | heritage | — | 遗产 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | holding responsible | — | 追究责任 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Horned Man argument | — | 有角人论证 | dialectical-school | 学界通行（狄奥多罗斯悖论）；凭证 2026-11-07 | 2026-11-07 |
+| huaisheng weisi | 懷生畏死 | 怀生畏死 | dai-zhen | 上游自带汉字；戴震术语（珍惜生命而惧怕死亡）；凭证 2026-11-07 | 2026-11-07 |
 | Hungarian Uprising | — | 匈牙利起义 | 语料回收（lakatos 首译） | 史学界通行译法（1956）；凭证 2026-11-06 | 2026-11-06 |
 | hypocrisy | — | 伪善 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Hypothetical Reasoning | — | 假说推理 | 语料回收（标题词） | 学界惯例（皮尔士溯因语境（abduction 词条））；凭证 2026-11-01 | 2026-11-01 |
@@ -133,9 +135,12 @@
 | internal/external history | — | 内部史／外部史 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | introgression | — | 基因渗入 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | juridicalisation of politics | — | 政治的司法化 | law-ideology | 学界惯例（作者 Sypnowich 自铸术语，直译+括注）；凭证 2026-11-03 | 2026-11-03 |
+| kaozhengxue | 考證學 | 考证学 | dai-zhen | 清代学术史通行译名（梁启超《清代学术概论》语；英 evidential learning）；凭证 2026-11-07 | 2026-11-07 |
 | kin selection | — | 亲缘选择 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | latency | — | 潜隐 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | Lazy Argument | — | 懒惰论证 | dialectical-school | 学界通行（“懒惰论证”通行译法）；凭证 2026-11-07 | 2026-11-07 |
+| Liujing zaidao | 六經載道 | 六经载道 | dai-zhen | 上游自带汉字；儒学通行命题（英 the Six Classics convey the dao）；凭证 2026-11-07 | 2026-11-07 |
+| liyi | 理義 | 理义 | dai-zhen | 上游自带汉字；戴震承《孟子》原词（英 pattern and right）；凭证 2026-11-07 | 2026-11-07 |
 | long-branch attraction | — | 长枝吸引 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Master Argument | kyrieuon logos | 主论证 | dialectical-school | 学界通行（狄奥多罗斯决定论论证的通行译名）；凭证 2026-11-07 | 2026-11-07 |
 | material implication | — | 实质蕴涵 | dialectical-school | 逻辑学通行译法（真值函项条件句）；凭证 2026-11-07 | 2026-11-07 |
@@ -237,6 +242,8 @@
 | self-blame | — | 自我责备 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | semantic information | — | 语义信息 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | sensory substitution device (SSD) | — | 感官替代设备 | 语料回收（molyneux-problem 首译） | 认知科学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| shengsheng | 生生 | 生生 | dai-zhen | 上游自带汉字；儒学通行（生生不息，英 flourishing of life）；凭证 2026-11-07 | 2026-11-07 |
+| shu | 恕 | 恕 | dai-zhen | 儒家通行（恕道；英 sympathetic consideration，“消极金律”所本）；凭证 2026-11-07 | 2026-11-07 |
 | simple supposition | — | 简单指代 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | sociobiology | — | 社会生物学 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | species concept | — | 物种概念 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -260,6 +267,8 @@
 | teleonomy | — | 目的性 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | teleosemantics | — | 目的语义学 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | tendency (Tendenz) | — | 趋势 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| tianli | 天理 | 天理 | dai-zhen | 宋明理学通行术语（戴震“自然之分理”义）；凭证 2026-11-07 | 2026-11-07 |
+| tiaoli | 條理 | 条理 | dai-zhen | 上游自带汉字；戴震术语（英 good order）；凭证 2026-11-07 | 2026-11-07 |
 | Two Visual Systems Model | — | 双视觉系统模型 | 语料回收（molyneux-problem 首译） | 认知科学界通行译法（Goodale–Milner）；凭证 2026-11-06 | 2026-11-06 |
 | topos | — | 拓扑斯 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法（范畴论）；凭证 2026-11-06 | 2026-11-06 |
 | theoretically/empirically progressive | — | 理论上／经验上进步 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -300,9 +309,12 @@
 | Wittgensteinian Fideism | — | 维特根斯坦式信仰主义 | 语料回收（标题词） | 学界惯例（宗教哲学（Kai Nielsen/D.Z. Phillips 论辩））；凭证 2026-11-01 | 2026-11-01 |
 | well-ordering theorem | — | 良序定理 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | world to come | — | 来世 | albo-joseph 首译 | 犹太研究通行（olam ha-ba） | 2026-11-07 |
+| xinzhi | 心知 | 心知 | dai-zhen | 上游自带汉字；戴震术语（心之知，英 understanding heart-mind）；凭证 2026-11-07 | 2026-11-07 |
+| xueqi | 血氣 | 血气 | dai-zhen | 上游自带汉字；戴震术语（血气心知之一环，英 blood-and-qi）；凭证 2026-11-07 | 2026-11-07 |
 | Yellow Emperor | — | 黄帝 | 语料回收（标题词） | 审定直接命中（中医药/中国古代史）；凭证 2026-11-01 | 2026-11-01 |
 | World 2/World 3 | — | 世界 2／世界 3 | 语料回收（lakatos 首译） | 波普尔三个世界学说通行译法；凭证 2026-11-06 | 2026-11-06 |
 
+| ziran | 自然 | 自然（self-so） | dai-zhen | 戴震哲学术语：自然而然者，与“必然”对举（英 self-so）；凭证 2026-11-07 | 2026-11-07 |
 | ʿilm al-ḥuḍurī | — | 在场之知 | arabic-islamic-mysticism | 苏哈拉瓦迪认识论通行（knowledge by presence） | 2026-11-07 |
 | ʿirfān | — | 灵知论 | arabic-islamic-mysticism | 伊朗语境 gnosticism 通行音译义 | 2026-11-07 |
 | Ḥikmah | — | 智慧（另译希克玛） | arabic-islamic-mysticism | 兼指智慧与哲学；与词汇表既裁定对齐 | 2026-11-07 |
