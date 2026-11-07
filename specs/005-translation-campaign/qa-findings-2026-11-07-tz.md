@@ -24,8 +24,9 @@
 | w/william-sherwood | 56+1 | 现制 References（29 条定义）+ 1 图（指代树状图，本地化 `../yuanwen/assets/`）+ 2 个拉丁诗句引块 + 表格（格/式） | 术语登记 25 行；相关词条 2 项手工归位（obligationes → 中世纪的义务理论；Peter of Spain → 西班牙的彼得（彼得·希斯帕努斯）的逻辑）；兰伯特正形对齐 SUMMARY（欧塞尔的兰伯特） |
 | w/wisdom | 54+2+1 | 现制 References（20 条定义）+ 5 个编号定义块 + 1 条真脚注（note-1） | 术语登记 18 行；相关词条 1 项手工归位（coherentist justification → 知识证成的融贯论）；源尾笔记脚手架（#### / ## Notes to Wisdom）节数差 1 属转换器约定 |
 | x/xenophanes | 50+1 | 现制 References（29 条定义）+ 11 处残篇/转述引块 | 术语登记 24 行；prose 16→0 全实修；Xenophanes 主形按 SUMMARY 定为「克塞诺芬尼（亦作色诺芬尼）」并同步词汇表；相关词条 3 项（Anaximander/Anaximenes/Thales）无 SUMMARY 条目，改中文名待挂链 |
+| w/william-jevons | 38 | 现制 References（56 条定义照录，正文 marker 16）+ 1 引块表格（三律符号表）+ 7 子弹推理形式清单 | 术语登记 36 行/人名 13 行（bisect 插入、先查后登）；prose 14→1（实修 13，豁免 1 为 Black & Könekamp 引文）；相关词条 De Morgan 无 SUMMARY 行改登记册正形待挂链；**产物（md/json/ledger）与登记行被并行会话提交收编（b1546bb9/ff4504ce/2500e112），内容逐项核实无损后确认入库，本会话免重复提交** |
 
-两条件均为：`lq.py check` HARD=0；节标题/标记键/定义键集/段落四维对账齐；`check_style --strict` 0 issue；`check_academic --strict` 0 硬错误；`check_math` 0；`check_all` 七项全绿。
+各条均为：`lq.py check` HARD=0；节标题/标记键/定义键集/段落四维对账齐；`check_style --strict` 0 issue；`check_academic --strict` 0 硬错误；`check_math` 0；`check_all` 七项全绿。
 
 ## 3. 门禁与登记册修复（跨会话事项）
 
@@ -46,7 +47,7 @@
 
 ## 5. 下一步（按体量序）
 
-truth-coherence 之后：william-sherwood → wisdom → xenophanes → **已完成**；续排 william-jevons(6182) → telesio(6298) → theology-aristotle(6571) → xenocrates(6652) → vives(6811) → vico(6846) …；公式密集件单独排程（先跑 `check_math`）；`xunzi/zhuangzi/zhu-xi/wang-yangming` 四条中国哲学件按 ADR-0011 走中国文献还原。
+truth-coherence 之后：william-sherwood → wisdom → xenophanes → william-jevons → **已完成**；续排 telesio(6298) → theology-aristotle(6571) → xenocrates(6652) → vives(6811) → vico(6846) …；公式密集件单独排程（先跑 `check_math`）；`xunzi/zhuangzi/zhu-xi/wang-yangming` 四条中国哲学件按 ADR-0011 走中国文献还原。
 **复审波**：s3 完成后冷置回读再走 r1–r3（单会话作业须在 evidence 记明冷置），不复查旧错。
 
 ## 6. 实跑中新增的可复用经验
