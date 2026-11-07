@@ -2,7 +2,7 @@
   "slug": "egoism",
   "kind": "retranslate",
   "zh_doc": "e/egoism.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "ABCDE-main-20261103",
       "at": "2026-11-03T18:24:58Z",
       "evidence": "check_style 0 issue（直引号批量转弯引号+斜体批量转加粗+三重星号修复+混合标记修复）；check_math 0；check_academic --strict 0 硬错误"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:42:44Z",
+      "evidence": "r1 段级核销：11 节一一对应、75 个脚注键全等、无重复定义、年份集合无缺无多；学者-年份引用（Butler/Sidgwick/Feinberg/Batson 等）与书目条目逐条在位"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:42:44Z",
+      "evidence": "r2 句级复读：prose 53→52；实修 3 处（非关自身欲望句、欲望对象句、回答句）；余项为'的'链启发式误报（多为短句内术语修饰链，读核无病句），按 ADR-0020 豁免并留读核记录"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:42:46Z",
+      "evidence": "r3 终检：check_style 0 issue、check_academic --strict OK；结构 11/11 节、75/75 键"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:42:46Z",
+      "evidence": "终稿验收：六道全过；误报类豁免有读核记录"
     }
   ],
   "blockers": [],
