@@ -302,185 +302,251 @@ segments:
     kind: body
     source: |-
       The most basic such notion is signification. In medieval philosophy, a term signifies *what it makes us think of*. This notion of signification was unanimously accepted. Although there was great dispute over *what* terms signified, there was agreement over the criterion.[^note-10] Ockham, unlike many (but no means all) other medieval logicians, held that terms do not in general signify our thoughts, but can signify anything at all (including things not presently existing). The function of language, therefore, is not so much to communicate thoughts from one mind to another, but to convey information about the world.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中最基本的概念是意谓。在中世纪哲学中，一个词项意谓*它使我们想到的东西*。这一意谓概念获得了普遍接受。尽管对词项意谓*什么*争执极大，但在判准上却有共识。[^note-10] 奥卡姆与许多（但绝非全部）其他中世纪逻辑学家不同，他主张词项一般并不意谓我们的思想，而是可以意谓任何东西（包括当下不存在的事物）。因此，语言的功能与其说是在心灵之间传递思想，不如说是传达关于世界的信息。
+    step2: |-
+      其中最基本的概念是意谓。在中世纪哲学里，一个词项意谓*它使我们想到的东西*。这一定义众口一词：词项意谓*什么*固然争得不可开交，判准本身却无人异议。[^note-10] 奥卡姆与许多中世纪逻辑学家不同（尽管绝非全部）：他认为词项一般并不意谓我们的思想，而是可以意谓任何东西——包括当下并不存在的事物。因此，语言的功能与其说是在此心与彼心之间传递思想，不如说是传达关于世界的信息。
   - id: 32
     kind: body
     source: |-
       In *Summa of Logic* I, 33, Ockham acknowledges four different kinds of signification. In the first sense, a term signifies whatever things it is truly predicable of by means of a present-tensed, assertoric copula. That is, a term *t* signifies a thing *x* if and only if ‘This is a *t*’ is true, pointing to *x*. In the second sense, *t* signifies *x* if and only if ‘This is (or was, or will be, or can be) a *t*’ is true, pointing to *x.*[^note-11] These first two senses of signification are together called “primary” signification.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《逻辑大全》I, 33 中，奥卡姆承认四种不同的意谓。在第一种意义上，一个词项意谓借助现在时态、直陈系词它可真实述谓的任何事物。也就是说，词项 *t* 意谓事物 *x*，当且仅当指着 *x* 说"这是一个 *t*"为真。在第二种意义上，*t* 意谓 *x*，当且仅当指着 *x* 说"这是（或曾是，或将是，或能是）一个 *t*"为真。[^note-11] 意谓的前两种意义合称"首要"意谓。
+    step2: |-
+      《逻辑大全》I, 33 中，奥卡姆承认四种意谓。第一种：词项意谓它借现在时直陈系词可真实述谓的一切事物——词项 *t* 意谓事物 *x*，当且仅当指着 *x* 说"这是一个 *t*"为真。第二种：*t* 意谓 *x*，当且仅当指着 *x* 说"这是（或曾是、将是、能是）一个 *t*"为真。[^note-11] 前两种意义合称"首要"意谓。
   - id: 33
     kind: body
     source: |-
       In the third sense, terms can also be said to signify certain things they are *not* truly predicable of, no matter the tense or modality of the copula. For instance, the word ‘brave’ not only makes us think of brave people (whether presently existing or not); it also makes us think of the *bravery* in virtue of which we call them “brave”. Thus, ‘brave’ signifies and is truly predicable of brave people, but also signifies bravery, even though it is not truly predicable of bravery, since bravery is not brave. This kind of signification is called “secondary” signification. For a first approximation, we can say that a “connotative” term is just a term that has a secondary signification, and that such a connotative term “connotes” exactly what it secondarily signifies. Roughly put, being somewhat over-simplified, connotation is secondary signification. The fourth sense, finally, is the broadest one, according to which any linguistic unit, including a whole sentence, can be said to signify whatever things it makes us think of in some way or other. A sentence signifies in this sense whatever it is that its terms primarily or secondarily signify.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在第三种意义上，词项也可以说意谓某些它*并不*真实述谓的事物，无论系词是什么时态或模态。例如，"勇敢的"一词不仅使我们想到勇敢的人（无论当下是否存在），还使我们想到*勇敢*本身——我们正是凭它称那些人"勇敢的"。因此，"勇敢的"意谓并真实述谓勇敢的人，但也意谓勇敢本身，尽管它并不真实述谓勇敢本身，因为勇敢本身并不勇敢。这种意谓称为"次生"意谓。粗略地说，一个"含蓄"词项就是具有次生意谓的词项，这样的含蓄词项所"含蓄"的，恰恰就是它次生意谓的东西。说得粗略些、稍加简化：含蓄就是次生意谓。最后，第四种意义最宽泛：按照它，任何语言单位——包括整个句子——都可以说意谓它以某种方式使我们想到的任何事物。句子在这种意义上意谓的，就是它的词项首要或次生意谓的那些东西。
+    step2: |-
+      第三种意义：无论系词是什么时态或模态，词项都可以说意谓某些它*并不*真实述谓的东西。例如，"勇敢的"一词不只使我们想到勇敢的人（无论其在世与否），还使我们想到*勇敢*——我们正是凭这品质称他们"勇敢的"。于是，"勇敢的"意谓且真实述谓勇敢的人，却也意谓勇敢本身，尽管它并不真实述谓勇敢本身——勇敢本身并不勇敢。这类意谓称为"次生"意谓。作为初步概括：所谓"含蓄"词项，就是具有次生意谓的词项；它所"含蓄"的，恰恰是它次生意谓的东西。说得糙一点、简化了说：含蓄即次生意谓。第四种意义最宽泛：依此，任何语言单位——整句在内——都可谓意谓它以这种或那种方式使我们想到的一切。句子就此意义意谓其词项首要或次生意谓的东西。
   - id: 34
     kind: body
     source: |-
       The theory of supposition was the centerpiece of late medieval semantic theory. Supposition is not the same as signification. First of all, terms signify wherever we encounter them, whereas they have supposition only in the context of a proposition. But the differences go beyond that. Whereas signification is a psychological, cognitive relation, the theory of supposition is, at least in part, a theory of reference. For Ockham, there are three main kinds of supposition[^note-12]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      指代理论是中世纪晚期语义理论的核心。指代不同于意谓。首先，无论在哪里遇到词项，它们都有意谓；而词项只在命题的语境中才有指代。但差别不止于此。意谓是一种心理的、认知的关系，指代理论则至少部分地是一种关于指称的理论。在奥卡姆那里，指代有三种主要类型[^note-12]：
+    step2: |-
+      指代理论是中世纪晚期语义学的中枢。指代不等于意谓。首先，词项随处有意谓，指代却只在命题语境中才谈得上。但差别还不止此：意谓是一种心理—认知关系，指代理论则至少部分是一种指称理论。在奥卡姆那里，指代有三种主要类型[^note-12]：
   - id: 35
     kind: body
     source: |-
       - Personal supposition, in which a term supposits for (refers to) what it signifies in either of the first two senses of signification described above. For example, in ‘Every dog is a mammal’, both ‘dog’ and ‘mammal’ have personal supposition.
       - Simple supposition, in which a term supposits for a concept, which it does not signify. Thus, in ‘Dog is a species’ or ‘Dog is a universal’, the subject ‘dog’ has simple supposition. For Ockham the nominalist, the only real universals are universal concepts in the mind and, derivatively, universal spoken or written terms expressing those concepts.
       - Material supposition, in which a term supposits for a spoken or written expression, which it does not signify. Thus, in ‘Dog has three letters’, the subject ‘dog’ has material supposition.[^note-13]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 人称指代：词项指代（指称）它在上述前两种意谓意义中所意谓的东西。例如，在"每个狗是哺乳动物"中，"狗"与"哺乳动物"都是人称指代。
+      - 简单指代：词项指代一个它并不意谓的概念。因此，在"狗是一个种"或"狗是共相"中，主词"狗"是简单指代。对唯名论者奥卡姆而言，唯一实在的共相就是心灵中的普遍概念，以及由此派生的、表达这些概念的普遍口语词项或书面词项。
+      - 质料指代：词项指代一个它并不意谓的口语或书面表达。因此，在"狗有三个字母"中，主词"狗"是质料指代。[^note-13]
+    step2: |-
+      - 人称指代：词项指代（指称）它在上述头两种意义下所意谓的东西。例如"每个狗是哺乳动物"一句中，"狗"与"哺乳动物"皆为人称指代。
+      - 简单指代：词项指代一个它并不意谓的概念。"狗是一个种""狗是共相"中，主词"狗"即为简单指代。对唯名论者奥卡姆来说，唯一实在的共相是心灵中的普遍概念，以及派生地表达这些概念的普遍口语与书面词项。
+      - 质料指代：词项指代一个它并不意谓的口语或书面表达。"狗有三个字母"中，主词"狗"即为质料指代。[^note-13]
   - id: 36
     kind: body
     source: |-
       Personal supposition, which was the main focus, was divided into various sub-kinds, distinguished in terms of a theory of “descent to singulars” and “ascent from singulars”. A quick example will give the flavor: In “Every dog is a mammal”, ‘dog’ is said to have “confused and distributive” personal supposition insofar as
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人称指代是主要焦点，又分为若干子类，区分的依据是"下降到单称"（descent to singulars）与"从单称上升"（ascent from singulars）的理论。一个简例可以见其大概：在"每个狗是哺乳动物"中，"狗"被称为具有"周延混淆的"人称指代，因为
+    step2: |-
+      人称指代是主要关注点，其下又分若干子类，分野系于"下降到单称"（descent to singulars）与"从单称上升"（ascent from singulars）的理论。举一个简例尝鼎一脔："每个狗是哺乳动物"一句中，"狗"据称具有"周延混淆"人称指代，理由是
   - id: 37
     kind: body
     source: |-
       - It is possible to “descend to singulars” as follows: “Every dog is a mammal; therefore, Fido is a mammal, and Rover is a mammal, and Bowser is a mammal …”, and so on for all dogs.
       - It is *not* possible to “ascend from any one singular” as follows: “Fido is a mammal; therefore, every dog is a mammal”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 可以这样"下降到单称"："每个狗是哺乳动物；所以，Fido 是哺乳动物，Rover 是哺乳动物，Bowser 是哺乳动物……"，如此遍及所有的狗。
+      - 但*不能*从任一单称"上升"："Fido 是哺乳动物；所以，每个狗是哺乳动物"。
+    step2: |-
+      - 可以如下方式"下降到单称"："每个狗是哺乳动物；所以，Fido 是哺乳动物，Rover 是哺乳动物，Bowser 是哺乳动物……"，以此类推，遍及每一条狗。
+      - 然而*无法*从随便哪个单称"上升"："Fido 是哺乳动物；所以，每个狗是哺乳动物"。
   - id: 38
     kind: body
     source: |-
       Although the mechanics of this part of supposition theory are well understood in Ockham and in other authors, its exact purpose remains an open question.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管指代理论这一部分的运作机制在奥卡姆及其他作者那里已很清楚，其确切目的仍是一个悬而未决的问题。
+    step2: |-
+      指代理论这一部分的运作机制，无论在奥卡姆还是别家那里都已了然；但它的确切目的何在，至今仍是悬案。
   - id: 39
     kind: body
     source: |-
       ### 3.3 Mental Language, Connotation, and Definitions
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3 心理语言、含蓄与定义
+    step2: |-
+      ### 3.3 心理语言、含蓄与定义
   - id: 40
     kind: body
     source: |-
       Ockham was the first philosopher to develop in some detail the notion of mental language and to put it to work for him. Aristotle, Boethius and several others had mentioned it before, but Ockham’s innovation was to systematically transpose to the fine-grained analysis of human thought both the grammatical categories of his time, such as those of noun, verb, adverb, singular, plural and so on, and—even more importantly—the central semantical ideas of signification, connotation, and supposition introduced in the previous section.[^note-14] Written words for him are “subordinated” to spoken words, and spoken words in turn are “subordinated” to mental units called “concepts”, which can be combined into syntactically structured mental propositions, just as spoken and written words can be combined into audible or visible sentences.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆是第一个较为细致地发展心理语言概念并将它投入使用的哲学家。亚里士多德、波爱修斯及其他数人此前都提到过它，但奥卡姆的创新在于：把他那个时代的语法范畴——如名词、动词、副词、单数、复数等——以及（更重要的）上一节引入的意谓、含蓄与指代等核心语义观念，系统地转用于对人类思想的细粒度分析。[^note-14] 在他看来，书面语词"从属"于口语语词，口语语词又"从属"于称为"概念"的心理单位；概念可以组合成有句法结构的心理命题，正如口语与书面语词可以组合成可听或可见的句子。
+    step2: |-
+      奥卡姆是头一位把心理语言概念经营出细致眉目、并让它为己所用的哲学家。亚里士多德、波爱修斯等人都曾提及此说，但奥卡姆的创举在于系统地把两套东西移用于人类思想的细粒分析：一是他那个时代的语法范畴（名词、动词、副词、单数、复数等等），二是——更要紧的——上一节引入的意谓、含蓄、指代等核心语义观念。[^note-14] 在他那里，书面语词"从属"于口语语词，口语语词又"从属"于所谓"概念"的心理单位；概念可以组配成句法上有结构的心理命题，一如口语与书面语词可以组配成可听闻、可目见的句子。
   - id: 41
     kind: body
     source: |-
       Whereas the signification of terms in spoken and written language is purely conventional and can be changed by mutual agreement (hence English speakers say ‘dog’ whereas French speakers say ‘*chien*’), the signification of mental terms is established by nature according to Ockham, and cannot be changed at will. Concepts, in other words, are *natural signs*: my concept of dog naturally signifies dogs. How natural signification is to be accounted for in the final analysis is not entirely clear, but it seems to be based both on the fact that simple concepts are normally caused within the mind by their objects (my simple concept of dog originated in me as an effect of my perceptual encounter with dogs), and on the fact that concepts are in some way “naturally similar” to their objects.[^note-15]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      口语与书面语言中词项的意谓纯属约定，可以通过共同同意加以改变（因此英语使用者说 'dog'，法语使用者说 '*chien*'）；而按照奥卡姆的看法，心理词项的意谓则由自然确立，不能随意改变。换言之，概念是*自然符号*：我的狗概念自然地意谓狗。自然意谓归根到底如何得到说明，并不完全清楚，但它似乎既基于简单概念通常由其对象在心灵中引起这一事实（我的简单狗概念在我之内的起源，是我与狗的知觉相遇的结果），也基于概念与其对象以某种方式"自然相似"这一事实。[^note-15]
+    step2: |-
+      口语与书面语言中词项的意谓纯出约定，可经共同约定而更改——英语使用者说 'dog'，法语使用者说 '*chien*'，即是明证。而依奥卡姆之见，心理词项的意谓由自然确立，无从随意改动。换句话说，概念是*自然符号*：我的狗概念自然地意谓狗。自然意谓归根结底如何说明，尚未完全清楚；它似乎一方面基于这样的事实：简单概念通常由其对象在心灵中引起（我心中简单的狗概念，其起源就是我与狗的知觉照面所产生的效果）；另一方面基于这样的事实：概念与其对象有某种"自然相似"。[^note-15]
   - id: 42
     kind: body
     source: |-
       A great deal of modern secondary literature has been devoted to a question regarding mental language. On Ockham’s account, two simple terms (whether from the same or different spoken or written languages) are *synonymous* if they are ultimately subordinated to the same concept. A single given term of spoken or written language is *equivocal* if it is ultimately subordinated to more than one concept. Is there equivocation and synonymy in mental language? The debate generated by this question was important not only because it broached how best to characterize Ockham’s mental language, but more broadly it called into question the success of Ockham’s so-called “nominalist program”, that is, his presumed aim of carrying out a semantic reduction of terms in lockstep with an ontological reduction of things in the world to the fullest extent possible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      大量现代二手文献致力于一个关于心理语言的问题。按奥卡姆的说明，两个简单词项（无论来自相同还是不同的口语或书面语言）如果最终从属于同一个概念，就是*同义的*；一个给定的口语或书面词项如果最终从属于不止一个概念，就是*歧义的*。心理语言中存在歧义与同义吗？这一问题引发的论争之所以重要，不仅因为它触及如何最好地刻画奥卡姆的心理语言，更宽泛地说，它还质疑了奥卡姆所谓"唯名论纲领"的成败——即他设想的目标：在对世界中事物作本体论还原的同时，最大限度地同步推行词项的语义还原。
+    step2: |-
+      围绕心理语言有一个问题，现代二手文献为此花费了大量笔墨。按奥卡姆的说明：两个简单词项（无论出自同一种还是不同的口语或书面语言）若最终从属于同一概念，便是*同义的*；某个口语或书面词项若最终从属于不止一个概念，便是*歧义的*。那么，心理语言中有没有歧义与同义？这个问题掀起的论争意义重大：它不仅关乎如何恰当地刻画奥卡姆的心理语言，更广泛地质疑了其所谓"唯名论纲领"能否成功——亦即他设想的目标：词项的语义还原与世间事物的本体论还原并驾齐驱，推行到极致。
   - id: 43
     kind: body
     source: |-
       One interpretation had it that there is no synonymy or equivocation in mental language, with the consequence, so it was argued, that Ockham’s mental language is a kind of lean, stripped down, “canonical” language with no frills or inessentials comparable to the “ideal languages” postulated by logical atomists in the first part of the twentieth century.[^note-16] This interpretation was challenged by a second interpretation according to which Ockham’s mental language is *not* a logically ideal language, but incorporates some redundancies and ambiguities.[^note-17]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一种解释认为，心理语言中没有同义也没有歧义；由此得出的结论——论者如是说——是：奥卡姆的心理语言是一种精瘦的、削减了的"规范"语言，没有虚饰与非本质成分，可与二十世纪早期逻辑原子主义设定的"理想语言"相媲美。[^note-16] 这一解释受到第二种解释的挑战：按照后者，奥卡姆的心理语言*并非*逻辑上理想的语言，而是包含一些冗余与歧义。[^note-17]
+    step2: |-
+      一种解释主张，心理语言中既无同义亦无歧义；据其论证，由此可得：奥卡姆的心理语言是一种精瘦、削减的"规范"语言，毫无虚饰与非本质成分，堪比二十世纪初逻辑原子主义者设定的"理想语言"。[^note-16] 第二种解释向此发难：奥卡姆的心理语言*并非*逻辑理想语言，而是掺有若干冗余与歧义。[^note-17]
   - id: 44
     kind: body
     source: |-
       What was at stake? Let us return briefly to the theory of connotation.[^note-18] Connotation was described above in terms of primary and secondary signification. But in *Summa of Logic* I, 10, Ockham draws the distinction between absolute and connotative terms by means of the theory of definition. For Ockham, there are two kinds of definitions: *real* definitions and *nominal* definitions. A real definition is supposed to reveal the essential metaphysical structure of what the defined term signifies, while nominal definitions do not. As Ockham sets it up, all *connotative* terms have nominal definitions, never real definitions, and *absolute* terms have real definitions, never nominal definitions (some absolute terms have no definitions at all[^note-19]).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      争的是什么？让我们简短回到含蓄理论。[^note-18] 含蓄在上文是借首要与次生意谓来描述的。但在《逻辑大全》I, 10 中，奥卡姆是借助定义理论来区分绝对词项与含蓄词项的。在奥卡姆那里，定义有两种：*实在*定义与*名义*定义。实在定义据说揭示被定义词项所意谓者的本质形而上学结构，名义定义则不然。按奥卡姆的安排，一切*含蓄*词项都有名义定义，绝无实在定义；*绝对*词项有实在定义，绝无名义定义（有些绝对词项根本没有任何定义[^note-19]）。
+    step2: |-
+      争的究竟是什么？不妨简短回到含蓄理论。[^note-18] 上文是用首要与次生意谓来描述含蓄的；但在《逻辑大全》I, 10 中，奥卡姆借定义理论来划绝对词项与含蓄词项之界。在他看来，定义有两类：*实在*定义与*名义*定义。实在定义据称揭示被定义词项所意谓者的本质形而上学结构，名义定义则不然。依奥卡姆的安排：一切*含蓄*词项有名义定义而绝无实在定义；*绝对*词项有实在定义而绝无名义定义（有些绝对词项干脆没有任何定义[^note-19]）。
   - id: 45
     kind: body
     source: |-
       As an example of a real definition, consider: “a human being is a rational animal” or “a human being is a substance composed of a body and an intellective soul”. Each of these definitions expresses in its own way the essential metaphysical structure of a human being. But, the two definitions do not signify exactly the same things. The first makes us think of rational things plus animals. The second makes us think of substances plus bodies and souls. An absolute term, e.g., ‘human being’, can have several real definitions that do not always signify exactly the same things. They will *primarily* signify—be truly predicable of—exactly the same things, i.e., human beings, since they will primarily signify just what the term they define, i.e., ‘human being’, primarily signifies. But they can also secondarily signify other things as well.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作为实在定义的例子，试看："人是理性的动物"，或"人是由身体与理智灵魂构成的实体"。这些定义各自以自己的方式表达人的本质形而上学结构。但两个定义意谓的东西并不完全相同。第一个使我们想到有理性的东西加上动物；第二个使我们想到实体加上身体与灵魂。一个绝对词项，如"人"，可以有几个并不总是意谓完全相同事物的实在定义。它们将*首要地*意谓——真实述谓——完全相同的东西，即人，因为它们首要意谓的恰好就是它们所定义的词项即"人"首要意谓的东西。但它们也可以次生地意谓别的东西。
+    step2: |-
+      实在定义的例子："人是理性的动物"，或"人是由身体与理智灵魂合成的实体"。两个定义各以其方式道出人的本质形而上学结构，但它们意谓的东西并不全同：前者使我们想到有理性的东西加上动物，后者使我们想到实体加上身体与灵魂。一个绝对词项——如"人"——可以有几个实在定义，而它们意谓的东西不必尽同。就*首要*意谓（真实述谓）而言，它们完全一致：都是人；因为它们首要意谓的，恰是它们所定义的词项（"人"）首要意谓的东西。但次生意谓上，它们还可以意谓别的东西。
   - id: 46
     kind: body
     source: |-
       Nominal definitions, Ockham says, are different. There is one and only one nominal definition for any given connotative term (in mental language, at any rate). A nominal definition is supposed to unfold precisely the signification of the connotative term it serves to define. This can only be done, Ockham thinks, by explicitly mentioning, in the right order and with the right connections, which kinds of things are primarily and secondarily signified by the relevant terms of the definition. The nominal definition of the connotative term ‘brave’, for example, is “a living being endowed with bravery”, which reveals that ‘brave’ primarily signifies certain living beings and secondarily signifies—or connotes—singular qualities of bravery.[^note-20] Any non-equivalent nominal definition is bound to indicate a different signification and would, consequently, be unsuitable if the original one was correct.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆说，名义定义则不同。任何一个给定的含蓄词项（至少在心理语言中）有且仅有一个名义定义。名义定义的任务是精确展开它所定义的含蓄词项的意谓。奥卡姆认为，要做到这一点，唯一的办法是以正确的顺序、正确的方式明确指出：定义中相关词项首要地与次生地意谓的是哪些种类的东西。例如，含蓄词项"勇敢的"的名义定义是"被赋予勇敢的活物"，这揭示了"勇敢的"首要意谓某些活物，次生意谓——或含蓄——单个的勇敢性质。[^note-20] 任何不等价的名义定义都必然标示不同的意谓，因此，如果原来的定义是正确的，它们就不合适。
+    step2: |-
+      名义定义则不然——这是奥卡姆的说法。任何一个给定的含蓄词项（至少在心理语言中）有且仅有一个名义定义。名义定义的任务，是精确展开它所定义的含蓄词项的意谓。奥卡姆认为，做到这一点的唯一办法，是以正确的顺序和正确的关联，明确列出定义中相关词项首要与次生意谓的是哪几类东西。例如，含蓄词项"勇敢的"的名义定义是"被赋予勇敢的活物"：它表明"勇敢的"首要意谓某些活物，次生意谓——或者说含蓄——单个的勇敢性质。[^note-20] 任何不等价的名义定义都必定标示不同的意谓；因此，若原定义正确，它们便不合适。
   - id: 47
     kind: body
     source: |-
       On the first interpretation, several commentators concluded that there are no *simple* connotative terms in Ockham’s mental language. They reasoned as follows: A connotative term is synonymous with its nominal definition, but there is no synonymy in mental language; mental language, therefore, cannot contain both a simple connotative term and its complex nominal definition. Which of the two goes? Since mental language must have the resources for formulating adequate definitions, the redundant element must be the defined simple term. And, since *every* connotative term has a nominal definition, then it follows that mental language should only contain absolute terms along with syncategorematic terms. On this interpretation, if anything can be truly said about the world, it can be said *only* using absolute and syncategorematic terms in mental language. It follows that absolute terms, and only absolute terms, provide us with a guide to what exists in the ontology, nicely bringing together the semantic and ontological sides of Ockham’s nominalist program.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按第一种解释，若干评论者得出结论：奥卡姆的心理语言中没有*简单的*含蓄词项。他们的推理如下：含蓄词项与其名义定义同义，但心理语言中没有同义；因此，心理语言不能同时包含一个简单含蓄词项及其复杂的名义定义。二者去谁？既然心理语言必须拥有制定恰当定义的资源，冗余的元素必定是被定义的简单词项。又，既然*每个*含蓄词项都有名义定义，那么结论就是：心理语言应当只包含绝对词项与非范畴词。按这种解释，凡关于世界可真实言说的东西，都*只能*用心理语言中的绝对词项与非范畴词说出来。由此得出：绝对词项，且只有绝对词项，为我们提供本体论中存在什么向导，漂亮地把奥卡姆唯名论纲领的语义面与本体论面结合在一起。
+    step2: |-
+      循第一种解释，若干评论者断定：奥卡姆的心理语言中没有*简单的*含蓄词项。推理如下：含蓄词项与其名义定义同义，而心理语言中没有同义；故心理语言不能同时容留一个简单含蓄词项与其复杂的名义定义。二者去谁？心理语言必须保有制定恰当定义的资源，所以冗余的必是被定义的简单词项。又因*每个*含蓄词项都有名义定义，结论便是：心理语言应当只含绝对词项与非范畴词。照这种解释，凡关于世界可真实言说者，都*只能*借心理语言中的绝对词项与非范畴词说出。于是：绝对词项——且唯绝对词项——为我们指点本体论中何物存在，恰好把奥卡姆唯名论纲领的语义之维与本体论之维绾合在一起。
   - id: 48
     kind: body
     source: |-
       This interpretation led to the conclusion, however, that this nominalist program was bound to fail. For, not all connotative terms can be plausibly eliminated from mental language. Relational terms, for instance, are connotative terms in Ockham’s semantics, and should, therefore, be semantically reducible to combinations of non-relational terms. But this seems implausible. The second interpretation showed that Ockham did hold that there are simple connotative terms in mental language and, in fact, says so repeatedly.[^note-21] Moreover, Ockham explicitly denies that a complex definition is in general wholly synonymous with the corresponding defined term.[^note-22] His point, presumably, is that the definition usually signifies *more* things than the defined term. Take ‘brave’ again. Its definition, remember, is “a living being endowed with bravery”. Now, the first part of this complex expression makes us think of *all* living beings, whereas the simple term ‘brave’ has only the brave living beings as its primary significates without signifying in any way non-brave living beings as well. This shows in effect that simple connotative terms are not—at least not always—shorthand abbreviations for their nominal definitions. The secondary literature has now gradually converged on the view that there is no synonymy among *simple* terms in mental language, but that there can be some redundancy between simple terms and complex expressions, (e.g., definitions), or between various complex expressions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而这种解释导向的结论是：这一唯名论纲领注定失败。因为，并非所有含蓄词项都能令人信服地从心理语言中消除。例如，关系词项在奥卡姆的语义学中是含蓄词项，因此应当在语义上可还原为非关系词项的组合。但这似乎不可信。第二种解释表明，奥卡姆确实主张心理语言中存在简单含蓄词项，而且事实上反复这样说。[^note-21] 此外，奥卡姆明确否认复杂定义一般而言与相应的被定义词项完全同义。[^note-22] 他的要点大概是：定义通常意谓的东西比被定义词项*更多*。再拿"勇敢的"来说。记住，它的定义是"被赋予勇敢的活物"。这个复杂表达的第一部分使我们想到*所有*活物，而简单词项"勇敢的"只以勇敢的活物为其首要意谓对象，并不以任何方式也意谓不勇敢的活物。这实际上表明：简单含蓄词项并非——至少并非总是——其名义定义的速记缩写。二手文献如今已逐渐汇聚于如下观点：心理语言中*简单*词项之间没有同义，但简单词项与复杂表达（例如定义）之间，或各种复杂表达之间，可以有某种冗余。
+    step2: |-
+      但这种解释引出的结论是：唯名论纲领注定失败。因为并非一切含蓄词项都能被令人信服地从心理语言中清除。比如关系词项，在奥卡姆的语义学中是含蓄词项，照理就应当在语义上还原为非关系词项的组合——这看来难以置信。第二种解释表明：奥卡姆确实主张心理语言中有简单含蓄词项，而且屡屡明言。[^note-21] 况且，奥卡姆明确否认复杂定义一般都与相应的被定义词项完全同义。[^note-22] 他的要点大概是：定义通常比被定义词项意谓*更多*的东西。再以"勇敢的"为例。别忘了，它的定义是"被赋予勇敢的活物"。这个复杂表达的前半部分使我们想到*一切*活物，而简单词项"勇敢的"只以勇敢的活物为首要意谓对象，绝不以任何方式连带意谓不勇敢的活物。这实际上表明：简单含蓄词项并非——至少不总是——其名义定义的速记缩写。二手文献如今已渐渐归于一致：心理语言中*简单*词项之间没有同义；但简单词项与复杂表达（如定义）之间，或各复杂表达彼此之间，可以有某种冗余。
   - id: 49
     kind: body
     source: |-
       What is the purpose of Ockham’s nominal definitions, then? They are not reductionist devices for eliminating certain *terms*, but a privileged means for making conspicuous the *things* that are the primary and secondary significates of the defined terms. The main point here is that such definitions, when correctly formulated, explicitly reveal the ontological commitments associated with the normal use of the defined terms. The definition of ‘brave’ as “a living being endowed with bravery”, for example, shows that the correct use of the term ‘brave’ commits us only to the existence of singular living beings and singular qualitative braveries.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      那么，奥卡姆的名义定义目的何在？它们不是用来消除某些*词项*的还原主义装置，而是让被定义词项的首要与次生意谓对象——那些*事物*——彰显出来的特权手段。这里的要点是：这类定义若制定得正确，就会明确显示与被定义词项的正常使用相关联的本体论承诺。例如，把"勇敢的"定义为"被赋予勇敢的活物"，就表明"勇敢的"一词的正确使用只使我们承诺单个活物与单个的勇敢性质的存在。
+    step2: |-
+      那么，奥卡姆的名义定义究竟图什么？它们不是清除某些*词项*的还原论装置，而是一种得天独厚的手段——让被定义词项的首要与次生意谓对象即那些*事物*彰显于前。要点在于：这类定义若制定得当，便明明白白展示出被定义词项正常使用所附带的本体论承诺。例如，把"勇敢的"定义为"被赋予勇敢的活物"，便表明"勇敢的"一词的正确使用只让我们承诺单个活物与单个勇敢性质的存在。
   - id: 50
     kind: body
     source: |-
       ## 4. Metaphysics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 形而上学
+    step2: |-
+      ## 4 形而上学
   - id: 51
     kind: body
     source: |-
       Ockham is most famous for his metaphysical nominalism and ontological reductionism about categories. Not only does he think that everything that exists is individual or particular, he wants to reduce his ontology to a bare minimum of number of kinds by paring down the fundamental ontological categories to just substance and quality. For Ockham, everything that exists in the created universe is a singular substance or a singular quality. In principle, metaphysical nominalism and categorial ontological reductionism are independent from one another. One can deny that universal entities exist, but allow singular entities in more ontological categories than Ockham does. Conversely, one can reduce the number of ontological categories, and yet hold that there are universal entities in those remaining categories. Panaccio (2023) has recently characterized Ockham’s nominalism as the view that for any general, quantitative, and relational term there is *no corresponding, special sort of entity*.[^note-23] On this characterization, Ockham’s metaphysical nominalism includes his ontological reductionism about categories, at least for the categories of quantity and relation, by emphatically denying the existence of universal entities, quantitative entities, and relational entities (outside a small number of theological exceptions).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆以其形而上学唯名论与关于范畴的本体论还原论最为著名。他不仅认为存在的一切都是个体或殊相，还要通过把基本本体论范畴削减为仅剩实体与性质，将其本体论缩减到种类的最低限度。在奥卡姆看来，受造宇宙中存在的一切都是单个实体或单个性质。原则上，形而上学唯名论与范畴性本体论还原论彼此独立。人们可以否认共相实体存在，但允许在比奥卡姆更多的本体论范畴中有殊相实体；反过来，人们也可以削减本体论范畴的数目，却仍主张那些剩余范畴中有共相实体。Panaccio（2023）近来把奥卡姆的唯名论刻画为这样一种观点：对任何普遍的、量的与关系的词项，都*没有相应的特殊种类的实体*。[^note-23] 按照这一刻画，奥卡姆的形而上学唯名论包含他关于范畴的本体论还原论——至少就量与关系这两个范畴而言——因为它斩钉截铁地否认共相实体、量的实体与关系实体的存在（少数神学例外除外）。
+    step2: |-
+      奥卡姆最负盛名者，是他的形而上学唯名论与关于范畴的本体论还原论。他不仅主张凡存在者皆为个体（殊相），还要把基本本体论范畴削减到只剩实体与性质，从而使本体论的种类数降到最低。依奥卡姆之见，受造宇宙中存在的一切，非单个实体即单个性质。原则上，形而上学唯名论与范畴层面的本体论还原论互不相干：可以否认共相实体存在，却允许殊相实体出现在比奥卡姆更多的本体论范畴里；反过来，也可以削减本体论范畴的数目，而仍主张剩余范畴中还有共相实体。Panaccio（2023）近来将奥卡姆的唯名论刻画为：对任何普遍的、量的、关系的词项，*都没有与之相应的特殊实体*。[^note-23] 按这一刻画，奥卡姆的形而上学唯名论把他关于范畴的本体论还原论（至少就量与关系两范畴而言）囊括在内，因为它斩钉截铁地否认共相实体、量的实体与关系实体的存在（少数神学例外不在此列）。
   - id: 52
     kind: body
     source: |-
       ### 4.1 Ockham’s Razor
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 奥卡姆剃刀
+    step2: |-
+      ### 4.1 奥卡姆剃刀
   - id: 53
     kind: body
     source: |-
       Ockham’s metaphysical views are thought to stem from an underlying concern for ontological parsimony as summed up in the famous slogan known as “Ockham’s Razor” according to which one “must not multiply entities beyond necessity”.[^note-24] Although the sentiment is certainly Ockham’s, this particular formulation is nowhere to be found in his texts. Moreover, as usually stated, it is a sentiment that most philosophers, medieval or otherwise, would accept. Few philosophers endorse an *unnecessarily* large ontology. Ockham’s Razor is merely a cautionary methodological principle advising us not to endorse a metaphysical claim that requires us to posit the existence of more entities over a competing claim that does not, except under certain conditions. In the fullest formulation of the Razor that Ockham gives, those conditions are spelled out in detail. They are: reason (or reasoning from self-evident premises), experience, and infallible religious authority (namely, Sacred Scripture).[^note-25] Unless we can meet one of these conditions for some putative sort of entity, we ought not endorse a claim that supposes that sort of entity to exist. If, however, we can meet one of those conditions, then we have good reason to think that the less parsimonious claim is true over the more parsimonious claim.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们认为，奥卡姆的形而上学观点源于一种对本体论节俭的根本关切，这一关切概括在名为"奥卡姆剃刀"的著名格言中：如其所言，"如无必要，勿增实体"。[^note-24] 虽然这种情感无疑属于奥卡姆，这一特定表述在他的文本中却无处可寻。而且，按通常的表述，它是大多数哲学家——无论中世纪还是别的时代——都会接受的一种情感。很少有哲学家赞成一个*不必要的*庞大的本体论。奥卡姆剃刀只是一个警示性的方法论原则，劝告我们：除了在某些条件下，不要在一个要求我们设定更多实体存在的形而上学主张与一个不作此要求的竞争主张之间，选择前者。在奥卡姆给出的剃刀最完整的表述中，这些条件得到了详细说明：理性（或从自明前提出发的推理）、经验，以及无谬误的宗教权威（即《圣经》）。[^note-25] 除非对某类假定的实体我们能满足这些条件之一，否则我们不应当支持一个设定该类实体存在的主张。然而，如果我们能满足其中一个条件，那么我们就有很好的理由认为较不节俭的主张比较节俭的主张为真。
+    step2: |-
+      人们以为，奥卡姆的形而上学立场植根于对本体论节俭的深层关切，其总纲即那著名口号"奥卡姆剃刀"："如无必要，勿增实体。"[^note-24] 这份心思固然是奥卡姆的，这一具体表述却不见于他自己的文本。况且，照通常的说法，大多数哲学家——中世纪的也好，后世的也罢——都会接受这个态度：很少有人赞成*不必要地*庞大的本体论。奥卡姆剃刀不过是一条警示性的方法论原则：除非满足某些条件，否则当两个形而上学主张相竞、一个要求我们设定更多实体而另一个不作此要求时，不要支持前者。在奥卡姆给出的最完整的剃刀表述里，这些条件得到详细列举：理性（或从自明前提出发的推理）、经验，以及无谬误的宗教权威（即《圣经》）。[^note-25] 除非对某类设想的实体能满足其中一条，否则我们就不该支持设定该类实体存在的主张；反之，若能满足其中一条，我们就有充分理由认为较不节俭的主张比较节俭的主张为真。
   - id: 54
     kind: body
     source: |-
       ### 4.2 The Rejection of Universals
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 对共相的拒斥
+    step2: |-
+      ### 4.2 对共相的拒斥
   - id: 55
     kind: body
     source: |-
       Ockham does not argue against the existence of universal entities on the basis of the Razor. That is, he does not think that we should refrain from affirming the existence of universal entities just because there are no good reasons for doing so in the absence of further evidence. No, he holds that realist theories of universals, at least the realist theories that were prevalent at the time, are outright incoherent. They are either self-contradictory or incompatible with other statements that philosophers hold to be true. For Ockham, the only universals it makes sense to talk about are universal concepts, and, derivative from them, universal terms in spoken and written language. In other words, there is no universal entity of felinity but only singular cats, which are relevantly and essentially similar to one another in and of themselves. There is, certainly, the universal concept of *cat*. Metaphysically, universal concepts are singular entities like all others. They are “universal” only in the sense of being “predicable of many”, as the term ‘cat’ is truly predicable of each and every cat.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆并不以剃刀为据来反对共相实体的存在。也就是说，他并不认为我们应当仅仅因为缺乏进一步证据时没有充分理由就拒绝肯定共相实体的存在。不，他主张关于共相的实在论理论——至少是当时流行的那些实在论理论——是彻底不自洽的：它们要么自相矛盾，要么与哲学家们视为真的其他陈述不相容。在奥卡姆看来，有意义可言的共相只有普遍概念，以及由之派生的口语与书面语言中的普遍词项。换句话说，没有"猫性"这样的共相实体，只有一个个的猫，它们凭借自身就彼此相关地、本质地相似。当然，有*猫*这个普遍概念。在形而上学上，普遍概念与其他一切一样是单个实体。它们之为"普遍"，只在于"可述谓众多"，正如"猫"这个词真实述谓每一只猫。
+    step2: |-
+      奥卡姆反对共相实体存在，用的可不是剃刀。换言之，他并不认为：只因在没有进一步证据时缺乏好理由，我们就该拒绝肯定共相实体的存在。非也——他主张，共相的实在论理论（至少当时流行的那几种）根本就不自洽：要么自相矛盾，要么同哲学家们视为真的其他陈述相抵触。在奥卡姆看来，谈得上有意义的共相只有普遍概念，以及由之派生的口语与书面普遍词项。换句话说，并没有"猫性"这种共相实体，只有一只只的猫；它们凭其自身便彼此相关地、本质地相似。当然，*猫*这个普遍概念是有的。在形而上学上，普遍概念与其他万物一样是单个实体；其"普遍"仅在于"可述谓众多"——正如"猫"一词真实述谓每一只猫。
   - id: 56
     kind: body
     source: |-
       With respect to the exact ontological status of such conceptual entities, however, Ockham changed his view over the course of his career. To begin with, he adopted what is known as the *fictum*-theory, a theory according to which universals have no “real” existence at all, not being in any of the Aristotelian categories that purport to carve up extra-mental reality. Instead, they are purely “intentional objects” with a special mode of intra-mental existence that is only a kind of “thought”-reality. Eventually, however, Ockham came to think this intentional realm of “fictive” entities was not needed, and by the time of his *Summa of Logic* and the *Quodlibets* he adopts the so-called *intellectio*-theory, according to which a universal concept is just the act of thinking about several objects at once. Metaphysically such an act is a singular quality of an individual mind, and is universal only in the sense of being a mental sign of several things at once and which is, then, predicable of those things in mental propositions.[^note-26]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不过，就这类概念实体的确切本体论地位而言，奥卡姆在职业生涯中改变了看法。起初，他采纳了所谓 *fictum* 理论，按照这一理论，共相根本没有任何"实在"存在，不在任何旨在划分心外实在的亚里士多德范畴之中；它们是纯粹的"意向对象"，具有一种特殊的心灵内存在方式，那只是某种"思想"性实在。然而最终，奥卡姆逐渐认为这个由"虚构"实体组成的意向领域并不需要；到写作《逻辑大全》与《自由论题》之时，他采纳了所谓 *intellectio* 理论，按照这一理论，普遍概念不过是一下子思考若干对象的行为。在形而上学上，这种行为是一个个体心灵的单个性质，其普遍性仅在于它同时是若干东西的心理符号，从而在心理命题中可述谓那些东西。[^note-26]
+    step2: |-
+      不过，这类概念实体的确切本体论地位，奥卡姆一生中改过主意。起初他持所谓 *fictum* 理论：共相根本没有任何"实在"存在，不在任何一个意在划分心外实在的亚里士多德范畴里；它们纯属"意向对象"，以一种特殊的方式存在于心灵之内——那不过是某种"思想"性实在罢了。然而到后来，奥卡姆渐渐认为这个"虚构"实体的意向领域并无必要；及至《逻辑大全》与《自由论题》的时期，他转而采纳所谓 *intellectio* 理论：普遍概念不过是一举思及若干对象的心智行为。就形而上学而言，这种行为是一个个体心灵的单独性质；其普遍性仅在于：它是同时关于若干东西的心理符号，因而在心理命题中可述谓那若干东西。[^note-26]
   - id: 57
     kind: body
     source: |-
       ### 4.3 The Reduction of Ontological Categories
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.3 本体论范畴的还原
+    step2: |-
+      ### 4.3 本体论范畴的还原
   - id: 58
     kind: body
     source: |-
       When it comes to paring down the number of basic ontological categories, Ockham is more cautious and frequently appeals to the Razor. To understand his perspective on the ten Aristotelian categories, it is important to see that the view he claims to be targeting posits ten fundamental ontological categories: substance, quantity, quality, relation, action, passion, place, time, position, and habit. Ockham, by contrast, thinks that there are only two, namely substance and quality. So, while he agrees with the tradition that there are ten semantic categories, viz., ten basic kinds of linguistic terms (conceptual/spoken/written), there are only two ontological categories of beings.[^note-27]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      谈到削减基本本体论范畴的数目，奥卡姆更为谨慎，并经常诉诸剃刀。要理解他对亚里士多德十个范畴的看法，重要的是看到：他声称所针对的观点设定了十个基本本体论范畴——实体、数量、性质、关系、动作、承受、场所、时间、姿态、状况。与之相对，奥卡姆认为只有两个，即实体与性质。所以，虽然他在这一点上与传统一致——有十个语义范畴，即十种基本的语言词项（概念的/口说的/书面的）——但存在的本体论范畴只有两个。[^note-27]
+    step2: |-
+      削减基本本体论范畴的数目时，奥卡姆要谨慎得多，且屡屡诉诸剃刀。要理解他对待亚里士多德十范畴的立场，须先看清一点：他声称所针对的观点设定了十大基本本体论范畴——实体、数量、性质、关系、动作、承受、场所、时间、姿态、状况。奥卡姆则认为只有两个：实体与性质。因此，尽管在语义范畴上他从传统——有十个语义范畴，即十种基本的语言词项（概念的／口说的／书面的）——但从存在者上看，本体论范畴只有两个。[^note-27]
   - id: 59
     kind: body
     source: |-
       Ockham focuses considerable energy on two categories in particular, quantity and relation, while the remaining six categories are cursorily dealt with. When it comes to the category of relation, he admits that there are a handful of relational entities we should posit on theological grounds (viz., the Trinity, the Incarnation, and the Eucharist), but our natural cognitive powers would see no reason to posit them. Outside these exceptions, he is adamant that there is no compelling reason to posit quantitative, relational, etc. entities in the ontology.[^note-28] Having argued for the existence of substances and, quite notably, for qualities (most of them, at any rate), he argues against the view that quantities (e.g., length, depth), relations (e.g., similarity), actions (e.g., hammering), positions (e.g., sitting), and so on, *exist as entities in addition to singular substances and singular qualities*. He does so by employing a range of metaphysical, natural philosophical, and even theological arguments to show the absurdity of holding that these are entities distinct from substances or qualities. His arguments appeal to the nature of substances, their parts, and their accidents, the impossibility of actual infinities, and God’s power.[^note-29] Concomitantly, he provides alternative explanations of how substances and their qualities are extended, related, positioned, etc., that do not necessitate positing anything other than those substances, their parts, and qualities. For instance, he explains that a material substance is extended simply by virtue of having “parts outside of parts”, i.e., having parts, one after or next to another, rather than on account of a distinct quantitative entity, an extension. By application of the Razor, then, we can dispense with the more ontologically committing view in favor of the more parsimonious view on which we are not required to posit the existence of all these additional accidental entities.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥卡姆对其中两个范畴——数量与关系——投入了相当多的精力，其余六个范畴则一笔带过。就关系范畴而言，他承认有一些关系实体我们应当基于神学理由加以设定（即三位一体、道成肉身与圣餐），但我们的自然认知能力看不出有任何理由设定它们。在这些例外之外，他斩钉截铁地主张：没有令人信服的理由在本体论中设定数量的、关系的等等实体。[^note-28] 在论证了实体存在——并且相当引人注目地论证了性质（至少大部分性质）存在——之后，他反对这样一种观点：数量（如长度、深度）、关系（如相似）、动作（如锤击）、姿态（如坐着）等等*作为实体而存在于单个实体与单个性质之外*。他为此运用了一整套形而上学的、自然哲学的乃至神学的论证，来表明主张这些是与实体或性质不同的实体是荒谬的。他的论证诉诸实体的本性、实体的部分与其偶性、现实无穷的不可能，以及上帝的大能。[^note-29] 与此同时，他还提供了替代性的解释，说明实体及其性质如何被延展、关联、安置等等，而无需设定那些实体、其部分与性质之外的任何东西。例如，他解释说，一个物质实体之所以有广延，仅仅在于它拥有"部分在部分之外"——即拥有一个接一个或一个挨一个的部分——而不是由于一个不同的数量实体、一个广延。于是，通过运用剃刀，我们可以舍弃本体论承诺更多的观点，支持更节俭的观点——按照后者，我们无须设定所有这些额外的偶性实体存在。
+    step2: |-
+      奥卡姆对其中两个范畴——数量与关系——倾注了大量心力，其余六个范畴则草草带过。论关系范畴，他承认有寥寥数种关系实体应基于神学理由而设定（即三位一体、道成肉身与圣餐），但我们的自然认知能力看不出设定它们的任何理由。除这些例外，他斩钉截铁：在本体论中设定数量的、关系的等等实体，没有令人信服的理由。[^note-28] 在为实体存在辩护——而且相当引人注目地为性质（至少多数性质）存在辩护——之后，他转而批驳这一观点：数量（如长度、深度）、关系（如相似）、动作（如锤击）、姿态（如坐）等等，*作为实体存在于单个实体与单个性质之外*。为此他动用了形而上学、自然哲学乃至神学的一系列论证，表明主张这些是不同于实体或性质的实体何其荒谬。其论证诉诸实体及其部分与偶性的本性、现实无穷之不可能，以及上帝的大能。[^note-29] 与此同时，他给出替代性解释，说明实体及其性质如何延展、关联、安置，而不必设定那些实体、部分与性质之外的任何东西。例如他说，物质实体有广延，仅在于它有"部分在部分之外"——即部分一个接一个、一个挨一个——而非由于一个独立的数量实体即广延。于是，一运剃刀，便可舍去本体论承诺更多的观点，而取更节俭者：依后者，我们无须设定所有这些额外的偶性实体存在。
   - id: 60
     kind: body
     source: |-
       Crucial to Ockham’s reduction strategy is the theory of connotation. The idea here is to “paraphrase” sentences containing categorial terms that seemingly refer to real entities which, in fact, we have no good reason to believe in, and in doing so discharge any unnecessary and thus unwelcome ontological commitments.[^note-30] For example, in *Summa of Logic,* II, 11, among other places, Ockham argues that we can account for the truth of “Socrates is similar to Plato” without having to appeal to a relational entity called “similarity”:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对奥卡姆的还原策略至关紧要的是含蓄理论。这里的想法是"改写"那些包含范畴词项的句子——这些词项看似指称实在的实体，而实际上我们并没有充分的理由相信它们存在——并借此卸掉一切不必要的、因而不受欢迎的本体论承诺。[^note-30] 例如，在《逻辑大全》II, 11 及其他地方，奥卡姆论证说，我们可以说明"苏格拉底与柏拉图相似"这句话为真，而不必诉诸一个叫作"相似"的关系实体：
+    step2: |-
+      奥卡姆还原策略的枢纽是含蓄理论。其思路是"改写"含有范畴词项的句子——这些词项看似指称实在的实体，实则我们并无充分理由相信其存在——并借此卸掉一切不必要、因而不受欢迎的本体论承诺。[^note-30] 例如在《逻辑大全》II, 11 等处，奥卡姆论证：要说明"苏格拉底与柏拉图相似"之为真，无须诉诸一个名为"相似"的关系实体：
   - id: 61
     kind: body
     source: |-
