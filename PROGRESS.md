@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-07 19:26（UTC）
+生成时间：2026-11-07 20:37（UTC）
 
 ## 总览
 
@@ -14,7 +14,7 @@
 |已建英文基线|1879|
 |已建任务|1026|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|177|
+|已完成（done）|179|
 |在途（drafted 起、done 前）|243|
 |阻塞|0|
 
@@ -22,13 +22,13 @@
 
 |状态|数量|
 |---|---|
-|pending|606|
+|pending|604|
 |cleared|162|
 |drafted|2|
 |s2_checked|1|
 |s3_checked|77|
 |r1_reviewed|1|
-|done|177|
+|done|179|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -42,7 +42,7 @@
 |F|96|96|96|1|
 |G|49|49|49|1|
 |H|61|61|61|8|
-|I|75|75|75|18|
+|I|75|75|75|20|
 |J|38|38|38|4|
 |K|36|36|36|10|
 |L|144|144|19|18|
@@ -179,6 +179,7 @@
 |digital-art|retranslate|cleared|task_ops 2026-11-01|
 |dilthey|retranslate|cleared|task_ops 2026-11-01|
 |diodorus-cronus|retranslate|s3_checked|D-main-20261107 2026-11-07|
+|disability-care-rationing|retranslate|cleared|task_ops 2026-11-07|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |du-bos|retranslate|s3_checked|主代理 2026-11-01|
 |frame-problem|retranslate|cleared|task_ops 2026-11-06|
@@ -229,14 +230,13 @@
 |hume-freewill|retranslate|cleared|task_ops 2026-11-01|
 |hume-moral|retranslate|cleared|task_ops 2026-11-01|
 |humor|retranslate|cleared|task_ops 2026-11-01|
+|illumination|retranslate|cleared|task_ops 2026-11-07|
 |imaginative-resistance|retranslate|cleared|task_ops 2026-11-01|
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
 |information-biological|retranslate|cleared|task_ops 2026-11-01|
-|intentionality-ancient|retranslate|s3_checked|? 2026-11-07|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
 |intuitionism-ethics|retranslate|cleared|task_ops 2026-11-01|
-|israeli|retranslate|s3_checked|? 2026-11-06|
 |jaina-philosophy|retranslate|cleared|task_ops 2026-11-01|
 |james-mill|retranslate|s3_checked|? 2026-11-07|
 |james-viterbo|retranslate|cleared|task_ops 2026-11-01|
@@ -298,10 +298,10 @@
 |kumaarila|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
 |moral-demands-permissions|retranslate|cleared|task_ops 2026-11-07|
-|ockham|retranslate|cleared|task_ops 2026-11-07|
+|ockham|retranslate|s3_checked|OR-main-20261107 2026-11-07|
 |rationalism-early-modern|retranslate|r1_reviewed|OR-main-20261107 2026-11-07|
 |scholem|retranslate|cleared|task_ops 2026-11-07|
-|telesio|retranslate|cleared|task_ops 2026-11-07|
+|telesio|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |timon-phlius|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
 |truth-coherence|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
 |william-jevons|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
