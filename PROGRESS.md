@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-07 09:51（UTC）
+生成时间：2026-11-07 10:11（UTC）
 
 ## 总览
 
@@ -23,9 +23,9 @@
 |状态|数量|
 |---|---|
 |pending|614|
-|cleared|169|
+|cleared|168|
 |drafted|2|
-|s3_checked|71|
+|s3_checked|72|
 |done|168|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
@@ -176,7 +176,7 @@
 |dialectical-school|retranslate|s3_checked|D-main-20261107 2026-11-06|
 |digital-art|retranslate|cleared|task_ops 2026-11-01|
 |dilthey|retranslate|cleared|task_ops 2026-11-01|
-|diodorus-cronus|retranslate|cleared|task_ops 2026-11-07|
+|diodorus-cronus|retranslate|s3_checked|D-main-20261107 2026-11-07|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |du-bos|retranslate|s3_checked|主代理 2026-11-01|
 |frame-problem|retranslate|cleared|task_ops 2026-11-06|
