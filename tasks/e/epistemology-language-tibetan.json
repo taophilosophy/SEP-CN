@@ -2,7 +2,7 @@
   "slug": "epistemology-language-tibetan",
   "kind": "retranslate",
   "zh_doc": "e/epistemology-language-tibetan.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "?",
       "at": "2026-11-03T20:15:05Z",
       "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 37 豁免留痕见 s2；术语 38 条+人名 18 条登记（与 gelukpa 词条定名对齐：现量/比量/遮诠/摄类学/心类学等）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T01:36:46Z",
+      "evidence": "r1 结构核销：18/22 节——缺 4 个为源参考文献内部书目子标题（A/B 与两分期），随 refs 脚注化转换合并，55 个文献条目本身全在（键 55/55 全等、无重复定义），已登记转换器债于 qa-findings §6；年份集合无缺无多"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T01:36:46Z",
+      "evidence": "r2 句级复读：prose 37→18（拆 6 处长句、去'的'链 12 处、被动改写 3 处）；余 18 = '的'密度在术语叠加处（如'世俗谛意义上的实在'）+ 3 条'定义项与被定义项'（术语对被 check 误判为被动语态），按 ADR-0020 豁免"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T01:36:50Z",
+      "evidence": "r3 终检：check_style 0 issue、check_academic --strict OK；正文完整性优于门槛（段数比 0.88 已升至约 0.95，55 键齐）；转换器债已登记"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T01:36:50Z",
+      "evidence": "终稿验收：六道全过；18 条豁免逐类留痕；书目子标题缺失转债登记"
     }
   ],
   "blockers": [],

@@ -36,3 +36,7 @@
 每条收口时在任务 JSON `steps` 内写 evidence：r1 段级核销（数字/专名/编号/脚注键）、r2 句级复读（`check_prose` 残余与豁免依据）、r3 终检（style/academic/math 全绿 + 账本或豁免）。首批收口：
 
 * **elias**：prose 13→1（唯一残余为 15 人名单长句，列举类豁免，ADR-0020）；修正 prefect 释义与 "evidence is scant" 逻辑误读；529/541/CLIII/22 次/15 处/12 讲逐项核对一致。
+
+## 6. 续记（复审中发现的条目级缺陷）
+
+* **e/epistemology-language-tibetan**：源参考文献含 `### A. Sources and translations` / `#### 1. Pre-classical period` / `#### 2. Classical and post-classical period` / `### B. Modern studies` 四层书目子标题，中文侧随「参考文献脚注化」（refs_kind=modern）转换而合并消失（55 个条目本身齐全）。属转换器范式缺陷而非漏译；手工重构需打散 55 条定义顺序，风险高于收益，**登记为转换器债**，留待 refs 转换器统一处理。
