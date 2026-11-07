@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-07 07:10（UTC）
+生成时间：2026-11-07 07:53（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1023|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|165|
-|在途（drafted 起、done 前）|242|
+|已完成（done）|166|
+|在途（drafted 起、done 前）|241|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,16 +23,17 @@
 |状态|数量|
 |---|---|
 |pending|616|
-|cleared|170|
-|drafted|3|
+|cleared|169|
+|drafted|2|
 |s3_checked|69|
-|done|165|
+|r1_reviewed|1|
+|done|166|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|48|
+|A|160|160|160|49|
 |B|62|62|62|4|
 |C|172|172|172|3|
 |D|92|92|92|11|
@@ -81,7 +82,6 @@
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
-|antonio-rosmini|retranslate|cleared|task_ops 2026-11-07|
 |basing-epistemic|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bauer|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -179,7 +179,7 @@
 |diodorus-cronus|retranslate|cleared|task_ops 2026-11-07|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |du-bos|retranslate|s3_checked|主代理 2026-11-01|
-|film|retranslate|drafted|EH-main-20261106 2026-11-06|
+|film|retranslate|r1_reviewed|EH-main-20261107 2026-11-07|
 |frame-problem|retranslate|cleared|task_ops 2026-11-06|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |galen|retranslate|cleared|task_ops 2026-11-01|
