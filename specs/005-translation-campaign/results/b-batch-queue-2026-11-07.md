@@ -12,31 +12,31 @@
 | drafted（待 s1→s3→r1→r3→done） | 2 |
 | cleared（待全量重译） | 42 |
 
-## 队列 A：cleared 44 条全量重译（按源文词数升序，先短后长）
+## 队列 A：cleared 42 条全量重译（按源文词数升序，先短后长）
 
 | 词数 | slug | 词数 | slug |
 |---|---|---|---|
+| 10150 | bohr-correspondence | 10433 | bodily-awareness |
+| 10490 | bradley-moral | 10579 | bodin |
+| 10756 | belief-merging | 10759 | buridan |
+| 10939 | brentano-judgement | 11045 | byzantine-philosophy |
+| 11065 | broad | 11084 | brentano |
+| 11519 | black-reparations | 11558 | bosanquet |
+| 11617 | biomedicine | 11829 | buber |
+| 11956 | bradley-regress | 12231 | beauty |
+| 12424 | bioethics-latin-america | 12665 | bolzano-logic |
+| 12682 | baudrillard | 12694 | boole |
 | 12718 | biology-experiment | 12993 | biology-individual |
-| 10150 | bohr-correspondence | 13118 | biodiversity |
-| 10433 | bodily-awareness | 13223 | burke |
-| 10490 | bradley-moral | 13646 | bonaventure |
-| 10579 | bodin | 13749 | belief |
-| 10756 | belief-merging | 13993 | biology-developmental |
-| 10759 | buridan | 14094 | beauvoir |
-| 10939 | brentano-judgement | 14589 | boyle |
-| 11045 | byzantine-philosophy | 14793 | berkeley |
-| 11065 | broad | 15332 | branching-time |
-| 11084 | brentano | 15427 | bentham |
-| 11519 | black-reparations | 16186 | burley |
-| 11558 | bosanquet | 16295 | boundary |
-| 11617 | biomedicine | 16613 | berlin |
-| 11829 | buber | 16825 | benjamin |
-| 11956 | bradley-regress | 17475 | bruno |
-| 12231 | beauty | 18936 | bell-theorem |
-| 12424 | bioethics-latin-america | 20203 | beardsley-aesthetics |
-| 12665 | bolzano-logic | 20254 | bounded-rationality |
-| 12682 | baudrillard | 21541 | bolzano |
-| 12694 | boole | 22600 | buddhism-tiantai |
+| 13118 | biodiversity | 13223 | burke |
+| 13646 | bonaventure | 13749 | belief |
+| 13993 | biology-developmental | 14094 | beauvoir |
+| 14589 | boyle | 14793 | berkeley |
+| 15332 | branching-time | 15427 | bentham |
+| 16186 | burley | 16295 | boundary |
+| 16613 | berlin | 16825 | benjamin |
+| 17475 | bruno | 18936 | bell-theorem |
+| 20203 | beardsley-aesthetics | 20254 | bounded-rationality |
+| 21541 | bolzano | 22600 | buddhism-tiantai |
 
 ## 队列 B：在途 16 条收口（r1 复审口径）
 
