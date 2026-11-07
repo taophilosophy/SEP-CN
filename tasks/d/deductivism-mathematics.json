@@ -2,7 +2,7 @@
   "slug": "deductivism-mathematics",
   "kind": "retranslate",
   "zh_doc": "d/deductivism-mathematics.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-07T10:48:54Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "D-main-20261107",
+      "at": "2026-11-07T18:08:36Z",
+      "evidence": "lq 账本流水线：147 段（body 122+oir 1+ack 1+note 23，biblio 44 照录）双版落盘；公式极密（171 式：$s$/$Ax \\vdash p$/\\vdash/\\vDash/\\diamond/\\square/PA2∪{¬Con(PA2)} 等）一律照录；守恒门经 2 轮 token 计数修正通过（段79 源文连写 $m, m$、段100/114 各减一 token、段113 补回 [^note-18]）；compose 组装 29952 字符"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "D-main-20261107",
+      "at": "2026-11-07T18:24:29Z",
+      "evidence": "对照核销：五维一致（正文 marker 51:51、defs 65:65、节数 21:20＝源 Notes 双节头合并为脚注节登记豁免、段落 147:147）+ References 节名汉化 + 相关词条修正（末项 mathematics, philosophy of: structuralism→数学哲学中的结构主义，并按源文残留 To be completed. 加译注说明）+ 术语口径统一（真值完全/可证性/一致性）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "D-main-20261107",
+      "at": "2026-11-07T18:27:42Z",
+      "evidence": "四检：check_style --strict 0（含 39 处 CJK 斜体转加粗 + 加粗两侧空格扫描式规整 + 日期间距）；check_academic --strict OK；check_math missing 0（171 式无一丢失，unbalanced 警告源出英文镜像自身行）；check_prose 21→实修 20 处（长句 10 拆句/de-chain 6/weak-verb 2/passive 3），余 5 全为引文块（Pasch、Curry、Hilbert、Frege 引文内 de-chain 与被动）按 ADR-0020 豁免留痕"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "D-main-20261107",
+      "at": "2026-11-07T18:27:45Z",
+      "evidence": "登记与门禁：术语册 14 行（演绎主义/如果—那么主义/蕴涵主义/真值完全性/可证性/公理化/omega 规则/一致性/完全性/混合语句/扩展虚构/不动点/实体化/模态主义）+ 人名册 22 行（哥德尔/帕施/柯里/海廷/丘奇/图灵/伦格 用通行汉译；Hellman/Shapiro/Maddy/Parsons/Burgess 等按 ADR-0022 保留英文并注明）；check_terms 硬错误 0；check_all 七项全绿"
     }
   ],
   "blockers": [],
