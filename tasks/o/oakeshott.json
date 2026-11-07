@@ -2,7 +2,7 @@
   "slug": "oakeshott",
   "kind": "retranslate",
   "zh_doc": "o/oakeshott.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "OR-main-20261106",
       "at": "2026-11-06T23:43:29Z",
       "evidence": "三校门禁：check_style --strict 0 issue；check_academic --strict 硬错误 0；check_terms 硬错误 0（滞后 2 条属他会话登记册 moral law / ʿAyn al-Quḍāt，非本条）；check_prose 0；check_all 7/7 全绿；markdownlint 该文件 0 issue。结构：标题集 12/12 与源一一对应，脚注 67 定义/51 引用，孤儿定义 5 项（aristotle-1980 等）与源一致；H1=SUMMARY 行、版本钉 Feb 1 2024/Spring 2024 一致。体量 14,152 汉字 / 61,064 字节。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T23:54:41Z",
+      "evidence": "复审 r1 逐句回核 + 事实链核验：生卒（1901–1990）、冈维尔与凯斯学院/1925 终身研究员、1940–45 陆军、纳菲尔德、1951 LSE 教授、1958 哈佛讲座、EM 1933/OHC 1975a/OH 1983/VLL 1989、Cambridge Journal 1947 均与源一致；页码括注（*RP* 459、*OHC* 88/99–100/128/147–149/281/316–317、*OH* 9/19/45–96/118/119–164/142/143/149/156/160/161、*EM* 112/316/331–346、*VLL* 23–24/38）逐条核对无误。译名冲突 4 处修正：柏克→伯克（登记形）、弗兰西斯→弗朗西斯·培根、韦布→韦伯、麦克塔格特→麦克塔加特；柯林武德沿用 SUMMARY 形。术语登记 43 行、人名登记 23 行（含 Oakeshott/Collingwood/Croce/Bosanquet/McTaggart/Bodin/Constant/Madison/Strauss/Arendt/Foucault/MacIntyre/Bentham/Fukuyama/Butterfield/Droysen/Haakonssen/Barker/Vico/Cowling/Grant），check_all 7/7 保持全绿。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T00:01:00Z",
+      "evidence": "r2 冷置复审（ADR-0020：与 r1 之间隔 origin-descent r2/r3 收口全程）。①括注引文核验：正文 34 组「作者 年份」括注与英文源逐串比对，唯一差异是书名汉化（*Nichomachean Ethics*→《尼各马可伦理学》1142a），页码/年卷全部一致。②通读 §4 判读病句 6 处实修：句法断裂「要摆脱…这就解释了」；「把读者引开这些涵义」改为「让读者避开」；「把这种性格退居其次的国家区分开」缺介词补「同…区分开」；「考察『公民』式现代国家理解的蕴含」改「考察对现代国家的『公民』式理解有何蕴含」；生造词「思者」改「思想家」；「此词义上」改「就此词之义而言」。③长句一次回归（拉丁术语句 70 汉字）再拆，prose 复归 0。④守恒与四检复跑全绿。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T00:01:25Z",
+      "evidence": "r3 终校：①结构——标题 12 个与源（H1+5 编号节+References 及 2 小节+学术工具+其他网络资源+相关词条）一一对应；脚注 67 定义/51 引用，未定义仅工具样板 [^key]，孤儿定义 5 条与源同；无图片引用（源文无图）。②体例：H1 与 SUMMARY 行一致，pubinfo 2024-02-01；相关词条按 SUMMARY 校正（范畴/历史哲学/唯心主义/法律的本质/实践理性）；无 TODO 残留。③check_all 7/7 全绿，lq 守恒 56 段通过。④体量 14,165 汉字 / 61,097 字节。收口 done。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T00:01:25Z",
+      "evidence": "九步闭环完成：o/oakeshott.md 六检全绿（style/academic/terms/math/prose/lq）+ check_all 7/7；账本 56 段双版齐全；术语 43 行、人名 23 行登记在案。"
     }
   ],
   "blockers": [],
