@@ -1785,6 +1785,13 @@
 | tuphos | — | 虚妄 | 首现（timon-phlius） | 学界惯例（犬儒派抨击术语，vanity；第蒙 *hupatuphos* 词根）；凭证 2026-11-07 | 2026-11-07 |
 | hupatuphos | — | 半脱虚妄 | 首现（timon-phlius） | 学界惯例（第蒙自铸形容词，partly free from tuphos）；凭证 2026-11-07 | 2026-11-07 |
 | atuphos | — | 脱尽虚妄 | 首现（timon-phlius） | 学界惯例（第蒙用语，free from tuphos）；凭证 2026-11-07 | 2026-11-07 |
+| Bridgewater Treatise | — | 布里奇沃特论丛 | 首现（william-jevons） | 学界惯例（19 世纪科学-宗教关系丛书名）；凭证 2026-11-07 | 2026-11-07 |
+| character | — | 品性 | 首现（william-jevons） | 学界惯例（Jevons 经济学语境：阶级-性别-种族之品性，White 1994a）；凭证 2026-11-07 | 2026-11-07 |
+| contrapositive proposition | — | 换质位命题 | 首现（william-jevons） | 学界通行（逻辑学标准术语） | 2026-11-07 |
+| direct inference / immediate inference | — | 直接推理 | 首现（william-jevons） | 学界通行（Jevons 直接推理之首要形式即传统直接推理）；凭证 2026-11-07 | 2026-11-07 |
+| disjunctive proposition | — | 选言命题 | 首现（william-jevons） | 学界通行（逻辑学标准术语；与已登记析取三段论同族） | 2026-11-07 |
+| dismal science | — | 沉闷科学 | 首现（william-jevons） | 学界通行（Carlyle 语，经济学史通行译名）；凭证 2026-11-07 | 2026-11-07 |
+| law of commutativeness | — | 交换律 | 首现（william-jevons） | 学界通行（代数-逻辑标准术语） | 2026-11-07 |
 | skeptosunê | — | 探究 | 首现（timon-phlius） | 学界惯例（第蒙用语，inquiry；勿径作“怀疑论”）；凭证 2026-11-07 | 2026-11-07 |
 | sunêtheia | — | 日常经验 | 首现（timon-phlius） | 学界惯例（第蒙《皮同》用语，ordinary experience）；凭证 2026-11-07 | 2026-11-07 |
 | ouden mallon | — | 并不更 | 首现（timon-phlius） | 学界惯例（与 ou mallon 同式，正文完整希腊形）；凭证 2026-11-07 | 2026-11-07 |
@@ -1798,6 +1805,7 @@
 | explanans | — | 解释项 | 首现（xenophanes） | 学界通行（科学说明）；凭证 2026-11-07 | 2026-11-07 |
 | dokos | — | 臆测 | 首现（xenophanes） | 学界惯例（克塞诺芬尼 B34 用语，与知识对举）；凭证 2026-11-07 | 2026-11-07 |
 | historiê | — | 探究 | 首现（xenophanes） | 学界惯例（伊奥尼亚“探究”；正文保留斜体原词）；凭证 2026-11-07 | 2026-11-07 |
+| Law of Identity | — | 同一律 | 首现（william-jevons） | 学界通行（经典思维规律译名） | 2026-11-07 |
 | rhapsode | — | 诵诗人 | 首现（xenophanes） | 学界通行（古希腊职业诵诗者）；凭证 2026-11-07 | 2026-11-07 |
 | symposium | — | 会饮 | 首现（xenophanes） | 学界通行（希腊宴饮；sympotic 作会饮诗）；凭证 2026-11-07 | 2026-11-07 |
 | testimonia | — | 转述 | 首现（xenophanes） | 学界惯例（古典学 testimonia，与残篇对举）；凭证 2026-11-07 | 2026-11-07 |
@@ -1853,11 +1861,16 @@
 | copulative | — | 合取句 | 首现（sophismata） | 学界惯例（中世纪逻辑；现代术语为合取式）；凭证 2026-11-07 | 2026-11-07 |
 | exceptive word | — | 除外词 | 首现（sophismata） | 学界惯例（中世纪逻辑）；凭证 2026-11-07 | 2026-11-07 |
 | exclusive word | — | 排除词 | 首现（sophismata） | 学界惯例（中世纪逻辑）；凭证 2026-11-07 | 2026-11-07 |
+| Laws of Thought | — | 思维规律 | 首现（william-jevons） | 学界通行（19 世纪逻辑学通行译名，Jevons/Boole 语境） | 2026-11-07 |
 | personal supposition | — | 人称指代 | 首现（william-sherwood） | 学界惯例（suppositio personalis）；凭证 2026-11-07 | 2026-11-07 |
 | corpus sophismatis | corpus sophismatis | 诡辩句正文 | 首现（sophismata） | 学界惯例（保留拉丁原词，首现括注）；凭证 2026-11-07 | 2026-11-07 |
+| econometrics | — | 计量经济学 | 首现（william-jevons） | 学界通行（学科标准译名） | 2026-11-07 |
+| extent of meaning / intent of meaning | — | 意义的外延／意义的内涵 | 首现（william-jevons） | 学界惯例（Jevons 词项意义两面，对应外延-内涵）；凭证 2026-11-07 | 2026-11-07 |
+| fictitious mean | — | 虚构均值 | 首现（william-jevons） | 学界惯例（Quetelet-杰文斯统计方法论术语）；凭证 2026-11-07 | 2026-11-07 |
 | mean speed theorem | — | 平均速度定理 | 首现（sophismata） | 学界惯例（物理学史通行）；凭证 2026-11-07 | 2026-11-07 |
 | intension and remission of forms | intensio et remissio formarum | 形式的增强与减弱 | 首现（sophismata） | 学界惯例（中世纪自然哲学）；凭证 2026-11-07 | 2026-11-07 |
 | German Idealism | — | 德国观念论 | 首现（schlegel） | 学界惯例（德国古典哲学通行）；凭证 2026-11-07 | 2026-11-07 |
+| law of unity | — | 统一律 | 首现（william-jevons） | 学界惯例（Jevons A·|·A=A）；凭证 2026-11-07 | 2026-11-07 |
 | transcendental philosophy | — | 先验哲学 | 首现（schlegel） | 学界惯例（康德研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | romanticism | — | 浪漫主义 | 首现（schlegel） | 学界惯例（文学史通行）；凭证 2026-11-07 | 2026-11-07 |
 | irony | — | 反讽 | 首现（schlegel） | 学界惯例（文学理论与哲学通行）；凭证 2026-11-07 | 2026-11-07 |
@@ -1866,8 +1879,10 @@
 | fragment | — | 断片 | 首现（schlegel） | 学界惯例（德国浪漫派研究通行；Athenaeum 断片）；凭证 2026-11-07 | 2026-11-07 |
 | poetics | — | 诗学 | 首现（schlegel） | 学界惯例（文学理论通行）；凭证 2026-11-07 | 2026-11-07 |
 | aesthetics | — | 美学 | 首现（schlegel） | 学界惯例（哲学通行）；凭证 2026-11-07 | 2026-11-07 |
+| index number | — | 指数 | 首现（william-jevons） | 学界通行（统计学标准译名） | 2026-11-07 |
 | progressive universal poetry | progressive Universalpoesie | 渐进的总汇诗 | 首现（schlegel） | 学界惯例（施莱格尔研究通行译法）；凭证 2026-11-07 | 2026-11-07 |
 | first principle | — | 第一原理 | 首现（schlegel） | 学界惯例（德国观念论研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| inverse method | — | 逆方法 | 首现（william-jevons） | 学界惯例（归纳法语境拉普拉斯式逆概率）；凭证 2026-11-07 | 2026-11-07 |
 | republicanism | — | 共和主义 | 首现（schlegel） | 学界惯例（政治哲学通行）；凭证 2026-11-07 | 2026-11-07 |
 | rigorism | — | 严格主义 | 首现（schlegel） | 学界惯例（康德伦理学通行）；凭证 2026-11-07 | 2026-11-07 |
 | philosophy of right | — | 法哲学 | 首现（schlegel） | 学界惯例（黑格尔研究通行）；凭证 2026-11-07 | 2026-11-07 |
@@ -1888,6 +1903,7 @@
 | living past | — | 活的过去 | oakeshott 首译 | 学界惯例（与 Croce『活的过去』史学用语同形）；凭证 2026-11-07 | 2026-11-07 |
 | ambiguity thesis | — | 歧义论题 | oakeshott 首译 | 学界惯例（奥克肖特法治理论研究）；凭证 2026-11-07 | 2026-11-07 |
 | authenticity | — | 本真性 | oakeshott 首译 | 发布词汇表既有形（法哲学效力义）；凭证 2026-11-07 | 2026-11-07 |
+| Law of Contradiction | — | 矛盾律 | 首现（william-jevons） | 学界通行（经典思维规律译名） | 2026-11-07 |
 | rightness | — | 正当性 | oakeshott 首译 | 学界惯例（与 validity 效力对举）；凭证 2026-11-07 | 2026-11-07 |
 | ideal character | — | 理想性格 | oakeshott 首译 | 学界惯例（奥克肖特 *lex* 论；亦作『理想性质』备查）；凭证 2026-11-07 | 2026-11-07 |
 | postulate | — | 公设 | oakeshott 首译 | 学界通行汉译（哲学与科学哲学通用）；凭证 2026-11-07 | 2026-11-07 |
@@ -1907,6 +1923,9 @@
 | cives | cives | 拉丁原文保留（公民） | oakeshott 首译 | 体例：拉丁术语保留原词并随文释义；凭证 2026-11-07 | 2026-11-07 |
 | lex | lex | 拉丁原文保留（法律） | oakeshott 首译 | 体例：拉丁术语保留原词并随文释义；凭证 2026-11-07 | 2026-11-07 |
 | jus | jus | 拉丁原文保留（法律的正当性） | oakeshott 首译 | 体例：拉丁术语保留原词并随文释义；凭证 2026-11-07 | 2026-11-07 |
+| Law of Duality | — | 对偶律 | 首现（william-jevons） | 学界惯例（Jevons 逻辑体系第三律 A=AB·|·Ab）；凭证 2026-11-07 | 2026-11-07 |
+| Law of Simplicity | — | 简单律 | 首现（william-jevons） | 构词直译（Jevons 特殊律 A=AA=AAA）；凭证 2026-11-07 | 2026-11-07 |
+| representative agents / representative individuals | — | 代表性行为者／代表性个体 | 首现（william-jevons） | 学界通行（经济学方法论通行译名）；凭证 2026-11-07 | 2026-11-07 |
 | societas | societas | 拉丁原文保留 | oakeshott 首译 | 体例：中世纪观念名保留原词；凭证 2026-11-07 | 2026-11-07 |
 | universitas | universitas | 拉丁原文保留 | oakeshott 首译 | 体例：中世纪观念名保留原词；凭证 2026-11-07 | 2026-11-07 |
 | survivals | — | 遗存（往昔遗存） | oakeshott 首译 | 学界惯例（历史证据术语；德罗伊森/柯林武德研究通行）；凭证 2026-11-07 | 2026-11-07 |
@@ -1918,6 +1937,7 @@
 | connected critic | — | 有联系的批评者 | oakeshott 首译 | 学界通行汉译（沃尔泽研究）；凭证 2026-11-07 | 2026-11-07 |
 | ignoratio elenchi | ignoratio elenchi | 拉丁原文保留（不相干谬误） | oakeshott 首译 | 体例：拉丁谬误名保留原词；凭证 2026-11-07 | 2026-11-07 |
 | en voyage | en voyage | 法文原文保留（永远在途中） | oakeshott 首译 | 体例：引语保留原文；凭证 2026-11-07 | 2026-11-07 |
+| mean | — | 均值 | 首现（william-jevons） | 学界通行（统计学标准译名） | 2026-11-07 |
 | supramodal | — | 超模式的 | oakeshott 首译 | 自译裁定（奥克肖特哲学界定；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | object | — | 对象 | object 首译 | 学界通行汉译（分析形而上学；与 thing/entity 分列）；凭证 2026-11-07 | 2026-11-07 |
 | umbrella view | — | 伞状观 | object 首译 | 自译裁定（Rettler & Bailey 对『万物皆对象』立场的定名；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
@@ -1933,11 +1953,16 @@
 | contingent being | — | 偶然存在者 | object 首译 | 学界通行汉译（模态形而上学）；凭证 2026-11-07 | 2026-11-07 |
 | item | — | 项 | object 首译 | 学界惯例（本体论清单用语，与 thing/entity 并举）；凭证 2026-11-07 | 2026-11-07 |
 | existent | — | 存在物 | object 首译 | 学界惯例（与 being/entity 并举）；凭证 2026-11-07 | 2026-11-07 |
+| Logical slate | — | 逻辑石板 | 首现（william-jevons） | 构词直译（Jevons 教具）；凭证 2026-11-07 | 2026-11-07 |
 | predication | — | 谓述 | object 首译 | 学界通行汉译（逻辑与形而上学）；凭证 2026-11-07 | 2026-11-07 |
 | bare particular | bare particularism | 裸殊相；裸殊相论 | object 首译 | 学界通行汉译（与束理论对举）；凭证 2026-11-07 | 2026-11-07 |
 | bundle theory | — | 束理论 | object 首译 | 学界通行汉译（实体理论）；凭证 2026-11-07 | 2026-11-07 |
+| law of the excluded middle | — | 排中律 | 首现（william-jevons） | 学界通行（经典思维规律译名） | 2026-11-07 |
+| logical abacus | — | 逻辑算盘 | 首现（william-jevons） | 构词直译（Jevons 机械推理装置）；凭证 2026-11-07 | 2026-11-07 |
+| method of least squares | — | 最小二乘法 | 首现（william-jevons） | 学界通行（统计学标准译名） | 2026-11-07 |
 | trope | — | 特普 | object 首译 | 学界通行译法（属性实例；与共相对举）；凭证 2026-11-07 | 2026-11-07 |
 | constituent ontology | — | 构成性本体论 | object 首译 | 学界惯例（与关系性本体论对举）；凭证 2026-11-07 | 2026-11-07 |
+| logical alphabet | — | 逻辑字母表 | 首现（william-jevons） | 学界惯例（Jevons 逻辑术语，汉语逻辑史通行）；凭证 2026-11-07 | 2026-11-07 |
 | relational ontology | — | 关系性本体论 | object 首译 | 学界惯例（同上）；凭证 2026-11-07 | 2026-11-07 |
 | class nominalism | — | 类唯名论 | object 首译 | 学界通行汉译（属性即类）；凭证 2026-11-07 | 2026-11-07 |
 | immanent universal | — | 内在共相 | object 首译 | 学界通行汉译（与超越共相对举）；凭证 2026-11-07 | 2026-11-07 |
@@ -1961,7 +1986,7 @@
 | grounding | — | 奠基 | object 首译 | 学界通行汉译（形而上学奠基）；凭证 2026-11-07 | 2026-11-07 |
 | being quantified over | — | 作为量化对象 | object 首译 | 自译裁定（避免单句『被』堆叠；与 being referred to 对举）；凭证 2026-11-07 | 2026-11-07 |
 | object of thought | — | 思想的对象 | object 首译 | 学界通行汉译（布伦塔诺/胡塞尔研究）；凭证 2026-11-07 | 2026-11-07 |
-| obligationes | — | 义务理论（保留拉丁原词 *Obligationes*） | obligationes 首译 | 学界惯例（中世纪逻辑研究通行；与伦理学 deontology『义务论』分列）；凭证 2026-11-07 | 2026-11-07 |
+| obligationes | obligationes | 义务理论（保留拉丁原词 *Obligationes*） | obligationes 首译 | 学界惯例（中世纪逻辑研究通行；与伦理学 deontology『义务论』分列）；凭证 2026-11-07 | 2026-11-07 |
 | positio | — | 设定（保留拉丁原词） | obligationes 首译 | 学界惯例（中世纪义务理论研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | depositio | — | 撤定 | obligationes 首译 | 自译裁定（与 positio 对举；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | dubitatio | — | 存疑 | obligationes 首译 | 学界惯例（中世纪逻辑研究）；凭证 2026-11-07 | 2026-11-07 |
@@ -1982,6 +2007,7 @@
 | mere conservationism | — | 单纯保存论 | occasionalism 首译 | 自译裁定（concurrentism 并作论配套；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | divine concurrentism | concurrentism | 神性并作论（并作论） | occasionalism 首译 | 学界惯例（中世纪神学因果论）；凭证 2026-11-07 | 2026-11-07 |
 | interactionism | Cartesian interactionism | 交互作用论（笛卡尔式交互作用论） | occasionalism 首译 | 学界通行汉译（心身问题）；凭证 2026-11-07 | 2026-11-07 |
+| multiplicative disturbances | — | 乘性扰动 | 首现（william-jevons） | 构词直译（杰文斯指数构造假说）；凭证 2026-11-07 | 2026-11-07 |
 | passive nature argument | PN | 被动本性论证 | occasionalism 首译 | 自译裁定（凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | no knowledge argument | NK | 无知论证 | occasionalism 首译 | 自译裁定（循 Jolley/Nadler 命名；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | no necessary connection argument | NNC | 无必然联系论证 | occasionalism 首译 | 自译裁定（凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
@@ -1993,8 +2019,11 @@
 | esse | — | 拉丁原文保留（存在） | occasionalism 首译 | 体例：拉丁术语保留原词；凭证 2026-11-07 | 2026-11-07 |
 | sine qua non | — | 拉丁原文保留（缺之不然的原因） | occasionalism 首译 | 体例：拉丁术语保留原词；凭证 2026-11-07 | 2026-11-07 |
 | general volition | — | 一般意志 | occasionalism 首译 | 学界惯例（马勒布朗士研究）；凭证 2026-11-07 | 2026-11-07 |
+| indeterminate adjective | — | 不确定形容词 | 首现（william-jevons） | 构词直译（Jevons 对「some」之称）；凭证 2026-11-07 | 2026-11-07 |
+| laissez-faire | — | 自由放任 | 首现（william-jevons） | 学界通行（经济思想史标准译名） | 2026-11-07 |
 | particular volition | — | 个别意志 | occasionalism 首译 | 学界惯例（同上）；凭证 2026-11-07 | 2026-11-07 |
 | occasional causation | — | 偶因因果 | occasionalism 首译 | 自译裁定（与 Nadler 技术义分列；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
+| substitution of similars | — | 相似替换 | 首现（william-jevons） | 学界惯例（Jevons 逻辑口号，汉语逻辑史通行）；凭证 2026-11-07 | 2026-11-07 |
 | transcendentalism | — | 超验主义 | emerson | 学界通行（美国超验主义，Emerson/Thoreau 运动） | 2026-11-07 |
 | self-reliance | — | 自立 | emerson | Emerson 篇名 Self-Reliance 通行汉译“自立”（亦作“自助”），本条锁定“自立” | 2026-11-07 |
 | Over-Soul | — | 超灵 | emerson | 学界通行（爱默生《论超灵》） | 2026-11-07 |
@@ -2016,6 +2045,7 @@
 | intelligible world | — | 可理解世界 | john-norris | 学界通行（马勒布朗士“观念世界”；与“可感世界”相对） | 2026-11-07 |
 | Ideal Philosophy | — | 观念哲学 | john-norris | 诺里斯自名其学（Ideal Philosophy）；随文括注原文 | 2026-11-07 |
 | eminent containment | — | 卓越包含 | john-norris | 经院—笛卡尔系通行译法（formaliter/eminenter 之别） | 2026-11-07 |
+| large number argument | — | 大数论证 | 首现（william-jevons） | 学界惯例（社会科学方法论通行说法）；凭证 2026-11-07 | 2026-11-07 |
 | modal abstraction | — | 样态抽象 | john-norris | 诺里斯术语（abstractio per modum）；样态=modus | 2026-11-07 |
 | mental proposition / ideal proposition | — | 心理命题／理想命题 | john-norris | 诺里斯术语对（mental vs ideal proposition）；随文对举 | 2026-11-07 |
 | thinking matter | — | 思想物质 | john-norris | 洛克假说通行译法（thinking matter，亦作“会思想物质”） | 2026-11-07 |
@@ -2025,6 +2055,7 @@
 | post-colonial theory | — | 后殖民理论 | colonialism | 学界通行译名；凭证 2026-11-07 | 2026-11-07 |
 | decolonization | — | 去殖民化 | colonialism | 学界通行译名；凭证 2026-11-07 | 2026-11-07 |
 | Orientalism | — | 东方主义（书名《东方学》） | colonialism | 学界通行（《东方学》三联中译本）；凭证 2026-11-07 | 2026-11-07 |
+| principles of number | — | 数的原则 | 首现（william-jevons） | 构词直译（Jevons 数之哲学）；凭证 2026-11-07 | 2026-11-07 |
 | Subaltern Studies | — | 庶民研究（subaltern 庶民） | colonialism | 学界通行（《庶民研究》丛刊引介）；凭证 2026-11-07 | 2026-11-07 |
 | civilizing mission | — | 文明使命 | colonialism | 学界通行译名（mission civilisatrice 引介文献）；凭证 2026-11-07 | 2026-11-07 |
 | Law of Nations | — | 万民法 | colonialism | 学界通行（Victoria ius gentium 传统译名）；凭证 2026-11-07 | 2026-11-07 |
@@ -2073,6 +2104,11 @@
 | textual lineage | — | 文本谱系 | chinese-phil-science | 学界通行（参 Lewis《早期中国的书写与权威》）；凭证 2026-11-07 | 2026-11-07 |
 | organicist thinking | — | 有机论思维 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |
 | Liu yi / Liu jing | 六藝/六經 | 六艺/六经 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |
+| marginal revolution | — | 边际革命 | 首现（william-jevons） | 学界通行（经济学史标准术语） | 2026-11-07 |
+| term | — | 词项 | 首现（william-jevons） | 学界通行（逻辑学标准译名） | 2026-11-07 |
+| Theological Declaration of Scientific Man | — | 科学人的神学宣言 | 首现（william-jevons） | 照题直译（1860s 文献名，Black 1977a 所记）；凭证 2026-11-07 | 2026-11-07 |
+| Unitarianism | — | 一神论派 | 首现（william-jevons） | 学界通行（宗教史通译；与 monotheism 一神论相区别） | 2026-11-07 |
+| utilitarianism | — | 功利主义 | 首现（william-jevons） | 学界通行（伦理学标准译名） | 2026-11-07 |
 | Yueling | 月令 | 《月令》 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |
 | xiu | 宿 | 宿 | chinese-phil-science | 学界通行（二十八宿）；凭证 2026-11-07 | 2026-11-07 |
 | Huang Di neijing | 黃帝內經 | 《黄帝内经》 | chinese-phil-science | 学界通行（文树德英译本系）；凭证 2026-11-07 | 2026-11-07 |
