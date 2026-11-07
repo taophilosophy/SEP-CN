@@ -797,7 +797,7 @@
 | subjectivism | — | 主观主义 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | sufficient reason | — | 充足理由 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | suniêmi | συνίημι | 汇通（译作“理解/汇通”，指集合感官信息的能力） | alcmaeon | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-26 |
-| śūnyatā | — | 空（佛教；亦作“空性”） | 语料回收 | 审定名词库（termonline-all·哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
+| śūnyatā | शून्यता | 空（佛教；亦作“空性”） | 语料回收 | 审定名词库（termonline-all·哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | Superdeterminism | — | 超决定论 | 语料回收（bell-theorem） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | svabhāva | स्वभाव | 自性（佛教） | 语料回收 | 学界惯例（佛典译语）；审定库无直接收录（凭证 2026-10-30）；审定库精确查无（凭证 2026-10-30） | 2026-10-30 |
 | taṣdīq | تصديق | 断定（阿拉伯逻辑学；与 taṣawwur 概念相对） | 语料回收 | 学界惯例（阿拉伯逻辑学）；审定库仅模糊噪声命中（凭证 2026-10-31） | 2026-10-31 |
@@ -1077,7 +1077,33 @@
 | Rational Ritual | — | 《理性的仪式》（Chwe 2001） | s/social-procedures 首译 | 构词直译，无中译本，待 specs/008 审定库复核；凭证 2026-11-07 | 2026-11-07 |
 | formal methods | — | 形式化方法 | s/social-procedures 首译 | 审定名词（计算机科学技术名词）；凭证 2026-11-07 | 2026-11-07 |
 | communication protocol | — | 通信协议 | s/social-procedures 首译 | 审定名词（计算机科学技术名词）；凭证 2026-11-07 | 2026-11-07 |
-
+| Zionism | — | 锡安主义（犹太复国主义） | s/scholem 首译 | 学界通行译名（亦作“犹太复国主义”；历史语境用“锡安主义”；凭证 2026-11-08 | 2026-11-08 |
+| aliyah | — | 阿利亚（移居以色列地） | s/scholem 首译 | 犹太研究通行音译（aliyah 上升、移民）；凭证 2026-11-08 | 2026-11-08 |
+| Yishuv | — | 伊舒夫（巴勒斯坦犹太社群） | s/scholem 首译 | 犹太研究通行音译；凭证 2026-11-08 | 2026-11-08 |
+| symphilosophy | — | 共思（Symphilosophie） | s/scholem 首译 | 早期浪漫派术语通行译法（亦作“共哲学”）；凭证 2026-11-08 | 2026-11-08 |
+| Sabbatianism | — | 沙巴泰主义 | s/scholem 首译 | 学界通行译名（沙巴泰·茨维运动）；凭证 2026-11-08 | 2026-11-08 |
+| Lurianic Kabbalah | — | 卢里亚卡巴拉 | s/scholem 首译 | 学界通行译名（以撒·卢里亚体系）；凭证 2026-11-08 | 2026-11-08 |
+| Gnosticism | — | 诺斯替主义 | s/scholem 首译 | 学界通行译名；凭证 2026-11-08 | 2026-11-08 |
+| antinomianism | — | 反律法主义 | s/scholem 首译 | 学界通行译名（宗教研究）；凭证 2026-11-08 | 2026-11-08 |
+| counter-history | — | 反历史 | s/scholem 首译 | 构词直译（比亚莱术语，对抗主流进步史叙述）；凭证 2026-11-08 | 2026-11-08 |
+| history of religion school | — | 宗教史学派 | s/scholem 首译 | 学界通行译名（德国圣经研究范式）；凭证 2026-11-08 | 2026-11-08 |
+| Science of Judaism | — | 犹太学（Wissenschaft des Judentums） | s/scholem 首译 | 学界通行译名（十九世纪犹太学运动）；凭证 2026-11-08 | 2026-11-08 |
+| philology | — | 语文学 | s/scholem 首译 | 学界通行译名；凭证 2026-11-08 | 2026-11-08 |
+| pseudepigraphic | — | 托名的（伪托作者） | s/scholem 首译 | 学界通行译法（文献学）；凭证 2026-11-08 | 2026-11-08 |
+| Zohar | — | 《光辉之书》 | s/scholem 首译 | 学界通行译名（卡巴拉核心经典）；凭证 2026-11-08 | 2026-11-08 |
+| Bahir | — | 《巴希尔之书》 | s/scholem 首译 | 学界通行译名（早期卡巴拉经典）；凭证 2026-11-08 | 2026-11-08 |
+| Major Trends of Jewish Mysticism | — | 《犹太神秘主义主流》 | s/scholem 首译 | 学界通行译名（朔勒姆 1941 讲演集）；凭证 2026-11-08 | 2026-11-08 |
+| Star of Redemption | — | 《救赎之星》 | s/scholem 首译 | 学界通行译名（罗森茨维格代表作）；凭证 2026-11-08 | 2026-11-08 |
+| Redemption through Sin | — | 《以罪救赎》 | s/scholem 首译 | 构词直译（朔勒姆 1937 论文）；凭证 2026-11-08 | 2026-11-08 |
+| exile | — | 流亡（加路特 galut） | s/scholem 首译 | 学界通行译法（犹太史语境）；凭证 2026-11-08 | 2026-11-08 |
+| Revelation | — | 启示 | s/scholem 首译 | 学界通行译名；凭证 2026-11-08 | 2026-11-08 |
+| productive misunderstanding | — | 生产性误解 | s/scholem 首译 | 构词直译（朔勒姆术语）；凭证 2026-11-08 | 2026-11-08 |
+| secularization | — | 世俗化 | s/scholem 首译 | 审定名词（社会学）；凭证 2026-11-08 | 2026-11-08 |
+| theology of crisis | — | 危机神学 | s/scholem 首译 | 学界通行译名（巴特等）；凭证 2026-11-08 | 2026-11-08 |
+| Hasidism | — | 哈西德主义 | s/scholem 首译 | 学界通行译名；凭证 2026-11-08 | 2026-11-08 |
+| Ten Unhistorical Aphorisms | — | 《十则非历史的箴言》 | s/scholem 首译 | 构词直译（朔勒姆短文）；凭证 2026-11-08 | 2026-11-08 |
+| Zimzum | — | 齐姆祖姆（神性收缩） | s/scholem 首译 | 犹太神秘主义研究通行音译；凭证 2026-11-08 | 2026-11-08 |
+| Brit Shalom | — | 和平联盟（Brit Shalom） | s/scholem 首译 | 专名音译兼意译（1925 年巴勒斯坦犹太社团组织）；凭证 2026-11-08 | 2026-11-08 |
 ## 伊斯兰阿拉伯术语（ADR-0013 种子区，2026-10-28）
 
 > 译名优先取中国伊斯兰研究界与哲学史通行译法；知网系查证凭证存 specs/008-terminology-campaign/results/queries/（GB 标准库通常无收录，依据档位如实标注）。
@@ -1317,6 +1343,13 @@
 | self-cultivation | — | 修身 | japanese-aesthetics | 学界惯例（儒学/东亚哲学通行译法“修身”） | 2026-11-02 |
 | tea ceremony | — | 茶道仪式（茶会；日常语境亦作“茶道”） | japanese-aesthetics | 学界惯例（日本文化研究通行译法“茶道”） | 2026-11-02 |
 | wabi-sabi | 侘寂 | 侘寂 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“侘寂”） | 2026-11-02 |
+| ikebana | 生け花 | 插花（生け花） | japanese-aesthetics | 学界惯例（日本花道研究通行译法“插花”） | 2026-11-08 |
+| sukiya | 数寄屋 | 数寄屋（茶室） | japanese-aesthetics | 学界惯例（日本建筑/茶道研究通行译法“数寄屋”） | 2026-11-08 |
+| haiku | 俳句 | 俳句 | japanese-aesthetics | 学界惯例（日本文学研究通行译法“俳句”） | 2026-11-08 |
+| Rinzai | 臨済 | 临济（临济禅） | japanese-aesthetics | 学界惯例（日本禅宗史通行译法“临济”） | 2026-11-08 |
+| Muromachi | 室町 | 室町（室町时代） | japanese-aesthetics | 学界惯例（日本史研究通行译法“室町时代”） | 2026-11-08 |
+| Hōjōki | 方丈記 | 《方丈记》 | japanese-aesthetics | 学界惯例（日本文学史通行书名） | 2026-11-08 |
+| kare | 枯 | 枯（枯萎） | japanese-aesthetics | 学界惯例（日本庭园研究通行译法“枯”） | 2026-11-08 |
 | epistemic justification | — | 知识证成 | justep-coherence | 学界惯例（知识论通行译法；SUMMARY 词条名“知识证成的融贯论”） | 2026-11-02 |
 | coherentism | — | 融贯论 | justep-coherence | 学界惯例（哲学通译；已登记“coherence theory of truth=真理融贯论”） | 2026-11-02 |
 | coherence | — | 融贯 | justep-coherence | 学界惯例（哲学通译“融贯/融贯性”） | 2026-11-02 |
@@ -1400,7 +1433,7 @@
 | scientia | scientia | 知识（经院拉丁术语） | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
 | pneuma | πνεῦμα | 普纽玛 | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
 | modi significandi | modi significandi | 意指样式（摩迪斯泰语法） | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
-| hegemonikon | ἡγεμονικόν | 灵魂的主导部分（斯多亚） | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
+| hegemonikon | ἡγεμονικόν | 灵魂的主导部分（斯多亚） | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；亦作「统治部分」（telesio，2026-11-08 登记时依先登优先从正形）；凭证 2026-11-04 | 2026-11-04 |
 | emotion | — | 情感 | 首现（emotion-Christian-tradition） | 学界惯例（SUMMARY 题名既定；Dixon《从激情到情感》语境与 passion 激情、affection 情意三分）；凭证 2026-11-04 | 2026-11-04 |
 | passion | — | 激情（阿奎那 passiones：人与动物共有的感官欲求之感受反应） | 首现（emotion-Christian-tradition） | 学界惯例（Dixon 著作通行《从激情到情感》）；凭证 2026-11-04 | 2026-11-04 |
 | affection | — | 情意（affectiones：源于意志/智性欲求的心灵倾向；爱德华兹 Religious Affections《论宗教情意》） | 首现（emotion-Christian-tradition） | 学界惯例（Dixon 三分语境直译+括注，与情感/激情相区分）；凭证 2026-11-04 | 2026-11-04 |
@@ -1848,7 +1881,9 @@
 
 | somatic cell nuclear transfer (SCNT) | — | 体细胞核移植 | 首现（cloning） | 学界惯例（生命伦理学/发育生物学通行）；凭证 2026-11-07 | 2026-11-07 |
 | oocyte | — | 卵母细胞 | 首现（cloning） | 学界惯例（发育生物学/生殖医学通行）；凭证 2026-11-07 | 2026-11-07 |
+| anima creata | — | 受造灵魂 | 首现（telesio） | 学界惯例（经院哲学术语 anima creata 通译受造灵魂）；凭证 2026-11-08 | 2026-11-08 |
 | blastocyst | — | 囊胚 | 首现（cloning） | 学界惯例（胚胎学通行）；凭证 2026-11-07 | 2026-11-07 |
+| conservatio sui | — | 自我保存 | 首现（telesio） | 学界惯例（斯多亚-文艺复兴自然哲学术语，拉丁语保留形）；凭证 2026-11-08 | 2026-11-08 |
 | embryonic stem cell | — | 胚胎干细胞 | 首现（cloning） | 学界惯例（干细胞生物学通行）；凭证 2026-11-07 | 2026-11-07 |
 | pluripotent stem cell | — | 多能干细胞 | 首现（cloning） | 学界惯例（干细胞生物学通行）；凭证 2026-11-07 | 2026-11-07 |
 | induced pluripotent stem cell (iPSC) | — | 诱导多能干细胞 | 首现（cloning） | 学界惯例（干细胞生物学通行）；凭证 2026-11-07 | 2026-11-07 |
@@ -1872,13 +1907,16 @@
 | metamathematics | — | 元数学 | 首现（scholz） | 学界惯例（数理逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
 | proof theory | — | 证明论 | 首现（scholz） | 学界惯例（数理逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
 | abstraction theory | — | 抽象理论 | 首现（scholz） | 学界惯例（逻辑与数学基础通行）；凭证 2026-11-07 | 2026-11-07 |
+| anima vegetativa / sensitiva / cogitativa | — | 植物灵魂／感觉灵魂／思维灵魂 | 首现（telesio） | 学界通行（亚里士多德灵魂三分通译）；凭证 2026-11-08 | 2026-11-08 |
 | predicate calculus | — | 谓词演算 | 首现（scholz） | 学界惯例（数理逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
 | sentential logic | — | 语句逻辑 | 首现（scholz） | 学界惯例（逻辑学通行；与 propositional logic 命题逻辑并用）；凭证 2026-11-07 | 2026-11-07 |
 | axiomatic method | — | 公理方法 | 首现（scholz） | 学界惯例（数学基础通行）；凭证 2026-11-07 | 2026-11-07 |
+| commemorari | — | 回忆 | 首现（telesio） | 照文直译（特莱西奥替换术语）；凭证 2026-11-08 | 2026-11-08 |
 | scientific world view | wissenschaftliche Weltauffassung | 科学世界观 | 首现（scholz） | 学界惯例（维也纳学派研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | kerygmatic theology | — | 宣道神学 | 首现（scholz） | 学界惯例（巴特研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | dialectic theology | — | 辩证神学 | 首现（scholz） | 学界惯例（巴特研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | consistency proof | — | 一致性证明 | 首现（scholz） | 学界惯例（数理逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
+| informatio | — | 充灌 | 首现（telesio） | 学界惯例（中世纪知觉论：种相充灌感官，informatio 通译充灌/赋形，取充灌）；凭证 2026-11-08 | 2026-11-08 |
 | logicist reduction | — | 逻辑主义还原 | 首现（scholz） | 学界惯例（弗雷格-罗素研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | Pyrrhonism | — | 皮浪主义 | 首现（timon-phlius） | 学界惯例（希腊化怀疑论学派名；SUMMARY 定名）；凭证 2026-11-07 | 2026-11-07 |
 | Pyrrhonist | — | 皮浪派者 | 首现（timon-phlius） | 学界惯例（皮浪派成员；与 Pyrrhonism 区分）；凭证 2026-11-07 | 2026-11-07 |
@@ -1915,6 +1953,7 @@
 | symposium | — | 会饮 | 首现（xenophanes） | 学界通行（希腊宴饮；sympotic 作会饮诗）；凭证 2026-11-07 | 2026-11-07 |
 | testimonia | — | 转述 | 首现（xenophanes） | 学界惯例（古典学 testimonia，与残篇对举）；凭证 2026-11-07 | 2026-11-07 |
 | anthropomorphism | — | 神人同形同性论 | 首现（xenophanes） | 学界通行（宗教哲学）；凭证 2026-11-07 | 2026-11-07 |
+| double-truth theory | — | 双重真理论 | 首现（telesio） | 学界通行（中世纪-文艺复兴思想史通译）；凭证 2026-11-08 | 2026-11-08 |
 | moral virtue | — | 道德德性 | 首现（wisdom） | 学界通行（亚里士多德伦理学）；凭证 2026-11-07 | 2026-11-07 |
 | living well | — | 过好生活 | 首现（wisdom） | 学界惯例（eudaimonia 语境下的 living well）；凭证 2026-11-07 | 2026-11-07 |
 | practical know-how | — | 实践诀窍 | 首现（wisdom） | 学界惯例（know-how 的实践义）；凭证 2026-11-07 | 2026-11-07 |
@@ -1972,6 +2011,7 @@
 | econometrics | — | 计量经济学 | 首现（william-jevons） | 学界通行（学科标准译名） | 2026-11-07 |
 | extent of meaning / intent of meaning | — | 意义的外延／意义的内涵 | 首现（william-jevons） | 学界惯例（Jevons 词项意义两面，对应外延-内涵）；凭证 2026-11-07 | 2026-11-07 |
 | fictitious mean | — | 虚构均值 | 首现（william-jevons） | 学界惯例（Quetelet-杰文斯统计方法论术语）；凭证 2026-11-07 | 2026-11-07 |
+| forma corporis | — | 身体之形式 | 首现（telesio） | 学界通行（亚里士多德灵魂定义通译）；凭证 2026-11-08 | 2026-11-08 |
 | mean speed theorem | — | 平均速度定理 | 首现（sophismata） | 学界惯例（物理学史通行）；凭证 2026-11-07 | 2026-11-07 |
 | intension and remission of forms | intensio et remissio formarum | 形式的增强与减弱 | 首现（sophismata） | 学界惯例（中世纪自然哲学）；凭证 2026-11-07 | 2026-11-07 |
 | German Idealism | — | 德国观念论 | 首现（schlegel） | 学界惯例（德国古典哲学通行）；凭证 2026-11-07 | 2026-11-07 |
@@ -1987,12 +2027,14 @@
 | index number | — | 指数 | 首现（william-jevons） | 学界通行（统计学标准译名） | 2026-11-07 |
 | progressive universal poetry | progressive Universalpoesie | 渐进的总汇诗 | 首现（schlegel） | 学界惯例（施莱格尔研究通行译法）；凭证 2026-11-07 | 2026-11-07 |
 | first principle | — | 第一原理 | 首现（schlegel） | 学界惯例（德国观念论研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| intelligere | — | 理智直观 | 首现（telesio） | 学界惯例（经院哲学术语通译；特莱西奥以估断/回忆替换之）；凭证 2026-11-08 | 2026-11-08 |
 | inverse method | — | 逆方法 | 首现（william-jevons） | 学界惯例（归纳法语境拉普拉斯式逆概率）；凭证 2026-11-07 | 2026-11-07 |
 | republicanism | — | 共和主义 | 首现（schlegel） | 学界惯例（政治哲学通行）；凭证 2026-11-07 | 2026-11-07 |
 | rigorism | — | 严格主义 | 首现（schlegel） | 学界惯例（康德伦理学通行）；凭证 2026-11-07 | 2026-11-07 |
 | philosophy of right | — | 法哲学 | 首现（schlegel） | 学界惯例（黑格尔研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | corporations | — | 团体（社团主义意义的等级团体） | 首现（schlegel） | 学界惯例（黑格尔法哲学研究）；凭证 2026-11-07 | 2026-11-07 |
 | organic state | — | 有机国家 | 首现（schlegel） | 学界惯例（政治思想史通行）；凭证 2026-11-07 | 2026-11-07 |
+| spiritus e semine eductus | — | 由种子导出的精气 | 首现（telesio） | 照文直译（特莱西奥《论物性》卷五术语）；凭证 2026-11-08 | 2026-11-08 |
 | suffrage | — | 选举权 | 首现（schlegel） | 学界惯例（政治哲学通行）；凭证 2026-11-07 | 2026-11-07 |
 | Wechselerweis | Wechselerweis | 交替证明（亦作“交互证明”） | 首现（schlegel） | 学界惯例（施莱格尔研究保留德文原词）；凭证 2026-11-07 | 2026-11-07 |
 | Grundsatzkritik | Grundsatzkritik | 原理批判 | 首现（schlegel） | 学界惯例（德国观念论研究保留德文原词）；凭证 2026-11-07 | 2026-11-07 |
@@ -2122,18 +2164,21 @@
 | falâsifa | falâsifa | 法拉西法（亚里士多德派哲学家） | occasionalism 首译 | 学界惯例（保留阿拉伯文转写）；凭证 2026-11-07 | 2026-11-07 |
 | causa secundum esse | — | 拉丁原文保留（就存在而言的原因） | occasionalism 首译 | 体例：拉丁术语保留原词；凭证 2026-11-07 | 2026-11-07 |
 | esse | — | 拉丁原文保留（存在） | occasionalism 首译 | 体例：拉丁术语保留原词；凭证 2026-11-07 | 2026-11-07 |
+| pansensism | — | 泛感觉论 | 首现（telesio） | 学界通行（文艺复兴自然哲学史通译）；凭证 2026-11-08 | 2026-11-08 |
+| sensus sensus | — | 感觉之感觉 | 首现（telesio） | 照文直译（特莱西奥 meta-知觉术语）；凭证 2026-11-08 | 2026-11-08 |
 | sine qua non | — | 拉丁原文保留（缺之不然的原因） | occasionalism 首译 | 体例：拉丁术语保留原词；凭证 2026-11-07 | 2026-11-07 |
 | general volition | — | 一般意志 | occasionalism 首译 | 学界惯例（马勒布朗士研究）；凭证 2026-11-07 | 2026-11-07 |
 | indeterminate adjective | — | 不确定形容词 | 首现（william-jevons） | 构词直译（Jevons 对「some」之称）；凭证 2026-11-07 | 2026-11-07 |
 | laissez-faire | — | 自由放任 | 首现（william-jevons） | 学界通行（经济思想史标准译名） | 2026-11-07 |
 | particular volition | — | 个别意志 | occasionalism 首译 | 学界惯例（同上）；凭证 2026-11-07 | 2026-11-07 |
 | occasional causation | — | 偶因因果 | occasionalism 首译 | 自译裁定（与 Nadler 技术义分列；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
+| spiritus naturalis / vitalis / animalis | — | 自然精气／活力精气／动物精气 | 首现（telesio） | 学界通行（盖伦三精气通译）；凭证 2026-11-08 | 2026-11-08 |
 | substitution of similars | — | 相似替换 | 首现（william-jevons） | 学界惯例（Jevons 逻辑口号，汉语逻辑史通行）；凭证 2026-11-07 | 2026-11-07 |
 | transcendentalism | — | 超验主义 | emerson | 学界通行（美国超验主义，Emerson/Thoreau 运动） | 2026-11-07 |
 | self-reliance | — | 自立 | emerson | Emerson 篇名 Self-Reliance 通行汉译“自立”（亦作“自助”），本条锁定“自立” | 2026-11-07 |
 | Over-Soul | — | 超灵 | emerson | 学界通行（爱默生《论超灵》） | 2026-11-07 |
 | gelukpa | དགེ་ལུགས་པ | 格鲁派 | gelukpa | 传统译名（藏传佛教四大派，dge lugs pa；宗喀巴所创） | 2026-11-07 |
-| Cārvāka / Lokāyata | — | 顺世论 | jayaraasi | 印度哲学史学界通行（唯物论派；音译“遮卢婆迦”较少用）；与既有 anumāna/pratyakṣa 因明系译名并行 | 2026-11-07 |
+| Cārvāka / Lokāyata | चार्वाक / लोकायत | 顺世论 | jayaraasi | 印度哲学史学界通行（唯物论派；音译“遮卢婆迦”较少用）；与既有 anumāna/pratyakṣa 因明系译名并行 | 2026-11-07 |
 | pramāṇa（认知凭据义） | — | 认知凭据 | jayaraasi | 因明学“量”之散文义；j/jayaraasi 全文作“认知凭据”并括注“量”，与表内 pramāṇa=量论（学科义）分工 | 2026-11-07 |
 | Tattvôpaplava-siṁha | — | 《谛坏狮子论》 | jayaraasi | 本库自拟书名（tattva 谛、upaplava 坏灭、siṁha 狮子）；梵文原题随文括注 | 2026-11-07 |
 | prasaṅga | — | 归谬论式 | jayaraasi | 学界惯例（中观学“归谬”；与“自立论证”svatantra 相对） | 2026-11-07 |
@@ -2164,6 +2209,7 @@
 | Subaltern Studies | — | 庶民研究（subaltern 庶民） | colonialism | 学界通行（《庶民研究》丛刊引介）；凭证 2026-11-07 | 2026-11-07 |
 | civilizing mission | — | 文明使命 | colonialism | 学界通行译名（mission civilisatrice 引介文献）；凭证 2026-11-07 | 2026-11-07 |
 | Law of Nations | — | 万民法 | colonialism | 学界通行（Victoria ius gentium 传统译名）；凭证 2026-11-07 | 2026-11-07 |
+| ratiocinari | — | 理性推论 | 首现（telesio） | 学界惯例（拉丁推论术语；正文作「作理性结论的能力」）；凭证 2026-11-08 | 2026-11-08 |
 | terra nullius | — | 无主地 | colonialism | 学界通行拉丁语译名；凭证 2026-11-07 | 2026-11-07 |
 | stadial theory | — | 阶段论（四阶段理论） | colonialism | 学界通行（苏格兰启蒙 historiography 引介）；凭证 2026-11-07 | 2026-11-07 |
 | comprador bourgeoisie | — | 买办资产阶级 | colonialism | 马列文献通行译名；凭证 2026-11-07 | 2026-11-07 |
@@ -2203,6 +2249,7 @@
 | Daoist Canon | 道藏 | 《道藏》 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |
 | correlative cosmology | 关联性宇宙论 | 关联性宇宙论 | chinese-phil-science | 学界通行（参 Graham《阴阳与关联思维》）；凭证 2026-11-07 | 2026-11-07 |
 | Bibliographic Treatise | 艺文志 | 《艺文志》 | chinese-phil-science | 学界通行（《汉书》卷三十）；凭证 2026-11-07 | 2026-11-07 |
+| existimari | — | 估断 | 首现（telesio） | 照文直译（特莱西奥替换术语）；凭证 2026-11-08 | 2026-11-08 |
 | Needham problem | 李约瑟问题 | 李约瑟问题 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |
 | Masters texts | 諸子 | 诸子文本 | chinese-phil-science | 学界通行（《汉书·诸子略》系）；凭证 2026-11-07 | 2026-11-07 |
 | generalist | — | 通才 | chinese-phil-science | 学界通行（对 technical specialist 技术专家）；凭证 2026-11-07 | 2026-11-07 |
@@ -2210,6 +2257,8 @@
 | organicist thinking | — | 有机论思维 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |
 | Liu yi / Liu jing | 六藝/六經 | 六艺/六经 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |
 | marginal revolution | — | 边际革命 | 首现（william-jevons） | 学界通行（经济学史标准术语） | 2026-11-07 |
+| species | — | 种相 | 首现（telesio） | 学界惯例（知觉论语境 species in medio 通译种相；与 conway 行主形「种」同键分义：同键多义） | 2026-11-08 |
+| spiritus | — | 精气 | 首现（telesio） | 学界惯例（文艺复兴自然主义 spiritus 通译精气/元气，取精气）；凭证 2026-11-08 | 2026-11-08 |
 | term | — | 词项 | 首现（william-jevons） | 学界通行（逻辑学标准译名） | 2026-11-07 |
 | Theological Declaration of Scientific Man | — | 科学人的神学宣言 | 首现（william-jevons） | 照题直译（1860s 文献名，Black 1977a 所记）；凭证 2026-11-07 | 2026-11-07 |
 | Unitarianism | — | 一神论派 | 首现（william-jevons） | 学界通行（宗教史通译；与 monotheism 一神论相区别） | 2026-11-07 |
