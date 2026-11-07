@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-07 03:47（UTC）
+生成时间：2026-11-07 03:48（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1022|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|161|
-|在途（drafted 起、done 前）|241|
+|已完成（done）|163|
+|在途（drafted 起、done 前）|239|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,10 +23,10 @@
 |状态|数量|
 |---|---|
 |pending|620|
-|cleared|169|
+|cleared|168|
 |drafted|3|
-|s3_checked|69|
-|done|161|
+|s3_checked|68|
+|done|163|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -36,7 +36,7 @@
 |B|62|62|62|4|
 |C|172|172|172|3|
 |D|92|92|92|11|
-|E|99|99|99|14|
+|E|99|99|99|16|
 |F|96|96|96|0|
 |G|49|49|49|0|
 |H|61|61|61|7|
@@ -163,7 +163,7 @@
 |creation-conservation|retranslate|s3_checked|主代理 2026-11-01|
 |croce-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
 |cudworth|retranslate|s3_checked|主代理 2026-11-01|
-|dai-zhen|retranslate|cleared|task_ops 2026-11-07|
+|dai-zhen|retranslate|s3_checked|D-main-20261107 2026-11-07|
 |davidson|retranslate|cleared|task_ops 2026-11-01|
 |demonstration-medieval|retranslate|s3_checked|sub-demonstration-medieval 2026-11-01|
 |descartes-ethics|retranslate|s3_checked|? 2026-11-04|
@@ -176,8 +176,6 @@
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |du-bos|retranslate|s3_checked|主代理 2026-11-01|
 |emerson|retranslate|cleared|task_ops 2026-11-06|
-|emilie-du-chatelet|retranslate|s3_checked|? 2026-11-04|
-|equal-ed-opportunity|retranslate|s3_checked|main 2026-11-01|
 |film|retranslate|drafted|EH-main-20261106 2026-11-06|
 |frame-problem|retranslate|cleared|task_ops 2026-11-06|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
