@@ -2,7 +2,7 @@
   "slug": "binarium",
   "kind": "retranslate",
   "zh_doc": "b/binarium.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "ABCDE-main-20261103",
       "at": "2026-11-02T18:31:23Z",
       "evidence": "check_style 0 issue；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；相关词条 6 项与 SUMMARY 登记名对应"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "REV-main-20261108",
+      "at": "2026-11-07T23:24:24Z",
+      "evidence": "r1 初审（s3_checked 存量复审波，REV-main-20261108 主会话直做）：对照 yuanwen/b/binarium.md 全文自审——结构对位 5 节 + 2 小节（1.1/1.2）+ 17 条文献 + 30 条 note 定义 + 学术工具 4 项/其他网络资源 1 项/相关词条 6 项，与源页一致；机械体检五项：节标题 7/7、块种类 p19/quote6/olist1/table0 与源全等、阿拉伯数字多集合零缺失（含 1022–1052/1070、1277、1036a 26、1043a 19 等）、残留英文 0、脚注键定义 47 与引用双向闭合（体检中 en 侧 [^key] 系转换存根说明行、note-BaurQuote 位置差异均为模板差异，非缺陷）。内容核对：Weisheipl 五要素清单 5/5、Baur 拉丁原文照录且正文译出、Callus 1943/1955、Gilson、Weisheipl 1980/1984、Synan 引文逐条对源，无漏译、无方向反转。**实质发现（Major，名形冲突）**：①Godfrey of Fontaines 登记册 auriol 行为『丰泰纳的戈弗雷』，与 SUMMARY 定名（g/godfrey.md『方丹的戈弗雷』）及本词条正文/相关词条冲突 → 按 SUMMARY 优先归一登记册；②Richard of Mediavilla 登记册 auriol 行『米利亚维拉的里查德』与正文『梅迪亚维拉的理查』冲突，无 SUMMARY 锚 → 取正文通行形归一登记册并兼存异形。③注 19 跨引用保留英文原名（Godfrey of Fontaines / Duns Scotus, John），改中文弯引号名形与全篇一致。**登记缺口**：术语 7 条（普遍的形质论/形式的多样性/形体性形式/精神的质料/学说复合体/种子理性/肯定之路）与人名 8 条（贡迪萨尔维/约克的托马斯/格罗斯泰斯特/布伦德/吉尔松/卡卢斯/伍德拉夫/马丁）本轮补齐；Weisheipl、Zavalloni、De Wulf、Synan 按 ADR-0022 无通行汉名保留英文，不登记。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "REV-main-20261108",
+      "at": "2026-11-07T23:25:05Z",
+      "evidence": "r2 复审（逐句回核 + 冷置回读；本会话与初译 actor 不同，独立性满足 ADR-0020）：check_prose 36 条逐条复核并实修 5 处①『中世纪的普遍的形质论』→『中世纪普遍的形质论』（的链）②『既然上帝之外的每一样东西都是被创造因而被引起的』双被字句 →『凡上帝之外的东西皆为受造之物，因而皆为被引起者』（保留『被引起』术语性被动一处）③『形式的多样性的理论毋宁是主张一个给定的物质实体』→ 去的链④『使用这一表达式所指的并非』→『所指并非』⑤注 19 跨引用汉化；余 31 条逐条豁免留痕——de-chain 24 条全为专名术语链（普遍的形质论／形式的多样性／形体性形式／精神的质料／学识复合体）与『被引起者』类术语搭配，long-sentence 7 条为 Baur 拉丁引文汉译、Callus、Weisheipl 长引文与形质论—谓述论证长句（拆分破坏引文与论证链完整）。语义复核：§4 两种谓述观对照（镜像论 vs 亚里士多德—托马斯主义）方向无误，§5 结论『晚近现象而非中世纪现象』立场照源；脚注 21/22/23 的交叉编号互指（SPAgain 指注 14、WeisheiplScotus 指注 19）经核对与源一致。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "REV-main-20261108",
+      "at": "2026-11-07T23:25:07Z",
+      "evidence": "r3 终审（体例 + 门禁）：check_style 0 issue；check_academic --docs b/binarium.md --strict 0 硬错误；check_math 0 公式 0 缺失；check_terms 硬错误 0（本轮新增 7 术语 + 8 人名 + 2 行名形归一，无冲突、无自洽违规）；markdownlint-cli2 本文件 0 错误。体例核对：pubinfo 首行加粗（源文即加粗，与模板 §2 斜体约定并列的既有存量形态，本项目 check_style 不拦）、拉丁/法/德文书名与短语斜体照录（*binarium famosissimum*、*Summa philosophiae*、*Fons vitae*、*Quaestio* 等）、中文强调用加粗（源文斜体经 italic_to_bold 转换）、[^note-*] 30 条与 [^*-19xx] 17 条定义闭合、相关词条 6 项与源 Related Entries 一一对应。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "REV-main-20261108",
+      "at": "2026-11-07T23:25:08Z",
+      "evidence": "六道走完（draft/s1/s2/s3 前会话，r1–r3 本会话 REV-main-20261108 独立复走）。done：b/binarium.md——正文 5 节 + 2 小节 + 17 条文献照录 + 30 条注 + 导航三节；本轮实修 5 处（4 处语言 + 1 处跨引用汉化）、登记册 2 行名形归一 + 15 行补登记；定点四检全过，markdownlint 本文件 0。"
     }
   ],
   "blockers": [],

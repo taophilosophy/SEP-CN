@@ -228,7 +228,7 @@
 | Ghiselin, Michael | — | Michael Ghiselin（现代学者，保留英文） | — | — | biology-philosophy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Gibson, James J. | — | 詹姆斯·吉布森 | — | — | bodily-awareness | 学界通行汉译（生态光学创始人）；凭证 2026-11-07 | 2026-11-07 |
 | Giuseppe Peano | — | 朱塞佩·皮亚诺 | — | — | 语料回收（全目录） | 审定“皮亚诺”译名系（数学）；凭证 2026-11-01 | 2026-11-01 |
-| Godfrey of Fontaines | — | 丰泰纳的戈弗雷 | — | — | auriol | 中世纪哲学通行（依地名冠称） | 2026-11-07 |
+| Godfrey of Fontaines | — | 方丹的戈弗雷 | — | — | basing→SUMMARY 归一 | SUMMARY 定名（g/godfrey.md「方丹的戈弗雷」）优先于 auriol 语料回收异形（丰泰纳的戈弗雷）；2026-11-08 归一 | 2026-11-08 |
 | Goethe | — | 歌德 | — | — | 首现（wisdom） | 学界通行汉译（德国文学家）；凭证 2026-11-07 | 2026-11-07 |
 | Gould, Stephen Jay | — | 斯蒂芬·杰伊·古尔德 | — | — | biology-philosophy | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Gregory of Nazianzus | — | 纳齐安的格列高利 | — | — | neoplatonism | 教父学通行汉译（卡帕多西亚教父） | 2026-11-07 |
@@ -418,7 +418,7 @@
 | Radder, Hans | — | 汉斯·拉德 | — | — | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Rescher, Nicholas | — | 雷谢尔 | — | — | 首现（truth-coherence） | 学界通行汉译（美国哲学家；融贯论批评者）；凭证 2026-11-07 | 2026-11-07 |
 | Rheinwald, Rosemarie | — | Rosemarie Rheinwald（现代学者，保留英文） | — | — | deductivism-mathematics | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
-| Richard of Mediavilla | — | 米利亚维拉的里查德 | — | — | auriol | 方济各会思想家通行（即米德尔顿的理查德） | 2026-11-07 |
+| Richard of Mediavilla | — | 梅迪亚维拉的理查（亦作米利亚维拉的里查德） | — | — | 归一 | 正文 binarium 首现形；auriol 音译异形兼存；无 SUMMARY 锚，取正文通行形；2026-11-08 归一 | 2026-11-08 |
 | Robson, Eleanor | — | Eleanor Robson（现代学者，保留英文） | — | — | deductivism-mathematics | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Roger B. Taney | — | 罗杰·B·坦尼 | — | — | alexander-crummell | 美国首席大法官通行汉译（叙述处作坦尼） | 2026-11-07 |
 | Rosenberg, Alexander | — | 亚历山大·罗森伯格 | — | — | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -1906,6 +1906,7 @@
 | Wasserstrom, Steven M. | — | 史蒂文·瓦瑟斯特罗姆 | — | — | scholem | 构词直译（宗教学）；凭证 2026-11-08 | 2026-11-08 |
 | Hirsch, Samson Raphael | — | 参孙·拉斐尔·希尔施 | — | — | scholem | 学界通行汉译（新正统派）；凭证 2026-11-08 | 2026-11-08 |
 | Steinheim, Salomon | — | 萨洛蒙·施泰因海姆 | — | — | scholem | 德语名音译；凭证 2026-11-08 | 2026-11-08 |
+| Mauthner, Fritz | — | 弗里茨·毛特纳 | — | — | scholem | 学界通行汉译（语言怀疑论）；凭证 2026-11-08 | 2026-11-08 |
 | Apuleius | — | 阿普列乌斯 | — | — | illumination | 学界通行汉译（2 世纪拉丁作家，《论苏格拉底之神》作者）；凭证 2026-11-08 | 2026-11-08 |
 | Themistius | — | 特米斯提乌斯 | — | — | illumination | 学界通行汉译（4 世纪亚里士多德注释家，主张能动理智为灵魂之一部分）；凭证 2026-11-08 | 2026-11-08 |
 | Matthew of Aquasparta | — | 阿夸斯帕尔塔的马修 | — | — | illumination | 中世纪哲学通行汉译（方济各会神学家，1274 年后任总会长）；凭证 2026-11-08 | 2026-11-08 |
@@ -1926,3 +1927,18 @@
 | Lehrer, Keith | — | 基思·莱勒 | — | — | basing-epistemic | 学界惯例（音译，知识论家，“迷信律师”反例提出者）；凭证 2026-11-08 | 2026-11-08 |
 | Schaffer, Jonathan | — | 乔纳森·谢弗 | — | — | basing-epistemic | 学界惯例（音译，形而上学家，“贬损恶魔”提出者）；凭证 2026-11-08 | 2026-11-08 |
 | Neruda, Pablo | — | 巴勃罗·聂鲁达 | — | — | basing-epistemic | 学界通行汉译（智利诗人，诺奖得主）；凭证 2026-11-08 | 2026-11-08 |
+| Gundissalinus, Dominic | — | 多米尼克·贡迪萨尔维 | — | — | binarium | 中世纪哲学通行（亦作 Gundisalvi，托莱多翻译家）；凭证 2026-11-08 | 2026-11-08 |
+| Thomas of York | — | 约克的托马斯 | — | — | binarium | 依地名冠称（13 世纪方济各会士）；凭证 2026-11-08 | 2026-11-08 |
+| Grosseteste, Robert | — | 罗伯特·格罗斯泰斯特 | — | — | binarium | 学界通行汉译（SUMMARY 定名沿用，g/grosseteste.md）；凭证 2026-11-08 | 2026-11-08 |
+| Blund, John | — | 约翰·布伦德 | — | — | binarium | 学界惯例（13 世纪初牛津人，音译）；凭证 2026-11-08 | 2026-11-08 |
+| Gilson, Étienne | — | 艾蒂安·吉尔松 | — | — | binarium | 学界通行汉译（中世纪哲学史家）；凭证 2026-11-08 | 2026-11-08 |
+| Callus, Daniel | — | 丹尼尔·卡卢斯 | — | — | binarium | 学界惯例（牛津中世纪哲学史家，音译）；凭证 2026-11-08 | 2026-11-08 |
+| Woodruff, Paul | — | 保罗·伍德拉夫 | — | — | binarium | 学界惯例（古典哲学家，音译）；凭证 2026-11-08 | 2026-11-08 |
+| Martin, Christopher J. | — | 克里斯托弗·J·马丁 | — | — | binarium | 学界惯例（中世纪逻辑史家，音译）；凭证 2026-11-08 | 2026-11-08 |
+| Zosimus | — | 佐西摩斯 | olympiodorus | 炼金术文献作者（《论活动》）；学界音译；凭证 2026-11-08 | 2026-11-08 |
+| Marinus | — | 马里努斯 | olympiodorus | 新柏拉图主义者、《普罗克洛斯传》作者；学界音译；凭证 2026-11-08 | 2026-11-08 |
+| Elias | — | 埃利亚斯 | olympiodorus | 6 世纪亚历山大里亚注疏家（与 David 并称）；学界音译；凭证 2026-11-08 | 2026-11-08 |
+| Demosthenes | — | 狄摩西尼 | olympiodorus | 雅典演说家；史学通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| Aelius Aristides | — | 埃利乌斯·阿里斯泰德斯 | olympiodorus | 2 世纪演说家（与 dialectical-school 之 Aristides 异人）；学界音译；凭证 2026-11-08 | 2026-11-08 |
+| Christian Wildberg | — | 克里斯蒂安·维尔德贝格 | olympiodorus | 本词条作者；音译待 008 复核；凭证 2026-11-08 | 2026-11-08 |
+| Justinian the Great | — | 查士丁尼大帝 | olympiodorus | 沿本册 Justinian=查士丁尼；凭证 2026-11-08 | 2026-11-08 |

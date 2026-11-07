@@ -1453,6 +1453,16 @@
 | essence | — | 本质 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | existence | — | 存在 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | causality | — | 因果性 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| causal pluralism | — | 因果多元论 | aristotle-causality 首译 | 学界惯例（Stein 2011 术语，亚里士多德研究文献）；凭证 2026-11-08 | 2026-11-08 |
+| material cause | — | 质料因 | aristotle-causality 首译 | 亚里士多德研究通行译名（四因之一）；凭证 2026-11-08 | 2026-11-08 |
+| formal cause | — | 形式因 | aristotle-causality 首译 | 亚里士多德研究通行译名（四因之一）；凭证 2026-11-08 | 2026-11-08 |
+| final cause | — | 目的因 | aristotle-causality 首译 | 亚里士多德研究通行译名（四因之一）；凭证 2026-11-08 | 2026-11-08 |
+| four causes | — | 四因说 | aristotle-causality 首译 | 亚里士多德研究通行译名（doctrine of the four causes）；凭证 2026-11-08 | 2026-11-08 |
+| intrinsic cause | — | 本然原因 | aristotle-causality 首译 | 学界惯例（kath’hauton 的通行译法；与偶性原因配对）；凭证 2026-11-08 | 2026-11-08 |
+| coincidental cause | — | 偶性原因 | aristotle-causality 首译 | 学界惯例（kata sumbebêkos 的通行译法）；凭证 2026-11-08 | 2026-11-08 |
+| hypothetical necessity | — | 假言必然性 | aristotle-causality 首译 | 亚里士多德自然哲学通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| explanatory power | — | 说明力 | aristotle-causality 首译 | 科学哲学通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| teleological explanation | — | 目的论说明 | aristotle-causality 首译 | 亚里士多德研究通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | dialectic | — | 辩证法 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | concept | — | 概念 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | contingency | — | 偶然性 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
@@ -2309,3 +2319,42 @@
 | epistemic rationalization | — | 认知理性化 | basing-epistemic 首译 | 构词直译（rationalization 此处非贬义）；凭证 2026-11-08 | 2026-11-08 |
 | subliminal reasons | — | 阈下理由 | basing-epistemic 首译 | 学界通行汉译（subliminal=阈下）；凭证 2026-11-08 | 2026-11-08 |
 | occurrent | — | 当下的 | basing-epistemic 首译 | 学界通行汉译（与 dispositional 倾向的相对）；凭证 2026-11-08 | 2026-11-08 |
+| imprecise probabilities | — | 不精确概率 | 首现（imprecise-probabilities） | 学界惯例（决策论与形式认识论通行；缩写 IP）；凭证 2026-11-08 | 2026-11-08 |
+| imprecise probability (IP) models | — | 不精确概率（IP）模型 | 首现（imprecise-probabilities） | 学界惯例（同上）；凭证 2026-11-08 | 2026-11-08 |
+| degree of belief | — | 置信度 | 首现（imprecise-probabilities） | 学界惯例（形式认识论通行）；凭证 2026-11-08 | 2026-11-08 |
+| credence | — | 信度 | 首现（imprecise-probabilities） | 学界惯例（形式认识论通行，与 degree of belief 互用）；凭证 2026-11-08 | 2026-11-08 |
+| credal set | — | 信度集 | 首现（imprecise-probabilities） | 学界惯例（Levi 术语）；凭证 2026-11-08 | 2026-11-08 |
+| credal committee | — | 信度委员会 | 首现（imprecise-probabilities） | 构词直译（表征集之委员会隐喻）；凭证 2026-11-08 | 2026-11-08 |
+| representor | — | 表征集 | 首现（imprecise-probabilities） | 学界惯例（van Fraassen 术语）；凭证 2026-11-08 | 2026-11-08 |
+| conditionalisation | — | 条件化 | 首现（imprecise-probabilities） | 学界惯例（贝叶斯认识论通行）；凭证 2026-11-08 | 2026-11-08 |
+| lower envelope / upper envelope | — | 下包络／上包络 | 首现（imprecise-probabilities） | 学界惯例（IP 文献通行；亦作下／上概率）；凭证 2026-11-08 | 2026-11-08 |
+| conjugate | — | 共轭 | 首现（imprecise-probabilities） | 学界惯例（概率论通行）；凭证 2026-11-08 | 2026-11-08 |
+| summary function | — | 汇总函数 | 首现（imprecise-probabilities） | 自译裁定（IP 文献 summary function）；凭证 2026-11-08 | 2026-11-08 |
+| dilation | — | 膨胀 | 首现（imprecise-probabilities） | 学界惯例（IP 文献，勿与 time dilation 时间膨胀混同）；凭证 2026-11-08 | 2026-11-08 |
+| belief inertia | — | 信念惰性 | 首现（imprecise-probabilities） | 构词直译（Sturgeon 术语）；凭证 2026-11-08 | 2026-11-08 |
+| gamble | — | 赌局 | 首现（imprecise-probabilities） | 学界惯例（决策论通行）；凭证 2026-11-08 | 2026-11-08 |
+| indicator function | — | 指示函数 | 首现（imprecise-probabilities） | 学界惯例（数学通行）；凭证 2026-11-08 | 2026-11-08 |
+| weight of evidence | — | 证据权重 | 首现（imprecise-probabilities） | 学界惯例（确证理论通行）；凭证 2026-11-08 | 2026-11-08 |
+| balance of evidence | — | 证据平衡 | 首现（imprecise-probabilities） | 学界惯例（IP 文献通行）；凭证 2026-11-08 | 2026-11-08 |
+| elicitation | — | 引出 | 首现（imprecise-probabilities） | 学界惯例（决策论与认识论通行）；凭证 2026-11-08 | 2026-11-08 |
+| suspending judgement | — | 悬置判断 | 首现（imprecise-probabilities） | 学界惯例（怀疑论与认识论文献通行）；凭证 2026-11-08 | 2026-11-08 |
+| incompleteness / incomparability | — | 不完备性／不可比性 | 首现（imprecise-probabilities） | 学界惯例（决策论通行）；凭证 2026-11-08 | 2026-11-08 |
+| unknown correlations | — | 未知相关性 | 首现（imprecise-probabilities） | 构词直译；凭证 2026-11-08 | 2026-11-08 |
+| group belief | — | 群体信念 | 首现（imprecise-probabilities） | 学界惯例（社会认识论通行）；凭证 2026-11-08 | 2026-11-08 |
+| vagueness | — | 模糊性 | 首现（imprecise-probabilities） | 学界惯例（语言哲学与认识论通行）；凭证 2026-11-08 | 2026-11-08 |
+| indeterminacy | — | 非确定性 | 首现（imprecise-probabilities） | 学界惯例（与 uncertainty 不确定性分列，免同形混淆）；凭证 2026-11-08 | 2026-11-08 |
+| unspecific | — | 不具体的 | 首现（imprecise-probabilities） | 自译裁定（与 specific 具体相对）；凭证 2026-11-08 | 2026-11-08 |
+| credal state | — | 信度状态 | 首现（imprecise-probabilities） | 学界惯例（形式认识论通行）；凭证 2026-11-08 | 2026-11-08 |
+| doxastic state | — | 信态 | 首现（imprecise-probabilities） | 学界惯例（与 belief state 信念状态同义）；凭证 2026-11-08 | 2026-11-08 |
+| universal hylomorphism | — | 普遍的形质论 | binarium 首译 | 中世纪哲学通行汉译（hylomorphism=形质论）；凭证 2026-11-08 | 2026-11-08 |
+| plurality of forms | — | 形式的多样性 | binarium 首译 | 学界通行汉译（与 forma corporeitatis 并称的主导学说）；凭证 2026-11-08 | 2026-11-08 |
+| form of corporeity | — | 形体性形式 | binarium 首译 | 中世纪哲学通行汉译（forma corporeitatis）；凭证 2026-11-08 | 2026-11-08 |
+| spiritual matter / corporeal matter | — | 精神的质料／有形的质料 | binarium 首译 | 构词直译（materia spiritualis）；凭证 2026-11-08 | 2026-11-08 |
+| doctrinal complex | — | 学说复合体 | binarium 首译 | 吉尔松用语构词直译；凭证 2026-11-08 | 2026-11-08 |
+| rationes seminales | rationes seminales | 种子理性 | binarium 首译 | 学界通行汉译（奥古斯丁 rationes seminales）；凭证 2026-11-08 | 2026-11-08 |
+| via affirmativa | via affirmativa | 肯定之路 | binarium 首译 | 学界通行汉译（与否定之路 via negativa 相对）；凭证 2026-11-08 | 2026-11-08 |
+| paideia | παιδεία | 文化教养（首现括注 *paideia*） | olympiodorus | 古典学通行译法（亦作教化/人文教育）；凭证 2026-11-08 | 2026-11-08 |
+| praxis / theôria / lexis | πρᾶξις / θεωρία / λέξις | 讲授次第／要义通观／文辞疏解（首现各括注原文） | olympiodorus | 亚历山大里亚注疏体三分的描述性译法（术语学界无统一汉译，Viano/Tarrant 英译作 class/overview/close reading）；凭证 2026-11-08 | 2026-11-08 |
+| koinai ennoiai (common notions) | κοιναὶ ἔννοιαι | 共同观念（首现括注原文） | olympiodorus | 新柏拉图主义认识论术语（亦作常识）；Tarrant 英译 common notions；凭证 2026-11-08 | 2026-11-08 |
+| skopos | σκοπός | 论旨（首现括注原文） | olympiodorus | 古代注疏学通行（文本的宗旨/主题）；凭证 2026-11-08 | 2026-11-08 |
+| fifth element / aether | αἰθήρ | 第五元素／以太（首现括注） | olympiodorus | 沿本册 ether=以太；亚里士多德宇宙论术语；凭证 2026-11-08 | 2026-11-08 |
