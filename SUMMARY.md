@@ -1340,7 +1340,7 @@
   * [\*和辻哲郎——见和辻哲郎 Watsuji Tetsurō — see Watsuji Tetsurō](w/watsuji-tetsuro.md)
   * [日本禅宗哲学 Japanese Zen Buddhist Philosophy](j/japanese-zen.md)
 * [卡尔·雅斯贝尔斯 Jaspers, Karl (Chris Thornhill and Ronny Miron)](j/jaspers.md)
-* [伽耶惹悉·巴札 Jayarāśi (Piotr Balcerowicz)](j/jayaraasi.md)
+* [阇耶罗师·跋陀 Jayarāśi Bhaṭṭa (Piotr Balcerowicz)](j/jayaraasi.md)
 * [托马斯·杰斐逊 Jefferson, Thomas (M. Andrew Holowchak)](j/jefferson.md)
 * [威廉·斯坦利·杰文斯 Jevons, William Stanley (Bert Mosselmans)](w/william-jevons.md)
 * [索尔兹伯里的约翰 John of Salisbury (Karen Bollermann and Cary Nederman)](j/john-salisbury.md)

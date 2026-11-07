@@ -2,7 +2,7 @@
   "slug": "jayaraasi",
   "kind": "retranslate",
   "zh_doc": "j/jayaraasi.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:37:06Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-07T06:10:30Z",
+      "evidence": "账本 67 段全填（p1-p7 分批：body 61＋note 5＋oir 1，biblio 34 照录）；以账本 source 编段、逐段双版；lq 守恒门 67 段通过"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-07T06:10:30Z",
+      "evidence": "初译自校：术语归表（义准量/譬喻量/无体量/相等量/传承量/声量；pramāṇa 作“认知凭据”括注“量”；pratyakṣa 作“知觉”括注原词）；人名 10 行登记（阇耶罗师·跋陀/Bṛhaspati 保留原文/阿迦楞迦/毗提耶难陀/阿难陀维罗/莲花戒/摩利舍那/跋沙罗婆吉那/萨曼塔巴德拉/塞克斯图斯）；标题 SUMMARY 归一（“伽耶惹悉·巴札”→“阇耶罗师·跋陀”）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-07T06:10:30Z",
+      "evidence": "风格核定：check_style --strict 0 issue；中文无斜体（拉丁 *p* 公式与梵文术语照录）；长句 6 处拆分；引号/脚注键体例统一"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-07T06:10:34Z",
+      "evidence": "三校：check_academic --strict 通过；check_prose 余 2 项均为枚举清单（段54 范畴表、段55 逻辑律表）按 ADR-0020 豁免；check_math 0 公式；check_terms 硬错误 0；书目 defs 照录"
     }
   ],
   "blockers": [],

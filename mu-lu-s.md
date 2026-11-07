@@ -769,7 +769,7 @@ outline: [1, 6]
 * [古典印度哲学中的知觉经验与概念 perceptual experience and concepts (Monima Chadha)](p/perception-india.md)
 * [古典印度哲学中的人格 personhood (Monima Chadha)](p/personhood-india.md)
 * [耆那教哲学 Jaina Philosophy (Marie-Hélène Gorisse)](j/jaina-philosophy.md)
-* [伽耶惹悉·巴札 Jayarāśi (Piotr Balcerowicz)](j/jayaraasi.md)
+* [阇耶罗师·跋陀 Jayarāśi Bhaṭṭa (Piotr Balcerowicz)](j/jayaraasi.md)
 * [鸠摩利罗·跋陀 Kumārila (Daniel Arnold)](k/kumaarila.md)
 * [商羯罗 Śaṅkara (Neil Dalal)](s/shankara.md)
 * [曷利沙 Śrīharṣa (Nilanjan Das)](s/sriharsa.md)
