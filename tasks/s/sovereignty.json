@@ -2,7 +2,7 @@
   "slug": "sovereignty",
   "kind": "retranslate",
   "zh_doc": "s/sovereignty.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "SZ-main-20261107",
       "at": "2026-11-07T11:09:57Z",
       "evidence": "复审（逐句回核原文与逻辑）：十处易错点复核通过——territoriality 界定成员／superior to all authorities under its purview／by simple virtue of location／absoluteness=scope 非 extent／constitutional independence 免受外来影响／anarchy=无更高权威／cover the entire land surface／perdured=延续良久／argued for the orthodoxy=为正统辩护／pooled=汇集；逻辑连接词（for／thus／but／indeed）逐处有对应，无增删命题"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-07T11:26:39Z",
+      "evidence": "终审：check_all --all 9 项全绿（SUMMARY 结构/分类目录/单体大小/垃圾/术语/学术规范/单元测试/基线审计/英文镜像）；单会话作业已按 ADR-0020 冷置——先提交现场并处理批次账务，再回读终稿，回读发现并修正段 42 语序 1 处；验收签字：SZ-main-20261107"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-07T11:30:11Z",
+      "evidence": "done：s/sovereignty.md 20033 字符 49 段（导语 2 + §1/§2/§3 三节 + OIR 1）；任务八步凭证齐全（clear→draft→s1→s2→s3→r1→r2→r3→done）；六门+全量门禁全绿；术语 39 行、人名 24 行入册（Maritain 对齐 SUMMARY 定名）；批次 s 计数推进"
     }
   ],
   "blockers": [],
