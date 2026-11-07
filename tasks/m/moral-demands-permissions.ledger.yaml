@@ -75,74 +75,98 @@ segments:
     kind: body
     source: |-
       ## 2. Resisting the Demandingness Objection
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 抵制苛刻性异议
+    step2: |-
+      ## 2 抵制苛刻性异议
   - id: 10
     kind: body
     source: |-
       Consequentialist and other views with strong duties to promote the good can try to resist the demandingness objection, in two ways. One is to deny that they’re in fact all that demanding; the other is to agree that they’re demanding but deny that this is a flaw.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      后果主义观点以及其他具有强促进善之义务的观点，可以尝试以两种方式抵制苛刻性异议。一种是否认它们实际上那么苛刻；另一种是同意它们苛刻，但否认这是缺陷。
+    step2: |-
+      后果主义观点以及其他带有强“促进善”义务的观点，可以用两种方式抵制苛刻性异议：要么否认它们实际上真那么苛刻，要么承认苛刻但否认这是缺陷。
   - id: 11
     kind: body
     source: |-
       Some consequentialists argue that, since you know much less about what will promote the good of distant strangers than you do about promoting your own good or that of your family and friends, you’ll do the most good, even impartially considered, if you concentrate your efforts locally, on those you know best (e.g., Sidgwick 1907: 430–39)[^sidgwick-1907]. This, they say, makes their view not in practice that demanding. But though it contains some truth, this argument hardly meets all the objection. If you can save either your own life or two strangers’, you don’t need specialized knowledge to be confident that saving the two will preserve more good. Nor can a well-off person in a developed country really doubt that the cost to his family of donating $1000 to a food agency will be smaller than the benefit to those it saves from starvation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些后果主义者论证说，既然你对遥远的陌生人何为促进其善的了解，远少于对促进自己或亲友之善的了解，那么即使从不偏不倚的角度考虑，把努力集中在本地、集中在你最了解的人身上，你反而会做最多的善 (e.g., Sidgwick 1907: 430–39)[^sidgwick-1907]。他们说，这使他们的观点在实践中并不那么苛刻。但这论证虽含有些真理，却很难回应全部异议。如果你能救自己或两个陌生人的命，你并不需要专门知识就能确信救两人会保存更多善。一个富裕国家的富人，也无法真的怀疑：向粮食机构捐 1000 美元给其家庭带来的代价，会小于它使一些人免于饥饿所带来的好处。
+    step2: |-
+      一些后果主义者说：你对远方的陌生人何以为善，远不如对自家亲友之善了解得多；因此哪怕从不偏不倚的角度算，把力气用在近处、用在你最了解的人身上，反而能做最多的善 (e.g., Sidgwick 1907: 430–39)[^sidgwick-1907]。这样一来，他们的观点在实践中就没那么苛刻了。这说法固然有几分道理，却远不足以回应整个异议。若能救自己或两个陌生人的命，你不需要什么专门知识，也确信救两人能保住更多善；一个发达国家的富裕者，也很难真怀疑给粮食机构捐 1000 美元对其家庭的代价会小于受助者免于饥饿所得的好处。
   - id: 12
     kind: body
     source: |-
       A related argument invokes “indirect” or “two-level” consequentialism, which distinguishes what’s true—the consequentialist principle—from what’s in practice the best way of deciding how to act. Since someone who tries to identify the act with the best outcome will too often get it wrong, this view says, each person should identify some simpler moral rules by following which he can, as an individual, produce the most good through time and then mainly be guided by them (e.g., Bales 1971; Hare 1981; Parfit 1984)[^bales-1971][^hare-1981][^parfit-1984]. The rules must, however, be ones he’ll actually obey, as he won’t if they’re too demanding. He’ll do better if he internalizes a weaker duty to promote the good that he’ll act on than a stronger one he’ll ignore, making again for lesser demands in practice. But it’s again unclear that this argument fully meets the objection. Even if the rule with the best consequences demands less than full maximization, it may still be considerably more demanding than those concerned about demandingness will find plausible (Mulgan 2001: 44)[^mulgan-2001]. This may especially be so if few others are doing much to promote the good, so this person’s acts can make a large difference. In addition, both this argument and the preceding one have a crucial limitation. They concern only what’s right subjectively, or relative to what you know or to what your best decision-procedure is. Both allow that objectively, or relative to the facts, any act that fails to maximize the good is wrong, and objectors may still find that unacceptable. Their concern, they may say, isn’t just that you should be able to think or act as if you’re permitted not to make large sacrifices; it’s that you actually are, objectively, permitted not to make them. A possible response distinguishes between what’s wrong and what you can be blamed for. If you do what’s objectively wrong when you couldn’t have known it was wrong or were following the rules it’s best for you to follow, this response says, you aren’t to blame for your act (e.g., Arneson 2004, 2009)[^arneson-2004]. But the objectors can again deny that this meets their point, which isn’t just about what morality says you can be blamed for but also about what it says you must, objectively, do.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个相关的论证诉诸“间接的”或“两层次的”后果主义，它区分什么是真的——后果主义原则——与实践中决定如何行动的最佳方式。这一观点说，既然试图找出最佳结果行为的人往往弄错，那么每个人都应确定一些更简单的道德规则，遵循这些规则他可作为一个体在时间中产生最多的善，然后主要受它们指导 (e.g., Bales 1971; Hare 1981; Parfit 1984)[^bales-1971][^hare-1981][^parfit-1984]。但这些规则必须是他实际会遵守的，若规则太苛刻他就不会遵守。内化一项较弱、他会照做的促进善的义务，胜过内化一项较强却会被他忽视的义务，这又在实践中带来较少的要求。但同样不清楚这论证是否完全回应了异议。即便后果最佳的规则所要求的少于完全最大化，它仍可能比关心苛刻性者认为合理的要求苛刻得多 (Mulgan 2001: 44)[^mulgan-2001]。如果很少有人致力于促进善，以致此人的行动能带来很大差别，情形尤其可能如此。此外，这一论证与前一论证都有一个关键局限。它们只关涉主观上正当，或相对于你所知、相对于你最佳决策程序而言的正当。两者都承认客观上、或相对于事实而言，任何未能最大化善的行为都是错的，而反对者仍可能觉得这不可接受。他们可以说，他们关心的不只是你应能想着或表现得像被允许不作重大牺牲；而是你客观上确实被允许不作这些牺牲。一种可能的回应区分什么是错的与什么可受责备。若你做了客观上错的事，而你本不可能知道它错、或你在遵循对你最好的规则，那么按这一回应，你不因自己的行为受责备 (e.g., Arneson 2004, 2009)[^arneson-2004]。但反对者同样可以否认这回应了他们的要点——其要点不只关乎道德说你该受何责备，也关乎道德说你客观上必须做什么。
+    step2: |-
+      一个相关论证诉诸“间接的”或“两层次的”后果主义：它区分何者为真（后果主义原则）与实践上决定如何行动的最佳方式。这一观点说，既然想逐事找出最佳结果的人常常弄错，个人就该确定几条更简单的道德规则，照着做便能在时间中产生最多的善，然后主要依规则行事 (e.g., Bales 1971; Hare 1981; Parfit 1984)[^bales-1971][^hare-1981][^parfit-1984]。但这些规则必须是他真会遵守的——太苛刻他就不会遵守。内化一项较弱、他真会照做的促进善的义务，胜于内化一项较强却会被他丢在一边的义务，于是在实践中要求又少了些。可这论证是否真能完全回应异议，同样不清楚。即便后果最佳的规则比完全最大化要求得少，它仍可能比关心苛刻性者觉得合理的要求苛刻得多 (Mulgan 2001: 44)[^mulgan-2001]——若极少有人致力于促进善、以致此人的行动能带来很大差别，情形尤其如此。此外，这一论证与前一论证都有个关键局限：它们只关乎主观上正当，即相对于你所知、相对于你最佳的决策程序而言的正当。两者都承认，客观上、或相对于事实，任何未能最大化善的行为都是错的；而反对者仍可能觉得这不可接受。他们会说，自己关心的不只是你应当能想着或表现得像被允许不作重大牺牲，而是你客观上确实被允许不作这些牺牲。一种可能的回应把“错”与“可受责备”分开：若你做了客观上错的事，而你本无从知道它错、或你遵循的正是对你最好的规则，那么按此回应，你不因自己的行为受责备 (e.g., Arneson 2004, 2009)[^arneson-2004]。但反对者照样可以否认这回答了他们的要点——他们的要点不只关乎道德说你该受何责备，也关乎道德说你客观上必须做什么。
   - id: 13
     kind: body
     source: |-
       The other reply to the objection grants that consequentialist and similar views are demanding but denies that this is a flaw. If we don’t always do what results in the most good, it says, that’s a failing in us rather than in the moral view that requires us to do more; if we think we’re sometimes permitted not to maximize the good, we’re mistaken. In fact, those who urge such a permission may just be trying to justify retaining their privileged social position (Wilson 1993)[^wilson-1993]. A more theoretical version of this reply says, first, that all views recognize a duty to promote the good impartially as at least one element in morality, and then argues that none of the revisions or additions needed to generate a less demanding view can be justified (Kagan 1989)[^kagan-1989]. This assumes, perhaps controversially, that the revisions need further justification and are unacceptable without one.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对这一异议的另一种回应承认后果主义及类似观点是苛刻的，但否认这是缺陷。它说，如果我们并不总是做产生最多善的事，那是我们自身的失败，而不是要求我们做得更多的道德观点的失败；如果我们认为自己有时被允许不最大化善，那是我们弄错了。事实上，主张这种允许的人可能只是在试图为自己保留特权社会地位辩护 (Wilson 1993)[^wilson-1993]。这一回应的一种更理论化的版本先说，所有观点都承认不偏不倚促进善的义务至少是道德的一个要素，然后论证：为产生一个不那么苛刻的观点所需的任何修正或添加都无法得到辩护 (Kagan 1989)[^kagan-1989]。这假定——或许有争议——这些修正需要进一步的辩护，而没有辩护便不可接受。
+    step2: |-
+      另一种回应则承认后果主义及类似观点确实苛刻，但否认这是缺陷：若我们不总是做产生最多善的事，那失败在我们自身，而不在要求我们多做些的道德观点；若我们以为自己有时被允许不最大化善，那是我们想错了。事实上，主张这种允许的人，也许只是在为自己保留特权社会地位找理由 (Wilson 1993)[^wilson-1993]。这一回应还有一个更理论化的版本：它先说所有观点都承认，不偏不倚地促进善至少是道德的一个要素；再论证，为造出一个不那么苛刻的观点所需的任何修正或增补，都得不到辩护 (Kagan 1989)[^kagan-1989]。这假定——或许有争议——那些修正本身需要辩护，没有辩护便不可接受。
   - id: 14
     kind: body
     source: |-
       A different version appeals to intuitions about particular cases (e.g., Singer 1972; Unger 1996)[^singer-1972][^unger-1996]. It first describes a case where benefiting others seems uncontroversially required, most famously one of Peter Singer’s where you can save a child from drowning in a pond at the cost of dirtying your clothes (1972: 231). It then argues that cases where many deny there’s a duty to benefit, such as ones where you can save a life by contributing to famine relief, don’t differ in any morally significant way from this one and so likewise involve a requirement; there too you must sacrifice your good. As Singer recognizes, a defence starting from his pond case can’t support a duty as strong as the fully maximizing one he himself prefers. That would require an initial example where you must sacrifice something like both your legs to save the child or your life to save two children, and those acts aren’t uncontroversially required. But the defence can, if successful, support a stronger duty of aid than everyday morality recognizes, one that makes substantial contributions to charity not just generous or supererogatory but in the strict sense required.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个不同的版本诉诸对具体案例的直觉 (e.g., Singer 1972; Unger 1996)[^singer-1972][^unger-1996]。它先描述一个造福他人显得无可争议地被要求的情形，最著名的是 Peter Singer 的一个例子：你可以救起一个池塘中溺水的孩子，代价是弄脏自己的衣服 (1972: 231)。然后它论证：许多人否认有造福义务的情形——例如你可以通过捐助饥荒救济救一条命的情形——与这一例子在道德上并无重要差别，因此同样含有要求；在那里你也必须牺牲自己的善。正如 Singer 所承认，从池塘案例出发的辩护无法支持一项像他本人偏好的完全最大化那样强的义务。那将需要一个初始例子，其中你必须牺牲类似双腿来救孩子、或牺牲性命来救两个孩子，而这些行为并非无可争议地被要求。但这一辩护若成功，可以支持一项比日常道德所承认的更强的援助义务——它使对慈善的实质性捐助不只是慷慨或超义务，而是严格意义上被要求的。
+    step2: |-
+      另一个版本诉诸对具体案例的直觉 (e.g., Singer 1972; Unger 1996)[^singer-1972][^unger-1996]。它先给出一个造福他人显得无可争议地被要求的情形——最著名的是 Peter Singer 的例子：你弄脏衣服便能救起池塘里溺水的孩子 (1972: 231)；再论证：许多人否认存在造福义务的情形（比如捐钱救济饥荒即可救命），与这一例子并无道德上的重要差别，因而同样含有要求——在那里你也必须牺牲自己的善。Singer 本人也承认，从池塘案例出发的辩护撑不起他偏好的那种完全最大化义务；那得先有一个“须牺牲双腿去救孩子、或牺牲性命去救两个孩子”的例子，而这类行为并非无可争议地被要求。但这一辩护若成功，足以支持一项比日常道德所承认的更强的援助义务：它使对慈善的实质性捐助不只是慷慨或超义务之举，而是严格意义上被要求的。
   - id: 15
     kind: body
     source: |-
       There are, however, several differences between the pond case and ones involving charitable giving. The child in the pond is just a short distance from you while those suffering from famine are far away; you know who in particular will benefit if you save the child—you can see him—but you know only that someone or other will be saved if you contribute to famine relief; and only you can save the child whereas many others can contribute to charity. (The pond case is also usually imagined as a one-off, whereas if you save one person from famine there will be another whose plight makes the same demand, and then another and another. This issue, about demandingness through time, is discussed in Section 6.) Those who defend a strong duty of aid deny that these differences, either individually or together, are morally significant (e.g., Singer 1972; Unger 1996; Kagan 1998: 134–35; Pummer 2023: 99–125)[^kagan-1998][^pummer-2023][^singer-1972][^unger-1996]; thus, they deny that this duty is weakened by physical distance (contrast Kamm 2000)[^kamm-2000]. Others argue that one or more of the differences do weaken the duty (e.g., Woollard 2015: 129–43)[^woollard-2015]. More specifically, they argue that the pond case invokes a duty of immediate or emergency rescue that’s distinct from, and stronger than, any general duty of beneficence (Kagan 1998; Igneski 2006)[^igneski-2006][^kagan-1998]. Imagine that you encounter a drowning child while on your way to make a charitable donation that will save two lives and must be made without delay. If the duty to save the child were just an instance of a more general duty of beneficence, it would be wrong for you to stop and save the child; you should keep going and make the donation. But many think that would be wrong; your stronger duty is to save the child, which implies that it’s a distinct duty (e.g., Woollard 2015: 132, 142)[^woollard-2015]. But then the verdict about the original pond case doesn’t extend, at least without some loss of demandingness, to non-rescue cases like ones of charitable giving.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，池塘案例与涉及慈善捐赠的案例之间存在若干差别。池塘里的孩子离你只有很短距离，而饥荒受难者远在天边；你知道救孩子时具体谁将受益——你能看见他——而你只知道若捐助饥荒救济，某人将被救；而且只有你能救那孩子，而许多人可以捐助慈善。（池塘案例通常还被设想为一次性的，而你若救一个饥荒中的人，还会有另一个人的困境提出同样要求，然后又一个、又一个。这一关于跨时间苛刻性的问题在第 6 节讨论。）捍卫强援助义务者否认这些差别——无论是各自还是合在一起——在道德上重要 (e.g., Singer 1972; Unger 1996; Kagan 1998: 134–35; Pummer 2023: 99–125)[^kagan-1998][^pummer-2023][^singer-1972][^unger-1996]；因此，他们否认这一义务因物理距离而减弱（对比 Kamm 2000）[^kamm-2000]。另一些人则论证，这些差别中有一项或多项确实削弱了义务 (e.g., Woollard 2015: 129–43)[^woollard-2015]。更具体地说，他们论证池塘案例援引的是一项即时或紧急救助义务，它不同于、并且强于任何一般的仁爱义务 (Kagan 1998; Igneski 2006)[^igneski-2006][^kagan-1998]。设想你在赶去作一笔能救两条命、且不得延误的慈善捐助途中，遇到一个溺水的孩子。如果救孩子的义务只是一般仁爱义务的一个实例，那么你停下来救孩子就是错的；你应当继续赶路去捐款。但许多人认为那样做是错的；你更强的义务是救孩子，这意味着它是一项独立的义务 (e.g., Woollard 2015: 132, 142)[^woollard-2015]。但这样一来，关于原初池塘案例的裁决至少会在失去一些苛刻性的情况下，无法延伸到慈善捐赠这类非救助案例。
+    step2: |-
+      然而，池塘案例与慈善捐赠类案例之间有几处差别：池塘里的孩子近在咫尺，饥荒受难者却远在天边；救孩子时你知道具体谁将受益——你看得见他——而捐助饥荒救济只知“总有人”得救；而且救孩子非你莫属，捐助慈善却人人可为。（池塘案例通常还被设想为一次性事件；而你若救了一个饥荒中的人，还会有下一个的困境提出同样的要求，然后又一个、又一个。这个跨时间的苛刻性问题见第 6 节。）主张强援助义务的人否认这些差别——无论单看还是合看——具有道德意义 (e.g., Singer 1972; Unger 1996; Kagan 1998: 134–35; Pummer 2023: 99–125)[^kagan-1998][^pummer-2023][^singer-1972][^unger-1996]，因而也否认这项义务会因地理距离而减弱（对比 Kamm 2000）[^kamm-2000]。另一些人则认为，其中一项或数项差别确实削弱了义务 (e.g., Woollard 2015: 129–43)[^woollard-2015]；更具体地说，池塘案例援引的是一项即时或紧急救助义务，它不同于、也强于任何一般意义上的仁爱义务 (Kagan 1998; Igneski 2006)[^igneski-2006][^kagan-1998]。设想你正赶去作一笔能救两条命、且不可延误的慈善捐助，路上遇到一个溺水的孩子。若救孩子的义务只是一般仁爱义务的实例，你停下来救他就是错的——你应当继续赶路去捐款。但许多人认为那样才错：你更强的义务是救孩子，足见这是一项独立义务 (e.g., Woollard 2015: 132, 142)[^woollard-2015]。但既然如此，关于原初池塘案例的判断，至少要在牺牲一些苛刻性的前提下，才能延伸到慈善捐赠这类非救助案例。
   - id: 16
     kind: body
     source: |-
       Arguments for a strong duty to promote the good, whether maximizing or somewhat weaker, are revisionist of everyday morality. How persuasive they are depends in part on whether and how a more permissive view can be constructed, something there are two general strategies for doing. The first involves weakening the duty to promote the good so, considered just on its own, it doesn’t require you to act as often as a more demanding duty does. The second supplements the duty to promote the good with a competing factor based on costs that can sometimes outweigh it and make it permitted not to act as the duty requires.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      支持强促进善义务的论证——无论最大化还是稍弱——都是对日常道德的修正。它们有多大说服力，部分取决于能否以及如何构造一个更宽松的观点；为此有两种一般策略。第一种是削弱促进善的义务，使其仅就其本身而言，不像更苛刻的义务那样经常要求你行动。第二种是以一项基于代价的竞争性因素来补充促进善的义务，该因素有时可压过它，使你不按义务要求行动也成为允许。
+    step2: |-
+      支持强“促进善”义务的论证——无论要求最大化还是稍弱一些——都是对日常道德的修正。它们是否令人信服，部分取决于能否、以及如何构造一个更宽松的观点，而这有两条一般路径：一是削弱促进善的义务，使它在单独考量时不那么频繁地要求你行动；二是给促进善的义务加上一项基于代价的竞争因素，这项因素有时能压过义务，使你不按义务行事也属允许。
   - id: 17
     kind: body
     source: |-
       ## 3. Weakening the Duty to Promote the Good
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 削弱促进善的义务
+    step2: |-
+      ## 3 削弱促进善的义务
   - id: 18
     kind: body
     source: |-
       The most radical version of the first strategy rejects the duty to promote the good entirely, recognizing only, say, deontological duties not to harm or interfere with others. The resulting view, which may be libertarian, never requires you to sacrifice any of your good to benefit others, or even to benefit them when that would be costless for you, and is therefore completely undemanding (Narveson 2003)[^narveson-2003]. But many will find this view too radical and will prefer a version of the strategy that retains a duty to promote the good, either on its own or as one duty among others, but weakens the duty so that by itself it permits some or even many acts that produce less than the most good possible. The question, though, is whether this weakening, which can be done in several ways, fully meets the demandingness objection.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第一种策略最激进的版本完全拒斥促进善的义务，只承认例如不伤害或不干涉他人的义务论义务。由此形成的观点可能属于自由至上主义，它从不要求你牺牲自己的任何善来造福他人，甚至在造福他人对你毫无代价时也不要求，因而完全不苛刻 (Narveson 2003)[^narveson-2003]。但许多人会觉得这一观点太激进，而更青睐该策略的一个版本：保留促进善的义务——或是单独保留，或是作为诸多义务之一——但削弱它，使其本身允许某些甚至许多产生少于最大可能之善的行为。然而问题在于，这种削弱（可有好几种做法）是否能完全回应苛刻性异议。
+    step2: |-
+      第一条路径最激进的版本干脆抛弃促进善的义务，只承认例如不伤害、不干涉他人的义务论义务。由此得到的观点可能属于自由至上主义：它从不要求你牺牲自己的任何善去造福他人，哪怕造福他人对你不费分文，也一概不要求——因此完全不苛刻 (Narveson 2003)[^narveson-2003]。但许多人会觉得这太激进，更愿意取该路径的另一个版本：保留促进善的义务（或单独保留，或作为诸多义务之一），却把它削弱，使其单独看来就允许某些、甚至许多产生少于最大可能之善的行为。可问题仍在于：这种削弱（做法不止一种）能否完全回应苛刻性异议。
   - id: 19
     kind: body
     source: |-
       One possibility is to replace a maximizing duty to promote the good with a satisficing duty (Slote 1985: 35–59)[^slote-1985], which says an act is right so long as it produces a reasonable amount of good, or has an outcome that’s in one or both of two senses good enough. In one sense an outcome is good enough if in it all people, or perhaps some reasonable percentage of them, lead what by absolute standards are reasonably good lives. In another it’s good enough if you’ve made some reasonable percentage, say two thirds, of the largest improvement in it you can (Hurka 1990)[^hurka-1990]. A duty that is satisficing in both senses is in two ways less demanding than a maximizing one. If the situation is by absolute standards already reasonably good, you have no duty whatever to improve it; and even if the situation isn’t reasonably good and nothing you do can make it so, you need only do, say, two thirds of the most you can to improve it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一种可能是把最大化的促进善义务替换为满足性义务 (Slote 1985: 35–59)[^slote-1985]，即只要一个行为产生合理数量的善，或其结果在两种意义之一或两者上足够好，它就是正当的。在一种意义上，若一个结果使所有人都（或也许其中某个合理比例的人）按绝对标准过着合理良善的生活，它就是足够好的。在另一种意义上，若你已带来你所能带来的最大改善的某个合理比例（比如三分之二），它就是足够好的 (Hurka 1990)[^hurka-1990]。一项在两种意义上都满足性的义务，在两个方向上都不如最大化义务苛刻。如果情况按绝对标准已经足够好，你根本无义务去改善它；而即便情况并不够好、你所做的也无法使之变好，你也只需做出比如最大努力的三分之二。
+    step2: |-
+      一种做法是把最大化的促进善义务换成满足性义务 (Slote 1985: 35–59)[^slote-1985]：只要行为产生合理数量的善，或其结果在以下两种意义之一（或两者）上足够好，它便是正当的。其一，若结果使所有人（或其中某个合理比例的人）按绝对标准过着合理良善的生活，便足够好；其二，若你已实现自己所能实现的最大改善的某个合理比例（比如三分之二），便足够好 (Hurka 1990)[^hurka-1990]。在两种意义上都取满足性，这义务便从两处都不如最大化义务苛刻：若情况按绝对标准已足够好，你根本不必去改善；若情况不够好、而你所做的也无力回天，你也只需做到比如最大努力的三分之二。
   - id: 20
     kind: body
     source: |-
       These weakenings don’t, however, consider the costs to you of promoting the good, which opens a satisficing view to two objections. It gives you, first, no duty to improve a situation that’s already good enough even if that would involve just pushing a button and so no cost to you, and no duty ever to do more than two thirds of the most you can even if that means just pushing one button rather than another. This can seem unacceptable since it permits you not to promote some good when there’s no positive reason not to. At the same time, a satisficing view can be very demanding if doing two thirds or even half or a quarter of the most good you can involves significant costs for you. Though you may not be required to save six lives at the cost of your own, you may be required to save four or three of them at the cost of your own. Since it gives no weight to costs, a satisficing view doesn’t really address what for many is the core of the demandingness objection, which concerns costs. Though it weakens the duty to promote the good, it sometimes does so when that doesn’t seem appropriate, and sometimes doesn’t do so when intuitively that is called for.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，这些削弱并不考虑促进善对你的代价，这使满足性观点面临两项异议。第一，它不给你任何义务去改善一个已经足够好的情况，即便那只需按一个按钮、对你毫无代价；它也从不要求你做超过最大努力三分之二的事，即便那只是在两个按钮中按一个而非另一个。这看来不可接受，因为它允许你在没有积极理由不促进某些善时不去促进。同时，若做到最大善的三分之二乃至一半或四分之一会给你带来重大代价，满足性观点也可能非常苛刻。你可能不被要求以自己生命为代价救六个人，却可能被要求以自己生命为代价救其中四个或三个。由于它不权衡代价，满足性观点并未真正回应许多人眼中苛刻性异议的核心——即代价问题。它虽削弱了促进善的义务，有时却在该削弱之处不削弱，有时又在直觉上应当削弱之处不削弱。
+    step2: |-
+      然而，这些削弱都不考虑促进善对你的代价，于是满足性观点招来两项异议。第一，对已经足够好的情况，它不给你任何改善义务——哪怕只需按一下按钮、对你不费分文；它也从不要求你做超过最大努力三分之二的事——哪怕只是在两个按钮中按这一个而非那一个。这似乎不可接受：在没有积极理由不去促进善时，它却允许你袖手。第二，若做到最大善的三分之二、甚至一半或四分之一，就会让你付出重大代价，满足性观点便可能非常苛刻：你可能不被要求以性命为代价救六人，却可能被要求以性命为代价救四人或三人。由于不权衡代价，满足性观点其实没有触及许多人眼中苛刻性异议的核心，即代价问题：它削弱义务，有时削得不是地方；有时直觉上该削，它又不削。
   - id: 21
     kind: body
     source: |-
