@@ -2,7 +2,7 @@
   "slug": "film",
   "kind": "retranslate",
   "zh_doc": "f/film.md",
-  "state": "drafted",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,55 @@
       "actor": "EH-main-20261106",
       "at": "2026-11-06T11:28:07Z",
       "evidence": "账本 77/77 段（含 8 节标题+1 oir）双版齐；lq.py check 无 HARD-FAIL（** 归一后）；compose --write 落盘 20767 字符；italic_to_bold_cjk 转粗 14 行；check_style 0 issue；check_academic --strict OK"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "EH-main-20261107",
+      "at": "2026-11-07T07:42:00Z",
+      "evidence": "逐节对照 yuanwen/f/film.md 核销：8 内容节（理念/本质/作者身份/情感投入/叙述/社会/作为哲学/结论）+4 尾节全对应；内联 marker 13:13 序列一致、defs 57:57 键集一致、年份序列 163:163 一致；关键概念抽查（auteur/透明性/模拟理论/思想理论/想象性看见/structural/Cavell）全在位；书目全英文无中国文献，文献还原不适用"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "EH-main-20261107",
+      "at": "2026-11-07T07:44:17Z",
+      "evidence": "check_prose 41 条全实修归零（19 de-chain 拆的链/9 long-sentence 句号切分/10 weak-verb 换实义动词/3 passive-bei 去被字），豁免 0；'创作出来'误命中'作出'属检查器假阳性，绕写化解（其方式与我们看待一部文学作品之被创作的方式相似）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "EH-main-20261107",
+      "at": "2026-11-07T07:44:19Z",
+      "evidence": "check_style 0 issue；check_academic --strict 0 硬错误；check_math 无缺失无失衡；check_prose 残余 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261107",
+      "at": "2026-11-07T07:47:16Z",
+      "evidence": "r1 段级核销：五项对账全过——节标题 12:12（8 内容节+4 尾节）、内联 marker 13:13 序列一致（bordwell-1996/carroll-1996/currie-1995/münsterberg-1916/arnheim-1957/bazin-1967/wilson-1997/cavell-1981/wartenberg-1999/wartenberg-2007×2/sinnerbrink-2011）、defs 57:57 键集 ASCII 归一后全等、粗体缩写键两侧均空、年份序列 163:163；人名括注（Wartenberg/Truffaut/Sarris/Cavell/Walton/Currie 等 25 处）逐一对"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261107",
+      "at": "2026-11-07T07:59:45Z",
+      "evidence": "r2 句级复读：41 处实修段逐一回读（导言/理念/本质/作者身份/情感投入/叙述/社会/作为哲学/结论），语义与源文逐句对读无偏移；长句切分以句号为界未损逻辑连接（如 L4 拆为'认真对待电影。电影由此取得…地位'承接源文 as-a-result 结构）；check_prose 残余 0、豁免 0"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261107",
+      "at": "2026-11-07T07:59:48Z",
+      "evidence": "r3 终检：check_style 0 issue、check_academic --strict 0 硬错误、check_math 无缺失失衡、check_prose 残余 0；五项对账（节12:12/marker13:13 序列/defs57:57 键集/粗体缩写键空/年份163:163）全过；账本 77/77 守恒门通过（3 机械段 step1==step2 为节标题等机械段，人工确认）；学术工具节沿用表格形体例为已登记债务（qa-findings §4）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261107",
+      "at": "2026-11-07T07:59:48Z",
+      "evidence": "f 批 film 全周期收口：compose 77 段 2.1 万字、prose 41→0 全实修、四检全绿、五项对账全过、九步凭证齐"
     }
   ],
   "blockers": [],
