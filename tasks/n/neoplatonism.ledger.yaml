@@ -1,0 +1,316 @@
+version: 1
+slug: neoplatonism
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      The term “Neoplatonism” refers to a philosophical school of thought that first emerged and flourished in the Greco-Roman world of late antiquity, roughly from the time of the Roman Imperial Crisis to the Arab conquest, i.e., the middle of the 3ʳᵈ to the middle of the 7ᵗʰ century. In consequence of the demise of ancient materialist or corporealist thought such as Epicureanism and Stoicism, Neoplatonism became the dominant philosophical ideology of the period, offering a comprehensive understanding of the universe and the individual human being’s place in it. However, in contrast to labels such as “Stoic”, “Peripatetic” or “Platonic”, the designation “Neoplatonic” is of modern coinage and to some extent a misnomer. Late antique philosophers now counted among “the Neoplatonists” did not think of themselves as engaged in some sort of effort specifically to revive the spirit and the letter of Plato’s dialogues. To be sure, they did call themselves “Platonists” and held Plato’s views, which they understood as a positive system of philosophical doctrine, in higher esteem than the tenets of the pre-Socratics, Aristotle, or any other subsequent thinker. However, and more importantly, their signature project is more accurately described as a grand synthesis of an intellectual heritage that was by then exceedingly rich and profound. In effect, they absorbed, appropriated, and creatively harmonized almost the entire Hellenic tradition of philosophy, religion, and even literature—with the exceptions of Epicureanism, which they roundly rejected, and the thoroughgoing corporealism of the Stoics. The result of this effort was a grandiose and powerfully persuasive system of thought that reflected upon a millennium of intellectual culture and brought the scientific and moral theories of Plato, Aristotle, and the ethics of the Stoics into fruitful dialogue with literature, myth, and religious practice. In virtue of their inherent respect for the writings of many of their predecessors, the Neoplatonists together offered a kind of meta-discourse and reflection on the sum-total of ideas produced over centuries of sustained inquiry into the human condition.
+    step1: |-
+      “新柏拉图主义”一词指一种哲学学派，它最初兴起并繁盛于晚古时期的希腊—罗马世界，大致从罗马帝国危机时期到阿拉伯征服，即公元 3 世纪中叶至 7 世纪中叶。由于伊壁鸠鲁主义与斯多葛主义等古代唯物主义或物体论思想的衰落，新柏拉图主义成为该时期占主导地位的哲学意识形态，提供对宇宙与个体人在其中位置的全面理解。然而，与“斯多亚派”“逍遥派”或“柏拉图派”等标签不同，“新柏拉图主义的”这一名称是现代铸造的，在某种程度上是误称。如今被算作“新柏拉图主义者”的晚古哲学家，并不认为自己致力于某种专门复兴柏拉图对话之精神与字句的努力。诚然，他们确实自称“柏拉图主义者”，并且把他们理解为一种实证哲学学说体系的柏拉图观点，看得比前苏格拉底派、亚里士多德或任何其他后继思想家的主张更高。然而更重要的是，他们标志性的工作更准确地说是对当时已极其丰富深刻的思想遗产的伟大综合。实际上，他们吸收、挪用并创造性地调和了几乎整个希腊的哲学、宗教乃至文学传统——例外是伊壁鸠鲁主义（他们断然拒斥）与斯多葛派彻底的物体主义。这一努力的结果是一个宏大而极具说服力的思想体系，它反思了千年的智识文化，并使柏拉图、亚里士多德的科学与道德理论以及斯多葛派的伦理学，同文学、神话与宗教实践展开富有成果的对话。由于他们对许多前辈著作抱有内在的敬意，新柏拉图主义者共同提供了一种元话语，反思数百年持续探究人类境况所产生的一切观念之总和。
+    step2: |-
+      “新柏拉图主义”指晚古时期希腊—罗马世界兴起并繁盛的一个哲学学派，时间大致从罗马帝国危机沿至阿拉伯征服，即公元 3 世纪中叶到 7 世纪中叶。随着伊壁鸠鲁主义、斯多葛主义等古代唯物主义或物体论思想衰落，新柏拉图主义成为该时期占主导的哲学意识形态，就宇宙以及个体人在宇宙中的位置给出整全理解。不过，与“斯多亚派”“逍遥派”“柏拉图派”一类标签不同，“新柏拉图主义的”之名系现代铸造，某种程度上属于误称。今天被归入“新柏拉图主义者”的晚古哲学家，并不认为自己专以复兴柏拉图对话的精神与字句为业。他们固然自称“柏拉图主义者”，也确实把柏拉图观点（在他们看来是一套实证的哲学学说）置于前苏格拉底派、亚里士多德及任何后继思想家之上；但更要紧的是，其标志性事业更宜称为对一份当时已极丰厚的思想遗产的伟大综合。事实上，他们吸收、挪用并创造性调和了几乎整个希腊哲学、宗教乃至文学传统，只有伊壁鸠鲁主义（遭其断然拒斥）与斯多葛派彻底的物体主义除外。由此形成的是一个宏阔而极具说服力的思想体系：它反思千年智识文化，让柏拉图、亚里士多德的科学理论与道德学说以及斯多葛派伦理学，同文学、神话和宗教实践展开富有成果的对话。出于对众多前辈著作的内在敬意，新柏拉图主义者合力提供了一种元话语，反思数百年持续探究人类境况所积累的全部观念。
+  - id: 2
+    kind: body
+    source: |-
+      As a natural consequence of their insistence on the undiminished relevance of the past, the Neoplatonists developed their characteristically speculative brand of philosophical enquiry in which empirical facts tended to serve as illustrations rather than heuristic starting points or test cases. Today, the Neoplatonic system may strike one as lofty, counterintuitive, and implausible, but to dismiss it out of hand is difficult, especially if one is prepared to take seriously a few fundamental assumptions that are at least not *obviously* wrong and may possibly be right.
+    step1: |-
+      作为他们坚持过去之相关性未减的自然结果，新柏拉图主义者发展出他们特有的思辨式哲学探究，其中经验事实往往充当例证，而非启发性的出发点或检验案例。今天，新柏拉图主义体系也许让人觉得高远、反直觉且不可信，但要一概摒弃它却很难，尤其当你准备认真对待几条至少并非显然错误、且可能正确的根本假定。
+    step2: |-
+      新柏拉图主义者坚信过去并未减损其相关性，由此自然发展出一种独具特色的思辨哲学：经验事实在其中多充当例证，而非启发性起点或检验案例。今天看来，新柏拉图主义体系或显得高远、反直觉、难以置信；但要想一概弃之，却并不容易——尤其当你愿意认真对待若干根本假定，它们至少并非显然错误，而且有可能成立。
+  - id: 3
+    kind: body
+    source: |-
+      The most fundamental of these assumptions, which the Neoplatonists shared with the majority of intellectuals of the ancient world, including most pre-Socratic thinkers as well as Socrates, Plato, Aristotle and their followers, is that mindful consciousness (*nous*, often translated as thought, intelligence, or intellect) is in an important sense ontologically prior to the physical realm typically taken for ultimate reality (Mind over Matter). There existed a dispute between Plato and Aristotle over whether or not the objects of mindful consciousness (abstract concepts, Platonic or otherwise, numbers, geometrical properties, and so forth) are also ontologically prior, but the Neoplatonists regarded this fact as a matter of inconsequential detail. And so, following a venerable and abiding tradition of Mind over Matter, Neoplatonism inevitably turned out to be an idealist type of philosophy.
+    step1: |-
+      这些假定中最根本的一条，新柏拉图主义者与古代世界多数智识人共享（包括多数前苏格拉底思想家以及苏格拉底、柏拉图、亚里士多德及其追随者）：有心的意识（nous，常译作思想、智性、理智）在重要意义上在本体论上先于通常被当作终极实在的物理领域（心胜于物）。柏拉图与亚里士多德之间曾就有心意识的对象（抽象概念、柏拉图式或其他形式、数、几何属性等等）是否也在本体论上在先，存在争议；但新柏拉图主义者把这一事实视为无关紧要的细节。于是，遵循心胜于物的悠久而持久的传统，新柏拉图主义不可避免地成了一种唯心论类型的哲学。
+    step2: |-
+      这些假定中最根本的一条，新柏拉图主义者与古代多数智识人共有——包括大部分前苏格拉底思想家，以及苏格拉底、柏拉图、亚里士多德及其门徒：有心的意识（nous，常译作思想、智性或理智）在重要意义上本体论上先于那个通常被当作终极实在的物理领域，此即“心胜于物”。柏拉图与亚里士多德曾为另一问题争执：有心意识的对象（抽象概念，无论柏拉图式的还是别的，以及数、几何属性等）是否也同样本体论在先。新柏拉图主义者却视之为无关紧要的细节。于是，循着“心胜于物”这一悠久而牢固的传统，新柏拉图主义不可避免地成了一种唯心论哲学。
+  - id: 4
+    kind: body
+    source: |-
+      The second assumption, which the Neoplatonists shared with the Stoics and the Hermetists (an influential group of Egyptian religious thinkers that predate the rise of Neoplatonism), was that reality, in all its cognitive and physical manifestations, depended on a highest principle which is unitary and singular. Neoplatonic philosophy is a strict form of principle-monism that strives to understand everything on the basis of a single cause that they considered divine, and indiscriminately referred to as “the First”, “the One”, or “the Good”. Since it is reasonable to assume, as the Neoplatonists did, that any efficient cause is ontologically prior to, and hence more real, than its effect, then, in the hierarchy of being, the first principle, whatever it is, cannot be less “real” than the phenomena it is supposed to explain. Given the veracity of the first assumption (the ontological priority of intelligence and consciousness), it follows at once that the first principle must be a principle of consciousness. In consequence, the fundamental challenge all Neoplatonists struggled to meet was essentially the following: How are we to understand and describe the emergence of the universe, with all its diverse phenomena, as the effect of a singular principle of consciousness? In particular—and in this regard Neoplatonism shares certain concerns with modern cosmology—how is it possible to understand the emergence of the physical, material universe from a singularity that is in every sense unlike this universe? Their answer to this question was entirely new, and went far beyond any prior cosmic aetiology, including that of Plato’s *Timaeus,* in elegance and sophistication.
+    step1: |-
+      第二条假定，新柏拉图主义者与斯多葛派及赫尔墨斯派（一群早于新柏拉图主义兴起的埃及宗教思想家，颇具影响）共享：实在在其一切认知与物理表现上，都依赖一个统一而单一的最高本原。新柏拉图主义哲学是一种严格的本原一元论，力图依据一个被其视为神圣的单一原因来理解一切，并笼统地称之为“第一者”“太一”或“善”。既然可以合理地假定（新柏拉图主义者正是如此）任何动力因在本体论上都先于其结果、因而比结果更实在，那么在存在层级中，第一本原无论是什么，都不可能比它应当解释的现象更不“实在”。给定第一条假定为真（智性与意识的本体论优先），立刻可以推出：第一本原必定是一个意识本原。于是，所有新柏拉图主义者都努力应对的根本挑战大致如下：我们该如何理解并描述宇宙及其纷繁现象，作为一个单一意识本原之结果而出现？尤其是——在这一点上新柏拉图主义与现代宇宙论有某些共同关切——如何可能理解物理的、物质的宇宙，从一个在一切意义上都与之不同的单一者中产生？他们对这一问题的回答全然新颖，在优雅与精微上远超此前任何宇宙成因论，包括柏拉图的《蒂迈欧篇》。
+    step2: |-
+      第二条假定，新柏拉图主义者与斯多葛派、赫尔墨斯派（一个早于新柏拉图主义兴起的埃及宗教思想群体，影响不小）共有：实在无论表现为认知形态还是物理形态，都依赖一个统一而单一的最高本原。新柏拉图主义哲学是严格的本原一元论：它力求凭一个被认作神圣的单一原因解释一切，并笼统地名之曰“第一者”“太一”或“善”。新柏拉图主义者理所当然地认为，任何动力因在本体论上都先于其结果，因而比结果更实在；那么，在存在层级中，第一本原无论为何，都不会比它所要解释的现象更不“实在”。一旦承认第一条假定（智性与意识的本体论优先），便可立即推出：第一本原必是意识本原。于是，所有新柏拉图主义者共同面对的根本难题是：宇宙及其纷繁现象，如何作为一个单一意识本原的结果而出现，我们又该如何理解并描述这一出现？尤须注意——在这一点上，新柏拉图主义与现代宇宙论有共同关切——一个在一切方面都异于物理宇宙的单一者，如何可能产生出物理的、物质的宇宙？他们的回答全新，其优雅与精微远超此前一切宇宙成因论，柏拉图的《蒂迈欧篇》亦不例外。
+  - id: 5
+    kind: body
+    source: |-
+      ## 1. Historical Orientation: Antiquity
+    step1: |-
+      ## 1 历史定位：古代
+    step2: |-
+      ## 1 历史定位：古代
+  - id: 6
+    kind: body
+    source: |-
+      Rightly or wrongly, the Egyptian-born Plotinus (204/5–270) is commonly regarded as the founder of Neoplatonism. He was a pupil of the Alexandrian philosopher Ammonius Saccas (3ⁿᵈ century), who reportedly did not publish anything and remains one of the most enigmatic philosophers of all antiquity. Around 245, at the age of 40, Plotinus moved from Alexandria to Rome and founded a school of philosophy there. At first, his instruction too was entirely oral, until his most talented pupil, Porphyry, persuaded him to commit his seminars to the page. After Plotinus’ death, Porphyry edited and published these writings, having arranged them in a collection of six books consisting of nine essays each (the so-called “Enneads” or “nines”).
+    step1: |-
+      无论对错，生于埃及的普罗提诺（204/5–270）通常被视为新柏拉图主义的创立者。他是亚历山大里亚哲学家阿摩尼乌斯·萨卡斯（3 世纪）的学生，据说后者未曾发表任何著作，至今仍是整个古代最神秘的哲学家之一。约 245 年，40 岁的普罗提诺从亚历山大里亚迁往罗马，并在那里创办了一所哲学学校。起初，他的讲授也完全是口头的，直到他最出色的学生波菲利说服他把研讨课内容形诸文字。普罗提诺去世后，波菲利编辑并出版了这些著作，把它们编成六卷、每卷九篇的合集（即所谓《九章集》）。
+    step2: |-
+      普罗提诺（204/5–270）生于埃及，无论功过如何评说，通常被奉为新柏拉图主义的创立者。他师从亚历山大里亚哲学家阿摩尼乌斯·萨卡斯（3 世纪）；据说此人未曾刊布任何著作，至今仍是整个古代最费解的哲学家之一。约 245 年，40 岁的普罗提诺迁居罗马，创办哲学学校。最初他的讲授同样全凭口说，后经其最富才华的学生波菲利劝说，才把研讨内容笔之于书。普罗提诺身后，波菲利将这些文字编辑出版，编为六卷、每卷九篇（即所谓《九章集》，“九篇”之意）。
+  - id: 7
+    kind: body
+    source: |-
+      By any standard of intellectual prowess, Plotinus is one of the intellectual giants of antiquity, on a par with the likes of Plato, Aristotle, and Chrysippus, even if modernity is still hesitant to accord him such an exalted status. As in the case of his preeminent precursors, Plotinus’ philosophical system combines innovation with tradition. The question of precisely which predecessors inspired him is still unclear and in need of further investigation. Carefully selected passages from Plato’s dialogues and Aristotle’s *Metaphysics* often serve him as starting points for his own speculations; Stoic ethics is very much in evidence, as are the views of the Peripatetic philosopher Alexander of Aphrodisias (2ⁿᵈ-3ʳᵈ centuries). A general intellectual background is provided by the so-called Middle Platonists, above all Numenius of Apamea (2ⁿᵈ century). Moreover, it is not impossible that Gnosticism (which Plotinus vehemently opposed) as well as the writings circulating under the name of Hermes Trismegistus confirmed or even informed his metaphysical monism. Lastly, Plotinus may have been well aware of the rise of Christianity, but if so, he was not as alarmed by it as his pupil Porphyry.
+    step1: |-
+      以任何智识才能的标准衡量，普罗提诺都是古代的思想巨人之一，可与柏拉图、亚里士多德、克律西波斯之流比肩，尽管现代性仍不愿给他如此崇高的地位。与其卓越的前辈一样，普罗提诺的哲学体系把创新与传统结合起来。究竟哪些前辈启发了他，迄今仍不清楚，尚需进一步研究。从柏拉图对话与亚里士多德《形而上学》中精心选取的段落，常被他用作自己思辨的出发点；斯多葛派伦理学十分显眼，逍遥派哲学家阿弗洛狄西亚的亚历山大（2–3 世纪）的观点亦然。总体智识背景则由所谓中期柏拉图主义者提供，首先是阿帕梅亚的努梅尼乌斯（2 世纪）。此外，诺斯替主义（普罗提诺激烈反对它）以及以三重伟大的赫尔墨斯之名流传的著作，也并非不可能确认甚至塑造了他的形而上学一元论。最后，普罗提诺或许清楚基督教的兴起，但若果真如此，他并不像其学生波菲利那样为之惊惶。
+    step2: |-
+      无论以何种智识标准衡量，普罗提诺都堪称古代思想巨人，与柏拉图、亚里士多德、克律西波斯诸人比肩——尽管现代学界仍迟疑于给他这般崇高地位。与那些卓越先驱一样，他的哲学体系兼有创新与传统。究竟哪些前辈启发了他，至今仍不明朗，有待进一步考察。他往往从柏拉图对话与亚里士多德《形而上学》中精选段落，作为自己思辨的起点；斯多葛派伦理学的痕迹十分明显，逍遥派哲学家阿弗洛狄西亚的亚历山大（2—3 世纪）的观点亦然。总体的智识背景由所谓中期柏拉图主义者提供，其中首推阿帕梅亚的努梅尼乌斯（2 世纪）。此外，诺斯替主义（普罗提诺激烈反对之）以及托名三重伟大的赫尔墨斯而流传的著作，也未必没有确认、甚至塑造他的形而上学一元论。最后，普罗提诺或许知晓基督教的兴起；倘若如此，他并不像弟子波菲利那样为之惊惶。
+  - id: 8
+    kind: body
+    source: |-
+      In the course of its history in late antiquity, Neoplatonism proved to be adaptable, fluid and dynamic, much more so than the system of the Stoics, the dominant philosophy during Hellenistic times. It appealed to the mundane *literati* as much as to the religious zealot, to the die-hard pagan as much as to the up-start Christian who needed a philosophical background to parse the theological fine points which would eventually distinguish the orthodox from the heretic. Important figures of late antique Neoplatonism were the already mentioned pupil of Plotinus, Porphyry, his pupil Iamblichus, Plutarch of Athens, Syrianus, Proclus, Simplicius, Damascius, Ammonius Hermeiou, John Philoponus, Olympiodorus, and Stephanus of Alexandria, to name but the most important. All of them, in different and fascinating ways, contributed to the development and internal diversification of the school’s doctrines. (Some of these philosophers have their own entries in this encyclopedia; see the Related Entries section below.)
+    step1: |-
+      在其晚古历史进程中，新柏拉图主义被证明是适应性强、流动而动态的，远比希腊化时期占主导的斯多葛派体系更为如此。它既吸引世俗文人，也吸引宗教狂热者；既吸引死硬的异教徒，也吸引新起的基督徒——后者需要一种哲学背景来解析那些最终将正统与异端区分开来的神学细节。晚古新柏拉图主义的重要人物有已提到的普罗提诺的学生波菲利、波菲利的学生扬布利科斯，以及雅典的普鲁塔克、叙利亚努斯、普罗克洛斯、辛普利丘、达马斯基乌斯、赫尔米亚的阿摩尼乌斯、约翰·菲洛波诺斯、奥林匹奥多罗斯与亚历山大的斯特凡努斯，这里只举最重要的几位。他们全都以各不相同而引人入胜的方式，促成了该学派学说的发展与内部分化。（其中一些哲学家在本百科全书中另有词条；见下文相关词条部分。）
+    step2: |-
+      在晚古的历史进程中，新柏拉图主义表现出很强的适应性、流动性与动态性，远胜于希腊化时代占主导的斯多葛派体系。它既吸引世俗文人，也吸引宗教狂热者；既吸引死硬的异教徒，也吸引新起的基督徒——后者需要哲学背景，以便解析那些终将划开正统与异端的神学细节。晚古新柏拉图主义的重要人物，除已提及的普罗提诺弟子波菲利及其弟子扬布利科斯外，还有雅典的普鲁塔克、叙利亚努斯、普罗克洛斯、辛普利丘、达马斯基乌斯、赫尔米亚的阿摩尼乌斯、约翰·菲洛波诺斯、奥林匹奥多罗斯和亚历山大的斯特凡努斯等，这里只举最要紧的几位。他们各以不同而迷人的方式，推动了学派学说的发展与内部分化。（其中数位在本百科全书中另有专条，见下文“相关词条”。）
+  - id: 9
+    kind: body
+    source: |-
+      Importantly, the new direction Plotinus, and presumably Ammonius Saccas before him, had given to Greek philosophy gradually acquired traction among the Greco-Roman elites. Ironically, it may have contributed to the acceptance of Christianity among the educated, thereby elevating the religious sentiments of the empire’s misfits and downtrodden to the ideology of a political system sanctified by the will of god. Evidence for the increasing Neoplatonization of Christianity is abundant: The brilliant Christian theologian Origen, some twenty years older than Plotinus, may also have been a pupil of Ammonius Saccas; the Cappadocian Fathers Basil and Gregory of Nazianzus spent their youth in philosophical study in Athens in the 4ᵗʰ century, where they most certainly were exposed to Neoplatonism, while Augustine of Hippo (354–430) was intimately familiar with the writings of Plotinus and Porphyry. The cut-throat debates about transubstantiation (in the Eucharist), the hypostases of the Trinity, or the divine/human nature of Christ, could not even be followed without a thorough training in current Greek philosophical discourse. By the end of the 5ᵗʰ century, the audience in the philosophical classrooms in Alexandria was predominantly Christian, and Neoplatonism continued to be taught in some form or other in Athens, Alexandria, Constantinople, Baghdad, Mistra, and other pockets of learning until its triumphant revival in Renaissance Italy.
+    step1: |-
+      重要的是，普罗提诺（以及据推测在他之前的阿摩尼乌斯·萨卡斯）为希腊哲学所指引的新方向，逐渐在希腊—罗马精英中获得影响力。具有讽刺意味的是，它可能促成了受过教育者中间对基督教的接受，从而把帝国边缘者与受压迫者的宗教情感提升为一种由上帝意志祝圣的政治体系的意识形态。基督教日益新柏拉图主义化的证据比比皆是：才华横溢的基督教神学家奥利金比普罗提诺年长约二十岁，可能也是阿摩尼乌斯·萨卡斯的学生；卡帕多西亚教父巴西尔与纳齐安的格列高利在 4 世纪青年时代于雅典研习哲学，在那里必定接触到新柏拉图主义；而希波的奥古斯丁（354–430）则熟知普罗提诺与波菲利的著作。关于圣餐变体论、三位一体诸神格或基督的神性与人性本性的激烈辩论，若无对当代希腊哲学话语的彻底训练，甚至无法跟上。到 5 世纪末，亚历山大里亚哲学课堂的听众以基督徒为主；而新柏拉图主义继续以某种形式在雅典、亚历山大里亚、君士坦丁堡、巴格达、米斯特拉及其他学术角落讲授，直到它在文艺复兴意大利的凯旋式复兴。
+    step2: |-
+      要紧的是，普罗提诺（以及据推测先于他的阿摩尼乌斯·萨卡斯）为希腊哲学指出的新方向，渐渐在希腊—罗马精英中赢得影响。说来反讽，它或许还促成了受教育阶层对基督教的接纳，从而把帝国边缘人与受压迫者的宗教情感，抬升为一种由神意祝圣的政治体系的意识形态。基督教日甚一日的新柏拉图主义化，证据俯拾即是：才华出众的基督教神学家奥利金比普罗提诺年长约二十岁，或亦出自阿摩尼乌斯·萨卡斯门下；卡帕多西亚教父巴西尔与纳齐安的格列高利，4 世纪青年时代在雅典研习哲学，必曾浸染新柏拉图主义；希波的奥古斯丁（354–430）则熟稔普罗提诺与波菲利的著作。当时围绕圣餐变体论、三位一体的诸神格、基督的神性与人性等问题的辩论刀光剑影，若无对当代希腊哲学话语的系统训练，甚至无从跟进。到 5 世纪末，亚历山大里亚哲学课堂的听众已以基督徒为主；此后新柏拉图主义仍以各种形态在雅典、亚历山大里亚、君士坦丁堡、巴格达、米斯特拉等学术据点讲授，直至在文艺复兴时期的意大利凯旋般复兴。
+  - id: 10
+    kind: body
+    source: |-
+      ## 2. The One
+    step1: |-
+      ## 2 太一
+    step2: |-
+      ## 2 太一
+  - id: 11
+    kind: body
+    source: |-
+      What was it that made the radically top-down idealism of the Neoplatonists so appealing? Disregarding in this context the religious-sentimental appeal Neoplatonism undoubtedly must have had and perhaps still has, its *philosophical* attractiveness and significance lies in the fact that it offered a maximum of explanatory power on the basis of just one metaphysical principle. Even though the system coheres in such a way that it is possible to approach it from many angles, it is perhaps best to begin at the top of the ontological pyramid and to return to the question posed earlier: How is it possible to explain the world’s emergence from a single divine principle of consciousness?
+    step1: |-
+      究竟是什么使新柏拉图主义者彻底自上而下的唯心论如此吸引人？在此暂且不论新柏拉图主义无疑必定具有、或许至今仍具有的宗教—情感吸引力，其哲学上的吸引力与意义在于：它仅凭一个形而上学本原便提供了最大的解释力。尽管该体系的一致性使得可以从许多角度接近它，但或许最好从本体论金字塔的顶端开始，回到先前提出的问题：如何可能解释世界从一个单一的神圣意识本原中产生？
+    step2: |-
+      新柏拉图主义者那种彻底自上而下的唯心论，何以如此引人？这里暂且不谈新柏拉图主义必定曾有、或许至今犹存的宗教情感魅力；其哲学上的吸引力与分量在于：仅凭一个形而上学本原，便提供了最大限度的解释力。该体系前后融贯，本可从许多角度切入，但最好还是从本体论金字塔的顶端说起，回到前文的问题：世界如何可能从一个单一的神圣意识本原中产生？
+  - id: 12
+    kind: body
+    source: |-
+      It may be useful first to state that the pagan Neoplatonists were not creationists. That is to say, whatever account they were giving about the universe’s origin, this narrative was not to be misunderstood as recounting a creation in time or at the very beginning of time. Instead, they speculated that the process of the emergence of the universe from the divine principle, as they conceived of it (described below), has gone on forever, just as it continues at this very moment and will continue to do so, sustaining a world without end. When the general outlook of Neoplatonism was appropriated and adapted to refine and articulate the creeds of Christianity, Islam, and Judaism, this feature of the doctrine, and the connected doctrine of the eternity of the world, would become a vigorously debated issue.
+    step1: |-
+      或许先说明一点是有用的：异教新柏拉图主义者并非创造论者。也就是说，无论他们给出关于宇宙起源的何种说明，这一叙述都不应被误解为讲述一次在时间中或在时间开端的创造。相反，他们思辨地认为，宇宙从神圣本原产生的过程（如他们所构想，下文将描述）一直持续，正如它在此时此刻仍在继续并将继续下去，维系一个无终的世界。当新柏拉图主义的总体观点被挪用并改造，以提炼和表述基督教、伊斯兰教与犹太教的信条时，学说的这一特征以及与之相关的世界永恒学说，将成为激烈争论的问题。
+    step2: |-
+      先作一点说明，或许不无裨益：异教新柏拉图主义者并非创造论者。换言之，他们关于宇宙起源的任何叙述，都不可误解为在时间之中或在时间之初的一次创造。他们设想，宇宙从神圣本原产生的过程（其构想见下文）向来如此，无始无终——它此刻仍在进行，将来也会继续，维系着一个没有终结的世界。后来，新柏拉图主义的总体立场被挪用、改造，用以提炼和表述基督教、伊斯兰教与犹太教的信条；此时，学说的这一特征连同世界永恒之说，便成了激烈争辩的题目。
+  - id: 13
+    kind: body
+    source: |-
+      Second, unlike the ancient theologians of Israel and Egypt, the Neoplatonists did not think that the universe could spring from the deity directly and in a way that surpasses all understanding, for example by being thought and spoken into existence. Their more refined view was that reality emerged from “the First” in coherent stages, in such a way that one stage functions as creative principle of the next.
+    step1: |-
+      第二，与古代以色列和埃及的神学家不同，新柏拉图主义者并不认为宇宙能够直接从神性中涌出，并以某种超越一切理解的方式——例如被思想、被说出而存在。他们更为精致的观点是：实在从“第一者”以连贯的阶段产生，一个阶段充当下一阶段的创造性本原。
+    step2: |-
+      其次，古代以色列与埃及的神学家不同，新柏拉图主义者并不以为宇宙能直接从神性中迸出，且是以某种超出一切理解的方式——比如被一想、被一说便有了存在。他们的看法更为精细：实在自“第一者”依循连贯的阶次产生，前一阶次充当后一阶次的创造本原。
+  - id: 14
+    kind: body
+    source: |-
+      This kind of emanationist cosmology rests on the tenet—based to some extent in observation, but elevated by them to the status of a heuristic principle—that every activity in the world is in some sense double insofar as it possesses both an inner and an outer aspect. For example, the inner activity of the sun (nuclear fusion, as we now know) has the outer effect of heat and light, themselves activities as well. Or the inner activity of a tree that is determined by the kind of tree it is (its genetic code, we would now say; the Neoplatonists spoke of an inherent formative principle, *logos*) results in the bearing of a particular kind of fruit; or again, thoughts and feelings internal to human beings express themselves in speech and actions. In each case, the outer effect is not the purpose or end of the inner activity; rather, it is simply the case that one falls out of the other and is concomitant with it. Furthermore, it is also the case that these outer activities will typically be productive of yet other outer activities that are ontologically more remote and derivative: Fruit serves as nourishment or poison for other individual life forms, and human speech and action constitute, over time, a person’s biography or a society’s history. It is important to note that, in all cases, the outer activity will not be some random affair, but rather something intimately connected with the inner activity it is an expression of. In other words, any inner activity will somehow prefigure the character and nature of its outer effect. Thus, the Neoplatonists insisted that there is nothing on the lower ontological levels within the chains of causality that is not somehow prefigured on the corresponding higher levels. In general, no property emerges unless it is already in some way preformed and pre-existent in its cause.
+    step1: |-
+      这种流溢论宇宙论基于一条信条——它在某种程度上基于观察，但被他们提升为启发性的本原：世界上每一种活动在某种意义上都是双重的，因为它既有内在方面又有外在方面。例如，太阳的内在活动（我们今天知道是核聚变）具有热与光的外在效果，而热与光本身也是活动。或者，一棵树由其树种所决定的内在活动（我们今天会说其遗传密码；新柏拉图主义者则说一种内在的赋形本原，即 logos），导致结出特定种类的果实；再如，人内部的思想与情感表达为言语和行动。在每一情形中，外在效果都不是内在活动的目的或终点；而只是一者从另一者中产生并与之相伴随。此外，这些外在活动通常还会产生其他本体论上更为遥远和派生的外在活动：果实成为其他个体生命形式的养料或毒药，而人的言语与行动随着时间构成一个人的传记或一个社会的历史。重要的是要注意，在所有情形中，外在活动都不是某种随意的事情，而是与其所表达的内在活动密切相连。换言之，任何内在活动都会以某种方式预示其外在效果的特征与本性。因此，新柏拉图主义者坚持认为，因果链条中较低本体论层次上没有任何东西不以某种方式在高层次上被预示。一般地说，除非已经在其原因中以某种方式被预先形成并预先存在，任何属性都不会出现。
+    step2: |-
+      这类流溢论宇宙观立足于一条信条：世间一切活动在某种意义上都是双重的，兼具内在与外在两面。该信条有观察为依据，但被他们抬升为启发性的本原。例如太阳的内在活动（今人知道是核聚变），其外在效果为热与光，而热与光本身也是活动。又如一棵树依其树种而定的内在活动（今人会说遗传密码，新柏拉图主义者则称内在的赋形本原，即 logos），结出特定种类的果实；再如人内心的思想与情感，表现为言语与行动。上述每一情形中，外在效果都不是内在活动的目的或终点；事情只是：一者自另一者中生出，并与之相伴。 此外，这些外在活动往往还会产生别的、本体论上更遥远也更派生的外在活动：果实成为其他个体生命形式的养料或毒药；人的言语与行动日积月累，构成一个人的传记或一个社会的历史。尤须留意：无论何种情形，外在活动都绝非随意之举，而与其所表达的内在活动紧密相关。换言之，任何内在活动都会以某种方式预示其外在效果的性格与本性。职是之故，新柏拉图主义者坚称：因果链条中较低的存在层次上，没有任何东西不曾以某种方式在相应的高层被预示。统而言之，任何属性若要出现，必已在其原因中以某种方式预先成形、预先存在。
+  - id: 15
+    kind: body
+    source: |-
+      As regards the very first principle of reality, conceived of as an entity that is beyond Being, transcending all physical reality, very little can actually be said, except that it is absolute Unity. However, we know empirically of its effect, the entire universe, and we must therefore suppose that the One is the carrier of, or rather identical with, a boundless sort of singular activity or energy. Since it is counterintuitive to suppose that the material universe leapt into being in its present form directly from this well-spring of energy, the question arises: what precisely is the first and primary outer activity of the inner activity of the One?
+    step1: |-
+      至于实在的最初本原，它被设想为一个超越存在、超越一切物理实在的实体，实际上除了说它是绝对的统一之外，几乎无话可说。然而，我们从经验中知道它的效果，即整个宇宙，因此我们必须假定，太一是某种无限单一的活力或能量的承载者，或者毋宁说与之同一。既然假定物质宇宙以其当前形态直接从这一能量源泉中跃出是反直觉的，问题便产生了：太一之内在活动的第一位的、首要的外在活动究竟是什么？
+    step2: |-
+      至于实在的第一本原，人们把它设想为超越存在、超越一切物理实在者，对此几乎无话可说，只能说它是绝对的一。然而，我们经验上确知其效果，即整个宇宙；因此必须设想，太一承载着——或者说等同于——某种无边无际的单一活动或能量。若以为物质宇宙以其现今形态直接从这股能量之源中跃出，未免反直觉；于是问题来了：太一内在活动的第一个、首要的外在活动，究竟是什么？
+  - id: 16
+    kind: body
+    source: |-
+      ## 3. Absolute Consciousness
+    step1: |-
+      ## 3 绝对意识
+    step2: |-
+      ## 3 绝对意识
+  - id: 17
+    kind: body
+    source: |-
+      In accordance with the Platonic-Aristotelian commitment to Mind over Matter the Neoplatonists’ answer to this question was that the outer activity and effect of the First must be *nous*, a difficult and ambiguous concept commonly translated as “Intellect”. It seems preferable to translate the term *nous* in an experientially more concrete and accessible way as pure and absolute “Consciousness”. According to Neoplatonic theory, Consciousness would not be some kind of emergent property of material constituents arranged in a certain way, but rather be the first effect of the activity of the One, the most supreme form of reality (since the One was posited to be beyond Being), a kind of pre-embodied power of cognition as such. Neoplatonists referred to Consciousness as the second “Hypostasis”, a term that would have a long and complex history as it acquired new and related meanings in Christian contexts. “Hypostasis” is an abstract noun derived from a verb meaning “to place oneself under or beneath”, with the connotation of “standing one’s ground”. The word “hypostasis” therefore denotes a distinct substantial being or realm of reality of a certain kind which, in the case of Consciousness, is the derivative outer activity of the first principle. The term could also be applied to the One as the “first hypostasis”, in which case the connotation of subordination would recede into the background.
+    step1: |-
+      依照柏拉图—亚里士多德对心胜于物的承诺，新柏拉图主义者对这一问题的回答是：第一者的外在活动与效果必定是 nous，一个困难而含混的概念，通常译作“智性”。似乎更可取的是，以一种在经验上更具体、更可接近的方式，把这个词译作纯粹而绝对的“意识”。按照新柏拉图主义理论，意识不会是某种由以特定方式排列的物质成分产生的涌现属性，而是太一活动的第一个效果、实在的最高形式（因为太一被设定为超越存在），是一种前具身的、作为如此的认知力量。新柏拉图主义者称意识为第二个“位格”（hypostasis），这个术语将有漫长而复杂的历史，因为它在基督教语境中获得了新的相关含义。“位格”是一个抽象名词，源自意为“把自己置于下面或之下”的动词，带有“站稳立场”的涵义。因此，“位格”一词指某种独特而实体的存在者或某一类实在领域；就意识而言，它就是第一本原派生的外在活动。这个词也可以用于太一，作为“第一位格”，此时从属的涵义便退居背景。
+    step2: |-
+      依照柏拉图—亚里士多德“心胜于物”的立场，新柏拉图主义者对这一问题的回答是：第一者的外在活动与效果必是 nous，一个艰深而多义的概念，通常译为“智性”。这里似乎不如译作纯粹而绝对的“意识”，因为这样更具体、更贴近经验。按新柏拉图主义理论，意识并非由物质成分以某种方式排列而产生的涌现属性，而是太一活动的第一效果，是实在的最高形态（太一既被设定为超越存在），是一种先于身体的、作为如此的认知力量。新柏拉图主义者称意识为第二个“位格”（hypostasis）。此词来历漫长而曲折，后来在基督教语境中又生出相关的新义。“位格”由意为“置于自身之下”的动词派生的抽象名词，含有“站定脚跟”之意；故“位格”指某种独特的实体存在者，或某一类实在领域——就意识而言，它便是第一本原派生的外在活动。此词亦可施于太一，称“第一位格”，只是此时从属之义退居幕后。
+  - id: 18
+    kind: body
+    source: |-
+      What, then, is the inner activity of Consciousness? The inherent task of consciousness is to understand, and understanding entails the cognition of causes. In trying to understand itself, Consciousness can only turn towards *its* origin and thus posit or behold the First as the transcendent principle of its own reality. As the Neoplatonists would put it, having emerged from the First, Consciousness “turns back” towards it in order to understand the pre-condition of its own existence. Becoming thus aware of another entity, the originary unity of Consciousness breaks up into duality, and with it emerge the categories of identity and difference, of greater and smaller, of number, of change and of rest. In fact, in a way not fully explained, or perhaps even explicable, the entire ideal world of Platonic forms and ideas emerges effortlessly in the course of Consciousness’ effort to understand itself.
+    step1: |-
+      那么，意识的内在活动是什么？意识的内在任务是理解，而理解包含对原因的认识。在试图理解自身时，意识只能转向它的来源，从而把第一者设定或观照为自己实在的超越本原。如新柏拉图主义者所说，意识既已从第一者产生，便“转回”向它，以理解自身存在的前提条件。意识的原初统一由此觉察到另一个实体，便分裂为二重性，随之出现同一与差异、大与小、数、变化与静止等范畴。事实上，以某种未被充分解释、或许甚至不可解释的方式，整个柏拉图形式与观念的理想世界，在意识努力理解自身的过程中毫不费力地涌现。
+    step2: |-
+      那么，意识的内在活动又是什么？意识生来要理解，而理解离不开对原因的认知。意识若要理解自身，便只能转向自己的来源，从而把第一者设定为、或观照为自己实在的超越本原。用新柏拉图主义者的话说，意识既出于第一者，便“回转”向它，以求把握自身存在的前提。这样一来，意识觉察到另一个实体，原初的统一遂裂为二重性；同一与差异、大与小、数、变化与静止等范畴，也随之而生。事实上，整个柏拉图式形式与观念的理知世界，就在意识力图理解自身的过程中不费力气地涌现——其方式至今未获充分解释，或许根本不可解释。
+  - id: 19
+    kind: body
+    source: |-
+      Before we move on to discuss the outer effect of this inner activity of Consciousness, we must correct the common assertion that what we are dealing with here is a process of “emanation”. To be sure, Consciousness (or Intellect) somehow emerges from the activity of the First, but calling this a process of emanation, with its obviously materialist connotations, is misleading. The Neoplatonists used the words “procession and return” (*prohodos* and *epistrophê*), which, as spatial metaphors, are not much better either. And even though the analogy oftentimes invoked in this context is that of light radiating out from the sun, this too does not do much to help us grasp the nature of the Neoplatonic theory of how Consciousness, and by implication the entire rest of reality, eternally emerges from the first cause. In essence, there is no process of generation or production; nothing material or spatial is happening; no agent exerts its influence on a patient. Although the Neoplatonists followed Platonic tradition in talking about a demiurge (divine craftsman), their cosmology has nothing demiurgic about it, as Plotinus rarely failed to point out. Craftsmen think, forge, labor, arrange, and coordinate a host of diverse technical operations towards the creation of some product of their craft. Unlike Plato’s character Timaeus or the authors of Genesis, Neoplatonic metaphysics has no room for such crude analogies. In the realm of Consciousness, the activity is one and constitutes itself as a multiplicity within that unity. In the identity of the activity of thought with its objects, the Neoplatonists contended, the ideal world of all forms and ideas came to be conceptualized. Here again, in an unintentional and effortless way, this inner active life of Consciousness produces further outer effect, the Soul.
+    step1: |-
+      在我们继续讨论意识这一内在活动的外在效果之前，必须先纠正一个常见的断言：我们在此处理的是一个“流溢”过程。诚然，意识（或智性）以某种方式从太一的活动产生，但把这一过程称为流溢——带有明显的唯物主义涵义——是误导性的。新柏拉图主义者使用“流溢与回返”（prohodos 与 epistrophê）这两个词，而作为空间隐喻，它们也好不了多少。即便在此语境中常被援引的类比是光从太阳辐射而出，这同样无助于我们把握新柏拉图主义理论的本性：意识、并由此整个其余实在，如何永恒地从第一原因中产生。本质上，并没有生成或生产的过程；没有任何物质的或空间的事情发生；没有施动者对受动者施加影响。尽管新柏拉图主义者遵循柏拉图传统谈论巨匠造物主，但他们的宇宙论毫无造物主意味，普罗提诺很少不指出这一点。工匠思考、锻造、劳作、安排并协调大量多样的技术操作，以创造其技艺的某种产品。与柏拉图笔下的蒂迈欧或《创世记》的作者不同，新柏拉图主义形而上学没有余地容纳这种粗陋的类比。在意识的领域中，活动是一，并在其统一性中把自身构成为多样性。新柏拉图主义者主张，在思想活动与其对象的同一性中，一切形式与观念的理想世界被概念化地产生。这里再一次，以一种无意的、毫不费力的方式，意识这种内在的能动生活产生了进一步的外在效果，即灵魂。
+    step2: |-
+      在转入意识这一内在活动的外在效果之前，须先纠正一种流行说法：以为我们在此面对的是一个“流溢”过程。意识（或智性）确乎以某种方式出于太一的活动，但称之为流溢——此词带有显明的唯物主义意味——则属误导。新柏拉图主义者用的是“流溢与回返”（prohodos 与 epistrophê）；这两个空间隐喻，其实也高明不到哪里去。即便常被援引的光自太阳射出的类比，也无助于我们把握其理论要旨：意识以及由之而来的整个其余实在，如何永恒地出于第一原因。究其本质，并无生成或生产的过程，不发生任何物质性、空间性的事情，也没有施动者作用于受动者。新柏拉图主义者虽沿柏拉图传统谈论“巨匠造物主”，其宇宙论却全无造物主气息——普罗提诺屡屡点明此点。工匠要思索、锻打、劳作、安排，协调诸多技艺操作，方能造出本行当的一件产品；柏拉图的蒂迈欧或《创世记》的作者可以如此设想，新柏拉图主义形而上学却容不下这等粗陋类比。在意识的领域里，活动是一，且在这统一之中把自身构成为多。新柏拉图主义者主张，正是在思想活动与其对象的同一之中，一切形式与观念的理知世界被概念地生成。也正是在这里，意识这种内在的能动生命，又以无意而省力的方式生出更进一步的外在效果——灵魂。
+  - id: 20
+    kind: body
+    source: |-
+      ## 4. Soul and Nature
+    step1: |-
+      ## 4 灵魂与自然
+    step2: |-
+      ## 4 灵魂与自然
+  - id: 21
+    kind: body
+    source: |-
+      According to the second law of thermodynamics, structural and dispositional diversities present in the inanimate material world converge towards irreversible entropy and disorder. In the biosphere, however, we witness a tendency to ever increasing diversification of natural kinds and species. From a Neoplatonic point of view, this latter fact is readily explained by the entirely non-Darwinian supposition of eternal Forms of natural kinds in the hypostasis of Consciousness which gradually emerge in the world, limited by space and time, in some sort of evolutionary organic process. As has already been pointed out, the Neoplatonists assumed as axiomatic that nothing could come to be here below that is not prefigured paradigmatically in the intelligible realm.
+    step1: |-
+      按照热力学第二定律，无生命物质世界中存在的结构与倾向的多样性，趋向于不可逆的熵与无序。然而在生物圈中，我们却看到自然种类与物种日益多样化的趋势。从新柏拉图主义的观点看，后一事实可以轻易地用如下完全非达尔文式的假定来解释：自然种类的永恒形式存在于意识的位格中，它们在某种进化性的有机过程中逐渐在世界中涌现，并受空间与时间的限制。如前所述，新柏拉图主义者把这一点当作公理：在此世之下出现的任何事物，都不可能不曾以范式的方式在可知领域中预先形成。
+    step2: |-
+      依热力学第二定律，无生命物质世界中的结构差异与倾向差异，终将归于不可逆的熵与无序。可是在生物圈里，我们看到的却是自然种类与物种日趋繁多的趋势。自新柏拉图主义的立场看，后一事实不难解释：只需假定自然种类的永恒形式存在于意识位格之中（这一假定全然不合达尔文），它们便在某种进化式的有机过程中逐渐现身于世界，并受时间与空间限制。前已言之，新柏拉图主义者奉为公理的一条是：凡在此世下方出现者，无不已以范式的方式在可知领域预先成形。
+  - id: 22
+    kind: body
+    source: |-
+      Although one might think that the phenomenon of evolution militates against Neoplatonic theory, it is actually compatible with it; to some degree, it is precisely what we should expect as the empirical upshot of such metaphysical assumptions. Moreover, in distinction to the Forms posited in the old Academy of Plato and his immediate successors, the Forms of the Neoplatonists, far from being mere schemata, definitions, or ghostly blueprints of the natural world, are rather noetic entities teeming with conscious life. They actively and dynamically interrelate in such a way as to constitute a living noetic cosmos; and it is their rich inner life, the conscious activity of thoughts that they are, which is ultimately responsible for the appearance of images of them in space and time to make up the physical universe and everything contained in it. But this is by no means easy to understand. How exactly can images of eternal and immutable Forms, prefigured in Consciousness as such, become manifest in, and in fact constitute, the material world?
+    step1: |-
+      尽管人们可能认为进化现象不利于新柏拉图主义理论，它实际上与之相容；在某种程度上，它正是这类形而上学假定在经验上的应有结果。此外，与柏拉图及其直接后继者旧学园所设定的形式不同，新柏拉图主义者的形式远非自然世界的单纯图式、定义或幽灵般的蓝图，而是充满意识生命的智性实体。它们主动而动态地相互关联，从而构成一个活的智性宇宙；正是它们丰富的内在生活——即作为思想的意识活动——最终使它们在空间与时间中的影像得以显现，从而构成物理宇宙及其中万物。但这绝不容易理解。永恒不变的形式的影像，如何在意识本身中被预先形成，又如何能在物质世界中显现，并实际上构成物质世界？
+    step2: |-
+      有人或许以为进化现象与新柏拉图主义理论相抵触，其实二者相容；在某种意义上，进化恰是这类形而上学假定在经验层面的应有之义。再者，与柏拉图及其直系门人主持的旧学园所设定的形式不同，新柏拉图主义者的形式绝非自然界的单纯图式、定义或幽灵般的蓝图，而是充盈着意识生命的智性实体。它们主动而动态地相互关联，构成一个活的智性宇宙；正是它们丰沛的内在生命——即作为思想的意识活动——最终使自身的影像在时空中显现，从而织成物理宇宙及其中万物。然而，这一点极难理解：永恒不变的形式之影像，既然已在意识本身中预先成形，又如何能显现于物质世界，甚至构成物质世界？
+  - id: 23
+    kind: body
+    source: |-
+      To understand and explain how precisely it is that mind and matter interact with one another in general is a considerable and perennial philosophical problem. Approaches to it that start from modern materialist assumptions have not yielded plausible answers any more readily than the Neoplatonists’ idealist perspective. Even though the Neoplatonists afforded it extensive treatment, they, unsurprisingly, have not satisfactorily explained it either. In a nutshell, the answer they gave has something to do with their fundamental understanding of the realm of the psychic. Plotinus in particular struggled in long and meandering treatises to explicate the precise functioning of the general phenomenon of what the ancients called “Soul” (*psychê*). Soul, a further hypostasis of being that effortlessly “falls out of” the inner activity of Consciousness in a similar way as Consciousness “fell out of” the First, is the link that facilitates the manifestation of form in matter. Their ingenious speculation about Soul, understood in its relationship to its cause (pure Consciousness) on the one hand and its effect (the emergence of the living material universe) on the other, lies at the heart of Neoplatonism. In a manner of speaking, Neoplatonism is nothing but a philosophy of the soul, or “psychology” in the original sense of that word.
+    step1: |-
+      要理解和解释心灵与物质一般而言如何相互作用，是一个重大而持久的哲学问题。从现代唯物主义假定出发的进路，并不比新柏拉图主义者的唯心论视角更容易给出可信的答案。尽管新柏拉图主义者对此作了广泛处理，他们同样未能令人满意地解释它，这并不奇怪。简言之，他们给出的答案与他们关于心理领域的根本理解有关。尤其是普罗提诺，在漫长而迂回的论著中竭力阐明古人所谓“灵魂”（psychê）这一普遍现象的确切运作方式。灵魂是存在的又一位格，它以类似于意识从太一中“产生”的方式，毫不费力地从意识的内在活动中“产生”；它是使形式在物质中显现的纽带。他们对灵魂的巧妙思辨——既在其与原因（纯粹意识）的关系中理解它，也在其与效果（活的物质宇宙的涌现）的关系中理解它——正是新柏拉图主义的核心。可以说，新柏拉图主义无非是一种灵魂的哲学，或该词原初意义上的“心理学”。
+    step2: |-
+      心灵与物质究竟如何相互作用，是一个重大而旷日持久的哲学难题。从现代唯物主义前提出发的进路，并不比新柏拉图主义者的唯心论视角更易给出可信答案。新柏拉图主义者对此讨论甚多，却同样未能给出圆满解释——这并不出人意料。简言之，他们的答案与他们对心理领域的根本理解有关。普罗提诺尤其如此：他在冗长迂回的论著中，苦心阐明古人所谓“灵魂”（psychê）这一普遍现象究竟如何运作。灵魂是存在的又一位格，它自意识的内在活动中不费力地“生出”，其情形一如意识自太一中“生出”；正是它充当纽带，使形式得以在物质中显现。新柏拉图主义的命脉，就在他们对灵魂的巧妙思辨：一方面把灵魂与其原因（纯粹意识）联系起来，另一方面把它与其效果（活的物质宇宙之涌现）联系起来。不妨说，新柏拉图主义就是一门灵魂哲学，或该词原初意义上的“心理学”。
+  - id: 24
+    kind: body
+    source: |-
+      In living beings, and human beings in particular, consciousness is but one psychic activity among others. The realm of the psychic extends in a continuum from the loftiest processes of knowing, memory, and imagination down to the most rudimentary forms and expressions of life that characterize the world’s biosphere (natural processes of metabolism, growth, etc.). Many influential ancient thinkers, both philosophers and poets, regarded the universe as a living being, not only in its parts but also and especially as whole. In the *Timaeus*, Plato had described in detail the structure and function of the world soul, and had recounted the way in which it was put together by a divine craftsman (demiurge) and conjoined with the realm of disorderly matter, upon which it controlled and imposed order. Plotinus and his followers had a quite different view. There is no planning on account of anyone, no “construction” of one metaphysical entity by another; instead, soul, that is to say the general phenomenon of life capable of animating matter, is merely the manifest outer aspect of the inner activity of Consciousness.
+    step1: |-
+      在生物、尤其是人身上，意识只是诸心理活动之一。心理领域在一个连续统中延伸，从认识、记忆与想象的最高过程，直到表征世界生物圈的最基本生命形式与表现（新陈代谢、生长等自然过程）。许多有影响的古代思想家，无论哲学家还是诗人，都把宇宙视为一个活的存在者，不仅在其各部分，尤其作为整体如此。在《蒂迈欧篇》中，柏拉图详细描述了世界灵魂的结构与功能，并叙述了它如何由一位巨匠造物主组合而成，与无序物质的领域相结合，并对其加以控制、施加秩序。普罗提诺及其追随者的看法颇为不同。没有任何人的筹划，没有一个形而上学实体对另一个的“建造”；相反，灵魂——即能够赋予物质以生命的普遍生命现象——仅仅是意识内在活动的外在显现方面。
+    step2: |-
+      在生物身上，尤其在人身上，意识不过是诸种心理活动之一。心理领域构成一个连续统：上自认识、记忆与想象的最高过程，下至表征地球生物圈的最基本生命形态与表现（新陈代谢、生长等自然过程）。古代许多有影响的思想家，无论哲人还是诗人，都把宇宙看作一个活的存在者——不仅各部分如此，尤其整体如此。柏拉图在《蒂迈欧篇》中详述世界灵魂的结构与功能，讲它如何由巨匠造物主拼合而成，如何与无序的物质领域结合，并对其加以控制、赋予秩序。普罗提诺一派的看法大不相同：这里没有谁的筹划，也没有一个形而上学实体对另一个的“建造”；灵魂——即那种能赋予物质以生命的普遍生命现象——只是意识内在活动的外在显现而已。
+  - id: 25
+    kind: body
+    source: |-
+      The general idea is that Soul, *qua* outer activity of Consciousness, looks back at *its* cause in order to understand itself so as to truly be what it is. Gazing thus at the forms and ideas eternally present in Consciousness, it becomes “informed” by them and carries forward, by some manner of benevolent necessity, images of the eternal forms into the lower realm of Being. Giving birth to the entire universe and the biosphere on earth in this way, one could say that the sum total of the corporeal, sensible world rests in Soul, not the other way round, that soul resides in the bodies it animates.
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      According to Neoplatonic theory, then, the world as we know and experience it in its formal and structural characteristics is the outer effect of the activity and life of Consciousness, an activity that was thought to be mediated “from above” by another, intermediate metaphysical entity, Soul. The precise ontological status of Soul as another hypostasis in its own right remains somewhat underdetermined, for in a manner of speaking Soul is the very process of expressing the intelligible world in the derivative form of sensible natural living beings and the lives they live.
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      The Neoplatonists drew a distinction between “Soul” and “Nature” (*phusis*) that amounts to a hierarchical separation of higher and lower psychical functions. For the Neoplatonists, “Nature” denotes not only the essence or nature of each natural being or the entirety of the natural world (Nature as a whole), but also, and in the first instance, a lower aspect of conscious life (the “autonomic” life activities that are not consciously controlled by the individual animal’s consciousness) which beholds, in a kind of diminished vision, relevant aspects of the intelligible world and brings them forth in an act of silent contemplation. Thus, every aspect of the natural world, even the meanest piece of inorganic and apparently useless matter, has an eternal and divine moment. For all the other-worldliness often associated with Neoplatonic philosophy, then, it needs to be emphasized that the material world they inhabited was for this reason an essentially good and beautiful place, the effortless product of cosmic providence and divine power, and worthy of reverence.
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      ## 5. Matter
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      Without light, it would not make any sense to speak of darkness. In fact, there would be no such thing as darkness, since darkness is, if it is anything, light’s absence and opposite. In the same way as darkness is a by-product of light, so matter, the Neoplatonists reasoned, is nothing but a by-product of the dynamic emanation of the First. In fact, it is the limit at which the energy transmitted in the chain of inner and outer activities at the various levels of reality exhausts itself and comes to an end. Just as darkness has no capacity to make itself visible, in the same way matter no longer has any inner activity that could give rise to a further outer activity. As such, it is merely passive, and the eternal process of consecutive production of ever lower levels of reality necessarily comes to an end. But importantly for us, it is the realm at which the activity of Soul informed by Consciousness becomes phenomenal and perceptible. It would be wrong to say that matter does not exist at all, or is a nothing. According to this theory, at any rate, matter exists, but not as a separate ontological principle distinct from the One with effects of its own. Rather, it is a fringe phenomenon of the life of the soul, a by-product of the activity of higher realms of Being. As such, it is no thing, an entirely immaterial and formless non-entity. This Plotinian doctrine was destined to raise controversy among later Neoplatonists, when it was proposed that matter should at the very least have the property of undefined three-dimensionality.
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      An even more controversial doctrine connected to matter was the explanation of evil. Plotinus had tried to uphold the view, consistent with his entire ontology, that at no point in the great chain of Being coming from above does anything emerge that could be regarded as evil, or the cause of evil. Nevertheless, evil, and in particular moral evil, is obviously part of our experience of the world, and an explanation had to be given as to where it originated. Plotinus’ answer was that evil arises from below, not above, and is intimately connected with matter. Yet importantly, matter is not an independent principle of evil in any Manichean or Gnostic sense, as it has no active power on its own. Rather, evil arises if and when higher beings, and in particular human beings, direct their attention towards the material world below, instead of the intelligible world above, and have an all-encompassing concern for *it*. The regard downwards, as it were, rather than upwards towards Consciousness and the divine essences, is what contaminates the soul and renders it morally evil. Even though it is surprising how much explanatory force for the nature and existence of moral evil this theory affords, it remained controversial even among Neoplatonists. Proclus, in the fifth century, dedicated an entire treatise to repudiating Plotinus on this point. Proclus abandoned the comforting notion of the essential goodness of humanity and, not unlike Augustine before him, insisted on the real possibility of the moral depravity of the human soul *qua* soul.
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      ## 6. Ethics
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      As human beings we are, with our bodies, part of the material world; but importantly, we are living organisms that can place ourselves in opposition to the needs and concerns of the body and reflect upon our own condition. Nothing just material would be able do that, according to the Neoplatonists, and therefore we have what the ancients called a “soul”. Moreover, our souls operate on a level of consciousness and intelligence that surpasses the cognition of all other creatures. Finally, just as everything else that has being, we are individual units and participate, again, as the Neoplatonists would express it, in the form of Unity.
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      Looked at from this point of view, human existence is a striking representation of the cosmos as a whole, a microcosm in which all levels of being (Unity, Consciousness, Soul, Nature, Matter) are combined into one organic individual. The Neoplatonists took this to be a clear indication that we, just like the entire cosmic edifice, “came from above”. A human being is therefore in the first instance not a social or political being, but a divine being, and life’s purpose was seen not so much in the exercise and rehearsal of the traditional virtues that give meaning and quality to our interaction with others, but in seeking “to bring back the god in us to the divine in the All”, as Plotinus pressed upon his followers on the very point of his death (Porphyry, *Life of Plotinus* 2).
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      Neoplatonic ethics recognizes the social importance and value of the so-called cardinal virtues (justice, prudence, temperance, and courage), but the virtues’ main function lies in purifying and preparing us for a much more momentous individual relationship, that with divine Consciousness and, ultimately, the first principle itself. Necessarily, then, the moral precepts of the Neoplatonists concern the individual person, the goal being not the mundane fulfillment of life within the bounds of what is humanly possible, but nothing less than *eudaimonia* in its most expansive sense, deification. Unsurprisingly, the route to salvation turned out to be the philosophic life, a sincere and arduous effort of the mind to return to the One and forever abrogate any concerns for the body. It was on this basis that the Neoplatonists would most vehemently protest against the latter-day Christian dogma that human salvation has already been accomplished vicariously through the life and death of a man revered as the son of god.
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      ## 7. Later Developments in Antiquity
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      At a time when the considered wisdom of Greece and Rome came under increasing pressure to re-articulate its commitments in the face of waves of novel movements that lay claim to revelatory truth, the Neoplatonists too strove to refine their teachings and to delineate the metaphysical architecture of the world as they saw it. No longer would it suffice to hold forth on philosophical issues, as Plato, Cicero, and to some extent Plotinus had done, in a serious yet exploratory and protreptic spirit. In order to be heard in an increasingly competitive marketplace of ideas teeming with holy men of every kind and temperament, views had to be laid out clearly and in systematic fashion. In some of its later manifestations, like Stoicism and Epicureanism before it, Neoplatonism drifted towards scholasticism and reveled in dogmatic system building.
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      Along the way, all kinds of refinements and modifications of nomenclature were introduced. Distinctions were drawn up within the hypostases of Consciousness and Soul in order to try to articulate the transitions from one level of Being to another. An entire industry of teaching and commenting sprang up to interpret a millennium of Hellenic philosophy in the light of the core commitments of Neoplatonism. Certain philosophic predecessors were elevated to the status of nearly infallible authorities, and the texts of Plato and Aristotle were comprehensively read, diligently analyzed, and ruthlessly harmonized. Finally, in an effort to stem the rising tide of all kinds of new salvation-peddling cults then inundating the Roman Empire, the ancient religious traditions of the Greeks and especially the Egyptians were brought into the fold and given new significance and meaning. But after the untimely death of Emperor Julian (363), a Neoplatonist himself, none of these efforts could any longer withstand the tidal wave of Christendom.
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      The most vigorous group of Neoplatonists, living in Athens and still adhering to the old rituals, disbanded in the aftermath of Emperor Justinian’s legislation of 529, which resulted in the closing of the Platonist academy. Hellenic philosophy and the teaching of its attendant disciplines went on in Alexandria and Constantinople until the end of the 6ᵗʰ century, but were now being taught by people who had either embraced or otherwise come to terms with the new religion. The Arab conquest in the 7ᵗʰ century obliterated and appropriated in equal measure, but the real revival of Neoplatonism occurred when humanists made the treasures of late antique Greece available to the Renaissance intelligentsia of Italy, France, and Germany.
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      ## 8. Influence
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      It is an undeniable fact, although nowadays rarely acknowledged, that the general outlook and the principal doctrines of the Neoplatonists proved exceedingly influential throughout the entire history of western philosophy. Through Augustine (354–430) in the West and the 4ᵗʰ-century Cappadocian Fathers (Basil, Gregory of Nyssa, Gregory of Nazianzus) in the East as well as the pseudo-epigraphic writings of Dionysius the Areopagite (early 6ᵗʰ century), Neoplatonism profoundly influenced the emergence of mainstream and not so mainstream Christian theology (John Scotus Eriugena, Thomas Aquinas, Duns Scotus, Meister Eckhart). In addition, by way of a pseudo-epigraphical treatise entitled *Theology of Aristotle*, Neoplatonic thought facilitated the integration of ancient philosophy and science into both Islam (especially through Al-Kindi, Al-Farabi and Avicenna [Ibn Sina]) and Judaism (Maimonides).
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      During the Renaissance, ancient Greek learning, and Neoplatonism in particular, experienced a dramatic revival in the West in the wake of the work of Gemistus Plethon (1355–1452), Bessarion (1403–1472) and, above all, Marsilio Ficino (1433–1499), whose translation and interpretation of Plato and Plotinus in the second half of the 15ᵗʰ century influenced not only the philosophy, but also the art and literature of the period. It may even be true to say that even more than the writings of Plato and Aristotle themselves Neoplatonic ideas have continued to influence Western thinkers of the idealist persuasion, such as the Cambridge Platonists (who were really Neoplatonists), Leibniz, Hegel, Schelling, Fichte, Bergson and Teilhard de Chardin, to name but a few.
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      The history of Neoplatonism until the present day is much too diverse and complex to be done justice to in an introductory article such as this. In spite of the ubiquity of proponents of this developed form of Platonism in all historical periods of western philosophy since late antiquity, today Neoplatonism has acquired the reputation of being speculative and abstract to a fault. Modern philosophical commitments to empiricism, logical positivism, and the analysis of language have not helped much to arrive at a judicious evaluation of the movement, its strengths and its weaknesses, and the dramatic scientific discoveries of contemporary bottom-up materialism tend to deter students from even attempting to find their way into the world of Neoplatonism. Perhaps another reason that this kind of thinking strikes the general public as arcane and alien may be that the Abrahamic religions, even if they too posit a single divine principle as the source of all being, conceive of this principle as a person and maker. This vestige of pre-philosophical anthropomorphism bypasses the difficult questions that the last pagan thinkers so arduously struggled to answer when they sought to explain the existence of the diverse and complex physical world from a non-material principle that they assumed to be nothing but One.
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: oir
+    source: |-
+      - [Enneads](http://classics.mit.edu/Plotinus/enneads.html), translated by Stephen Mackenna and B. S. Page.
+      - [Porphyry's *Isagoge*](http://www.tertullian.org/fathers/porphyry_isagogue_02_translation.htm), translated by Octavius Freire Owen, hosted at The Tertulian Project.
+    step1: TBD
+    step2: TBD

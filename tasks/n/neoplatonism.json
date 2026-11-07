@@ -1,0 +1,22 @@
+{
+  "slug": "neoplatonism",
+  "kind": "retranslate",
+  "zh_doc": "n/neoplatonism.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T02:03:14Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-07T02:03:14Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 11, 2016",
+    "archive_edition": "Winter 2021",
+    "sha256": "3c14b7ead18a03b4e1fdd16c6ce52b4f8a6ee3c3724d0cdf0e2c27d3560041b3"
+  }
+}

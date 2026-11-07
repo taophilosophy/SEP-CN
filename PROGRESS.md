@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-07 06:44（UTC）
+生成时间：2026-11-07 07:10（UTC）
 
 ## 总览
 
@@ -15,15 +15,15 @@
 |已建任务|1023|
 |例行/维护任务（不计状态机）|2|
 |已完成（done）|165|
-|在途（drafted 起、done 前）|240|
+|在途（drafted 起、done 前）|242|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|618|
-|cleared|168|
+|pending|616|
+|cleared|170|
 |drafted|3|
 |s3_checked|69|
 |done|165|
@@ -141,6 +141,7 @@
 |butler-moral|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |byzantine-philosophy|retranslate|cleared|task_ops 2026-11-01|
 |cambridge-platonists|retranslate|s3_checked|主代理 2026-11-01|
+|cancer|retranslate|cleared|task_ops 2026-11-07|
 |carneades|retranslate|s3_checked|主代理 2026-11-01|
 |cassirer|retranslate|s3_checked|主代理 2026-11-01|
 |causation-medieval|retranslate|s3_checked|CD-main-20261106 2026-11-06|
@@ -152,6 +153,7 @@
 |cloning|retranslate|s3_checked|CD-main-20261106 2026-11-06|
 |cognitive-science|retranslate|s3_checked|主代理 2026-11-01|
 |collingwood-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
+|colonialism|retranslate|cleared|task_ops 2026-11-07|
 |computability|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |computing-history|retranslate|s3_checked|主代理 2026-11-01|
 |concept-emotion-india|retranslate|s3_checked|主代理 2026-11-01|
