@@ -2,7 +2,7 @@
   "slug": "moral-demands-permissions",
   "kind": "retranslate",
   "zh_doc": "m/moral-demands-permissions.md",
-  "state": "drafted",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,13 @@
       "actor": "LMN-main-20261108c",
       "at": "2026-11-07T21:37:16Z",
       "evidence": "compose 63 段 step2 装配落盘（md 220 行），逐段正则核验 step2 全部在稿，账本双版齐（step1/step2 63/63，54 段润色）；接管会话核验前任 LMN-main-20261108b 在途件后推进"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LMN-main-20261108",
+      "at": "2026-11-07T23:19:50Z",
+      "evidence": "逐段核销：五维一致 markers 67=67 defs 67=67 段 56=56 节 8=8；相关词条 7 项逐一对 SUMMARY 主行核verified（未落 map_related 歧义坑）；人名正文保持拉丁文；biblio_audit flagged 空；scan_mix 混杂残留 0；OIR 仅建议行与源一致；注记引用形态照录"
     }
   ],
   "blockers": [],
