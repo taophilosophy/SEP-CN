@@ -2,7 +2,7 @@
   "slug": "william-jevons",
   "kind": "retranslate",
   "zh_doc": "w/william-jevons.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-07T08:47:13Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-07T15:10:17Z",
+      "evidence": "账本 38 段（body37+oir1）双版填毕，lq.py check HARD=0（软旗=机械标题/oir 段与段28 斜体转书名号），compose 19689 字符；相关词条 De Morgan 不在 SUMMARY/catalog，改登记册正形待挂链"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-07T15:10:17Z",
+      "evidence": "对照核销：节标题 13:13；正文脚注标记 16:16 顺序一致；文献定义 56:56 键集全等；正文 30 内容块对位（yuanwen byline 系统性豁免，作者信息在 H1 括注）；相关词条 2 项（Boole 用 SUMMARY 定名乔治·布尔；De Morgan 保留中文名待挂链）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-07T15:13:41Z",
+      "evidence": "语言校：check_prose 14→1（实修 13：de-chain 11、长句拆分 2、被字句 1；豁免 1 为 Black & Könekamp 1972 引文内密度，ADR-0020 引文豁免）；check_style --strict 0 issue"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-07T15:13:43Z",
+      "evidence": "体例校：check_style 0 issue、check_academic --strict 0 硬错误、check_math 0/0/0、check_terms 硬错误 0（词汇表滞后 4 系既有）、check_all 七项全绿；术语 36 行/人名 13 行入册（bisect 插入、先查后登）；单会话作业冷置后走复审波 r1-r3"
     }
   ],
   "blockers": [],
