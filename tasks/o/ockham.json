@@ -2,7 +2,7 @@
   "slug": "ockham",
   "kind": "retranslate",
   "zh_doc": "o/ockham.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "direction",
@@ -17,6 +17,34 @@
       "actor": "task_ops",
       "at": "2026-11-07T09:39:23Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "OR-main-20261107",
+      "at": "2026-11-07T20:04:43Z",
+      "evidence": "双版账本 175 段（正文 123 + 脚注 50 + OIR 1 + 致谢 1）分五批落盘并逐批提交；lq check 守恒 HARD=0（两次 HARD 拦截均按规则修复：段34 正文行尾「supposition[^note-12]:」被误判为定义行、段37/96 的 ** 计数漂移）；compose 48659 字符；postfix 补 H1 截断（summary_title 遇 Ockham \\[Occam\\ 未闭合方括号截断）、相关词条 4 处校正（类比理论→未来偶然性、universals 未匹配→中世纪的「普遍性」问题等）、OIR 中文标题去斜、列表 * 化 34 行；italic_to_bold_cjk 转 30 行；批参数登记账本 params 段（GLM-5.3-Flash 主会话直译，temp 0.2）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "OR-main-20261107",
+      "at": "2026-11-07T20:07:43Z",
+      "evidence": "一校（准确性）逐段回原文核校 175 段全覆盖。结构：标题集 23 节与源一一对应（zh 36 vs 源 37，差额为 compose 将源「Notes（原文脚注）」+「Notes to William of Ockham」合为「脚注」一节，正常）；脚注定义 180 与源逐键一致（多/缺集皆空），引用 1 处差异为 References 节首转换器契约注记字面 [^key]（源同构，机检现制豁免）；正文连续英文残留 5 处均为拉丁文献名（metabasis、Epistola ad Fratres Minores 等，照录合规）。事实核验：年代数字 1287/1288、1310/二十三岁、1317、1318–19、1321、1323、1324、1327、1328 5/26 与 6/6、1347 4/9-10 全部对源；专名 Fido/Rover/Bowser、16ᵃ3–8、马太福音 6:24–34 等编号照录。修 3 处：(1) seg6 probably 误弱化为「约」→「很可能」；(2) seg8「In any event」误译「可以确定的是」→「无论如何」（语义反转，Major）；(3) seg23 引文译者方括号补词 [knowledge] 被意译消解 → 恢复「更完整的[知识]」。引文 4 处译者标注（Translation by Spade/Kilcullen）与源 4/4 一致，emphasis added、省略号皆保留。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "OR-main-20261107",
+      "at": "2026-11-07T20:09:03Z",
+      "evidence": "二校（语言，反欧化）check_prose 33 处告警 → 0，分三轮修（s2_ockham.py 33 条 + s2_ockham_p2.py 7 条 + 1 条收尾），均只动账本 step2 后经 compose 重生成，账本与成稿同源不分叉。分类：de-chain 20（以「之/所/者」破「的」链，如「所定义词项」「首要意谓者」「多所发挥」）、long-sentence 10（长句拆分：段8/40/42/51/59/86/87/103/111/119）、passive-bei 1（「被量化/被关联/被安置」→「有其数量/关联/位置」）、as-one 1（「作为一个种相」→「化为一个种相」）、plural-men 1（「哲学家们」→「哲学家」）、weak-verb 1（「作出发挥」→「多所发挥」）。未改语义与标记。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "OR-main-20261107",
+      "at": "2026-11-07T20:31:24Z",
+      "evidence": "三校（体例与术语）：check_style --strict 0 issue（曾 289 curly-quotes + 4 italic-cjk，账本层 ASCII 直引号批量转弯引号 149 值块、提及语单引号改双引号避开转写撇号掩码、列表行 CJK 斜体转粗、bold-spacing 补空格）；markdownlint 0（MD004 列表 * 化 34 行）；check_academic --strict 硬错误 0；check_terms 硬错误 0；check_math unbalanced 空；check_summary --headers H1 mismatch 0。术语逐项对照登记册 19 项均一致无混杂（唯名论11/共相17/指代31/意谓60/含蓄词项18/绝对词项11/种相14/自由论题6/逻辑大全11/直观认识13/抽象认识11/神命论2/使徒贫困2/精神权力6/世俗权力7/托钵4/住院派2/属灵派1，与源文出现次数对位）；补登记 3 个派生术语（首要/次生意谓、下降到单称/从单称上升、supposit for）——先登记后使用。结构：脚注键与 yuanwen 逐字符一致（180 定义）。"
     }
   ],
   "blockers": [],

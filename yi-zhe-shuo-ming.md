@@ -57,6 +57,7 @@
 | body schema | — | 身体图式 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | bodyguard hypothesis | — | 保镖假设 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Bohr-Einstein frequency condition | — | 玻尔—爱因斯坦频率条件 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| Boniform Faculty | — | 善形官能 | cambridge-platonists 首译 | 莫尔自铸术语（bonum 善 + forma 形，领会“善”的特殊官能）；直译，学界暂无通行汉译 | 2026-11-08 |
 | bounded rationality | — | 有限理性 | moral-responsibility-empirical | 西蒙术语通行汉译 | 2026-11-07 |
 | business condition | — | 关己条件 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | cardinal virtues | — | 四枢德 | neoplatonism | 经院哲学与伦理学通行（正义、审慎、节制、勇敢） | 2026-11-07 |
@@ -186,6 +187,7 @@
 | Horned Man argument | — | 有角人论证 | dialectical-school | 学界通行（狄奥多罗斯悖论）；凭证 2026-11-07 | 2026-11-07 |
 | huaisheng weisi | 懷生畏死 | 怀生畏死 | dai-zhen | 上游自带汉字；戴震术语（珍惜生命而惧怕死亡）；凭证 2026-11-07 | 2026-11-07 |
 | Hungarian Uprising | — | 匈牙利起义 | 语料回收（lakatos 首译） | 史学界通行译法（1956）；凭证 2026-11-06 | 2026-11-06 |
+| Hylarchic Principle | — | 质料统辖原则 | cambridge-platonists 首译 | 莫尔术语（hylē 质料 + archē 统辖，直译）；与 18thGerman-preKant 所登记 material principles（质料原则）异名异实，勿混用 | 2026-11-08 |
 | hypocrisy | — | 伪善 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Hypothetical Reasoning | — | 假说推理 | 语料回收（标题词） | 学界惯例（皮尔士溯因语境（abduction 词条））；凭证 2026-11-01 | 2026-11-01 |
 | idea of being | — | 存在观念 | antonio-rosmini | 罗斯米尼核心术语（idea dell'essere） | 2026-11-07 |
@@ -2286,3 +2288,6 @@
 | void | — | 虚空 | crescas | 学界通行；凭证 2026-11-08 | 2026-11-08 |
 | place (topos) | — | 位置 | crescas | 学界通行（亚里士多德自然哲学范畴）；凭证 2026-11-08 | 2026-11-08 |
 | Urim and Tumim | — | 乌陵与土明 | crescas | 学界通行（大祭司求问器具，《圣经》译名）；凭证 2026-11-08 | 2026-11-08 |
+| primary signification / secondary signification | — | 首要意谓／次生意谓 | ockham | 《逻辑大全》I, 33 四分意谓之前两种合称 primary；沿本册 signification=意谓派生；凭证 2026-11-07 | 2026-11-07 |
+| descent to singulars / ascent from singulars | — | 下降到单称／从单称上升 | ockham | 中世纪指代理论（suppositio confuse distributiva）核心机制；学界通行译法；凭证 2026-11-07 | 2026-11-07 |
+| supposit for | — | 指代（某物） | ockham | 沿本册 supposition=指代派生；学界惯例；凭证 2026-11-07 | 2026-11-07 |
