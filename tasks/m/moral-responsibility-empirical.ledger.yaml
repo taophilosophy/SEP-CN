@@ -251,122 +251,162 @@ segments:
     kind: body
     source: |-
       Philosophers frequently assert that addiction is a paradigmatic real-world case in which individuals fail to meet the control condition for moral responsibility. But the empirical literature is far more tentative and unsure. Claims that addiction involves impaired control face serious challenges, and theorists have struggled to specify in detail the nature of the supposed control impairments. But claims that addiction does not involve impaired control also face serious difficulties. Work on the issue is ongoing, but meanwhile questions of moral responsibility for individuals with addiction hang in the balance. Whether and to what degree individuals with addiction are morally responsible depend importantly on exactly how the empirical cards get settled.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      哲学家们常常断言，成瘾是一个典型的现实案例，其中个体未能满足道德责任的控制条件。但经验文献远为犹疑与不确定。关于成瘾涉及受损控制的主张面临严重挑战，理论家们一直难以详细说明所谓控制受损的性质。但关于成瘾不涉及受损控制的主张也面临严重困难。相关工作仍在进行，而与此同时，成瘾者的道德责任问题悬而未决。成瘾者在道德上是否负有责任、在何种程度上负有责任，很大程度上取决于经验上的牌究竟如何落定。
+    step2: |-
+      哲学家常断言：成瘾是现实世界中一个典型情形，其中个体未能满足道德责任的控制条件。然而经验文献要犹疑得多、远不那么确定。说成瘾涉及受损控制，面临严重挑战，理论家也难以细说所谓控制受损究竟是何性质；说成瘾不涉及受损控制，同样面临严重困难。相关研究仍在进行，成瘾者的道德责任问题眼下悬而未决——他们是否负有道德责任、负有多大责任，很大程度上取决于经验证据最终如何落定。
   - id: 32
     kind: body
     source: |-
       ## 2. Responsibility for Spontaneous Conduct
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 自发行为的责任
+    step2: |-
+      ## 2 自发行为的责任
   - id: 33
     kind: body
     source: |-
       Suppose a person does something morally criticizable. They deliberate carefully. They reflect on and endorse their relevant (morally flawed) motives. They form a judgment about what to do and follow through on it. Putting global forms of skepticism aside, assessing moral responsibility is relatively straightforward in cases like these, and most theories deliver similar verdicts. Assuming no defeaters are present, the person is morally responsible for their morally criticizable actions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      假设一个人做了某件在道德上可批评的事。他们仔细慎思。他们反思并认可自己相关的（道德上有缺陷的）动机。他们形成关于该做什么的判断并付诸实行。撇开全局形式的怀疑论不谈，在这类情形中评估道德责任相对直接，多数理论给出相似的裁决。假定不存在排除条件，该人对其可受道德批评的行动负有道德责任。
+    step2: |-
+      设想某人做了件在道德上可受批评的事：他仔细慎思，反思并认可自己相关的（道德上有缺陷的）动机，形成该做什么的判断，然后照做。若不谈全局性的怀疑论，这类情形中的责任评估相对直截，多数理论给出的判断也大同小异：只要没有排除因素，此人便对其可受道德批评的行动负有道德责任。
   - id: 34
     kind: body
     source: |-
       But many of our actions, in fact most, do not arise from deliberation; they arise spontaneously and unreflectively. A number of authors, including George Sher, Tim Scanlon, Angela Smith, and Santiago Amaya have pointed out that we can be morally responsible for various kinds of spontaneous conduct, including how we direct attention, what we notice and fail to notice, what we remember and forget, what we dwell on or ignore, our spur-of-the-moment actions (e.g., blurting something out), our momentary slips or lapses, our unwitting omissions, and so forth (Sher 2006, 2009; Scanlon 1998; A. Smith 2005, 2008; Amaya 2013; Amaya & Doris 2015; Nelkin & Rickless 2017)[^amaya-2013][^amaya-2015][^nelkin-2017][^scanlon-1998][^sher-2006][^smith-2005].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但我们的许多行动、事实上是大多数行动，并非出自慎思；它们自发地、不加反思地产生。若干作者——包括 George Sher、Tim Scanlon、Angela Smith 与 Santiago Amaya——指出，我们可以对各种自发行为负有道德责任，包括我们如何引导注意力、我们注意到什么与未注意到什么、我们记得什么与忘记什么、我们咀嚼或忽略什么、我们一时冲动的行动（例如脱口而出）、我们瞬间的失手或失误、我们不知不觉的遗漏，等等 (Sher 2006, 2009; Scanlon 1998; A. Smith 2005, 2008; Amaya 2013; Amaya & Doris 2015; Nelkin & Rickless 2017)[^amaya-2013][^amaya-2015][^nelkin-2017][^scanlon-1998][^sher-2006][^smith-2005]。
+    step2: |-
+      可我们的许多行动——其实是大多数——并不出自慎思，而是自发地、不加反思地发生。George Sher、Tim Scanlon、Angela Smith、Santiago Amaya 等一批作者都指出：我们可以对形形色色的自发行为负责，比如注意力如何引导、我们注意到什么又漏掉什么、记得什么又忘掉什么、反复琢磨什么又置之不理、一时冲动的举动（例如脱口而出）、瞬间的失手或疏忽、不自觉的遗漏，等等 (Sher 2006, 2009; Scanlon 1998; A. Smith 2005, 2008; Amaya 2013; Amaya & Doris 2015; Nelkin & Rickless 2017)[^amaya-2013][^amaya-2015][^nelkin-2017][^scanlon-1998][^sher-2006][^smith-2005]。
   - id: 35
     kind: body
     source: |-
       ### 2.1 A Case of Forgetting
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 一个遗忘的案例
+    step2: |-
+      ### 2.1 一个遗忘的案例
   - id: 36
     kind: body
     source: |-
       To make matters more concrete, consider a case from Samuel Murray and Manuel Vargas that they call “Bourbon.”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为使问题更具体，考虑 Samuel Murray 与 Manuel Vargas 提供的一个他们称为“波本”的案例。
+    step2: |-
+      为使讨论更具体，来看 Samuel Murray 与 Manuel Vargas 举的一个案例，他们称之为“波本”。
   - id: 37
     kind: body
     source: |-
       As Randy is about to leave his home for the office, Al calls to tell him that they are out of bourbon. His regular route to the office takes him right by a liquor store, and Randy tells Al he’ll buy some. Between his home and the liquor store, Randy starts thinking about a paper he is writing on omissions. He continues thinking about his work until he arrives at the department, where he realizes that he has forgotten the bourbon. (Murray & Vargas 2020, p. 826)[^murray-2020]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Randy 正要离家去办公室时，Al 打电话告诉他，他们的波本威士忌喝完了。Randy 去办公室的惯常路线正好经过一家酒类商店，Randy 告诉 Al 他会去买一些。在从家到酒类商店之间，Randy 开始想一篇他正在写的关于遗漏的论文。他一路想着工作，直到抵达系里，才意识到自己忘了买波本。
+    step2: |-
+      Randy 正要出门去办公室，Al 打来电话说他们的波本威士忌喝光了。Randy 上班常走的那条路正好经过一家酒铺，他便答应 Al 顺路买些。从家到酒铺这段路上，Randy 开始琢磨自己正在写的一篇关于遗漏的论文；他一路想着工作，直到进了系里，才发觉自己忘了买波本 (Murray & Vargas 2020, p. 826)[^murray-2020]。
   - id: 38
     kind: body
     source: |-
       Randy did not step back, reflect, and then deliberately violate his promise to bring the bourbon. Yet he is, it seems, morally responsible for what he did, or in this case, what he failed to do (Nelkin & Rickless 2017; Clarke 2014; Amaya & Doris 2015; Murray & Vargas 2020)[^amaya-2015][^clarke-2014][^murray-2020][^nelkin-2017]. Notice that it seems appropriate for Randy to apologize to Al, and that he might perhaps be forgiven, which further support this impression.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Randy 并没有退后一步、反思，然后故意违背带波本威士忌的承诺。然而看来，他对自己所做的、或在此情形中未能做到的，负有道德责任 (Nelkin & Rickless 2017; Clarke 2014; Amaya & Doris 2015; Murray & Vargas 2020)[^amaya-2015][^clarke-2014][^murray-2020][^nelkin-2017]。注意，Randy 向 Al 道歉似乎是恰当的，他或许还可能得到原谅，这进一步支持了这种印象。
+    step2: |-
+      Randy 并没有先退一步、反思，再故意违背买波本的承诺。但看起来，他仍对自己所做的——在此情形中其实是未做的——事负有道德责任 (Nelkin & Rickless 2017; Clarke 2014; Amaya & Doris 2015; Murray & Vargas 2020)[^amaya-2015][^clarke-2014][^murray-2020][^nelkin-2017]。试想，Randy 向 Al 道歉似乎理所应当，他也许还能获得原谅——这更支持上述印象。
   - id: 39
     kind: body
     source: |-
       Yet, even if we are inclined to say that Randy is morally responsible, it is not at all clear how he could be because it is hard to see how he can satisfy the control and epistemic conditions for moral responsibility. After all, it seems odd to say that Randy was *in control* of his forgetting or that he *knew* he was forgetting (Murray & Vargas 2020; Nelkin & Rickless 2017)[^murray-2020][^nelkin-2017].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，即便我们倾向于说 Randy 负有道德责任，他究竟如何可能负有责任却一点也不清楚，因为很难看出他如何能满足道德责任的控制条件与认知条件。毕竟，说 Randy *控制*了他的遗忘，或说他*知道*自己正在遗忘，似乎都很奇怪 (Murray & Vargas 2020; Nelkin & Rickless 2017)[^murray-2020][^nelkin-2017]。
+    step2: |-
+      可是，即便我们倾向于说 Randy 负有道德责任，他究竟凭什么负有责任，却并不清楚——很难看出他如何能满足控制条件与认知条件。毕竟，说 Randy *控制*着自己的遗忘，或说他*知道*自己正在遗忘，听上去都很奇怪 (Murray & Vargas 2020; Nelkin & Rickless 2017)[^murray-2020][^nelkin-2017]。
   - id: 40
     kind: body
     source: |-
       Notice further that whatever the psychological processes that led to Randy’s forgetting, they don’t seem to resemble very much the processes at work in producing deliberative actions, the more familiar case studied in the moral responsibility literature. As Murray and Vargas put the point:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      进一步注意：无论导致 Randy 遗忘的心理过程是什么，它们似乎都不大像产生慎思行动的那些过程——后者是道德责任文献中更常研究的情形。正如 Murray 与 Vargas 所言：
+    step2: |-
+      还须注意：导致 Randy 遗忘的心理过程，无论是什么，似乎都与产生慎思行动的过程颇不相类——而后者才是道德责任文献里更常研究的情形。Murray 与 Vargas 是这样说的：
   - id: 41
     kind: body
     source: |-
       The problem is that in *Bourbon*—and relevantly similar cases—the offending agent’s conduct lacks all familiar actional and valuative antecedents that might ground responsibility. There is no decision, volition, intention, belief, desire, choice, or judgment (among other things). (Murray & Vargas, 2020, p. 826)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      问题在于，在*波本*一案——以及相关的类似情形——中，犯事行动者的行为缺乏一切可能为责任奠基的、我们熟悉的行动性前件与评价性前件。这里没有决定、意欲、意图、信念、欲望、选择或判断（以及其他诸如此类的东西）。(Murray & Vargas, 2020, p. 826)
+    step2: |-
+      问题在于，在*波本*一案——以及相关的类似情形——中，当事人的行为缺乏一切可为责任奠基的、我们熟悉的行动性前件与评价性前件：没有决定、意欲、意图、信念、欲望、选择或判断（以及其他诸如此类的东西）。(Murray & Vargas, 2020, p. 826)
   - id: 42
     kind: body
     source: |-
       When confronted with cases such as *Bourbon*, an important yet underexplored next question is this: What exactly *are* the processes that generate spontaneous conduct? Are these processes simple and reflex-like? Or do they reflect more sophisticated forms of agency?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      面对*波本*这类案例，下一个重要却鲜被探究的问题是：究竟*是*什么过程产生了自发行为？这些过程是简单的、类似反射的吗？还是反映了更复杂的能动性形式？
+    step2: |-
+      面对*波本*这类案例，下一个重要却鲜被探究的问题是：产生自发行为的，究竟*是*些什么过程？它们简单得像反射吗？还是体现了更复杂的能动性形式？
   - id: 43
     kind: body
     source: |-
       In asking these questions, we are acknowledging that it is implausible that we can simply treat the mechanisms that produce spontaneous conduct as a black box. Instead, it is likely that we need to get clear on the mechanistic underpinnings of why Randy did what he did before we can decide if he is morally responsible for his conduct.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      提出这些问题，就是承认：把产生自发行为的机制简单当作黑箱来处理，是不合理的。相反，我们很可能需要先弄清 Randy 何以如此行动的机制性基础，然后才能判定他是否对其行为负有道德责任。
+    step2: |-
+      这样提问，等于承认：把产生自发行为的机制当作黑箱一概处理，并不可信。相反，在判定 Randy 是否对其行为负责之前，我们很可能得先弄清他何以如此行动的机制底细。
   - id: 44
     kind: body
     source: |-
       ### 2.2 Opening Up the Black Box
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 打开黑箱
+    step2: |-
+      ### 2.2 打开黑箱
   - id: 45
     kind: body
     source: |-
       A first step is to map the language of the *Bourbon* case into more precise, empirically tractable constructs. We are told that Randy “starts thinking” about omissions during the trip. This in turn might plausibly be understood in terms of the allocation of attention: Randy attends to an internally generated stream of thought that pertains to omissions rather than other things that he could be attending to, such as thoughts about getting the bourbon. His allocation of attention to omissions is harmless until he is near the store. Unfortunately, he continues to allocate attention to omissions rather than the goal of getting bourbon, and so he passes by the store and arrives to his destination empty handed.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第一步，是把*波本*案例的语言映射为更精确、在经验上可操作的构念。我们得知，Randy 在途中“开始想”遗漏问题。这反过来可以合理地理解为注意力的分配：Randy 把注意力分配到一条与遗漏有关的、内部产生的思绪上，而不是他本可以注意的其他东西，例如关于买波本的想法。他对遗漏的注意力分配在到达酒铺附近之前是无害的。不幸的是，他继续把注意力分配给遗漏，而不是买波本的目标，于是他走过酒铺，空手到达目的地。
+    step2: |-
+      第一步，是把*波本*案例的说法转写为更精确、在经验上可操作的构念。据说 Randy 在途中“开始想”遗漏问题；这可以合理地理解为注意力分配：他把注意力投向一条内部产生、与遗漏相关的思绪，而不是他本可注意的其他内容，比如买波本这件事。在走到酒铺附近之前，这样的注意力分配并无妨碍。不巧的是，他继续把注意力放在遗漏上，而不是买波本的目标，于是他走过酒铺，两手空空地到了目的地。
   - id: 46
     kind: body
     source: |-
       Having reconstructed the *Bourbon* case in terms of attention allocation, we can next turn to the substantial body of empirical work that illuminates how attention allocation works. Much of this work specifically studies allocation of visual attention to spatially arrayed external targets. Nonetheless, it is widely thought that allocation of attention to candidate internal targets—for example, thoughts or memory items—follows similar principles (Chun et al. 2011; Kiyonaga & Egner 2013)[^chun-2011][^kiyonaga-2013].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      用注意力分配重构了*波本*案例之后，我们接下来可以转向大量经验研究，它们阐明了注意力分配如何运作。其中许多研究专门考察对空间排列的外部目标的视觉注意力分配。尽管如此，人们普遍认为，对候选内部目标——例如思绪或记忆项——的注意力分配遵循相似的原理 (Chun et al. 2011; Kiyonaga & Egner 2013)[^chun-2011][^kiyonaga-2013]。
+    step2: |-
+      用注意力分配重构*波本*案例之后，便可转向大量阐明注意力分配机制的经验研究。这类研究多专门考察对空间中排列的外部目标的视觉注意分配；不过人们普遍认为，对候选内部目标——比如思绪或记忆条目——的注意分配也遵循相似原理 (Chun et al. 2011; Kiyonaga & Egner 2013)[^chun-2011][^kiyonaga-2013]。
   - id: 47
     kind: body
     source: |-
       According to a leading model, choices to allocate attention to candidate targets arise from integrated priority maps (Fecteau & Munoz 2006; Zelinsky & Bisley 2015; Theeuwes et al. 2022)[^fecteau-2006][^theeuwes-2022][^zelinsky-2015]. These are maps that assign to each candidate attentional target a scalar score that represents the expected value of attending to that target. On the basis of these priority maps, the person chooses to attend to the target with highest value. Of course, due to the selectivity of attention, this implies the person is not attending (or perhaps not attending sufficiently) to the other candidate targets of attention.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按一种主流模型，向候选目标分配注意力的选择源自整合的优先图 (Fecteau & Munoz 2006; Zelinsky & Bisley 2015; Theeuwes et al. 2022)[^fecteau-2006][^theeuwes-2022][^zelinsky-2015]。这些图给每个候选注意目标赋予一个标量分数，代表注意该目标的期望价值。依据这些优先图，人选择注意价值最高的目标。当然，由于注意的选择性，这意味着人没有注意（或也许注意得不够）其他候选注意目标。
+    step2: |-
+      按一种主流模型，向候选目标分配注意力的选择产生于整合的优先图 (Fecteau & Munoz 2006; Zelinsky & Bisley 2015; Theeuwes et al. 2022)[^fecteau-2006][^theeuwes-2022][^zelinsky-2015]：图给每个候选注意目标打一个标量分数，代表注意该目标的期望价值；人便据此选择注意价值最高的目标。当然，由于注意具有选择性，这也意味着人对其他候选目标没有注意（或注意得不够）。
   - id: 48
     kind: body
     source: |-
       The priority map model of attention allocation fits nicely with a much broader picture of the etiology of spontaneous conduct that has emerged in computational cognitive science (Rangel et al. 2008; Rangel & Hare 2010; Busemeyer & Townsend 1993; Carruthers 2018; Railton 2017a; Haas 2022, forthcoming; Sripada, 2025)[^busemeyer-1993][^carruthers-2018][^haas-2022][^railton-2017a][^rangel-2008][^rangel-2010]. According to this model, the mind houses an extensive set of algorithms for the ongoing calculation of the expected value of one’s actional options, where the value at issue is instrumental value relative to a person’s more basic aims, goals, and priorities. On this picture, one’s spontaneous conduct, which can sometimes feel reflexive or automatic, is actually the product of rapid decisions made on the basis of representations of the expected value of the options.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      注意力分配的优先图模型，与计算认知科学中浮现的一幅远为宽广的自发行为成因图景十分契合 (Rangel et al. 2008; Rangel & Hare 2010; Busemeyer & Townsend 1993; Carruthers 2018; Railton 2017a; Haas 2022, forthcoming; Sripada, 2025)[^busemeyer-1993][^carruthers-2018][^haas-2022][^railton-2017a][^rangel-2008][^rangel-2010]。按此模型，心灵拥有一整套算法，持续计算一个人各行动选项的期望价值；此处的价值是相对于一个人更基本的旨趣、目标与优先次序而言的工具价值。在这幅图景中，一个人的自发行为——有时感觉像是反射性的或自动的——实际上是依据各选项期望价值的表征而迅速作出的决定的产物。
+    step2: |-
+      注意力分配的优先图模型，与计算认知科学中浮现的一幅更宏阔的自发行为成因图景颇为契合 (Rangel et al. 2008; Rangel & Hare 2010; Busemeyer & Townsend 1993; Carruthers 2018; Railton 2017a; Haas 2022, forthcoming; Sripada, 2025)[^busemeyer-1993][^carruthers-2018][^haas-2022][^railton-2017a][^rangel-2008][^rangel-2010]。按此模型，心灵里装着一整套算法，不断计算各行动选项的期望价值——所谓价值，是相对于一个人更基本的旨趣、目标与轻重次序而言的工具价值。照这幅图景，人的自发行为（有时感觉像是反射或自动的）其实是依据选项期望价值的表征迅速作出决定的产物。
   - id: 49
     kind: body
     source: |-
       We can distinguish two kinds of processes operative in the priority map model of attention allocation. First, there is a set of processes that leads to the construction of priority maps. These are *subpersonal* processes that integrate a number of cues into an overall expected value representation that attaches to each attentional target (Anderson & Kim 2018; Failing & Theeuwes 2018)[^anderson-2018][^failing-2018]. Second, there is a set of rapid decision processes that translate priority map value representations into actual choices about the target to which attention is in fact allocated (Forstmann et al. 2016; Ratcliff & McKoon 2007)[^forstmann-2016][^ratcliff-2007]. Importantly, the rapid decisions implemented by this second set of processes are *person-level* events. This accords well with first person phenomenology. Allocations of attention aren’t simply happenings within one’s psychology; they are something that the *person* does (Watzl 2017; Wu 2023)[^watzl-2017].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在注意力分配的优先图模型中，可以区分两类起作用的过程。第一，有一组导致优先图之建构的过程。这些是*亚人*过程，它们把若干线索整合为一个附着于每个注意目标的总体期望价值表征 (Anderson & Kim 2018; Failing & Theeuwes 2018)[^anderson-2018][^failing-2018]。第二，有一组迅速的决定过程，它们把优先图的价值表征转化为关于实际注意哪个目标的现实选择 (Forstmann et al. 2016; Ratcliff & McKoon 2007)[^forstmann-2016][^ratcliff-2007]。重要的是，第二组过程所实现的迅速决定是*人格层次*的事件。这与第一人称现象学相当吻合。注意力分配并不只是一个人心理内部发生的事情；它们是*人*所做的某事 (Watzl 2017; Wu 2023)[^watzl-2017]。
+    step2: |-
+      优先图模型中有两类过程在起作用。其一是建构优先图的过程：这些是*亚个人*过程，把若干线索整合为附着在每个注意目标上的总体期望价值表征 (Anderson & Kim 2018; Failing & Theeuwes 2018)[^anderson-2018][^failing-2018]。其二是迅速的决定过程，把优先图的价值表征转化为“实际注意哪个目标”的选择 (Forstmann et al. 2016; Ratcliff & McKoon 2007)[^forstmann-2016][^ratcliff-2007]。要紧的是，第二类过程所实现的迅速决定是*人格层次*的事件——这与第一人称现象学颇为吻合：注意力分配不只是心理内部发生的事，而是*人*所做之事 (Watzl 2017; Wu 2023)[^watzl-2017]。
   - id: 50
     kind: body
     source: |-
       Adopting this overall priority map model, we get the following detailed account of what unfolds in the *Bourbon* case. At the start of the trip, Randy allocates attention to omission thoughts. He does so based on an attentional priority map that assigns omission thoughts a higher value than alternatives including bourbon thoughts. This makes sense—Randy is highly interested in omissions, so it is natural that his attentional priority map would reflect this. As he passes the store, however, there appears to be a missed opportunity: the subpersonal processes that construct and update priority maps could have been sensitive to his current store-adjacent location and shifted the priority map to place higher value on bourbon thoughts rather than omission thoughts. But this shift did not occur—his priority map continued to place higher value on omission thoughts rather than bourbon thoughts, and thus Randy continued to choose to attend to omission thoughts. And due to the limited capacity of attention, in attending to omission thoughts, he was not attending to bourbon thoughts—that is, he forgot about the bourbon.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      采用这一总体优先图模型，我们便得到对*波本*案例中所发生之事的如下详细说明。途中开始时，Randy 把注意力分配给遗漏思绪。他这样做，依据的是一张把遗漏思绪赋予比包括波本思绪在内的替代项更高价值的注意优先图。这说得通——Randy 对遗漏高度感兴趣，因此他的注意优先图反映这一点是自然的。然而当他经过酒铺时，似乎出现了一个错失的机会：建构并更新优先图的亚人过程本可以对他当前临近酒铺的位置敏感，从而把优先图转向，赋予波本思绪而非遗漏思绪更高的价值。但这一转向没有发生——他的优先图继续赋予遗漏思绪而非波本思绪更高的价值，因此 Randy 继续选择注意遗漏思绪。而由于注意力的容量有限，在注意遗漏思绪时，他没有注意波本思绪——也就是说，他忘了波本。
+    step2: |-
+      采用这一总体优先图模型，便可对*波本*案例的经过作出如下细致说明。出发时，Randy 把注意力分配给关于遗漏的思绪，依据的是一张注意优先图——它给遗漏思绪的赋值高于包括波本思绪在内的其他选项。这很自然：Randy 对遗漏极感兴趣，他的注意优先图自然会反映这一点。可他经过酒铺时，本有一个可以抓住的机会：建构并更新优先图的亚个人过程，本可对他此刻正身处酒铺附近这一点作出反应，把优先图改调为给波本思绪更高赋值。但这一改调没有发生——他的优先图仍给遗漏思绪更高赋值，于是 Randy 继续选择注意遗漏思绪；又因注意力容量有限，注意遗漏思绪时他便没有注意波本思绪——也就是说，他把波本忘了。
   - id: 51
     kind: body
     source: |-
