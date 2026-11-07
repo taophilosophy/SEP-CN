@@ -1,0 +1,29 @@
+{
+  "slug": "ockham",
+  "kind": "retranslate",
+  "zh_doc": "o/ockham.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "direction",
+      "status": "ok",
+      "actor": "OR-main-20261107",
+      "at": "2026-11-07T09:39:23Z",
+      "evidence": "方向声明（rules/08）：o 批 ockham（奥卡姆的威廉，账本 175 段已建骨架，2026-11-07 前会话建任务收编续作）。目标：走完六道全流程至 done；验收判据六检全绿 + check_academic --strict 0 硬错误 + 守恒校验 HARD=0。非目标：不改原文、不补内容、不造引文、不动其他批次与其余会话在途文件（s/、specs/013 等）。术语：唯名论/奥卡姆剃刀/心理语言/词项主义已登记，新术语先登记后使用。"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T09:39:23Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-07T01:13:20Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 11, 2024",
+    "archive_edition": null,
+    "sha256": "c20cc0b201d3a584a2cf57a8a332b2c8026a5420f93ba557c1c1ee36657ad701"
+  }
+}
