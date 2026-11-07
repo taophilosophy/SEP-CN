@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-07 03:31（UTC）
+生成时间：2026-11-07 03:47（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1022|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|158|
-|在途（drafted 起、done 前）|244|
+|已完成（done）|161|
+|在途（drafted 起、done 前）|241|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,20 +23,20 @@
 |状态|数量|
 |---|---|
 |pending|620|
-|cleared|171|
+|cleared|169|
 |drafted|3|
-|s3_checked|70|
-|done|158|
+|s3_checked|69|
+|done|161|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|47|
+|A|160|160|160|48|
 |B|62|62|62|4|
 |C|172|172|172|3|
 |D|92|92|92|11|
-|E|99|99|99|12|
+|E|99|99|99|14|
 |F|96|96|96|0|
 |G|49|49|49|0|
 |H|61|61|61|7|
@@ -81,7 +81,6 @@
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
-|arabic-islamic-mysticism|retranslate|cleared|task_ops 2026-11-07|
 |basing-epistemic|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bauer|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -176,10 +175,8 @@
 |dilthey|retranslate|cleared|task_ops 2026-11-01|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |du-bos|retranslate|s3_checked|主代理 2026-11-01|
-|egoism|retranslate|s3_checked|ABCDE-main-20261103 2026-11-03|
 |emerson|retranslate|cleared|task_ops 2026-11-06|
 |emilie-du-chatelet|retranslate|s3_checked|? 2026-11-04|
-|emotion-Christian-tradition|retranslate|s3_checked|? 2026-11-03|
 |equal-ed-opportunity|retranslate|s3_checked|main 2026-11-01|
 |film|retranslate|drafted|EH-main-20261106 2026-11-06|
 |frame-problem|retranslate|cleared|task_ops 2026-11-06|
@@ -306,4 +303,4 @@
 |timon-phlius|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
 |truth-coherence|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
 |william-sherwood|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
-|wisdom|retranslate|cleared|task_ops 2026-11-07|
+|wisdom|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
