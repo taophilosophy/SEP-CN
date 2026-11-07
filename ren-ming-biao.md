@@ -761,13 +761,13 @@
 | Ibn Sīnā / Avicenna | ابن سينا | 伊本·西那（阿维森纳） | arabic-islamic-* 集群 | 知网系查证在案；学界通行（《中国大百科全书》《世界人名翻译大辞典》体例） | 2026-10-28 |
 | Ibn Rushd / Averroes | Ibn Rushd / Averroes | 伊本·鲁世德（阿威罗伊） | arabic-islamic-* 集群 | 知网系查证在案；学界通行 | 2026-10-28 |
 | Ibn Bājja / Avempace | — | 伊本·巴哲 | arabic-islamic-* 集群 | 知网系查证在案；学界通行 | 2026-10-28 |
-| Ibn Ṭufayl / Abubacer | — | 伊本·图斐利 | arabic-islamic-* 集群 | 知网系查证在案；学界通行 | 2026-10-28 |
+| Ibn Ṭufayl / Abubacer | ابن طفيل | 伊本·图斐利 | arabic-islamic-* 集群 | 知网系查证在案；学界通行 | 2026-10-28 |
 | al-Fārābī / Al-Fârâbī / Abū Naṣr al-Fārābī | أبو نصر محمد الفارابي | 法拉比（亦作“阿尔·法拉比”“阿里·法拉比”） | al-farabi 集群 | 学界通行（《中国大百科全书》主译“法拉比”）；已废弃旧主译“阿里·法拉比”（中亚文献用形），发布表同步 | 2026-10-28 |
 | al-Kindī | أبو يوسف يعقوب بن إسحاق الصبّاح الكندي | 肯迪（亦作“金迪”） | al-kindi | 学界通行 | 2026-10-28 |
 | al-Ghazālī | al-Ghazālī | 安萨里（全名艾布·哈米德·穆罕默德·安萨里） | al-ghazali | 学界通行 | 2026-10-28 |
 | Abū Bakr al-Rāzī / al-Rāzī / Rhazes | — | 拉齐（医师哲学家；勿与法赫尔丁·拉齐相混） | arabic-islamic-natural | 学界通行 | 2026-10-28 |
 | Fakhr al-Dīn al-Rāzī | — | 法赫尔丁·拉齐 | arabic-islamic-* 集群 | 学界通行；与医师哲学家拉齐（Abū Bakr al-Rāzī）区分 | 2026-10-28 |
-| Ibn Khaldūn | — | 伊本·赫勒敦 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Ibn Khaldūn | ابن خلدون | 伊本·赫勒敦 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | Ibn Taymiyya | Ibn Taymiyya | 伊本·泰米叶 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | Ibn Gabirol / Solomon ibn Gabirol / Avicebron | Ibn Gabirol / Solomon ibn Gabirol / Avicebron | 伊本·加比罗尔（拉丁通行名阿维斯布朗） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | Ibn Dāwūd / Ibn Daud | — | 伊本·达乌德 | arabic-islamic-judaic | 学界通行 | 2026-10-28 |
@@ -1042,7 +1042,7 @@
 | Nasafī, ʿAzīz al-Dīn | — | 纳萨菲 | al-qudat | 学界惯例（波斯苏菲作者，通行音译） | 2026-11-06 |
 | Jāmī, ʿAbd al-Raḥmān | — | 贾米 | al-qudat | 学界通行汉译（波斯诗人/苏菲） | 2026-11-06 |
 | Mullā Ṣadrā | — | 穆拉·萨德拉 | al-qudat | 学界通行汉译（SUMMARY 定名沿用） | 2026-11-06 |
-| Rūmī | — | 鲁米 | al-qudat | 学界通行汉译（波斯苏菲诗人） | 2026-11-06 |
+| Rūmī | جلال الدين الرومي | 鲁米 | al-qudat | 学界通行汉译（波斯苏菲诗人） | 2026-11-06 |
 | Ṭūsī, Naṣīr al-Dīn | — | 纳西尔丁·图西 | al-qudat | 学界通行汉译（马拉盖天文台） | 2026-11-06 |
 | al-Rāzī, Fakhr al-Dīn | — | 法赫尔丁·拉齐 | al-qudat | 学界惯例（SUMMARY 定名沿用） | 2026-11-06 |
 | Iblīs | — | 伊布利斯 | al-qudat | 学界惯例（《古兰经》堕落天使，通行音译） | 2026-11-06 |
