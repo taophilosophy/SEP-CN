@@ -163,56 +163,74 @@ segments:
     kind: body
     source: |-
       The *Zencharoku* (Zen Tea Record, 1828) contains a well-known section on the topic of *wabi*, which begins by saying that it is simply a matter of “upholding the [Buddhist] precepts” (Hirota, 274). The author continues:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《禅茶录》（1828）有一节论侘的著名文字，开头说侘无非是“持守〔佛〕戒”（Hirota, 274）。作者接着说：
+    step2: |-
+      《禅茶录》（1828）有论侘之名节，首曰：侘特“持〔佛〕戒”而已（Hirota, 274）。其作者继曰：
   - id: 21
     kind: body
     source: |-
       > *Wabi* means that even in straitened circumstances no thought of hardship arises. Even amid insufficiency, one is moved by no feeling of want. Even when faced with failure, one does not brood over injustice. If you find being in straitened circumstances to be confining, if you lament insufficiency as privation, if you complain that things have been ill-disposed—this is not *wabi*. (Hirota, 275)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 侘意味着：即使身处窘境，也不起艰难之念。即使有所不足，也不生匮乏之感。即使面对失败，也不怨天尤人。如果你觉得身处窘境令人局促，如果你哀叹不足为匮乏，如果你抱怨万事不遂意——这就不是侘。（Hirota, 275）
+    step2: |-
+      > 侘者：处穷而不生艰难之念；不足而不起匮乏之感；败而不怨尤。汝若谓穷促为拘，叹不足为匮乏，怨万事之不遂——非侘也。（Hirota, 275）
   - id: 22
     kind: body
     source: |-
       The way of tea exemplifies this attitude toward life in the elegant simplicity of the tea house and the utensils, which contradicts any notion that beauty must entail magnificence and opulence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      茶道以茶室与器物的雅致简朴体现这种人生态度，与“美必致于宏伟富丽”的任何观念相反。
+    step2: |-
+      茶道以茶室器物之雅而素，见此生之态，正与“美必宏丽”之念相反。
   - id: 23
     kind: body
     source: |-
       *Wabi* reaches its peak of austerity in emptiness—which is a central and pervasive idea in Buddhism. In an essay “In Praise of Shadows” (1933) the great novelist Tanizaki Jun’ichirō (1886–1965) has this to say about the beauty of the alcove (*tokonoma*) in the traditional Japanese teahouse:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      侘之枯淡于空无中达到顶峰——空无是佛教的中心且遍在的观念。在《阴翳礼赞》（1933）一文中，大小说家谷崎润一郎（1886–1965）如此谈论日本传统茶室中壁龛（tokonoma）之美：
+    step2: |-
+      侘之枯淡，至空而极——空者，佛教中心且遍在之念也。《阴翳礼赞》（1933）中，大小说家谷崎润一郎（1886–1965）论传统日本茶室壁龛（tokonoma）之美曰：
   - id: 24
     kind: body
     source: |-
       > An empty space is marked off with plain wood and plain walls, so that the light drawn into it forms dim shadows within emptiness. There is nothing more. And yet, when we gaze into the darkness that gathers behind the crossbeam, around the flower vase, beneath the shelves, though we know perfectly well it is mere shadow, we are overcome with the feeling that in this small corner of the atmosphere there reigns complete and utter silence; that here in the darkness immutable tranquility holds sway. (Tanizaki, 20)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 一片空的空间以素木素墙标出，光引入其中，在空无之内形成昏暗的阴影。仅此而已。然而，当我们凝视那聚在横梁之后、花瓶四周、搁架之下的暗处时——虽然我们完全知道那只是阴影——却被一种感受所征服：在这方寸氛围之隅，支配着完全而彻底的寂静；在这黑暗之中，不变的和静当权。（谷崎，20）
+    step2: |-
+      > 空地以素木素墙界之，引光入之，于空中成昏翳之影。更无他物。然吾侪凝视梁后、瓶侧、架下所聚之暗——明知其特影耳——则为一感所摄：此方寸氛围之隅，有全然彻底之静为之主；于此暗中，不易之和静当权。（谷崎，20）
   - id: 25
     kind: body
     source: |-
       A simple structure, but a special and evocative one, a place of deeply philosophical depths. A space cut out of the room, which cuts off direct light and thereby opens up a new world: these techniques developed distinctively in the Japanese tradition of architecture. (See section 7, below, on cutting.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个简单的结构，但特殊而引人联想，是一个有深刻哲学纵深的地方。从房间中切出的一块空间，切断直射的光，从而开启一个新的世界：这些技法在日本建筑传统中独辟蹊径地发展。（关于“切”，见下文第 7 节。）
+    step2: |-
+      结构至简，而殊致动人，为有深哲之奥之所在。于室中割出一隅，断直入之光，而新世界以开：此诸技法于日本建筑之传统独展焉。（“切”见下文第 7 节。）
   - id: 26
     kind: body
     source: |-
       > This was the genius of our ancestors, that by cutting off the light from this empty space they imparted to the world of shadows that formed there a quality of mystery or depth superior to that of any wall painting or ornament. The technique seems simple, but was by no means so simply achieved.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 这是我们祖先的天才：他们从这个空无的空间切断光线，使由此形成的阴影世界具有一种神秘或深邃的品格，胜过任何壁画或装饰。这一技法看似简单，却绝非轻易达成。
+    step2: |-
+      > 此吾先人之天才也：彼于此空地断光，使所成之阴影之界，得神秘深邃之品，逾于任何壁画文饰。其技似简，而成之固未尝简也。
   - id: 27
     kind: body
     source: |-
       Instead of adding something artistic to the wall one subtracts the wall itself and sets it back into an alcove. Then one lets the emptiness fill with a play of light and shadows.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不在墙上添加艺术之物，而是减去墙本身，把它退置为壁龛。然后让空无被光影的嬉戏充满。
+    step2: |-
+      不益于墙以艺之物，而减其墙，退之为龛。然后使空无受光影之戏而盈。
   - id: 28
     kind: body
     source: |-
       One place with a claim to be where the Japanese tea ceremony originated is Ginkakuji, The Temple of the Silver Pavilion, in Kyoto. Whereas the pavilion (late 15th century) is a modest monument to the joys of *sabi*, the Moon-Viewing Platform and Sea of Silver Sand beside it (from some 200 years later) are paradigms of *Wabi*. These latter two constitute an unusual version of the distinctively Japanese “dry landscape” style of garden (see section 7, below). These strikingly abstract formations (for the 17th century!) are optimally viewed from the second floor of the pavilion on a night of the full moon, when the sand glistens silver in the moonlight and the stripes appear as waves on the surface of a motionless ocean.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有资格声称是日本茶道发源地的地方之一，是京都的银阁寺。楼阁（十五世纪晚期）是 sabi 之乐的一座朴素的纪念碑；其旁的向月台与银沙滩（约晚二百年）则是 wabi 的范本。后两者构成独特的日本“枯山水”园林风格的一个不寻常版本（见下文第 7 节）。这些惊人的抽象构形（以十七世纪而论！）的最佳观赏位置，是满月之夜在楼阁的第二层：沙在月光中闪着银光，沙纹宛如静止海面上的波涛。
+    step2: |-
+      堪称为日本茶道所自起者，其一在京都银阁寺。楼阁（十五世纪晚叶）者，sabi 之乐之朴碑也；其旁向月台与银沙滩（约后二百年）则 wabi 之范。后二者为日本独有“枯山水”园林之奇变（见下文第 7 节）。此惊人抽象之构（以十七世纪论之！）宜于满月之夜自楼阁二层观之：月光下沙银然，纹如静海之波。
   - id: 29
     kind: body
     source: |-
