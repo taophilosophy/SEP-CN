@@ -1,0 +1,236 @@
+version: 1
+slug: telesio
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Bernardino Telesio (1509–1588) belongs to a group of independent philosophers of the late Renaissance who left the universities in order to develop philosophical and scientific ideas beyond the restrictions of the Aristotelian-scholastic tradition. Authors in the early modern period referred to these philosophers as ‘novateurs’ and ‘modern’. In contrast to his successors Patrizi and Campanella, Telesio was a fervent critic of metaphysics and insisted on a purely empiricist approach in natural philosophy—he thus became a forerunner of early modern empiricism. He had a remarkable influence on Tommaso Campanella, Giordano Bruno, Pierre Gassendi, Francis Bacon, Thomas Hobbes and on freethinkers like Guillaume Lamy and Giulio Cesare Vanini.
+    step1: |-
+      贝尔纳迪诺·特莱西奥（Bernardino Telesio，1509–1588）属于文艺复兴晚期一批独立的哲学家，他们离开大学，以便在亚里士多德-经院哲学传统的限制之外发展哲学与科学思想。近代早期的作者们称这些哲学家为“novateurs”（革新者）和“modern”（现代人）。与他的后继者克尔索的弗朗切斯科·帕特里齐和托马索·康帕内拉不同，特莱西奥是形而上学的激烈批评者，并坚持在自然哲学中采取纯经验主义的进路——由此他成为近代早期经验主义的先驱。他对托马索·康帕内拉、乔尔丹诺·布鲁诺、皮埃尔·伽桑狄、弗朗西斯·培根、托马斯·霍布斯以及纪尧姆·拉米（Guillaume Lamy）、尤利奥·切萨雷·瓦尼尼（Giulio Cesare Vanini）等自由思想者都有显著影响。
+    step2: |-
+      贝尔纳迪诺·特莱西奥（Bernardino Telesio，1509–1588）属于文艺复兴晚期一批特立独行的哲学家：他们走出大学，为的是在亚里士多德-经院传统的束缚之外发展哲学与科学思想。近代早期的作者称他们为“novateurs”（革新者）与“modern”（现代人）。与后继者克尔索的弗朗切斯科·帕特里齐和托马索·康帕内拉不同，特莱西奥猛烈批评形而上学，坚持在自然哲学中走一条纯经验主义的进路——他由此成为近代早期经验主义的先驱。他对托马索·康帕内拉、乔尔丹诺·布鲁诺、皮埃尔·伽桑狄、弗朗西斯·培根、托马斯·霍布斯影响显著，对纪尧姆·拉米（Guillaume Lamy）、尤利奥·切萨雷·瓦尼尼（Giulio Cesare Vanini）等自由思想者亦然。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life, Works and Influence
+    step1: |-
+      ## 1 生平、著作与影响
+    step2: |-
+      ## 1 生平、著作与影响
+  - id: 3
+    kind: body
+    source: |-
+      Bernardino Telesio was born at Cosenza in Calabria in 1509 as the son of a noble and quite wealthy family. Having been educated by his uncle Antonio Telesio, a humanist of note, he studied in Milan, Rome and the famous university of Padua, which he left in 1535. There is no evidence that Telesio gained a doctorate. Instead of undertaking a university career, he spent several years in a Benedictine monastery (1535–44) without taking oaths. Later he lived in the Neapolitan home of Alfonso III Carafa, Duke of Nocera. In 1553 he married and settled in Cosenza, becoming the dominant figure of the Accademia Cosentina, which came to focus on natural philosophy under his tutelage. Telesio never held a salaried position. After the death of his wife in 1561, which marked the beginning of his financial difficulties, he seems to have spent some time in Rome under the patronage of Pope Pius IV. He rejected the Archbishopric of Cosenza offered by Pius IV in 1565, leaving this position to his brother. From 1576 on he was moving between Cosenza and Naples; in Naples he lived with the son and heir of Alfonso Carafa, Ferrante, to whom he dedicated the final version of his *De rerum natura*. He died in his hometown in 1588.
+    step1: |-
+      贝尔纳迪诺·特莱西奥 1509 年生于卡拉布里亚的科森扎，出身一个颇为富有的贵族家庭。他由声名卓著的人文主义者、叔父安东尼奥·特莱西奥抚教成人，先后在米兰、罗马和著名的帕多瓦大学求学，1535 年离开帕多瓦。没有证据表明特莱西奥获得过博士学位。他没有走大学任教之路，而是在一座本笃会修道院中度过了几年（1535–44），但未发愿。后来他住在那不勒斯的诺切拉公爵阿方索三世·卡拉法家中。1553 年他结婚并定居科森扎，成为科森扎学院的主导人物，该学院在他的指导下渐以自然哲学为重心。特莱西奥从未担任过有俸禄的职位。1561 年妻子去世，他的经济困难由此开始；此后他似乎在罗马度过了一段时间，受教宗庇护四世的庇护。1565 年他拒绝了庇护四世提供的科森扎大主教之职，把这一职位让给他的兄弟。1576 年起他往来于科森扎与那不勒斯之间；在那不勒斯，他与阿方索·卡拉法的儿子兼继承人费兰特同住，《论物性》的最终版正是题献给费兰特的。1588 年他在故乡去世。
+    step2: |-
+      贝尔纳迪诺·特莱西奥 1509 年生于卡拉布里亚的科森扎，出身颇为富有的贵族家庭。他由声名卓著的人文主义者、其叔安东尼奥·特莱西奥抚教成人，先后就读于米兰、罗马与著名的帕多瓦大学，1535 年离开帕多瓦。没有证据表明特莱西奥取得过博士学位。他未走大学任教的常路，而是在一座本笃会修道院中度过了数年（1535–44），但未立誓。其后他寄居那不勒斯，住在诺切拉公爵阿方索三世·卡拉法家中。1553 年他成婚并定居科森扎，成为科森扎学院的主导人物——该学院在他的指导下渐以自然哲学为重心。特莱西奥从未领过有俸的职位。1561 年妻子去世，他的财政困难自此开始；此后他似乎一度旅居罗马，受教宗庇护四世庇护。1565 年他谢绝了庇护四世相赠的科森扎大主教之职，让与自己的兄弟。1576 年起他辗转于科森扎与那不勒斯之间；在那不勒斯他与阿方索·卡拉法之子兼继承人费兰特同住，《论物性》的最终版正是题献给费兰特的。1588 年他在故乡辞世。
+  - id: 4
+    kind: body
+    source: |-
+      Telesio dedicated his whole life to establishing a new kind of natural philosophy, which can be described as an early defense of naturalism and empiricism bound together with a rigorous criticism of Aristotelian natural philosophy and Galenic physiology. Telesio blamed both Aristotle and Galen for relying on elaborate reasoning rather than sense perception and empirical research. His fervent attacks against the greatest authorities of the Western philosophical and medical traditions led Francis Bacon to speak of him as “the first of the moderns” (*Opera omnia* vol. III, 1963, p. 114). He was perhaps the most strident critic of metaphysics in late Renaissance times. It was obviously due to his excellent relationships with popes and clerics that he was not persecuted and was able during his own lifetime to publish his rather heterodox writings, which went on the index shortly after his death. His principal work is the aforementioned *De rerum natura iuxta propria principia* (“On the Nature of Things according to their Own Principles”), which in the last augmented edition of the author’s hand appeared in Naples in 1586. The *De rerum natura* is a huge treatise in nine books which deals with cosmology, biology, sense perception, reason and ethics. Another treatise of major importance is *Quod animal universum ab unica animae substantia gubernatur. Contra Galenum*, in which Telesio critizised central conceptions of Galenic physiology and psychology. This work was never printed, but circulated in manuscript copies (De Franco, 1981, p. XXII). Smaller treatises deal with a variety of themes such as colours, dreams, geology and meteorology, some of which were published in Rome in 1565 (*De iis quae in aere fiunt et de terremotibus*; *De colorum generatione*; *De mari*). Telesio’s philosophy was disseminated by friends and students such as Tommaso Campanella, whose writings contain long paraphrases of Telesian ideas; by Sertorio Quattromani, Telesio’s successor as head of the Accademia Cosentina, who published a synthesis of his predecessor’s philosophy in 1589; and by Antonio Persio, who gave lessons on Telesio’s thought in Venice and published a collection of smaller works, the *Varii de naturalibus rebus libelli*, in 1590. Giordano Bruno speaks of the “giudiciosissimo Telesio” in the third dialog of *De la causa*, whilst Francis Bacon based his own speculative philosophy of nature on a blend of Telesian and Paracelsian conceptions (Giachetti Assenza 1980; Rees 1977; 1984)[^giachetti-1980][^rees-1977]. Thomas Hobbes followed Telesio in the rejection of species (Schuhmann 1990; Leijenhorst 1998, p. 116ff.)[^leijenhorst-1998][^schuhmann-1990][^schuhmann-1990-2] The physiology of René Descartes in *De homine* shows close similarities to Telesio’s physiological theories as they are presented in *De natura rerum* (Hatfield 1992)[^hatfield-1992]. Telesio also had some influence on Gassendi and on libertine thinkers (Bianchi 1992)[^bianchi-1992].
+    step1: |-
+      特莱西奥毕生致力于建立一种新的自然哲学，可以把它描述为对自然主义与经验主义的早期辩护，同时辅以对亚里士多德自然哲学与盖伦生理学的严厉批判。特莱西奥指责亚里士多德和盖伦依赖精巧的推理而非感官知觉与经验研究。他对西方哲学与医学传统中最高权威的猛烈攻击，使弗朗西斯·培根称他为“现代人之首”（*Opera omnia* vol. III, 1963, p. 114）。他或许是文艺复兴晚期最尖锐的形而上学批评者。显然，正是由于他与教宗和教士的良好关系，他没有受到迫害，得以在生前出版他那些相当离经叛道的著作——这些著作在他去世后不久即被列入《禁书目录》。他的主要著作是前述《论物性》（*De rerum natura iuxta propria principia*，“按照其自身本原论万物本性”），最后由作者亲手增订的版本于 1586 年在那不勒斯出版。《论物性》是一部九卷本的巨著，论及宇宙论、生物学、感官知觉、理性与伦理。另一部重要著作是《一切动物皆由单一灵魂实体所支配：驳盖伦》（*Quod animal universum ab unica animae substantia gubernatur. Contra Galenum*），特莱西奥在其中批评了盖伦生理学与心理学的核心概念。这部著作从未印行，而以抄本形式流传（De Franco, 1981, p. XXII）。一些小论著讨论颜色、梦、地质学与气象学等多种主题，其中一些于 1565 年在罗马出版（《论空气中发生的事情及地震》[De iis quae in aere fiunt et de terremotibus]；《论颜色的产生》[De colorum generatione]；《论海》[De mari]）。特莱西奥的哲学由朋友与学生传播：如托马索·康帕内拉，其著作包含特莱西奥思想的长篇转述；如塞尔托里奥·夸特罗马尼（Sertorio Quattromani）——特莱西奥在科森扎学院的继任者，1589 年出版了一部其师哲学的纲要；还有安东尼奥·佩尔西奥（Antonio Persio），他在威尼斯讲授特莱西奥思想，并于 1590 年出版了一部小作品集《论自然诸题小集》（*Varii de naturalibus rebus libelli*）。乔尔丹诺·布鲁诺在《论原因、本原与太一》（*De la causa*）第三篇对话中称他为“giudiciosissimo Telesio”（判断力至为敏锐的特莱西奥），而弗朗西斯·培根则把一种特莱西奥式与帕拉切尔苏斯式概念的混合当作自己的思辨自然哲学的基础（Giachetti Assenza 1980; Rees 1977; 1984）[^giachetti-1980][^rees-1977]。托马斯·霍布斯追随特莱西奥拒斥种相（Schuhmann 1990; Leijenhorst 1998, p. 116ff.）[^leijenhorst-1998][^schuhmann-1990][^schuhmann-1990-2]。勒内·笛卡尔在《论人》（*De homine*）中的生理学与《论物性》所呈现的特莱西奥生理学理论极为相似（Hatfield 1992）[^hatfield-1992]。特莱西奥对伽桑狄和自由思想派思想家也有一定影响（Bianchi 1992）[^bianchi-1992]。
+    step2: |-
+      特莱西奥毕生致力于建立一种新的自然哲学：它可以描述为对自然主义与经验主义的早期辩护，并配以对亚里士多德自然哲学与盖伦生理学的严厉批判。特莱西奥责备亚里士多德与盖伦二人依赖精巧的推理，而不是感官知觉与经验研究。正是他对西方哲学与医学传统这两大最高权威的猛烈攻击，令弗朗西斯·培根称他为“现代人之首”（*Opera omnia* vol. III, 1963, p. 114）。他或许是文艺复兴晚期形而上学最尖锐的批评者。显然，正因为他与教宗及教士们交好，他才未遭迫害，得以在生前出版那些相当离经叛道的著作——它们在他死后不久即被列入《禁书目录》。他的主要著作即前述《论物性》（*De rerum natura iuxta propria principia*，“按照其自身本原论万物本性”），由作者亲手增订的最后一版于 1586 年在那不勒斯刊行。《论物性》是一部九卷巨制，论及宇宙论、生物学、感官知觉、理性与伦理。另一部同等重要的论著是《一切动物皆由单一灵魂实体所支配：驳盖伦》（*Quod animal universum ab unica animae substantia gubernatur. Contra Galenum*），特莱西奥在其中批驳盖伦生理学与心理学的核心观念。此著从未刊印，仅以抄本流传（De Franco, 1981, p. XXII）。若干小论著讨论颜色、梦、地质与气象等各种主题，其中一部分 1565 年在罗马出版（《论空气中发生的事情及地震》[De iis quae in aere fiunt et de terremotibus]；《论颜色的产生》[De colorum generatione]；《论海》[De mari]）。特莱西奥的哲学由朋友与学生传播开来：托马索·康帕内拉的著作中有对特莱西奥思想的长篇转述；塞尔托里奥·夸特罗马尼（Sertorio Quattromani）——特莱西奥在科森扎学院的继任者——1589 年出版了一部师说纲要；安东尼奥·佩尔西奥（Antonio Persio）则在威尼斯讲授特莱西奥思想，并于 1590 年汇刊小作成《论自然诸题小集》（*Varii de naturalibus rebus libelli*）。乔尔丹诺·布鲁诺在《论原因、本原与太一》（*De la causa*）第三篇对话里称许这位“giudiciosissimo Telesio”（判断力至为敏锐的特莱西奥）；弗朗西斯·培根则把特莱西奥式概念与帕拉切尔苏斯式概念熔于一炉，以此奠定他自己的思辨自然哲学（Giachetti Assenza 1980; Rees 1977; 1984）[^giachetti-1980][^rees-1977]。托马斯·霍布斯追随特莱西奥拒斥种相（Schuhmann 1990; Leijenhorst 1998, p. 116ff.）[^leijenhorst-1998][^schuhmann-1990][^schuhmann-1990-2]。勒内·笛卡尔在《论人》（*De homine*）中的生理学与《论物性》所陈的特莱西奥生理学理论颇多酷似（Hatfield 1992）[^hatfield-1992]。特莱西奥对伽桑狄及自由思想派思想家亦有影响（Bianchi 1992）[^bianchi-1992]。
+  - id: 5
+    kind: body
+    source: |-
+      ## 2. Cosmology
+    step1: |-
+      ## 2 宇宙论
+    step2: |-
+      ## 2 宇宙论
+  - id: 6
+    kind: body
+    source: |-
+      Telesio’s vision of the genesis of nature is simple to the point of being archaic, yet at the same time astonishingly modern in the sense that he seems to have been one of the very first defenders of a theory of natural evolution without metaphysical or theological presuppositions. According to his *De rerum natura*, the only things which must be presupposed are passive matter and active force, the latter of which Telesio thought of as twofold, heat and cold. These principles were meant to replace the Aristotelian metaphysical principles of matter and form. In order to explain how all natural beings came into existence by these opposing forces, Telesio presumed that in the beginning God had created two primary globes, the sun and the earth, the sun being the seat of heat, the earth that of coldness, and that He had separated them with such a distance in space that they could not extinguish each other (DRN book I, ch. IV). All natural things result from the battle of these antagonistic forces for the possession of matter. The main region of that creative battle is the surface of the earth, where they create metals, stones and animate beings. The primary activity of warmth is to move fast and to dilate and rarefy matter, whereas that of cold is to hinder movement and to condense matter. Things differ according to the amount of heat or cold they possess (and therefore according to their density and derivative qualities such as velocity and colour). The quantity of matter is not changed through the action of these forces upon it. The role of heat, cold and matter as ‘natural principles’ had been highlighted before by Girolamo Fracastoro in the first version of the *Homocentrica* and in the dialogue *Fracastorius sive De anima* (Lerner 1992)[^lerner-1992][^lerner-1992-2], as well as by Girolamo Cardano in his *Liber unicus de natura.*
+    step1: |-
+      特莱西奥关于自然生成的图景简单到近乎古朴，却又惊人地现代——就他似乎是最早捍卫一种无形而上学或神学预设的自然演化理论的人之一而言。按照他的《论物性》，必须预设的只有受动的物质与能动的力，后者在特莱西奥看来是二重的：热与冷。这些本原意在与亚里士多德的形式与物质这两种形而上学本原相替换。为解释一切自然存在物如何由这些对立的力产生，特莱西奥假定：起初上帝创造了两个原初的球体——太阳与大地，太阳是热的居所，大地是冷的居所——并以足够的空间距离将它们分开，使它们不能彼此熄灭（DRN 第 1 卷第 4 章）。一切自然物都源于这两种敌对力量争夺物质的战斗。这场创造性战斗的主要区域是大地的表面，在那里它们创造出金属、石头与有生命的存在物。热的首要活动是快速运动并使物质膨胀、稀化，冷的活动则是阻碍运动并使物质凝聚。事物因其所含热或冷的量而彼此不同（因此也因密度及速度、颜色等派生性质而不同）。物质在力的作用下数量不变。热、冷与物质作为“自然本原”的角色此前已由吉罗拉莫·弗拉卡斯托罗（Girolamo Fracastoro）在《同心天球》第一版和对话篇《弗拉卡斯托里乌斯，或论灵魂》（*Fracastorius sive De anima*）中予以强调（Lerner 1992）[^lerner-1992][^lerner-1992-2]，吉罗拉莫·卡尔达诺（Girolamo Cardano）在其《论自然单卷》（*Liber unicus de natura*）中亦然。
+    step2: |-
+      特莱西奥的自然生成图景简单到近乎古朴，却又惊人地现代——他似乎是最早捍卫一种不经形而上学或神学预设的自然演化理论的人之一。按照《论物性》，必须预设的只有受动的物质与能动的力；后者在特莱西奥看来是二重的：热与冷。这两个本原意在与亚里士多德“质料与形式”那对形而上学本原相替换。为说明一切自然存在物如何由这两种对立的力而生，特莱西奥假定：太初之时，上帝创造了两个原初球体——太阳与大地，太阳是热的居所，大地是冷的居所——并以足够的空间距离把它们隔开，使二者无法彼此熄灭（DRN 第 1 卷第 4 章）。一切自然物皆生于这两种敌对力量对物质的争夺。这场创造之争的主战场是大地的表面，金属、石头与有生命的存在物在此被造出来。热的首要活动是急速运动、使物质膨胀与稀化；冷的活动则是阻滞运动、使物质凝聚。事物以其所含热或冷的多少而互异（因而也依密度及速度、颜色等派生性质而互异）。物质的数量并不因这些力作用于其上而改变。以热、冷与物质为“自然本原”的思路，此前已由吉罗拉莫·弗拉卡斯托罗（Girolamo Fracastoro）在《同心天球》初版及对话篇《弗拉卡斯托里乌斯，或论灵魂》（*Fracastorius sive De anima*）中揭示（Lerner 1992）[^lerner-1992][^lerner-1992-2]，吉罗拉莫·卡尔达诺（Girolamo Cardano）在《论自然单卷》（*Liber unicus de natura*）中亦然。
+  - id: 7
+    kind: body
+    source: |-
+      Telesio’s cosmology puts an end to metaphysical explanations. Telesio thought space to be absolute (DRN book I, ch. XXV–XXVIII), thus abolishing the Aristotelian notion of a bipartite cosmos divided into a sublunary world, in which generation and corruption take place, and a supralunary sphere with eternal regular movements. The existence of vacuum within space is admitted, but things are said to have a natural inclination to avoid empty space. In the cosmological chapters of book IV Telesio critizised the Aristotelian explanation of the movement of the cosmos by a transcendent telos, the God of Aristotle’s metaphysics: the sky doesn’t move because of a desire for a being more perfect than itself, but because it is its own nature to move and thus to sustain its own life (DRN book IV, ch. XXIV; Aristotle, *Metaph*. XII, ch. 6–7). Likewise, he rejected the idea that the motions of the subordinate spheres were caused by unmoved movers, the pure intelligences of the Aristotelian and Christian traditions, an assumption which he reprimanded to be obscure and incomprehensible even via imagination (Bondì 1018).
+    step1: |-
+      特莱西奥的宇宙论终结了形而上学的解释。特莱西奥认为空间是绝对的（DRN 第 1 卷第 25–28 章），由此废除了亚里士多德二分宇宙的概念——宇宙被分为发生生灭变化的月下世界与具有永恒规则运动的月上天球。空间中存在真空是被承认的，但据说事物有一种避开虚空的自然倾向。在第 4 卷的宇宙论章节中，特莱西奥批评了亚里士多德用超越的目的因——亚里士多德形而上学的神——解释天球运动的作法：天球运动并非因为渴望一个比自身更完善的存在者，而是因为运动并由此维系自身的生命乃是它的本性（DRN 第 4 卷第 24 章；亚里士多德《形而上学》第 12 卷第 6–7 章）。同样，他拒绝下级天球的运动由不动的推动者——亚里士多德与基督教传统中的纯粹理智——所引起的观点，他认为这一假定晦涩难解，甚至无法设想（Bondì 1018）。
+    step2: |-
+      特莱西奥的宇宙论为形而上学式的解释画上句号。他认为空间是绝对的（DRN 第 1 卷第 25–28 章），由此废除了亚里士多德的二分宇宙观——宇宙一分为二：发生生灭的月下世界，与作永恒规则运动的月上天球。空间中存在真空，这是他承认的；但据他说，事物有一种避开虚空的自然倾向。在第 4 卷的宇宙论各章，特莱西奥批评亚里士多德用一个超越的目的因（亚里士多德形而上学的神）来解释天球的运动：天并非因渴望一个比自身更完善的存在者而运动，而是以运动并由此维系自身生命为本性（DRN 第 4 卷第 24 章；亚里士多德《形而上学》第 12 卷第 6–7 章）。同样，他也拒绝“下级天球的运动由不动的推动者——亚里士多德与基督教传统中的那些纯粹理智——引起”之说，并斥这一假定晦涩难懂，甚至无法想象（Bondì 1018）。
+  - id: 8
+    kind: body
+    source: |-
+      The things of nature are not created, governed and sustained by divine providence. In Telesio’s philosophy, there is no such thing as a transcendent mind or idea. All things act solely according to their own nature, starting from the primary forces of cold and heat. The Epicurean chance is enclosed in Telesio’s Stoic-influenced philosophy of nature (Kessler 1992)[^kessler-1992]: everything can produce everything, an idea which was soon to be sharply rejected by Francesco Patrizi da Chierso, one of the most important contemporary readers of Telesio (“Obiectiones”, in the appendix of Telesio’s *Varii libelli*, p. 467 f.). In order to sustain themselves, these primary forces and all beings which arise through their antagonistic interaction must be able to sense themselves as well as the opposite force, that is, they must sense what is convenient and what is inconvenient or damaging for their survival and well-being. Sensation, therefore, is not the property of embodied souls. Telesio’s philosophy can thus be described as a pansensism in the sense that all beings, animate or inanimate, are said to have the power of sensation.
+    step1: |-
+      自然物并非由神圣天意所创造、治理和维系。在特莱西奥的哲学中，不存在超越的心灵或理念这样的东西。万物仅按其自身本性而行动，始于冷与热这两种原初力量。伊壁鸠鲁式的偶然被包含在特莱西奥受斯多亚影响的自然哲学中（Kessler 1992）[^kessler-1992]：一切都能产生一切——这一观念很快遭到弗朗切斯科·帕特里齐的尖锐拒斥，后者是特莱西奥最重要的同时代读者之一（“Obiectiones”，载《论自然诸题小集》附录，第 467 页以下）。为了自我维系，这些原初力量及由其对抗互动而产生的一切存在物必须既能感觉到自身、也能感觉到对立的力量，也就是说，它们必须能感知什么有利于自己的存活与福祉、什么不利或有害。因此，感觉并不是寓于身体中的灵魂才有的属性。特莱西奥的哲学因此可被描述为一种泛感觉论：一切存在物，无论有生命还是无生命，都被认为具有感觉能力。
+    step2: |-
+      自然物并非由神圣天意创造、治理和维系。在特莱西奥的哲学里，不存在超越的心灵或理念这类东西。万物仅仅按照自身本性而行动，其源在于冷与热这两种原初力量。伊壁鸠鲁式的偶然，被收编进特莱西奥那受斯多亚影响的自然哲学之中（Kessler 1992）[^kessler-1992]：一切皆能产生一切——这一观念旋即遭到弗朗切斯科·帕特里齐的严辞拒斥，帕特里齐是特莱西奥最重要的同时代读者之一（“Obiectiones”，载《论自然诸题小集》附录，第 467 页以下）。为求自我维系，这些原初力量以及经由其对抗互动而生的一切存在物，必须既能感知自身、也能感知对立的力量；也就是说，它们必须能感知什么有利于自身的存活与福祉、什么不利或有害。因此，感觉并不是寓于形体中的灵魂才有的属性。特莱西奥的哲学由此可称为一种泛感觉论（pansensism）：一切存在物——无论有生命还是无生命——都被赋予感觉能力。
+  - id: 9
+    kind: body
+    source: |-
+      ## 3. Psychology
+    step1: |-
+      ## 3 心理学
+    step2: |-
+      ## 3 心理学
+  - id: 10
+    kind: body
+    source: |-
+      With regard to psychology, Telesio took a materialist standpoint. According to his general rejection of the metaphysical (and therefore inappropriate) principles of matter and form, he rejected Aristotle’s definition of the soul as *forma corporis*, i.e. as form and entelechy of an organic body (Aristotle, *De anima* II,1). According to Telesio, the soul is a separate being, but not in the sense of the Platonists, who define it as an immortal essence acting as the governor and mover of the body during its embodied life. Telesio held the soul to be a specific part of the body, defining it as the *spiritus* coursing through the nervous system and having its main seat in the brain. The *spiritus* which overtakes the role of the *anima* of the philosophical tradition is produced by the white ‘semen’. Telesio calls it the *spiritus e semine eductus*. He maintains in DRN book V, ch. I:
+    step1: |-
+      在心理学上，特莱西奥采取唯物主义立场。基于他对质料与形式这对形而上学（因而也不适当）本原的一般拒斥，他拒绝亚里士多德把灵魂定义为身体之形式（*forma corporis*）的做法，即把灵魂当作有机体的形式与隐德来希（亚里士多德《论灵魂》第 2 卷第 1 章）。按照特莱西奥，灵魂是一个单独的存在者，但不是柏拉图主义者意义上的——他们把灵魂定义为不朽的本质，在灵魂寓于身体的时期充当身体的支配者与推动者。特莱西奥认为灵魂是身体的一个特定部分，把它定义为穿行于神经系统、以大脑为主要居所的精气（*spiritus*）。取代哲学传统中“灵魂”（*anima*）角色的精气由白色的“种子”产生。特莱西奥称之为由种子导出的精气（*spiritus e semine eductus*）。他在《论物性》第 5 卷第 1 章中宣称：
+    step2: |-
+      在心理学上，特莱西奥持唯物主义立场。基于他对“质料与形式”这对形而上学（因而也是不适当的）本原的一贯拒斥，他否定亚里士多德把灵魂定义为身体之形式（*forma corporis*）的学说，即把灵魂当作有机体的形式与隐德来希（亚里士多德《论灵魂》第 2 卷第 1 章）。在特莱西奥看来，灵魂是一个单独的存在者，但这不是柏拉图主义者的那种意思——后者把灵魂定义为不朽的本质，在灵魂寄居于身体的年月里充当身体的支配者与推动者。特莱西奥主张灵魂是身体的一个特定部分，把它定义为穿行于神经系统、以大脑为主要居所的精气（*spiritus*）。这股精气接替了哲学传统中“灵魂”（*anima*）的角色，由白色的“种子”产生；特莱西奥称之为“由种子导出的精气”（*spiritus e semine eductus*）。他在《论物性》第 5 卷第 1 章中申言：
+  - id: 11
+    kind: body
+    source: |-
+      “This [separate substance] will therefore be the *spiritus*, which took its origin from the semen, as we will explain elsewhere (and it is to be found in all things made from semen, namely those which are white and bloodless, with the exception of the bones and similar things); and only the spirit is what perceives in the animal, and moves sometimes with the whole body, sometimes with single parts thereof, and solely governs the whole animal. That is to say, it performs those actions which, according to the concurring opinion of all, are typical of the soul.” (Vol. II, p. 208).
+    step1: |-
+      “因此，这 [单独的实体] 将是精气，它起源于种子（我们将在别处解释；它存在于一切由种子造成的东西之中，即那些白色而无血的东西之中，骨骼及类似之物除外）；在动物之中，只有精气在知觉，它有时带动整个身体、有时带动身体的单个部分运动，并独自支配整个动物。也就是说，它施行那些按众人的共同意见属于灵魂的行动。”（第 2 卷第 208 页）
+    step2: |-
+      “因此，这 [单独的实体] 将是精气，它起源于种子（我们将在别处解释；它存在于一切由种子造成的东西之中，即那些白色而无血的东西之中，骨骼及类似之物除外）；在动物之中，只有精气在知觉，它有时带动整个身体、有时带动身体的单个部分运动，并独自支配整个动物。也就是说，它施行那些按众人的共同意见属于灵魂的行动。”（第 2 卷第 208 页）
+  - id: 12
+    kind: body
+    source: |-
+      To ascribe psychic functions to a specific part of the body implies a rejection of the difference between organic and inorganic life, which dichotomy was central to the Aristotelian, Platonic and Christian traditions. According to Telesio, there is a quantitative and not a qualitative difference here, which consists in the higher degree of complexity and the higher degree of warmth that some physical bodies possess. Whereas metals or stones are homogenous bodies, organic bodies consist of heterogeneous parts, including the bodily (though invisible) spirit in the nerves and brain (DRN book V, ch. II). And just as there is no metaphysical difference between living and non-living bodies, there also does not exist a qualitative difference between animals and humans—in both, it is the same spirit which coordinates the functions and operations of the different bodily parts. In DRN book V, ch. III Telesio states:
+    step1: |-
+      把心理功能归于身体的特定部分，意味着拒绝有机生命与无机生命的区分，而这一区分正是亚里士多德、柏拉图与基督教传统的核心。按照特莱西奥，这里的差别是量的差别而非质的差别：某些物体具有更高程度的复杂性和更高程度的温热。金属或石头是同质物体，有机体则由异质部分构成，其中包括神经与大脑中身体性的（尽管不可见的）精气（DRN 第 5 卷第 2 章）。正如有生命的物体与无生命的物体之间没有形而上学的差别，动物与人之间也不存在质的差别——在二者之中，都是同一个精气在协调身体各部分的功能与运作。特莱西奥在《论物性》第 5 卷第 3 章中说：
+    step2: |-
+      把心理功能安放于身体的特定部分，意味着拒斥有机生命与无机生命之分——这条分界线在亚里士多德、柏拉图与基督教传统中居于核心。按特莱西奥，此处的差别是量的差别而非质的差别，它在于某些物理物体具有更高程度的复杂性与更高程度的温热。金属与石头是同质物体，有机体则由异质部分构成，其中包括神经与大脑里身体性的（尽管不可见的）精气（DRN 第 5 卷第 2 章）。正如有生命物体与无生命物体之间没有形而上学的差别，动物与人之间也不存在质的差别——在二者之中，都是同一个精气在协调身体各部分的功能与运作。特莱西奥在《论物性》第 5 卷第 3 章中陈说：
+  - id: 13
+    kind: body
+    source: |-
+      > …and when it has been proved that in animals the spirit produced from the semen is the substance of their soul, then one cannot doubt that the same exists in humans, albeit in a much more noble form, and it is surely not of a very different nature and does not possess highly different capabilities. We see that humans are formed by the same things as the other animals, and that they possess the same abilities and even the same organs for feeding and reproduction, and that they produce a very similar semen and eject it in the same way and with the same pleasure and from a very similar part and become tired after ejaculation, and that the same things are being formed out of the semen in both cases, namely the same nervous and membranous systems. And it is only [the spirit] which in all animate beings is perceiving and moving in the same way and according to the same dispositions. (Vol II, p. 216).
+    step1: |-
+      > ……而当已经证明动物之中由种子产生的精气是其灵魂的实体之后，那就不能再怀疑：同样的东西也存在于人之中，只是形式高贵得多；它在本性上确乎并无太大不同，能力也没有天壤之别。我们看到，人由与其他动物相同的东西构成，拥有相同的能力，甚至拥有用于进食与繁殖的相同器官；人产生出非常相似的种子，以相同的方式、带着相同的快感、从非常相似的部位将其排出，并在射精之后感到疲倦；在两种情形下，由种子生成的东西也是相同的，即相同的神经系与膜系。而在一切有生命的存在物之中，正是 [精气] 以相同的方式、按照相同的安排在知觉、在运动。（第 2 卷第 216 页）
+    step2: |-
+      > ……而当已经证明动物之中由种子产生的精气是其灵魂的实体之后，那就不能再怀疑：同样的东西也存在于人之中，只是形式高贵得多；它在本性上确乎并无太大不同，能力也没有天壤之别。我们看到，人由与其他动物相同的东西构成，拥有相同的能力，甚至拥有用于进食与繁殖的相同器官；人产生出非常相似的种子，以相同的方式、带着相同的快感、从非常相似的部位将其排出，并在射精之后感到疲倦；在两种情形下，由种子生成的东西也是相同的，即相同的神经系与膜系。而在一切有生命的存在物之中，正是 [精气] 以相同的方式、按照相同的安排在知觉、在运动。（第 2 卷第 216 页）
+  - id: 14
+    kind: body
+    source: |-
+      In order to explain how animate beings perform different functions and operations, traditional psychological as well as physiological theories referred to a threefold soul. Whereas Aristotle in *De anima* had distinguished between the *anima vegetativa*, *anima sensitiva* and *anima cogitativa* (which distinction also corresponds to that of plants, animals and humans with their specific faculties), Plato had established three parts of the soul (*Republic* 434d-443e), which in the *Timaios* (69aff.) he had associated with different organs, namely the rational part of the soul (*logistikon*) to the brain, the spirited (*thumoeides*) to the heart and the desirous or lower passions (*épithumêtikon*) to the liver. In this tripartition he was followed by the Stoic physician Galen (*De placitis Hippocratis et Platonis* VII, I and III), who added a threefold spirit—the *spiritus naturalis* being produced in the liver, the *spiritus vitalis* refined in the blood and the *spiritus animalis* distilled in the brain. Whereas the Aristotelian psychology was combatted in the *De rerum natura*, Telesio dedicated a whole treatise to the criticism of Galen, the *Quod animal universum ab unica animae substantia gubernatur. Contra Galenum*. According to Telesio, the functioning of an organic body cannot be explained by presupposing a plurality of rulers. In asserting the unity of the soul (i.e. spirit), Telesio followed the medical theorist Giovanni Argenterio (1513–1572), who defended the unity of the spirit against the Aristotelian and medical traditions.
+    step1: |-
+      为解释有生命的存在物如何行使不同的功能与运作，传统的心理学理论与生理学理论都诉诸三分的灵魂。亚里士多德在《论灵魂》中区分了植物灵魂（*anima vegetativa*）、感觉灵魂（*anima sensitiva*）与思维灵魂（*anima cogitativa*）（这一区分也对应于植物、动物与人及其各自特殊的能力）；柏拉图则确立了灵魂的三个部分（《理想国》434d–443e），并在《蒂迈欧》（69a 以下）中把它们与不同的器官联系起来：灵魂的理性部分（*logistikon*）对应大脑，激情部分（*thumoeides*）对应心脏，欲望部分即低等激情（*épithumêtikon*）对应肝脏。斯多亚派医师盖伦沿袭了这一三分（《论希波克拉底与柏拉图的学说》第 7 卷第 1、3 章），又加上三重精气：自然精气（*spiritus naturalis*）产生于肝脏，活力精气（*spiritus vitalis*）在血液中精炼，动物精气（*spiritus animalis*）在脑中蒸馏。《论物性》抨击的是亚里士多德的灵魂学说，而特莱西奥则把一整部论著献给对盖伦的批评，即《一切动物皆由单一灵魂实体所支配：驳盖伦》。按照特莱西奥，有机体的运作不能通过预设多个支配者来解释。在主张灵魂（即精气）的统一性时，特莱西奥追随医学理论家乔瓦尼·阿真泰里奥（Giovanni Argenterio，1513–1572），后者捍卫精气的统一性，以对抗亚里士多德传统与医学传统。
+    step2: |-
+      为说明有生命之物如何行使各不相同的功能与运作，传统心理学与生理学理论皆诉诸三分的灵魂。亚里士多德在《论灵魂》中区分植物灵魂（*anima vegetativa*）、感觉灵魂（*anima sensitiva*）与思维灵魂（*anima cogitativa*）——这一区分也对应植物、动物、人及其各具的官能；柏拉图则立灵魂三部分之说（《理想国》434d–443e），并在《蒂迈欧》（69a 以下）中把它们系于不同器官：理性部分（*logistikon*）系于脑，激情部分（*thumoeides*）系于心，欲望部分即低等激情（*épithumêtikon*）系于肝。斯多亚派医师盖伦承袭这一三分（《论希波克拉底与柏拉图的学说》第 7 卷第 1、3 章），又添上三重精气：自然精气（*spiritus naturalis*）产生于肝，活力精气（*spiritus vitalis*）在血中精炼而成，动物精气（*spiritus animalis*）在脑中蒸馏而出。《论物性》抨击的是亚里士多德的灵魂学说；对盖伦的批评，特莱西奥则专为一部论著，即《一切动物皆由单一灵魂实体所支配：驳盖伦》。按特莱西奥，有机体的运作无法借预设多个支配者来解释。在主张灵魂（即精气）统一性一事上，特莱西奥追随医学理论家乔瓦尼·阿真泰里奥（Giovanni Argenterio，1513–1572）——他捍卫精气的统一，以抗亚里士多德传统与医学传统两方。
+  - id: 15
+    kind: body
+    source: |-
+      Telesio combined the medical theory of spirit with a basically Stoic notion, that of the *hegemonikon*, according to which the spirit in the brain is responsible for all the states and operations traditionally ascribed to the tripartite soul: “the animal … is governed by one substance residing in the brain” (*Quod animal universum* ch. XXV; Var. lib. p. 254). Whereas in *Quod animal universum* he went on to explain the affects in terms of physiology, in *De rerum natura* he added a theory of sense perception and a theory of knowledge on physical grounds.
+    step1: |-
+      特莱西奥把精气的医学理论与一个基本属于斯多亚派的观念——统治部分（*hegemonikon*）——结合起来：按照这一观念，大脑中的精气负责传统上归于三分灵魂的一切状态与运作。“动物……由居于大脑中的单一实体所支配”（《一切动物皆由单一灵魂实体所支配》第 25 章；*Var. lib.* 第 254 页）。在《一切动物皆由单一灵魂实体所支配》中他以生理学解释情感，而在《论物性》中他又在物理基础上增加了感觉知觉理论与知识理论。
+    step2: |-
+      特莱西奥把精气的医学理论与一个基本属斯多亚派的观念——统治部分（*hegemonikon*）——结合起来：依此观念，居于大脑中的精气负责传统上归于三分灵魂的一切状态与运作。“动物……由居于大脑中的单一实体所支配”（《一切动物皆由单一灵魂实体所支配》第 25 章；*Var. lib.* 第 254 页）。在《一切动物皆由单一灵魂实体所支配》中，他进而以生理学解释情感；在《论物性》中，他又在物理基础上补足了感觉知觉理论与知识理论。
+  - id: 16
+    kind: body
+    source: |-
+      ## 4. Theory of sense perception
+    step1: |-
+      ## 4 感官知觉理论
+    step2: |-
+      ## 4 感官知觉理论
+  - id: 17
+    kind: body
+    source: |-
+      Telesio rejected the traditional concept of sense organs, replacing it with a mechanistic explanation of sense perception (DRN books V–VII). In his opinion, to speak of sense organs is inappropriate, as the so-called sense organs are nothing else than “parts of the body which are either more subtle or soft than others, or perforated and open. One should not believe in the slightest that they are made thus in order to offer some capacity or support of perceiving to the sensitive soul (which seems to be the duty of organs), but in order to provide an easy and open entry to the forces of external things and to those things themselves.” (DRN book I, ch.VI; vol. I, p. 68). What is perceived are not the forms or *species* of things as the Aristotelians believed, but impulses of light and air (DRN book V, ch. VIII; vol. II, 254; for the rejection of *species* see DRN book VII, ch. XXX–XXXIII against the Aristotelian and ch. XVIII–XXIX against the Galenic theory; Telesio’s rejection of *species* was taken up by Hobbes, *Leviathan* book I, ch. I “De sensu”). As the sense of touch provides the most narrow contact between outer object and sensing spirit, it assumes the role of the primary sense, which was traditionally identified with the sense of vision (DRN book VII, ch. IX, vol. III, p. 34.) The *informatio* theory being rejected, Telesio comes close to a neuronal explanation of sense perception, which is a mechanical process arising from the transfer of tactile impressions through the nerves to the brain. It is the spirit residing in the brain which experiences nervous dilatations and contractions, and which judges these sensations according to the basic scheme of pleasure and pain, giving out corresponding reactions like moving towards something or avoiding contact (DRN book VII ch. II–V). Strictly speaking, sense perception is a sensation of sensing (*sensus sensus*) which takes place in the brain: “Sense perception can only be the perception of the activities of things and impulses in the air, and can only consist of the perception of [the spirit’s] own passions, transformations and movements, particularly the latter. Indeed, the spirit perceives them because he perceives that it is affected by them, that it is being changed and moved.” (Vol. III, p. 6)
+    step1: |-
+      特莱西奥拒绝传统的感官器官概念，代之以对感官知觉的机械论解释（DRN 第 5–7 卷）。在他看来，谈论感觉器官并不恰当，因为所谓感觉器官不过是“身体中比其他部分更精细或更柔软的部分，或是穿有小孔而敞开的部分。丝毫不要相信，它们之所以如此构成，是为了向有感觉的灵魂提供某种知觉的能力或支持（这似乎是器官的职责），其实是为了给外界事物的诸力量以及事物本身提供一条容易而敞开的入口”（DRN 第 1 卷第 6 章；第 1 卷第 68 页）。被知觉到的不是亚里士多德主义者所相信的事物的形式或种相（*species*），而是光与空气的冲击（DRN 第 5 卷第 8 章；第 2 卷第 254 页；关于对种相的拒斥，见 DRN 第 7 卷第 30–33 章驳亚里士多德，第 18–29 章驳盖伦的理论；特莱西奥对种相的拒斥为霍布斯所继承，《利维坦》第 1 卷第 1 章“论感觉”）。由于触觉提供了外物与知觉精气之间最贴近的接触，它承担起首要感官的角色——这一角色传统上属于视觉（DRN 第 7 卷第 9 章，第 3 卷第 34 页）。充灌（*informatio*）理论既遭拒斥，特莱西奥便接近于一种对感官知觉的神经学解释：知觉是一个机械过程，起于触觉印象经神经向大脑的传递。正是居于大脑中的精气经验着神经的扩张与收缩，并按照苦与乐的基本图式对这些感觉作出判断，发出相应的反应，如趋近某物或回避接触（DRN 第 7 卷第 2–5 章）。严格说来，感官知觉是一种在脑中发生的感觉之感觉（*sensus sensus*）：“感官知觉只能是对于事物的活动与空气中诸冲击的知觉，并且只能由对 [精气] 自身的被动状态、变化与运动的知觉构成，尤其是后者。精气之所以知觉它们，是因为它知觉到自己在被它们影响、被改变、被推动。”（第 3 卷第 6 页）
+    step2: |-
+      特莱西奥否弃传统的感官器官概念，代之以对感官知觉的机械论解释（DRN 第 5–7 卷）。在他看来，“感觉器官”云云并不恰当：所谓感觉器官，不过是“身体中较其余部分更精细或更柔软的部分，或是穿有小孔而敞开的部分。丝毫不要相信，它们如此构成是为了向有感觉的灵魂提供某种知觉的能力或扶持（这似乎是器官的职分）；其实是为了给外界事物的诸种力量以及事物本身提供一条便捷而敞开的入口”（DRN 第 1 卷第 6 章；第 1 卷第 68 页）。被知觉的不是亚里士多德主义者所信的事物的形式或种相（*species*），而是光与空气的冲击（DRN 第 5 卷第 8 章；第 2 卷第 254 页；关于拒斥种相，见 DRN 第 7 卷第 30–33 章之驳亚里士多德、第 18–29 章之驳盖伦理论；特莱西奥对种相的拒斥为霍布斯所承袭，见《利维坦》第 1 卷第 1 章“论感觉”）。触觉提供了外物与知觉精气之间最贴身的接触，故而承担起首要感官的角色——这一位置传统上属于视觉（DRN 第 7 卷第 9 章，第 3 卷第 34 页）。充灌（*informatio*）理论既遭否弃，特莱西奥便相当接近于一种对感官知觉的神经学解释：知觉是一个机械过程，源于触觉印象经由神经向大脑的传递。居于大脑中的精气经验着神经的扩张与收缩，并按苦乐的基本图式对这些感觉作出裁断，发出相应的反应——趋近某物，或回避接触（DRN 第 7 卷第 2–5 章）。严格说来，感官知觉是发生于脑中的感觉之感觉（*sensus sensus*）：“感官知觉只能是对于事物之活动与空气中诸冲击的知觉，且只能由对 [精气] 自身的被动状态、变化与运动的知觉构成——尤其是后者。精气之所以知觉它们，是因为它知觉到自己正在被它们影响、被改变、被推动。”（第 3 卷第 6 页）
+  - id: 18
+    kind: body
+    source: |-
+      In his explanation of sense perception Telesio comes close to the Democritan theory which he combines with the basic Stoic notion of *conservatio sui*, a key term in Telesio’s philosophy. Pleasure is identified with the sensation of self-preservation, pain is the sensation of destruction (DRN book VII, ch. III; vol. III, p. 10). In this, as well as in his theory of knowledge, Telesio seems to follow Girolamo Fracastoro’s explanation of sense perception and understanding given in the closing chapters of *De sympathia et antipathia rerum* and in the epistemological treatise *Turrius sive de intellectione*.
+    step1: |-
+      在对感官知觉的解释中，特莱西奥接近德谟克利特的理论，并把这一理论与斯多亚派的基本观念“自我保存”（*conservatio sui*）——特莱西奥哲学的关键术语——结合起来。快乐被等同于自我保存的感觉，痛苦被等同于毁灭的感觉（DRN 第 7 卷第 3 章；第 3 卷第 10 页）。在这一点上，正如在他的知识理论中一样，特莱西奥似乎追随吉罗拉莫·弗拉卡斯托罗在《论物之同情与反同情》末尾数章以及知识论专著《图里乌斯，或论理智》（*Turrius sive de intellectione*）中对感觉知觉与理解所作的解释。
+    step2: |-
+      在解释感官知觉时，特莱西奥接近德谟克利特的理论，又把它与斯多亚派的一个基本观念——“自我保存”（*conservatio sui*，特莱西奥哲学的关键术语）——相结合。快乐被等同于自我保存之感，痛苦被等同于毁灭之感（DRN 第 7 卷第 3 章；第 3 卷第 10 页）。在这一点上，一如在其知识理论中，特莱西奥似乎追随吉罗拉莫·弗拉卡斯托罗的解释——见《论物之同情与反同情》末尾数章与知识论专著《图里乌斯，或论理智》（*Turrius sive de intellectione*）中对感觉知觉与理解的处理。
+  - id: 19
+    kind: body
+    source: |-
+      ## 5. Theory of knowledge
+    step1: |-
+      ## 5 知识理论
+    step2: |-
+      ## 5 知识理论
+  - id: 20
+    kind: body
+    source: |-
+      For Telesio, the *conservatio sui* is the foundation from which all sensitive and cognitive functions arise. Defending an empirical approach in epistemology, Telesio tried to annul the traditional distinction between sense perception and reason, and he denied that there exists something like a purely mental sphere and a corresponding intellect which Aristotle in *De anima* III had called *nous*. Understanding is a process which requires sense perception and memory. According to Telesio, our memory is not visual. What we remember are movements which our spirit has experienced and given out when being in contact with external forces. If now the spirit undergoes a similar experience, for example the pain of getting burned, it will ascribe this perception to a similar or identical cause and call it ‘fire’ (DRN book VIII, ch. 1; vol. III, p. 160). The ability of making rational conclusions (*ratiocinari*) consists in comparing new expierences to old ones and in supplementing hidden or unknown aspects when refering them to former experiences. Telesio even suggests replacing the term *intelligere* with *existimari* and *commemorari* (DRN book VIII, ch. III; vol. III, p. 164f.). Intellectual understanding therefore does not mean to reach a realm of necessity and eternity, not even in mathematics, which according to Telesio arises from sensual experience and is a science of less dignity than the observation-based natural philosophy (DRN book VIII, ch. IV; vol. III, p. 176f.).
+    step1: |-
+      对特莱西奥来说，自我保存是一切感觉功能与认知功能由以产生的根基。特莱西奥在认识论上捍卫经验论的进路，试图取消感觉知觉与理性之间的传统区分；他否认存在某种纯粹心灵性的领域，也否认存在与之相应的、亚里士多德在《论灵魂》第 3 卷中称为“努斯”（*nous*）的理智。理解是一个需要感觉知觉与记忆的过程。按照特莱西奥，我们的记忆不是视觉性的。我们所记忆的是我们的精气在接触外力时所经验并发出的运动。如果精气眼下经历一次相似的经验，例如被烧灼之痛，它就会把这一知觉归于一个相似或相同的原因，并称之为“火”（DRN 第 8 卷第 1 章；第 3 卷第 160 页）。作出理性结论的能力（*ratiocinari*）在于把新经验与旧经验相比较，并在把当前经验指涉到先前经验时补充其隐蔽或未知的方面。特莱西奥甚至建议用“估断”（*existimari*）与“回忆”（*commemorari*）替换“理智直观”（*intelligere*）一词（DRN 第 8 卷第 3 章；第 3 卷第 164 页以下）。因此，理智性的理解并不意味着抵达一个必然与永恒的领域，在数学中也是如此：按照特莱西奥，数学源于感官经验，是一门尊严低于以观察为基础的自然哲学的科学（DRN 第 8 卷第 4 章；第 3 卷第 176 页以下）。
+    step2: |-
+      在特莱西奥那里，自我保存（*conservatio sui*）是一切感觉功能与认知功能由以生发的根基。特莱西奥在认识论上捍卫经验进路，力图取消感觉知觉与理性之间的传统分野；他否认存在什么纯粹心灵性的领域，也否认存在与之相应的理智——亚里士多德在《论灵魂》第 3 卷称之为“努斯”（*nous*）的那种东西。理解是一个需要感觉知觉与记忆的过程。按特莱西奥，我们的记忆不是视觉性的：我们所记忆的，是我们的精气在接触外力时所经验并发出的那些运动。当精气眼下经历一次相似的经验——例如被烧灼之痛——它就会把这一知觉归于一个相似或相同的原因，并名之曰“火”（DRN 第 8 卷第 1 章；第 3 卷第 160 页）。作理性结论的能力（*ratiocinari*）在于把新经验与旧经验相比较，并在把当前经验指涉先前经验之际补足其隐蔽或未知的方面。特莱西奥甚至建议以“估断”（*existimari*）与“回忆”（*commemorari*）替换“理智直观”（*intelligere*）一词（DRN 第 8 卷第 3 章；第 3 卷第 164 页以下）。因此，理智性的理解并不意味着抵达必然与永恒的领域——数学也不例外：按特莱西奥，数学源于感官经验，其尊严低于以观察为基础的自然哲学（DRN 第 8 卷第 4 章；第 3 卷第 176 页以下）。
+  - id: 21
+    kind: body
+    source: |-
+      ## 6. Ethics
+    step1: |-
+      ## 6 伦理学
+    step2: |-
+      ## 6 伦理学
+  - id: 22
+    kind: body
+    source: |-
+      The ethics exposed in the 9ᵗʰ book of *De rerum natura* is strictly naturalist. The only objective which Telesio ascribes to the spirit is self-preservation and self-improvement, the former lying in its ability to react suitably to influences from the external world, the latter in its capability of finding means to improve its state of being. This comes about through theoretical knowledge, specifically through natural philosophy and medicine (cf. DRN book VIII, ch. XXI) and through learning to control one’s own emotions and desires. According to Telesio, we can voluntarily provoke and suppress affections and their related actions (DRN book IX, ch. I; vol. III, p. 332f.); what is more, we are able to master the degree to which we desire and are affected (DRN book IX, ch. II; vol. III, p. 334). The principle of moral virtue is said to be a knowledge of what is helpful and what is damaging for survival and well-being in human society. All virtues and vices are reduced to self-conservation.
+    step1: |-
+      《论物性》第 9 卷所阐述的伦理学是严格的自然主义伦理学。特莱西奥归于精气的唯一目标是自我保存与自我改善：前者在于精气恰当地回应外部世界影响的能力，后者在于它找到改善自身存在状态之手段的能力。自我改善通过理论知识来实现，特别是通过自然哲学与医学（参见 DRN 第 8 卷第 21 章），也通过学会控制自己的情感与欲望。按照特莱西奥，我们可以自愿地引发和抑制情感及其相关行动（DRN 第 9 卷第 1 章；第 3 卷第 332 页以下）；不仅如此，我们还能掌控我们欲望和受影响的程度（DRN 第 9 卷第 2 章；第 3 卷第 334 页）。道德德性的原则据说是一种知识——关于什么有助于人类社会中的存活与福祉、什么有害的知识。一切德性与恶习都被还原为自我保存。
+    step2: |-
+      《论物性》第 9 卷所陈的伦理学是彻底的自然主义伦理学。特莱西奥赋予精气的唯一目标是自我保存与自我改善：前者在于它对外部世界的影响作出恰当回应的能力，后者在于它寻得改善自身存在状态之手段的能力。自我改善经由理论知识达成——尤其是自然哲学与医学（参见 DRN 第 8 卷第 21 章）——也经由学会控制自己的情感与欲望。按特莱西奥，我们能够自愿地引发和抑制情感及其相关行动（DRN 第 9 卷第 1 章；第 3 卷第 332 页以下）；不止于此，我们还能掌控自己欲望与受感的程度（DRN 第 9 卷第 2 章；第 3 卷第 334 页）。道德德性之本，据说在于这样一种知识：知道在社会生活中什么有助于存活与福祉、什么有害。一切德性与恶习尽皆还原为自我保存。
+  - id: 23
+    kind: body
+    source: |-
+      ## 7. Science and Religion
+    step1: |-
+      ## 7 科学与宗教
+    step2: |-
+      ## 7 科学与宗教
+  - id: 24
+    kind: body
+    source: |-
+      Whereas medieval and Renaissance authors often seemed to rely on the double-truth theory in order to maintain the freedom of scientific research and teaching, Telesio maintained a purely scientific approach. But he did not deny the existence of God and of the human soul. Telesio’s God is not the God who acts in nature and history, though he did not deny the possibility of miracles (DRN book IV, ch. XXV; vol. I, p. 176). The God Telesio seems to imagine can be compared to a mechanic. Just as the best mechanic creates an artefact which will work without interruption and default, so the power of the almighty divine artist is represented in a cosmos which is able to generate and to sustain itself without ever running the danger of corruption (see DRN book I, ch. X).
+    step1: |-
+      中世纪与文艺复兴的作者们为维护科学研究和教学的自由，常常似乎依赖双重真理论；特莱西奥则保持一种纯科学的进路。但他不否认上帝与人类灵魂的存在。特莱西奥的神不是在自然与历史中行动的神，不过他并不否认奇迹的可能性（DRN 第 4 卷第 25 章；第 1 卷第 176 页）。特莱西奥想象的神可以比作一位机械师。正如最好的机械师造出的器物能够不中断、无故障地运转，全能神圣艺人的大能也体现于一个能够自我生成、自我维系而永不面临毁灭危险的宇宙之中（见 DRN 第 1 卷第 10 章）。
+    step2: |-
+      中世纪与文艺复兴的作者为护持科学研究与教学的自由，往往倚重双重真理论；特莱西奥则持守一条纯科学的进路。但他并不否认上帝与人类灵魂的存在。特莱西奥的神不是那位在自然与历史中行动的神，不过他并未否认奇迹的可能性（DRN 第 4 卷第 25 章；第 1 卷第 176 页）。特莱西奥心中的神，可以比作一位机械师：正如最高明的机械师造出的器物能够不间歇、无故障地运转，全能神圣艺人的大能也体现于这样一个宇宙——它能够自我生成、自我维系，永不面临毁灭之虞（见 DRN 第 1 卷第 10 章）。
+  - id: 25
+    kind: body
+    source: |-
+      Besides the natural soul or spirit Telesio accepted the existence of an immortal soul superimposed by God (DRN book V, ch. II–III). But in his theory of psychology and ethics the soul does not play any significant role, for which reason researchers have often held it to be an addition designed to avoid conflicts with the Church. On the other hand, there do exist certain modes of behavior which cannot be explained in a purely naturalistic and materialistic way, such as the human striving for eternity and the martyrs’ denial of the highest objective of self-preservation. But far from building a bridge to the philosophical tradition, Telesio’s definition of a second, divinely superimposed soul as “forma corporis et praecipue spiritus” deals a deathblow to Aristotle’s teachings. According to Telesio, the idea of an immortal soul was totally unknown to the heathen Aristotle, who is severely criticized for confusing the concept of a natural spirit with the religious idea of a soul (DRN book V, ch. II–III):
+    step1: |-
+      除了自然灵魂或精气之外，特莱西奥还承认一个由上帝叠加于人的不朽灵魂的存在（DRN 第 5 卷第 2–3 章）。但在他的心理学与伦理学理论中，这个灵魂并不扮演任何重要角色，因此研究者常常认为它是为避免与教会冲突而添设的。另一方面，确实存在某些行为方式无法以纯自然主义、唯物主义的方式解释，例如人对永恒的追求、殉道者对自我保存这一最高目标的放弃。然而，特莱西奥把第二个、由神叠加的灵魂定义为“身体并尤其精气的形式”（*forma corporis et praecipue spiritus*），这一定义远非向哲学传统架桥，而是给了亚里士多德的学说致命一击。按照特莱西奥，不朽灵魂的观念对异教的亚里士多德来说全然陌生；亚里士多德因把自然精气的概念与宗教的灵魂观念相混淆而受到严厉批评（DRN 第 5 卷第 2–3 章）：
+    step2: |-
+      在自然的灵魂即精气之外，特莱西奥还承认一个由上帝所加赋的不朽灵魂（DRN 第 5 卷第 2–3 章）。但在他的心理学与伦理学里，这个灵魂并不担纲任何要角，因此研究者每每视之为避免与教会冲突而添设的补笔。另一方面，确乎存在某些无法以纯自然主义、唯物主义方式说明的行为样态——例如人对永恒的追求，又如殉道者对自我保存这一最高目标的弃绝。然而，特莱西奥把这第二个、由神加赋的灵魂定义为“身体并尤其精气的形式”（forma corporis et praecipue spiritus）——这一定义远非向哲学传统递出橄榄枝，而是给了亚里士多德的学说致命一击。按特莱西奥，不朽灵魂的观念对异教的亚里士多德全然陌生；亚里士多德因混淆自然精气的概念与宗教的灵魂观念而遭严辞抨击（DRN 第 5 卷第 2–3 章）：
+  - id: 26
+    kind: body
+    source: |-
+      > And when we have reproved Aristotle and will continue to reprove him for having introduced the soul into the body as its peculiar form, we have not condemned him and we will not condemn him because he equated the soul created by God (a thing which one might suspect was completely unknown to him) with the form of humans, but rather because... he equated the soul which was generated from the semen and which is the only one which senses, causes movements and is (so to speak) something akin to the semen, with the form of the body. (Vol. II, p. 218f.)
+    step1: |-
+      > 我们既然谴责亚里士多德把灵魂引入身体作为其特有的形式，并且还将继续谴责他，那么我们所谴责的、将来也不会放过他的，并不是他把上帝所造的灵魂（这个东西人们尽可以怀疑他全然不知）等同于人的形式，而是因为……他把由种子生成、唯一能感觉、能引起运动并且（可以这么说）与种子性质相近的那个灵魂，等同于身体的形式。（第 2 卷第 218 页以下）
+    step2: |-
+      > 我们既然谴责亚里士多德把灵魂引入身体作为其特有的形式，并且还将继续谴责他，那么我们所谴责的、将来也不会放过他的，并不是他把上帝所造的灵魂（这个东西人们尽可以怀疑他全然不知）等同于人的形式，而是因为……他把由种子生成、唯一能感觉、能引起运动并且（可以这么说）与种子性质相近的那个灵魂，等同于身体的形式。（第 2 卷第 218 页以下）
+  - id: 27
+    kind: body
+    source: |-
+      Nonetheless, the few pages which Telesio dedicated to the immortal soul do not open a path to metaphysical or theological theories. In science, Telesio adheres to a naturalistic worldview. It was Tommaso Campanella who combined Telesian naturalism with a theory of the anima creata and human mind which he based upon sceptical doubts. (Boenke 2005, Ernst 2014, Bondì 2018)[^boenke-2005][^ernst-2014].
+    step1: |-
+      尽管如此，特莱西奥为不朽灵魂写下的那几页，并未开辟一条通往形而上学或神学理论的道路。在科学上，特莱西奥坚持一种自然主义的世界观。是托马索·康帕内拉把特莱西奥的自然主义与一种建基于怀疑论怀疑之上的受造灵魂（*anima creata*）与人类心灵理论结合了起来（Boenke 2005, Ernst 2014, Bondì 2018）[^boenke-2005][^ernst-2014]。
+    step2: |-
+      尽管如此，特莱西奥为不朽灵魂所写的寥寥数页，并未开启一条通往形而上学或神学理论的道路。在科学上，特莱西奥坚守一种自然主义的世界观。把特莱西奥式自然主义与受造灵魂（anima creata）及人类心灵理论结合起来的，是托马索·康帕内拉——其结合以怀疑论的疑虑为根基（Boenke 2005, Ernst 2014, Bondì 2018）[^boenke-2005][^ernst-2014]。
+  - id: 28
+    kind: oir
+    source: |-
+      - [Telesio](http://galileo.rice.edu/Catalog/NewFiles/telesio.html), in the Catalog of the Scientific Community, Galileo project, maintained by Albert Van Helden and Elizabeth Burr (Rice University)
+      - [Bernardino Telesio](https://iep.utm.edu/telesio/) (1509–1588), entry by Emilio Sergio in *The Internet Encyclopedia of Philosophy*.
+    step1: |-
+      - [特莱西奥](http://galileo.rice.edu/Catalog/NewFiles/telesio.html)，载科学社群目录，伽利略计划，Albert Van Helden 与 Elizabeth Burr 维护（莱斯大学）
+      - [贝尔纳迪诺·特莱西奥](https://iep.utm.edu/telesio/)（1509–1588），条目作者 Emilio Sergio，见《互联网哲学百科全书》（*The Internet Encyclopedia of Philosophy*）
+    step2: |-
+      - [特莱西奥](http://galileo.rice.edu/Catalog/NewFiles/telesio.html)，载科学社群目录，伽利略计划，Albert Van Helden 与 Elizabeth Burr 维护（莱斯大学）
+      - [贝尔纳迪诺·特莱西奥](https://iep.utm.edu/telesio/)（1509–1588），条目作者 Emilio Sergio，见《互联网哲学百科全书》（*The Internet Encyclopedia of Philosophy*）

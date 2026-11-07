@@ -1,0 +1,50 @@
+{
+  "slug": "telesio",
+  "kind": "retranslate",
+  "zh_doc": "t/telesio.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T16:35:11Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-07T20:26:47Z",
+      "evidence": "账本 28 段（body27+oir1）双版填毕，lq.py check HARD=0（软旗=机械标题段与斜体转书名号；段25/27 已回改与源同构），compose 27838 字符；文献区 100 条拉丁/意/西语照录；H1 取 SUMMARY 题铃（特勒肖），正文依批规用登记册正形（特莱西奥），已记 §4 归一清单"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-07T20:28:19Z",
+      "evidence": "对照核销：节标题 14:14；正文脚注标记 12:12 顺序一致；文献定义 100:100 键集全等；正文 21 内容块对位（源 byline 属系统性豁免）；相关词条 13 项全自动映射成功（亚里士多德形而上学/心理学、培根、布鲁诺、康帕内拉、卡尔达诺、笛卡尔、盖伦、伽桑狄、帕特里齐、柏拉图伦理学、古代灵魂理论、斯多葛主义）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-07T20:28:19Z",
+      "evidence": "语言校：check_prose 29→6（实修 23：de-chain 12、长句拆分 7、弱动词 2、被字句 2；豁免 6 全在引文内——段13/26 引块与段17 引语，ADR-0020）；check_style --strict 0 issue"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-07T20:30:02Z",
+      "evidence": "体例校：check_style 0 issue、check_academic --strict 0 硬错误、check_math 0/0/0、check_terms 硬错误 0（hegemonikon 同键异译依先登优先并入既有行；Thoreau 词汇表异形对齐登记册）、check_all 七项全绿；术语 16 行/人名 13 行入册。单会话作业冷置后走复审波 r1-r3"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-07T16:35:10Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 4, 2023",
+    "archive_edition": "Spring 2023",
+    "sha256": "7c613f3f7f359aa94f3a1086200486c45638aec98c2ccd4caa88e6085564bcb2"
+  }
+}

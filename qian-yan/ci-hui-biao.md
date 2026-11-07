@@ -898,7 +898,7 @@
 |Hans Vaihinger|汉斯·费英格||
 |hedonism|快乐主义|伦理学标准译名；日常贬义作“享乐主义”，术语表取中性|
 |Henri Bergson|亨利·柏格森||
-|Henry David Thoreau|亨利·戴维·梭罗||
+|Henry David Thoreau|亨利·大卫·梭罗||
 |Henry Home|亨利·霍姆||
 |Henry More|亨利·莫尔||
 |Heraclitus|赫拉克利特||
