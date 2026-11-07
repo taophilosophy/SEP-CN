@@ -1,0 +1,450 @@
+version: 1
+slug: xenophanes
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Xenophanes of Colophon was a philosophically-minded poet who lived in various parts of the ancient Greek world during the late 6ᵗʰ and early 5ᵗʰ centuries BCE. He is best remembered for a novel critique of anthropomorphism in religion, a partial advance toward monotheism, and some pioneering reflections on the conditions of knowledge. Many later writers, perhaps influenced by two brief characterizations of Xenophanes by Plato (*Sophist* 242c–d) and Aristotle (*Metaphysics* 986b18–27), identified him as the founder of Eleatic philosophy (the view that, despite appearances, what there is is a changeless, motionless, and eternal ‘One’). In fact, the Xenophanes who emerges from the surviving fragments defies simple classification. He was a travelling rhapsode who criticised the stories about the gods told by the poets, and he defended a novel conception of the divine nature. But he was also a reflective observer of the human condition, a practitioner of the special form of ‘inquiry’ (*historiê*) introduced by the Milesian philosopher-scientists, and a civic counselor who encouraged his fellow citizens to respect the gods and work to safeguard the well-being of their city.
+    step1: |-
+      科洛丰的克塞诺芬尼是一位有哲学头脑的诗人，公元前六世纪末至五世纪初生活在希腊世界的多个地方。他最为人铭记的是对宗教中神人同形同性论的新颖批判、向一神论的部分迈进，以及若干关于知识条件的开创性思考。许多后来的作者——也许是受了柏拉图（《智者篇》242c–d）与亚里士多德（《形而上学》986b18–27）对克塞诺芬尼的两段简短刻画的影响——把他认定为爱利亚哲学的开创者（该观点主张：尽管有种种现象，存在者是一个不变、不动、永恒的“一”）。事实上，从存世残篇中浮现出来的克塞诺芬尼，很难被简单归类。他是一位游历四方的诵诗人，批评诗人们所讲的关于诸神的故事，并为一种新颖的神性观辩护。但他同时也是人类处境的反思性观察者，是米利都哲人—科学家所引入的那种特殊“探究”（*historiê*）的实践者，还是一位城邦顾问，勉励同胞敬奉诸神、努力守护城邦的福祉。
+    step2: |-
+      科洛丰的克塞诺芬尼是个有哲学头脑的诗人，公元前六世纪末至五世纪初游走于希腊世界各处。后世记得他，多半因为三件事：对宗教中神人同形同性论的新颖批判、朝一神论的部分推进，以及若干关于知识条件的开创性思考。后来不少作者——也许受了柏拉图（《智者篇》242c–d）和亚里士多德（《形而上学》986b18–27）两段简短刻画的影响——把他认作爱利亚哲学的开创者（此说主张：不管现象如何，存在者乃是一个不变、不动、永恒的“一”）。其实，从传世残篇里走出来的克塞诺芬尼并不那么好归类。他是个周游各地的诵诗人，讥评诗人们讲的诸神故事，又为一种新颖的神性观张目；可他同时也是人类处境的冷眼观察者，是米利都哲人—科学家开创的那种特殊“探究”（*historiê*）的践行者，还是位城邦顾问，劝勉同胞敬神、用心守护城邦的福祉。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life and Works
+    step1: |-
+      ## 1 生平与著作
+    step2: |-
+      ## 1 生平与著作
+  - id: 3
+    kind: body
+    source: |-
+      In his *Lives of the Philosophers* (Diels-Kranz, testimonium A1), Diogenes Laertius reports that Xenophanes was born in the small Ionian town of Colophon and flourished during the sixtieth Olympiad (540–537 BCE). Laertius adds that when Xenophanes was “banished from his native city” he “joined the colony planted at Elea” (in Italy), and also lived at Zancle and Catana (two Greek communities in Sicily). He credits Xenophanes with composing verses “in epic meter, as well as elegiacs and iambics attacking Hesiod and Homer and denouncing what they said about the gods”, with reciting his own works, and with composing poems on the founding of Colophon and Elea. Later writers add that “he buried his sons with his own hands”, was sold into slavery, and later released from it. By Xenophanes’ own account (B8) he “tossed about the Greek land” for sixty-seven years, starting at the age of twenty-five.
+    step1: |-
+      第欧根尼·拉尔修在《名哲言行录》（Diels-Kranz，转述 A1）中记载，克塞诺芬尼生于伊奥尼亚小城科洛丰，在第六十届奥林匹亚德（公元前 540—前 537 年）期间正当壮年。拉尔修还补充说，克塞诺芬尼“被逐出故城”后“加入了殖民于埃利亚（在意大利）的队伍”，也曾居于赞克莱与卡塔尼亚（西西里两个希腊城邦）。他称许克塞诺芬尼写有“史诗格律的诗，以及挽歌体与抑扬格体的诗，攻击赫西俄德与荷马，谴责他们关于诸神的说法”，还朗诵自己的作品，并写有关于科洛丰与埃利亚建城的诗。后来的作者补充说，他“亲手埋葬了自己的儿子们”，曾被卖为奴，后来又获释。据克塞诺芬尼自述（B8），他从二十五岁起“在希腊大地上漂泊”了六十七年。
+    step2: |-
+      第欧根尼·拉尔修《名哲言行录》（Diels-Kranz 转述 A1）记载：克塞诺芬尼生于伊奥尼亚小城科洛丰，第六十届奥林匹亚德（公元前 540—前 537 年）时正当盛年。他还说，克塞诺芬尼“被逐出故城”后“入了埃利亚（在意大利）的殖民队伍”，也住过赞克莱和卡塔尼亚（西西里两座希腊城邦）。据他记载，克塞诺芬尼作“史诗格律的诗，兼有挽歌体与抑扬格体，攻讦赫西俄德与荷马，斥责他们关于诸神的说法”，并亲自诵自己的作品，还写过科洛丰与埃利亚建城之诗。后人又补：他“亲手埋葬了儿子们”，曾被卖为奴，后得释放。按克塞诺芬尼自述（B8），他二十五岁起“漂泊于希腊大地”，凡六十七年。
+  - id: 4
+    kind: body
+    source: |-
+      Diels-Kranz (DK) provides 45 fragments of his poetry (although B4, 13, 19, 20, 21 and 41 would be more accurately classified as *testimonia*), ranging from the 24 lines of B1 to the single-word fragments of B21a, 39, and 40. A number of the ‘sympotic poems’ (poems for drinking parties) (B1–3, 5, 6, 22, and the imitation in C2) were preserved by Athenaeus, while the remarks on the nature of the divine were quoted by Clement (B14–16 and 23), Sextus Empiricus (B11, 12, and 24), and Simplicius (B25 and 26). Other snippets survive in the accounts by Diogenes Laertius and Aëtius, or as marginal notes in our manuscripts of various authors, or as entries in later rhetorical summaries and dictionaries. Seventy-four selections, of which the most extensive is the pseudo-Aristotelian treatise *On Melissus, Xenophanes, Gorgias* (*MXG*), make up the collection of *testimonia* in DK. Laertius’ statement (A1) that Xenophanes “wrote in epic meter, also elegiacs, and iambics” is confirmed by extant poems in hexameters and elegiac meter, with one couplet (B14) a combination of hexameter and iambic trimeter. Ancient writers referred to a number of his compositions as *silloi*—‘squints’ or satires, and a critical tone pervades many of the surviving fragments. Three late sources credit Xenophanes with a didactic poem under the title *Peri Phuseôs* (“On Nature”) but not every allusion to an earlier author’s views “on nature” represented a reference to a single work on that subject.
+    step1: |-
+      Diels-Kranz（DK）提供其诗作残篇 45 则（不过 B4、13、19、20、21、41 更准确地应归为*转述*），从 B1 的 24 行到 B21a、39、40 的单字残篇不等。若干“会饮诗”（宴饮场合的诗）（B1–3、5、6、22，以及 C2 中的仿作）由阿特纳奥斯保存，而关于神性的言论则由克莱门（B14–16、23）、塞克斯都·恩披里柯（B11、12、24）和辛普里丘（B25、26）引用。其他片段见于第欧根尼·拉尔修与埃提乌斯的记述，或作为旁注存于我们各种作者的手稿中，或作为条目见于后来的修辞学摘要与辞书。DK 的*转述*汇编共收 74 则选文，其中篇幅最大者为伪亚里士多德著作《论麦里梭、克塞诺芬尼与高尔吉亚》（*MXG*）。拉尔修（A1）称克塞诺芬尼“以史诗格律、兼用挽歌体与抑扬格体写作”，这由现存六音步诗与挽歌体诗所证实，其中一则对句（B14）是六音步与抑扬格三音步的结合。古代作者把他的一些作品称为 *silloi*——“斜眼”或讽刺，而许多存世残篇都弥漫着批评的调子。三种晚出的材料把一部题为《论自然》（*Peri Phuseôs*）的教谕诗归于克塞诺芬尼，但并非每一处提及某位早期作者“论自然”之说，都表示指向同一部论自然的作品。
+    step2: |-
+      Diels-Kranz（DK）收其诗残篇 45 则（不过 B4、13、19、20、21、41 更该算*转述*），长者如 B1 的 24 行，短者如 B21a、39、40 只有一个词。若干“会饮诗”（宴饮场合的诗，B1–3、5、6、22 及 C2 中的仿作）赖阿特纳奥斯得存；论神性的那些话，则由克莱门（B14–16、23）、塞克斯都·恩披里柯（B11、12、24）、辛普里丘（B25、26）引录。其余片段散见于第欧根尼·拉尔修与埃提乌斯的记述，或存于各家手稿的旁注，或见于后世修辞摘要与辞书。DK 的*转述*部分共 74 则，其中最长的是伪亚里士多德《论麦里梭、克塞诺芬尼与高尔吉亚》（*MXG*）。拉尔修（A1）说克塞诺芬尼“用史诗格律写作，也写挽歌体与抑扬格体”，现存六音步诗与挽歌体诗可证；其中一则对句（B14）兼用六音步与抑扬格三音步。古人称他的一些作品为 *silloi*（“斜眼”、讽刺），传世残篇中也确有不少讥刺之音。晚出材料中有三处把一部题为《论自然》（*Peri Phuseôs*）的教谕诗系于他名下；但提到某位前人“论自然”之见，未必都指同一部专论自然的书。
+  - id: 5
+    kind: body
+    source: |-
+      ## 2. Criticisms of Greek Popular Religion
+    step1: |-
+      ## 2 对希腊民间宗教的批评
+    step2: |-
+      ## 2 对希腊民间宗教的批评
+  - id: 6
+    kind: body
+    source: |-
+      Fragments B11 and B12 describe, and implicitly criticize, the stories about the gods told by Homer and Hesiod.
+    step1: |-
+      残篇 B11 与 B12 描述并隐含地批评了荷马与赫西俄德所讲的关于诸神的故事。
+    step2: |-
+      残篇 B11 与 B12 转述了荷马、赫西俄德讲给人们听的诸神故事，字里行间带着批评。
+  - id: 7
+    kind: body
+    source: |-
+      > Homer and Hesiod have attributed to the gods all sorts of things that are matters of reproach and censure among men: theft, adultery, and mutual deception. (B11) …as they sang of numerous illicit divine deeds: theft, adultery, and mutual deceit. (B12)
+    step1: |-
+      > 荷马与赫西俄德把人间一切可耻可责之事都归到诸神身上：偷盗、通奸与相互欺诈。（B11）……他们歌咏诸神许多非法的行径：偷盗、通奸与相互欺骗。（B12）
+    step2: |-
+      > 荷马与赫西俄德把人间一切招人唾骂的事都记在诸神账上：偷盗、通奸、彼此欺诈。（B11）……他们讴歌诸神种种不法行径：偷盗、通奸、互相欺骗。（B12）
+  - id: 8
+    kind: body
+    source: |-
+      The basis for Xenophanes’ unhappiness with the poets’ accounts is not explained, but we may infer from the concluding call to pay due honor to the gods in Xenophanes’ B1 that an attribution of scandalous conduct would be incompatible with the goodness or perfection any divine being must be assumed to possess (cf. Aristotle *Meta*. 1072b; Plato, *Rep*. 379b.)
+    step1: |-
+      克塞诺芬尼为何不满诗人的说法，文中没有解释；但从克塞诺芬尼 B1 结尾处要求给予诸神应有敬意的呼吁，我们可以推断：凡神性存在都必须被设定具有的善或完善，与把丑行归于诸神是不相容的（参见亚里士多德《形而上学》1072b；柏拉图《理想国》379b）。
+    step2: |-
+      他为何不满，文中未说；但从 B1 结尾那句“给诸神应有的敬意”可推知：凡神性存在都得假定具有善或完善，而把丑事栽给诸神，与此不相容（参亚里士多德《形而上学》1072b；柏拉图《理想国》379b）。
+  - id: 9
+    kind: body
+    source: |-
+      In the well-known fragments B14–16, Xenophanes comments on the general tendency of human beings to conceive of divine beings in human form:
+    step1: |-
+      在著名的残篇 B14–16 中，克塞诺芬尼评论了人类倾向于以人的形象构想神性存在这一普遍习性：
+    step2: |-
+      残篇 B14–16 很有名，克塞诺芬尼在那里点出人总爱按自己的模样去构想神灵这一通病：
+  - id: 10
+    kind: body
+    source: |-
+      > But mortals suppose that gods are born, wear their own clothers and have a voice and body. (B14) Ethiopians say that their gods are snub-nosed and black; Thracians that theirs are are blue-eyed and red-haired. (B16)
+    step1: |-
+      > 但凡人以为诸神有生有死，穿着他们自己的衣服，有声音有身体。（B14）埃塞俄比亚人说他们的神塌鼻而黑；色雷斯人说他们的神蓝眼而红发。（B16）
+    step2: |-
+      > 凡人却以为神有生有死，穿他们的衣裳，有嗓子有身子。（B14）埃塞俄比亚人说自家的神塌鼻梁、皮肤黑；色雷斯人说自家的神蓝眼睛、红头发。（B16）
+  - id: 11
+    kind: body
+    source: |-
+      B15 adds, probably in a satirical vein, that if horses and oxen had hands and could draw pictures, their gods would look remarkably like horses and oxen. B17, “…and bacchants of pine stand round the well-built house” may represent a criticism of the common ancient belief that a god could assume possession of a physical object so as to offer protection to its possessor. The ridiculing of Pythagoras’ claim to have recognized the soul of a departed friend in the voice of a barking dog (B7), together with the attacks on divination credited to Xenophanes in A52, reflect the broader denial of knowledge of divine attributes and operations set out in B34. Xenophanes is prepared to offer a positive account of the nature of the deity (see the following section) but his position appears to be that while no mortal being will ever know about the gods with any degree of certainty, we can at least avoid adopting beliefs and practices clearly at odds with the special nature any divine being must be assumed to possess.
+    step1: |-
+      B15 补充说——大概是讽刺口吻——如果马和牛有手、能画画，它们画出的神就会活像马和牛。B17“……还有松树的酒神狂女围着建造精良的房屋”也许表达了对一种古代流行信念的批评：神可以占有一个物理对象，从而保护其占有者。嘲笑毕达哥拉斯自称在一条吠叫的狗的叫声中认出了亡友的灵魂（B7），连同 A52 中归于克塞诺芬尼的对占卜的攻击，都反映了 B34 所陈述的对神性属性与作为之知识的更广泛否认。克塞诺芬尼准备对神的本性提出正面的说明（见下一节），但他的立场似乎是：尽管凡人永远不会以任何程度的确定性认识诸神，我们至少可以避免采纳那些与任何神性存在都必须被设定具有的特殊本性明显相悖的信念与做法。
+    step2: |-
+      B15 又补一句（多半是挖苦）：马和牛若是有手、会画画，它们画出来的神准活像马和牛。B17“……还有酒神狂女围着精舍而立”云云，许是讥评古人一种流行信念——神可附身于某件实物，以护佑其主人。他嘲笑毕达哥拉斯自称从一条狗的吠声中认出亡友之魂（B7），A52 又记他攻击占卜：这些都呼应 B34 那番话——我们对神性属性与作为根本无从确知。克塞诺芬尼愿意对神的本性作正面说明（见下节），但他的立场似乎是：凡人永远不能确知诸神之事，但至少可以不采纳那些与神性存在必具的特殊本性显然相悖的信念与做法。
+  - id: 12
+    kind: body
+    source: |-
+      ## 3. The Nature of the Divine
+    step1: |-
+      ## 3 神的本性
+    step2: |-
+      ## 3 神的本性
+  - id: 13
+    kind: body
+    source: |-
+      So far as is known, Xenophanes was the first Greek thinker to offer a complex and at least partially systematic account of the divine nature. We have already noted how an implicit assumption of divine perfection may underlie his criticisms of Homer, Hesiod, and the tendency to imagine the gods in human form. Of the positive characterizations of the divine made in B23–26, perhaps the most fundamental is B23:
+    step1: |-
+      就我们所知，克塞诺芬尼是第一位对神性作出复杂、至少部分系统说明的希腊思想家。我们已经注意到，一种隐含的神性完善假定，如何可能构成他对荷马、赫西俄德以及以人形想象诸神之倾向的批评的基础。在 B23–26 对神性所作的正面刻画中，也许最根本的是 B23：
+    step2: |-
+      据今所知，克塞诺芬尼是头一个把神性讲得复杂、至少部分成体系的希腊思想家。前文已见，他的批评——无论针对荷马、赫西俄德，还是针对以人形想象诸神的习气——背后可能都隐含着一个假定：神性必是完善的。B23–26 正面刻画神性，其中 B23 也许最为根本：
+  - id: 14
+    kind: body
+    source: |-
+      > One god greatest among gods and men, not at all like mortals in body or in thought.
+    step1: |-
+      > 一位神，在诸神与众人中最伟大，形体与思想都不像凡人。
+    step2: |-
+      > 神只有一位，在诸神与众人中最为伟大，形貌与心思都不似凡人。
+  - id: 15
+    kind: body
+    source: |-
+      Although the remark has often been read as a pioneering expression of monotheism, this reading is made problematic by the nearby reference to ‘gods’ in the plural in the first line and the possibility that Xenophanes sought to highlight not the *one* god but rather the one *greatest* god (cf. Homer, *Iliad* 12, 243 for the use of ‘one’ (Greek *heis*) reinforcing a superlative). The relevant measures of divine ‘greatness’ are not specified, but the two most obvious choices would be greatness in honor and power, with honor perhaps the more basic of the two (cf. *Iliad* 2, 350; 2, 412; 4, 515; *Od*. 3, 378; 5,4; Hesiod, *Theogony* 49, 534, 538, etc.). Greatness in power would in turn explain the characterizations of the divine as perceptive and conscious in all its parts (B24), able to shake all things by the exercise of his thought (B25), and able to accomplish everything while remaining forever in the same place or condition (B26). It is unclear, however, how far Xenophanes himself realized the interconnections among the different divine attributes or sought to exploit those connections for didactic purposes. At least as they have come down to us, none of the remarks on the divine nature (B23–26) contains any of the inferential particles (*gar, epei, oun, hoti*, etc.) one would normally expect to find in a piece of reasoned discourse.
+    step1: |-
+      尽管这段话常被读作一神论的开创性表达，但这一读法有两个难处：第一行附近出现了复数“诸神”，而且克塞诺芬尼也许意在突出那*一位*最伟大的神，而非*一位*神（参见荷马《伊利亚特》12, 243 用“一”（希腊文 *heis*）加强最高级的用法）。神性“伟大”的相关尺度未作说明，但两个最明显的选项是在荣誉与权力上的伟大，而荣誉也许是二者中更基本的（参见《伊利亚特》2, 350；2, 412；4, 515；《奥德赛》3, 378；5, 4；赫西俄德《神谱》49, 534, 538 等）。权力上的伟大则转而可以解释：何以把神性刻画为在其一切部分都有感知、有意识（B24），能以思想的运用摇动万物（B25），能成就一切而永处同一地点或状态（B26）。然而，克塞诺芬尼本人对不同神性属性之间的相互关联意识到何种程度，或是否试图利用这些关联以达到教谕目的，并不清楚。至少就流传至今的文本看，关于神性的言论（B23–26）没有一处含有推论小品词（*gar、epei、oun、hoti* 等），而这类词在推论性论述中通常总会出现。
+    step2: |-
+      这段话常被当作一神论的开山之作；但这样读有两处别扭。其一，头一行旁边就出现了复数的“诸神”；其二，克塞诺芬尼要突出的，也许是那*一位*最伟大的神，而非只有*一位*神（参荷马《伊利亚特》12, 243，以“一”（希腊文 *heis*）加强最高级）。神性“伟大”按什么衡量，他没有说；最显然的两种是荣誉与权力，而荣誉或许更基本（参《伊利亚特》2, 350；2, 412；4, 515；《奥德赛》3, 378；5, 4；赫西俄德《神谱》49, 534, 538 等）。若取权力，则正好解释何以把神说成浑身皆有感知与意识（B24）、能以心思摇动万物（B25）、能成就一切而永处原地原状（B26）。不过，克塞诺芬尼本人对这些属性之间的关联究竟体认多深、是否有意借它们施教，已不可知。至少就传世文本看，B23–26 没有一处用推论小品词（*gar、epei、oun、hoti* 等），而这类词在讲道理的文句里本该出现。
+  - id: 16
+    kind: body
+    source: |-
+      Some later writers (A28.6, 31.2, 34–36) report that Xenophanes identified his ‘one greatest god’ with the entire physical universe—often termed ‘the whole’ or ‘all things’, and some modern accounts portray Xenophanes as a pantheist. But this understanding of Xenophanes’ doctrines seems inconsistent with his assertion that “god shakes all things” (B25) that “all things are from the earth and to the earth all things come in the end” (B27), and that “all things which come into being and grow, are earth and water” (B29). On the whole, Xenophanes’ remarks on the divine nature are perhaps best read as an expression of a traditional Greek piety: there exists a being of extraordinary power and excellence, and it is incumbent on each of us to hold it in high regard.
+    step1: |-
+      有些后来的作者（A28.6、31.2、34–36）报道说，克塞诺芬尼把他那“一位最伟大的神”与整个物理宇宙——常被称为“全体”或“万物”——等同起来，一些现代论述也把克塞诺芬尼描绘成泛神论者。但这种对克塞诺芬尼学说的理解，似乎与他的一些论断不一致：“神摇动万物”（B25）；“万物出于土，万物最终归于土”（B27）；“一切生成并生长之物，都是土与水”（B29）。总体而言，克塞诺芬尼关于神性的言论，也许最好读作一种传统希腊虔敬的表达：存在着一位具有非凡力量与卓越的存在者，而我们每个人都有责任对它深怀敬意。
+    step2: |-
+      也有一些晚出作者（A28.6、31.2、34–36）说，克塞诺芬尼把“一位最伟大的神”等同于整个物理宇宙——常称“全体”或“万物”——现代论著中也有把他写成泛神论者的。可这样理解他的学说，与他几处论断相抵：“神摇动万物”（B25）；“万物出于土，万物终归于土”（B27）；“凡生成而生长者，皆土与水”（B29）。总的看，克塞诺芬尼论神性的话，最好读作一种传统希腊虔敬的流露：有这么一位力量与卓越都超凡的存在者，我们人人理应敬重它。
+  - id: 17
+    kind: body
+    source: |-
+      ## 4. Social Criticism
+    step1: |-
+      ## 4 社会批评
+    step2: |-
+      ## 4 社会批评
+  - id: 18
+    kind: body
+    source: |-
+      Five fragments touch on traditional subjects of Greek sympotic verse—on proper conduct at symposia (drinking parties), the measures of personal excellence, and the existence of various human foibles or failures. Xenophanes appears to have been particularly interested in identifying and discouraging conduct that failed to pay due honor to the gods or posed a risk to the stability and well-being of the city (or perhaps both). Although these passages may be insufficiently abstract and demonstrative in character to count as ‘philosophical teachings’, they do represent an important bridge between Greek poetry of the archaic period and the kind of moral theorizing practiced by many 5th and 4th-century thinkers. Xenophanes’ disparagement of the honors accorded to athletes (B2), his call to censor the stories the poets tell about the gods (B1), and counsel to live a life of moderation (B3 and 5, and perhaps B21) all anticipate views expressed in Plato’s *Republic* (cf. 607a, 378b, 372b.) His criticism of the pursuit of useless luxuries (B3) also anticipates Socrates’ rebuke of his fellow citizens for caring more about wealth and power than about virtue (cf. *Apology* 30b.) His cautionary remarks about knowledge (B34) and reminder of the subjectivity of human taste (B38: “If god had not made yellow honey, they would think that figs were far sweeter”) also reflect a traditional view of human judgment as limited and conditioned by personal experience. In each of these areas, Xenophanes’ social commentary represents a continuation of the Greek poetic tradition as well as a step toward explicit philosophical theorizing.
+    step1: |-
+      有五则残篇涉及希腊会饮诗的传统主题：会饮（宴饮）上的合宜举止、个人卓越的尺度，以及人类种种弱点或过失的存在。克塞诺芬尼似乎特别关心辨识并劝阻那些未能给诸神应有敬意、或危及城邦稳定与福祉（也许二者兼有）的行为。尽管这些段落就性质而言也许不够抽象、不够论证性，算不上“哲学学说”，它们确实构成了上古时期希腊诗歌与许多公元前五、四世纪思想家所实践的道德理论化之间的重要桥梁。克塞诺芬尼对给予运动员的荣誉的贬抑（B2）、对审查诗人所讲诸神故事的呼吁（B1），以及过节制生活的劝告（B3、5，也许还有 B21），都预示了柏拉图《理想国》中表达的见解（参见 607a、378b、372b）。他对追求无用奢侈的批评（B3）也预示了苏格拉底对同胞的责备：他们关心财富与权力胜过德性（参见《申辩篇》30b）。他关于知识的谨慎言论（B34）以及关于人的品味之主观性的提醒（B38：“如果神没有造出黄色的蜜，他们会觉得无花果甜得多”），也反映了一种传统看法：人的判断有限，且受个人经验制约。在上述每一领域，克塞诺芬尼的社会评论都既延续了希腊诗歌传统，又朝明确的哲学理论化迈进了一步。
+    step2: |-
+      有五则残篇涉及希腊会饮诗的老题目：宴饮上的得体举止、个人卓越的尺度、人身上种种弱点与过失。克塞诺芬尼似乎格外在意找出并劝止两类行为：一是不给诸神应有敬意的，二是危及城邦稳定与福祉的（或许兼而有之）。这些文字也许不够抽象、不够论证，算不上“哲学学说”；但它们确是上古希腊诗歌与公元前五、四世纪众多思想家道德思辨之间的重要桥梁。他贬抑给运动员的荣誉（B2），呼吁审查诗人所讲的诸神故事（B1），劝人过节制的生活（B3、5，也许还有 B21）：这些都预示了柏拉图《理想国》里的主张（参 607a、378b、372b）。他批评追逐无用的奢华（B3），也预示了苏格拉底对同胞的责备——重财重权而轻德性（参《申辩篇》30b）。他论知识的谨慎之语（B34），以及提醒人的品味各有主观（B38：“神若没造出黄澄澄的蜜，他们会觉得无花果甜得多”），同样承袭了一种传统看法：人的判断有限，且被个人经验所限。以上各处，克塞诺芬尼的社会评论既接续了希腊诗歌传统，又朝明确的哲学思辨迈进了一步。
+  - id: 19
+    kind: body
+    source: |-
+      ## 5. Scientific Interests
+    step1: |-
+      ## 5 科学兴趣
+    step2: |-
+      ## 5 科学兴趣
+  - id: 20
+    kind: body
+    source: |-
+      We may reasonably conclude from several surviving fragments and a large number of *testimonia* that Xenophanes was well aware of the teachings of the Milesian philosopher-scientists (Thales, Anaximander, and Anaximenes), and sought to improve on them. While many of the details of his own ‘scientific’ views remain obscure, the range and interconnectedness of his interests make him an important figure in the development of Ionian scientific theory. Theodoretus, Stobaeus, and Olympiodorus (all in A 36) credit him with a view of earth as the *archê* or “first principle” of all things. Yet Galen (also in A36) rejects this attribution, and B29 equates “all things which come into being and grow” with “earth *and* water”. A two-substance *archê* would, moreover, be compatible with the many references to physical mixtures. A33 credits Xenophanes with a view of the sea as containing many mixtures, while B37 notes the presence of water in rocky caves, and A50 reports a view of the soul as earth and water. Insofar as some natural bodies are described as consisting entirely of water (or of a part of water, as in A46 where “the sweet portion” of the water is drawn up from the sea and separated off), it would be best to understand Xenophanes’ “two-substance theory” in a distributed sense: all things are either earth, or water, or earth combined with water.
+    step1: |-
+      从若干存世残篇和大量*转述*中，我们可以合理推断：克塞诺芬尼熟知米利都哲人—科学家（泰勒斯、阿那克西曼德、阿那克西美尼）的学说，并力求改进它们。尽管他自己“科学”观点的许多细节仍不清楚，其兴趣的广度与相互关联使他成为伊奥尼亚科学理论发展中的重要人物。塞奥多雷特、斯托拜乌斯和奥林匹奥多鲁斯（均见 A36）称许他认为土是万物的 *archê*（“第一原理”）。然而盖伦（亦见 A36）拒斥这一归属，而 B29 把“一切生成并生长之物”等同于“土*与*水”。而且，二实体的 *archê* 会与许多关于物理混合物的提及相容。A33 称许克塞诺芬尼认为海含有许多混合物，B37 注意到岩石洞穴中有水，A50 报道了一种认为灵魂是土与水的观点。既然某些自然物体被描述为完全由水构成（或由水的一部分构成，如 A46 中“甜的部分”从海中被吸起并分离出来），最好以一种分布的意义来理解克塞诺芬尼的“二实体理论”：万物要么是土，要么是水，要么是土与水结合。
+    step2: |-
+      从若干残篇和大量*转述*看，可以合理推想：克塞诺芬尼熟悉米利都哲人—科学家（泰勒斯、阿那克西曼德、阿那克西美尼）的学说，并且想有所改进。他自己的“科学”观点细处多不可考，但其兴趣之广、彼此之通，使他在伊奥尼亚科学理论的演进中占一席要地。塞奥多雷特、斯托拜乌斯、奥林匹奥多鲁斯（均见 A36）都说他以土为万物的 *archê*（“本原”）。但盖伦（亦见 A36）不认此说；而 B29 把“凡生成而生长者”说成“土*与*水”。再说，二本原说与许多关于物理混合的记载也合得上。A33 说他以为海中含多种混合物；B37 指出岩洞里有水；A50 记其灵魂为土与水之说。既然有些自然物被说成全由水构成（或由水的一部分构成，如 A46 说水之“甜的部分”从海中升起、分离开来），那么克塞诺芬尼的“二实体说”最好作分布式理解：万物或是土，或是水，或是土水相合。
+  - id: 21
+    kind: body
+    source: |-
+      Xenophanes appears to have explored many of the same phenomena studied at an earlier date by the Milesians. B28 presents a view of the nature and extent of the earth’s depths; B30 identifies the sea as the source of clouds, wind, and rain; B32 comments on the nature of Iris (rainbow); B37 notes the presence of water in caves; B39 and 40 mention “cherry trees” and “frogs”; A38–45 discuss various astronomical phenomena, and A48 indicates an interest in periodic volcanic eruptions in Sicily. Hippolytus (A33) credits Xenophanes with a theory of alternating periods of world-wide flood and drought that was inspired, at least in part, by the discovery of fossilized remains of sea creatures at inland locations. Whether or not Xenophanes himself traveled to Syracuse, Paros, and Malta where these remains were found, his use of this information as the basis for a broad explanation of phenomena is an implicit testimonial to the heuristic value of information gained through travel and observation.
+    step1: |-
+      克塞诺芬尼似乎探索过许多米利都人早先研究过的同类现象。B28 提出了关于大地深处之性质与范围的观点；B30 认定海是云、风与雨的来源；B32 评论伊里斯（彩虹）的性质；B37 注意到洞穴中有水；B39 与 40 提到“樱桃树”与“青蛙”；A38–45 讨论各种天文现象，A48 表明他对西西里的周期性火山喷发有兴趣。希波吕托斯（A33）称许克塞诺芬尼有一种全球性洪涝与干旱交替时期的理论，其灵感至少部分来自在内陆地点发现海洋生物化石残骸。无论克塞诺芬尼本人是否到过发现这些残骸的叙拉古、帕罗斯和马耳他，他把这一信息用作广泛解释现象的基础，本身即隐含地证明了经由旅行与观察所获信息的启发价值。
+    step2: |-
+      克塞诺芬尼探索的现象，不少米利都人早先也研究过。B28 谈大地深处的性质与范围；B30 说海是云、风、雨的源头；B32 论伊里斯（彩虹）的性质；B37 记岩洞有水；B39、40 提到“樱桃树”与“青蛙”；A38–45 论各种天象；A48 可见他对西西里周期性火山喷发有兴趣。希波吕托斯（A33）说他持一种全球大涝与大旱交替的周期说，灵感至少部分来自在内陆发现的海生生物化石。他本人是否去过发现这些化石的叙拉古、帕罗斯、马耳他，不得而知；但他拿这些材料作广泛解释的底子，本身就等于承认：旅行和观察所得的信息大有启发之用。
+  - id: 22
+    kind: body
+    source: |-
+      Many *testimonia* credit Xenophanes with an interest in meteorological and astronomical phenomena. Not only are these comments of interest in their own right, they also present us what was arguably his single most important scientific contribution--his contention that clouds or cloud-like substances play a basic role in a great many natural phenomena. The term *nephos* (“cloud”) appears only twice in the fragments of his work (in B30 and 32) but many *testimonia* either bear directly on the nature of clouds or make use of clouds in order to explain the nature of other phenomena. To cite an example of the first type, according to Diogenes Laertius “he says…the clouds are formed by the sun’s vapor [i.e. vapor caused by the heat from the sun’s rays] raising and lifting them to the surrounding air” (A1.24–5). Aëtius (A46) provides a similar account:
+    step1: |-
+      许多*转述*称许克塞诺芬尼对气象与天文现象有兴趣。这些评论不仅本身有趣，还向我们呈现了他也许最重要的单项科学贡献——他主张云或类云物质在大量自然现象中起基本作用。*nephos*（“云”）一词在他的残篇中只出现两次（B30 与 32），但许多*转述*要么直接涉及云的性质，要么利用云来解释其他现象的性质。举第一类的一个例子，据第欧根尼·拉尔修，“他说……云由太阳的蒸气[即由太阳光线之热所造成的蒸气]形成，蒸气把它们举起、托向周围的空气”（A1.24–5）。埃提乌斯（A46）提供了类似的说明：
+    step2: |-
+      不少*转述*都说克塞诺芬尼留心气象与天文现象。这些评论本身有趣，也让我们看到他也许最重要的一项科学贡献：他主张云或类云之物在大量自然现象中起根本作用。*nephos*（“云”）在他的残篇里只出现两次（B30、32），但许多*转述*不是直接谈云的性质，就是借云解释别的现象。第一类的例子见第欧根尼·拉尔修：“他说……云由太阳的蒸气[即太阳光线之热所生的蒸气]而成，蒸气把云托起，送上周围的空气”（A1.24–5）。埃提乌斯（A46）的说法相仿：
+  - id: 23
+    kind: body
+    source: |-
+      > Xenophanes (says that) things in the heavens occur through the heat of the sun as the initial cause; for when the moisture is drawn up from the sea, the sweet portion, separating because of its fineness and turning into mists, combines into clouds, trickled down in drops of rain due to compression, and vaporizes the winds.
+    step1: |-
+      > 克塞诺芬尼（说）天上的事物经由太阳之热作为初始原因而发生；因为当湿气从海中升起，甜的部分因其精细而分离、化为雾气，聚合成云，因压缩而滴落为雨，并使风蒸发而出。
+    step2: |-
+      > 克塞诺芬尼（说）：天上的事物以太阳之热为初始原因而发生。湿气从海中升起，其中甜的部分因精细而分离，化为雾气，聚合成云；云受挤压，滴落为雨，又使风蒸腾而起。
+  - id: 24
+    kind: body
+    source: |-
+      B30 gives us essentially the same view in Xenophanes’ own words:
+    step1: |-
+      B30 以克塞诺芬尼自己的话给出了实质上相同的观点：
+    step2: |-
+      B30 用克塞诺芬尼自己的话，讲了实质上相同的意思：
+  - id: 25
+    kind: body
+    source: |-
+      > The sea is the source of water and of wind, For without the great sea, there would be no wind Nor streams of rivers, nor rainwater from on high But the great sea is the begetter of clouds, winds, and rivers.
+    step1: |-
+      > 海是水与风的源头，因为若无大海，就不会有风，也不会有河流的溪水，也不会有自天而降的雨水；而大海是云、风与河流的生育者。
+    step2: |-
+      > 海是水之源，也是风之源；若无那浩瀚大海，便无风，亦无江河之流，亦无天上落下的雨水；大海生云、生风、生河流。
+  - id: 26
+    kind: body
+    source: |-
+      Having accounted for the formation of clouds in mechanistic terms through processes of vaporization and compression Xenophanes proceeds to make use of clouds to explain a large number of meteorological and astronomical phenomena. The general claim appears in the pseudo-Plutarch *Miscellanies*: “he says that the sun and the stars come into being from the clouds” (A32), and Aëtius gives us many specific applications:
+    step1: |-
+      克塞诺芬尼以蒸发与压缩的过程、用机械论术语说明了云的形成之后，进而利用云来解释大量气象与天文现象。总的主张见于伪普鲁塔克《杂录》：“他说太阳与星辰由云生成”（A32），而埃提乌斯给出了许多具体应用：
+    step2: |-
+      克塞诺芬尼用蒸发与压缩的机械过程讲清了云的形成，随后便借云去解释大量气象与天文现象。总纲见于伪普鲁塔克《杂录》：“他说太阳与星辰皆由云而生”（A32）；埃提乌斯则给出许多具体应用：
+  - id: 27
+    kind: body
+    source: |-
+      > The stars come into being from burning clouds (A38).
+      >
+      > The sort of fires that appear on ships--whom some call the Dioscuri [St. Elmo’s fire]--are tiny clouds glimmering in virtue of the sort of motion they have (A39).
+      >
+      > The sun consists of burning clouds…a mass of little fires, themselves constructed from the massing together of the moist exhalation (A40).
+      >
+      > The moon is compressed cloud (A43).
+      >
+      > All things of this sort [comets, shooting stars, meteors] are either groups or movements of clouds (A44).
+      >
+      > Flashes of lightning come about through the shining of the clouds because of the movement (A45).
+    step1: |-
+      > 星辰由燃烧的云生成（A38）。
+      >
+      > 船上出现的那类火光——有人称之为狄俄斯库里[圣艾尔摩之火]——是微小的云，凭其所具的那类运动而闪烁（A39）。
+      >
+      > 太阳由燃烧的云构成……是由湿气汇聚而成的一团小火（A40）。
+      >
+      > 月亮是被压缩的云（A43）。
+      >
+      > 这一类东西[彗星、流星、陨星]要么是云团，要么是云的移动（A44）。
+      >
+      > 闪电因云的运动而由其闪光产生（A45）。
+    step2: |-
+      > 星辰由燃烧的云生成（A38）。
+      >
+      > 船上出现的那类火光——有人叫作狄俄斯库里[圣艾尔摩之火]——是些微小的云，随其固有的运动而闪烁（A39）。
+      >
+      > 太阳由燃烧的云构成……是一大团小火，由湿气汇聚而成（A40）。
+      >
+      > 月亮是被压紧的云（A43）。
+      >
+      > 这一类东西[彗星、流星、陨星]，无非是云团或云的移动（A44）。
+      >
+      > 闪电起于云的运动，由其闪光而生（A45）。
+  - id: 28
+    kind: body
+    source: |-
+      As it happens, clouds are natural candidates for the *explanans* in a scientific account. Since they are midway in form between a solid and gaseous state they are easily linked with solids, liquids, and gases of various kinds. And since they occupy a region midway between the surface of the earth and the upper regions of the heavens, they are well positioned to link the two basic substances of earth and water with many astronomical phenomena.
+    step1: |-
+      碰巧，云天然是科学说明中解释项的候选者。由于它们在形态上介于固体与气态之间，很容易与各类固体、液体与气体联系起来。而且，由于它们占据大地表面与天界高层之间的中间区域，它们很适合把土与水这两种基本实体同许多天文现象联系起来。
+    step2: |-
+      说来也巧，云天然适合充当科学说明里的解释项。它形态上介于固体与气体之间，容易与各类固体、液体、气体搭上关系；位置又介于地面与天界高层之间，正便于把土、水两种基本实体同众多天文现象串起来。
+  - id: 29
+    kind: body
+    source: |-
+      Another important feature of Xenophanes’ cloud-based approach to understanding natural phenomena is the application of this theory to a set of phenomena closely linked with traditional religious belief. We have already seen this in the thoroughly naturalistic accounts given of the “great sea”, sun, moon, and stars, but nowhere is the contrast of the old and new ways of thinking more evident than in his comments on “Iris”--rainbow:
+    step1: |-
+      克塞诺芬尼以云为基础来理解自然现象，这一进路的另一个重要特征，是把该理论应用于一组与传统宗教信仰密切相关的现象。我们已经在他对“大海”、太阳、月亮和星辰所作彻底自然主义的说明中看到了这一点，而他关于“伊里斯”——彩虹——的评论，则最能显出新旧思维方式的对立：
+    step2: |-
+      克塞诺芬尼这套以云为本的自然解释，还有一个要紧处：它被用到了与传统宗教信仰紧密相连的一组现象上。他对“大海”、太阳、月亮、星辰所作彻底自然主义的说明，已见前文；而新旧思路的对峙，没有哪里比他论“伊里斯”——彩虹——的一段更鲜明：
+  - id: 30
+    kind: body
+    source: |-
+      > And she whom they call Iris, this too is by nature a cloud. Purple, red, and greenish-yellow to behold. (B32)
+    step1: |-
+      > 而他们称为伊里斯的那位，按其本性也是一朵云：紫的、红的、黄绿的，看上去如此。（B32）
+    step2: |-
+      > 他们唤作伊里斯的那位，本性上也是一朵云——望上去紫、红、黄绿交杂。（B32）
+  - id: 31
+    kind: body
+    source: |-
+      For the members of Xenophanes’ audience “Iris” referred to the messenger goddess of Homer’s *Iliad* (2, 686) and Hesiod’s *Theogony* (780) and a set of atmospheric phenomena (halos, coronae, and cloud iridescence) commonly considered portents or signs of the intentions of divine beings. As the daughter of Thaumas (“marvel”) Iris was the natural marvel *par* *excellence*. Yet for Xenophanes, ‘she’ is really an ‘it’ and a ‘this’ (the Greek neuter demonstrative *touto*), by nature a purple, red, and greenish-yellow cloud. It is, moreover, something that is there for us ‘to behold’ or ‘to look at’ (*idesthai*). Perhaps nowhere in presocratic philosophy can we find a clearer expression of the character of the Ionian ‘intellectual revolution’—a decision to put aside an older way of thinking about events grounded in a belief in divine beings in favor of an approach to understanding the world that employs wide-ranging inquiry and direct observation and resorts to strictly physical causes and forces. Having deprived the gods of human form and clothing and removed the divine to some permanent and distant location, Xenophanes proceeds to strip a wide range of natural phenomena of all vestiges of religious or spiritual significance. His de-mythologized account of natural phenomena is, in short, the logical complement to his thoroughly de-naturalized account of the divine nature.
+    step1: |-
+      对克塞诺芬尼的听众来说，“伊里斯”指的是荷马《伊利亚特》（2, 686）与赫西俄德《神谱》（780）中的信使女神，以及一组常被视为诸神意旨之预兆或迹象的大气现象（晕、华与云彩的虹彩）。作为塔乌玛斯（“奇迹”）的女儿，伊里斯正是自然奇迹 *par* *excellence*。然而对克塞诺芬尼来说，“她”其实是一个“它”、一个“这”（希腊文中性指示词 *touto*），本性上是一朵紫、红、黄绿的云。而且，它是某种供我们“观看”或“注视”（*idesthai*）的东西。也许在苏格拉底以前的哲学中，再也找不到比这更清楚地表达伊奥尼亚“知识革命”之性格的地方了——那是一种决断：撇开以对神性存在的信念为基础、关于事件的较旧思维方式，转而采用一种理解世界的方式，它运用广泛的探究与直接的观察，并诉诸严格物理的原因与力量。克塞诺芬尼既已剥夺诸神的人形与衣裳、把神性移往某个永恒而遥远的位置，接着便着手剥去广泛自然现象的一切宗教或灵性意义。一言以蔽之，他对自然现象的去神话化说明，是他的彻底去自然化神性说明的逻辑补足。
+    step2: |-
+      在克塞诺芬尼的听众听来，“伊里斯”既是荷马《伊利亚特》（2, 686）与赫西俄德《神谱》（780）里那位信使之神，也指一组大气现象（晕、华、云的虹彩），人们常把它们看作诸神意旨的征兆。作为塔乌玛斯（“惊奇”）的女儿，伊里斯本就是自然奇观中的奇观。可在克塞诺芬尼这里，“她”其实是个“它”，是个“这”（希腊文中性指示词 *touto*）：一朵紫、红、黄绿的云；而且是供我们“一看”、供人“端详”（*idesthai*）的东西。在苏格拉底以前的哲学里，恐怕再也找不到更醒目的文字，来标示伊奥尼亚“知识革命”的性质了——那是一场决断：抛开以神灵信仰为根基的旧式事件解释，改用广泛探究与直接观察去理解世界，只诉诸严格物理的原因与力量。克塞诺芬尼既已褫夺诸神的人形与衣饰、把神性挪到某个永恒遥远之处，接下来便把一大片自然现象上的宗教或灵性色彩统统剥去。简言之，他对自然现象的去神话化说明，正是他对神性彻底“去自然化”说明的逻辑补足。
+  - id: 32
+    kind: body
+    source: |-
+      Despite its several virtues, Xenophanes’ physical theory appears to have had little impact on later thinkers. Anaxagoras followed his lead on the nature of the rainbow (cf. DK 59 B19) and Empedocles knew (but repudiated) his claim of the earth’s indefinitely extended depths (DK 31 B39). But both Plato and Aristotle appear to have ignored Xenophanes’ scientific views or assigned them little importance. One factor that may have contributed to this chilly reception was the absence of any expression by Xenophanes of the kind of commitment to teleology that both Plato and Aristotle regarded as essential to a proper understanding of the cosmos. Xenophanes’ universe is controlled by a set of forces, but it is never described as “heading toward the best” nor is it directed toward some best result by a controlling intelligence. (Xenophanes’ divine does “shake all things” by the thought of his mind (alone), but he is never described as in any way directing or controlling particular events.) It is also obvious that Xenophanes’ heavenly bodies would have fallen far short of the level of perfection that, with Aristotle, became a hallmark of classical astronomical theory. Not only are Xenophanes’ heavenly bodies not divine beings, they undergo creation and destruction at regular intervals. Only from the perspective of a much later period can the merits of Xenophanes’ scientific views be fairly appreciated. Many centuries would have to pass before an emphasis on direct observation and the use of entirely natural causes and forces would become the scientific orthodoxy.
+    step1: |-
+      尽管有若干优点，克塞诺芬尼的物理理论对后世思想家似乎影响甚微。阿那克萨戈拉在彩虹性质上追随他（参见 DK 59 B19），恩培多克勒也知道（但否弃了）他关于大地无限延伸之说（DK 31 B39）。但柏拉图与亚里士多德似乎都忽视了他的科学观点，或认为它们无关紧要。造成这种冷遇的一个因素或许是：克塞诺芬尼从未像柏拉图与亚里士多德所认为的那样，对目的论作出任何承诺，而他们认为这对正确理解宇宙至关重要。克塞诺芬尼的宇宙由一组力量支配，但它从未被描述为“趋向最好”，也未被某个支配性的理智引向某种最好的结果。（克塞诺芬尼的神确实凭其心灵的思想“摇动万物”，但从未被描述为以任何方式指导或控制具体事件。）同样明显的是，克塞诺芬尼的天体远远达不到那种后来随亚里士多德成为古典天文学理论标志的完善程度。克塞诺芬尼的天体不仅是非神性的，而且它们还按固定间隔经历生成与毁灭。只有从晚得多的时期的视角看，克塞诺芬尼科学观点的价值才能得到公允的赏识。要过许多个世纪，强调直接观察、使用完全自然的原因与力量才会成为科学的正统。
+    step2: |-
+      这理论优点不少，对后世思想家却似乎影响甚微。阿那克萨戈拉在彩虹问题上步其后尘（参 DK 59 B19）；恩培多克勒知道他关于大地无限深远之说，却予以否弃（DK 31 B39）。至于柏拉图与亚里士多德，看来都对他那套科学观点不闻不问，或视之为无关紧要。其中一因，也许是他从不作目的论承诺——而在柏拉图与亚里士多德看来，目的论乃是正确理解宇宙所必需。克塞诺芬尼的宇宙由一组力量支配，却从未被说成“奔向最好”，也未见有某个统辖性的理智把它引向某种最佳结局。（他的神确实凭心思“摇动万物”，但从未被说成以任何方式指导、支配具体事件。）同样明显的是，他的天体远远够不上那种自亚里士多德起成为古典天文学标志的完善：那些天体非但不是神灵，还按固定周期生成与毁灭。要公允地赏识克塞诺芬尼科学观点的价值，得站在很晚的后世来看；还得再过许多世纪，强调直接观察、只用自然原因与力量，才成为科学的正统。
+  - id: 33
+    kind: body
+    source: |-
+      ## 6. Reflections on Knowledge
+    step1: |-
+      ## 6 关于知识的思考
+    step2: |-
+      ## 6 关于知识的思考
+  - id: 34
+    kind: body
+    source: |-
+      Five surviving fragments and roughly a dozen *testimonia* address what might be termed ‘epistemological questions’—“How much can any mortal being hope to know?”, “Does truth come to us through our own efforts or by divine revelation?”, and “What role do our sense faculties play in the acquisition of knowledge?” Unfortunately, the picture that emerges from many of the *testimonia* largely contradicts what appear to be the views Xenophanes himself expressed. According to the summary in the pseudo-Plutarch *Miscellanies*, Xenophanes “declares that the senses are deceptive and generally rejects reason along with them” (A32.) Similarly, in his *Concerning Philosophy* Aristocles reports that “…since they think that sense perceptions and appearances must be rejected and trust only reason. For at one earlier time Xenophanes, Parmenides, Zeno, and Melissus said something of this sort” (A49). Similarly, Aëtius declares that “Pythagoras, Empedocles, and Xenophanes (say that) sense perceptions are deceptive” (A49). Yet, as we have noted, B28 refers without qualification to “the upper limit of the earth that is seen (*horatai*) here at our feet” and B32 appears to encourage those in Xenophanes’ audience to ‘look at’ or ‘observe’ (*idesthai*) the multi-colored cloud that is the rainbow. The realistic description of the sumptuous banquet in B1 and the wide range of Xenophanes’ reported geographical and geological interests all sit poorly with an Eleatic “rationalism” that would dismiss all information gained through our faculties of sense and construct on the basis of reason alone a view of “what is” as a motionless, changeless and eternal unity.
+    step1: |-
+      五则存世残篇和大约十来则*转述*涉及可称为“认识论问题”者：“凡人能指望知道多少？”“真理是靠我们自己的努力，还是靠神的启示降临于我们？”“我们的感官能力在获取知识中起什么作用？”不幸的是，从许多*转述*中浮现出来的图景，与克塞诺芬尼本人所表达的见解似乎在很大程度上相矛盾。据伪普鲁塔克《杂录》的概述，克塞诺芬尼“宣称感官是骗人的，并一般地连同感官一起拒斥理性”（A32）。同样，阿里斯托克勒斯在《论哲学》中报道说：“……因为他们认为必须拒斥感官知觉与现象，只信赖理性。因为在更早的某个时候，克塞诺芬尼、巴门尼德、芝诺和麦里梭就说过这类话”（A49）。同样，埃提乌斯宣称“毕达哥拉斯、恩培多克勒和克塞诺芬尼（说）感官知觉是骗人的”（A49）。然而，如前所述，B28 毫无保留地提到“我们脚下这里所见（*horatai*）的大地上限”，B32 似乎鼓励克塞诺芬尼听众中的那些人去“观看”或“观察”（*idesthai*）那朵多色的云即彩虹。B1 中对丰盛宴会的写实描述，以及克塞诺芬尼被报道的广泛地理学与地质学兴趣，都很难与一种爱利亚式“理性主义”相合——那种理性主义会否弃经由我们感官能力获得的一切信息，仅凭理性构造出一种把“所是”视为不动、不变、永恒之统一的观点。
+    step2: |-
+      五则残篇、十来则*转述*谈的，正是可以叫作“认识论问题”的东西：“凡人究竟能指望知道多少？”“真理是我们自己挣来的，还是神启给的？”“感官在求知中起什么作用？”可惜，许多*转述*拼出来的图景，与克塞诺芬尼本人的说法似乎颇有抵牾。伪普鲁塔克《杂录》说他“宣称感官欺人，并索性连理性也一并否弃”（A32）。阿里斯托克勒斯《论哲学》也说：“……因为他们认为感觉与现象必须摒弃，只可信赖理性。早先克塞诺芬尼、巴门尼德、芝诺、麦里梭都说过类似的话”（A49）。埃提乌斯同样说“毕达哥拉斯、恩培多克勒、克塞诺芬尼（认为）感觉欺人”（A49）。然而前文已见：B28 毫不含糊地提到“我们脚下所见（*horatai*）的大地尽头”；B32 似乎是在鼓励听众去“看”、去“端详”（*idesthai*）那朵化作彩虹的多色之云；B1 对丰盛宴席的写实描写，以及记载中他广泛的地理学、地质学兴趣——这些都与一种爱利亚式“理性主义”格格不入：那种主义要把感官所得一概弃置，只凭理性构造出“所是”为不动、不变、永恒之统一。
+  - id: 35
+    kind: body
+    source: |-
+      Xenophanes’ most extended comment on knowledge is B34:
+    step1: |-
+      克塞诺芬尼关于知识的最长评论是 B34：
+    step2: |-
+      克塞诺芬尼论知识最长的一段是 B34：
+  - id: 36
+    kind: body
+    source: |-
+      > …and of course the clear and certain truth no man has seen nor will there be anyone who knows about the gods and what I say about all things. For even if, in the best case, one happened to speak just of what has been brought to pass, still he himself would not know. But opinion is allotted to all.
+    step1: |-
+      > ……而当然，那明白而确定的真理，没有人见过，将来也不会有人知道诸神之事以及我关于万物所说的话。因为即使最佳情形下，一个人恰好说出了实际发生之事，他自己仍然不会知道。但意见分配给了所有人。
+    step2: |-
+      > ……那明白确定的真理，无人见过，将来也不会有人知晓诸神之事，也不会知晓我关于万物所说的一切。因为纵使在最好的情形下，有人恰好说出了实情，他自己仍旧不知道。意见却人人有份。
+  - id: 37
+    kind: body
+    source: |-
+      Portions of these remarks were quoted, and thereby preserved for posterity, by the ancient skeptics who hailed Xenophanes as the founder of their particular variety of philosophical skepticism. Recent interpretations of B34 reject the skeptical interpretation in favor of other less extreme readings. On some accounts, B34 is concerned to deny only a direct perceptual awareness. Others find in his comments a distinction between natural science, where only probabilities can be achieved, and theology, where certainty is possible. Still others read Xenophanes’ remarks as a blanket endorsement of “fallibilism”—the view that while each individual is free to express his or her opinion, the possibility of error can never be completely excluded.
+    step1: |-
+      这段话的部分内容曾被古代怀疑论者引用，因而为后世保存下来；他们把克塞诺芬尼誉为他们那种哲学怀疑论的创始人。晚近对 B34 的解释拒斥怀疑论读法，转而支持其他不那么极端的读法。按某些说法，B34 只意在否认直接的知觉觉察。另一些人在他的评论中发现了一种区分：自然科学只能达到或然性，而神学则可能达到确定性。还有一些人把克塞诺芬尼的话读作对“可错论”的笼统认可——这种观点认为，尽管每个个人都可以自由表达自己的意见，出错的可能性却永远无法完全排除。
+    step2: |-
+      这番话部分被古代怀疑论者引录而得以传世；他们奉克塞诺芬尼为自己那一派哲学怀疑论的开山祖。晚近对 B34 的解读多不取怀疑论说，而倾向较温和的读法。有人说，B34 只否认直接的知觉觉察；有人从中读出自然科学（只能达到或然）与神学（可以达到确定）之别；还有人把它读作对“可错论”的笼统认可——人人可自由发表意见，但出错的可能永远无法彻底排除。
+  - id: 38
+    kind: body
+    source: |-
+      Since B34 opens with the phrase “and indeed…” it is likely that we do not have the whole of the remark, or all the premises from which its main conclusion was intended to follow. However, the use of the term *saphes* (“clear”, in the first line of the fragment) by Xenophanes’ Ionian contemporary, the historian Herodotus, provides a helpful clue to the logic of the argument. At several points in his *History* Herodotus speaks of what is *saphes*, or what can be known in a *sapheôs* manner, as what can be confirmed to be the case on the basis of first-hand observation:
+    step1: |-
+      既然 B34 以“而且确实……”开头，我们很可能没有这段话的全貌，也没有其主旨结论所依据的全部前提。然而，克塞诺芬尼的伊奥尼亚同代人、历史学家希罗多德对 *saphes*（“明白”，见残篇第一行）一词的用法，为论证的逻辑提供了有用的线索。希罗多德在其《历史》中数处谈到 *saphes*，或以 *sapheôs* 方式可知者，指的是可凭第一手观察确认为实情的东西：
+    step2: |-
+      B34 劈头就是“而且确实……”，可见我们手里多半不是全段，也缺了推出主旨结论所依据的全部前提。好在克塞诺芬尼的伊奥尼亚同代人、史家希罗多德用过 *saphes*（“明白”，见残篇首行）一词，为论证逻辑提供了线索。《历史》数处说到 *saphes*、或以 *sapheôs* 方式可知者，指的都是能凭第一手观察坐实的东西：
+  - id: 39
+    kind: body
+    source: |-
+      > And wishing to gain sure knowledge of these things (*thelôn de toutôn peri saphes ti eidenai*) from a point where this was possible, I took ship to Tyre in Phoenicia, where I heard there was a very holy temple of Heracles. There I saw it (*eidon*) richly equipped… Then I went to Thasos where I also found a temple of Heracles…Therefore what I have discovered by inquiry clearly shows (*ta men nun historêmena dêloi sapheôs*) that Heracles is an ancient god. (*History* II, 44)
+    step1: |-
+      > 我渴望对这些事获得确切的知识（*thelôn de toutôn peri saphes ti eidenai*），便从可能做到的地方乘船前往腓尼基的推罗，听说那里有一座非常神圣的赫拉克勒斯神庙。我在那里看见它（*eidon*）陈设丰盛……随后我前往萨索斯，在那里也发现了一座赫拉克勒斯神庙……因此，我通过探究所发现的东西清楚地表明（*ta men nun historêmena dêloi sapheôs*），赫拉克勒斯是一位古老的神。（《历史》II, 44）
+    step2: |-
+      > 我既想把这些事弄个明白（*thelôn de toutôn peri saphes ti eidenai*），便从能办到的地方登船去腓尼基的推罗——听说那里有座极神圣的赫拉克勒斯庙。我在那里亲眼见了（*eidon*）它的丰盛陈设……随后又去萨索斯，在那里也见到一座赫拉克勒斯庙……所以我考察所得，清楚表明（*ta men nun historêmena dêloi sapheôs*）：赫拉克勒斯是位古老的神。（《历史》II, 44）
+  - id: 40
+    kind: body
+    source: |-
+      Since the gods were believed to inhabit a realm far removed from that of mortal beings, it would be natural for Xenophanes to hold that no account of their nature and activities could possibly be confirmed on the basis of first-hand observation, hence known for certain to be correct. And since the pioneering cosmological accounts put forward by his Milesian predecessors held that a single material substance underlay phenomena in *all* places and times it would be equally impossible for any individual to confirm such a universal claim on the basis of first-hand observation, hence know for certain that it was true—even if in fact it was true. The sentiments expressed in lines three and four can be read as reinforcing this cautionary sentiment. Their point would be that no one (moreover) should be credited with knowledge (of the certain truth concerning the gods or the nature of all things) simply on the basis of having correctly described, perhaps even predicted, individual events as they take place (perhaps a reference to self-styled paragons of wisdom and predictors of events such as Epimenides and Pythagoras). The overall message of B34, from its opening reference to “no man” to its concluding phrase “fashioned for all” would have been that there never has been nor ever will be anyone who has the capacity to achieve certainty with respect to these important matters.
+    step1: |-
+      既然人们相信诸神居住在一个远离凡人领域的境地，克塞诺芬尼就很自然地会认为：关于诸神本性与活动的任何说法，都不可能凭第一手观察得到确认，因而都不可能被确知为正确。而且，既然他米利都前辈所提出的开创性宇宙论主张，在*一切*地点与时间都有某种单一物质实体作为现象的基础，那么任何个人也同样不可能凭第一手观察确认这样一个普遍主张，因而不可能确知它为真——即便它事实上为真。第三、四行所表达的情绪，可以读作对这份谨慎之感的加强。其要点是：任何人都不应（而且）仅仅因为正确描述了——也许甚至预测了——当时发生的个别事件，就被认为拥有知识（关于诸神或万物本性的确定真理的知识）（这也许是指像埃庇米尼得斯与毕达哥拉斯那样自命为智慧典范与事件预言者的人）。B34 的总体信息，从开头提到的“没有人”到结尾的“分配给了所有人”，本该是：过去从来没有、将来也永远不会有任何人，有能力就这些重要问题达到确定性。
+    step2: |-
+      诸神既被认为住在远离凡人的境地，克塞诺芬尼自然会说：关于诸神的本性与作为，任何说法都不可能靠第一手观察来证实，因而都不可能被确知为真。同样，他那些米利都前辈的宇宙论主张，认为有某种单一物质实体在*一切*地点、*一切*时间作为现象的基础；任何个人也都不可能凭第一手观察去证实这样一个全称命题，因而不可能确知它为真——哪怕它事实上为真。第三、四行那些话，可读作对这份谨慎的加强：谁也不能仅仅因为正确描述了、甚至预言了当时某个别事件，就算拥有了知识（关于诸神或万物本性的确定真理）；这也许是在暗指埃庇米尼得斯、毕达哥拉斯之流自命智慧典范、预言事件的人物。B34 通篇的意旨，从开头“没有人”到结尾“人人有份”，说的应当是：过去没有，将来也不会有任何人，能就这些要紧事达到确定性。
+  - id: 41
+    kind: body
+    source: |-
+      Xenophanes’ reference to a second-best level of comprehension or awareness—‘opinion’ or ‘conjecture’ (*dokos*) should not be read as inherently negative or dismissive. By Platonic standards, opinion—even when correct—would be an inferior possession, unstable and subject to removal through persuasion. But we have no reason to assume that Xenophanes shared Plato’s view on this topic. And in fact B35, quoted by Plutarch in connection with encouraging a bashful speaker to express his views, appears to present what one ‘opines’ or believes in a fairly positive light:
+    step1: |-
+      克塞诺芬尼提到次一等的理解或意识层次——“意见”或“臆测”（*dokos*）——不应被读作天然消极或轻蔑。按柏拉图的标准，意见即便正确，也是一种较低级的拥有物，不稳固，可经劝说而被去除。但我们没有理由假定克塞诺芬尼在这一点上同意柏拉图的看法。事实上，B35 由普鲁塔克引用，用以鼓励一位羞怯的说话者表达自己的观点，它似乎以相当正面的眼光呈现一个人所“臆测”或相信的东西：
+    step2: |-
+      克塞诺芬尼所说的次一等理解——“意见”或“臆测”（*dokos*）——不该被读成天然带贬义、瞧不起人。按柏拉图的标准，意见纵然正确，也是次等的拥有物，不稳定，一劝就改。但我们没有理由假定克塞诺芬尼在此与柏拉图同调。普鲁塔克曾引 B35，用来鼓励一位怯场的发言者说出己见；这首诗看来对所“臆测”、所相信的东西评价相当正面：
+  - id: 42
+    kind: body
+    source: |-
+      > …Let these things be believed (*dedoxasthô*) as like the realities…
+    step1: |-
+      > ……让这些事被相信（*dedoxasthô*），如同与实在相似……
+    step2: |-
+      > ……就让这些事被人相信（*dedoxasthô*），当作与实情相像之物……
+  - id: 43
+    kind: body
+    source: |-
+      The similarity between the verbal *dedoxasthô* of B35 and the nominative *dokos* of B34 permits us to combine the two fragmentary remarks into a single coherent view: of course there can be no knowledge of the certain truth concerning the gods and the basic principles governing the cosmos, but *dokos*—opinion or conjecture—is available and should be accepted when it corresponds with how things really are.
+    step1: |-
+      B35 的动词 *dedoxasthô* 与 B34 的主格 *dokos* 之间的相似性，使我们能把两则残篇合为一个融贯的观点：关于诸神以及支配宇宙的基本原理的确定真理，当然不可能有知识，但 *dokos*——意见或臆测——是可以得到的，并且当它与事物的实际所是相合时，就应被接受。
+    step2: |-
+      B35 的动词 *dedoxasthô* 与 B34 的名词 *dokos* 同源，两则残篇便可合成一个融贯的看法：关于诸神与宇宙基本原理的确定真理，当然无知识可言；但 *dokos*（意见、臆测）是有的，只要它与事情的实情相合，就应当接受。
+  - id: 44
+    kind: body
+    source: |-
+      The full sense of B36, however, may never be determined. Neither its context (a grammatical treatise of Herodian) nor its wording (“…however many they have made evident for mortals to look upon”) provides definitive guidance. Perhaps Xenophanes was seeking to set an upper limit to the range of things that can be known by human beings (i.e. to caution others that they could know only as many as things as the gods had made available to them to experience). But it is equally possible that the remark was intended (as B32 above) to encourage the members of his audience to explore and inquire on their own (i.e. to encourage them to investigate “however many things” the gods have made available to them to experience).
+    step1: |-
+      然而，B36 的完整含义也许永远无法确定。其上下文（赫罗迪安的一部语法论著）与措辞（“……凡他们为凡人显明出来可供观看的”）都不能提供确定指引。也许克塞诺芬尼是在试图为人类可知之物的范围设定一个上限（即告诫他人：他们只能知道诸神显明给他们去经验的那许多东西）。但同样可能的是，这段话意在（如上述 B32）鼓励听众自己去探索、去探究（即鼓励他们去考察诸神显明给他们经验的那“许多东西”）。
+    step2: |-
+      B36 的全义，恐怕永远定不下来。它的上下文（赫罗迪安一部语法书）和措辞（“……他们为凡人显明、可供观看的种种”）都指不出确切方向。也许克塞诺芬尼是想给人的可知范围划一道上限：你们所能知道的，至多是诸神显出来供人经验的那一些。但也可能（如前面 B32 那样），他是在鼓励听众自己去探索、去追问——去考察诸神显明了供人经验的“那许多东西”。
+  - id: 45
+    kind: body
+    source: |-
+      B18 has often been hailed as an expression of an optimistic outlook or “faith in human progress”—the conviction that humankind has made and will continue to make improvements in the arts and conditions of life generally. Yet none of the other surviving fragments reflects such an optimism and several (e.g. B2 and 3) suggest that Xenophanes was not at all optimistic about his city’s prospects for survival. In the light of his reported repudiation of divination (A52), de-mythologizing of various natural phenomena (B30 and 32), and evident enthusiasm for inquiry into a wide range of subjects, B18 is perhaps best read as an expression of faith in the value of ‘inquiry’ or ‘seeking’ as the preferred approach to gaining knowledge of ‘all things’.
+    step1: |-
+      B18 常被颂为乐观心态或“对人类进步的信念”的表达——即确信人类在技艺与一般生活条件上已经并将继续取得改进。然而，其他存世残篇没有一则反映这种乐观，而且有几则（例如 B2 与 3）表明，克塞诺芬尼对自己城邦的存续前景毫不乐观。鉴于记载中他对占卜的否弃（A52）、对各种自然现象的去神话化（B30 与 32），以及对广泛主题探究的明显热情，B18 也许最好读作一种信念的表达：相信“探究”或“寻求”是获取关于“万物”之知识的首选途径。
+    step2: |-
+      B18 常被赞为乐观心态、“对人类进步的信念”的流露——相信人类在技艺和生活条件上已经进步，还将继续进步。可其余残篇没有一则透出这份乐观；反倒有几则（如 B2、B3）显示，他对本城的存续前景毫不乐观。考虑到记载中他否弃占卜（A52）、给各种自然现象去神话（B30、32），又显然热衷探究广泛题目，B18 最好读作一种信念的流露：相信“探究”、相信“寻求”，才是认识“万物”的正路。
+  - id: 46
+    kind: body
+    source: |-
+      To sum up: Xenophanes’ attitude toward knowledge appears to have been the product of two distinct impulses. While he believed that inquiry in the form of travel and direct observation was capable of yielding useful information about the nature of things, he remained sufficiently under the influence of an older piety to want to caution others against seeking to understand matters that lay beyond the limits of all human experience. Here, as in other aspects of his thought, Xenophanes stands with one foot in the world of the archaic poet and the other in the “new science” of the late 6th and early 5th centuries BCE
+    step1: |-
+      总结起来：克塞诺芬尼对知识的态度，似乎是两种不同冲动的产物。他相信以旅行与直接观察为形式的探究能够产生关于事物本性的有用信息；同时，他又足够深地受一种较旧的虔敬影响，想要告诫他人不要去寻求理解那些超出一切人类经验界限的事情。在这一点上，如同他思想的另一些方面，克塞诺芬尼一只脚站在上古诗人的世界里，另一只脚站在公元前六世纪末五世纪初的“新科学”里。
+    step2: |-
+      总的来说，克塞诺芬尼对知识的态度像是两股冲动的产物。一方面，他相信以旅行、直接观察为形式的探究能带来关于事物本性的有用知识；另一方面，他又相当深地受着旧式虔敬的熏染，要告诫人们别去追问那些超出人类经验边界的事。这一点如同他思想的别处：他一只脚还在上古诗人的世界里，另一只脚已经踏进公元前六世纪末、五世纪初的“新科学”。
+  - id: 47
+    kind: body
+    source: |-
+      ## 7. Xenophanes’ Legacy
+    step1: |-
+      ## 7 克塞诺芬尼的遗产
+    step2: |-
+      ## 7 克塞诺芬尼的遗产
+  - id: 48
+    kind: body
+    source: |-
+      Many later writers identified Xenophanes as the teacher of Parmenides and the founder of the Eleatic “school of philosophy”—the view that, despite appearances, what there is is a motionless, changeless, and eternal ‘One’. This view of Xenophanes is based largely on Plato’s reference to “our Eleatic tribe, beginning from Xenophanes as well as even earlier” (*Sophist* 242d) and Aristotle’s remark that “...with regard to the whole universe, he says that the one is the god” (*Meta*. A5, 986b18), along with some verbal similarities between Xenophanes’ description of the “one greatest, unmoving god” and Parmenides’ account of a “motionless, eternal, and unitary being”. But the Xenophanes who speaks to us in the surviving fragments is a combination of rhapsode, social critic, religious teacher, and keen student of nature. Euripides’ *Heracles* 1341 ff. echoes his attack on the stories told about the gods by Homer and Hesiod (B11–12) and a passage of Euripides’ *Autolycus* quoted by Athenaeus (C2) repeats portions of the attack on the honors accorded to athletes delivered in B2. In the *Republic*, Plato shows himself the spiritual heir of Xenophanes when he states that the guardians of his ideal state are more deserving of honors and public support than the victors at Olympia, criticizes the stories told about the gods by the poets, and calls for a life of moderate desire and action. A pronounced ethic of moderation, sometimes bordering on asceticism, runs through much of ancient Greek ethical thought, beginning with Solon and Xenophanes and continuing through Socrates and Plato to the Epicureans and Cynics. Xenophanes’ conception of a “one greatest god” who “shakes all things by the thought (or will) of his mind” (*noou phreni*) may have helped to encourage Heraclitus’ belief in an ‘intelligence’ (*gnômê*) that steers all things (B41), Anaxagoras’ account of the *nous* that orders and arranges all things (B12), and Aristotle’s account of a divine *nous* that inspires a movement toward perfection without actually doing anything toward bringing it about (*Metaphysics* Lambda.)
+    step1: |-
+      许多后来的作者把克塞诺芬尼认定为巴门尼德的老师、爱利亚“哲学学派”的开创者——该观点主张：尽管有种种现象，存在者是一个不动、不变、永恒的“一”。这种关于克塞诺芬尼的看法，主要依据柏拉图对“我们爱利亚这一族，从克塞诺芬尼乃至更早开始”的提及（《智者篇》242d），以及亚里士多德的评论“……就整个宇宙而言，他说一就是神”（《形而上学》A5, 986b18），再加上克塞诺芬尼关于“一位最伟大、不动的神”的描述与巴门尼德关于“不动、永恒、单一的存在者”的说明之间的一些措辞相似。但在存世残篇中向我们说话的克塞诺芬尼，是诵诗人、社会批评者、宗教教师与热心的自然研究者的结合体。欧里庇得斯《赫拉克勒斯》1341 行以下回响着他对荷马与赫西俄德所讲诸神故事的攻击（B11–12），阿特纳奥斯所引欧里庇得斯《奥托吕科斯》的一段（C2）则重复了 B2 中对给予运动员荣誉的攻击的部分内容。在《理想国》中，柏拉图表明自己是克塞诺芬尼的精神继承人：他声称理想国的护卫者比奥林匹亚的竞技胜利者更配得到荣誉与公共供养，批评诗人们所讲的诸神故事，并呼吁过一种欲望与行动皆有节制的生活。一种鲜明的节制伦理——有时近于禁欲——贯穿古代希腊伦理思想的大部分，从梭伦与克塞诺芬尼开始，经苏格拉底与柏拉图，一直延续到伊壁鸠鲁派与犬儒派。克塞诺芬尼关于“一位最伟大的神”凭“其心灵的思想（或意志）”（*noou phreni*）“摇动万物”的构想，也许有助于促成赫拉克利特关于一种引导万物的“理智”（*gnômê*）的信念（B41）、阿那克萨戈拉关于安排与整理万物的 *nous* 的说明（B12），以及亚里士多德关于一位神圣 *nous* 激发趋向完善的运动、而自身并不实际做什么以促成它的说明（《形而上学》Λ 卷）。
+    step2: |-
+      后世不少作者把克塞诺芬尼认作巴门尼德的老师、爱利亚“哲学学派”的开山者——此说主张：不管现象如何，存在者是一个不动、不变、永恒的“一”。此说主要本于柏拉图一句话：“我们爱利亚这一族，从克塞诺芬尼乃至更早便已开始”（《智者篇》242d），以及亚里士多德的评论“……就整个宇宙而论，他说一即是神”（《形而上学》A5, 986b18）；再加上克塞诺芬尼“一位最伟大、不动的神”与巴门尼德“不动、永恒、单一的存在者”在措辞上有些相似。然而，在传世残篇中开口说话的克塞诺芬尼，是诵诗人、社会批评家、宗教教师与热心的自然研究者合于一身。欧里庇得斯《赫拉克勒斯》1341 行以下，回响着他对荷马、赫西俄德诸神故事的攻击（B11–12）；阿特纳奥斯所引欧里庇得斯《奥托吕科斯》一段（C2），又复述了 B2 中抨击给运动员荣誉的部分。柏拉图在《理想国》里俨然以克塞诺芬尼的精神继承者自居：他说理想国的护卫者比奥林匹亚的竞技得胜者更配享荣誉与公养，批评诗人所讲的诸神故事，并呼唤一种欲望与行动皆有节制的生活。一种鲜明的节制伦理——有时近于禁欲——贯穿古希腊伦理思想的大半，自梭伦与克塞诺芬尼始，经苏格拉底、柏拉图，直到伊壁鸠鲁派与犬儒派。克塞诺芬尼那位“最伟大的神”凭“心思（或意志）”（*noou phreni*）“摇动万物”的构想，或许有助于催生赫拉克利特关于一种引导万物的“理智”（*gnômê*）的信念（B41）、阿那克萨戈拉关于安排整理万物的 *nous* 之说（B12），以及亚里士多德关于神圣 *nous* 激发万物趋向完善、自身却不实际动手的说明（《形而上学》Λ 卷）。
+  - id: 49
+    kind: body
+    source: |-
+      In his Dictionnaire historique et critique (1697) Pierre Bayle began the modern philosophical discussion of the problem of evil by quoting Xenophanes’ remark (as reported in Diogenes Laertius 9.19) that “most things give way to mind” (*ta polla hêssô nou*). Accepting the conjecture proposed by the classical scholar Méric Casaubon, Bayle took Xenophanes to be asserting that God was unable to make all things conform to his benevolent will. Bayle then assembled a set of texts in support of the view that in fact the amount of evil in the universe far exceeds the amount of good. Bayle’s article sparked a reply from Leibniz (in his Théodicée of 1710). In his Candide (1759), Voltaire supported Bayle’s view by ridiculing Leibniz’s contention that this is the best of all possible worlds. Although there may be no direct line of influence, we may also consider Feuerbach’s critique of religious belief as a ‘projection’ of human attributes, and Freud’s analysis of religious belief as an instance of ‘wish-fulfillment’, as two modern successors to Xenophanes’ observation of the general tendency of human beings to conceive of divine beings in terms of their own attributes and capacities.
+    step1: |-
+      皮埃尔·培尔在其《历史与批判辞典》（1697）中，通过引用克塞诺芬尼的一句话（据第欧根尼·拉尔修 9.19 报道）“多数事物让位于心灵”（*ta polla hêssô nou*），开启了现代哲学关于恶的问题的讨论。培尔接受了古典学者梅里克·卡索邦提出的校读，认为克塞诺芬尼是在断言：神无法使万物都合乎其仁慈的意志。培尔随即汇编了一组文本，以支持宇宙中恶的总量远超过善的总量这一观点。培尔的条目引发了莱布尼茨的回应（见其 1710 年《神义论》）。伏尔泰在《老实人》（1759）中支持培尔的看法，嘲笑莱布尼茨关于这是所有可能世界中最好世界的论断。尽管也许没有直接的传承线索，我们也可以把费尔巴哈把宗教信仰批判为人的属性的“投射”，以及弗洛伊德把宗教信仰分析为“愿望满足”的一例，视为克塞诺芬尼关于人类倾向于以其自身的属性与能力构想神性存在这一观察的两个现代后继者。
+    step2: |-
+      皮埃尔·培尔在《历史与批判辞典》（1697）里引了克塞诺芬尼一句话（据第欧根尼·拉尔修 9.19）——“多数事物屈从于心灵”（*ta polla hêssô nou*）——由此开启了现代哲学关于恶的问题的讨论。培尔采纳古典学者梅里克·卡索邦的校读，认为克塞诺芬尼是在说：神没法让万物都合其仁慈意志。接着他汇集了一组文本，论证宇宙中恶的总量远多于善。培尔此文引来莱布尼茨的回应（见其 1710 年《神义论》）；伏尔泰在《老实人》（1759）里附和培尔，讥笑莱布尼茨“这是所有可能世界中最好的世界”之说。即便没有直接的传承线索，我们也可把费尔巴哈把宗教信仰批判为人的属性的“投射”、弗洛伊德把宗教信仰分析为“愿望满足”的一例，看作克塞诺芬尼那项观察的两个现代后裔——人总爱以自己的属性与能力去构想神灵。
+  - id: 50
+    kind: body
+    source: |-
+      Xenophanes’ most enduring philosophical contribution was arguably his pioneering exploration of the conditions under which human beings can achieve knowledge of the certain truth. The distinction between knowledge and true opinion set out in B34 quickly became an axiom of ancient Greek accounts of knowledge and survives in modern garb as the ‘belief’ and ‘truth’ conditions of the ‘standard’ or ‘tripartite analysis’ of knowledge. It can be plausibly argued that every later Greek thinker, at least until the time of Aristotle, undertook to respond to the basic challenge posed in Xenophanes’ B34—how, given the severely limited character of human experience, anyone can plausibly claim to have discovered the truth about matters lying beyond anyone’s capacity to observe first-hand. Xenophanes may also be credited with expanding the range of topics considered appropriate for philosophical inquiry and discussion. His Ionian predecessors had initiated the study of phenomena “above the heavens and below the earth” but, so far as we know, they did not turn their critical fire against the leading poets of ancient Greece nor did they seek through their teachings to correct or improve the conduct of their fellow citizens. Although many aspects of his thought remain the subject of scholarly debate, Xenophanes was clearly a multi-dimensional thinker who left his mark on many aspects of later Greek thought.
+    step1: |-
+      克塞诺芬尼最持久的哲学贡献，可以说是他对人类借以获知确定真理之条件的开创性探索。B34 所提出的知识与真意见之别，很快成为古希腊知识说明的一条公理，并以现代装束存留于知识的“标准分析”或“三元分析”的“信念”条件与“真理”条件之中。可以合理地论证：直到亚里士多德时代为止的每一位后世希腊思想家，都着手回应克塞诺芬尼 B34 所提出的根本挑战——鉴于人类经验严重的有限性，一个人怎能合理地自称发现了超出任何人第一手观察能力之事物的真理？克塞诺芬尼或许还因扩大了被视为适合哲学探究与讨论的主题范围而值得称许。他那些伊奥尼亚前辈开创了对“天上地下”现象的研究，但就我们所知，他们并未把批判之火转向古希腊的领军诗人，也未试图通过自己的教导去纠正或改进同胞的行为。尽管他思想的许多方面仍是学术争论的主题，克塞诺芬尼显然是一位多面向的思想家，在后世希腊思想的许多方面都留下了印记。
+    step2: |-
+      克塞诺芬尼最经久的哲学贡献，恐怕要数他对“人凭何种条件才能获知确定真理”的开创性探索。B34 所立的知识与真意见之别，很快成了古希腊知识论的一条公理；它以现代面貌存活在知识的“标准分析”或“三元分析”里，即“信念”条件与“真理”条件。可以合理地说：自他以下，直到亚里士多德，每一位希腊思想家都得回应 B34 摆出的根本挑战——人的经验既然如此有限，谁还能理直气壮地宣称发现了超出任何人第一手观察范围的真理？克塞诺芬尼或许还扩大了适宜作哲学探究与讨论的题目范围。他那些伊奥尼亚前辈开创了对“天上地下”种种现象的研究，但据我们所知，他们不曾把批判的炮火对准古希腊的领军诗人，也不曾想借教导去纠正、改良同胞的举止。他思想的许多方面至今仍是学界争论的题目，但克塞诺芬尼显然是个多面向的思想家，在后世希腊思想的许多角落都留下了印迹。
+  - id: 51
+    kind: oir
+    source: |-
+      - [“Xenophanes Fragments”](http://history.hanover.edu/texts/presoc/Xenophan.html), Arthur Fairbanks, ed. and trans., London: K. Paul, Trench, Trubner, 1898), 65–85; scanned and proofread for the web by Aaron Gulyas (May 1998) and Jonathan Perry (March 2001), for the Hanover Historical Texts Project.
+      - [Xenophanes](http://www.historyofphilosophy.net/xenophanes/), a short podcast by Peter Adamson (Philosophy, Kings College London).
+    step1: |-
+      - [《克塞诺芬尼残篇》](http://history.hanover.edu/texts/presoc/Xenophan.html)，Arthur Fairbanks 编译（London: K. Paul, Trench, Trubner, 1898），65–85 页；Aaron Gulyas（1998 年 5 月）与 Jonathan Perry（2001 年 3 月）为 Hanover Historical Texts Project 扫描并校对。
+      - [克塞诺芬尼](http://www.historyofphilosophy.net/xenophanes/)，Peter Adamson（伦敦国王学院哲学系）的短播客。
+    step2: |-
+      - [《克塞诺芬尼残篇》](http://history.hanover.edu/texts/presoc/Xenophan.html)，Arthur Fairbanks 编选并英译（London: K. Paul, Trench, Trubner, 1898），65–85 页；Aaron Gulyas（1998 年 5 月）、Jonathan Perry（2001 年 3 月）为 Hanover Historical Texts Project 扫描校订。
+      - [克塞诺芬尼](http://www.historyofphilosophy.net/xenophanes/)，Peter Adamson（伦敦国王学院哲学系）主讲之短播客。

@@ -17,6 +17,7 @@
 |Adolf Reinach|阿道夫·莱纳赫|早期现象学（普莱斯纳学派前驱）|
 |advance directives|预先指示||
 |aesthetic experience|审美经验|亦作“审美体验”；美学|
+|Aëtius|埃提乌斯||
 |Africana Philosophy|非裔哲学||
 |Agent Intellect|主动理智、能动理智|阿奎那 intellectus agens|
 |aisthêsis|感知|亦作“感觉”；希腊哲学术语|
@@ -28,6 +29,7 @@
 |Allen Buchanan|艾伦·布坎南||
 |Amy Allen|艾米·艾伦||
 |Annette Baier|安内特·拜尔|德性伦理学（代理情感）|
+|anthropomorphism|神人同形同性论||
 |Anti-Dühring|《反杜林论》|恩格斯|
 |Anton Marty|安东·马蒂|早期现象学（布伦塔诺学派）|
 |anumāna|比量|印度量论|
@@ -69,6 +71,7 @@
 |Buddha|佛陀||
 |care ethics|关怀伦理|审定直接命中（新闻传播学域）|
 |Carl Schmitt|卡尔·施米特|政治哲学/政治神学|
+|Casaubon, Méric|梅里克·卡索邦||
 |Cassirer, Ernst|恩斯特·卡西尔||
 |category|范畴||
 |Catharine MacKinnon|凯瑟琳·麦金农|激进女性主义法学|
@@ -86,6 +89,7 @@
 |Christopher Peacocke|克里斯托弗·皮科克|当代心灵哲学|
 |civic humanism|公民人文主义||
 |Clayman, D.|克莱曼||
+|Clement of Alexandria|亚历山大的克莱门||
 |cloning|克隆||
 |Cockburn, Catharine Trotter|凯瑟琳·特洛特·考克本||
 |cogito|我思（笛卡尔 cogito ergo sum）||
@@ -126,6 +130,7 @@
 |Davidson, Donald|戴维森||
 |deflationary|紧缩|「紧缩论」（deflationism）形容词形|
 |Delmedigo, Elijah|以利亚·德尔·梅第戈||
+|demythologization|去神话化||
 |deontic status|道义地位|道义逻辑|
 |Derk Pereboom|德克·佩雷布姆||
 |Desgabets, Robert|罗伯特·戴加贝||
@@ -138,6 +143,7 @@
 |distributive justice|分配正义|亦作“分配公平”；审定“分配公平”在案|
 |distributively confused supposition|周延混淆指代||
 |divine intellect|神圣理智|亦作“神性理智”；中世纪哲学|
+|dokos|臆测||
 |Donna Haraway|唐娜·哈拉维||
 |dynamic choice|动态选择||
 |earlier self|先前自我|advance-directives 词条核心|
@@ -149,6 +155,7 @@
 |Encyclopédie|《百科全书》|狄德罗主编；启蒙哲学|
 |envy|嫉妒||
 |Epictetus|爱比克泰德||
+|Epimenides|埃庇米尼得斯||
 |epistêmê|知识|与 doxa 意见相对|
 |epistemic accuracy|认知准确||
 |epistemic arrogance|认知傲慢||
@@ -164,14 +171,17 @@
 |esse diminutum|减损的存在||
 |essence|本质||
 |eudaimonia|幸福|亦作“繁盛”；亚里士多德|
+|Euripides|欧里庇得斯||
 |Eusebius|优西比乌||
 |evolution|进化||
 |evolutionary epistemology|进化认识论|审定名词（自然辩证法·科学哲学）|
 |existence|存在||
 |existentialist aesthetics|存在主义美学||
 |expected utility|期望效用|审定名词（管理科学）|
+|explanans|解释项||
 |external world|外部世界|认识论|
 |extramural speech|校外言论|学术自由词条核心|
+|Feuerbach|费尔巴哈||
 |first-order logic|一阶逻辑|审定名词（数学·数理逻辑）|
 |Five Modes|五式||
 |form|形式（亚里士多德 eidos 语境）||
@@ -182,6 +192,7 @@
 |Fred Dretske|弗雷德·德雷斯基|知识论与心灵哲学|
 |free will|自由意志||
 |Freedom|自由|审定名词在案；学界通行同形|
+|Freud|弗洛伊德||
 |Friedrich Schiller|弗里德里希·席勒|美学书简|
 |Friedrich Schleiermacher|弗里德里希·施莱尔马赫|诠释学/浪漫主义|
 |Friedrich Waismann|弗里德里希·魏斯曼|维也纳学派/语言哲学|
@@ -217,10 +228,13 @@
 |Hegel|黑格尔||
 |hegemonikon|灵魂的主导部分（斯多亚）||
 |Hermann Diels|赫尔曼·第尔斯||
+|Herodian|赫罗迪安||
 |hexagon of opposition|对当六角形||
 |Heytesbury, William|威廉·海特斯伯里||
 |Hilary Putnam|希拉里·普特南||
 |Hillel Steiner|希勒尔·斯坦纳|分析马克思主义/权利论|
+|Hippolytus|希波吕托斯||
+|historiê|探究||
 |hole transformation|洞变换|与“空穴论证”（hole argument）复合同源|
 |holes|洞||
 |Holy Spirit|圣灵|宗教学|
@@ -249,6 +263,7 @@
 |intrinsic value|内在价值|审定名词（自然辩证法·技术哲学）|
 |intuition|直观（康德传统；日常语境亦作“直觉”）||
 |intuitive knowledge|直觉知识|认识论；审定“良知”为异域同名不采|
+|Iris|伊里斯||
 |James Ward|詹姆斯·沃德||
 |Japanese aesthetics|日本美学||
 |Jean Hampton|琼·汉普顿||
@@ -304,6 +319,7 @@
 |Norman Malcolm|诺曼·马尔科姆||
 |observable|可观测量|物理学/科学哲学通行|
 |Odysseus|奥德修斯||
+|Olympiad|奥林匹亚德||
 |ontological argument|本体论论证||
 |ontology|本体论（通行；亦作“存在论”）||
 |ouden mallon|并不更||
@@ -337,6 +353,7 @@
 |redundancy biconditional|冗余双条件句||
 |Rescher, Nicholas|雷谢尔||
 |retinal image|视网膜像|视觉科学；审定复合佐证|
+|rhapsode|诵诗人||
 |Richard Boyd|理查德·博伊德||
 |Richard Fitzralph|理查德·菲茨拉尔夫||
 |Richard Lewontin|理查德·列万廷||
@@ -352,6 +369,7 @@
 |skeptosunê|探究||
 |Sleeping Beauty|睡美人问题|审定直接命中（自然辩证法·科学哲学）|
 |Solomon|所罗门||
+|Solon|梭伦||
 |soul|灵魂||
 |spacetime substantivalism|时空实体论|与时空关系论相对|
 |specific ability|特定能力、特殊能力|能力哲学（与一般能力相对）|
@@ -367,12 +385,17 @@
 |sunêtheia|日常经验||
 |Supreme Ultimate|太极|审定直接命中（中国古代史/自然辩证法）|
 |syllogistic mnemonic|三段论助记诀||
+|symposium|会饮||
 |Szilágyi, K.|K. 西拉吉|匈牙利学者|
+|teleology|目的论||
 |telos|目的（终极目的）||
 |Ten Wings|十翼|易经 Commentary；审定异域不采|
 |terminist logic|词项主义逻辑||
+|testimonia|转述||
 |Thales|泰勒斯||
+|Thaumas|塔乌玛斯||
 |the One|太一（普罗提诺 to hen）||
+|Theodoretus|塞奥多雷特||
 |theoretical wisdom|理论智慧||
 |thing-in-itself|物自体（康德；亦作“自在之物”）||
 |Thinking Dispositions|思维倾向|认知心理学；审定复合佐证|
@@ -380,6 +403,7 @@
 |to phainomenon|显现||
 |transcendence objection|超越诘难||
 |transcendental|先验（康德术语 transzendental）||
+|tripartite analysis of knowledge|知识的三元分析||
 |Trolley Problem|电车难题||
 |truth-maker|真值制造者||
 |tuphos|虚妄||
@@ -1362,7 +1386,7 @@
 |Wisdom|智慧||
 |Wittgenstein|维特根斯坦||
 |Wolffianism|沃尔夫主义|克里斯蒂安·沃尔夫的理性主义学派|
-|Xenophanes|色诺芬尼||
+|Xenophanes|克塞诺芬尼|亦作“色诺芬尼”；SUMMARY 定名（2026-11-07）|
 |Zeno|芝诺||
 |Zermelo|策梅洛||
 |Zermelo-Fraenkel|策梅洛-弗兰克尔||

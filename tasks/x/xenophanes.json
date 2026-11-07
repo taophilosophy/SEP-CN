@@ -1,0 +1,50 @@
+{
+  "slug": "xenophanes",
+  "kind": "retranslate",
+  "zh_doc": "x/xenophanes.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T05:10:29Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-07T08:19:39Z",
+      "evidence": "方向声明沿用 T–Z 批次立案。本条：账本 51 段（body50+oir1）双版填毕，lq.py check HARD=0（软旗=机械标题段与斜体转书名号），compose 15355 字符。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-07T08:19:39Z",
+      "evidence": "对照核销：节标题 13:13；脚注标记 30:30（含 B 段残篇内的转述键）；文献定义 29:29 键全等；正文 50 段逐段对位。相关词条 3 项（Anaximander/Anaximenes/Thales）经 SUMMARY 检索无对应条目，改中文名待挂链；阿那克萨哥拉→阿那克萨戈拉（登记册正形）。人名主形对齐：Xenophanes 一条按 SUMMARY 定名改为『克塞诺芬尼（亦作色诺芬尼）』，词汇表同步（本条即该词条本身，H1 为克塞诺芬尼）。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-07T08:19:40Z",
+      "evidence": "语言校：check_prose --strict 16→0（实修 16：长句拆分 7、de-chain 5、弱动词 1、被字句 2、倒装重排 1），无豁免；check_style 0 issue。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-07T08:19:43Z",
+      "evidence": "体例校：check_style 0 issue、check_academic --strict 0 硬错误、check_math 0/0/0、check_terms 0 硬错误、check_all 七项全绿。术语登记 24 行新入（神人同形同性论/本原/转述/会饮/诵诗人/探究/臆测/解释项/去神话化/目的论/三元分析/奥林匹亚德＋埃提乌斯/克莱门/希波吕托斯/埃庇米尼得斯/塞奥多雷特/赫罗迪安/卡索邦/塔乌玛斯/伊里斯/梭伦/欧里庇得斯/费尔巴哈/弗洛伊德），词汇表与池同步，行体例 6 列重排。"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-07T05:10:28Z",
+  "version_pin": {
+    "pubinfo_date": "May 19, 2023",
+    "archive_edition": "Summer 2023",
+    "sha256": "52eb46c10200b6310729e25d54a2a27b237f54e8a9548eaa53e3075edb902402"
+  }
+}
