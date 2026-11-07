@@ -391,6 +391,7 @@
 | Heinrich Scholz | — | 海因里希·肖尔茨 | leibniz-logic-influence | 学界通行汉译（《逻辑学史》作者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Bernard Bolzano | — | 伯纳德·鲍尔查诺 | leibniz-logic-influence | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | W. E. B. Du Bois | — | 杜波依斯 | alexander-crummell | 学界通行汉译（叙述处首现括注 W. E. B. Du Bois） | 2026-11-07 |
+| Wallace, R. Jay | — | R. Jay 华莱士 | blame | 学界通行音译（R. Jay Wallace）；凭证 2026-11-07 | 2026-11-07 |
 | Wallace, William | — | 华莱士 | duhem | 学界惯例（科学史家音译，与同名苏格兰哲学家异人）；凭证 2026-11-06 | 2026-11-06 |
 | Ward, James | — | 詹姆斯·沃德 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Waters, Kenneth | — | 肯尼思·沃特斯 | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
