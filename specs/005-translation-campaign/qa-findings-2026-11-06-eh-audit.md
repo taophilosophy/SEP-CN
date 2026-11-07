@@ -42,3 +42,38 @@
 * **e/epistemology-language-tibetan**：源参考文献含 `### A. Sources and translations` / `#### 1. Pre-classical period` / `#### 2. Classical and post-classical period` / `### B. Modern studies` 四层书目子标题，中文侧随「参考文献脚注化」（refs_kind=modern）转换而合并消失（55 个条目本身齐全）。属转换器范式缺陷而非漏译；手工重构需打散 55 条定义顺序，风险高于收益，**登记为转换器债**，留待 refs 转换器统一处理。
 
 * **E 批 4 条半截账本不可再 compose**：emotion-Christian-tradition 10/74、epictetus 20/61、erfurt 27/60、equal-ed-opportunity 79/103 段。这些账本系旧管线中途产物，`lq.py check` 会报「段数不符」HARD-FAIL；**禁止**据此 compose（会截断正文）。正文完整性以节标题/脚注键/段数比三方核销为准，账本仅作历史证据保留。
+
+## 7. 接管对账（2026-11-07，EH-main-20261107）
+
+**接管**：e/f/g/h 四批改账认领 EH-main-20261107；check_all 七项全绿；PROGRESS.md 复算同步（生成物）。
+
+**对账结论（tasks/ × lq check × 正文 × ledger.json 四方核销）**：
+
+| 字母 | 总 | done | 在途半成品 | pending |
+| --- | --- | --- | --- | --- |
+| E | 99 | 17（九步齐，§6 债务两条已留痕） | 0 | 82 |
+| F | 96 | 0 | 2（film drafted 77/77 守恒通过；frame-problem 空骨架 0/40） | 94 |
+| G | 49 | 1（gelukpa） | 0 | 30（18 cleared 全部无账本） |
+| H | 61 | 7 | 11 | 24 |
+
+合计 done 25/305 ≈ 8.2%；在途 13；pending 268。**无 done 词条异常**（done/drafted 与正文近空交叉扫描零命中）。
+
+**在途半成品明细（账本段数=已建骨架，源段数=lq check 实测）**：
+
+| 条目 | 账本/源段 | 假双版 | 正文 |
+| --- | --- | --- | --- |
+| h/hutcheson | 145/145 | 68 | 半截 compose（151 行） |
+| h/hume-aesthetics | 64/89 | 39 | 半截 |
+| h/hobbes-science | 35/85 | 0 | 半截（40 行） |
+| h/halevi | 48/120 | 48（全假） | 半截 compose（63 行） |
+| h/han-dynasty | 36/105 | 35 | 半截 |
+| h/heytesbury | 11/193 | 3 | 半截 |
+| h/hamann | 3/76 | 0 | 导言 5 行 |
+| h/hilbert-program | 3/63 | 0 | 导言（段3 脚注键不守恒+**计数违例） |
+| h/haecceitism | 13/122 | 0 | 导言（8/9/11 段 ** 计数违例） |
+| h/hume-moral | 7/92 | 3 | 导言 11 行 |
+| h/hegel-social-political | 无账本 | — | 孤儿导言 5 行（含 §2-3 已登记缺陷外的第四例） |
+
+假双版合计 ≈196 段（halevi/holkot/han-dynasty/hume-aesthetics/hutcheson 的 lane2 重写仅部分完成）；未建骨架 ≈773 段。
+
+**处置计划**：① f/film 唯一守恒通过，先收口（四检+prose 实修 41→全周期）；② 在途件逐条续账本（扩段合并+假双版真反思+补填）→ compose → 全周期收口；③ hegel-social-political 骨架立账；④ 再开 pending 新译（词数序）。扩段用合并脚本（init 会整册覆盖，禁直接对半截账本跑 init）。
