@@ -2,7 +2,7 @@
   "slug": "knowledge-value",
   "kind": "retranslate",
   "zh_doc": "k/knowledge-value.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "AK-main-20261105",
       "at": "2026-11-05T19:37:25Z",
       "evidence": "四检终态：style 0、prose 残余 90（体裁豁免类）、check_academic --strict OK；check_all 七门禁全绿；相关词条 7 条 SUMMARY 定名对齐（美德认识论/知识的分析/关于如何做某事的知识等）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:41:01Z",
+      "evidence": "r1 独立复核（K 批接管，2026-11-08）：段落 100:99（差 1=源 byline）、marker 89:89、defs 220:220、年份 283:282（差 1 为源文重复年份）、尾节子标题 3:1（缺陷：Works Cited / Other Important Works 两个子标题未搬）；**另有残留缺陷**：正文知识-how 13 处、知识-that 5 处混排英文（与标题「知识-如何」体例不一致）。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:41:01Z",
+      "evidence": "r2 缺陷实修：① 回填 Works Cited / Other Important Works 子标题（子标题 3:3）；② 正文 18 处混排统一为「知识-如何」「知识-那」，与 k/knowledge-analysis.md 同形，并在 yi-zhe-shuo-ming.md 登记 knowledge-how/knowledge-that 两行（知识论通行体例）；复跑 check_style 0、check_math 0/0、check_academic OK、残留扫描 0。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:41:03Z",
+      "evidence": "r3 门禁：四检全绿，check_all 七项全绿（术语一致性含新登记两行）。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:41:03Z",
+      "evidence": "done 收口（K-main-20261108）：s3_checked 遗留件补回两个书目子标题、统一 18 处 knowledge-how/that 混排并登记术语两行，五维齐平。"
     }
   ],
   "blockers": [],
