@@ -68,8 +68,8 @@
    "phase": "translate",
    "claimed_by": "I-main-20261108",
    "claimed_at": "2026-11-07T22:41:10Z",
-   "note": "2026-11-08 对账（接管会话 I-main-20261108 逐条实测）：SUMMARY 正式词条 75＝基线 75＝镜像 75；任务 75＝pending 48／cleared 7／done 20（done 含 11-08 收口的 israeli、intentionality-ancient）。cleared 7 分三类：illumination（账本在途，p2 段 31-60 双版已落，接力点段 61）／immunology（存根未动）／5 条快照遗留旧译（imaginative-resistance、impossible-worlds、information-biological、intrinsic-extrinsic、intuitionism-ethics；其中 impossible-worlds、intrinsic-extrinsic、information-biological 缺节或尾部未拼，另 2 条结构齐全；零信任下一律按重译处理，旧译不作底稿）。20 条 done 结构完整（尾部五节齐、check_academic --strict 0 硬错误）；体例债登记：check_style 实测 162 条（intensional-trans-verbs bold-spacing 153＋curly 3＋italic-cjk 1，identity italic-cjk 2，ibn-sina／identity-ethics／implicature-optimality-games 各 1），计入对应词条返工销账。顺序按用户 2026-11-08 裁定改倒序（SUMMARY i 节自尾向前），下一条 imprecise-probabilities。历史：fetch/convert 已满足；israeli、intentionality-ancient 两条 I-K 接管期已三校至 done。",
-   "advanced_at": "2026-11-07T22:42:02Z"
+   "note": "2026-11-08 倒序线（I-main-20261108）：imprecise-probabilities 全量重译 done——167 段账本（正文 165＋其他网络资源＋致谢）双版→成稿 63143 字符，s1/s2/s3/r1/r2/r3 六道全过（s2 prose 49→0；s3 style 0、academic --strict 0；r1 修正 4 处 Minor）。I 批 done 21/75（28.0%），pending 47／cleared 7（含 5 条快照遗留、immunology 存根、illumination 在途）。倒序队列下一条：intuitionism-ethics（cleared 遗留旧译、11 节结构齐全，零信任重译）。并行正序线：illumination 已至 s3、ingarden p1 在途，两线不重叠。",
+   "advanced_at": "2026-11-08T09:24:37Z"
   },
   "j": {
    "phase": "translate",
@@ -82,8 +82,8 @@
    "phase": "translate",
    "claimed_by": "K-main-20261108",
    "claimed_at": "2026-11-07T19:17:43Z",
-   "note": "2026-11-08 对账与收口（K-main-20261108）：36 条=done 10→21 + cleared 15。原 s3_checked 11 条经真实 r1-r3 复核收口 done：6 条查出参考文献区缺件并实修（kant-hume-morality 主文献区整段 99 行、kierkegaard/kumaarila/knowledge-value/kant-reason/kant-social-political 子标题回填），5 条五维齐平无缺陷；三条 done 词条定点纠正（kant-mathematics 补 schönfeld-2000、kant-mind bold-spacing、kochen-specker 破损标记与英文残留）；check_style 成对中文单引号遮蔽误报修正（已随并行提交入库）。余 15 条待译，源 109K–242K，体量升序：korean-confucianism → kant-judgment → kukai → kant-transcendental → …",
-   "advanced_at": "2026-11-08T00:11:09Z"
+   "note": "2026-11-08 续（K-main-20261108）：done 21/36；korean-confucianism 全量直译落盘至 drafted（136 段 4.3 万字 + 补充材料 Figures and their Works，守恒门与五维对账齐平，s1-s3 待校；prose 告警 80 条待 s2 实修/豁免分类）。余 14 条 cleared 未开译，体量升序：kant-judgment(109K) → kukai(118K) → kant-transcendental(128K) → kant-development(130K) → kant-spacetime(131K) → kant-religion(139K) → knowledge-how(143K) → kant-moral(150K) → kant(159K) → kant-hume-causality(161K) → kant-conceptualism(163K) → kant-transcendental-idealism(175K) → kant-aesthetics(208K) → kyoto-school(242K)",
+   "advanced_at": "2026-11-08T09:21:19Z"
   },
   "l": {
    "phase": "translate",
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-08T05:01:54Z"
+ "updated_at": "2026-11-08T09:24:37Z"
 }

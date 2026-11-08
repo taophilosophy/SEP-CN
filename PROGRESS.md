@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-08 08:12（UTC）
+生成时间：2026-11-08 09:24（UTC）
 
 ## 总览
 
@@ -14,34 +14,35 @@
 |已建英文基线|1879|
 |已建任务|1033|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|207|
-|在途（drafted 起、done 前）|233|
+|已完成（done）|209|
+|在途（drafted 起、done 前）|232|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|593|
-|cleared|163|
-|drafted|5|
+|pending|592|
+|cleared|162|
+|drafted|4|
 |s3_checked|64|
+|r1_reviewed|1|
 |r2_reviewed|1|
-|done|207|
+|done|209|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
 |A|160|160|160|53|
-|B|62|62|62|13|
+|B|62|62|62|14|
 |C|172|172|172|4|
 |D|92|92|92|11|
 |E|99|99|99|18|
 |F|96|96|96|1|
 |G|49|49|49|1|
 |H|61|61|61|9|
-|I|75|75|75|20|
+|I|75|75|75|21|
 |J|38|38|38|4|
 |K|36|36|36|21|
 |L|144|144|19|18|
@@ -84,7 +85,6 @@
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
 |august-rehberg|retranslate|cleared|task_ops 2026-11-08|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
-|bayes-theorem|retranslate|s3_checked|? 2026-11-04|
 |beardsley-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |beauty|retranslate|cleared|task_ops 2026-11-01|
 |beauvoir|retranslate|cleared|task_ops 2026-11-01|
@@ -127,7 +127,7 @@
 |buddhism-chan|retranslate|s3_checked|? 2026-11-04|
 |buddhism-huayan|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |buddhism-tiantai|retranslate|cleared|task_ops 2026-11-01|
-|buridan|retranslate|drafted|B-main-20261108 2026-11-08|
+|buridan|retranslate|r1_reviewed|B-main-20261108 2026-11-08|
 |burke|retranslate|cleared|task_ops 2026-11-01|
 |burley|retranslate|cleared|task_ops 2026-11-01|
 |butler-moral|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -178,6 +178,7 @@
 |disability-care-rationing|retranslate|s3_checked|D-main-20261108 2026-11-08|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |du-bos|retranslate|s3_checked|主代理 2026-11-01|
+|erotic-art|retranslate|cleared|task_ops 2026-11-08|
 |frame-problem|retranslate|cleared|task_ops 2026-11-06|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |galen|retranslate|cleared|task_ops 2026-11-01|
@@ -229,7 +230,6 @@
 |imaginative-resistance|retranslate|cleared|task_ops 2026-11-01|
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
-|imprecise-probabilities|retranslate|drafted|I-main-20261108 2026-11-08|
 |information-biological|retranslate|cleared|task_ops 2026-11-01|
 |ingarden|retranslate|cleared|task_ops 2026-11-07|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
@@ -280,13 +280,13 @@
 |kant-transcendental|retranslate|cleared|task_ops 2026-11-01|
 |kant-transcendental-idealism|retranslate|cleared|task_ops 2026-11-01|
 |knowledge-how|retranslate|cleared|task_ops 2026-11-01|
-|korean-confucianism|retranslate|cleared|task_ops 2026-11-01|
+|korean-confucianism|retranslate|drafted|K-main-20261108 2026-11-08|
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
 |langer|retranslate|cleared|task_ops 2026-11-08|
 |mandeville|retranslate|drafted|M-main-20261108 2026-11-08|
 |moral-demands-permissions|retranslate|s3_checked|LMN-main-20261108f 2026-11-08|
-|newton|retranslate|cleared|task_ops 2026-11-08|
+|newton|retranslate|s3_checked|ZCode-N-20261108 2026-11-08|
 |rationalism-early-modern|retranslate|r2_reviewed|QR-main-20261108 2026-11-08|
 |representation-medieval|retranslate|cleared|task_ops 2026-11-08|
 |simon-faversham|retranslate|cleared|task_ops 2026-11-08|
