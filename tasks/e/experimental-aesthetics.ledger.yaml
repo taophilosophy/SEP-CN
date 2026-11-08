@@ -459,50 +459,66 @@ segments:
     kind: body
     source: |-
       Morality and aesthetics stand as two prominent normative domains. How do the concerns in these two domains interact with one another? Drawing from a substantive philosophical literature on these interactions (see Harold 2023 for overviews)[^harold-2023], topics at the intersection have also been empirically investigated in recent years. Here, we roughly divide works into two aspects: concerning morality’s influence on aesthetics, and concerning aesthetics’ influence on morality.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      道德与美学是两个突出的规范性领域。这两个领域中的关切如何相互作用？从关于这些相互作用的实质性哲学文献出发（综述见 Harold 2023）[^harold-2023]，近年来，这一交叉处的议题也受到了经验研究。这里我们大致把相关工作分为两个方面：道德对美学的影响，以及美学对道德的影响。
+    step2: |-
+      道德与美学是两个重要的规范性领域，二者的关切如何相互交织？关于这种交织，已有实质性的哲学文献（综述见 Harold 2023）[^harold-2023]；近年来，交叉地带的议题也进入了经验研究的视野。下面大致分两面来谈：道德对美学的影响，以及美学对道德的影响。
   - id: 58
     kind: body
     source: |-
       In the first direction, concerning morality’s influence on aesthetics, philosophers have wondered about the influence of moral attitudes on aesthetic attitudes. In traditional philosophical aesthetics, this is sometimes known as the “value interaction” or “ethical criticism of art” debate (Clavel Vázquez 2018; Giovanelli 2007; Liao & Meskin 2018; McGregor 2014)[^clavel-2018][^liao-2018][^mcgregor-2014][^meskin-2018]. There are three main positions: autonomists say that moral attitudes do not influence aesthetic attitudes; moralists say that negative moral judgments always negatively influence aesthetic judgments; and contextualists say that moral attitudes’ influence on aesthetic attitudes depends on the context.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在第一个方向上，即道德对美学的影响，哲学家一直想弄清道德态度对审美态度的影响。在传统哲学美学中，这有时被称为“价值互动”或“艺术的伦理批评”之争（Clavel Vázquez 2018; Giovanelli 2007; Liao & Meskin 2018; McGregor 2014）[^clavel-2018][^liao-2018][^mcgregor-2014][^meskin-2018]。主要有三种立场：自主论者认为道德态度不影响审美态度；道德主义者认为负面的道德判断总会负面影响审美判断；语境主义者则认为道德态度对审美态度的影响取决于语境。
+    step2: |-
+      先看道德对美学的影响这一方向。哲学家所关注的是：道德态度会不会影响审美态度？在传统哲学美学中，这有时被称作“价值互动”或“艺术的伦理批评”之争（Clavel Vázquez 2018; Giovanelli 2007; Liao & Meskin 2018; McGregor 2014）[^clavel-2018][^liao-2018][^mcgregor-2014][^meskin-2018]。立场大致有三：自主论者主张道德态度不影响审美态度；道德主义者主张负面的道德判断总会带累审美判断；语境主义者则主张影响与否取决于语境。
   - id: 59
     kind: body
     source: |-
       This direction of value interaction might affect taste perception. Patrik Sörqvist and colleagues (2013) found that, between two qualitatively identical cups of coffee, participants whose attitudes are congruent with sustainability rated the one labeled as “eco-friendly” as tastier. However, Aaron Meskin and Shen-yi Liao (2018) were unable to conceptually replicate this result. Similarly, Beth Armstrong and colleagues (2019) found that the valence of ethical information affected consumers’ expected experience of food. Taken together, these results suggest that a folk psychology of moralism or contextualism is currently more plausible than a folk psychology of autonomism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一方向的价值互动可能影响味觉感知。Patrik Sörqvist 及其同事（2013）发现，在两杯品质完全相同的咖啡之间，态度与可持续性相一致的被试会把标有“环保”的那杯评为更好喝。然而，Aaron Meskin 与 Shen-yi Liao（2018）无法在概念上重复这一结果。类似地，Beth Armstrong 及其同事（2019）发现，伦理信息的效价影响了消费者对食物的预期体验。综合来看，这些结果提示，目前道德主义或语境论的大众心理学比自主论的大众心理学更可信。
+    step2: |-
+      这一方向的价值互动甚至会波及味觉。Patrik Sörqvist 及其同事（2013）发现，两杯品质完全相同的咖啡，态度与可持续理念相合的被试会把标着“环保”的那杯评得更好喝。但 Aaron Meskin 与 Shen-yi Liao（2018）未能在概念上重复这一结果。类似地，Beth Armstrong 及其同事（2019）发现，伦理信息的正负效价会影响消费者对食物的预期体验。综合来看，这些结果提示：就大众心理学而言，道德主义或语境论目前比自主论更站得住脚。
   - id: 60
     kind: body
     source: |-
       This direction of value interaction might also affect judgments of beauty. One longstanding debate in this context surrounds whether moral goodness can be beautiful in itself—with philosophers such as Plato (c. 370 BCE) and Shaftesbury (1711) claiming that moral beauty exists, and others such as Edmund Burke (1757) and Immanuel Kant (1790) denying this (though see Doran forthcoming d). Until recently, one of the principal ways that philosophers have tried to settle this matter is by examining the use of ordinary language from the armchair. Berys Gaut (2007), for example, argues in favor of the existence of moral beauty principally by noting that we *call* people beautiful when they are good. Gaut argues that this kind of talk cannot be intended non-literally, as was suggested by Burke (1757), as neither of the two defeators of literal use—obvious falsity (as in ‘my boss is a pig’) or trivial truthfulness (as in ‘I’m not over the moon’)—seem to apply to locutions that appear to express moral beauty. But as Ryan Doran (2021) notes, Gaut’s method of testing for non-literal use is too demanding, as it wrongly assumes that people are always truth-maximisers. To move past this apparent impasse from the armchair, and help to reveal the number of species of moral beauty that exist, Doran suggests that we turn to experimental studies. He shows that people tend to judge morally good people to be more beautiful, and that this cannot be deflated in terms of non-literal intent or an error (such as misattribution) on the grounds that making the source of the goodness salient, and giving people the opportunity to express their approval of the goodness prior to making the judgment of beauty, does not eliminate the effect of moral goodness on judgments of beauty. Doran also finds evidence that moral goodness can affect the beauty of physical appearances by affecting the determinants of thick aesthetic properties such as balance and delicacy, and that people’s moral character can be beautiful in itself, suggesting that beauty is not perception dependent.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一方向的价值互动也可能影响对美的判断。与此相关的一场旷日持久的争论，围绕道德上的善本身能否为美——柏拉图（约公元前 370 年）与沙夫茨伯里（1711）等哲学家主张存在道德美，而埃德蒙·伯克（1757）与伊曼努尔·康德（1790）等人则否认这一点（不过见 Doran 即将发表 d）。直到晚近，哲学家试图解决此事的主要方式之一，是在扶手椅上考察日常语言的用法。例如，Berys Gaut（2007）主要根据我们在好人身上*称*其为美这一点，来论证道德美的存在。Gaut 论证说，这类说法不可能被设想为非字面的用法——如伯克（1757）所提示的那样——因为字面用法的两个取消条件——明显的虚假（如“我老板是头猪”）或琐屑的真（如“我并没有欣喜若狂”）——似乎都不适用于那些看似表达道德美的说法。但正如 Ryan Doran（2021）所指出的，Gaut 检验非字面用法的方法要求过高，因为它误以为人总是追求真理的最大化。为走出这一扶手椅上的僵局，并有助于揭示道德美究竟有多少种类，Doran 建议转向实验研究。他表明，人们倾向于认为道德上的好人更美，而且这不能被贬解为非字面意图或错误（如错误归因），理由是：让善的来源变得突显，并在作出美的判断之前给人们表达对善之赞赏的机会，并不能消除道德善对美的判断的影响。Doran 还发现证据表明，道德善可以通过影响平衡、精致等厚审美属性的决定因素来影响外貌之美，而人的道德品格本身可以是美的，这提示美并不依赖于知觉。
+    step2: |-
+      这一方向的价值互动同样可能作用于美的判断。这一语境下由来已久的争论是：道德善本身能否成其为美？柏拉图（约公元前 370 年）、沙夫茨伯里（1711）等主张确有道德美，埃德蒙·伯克（1757）、伊曼努尔·康德（1790）等则否认（另见 Doran 即将发表 d）。直到晚近，哲学家多靠在扶手椅上辨析日常语言来了断此事。例如 Berys Gaut（2007）主要依据我们会在好人身上*称*其为美，来论证道德美的存在；他认为这类说法不可能是非字面用法——伯克（1757）曾如此暗示——因为取消字面用法的两个条件，即明显为假（如“我老板是头猪”）或琐碎地真（如“我并没有欣喜若狂”），似乎都不适用于这类看似表达道德美的说法。但 Ryan Doran（2021）指出，Gaut 检验非字面用法的方法要求过高，因为它预设人总是追求真理最大化。为跳出这一扶手椅上的僵局，并弄清道德美究竟有几种，Doran 主张转向实验研究。他表明，人们倾向于认为道德善者更美；而且不能用非字面意图或错误（如错误归因）来消解这一结果——因为无论让善的来源变得醒目，还是在作美的判断前先给人们表达对善之赞赏的机会，道德善对美的判断的影响都不消退。Doran 还发现，道德善能通过影响平衡、精致等厚审美属性的决定因素而作用于外貌之美，人的道德品格本身也可以是美的；这提示美并不依赖知觉。
   - id: 61
     kind: body
     source: |-
       Building on this work, experimental philosophy studies have also been used to help resolve apparent inconsistencies in the existing literature on *which* moral traits are beautiful, as well as reveal hitherto unacknowledged reasons why morally good traits and actions are beautiful, among other things.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在此基础上，实验哲学研究也被用来帮助化解现有文献中关于*哪些*道德特质为美的明显不一致，并揭示此前未被承认的道德善特质与行动之所以美的原因，等等。
+    step2: |-
+      在此基础之上，实验哲学研究还被用来化解既有文献中关于*哪些*道德特质才算美的表面矛盾，并揭示道德善的特质与行动何以具有美感的此前未被承认的缘由。
   - id: 62
     kind: body
     source: |-
       Supporters of moral beauty can be divided into *particularists* about the beauty of traits—who tend to hold that only the ‘warmer’ virtues such as compassion are beautiful (for example, Kant 1764)[^kant-1764]—and *universalists* about moral beauty—who tend to argue that all virtues are beautiful, and indeed that certain colder non-moral traits such as intelligence can be beautiful too (Schiller 1793 [2003], 1793 [2005]; Gaut 2007; and Paris 2018)[^gaut-2007][^paris-2018][^schiller-1793][^schiller-1793-2].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      支持道德美的人可分为两类：关于特质之美的*特殊论者*——他们倾向于认为只有“更温暖”的德性（如同情）才是美的（例如 Kant 1764）[^kant-1764]——以及关于道德美的*普遍论者*——他们倾向于主张一切德性都是美的，而且某些较“冷”的非道德特质（如智力）也可以是美的（Schiller 1793 [2003], 1793 [2005]; Gaut 2007; 以及 Paris 2018）[^gaut-2007][^paris-2018][^schiller-1793][^schiller-1793-2]。
+    step2: |-
+      道德美的支持者可分两类：关于特质之美的*特殊论者*倾向于认为，唯有同情之类“更温暖”的德性才美（例如 Kant 1764）[^kant-1764]；关于道德美的*普遍论者*则倾向于主张，一切德性皆美，某些较“冷”的非道德特质（如智力）亦然（Schiller 1793 [2003], 1793 [2005]; Gaut 2007; 以及 Paris 2018）[^gaut-2007][^paris-2018][^schiller-1793][^schiller-1793-2]。
   - id: 63
     kind: body
     source: |-
       Doran (2023) proposes that these positions only appear to be inconsistent with one another, as they range over different kinds of beauty: with universalists targeting the beauty that is found in good form, and particularists targeting the kind of beauty that lies in things that have a disposition to lead to an emotion that is variously described as ‘love,’ ‘elevation’ and ‘ecstasy’—which is characterized by feelings akin to being moved, inspired, and of unity with the object of this state. To test this view, he presented participants with a story about two individuals who are equally well-formed—in the sense that their mental states are all working harmoniously to lead them to do the right thing—but differ in the kind of virtue they exhibit, with one individual being just, and the other being compassionate. Consistent with the idea that there is a beauty in some traits which resides in the disposition to give rise to this special emotion in addition to well-formedness, participants found the fully just and fully compassionate individuals to be equally virtuous and good, but the latter to be more beautiful to the extent that this individual tended to give rise to this special emotion to a greater extent.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Doran（2023）提出，这些立场看似彼此不一致，实则只是各自着眼于不同种类的美：普遍论者所指的是见于良好形式中的美，而特殊论者所指的是那种存在于如下事物中的美——这类事物具有引发某种情感的倾向，这种情感被不同地描述为“爱”“升华”与“狂喜”，其特征是类似被感动、受鼓舞以及与这一状态的对象合而为一的感受。为检验这一观点，他向被试呈现一个关于两个人的故事：二人同样“形式良好”——即其心理状态全都和谐运作，引导他们去做正确的事——但在所展现的德性种类上有所不同，一人是公正的，另一人则是同情的。与下述想法一致——某些特质中存在着一种美，它除了系于形式良好之外，还系于引发这种特殊情感的倾向——被试认为完全公正者与完全同情者同样有德性、同样善，但后者更美，而这种美与后者更倾向于引发这种特殊情感的程度相应。
+    step2: |-
+      Doran（2023）提出，两派看似相左，其实各说各的美：普遍论者着眼于良好形式中的美，特殊论者着眼于另一类美——某些事物具有引发某种情感的倾向，此情感或被称为“爱”，或被称为“升华”“狂喜”，其特点是近似于被感动、受鼓舞、与对象融为一体的感受。为检验此说，他给被试讲了一个故事：甲乙二人“形式良好”的程度相当（心理状态皆和谐运作，引导其行正当之事），德性种类却不同，甲公正，乙同情。结果与下述设想相符：有些特质之美，既系于形式良好，又系于引发上述特殊情感的倾向——被试认为甲、乙同样有德、同样善，但乙更美，其美的程度随乙引发这种特殊情感的倾向而增长。
   - id: 64
     kind: body
     source: |-
       Examining the link between internal harmony and beauty more explicitly, Doran (forthcoming b) has tested the idea—which is most prominently found in Friedrich Schiller’s *On Grace & Dignity* (1793 [2005]) and *Kallias* (1793 [2002])—that actions are beautiful if and only if they are expressive of freedom by being the result of a high degree of internal harmony, as in cases where our desires, beliefs, and will all seamlessly work together to produce the good action. While Doran finds some evidence which is consistent with actions being beautiful to the extent that they are expressive of freedom by being the result of a high degree of internal harmony, his results also suggest that the moral actions of conflicted individuals can be *as* beautiful, or even *more* beautiful, as those of internally harmonious moral agents, and so Schiller’s claim need to be weakened and supplemented with additional claims. In one experiment, for example, participants were presented with two individuals who both do the right and good action in making necessary redundancies and giving financial support to those affected, where the only difference is that where one individual makes the redundancies without any internal conflict, the other does so with a great deal of conflict due to a reluctance to afflict the necessary suffering. Consistent with his earlier findings, the results show that the latter individual’s action is considered to be more beautiful, and that this is due to the latter individual’s tendency to move us, and make us feel at one with them. As such, Doran suggests that it is not only the internal harmony of the agent who performs an action that determines its beauty, but also the degree to which the action tends to make us *feel as though we are harmoniously related to the agent that performs the action*. Further elucidating some of the reasons why morally good actions can be beautiful, Doran (forthcoming c) finds that people tend to think that morally good actions are beautiful when the action is seen as expressing who the person truly is (their essence), and as stemming from a location deep inside of them, and in turn tends to lead to feelings of being moved and inspired.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Doran（即将发表 b）更明确地考察了内在和谐与美之间的联系，检验了这一想法——它最突出地见于弗里德里希·席勒的《论优美与尊严》（*On Grace & Dignity*，1793 [2005]）与《卡利亚斯》（*Kallias*，1793 [2002]）——即行动之美当且仅当其因是高度内在和谐的结果而表现自由时成立，例如在我们的欲望、信念与意志全都无缝协作以产生善行的情况下。Doran 虽发现一些证据与该想法相符——行动之美在于它因是高度内在和谐的结果而表现自由——但他的结果也表明，内心冲突者的道德行动可以*同样*美，甚至*更*美，因此席勒的主张需要弱化并补充以其他主张。例如在一项实验中，被试看到两个人，二人都在进行必要的裁员并向受影响者提供经济支持，做的是正确而善的行动，唯一的差别是：一人做裁员时毫无内心冲突，另一人则因不愿造成必要的痛苦而怀着极大的冲突去做。与其早先的发现一致，结果显示后者的行动被认为更美，而这源于后者更易打动我们、使我们感到与其融为一体。因此，Doran 提出，决定行动之美的不仅是行动者内在的和谐，还包括该行动使我们*感到自己与行动者处于和谐关系之中*的程度。Doran（即将发表 c）进一步阐明了道德善的行动之所以美的部分原因：他发现，当行动被视为表现一个人真正之所是（其本质）、且源于其内心深处时，人们倾向于认为该道德善的行动是美的；这又倾向于引发被感动与受鼓舞的感受。
+    step2: |-
+      Doran（即将发表 b）更直接地考察了内在和谐与美的关联，检验一个最突出地见于弗里德里希·席勒《论优美与尊严》（*On Grace & Dignity*，1793 [2005]）与《卡利亚斯》（*Kallias*，1793 [2002]）的想法：行动之美，当且仅当它因是高度内在和谐的结果而表现自由——例如欲望、信念与意志浑然协作，促成善行。Doran 找到了一些与该想法相符的证据，但其结果同时表明，内心冲突者的道德行动可以*同样*美，甚至*更*美，故席勒之说须加弱化并辅以补充。例如一项实验中，被试看到两人都在实施必要的裁员并向受影响者提供资助，所作所为正确而善，唯一差别是：一人毫无内心冲突，另一人则因不愿造成必要的痛苦而冲突重重。结果与先前的发现一致：后者的行动被认为更美，原因在于后者更能打动我们，令我们觉得与其融为一体。据此 Doran 提出，行动之美不仅取决于行动者的内在和谐，也取决于该行动使我们*感到自己与行动者和谐相通*的程度。Doran（即将发表 c）还进一步阐明道德善的行动何以美的部分缘由：当行动被视为表现一个人真正之所是（其本质）、并源于其内心深处时，人们便倾向于认为它是美的，进而生出被感动、受鼓舞之感。
   - id: 65
     kind: body
     source: |-
