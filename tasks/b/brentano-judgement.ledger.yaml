@@ -513,254 +513,350 @@ segments:
       > A proposition of the form “Some *S* are *P*” means the same as “An *S* that is exists.”
       >
       > A proposition of the form “Some *S* are not *P*” means the same as “An *S* that is not *P* exists.”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 形式的命题“所有 *S* 都是 *P*”，其意义等同于“一个不是 *P* 的 *S* 不存在。”
+      >
+      > 形式的命题“没有 *S* 是 *P*”，其意义等同于“一个既是 *P* 的 *S* 不存在。”
+      >
+      > 形式的命题“有些 *S* 是 *P*”，其意义等同于“存在某个是 *P* 的 *S*”。（译注：源文此句作“An S that is exists.”，疑脱 P，据上下文补足。）
+      >
+      > 形式的命题“有些 *S* 不是 *P*”，其意义等同于“一个不是 *P* 的 *S* 存在。”
+    step2: |-
+      > 形式的命题“所有 *S* 都是 *P*”，其意义等同于“一个不是 *P* 的 *S* 不存在。”
+      >
+      > 形式的命题“没有 *S* 是 *P*”，其意义等同于“一个既是 *P* 的 *S* 不存在。”
+      >
+      > 形式的命题“有些 *S* 是 *P*”，其意义等同于“存在某个是 *P* 的 *S*”。（译注：源文此句作“An S that is exists.”，疑脱 P，据上下文补足。）
+      >
+      > 形式的命题“有些 *S* 不是 *P*”，其意义等同于“一个不是 *P* 的 *S* 存在。”
   - id: 64
     kind: body
     source: |-
       These are semantic claims about the meanings of sentences. In this case, Brentano trusts our linguistic intuitions and takes them to tell us something about the *judgements* expressed by these propositions. The translations are meant to reveal to us the true forms of judgement expressed by categorical propositions. Thus, Brentano advances the following reduction thesis:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些是关于句子意义的语义主张。在此，布伦塔诺信赖我们的语言直觉，并认为这些直觉会告诉我们由这些命题所表达的判断。这些翻译意在向我们揭示直言命题所表达的判断的真实形式。于是，布伦塔诺提出如下还原论题：
+    step2: |-
+      这些是关于句子意义的语义主张。在此，布伦塔诺信赖我们的语言直觉，并认为这些直觉会告诉我们由这些命题所表达的判断。这些翻译意在向我们揭示直言命题所表达的判断的真实形式。于是，布伦塔诺提出如下还原论题：
   - id: 65
     kind: body
     source: |-
       **(6)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（6）**
+    step2: |-
+      **（6）**
   - id: 66
     kind: body
     source: |-
       Categorical propositions can be reduced to propositions of the form “*A* exists” and “*A* does not exist”. More explicitly: An utterance of a categorical proposition always expresses a judgement in which the existence of an object is acknowledged or rejected.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      直言命题可以还原为“*A* 存在”与“*A* 不存在”形式的命题。更明确地说：一句直言命题的说出，总是表达一个承认或拒绝某个对象之存在的判断。
+    step2: |-
+      直言命题可以还原为“*A* 存在”与“*A* 不存在”形式的命题。更明确地说：一句直言命题的说出，总是表达一个承认或拒绝某个对象之存在的判断。
   - id: 67
     kind: body
     source: |-
       Notice that whereas the above translation schemes are symmetrical, the reduction thesis involves an asymmetry claim. It does *not* say that existential propositions express categorical judgements, but conversely that categorical propositions express existential judgements. There is no explicit argument in Brentano for this interpretation of the translation schemes. Rather, it is the context in which Brentano puts forward the reduction thesis that must provide a justification for it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      请注意，上述翻译方案是对称的，而还原论题却包含一项不对称的主张。它并不是说存在命题表达直言判断，而是反过来说：直言命题表达存在判断。对于翻译方案的这种解读，布伦塔诺并没有给出明确的论证。为其提供辩护的，毋宁说是他提出还原论题时所处的语境。
+    step2: |-
+      请注意，上述翻译方案是对称的，而还原论题却包含一项不对称的主张。它并不是说存在命题表达直言判断，而是反过来说：直言命题表达存在判断。对于翻译方案的这种解读，布伦塔诺并没有给出明确的论证。为其提供辩护的，毋宁说是他提出还原论题时所处的语境。
   - id: 68
     kind: body
     source: |-
       How might this work? Well, consider the following argument which Brentano constructs with the help of claim (6):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这如何可能？且看布伦塔诺借助主张（6）构造的下述论证：
+    step2: |-
+      这如何可能？且看布伦塔诺借助主张（6）构造的下述论证：
   - id: 69
     kind: body
     source: |-
       **(7)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（7）**
+    step2: |-
+      **（7）**
   - id: 70
     kind: body
     source: |-
       Everyone agrees that in categorical propositions of the form “All *S* are *P*”, “Some *S* are *P*”, “No *S* is *P*” and “Some *S* are not *P*” the copula “is” or “is not” merely indicates the quality of the judgement and has no meaning of itself.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人人都同意：在“所有 *S* 都是 *P*”、“有些 *S* 是 *P*”、“没有 *S* 是 *P*”和“有些 *S* 不是 *P*”这类直言命题中，联项“是”或“不是”仅仅标示判断的性质，本身并无意义。
+    step2: |-
+      人人都同意：在“所有 *S* 都是 *P*”、“有些 *S* 是 *P*”、“没有 *S* 是 *P*”和“有些 *S* 不是 *P*”这类直言命题中，联项“是”或“不是”仅仅标示判断的性质，本身并无意义。
   - id: 71
     kind: body
     source: |-
       **(6)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（6）**
+    step2: |-
+      **（6）**
   - id: 72
     kind: body
     source: |-
       Categorical propositions can be reduced to propositions of the form “*A* exists” and “*A* does not exist”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      直言命题可以还原为“*A* 存在”与“*A* 不存在”形式的命题。
+    step2: |-
+      直言命题可以还原为“*A* 存在”与“*A* 不存在”形式的命题。
   - id: 73
     kind: body
     source: |-
       **(8)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（8）**
+    step2: |-
+      **（8）**
   - id: 74
     kind: body
     source: |-
       Therefore: The notion “exists” in existential judgements does not have a meaning of itself either.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此：存在判断中“存在”这一概念同样本身并无意义。
+    step2: |-
+      因此：存在判断中“存在”这一概念同样本身并无意义。
   - id: 75
     kind: body
     source: |-
       In running this argument, Brentano advances from a claim about the meaning of the copula “is” that he takes to be incontestable to a (contestable) claim about the meaning of “exists”. It is the direction of this argument that requires the reduction claim made in the second premise. Thus, it is the purpose of the argument that fixes for Brentano the direction in which the reduction has to go.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在这一论证中，布伦塔诺从一个他认为无可争议的、关于联项“是”之意义的论旨，推进到一个（可争议的）关于“存在”之意义的论旨。正是这一论证的方向，要求第二前提中的还原主张成立。因此，为布伦塔诺确定还原方向的，是论证的目的。
+    step2: |-
+      在这一论证中，布伦塔诺从一个他认为无可争议的、关于联项“是”之意义的论旨，推进到一个（可争议的）关于“存在”之意义的论旨。正是这一论证的方向，要求第二前提中的还原主张成立。因此，为布伦塔诺确定还原方向的，是论证的目的。
   - id: 76
     kind: body
     source: |-
       If one accepts the premises, the argument is sound. However, it still leaves open how one evaluates the entire argument because there are hidden assumptions in the premises that Brentano does not disclose. To make them explicit, one has to read the argument as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果接受前提，这一论证就是可靠的。然而，如何评价整个论证仍悬而未决，因为前提中含有布伦塔诺未予明言的隐含假定。要使其显明，须这样解读该论证：
+    step2: |-
+      如果接受前提，这一论证就是可靠的。然而，如何评价整个论证仍悬而未决，因为前提中含有布伦塔诺未予明言的隐含假定。要使其显明，须这样解读该论证：
   - id: 77
     kind: body
     source: |-
       > The copula does not add anything to the meaning of the terms *S* and *P*, and hence nothing to the subject matter of the expressed judgement *if the subject matter is fixed by these concepts*. Therefore, given (6), the term “exists” adds nothing to the subject matter of an existential judgement *if the subject matter is identified with the subject matter of the categorical proposition which forms the basis of the reduction*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 联项不给词项 *S* 与 *P* 的意义增添任何东西，因而也不给所表达判断的主题增添任何东西，**假如主题由这些概念确定的话**。因此，给定（6），“存在”一词也不给存在判断的主题增添任何东西，**假如主题被等同于构成还原基础的那一直言命题的主题的话**。
+    step2: |-
+      > 联项不给词项 *S* 与 *P* 的意义增添任何东西，因而也不给所表达判断的主题增添任何东西，**假如主题由这些概念确定的话**。因此，给定（6），“存在”一词也不给存在判断的主题增添任何东西，**假如主题被等同于构成还原基础的那一直言命题的主题的话**。
   - id: 78
     kind: body
     source: |-
       The parts in italics are the tacit assumptions that Brentano makes in this argument. Anyone who takes the subject matter of judgements to be propositions would deny them and hence the soundness of the argument. That would not immediately disprove the reduction claim (6), but it would deprive Brentano of a good reason for introducing an asymmetry into his translation schemes. Because of this problem, it seems questionable whether Brentano’s reduction project in the third part of his theory succeeds. Apparently, Brentano himself changed his mind on the validity of his argument when he later developed his theory of double judgement (see section 5 below). That means that he no longer can make use of his initial argument to show that “existence” has no meaning by itself.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      斜体部分是布伦塔诺在这一论证中所作的默会假定。凡把判断的主题视为命题的人，都会否认这些假定，从而否认该论证的可靠性。这不会立刻驳倒还原主张（6），却会使布伦塔诺失去为翻译方案引入不对称性的充分理由。由于这一困难，布伦塔诺理论第三部分的还原纲领是否成功，看来颇可怀疑。后来布伦塔诺发展出双重判断理论时（见下文第 5 节），显然改变了对该论证有效性的看法。这意味着，他不再能利用最初的论证来表明“存在”本身并无意义。
+    step2: |-
+      斜体部分是布伦塔诺在这一论证中所作的默会假定。凡把判断的主题视为命题的人，都会否认这些假定，从而否认该论证的可靠性。这不会立刻驳倒还原主张（6），却会使布伦塔诺失去为翻译方案引入不对称性的充分理由。由于这一困难，布伦塔诺理论第三部分的还原纲领是否成功，看来颇可怀疑。后来布伦塔诺发展出双重判断理论时（见下文第 5 节），显然改变了对该论证有效性的看法。这意味着，他不再能利用最初的论证来表明“存在”本身并无意义。
   - id: 79
     kind: body
     source: |-
       ## 2. Brentano and His Precursors on Existential Judgement
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. 布伦塔诺及其先驱论存在判断
+    step2: |-
+      ## 2 布伦塔诺及其先驱论存在判断
   - id: 80
     kind: body
     source: |-
       We have seen that Brentano heavily relies on the special case of existential judgements in developing a general account of judgement and criticizes other views because they do not work for those cases. While Brentano’s approach is original, he also draws on a range of sources. He finds in Aristotle, Aquinas and Kant anticipations of the idea that existential judgements involve no predication (= claim 4). However, none of the named philosophers goes as far as Brentano and takes all judgements to be existential. Hence, Brentano can indeed claim that his own theory fills a gap in the history of ideas. Let’s consider what Brentano took from his predecessors in historical order.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们已看到，布伦塔诺在建立判断的一般理论时严重依赖存在判断这一特例，并批评其他观点，因为它们对这类情形行不通。布伦塔诺的进路固然原创，他也汲取了一系列思想资源。他在亚里士多德、阿奎那与康德那里，发现了“存在判断不涉及述谓”这一观念（＝主张 4）的先声。然而，上述哲学家都没有走得像布伦塔诺那么远，把一切判断都视为存在判断。因此，布伦塔诺确实可以宣称，他自己的理论填补了思想史上的一个空白。且让我们按历史顺序考察布伦塔诺从先驱那里取用了什么。
+    step2: |-
+      我们已看到，布伦塔诺在建立判断的一般理论时严重依赖存在判断这一特例，并批评其他观点，因为它们对这类情形行不通。布伦塔诺的进路固然原创，他也汲取了一系列思想资源。他在亚里士多德、阿奎那与康德那里，发现了“存在判断不涉及述谓”这一观念（＝主张 4）的先声。然而，上述哲学家都没有走得像布伦塔诺那么远，把一切判断都视为存在判断。因此，布伦塔诺确实可以宣称，他自己的理论填补了思想史上的一个空白。且让我们按历史顺序考察布伦塔诺从先驱那里取用了什么。
   - id: 81
     kind: body
     source: |-
       In *Psychology* (PES 212 fn, [II 54 fn; SVS 1, 234 fn 246]) Brentano says in a long footnote that Aristotle hinted at the right conception of existential judgement in *Metaphysics* and in *De Interpretatione*. In *Metaphysics* Book IX (θ) 10 Aristotle is faced with a problem. He has told his readers that one judges truly if one separates in thought what is separated in reality and combines in thought what is combined in reality. For example, if Plato and foolishness are separated—the former does not have the latter—one judges truly if one separates Plato and foolishness in thought, that is, judges that Plato is not foolish. But now Aristotle goes on to tell us that there are *incomposites* that are not combined with anything. How can one make true or false judgements pertaining to such things?[^note-10]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《心理学》中（PES 212 fn, [II 54 fn; SVS 1, 234 fn 246]），布伦塔诺在一条长脚注里说，亚里士多德在《形而上学》与《解释篇》中暗示了存在判断的正确构想。在《形而上学》第九卷（θ）第 10 章，亚里士多德面临一个问题。他曾告诉读者：若人在思想中分离现实中分离的东西，在思想中结合现实中结合的东西，其判断便为真。例如，若柏拉图与愚蠢是分离的——前者不具有后者——那么人在思想中把柏拉图与愚蠢分开，即判断柏拉图不愚蠢，其判断便为真。但接下来亚里士多德告诉我们，有些“不可组合者”（incomposites）不与任何东西结合。人如何能对这类东西作出真或假的判断？[^note-10]
+    step2: |-
+      在《心理学》中（PES 212 fn, [II 54 fn; SVS 1, 234 fn 246]），布伦塔诺在一条长脚注里说，亚里士多德在《形而上学》与《解释篇》中暗示了存在判断的正确构想。在《形而上学》第九卷（θ）第 10 章，亚里士多德面临一个问题。他曾告诉读者：若人在思想中分离现实中分离的东西，在思想中结合现实中结合的东西，其判断便为真。例如，若柏拉图与愚蠢是分离的——前者不具有后者——那么人在思想中把柏拉图与愚蠢分开，即判断柏拉图不愚蠢，其判断便为真。但接下来亚里士多德告诉我们，有些“不可组合者”（incomposites）不与任何东西结合。人如何能对这类东西作出真或假的判断？[^note-10]
   - id: 82
     kind: body
     source: |-
       Aristotle introduces in response a further, different notion of truth and judgement. Judgements pertaining to *incomposites* are “touchings” of or put us into “contact” with these things, a notion that Brentano renders as “perception”:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      亚里士多德对此引入另一种不同的真理与判断概念。关于“不可组合者”的判断是对这些东西的“触摸”，或把我们置于与它们的“接触”之中；布伦塔诺把这一概念译为“知觉”：
+    step2: |-
+      亚里士多德对此引入另一种不同的真理与判断概念。关于“不可组合者”的判断是对这些东西的“触摸”，或把我们置于与它们的“接触”之中；布伦塔诺把这一概念译为“知觉”：
   - id: 83
     kind: body
     source: |-
       > In fact, as truth is not the same in these cases, so also being is not the same; but truth or falsity is as follows—contact and assertion are truth (assertion not being affirmation), and ignorance is non-contact. (*Metaphysics*, 1051b21–25)[^note-11]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 事实上，正如在这些情形中真理并非同一回事，存在也并非同一回事；但真或假的情形如下——接触与断言就是真（断言并非肯定），而无知则是无接触。（《形而上学》1051b21–25）[^note-11]
+    step2: |-
+      > 事实上，正如在这些情形中真理并非同一回事，存在也并非同一回事；但真或假的情形如下——接触与断言就是真（断言并非肯定），而无知则是无接触。（《形而上学》1051b21–25）[^note-11]
   - id: 84
     kind: body
     source: |-
       In Brentano’s eyes, Aristotle’s “redefinition” of judgement and truth is highly suggestive. It shows that the strategy to explain judgement and truth in terms of combining and separating runs into a problem. Aristotle’s appeal to the idea of touching an object suggests a non-propositional form of judgement—good from Brentano’s perspective—while the postulation of two different kinds of judgement, propositional as well as non-propositional, results in a non-uniform account of judgement—bad from Brentano’s perspective. We want a uniform account of judgement. But such an account may not be available, as Brentano later came to see. In his theory of double judgement he accepts, like Aristotle did, the pattern of recognition of non-predicative judgement combined with postulating other kinds of judgement (see section 5).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在布伦塔诺看来，亚里士多德对判断与真理的这一“重新界定”极具启发性。它表明：以结合与分离来解释判断与真理的策略会陷入困境。亚里士多德诉诸“触摸对象”的观念，暗示了一种非命题形式的判断——从布伦塔诺的立场看这是好事——而设定两种不同的判断（命题的与非命题的），则导致一种不统一的判断观——从布伦塔诺的立场看这是坏事。我们需要一种统一的判断观。但这种观点或许无从获得，布伦塔诺后来也如此认识到。在他的双重判断理论中，他像亚里士多德一样，接受了承认非述谓判断并同时设定其他种类判断的模式（见第 5 节）。
+    step2: |-
+      在布伦塔诺看来，亚里士多德对判断与真理的这一“重新界定”极具启发性。它表明：以结合与分离来解释判断与真理的策略会陷入困境。亚里士多德诉诸“触摸对象”的观念，暗示了一种非命题形式的判断——从布伦塔诺的立场看这是好事——而设定两种不同的判断（命题的与非命题的），则导致一种不统一的判断观——从布伦塔诺的立场看这是坏事。我们需要一种统一的判断观。但这种观点或许无从获得，布伦塔诺后来也如此认识到。在他的双重判断理论中，他像亚里士多德一样，接受了承认非述谓判断并同时设定其他种类判断的模式（见第 5 节）。
   - id: 85
     kind: body
     source: |-
       Brentano refers also with approval to the third chapter of *De Interpretatione*. There Aristotle says about the copula “to be” or “to be not” that “by itself it is nothing, but it additionally signifies some combination, which cannot be thought of without the components.” Brentano renders this as
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布伦塔诺还赞赏地提到《解释篇》第三章。在那里，亚里士多德谈到联项“是”或“不是”时说：“它本身什么也不是，但它还表示某种结合，这种结合离开成分便无法思想。”布伦塔诺把它表述为：
+    step2: |-
+      布伦塔诺还赞赏地提到《解释篇》第三章。在那里，亚里士多德谈到联项“是”或“不是”时说：“它本身什么也不是，但它还表示某种结合，这种结合离开成分便无法思想。”布伦塔诺把它表述为：
   - id: 86
     kind: body
     source: |-
       > the “being” of the copula does not in itself signify anything, as a name does, but simply completes the expression of a judgement.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 联项的“存在”本身并不像名称那样表示什么，而只是完成判断的表达。
+    step2: |-
+      > 联项的“存在”本身并不像名称那样表示什么，而只是完成判断的表达。
   - id: 87
     kind: body
     source: |-
       As a correct reading of Aristotle this is dubious. Aristotle has the copula signifying some *combination*. It is not merely “completing” the expression of a judgement, that is, “to be” is not only a syncategorematic expression. But we can use Brentano’s interpretation of Aristotle to shed further light on his own positive view. He wants to say that the meaning of “is” is the same in the following sentences:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作为对亚里士多德的正确解读，这很可疑。亚里士多德让联项表示某种“结合”。它不只是“完成”判断的表达，也就是说，“是”并不只是一个虚词式的表达式。不过，我们可以借用布伦塔诺对亚里士多德的解释，进一步阐明他自己的正面观点。他想说的是：“是”在下列句子中意义相同：
+    step2: |-
+      作为对亚里士多德的正确解读，这很可疑。亚里士多德让联项表示某种“结合”。它不只是“完成”判断的表达，也就是说，“是”并不只是一个虚词式的表达式。不过，我们可以借用布伦塔诺对亚里士多德的解释，进一步阐明他自己的正面观点。他想说的是：“是”在下列句子中意义相同：
   - id: 88
     kind: body
     source: |-
       **(a)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（a）**
+    step2: |-
+      **（a）**
   - id: 89
     kind: body
     source: |-
       God is almighty.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上帝是全能的。
+    step2: |-
+      上帝是全能的。
   - id: 90
     kind: body
     source: |-
       **(b)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（b）**
+    step2: |-
+      **（b）**
   - id: 91
     kind: body
     source: |-
       God is.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上帝存在。
+    step2: |-
+      上帝存在。
   - id: 92
     kind: body
     source: |-
       In both sentences “is” has meaning or reference of its own. Hence, one cannot understand the judgement expressed by (b) as a predication of a property: “is” does not name the property of being.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在这两个句子中，“是”都有其自身的意义或指称。因此，人们不能把（b）所表达的判断理解为对某种性质的述谓：“是”并不命名“存在”这一性质。
+    step2: |-
+      在这两个句子中，“是”都有其自身的意义或指称。因此，人们不能把（b）所表达的判断理解为对某种性质的述谓：“是”并不命名“存在”这一性质。
   - id: 93
     kind: body
     source: |-
       What does “is” then do in “God is”? In his answer of this question Brentano took inspiration from St. Thomas and Kant:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      那么，“是”在“上帝存在”中起什么作用？布伦塔诺在回答这一问题时，从圣托马斯与康德那里获得启发：
+    step2: |-
+      那么，“是”在“上帝存在”中起什么作用？布伦塔诺在回答这一问题时，从圣托马斯与康德那里获得启发：
   - id: 94
     kind: body
     source: |-
       > In the Middle Ages, St. Thomas came as close as Kant to the truth, remarkably enough by reflecting upon the same proposition, “God exists”. According to him, the “is” is not a real predicate but merely a sign of affirmation (*Summa Theologica*, P. I, Q. 3, A. 4 ad 2). (PES 211 fn, [II 53 fn; SVS 1, 234 fn 244])
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 在中世纪，圣托马斯与康德一样接近真理，其方式颇为出人意料：他思考的是同一个命题“上帝存在”。在他看来，“是”并非实在的谓词，而只是肯定的记号（《神学大全》，第一部分，第 3 题，第 4 条，答 2）。（PES 211 fn, [II 53 fn; SVS 1, 234 fn 244]）
+    step2: |-
+      > 在中世纪，圣托马斯与康德一样接近真理，其方式颇为出人意料：他思考的是同一个命题“上帝存在”。在他看来，“是”并非实在的谓词，而只是肯定的记号（《神学大全》，第一部分，第 3 题，第 4 条，答 2）。（PES 211 fn, [II 53 fn; SVS 1, 234 fn 244]）
   - id: 95
     kind: body
     source: |-
       What is telling here is Brentano’s use of the word “merely”. It implies that one can use a sign for affirmation without using that very same sign also as a sign for predication. Following Brentano’s own suggestion, we can make this clear by introducing a simple formalism. Let us use the sign “+” as a sign for a mere affirmation (like a question mark is a mere sign for asking a question), and let us use “+is” as a sign that expresses both a judgement and a predication. Then we can symbolize the two judgements above as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里耐人寻味的是布伦塔诺对“只是”一词的用法。它蕴涵：人可以使用一个肯定的记号，而不必把同一个记号也用作述谓的记号。顺着布伦塔诺自己的建议，我们可以引入一个简单的形式系统来说明这一点。让我们用记号“+”表示单纯的肯定（就像问号是提问的单纯记号），用“+是”表示既表达判断又表达述谓的记号。于是，上面两个判断可以符号化如下：
+    step2: |-
+      这里耐人寻味的是布伦塔诺对“只是”一词的用法。它蕴涵：人可以使用一个肯定的记号，而不必把同一个记号也用作述谓的记号。顺着布伦塔诺自己的建议，我们可以引入一个简单的形式系统来说明这一点。让我们用记号“+”表示单纯的肯定（就像问号是提问的单纯记号），用“+是”表示既表达判断又表达述谓的记号。于是，上面两个判断可以符号化如下：
   - id: 96
     kind: body
     source: |-
       **(a)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（a）**
+    step2: |-
+      **（a）**
   - id: 97
     kind: body
     source: |-
       God (+is) almighty
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上帝（+是）全能
+    step2: |-
+      上帝（+是）全能
   - id: 98
     kind: body
     source: |-
       **(b)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（b）**
+    step2: |-
+      **（b）**
   - id: 99
     kind: body
     source: |-
       God (+)[^note-12]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上帝（+）[^note-12]
+    step2: |-
+      上帝（+）[^note-12]
   - id: 100
     kind: body
     source: |-
       That is the inspiration that Brentano gets from St. Thomas. But, again, there is something in St. Thomas that Brentano finds objectionable.[^note-13] As Brentano notes, Aquinas wants to uphold Aristotle’s theory of truth which requires that every judgement is a comparison between a representation and its object. He does not admit that existential judgements simply do not fit this description.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这就是布伦塔诺从圣托马斯那里得到的启发。但圣托马斯那里也有布伦塔诺觉得不能接受的东西。[^note-13] 正如布伦塔诺所指出的，阿奎那想要维护亚里士多德的真理理论，而该理论要求每个判断都是表象与其对象之间的比较。他不承认存在判断根本不适合这一描述。
+    step2: |-
+      这就是布伦塔诺从圣托马斯那里得到的启发。但圣托马斯那里也有布伦塔诺觉得不能接受的东西。[^note-13] 正如布伦塔诺所指出的，阿奎那想要维护亚里士多德的真理理论，而该理论要求每个判断都是表象与其对象之间的比较。他不承认存在判断根本不适合这一描述。
   - id: 101
     kind: body
     source: |-
       It is important to note that “+” is a sign of affirmation and not a predicate. For example, Sundholm (2009: 274) argues that Brentano simply “rediscovered” an idea of Bolzano. According to Sundholm, Bolzano takes “A exists” to express the propositions that the idea [A] has an object; “A does not exist” expresses the negation of this property. The appearance that Brentano recycles this view is dispelled when we notice that “+” does not express a presentation, but only determines in which mode a content is to be thought.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      值得注意的是，“+”是肯定的记号，而不是谓词。例如，松德霍尔姆（2009: 274）论证说，布伦塔诺不过是“重新发现”了波尔查诺的一个观念。据松德霍尔姆，波尔查诺认为“A 存在”表达的是观念[A]具有对象这一命题；“A 不存在”则表达该属性的否定。当我们注意到“+”并不表达表象，而只确定内容应以何种方式被思考时，布伦塔诺因袭此说的印象便消失了。
+    step2: |-
+      值得注意的是，“+”是肯定的记号，而不是谓词。例如，松德霍尔姆（2009: 274）论证说，布伦塔诺不过是“重新发现”了波尔查诺的一个观念。据松德霍尔姆，波尔查诺认为“A 存在”表达的是观念[A]具有对象这一命题；“A 不存在”则表达该属性的否定。当我们注意到“+”并不表达表象，而只确定内容应以何种方式被思考时，布伦塔诺因袭此说的印象便消失了。
   - id: 102
     kind: body
     source: |-
       Let us now turn to Kant. Brentano disagrees with Kant’s epistemology on almost every single point. With respect to the nature of judgement, Brentano points out that Kant overlooks their essential character by putting them together with presentations into a single category: acts of thinking. He also takes Kant to task for holding on to the mistaken view that a judgement always unifies several representations (*Critique of Pure Reason*, A 68–9/B93–4). Thus it may come as a surprise that there is also a strong agreement between their views. Kant anticipates Brentano’s claim that a “single mark [einzelnes Merkmal] which is the object of a presentation can be acknowledged or denied, too” (PES 208 [II 49; SVS 1, 230]; translation changed). The insight can be found in Kant’s seminal discussion of existence:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在让我们转向康德。布伦塔诺几乎在每一点上都不同意康德的认识论。关于判断的本性，布伦塔诺指出，康德把判断与表象一并归入“思维行为”这一单一范畴，从而忽略了判断的本质特征。他还批评康德固守一个错误观点：判断总是综合多个表象（《纯粹理性批判》，A 68–9/B93–4）。因此，下述情况或许令人惊讶：两人的观点也有强烈的一致之处。康德预见了布伦塔诺的主张：“一个作为表象对象的单一标记〔einzelnes Merkmal〕也可以被承认或被拒绝”（PES 208 [II 49; SVS 1, 230]；译文有改动）。这一洞见见于康德关于存在的开创性讨论：
+    step2: |-
+      现在让我们转向康德。布伦塔诺几乎在每一点上都不同意康德的认识论。关于判断的本性，布伦塔诺指出，康德把判断与表象一并归入“思维行为”这一单一范畴，从而忽略了判断的本质特征。他还批评康德固守一个错误观点：判断总是综合多个表象（《纯粹理性批判》，A 68–9/B93–4）。因此，下述情况或许令人惊讶：两人的观点也有强烈的一致之处。康德预见了布伦塔诺的主张：“一个作为表象对象的单一标记〔einzelnes Merkmal〕也可以被承认或被拒绝”（PES 208 [II 49; SVS 1, 230]；译文有改动）。这一洞见见于康德关于存在的开创性讨论：
   - id: 103
     kind: body
     source: |-
       > Being is obviously not a real predicate, i.e., a concept of something that could add to the concept of a thing. It is merely the positing of a thing or of certain determinations in themselves. (*Critique of Pure Reason*, A 598)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 存在显然不是实在的谓词，即不是某种能够增添到一物的概念之上的东西的概念。它只是对一个事物或某些规定本身的设定。（《纯粹理性批判》，A 598）
+    step2: |-
+      > 存在显然不是实在的谓词，即不是某种能够增添到一物的概念之上的东西的概念。它只是对一个事物或某些规定本身的设定。（《纯粹理性批判》，A 598）
   - id: 104
     kind: body
     source: |-
       Kant’s slogan “being is not a real predicate” has been interpreted as saying that “exists” is no first-order predicate of objects, but a second-order predicate true of concepts. Whether this is the correct interpretation is not important for our purposes. Primed by Aquinas’s remarks on “to be”, Brentano reads Kant’s remark differently.[^note-14] When I judge that God exists, I posit an omniscient being, but I do not add something to the concept of an omniscient being. Instead of saying “exists” is not a real predicate, Kant should have said that it is not a predicate at all, but a force-indicator: it has positing force.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德的口号“存在不是实在的谓词”一直被解释为：说“存在”不是对象的一阶谓词，而是对概念为真的二阶谓词。这一解释是否正确，对我们的目的并不重要。受阿奎那关于“是”的论述启发，布伦塔诺对康德这句话作了不同的解读。[^note-14] 当我判断上帝存在时，我设定了一个全知的存在者，但并没有给“全知的存在者”这一概念增添什么。康德与其说“存在”不是实在的谓词，不如说它根本不是谓词，而是一个力量指示词：它具有设定的力量。
+    step2: |-
+      康德的口号“存在不是实在的谓词”一直被解释为：说“存在”不是对象的一阶谓词，而是对概念为真的二阶谓词。这一解释是否正确，对我们的目的并不重要。受阿奎那关于“是”的论述启发，布伦塔诺对康德这句话作了不同的解读。[^note-14] 当我判断上帝存在时，我设定了一个全知的存在者，但并没有给“全知的存在者”这一概念增添什么。康德与其说“存在”不是实在的谓词，不如说它根本不是谓词，而是一个力量指示词：它具有设定的力量。
   - id: 105
     kind: body
     source: |-
