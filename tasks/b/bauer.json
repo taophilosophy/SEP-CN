@@ -2,7 +2,7 @@
   "slug": "bauer",
   "kind": "retranslate",
   "zh_doc": "b/bauer.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "ABCDE-main-20261103",
       "at": "2026-11-02T18:45:02Z",
       "evidence": "check_style 0 issue；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；其他网络资源 1 项（美国黑格尔学会）、相关词条 7 项对应"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T02:00:18Z",
+      "evidence": "独立初审（接管会话，非初译 actor）：源译全文回读，4 节 31 块逐块对齐无错译；实修三类结构性偏差（对照 fan-yi-mu-ban 现制 References 要点 L235 + kant-hume-morality 同形先例）：①源文转换器契约注记（> 原文参考文献已转为脚注引用…[^key]…）缺失补回 1 行；②Major Works/期刊 defs 35 条被汉化违反照录契约（现制：非中文条目不译）——以 yuanwen 逐字符原文整块替换至文末定义区（106 条）；③defs 混排小节之下回归文末（空壳小节 4 个保留）。键多重集 106:106、正文 marker 守恒复验通过；年份序 DIFF@47 为句内语序重排豁免（1827 百科全书分析补充 1828/29 讲演，语义同源）；ENRES 3 处均书名规范括注误报豁免；prose 46 条与 s2 豁免台账一致（概念链 de-chain+源文等长长句，ADR-0020）；check_style 0／check_academic 无硬错误／check_math unbalanced 0；人名登记 21 行（外科提交 5af92cb7；Kautsky 撞行由并行会话合并废行）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T02:00:19Z",
+      "evidence": "独立复审（接管会话，非初译 actor）：r1 实修逐项 grep 断言在位（说明行=1、文末 defs 首条 raw 形=1、小节壳=1）；五维复验：defs 键多重集 106:106、marker 守恒、粗体缩写键 0 维一致；人名登记 21 行复核，check_terms 硬错误 0；英文残留专扫仅余 3 处书名规范括注（豁免留痕）；BLOCK 31:30 差额＝说明行+照录说明+byline 省略三项已解释"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T02:00:23Z",
+      "evidence": "终审验收：终稿结构完整（说明行+照录说明+空壳小节+文末 defs 106 条 raw）；check_all 七项门禁本地全绿（2026-11-08，推送后 CI 为最终裁判）；r2 复审无新增问题"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T02:00:23Z",
+      "evidence": "批次收口：r3 终审通过后置 done；凭证链九步完整（clear/draft/s1/s2/s3=ABCDE-main-20261103，r1/r2/r3/done=R-main-20261108）；提交链见 git log"
     }
   ],
   "blockers": [],

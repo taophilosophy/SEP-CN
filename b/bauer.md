@@ -74,77 +74,103 @@
 
 **以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
 ### 布鲁诺·鲍威尔的主要著作，1829–1882
 
-[^de-1996]: 《论美的原理》（*De pulchri principiis*）。普鲁士王家奖获奖手稿，最初以《美的原理。*De pulchri principiis*。一篇获奖论文》（*Prinzipien des Schönen. De pulchri principiis. Eine Preisschrift*）为题出版，由 Douglas Moggach 与 Winfried Schultze 编，附 Volker Gerhardt 序，柏林：Akademie Verlag，1996。意拉对照版：Douglas Moggach 与 Gabriele Schimmenti 编，《论美之原理》（*Sui principi del bello*），巴勒莫大学出版社，巴勒莫，2019
+### 布鲁诺·鲍威尔编辑的期刊
 
-[^rezension-1835]: “书评：《耶稣传，批判考证》（*Das Leben Jesu, kritisch bearbeitet*），作者大卫·弗里德里希·施特劳斯（David Friedrich Strauss）”，载《科学批判年鉴》（*Jahrbücher für wissenschaftliche Kritik*），1835 年 12 月，第 109 期，879–880；第 111 期，891；第 113 期，905–912。1836 年 5 月，第 86 期，681–688；第 88 期，697–704。
+### 二手文献
 
-[^kritik-1838]: 《启示史批判。旧约宗教在其诸原则的历史发展中的呈现》（*Kritik der Geschichte der Offenbarung. Die Religion des alten Testaments in der geschichtlichen Entwicklung ihrer Prinzipien dargestellt*），2 卷，柏林，1838。
+#### 书籍与文章
 
-[^herr-1839]: 《亨格斯坦贝格博士》（*Herr Dr. Hengstenberg*），柏林，1839。
 
-[^die-1840]: （匿名，第 1 版）《普鲁士福音派国家教会与科学》（*Die evangelische Landeskirche Preußens und die Wissenschaft*），莱比锡，1840；第 2 版，标明作者，1840。
 
-[^kritik-1840]: 《约翰福音史批判》（*Kritik der evangelischen Geschichte des Johannes*），不来梅，1840。
+## 学术工具
 
-[^der-1841]: “基督教国家与我们的时代”（“Der christliche Staat und unsere Zeit”），载《哈勒德意志科学与艺术年鉴》（*Hallische Jahrbücher für deutsche Wissenschaft und Kunst*），1841 年 6 月 7–12 日，第 135–140 期，第 537–558 页。
+> | | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bauer). |
+> | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+> | | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/bauer/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=bauer&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | | [Enhanced bibliography for this entry](https://philpapers.org/sep/bauer/) at [PhilPapers](https://philpapers.org/), with links to its database. |
 
-[^kritik-1841]: 《对观福音史批判》（*Kritik der evangelischen Geschichte der Synoptiker*），2 卷（莱比锡，1841）；《对观福音与约翰福音史批判，第三卷即最后一卷》（*Kritik der evangelischen Geschichte der Synoptiker und des Johannes, Dritter und letzter Band*），不伦瑞克，1842。
+## 其他网络资源
 
-[^die-1841]: （匿名）《反对黑格尔这个无神论者与敌基督的最后审判号角。最后通牒》（*Die Posaune des jüngsten Gerichts über Hegel den Atheisten und Antichristen. Ein Ultimatum*），莱比锡，1841；《反对黑格尔这个无神论者与敌基督的最后审判号角。最后通牒》（*The Trumpet of the Last Judgement against Hegel the Atheist and Antichrist. An Ultimatum*），译 L. Stepelevich，刘易斯顿，纽约：E. Mellen Press，1989。
+* [美国黑格尔学会](http://www.hegel.org/)
 
-[^la-1841]: 《反对黑格尔、无神论者与敌基督的最后审判号角。最后通牒》（*La Trompette du jugement dernier contre Hegel, l’athée et l’antéchrist. Un ultimatum*），1841，译 Henri-Alexis Baatsch，巴黎：Aubier-Montaigne，1972。
+## 相关词条
 
-[^la-2016]: 《最后审判号角》（*La Trompette du jugement dernier*），译 Henri-Alexis Baatsch，附 Nicolas Dessaux 的评注（“作为号手之马克思”（“De Marx comme trompettiste”）），巴黎：l’Échappée，2016。
+路德维希·安德列斯·费尔巴哈 | 格奥尔格·威廉·弗里德里希·黑格尔 | 唯心主义 | 伊曼努尔·康德 | 康德的社会与政治哲学 | 卡尔·马克思 | 麦克斯·施蒂纳
 
-[^hegels-1842]: （匿名）《黑格尔的宗教与艺术学说，从信仰的立场加以评判》（*Hegels Lehre von der Religion und Kunst von dem Standpuncte des Glaubens aus beurtheilt*），莱比锡，1842；新版，阿伦：Scientia Verlag，1967。
+[^de-1996]: *De pulchri principiis*. Prussian royal prize manuscript, first published as *Prinzipien des Schönen. De pulchri principiis. Eine Preisschrift*, hrsg. Douglas Moggach und Winfried Schultze, mit einem Vorwort von Volker Gerhardt, Berlin: Akademie Verlag, 1996. Italian-Latin edition: Douglas Moggach and Gabriele Schimmenti, eds., *Sui principi del bello*, Palermo University Press, Palermo, 2019
 
-[^die-1842]: 《自由的正当事业与我的自身事务》（*Die gute Sache der Freiheit und meine eigene Angelegenheit*），苏黎世与温特图尔，1842。
+[^rezension-1835]: “Rezension: *Das Leben Jesu, kritisch bearbeitet* von David Friedrich Strauss,” *Jahrbücher für wissenschaftliche Kritik*, Dec. 1835, no. 109, 879–880; no. 111, 891; no. 113, 905–912. May 1836, no. 86, 681–688; no. 88, 697–704.
 
-[^die-1843]: 《犹太问题》（*Die Judenfrage*），不伦瑞克，1843。
+[^kritik-1838]: *Kritik der Geschichte der Offenbarung. Die Religion des alten Testaments in der geschichtlichen Entwicklung ihrer Prinzipien dargestellt*, 2 vol., Berlin, 1838.
 
-[^arnold-1843]: 阿诺德·卢格（Arnold Ruge）编，《最新德国哲学与政论佚文集》（*Anekdota zur neuesten deutschen Philosophie und Publizistik*），第 2 卷，苏黎世与温特图尔，1843 年所载文章：“神学意识的苦与乐”（“Leiden und Freuden des theologischen Bewußtseins”），89–112；“书评：『不来梅杂志：论福音真理对现代虔敬主义之立场。第一分册』（‘Bremisches Magazin für evangelische Wahrheit gegenüber dem modernen Pietismus. Erstes Heft’）”，113–134；“书评：特奥多尔·克利福斯（Theodor Kliefoth）《教义史导论》（*Einleitung in die Dogmengeschichte*）”，135–159；“书评：冯·阿蒙博士（Dr. von Ammon）《耶稣生平史，密切联系现存来源》（*Die Geschichte des Lebens Jesu mit steter Rücksicht auf die vorhandenen Quellen*）。莱比锡，1842”，160–185。
+[^herr-1839]: *Herr Dr. Hengstenberg*, Berlin, 1839.
 
-[^das-1843]: 《被揭发的基督教。对 18 世纪的追忆与对 19 世纪危机的贡献》（*Das entdeckte Christenthum. Eine Erinnerung an das 18. Jahrhundert und ein Beitrag zur Krisis des 19*），苏黎世与温特图尔，1843。
+[^die-1840]: (anon., 1st ed.) *Die evangelische Landeskirche Preußens und die Wissenschaft*, Leipzig, 1840; second edition, with author indicated, 1840.
 
-[^die-1843-2]: “当今犹太人与基督徒获得自由的能力”（“Die Fähigkeit der heutigen Juden und Christen, frei zu werden”），载格奥尔格·赫尔韦格（Georg Herwegh）编，《瑞士来的二十一印张》（*Einundzwanzig Bogen aus der Schweiz*），苏黎世与温特图尔，1843，56–71。
+[^kritik-1840]: *Kritik der evangelischen Geschichte des Johannes*, Bremen, 1840.
 
-[^geschichte-1843]: 《十八世纪政治、文化与启蒙史》（*Geschichte der Politik, Kultur und AufklÄrung des achtzehnten Jahrhunderts*），4 卷，夏洛滕堡：1843–45。
+[^der-1841]: “Der christliche Staat und unsere Zeit,” *Hallische Jahrbücher für deutsche Wissenschaft und Kunst*, 7–12 June 1841, no 135–140, pp. 537–558.
 
-[^denkwürdigkeiten-1843]: 《近代史（自法国大革命以来）札记》（*Denkwürdigkeiten zur Geschichte der neueren Zeit seit der französischen Revolution*），夏洛滕堡，1843–1844。
+[^kritik-1841]: *Kritik der evangelischen Geschichte der Synoptiker*, 2 vol. (Leipzig, 1841); *Kritik der evangelischen Geschichte der Synoptiker und des Johannes, Dritter und letzter Band*, Braunschweig, 1842.
 
-[^briefwechsel-1839]: 《布鲁诺·鲍威尔与埃德加·鲍威尔 1839–1842 年间自波恩与柏林的通信》（*Briefwechsel zwischen Bruno Bauer und Edgar Bauer während der Jahre 1839–1842 aus Bonn und Berlin*），夏洛滕堡，1844。
+[^die-1841]: (anon.) *Die Posaune des jüngsten Gerichts über Hegel den Atheisten und Antichristen. Ein Ultimatum*, Leipzig, 1841; *The Trumpet of the Last Judgement against Hegel the Atheist and Antichrist. An Ultimatum*, trans. L. Stepelevich, Lewiston, NY: E. Mellen Press, 1989.
 
-[^was-1844]: “批判的对象如今是什么？”（“Was ist jetzt der Gegenstand der Kritik?”），载 *Allg. Lit-Ztg.* 第八卷，1844 年 7 月，18–26。
+[^la-1841]: *La Trompette du jugement dernier contre Hegel, l’athée et l’antéchrist. Un ultimatum*, 1841, trans. Henri-Alexis Baatsch, Paris: Aubier-Montaigne, 1972.
 
-[^die-1844]: “类与大众”（“Die Gattung und die Masse”），载 *Allg. Lit.-Ztg.* 第十卷，1844 年 9 月，42–48。
+[^la-2016]: *La Trompette du jugement dernier*, trans. Henri-Alexis Baatsch, with a commentary by Nicolas Dessaux (“ De Marx comme trompettiste”), Paris: l’Échappée, 2016.
 
-[^acktenstücke-1844]: 《关于没收〈十八世纪政治、文化与启蒙史〉之谈判的文书》（*Acktenstücke zu den Verhandlungen über die Beschlagnahme der “Geschichte der Politik, Kultur und Aufklärung des achtzehnten Jahrhunderts”*），布鲁诺·鲍威尔 著。第一部由布鲁诺·鲍威尔编，克里斯蒂安尼亚：C.C. Werner 出版社，1844。
+[^hegels-1842]: (anon.) *Hegels Lehre von der Religion und Kunst von dem Standpuncte des Glaubens aus beurtheilt*, Leipzig, 1842; new edition Aalen: Scientia Verlag, 1967.
 
-[^charakteristik-1845]: （匿名）“路德维希·费尔巴哈素描”（“Charakteristik Ludwig Feuerbachs”），载《维甘德季刊》（*Wigands Vierteljahrschrift*）第三卷，1845，86–146。
+[^die-1842]: *Die gute Sache der Freiheit und meine eigene Angelegenheit*, Zürich und Winterthur, 1842.
 
-[^geschichte-1846]: 《拿破仑统治下的德国史与法国大革命》（*Geschichte Deutschlands und der französischen Revolution unter der Herrschaft Napoleons*），2 卷，夏洛滕堡，1846。
+[^die-1843]: *Die Judenfrage*, Braunschweig, 1843.
 
-[^vollständige-1842]: 《德国 1842–1846 年党派斗争全史》（*Vollständige Geschichte der Parteikämpfe in Deutschland während der Jahre 1842–1846*），夏洛滕堡，1847。
+[^arnold-1843]: articles in Arnold Ruge (ed.), *Anekdota zur neuesten deutschen Philosophie und Publizistik*, vol. 2, Zürich und Winterthur, 1843: “Leiden und Freuden des theologischen Bewußtseins”, 89–112; “Rezension: ‘Bremisches Magazin für evangelische Wahrheit gegenüber dem modernen Pietismus. Erstes Heft’”, 113–134; “Rezension: *Einleitung in die Dogmengeschichte* von Theodor Kliefoth.”135–159; “Rezension: *Die Geschichte des Lebens Jesu mit steter Rücksicht auf die vorhandenen Quellen* dargestellt von Dr. von Ammon. Leipzig, 1842” 160–185.
 
-[^erste-1848]: “1848 年首次竞选演说”（“Erste Wahlrede von 1848”）与“布鲁诺·鲍威尔 1849 年 2 月 22 日向第四选区选举人所作辩护演说”（“Verteidigungsrede Bruno Bauers vor den Wahlmännern des Vierten Wahlbezirkes am 22.2. 1849”），载 E. Barnikol《布鲁诺·鲍威尔：研究与资料》，518–531。
+[^das-1843]: *Das entdeckte Christenthum. Eine Erinnerung an das 18. Jahrhundert und ein Beitrag zur Krisis des 19*, Zürich und Winterthur, 1843.
 
-[^die-1849]: 《自德国天主教运动兴起以来的德国市民革命》（*Die bürgerliche Revolution in Deutschland seit dem Anfange der deutschkatholischen Bewegung*），夏洛滕堡，1849。
+[^die-1843-2]: “Die Fähigkeit der heutigen Juden und Christen, frei zu werden,” in Georg Herwegh (ed.), *Einundzwanzig Bogen aus der Schweiz*, Zürich und Winterthur, 1843, 56–71.
 
-[^untergang-1849]: 《法兰克福议会的覆灭》（*Untergang des Frankfurter Parlaments*），夏洛滕堡，1849。
+[^geschichte-1843]: *Geschichte der Politik, Kultur und AufklÄrung des achtzehnten Jahrhunderts*, 4 vols., Charlottenburg: 1843–45.
 
-[^kritik-1850]: 《保罗书信批判》（*Kritik der paulinischen Briefe*），柏林，1850–1851。
+[^denkwürdigkeiten-1843]: *Denkwürdigkeiten zur Geschichte der neueren Zeit seit der französischen Revolution*, Charlottenburg, 1843–1844.
 
-[^kritik-1850-2]: 《福音书批判及其起源史》（*Kritik der Evangelien und Geschichte ihres Ursprungs*），3 卷，柏林，1850–1851；第 4 卷以《福音书的神学解释》（*Die theologische Erklärung der Evangelien*）为题，柏林，1852。
+[^briefwechsel-1839]: *Briefwechsel zwischen Bruno Bauer und Edgar Bauer während der Jahre 1839–1842 aus Bonn und Berlin*, Charlottenburg, 1844.
 
-[^present-1852]: “犹太人当前的地位”（“The Present Position of the Jews”），载《纽约每日论坛报》（*New York Daily Tribune*），1852 年 6 月 7 日。
+[^was-1844]: “Was ist jetzt der Gegenstand der Kritik?” *Allg. Lit-Ztg*. VIII, July 1844, 18–26.
 
-[^russland-1853]: 《俄罗斯与日耳曼精神》（*Russland und das Germanenthum*），2 卷，夏洛滕堡，1853。
+[^die-1844]: “Die Gattung und die Masse”, *Allg. Lit.-Ztg.* X, September 1844, 42–48.
 
-[^de-1854]: 《论西方的专政》（*De la dictature occidentale*），夏洛滕堡，1854。
+[^acktenstücke-1844]: *Acktenstücke zu den Verhandlungen über die Beschlagnahme der “Geschichte der Politik, Kultur und Aufklärung des achtzehnten Jahrhunderts”*, von Bruno Bauer. Teil I herausgegeben von Bruno Bauer, Christiania: Verlag von C.C. Werner, 1844.
 
-[^deutschland-1854]: 《德意志与俄罗斯精神》（*Deutschland und das Russenthum*），夏洛滕堡，1854。
+[^charakteristik-1845]: (anon.)“Charakteristik Ludwig Feuerbachs,” *Wigands Vierteljahrschrift* III, 1845, 86–146.
+
+[^geschichte-1846]: *Geschichte Deutschlands und der französischen Revolution unter der Herrschaft Napoleons*, 2 vols., Charlottenburg, 1846.
+
+[^vollständige-1842]: *Vollständige Geschichte der Parteikämpfe in Deutschland während der Jahre 1842–1846*, Charlottenburg, 1847.
+
+[^erste-1848]: “Erste Wahlrede von 1848,” and “Verteidigungsrede Bruno Bauers vor den Wahlmännern des Vierten Wahlbezirkes am 22.2. 1849,” in E. Barnikol, *Bruno Bauer: Studien und Materialien*, 518–531.
+
+[^die-1849]: *Die bürgerliche Revolution in Deutschland seit dem Anfange der deutschkatholischen Bewegung*, Charlottenburg, 1849.
+
+[^untergang-1849]: *Untergang des Frankfurter Parlaments*, Charlottenburg, 1849.
+
+[^kritik-1850]: *Kritik der paulinischen Briefe*, Berlin, 1850–1851.
+
+[^kritik-1850-2]: *Kritik der Evangelien und Geschichte ihres Ursprungs*, 3 vol., Berlin, 1850–1851; 4th vol. under the title *Die theologische Erklärung der Evangelien*, Berlin, 1852.
+
+[^present-1852]: “The Present Position of the Jews,” *New York Daily Tribune*, June 7, 1852.
+
+[^russland-1853]: *Russland und das Germanenthum*, 2 vol., Charlottenburg, 1853.
+
+[^de-1854]: *De la dictature occidentale*, Charlottenburg, 1854.
+
+[^deutschland-1854]: *Deutschland und das Russenthum*, Charlottenburg, 1854.
 
 [^die-1855]: *Die russische Kirche. Schlussheft*, Charlottenburg, 1855.
 
@@ -162,8 +188,6 @@
 
 [^disraelis-1882]: *Disraelis romantischer und Bismarcks socialistischer Imperialismus*, Chemnitz, 1882.
 
-### 布鲁诺·鲍威尔编辑的期刊
-
 [^zeitschrift-1836]: *Zeitschrift für spekulative Theologie*, Berlin, three volumes, 1836–1838.
 
 [^allgemeine-1843]: *Allgemeine Literatur-Zeitung*, Charlottenburg, 12 issues December 1843–October 1844. Second edition under the title: *Streit der Kritik mit den modernen Gegensätzen*, Charlottenburg, 1847.
@@ -173,10 +197,6 @@
 [^friedrich-1859]: collaboration in Friedrich Wilhelm Hermann Wagener, ed., *Neues Conversations-Lexikon. Staats- und Gesellschafts-Lexikon*, 23 vol., Berlin, 1859–1867.
 
 [^schmeitzner’s-1882]: collaboration in *Schmeitzner’s Internationale Monatsschrift. Zeitschrift für allgemeine nationale Kultur und deren Literatur*, Chemnitz, 1882.
-
-### 二手文献
-
-#### 书籍与文章
 
 [^barbour-2024]: Barbour, Charles, 2024, “The Political Theology and Polemical Tactics of Bruno Bauer,” *The European Legacy*, 29(2): 143–65.
 
@@ -293,19 +313,3 @@
 [^waser-1994]: Waser, Ruedi, 1994, *Autonomie des Selbstbewußtseins. Eine Untersuchung zum Verhältnis von Bruno Bauer und Karl Marx (1835–1843)*, Tübingen: Francke Verlag.
 
 [^zanardo-1966]: Zanardo, Aldo, 1966, “Bruno Bauer hegeliano e giovane hegeliano,” *Rivista critica di storia della filosofia*, 189–210, 293–327.
-
-## 学术工具
-
-> | | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bauer). |
-> | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-> | | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/bauer/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=bauer&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | | [Enhanced bibliography for this entry](https://philpapers.org/sep/bauer/) at [PhilPapers](https://philpapers.org/), with links to its database. |
-
-## 其他网络资源
-
-* [美国黑格尔学会](http://www.hegel.org/)
-
-## 相关词条
-
-路德维希·安德列斯·费尔巴哈 | 格奥尔格·威廉·弗里德里希·黑格尔 | 唯心主义 | 伊曼努尔·康德 | 康德的社会与政治哲学 | 卡尔·马克思 | 麦克斯·施蒂纳
