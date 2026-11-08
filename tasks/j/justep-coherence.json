@@ -2,7 +2,7 @@
   "slug": "justep-coherence",
   "kind": "retranslate",
   "zh_doc": "j/justep-coherence.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "?",
       "at": "2026-11-06T21:29:46Z",
       "evidence": "四检：check_academic --strict OK；check_style issues=0；check_prose 62 条已分类豁免留痕；check_math formulas=228 missing=[] unbalanced=[]；lq check 守恒门 116 段通过"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-08T17:15:32Z",
+      "evidence": "独立复审：对照 yuanwen 九节（融贯论与基础主义/回溯问题/传统说明/其他说明/从零证成/概率度量/导向真理之争/不可能性结果/结论）通读；节 9:9、marker 32:32、defs 84:84、段落 113:112（差一=byline 豁免）；lq 守恒 116 段 HARD=0；公式逐字符保源（含源文 $\\bfrac$ 非常规宏，按数学定界符保留条不移）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-08T17:15:32Z",
+      "evidence": "人名术语归一与补登：跨条异译回改册内先登形——邦久→邦茹(22)、雷舍尔→雷谢尔(10)、布兰沙德→布兰夏德(1)（truth-coherence 成品用雷谢尔/布兰夏德，closure-epistemic 用邦茹），正文与账本 step1/step2 同步、守恒门复跑通过；补登 yi-zhe『web of belief=信念之网』；补登 ren-ming-biao 24 行现代学者（Huemer/Bovens/Olsson/Ewing/Warfield/Shogenji/Schupbach/McGrew/Roche/Akiba/Douven/Meijs/Schubert/Wheeler/Glass/Angere/Moretti/Koscholke/Schippers/Stegman/Siebel/Lüdtke/Poston/Haack），行键与册内既有无重复"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-08T17:15:35Z",
+      "evidence": "终稿验收：check_style --strict issues=[]、check_academic --strict OK、check_math formulas 齐/missing=[]/unbalanced=[]、check_summary 一致；表格居中、公式定界符、引块（刘易斯证人段）照录完整。注：check_all 全量门禁当前红在『术语一致性』，系并行会话在共享登记册留下的 31 组同键重复行（marsilius-padua/simon-faversham 等批，非本词条新增，本词条 24 行经核无重复），已另行登记待清"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-08T17:15:35Z",
+      "evidence": "终审签字：六道全过（116 段账本身份对齐、守恒 HARD=0），四检全绿，独立复审与人名归一完成；全库术语门禁红因共享册并行重复行，非本词条"
     }
   ],
   "blockers": [],
