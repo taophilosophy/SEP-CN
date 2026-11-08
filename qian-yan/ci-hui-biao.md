@@ -11,11 +11,13 @@
 |abstract entities|抽象实体|与 abstract objects 抽象对象配对|
 |abstract objects|抽象对象|审定名词（自然辩证法·科学哲学）|
 |action|行动||
+|action quantum|量子作用（亦作“作用量子”）|审定名词（物理学·量子理论）|
 |Actualism|现实主义（模态形而上学；亦作“现实论”）|模态形而上学；亦作“现实论”|
 |adaptationism|适应主义||
 |Addams, Jane|简·亚当斯||
 |Adolf Reinach|阿道夫·莱纳赫|早期现象学（普莱斯纳学派前驱）|
 |advance directives|预先指示||
+|affective touch|情感性触摸（亦作“情感性触觉”）|审定名词（阿尔茨海默病名词）|
 |aesthetic experience|审美经验|亦作“审美体验”；美学|
 |Aëtius|埃提乌斯||
 |Africana Philosophy|非裔哲学||
@@ -27,6 +29,7 @@
 |Alexandre Koyré|亚历山大·柯瓦雷||
 |Allan Gibbard|艾伦·吉伯德|规范伦理学/表达主义|
 |Allen Buchanan|艾伦·布坎南||
+|analogical reasoning|类比推理（亦作“类推推理”）|审定名词（自然辩证法·科学哲学）；SUMMARY 题名同形|
 |Amy Allen|艾米·艾伦||
 |Annette Baier|安内特·拜尔|德性伦理学（代理情感）|
 |anthropomorphism|神人同形同性论||
@@ -69,7 +72,7 @@
 |Brouwer, Luitzen Egbertus Jan|勒伊岑·艾赫贝特斯·扬·布劳威尔||
 |Bruce Bridgeman|布里奇曼|视觉/动作心理学；首现括注|
 |Buddha|佛陀||
-|care ethics|关怀伦理|审定直接命中（新闻传播学域）|
+|care ethics|关怀伦理学（亦作“关怀伦理”）|审定直接命中（en=ethics of care）|
 |Carl Schmitt|卡尔·施米特|政治哲学/政治神学|
 |Casaubon, Méric|梅里克·卡索邦||
 |Cassirer, Ernst|恩斯特·卡西尔||
@@ -89,7 +92,7 @@
 |Christopher Peacocke|克里斯托弗·皮科克|当代心灵哲学|
 |civic humanism|公民人文主义||
 |Clayman, D.|克莱曼||
-|Clement of Alexandria|亚历山大的克莱门||
+|Clement of Alexandria|亚历山大的克莱门（亦作“克雷芒”）|
 |cloning|克隆||
 |Cockburn, Catharine Trotter|凯瑟琳·特洛特·考克本||
 |cogito|我思（笛卡尔 cogito ergo sum）||
@@ -193,8 +196,8 @@
 |free will|自由意志||
 |Freedom|自由|审定名词在案；学界通行同形|
 |Freud|弗洛伊德||
-|Friedrich Schiller|弗里德里希·席勒|美学书简|
-|Friedrich Schleiermacher|弗里德里希·施莱尔马赫|诠释学/浪漫主义|
+|Friedrich Schiller|弗里德里希·席勒（亦作“席勒”）|美学书简|
+|Friedrich Schleiermacher|弗里德里希·施莱尔马赫（亦作“施莱尔马赫”）|诠释学/浪漫主义|
 |Friedrich Waismann|弗里德里希·魏斯曼|维也纳学派/语言哲学|
 |full moral status|完全道德地位|生命伦理学|
 |game theory|博弈论|亦作“对策论”；审定双形在案|
@@ -311,7 +314,7 @@
 |modal analysis|模态分析|能力哲学（与条件分析相对）|
 |Mode from Hypothesis|基于假设的论式||
 |modi significandi|意指样式（摩迪斯泰语法）||
-|moral law|道德法则（康德）||
+|moral law|道德法则（康德；亦作“道德律”）|
 |moral virtue|道德德性||
 |necessity|必然性||
 |Negative Magnitudes|负量（康德《负量概念试论》）|康德前批判期著作|
@@ -422,7 +425,7 @@
 |Øystein Linnebo|林内博|数学哲学；首现括注|
 |īśvara|自在天|亦作“自在”；印度哲学|
 |Jacques Lacan|雅克·拉康|精神分析哲学|
-|Jacques Maritain|雅克·马里坦|托马斯主义|
+|Jacques Maritain|雅克·马里坦（亦作“马里旦”）|托马斯主义|
 |Jaegwon Kim|金在权|心灵哲学|
 |Jan Łukasiewicz|扬·卢卡西维茨|多值逻辑/华沙学派|
 |Jason Stanley|杰森·斯坦利|语言哲学/知识论（宣言之知）|
@@ -470,7 +473,7 @@
 |Natural Rights|自然权利|亦作“天赋人权”；审定“天赋人权”在案|
 |Necessary Truths|必然真理|逻辑学|
 |Nicholas Wolterstorff|尼古拉斯·沃尔特斯托夫|宗教哲学/正义论|
-|nous|努斯|亦作“理智”；希腊哲学术语|
+|nous|努斯（亦作“理智”“智性”）|希腊哲学术语|
 |Novum Organum|《新工具》|培根|
 |Occam’s razor|奥卡姆剃刀|审定名词（计算机·机器学习）|
 |old evidence|旧证据|贝叶斯确认论|
@@ -535,7 +538,7 @@
 |Thomas Scanlon|托马斯·斯坎伦|道德契约论（斯坎伦主义）|
 |tian|天|拼音转写；中国哲学范畴|
 |truth conditions|真值条件|审定复合词佐证（语言学）|
-|truth value|真值|审定名词（数学·数理逻辑）|
+|truth value|真值（亦作“真假值”）|审定名词（数学·数理逻辑）|
 |Twin Earth|孪生地球|心灵哲学思想实验|
 |Tycho Brahe|第谷·布拉赫|天文观测；审定“第谷”在案|
 |universal quantification|全称量化|逻辑学|
@@ -926,7 +929,7 @@
 |Ikhwān al-Ṣafā’|精诚兄弟会|中文维基百科作“精诚兄弟会”（Brethren of Purity）；其文集 Rasā’il 即《论文集》|
 |imperialism|帝国主义||
 |implicit bias|内隐偏见||
-|imposition|命名|词项施加；首现 abelard|
+|imposition|命名、设定|词项施加（impositio 另作“设定”，见 analogy-medieval 行）|
 |Incommensurable|不可通约性||
 |independence|独立性||
 |indeterminism|非决定论||
@@ -1391,7 +1394,7 @@
 |Zermelo|策梅洛||
 |Zermelo-Fraenkel|策梅洛-弗兰克尔||
 |ʿAbd al-Jabbār|阿卜杜·贾巴尔|穆尔太齐赖派，学界通行|
-|ʿAyn al-Quḍāt|艾因·库扎特|哈马丹的艾因·库扎特，学界通行|
+|ʿAyn al-Quḍāt|艾因·古达特|哈马丹的艾因·古达特；亦作“艾因·库扎特”；SUMMARY 题名定形|
 |Śrīharṣa|室利诃奢||
 |Ḥikmah|智慧|阿拉伯语“智慧”；伊斯兰哲学语境首次出现可括注原文|
 |Ṯābit ibn Qurra|塔比·伊本·库拉||
