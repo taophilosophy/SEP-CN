@@ -235,86 +235,114 @@ segments:
     kind: body
     source: |-
       Many scientists attribute epistemic value to model organisms while remaining agnostic about their representational status. In this way, model organisms can act as exemplars – examples that stand in for a broader class or lineage (Bolker 2009)[^bolker-2009][^bolker-2009-2] – or as model surrogates, which are meant to substitute for a specific biological target. Using surrogate models is widespread in the biomedical and biological sciences because it aligns with the NIH policy of using animal models as experimental stand-ins for humans for clinical and translational research. A surrogate model organism has some physical or functional similarity as a designated target organism or class of organisms. Here, animal systems become stand-ins for a target system because they offer greater epistemically tractability, as, for example, rodents do for certain human processes and traits in biomedical research (see Frigg and Hartmann 2025)[^frigg-2025]. Although using models as surrogates and exemplars are not mutually exclusive, model exemplars are not subject to the same demands as surrogates. Whereas surrogates need to be responsive to manipulations in the same way as would its target, exemplars represent a higher taxon (Bolker 2009)[^bolker-2009][^bolker-2009-2]. In other words, surrogates only need to match its representandum with respect to the processes narrowly relevant to one’s study (Creager, Lunbeck, and Wise 2007), whereas exemplars raise philosophical issues about the legitimacy of modeling an entire class or lineage. For example, *Drosophila melanogaster* is often treated as an exemplar of invertebrate genetics, or *Danio rerio* (zebrafish) as an exemplar of vertebrate embryonic development, rather than as surrogates for a particular species or condition.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      许多科学家把认知价值归于模式生物，同时对其表征地位保持不作表态。这样，模式生物就可以充当范例——代表更广类别或谱系的例子（Bolker 2009）[^bolker-2009][^bolker-2009-2]——或者充当替代模型，后者意在代替某个特定的生物学目标。使用替代模型在生物医学与生物科学中十分普遍，因为它与 NIH 把动物模型用作人类临床与转化研究之实验替身的政策相一致。一个替代模式生物与某个指定目标生物或生物类别具有某种物理上或功能上的相似性。在这里，动物系统成为目标系统的替身，因为它们提供了更大的认知可操作性，例如在生物医学研究中，啮齿动物对某些人类过程与性状就是如此（见 Frigg and Hartmann 2025）[^frigg-2025]。尽管把模型用作替代物与用作范例并不互斥，模型范例并不承受与替代物相同的那些要求。替代物需要以与其目标相同的方式对操作作出反应，而范例代表的是一个更高的分类阶元（Bolker 2009）[^bolker-2009][^bolker-2009-2]。换言之，替代物只需在与研究狭义相关的那些过程上与它所代表者相匹配（Creager, Lunbeck, and Wise 2007），而范例则引出关于为整个类别或谱系建模之正当性的哲学问题。例如，黑腹果蝇（*Drosophila melanogaster*）常被当作无脊椎动物遗传学的范例，或者斑马鱼（*Danio rerio*）被当作脊椎动物胚胎发育的范例，而不是当作某个特定物种或病症的替代物。
+    step2: |-
+      许多科学家把认知价值归于模式生物，对它的表征地位却不置可否。这样用起来，模式生物可以充当范例——代表更广类别或谱系的例子（Bolker 2009）[^bolker-2009][^bolker-2009-2]——也可以充当替代模型，专为顶替某个特定的生物学目标。替代模型在生物医学与生物科学里用得极广，这与 NIH 的政策正相合：把动物模型当作人类的实验替身，做临床与转化研究。替代模式生物与所指定的目标生物或生物类别，总有几分物理上或功能上的相似。动物系统之所以能当目标系统的替身，是因为它们认知上更好操作——比如在生物医学研究里，啮齿动物之于某些人类过程与性状就是如此（见 Frigg and Hartmann 2025）[^frigg-2025]。把模型用作替代物和用作范例并不互斥，可范例要担的担子轻些。替代物得跟目标一样对操作作出反应；范例代表的却是更高的一个分类阶元（Bolker 2009）[^bolker-2009][^bolker-2009-2]。换句话说，替代物只需在与研究狭义相关的那些过程上与所代表者相合（Creager, Lunbeck, and Wise 2007）；范例却会牵出哲学问题：凭什么为整个类别或谱系建模？举例说，黑腹果蝇（*Drosophila melanogaster*）常被当作无脊椎动物遗传学的范例，斑马鱼（*Danio rerio*）常被当作脊椎动物胚胎发育的范例，都没被当成某一物种或病症的替代物。
   - id: 30
     kind: body
     source: |-
       Philosophical debates about surrogates and exemplars often focus on whether shared ancestry can justify extrapolating findings from one organism to another without treating the surrogate as a representation of the target (Levy and Currie 2015, Weisberg 2013)[^levy-2015][^weisberg-2013]. Ankeny and Leonelli note that this approach to model organisms relies more on organismal attributes (shared ancestry) and does not engage with the extensive body of scientific practice concerning how model organism research is done (Ankeny and Leonelli 2020, 56)[^ankeny-2020]. Moreover, appeal to shared ancestry alone is complicated when the organism and its target have distinct environmental histories. However, in the context of clinical and translational research, the philosophical discussion of surrogates has typically focused less on deep biological similarity and more on features that facilitate practical relevance. To discover the appropriateness of a surrogate for purposes of intervention and generalization, researchers will prioritize the display of relevant phenotypes or traits, physiological mechanisms or processes that are known to be homologous with humans, and focus on symptom expression rather than disease etiology (Bolker 2009)[^bolker-2009][^bolker-2009-2]. Consequently, even when the underlying causes of a disorder are unknown or not reproducible in an animal model, the presence of behaviorally or physiologically similar traits can justify the use of surrogate models within a translational framework.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于替代物与范例的哲学争论，常常集中在共同祖先能否证成从一个生物外推到另一个生物，而不把替代物当作目标的表征（Levy and Currie 2015, Weisberg 2013）[^levy-2015][^weisberg-2013]。Ankeny 和 Leonelli 指出，这种处理模式生物的方式更多依赖生物属性（共同祖先），并未触及关于模式生物研究如何进行的广泛科学实践（Ankeny and Leonelli 2020, 56）[^ankeny-2020]。此外，当生物与其目标有着不同的环境史时，仅诉诸共同祖先就变得复杂了。然而，在临床与转化研究的语境中，关于替代物的哲学讨论通常较少关注深层的生物学相似，而更多关注那些促进实践相关性的特征。为了查明一个替代物对于干预与概括的目的是否恰当，研究者会优先考虑相关表型或性状的呈现、已知与人类同源的生理机制或过程，并把重点放在症状表现而非疾病病因上（Bolker 2009）[^bolker-2009][^bolker-2009-2]。因此，即便某种失调的根本原因未知或无法在动物模型中重现，行为上或生理上相似性状的存在，也足以在转化框架内证成替代模型的使用。
+    step2: |-
+      关于替代物与范例的哲学争论，多半集中在一点：共同祖先能否证成由此及彼的外推，而又不把替代物当成目标的表征（Levy and Currie 2015, Weisberg 2013）[^levy-2015][^weisberg-2013]。Ankeny 与 Leonelli 指出，这样处理模式生物，靠的多是生物属性（共同祖先），并没有碰到那大片关于模式生物研究究竟怎么做的科学实践（Ankeny and Leonelli 2020, 56）[^ankeny-2020]。再说，一旦生物与目标各有不同的环境史，单靠共同祖先就说不通了。不过在临床与转化研究的语境里，关于替代物的哲学讨论一向少谈深层的生物学相似，多谈那些能带来实践相关性的特征。要判断一个替代物对干预与概括是否合用，研究者先看的是：相关表型或性状有没有呈现，生理机制或过程是否已知与人类同源，重点则放在症状表现，而非疾病病因（Bolker 2009）[^bolker-2009][^bolker-2009-2]。所以，哪怕某种失调的根由尚不清楚、或无法在动物模型里重现，只要行为上或生理上有相似性状，在转化框架内就足以证成替代模型的使用。
   - id: 31
     kind: body
     source: |-
       This logic is paramount in the context of psychiatric and neurological research through the use of what scientist Georg Striedter has called endophenotypes (2022). Rather than attempt to reproduce the full complexity or causal history of a disorder such as schizophrenia or autism, researchers isolate intermediate traits – features such as deficits in working memory, altered social interaction, or impaired sensorimotor gating – that are measurable across species (Dietrich, DiMarco, Taylor, and Lewontin 2026). These endophenotypes serve as tractable targets for modeling and intervention, even when their connection to the underlying pathology remains uncertain. In this way, endophenotypes extend the logic of surrogate modeling by emphasizing epistemically useful symptoms over representational fidelity to disease origins.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一逻辑在精神病学与神经学研究的语境中最为重要，靠的是科学家 Georg Striedter 所称的内表型（2022）。研究者不去试图重现精神分裂症或自闭症这类失调的全部复杂性或因果历史，而是分离出可在物种之间测量的中间性状——例如工作记忆缺陷、社会互动改变或感觉运动门控受损这类特征（Dietrich, DiMarco, Taylor, and Lewontin 2026）。这些内表型充当建模与干预的可操作目标，即便它们与底层病理的联系仍不确定。这样，内表型就通过强调认知上有用的症状、而非对疾病起源的表征忠实性，扩展了替代建模的逻辑。
+    step2: |-
+      这套逻辑在精神病学与神经学研究里最吃重，靠的就是科学家 Georg Striedter 所说的内表型（2022）。研究者并不打算把精神分裂症、自闭症这类失调的全部复杂性或因果来历都复制出来，而是挑出可在物种之间测量的中间性状——工作记忆缺陷、社会互动改变、感觉运动门控受损之类（Dietrich, DiMarco, Taylor, and Lewontin 2026）。这些内表型便成了建模与干预时好操作的目标，至于它们与底层病理的关联，仍可存疑。内表型就这样把替代建模的逻辑又推远一步：看重的是认知上有用的症状，而不是对疾病起源的表征忠实。
   - id: 32
     kind: body
     source: |-
       Philosophical challenges to surrogate models focus less on perfect biological equivalence and more on what Bolker (2009) notes as the inherent incompleteness and disparity between model and target systems. Due to ‘unknown unknowns,’ surrogate models are shaped by selection pressures in laboratory contexts and empirical uncertainties about which biological aspects must be included for the model to remain relevant. These gaps reveal the limits of any model’s capacity to fully capture the target system’s complexity, although they are increasingly being addressed by the use of big data techniques in science (see section 5). Moreover, Weber (2014) highlights an important distinction in experimental modeling strategies: models that physically replicate the same kinds of processes found in their targets, and surrogate or ‘stand-in’ models that represent physically distinct processes but are nevertheless used as functional substitutes in laboratory settings. This distinction emphasizes that surrogate models do not require physical identity with their targets but instead operate as pragmatic tools that stand in for aspects of the system under study. Sara Green also outlines a more instrumental sense of surrogacy for model organisms where they serve as tools or living assays. Rabbits, for instance, used to be used as a means for pregnancy testing, only to be replaced by the frog, *Xenopus* (Gurdon and Hopwood 2000)[^gurdon-2000]. These animals were not models of human reproduction per se, but they were sensitive to human hormones, and their responses provided evidence of some of the human hormonal changes that accompany pregnancy (Green 2024)[^green-2024]. Generally, surrogate models exemplify a broader shift in experimental biology toward prioritizing measurable and manipulable traits over comprehensive reproduction of a target’s full biology. While surrogate models do not provide one-to-one representations, their utility lies in balancing practical relevance with the acknowledgment of inevitable epistemic gaps. This is a tension that underlies many contemporary strategies for designing and validating experimental models, as discussed below.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对替代模型的哲学挑战，较少关注完美的生物学等价，而更多关注 Bolker（2009）所指出的模型与目标系统之间固有的不完整与差异。由于存在“未知的未知”，替代模型受实验室语境中的选择压力塑造，也受关于哪些生物学方面必须纳入才能保持模型相关性的经验不确定性的塑造。这些缺口揭示了任何模型充分把握目标系统复杂性的能力之限度，尽管它们正日益通过科学中的大数据技术得到处理（见第 5 节）。此外，Weber（2014）强调了实验建模策略中的一项重要区分：在物理上复制其目标中所见同类过程的模型，以及在物理上表征不同过程、却仍被用作实验室环境中功能替代物的替代模型或“替身”模型。这一区分强调，替代模型并不要求与其目标在物理上同一，而是作为实用的工具，替身于所研究系统的某些方面。Sara Green 还勾勒出模式生物一种更具工具意味的替代性，即它们充当工具或活体测定。例如，兔子曾被用作妊娠检测的手段，后来才被蛙类（*Xenopus*）取代（Gurdon and Hopwood 2000）[^gurdon-2000]。这些动物本身并不是人类生殖的模型，但它们对人类激素敏感，其反应为伴随妊娠的某些人类激素变化提供了证据（Green 2024）[^green-2024]。总的来看，替代模型例示了实验生物学的一种更广的转向：优先看重可测量、可操作的性状，而不是对目标全部生物学的全面复制。替代模型虽不提供一对一的表征，其用处却在于把实践相关性与对不可避免的认知缺口的承认平衡起来。这一张力正是下文所讨论的许多当代实验模型设计与验证策略的底子。
+    step2: |-
+      对替代模型的哲学质疑，重点不在生物学上是否完全等价，而在 Bolker（2009）点出的那种模型与目标系统之间固有的不完整与落差。有“未知的未知”在，替代模型就被实验室语境里的选择压力塑形，也被一种经验上的不确定塑形：究竟哪些生物学方面必须纳入，模型才算仍然相关。这些缺口说明，任何模型要全盘把握目标系统的复杂性都有其限度，尽管科学中的大数据技术正日益着手处理它们（见第 5 节）。Weber（2014）还点出实验建模策略里的一项重要分别：一类模型在物理上复制目标中同种过程；另一类是替代模型或“替身”模型，它们表征的物理过程并不相同，却仍在实验室里充当功能替代品。这一分别说明，替代模型无需与目标物理同一，它只是实用的工具，替身于所研究系统的某些方面。Sara Green 还讲出模式生物一种更像工具的替代性：它们充当工具，或活体测定。兔子当年就用来做妊娠检测，后来才让位给蛙类（*Xenopus*）（Gurdon and Hopwood 2000）[^gurdon-2000]。这些动物本身算不上人类生殖的模型，但它们对人类激素敏感，反应便可作为伴随妊娠的某些人类激素变化的证据（Green 2024）[^green-2024]。总体看，替代模型例示了实验生物学的一个更大转向：优先要可测量、可操作的性状，而不是把目标的全部生物学整个复制出来。替代模型给不出一对一的表征，其用处恰在于把实践相关性与对认知缺口的坦然承认摆平——那缺口是躲不掉的。这个张力，正是下文许多当代实验模型设计与验证策略的底子。
   - id: 33
     kind: body
     source: |-
       ### 2.3 Exploratory Models
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.3 探索性模型
+    step2: |-
+      ### 2.3 探索性模型
   - id: 34
     kind: body
     source: |-
       Exploratory models gain their distinctiveness as tools that aim less at representing target systems faithfully and more at opening up new investigative pathways: generating novel questions, uncovering patterns, mapping out conceptual or empirical possibilities, helping identify fruitful directions for inquiry, and sometimes revealing overlooked aspects of phenomena (Weber 2024)[^weber-2024]. Axel Gelfert (2016) notes that these models are often deliberately simplified or idealized to the point that their epistemic value lies in four general functions: as a starting point for future inquiry, as a feature in proof-of-principle demonstrations, as a source of potential explanations of observed (types of) phenomena, and as a means of exploring the suitability of the target. With respect to model organisms, Juan Larraín argues that exploratory models also have a type of perspectival modelling function (2024). For example, in the context of early embryonic studies, Larraín notes that *C. elegans* enabled the mapping of a complete cell lineage and the discovery of apoptosis, while mice provided proof-of-principle demonstrations of regulative development and later revealed unexpected biases in early cell fate (2024). In both cases, their usefulness derived not from mirroring human development but from their capacity to support exploration and generate new vantage points that fostered new thinking about development. Exploratory models can be epistemically indispensable without making strong commitments about the representational content of the putative target systems.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      探索性模型之所以独特，在于它们作为工具，较少着眼于忠实表征目标系统，而更多着眼于开辟新的探究路径：生成新问题、揭示模式、勾画概念上或经验上的可能性、帮助找出富有成果的探究方向，有时还揭示现象中被忽视的方面（Weber 2024）[^weber-2024]。Axel Gelfert（2016）指出，这些模型往往被有意简化或理想化，以致其认知价值在于四项一般功能：作为未来探究的起点，作为原理验证演示中的一个特征，作为对已观察到的（各类）现象之潜在解释的来源，以及作为探索目标是否合宜的手段。就模式生物而言，Juan Larraín 主张探索性模型还具有一种视角建模的功能（2024）。例如，在早期胚胎研究的语境中，Larraín 指出，秀丽隐杆线虫（*C. elegans*）使完整细胞谱系的绘制与细胞凋亡的发现成为可能，而小鼠则提供了调整型发育的原理验证演示，后来又揭示了早期细胞命运中意想不到的偏向（2024）。在这两种情形中，它们的用处都不来自映照人类发育，而来自它们支撑探索、生成新视角的能力，这些视角促成了关于发育的新思考。探索性模型可以在认知上不可或缺，而不对所设目标系统的表征内容作出强承诺。
+    step2: |-
+      探索性模型的独特之处，在于它们作为工具，志不在忠实表征目标系统，而在开辟新的探究路子：提出新问题、找出模式、勾画概念上或经验上的可能、帮着辨认有前途的探究方向，有时还能揭出被人忽略的现象侧面（Weber 2024）[^weber-2024]。Axel Gelfert（2016）指出，这类模型往往有意简化、理想化到这种地步：它们的认知价值就在四项一般功能上——作未来探究的起点，作原理验证演示里的一环，作已观察到的那类现象之潜在解释的来源，作试探目标是否合宜的手段。就模式生物来说，Juan Larraín 认为探索性模型还多一种视角建模的功能（2024）。比如在早期胚胎研究里，Larraín 指出，秀丽隐杆线虫（*C. elegans*）让完整细胞谱系的绘制和细胞凋亡的发现成为可能；小鼠则给出了调整型发育的原理验证演示，后来又揭出早期细胞命运里意想不到的偏向（2024）。两种情形下，它们的用处都不在映照人类发育，而在能支撑探索、生出新视角，而这些视角又催生了关于发育的新想法。探索性模型可以在认知上不可或缺，却不必对所设目标系统的表征内容许下什么强承诺。
   - id: 35
     kind: body
     source: |-
       ### 2.4 Negative Models
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.4 负模型
+    step2: |-
+      ### 2.4 负模型
   - id: 36
     kind: body
     source: |-
       Our focus has been on the positive mapping between models and targets, but there are also a plethora of model organisms used in research precisely because they lack specific diseases or physiological conditions observed in standard model systems. Known as negative models, these systems are frequently used in the context of clinical translation to understand the mechanisms of resistance when they fail to demonstrate physiological reactions to particular stimuli or diseases. Examples include the use of chimpanzees to study HIV pathogenesis (Veazey and Lackner 2017)[^veazey-2017], cats to study diabetes (Hoenig 2012)[^hoenig-2012], or pangolins to study Covid19 (Gupta et al. 2022)[^gupta-2022], as these models fail to develop conditions and symptoms of disease in the same way that humans do.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们此前的焦点是模型与目标之间的正面映射，但还有大量模式生物被用于研究，恰恰因为它们缺少标准模式系统中所观察到的特定疾病或生理状况。这些系统称为负模型，常用于临床转化的语境，以理解当它们未能对特定刺激或疾病表现出生理反应时的抗性机制。例子包括用黑猩猩研究 HIV 发病机制（Veazey and Lackner 2017）[^veazey-2017]、用猫研究糖尿病（Hoenig 2012）[^hoenig-2012]，或用穿山甲研究 Covid19（Gupta et al. 2022）[^gupta-2022]，因为这些模型未能以人类相同的方式发展出疾病状况与症状。
+    step2: |-
+      此前的焦点，都放在模型与目标之间的正面映射上；可还有一大批模式生物之所以被用来研究，恰恰因为它们没有标准模式系统里那些特定的疾病或生理状况。这类系统叫负模型，常用于临床转化：当它们对特定刺激或疾病毫无生理反应时，正好借以弄清抗性机制。例子有用黑猩猩研究 HIV 发病机制（Veazey and Lackner 2017）[^veazey-2017]、用猫研究糖尿病（Hoenig 2012）[^hoenig-2012]、用穿山甲研究 Covid19（Gupta et al. 2022）[^gupta-2022]——这些模型都没能像人类那样发展出相应的疾病状况与症状。
   - id: 37
     kind: body
     source: |-
       The epistemic status of negative models as generalizable models has been disputed, since having an animal exhibit unique adaptations to disease does not imply that it shares the same mechanisms as a human, even though these adaptations can provide insights into human biology via analogous mechanisms (Stegmann 2021)[^stegmann-2021]. Nonetheless, negative models continue to be scientifically generative, contributing both to translational research, such as potential therapies, and to basic understanding of physiological and pathological processes beyond their original applied context (Green 2024)[^green-2024]. For example, research on naked mole rats’ cancer resistance has provided fundamental insights into tissue mechanics related to aging and pain in humans (Green 2024)[^green-2024].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      负模型作为可概括模型的认知地位一直有争议，因为一个动物表现出对疾病的独特适应，并不蕴含它与人类共享同样的机制，尽管这些适应可以通过类似机制为人类生物学提供洞见（Stegmann 2021）[^stegmann-2021]。尽管如此，负模型在科学上仍富有生成力，既对转化研究（例如潜在疗法）有贡献，也对超越其原初应用语境的生理与病理过程的基础理解有贡献（Green 2024）[^green-2024]。例如，关于裸鼹鼠抗癌性的研究，为与人类衰老和疼痛相关的组织力学提供了基础性洞见（Green 2024）[^green-2024]。
+    step2: |-
+      负模型算不算可概括的模型，其认知地位一直有争议：一种动物对疾病表现出独特的适应，并不等于它与人类共享同样的机制，尽管这些适应能通过类似机制给人上生物学以启发（Stegmann 2021）[^stegmann-2021]。可话说回来，负模型在科学上照样富有生成力：既有助于转化研究（比如潜在疗法），也有助于超出原初应用语境去理解生理与病理过程（Green 2024）[^green-2024]。例如裸鼹鼠抗癌性的研究，就为与人类衰老、疼痛相关的组织力学提供了基础性的洞见（Green 2024）[^green-2024]。
   - id: 38
     kind: body
     source: |-
       Green, Dietrich, Leonelli, and Ankeny (2018) argue that what they call Krogh organisms can often constitute negative models. Building on the August Krogh’s selection of organisms with extreme adaptations for physiological research (see section 4.1), Green and her collaborators claim that “Krogh organisms are not selected for their representational scope or their similarity to other organisms; rather, they are selected because of distinct features that make a given trait (a mechanism in this case) more experimentally accessible” (Green et al. 2018, 65)[^green-2018]. The selection of the axon of the squid, *Loligo*, for instance, was based on how its very large size made voltage clamp techniques much easier for the scientists involved (Green et al. 2018, 64–65; Maxson Jones 2022)[^green-2018][^maxson-2022]. The transition from the extreme adaptations common in Krogh organisms to using them as negative models is “motivated by the hope that understanding why certain physiological limitations are not observed in selected species can offer insights into human physiological problems and potential solutions” (Green at al. 2018, 64)[^green-2018]. Even if the traits of these organisms have translational value, Krogh organisms usually do not serve as the basis for generalizations in the way that model organisms can.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Green、Dietrich、Leonelli 和 Ankeny（2018）主张，他们所称的 Krogh 生物常常可以构成负模型。在 August Krogh 为生理学研究挑选具有极端适应的生物（见 4.1 节）的基础上，Green 及其合作者主张：“Krogh 生物之被挑选，不是为了它们的表征范围或与其他生物的相似性；它们之被挑选，是因为某些独特特征使某一给定性状（此处指某种机制）在实验上更易通达”（Green et al. 2018, 65）[^green-2018]。例如，枪乌贼（*Loligo*）轴突之被选中，是因为它极大的尺寸使电压钳技术对相关科学家来说容易得多（Green et al. 2018, 64–65; Maxson Jones 2022）[^green-2018][^maxson-2022]。从 Krogh 生物中常见的极端适应，转向把它们用作负模型，其动因是“一种希望：理解某些生理局限为何在所选物种中观察不到，可以为人类的生理问题及其潜在解决办法提供洞见”（Green at al. 2018, 64）[^green-2018]。即便这些生物的性状具有转化价值，Krogh 生物通常也不像模式生物那样充当概括的基础。
+    step2: |-
+      Green、Dietrich、Leonelli 与 Ankeny（2018）主张，他们所说的 Krogh 生物常常可以构成负模型。August Krogh 当年专挑极端适应的生物做生理学研究（见 4.1 节）；Green 等人顺着这条线说：“Krogh 生物之被挑中，不为表征范围，也不为与其他生物相似；挑它们，是因为某些独特特征让某一给定性状（此处是某种机制）在实验上更好通达”（Green et al. 2018, 65）[^green-2018]。枪乌贼（*Loligo*）的轴突便是一例：它被选中，是因为那根轴突大得惊人，电压钳技术做起来容易许多（Green et al. 2018, 64–65; Maxson Jones 2022）[^green-2018][^maxson-2022]。从 Krogh 生物身上常见的极端适应，转到把它们当负模型用，其动因是“一种指望：弄明白某些生理局限为何在这些物种身上看不到，也许就能为人类的生理问题及其可能的解决办法提供线索”（Green at al. 2018, 64）[^green-2018]。就算这些生物的性状有转化价值，Krogh 生物通常也不像模式生物那样，能充当概括的根基。
   - id: 39
     kind: body
     source: |-
       ## 3. Situating Model Organisms in Practice
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 把模式生物置于实践之中
+    step2: |-
+      ## 3 把模式生物置于实践之中
   - id: 40
     kind: body
     source: |-
       Model organisms were developed by communities of scientists and cultivated as resources for those communities. Understood as parts of social and material systems for the production of knowledge, model organisms carry with them more than just their intrinsic biological features. Put another way, model organisms are embedded in larger systems; the features of those systems play important roles in explanations of the how model organisms function in experiments and why certain model organism systems have been so historically successful.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      模式生物由科学家共同体发展出来，并作为资源为这些共同体所培育。作为知识生产之社会系统与物质系统的一部分来理解，模式生物所携带的不只是其内在的生物学特征。换一种说法，模式生物嵌入在更大的系统之中；这些系统的特征，在解释模式生物如何在实验中发挥作用、以及某些模式生物系统为何在历史上如此成功时，起着重要作用。
+    step2: |-
+      模式生物是科学家共同体发展出来的，又被当作资源加以培育，供这些共同体使用。把它们看成知识生产之社会系统与物质系统的一部分，就会看到：模式生物身上带的，不只是内在的生物学特征。换个说法，模式生物嵌在更大的系统里；解释模式生物在实验中如何起作用、某些模式生物系统为何在历史上如此成功时，那些系统的特征都担着要紧角色。
   - id: 41
     kind: body
     source: |-
       ### 3.1 Materiality, Abstraction, and Standardization of Model Organisms
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 模式生物的物质性、抽象与标准化
+    step2: |-
+      ### 3.1 模式生物的物质性、抽象与标准化
   - id: 42
     kind: body
     source: |-
       Abstraction and idealization are familiar features of theoretical models in science, where theoretical models can be thought of as fictions, sets, or expressions (Griesemer 2005, Potochnik 2017, on theoretical models see Frigg and Hartmann 2025)[^frigg-2025][^griesemer-2005][^potochnik-2017]. As material models, model organisms create an important opportunity to consider how philosophical accounts of abstraction or standardization must be understood within the context of the material practices of science.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      抽象与理想化是科学中理论模型熟悉的面貌，理论模型可以被视为虚构物、集合或表达式（Griesemer 2005, Potochnik 2017，关于理论模型见 Frigg and Hartmann 2025）[^frigg-2025][^griesemer-2005][^potochnik-2017]。作为物质模型，模式生物提供了一个重要机会，来考虑关于抽象或标准化的哲学说明必须如何在科学物质实践的语境中得到理解。
+    step2: |-
+      抽象与理想化，是科学中理论模型的老面孔了：理论模型可以被看成虚构物、集合或表达式（Griesemer 2005, Potochnik 2017；关于理论模型见 Frigg and Hartmann 2025）[^frigg-2025][^griesemer-2005][^potochnik-2017]。而模式生物作为物质模型，恰好提供了一个重要机会，让我们想一想：关于抽象、关于标准化的哲学说明，落到科学那套物质实践里，该怎么理解。
   - id: 43
     kind: body
     source: |-
