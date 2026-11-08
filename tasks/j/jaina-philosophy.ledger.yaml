@@ -406,44 +406,58 @@ segments:
     kind: body
     source: |-
       Besides, Jaina philosophers consider that there are as many selves as there are living beings in the world. Each has a persisting self-identity preserved even in the ultimate condition, which is a condition of possibility for ethical responsibility. Concerning one’s responsibility for a series of acts, Jaina authors are highly critical, both of the Buddhist conception according to which there is no self, and of the Brahmanic conception according to which the individual self is ultimately undifferentiated with the universal self.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，耆那教哲学家认为，世界中有多少有情，就有多少自我。每一个都有持存的自我同一性，即便在终极境况中也保留着——这正是伦理责任的可能条件。关于人对一系列行为的责任，耆那教作者持严厉的批评态度：既批评佛教“无我”的构想，也批评婆罗门教“个体自我最终与普遍自我无分别”的构想。
+    step2: |-
+      此外，耆那教哲学家认为：世界中有多少有情，就有多少自我。每一个自我都有持存的自我同一性，即便在终极境况中也保留着——这正是伦理责任的可能条件。关于人对一系列行为的责任，耆那教作者持严厉的批评态度：既批评佛教“无我”的构想，也批评婆罗门教“个体自我与普遍自我最终无分别”的构想。
   - id: 42
     kind: body
     source: |-
       Finally, there is a fixed amount of selves in the universe. Not only the non-liberated ones go from one birth to the other in this cosmic cycle, but it will be the same ones who will continue to do so in the next cosmic cycle, and so on. Besides, a self is fit, respectively unfit, for liberation. When a self is unfit, no amount of good act can change this fact.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，宇宙中自我的数目是固定的。不仅未解脱者在当前宇宙周期中一次又一次转生，而且下一宇宙周期中继续转生的仍是同一批自我，如此往复。此外，自我有适合解脱者与不适合解脱者之分。当自我不适合时，再多善行也无法改变这一事实。
+    step2: |-
+      最后，宇宙中自我之数目是固定的。不仅未解脱者在当前宇宙周期里一次又一次转生；下一宇宙周期里继续转生的，仍是同一批自我，如此往复。此外，自我有适合解脱与不适合解脱之分：一旦不适合，再多善行也无法改变这一事实。
   - id: 43
     kind: body
     source: |-
       Second, the category of non-self (*ajīva*) deals with the matter and organisational principles thereof. To begin with, space (*ākāśa*) is an all-pervading single indivisible whole that includes both the part occupied by the world of things (*loka*) and the void and empty part beyond it (*aloka*). A point of space (*pradeśa*) is conceived as that which can be obstructed by one indivisible atom of matter and which can give space to all types of particles.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二，非我（*ajīva*）这一范畴处理质料及其组织原理。首先，虚空（*ākāśa*）是一个遍满的、单一而不可分的整体，既包括世界（*loka*）所占据的部分，也包括其外虚空无物之境（*aloka*）。一个空间点（*pradeśa*）被构想为：既可被一个不可分的质料极微所阻碍，又可为一切类型的微粒提供空间者。
+    step2: |-
+      第二，非我（*ajīva*）这一范畴，处理质料及其组织原理。首先，虚空（*ākāśa*）是一个遍满的、单一而不可分的整体：既包括世界（*loka*）所占据的部分，也包括其外虚空无物之境（*aloka*）。一个空间点（*pradeśa*）被构想为：既可被一个不可分的质料极微所阻碍、又可为一切类型微粒提供空间者。
   - id: 44
     kind: body
     source: |-
       Now, space by itself is not a sufficient condition of motion and of rest. To avoid chaos, it is necessary to also postulate a medium of motion (*dharma*), as well as a medium of rest (*adharma*). The traditional metaphor is that, as water is the condition of the motion of fish, *dharma* and *adharma* are the condition of all motions. Here lies another specificity of Jainism. While in other systems, *dharma* (etymologically “what sustains”) represents the only really sustainable stream of acts, the virtuous way of life, the worthy behavior, one’s teaching or religion, here it stands for the medium of motion, while meritorious behavior is “*puṇya*” (respectively, non-meritorious behavior is “*pāpa*”). This is an instance of a Jaina tendency to physicalize the philosophical and ethical concepts. If we understand *dharma* as the universal law establishing what is fit and what is not, hereby accounting for movements with an intention, we can understand that in the early Jaina conceptions, in which the concrete acts, not the intention, are foremost, *dharma* becomes what accounts for movements in general.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，空间本身并不是运动与静止的充分条件。为避免混乱，还须设定一种运动之媒介（*dharma*）与一种静止之媒介（*adharma*）。传统的比喻是：正如水是鱼游动的条件，*dharma* 与 *adharma* 是一切运动的条件。这里有着耆那教的另一特质。在别的体系中，*dharma*（词源为“支撑者”）指唯一真正可持续的行为之流、合德的生活方式、值得称道的行为、一个人的教法或宗教；而在此处，它指运动之媒介，福德行为则是 *puṇya*（相应地，无福德行为为 *pāpa*）。这是耆那教把哲学与伦理概念物理化之倾向的一例。如果我们把 *dharma* 理解为确立何者相宜、何者不相宜的普遍法则——由此说明带有意图的运动——那么就能理解：在以具体行为而非意图为先的早期耆那教构想中，*dharma* 成为说明一般运动的原理。
+    step2: |-
+      然而，空间本身并不是运动与静止的充分条件。为免于混乱，还须设定一种运动之媒介（*dharma*）与一种静止之媒介（*adharma*）。传统的比喻是：正如水是鱼游动的条件，*dharma* 与 *adharma* 是一切运动的条件。这里藏着耆那教的另一特质。在别的体系中，*dharma*（词源为“支撑者”）指唯一真正可持续的行为之流、合德的生活方式、值得称道的行为、一个人的教法或宗教；而在此处，它指运动之媒介——福德行为另称 *puṇya*（相应地，无福德行为为 *pāpa*）。这是耆那教把哲学与伦理概念物理化之倾向的一例。若把 *dharma* 理解为确立何者相宜、何者不相宜的普遍法则——由此说明带有意图的运动——便能理解：在以具体行为而非意图为先的早期耆那教构想中，*dharma* 成为说明一般运动的原理。
   - id: 45
     kind: body
     source: |-
       Together, space, the medium of motion and the medium of rest are the conditions of motion of things that can move, while they are themselves unaffected by movement. They are devoid of the qualities of taste, color, smell, sound, contact. They pervade the whole universe, yet they are non-physical, non-atomic and non-discrete. These three substances form a unity, they have the same all-embracing size and continuous form. They are distinguished merely because of the difference in their respective functions. They are the conditions for the subsistence of all things, selves and matter, the connecting environment which binds together the isolated phenomena into an ordered whole.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      合而观之：空间、运动之媒介与静止之媒介，是可动之物的运动条件，而其自身不受运动影响。它们没有味、色、香、声、触诸性质。它们遍满整个宇宙，却是非物理的、非原子的、非分立的。这三种实体构成一个统一体：其广延同样包罗一切，形态连续。它们的区分，仅在于各自功能之别。它们是一切事物——自我与质料——存续的条件，是把孤立现象绑定为有序整体的环境。
+    step2: |-
+      合而观之：空间、运动之媒介与静止之媒介，是可动之物的运动条件，而其自身不受运动影响。它们没有味、色、香、声、触诸性质。它们遍满整个宇宙，却是非物理的、非原子的、非分立的。这三种实体构成一个统一体：广延同其包罗一切，形态连续。三者的区分，仅在各自功能之别。它们是一切事物——自我与质料——存续的条件，是把孤立现象绑结为有序整体的那个环境。
   - id: 46
     kind: body
     source: |-
       As for matter (*pudgala*), it is the material cause of body, speech, mind and breath. This means that in this conception, not only bodies (*śārira*), but also the physical mind, words, thoughts and breath, are types of subtle material substances. Matter is especially what accounts for the existence of karma, a subtle type of matter. To explain, there is a pan-Indian conception that what has parts is impermanent. In Jainism, matter is the only type of substance that can associate or dissociate and, therefore, that has parts. Therefore, impermanence only comes from one’s association with matter. Contrarily to matter, (i) a self is a single atom devoid of parts and totally independent from both other selves and other substances; (ii) space, medium of motion and medium of rest are each a single indivisible whole that occupies all cosmic space; and (iii) time has no extension.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      至于质料（*pudgala*），它是身、语、意、息的质料因。这意味着：在这一构想中，不仅身体（*śārira*），连物理性的意、语词、思想与呼吸，也是精微质料实体的类型。质料尤其是说明业之存在者——业是一种精微的质料。解释一下：泛印度有一种构想，认为凡有部分者皆无常。在耆那教中，质料是唯一能结合或分离的实体，因此也是唯一有部分的实体。于是，无常仅来自人与质料的结合。与质料相反：（i）自我是一个无部分的单原子，完全独立于其他自我与其他实体；（ii）虚空、运动之媒介与静止之媒介各是一个占据全部宇宙空间的单一不可分整体；（iii）时间没有广延。
+    step2: |-
+      至于质料（*pudgala*），它是身、语、意、息的质料因。这意味着：在这一构想里，不仅身体（*śārira*），连物理性的意、语词、思想与呼吸，也是精微质料实体的诸类型。质料尤其是说明业之存在者——业正是一种精微的质料。解释如下：泛印度有一种构想，认为凡有部分者皆无常。在耆那教中，质料是唯一能结合或分离的实体，因而也是唯一有部分的实体。于是，无常仅来自人与质料的结合。与质料相反：（i）自我是一个无部分的单原子，完全独立于其他自我与其他实体；（ii）虚空、运动之媒介与静止之媒介，各是一个占据全部宇宙空间的单一不可分整体；（iii）时间没有广延。
   - id: 47
     kind: body
     source: |-
       Furthermore, Jaina thinkers develop a complex system, with calculations, to explain the practical effects of karma, for example the precise mass of material particles assimilated after a given act, or the duration and intensity of this assimilation. This resembles physics, and one specificity of Jaina philosophy is to focus on developing this complex system of the mechanisms of karma, as seen in the *Essence of [the teachings of] Mahāvīra* (*Gommaṭasāra* [GS]) of Nemicandra (10ᵗʰ century CE). There are eight types of karmic matter (see TS 8.5), divided in four harming (*ghātiyā*) and four non-harming (*aghātiyā*) types (Jaini 1979)[^jaini-1979]. The harming types of karmic matter are:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，耆那教思想家发展出一套带计算的复杂系统，以解释业的实际效应：例如某一行为之后所摄纳的质料微粒的精确质量，或这种摄纳的时长与强度。这酷似物理学；耆那教哲学的一大特质，正是聚焦于发展这套复杂的业之机制系统，见于尼弥旃陀罗（Nemicandra，公元 10 世纪）的《大雄［教法］之精髓》（*Gommaṭasāra*［GS］）。业质有八种类型（见 TS 8.5），分为四种破坏性（*ghātiyā*）与四种非破坏性（*aghātiyā*）类型（Jaini 1979）[^jaini-1979]。破坏性的业质类型是：
+    step2: |-
+      此外，耆那教思想家发展出一套带计算的复杂系统，以解释业的实际效应：例如某一行为之后所摄纳的质料微粒之精确质量，或这种摄纳的时长与强度。这酷似物理学；耆那教哲学的一大特质，正是聚焦于发展这套复杂的业之机制系统——见于尼弥旃陀罗（Nemicandra，公元 10 世纪）《大雄［教法］之精髓》（*Gommaṭasāra*［GS］）。业质有八种类型（见 TS 8.5），分为四种破坏性（*ghātiyā*）与四种非破坏性（*aghātiyā*）类型（Jaini 1979）[^jaini-1979]。破坏性的业质类型是：
   - id: 48
     kind: body
     source: |-
@@ -451,14 +465,24 @@ segments:
       - knowledge-obstructing karma (*jñāna-avaraṇīya*), which covers the self, the mind and the senses, therefore impedes their natural abilities;
       - perception-obstructing karma (*darśanāvaraṇīya*), which impedes one’s intuitions;
       - obstacle karma (*antarāya*), which reduces one’s innate energy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 迷惑业（*mohanīya*），它削减人天生的福乐，并造成对错误见解的执著；它尤其扭曲人对实在诸范畴的鉴赏；
+      - 智之障业（*jñāna-avaraṇīya*），它遮覆自我、意与感官，从而阻碍其自然能力；
+      - 知觉之障业（*darśanāvaraṇīya*），它阻碍人的直觉；
+      - 阻障业（*antarāya*），它削减人天生的能量。
+    step2: |-
+      - 迷惑业（*mohanīya*）：削减人天生的福乐，并造成对错误见解的执著；它尤其扭曲人对实在诸范畴的鉴赏。
+      - 智之障业（*jñāna-avaraṇīya*）：遮覆自我、意与感官，从而阻碍其自然能力。
+      - 知觉之障业（*darśanāvaraṇīya*）：阻碍人的直觉。
+      - 阻障业（*antarāya*）：削减人天生的能量。
   - id: 49
     kind: body
     source: |-
       And the four non-harming types of karmic matter are:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      而四种非破坏性的业质类型是：
+    step2: |-
+      而四种非破坏性的业质类型是：
   - id: 50
     kind: body
     source: |-
@@ -466,68 +490,96 @@ segments:
       - name karma (*nāman*), which determines what sort of rebirth is attained;
       - life karma (*āyus*), which decides the duration of one’s life;
       - clan karma (*gotra*), which determines one’s status within a species (Wiley 2011)[^wiley-2011].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 受业（*vedanīya*），它决定自我的经验是愉快还是不愉快；
+      - 名业（*nāman*），它决定获得何种转生；
+      - 寿业（*āyus*），它决定一己生命的时长；
+      - 族业（*gotra*），它决定一己在物种内的地位（Wiley 2011）[^wiley-2011]。
+    step2: |-
+      - 受业（*vedanīya*）：决定自我的经验是愉快还是不愉快。
+      - 名业（*nāman*）：决定获得何种转生。
+      - 寿业（*āyus*）：决定一己生命的时长。
+      - 族业（*gotra*）：决定一己在物种内的地位（Wiley 2011）[^wiley-2011]。
   - id: 51
     kind: body
     source: |-
       Finally, time is what accounts for becoming. Time is not treated with other substances, because it has no extension. From this, it is not considered as a substance properly speaking, only in some aspects. Especially, its existence can only be extrapolated from our awareness of phenomena. There is an absolute time (*kāla*), which is eternal, and a relative time (*samaya*), with a beginning and variations, determined by the motion in things. Time is called the destroyer, because all things are liable to dissolution of form in the cyclic course of time.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，时间是说明生成者。时间不与其他实体同列处理，因为它没有广延。由此，它并不被当作严格意义上的实体，只在某些方面被如此看待。尤其，它的存在只能从我们对现象的觉知中外推。有一种绝对时间（*kāla*），它是永恒的；还有一种相对时间（*samaya*），有开端、有变易，由事物中的运动所决定。时间被称为毁灭者，因为一切事物在时间的循环进程中都难逃形态的解体。
+    step2: |-
+      最后，时间是说明生成者。时间不与其他实体同列处理，因为它没有广延。由此，它并不被当作严格意义上的实体，只在某些方面被如此看待。尤其，它的存在只能从我们对现象的觉知中外推而来。有一种绝对时间（*kāla*），永恒；还有一种相对时间（*samaya*），有开端、有变易，由事物中的运动所决定。时间被称为毁灭者：因为一切事物在时间的循环进程中，都难逃形态之解体。
   - id: 52
     kind: body
     source: |-
       ### 2.2 An atomism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 一种原子论
+    step2: |-
+      ### 2.2 一种原子论
   - id: 53
     kind: body
     source: |-
       The whole physics of Jainism is an atomism. In this, Jaina conceptions are close to those of the Nyāya-Vaiśeṣika tradition. An atom (*paramāṇu*) is infinitesimal, ultimate and eternal. From this, it is neither created nor destroyed. Now, contrarily to the conceptions of Nyāya-Vaiśeṣika philosophers, according to which God (*Īśvara*) is the one who presides over the association of these atoms and creates the world as we experience it, Jaina philosophers hold that there is no such entity. For them, atoms have always been there and their association follows natural laws. Jaina philosophers are especially critical of an attitude that does not favor ethical responsibility, and the recognition that an external consciousness is responsible for the state of the world risks to undermine this ethical responsibility beyond repair. According to them, ethics especially requires that the individual can make or unmake herself in this world. This is partly what explains that there is a lengthy tradition of refutations by both Jaina and Buddhist philosophers of the Naiyāyika arguments in favor of the fact that God is the sustainer of the world.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      耆那教的整部物理学是一种原子论。在此，耆那教的构想接近正理—胜论传统（Nyāya-Vaiśeṣika）。极微（*paramāṇu*）是不可再分的最小者、终极者、永恒者。由此，它既不被创造也不被消灭。然而，与正理—胜论哲学家的构想——神（*Īśvara*）主持极微的结合并造出我们所经验的世界——相反，耆那教哲学家否认有这样一种实体。在他们看来，极微亘古即在，其结合遵循自然法则。耆那教哲学家尤其批评那种不利于伦理责任的态度：承认一个外在意识要对世界的状况负责，会把这种伦理责任破坏到无可挽回的地步。按他们的看法，伦理尤其要求个体能在世界中成就自己或毁弃自己。这部分解释了为何耆那教与佛教哲学家对正理论者（Naiyāyika）“神是世界之支撑者”的论证，有着悠久的反驳传统。
+    step2: |-
+      耆那教的整部物理学是一种原子论。在此，耆那教的构想接近正理—胜论传统（Nyāya-Vaiśeṣika）。极微（*paramāṇu*）是不可再分的最小者、终极者、永恒者。由此，它既不被创造、也不被消灭。然而，正理—胜论哲学家认为神（*Īśvara*）主持极微之结合、造出我们所经验的世界；耆那教哲学家的看法正相反：并无这样一种实体。在他们看来，极微亘古即在，其结合遵循自然法则。耆那教哲学家尤其批评那种不利于伦理责任的态度：承认一个外在意识要对世界的状况负责，会把这种伦理责任破坏到无可挽回之地步。按他们的看法，伦理尤其要求个体能在世界中成就自己或毁弃自己。这也部分解释了：为何耆那教与佛教哲学家对正理论者（Naiyāyika）“神是世界之支撑者”的论证，有着悠久的反驳传统。
   - id: 54
     kind: body
     source: |-
       Next to this, an atom is not necessarily material. Indeed, selves are a type of atom. Matter exists as atom or as aggregate (*skandha*). The aggregates, produced out of a mutual attraction of atoms, vary from binary to infinite compounds and every perceivable object, that is to say every object endowed with a form, is an aggregate. As such, atoms are the formless basis of all forms, although sometimes it is said that it has form inasmuch as it can be perceived by the omniscient ones. Furthermore, in contradistinction with the conception of Nyāya-Vaiśeṣika and in agreement with Leucippus and Democritus, Jaina philosophers hold that an atom of one type is first undifferentiated, similar to any other atom of the same type, and then develops differentiated characteristics so as to become an atom of earth, an atom of water, etc. Atoms therefore acquire a kind of taste, color, smell, contact, as well as weight, the heavier moving downwards and the lighter upwards. An interesting characteristic of Jainism is that an atom may develop a motion so swift that it traverses in one moment the whole universe. This explains that some saints, who are well advanced in the path that consists in realizing the proper nature of things, can perform this miracle.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除此以外，极微并不必然是质料性的。事实上，自我就是一种极微。质料以极微或聚集体（*skandha*）的形式存在。聚集体由极微的相互吸引而产生，从二元化合物一直到无限的化合物不等；每一个可感知的对象——也就是说每一个被赋予形体的对象——都是聚集体。如此说来，极微是一切形体的无形基础，尽管有时人们也说它有形，因为它能被遍知者感知。再者，与正理—胜论的构想不同而与留基伯、德谟克利特一致，耆那教哲学家认为：一个某类型的极微，起初是无差别的，与同类型的任何其他极微相似；随后发展出分化的特征，成为地极微、水极微等等。于是极微获得某种味、色、香、触，以及重量——重者下行，轻者上行。耆那教的一个有趣特征是：极微可以获得如此迅疾的运动，以至于在一瞬间遍历整个宇宙。这解释了为何某些走在实现事物本性之路上、修行有素的圣者能行此奇迹。
+    step2: |-
+      除此以外，极微并不必然是质料性的。事实上，自我就是一种极微。质料以极微或聚集体（*skandha*）的形式存在。聚集体由极微的相互吸引而产生，从二元化合物直到无限化合物不等；每一个可感知的对象——即每一个被赋予形体的对象——都是聚集体。如此说来，极微是一切形体的无形基础；尽管也有人说它有形，因为它能被遍知者感知。再者，与正理—胜论的构想不同而与留基伯、德谟克利特一致，耆那教哲学家认为：一个某类型的极微，起初是无差别的，与同类任何其他极微相似；随后发展出分化的特征，成为地极微、水极微等等。于是极微获得某种味、色、香、触，以及重量——重者下行，轻者上行。耆那教的一个有趣特征是：极微可以获得极迅疾的运动，以至于一瞬遍历整个宇宙。这解释了为何某些修行有素、走在实现事物本性之路上的圣者，能行此奇迹。
   - id: 55
     kind: body
     source: |-
       Finally, atoms can contract and expand. When in subtle state, innumerable atoms occupy the space of one gross atom. Matter is an eternal substance undetermined with regards to quantity and quality. It is because the atoms in it can expand that matter may increase or diminish in volume without addition or loss of particles. For a self, which also is an atom and which has dimensions although it is not material, this means that it is capable of expansion and contraction. The self is actually co-extensive with the physical body it occupies. This is what explains that we have sensations from the top of the head to the tip of the toes. This means that the self is of a very small size when it starts in the womb, then it expands and, at the end of each earthly life, it contracts again into the seed of the next birth. To explain how this works, Jaina philosophers use metaphors such as that of a lamp: whether placed in a small pot or in a larger room, a lamp illumines the whole space. In the same way, the self imparts consciousness according to the dimensions of the body it occupies. Another specificity of Jainism is the belief according to which, under special circumstances, an embodied self can expand beyond its body, up to the size of the universe, and act outside of it. This projection, called “*samudghāta*”, “extermination”, enables her to annihilate specific karmic matter (Pragya 2021)[^pragya-2021].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，极微能收缩与膨胀。处于精微状态时，无数极微占据一个粗大极微的空间。质料是一种在量与质上皆未确定的永恒实体。正因为其中的极微能够膨胀，质料才能在不增减微粒的情况下增减体积。至于自我——它也是极微，虽非质料却有广延——这意味着它能膨胀与收缩。自我实际上与它所占据的身体同其广延。这解释了为何我们的感觉从头顶直达脚尖。这意味着：自我在子宫中初成时尺寸极小，随后膨胀，而在每段尘世生命终结时又收缩为下一次转生的种子。为说明这一点，耆那教哲学家使用灯的比喻：无论置于小罐还是较大的房间，一盏灯照亮整个空间。同样，自我按其所占据身体的广延来赋予意识。耆那教的另一特质是如下信念：在特殊情形下，具身自我能膨胀到身体之外、直至宇宙之大，并在其外行动。这种投射称为 *samudghāta*（“消灭”），使她能消灭特定的业质（Pragya 2021）[^pragya-2021]。
+    step2: |-
+      最后，极微能收缩与膨胀。处于精微状态时，无数极微占据一个粗大极微的空间。质料是一种在量与质上皆未确定的永恒实体。正因为其中的极微能够膨胀，质料才能在不增减微粒的情况下增减体积。至于自我——它也是极微，虽非质料却有广延——这意味着它能膨胀与收缩。自我实际上与它所占据的身体同其广延。这解释了为何我们的感觉从头顶直达脚尖。这意味着：自我在子宫中初成时尺寸极小，随后膨胀；而在每段尘世生命终结时，又收缩为下一次转生的种子。为说明其机制，耆那教哲学家使用灯的比喻：无论置于小罐还是较大的房间，一盏灯照亮整个空间。同样，自我按其所占身体的广延赋予意识。耆那教的另一特质是如下信念：在特殊情形下，具身自我能膨胀到身体之外、直至宇宙之大，并在其外行动。这种投射称为 *samudghāta*（“消灭”），使她能消灭特定的业质（Pragya 2021）[^pragya-2021]。
   - id: 56
     kind: body
     source: |-
       ### 2.3 A reasoned anthropocentrism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.3 一种有理据的人类中心论
+    step2: |-
+      ### 2.3 一种有理据的人类中心论
   - id: 57
     kind: body
     source: |-
       Jaina thinkers excel in developing lengthy and highly technical classifications. A core classification is the taxonomy that distinguishes the types of embodied selves according to the number of senses they possess. This taxonomy has retained its importance for contemporary practitioners, notably because it defines the extent of demerit acquired when one actually harms a living being.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      耆那教思想家尤擅长发展冗长而高度技术化的分类。一个核心分类，是按感官数目区分诸具身自我类型的分类学。这一分类学对当代践行者仍保有重要性，尤其因为它界定了一人实际伤害一个生命时所获过恶的范围。
+    step2: |-
+      耆那教思想家尤擅长发展冗长而高度技术化的分类。一个核心分类，是按感官数目区分诸具身自我类型的分类学。这一分类学对当代践行者仍保有重要性：尤其因为它界定了一人实际伤害一个生命时所获过恶的范围。
   - id: 58
     kind: body
     source: |-
       There, the first category gathers all the living beings possessing only one sense, namely that of touch. This concerns either plants, or the elemental selves which gets embodied in an atom of earth, of water, of fire, or of air, either gross or subtle. In consequence, there are souls also in things such as stones and metals. However, it is not always the case that a self gets embodied in these atoms. When there is no self in it, the atom is purely inanimate matter, unable to suffer. In opposition to this, each plant or animal is necessarily the host of a self, this is what makes it alive. Concerning plants, some can also be the host of several selves, as in the case of moss. This also concerns the most basic life form, called “*nigoda*”, “idle”, and which consists in clusters of minute beings with little hope for liberation. They can be found everywhere, including in air, tissues of plants, or flesh of animals. The offense must be strong for a self once embodied in a human being to get embodied as a *nigoda*. One famous example is that of Makkhali Gośāla, leader of the heretic Ājīvika movement, who was disrespectful and challenged Mahāvīra. Furthermore, if a plant dies, its self transmigrates and gets re-embodied in another, more or less subtle, body. In this case, the body of the plant is not alive anymore, but it is still inhabited by the selves of the bacteria that work towards its decomposition. To conclude on one-sensed beings, they possess the sense of touch. This means that they cannot see, hear, smell, taste, nor think, but they have a minimal conscious activity in the form of the tactile experience. Besides, even in a crude not developed way, they can already experience pleasure and pain.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中，第一类汇集只具一种感官——触觉——的一切生命者。这或者涉及植物，或者涉及寄身于地、水、火、风极微之中的元素自我，粗者或精者皆有。因此，石头与金属之类事物中也有灵魂。不过，自我并非总是寄身于这些极微之中。其中没有自我时，该极微就是纯然无生命的质料，无从受苦。与此相对，每一株植物或每一只动物必然是一个自我的宿主——这正是它活着的原因。至于植物，有些还可以是多个自我的宿主，如苔藓。这也涉及最基本的生命形态，称为 *nigoda*（“闲滞者”）：由得解脱希望渺茫的微小有情结成的丛簇。它们无处不在，空气、植物组织或动物的肉中都有。一个曾得人身的自我，须有极重的过犯，才会转生为 *nigoda*。著名的例子是邪命外道（Ājīvika）运动的领袖末伽梨·拘舍梨（Makkhali Gośāla）：他对大雄不敬并挑战大雄。再者，植物若死，其自我便迁转、重新 embodied 于另一个或粗或精的身体。此时植物的身体不再有生命，但仍住有朝其分解而劳作的诸细菌之自我。总而言之，一感官的有情具触觉。这意味着它们不能看、听、嗅、尝，也不能思考，但它们有触觉经验形式的最小意识活动。此外，即便以粗糙未展的方式，它们已能经验快乐与痛苦。
+    step2: |-
+      其中，第一类汇集只具一种感官——触觉——的一切生命者。这或者涉及植物，或者涉及寄身于地、水、火、风极微之中的元素自我，粗者精者皆有。因此，石头与金属之类事物中也有灵魂。不过，自我并非总是寄身于这些极微之中：其中没有自我时，该极微就是纯然无生命的质料，无从受苦。与此相对，每一株植物或每一只动物必然是一个自我的宿主——这正是它活着的原因。至于植物，有些还可以是多个自我的宿主，如苔藓。这也涉及最基本的生命形态，称为 *nigoda*（“闲滞者”）：由得解脱希望渺茫的微小有情结成的丛簇。它们无处不在——空气、植物组织或动物的肉中都有。一个曾得人身的自我，须有极重的过犯，才会转生为 *nigoda*。著名的例子是邪命外道（Ājīvika）运动的领袖末伽梨·拘舍梨（Makkhali Gośāla）：他对大雄不敬并挑战大雄。再者，植物若死，其自我便迁转、重新寄身于另一个或粗或精的身体。此时植物的身体不再有生命，但仍住有朝其分解而劳作的诸细菌之自我。总括一感官的有情：它们具触觉，不能看、听、嗅、尝，也不能思考，但有触觉经验这一形式的最小意识活动；且即便以粗糙未展的方式，它们已能经验快乐与痛苦。
   - id: 59
     kind: body
     source: |-
       Next to the one-sensed beings are all the animals. First, worms and every being in their category, like leeches, mollusks, or a type of phytophagous beetles, are two-sensed beings, possessing both touch and taste. Then, ants and all the beings in their category, like phytophagous insects, termites and millipedes, are three-sensed beings, and are also able to smell. They are followed by the four-sensed beings who can also see, like bees and similar beings as flies, mosquitoes, butterflies or scorpions. Finally, human beings and all the beings in their category, like fish, reptiles, birds, quadrupeds, demons and gods, are five-sensed beings, enjoying touch, taste, smell, sight, and hearing. Amongst them, some also have an intellect (*manas*), considered by some authors as a sixth sense.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与一感官的有情相并列的是一切动物。首先，蠕虫及其同类，如蚂蟥、软体动物或某种食植甲虫，是二感官的有情，兼有触觉与味觉。然后，蚂蚁及其同类，如食植昆虫、白蚁与马陆，是三感官的有情，还能嗅。继而是四感官的有情，还能看，如蜜蜂及蝇、蚊、蝶、蝎等同类。最后，人及其同类，如鱼、爬行动物、鸟、四足兽、魔类与诸神，是五感官的有情，享有触、味、嗅、视与听。其中一些还有意（*manas*），被某些作者视为第六感官。
+    step2: |-
+      与一感官的有情相并列的，是一切动物。首先，蠕虫及其同类——如蚂蟥、软体动物或某种食植甲虫——是二感官的有情，兼有触觉与味觉。然后，蚂蚁及其同类——如食植昆虫、白蚁与马陆——是三感官的有情，还能嗅。继而是四感官的有情，还能看，如蜜蜂及蝇、蚊、蝶、蝎等同类。最后，人及其同类——如鱼、爬行动物、鸟、四足兽、魔类与诸神——是五感官的有情，享有触、味、嗅、视与听。其中一些还有意（*manas*），被某些作者视为第六感官。
   - id: 60
     kind: body
     source: |-
       It is interesting to note that the English expression “animal” denotes what is animated, what has a soul. While in Jainism, what is animated, what has a soul (*jīva*), also includes the immobile plants and elemental beings. In this conception, the Sanskrit expression for animal is “*tiryañc*-”, “what is able to cross a spatial area”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      值得留意的是，英语的“animal”（动物）一词意指有灵者、有魂者。而在耆那教中，有灵者、有魂者（*jīva*）也包括不动的植物与元素生命者。在这一构想中，梵语称动物为“*tiryañc*”，意为“能横越一处空间者”。
+    step2: |-
+      值得留意的是，英语“animal”（动物）一词，意指有灵者、有魂者。而在耆那教中，有灵者、有魂者（*jīva*）也包括不动的植物与元素生命者。在这一构想里，梵语称动物为“*tiryañc*”——“能横越一处空间者”。
   - id: 61
     kind: body
     source: |-
