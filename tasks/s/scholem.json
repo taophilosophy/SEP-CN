@@ -2,7 +2,7 @@
   "slug": "scholem",
   "kind": "retranslate",
   "zh_doc": "s/scholem.md",
-  "state": "s1_checked",
+  "state": "s2_checked",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,13 @@
       "actor": "SZ-main-20261108b",
       "at": "2026-11-08T01:58:33Z",
       "evidence": "69 段逐段对照源文核销（lq check 守恒通过，md=compose(账本)+斜体粗体后处理一致）；脚注定义 25/25 与源文逐字符一致（脚本全量比对）；节集合完整（源无致谢节）；相关词条 5 条对齐 SUMMARY；事实核验：朔勒姆生年源文 1892 系误（多方确证 1897-12-05），已照录加译注留痕，Zohar 十二世纪译注沿用；术语 Zionism→锡安主义等已登记（2026-11-08）；人名表 45 行籍属/生卒回填（Biale/Alter/Mosès/Dan/Schweid/Huss 等 18 人联网核实，25 位历史名家通行记载，Jacobson/Schmidt/Wohlfahrt 查无留 — 入 013 欠账队列）；预检 academic --strict 0 硬错误、style 0 issue"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "SZ-main-20261108b",
+      "at": "2026-11-08T05:03:52Z",
+      "evidence": "散文门禁 39 告警→5（全部豁免留痕）：实修 19 处=长句拆分 18+弱动词 1（加以节制→有所节制）+双被字句 1（神性被理性化、被祛除神话→历经）+的链降密 9（段38/51×2/55/56/57/59/62/63）+排比三连改单的（段17）+被字句（段59）；豁免 5 条附理由：段6 引文（JJC 44）、段18 引文（LY 287）、段29 引文（KS 88）、段31 括注对位（源文括号并列）、段64 引文（作者自译）；改后 lq check 守恒通过（69 段）→compose→italic_to_bold；style 0 issue、academic --strict 0 硬错误、math 无缺失、summary H1 0 mismatch"
     }
   ],
   "blockers": [],
