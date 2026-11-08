@@ -2,7 +2,7 @@
   "slug": "brentano-judgement",
   "kind": "retranslate",
   "zh_doc": "b/brentano-judgement.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:01:52Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "B-main-20261109b",
+      "at": "2026-11-08T23:31:05Z",
+      "evidence": "账本 219 段（body 184/note 34/biblio 照录 74/oir 1）双版齐，lq.py check HARD=0（SOFT 249 条逐条为斜体转书名号/引号或机械段，留痕）；compose 写回 42,400 字符与账本 step2 一致；check_style 0 issue（italic-cjk 一处经 italic_to_bold_cjk 转加粗）、check_math 0 公式、check_academic --strict 0 硬错误；源钉 Summer 2025（baseline gate hash_ok）"
     }
   ],
   "blockers": [],
