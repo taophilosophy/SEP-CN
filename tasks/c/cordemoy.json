@@ -2,7 +2,7 @@
   "slug": "cordemoy",
   "kind": "retranslate",
   "zh_doc": "c/cordemoy.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "ABCDE-main-20261103",
       "at": "2026-11-02T18:38:59Z",
       "evidence": "check_style 0 issue；check_math 0；check_academic --strict 0 硬错误（补 34 条定义后孤儿引注清零，门禁实拦）；其他网络资源与相关词条 4 项对应"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-08T19:43:16Z",
+      "evidence": "r1 初审（s3_checked 存量复审波，REV-main-20261109 主会话直做，不用子代理）：对照 yuanwen/c/cordemoy.md 全文自审——结构五维全等：H2 节标题 5/5、块数 28/28、defs 34/34 与正文引用双向闭合（正文挂 7 键，en 侧另有 6 条目未被正文引用，中文侧按模板「作者-年份+[^key]」体例一律挂键，属模板差异非缺陷）、阿拉伯数字多集合零缺失、标记守恒（源 <em> 8 处中译改加粗 8 组；拉丁/法文原书名斜体照留）。内容逐节核销：①§1 生平——1626 年 10 月生、父殁于九岁、1651-12-07 长子生（时年二十五）、1664《论物体的作用》随罗奥谈话入克莱尔塞利耶编《世界》遗著、1666《辨别》六谈话、1668《言语的物理学谈话》与《信抄本》、1685/1689 两卷法国史由长子路易-热罗续成、1675 入法兰西学院、1684-10-15 卒，逐项与源一致；②§2 原子论——五条主张（形状／不可分割不可穿透／位置／运动／静止）、un tas／une liqueur／une masse 三态、实体单纯性 a priori 论证、虚空与花瓶论证、三项 inconveniens（不定与无限、静止个体化、多向运动个体）、Desgabets 批评链（距离为样态→必为某物之距离→可分割；空空间无性质），全链无方向反转；③§3 偶因论——公理 1/2 与结论、第一推动者归心灵、有限心灵三无能（肝细胞与瘸子、无因果联系只有时间相继、打乱运动量守恒）、公理 4/5 与 B 推 C 引文、Nadler(2005)/Battail(1973)/Pyle(2003)/Prost(1907)/Schmaltz(2017) 立场分布，与源一致；④§4 心身——六谈话末两篇次序（对照《沉思集》：笛卡尔第 6 沉思先区分后结合）、结合即定义为相互作用、末篇两论证与情状词汇表；⑤§5 言语——他心问题、语言为符号人工系统、真正言语二要件（声音／含义）、发声机械论解释、鹦鹉与回声、Rosenfield(1968, 40) 引文，与源一致。**无 Critical、无 Major、无漏译**。实修 19 处：①§2「并非因为其本性与广延、而任何广延总是可分的」误把「本性是广延」读作并列 → 「其本性即广延、且任何广延总是可分的」（语义修复）；②Nadler 引文否定辖域「我们至少不能构想」→「我们不能至少构想」（原文 in what sense is it not possible to at least conceive）；③「既在其复杂性也在于其创造性」→「既在于其复杂性、也在于其创造性」；④~⑲ 语言层 16 处（长句拆分 8、的-chain 4、被字句 2、弱动词 1、成分误连 1），逐处对照源文改，未增删义。人名归一 3 组：克莱尔瑟利耶→克莱尔塞利耶（登记册 descartes-works 形，2 处）、马勒布朗士→马勒伯朗士（SUMMARY 定名 m/malebranche，2 处）、纳德勒（Nadler）→Nadler（ADR-0022 现代学者保留英文）。s2 语言层告警 26→10，余 10 条全为直接引文内部或登记术语枚举，已逐条豁免留痕：L28 引 1968,97 长句+的链、L37 引 1968,99 长句+的链×2（含登记术语「不定的／无限的」）、L39 引 1968,99 长句、L53 引 B/C 例长句、L55 引 Nadler 句的链、L63 引语长句、L67 引 1968,209 长句。登记补记：术语 8 行（extension 广延／plenum theory 充实论／first mover 第一推动者／other minds 他心问题／fluid 流体／substantial union 实体性结合／indefinite 不定的／infinite 无限的）+ 人名 11 行（Ablondi/Nadler/Rosenfield/Schmaltz/Battail/Pyle/Prost 依 ADR-0022 保留英文；Chazelles 玛丽·德·沙泽勒／Maignan 埃马纽埃尔·马尼昂／Molière 莫里哀／Louis-Géraud 路易-热罗·科尔德穆瓦），并依 SUMMARY 定名归一登记册两行（Malebranche 重复行合并、La Forge 拉福奇→拉弗尔热）。四检：check_style 0 issue；check_academic --strict 0 硬错误；check_math 该词条无公式；check_prose 10 条豁免（见上）；check_all 七项全绿。"
     }
   ],
   "blockers": [],

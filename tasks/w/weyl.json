@@ -1,0 +1,22 @@
+{
+  "slug": "weyl",
+  "kind": "retranslate",
+  "zh_doc": "w/weyl.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T17:42:22Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-08T17:42:21Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 8, 2024",
+    "archive_edition": "Summer 2024",
+    "sha256": "4fafdcc0fea9daf6440e16cd83c7a50a855d0a7bfcae0524cf13555d2406fe71"
+  }
+}

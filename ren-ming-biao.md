@@ -628,7 +628,7 @@
 | H.L.A. Hart | — | 哈特（首现括注 H.L.A. Hart） | — | — | lawphil-theory | 学界通行汉译（法哲学家，《法律的概念》作者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Damaris Masham | — | 达玛里斯·马沙姆 | — | — | lady-masham | 学界通行汉译（早期英格兰女性哲学家）；待 specs/008 审定库复核 | 2026-11-03 |
 | Gottfried Wilhelm Leibniz | — | 戈特弗里德·威廉·莱布尼茨 | — | — | lady-masham；亦见 scholz（2026-11-07 重复行合并） | 学界千年通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
-| Nicolas Malebranche | — | 尼古拉·马勒伯朗士 | — | — | lady-masham | 学界通行汉译（SUMMARY 定名沿用）；待 specs/008 审定库复核 | 2026-11-03 |
+| Nicolas Malebranche | Nicolas Malebranche | 尼古拉·马勒伯朗士（亦作“马勒布朗士”） | 法国 | 1638–1715 | lady-masham、occasionalism | SUMMARY 定名沿用（m/malebranche）；occasionalism 行异形并入（2026-11-09 重复行合并）；凭证 2026-11-09 | 2026-11-09 |
 | Pierre Bayle | — | 皮埃尔·培尔 | — | — | lady-masham、leibniz-evil | 学界通行汉译（《历史与批判词典》作者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Ralph Cudworth | — | 拉尔夫·库德沃斯 | — | — | lady-masham | 学界通行汉译（剑桥柏拉图主义者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Henry More | — | 亨利·莫尔 | — | — | lady-masham | 学界通行汉译（剑桥柏拉图主义者）；待 specs/008 审定库复核 | 2026-11-03 |
@@ -1966,10 +1966,9 @@
 | al-Ash‘ari | al-Ash‘ari | 艾什尔里 | — | — | occasionalism | 学界通行汉译（873–935，艾什尔里派创始人）；凭证 2026-11-07 | 2026-11-07 |
 | Avicenna | Ibn Sīnā | 阿维森纳（伊本·西那） | — | — | occasionalism | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Nicholas of Autrecourt | — | 奥特勒库尔的尼古拉 | — | — | occasionalism | 学界惯例（14 世纪牛津）；凭证 2026-11-07 | 2026-11-07 |
-| La Forge, Louis de | — | 路易·德·拉福奇 | — | — | occasionalism | 学界惯例（1632–66）；凭证 2026-11-07 | 2026-11-07 |
+| La Forge, Louis de | Louis de La Forge | 路易·德·拉弗尔热（亦作“拉福奇”） | 法国 | 约 1632–1666 | occasionalism、la-forge | SUMMARY 定名沿用（l/la-forge“路易·德·拉弗尔热”）；occasionalism 行异形并入；凭证 2026-11-09 | 2026-11-09 |
 | Clauberg, Johannes | — | 约翰内斯·克劳贝格 | — | — | occasionalism | 学界惯例（1622–55）；凭证 2026-11-07 | 2026-11-07 |
 | Geulincx, Arnold | — | 阿诺德·赫林克斯 | — | — | occasionalism | 学界惯例（1624–69）；凭证 2026-11-07 | 2026-11-07 |
-| Malebranche, Nicolas | — | 尼古拉·马勒布朗士 | — | — | occasionalism | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Durandus | — | 杜兰都斯 | — | — | occasionalism | 学界惯例（中世纪神学家）；凭证 2026-11-07 | 2026-11-07 |
 | Fontenelle | — | 丰特奈尔 | — | — | occasionalism | 学界通行汉译（与马勒布朗士往复者）；凭证 2026-11-07 | 2026-11-07 |
 | Duns Scotus, John | — | 邓斯·司各脱 | — | — | occasionalism | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
@@ -2551,3 +2550,14 @@
 | Cray, Wesley D. | — | Wesley D. Cray（现代学者，保留英文） | — | — | omnipresence | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Moerbeke, William of | — | 威廉·凡·莫尔贝克 | 佛兰德 | 约 1215–1286 | marsilius-padua | 学界通行音译（《政治学》拉丁译者，中世纪亚里士多德译介关键人物）；凭证 2026-11-08 | 2026-11-08 |
 | Hermannus Alemannus | — | 赫尔曼努斯·阿莱曼努斯 | 德意志 | 13 世纪 | marsilius-padua | 学界通行音译（13 世纪托莱多译者，阿威罗伊《尼各马可伦理学》评注拉丁译者）；凭证 2026-11-08 | 2026-11-08 |
+| Ablondi, Fred | — | Fred Ablondi（现代学者，保留英文） | — | — | cordemoy | ADR-0022：无通行汉名者保留英文（科尔德穆瓦研究专著作者，本词条作者）；凭证 2026-11-09 | 2026-11-09 |
+| Nadler, Steven | — | Steven Nadler（现代学者，保留英文） | — | — | cordemoy | ADR-0022：无通行汉名者保留英文（SDD 译本导论者，正文引 2005）；凭证 2026-11-09 | 2026-11-09 |
+| Rosenfield, Leonora Cohen | — | Leonora Cohen Rosenfield（现代学者，保留英文） | — | — | cordemoy | ADR-0022：无通行汉名者保留英文（《从兽机器到人机器》作者）；凭证 2026-11-09 | 2026-11-09 |
+| Schmaltz, Tad | — | Tad Schmaltz（现代学者，保留英文） | — | — | cordemoy | ADR-0022：无通行汉名者保留英文（《早期近代笛卡尔主义》作者）；凭证 2026-11-09 | 2026-11-09 |
+| Battail, Jean-François | — | Jean-François Battail（现代学者，保留英文） | — | — | cordemoy | ADR-0022：无通行汉名者保留英文（科尔德穆瓦研究专著作者）；凭证 2026-11-09 | 2026-11-09 |
+| Pyle, Andrew | — | Andrew Pyle（现代学者，保留英文） | — | — | cordemoy | ADR-0022：无通行汉名者保留英文（《马勒伯朗士》作者）；凭证 2026-11-09 | 2026-11-09 |
+| Prost, Joseph | — | Joseph Prost（现代学者，保留英文） | — | — | cordemoy | ADR-0022：无通行汉名者保留英文（1907 论文作者）；凭证 2026-11-09 | 2026-11-09 |
+| Chazelles, Marie de | — | 玛丽·德·沙泽勒 | 法国 | 17 世纪 | cordemoy | 学界惯例音译（科尔德穆瓦之妻）；凭证 2026-11-09 | 2026-11-09 |
+| Maignan, Emmanuel | — | 埃马纽埃尔·马尼昂 | 法国 | 1601–1676 | cordemoy | 学界通行音译（米尼姆会士，笛卡尔派物理学家）；凭证 2026-11-09 | 2026-11-09 |
+| Molière | Moliere | 莫里哀 | 法国 | 1622–1673 | cordemoy | 学界千年通行汉译（剧作家，本名波克兰）；凭证 2026-11-09 | 2026-11-09 |
+| Cordemoy, Louis-Géraud de | Louis-Géraud | 路易-热罗·科尔德穆瓦 | 法国 | 17 世纪 | cordemoy | 学界惯例音译（科尔德穆瓦长子，续成《法国史》两卷）；凭证 2026-11-09 | 2026-11-09 |

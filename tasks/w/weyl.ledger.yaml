@@ -733,162 +733,222 @@ segments:
     kind: body
     source: |-
       Hilbert’s program rested on the insight that, *au fond*, the only part of mathematics whose reliability is entirely beyond question is the *finitistic*, or *concrete* part: in particular, finite manipulation of surveyable domains of distinct objects including mathematical symbols presented as marks on paper. Mathematical propositions referring only to concrete objects in this sense Hilbert called *real*, *concrete*, or *contentual* propositions, and all other mathematical propositions he distinguished as possessing an *ideal*, or *abstract* character. (Thus, for example, $2 + 2 = 4$ would count as a real proposition, while *there exists an odd perfect number* would count as an ideal one.) Hilbert viewed ideal propositions as akin to the ideal lines and points “at infinity” of projective geometry. Just as the use of these does not violate any truths of the “concrete” geometry of the usual Cartesian plane, so he hoped to show that the use of ideal propositions—even those of Cantorian set theory—would never lead to falsehoods among the real propositions, that, in other words, such use *would never contradict any self-evident fact about concrete objects*. Establishing this by strictly concrete, and so unimpeachable means was thus the central aim of Hilbert’s program. Hilbert may be seen to have followed Kant in attempting to ground mathematics on the apprehension of spatiotemporal configurations; but Hilbert restricted these configurations to concrete signs (such as inscriptions on paper). Hilbert regarded consistency as the touchstone of existence, and so for him the important thing was the fact that no inconsistencies can arise within the realm of concrete signs, since correct descriptions of concrete objects are always mutually compatible. In particular, within the realm of concrete signs, actual infinity cannot generate inconsistencies since, again along with Kant, he held that this concept cannot correspond to any concrete object. Hilbert’s view seems accordingly to have been that the formal soundness of mathematics issues ultimately, not from a *logical* source, but from a *concrete* one[^note-27], in much the same way as the consistency of truly reported empirical statements is guaranteed by the concreteness of the external world[^note-28].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      希尔伯特纲领立足于这样一个洞见：从根本上说（*au fond*），数学中其可靠性完全无可置疑的唯有一部分，即*有限论的*、或*具体的*部分：尤其是指对可通览的、由诸个不同对象（其中包括作为纸上记号呈现的数学符号）构成的域的有限操作。希尔伯特把仅涉及此种意义上的具体对象的数学命题称为*实在的*、*具体的*或*内容的*命题，而把其余一切数学命题区分为具有*理想的*或*抽象的*性格者。（因此，例如 $2 + 2 = 4$ 会被算作一个实在命题，而*存在一个奇完全数*则会被算作一个理想命题。）希尔伯特把理想命题看作类似于射影几何中“无穷远处”的理想直线与理想点。正如使用这些理想元素并不违反通常笛卡尔平面的“具体”几何的任何真理，他希望能表明：使用理想命题——即便是康托尔集合论的那些命题——也绝不会在实在命题中导致虚假，换言之，这种使用*绝不会与关于具体对象的任何自明事实相矛盾*。以严格具体、因而无可指摘的手段确立这一点，正是希尔伯特纲领的中心目标。可以说，希尔伯特追随康德，试图把数学奠基于对时空构形的领会之上；但希尔伯特把这些构形限于具体记号（例如纸上的书写）。希尔伯特把一致性视为存在的试金石，因此在他看来要紧的是这一事实：在具体记号领域内不可能出现任何不一致，因为关于具体对象的正确描述总是彼此相容的。特别是，在具体记号的领域内，实无限无法产生不一致，因为（同样与康德一致）他主张这一概念不能对应于任何具体对象。据此，希尔伯特的观点似乎是：数学的形式可靠性最终并非出自*逻辑的*源泉，而是出自*具体的*源泉[^note-27]，这与真正被报道的经验陈述之一致性由外部世界的具体性所保证颇为相似[^note-28]。
+    step2: |-
+      希尔伯特纲领所本的洞见是：归根结底（*au fond*），数学中可靠性完全无可置疑者只限于*有限论的*即*具体的*部分——尤其是对可通览的、由诸个不同对象（含作为纸上记号呈现的数学符号）构成的域所作的有限操作。仅涉及此种具体对象的数学命题，希尔伯特称之为*实在的*、*具体的*或*内容的*命题；其余一切数学命题则被他判为具*理想的*或*抽象的*品性。（故 $2 + 2 = 4$ 算是实在命题，而*存在一个奇完全数*算是理想命题。）希尔伯特视理想命题为近似于射影几何中“无穷远”的理想直线与理想点：正若使用后者并不触犯通常笛卡尔平面“具体”几何的任何真理，他亦希望表明，使用理想命题——即便是康托尔集合论者——也绝不在实在命题间引出假，换言之，此种使用*绝不与关于具体对象的任何自明事实相抵触*。以严格具体、因而无懈可击的手段确立此事，正是希尔伯特纲领的枢纽。可以说，希尔伯特随康德而试图把数学奠基于对时空构形的把握；但他把这些构形限于具体记号（如纸上的书写）。他以一致性为存在之试金石，故于他最要紧者乃是：具体记号之域内不可能生出不一致，因为关于具体对象的正确描述总是彼此相容。尤其在具体记号域内，实无限无从造成不一致——此因（同样随康德）他主张该概念不能对应于任何具体对象。据此看来，希尔伯特的主张是：数学的形式可靠性最终并非出于*逻辑的*源头，而出于*具体的*源头[^note-27]，颇似真正被如实报道的经验陈述之一致性由外部世界的具体性作保[^note-28]。
   - id: 88
     kind: body
     source: |-
       Weyl soon grasped the significance of Hilbert’s program, and came to acknowledge its “immense significance and scope”[^note-29]. Whether that program could be successfully carried out was, of course, still an open question. But independently of this issue Weyl was concerned about what he saw as the loss of content resulting from Hilbert’s thoroughgoing formalization of mathematics. “Without doubt,” Weyl warns, “if mathematics is to remain a serious cultural concern, then some *sense* must be attached to Hilbert’s game of formulae.” Weyl thought that this sense could only be supplied by “fusing” mathematics and physics so that “the mathematical concepts of number, function, etc. (or Hilbert’s symbols) generally partake in the theoretical construction of reality in the same way as the concepts of energy, gravitation, electron, etc.”[^note-30] Indeed, in Weyl’s view, “it is the function of mathematics to be at the service of the natural sciences”. But still:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔很快把握了希尔伯特纲领的意义，并逐渐承认其“巨大的意义与范围”[^note-29]。该纲领能否被成功实施，当然仍是一个悬而未决的问题。但与此问题无关，外尔关切的是他所看到的、由希尔伯特对数学的彻底形式化所造成的内容丧失。“毫无疑问，”外尔警告说，“如果数学要继续作为一种严肃的文化关切，那么就必须给希尔伯特的公式游戏赋予某种*意义*。”外尔认为，这种意义只能通过把数学与物理学“融合”起来而提供，从而使“数、函数等数学概念（或希尔伯特的符号）一般而言以与能量、引力、电子等概念相同的方式参与对实在的理论建构。”[^note-30] 实际上，在外尔看来，“数学的职分就在于为自然科学服务”。但尽管如此：
+    step2: |-
+      外尔迅即领会了希尔伯特纲领的分量，并渐次承认其“意义与范围之巨大”[^note-29]。该纲领能否成功实施，固然仍属悬案；但外尔所忧者另有其事：他以为希尔伯特对数学的彻底形式化导致了内容的丧失。“毋庸置疑，”外尔告诫道，“数学若要继续作为一项严肃的文化关切，就必须为希尔伯特这场公式游戏赋予某种*意义*。”在他看来，此种意义唯有通过把数学与物理学“熔合”方能给出，从而使“数、函数等数学概念（或希尔伯特的符号）一般地像能量、引力、电子等概念那样，参与对实在的理论建构。”[^note-30] 实则外尔认为，“数学的职分正在于为自然科学效劳”。然而：
   - id: 89
     kind: body
     source: |-
       > The propositions of theoretical physics… lack that feature which Brouwer demands of the propositions of mathematics, namely, that each should carry within itself its own intuitively comprehensible meaning…. Rather, what is tested by confronting theoretical physics with experience is the system as a whole. It seems that we have to differentiate between phenomenal knowledge or insight—such as is expressed in the statement: “This leaf (given to me in a present act of perception) has this green color (given to me in this same perception)”—and theoretical construction. Knowledge furnishes truth, its organ is “seeing” in the widest sense. Though subject to error, it is essentially definitive and unalterable. Theoretical construction seems to be bound only to one strictly formulable rational principle, concordance, which in mathematics, where the domain of sense data remains untouched, reduces to consistency; its organ is creative imagination. (Weyl 1949, 61–62)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 理论物理学的诸命题……缺少布劳威尔对数学命题所要求的那一特征，即每一个命题都应自身携带其直观上可理解的意义……相反，通过与经验相对照而受到检验的，是作为整体的系统。看来我们必须区分现象性的知识或洞见——例如在如下陈述中所表达者：“这片叶子（在一次当下的知觉行为中给予我）具有这种绿色（在同一次知觉中给予我）”——与理论建构。知识提供真理，其器官是最广义的“看”。知识虽可能出错，但本质上是确定的、不可更改的。理论建构似乎只受一条可严格表述的理性原则约束，即协和（concordance）；在数学中，由于感觉材料的领域未受触动，这条原则化归为一致性；其器官是创造性的想象。（Weyl 1949, 61–62）
+    step2: |-
+      > 理论物理学的诸命题……并不具备布劳威尔向数学命题所要求的那种品格：每一命题皆自携其直观可解的意义……反之，受检验者是整个系统，检验之法是以经验相质。看来我们须区分现象性的知识或洞见——如“这片叶子（在当下一次知觉行为中给予我）具有这种绿色（在同一次知觉中给予我）”一语所表达者——与理论建构。知识给出真理，其器官是最广义的“看”；它虽会出错，本质上却是确定而不移的。理论建构似只受一条可严格表述的理性原则之约束，即协和；在数学中，感觉材料之域未受触动，故该原则化归为一致性；其器官则是创造性的想象。（Weyl 1949, 61–62）
   - id: 90
     kind: body
     source: |-
       Weyl points out that, just as in theoretical physics, Hilbert’s account of mathematics “already… goes beyond the bounds of intuitively ascertainable states of affairs through… ideal assumptions.” (Weyl 1927, 484.) If Hilbert’s realm of contentual or “real” propositions—the domain of metamathematics—corresponds to that part of the world directly accessible to what Weyl terms “insight” or “phenomenal knowledge”, then “serious” mathematics—the mathematics that practicing mathematicians are actually engaged in doing—corresponds to Hilbert’s realm of “ideal” propositions. Weyl regarded this realm as the counterpart of the domain generated by “symbolic construction”, the transcendent world focussed on by theoretical physics. Hence his memorable characterization:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔指出，正如在理论物理学中一样，希尔伯特对数学的说明“已经……通过……理想假定而越出了直观上可确定的事态之界限”。（Weyl 1927, 484.）如果说希尔伯特的内容命题或“实在”命题之域——元数学的领域——对应于世界中那些可由外尔称之为“洞见”或“现象性知识”者直接通达的部分，那么“严肃的”数学——职业数学家实际从事的数学——便对应于希尔伯特的“理想”命题之域。外尔把这个领域视为由“符号建构”所生成的领域的对应物，即理论物理学所聚焦的超越世界。于是便有他那段令人难忘的刻画：
+    step2: |-
+      外尔指出：正如在理论物理学中那样，希尔伯特对数学的说明“已经……借……理想假定而越出直观可确定的事态之畛域”。（Weyl 1927, 484.）倘若希尔伯特的内容命题即“实在”命题之域——元数学的领地——相应于世界中可由外尔所谓“洞见”或“现象性知识”直接通达的那一部分，那么“严肃的”数学——职业数学家实际在做的那门数学——便相应于希尔伯特的“理想”命题之域。外尔视此领域为“符号建构”所生成领域的对应者，即理论物理学所注目的超越世界。故其脍炙人口的刻画：
   - id: 91
     kind: body
     source: |-
       > The set-theoretical approach is the stage of naive realism which is unaware of the transition from the given to the transcendent. Brouwer represents idealism, by demanding the reduction of all truth to the intuitively given. In [Hilbert’s] formalism, finally, consciousness makes the attempt to “jump over its own shadow”, to leave behind the stuff of the given, to represent the transcendent—but, how could it be otherwise?, only through the symbol. (Weyl 1949, 65–66)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 集合论的进路是朴素实在论的阶段，它未觉察到从所予者向超越者的过渡。布劳威尔代表唯心论，因为他要求把一切真理都还原为直观地被给予者。最后，在[希尔伯特的]形式主义中，意识作出尝试，要“跳过自己的影子”，要抛开所予者的材料，要表象超越者——但除此之外还能怎样呢？——只能通过符号。（Weyl 1949, 65–66）
+    step2: |-
+      > 集合论进路处于朴素实在论之阶段，尚未察觉自所予向超越的过渡。布劳威尔代表唯心论，他要求把一切真理还原为直观所予。最后在[希尔伯特]形式主义中，意识试图“跳过自己的影子”，抛下所予之材料去表象超越者——然而除了借符号，又能如何？（Weyl 1949, 65–66）
   - id: 92
     kind: body
     source: |-
       In Weyl’s eyes, Hilbert’s approach embodied the “symbolic representation of the transcendent, which demands to be satisfied”, and so he regarded its emergence as a natural development. But by 1927 Weyl saw Hilbert’s doctrine as beginning to prevail over intuitionism, and in this an adumbration of *“a decisive defeat of the philosophical attitude of pure phenomenology*, which thus proves to be insufficient for the understanding of creative science even in the area of cognition that is most primal and most readily open to evidence—mathematics.”[^note-31] Since by this time Weyl had become convinced that “creative science” must *necessarily* transcend what is phenomenologically given, he had presumably already accepted that pure phenomenology is incapable of accounting for theoretical physics, let alone the whole of existence. But it must have been painful for him to concede the analogous claim in the case of *mathematics*. In 1932, he asserts: “If mathematics is taken by itself, one should restrict oneself with Brouwer to the intuitively cognizable truths … nothing compels us to go farther.” If mathematics could be “taken by itself”, then there would be no need for it to justify its practices by resorting to “symbolic construction”, to employ symbols which in themselves “signify nothing”—nothing, at least, accessible to intuition. But, unlike Brouwer, Weyl seems finally to have come to terms with the idea that mathematics could not simply be “taken by itself”, that it has a larger role to play in the world beyond its service as a paradigm, however pure, of subjective certainty.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在外尔眼中，希尔伯特的进路体现了“对超越者的符号表象——这种表象要求得到满足”，因此他把它的出现视为一种自然的发展。但到 1927 年，外尔看到希尔伯特的学说开始压过直觉主义，并认为其中透露出*“纯粹现象学之哲学态度的一次决定性失败*，从而表明，即使在最原初、最容易向明见性敞开的知识领域——数学——之中，现象学也不足以理解创造性的科学。”[^note-31] 由于此时外尔已确信“创造性的科学”*必然*超越现象学地被给予者，他大概已经接受了纯粹现象学无力说明理论物理学，遑论整个存在。但要在*数学*的情形中承认类似的主张，对他必定是痛苦的。1932 年，他断言：“如果数学被就其自身来看待，人就应当随布劳威尔而止于直观上可认知的真理……没有什么迫使我们走得更远。”如果数学能够被“就其自身来看待”，那它便无需诉诸“符号建构”、使用那些自身“不表示任何东西”——至少不表示任何直观可及之物——的符号，来为自己的实践辩护。但与布劳威尔不同，外尔似乎最终接受了这样的想法：数学不能被简单地“就其自身来看待”，除了充当主观确定性的范式（无论多么纯粹）之外，它在世界中还有更大的作用要发挥。
+    step2: |-
+      在外尔看来，希尔伯特的进路体现了“对超越者的符号表象——而此种表象是要求满足的”，故他视其出现为自然之势。然而至 1927 年，外尔已见希尔伯特的学说渐占直觉主义之上风，并从中窥见*“纯粹现象学之哲学态度的一次决定性挫败*：它表明，即便在最原初、最易向明见性敞开的认知领域——数学——之内，现象学亦不足以理解创造性的科学。”[^note-31] 此时外尔既已确信“创造性的科学”*必然*超越现象学所予，他大约早已承认纯粹现象学无从说明理论物理学，更遑论整个存在。然而要在*数学*一例上承认同样的主张，于他必定痛切。1932 年他断言：“数学若就其自身而观，人便当随布劳威尔止于直观可认知的真理……并无何物迫使我们越出此界。”倘数学真能“就其自身而观”，它便无须借“符号建构”、无须使用那些本身“不表示什么”——至少不表示任何直观可及之物——的符号，来为自己的实践作辩护。但与布劳威尔不同，外尔似终于接受了这一想法：数学不能径被“就其自身而观”，除充当主观确定性的范型（无论多么纯粹）之外，它在这个世界中尚有更大的职分。
   - id: 93
     kind: body
     source: |-
       The later impact of Gödel’s incompleteness theorems on Hilbert’s program led Weyl to remark in 1949:[^note-32]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      后来哥德尔不完全性定理对希尔伯特纲领的冲击，使外尔在 1949 年评论道：[^note-32]
+    step2: |-
+      哥德尔不完全性定理日后对希尔伯特纲领的冲击，令外尔在 1949 年如此评论：[^note-32]
   - id: 94
     kind: body
     source: |-
       > The ultimate foundations and the ultimate meaning of mathematics remain an open problem; we do not know in what direction it will find its solution, nor even whether a final objective answer can be expected at all. “Mathematizing” may well be a creative activity of man, like music, the products of which not only in form but also in substance defy complete objective rationalization. The undecisive outcome of Hilbert’s bold enterprise cannot fail to affect the philosophical interpretation. (Weyl 1949, 219)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 数学的终极基础与终极意义仍是一个未决的问题；我们不知道它将朝哪个方向找到解答，甚至不知道是否终究能期待一个最终的客观答案。“数学化”很可能是人的一种创造性活动，如同音乐一样，其产物不仅在形式上、而且在实质上抗拒完全的客观理性化。希尔伯特这一大胆事业未成定局的结果，不可能不影响到哲学的解释。（Weyl 1949, 219）
+    step2: |-
+      > 数学的终极基础与终极意义依旧是悬而未决的问题；我们不知它将循何方向觅得解答，甚至不知最终是否可望有一个客观答案。“数学化”大可以是人的一种创造活动，如音乐一般，其产物不惟形式上、即在实质上也拒斥完全的客观理性化。希尔伯特这番大胆事业之未决结局，不能不波及哲学的解释。（Weyl 1949, 219）
   - id: 95
     kind: body
     source: |-
       The fact that “Gödel has left us little hope that a formalism wide enough to encompass classical mathematics will be supported by a proof of consistency” seems to have led Weyl to take a renewed interest in “axiomatic systems developed before Hilbert without such ambitious dreams”, for example Zermelo’s set theory, Russell’s and Whitehead’s ramified type theory and Hilbert’s own axiom systems for geometry (as well, possibly, as Weyl’s own system in *Das Kontinuum*, which he modestly fails to mention). In one of his last papers, *Axiomatic Versus Constructive Procedures in Mathematics*, written sometime after 1953, he saw the battle between Hilbertian formalism and Brouwerian intuitionism in which he had participated in the 1920s as having given way to a “dextrous blending” of the axiomatic approach to mathematics championed by Bourbaki and the algebraists (themselves mathematical descendants of Hilbert) with constructive procedures associated with geometry and topology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “哥德尔几乎没给我们留下希望，使我们能指望一个足以囊括古典数学的形式系统会得到一致性证明”——这一事实似乎使外尔对“在希尔伯特之前发展起来、并无如此雄心大梦的公理系统”重新产生兴趣，例如策梅洛的集合论、罗素与怀特海的分枝类型论，以及希尔伯特自己的几何公理系统（或许还包括外尔自己在《连续统》中的系统，只是他谦逊地未予提及）。在他最后几篇论文之一《数学中的公理程序与构造程序》（写于 1953 年之后）中，他把他 1920 年代亲身参与的那场希尔伯特式形式主义与布劳威尔式直觉主义之争，看作已经让位于一种“灵巧的融合”：一方是由布尔巴基与代数学家们（他们本身是希尔伯特的数学后裔）所倡导的数学公理进路，另一方是与几何学、拓扑学相关联的构造程序。
+    step2: |-
+      “哥德尔几乎未留给我们希望：一个足以涵盖古典数学的形式系统会得到一致性证明”——此一事实似令外尔重又属意于“在希尔伯特之前发展、并无这般雄心大梦的公理系统”，如策梅洛的集合论、罗素与怀特海的分枝类型论，以及希尔伯特本人的几何公理系统（或许还有外尔自己在《连续统》中的系统，只是他谦逊地不曾提及）。其晚期论文之一《数学中的公理程序与构造程序》（作于 1953 年之后）中，他把 1920 年代自己亲历的那场希尔伯特形式主义与布劳威尔直觉主义之争，视为已让位于一种“灵巧的融合”：一边是布尔巴基与代数学家们（他们本是希尔伯特的数学苗裔）所倡的公理进路，一边是与几何、拓扑相系的构造程序。
   - id: 96
     kind: body
     source: |-
       It seems appropriate to conclude this account of Weyl’s work in the foundations and philosophy of mathematics by allowing the man himself to have the last word:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      看来，以让外尔本人说最后一句话来结束这段关于他在数学基础与数学哲学方面工作的叙述，是恰当的：
+    step2: |-
+      以让外尔本人作结语来收束这段关于其数学基础与数学哲学工作的叙述，似乎最为得体：
   - id: 97
     kind: body
     source: |-
       > This history should make one thing clear: we are less certain than ever about the ultimate foundations of (logic and) mathematics; like everybody and everything in the world today, we have our “crisis”. We have had it for nearly fifty years. Outwardly it does not seem to hamper our daily work, and yet I for one confess that it has had a considerable practical influence on my mathematical life: it directed my interests to fields I considered relatively “safe”, and it has been a constant drain on my enthusiasm and determination with which I pursued my research work. The experience is probably shared by other mathematicians who are not indifferent to what their scientific endeavours mean in the contexts of man’s whole caring and knowing, suffering and creative existence in the world. (Weyl 1946, 13)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 这段历史应当使一点变得清楚：关于（逻辑与）数学的终极基础，我们比以往任何时候都更不确定；如同今日世界上的每一个人、每一件事，我们有自己的“危机”。这危机已伴随我们近五十年。从外表看，它似乎并不妨碍我们的日常工作，然而我个人承认，它对我的数学生涯产生了相当大的实际影响：它把我的兴趣引向我认为相对“安全”的领域，并且不断消磨我从事研究工作时的热情与决心。那些并非对自己科学事业在人的整个关怀与认知、受苦与创造性的在世存在中的意义漠不关心的其他数学家，大概也分享着这一经验。（Weyl 1946, 13）
+    step2: |-
+      > 这段历史应使一事昭然：关于（逻辑与）数学的终极基础，我们比任何时候都更无把握；如同今日世上的一切人与事，我们自有其“危机”。它伴随我们已近五十年。外表上，它似不妨碍我们的日常工作；然而我本人承认，它对我的数学生涯有相当大的实际影响：它把我的兴趣引向我以为较为“安全”的领域，也持续消磨我从事研究时的热情与决心。那些并不漠视自己科学事业在人的整个关怀与认知、受苦与创造的在世存在中究有何种意义的其他数学家，大约亦有同感。（Weyl 1946, 13）
   - id: 98
     kind: body
     source: |-
       ## 4. Contributions to the Foundations of Physics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 对物理学基础的贡献
+    step2: |-
+      ## 4 对物理学基础的贡献
   - id: 99
     kind: body
     source: |-
       ### 4.1 Spacetime Geometries and Weyl’s Unified Field Theory
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 时空几何与外尔的统一场论
+    step2: |-
+      ### 4.1 时空几何与外尔的统一场论
   - id: 100
     kind: body
     source: |-
       Weyl’s clarification of the role of coordinates, invariance or symmetry principles, his important concept of gauge invariance, his group-theoretic results concerning the uniqueness of the Pythagorean form of the metric, his generalization of Levi-Civita’s concept of parallelism, his development of the geometry of paths, his discovery of the causal-inertial method which prepared the way to empirically determine the spacetime metric in a non-circular, non-conventional manner, his deep analysis of the concept of motion and the role of Mach’s Principle, are but a few examples of his important contributions to the philosophical and mathematical foundations of modern spacetime theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔对坐标之作用的澄清、对不变性原理或对称性原理的阐明、他关于规范不变性的重要概念、他关于度规之毕达哥拉斯形式的唯一性的群论结果、他对莱维-奇维塔平行性概念的推广、他对路径几何的发展、他对因果—惯性方法的发现（该方法为以非循环、非约定的方式经验地确定时空度规铺平了道路）、他对运动概念与马赫原理之作用的深入分析——这些只是他对现代时空理论之哲学基础与数学基础所作重要贡献的几个例子。
+    step2: |-
+      外尔澄清坐标之职分、阐发不变性即对称性原理、提出规范不变性的重要概念、以群论确立度规之毕达哥拉斯形式的唯一性、推广莱维-奇维塔的平行性概念、发展路径几何、发现因果—惯性方法（由此开辟了以非循环、非约定方式经验地测定时空度规之途）、深入剖析运动概念与马赫原理之作用——凡此皆为他对于现代时空理论之哲学基础与数学基础所作重要贡献的显例。
   - id: 101
     kind: body
     source: |-
       Weyl’s book, *Raum-Zeit-Materie*, beautifully exemplifies the fruitful and harmonious interplay of mathematics, physics and philosophy. Here Weyl aims at a mathematical and philosophical elucidation of the problem of space and time in general. In the preface to the great classical work of 1923, the fifth German edition, after mentioning the importance of mathematics to his work, Weyl says:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔的著作《空间—时间—物质》，优美地体现了数学、物理学与哲学之间富有成果的和谐互动。在这部书中，外尔旨在对一般意义上的空间与时间问题作出数学的与哲学的阐明。在 1923 年这部伟大经典著作（德文第五版）的序言中，外尔在提及数学对其工作的重要性之后说：
+    step2: |-
+      外尔的《空间—时间—物质》一书，堪称数学、物理学与哲学三者间丰饶而和谐的互动之典范。书中，外尔意在就一般的空间与时间问题作出数学的与哲学的阐明。1923 年这部经典之作（德文第五版）的序言里，他先申明数学于其工作的重要，继而说：
   - id: 102
     kind: body
     source: |-
       > Despite this, the book does not disavow its basic, philosophical orientation: its central focus is *conceptual analysis*; physics provides the experiential basis, mathematics the sharp tools. In this new edition, this tendency has been further strengthened; although the growth of speculation was trimmed, the supporting foundational ideas were more intuitively, more carefully and more completely developed and analyzed.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 尽管如此，本书并不否认其基本的哲学取向：它的中心是*概念分析*；物理学提供经验基础，数学提供锐利的工具。在这一新版中，这一倾向得到了进一步的加强；尽管思辨的生长被修剪，那些支撑性的基础观念却被更直观、更审慎、更完整地展开并加以分析。
+    step2: |-
+      > 尽管如此，本书并不讳言其基本的哲学取向：全书枢轴在于*概念分析*；物理学供其经验基础，数学供其锐利工具。此新版中，这一倾向愈发强固：思辨的枝蔓虽经修剪，支撑性的基础观念反而被更直观、更审慎、更完整地展开与分析。
   - id: 103
     kind: body
     source: |-
       #### 4.1.1 Weyl’s metric-independent construction of the symmetric linear connection
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 4.1.1 外尔对对称线性联络的度规无关构造
+    step2: |-
+      #### 4.1.1 外尔对对称线性联络的度规无关构造
   - id: 104
     kind: body
     source: |-
       Extending and abstracting from Gauss’s treatment of curved surfaces in Euclidian space, Riemann constructed an infinitesimal geometry of $n$-dimensional manifolds. The coordinate assignments $x^{k}(p)\ [k \in \{1, \ldots ,n\}$] of the points $p$ in such an $n$-dimensional Riemannian manifold are quite arbitrary, subject only to the requirement of arbitrary differential coordinate transformations.[^note-33] Riemann’s assumption that in an infinitesimal neighbourhood of a point, Euclidean geometry and hence Pythagoras’s theorem holds, finds its formal expression in Riemann’s equation
 
       $$\tag{1} ds^2 = \sum_{i,j} g_{ij}(x^{k}(p))dx^{i}dx^{j}\ [\text{where } g_{ij}(x^{k}(p)) = g_{ji}(x^{k}(p))] $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把高斯关于欧几里得空间中曲面的处理加以扩展与抽象，黎曼构造了 $n$ 维流形的无穷小几何。在此种 $n$ 维黎曼流形中，点 $p$ 的坐标指定 $x^{k}(p)\ [k \in \{1, \ldots ,n\}$] 相当任意，只受任意微分坐标变换这一要求的约束。[^note-33] 黎曼假定在一点的无穷小邻域内欧几里得几何从而毕达哥拉斯定理成立，这一假定在黎曼方程中得到其形式表达：
+
+      $$\tag{1} ds^2 = \sum_{i,j} g_{ij}(x^{k}(p))dx^{i}dx^{j}\ [\text{where } g_{ij}(x^{k}(p)) = g_{ji}(x^{k}(p))] $$
+    step2: |-
+      黎曼把高斯关于欧氏空间中曲面的处理加以推广与抽象，构造出 $n$ 维流形的无穷小几何。此类 $n$ 维黎曼流形中，点 $p$ 的坐标指定 $x^{k}(p)\ [k \in \{1, \ldots ,n\}$] 完全任意，仅受任意微分坐标变换这一要求之约束。[^note-33] 黎曼假定：在一点的无穷小邻域内欧氏几何成立、从而毕达哥拉斯定理成立；此假定于其方程的如下形式中得到表达：
+
+      $$\tag{1} ds^2 = \sum_{i,j} g_{ij}(x^{k}(p))dx^{i}dx^{j}\ [\text{where } g_{ij}(x^{k}(p)) = g_{ji}(x^{k}(p))] $$
   - id: 105
     kind: body
     source: |-
       for the square of the length $ds$ of an infinitesimal line element that leads from the point $p = x(p) = (x^{1}(p), \ldots ,x^{n}(p))$ to an arbitrary infinitely near point $p' = x(p') = (x^{1}(p) + dx^{1}(p), \ldots ,x^{n}(p) + dx^{n}(p))$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此处 $ds$ 是从点 $p = x(p) = (x^{1}(p), \ldots ,x^{n}(p))$ 引向任意无限邻近点 $p' = x(p') = (x^{1}(p) + dx^{1}(p), \ldots ,x^{n}(p) + dx^{n}(p))$ 的无穷小线元之长度平方。
+    step2: |-
+      其中 $ds$ 系自点 $p = x(p) = (x^{1}(p), \ldots ,x^{n}(p))$ 至任一无限邻近点 $p' = x(p') = (x^{1}(p) + dx^{1}(p), \ldots ,x^{n}(p) + dx^{n}(p))$ 的无穷小线元长度之平方。
   - id: 106
     kind: body
     source: |-
       The assumption that Euclidean geometry holds in the infinitesimally small means that the $dx^{i}(p)$ transform *linearly* under arbitrary coordinate transformations. Using the *Einstein summation* *convention*[^note-34], equation (1) can simply be written as
 
       $$\tag{2} ds^{2} = g_{ij}(x^{k}(p))dx^{i}dx^{j}. $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      欧几里得几何在无穷小范围内成立这一假定意味着，$dx^{i}(p)$ 在任意坐标变换下作*线性*变换。采用*爱因斯坦求和约定*[^note-34]，方程 (1) 便可径直写为
+
+      $$\tag{2} ds^{2} = g_{ij}(x^{k}(p))dx^{i}dx^{j}. $$
+    step2: |-
+      “欧氏几何在无穷小范围内成立”这一假定意谓：$dx^{i}(p)$ 在任意坐标变换下作*线性*变换。若用*爱因斯坦求和约定*[^note-34]，方程 (1) 即可径直写为
+
+      $$\tag{2} ds^{2} = g_{ij}(x^{k}(p))dx^{i}dx^{j}. $$
   - id: 107
     kind: body
     source: |-
       Riemann assumed the validity of the Pythagorean metric only in the infinitely small. Riemannian geometry is essentially a geometry of infinitely near points and conforms to the requirement that all laws are to be formulated as *field* laws. Field laws are *close-action-laws* which relate the field magnitudes only to infinitesimally neighbouring points in space.[^note-35] The value of some field magnitude at each point depends only on the values of other field magnitudes in the infinitesimal neighbourhoods of the corresponding points. The field magnitudes consist of partial derivatives of position functions at some point, and this requires the knowledge of the behavior of the position functions only with respect to the neighbourhood of that point[^note-36] To construct a field law, only the behavior of the world in the infinitesimally small is required.[^note-37]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      黎曼只在无穷小范围内假定毕达哥拉斯度规有效。黎曼几何本质上是无穷邻近点的几何，并符合这样一项要求：一切定律均须表述为*场*定律。场定律是*近距作用定律*，它们只把场量联系于空间中的无穷邻近点。[^note-35] 某一场量在每一点的值，只取决于相应点无穷小邻域内其他场量的值。场量由某点上位置函数的偏导数构成，而这要求仅就该点邻域了解位置函数的行为[^note-36]。要构造一条场定律，只需世界在无穷小范围内的行为。[^note-37]
+    step2: |-
+      黎曼仅于无穷小范围假定毕达哥拉斯度规成立。黎曼几何实质上是无穷邻近点之几何，且合于如下要求：一切定律皆须表述为*场*定律。场定律即*近距作用定律*，只将场量联系于空间中的无穷邻近点。[^note-35] 场量在某点之值，仅取决于相应点的无穷小邻域内其他场量之值。场量由某点上位置函数的偏导数构成，故只需了解位置函数在该点邻域内的行为[^note-36]。欲构造场定律，唯需世界在无穷小范围内的行为。[^note-37]
   - id: 108
     kind: body
     source: |-
       Riemann’s ideas were brought to a concrete realization fifty years later in Einstein’s general theory of relativity. The basic idea underlying the general theory of relativity was Einstein’s recognition that the metric field, which has such powerful real effects on matter, cannot be a rigid once and for all given geometric structure of the spacetime, but must itself be something real, that not only has effects on matter, but is in turn also affected by matter. Riemann had already suggested that analogous to the electromagnetic field, the metric field reciprocally interacts with matter. Einstein came to this idea of reciprocity between matter and field independently of Riemann, and in the context of his theory of general relativity, applied this principle of reciprocity to four dimensional spacetime. Thus Einstein could adopt Riemann’s infinitesimal geometry with the important difference: given the causal requirements of Einstein’s theory of special relativity, Riemann’s quadratic form is not positive definite but indefinite; it has signature 1.[^note-38] Weyl (1922a) says:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      黎曼的观念在五十年后由爱因斯坦的广义相对论得到了具体实现。广义相对论的基本观念，是爱因斯坦认识到：对物质有如此强大实在效应的度规场，不可能是一成不变地被给予的时空几何刚性结构，而本身必须是某种实在的东西——它不仅作用于物质，而且反过来也受物质影响。黎曼早已提示，度规场可类比于电磁场而与物质相互作用。爱因斯坦独立于黎曼达到这种物质与场相互作用的观念，并在其广义相对论的语境中把这一相互作用原理应用于四维时空。于是爱因斯坦可以采用黎曼的无穷小几何，但有重要差别：鉴于狭义相对论的因果要求，黎曼的二次型不是正定的而是不定的；其符号差为 1。[^note-38] 外尔（1922a）说：
+    step2: |-
+      五十年后，黎曼的观念在爱因斯坦的广义相对论中获得具体实现。广义相对论的基本观念，在于爱因斯坦认识到：度规场对物质有如此强大的实在效应，它便不可能是一劳永逸地被给予的时空刚性几何结构，其本身必是某种实在之物——不但作用于物质，亦反过来受物质影响。黎曼已然提示：度规场可如电磁场那样与物质相互交感。爱因斯坦独立于黎曼得此交感之见，并在广义相对论语境中把它施于四维时空。于是爱因斯坦可采黎曼的无穷小几何，然有一重要差异：鉴于狭义相对论的因果要求，黎曼的二次型非正定而不定，其符号差为 1。[^note-38] 外尔（1922a）说：
   - id: 109
     kind: body
     source: |-
       > All our considerations until now were based on the assumption, that the metric structure of space is something that is fixed and given. Riemann already pointed to another possibility which was realized through General Relativity. The metrical structure of the extensive medium of the external world is a field of physical reality, which is causally dependent on the state of matter.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我们迄今的一切考虑都基于这样一个假定：空间的度规结构是固定的、被给予的。黎曼已指出了另一种可能性，它通过广义相对论而得到实现。外部世界广延介质的度量结构是一个物理实在的场，它因果地依赖于物质的状态。
+    step2: |-
+      > 我们此前的一切考虑皆本于这一假定：空间之度规结构乃固定而被给予者。黎曼已指出另一种可能，其实现即广义相对论。外部世界广延介质之度量结构，乃一物理实在之场，因果地系于物质之状态。
   - id: 110
     kind: body
     source: |-
       And in another place Weyl (1918b) remarks:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      而在另一处，外尔（1918b）评论道：
+    step2: |-
+      另一处，外尔（1918b）有言：
   - id: 111
     kind: body
     source: |-
       > The metric is not a property of the world [spacetime] in itself, rather spacetime as a form of appearance is a completely formless four-dimensional continuum in the sense of analysis situs, but the metric expresses something real, something which exists in the world, which exerts through centrifugal and gravitational forces physical effects on matter, and whose state is conversely conditioned through the distribution and nature of matter.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 度规不是世界[时空]自身的性质；时空作为显现形式，就位置分析（analysis situs）意义而言是一个完全无形的四维连续统，而度规表达某种实在的东西、某种存在于世界之中的东西：它通过离心力与引力对物质施加物理效应，而它的状态又反过来受物质的分布与性质所制约。
+    step2: |-
+      > 度规并非世界[时空]本身之性质；时空作为显现形式，就地势分析（analysis situs）而言乃是完全无形的四维连续统；度规所表达的则是某种实在之物、某种存于世界之中者：它借离心力与引力对物质施加物理效应，而其状态又反过来受物质之分布与本性所制约。
   - id: 112
     kind: body
     source: |-
       After Einstein applied Riemannian geometry to his theory of general relativity, Riemannian geometry became the focus of intense research. In particular, G. Ricci and T. Levi-Civita’s so-called *Absolute Differential Calculus* developed and clarified the Riemannian notions of an *affine connection* and *covariant differentiation*. The decisive step in this development, however, was T. Levi-Civita’s discovery in 1917 of the concept of *infinitesimal parallel vector displacement*, and the fact that such parallel vector displacement is uniquely determined by the metric field of Riemannian geometry. Levi-Civita’s construction of infinitesimal parallel transport on a manifold required the process of embedding the manifold into a flat higher-dimensional metric space. In 1918, Weyl generalized Levi-Civita’s concept of parallel transport by means of an *intrinsic* construction that does not require the process of such an embedding, and is therefore independent of a metric. Weyl’s intrinsic construction results in a *metric-independent, symmetric linear connection*. Weyl simply referred to the latter as *affine* *connection*.[^note-39]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在爱因斯坦把黎曼几何应用于其广义相对论之后，黎曼几何成为密集研究的焦点。特别是 G. 里奇与 T. 莱维-奇维塔所谓的*绝对微分学*，发展并澄清了黎曼几何中*仿射联络*与*协变微分*的概念。然而这一发展中决定性的步骤，是 T. 莱维-奇维塔 1917 年对*无穷小平行矢量位移*这一概念的发现，以及这样一个事实：此种平行矢量位移由黎曼几何的度规场唯一确定。莱维-奇维塔对流形上无穷小平行移动的构造，需要把流形嵌入一个平坦的高维度规空间的过程。1918 年，外尔以一种*内蕴的*构造推广了莱维-奇维塔的平行移动概念，这种构造不需要这样的嵌入过程，因而独立于度规。外尔的内蕴构造得出一个*度规无关的、对称的线性联络*。外尔径称之为*仿射联络*。[^note-39]
+    step2: |-
+      爱因斯坦把黎曼几何用于广义相对论之后，黎曼几何遂成密集研究之焦点。尤以 G. 里奇与 T. 莱维-奇维塔的所谓*绝对微分学*，发展并厘清了黎曼几何中*仿射联络*与*协变微分*的概念。然而此一发展中决定性的一步，是 T. 莱维-奇维塔 1917 年发现*无穷小平行矢量位移*概念，并揭明此种平行矢量位移由黎曼几何的度规场唯一确定。莱维-奇维塔对流形上无穷小平行移动的构造，须经把流形嵌入一平坦高维度规空间之过程。1918 年，外尔以*内蕴的*构造推广了平行移动概念——此构造无需嵌入，因而独立于度规。外尔的内蕴构造给出*一个与度规无关的对称线性联络*，他径称之为*仿射联络*。[^note-39]
   - id: 113
     kind: body
     source: |-
