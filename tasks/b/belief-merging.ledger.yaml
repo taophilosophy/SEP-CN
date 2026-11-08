@@ -560,101 +560,139 @@ segments:
     kind: body
     source: |-
       A distance *d* between interpretations is a total function $d: W \times W \rightarrow R^{+}$ such that for all $\omega, \omega'\in W$:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      解释之间的距离是总函数 $d: W \times W \rightarrow R^{+}$，使得对所有 $\omega, \omega'\in W$：
+    step2: |-
+      所谓解释之间的距离，是一个全函数 $d: W \times W \rightarrow R^{+}$，且对一切 $\omega, \omega'\in W$ 满足：
   - id: 68
     kind: body
     source: |-
       1. $d(\omega ,\omega') = d(\omega',\omega )$
       2. $d(\omega ,\omega') = 0 \textrm{ iff } \omega =\omega'$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. $d(\omega ,\omega') = d(\omega',\omega )$
+      2. $d(\omega ,\omega') = 0 \textrm{ 当且仅当 } \omega =\omega'$。
+    step2: |-
+      1. $d(\omega ,\omega') = d(\omega',\omega )$
+      2. $d(\omega ,\omega') = 0 \textrm{ 当且仅当 } \omega =\omega'$。
   - id: 69
     kind: body
     source: |-
       The first point states that the distance is symmetric. Suppose there are three belief bases: $K_1 = K_3 = \{a, b, \neg c, d\}$ and $K_2 = \{\neg a, b, c, d\}$. If we denote by $\omega_i$ the interpretation of $K_i$, we have $\omega_1 = \omega_3 = (1,1,0,1)$ and $\omega_2 = (0,1,1,1)$. The first point requires that $d(\omega_1 ,\omega_2) = d(\omega_2 ,\omega_1)$. The second point states that if two interpretations are identical, the distance is 0, so $d(\omega_1 ,\omega_3) = 0$.[^note-2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第一点陈述距离是对称的。设三个信念基：$K_1 = K_3 = \{a, b, \neg c, d\}$ 与 $K_2 = \{\neg a, b, c, d\}$。若以 $\omega_i$ 记 $K_i$ 的解释，我们有 $\omega_1 = \omega_3 = (1,1,0,1)$ 与 $\omega_2 = (0,1,1,1)$。第一点要求 $d(\omega_1 ,\omega_2) = d(\omega_2 ,\omega_1)$。第二点陈述：若两个解释相同，则距离为 0，故 $d(\omega_1 ,\omega_3) = 0$。[^note-2]
+    step2: |-
+      第一点说的就是距离的对称性。设有三个信念基：$K_1 = K_3 = \{a, b, \neg c, d\}$ 与 $K_2 = \{\neg a, b, c, d\}$。以 $\omega_i$ 记 $K_i$ 的解释，则 $\omega_1 = \omega_3 = (1,1,0,1)$、$\omega_2 = (0,1,1,1)$。第一点要求 $d(\omega_1 ,\omega_2) = d(\omega_2 ,\omega_1)$。第二点则说：两个解释若相同，距离即为 0，于是 $d(\omega_1 ,\omega_3) = 0$。[^note-2]
   - id: 70
     kind: body
     source: |-
       Two steps are needed to find the models of *IC* that minimize the distances to the belief profile. In the first step, we calculate the distance between each interpretation satisfying *IC* (that is, each candidate merged base) and each individual belief base. The intuition here is to quantify how far each individual opinion is from each possible collective outcome (recall that the outcomes will be selected among the interpretations satisfying *IC*). In the second step, we need to aggregate all those individual distances to define the collective distance, that is, the distance of the belief profile to each model of *IC*. This amounts to quantify how far the group is from each possible outcome. Finally, the (possibly more than one) base that minimizes such distance is selected as an outcome.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      找出使得到信念剖面距离最小的 *IC* 模型需要两步。第一步，我们计算每个满足 *IC* 的解释（即每个候选合并基）与每个个体信念基之间的距离。此处的直觉是量化每个个体意见距每个可能集体结果有多远（回想：结果将在满足 *IC* 的解释中选取）。第二步，我们须聚合所有这些个体距离以界定集体距离，即信念剖面到 *IC* 每个模型的距离。这相当于量化群体距每个可能结果有多远。最后，使这一距离最小的（可能不止一个）基被选为结果。
+    step2: |-
+      要找出使得到信念剖面距离最小的 *IC* 模型，须分两步走。第一步，算出每个满足 *IC* 的解释（亦即每个候选合并基）与每个个体信念基之间的距离。此处的用意，是把每个个体意见距每个可能集体结果多远加以量化（须知结果是在满足 *IC* 的解释中选取的）。第二步，把上述各个体距离聚合起来，界定集体距离，即信念剖面到 *IC* 每一模型的距离——这相当于量化群体距每一可能结果多远。末了，使此距离最小者（或许不止一个基）入选为结果。
   - id: 71
     kind: body
     source: |-
       For the first step, we need to define the distance between an interpretation $\omega$ and a belief base *K*. This is the minimal distance between $\omega$ and the models of *K*. Formally: $d(\omega, K) = \mymin_{\omega'\in \mymod(K)} d(\omega, \omega')$. If *K* has more than one model (e.g., $K_i = \{a \vee b\}$ has three models: $\{(0,1) (1,0), (1,1)\}$), $\omega'$ will be the closest to $\omega$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对第一步，我们须界定解释 $\omega$ 与信念基 *K* 之间的距离。这是 $\omega$ 与 *K* 的诸模型之间的最小距离。形式上：$d(\omega, K) = \mymin_{\omega'\in \mymod(K)} d(\omega, \omega')$。若 *K* 不止一个模型（例如 $K_i = \{a \vee b\}$ 有三个模型：$\{(0,1) (1,0), (1,1)\}$），$\omega'$ 将取离 $\omega$ 最近者。
+    step2: |-
+      第一步要界定的是解释 $\omega$ 与信念基 *K* 之间的距离，即 $\omega$ 到 *K* 诸模型的最短距离。形式写作：$d(\omega, K) = \mymin_{\omega'\in \mymod(K)} d(\omega, \omega')$。倘若 *K* 有两个以上模型（譬如 $K_i = \{a \vee b\}$ 便有 $\{(0,1) (1,0), (1,1)\}$ 三个模型），则 $\omega'$ 取距 $\omega$ 最近的那个。
   - id: 72
     kind: body
     source: |-
       We can now define the distance between an interpretation $\omega$ and a belief profile *E*, which is needed for the second step. We need an aggregation function $D: R^{+n} \rightarrow R^{+}$ that takes the distances between the models of *IC* and the belief bases $K_i$ calculated in the first step, and aggregate them into a collective distance. This is: $D(\omega, E) = D(d(\omega, K_1)$, $d(\omega, K_2)$, $\ldots$, $d(\omega, K_n))$. A total pre-order over the set *W* of all interpretations is thus obtained. The merging operator can now select all interpretations that minimize the distance to the profile *E*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在我们可以界定解释 $\omega$ 与信念剖面 *E* 之间的距离，这是第二步所需要的。我们需要一个聚合函数 $D: R^{+n} \rightarrow R^{+}$，它取第一步所算出的 *IC* 模型与信念基 $K_i$ 之间的距离，并把它们聚合为集体距离。即：$D(\omega, E) = D(d(\omega, K_1)$, $d(\omega, K_2)$, $\ldots$, $d(\omega, K_n))$。这样便得到一切解释之集 *W* 上的全预序。合并算子现在可以选取所有使得到剖面 *E* 的距离最小的解释。
+    step2: |-
+      如今可以界定解释 $\omega$ 与信念剖面 *E* 之间的距离了，第二步正需要此物。所需者是一个聚合函数 $D: R^{+n} \rightarrow R^{+}$：它接受第一步所算出的 *IC* 诸模型与各信念基 $K_i$ 之间的距离，把它们聚合成一个集体距离，即 $D(\omega, E) = D(d(\omega, K_1)$, $d(\omega, K_2)$, $\ldots$, $d(\omega, K_n))$。如此便在一切解释之集 *W* 上得了全预序。合并算子于是可以挑出所有使得到剖面 *E* 距离最小的解释。
   - id: 73
     kind: body
     source: |-
       Technically, an aggregation function $D: R^{+n} \rightarrow R^{+}$ assigns a nonnegative real number to every n-ary tuple of nonnegative real numbers. For any $x_1,\ldots, x_{n}, x, y \in R^{+}, D$ satisfies the following properties:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      技术上，聚合函数 $D: R^{+n} \rightarrow R^{+}$ 为每个非负实数 *n* 元组指派一个非负实数。对任意 $x_1,\ldots, x_{n}, x, y \in R^{+}$，$D$ 满足以下性质：
+    step2: |-
+      就技术而言，聚合函数 $D: R^{+n} \rightarrow R^{+}$ 给每个非负实数的 *n* 元组指派一个非负实数。对任意的 $x_1,\ldots, x_{n}, x, y \in R^{+}$，D 具备如下性质：
   - id: 74
     kind: body
     source: |-
       1. if $x\ge y$, then $D(x_1,\ldots , x,\ldots , x_{n})\ge D(x_1,\ldots , y,\ldots , x_{n})$
       2. $D(x_1,\ldots , x,\ldots , x_{n})=0$ if and only if $x_1=\ldots =x_{n}=0$
       3. $D(x)=x$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 若 $x\ge y$，则 $D(x_1,\ldots , x,\ldots , x_{n})\ge D(x_1,\ldots , y,\ldots , x_{n})$
+      2. $D(x_1,\ldots , x,\ldots , x_{n})=0$ 当且仅当 $x_1=\ldots =x_{n}=0$
+      3. $D(x)=x$
+    step2: |-
+      1. 若 $x\ge y$，则 $D(x_1,\ldots , x,\ldots , x_{n})\ge D(x_1,\ldots , y,\ldots , x_{n})$
+      2. $D(x_1,\ldots , x,\ldots , x_{n})=0$ 当且仅当 $x_1=\ldots =x_{n}=0$
+      3. $D(x)=x$
   - id: 75
     kind: body
     source: |-
       The outcome of the merging operator clearly depends on the chosen distance functions *d* and *D*. Among the first proposals (Lin and Mendelzon 1999; Revesz 1993)[^lin-1999][^revesz-1993] it was to adopt the *Hamming distance* (defined below) for *d* and the *sum* or the *max* for *D* (denoted respectively $D_{\Sigma}$ and $D_{\mymax}$).[^note-3] When *D* is the sum, the global distance is obtained by summing the individual ones. The corresponding merging operator is a majority operator and is called *minisum* as it will select those interpretations that minimize the sum. The merging operator that uses $D_{\mymax}$ is known as *minimax* and outputs the judgment set that minimizes the maximal distance to the individual bases (Brams et al. 2007b)[^brams-2007b]. Intuitively, *minimax* aims at minimizing the disagreement with the most dissatisfied individual. Two opposite outcomes may be selected when $D_{\Sigma}$ or $D_{\mymax}$ is used (Brams et al. 2007b; Eckert and Klamler 2007)[^brams-2007b][^eckert-2007].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      合并算子的结果显然取决于所选的诸距离函数 *d* 与 *D*。最早的一些方案（Lin and Mendelzon 1999; Revesz 1993）[^lin-1999][^revesz-1993]采取的是：对 *d* 采用汉明距离（下文定义），对 *D* 采用求和或取最大（分别记作 $D_{\Sigma}$ 与 $D_{\mymax}$）。[^note-3] 当 *D* 为求和时，全局距离由个体距离相加得到。相应的合并算子是多数算子，称为最小和算子，因为它将选取使和最小的那些解释。使用 $D_{\mymax}$ 的合并算子称为最小最大算子，它输出使得到诸个体基的最大距离最小的判断集（Brams et al. 2007b）[^brams-2007b]。直观上，最小最大算子旨在使与最不满的个体的分歧最小化。使用 $D_{\Sigma}$ 或 $D_{\mymax}$ 时可能选出两个相反的结果（Brams et al. 2007b; Eckert and Klamler 2007）[^brams-2007b][^eckert-2007]。
+    step2: |-
+      合并算子得出何种结果，显然系于所择取的诸距离函数 *d* 与 *D*。最早的一批方案（Lin and Mendelzon 1999; Revesz 1993）[^lin-1999][^revesz-1993]取 *d* 为汉明距离（定义见下），取 *D* 为求和或取最大值（分别记作 $D_{\Sigma}$ 与 $D_{\mymax}$）。[^note-3] *D* 若取求和，全局距离便是诸个体距离之和；相应的合并算子是多数算子，人称最小和算子，因为它专挑使和最小的解释。用 $D_{\mymax}$ 的合并算子则称最小最大算子，所输出者是使得到诸个体基的最大距离最小的判断集（Brams et al. 2007b）[^brams-2007b]。其用意在于让与最不满者的分歧降至最低。采用 $D_{\Sigma}$ 或 $D_{\mymax}$ 时，入选者可能恰是两个相反的结果（Brams et al. 2007b; Eckert and Klamler 2007）[^brams-2007b][^eckert-2007]。
   - id: 76
     kind: body
     source: |-
       The Hamming distance was a commonly used distance in belief revision. The idea is simple. The Hamming distance counts the number of propositional letters on which two interpretations differ. So, for example, if $\omega = (1, 0, 0)$ and $\omega' = (0, 1, 0)$, we have that $d(\omega, \omega') = 2$ as the two interpretations differ on the assignment to the first and the second propositions. Also well known is the *drastic distance*, which assigns distance 0 if two interpretations are the same and 1 otherwise. But the choice of the distance is not restricted to those options. Other distances can be used, that still satisfy the postulates given above (Konieczny and Pino Pérez 1999, 2002)[^konieczny-1999]. The minimization of the sum of the individual distances is an example of an *IC* majority merging operator. In the next section, we will see this operator applied to the discursive dilemma.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      汉明距离是信念修正中常用的距离。其想法很简单：汉明距离清点两个解释在其中有所不同的命题字母的数目。例如，若 $\omega = (1, 0, 0)$ 且 $\omega' = (0, 1, 0)$，则 $d(\omega, \omega') = 2$，因为两个解释对第一与第二个命题的指派不同。同样著名的是极端距离，它若两个解释相同则赋距离 0，否则赋 1。但距离的选择并不限于这些选项。还可以使用其他仍然满足上述公设的距离（Konieczny and Pino Pérez 1999, 2002）[^konieczny-1999]。个体距离之和的最小化是 *IC* 多数合并算子的一个例子。下一节我们将看到这一算子应用于论辩困境。
+    step2: |-
+      汉明距离在信念修正中一向常用，其想法至为浅显：它数一数两个解释在几个命题字母上取值不同。比如 $\omega = (1, 0, 0)$ 与 $\omega' = (0, 1, 0)$，两解释对第一、第二个命题的指派互异，故 $d(\omega, \omega') = 2$。同样著称的是极端距离：两解释相同则距为 0，否则为 1。然而距离之择取并不限于此二者，尚有其他距离同样满足前述公设（Konieczny and Pino Pérez 1999, 2002）[^konieczny-1999]。把诸个体距离之和降至最小，便是 *IC* 多数合并算子的一例。下节将见此算子施用于论辩困境。
   - id: 77
     kind: body
     source: |-
       The distance-based approach can clarify the distinction between arbitration and majority operators. *Leximax* is an example of arbitration operator. A *leximax* operator may take *d* as the Hamming distance and, for each interpretation, the distances between that interpretation and the *n* bases $K_i$ form a list. A pre-order over interpretations is defined by taking the lexicographical order between sequences of distances, fixing an order over the set of agents. Finally, $D_{\textit{leximax}}$ selects the minimum. The intuition is that, unlike a majority operator that selects the option that minimizes the *total* disagreement (by minimizing the sum of the individual distances, for example), an arbitration operator looks at the *distribution* of such disagreement and selects the option that is fairer to all individuals, that is, it aims at equally distributing the individual dissatisfaction with the chosen outcome (recall the birthday gift example above). This follows from the definition of the Hamming distance: the larger the Hamming distance, the more disagreement there is between two interpretations (here disagreement simply means that the interpretations assign different truth values to the same formula). Suppose that a belief profile *E* has three bases. Suppose as well that the distances from the two models of *IC* ($\omega$ and $\omega'$) are $D_{\Sigma} (\omega, E) = D_{\Sigma} (\omega', E) = 6$ when we take the sum of the Hamming distances, and $D_{\textit{leximax}}(\omega, E)= (2,2,2)$ and $D_{\textit{leximax}}(\omega', E)= (5,1,0)$ when we take the lexicographic order on the distances. In this example, the majority operator cannot distinguish between $\omega$ and $\omega'$ (because in both cases the sum is 6), while the arbitration operator will prefer $\omega$ to $\omega'$ as $\omega$ distributes the individual disagreement in a fairer way than $\omega'$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      基于距离的进路可以澄清仲裁算子与多数算子之间的区分。词典最大是一个仲裁算子的例子。词典最大算子可取 *d* 为汉明距离，并对每个解释，把该解释与 *n* 个基 $K_i$ 之间的距离排成一个序列。解释上的预序由距离序列之间的词典序来界定，需先固定智能体集上的一个次序。最后，$D_{\textit{leximax}}$ 选取最小值。其直觉是：多数算子选取使总体分歧最小的选项（例如通过最小化个体距离之和），而仲裁算子则着眼于这种分歧的分布，选取对所有个体更公平的选项，即旨在把对所选结果的个体不满平均分配（回想前面生日礼物的例子）。这一点由汉明距离的定义而来：汉明距离越大，两个解释之间的分歧越大（这里的“分歧”只意味着两解释对同一公式赋予不同真值）。设信念剖面 *E* 有三个基。再设取汉明距离之和时，*IC* 的两个模型（$\omega$ 与 $\omega'$）的距离为 $D_{\Sigma} (\omega, E) = D_{\Sigma} (\omega', E) = 6$，而取距离上的词典序时 $D_{\textit{leximax}}(\omega, E)= (2,2,2)$ 与 $D_{\textit{leximax}}(\omega', E)= (5,1,0)$。在此例中，多数算子无法区分 $\omega$ 与 $\omega'$（因为两者之和都是 6），而仲裁算子将偏好 $\omega$ 甚于 $\omega'$，因为 $\omega$ 比 $\omega'$ 更公平地分配了个体分歧。
+    step2: |-
+      基于距离的进路，恰好把仲裁算子与多数算子之别点破。词典最大算子即仲裁算子之一例。它可取 *d* 为汉明距离，并将每个解释到 *n* 个基 $K_i$ 的距离列成一个序列；先在智能体集上定一个次序，再以诸距离序列之间的词典序界定解释上的预序；最终由 $D_{\textit{leximax}}$ 取最小值。其用意在于：多数算子拣选使总体分歧最小的方案（例如把个体距离之和压至最低），仲裁算子却注目于分歧如何分布，拣选对众人较为公平的方案——换言之，务使各人对所选结果的不满大致均分（请回想前举生日礼物之例）。此点本乎汉明距离的定义：距离越大，两解释分歧越深（此所谓“分歧”，仅指两解释给同一公式指派了不同真值）。设信念剖面 *E* 含三个基，又设 *IC* 的两个模型 $\omega$ 与 $\omega'$ 在汉明距离求和之下皆为 $D_{\Sigma} (\omega, E) = D_{\Sigma} (\omega', E) = 6$，而在距离的词典序之下则分别为 $D_{\textit{leximax}}(\omega, E)= (2,2,2)$ 与 $D_{\textit{leximax}}(\omega', E)= (5,1,0)$。此时多数算子无从分辨 $\omega$ 与 $\omega'$（两者之和同为 6），仲裁算子却宁取 $\omega$ 而舍 $\omega'$，盖 $\omega$ 分配个体分歧比 $\omega'$ 更为公允。
   - id: 78
     kind: body
     source: |-
       As mentioned earlier, Liberatore and Schaerf were among the first to propose arbitration operators. However, their approach was limited to only two bases, and the result of the merge was one of the two bases. Such operator would give questionable results in some situations, like the one in (Konieczny and Pino Pérez 2002)[^konieczny-2002]. Suppose that two financial experts give you advice regarding four shares *a, b, c* and *d*. According to the first expert, all four shares are going to rise (denoted by $\varphi_1= \{(1, 1, 1, 1)\}$, whereas the second expert deems that all four shares will fall $(\varphi_{2}= \{(0, 0, 0, 0)\})$. According to Liberatore and Schaerf’s arbitration operator, the result will be $\{(1, 1, 1, 1), (0, 0, 0, 0)\},$ which means that either the first or the second expert is totally right. If, on the other hand, we apply an arbitration operator *à la* Konieczny and Pino Pérez, we obtain $\{(0, 0, 1, 1)$, $(0, 1, 0, 1)$, $(0, 1, 1, 0)$, $(1, 0, 0, 1)$, $(1, 0, 1, 0)$, $(1, 1, 0, 0)\}$. This result can be interpreted as that—if we assume that all sources are equally reliable—we do not have any reason to prefer one or another and, so a reasonable position is to conclude that both can be equally right. Still, Liberatore and Schaerf’s operator may be used in all situations where the result can be only one of the bases submitted by the individuals. For example, if two doctors meet in order to decide a patient’s therapy, they likely have to decide in favour of one of the two proposals as mixing therapies may not be a feasible nor a safe option.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如前所述，Liberatore 与 Schaerf 是最早提出仲裁算子者之一。然而他们的进路仅限于两个基，且合并结果就是两个基之一。这样的算子在某些情形下会给出可疑的结果，例如（Konieczny and Pino Pérez 2002）[^konieczny-2002]中的一例。设两位金融专家就四支股票 *a, b, c* 与 *d* 给你建议。按第一位专家，四支股票都将上涨（记作 $\varphi_1= \{(1, 1, 1, 1)\}$），而第二位专家认为四支都将下跌 $(\varphi_{2}= \{(0, 0, 0, 0)\})$。按 Liberatore 与 Schaerf 的仲裁算子，结果将是 $\{(1, 1, 1, 1), (0, 0, 0, 0)\},$ 这意味着或者第一位或者第二位专家完全正确。另一方面，若我们应用 Konieczny 与 Pino Pérez 式的仲裁算子，则得到 $\{(0, 0, 1, 1)$, $(0, 1, 0, 1)$, $(0, 1, 1, 0)$, $(1, 0, 0, 1)$, $(1, 0, 1, 0)$, $(1, 1, 0, 0)\}$。这一结果可解释为：若假定一切来源同等可靠，我们便无理由偏好这一方或那一方，因而一个合理的立场是断定两者可能同等正确。不过，凡结果只能取个体所提交诸基之一的情形，仍可使用 Liberatore 与 Schaerf 的算子。例如，若两位医生会诊以决定病人的疗法，他们很可能须赞成两项方案之一，因为混合疗法可能既不可行也不安全。
+    step2: |-
+      前已提及，Liberatore 与 Schaerf 乃最早倡议仲裁算子者之一。可惜其进路只容两个基，且合并所得必为二基之一。这类算子在某些场合会给出可疑结果，例如（Konieczny and Pino Pérez 2002）[^konieczny-2002]所举者。设两位金融专家就四支股票 *a, b, c*、*d* 为你献策。第一位认为四支皆涨（记作 $\varphi_1= \{(1, 1, 1, 1)\}$），第二位则断定四支皆跌 $(\varphi_{2}= \{(0, 0, 0, 0)\})$。依 Liberatore 与 Schaerf 的仲裁算子，所得为 $\{(1, 1, 1, 1), (0, 0, 0, 0)\},$ 意即第一位或第二位专家完全说对了。反之，若施用 Konieczny 与 Pino Pérez 式的仲裁算子，则有 $\{(0, 0, 1, 1)$, $(0, 1, 0, 1)$, $(0, 1, 1, 0)$, $(1, 0, 0, 1)$, $(1, 0, 1, 0)$, $(1, 1, 0, 0)\}$。此结果可解为：既假定诸来源同样可靠，我们便无可偏袒，于是合理的立场是两说或将同真。话虽如此，凡结果只能取诸个体所提基之一者，Liberatore 与 Schaerf 的算子仍可一用。譬如两位医生会诊商定病人疗法，多半须择定两种方案之一，因为把疗法混杂起来既未必可行，又不免危险。
   - id: 79
     kind: body
     source: |-
       A representation theorem (Konieczny and Pino Pérez 1999, 2002)[^konieczny-1999] ensures that to each sub-class of *IC* merging operators (majority and arbitration operators) corresponds a family of pre-orders on interpretations (mirroring a similar representation theorem that Katsuno and Mendelzon (1991) proved for belief revision operators).[^note-4]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个表示定理（Konieczny and Pino Pérez 1999, 2002）[^konieczny-1999]保证，*IC* 合并算子的每个子类（多数算子与仲裁算子）都对应解释上一族预序（这呼应 Katsuno 与 Mendelzon（1991）为信念修正算子所证明的类似表示定理）。[^note-4]
+    step2: |-
+      有一条表示定理（Konieczny and Pino Pérez 1999, 2002）[^konieczny-1999]保证：*IC* 合并算子的每一子类（多数算子与仲裁算子）皆对应于解释上之一族预序（此与 Katsuno、Mendelzon（1991）为信念修正算子所证的表示定理相映）。[^note-4]
   - id: 80
     kind: body
     source: |-
       Let us now illustrate how belief merging can be applied to judgment aggregation problems.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在让我们说明信念合并如何应用于判断聚合问题。
+    step2: |-
+      下面说明信念合并如何施用于判断聚合问题。
   - id: 81
     kind: body
     source: |-
       ## 3. Belief merging applied to the discursive dilemma
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 信念合并在论辩困境上的应用
+    step2: |-
+      ## 3. 信念合并在论辩困境上的应用
   - id: 82
     kind: body
     source: |-
       The merging of individual belief bases into a collective one shares similarities to the judgment aggregation problem. In both cases, we wish to aggregate individual inputs into a group outcome, and both disciplines employ logic to formalize the bases’ contents. As we have seen in Section 1, no aggregation procedure can ensure a consistent and complete group judgment. However, the merging operators introduced in computer science ensure a consistent outcome because such operators do not satisfy independence. The collective judgment on a proposition is not only determined by the individual judgments on that proposition but also by considerations of *all* other agenda’s items. It is natural to apply the results about merging methods to the aggregation of individual judgments (Pigozzi 2006)[^pigozzi-2006].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把个体信念基合并为集体基与判断聚合问题有相似之处。在两种情形中，我们都希望把个体输入聚合为群体结果，而两个学科都运用逻辑来形式化基的内容。如 §1 所见，没有任何聚合程序能保证融贯且完备的群体判断。然而计算机科学中引入的合并算子能保证融贯的结果，因为这类算子不满足独立性。关于某一命题的集体判断不仅由个体对该命题的判断决定，也由对议程中所有其他条目的考量决定。把合并方法的成果应用于个体判断的聚合是自然之举（Pigozzi 2006）[^pigozzi-2006]。
+    step2: |-
+      把个体信念基合并为集体基，与判断聚合问题颇有相通之处：两者都欲把个体输入聚合成群体结果，且都借逻辑来形式化各基的内容。如第 1 节所示，没有哪种聚合程序能确保群体判断既融贯又完备。然而计算机科学所引入的合并算子却能保证结果融贯，因为这类算子不满足独立性——某命题上的集体判断，不只取决于个体就该命题的判断，还取决于对议程中 *一切* 其他条目的考量。因此，把合并方法的研究成果移用于个体判断的聚合，乃是顺理成章的（Pigozzi 2006）[^pigozzi-2006]。
   - id: 83
     kind: body
     source: |-
