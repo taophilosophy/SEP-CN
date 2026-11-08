@@ -2900,6 +2900,18 @@
 | disability rights movement | — | 残疾权利运动 | disability | 本词条译名；专名如《残疾人权利公约》从通行译名不随域改（ADR-0025 第 3 条）；凭证 2026-11-09 | 2026-11-09 |
 | model system | — | 模式系统 | model-organisms 首译 | 学界通行译名（生物学与生物医学文献，与模式生物并用）；凭证 2026-11-09 | 2026-11-09 |
 | repertoire | — | 本领库 | model-organisms 首译 | 本词条术语（Ankeny & Leonelli 的 repertoire，指一生物可资利用的性状与知识储备全库）；凭证 2026-11-09 | 2026-11-09 |
+| minimal model organism | — | 最低限度模式生物 | model-organisms 首译 | 本词条术语（只满足单一标准者，与复杂模式生物对举）；凭证 2026-11-09 | 2026-11-09 |
+| complex model organism | — | 复杂模式生物 | model-organisms 首译 | 本词条术语（按多重标准界定者）；凭证 2026-11-09 | 2026-11-09 |
+| tractability | — | 可操作性 | model-organisms 首译 | 生物学哲学通行译名（指生物易于实验操作与饲养）；凭证 2026-11-09 | 2026-11-09 |
+| surrogate | — | 替代物 | model-organisms 首译 | 科学哲学通行译名（model as surrogate 替代模型）；凭证 2026-11-09 | 2026-11-09 |
+| exploratory model | — | 探索性模型 | model-organisms 首译 | 科学哲学通行译名（Gelfert 等文献）；凭证 2026-11-09 | 2026-11-09 |
+| negative model | — | 负模型 | model-organisms 首译 | 本词条术语（用于否定性推断的模型）；凭证 2026-11-09 | 2026-11-09 |
+| interpretive key | — | 解释键 | model-organisms 首译 | 本词条术语（Sartori 的 interpretive key，与 DEKI 的 key 同源）；凭证 2026-11-09 | 2026-11-09 |
+| DEKI framework | — | DEKI 框架 | model-organisms 首译 | 科学哲学通行（Frigg & Nguyen 的 denote-exemplify-key-impute 四要素框架，缩略语保留）；凭证 2026-11-09 | 2026-11-09 |
+| specimen | — | 标本 | model-organisms 首译 | 生物学通行译名（Levy & Currie 的 specimen 进路）；凭证 2026-11-09 | 2026-11-09 |
+| basal cognition | — | 基础认知 | model-organisms 首译 | 认知科学通行译名（basal cognition 研究纲领）；凭证 2026-11-09 | 2026-11-09 |
+| phylogenetic relatedness | — | 系统发生亲缘关系 | model-organisms 首译 | 进化生物学通行译名；凭证 2026-11-09 | 2026-11-09 |
+| reflective equilibrium | — | 反思平衡 | model-organisms 首译 | 哲学通行译名（罗尔斯；Rawls 1971）；凭证 2026-11-09 | 2026-11-09 |
 | explanatory realism | — | 说明性实在论 | cosmology-30s 首译 | 科学哲学通行（实在论之说明形态；本词条 Eddington 阵营立场名，与 anti-realism 反实在论同族）；凭证 2026-11-09 | 2026-11-09 |
 | red shift | — | 红移 | cosmology-30s 首译 | 天体物理通行（Hubble 1929 观测；全库另有 2 词条同形使用，语料回收一致）；凭证 2026-11-09 | 2026-11-09 |
 | spin | — | 自旋 | qt-entangle | 审定名词库（物理学名词 spin）；凭证 2026-11-09 | 2026-11-09 |

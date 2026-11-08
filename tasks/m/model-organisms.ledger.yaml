@@ -123,86 +123,114 @@ segments:
     kind: body
     source: |-
       Because there are many other uses for experimental organisms and because the term “model organism” is liberally used in biology, we find it appropriate to refer to all organisms that satisfy a modeling relation as model organisms, where model organisms serve as a source for a target. However, to preserve the variable ways in which model organisms acquire epistemic value, those satisfying single criteria, such as representation alone, may be referred to as minimal model organisms, whereas those accounts that define model organisms by multiple criteria can be referred to as complex model organisms (see Figure 1). More complex definitions of model organisms often include features such as the tractability of an organism, the infrastructure costs of maintaining such organisms, and the breadth of the organism’s representational scope. Many biologists define model organisms using a set of features (Russell et al. 2017, Farris 2020, Wittbrodt et al. 2002)[^farris-2020][^russell-2017][^wittbrodt-2002]. Some philosophers, however, seem to apply a simpler definition when they consider model organisms as models (Frigg 2023, 401; Sartori 2023, 1)[^frigg-2023][^sartori-2023]. The boundary between model organisms and non-model organisms is also not fixed, because an organism can serve as a model at one point in time and as non-model at some other point in time depending on its research context.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由于实验生物还有许多其他用途，而且“模式生物”一词在生物学中被宽松地使用，我们认为，把一切满足某种建模关系的生物都称为模式生物是恰当的，其中模式生物充当目标的来源。不过，为了保留模式生物获得认知价值的不同方式，那些只满足单一标准（例如仅满足表征）的，可以称为最低限度模式生物；而那些以多重标准界定模式生物的说明，则可以称为复杂模式生物（见图 1）。模式生物的更复杂定义往往包括这样的特征：生物的可操作性、维持这类生物的基础设施成本，以及该生物表征范围的广度。许多生物学家用一组特征来定义模式生物（Russell et al. 2017, Farris 2020, Wittbrodt et al. 2002）[^farris-2020][^russell-2017][^wittbrodt-2002]。然而，一些哲学家在把模式生物当作模型时，似乎采用了一种更简单的定义（Frigg 2023, 401; Sartori 2023, 1）[^frigg-2023][^sartori-2023]。模式生物与非模式生物之间的界限也不是固定的，因为一个生物可以在某一时点作为模型，在另一时点作为非模型，取决于其研究语境。
+    step2: |-
+      实验生物的用处很多，加上“模式生物”一词在生物学里用得宽松，我们不妨把一切满足某种建模关系的生物都叫作模式生物——它们充当目标之所本。不过，模式生物获得认知价值的方式各不相同，为保住这一点，那些只凭单一标准（例如单凭表征）就算数的，不妨称为最低限度模式生物；那些按多重标准来界定的说明，则称为复杂模式生物（见图 1）。模式生物的定义越复杂，越常把这类特征算进去：生物是否易于操作，维持它要花多少基础设施成本，以及它的表征范围有多宽。许多生物学家就用一组特征来定义模式生物（Russell et al. 2017, Farris 2020, Wittbrodt et al. 2002）[^farris-2020][^russell-2017][^wittbrodt-2002]。可有些哲学家在把模式生物当模型看时，用的却是更简单的定义（Frigg 2023, 401; Sartori 2023, 1）[^frigg-2023][^sartori-2023]。模式生物与非模式生物的界线同样不固定：同一生物可以在某个时点是模型，换个时点又不是，全看研究语境。
   - id: 16
     kind: body
     source: |-
       Below we survey the various ways that model organisms have been treated as models within philosophical and scientific contexts, including accounts of models as surrogates, exploratory models, and negative models. These accounts are not mutually exclusive. As will become evident, model organisms can be any combination of negative, surrogate, or exploratory models.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      下面我们梳理模式生物在哲学与科学语境中被当作模型的各种方式，包括把模型看作替代物、探索性模型和负模型的说明。这些说明并不互斥。下文将会看到，模式生物可以是负模型、替代物或探索性模型的任意组合。
+    step2: |-
+      下面我们逐一梳理模式生物在哲学与科学语境中被当作模型的种种方式：把模型看作替代物、探索性模型、负模型的说明，都在其列。这些说法彼此并不排斥。下文会看到，模式生物可以同时是负模型、替代物或探索性模型，组合方式不拘。
   - id: 17
     kind: body
     source: |-
       ### 2.1 Model Organisms and The Question of Representation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 模式生物与表征问题
+    step2: |-
+      ### 2.1 模式生物与表征问题
   - id: 18
     kind: body
     source: |-
       Whether and how models represent their target systems remains an open philosophical problem (Frigg and Hartmann 2025)[^frigg-2025]. Do model organisms satisfy the same representational criteria as theoretical models– for example, in the same way that dynamical equations represent fluid motion or where neural networks represent cognitive processes?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      模型是否表征其目标系统、以及如何表征，仍是一个悬而未决的哲学问题（Frigg and Hartmann 2025）[^frigg-2025]。模式生物是否满足与理论模型相同的表征标准——例如，就像动力学方程表征流体运动、神经网络表征认知过程那样？
+    step2: |-
+      模型是否表征其目标系统、又如何表征，至今仍是悬而未决的哲学问题（Frigg and Hartmann 2025）[^frigg-2025]。模式生物满足的，是同理论模型一样的表征标准吗？比如动力学方程表征流体运动、神经网络表征认知过程所用的那种标准。
   - id: 19
     kind: body
     source: |-
       Ankeny and Leonelli offer one influential way of addressing this question by characterizing model organisms in terms of their representational scope and representational target (Ankeny and Leonelli 2020)[^ankeny-2020]. In the simplest case, a species A is a model for another species B, if A has a property, p, that represents a feature of B. Representational scope captures how many different species, B, can be modeled by A, while the representation target refers to the properties or phenomena, p, that are represented in both species A and B. Scope may range from one species to many, and the target may range from a single phenomenon to a broad set of organism features.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Ankeny 和 Leonelli 提供了一个有影响的方式来回答这个问题：以表征范围和表征目标来刻画模式生物（Ankeny and Leonelli 2020）[^ankeny-2020]。在最简单的情形中，如果一个物种 A 具有某种属性 p，而 p 表征物种 B 的某个特征，那么 A 就是 B 的模型。表征范围刻画的是 A 能为多少个不同物种 B 建模，而表征目标指的是在物种 A 和 B 中被表征的属性或现象 p。范围可以从一个物种到许多物种，目标可以从单一现象到广泛的一组生物特征。
+    step2: |-
+      Ankeny 与 Leonelli 给出了一个颇有影响的回答：用表征范围与表征目标来刻画模式生物（Ankeny and Leonelli 2020）[^ankeny-2020]。最简单的情形是：物种 A 具有属性 p，而 p 表征物种 B 的某个特征，A 便是 B 的模型。表征范围说的是 A 能为多少个不同的物种 B 建模；表征目标指的则是 A 与 B 中被表征的属性或现象 p。范围可从一个物种直至许多物种，目标可从单一现象直至一大组生物特征。
   - id: 20
     kind: body
     source: |-
       This account supports treating model organisms as something similar to theoretical models by drawing on Frigg and Nguyen’s DEKI framework for scientific representation (Frigg and Nguyen 2021; Frigg and Hartmann 2025)[^frigg-2025][^frigg-2021]. On the DEKI model, a model denotes a target system (D), exemplifies relevant features (E), provides a key or mapping rule linking those features to the target (K), and imputes them to the target (I) to generate information about it. Interpreted through DEKI, model organisms denote biological targets, exemplify experimentally accessible traits, rely on interpretive keys supplied by experimental practice, and license inferences about the target systems (Frigg and Nguyen 2021)[^frigg-2021].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一说明通过借助 Frigg 和 Nguyen 关于科学表征的 DEKI 框架，支持把模式生物当作类似于理论模型的东西来处理（Frigg and Nguyen 2021; Frigg and Hartmann 2025）[^frigg-2025][^frigg-2021]。在 DEKI 模型中，一个模型指称一个目标系统（D），例示相关的特征（E），提供把这些特征与目标联系起来的键或映射规则（K），并把它们归予目标（I），以生成关于目标的信息。以 DEKI 来解读，模式生物指称生物学目标，例示可在实验上通达的性状，依靠实验实践所提供的解释键，并许可关于目标系统的推断（Frigg and Nguyen 2021）[^frigg-2021]。
+    step2: |-
+      这一说明借用了 Frigg 与 Nguyen 的科学表征 DEKI 框架，从而支持把模式生物看作与理论模型相类的东西（Frigg and Nguyen 2021; Frigg and Hartmann 2025）[^frigg-2025][^frigg-2021]。DEKI 模型有四步：模型指称（denote）一个目标系统（D），例示（exemplify）相关特征（E），给出把这些特征与目标联系起来的键或映射规则（K），再把它们归予（impute）目标（I），据以生成关于目标的信息。用 DEKI 来读，模式生物指称生物学目标，例示实验上可通达的性状，倚仗实验实践所提供的解释键，并许可人们就目标系统作出推断（Frigg and Nguyen 2021）[^frigg-2021]。
   - id: 21
     kind: body
     source: |-
       What distinguishes model organisms from other experimental organisms, on Ankeny and Leonelli’s view, is not merely their material similarity to a target but their representational power, which is established and maintained through a history of practices. These include techniques, infrastructures, conventions, and social organization that stabilize and transform organisms over time, or what they call a repertoire of practices (see section 3.3). Although DEKI provides a schema for understanding representation, how a model denotes a target is complicated by the fact that modeling is embedded in evolving research practices. The conceptual, material, and social elements of repertoires shape not only what counts as a model but how representational relations are continuously modified rather than fixed once and for all.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 Ankeny 和 Leonelli 看来，模式生物与其他实验生物的区别，不仅在于它们与目标在物质上的相似，还在于它们的表征力量，而这种力量是通过实践的历史建立并维持的。这些实践包括使生物随时间稳定并发生转变的技术、基础设施、惯例与社会组织，或者他们所说的实践的本领库（见 3.3 节）。尽管 DEKI 提供了理解表征的图式，但建模嵌入在不断演变的研究实践之中，这就使模型如何指称目标变得复杂。本领库的概念要素、物质要素与社会要素，不仅塑造了什么算作模型，也塑造了表征关系如何被不断修改，而非一劳永逸地固定下来。
+    step2: |-
+      在 Ankeny 与 Leonelli 看来，模式生物之所以不同于其他实验生物，不只在它与目标的物质相似，更在它的表征力量——而这力量是靠着一段实践史立起来、维持住的。这里说的实践，包括技术、基础设施、惯例与社会组织，它们使生物随时间稳定下来，又不断被改造；他们把这整套东西叫作实践的本领库（见 3.3 节）。DEKI 虽给理解表征提供了一套图式，但建模本身就嵌在变动不居的研究实践里，模型如何指称目标，也就复杂起来。本领库里的概念要素、物质要素与社会要素，不只决定什么算模型，也决定表征关系怎样被一再修改，而不是一劳永逸地定死。
   - id: 22
     kind: body
     source: |-
       Lorenzo Sartori (2023) extends Ankeny and Leonelli’s representational picture and use of DEKI by clarifying the role of interpretive keys within such repertoires. He distinguishes between broad and local keys. Broad keys capture general background assumptions about how models relate to targets, while local keys provide the fine-grained mappings from specific model properties to target properties that are required for justificatory work. Although broad and local keys ideally inform one another and reach reflective equilibrium, only local keys can support claims about a model’s accuracy. On Sartori’s account, factual correctness is therefore justified on a case-by-case basis rather than inherited globally from a model system.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Lorenzo Sartori（2023）扩展了 Ankeny 和 Leonelli 的表征图景及其对 DEKI 的运用，澄清了解释键在这类本领库中的作用。他区分了宽解释键与局部解释键。宽解释键把握的是关于模型如何与目标相关联的一般背景假设，而局部解释键提供的是从特定模型属性到目标属性的精细映射，这种映射是证成工作所必需的。虽然宽解释键与局部解释键理想上相互启发并达到反思平衡，但只有局部解释键能够支持关于模型准确性的主张。因此，在 Sartori 的说明中，事实正确性是逐个案例得到证成的，而不是从某个模型系统整体继承来的。
+    step2: |-
+      Lorenzo Sartori（2023）把 Ankeny 与 Leonelli 的表征图景及其对 DEKI 的运用推进一步，把解释键在这类本领库中的角色讲清楚了。他区分宽解释键与局部解释键：宽解释键承载的是关于模型如何与目标相关联的一般背景假设；局部解释键给出从具体模型属性到目标属性的精细映射，证成工作要的正是这种映射。宽、局部两种解释键在理想情况下互相启发，达到反思平衡；但能支撑“模型准确”这类主张的，只有局部解释键。因此在 Sartori 的说明里，事实正确性是逐案证成的，并非从一个模型系统整体继承而来。
   - id: 23
     kind: body
     source: |-
       Strong representational accounts, such as Sartori’s, provide resources for extending the representational capacities of model organisms into new domains. Recent work draws on this framework to justify the use of novel model organisms in neuroscience, including in research on basal cognition systems (Rorot 2025 [Other Internet Resources]). Nonetheless, not all philosophers agree that thinking about model organisms as theoretical models provides the right framework for understanding what model organisms do epistemically. Some have instead sought the foundations of model organism research outside of a strongly representational account.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      像 Sartori 这样强的表征论说明，为把模式生物的表征能力扩展到新领域提供了资源。晚近的研究借助这一框架，为在神经科学中使用新的模式生物作辩护，包括在基础认知系统研究中的使用（Rorot 2025 [其他网络资源]）。然而，并非所有哲学家都同意，把模式生物当作理论模型来思考，为理解模式生物在认知上做什么提供了正确的框架。有些人转而在一种强的表征论说明之外寻找模式生物研究的基础。
+    step2: |-
+      Sartori 这类较强的表征论说明，为把模式生物的表征能力拓展到新领域备下了资源。晚近就有研究借这套框架，为在神经科学里使用新的模式生物作辩护，基础认知系统方面的研究也在其列（Rorot 2025 [其他网络资源]）。不过，并非所有哲学家都认为，把模式生物当理论模型来想，就是理解其认知功用的正解。有人索性跳出强的表征论说明，另寻模式生物研究的根基。
   - id: 24
     kind: body
     source: |-
       Levy and Currie (2015), for example, argue that model organisms are better understood as specimens rather than as theoretical models. On their view, experimental organisms are concrete biological samples drawn from a larger population, and the inferences scientists make from them depend on empirical extrapolation rather than representational mapping. These extrapolations are secured by background knowledge – such as phylogenetic relatedness, mechanistic conservation, and population structure – rather than by abstract keys linking model features to target features. Whereas theoretical models are typically characterized by explicit abstraction, idealization, and formal mapping rules, Levy and Currie emphasize that model organisms are contingent, embodied systems. The epistemic work they perform derives from their status as well-chosen biological specimens, not from their functioning as representational surrogates.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，Levy 和 Currie（2015）主张，模式生物更宜理解为标本，而非理论模型。在他们看来，实验生物是从更大种群中抽取的具体生物学样本，科学家由它们作出的推断依赖于经验外推，而非表征映射。这些外推由背景知识保证——例如系统发生亲缘关系、机制保守性和种群结构——而不是由把模型特征与目标特征联系起来的抽象键保证。理论模型通常以明确的抽象、理想化和形式映射规则为特征，而 Levy 和 Currie 强调，模式生物是偶然的、具身的系统。它们所履行的认知工作来自它们作为精心挑选的生物学标本的地位，而不是来自它们作为表征替代物的功能。
+    step2: |-
+      例如 Levy 与 Currie（2015）主张，模式生物更该理解为标本，而不是理论模型。在他们看来，实验生物是从更大种群中抽出的具体生物学样本，科学家由之作出的推断靠的是经验外推，不是表征映射。给这些外推作保的是背景知识——系统发生亲缘关系、机制保守性、种群结构等等——而不是把模型特征与目标特征联系起来的抽象键。理论模型通常带有明确的抽象、理想化与形式映射规则；Levy 与 Currie 偏要强调，模式生物是偶然的、具身的系统。它们所担的认知活儿，来自它们是精心挑选的生物学标本，而不是来自它们充当表征替代物。
   - id: 25
     kind: body
     source: |-
       Many discussions of model organisms similarly proceed without strong commitments to representation. Marcel Weber, for instance, emphasizes their epistemic value not in terms of representational scope or specimen status, but in their capacity to function as instruments for causal inference (Weber 2005)[^weber-2005]. Importantly, Weber stresses that speaking of model organisms as “tools” or “technological artifacts” must be understood metaphorically. Experimental organisms are not machines constructed by humans; they are evolved, living beings that have been modified, standardized, and stabilized to make experimental interventions possible. Practices such as inbreeding, genetic engineering, and cross-species gene transfer do not transform organisms into artifacts, but exemplify the experimental manipulation of natural objects (Weber 2024)[^weber-2024]. On this view, what gives model organisms their epistemic force is their ability to render causal structures accessible through controlled intervention, allowing scientists to identify and generalize causal relationships beyond the particular organism under study.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      许多关于模式生物的讨论同样在没有对表征作出强承诺的情况下进行。例如，Marcel Weber 强调其认知价值不在于表征范围或标本地位，而在于它们作为因果推断工具的能力（Weber 2005）[^weber-2005]。重要的是，Weber 强调，把模式生物说成“工具”或“技术人工物”必须作隐喻理解。实验生物不是人造的机器；它们是经过演化、被修改、标准化并稳定下来、以使实验干预成为可能的活物。近亲繁殖、遗传工程和跨物种基因转移等实践并没有把生物变成人工物，而是例示了对自然对象的实验操作（Weber 2024）[^weber-2024]。在这种观点下，赋予模式生物认知力量的，是它们能够通过受控干预使因果结构变得可通达，使科学家能够识别并把因果关系推广到所研究的特定生物之外。
+    step2: |-
+      许多关于模式生物的讨论，同样没有对表征作什么强承诺。Marcel Weber 便是一例：他强调的不是表征范围，也不是标本地位，而是模式生物充当因果推断工具的能力（Weber 2005）[^weber-2005]。要紧的是，Weber 强调把模式生物说成“工具”或“技术人工物”，只能作隐喻解。实验生物不是人造的机器，而是演化而来、活生生的存在者，只是经过改造、标准化与稳定化，才使实验干预成为可能。近交、遗传工程、跨物种基因转移这类做法，并没有把生物变成人工物，而恰恰例示了对自然对象的实验操作（Weber 2024）[^weber-2024]。照这种看法，模式生物的认知力量在于：它们能借受控干预让因果结构变得可通达，使科学家得以识别因果关系，并把它推广到所研究的特定生物之外。
   - id: 26
     kind: body
     source: |-
       Taken together, these approaches resist the idea that model organisms earn their epistemic status primarily by standing in representational relations to targets. Instead, they emphasize extrapolation, intervention, and material continuity as the basis for inference. Yet abandoning representation entirely leaves open an important question: how do scientists move from concrete experimental systems to claims about broader biological domains without some form of modeling relation?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      总起来看，这些进路都拒斥这样一种想法：模式生物主要靠与目标处于表征关系而获得其认知地位。它们转而强调外推、干预与物质连续性作为推断的基础。然而，完全放弃表征会留下一个重要问题：如果没有某种形式的建模关系，科学家如何从具体的实验系统走向关于更广阔生物学领域的断言？
+    step2: |-
+      合起来看，这些进路都不赞成这样一种想法：模式生物之取得认知地位，主要是因为它与目标处在表征关系之中。它们反倒强调，推断的根基在外推、干预与物质连续性。可要是把表征整个抛开，就留下一个大问题：科学家究竟凭什么从具体的实验系统走到关于更广阔生物学领域的断言？总得有点建模关系才行吧。
   - id: 27
     kind: body
     source: |-
       It is precisely this tension that Prieto and Fábregas-Tejeda (2025) aim to resolve in recent efforts to take a hybrid view to this representational/ non-representational debate. They side with non-representationalists in arguing that model organisms are not themselves models. At the same time, they agree that scientists routinely construct models of specific target phenomena using model organisms. Their proposal claims that model organisms are best understood not as models tout court but as material carriers of scientific models (Prieto and Fábregas-Tejeda 2025)[^prieto-2025]. On their account, organisms are physical systems from which researchers selectively abstract and interpret particular parts, mechanisms, or behaviors, and organize these into models of phenomena of interest. The model itself consists of the interpreted subset of organismal features (e.g., particular cellular mechanisms), not the whole organism (Prieto and Fábregas-Tejeda 2025)[^prieto-2025]. The carrier provides the experimental context, but only the interpreted parts are mapped onto the domain of interest and then used to represent phenomena in other organisms (Prieto and Fábregas-Tejeda 2025)[^prieto-2025]. This distinction helps reconcile traditional representationalist intuition that model organisms function like formal and mathematical models with the view that organisms are not models in themselves but support the construction of models by virtue of what researchers abstract and interpret from them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Prieto 和 Fábregas-Tejeda（2025）近来的努力，正是要化解这一张力：他们试图对表征论与非表征论之争采取一种混合观点。他们站在非表征论者一边，主张模式生物本身并不是模型。与此同时，他们也同意，科学家经常用模式生物构造关于特定目标现象的模型。他们的提议是：模式生物最好理解为科学模型的物质载体，而不是无条件的模型（Prieto and Fábregas-Tejeda 2025）[^prieto-2025]。在他们看来，生物是物理系统，研究者从中有选择地抽象并解释特定的部分、机制或行为，再把这些组织成关于所关注现象的模型。模型本身由被解释的生物特征子集（例如特定的细胞机制）构成，而不是整个生物（Prieto and Fábregas-Tejeda 2025）[^prieto-2025]。载体提供实验语境，但只有被解释的部分才被映射到所关注的领域，然后用来表征其他生物中的现象（Prieto and Fábregas-Tejeda 2025）[^prieto-2025]。这一区分有助于调和两种看法：传统的表征论直觉认为模式生物的功能类似形式模型与数学模型；而另一种看法认为生物本身不是模型，而是凭研究者从中抽象和解释的东西支撑模型的构造。
+    step2: |-
+      Prieto 与 Fábregas-Tejeda（2025）近来的工作，正是要解开这个结：面对表征论与非表征论之争，他们取一种混合立场。他们跟非表征论者站一边，认为模式生物本身并不是模型；可他们也承认，科学家确实常用模式生物来构造关于特定目标现象的模型。照他们的提法，模式生物最好理解为科学模型的物质载体，而不是干脆就叫模型（Prieto and Fábregas-Tejeda 2025）[^prieto-2025]。生物是物理系统，研究者从中选取某些部分、机制或行为，加以抽象和解释，再组织成关于所关注现象的模型。模型本身只是被解释的那一子集生物特征（例如某些细胞机制），并非整个生物（Prieto and Fábregas-Tejeda 2025）[^prieto-2025]。载体提供实验语境，但被映射到所关注领域、进而用来表征其他生物中现象的，只有被解释的那些部分（Prieto and Fábregas-Tejeda 2025）[^prieto-2025]。这一区分有助于调和两方：一方守着传统的表征论直觉，觉得模式生物用起来就像形式模型、数学模型；另一方认为生物本身不是模型，只是凭研究者从中抽象、解释出来的东西，支撑着模型的构造。
   - id: 28
     kind: body
     source: |-
       ### 2.2 Models as Exemplars and Surrogates
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 模型作为范例与替代物
+    step2: |-
+      ### 2.2 模型作为范例与替代物
   - id: 29
     kind: body
     source: |-
