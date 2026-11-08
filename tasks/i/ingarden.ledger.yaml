@@ -1,0 +1,405 @@
+version: 1
+slug: ingarden
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Roman Ingarden (1893–1970) was a Polish phenomenologist, ontologist and aesthetician. A student of Edmund Husserl’s in both Göttingen and Freiburg, Ingarden was a realist phenomenologist who spent much of his career working against what he took to be Husserl’s turn to transcendental idealism. As preparatory work for narrowing down possible solutions to the realism/idealism problem, Ingarden developed ontological studies unmatched in scope and detail, distinguishing different kinds of dependence and different modes of being. He is best known, however, for his work in aesthetics, particularly on the ontology of the work of art and the status of aesthetic values, and is credited with being the founder of phenomenological aesthetics. His work *The Literary Work of Art* has been widely influential in literary theory as well as philosophical aesthetics, and has been crucial to the development of New Criticism and Reader Response Theory.
+    step1: |-
+      罗曼·英伽登（Roman Ingarden，1893–1970）是波兰现象学家、本体论者与美学家。他先后在哥廷根与弗莱堡师从埃德蒙德·胡塞尔，是一位实在论现象学家，其学术生涯的大部分时间都在反对他眼中的胡塞尔转向先验唯心论。作为缩小实在论／唯心论问题各种可能解答范围的准备工作，英伽登建立了在广度与细致程度上都无与伦比的本体论研究，区分了不同种类的依赖关系与不同的存在方式。然而他最广为人知的是美学方面的著作，尤其是关于艺术作品的本体论与审美价值的地位，他被视为现象学美学的创始人。其《文学的艺术作品》一书在文学理论与哲学美学两方面都影响广泛，对新批评与读者反应理论的发展起了关键作用。
+    step2: |-
+      罗曼·英伽登（Roman Ingarden，1893–1970）是波兰现象学家、本体论者、美学家。他先后在哥廷根与弗莱堡师从埃德蒙德·胡塞尔，属于实在论现象学家，其学术生涯大半用于反对他所认定的胡塞尔向先验唯心论的转向。为了缩小实在论／唯心论问题可能解答的范围，英伽登先行建立了广度与精细程度都罕有其匹的本体论研究，厘清不同种类的依赖关系与不同的存在方式。不过他最为人知的仍是美学著述，尤其是论艺术作品本体论与审美价值地位的部分，他被公认为现象学美学的奠基人。《文学的艺术作品》在文学理论与哲学美学两方面影响深远，对新批评与读者反应理论的形成至关重要。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life and Work
+    step1: |-
+      ## 1. Life and Work
+    step2: |-
+      ## 1 生平与著作
+  - id: 3
+    kind: body
+    source: |-
+      Roman Witold Ingarden was born on February 5, 1893 in Kraków. He initially studied philosophy, mathematics and physics in Lwów (now known as ‘Lviv’ and in Ukraine). With the support of Kazimierz Twardowski, Ingarden went to Göttingen in 1912, where he studied philosophy under Edmund Husserl, taking four semesters of seminars with Husserl, from 1912 to 1914 and again during the spring and summer of 1915. There he was in close contact with other members of Husserl’s Göttigen circle of students, including Adolf Reinach and Edith Stein. Husserl considered Ingarden one of his best students, and the two remained in close touch until Husserl’s death in 1938 (their philosophical correspondence was eventually published as Husserl’s *Briefe an Roman Ingarden*). Ingarden also studied philosophy with Kazimierz Twardowski (who, like Husserl, was a student of Franz Brentano) both in Lwów and in Vienna during World War 1. When Husserl accepted the chair at Freiburg, Ingarden followed him in 1916 and they had regular extensive discussions of phenomenology. Ingarden submitted his dissertation “*Intuition und Intellekt bei Henri Bergson*” in 1917, for which he received his Ph.D. in 1918, with Husserl as director.
+    step1: |-
+      罗曼·维托尔德·英伽登 1893 年 2 月 5 日生于克拉科夫。他最初在利沃夫（今属乌克兰，称“利维夫”）学习哲学、数学与物理学。在卡齐米日·特瓦尔多夫斯基的资助下，英伽登于 1912 年前往哥廷根，师从埃德蒙德·胡塞尔研习哲学，1912 至 1914 年以及 1915 年春夏两度随胡塞尔修习研讨课，共四个学期。他在那里与胡塞尔哥廷根学生圈的其他成员往来密切，其中包括阿道夫·莱纳赫与艾迪特·施泰因。胡塞尔视英伽登为其最优秀的学生之一，二人保持密切联系，直至 1938 年胡塞尔去世（他们的哲学通信后来以胡塞尔《致罗曼·英伽登的书信》之名出版）。英伽登还曾在利沃夫与维也纳随卡齐米日·特瓦尔多夫斯基研习哲学（特瓦尔多夫斯基与胡塞尔一样，也是弗朗茨·布伦塔诺的学生），时为第一次世界大战期间。1916 年胡塞尔接任弗莱堡教席，英伽登随之前往，二人经常就现象学作长时间的深入讨论。英伽登于 1917 年提交学位论文《亨利·柏格森那里的直观与理智》（*Intuition und Intellekt bei Henri Bergson*），1918 年以胡塞尔为导师获博士学位。
+    step2: |-
+      罗曼·维托尔德·英伽登 1893 年 2 月 5 日生于克拉科夫。他先在利沃夫（今属乌克兰，称“利维夫”）攻读哲学、数学与物理学。得卡齐米日·特瓦尔多夫斯基之助，英伽登 1912 年赴哥廷根，随埃德蒙德·胡塞尔治哲学，1912 至 1914 年及 1915 年春夏两度听其研讨课，前后共四个学期。其间他与胡塞尔哥廷根学生圈中人过从甚密，包括阿道夫·莱纳赫与艾迪特·施泰因。胡塞尔视英伽登为最得意的门生之一，两人书信不断，直至 1938 年胡塞尔谢世（二人哲学通信后以胡塞尔《致罗曼·英伽登书信集》刊行）。一战期间，英伽登又在利沃夫与维也纳随卡齐米日·特瓦尔多夫斯基治哲学——特瓦尔多夫斯基与胡塞尔同出弗朗茨·布伦塔诺门下。1916 年胡塞尔接弗莱堡教席，英伽登随之而去，两人常就现象学作长篇讨论。1917 年英伽登呈交博士论文《亨利·柏格森那里的直观与理智》（*Intuition und Intellekt bei Henri Bergson*），1918 年在胡塞尔指导下获博士学位。
+  - id: 4
+    kind: body
+    source: |-
+      After submitting his dissertation, Ingarden returned to Poland for the remainder of his academic career, first teaching mathematics, psychology and philosophy in secondary schools while he worked on his Habilitationschrift. That work, published as *Essentiale Fragen* in 1925, attracted some attention in the English speaking philosophical world, being reviewed twice in *Mind* (by A.C. Ewing in 1926 and by Gilbert Ryle in 1927)[^ewing-1926][^ryle-1927]. With the publication of his Habilitationschrift, Ingarden was appointed as Privatdozent at the Jan Kazimierz University in Lwów, where he was promoted to Professor in 1933. During this time his most well known work, *The Literary Work of Art*, was first published (1931, in German), followed by *The Cognition of the Literary Work* (1936, in Polish). His academic career was interrupted from 1941–1944, when (due to the war) the university was closed, and he secretly taught philosophy at the university, and mathematics to secondary school children in an orphanage. At the same time (and despite the bombing of his house in Lwów), Ingarden was working intensively on his magnum opus *The Controversy over the Existence of the World* (the first two volumes of which were published in Polish in 1947 and 1948 respectively). In 1945 he moved to Jagiellonian University in Kraków, where he was given a chair in 1946, however in 1949, (under Stalinization) he was banned from teaching because of his alleged “idealism” (ironically, a philosophical position against which Ingarden fought for most of his life) and for being an “enemy of materialism”. The ban continued until 1957, at which point Ingarden was reappointed to his post at Jagiellonian University, where he taught until his retirement in 1963 and continued to write, publishing such works as *The Ontology of the Work of Art* (1962) and *Experience, Artwork and Value* (1969). Ingarden died suddenly of a cerebral hemorrhage on June 14, 1970, while still fully engaged in his philosophical projects. A careful, detailed, and fully documented account of Ingarden’s biography may be found in Mitscherling (1997), as well as in a recent lovingly detailed biography (Kuliniak and Pandura 2025)[^kuliniak-2025] researched in part from primary resources of the Ingarden Family Archives managed by Ingarden’s grandson, the architect Professor Krzysztof Ingarden.
+    step1: |-
+      提交论文后，英伽登返回波兰度过余下的学术生涯。起初他在中学教授数学、心理学与哲学，同时撰写教授资格论文。该文于 1925 年以《本质问题》（*Essentiale Fragen*）之名出版，在英语哲学界引起一定关注，《心灵》杂志两度发表书评（1926 年 A. C. Ewing 撰，1927 年 Gilbert Ryle 撰）[^ewing-1926][^ryle-1927]。教授资格论文出版后，英伽登受聘为利沃夫扬·卡齐米日大学无薪讲师，1933 年升任教授。此期间他最著名的著作《文学的艺术作品》首次出版（1931 年，德文），随后是《对文学作品的认知》（1936 年，波兰文）。1941 至 1944 年，因战争大学关闭，他的学术生涯随之中断；他秘密地在大学讲授哲学，又在孤儿院为中学生讲授数学。同一时期（且不顾其利沃夫住宅遭轰炸），英伽登正紧张撰写其代表作《关于世界存在性的争论》（第一、二卷分别于 1947、1948 年以波兰文出版）。1945 年他迁往克拉科夫雅盖隆大学，1946 年获教席；然而 1949 年在斯大林化运动中，他因所谓“唯心论”（讽刺的是，这正是英伽登大半生所反对的哲学立场）以及身为“唯物主义的敌人”而被禁止授课。禁令持续到 1957 年，此后英伽登复职于雅盖隆大学，执教至 1963 年退休，并继续写作，出版了《艺术作品的本体论》（1962）与《体验、艺术作品与价值》（1969）等书。1970 年 6 月 14 日，英伽登因脑溢血猝然去世，其时仍全力投入其哲学计划。关于英伽登生平的严谨、详尽且有完整文献依据的叙述，见 Mitscherling（1997），以及晚近一部用情甚深的详细传记（Kuliniak and Pandura 2025）[^kuliniak-2025]，后者部分依据英伽登之孙、建筑师 Krzysztof Ingarden 教授所管理的英伽登家族档案的一手材料写成。
+    step2: |-
+      交出论文后，英伽登回到波兰，此后一生都在此治学。他先在中学教数学、心理学与哲学，同时写教授资格论文。该文 1925 年以《本质问题》（*Essentiale Fragen*）出版，在英语哲学界颇受注意，《心灵》杂志先后两次刊出书评（1926 年 A. C. Ewing、1927 年 Gilbert Ryle）[^ewing-1926][^ryle-1927]。论文出版后，他受聘为利沃夫扬·卡齐米日大学编外讲师，1933 年升教授。此间他最负盛名的《文学的艺术作品》初版问世（1931 年，德文），继之为《对文学作品的认知》（1936 年，波兰文）。1941 至 1944 年战争使大学停办，其教职随之中断：他暗中在大学讲哲学，又到孤儿院给中学生讲数学。与此同时（且不顾利沃夫寓所被炸），他正全力撰写代表作《关于世界存在性的争论》（第一、二卷分别于 1947、1948 年以波兰文刊行）。1945 年他转赴克拉科夫雅盖隆大学，1946 年获教席；但 1949 年斯大林化运动中，他因所谓“唯心论”——讽刺的是，这正是他大半生与之搏斗的立场——以及“唯物主义的敌人”的罪名被禁讲坛。禁令直到 1957 年才解除，英伽登复职于雅盖隆大学，授课至 1963 年退休，退而不辍，先后刊出《艺术作品的本体论》（1962）与《体验、艺术作品与价值》（1969）。1970 年 6 月 14 日，他因脑溢血遽然辞世，时仍全力投入其哲学计划。关于其生平，严谨周详、文献足征的叙述见 Mitscherling（1997），以及晚近一部考订用心的详传（Kuliniak and Pandura 2025）[^kuliniak-2025]，后者部分取材于英伽登之孙、建筑师 Krzysztof Ingarden 教授所掌的英伽登家族档案。
+  - id: 5
+    kind: body
+    source: |-
+      Like many of Husserl’s students from the Göttingen period, Ingarden is a realist phenomenologist who ardently resisted Husserl’s apparent turn to transcendental idealism in the *Ideas* and thereafter. Although his training is phenomenological, his work on the whole is directed not towards understanding the basic structures of consciousness, but rather towards ontology. Indeed, Ingarden is one of the foremost practitioners of phenomenological ontology, which attempts to determine what the ontological structure and status of objects of various types must be, based on examining essential features of any experience that could present or provide knowledge of such objects—a method based in the assumption that there are essential correlations between kinds of objects and the modes of cognition by means of which they can be known.
+    step1: |-
+      与胡塞尔哥廷根时期的许多学生一样，英伽登是一位实在论现象学家，激烈抗拒胡塞尔在《观念》及其后著作中显然转向先验唯心论的倾向。他虽受现象学训练，其工作整体上却并非指向理解意识的基本结构，而是指向本体论。事实上，英伽登是现象学本体论最重要的实践者之一。这一进路试图依据任何能够呈现某类对象、或提供关于它们之知识的体验的本质特征，来判定各类对象的本体论结构与地位——其方法立足于这样一个假定：对象的种类与认知方式之间存在本质性的相关。
+    step2: |-
+      和胡塞尔哥廷根时期的许多学生一样，英伽登是实在论现象学家，对胡塞尔在《观念》及以后著作中显然转向先验唯心论一事抗拒甚力。他虽出身现象学，工作整体上却不指向意识的基本结构，而指向本体论。实际上，他是现象学本体论最重要的实践者之一。这一路子要问：任何能够呈现某类对象、或提供关于它们之知识的体验，其本质特征是什么？据此判定各类对象的本体论结构与地位。其方法预设了一点：对象的种类与认知方式之间有本质性的相应。
+  - id: 6
+    kind: body
+    source: |-
+      Ingarden’s best-known works, indeed the only ones known to most of his readers in the English-speaking world, are his works on aesthetics, especially literature—works that offer unrivalledly sophisticated and subtle accounts both of the ontological status of works of art of various kinds, and of our means of cognizing them. Nonetheless, the frequently exclusive focus on Ingarden’s work in aesthetics can be misleading about his overall philosophical focus and goals. For Ingarden produced an enormous body of work on a wide variety of topics. He raised early and important criticisms of what he called “methodological Positivism” in a paper delivered in 1934 to the 8th World Congress of Philosophy in Prague, where Rudolf Carnap and Otto Neurath were present as respondents. There Ingarden argues that, by the positivist’s own lights, ‘metalogical’ sentences about sentences should be counted as meaningless, since sentences themselves are not mere physical objects (to be sentences they must have a certain *sense*), and yet the methodological Positivist accepts only sentences about the physical as intersubjectively verifiable. If on the other hand, we do consider sentences to be mere physical ‘mounds of ink’ or ‘sound waves’, then they would not be verifiable (this, he seems to be suggesting, would be something like a category mistake: how can one verify a heap of ink?). Moreover, he argues (in what Pelletier and Linsky (2018) identify as a version of the ‘Hysteron Proteron Objection’) that in order to decide whether a sentence is verifiable, one must first identify its meaning “independently of its verification”. The paper is now translated into English as “A Logical Attempt at a New Formulation of Philosophy: A Critical Remark”, and reprinted alongside the brief responses by Rudolf Carnap and Otto Neurath, and interesting contemporary discussion and evaluation by Pelletier and Linsky (2018), who suggest that Carnap never adequately responded to these criticisms.
+    step1: |-
+      英伽登最著名的著作——实际上也是英语世界多数读者唯一知道的著作——是他在美学、尤其是文学方面的研究；这些著作对各类艺术作品的本体论地位以及我们认知它们的方式，提供了无与伦比的精密而微妙的说明。然而，人们常常只盯着英伽登的美学著作，这会造成对其整体哲学关切与目标的误解。因为英伽登在众多题目上留下了卷帙浩繁的作品。他很早就提出了重要批评，针对他所谓“方法论实证主义”：1934 年他在布拉格第八届世界哲学大会上宣读论文，鲁道夫·卡尔纳普与奥托·纽拉特在场作回应人。英伽登在那里论证：按实证主义者自己的标准，关于语句的“元逻辑”语句应算作无意义，因为语句本身并非单纯的物理对象（要成为语句，须有某种*意义*），而方法论实证主义者只承认关于物理之物的语句才是可主体间验证的。反过来说，若真把语句当作单纯的物理“墨迹堆”或“声波”，它们便无从验证（他似乎是在提示，这近乎一种范畴错误：一堆墨迹怎么验证？）。此外他还论证（Pelletier and Linsky（2018）称之为“后项先行反驳”的一个版本）：要判定一个语句是否可验证，必须先“独立于其验证”辨明其意义。该文现有英译，题为《从逻辑上尝试哲学的新表述：一则批评性评论》，与鲁道夫·卡尔纳普、奥托·纽拉特的简短回应，以及 Pelletier and Linsky（2018）颇有兴味的当代讨论与评价一并重印；后者认为卡尔纳普从未对这些批评作出恰当回应。
+    step2: |-
+      英伽登最出名、也是英语世界多数读者唯一知道的，是他论美学、尤其是论文学的著作：这些书对各类艺术作品的本体论地位、以及我们认知它们的方式，给出了罕有其匹的精细说明。然而只把目光锁在他的美学上，会误判其整体关切与志向。英伽登的著述横跨极广，数量惊人。他很早就对他所谓的“方法论实证主义”提出了重要批评：1934 年他在布拉格第八届世界哲学大会宣读论文，鲁道夫·卡尔纳普与奥托·纽拉特当场回应。他指出，按实证主义者自家的标准，谈论语句的“元逻辑”语句便该算无意义——语句本身不是单纯的物理对象（要成其为语句，总得有某种*意义*），而方法论实证主义者只认关于物理之物的语句可作主体间验证。可是若真把语句当作一堆物理“墨迹”或“声波”，它又无从验证（他似乎在暗示这近乎范畴错误：一堆墨迹如何验证？）。他还论证（Pelletier and Linsky（2018）称之为“后件先出反驳”的变体）：判断一个语句可否验证，先得“撇开验证”辨明其意义。该文已有英译，题为《对哲学新表述的一次逻辑尝试：一则批评性评论》，与卡尔纳普、纽拉特的简短答复，以及 Pelletier and Linsky（2018）的讨论一并重印；后者认为卡尔纳普始终没有正面回应这些批评。
+  - id: 7
+    kind: body
+    source: |-
+      Ingarden also produced a large body of work in epistemology, ontology, metaphysics, phenomenology, and value theory. The relative obscurity of Ingarden’s work in these other areas is attributable in part to the relative isolation and interruption of academic philosophy in Poland in the period of World War Two and Soviet occupation, and in part to language barriers. Before the second world war, Ingarden (being German trained) published his works mainly in German, thus his early works such as *The Literary Work of Art* appeared in German early in his career, and were to have a broad impact. But during the war, Ingarden (in a gesture of solidarity) switched to writing in Polish, a language speakers of English and other Western European languages were unlikely to read, and so his major works on ontology went largely unnoticed by the wider European and Anglo-American philosophical circles. His major work in ontology, *The Controversy over the Existence of the World*, for example, was not translated into German until 1964, and only in 2013 did Part 1 become fully available in English translation (an earlier partial translation was published in 1964 as *Time and Modes of Being*).
+    step1: |-
+      英伽登在认识论、本体论、形而上学、现象学与价值论方面也有大量著作。这些领域的工作相对寂寂无闻，部分要归因于二战及苏联占领时期波兰学术哲学的孤立与中断，部分要归因于语言障碍。二战之前，英伽登（受德国训练）主要以德文发表，故其早期著作如《文学的艺术作品》在职业生涯早期即以德文问世，并产生广泛影响。但战时英伽登（出于一种声援姿态）改用波兰文写作，而英语及西欧其他语言的读者多半不会读波兰文，于是他的本体论主要著作在更广阔的欧洲与英美哲学圈中几无人知。例如其本体论巨著《关于世界存在性的争论》直到 1964 年才有德译本，第一部分迟至 2013 年才有完整的英译本（早先的节译本于 1964 年以《时间与存在方式》之名出版）。
+    step2: |-
+      英伽登在认识论、本体论、形而上学、现象学与价值论上同样著述丰厚。这些领域之所以相对寂寂，一因二战与苏联占领时期波兰学术哲学的中断与孤立，二因语言隔阂。战前英伽登受的是德国训练，主要以德文发表，故《文学的艺术作品》等早期著作在生涯之初便以德文问世，影响颇广。战时他却（以示声援）改用波兰文写作，而英语及西欧读者多不谙波文，其本体论大部头遂在更广的欧洲与英美圈子里少人问津。例如本体论代表作《关于世界存在性的争论》直到 1964 年才译成德文，第一部分迟至 2013 年才有完整英译（此前的节译本 1964 年以《时间与存在方式》行世）。
+  - id: 8
+    kind: body
+    source: |-
+      Seen more as a whole, Ingarden’s body of work revolves not around aesthetics, but rather around the realism/idealism problem—an issue that was to dominate his thinking ever since, as a young man, he recoiled against Husserl’s transcendental idealism. As I will discuss in §3.1 below, Ingarden’s work in aesthetics was actually motivated by his interest in the realism/idealism problem. His studies in fiction and the ontology of art were intended to form part of a large-scale argument against transcendental idealism, based in emphasizing the difference between ‘real’ entities entirely independent of our minds, and social and cultural entities that (as ‘purely intentional objects’) owe their existence, at least in part, to human consciousness—thus showing that, in virtue of the very meanings of the ideas involved, the ‘real world’ as a whole cannot be properly treated as a purely intentional object that owes its existence to consciousness.
+    step1: |-
+      若从整体看，英伽登的全部工作并非围绕美学，而是围绕实在论／唯心论问题——这个问题自他年轻时起便支配着他的思考，因为他反感胡塞尔的先验唯心论。正如我将在下文第 3.1 节讨论的，英伽登的美学工作实际上是由他对实在论／唯心论问题的兴趣所驱动的。他对虚构与艺术本体论的研究，本想构成一场反对先验唯心论的大规模论证的一部分；该论证立足于强调“实在”实体（完全独立于我们心灵）与社会的、文化的实体之间的差别：后者作为“纯意向对象”，其存在至少部分归功于人类意识。这样便可表明：仅凭相关观念的意义，就不能把整个“真实世界”恰当地当作一个其存在归功于意识的纯意向对象。
+    step2: |-
+      整体看去，英伽登的全部工作并不围绕美学，而围绕实在论／唯心论问题——自年轻时反感胡塞尔的先验唯心论起，此题便支配着他的思考。下文第 3.1 节将说明，他的美学工作其实是由这一兴趣推动的。他对虚构与艺术本体论的研究，本拟作为反驳先验唯心论的一场大论证的组成部分：论证的要害在于分辨两类实体——完全独立于心灵的“实在”实体，与作为“纯意向对象”、其存在至少部分归功于人类意识的社会文化实体。由此即可表明：仅凭所涉观念的意义，整个“真实世界”便不能被恰当地视为一个赖意识而存在的纯意向对象。
+  - id: 9
+    kind: body
+    source: |-
+      In developing a positive position, Ingarden sought a middle path between the reductive physicalist realisms popular among analytic philosophers, and the transcendental idealism adopted by Husserl, rejecting the simplistic bifurcation between entities that are ‘mind-independent’ and those that are ‘merely subjective’. His most important and lasting contribution may lie in providing a richer ontological framework that could track the different ways in which many objects of the ‘life-world’ of daily experience depend on human intentionality and on mind-independent reality, and in developing a moderate realist position that offered room not only for independent physical reality and for consciousness, but also for the whole variety of life-world objects that owe their existence, in part, to both.
+    step1: |-
+      在建立正面立场时，英伽登寻求一条中间道路：既不取分析哲学家中流行的还原论物理主义实在论，也不取胡塞尔所采纳的先验唯心论；他拒绝那种在“心灵独立”的实体与“纯属主观”的实体之间作简单二分。他最重要而持久的贡献，也许在于提供了一个更丰富的本体论框架，足以追踪日常经验的“生活世界”中许多对象依赖人类意向性与依赖心灵独立实在的不同方式；并在发展一种温和实在论立场时，不仅为独立的物理实在与意识留出余地，也为形形色色的生活世界对象留出余地——这些对象的存在部分归功于二者。
+    step2: |-
+      构建正面立场时，英伽登走的是中间道路：既不取分析哲学中流行的还原论物理主义实在论，也不取胡塞尔式的先验唯心论；他拒绝在“心灵独立”与“纯属主观”之间作粗糙二分。其最重要也最持久的贡献，也许在于给出一个更丰富的本体论框架，能够追踪日常经验“生活世界”中各种对象依赖人类意向性、又依赖心灵独立实在的不同方式；同时树立一种温和实在论，既为独立的物理实在与意识留下位置，也为形形色色的生活世界对象留下位置——它们的存在部分系于前二者。
+  - id: 10
+    kind: body
+    source: |-
+      ## 2. Ontology and Metaphysics
+    step1: |-
+      ## 2. Ontology and Metaphysics
+    step2: |-
+      ## 2 本体论与形而上学
+  - id: 11
+    kind: body
+    source: |-
+      Most of Ingarden’s major work focuses on ontology, which he considers a purely *a priori* enterprise, concerned not with what actually exists, but with what could possibly exist (which concepts are non-contradictory), and with what (according to the contents of the relevant ideas) it would take for objects of various kinds to exist, or entail if they existed. He thus contrasts ontology with metaphysics, which is concerned with answering factual questions about what sorts of things actually exist and what they are like. Ontology, in Ingarden’s hands, thus bears close resemblance to the sorts of conceptual analysis that became common in analytic philosophy in roughly the same period. Ingarden’s work on the ontology of art is ontological in this sense, e.g. he attempts to determine, by analyzing the essential meanings of experiences that could present something as a work of literature, music, or architecture, what sort of an entity such an object would have to be to satisfy those experiences and meanings, and how it would have to relate to consciousness and physical objects.
+    step1: |-
+      英伽登的主要工作大多集中于本体论。他视本体论为纯粹*先天*的事业，关心的不是实际存在什么，而是可能存在着什么（哪些概念不自相矛盾），以及（依相关观念的内容）各类对象要存在需要什么、若存在则蕴含什么。他因此把本体论与形而上学相对照，后者关心的是关于实际存在何种事物、它们如何这类事实问题。在英伽登手中，本体论与大约同一时期在分析哲学中流行起来的概念分析颇为相似。他关于艺术本体论的工作即属此义的本体论：例如，他试图通过分析那些能够把某物呈现为文学作品、音乐作品或建筑作品的体验之本质意义，判定这样的对象必须是什么样的实体才配得上这些体验与意义，以及它必须如何与意识和物理对象相关联。
+    step2: |-
+      英伽登的主要工作大多落在本体论上。在他看来，本体论是纯粹的*先天*之学：不问实际有什么，而问可能有什么（哪些概念不自相矛盾），并问按相关观念的内容，各类对象要存在须具备什么条件、若存在则蕴含什么。由此他把本体论与形而上学对举：后者追问实际存在何种事物、它们是什么样子，属事实问题。经他之手，本体论与分析哲学同期的概念分析颇为相近。他论艺术本体论的工作即是此义：例如分析那些能把某物呈现为文学、音乐或建筑作品的体验，其本质意义为何，据此判定这样的对象须是何等实体方能满足这些体验与意义，又须如何与意识及物理对象相关联。
+  - id: 12
+    kind: body
+    source: |-
+      In his Habilitationscrhift, *Essentiale Fragen* (*Essential Questions*) from 1925, Ingarden aims to develop a general theory of questions (as contrasted with judgments). In *Essential Questions*, the focus is on different ways in which one may ask questions about essences. The goals of this work were twofold: on the one hand, it is an extended defense of the idea that we must accept essences, as a way of defending the practice of phenomenology. On the other hand, it also works towards addressing the realism-idealism controversy that would occupy his work for the rest of his life (Corbella 2023, 69)[^corbella-2023]. His work in *Essential Questions* “paves the way for his future metaphysics of the world”, such as he later develops in *The Controversy over the Existence of the World* (de Santis 2015). Ingarden argues that a question, though it makes no judgment, points towards (or, as Ingarden says “knocks at”) reality, and aims to be determined by a reality that transcends our own cognition. In this text, Ingarden also lays out important differences between ideal beings (such as essences) and real individual objects (Corbella 2023, 69)[^corbella-2023]—a start at distinguishing different modes of being. Ingarden assumes (as was characteristic in the phenomenological tradition) that there is a correlation between types of judgment and entities judged about. He thus uses the differences in the sorts of *judgments* that would answer the various questions as the basis for distinguishing different *categories* of ideas. (For further discussion of *Essential Questions*, see Corbella 2023, de Santis 2015, Ryle 1927)[^corbella-2023][^ryle-1927].
+    step1: |-
+      在其 1925 年的教授资格论文《本质问题》（*Essentiale Fragen*）中，英伽登试图建立一套关于提问（相对于判断）的一般理论。《本质问题》关注的是人们就本质提问的各种不同方式。该著作有双重目标：一方面，它是对“我们必须接受本质”这一观念的长篇辩护，以此捍卫现象学的实践；另一方面，它也致力于处理那个将占据其后半生的实在论—唯心论之争（Corbella 2023, 69）[^corbella-2023]。他在《本质问题》中的工作“为其后来的世界形而上学铺平了道路”，一如他后来在《关于世界存在性的争论》中所发展的那样（de Santis 2015）。英伽登主张，一个问题虽不作判断，却指向（或如英伽登所说，“叩击”）实在，并旨在由一种超越我们自身认知的实在来判定。在这部文本中，英伽登还阐明了观念性存在者（如本质）与实在个体对象之间的重要差别（Corbella 2023, 69）[^corbella-2023]——这是区分不同存在方式的开端。英伽登假定（如现象学传统所常见的那样）判断的类型与被判断的实体之间存在相关。因此他以回答各类问题所需的*判断*类型之差异，作为区分不同观念*范畴*的依据。（关于《本质问题》的进一步讨论，见 Corbella 2023、de Santis 2015、Ryle 1927。）[^corbella-2023][^ryle-1927]
+    step2: |-
+      在 1925 年的教授资格论文《本质问题》（*Essentiale Fragen*）中，英伽登要建立一套关于提问（有别于判断）的一般理论。全书关注人们就本质发问的种种不同方式，目标有二：一则长篇辩护“必须承认本质”，以护持现象学的实践；二则着手处理此后纠缠他终生的实在论—唯心论之争（Corbella 2023, 69）[^corbella-2023]。他在这场工作中“为日后的世界形而上学铺路”，即后来《关于世界存在性的争论》所展开者（de Santis 2015）。英伽登主张，问题虽不作判断，却指向实在——用他的话说，“叩击”实在——并期由超越我们认知的实在来判定。此书中他还辨明观念性存在者（如本质）与实在个体对象之别（Corbella 2023, 69）[^corbella-2023]，算是区分不同存在方式的起点。他沿用现象学传统的假定：判断的类型与被判断的实体相互对应。于是他以回答各类问题所需的*判断*类型之别，作为划分观念*范畴*的根据。（《本质问题》的进一步讨论见 Corbella 2023、de Santis 2015、Ryle 1927。）[^corbella-2023][^ryle-1927]
+  - id: 13
+    kind: body
+    source: |-
+      ### 2.1 Criticisms of Transcendental Idealism
+    step1: |-
+      ### 2.1 Criticisms of Transcendental Idealism
+    step2: |-
+      ### 2.1 对先验唯心论的批评
+  - id: 14
+    kind: body
+    source: |-
+      Despite Ingarden’s deep admiration for Husserl, one crucial issue—transcendental idealism—divided them. Indeed, Ingarden was already “tormented” by the problem for years before he completed his dissertation (“Letter,” 422), and by 1918 had definitively determined that he could not share Husserl’s transcendental idealism (*Streit*, vii). Ingarden’s concern with and rejection of transcendental idealism directly or indirectly determined the course of much of his later philosophical work, so much so that in 1961 he describes his process of working on idealism as one “which has been in fact occupying my entire scholarly life.” (“Letter,” 437).
+    step1: |-
+      尽管英伽登对胡塞尔怀有深切敬意，有一个关键问题——先验唯心论——却使他们分道扬镳。事实上，英伽登在完成学位论文之前已为此问题“煎熬”多年（“Letter,” 422），到 1918 年他已明确断定自己无法认同胡塞尔的先验唯心论（*Streit*, vii）。英伽登对先验唯心论的关切与拒斥，直接或间接地决定了他后来许多哲学工作的走向；他甚至在 1961 年把自己的唯心论研究工作形容为“实际上占据了我整个学术生命”的工作（“Letter,” 437）。
+    step2: |-
+      英伽登对胡塞尔敬意极深，但有一个关键问题使二人分道扬镳：先验唯心论。事实上，早在完成学位论文之前，此问题已折磨他多年（“Letter,” 422）；到 1918 年，他断然认定自己无法认同胡塞尔的先验唯心论（*Streit*, vii）。对先验唯心论的关切与拒斥，直接或间接地决定了此后许多哲学工作的方向；1961 年他自述，处理唯心论的过程“实际上占据了我的整个学术生命”（“Letter,” 437）。
+  - id: 15
+    kind: body
+    source: |-
+      The transcendental idealism Ingarden rejects is the position that the so-called ‘real world’ depends on consciousness for its existence and essence; that it exists only *for* consciousness and beyond that is a ‘nothing’. While there is some debate among Husserl scholars over whether or not Husserl genuinely took the ‘turn’ to transcendental idealism in a metaphysical sense (as opposed to merely treating it as if it were true while undertaking the methodology of transcendental reduction), Ingarden clearly saw Husserl as turning from the realism of the *Logical Investigations* to a metaphysical form of transcendental idealism by the time the first volume of *Ideas* was published, and the two frequently debated this topic in letter and in person during the period from 1918–1938.
+    step1: |-
+      英伽登所拒斥的先验唯心论是这样一种立场：所谓“真实世界”在其存在与本质上都依赖于意识；它仅*为*意识而存在，此外便是一个“无”。胡塞尔研究者之间确有一些争论：胡塞尔是否真的在形而上学意义上作了转向先验唯心论（抑或只是在从事先验还原的方法论时把它当作真的来处理）。但英伽登显然把胡塞尔看作从《逻辑研究》的实在论转向了一种形而上学形态的先验唯心论，时点即在《观念》第一卷出版之际；1918 至 1938 年间，二人常以书信和当面讨论的方式就此题争辩。
+    step2: |-
+      英伽登所拒斥的先验唯心论主张：所谓“真实世界”的存在与本质皆系于意识，它只为意识而在，此外便是“无”。胡塞尔研究者对胡塞尔是否真在形而上学意义上“转向”先验唯心论尚有争议——抑或他只是在使用先验还原的方法时姑且如此设想。但英伽登明确认为，到《观念》第一卷出版时，胡塞尔已从《逻辑研究》的实在论转向了形而上学形态的先验唯心论；1918 至 1938 年间，二人书信往来、当面论辩，反复争的就是此题。
+  - id: 16
+    kind: body
+    source: |-
+      Ingarden takes Husserl to have been driven to transcendental idealism largely by his epistemological goals and transcendental approach to phenomenology. If the very idea of three-dimensional external objects makes sense, it would be essential that our perceptions of them are inevitably inadequate: Such objects may be presented from one point of view or another, but never exhaustively and entirely—so room is always left open for new perceptions that would lead us to entirely revise our past judgments. Such objects thus would inherently transcend any finite set of experiences of them; no external object could be part of any experience of it, and any judgments we attempt to make about them would be open to doubt. Thus, if phenomenology is to be a ‘rigorous science’ grounded only in what does not go beyond our experience, it must limit its study to objects of ‘immanent perception’, the meaningful series of (actual and possible) contents of consciousness rather than any supposedly transcendent objects presented by them. Moreover, as Husserl argues in §41 of the *Cartesian Meditations*, since the transcendental ego is the source of all sense, any meaning of ‘transcendent object’, ‘outside of consciousness’, etc. must be a meaning constructed through layerings of the senses of our conscious acts, and transcendental phenomenology can analyze how these meanings are built up out of other meanings of individual acts of perception and intention (e.g. ‘is perceived from this angle’, ‘could be perceived from another angle, in these other ways’, etc.) This is the meaning that the question e.g. ‘is this object real?’ may have from within the standpoint of transcendental phenomenology. Any attempt to go beyond this understanding of ‘transcendent object’ or ‘real object outside of consciousness’, however, to talk of something beyond what can be constituted by any actual or possible experience, is literally going beyond what can be meaningfully asked; it is literally non-sense. The very idea of a world outside of and independent from all actual and possible experience is thus, from this point of view, an illegitimate concept, a kind of disguised nonsense. The only ‘real world’ of which we can legitimately speak, have knowledge, or enter into other intentional relations with is the ‘real world’ as constituted by, and essentially correlated with, meaningful series’ of intentional acts.
+    step1: |-
+      英伽登认为，胡塞尔之所以被推向先验唯心论，主要出于其认识论目标与现象学的先验进路。如果三维外部对象这一观念本身是有意义的，那么我们对它们的知觉必然是不充分的，这一点便是本质性的：这类对象可以从某一视角或另一视角被呈现，但永远不能被穷尽无遗地呈现——因此总留有空间，让新的知觉彻底修正我们过去的判断。这类对象因而在本性上超越任何有限的体验集合；没有任何外部对象能成为关于它的体验的一部分，我们对它们作出的一切判断都可能受到怀疑。于是，若现象学要成为一门只以不超出我们经验者为根基的“严格科学”，它就必须把自己的研究限制在“内在知觉”的对象上，即有意义的（实际的与可能的）意识内容序列，而不是这些内容所呈现的任何所谓超越对象。此外，正如胡塞尔在《笛卡尔式的沉思》第 41 节所论：既然先验自我是一切意义的源头，那么“超越对象”“意识之外”等等的任何意义，都必然是通过我们意识行为的诸意义层叠建构出来的意义；先验现象学可以分析这些意义如何由各个知觉与意向行为的意义（如“是从这个角度被知觉到的”“也可以从另一角度、以这些其他方式被知觉”等）层层建构起来。这就是“这个对象是实在的吗？”之类问题在先验现象学立场内部可能具有的意义。然而，任何想要超出这种对“超越对象”或“意识之外的实在对象”的理解、去谈论某种超出任何实际或可能经验所能构成之物者，都是字面上越出了可以被有意义地追问的范围；那是字面上的无意义。因此，从这个观点看，“一个外在于并独立于一切实际与可能经验的世界”这一观念本身就是一个不合法的概念，一种伪装起来的胡说。我们能够合法地谈论、获得知识、或与之建立其他意向关系的唯一“真实世界”，就是那个由有意义的意向行为序列所构成、并在本质上与之相关的“真实世界”。
+    step2: |-
+      英伽登认为，胡塞尔之转向先验唯心论，主要出于其认识论目标与现象学的先验进路。三维外部对象的观念若要成立，则我们对它的知觉必然不充分，这点属本质：这类对象只能从这个或那个视角被给出，永远不能穷尽——总还留着余地，让新知觉把过去的判断整个推翻。故这类对象在本性上超越任何有限的体验集合；外部对象不可能成为关于它的体验的一部分，我们关于它的一切判断都可生疑。于是，现象学若要成为一门只立足于“不超出经验者”的“严格科学”，就得把研究对象限为“内在知觉”的对象，即有意义的（实际与可能的）意识内容序列，而非它们所呈现的所谓超越对象。胡塞尔在《笛卡尔式的沉思》第 41 节又论：先验自我是一切意义之源，故“超越对象”“意识之外”等词的一切意义，都必是由我们意识行为的诸层意义叠建而成；先验现象学可以分析这些意义如何由各个知觉与意向行为的意义（如“从这个角度看是被知觉到的”“也可从别的角度、以别的方式被知觉”等等）层层叠起。这就是“这对象是实在的吗？”一类问题在先验现象学立场内所能有的意义。但若有人想越过这一理解，去谈某种超出任何实际或可能经验所能构成的东西，那便是字面上越出了可有意义地追问的界限：字面上的无意义。由此可见，“一个外在于、独立于一切实际与可能经验的世界”这一观念本身即属非法，是一种化装的胡说。我们能够合法谈论、取得知识、或与之建立其他意向关系的唯一“真实世界”，只能是那个由有意义的意向行为序列所构成、并在本质上与之相应的“真实世界”。
+  - id: 17
+    kind: body
+    source: |-
+      Ingarden accepted that, as long as we approach the realism problem from the standpoint of epistemology, or from within the standpoint of transcendental phenomenology, there is no way out to establish the existence and knowledge of a mind-independent world. Nor, however, can one establish that the real world depends on consciousness, since any attempted talk about the world in-itself and its nature would be meaningless—thus from that standpoint, the controversy over the existence of the world would have to remain undecided. But he also thought that other approaches to philosophy were legitimate, and indeed that one should begin from ontology rather than epistemology (Corbella 2023. 69)[^corbella-2023].
+    step1: |-
+      英伽登承认：只要我们以认识论的立场、或从先验现象学的立场内部来处理实在论问题，就没有出路可以确立一个心灵独立世界的存在与关于它的知识。然而，人们也无法确立真实世界依赖于意识，因为任何试图谈论世界本身及其本性的做法都会是无意义的——因此从该立场看，关于世界存在性的争论只能悬而未决。但他也认为，哲学的其他进路是正当的，而且人应当从本体论而非认识论出发（Corbella 2023. 69）[^corbella-2023]。
+    step2: |-
+      英伽登承认：只要从认识论立场、或从先验现象学立场内部处理实在论问题，便无出路可确立一个心灵独立世界的存在与关于它的知识；但同样也无法确立真实世界依赖于意识，因为任何谈论世界本身及其本性的尝试都会沦为无意义——故从该立场看，世界存在之争只能悬而不决。不过他坚持哲学还有其他正当进路，而且应当从本体论而非认识论起步（Corbella 2023. 69）[^corbella-2023]。
+  - id: 18
+    kind: body
+    source: |-
+      According to Ingarden, the realism/idealism problem is fundamentally a metaphysical problem (about the actual existence of the so-called ‘real’ world and its relation to consciousness), but may be non-circularly approached via ontology by examining what the possible sorts of relation between consciousness and the world could be. In particular, Ingarden hoped that an ontological approach to the realism/idealism problem could lead to a solution by attempting to identify what the possible modes of being would be of the ‘real’ world and of consciousness, and how the two could possibly be related. This was the motive for his monumental work in ontology, *The Controversy over the Existence of the World*, designed to describe the different possible modes of being and their possible interrelations, with a view to narrowing down possible solutions to the realism/idealism problem. Unfortunately, the work was never fully completed (although the first two volumes were published and the third in progress at the time of Ingarden’s death), but the portions that exist nonetheless contain many important and detailed ontological analyses valuable in their own right as well as having the potential to contribute to the discussion of the realism/idealism controversy. Prominent among these is his distinction between formal, material, and existential ontologies, and distinguishing ‘modes of being’ as highest existential categories.
+    step1: |-
+      按英伽登的看法，实在论／唯心论问题从根本上是一个形而上学问题（关乎所谓“真实”世界的实际存在及其与意识的关系），但可以经由本体论、以非循环的方式接近：考察意识与世界之间可能的种种关系会是什么。尤其是，英伽登希望一种本体论进路能导向问题的解决：办法是尝试辨明“真实”世界与意识各自可能具有哪些存在方式，以及二者可能如何相关。这正是他那部本体论巨著《关于世界存在性的争论》的动机：该书的用意是描述各种可能的存在方式及其可能的相互关系，以期缩小实在论／唯心论问题的可能解答范围。遗憾的是，这部著作从未完全写成（尽管前两卷已出版，第三卷在英伽登去世时仍在进行中），但现存部分仍包含许多重要而细致的本体论分析，这些分析本身即有价值，也有潜力贡献于实在论／唯心论之争的讨论。其中尤为突出的是他对形式本体论、质料本体论与存在本体论的区分，以及把“存在方式”区分为最高的存在范畴。
+    step2: |-
+      在英伽登看来，实在论／唯心论问题归根到底是形而上学问题（关乎所谓“真实”世界是否实际存在、与意识是何关系），但可以循本体论作非循环的接近：考察意识与世界之间可能存在哪些关系。他尤其希望，本体论进路能通过辨明“真实”世界与意识各自可能的存在方式、以及二者可能如何相关，而导向问题的解决。这便是那部本体论巨著《关于世界存在性的争论》的动因：书旨在描述各种可能的存在方式及其可能的相互关系，以缩小实在论／唯心论之争的解答范围。可惜此书终未写完（前两卷已刊，第三卷在作者去世时仍在写作），但现存部分已含大量重要而细致的本体论分析，本身即有独立价值，亦有望参与实在论／唯心论之争的讨论。其中格外突出的，是他对形式本体论、质料本体论与存在本体论的区分，以及把“存在方式”立为最高存在范畴。
+  - id: 19
+    kind: body
+    source: |-
+      ### 2.2 Modes of Being
+    step1: |-
+      ### 2.2 Modes of Being
+    step2: |-
+      ### 2.2 存在方式
+  - id: 20
+    kind: body
+    source: |-
+      Most traditional category systems, such as Aristotle’s, lay out a single dimension of categories supposed to be mutually exclusive and exhaustive. Ingarden, by contrast, develops a multi-dimensional category scheme by dividing ontology into three parts: formal, material and existential ontologies, corresponding to three distinct aspects that may be discerned in any entity (its formal structure, material nature, and mode of being respectively). These different formal, material and existential aspects of the object, studied by the different types of ontology, may thus be used to classify an object in any of three interpenetrating dimensions (although not all combinations among formal, material and existential modes are possible).
+    step1: |-
+      大多数传统范畴体系（如亚里士多德的体系）只铺陈一个维度的范畴，并设想这些范畴互斥且穷尽。英伽登则不同：他通过把本体论分为三部分来发展一套多维度的范畴图式：形式本体论、质料本体论与存在本体论，分别对应任何实体中可辨识的三个不同面向（其形式结构、质料本性与存在方式）。这样，由不同类型本体论所研究的对象的这些形式、质料与存在面向，就可以在三个相互渗透的维度中用来给对象分类（尽管形式、质料与存在方式之间的组合并非全部可能）。
+    step2: |-
+      传统范畴体系（如亚里士多德者）大多只铺一个维度，且假定诸范畴互斥而穷尽。英伽登不然：他把本体论分为三支——形式本体论、质料本体论、存在本体论——从而建立多维度范畴图式，分别对应任何实体中可分辨的三个面向（形式结构、质料本性、存在方式）。三类本体论所研究的形式、质料与存在面向，因而可在三个相互渗透的维度上为对象分类（尽管三者的组合并非全都可能）。
+  - id: 21
+    kind: body
+    source: |-
+      The formal categories are marked by such familiar ontological divisions as those between objects, processes and relations. Following Husserl, in addition to these, Ingarden distinguishes material categories, with high-level material kinds including, e.g., works of art and real (spatio-temporal) objects. Finally, claiming there is an essential ambiguity in the term ‘exists’, Ingarden also goes on to distinguish different existential categories or “modes of being”—different ways in which entities may exist, e.g., dependently or independently, in time or not, contingently or necessarily, etc.
+    step1: |-
+      形式范畴以那些为人熟知的本体论区分标出，例如对象、过程与关系之间的区分。追随胡塞尔，英伽登除此之外还区分质料范畴，其高层质料种类包括例如艺术作品与实在的（时空）对象。最后，英伽登主张“存在”一词含有本质性的歧义，进而区分不同的存在范畴或“存在方式”——即实体得以存在的不同方式，例如依赖地或独立地存在、在时间中或不处于时间中、偶然地或必然地存在等等。
+    step2: |-
+      形式范畴由一些熟悉的本体论区分标出，如对象、过程与关系之别。英伽登随胡塞尔之后，又区分质料范畴，其高层质料种类包括艺术作品、实在的（时空）对象等。最后，他主张“存在”一词有本质性的歧义，进而区分不同的存在范畴，即“存在方式”——实体得以存在的不同样式：依赖地或独立地、在时间中或不落时间、偶然地或必然地，等等。
+  - id: 22
+    kind: body
+    source: |-
+      The modes of being are defined in terms of different characteristic combinations of ‘existential moments’. The existential moments mostly concern either an object’s temporal determinations (or lack thereof), or the different dependencies it bears (or does not bear) to other sorts of object. He uses these existential moments in distinguishing different categories of object, in a multi-dimensional system. For a detailed presentation and critical discussion of Ingarden’s existential moments and their relation to Ingarden’s clasificatory system, see Simons (2023).
+    step1: |-
+      存在方式是通过“存在环节”的不同特征组合来定义的。这些存在环节大多涉及对象的时间规定（或其缺失），或涉及它与其他种类对象之间所承担（或不承担）的不同依赖关系。英伽登正是用这些存在环节，在一个多维体系中区分不同类别的对象。关于英伽登诸存在环节及其与英氏分类系统之关系的详细呈现与批判性讨论，见 Simons（2023）。
+    step2: |-
+      存在方式由“存在环节”的不同特征组合来定义。这些环节多关乎对象的时间规定（或全无规定），或关乎它与其他种类对象所负（或不负）的种种依赖关系。英伽登即以这些环节，在多维体系中划分对象类别。关于诸存在环节及其与英氏分类系统之关系的详细呈现与批判性讨论，见 Simons（2023）。
+  - id: 23
+    kind: body
+    source: |-
+      In investigating the existential moments that characterize a temporal mode of being, Ingarden makes original contributions to work in the ontology and phenomenology of time, arguing that the past and future exist, but in a different mode of being than the present (for more on Ingarden’s contribution to these debates see Kobiela 2019)[^kobiela-2019]. In drawing out the different dependencies that an entity can bear on another, Ingarden goes beyond Husserl’s influential work on dependence to distinguish four different existential moments of dependence (and their contrasting moments of independence): Contingency (the dependence of a separate entity on another in order to *remain in* existence); Derivation (the dependence of an entity on another in order to *come into* existence); Inseparateness (the dependence of an entity that can only exist if it coexists with something else *in a single whole*); and Heteronomy (the dependence of an entity for its existence *and entire qualitative endowment* on another). In so doing, Ingarden develops one of the richest and most detailed analyses of dependence ever offered, providing distinctions in the notion of dependence that can clarify many philosophical problems including but certainly not limited to the realism/idealism problem. For further discussion of Ingarden’s theory of dependence, see DeRizzo (2021).
+    step1: |-
+      在考察刻画某种时间性存在方式的存在环节时，英伽登对时间本体论与时间现象学作出了原创贡献：他主张过去与未来都存在，但其所具有的存在方式不同于现在（关于英伽登在这些争论中的贡献，另见 Kobiela 2019）[^kobiela-2019]。在抽绎一个实体可能对另一实体承担的种种依赖时，英伽登超出了胡塞尔关于依赖的有影响的工作，区分出四种不同的依赖存在环节（及其对应的独立环节）：偶存性（一个分离实体为*继续*存在而依赖另一实体的那种依赖）；派生性（一个实体为*开始*存在而依赖另一实体的那种依赖）；不可分离性（一个实体只有在与某物*共处于一个整体之中*才能存在的那种依赖）；以及他律性（一个实体在其存在*与全部性质禀赋*上依赖另一实体的那种依赖）。英伽登由此发展出有史以来最丰富、最细致的依赖分析之一，为依赖概念提供了诸多区分，足以澄清许多哲学问题——当然不限于实在论／唯心论问题。关于英伽登依赖理论的进一步讨论，见 DeRizzo（2021）。
+    step2: |-
+      考察刻画某一时间性存在方式的存在环节时，英伽登于时间本体论与时间现象学皆有创获：他主张过去与未来同样存在，只是存在方式不同于现在（关于他在这些争论中的贡献，另见 Kobiela 2019）[^kobiela-2019]。而在抽绎一实体可能对另一实体所负的种种依赖时，他越出胡塞尔论依赖的名作，厘出四种依赖存在环节（及其相反的独立环节）：偶存性（分离实体为*继续*存在而依赖他者的那种依赖）；派生性（实体为*开始*存在而依赖他者的依赖）；不可分离性（实体唯有与某物*共处一整体*方能存在的依赖）；他律性（实体在其存在*与全部性质禀赋*上依赖他者的依赖）。英伽登因此给出了有史以来最丰富、最细密的依赖分析之一，其区分足以澄清许多哲学难题，而不限于实在论／唯心论之争。关于其依赖理论的进一步讨论，见 DeRizzo（2021）。
+  - id: 24
+    kind: body
+    source: |-
+      Ingarden’s four highest existential-ontological categories or ‘modes of being’ are: Absolute, Real, Ideal, and Purely Intentional. The absolute mode of being could be exhibited only by a being such as God, which could exist even if nothing else whatsoever ever existed. The ideal mode of being is a timeless mode of existence suitable for platonistically conceived numbers; the real mode of being is that of contingent spatio-temporal entities such as the realist assumes ordinary rocks and trees to be; while the purely intentional mode of being is that occupied by fictional characters and other entities which owe their existence and nature to acts of consciousness. Thus in Ingarden’s hands, the realism/idealism controversy is reconfigured as the controversy over whether the so-called ‘real world’ has the real or purely intentional mode of being. (For further discussion of the Purely Intentional mode of being and its role in the theory of perception, see Chrudzimski 2015 and Uemura 2019)[^chrudzimski-2015][^uemura-2019]
+    step1: |-
+      英伽登四个最高的存在本体论范畴或“存在方式”是：绝对者、实在者、观念者与纯意向者。绝对的存在方式只有上帝这样的存在者才能展示，因为即使其他一切都不存在，它仍能存在。观念的存在方式是一种无时间的存在，适于柏拉图式地设想的数；实在的存在方式属于偶然的时空实体，实在论者以为寻常岩石与树木即是；而纯意向的存在方式则为虚构人物以及其他其存在与本性归功于意识行为的实体所占。这样，在英伽登手中，实在论／唯心论之争就被重新表述为：所谓“真实世界”究竟具有实在的存在方式，还是纯意向的存在方式。（关于纯意向存在方式及其在知觉理论中的作用的进一步讨论，见 Chrudzimski 2015 与 Uemura 2019。）[^chrudzimski-2015][^uemura-2019]
+    step2: |-
+      英伽登的四个最高存在论范畴，即四种“存在方式”，是：绝对者、实在者、观念者、纯意向者。绝对的存在方式唯上帝这样的存在者可以具备：纵使其他一切皆不存在，它仍能在。观念的存在方式无时间，适于柏拉图式设想的数。实在的存在方式属偶然的时空实体，即实在论者所理解的寻常岩石草木。纯意向的存在方式则为虚构人物等实体所占，它们的存在与本性系于意识行为。于是英伽登把实在论／唯心论之争改写成：所谓“真实世界”究竟具实在的存在方式，还是纯意向的存在方式。（关于纯意向存在方式及其在知觉理论中的角色，另见 Chrudzimski 2015、Uemura 2019。）[^chrudzimski-2015][^uemura-2019]
+  - id: 25
+    kind: body
+    source: |-
+      ## 3. Aesthetics
+    step1: |-
+      ## 3. Aesthetics
+    step2: |-
+      ## 3 美学
+  - id: 26
+    kind: body
+    source: |-
+      ### 3.1 *The Literary Work of Art*
+    step1: |-
+      ### 3.1 *The Literary Work of Art*
+    step2: |-
+      ### 3.1 《文学的艺术作品》
+  - id: 27
+    kind: body
+    source: |-
+      By far Ingarden’s best-known and most influential work, especially in the English-speaking world, is *The Literary Work of Art*, which was written around 1926, and first published in German in 1931. It is fundamentally a work in ontology, in Ingarden’s sense (see §2 above), laying out the essential features anything must have to be counted as a literary work, what parts it must have and how they are interrelated, and how such entities as literary works relate to other sorts of entities such as authors, copies of texts, readers, and ideal meanings.
+    step1: |-
+      英伽登最著名、也最有影响的著作——尤其在英语世界——无疑是《文学的艺术作品》。该书约写于 1926 年，1931 年首次以德文出版。它在根本上是英伽登意义上的本体论著作（见上文第 2 节），阐明任何东西要被算作文学作品必须具备的本质特征、它必须具备哪些部分以及这些部分如何相互关联，还阐明文学作品这样的实体如何与作者、文本副本、读者以及观念意义等其他种类的实体相关联。
+    step2: |-
+      英伽登最负盛名、影响最大的著作——在英语世界尤其如此——当推《文学的艺术作品》。书约成于 1926 年，1931 年以德文初版。它骨子里是一部英伽登意义上的本体论著作（见上文第 2 节）：摆出任何东西要被算作文学作品所需具备的本质特征、必须具备的各个部分及其相互关系，也摆出文学作品这类实体与作者、文本副本、读者、观念意义等实体的关系。
+  - id: 28
+    kind: body
+    source: |-
+      As with so much of Ingarden’s philosophical work, he undertakes this study of the ontology of the literary work in part with the motive of using its results to argue against transcendental idealism—indeed he conceived of *The Literary Work of Art* as a preliminary study for *The Controversy*. Literary works and the characters and objects represented in them were to provide examples of purely intentional objects—objects owing their existence and essence to consciousness. Thus a detailed study of works of literature and their represented objects could serve to explicate the purely intentional mode of being, with a view to contrasting this with the real mode of being and ultimately demonstrating that it is impossible to reduce the ‘real world’ to the status of a purely intentional creation. (*Streit*, vii–viii). Nonetheless, this motive remains largely behind the scenes of the detailed studies of language and literature in *The Literary Work of Art*, which can be (and largely has been) described and evaluated without reference to these broader motives, as an independent contribution to aesthetics and literary theory.
+    step1: |-
+      与英伽登许多哲学工作一样，他从事这项文学作品本体论研究，部分动机是要用其结果来反驳先验唯心论——事实上他把《文学的艺术作品》设想为《争论》的预备性研究。文学作品以及其中所再现的人物与对象，本应提供纯意向对象的实例——其存在与本质归功于意识的对象。于是，对文学作品及其再现对象的细致研究，可以阐明纯意向的存在方式，以便与实在的存在方式相对照，并最终表明：不可能把“真实世界”贬为一种纯意向的创造物。（*Streit*, vii–viii）然而，这一动机在《文学的艺术作品》中对语言与文学的具体研究中大体隐于幕后；这些研究可以（而且大体已经）在不涉及上述更宽动机的情况下被描述与评价，作为对美学与文学理论的独立贡献。
+    step2: |-
+      和英伽登的许多哲学工作一样，他做这项文学作品本体论研究，部分是为了以其结论反驳先验唯心论：他实际上把《文学的艺术作品》当作《争论》的预备研究。文学作品及其所再现的人物与对象，本该充当纯意向对象的实例——其存在与本质系于意识。如此，对文学作品及其再现对象的细致研究，就能阐明纯意向的存在方式，以与实在的存在方式对照，最终表明“真实世界”不可能被贬为纯意向的造物。（*Streit*, vii–viii）不过这一动机在书中的语言与文学研究里大体隐于幕后；那些研究可以（事实上也大体已经）撇开这层更宏阔的动机来评述，作为对美学与文学理论的独立贡献。
+  - id: 29
+    kind: body
+    source: |-
+      The work begins by attempting to determine the ‘mode of existence’ of the literary work—essentially the same problem that today goes under the heading of understanding the ontological status of works of literature, music, etc. In twelve concise pages, he provides compelling reasons to reject both attempts to identify literary works with “real” objects or events such as copies of texts or the psychological experiences of authors or readers, and attempts to identify them with platonistic “ideal” objects such as ordered manifolds of sentences or meanings. Each such attempted identification leads to various absurdities, e.g. the view literary works are physical objects would lead us to say that such works differ by chemical composition; the view that they are experiences of the author would make them completely unknowable, while the view that they are experiences of readers would prevent us from postulating a single work *Hamlet* known by many readers; and the view that they are ideal objects would entail that literary works may never be created and cannot be changed, even by their authors.
+    step1: |-
+      全书从试图判定文学作品的“存在方式”开始——实质上就是今天所谓理解文学、音乐等作品之本体论地位的问题。在短短十二页中，他给出了有力的理由，既拒绝把文学作品等同于文本副本或作者、读者的心理体验之类的“实在”对象或事件，也拒绝把它们等同于有序语句集或有意义序集之类的柏拉图式“观念”对象。每一种这样的等同都会导致种种荒谬：例如，若认为文学作品是物理对象，则会推出作品按化学成分而彼此不同；若认为它们是作者的体验，则作品将完全不可知；若认为它们是读者的体验，则我们就无法设定一部被众多读者所知的单一作品《哈姆雷特》；而若认为它们是观念对象，则会推出文学作品从来不能被创造，也不能被改变，即便是其作者也无从改动。
+    step2: |-
+      全书从判定文学作品的“存在方式”入手——实质就是今日所谓理解文学、音乐等作品之本体论地位的问题。他只用十二页，便给出有力理由，既拒绝把文学作品等同于“实在”对象或事件（文本副本、作者或读者的心理体验），也拒绝把它等同于柏拉图式的“观念”对象（有序语句集或意义序集）。每一种等同都引出荒谬：若作品是物理对象，则作品会因化学成分不同而不同；若作品是作者的体验，则作品完全不可知；若作品是读者的体验，则无法设想有某一部被众多读者共知的《哈姆雷特》；若作品是观念对象，则文学作品永不能被创造、亦不能被更改，连作者本人也改不动。
+  - id: 30
+    kind: body
+    source: |-
+      As a result, works of literature cannot be classified in either of the major categories of objects accepted by traditional metaphysics—neither the categories of the real nor the ideal are suited for them. Any acceptable ontology of literature thus must accept entities of another category. As Ingarden ultimately argues towards the close of the text, the literary work is a “purely intentional formation,” derived from the sentence-forming activities of its author(s), and founded on some public copy of these sentences, and also depending for its existence and essence on a relation to certain ideal meanings attached to the words of the text.
+    step1: |-
+      因此，文学作品无法归入传统形而上学所接受的任何一个主要对象范畴——实在范畴与观念范畴都不适合它们。于是任何可接受的文学本体论都必须承认另一范畴的实体。正如英伽登最终在全书结尾处所论证的：文学作品是一种“纯意向构成物”，它派生于其作者的造句活动，奠基于这些语句的某个公共副本之上，并且在其存在与本质上还依赖于与文本语词所附着的某些观念意义的关系。
+    step2: |-
+      可见文学作品既不能归入实在范畴，也不能归入观念范畴——传统形而上学所认的两大对象范畴都不合用。故凡可接受的文学本体论，都必须承认另有一类实体。英伽登在全书末尾终于论定：文学作品是一种“纯意向构成物”，它派生于作者的造句活动，奠基于这些语句的某个公共副本，且其存在与本质还系于与文本语词所系属的某些观念意义的关系。
+  - id: 31
+    kind: body
+    source: |-
+      While the question of the ontological status of the literary work forms the work’s beginning, most of the details of the text are dedicated to drawing out an “essential anatomy” of the literary work, determining its essential parts and their relations to one another. Ingarden conceives of this task as preliminary to any questions of the values that works of literature may or may not have, as we will be better able to see where values of different types can inhere once we know what the different parts of the literary work are.
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      According to Ingarden, every literary work is composed of four heterogeneous strata:
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      1. Word sounds and phonetic formations of higher order (including the typical rhythms and melodies associated with phrases, sentences and paragraphs of various kinds)
+      2. Meaning units (formed by conjoining the sounds employed in a language with ideal concepts; these also range from the individual meanings of words to the higher-order meanings of phrases, sentences, paragraphs, etc.)
+      3. Schematized aspects (these are the visual, auditory, or other ‘aspects’ via which the characters and places represented in the work may be ‘quasi-sensorially’ apprehended)
+      4. Represented entities (the objects, events, states of affairs, etc. represented in the literary work and forming its characters, plot, etc.).
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      Each of these strata has room for its own typical sorts of aesthetic value (or disvalue); thus we may distinguish the values of rhythm, alliteration, or mellifluousness at the level of word sounds, from the values in interesting (or jarring) juxtapositions of ideas and concepts at the level of meaning units, from the quasi-visual splendor of the scene presented, from the values of sympathetic or complex characters and intricate plots.
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      The values of a literary work, however, are not exhausted by the separate values of its several strata, for the strata do not exist separately, but rather form an ‘organic unity’. Among the strata are various forms of mutual dependence and influence, and the harmonies or disharmonies among the strata (e.g. between the halting rhythms of a character’s speech and his timid personality) may contribute other aesthetic merits or demerits to the work. Most importantly, in cooperation with the other strata, the stratum of represented objects may present “metaphysical qualities” such as the tragic, the dreadful, the peaceful and so on, which characterize true works of art. The work of literature as a whole, thus, is a “polyphonic harmony,” much like a piece of polyphonic music in which each singer’s voice may lend aesthetic qualities of its own to the value of the whole, while the greatest values of the work as a whole may lie in the intricate interrelations among the values of all of the individual elements.
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      A stratified theory like Ingarden’s has considerable strengths. It provides a framework within which we can offer detailed analyses of literary works identifying their many sorts of value or disvalue, rather than simply passing judgment on the whole. As a result, many apparent conflicts in judgments of taste may be resolved without embracing subjectivism, by noting that the individuals concerned may be passing judgment on different strata of the literary work. It also enables us to understand stylistic differences among authors and over time as differences in which strata are emphasized and which de-emphasized, e.g. as many modernist works de-emphasize the traditionally foregrounded stratum of represented objects in favor of juxtaposed images at the level of schematized aspects (e.g. Virginia Woolf’s *The Waves*), or even background both of these to the rhythms and sound patterns at the level of phonetic formations (e.g. Edith Sitwell’s nonsense poetry). Yet we can do so without seeing such changes as forming a radical break or undermining the idea that these are all part of a continuous literary tradition.
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      ### 3.2 The Musical Work, The Picture, The Architectural Work
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      In 1928, immediately after writing *The Literary Work of Art*, Ingarden expanded his analyses of the ontology of art from literature, to also discuss music, painting, and architecture in a series of essays originally intended as an appendix to *The Literary Work of Art*. As it happened, however, the appendix was not published along with *The Literary Work of Art*, and remained dormant until after the war, when (in 1946) essays on the picture and the architectural work were published in Polish. The three studies were expanded and finally published in German in 1961, along with an article on film, and were not translated into English until 1989. The late date of their release and the fact that they remain little known is a great shame, as they address many of the same ontological issues as those debated in ‘analytic’ aesthetics, and provide not only compelling arguments against many popular positions but also analyses of the ontological structure of works of various kinds, which are unsurpassed in subtlety and detail.
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      The first three essays of *The Ontology of the Work of Art*, “The Musical Work,” “The Picture,” and “The Architectural Work” each attempt to determine the ontological status of the work of art in question, its relation to concrete entities such as copies of the score, sound events, painted canvasses or buildings, as well as to creative acts of artists and the conscious states of viewers. Each also examines whether and to what extent the form of art in question, like the literary work, may turn out to have a stratified structure.
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      The musical work, Ingarden argues, is distinct from experiences of its composer and listeners, and cannot be identified with any individual sound event, performance or copy of the score. But nor can it be classified among ideal entities, since it is created by a composer at a certain time, not merely discovered (*Ontology*, 4–5). It thus apparently falls between categories such as the ‘real’ and the ‘ideal’, and so accepting the existence of musical works (like literary works) seems to require us to accept the existence of things in a category distinct from either of those—that of purely intentional objects. The musical work is a purely intentional object with its ‘source of being in the creative acts of the composer and its ontic foundation in the score’ (*Ontology*, 91). In itself, a traditionally scored work of Western music is a schematic formation full of places of indeterminacy (e.g. it may be indeterminate exactly how loudly a note is to be played, or how long it should be held), which are filled out differently in various performances. Unlike the literary work, however, the work of music is not a stratified entity, there being no essential representing function of the sounds of the musical work (unlike the sounds of a novel).
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      The picture, too, is a purely intentional object, created by an artist and founded both in a real painting (a paint-covered canvas), and in the viewer’s operations of apprehending it. The picture as a work of art cannot be identified with the real paint-covered canvas hanging in a gallery, for the two have different properties and different modes of cognitive accessibility. The picture can only be seen, and indeed only seen from certain points of view; the painting, by contrast, can be seen, smelled, heard, or even tasted, and can be observed from any point of view. Ingarden also holds that the picture as such (unlike the painting) is not an individual object of any sort—one and the same picture may be presented in many paintings (if they are all perfect copies of an original). (It might be worth noting that while this is plausible enough for the picture, considered as such, we do typically treat works of visual art as one-off individual objects (distinct from perfect copies or forgeries).) Moreover, the picture, to be seen, requires that viewers take up a certain cognitive attitude regarding it, not required to observe the painting.
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      “The Architectural Work” is perhaps the most interesting of the three major essays in the *Ontology of the Work of Art*, for it suggests how Ingarden’s examination of works of art may be broadened out to form the framework for a general theory of social and cultural objects and their relations to the more basic physical objects posited by the natural sciences (Thomasson 2005)[^thomasson-2005]. The architectural work might seem to pose the crucial objection to Ingarden’s view that works of art are ‘purely intentional objects’ having at least *a* foundation of their existence in the intentional states of their makers and viewers: “After all, the Notre Dame of Paris appears to be no less real than the many residential buildings that stand in its vicinity, than the island upon which it was built, the river that flows nearby, and so on” (255). Nonetheless, even in this case, Ingarden argues, the architectural work is not a mere independent ‘real’ object, although it is founded on one (the ‘heap of stones’ forming its physical basis). For its existence as an architectural work requires not only its creation by an architect (rather than its coming into existence as a mere natural formation), but also requires the ‘reconstructive acts of the viewer’ taking up a certain attitude towards the real object and helping co-constitute its aesthetic and even its sensible properties. The work of architecture is thus a doubly founded object, which “refers back not only to the creative acts of the architect and the reconstructive acts of the viewer, but also to its ontic foundation in a fully determined real thing shaped in a particular way” (*Ontology*, 263).
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      (The fact that even such purely intentional objects as works of art of various kinds are founded not exclusively in consciousness, but also (in various ways) on real spatio-temporal objects, is also an important part of Ingarden’s arguments against idealism, suggesting that even if the proper mode of being for the world of experience *was* purely intentional being, that still would not be sufficient to show that *all* that exists is a pure product of consciousness.)
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      This situation for architecture parallels that for a great many of the social and cultural objects of our everyday experience in what Husserl called the ‘life-world’. As Ingarden emphasizes, a flag, for example, should not be identified with the mere piece of cloth of which it is fashioned, for it has different essential properties, and has an additional foundation in the mental acts of the community that accept it as a flag and endow it with meanings and embed it in norms of action (e.g. we are not to clean pots with it but to use it in rendering military honors). Similarly, a church is not identical with the real building on which it is founded, but rather is created only through acts of consecration and the preservation of appropriate attitudes in the relevant community. In virtue of its secondary dependence on acts of consciousness, the church is endowed with various (social and cultural) properties and functions that a mere ordered heap of building materials cannot have. In this way, Ingarden provides the basis for an account of the nature of cultural and social objects that takes neither the reductionist route of identifying them with their physical bases, nor the subjectivist route of treating all objects as mere social constructions. The life-world takes its unique place as the common product of acts of consciousness and an independent real world, and its existence (in quite specific ways) presupposes that of both of those foundations.
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      ### 3.3 Aesthetic Objects, Aesthetic Values, and Aesthetic Experience
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      In addition to his work on the ontology of art objects of various kinds, Ingarden also undertook general work on the ontological status of the aesthetic object and the nature of aesthetic values, as well as phenomenological work on the experience of works of art of various kinds. On the object side, as we have seen, he distinguishes in each case between the mere physical object and the work of art; but he also distinguishes both of these from what he calls the “concretization” (sometimes translated as “concretion”) of the work of art, which he considers to be the true ‘aesthetic object’. The work of art itself, in the case of most forms of art such as literature, painting, or music, is what Ingarden calls a “schematic formation.” That is, it has certain ‘places of indeterminacy’, many of which are filled in by an individual interpretation or ‘reading’ of the work. Thus in the case of literature, there are many places of indeterminacy at the level of character and plot—unlike in the case of real people, it is often simply indeterminate what a literary character had for breakfast, how far she sat back from the table, what the table was made of, etc. Such indeterminacies are generally partially filled in by the reader in reconstructing the work, as the reader’s background assumptions help (at least partially) flesh out the skeletal imaginary scene directly presented by the words of the text. Similarly, a representational painting generally leaves indeterminate, e.g., what the back of the person’s head looks like in the case of a portrait, what they are thinking, or what happens immediately before or after the moment visually represented in paintings of historical events. Yet again, viewers’ reconstructive acts typically supplement these indeterminacies in various ways, e.g. automatically grasping the lower right corner of Breugel’s ‘Fall of Icarus’ as presenting the moment between a fall from the sky and the complete disappearance of the body under water (not, e.g., as presenting an attempt at an underwater handstand). Finally, in the case of music, a score leaves indeterminate various elements such as the precise timbre and fullness of tone, and these are filled out in different ways in different performances of the work. In each case, (at least partially) filling in the indeterminacies of the work through a reading, performance, or viewing renders the work more ‘concrete’. Each work of art permits of a variety of legitimate concretizations which, unlike the work of art itself, may vary from viewer to viewer. If the concretion occurs within the aesthetic attitude, an aesthetic object is formed (*Selected Papers*, 93), and so many aesthetic objects may be based on one and the same work of art.
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      Corresponding to this three-fold distinction between physical object, work of art, and aesthetic object, Ingarden posits a three-fold distinction among properties. While the mere physical object possesses only value-neutral physical properties, the work of art may possess both ‘axiologically neutral’ properties such as having a certain sentence structure or bearing patches of color arranged in certain ways, and artistic value qualities founded on these, such as clarity or obscurity of expression, technical mastery in the way the materials are worked, balance of composition, etc. Aesthetic values such as serenity, sublimity, profundity, etc., though they exist ‘potentially’ in the work of art, only manifest themselves in the aesthetic objects created through concretizing the work of art, and characterize the aesthetic object as a whole, although their appearance may depend on that of many particular properties of the work of art and physical object. Since various aesthetic objects may be based on one and the same work of art, these may also differ in their aesthetic values. This can, at least in part, help account for the variety of aesthetic judgments that may be formed apparently concerning the same work of art.
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      Yet as usual, Ingarden is concerned to account for the role of consciousness in constituting aesthetic values and the variations in aesthetic judgments without embracing a subjectivism that would deny that there is any better or worse in aesthetic judgment, each being a mere report of the pleasure experienced by the one judging. Such subjectivism is to be avoided by noting first, that some concretizations are better suited to the work’s demands than others, more faithful, or better able to bring out the potential values in the work. A careful interpreter and evaluator can, through repeated contact with the work, come increasingly close to separating out idiosyncratic elements of her interpretations from what is proper to the work. Secondly, the aesthetic properties of the resulting concretization are not arbitrary inventions of the viewer, nor are they based on the pleasure she derives from the experience. Instead, their appearance simply requires a competent viewer to observe the work’s neutral and artistic values in an aesthetic attitude. Thus here, as elsewhere, Ingarden’s goal is ultimately to account for the legitimate role of consciousness in constituting many of the objects and properties experienced by us, while also avoiding a pure subjectivism or universal social constructivism by acknowledging the role of an independent ‘real’ world in founding the cultural objects and value properties we so often concern ourselves with in daily life.
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      In addition to his work on the ontology of works of art and their values, Ingarden also engaged in directly phenomenological investigations into the nature of our experience of works of art of various kinds. For example, he examines our experience of literature in *The Cognition of the Literary Work of Art.* As Jeff Mitscherling notes, Ingarden interrupted his work on *The Controversy over the Existence of the World* to write this volume—in order to first establish “that the literary work of art subsists independently of the acts of consciousness both of its author and of its readers, and that it persists in such a way as to be intersubjectively accessible to any number of aestheticaly engaged subjects” (2023, 114), thus beginning with problems about the intersubjectivity of the cultural world, before moving on to address the problem of the existence of the ‘real’ world. The investigations of the experience of works of literature found in *The Literary Work of Art* and *The Cognition of the Literary Work of Art* are unparalleled in richness of insights. One particularly interesting contribution is his discussion of the difference between our ordinary experience of time, time as it is represented in works of literature, and as it is experienced in reading works of literature. For discussion of this contribution and its relevance to work not only in philosophy of literature but also in the philosophy of time, see Elsby (2023).
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      Ingarden also investigates our experience of music in *The Work of Music and the Problem of its Identity*, and of aesthetic experience more generally (including experience of sculpture) in “Aesthetic Experience and Aesthetic Object”. In each case he is concerned not only to offer a detailed analysis of the development of the relevant aesthetic experience (including its development over time), but also to contrast such aesthetic experiences with cases of ordinary sense perception, undertaken in what he calls a ’practical’ or an ‘investigating attitude’ (1961, 295). For an overview of Ingarden’s work on the aesthetic attitude and comparison to Bence Nanay’s recent work, see Mäcklin (2023).
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      ## 4. Influence
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      Ingarden’s influence on philosophy and literary studies continues to grow. His phenomenological approach to aesthetics strongly influenced the work of Mikel Dufrenne in *The Phenomenology of Aesthetic Experience* (1953)*.* Ingarden’s work on literature (especially in *The Literary Work of Art*) has been an enormous influence in literary studies, where its effects are visible in Wolfgang Kayser’s work *Das sprachliche Kunstwerk* and in the development of the schools of New Criticism and Reader Response Theory in the work of such theorists as René Wellek and Wolfgang Iser, respectively. Ingarden’s greatest impact in analytic philosophy has also been in aesthetics. There are strong resonances between his work on the ontology of art and contemporary analytic work in aesthetics, e.g., by Joseph Margolis, Nelson Goodman and Jerrold Levinson. Ingarden’s contributions to musical aesthetics are compared to recent work by Scruton and Levinson in Świderski (2023). There has been ongoing discussion of his studies of aesthetic experience in recently revived discussions about the ‘aesthetic attitude’. As Harri Mäcklin puts it, “Ingarden’s thinking on the aesthetic attitude in many ways prefigures, exceeds, and augments the contemporary debate on aesthetic attention” (2023, 139). Theories of fiction and fictional characters (such as Thomasson 1999)[^thomasson-1999] have been heavily influenced by Ingarden’s work. Others have used his work to help understand new art forms, as Matthew Gladden (2023) appeals to Ingarden’s notions of concretization and of the ‘life cycle’ of the work of art to help explain the enduring appeal of relatively indeterminate 8-bit computer games from the 1980s.
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      Ingarden was also a significant influence on the life and work of Pope John Paul II (Karol Wojtyła). Ingarden was his teacher at the Jagiellonian University in Krakow, introduced him to work in phenomenology, and the two later collaborated on work in phenomenology (Kuliniak and Pandura 2025, 4)[^kuliniak-2025]. From Ingarden, as well as his study of Max Scheler, Wojtyła took on a realist phenomenological approach that combined “a commitment to the irreducible nature of the human subject with an acknowledgement of objective reality” (Köchler 2008. 175)[^köchler-2008]. Wojtyła also delivered the homily at Ingarden’s funeral in 1970 (Rice 2008, 305)[^rice-2008]. For discussion of Wojtyła’s philosophical work, its relation to phenomenology, and to his leadership as Pope John Paul II, see Köchler (2008).
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: oir
+    source: |-
+      - [The Roman Ingarden Digital Archive](https://ingarden.archive.uj.edu.pl/en/home/), Jagiellonian University, Poland.
+      - [Roman Ingarden and the Realism/Idealism Debate](https://www.ontology.co/ingardenr.htm), (maintained by Raul Corazzon)
+      - [Roman Ingarden](http://www.newworldencyclopedia.org/entry/Roman_Ingarden), in *New World Encyclopedia*.
+      - [Roman Witold Ingarden](https://www.porta-polonica.de/en/atlas-of-remembrance-places/roman-witold-ingarden), in *Porta Polonica*.
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: ack
+    source: |-
+      Thanks to Ira Richardson for research assistance with the 2020 updated version of this entry.
+    step1: TBD
+    step2: TBD
