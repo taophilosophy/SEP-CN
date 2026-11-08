@@ -1,0 +1,385 @@
+version: 1
+slug: gersonides
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Perhaps no other medieval Jewish philosopher has been so maligned over the centuries as Gersonides (Levi ben Gerson, acronym Ralbag). Indeed, his major philosophical work, *Sefer Milhamot Ha-Shem* (*The War of the Lord*, 1329), was called “*Wars against the Lord*” by one of his opponents. Despite the vilification of his position, Gersonides emerges as one of the most significant and comprehensive thinkers in the medieval Jewish tradition. He has been constantly quoted (even if only to be criticized), and, through the works of Hasdai Crescas and others, Gersonides’ ideas have influenced such thinkers as Gottfried Wilhelm Leibniz and Benedict de Spinoza. This article will survey his major contributions to medieval philosophy.
+    step1: |-
+      或许没有其他中世纪犹太哲学家像吉尔松尼德（Gersonides，即列维·本·格尔松，缩写 Ralbag）那样，在数百年间遭到如此多的诋毁。确实，他的主要哲学著作《上帝之战》（*Sefer Milhamot Ha-Shem*，*The War of the Lord*，1329），曾被一位反对者称作“*讨伐上帝之战*”。尽管他的立场遭到污蔑，吉尔松尼德仍堪称中世纪犹太传统中最重要、最全面的思想家之一。他不断被引用（哪怕只是为了批评他），而且通过哈斯代·克雷斯卡斯（Hasdai Crescas）等人的著作，吉尔松尼德的观念影响了戈特弗里德·威廉·莱布尼茨（Gottfried Wilhelm Leibniz）与本尼迪克特·德·斯宾诺莎（Benedict de Spinoza）这类思想家。本文将综述他对中世纪哲学的主要贡献。
+    step2: |-
+      在中世纪犹太哲学家中，吉尔松尼德（Gersonides，本名列维·本·格尔松，缩写 Ralbag）也许是数百年来受诋毁最多的一位。他的主要哲学著作《上帝之战》（*Sefer Milhamot Ha-Shem*，*The War of the Lord*，1329）就曾被一位论敌讥为“*讨伐上帝之战*”。屡遭污蔑之后，吉尔松尼德仍不失为中世纪犹太传统中最重要、最全面的思想家之一。他的著作不断被人引用，哪怕只是为了反驳；经由哈斯代·克雷斯卡斯（Hasdai Crescas）等人的著作，他的观念又影响了戈特弗里德·威廉·莱布尼茨（Gottfried Wilhelm Leibniz）与本尼迪克特·德·斯宾诺莎（Benedict de Spinoza）这样的思想家。本文将综述他对中世纪哲学的主要贡献。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Introduction
+    step1: |-
+      ## 1. 导论
+    step2: |-
+      ## 1 导论
+  - id: 3
+    kind: body
+    source: |-
+      In the introduction to his recently completed translation of *Wars of the Lord*, Feldman suggests that the significance of Gersonides lies in his emphasis upon “religious rationalism in Judaism.” According to Feldman, we see a man who “has taken seriously the fact that he has reason, who believes that this faculty is God-given, and who attempts to understand God with this instrument” (*Wars*, p. 52). Gersonides is the philosopher who attempted to show that philosophy and Torah, that reason and revelation are co-extensive; he is a philosophical optimist who believes that reason was fully competent to attain all the important and essential truths. Thus, according to Feldman, Gersonides is “a most vigorous and consistent defender of human reason in religion”(*Wars*, p. 53).
+    step1: |-
+      在他新近完成的《上帝之战》译本导言中，Feldman 提出，吉尔松尼德的意义在于他对“犹太教中的宗教理性主义”的强调。按照 Feldman 的看法，我们看到的是这样一个人：“他认真对待自己拥有理性这一事实，相信这种能力是上帝所赐，并试图以这一工具去理解上帝”（*Wars*, p. 52）。吉尔松尼德正是那位试图表明哲学与托拉、理性与启示范围相同的哲学家；他是一位哲学乐观主义者，相信理性完全有能力获得一切重要而本质的真理。因此，按 Feldman 的说法，吉尔松尼德是“宗教中人类理性最有力、最一贯的捍卫者”（*Wars*, p. 53）。
+    step2: |-
+      Feldman 新近完成《上帝之战》的英译，他在译本导言中提出：吉尔松尼德的意义，在于他强调“犹太教中的宗教理性主义”。在 Feldman 笔下，这个人“认真对待自己拥有理性这一事实，相信这种能力为上帝所赐，并力图用这件工具去理解上帝”（*Wars*, p. 52）。吉尔松尼德力图证明：哲学与托拉、理性与启示，其范围完全重合。他是一位哲学乐观主义者，相信理性足以获得一切重要而本质的真理。因此 Feldman 称他为“宗教中人类理性最有力、最一贯的捍卫者”（*Wars*, p. 53）。
+  - id: 4
+    kind: body
+    source: |-
+      This trust is reflected in Gersonides’ introductory remarks to *Wars*. There, Gersonides upholds the primacy of reason, attributing to Maimonides the position that “we must believe what reason has determined to be true. If the literal sense of the Torah differs from reason, it is necessary to interpret those passages in accordance with the demands of reason” (*Wars*, p. 98). Gersonides believes that reason and Torah cannot be in opposition: “if reason causes to affirm doctrines that are incompatible with the literal sense of Scripture, we are not prohibited by the Torah to pronounce the truth on these matters, for reason is not incompatible with the true understanding of the Torah” (*ibid.*). Thus reason is upheld as a criterion for achieving truth.
+    step1: |-
+      这种信任也反映在吉尔松尼德为《上帝之战》所写的导言中。在那里，吉尔松尼德维护理性的优先地位，并把如下立场归于迈蒙尼德（Maimonides）：“我们必须相信理性已判定为真者。如果托拉的字面含义与理性相异，就必须依照理性的要求来解释那些段落”（*Wars*, p. 98）。吉尔松尼德相信理性与托拉不可能相互对立：“如果理性使人肯定某些与经文（Scripture）字面含义不相容的学说，托拉并不禁止我们在此类问题上说出真理，因为理性与对托拉的真实理解并不相悖”（*ibid.*）。于是理性被奉为达到真理的标准。
+    step2: |-
+      这种信任同样见于吉尔松尼德为《上帝之战》所写的导言。他在其中维护理性的优先地位，并把下述立场归给迈蒙尼德：“凡是理性判定为真的，我们都必须相信。托拉的字面含义若与理性相左，就应当按理性的要求去解释那些段落”（*Wars*, p. 98）。在他看来，理性与托拉不可能彼此对立：“理性若促使人肯定某些与经文（Scripture）字面含义不相容的学说，托拉并不禁止我们就此类问题说出真相，因为理性并不违背对托拉的真解”（*ibid.*）。理性由此成为判别真理的标准。
+  - id: 5
+    kind: body
+    source: |-
+      ## 2. Biography
+    step1: |-
+      ## 2. 生平
+    step2: |-
+      ## 2 生平
+  - id: 6
+    kind: body
+    source: |-
+      Gersonides left few letters and does not talk about himself in his writings; nor is his life discussed at great length by his contemporaries. Hence, what is known of his biography is sketchy at best. Levi ben Gerson was born in 1288 in Provence and may have lived for a time in Bagnol sur-Ceze. It is probable that his father was Gershom ben Salomon de Beziers, a notable mentioned in medieval histories. With the decline of Spanish Judaism in the thirteenth century, Provence quickly became the cultural center for Jewish intellectual activity. The popes in Avignon had a lenient policy toward the Jews, whose creative life flourished, particularly in philosophy and theology. Jewish philosophers did not have direct access to the works of Aristotle, but Provençal Jews learned of Aristotle through the commentaries of Averroes, the twelfth-century Spanish Muslim philosopher. By the end of the thirteenth century these commentaries had been translated from Arabic into Hebrew, and Averroes’ thought, as well as that of Aristotle, was being integrated into the mainstream of Jewish philosophy.
+    step1: |-
+      吉尔松尼德留下的书信很少，在自己的著作中也不谈自己；同时代人也没有详细讨论他的生平。因此，关于他生平的所知充其量只是梗概。列维·本·格尔松 1288 年生于普罗旺斯（Provence），可能有一段时间住在巴尼奥尔叙塞兹（Bagnol sur-Ceze）。他的父亲很可能是贝济耶的格肖姆·本·所罗门（Gershom ben Salomon de Beziers），中世纪史书中提到的一位显要人物。随着十三世纪西班牙犹太教的衰落，普罗旺斯很快成为犹太人知识活动的文化中心。阿维尼翁（Avignon）的历任教皇对犹太人政策宽和，他们的创造生活因而兴旺，尤其是在哲学与神学方面。犹太哲学家无法直接读到亚里士多德的著作，但普罗旺斯的犹太人通过十二世纪西班牙穆斯林哲学家阿威罗伊（伊本·鲁世德）的注释了解亚里士多德。到十三世纪末，这些注释已从阿拉伯文译成希伯来文，阿威罗伊的思想以及亚里士多德的思想正被整合进犹太哲学的主流。
+    step2: |-
+      吉尔松尼德留下的书信寥寥无几，著作中也从不谈自己，同时代人对他的生平同样着墨不多。因此后人所知的生平，至多只是梗概。列维·本·格尔松 1288 年生于普罗旺斯，可能一度住在巴尼奥尔叙塞兹。他的父亲大概是贝济耶的格肖姆·本·所罗门——中世纪史书中提到的一位显要人物。十三世纪西班牙犹太教衰落之后，普罗旺斯迅速成为犹太人知识活动的文化中心。阿维尼翁的历任教皇对犹太人宽和，犹太人的创造生活随之兴旺，哲学与神学尤为突出。犹太哲学家读不到亚里士多德的原著，只能借十二世纪西班牙穆斯林哲学家阿威罗伊的注释去了解他。到十三世纪末，这些注释已由阿拉伯文译成希伯来文，阿威罗伊与亚里士多德的思想一并汇入犹太哲学的主流。
+  - id: 7
+    kind: body
+    source: |-
+      Gersonides may have married a distant cousin; it is not known whether he had any offspring. Although Gersonides spoke Provençal, his works are all written in Hebrew, and all of his quotations from Averroes, Aristotle, and Moses Maimonides are in Hebrew as well. He may have had a reading knowledge of Latin; he appears to manifest an awareness of contemporary Scholastic discussions. He might, however, have learned of such discussions in oral conversations with his Christian contemporaries. Apart from several trips to Avignon, Gersonides most likely resided his entire life in Orange. There is some evidence that he may have followed the traditional occupation of his family, moneylending. He died on 20 April 1344.
+    step1: |-
+      吉尔松尼德可能娶了一位远房表亲；是否有子女则不得而知。虽然吉尔松尼德讲普罗旺斯语，他的著作却全部用希伯来文写成，他引自阿威罗伊、亚里士多德和摩西·迈蒙尼德的话也一律是希伯来文。他可能具备阅读拉丁文的能力；他似乎对当时的经院哲学讨论有所了解。不过，他也可能是通过与基督教同时代人的口头交谈得知这些讨论的。除了数次前往阿维尼翁，吉尔松尼德很可能一生都住在奥朗日（Orange）。有些证据表明，他可能从事过家族的旧业，即放贷。他于 1344 年 4 月 20 日去世。
+    step2: |-
+      吉尔松尼德也许娶过一位远房表亲，有无子女不详。他会讲普罗旺斯语，但著作一律用希伯来文写成，引自阿威罗伊、亚里士多德和摩西·迈蒙尼德的话也全是希伯来文。他大概能读懂拉丁文，对当时的经院哲学论争似有所知；不过这些知识也可能来自与基督教同时代人的口头交谈。除几次前往阿维尼翁外，他很可能终生住在奥朗日。有迹象显示，他或许承袭了家族的老行当：放贷。1344 年 4 月 20 日，他去世。
+  - id: 8
+    kind: body
+    source: |-
+      In addition to Averroes and Aristotle, Gersonides was influenced by Moses Maimonides, his greatest Jewish philosophical predecessor. Gersonides’ works can be seen as an attempt to integrate the teachings of Aristotle, as mediated through Averroes and Maimonides, with those of Judaism. In *Milhamot Ha-Shem* he laid down the general rule that “the Law cannot prevent us from considering to be true that which our reason urges us to believe.” His adherence to this principle is reflected throughout his work.
+    step1: |-
+      除阿威罗伊与亚里士多德之外，吉尔松尼德还受摩西·迈蒙尼德的影响，后者是他之前最伟大的犹太哲学前辈。吉尔松尼德的著作可以看作一种尝试：把经由阿威罗伊与迈蒙尼德中介的亚里士多德学说，与犹太教的学说整合起来。在《上帝之战》中，他立下一条通则：“律法不能阻止我们把理性促使人相信的东西视为真。”他对这一原则的遵循贯穿其全部著作。
+    step2: |-
+      除阿威罗伊与亚里士多德，吉尔松尼德还受教于摩西·迈蒙尼德，那是他之前最伟大的犹太哲学前辈。可以说，他的著作都在尝试把亚里士多德的学说——经过阿威罗伊与迈蒙尼德转手的学说——与犹太教熔为一炉。在《上帝之战》中，他立下一条通则：“凡理性促使我们相信为真者，律法不能阻止我们视之为真。”这条原则贯穿他的全部著作。
+  - id: 9
+    kind: body
+    source: |-
+      ## 3. Major Works
+    step1: |-
+      ## 3. 主要著作
+    step2: |-
+      ## 3 主要著作
+  - id: 10
+    kind: body
+    source: |-
+      In her recent study of Gersonides’ science, Glasner notes that Gersonides “stands out as one of the more creative and daring figures in the medieval west” (Glasner 2015, p. 13)[^glasner-2015]. What distinguished Gersonides from his predecessors was his reliance upon and consummate knowledge of mathematics, coupled with his belief in the accuracy of observations achieved by the use of good instruments. Because of this rootedness in empirical observation bolstered by mathematics, Gersonides believed that he had the tools to succeed where others had failed. Only when he has resolved the problems in astronomy does Gersonides apply their findings to theological cosmology. As we shall see, Gersonides’ theology and astronomy are deeply involved with each other.
+    step1: |-
+      在最近关于吉尔松尼德科学的研究中，Glasner 指出，吉尔松尼德“是中世纪西方较有创造力和胆识的人物之一”（Glasner 2015, p. 13）[^glasner-2015]。使吉尔松尼德区别于前辈的，是他对数学的依赖与精通，加上他相信借助良好仪器所作的观察是准确的。正因为这种扎根于经验观察、又受数学支撑的取向，吉尔松尼德相信自己拥有在他人失败之处取得成功的工具。只有在解决了天文学中的问题之后，吉尔松尼德才把其发现应用于神学宇宙论。我们将会看到，吉尔松尼德的神学与天文学深深纠缠在一起。
+    step2: |-
+      Glasner 在晚近一部研究吉尔松尼德科学的著作中指出，吉尔松尼德“是中世纪西方最具创造力、最富胆识的人物之一”（Glasner 2015, p. 13）[^glasner-2015]。他与前辈的不同之处，在于他既倚重数学、又精通数学，并且相信只要仪器精良，观察就能准确。正因如此——经验观察为根，数学为辅——他相信自己握有工具，能在别人失败的地方成功。他总是在解决了天文学难题之后，才把结论用于神学宇宙论。下文将会说明，他的神学与天文学彼此缠绕极深。
+  - id: 11
+    kind: body
+    source: |-
+      This realist stance is stated in the context of examining al-Bitruji’s astronomical proposals. Gersonides’ contention is that “no argument can nullify the reality that is perceived by the senses, for true opinion must follow reality but reality need not conform to opinion” (Goldstein 1974, p. 24)[^goldstein-1974]. That Gersonides clearly considered his own observations to be the ultimate test of his system is explicit from his attitude towards Ptolemy. The importance of empirical observation cannot be underestimated, he claims, and he values his own observations over those of others. “We did not find among our predecessors from Ptolemy to the present day observations that are helpful for this investigation except our own” (*Wars*, V.1.3, p. 27), he says in describing his method of collecting astronomical data. Often his observations do not agree with those of Ptolemy, and in those cases he tells us explicitly that he prefers his own. Gersonides lists the many inaccuracies he has found trying to follow Ptolemy’s calculations. Having investigated the positions of the planets, for example, Gersonides encountered “confusion and disorder” which led him to deny several of Ptolemy’s planetary principles (Goldstein 1988, p. 386). He does warn his colleagues, however, to dissent from Ptolemy only after great diligence and scrutiny. Both John Buridan and Gersonides took the first steps in the 14th century toward a principle of inertia; in the words of Touati, Gersonides was the first to “have a presentiment of the principle of inertia” (see Touati 1973, pp. 103, 311)[^touati-1973]. Glasner supports Touati’s contention, claiming that “Gersonides had a rudimentary, not yet correct, but insightful understanding of the concept of inertial motion.” Gersonides was aware of its significance and used it in order to lay the basis for a new physics, an alternative to that of Aristotle. (see Glasner 2015, p 36)[^glasner-2015] He did not rely on a theory of impetus [as did Buridan], which turned out to be an advantage.
+    step1: |-
+      这种实在论立场是在考察 al-Bitruji 的天文学主张时陈述的。吉尔松尼德的论点是：“任何论证都不能取消感官所感知的实在，因为真意见必须追随实在，而实在无须迁就意见”（Goldstein 1974, p. 24）[^goldstein-1974]。吉尔松尼德显然把自己所作的观察视为对其体系的最终检验，这一点从他对托勒密（Ptolemy）的态度中可以看得很清楚。他断言，经验观察的重要性不可低估，并且他重视自己的观察甚于他人的观察。“从托勒密到今天的先辈中，我们没有找到对我们这项研究有用的观察，唯有我们自己的观察除外”（*Wars*, V.1.3, p. 27），他在描述自己收集天文数据的方法时这样说。他的观察常常与托勒密的观察不一致，在那些情形下，他明确告诉我们他更信自己的观察。吉尔松尼德列举了他在试图遵循托勒密计算时所发现的许多不准确之处。例如，在考察各行星的位置之后，吉尔松尼德遇到“混乱与失序”，这使他否定了托勒密的若干行星原则（Goldstein 1988, p. 386）。不过他确实告诫同行：只有在极为勤勉、反复审视之后，才可以背离托勒密。布里丹（John Buridan）与吉尔松尼德都在十四世纪迈出了通向惯性原理的最初步伐；用 Touati 的话说，吉尔松尼德是第一个“预感到惯性原理”的人（see Touati 1973, pp. 103, 311）[^touati-1973]。Glasner 支持 Touati 的说法，她认为“吉尔松尼德对惯性运动这一概念的理解虽属初步、尚不正确，却颇具洞见”。吉尔松尼德意识到其意义，并用它为一个新的物理学——亚里士多德物理学的替代方案——奠定基础（see Glasner 2015, p 36）[^glasner-2015]。他不像布里丹那样依赖冲力说，而事实证明这是一项优势。
+    step2: |-
+      这一实在论立场，是在考察 al-Bitruji 的天文学方案时提出的。吉尔松尼德的论点是：“任何论证都无法取消感官所感知的实在；真意见必须追随实在，实在却不必迁就意见”（Goldstein 1974, p. 24）[^goldstein-1974]。他把自己的观察当作检验体系的最终标准，对托勒密的态度便是明证。他强调经验观察的重要性不可低估，并且看重自己的观察甚于他人。“从托勒密到今天，前辈留下的观察没有一项对我们的研究有用，只有我们自己的观察例外”（*Wars*, V.1.3, p. 27）——他这样描述自己收集天文数据的方法。他的观察常与托勒密不合，遇到这种情况，他总是明说更相信自己的结果。他逐一列出自己依照托勒密计算时发现的许多不准确之处。比如考察行星位置时，他遭遇“混乱与失序”，于是否定了托勒密的若干条行星原则（Goldstein 1988, p. 386）。但他也告诫同行：必须极其勤勉、反复推敲之后，才可以背离托勒密。十四世纪，布里丹（John Buridan）与吉尔松尼德都迈出了通向惯性原理的最初步伐。用 Touati 的话说，吉尔松尼德是第一个“对惯性原理有所预感”的人（see Touati 1973, pp. 103, 311）[^touati-1973]。Glasner 赞同这一判断，认为“吉尔松尼德对惯性运动的理解虽属初步，尚未正确，却很有洞见”。他清楚这一点的分量，并借它为一个新的物理学奠基，以替代亚里士多德的物理学（see Glasner 2015, p 36）[^glasner-2015]。他没有像布里丹那样求助于冲力说，事实证明这反而成了优势。
+  - id: 12
+    kind: body
+    source: |-
+      Gersonides’ scientific works comprise mathematics and astronomy. His *Sefer Ma’aseh Hoshev* (*The Work of a Counter*, 1321) is concerned with arithmetical operations and uses of a symbolic notation for numerical variables. Gersonides’ major scientific contributions were in astronomy; his works were known by his contemporaries and influenced later astronomers. His astronomical writings are contained primarily in book 5, part 1 of *Milhamot Ha-Shem*. In 136 chapters Gersonides reviews and criticizes astronomical theories of the day, compiles astronomical tables, and describes one of his astronomical inventions. This instrument, which he called *Megalle ‘amuqqot* (*Revealer of Profundities*) and which was called *Bacullus Jacobi* (*Jacob’s staff*) by his Christian contemporaries, was used to measure the heights of stars above the horizon. The astronomical parts of *Milhamot Ha-Shem* were translated into Latin during Gersonides’ lifetime. One of the craters of the moon, *Rabbi Levi*, is named after him.
+    step1: |-
+      吉尔松尼德的科学著作包括数学与天文学。他的《计算者之书》（*Sefer Ma’aseh Hoshev*，*The Work of a Counter*，1321）讨论算术运算，并使用一种符号记法表示数值变量。吉尔松尼德的主要科学贡献在天文学；他的著作同时代人已知，并影响了后来的天文学家。他的天文学著述主要收在《上帝之战》第 5 卷第 1 部分。在 136 章中，吉尔松尼德评述并批评当时的天文学理论，编制天文表，并描述了他的一项天文发明。这件仪器他称为 *Megalle ‘amuqqot*（《揭示深奥者》），他的基督教同时代人则称之为 *Bacullus Jacobi*（雅各棒）；它用于测量恒星在地平线以上的高度。《上帝之战》的天文学部分在吉尔松尼德生前已被译成拉丁文。月球上的一座环形山“拉比列维”（*Rabbi Levi*）就以他的名字命名。
+    step2: |-
+      吉尔松尼德的科学著作涵盖数学与天文学。《计算者之书》（*Sefer Ma’aseh Hoshev*，*The Work of a Counter*，1321）讨论算术运算，并用符号记法表示数值变量。他的主要科学贡献在天文学：著作生前已为人所知，也影响了后世的天文学家。天文学文字主要收在《上帝之战》第 5 卷第 1 部分：他用了 136 章评述并批评当时的天文学说，编制天文表，还介绍自己发明的一件仪器。这仪器他称作 *Megalle ‘amuqqot*（《揭示深奥者》），基督教同时代人则叫它 *Bacullus Jacobi*（雅各棒），用来测量恒星在地平线以上的高度。《上帝之战》中的天文学部分，在他生前已译成拉丁文。月球上有一座环形山就叫“拉比列维”（*Rabbi Levi*），是以他命名的。
+  - id: 13
+    kind: body
+    source: |-
+      Gersonides was well known as a Halakhist, one who deals with the intricacies of Jewish law. From this respect, his greatest contribution to Judaica was in the area of biblical commentary. His commentary on the Book of Job, completed in 1325, proved to be one of his most popular works and was one of the earliest Hebrew books to be published (in Ferrara, 1477). The commentary, which complements book 4 of *Milhamot Ha-Shem*, is concerned with the problem of divine providence. Each of the characters in the Book of Job represents a different theory of divine providence; Gersonides’ own position is a restatement of Elihu’s theory that providence is not directed to particulars but rather to groups of individuals, or universals.
+    step1: |-
+      吉尔松尼德以哈拉哈学者（Halakhist）——即处理犹太律法细务的人——而知名。就此而言，他对犹太学的最大贡献在圣经注释领域。他完成于 1325 年的《约伯记》注释，成为他最受欢迎的著作之一，也是最早出版的希伯来文书籍之一（1477 年，费拉拉）。这部注释与《上帝之战》第 4 卷相辅相成，讨论的是神意问题。《约伯记》中的每个人物都代表一种不同的神意理论；吉尔松尼德自己的立场则是对以利户（Elihu）理论的复述：神意并不指向个别事物，而是指向个体组成的类，或者说共相。
+    step2: |-
+      吉尔松尼德也是知名的哈拉哈学者，专治犹太律法的种种细务。就这一方面说，他对犹太学的最大贡献在圣经注释。他 1325 年完成的《约伯记》注释是他最受欢迎的著作之一，也是最早付印的希伯来文书籍之一（1477 年，费拉拉）。这部注释与《上帝之战》第 4 卷相配，讨论神意问题。《约伯记》里的人物各代表一种神意理论；吉尔松尼德本人的立场，则是重述以利户之说：神意不针对个别事物，而针对个体所属的类，也就是共相。
+  - id: 14
+    kind: body
+    source: |-
+      Gersonides also wrote a logical treatise, *Sefer Ha-heqesh Ha-yashar* (*On Valid Syllogisms*, 1319), in which he examines problems associated with Aristotle’s modal logic as developed in the Prior Analytics. This treatise was translated into Latin at an early date, although Gersonides’ name was not attached to it.
+    step1: |-
+      吉尔松尼德还写了一部逻辑论著《论正确三段论》（*Sefer Ha-heqesh Ha-yashar*，*On Valid Syllogisms*，1319），其中考察与亚里士多德在《前分析篇》中发展的模态逻辑相关的问题。这部论著很早就被译成拉丁文，不过吉尔松尼德的名字并未附于其上。
+    step2: |-
+      他还著有逻辑论著《论正确三段论》（*Sefer Ha-heqesh Ha-yashar*，*On Valid Syllogisms*，1319），讨论亚里士多德在《前分析篇》中展开的模态逻辑所涉及的问题。此书很早就有了拉丁文译本，只是没有署上吉尔松尼德的名字。
+  - id: 15
+    kind: body
+    source: |-
+      Gersonides’ major philosophical work, *Milhamot Ha-Shem*, was completed in 1329; it had been twelve years in the making. In 1317 Gersonides began an essay on the problem of creation. This problem, which has vexed Jewish philosophers since Philo Judaeus, had recently received elaborate treatment by Maimonides. Gersonides was dissatisfied with Maimonides’ discussion and proposed to reopen the issue. This project was soon laid aside, however, for he felt that it could not be adequately discussed without proper grounding in the issues of time, motion, and the infinite. By 1325 his manuscript had developed to include discussion not only of creation but also of immortality, divination, and prophecy. By 1328 it included a chapter on providence as well. Books 5 and 6 were completed, by Gersonides’ own dating, by 1329.
+    step1: |-
+      吉尔松尼德的主要哲学著作《上帝之战》于 1329 年完成，前后历时十二年。1317 年，吉尔松尼德开始写一篇论创世问题的文章。这个问题自亚历山大的斐洛（Philo Judaeus）以来一直困扰犹太哲学家，而迈蒙尼德新近对它作了精细的处理。吉尔松尼德不满于迈蒙尼德的讨论，提议重开此案。然而这项计划很快被搁置，因为他觉得若不在时间、运动与无限这些问题上有适当的根基，就无从充分讨论它。到 1325 年，他的手稿已扩展到不仅讨论创世，还讨论不朽、占卜与预言。到 1328 年，其中又加入了论神意的一章。按吉尔松尼德自己的纪年，第 5、6 卷在 1329 年完成。
+    step2: |-
+      他的主要哲学著作《上帝之战》完成于 1329 年，前后写了十二年。1317 年，他为创世问题动笔。这个问题自亚历山大的斐洛以来一直困扰犹太哲学家，迈蒙尼德新近又作了细致的处理。吉尔松尼德不满意迈蒙尼德的讨论，打算重开此案。但计划很快搁下：他觉得若不先在时间、运动、无限这些问题上打好根基，创世问题就谈不充分。到 1325 年，手稿已不只讨论创世，还涉及不朽、占卜与预言；到 1328 年，又添了论神意的一章。按他自己的纪年，第 5、6 卷在 1329 年完成。
+  - id: 16
+    kind: body
+    source: |-
+      As Isaac Husik has pointed out, Gersonides “has no use for rhetorical flourishes and figures of speech … the effect upon the reader is monotonous and wearisome.” His style has been compared to that of Thomas Aquinas and even of Aristotle in its use of a precise, technical vocabulary which eschews examples. In contradistinction to Maimonides, who introduced allegory, metaphor, and imprecise language into his work to convey the ambiguity of the subject matter, Gersonides saw it as his function to elucidate the issues as clearly as possible. Gersonides is the first Jewish philosopher to use this analytic, scholastic method.
+    step1: |-
+      正如 Isaac Husik 所指出的，吉尔松尼德“对修辞的雕饰和辞格毫无兴趣……给读者的印象是单调而令人疲倦”。他的文风被比作托马斯·阿奎那乃至亚里士多德的文风，因为它使用精确的术语词汇，而回避举例。迈蒙尼德把寓言、隐喻和不精确的语言引入著作，以传达主题的含混；吉尔松尼德则不同，他认为自己的职责是尽可能清晰地阐明问题。吉尔松尼德是第一位使用这种分析性的经院方法的犹太哲学家。
+    step2: |-
+      Isaac Husik 指出，吉尔松尼德“对修辞的藻饰和辞格毫无兴趣……给读者的印象单调而令人厌倦”。有人把他的文风比作托马斯·阿奎那、甚至亚里士多德：术语精确，一律不用例证。迈蒙尼德借寓言、隐喻与含混的措辞来传达题旨的暧昧，吉尔松尼德却相反，他认为自己的职责是把问题讲得尽可能清楚。犹太哲学家中，第一个使用这套分析性的经院方法的正是他。
+  - id: 17
+    kind: body
+    source: |-
+      ## 4. Major Themes in *Milhamot Ha-shem*
+    step1: |-
+      ## 4. 《上帝之战》的主要论题
+    step2: |-
+      ## 4 《上帝之战》的主要论题
+  - id: 18
+    kind: body
+    source: |-
+      In the introduction to *Milhamot*, Gersonides specifies six questions which he hopes to examine: Is the rational soul immortal? What is the nature of prophecy? Does God know particulars? Does divine providence extend to individuals? What is the nature of astronomical bodies? Is the universe eternal or created? Each question occupies a separate book. Gersonides attempts to reconcile traditional Jewish beliefs with what he feels are the strongest points in Aristotle’s philosophy. Although a synthesis of these systems is his ultimate goal, philosophy often wins out at the expense of theology.
+    step1: |-
+      在《上帝之战》的导言中，吉尔松尼德列出他希望考察的六个问题：理性灵魂是不朽的吗？预言的本性是什么？上帝知道个别事物吗？神意是否延伸到个体？天体的本性是什么？宇宙是永恒的，还是被造的？每个问题各占一卷。吉尔松尼德试图把传统犹太信仰与他认为亚里士多德哲学中最强的要点调和起来。尽管这些体系的综合是他的最终目标，哲学却常常战胜神学。
+    step2: |-
+      《上帝之战》的导言列出他要考察的六个问题：理性灵魂是否不朽？预言的本性如何？上帝是否知道个别事物？神意是否及于个体？天体的本性是什么？宇宙是永恒的，还是被造的？六个问题各占一卷。他力图把传统犹太信仰与亚里士多德哲学中他认为最有力的部分调和起来。综合两套体系是他的最终目标，但得胜的往往是哲学，神学则作出牺牲。
+  - id: 19
+    kind: body
+    source: |-
+      Gersonides’ attitude toward previous astronomers, coupled with his faith in human reason, are reflected in his discussion of creation. Maimonides went to great lengths to maintain that the topic of creation is beyond rational demonstration. Gersonides, on the other hand, devotes many chapters in *Milhamot* VI to proving that the Platonic theory of creation out of an eternal formless matter is rationally demonstrable. The question of whether the universe was created or had existed from eternity had been treated by Maimonides in an ambiguous manner; scholars still disagree over whether Maimonides ultimately upheld an Aristotelian, Platonic, or scriptural doctrine of creation. Gersonides’ position is unambiguously Platonic. Gersonides argues that the world was created outside of time by a freely willing agent. He must then decide whether the world was engendered *ex nihilo* or out of a preexistent matter. Arguing that *ex nihilo* creation is incompatible with physical reality, he adopts a model drawn from Plato’s *Timaeus*. Gersonides interprets the opening of Genesis to refer to two types of matter. *Geshem* is the primordial matter out of which the universe was created; not capable of motion or rest, it was characterized by negation and was inert and chaotic. This matter is identified with the primeval waters described in Genesis. *Homer* is prime matter, in the Aristotelian sense of a substratum always aligned with form. It contains within itself the potentiality to receive forms but is not an ontologically independent entity. Gersonides compares this matter to darkness: just as darkness is the absence of light, this matter represents the absence of form or shape. As noted by Glasner (2015) and Freudenthal (1987), this notion of a body that does not preserve its shape offered several important advantages. First, the space between the spheres, which is subject to continuous change, is filled by the body that does not preserve its shape, and so transmission can be explained by contact. Second, in the context of his theory of creation, this amorphous body is a remnant of the pre-existent entity (thou va-vohu) from which God shaped the world. On this basis Gersonides argues that the world was created out of an eternally preexistent matter.
+    step1: |-
+      吉尔松尼德对先前天文学家的态度，连同他对人类理性的信心，都反映在他的创世讨论中。迈蒙尼德费尽力气坚持创世问题超出理性论证的范围。吉尔松尼德则相反，在《上帝之战》第 6 卷中用许多章来证明：从永恒的无形质料中创世这一柏拉图式理论，是可由理性证明的。宇宙是被造的，还是自永恒便已存在，这个问题在迈蒙尼德那里处理得含混；学者们至今仍在争论，迈蒙尼德最终主张的是亚里士多德式、柏拉图式还是经文式的创世说。吉尔松尼德的立场明确是柏拉图式的。吉尔松尼德论证说，世界是由一位自由意愿的行动者在时间之外创造的。于是他必须判定：世界是无中生有（*ex nihilo*）产生的，还是出自先在的质料。他论证无中生有的创造与物理实在不相容，因而采用了一个取自柏拉图《蒂迈欧篇》的模型。吉尔松尼德把《创世记》的开篇解释为指两类质料。*Geshem* 是宇宙由之被造的原初质料；它既不能运动也不能静止，以否定为特征，惰性而无序。这种质料被等同于《创世记》所述的洪荒之水。*Homer* 是第一质料，取亚里士多德意义上的、始终与形式相配的基底之义。它自身含有接受形式的潜能，但并非在本体论上独立的实体。吉尔松尼德把这种质料比作黑暗：正如黑暗是光的缺失，这种质料代表形式或形状的缺失。正如 Glasner（2015）与 Freudenthal（1987）所指出的，这种“不保持自身形状的物体”的观念有几项重要优点。第一，天球之间不断变化的空间由这种不保持形状的物体填充，因而传递可以用接触来解释。第二，在他的创世理论中，这种无定形的物体是先在实体（thou va-vohu）的残余，上帝由之塑造世界。据此，吉尔松尼德论证世界是从永恒先在的质料中被造的。
+    step2: |-
+      吉尔松尼德对前辈天文学家的态度，与他对自己理性的信心，都体现在创世论中。迈蒙尼德竭力主张，创世这题目超出理性证明的范围。吉尔松尼德却用《上帝之战》第 6 卷的许多章去证明：世界出于永恒无形的质料而被造，这一柏拉图式理论完全可以由理性证明。宇宙究竟是被造的，还是自永恒即已存在？迈蒙尼德对此说得含混，学者们至今仍在争论他最终持亚里士多德式、柏拉图式还是经文式的创世说。吉尔松尼德的立场则一清二楚：柏拉图式。他论证世界是在时间之外由一位自由意愿的行动者创造的，接着必须决定：世界是无中生有（*ex nihilo*），还是出自先在的质料？既然无中生有与物理实在不相容，他便采用了一个取自柏拉图《蒂迈欧篇》的模型。他把《创世记》开篇读作指涉两类质料。*Geshem* 是宇宙由之造成的原初质料：它不能运动也不能静止，以否定为特征，惰性而混沌，并被等同于《创世记》里的洪荒之水。*Homer* 则是第一质料，即亚里士多德意义上始终与形式相合的基底；它自身含有接受形式的潜能，却不是本体论上独立的实体。吉尔松尼德把它比作黑暗：黑暗是光的缺失，这质料则是形式与形状的缺失。Glasner（2015）与 Freudenthal（1987）都指出，“不保持自身形状的物体”这一观念有几项重要优点。其一，天球之间不断变化的空间由这种不保形的物体填充，传递便可由接触来解释。其二，就他的创世论而言，这种无定形的物体是先在者（thou va-vohu）的残余，上帝用它塑造了世界。据此他论证：世界出于永恒先在的质料而被造。
+  - id: 20
+    kind: body
+    source: |-
+      Gersonides’ cosmology forms the backdrop of the other books of *Milhamot*. His predecessor Maimonides had claimed that no valid inference can be drawn from the nature of the sublunar sphere to that of the superlunar sphere. Gersonides, however, rejects the metaphysical bite to the distinction, and argues that inasmuch as both spheres contain material elements, what we know about creation is based on astronomy, and astronomy is fundamentally no different a human science than physics. Astronomy can only be pursued as a science by “one who is both a mathematician and a natural philosopher, for he can be aided by both of these sciences and take from them whatever is needed to perfect his work” (*Wars*, V.1.1, p. 23). Gersonides sees the ultimate function of astronomy to understand God. Astronomy, he tells us, is instructive not only by virtue of its exalted subject matter, but also because of its utility in the other sciences. By studying the orbs and stars, we are led ineluctably to a fuller knowledge and appreciation of God. Astronomy thus functions as the underpinning of the rest of the work.
+    step1: |-
+      吉尔松尼德的宇宙论构成《上帝之战》其余各卷的背景。他的前辈迈蒙尼德曾主张，从月下天球的性质不能有效地推论月上世界的性质。然而吉尔松尼德拒斥这一区分的形而上学锋芒，并论证说：既然两个天球都含有物质元素，我们关于创世的知识就以天文学为基础，而天文学作为一门人类科学，与物理学在根本上并无不同。天文学只有由“既通数学又是自然哲学家的人”才能作为一门科学来研究，“因为这两门科学都能帮助他，他可从中取得完善其工作所需的一切”（*Wars*, V.1.1, p. 23）。吉尔松尼德认为天文学的最终功能是理解上帝。他告诉我们，天文学之所以有教益，不仅因为其题材崇高，也因为它对其它科学有用。研究诸天球与星辰，会不可抗拒地把我们引向对上帝更充分的认识与领会。天文学由此成为全书其余部分的支撑。
+    step2: |-
+      吉尔松尼德的宇宙论为《上帝之战》其余各卷搭好了背景。前辈迈蒙尼德主张，从月下天球的性质推不出月上世界的性质。吉尔松尼德不承认这一区分有什么形而上学分量：两个天球都含有物质元素，而我们关于创世的知识以天文学为据；天文学作为一门人类科学，与物理学并无根本差别。在他看来，只有“既通数学、又治自然哲学的人”才能把天文学当作科学来做，“因为这两门学问都能帮他，他可从中取用完善工作所需的一切”（*Wars*, V.1.1, p. 23）。天文学的最终功能，是理解上帝。它不仅题材高卓而有教益，对其它科学也有用。研究诸天球与星辰，人便不由自主地被引向对上帝更充分的认识与领会。全书其余部分，正是以天文学为根基。
+  - id: 21
+    kind: body
+    source: |-
+      Gersonides’ discussion of immortality of the soul in book 1 must be understood against the backdrop of a notoriously difficult passage in Aristotle’s *On the Soul*, book 3, chapter 5 (430a22–25). In this passage Aristotle seems to postulate the existence of an active intellect which is separable from the passive intellect and which is primarily responsible for the intellectual activities of the human soul. But what is the relation between the active and passive intellects, and which, if either, is immortal? Gersonides states and rejects three positions that elucidate a version of the unity of intellect. The import of Gersonides’ critique of his predecessors can be reduced to three main issues. From a theological perspective, it is clear that the doctrine of unity of intellect threatens the notion of personal immortality. For if all humans share the same intellect, then upon physical death, all that remains of the person is an unindividualized intellect. Epistemologically, the doctrine is unable to account for how it is that two (or more) knowers can entertain contrary items of knowledge; or, more stringently, how one person can be mistaken about something another person knows. And from a metaphysical perspective, the main problem is how to individuate this separate intellect when it is manifested in many individuals: for if it is individuated materially on the basis that individual bodies differ, then the substance is no longer incorporeal or separate. As Feldman has pointed out, on this theory an incorporeal substance is either a unique member of a species or is not a member of a species at all (*Wars*, I.4, p. 79).
+    step1: |-
+      吉尔松尼德在第 1 卷中对灵魂不朽的讨论，必须放在亚里士多德《论灵魂》第 3 卷第 5 章（430a22–25）那段出了名难解的文本的背景下来理解。在这段文本中，亚里士多德似乎设定有一种能动理智存在，它可与被动理智分离，并且主要负责人类灵魂的理智活动。但能动理智与被动理智之间是什么关系？二者之中若有其一不朽，又是哪一个？吉尔松尼德陈述并否定了三种阐明某种“理智统一性”版本的立场。吉尔松尼德对前辈的批评，其要点可归结为三个主要问题。从神学的角度看，理智统一性的学说显然危及个人不朽的观念。因为如果所有人都共有同一个理智，那么肉体死亡之后，人身上所剩下的就只是一个未被个体化的理智。从认识论的角度看，这一学说无法说明两个（或更多）认识者何以能持有相反的知识内容；或者更严格地说，一个人何以会在另一个人所知的事情上出错。而从形而上学的角度看，主要问题在于：当这个独立理智显现于许多个体之中时，如何将它个体化？因为若它依据各个身体不同而在质料上被个体化，那么这一实体就不再是无形体的或独立的了。正如 Feldman 所指出的，按这一理论，一个无形实体要么是某个种中唯一的成员，要么根本不属于任何种（*Wars*, I.4, p. 79）。
+    step2: |-
+      吉尔松尼德在第 1 卷讨论灵魂不朽，其背景是亚里士多德《论灵魂》第 3 卷第 5 章（430a22–25）那段出了名难解的文字。亚里士多德似乎在那里设定：有一种能动理智，可与被动理智分离，并主要负责人类灵魂的理智活动。但能动理智与被动理智关系如何？两者之中若有其一不朽，是哪一个？吉尔松尼德列出三种阐明“理智统一性”的立场，并一一加以否定。他对前辈的批评，可归结为三个要点。从神学看，理智统一说显然危及个人不朽：若所有人共有一个理智，则肉身一死，人身上剩下的只是一个未个体化的理智。从认识论看，此说无法解释两个（或更多）认识者何以能持有互相抵触的知识，更严格地说，无法解释一个人何以会在另一个人确知的事情上出错。从形而上学看，主要难题是：这个独立理智显现于众多个体之中，如何个体化？若按各个身体不同而在质料上个体化，这实体便不再是无形体、不再独立了。Feldman 指出，按此理论，一个无形实体要么是某一种中唯一的成员，要么根本不属于任何种（*Wars*, I.4, p. 79）。
+  - id: 22
+    kind: body
+    source: |-
+      Gersonides avoids these untoward consequences by adopting the position of Alexander of Aphrodisias. Gersonides agrees with Alexander of Aphrodisias that immortality consists in the intellectual perfection of the material intellect. He disagrees with Alexander, however, over the precise nature of this intellectual attainment. For Alexander (according to Gersonides) had claimed that immortality is achieved when the intellect acquires knowledge of the Agent Intellect (hence the term “acquired intellect” is introduced). Immortality is thus understood by Alexander to be a form of conjunction between the Agent and acquired intellects. “They [the followers of Alexander] maintain that the material intellect is capable of immortality and subsistence when it reaches that level of perfection where the objects of knowledge that it apprehends are themselves intellects, in particular the Agent Intellect…[material intellect] is immortal when it is united with the Agent Intellect” (*Wars*, I.8, p. 170).
+    step1: |-
+      吉尔松尼德采用阿弗罗狄西亚的亚历山大的立场，以避免这些不利后果。吉尔松尼德同意阿弗罗狄西亚的亚历山大：不朽在于质料理智的理智完善。然而在这种理智成就的确切性质上，他与亚历山大意见不同。因为据吉尔松尼德，亚历山大曾主张：当理智获得对能动理智的知识时，不朽便达到了（“获得理智”一词即由此而来）。因此亚历山大把不朽理解为能动理智与获得理智之间的一种结合。“他们［亚历山大的追随者］主张，质料理智在达到那种完善程度——即它所把握的知识对象本身即是诸理智，尤其是能动理智——时，便能够不朽并持存……［质料理智］在与能动理智结合时便不朽”（*Wars*, I.8, p. 170）。
+    step2: |-
+      为避开这些不利后果，吉尔松尼德采纳阿弗罗狄西亚的亚历山大的立场。他同意亚历山大：不朽在于质料理智的理智完善。但在这项理智成就的确切性质上，两人分道。据吉尔松尼德所述，亚历山大主张：理智一旦获得对能动理智的知识，不朽便告达成——“获得理智”一词正由此而来。于是亚历山大把不朽理解为能动理智与获得理智之间的结合。“他们［亚历山大的追随者］认为，质料理智达到那样的完善境地——它所把握的知识对象本身即是诸理智，尤其是能动理智——便能不朽、能持存……［质料理智］与能动理智结合之时，即是不朽之时”（*Wars*, I.8, p. 170）。
+  - id: 23
+    kind: body
+    source: |-
+      Gersonides rejects this notion of conjunction, however, and replaces it with a model of immortality according to which it is the content of knowledge of the acquired intellect that matters. When the content of the acquired intellect mirrors the rational ordering of the Agent Intellect, immortality is achieved. What is the content of this knowledge? The Agent Intellect must possess complete knowledge of the sublunary world; that is, it “contains a conception of the rational order obtaining in all individuals” (*Wars*, I.4, p. 136). The anti-Platonic tenor of this position is emphasized when Gersonides describes in more detail what it is that the Agent Intellect knows. For according to Gersonides, the knowledge of the Agent Intellect must be grounded in the domain of particulars. Thus Gersonides’ position avoids the epistemological difficulties apparent in a realist ontology. Inasmuch as the material intellect reflects the knowledge inherent in the Agent Intellect, and inasmuch as this knowledge is grounded in particulars, it follows that humans can have knowledge of particulars; in this acquisition of knowledge lies immortality.
+    step1: |-
+      然而吉尔松尼德否弃这种结合观念，代之以另一种不朽模型：要紧的是获得理智的知识内容。当获得理智的内容映照出能动理智的理性秩序时，不朽便达到了。这种知识的内容是什么？能动理智必定拥有关于月下世界的完整知识；也就是说，它“含有一种关于在一切个体中存在的理性秩序的概念”（*Wars*, I.4, p. 136）。当吉尔松尼德更详细地描述能动理智所知为何时，这一立场的反柏拉图色彩便得到强调。因为按吉尔松尼德，能动理智的知识必须以个别事物领域为根基。这样，吉尔松尼德的立场便避开了实在论本体论中显然可见的认识论困难。既然质料理智反映能动理智所固有的知识，又既然这种知识以个别事物为根基，那么人就能拥有关于个别事物的知识；在这知识的获得之中，便有不朽。
+    step2: |-
+      吉尔松尼德不取这种结合说，另立一种不朽模型：关键在于获得理智所具有的知识内容。当获得理智的内容映现出能动理智的理性秩序，不朽便达成。这知识的内容是什么？能动理智必定完整地知道月下世界，也就是说，它“含有在一切个体中运行的那种理性秩序的概念”（*Wars*, I.4, p. 136）。吉尔松尼德进一步说明能动理智所知为何时，这一立场的反柏拉图意味就格外鲜明：在他看来，能动理智的知识必须以个别事物为根基。于是他的立场避开了实在论本体论中那些明显的认识论困难。质料理智既反映能动理智固有的知识，这知识又以个别事物为根基，人便能有关于个别事物的知识——不朽正在这知识的获得之中。
+  - id: 24
+    kind: body
+    source: |-
+      Books 2 to 4 focus on the relation between God and the world. The general problem is whether God’s knowledge is limited to necessary states of affairs or extends to the domain of contingency as well. If the former, then God could not be said to have knowledge of humans, and so divine providence would not be efficacious. But if God does know contingents—in particular, future contingent events—then it would appear that human freedom is curtailed by God’s prior knowledge of human actions. The problem of the apparent conflict between divine omniscience and human freedom was discussed by many medieval philosophers. Gersonides does not follow the majority opinion on this issue: rather than claim that God does know particulars and that this knowledge somehow does not affect human freedom, Gersonides argues that God knows particulars only in a certain sense. In an apparent attempt to mediate between the view of Aristotle, who said that God does not know particulars, and that of Maimonides, who said that he does, Gersonides holds that God knows particulars only insofar as they are ordered. That is, God knows that certain states of affairs are particular, but he does not know in what their particularity consists. God knows individual persons, for example, only through knowing the species humanity.
+    step1: |-
+      第 2 至第 4 卷聚焦于上帝与世界的关系。总的问题是：上帝的知识是仅限于必然的事态，还是也延伸到偶然性领域？若是前者，就不能说上帝知道人类之事，神意也就不会有效。但若上帝确实知道偶然之事——尤其是未来的偶然事件——那么人的自由似乎就被上帝对人类行为的预先知识所削减。许多中世纪哲学家都讨论过神的全知与人的自由之间这种表面冲突的问题。吉尔松尼德在这个问题上不随多数意见：他不主张上帝确实知道个别事物、而这种知识又不以某种方式影响人的自由，而是论证上帝只在某种意义上知道个别事物。表面上看，他试图在亚里士多德（认为上帝不知道个别事物）与迈蒙尼德（认为上帝知道）之间调停：吉尔松尼德主张，上帝只知道个别事物就其被安排有序而言。也就是说，上帝知道某些事态是个别的，但不知道其个别性何在。例如，上帝知道各个个人，只是通过知道人之种而知之。
+    step2: |-
+      第 2 至第 4 卷讨论上帝与世界的关系。总问题是：上帝的知识仅限于必然事态，还是也及于偶然性领域？若仅限于必然，就不能说上帝知道人事，神意也就落空。若上帝确实知道偶然之事，尤其是未来的偶然事件，人的自由似乎又被上帝对人类行为的预知所削减。神的全知与人的自由何以表面冲突，中世纪许多哲学家都讨论过。吉尔松尼德在此不随大流：他不说上帝确知个别事物而此知又不碍人的自由，而是主张上帝只在某种意义上知道个别事物。他似乎想调停亚里士多德（上帝不知个别事物）与迈蒙尼德（上帝知之）两说：上帝知道个别事物，但只就其处于秩序之中而言。就是说，上帝知道某些事态是“个别的”，却不知道其个别性何在。例如，上帝认识各个个人，靠的是认识人之为种。
+  - id: 25
+    kind: body
+    source: |-
+      Whereas Maimonides claimed that God’s knowledge does not render the objects of his knowledge necessary, Gersonides maintains that divine knowledge precludes contingency. To retain the domain of contingency, he adopts the one option open to him: namely, that God does not have prior knowledge of future contingents. According to Gersonides, God knows that certain states of affairs may or may not be actualized. But insofar as they are contingent states, he does not know which of the alternatives will be the case. For if God did know future contingents prior to their actualization, there could be no contingency in the world.
+    step1: |-
+      迈蒙尼德主张上帝的知识并不使其所知对象成为必然，吉尔松尼德却坚持神圣知识排除偶然性。为了保住偶然性的领域，他采取了唯一可行的选项：上帝对未来偶然后件没有预先的知识。按吉尔松尼德，上帝知道某些事态可能实现也可能不实现。但就这些事态是偶然的而言，他不知道诸替代选项中哪一个会成为现实。因为如果上帝在未来偶然后件实现之前就知道它们，世界上就不可能有偶然性。
+    step2: |-
+      迈蒙尼德认为上帝的知识不使其对象成为必然，吉尔松尼德却主张神圣知识排除偶然性。要保住偶然性的地盘，他只有一条路：上帝对未来偶然后件没有预先知识。在他看来，上帝知道某些事态可能实现、也可能不实现；但正因它们是偶然事态，上帝并不知道几个选项中哪一个会成真。因为如果上帝在实现之前就确知未来偶然后件，世上便无偶然性可言。
+  - id: 26
+    kind: body
+    source: |-
+      In book 2, in an attempt to explain how prophecies are possible in a system which denies the possibility of knowledge of future contingents, Gersonides claims that the prophet does not receive knowledge of particular future events; rather his knowledge is of a general form, and he must instantiate this knowledge with particular facts. What distinguishes prophets from ordinary persons is that the former are more attuned to receive these universal messages and are in a position to apply them to particular circumstances.
+    step1: |-
+      在第 2 卷中，为了在一个否认可认识未来偶然后件的体系中说明预言如何可能，吉尔松尼德主张先知并不接受关于个别未来事件的知识；他的知识是一般形式的，他必须用个别事实来例示这种知识。先知与常人的区别在于：前者更易于接受这些普遍的信息，并且有能力把它们应用于个别情境。
+    step2: |-
+      第 2 卷要说明：一个否认人可认识未来偶然后件的体系，如何仍能容纳预言？吉尔松尼德的回答是：先知所接受的并不是关于个别未来事件的知识，他的知识取普遍形式，还须用个别事实去例示。先知与常人的分别在于，前者更易接受这些普遍信息，也更有能力把它们套用到个别情境上。
+  - id: 27
+    kind: body
+    source: |-
+      A further dilemma surrounds the doctrine of divine providence. If God does not have knowledge of future contingents, how can he be said to bestow providence on his creatures? This problem is discussed by Gersonides both in his commentary on Job and in book 4 of *Milhamot*. In both texts he argues that providence is general in nature; it primarily appertains to species and only incidentally to particulars of the species. God, for example, does not know the particular individual Levi ben Gerson and does not bestow particular providence on him. Rather, inasmuch as Levi ben Gerson is a member of the species humanity and the species philosopher, he is in a position to receive the providential care accorded to those groups.
+    step1: |-
+      另一个两难围绕神意学说。如果上帝没有关于未来偶然后件的知识，怎么能说他向受造物施予神意？吉尔松尼德在《约伯记》注释与《上帝之战》第 4 卷中都讨论过这个问题。在两处他都论证：神意在本性上是一般的；它主要关乎种，只偶然地关乎种中的个别事物。例如，上帝并不知道列维·本·格尔松这个个别人，也不向他施予个别的神意。相反，正因列维·本·格尔松是人之种与哲学家之种的成员，他才处于能够接受给予这些群体的神意眷顾的地位。
+    step2: |-
+      又一个两难落在神意学说上。上帝若不知未来偶然后件，又怎能说他对受造物施予神意？吉尔松尼德在《约伯记》注释与《上帝之战》第 4 卷里都讨论过。两处他都主张：神意本性上是一般的，主要关乎种，只是顺带及于种中的个别事物。譬如，上帝并不知道列维·本·格尔松这个个人，也不对他施以个别的神意；只是因为列维·本·格尔松属于人之种、又属于哲学家之种，他才得以领受给予这两类群体的眷顾。
+  - id: 28
+    kind: body
+    source: |-
+      For Gersonides, the issues of prophecy, omniscience and providence are developed against the backdrop of astrological determinism. Like many thinkers of the late Middle Ages, Gersonides had to confront two opposing sets of traditions: on the one hand, attacks by religious authorities (e.g. Augustine’s attack in *City of God*; Maimonides’ letters) on the grounds that astrology compromised human free will; on the other hand, the wide scale acceptance of astrology from the 12th century on. In the 12ᵗʰ and 13ᵗʰ centuries, most Jewish and Christian philosophers supported natural astrology, the view that the celestial bodies affect sublunar life and existence to some extent at least. That the sun and moon both affect natural cycles and events on earth is unequivocal and represents a classic paradigm of natural astrology. The calculations of natural astrology overlapped those of astronomy, and could be utilized for practical purposes such as fixing the calendar. According to astrologers, each planet and sign of the zodiac has its own character, power and attributes. Inasmuch as the characters of the planets and the signs of the zodiac are opposed to each other, they are engaged in a perpetual power struggle. Thus the position of the planets and their interrelation with the signs of the zodiac, regulate the fate of both individuals and nations. Astrological predictions could apply, then to both individuals as well as to the history of Israel and its place in universal history.
+    step1: |-
+      对吉尔松尼德来说，预言、全知与神意这些问题都是在占星决定论的背景下展开的。像许多中世纪晚期的思想家一样，吉尔松尼德必须面对两套相互对立的传统：一方面是宗教权威的攻击（例如奥古斯丁在《上帝之城》中的攻击；迈蒙尼德的信札），理由是占星术损害人的自由意志；另一方面是自十二世纪起对占星术的广泛接受。在十二与十三世纪，大多数犹太与基督教哲学家都支持自然占星术，即认为天体至少在某些程度上影响月下生命与存在的观点。太阳与月亮都影响自然循环与地上的事件，这一点确凿无疑，构成自然占星术的经典范式。自然占星术的计算与天文学的计算重叠，可用于确定历法等实际目的。按占星家的说法，每颗行星与每个黄道宫各有其性、其力与其属性。行星之性与黄道宫之性彼此相克，它们便处于永不停歇的力量争斗之中。因此，行星的位置以及它们与黄道宫的相互关系，支配着个人与国家的命运。于是占星预测既可施于个人，也可施于以色列的历史及其在普世史中的位置。
+    step2: |-
+      在吉尔松尼德那里，预言、全知与神意这些问题都以占星决定论为背景。与中世纪晚期许多思想家一样，他须面对两套彼此相反的传统：一边是宗教权威的攻击——奥古斯丁在《上帝之城》中的抨击、迈蒙尼德的信札——理由是占星术损害人的自由意志；另一边是十二世纪以来对占星术的广泛接受。十二、十三世纪，多数犹太与基督教哲学家都拥护自然占星术：天体至少在某些程度上影响月下生命与存在。太阳和月亮影响自然循环与地上事件，这一点确凿无疑，是自然占星术的经典范例。自然占星术的计算与天文学重叠，可用于确定历法等实务。占星家认为，每颗行星、每个黄道宫各有其性、其力、其属性；彼此相克，便陷入永不休止的势力之争。于是行星的位置及其与黄道宫的相互关系，支配着个人与国家的命运。占星预测既可施于个人，也可施于以色列的历史及其在普世史中的位置。
+  - id: 29
+    kind: body
+    source: |-
+      An attack upon astrology as a whole belonged to a much larger conflict, that between the roles of reason and faith. Thus, astrology should not be situated within the context of magic or the occult, but rather should be construed as a robust contender to science. Based on a precise scientific astronomy, astrology was a science accepted from the second to the seventeenth centuries. On the scientific level it prevailed almost uncontested until and including Newton.
+    step1: |-
+      对占星术整体的攻击，属于一场大得多的冲突，即理性与信仰各自角色之间的冲突。因此，占星术不应被置于魔法或秘术的语境中，而应被视为科学的一个强劲竞争者。占星术以精确的科学天文学为基础，是从二世纪到十七世纪一直被接受的一门科学。在科学层面上，它几乎未受挑战地占优势，直到牛顿并包括牛顿在内。
+    step2: |-
+      对占星术的整体攻击，其实属于一场更大的冲突：理性与信仰各自该占什么位置。所以占星术不该放进魔法或秘术的语境，它当时是科学的有力竞争者。它以精确的科学天文学为基础，从二世纪到十七世纪一直被当作科学接受；在科学层面上，它几乎未遇挑战，直到牛顿，也把牛顿包括在内。
+  - id: 30
+    kind: body
+    source: |-
+      ## 5. Gersonides’ Astrological Determinism
+    step1: |-
+      ## 5. 吉尔松尼德的占星决定论
+    step2: |-
+      ## 5 吉尔松尼德的占星决定论
+  - id: 31
+    kind: body
+    source: |-
+      Even a summary reading of Gersonides’ major philosophical work evinces an explicit “belief in” astrology. Gersonides develops his astral determinism in two contexts: in book II of *Wars* he interweaves astrological motifs into his discussion of divine providence and prophecy, while in Book V astrology occupies a central role in the context of his cosmological speculations. His major concern is the extent to which the stars and planets exerted an influence over human events in general, or more particularly, over those actions that entail human choice. Judicial astrology was based on the assumption that the entire world of nature was governed and directed by the movement of the heavens and the celestial bodies, and that man, as an animal naturally generated and living in the world of nature, was also naturally under their rule.
+    step1: |-
+      即使只是粗略地读一遍吉尔松尼德的主要哲学著作，也能看出一种明确的“对”占星术的“信仰”。吉尔松尼德在两个语境中发展他的星辰决定论：在《上帝之战》第 2 卷中，他把占星术的母题编织进关于神意与预言的讨论；而在第 5 卷中，占星术在其宇宙论思辨的语境中占据中心地位。他主要关心的是：星辰与行星在多大程度上影响一般的人类事件，或者更具体地说，影响那些包含人类选择的行动。判命占星术基于这样一个假定：整个自然世界都由天与天体的运动所支配和引导，而人作为自然生成、生活在自然世界中的动物，也自然处于它们的统治之下。
+    step2: |-
+      只要粗读一遍吉尔松尼德的主要哲学著作，就能看到一种毫不掩饰的对占星术的“信仰”。他的星辰决定论在两个语境中展开：《上帝之战》第 2 卷把占星术的母题织入神意与预言的讨论，第 5 卷则让占星术在其宇宙论思辨中占据中心。他最关心的是：星辰与行星究竟在多大程度上影响一般的人类事件，尤其是那些涉及人的选择的行动。判命占星术的假定是：整个自然世界由诸天与天体的运动所支配、所引导；人作为自然生成、生活在自然世界中的动物，自然也处在它们的统治之下。
+  - id: 32
+    kind: body
+    source: |-
+      Langermann emphasizes the teleological nature of astrology for Gersonides, its chief merit being its ability to provide “teleological explanations for the wide variety of stellar motions that are observed to take place” (*Wars*, Vol III, p. 506). This teleology is reflected in V.2 ch 7–9 where, after listing 27 problems raised by the heavenly bodies, Gersonides suggests that only astrological considerations can furnish satisfactory replies; it is astrology alone that can explain the connection between the two realms. It is worth noting that on this point, Gersonides disagrees with Maimonides over the ultimate purpose of the celestial bodies. For Maimonides it is not possible that a greater entity, the heavens, would exist for the sake of the sublunar universe. Gersonides disagrees, maintaining that it is not inappropriate that the more noble exist for the less noble. The stars, he argues, exist for the sake of things in the sublunar world (*Wars*, V.2.3, p. 194). More explicitly, the heavenly bodies are designed for the benefit of sublunar existence, and they guarantee the perpetuation of life on earth.
+    step1: |-
+      Langermann 强调吉尔松尼德占星术的目的论性质，其首要优点在于它能提供“对观察到的名目繁多的星辰运动的目的论解释”（*Wars*, Vol III, p. 506）。这种目的论反映在 V.2 第 7–9 章：在列出天体提出的 27 个难题之后，吉尔松尼德提出，只有占星术的考虑才能给出令人满意的回答；唯有占星术才能解释两个领域之间的联系。值得注意的是，在这一点上，吉尔松尼德与迈蒙尼德在天体的终极目的上意见相左。对迈蒙尼德来说，一个更大的实体即诸天，不可能为了月下宇宙而存在。吉尔松尼德不同意，他认为较高贵者为较卑下者而存在并无不当。他论证说，星辰为了月下世界中的事物而存在（*Wars*, V.2.3, p. 194）。更明确地说，天体是为月下存在的利益而设计的，它们保证地上生命的延续。
+    step2: |-
+      Langermann 强调吉尔松尼德占星术的目的论性格：它最大的长处，是能“对人们观察到的形形色色的星辰运动给出目的论解释”（*Wars*, Vol III, p. 506）。这种目的论见于 V.2 第 7–9 章。吉尔松尼德先列出天体带来的 27 个难题，然后提出：只有从占星术着眼才能给出满意的回答，唯有占星术能解释两个领域之间的关联。值得注意的是，在天体的终极目的上，他与迈蒙尼德不合。迈蒙尼德认为，较大的实体即诸天，不可能为月下宇宙而存在。吉尔松尼德不以为然：较高贵者为较卑下者存在，并无不妥。他论证星辰是为月下世界的事物而存在的（*Wars*, V.2.3, p. 194）。更明白地说，天体是为月下存在的利益而设，它们保证地上生命延续不绝。
+  - id: 33
+    kind: body
+    source: |-
+      This teleology is spelled out in *Milhamot* II, in which Gersonides is concerned to explain how divine knowledge operates, and to what extent divine foreknowledge of future contingents affects human choice. His major thesis is that divine knowledge is predicated to a great extent upon knowledge of the heavenly bodies, which bodies are in turn “systematically directed toward his [man’s] preservation and guidance so that all his activities and thoughts are ordered by them” (*Wars*, II.2, p. 33). In support of this teleological cosmology, Gersonides presents an extensive argument to the effect that the celestial bodies have a purpose. On the basis of this argument Gersonides concludes that from the perspective of the teleological structure of the universe, we can understand why the heavenly bodies behave the way they do. This teleology is reflected by a “law, order and rightness” in the universe, implying the existence of an intellect that orders the nature of things: “you see that the domain of the spheres provides, in the best way possible, for the sub-lunar world” (*Wars*, V.2.5, p. 137).
+    step1: |-
+      这种目的论在《上帝之战》第 2 卷中得到详细阐述，吉尔松尼德在那里要说明神圣知识如何运作，以及上帝对未来偶然后件的预知在多大程度上影响人的选择。他的主要论点是：神圣知识在很大程度上建立在对天体的知识之上，而这些天体又“被系统地引向对他［人］的保全与引导，以致他的一切活动与思想都由它们安排”（*Wars*, II.2, p. 33）。为支持这种目的论宇宙论，吉尔松尼德提出了一套详尽的论证，说明天体有其目的。据此他得出结论：从宇宙目的论结构的角度看，我们能理解天体为何如此运行。这种目的论体现为宇宙中的“法则、秩序与正位”，意味着存在一个安排事物本性的理智：“你看，诸天球的领域以尽可能最好的方式为月下世界作准备”（*Wars*, V.2.5, p. 137）。
+    step2: |-
+      这套目的论在《上帝之战》第 2 卷里说得更细。吉尔松尼德要说明神圣知识怎样运作，以及上帝对未来偶然后件的预知在多大程度上影响人的选择。他的主要论点是：神圣知识在很大程度上取决于对天体的知识，而天体又“被系统地引向对他［人］的保全与引导，使他的一切活动与思想都由它们安排”（*Wars*, II.2, p. 33）。为支持这种目的论宇宙论，他提出一整套论证，说明天体自有其目的。由此他断定：着眼于宇宙的目的论结构，我们便能理解天体何以如此运行。这种目的论表现为宇宙中的“法则、秩序与正位”，意味着有一个安排万物本性的理智在：“你看，诸天球的领域以尽可能最好的方式为月下世界作准备”（*Wars*, V.2.5, p. 137）。
+  - id: 34
+    kind: body
+    source: |-
+      As we have seen, the existence of a connection between celestial and terrestrial events was admitted by most everybody, but not everybody agreed on the nature of this connection. Gersonides as well must account for the type of relation obtaining between celestial and terrestrial events. Having articulated the ordering power of the astral bodies, Gersonides describes in *Milhamot* V.3 the separate intellects and the spheres that they move. The main characteristic of the astral bodies is their luminosity (*nitzutz*). This luminosity affects their actions and effects (*Wars*, V.2.3, p. 137). Gersonides is very much aware of the problem of accounting for how the astral bodies can affect actions at a distance. The sun, for example, functions as a paradigm for action at a distance. Once we understand, Gersonides claims, how the activity of heating reaches earth from the sun, we can understand how the particular activities of the other stars reach the sublunar realm as well. By explaining the efficient cause as the light or radiation of the stars, Gersonides can account for weak or strong effects. As Langermann has pointed out, Gersonides’ account furnishes the basis for the introduction of astrological causation into natural philosophy.
+    step1: |-
+      如我们所见，天体事件与地上事件之间存在联系，这一点几乎人人承认，但并非人人对这种联系的性质有一致意见。吉尔松尼德同样必须说明天体事件与地上事件之间所具有的关系类型。在阐明星辰天体的安排力量之后，吉尔松尼德在《上帝之战》V.3 中描述诸独立理智以及它们所推动的天球。星辰天体的主要特征是它们的发光性（*nitzutz*）。这种发光性影响它们的作用与效果（*Wars*, V.2.3, p. 137）。吉尔松尼德非常清楚，要说明星辰天体如何能在远处起作用，是个难题。太阳就是一例，它是远距离作用的范式。吉尔松尼德主张，一旦我们理解加热活动如何从太阳到达地球，我们就能理解其他星辰的特定活动如何同样到达月下领域。通过把动力因解释为星辰的光或辐射，吉尔松尼德就能说明效果何以有强有弱。正如 Langermann 所指出的，吉尔松尼德的说明为把占星因果引入自然哲学提供了基础。
+    step2: |-
+      如前所述，天体与地上事件之间有联系，这几乎人人承认，只是各人对这种联系的性质看法不一。吉尔松尼德同样得说明：天体与地上事件之间究竟是哪一类关系。他先阐明星辰天体的安排力量，继而在《上帝之战》V.3 中描述诸独立理智及它们所推动的天球。星辰天体的主要特征是发光性（*nitzutz*），这发光性影响它们的作用与效果（*Wars*, V.2.3, p. 137）。远距离作用如何可能，吉尔松尼德深知其难。太阳便是一个范例：一旦弄明白加热活动怎样从太阳抵达地球，也就能明白其他星辰的特定活动怎样抵达月下领域。他把动力因解释为星辰的光或辐射，于是效果之强弱便有了着落。如 Langermann 所指出的，这一说明为把占星因果引进自然哲学打下了基础。
+  - id: 35
+    kind: body
+    source: |-
+      In *Milhamot* V.2.8 Gersonides lays out six astrological principles that affect his general cosmological scheme. These can be summarized as follows. First, each astral body exercises a different influence specific to it. Second, astral influence depends upon its position in the zodiac (*galgal hamazalot*). Third, the longer a star stays in one place in the zodiac, the greater its effect because of the strength of its luminosity. Fourth, astral influence is dependent upon its inclination to the north or to the south; its effect will be strongest when it is in the middle, as evidenced by the sun, whose heat is strongest when it is at the Tropic of Cancer as opposed to being at the Tropic of Capricorn. Fifth, the greater the radiation or luminosity of a star, the stronger its influence. And finally, the closer to earth a star is, the stronger will be its influence (*Wars*, V.2.8, p. 207–8). These principles function as the underpinnings of his general astronomy as well.
+    step1: |-
+      在《上帝之战》V.2.8 中，吉尔松尼德列出六条影响其总体宇宙论方案的占星原则。可概括如下。第一，每个星辰天体都施予一种为它所特有的不同影响。第二，星辰影响取决于它在黄道（*galgal hamazalot*）中的位置。第三，一颗星在黄道某一位置停留得越久，因其发光性的强度，其效果越大。第四，星辰影响取决于它向北或向南的倾斜；当它位于中间时效果最强，太阳可以为证：它在北回归线时比在南回归线时更热。第五，一颗星的辐射或发光性越大，其影响越强。最后，一颗星离地球越近，其影响越强（*Wars*, V.2.8, p. 207–8）。这些原则也构成他总体天文学的支柱。
+    step2: |-
+      《上帝之战》V.2.8 列出六条支配他整个宇宙论方案的占星原则，可概述如下。其一，每个星辰天体各有其独特的影响。其二，星辰影响取决于它在黄道（*galgal hamazalot*）中的位置。其三，一颗星在黄道某处停留越久，因发光性强，效果越大。其四，星辰影响取决于它向北或向南的偏斜：居中时效果最强，太阳即是明证——它在北回归线时比在南回归线时更热。其五，星的辐射或发光性越强，影响越大。其六，星离地球越近，影响越强（*Wars*, V.2.8, p. 207–8）。这些原则同时也是他总体天文学的支柱。
+  - id: 36
+    kind: body
+    source: |-
+      In light of the original problems posed by astrology above, let me propose that the most important piece of Levi’s astrology is what Langermann calls the variety of the heavens (*ribbui hayahasim*). Gersonides must be able to account for individual variety in the sublunar realm. Inasmuch as stellar radiation is the means by which stellar influences are conveyed, the wide variety of mixtures of stellar radiation guarantees a sufficient variety of “influences” on terrestrial processes. The movers emanate from God who is construed as the “First Separate Intellect” (*Wars*, V.3.8, p. 272). They are ordered in a rational system that governs the sublunar domain. If there were no one first intellect, Gersonides argues, the rational order we see in the heavens would be the result of chance, which is unacceptable. The agent intellect thus functions as the link between these celestial bodies and human affairs. The kinds of information it transmits are of an astronomical type, as evidenced in the following example: “it [the agent intellect] knows how many revolutions of the sun, or of the diurnal sphere, or of any other sphere [have transpired] from the time at which someone, who falls under a particular pattern, had a particular level of good or ill fortune…” (*Wars*, II.6, p. 64). The agent intellect serves as the repository of information communicated by the heavenly bodies. The patterns revealed in this communication between agent intellect and diviner (astrologer, prophet) are from the heavenly bodies which themselves are endowed with intellects and so “apprehend the pattern that derives from them.” Each mover apprehends the order deriving from the heavenly body it moves, and not patterns that emanate from other heavenly bodies. As a result, the imaginative faculty receives the “pattern inherent in the intellects of the heavenly bodies from the influence deriving from them.” This influence derives from the position of the heavenly bodies “by the ascendent degree or the dominant planet [in a particular zodiacal position]” (*Wars*, II.6, p. 64). However, inasmuch as the heavenly bodies do not jointly cooperate with one another (*lo yishtatfu*) in this process, it is possible for the communication to be misconstrued.
+    step1: |-
+      鉴于上文占星术所提出的那些原初问题，我要提出：列维占星术中最重要的一项，是 Langermann 所称的“诸天的多样性”（*ribbui hayahasim*）。吉尔松尼德必须能够说明月下领域中的个体多样性。既然星辰辐射是传递星辰影响的手段，星辰辐射在混合上的多样性，就保证了地上过程所受“影响”有足够的多样性。诸推动者流溢自上帝，上帝被理解为“第一独立理智”（*Wars*, V.3.8, p. 272）。它们被安排在一个支配月下领域的理性系统之中。吉尔松尼德论证说，如果没有一个第一理智，我们在诸天中看到的理性秩序就会是偶然的结果，而这是不可接受的。于是能动理智充当这些天体与人事之间的环节。它所传递的信息种类属于天文学类型，下例可以为证：“它［能动理智］知道，自某个落入某一特定模式的人具有某一特定程度的好运或厄运之时起，太阳、周日天球或任何其他天球已经转了多少圈……”（*Wars*, II.6, p. 64）。能动理智是诸天体所传达信息的储藏所。在能动理智与占卜者（占星家、先知）之间的这一传达中显现出来的模式，来自诸天体，而诸天体自身被赋予理智，因而“把握由它们衍生的模式”。每个推动者把握它所推动的天体所衍生的秩序，而不是其他天体所发出的模式。结果，想象官能接受“诸天体理智中固有的模式，其来源是它们所发出的影响”。这种影响源自诸天体的位置，“由上升度数或主星［在某一黄道位置］”决定（*Wars*, II.6, p. 64）。然而，既然诸天体在这一过程中并不彼此协同（*lo yishtatfu*），传达就有可能被误读。
+    step2: |-
+      回到上文占星术提出的那些原初问题。我认为，列维占星术中最要紧的一项，是 Langermann 所称的“诸天的多样性”（*ribbui hayahasim*）。吉尔松尼德必须能说明月下领域中的个体差异。星辰辐射既是传递影响的媒介，辐射混合方式的繁多，便保证了地上过程所受“影响”足够多样。诸推动者流溢自上帝，而上帝被理解为“第一独立理智”（*Wars*, V.3.8, p. 272）；它们被安排在一个支配月下领域的理性系统里。吉尔松尼德论证说，若没有一个第一理智，诸天中可见的理性秩序就只能是偶然的结果，而这是不能接受的。能动理智因此成为天体与人事之间的中介。它传递的信息属于天文学类型，下例可证：“它［能动理智］知道，自某个落入某一特定模式的人得到某一程度的好运或厄运之时起，太阳、周日天球或任何其他天球已转了多少圈……”（*Wars*, II.6, p. 64）。能动理智是天体所传信息的储藏所。能动理智与占卜者（占星家、先知）之间传达所显现的模式，出自诸天体；而诸天体自身赋有理智，故能“把握从自身衍出的模式”。每个推动者只把握自己所推动的天体所衍出的秩序，不把握其他天体发出的模式。于是想象官能所接受的，是“诸天体理智中固有的模式，经由它们发出的影响而来”。这种影响取决于天体的位置，“由上升度数或主星［所在的黄道位置］”而定（*Wars*, II.6, p. 64）。只是诸天体在此过程中并不彼此协同（*lo yishtatfu*），传达便可能被误解。
+  - id: 37
+    kind: body
+    source: |-
+      Of course, as we all know, astrologers often err in their predictions. Astrological errors can be due to several factors. In general, Gersonides claims, we know very little of the order of the heavenly bodies. “In general, it is impossible for man to know the [complete] truth of the order of the sublunar world. This is nicely illustrated in astrology, where frequently false predictions are made. All the more so is it impossible for man to know the general order of the sublunar world by means of its causes so that his knowledge would be perfect” (*Wars*, I.12, p. 219). In some cases, the information is not transmitted clearly. Why is it that certain communications are received more clearly than others? A constitutionally perfect imaginative faculty receives information from both dominant and weak heavenly bodies. By ‘weak’, Gersonides means that certain celestial bodies are too weak both to bring about events on earth as well as to transmit information about these events. Hence he concludes that information about the future emanates “from the dominant body in the particular proper face (*panim*) in which it has dominance but not from any of the attending planets (*ha-meshartim*)” (*Wars*, II.7, pp. 69–70). But to constitutionally imperfect imaginative faculties, the information received is only from the dominant heavenly bodies. Hence the overall quality of the information received will differ in the two cases. More specifically, because of the difficulty of obtaining the necessary positions of these bodies by observation, astrologers are often unable to verify their data. Furthermore, since the zodiacal position of a heavenly body at any given time is only repeated once in many thousands of years, astrologers have no access to the repeatability of those events that would be required to verify their knowledge. Furthermore, humans simply do not have sufficient knowledge about the heavenly bodies.
+    step1: |-
+      当然，众所周知，占星家在预测中常常出错。占星术的错误可以归因于若干因素。吉尔松尼德断言，总的说来，我们对诸天体的秩序所知甚少。“一般说来，人不可能知道月下世界秩序的［完整］真相。这在占星术中表现得很清楚：那里常有虚假的预测。人更不可能借其原因去认识月下世界的一般秩序，从而使自己的知识达到完善”（*Wars*, I.12, p. 219）。在某些情形下，信息没有被清晰地传达。为什么某些传达比另一些更清晰？体质上完善的想象官能既从强旺的天体、也从微弱的天体接受信息。所谓“微弱”，吉尔松尼德指的是某些天体既太弱，不足以在地上造成事件，也不足以传达关于这些事件的信息。于是他断定，关于未来的信息发出“自它所支配的那个特定正位（*panim*）中的主导天体，而非来自任何随从行星（*ha-meshartim*）”（*Wars*, II.7, pp. 69–70）。但对体质上不完善的想象官能来说，所接受的信息只来自主导天体。因此两种情形下所接受信息的总体质量不同。更具体地说，由于难以通过观察获得这些天体的必要位置，占星家常常无法核实自己的数据。再者，一个天体在任一给定时刻的黄道位置，要过数千年才重复一次，占星家便无从获得核实其知识所需的事件可重复性。再者，人类对诸天体根本没有充分的知识。
+    step2: |-
+      当然，众所周知，占星家的预测常常出错。错误可以有几种来源。吉尔松尼德说，总的说来我们对诸天体的秩序所知极少。“人一般不可能知道月下世界秩序的［完整］真相；占星术便是明证，那里虚假的预测屡见不鲜。人更不可能借原因去认识月下世界的一般秩序，使知识达于完善”（*Wars*, I.12, p. 219）。有时信息传达得不清楚。为什么有些传达比别的清楚？体质完善的想象官能，既从强旺天体、也从微弱天体接受信息。吉尔松尼德所谓“微弱”，是指某些天体既无力在地上造成事件，也无力传达关于这些事件的信息。于是他断定：关于未来的信息“来自它所支配的那个特定正位（*panim*）中的主导天体，而不来自任何随从行星（*ha-meshartim*）”（*Wars*, II.7, pp. 69–70）。至于体质不完善的想象官能，所接受的便只来自主导天体。两种情形下，所得信息的总体质量自然不同。更要紧的是，靠观察取得这些天体的必要位置十分困难，占星家往往无法核对自己的数据。何况一个天体在某一时刻的黄道位置，数千年才重复一次，占星家根本得不到核实知识所需的事件重复。再者，人类对诸天体的知识本就不足。
+  - id: 38
+    kind: body
+    source: |-
+      The final cause for error has to do with human free will: as we have seen above, our intellect and choice “have the power to move us contrary to that which is determined by the heavenly bodies” (*Wars*, II.2, p. 34). Although he admits that on occasion human choice is able to contravene the celestial bodies, nevertheless this intervention is rare, and true contingency is a rare state of affairs indeed in Gersonides’ ontology. Gersonides presents an argument to show that human choice guided by reason can subvert the celestial bodies despite their general ordering of our lives. The heavenly bodies can order human affairs either by virtue of their difference of position in the heavens, or from the difference of the bodies among themselves. Astral bodies, however, will affect different individuals in different ways; they can also affect an individual differently at different times; and finally, two or more bodies can affect a single individual, resulting in multiple influences that can have contrary effects, echoing the scholastic phrase, “*sapiens dominabitur astris* [the wise man will be ruled by the stars]”. Gersonides notes that humans can contravene these effects: God has provided humans with “the intellectual capacity (*sekhel ba’al takhlit*) that enables us both to act contrary to what has been ordered by the heavenly bodies and to correct, as far as possible, the [astrally ordained] misfortunes that befall us” (*Wars*, II.2, p. 35). Nevertheless, he assures us that whatever happens by chance is “determined and ordered according to this type of determinateness and order” (*Wars*, II.2, p. 34). Outdoing even Plato’s hierarchical structuring in *Republic* IV, Gersonides argues that the ultimate perfection and ordering of society is due to astrological influence.
+    step1: |-
+      错误的最后一个原因与人的自由意志有关：如上文所见，我们的理智与选择“有力量推动我们，背离诸天体所决定的东西”（*Wars*, II.2, p. 34）。尽管他承认人的选择有时能够违逆诸天体，但这种干预是罕见的，而在吉尔松尼德的本体论中，真正的偶然性确实是一种罕见的事态。吉尔松尼德提出一个论证，表明受理性引导的人的选择能够颠覆诸天体，尽管它们总体上安排着我们的生活。诸天体安排人事，或者凭借它们在诸天中位置的不同，或者凭借天体彼此之间的差异。然而星辰天体对不同个体的影响方式不同；它们也可以在不同时间以不同方式影响同一个人；最后，两个或更多的天体可以共同影响一个人，产生多种彼此相反的影响——这正呼应经院哲学的成语“*sapiens dominabitur astris*［智者将受星辰支配］”。吉尔松尼德指出，人能够违逆这些效果：上帝赋予人“一种理智能力（*sekhel ba’al takhlit*），使我们既能逆诸天体所安排而行，也能尽可能矫正降临于我们的［星辰所定的］厄运”（*Wars*, II.2, p. 35）。不过他向我们保证：凡出于偶然发生的事，都“按这类确定性与秩序被决定、被安排”（*Wars*, II.2, p. 34）。吉尔松尼德甚至超越了柏拉图在《理想国》第 4 卷中的等级结构安排，论证社会的终极完善与秩序要归因于占星术的影响。
+    step2: |-
+      错误的最后一个来源，是人的自由意志。如上文所见，我们的理智与选择“有力量推动我们，背离诸天体的决定”（*Wars*, II.2, p. 34）。他承认人的选择有时能违逆天体，但这种干预很少见；在吉尔松尼德的本体论里，真正的偶然性确实是稀有之事。他提出一个论证，说明受理性引导的选择如何能颠覆诸天体，尽管天体总体上安排着我们的生活。诸天体安排人事，或凭其在诸天中位置的不同，或凭天体彼此的差异。但星辰对不同个体的作用方式不同；对同一个人，在不同时间的作用也不同；两个以上的天体还可以共同作用于一人，生出数种彼此相抵的影响——经院哲学的成语正呼应此意：“*sapiens dominabitur astris*［智者将受星辰支配］”。吉尔松尼德指出，人能够违逆这些效果：上帝赋予人“一种理智能力（*sekhel ba’al takhlit*），使人既能逆诸天体所安排而行，也能尽可能矫正降临于我们的［星辰所定］厄运”（*Wars*, II.2, p. 35）。不过他保证：凡偶然发生之事，都“依这类确定与秩序而被决定、被安排”（*Wars*, II.2, p. 34）。吉尔松尼德甚至比柏拉图《理想国》第 4 卷的等级安排更进一步，认为社会的终极完善与秩序要归功于占星术的影响。
+  - id: 39
+    kind: body
+    source: |-
+      The commensurability of the motion of heavenly bodies raises an additional concern, having to do with the uniqueness of individual beings and the doctrine of eternal return. Gersonides’ immediate 13ᵗʰ century predecessors Shem-Tov ibn Falaquera and Judah ben Solomon ha-Cohen discussed this issue against the backdrop of Aristotle’s *Gen. Animalia*. In *Gen. Animalia*, Aristotle had established a connection between the life spans and gestations periods of animals and the revolutions of the sun and moon (*Gen. Anim.*, IV.10, 777b17–778a10). Thus the revolutions of the sun measure not only time but also produce the alternating periods of growth and decay. Eschatological predictions are thus tied to the cyclicity of the heavenly bodies. Gersonides did not [to our knowledge] indulge in eschatological and millennial predictions. In fact, Gersonides wrote only one astrological text that has survived, a prognostication based on the conjunction of Saturn and Jupiter to take place in March 1345. Gersonides himself died in 1344, a year before the event in question. As Goldstein has demonstrated, this conjunction was predicted already by Ibn Ezra, and repeated by Abraham Bar Hiyya in his *Megillat ha-Megalleh* where the conjunction was associated with a date of messianic significance that would supposedly take effect in 1358 (Goldstein 1990, p. 3)[^goldstein-1990]. The conjunction was codified by Levi ben Abraham ben Hayyim in his encyclopedia *Livyat Hen*, indicating an awareness in the Jewish community of the messianic significance of this conjunction. According to North, Ibn Ezra was the earliest scholar to record one of the seven methods for the setting up of the astrological houses; Gersonides then computed the astrological houses for the prognostication of 1345 according to Ibn Ezra’s method. (See North 1986, p. 25.) Goldstein suggests that as the date 1345 approached, the Papal court might have become interested as well in the conjunction. We do know that Gersonides’ text was translated into Latin with the aid of his brother shortly after Gersonides’ death in 1344.
+    step1: |-
+      天体运动的可通约性引出一个额外的问题，涉及个体存在者的独特性与永恒回归的学说。吉尔松尼德十三世纪的直接前辈谢姆-托夫·伊本·法拉克拉（Shem-Tov ibn Falaquera）与犹大·本·所罗门·哈-科恩（Judah ben Solomon ha-Cohen），曾在亚里士多德《论动物生成》的背景下讨论过这个问题。在《论动物生成》中，亚里士多德建立了动物的寿命与妊娠期同太阳、月亮运转之间的联系（*Gen. Anim.*, IV.10, 777b17–778a10）。因此太阳的运转不仅度量时间，也产生生长与衰败交替的周期。末世论的预测于是与天体的循环性绑在一起。据我们所知，吉尔松尼德并未沉溺于末世论与千禧年的预测。事实上，吉尔松尼德只有一部占星术著作存世，那是一份基于 1345 年 3 月将发生的土星与木星会合的星占预言。吉尔松尼德本人死于 1344 年，即在所论事件前一年。正如 Goldstein 所证明的，这次会合已由伊本·以斯拉（Ibn Ezra）预言过，又由亚伯拉罕·巴尔·希亚（Abraham Bar Hiyya）在《揭示之卷》（*Megillat ha-Megalleh*）中重述，那里把这次会合与一个具有弥赛亚意义的日期相联系，据说那个日期将在 1358 年生效（Goldstein 1990, p. 3）[^goldstein-1990]。这次会合被列维·本·亚伯拉罕·本·哈伊姆（Levi ben Abraham ben Hayyim）编入他的百科全书《优美之冠》（*Livyat Hen*），这表明犹太社群已意识到这次会合的弥赛亚意义。据 North，伊本·以斯拉是最早记录建立占星宫位的七种方法之一的学者；吉尔松尼德随后按伊本·以斯拉的方法计算了 1345 年预言所用的占星宫位。（See North 1986, p. 25.）Goldstein 提出，随着 1345 年临近，教廷也许对这次会合也产生了兴趣。我们确知的是，吉尔松尼德的文本在他 1344 年去世后不久，由其兄弟协助译成了拉丁文。
+    step2: |-
+      天体运动的可通约性带来另一个难题，牵涉个体的独特性与永恒回归之说。吉尔松尼德十三世纪的直接前辈谢姆-托夫·伊本·法拉克拉与犹大·本·所罗门·哈-科恩，都曾在亚里士多德《论动物生成》的背景下讨论此事。亚里士多德在那部书里把动物的寿命、妊娠期同太阳与月亮的运转联系起来（*Gen. Anim.*, IV.10, 777b17–778a10）；太阳的运转不仅计量时间，也造出生长与衰败交替的周期。末世论的预测由此系于天体的循环。就我们所知，吉尔松尼德并未涉足末世论与千禧年的预言。他存世的占星术文字只有一份，即针对 1345 年 3 月土星与木星会合的星占预言；而他本人 1344 年就去世了，早于所论事件一年。Goldstein 证明，这次会合早由伊本·以斯拉预言，亚伯拉罕·巴尔·希亚又在《揭示之卷》（*Megillat ha-Megalleh*）中重述，并把它与一个据说 1358 年应验的弥赛亚式日期相联（Goldstein 1990, p. 3）[^goldstein-1990]。列维·本·亚伯拉罕·本·哈伊姆把这次会合编入他的百科全书《优美之冠》（*Livyat Hen*），可见犹太社群已察觉其弥赛亚意义。据 North，伊本·以斯拉是最早记录建立占星宫位七法之一的人；吉尔松尼德为 1345 年的预言推算占星宫位，用的正是伊本·以斯拉之法（see North 1986, p. 25）。Goldstein 推测，随着 1345 年逼近，教廷对这次会合也许同样起了兴趣。可以确定的是，吉尔松尼德 1344 年去世后不久，他的文本便在其兄弟协助下译成了拉丁文。
+  - id: 40
+    kind: body
+    source: |-
+      In his prognostication, Gersonides predicts that there will be “extraordinary evil with many wars, visions and miraculous signs;” “Diseases and death, and the evil will endure for a long time;” “the absence of good, pleasure and happiness for most of the inhabited world;” “the spilling of much blood and increasing enmity, jealousy, strife, famine, various diseases, drought and dearth” (Goldstein 1990)[^goldstein-1990]. The Black Death, which arrived in Europe in 1347, was thus provided with numerous astrological credentials. The official statement of the medical faculty of the University of Paris, presented to the king in 1348, reported on the conjunction of Saturn and Jupiter in the house of Aquarius on 20 March 1345, which was seen to spread “death and disaster”. It is not hard to see how the conjunction of 1345 came to be associated with the Black Death.
+    step1: |-
+      在这份预言中，吉尔松尼德预言将出现“伴随许多战争、异象与神迹的非凡之恶”；“疾病与死亡，而且这恶将持续很久”；“对大多数有人居住的世界而言，善、快乐与幸福的缺席”；“大量流血，以及日益增长的敌意、嫉妒、争斗、饥荒、各种疾病、干旱与歉收”（Goldstein 1990）[^goldstein-1990]。1347 年抵达欧洲的黑死病，于是被赋予了许多占星术上的凭证。1348 年呈给国王的巴黎大学医学系官方声明，报告了 1345 年 3 月 20 日土星与木星在宝瓶宫会合，被视为散布“死亡与灾难”。不难看出，1345 年的会合如何与黑死病联系起来。
+    step2: |-
+      在这份预言里，吉尔松尼德说将有“伴随众多战争、异象与神迹的非常之恶”；“疾病与死亡，而且恶将持续很久”；“大多数有人烟之地失去善、快乐与幸福”；“大量流血，敌意、嫉妒、争斗、饥荒、百病、干旱与歉收日增”（Goldstein 1990）[^goldstein-1990]。1347 年降临欧洲的黑死病，就此得到了一大批占星学上的凭证。1348 年呈交国王的巴黎大学医学系官方声明，报告 1345 年 3 月 20 日土星与木星会合于宝瓶宫，被看作散布“死亡与灾难”。1345 年那次会合何以同黑死病缠在一起，也就不难理解了。
+  - id: 41
+    kind: body
+    source: |-
+      ## 6. Ethical Views
+    step1: |-
+      ## 6. 伦理观点
+    step2: |-
+      ## 6 伦理观点
+  - id: 42
+    kind: body
+    source: |-
+      Gersonides is not known for his ethical views; as we have seen, most of his philosophical writings engage matters in the natural sciences. In his biblical commentaries, however, Gersonides focuses on a number of ethical issues. To take one example, Gersonides’ commentary on *Songs of Songs* is imbued with an extended discussion of human felicity. In this work, he claims that because of their inherent weakness and epistemological imperfections, most human beings are incapable of achieving felicity: “only very few individuals can acquire even a large measure of it.” (Gersonides, *Songs of Songs*, 6) For these masses, the Torah and its commandments function as the best guide to moral perfection. But if immortality is predicated on intellectual knowledge, and if philosophers such as Maimonides and Gersonides have argued that many individuals are psycho-physically incapable of embarking on such a rigorous and philosophical course of study, does it follow that not all humans can achieve intellectual perfection: is the road the same, and open, to all? And is there only one road to ultimate felicity, or are there many routes?
+    step1: |-
+      吉尔松尼德并不以伦理观点知名；如我们所见，他的哲学著作大多涉及自然科学方面的问题。然而在他的圣经注释中，吉尔松尼德关注若干伦理问题。举一个例子：吉尔松尼德对《雅歌》的注释中贯穿着关于人类幸福的长时间讨论。在这部作品中，他断言，由于人固有的弱点与认识论上的不完善，大多数人都无法达到幸福：“只有极少数人能够获得其中哪怕很大的一份。”（Gersonides, *Songs of Songs*, 6）对这些人众来说，托拉及其诫命充当通向道德完善的最佳指南。但如果不朽以理智知识为前提，而像迈蒙尼德与吉尔松尼德这样的哲学家又论证说，许多人在心理-生理上无法走上如此严格、如此哲学化的研习之路，那么是否可以说并非所有人都能达到理智完善？这条路是否对所有人相同并且开放？通往终极幸福的路只有一条，还是有多条？
+    step2: |-
+      吉尔松尼德并不以伦理学知名。如我们所见，他的哲学著作大多处理自然科学的问题；不过在圣经注释里，他关注了不少伦理问题。例如《雅歌》注释中就有关于人类幸福的长篇讨论。他在书中说，由于人固有的弱点和认识论上的缺陷，大多数人达不到幸福：“只有极少数人能得到其中一大份。”（Gersonides, *Songs of Songs*, 6）对这批大众而言，托拉及其诫命就是通向道德完善的最好指引。可是，若不朽以理智知识为前提，而迈蒙尼德、吉尔松尼德这样的哲学家又说许多人在身心上根本无力踏上如此严格、如此哲学化的研习之路，那是否意味着并非人人皆可达到理智完善？这条路对所有人是否相同、是否敞开？通向终极幸福的路只有一条，还是有许多条？
+  - id: 43
+    kind: body
+    source: |-
+      Horwitz claims that this theme is apparent in Gersonides’ biblical commentaries: “a central role of Ralbag’s biblical commentaries is the desire to help his readers attain eternal intellectual felicity through knowledge of the truth.” (Horwitz 2006, p. 124)[^horwitz-2006] Nowhere is this emphasis seen more clearly than in Gersonides’ commentary to *Song of Songs*. Ostensibly the *Song of Songs* describes the love affair and desires of a shepherd for a maiden. Generations of commentators saw in the work an allegory of the relation between God and the people Israel. Gersonides, however, provides a philosophical reading of the work that incorporates two sets of subsidiary dialogues, first between the human material intellect and the Active Intellect, and second between the faculties of the soul and the material intellect. Gersonides spells out the import of these discussions in his introduction to the work. He first lays down the premise that “man’s ultimate felicity resides in cognizing and knowing God to the extent that is possible for him.” (*Song of Songs*, 5) Such knowledge is achieved through observation of the state of existing things in the natural universe, that is, through the beings that God has created and caused. Knowledge of God, therefore, is predicated on knowledge of the natural order.
+    step1: |-
+      Horwitz 断言，这一主题在吉尔松尼德的圣经注释中显而易见：“拉尔巴格圣经注释的一个核心作用，是希望帮助读者通过对真理的认识而达到永恒的理智幸福。”（Horwitz 2006, p. 124）[^horwitz-2006] 这一强调在吉尔松尼德对《雅歌》的注释中表现得最为清楚。表面上看，《雅歌》描写的是一位牧人对一位少女的爱恋与渴望。历代注释者在这部作品中看到的，是上帝与以色列民族之间关系的寓意。然而吉尔松尼德提供了一种哲学读法，其中纳入两组附属对话：第一组在人的质料理智与能动理智之间，第二组在灵魂的诸能力与质料理智之间。吉尔松尼德在该书导言中阐明了这些讨论的意义。他先立下一个前提：“人的终极幸福在于尽其所能地认知并认识上帝。”（*Song of Songs*, 5）这种知识通过对自然宇宙中现存事物状态的观察而获得，也就是通过上帝所创造、所造成的存在者而获得。因此，对上帝的知识以对自然秩序的知识为前提。
+    step2: |-
+      Horwitz 认为，这一主题在吉尔松尼德的圣经注释里随处可见：“拉尔巴格圣经注释的核心用意之一，是帮助读者通过对真理的认识获得永恒的理智幸福。”（Horwitz 2006, p. 124）[^horwitz-2006] 这一点在《雅歌》注释中最为明显。《雅歌》表面上写一位牧人对少女的爱慕与渴求；历代注释者则从中读出上帝与以色列民族关系的寓意。吉尔松尼德给出的却是哲学读法，其中安排了两组附属对话：一是人的质料理智与能动理智之间，二是灵魂诸能力与质料理智之间。他在该书导言里点明这些讨论的用意，先立前提：“人的终极幸福，在于尽其所能地认知并认识上帝。”（*Song of Songs*, 5）这样的知识来自对自然宇宙中现存事物的观察，也就是对上帝所造、所因之物的观察。所以，认识上帝以认识自然秩序为前提。
+  - id: 44
+    kind: body
+    source: |-
+      Gersonides then unpacks the various levels of enlightenment that he finds in *Song of Songs*, moving from mathematics, to physics, astronomy and finally metaphysics. In this way, Gersonides emphasizes the natural sciences, in particular physics, as a propadeutic to metaphysics. Gersonides is clear that the science of physics builds upon moral knowledge derived from Scripture: “this science is impossible for one who is not strongly settled on the true views from the perspective of Torah and speculation.” (Gersonides *Song of Songs*, 11). Gersonides then unpacks the various allegories and symbolic representations in the work, all of which point to the goal of ultimate felicity as the union with God via the Active Intellect.
+    step1: |-
+      吉尔松尼德随后展开他在《雅歌》中找到的各个层次的启蒙，从数学到物理学、天文学，最后到形而上学。这样，吉尔松尼德强调自然科学，尤其是物理学，是形而上学的预备学科。吉尔松尼德明确指出，物理学这门科学建立在源自经文的道德知识之上：“凡未在托拉与思辨的视角下坚定确立真正观点的人，都不可能从事这门科学。”（Gersonides *Song of Songs*, 11）吉尔松尼德随后展开了作品中的各种寓意与象征表现，它们全都指向终极幸福这一目标，即经由能动理智与上帝结合。
+    step2: |-
+      接着，吉尔松尼德把《雅歌》中的启蒙层次层层展开：数学、物理学、天文学，最后到形而上学。他由此强调自然科学、尤其是物理学，是形而上学的预备。他也说得很清楚：物理学建立在由经文而来的道德知识之上，“凡未在托拉与思辨的视角下牢牢确立正确观点的人，都做不了这门学问”（Gersonides *Song of Songs*, 11）。随后他逐一展开书中的寓意与象征，而这些全都指向同一个目标：经由能动理智与上帝结合，达于终极幸福。
+  - id: 45
+    kind: body
+    source: |-
+      ## 7. Conclusion
+    step1: |-
+      ## 7. 结论
+    step2: |-
+      ## 7 结论
+  - id: 46
+    kind: body
+    source: |-
+      Gersonides’ philosophical ideas went against the grain of traditional Jewish thought; he also challenged scholastic thought. Glasner suggests that unlike his Christian peers who studied and taught at a university, Gersonides’ academic profile as rooted in applied mathematics and astronomy allowed him to leave metaphysics behind. He offered a serious critique of Aristotle’s theory of motion, thus freeing himself as well from “the grip of Aristotelian physics, and even laid down a basis for an alternative understanding of motion” (Glasner 2015, p. 106)[^glasner-2015]. Gersonides reflects the following characteristics: first, his writings demonstrate a fundamental interplay and harmony between astrological and theological beliefs. It is clear that the appeal of astrology lay in the fact that it offered useful information, while it looked and operated like a science. Even the critics of astrology had to agree that the heavens exerted a real influence upon terrestrial events. The complexity of the rules of astrology and internal disagreement among its followers served to increase the respect accorded to the science. Failures did not cause the astrologer to lose faith, just as failures among modern physicists do not lead to loss of faith in science. Gersonides believed that life on earth had a meaning, and that terrestrial events had an order. Astrology was a means of ascertaining that meaning. Gersonides’ views on prophecy, providence, free-will and evil reflected ingredients of this philosophical determinism. Whereas his commentaries occupied a central place in Jewish theology, his philosophical work was rejected. Jewish philosophers such as Hasdai Crescas and Isaac Abrabanel felt obliged to subject his works to lengthy criticism. Only in recent years has Gersonides received his rightful place in the history of philosophy. As scholars have rediscovered his thought and have made his corpus available to a modern audience, Gersonides is once again appreciated as an insightful, ruthlessly consistent philosopher.
+    step1: |-
+      吉尔松尼德的哲学观念与传统的犹太思想格格不入；他也挑战了经院思想。Glasner 提出，与那些在大学里研习和授课的基督教同行不同，吉尔松尼德以应用数学与天文学为根基的学术面貌，使他得以把形而上学抛在身后。他对亚里士多德的运动理论提出了严肃的批评，从而也使自己摆脱了“亚里士多德物理学的掌控，甚至为另一种关于运动的理解奠定了基础”（Glasner 2015, p. 106）[^glasner-2015]。吉尔松尼德体现出以下特征：第一，他的著作展示了占星术信念与神学信念之间根本性的相互作用与和谐。显然，占星术的吸引力在于它提供有用的信息，而它的样子与运作方式又像一门科学。甚至占星术的批评者也必须承认，诸天对地上事件施加了真实的影响。占星术规则的复杂性以及其追随者之间的内部分歧，反而增加了这门科学所受到的尊重。失败并没有让占星家失去信心，正如现代物理学家的失败不会导致人们失去对科学的信心。吉尔松尼德相信，地上生命有其意义，地上事件有其秩序。占星术是确定这一意义的手段。吉尔松尼德关于预言、神意、自由意志与恶的观点，反映了这种哲学决定论的成分。他的注释在犹太神学中占据中心地位，他的哲学著作却遭到拒斥。哈斯代·克雷斯卡斯、以撒·阿布拉瓦内尔等犹太哲学家觉得有义务对他的著作进行冗长的批评。直到近年，吉尔松尼德才在哲学史上获得他应有的位置。随着学者们重新发现他的思想、使他的著作集能为现代读者所用，吉尔松尼德再次被赏识为一位富有洞见、极其彻底一贯的哲学家。
+    step2: |-
+      吉尔松尼德的哲学观念违背传统犹太思想的路数，也挑战了经院思想。Glasner 认为，基督教同行大多在大学里研习、授课，吉尔松尼德则不同：他的学术根基在应用数学与天文学，这使他得以把形而上学搁在一边。他严肃批评亚里士多德的运动理论，从而也摆脱了“亚里士多德物理学的束缚，甚至为另一种运动理解奠定了基础”（Glasner 2015, p. 106）[^glasner-2015]。吉尔松尼德有几个特点。其一，他的著作显示出占星术信念与神学信念之间根本的相互作用与和谐。占星术之所以有吸引力，显然在于它提供有用的信息，而模样与运作又都像一门科学；连它的批评者也不得不承认，诸天对地上事件确有真实影响。占星术规则繁复，追随者内部又分歧不断，这反倒抬高了这门科学所受的尊重。失败不曾让占星家失去信心，正如现代物理学家的失败不会让人失去对科学的信心。吉尔松尼德相信，地上生命自有意义，地上事件自有秩序，而占星术正是确定这意义的手段。他关于预言、神意、自由意志与恶的观点，都映出这种哲学决定论的成分。他的注释在犹太神学中居于中心，哲学著作却遭拒斥；哈斯代·克雷斯卡斯、以撒·阿布拉瓦内尔等犹太哲学家觉得有义务长篇批驳他的著作。直到近年，吉尔松尼德才在哲学史上得到应有的位置。学者们重新发现他的思想，把他的著作集送到现代读者面前，他才再度被推许为一位富有洞见、彻底一贯的哲学家。
+  - id: 47
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      [请与作者联系提出建议。]
+    step2: |-
+      [欢迎向作者提出建议。]
