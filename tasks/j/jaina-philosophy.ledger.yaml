@@ -904,32 +904,42 @@ segments:
     kind: body
     source: |-
       A type of cognition that has a particular importance in South Asian philosophy is that of inference (*anumāna*). Inference is the type of cognition through which epistemic agents acquire new knowledge by means of reasoning upon what can be concluded with certainty from previously acquired knowledge. This is what is expressed by the Sanskrit expression “*anumāna*”, “the knowledge that follows [another knowledge]”. For example, when Devadatta wants to buy mangos, he wants to know which ones taste juicy before he buys them. At this point, he is not yet allowed to taste them, but he can reason based upon the color of the mangos and upon his past experience of a given color being associated with a given taste. In such a situation, the regularity of Devadatta’s past experience is not a coincidence, the co-presence of the property of having a given taste with the property of having a given color is guaranteed by the fact that both occurrences rely on the same causal complex, namely, a given stage of ripeness of the fruit at stake. This type of reasoning based on a necessary relationship between two properties is what is called “inference”. In technical terms, there is a transmission of certainty from the established knowledge that an “evidence-property” (*hetu*) is ascribed to a given object, to the new knowledge that a “target-property” (*sādhya*) is ascribed to the same object. This transmission of certainty is based on the “invariable concomitance” (*vyāpti*) between the two inferential properties. *Vyāpti* originally means “pervasion” and is used in this technical sense, because the pervasion of a property by another property, as in “whenever there is a Sissoo tree, there is a tree”, is the model for situations of necessary co-presence of the evidence-property with the target-property.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在南亚哲学中具有特殊重要性的一类认知是推理（*anumāna*）。推理是这样一类认知：认知主体凭借对先前所得知识中可确定地推出之物的推理，获得新知识。梵语“*anumāna*”所表达的正是这一点——“随［另一知识］而来的知识”。例如，提婆达多要买芒果时，想先知道哪些尝起来多汁再买。此时尚不许他品尝，但他可以凭芒果的颜色、以及凭过去某种颜色与某种滋味相关联的经验来推理。在这种情形下，提婆达多过去经验中的规则性并非巧合：某滋味之性质与某颜色之性质共现，乃因二者皆依赖同一因果复合体，即所涉果实的某一成熟阶段。这种基于两种性质之间必然关系的推理，即所谓“推理”。用技术性的说法，确定性从“证因”（*hetu*）被归属于某对象这一已成立之知，传递到“所立”（*sādhya*）被归属于同一对象这一新知。这一确定性的传递，基于两种推理性质之间的“不离相随”（*vyāpti*）。*Vyāpti* 原意为“遍充”，之所以用于此技术义，是因为一性质为另一性质所遍充——如“凡有尸沙树处，即有树”——正是证因与所立必然共现之情形的模型。
+    step2: |-
+      在南亚哲学中具有特殊重要性的一类认知是推理（*anumāna*）。推理是这样一类认知：认知主体对先前所得知识中可确定地推出之物加以推理，从而获得新知。梵语“*anumāna*”表达的正是这一点——“随［另一知识］而来的知识”。例如，提婆达多要买芒果，想先知道哪些尝起来多汁，然后才买。此时尚不许他品尝；但他可以凭芒果之色、凭过去某色与某味相关联之经验来推理。在这种情形下，提婆达多过去经验中的规则性并非巧合：某滋味之性质与某颜色之性质共现，是因为二者皆依赖同一个因果复合体——即所涉果实的某一成熟阶段。这种基于两性质间必然关系的推理，即所谓“推理”。以技术性的说法：确定性从“证因”（*hetu*）归属于某对象这一已立之知，传递给“所立”（*sādhya*）归属于同一对象这一新知。这一确定性的传递，基于两种推理性质之间的“不离相随”（*vyāpti*）。*Vyāpti* 原意为“遍充”；用于此技术义，是因为一性质为另一性质所遍充——如“凡有尸沙树处即有树”——正是证因与所立必然共现之情况的模型。
   - id: 102
     kind: body
     source: |-
       Inference has been thoroughly studied and its use strictly codified by the different philosophico-religious traditions of South Asia, Jainism included, because it provides the structure of scientific reasoning. Indeed, the conclusion of an inferential reasoning is considered as a scientific truth inasmuch as this type of reasoning relies on the emancipation from contextual parameters and on the guarantee that the isolated relations are necessary ones.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      推理已被南亚各哲学—宗教传统（包括耆那教）彻底研究，其运用被严格编码，因为它提供了科学推理的结构。确实，推理的结论之所以被视为科学真理，是因为这类推理依赖于对语境参数的解放，并依赖于孤立出来的诸关系乃是必然关系这一保证。
+    step2: |-
+      推理已被南亚各哲学—宗教传统（包括耆那教）彻底研究，其运用亦被严格编码——因为它提供了科学推理的结构。确实，推理的结论之所以被视为科学真理，是因为这类推理依赖于对语境参数的解除，并依赖于“孤立出来的诸关系乃是必然关系”这一保证。
   - id: 103
     kind: body
     source: |-
       In concert, inferential reasoning has a strong argumentative potential. To explain, by means of stating an inferential reasoning, it is possible to bring somebody else to the awareness of these truths. Such a series of statements, even though it is not properly speaking a type of cognition by itself, is metaphorically called “inference for others” (*parārthānumāna*), in opposition to the “inference for oneself” (*svārthānumāna*), which is a genuine type of cognition. An inference for others is traditionally used in a philosophical debate in order to convince an interlocutor of a different faith who has different beliefs concerning what there is. In Jainism, there is an abundant literature of stories of conversion as the outcome of such debates, as well as the development of debating techniques to support one’s inferential reasoning (Gorisse 2018)[^gorisse-2018]. Furthermore, the different traditions share the belief that from this truth-preserving argument, it is possible to define the standards of an ideally organized rational discussion, the outcomes of which are necessary true statements, and in the course of time, these philosophers developed a common inter-doctrinal framework of argumentation for philosophical discussions (Gorisse 2017)[^gorisse-2017].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      推理同时在论辩上有很强的潜能。解释一下：人们可以通过陈述一个推理，使他人也意识到这些真理。这样一系列陈述，尽管严格说来本身并非一类认知，却被隐喻性地称为“为他推理”（*parārthānumāna*），以区别于“为己推理”（*svārthānumāna*）——后者是真正的认知类型。为他推理传统上用于哲学论辩，以说服一个信仰不同、对存在何物持不同信念的论者。在耆那教中，有大量故事讲述这类论辩以皈依告终，也有为支持己方推理而发展的论辩术（Gorisse 2018）[^gorisse-2018]。此外，各传统共享如下信念：从这种保真论证中，可以界定一场理想地组织起来的理性讨论之标准，其结果必然是真实的陈述；随着时间推移，这些哲学家发展出一套共同的、跨教义的哲学讨论论证框架（Gorisse 2017）[^gorisse-2017]。
+    step2: |-
+      推理同时在论辩上很有潜力。解释一下：人可以通过陈述一个推理，使他人也意识到这些真理。这样一系列陈述，严格说来本身并非一类认知，却被隐喻地称为“为他推理”（*parārthānumāna*），以区别于“为己推理”（*svārthānumāna*）——后者才是真正的认知类型。为他推理传统上用于哲学论辩，以说服信仰不同、对存在何物持不同信念的论者。在耆那教中，有大量故事讲述这类论辩最终导向皈依，也有为支持己方推理而发展的论辩术（Gorisse 2018）[^gorisse-2018]。此外，各传统共享如下信念：从这种保真论证中，可以界定一场理想地组织起来的理性讨论之标准，其结果必然是真实的陈述。随着时间推移，这些哲学家发展出一套共同的、跨教义的哲学讨论论证框架（Gorisse 2017）[^gorisse-2017]。
   - id: 104
     kind: body
     source: |-
       From these observations, it comes as no surprise that the study of the rules to attack and defend the statement of an inference constitutes an important part of the logical investigations in Jainism. It also comes as no surprise that these considerations developed in close relationship with the logical investigations led by the other traditions of classical Indian philosophy. More precisely, Jaina authors routinely reference the *Treatise on Logic* (*Nyāyasūtra* [NS]), the epistemological treatise of the Naiyāyika tradition, composed by Gautama in the second century CE, which is the pan Indian inter-doctrinal reference work for the characterization of inference. Next to this, later Jaina authors consistently engaged in discussions with the Buddhists, in particular with Dignāga and Dharmakīrti, in the context of developing their theories of inference. The deep influence of Dharmakīrti’s epistemology and theories of argumentation on Jain philosophers can for example be seen in Vidyānandin’s reuse of some of the latter’s arguments in his *Investigation into the True Teaching* (*Satyaśāsanaparīkṣā* [SŚP]) (Trikha 2017)[^trikha-2017].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由这些观察可见，研究攻击与辩护推理陈述的规则，构成耆那教逻辑探究的重要部分，这并不奇怪。这些考量与古典印度哲学其他传统所进行的逻辑探究密切相关而发展，同样并不奇怪。更确切地说，耆那教作者惯常引用《逻辑经》（*Nyāyasūtra*［NS］）——正理派的知识论论书，由乔答摩（Gautama）于公元二世纪写成——那是刻画推理的泛印度跨教义参考著作。此外，后世的耆那教作者在发展其推理理论时，持续与佛教徒、尤其是与陈那（Dignāga）和法称（Dharmakīrti）进行讨论。法称的知识论与论证理论对耆那教哲学家的深刻影响，例如可见于明辨（Vidyānandin）在《正教探求》（*Satyaśāsanaparīkṣā*［SŚP］）中对法称某些论证的沿用（Trikha 2017）[^trikha-2017]。
+    step2: |-
+      由这些观察可见：研究攻击与辩护推理陈述的规则，构成耆那教逻辑探究的重要部分，并不奇怪；这些考量与古典印度哲学其他传统之逻辑探究密切相关而发展，同样不奇怪。更确切说，耆那教作者惯常引用《逻辑经》（*Nyāyasūtra*［NS］）——正理派的知识论论书，由乔答摩（Gautama）于公元二世纪写成——那是刻画推理的泛印度跨教义参考著作。此外，后世耆那教作者在发展其推理理论时，持续与佛教徒、尤其与陈那（Dignāga）和法称（Dharmakīrti）讨论。法称的知识论与论证理论对耆那教哲学家的深刻影响，例如可见于明辨（Vidyānandin）在《正教探求》（*Satyaśāsanaparīkṣā*［SŚP］）中对法称某些论证的沿用（Trikha 2017）[^trikha-2017]。
   - id: 105
     kind: body
     source: |-
       The more systematic analysis of inference in Jainism begins with the Śvetāmbara philosopher Siddhasena Mahāmati and his younger Digambara contemporary Akalaṅka Bhaṭṭa (720–780), author of the *Royal Commentary [to the Treatise on What there is]* (*Rājavārttika* [RV]) (Balcerowicz 2016b; Shah 1967)[^balcerowicz-2016b][^shah-1967], and develops through a continued line of commentaries until authors like Vādi Devasūri (1143 CE) in his *Commentary on the explanation of the nature of modes of knowledge and perspectives* (*Pramāṇanayatattvālokālaṃkāra* [PNT]) and later authors like Yaśovijaya (1638–1688 CE) and his *Manual of Jain Logic* (*Jainatarkabhāṣā* [JTBh]) (Ganeri 2008)[^ganeri-2008]. One of the main inter-doctrinal line of discussions and controversies in this conceptual framework is to bring the probative inferential argument to its minimal form by reducing the number of necessary statements. In these attempts, Jaina philosophers are traditionally considered as the ones to go the furthest. More precisely, the *Treatise on Logic* and its *Commentary to the Treatise on Logic* (*Nyāyasūtrabhāṣya*, NSBh) by Vātsyāyana (450–500 CE) had brought an old model with explicit psychological conditions like doubt and desire to know, to a model linked only with the structure of the argument. There, the only good way to express a truth-preserving argument consists of a group of five statements expressing the thesis, the evidence, the account, the application and the conclusion in the inference. Jaina authors acknowledge this model and use Naiyāyika traditional examples, like:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      耆那教对推理更系统的分析，始于白衣派哲学家悉檀仙那·摩诃摩底，及其较年轻的空衣派同时代人阿羯兰迦·跋多（Akalaṅka Bhaṭṭa，720–780），后者是《［论存在者］王疏》（*Rājavārttika*［RV］）的作者（Balcerowicz 2016b; Shah 1967）[^balcerowicz-2016b][^shah-1967]；这一分析经由一脉相承的注释传统发展，直至筏提·提婆苏利（Vādi Devasūri，公元 1143 年）的《知与观点之本性阐明庄严疏》（*Pramāṇanayatattvālokālaṃkāra*［PNT］），以及更晚的耶输毗阇耶（Yaśovijaya，公元 1638–1688 年）及其《耆那逻辑手册》（*Jainatarkabhāṣā*［JTBh］）（Ganeri 2008）[^ganeri-2008]。这一概念框架中跨教义讨论与论争的主要方向之一，是把证明性的推理化为最简形式，即减少必要陈述的数目。在这些尝试中，耆那教哲学家传统上被认为走得最远。更确切地说，《逻辑经》及其由筏磋衍那（Vātsyāyana，公元 450–500 年）所作的《逻辑经疏》（*Nyāyasūtrabhāṣya*，NSBh），曾把一个带有明示心理条件（如疑惑与求知欲）的旧模型，改造为只与论证结构相关的模型。在那里，表达保真论证的唯一好方式，是由五组陈述构成：推理中的论题、证因、喻例、应用与结论。耆那教作者承认这一模型，并使用正理论者的传统例子，如：
+    step2: |-
+      耆那教对推理更系统的分析，始于白衣派哲学家悉檀仙那·摩诃摩底，及其较年轻的空衣派同时代人阿羯兰迦·跋多（Akalaṅka Bhaṭṭa，720–780）——后者是《［论存在者］王疏》（*Rājavārttika*［RV］）的作者（Balcerowicz 2016b; Shah 1967）[^balcerowicz-2016b][^shah-1967]。这一分析经一脉相承的注释传统发展，直至筏提·提婆苏利（Vādi Devasūri，公元 1143 年）的《知与观点之本性阐明庄严疏》（*Pramāṇanayatattvālokālaṃkāra*［PNT］），以及更晚的耶输毗阇耶（Yaśovijaya，公元 1638–1688 年）及其《耆那逻辑手册》（*Jainatarkabhāṣā*［JTBh］）（Ganeri 2008）[^ganeri-2008]。这一概念框架中跨教义讨论与论争的主要方向之一，是把证明性推理化为最简形式，即减少必要陈述之数目。在这些尝试里，耆那教哲学家传统上被认为走得最远。更确切说，《逻辑经》及其由筏磋衍那（Vātsyāyana，公元 450–500 年）所作《逻辑经疏》（*Nyāyasūtrabhāṣya*，NSBh），曾把一个带明示心理条件（如疑惑与求知欲）的旧模型，改造为只与论证结构相关的模型。在那里，表达保真论证的唯一好方式，是由五组陈述构成：论题、证因、喻例、应用与结论。耆那教作者承认这一模型，并使用正理论者的传统例子，如：
   - id: 106
     kind: body
     source: |-
@@ -938,38 +948,58 @@ segments:
       > - [Account] Whatever is such is alike, like a pot.
       > - [Application] And this is a product.
       > - [Conclusion] Therefore it is impermanent.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > - ［论题］声是无常，
+      > - ［证因］因为是所作。
+      > - ［喻例］凡是所作皆如此，如瓶。
+      > - ［应用］而此是所作。
+      > - ［结论］故是无常。
+    step2: |-
+      > - ［论题］声是无常，
+      > - ［证因］因为是所作。
+      > - ［喻例］凡是所作皆无常，如瓶。
+      > - ［应用］而声是所作。
+      > - ［结论］故声无常。
   - id: 107
     kind: body
     source: |-
       But for Jaina authors, only pedagogical reasons can motivate a philosopher to fully state an argument in this way. To explain, only the first two statements are necessary steps to ensure the adhesion of the interlocutor. In his *Guide of logic*, Siddhasena makes it clear, first, that the evidence is the central cog of the inferential reasoning; second, that the statement of the thesis is also indispensable, as it indicates the goal of the inference. Its absence would be like observing an archer without knowing what his target is, that is to say without the possibility to know whether he is skillful or not.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但在耆那教作者看来，唯有教学上的理由，才能促使哲学家以这种方式完整陈述一个论证。解释一下：只有前两项陈述，是确保对方接受所必需的步骤。悉檀仙那在《逻辑导论》中明确指出：第一，证因是推理的中心齿轮；第二，论题的陈述也不可或缺，因为它标示推理的目标。缺了它，就像观察一名弓箭手却不知其靶子何在，也就是说，无从知道他是否技艺纯熟。
+    step2: |-
+      但在耆那教作者看来，唯有教学上的理由，才能促使哲学家以这种方式完整陈述论证。解释一下：只有前两项陈述，是确保对方接受所必需者。悉檀仙那在《逻辑导论》中明确指出：其一，证因是推理的中心齿轮；其二，论题之陈述亦不可或缺，因为它标示推理之目标。缺了它，就像观察一名弓箭手却不知其靶何在——也就无从知道他是否技艺纯熟。
   - id: 108
     kind: body
     source: |-
       A second major line of inter-doctrinal discussions and controversies in this conceptual framework is to aim towards a theory of the proper relationship between the target-property and the evidence-property. A first attempt to distinguish between arbitrary and necessary relationships is offered by the Buddhist Dignāga (480–540 CE), according to which the evidence-property is necessarily concomitant with the target-property if and only if it is possible to prove that the evidence-property is present in the case under consideration, in similar cases and in no dissimilar cases. In our example, it means that the property “being a product” has to be present in impermanent things like sound and pots, and absent in permanent things like the self. Jaina authors show that the three conditions of Dignāga are neither necessary, nor sufficient, and that what ultimately counts is that the evidence-property cannot be thought of otherwise than in the presence of the target-property. To explain, the only ultimately relevant criteria for the correctness of an inference is that its evidence-property is known as being “impossible otherwise” (*anyathānupapatti*) than in the presence of the target-property. One specificity of the Jaina tradition is to consider that this necessary concomitance between the inferential properties is known thanks to another type of cognition, “*tarka*” (here, not used in its traditional technical sense of “suppositional reasoning”), which functions as a direct discernment of universals. More precisely, it is clear that necessary concomitance cannot be known by customary perception, since perception deals only with particulars, and that even the biggest list of particular instances would not suffice to reach certainty. Yet, we can realize that if something with certain properties exists, something else with certain properties must also exist. It is not the same type of realization as the inferential one, since it is linked with the Jaina epistemological theory of particular-in-universal, according to which an object is a complex having both an existent universal aspect and an existent particular aspect (see next section on many-sidedness). Therefore, in the same situation in which one grasps a particular Sissoo, one can also grasp the common properties shared by all Sissoos.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一概念框架中跨教义讨论与论争的第二大方向，是趋向一种关于所立与证因之恰当关系的理论。首次尝试区分任意关系与必然关系者，是佛教徒陈那（公元 480–540 年）：按他的说法，证因与所立必然相随，当且仅当能证明该证因存在于所考察的情形中、存在于相似情形中、而不存在于不相似情形中。在我们的例子里，这意味着“所作”这一性质须存在于无常之物（如声与瓶）中，而不存在于常住之物（如自我）中。耆那教作者表明，陈那的三项条件既不必要也不充分；归根结底要紧的是：证因若不在所立在场时，便无法被思议为其他样子。解释一下：推理正确性的唯一根本相关标准，是它的证因被知为“离此不可能”（*anyathānupapatti*），即不可能在所立不在场时成立。耆那教传统的一个特质是：认为推理性质之间的这种必然相随，是凭另一类认知——“*tarka*”（此处不取其“假设性推理”的传统技术义）——而知的，此类认知起着对共相的直观辨别作用。更确切地说，必然相随显然不能由惯常知觉所知，因为知觉只处理个别；而即便最长的个别事例清单，也不足以达到确定性。然而，我们能体会到：若具某性质之物存在，则具另一性质之物也必存在。这不是与推理同类的体会，因为它关联于耆那教“个别寓于共相”的知识论：按此说，对象是一个复合体，兼具存在的共相面与存在的个别面（见下一节论多面性）。因此，在把握一株个别尸沙树的同一情境中，人也能把握一切尸沙树所共有的性质。
+    step2: |-
+      这一概念框架中跨教义讨论与论争的第二大方向，是趋向一种关于所立与证因之恰当关系的理论。首次尝试区分任意关系与必然关系者，是佛教徒陈那（公元 480–540 年）：按他的说法，证因与所立必然相随，当且仅当能证明该证因存在于所考察的情形、存在于相似情形，而不存在于不相似情形。在我们的例子里，这意味着“所作”这一性质须存在于无常之物（如声与瓶）中，而不存在于常住之物（如自我）中。耆那教作者表明：陈那的三项条件既不必要、也不充分；归根结底要紧的是——证因若不在所立在场时，便无法被思议为其他样子。解释一下：推理正确性的唯一根本标准，是其证因被知为“离此不可能”（*anyathānupapatti*），即不可能在所立不在场时成立。耆那教传统的一个特质是：认为推理性质之间的这种必然相随，凭另一类认知而得——“*tarka*”（此处不取其“假设性推理”的传统技术义），此类认知起着对共相的直观辨别作用。更确切说：必然相随显然不能由惯常知觉所知，因为知觉只处理个别；即便最长的个别事例清单，也不足以达到确定性。然而，我们能体会到：若具某性质之物存在，则具另一性质之物也必存在。这不同于推理式的体会，因为它关联于耆那教“个别寓于共相”的知识论：按此说，对象是一个复合体，兼具存在的共相面与存在的个别面（见下一节论多面性）。因此，在把握一株个别尸沙树的同一情境中，人也能把握一切尸沙树所共有的性质。
   - id: 109
     kind: body
     source: |-
       ### 3.4 Realism and many-sidedness
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.4 实在论与多面性
+    step2: |-
+      ### 3.4 实在论与多面性
   - id: 110
     kind: body
     source: |-
       #### 3.4.1 On making distinctions
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 3.4.1 论作区分
+    step2: |-
+      #### 3.4.1 论作区分
   - id: 111
     kind: body
     source: |-
       This complexity of the object of knowledge in Jaina philosophy has a deeply ramified history. At the time of Mahāvīra around the fifth–sixth centuries BCE, a practice was observed in the numerous movements of wandering mendicants: instead of answering philosophical questions in a one-sided way, the teacher was analyzing (*vibhajya*) them, showing their different presuppositions and possible meanings. Probably inherited from exegetical practices of interpretation of sacred texts, which dominantly consisted in analyzing the many perspectives that one could have on a single sentence. In Jainism, one of the most famous examples of this practice is to be found in the *Venerable Exposition of teaching* (*Bhagavatīsūtra*, or *Vyākhyāprajñaptisūtra* [Viy.]; old parts 5ᵗʰ–2ᵗʰ centuries BCE, new 2ⁿᵈ century BCE to 1ˢᵗ century CE), in which the disciple Indrabhūti Gautama asks to the monk Jamāli:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      耆那教哲学中知识对象的这种复杂性，有一段根深枝蔓的历史。约在公元前五、六世纪大雄的时代，众多游方苦行者的运动中可见一种做法：导师不片面地回答哲学问题，而是对它们加以分析（*vibhajya*），揭示其不同的预设与可能的含义。这大概承自解释圣典的注疏实践——其主流做法就是分析人对同一句话可能持有的多种视角。在耆那教中，这一做法最著名的例子之一见于《世尊教说》（*Bhagavatīsūtra*，或 *Vyākhyāprajñaptisūtra*［Viy.］；旧层为公元前 5–2 世纪，新层为公元前 2 世纪至公元 1 世纪）：其中弟子因陀罗菩提·乔答摩（Indrabhūti Gautama）问比丘阇摩利（Jamāli）：
+    step2: |-
+      耆那教哲学中知识对象的这种复杂性，有一段根深枝蔓的历史。约在公元前五六世纪大雄的时代，众多游方苦行者的运动中可见一种做法：导师不片面地回答哲学问题，而是对它们加以分析（*vibhajya*），揭示其不同预设与可能含义。这大概承自解释圣典的注疏实践——其主流做法，正是分析人对同一句话可能持有的多种视角。在耆那教中，这一做法最著名的例子之一见于《世尊教说》（*Bhagavatīsūtra*，或 *Vyākhyāprajñaptisūtra*［Viy.］；旧层为公元前 5–2 世纪，新层为公元前 2 世纪至公元 1 世纪）：其中弟子因陀罗菩提·乔答摩（Indrabhūti Gautama）问比丘阇摩利（Jamāli）：
   - id: 112
     kind: body
     source: |-
@@ -984,45 +1014,81 @@ segments:
       > > The soul is, Jamāli, eternal. For it did not cease to exist at any time.
       > >
       > > The soul is, Jamāli, non-eternal. For it becomes animal after being a hellish creature, becomes a man after becoming an animal and it becomes a god after being a man.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > > *loka*（此处兼指“世界”与“自我”）是常，抑或，阇摩利，是无常？
+      >
+      > 被如此问时，阇摩利心生疑惑而欲知，却被困惑压倒。他无法作答，默然而住。阇摩利困惑之际，世尊大雄对他说：
+      >
+      > > 世界，阇摩利，是常……它曾是，它是，它将是……
+      > >
+      > > 世界，阇摩利，是无常。因为它进而复退，退而复进。
+      > >
+      > > 灵魂，阇摩利，是常。因为它于任何时都不曾断灭。
+      > >
+      > > 灵魂，阇摩利，是无常。因为它由地狱众生而变为畜生，由畜生而变为人或由人而变为神。
+    step2: |-
+      > > *loka*（此处兼指“世界”与“自我”）是常，抑或，阇摩利，是无常？
+      >
+      > 被如此问时，阇摩利心生疑惑而欲知，却被困惑压倒。他无法作答，默然而住。阇摩利困惑之际，世尊大雄对他说：
+      >
+      > > 世界，阇摩利，是常……它曾是，它是，它将是……
+      > >
+      > > 世界，阇摩利，是无常。因为它进而复退，退而复进。
+      > >
+      > > 灵魂，阇摩利，是常。因为它于任何时都不曾断灭。
+      > >
+      > > 灵魂，阇摩利，是无常。因为它由地狱众生变为畜生，由畜生变为人或由人变为神。
   - id: 113
     kind: body
     source: |-
       So in this example, the Jaina teacher insists on the fact that:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以在这个例子里，耆那教导师强调：
+    step2: |-
+      在这个例子里，耆那教导师强调：
   - id: 114
     kind: body
     source: |-
       - with respect to its substance, the self is eternal, like atoms are.
       - but with respect to its modes, the self is non-eternal, like combinations of atoms.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 就其实体而言，自我是常，如极微之为常。
+      - 但就其样态而言，自我是无常，如极微之组合。
+    step2: |-
+      - 就其实体而言，自我是常，如极微之为常。
+      - 但就其样态而言，自我是无常，如极微的组合。
   - id: 115
     kind: body
     source: |-
       Here, Mahāvīra does not make contradictory predications, but he refutes extremes views, which are considered as wrong, by making explicit the parameters of the different predications. It is interesting to notice that at the same period, the Buddha, who also uses distinctions of the sort in his speech, is known to refuse to answer questions of the sort (Matilal 1981)[^matilal-1981].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里，大雄并未作出自相矛盾的谓述；他是通过明示不同谓述的参数，来驳斥那些被视为错误的极端见解。有趣的是：约在同一时期，佛陀在其言说中也使用这一类区分，却以拒绝回答这类问题著称（Matilal 1981）[^matilal-1981]。
+    step2: |-
+      这里，大雄并未作出自相矛盾的谓述；他通过明示不同谓述的参数，来驳斥那些被视为错误的极端见解。有趣的是：约在同一时期，佛陀在其言说中也使用这一类区分，却以拒绝回答这类问题著称（Matilal 1981）[^matilal-1981]。
   - id: 116
     kind: body
     source: |-
       #### 3.4.2 From the paradoxes of causation to accounting for change and persistence
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 3.4.2 从因果的悖论到说明变化与持存
+    step2: |-
+      #### 3.4.2 从因果悖论到说明变化与持存
   - id: 117
     kind: body
     source: |-
       Now, this way of making distinctions in predication should be thought of in close connection with considerations about causation. Indeed, the Jaina teacher also insists on the fact that one can give a proper account of a causal process only when one acknowledges both persistence and change.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种在谓述中作区分的方式，应与关于因果的考量联系起来看。确实，耆那教导师同样强调：唯有同时承认持存与变化，人才能恰当地说明一个因果过程。
+    step2: |-
+      这种在谓述中作区分的方式，应与关于因果的考量合观。确实，耆那教导师同样强调：唯有同时承认持存与变化，人才能恰当地说明因果过程。
   - id: 118
     kind: body
     source: |-
       To explain, it is not so obvious that we are legitimate in considering ourselves as being the same individual in time, since after all, the cells in our body are continuously replaced, none of the cells that currently constitute me will exist in seven years, each will have been renewed. Conversely, how are we to account for change? Any mechanical explanation of it fails, like Zeno’s arrow that has to travel half the way before it meets its target, but before it meets the half, it has to travel half the half, and before that, half of the half of the half, and so, *ad infinitum*, without being able to even start the movement. There is a problem with our way of accounting for change. Noticing this state of affair, South Asian philosophers engaged in raging debates around the paradoxes of causality at the turn of the CE. In a nutshell, if someone says “the potter makes the pot”, there are several types of possible stance on this:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      解释一下：我们把自己视为在时间中同一的个体，这看来并不那么显然——毕竟身体里的细胞不断被替换，如今构成我的细胞，七年后无一存在，每一个都已被更新。反过来，我们又当如何说明变化？任何机械的解释都会失败，如芝诺之箭：它须先走完一半路程才及于标的；而在及于一半之前，又须走完这一半的一半；在此之前，又须走完一半的一半的一半，如此以至无穷，连运动都无法开始。我们说明变化的方式有毛病。觉察到这一状况，南亚哲学家在公元之交围绕因果悖论展开了激烈的争论。简言之，若有人说“陶工制瓶”，对此可能有几种立场：
+    step2: |-
+      解释一下：我们把自己视为在时间中同一的个体，这看来并不那么显然——毕竟身体里的细胞不断被替换：如今构成我的细胞，七年后无一存在，每一个都已被更新。反过来，我们又当如何说明变化？任何机械的解释都会失败，如芝诺之箭：它须先走完一半路程才及于标的；而在及于一半之前，又须走完这一半的一半；在此之前，又须走完一半的一半的一半，如此以至无穷——连运动都无法开始。我们说明变化的方式有毛病。觉察到这一状况，南亚哲学家在公元之交围绕因果悖论展开激烈争论。简言之，若有人说“陶工制瓶”，对此可能有几种立场：
   - id: 119
     kind: body
     source: |-
@@ -1030,14 +1096,24 @@ segments:
       - one can say that it does not, hence the relevance of the causation process;
       - some that it is neither existent, nor non-existent before the causation process;
       - and one can also say that it both exists and does not exist prior to that.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 可以说，果“瓶”在其近因成熟之前已存在；
+      - 可以说它并不存在，故因果过程有其相关性；
+      - 有人说它在因果过程之前既非存在亦非不存在；
+      - 也可以说它在那之前既存在又不存在。
+    step2: |-
+      - 可以说，果“瓶”在其近因成熟之前已存在；
+      - 可以说它并不存在，故因果过程有其相关性；
+      - 有人说它在因果过程之前既非存在、亦非不存在；
+      - 也可以说它在那之前既存在又不存在。
   - id: 120
     kind: body
     source: |-
       While philosophers from different lineages have been variously depicted as holding one or the other of these alternatives, Jainas are consistently depicted as holding the last one and it is regularly considered as a Jaina specificity to hold that something both exists and does not exist prior to the causation process. But of course, Jains are far from being the only ones to claim so. Besides, they claim more precisely that what exists is at once originating, decaying and persisting in an essential and simultaneous way:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不同谱系的哲学家被描述为分别持有其中一种立场，而耆那教徒则一贯被描述为持最后一种；认为某物在因果过程之前既存在又不存在，常被视为耆那教的一个特质。当然，持此说者远不止耆那教徒。此外，他们更确切地主张：存在者同时地、本质地既生起、又衰亡、又持存：
+    step2: |-
+      不同谱系的哲学家被描述为分别持有其中一种立场，而耆那教徒则一贯被描述为持最后一种；认为某物在因果过程之前既存在又不存在，常被视为耆那教的一个特质。当然，持此说者远不止耆那教徒。此外，他们的主张更确切：存在者同时地、本质地既生起、又衰亡、又持存：
   - id: 121
     kind: body
     source: |-
