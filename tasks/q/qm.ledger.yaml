@@ -1,0 +1,721 @@
+version: 1
+slug: qm
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Quantum mechanics is, at least at first glance and at least in part, a mathematical machine for predicting the behaviors of microscopic particles — or, at least, of the measuring instruments we use to explore those behaviors — and in that capacity, it is spectacularly successful: in terms of power and precision, head and shoulders above any theory we have ever had. Mathematically, the theory is well understood; we know what its parts are, how they are put together, and why, in the mechanical sense (i.e., in a sense that can be answered by describing the internal grinding of gear against gear), the whole thing performs the way it does, how the information that gets fed in at one end is converted into what comes out the other. The question of what kind of a world it describes, however, is controversial; there is very little agreement, among physicists and among philosophers, about what the world *is like* according to quantum mechanics. Minimally interpreted, the theory describes a set of facts about the way the microscopic world impinges on the macroscopic one, how it affects our measuring instruments, described in everyday language or the language of classical mechanics. Disagreement centers on the question of what a microscopic world, which affects our apparatuses in the prescribed manner, is, or even could be, like *intrinsically*; or how those apparatuses could themselves be built out of microscopic parts of the sort the theory describes.[^note-1]
+    step1: TBD
+    step2: TBD
+  - id: 2
+    kind: body
+    source: |-
+      That is what an interpretation of the theory would provide: a proper account of what the world is like according to quantum mechanics, intrinsically and from the bottom up. The problems with giving an interpretation (not just a comforting, homey sort of interpretation, i.e., not just an interpretation according to which the world isn’t too different from the familiar world of common sense, but any interpretation at all) are dealt with in other sections of this encyclopedia. Here, we are concerned only with the mathematical heart of the theory, the theory in its capacity as a mathematical machine, and — whatever is true of the rest of it — *this* part of the theory makes exquisitely good sense.
+    step1: TBD
+    step2: TBD
+  - id: 3
+    kind: body
+    source: |-
+      ## 1. Terminology
+    step1: TBD
+    step2: TBD
+  - id: 4
+    kind: body
+    source: |-
+      Physical systems are divided into **types** according to their unchanging (or ‘state-independent’) properties, and the **state** of a system at a time consists of a complete specification of those of its properties that change with time (its ‘state-dependent’ properties). To give a complete description of a system, then, we need to say what type of system it is and what its state is at each moment in its history.
+    step1: TBD
+    step2: TBD
+  - id: 5
+    kind: body
+    source: |-
+      A **physical quantity** is a mutually exclusive and jointly exhaustive family of physical properties (for those who know this way of talking, it is a family of properties with the structure of the cells in a partition). Knowing what kinds of values a quantity takes can tell us a great deal about the relations among the properties of which it is composed. The values of a bivalent quantity, for instance, form a set with two members; the values of a real-valued quantity form a set with the structure of the real numbers. This is a special case of something we will see again and again, *viz.*, that knowing what kind of mathematical objects represent the elements in some set (here, the values of a physical quantity; later, the states that a system can assume, or the quantities pertaining to it) tells us a very great deal (indeed, arguably, all there is to know) about the relations among them.
+    step1: TBD
+    step2: TBD
+  - id: 6
+    kind: body
+    source: |-
+      In quantum mechanical contexts, the term ‘**observable**’ is used interchangeably with ‘physical quantity’, and should be treated as a technical term with the same meaning. It is no accident that the early developers of the theory chose the term, but the choice was made for reasons that are not, nowadays, generally accepted. The **state-space** of a system is the space formed by the set of its possible states,[^note-2] i.e., the physically possible ways of combining the values of quantities that characterize it internally. In classical theories, a set of quantities which forms a supervenience basis for the rest is typically designated as ‘basic’ or ‘fundamental’, and, since any mathematically possible way of combining their values is a physical possibility, the state-space can be obtained by simply taking these as coordinates.[^note-3] So, for instance, the state-space of a classical mechanical system composed of $n$ particles, obtained by specifying the values of $6n$ real-valued quantities — three components of position, and three of momentum for each particle in the system — is a $6n$-dimensional coordinate space. Each possible state of such a system corresponds to a point in the space, and each point in the space corresponds to a possible state of such a system. The situation is a little different in quantum mechanics, where there are mathematically describable ways of combining the values of the quantities that don’t represent physically possible states. As we will see, the state-spaces of quantum mechanics are special kinds of vector spaces, known as Hilbert spaces, and they have more internal structure than their classical counterparts.
+    step1: TBD
+    step2: TBD
+  - id: 7
+    kind: body
+    source: |-
+      A **structure** is a set of elements on which certain operations and relations are defined, a **mathematical structure** is just a structure in which the elements are mathematical objects (numbers, sets, vectors) and the operations mathematical ones, and a **model** is a mathematical structure used to represent some physically significant structure in the world.
+    step1: TBD
+    step2: TBD
+  - id: 8
+    kind: body
+    source: |-
+      The heart and soul of quantum mechanics is contained in the Hilbert spaces that represent the state-spaces of quantum mechanical systems. The internal relations among states and quantities, and everything this entails about the ways quantum mechanical systems behave, are all woven into the structure of these spaces, embodied in the relations among the mathematical objects which represent them.[^note-4] This means that understanding what a system is like according to quantum mechanics is inseparable from familiarity with the internal structure of those spaces. Know your way around Hilbert space, and become familiar with the dynamical laws that describe the paths that vectors travel through it, and you know everything there is to know, in the terms provided by the theory, about the systems that it describes.
+    step1: TBD
+    step2: TBD
+  - id: 9
+    kind: body
+    source: |-
+      By ‘know your way around’ Hilbert space, I mean something more than possess a description or a map of it; anybody who has a quantum mechanics textbook on their shelf has that. I mean know your way around it in the way you know your way around the city in which you live. This is a practical kind of knowledge that comes in degrees and it is best acquired by learning to solve problems of the form: How do I get from A to B? Can I get there without passing through C? And what is the shortest route? Graduate students in physics spend long years gaining familiarity with the nooks and crannies of Hilbert space, locating familiar landmarks, treading its beaten paths, learning where secret passages and dead ends lie, and developing a sense of the overall lay of the land. They learn how to navigate Hilbert space in the way a cab driver learns to navigate his city.
+    step1: TBD
+    step2: TBD
+  - id: 10
+    kind: body
+    source: |-
+      How much of this kind of knowledge is needed to approach the philosophical problems associated with the theory? In the beginning, not very much: just the most general facts about the geometry of the landscape (which is, in any case, unlike that of most cities, beautifully organized), and the paths that (the vectors representing the states of) systems travel through them. That is what will be introduced here: first a bit of easy math, and then, in a nutshell, the theory.
+    step1: TBD
+    step2: TBD
+  - id: 11
+    kind: body
+    source: |-
+      ## 2. Mathematics
+    step1: TBD
+    step2: TBD
+  - id: 12
+    kind: body
+    source: |-
+      ### 2.1 Vectors and vector spaces
+    step1: TBD
+    step2: TBD
+  - id: 13
+    kind: body
+    source: |-
+      A **vector** $A$, written ‘$\ket{A}$’, is a mathematical object characterized by a length, $|A|$, and a direction. A normalized vector is a vector of length 1; i.e., $|A| = 1$. Vectors can be added together, multiplied by constants (including complex numbers), and multiplied together. Vector addition maps any pair of vectors onto another vector, specifically, the one you get by moving the second vector so that its tail coincides with the tip of the first, without altering the length or direction of either, and then joining the tail of the first to the tip of the second. This addition rule is known as the parallelogram law. So, for example, adding vectors $\ket{A}$ and $\ket{B}$ yields vector $\ket{C} (= \ket{A} + \ket{B})$ as in Figure 1:
+    step1: TBD
+    step2: TBD
+  - id: 14
+    kind: body
+    source: |-
+      *Figure 1*
+    step1: TBD
+    step2: TBD
+  - id: 15
+    kind: body
+    source: |-
+      ![vector addition](../assets/qm/figure1.gif)
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      Figure 1. Vector Addition
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      Multiplying a vector $\ket{A}$ by $n$, where $n$ is a constant, gives a vector which is the same direction as $\ket{A}$ but whose length is $n$ times $\ket{A}$’s length.
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      In a real vector space, the (inner or dot) product of a pair of vectors $\ket{A}$ and $\ket{B}$, written ‘$\braket{A}{B}$’ is a scalar equal to the product of their lengths (or ‘norms’) times the cosine of the angle, $\theta$, between them:
+
+      $$ \braket{A}{B} = |A| |B| \cos \theta $$
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      Let $\ket{A_1}$ and $\ket{A_2}$ be vectors of length 1 (“unit vectors”) such that $\braket{A_1}{A_2} = 0$. (So the angle between these two unit vectors must be 90 degrees.) Then we can represent any two-dimensional vector $\ket{B}$ in terms of our unit vectors as follows:
+
+      $$ \ket{B} = b_1 \ket{A_1} + b_2 \ket{A_2} $$
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      For example, here is a graph which shows how $\ket{B}$ can be represented as the sum of the two unit vectors $\ket{A_1}$ and $\ket{A_2}$:
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      *Figure 2*
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      ![figure2](../assets/qm/figure2.gif)
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      Figure 2. Representing $\ket{B}$ by Vector Addition of Unit Vectors
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      Now the definition of the inner product $\braket{A}{B}$ has to be modified to apply to complex spaces. Let $c^*$ be the complex conjugate of $c$. (When $c$ is a complex number of the form $a \pm bi$, then the complex conjugate $c^*$ of $c$ is defined as follows:
+
+      $$ [a+bi]^* = a-bi \\ [a-bi]^* = a+bi $$
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      So, for all complex numbers $c$, $[c^*]^* = c$, but $c^* = c$ just in case $c$ is real.) Now definition of the inner product of $\ket{A}$ and $\ket{B}$ for complex spaces can be given in terms of the conjugates of complex coefficients as follows. Where $\ket{A_1}$ and $\ket{A_2}$ are the unit vectors described earlier, $\ket{A} = a_1 \ket{A_1} + a_2 \ket{A_2}$ and $\ket{B} = b_1 \ket{A_1} + b_2 \ket{A_2}$, then
+
+      $$ \braket{A}{B} = (a_1^*)(b_1) + (a_2^*)(b_2) $$
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      The most general and abstract notion of an inner product, of which we’ve now defined two special cases, is as follows. $\braket{A}{B}$ is an inner product on a vector space $V$ just in case
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      1. $\braket{A}{A} = |A|^2$, and $\braket{A}{A}=0$ if and only if $A=0$
+      2. $\braket{B}{A} = \braket{A}{B}^*$
+      3. $\braket{B}{A+C}=\braket{B}{A} + \braket{B}{C}$.
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      It follows from this that
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      1. the length of $\ket{A}$ is the square root of inner product of $\ket{A}$ with itself, i.e., $$ |A| = \sqrt{\braket{A}{A}} $$
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      and
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      1. $\ket{A}$ and $\ket{B}$ are mutually perpendicular, or **orthogonal**, if, and only if, $\braket{A}{B} = 0$.
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      A **vector space** is a set of vectors closed under addition, and multiplication by constants, **an inner product space** is a vector space on which the operation of vector multiplication has been defined, and the **dimension** of such a space is the maximum number of nonzero, mutually orthogonal vectors it contains.
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      Any collection of $N$ mutually orthogonal vectors of length 1 in an $N$-dimensional vector space constitutes an **orthonormal basis** for that space. Let $\ket{A_1}, \ldots, \ket{A_N}$ be such a collection of unit vectors. Then every vector in the space can be expressed as a sum of the form:
+
+      $$ \ket{B} = b_1 \ket{A_1} + b_2 \ket{A_2} + \ldots + b_N \ket{A_N}, $$
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      where $b_i = \braket{B}{A_i}$. The $b_i$’s here are known as $B$’s **expansion coefficients** in the $A$-basis.[^note-5]
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      Notice that:
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      1. for all vectors $A$, $B$, and $C$ in a given space, $$ \braket{A}{B+C} = \braket{A}{B} + \braket{A}{C} $$
+      2. for any vectors $M$ and $Q$, expressed in terms of the $A$-basis, $$ \ket{M} + \ket{Q} = \sum_{i=1}^N (m_i + q_i) \ket{A_i}, $$ and $$ \braket{M}{Q} = \sum_{i=1}^N m_i^* q_i $$
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      There is another way of writing vectors, namely by writing their expansion coefficients (relative to a given basis) in a column, like so:
+
+      $$ \ket{Q} = \begin{bmatrix} q_1 \\ q_2 \end{bmatrix} $$
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      where $q_i = \braket{Q}{A_i}$ and the $A_i$ are the chosen basis vectors.
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      When we are dealing with vector spaces of infinite dimension, since we can’t write the whole column of expansion coefficients needed to pick out a vector since it would have to be infinitely long, so instead we write down the function (called the ‘wave function’ for $Q$, usually represented $\psi(i))$ which has those coefficients as values. We write down, that is, the function:
+
+      $$ \psi(i) = q_i = \braket{Q}{A_i} $$
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      Given any vector in, and any basis for, a vector space, we can obtain the wave-function of the vector in that basis; and given a wave-function for a vector, in a particular basis, we can construct the vector whose wave-function it is. Since it turns out that most of the important operations on vectors correspond to simple algebraic operations on their wave-functions, this is the usual way to represent state-vectors.
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      When a pair of physical systems interact, they form a composite system, and, in quantum mechanics as in classical mechanics, there is a rule for constructing the state-space of a composite system from those of its components, a rule that tells us how to obtain, from the state-spaces, $H_A$ and $H_B$ for $A$ and $B$, respectively, the state-space — called the ‘tensor product’ of $H_A$ and $H_B$, and written $H_A \otimes H_B$ — of the pair. There are two important things about the rule; first, so long as $H_A$ and $H_B$ are Hilbert spaces, $H_A \otimes H_B$ will be as well, and second, there are some facts about the way $H_A \otimes H_B$ relates to $H_A$ and $H_B$, that have surprising consequences for the relations between the complex system and its parts. In particular, it turns out that the state of a composite system is not uniquely defined by those of its components. What this means, or at least what it appears to mean, is that there are, according to quantum mechanics, facts about composite systems (and not just facts about their spatial configuration) that don’t supervene on facts about their components; it means that there are facts about systems as wholes that don’t supervene on facts about their parts and the way those parts are arranged in space. The significance of this feature of the theory cannot be overplayed; it is, in one way or another, implicated in most of its most difficult problems.
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      In a little more detail: if $\{v_{i}^A\}$ is an orthonormal basis for $H_A$ and $\{u_{j}^B\}$ is an orthonormal basis for $H_B$, then the set of pairs $(v_{i}^A, u_{j}^B)$ is taken to form an orthonormal basis for the tensor product space $H_A \otimes H_B$. The notation $v_i^A \otimes u_j^B$ is used for the pair $(v_{i}^A,u_{j}^B)$, and inner product on $H_A \otimes H_B$ is defined as:[^note-6]
+
+      $$ \braket{v_i^A \otimes u_m^B}{v_j^A \otimes u_n^B} = \braket{v_i^A}{v_j^A} \braket{u_m^B}{u_n^B} $$
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      It is a result of this construction that although every vector in $H_A \otimes H_B$ is a linear sum of vectors expressible in the form $v^A \otimes u^B$, not every vector in the space is itself expressible in that form, and it turns out that
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      1. any composite state defines uniquely the states of its components.
+      2. if the states of $A$ and $B$ are pure (i.e., representable by vectors $v^A$ and $u^B$, respectively), then the state of $(A+B)$ is pure and represented by $v^A \otimes u^B$, and
+      3. if the state of $(A+B)$ is pure and expressible in the form $v^A \otimes u^B$, then the states of $A$ and $B$ are pure, but
+      4. if the states of $A$ and $B$ are not pure, i.e., if they are mixed states (these are defined below), they do not uniquely define the state of $(A+B)$; in particular, it may be a pure state not expressible in the form $v^A \otimes u^B$.
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      ### 2.2 Operators
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      An **operator** $O$ is a mapping of a vector space onto itself; it takes any vector $\ket{B}$ in a space onto another vector $\ket{B'}$ also in the space; $O \ket{B} = \ket{B'}$. **Linear operators** are operators that have the following properties:
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      1. $O(\ket{A} + \ket{B}) = O \ket{A} + O \ket{B}$, and
+      2. $O(c \ket{A}) = c(O \ket{A})$.
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      Just as any vector in an $N$-dimensional space can be represented by a column of $N$ numbers, relative to a choice of basis for the space, any linear operator on the space can be represented in a column notation by $N^2$ numbers:
+
+      $$O = \begin{bmatrix} O_{11} & O_{12} \\ O_{21} & O_{22} \end{bmatrix}$$
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      where $O_{ij} = \braket{A_i}{O \mid A_j}$ and the $A_N$ are the basis vectors of the space. The effect of the linear operator $O$ on the vector $B$ is, then, given by
+
+      $$\begin{align} O \ket{B} &= \begin{bmatrix} O_{11} & O_{12} \\ O_{21} & O_{22} \end{bmatrix} \times \begin{bmatrix} b_1 \\ b_2 \end{bmatrix} \\ &= \begin{bmatrix} (O_{11}b_1 + O_{12}b_2) \\ (O_{21}b_1 + O_{22}b_2) \end{bmatrix} \\ &= (O_{11}b_1 + O_{12}b_2)|A_1\rangle + (O_{21}b_1 + O_{22}b_2|A_2\rangle \\ &=|B'\rangle \end{align}$$
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      Two more definitions before we can say what Hilbert spaces are, and then we can turn to quantum mechanics. $\ket{B}$ is an **eigenvector** of $O$ with eigenvalue $a$ if, and only if, $O \ket{B} = a \ket{B}$. Different operators can have different eigenvectors, but the eigenvector/operator relation depends only on the operator and vectors in question, and not on the particular basis in which they are expressed; the eigenvector/operator relation is, that is to say, invariant under change of basis. A **Hermitean operator** is an operator which has the property that there is an orthonormal basis consisting of its eigenvectors and those eigenvalues are all real.
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      A **Hilbert space**, finally, is a vector space on which an inner product is defined, and which is complete, i.e., which is such that any Cauchy sequence of vectors in the space converges to a vector in the space. All finite-dimensional inner product spaces are complete, and I will restrict myself to these. The infinite case involves some complications that are not fruitfully entered into at this stage.
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      ## 3. Quantum Mechanics
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      Four basic principles of quantum mechanics are:
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      **(3.1)**
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      **Physical States.** Every physical system is associated with a Hilbert Space, every unit vector in the space corresponds to a possible pure state of the system, and every possible pure state, to some vector in the space.[^note-7]
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      **(3.2)**
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      **Physical Quantities.** Hermitian operators in the Hilbert space associated with a system represent physical quantities, and their eigenvalues represent the possible results of measurements of those quantities. There is an operator, called the Hamiltonian, that plays a special role in quantum theory because the dynamics of a system can be conveniently formulated by tracking its evolution. The Hamiltonian – written $H$, or $\hat{H}$ – stands for the total energy of the system. Its eigenvalues are the possible results that might be obtained in measurements of total energy. It is given by summing over the kinetic and potential energies of the system’s components.
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      **(3.3)**
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      **Composition.** The Hilbert space associated with a complex system is the tensor product of those associated with the simple systems (in the standard, non-relativistic, theory: the individual particles) of which it is composed.
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      **(3.4)**
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      **Dynamics.** a. *Contexts of type 1*: Given the state of a system at $t$ and the forces and constraints to which it is subject, there is an equation, ‘**Schrödinger’s equation**’, that gives the state at any other time $U \ket{v_t} \rightarrow \ket{v_{t'}}$.[^note-8] The important properties of $U$ for our purposes are that it is **deterministic**, which is to say that it takes the state of a system at one time into a unique state at any other, it is **unitary**, which means that it is an automorphism of the Hilbert space on which it acts (i.e., a mapping of that space onto itself that preserves the linear space structure and inner product), and it is **linear**, which is to say that if it takes a state $\ket{A}$ onto the state $\ket{A'}$, and it takes the state $\ket{B}$ onto the state $\ket{B'}$, then it takes any state of the form $\alpha \ket{A} + \beta \ket{B}$ onto the state $\alpha \ket{A'} + \beta \ket{B'}$.
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      **b.**
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      *Contexts of type 2* (“Measurement Contexts”):[^note-9] Carrying out a “measurement” of an observable $B$ on a system in a state $\ket{A}$ has the effect of collapsing the system into a $B$-eigenstate corresponding to the eigenvalue observed. This is known as the **Collapse Postulate**. Which *particular* $B$-eigenstate it collapses into is a matter of probability, and the probabilities are given by a rule known as **Born’s Rule**: $$ \Pr(b_i) = |\braket{A}{B=b_i}|^2 $$
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      There are two important points to note about these two kinds of contexts:
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      - The distinction between contexts of type 1 and 2 remains to be made out in quantum mechanical terms; nobody has managed to say in a completely satisfactory way, in the terms provided by the theory, which contexts are measurement contexts, and
+      - Even if the distinction is made out, it is an open interpretive question whether there *are* contexts of type 2; i.e., it is an open interpretive question whether there are any contexts in which systems are governed by a dynamical rule *other* than Schrödinger’s equation.
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      ## 4. Structures on Hilbert Space
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      I remarked above that in the same way that all the information we have about the relations between locations in a city is embodied in the spatial relations between the points on a map which represent them, all of the information that we have about the internal relations among (and between) states and quantities in quantum mechanics is embodied in the mathematical relations among the vectors and operators which represent them.[^note-10] From a mathematical point of view, what really distinguishes quantum mechanics from its classical predecessors is that states and quantities have a richer structure; they form families with a more interesting network of relations among their members.
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      All of the physically consequential features of the behaviors of quantum mechanical systems are consequences of mathematical properties of those relations, and the most important of them are easily summarized:
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      **(P1)**
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      Any way of adding vectors in a Hilbert space or multiplying them by scalars will yield a vector that is also in the space. In the case that the vector is normalized, it will, from (3.1), represent a possible state of the system, and in the event that it is the sum of a pair of eigenvectors of an observable $B$ with distinct eigenvalues, it will not itself be an eigenvector of $B$, but will be associated, from (3.4b), with a set of probabilities for showing one or another result in $B$-measurements.
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      **(P2)**
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      For any Hermitian operator on a Hilbert space, there are others, on the same space, with which it doesn’t share a full set of eigenvectors; indeed, it is easy to show that there are other such operators with which it has *no* eigenvectors in common.
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      If we make a couple of additional interpretive assumptions, we can say more. Assume, for instance, that
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      **(4.1)**
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      Every Hermitian operator on the Hilbert space associated with a system represents a distinct observable, and (hence) every normalized vector, a distinct state, and
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      **(4.2)**
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      A system has a value for observable $A$ if, and only if, the vector representing its state is an eigenstate of the $A$-operator. The value it has, in such a case, is just the eigenvalue associated with that eigenstate.[^note-11]
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      It follows from (P2), by (3.1), that no quantum mechanical state is an eigenstate of all observables (and indeed that there are observables which have *no* eigenstates in common), and so, by (3.2), that no quantum mechanical system ever has simultaneous values for all of the quantities pertaining to it (and indeed that there are pairs of quantities to which *no* state assigns simultaneous values).
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      There are Hermitian operators on the tensor product $H_1 \otimes H_2$ of a pair of Hilbert spaces $H_1$ and $H_2$ ... In the event that $H_1$ and $H_2$ are the state spaces of systems $S1$ and $S2$, $H_1 \otimes H_2$ is the state-space of the complex system $(S1+S2)$. It follows from this by (4.1) that there are observables pertaining to $(S1+S2)$ whose values are not determined by the values of observables pertaining to the two individually.
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      These are all straightforward consequences of taking vectors and operators in Hilbert space to represent, respectively, states and observables, and applying Born’s Rule (and later (4.1) and (4.2)), to give empirical meaning to state assignments. That much is perfectly well understood; the real difficulty in understanding quantum mechanics lies in coming to grips with their implications — physical, metaphysical, and epistemological.
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      Anyone trying to come to an understanding about what quantum mechanics says about the world has to grapple with one remaining fact. This problem is not an issue with Hilbert spaces, but of the dynamics – the rules that describe the trajectories that systems follow through the space. From a physical point of view, it is far more worrisome than anything discussed to this point. It not only presents difficulties to someone trying to provide an *interpretation* of the theory, but also seems to point to a logical inconsistency in the theory’s foundations.
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      Suppose that we have a system $S$ and a device $S^*$ which measures an observable $A$ on $S$ with values $\{a_1, a_2, a_3, ...\}$. Then there is some state of $S^*$ (the ‘ground state’), and some observable $B$ with values $\{b_1, b_2, b_3, ...\}$ pertaining to $S^*$ (its ‘pointer observable’, so called because it is whatever plays the role of the pointer on a dial on the front of a schematic measuring instrument in registering the result of the experiment), which are such that, if $S^*$ is started in its ground state and interacts in an appropriate way with $S$, and if the value of $A$ immediately before the interaction is $a_1$, then $B$’s value immediately thereafter is $b_1$. If, however, $A$’s value immediately before the interaction is $a_2$, then $B$’s value afterwards is $b_2$; if the value of $A$ immediately before the interaction is $a_3$, then $B$’s value immediately after is $b_3$, and so on. That is just what it *means* to say that $S^*$ measures $A$. So, if we represent the joint, partial state of $S$ and $S^*$ (just the part of it which specifies the value of [$A$ on $S$ & $B$ on $S^*$], the observable whose values correspond to joint assignments of values to the measured observable on $S$ and the pointer observable on $S^*$) by the vector $\ket{A=a_i}_s \ket{B=b_i}_{s^*}$, and let “$\rightarrow$” stand in for the dynamical description of the interaction between the two, to say that $S^*$ is a measuring instrument for $A$ is to say that the dynamical laws entail that,
+
+      $$\begin{align} \ket{A=a_1}_s \ket{B=\text{ground state}}_{s^*} &\rightarrow \ket{A=a_1}_s \ket{B=b_1}_{s^*} \\ \ket{A=a_2}_s \ket{B=\text{ground state}}_{s^*} &\rightarrow \ket{A=a_2}_s \ket{B=b_2}_{s^*} \\ \ket{A=a_3}_s \ket{B=\text{ground state}}_{s^*} &\rightarrow \ket{A=a_3}_s \ket{B=b_3}_{s^*} \end{align}$$
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      and so on.[^note-12]
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      Intuitively, $S^*$ is a measuring instrument for an observable $A$ just in case there is some observable feature of $S^*$ (it doesn’t matter what, just something whose values can be ascertained by looking at the device), which is correlated with the $A$-values of systems fed into it in such a way that we can read those values off of $S^*$’s observable state after the interaction. In philosophical parlance, $S^*$ is a measuring instrument for $A$ just in case there is some observable feature of $S^*$ which *tracks* or *indicates* the $A$-values of systems with which it interacts in an appropriate way.
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      Now, it follows from (3.1), above, that there are states of $S$ (too many to count) which are not eigenstates of $A$, and if we consider what Schrödinger’s equation tells us about the joint evolution of $S$ and $S^*$ when $S$ is started out in one of these, we find that the state of the pair after interaction is a superposition of eigenstates of [$A$ on $S$ & $B$ on $S^*$]. It doesn’t matter what observable on $S$ is being measured, and it doesn’t matter what particular superposition $S$ starts out in; when it is fed into a measuring instrument for that observable, if the interaction is correctly described by Schrödinger’s equation, it follows just from the linearity of the $U$ in that equation, the operator that effects the transformation from the earlier to the later state of the pair, that the joint state of $S$ and the apparatus after the interaction is a superposition of eigenstates of this observable on the joint system.
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      Suppose, for example, that we start $S^*$ in its ground state, and $S$ in the state
+
+      $$ \frac{1}{\sqrt{2}} \ket{A = a_1}_s + \frac{1}{\sqrt{2}} \ket{A=a_2}_s $$
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      It is a consequence of the rules for obtaining the state-space of the composite system that the combined state of the pair is
+
+      $$ \frac{1}{\sqrt{2}} \ket{A=a_1}_s \ket{B=\text{ground state}}_{s^*} + \frac{1}{\sqrt{2}} \ket{A = a_2}_s \ket{B = \text{ground state}}_{s^*} $$
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      and it follows from the fact that $S^*$ is a measuring instrument for $A$, and the linearity of $U$ that their combined state *after* interaction, is
+
+      $$ \frac{1}{\sqrt{2}} \ket{A=a_1}_s \ket{B=b_1}_{s^*} + \frac{1}{\sqrt{2}} \ket{A = a_2}_s \ket{B = b_2}_{s^*} $$
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: body
+    source: |-
+      This, however, is inconsistent with the dynamical rule for contexts of type 2, for the dynamical rule for contexts of type 2 (and if there are any such contexts, *this* is one) entails that the state of the pair after interaction is *either*
+
+      $$ \ket{A=a_1}_s \ket{B=b_1}_{s^*} $$
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: body
+    source: |-
+      or
+
+      $$ \ket{A=a_2}_s \ket{B=b_2}_{s^*} $$
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: body
+    source: |-
+      Indeed, it entails that there is a precise probability of $\frac{1}{2}$ that it will end up in the former, and a probability of $\frac{1}{2}$ that it will end up in the latter.
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: body
+    source: |-
+      We can try to restore logical consistency by giving up the dynamical rule for contexts of type 2 (or, what amounts to the same thing, by denying that there *are* any such contexts), but then we have the problem of consistency with experience. For it was no mere blunder that that rule was included in the theory; we *know* what a system looks like when it is in an eigenstate of a given observable, and we know *from looking* that the measuring apparatus after measurement is in an eigenstate of the pointer observable. And so we *know* from the outset that if a theory tells us something else about the post-measurement states of measuring apparatuses, whatever that something else is, it is wrong.
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: body
+    source: |-
+      That, in a nutshell, is the Measurement Problem in quantum mechanics; any interpretation of the theory, any detailed story about what the world is like according to quantum mechanics, and in particular those bits of the world in which measurements are going on, has to grapple with it.
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: body
+    source: |-
+      ### Loose Ends
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: body
+    source: |-
+      **Mixed states** are weighted sums of pure states, and they can be used to represent the states of ensembles whose components are in different pure states, or states of individual systems about which we have only partial knowledge. In the first case, the weight attached to a given pure state reflects the size of the component of the ensemble which is in that state (and hence the objective probability that an arbitrary member of the ensemble is); in the second case, they reflect the epistemic probability that the system in question to which the state is assigned is in that state.
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: body
+    source: |-
+      If we don’t want to lose the distinction between pure and mixed states, we need a way of representing the weighted sum of a set of pure states (equivalently, of the probability functions associated with them) that is different from adding the (suitably weighted) vectors that represent them, and that means that we need either an alternative way of representing mixed states, or a uniform way of representing both pure and mixed states that preserves the distinction between them. There is a kind of operator in Hilbert spaces, called a **density operator**, that serves well in the latter capacity, and it turns out not to be hard to restate everything that has been said about state vectors in terms of density operators. So, even though it is common to speak as though pure states are represented by vectors, the official rule is that states – pure and mixed, alike – are represented in quantum mechanics by density operators.
+    step1: TBD
+    step2: TBD
+  - id: 97
+    kind: body
+    source: |-
+      Although mixed states *can*, as I said, be used to represent our ignorance of the states of systems that are actually in one or another pure state, and although this has seemed to many to be an adequate way of interpreting mixtures in classical contexts, there are serious obstacles to applying it generally to quantum mechanical mixtures. These are left for detailed discussion in the other entries on quantum mechanics in the Encyclopedia.
+    step1: TBD
+    step2: TBD
+  - id: 98
+    kind: body
+    source: |-
+      Everything that has been said about observables, strictly speaking, applies only to the case in which the values of the observable form a discrete set; the mathematical niceties that are needed to generalize it to the case of **continuous observables** are complicated, and raise problems of a more technical nature. These, too, are best left for detailed discussion.
+    step1: TBD
+    step2: TBD
+  - id: 99
+    kind: body
+    source: |-
+      This should be all the initial preparation one needs to *approach* the philosophical discussion of quantum mechanics, but it is only a first step. The more one learns about the relationships among and between vectors and operators in Hilbert space, about how the spaces of simple systems relate to those of complex ones, and about the equation which describes how state-vectors move through the space, the better will be one’s appreciation of both the nature and the difficulty of the problems associated with the theory. The funny backwards thing about quantum mechanics, the thing that makes it endlessly absorbing to a philosopher, is that the more one learns, the harder the problems get.
+    step1: TBD
+    step2: TBD
+  - id: 100
+    kind: oir
+    source: |-
+      - Preskill, J., 1998, [Quantum Computation](http://www.theory.caltech.edu/people/preskill/ph229/index.html#lecture) (Lecture Notes for Physics 219, California Institute of Technology)
+    step1: TBD
+    step2: TBD
+  - id: 101
+    kind: note
+    source: |-
+      [^note-1]: Indeed, when pressed, we find we can’t even say explicitly (in the terms provided by the theory, in terms that apply directly to the entities, quantities, and relations of which the world is, by its lights, composed) which systems count as macroscopic (or what would be just as good, which are ‘classical’, which are fit to act as measuring apparatuses, or which interactions count as measurements).
+    step1: TBD
+    step2: TBD
+  - id: 102
+    kind: note
+    source: |-
+      [^note-2]: It is also sometimes used to refer to a mathematical model that represents that space, a mathematical model that provides a kind of map of the set of possible states.
+    step1: TBD
+    step2: TBD
+  - id: 103
+    kind: note
+    source: |-
+      [^note-3]: There will, of course, be arbitrariness in the coordinate description of the state-space, thus obtained, precisely as much arbitrariness as there is in the choice of mathematical names for the values of basic quantities.
+    step1: TBD
+    step2: TBD
+  - id: 104
+    kind: note
+    source: |-
+      [^note-4]: Another way to put this: if you consider the set of states associated with any quantum mechanical system, you would find that it had the structure of the set of vectors in a Hilbert space.
+    step1: TBD
+    step2: TBD
+  - id: 105
+    kind: note
+    source: |-
+      [^note-5]: Notice the relations between bases and coordinate systems; vectors of norm 1 pointing along the perpendicular coordinate axes of an $N$-dimensional point space constitute an orthonormal basis for the associated $N$-dimensional vector space, and there are as many bases for the vector space as possible coordinatizations of the point space.
+    step1: TBD
+    step2: TBD
+  - id: 106
+    kind: note
+    source: |-
+      [^note-6]: The reader can satisfy herself that since $(v_{i}^A, u_{j}^B)$ spans $H_A \otimes H_B$, the equation defines, by linearity, an inner product on the whole space, and also that, since $|v| = 0$ just in case $v$ is the zero vector, it follows that $v^A\otimes 0 = 0 = 0\otimes u^B$.
+    step1: TBD
+    step2: TBD
+  - id: 107
+    kind: note
+    source: |-
+      [^note-7]: The correspondence isn’t unique; any vectors $\ket{A}$ and $@ \ket{A}$ where $@$ is any complex number of absolute value 1 correspond to the same state. There may be other redundancies; some interpretations, for instance, invoke what are called superselection rules that identify states represented by distinct normalized vectors. (i) is modified below, when mixed states are defined.
+    step1: TBD
+    step2: TBD
+  - id: 108
+    kind: note
+    source: |-
+      [^note-8]: The equation is usually expressed in the form $i \frac{dv}{dt} = \mathbf{H}v$, where $v$ is the system’s state vector and $\mathbf{H}$ the operator representing its energy, but, again, the details aren’t immediately important.
+    step1: TBD
+    step2: TBD
+  - id: 109
+    kind: note
+    source: |-
+      [^note-9]: The quotes are to recommend caution about reading too much of one’s ordinary understanding of this word into its use in quantum mechanics; one usually thinks of measurement as a way of obtaining information about a system, but the only information one takes away from an individual quantum-mechanical ‘measurement’ about the state of the measured system before the interaction is that it was not (or, at least, there is a measure zero probability that it was) in an eigenstate of the measured observable with an eigenvalue other than the one observed. Of course, if the Collapse Postulate is correct, one knows the state of the system after measurement, but if I shoot someone at close range, I can be pretty sure that they are dead afterward; that doesn’t make the interaction a measurement of the state of their health.
+    step1: TBD
+    step2: TBD
+  - id: 110
+    kind: note
+    source: |-
+      [^note-10]: The two are not independent, of course; a system’s state is just a specification of the values of those quantities pertaining to it that change over time. Internal relations between a set of elements are relations that supervene on their intrinsic natures; they do not include nomological relations.
+    step1: TBD
+    step2: TBD
+  - id: 111
+    kind: note
+    source: |-
+      [^note-11]: These are strong assumptions: the first denies the existence of superselection rules, and the second, known as the eigenstate-eigenvalue link, is the principle that defines the orthodox Copenhagen interpretation of the theory. I make them here only to illustrate some of the implications of (P2) in an interpretive context.
+    step1: TBD
+    step2: TBD
+  - id: 112
+    kind: note
+    source: |-
+      [^note-12]: It is inessential that the reduced state of $S$ after the interaction be what it was beforehand; that is so only in the special case of measurements that leave the value of the measured observable undisturbed.
+    step1: TBD
+    step2: TBD
