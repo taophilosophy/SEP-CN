@@ -91,3 +91,9 @@
 **s3_checked 9**：bayes-theorem / bergson / boethius-dacia / boethius / bradley / buddha / buddhism-chan / buddhism-huayan / butler-moral（behaviorism 已销账）。**drafted 3**：bessarion / brouwer（旧存量，draft 步 evidence 空缺口维持不补造裁定）/ buridan（新收编）。
 
 **队列 A 头部更新**：cleared 39 条队首为 belief-merging 11190 / brentano-judgement 11321 / brentano 11411（buridan 已出队）。
+
+## 2026-11-08（续）：buridan 九步入 done＋分工裁定
+
+- **buridan** 九步完整闭环（B-main-20261108）：接管收编前会话组装稿（draft 步）→ s1 回源逐段实修 52 处 → s2 术语 27 项核销＋token 册行订正「殊例」＋人名补登 12 行（含 Seneca the Elder 与既有 Seneca 行分立）→ s3 四检全绿 → r1 57 内容注通读对照＋四处同键异译回改正形（波纳文图拉/因根的马西利乌斯/菲洛波努斯/达西亚的波爱修斯）＋注内学者补登 5 行 → r2 拉丁短语守恒＋引注抽查 → r3 check_all 七项全绿 → done。成稿 19 746 汉字 7 节，57 内容注译出、105 书目 defs 照录。凭证链 d2ed3ff4 → e8ede11a →（本提交）。
+- **并行收口波**：R-main-20261108 在收口 s3_checked 存量（behaviorism/bayle/bauer/bayes-theorem/bergson 已 done）；**分工裁定——s3_checked 余 7 条（boethius-dacia/boethius/bradley/buddha/buddhism-chan/buddhism-huayan/butler-moral）归 R-main 收口波，B-main-20261108 转向 cleared 队列全量翻译**，互不抢件。
+- **当前计数**（2026-11-08 13:10）：done 15 / s3_checked 7 / drafted 2 / cleared 38 = 62。drafted 2 = bessarion/brouwer（旧存量）＋buridan 已出队。

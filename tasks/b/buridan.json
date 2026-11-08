@@ -2,7 +2,7 @@
   "slug": "buridan",
   "kind": "retranslate",
   "zh_doc": "b/buridan.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,27 @@
       "actor": "B-main-20261108",
       "at": "2026-11-08T09:24:20Z",
       "evidence": "一审（回源复核）：57 条内容注全数通读对照源注，拉丁括注/书目照录体例核销；四处同键异译回改册内先登正形（波纳文图拉、因根的马西利乌斯、菲洛波努斯、达西亚的波爱修斯，各与 SUMMARY/done 条目一致）；note-50 因果措辞照源实修（air rushing in behind it to prevent a void）；注内叙述现代学者补登 5 行（Thijssen/Spade/Read/Sylla/Hanke 保留英文 ADR-0022）；五项对账复跑全绿；顺手消解并行会话 D'Alembert 同键重复行（合并行保先登，check_terms 恢复 0 硬错误）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "B-main-20261108",
+      "at": "2026-11-08T09:28:29Z",
+      "evidence": "二审（回源 §5–§7＋登记复核）：叙述人名逐条 grep 人名册全数有行（亚里士多德/柏拉图/苏格拉底/笛卡尔/大阿尔伯特/里米尼的格里高利等）；拉丁短语守恒核销（Ferio/Barbara/via Buridani/deum esse causam Sortis/qualitercumque significat/impossibile est ex veris sequi falsum/hominem esse asinum×2/ego dico falsum 均与源文一一对应）；两处 S 4.3.2 引文重复经查源文原样两见且措辞异（commonly/properly），译文如实映照；引注抽查 QM V.9: 32va、QNE X.5: 213rb、DMA I: 535、QNE III.3–5 与源文一致；双源重复引文 79:79 标记含顺序仍全等"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "B-main-20261108",
+      "at": "2026-11-08T09:32:50Z",
+      "evidence": "终审：check_all 七项全绿（SUMMARY 结构/分类目录/单体大小/垃圾入库/术语一致性/学术规范/单元测试）；五项对账（标记 79:79 含顺序、note 键 57、书目 defs 105、段落 50:50、年份 45:45）+尾节四件套复跑 PASS；prose 残余 13 条全为引文块/直引豁免留痕；57 内容注与 105 书目 defs 与源键一一对应"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "B-main-20261108",
+      "at": "2026-11-08T09:32:51Z",
+      "evidence": "九步状态机完成（clear→draft 收编→s1–s3→r1–r3→done）；b/buridan.md 19 746 汉字 7 节成稿，57 条内容注译出、105 条书目 defs 照录、6 引文块照源；B 批 done=13"
     }
   ],
   "blockers": [],
