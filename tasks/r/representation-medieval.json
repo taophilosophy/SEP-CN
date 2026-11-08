@@ -1,0 +1,85 @@
+{
+  "slug": "representation-medieval",
+  "kind": "retranslate",
+  "zh_doc": "r/representation-medieval.md",
+  "state": "done",
+  "steps": [
+    {
+      "step": "direction",
+      "status": "ok",
+      "actor": "QR-main-20261108",
+      "at": "2026-11-08T03:29:25Z",
+      "evidence": "方向声明（rules/08）：r 批第 8 件 representation-medieval（4663 词，Q-R 批接手后按源文词数升序首件）。目标：走完六道全流程至 done；验收判据=六检全绿+check_academic --strict 0 硬错误。非目标：不改原文、不补内容、不造引文、不动其他批次与其余会话在途文件。冷置安排：本件 s3 后转下一件，本件 r1-r3 与 rationalism-early-modern r3 互为冷置间隔件。"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T03:29:20Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "OPQR-main-20261108",
+      "at": "2026-11-08T12:16:19Z",
+      "evidence": "draft（ADR-0021 账本协议；正文与账本双版由 QR-main-20261108 在工作区完成，OPQR-main-20261108 接手 O–R 全流程后逐项核实并落账）：①账本 41 段（body 40 + oir 1，id 1–41 连续，无 TBD；现制 References 照录由 compose 尾部拼装），lq.py check 守恒 HARD=0，SOFT 6 条均为斜体→书名号转换（段7/12/17/20/22/31/36，书名号化属正常）；②合成正文与账本 step2 逐字符一致（diff 仅相关词条一项：对源项『intentionality: medieval theories of』compose 触发 map_related 同题误配为『中世纪的范畴理论』——该源项在 baseline 目录中无对应 SEP 词条，正文保留人工核对译名『中世纪的意向性理论』，待管线挂链，不按误配改写）；③H1 与 SUMMARY 行一致（子条目形态『中世纪哲学中的心理表征 in medieval philosophy (Henrik Lagerlund)』，源 citation_title = Mental Representation in Medieval Philosophy）；④源文 2023-12-18 修订版（现制 References 形态，脚注键即文献键）。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "QR-main-20261108",
+      "at": "2026-11-08T13:35:31Z",
+      "evidence": "逐段对照 en/representation-medieval/index.html 与 yuanwen 镜像核销：修 4 类实错——①估量力（登记册 wahm/estimative faculty 行，原译估价力）；②奥利维引文[并且]并不→[也不能]（源文 and not 否定并列）；③《七部语录》→*Quodlibeta Septem*（Quodlibeta 为辩论集非语录，与 b/binarium 存例一致）；④布里丹内在主义句改通（对词项的赋予所描述的那个过程）。另修 map_related 同题误配 1 处：intentionality: medieval theories of 被映射为「中世纪的范畴理论」，SUMMARY 无此词条，保留「中世纪的意向性理论」。结构对位：标题 10=10、脚注定义 38=38、正文引块 5 处齐；残留英文扫描仅引证组与拉丁术语。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "QR-main-20261108",
+      "at": "2026-11-08T13:37:28Z",
+      "evidence": "check_prose 6 告警逐条实修清零（现存 0）：de-chain 3 处（L29 水仙花句、L53 种相二任句、L83 内在主义句改无三连结构）、long-sentence 1 处（L43 奥利维引文句按句读拆分，引文文字不动）、weak-verb 1 处（“进行表征之物”误触，改“行表征之职者”并与 L57 用词统一）、passive-bei 1 处（L77 布里丹引文改“被认作…无法以单称方式得到认知”）。修改先落账本 step2 再 compose，守恒 HARD=0。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "QR-main-20261108",
+      "at": "2026-11-08T13:38:08Z",
+      "evidence": "体例与术语：check_style --strict 0 issue；check_math 0 missing/0 unbalanced；check_summary H1 mismatch=0；check_academic --strict 无硬错误。术语按登记册：种相（species，1077/2472 行）、充灌（informatio，2089 行）、直观认知（261 行）、估量力（wahm）、彼得·约翰·奥利维（2173 行）、让·布里丹（117 行）、根特的亨利（379 行）、罗吉尔·培根（719 行）、奥卡姆的威廉（172 行）均对齐；目录序照源（6 Ockham 在 5 Buridan 前），未擅改。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "QR-main-20261108",
+      "at": "2026-11-08T13:50:08Z",
+      "evidence": "初审（自审）：冷置后通读成稿 145 行，逐节对位源文——导语 3 段、正文 6 节（源文编号 1/2/3/4/6/5 顺序照录，未擅改）、引块 5 处（阿维森纳 1、奥利维 2、奥卡姆 1、布里丹 1）与源一一对应；脚注定义 38 条、正文引用键全部有定义；pubinfo 2004-05-28/2023-12-18 与作者 Henrik Lagerlund 与源一致。终读补修 2 处措辞（凡思考它者→众思考者；包含→涉及）。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "QR-main-20261108",
+      "at": "2026-11-08T13:52:25Z",
+      "evidence": "复审（逐句回核）：核对 5 处引文与源文逐句对应，奥利维两引（Sent. II q.74,123 / q.73,87）与奥卡姆 Quodlibeta Septem 1.13、布里丹 SD 8.2.1 关键句（视野 prospect、circumstantiis、convertible）无增删；核事实钉——布伦塔诺 1874 引为心灵的标志、司各脱 Ord. I d.3 q.1 n.382、Klima 2001/2009 页码；关联词条 9 项中 8 项与 SUMMARY 定名一致，intentionality: medieval theories of 因基线无该词条保留中文译名（已在账本与 evidence 留痕）。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "QR-main-20261108",
+      "at": "2026-11-08T13:55:37Z",
+      "evidence": "终审：check_all 7 项全绿（SUMMARY/分类目录/单体大小/垃圾入库/术语一致性/学术规范/单元测试）；定点四检 check_style 0 issue、check_academic --strict 无硬错误、check_math 0 缺失 0 不配对、check_summary H1 mismatch=0；check_prose 0。验收签字：结构、事实、术语、体例、语言五项通过。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "QR-main-20261108",
+      "at": "2026-11-08T14:01:18Z",
+      "evidence": "收口 done：接手 QR-main 在途件（前会话 draft 落盘后中断），独立会话完成 s1–r3 全程。成稿 14769 字符/41 段；账本 tasks/r/representation-medieval.ledger.yaml 双版齐、守恒 HARD=0；check_all 7 项全绿。已知留痕：①SUMMARY 主行英文标题为目录片段「in medieval philosophy」（catalog 上游缺陷，citation_title 全题为 Mental Representation in Medieval Philosophy），H1 与 SUMMARY 一致性优先，未单方改动共享目录；②intentionality: medieval theories of 基线无词条，相关词条保留中文名待管线挂链。"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-08T03:29:19Z",
+  "version_pin": {
+    "pubinfo_date": "Dec 18, 2023",
+    "archive_edition": "Winter 2023",
+    "sha256": "f3e58eecbbb9c84379fa90a00746bfe67a5e71bf0e5213a1f263b59c8c117219"
+  }
+}

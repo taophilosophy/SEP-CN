@@ -1,0 +1,337 @@
+version: 1
+slug: representation-medieval
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      The notions of mental representation and intentionality are intrinsically related in contemporary philosophy of mind, since it is usually thought that a mental state has content or is about something other than itself due to its representational nature. These notions have a parallel history in medieval philosophy as well and are now well studied, at least up to Buridan (see, for example, in Knudsen 1982, Tweedale 1990, Pasnau 1997, Perler 2001, Perler 2002, King 2007, Lagerlund 2007a, Black 2010, Amerini 2011, and Klima 2015)[^amerini-2011][^black-2010][^king-2007][^klima-2015][^knudsen-1982][^lagerlund-2007a][^pasnau-1997][^perler-2001][^perler-2002][^tweedale-1990].
+    step1: |-
+      在当代心灵哲学中，心理表征与意向性这两个概念内在地相关，因为通常认为，一个心理状态之所以具有内容、或关于自身之外的某物，是由于其表征本性。这些概念在中世纪哲学中也有平行的历史，如今已得到充分研究，至少直到布里丹为止（例如见 Knudsen 1982, Tweedale 1990, Pasnau 1997, Perler 2001, Perler 2002, King 2007, Lagerlund 2007a, Black 2010, Amerini 2011, 以及 Klima 2015）[^amerini-2011][^black-2010][^king-2007][^klima-2015][^knudsen-1982][^lagerlund-2007a][^pasnau-1997][^perler-2001][^perler-2002][^tweedale-1990]。
+    step2: |-
+      在当代心灵哲学中，心理表征与意向性是一对内在相关的概念：通常认为，一个心理状态之所以有内容、或指向自身之外的某物，正缘于它具有表征的本性。这两个概念在中世纪哲学中同样有一段平行的历史，如今研究已相当充分——至少到布里丹为止（例见 Knudsen 1982, Tweedale 1990, Pasnau 1997, Perler 2001, Perler 2002, King 2007, Lagerlund 2007a, Black 2010, Amerini 2011 与 Klima 2015）[^amerini-2011][^black-2010][^king-2007][^klima-2015][^knudsen-1982][^lagerlund-2007a][^pasnau-1997][^perler-2001][^perler-2002][^tweedale-1990]。
+  - id: 2
+    kind: body
+    source: |-
+      One reason for the interest in intentionality and representation in medieval philosophy is that it has been widely recognized that Franz Brentano was reviving a scholastic notion when he introduced intentionality as “the mark of the mental” (Brentano 1874)[^brentano-1874]. But Brentano never used the terminology of representation to explicate intentionality. This was done much later, in post-Wittgensteinian philosophy of mind. In later medieval philosophy, it was, however, standard to explain the content of a thought by referring to its representational nature.
+    step1: |-
+      中世纪哲学中对意向性与表征产生兴趣的一个原因在于，人们广泛承认：弗朗兹·布伦塔诺把意向性引为“心灵的标志”时，复兴的是一个经院哲学概念（Brentano 1874）[^brentano-1874]。但布伦塔诺从未用表征这一术语去阐释意向性。这是很久以后、在后维特根斯坦的心灵哲学中才做的事。然而在中世纪晚期哲学中，借一个思想的表征本性来解释其内容，本是标准做法。
+    step2: |-
+      中世纪哲学之所以关注意向性与表征，一个原因在于学界普遍承认：弗朗兹·布伦塔诺把意向性引为“心灵的标志”时，所复兴的乃是一个经院哲学概念（Brentano 1874）[^brentano-1874]。不过，布伦塔诺本人从未用表征这一术语去阐释意向性；那是很久以后、在后维特根斯坦的心灵哲学中才有的事。而在中世纪晚期哲学中，借思想的表征本性来解释其内容，本属标准做法。
+  - id: 3
+    kind: body
+    source: |-
+      There are a variety of theories of mental representation in medieval philosophy, which were intensely discussed from the twelfth century up to the time of Descartes. This article will briefly trace the history of the terminology and also give a brief outline of the main theories developed during the thirteenth and fourteenth centuries.
+    step1: |-
+      中世纪哲学中有多种心理表征理论，从十二世纪直到笛卡尔时代一直受到热烈讨论。本文简要追溯这一术语的历史，并简要勾勒十三、十四世纪发展起来的主要理论。
+    step2: |-
+      中世纪哲学中的心理表征理论形态多样，从十二世纪到笛卡尔时代一直是热烈讨论的对象。本文简要追溯相关术语的历史，并勾勒十三、十四世纪形成的主要理论。
+  - id: 4
+    kind: body
+    source: |-
+      ## 1. The Ancient Background and the Formation of the Concept
+    step1: |-
+      ## 1. The Ancient Background and the Formation of the Concept
+    step2: |-
+      ## 1 古代背景与概念的形成
+  - id: 5
+    kind: body
+    source: |-
+      The English words ‘representation’ and ‘to represent’ derive via Old French from the Latin words ‘repraesentatio’ and ‘repraesentare,’ but these are by no means commonly used words in classical Latin. In late ancient thought it is foremost Quintilian and Tertullian that uses the terms in a philosophically interesting way. It was not until the twelfth century Latin translation of Avicenna’s *De anima* that these terms became frequently used in connection with cognition and the mind or the intellective soul (see Lagerlund 2007b)[^lagerlund-2007b].
+    step1: |-
+      英语词“representation”与“to represent”经由古法语源自拉丁语词“repraesentatio”与“repraesentare”，但这些词在古典拉丁语中绝非常用词。在古代晚期思想中，首先以哲学上饶有意味的方式使用这些术语的是昆体良与德尔图良。直到十二世纪阿维森纳《论灵魂》（*De anima*）的拉丁译本问世，这些词才在与认知以及心灵或理智灵魂的关联中被频繁使用（见 Lagerlund 2007b）[^lagerlund-2007b]。
+    step2: |-
+      英语的“representation”与“to represent”经由古法语源自拉丁语“repraesentatio”与“repraesentare”，但二者在古典拉丁语中绝非常用词。古代晚期思想中，最先以哲学上饶有意味的方式使用这两个词的，是昆体良与德尔图良。直到十二世纪阿维森纳《论灵魂》（*De anima*）的拉丁译本问世，它们才在与认知、心灵或理智灵魂的关联中被频繁使用（见 Lagerlund 2007b）[^lagerlund-2007b]。
+  - id: 6
+    kind: body
+    source: |-
+      The Latin translators of Avicenna rendered several related terms in Arabic all related to cognition and the internal senses with the Latin ‘repraesentatio’. In doing so they, intentionally or not, formed the concept of representations in the soul. Representation in the Latin translation of Avicenna is associated with all five faculties. Forms received through the common sense and stored in the phantasia are called representations. The imaginative or cogitative faculty combines and divides representations collected in the phantasia to make new representations, which might not have any real object corresponding to them. The senses apprehend the sensible forms of the objects perceived and the estimative faculty apprehends the ‘intentio’ or ‘ma’na’ of the perceived object. Representations in the imagination are also the basis for intellectual activity, according to this view of cognition:
+    step1: |-
+      阿维森纳的拉丁译者用拉丁语“repraesentatio”来翻译阿拉伯语中若干彼此相关、都涉及认知与内部感觉的术语。无论有意与否，他们由此形成了灵魂中的表征这一概念。在阿维森纳的拉丁译本中，表征与全部五种能力相关。经由共通感接受并储存于表象（*phantasia*）中的形式被称为表征。想象能力或思维能力把汇集在表象中的表征加以组合与划分，造成新的表征，而这些新表征可能没有任何实在对象与之对应。感觉把握所感知对象的可感形式，估量力则把握所感知对象的“意向”（*intentio*）或“ma'na”。按照这种认知观，想象之中的表征也是理智活动的基础：
+    step2: |-
+      阿维森纳的拉丁译者用“repraesentatio”一词，翻译阿拉伯语中若干个彼此相关、皆涉认知与内部感觉的术语。无论有意与否，他们由此造就了“灵魂中的表征”这一概念。在阿维森纳的拉丁译本里，表征与全部五种能力相关：经由共通感接受、并储存于表象（phantasia）之中的形式，便称作表征。想象能力或思维能力把汇集于表象中的表征组合、划分，造出新的表征——这些新表征可能并无任何实在对象与之对应。感觉把握所感知对象的可感形式，估量力则把握其“意向”（intentio）或“ma'na”。依这种认知观，想象之中的表征同样是理智活动的基础：
+  - id: 7
+    kind: body
+    source: |-
+      > In the intellect, the form of animal is of the sort that agrees with one and the same definition of many particular [things]. Thus, one form in the intellect will be related to many things, and it is in this respect that it is universal, because it is one intention in the intellect … which is evident since, of those [things] represented by the form in the imagination, the intellect has plundered the intention of its accidents [and] acquired the form in the intellect. (*Liber de philosophia prima sive scientia divina* V, cap. 1, p. 237)
+    step1: |-
+      > 在理智中，动物的形式是这样一种形式：它与许多个别[事物]的同一个定义相合。因此，理智中的一个形式将关涉许多事物，正是在这一点上它是普遍的，因为它是理智中的一个意向……这一点显而易见：理智从想象中形式所表征的那些[事物]里，剥离了其偶性的意向，[并]获得了理智中的形式。（《第一哲学或神圣科学》V, cap. 1, p. 237）
+    step2: |-
+      > 在理智中，动物的形式与许多个别[事物]的同一个定义相合。于是，理智中的一个形式关涉许多事物；它正是在这一点上是普遍的，因为它是理智中的一个意向……此点显而易见：理智从想象中形式所表征的那些[事物]里，剥取了偶性的意向，[并]获得了理智中的形式。（《第一哲学或神圣科学》V, cap. 1, p. 237）
+  - id: 8
+    kind: body
+    source: |-
+      Avicenna here describes the process of abstraction, or how the representation in the imagination of particular things becomes universal in the intellect. The universal forms are abstracted from representations in the imagination and flow from the active intellect into the passive. Note, however, that the terminology of representation is never used in relation to the intellect. It is always the internal senses that represent in Avicenna and not the intellect or the external senses (see Lagerlund 2007b, for a table of the whole range of terms translated by ‘representation’ in Avicenna’s works.)[^lagerlund-2007b]
+    step1: |-
+      阿维森纳在此描述的是抽象过程，即个别事物在想象之中的表征如何成为理智中的普遍者。普遍形式从想象之中的表征抽象而来，并从主动理智流入被动理智。然而要注意，表征这一术语从未被用于理智。在阿维森纳那里，进行表征的始终是内部感觉，而非理智或外部感觉（关于阿维森纳著作中由“表征”所译的整个术语范围，见 Lagerlund 2007b 的表格）[^lagerlund-2007b]。
+    step2: |-
+      阿维森纳在此描述的是抽象过程：个别事物在想象之中的表征，如何变成理智中的普遍者。普遍形式从想象之中的表征抽象而出，再由主动理智流入被动理智。但须注意：表征这一术语从未用于理智。在阿维森纳那里，行表征之事的始终是内部感觉，而非理智或外部感觉（阿维森纳著作中由“表征”所译的整个术语范围，见 Lagerlund 2007b 的表格）[^lagerlund-2007b]。
+  - id: 9
+    kind: body
+    source: |-
+      One of the reasons ‘representation’ is only used for the internal senses is that representations are thought of as images. The notion of linguistic representations or representations as signs is not present in Avicenna’s work or any other work of the time. It seems instead to derive from logic. Early logic works like Garlandus Compotista’s *Dialectica* (17) and Abelard’s *Dialectica* (II, 188) discussed a distinction between a word’s signification by imposition and representation. A denominative term such as ‘white’ signifies by imposition a substance that is white, but it signifies by representation the whiteness inhering in the substance. The white thing stands in for or is an instantiation of whiteness; white is re-presented in the object. Garlandus mentions the example of a traveler (‘*viator*’) who can be said to represent a road (‘*via*’). The term ‘traveler’ signifies by imposition the human being who is a traveler, but also represents the road the traveler travels on. It is exactly this usage of representation applied to mental signs that becomes important with Ockham and Buridan.
+    step1: |-
+      “表征”只用于内部感觉的原因之一，是表征被设想为影像。语言表征、或作为符号的表征这一观念，在阿维森纳的著作中并不存在，在当时的其他著作中也不存在。它似乎反而源于逻辑学。早期逻辑学著作，如加兰杜斯·孔波蒂斯塔的《辩证法》（*Dialectica*）（17）与阿伯拉尔的《辩证法》（*Dialectica*，II, 188），讨论过一个词依约定赋予而意谓与凭表征而意谓之间的区分。像“white”（白）这样的派生词，依约定赋予意谓一个白色的实体，却凭表征意谓内在于该实体的白性。白色之物代替白性、或是白性的一个实例；白在对象中被重新呈现。加兰杜斯举了旅行者（*viator*）之例：可说旅行者表征道路（*via*）。“旅行者”一词依约定赋予意谓那个身为旅行者的人，却也表征旅行者所行经的道路。正是这种把表征用于心灵符号的用法，到奥卡姆与布里丹那里变得重要起来。
+    step2: |-
+      “表征”之所以只用于内部感觉，原因之一在于表征被设想为影像。语言表征、或“作为符号的表征”这一观念，在阿维森纳乃至当时任何著作中都不存在；它似乎另有逻辑学的源头。早期逻辑学著作——如加兰杜斯·孔波蒂斯塔的《辩证法》（*Dialectica*，17）与阿伯拉尔的《辩证法》（*Dialectica*，II, 188）——曾讨论一个词“依约定赋予而意谓”与“凭表征而意谓”的区分。像“white”（白）这样的派生词，依约定赋予意谓一个白色的实体，却凭表征意谓内在于该实体的白性：白色之物代替白性，或说是白性的一个实例；白在对象中被重新呈现。加兰杜斯举过旅行者（*viator*）之例：可以说旅行者表征道路（*via*）。“旅行者”一词依约定赋予意谓那个身为旅行者的人，却也表征旅行者所行经的道路。正是这种把表征用于心灵符号的用法，到奥卡姆与布里丹那里变得重要起来。
+  - id: 10
+    kind: body
+    source: |-
+      ## 2. Thomas Aquinas and Formal Sameness
+    step1: |-
+      ## 2. Thomas Aquinas and Formal Sameness
+    step2: |-
+      ## 2 托马斯·阿奎那与形式同一
+  - id: 11
+    kind: body
+    source: |-
+      The most influential theory of thought in the thirteenth century goes back to Aristotle and has its foremost medieval defender in Thomas Aquinas. It rests on viewing mental representations or intelligible species, as Aquinas calls them, as sameness of form. The explanation for why thoughts are about something, exhibit intentionality, or represent is that the form of the object thought about is in the mind of the thinker. According to a popular metaphor, thinking something, on this view, is being the object thought about in the sense that the intellect becomes the object or takes on its form.
+    step1: |-
+      十三世纪最有影响的思想理论可追溯到亚里士多德，其最重要的中世纪捍卫者是托马斯·阿奎那。这一理论立足于把心理表征——或阿奎那所称的可理解种相——视为形式的同一。思想何以关于某物、表现出意向性、或进行表征，其解释在于：所思对象的形式在思考者的心灵之中。按一种流行的比喻，在这种观点下，思考某物就是成为所思对象，其意义是理智变成该对象、或取得该对象的形式。
+    step2: |-
+      十三世纪最有影响的思想理论可追溯至亚里士多德，其最突出的中世纪捍卫者是托马斯·阿奎那。此说立足于把心理表征——或阿奎那所称的“可理解种相”——理解为形式的同一。思想何以关于某物、何以表现出意向性、何以有所表征？解释在于：所思对象的形式就在思考者的心灵之中。依一种流行的比喻，按此说，思考某物便是“成为”所思对象——理智变成了该对象，或取得了它的形式。
+  - id: 12
+    kind: body
+    source: |-
+      Following Aristotle in *De anima* III.4, Aquinas argues, that the mind or the intellective part of the soul has no nature or rather it is nothing before it thinks of something. The active intellect abstracts the intelligible species from the sensitive species in the internal senses and places it in the potential intellect. Aquinas is here very close to the view we saw Avicenna defend above. The species actualizes the potential intellect as a form actualizes a potency. The intelligible species in the potential intellect constitutes the thought. The intellect is immaterial, according to Aquinas, and since he also famously thinks that matter is the principle of individuation, the intelligible species in the potential intellect is not individual, but universal. This is why Aquinas holds that a thought is always universal.
+    step1: |-
+      阿奎那追随亚里士多德《论灵魂》III.4，论证说心灵或灵魂的理智部分没有本性，或者毋宁说，它在思考某物之前什么也不是。主动理智从内部感觉中的感性种相抽象出可理解种相，并把它置于潜能理智之中。阿奎那在此非常接近我们上文所见阿维森纳的立场。种相使潜能理智现实化，正如形式使潜能现实化。潜能理智中的可理解种相构成思想。按阿奎那之说，理智是非物质的；又因为他同样著名地认为物质是个体化原理，所以潜能理智中的可理解种相不是个体的，而是普遍的。这就是阿奎那认为思想总是普遍的原因。
+    step2: |-
+      阿奎那追随亚里士多德《论灵魂》III.4，主张心灵即灵魂的理智部分并无本性，或者说，它在思考某物之前什么也不是。主动理智从内部感觉的感性种相中抽象出可理解种相，将其置入潜能理智。此处阿奎那与上文所述阿维森纳的立场极为接近：种相使潜能理智现实化，正如形式使潜能现实化；潜能理智中的可理解种相构成思想。阿奎那认为理智是非物质的；又因他同样以“物质是个体化原理”著称，潜能理智中的可理解种相便非个体，而是普遍的。这正是阿奎那断定思想总是普遍的原因。
+  - id: 13
+    kind: body
+    source: |-
+      There are many problems associated with this view of mental representation. A famous problem is: why are the daffodils outside my soul not about my thought of the daffodils? The forms inside and outside my mind are the same, suggesting that mental representation is symmetrical. Aquinas has a famous answer to this problem, which is that the daffodils in the garden are not about my thought because of the mode of the form’s presence in them. The forms in the daffodils are really or naturally present whereas in my mind the universal form is spiritually or intentionally present.
+    step1: |-
+      与这种心理表征观相关的问题很多。一个著名问题是：为什么我灵魂之外的水仙花并不关于我对水仙花的思想？我心灵内外的形式是相同的，这似乎表明心理表征是对称的。阿奎那对此有一个著名回答：花园里的水仙花并不关于我的思想，原因在于形式在它们之中临在的方式。水仙花中的形式是实在地或自然地临在的，而在我心灵中，普遍形式是精神地或意向地临在的。
+    step2: |-
+      与这种心理表征观相连的问题不少。一个著名的问题是：我灵魂之外的水仙花，为何并不“关于”我对水仙花的思想？我心灵内外的形式相同，这似乎意味着心理表征是对称的。阿奎那有一个著名的回答：园中水仙花并不关于我的思想，关键在于形式以何种方式临在于它们。水仙花中的形式实在地或自然地临在；在我心灵中，普遍形式则精神地或意向地临在。
+  - id: 14
+    kind: body
+    source: |-
+      The distinction between forms being really/naturally or spiritually/intentionally present is central to Aquinas’s theory of cognition. A form may be present somewhere without literally making whatever substance it informs into something else. Colors in the air, for example, do not make the air really colored: we see colors in the objects around us but not in the intervening air, although they must be there spiritually if sensation is to be a causal process. This means, of course, that the air must somehow contain the color, which entails that intentionality is not a mark of the mental for Aquinas. The air is not in itself a mind (for discussion, see Pasnau 1997, Chap. 2, and for a completely different take see Brower and Brower-Toland 2008)[^brower-2008][^pasnau-1997].
+    step1: |-
+      形式之实在/自然地临在与精神/意向地临在这一区分，是阿奎那认知理论的核心。一个形式可以在某处临在，却并不字面地使它所充灌的任何实体变成别的东西。例如空气中的颜色并不使空气真的带上颜色：我们在周围对象中看见颜色，却不在中间隔着的空气中看见，尽管若感觉要是因果过程，颜色就必须以精神的方式存在于空气中。这当然意味着空气必定以某种方式包含颜色，而这又蕴含：对阿奎那而言，意向性并不是心灵的标志。空气本身并不是一个心灵（讨论见 Pasnau 1997, Chap. 2；完全不同的解读见 Brower and Brower-Toland 2008）[^brower-2008][^pasnau-1997]。
+    step2: |-
+      形式“实在地/自然地临在”与“精神地/意向地临在”的区分，是阿奎那认知理论的核心。一个形式可以在某处临在，却并不字面地使它所充灌的实体变成他物。例如，空气中的颜色并不使空气真的带色：我们在周围对象中看见颜色，却不在居间的空气里看见。然而感觉若要成为因果过程，颜色又必须以精神的方式存在于空气之中。这当然意味着空气必定以某种方式含有颜色，于是也就蕴含：在阿奎那那里，意向性并不是心灵的标志。空气本身并不是一个心灵（讨论见 Pasnau 1997, Chap. 2；完全不同的读法见 Brower and Brower-Toland 2008）[^brower-2008][^pasnau-1997]。
+  - id: 15
+    kind: body
+    source: |-
+      ## 3. Peter Olivi and the Rejection of Formal Sameness
+    step1: |-
+      ## 3. Peter Olivi and the Rejection of Formal Sameness
+    step2: |-
+      ## 3 彼得·奥利维与对形式同一的拒斥
+  - id: 16
+    kind: body
+    source: |-
+      One of the first to criticize the species theory of cognition, in the late thirteenth century, was Peter Olivi. He argued, contrary to Aristotle and Aquinas, that the mind is active in its cognition of the world; it attends to the object, and it is this move on his part that puts the species theory of cognition in a completely different light. In fact, there seems little point in postulating a species through which the object is cognized. He argues:
+    step1: |-
+      十三世纪晚期最早批评种相认知理论的人之一是彼得·奥利维。他与亚里士多德和阿奎那相反，主张心灵在对世界的认知中是主动的；它注意对象，而正是他的这一步，使种相认知理论呈现出完全不同的面貌。事实上，设定一个借以认知对象的种相，似乎没有什么意义。他论证说：
+    step2: |-
+      十三世纪晚期，最早批评种相认知理论的人物之一是彼得·奥利维。他与亚里士多德、阿奎那相反，主张心灵在对世界的认知中是主动的：心灵注意对象。正是这一步，使种相认知理论显出全然不同的面貌——事实上，设定一个“借以”认知对象的种相，似乎并无多大意义。他论证道：
+  - id: 17
+    kind: body
+    source: |-
+      > Third, because the attention will tend toward the species either in such a way that it would not pass beyond so as to attend to the object, or in such a way that it would pass beyond. If in the first way, then the thing will not be seen in itself but only its image will be seen as if it were the thing itself. That is the role of a memory species, not a visual one. If in the second way, then after the inspection of the species it will inspect the object in itself. In this way it will cognize the object in two ways, first through the species and second in itself. It will indeed be like when someone sees an intervening space and then beyond that sees the fixed object. (Peter John Olivi, *Quaestiones in secundum librum Sententiarum*, III, q. 74, 123.)
+    step1: |-
+      > 第三，因为注意将会朝向种相：或者以不越过种相去注意对象的方式，或者以越过种相的方式。若是前一种方式，那么事物本身将不被看见，所见的只是它的影像，仿佛那就是事物本身。这是记忆种相的作用，而非视觉种相的作用。若是后一种方式，那么在对种相进行审视之后，它还将审视对象本身。这样一来，它就以两种方式认知对象：先通过种相，再在对象本身中认知。这确实就像一个人先看见一段中间的空间，随后越过它看见那个固定的物体。（彼得·约翰·奥利维，《〈箴言〉第二卷问题集》，III, q. 74, 123。）
+    step2: |-
+      > 第三，注意朝向种相的方式只有两种：或者不越过种相、径去注意对象，或者越过种相。若是前者，则事物本身不被看见，所见的只是它的影像，仿佛那就是事物本身——这是记忆种相的作用，而非视觉种相的作用。若是后者，则它在审视种相之后，还要审视对象本身；这样一来，它便以两种方式认知对象：先通过种相，再在对象本身中认知。这确实就像一个人先看见一段居间的空间，随后越过它看见那个固定的物体。（彼得·约翰·奥利维，《〈箴言〉第二卷问题集》，III, q. 74, 123。）
+  - id: 18
+    kind: body
+    source: |-
+      In this passage, it seems clear that for Olivi the species is a thing in itself and that there really are three things involved in the cognition of an object: the object, the species, and the cognizer. The species is on his view a representation, namely a thing that stands in for the object in the mind. The main problem he sees with the theory is hence epistemological. How can we be sure we are cognizing the object and not the species (see Toivanen 2009, Chap. 4 and Adriaenssen 2011)[^toivanen-2009]. Olivi hence argues that this third representing thing is not needed and that the mind can attend to the object directly. Ockham is later on in the early fourteenth century to repeat a similar argument against the species theory.
+    step1: |-
+      在这段话里，奥利维显然认为种相是一个自在之物，而且认知一个对象确实涉及三样东西：对象、种相与认知者。按他的看法，种相是一种表征，即在心灵中代替对象的东西。因此他看到这一理论的主要问题是认识论的：我们如何能确信自己在认知对象，而不是在认知种相（见 Toivanen 2009, Chap. 4 与 Adriaenssen 2011）[^toivanen-2009]。奥利维因此主张，这第三个进行表征的东西并不需要，心灵可以直接注意对象。奥卡姆后来在十四世纪初重复了针对种相理论的类似论证。
+    step2: |-
+      在此，奥利维显然把种相视为一个自在之物；认知一个对象，确有三样东西参与：对象、种相与认知者。依他之见，种相是一种表征，即在心灵中代替对象者。于是他看出的主要问题便是认识论的：我们如何能确知自己在认知对象，而非在认知种相（见 Toivanen 2009, Chap. 4 与 Adriaenssen 2011）[^toivanen-2009]。奥利维由此主张，这第三个行表征之职的东西并不必要，心灵可以直接注意对象。奥卡姆后来在十四世纪初，又重复了针对种相理论的类似论证。
+  - id: 19
+    kind: body
+    source: |-
+      Both Olivi and Ockham seem to take it for granted that species are representations and hence a thing added to the object and the cognizer. There were, however, two versions of the species theory of cognition in the thirteenth century. The most influential one was foremost associated with Roger Bacon. According to him, species are representations, that is, real extended images like objects representing the thing cognized to the cognizer. The other version of the theory was defended by Aquinas. According to him, species were not representations but the forms themselves of the objects cognized under a different mode of being. The species were not real but spiritual and as such there are no physical change of for example the eye in a visual perception; only a spiritual one.
+    step1: |-
+      奥利维与奥卡姆似乎都理所当然地认为，种相是表征，因而是加在对象与认知者之上的一样东西。然而十三世纪的种相认知理论有两个版本。最有影响的版本首先与罗吉尔·培根相联系。按他之说，种相是表征，即实在而有广延、类似对象的影像，向认知者表征被认知之物。该理论的另一版本由阿奎那捍卫。按他之说，种相不是表征，而是被认知对象自身的形式，只是处于不同的存在方式之下。种相不是实在的，而是精神的；因此，例如在视觉感知中，眼睛并无物理变化，只有精神的变化。
+    step2: |-
+      奥利维与奥卡姆似乎都理所当然地认定：种相就是表征，也就是加在对象与认知者之上的一个东西。然而，十三世纪的种相认知理论本有两个版本。影响最大的版本首先与罗吉尔·培根相连：在他看来，种相是表征，即实在而有广延、类似对象的影像，向认知者表征被认知之物。另一版本由阿奎那捍卫：种相不是表征，而是被认知对象自身的形式，只不过处于另一种存在方式之下。种相不是实在的，而是精神的；因此，譬如在视觉感知中，眼睛并无物理变化，只有精神的变化。
+  - id: 20
+    kind: body
+    source: |-
+      Olivi’s objection mentioned above does not apply to Aquinas’ theory since species are not real representations on that view. Olivi himself seems aware of this, however, and says that if the species has spiritual being, then they cannot: “truly and naturally flow from a natural, corporeal form, [and] not really and truly inform a natural body, e.g. the air or the eye.” (*Sententiarum* II, q. 73, 87.) On Aquinas’ theory the species cannot affect the sense organ and cause a cognition, he seems to think. The species cannot hence fulfill the role they are supposed to play in a theory of cognition or a theory of vision.
+    step1: |-
+      上文提到的奥利维的反对意见不适用于阿奎那的理论，因为按后者，种相不是实在的表征。然而奥利维本人似乎意识到这一点，并说：如果种相具有精神存在，那么它们就不能“真正而自然地从一个自然的、有形的形式流出，[也不能]真实而真正地充灌一个自然物体，例如空气或眼睛。”（《〈箴言〉第二卷》，q. 73, 87。）他似乎认为，按阿奎那的理论，种相无法影响感觉器官并引起认知。因此，种相无法在认知理论或视觉理论中扮演它们本应扮演的角色。
+    step2: |-
+      上文所述奥利维的反对意见，并不适用于阿奎那的理论——按后者，种相本非实在的表征。不过奥利维本人似乎察觉到这一点。他说：若种相具有精神存在，它们便不能“真正而自然地从一个自然的、有形的形式流出，[也不能]真实而真正地充灌一个自然物体，例如空气或眼睛”。（《〈箴言〉第二卷》，q. 73, 87。）他似乎认为，按阿奎那之说，种相无法作用于感觉器官、引发认知；于是种相便无法在认知理论或视觉理论中扮演本该扮演的角色。
+  - id: 21
+    kind: body
+    source: |-
+      Olivi does not straight our reject all species, however, since he thinks memory utilizes species. These species are representations and they are constructed by us. He explains it in the following passage:
+    step1: |-
+      然而，奥利维并不径直拒斥一切种相，因为他认为记忆利用种相。这些种相是表征，而且是由我们所建构的。他在下面这段话中作了解释：
+    step2: |-
+      不过，奥利维并不一概拒斥种相，因为他认为记忆会利用种相。这类种相是表征，且由我们自行建构。他在下文中解释道：
+  - id: 22
+    kind: body
+    source: |-
+      > Cognitive acts are effected by the [cognitive] power — not, however, through its nude essence. Rather, in all [cognitive acts] an actual attention, actually terminated upon the object, is required…. And therefore, when the exterior thing in-and-of-itself (per se) is not placed before the attention, there must be a memorative species placed before it in lieu of the object, which [the species] is not the origin of the cognitive act, except insofar as it serves as a term for or representative of the object. (*Sententiarum* II, q. 74, 113.)
+    step1: |-
+      > 认知活动由[认知]能力造成——然而不是通过其赤裸的本质。相反，在一切[认知活动]中，都需要一种现实的注意，现实地终止于对象之上……因此，当外在事物本身（per se）未被置于注意之前时，就必须有一个记忆种相被置于注意之前，以代替对象；这个[种相]并不是认知活动的起源，除非它充当对象的终点或代表。（《〈箴言〉第二卷》，q. 74, 113。）
+    step2: |-
+      > 认知活动由[认知]能力造成——但并非凭其赤裸的本质。相反，一切[认知活动]都需要一种现实的注意，切实地终止于对象之上……因此，当外在事物本身（per se）未被置于注意之前时，就必须有一个记忆种相置于注意之前，以代替对象；这[种相]并不是认知活动的起源，除非它充当对象的终点或代表。（《〈箴言〉第二卷》，q. 74, 113。）
+  - id: 23
+    kind: body
+    source: |-
+      This is the most common usage of species after Olivi, that is, that species are representative (see Adriaenssen 2017)[^adriaenssen-2017].
+    step1: |-
+      这是奥利维之后种相最常见的用法，即：种相是进行表征的（见 Adriaenssen 2017）[^adriaenssen-2017]。
+    step2: |-
+      奥利维之后，种相最常见的用法便是如此：种相行表征之职（见 Adriaenssen 2017）[^adriaenssen-2017]。
+  - id: 24
+    kind: body
+    source: |-
+      ## 4. Henry of Ghent and John Duns Scotus on Mental Content
+    step1: |-
+      ## 4. Henry of Ghent and John Duns Scotus on Mental Content
+    step2: |-
+      ## 4 根特的亨利与约翰·邓斯·司各脱论心理内容
+  - id: 25
+    kind: body
+    source: |-
+      For various reasons, the late thirteenth century saw an increased interest in epistemology. One reason for this was the development of new theories of mental representations and intentionality. Some of these developments were due to problematic features of, on the one hand, Aquinas’s view of mental representation and on the other, of Henry of Ghent’s interpretation of Augustine’s view of divine cognition. Aquinas seems to have held that the intelligible species is supposed to play a dual role both as a universal common to all of us thinking it and as my individual thought. It is hard to see how such a view can be maintained without the introduction of some kind of distinction. Henry on the other hand reinterprets Augustine’s doctrine of divine ideas and introduces a distinction between the ideas and the divine nature. The ideas are possibilia or the natures of possible things to be created (de Rijk 2005: 81–84)[^rijk-2005].
+    step1: |-
+      由于种种原因，十三世纪晚期对认识论的兴味日增。原因之一是心理表征与意向性的新理论的发展。其中一些发展源于两类难题：一方面是阿奎那心理表征观的疑难，另一方面是根特的亨利对奥古斯丁神圣认知观的解释。阿奎那似乎认为，可理解种相应扮演双重角色：既是我们一切思考它的主体所共有的普遍者，又是我的个体思想。若不引入某种区分，很难看出这样的观点如何维持。亨利则重新解释奥古斯丁的神圣观念学说，并引入观念与神圣本性之间的区分。观念是可能者（possibilia），即可能被造之物的本性（de Rijk 2005: 81–84）[^rijk-2005]。
+    step2: |-
+      十三世纪晚期，认识论研究兴趣渐浓，原因不一。其一是心理表征与意向性新理论的兴起。这些进展部分源于两类难题。一是阿奎那心理表征观里的难点；二是根特的亨利对奥古斯丁神圣认知说的解释。阿奎那似乎主张，可理解种相须一身兼二任：既是众思考者共享的普遍者，又是我的个体思想——若不引入某种区分，很难看出此说如何站得住。亨利则重释奥古斯丁的神圣观念说，引入观念与神圣本性之别：观念是可能者（possibilia），即可能受造之物的本性（de Rijk 2005: 81–84）[^rijk-2005]。
+  - id: 26
+    kind: body
+    source: |-
+      Both of these views contribute to the introduction of a distinction between the vehicle and the content of a representation. The distinction developed by Henry in relation to the divine nature was almost immediately taken up into the debates about human cognition. It was applied to Aquinas’s theory of mental representation, taking it a step further by introducing a distinction between the thing representing and the thing represented.
+    step1: |-
+      这两种观点都有助于引入表征的载体与内容之间的区分。亨利就神圣本性所发展的区分，几乎立刻被纳入关于人类认知的讨论。它被应用于阿奎那的心理表征理论，并更进一步，引入进行表征之物与被表征之物之间的区分。
+    step2: |-
+      这两种观点都促成了“表征的载体”与“表征的内容”之分。亨利围绕神圣本性提出的区分，几乎立即进入人类认知的论争：人们把它用于阿奎那的心理表征理论，并推进一步，引入“行表征之职者”与“被表征之物”的区分。
+  - id: 27
+    kind: body
+    source: |-
+      John Duns Scotus was instrumental in adapting this view to human cognition. Scotus’s implemented Henry’s distinction and treated the thing that does the representing as a mental act or concept, which ontologically speaking is an accident of the mind, and the thing represented as the form of the object thought about. Scotus claimed that the accident or mental act is subjectively in the soul, whereas the object being represented is present objectively, or has objective being in the mind. He also said that the object exists as represented to express the content side of the mental representation (Ord. I, d. 3, pars 3, q. 1, n. 382) Scouts can through this distinction also maintain that all spiritual change supervenes on a real change (see Cross 2014)[^cross-2014].
+    step1: |-
+      约翰·邓斯·司各脱在把这一观点移用于人类认知方面起了关键作用。司各脱实施亨利的区分，把进行表征的东西视为心灵行为或概念——从本体论上说，这是心灵的一种偶性——把被表征的东西视为所思对象的形式。司各脱主张，偶性或心灵行为主观地存在于灵魂之中，而被表征的对象则客观地临在，或在心灵中具有客观存在。他还说，对象作为被表征者而存在，以表达心理表征的内容一面（Ord. I, d. 3, pars 3, q. 1, n. 382）。借这一区分，司各脱还能主张：一切精神变化都随附于实在变化（见 Cross 2014）[^cross-2014]。
+    step2: |-
+      把这一观点移用于人类认知，约翰·邓斯·司各脱居功至伟。他采纳亨利的区分：行表征之职者，是心灵行为或概念——本体论上属心灵的偶性；被表征者，则是所思对象的形式。司各脱主张，偶性或心灵行为主观地存在于灵魂之中，而被表征的对象则客观地临在，即在心灵中具有客观存在。他还说，对象“作为被表征者而存在”，用以表达心理表征的内容一面（Ord. I, d. 3, pars 3, q. 1, n. 382）。凭此区分，司各脱也得以主张：一切精神变化皆随附于实在变化（见 Cross 2014）[^cross-2014]。
+  - id: 28
+    kind: body
+    source: |-
+      Scotus thus had a clear way of expressing what Brentano later called intentionality, that is, the way the object of thought exists in the mind. It has objective existence in the mind on his view, which later came to be regarded as the mark of the mental (see Normore 1986; Pasnau 2003; King 2007; Cross 2014)[^cross-2014][^king-2007][^normore-1986][^pasnau-2003]. Although the advantages of this approach over Aquinas’s are clear, problems remains concerning the ontological status of these mental contents. The medieval debate here is famous and features a wide variety of opinions (for a survey, see Tachau 1988)[^tachau-1988]. Scotus himself says that thought objects have a diminished kind of being, which is supposed to be a state between real being and no being at all. Although first accepting a similar view, Ockham would later subject this view to much criticism.
+    step1: |-
+      司各脱因此有一种清楚的方式来表达布伦塔诺后来所称的意向性，即思想的对象在心灵中存在的方式。按他的看法，对象在心灵中具有客观存在；这一点后来被视为心灵的标志（见 Normore 1986; Pasnau 2003; King 2007; Cross 2014）[^cross-2014][^king-2007][^normore-1986][^pasnau-2003]。尽管这一进路相对于阿奎那的进路有明显优势，但关于这些心理内容的本体论地位，问题仍然存在。这里的中世纪争论很有名，意见纷繁多样（综述见 Tachau 1988）[^tachau-1988]。司各脱本人说，思想对象具有一种减弱的存在，据说那是介于实在存在与全无存在之间的状态。奥卡姆起初接受类似观点，后来却对这一观点大加批评。
+    step2: |-
+      司各脱由此获得一种清楚的方式，来表达布伦塔诺后来所称的意向性——即思想对象在心灵中存在的方式。依他之见，对象在心灵中具有客观存在；这一点后来被视为心灵的标志（见 Normore 1986; Pasnau 2003; King 2007; Cross 2014）[^cross-2014][^king-2007][^normore-1986][^pasnau-2003]。此进路较阿奎那之说显然有优势，但这类心理内容的本体论地位仍成问题。中世纪的相关争论十分著名，意见纷纭（综述见 Tachau 1988）[^tachau-1988]。司各脱本人说，思想对象具有一种减弱的存在，据说是介于实在存在与全无存在之间的状态。奥卡姆起初也接受类似观点，后来却对此大加批评。
+  - id: 29
+    kind: body
+    source: |-
+      ## 6. William Ockham and Mental Language
+    step1: |-
+      ## 6. William Ockham and Mental Language
+    step2: |-
+      ## 6 威廉·奥卡姆与心灵语言
+  - id: 30
+    kind: body
+    source: |-
+      The theory of mental language in the fourteenth century was foremost developed by William Ockham. It rests on a theory of mental representation that combined the notions of cause and signification. A concept or a mental term on this view represents because it is caused efficiently by a thing in the world. It signifies that thing also because of the causal relation between them. On Ockham’s view, a mental representation or concept is caused by an intuitive cognition. He explains:
+    step1: |-
+      十四世纪的心灵语言理论主要由威廉·奥卡姆发展而来。它立足于一种结合了原因与意谓两个概念的心理表征理论。按此观点，一个概念或心灵词项之所以进行表征，是因为它由世界中的一物以动力因的方式造成。它也因二者之间的因果关系而意谓该物。按奥卡姆的看法，心理表征或概念由直观认知造成。他解释说：
+    step2: |-
+      十四世纪的心灵语言理论，主要由奥卡姆的威廉发展起来。它依托一种把“原因”与“意谓”结合起来的心理表征理论：按此说，一个概念或心灵词项之所以行表征之职，是因为它由世界中的某物以动力因造成；也正是由于二者之间的因果关系，它才意谓该物。依奥卡姆之见，心理表征或概念由直观认知造成。他解释道：
+  - id: 31
+    kind: body
+    source: |-
+      > Intuitive cognition is the proper cognition of a singular not because of its greater likeness to one thing more than another but because it is naturally caused by one thing and not by another; nor can it be caused by another. If you object that it can be caused by God alone, I reply that this is true: such a visual apprehension is always apt to be caused by one created object and not by another; and if it is caused naturally, it is caused by one thing and not by another, and it is not able to be caused by another. (*Quodlibeta Septem* 1.13)
+    step1: |-
+      > 直观认知是单称之物的专有认知，不是因为它对某物的相似程度大于对另一物的相似程度，而是因为它自然地由一物造成、而非由另一物造成；也不能由另一物造成。如果你反驳说它可以仅由上帝造成，我回答说：确实如此；但这样一种视觉把握总是倾向于由一个受造对象造成、而非由另一个受造对象造成；而且，若它是自然造成的，便是由一物而非另一物造成，不能由另一物造成。（*Quodlibeta Septem*，1.13）
+    step2: |-
+      > 直观认知是单称之物的专有认知：其专有，不在于它对某物的相似程度胜过对另一物，而在于它自然地由一物造成、而非由另一物造成，且不能由另一物造成。若你反驳说它可由上帝单独造成，我答：确实如此；但这样一种视觉把握，总是倾向于由一个受造对象造成而非由另一个；若它是自然造成的，便由一物而非另一物造成，不能由另一物造成。（*Quodlibeta Septem*，1.13）
+  - id: 32
+    kind: body
+    source: |-
+      According to Ockham’s metaphysics there are only individuals in the world so that when an individual causes a concept to exist in the mind, it causes an individual concept and hence a singular conception of itself. Nothing else can cause that concept (except perhaps God). The singular concept functions as the word of the object that caused it in our language of thought. It is an atomic constituent that can then be combined to form more complex concepts or sentences in the language.
+    step1: |-
+      按奥卡姆的形而上学，世界中只有个体，因此当一个个体使一个概念在心灵中存在时，它造成的是一个个体概念，从而是关于自身的一个单称概念。没有别的东西能造成那个概念（或许上帝除外）。这个单称概念在我们的思想语言中充当造成它的那个对象的词。它是一个原子成分，可以组合起来，形成语言中更复杂的概念或句子。
+    step2: |-
+      按奥卡姆的形而上学，世界中只有个体。因此，当某个个体使一个概念在心灵中产生时，它造成的是一个个体概念，也就是关于它自身的一个单称概念；除上帝或许例外，别无他物能造成该概念。这个单称概念在我们的思想语言中，充当那个致其产生之对象的“词”。它是一个原子成分，可与其他成分组合，形成语言中更复杂的概念或句子。
+  - id: 33
+    kind: body
+    source: |-
+      Ockham’s notion of concept acquisition and mental representation is developed as part of a very sophisticated theory of thought involving not only a theory of signification, but also a whole range of logico-semantic properties such as connotation and supposition. It explains how concepts, which in turn are the direct objects of belief and knowledge, are assembled into mental sentences describing the world (for the details, see Panaccio 2004)[^panaccio-2004].
+    step1: |-
+      奥卡姆的概念获得与心理表征学说，是一套非常精致的思想理论的一部分，其中不仅有意谓理论，还有内涵、指代等一整套逻辑—语义性质。它解释了概念——概念又是信念与知识的直接对象——如何被组装为描述世界的心灵句子（细节见 Panaccio 2004）[^panaccio-2004]。
+    step2: |-
+      奥卡姆关于概念获得与心理表征的学说，是其精致思想理论的组成部分；该理论不仅包含意谓理论，还包含内涵、指代等一整套逻辑—语义性质。它说明了概念——概念本身又是信念与知识的直接对象——如何被组装成描述世界的心灵句子（细节见 Panaccio 2004）[^panaccio-2004]。
+  - id: 34
+    kind: body
+    source: |-
+      ## 5. John Buridan and Vague Concepts
+    step1: |-
+      ## 5. John Buridan and Vague Concepts
+    step2: |-
+      ## 5 约翰·布里丹与模糊概念
+  - id: 35
+    kind: body
+    source: |-
+      Ockham and John Buridan’s accounts of thought are on the one hand very similar, but on the other hand there are fundamental differences between them. This is particularly true about their view of mental representation. A case in point is their views of singular thought. They both start out from the same idea, that is, that thinking something singular is having a singular concept in mind, but they disagree fundamentally on what a singular concept looks like and, foremost, on how it manages to latch onto the world. On Ockham’s account a concept is singular because its cause is proper, as he calls it, and proper causes are necessarily tied to one object. But on Buridan’s account, a singular concept is singular because of its semantic complexity (see Klima 2001: xxxviii–xlii and 2009: 40–56)[^klima-2001][^klima-2009]. It has a descriptive content that enables it to narrow down its signification. However, Buridan retains Ockham’s view for some terms (for the significance of this difference from Ockham, see Klima 2009: 69–89)[^klima-2009].
+    step1: |-
+      奥卡姆与约翰·布里丹的思想学说一方面非常相似，另一方面又有根本差异。他们的心理表征观尤其如此。单称思想之见即是一例。二人都从同一观念出发，即：思考某个单称之物，就是在心中拥有一个单称概念；但对于单称概念是什么样子、尤其是它如何设法抓住世界，二人有根本分歧。按奥卡姆之说，一个概念是单称的，因为其原因是他所称的专有原因，而专有原因必然与一个对象相联系。但按布里丹之说，一个单称概念之所以是单称的，是因为其语义上的复杂性（见 Klima 2001: xxxviii–xlii 与 2009: 40–56）[^klima-2001][^klima-2009]。它具有描述性内容，使其得以收窄自己的意谓。不过，布里丹对某些词项仍保留奥卡姆的观点（这一差异与奥卡姆之别的重要意义，见 Klima 2009: 69–89）[^klima-2009]。
+    step2: |-
+      奥卡姆与布里丹的思想学说，一方面极为相似，另一方面又有根本差异，其心理表征观尤其如此。单称思想便是一例：二人都从同一观念出发——思考某个单称之物，就是在心中拥有一个单称概念；但对于单称概念是什么样子，尤其是它如何设法抓住世界，二人分歧根本。按奥卡姆之说，概念之所以单称，是因为其原因乃他所谓的“专有原因”，而专有原因必然系于一个对象。按布里丹之说，单称概念之所以单称，则是因为其语义的复杂性（见 Klima 2001: xxxviii–xlii 与 2009: 40–56）[^klima-2001][^klima-2009]：它具有描述性内容，足以收窄自身的意谓。不过，布里丹对某些词项仍保留奥卡姆的观点（这一差异相对奥卡姆的意义，见 Klima 2009: 69–89）[^klima-2009]。
+  - id: 36
+    kind: body
+    source: |-
+      Buridan thinks that we always in the first instance cognize or conceive of something as singular. There are, however, two kinds of singular concepts, namely, vague and determinate singular concepts. There are also two ways a singular concept or mental term can be acquired. The vague terms are acquired through perception and involves a direct acquaintance with the perceived object. Buridan describes how we see something approaching from a distance and cognize it as ‘this thing’, then as ‘this body’, then as ‘this animal’, then as ‘this donkey’, and finally as ‘Brunellus.’ (For more on this and its significance see Normore 2007, Black 2011, Lagerlund 2006, and Lagerlund 2014.)[^black-2011][^lagerlund-2014][^lagerlund-2006][^normore-2007] These demonstratives describe circumstances in which we cognize something singularly, and they come together under a description of a singular thing, which we impose on it ourselves or have learned the name of, in this case, ‘Brunellus.’ The vague singular term is a name for a circumstance in which we cognize a non-determinate singular thing as something, for example, an individual thing, body, donkey, etc. There is, however, another way a singular can be formed and that is by imposing or associating it with a name of some descriptions or properties that we never have had a corresponding vague singular cognition of, since we have no actual acquaintance with the thing through sense perception. These are singular terms like ‘Socrates’ or ‘Plato.’ They have never directly existed before our senses and intellect. We only know them through descriptions. Buridan explains the difference in *Summulae de Dialectica* 8.2.1 (Buridan *SD*, 633):
+    step1: |-
+      布里丹认为，我们总是首先把某物认知或设想为单称的。然而单称概念有两类，即模糊的单称概念与确定的单称概念。单称概念或心灵词项也有两种获得方式。模糊词项通过感知获得，涉及与被感知对象的直接亲知。布里丹描述了我们如何看见某物从远处接近，先把它认知为“这个东西”，再认知为“这个物体”，再认知为“这个动物”，再认知为“这头驴”，最后认知为“布吕内卢斯”（Brunellus）。（关于这一点及其意义，另见 Normore 2007, Black 2011, Lagerlund 2006 与 Lagerlund 2014。）[^black-2011][^lagerlund-2014][^lagerlund-2006][^normore-2007] 这些指示词描述了我们单称地认知某物的种种情境，它们汇合在一个关于单称之物的描述之下，而这个描述是我们自己强加于它的，或者是我们学会了它的名称，在此例中即“布吕内卢斯”。模糊单称词项是一个情境的名称，在其中我们把一个非确定的单称之物认知为某种东西，例如一个个体物、物体、驴等等。然而，单称词项还有另一种形成方式，即把它强加于、或联系于某些描述或属性的名称，而我们从未有过与之相应的模糊单称认知，因为我们从未通过感官感知实际亲知该物。这类单称词项如“苏格拉底”或“柏拉图”。它们从未直接存在于我们的感官与理智之前。我们只是通过描述来认识它们。布里丹在《辩证法纲要》8.2.1 中解释了这个差异（Buridan *SD*, 633）：
+    step2: |-
+      布里丹认为，我们最初总是把某物认知或设想为单称的。单称概念却有两类：模糊的单称概念与确定的单称概念；单称概念或心灵词项的获得也有两种方式。模糊词项经由感知获得，涉及与被感知对象的直接亲知。布里丹描述了这样一幕：我们看见某物自远处靠近，先把它认知为“这个东西”，继而“这个物体”，继而“这个动物”，继而“这头驴”，最后认知为“布吕内卢斯”（Brunellus）。（详见 Normore 2007, Black 2011, Lagerlund 2006 与 Lagerlund 2014。）[^black-2011][^lagerlund-2014][^lagerlund-2006][^normore-2007] 这些指示词所描述的，是我们单称地认知某物的种种情境；它们汇合于关于某个单称之物的描述之下——这描述或由我们自己强加于它，或是我们学会了它的名称，在此例中即“布吕内卢斯”。模糊单称词项，是一个情境的名称：在其中，我们把一个非确定的单称之物认知为某种东西，例如一个个体物、一个物体、一头驴等等。然而，单称词项还有另一种形成方式：把它赋予、或联系于某些描述或属性的名称，而我们从未有过与之相应的模糊单称认知，因为从未通过感官感知实际亲知该物。这类单称词项如“苏格拉底”“柏拉图”：它们从未直接呈现于我们的感官与理智之前，我们只是通过描述认识它们。布里丹在《辩证法纲要》8.2.1 中说明了这一差异（Buridan *SD*, 633）：
+  - id: 37
+    kind: body
+    source: |-
+      > Another reason is that things cannot be cognized as singular unless they are cognized as something in the prospect of the cognizer. Therefore, if I did not perceive Socrates, you cannot tell me what I should understand by ‘Socrates,’ except by using common terms, the aggregate of which can just as well apply to something else as to Socrates. So, should another thing be created similar to Socrates in all of its external features [circumstantiis], this [aggregate] would no longer be the definition of ‘Socrates’, for it would not be proper to it, nor convertible with it.
+    step1: |-
+      > 另一个理由是：事物除非在认知者的视野（prospect）中被认作某种东西，否则无法以单称方式得到认知。因此，如果我没有感知过苏格拉底，你就无法告诉我应当把“苏格拉底”理解为什么，除非使用普通词项；而这些普通词项的集合，既可以适用于苏格拉底，也同样可以适用于别的某物。所以，倘若另造一物，使其一切外在特征[circumstantiis]都与苏格拉底相似，那么这个[集合]就不再是“苏格拉底”的定义了，因为它不再专属于苏格拉底，也不可与它互换。
+    step2: |-
+      > 另一个理由是：事物除非在认知者的视野（prospect）中被认作某种东西，否则无法以单称方式得到认知。所以，倘若我未曾感知苏格拉底，你便无法告诉我该把“苏格拉底”理解为何物，除非使用普通词项——而这些词项的集合，既可以适用于苏格拉底，也同样可以适用于别的某物。于是，若另造一物，使其一切外在特征[circumstantiis]皆与苏格拉底相似，这个[集合]便不再是“苏格拉底”的定义：它不再专属于苏格拉底，也不可与它互换。
+  - id: 38
+    kind: body
+    source: |-
+      As explained above, only terms that derive from actual sense cognitions (what he here calls cognition in ‘the prospect’) are properly singular. They have an element that fixes them to the thing cognized.
+    step1: |-
+      如上所述，只有源于实际感觉认知的词项（他此处称为“视野”中的认知）才是真正单称的。它们具有某个要素，把它们固定于被认知之物。
+    step2: |-
+      如上所述，只有源于实际感觉认知的词项——他这里称作“视野”中的认知——才是真正单称的：它们含有一个要素，将其固定于所认知之物。
+  - id: 39
+    kind: body
+    source: |-
+      He seems to think that all proper singular terms are collections of descriptions of a thing under a name. This goes for singulars that I am acquainted with as well as singulars I have no sense acquaintance with. Assume that I have the concept ‘Brunellus’ in my mental language, which I have formed through vague singulars, that is, through circumstances in which I have perceived him as this or that. These vague singulars express the demonstrative aspect of my experience of Brunellus. They come together under the singular term ‘Brunellus’ with all the things I ‘know’ about him. I have no such demonstrative element in my singular terms of ‘Socrates’ and ‘Plato,’ since they have never and cannot exist in a direct sense cognition. In that respect, there is nothing part of such singular terms that discriminate them from other term than the sum of descriptions I have sorted under these terms. They will, to use Saul Kripke’s terminology, never rigidly pick out what they signify. ‘Brunellus’ on the other hand will, because of the demonstrative element derived from my actual interactions with him. (For a slightly different take on this preserving the rigid designation of terms like 'Socrates' or 'Plato' see Klima 2009, Chapter 4, Section 4.2.)[^klima-2009]
+    step1: |-
+      他似乎认为，一切真正的单称词项都是某个名称之下关于一物的描述集合。这既适用于我所亲知的单称之物，也适用于我没有感觉亲知的单称之物。假定我的心灵语言中有“布吕内卢斯”这一概念，它是我通过模糊单称之物形成的，即通过我把他感知为这个或那个的情境形成的。这些模糊单称之物表达了我对布吕内卢斯的经验中的指示性一面。它们连同我“知道”的关于他的一切，汇合在“布吕内卢斯”这一单称词项之下。在我关于“苏格拉底”与“柏拉图”的单称词项中，没有这样的指示性要素，因为他们从未、也不能存在于直接的感观认知中。就此而言，这类单称词项中没有任何部分能使它们区别于其他词项，除了我归置在这些词项之下的描述总和。用索尔·克里普克的术语说，它们将永远不能严格指示它们所意谓的东西。另一方面，“布吕内卢斯”却能够，因为其中含有源于我与他实际交互的指示性要素。（关于一种略有不同、但保留“苏格拉底”或“柏拉图”这类词项的严格指称的读法，见 Klima 2009, Chapter 4, Section 4.2。）[^klima-2009]
+    step2: |-
+      他似乎认为，一切真正的单称词项，都是“某个名称之下关于一物的描述集合”。这既适用于我亲知的单称之物，也适用于我未曾感觉亲知的单称之物。假定我的心灵语言中有“布吕内卢斯”这一概念，它是我经由模糊单称之物形成的——即经由我把他感知为这个或那个的种种情境。这些模糊单称之物，表达了我对布吕内卢斯之经验的指示性一面；它们与我“知道”的关于他的一切，汇合于“布吕内卢斯”这一单称词项之下。而我关于“苏格拉底”“柏拉图”的单称词项中，并无这样的指示性要素，因为他们从未、也不能存在于直接的感官认知之中。就此而言，这类单称词项中没有任何成分能使之区别于其他词项，除了我归置其下的描述总和。用索尔·克里普克的术语说，它们永远不能严格指示其所意谓者。“布吕内卢斯”则不然：由于其中含有源于我与他实际交互的指示性要素，它能够严格指示。（关于一种略有不同、但保留“苏格拉底”“柏拉图”这类词项严格指称的读法，见 Klima 2009, Chapter 4, Section 4.2。）[^klima-2009]
+  - id: 40
+    kind: body
+    source: |-
+      Buridan is defending an internalist semantics for singular terms. It is not internalist because of the two different kinds of singular terms or that they both are collections of descriptions and circumstances in which we have interacted with something, but instead because the imposition of these terms describes a process that is completely internal to the agent. It is up to us to sort names with descriptions and circumstances and, hence, impose certain names on these descriptions and circumstances. Give this, two speakers of the same language could have the same name for an individual and even be using it for the same individual despite the fact that the names they use have different content or meaning because they have different descriptions in mind during the conversation. Meaning is, hence, in the head for Buridan. A position quite different from Ockham (for more on this see Panaccio 2017 and Lagerlund 2024)[^lagerlund-2024][^panaccio-2017].
+    step1: |-
+      布里丹为单称词项捍卫一种内在主义语义学。它之所以是内在主义的，不是因为单称词项有两类，也不是因为它们都是描述与我们曾与之交互的情境的集合，而是因为：这些词项的赋予所描述的，是一个完全内在于行动者的过程。把名称与描述、情境相配，从而把某些名称强加于这些描述与情境，取决于我们自己。既然如此，同一种语言的两位说话者可以对一个个体拥有同一个名称，甚至用它指同一个个体，尽管他们所用的名称具有不同的内容或意义，因为他们在交谈时所想到的描述不同。因此，对布里丹而言，意义在头脑之中。这一立场与奥卡姆颇为不同（详见 Panaccio 2017 与 Lagerlund 2024）[^lagerlund-2024][^panaccio-2017]。
+    step2: |-
+      布里丹为单称词项辩护的，是一种内在主义语义学。其内在主义不在于单称词项分两类，也不在于它们都是描述与我们曾交互过的情境的集合；而在于：对词项的赋予所描述的那个过程，完全内在于行动者。把名称与描述、情境相配，进而把某些名称赋予这些描述与情境，皆取决于我们自己。既然如此，同一语言的两位说话者，可以对同一个体使用同一个名称，甚至用它指同一个体——尽管由于交谈时心中所想的描述不同，他们所用名称的内容或意义并不相同。于是，在布里丹那里，意义在头脑之中。这一立场与奥卡姆相去甚远（详见 Panaccio 2017 与 Lagerlund 2024）[^lagerlund-2024][^panaccio-2017]。
+  - id: 41
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      [Please contact the author with suggestions.]
+    step2: |-
+      [欢迎向作者提出建议。]
