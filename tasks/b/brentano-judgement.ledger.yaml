@@ -331,134 +331,178 @@ segments:
     kind: body
     source: |-
       Existential judgements play a fundamental role in Brentano’s arguments against other views of judgement as well as in his positive account of judgement. Brentano’s discussion of existential judgements aims to show that such judgements cannot be conceived as predications of properties (see section 1.1) and that such judgements are either acknowledgments or rejections of objects.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      存在判断在布伦塔诺反对其他判断观的论证中，以及在他自己关于判断的正面阐述中，都起着根本作用。布伦塔诺对存在判断的讨论旨在表明：这类判断不能被设想为对性质的述谓（见 1.1 节），并且这类判断要么是对对象的承认，要么是对对象的拒绝。
+    step2: |-
+      存在判断在布伦塔诺反对其他判断观的论证中，以及在他自己关于判断的正面阐述中，都起着根本作用。布伦塔诺对存在判断的讨论旨在表明：这类判断不能被设想为对性质的述谓（见 1.1 节），并且这类判断要么是对对象的承认，要么是对对象的拒绝。
   - id: 42
     kind: body
     source: |-
       The argument focuses on existential propositions and tries to establish that a mental act of denial is on a par with an act of acceptance. Note, that by an existential proposition we do not mean here the *content* of a judgement, but *sentences* of the following form:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一论证聚焦于存在命题，试图确立：否定的心理行为与接受的行为处于同等地位。请注意，这里所谓存在命题，不是指判断的内容，而是指如下形式的句子：
+    step2: |-
+      这一论证聚焦于存在命题，试图确立：否定的心理行为与接受的行为处于同等地位。请注意，这里所谓存在命题，不是指判断的内容，而是指如下形式的句子：
   - id: 43
     kind: body
     source: |-
       *A* exists, an *A* exists, *A*s exist.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *A* 存在，某个 *A* 存在，有些 *A* 存在。
+    step2: |-
+      *A* 存在，某个 *A* 存在，有些 *A* 存在。
   - id: 44
     kind: body
     source: |-
       *A* does not exist, an *A* does not exist, *A*s do not exist.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *A* 不存在，某个 *A* 不存在，有些 *A* 不存在。
+    step2: |-
+      *A* 不存在，某个 *A* 不存在，有些 *A* 不存在。
   - id: 45
     kind: body
     source: |-
       The argument developed by Brentano relies on the following principle:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布伦塔诺展开的论证依赖于如下原则：
+    step2: |-
+      布伦塔诺展开的论证依赖于如下原则：
   - id: 46
     kind: body
     source: |-
       > [W]henever someone acknowledges [*anerkennen*] a combination of marks he simultaneously acknowledges each particular element of the combination. (PES 208 [II 49; SVS 1, 231]; authors translation)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 无论何时，只要某人承认〔*anerkennen*〕诸标记的一种结合，他同时就承认该结合中每一个个别的要素。（PES 208 [II 49; SVS 1, 231]；作者译）
+    step2: |-
+      > 无论何时，只要某人承认〔*anerkennen*〕诸标记的一种结合，他同时就承认该结合中每一个个别的要素。（PES 208 [II 49; SVS 1, 231]；作者译）
   - id: 47
     kind: body
     source: |-
       Applying the principle to the case of judgement, Brentano says:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把这一原则应用于判断的场合，布伦塔诺说：
+    step2: |-
+      把这一原则应用于判断的场合，布伦塔诺说：
   - id: 48
     kind: body
     source: |-
       > If this judgement were the acknowledgement of the combination of a mark “existence” with *A*, then it would include the acknowledgement of each individual element in the combination, and hence would include the acknowledgement of *A*. (ibid.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 如果这一判断是对“存在”这一标记与 *A* 的结合的承认，那么它就会包含对该结合中每个个别要素的承认，因而就会包含对 *A* 的承认。（同上）
+    step2: |-
+      > 如果这一判断是对“存在”这一标记与 *A* 的结合的承认，那么它就会包含对该结合中每个个别要素的承认，因而就会包含对 *A* 的承认。（同上）
   - id: 49
     kind: body
     source: |-
       A note of caution: Brentano reiterates here his claim that combining marks is not sufficient to make a judgement. He also raises a new question: what does ‘A’ stand for? If we combine two marks and then acknowledge each element of this combination, ‘A’ must stand for a mark. But sometimes he talks as if ‘A’ designated a particular object. We take this way of talking therefore to be a convenient abbreviation. Now back to the main topic. Acknowledging *A* already does all the work that judging that *A* exists is supposed to do: to commit one to the existence of *A*. Since one cannot judge that *A* exists without acknowledging *A*, judging that *A* exists is necessarily redundant.[^note-9] Thus, we get as an intermediary conclusion of the argument the following claim:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      需要提醒一点：布伦塔诺在此重申他的主张——结合标记并不足以构成判断。他还提出一个新问题：“A”代表什么？如果我们结合两个标记，然后承认这一结合中的每个要素，那么“A”必定代表一个标记。但有时他说起话来，仿佛“A”指称的是某个特定对象。因此，我们把这种说法当作一种方便的简写。现在回到正题。承认 *A* 已经完成了“判断 *A* 存在”本该完成的全部工作：使人承担 *A* 存在的承诺。既然人不可能在不承认 *A* 的情况下判断 *A* 存在，那么判断 *A* 存在就必然是多余的。[^note-9] 于是，我们得到该论证的一个中间结论：
+    step2: |-
+      需要提醒一点：布伦塔诺在此重申他的主张——结合标记并不足以构成判断。他还提出一个新问题：“A”代表什么？如果我们结合两个标记，然后承认这一结合中的每个要素，那么“A”必定代表一个标记。但有时他说起话来，仿佛“A”指称的是某个特定对象。因此，我们把这种说法当作一种方便的简写。现在回到正题。承认 *A* 已经完成了“判断 *A* 存在”本该完成的全部工作：使人承担 *A* 存在的承诺。既然人不可能在不承认 *A* 的情况下判断 *A* 存在，那么判断 *A* 存在就必然是多余的。[^note-9] 于是，我们得到该论证的一个中间结论：
   - id: 50
     kind: body
     source: |-
       **(4)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（4）**
+    step2: |-
+      **（4）**
   - id: 51
     kind: body
     source: |-
       There is no predication involved in existential judgements.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      存在判断不涉及任何述谓。
+    step2: |-
+      存在判断不涉及任何述谓。
   - id: 52
     kind: body
     source: |-
       What Brentano wants to show is this:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布伦塔诺想要表明的是：
+    step2: |-
+      布伦塔诺想要表明的是：
   - id: 53
     kind: body
     source: |-
       **(5)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（5）**
+    step2: |-
+      **（5）**
   - id: 54
     kind: body
     source: |-
       Positive and negative existential judgements do not differ in their ‘objects’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      肯定性存在判断与否定性存在判断在“对象”上并无不同。
+    step2: |-
+      肯定性存在判断与否定性存在判断在“对象”上并无不同。
   - id: 55
     kind: body
     source: |-
       The order in which we list the two claims might suggest that (5) somehow follows from (4). But nothing said by Brentano actually warrants this assumption. Brentano takes (5) to be an independent claim supported by the testimony of inner experience:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们列出这两项主张的次序，或许会让人以为（5）在某种意义上由（4）推出。但布伦塔诺所说的任何话，其实都不足以支持这一假定。他视（5）为一项独立的主张，其依据是内经验的证词：
+    step2: |-
+      我们列出这两项主张的次序，或许会让人以为（5）在某种意义上由（4）推出。但布伦塔诺所说的任何话，其实都不足以支持这一假定。他视（5）为一项独立的主张，其依据是内经验的证词：
   - id: 56
     kind: body
     source: |-
       > The same object is present to consciousness whether a person affirms it, denies it, or uncertainly asks about it; in the last case it is merely presented, in the first two cases it is simultaneously presented and acknowledged or denied. And every object which is the content of a presentation can possibly also become the content of a judgement. (PES 221 [II 63; SVS 1, 241]; in part authors translation)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 无论一个人肯定、否定还是不确定地询问某对象，这同一个对象都呈现于意识；在后一种情形里它只是被表象，在前两种情形里它同时被表象并被承认或拒绝。而且，凡作为表象内容的每个对象，都可能也成为判断的内容。（PES 221 [II 63; SVS 1, 241]；部分为作者译）
+    step2: |-
+      > 无论一个人肯定、否定还是不确定地询问某对象，这同一个对象都呈现于意识；在后一种情形里它只是被表象，在前两种情形里它同时被表象并被承认或拒绝。而且，凡作为表象内容的每个对象，都可能也成为判断的内容。（PES 221 [II 63; SVS 1, 241]；部分为作者译）
   - id: 57
     kind: body
     source: |-
       Inner experience is supposed to show us that, when we reject, acknowledge or keeps an open mind about an object, we have ‘the same object in consciousness’. Brentano then moves from ‘same object’ to the conclusion that a judgement, either negative or positive, and a presentation can have exactly the same content so that the difference between judgement and content does not lie in a difference in content. As remarked before, Brentano sometimes talks as if objects are contents. If we read Brentano’s remark charitably, he appeals to introspective knowledge that a presentation can purport to be directed on an object in terms of marks. The judgement that is based on this presentation and rejects the object the presentation purports to be directed on as well as the judgement that acknowledges it, share the content of the presentation (the marks in terms of which the presentation is directed on something). Hence, negative and positive judgements can have the same content. This gives Brentano a reason to endorse claim (5). His argument once more rules out a propositional analysis of these judgements, and may thus buttress his arguments in favor of claim (4). We will encounter further reasons that speak for accepting (5) later (in section 5), where we discuss Brentano’s reasons for rejecting negative properties.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      内经验应当向我们表明：当我们拒绝、承认或对某个对象持开放态度时，我们拥有“意识中的同一个对象”。布伦塔诺随即从“同一个对象”推出：判断——无论否定还是肯定——与表象可以具有完全相同的内容，因而判断与内容之别并不在于内容之别。如前所述，布伦塔诺有时说起话来仿佛对象就是内容。若善意地解读他的说法，他所诉诸的是一种内省知识：表象可以凭标记而声称指向某个对象。以该表象为基础、拒绝该表象所指向的对象的判断，以及承认它的判断，共享该表象的内容（即表象据以指向某物的那些标记）。因此，否定判断与肯定判断可以具有相同的内容。这为布伦塔诺支持主张（5）提供了理由。他的论证再次排除了对这些判断作命题分析的可能，因而或许能加强他支持主张（4）的论证。后文（第 5 节）讨论布伦塔诺反对否定性质的理由时，我们还会遇到支持（5）的更多理由。
+    step2: |-
+      内经验应当向我们表明：当我们拒绝、承认或对某个对象持开放态度时，我们拥有“意识中的同一个对象”。布伦塔诺随即从“同一个对象”推出：判断——无论否定还是肯定——与表象可以具有完全相同的内容，因而判断与内容之别并不在于内容之别。如前所述，布伦塔诺有时说起话来仿佛对象就是内容。若善意地解读他的说法，他所诉诸的是一种内省知识：表象可以凭标记而声称指向某个对象。以该表象为基础、拒绝该表象所指向的对象的判断，以及承认它的判断，共享该表象的内容（即表象据以指向某物的那些标记）。因此，否定判断与肯定判断可以具有相同的内容。这为布伦塔诺支持主张（5）提供了理由。他的论证再次排除了对这些判断作命题分析的可能，因而或许能加强他支持主张（4）的论证。后文（第 5 节）讨论布伦塔诺反对否定性质的理由时，我们还会遇到支持（5）的更多理由。
   - id: 58
     kind: body
     source: |-
       At this stage, the structure of Brentano’s theory already leaves open several possible interpretations. Neither the significance of (4) nor of (5) in Brentano’s theory are completely clear. That is to say: it is not completely clear that Brentano actually needs these two claims for backing up his theory, in particular for backing up his claim that combining two ideas in thought is not necessary for making a judgement (= claim 2). While Brentano presents his theory as a single whole in which claims (2), (4), and (5) form a tight package. one may unravel that package and accept (2) on the basis of (4) alone or independently of (4) and (5) altogether.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      至此，布伦塔诺理论的结构仍留有若干可能的解释空间。（4）与（5）在布伦塔诺理论中的意义都还不完全清楚。也就是说：尚不完全清楚布伦塔诺是否真的需要这两项主张来支撑其理论，尤其是支撑他“在思想中结合两个观念并非作出判断所必需”这一主张（＝主张 2）。布伦塔诺把他的理论呈现为一个整体，其中主张（2）、（4）、（5）构成一个紧密的包裹；但人们可以拆开这个包裹，仅凭（4）或在完全脱离（4）与（5）的情况下接受（2）。
+    step2: |-
+      至此，布伦塔诺理论的结构仍留有若干可能的解释空间。（4）与（5）在布伦塔诺理论中的意义都还不完全清楚。也就是说：尚不完全清楚布伦塔诺是否真的需要这两项主张来支撑其理论，尤其是支撑他“在思想中结合两个观念并非作出判断所必需”这一主张（＝主张 2）。布伦塔诺把他的理论呈现为一个整体，其中主张（2）、（4）、（5）构成一个紧密的包裹；但人们可以拆开这个包裹，仅凭（4）或在完全脱离（4）与（5）的情况下接受（2）。
   - id: 59
     kind: body
     source: |-
       ### 1.4 Part IV: The Reductionist Claims
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.4. 第四部分：还原论主张
+    step2: |-
+      ### 1.4 第四部分：还原论主张
   - id: 60
     kind: body
     source: |-
       In the final part of his theory Brentano turns to so-called categorical propositions. These are the sentences with which traditional logic is primarily concerned: sentences of the form “All *S* are *P*”, “No *S* is *P*”, “Some *S* are *P*” and “Some *S* are not *P*”. With respect to these propositions, Brentano takes the same view as Leibniz:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在理论的最后一部分，布伦塔诺转向所谓的直言命题。传统逻辑主要关注的正是这类句子：“所有 *S* 都是 *P*”、“没有 *S* 是 *P*”、“有些 *S* 是 *P*”以及“有些 *S* 不是 *P*”。关于这些命题，布伦塔诺与莱布尼茨持相同看法：
+    step2: |-
+      在理论的最后一部分，布伦塔诺转向所谓的直言命题。传统逻辑主要关注的正是这类句子：“所有 *S* 都是 *P*”、“没有 *S* 是 *P*”、“有些 *S* 是 *P*”以及“有些 *S* 不是 *P*”。关于这些命题，布伦塔诺与莱布尼茨持相同看法：
   - id: 61
     kind: body
     source: |-
       > It can be shown with utmost clarity that every categorical proposition can be translated without any change of meaning into an existential proposition (PES 214, [II 56; SVS 1, 236]).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 可以极其清楚地表明：每个直言命题都能在意义不变的情况下翻译为存在命题（PES 214, [II 56; SVS 1, 236]）。
+    step2: |-
+      > 可以极其清楚地表明：每个直言命题都能在意义不变的情况下翻译为存在命题（PES 214, [II 56; SVS 1, 236]）。
   - id: 62
     kind: body
     source: |-
       In order to prove this claim, Brentano offers examples for the following translation schemes:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为证明这一主张，布伦塔诺为下述翻译方案提供了例子：
+    step2: |-
+      为证明这一主张，布伦塔诺为下述翻译方案提供了例子：
   - id: 63
     kind: body
     source: |-
