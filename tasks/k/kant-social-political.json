@@ -2,7 +2,7 @@
   "slug": "kant-social-political",
   "kind": "retranslate",
   "zh_doc": "k/kant-social-political.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "AK-main-20261105",
       "at": "2026-11-04T21:32:15Z",
       "evidence": "四检终态：style 0、prose 残余 65（引文豁免类）、check_academic --strict OK、math 0 缺失；人名 3 行登记（卢梭/贝卡里亚/费耶阿本德）；baseline Summer 2026 与源 pubinfo 一致"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:51Z",
+      "evidence": "r1 独立复核（K 批接管，2026-11-08）：段落 51:50（差 1=源 byline）、marker 44:44、defs 97:91、年份 115:117（多出为 1790s 年代合写）、尾节子标题 2:2；6 个缺 defs 键确认已译为「### 主要文献说明（原文 Primary Sources 注记）」中文条目（科学院版 1900 起、剑桥版 Practical Philosophy 1996/Lectures and Drafts 2016/Religion and Rational Theology 1996/Anthropology, History, and Education 2007/英译本总述），内容齐全；**缺陷**：源文 Secondary Sources. 子标题未搬。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:51Z",
+      "evidence": "r2 缺陷实修：回填 ### Secondary Sources. 子标题；check_style 0、check_math 0/0、check_academic OK。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:53Z",
+      "evidence": "r3 门禁：四检全绿，check_all 七项全绿。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:54Z",
+      "evidence": "done 收口（K-main-20261108）：s3_checked 遗留件经复核，defs 差额 6 确认为主要文献说明中译，补回 Secondary Sources. 子标题，五维齐平。"
     }
   ],
   "blockers": [],
