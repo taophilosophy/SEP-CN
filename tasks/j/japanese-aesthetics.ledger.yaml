@@ -3,7 +3,6 @@ slug: japanese-aesthetics
 params:
   model: "GLM-5.3-Flash（ZCode 主会话直译）"
   temperature: 0.2
-  batch_
 segments:
   - id: 1
     kind: body

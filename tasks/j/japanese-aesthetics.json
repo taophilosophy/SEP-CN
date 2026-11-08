@@ -2,7 +2,7 @@
   "slug": "japanese-aesthetics",
   "kind": "retranslate",
   "zh_doc": "j/japanese-aesthetics.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:37:02Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "J-main-20261108",
+      "at": "2026-11-08T00:01:01Z",
+      "evidence": "lq compose 自 112 段账本组装（27401 字符）；守恒门 check 通过（112 段，残项均许可类：机械段 step1==step2、斜体转书名号）；H1=日本美学 aesthetics (Graham Parkes and Adam Loughnane)，与 SUMMARY/mu-lu-s 一致；账本 params 区 batch_ 空键已清（note 登记项）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "J-main-20261108",
+      "at": "2026-11-08T00:48:43Z",
+      "evidence": "初译自校（主会话对 112 段 step2 组装稿全文通读核销）：误读型错译实修 1 处——『奥兹式』系 Ozu-esque 误译，回账本 source 核证 the classic Ozu \"overlapping triangles\" configuration 后改为『小津经典』；照源直译核验 2 处不改（『金色的待庵茶室』＝源文 the golden Tai-an (待庵) tearoom 本身如此；九鬼听讲名单含萨特＝源文如此）；专名/术语沿用登记册既有行（japanese-aesthetics 人名 29 行、术语 64 行，fill 期已登记），check_terms 无本词条缺登记；内联脚注标记 4 枚＋脚注 defs 43 条守恒；正文 ASCII 直引号 0 残留"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "J-main-20261108",
+      "at": "2026-11-08T00:51:00Z",
+      "evidence": "风格核定：check_prose 43→9，实修 40 处（长句拆分 8、被动改主动 6、弱动词替换 3、de-chain 链式定语重构 23，含一处『著著名』冗词与『这东西』口语化修正）；余 9 条按 ADR-0020 豁免留痕——引文内部 4（L33 卡维尔引文加以延伸、L39 兼好引文、L55 谷崎引块、L113 行内谷崎引文）、术语括注枚举 2（L5 六术语 gloss 并列，拆分破坏列举）、概念性定语 3（L135『所居世界的深度/修养有素的想象力』、L159『影响过雪舟的中国画家』+行内引文、L169『特定文化语境/被体验时的活的形式』）；check_style --strict 0；账本冻结为 draft 记录，s2 修正在 md 与本 evidence 留痕（james 先例）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "J-main-20261108",
+      "at": "2026-11-08T00:53:41Z",
+      "evidence": "三校：check_style --strict 0 issue；check_academic --strict 通过（在途豁免 1）；check_math 0 公式 0 缺失 0 失衡；check_prose 余 9 条均 ADR-0020 豁免类（明细见 s2 evidence）；lq 守恒门 112 段通过；check_terms 硬错误 1 系并行会话在途登记冲突（ren-ming-biao.md 未提交新增 Philip the Chancellor 行 vs 词汇表既有行『总务长菲利普』），非本词条引入（本词条正文不含该人名），按登记册竞态规则留待该会话收口，本词条文本-登记册一致性无缺项"
     }
   ],
   "blockers": [],
