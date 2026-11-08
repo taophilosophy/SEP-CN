@@ -2,7 +2,7 @@
   "slug": "experimental-aesthetics",
   "kind": "retranslate",
   "zh_doc": "e/experimental-aesthetics.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-08T10:43:10Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "EFG-main-20261108",
+      "at": "2026-11-08T18:11:28Z",
+      "evidence": "账本 95/95 段 compose 产物＋prose 实修落盘；lq check 守恒 HARD=0（SOFT 8 条留痕：斜体→书名号 7＋机械段 1）；compose 幂等核对：文档=compose 后实修版，不再重跑 compose"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "EFG-main-20261108",
+      "at": "2026-11-08T18:11:28Z",
+      "evidence": "五维对账全绿：标题 13=13；marker 多重集 191 键全等（278 处）；defs 190 键全等；正文块 87/86（byline 豁免）；长英文残留 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "EFG-main-20261108",
+      "at": "2026-11-08T18:11:29Z",
+      "evidence": "check_style --strict 0；check_prose 15→7（S5 词内白名单“创作出”×5“被试”×2＋叙述句实修 1；余 7 条 ADR-0020 豁免：§5 形容词引语 6＋问卷列举 1）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "EFG-main-20261108",
+      "at": "2026-11-08T18:11:33Z",
+      "evidence": "check_academic --strict 无硬错误；check_math 0 缺 0 失衡；pubinfo 2024-10-22 与 version_pin 一致；相关词条 14 项对 SUMMARY 定名逐项核对相符"
     }
   ],
   "blockers": [],
