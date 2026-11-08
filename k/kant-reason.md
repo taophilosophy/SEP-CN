@@ -359,6 +359,9 @@ O'Neill（2000）把康德式的说明置于三个备选项的对照中。（i�
   * *Anthropology, History, and Education*（《人类学、历史与教育》），G. Zoller、R. Louden、M. Gregor 与 P. Guyer 译/编，剑桥：剑桥大学出版社，2007。［含《实用人类学》。］
   * *Critique of the Power of Judgment*（《判断力批判》），P. Guyer 与 E. Matthews 译/编，剑桥：剑桥大学出版社，2000。
 
+
+### Secondary literature
+
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-reason)。
@@ -383,8 +386,6 @@ O'Neill（2000）把康德式的说明置于三个备选项的对照中。（i�
 多年来对本词条提出意见，我要感谢 Carla Bagnoli、Graham Bird、Tatiana Patrone、Alison Stone、Lea Ypi，以及本百科全书的审稿人，包括 R. Lanier Anderson 与 Paul Guyer。对额外的协助，我要感谢 Alix Cohen、Sebastian Gardner、Katharina Kraus、Onora O'Neill、Margit Ruffing 与 Jens Timmermann。我还要衷心感谢 Nick Bunnin 组织了中国哲学暑期班，使我有机会就这一主题作讲座；感谢 Diana Diaconescu 在最近的（2023）修订中提供宝贵的研究协助。
 
 ## 脚注
-
-### Secondary literature
 
 [^note-1]: 另见理性主义与经验主义词条。
 
