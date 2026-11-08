@@ -8,8 +8,8 @@
 
 | 序 | 词条 | 欧化告警 | 任务记录 | 备注 |
 | --- | --- | --- | --- | --- |
-| 1 | action | 136 | tasks/a/action.json | de-chain 83／long-sentence 38 |
-| 2 | action-perception | 113 | tasks/a/action-perception.json | passive-bei 19 |
+| 1 | action | 136 | tasks/a/action.json | de-chain 83／long-sentence 38；✅ 2026-11-08 返工收口 7b9c536d（138→2，引文豁免 2） |
+| 2 | action-perception | 113 | tasks/a/action-perception.json | passive-bei 19；✅ 2026-11-08 返工收口 4a371187（112→23，引文豁免 23） |
 | 3 | academic-freedom | 107 | tasks/a/academic-freedom.json | |
 | 4 | abelard | 88 | tasks/a/abelard.json | |
 | 5 | actualism-possibilism-ethics | 79 | tasks/a/actualism-possibilism-ethics.json | |
