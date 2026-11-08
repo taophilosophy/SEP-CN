@@ -26,6 +26,7 @@
 | x/xenophanes | 50+1 | 现制 References（29 条定义）+ 11 处残篇/转述引块 | 术语登记 24 行；prose 16→0 全实修；Xenophanes 主形按 SUMMARY 定为「克塞诺芬尼（亦作色诺芬尼）」并同步词汇表；相关词条 3 项（Anaximander/Anaximenes/Thales）无 SUMMARY 条目，改中文名待挂链 |
 | w/william-jevons | 38 | 现制 References（56 条定义照录，正文 marker 16）+ 1 引块表格（三律符号表）+ 7 子弹推理形式清单 | 术语登记 36 行/人名 13 行（bisect 插入、先查后登）；prose 14→1（实修 13，豁免 1 为 Black & Könekamp 引文）；相关词条 De Morgan 无 SUMMARY 行改登记册正形待挂链；**产物（md/json/ledger）与登记行被并行会话提交收编（b1546bb9/ff4504ce/2500e112），内容逐项核实无损后确认入库，本会话免重复提交** |
 | t/telesio | 28 | 现制 References（100 条拉丁/意/西语著录全照录，正文 marker 12）+ 2 引块（《论物性》卷五长引）+ 13 项相关词条全自动映射 | 术语登记 16 行/人名 11 行（bisect 先查后登；hegemonikon 同键异译依先登优先并入既有「灵魂的主导部分」行，正文改从正形）；prose 29→6（实修 23，豁免 6 全在引文块/引语内）；正文依批规用登记册正形「特莱西奥」，H1 沿用 SUMMARY「特勒肖」入 §4 归一清单；登记行已被并行提交收编入 HEAD，产物另提交 |
+| t/theology-aristotle | 50 | 现制 References（60 条拉丁/阿拉伯/意语著录全照录，正文 marker 53）+ 4 引块（序言/太一比较/两种无知/隐德来希）+ 阿拉伯文术语汉译并列（fayd/anniyya faqat/ṣifāt/kalima/al-lays 等） | 术语登记 21 行/人名 11 行（现代学者循 israeli 先例保留拉丁引用组）；prose 25→0 全实修无豁免；相关词条 7 项全自动映射；登记行已被并行提交收编入 HEAD |
 
 各条均为：`lq.py check` HARD=0；节标题/标记键/定义键集/段落四维对账齐；`check_style --strict` 0 issue；`check_academic --strict` 0 硬错误；`check_math` 0；`check_all` 七项全绿。
 
@@ -36,6 +37,7 @@
 3. **term_flow.py 行体例偏差**：`build_row` 产出 5 列行，而两张登记表实际为 6 列（第二列「原文」占位 `—`），且 `note` 以「学界惯例（…）」开头时被二次包裹为「学界惯例（学界惯例（…））」。本批 49 行已按表体例重排；**建议后续修订 `tools/term_flow.py` 的 `build_row`**（未改动工具，留待规则层裁定）。
 4. **Henry David Thoreau 冲突**：`ren-ming-biao.md`（亨利·大卫·梭罗，japanese-aesthetics）与 `qian-yan/ci-hui-biao.md`（亨利·戴维·梭罗）异形，依 ADR-0012 词汇表对齐登记册正形（telesio 批顺带收口）。
 5. **Mulla Sadra 重复行**：illumination 批新行与 al-qudat 全形行同键触发 `check_terms` 自洽硬门；已按 Leibniz 先例合并（保留全 metadata 行，首现注记「亦见 illumination」），telesio 批顺带收口。
+6. **Philip the Chancellor 冲突**：conscience 批人名表「菲利普校长」与词汇表旧行「总务长菲利普」异形，依 ADR-0012 词汇表对齐（theology-aristotle 批顺带收口；总务长语义保留于备注列）。
 
 ## 4. SUMMARY 与登记册异形（移交 011 归一）
 
@@ -51,7 +53,7 @@
 
 ## 5. 下一步（按体量序）
 
-truth-coherence 之后：william-sherwood → wisdom → xenophanes → william-jevons → telesio → **已完成**；续排 theology-aristotle(6571) → xenocrates(6652) → vives(6811) → vico(6846) …；公式密集件单独排程（先跑 `check_math`）；`xunzi/zhuangzi/zhu-xi/wang-yangming` 四条中国哲学件按 ADR-0011 走中国文献还原。
+truth-coherence 之后：william-sherwood → wisdom → xenophanes → william-jevons → telesio → theology-aristotle → **已完成**；续排 xenocrates(6652) → vives(6811) → vico(6846) …；公式密集件单独排程（先跑 `check_math`）；`xunzi/zhuangzi/zhu-xi/wang-yangming` 四条中国哲学件按 ADR-0011 走中国文献还原。
 **复审波**：s3 完成后冷置回读再走 r1–r3（单会话作业须在 evidence 记明冷置），不复查旧错。
 
 ## 6. 实跑中新增的可复用经验
