@@ -268,9 +268,9 @@ segments:
     source: |-
       These revitalized Confucian ethics reconfigured the moral and cosmological foundations of the emerging Chosŏn dynasty (1392–1910). At the center of this transformation stood Chŏng Tojŏn (1342–1398), whose philosophical vision legitimated the new kingship by rooting political authority in an ethical order mirroring the structure of the cosmos. His project sought to reconstruct society through the disciplined enactment of propriety (*ye*), expressed in ritual practice, thereby harmonizing governance with universal Principle (理, *i*) and material force (氣, *ki*) (Deuchler 2004: 46)[^deuchler-2004]. This cosmological ethic penetrated the intimate sphere of family and gender. As Lee Sang-wha (2005) notes, Neo-Confucian metaphysics inscribed patriarchal norms through the polarity of Yin (Ŭm in Korean), associated with weakness and passivity, and Yang, linked to strength and activity—mapping cosmic dualities onto social roles: women as passive, men as active. The four cardinal rites—coming of age (capping), wedding, mourning, and ancestral rites—functioned as instruments for embedding these gendered hierarchies into everyday life. The capping ceremony marked a boy’s transition into adulthood, symbolizing his active role in governance and lineage continuity, while wedding rites reinforced male authority as household head and positioned women within a framework of obedience and domesticity. Mourning and ancestral rites further codified these roles: men led ritual obligations as moral exemplars, while women’s participation was circumscribed, emphasizing their supportive and subordinate position. Through manuals such as *Zhuzi jiali* (朱子家禮) [Zhu Xi’s *Family Rites*], these practices linked personal self-cultivation and mental discipline to the cosmic order, ensuring that gendered social roles were not arbitrary but reflections of a metaphysical hierarchy, also drawing on the *Liji*, *The Record of Rites* (Deuchler 1992: 108–111, for a study onthe influence of the *Liji* in Chosŏn, see Gehlmann 2023)[^deuchler-1992][^gehlmann-2023]. In Korea, these rites were not merely moral prescriptions—they became legal mandates, codified in the national “Grand Code for State Administration” (*Kyŏngguk taejŏn*, 經國大典), first promulgated in the late fifteenth century. Failure to observe the prescribed rituals could result in severe penalties, including corporal punishment, imprisonment, and even execution—as tragically occurred with thousands of Catholics in the nineteenth century. By embedding ritual obligations into law, the state asserted a Neo-Confucian cosmological order as the foundation of governance and social life. This legal framework did more than regulate behavior; it institutionalized a hierarchical moral system that suppressed competing traditions, most notably Buddhism, and rendered any challenge to its authority a threat to both political stability and cosmic harmony.
     step1: |-
-      这些重振的儒家伦理重新配置了新兴朝鲜王朝（1392–1910）的道德与宇宙论基础。这场变革的中心是郑道传（1342–1398）：他的哲学构想把政治权威奠基在一种映现宇宙结构的伦理秩序之上，从而为新王权提供了正当性。其方案力图通过对礼（*ye*）的有纪律的践行——体现于礼仪实践——来重构社会，从而使治术与普遍的理（理，*i*）和气（气，*ki*）相协调（Deuchler 2004: 46）[^deuchler-2004]。这种宇宙论的伦理渗透到家庭与性别的私密领域。如Lee Sang-wha（2005）所指出的，性理学的形而上学以阴（韩 Ŭm）——关联于柔弱与被动——与阳——关联于强健与活动——的两极性来铭刻父权规范，把宇宙的二元性映射到社会角色上：女性被动，男性主动。四大礼——冠礼（加冠）、婚礼、丧礼与祭礼——成为把这些性别化等级嵌入日常生活的工具。加冠礼标志男孩成年，象征他在治术与世系延续中的能动角色；婚礼则强化男性作为家长的权威，并把女性安置在顺从与持家的框架之内。丧礼与祭礼进一步把这些角色法典化：男性作为道德表率主持礼仪义务，女性的参与则受到限制，凸显其辅助与从属的位置。通过《朱子家礼》（汉 *Zhuzi jiali*）这类礼书，这些实践把个人的修养与心性工夫同宇宙秩序联系起来，确保性别化的社会角色并非任意，而是形而上学等级的映现；这些实践也取资于《礼记》（Deuchler 1992: 108–111；关于《礼记》在朝鲜的影响，见 Gehlmann 2023）[^deuchler-1992][^gehlmann-2023]。在朝鲜，这些礼不只是道德规诫——它们成为法律强制，编入十五世纪末首次颁行的国家《经国大典》（*Kyŏngguk taejŏn*，經國大典）。不遵行规定的礼仪可能招致严惩，包括体罚、监禁乃至处死——十九世纪数千名天主教徒的遭遇即是惨例。国家把礼仪义务嵌入法律，也就把性理学的宇宙论秩序确立为治术与社会生活的基础。这一法律框架不只规制行为；它把一套等级性的道德体系制度化，压制竞争性的传统——最显著的是佛教——并把对该权威的任何挑战都视为对政治稳定与宇宙和谐的双重威胁。
+      这些重振的儒家伦理重新配置了新兴朝鲜王朝（1392–1910）的道德与宇宙论基础。这场变革的中心是郑道传（1342–1398）：他的哲学构想把政治权威奠基在一种映现宇宙结构的伦理秩序之上，从而为新王权提供了正当性。其方案力图通过对礼（*ye*）的有纪律的践行——体现于礼仪实践——来重构社会，从而使治术与普遍的理（理，*i*）和气（气，*ki*）相协调（Deuchler 2004: 46）[^deuchler-2004]。这种宇宙论的伦理渗透到家庭与性别的私密领域。如 Lee Sang-wha（2005）所指出的，性理学的形而上学以阴（韩 Ŭm）——关联于柔弱与被动——与阳——关联于强健与活动——的两极性来铭刻父权规范，把宇宙的二元性映射到社会角色上：女性被动，男性主动。四大礼——冠礼（加冠）、婚礼、丧礼与祭礼——成为把这些性别化等级嵌入日常生活的工具。加冠礼标志男孩成年，象征他在治术与世系延续中的能动角色；婚礼则强化男性作为家长的权威，并把女性安置在顺从与持家的框架之内。丧礼与祭礼进一步把这些角色法典化：男性作为道德表率主持礼仪义务，女性的参与则受到限制，凸显其辅助与从属的位置。通过《朱子家礼》（汉 *Zhuzi jiali*）这类礼书，这些实践把个人的修养与心性工夫同宇宙秩序联系起来，确保性别化的社会角色并非任意，而是形而上学等级的映现；这些实践也取资于《礼记》（Deuchler 1992: 108–111；关于《礼记》在朝鲜的影响，见 Gehlmann 2023）[^deuchler-1992][^gehlmann-2023]。在朝鲜，这些礼不只是道德规诫——它们成为法律强制，编入十五世纪末首次颁行的国家《经国大典》（*Kyŏngguk taejŏn*，經國大典）。不遵行规定的礼仪可能招致严惩，包括体罚、监禁乃至处死——十九世纪数千名天主教徒的遭遇即是惨例。国家把礼仪义务嵌入法律，也就把性理学的宇宙论秩序确立为治术与社会生活的基础。这一法律框架不只规制行为；它把一套等级性的道德体系制度化，压制竞争性的传统——最显著的是佛教——并把对该权威的任何挑战都视为对政治稳定与宇宙和谐的双重威胁。
     step2: |-
-      这些重振的儒家伦理重新配置了新兴朝鲜王朝（1392–1910）的道德与宇宙论基础。这场变革的中心是郑道传（1342–1398）：他的哲学构想把政治权威奠基在一种映现宇宙结构的伦理秩序之上，从而为新王权提供了正当性。其方案力图通过对礼（*ye*）的有纪律的践行——体现于礼仪实践——来重构社会，从而使治术与普遍的理（理，*i*）和气（气，*ki*）相协调（Deuchler 2004: 46）[^deuchler-2004]。这种宇宙论的伦理渗透到家庭与性别的私密领域。如Lee Sang-wha（2005）所指出的，性理学的形而上学以阴（韩 Ŭm）——关联于柔弱与被动——与阳——关联于强健与活动——的两极性来铭刻父权规范，把宇宙的二元性映射到社会角色上：女性被动，男性主动。四大礼——冠礼（加冠）、婚礼、丧礼与祭礼——成为把这些性别化等级嵌入日常生活的工具。加冠礼标志男孩成年，象征他在治术与世系延续中的能动角色；婚礼则强化男性作为家长的权威，并把女性安置在顺从与持家的框架之内。丧礼与祭礼进一步把这些角色法典化：男性作为道德表率主持礼仪义务，女性的参与则受到限制，凸显其辅助与从属的位置。通过《朱子家礼》（汉 *Zhuzi jiali*）这类礼书，这些实践把个人的修养与心性工夫同宇宙秩序联系起来，确保性别化的社会角色并非任意，而是形而上学等级的映现；这些实践也取资于《礼记》（Deuchler 1992: 108–111；关于《礼记》在朝鲜的影响，见 Gehlmann 2023）[^deuchler-1992][^gehlmann-2023]。在朝鲜，这些礼不只是道德规诫——它们成为法律强制，编入十五世纪末首次颁行的国家《经国大典》（*Kyŏngguk taejŏn*，經國大典）。不遵行规定的礼仪可能招致严惩，包括体罚、监禁乃至处死——十九世纪数千名天主教徒的遭遇即是惨例。国家把礼仪义务嵌入法律，也就把性理学的宇宙论秩序确立为治术与社会生活的基础。这一法律框架不只规制行为；它把一套等级性的道德体系制度化，压制竞争性的传统——最显著的是佛教——并把对该权威的任何挑战都视为对政治稳定与宇宙和谐的双重威胁。
+      这些重振的儒家伦理重新配置了新兴朝鲜王朝（1392–1910）的道德与宇宙论基础。这场变革的中心是郑道传（1342–1398）：他的哲学构想把政治权威奠基在一种映现宇宙结构的伦理秩序之上，从而为新王权提供了正当性。其方案力图通过对礼（*ye*）的有纪律的践行——体现于礼仪实践——来重构社会，从而使治术与普遍的理（理，*i*）和气（气，*ki*）相协调（Deuchler 2004: 46）[^deuchler-2004]。这种宇宙论的伦理渗透到家庭与性别的私密领域。如 Lee Sang-wha（2005）所指出的，性理学的形而上学以阴（韩 Ŭm）——关联于柔弱与被动——与阳——关联于强健与活动——的两极性来铭刻父权规范，把宇宙的二元性映射到社会角色上：女性被动，男性主动。四大礼——冠礼（加冠）、婚礼、丧礼与祭礼——成为把这些性别化等级嵌入日常生活的工具。加冠礼标志男孩成年，象征他在治术与世系延续中的能动角色；婚礼则强化男性作为家长的权威，并把女性安置在顺从与持家的框架之内。丧礼与祭礼进一步把这些角色法典化：男性作为道德表率主持礼仪义务，女性的参与则受到限制，凸显其辅助与从属的位置。通过《朱子家礼》（汉 *Zhuzi jiali*）这类礼书，这些实践把个人的修养与心性工夫同宇宙秩序联系起来，确保性别化的社会角色并非任意，而是形而上学等级的映现；这些实践也取资于《礼记》（Deuchler 1992: 108–111；关于《礼记》在朝鲜的影响，见 Gehlmann 2023）[^deuchler-1992][^gehlmann-2023]。在朝鲜，这些礼不只是道德规诫——它们成为法律强制，编入十五世纪末首次颁行的国家《经国大典》（*Kyŏngguk taejŏn*，經國大典）。不遵行规定的礼仪可能招致严惩，包括体罚、监禁乃至处死——十九世纪数千名天主教徒的遭遇即是惨例。国家把礼仪义务嵌入法律，也就把性理学的宇宙论秩序确立为治术与社会生活的基础。这一法律框架不只规制行为；它把一套等级性的道德体系制度化，压制竞争性的传统——最显著的是佛教——并把对该权威的任何挑战都视为对政治稳定与宇宙和谐的双重威胁。
   - id: 31
     kind: body
     source: |-
@@ -452,17 +452,17 @@ segments:
     source: |-
       Two towering figures of early Chosŏn Neo-Confucianism—Yi Hwang (1501–1570), known by his pen name T’oegye, and Yi I (1536–1584), known as Yulgok—shaped the profound metaphysical discourse that would define Korea’s intellectual tradition. Both undertook rigorous analyses of the macrocosmic *Principle* 理 and its dynamic interplay with *material force* (氣, K. *ki*), probing not only their ontological structure but also their implications for the mind and human nature as actualized in thought and action. These inquiries were not abstract exercises; they carried an acute psychological and social urgency, framing ethics as inseparable from metaphysics. Korean Neo-Confucianism thus emerged as a humanistic guiding discourse, grounded in the Confucian ideal of *in* (仁), expressed both externally through conduct and internally through reflective cultivation. At the heart of this vision lay the pursuit of sagehood, realized through disciplined learning—what came to be called “Sage Learning.” As Oh Kangnam (1993: 313) observes, this was “one of the essential components, if not the essence, of Korean Confucianism […] Neo-Confucianism’s hallmark was its emphasis on sage-learning”.
     step1: |-
-      朝鲜王朝早期性理学的两位巨擘——李滉（1501–1570，号退溪）与李珥（1536–1584，号栗谷）——塑造了界定朝鲜思想传统的深刻形而上学话语。两人都对宏观的理（理）及其与气（氣，韩 *ki*）的动态交互作了严格分析，不仅探究其本体论结构，也探究其对于心与人性在思想与行动中实现方式的意涵。这些探究不是抽象的练习；它们带有急迫的心理与社会关切，把伦理学框定为与形而上学不可分离。于是朝鲜性理学作为一种人文主义的指导性话语出现，奠基于儒家的仁（仁，*in*）理想，既通过外在的行为、也通过内在的反省修养来表现。这一愿景的核心是对圣人人格的追求，经由有纪律的学习来实现——即后来所称的“圣学”。如Oh Kangnam（1993: 313）所言，这是“朝鲜儒学的基本成分之一，若非其本质；［……］性理学的标志正是它对圣学的强调”。
+      朝鲜王朝早期性理学的两位巨擘——李滉（1501–1570，号退溪）与李珥（1536–1584，号栗谷）——塑造了界定朝鲜思想传统的深刻形而上学话语。两人都对宏观的理（理）及其与气（氣，韩 *ki*）的动态交互作了严格分析，不仅探究其本体论结构，也探究其对于心与人性在思想与行动中实现方式的意涵。这些探究不是抽象的练习；它们带有急迫的心理与社会关切，把伦理学框定为与形而上学不可分离。于是朝鲜性理学作为一种人文主义的指导性话语出现，奠基于儒家的仁（仁，*in*）理想，既通过外在的行为、也通过内在的反省修养来表现。这一愿景的核心是对圣人人格的追求，经由有纪律的学习来实现——即后来所称的“圣学”。如 Oh Kangnam（1993: 313）所言，这是“朝鲜儒学的基本成分之一，若非其本质；［……］性理学的标志正是它对圣学的强调”。
     step2: |-
-      朝鲜王朝早期性理学的两位巨擘——李滉（1501–1570，号退溪）与李珥（1536–1584，号栗谷）——塑造了界定朝鲜思想传统的深刻形而上学话语。两人都对宏观的理（理）及其与气（氣，韩 *ki*）的动态交互作了严格分析，不仅探究其本体论结构，也探究其对于心与人性在思想与行动中实现方式的意涵。这些探究不是抽象的练习；它们带有急迫的心理与社会关切，把伦理学框定为与形而上学不可分离。于是朝鲜性理学作为一种人文主义的指导性话语出现：它奠基于儒家的仁（仁，*in*）理想，既通过外在行为、也通过内在的反省修养来表现。这一愿景的核心是对圣人人格的追求，经由有纪律的学习来实现——即后来所称的“圣学”。如Oh Kangnam（1993: 313）所言，这是“朝鲜儒学的基本成分之一，若非其本质；［……］性理学的标志正是它对圣学的强调”。
+      朝鲜王朝早期性理学的两位巨擘——李滉（1501–1570，号退溪）与李珥（1536–1584，号栗谷）——塑造了界定朝鲜思想传统的深刻形而上学话语。两人都对宏观的理（理）及其与气（氣，韩 *ki*）的动态交互作了严格分析，不仅探究其本体论结构，也探究其对于心与人性在思想与行动中实现方式的意涵。这些探究不是抽象的练习；它们带有急迫的心理与社会关切，把伦理学框定为与形而上学不可分离。于是朝鲜性理学作为一种人文主义的指导性话语出现：它奠基于儒家的仁（仁，*in*）理想，既通过外在行为、也通过内在的反省修养来表现。这一愿景的核心是对圣人人格的追求，经由有纪律的学习来实现——即后来所称的“圣学”。如 Oh Kangnam（1993: 313）所言，这是“朝鲜儒学的基本成分之一，若非其本质；［……］性理学的标志正是它对圣学的强调”。
   - id: 54
     kind: body
     source: |-
       Both T’oegye and Yulgok both wrote very specific texts on sagehood. In 1568, T’oegye wrote *Sŏnghak sipto* 聖學十圖 (The Ten Diagrams on Sage Learning), and in 1575 Yulgok wrote *Sŏnghak chipyo* 聖學輯要 (Essentials of Sage Lrearning). According to Keum Jang-tae (1980 [2000: 40]), author of *Confucianism and Korean Thoughts*, these texts (the *Ten Diagrams* and the *Essentials*) reflect “the two main classical works epitomizing Neo-Confucian learning in the Chosŏn era”. They also embody the development of Korea’s Neo-Confucian tradition. Kim Yung Sik (2017: 25) suggests that
     step1: |-
-      退溪与栗谷两人都著有专门论圣人人格的文本。1568 年，退溪作《圣学十图》；1575 年，栗谷作《圣学辑要》。据《韩国儒学与韩国思想》的作者Keum Jang-tae（1980 [2000: 40]）所说，这两部书（《十图》与《辑要》）体现了“朝鲜时代性理学之学最具代表性的两部经典”，它们也体现了朝鲜性理学传统的发展。Kim Yung Sik（2017: 25）认为
+      退溪与栗谷两人都著有专门论圣人人格的文本。1568 年，退溪作《圣学十图》；1575 年，栗谷作《圣学辑要》。据《韩国儒学与韩国思想》的作者 Keum Jang-tae（1980 [2000: 40]）所说，这两部书（《十图》与《辑要》）体现了“朝鲜时代性理学之学最具代表性的两部经典”，它们也体现了朝鲜性理学传统的发展。Kim Yung Sik（2017: 25）认为
     step2: |-
-      退溪与栗谷两人都著有专门论圣人人格的文本。1568 年，退溪作《圣学十图》；1575 年，栗谷作《圣学辑要》。据《韩国儒学与韩国思想》的作者Keum Jang-tae（1980 [2000: 40]）所说，这两部书（《十图》与《辑要》）体现了“朝鲜时代性理学之学最具代表性的两部经典”，它们也体现了朝鲜性理学传统的发展。Kim Yung Sik（2017: 25）认为
+      退溪与栗谷两人都著有专门论圣人人格的文本。1568 年，退溪作《圣学十图》；1575 年，栗谷作《圣学辑要》。据《韩国儒学与韩国思想》的作者 Keum Jang-tae（1980 [2000: 40]）所说，这两部书（《十图》与《辑要》）体现了“朝鲜时代性理学之学最具代表性的两部经典”，它们也体现了朝鲜性理学传统的发展。Kim Yung Sik（2017: 25）认为
   - id: 55
     kind: body
     source: |-
@@ -484,9 +484,9 @@ segments:
     source: |-
       T’oegye’s *Ten Diagrams* represents the finest synthesis of this Neo-Confucian thought current in Korea at that time, and it was one of the most reproduced texts of the entire Chosŏn dynasty, overshadowing Yulgok’s text. T’oegye’s text consists of a collection of diagrams by Neo-Confucian scholars from China and Korea, including three by T’oegye himself, that elucidate Zhu Xi’s main teachings, as well as T’oegye’s own synthesis and analysis of them, especially through his focus on the mind (K. *sim*), though guided by a methodological approach that focuses on *Kyŏng* (敬). Although *kyŏng* is often rendered as “seriousness”, T’oegye reconfigures its meaning, emphasizing the disciplined sovereignty of the mind over thought and action. This interpretive shift has led Michael Kalton (1985: 212–214) to translate the term as “mindfulness”, while Kim Hyoungchan (2018: 27–32) proposes “reverent mindfulness”. In this Confucian re-appropriation of a concept resonant with Buddhist practice, mindfulness becomes the cornerstone of T’oegye’s vision of sagehood: a continuous, deliberate attentiveness to the operations of the mind, restraining its impulses so that good or positive thoughts can lead to actions that reflect them.
     step1: |-
-      退溪的《十图》代表了当时朝鲜流行的性理学思想的最精综合，也是整个朝鲜王朝翻刻最多的文本之一，其影响盖过栗谷之书。退溪之书汇集了来自中国与朝鲜的性理学者的图，其中包括退溪自作的三幅；诸图阐明朱熹的主要教说，并附退溪本人对这些教说的综合与分析，尤其聚焦于心（韩 *sim*），而其方法进路则以敬（*Kyŏng*）为纲。敬虽常译作“seriousness”（郑重），退溪重新配置其义，强调心对思想与行动的有纪律的主宰。这一解释转向使 Michael Kalton（1985: 212–214）把该词译作“mindfulness”，而Kim Hyoungchan（2018: 27–32）提议“reverent mindfulness”（敬慎的觉照）。在这一对与佛教修行相呼应的概念的儒家再取用中，觉照成为退溪圣人人格愿景的基石：对心的运作持续而有意的关注，约束其冲动，使善的或正面的念头能引生体现这些念头的行动。
+      退溪的《十图》代表了当时朝鲜流行的性理学思想的最精综合，也是整个朝鲜王朝翻刻最多的文本之一，其影响盖过栗谷之书。退溪之书汇集了来自中国与朝鲜的性理学者的图，其中包括退溪自作的三幅；诸图阐明朱熹的主要教说，并附退溪本人对这些教说的综合与分析，尤其聚焦于心（韩 *sim*），而其方法进路则以敬（*Kyŏng*）为纲。敬虽常译作“seriousness”（郑重），退溪重新配置其义，强调心对思想与行动的有纪律的主宰。这一解释转向使 Michael Kalton（1985: 212–214）把该词译作“mindfulness”，而 Kim Hyoungchan（2018: 27–32）提议“reverent mindfulness”（敬慎的觉照）。在这一对与佛教修行相呼应的概念的儒家再取用中，觉照成为退溪圣人人格愿景的基石：对心的运作持续而有意的关注，约束其冲动，使善的或正面的念头能引生体现这些念头的行动。
     step2: |-
-      退溪的《十图》代表了当时朝鲜流行的性理学思想的最精综合，也是整个朝鲜王朝翻刻最多的文本之一，其影响盖过栗谷之书。退溪之书汇集了中国与朝鲜性理学者的图，其中包括退溪自作的三幅；诸图阐明朱熹的主要教说，并附退溪本人对这些教说的综合与分析，尤其聚焦于心（韩 *sim*），而其方法进路则以敬（*Kyŏng*）为纲。敬虽常译作“seriousness”（郑重），退溪却重新配置其义，强调心对思想与行动的有纪律的主宰。这一解释转向使 Michael Kalton（1985: 212–214）把该词译作“mindfulness”，而Kim Hyoungchan（2018: 27–32）提议“reverent mindfulness”（敬慎的觉照）。在这一对与佛教修行相呼应的概念的儒家再取用中，觉照成为退溪圣人人格愿景的基石：对心的运作持续而有意的关注，约束其冲动，使善的或正面的念头能引生体现这些念头的行动。
+      退溪的《十图》代表了当时朝鲜流行的性理学思想的最精综合，也是整个朝鲜王朝翻刻最多的文本之一，其影响盖过栗谷之书。退溪之书汇集了中国与朝鲜性理学者的图，其中包括退溪自作的三幅；诸图阐明朱熹的主要教说，并附退溪本人对这些教说的综合与分析，尤其聚焦于心（韩 *sim*），而其方法进路则以敬（*Kyŏng*）为纲。敬虽常译作“seriousness”（郑重），退溪却重新配置其义，强调心对思想与行动的有纪律的主宰。这一解释转向使 Michael Kalton（1985: 212–214）把该词译作“mindfulness”，而 Kim Hyoungchan（2018: 27–32）提议“reverent mindfulness”（敬慎的觉照）。在这一对与佛教修行相呼应的概念的儒家再取用中，觉照成为退溪圣人人格愿景的基石：对心的运作持续而有意的关注，约束其冲动，使善的或正面的念头能引生体现这些念头的行动。
   - id: 58
     kind: body
     source: |-
@@ -859,9 +859,9 @@ segments:
     source: |-
       Some of Yi’s associate *Namin* scholars were much more critical of Western ideas in general, especially Sin Hudam (1702–1761) and An Chŏngbok (1712–1783). Sin Hudam was particularly scathing of Catholic teachings in his critique entitled *Sŏhak pyŏn* (西學辨) [Critique of Western Learning]. There is a sub-stratum of thought at play in Sin’s text, which hopes to dissuade others from believing in Jesus as God, or God in the form of a man who spreads teachings to the poor. This idea would disengage God from the realm of insensitive Neo-Confucian metaphysics and could potentially wreak havoc for the king and society at large if the social hierarchy inscribed universally through *Principle* were to be rejected.
     step1: |-
-      李瀷的同侪南人学者中，有人对西方观念整体上更为严苛，尤其是慎后聃（1702–1761）与安鼎福（1712–1791）。慎后聃在其题为《西学辨》的批评中对天主教教说尤其刻薄。慎氏文中另有一层思想暗流：他希望劝阻他人信奉耶稣为神，或信奉化身为人、向穷人传教的神。这一观念会把神从冷峻的性理学形而上学领域中解放出来；倘若通过理而普遍铭刻的社会等级被拒绝，它可能给君主与整个社会带来浩劫。
+      李瀷的同侪南人学者中，有人对西方观念整体上更为严苛，尤其是慎后聃（1702–1761）与安鼎福（1712–1783）。慎后聃在其题为《西学辨》的批评中对天主教教说尤其刻薄。慎氏文中另有一层思想暗流：他希望劝阻他人信奉耶稣为神，或信奉化身为人、向穷人传教的神。这一观念会把神从冷峻的性理学形而上学领域中解放出来；倘若通过理而普遍铭刻的社会等级被拒绝，它可能给君主与整个社会带来浩劫。
     step2: |-
-      李瀷的同侪南人学者中，有人对西方观念整体上更为严苛，尤其是慎后聃（1702–1761）与安鼎福（1712–1791）。慎后聃在其题为《西学辨》的批评中对天主教教说尤其刻薄。慎氏文中另有一层思想暗流：他希望劝阻他人信奉耶稣为神，或信奉化身为人、向穷人传教的神。这一观念会把神从冷峻的性理学形而上学领域中解放出来；倘若通过理而普遍铭刻的社会等级被拒绝，它可能给君主与整个社会带来浩劫。
+      李瀷的同侪南人学者中，有人对西方观念整体上更为严苛，尤其是慎后聃（1702–1761）与安鼎福（1712–1783）。慎后聃在其题为《西学辨》的批评中对天主教教说尤其刻薄。慎氏文中另有一层思想暗流：他希望劝阻他人信奉耶稣为神，或信奉化身为人、向穷人传教的神。这一观念会把神从冷峻的性理学形而上学领域中解放出来；倘若通过理而普遍铭刻的社会等级被拒绝，它可能给君主与整个社会带来浩劫。
   - id: 103
     kind: body
     source: |-
@@ -1034,76 +1034,104 @@ segments:
     kind: body
     source: |-
       ## 7. Emergence of Modernisation and Confucian Challenges
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7 现代化的兴起与儒学的挑战
+    step2: |-
+      ## 7 现代化的兴起与儒学的挑战
   - id: 125
     kind: body
     source: |-
       Confucian scholars remained determined to uphold and validate their intellectual tradition—even at the cost of violent suppression of competing ideologies. Between 1866 and 1871, Confucian authorities orchestrated the persecution of Catholics, resulting in the torture and execution of an estimated 8,000 to 10,000 men, women, and children. This tragic episode underscores the intensity with which Confucian orthodoxy sought to defend its moral and metaphysical foundations against perceived threats.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      儒者仍决意维护并证成其思想传统——即便以暴力压制竞争性意识形态为代价。1866 至 1871 年间，儒家当局策划了对天主教徒的迫害，据估计有八千至一万名男女与儿童遭受酷刑与处决。这一惨剧凸显了儒家正统为抵御其所感知的威胁、捍卫其道德与形而上学根基的激烈程度。
+    step2: |-
+      儒者仍决意维护并证成其思想传统——即便以暴力压制竞争性意识形态为代价。1866 至 1871 年间，儒家当局策划了对天主教徒的迫害，据估计有八千至一万名男女与儿童遭受酷刑与处决。这一惨剧凸显了儒家正统为抵御其所感知的威胁、捍卫其道德与形而上学根基的激烈程度。
   - id: 126
     kind: body
     source: |-
       Amid this turbulence, Choi Min-Hong (1980: 191–217) observes a notable resurgence of philosophical interest in *Principle* (*i*) during the nineteenth century, particularly among scholars associated with the Namin faction—intellectual heirs to T’oegye’s metaphysical vision. Figures such as Ki Chŏngjin (1798–1879) and Yi Hangno (1792–1868) exemplify this revival. Yi Hangno regarded *Principle* as the fundamental substance of the universe, describing it as “something spiritual” (1980: 194), thereby reaffirming its ontological primacy. Similarly, Ki Chŏngjin returned to Zhu Xi’s writings, re-engaging with the study of ‘sage learning’ and the Classics. For Ki, *Principle* functioned as a spiritual Supreme Ultimate, generating yin and yang and, subsequently, *ki*—thus asserting that *Principle* precedes material force. Moreover, he argued that this *Principle* manifests differently in humans and animals, thereby reinforcing a hierarchical vision of cosmic order—a view that further develops themes from the Horak debate (Choi M.-H. 1980: 196–198)[^choi-1980].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在此动荡之中，Choi Min-Hong（1980: 191–217）观察到十九世纪对理（*i*）的哲学兴趣显著复兴，尤其是在与南人派相关联的学者中间——他们是退溪形而上学愿景的思想继承者。奇正镇（1798–1879）与李恒老（1792–1868）等人物即是这一复兴的例证。李恒老把理视为宇宙的根本实体，将其描述为“某种精神性的东西”（1980: 194），从而重申其本体论首要性。同样，奇正镇回到朱熹的著作，重新从事“圣学”与经典的研究。对奇氏而言，理作为精神性的太极而运作，生成阴阳，进而生成气——由此主张理先于气。此外，他论证此理在人与动物身上显现不同，从而强化了一种等级性的宇宙秩序观——这一看法进一步发展了湖洛之辩的主题（Choi M.-H. 1980: 196–198）[^choi-1980]。
+    step2: |-
+      在此动荡之中，Choi Min-Hong（1980: 191–217）观察到十九世纪对理（*i*）的哲学兴趣显著复兴，尤其是在与南人派相关联的学者中间——他们是退溪形而上学愿景的思想继承者。奇正镇（1798–1879）与李恒老（1792–1868）等人物即是这一复兴的例证。李恒老把理视为宇宙的根本实体，将其描述为“某种精神性的东西”（1980: 194），从而重申其本体论首要性。同样，奇正镇回到朱熹的著作，重新从事“圣学”与经典的研究。对奇氏而言，理作为精神性的太极而运作，生成阴阳，进而生成气——由此主张理先于气。此外，他论证此理在人与动物身上显现不同，从而强化了一种等级性的宇宙秩序观——这一看法进一步发展了湖洛之辩的主题（Choi M.-H. 1980: 196–198）[^choi-1980]。
   - id: 127
     kind: body
     source: |-
       Yi Chin-sang (1818–1885) also considered *Principle* as preceding *ki*, but also as that which generated it, therefore, self-cultivation lay in the study of the mind and not in knowing external things due to man’s “Heaven-bestowed cognitive powers” which depended on “transcendental *i* [*Principle*]” (Choi M.-H. 1980: 191–217)[^choi-1980]. Such idealistic ideas were hardly needed at a time when society was in such a state of disarray, already foreboded in the writings of Tasan.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      李震相（1818–1885）也认为理先于气，并且是生成气者；因此修养在于治心，而不在于认知外物——因为人具有“天所赋予的认知能力”，而这能力依赖于“超越的理（*i*）”（Choi M.-H. 1980: 191–217）[^choi-1980]。在社会已如此紊乱之际——茶山的著作早已预示了这一点——这类观念论的想法几乎是不合时宜的。
+    step2: |-
+      李震相（1818–1885）也认为理先于气，并且是生成气者；因此修养在于治心，而不在于认知外物——因为人具有“天所赋予的认知能力”，而这能力依赖于“超越的理（*i*）”（Choi M.-H. 1980: 191–217）[^choi-1980]。在社会已如此紊乱之际——茶山的著作早已预示了这一点——这类观念论的想法几乎是不合时宜的。
   - id: 128
     kind: body
     source: |-
       At the same time, another intellectual current emerged that championed *ki*, exemplified by Ch’oe Han-ki (1803–1879), who sought to liberate thought from entrenched prejudices. Recent scholarship has significantly re-evaluated Ch’oe’s work. For instance, Chang (2025) analyzes his hermeneutical philosophy and reinterpretation of the Confucian Classics, highlighting how Ch’oe reframed canonical texts through a processual lens, emphasizing dynamic interaction rather than static metaphysical categories. This approach reflects his broader attempt to reconcile Confucian thought with emerging scientific and socio-political realities. Other scholars underscore his empiricist orientation and methodologically sophisticated engagement with experience—an approach reminiscent of John Locke (1632–1704), though adapted to challenge the notion of an innately good mind prior to learning through accumulated experience (Park 2004)[^park-2004]. Deeply conversant with European science, Ch’oe articulated an ontology grounded in a “One-Dimensional ki theory,” positing ki as the formative principle shaping all things, even preceding form itself, while simultaneously rejecting the Zhu Xi school’s conception of innate reasoning power (Choi M.-H. 1980: 205)[^choi-1980]. His thought was also attuned to the shifting realities of his time—critical of the rigid class hierarchy and the inhumane treatment of the populace—concerns that also echoed themes raised earlier by Tasan.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与此同时，另一股思想潮流兴起，标举气，以崔汉绮（1803–1879）为代表，他力图把思想从根深蒂固的偏见中解放出来。晚近的研究已大幅重估崔氏的著作。例如，Chang（2025）分析其诠释学哲学与对儒家经典的重新解释，凸显崔氏如何以过程性的视角重构经典文本，强调动态的交互而非静态的形而上学范畴。这一进路反映了他把儒家思想与新兴的科学及社会政治现实相调和这一更广泛的尝试。其他学者强调其经验主义取向与在方法上精细地处理经验的做法——这一进路令人想起约翰·洛克（1632–1704），只是被改造来挑战那种认为心在经由积累经验学习之前本然为善的观念（Park 2004）[^park-2004]。崔氏深谙欧洲科学，阐发了一种奠基于“一维气论”的本体论：把气设定为塑造万物的构形原则，甚至先于形式本身，同时拒斥朱熹学派关于本然推理能力的观念（Choi M.-H. 1980: 205）[^choi-1980]。他的思想也呼应其时代变动的现实——批评僵硬的阶级等级与非人的待民方式——这些关切也回应了茶山早先提出的主题。
+    step2: |-
+      与此同时，另一股思想潮流兴起，标举气，以崔汉绮（1803–1879）为代表，他力图把思想从根深蒂固的偏见中解放出来。晚近的研究已大幅重估崔氏的著作。例如，Chang（2025）分析其诠释学哲学与对儒家经典的重新解释，凸显崔氏如何以过程性的视角重构经典文本，强调动态的交互而非静态的形而上学范畴。这一进路反映了他把儒家思想与新兴的科学及社会政治现实相调和这一更广泛的尝试。其他学者强调其经验主义取向与在方法上精细地处理经验的做法——这一进路令人想起约翰·洛克（1632–1704），只是被改造来挑战那种认为心在经由积累经验学习之前本然为善的观念（Park 2004）[^park-2004]。崔氏深谙欧洲科学，阐发了一种奠基于“一维气论”的本体论：把气设定为塑造万物的构形原则，甚至先于形式本身，同时拒斥朱熹学派关于本然推理能力的观念（Choi M.-H. 1980: 205）[^choi-1980]。他的思想也呼应其时代变动的现实——批评僵硬的阶级等级与非人的待民方式——这些关切也回应了茶山早先提出的主题。
   - id: 129
     kind: body
     source: |-
       Park Chong-hong (2004: 396) critiques the trend of the (later-called) *Sirhak* [Practical] scholars, who “made the mistake of arranging encyclopedic knowledge” and other “trivial matters”, clearly unable to fathom what was coming, and unable to provide Chosŏn with the tools it needed to survive the “modernisation” that would soon be thrust upon the peninsula, leading to Japan’s eventual colonial rule over the peninsula (1910–1945). As the situation on the peninsula disintegrated, Koreans sought alternatives to Confucianism to deal with social issues and inequality. The first of these New Religious Movements (NRMs) was known as *Tonghak* (東學), or Eastern Learning, to contrast directly with the foreign “Western Learning”, and it attempted to help hopeless poor peasants whose lives were getting progressively worse, especially in the southern regions far from the capital. Tonghak was founded by Ch’oe Che-u (1824–1864), known by his followers as Su-un, and while providing an alternative to Confucianism, it used the name of the “Sovereign on High” (*Sangje*) from the Confucian Classics to refer to its deity, while also using the Catholic term “Lord of Heaven” (*Ch’ŏnju*) as well. There were splinter groups formed out of this NRM such as Chŭngsando (more commonly written Jeungsando), and Daesoon Jinrihoe, both worshipping different iterations of *Sangje*—a monotheistic Korean deity with Confucian origins (see Cawley 2019: ch. 5)[^cawley-2019].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Park Chong-hong（2004: 396）批评（后来被称为）实学学者的潮流：他们“犯了编排百科知识的错误”，还有其他“琐屑之事”，显然无法体察即将到来者，也无法为朝鲜提供其在不久后将强加于半岛的“现代化”中存活所需的工具——其结果是日本最终对半岛的殖民统治（1910–1945）。随着半岛局势的崩解，朝鲜人寻求儒学之外的替代方案以应对社会议题与不平等。这些“新宗教运动”（NRMs）中的第一个称为东学，以与外来“西学”直接对照；它力图帮助无望的贫苦农民——他们的生活日益恶化，尤其是远离都城的南方地区。东学由崔济愚（1824–1864）创立，其信徒称他为水云；它在提供儒学替代方案的同时，用儒家经典中的“上帝”来指称其神祇，同时也使用天主教的术语“天主”（*Ch’ŏnju*）。这一新宗教运动还分化出甑山道（更常写作 Jeungsando）与大巡真理会等支派，二者崇拜上帝的不同形态——一位有儒学渊源的一神论朝鲜神祇（见 Cawley 2019: 第 5 章）[^cawley-2019]。
+    step2: |-
+      Park Chong-hong（2004: 396）批评（后来被称为）实学学者的潮流：他们“犯了编排百科知识的错误”，还有其他“琐屑之事”，显然无法体察即将到来者，也无法为朝鲜提供其在不久后将强加于半岛的“现代化”中存活所需的工具——其结果是日本最终对半岛的殖民统治（1910–1945）。随着半岛局势的崩解，朝鲜人寻求儒学之外的替代方案以应对社会议题与不平等。这些“新宗教运动”（NRMs）中的第一个称为东学，以与外来“西学”直接对照；它力图帮助无望的贫苦农民——他们的生活日益恶化，尤其是远离都城的南方地区。东学由崔济愚（1824–1864）创立，其信徒称他为水云；它在提供儒学替代方案的同时，用儒家经典中的“上帝”来指称其神祇，同时也使用天主教的术语“天主”（*Ch’ŏnju*）。这一新宗教运动还分化出甑山道（更常写作 Jeungsando）与大巡真理会等支派，二者崇拜上帝的不同形态——一位有儒学渊源的一神论朝鲜神祇（见 Cawley 2019: 第 5 章）[^cawley-2019]。
   - id: 130
     kind: body
     source: |-
       As the Chosŏn dynasty approached its end and Korea began opening to Western nations, Protestant missionaries entered the peninsula in increasing numbers by the late 1880s, leaving a profound imprint on its religious culture. This influx prompted some Confucian scholars to attempt a revitalization of Confucianism by emphasizing its religious dimensions, while others sought to reform Confucian thought as a countermeasure against Japanese efforts to “Japanize” Korean society. As Keum (1980 [2000: 219]) observes, “It goes without saying that the idea of Confucian Religion was prompted by the Christian concept of a transcendent God,” as well as by notions of organized religious communities and institutional structures. Yet this movement never truly gained traction—likely due to the elitism historically associated with Confucianism and its role in perpetuating social inequities, particularly toward women. By contrast, Protestantism offered women new opportunities for education through “modern” schools, contributing to its growing appeal and accelerating cultural transformation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      随着朝鲜王朝临近终结、朝鲜开始向西方国家开放，新教传教士于 1880 年代后期越来越多地进入半岛，给其宗教文化留下深刻印记。这一涌入促使一些儒者试图通过强调儒学的宗教面向来复兴儒学，另一些人则力图改革儒家思想，以对抗日本把朝鲜社会“日本化”的图谋。如 Keum（1980 [2000: 219]）所言，“不言而喻，孔教的观念是由基督教关于超越的上帝的概念所促发的”，也受到有组织的宗教社群与建制结构观念的促发。然而这场运动从未真正获得势头——或许因为儒学历史上与精英主义及其在延续社会不平等（尤其对女性）中的角色相联系。与之相对，新教通过“现代”学校为女性提供了新的教育机会，助长了其日益增长的吸引力，加速了文化转型。
+    step2: |-
+      随着朝鲜王朝临近终结、朝鲜开始向西方国家开放，新教传教士于 1880 年代后期越来越多地进入半岛，给其宗教文化留下深刻印记。这一涌入促使一些儒者试图通过强调儒学的宗教面向来复兴儒学，另一些人则力图改革儒家思想，以对抗日本把朝鲜社会“日本化”的图谋。如 Keum（1980 [2000: 219]）所言，“不言而喻，孔教的观念是由基督教关于超越的上帝的概念所促发的”，也受到有组织的宗教社群与建制结构观念的促发。然而这场运动从未真正获得势头——或许因为儒学历史上与精英主义及其在延续社会不平等（尤其对女性）中的角色相联系。与之相对，新教通过“现代”学校为女性提供了新的教育机会，助长了其日益增长的吸引力，加速了文化转型。
   - id: 131
     kind: body
     source: |-
       Han Hyong-jo (2016) articulates that more recent understandings of Korean Confucianism “has mirrored its chief nemesis, modernity” and outlines three stages:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Han Hyong-jo（2016）阐明，晚近对朝鲜儒学的理解“映照了其主要对手——现代性”，并概述了三个阶段：
+    step2: |-
+      Han Hyong-jo（2016）阐明，晚近对朝鲜儒学的理解“映照了其主要对手——现代性”，并概述了三个阶段：
   - id: 132
     kind: body
     source: |-
       1. Denial (1890s–1930s), where Confucianism was blamed for the loss of Korea’s sovereignty;
       2. Excuse (1930s–1980s): *Sirhak*, whereby “practical” ideas were “fished” out of the tradition as a sort of retrospective consolation had things gone differently;
       3. Rehabilitation (1980s–1997): suggesting that Confucianism is behind of the economic rise of Korea and linked to the emergence of its democracy, despite the fact that Confucians were against industry and labour, and they supported unelected rulers from a royal clan.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 否认（1890 年代–1930 年代）：儒学被归咎为朝鲜丧失主权的祸首；
+      2. 辩解（1930 年代–1980 年代）：把“实”思想从传统中“钓”出来，作为对“事情本可不同”的一种回溯性安慰；
+      3. 复原（1980 年代–1997 年）：暗示儒学是朝鲜经济崛起背后的力量，并与其民主的出现相联系——尽管儒者曾反对工业与劳工，且支持出身王族的非民选统治者。
+    step2: |-
+      1. 否认（1890 年代–1930 年代）：儒学被归咎为朝鲜丧失主权的祸首；
+      2. 辩解（1930 年代–1980 年代）：把“实”思想从传统中“钓”出来，作为对“事情本可不同”的一种回溯性安慰；
+      3. 复原（1980 年代–1997 年）：暗示儒学是朝鲜经济崛起背后的力量，并与其民主的出现相联系——尽管儒者曾反对工业与劳工，且支持出身王族的非民选统治者。
   - id: 133
     kind: body
     source: |-
       Indeed, rulers’ challengers were easily disposed of—even if they should be senior members of their own family—contravening teachings on filial piety. Confucianism has also been linked with a resurgence of “Asian” values, or recalibrated (yet again) to permit a feminist turn, and possibly even found in some of the Juche ideas of North Korea’s state ideology, which commands undisputed loyalty (*chung*) to its Dear Leader.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      确实，统治者的挑战者轻易便被处置——即便他们是自己家族中的长辈——这违反了孝道教诲。儒学还与“亚洲”价值的复兴相联系，或者（再次）被重新校准以容许女性主义的转向，甚至可能在朝鲜国家意识形态的主体思想中也能找到其踪影——主体思想要求对其“慈父领袖”的无可争辩的忠诚（*chung*）。
+    step2: |-
+      确实，统治者的挑战者轻易便被处置——即便他们是自己家族中的长辈——这违反了孝道教诲。儒学还与“亚洲”价值的复兴相联系，或者（再次）被重新校准以容许女性主义的转向，甚至可能在朝鲜国家意识形态的主体思想中也能找到其踪影——主体思想要求对其“慈父领袖”的无可争辩的忠诚（*chung*）。
   - id: 134
     kind: body
     source: |-
       As Min (2016) observes, Confucianism now “nests between” other traditions, insinuating itself throughout them, rather than remaining a monolithic system. This adaptive posture has sparked renewed interest in recovering what Han Hyoung-jo (2016) calls the “lost art” of Confucian *ihak*—the cultivation of mind as the foundation of moral life. Reengaging with this tradition, Han argues, could restore Confucianism’s original telos: not democracy or mere institutional reform, but the pursuit of sagehood, a noble ideal that transcends political systems. Such cultivation, Han suggests, offers a remedy for the pervasive “self-oblivion and self-centeredness” of modern culture, enabling us to rediscover our innate potential for humane coexistence across ideological, political, and religious divides.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如 Min（2016）所观察，儒学如今“嵌套于”其他传统之间，渗透其中，而不再是一个整全的体系。这一适应性姿态激发了新的兴趣：人们希望恢复 Han Hyoung-jo（2016）所称的儒家理学（*ihak*）的“失传技艺”——以治心为道德生活的基础。Han 论证，重新承接这一传统可以恢复儒学的原初目的：不是民主，也不只是制度改良，而是对圣境的追求——一个超越政治制度的高贵理想。Han 提出，这种修养为现代文化中弥漫的“自我遗忘与自我中心”提供了解药，使我们能在意识形态、政治与宗教的分野之间重新发现仁性共存的内在潜能。
+    step2: |-
+      如 Min（2016）所观察，儒学如今“嵌套于”其他传统之间，渗透其中，而不再是一个整全的体系。这一适应性姿态激发了新的兴趣：人们希望恢复 Han Hyoung-jo（2016）所称的儒家理学（*ihak*）的“失传技艺”——以治心为道德生活的基础。Han 论证，重新承接这一传统可以恢复儒学的原初目的：不是民主，也不只是制度改良，而是对圣境的追求——一个超越政治制度的高贵理想。Han 提出，这种修养为现代文化中弥漫的“自我遗忘与自我中心”提供了解药，使我们能在意识形态、政治与宗教的分野之间重新发现仁性共存的内在潜能。
   - id: 135
     kind: body
     source: |-
       Recent scholarship reinforces this vision. Yao’s edited volume, *Reconceptualizing Confucian Philosophy in the 21st Century* (2017), and Davies’ review (2018) highlight efforts to reinterpret Confucian doctrines, virtues, and hermeneutics for contemporary relevance, framing Confucianism as a global philosophy capable of addressing ethical and existential challenges in an age of rapid change. Likewise, Li (2022) characterizes the post-millennium “Confucian revival” as a dynamic intellectual movement—no longer a relic of the past but a living tradition actively engaging with science, modernity, and global ethics. In a similar vein, Sancho (2025b) underscores its status as a plurisecular intellectual tradition, marked by multiple dimensions and adaptive capacities. These developments suggest that Korean Confucianism—particularly its emphasis on sage learning and moral self-cultivation—is far from obsolete. Rather, it may offer an agnostic moral framework uniquely suited to reconnect individuals with themselves and with others at a time when psychological distress and social fragmentation are escalating across advanced democracies.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      晚近的研究强化了这一愿景。Yao 主编的文集《21 世纪儒家哲学的重构》（2017）以及 Davies 的书评（2018）凸显了为当代相关性而重释儒家教义、德性与诠释学的努力，把儒学框定为一种有能力应对剧变时代伦理与存在挑战的全球哲学。同样，Li（2022）把千禧年后的“儒学复兴”刻画为一场能动的思想运动——不再是往昔的遗存，而是积极与科学、现代性及全球伦理相接的活传统。与此相近，Sancho（2025b）强调其作为跨世纪思想传统的地位，其标志是多重面向与适应能力。这些发展表明，朝鲜儒学——尤其是其对圣学与道德修养的强调——远未过时。相反，它或许提供了一种不可知论的道德框架，恰切合于在先进民主国家中心理困苦与社会碎片化加剧之际，把个人重新与自身、与他人联结起来。
+    step2: |-
+      晚近的研究强化了这一愿景。Yao 主编的文集《21 世纪儒家哲学的重构》（2017）以及 Davies 的书评（2018）凸显了为当代相关性而重释儒家教义、德性与诠释学的努力，把儒学框定为一种有能力应对剧变时代伦理与存在挑战的全球哲学。同样，Li（2022）把千禧年后的“儒学复兴”刻画为一场能动的思想运动——不再是往昔的遗存，而是积极与科学、现代性及全球伦理相接的活传统。与此相近，Sancho（2025b）强调其作为跨世纪思想传统的地位，其标志是多重面向与适应能力。这些发展表明，朝鲜儒学——尤其是其对圣学与道德修养的强调——远未过时。相反，它或许提供了一种不可知论的道德框架，恰切合于在先进民主国家中心理困苦与社会碎片化加剧之际，把个人重新与自身、与他人联结起来。
   - id: 136
     kind: oir
     source: |-
@@ -1113,5 +1141,17 @@ segments:
       - [*Daxue*](http://www.chinaknowledge.de/Literature/Classics/daxue.html) (大學) [The Great Learning]
       - [*Zhongyong*](http://www.chinaknowledge.de/Literature/Classics/zhongyong.html) (中庸) [The Doctrine of the Mean]
       - [*Mengzi*](http://www.chinaknowledge.de/Literature/Classics/mengzi.html) (孟子) [The Mencius]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      * [中国哲学书电子化计划](https://ctext.org/pre-qin-and-han)：可在线检索的儒家经典（原文并附英译）。
+      * 以下条目信息来自 [ChinaKnowledge.de](http://www.chinaknowledge.de/)：
+      * [《论语》](http://www.chinaknowledge.de/Literature/Classics/lunyu.html)（論語）
+      * [《大学》](http://www.chinaknowledge.de/Literature/Classics/daxue.html)（大學）
+      * [《中庸》](http://www.chinaknowledge.de/Literature/Classics/zhongyong.html)（中庸）
+      * [《孟子》](http://www.chinaknowledge.de/Literature/Classics/mengzi.html)（孟子）
+    step2: |-
+      * [中国哲学书电子化计划](https://ctext.org/pre-qin-and-han)：可在线检索的儒家经典（原文并附英译）。
+      * 以下条目信息来自 [ChinaKnowledge.de](http://www.chinaknowledge.de/)：
+      * [《论语》](http://www.chinaknowledge.de/Literature/Classics/lunyu.html)（論語）
+      * [《大学》](http://www.chinaknowledge.de/Literature/Classics/daxue.html)（大學）
+      * [《中庸》](http://www.chinaknowledge.de/Literature/Classics/zhongyong.html)（中庸）
+      * [《孟子》](http://www.chinaknowledge.de/Literature/Classics/mengzi.html)（孟子）

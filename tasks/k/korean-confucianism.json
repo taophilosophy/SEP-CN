@@ -2,7 +2,7 @@
   "slug": "korean-confucianism",
   "kind": "retranslate",
   "zh_doc": "k/korean-confucianism.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:45Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-08T09:15:14Z",
+      "evidence": "draft（账本协议 ADR-0021，主会话直译，无子代理）：lq.py init 136 段（body=135+oir=1，文献 defs 93 条照录）→ 13 批双版直译（p1-p13，每批即 commit 账本）→ 守恒自检通过（136 段；硬错 0，软旗仅 step1==step2 与斜体→书名号的 * 计数差）→ compose 写出 k/korean-confucianism.md 43455 字符；补充材料 Figures and their Works 另译 k/korean-confucianism.supplement.md（人物与著作两节，朝鲜 66 条+非朝鲜 29 条）；五维对账：标题 ##7/###6 相对，marker 63:63，defs 93:93，段落 124:123（差 1＝源 byline 体例省略），尾节子标题 2:2；同期缺陷纠正：安鼎福卒年照源文 1712–1783（通行作 1791）、相关词条别名 Korean Philosophy: Buddhism 依 SUMMARY 353 行映射为韩国佛教、现代学者无通行汉名者统一罗马字（ADR-0022）"
     }
   ],
   "blockers": [],
