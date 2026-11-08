@@ -2,7 +2,7 @@
   "slug": "kant-science",
   "kind": "retranslate",
   "zh_doc": "k/kant-science.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "AK-main-20261105",
       "at": "2026-11-04T20:45:33Z",
       "evidence": "四检终态：style 0、prose 残余 83（引文豁免类）、check_academic --strict OK、math 0 缺失；术语 19 行+人名 3 行已登记（kant-science 来源）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:49Z",
+      "evidence": "r1 独立复核（K 批接管，2026-11-08）：段落 72:71（差 1=源 byline）、marker 17:17、defs 110:110、年份 177:177、尾节子标题 0:0、图 0:0；抽查第 25/26 段（动力学总注数学-力学 vs 形而上学-动力学、Friedman 2013 评注）逐句对照 yuanwen 无误；正文残留扫描 0 命中；未发现缺件。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:49Z",
+      "evidence": "r2 语言与忠实复核：无缺陷需修（本会话未改动本文）；check_style --strict 0、check_math 0/0、check_academic --strict OK。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:51Z",
+      "evidence": "r3 门禁：四检全绿，check_all 七项全绿。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:51Z",
+      "evidence": "done 收口（K-main-20261108）：s3_checked 遗留件五维齐平、抽查无误、门禁全绿。"
     }
   ],
   "blockers": [],
