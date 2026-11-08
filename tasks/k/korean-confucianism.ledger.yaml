@@ -451,65 +451,91 @@ segments:
     kind: body
     source: |-
       Two towering figures of early Chosŏn Neo-Confucianism—Yi Hwang (1501–1570), known by his pen name T’oegye, and Yi I (1536–1584), known as Yulgok—shaped the profound metaphysical discourse that would define Korea’s intellectual tradition. Both undertook rigorous analyses of the macrocosmic *Principle* 理 and its dynamic interplay with *material force* (氣, K. *ki*), probing not only their ontological structure but also their implications for the mind and human nature as actualized in thought and action. These inquiries were not abstract exercises; they carried an acute psychological and social urgency, framing ethics as inseparable from metaphysics. Korean Neo-Confucianism thus emerged as a humanistic guiding discourse, grounded in the Confucian ideal of *in* (仁), expressed both externally through conduct and internally through reflective cultivation. At the heart of this vision lay the pursuit of sagehood, realized through disciplined learning—what came to be called “Sage Learning.” As Oh Kangnam (1993: 313) observes, this was “one of the essential components, if not the essence, of Korean Confucianism […] Neo-Confucianism’s hallmark was its emphasis on sage-learning”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      朝鲜王朝早期性理学的两位巨擘——李滉（1501–1570，号退溪）与李珥（1536–1584，号栗谷）——塑造了界定朝鲜思想传统的深刻形而上学话语。两人都对宏观的理（理）及其与气（氣，韩 *ki*）的动态交互作了严格分析，不仅探究其本体论结构，也探究其对于心与人性在思想与行动中实现方式的意涵。这些探究不是抽象的练习；它们带有急迫的心理与社会关切，把伦理学框定为与形而上学不可分离。于是朝鲜性理学作为一种人文主义的指导性话语出现，奠基于儒家的仁（仁，*in*）理想，既通过外在的行为、也通过内在的反省修养来表现。这一愿景的核心是对圣人人格的追求，经由有纪律的学习来实现——即后来所称的“圣学”。如吴康南（Oh Kangnam，1993: 313）所言，这是“朝鲜儒学的基本成分之一，若非其本质；［……］性理学的标志正是它对圣学的强调”。
+    step2: |-
+      朝鲜王朝早期性理学的两位巨擘——李滉（1501–1570，号退溪）与李珥（1536–1584，号栗谷）——塑造了界定朝鲜思想传统的深刻形而上学话语。两人都对宏观的理（理）及其与气（氣，韩 *ki*）的动态交互作了严格分析，不仅探究其本体论结构，也探究其对于心与人性在思想与行动中实现方式的意涵。这些探究不是抽象的练习；它们带有急迫的心理与社会关切，把伦理学框定为与形而上学不可分离。于是朝鲜性理学作为一种人文主义的指导性话语出现：它奠基于儒家的仁（仁，*in*）理想，既通过外在行为、也通过内在的反省修养来表现。这一愿景的核心是对圣人人格的追求，经由有纪律的学习来实现——即后来所称的“圣学”。如吴康南（Oh Kangnam，1993: 313）所言，这是“朝鲜儒学的基本成分之一，若非其本质；［……］性理学的标志正是它对圣学的强调”。
   - id: 54
     kind: body
     source: |-
       Both T’oegye and Yulgok both wrote very specific texts on sagehood. In 1568, T’oegye wrote *Sŏnghak sipto* 聖學十圖 (The Ten Diagrams on Sage Learning), and in 1575 Yulgok wrote *Sŏnghak chipyo* 聖學輯要 (Essentials of Sage Lrearning). According to Keum Jang-tae (1980 [2000: 40]), author of *Confucianism and Korean Thoughts*, these texts (the *Ten Diagrams* and the *Essentials*) reflect “the two main classical works epitomizing Neo-Confucian learning in the Chosŏn era”. They also embody the development of Korea’s Neo-Confucian tradition. Kim Yung Sik (2017: 25) suggests that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      退溪与栗谷两人都著有专门论圣人人格的文本。1568 年，退溪作《圣学十图》；1575 年，栗谷作《圣学辑要》。据《韩国儒学与韩国思想》的作者琴章泰（Keum Jang-tae，1980 [2000: 40]）所说，这两部书（《十图》与《辑要》）体现了“朝鲜时代性理学之学最具代表性的两部经典”，它们也体现了朝鲜性理学传统的发展。金永植（Kim Yung Sik，2017: 25）认为
+    step2: |-
+      退溪与栗谷两人都著有专门论圣人人格的文本。1568 年，退溪作《圣学十图》；1575 年，栗谷作《圣学辑要》。据《韩国儒学与韩国思想》的作者琴章泰（Keum Jang-tae，1980 [2000: 40]）所说，这两部书（《十图》与《辑要》）体现了“朝鲜时代性理学之学最具代表性的两部经典”，它们也体现了朝鲜性理学传统的发展。金永植（Kim Yung Sik，2017: 25）认为
   - id: 55
     kind: body
     source: |-
       > the full understanding of [Zhu’s thought] seems to have come quite late, only after Yi Hwang […] launched an all-out effort to come to grips with the entire scope of the Zhu Xi Learning.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 对［朱熹思想］的完整理解似乎来得相当晚，要到李滉［……］发起全面努力、试图把握朱熹之学的全幅之后。
+    step2: |-
+      > 对［朱熹思想］的完整理解似乎来得相当晚，要到李滉［……］发起全面努力、试图把握朱熹之学的全幅之后。
   - id: 56
     kind: body
     source: |-
       In fact, Japanese Neo-Confucian scholars, such as Yamazaki Ansai (1618–82), considered T’oegye to be “the greatest Confucian in Korea”, even suggesting he was on a par with Zhu Xi himself (Pak 1983: 69)[^pak-1983].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      事实上，日本性理学者如山崎暗斋（Yamazaki Ansai，1618–82）认为退溪是“朝鲜最伟大的儒者”，甚至认为他可与朱熹本人比肩（Pak 1983: 69）[^pak-1983]。
+    step2: |-
+      事实上，日本性理学者如山崎暗斋（Yamazaki Ansai，1618–82）认为退溪是“朝鲜最伟大的儒者”，甚至认为他可堪比朱熹本人（Pak 1983: 69）[^pak-1983]。
   - id: 57
     kind: body
     source: |-
       T’oegye’s *Ten Diagrams* represents the finest synthesis of this Neo-Confucian thought current in Korea at that time, and it was one of the most reproduced texts of the entire Chosŏn dynasty, overshadowing Yulgok’s text. T’oegye’s text consists of a collection of diagrams by Neo-Confucian scholars from China and Korea, including three by T’oegye himself, that elucidate Zhu Xi’s main teachings, as well as T’oegye’s own synthesis and analysis of them, especially through his focus on the mind (K. *sim*), though guided by a methodological approach that focuses on *Kyŏng* (敬). Although *kyŏng* is often rendered as “seriousness”, T’oegye reconfigures its meaning, emphasizing the disciplined sovereignty of the mind over thought and action. This interpretive shift has led Michael Kalton (1985: 212–214) to translate the term as “mindfulness”, while Kim Hyoungchan (2018: 27–32) proposes “reverent mindfulness”. In this Confucian re-appropriation of a concept resonant with Buddhist practice, mindfulness becomes the cornerstone of T’oegye’s vision of sagehood: a continuous, deliberate attentiveness to the operations of the mind, restraining its impulses so that good or positive thoughts can lead to actions that reflect them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      退溪的《十图》代表了当时朝鲜流行的性理学思想的最精综合，也是整个朝鲜王朝翻刻最多的文本之一，其影响盖过栗谷之书。退溪之书汇集了来自中国与朝鲜的性理学者的图，其中包括退溪自作的三幅；诸图阐明朱熹的主要教说，并附退溪本人对这些教说的综合与分析，尤其聚焦于心（韩 *sim*），而其方法进路则以敬（*Kyŏng*）为纲。敬虽常译作“seriousness”（郑重），退溪重新配置其义，强调心对思想与行动的有纪律的主宰。这一解释转向使 Michael Kalton（1985: 212–214）把该词译作“mindfulness”，而金亨灿（Kim Hyoungchan，2018: 27–32）提议“reverent mindfulness”（敬慎的觉照）。在这一对与佛教修行相呼应的概念的儒家再取用中，觉照成为退溪圣人人格愿景的基石：对心的运作持续而有意的关注，约束其冲动，使善的或正面的念头能引生体现这些念头的行动。
+    step2: |-
+      退溪的《十图》代表了当时朝鲜流行的性理学思想的最精综合，也是整个朝鲜王朝翻刻最多的文本之一，其影响盖过栗谷之书。退溪之书汇集了中国与朝鲜性理学者的图，其中包括退溪自作的三幅；诸图阐明朱熹的主要教说，并附退溪本人对这些教说的综合与分析，尤其聚焦于心（韩 *sim*），而其方法进路则以敬（*Kyŏng*）为纲。敬虽常译作“seriousness”（郑重），退溪却重新配置其义，强调心对思想与行动的有纪律的主宰。这一解释转向使 Michael Kalton（1985: 212–214）把该词译作“mindfulness”，而金亨灿（Kim Hyoungchan，2018: 27–32）提议“reverent mindfulness”（敬慎的觉照）。在这一对与佛教修行相呼应的概念的儒家再取用中，觉照成为退溪圣人人格愿景的基石：对心的运作持续而有意的关注，约束其冲动，使善的或正面的念头能引生体现这些念头的行动。
   - id: 58
     kind: body
     source: |-
       The first two diagrams reflect the underpinnings of Neo-Confucian ontologico-cosmology:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      前两幅图反映性理学本体—宇宙论的根基：
+    step2: |-
+      前两幅图反映性理学本体—宇宙论的根基：
   - id: 59
     kind: body
     source: |-
       1. Zhou Dunyi’s *Diagram of the Supreme Ultimate* (太極之圖, K. *T’aegŭk chido*), and
       2. Zhang Zai’s *Western Inscription* (西銘圖, K. *Sŏmyŏngdo*)
       3. (see [Kalton’s translations online](https://faculty.washington.edu/mkalton/10dia%20contents%20web.htm)).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 周敦颐的《太极之图》（韩 *T’aegŭk chido*），与
+      2. 张载的《西铭图》（韩 *Sŏmyŏngdo*）
+      3. （见［Kalton 的在线译文］(https://faculty.washington.edu/mkalton/10dia%20contents%20web.htm)）。
+    step2: |-
+      1. 周敦颐的《太极之图》（韩 *T’aegŭk chido*），与
+      2. 张载的《西铭图》（韩 *Sŏmyŏngdo*）
+      3. （见［Kalton 的在线译文］(https://faculty.washington.edu/mkalton/10dia%20contents%20web.htm)）。
   - id: 60
     kind: body
     source: |-
       These diagrams articulate the Neo-Confucian vision of a morally ordered cosmos. The first depicts the Supreme Ultimate (*T’aegŭk*) as *Principle* (理), the generative source from which yin and yang forces emerge, subsequently giving rise to the Five Elements (also referred to as the Five Phases). The second diagram further concretizes this ontological schema, illustrating how the originating *Principle* inscribes itself hierarchically within the material world. Because *Principle* permeates all things, it becomes the normative ground for human social relations and distinctions—such as those between ruler and subject, elder and younger. The remaining three diagrams shift from cosmology to pedagogy, presenting the foundations of Confucian moral education: the *Diagram of Elementary Learning*, the *Diagram of the Great Learning*, and the *Diagram of Rules for the White Deer Hollow Academy*—the latter codifying Zhu Xi’s own retreat for scholarly cultivation. This educational framework establishes Confucian morality as the foundation for engaging with more intricate questions concerning mind and human nature. *The Diagram of Elementary Learning*—created by T’oegye as an adaptation of Zhu Xi’s widely studied text—served as a cornerstone of Korean scholarship. Likewise, the *Diagram of the Great Learning*, originally composed by Kwŏn Kŭn and included in his collection of diagrams, reinforces the primacy of moral education within the Korean Neo-Confucian tradition.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些图阐明了性理学关于道德有序宇宙的愿景。第一幅把太极（*T’aegŭk*）描绘为理，即阴阳二气由之而生的生成之源，其后又生出五行（亦称五气之运转）。第二幅进一步把这一本体论图式具体化，说明本源之理如何按等级铭刻于质料世界之中。由于理贯通万物，它成为人类社会关系与差等的规范根据——如君臣、长幼之别。其余三幅从宇宙论转向教育学，呈现儒家道德教育的根基：《小学图》《大学图》与《白鹿洞书院教条图》——后者把朱熹本人治学修养的书院规条法典化。这一教育框架把儒家道德确立为进一步探讨心与人性等更精细问题的基础。《小学图》——退溪据朱熹广受研读的文本改编而成——是朝鲜学术的基石。同样，《大学图》原由权近撰作并收入其图集，强化了道德教育在朝鲜性理学传统中的首要地位。
+    step2: |-
+      这些图阐明了性理学关于道德有序宇宙的愿景。第一幅把太极（*T’aegŭk*）描绘为理，即阴阳二气由之而生的生成之源，其后又生出五行（亦称五气之运转）。第二幅进一步把这一本体论图式具体化，说明本源之理如何按等级铭刻于质料世界之中。由于理贯通万物，它成为人类社会关系与差等的规范根据——如君臣、长幼之别。其余三幅从宇宙论转向教育学，呈现儒家道德教育的根基：《小学图》《大学图》与《白鹿洞书院教条图》——后者把朱熹本人治学修养的书院规条法典化。这一教育框架把儒家道德确立为进一步探讨心与人性等更精细问题的基础。《小学图》——退溪据朱熹广受研读的文本改编而成——是朝鲜学术的基石。同样，《大学图》原由权近撰作并收入其图集，强化了道德教育在朝鲜性理学传统中的首要地位。
   - id: 61
     kind: body
     source: |-
       It is the sixth diagram in T’oegye’s collection where we find his view of the “Four-Seven” issue that was first mentioned by Kwŏn Kŭn, but which really addressed the questions: if human nature is completely good—why do people do things that are “not good” and how/why are there negative feelings? Is this due to *Principle* or the material force? This was a conundrum for Neo-Confucians just as good and evil was for the Scholastics in Europe trying to explain why there was evil if their God was good. Michael Kalton (1985: 119) describes the subsequent debate, outlined below, as “the single most important intellectual controversy of the Yi [Chosŏn] dynasty”, ultimately related to the different roles of *Principle* and material force, their interactions and significance in regard to one’s human nature and the mind. T’oegye’s sixth diagram (see Kalton (trans. 1988:119–124) is actually divided into three parts, relating to the saying *The Mind Combines and Governs the Nature and the Feelings* (心統性情圖) and they describe different but interrelated aspects of the mind:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正是在退溪图集的第六幅中，我们看到他对“四端七情”问题的看法；此问题最早由权近提及，而它真正要回答的是：如果人性全然是善的，人为什么会做“不善”之事？负面的情感如何、又为何存在？这究竟归因于理还是气？这对性理学者是一个难题，正如善恶问题对欧洲经院学者一样——他们力图解释：如果他们的上帝是善的，恶何以存在。Michael Kalton（1985: 119）把下文概述的后续论辩描述为“李氏［朝鲜］王朝最重要的单一思想论争”，它最终关涉理与气的不同作用、二者的交互及其在人性与心方面的意义。退溪的第六幅图（见 Kalton 译，1988: 119–124）实际分为三部分，关涉“心统性情”之说，分别描述心之不同而相互关联的面向：
+    step2: |-
+      正是在退溪图集的第六幅中，我们看到他对“四端七情”问题的看法；此问题最早由权近提及，而它真正要回答的是：如果人性全然是善的，人为什么会做“不善”之事？负面的情感如何、又为何存在？这究竟归因于理还是气？这对性理学者是一个难题，正如善恶问题对欧洲经院学者一样——他们力图解释：如果他们的上帝是善的，恶何以存在。Michael Kalton（1985: 119）把下文概述的后续论辩描述为“李氏［朝鲜］王朝最重要的单一思想论争”，它最终关涉理与气的不同作用、二者的交互及其在人性与心方面的意义。退溪的第六幅图（见 Kalton 译，1988: 119–124）实际分为三部分，关涉“心统性情”之说，分别描述心之不同而相互关联的面向：
   - id: 62
     kind: body
     source: |-
       1. “the not yet aroused state” (未發, K. *mibal*), linked to the four beginnings, and pure *Principle*, and
       2. the seven feelings linked to “the aroused state” (已發, K. *ibal*) when *Principle* interacts with the material force.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. “未发”（韩 *mibal*）状态，系于四端与纯粹的理，与
+      2. 七情则系于“已发”（韩 *ibal*）状态，即理与气交互之时。
+    step2: |-
+      1. “未发”（韩 *mibal*）状态，系于四端与纯粹的理，与
+      2. 七情则系于“已发”（韩 *ibal*）状态，即理与气交互之时。
   - id: 63
     kind: body
     source: |-
