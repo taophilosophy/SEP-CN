@@ -1,0 +1,22 @@
+{
+  "slug": "nicole-oresme",
+  "kind": "retranslate",
+  "zh_doc": "n/nicole-oresme.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T02:40:12Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-08T02:40:12Z",
+  "version_pin": {
+    "pubinfo_date": "Dec 17, 2025",
+    "archive_edition": "Winter 2025",
+    "sha256": "3b1081414d8ed660d04387dba203276930a14e34d8cd902542d6cce435260b28"
+  }
+}
