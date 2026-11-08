@@ -203,74 +203,98 @@ segments:
     kind: body
     source: |-
       This unequivocally empiricist claim was compounded by the denial of any ‘pure intellect.’ Regius had never appealed to a ‘pure understanding’ as a source of ideas, and had often asserted the ‘organic’ connection between mind and body. He had defined ‘organic’, in the first of his *Physiologia* disputations (Bos 2002, 200), in contrast with ‘inorganic’ as almost a synonym for ‘bodily dependent’. Organic parts of the body, such as the nerves, veins, or muscles, required a certain physical conformation of the body in order to perform an action. When applied to the mind, therefore, the term ‘organic’ suggested that the mind could perform mental operations only on condition that various bodily parts functioned appropriately at the same time.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一斩钉截铁的经验主义主张，又因否认任何“纯粹理智”而得到加强。雷吉乌斯从未诉诸“纯粹知性”作为观念的来源，并常常断言心灵与身体之间的“有机”联系。在其《生理学》第一场论辩中（Bos 2002, 200），他把“有机的”与“无机的”对举，几乎把它当作“依赖身体的”的同义词。身体的有机部分，如神经、静脉或肌肉，需要身体具有某种物理构造才能实施一个动作。因此，把“有机的”用于心灵，便意味着心灵只有在各种身体部位同时正常运作的条件下才能实施心灵运作。
+    step2: |-
+      这一明明白白的经验主义主张，又叠上了对“纯粹理智”的否认。雷吉乌斯从不拿“纯粹知性”当观念的来源，反倒一再断言身心之间的“有机”联系。在其《生理学》第一场论辩里（Bos 2002, 200），他对照“无机”来界定“有机”，后者几乎就是“依赖身体”的同义词：神经、静脉、肌肉这些有机部分，要有身体的一定构造才能动作。于是“有机”一语落到心灵头上，意思便是：心灵要实施种种运作，非得各个身体部位同时正常工作不可。
   - id: 26
     kind: body
     source: |-
       These early hints, which were short of an outright denial of a pure understanding, were interpreted correctly by Descartes in 1647. Regius had defined perception in his banned disputation as ‘sensation, remembering and imagining’ (Regius 1647b: *Corollaries*, no. 18), and Descartes concluded that he was implicitly denying the reality of pure understanding: “One could draw the conclusion that he does not accept any pure understanding, that is, an understanding that is not concerned with physical images; and therefore he thinks that we have no knowledge of God or the human soul, or of other non-physical things” (AT VIII-2, 363). Regius confirmed that interpretation in his reply: “The human mind, although it is a substance that is really distinct from the body, is however organic in all its actions while it is in the body … it cannot perform any of its actions without bodily organs” (Regius 1648, 10). Perhaps he had been applying Descartes’ previous advice about substantial forms—to ignore them rather than deny their existence explicitly—when he refrained from denying a pure understanding in his earlier writings. By 1654, however, he was ready to publish an explicit denial: “Since … we are able to explain all its operations [i.e., those of the mind] by those faculties of the intellect, which were already explained, there is no need to add to them a pure intellect or anything similar as something that is distinct from them” (Regius 1654, 404). Nonetheless, the denial of a pure intellect did not imply denying that human beings have an idea of God; the latter is acquired in the same way as other ideas, namely by using an intellect that is organically dependent on the human body.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些早期暗示（尚谈不上对纯粹知性的公然否认）在 1647 年被笛卡尔正确地解读了。雷吉乌斯在其被禁的论辩中把知觉定义为“感觉、记忆与想象”（Regius 1647b：《附论》第 18 条），笛卡尔由此断定他在暗中否认纯粹知性的实在性：“可以得出结论说，他不承认任何纯粹知性，即不涉及物理影像的知性；因此他认为，我们对上帝或人的灵魂、或其他非物质事物没有任何知识”（AT VIII-2, 363）。雷吉乌斯在回复中确认了这一解读：“人的心灵虽然是一个与身体实在有别的实体，但它寓于身体之中时，其一切运作都是有机的……离开身体器官，它无法实施任何运作”（Regius 1648, 10）。或许，当他在早期著作中避免否认纯粹知性时，他正在贯彻笛卡尔先前关于实体形式的建议——对它们视而不见，而不公开否认其存在。然而到 1654 年，他已准备好发表一个明确的否认：“既然……我们能够用那些已得到解释的理智官能解释其［即心灵的］一切运作，就没有必要再在其上附加一个纯粹理智或任何与之有别的类似之物”（Regius 1654, 404）。尽管如此，否认纯粹理智并不意味着否认人拥有上帝观念；后者的获得方式与其他观念相同，即使用一个有机地依赖人体的理智。
+    step2: |-
+      这些早期暗示——还谈不上对纯粹知性的公然否认——在 1647 年被笛卡尔读了个正着。雷吉乌斯在那场被禁的论辩里把知觉定义为“感觉、记忆与想象”（Regius 1647b：《附论》第 18 条）；笛卡尔据此断定，他是在暗中取消纯粹知性的实在性：“可以得出结论说，他不承认任何纯粹知性，即不涉及物理影像的知性；因此他认为，我们对上帝或人的灵魂、或其他非物质事物没有任何知识”（AT VIII-2, 363）。雷吉乌斯在答复中坐实了这一解读：“人的心灵虽然是一个与身体实在有别的实体，但它寓于身体之中时，其一切运作都是有机的……离开身体器官，它什么运作也做不了”（Regius 1648, 10）。他早先著述时避而不否认纯粹知性，或许正是在照搬笛卡尔处理实体形式的老办法——眼睁睁略过，而不明言否认。可到了 1654 年，他索性把否认明说：“既然……我们能够用那些已得到解释的理智官能解释其［即心灵的］一切运作，就没有必要再在其上附加一个纯粹理智或任何与之有别的类似之物”（Regius 1654, 404）。话虽如此，否认纯粹理智并不等于否认人有上帝观念；上帝观念的得来与其他观念无异，同样是凭一个有机地依赖人体的理智。
   - id: 27
     kind: body
     source: |-
       Since all ideas originate in sensation, Regius had to acknowledge that we often come to have ideas that originate from imagined realities and that, in the case of veridical and non-veridical perceptions, the subjective experiences are often sufficiently similar that one cannot be certain of a correspondence between ideas and reality. In contrast with the Cartesian rational defence of the reliability of our cognitive faculties, Regius claimed that one must rely on Scripture for this purpose (Regius 1646, 249). However, Scripture does not guarantee that our perceptions are always certain. This issue was particularly acute when the realities in question were unobservable (Regius 1646, 4). Regius thought it was obvious that physical bodies are composed of insensible particles, and that their description is a matter of hypothesis. When faced with the task of explanation, therefore, he took refuge in some of the central themes of Cartesian natural philosophy. He borrowed the ‘fable’ used by Descartes in *Le Monde*, that the natural world is composed of one matter, that it is divided into parts of various sizes and shapes in motion, and that all natural phenomena may be explained by the laws of nature that apply to those parts (Regius 1646, 4).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由于一切观念都起源于感觉，雷吉乌斯不得不承认：我们常常会获得一些起源于被想象之实在的观念；而在真实知觉与不真实知觉的情形中，主观经验往往相似到这样的程度，以至于无法确定观念与实在之间的对应关系。与笛卡尔对我们的认知官能之可靠性的理性辩护不同，雷吉乌斯主张人们必须为此依靠《圣经》（Regius 1646, 249）。然而《圣经》并不保证我们的知觉总是确定的。当所讨论的实在不可观察时，这一问题尤为尖锐（Regius 1646, 4）。雷吉乌斯认为，物理物体由不可感粒子构成，这一点显而易见，而对它们的描述属于假设之事。因此，面对解释的任务，他退守到笛卡尔式自然哲学的若干中心主题。他借用了笛卡尔在《论世界》中使用的“寓言”：自然界由一种物质构成，它被分割成大小与形状各异、处于运动之中的部分，而一切自然现象都可以由适用于这些部分的自然律来解释（Regius 1646, 4）。
+    step2: |-
+      既然一切观念都出自感觉，雷吉乌斯便不得不承认：我们常常获得一些起源于被想象之实在的观念；而且在真实与不真实的知觉中，主观经验往往相似到这种地步——你无法确定观念与实在之间是否对应。笛卡尔为认知官能的可靠性作理性辩护，雷吉乌斯不同：这一层要靠《圣经》兜底（Regius 1646, 249）。可《圣经》并不担保我们的知觉永远确定。所论的实在一旦不可观察，这个难题就格外扎手（Regius 1646, 4）。雷吉乌斯认为，物理物体由不可感粒子构成，这一点不言自明；对它们的描述只能是假设。于是到了要解释的时候，他便退回笛卡尔式自然哲学的几个中心主题：借用笛卡尔在《论世界》里那个“寓言”——自然界由一种物质构成，这物质分成大小形状各异、运动不息的部分，而一切自然现象都可由适用于这些部分的自然律来解释（Regius 1646, 4）。
   - id: 28
     kind: body
     source: |-
       This is the positive side of Regius’ account of explanation. The negative side, as with Descartes, is a rejection of forms and qualities as understood by scholastic philosophers. For example, Regius had argued in 1641 that one does not explain how the heart works by introducing a ‘sentient and vegetative soul.’ He commented: “That is saying nothing more than this: that the heart is moved by whatever is the principle by which we live, sense and move (for that is how the soul is defined), which begs the question as to what that is” (Regius 1641b, Disputatio VI, Corollary, par. V). Such an explanation of the heart’s motion is similar to explaining the motion of a clock by ‘a faculty of a certain kind.’ Regius proposed instead that we think of the world as a great machine, and that we explain natural phenomena by hypothesizing how that machine works.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这是雷吉乌斯解释观的积极一面。消极的一面，与笛卡尔一样，是拒斥经院哲学家所理解的形式与质。例如，雷吉乌斯 1641 年就曾论证：引入一个“有感觉且有生长的灵魂”并不能解释心脏如何工作。他评论道：“这不过是说：心脏由某种东西推动，而那种东西正是我们赖以生活、感觉与运动的原则（因为灵魂就是这么定义的）；至于那究竟是什么，问题并未触及”（Regius 1641b, 第六场论辩，附论，第 V 段）。这样一种对心脏运动的解释，就像用“某种官能”来解释钟表的运动。雷吉乌斯转而主张：我们应当把世界看作一台大机器，并通过假设这台机器如何运转来解释自然现象。
+    step2: |-
+      这是雷吉乌斯解释观的积极一面。消极一面则与笛卡尔同调：拒斥经院哲学家理解的形式与质。比如早在 1641 年，雷吉乌斯就论证说：要解释心脏如何工作，引进一个“有感觉且有生长的灵魂”无济于事。他评论道：“这不过是说：心脏由某种东西推动，而那种东西正是我们赖以生活、感觉与运动的原则（因为灵魂就是这么定义的）；至于那究竟是什么，问题原封未动”（Regius 1641b, 第六场论辩，附论，第 V 段）。拿这种说法解释心脏的运动，跟用“某种官能”解释钟表的走动是一个路数。雷吉乌斯给出的替代方案是：把世界看成一台大机器，靠假设这台机器如何运转来解释自然现象。
   - id: 29
     kind: body
     source: |-
       > The world, therefore, is a great machine and each of its parts is a small machine, in which it can be observed and easily demonstrated that there is nothing other than motion or rest, together with size, position, and shape (I wish to make a unique exception of our soul). However, I regard the forms which are said to be substantial and likewise qualities of a corporeal substance, whether occult or manifest … as mere non-entities, which conceal our ignorance of causes. (Regius 1641b, para. ix)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 因此，世界是一台大机器，其每一部分都是小机器；在其中可以观察到、也容易证明：除了运动或静止，连同大小、位置与形状之外，别无他物（唯愿为我们的灵魂作一个单独的例外）。然而，我认为那些所谓的实体形式、同样还有有形实体的诸性质，无论隐秘还是显明……都纯粹是非存在物，它们掩盖着我们对原因的无知。（Regius 1641b, 第 ix 段）
+    step2: |-
+      > 因此，世界是一台大机器，它的每个部分都是一台小机器；在其中可以观察到、也容易证明：除了运动或静止，连同大小、位置与形状，再没有别的东西（唯愿为我们的灵魂单独留一个例外）。至于那些所谓的实体形式，连同有形实体的种种性质，无论隐秘的还是显明的……我以为它们统统是非存在物，不过拿它们遮住我们对原因的无知罢了。（Regius 1641b, 第 ix 段）
   - id: 30
     kind: body
     source: |-
       It follows from this kind of speculative reasoning about the unobservable inner structure of natural phenomena that scientific knowledge is only more or less probable. If we imagine a likely cause of some phenomenon as a configuration of unobservable particles and, despite further research, cannot discover another possible cause that is either as likely or more likely, we should rest content with the first hypothesis until something better is discovered.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从这种关于自然现象不可观察的内部结构的思辨推理可以得出：科学知识只是或多或少可能的。如果我们把某现象的一个可能原因设想为一组不可观察粒子的构造，而尽管进一步研究，仍不能发现另一个同样可能或更可能的原因，那么我们就应当满足于第一个假设，直到发现更好的东西为止。
+    step2: |-
+      由此类关于自然现象不可观察之内部结构的思辨推理可知：科学知识只是或多或少可能的东西。设想某现象的一个可能原因是某种不可观察粒子的构造；纵然再加研究，也找不出另一个同样可能或更可能的原因，那就不妨守着第一个假设，等更好的出现再说。
   - id: 31
     kind: body
     source: |-
       > When any question in physics is proposed for resolution, one should first think of an intelligible cause by which the effect that is observed in the proposed problem could be explained intelligibly and appropriately. One should then look to see if a more appropriate or equally appropriate cause can be found. If a more appropriate cause is found, it should be preferred. If one that is equally appropriate is found, it should be treated as equally confirmed. However, if none is found that is equally or more appropriate, the solution found should be adopted until a better or equally good one is found. (Regius 1654, Epilogue)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 当物理学中的任何问题被提出以求解决时，首先应当设想一个可理解的原因，借助于它，所提问题中观察到的那种结果可以得到明白而恰当的解释。接着应当再看一看：能否找到一个更恰当或同样恰当的原因。若找到更恰当的，就应取而代之；若找到同样恰当的，就应视为得到同等的确认。然而，如果找不到同样或更恰当的，那么所找到的解决就应被采纳，直到发现更好或同样好的为止。（Regius 1654, 结语）
+    step2: |-
+      > 物理学中无论提出什么问题来求解，首先应当设想一个可理解的原因：靠它，所提问题里观察到的那种结果可以得到明白而妥当的解释。接着再看看，能否找到一个更妥当、或同样妥当的原因。更妥当的找见了，就换上它；同样妥当的找见了，就算得到同等的印证。可是，若同样妥当或更妥当的都找不见，那就采用眼下这个解决，直到更好或同样好的出现为止。（Regius 1654, 结语）
   - id: 32
     kind: body
     source: |-
       The acceptance of probable hypotheses as the best available was a significant revision of a model of human knowledge, originally derived from Aristotle, according to which genuine knowledge must achieve the degree of certainty that is provided by intuition and demonstration (Clarke 2011)[^clarke-2011]. While other natural philosophers, even at the conclusion of the seventeenth century, refused to classify explanations of natural phenomena as knowledge, because they were uncertain, Regius had accepted in mid-century that such uncertainty is inevitable except in the case of divine revelation. “Although, apart from divine revelation, there is no apodictic certainty about things that exist outside our mind, but only moral or probable and likely certainty, that is still sufficient to perform adequately and to control all the activities of human life, since nothing more is required for them apart from moral or probable truth or the certainty and likelihood of knowledge” (Regius 1654, 351).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把可能的假设当作现有最佳者来接受，这是对一种人类知识模型的重大修订。该模型源自亚里士多德，按照它，真正的知识必须达到由直观与证明所提供的那种确定性程度（Clarke 2011）[^clarke-2011]。当其他自然哲学家甚至到十七世纪末还因不确定而拒绝把自然现象的解释归入知识时，雷吉乌斯在世纪中叶就已接受：除神圣启示的情形外，这种不确定是不可避免的。“尽管除神圣启示外，对于存在于我们心灵之外的事物没有必真的确定性，而只有道德的或概然的与可能的确定性，这仍然足以充分实施并掌控人类生活的一切活动，因为除了道德的或概然的真理、知识的确定性与可能性之外，它们并不需要更多”（Regius 1654, 351）。
+    step2: |-
+      接受“可能的假设就是现有最好的东西”，是对人类知识模型的一次大修订。这模型源自亚里士多德：真正的知识必须达到直观与证明所给的那种确定性（Clarke 2011）[^clarke-2011]。别的自然哲学家直到十七世纪末还不肯把自然现象的解释算作知识，理由就是它们不确定；而雷吉乌斯在世纪中叶已经接受：除神圣启示的情形外，这份不确定躲不掉。“尽管除神圣启示外，对存在于我们心灵之外的事物没有必真的确定性，只有道德的、概然的与可能的确定性，这仍足以妥善实施并掌控人类生活的一切活动；因为除了道德或概然的真理、知识的确定性与可能性，它们并不要求更多”（Regius 1654, 351）。
   - id: 33
     kind: body
     source: |-
       ## 4. Theory of Human Nature
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 人性学说
+    step2: |-
+      ## 4 人性学说
   - id: 34
     kind: body
     source: |-
       Regius acknowledged objections, as early as 1641, to scholastic descriptions of human nature, according to which the human mind or soul was the substantial form of the body that was capable, after death, of existing on its own. As indicated above, he accepted Descartes’ general objections to the intelligibility and explanatory usefulness of substantial forms. It was unclear to him, therefore, how such forms could be used to describe or explain human nature. His reservations about substantial forms were articulated in the draft copy of *Fundamenta physices*, which he had sent to Descartes prior to publication. The latter’s objections caused Regius to delete three of the more controversial claims about God and the soul from the published text. However, they re-appeared in the Corollaries of Regius 1647b, and in the second edition of the text, *Philosophia naturalis* (1654).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      早在 1641 年，雷吉乌斯就已对经院式的人性描述提出异议。按照那种描述，人的心灵或灵魂是身体的实体形式，死后能够独立存在。如前所述，他接受了笛卡尔对实体形式之可理解性与解释效用的总体反驳。因此对他来说，这样的形式如何能用来描述或解释人性，并不清楚。他对实体形式的保留意见，体现在他于出版前寄给笛卡尔的《自然哲学基础》草稿本中。后者的反对意见使雷吉乌斯从刊行文本中删去了三条关于上帝与灵魂的、更具争议的主张。然而它们在 Regius 1647b 的《附论》以及该书第二版《自然哲学》（1654）中重新出现。
+    step2: |-
+      早在 1641 年，雷吉乌斯就对经院式的人性描述提出了异议：那种描述说，人的心灵或灵魂是身体的实体形式，死后还能独立存在。如前文所述，笛卡尔对实体形式之可理解性与解释效用的通盘反驳，他都接受。于是在他看来，这类形式拿什么去描述或解释人性，是笔糊涂账。他对实体形式的保留，写进了出版前寄给笛卡尔的《自然哲学基础》草稿本。笛卡尔的反对意见，让雷吉乌斯从刊行的文本里删掉了三条关于上帝与灵魂、争议最大的主张。可这几条并没有消失：Regius 1647b 的《附论》里有它们，第二版《自然哲学》（1654）里也有它们。
   - id: 35
     kind: body
     source: |-
       Descartes had defined material substance in terms of its principal attribute, extension. Regius endorsed that position when he rejected any distinction between a corporeal substance and its extension.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      笛卡尔曾以广延——物质实体的主要属性——来定义物质实体。雷吉乌斯在拒斥有形实体与其广延之间的任何区分时，赞同了这一立场。
+    step2: |-
+      笛卡尔以广延——物质实体的主要属性——界定物质实体。雷吉乌斯既然否认有形实体与其广延之间有任何区分，也就站到了这一立场之上。
   - id: 36
     kind: body
     source: |-
       > There is no need to imagine that there is a substance in a body in which extension exists, and that it is something which in its nature or in reality is distinct from extension, because realities should not be multiplied without necessity. Extension does not need such a subject, *as something that is distinct from itself*; but it is capable of existing on its own. (Regius 1646, 2; the phrase in italics was added in Regius 1654, 3.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 无须设想身体之中有一个广延存在于其中的实体，也无须设想它在本性或实在中与广延有别，因为实在不应无必要地增多。广延不需要这样一个主体，*即与自身有别的东西*；但它能够独立存在。（Regius 1646, 2；斜体短语系 Regius 1654, 3 所增。）
+    step2: |-
+      > 用不着设想身体里有一个广延栖身于其中的实体，也用不着设想它在本性或实在中与广延有什么不同——实在不该无谓地增殖。广延并不需要这样一个承载者，*即与自身有别的东西*；它自己就能存在。（Regius 1646, 2；斜体短语是 Regius 1654, 3 加上的。）
   - id: 37
     kind: body
     source: |-
