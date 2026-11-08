@@ -269,3 +269,26 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
 
 审定直接命中 1：Occam's razor 奥卡姆剃刀（计算机·机器学习——审定库连这类经典术语都收，覆盖面持续超预期）。学界惯例 7：Pascal's Wager 帕斯卡尔赌注（亦作"帕斯卡赌注"）、Aristotelian categories 亚里士多德范畴、Platonic ideas 柏拉图式理念、Philosophical anthropology 哲学人类学、intelligible forms 可理知形式、intuitive knowledge 直觉知识（审定"良知"命中的中国哲学异域同名不采）、ordinary beings 凡夫（佛教）。泛词清洗 45；mental contents 既登记行同步。三表同步 8 行；manifest tasks/manifests/2026-10-31-phrase-a3.json。check_all 七项全绿。
 **段位结论**：40-60 段 3314 条中泛词占主导（本批 8 词即主要收获），该段余量与更低频段不再整批跑——保持 new 随词条翻译核定，战役重心转向 person 余量与 held 复核。
+
+### 2026-11-08 接管批（TL-main-20261108d）：审计刷新 + 裁定归类 + 重复行合并 + 原文列补批
+
+**审计净额**：`term_audit` 重跑（4441 行：术语 2432 + 人名 2009）→ 一致 257 / 不一致 84 / 查无 526 / 未查证 3574 / 维基 1。较上午 88 条不一致减少 4，系前会话裁定已落册（action quantum→量子作用、affective touch→情感性触摸、care ethics→关怀伦理学、truth value→真值〔亦作真假值〕、imposition 两义行）。
+
+**84 条不一判定案**（全部保留现译，零主译变更）：
+* **模糊池污染 7 行**（命中全为「集体消费理论／净人口再生产率」等无关词条，query 分词失配）：affected ignorance、affectedness、dictum (Abelard)、divine intellect、aesthetic spectator、agent（奥克肖特）——不采，检索无证据力；
+* **跨学科同名 41 行**（审定为机械/医学/经济/印刷等异域词）：accidents→事故、mechanism→机构/机理/机制、quality→质量/品质、integral wholes→整数、imposition→组版/拼大版、warrant→认股权证、Porphyry→斑岩、Galen→含锡石、additive 系列等——哲学语境另有通行译名，保留；
+* **下位词/派生词 21 行**（审定命中较窄或较宽）：care ethics 对 ethics of care、practical knowledge 对「教师实践性知识」、aesthetic experience 对「医学审美经验」、confirmation theory 对「贝叶斯验证理论」、Chinese Room 对「中文屋论证」、external world 对「外观」等——登记册已载「亦作」或注记，保留；
+* **异域文化不采 6 行**：intuitive knowledge 对「良知」（中国哲学）、aretê 对「刃脊」、Dao 对「到」、Laozi 对「老子辩证思想」、Yan Hui 对「孔颜之乐」、Hui Shi 对「会试」——同形异义，不采；
+* **人名音译差异 9 行**：Anaximenes 阿那克西美尼/阿那克西米尼、Theophrastus 特奥弗拉斯托斯/泰奥弗拉斯多、Wolff、Mersenne 等——youdao-aux 辅助档不作变更依据（ADR-0012），保留现译。
+
+**重复行合并 6 组**（`script/merge_dup_1108.py`，幂等，干跑 18 项=实写）：Philip the Chancellor（正形「菲利普校长」，正文 conscience 用形；“校长腓力”降亦作）、Clement of Alexandria（「亚历山大的克莱门」，克雷芒降亦作）、Friedrich Schiller、Friedrich Schleiermacher、Jacques Maritain（正形「雅克·马里坦」；「马里旦」降亦作，废弃占位行删除）、ʿAyn al-Quḍāt（正形「艾因·古达特」，SUMMARY 题名；「艾因·库扎特」降亦作）。另 nominalism/Nominalism 撞键合并（保留大写行，并入 buridan 首译凭证）。ci-hui-biao 八行看齐，**词汇表滞后 8→0**。
+
+**维基违例行修正 1**：Conventuals 依据原引「维基方济各会条」→ 改引张践、田微《世界中世纪宗教史》（明载“住院派（或‘放任派’）”与“守规派”相对），佐证 The Catholic Encyclopedia 条 Order of Friars Minor Conventuals（newadvent）；联网复核 2026-11-08。
+
+**审定库跑批**：offset 24–55 共 4 批 32 词（agent/Agrippa/Akalaṅka 系、Akenside/akrasia/al-Ashʿari 系、al-Nayrīzī…al-uṣūl 系、Alain Enthoven…Albrecht Becker-Freysung 系），ok 29 / empty 2（aitihya、akolouthia）/ error 2（Aizawa Seishisai、Akalaṅka Bhaṭṭa，降级形，待冷却重跑）。凭证入库 `results/queries/termonline-all/`。
+
+**012 原文列补批**（`script/fill_orig_latin_1108.py`、`script/fill_orig_jpkr_1108.py`，皆幂等、只动第 2 列）：告警 202→174。
+* 拉丁字母原名 18 行（机械姓名倒置，证据=键列本体+SEP 书目同形）：Dokic/Gödel/Bruguière/Solère/Maia Neto/Durkheim/Jankélévitch/Jaurès/Lévinas/Ravaisson/Carroll/Durà-Vilà/Kierkegaard/Mosès/Gilson/Wojtyła；术语 dictum、via moderna。
+* 日文 11 行（逐条页内配对）：精舎(祇園精舎)、床の間、媚態（kotobank 大辞泉「び‐たい」）、意地、渋み（Wiktionary 渋い 条同族名词）、派手、地味、漢意（本居宣長条概念栏）、鬼神（kotobank「鬼神（読み）キジン」）、日本人論、大教宣布運動（ja.wikipedia 大教宣布）。
+* 朝鲜 4 行（登记册既有注记）：真興王、김일엽（金一葉）、成渾（牛溪）、韓元震。**首稿曾据汉字推谚文（진흥왕 等），自查违规已回退**——谚文仅保留注记已有者（김일엽），重申 012「禁转写推演」红线。
+* 留队 174 行：阿拉伯/波斯（约 120）、藏文 Wylie（约 35）、梵语（约 12）、希腊（约 7），均需逐词外源页配对，不得映射补齐。

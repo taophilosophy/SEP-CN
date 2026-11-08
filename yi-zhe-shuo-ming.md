@@ -1807,6 +1807,24 @@
 | analogy of many-to-one / one-to-another | — | 多对一类比／一对另一类比 | analogy-medieval 首译 | 学界通行（阿奎那神名学说中的类比类型）；凭证 2026-11-08 | 2026-11-08 |
 | proper proportionality | — | 严格比例（analogia proprie） | analogy-medieval 首译 | 学界通行（卡耶坦术语；与宽松/滥用的类比相对）；凭证 2026-11-08 | 2026-11-08 |
 | prescind / precision | — | 抽象分离（prescindere） | analogy-medieval 首译 | 学界通行（经院抽象理论；abstraction without precision 无分离的抽象）；凭证 2026-11-08 | 2026-11-08 |
+| pantheism controversy | — | 泛神论之争 | august-rehberg 首译 | 学界通行（德国观念论研究）；凭证 2026-11-08 | 2026-11-08 |
+| Ständesstaat | Ständesstaat | 等级国家 | august-rehberg 首译 | 德国史通行（旧等级社会之国；保留德文）；凭证 2026-11-08 | 2026-11-08 |
+| Kleinstaat | Kleinstaat | 小邦国 | august-rehberg 首译 | 德国史通行（保留德文）；凭证 2026-11-08 | 2026-11-08 |
+| Stände | Stände | 等级（邦等级） | august-rehberg 首译 | 德国史通行；凭证 2026-11-08 | 2026-11-08 |
+| Landstandschaft | Landstandschaft | 邦等级权（保留德文） | august-rehberg 首译 | 德国史通行；凭证 2026-11-08 | 2026-11-08 |
+| Elementarphilosophie | Elementarphilosophie | 元素哲学（莱因霍尔德；亦作“基础哲学”） | august-rehberg 首译 | 学界通行；凭证 2026-11-08 | 2026-11-08 |
+| Popularphilosophie | Popularphilosophie | 大众哲学（通俗哲学） | august-rehberg 首译 | 德国启蒙研究通行；凭证 2026-11-08 | 2026-11-08 |
+| physiocracy | — | 重农学派（重农主义） | august-rehberg 首译 | 经济思想史通行；凭证 2026-11-08 | 2026-11-08 |
+| Volksgeist | Volksgeist | 民族精神 | august-rehberg 首译 | 历史主义研究通行；凭证 2026-11-08 | 2026-11-08 |
+| ochlocracy | — | 暴民政治 | august-rehberg 首译 | 政治哲学通行（民众统治的贬义形态）；凭证 2026-11-08 | 2026-11-08 |
+| social contract | — | 社会契约 | august-rehberg 首译 | 政治哲学通行；凭证 2026-11-08 | 2026-11-08 |
+| reform conservatism | — | 改革保守主义 | august-rehberg 首译 | 保守主义研究通行；凭证 2026-11-08 | 2026-11-08 |
+| skepticism | — | 怀疑论 | august-rehberg 首译 | 哲学通行；凭证 2026-11-08 | 2026-11-08 |
+| practical faith | — | 实践信仰 | august-rehberg 首译 | 康德研究通行；凭证 2026-11-08 | 2026-11-08 |
+| salto mortale | salto mortale | 纵身一跃（保留拉丁） | august-rehberg 首译 | 雅可比研究通行；凭证 2026-11-08 | 2026-11-08 |
+| advocatus patriae | advocatus patriae | 祖国辩护士（保留拉丁） | august-rehberg 首译 | 默泽尔研究通行；凭证 2026-11-08 | 2026-11-08 |
+| hyperrationalism | — | 过度理性主义 | august-rehberg 首译 | 构词直译（Rehberg 研究）；凭证 2026-11-08 | 2026-11-08 |
+| Estates General | — | 三级会议 | august-rehberg 首译 | 法国史通行；凭证 2026-11-08 | 2026-11-08 |
 | Torah | — | 托拉 | delmedigo | 学界通行（犹太教经籍；亦作“妥拉”） | 2026-11-06 |
 | Talmud | — | 塔木德 | delmedigo | 学界通行（犹太教经典定译） | 2026-11-06 |
 | Kabbalah | — | 卡巴拉 | delmedigo | 学界通行（犹太神秘主义传统定译） | 2026-11-06 |
