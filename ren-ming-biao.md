@@ -16,6 +16,7 @@
 | Achilles | — | 阿基里斯 | — | — | diodorus-cronus | 学界千年通行汉译（荷马史诗人物，此处为变化的例证载体）；凭证 2026-11-07 | 2026-11-07 |
 | Addams, Jane | — | 简·亚当斯 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Adolf Reinach | — | 阿道夫·莱纳赫 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Aetius | — | 埃提乌斯 | — | — | xenocrates | 学界通行汉译（古代折衷主义哲学家，Placita 编者）；凭证 2026-11-08 | 2026-11-08 |
 | Agathon | — | 阿伽通 | — | — | diodorus-cronus | 学界通行汉译（古希腊悲剧诗人，亚里士多德《尼各马可伦理学》1139b10 所引）；凭证 2026-11-07 | 2026-11-07 |
 | Ahmad, Adil Mustafa | — | 阿迪勒·穆斯塔法·艾哈迈德 | — | — | erotic-art | 学界惯例音译（伊斯兰艺术研究；与 Ahmad, Aijaz 分立） | 2026-11-08 |
 | Ailly, Peter of | — | 阿伊的彼得 | — | — | buridan | 学界通行汉译（15 世纪巴黎神学家）；凭证 2026-11-08 | 2026-11-08 |
@@ -43,6 +44,7 @@
 | Amy Allen | — | 艾米·艾伦 | — | — | 语料回收（全目录） | 学界惯例（批判理论/女性主义）；凭证 2026-11-01 | 2026-11-01 |
 | Anna Julia Cooper | — | 安娜·朱莉娅·库珀 | — | — | alexander-crummell | 学界通行汉译（SUMMARY 定名沿用） | 2026-11-07 |
 | Annette Baier | — | 安内特·拜尔 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Antiochus of Ascalon | — | 阿斯卡隆的安提奥科斯 | — | — | xenocrates | 学界通行汉译（老学园晚期园长，调和学园派与斯多亚派） | 2026-11-08 |
 | Anton Marty | — | 安东·马蒂 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Arago, Dominique François | Dominique François Arago | 阿拉戈 | — | — | duhem | 全名汉译『多米尼克·弗朗索瓦·阿拉戈』，正文简名首现括注；学界惯例（物理学史通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Arama, Isaac | — | 以撒·阿拉马 | — | — | albo-joseph | 犹太哲学史通行音译 | 2026-11-07 |
@@ -129,6 +131,7 @@
 | Carlson, Allen | — | 艾伦·卡尔森 | — | — | environmental-aesthetics | 学界通行汉译（环境美学创立者；SUMMARY 作者行 Allen Carlson） | 2026-11-08 |
 | Christo | — | 克里斯托 | — | — | environmental-aesthetics | 学界通行（大地艺术） | 2026-11-08 |
 | Clark, Kenneth | — | 肯尼思·克拉克 | — | — | erotic-art | 学界通行（艺术史家） | 2026-11-08 |
+| Crantor of Soli | — | 索利的克朗托尔 | — | — | xenocrates | 学界通行汉译（老学园成员，柏拉图注家） | 2026-11-08 |
 | Crawford, Donald | — | 唐纳德·克劳福德 | — | — | environmental-aesthetics | 学界惯例音译（环境美学） | 2026-11-08 |
 | Davidson, Maria | — | 戴维森 | — | — | erotic-art | 学界惯例音译（本词条引用文献作者） | 2026-11-08 |
 | Davies, Stephen | — | 斯蒂芬·戴维斯 | — | — | erotic-art | 学界通行（分析美学） | 2026-11-08 |
@@ -313,6 +316,7 @@
 | Ernst Zermelo | — | 恩斯特·策梅洛 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Eubulides of Miletus | — | 米利都的欧布里德 | — | — | dialectical-school | 学界通行汉译（欧布里德悖论〔说谎者等〕之作者，辩证传统所自出）；凭证 2026-11-07 | 2026-11-07 |
 | Euclides of Megara | — | 麦加拉的欧克里德 | — | — | dialectical-school | 学界通行汉译（麦加拉学派创立者，苏格拉底式对话作者；与几何学家欧几里得译名异人）；凭证 2026-11-07 | 2026-11-07 |
+| Eudorus | — | 欧多鲁 | — | — | xenocrates | 学界通行汉译（公元 1 世纪柏拉图主义者） | 2026-11-08 |
 | Euphantus of Olyntus | — | 奥林托斯的欧凡托斯 | — | — | dialectical-school | 学界通行汉译（欧布里德门生，或为学派最早成员）；凭证 2026-11-07 | 2026-11-07 |
 | Euripides | — | 欧里庇得斯 | — | — | 首现（xenophanes） | 学界通行汉译（悲剧诗人）；凭证 2026-11-07 | 2026-11-07 |
 | Eusebius | — | 优西比乌 | — | — | 首现（timon-phlius） | 学界通行汉译（凯撒利亚主教，《福音准备》作者）；凭证 2026-11-07 | 2026-11-07 |
@@ -379,6 +383,8 @@
 | Henry of Ghent | — | 根特的亨利 | — | — | alyngton | 学界通行汉译（SUMMARY 定名沿用） | 2026-11-06 |
 | Hermann Diels | — | 赫尔曼·第尔斯 | — | — | 语料回收（全目录） | 学界惯例（前苏格拉底残篇编者（DK 本））；凭证 2026-11-01 | 2026-11-01 |
 | Helmholtz, Hermann von | — | 赫尔曼·冯·亥姆霍兹 | — | — | SUMMARY 定名（h/hermann-helmholtz.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-06 | 2026-11-06 |
+| Heraclides of Pontus | — | 本都的赫拉克利德 | — | — | xenocrates | 学界通行汉译（老学园成员，与伊奥尼亚的赫拉克利德异人） | 2026-11-08 |
+| Hermias of Atarneus | — | 阿塔尔纽斯的赫尔米亚斯 | — | — | xenocrates | 学界通行汉译（柏拉图门徒，亚里士多德庇主） | 2026-11-08 |
 | Hermite, Charles | — | 夏尔·埃尔米特 | — | — | duhem | 学界惯例（数学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Herodian | — | 赫罗迪安 | — | — | 首现（xenophanes） | 学界通行汉译（语法学家）；凭证 2026-11-07 | 2026-11-07 |
 | Hervaeus Natalis | — | 埃尔韦·纳塔利 | — | — | auriol | 中世纪多明我会思想研究通行音译 | 2026-11-07 |
@@ -486,6 +492,7 @@
 | Melia, Joseph | — | Joseph Melia（现代学者，保留英文） | — | — | deductivism-mathematics | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Melissus | — | 麦里梭 | — | — | leucippus | 学界通行汉译（爱利亚学派）；待 specs/008 审定库复核 | 2026-11-03 |
 | Antoine Le Grand | — | 安托万·勒·格兰德 | — | — | legrand | SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Menedemus of Pyrrha | — | 皮拉的门内德穆 | — | — | xenocrates | 学界通行汉译（老学园成员） | 2026-11-08 |
 | Menexene | — | 墨涅克塞涅 | — | — | dialectical-school | 学界通行汉译（狄奥多罗斯之女，据称逻辑学家）；凭证 2026-11-07 | 2026-11-07 |
 | Michael Constantine Psellus | — | 米哈伊尔·康斯坦丁·普塞洛斯 | — | — | 首现（william-sherwood） | 学界通行汉译（11 世纪拜占庭学者）；凭证 2026-11-07 | 2026-11-07 |
 | Mill, Harriet Taylor | — | 哈丽雅特·泰勒·密尔 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
@@ -1067,6 +1074,8 @@
 | Horatio | — | 霍雷肖 | 非历史人物（曼德维尔《蜜蜂的寓言，第二部》对话人物） | 不适用 | mandeville | 本词条虚构人物首译（按英语发音音译）；凭证 2026-11-08 | 2026-11-08 |
 | Cleomenes | — | 克莱奥米尼 | 非历史人物（曼德维尔《蜜蜂的寓言，第二部》对话人物） | 不适用 | mandeville | 本词条虚构人物首译（按英语发音音译）；与普鲁塔克传主斯巴达王 Cleomenes 异指；凭证 2026-11-08 | 2026-11-08 |
 | Joyce, James | — | James Joyce | — | — | bayes-theorem | 现代学者保留英文（ADR-0022；决策论与贝叶斯认识论，本词条作者） | 2026-11-08 |
+| Speusippus | — | 斯彪西波 | — | — | xenocrates | 学界通行汉译（柏拉图外甥、学园第二任园长） | 2026-11-08 |
+| Xenocrates | — | 色诺克拉底 | — | — | xenocrates | 学界通行汉译（老学园第三任园长，SEP 词条主名） | 2026-11-08 |
 
 ## 伊斯兰阿拉伯人物（ADR-0013 种子区，2026-10-28）
 

@@ -638,100 +638,136 @@ segments:
     kind: body
     source: |-
       **MF3:** someone is disabled in a context if and only if they experience disability-characteristic oppression because they have marginalized functioning in that context
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **MF3：**某人在某一语境中是残疾人，当且仅当他们在该语境中因具有边缘化功能而经历残疾特有的压迫
+    step2: |-
+      **MF3：**某人在某一语境中是残疾人，当且仅当此人因在该语境中具有边缘化功能而遭受残疾所特有的压迫
   - id: 77
     kind: body
     source: |-
       MF2 solves the problem of temporary conditions by stipulation. This may or may not be good enough here, depending on whether we think temporary conditions (e.g., post-concussion syndrome or pregnancy) can be disabilities. MF3 faces some of the same problems as other social-model-inspired definitions—particularly, that it seems to define disability in terms of a kind of oppression, and therefore in terms of something bad, something that is therefore (arguably) difficult to be proud of or happy about. Further, by requiring that oppression be caused by functioning that *actually* fails to fit going norms and expectations, it does not clearly classify as disabled people who are disadvantaged by *false* perceptions regarding their bodily differences—again, failing to follow the ADA in its well-considered inclusion of people “regarded as”, but not, impaired, in its definition of disability (Francis 2018)[^francis-2018]. It remains to be seen whether the advantages of this definition are great enough to justify excluding such “regarded” as people as disabled.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      MF2 以约定方式解决了暂时状况的问题。这在这里是否足够好，取决于我们是否认为暂时状况（例如脑震荡后综合征或妊娠）可以成为残疾。MF3 面临一些与其他受社会模型启发的定义相同的问题——尤其是：它似乎以某种压迫来定义残疾，因而以某种坏的东西来定义残疾，而坏的东西（可以说）难以令人骄傲或快乐。此外，由于它要求压迫由*实际*不符合现行规范与期待的功能运作所引起，它没有清楚地把那些因关于其身体差异的*虚假*知觉而处于不利的人归类为残疾人——这再次未能遵循 ADA 在其残疾定义中对“被视为”有损伤、但实际并无损伤者的审慎纳入（Francis 2018）[^francis-2018]。这种定义的优点是否大到足以证成把这类“被视为”者排除在残疾人之外，仍有待观察。
+    step2: |-
+      MF2 用约定化解了暂时状况的难题。这是否足够，取决于我们是否认为暂时状况（如脑震荡后综合征或妊娠）也能算残疾。MF3 则面临其他受社会模型启发的定义所共有的某些问题——尤其是：它似乎用某种压迫来定义残疾，因而用某种坏东西来定义残疾；坏东西（大概）总难让人骄傲或快乐。而且，由于它要求压迫必由*实际*不合现行规范与期待的功能运作所引起，对于那些因关于自身身体差异的*虚假*看法而处于不利的人，它就没有明确归为残疾人——这又一次没有跟随 ADA：后者在残疾定义中审慎地纳入了“被视为”有损伤、而实际并未损伤的人（Francis 2018）[^francis-2018]。这种定义的好处是否大到足以证成把这类“被视为”者排除在外，尚待观察。
   - id: 78
     kind: body
     source: |-
       #### 2.2.4 Inability Views
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 2.2.4 能力缺失观
+    step2: |-
+      #### 2.2.4 能力缺失观
   - id: 79
     kind: body
     source: |-
       In their influential book *From Chance to Choice*, Buchanan, Brock, Daniels, and Wikler (2000) propose the following definition, meant as an explication of the legal and policy decisions considered above.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在影响广泛的《从偶然到选择》一书中，布坎南、布罗克、丹尼尔斯与维克勒（Buchanan, Brock, Daniels, and Wikler 2000）提出如下定义，意在阐释上文讨论的法律与政策决定。
+    step2: |-
+      在影响甚广的《从偶然到选择》中，布坎南、布罗克、丹尼尔斯与维克勒（2000）提出下述定义，用意是阐明上文所考察的法律与政策决定。
   - id: 80
     kind: body
     source: |-
       > To have a disability is to be unable to perform some significant range of tasks or functions that individuals in someone’s reference group (e.g., adults) are ordinarily able to do, at least under favorable conditions, where the inability is not due to simple and easily corrigible ignorance or to lack of the tools or means ordinarily available for performing such tasks or functions. (2000: 286)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 有残疾，就是无法完成某人在其参照群体（例如成年人）中通常能够完成的某一重要范围的任务或功能，至少在有利条件下如此；并且这种无法完成并非由于简单而易纠正的无知，也不是由于缺少通常可用于完成此类任务或功能的工具或手段。（2000: 286）
+    step2: |-
+      > 拥有残疾，意味着无法完成某人的参照群体（如成年人）通常能够完成的某一重要范围的任务或功能——至少在有利条件下如此；而且，这种不能并非源于简单且易于纠正的无知，也不是因为缺少通常可用于完成这些任务或功能的工具或手段。（2000: 286）
   - id: 81
     kind: body
     source: |-
       This defines disability colloquially, in terms of ability; disability is, roughly, an unusual inability. Barnes and others object, however, that this definition is too broad. It seems to make it the case, for instance, that someone who cannot “roll their tongue” or do mental subtraction is disabled; since most people can do this under favorable conditions. Conversely, this sort of view also seems to undergenerate disabilities, since some (fibromyalgia or depression for instance), only make it more difficult to do things, without making any particular task or function straightforwardly unachievable. And it is not entirely clear how this account avoids the obviously problematic implication that identity categories like race, gender, and sexual orientation imply disability; someone subject to social prejudice in virtue of their gender or the color of their skin might be, for that reason, unable to do things others can do.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一定义用能力来通俗地界定残疾；残疾大致上是一种不寻常的无能力。然而巴恩斯等人反对说，这一定义过宽。例如，它似乎使不能“卷舌”或不能做心算的人成为残疾人，因为多数人在有利条件下都能做到这些。反过来，这类看法似乎也生成不足：有些状况（例如纤维肌痛或抑郁）只是使做事更困难，却并未使任何特定任务或功能径直无法完成。而且，这一定义如何避免那个显然成问题的蕴含，即种族、性别与性取向这类身份范畴蕴含残疾，也不完全清楚；某人可能因其性别或肤色而遭受社会偏见，并因此无法做别人能做的事。
+    step2: |-
+      这一定义以能力为准，通俗地界定残疾：残疾大致上就是一种不同寻常的无能力。但巴恩斯等人反驳说，这一定义太宽。比如，它似乎会让不能“卷舌”、不会心算的人也成为残疾人，因为多数人在有利条件下都做得到。反过来，这类看法又会少生成残疾——有些状况（如纤维肌痛或抑郁）只是让做事更费劲，并没有使哪项特定任务或功能径直变得无法完成。再者，这一定义究竟如何避开那个明显有问题的蕴含——种族、性别、性取向这类身份范畴也蕴含残疾——并不完全清楚：一个人可能因其性别或肤色而遭受社会偏见，并因此做不了别人能做的事。
   - id: 82
     kind: body
     source: |-
       Alex Gregory (2020) takes a different approach to defining disability in terms of inability:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Alex Gregory（2020）采取另一种进路，用无能力来定义残疾：
+    step2: |-
+      Alex Gregory（2020）则另辟蹊径，仍从能力缺失入手定义残疾：
   - id: 83
     kind: body
     source: |-
       > The Inability Theory: To be disabled is to be less able to do something than is typical, where this degree of inability is partly explained by features of your body that are atypical. (2020: 26)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 能力缺失理论：有残疾，就是做某事的能力低于典型水平，而这种程度的能力缺失部分地由你身体中非典型的特征所解释。（2020: 26）
+    step2: |-
+      > 能力缺失理论：所谓有残疾，即做某件事的能力低于典型水平，而这一程度的能力缺失，部分地可由你身上非典型的身体特征得到解释。（2020: 26）
   - id: 84
     kind: body
     source: |-
       This definition of disability brings the body into the definition, but it is meant to be neutral between more-medical and more-social ways of seeing disability. “Atypical” features need not be “abnormal” in a medicalizing sense; they are simply different, not necessarily worse. To say that an inability that comes to disability must be at least partly explained by bodily features is consistent, both, with saying that it is entirely explained by them (a la the medical model) and that it is also partly explained by social factors. This in itself rejects the medical model as a general claim, as well as the less nuanced statements of the social model, that would definitionally exclude non-social inabilities from the ambit of “disability”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一定义把身体带入残疾定义，但它意在在对残疾的更医学看法与更社会看法之间保持中立。“非典型”特征不必是医学化意义上的“异常”；它们只是不同，未必更糟。说导致残疾的能力缺失必须至少部分地由身体特征来解释，这既与说它完全由身体特征解释（医学模型的路数）相容，也与说它还部分地由社会因素解释相容。这本身就拒绝了作为一般主张的医学模型，也拒绝了社会模型中那些较不细致的表述——后者会从定义上把非社会性的能力缺失排除在“残疾”的范围之外。
+    step2: |-
+      这一定义把身体纳入残疾定义，却立意在对残疾的偏医学看法与偏社会看法之间保持中立。“非典型”特征不必是医学化意义上的“异常”；它们只是有所不同，未必更糟。说导致残疾的能力缺失至少须部分地由身体特征来解释，这既容得下“它完全由身体特征解释”（医学模型的路数），也容得下“它同时也部分地由社会因素解释”。仅此一点，就否定了作为一般主张的医学模型，也否定了社会模型中那些不够细致的表述——按后者，非社会性的能力缺失会被从定义上排除在“残疾”范围之外。
   - id: 85
     kind: body
     source: |-
       The initial statement of the Inability Theory would still seem to be overinclusive; someone who cannot get a good job because of the color of their skin, or marry the person they love because of their sexual orientation, has an atypical inability explained by an atypical bodily feature. To rule these cases out, Gregory moves to:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      能力缺失理论的最初表述仍似乎过于宽泛；某人因肤色而无法找到好工作，或因性取向而无法与自己爱的人结婚，都具有一种由非典型身体特征所解释的非典型能力缺失。为排除这些情形，Gregory 转向：
+    step2: |-
+      能力缺失理论的最初表述看来仍然失之过宽：有人因肤色找不到好工作，或因性取向而娶不了、嫁不了自己爱的人，这确是一种非典型的能力缺失，且可由非典型的身体特征来解释。为把这些情形排除掉，Gregory 转而提出：
   - id: 86
     kind: body
     source: |-
       > The Final Inability Theory: To be disabled is to be less able to do something than is typical, where this degree of inability (1) is partly explained by features of your body that are atypical, and (2) is not explained by anyone’s attitudes toward those bodily features. (2020: 33)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 最终能力缺失理论：有残疾，就是做某事的能力低于典型水平，而这种程度的能力缺失 (1) 部分地由你身体中非典型的特征所解释，并且 (2) 不由任何人针对那些身体特征的态度所解释。（2020: 33）
+    step2: |-
+      > 最终版能力缺失理论：所谓有残疾，即做某件事的能力低于典型水平，且这一程度的能力缺失 (1) 部分地可由你身上非典型的身体特征得到解释，(2) 不能由任何人针对这些身体特征的态度得到解释。（2020: 33）
   - id: 87
     kind: body
     source: |-
       This does plausibly avoid the problem of classifying sexual and racialized minorities at least as disabled; any inability engendered by color of skin is explained entirely by prejudicial attitudes. (Or so it may seem; more below). But in the process it also raises a recurring problem—where an atypical feature is only inability-generating because of attitudes *specifically about whether it is inability-generating*. If people think that people with, say, Down syndrome, cannot benefit from education, they will not be educated; when they do not develop the skills they could have developed, that lack of skill is, then, explained by a combination of atypical bodily features and attitudes towards those features. It can seem plausible to say, with the ADA, that discrimination rooted in a pathologized understanding of a trait *is* a kind of disability discrimination.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这确实有望避免把性与种族少数群体至少归类为残疾人的问题；任何由肤色造成的能力缺失，都完全可以由偏见态度来解释。（至少看起来如此；详见下文。）但在此过程中，它也引出一个反复出现的问题：某个非典型特征之所以造成能力缺失，恰恰是因为人们*专门针对它是否造成能力缺失*所持的态度。如果人们认为，比如说，唐氏综合征患者无法从教育中受益，他们就不会让其接受教育；当他们未能发展出本可发展的技能时，这种技能缺失便由非典型身体特征与对这些特征的态度共同解释。与 ADA 一样说植根于对某一特征病理化理解的歧视*就是*一种残疾歧视，似乎也说得通。
+    step2: |-
+      这确实有望避开把性与种族少数群体至少也归为残疾人的问题；凡由肤色造成的能力缺失，都可以完全用偏见态度来解释。（至少看上去如此；详见下文。）然而这样做，也带出一个屡见不鲜的难题：某个非典型特征之所以造成能力缺失，恰恰是因为人们*专门针对它是否造成能力缺失*所持的态度。倘若人们认为，比如唐氏综合征患者无法从教育中受益，他们就不会让这些人受教育；而当他们没能发展出本可发展的技能时，这种技能缺失便由非典型身体特征以及针对这些特征的态度合力解释。于是，像 ADA 那样主张植根于对某一特征病理化理解的歧视*就是*一种残疾歧视，看来也说得通。
   - id: 88
     kind: body
     source: |-
       Moreover, this analysis also raises some of the same concerns as those Barnes and others pressed against Buchanan *et alia*’s explication of disability as biologically abnormal limitation. For here even more than there it seemed like not every limitation on ability, not even every one explained by atypicality or abnormality, is a disability properly-so-called. Gregory, however, has a novel response here—insisting that these are, really, disabilities, but just not normally worth calling attention to as “disabilities”, since the aptness of this ascription in conversational context depends on the significance of the abilities at issue.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，这一分析也引出一些与巴恩斯等人针对布坎南等人把残疾阐释为生物学异常限制所提出的相同的担忧。因为在这里甚至比在那里更显得：并非每一种能力限制，甚至并非每一种由非典型性或异常所解释的能力限制，都是名副其实的残疾。然而 Gregory 在此有一个新颖的回应——他坚持认为，这些确实是残疾，只是通常不值得作为“残疾”来提请注意，因为这一归派在会话语境中是否恰当，取决于所涉能力的重要性。
+    step2: |-
+      再者，这一分析也引出一些担忧，与巴恩斯等人当初针对布坎南等人把残疾阐释为生物学上的异常限制所提的担忧相同。因为在这里比在那里更显得：并非每一种能力限制，甚至并非每一种可由非典型性或异常来解释的能力限制，都是名副其实的残疾。不过 Gregory 对此有一个新奇的回应——他坚称这些确实都是残疾，只是通常不值得当作“残疾”来提请注意，因为这一称谓在会话语境中是否恰当，取决于所涉能力有多重要。
   - id: 89
     kind: body
     source: |-
       This proposal raises other problems, however. Recall race and sexual orientation. A person with light-colored skin cannot work in even relatively moderate sun all day without getting a sunburn. Someone with exclusively same-sex orientation cannot have procreative sex with someone for whom they have romantic and sexual feelings. These are inabilities explained by bodily difference, not by attitudes, and they are not insignificant or trivial ones: yet it seems they are not disabilities, not even a little bit.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而这一提议引出其他问题。回想种族与性取向。肤色浅的人哪怕在相对温和的阳光下工作一整天，也会晒伤。只对同性有性取向的人，无法与自己怀有浪漫与性情感的人进行生育性行为。这些都是由身体差异、而非由态度所解释的能力缺失，而且并非微不足道或琐碎：然而它们似乎不是残疾，一点也不算。
+    step2: |-
+      然而，这一提议又引出别的问题。不妨回想种族与性取向。肤色浅的人在哪怕相当温和的日光下干一整天活，也会晒伤。只对同性有性取向的人，无法与自己怀有爱慕与性情感的人发生生育性行为。这些能力缺失由身体差异而非态度来解释，而且并非无关紧要、琐碎小事：可它们似乎并不是残疾，一点也不算。
   - id: 90
     kind: body
     source: |-
       Why not? The social constructionist views considered above would give one kind of answer—pointing to the facts that (depending on the view):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为什么不算？上文考察的社会建构论看法会给出一种回答——指向如下事实（视具体看法而定）：
+    step2: |-
+      为什么不算？上文考察过的社会建构论看法会给出一种答案，即诉诸如下事实（取决于采用的是哪一种看法）：
   - id: 91
     kind: body
     source: |-
       1. the disability rights movement is rationally unconcerned with properties like race and orientation; or
       2. that race and orientation are not targeted by *ableist* ideology for exclusion and stigmatization; or
       3. that our actual social norms do not marginalize these configurations of bodily function, in the way they marginalize paradigm impairments.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 残疾权利运动在理性上不关心种族与性取向之类的属性；或
+      2. 种族与性取向并非*能力主义*意识形态排斥与污名化的目标；或
+      3. 我们实际的社会规范并不像边缘化典型损伤那样，边缘化这些身体功能配置。
+    step2: |-
+      1. 残疾权利运动有理由不关心种族、性取向这类属性；或
+      2. 种族与性取向并不是*能力主义*意识形态所要排斥与污名化的对象；或
+      3. 我们实际的社会规范并不像对待典型损伤那样，把这类身体功能配置边缘化。
   - id: 92
     kind: body
     source: |-

@@ -627,10 +627,13 @@
 | contextualism | — | 语境主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | Critical Theory | — | 批判理论 | 语料回收（标题词） | 审定名词库（termonline-all·自然辩证法·科学哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | Dao | 道 | 道 | 语料回收（中文哲学词条群） | 学界惯例（拼音与汉字对应）；审定命中为跨学科同名不采（凭证 2026-10-30） | 2026-10-30 |
+| daimon | — | 精灵 | xenocrates | 学界通行（希腊宗教中介于神与人之间者；daimonion 亦译“神明”） | 2026-11-08 |
 | deflationary | — | 紧缩（与既有 deflationism=紧缩论 对齐） | 首现（abelard） | 分析哲学文献通行译法；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | dharma | धर्म | 法（佛教语境；亦作“达摩”） | 语料回收 | 学界惯例（佛典译语）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | Dasein | Dasein | 此在（海德格尔；亦作“缘在”） | 语料回收 | 学界惯例（海德格尔《存在与时间》陈嘉映译本）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Darwinism | — | 达尔文主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
+| Form-Number | — | 形式数 | xenocrates | 亚里士多德转述柏拉图派“型相即数”的学界通行译法（亦作“理念数”） | 2026-11-08 |
+| Indefinite Dyad | — | 不定的二 | xenocrates | 学界通行（柏拉图派形而上学本原，the One 之对；亦作“不定之二”） | 2026-11-08 |
 | deductive system | — | 演绎系统 | 语料回收（logic-classical） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | denumerably infinite | — | 可数无穷 | 语料回收（set-theory） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
 | determinism | — | 决定论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -682,6 +685,7 @@
 | Four Dimensionalism | — | 四维主义 | 语料回收（标题词） | 学界惯例（形而上学通行）；审定库无相关命中（凭证 2026-11-01） | 2026-11-01 |
 | free speech | — | 言论自由 | 语料回收（academic-freedom） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | Freedom | — | 自由 | 语料回收（标题词） | 审定名词库（termonline-all·自由在案，2026-10-31 浏览器通道凭证）；学界通行同形 | 2026-10-31 |
+| doxography | — | 学说汇编 | xenocrates | 学界通行（doxographical source 学说汇编性材料；“古代哲学学说史”为词条名） | 2026-11-08 |
 | free variables | — | 自由变元 | 语料回收（logic-classical） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | functionalism | — | 功能主义 | 语料回收（全目录） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | gauge freedom | — | 规范自由度 | spacetime-holearg | A 档（学界通行译名） | 2026-10-28 |
@@ -833,6 +837,7 @@
 | Public Justification | — | 公共证成 | 语料回收（标题词） | 学界惯例（政治哲学（罗尔斯谱系）通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Pure Land | — | 净土（佛教） | 语料回收（标题词） | 学界惯例（佛教学通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Pythagoreanism | — | 毕达哥拉斯主义 | 语料回收（alcmaeon/arcesilaus） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
+| indivisible lines | — | 不可分线 | xenocrates | 学界通行（SEP On Indivisible Lines 通行译名） | 2026-11-08 |
 | qi | 氣 | 气（拼音转写，汉字即译名） | 语料回收（中文哲学词条群） | 学界惯例；审定命中为中医药域同名不采（凭证 2026-10-30） | 2026-10-30 |
 | quantum mechanics | — | 量子力学 | 语料回收（bell-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | quantum state | — | 量子态 | 语料回收 | 审定名词库（termonline-all·物理学名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
@@ -1119,6 +1124,7 @@
 | Covenant on Economic, Social and Cultural Rights | — | 《经济、社会及文化权利国际公约》 | s/sovereignty 首译 | 联合国官方中译；凭证 2026-11-07 | 2026-11-07 |
 | European Convention for the Protection of Human Rights and Fundamental Freedoms | — | 《保护人权与基本自由公约》 | s/sovereignty 首译 | 学界通行译名（欧洲人权公约正式名，国际法通行）；凭证 2026-11-07 | 2026-11-07 |
 | European Coal and Steel Community | — | 欧洲煤钢共同体 | s/sovereignty 首译 | 学界通行译名（欧洲研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| epistemonic logos | — | 知识性逻各斯 | xenocrates | 学界惯例直译（希腊文 epistemonikos logos，“认知的说明”） | 2026-11-08 |
 | social procedures | — | 社会程序 | s/social-procedures 首译（标题词） | 学界通行译名；SUMMARY 定名“社会程序的形式化进路”；凭证 2026-11-07 | 2026-11-07 |
 | social software | — | 社会软件 | s/social-procedures 首译 | 学界通行译法（Parikh 2002 术语，社会软件研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | algorithm | — | 算法 | s/social-procedures 首译 | 审定名词（计算机科学技术名词）；凭证 2026-11-07 | 2026-11-07 |
@@ -1201,6 +1207,7 @@
 | ideal observer | — | 理想观察者 | conscience 首译 | 学界通行（元伦理学）；凭证 2026-11-08 | 2026-11-08 |
 | Super-Ego | — | 超我 | conscience 首译 | 精神分析通行（弗洛伊德术语）；凭证 2026-11-08 | 2026-11-08 |
 | faculty | — | 官能 | conscience 首译 | 学界通行（faculty psychology 官能心理学）；凭证 2026-11-08 | 2026-11-08 |
+| unwritten doctrines | — | 口传学说 | xenocrates | 学界通行（柏拉图“未成文学说”；亦作“不成文学说”） | 2026-11-08 |
 ## 伊斯兰阿拉伯术语（ADR-0013 种子区，2026-10-28）
 
 > 译名优先取中国伊斯兰研究界与哲学史通行译法；知网系查证凭证存 specs/008-terminology-campaign/results/queries/（GB 标准库通常无收录，依据档位如实标注）。
