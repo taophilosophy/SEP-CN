@@ -861,160 +861,216 @@ segments:
     kind: body
     source: |-
       From Brentano’s point of view, Kant commits the same mistake as St. Thomas. He too tries to make existential judgements agree with the traditional view that every judgement is a combination of representations. To fit into Kant’s category of synthetic judgement, the existential judgement that God exists must add something to the concept of God. “This is,” remarks Brentano, “an unclear and contradictory semi-truth” (PES 211 [II 54; SVS 1, 234]; translation improved).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在布伦塔诺看来，康德犯了与圣托马斯相同的错误。他也试图让存在判断符合传统观点——每个判断都是诸表象的结合。要纳入康德的“综合判断”范畴，“上帝存在”这一存在判断就必须给“上帝”概念增添些什么。布伦塔诺评论道：“这是一种含混而自相矛盾的半真理”（PES 211 [II 54; SVS 1, 234]；译文有改进）。
+    step2: |-
+      在布伦塔诺看来，康德犯了与圣托马斯相同的错误。他也试图让存在判断符合传统观点——每个判断都是诸表象的结合。要纳入康德的“综合判断”范畴，“上帝存在”这一存在判断就必须给“上帝”概念增添些什么。布伦塔诺评论道：“这是一种含混而自相矛盾的半真理”（PES 211 [II 54; SVS 1, 234]；译文有改进）。
   - id: 106
     kind: body
     source: |-
       Kant may be forgiven his oversight, if one realizes how many logicians followed his path and found it equally incomprehensible to reach the position that Brentano advocates. A telling example of such incomprehension is provided by John Stuart Mill in his letter to Brentano:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德的疏忽或许可以原谅——只要人们意识到有多少逻辑学家走上他的道路，并且同样觉得布伦塔诺所主张的立场不可理解。约翰·斯图尔特·穆勒在给布伦塔诺的信中，就提供了一个说明这种不理解的显例：
+    step2: |-
+      康德的疏忽或许可以原谅——只要人们意识到有多少逻辑学家走上他的道路，并且同样觉得布伦塔诺所主张的立场不可理解。约翰·斯图尔特·穆勒在给布伦塔诺的信中，就提供了一个说明这种不理解的显例：
   - id: 107
     kind: body
     source: |-
       > 1. I agree with you that Belief is the essential constituent in a Differentia of judgment, and that the putting together of two ideas is merely a prerequisite or antecedent condition.
       >
       > 2. I cannot, however, think that one idea is a sufficient prerequisite for a judgment. I cannot see how there can be Belief without both a subject and a predicate. If you say that the idea of an elephant suffices for belief in an elephant, belief in an elephant can only mean belief that there is such a thing as an elephant—that an elephant exists: or, in other words, that under some circumstances, and in some place known or unknown, I should perceive by my senses a thing answering the definition of an elephant. Now this, which is the truth really believed, is a fact, in two terms, not in one only.[^note-15] (Mill 1872 [1972: 1928–9])[^mill-1872]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 1. 我同意你的看法：信念是判断的种差中的本质构成要素，而把两个观念放在一起，仅是先行条件或前提。
+      >
+      > 2. 然而，我无法认为一个观念就足以充当判断的前提。我看不出，若没有主词和谓词，如何可能有信念。如果你说“大象的观念”足以构成“对一头大象的信念”，那么对一头大象的信念只可能意味着这样一个信念：存在着大象这种东西——即大象存在；换言之，在某些情况下、在某个已知或未知的地点，我会通过感官知觉到符合“大象”定义的东西。而这里真正被相信的真理，是一个包含两个词项的事实，而不只包含一个词项。[^note-15]（Mill 1872 [1972: 1928–9]）[^mill-1872]
+    step2: |-
+      > 1. 我同意你的看法：信念是判断的种差中的本质构成要素，而把两个观念放在一起，仅是先行条件或前提。
+      >
+      > 2. 然而，我无法认为一个观念就足以充当判断的前提。我看不出，若没有主词和谓词，如何可能有信念。如果你说“大象的观念”足以构成“对一头大象的信念”，那么对一头大象的信念只可能意味着这样一个信念：存在着大象这种东西——即大象存在；换言之，在某些情况下、在某个已知或未知的地点，我会通过感官知觉到符合“大象”定义的东西。而这里真正被相信的真理，是一个包含两个词项的事实，而不只包含一个词项。[^note-15]（Mill 1872 [1972: 1928–9]）[^mill-1872]
   - id: 108
     kind: body
     source: |-
       The one philosopher that came closest to Brentano’s view on judgement was Johann Friedrich Herbart.[^note-16] Herbart does not try to assimilate existential and so-called “subjectless” statements (“It rains”) to categorical one’s of the form “*S* is *P*”.[^note-17] And he takes “is” in “God is” to be the sign of “absolute positing” (*unbedingte Aufstellung*) (Herbart 1813: 49)[^herbart-1813]. While Brentano praises Herbart for holding this view, he does not pick up his terminology, expecting little insight from the associations it encourages.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最接近布伦塔诺判断观的哲学家是约翰·弗里德里希·赫尔巴特。[^note-16] 赫尔巴特并不试图把存在陈述与所谓“无主语句”（“下雨了”）归并到“*S* 是 *P*”形式的直言命题中去。[^note-17] 并且，他认为“上帝存在”中的“是”是“绝对设定”（*unbedingte Aufstellung*）的记号（Herbart 1813: 49）[^herbart-1813]。布伦塔诺赞赏赫尔巴特持有这一观点，却没有采用他的术语，因为他不指望那些术语所唤起的联想能带来什么洞见。
+    step2: |-
+      最接近布伦塔诺判断观的哲学家是约翰·弗里德里希·赫尔巴特。[^note-16] 赫尔巴特并不试图把存在陈述与所谓“无主语句”（“下雨了”）归并到“*S* 是 *P*”形式的直言命题中去。[^note-17] 并且，他认为“上帝存在”中的“是”是“绝对设定”（*unbedingte Aufstellung*）的记号（Herbart 1813: 49）[^herbart-1813]。布伦塔诺赞赏赫尔巴特持有这一观点，却没有采用他的术语，因为他不指望那些术语所唤起的联想能带来什么洞见。
   - id: 109
     kind: body
     source: |-
       These comparisons are not only historically instructive. They give us a good sense of how radical Brentano’s position really is. It is radical in its demand that a theory of judgement must accommodate and not explain away existential judgements. And it is even more radical in its refusal to make existential judgements satisfy any version of the view of judging as a combinatory or synthetic act, which would nicely fit with the correspondence theory of truth. In refusing to take this step that most philosophers considered to be inevitable, Brentano put a heavy burden on a theory of judgement that tries to give a uniform account of existential and subjectless judgements as well as categorical judgements. Brentano thought that he can pull off this trick by turning the traditional approach to this problem inside out: instead of trying to show that in fact all judgements are categorical ones, he tries to show that all judgements are existential. If all judgements are reducible to existential ones, no judgement applies a property or concept to an object. That may sound ludicrous, but it is the only alternative left, unless one is willing to sacrifice the goal of giving a uniform account of judgement as a distinct mental category.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些比较不仅具有历史教益。它们还让我们真切地感到布伦塔诺的立场何其激进。其激进之处在于：它要求判断理论必须容纳存在判断，而不能把它们解释掉。更激进的是：它拒绝让存在判断去满足任何一种“判断即组合或综合行为”的观点——那种观点恰好与真理符合论相合。布伦塔诺拒绝迈出多数哲学家认为不可避免的这一歩，于是给一种力图统一说明存在判断、无主语判断与直言判断的判断理论加上了沉重负担。布伦塔诺认为，他可以通过把传统进路颠倒过来完成这一绝技：不是设法表明一切判断其实都是直言判断，而是设法表明一切判断都是存在判断。如果一切判断都可还原为存在判断，那么就没有任何判断把性质或概念应用于对象。这听起来或许荒谬，但它是唯一剩下的选择——除非人们愿意牺牲“把判断作为独特心理范畴加以统一说明”这一目标。
+    step2: |-
+      这些比较不仅具有历史教益。它们还让我们真切地感到布伦塔诺的立场何其激进。其激进之处在于：它要求判断理论必须容纳存在判断，而不能把它们解释掉。更激进的是：它拒绝让存在判断去满足任何一种“判断即组合或综合行为”的观点——那种观点恰好与真理符合论相合。布伦塔诺拒绝迈出多数哲学家认为不可避免的这一歩，于是给一种力图统一说明存在判断、无主语判断与直言判断的判断理论加上了沉重负担。布伦塔诺认为，他可以通过把传统进路颠倒过来完成这一绝技：不是设法表明一切判断其实都是直言判断，而是设法表明一切判断都是存在判断。如果一切判断都可还原为存在判断，那么就没有任何判断把性质或概念应用于对象。这听起来或许荒谬，但它是唯一剩下的选择——除非人们愿意牺牲“把判断作为独特心理范畴加以统一说明”这一目标。
   - id: 110
     kind: body
     source: |-
       ## 3. Brentano’s Argument from Perception
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 布伦塔诺的知觉论证
+    step2: |-
+      ## 3 布伦塔诺的知觉论证
   - id: 111
     kind: body
     source: |-
       We have now introduced the idea that animates Brentano’s theory of judgement: predication is one thing, judgement another. We have seen which views inspired Brentano to disentangle judgement and predication. However, so far we lack a reason to follow Brentano’s lead. How can he convince his readers that predication is not necessary for judgement, since we already judge when we merely acknowledge or reject an object?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在我们已经引入了推动布伦塔诺判断理论的那个想法：述谓是一回事，判断是另一回事。我们也看到了哪些观点启发了布伦塔诺把判断与述谓分开。然而，迄今我们还没有理由追随布伦塔诺。既然我们在仅仅承认或拒绝一个对象时就已经在判断，他如何能让读者相信述谓对判断并非必要？
+    step2: |-
+      现在我们已经引入了推动布伦塔诺判断理论的那个想法：述谓是一回事，判断是另一回事。我们也看到了哪些观点启发了布伦塔诺把判断与述谓分开。然而，迄今我们还没有理由追随布伦塔诺。既然我们在仅仅承认或拒绝一个对象时就已经在判断，他如何能让读者相信述谓对判断并非必要？
   - id: 112
     kind: body
     source: |-
       Sometimes Brentano simply trusts his readers to agree with him if they pay sufficient attention to their own judgements and compare them with, for example, presentations. Consider, for instance, the following passage from the opening section of Brentano’s discussion of judgement in PES:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有时，布伦塔诺只是指望读者充分留意自己的判断，并把它们与表象等加以比较，从而同意他的看法。例如，请看 PES 中布伦塔诺论判断的开篇一节中的下面一段：
+    step2: |-
+      有时，布伦塔诺只是指望读者充分留意自己的判断，并把它们与表象等加以比较，从而同意他的看法。例如，请看 PES 中布伦塔诺论判断的开篇一节中的下面一段：
   - id: 113
     kind: body
     source: |-
       > It is […] true that nothing is an object of judgement which is not an object of presentation, and we maintain that when the object of presentation becomes the object of an affirmative or negative judgement, our consciousness enters into a completely new kind of relationship with the object. […] *This, we maintain, is revealed clearly to us by inner perception and the attentive observation of the phenomena of judgement in memory*. (PES 201 [II 38–9; SVS 1, 223, emphasis added)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 诚然，凡不是表象对象的东西，都不是判断的对象；而我们主张，当表象的对象成为肯定判断或否定判断的对象时，我们的意识与该对象进入了一种全新的关系。[…] **我们主张，这一点由内知觉以及对记忆中判断现象的专注观察清楚地向我们揭示出来**。（PES 201 [II 38–9; SVS 1, 223]；强调为引者所加）
+    step2: |-
+      > 诚然，凡不是表象对象的东西，都不是判断的对象；而我们主张，当表象的对象成为肯定判断或否定判断的对象时，我们的意识与该对象进入了一种全新的关系。[…] **我们主张，这一点由内知觉以及对记忆中判断现象的专注观察清楚地向我们揭示出来**。（PES 201 [II 38–9; SVS 1, 223]；强调为引者所加）
   - id: 114
     kind: body
     source: |-
       So, if we are able to episodically remember judging something, we can come to know that the same object given in a presentation can be acknowledged or rejected in judgement and that acknowledging and rejecting are distinct in kind from presentation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，如果我们能够情节性地记得自己判断过某事，我们便能认识到：表象所给出的同一对象可以在判断中被承认或拒绝，而承认与拒绝在种类上有别于表象。
+    step2: |-
+      因此，如果我们能够情节性地记得自己判断过某事，我们便能认识到：表象所给出的同一对象可以在判断中被承认或拒绝，而承认与拒绝在种类上有别于表象。
   - id: 115
     kind: body
     source: |-
       But merely encouraging a philosopher who is in the grip of the idea that judging is predication to pay more attention when recalling his judgements will not yield the intended results. Is there an argument that will establish Brentano’s view on the basis of uncontroversial premises? Brentano thinks there is an argument that is based on premises his opponents find compelling:[^note-18]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但是，仅仅鼓励一位被“判断即述谓”观念支配的哲学家在回忆自己的判断时多加留意，并不会产生预期效果。是否存在一个以无争议前提为基础、能确立布伦塔诺观点的论证？布伦塔诺认为有，而且其前提连他的对手也会觉得有说服力：[^note-18]
+    step2: |-
+      但是，仅仅鼓励一位被“判断即述谓”观念支配的哲学家在回忆自己的判断时多加留意，并不会产生预期效果。是否存在一个以无争议前提为基础、能确立布伦塔诺观点的论证？布伦塔诺认为有，而且其前提连他的对手也会觉得有说服力：[^note-18]
   - id: 116
     kind: body
     source: |-
       > That predication is not the essence of every judgement emerges quite clearly from the fact that all perceptions are judgements. For it [perception] is either knowledge [*Erkenntnis*] or at least a mistaken taking to be true [*Fürwahrnehmen*]. And this is not denied by those thinkers who hold that every judgement consists in a conjunction of subject and predicate. […] [I]t is hard to think of anything more obvious and unmistakable than the fact that a perception is not a [connection] of a concept of the subject and a concept of a predicate, nor does it refer to such a connection. Rather, the object of an *inner* perception is simply a mental phenomenon, and the object of an *external* perception is simply a physical phenomenon, a sound, odor, or the like. We have here, then, a quite obvious justification of the truth of our assertion. (PES 209 [II 50–51; SVS 1, 232], translation changed.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 述谓并非每个判断的本质，这一点从“一切知觉都是判断”这一事实中相当清楚地显露出来。因为知觉〔它〕要么是知识〔*Erkenntnis*〕，要么至少是一种错误的视为真〔*Fürwahrnehmen*〕。而这一点，那些主张每个判断都由主词与谓词结合而成的思想家也并不否认。[…] 很难想象还有什么比下述事实更明显、更无可置疑：知觉不是主词概念与谓词概念的〔联结〕，也不指向这样的联结。相反，**内**知觉的对象只是一个心理现象，而**外**知觉的对象只是一个物理现象，如声音、气味之类。因此，我们在这里有了一个相当明显的根据，足以证明我们主张的真理性。（PES 209 [II 50–51; SVS 1, 232]，译文有改动）
+    step2: |-
+      > 述谓并非每个判断的本质，这一点从“一切知觉都是判断”这一事实中相当清楚地显露出来。因为知觉〔它〕要么是知识〔*Erkenntnis*〕，要么至少是一种错误的视为真〔*Fürwahrnehmen*〕。而这一点，那些主张每个判断都由主词与谓词结合而成的思想家也并不否认。[…] 很难想象还有什么比下述事实更明显、更无可置疑：知觉不是主词概念与谓词概念的〔联结〕，也不指向这样的联结。相反，**内**知觉的对象只是一个心理现象，而**外**知觉的对象只是一个物理现象，如声音、气味之类。因此，我们在这里有了一个相当明显的根据，足以证明我们主张的真理性。（PES 209 [II 50–51; SVS 1, 232]，译文有改动）
   - id: 117
     kind: body
     source: |-
       *Everyone*—even predication theorists of judgement—believe that in perceiving we don’t connect the concept of a subject with that of a predicate. *No one*—even predication theorists of judgement—denies that every perception is a judgement. So, everyone accepts that there are some judgements that don’t predicate a property of something (connect a concept of a subject with a concept of a predicate). *A fortiori* the predication theorist of judgement is rationally compelled to accept that there are non-predicational judgements. If he does not do so, his view of judgement is not in harmony with the right view of perception. Hence, the view of judgement as predication must be revised.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **每个人**——甚至判断的述谓论者——都相信，在知觉中我们并不把主词概念与谓词概念联结起来。**没有人**——甚至判断的述谓论者——会否认每个知觉都是判断。于是，人人都接受：有些判断并不把性质述谓于某物（并不把主词概念与谓词概念联结起来）。**更不必说**，判断的述谓论者在理性上被迫接受存在非述谓判断。若他不接受，他的判断观便与正确的知觉观不相协调。因此，把判断视为述谓的观点必须修正。
+    step2: |-
+      **每个人**——甚至判断的述谓论者——都相信，在知觉中我们并不把主词概念与谓词概念联结起来。**没有人**——甚至判断的述谓论者——会否认每个知觉都是判断。于是，人人都接受：有些判断并不把性质述谓于某物（并不把主词概念与谓词概念联结起来）。**更不必说**，判断的述谓论者在理性上被迫接受存在非述谓判断。若他不接受，他的判断观便与正确的知觉观不相协调。因此，把判断视为述谓的观点必须修正。
   - id: 118
     kind: body
     source: |-
       How obvious is Brentano’s “quite obvious” justification? Let’s consider Brentano’s first premise first: perception does not involve predication. A charitable reading of Brentano should assume that by “perception” he means what philosophers following Fred Dretske now call “non-epistemic perception”. I can see something *without* having any beliefs about it to the effect that it is so-and-so. I see the yellow canary because it looks distinct from its immediate environment; I can’t see the chameleon because it does not look distinct from its environment. Note that it does not matter at this point whether one takes ordinary material objects such as birds or, as Brentano himself prefers, physical phenomena such as colours and shapes to be the (primary) objects of perception.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布伦塔诺“相当明显”的根据究竟有多明显？先看他的第一个前提：知觉不涉及述谓。对布伦塔诺作善意解读，应假定他所谓“知觉”是指追随弗雷德·德雷特斯克的哲学家如今所称的“非认识性知觉”。我可以看见某物而对它不抱任何“它是如此这般”的信念。我看见那只黄色金丝雀，因为它看起来与其周围环境有别；我看不见那只变色龙，因为它看起来与环境并无区别。请注意，在此究竟是把鸟这类普通物质对象、还是像布伦塔诺本人更偏好的那样把颜色与形状这类物理现象当作知觉的（首要）对象，这一点无关紧要。
+    step2: |-
+      布伦塔诺“相当明显”的根据究竟有多明显？先看他的第一个前提：知觉不涉及述谓。对布伦塔诺作善意解读，应假定他所谓“知觉”是指追随弗雷德·德雷特斯克的哲学家如今所称的“非认识性知觉”。我可以看见某物而对它不抱任何“它是如此这般”的信念。我看见那只黄色金丝雀，因为它看起来与其周围环境有别；我看不见那只变色龙，因为它看起来与环境并无区别。请注意，在此究竟是把鸟这类普通物质对象、还是像布伦塔诺本人更偏好的那样把颜色与形状这类物理现象当作知觉的（首要）对象，这一点无关紧要。
   - id: 119
     kind: body
     source: |-
       Is non-epistemic seeing a form of predication? *Prima facie*, it isn’t. When I see the yellow canary, I am directed towards an object and it appears distinct from its environment. The canary is given to me in such a way that I can attend to it in perception, but I might abstain from making any predicative judgement about it for the time being.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      非认识性的看见是一种述谓吗？乍看之下不是。当我看见那只黄色金丝雀时，我指向一个对象，而它显得与其环境有别。金丝雀以某种方式给予我，使我能在知觉中注意它，但我暂时可以不作出任何关于它的述谓判断。
+    step2: |-
+      非认识性的看见是一种述谓吗？乍看之下不是。当我看见那只黄色金丝雀时，我指向一个对象，而它显得与其环境有别。金丝雀以某种方式给予我，使我能在知觉中注意它，但我暂时可以不作出任何关于它的述谓判断。
   - id: 120
     kind: body
     source: |-
       Brentano takes it to be beyond doubt that such a perception is a judgement, only not a predicative one. This is controversial. For example, Brentano’s *modus ponens* is Moritz Schlick’s (1925, 80/1974, 87) *modus tollens*: perception is not judgement, hence, a perception cannot be knowledge. So****why should one think of seeing a yellow canary or hearing a sound as a judgement in the first place? Consider again your perception of the yellow canary. The canary looks different from its surroundings to you and you can train your attention on it. In this situation you will, to use a non-committal phrase, “take the canary to be real”. Seeing the canary is a particular kind of “taking the canary to be”, namely as something real; in Brentano’s terminology that is “an acknowledging of the canary”. If this is right, there are judgements that do not predicate any properties of an object and merely acknowledge it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布伦塔诺认为，这种知觉是判断——只不过不是述谓判断——这一点无可置疑。这是有争议的。例如，布伦塔诺的*肯定前件式*与莫里茨·石里克（1925, 80/1974, 87）的*否定后件式*针锋相对：知觉不是判断，因此知觉不可能是知识。那么，人们首先凭什么把看见一只黄色金丝雀或听见一个声音视为判断呢？再想想你对那只黄色金丝雀的知觉。在你看来，金丝雀与其周围环境显得不同，而你可以把注意力集中到它上面。在这种情形中，用一句不作承诺的话说，你会“把金丝雀视为实在的”。看见金丝雀是“把金丝雀视为……”的一种特定方式，即视为某种实在的东西；用布伦塔诺的术语说，这就是“对金丝雀的一种承认”。如果这没错，那么就存在并不把任何性质述谓于对象、而只是承认对象的判断。
+    step2: |-
+      布伦塔诺认为，这种知觉是判断——只不过不是述谓判断——这一点无可置疑。这是有争议的。例如，布伦塔诺的*肯定前件式*与莫里茨·石里克（1925, 80/1974, 87）的*否定后件式*针锋相对：知觉不是判断，因此知觉不可能是知识。那么，人们首先凭什么把看见一只黄色金丝雀或听见一个声音视为判断呢？再想想你对那只黄色金丝雀的知觉。在你看来，金丝雀与其周围环境显得不同，而你可以把注意力集中到它上面。在这种情形中，用一句不作承诺的话说，你会“把金丝雀视为实在的”。看见金丝雀是“把金丝雀视为……”的一种特定方式，即视为某种实在的东西；用布伦塔诺的术语说，这就是“对金丝雀的一种承认”。如果这没错，那么就存在并不把任何性质述谓于对象、而只是承认对象的判断。
   - id: 121
     kind: body
     source: |-
       Let us consider three objections to firm up our understanding of Brentano’s line of thought.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      让我们考察三项反对意见，以巩固对布伦塔诺思路的理解。
+    step2: |-
+      让我们考察三项反对意见，以巩固对布伦塔诺思路的理解。
   - id: 122
     kind: body
     source: |-
       Objection 1: But one cannot “take something to be real”, yet not predicate any property of it. Taking something to be real is just predicating existence of it. Brentano considers this objection himself:[^note-19]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      反对意见 1：但人们不可能“把某物视为实在的”却不把任何性质述谓于它。把某物视为实在的，就是把存在述谓于它。布伦塔诺自己考虑过这一反对意见：[^note-19]
+    step2: |-
+      反对意见 1：但人们不可能“把某物视为实在的”却不把任何性质述谓于它。把某物视为实在的，就是把存在述谓于它。布伦塔诺自己考虑过这一反对意见：[^note-19]
   - id: 123
     kind: body
     source: |-
       > Because we say not only that we perceive a color, a sound, an act of seeing, an act of hearing, but also that we perceive the existence of an act of seeing or of an act of hearing, someone might be led to believe that perception, too, consists in the acknowledgement [*Anerkennung*] of the conjunction of the attribute “existence” with the phenomenon in question. Such a misunderstanding of obvious facts seems to me almost inconceivable. (PES 210 [II 51–52; SVS 1, 232])
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 因为我们不仅说我们知觉到一种颜色、一个声音、一个看的行为、一个听的行为，而且说我们知觉到看的行为或听的行为的存在；于是有人可能被引向这样的看法：知觉也在于承认〔*Anerkennung*〕“存在”这一属性与所论现象的联结。在我看来，这种对显而易见的事实的误解几乎是不可设想的。（PES 210 [II 51–52; SVS 1, 232]）
+    step2: |-
+      > 因为我们不仅说我们知觉到一种颜色、一个声音、一个看的行为、一个听的行为，而且说我们知觉到看的行为或听的行为的存在；于是有人可能被引向这样的看法：知觉也在于承认〔*Anerkennung*〕“存在”这一属性与所论现象的联结。在我看来，这种对显而易见的事实的误解几乎是不可设想的。（PES 210 [II 51–52; SVS 1, 232]）
   - id: 124
     kind: body
     source: |-
       As said before, Brentano’s claim that the facts are obvious bears little argumentative weight. But the view that every (non-epistemic) perception is a judgement to the effect that something exists over-intellectualizes non-epistemic perception. Infants and dogs see and hear things. Does Brentano’s opponent really want to say that they make judgements to the effect that the objects perceived exist? Yet, a dog certainly takes the canary to be real when it chases it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如前所述，布伦塔诺“事实显而易见”的主张在论证上分量不大。但“每个（非认识性）知觉都是关于某物存在的判断”这一观点，把非认识性知觉过度理智化了。婴儿和狗也看见、听见东西。布伦塔诺的对手真的想说，他们作出了“所知觉的对象存在”这样的判断吗？然而，狗在追金丝雀时，确实把金丝雀视为实在的。
+    step2: |-
+      如前所述，布伦塔诺“事实显而易见”的主张在论证上分量不大。但“每个（非认识性）知觉都是关于某物存在的判断”这一观点，把非认识性知觉过度理智化了。婴儿和狗也看见、听见东西。布伦塔诺的对手真的想说，他们作出了“所知觉的对象存在”这样的判断吗？然而，狗在追金丝雀时，确实把金丝雀视为实在的。
   - id: 125
     kind: body
     source: |-
       Brentano also provides a more theoretical reason against the view that (non-epistemic) perception consists in predications of existence (PES 210 [II 51–52; SVS 1, 232]). The view makes it difficult to explain how we manage to acquire the concept of existence. If we exercise the concept in every (non-epistemic) perception, the concept of existence must come with the capacity to perceive objects and qualities. Brentano finds this unbelievable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布伦塔诺还提供了一个更具理论性的理由，反对“（非认识性）知觉在于对存在的述谓”这一观点（PES 210 [II 51–52; SVS 1, 232]）。该观点难以解释我们如何获得存在概念。如果我们每次（非认识性）知觉都在运用存在概念，那么存在概念必定随知觉对象与性质的能力一同而来。布伦塔诺觉得这难以置信。
+    step2: |-
+      布伦塔诺还提供了一个更具理论性的理由，反对“（非认识性）知觉在于对存在的述谓”这一观点（PES 210 [II 51–52; SVS 1, 232]）。该观点难以解释我们如何获得存在概念。如果我们每次（非认识性）知觉都在运用存在概念，那么存在概念必定随知觉对象与性质的能力一同而来。布伦塔诺觉得这难以置信。
   - id: 126
     kind: body
     source: |-
       In turn, if acknowledging an object does not presuppose possession of the concept of existence, our introspective knowledge of acknowledgement may be used to introduce the concept of existence. Brentano pursued this strategy following Aristotle:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      反过来，如果承认一个对象并不以拥有存在概念为前提，那么我们关于承认的内省知识就可以用来引入存在概念。布伦塔诺追随亚里士多德采取了这一策略：
+    step2: |-
+      反过来，如果承认一个对象并不以拥有存在概念为前提，那么我们关于承认的内省知识就可以用来引入存在概念。布伦塔诺追随亚里士多德采取了这一策略：
   - id: 127
     kind: body
     source: |-
       > Aristotle had already recognized that [the concept of existence] is acquired by reflection on the acknowledging judgement. (TE 27 [45], translation improved)[^note-20]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 亚里士多德已经认识到，〔存在概念〕是通过对承认判断的反思而获得的。（TE 27 [45]，译文有改进）[^note-20]
+    step2: |-
+      > 亚里士多德已经认识到，〔存在概念〕是通过对承认判断的反思而获得的。（TE 27 [45]，译文有改进）[^note-20]
   - id: 128
     kind: body
     source: |-
       Objection 2: Seeing the yellow canary is not the same thing as acknowledging it. For instance, one can see an object without acknowledging it “if one does not trust one’s eyes.” I see the canary before me, but since you have given me misleading evidence that I am now hallucinating, I do not trust my senses and do not take the canary to be real. So, seeing and judging are related—maybe (consciously) seeing something prompts one to judge that it is—but these mental acts are distinct.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      反对意见 2：看见黄色金丝雀并不等同于承认它。例如，人可以在不承认一个对象的情况下看见它——“如果人不相信自己的眼睛”。我看见眼前的金丝雀，但既然你给了我误导性的证据，使我认为自己此刻在幻觉，我就不信任自己的感官，不把金丝雀视为实在的。所以，看见与判断是相关的——也许（有意识地）看见某物会促使人判断它存在——但这些心理行为彼此有别。
+    step2: |-
+      反对意见 2：看见黄色金丝雀并不等同于承认它。例如，人可以在不承认一个对象的情况下看见它——“如果人不相信自己的眼睛”。我看见眼前的金丝雀，但既然你给了我误导性的证据，使我认为自己此刻在幻觉，我就不信任自己的感官，不把金丝雀视为实在的。所以，看见与判断是相关的——也许（有意识地）看见某物会促使人判断它存在——但这些心理行为彼此有别。
   - id: 129
     kind: body
     source: |-
       In later work Brentano suggested that in such cases we do acknowledge the bird as well as judge that there is no object in the scene perceived. Just as we can love and hate an object, we can accept and reject an object at the same time:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在后来的著作中，布伦塔诺提出：在这类情形里，我们其实既承认那只鸟，又判断所知觉的场景中没有对象。正如我们可以同时爱一个对象和恨一个对象，我们也可以同时接受和拒绝一个对象：
+    step2: |-
+      在后来的著作中，布伦塔诺提出：在这类情形里，我们其实既承认那只鸟，又判断所知觉的场景中没有对象。正如我们可以同时爱一个对象和恨一个对象，我们也可以同时接受和拒绝一个对象：
   - id: 130
     kind: body
     source: |-
       > An affect that is reined in by a contradicting higher love still truly persists. Similarly, an acceptance of an object given in sensation, which is disapproved of by a higher judgement, could persist. Indeed, it is not at all clear, how the lower activity should be changed in its intrinsic character because of the occurrence of the higher activity; if the lower activity had a relation of acceptance to the outer object before, it will have it later. (VNV 26, author translation.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 一种被相反的高级爱所约束的情感，仍然真实地持续着。同样，对感觉中所予对象的接受，即使受到更高判断的非难，也可能持续下去。诚然，完全不清楚的是：由于高级活动的发生，低级活动在其内在性质上为何应有所改变；如果低级活动此前与外物有接受关系，那么此后仍会有这种关系。（VNV 26，作者译）
+    step2: |-
+      > 一种被相反的高级爱所约束的情感，仍然真实地持续着。同样，对感觉中所予对象的接受，即使受到更高判断的非难，也可能持续下去。诚然，完全不清楚的是：由于高级活动的发生，低级活动在其内在性质上为何应有所改变；如果低级活动此前与外物有接受关系，那么此后仍会有这种关系。（VNV 26，作者译）
   - id: 131
     kind: body
     source: |-
