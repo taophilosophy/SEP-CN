@@ -2964,6 +2964,14 @@
 | voltage clamp | — | 电压钳 | model-organisms 首译 | 电生理学通行译名；凭证 2026-11-09 | 2026-11-09 |
 | living assay | — | 活体测定 | model-organisms 首译 | 本词条术语（Green 2024 的 living assay）；凭证 2026-11-09 | 2026-11-09 |
 | perspectival modelling | — | 视角建模 | model-organisms 首译 | 科学哲学通行译名（Larraín 2024）；凭证 2026-11-09 | 2026-11-09 |
+| biofact | — | 生物人工物 | model-organisms 首译 | 本词条术语（Karafyllis 2003 的 biofact，兼具生物性与人工性）；凭证 2026-11-09 | 2026-11-09 |
+| epistemic thing | — | 认知物 | model-organisms 首译 | 本词条术语（Rheinberger 实验系统理论的 epistemic thing，与 technical object 对举）；凭证 2026-11-09 | 2026-11-09 |
+| technical object | — | 技术物 | model-organisms 首译 | 本词条术语（Rheinberger 的 technical object）；凭证 2026-11-09 | 2026-11-09 |
+| experimental system | — | 实验系统 | model-organisms 首译 | 科学史与科学哲学通行译名（Rheinberger）；凭证 2026-11-09 | 2026-11-09 |
+| stock centre | — | 种质资源中心 | model-organisms 首译 | 生物学通行译名（stock centre，保藏与分发品系）；凭证 2026-11-09 | 2026-11-09 |
+| ecotype | — | 生态型 | model-organisms 首译 | 植物学通行译名；凭证 2026-11-09 | 2026-11-09 |
+| husbandry | — | 饲养管理 | model-organisms 首译 | 实验动物科学通行译名（husbandry procedures 饲养管理规程）；凭证 2026-11-09 | 2026-11-09 |
+| co-constitutive | — | 共同构成的 | model-organisms 首译 | 本词条术语（Ankeny & Leonelli 的 co-constitutive）；凭证 2026-11-09 | 2026-11-09 |
 | explanatory realism | — | 说明性实在论 | cosmology-30s 首译 | 科学哲学通行（实在论之说明形态；本词条 Eddington 阵营立场名，与 anti-realism 反实在论同族）；凭证 2026-11-09 | 2026-11-09 |
 | red shift | — | 红移 | cosmology-30s 首译 | 天体物理通行（Hubble 1929 观测；全库另有 2 词条同形使用，语料回收一致）；凭证 2026-11-09 | 2026-11-09 |
 | spin | — | 自旋 | qt-entangle | 审定名词库（物理学名词 spin）；凭证 2026-11-09 | 2026-11-09 |
