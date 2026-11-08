@@ -125,12 +125,12 @@
 | diadoche | διαδοχή | 师承 | dialectical-school | 古代哲学史文献通行（师生谱系；与宗派 hairesis 对举）；凭证 2026-11-07 | 2026-11-07 |
 | dialectical question | — | 论辩问题 | diodorus-cronus | 学界通行（问答式论辩中的待答问题）；凭证 2026-11-07 | 2026-11-07 |
 | Dialectical School | — | 辩证学派 | dialectical-school | 学界通行（苏格拉底minor school之一；SUMMARY 定名）；凭证 2026-11-07 | 2026-11-07 |
-| dictum | — | 所述 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
+| dictum | dictum | 所述 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | differential blaming disposition | — | 差别责备倾向 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Diodorean possibility | — | 狄奥多罗斯式可能性 | diodorus-cronus | 学界通行（可能者即现在为真或将为真）；凭证 2026-11-07 | 2026-11-07 |
 | direction of fit | — | 适应方向 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | directive reason | — | 指令性理由 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
-| disability | — | 失能 | disability-care-rationing | 学界通行（残疾研究/生物伦理；与 impairment 损伤分层）；凭证 2026-11-08 | 2026-11-08 |
+| disability | — | 残疾；失能（按域分用，ADR-0025：概念·社会模型类与 SUMMARY 标题用「残疾」；卫生经济/资源配给类及 DALY 复合词用「失能」；专名如《残疾人权利公约》不随域改） | disability-care-rationing | 学界通行两形并存；D 批裁定按域分用；凭证 2026-11-08 | 2026-11-08 |
 | disability paradox | — | 失能悖论 | disability-care-rationing | 学界通行（Albrecht & Devlieger 1999）；凭证 2026-11-08 | 2026-11-08 |
 | disability-adjusted life year | — | 失能调整生命年 | disability-care-rationing | 世界卫生组织通行（DALY）；凭证 2026-11-08 | 2026-11-08 |
 | disjunctive syllogism | — | 析取三段论 | 语料回收（mathematics-inconsistent 首译） | 逻辑学界通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -491,7 +491,7 @@
 | Veiled Man argument | — | 蒙面人论证 | dialectical-school | 学界通行（狄奥多罗斯悖论）；凭证 2026-11-07 | 2026-11-07 |
 | verisimilitude | — | 逼真性 | 语料回收（lakatos 首译） | 波普尔研究通行译法（truth-likeness 亦译似真性）；凭证 2026-11-06 | 2026-11-06 |
 | vestibular system | — | 前庭系统 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
-| via moderna | — | 现代路线 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
+| via moderna | via moderna | 现代路线 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | violinist case | — | 小提琴家案例 | 语料回收（标题词） | 学界惯例（汤姆森思想实验（abortion 词条））；凭证 2026-11-01 | 2026-11-01 |
 | Via Moderna | Via Moderna | 近代之路 | 语料回收（marsilius-inghen 首译） | 中世纪晚期思想史通行译名（与 Via Antiqua 古代之路对举）；凭证 2026-11-06 | 2026-11-06 |
 | vision-for-action | — | 行动视觉 | 语料回收（molyneux-problem 首译） | 双视觉系统文献通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -1353,7 +1353,7 @@
 | kire | 切 | 切（きれ） | japanese-aesthetics | 学界惯例（日本美学研究通行译法“切断/切”） | 2026-11-02 |
 | mujō | 無常 | 无常（無常） | japanese-aesthetics | 学界惯例（佛教研究通行译法“无常”） | 2026-11-02 |
 | wabicha | 侘茶 | 侘茶 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“侘茶”） | 2026-11-02 |
-| shōja | — | 精舍（祇园精舍） | japanese-aesthetics | 学界惯例（《平家物语》汉译通行） | 2026-11-02 |
+| shōja | 精舎（祇園精舎） | 精舍（祇园精舍） | japanese-aesthetics | 学界惯例（《平家物语》汉译通行） | 2026-11-02 |
 | Nō | — | 能剧（能楽） | japanese-aesthetics | 学界惯例（日本戏剧研究通行译法“能/能乐”） | 2026-11-02 |
 | karesansui | 枯山水 | 枯山水 | japanese-aesthetics | 学界惯例（日本庭园研究通行译法“枯山水”） | 2026-11-02 |
 | geidō | 芸道 | 艺道 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“艺道”） | 2026-11-02 |
@@ -1363,7 +1363,7 @@
 | engi | 縁起 | 缘起（縁起） | japanese-aesthetics | 学界惯例（佛教研究通行译法“缘起”） | 2026-11-02 |
 | kireji | 切字 | 切字 | japanese-aesthetics | 学界惯例（俳句研究通行译法“切字”） | 2026-11-02 |
 | kata | 型 | 型（形） | japanese-aesthetics | 学界惯例（日本艺道研究通行译法“型”） | 2026-11-02 |
-| tokonoma | — | 床之间（壁龛） | japanese-aesthetics | 学界惯例（日本建筑研究通行译法“床之间”） | 2026-11-02 |
+| tokonoma | 床の間 | 床之间（壁龛） | japanese-aesthetics | 学界惯例（日本建筑研究通行译法“床之间”） | 2026-11-02 |
 | haboku | 破墨 | 泼墨（破墨） | japanese-aesthetics | 学界惯例（日本水墨画研究通行译法“泼墨/破墨”） | 2026-11-02 |
 | hatsuboku | 泼墨 | 泼墨 | japanese-aesthetics | 学界惯例（日本水墨画研究通行译法“泼墨”） | 2026-11-02 |
 | dōshakuga | — | 道释画 | japanese-aesthetics | 学界惯例（日本美术史研究通行译法“道释画”） | 2026-11-02 |
@@ -1377,16 +1377,16 @@
 | kakemono | 掛物 | 挂轴（掛物） | japanese-aesthetics | 学界惯例（日本书画研究通行译法“挂轴”） | 2026-11-02 |
 | Shoin | 書院 | 书院（書院） | japanese-aesthetics | 学界惯例（日本建筑研究通行译法“书院”） | 2026-11-02 |
 | Sōan | 草庵 | 草庵 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“草庵”） | 2026-11-02 |
-| bitai | — | 媚态 | japanese-aesthetics | 学界惯例（九鬼周造研究通行译法“媚态”） | 2026-11-02 |
-| ikiji | — | 意地 | japanese-aesthetics | 学界惯例（九鬼周造研究通行译法“意地”） | 2026-11-02 |
+| bitai | 媚態 | 媚态 | japanese-aesthetics | 学界惯例（九鬼周造研究通行译法“媚态”） | 2026-11-02 |
+| ikiji | 意地 | 意地 | japanese-aesthetics | 学界惯例（九鬼周造研究通行译法“意地”） | 2026-11-02 |
 | akirame | 断念 | 断念（谛念） | japanese-aesthetics | 学界惯例（九鬼周造研究通行译法“断念”） | 2026-11-02 |
 | kire-tsuzuki | — | 切续 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“切续”） | 2026-11-02 |
 | sabireru | さびれる | 荒废（さびれる） | japanese-aesthetics | 学界惯例（日语动词 sabireru 通行译法“荒废”） | 2026-11-02 |
 | sabishii | さびしい | 孤寂（さびしい） | japanese-aesthetics | 学界惯例（日语形容词 sabishii 通行译法“孤寂/寂寞”） | 2026-11-02 |
-| shibumi | — | 涩味 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“涩味”） | 2026-11-02 |
+| shibumi | 渋み | 涩味 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“涩味”） | 2026-11-02 |
 | amami | 甘味 | 甘味 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“甘味”） | 2026-11-02 |
-| hadé | — | 华丽 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“华丽”） | 2026-11-02 |
-| jimi | — | 素雅 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“素雅”） | 2026-11-02 |
+| hadé | 派手 | 华丽 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“华丽”） | 2026-11-02 |
+| jimi | 地味 | 素雅 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“素雅”） | 2026-11-02 |
 | gehin | 下品 | 下品 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“下品”） | 2026-11-02 |
 | jōhin | 上品 | 上品 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“上品”） | 2026-11-02 |
 | chadō | 茶道 | 茶道 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“茶道”） | 2026-11-02 |
@@ -1580,17 +1580,17 @@
 | Kokugakusha | 国学者 | 国学者 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | shinkoku | 神国 | 神国 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | magokoro | 真心 | 真心 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
-| karagokoro | — | 汉意 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| karagokoro | 漢意（からごころ） | 汉意 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | mikunigokoro | — | 御国心 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | Yamato gokoro / damashii | — | 大和心/大和魂 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | kannagara | 随神 | 随神而行 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | makoto no shintō | — | 真神道 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | kakuriyo / yūmeikai | — | 隐世/幽冥界 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
-| kishin | — | 鬼神（平田学派：有意志与力量的灵） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| kishin | 鬼神 | 鬼神（平田学派：有意志与力量的灵） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | saisei itchi | 祭政一致 | 祭政一致 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
-| Taikyō senpu undō | — | 大教宣布运动 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| Taikyō senpu undō | 大教宣布運動 | 大教宣布运动 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | kokutai | 国体 | 国体 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
-| Nihonjinron | — | 日本人论 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| Nihonjinron | 日本人論 | 日本人论 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | hongaku / honkyō | 本学 / 本教 | 本学/本教（大国隆正） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | reliable cognition（tshad ma） | — | 可靠认知（即"量"；藏文 tshad ma 本词条通译作"量"） | epistemology-language-tibetan | 佛学界通行（量=pramāṇa/tshad ma）；与 gelukpa 词条 pramāṇa=量论 对齐 | 2026-11-04 |
 | appearing object（snang yul） | — | 显现境（snang yul） | epistemology-language-tibetan | 藏传量论通译 | 2026-11-04 |
@@ -1689,6 +1689,17 @@
 | weighing relation | — | 权衡关系 | logic-preference | Dietrich-List 研究通行 | 2026-11-05 |
 | amplification | — | 放大 | logic-preference | 冯·赖特偏好逻辑原则通行（V5） | 2026-11-05 |
 | ceteris paribus preference | — | 其余条件相同的偏好 | logic-preference | 本表既有“其余条件相同”（justep-coherence）派生 | 2026-11-05 |
+| satisfaction relation | — | 满足关系 | logic-preference | 模型论通行 | 2026-11-08 |
+| substitution instance | — | 替换实例 | logic-preference | 数理逻辑通行（本册 substitution rule 代入规则为另一术语） | 2026-11-08 |
+| inclusion axioms | — | 包含公理 | logic-preference | 模态逻辑公理化通行（本词条图 6） | 2026-11-08 |
+| interaction axioms | — | 交互公理 | logic-preference | 模态逻辑公理化通行 | 2026-11-08 |
+| reflexivity axioms | — | 自反性公理 | logic-preference | 模态逻辑公理化通行 | 2026-11-08 |
+| monotonicity axioms | — | 单调性公理 | logic-preference | 模态逻辑公理化通行 | 2026-11-08 |
+| denotational semantics | — | 指称语义 | logic-preference | 语义学通行 | 2026-11-08 |
+| convex order | — | 凸序 | logic-preference | 序论/概率论通行（Shi & Sun 2021 语境） | 2026-11-08 |
+| utility scale | — | 效用尺度 | logic-preference | 决策论通行 | 2026-11-08 |
+| sequential composition; parallel composition | — | 顺序复合；并行复合 | logic-preference | 动态逻辑/进程代数通行 | 2026-11-08 |
+| radical preference upgrade | — | 激进偏好升级 | logic-preference | Van Benthem & Liu 2007 语境直译 | 2026-11-08 |
 | Metaphysical Foundations of Natural Science | — | 《自然科学的形而上学基础》（简称《形而上学基础》） | kant-science | 学界通行（李秋零译本；本库 kant-leibniz/kant-mind 先例） | 2026-11-05 |
 | Phoronomy | — | 运动学（康德《形而上学基础》首章章名；源文本章即以 kinematics 释之） | kant-science | 李秋零译本通行 | 2026-11-05 |
 | vis viva | vis viva | 活力（vis viva） | kant-science | 莱布尼茨力学史通行 | 2026-11-05 |
@@ -2379,7 +2390,7 @@
 | Apostolic poverty | — | 使徒贫困 | ockham | 中国社会科学网教会史文献通行（亦作使徒贫穷）；凭证 2026-11-07 | 2026-11-07 |
 | Longer Version | — | 长版本 | 首现（theology-aristotle） | 照文直译（《神学》十四章节写本，学界通行称法）；凭证 2026-11-08 | 2026-11-08 |
 | papal bull | — | 教皇诏书 | ockham | 中文史学通行（又译教宗诏书/训谕；本册从大陆「教皇」系）；凭证 2026-11-07 | 2026-11-07 |
-| Conventuals | — | 住院派 | ockham | 方济各会史通译（《遭受挑战的教廷》中译本；维基方济各会条）；凭证 2026-11-07 | 2026-11-07 |
+| Conventuals | — | 住院派 | ockham | 方济各会史通译（张践、田微《世界中世纪宗教史》作“住院派”，与“守规派”相对；佐证 The Catholic Encyclopedia 条 Order of Friars Minor Conventuals）；2026-11-08 联网复核，撤除原维基引证（ADR-0012 禁令）；凭证 2026-11-08 | 2026-11-08 |
 | Spirituals | — | 属灵派 | ockham | 方济各会史通译（亦作灵修派；勿与 15 世纪 Observants 守规派混同）；凭证 2026-11-07 | 2026-11-07 |
 | Greyfriars | — | 灰衣修士（首现括注，方济各会俗称） | ockham | 教会史通译；凭证 2026-11-07 | 2026-11-07 |
 | mendicant orders / mendicant | — | 托钵修会／托钵修士 | ockham | 教会史通行译名；凭证 2026-11-07 | 2026-11-07 |
@@ -2530,3 +2541,22 @@
 | probabilistic independence | — | 概率独立（性） | 首现（imprecise-probabilities） | 学界惯例（概率论通行）；凭证 2026-11-08 | 2026-11-08 |
 | group agent | — | 群体行动者 | 首现（imprecise-probabilities） | 学界惯例（社会本体论通行）；凭证 2026-11-08 | 2026-11-08 |
 | objective chance | — | 客观机遇 | 首现（imprecise-probabilities） | 学界惯例（概率哲学通行；chance 作机遇义）；凭证 2026-11-08 | 2026-11-08 |
+| condicio (condiciones) | condicio | 样态（condicio） | nicole-oresme | 奥雷斯姆偶性存在论核心术语（condiciones/modi se habendi；正文首现括注拉丁）；凭证 2026-11-08 | 2026-11-08 |
+| modus se habendi | modus se habendi | 情状（modus se habendi） | nicole-oresme | 经院哲学术语通行译法；与样态（condicio）并列；凭证 2026-11-08 | 2026-11-08 |
+| fluxus | fluxus | 流（fluxus） | nicole-oresme | 奥雷斯姆运动论术语（与运动者并存的相继实体）；凭证 2026-11-08 | 2026-11-08 |
+| configurationes | configurationes | 构形 | nicole-oresme | 奥雷斯姆《论性质与运动的构形》术语；凭证 2026-11-08 | 2026-11-08 |
+| latitudo / longitudo | latitudo / longitudo | 纬度／经度（强度／延展） | nicole-oresme | 奥雷斯姆构形论术语（坐标轴名，正文随文释为强度与延展）；凭证 2026-11-08 | 2026-11-08 |
+| duratio rerum successiva | duratio rerum successiva | 事物的相继持存 | nicole-oresme | 奥雷斯姆时间定义术语；凭证 2026-11-08 | 2026-11-08 |
+| significatum totale / significatum adaequatum | significatum totale / significatum adaequatum | 总体意谓／充分意谓 | nicole-oresme | 中世纪语义学通行译法（与 total significate 总意谓同族）；凭证 2026-11-08 | 2026-11-08 |
+| one-to-one correspondence | — | 一一对应 | nicole-oresme | 数学通行；凭证 2026-11-08 | 2026-11-08 |
+| equinumerous | — | 等势 | nicole-oresme | 集合论通行；凭证 2026-11-08 | 2026-11-08 |
+| harmonic series | — | 调和级数 | nicole-oresme | 数学通行；凭证 2026-11-08 | 2026-11-08 |
+| convergent series / divergent series | — | 收敛级数／发散级数 | nicole-oresme | 数学通行；凭证 2026-11-08 | 2026-11-08 |
+| Merton theorem | — | 默顿定理 | nicole-oresme | 科学史通行（牛津计算者中位速度定理）；凭证 2026-11-08 | 2026-11-08 |
+| Gresham's Law | — | 格雷欣法则 | nicole-oresme | 经济学通行；凭证 2026-11-08 | 2026-11-08 |
+| debasement (of currency) | — | 铸币贬值 | nicole-oresme | 货币史通行；凭证 2026-11-08 | 2026-11-08 |
+| coinage | — | 铸币 | nicole-oresme | 货币史通行；凭证 2026-11-08 | 2026-11-08 |
+| monetization | — | 货币化 | nicole-oresme | 经济史通行；凭证 2026-11-08 | 2026-11-08 |
+| atmospheric refraction | — | 大气折射 | nicole-oresme | 光学通行；凭证 2026-11-08 | 2026-11-08 |
+| supralunar | — | 月上的 | nicole-oresme | 亚里士多德宇宙论通行；凭证 2026-11-08 | 2026-11-08 |
+| void space | — | 虚空空间 | nicole-oresme | 自然哲学通行（extracosmic void 宇宙之外虚空）；凭证 2026-11-08 | 2026-11-08 |
