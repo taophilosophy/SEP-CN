@@ -743,86 +743,114 @@ segments:
     kind: body
     source: |-
       AI models are also being increasingly used to reduce the hypothesis space for testing, using computational models and simulations to run scenarios that would not otherwise be possible. In this way, AI-based modeling of nonhuman model organisms has already led to new theoretical targets for testing, and the same logic now extends to humans, as scientists use task-performing AI models to reduce the space of what is neurobiologically plausible in people (Kriegeskorte and Douglas 2018)[^kriegeskorte-2018]. For behavioral and cognitive functions, the success of specific task-performing models, such as deep neural networks (DNNs) has begun to unsettle core tenets and theoretical frameworks, such as large language models (LLMs) challenging key tenets of generative linguistics in language research (Piantadosi 2024)[^piantadosi-2024]. On the other hand, more specialized convolutional neural networks (CNNs) have been used to generate biologically testable predictions, such as about how anatomical and physical constraints shape receptive fields in the vertebrate retina and primary visual cortex, and to reconcile competing views of retinal function (Lindsey et al. 2019 [Other Internet Resources]).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      AI 模型也日益被用于缩小待检验的假设空间，即用计算模型与模拟来运行原本不可能进行的各种情景。这样，基于 AI 的非人模式生物建模已经引出新的待检验理论目标；同一逻辑如今延伸到人类，因为科学家用执行任务的 AI 模型来缩小在人身上神经生物学上可能的空间（Kriegeskorte and Douglas 2018）[^kriegeskorte-2018]。就行为与认知功能而言，深度神经网络（DNN）这类执行特定任务的模型取得了成功，已经开始动摇核心教条与理论框架，例如大语言模型（LLM）在语言研究中挑战生成语言学的关键教条（Piantadosi 2024）[^piantadosi-2024]。另一方面，更专门的卷积神经网络（CNN）已被用于生成可在生物学上检验的预测，例如关于解剖与物理约束如何塑造脊椎动物视网膜与初级视皮层中感受野的预测，并被用来调和关于视网膜功能的相互竞争的看法（Lindsey et al. 2019 [其他网络资源]）。
+    step2: |-
+      AI 模型还越来越常用来缩小待检验的假设空间：借用计算模型与模拟，跑起原本跑不成的种种情景。基于 AI 的非人模式生物建模，已经由此引出新的待检验理论目标；如今同一套逻辑伸到人身上，科学家用执行任务的 AI 模型，去压缩“在人身上神经生物学上说得通”的那片空间（Kriegeskorte and Douglas 2018）[^kriegeskorte-2018]。论行为与认知功能，深度神经网络（DNN）这类执行特定任务的模型一成功，就开始撼动核心教条与理论框架——比如大语言模型（LLM）在语言研究里挑战生成语言学的关键教条（Piantadosi 2024）[^piantadosi-2024]。另一方面，更专门的卷积神经网络（CNN）被用来生成可在生物学上检验的预测，例如解剖与物理约束怎样塑造脊椎动物视网膜与初级视皮层的感受野；还被用来调和关于视网膜功能的争执（Lindsey et al. 2019 [其他网络资源]）。
   - id: 86
     kind: body
     source: |-
       Different AI techniques are also responsible for identifying genomic sequences that can be inserted from different model organisms to create new model systems – such as hybrid chimeras – that are ideal for answering specific scientific questions. These chimeric models can further serve as theoretical models to reduce the hypothesis space for testing in model organisms, as well as test what is minimally genomically necessary for specific biological functions (Green 2025)[^green-2025].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不同的 AI 技术还负责辨识可从不同模式生物插入、以创造新的模式系统——例如混合嵌合体——的基因组序列，这些新系统对回答特定科学问题极为理想。这些嵌合模型可以进一步充当理论模型，以缩小模式生物中待检验的假设空间，并检验特定生物学功能在基因组上最低限度需要什么（Green 2025）[^green-2025]。
+    step2: |-
+      还有些 AI 技术专管找出可从不同模式生物身上取来插入、以造出新模式系统的基因组序列——比如杂交嵌合体，这类系统最宜回答某些特定的科学问题。嵌合模型还能再当理论模型用：一方面缩小模式生物里待检验的假设空间，一方面检验某项生物学功能在基因组上最低限度需要什么（Green 2025）[^green-2025]。
   - id: 87
     kind: body
     source: |-
       ### 5.2 Artificial model “organisms”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.2 人工模型“生物”
+    step2: |-
+      ### 5.2 人工模型“生物”
   - id: 88
     kind: body
     source: |-
       The pervasiveness of AI models is not confined to their use in the scientific testing of model organisms; rather, AI models can be used as a substitute for organisms as well. Scientists have long used virtual animal models as tools for hypothesis generation in biology, such as using computational creatures to test evolutionary hypotheses (Sims 1994)[^sims-1994]. However, it is only in recent years that the behavioral performance of AI models – particularly, DNNs – have improved to such a degree that scientists are now using them as cognitive and behavioral models that stand in for both humans and nonhuman animals. For instance, researchers now place AI systems into roles structurally analogous to laboratory organisms by translating paradigms such as navigation, object permanence, and problem solving into virtual environments. Here, the artificial agents, rather than living animals, are trained and evaluated on a battery of cognitive tasks, undergoing standardized behavioral assays without any biological substrate (Crosby et al. 2020)[^crosby-2020]. This raises a question for using artificial models as model organisms, particularly in psychological and behavior research: do model organisms need to be living organisms, or can artificial models also serve as model organisms?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      AI 模型的普遍性并不限于它们在模式生物科学检验中的使用；相反，AI 模型也可以用作生物的替代物。科学家早已把虚拟动物模型当作生物学中生成假设的工具，例如用计算生物来检验演化假设（Sims 1994）[^sims-1994]。然而，只是近年来，AI 模型——尤其是 DNN——的行为表现才提高到这种程度：科学家如今把它们当作认知模型与行为模型，来顶替人类与非人动物。例如，研究者如今把 AI 系统放进结构上类似于实验室生物的角色，把导航、客体永久性与问题解决等范式转译进虚拟环境。在这里，受训练与评估的是人工行动者而非活体动物，它们在一组认知任务上接受标准化行为测定，而没有任何生物基质（Crosby et al. 2020）[^crosby-2020]。这就为把人工模型当作模式生物使用、尤其是在心理学与行为研究中提出了一个问题：模式生物必须是活的生物吗？还是说人工模型也可以充当模式生物？
+    step2: |-
+      AI 模型的普遍性，并不限于拿来对模式生物作科学检验；它们还能直接顶替生物。科学家早就把虚拟动物模型当作生物学中生成假设的工具，例如用计算生物去检验演化假设（Sims 1994）[^sims-1994]。可直到近些年，AI 模型——尤其是 DNN——的行为表现才长进到这种地步：科学家已把它们当作认知模型、行为模型，用来顶替人类与非人动物。例如研究者把 AI 系统摆进结构上类似实验室生物的角色，把导航、客体永久性、问题解决这些范式搬进虚拟环境。受训练、受评估的成了人工行动者，而非活体动物；它们在一组认知任务上接受标准化行为测定，身上却没有半点生物基质（Crosby et al. 2020）[^crosby-2020]。这就给“把人工模型当模式生物用”出了道题，在心理学与行为研究里尤其尖锐：模式生物非得是活的生物不可吗？人工模型能不能也当模式生物？
   - id: 89
     kind: body
     source: |-
       Drawing from Ankeny and Leonelli’s account of model organisms, minimally, for a system to count as a model organism, it must stand in a modelling relation characterized by a representational scope and a representational target. Animal model organisms satisfy these conditions because they belong to well-defined biological groups with shared evolutionary histories, which constrain both the range of systems to which results can generalize and the features those results are taken to represent. By contrast, it is unclear what the representational scope or targets are meant to be for DNNs given their limitations as non-biological models with no shared evolutionary history (Scholte 2018)[^scholte-2018]. Furthermore, the causal mechanisms by which these models operate are only partially understood, making it difficult to specify which systems they represent and in what respect (Millière and Buckner 2024 [Other Internet Resources]). In many cases, the functions that are instantiated by artificial systems are explicitly engineered differently than those in the target system. Hardalupas (2021) argues because DNNs lack a principled basis for projection to a determinate class of organisms or phenomena, this renders their modelling status vague and limited and better classifies them as Krogh organisms. Rather than explicitly aimed at representing a target system, artificial organisms are problem-focused and a representational target that is narrow (Hardalupas 2021)[^hardalupas-2021]. In the absence of a shared material makeup, questions about the use of artificial model organisms as model organisms for cognitive and behavioral capacities rely on answering more fundamental questions about what is required for such capacities – specifically, whether intelligence, cognition, and complex behavior require a biological substrate at all (for more, see Bickle 2020)[^bickle-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      依据 Ankeny 和 Leonelli 对模式生物的说明，最低限度上，一个系统要被算作模式生物，就必须处在一种以表征范围与表征目标为特征的模式化关系之中。动物模式生物满足这些条件，因为它们属于有共同演化史的、界定明确的生物类群，而这既约束了结果可以概括到的系统范围，也约束了这些结果被认为表征的特征。相比之下，鉴于 DNN 作为没有共同演化史的非生物模型所具有的局限，它们所要的表征范围或表征目标究竟是什么，并不清楚（Scholte 2018）[^scholte-2018]。此外，这些模型运作所凭借的因果机制只被部分理解，这就难以指明它们表征哪些系统、在什么方面表征（Millière and Buckner 2024 [其他网络资源]）。在许多情形中，人工系统所例示的功能，其设计方式与目标系统中的功能明显不同。Hardalupas（2021）主张，由于 DNN 缺乏向某类确定生物或现象投射的原则性基础，这使其建模地位变得模糊而有限，更宜把它们归类为 Krogh 生物。人工生物并非明确以表征某个目标系统为旨归，而是以问题为焦点，其表征目标是狭窄的（Hardalupas 2021）[^hardalupas-2021]。在缺乏共同的物质构成的情况下，关于把人工模式生物当作认知与行为能力之模式生物的问题，取决于能否回答更根本的问题：这类能力究竟需要什么——具体说，智能、认知与复杂行为到底是否需要生物基质（更多讨论见 Bickle 2020）[^bickle-2020]。
+    step2: |-
+      照 Ankeny 与 Leonelli 对模式生物的说明，一个系统至起码得处在一种以表征范围与表征目标为特征的模式化关系里，才算模式生物。动物模式生物满足这条：它们属于界定明确、有共同演化史的生物类群，这既限定了结果能概括到哪些系统，也限定了这些结果被认为表征了哪些特征。反观 DNN，它没有共同演化史，只是非生物的模型，局限摆在那里，所谓表征范围、表征目标究竟指什么，就说不清了（Scholte 2018）[^scholte-2018]。再说，这类模型运作所凭的因果机制只弄懂了一部分，要说清它们表征哪些系统、在哪方面表征，就难（Millière and Buckner 2024 [其他网络资源]）。许多情形下，人工系统所例示的功能，设计上就跟目标系统里的功能不一样。Hardalupas（2021）主张，DNN 缺一条向某类确定生物或现象投射的原则性依据，其建模地位因此模糊而有限，不如归为 Krogh 生物。人工生物不以表征某个目标系统为明确旨归，它盯的是问题，表征目标也窄（Hardalupas 2021）[^hardalupas-2021]。既没有共同的物质构成，那么“人工模式生物能否充当认知与行为能力的模式生物”一问，就得先回答更根本的问题：这类能力到底需要什么——说白了，智能、认知与复杂行为是不是非要有生物基质不可（详见 Bickle 2020）[^bickle-2020]。
   - id: 90
     kind: body
     source: |-
       The ontology of organisms is complicated by recent efforts to use AI models to construct novel biological building blocks to generate novel model organisms, as well as novel behaviors (Kriegman et al. 2020)[^kriegman-2020]. These pipelines complicate the boundary of model organisms insofar as biological information guides cognitive and behavioral modeling, then the representational scope and targets of these artificially generated systems, including the basis for projecting their results to natural organisms, remain indeterminate.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      生物的本体论因晚近用 AI 模型构造新颖生物学构件、以生成新颖模式生物及新颖行为的努力而变得复杂（Kriegman et al. 2020）[^kriegman-2020]。只要生物学信息引导着认知与行为建模，这些流程就搅乱了模式生物的边界；而这些人工生成的系统的表征范围与表征目标、包括把其结果投射到自然生物的依据，仍然是不确定的。
+    step2: |-
+      近来的尝试又给生物的本体论添了乱：用 AI 模型造出新颖的生物学构件，由此生成新颖的模式生物，还生成新颖的行为（Kriegman et al. 2020）[^kriegman-2020]。只要生物学信息在引导认知与行为建模，这些流程就把模式生物的边界搅糊涂了；而这些人工生成的系统，其表征范围与表征目标、连同把结果投射回自然生物的根据，都还没个准。
   - id: 91
     kind: body
     source: |-
       ## 6. Implications of Model Organism Research
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6. 模式生物研究的意涵
+    step2: |-
+      ## 6 模式生物研究的意涵
   - id: 92
     kind: body
     source: |-
       Out of the nine million or so species available to scientists, even a generously inclusive list of model organisms is only going to constitute a very small sample of extant species. Considered from a phylogenetic standpoint, the NIH canonical model organisms are confined to a very small portion of the tree of life. If, on the one hand, the point of designating model organisms was for them to serve as models for human biomedicine, perhaps this restricted range of species is justified. On the other hand, if model organisms are conceived of as needing to represent a wider array of species and addressing questions beyond the confines of biomedicine, then perhaps their lack of biodiversity is a more serious concern.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在科学家可用的约九百万个物种中，即便一份从宽收录的模式生物清单，也只会构成现存物种的一个极小样本。从系统发生的立场看，NIH 的经典模式生物只限于生命之树的极小一部分。一方面，如果指定模式生物的目的在于让它们充当人类生物医学的模型，那么这种受限的物种范围也许是有道理的。另一方面，如果模式生物被设想为需要代表更广的一组物种、并处理生物医学范围之外的问题，那么它们生物多样性的匮乏也许就是一个更严重的隐忧。
+    step2: |-
+      科学家手边约有九百万个物种，即便把模式生物的名单放宽，它也只是现存物种中极小的一份样本。从系统发生上看，NIH 的经典模式生物只占了生命之树的一丁点。一方面，若指定模式生物本就是为了给人类生物医学当模型，物种范围窄些倒也有理。另一方面，若设想模式生物该代表更广的一批物种、还得处理生物医学以外的问题，那它们生物多样性的贫乏就成了更严重的隐忧。
   - id: 93
     kind: body
     source: |-
       ### 6.1 The Research Biodiversity Challenge
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.1 研究生物多样性的难题
+    step2: |-
+      ### 6.1 研究生物多样性的难题
   - id: 94
     kind: body
     source: |-
       Some critics of model organism research argue that many of these canonical model organisms were chosen without sufficient attention to diversity of life forms available to study (Bolker 2019, Gest 1995, Hughes and Kaufman 2000, Gilbert 2009)[^bolker-2019][^gest-1995][^gilbert-2009][^hughes-2000]. Ralf Sommer, for instance, wrote, “All established model organisms represent just one of many species in a given taxa.… Also, these organisms do not represent the tree of life in a comprehensive way” (Sommer 2005)[^sommer-2005]. Others object to a presumption of generality regarding molecular processes that has led model organism researchers to discount the importance of variation and of comparison between species (Bolker 2012, 2019; Bolker and Raff 2009; Gest 1995; Jenner and Wills 2007; Gilbert 2009; Sedivy 2009; Sommer 2009, Farris 2020)[^bolker-2009][^bolker-2012][^bolker-2009-2][^farris-2020][^gest-1995][^gilbert-2009][^jenner-2007][^sedivy-2009][^sommer-2009]. Among the many proposed solutions to this narrow focus have been to sample more widely (Bolker 2012)[^bolker-2012], sample related but similar species (Sommer 2005)[^sommer-2005], sample species that “illustrate evo-devo’s conceptual themes” (Jenner and Wills 2007)[^jenner-2007], and to be more careful in extrapolating from one species to another (Budd 2012)[^budd-2012]. Another biologist has suggested disposing “of the terms ‘model’ and ‘non-model’ systems and adopt instead the more accurate term ‘research organism’” (Sánchez Alvarado 2018)[^sánchez-2018].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些模式生物研究的批评者主张，这些经典模式生物中有许多在被选中时，并未充分注意可用于研究的生命形式的多样性（Bolker 2019, Gest 1995, Hughes and Kaufman 2000, Gilbert 2009）[^bolker-2019][^gest-1995][^gilbert-2009][^hughes-2000]。例如，Ralf Sommer 写道，“所有已确立的模式生物都只是某一分类单元中众多物种之一……而且，这些生物并不以全面的方式代表生命之树”（Sommer 2005）[^sommer-2005]。另一些人则反对一种关于分子过程之普遍性的预设，这种预设使模式生物研究者低估了变异以及物种之间比较的重要性（Bolker 2012, 2019; Bolker and Raff 2009; Gest 1995; Jenner and Wills 2007; Gilbert 2009; Sedivy 2009; Sommer 2009, Farris 2020）[^bolker-2009][^bolker-2012][^bolker-2009-2][^farris-2020][^gest-1995][^gilbert-2009][^jenner-2007][^sedivy-2009][^sommer-2009]。针对这一狭隘焦点提出的许多解决办法包括：更广泛地取样（Bolker 2012）[^bolker-2012]、取亲缘相近但相似的物种（Sommer 2005）[^sommer-2005]、取“体现演化发育生物学概念主题”的物种（Jenner and Wills 2007）[^jenner-2007]，以及在从一个物种外推到另一个物种时更加谨慎（Budd 2012）[^budd-2012]。另一位生物学家建议摒弃“‘模式’与‘非模式’系统的说法，改采更准确的术语‘研究生物’”（Sánchez Alvarado 2018）[^sánchez-2018]。
+    step2: |-
+      模式生物研究的一些批评者认为，这些经典模式生物里有许多当初被挑中时，并没有充分顾及可用于研究的生命形式有多多样（Bolker 2019, Gest 1995, Hughes and Kaufman 2000, Gilbert 2009）[^bolker-2019][^gest-1995][^gilbert-2009][^hughes-2000]。Ralf Sommer 就说，“所有已确立的模式生物，都只是某一分类单元里众多物种之一……再说，这些生物也未能全面地代表生命之树”（Sommer 2005）[^sommer-2005]。另一些人反对一种关于分子过程之普遍性的预设，正是这种预设让模式生物研究者看轻了变异、看轻了物种之间的比较（Bolker 2012, 2019; Bolker and Raff 2009; Gest 1995; Jenner and Wills 2007; Gilbert 2009; Sedivy 2009; Sommer 2009, Farris 2020）[^bolker-2009][^bolker-2012][^bolker-2009-2][^farris-2020][^gest-1995][^gilbert-2009][^jenner-2007][^sedivy-2009][^sommer-2009]。针对这种狭隘，提出的办法不少：扩大取样面（Bolker 2012）[^bolker-2012]；取亲缘近而相似的物种（Sommer 2005）[^sommer-2005]；取“能体现演化发育生物学概念主题”的物种（Jenner and Wills 2007）[^jenner-2007]；从一个物种外推到另一个物种时更审慎（Budd 2012）[^budd-2012]。还有一位生物学家主张，干脆弃用“‘模式’与‘非模式’系统”的说法，改用更准确的术语“研究生物”（Sánchez Alvarado 2018）[^sánchez-2018]。
   - id: 95
     kind: body
     source: |-
       Documenting changes in organism used in biological research using bibliometric data, Dietrich, Ankeny, and Chen demonstrated that since 1960 there has been considerable growth in the use of most of the NIH canonical model organisms (Dietrich, Ankeny, and Chen 2014). Moreover, within the journal *Genetics* since 1960, the proportion of publication using non-model organisms has declined sharply. Although articles using non-model organisms comprise only 25% of the articles published in 2010, they account for 75% of the biodiversity in the journal’s articles. Overall, the diversity of species represented in the pages of Genetics is about the same between 1960 and 2010. The number of species (species richness) has actually increased since 1960, but that increase has come largely from non-model species (Dietrich, Ankeny, and Chen 2014). This overall increase in the diversity of organisms used in biological research has been further supported by an analysis of organism use trends in 817,239 publications (Pierson et al. 2017). However, Pierson and his collaborators note that this diversifying trend plateaued in the 1990s and that the instances of model organism use declined in their sample “from around 26–28% in the 1980s to around 21–22% in the 2010s.” Peirson and his collaborators conclude that their data calls into question “the widely held assumption that a small handful of model organisms have increasingly dominated biomedical research, causing declines in the diversity of experimental organisms in general” (Pierson et al. 2017). Earlier, Jamie Davies surveyed publications in developmental biology and argued that there is no clear dividing line between model and non-model organisms (Davies 2007)[^davies-2007]. He takes this to be evidence that there is no preference for model organisms, despite the fact that the most widely used organisms in development are model organisms (Davies 2007)[^davies-2007].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Dietrich、Ankeny 和 Chen 利用文献计量数据记录生物学研究所用生物的变化，表明自 1960 年以来，大多数 NIH 经典模式生物的使用都有相当大的增长（Dietrich, Ankeny, and Chen 2014）。此外，在《遗传学》杂志内，自 1960 年以来使用非模式生物的文章比例急剧下降。尽管使用非模式生物的文章只占 2010 年发表文章的 25%，却占了该刊文章中生物多样性的 75%。总体而言，《遗传学》版面所代表的物种多样性在 1960 年与 2010 年之间大致相当。物种数量（物种丰富度）自 1960 年以来其实有所增加，但增加主要来自非模式物种（Dietrich, Ankeny, and Chen 2014）。对 817,239 篇出版物中生物使用趋势的分析，进一步支持了生物学研究所用生物多样性总体上的增长（Pierson et al. 2017）。然而，Pierson 及其合作者指出，这种多样化趋势在 20 世纪 90 年代趋于平缓，其样本中模式生物使用的比例“从 20 世纪 80 年代的约 26–28% 降至 2010 年代的约 21–22%”。Pierson 及其合作者得出结论：他们的数据使人怀疑“这样一种广为接受的假设：少数几种模式生物日益主导生物医学研究，导致实验生物多样性总体上下降”（Pierson et al. 2017）。此前，Jamie Davies 调查了发育生物学中的出版物，主张模式生物与非模式生物之间并没有清晰的分界线（Davies 2007）[^davies-2007]。他以此作为不存在对模式生物之偏好的证据，尽管发育研究中最广泛使用的生物正是模式生物（Davies 2007）[^davies-2007]。
+    step2: |-
+      Dietrich、Ankeny 与 Chen 用文献计量数据追踪生物学研究所用生物的变迁，表明自 1960 年以来，大多数 NIH 经典模式生物的使用量都增长可观（Dietrich, Ankeny, and Chen 2014）。而在《遗传学》杂志内部，自 1960 年以来使用非模式生物的文章比例却急遽下滑。2010 年发表的文章里，用非模式生物的只占 25%，却贡献了该刊文章所含生物多样性的 75%。总体看，《遗传学》版面所代表的物种多样性，1960 年与 2010 年大致相当。物种数量（物种丰富度）自 1960 年以来其实还增了，只不过增量主要来自非模式物种（Dietrich, Ankeny, and Chen 2014）。对 817,239 篇出版物所作生物使用趋势分析，进一步支持了生物学研究所用生物多样性总体上升（Pierson et al. 2017）。不过 Pierson 等人指出，这股多样化势头在 20 世纪 90 年代就平了下来，样本里模式生物使用的比例“从 20 世纪 80 年代的约 26–28%，降到 2010 年代的约 21–22%”。他们据此认为，数据使人怀疑“这样一个广为接受的假设：少数几种模式生物日益主导生物医学研究，拖累了实验生物多样性的总体水平”（Pierson et al. 2017）。更早，Jamie Davies 翻查发育生物学出版物，主张模式生物与非模式生物之间并无清晰界线（Davies 2007）[^davies-2007]。他拿这一点当证据，说明并不存在对模式生物的偏爱——尽管发育研究里用得最广的恰恰就是模式生物（Davies 2007）[^davies-2007]。
   - id: 96
     kind: body
     source: |-
       These analyses of trends in research biodiversity should not be taken to imply that the concerns of scientists asking for more attention to a wider range of organisms have been addressed. Most of the concerns raised regarding research biodiversity are made with reference to specific fields of research, such as evolutionary developmental biology. Overall trends and the trend in the journal *Genetics* may not accurately represent that of other fields within biology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些关于研究生物多样性趋势的分析，不应被理解为：要求更多关注更广范围生物的科学家们的关切已经得到解决。关于研究生物多样性所提出的大多数关切，都是针对特定研究领域而发的，例如演化发育生物学。总体趋势以及《遗传学》杂志中的趋势，也许不能准确代表生物学中其他领域的情形。
+    step2: |-
+      这些关于研究生物多样性趋势的分析，不能理解为：那些呼吁多关注一些生物的科学家，其关切已经解决。关于研究生物多样性的大多数关切，都是对着特定研究领域说的，比如演化发育生物学。总体趋势也好，《遗传学》杂志里的趋势也罢，未必准确代表生物学其他领域的情形。
   - id: 97
     kind: body
     source: |-
       ### 6.2 Ethical Implications
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.2 伦理意涵
+    step2: |-
+      ### 6.2 伦理意涵
   - id: 98
     kind: body
     source: |-
       The extensive use of animal systems in biomedical research, including the animal model organisms, has been the subject of criticism from proponents of animal ethics for decades (Franco 2013, Green 2024)[^franco-2013][^green-2024]. While acknowledging the scientific value of animal experimentation, William Russell and Rex Burch began advocating for more humane standards in animal experimentation in the 1950s (Russell and Burch 1959)[^russell-1959]. Their book, The Principles of Humane Experimental Technique, famously argued for the adoption of the 3Rs: Refine, Reduce, and Replace. Refinement of experimental practices sought to decrease the suffering of animals used in experiments, while reduction urged researchers to use as few animals as possible while still maintaining the quality of their experiment. Replacement urged the substitution of “non-sentient material” for “conscious living vertebrates” (Russell and Burch 1959)[^russell-1959]. The three Rs approach became widely accepted in the 1980s as a moderate path in animal ethics (Franco 2013)[^franco-2013]. Versions of it are now common parts of animal welfare policies, including those the European Commission.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      动物系统在生物医学研究中的广泛使用，包括动物模式生物，数十年来一直是动物伦理倡导者批评的对象（Franco 2013, Green 2024）[^franco-2013][^green-2024]。在承认动物实验之科学价值的同时，William Russell 与 Rex Burch 于 20 世纪 50 年代开始倡导动物实验中更人道的标准（Russell and Burch 1959）[^russell-1959]。他们那本《人道实验技术原理》以主张采纳 3R 而著名，即优化、减少与替代。实验实践的优化力求减少所用动物的痛苦，减少则敦促研究者在维持实验质量的同时尽量少用动物，替代则敦促以“无感觉的材料”取代“有意识的活动脊椎动物”（Russell and Burch 1959）[^russell-1959]。3R 进路在 20 世纪 80 年代作为动物伦理中的一条温和路线而被广泛接受（Franco 2013）[^franco-2013]。如今其各种版本已成为动物福利政策的常见组成部分，包括欧盟委员会的相关政策。
+    step2: |-
+      动物系统在生物医学研究中的广泛使用，动物模式生物也在内，几十年来一直是动物伦理倡导者的批评靶子（Franco 2013, Green 2024）[^franco-2013][^green-2024]。William Russell 与 Rex Burch 一面承认动物实验的科学价值，一面从 20 世纪 50 年代起倡导更人道的实验标准（Russell and Burch 1959）[^russell-1959]。他们的《人道实验技术原理》因主张采纳 3R 而闻名：优化、减少、替代。优化，是设法减轻实验动物的痛苦；减少，是敦促研究者在保住实验质量的前提下尽量少用动物；替代，是敦促以“无感觉的材料”取代“有意识的活动脊椎动物”（Russell and Burch 1959）[^russell-1959]。3R 进路在 20 世纪 80 年代作为动物伦理中的一条温和路线被广泛接受（Franco 2013）[^franco-2013]。如今它的各种版本已是动物福利政策的常规内容，欧盟委员会的政策也在其列。
   - id: 99
     kind: body
     source: |-
