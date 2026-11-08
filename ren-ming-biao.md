@@ -2435,6 +2435,43 @@
 | Alama, Jesse | — | Jesse Alama（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
 | Zalta, Edward | — | Edward Zalta（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
 | Nodelman, Uri | — | Uri Nodelman（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Mackie, J. L. | — | J. L. Mackie（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Rothman, K. J. | — | Rothman（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| VanderWeele, Tyler J. | — | VanderWeele（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Blumberg, Albert E. | — | Blumberg（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Hintikka, Jaakko | — | Hintikka（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Bachman, James | — | Bachman（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Moore, Brooke N. | — | Moore（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文（批判性思维教材作者，与 G. E. 摩尔异人）；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Parker, Richard | — | Parker（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Southworth, Jason | — | Southworth（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Swoyer, Chris | — | Swoyer（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| McCawley, James D. | — | James McCawley（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文（语言学家）；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Sanford, David H. | — | David Sanford（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文（条件句研究）；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| von Wright, Georg Henrik | — | Georg Henrik von Wright（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文（学界通行汉译“冯·赖特”备查）；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| von Fintel, Kai | — | Kai von Fintel（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文（语言学家）；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Downing, Peter | — | Peter Downing（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Wilson, Ian R. | — | Ian Wilson（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文（与 John L. Wilson 威尔逊异人）；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Gomes, Gilberto | — | Gilberto Gomes（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Wertheimer, Roger | — | Roger Wertheimer（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Held, Carsten | — | Carsten Held（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Goldstein, Laurence | — | Laurence Goldstein（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Crupi, Vincenzo | — | Vincenzo Crupi（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Iacona, Andrea | — | Andrea Iacona（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Raidl, Eric | — | Eric Raidl（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Douven, Igor | — | Igor Douven（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Nebel, Jacob | — | Jacob Nebel（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Jackson, Frank | — | Frank Jackson（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文（学界通行汉译“弗兰克·杰克逊”备查）；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Geis, Michael L. | — | Michael Geis（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Lycan, William G. | — | William Lycan（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Carnap, Rudolf | — | Rudolf Carnap（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文（学界通行汉译“卡尔纳普”备查；reism 正文同此）；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Swartz, Norman | — | Norman Swartz（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Borthwick, Richard | — | Richard Borthwick（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Chandler, Jake | — | Jake Chandler（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Kroon, Fred | — | Fred Kroon（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Lo, Y. S. | — | Y. S. Lo（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Alama, Jesse | — | Jesse Alama（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Zalta, Edward | — | Edward Zalta（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
+| Nodelman, Uri | — | Uri Nodelman（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09；凭证 2026-11-09 | 2026-11-09 |
 | Prichard, H. A. | — | H. A. 普里查德 | — | — | intuitionism-ethics | 学界通行汉译（《道德哲学基于错误吗？》作者）；凭证 2026-11-08 | 2026-11-08 |
 | Singer, Peter | — | 彼得·辛格 | — | — | intuitionism-ethics | 学界通行汉译（《饥荒、富裕与道德》作者）；凭证 2026-11-08 | 2026-11-08 |
 | Yi Kan | 李柬 | 李柬 | 1677–1727 | — | korean-confucianism | 汉文传统写法（朝鲜性理学家，号巍岩；湖洛之辩与韩元震对垒，主人与物性同） | 2026-11-08 |
