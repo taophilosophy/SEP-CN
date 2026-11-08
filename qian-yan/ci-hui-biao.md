@@ -162,7 +162,7 @@
 |epistêmê|知识|与 doxa 意见相对|
 |epistemic accuracy|认知准确||
 |epistemic arrogance|认知傲慢||
-|Epistemic Closure|认知封闭|知识论|
+|Epistemic Closure|认知闭合（亦作“认知封闭”）|知识论|
 |epistemic humility|认知谦逊||
 |epistemic self-confidence|认知自信||
 |Epistemology|认识论|审定名词（自然辩证法·科学哲学）|
@@ -1220,7 +1220,7 @@
 |Singularities|奇点||
 |Skepticism|怀疑论||
 |social construction|社会建构||
-|social contract|社会契约论||
+|social contract|社会契约论（亦作“社会契约”）|政治哲学理论名|
 |Social Dimensions|社会维度||
 |Social Institutions|社会制度||
 |social minimum|社会最低保障||

@@ -16,6 +16,8 @@
 | Actualism | — | 现实主义（模态形而上学；亦作“现实论”；伦理学语境词条定名作“现实主义”） | 语料回收（标题词） | 学界惯例（模态形而上学通行；审定“现实论”为地质学域同名不采）；凭证 2026-11-01 | 2026-11-01 |
 | actualization | — | 现实化 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | addiction | — | 成瘾 | moral-responsibility-empirical | 精神医学与哲学通行（substance addiction 物质成瘾） | 2026-11-07 |
+| aesthetic protectionism | — | 审美保护主义 | 首译（environmental-aesthetics） | 本词条术语（以审美价值为自然保护根据） | 2026-11-08 |
+| aesthetics of engagement | — | 介入美学 | 首译（environmental-aesthetics） | Berleant 术语（亦作“参与美学”“介入的美学”备查） | 2026-11-08 |
 | affected ignorance | — | 故作无知 | moral-responsibility-empirical | Moody-Adams 术语（affected ignorance）；与“可归咎的无知”相关 | 2026-11-07 |
 | affectedness (Betroffenheit) | — | 受触动 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | affective touch | — | 情感性触摸（亦作"情感性触觉"） | bodily-awareness 首译 | 审定名词库（termonline-all·阿尔茨海默病名词，2026-11-08 浏览器通道凭证，en=affective touch 精确命中） | 2026-11-08 |
@@ -28,6 +30,7 @@
 | anamnesis | — | 回忆（anamnesis） | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | anarchic hand | — | 无政府手 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | antecedent/consequent | — | 前件／后件 | 语料回收（marsilius-inghen 首译） | 逻辑学通行译法；凭证 2026-11-06 | 2026-11-06 |
+| Anthropocene | — | 人类世 | 首现（environmental-aesthetics） | 地质学通行（Crutzen 术语） | 2026-11-08 |
 | anticipation | — | 预期 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | antiperistasis | — | 反周流 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | appetite | — | 嗜欲 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
@@ -105,6 +108,7 @@
 | cross-modal | — | 跨模态 | 语料回收（molyneux-problem 首译） | 认知科学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | culpable ignorance | — | 可归咎的无知 | moral-responsibility-empirical | 责任伦理学通行（与“不可归咎的无知”对举） | 2026-11-07 |
 | cultural badge | — | 文化徽章 | moral-responsibility-empirical | 文化演化研究通行（Boyd & Richerson 系） | 2026-11-07 |
+| cultural landscape | — | 文化景观 | 首现（environmental-aesthetics） | 学界通行（文化地理学） | 2026-11-08 |
 | cunning of reason | — | 理性的狡计 | 语料回收（lakatos 首译） | 黑格尔研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | current self | — | 当前自我 | 语料回收（标题词） | 学界惯例（advance-directives 词条核心（×40））；凭证 2026-11-01 | 2026-11-01 |
 | dark-reared | — | 黑暗饲养 | 语料回收（molyneux-problem 首译） | 发育神经科学界通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -142,6 +146,7 @@
 | earlier self | — | 先前自我 | 语料回收（标题词） | 学界惯例（advance-directives 词条核心（×31））；凭证 2026-11-01 | 2026-11-01 |
 | divine ideas | — | 神圣理念 | 语料回收（marsilius-inghen 首译） | 神哲学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | echolocation | — | 回声定位 | 语料回收（molyneux-problem 首译） | 学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| ecological aesthetics | — | 生态美学 | 首现（environmental-aesthetics） | 学界通行（土地管理与景观建筑学文献同形） | 2026-11-08 |
 | ecological community | — | 生态群落 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | ecosystem | — | 生态系统 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | efference copy | — | 传出副本 | 语料回收（标题词） | 学界惯例（行动感知/认知科学通行）；凭证 2026-11-01 | 2026-11-01 |
@@ -150,6 +155,8 @@
 | enactive approach | — | 生成进路 | 语料回收（标题词） | 学界惯例（生成认知（enactivism）通行）；凭证 2026-11-01 | 2026-11-01 |
 | efficient/final cause | — | 动力因／目的因 | 语料回收（marsilius-inghen 首译） | 亚里士多德研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | ens inquantum ens | ens inquantum ens | 作为存在的存在 | 语料回收（marsilius-inghen 首译） | 形而上学通行译法；凭证 2026-11-06 | 2026-11-06 |
+| environmental aesthetics | — | 环境美学 | 首现（environmental-aesthetics） | 学界通行译名（SUMMARY 定名沿用；美学 sub-field 通行译法） | 2026-11-08 |
+| environmental ethics | — | 环境伦理学 | 首现（environmental-aesthetics） | 学界通行（应用伦理学分支） | 2026-11-08 |
 | epigenetic inheritance | — | 表观遗传 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | epistemic blame | — | 认识论责备 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | epistemic deference | — | 认知顺从 | moral-responsibility-empirical | 社会认识论通行（deference to testimony） | 2026-11-07 |
@@ -161,6 +168,7 @@
 | essentialist nominalism | — | 本质主义唯名论 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | ethical idealism | — | 伦理观念论 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | evaluative content | — | 评价性内容 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
+| everyday aesthetics | — | 日常美学 | 首现（environmental-aesthetics） | 学界通行（与 aesthetics-of-everyday 同族） | 2026-11-08 |
 | evolutionary developmental biology | — | 进化发育生物学 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | exemption | — | 豁免 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | existential feelings | — | 生存感受 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -246,6 +254,7 @@
 | juridicalisation of politics | — | 政治的司法化 | law-ideology | 学界惯例（作者 Sypnowich 自铸术语，直译+括注）；凭证 2026-11-03 | 2026-11-03 |
 | kaozhengxue | 考證學 | 考证学 | dai-zhen | 清代学术史通行译名（梁启超《清代学术概论》语；英 evidential learning）；凭证 2026-11-07 | 2026-11-07 |
 | kin selection | — | 亲缘选择 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| landscape model | — | 景观模式 | 首译（environmental-aesthetics） | Carlson 术语（如画式二维景面欣赏） | 2026-11-08 |
 | latency | — | 潜隐 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | law of the least means | — | 最小手段律 | antonio-rosmini | 罗斯米尼神义论术语（lex minimi medii） | 2026-11-07 |
 | Lazy Argument | — | 懒惰论证 | dialectical-school | 学界通行（“懒惰论证”通行译法）；凭证 2026-11-07 | 2026-11-07 |
@@ -258,6 +267,7 @@
 | material implication | — | 实质蕴涵 | dialectical-school | 逻辑学通行译法（真值函项条件句）；凭证 2026-11-07 | 2026-11-07 |
 | maximum likelihood | — | 最大似然法 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 
+| mediated appreciation | — | 中介化欣赏 | 首译（environmental-aesthetics） | 本词条术语（经表征的中介欣赏） | 2026-11-08 |
 | Megaric questions | — | 麦加拉问题 | diodorus-cronus | 学界通行（克吕西波对狄奥多罗斯所发展悖论的称呼）；凭证 2026-11-07 | 2026-11-07 |
 | mental proposition | — | 心灵命题 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | messianism | — | 弥赛亚主义 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -293,6 +303,7 @@
 | naive set theory | — | 朴素集合论 | 语料回收（mathematics-inconsistent 首译） | 数理逻辑界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | narrative view of desire | — | 欲望叙事观 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | natura naturans | — | 能生的自然 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| natural environmental model | — | 自然环境模式 | 首译（environmental-aesthetics）；本词条 NEM | Carlson 术语；亦作“自然主义模式”备查 | 2026-11-08 |
 | natural kind | — | 自然种类 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | naturalization of human / humanization of nature | — | 人的自然化／自然的人化 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | nature-subject (Natursubjekt) | — | 自然主体 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -334,8 +345,10 @@
 | per se predication | per se predication | 自身谓述 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法（per se 通译“自身”）；凭证 2026-11-06 | 2026-11-06 |
 | Petőfi Circle | Petőfi Circle | 裴多菲俱乐部 | 语料回收（lakatos 首译） | 1956 年匈牙利事件史学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | phylogeny | — | 系统发生 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| picturesque | — | 如画 | 首现（environmental-aesthetics） | 学界通行（十八世纪美学；亦作“如画性”备查） | 2026-11-08 |
 | population thinking | — | 群体思维 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | positional duties | — | 岗位职责 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
+| positive aesthetics | — | 肯定美学 | 首译（environmental-aesthetics） | Carlson 术语（自然中无丑之论） | 2026-11-08 |
 | positive law | — | 实定法 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | potential falsifier | — | 潜在证伪者 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | praedicamentum signi | praedicamentum signi | 符号范畴 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法（亦作 praedicamentum termini 词项范畴）；凭证 2026-11-06 | 2026-11-06 |
@@ -370,6 +383,7 @@
 | recompense | — | 报偿 | albo-joseph 首译 | 阿尔博第四篇术语（赏罚之报偿） | 2026-11-07 |
 | reification | — | 物化 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | reify | — | 实体化 | deductivism-mathematics | 学界通行（把可证性兑现为证明之存在）；凭证 2026-11-08 | 2026-11-08 |
+| rewilding | — | 再野化 | 首现（environmental-aesthetics） | 生态学通行（亦作“野化”备查） | 2026-11-08 |
 | robustness | — | 稳健性 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | rubber hand illusion | — | 橡胶手错觉 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | rule of law | — | 法治 | law-ideology | 学界通行译法（法理学通行；规则之治备查）；凭证 2026-11-03 | 2026-11-03 |
@@ -399,6 +413,8 @@
 | sacraments | — | 圣事 | 语料回收（marsilius-inghen 首译） | 天主教通行译法（新教多译“圣礼”）；凭证 2026-11-06 | 2026-11-06 |
 | salami tactics | — | 萨拉米战术 | 语料回收（lakatos 首译） | 史学界通行译法（拉科西用语）；凭证 2026-11-06 | 2026-11-06 |
 | sanction | — | 制裁 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
+| scenic aesthetic | — | 风景美学 | 首译（environmental-aesthetics）；Carlson 批判对象 | 学界惯例（scenic 译“风景”） | 2026-11-08 |
+| scientific cognitivism | — | 科学认知主义 | 首译（environmental-aesthetics）；与 NEM 同指 | 学界惯例（认知主义美学分支） | 2026-11-08 |
 | second intention | — | 第二意向 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | selected effects (theory of function) | — | 选择效果 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | selection rule | — | 选择定则 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -410,6 +426,7 @@
 | semantic information | — | 语义信息 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | sensationalism | — | 感觉主义 | antonio-rosmini | 近代认识论通行（与 sensism 感觉论区别） | 2026-11-07 |
 | sense of ownership | — | 拥有感 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
+| sense of place | — | 场所感 | 首现（environmental-aesthetics） | 人文地理与美学通行译法 | 2026-11-08 |
 | sensory substitution device (SSD) | — | 感官替代设备 | 语料回收（molyneux-problem 首译） | 认知科学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | separate spheres problem | — | 分离领域问题 | disability-care-rationing | 生物伦理学界通行（Brock 2003）；凭证 2026-11-08 | 2026-11-08 |
 | shengsheng | 生生 | 生生 | dai-zhen | 上游自带汉字；儒学通行（生生不息，英 flourishing of life）；凭证 2026-11-07 | 2026-11-07 |
@@ -433,6 +450,7 @@
 | strict implication | — | 严格蕴涵 | dialectical-school | 逻辑学通行译法（现代模态条件句）；凭证 2026-11-07 | 2026-11-07 |
 | subjective well-being | — | 主观幸福 | disability-care-rationing | 幸福研究通行（Kahneman, Diener & Schwarz 1999）；凭证 2026-11-08 | 2026-11-08 |
 | subjunctive hypocrisy | — | 反事实伪善 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
+| sublime | — | 崇高 | 首现（environmental-aesthetics；与 gadamer-aesthetics 诠释学的崇高 同源） | 学界千年通行（伯克/康德美学） | 2026-11-08 |
 | subpersonal | — | 亚个人的 | moral-responsibility-empirical | Dennett 术语通行（subpersonal vs person-level） | 2026-11-07 |
 | substantial concept | — | 实体概念 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | Sufism | — | 苏非主义 | arabic-islamic-mysticism | 伊斯兰研究通行（与 mysticism 神秘主义为上下位） | 2026-11-07 |
@@ -442,7 +460,7 @@
 | syncategorematic | — | 非范畴式 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | tautology | — | 同义反复 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | taxon | — | 分类单元 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
-| taʾwīl | — | 精神释经（隐义解经） | arabic-islamic-mysticism | 什叶派/苏非释经学通行 | 2026-11-07 |
+| taʾwīl | تأويل（التأويل） | 精神释经（隐义解经） | arabic-islamic-mysticism | 什叶派/苏非释经学通行 | 2026-11-07 |
 | teleonomy | — | 目的性 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | teleosemantics | — | 目的语义学 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | temporal atomism | — | 时间原子论 | diodorus-cronus | 学界通行（时间由离散不可分单位构成之说）；凭证 2026-11-07 | 2026-11-07 |
@@ -453,7 +471,7 @@
 | theosophy | — | 神智学 | antonio-rosmini | 罗斯米尼《Teosofia》书名定译（与神智学协会 theosophy 同形异指） | 2026-11-07 |
 | tianli | 天理 | 天理 | dai-zhen | 宋明理学通行术语（戴震“自然之分理”义）；凭证 2026-11-07 | 2026-11-07 |
 | tiaoli | 條理 | 条理 | dai-zhen | 上游自带汉字；戴震术语（英 good order）；凭证 2026-11-07 | 2026-11-07 |
-| token-based semantics | — | 基于个例的语义学 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
+| token-based semantics | — | 基于殊例的语义学 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；与 Token/type 册行（2026-10-27 先登）对齐定「殊例」；凭证 2026-11-08 | 2026-11-08 |
 | tragic choice | — | 悲剧性选择 | disability-care-rationing | 法学与伦理学通行（Calabresi & Bobbitt 1978）；凭证 2026-11-08 | 2026-11-08 |
 | transcendental term | — | 超越词项 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | treatment as an equal | — | 平等待人 | disability-care-rationing | 政治哲学通行（与 equal treatment 同等对待对举）；凭证 2026-11-08 | 2026-11-08 |
@@ -496,6 +514,7 @@
 | Via Moderna | Via Moderna | 近代之路 | 语料回收（marsilius-inghen 首译） | 中世纪晚期思想史通行译名（与 Via Antiqua 古代之路对举）；凭证 2026-11-06 | 2026-11-06 |
 | vision-for-action | — | 行动视觉 | 语料回收（molyneux-problem 首译） | 双视觉系统文献通行译法；凭证 2026-11-06 | 2026-11-06 |
 | vision-for-recognition | — | 识别视觉 | 语料回收（molyneux-problem 首译） | 双视觉系统文献通行译法；凭证 2026-11-06 | 2026-11-06 |
+| visual landscape quality assessment | — | 视觉景观质量评估（VLQA） | 首译（environmental-aesthetics） | 环境管理文献通行缩写照录 | 2026-11-08 |
 | visual prosthesis | — | 视觉假体 | 语料回收（molyneux-problem 首译） | 医学工程界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | volitional choice | — | 意愿选择 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | voluntarist | — | 意志论者 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
@@ -515,8 +534,8 @@
 
 | ziran | 自然 | 自然（self-so） | dai-zhen | 戴震哲学术语：自然而然者，与“必然”对举（英 self-so）；凭证 2026-11-07 | 2026-11-07 |
 | ʿilm al-ḥuḍurī | — | 在场之知 | arabic-islamic-mysticism | 苏哈拉瓦迪认识论通行（knowledge by presence） | 2026-11-07 |
-| ʿirfān | — | 灵知论 | arabic-islamic-mysticism | 伊朗语境 gnosticism 通行音译义 | 2026-11-07 |
-| Ḥikmah | — | 智慧（另译希克玛） | arabic-islamic-mysticism | 兼指智慧与哲学；与词汇表既裁定对齐 | 2026-11-07 |
+| ʿirfān | عرفان | 灵知论 | arabic-islamic-mysticism | 伊朗语境 gnosticism 通行音译义 | 2026-11-07 |
+| Ḥikmah | حكمة | 智慧（另译希克玛） | arabic-islamic-mysticism | 兼指智慧与哲学；与词汇表既裁定对齐 | 2026-11-07 |
 | 原文 | 原文 | 译法 | 首现 | 依据 | 裁定日期 |
 | ---- | ---- | ---- | ---- | ---- | -------- |
 | a priori knowledge | — | 先天知识 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
@@ -617,7 +636,7 @@
 | empirically equivalent | — | 经验等价的（亦作“经验等价”；审定名词作“经验等价的理论”） | 语料回收 | 审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | empiricism | — | 经验主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | epistêmê | ἐπιστήμη | 知识（与 doxa 意见相对） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
-| Epistemic Closure | — | 认知封闭 | 语料回收（标题词） | 学界惯例（知识论通行）；审定库无直接命中（凭证 2026-10-31） | 2026-10-31 |
+
 | epistemic injustice | — | 认知不义（亦作“认知不公正”） | 语料回收 | 学界惯例（Fricker 中译《认知不义》）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | Epistemology | — | 认识论 | 语料回收（标题词） | 审定名词库（termonline-all·自然辩证法·科学哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | epistemology of belief / of degrees of belief | — | 信念的认识论／信念度的认识论 | 首现（abduction） | 学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
@@ -1817,7 +1836,7 @@
 | physiocracy | — | 重农学派（重农主义） | august-rehberg 首译 | 经济思想史通行；凭证 2026-11-08 | 2026-11-08 |
 | Volksgeist | Volksgeist | 民族精神 | august-rehberg 首译 | 历史主义研究通行；凭证 2026-11-08 | 2026-11-08 |
 | ochlocracy | — | 暴民政治 | august-rehberg 首译 | 政治哲学通行（民众统治的贬义形态）；凭证 2026-11-08 | 2026-11-08 |
-| social contract | — | 社会契约 | august-rehberg 首译 | 政治哲学通行；凭证 2026-11-08 | 2026-11-08 |
+| social contract | — | 社会契约论（亦作“社会契约”） | august-rehberg 首译 | 政治哲学通行（理论名从词汇表既定形，2026-11-08 冲突归一）；凭证 2026-11-08 | 2026-11-08 |
 | reform conservatism | — | 改革保守主义 | august-rehberg 首译 | 保守主义研究通行；凭证 2026-11-08 | 2026-11-08 |
 | skepticism | — | 怀疑论 | august-rehberg 首译 | 哲学通行；凭证 2026-11-08 | 2026-11-08 |
 | practical faith | — | 实践信仰 | august-rehberg 首译 | 康德研究通行；凭证 2026-11-08 | 2026-11-08 |
@@ -2578,7 +2597,7 @@
 | atmospheric refraction | — | 大气折射 | nicole-oresme | 光学通行；凭证 2026-11-08 | 2026-11-08 |
 | supralunar | — | 月上的 | nicole-oresme | 亚里士多德宇宙论通行；凭证 2026-11-08 | 2026-11-08 |
 | void space | — | 虚空空间 | nicole-oresme | 自然哲学通行（extracosmic void 宇宙之外虚空）；凭证 2026-11-08 | 2026-11-08 |
-| epistemic closure | — | 认知闭合 | closure-epistemic 首译 | 知识论通行（epistemic closure 通译“认知闭合”，亦作“知识闭合”）；凭证 2026-11-08 | 2026-11-08 |
+| epistemic closure | — | 认知闭合 | closure-epistemic 首译；语料回收（标题词） | 知识论通行（SUMMARY 题名「认知闭合」；亦作“认知封闭”“知识闭合”）；审定库无直接命中（凭证 2026-10-31）；2026-11-08 两行合并 | 2026-11-08 |
 | closure (of knowledge under entailment) | — | 闭合 | closure-epistemic 首译 | 知识论通行（closed under entailment 在蕴涵下闭合）；凭证 2026-11-08 | 2026-11-08 |
 | entailment | — | 蕴涵 | closure-epistemic 首译 | 逻辑学通行（与 material implication 实质蕴涵 同族；entails 译“蕴涵”） | 2026-11-08 |
 | tracking (belief tracking) | — | 追踪（信念追踪） | closure-epistemic 首译 | 知识论通行（Nozick/Dretske 追踪条件）；凭证 2026-11-08 | 2026-11-08 |
