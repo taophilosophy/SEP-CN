@@ -1,0 +1,22 @@
+{
+  "slug": "saadya",
+  "kind": "retranslate",
+  "zh_doc": "s/saadya.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T22:00:24Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-08T22:00:24Z",
+  "version_pin": {
+    "pubinfo_date": "May 6, 2003",
+    "archive_edition": "Fall 2008",
+    "sha256": "183eb98ccde9830753f0e8ad3d378fcd4d3e9b67344e01eba8e1001b7152e587"
+  }
+}
