@@ -39,7 +39,7 @@
 
 ### 1. 已修：arabic-islamic-phil-math 三图发布侧缺件（内容缺陷）
 
-done 正文 L56/L64/L72 引用 `../assets/arabic-islamic-phil-math/Fig-{1,2,3}.svg`，`assets/` 下无该目录（`check_images.py` 悬空 5 条中占 3；镜像侧 `yuanwen/assets/<slug>/` 反而齐备）。已从不可变基线 `en/arabic-islamic-phil-math/` 原样复制三件到 `assets/arabic-islamic-phil-math/`，**SHA-256 逐件与源一致**（`D46B60DD…` / `160B1B53…` / `90D5905A…`）。复跑 `check_images.py`：md 2097｜可解析 79｜**悬空 5→2**（余二件属 i 批 imprecise-probabilities，不在 A 范围）。正文未改（alt `described in the previous paragraph` 系上游 alt 照译，与镜像 L57/L65/L73 一致，非缺陷）。任务记录已追加 `reconcile-fix` 步留证，状态保持 done。
+done 正文 L56/L64/L72 引用 `../assets/arabic-islamic-phil-math/Fig-{1,2,3}.svg`，`assets/` 下无该目录（`check_images.py` 悬空 5 条中占 3；镜像侧 `yuanwen/assets/<slug>/` 反而齐备）。已从不可变基线 `en/arabic-islamic-phil-math/` 原样复制三件到 `assets/arabic-islamic-phil-math/`，**SHA-256 逐件与源一致**（`D46B60DD…` / `160B1B53…` / `90D5905A…`）。复跑 `check_images.py`：md 2097｜可解析 79｜**悬空 5→2**（余二件属 i 批 imprecise-probabilities，不在 A 范围）。正文未改（alt `described in the previous paragraph` 系上游 alt 照译，与镜像 L57/L65/L73 一致，非缺陷）。另记：该任务文件原为 CRLF 行尾（A 批 160 件中的孤例，余件均 LF），本次改记录时顺带归一为 LF，属行尾归一、非内容改动。任务记录已追加 `reconcile-fix` 步留证，状态保持 done。
 
 ### 2. 已同步：PROGRESS.md 过期、批次认领转手
 
