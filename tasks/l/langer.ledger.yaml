@@ -1,0 +1,708 @@
+version: 1
+slug: langer
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Susanne K. Langer (born Susanne Katherina Knauth, 1895–1985) was and remains a widely-read and influential American philosopher, best known for her analyses of language, mind, art and ritual in terms of her notion of *symbolic form*, derived primarily from her study of logic, music, and the philosophical ideas of Sheffer, the early Wittgenstein, Russell, Whitehead, and Cassirer. Studying in Vienna in 1921, during the 1920s and 30s Langer gave pioneering readings of Frege, Russell, Whitehead and the early Wittgenstein, embedding their work within an American context in logic and philosophy stemming from the pragmatism, semiotics and philosophy of mind of Royce, Peirce, James and Sheffer and the *Gestalt* theory of Köhler (Sheffer, who studied under Royce and James, articulated “neutral monism” as a pragmatic theory as well as post-*Principia* mathematical logic; see Sheffer 1908; Russell 1927: Chapter 1)[^russell-1927][^sheffer-1908]. She published one of the first introductions to “analytic philosophy” (1930b) and one of the first modern textbooks in symbolic logic in English (1937a). She then generalized her theory of meaning to music, language and culture in *Philosophy in a New Key* (Langer 1942 [1957], hereafter “PNK”), which, with the help of the New American Library’s Mentor mass market edition of 1948, sold over 600,000 copies, making it one of the best-selling English language philosophy texts of the twentieth century (Dryden 2003a,b; Isaac 2020; Windle 2024)[^dryden-2003a][^isaac-2020][^windle-2024]. The book helped broaden English speakers’ understanding of Cassirer’s work on symbolic forms, which Langer had already appealed to in her dissertation (1926a); she would later collaborate with Cassirer in New York and translate his *Language and Myth* (1946) into English.
+    step1: |-
+      苏珊·K·朗格（Susanne K. Langer，原名 Susanne Katherina Knauth，1895–1985）过去是、现在仍然是一位读者广泛、影响深远的美国哲学家；她最著名的成就是以 *符号形式* 概念对语言、心灵、艺术与仪式的分析，而这一概念主要源自她对逻辑、音乐的研究，以及谢弗（Sheffer）、早期维特根斯坦、罗素、怀特海与卡西尔的哲学思想。1921 年她在维也纳学习；1920 与 30 年代，朗格对弗雷格、罗素、怀特海与早期维特根斯坦作出开创性解读，把这些工作嵌入美国的逻辑与哲学语境——该语境源自罗伊斯（Royce）、皮尔士、詹姆斯与谢弗的实用主义、符号学与心灵哲学，以及柯勒（Köhler）的 *格式塔* 理论（谢弗曾师从罗伊斯与詹姆斯，既阐发了作为实用主义理论的“中立一元论”，也阐发了《数学原理》之后的数理逻辑；见 Sheffer 1908；Russell 1927: 第 1 章）[^russell-1927][^sheffer-1908]。她出版了最早的“分析哲学”导论之一（1930b），以及最早的英语现代符号逻辑教科书之一（1937a）。随后她在《哲学新钥》（*Philosophy in a New Key*，Langer 1942 [1957]，下称“PNK”）中把意义理论推广到音乐、语言与文化；借助新美国文库 1948 年 Mentor 大众市场版，该书销量逾 60 万册，成为 20 世纪最畅销的英语哲学文本之一（Dryden 2003a,b; Isaac 2020; Windle 2024）[^dryden-2003a][^isaac-2020][^windle-2024]。这本书帮助英语读者更深入地理解卡西尔关于符号形式的研究——朗格早在博士论文（1926a）中就已借助这一研究；后来她在纽约与卡西尔合作，并把他的《语言与神话》（1946）译成英文。
+    step2: |-
+      苏珊·K·朗格（Susanne K. Langer，原名 Susanne Katherina Knauth，1895–1985）生前身后都是一位广受欢迎、影响深远的美国哲学家，尤以 *符号形式* 概念对语言、心灵、艺术与仪式的分析著称；这一概念主要来自她对逻辑与音乐的研究，以及谢弗（Sheffer）、早期维特根斯坦、罗素、怀特海与卡西尔的思想。1921 年朗格在维也纳学习；1920、30 年代，她对弗雷格、罗素、怀特海与早期维特根斯坦作出开创性解读，把这些工作嵌入美国的逻辑与哲学传统——该传统源自罗伊斯（Royce）、皮尔士、詹姆斯与谢弗的实用主义、符号学与心灵哲学，以及柯勒（Köhler）的 *格式塔* 理论（谢弗出自罗伊斯与詹姆斯门下，既阐发过作为实用主义理论的“中立一元论”，也阐发过《数学原理》之后的数理逻辑；见 Sheffer 1908；Russell 1927: 第 1 章）[^russell-1927][^sheffer-1908]。她写有最早的“分析哲学”导论之一（1930b），以及最早的英语现代符号逻辑教科书之一（1937a）。其后在《哲学新钥》（*Philosophy in a New Key*，Langer 1942 [1957]，下称“PNK”）中，她把意义理论推广到音乐、语言与文化；该书借新美国文库 1948 年 Mentor 大众版之力售出逾 60 万册，跻身 20 世纪最畅销英语哲学文本之列（Dryden 2003a,b; Isaac 2020; Windle 2024）[^dryden-2003a][^isaac-2020][^windle-2024]。此书也拓展了英语读者对卡西尔符号形式学说的理解——朗格早在博士论文（1926a）中即已援引该学说；后来她又在纽约与卡西尔共事，并将其《语言与神话》（1946）译为英文。
+  - id: 2
+    kind: body
+    source: |-
+      Langer’s *Feeling and Form, A Theory of Art Developed from Philosophy in a New Key* (1953, hereafter “FF”) invented the notion of “virtual reality”, generalizing Langer’s theory of music in PNK to all the arts. It made her one of the most influential American philosophers of art of her time. Insisting that feeling constitutes a basic strand in the evolution of human culture and thought, Langer influenced philosophers (e.g., her students Arthur Danto, Nelson Goodman, Howard Gardner, and Peter Kivy) and important critics and artists (e.g., Clement Greenberg, Eva Hesse, Walker Percy, and Elizabeth Bishop [Wehr 1993])[^wehr-1993]. Though she was undercited in the 1960s–1990s (Isaac 2020; Verhaegh 2022; Dengerink Chaplin 2020: ch. 3; Auxier 2024)[^auxier-2024][^dengerink-2020][^isaac-2020][^verhaegh-2022][^verhaegh-2022-2], Langer achieved lasting academic and cultural recognition in the philosophy of music and dance, and also during her lifetime as a public intellectual, writing on of philosophy of science, world politics, art, education, and social design, as well as linguistics, semiotics, the anthropology of art, biology, and psychology. Her notion of *symbolic form* is increasingly discussed today as questions about virtuality, symbolic form and politics rise to the fore of philosophy’s concern with new media, digital cultures, and political, phenomenological and economic aspects of algorithmic technology (Chalmers 2022; Massumi 2011, 2015, 2024)[^chalmers-2022][^massumi-2011].
+    step1: |-
+      朗格的 *《情感与形式：从〈哲学新钥〉发展出的艺术理论》*（1953，下称“FF”）发明了“虚拟现实”概念，把 PNK 中的音乐理论推广到一切艺术。这使她成为当时最有影响力的美国艺术哲学家之一。朗格坚持情感是人类文化与思想演化中的基本脉络，影响了哲学家（如她的学生阿瑟·丹托、纳尔逊·古德曼、霍华德·加德纳与彼得·基维）以及重要的批评家与艺术家（如克莱门特·格林伯格、伊娃·赫斯、沃克·珀西与伊丽莎白·毕肖普［Wehr 1993］）[^wehr-1993]。尽管在 1960–90 年代引用不足（Isaac 2020; Verhaegh 2022; Dengerink Chaplin 2020: 第 3 章; Auxier 2024）[^auxier-2024][^dengerink-2020][^isaac-2020][^verhaegh-2022][^verhaegh-2022-2]，朗格在音乐哲学与舞蹈哲学中获得了持久的学术与文化承认；她生前亦以公共知识分子身份写作，涉猎科学哲学、世界政治、艺术、教育与社会设计，以及语言学、符号学、艺术人类学、生物学与心理学。随着虚拟性、符号形式与政治等问题走向哲学关注新媒体、数字文化以及算法技术的政治、现象学与经济面向的前沿，她的 *符号形式* 概念在今天日益受到讨论（Chalmers 2022; Massumi 2011, 2015, 2024）[^chalmers-2022][^massumi-2011]。
+    step2: |-
+      朗格的 *《情感与形式：从〈哲学新钥〉发展而来的艺术理论》*（1953，下称“FF”）提出了“虚拟现实”概念，把 PNK 的音乐理论扩展至一切艺术，使她跻身当时最有影响的美国艺术哲学家之列。朗格主张情感是人类文化与思想演化的基本脉络，其影响及于哲学家（如其学生阿瑟·丹托、纳尔逊·古德曼、霍华德·加德纳与彼得·基维）和重要的批评家、艺术家（如克莱门特·格林伯格、伊娃·赫斯、沃克·珀西与伊丽莎白·毕肖普［Wehr 1993］）[^wehr-1993]。尽管 1960–90 年代引用不足（Isaac 2020; Verhaegh 2022; Dengerink Chaplin 2020: 第 3 章; Auxier 2024）[^auxier-2024][^dengerink-2020][^isaac-2020][^verhaegh-2022][^verhaegh-2022-2]，朗格在音乐哲学与舞蹈哲学中仍赢得了持久的学术与文化承认；生前作为公共知识分子，她还就科学哲学、世界政治、艺术、教育与社会设计，以及语言学、符号学、艺术人类学、生物学与心理学撰文。时下虚拟性、符号形式与政治诸问题正走向哲学关切新媒体、数字文化及算法技术之政治、现象学与经济面向的前沿，她的 *符号形式* 概念亦随之日益受到讨论（Chalmers 2022; Massumi 2011, 2015, 2024）[^chalmers-2022][^massumi-2011]。
+  - id: 3
+    kind: body
+    source: |-
+      Langer’s trilogy *Mind: An Essay on Human Feeling* (1967–1982) pioneered a systems approach to the emergence of consciousness from its evolutionary biological roots. Extending her notions of *feeling* and *form*, Langer offered an encyclopedic review of the biology, neurology, psychology, ethology, and anthropological hypotheses about human culture of her time, treating the emergence of organic life from matter, animal ethology, and the higher-order emergence of various systems of culture in terms of a general notion of *act*, differentiated into a range of organic forms of life-processes and adaptations (impact and response, reflex, association, sign languages of animals, etc.). This conceptual work foreshadowed the affective turn in neurology and philosophy of mind, as well as the philosophical turn toward animal ethology, environment, and forms of life, offering an early alternative, both to cybernetics and to behaviorism (Dryden 2007)[^dryden-2007].
+    step1: |-
+      朗格的三部曲 *《心灵：论人类情感》*（1967–1982）开创了一种系统进路，考察意识如何从其演化生物学的根基中涌现。朗格扩展其 *情感* 与 *形式* 概念，对当时关于人类文化的生物学、神经学、心理学、动物行为学与人类学假说作了百科式综述：她把有机生命从物质中的涌现、动物行为学，以及各种文化系统的高阶涌现，都放在一个普遍的 *活动* 概念下处理，并把这一概念区分为一系列有机的生命过程与适应形式（冲击与反应、反射、联想、动物的信号语言等）。这一概念工作预示了神经学与心灵哲学中的“情感转向”，也预示了哲学转向动物行为学、环境与生命形式；它同时为控制论与行为主义提供了一种早期替代方案（Dryden 2007）[^dryden-2007]。
+    step2: |-
+      朗格的三部曲 *《心灵：论人类情感》*（1967–1982）首开系统进路，探讨意识如何从演化生物学的根基中涌现。她扩展 *情感* 与 *形式* 概念，对当时有关人类文化的生物学、神经学、心理学、动物行为学与人类学假说作了百科式综述；有机生命从物质中的涌现、动物行为学，以及各类文化系统的高阶涌现，均被纳入一个普遍的 *活动* 概念，并区分为一系列有机的生命过程与适应形式（冲击与反应、反射、联想、动物的信号语言等）。这番概念工作预示了神经学与心灵哲学中的情感转向，也预示了哲学向动物行为学、环境与生命形式的转向，并为控制论与行为主义双双提供了早期替代方案（Dryden 2007）[^dryden-2007]。
+  - id: 4
+    kind: body
+    source: |-
+      ## 1. Overview
+    step1: |-
+      ## 1 概览
+    step2: |-
+      ## 1 概览
+  - id: 5
+    kind: body
+    source: |-
+      Langer argues that the human mind is less like a telephone switchboard working up associative connections for practical purposes than it is “like a great projector” (PNK ch. II; 1944, 139), a “transformer” of *feelings* (perceptions, emotions, selective attentions, imaginings, etc.) and signs into expressive *symbols* (language, culture, mentality, dream, art). What she calls *symbolic transformation* is a natural human activity lifting us out of the immediate world of material survival and instinct, allowing us to develop higher-order “forms” of reasoning, thinking and feeling (PNK Preface). Human beings live, Langer wrote,
+    step1: |-
+      朗格主张，人的心灵不太像一台为实用目的编织联想连接的电话交换机，而毋宁“像一台巨大的投影仪”（PNK 第 II 章；1944, 139），把 *情感*（知觉、情绪、选择性注意、想象等）与记号转换成有表现力的 *符号*（语言、文化、心智、梦、艺术）。她所谓的 *符号转换* 是一种自然的人类活动，把我们提升出物质生存与本能支配的直接世界，使我们得以发展更高阶的推理、思维与情感“形式”（PNK 序言）。朗格写道，人类的生活
+    step2: |-
+      朗格主张，人的心灵并不像一台为实用目的而编织联想连结的电话交换机，倒不如说“像一台巨大的投影仪”（PNK 第 II 章；1944, 139）：它把 *情感*（知觉、情绪、选择性注意、想象等）与记号转换为富有表现力的 *符号*（语言、文化、心智、梦、艺术）。她所称的 *符号转换* 是一种自然的人类活动，将我们提升出物质生存与本能支配的直接世界，从而发展出更高阶的推理、思维与情感“形式”（PNK 序言）。朗格写道，人活着
+  - id: 6
+    kind: body
+    source: |-
+      > as much by symbols as by sense report, in a realm compounded of tangible things and images, of actual events and ominous portents, always between fact and fiction. (1944: 127)
+    step1: |-
+      > 既靠符号，也靠感官报告；人生活在由有形之物与意象、真实事件与凶兆预兆交织而成的领域里，永远处于事实与虚构之间。（1944: 127）
+    step2: |-
+      > 既靠符号，也靠感官报告；人置身于有形之物与意象、真实事件与凶险征兆交织而成的领域，始终游走于事实与虚构之间。（1944: 127）
+  - id: 7
+    kind: body
+    source: |-
+      This distinguishes us from other animals with whom we share many biological needs and the capacity for associating signs with events (PNK ch. II). Our mental life evolves in complex, higher-order ways from the most basic physical, biological and animal processes, an evolution of “form” whose shapes Langer characterized in her last three books, the trilogy *Mind: An Essay on Human Feeling* (1967–1982, hereafter “MEHF”).
+    step1: |-
+      这把我们与其他动物区别开来，尽管我们与它们共享许多生物需求，也共享把记号与事件联系起来的能力（PNK 第 II 章）。我们的精神生活以复杂、高阶的方式从最基本的物理、生物与动物过程中演化而来；这是一种“形式”的演化，朗格在她最后三部书——三部曲 *《心灵：论人类情感》*（1967–1982，下称“MEHF”）——中刻画了这种演化的形态。
+    step2: |-
+      这使我们有别于其他动物——尽管我们与它们共享许多生物需求，也共享把记号与事件相联结的能力（PNK 第 II 章）。我们的精神生活从最基本的物理、生物与动物过程出发，以复杂而高阶的方式演化；这是“形式”的演化，其形态由朗格在最后三部著作——三部曲 *《心灵：论人类情感》*（1967–1982，下称“MEHF”）——中加以刻画。
+  - id: 8
+    kind: body
+    source: |-
+      According to Langer, the expressive symbolic “languages” of dream, ritual, art, religion and politics do not serve representation, denotation, reference and propositional articulation as “discursive” symbolisms do in science and mathematics; they are “presentational” in that they show but do not say. But they do not simply express the subjective state or intention of the creator; instead they are occurrent, concrete, symbolizing formations of organic feeling and life, creating “semblances” or *Schein*, to use Schiller’s term (see §5 below). Ritual, sacrament, dream, myth and the arts build up what she calls “virtual” and “illusory” spaces, times, motions, rhythms, movements and other forms of symbolization in art, religion, and politics. The various arts are differentiated by their specific guiding primary “illusions” and the structured conceptualizations of experience provided by our “symbolific” nature, in which the cognitive and the emotional are intertwined (PNK 34). It is characteristic that symbol and “meaning” (what is symbolized) are reversible, depending upon our interest: our perceptual experience is typically laced with both what is felt as present and what is felt as dream-like and illusory, a symbolized consciousness of the biological distinction Langer draws between what an organism takes on as impact, and what as autonomous action.
+    step1: |-
+      在朗格看来，梦、仪式、艺术、宗教与政治的富有表现力的符号“语言”，并不像科学与数学中的“推论性”符号系统那样服务于再现、指称、指涉与命题性表达；它们之所以是“表现性”的，是因为它们只显示而不言说。但它们也不只是表达创造者的主观状态或意图；相反，它们是发生性的、具体的、把有机情感与生命符号化的构造，创造出“外观”或 *Schein*——用席勒的术语说（见下文 §5）。仪式、圣事、梦、神话与艺术，构建起她所谓的“虚拟的”与“幻象的”空间、时间、运动、节律、位移，以及艺术、宗教与政治中其他形式的符号化。各种艺术之所以相互区别，在于各自特定的主导性“幻象”，以及由我们“符号制造”本性所提供的、对经验的结构化概念化——在其中，认知的与情感的交织在一起（PNK 34）。一个特征是：符号与“意义”（被符号化者）可以互换，取决于我们的兴趣；我们的知觉经验通常既含有被感受为在场的东西，也含有被感受为如梦似幻的东西——这是一种被符号化的意识，对应朗格在有机体所承受的冲击与其所从事的自主活动之间划出的生物学区分。
+    step2: |-
+      在朗格看来，梦、仪式、艺术、宗教与政治的富有表现力的符号“语言”，并不像科学与数学中的“推论性”符号系统那样承担再现、指称、指涉与命题表达的功能；它们属于“表现性”，只显示而不言说。但它们并非单纯表达创造者的主观状态或意图，而是发生性的、具体的构造，把有机情感与生命加以符号化，创造出“外观”或 *Schein*——借席勒的用语（见下文 §5）。仪式、圣事、梦、神话与艺术，构筑起她所称的“虚拟的”“幻象的”空间、时间、运动、节律、位移，以及艺术、宗教与政治中其他形式的符号化。各种艺术之别，在于各自特定的主导性“幻象”，以及我们“符号制造”本性所提供的对经验的结构化概念化——其中认知与情感彼此交织（PNK 34）。一个特征在于：符号与“意义”（被符号化者）可随我们的兴趣而互换；我们的知觉经验通常既掺有被感受为在场者，也掺有被感受为如梦似幻者——这是一种被符号化的意识，对应朗格就有机体承受的冲击与其从事的自主活动所作的生物学区分。
+  - id: 9
+    kind: body
+    source: |-
+      In broaching the notion of “virtual reality”, Langer developed notions of *illusion*, *semblance*, and *virtuality* in her FF that have proved influential in philosophy of culture and philosophy of mind (Massumi 2011; Lanier 2017; Chalmers 2022; Leddy 2024)[^chalmers-2022][^lanier-2017][^leddy-2024][^massumi-2011]. Chalmers (2022) takes Langer’s notions to preclude an experience of “reality” in virtual space by construing her “semblances” as “hallucinations”. Given Langer’s dual-dimensional conception of symbolic form, her pluralistic notion of “facts”, her conception of science, and the fundamentality of her conception of feeling to “presence” and “psychic distance”, it is unclear how far Chalmers is correct: philosophically Langer was stimulated less by questions of skepticism than by the challenge of framing a naturalistic account of mental activity, consciousness and unconsciousness (Langer 1924a; 1929; MEHF I, II, III) and explaining the role of imagination in specific arts (Leddy 2024; Man 2024)[^leddy-2024][^man-2024]. Moreover she insisted, as theorists of video games do, that our sense of agency spans the virtual and the real. Her notion of “form” was intended to secure the public, shareable aspects of thought and experience in the sciences and the arts while lifting cognitive and aesthetic response above the practical levels of purpose and play (PNK ch. VI).
+    step1: |-
+      朗格在提出“虚拟现实”概念时，在 FF 中发展了 *幻象*、*外观* 与 *虚拟性* 等概念；这些概念已在文化哲学与心灵哲学中证明富有影响（Massumi 2011; Lanier 2017; Chalmers 2022; Leddy 2024）[^chalmers-2022][^lanier-2017][^leddy-2024][^massumi-2011]。查尔默斯（2022）把朗格的“外观”理解为“幻觉”，据此认为她的概念排除了在虚拟空间中经验“实在”的可能。考虑到朗格关于符号形式的双维构想、她多元主义的“事实”概念、她的科学观，以及她的情感概念对“在场”与“心理距离”的根本性，查尔默斯在多大程度上正确并不清楚：从哲学上说，激发朗格的，与其说是怀疑论问题，不如说是如何构建对心理活动、意识与无意识的自然主义说明（Langer 1924a; 1929; MEHF I, II, III），并解释想象在特定艺术中的作用（Leddy 2024; Man 2024）[^leddy-2024][^man-2024]。此外，她像电子游戏理论家一样坚持：我们的能动感横跨虚拟与实在。她的“形式”概念意在确保科学与艺术中思想与经验的公共、可共享面向，同时把认知与审美反应提升到实用层面的目的与游戏之上（PNK 第 VI 章）。
+    step2: |-
+      朗格在提出“虚拟现实”时，于 FF 中发展出 *幻象*、*外观* 与 *虚拟性* 诸概念，这些概念在文化哲学与心灵哲学中已证明富有影响（Massumi 2011; Lanier 2017; Chalmers 2022; Leddy 2024）[^chalmers-2022][^lanier-2017][^leddy-2024][^massumi-2011]。查尔默斯（2022）将朗格的“外观”读作“幻觉”，因而认为她的概念不容有虚拟空间中的“实在”经验。然而，鉴于朗格符号形式的双维构想、其多元主义的“事实”观、其科学观，以及情感概念对“在场”与“心理距离”的根本地位，查尔默斯究竟在多大程度上正确，尚难断言：哲学上激发朗格的，与其说是怀疑论问题，不如说是如何构建关于心理活动、意识与无意识的自然主义说明（Langer 1924a; 1929; MEHF I, II, III），并解释想象在具体艺术中的作用（Leddy 2024; Man 2024）[^leddy-2024][^man-2024]。她还像电子游戏理论家那样坚持：我们的能动感横跨虚拟与实在。其“形式”概念意在确保科学与艺术中思想与经验的公共、可共享面向，同时把认知与审美反应提升到实用层面的目的与游戏之上（PNK 第 VI 章）。
+  - id: 10
+    kind: body
+    source: |-
+      Langer’s thought falls into three main periods. From 1924–1939 she worked in logic, philosophy of science, early analytic philosophy, and *Gestalt* psychology, offering pioneering interpretations of Frege, Husserl, Whitehead, Russell and Wittgenstein’s *Tractatus* in her dissertation (1926a), importing the ideas of the Vienna Circle to the United States, and authoring many articles and three books: a collection of children’s fairy tales (1923), an introduction to the new “analytic” philosophy (1930b), and one of the earliest American textbooks of modern symbolic logic (1937a). In the 1940s–1960s she published PNK, worked with Cassirer, and developed her influential theory of art, participating in public discussion of the cultural importance of the arts (FF, 1957, 1958, 1962b). Finally, her naturalistic treatment of the biology, neurology, ethology and evolved anthropological forms of life and feeling culminated in her non-reductive account of mentality in MEHF. Langer also wrote throughout her life as a public intellectual on problems of immigration, displacement, politics, war, authoritarianism, world government and democratic education (1922, 1930a, 1945b, 1949b, 1951c, 1962b, 1965 [1966], 1966).
+    step1: |-
+      朗格的思想分为三个主要时期。1924–1939 年，她从事逻辑、科学哲学、早期分析哲学与 *格式塔* 心理学研究：在博士论文（1926a）中对弗雷格、胡塞尔、怀特海、罗素与维特根斯坦《逻辑哲学论》作出开创性解释，把维也纳学派的观念引入美国，并写有许多文章与三部书：一部儿童童话集（1923）、一部新“分析”哲学导论（1930b），以及最早的美国现代符号逻辑教科书之一（1937a）。1940–60 年代，她出版 PNK，与卡西尔合作，发展出有影响的艺术理论，并参与关于艺术之文化重要性的公共讨论（FF, 1957, 1958, 1962b）。最后，她对生物学、神经学、动物行为学与演化人类学中生命与情感形式的自然主义处理，在 MEHF 中对心智的非还原论说明里达到顶点。朗格一生还以公共知识分子身份，就移民、流离失所、政治、战争、威权主义、世界政府与民主教育等问题写作（1922, 1930a, 1945b, 1949b, 1951c, 1962b, 1965 [1966], 1966）。
+    step2: |-
+      朗格的思想可分为三个主要时期。1924–1939 年，她治逻辑、科学哲学、早期分析哲学与 *格式塔* 心理学：在博士论文（1926a）中首创性地解释弗雷格、胡塞尔、怀特海、罗素与维特根斯坦《逻辑哲学论》，将维也纳学派观念引入美国，并撰有大量论文与三部书——儿童童话集（1923）、新“分析”哲学导论（1930b）与美国最早的现代符号逻辑教科书之一（1937a）。1940–60 年代，她出版 PNK，与卡西尔合作，发展出影响深远的艺术理论，并参与艺术之文化重要性的公共讨论（FF, 1957, 1958, 1962b）。最终，她对生物学、神经学、动物行为学与演化人类学中生命与情感形式的自然主义处理，汇为 MEHF 中关于心智的非还原论说明。终其一生，朗格还以公共知识分子身份就移民、流离失所、政治、战争、威权主义、世界政府与民主教育撰文（1922, 1930a, 1945b, 1949b, 1951c, 1962b, 1965 [1966], 1966）。
+  - id: 11
+    kind: body
+    source: |-
+      In 1953 drafts of *Word and Object*, rejecting Cartesianism’s myth of interiority, Quine invoked Langer:
+    step1: TBD
+    step2: TBD
+  - id: 12
+    kind: body
+    source: |-
+      > *Philosophy in a New Key* … stresses the moral: the forerunner of language is to be sought not in primitive noises, but in early symbolic behavior…the earliest phase of symbolism, for the individual and for the race, would seem to be emotive… [and] … similar unconscious symbolism is what packs the wallop in poetry and art, and what gives vigor to myths … speech and song began as one. (Verhaegh 2022: 230–31; PNK 128)[^verhaegh-2022][^verhaegh-2022-2]
+    step1: TBD
+    step2: TBD
+  - id: 13
+    kind: body
+    source: |-
+      Langer continues to influence philosophers and anthropologists interested in popular culture, semiotics, and politics (Massumi 2011, 2015, 2024; Leddy 2024)[^leddy-2024][^massumi-2011], as well as dance and music, improvisation, creativity, cross-cultural analysis, religion, and child development (Geertz 1973; Colapietro 1997, 2000; Man 2020, 2024; Alperson 2022; van Eeke 2024; Innis 2024; von Bonsdorff 2025)[^alperson-2022][^colapietro-1997][^geertz-1973][^innis-2024][^man-2020][^eeke-2024][^bonsdorff-2025].
+    step1: TBD
+    step2: TBD
+  - id: 14
+    kind: body
+    source: |-
+      The literature on Langer is codified in Lachmann (1993), a thorough (German) bibliography of primary and secondary literature on Langer to that point. This was extended in Schultz’s (2000) on Cassirer and in Dryden (2003a,b). Kösters (1993), the first German book on Langer, was followed by Lachmann (2000) and more recent studies by Richter and Bahr ([eds] 2008), Innis (2009), Dengerink Chaplin (2020) and Gaikis ([ed.] 2024); a subset of secondary sources are cited in what follows. Langer is frequently treated or reprinted in anthologies surveying philosophy of arts and aesthetics (e.g., Guter 2010; Guyer 2014; Carroll & Choi [eds] 2006)[^guter-2010][^guyer-2014], American aesthetics (Gulick & Slater [eds] 2020; Innis 2020b)[^innis-2020b], philosophy of music and dance (Budd 1985; Kivy 1989, 2002; Man 2020, 2024)[^budd-1985][^kivy-1989][^man-2020], and broad treatments of the history of American naturalism and pragmatism (Dryden 1997a, 2001; Innis 2007, 2009, 2016)[^dryden-1997a][^innis-2007].
+    step1: TBD
+    step2: TBD
+  - id: 15
+    kind: body
+    source: |-
+      A multi-national effort led by Iris van der Tuin at the University of Utrecht has scanned and begun to digitally analyze the extensive card catalog collection from which Langer worked 1938–1985 (see the Other Internet Resources section below; for other manuscript materials see the website of the Susanne K. Langer Circle and Langer’s Papers, also in Other Internet Resources). The card catalog in particular opens new possibilities for the cartography of the history of philosophy in general, and twentieth century philosophy in particular (van der Tuin 2016, 2024)[^tuin-2016], for it consists of over 64,000 pages of cross-referenced quotations and commentary on 4,000+ references and 2,158 authors, including over 1,000 women (Lord 1968; van der Tuin 2024)[^lord-1968][^tuin-2024]. Langer responds to work of German-, French-, Italian- and English-speaking philosophers, anthropologists, historians, logicians, artists and biologists as these unfolded, commenting at length on a huge variety of anthropological, aesthetic, historical, philosophical, psychological, scientific, artistic and linguistic sources.
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      Preferring to be considered a “philosopher” rather than a “woman philosopher”, Langer belonged to the first generation of women allowed to vote throughout their adult lives and pursue academic careers in the United States. Her intellectual and artistic connections, pursued through her interest in studio art, children’s literature and democratic education, embed her in the history of feminism in the twentieth century; she worked with many women artists and influenced others (Bergonzo 2024)[^bergonzo-2024]. She joins the history of women interested in semiotics, language, philosophical analysis, logic and meaning from a wide-ranging point of view (Peijnenburg & Verhaegh [eds] 2022), commenting on many women philosophers and artists, including Lady Welby, Christine Ladd Franklin, Dorothy Wrinch, Susan Stebbing, Grace De Laguna, Mary Calkins, and Hannah Arendt, among many others.
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      ## 2. Life, Career, Politics
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      The daughter of upper middle-class German immigrants to the United States, Langer was raised bilingually in New York, reading Kant’s *Kritik der Reinen Vernunft* and Alcott’s *Little Women* in the originals at twelve and later becoming fluent in French and Italian (Sargeant 1960: 91f.; Dryden 2003a,b; Dengerink 2020: 15)[^dengerink-2020][^dryden-2003a][^sargeant-1960]. Poisoned by a poorly dosed cocaine prescription, she suffered ill health and did not enter Radcliffe, where she studied as an undergraduate (1916–1920), until the age of twenty-one (Dengerink 2020: 266, n. 8; Dryden 2003a,b)[^dengerink-2020][^dryden-2003a]. She began her study of logic and philosophy of science as an undergraduate with Sheffer, who remained a formative and lasting influence on her subsequent work; Langer is a primary source for understanding his philosophy in its Harvard context, an American tradition stemming from Royce, Peirce, and James through Lewis and Quine. Her use of logic as an inventive field for abstracting higher-order forms allowing for different “loci” of elements fleshes out Sheffer’s algebraical approach, commended by Russell in his introduction to the second edition of Principia Mathematica (1925; Sheffer 1926)[^sheffer-1926]. Langer took from Sheffer and Huntington the Kantian idea that logic is a canon, not an organon: it can only serve to prevent errors by offering novel concepts, not positive knowledge. The *use* of logic, she argues, “rests with … imagination” (Langer 1938b).
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      Langer married historian William L. Langer in 1921. They spent that winter term in Vienna, where she studied with Victor Kraft (Lachmann 2000: 19)[^lachmann-2000] and probably read Wittgenstein’s *Tractatus* (1921). She studied the psychology of *Gestalt* theorists (Dengerink Chaplin 2020: 14; Verhaegh 2022: 219 n. 12)[^dengerink-2020][^verhaegh-2022][^verhaegh-2022-2]. Upon return to the United States in 1922 Langer had her first child and moved to Worcester, Massachusetts where her husband took up a position at Clark University. Her first book, *The Cruise of the Little Dipper and Other Fairy Tales* (1923), illustrated by her friend, the artist Helen Sewall, came out the year after her first child’s birth. Her (1924a) Radcliffe M.A. thesis treated the notion of the unconscious.
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      Enrolling as a Radcliffe PhD student in 1924, Langer met Whitehead and attended his Harvard graduate seminar 1924–1925 during the period of her pregnancy with her second son (Lachmann 1997; Dryden 2003a,b)[^dryden-2003a][^lachmann-1997]; her notes of his lectures have been published (Langer 1924–1927 [1997])[^langer-1927]. They reveal Langer’s exposure to the history of philosophy and mathematics and physics, as well as Whitehead’s metaphysics of process and history, alongside several other ideas that would significantly influence her: the importance of the *potential* as something given with the actual; symbolism as an evolving framework for feeling and thought; the centrality of our aesthetic receptivity to perception; the fundamentality of relations; “givenness” as something relative to conceptual choice and occasion; and the centrality of process to metaphysics.
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      Langer’s remarkable dissertation, entitled *A Logical Analysis of Meaning* (1926a), was written under the supervision of Whitehead, Sheffer, and C.I. Lewis and cataloged at Radcliffe, as Harvard did not grant women PhD’s until 1963; she published in logic and analytic philosophy through the 1930s (§3 below). She taught as a tutor in philosophy at Radcliffe 1927–1942, advising undergraduates for their general exams, and as a lecturer in logic at Wellesley College in 1934. In 1941 she accompanied her historian husband William L. Langer to Washington, D.C. when he joined the foreign intelligence service (W. Langer 1977)[^langer-1977]. In 1942, after publishing PNK, she and William Langer divorced. Her teaching relationship with Radcliffe ended in 1943, when she took the first of a series of temporary appointments that supported her over the next twelve years. Langer appears to have chosen to forego a permanent appointment at an undergraduate college in favor of a research appointment at a graduate institution. Peregrinating for a dozen years in temporary positions, she lectured widely, befriending artists and writing on education, the arts, philosophy and politics (Dengerink Chaplin 2020: 54)[^dengerink-2020]. She worked with Cassirer 1941–1945 after he emigrated to the United States, apparently influencing his *Essay on Man* (1944; Auxier 1997: 87n–88n; Guyer 2014: vol. III, 354)[^auxier-1997][^guyer-2014] and translating his *Language and Myth* (1925 [1946]). Tenured at Connecticut College in 1954 at age 58, she received a grant from the Kaufmann Charitable Trust (1956–1981) that freed her from teaching, allowing her time to write MEHF.
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      Langer frequently wrote as a public intellectual, convinced that philosophy should speak to broad issues of public concern. “Art,” she wrote, “is … the spearhead of human development, social and individual” (1966: 5) for it expresses freedom; “any miscarriage of the symbolic process is an abrogation of our human freedom” (PNK 290; Dengerink Chaplin 2020: 91)[^dengerink-2020]. Her first publication concerned the impact of deportation and immigration (1922), and she wrote on human-caused environmental degradation, the rapidity of the cultural, political and emotional transformations wrought by modern science and the globalization of economies, nationalism as a destructive symbolic “idol” (1944), the relation between philosophy and education (1956), the difference between “civilization” and “culture” (1962b), and the significance of modern industrial and popular design (1965) [1966], among other topics. During the McCarthy era she defended the need for protections of individual freedom against the demands of militarized industrial democracies and argued for the importance of strengthening the United Nations to sustain world peace (1951c); she even proposed, in a Neurathian spirit of isotypes, that a spiral would be a better symbol of that institution than the projected map of the globe (1949b).
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      Langer read widely in the history of the destruction and forced migration of indigenous cultures in the United States. She knew Felix S. Cohen, a fellow student of Sheffer’s who became the most significant Native American Lawyer and anti-formalist legal theorist of his generation. Langer cites Cohen 1929 on the logic of questions (PNK 4) and published an article he wrote on field theory and judicial logic (Cohen 1950, cf. Henle, Kallen, & Langer [eds] 1951)[^cohen-1950]. In 1948 she attempted unsuccessfully to invite Einstein, E.B. White, and Oppenheimer to participate in a session of the APA meeting on World Society and World government, expressing shock at the lack of interest among professional American philosophers in shaping political and ethical concepts. In December 1953, she was named delegate to the National Council for UNESCO and the International Congress on History of Art by the American Philosophical Association; later in 1970 the Nixon administration published a Spanish translation of PNK without her permission and attempted to recruit her to serve on the American Security Council to defend the Vietnam war, but she declined, expressing disagreement with White House policies (Langer, Carton 1b, Harvard University Susanne K. Langer archives).
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      ## 3. Early Work (1924–1939)
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      ### 3.1 Metaphysics
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      Following Whitehead (1926) Langer holds that each human “epoch” reflects a core “generative idea” shaping the human “pursuit of meanings”. Philosophy’s job is to clarify meanings, analyzing their forms and generating basic concepts to organize them (1930b: 105; MEHF I: xx). Meanings always have a psychological factor, although they may be treated logically (1926a: 108).
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      Our time’s idea is *symbolism*, a ubiquitous mark of human mentality (Whitehead 1927; PNK 239)[^whitehead-1927]. The forms of meaning, even mind itself, are not entities, as they were conceived in the Cartesian era, but higher-order aspects of symbolic activity, itself an evolved set of human patterns and relations within nature. Experience, sensation, perception, thought, action and creation are phase-transitions of order among relations, realized in embodied processes, particular space-time events that “include facts, notions, feelings, qualities, etc. as well as *things*” (1926a: 107–8).
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      For Langer the distinctions between form and content, substance and accident, and mind and body do not mark fundamental categorial divisions but are logical or “formal” (Langer 1924a, 1926a, 1926c). Her hermeneutics of “meaning”, inspired by American pragmatism and semiotics (Colapietro 1998; Innis 2009)[^colapietro-1998][^innis-2009], is supported by her studies of modern logic. She shared Cassirer’s neo-Kantian aspiration “‘to compile a grammar of the symbolic function as such’ for language, art, mythology and religion” (Langer 1926a: 170, quoting Cassirer 1923–1927 Vol. 1:86)[^cassirer-1923][^cassirer-1923-2][^cassirer-1927] by stressing the importance—derived from Frege (1892a,b [1997], 1893/1903 [2013]), Whitehead and Russell (1910), and Sheffer (1921)—of generalizations in the theory of relations in modern logic that outstrip the older, static “substance/property” forms of Aristotelian logic (Langer 1926a: 36, 62, 55).
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      As a philosopher of logic, Langer never tried to produce a metaphysics, although, like Whitehead, she took metaphysics to be necessary, a “study of basic assumptions … in terms of which every element of our experience can be interpreted” (Langer & Gadol 1950; Langer 1951a, 1962b: 6–7, 1967; Dengerink Chaplin 2020: ch. 6)[^dengerink-2020]. Whitehead (1929) inspired her conception of “organic form” as processual (Langer 1924–27 [1997]; Dryden 1997b; Dengerink Chaplin 2020: ch. 6)[^dengerink-2020][^dryden-1997b]. Reacting to Frege, Russell and Wittgenstein she developed an account of facts as immediate, yet never ultimate in form (Langer 1926c, 1933). Critical assessments of Langer’s “ontology” have produced little agreement about her ultimate stance, though authors note her engagement with conceptions of mind and reality (Lachmann 1997, 2000; Auxier 1997, 2008; Felappi 2017, 2024)[^auxier-1997][^felappi-2017][^lachmann-1997], her anticipation of later “metaontological” themes (McDaniel 2017)[^mcdaniel-2017], (Dryden 1997a,b, 2001)[^dryden-1997a], and her conviction, later absorbed into systems biology and philosophy of mind, that consciousness is a substrate of human psychology, grounded in a feeling, thought, and emotion (Dryden 2007; Dengerink Chaplin 2020)[^dengerink-2020][^dryden-2007].
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      The chief interpretive challenge for readers of Langer’s work is to characterize “symbolic form” as both expressive and logically higher-order—something essentially abstract—while adhering to her naturalistic conception of symbolization as an embodied, concrete process in human life (Auxier 1997)[^auxier-1997].
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      ### 3.2 Neutral “Monism” (M.A. Thesis, 1924a)
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      Langer never conceived of logic as a branch of psychology comprising the “laws of thought” (1926a: 16, n.); she argued instead that the “logical forms” of meaning should apply to mental categories. Her debts to William James (a teacher of Sheffer’s) were large (Dryden 2001)[^dryden-2001]. Her 1924a MA thesis is a critical study of von Hartmann’s dualistic *Philosophy of the Unconscious* (1882 [1884]; see von Hartmann 1877, Beiser 2014; Langer also studied his philosophy of art, including philosophy of music [von Hartmann 1886, 1887])[^beiser-2014][^hartmann-1877][^hartmann-1886]. Langer defends the “unconscious” as a tool of psychological explanation through a logical analysis of the distinction between “unconscious” and “conscious”. She traces von Hartmann’s differences from Schopenhauer’s “classical voluntarism” (Langer 1924a: 26) noting his importance for Freud, particularly in having emphasized the tendency we have to imbue matter with “force” dualistically—something contemporary physics has outgrown. Langer denies that materialism can render consciousness an epiphenomenon; she criticizes Freud for having collapsed what he called the “virtual” character of psychic elements into materialistic ones (1924a: 36). Instead, she elaborates James’s (1904) idea of a “psychology without the self”, or “neutral monism” (developed by Sheffer in his dissertation (1908)), emphasizing the relational, attentional and value-laden character of the distinction between mental and physical. Langer (1924a) takes “mind”, “experience”, “consciousness” and “matter” to be differentiated only relative to “systems” formulated in descriptions of particular modes of existence and relation: what is “neutral” is not, she argues, a monistic “stuff” (1924a: 17)—contrary to Russell (1921)—but instead an “abstract form” or field of relations encompassing a number of possible valuations or orderings of experience (Langer 1924a: 3, 15, 42).
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      On this view it is not a metaphysical illusion that there are two kinds of ontological basics, the (conscious) “mental” and the “physical” (as “neutral monism” would have it). The mental is not simply epiphenomenal. Rather, there are two “forms” or “systems” of description of space-time events. The notion of the “unconscious” is “purely pragmatic and not strictly correct”, something constructed as an ideal point, analogous to the mathematician’s idea of lines that “meet at infinity” (1924a: Preface). This constructive Russellian approach—a “consciousness-event” is a “variable” that may be instantiated with relations among other events—allows her to argue that, generally speaking, we cannot “compute” the range of its possible modes of modification. She thus leaves open the possibility of discovering causal laws in psychology, but takes the “mind-system” to appear to be “infinitely complex” (1924a: 42). The system of conscious events consists of an open-ended evolution of possible classes or functions of modification, not “things”. Similarly an “unconscious” event is not (as in Freud) the lasting substrate behind a marker or “symptom” of repression, but rather an explanatory “symbol” capable of analysis in terms of possible modifications of conscious mental events. This makes sense of von Hartmann, Freud’s, and Jung’s treatment of the Unconscious as “timeless” and “unspatial”, as well as un-thinglike.
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      ### 3.3 A Logical Analysis of Meaning: Dissertation (1926a)
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      Langer’s dissertation is the first in the United States to comprehensively treat the history of logic and theories of meaning—including phenomenology—from the early nineteenth century through 1926. Her annotated bibliography is an invaluable guide to the period. She focuses on Frege, Husserl, Couturat, Russell, Whitehead, Sheffer, and Wittgenstein, treating theories of meaning from Boole, Lady Welby, Peirce, and Cournot to Stout, Ogden, and Richards and many others, critically analyzing English, American, Italian, German, French and Polish sources. It shows the influence, not only of Whitehead and Sheffer, but also her tutor R.F.A. Hoernlé, a phenomenologist of meaning (see Hoernlé 1921)[^hoernlé-1921], referred to in Langer’s 1926a dissertation). His wife, Agnes Winifred Hoernlé, whom Langer also knew, was the founder of social anthropology in South Africa. The Hoernlés lived in Boston 1914–1920, and became leading liberal critics of apartheid, publishing widely on race, anthropology, and social reform. Hoernlé became critical of Langer’s enthusiasm for logic (Hoernlé 1931)[^hoernlé-1931] is a review of Langer’s first book 1930b).
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      Langer’s interpretation of the *Tractatus* in her dissertation is pioneering. Inspired by Wittgenstein’s “picture” conception, she defines the “logical basis of meaning” as the *possibility* of drawing a “correspondence of configuration among systems”—a necessary, though not sufficient, purely “formal” condition (1926a: 2, 10). Langer does not hold that isomorphism is *sufficient* for meaning, as her later critics would allege (Nagel 1943; Beardsley 1958 [1981: 335ff.]; Kivy 1989: 49, 61–64)[^beardsley-1958][^kivy-1989][^nagel-1943]: she is not offering an analysis or Carnapian meaning-postulates. On her view logic concerns projectible relations of order and invariance among systems: forms rather than actual elements, and form is the *possibility* of structure (Tractatus 2.0333). Following Russell (1914), a form is not a constituent or a thing, but a (projectible) *way* in which constituents of a system or structure fit together (Langer 1926a: 36; 1926b; 1930b: 91–2; 1937a: 32–33; Felappi 2017, 2024)[^felappi-2017]. Langer extrapolates, as did Wittgenstein, to the idea that in philosophy we are concerned to see “*possibilities of interpretation*” rather than defend or demolish propositions (1930b: x).
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      This is the first reading to challenge a naïve isomorphic copy or empiricist interpretation of the *Tractatus* by invoking modality (Dengerink Chaplin 2020; Floyd & Shieh 2024)[^dengerink-2020][^floyd-2024]: Langer echoes Cassirer’s point that
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      > the *naïve copy theory* of knowledge is discredited … [and] the fundamental concepts of each science are regarded no longer as passive images of something given but as *symbols* created by the intellect itself. (1923 [1953: 75])
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      Wittgenstein’s analogy takes propositions to be picture-facts, embodied uses of configurations of signs that symbolize other facts through projection of possibilities (Dengerink Chaplin 2019, 2020, 2024)[^dengerink-2019]; Langer stresses the idea that any such projection expresses a particular (possible) way of ordering and conceiving reality.
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      Following Wittgenstein, Langer argues for the reversibility of meaning-projections. Just as a range of configurations of figurines in a law court may be used (via spatial, colored, and other forms) to model a range of possible situations given conventional assignments of denotation to them, so also situations may be used to model possible configuration of figurines in the law court. That-which-is-common-to-all-possible-expressions-of-a-discursive-thought is given, not through any particular sentence, but through forms, the possibilities of projecting embodied configurations, and these are symmetrical and reversible. Langer argues that her analysis is more comprehensive than the asymmetrical theories of meaning to be found in Husserl’s doctrine of intentionality, Couturat’s (1905 [1914]) “ideational” algebraical account of logic, and Ogden and Richard’s causal theory—each of which Langer analyzes, along with Principia Mathematica, as rival “interpretations” or models of Couturat’s logical axioms for algebra.
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      Langer adopts from Royce and Sheffer an algebraical view of logic as the most general study of all types of order or pattern, of which the propositional system is merely a special one (Langer 1924a: 42; 1926a: Preface; 1927: 123; 1951a: 179; Felappi 2024)[^felappi-2024]. On this view, “logical forms” are formulated through progressive generalization and abstraction on relations; properties are handled, not only first-order (e.g., in empirical statements) but also higher-order (within systems). As Langer knew, the *Tractatus* utilizes as its primitive logical operation Sheffer’s (1913) reduction of the truth-functional connectives to single “strokes” of joint and alternate denial, which demonstrates that they comprise a Boolean algebra (Pilch 2024)[^pilch-2024]. Such structures, as Langer also knew, may be codified in “postulate systems”—“postulate” being pragmatically preferred to “axiom” to avoid the connotation of “self-evidence” (Huntington 1911: 171f.; Langer 1937a: 184; 1938b: 49; Floyd 2021: 32)[^floyd-2021][^huntington-1911]. To take another example, logically the real and complex numbers differ concretely as systems, while sharing the “form” of an algebraical *field*. Langer’s emphasis is on transformations among of systems of relations. This is evinced in her “youthful” Shefferian axiomatization of the tonal structure of Western music (Langer 1929a; FF 105, n. 2). Whether her logico-mathematical inspiration makes her treatment of form too abstract is a matter of debate (Kivy 1989: 63)[^kivy-1989], but she undoubtedly worked toward making her ideas more concrete as her philosophy developed, and its second-order character must be borne in mind.
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      As Sheffer stressed, when relations are transformed or projected one must avoid entanglement in the “relativity” of particular elements and notations: “2” in the reals is not identical to “2” in the whole numbers, but a projected form (Sheffer 1921; Langer 1926a)[^sheffer-1921]. Every notation or language reflects certain idiosyncratic, accidental, and conventional choices. Like Frege, Sheffer, and the early Wittgenstein, Langer was adamantly opposed to linguistic formalism, psychologism, and conventionalism about logic and meaning: she endorsed a universal account of the applicability of logic and meaning. We face, as Sheffer (1926) wrote, the “logocentric predicament”: to give an account of logic, we must use it (Langer 1926a: 1, 20). Inspired by Frege’s proposal in his (1906 [1984]) debate with Hilbert over axiomatic theories of geometry, Sheffer developed higher-order logical analysis to transcend the limitations, ambiguities, and psychological vagaries of particular systems and pure formalism, formulating “superpostulates” of propositional functions (Sheffer 1921)[^sheffer-1921]. Langer supports this approach (1926a: 30; 1964b: 307). On this view logic extrudes every logically “ineffable” notion, all extra-logical experiences and acts, and all arbitrary, *ad hoc* devices, transcending purely conventional “human” features of the expression of thoughts, while universally encompassing “queer” and other differing “logics”, mental factors, and forms of expression (Sheffer 1908, 1909; Floyd 2021: §2.2.4)[^floyd-2021][^sheffer-1908].
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      Wittgenstein too extruded the arbitrary, the “inexpressible” and the “alogical” from his conception of logic in the *Tractatus*. Langer argues—anticipating later “resolute” readers—that Wittgenstein’s treatment of “meaning” is, while based on the uses of signs as symbols, expressively adequate, involving no “ineffable” realm of contents that are shown and not said (1926a: 19, 68, 72; Dengerink Chaplin 2020: 154)[^dengerink-2020]. But she argues that Wittgenstein took the nature of the *proposition* to be fundamental to logic, as she does not. Following the American algebraical tradition, she argues that “the universe of possible meanings *includes* [but is not exhausted by] the meaning of propositions”, i.e., the propositional interpretation of logic is only one among others (1926a: Preface; compare Quine 1934)[^quine-1934]. On her more comprehensive view there is no *general* “inexpressibility”, only unprojectability relative to particular configurations. This allows Langer an unbounded plurality of “meaningful” conceptions of reality, experience and relational structures (1926a: Preface, 2; 1926c: 437; Felappi 2024)[^felappi-2024], the encompassing of Wittgenstein had called “higher” meanings (1921: 6.42; Langer 1926a: 2). “A system of logic which is universal”, she writes, “[is one that] expresses disjunctively either the laws of mathematics, of structure, of literary art, of thought …, or of anything else whatever” (1926a: 26–27). Thus, like Wittgenstein, though differently, she widens the purview of ethical significance to include fairy tales, art, and imagery (1926a: 136; Thaventhiran 2024)[^thaventhiran-2024].
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      Langer argues that “meanings”, determined as “positions in a system”, underlie the possibility of expression by analogy, metaphor, and allegory (1926a: 88n, 136). She follows Wittgenstein and Frege in speaking of the need for metaphorical “elucidations” of the fundamental notions of logic (Wittgenstein 1921: 6.54; Langer 1926a: 16, 27, 140)[^wittgenstein-1921], while agreeing with Wittgenstein’s remark (1921: 4.015) that the possibility of all similes and imagery in our language depends upon logical form. For Langer the logic of picturing rests just as much upon the possibility of similes as the other way around. She then gestures toward a future analysis of art, invoking Gestalt theorist Köhler to argue that in ordering the play of feelings and perceptions we “make that correlation between elements of different systems known as ‘synthaesthesia’”, that “it is through the testimony of our feelings that we come to recognize the correspondence between two artistic compositions or between such a composition and a configurationtion of events” and that “this correspondence between ‘synaesthetic’ systems is the basis of meaning in art” (1926a: 166–7).
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      ### 3.4 Early Analytic Philosophy and Logic (1926–1939)
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      Langer was a leader among the rising generation of analytic philosophers at Harvard in the 1920s and 1930s, importing ideas from Vienna and organizing a series of philosophical discussions modeled on the Vienna Circle. Feigl wrote to Schlick in 1930 that he
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      > was delighted to meet Susanne Langer, who is a professor here at Radcliffe College … She is an excellent woman and her versatility is admirable… She … speaks German as well as English…. We (i.e., a group of young people who are interested in logic and philosophy…) meet at her place every Monday evening for discussions on the Viennese model;
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      Feigl described Langer’s discussion group as “excellent”, finding her “amusingly” like Wittgenstein in her “demeanour, intuitive determination, and the conciseness of her statements” (Verhaegh 2022: 224)[^verhaegh-2022][^verhaegh-2022-2]. Carnap expressed an interest in working with her in his 1933 Rockefeller application (Verhaegh 2022: 223)[^verhaegh-2022][^verhaegh-2022-2].
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      Langer’s earliest post-dissertation philosophical work consisted of a stream of pioneering articles on symbols, analysis and logical types (1926b,c; 1927, 1929a,b). Her dissertation argued that although *Principia*’s notation for *propositional function*, $\hat{\varphi}x$ “cannot be rendered verbally” (1926a: 52f.), the ascent from type to type does not yield ambiguity if it is understood purely “formally”. This echoes *Tractatus* 3.333, but Langer actually means her *own* notion of “formal”: whereas Wittgenstein rejected Russell’s axiom of reducibility as contingently true, hence not logical (*Tractatus* 6.1233), Langer (1926a,b) sides with Russell’s proposal in the second edition of *Principia* (1925: xxx): movement from type to type is *projection through similarity*, so that $\hat{\varphi}x$ is a “true abstraction”, hence not ambiguous at all, and there is no need for a special axiom.
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      Langer next introduced a “paradox” concerning the relation of form to content, emphasizing their ultimate inseparability for purposes of analysis (1926c). Recasting the more well-known logical paradoxes, she argues that there is neither an overarching totality of all forms nor just *one* form of an object or proposition, because each object and each proposition may be projected into many different systems, and a form always inheres in a system (1926c: 437; Felappi 2017, 2024)[^felappi-2017]. This pluralism, owing debts to James’s pragmatism, Russell and Wittgenstein’s conceptions of “form”, Sheffer’s theory of “notational relativity” and to C.I. Lewis’s conceptual pragmatism (Langer & Gadol 1950: 126), prefigures Carnap’s pluralistic “constructive” program in analytic philosophy (Verhaegh 2022: 221)[^verhaegh-2022][^verhaegh-2022-2].
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      Langer’s pluralism is supported by her *Tractatus*-inspired analysis of meaning. The field of all possible analogies cannot be captured in a single proposition (1926a: 48, 88n, 92), though particular metaphors may be correct or incorrect, tight or loose, in a given context (1926a: 112, 159). In Langer (1927) she argues that Russell’s (1906) struggles with negative facts and the notion of “assertion” in the “verb” of a proposition may be resolved by taking propositions to express “inter-structural relations” of “analogy” and “projection” among systems (Felappi 2017)[^felappi-2017]. Langer’s 1929b argues that skeptical doubt is an inevitable result of making a demand for absolute truth, which is in turn driven by the refusal to admit that necessity is always relative to a system: the key flaw in traditional metaphysics lies in the tendency to treat concepts as entities and to begin with broad concepts (“cause”, etc.) instead of with systems (a point made also in the *Tractatus*). In asking whether consciousness *exists* (1904), for example, James should instead have asked, “Can we talk coherently about *consciousness*?” (Langer 1929b: 383).
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      A founding member of *The Journal of Symbolic Logic*, from 1926 to 1939 Langer reviewed nineteen logic and philosophy books in German, French, English, and Italian. Her first philosophy book, *The Practice of Philosophy* (1930b), was an introduction to “analytic” philosophy, developing ideas in her dissertation and intended as an introduction to philosophy for a general audience. Situating her conception of the “logical basis of meaning” in historical terms, she argued that a “synoptic”, “bird’s-eye view of all things … cannot be established by direct preoccupation with the cosmos as such” (1930b: 215), but only through analysis. She defends her quest for the discovery of “general patterns” and the importance for philosophy of “a systematic view of possibilities”, i.e., a knowledge of forms which would yield the ability to swiftly, independently, and clear-sightedly understand meanings “in nature, in life, in ritual and art” (1930b: 218, 221). Invoking her reading of the *Tractatus*, she criticizes the idea of an absolute “first cause” as a “pseudo-concept” on grounds that the concept of a particular cause has a place only *within* nature, not outside of it (1930b: 61ff.; see Langer 1936). The book was taken in the United States to indicate Langer’s importance for the “new movement” in philosophy (Blumberg & Feigl 1931: 281)[^blumberg-1931] and was actively discussed in the Vienna Circle, praised especially by Schlick (Verhaegh 2022: 216ff.)[^verhaegh-2022][^verhaegh-2022-2].
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      Langer’s *An Introduction to Symbolic Logic* (1937a, still in print) was one of the first American textbooks in modern symbolic quantificational logic, offering a through treatment of the notions of logical form, relation, terms and degree, and difficulties of natural language and logical symbolism. She treats the idea of a truth-value and the differences between deductive, inductive and mixed systems of inference, the quantifiers, elementary class theory (including Shefferian postulate theories for it), and includes a chapter on the algebra of logic where she sets out the phenomenon of duality (e.g., any class formed with $+$ may also be expressed in terms of $\times$ and negation). She discusses Principia Mathematica’s use of the “material conditional” in light of “logistic” and mentions C.I. Lewis’s “strict implication” (Lewis 1918; Lewis & Langford 1932)[^lewis-1918][^lewis-1932]. Her textbook received positive reviews (Feigl 1938; Stebbing 1938)[^feigl-1938][^stebbing-1938] but, while very competent for the time, was not particularly mathematical. Carnap and Quine each expressed disappointment with it from this point of view, though it was clear that Langer was pushing in a very different direction.
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      ## 4. *Philosophy in a New Key* (1942)
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      Cassirer’s “masterstroke” was, for Langer, to “emphasize the constitutive character of symbolic renderings in the making of [human] ‘experience’”, transforming neo-Kantianism
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      > into an anthropological hypothesis, a key to several linguistic problems, a source of psychological understanding, and a guidepost in the maze of *Geistesgeschichte*. (Langer 1949a: 393)
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      The first book in English to present Cassirer, PNK generalized Langer’s theory of symbolism in this way, revitalizing his thought. Langer read Cassirer early (1926a: 36, 170) and worked closely with him after his 1941 emigration to the United States. She may be said to have carried out the analysis of art that was to have comprised Cassirer’s unpublished fourth volume of *Philosophy of Symbolic Forms* (1996; Grüny 2024)[^grüny-2024].
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      Developing her earlier analysis of meaning, Langer distinguishes *discursive* symbolization—i.e., sign-configurations projecting possible ways things may be in the world—from *presentational* symbolization, which “shows” rather than “says”. An artwork symbolizes feeling by presenting a configuration in which forms of feeling are expressed or “virtually” imaged. Presentational symbols exhibit second order communicable “forms” of the arrangements of its elements, and these are not translatable into propositional or discursive contents.
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      Both discursive and presentational symbolizations are abstractive and generalizing. Following Whitehead (1927), Langer takes symbolic formation to be central to the evolution of art and science, earmarked by a constant “transference” between schemes of “presentational” immediacy (the precise, vivid perception of what is present before us) and “causal efficacy” (the sense of processes outside us). In pre-scientific thought “facts” are taken for granted as they are immediately perceived, re-conceptualized for cognitive and utilitarian ends as cognition develops. Feeling, always entwined with experience and thought, also evolves through its symbolic projections and articulations, issuing into pathology, myth, religion, and art (1924a; 1926a: 108; MEHF I). PNK surveys a great deal of the anthropological, linguistic, psychological and ethological literature of Langer’s time: Wundt, Stumpf, Sapir, de LaGuna, Köhler, Koffka, Piaget, and hundreds of others, framing their origins in the history of Western philosophy.
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      Both discursive and presentational symbolization are carried forward in our embodied biology. Jointly their complexity gradually gives rise to the main qualitative difference between human and other animal nature: symbolization in language, culture, morality, and the consciousness of life and death (MEHF I xvii). Animals utilize signs and associations between gestures and emotions; they can intend, feel and expect, but they do not articulate the human symbolic forms of myth, religion, science and art. Langer explores in detail the complex ethology and neurology of animals and humans in order to precisify the points of continuity and discontinuity between plant, animal and human forms of life. In the evolution of humanity, superstition and magic are not demolished by facts, she argues, but outgrown, instantiating a general tendency toward discursive intellectual growth from dreamlike fantasy. This, she holds, explains the growing cultural and political hegemony of science in our time (PNK 270).
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      Because Langer’s distinctions between sign and symbol, discursive and non-discursive symbolization, and conventional and “formulative” aspects of symbols possess logical, psychological and evolutionary-historical dimensions, her terms cut across the usual notions of “symbol” “sign” “reference”, “denotation” and even “semantics”. For this she was criticized, often with the charge that because Wittgenstein’s “picture theory” had been outdated, her thought was too (Nagel 1943: 325–326; Beardsley 1958 [1981]; Wollheim 1955; compare Budd 1985: VI; Kivy 1989: 49, 61ff.; 2002: 30; see Langer 1957: 126)[^beardsley-1958][^budd-1985][^kivy-1989][^nagel-1943][^wollheim-1955]. Yet Langer’s different starting point—a higher-order modal account of picturing and form, a capacious view of “feeling”, an emphasis on processes, actions, and projective uses of signs and symbols—reflect a distinctive set of interests and ambitions (Dengerink Chaplin 2020: ch. 8; Verhaegh 2022: 231)[^dengerink-2020][^verhaegh-2022][^verhaegh-2022-2].
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      Langer reserves the term *symbolism* for discursive language systems, artificial or natural, in which meaning may be compositionally symbolized through a “logical syntax” using step-by-step construction of meaningful wholes through their parts. She commends Carnap (1934) for having scientifically analyzed this notion (PNK 67). But her purpose is to reject this paradigm as a generally adequate theory of symbolic form, expression, and “meaning”. Discursive symbolism is
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      > useless for rendering the forms of awareness that are not essentially recognition of facts, … [e.g.] perceptions of our own sensitive reactions to things … and of the fabric of tensions which constitutes the so-called “inner life” of a conscious being,
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      and art, though it symbolizes the feeling of life, is not a *symbolism*, even though it displays a “logic” and “symbolic form” (MEHF I 85).
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      For Langer, then, although the origins of language are a topic of great evolutionary importance (she discusses ethology of apes and other animals at length), symbolic activity is not always grammatical and discursive, and language is neither the only nor the primary means of articulation and expression. She takes the organic totality of qualities created, expressed and projected in art symbols to be “verbally ineffable”, i.e., ill-suited to propositional and linguistic articulation of its meaning in terms of fixed rules (FF 39). But she rejects the emotivism of Russell and the neo-positivists on the ground that their account of the “non-cognitive”—which emerges from their restriction of “meaningful” symbolic expression to discursive systems—reduces feeling and aesthetic experience to “blind” cries, emotional venting, poetic metaphysics, or strategic control. Emotivism invites mystical ideas about art, ethics and culture as “ineffable”, and although Langer agreed that there are non-propositional aspects of meaning in art, she did not take the inexpressible to offer a route to mysticism; she took this path to have been wrongly embraced in Bergson’s version of phenomenology (van der Tuin 2016)[^tuin-2016]. Though she studied Heidegger, Langer was not sympathetic to his philosophy, aware of its political associations and the debate with Cassirer at Davos (Card Catalog [Other Internet Resources]; Cavell 2022: 77)[^cavell-2022]. While she admits our capacity for “intuition”, the taking in of *Gestalten*, she insists that its forms are communicable and subject to criticism (PNK ch. IV; MEHF I 80), thus rejecting the attempt to unseat discursive thought as a fundamental dimension of mental life. Cognitive value and formations of feeling are intertwined.
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      Experience is always presented in *Gestalten*: “our merest sense-experience is a process of [symbolic] *formulation*” (PNK 89) and “*sense data are primarily symbols*” (PNK 21), i.e., events of symbolic projection and transformation in which we construe a world of things and occasions out of the “pandemonium” of impressions (PNK 98). Following Whitehead Langer construes perception as action and event, a phase-transition in space-time, arguing that “every experience is an interpretation, a formalization” in which we apprehend actual events in terms of particular “forms”, but never “*the*” form, so that “what we can experience is a *perspective*, a ‘*Gestaltung*’” (1933: 183). What appear to us as “typical” associative signs of things at the level of animal habit are transformed into symbols through projections of thought and feeling. In the “fabric” of meanings in which we live, seeing is symbolically and ambiguously charged (PNK 280). As in the American tradition of James (1902) and Dewey (1934), “experience” for Langer encompasses the wide variety of “symbolific” phenomena that occur in everyday life: differing modes of feeling, perception, emotion and thought unfold over time in accordance with a variety of categories and forms of selective attention, feeling, interest, and engagement (Dryden 2001; Innis 2009)[^dryden-2001][^innis-2009].
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      Langer thus dispenses, as had Whitehead, with the idea of a raw, unfiltered, sense datum: experiences are complex structured relations. She regards the division between subject and object as “relative”, noting that in “protocol statements” language intervenes, displacing the line between the observer and the observed (MEHF I 37). The “meaning” a symbol expresses is thus relative to its context of use (Dengerink Chaplin 2020: 115)[^dengerink-2020]. This anticipates both Austin’s (1946) attack on sense data and Quine’s (1951) rejection of the first dogma of logical empiricism: that each sentence may be associated with a fixed range of sensory observation.
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      Following Karl Bühler, Langer emphasizes our sensitivity to specific occasions of utterance, the “empratic” uses of language (PNK 9, 136ff.; Innis 2009)[^innis-2009]. She also holds that the complex processes involved in symbolic formations “have to be supported by a vast intellectual structure in order to function”, as they mostly do, tacitly (PNK 283)—her emphasis on the role of the tacit in knowledge has been compared with and contrasted to Polanyi’s (Innis 1977, 2009, 2010; articles in Gulick [ed.] 2009–10; Dengerink Chaplin 2020: ch. 9, n. 229)[^dengerink-2020][^innis-1977]. While it is possible to fit what is implicit neatly into the frame of “our ultimate world-picture”, we ordinarily think *with* our symbolizations and do not have to think *about* them, for they are fused into the roots of perception. Prefiguring Austin, Langer also stresses the felt differences between dreams and artworks and perceptions in waking life. She also emphasizes the importance of conceptualization and the need for interpretation and translation in evaluating observational evidence, thus making the point—later emphasized by Kuhn, who read PNK (Kuhn 1962; Reisch 2019: 160; Basafa 2025)[^basafa-2025][^kuhn-1962][^reisch-2019]—that science is not a simple accumulation of facts. She notes that observation
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      > has become almost entirely indirect, [requiring interpretive] *readings* [of fluctuating arrows, trailing paths of a stylus, or appearances of tiny specks of light] …. (PNK 20; compare Daston & Galison 2007)[^daston-2007]
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      It is the power of using symbols, rather than “higher sensitivity…longer memory or even quicker association” that “sets man so far above other animals” (PNK 89).
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      Though she endorses Kant’s conception of mental activity as an active imposition of form and synthesis upon a flux of experience, and his insistence that there is no ultimate unique form of reality apart from our conceptions of it (Langer 1933; Felappi 2017)[^felappi-2017], Langer takes the Kantian emphasis on reason, principles, and *a priori* categories to overlook the importance of non-discursive orderings of perceptual forms. Rather than hiving off feeling to an irrational realm, she takes all human symbolic activity to bear upon reason (PNK 97, 143). She rejects Cassirer’s antipathy to Freud, taking their views of symbolic ideation to be “deep and close” (Langer 1949: 383, 395ff.). Cassirer’s originality, she argued, lay in his treating mythological forms of consciousness, not directly as symbols, but as evincing a “confusion of symbol and meaning” in which each is attributed the same degree of “reality” (1924b: 696); similarly unconscious feelings, as Freud argued, absorb the symbolic “virtually”, though Langer was critical of Freud’s naïve reductionism (Freud 1900/1930 [1955: 606]; cf. Langer 1924a: 36; Maigné 2019)[^freud-1900][^maigné-2019]; it would take until MEHF for Langer’s embodied account of unfelt “acts” to transpose the idea, perhaps eliminating it, though on this scholars do not agree (Richter 2007: 113)[^richter-2007].
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      Science for Langer is less the accumulation of general theories to cover a widening domain of facts than an historically woven “fabric” of meaning, a scheme for *handling* facts, a “relatively stable *context*” (PNK 275). Fact-finding has become in our culture a primary measure, expressing an orientation that is empirical and historical (PNK 276). This has led, Langer argues, to a collapse of values; the power of everyday symbols that traditionally oriented humans in nature, on the earth and in society, have been lost in the fray of radically diversified modern forms of life (PNK 287). With the increasing power of causal laws, “we have put many stages of artifice and device…between ourselves and the rest of nature”, so that
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      > the ordinary city-dweller knows nothing of the earth’s productivity; he does not know the sunrise and rarely notices when the sun sets…seed-time and harvest are nothing to him. (PNK 278)
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      The utilitarian use of nature has replaced the experience of it as sacred.
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      Langer’s distinction between discursive and presentational modes of symbolizing is not to be equated with that between literal and artistic meaning, for presentational symbols (e.g., graphs) may go proxy for what can be discursively stated (algebraical forms), whereas art symbols do not: they are untranslatable into discursive propositional contents. While essential in art, presentational imagery may however also be used when working out the stages of philosophy for a particular science, e.g., in biology (PNK 249f.; MEHF xviii, Ch. 10).
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      Langer thus interweaves, while distinguishing, the roles of models and “images” in science and art (Dengerink Chaplin 2024)[^dengerink-2024]. “Images” are not necessarily visual but often “gestic, kinesthesic, verbal or… ‘situational’”, organizing and enhancing impressions directly received, rendering appearances in one perspective out of many possible ones, and setting forth what an object looks or seems or feels like (MEHF I 59). Aided by imagination, “imagery” abstracts phenomenal character, either its immediate effect on our sensibility or as something of importance, magnitude, strength, permanence, etc. By contrast, models illustrate a principle of construction or operation, telling us “how something works” (MEHF I 59). Artists have used a wide variety of devices for projecting three-dimensional presentations into two-dimensional presentations (tracing paper; the *camera obscura*, holding a thumb up to measure appearances of proportion in drawing, etc.), but here they have produced models by rules of symbolic transformation, not imagery. The forms so produced are “dead”, “empty” or “unfelt” (MEHF I 96). By contrast, “imagery” expresses living, moving forms. Poetic significance and factual reference are two different modes. Even though one may misleadingly speak of “truth” in myth and in science, the very idea of a *conflict* between them is “silly”, produced by confusing of presentational with discursive symbolization (PNK 202).
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      Langer’s interweaving of symbolization in science and in art is also designed to reject the idea that in creating symbols rather than copies of nature, art reduces to play or the “consummation” of practical and aesthetic experience (Dewey 1929 [1958]: Preface)[^dewey-1929]: music expresses an “unconsummated symbol” (PNK 159, 240). Langer accepts Dewey’s conception of the aesthetic as directly permeating everyday experience and shaping judgment, even politics, but she rejects his pragmatist account of heightened experience in ritual as a stock of habits arising from the repetition of game-like practical behavior (PNK ch. VI). It is our *freedom* in creating the possibility of significant projections of forms and sentience that Langer stresses, rather than play or practical purpose (MEHF I 53, 91). Music, Langer’s paradigm symbolic art, is
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      > unconventionalized, unverbalized freedom of thought … The real power of music lies in the fact that it can be ‘true’ to the life of feeling in a way that language cannot … it can articulate feelings without becoming wedded to them. (PNK 243f.)
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      Langer’s dual-stream theory of symbolizing informs the anthropological side of her thought. She rejects the idea that prehistoric art was produced with only “utilitarian” or representational views in mind: the modern distinction between “efficacy and aesthetic appeal” is inappropriate, as magic is by no means a “prosaic” activity, but a symbolization of powers of nature (MEHF I 131). She points out that in coming to terms with the phenomenon of life and death, (the concept of) Woman is, at least to “primitive reflection”, one of the basic mysteries of nature, her body waxing and waning. However, “the actual process of human conception and gestation is too slow to exhibit a pattern for easy appreciation. One needs a symbol, to think coherently about it”—for example, the moon in Maui mythology (PNK 191). This telescoping of many concepts into one symbol, encompassing its constituent parts, is what psychoanalysts call “condensation” in dreams, a series of embedded, organic analogies rather than actual belief. Being able to *see Woman in* the moon “helps to humanize and define the functions of that deity” (PNK 193).
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      Langer’s emphasis on the notion of symbol drew deeply on the best linguistics and anthropology of her time. She particularly influenced the anthropologist Clifford Geertz (1973; see Isaac 2020)[^isaac-2020]. However, Geertz’s emphasis on interpretation and “thick description”, while sparked by Langer’s idea of symbolic form, is less concerned than she with the limits of the discursive mode. Although language is a crucial part of the symbolic evolution of humankind, it is not for Langer the origin of all abstractions. “Fantasies” (images and metaphorical associations) and play occur centrally in our life, ordering and expressing our sense of being alive, as does “the driving force” in human mentality: fear (PNK 158). Attunement to the ethnologist’s forms of feeling might transform social scientific work into something closer to art.
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      Langer speculates that human language could only have arisen in a human group in which the “lower forms of symbolic thinking”—i.e., dream, ritual, and superstitious fancy—were highly developed (PNK 127), for, appearing below the evolutionary level of communication of natural wants, “dreamlike” experiences and synaesthesia (e.g., children’s fear of objects without faces) originate the human power of general conception (PNK 118). The origins of symbolic transformation (as opposed to the merely associative or utilitarian uses of signs), may be rooted, not in survival value, but in the “lalling” or “babbling” instinct, the impulse to imitate and be interested in distinctive sounds, and “*a great sensitivity to ‘expressiveness’ of any sort*” (PNK 123). Animals share the capacity for signs and signals, symptomatic expression, practical design of tools, and complex modes of marking social orders, but human powers of symbolizing feeling transcend these.
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      In PNK chapter VIII Langer initiates her philosophy of art, beginning with music. Drawing on Schopenhauer and Hanslick, she sees feeling *and* form as central to what makes music music, taking this art to express virtual forms of feeling, motion, time, and patterns of sentient life (Kivy 1989: 43; 2002: 28f.)[^kivy-1989]. What music reflects is the *morphology* of feeling, and its forms are inexhaustibly rich (PNK 238f.). It is immediately sensuous and pleasurable, while also symbolizing and expressing, though not in the way that language does. This is why the numerous efforts to reduce music to a basis in our sensational or physiological reactions or descriptions of it fail (PNK 210ff.).
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      It is not the emotions *caused* by a musical passage, or expressed by the composer personally, or any language-like grammar or vocabulary of notes and other elements that make music meaningful, but rather the logical expression (formation, ordering) of feeling. There are analogies between, e.g., sign-languages—advanced telegraphic languages of drumming, sign languages for the deaf, and hieroglyphs—and the elements of music, but a sharp difference in that the former are discursive symbolisms, as music is not. The elements of, e.g., a system of musical notes in the Western tradition do not have any fixed emotional reference; instead they articulate forms that “*language cannot set forth*”: such forms are “untranslatable” or incommensurable with discursive forms (PNK 233). Langer argues in PNK that music arises from the expressive potential of ordinary speech, since these sounds that meet our ears are “intrinsically expressive” in having “not only associative value, but value as rhythms and intervals, exhibiting stress and release, progression, rise or fall, motion, limit, rest” (PNK 243).
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      Langer adduces numerous critics who have formulated the point about music’s “ineffability” in similar ways, while insisting, against any mystical view, that, like a good notation, musical symbolism has such vitality that it grows, as language does, by a process of articulation of new forms, rather than a fixed stock of forms or by a process of preconceived expression (PNK 240).
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      ## 5. Theory of Art (1945–1966)
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      *Feeling and Form* (FF, 1953) extends PNK’s treatment of music to a general theory of the arts. It was received as “the most complete system of aesthetics to be enunciated … since Croce” (Wilkinson 1955: 221)[^wilkinson-1955], bringing the issue of the relation of emotion to art front and center by offering the most detailed account in the first half of the twentieth century of an expression-cognitivist theory of art focused on feelings (Guyer 2014: vol. III, 365)[^guyer-2014].
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      Langer recognizes “great” traditions and genres, but does not focus on these alone, seeking to pare art away from the “madhouse” of modern life where too many people live in a ruinously jumbled, disorganized streams of “artworks”, excellent and trivial (FF 53). She has been criticized for not providing criteria by means of which to separate good from bad works of art (Wollheim 1955; Budd 1985; Kivy 1989; Greenberg 2000: 104)[^budd-1985][^greenberg-2000][^kivy-1989][^wollheim-1955], but she is more interested in the practice of articulation and the characterization of the “transparency” of art symbols than in developing a hierarchy (FF 60), more interested in helping the reader become attuned to good everyday visual and auditory forms (for example, well-shaped textile designs, household utensils, decorated pitchers, jars, nicely proportioned doors and windows and embroideries, radio vs. live music) than in documenting the “greatness” of culture—the latter a kind of rhetoric she deeply distrusts (FF 53). In refusing to rely on a *notion* of culture, by turning instead to *forms of life*, Langer not only echoes Wittgenstein’s use of that concept (Floyd 2016)[^floyd-2016], she also sets her conception of “symbolic form” apart from that of Panofsky, who took it to directly reflect a “culture” (Dengerink Chaplin 2020: 192ff.)[^dengerink-2020].
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      After FF Langer continued to discuss the relation between science, art, and culture; her political writings have been discussed above (§2). In addition she co-edited a Festschrift for Sheffer (Henle, Kallen, & Langer [eds] 1951), and published articles in the 1950s and 1960s on such topics as the notion of symbol, the process of feeling, emotion and abstraction in art and science (1951a, 1964a), materials and elements in the arts (1963b [2019]), the social influence of design (1965 [1966]), the cultural importance of the arts (1966), and the expression of feeling in dance (1976), collecting some of these in *Problems of Art: Ten Lectures* (1957) and *Philosophical Sketches* (1962a). She assembled *Reflections on Art: A Source Book of Writings by Artists, Critics and Philosophers* (1958b) and completed MEHF (1967–1982; §6 below).
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: body
+    source: |-
+      Art for Langer is not a form of “play” or “escape” whose end is “practical” (PNK ch. VI; FF 15): it is not located in a “context of real circumstance and anxious interest” but is instead “abstract” symbolization, designed to make forms apparent by putting them to creative expressive use, freeing them from their common applications (FF 50f.). It is not that abstract form is itself an artistic ideal (though Langer was receptive to certain works of abstract expressionism); instead the artist abstracts and composes in order to allow concrete uses of elements and media to express forms of feeling (FF 51). Abstraction is multi-dimensional in art, difficult to analyze, appears in various kinds, and is not reducible to principles or progressive generalization according to levels (as propositional forms are). It “involves a constant play of formulative, abstractive, and projective acts based on a disconcerting variety of principles” (Langer 1964a: 380), paralleling the kind of abstraction at work in the higher order study of transformations of system-forms in abstract algebra and mathematics. For Langer there are “incommensurable” tensions in consciousness, mirroring the tensions that organic life reflects (FF 286).
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: body
+    source: |-
+      In FF Langer downplays her earlier talk of “meaning” as isomorphism, which her critics had objected to. She nevertheless retains the idea of a second-order, morphological mirroring between the play of perceptible forms and forms of feeling (PNK 238), reworking Croce’s idea of art as expression in Cassirean terms: rather than copying nature, art creates and presents life’s forms. Art’s significance is its “vital import” (FF 32): its articulating the feeling of life by way of perceptible forms; it is a form of consciousness (Dryden 2004)[^dryden-2004]. To display and express this “aliveness” of forms, its primary and subsidiary forms must display something newly created, i.e., not merely an arrangement or configuration, but something that augments our “utmost conceptual power, imagination” with a sense of life (FF 40). Art expresses *virtual* objects, times, spaces, events and processes. Crucial to Langer’s treatment of art are her notions of “illusion”, “virtual” reality, the “liveliness” of forms, the processual nature of symbolization, and the “commanding form” (perhaps unconscious) of an artwork. These ideas have exerted an influence on recent theorists of virtuality (Chalmers 2022)[^chalmers-2022] and art as occurrence (Massumi 2011, 2015, 2024, 2025; FF 121)[^massumi-2011].
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: body
+    source: |-
+      At the same time Langer emphasizes the “studio basis” of art (FF 14), as well as the importance of craft and technique in every art (these she does not conceive as “mechanical”, FF 387). Art uses perceptible materials: *pace* Croce and Collingwood, an artwork is a “concrete symbol” in Cassirer’s sense: the transition from forms to sensuous appearance is not a “mechanical affair”, and the inarticulable richness of an artwork is a function of its concrete sensuousness (FF 120; Guyer 2014: vol. III, 335ff.)[^guyer-2014]. Langer distinguishes the *materials* of an artwork (tones, canvas, paper, glass, paint, bronze, wood, inscriptions, words, vibrations, cave walls, an artist’s experiences and emotions, etc.) from the *elements* that the artist puts to use in it through a medium (loose brushwork, cool colors, tones, straight or curvilinear lines, contradictory images or thoughts). Materials may be absorbed into elements, as plain song takes up words (FF 152), or a poet takes up her own feelings and responses. Choice of materials may affect range of elements and set different problems, providing different ways to present different feelings (FF 85).
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: body
+    source: |-
+      In this way, while denying that an artwork expresses the artist’s intentions and emotions directly, Langer allows that art may take up and rework elements of actual life, thus answering the charge that she takes no account of the artist’s intentions, or postulates a *deus ex machina* of “symbolific” human needs (Wollheim 1955)[^wollheim-1955], or ignores the importance of clock time to the nature of music (Alperson 2004, Guter & Guter 2021)[^alperson-2004][^guter-2021]. This leaves room for her to make sophisticated use of the ordinary notion of an “intention” or “point” of a technique, strategy, or material, as her notions of form and expression are organic: unlike, e.g., Beardsley, she does not rule the grammar of intention out as too psychologistic, but attempts instead to “logicize” or “grammaticalize” it as form, allowing for projective adjustments of means to expression in expressing forms with a material basis (compare Wimsatt & Beardsley 1946; Cavell 1969 [2002]: essays 7–8)[^cavell-1969][^wimsatt-1946]. She rejects Dewey’s appeal to a special aesthetic “attitude”: the discovery of “rightness and necessity” in sensuous forms of personal reactions to artworks does not require one to “dwell on one’s state of mind in the presence of a work”, but to reflect on transposability of forms (FF 34, 39; Gulick 2020: 16, 32n.)[^gulick-2020][^gulick-2020-2]. Still, there are many points of contact between Dewey’s treatment of experience as an organization of energies and forms with an “aura” around the edges and the semiotic parts of the pragmatist tradition emanating from Peirce (Innis 2022)[^innis-2022]: Langer seems to underplay these connections.
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: body
+    source: |-
+      Langer distinguishes materials and elements from virtual imagery (FF; Langer 1963b [2019]), thus sidestepping the later dispute between Gombrich (1960 [2001]), who claimed it to be impossible for a viewer to pay attention to a painting’s material character and its “depictive illusion” at the same time, and Wollheim (1987), who adduced the phenomenon of *seeing something in* the medium in response to Gombrich (Dengerink Chaplin 2020: 203f.)[^dengerink-2020]. In emphasizing the difference between art and language, Langer places strong emphasis on the concept of natural, organic form and “experience” of virtuality—unlike, for example, Goodman 1968 [1976]), who, focusing on notations and languages, further ramified Langer’s taxonomy of symbols but shifts away from the process of psychic development and process (Dengerink Chaplin 2020: 211ff.)[^dengerink-2020].
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: body
+    source: |-
+      Langer’s philosophy of music has remained the most continuously discussed part of her theory (Budd 1985; Kivy 1989, 2002; Alperson 2022)[^alperson-2022][^budd-1985][^kivy-1989], along with her philosophy of dance (Langer 1976; Man 2020, 2024)[^man-2020], though she embedded herself quite generally in the history and philosophy of art and aesthetics in the United States (Innis 2009, Gulick & Slater [eds] 2020)[^innis-2009]. She influenced her student Danto (1984, 1988; Auxier & Hahn [eds] 2013; Auxier 2013)[^auxier-2013][^auxier-2013-2], Goodman (1968 [1976: xii]) and Gardner (2023), as well as artists, critics, and writers of renown, including Eva Hesse (Hesse 2016: 175, 339; Rahtz 2021)[^hesse-2016][^rahtz-2021], Fay Lanswer, Asger Jorn, Walker Percy, Paul Hindemith, and Clement Greenberg (Dengerink Chaplin 2020: 18ff.)[^dengerink-2020]. Although Greenberg agreed with her emphasis on non-propositional, “ineffable” aspects of art, as well as its offering affordances to the imagination, he criticized Langer for not making the critic’s “taste” primary, thereby parting from her emphasis on the “studio basis” of artworks (2000: 25, 104). She knew poets Elizabeth Bishop and Richard Selig, painters such as Guy Anderson, Mark Tobey and Morris Graves, and musician Eva Heinitz (Wehr 1993, 2004)[^wehr-1993]. Her writings include thousands of perceptive remarks on particular works of art and philosophical criticism. She discusses art within many different traditions, genres, and lines of approach in Western and non-Western art, surveying a vast amount of critical and philosophical material in English, French, German and Italian. Her work on “symbolism” has been sublimated and appropriated in a variety of ways within, e.g., the theory of architecture, from Marxist semioticians to cultural conservatives, showing how important careful reflection on theories of symbolism is (Martin 2025)[^martin-2025]. The multi-dimensional nature of her criticism and responses to theories of art up to her own time is only beginning to be systematically studied for its place in the context of the mid-twentieth century philosophy and art (van der Tuin 2024)[^tuin-2024].
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: body
+    source: |-
+      Langer appropriates Schiller’s idea of *Schein* (appearance, “semblance”, a term also used by Jung (FF 48)) as an inherent property of all art (Wilkinson 1955; Leddy 2024)[^leddy-2024][^wilkinson-1955]. *Schein* is also a critical norm, describing the *way* an illusion is created in a specific artwork to analyze to what degree and how successfully it expresses “aliveness”, and why (Wilkinson 1955: 221; compare Massumi 2011)[^massumi-2011][^wilkinson-1955]. Psychic “distance” and a sense of “presence” are essential to art: Langer points out that there is no need of *imitating* anything alive in order to convey the appearance of life (FF 312): artistically “nothing brings to mind life better” than the tense stillness of a tomb, or Van Gogh’s representation of a chair (FF 81, 98). Just as music expresses virtual temporal forms of duration and rhythm that are dynamic and not reducible to clock time or causally instantiated processes, a repeated decorative motif expresses virtual motion, making a surface *more visible* in its diversity (FF 61). Langer notes the universality of certain decorative forms among human cultures, hypothesizing—as an alternative to Malraux’s suggestion that a prehistoric unity of *culture* accounts for this (1947–1950, Vol. 2: 122f.)—that our capacity for perception of the feeling of life lies in an organizational capacity of the human visual field that comes to expression “so directly that it undergoes practically no distorting cultural influences, but brings forth a record of visual experience at its lowest terms” by projecting and transforming organic processes of feeling (FF 61).
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: body
+    source: |-
+      An artwork, being singular and non-discursive, offers “truth” that has no negation and no deductive consequences, only emotional significance: it is appreciated with one or another degree of insight or intuition, like Russell’s knowledge by acquaintance (PNK 263). It is not the representational “likeness” of a Paleolithic reindeer image on the walls of a cave on Dordogne that make it an artwork, but its expressive way of organizing the flow of unity in lines and surfaces on a wall symbolically, something that may also have had a spiritual or magic dimension, orienting by a force of abstraction a “physiognomic” stage of perception in which feeling and perceiving are not clearly differentiated (MEHF I 166ff, 1964a: 383; Dengerink Chaplin 2020: 117)[^dengerink-2020] .
+    step1: TBD
+    step2: TBD
+  - id: 97
+    kind: body
+    source: |-
+      “Semblance” is not something to understood as hallucinatory, although Langer somewhat misleadingly uses the phrase “illusion” to describe virtual objects, spaces, times and lives; she explains that she does not mean by this a “delusion” (FF xi; Chalmers 2022)[^chalmers-2022].
+    step1: TBD
+    step2: TBD
+  - id: 98
+    kind: body
+    source: |-
+      > Where we know that an object consists entirely in its *Schein*, … that apart from its appearance it has no cohesion or unity (like a rainbow or a shadow)—we call it a merely *virtual* object. (FF 49)
+    step1: TBD
+    step2: TBD
+  - id: 99
+    kind: body
+    source: |-
+      “Normally,” writes Langer, “semblance is not misleading; a thing is what it seems” (FF 49). But an art object (e.g., a vase or building) may come to arrest one’s sense (e.g., visual sense) so completely that many of its actual properties (weight, color) seem to fall away. She credits Schiller with the idea of semblance as a “liberation” of perception from practical purposes, allowing the mind to “dwell on the sheer appearances of things” (FF 49); this does not exclude that it may reform structures of agency, but it does so freely, without compulsion (compare Nguyen 2020 on games and art)[^nguyen-2020].
+    step1: TBD
+    step2: TBD
+  - id: 100
+    kind: body
+    source: |-
+      Langer’s philosophy of music is the platform from which her theory of the (differing) modes of art flows. She holds that the purpose of all “musical labor”, whether in thought or in physical activity, “is to create and develop the illusion of flowing time in its passage, an audible passage filled with motion that is just as illusory as the time it is measuring” (FF 120). She thus follows Schopenhauer’s idea that music is an iconic symbol of the emotions, which raises questions about whether particular emotions *can* be heard in music (Kivy 2002: 28ff.)[^kivy-2002]. But it is the play and seriality of formation of emotions that matters to Langer. The essence of all music, whether good or bad, is the creation of virtual time, determined by the movement of audible forms (FF 125). A musical work grows from an imagination of general movement to its complete, physical presentation or occurrence, governed by a basic form from which it is developed, a *commanding* form, as Flaubert called it, a kind of germ or “Idea” of the work (FF 122). This form, analogous to a living organism’s maintenance of its identity through time, dictates choices as the piece is composed, but also serves as a fecund symbol. Its aspects may be greatly various; what matters is the *way* of they unfold in a particular piece of music (FF 126).
+    step1: TBD
+    step2: TBD
+  - id: 101
+    kind: body
+    source: |-
+      Music symbolizes forms of feeling, but it does not have a language, despite the materials and elements it uses. This does not mean that it cannot “swallow up” words, e.g., in song (FF 152). Langer regards the intonation of speech in choric chant to *be* music, issuing forth “its own audible Time” even when one cannot understand the words (FF 125). On this view, music is more universal than any one tradition; noises (hammers pounding, etc.) are not music but may be incorporated into it, at which point there must be the semblance of organic movement, the illusion of an indivisible whole. Music also cultivates “hearing” rather than serving as a psychological stimulant or sedative: listening to music or singing lying in bed is a “natural education”, whereas the radio “harbors a danger … or learning *not* to listen” if it is occurring in a twilight zone of daydreaming, for the form of the dream, rather than art, “swallows” up the living forms of music (FF 147, 168).
+    step1: TBD
+    step2: TBD
+  - id: 102
+    kind: body
+    source: |-
+      Langer’s account of music has been praised for its treatment of motion and movement, as well as her emphasis on the richness of concrete musical experience and its emotional shaping of experience (Kivy 1989, 2002; Levinson 2015)[^kivy-1989][^levinson-2015]. There remain objections that have been lodged. Langer never explains in PNK and FF what exactly the structure of an emotion is—though it is clear she thinks our ordinary taxonomy of simple emotions (fear, sadness, etc.) cannot do justice to our experience of music and, to be fair, she takes the notion of *feeling* to be basic. She appears to assume that all instances of a given emotion must exhibit a common form or structure, though since emotions are occurrent processes, and no structure evinces just one form it is not clear that this charge meets the mark. Langer’s idea of the “logical picturing of emotional form” idea may appear circular or at best metaphorical. It also seems that emotion may be conventionally or traditionally associated with music, or identified as that which listening to the music arouses (Levinson 2011: 283ff.)[^levinson-2011], though Langer’s idea that ritual can make particular feelings *definite* allows for the role of tradition in using music to around particular feelings. Langer has also been criticized for the ways in which she underplays the expression of *specific*, *definite* emotions in music that seem directly present *in* it, rather than virtually presented in general: it seems that just as sadness may be expressed immediately in a dog’s face or behavior, it can be expressed immediately in a musical passage, and if so, music does indeed represent actual emotions, rather than possible forms of them (Kivy 1989, 2002; Alperson 2004)[^alperson-2004][^kivy-1989]. It is not clear how fundamental such “resemblance” objections may be, because of Langer’s multi-layered and multi-dimensional view of symbolic forms and her sense of art materials and elements (Dengerink Chaplin 2020: 191)[^dengerink-2020].
+    step1: TBD
+    step2: TBD
+  - id: 103
+    kind: body
+    source: |-
+      Artworks afford us newfound sentience of organic and patterned forms of life through symbolization according to “primary” illusions that hold particular works, with their subsidiary forms and elements, together in different modes and allowing for interpenetration of different “secondary” modes of illusion drawn from the other arts: virtual movement, time and rhythm (music), virtual space (the plastic arts), virtual scenes and visible spaces (pictorial art), growth, virtual kinetic possibilities of volume (sculpture; see Gjesdal, Rush, & Torsen [eds] 2020), created space for an “ethnic” domain or “place” (architecture, see Guyer 2023)[^guyer-2023], the virtual realm of power, influence and agency as a center of vital force (dance, abstracting from gesture), the illusion of life’s happening (poetic arts), virtual life or illusory experience (poetry), virtual memory (poetry, drama, novels), virtual history in the mode of dramatic action (drama), Destiny and Fate as virtual life-arcs. In film, Langer argues, we have a “new art” that swallows up other forms omnivorously, remaking the primary illusion of virtual history in the dream mode: it is the sole art yet to appear unentangled from religion, as it emerged through the entertainment business (FF 121ff., 412; Langer 1947). Each of these modes of art may be made perceptible in myriad ways, and each abstracts differently; each art may absorb the virtuality of another (dance’s forms offer semblance in musical virtual time; poetry and literature abstract virtual events), and novel forms evolve in unlimited ways.
+    step1: TBD
+    step2: TBD
+  - id: 104
+    kind: body
+    source: |-
+      If art is the objectification of feeling, it is also the subjectification of nature, “fusing” formal uses of materials in symbolic expressiveness (MEHF I 86f.). Its abstractions depend upon the specific artwork. Langer begins from her knowledge of music, but she also studied Paul Valéry (1939 [1958/2007]) on abstraction in poetry to reflect on her theory of the poetic mode of symbolization, sharing his fascination with the notion of *life* combining with higher order algebraical transformations, the idea of by-passing “entropy” through the projection of forms and descriptions of higher type (Rosenberg 2021)[^rosenberg-2021].
+    step1: TBD
+    step2: TBD
+  - id: 105
+    kind: body
+    source: |-
+      The expressiveness in the play of “presentational” appearances is not a matter of “make-believe”, escape or pretending (as in Gombrich 1963 [1985]; Walton 1990, 1992; FF 228)[^gombrich-1963][^walton-1990], but a way to disengage belief (FF 49) without appealing to fictional *thoughts*: “in [a] literal sense …[a representing] picture is an illusion”, and not a “copy” of visual impressions (FF 70). What the artist does is to compose an organic totality of relations among elements (e.g., sense qualities, which are “factors” in semblance (FF 84)) to produce another order of “quality” that is articulated concretely and felt as or seen *in* the artwork (devastation, warmth, sharpness). “Semblance” inheres in the organic totality of structuring and relations (forms) of sensory qualities.
+    step1: TBD
+    step2: TBD
+  - id: 106
+    kind: body
+    source: |-
+      ## 6. *Mind: An Essay on Human Feeling* (1967–1982)
+    step1: TBD
+    step2: TBD
+  - id: 107
+    kind: body
+    source: |-
+      Langer’s trilogy *Mind: An Essay on Human Feeling* (1967–1982), to which she dedicated the final three decades of her life, expands her notion of symbolic form to delineate the role of “feeling” in the evolution of mind, consciousness and value. Her foundation for the philosophy of psychology traces evolution through many different forms of life, from the inorganic through plants, animals, and human culture. She begins with the transition to organic life itself—for which there are no absolutely fixed criteria—and traces through higher order forms of differentiation that lead to individuation, and, via feeling, to thought, language, mathematics and art, those formations of life that belong to human beings distinctively as symbolizers. She sorts through an enormous amount of scientific literature, including plant and animal ethology and biology, psychology, and neurology, rifling through striking examples drawn from plant and animal growth, morphogenesis and sexual behavior to language, mathematics, religion, and science.
+    step1: TBD
+    step2: TBD
+  - id: 108
+    kind: body
+    source: |-
+      Langer attends both to physical mechanisms and organicity, but she rejects the adequacy of psychological explanations offered in behaviorism, evolutionism, mechanism and cybernetics. These, she argues—adducing many examples—tend to vastly oversimplify: they reject direct evidence, skew descriptions of the phenomena, and pretend that algorithms always explain. Their main difficulty is an underestimation of the difficulty of characterizing the variety of forms of life.
+    step1: TBD
+    step2: TBD
+  - id: 109
+    kind: body
+    source: |-
+      Langer argues that what are needed are “images” that inspire new ways of viewing organic phenomena in relation to their environments, and not the off-the-shelf use of pre-existing scientific “models” designed to show how systems work. Reiterating her theory in FF, she expands her theory of abstraction in art and science, with its account of primary and secondary illusions, representations, synesthesia and metaphor, into a theory of biologically-rooted “psychical experience”. This experience is ultimately based, she argues, on the idea of an *act*, by which she means an embodied organic event, typically with subunits and higher complexities of form, applicable to aspects of the animal as well as the human world. There are proto-acts and acts that are not instantiated in overt behavior; reflex acts, temperature regulation by behavior, repertoires and “act centers” in organs. The culmination of MEHF I is her theory of acts (Richter 2007)[^richter-2007].
+    step1: TBD
+    step2: TBD
+  - id: 110
+    kind: body
+    source: |-
+      Langer canvasses thousands of ethological examples, from the lifting of a leg by a dog to pee, to the flinging of a branch watched by a gorilla, to the grooming of baboons (MEHF II 149f., 168f.). All animal acts are, Langer argues, instinctive, failing to achieve the vital activity of forms characteristic of the evolved human being, as she thinks her study of the ethology of insects, wolves, lemurs, migratory birds, monkeys, peacocks, turkeys, elephants, gorillas, grizzly bears, and other animals (building, e.g., on Lorenz, Kohler, Goodall, Schaller, Fossey, Jolly, Schoonmaker and others) shows. Acts that are peculiar to human beings are caused by agency, a kind of individuation that evolves biologically from the beginnings of life on earth through dialectical shaping of rhythms and vital activities in environments that comprise directions and degrees of individuation and patterning. Langer develops a theory of “pressions” to capture the constantly-adapting responses of the human organism to their environment, respecting the challenge of avoiding both naïve anthropomorphism about animals and the denial of all animal feeling. She canvasses problems about hereditary forms of life and revisits the question of the origin of language in light of recent ethology and linguistics. She argues that human virtues and vices are not animal values, in being symbolic: empathy must be distinguished from sympathy, suggestion, and imitation; chimpanzees become excited, but do not dance (MEHF II 305).
+    step1: TBD
+    step2: TBD
+  - id: 111
+    kind: body
+    source: |-
+      MEHF III traces the evolution of the moral structure of the human world through spirit, dreams of power, the appreciation of tragedy, the establishment of a sense of place, the rise and breaking apart of cultures in war and migration, and the evolution of mathematics and the reign of science from its origins in artistic and musical symbolization.
+    step1: TBD
+    step2: TBD
+  - id: 112
+    kind: body
+    source: |-
+      MEHF was not nearly as influential as PNK. However, Langer anticipated subsequent turns in psychology and neurobiology that locate reason in an organism’s embodied affective and cognitive engagement with the world (Merleau Ponty 1945 [2012]; Johnson 1987; Damasio 1994, 2001; Windle 2024)[^damasio-1994][^johnson-1987][^windle-2024], treat thought as an essentially symbolic process (Deacon 1997; see Dengerink Chaplin 2020: 226 and Dryden 1997a, 2007)[^deacon-1997][^dengerink-2020][^dryden-1997a] and take the affordances of the environment seriously in examining perception (Gibson 1950, see MEHF II 54n)[^gibson-1950]. Her insistence on the centrality of projective metaphor and feeling to conceptual processes of thought was also pioneering (see Lakoff & Johnson 1980; Innis 2009: 12)[^innis-2009][^lakoff-1980], as was her biological approach to consciousness in her descriptions of the organization of higher-order organic forms (Dryden 2007)[^dryden-2007]. Though she claimed that only humans are truly “symbolic” in the full sense, she was fascinated by animal life forms of all kinds, and the evolution of life on earth as a whole, from bacteria to cats; recent discussions of her work and contemporary art show how symbolic forms from the animal world and environment are accommodated by her aesthetic theory (Gaikis 2021)[^gaikis-2021].
+    step1: TBD
+    step2: TBD
+  - id: 113
+    kind: oir
+    source: |-
+      - [Susanne K. Langer Circle](https://langercircle.sites.uu.nl/), Descartes Centre for the History and Philosophy of the Sciences and the Humanities Utrecht University. A large collection of on-line resources, including Langer’s MA and PhD theses, some archival material, bibliographies of secondary literature, and other resources, including records of the activities of the Circle.
+      - [ Susanne K. Langer Papers](https://langer.hum.uu.nl/landing), 1895–1985 (MS Am 3110). Houghton Library, Harvard University. (under construction)
+    step1: TBD
+    step2: TBD
