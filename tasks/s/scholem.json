@@ -2,7 +2,7 @@
   "slug": "scholem",
   "kind": "retranslate",
   "zh_doc": "s/scholem.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "SZ-main-20261108b",
       "at": "2026-11-08T06:49:41Z",
       "evidence": "体例三校：check_style 0 issue；markdownlint-cli2 --no-globs s/scholem.md 0 error（修 6 处 MD004：OIR 节项目符号 - → *，源文符号不合本仓库星号体例，已改账本段69 step2 后重组）；check_academic --strict 0 硬错误；check_math missing/unbalanced 空；check_render_artifacts 0 产物缺陷；check_mulu_s 0 重复/0 硬错误；术语登记一致性：告警 6→3（补全首现全形：索伦·克尔凯郭尔、弗朗茨·卡夫卡、以撒·卢里亚；残留 3 条为噪声：Molyneux 两条本文未涉及、Wasserstrom 仅见于 (Wasserstrom 1999) 引注组按体例不译），硬错误 0；check_all 中 scholem 无红点（SUMMARY 结构审计 1 硬错误属 h/holkot.md（EH-main 在途）、术语冲突 social contract 属 august-rehberg 词汇表滞后，均非本部）；顺手清理根目录 0 字节乱名散件（check_junk 转绿）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "SZ-main-20261108b",
+      "at": "2026-11-08T07:26:00Z",
+      "evidence": "初审（新维度：逻辑连贯与文内一致，不复查 s1/s2 已处理项）：通读终稿对照源文，实修 3 处——①导语段译注移至段末单独成段（rules/07 译注纪律；原内联括注夹在首句人名后割裂句子）；②段41「在预言中」→「在先知书中」，与段40「先知书/Prophetic books」同证同形（ADR-0020 同词条锁定主形）；③段55 二校拆句后主语悬空「。关心的不是…」→「。这一叙述关心的不是…」；核文内交叉引用：见下文第 2 节（§2）/第 4 节（§4）/见上文第 2 节（part 2）与源文对位；节序 导语→1–6 节→References→学术工具→其他网络资源→相关词条 齐备"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "SZ-main-20261108b",
+      "at": "2026-11-08T07:28:15Z",
+      "evidence": "复审（逐句回核原文与逻辑）：①引注组集合脚本比对 40/40 全等（JJC/LY/MT/MI/KS/SS/LL/PM/MS/Corr/Br 缩写-页码形，译文无缺无多）；②脚注定义 25/25 与源文逐字符一致，正文引用键 8 个（biale-1979/dan-1987/engel-2017/ferber-2014/hamacher-1999/wasserstrom-1999/weidner-2003/zadoff-2015）均有定义，孤立定义 17 条为源文同构（照录不下移）；③References 条目逐条对位：魏德纳 2003[2022]/比亚莱 1979[1982]、2018/恩格尔 2017/扎多夫 2015[2018]、2014/雅各布森 2003/施密特 1998/费伯 2013/哈马赫 2014、1999/达维多维奇 1995/马吉德 2018/沃尔法特 1995/阿尔特 1991/莫塞斯 1992[2009]/基尔歇 1998/丹 1987/施魏德 1983[1985]/哈马赫 1999/迈尔斯 1995/胡斯 2005/伊德尔 1988 年份与英文源一致；④数字核对：1923、1929 骚乱、1930 年代、1941 讲演集、1963 文章、1964 论战、1982、1492 逐出西班牙、十二世纪（Zohar 译注存疑保留）均与源文相符；⑤OIR 6 条 URL 原样未动"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "SZ-main-20261108b",
+      "at": "2026-11-08T07:30:10Z",
+      "evidence": "终审（终稿验收）：check_style 0 issue、markdownlint-cli2 --no-globs 0 error、check_academic --strict 0 硬错误、check_math missing/unbalanced 空、check_render_artifacts 0 缺陷、check_mulu_s 0 重复、check_terms 硬错误 0（散文残留 5 条告警全为引文内部/括注对位豁免，已留痕）；结构完整性（6 节+References（引用注释）25 条定义+学术工具四行+OIR 6 条+相关词条 5 条）；复核独立性（ADR-0020）：初译 actor SZ-main-20261108，s1–r3 由本会话 SZ-main-20261108b 独立执行，且 r1 前已先行完成 s1–s3 与他条核对后回读终稿（冷置）；CI 推送后复核"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "SZ-main-20261108b",
+      "at": "2026-11-08T07:30:10Z",
+      "evidence": "收口：九步无跳步（clear→draft→s1→s2→s3→r1→r2→r3→done），Critical 0；产出 s/scholem.md（270 行/23327 字符）、tasks/s/scholem.ledger.yaml（69 段双版）、人名登记册 scholem 48 行（45 行补籍属/生卒，18 人联网核实）；遗留非本部项：h/holkot H1、august-rehberg 词汇表滞后（他人批次）"
     }
   ],
   "blockers": [],
