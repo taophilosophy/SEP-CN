@@ -80,7 +80,11 @@ RE_EN_DATE = re.compile(r'([A-Za-z]+)\s+(\d{1,2})\s*,\s*(\d{4})')
 RE_FOOTREF = re.compile(r'\[\^([^\]\s]+)\](?!:)')
 RE_FOOTDEF = re.compile(r'^\[\^([^\]\s]+)\]:')
 RE_HEADING = re.compile(r'^(#{1,6})\s+(.*?)\s*#*\s*$')
-BIBLIO_HEADINGS = {'参考文献', 'bibliography', 'secondary literature', '延伸阅读', '文献目录', 'references（引用注释）'}
+BIBLIO_HEADINGS = {'参考文献', 'bibliography', 'secondary literature', '延伸阅读', '文献目录',
+                   'references（引用注释）',
+                   # 转换器标题的中文对位形：yuanwen 作“## References（引用注释）”，
+                   # 译文照译作“## 参考文献（引用注释）”（2026-11-08 K 批实测）
+                   '参考文献（引用注释）'}
 PIN_FIELDS = ('pubinfo_date', 'archive_edition', 'sha256')
 
 
@@ -337,7 +341,10 @@ def check_footnotes(ne, rel, hard, cross_refs=None, biblio_span=None, defer_tail
             # 而丢标记，标题定位不可靠。年份判据放宽覆盖：中世纪年份（1274）、
             # 字母后缀（2019a）、no-date 键（-nd）、不确定年份（197?）。
             if (re.search(r'\b\d{4}[a-z]?\b', dline)
-                    or key.endswith('-nd')
+                    # no-date 键及其副本键：转换器对同一 no-date 注重复出现时追加 -2/-3
+                    # 后缀（many-nd-2、chinul-nd-3），源文与译文同形且皆未被文内引用，
+                    # 属文献表自然组成部分（2026-11-08 K 批实测）
+                    or re.search(r'-nd(-\d+)?$', key)
                     or re.search(r'1[0-9]\d\?', dline)):
                 continue
             hard.append('[orphan-def] %s:%d 文末定义 [^%s]: 无正文引用' % (rel, lineno, key))
