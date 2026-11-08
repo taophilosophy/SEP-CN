@@ -2704,3 +2704,15 @@
 | moral realism | — | 道德实在论 | 首现（intuitionism-ethics） | 学界惯例（元伦理学通行）；凭证 2026-11-08 | 2026-11-08 |
 | conative attitude | — | 意动态度 | 首现（intuitionism-ethics） | 学界惯例（欲望/情感类态度）；凭证 2026-11-08 | 2026-11-08 |
 | simplicity (of properties) | — | 单纯性 | 首现（intuitionism-ethics） | 学界惯例（与复合性对举）；凭证 2026-11-08 | 2026-11-08 |
+| kinematic relativity | — | 运动学相对论 | cosmology-30s 首译 | 宇宙学史通行（Milne 1933/1935 理论名）；凭证 2026-11-08 | 2026-11-08 |
+| relativistic cosmology | — | 相对论宇宙学 | cosmology-30s 首译 | 宇宙学通行（广义相对论框架下的宇宙学，本词条主角阵营）；凭证 2026-11-08 | 2026-11-08 |
+| cosmological principle | — | 宇宙学原理 | cosmology-30s 首译 | 宇宙学通行（Milne 1933 提出；de Sitter 论战核心）；凭证 2026-11-08 | 2026-11-08 |
+| operationalism | — | 操作主义 | cosmology-30s 首译 | 科学哲学通行（Bridgman 传统；与 operational definition 操作定义同族）；凭证 2026-11-08 | 2026-11-08 |
+| hypothetico-deductivism | — | 假说—演绎主义 | cosmology-30s 首译 | 科学哲学通行（H-D method 假说—演绎方法之立场形态）；凭证 2026-11-08 | 2026-11-08 |
+| inductive empiricism | — | 归纳经验主义 | cosmology-30s 首译 | 科学哲学通行（Dingle 阵营）；凭证 2026-11-08 | 2026-11-08 |
+| steady-state theory | — | 稳恒态理论 | cosmology-30s 首译 | 宇宙学通行（Bondi–Gold–Hoyle 1948）；凭证 2026-11-08 | 2026-11-08 |
+| world-geometry | — | 世界几何 | cosmology-30s 首译 | Milne 术语学界通行（与 world structure 世界结构配对）；凭证 2026-11-08 | 2026-11-08 |
+| world picture | — | 世界图景 | cosmology-30s 首译 | 学界通行（Weltbild 传统译法）；凭证 2026-11-08 | 2026-11-08 |
+| distance-assignment | — | 距离赋值 | cosmology-30s 首译 | Milne 术语学界通行；凭证 2026-11-08 | 2026-11-08 |
+| Robertson-Walker metric | — | 罗伯逊—沃克度规 | cosmology-30s 首译 | 宇宙学通行（Robertson 1935/Walker 1935）；凭证 2026-11-08 | 2026-11-08 |
+| universal time | — | 普适时间 | cosmology-30s 首译 | Milne 术语学界通行；凭证 2026-11-08 | 2026-11-08 |
