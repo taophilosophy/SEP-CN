@@ -2,7 +2,7 @@
   "slug": "bayle",
   "kind": "retranslate",
   "zh_doc": "b/bayle.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "ABCDE-main-20261103",
       "at": "2026-11-02T20:05:05Z",
       "evidence": "check_style 0 issue；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；文献分节结构合规"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T03:31:23Z",
+      "evidence": "独立初审（接管，非初译 actor）：源译全文回读，7 节 + 文献区逐块对齐，无错译无漏译；实修 3 类：①转换器契约注记（[^key] 说明行）缺件补回 1 行（C2 伪标记差随之清零）；②斜体跨对吃字事故修复（L133 *felix culpa*（幸运的过犯）与 **无限** 完美的 *** 级联残骸，按 bradley-moral 归一三连规程）；③书名号家法修正（*Dictionary* 斜体机械转加粗的 （**辞典**，→（《辞典》×2）+ 被字句实修 4 处（L5 视为同侪/L67 拒之门外/L117 认为/L149 把…视为；L51 三重排比豁免）；术语归一：Melissus 梅利索斯→麦里梭（册内先登 L388、全库 9:4 多数）；Theodorus 册内行合并「亦作泰奥多鲁斯」；Vanini 异名分立登记（Lucilio 与 Giulio Cesare 同人）；人名登记 20 行；prose 68→64 余全豁免（de-chain 术语链/长句直引/排比）；四检全绿（style 0/academic 无硬错误/prose 64 豁免/math 0）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T03:32:33Z",
+      "evidence": "独立复审：r1 实修逐项断言（说明行=1、felix=1、无限强调=1、辞典书名号=2、麦里梭=4、梅利索斯=0 全中）；五维守恒：defs 48:48、marker 多重集（含伪标记）1:1、年份序列差异仅语序重排（网络资源区 1693/2015/1740 俱在）、BLOCK 69:68＝说明行+照录说明+byline 三项解释；ENRES 4 处全为人名/书名括注豁免；check_terms 硬错误 0"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T03:32:36Z",
+      "evidence": "终审：check_all 七项本地全绿（2026-11-08）；终稿结构完整（7 节+文献 A1/A2/B+尾节四件套）；r2 无新增问题"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T03:32:36Z",
+      "evidence": "收口：r1–r3 全过置 done；凭证链九步（s3=ABCDE-main-20261103，r1–done=R-main-20261108）；提交见 git log -- b/bayle.md"
     }
   ],
   "blockers": [],
