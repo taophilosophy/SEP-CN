@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-08 18:42（UTC）
+生成时间：2026-11-08 19:38（UTC）
 
 ## 总览
 
@@ -12,18 +12,18 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1145|
+|已建任务|1146|
 |例行/维护任务（不计状态机）|2|
 |已完成（done）|222|
-|在途（drafted 起、done 前）|229|
+|在途（drafted 起、done 前）|233|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|694|
-|cleared|156|
+|pending|691|
+|cleared|160|
 |drafted|6|
 |s3_checked|64|
 |r1_reviewed|3|
@@ -48,7 +48,7 @@
 |M|139|139|14|6|
 |N|50|50|6|3|
 |O|21|21|10|8|
-|P|165|165|4|0|
+|P|165|165|5|0|
 |Q|34|34|34|0|
 |R|85|85|85|8|
 |S|161|161|14|9|
@@ -280,9 +280,13 @@
 |langer|retranslate|r1_reviewed|L-main-20261109 2026-11-08|
 |mandeville|retranslate|s3_checked|M-main-20261108 2026-11-08|
 |marsilius-padua|retranslate|drafted|M-main-20261109 2026-11-08|
+|model-organisms|retranslate|cleared|task_ops 2026-11-08|
 |moral-demands-permissions|retranslate|s3_checked|LMN-main-20261108f 2026-11-08|
 |necessary-sufficient|retranslate|s3_checked|ZCode-N-20261108b 2026-11-08|
 |omnipresence|retranslate|drafted|OPQR-main-20261108 2026-11-08|
+|peirce-benjamin|retranslate|cleared|task_ops 2026-11-08|
+|qt-entangle|retranslate|cleared|task_ops 2026-11-08|
+|reinach|retranslate|cleared|task_ops 2026-11-08|
 |religion-epistemology|retranslate|cleared|task_ops 2026-11-08|
 |simon-faversham|retranslate|r1_reviewed|SZ-main-20261108 2026-11-08|
 |tarski-truth|retranslate|cleared|task_ops 2026-11-08|

@@ -1,78 +1,85 @@
 {
-  "slug": "arabic-islamic-phil-math",
-  "kind": "retranslate",
-  "zh_doc": "a/arabic-islamic-phil-math.md",
-  "state": "done",
-  "steps": [
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-07T13:01:36Z",
-      "evidence": "baseline gate: hash_ok"
-    },
-    {
-      "step": "draft",
-      "status": "ok",
-      "actor": "A-main-20261108",
-      "at": "2026-11-07T17:06:46Z",
-      "evidence": "组装定稿 459 行；13 处组装占位符（\\x01）回源修复（script/fix_aipm_placeholders.py 前置门+残余归零）；H1 与 SUMMARY 全题一致"
-    },
-    {
-      "step": "s1",
-      "status": "ok",
-      "actor": "A-main-20261108",
-      "at": "2026-11-07T17:06:46Z",
-      "evidence": "五维对账（script/recon_aipm.py）：marker 255:255、defs 136:136、粗体缩写键 0:0 全等；段落 235:233 差-2=源文空分类节标题（Primary/Secondary Sources）按家法丢弃；年份 24 卒于+1 defs 照录 d.1413 全对齐；Avicenna (d. 937) 系源文笔误照源直译留痕"
-    },
-    {
-      "step": "s2",
-      "status": "ok",
-      "actor": "A-main-20261108",
-      "at": "2026-11-07T17:06:47Z",
-      "evidence": "四检全绿：style --strict 0、academic --strict OK、math 84 式 0 缺；check_prose 38→12：实修 28 组（script/fix_aipm_prose.py 前置门），豁免 12 处/5 类（概念对举、括注变体、术语密度、书名结构、概念定义句）"
-    },
-    {
-      "step": "s3",
-      "status": "ok",
-      "actor": "A-main-20261108",
-      "at": "2026-11-07T17:06:51Z",
-      "evidence": "学术挂钩通过；术语 33 行+人名 18 行登记同批提交（wahm/awwalīyāt/fiṭrīyāt/三论证/nafs al-ʾamr 等；Thābit/al-Qūhī/朱尔加尼等）；同键异译归一：苏哈拉瓦迪→苏赫拉瓦尔迪×4、卡提比·加兹维尼→卡提比·卡兹维尼×2、阿布哈里→阿卜哈里×1"
-    },
-    {
-      "step": "r1",
-      "status": "ok",
-      "actor": "A-main-20261108",
-      "at": "2026-11-07T17:40:12Z",
-      "evidence": "全文回读完成：7 处引文块逐块核对、2.3/2.4 与 defs 照录区抽读（suhrawardī-1999 eds/、gutas-2001 Wisnovsky 2001: 等源文瑕疵照录不动）；发现 3 漏网人名（易卜拉欣·伊本·西南/西吉齐/萨马瓦尔）与术语 taḥlīl 转入 r2 补登"
-    },
-    {
-      "step": "r2",
-      "status": "ok",
-      "actor": "A-main-20261108",
-      "at": "2026-11-07T17:40:12Z",
-      "evidence": "补登 3 人名+1 术语（taḥlīl 分析）；勘误 tarkīb 译法为综合（synthesis）与伊吉全名（阿杜德丁·伊吉）；删除与既有 677 行重复的 mutakallimūn 行（同键先登优先：凯拉姆学者）"
-    },
-    {
-      "step": "r3",
-      "status": "ok",
-      "actor": "A-main-20261108",
-      "at": "2026-11-07T17:44:40Z",
-      "evidence": "check_all 七项全绿（SUMMARY/分类目录/单体文件/垃圾/术语一致性/学术规范/单元测试，两轮复跑）"
-    },
-    {
-      "step": "done",
-      "status": "ok",
-      "actor": "A-main-20261108",
-      "at": "2026-11-07T17:44:40Z",
-      "evidence": "A 批 51/160；零信任重译 7494 词源文，12 节 17 段落块，五维对账全等，四检+七项门禁全绿"
-    }
-  ],
-  "blockers": [],
-  "created_at": "2026-10-28T16:36:53Z",
-  "version_pin": {
-    "pubinfo_date": "Apr 9, 2022",
-    "archive_edition": "Summer 2022",
-    "sha256": "d60b8c3d7ccacf15b02e040c2197aa2d82c9b1fff068f575178fa45eb154c46a"
+ "slug": "arabic-islamic-phil-math",
+ "kind": "retranslate",
+ "zh_doc": "a/arabic-islamic-phil-math.md",
+ "state": "done",
+ "steps": [
+  {
+   "step": "clear",
+   "status": "ok",
+   "actor": "task_ops",
+   "at": "2026-11-07T13:01:36Z",
+   "evidence": "baseline gate: hash_ok"
+  },
+  {
+   "step": "draft",
+   "status": "ok",
+   "actor": "A-main-20261108",
+   "at": "2026-11-07T17:06:46Z",
+   "evidence": "组装定稿 459 行；13 处组装占位符（\\x01）回源修复（script/fix_aipm_placeholders.py 前置门+残余归零）；H1 与 SUMMARY 全题一致"
+  },
+  {
+   "step": "s1",
+   "status": "ok",
+   "actor": "A-main-20261108",
+   "at": "2026-11-07T17:06:46Z",
+   "evidence": "五维对账（script/recon_aipm.py）：marker 255:255、defs 136:136、粗体缩写键 0:0 全等；段落 235:233 差-2=源文空分类节标题（Primary/Secondary Sources）按家法丢弃；年份 24 卒于+1 defs 照录 d.1413 全对齐；Avicenna (d. 937) 系源文笔误照源直译留痕"
+  },
+  {
+   "step": "s2",
+   "status": "ok",
+   "actor": "A-main-20261108",
+   "at": "2026-11-07T17:06:47Z",
+   "evidence": "四检全绿：style --strict 0、academic --strict OK、math 84 式 0 缺；check_prose 38→12：实修 28 组（script/fix_aipm_prose.py 前置门），豁免 12 处/5 类（概念对举、括注变体、术语密度、书名结构、概念定义句）"
+  },
+  {
+   "step": "s3",
+   "status": "ok",
+   "actor": "A-main-20261108",
+   "at": "2026-11-07T17:06:51Z",
+   "evidence": "学术挂钩通过；术语 33 行+人名 18 行登记同批提交（wahm/awwalīyāt/fiṭrīyāt/三论证/nafs al-ʾamr 等；Thābit/al-Qūhī/朱尔加尼等）；同键异译归一：苏哈拉瓦迪→苏赫拉瓦尔迪×4、卡提比·加兹维尼→卡提比·卡兹维尼×2、阿布哈里→阿卜哈里×1"
+  },
+  {
+   "step": "r1",
+   "status": "ok",
+   "actor": "A-main-20261108",
+   "at": "2026-11-07T17:40:12Z",
+   "evidence": "全文回读完成：7 处引文块逐块核对、2.3/2.4 与 defs 照录区抽读（suhrawardī-1999 eds/、gutas-2001 Wisnovsky 2001: 等源文瑕疵照录不动）；发现 3 漏网人名（易卜拉欣·伊本·西南/西吉齐/萨马瓦尔）与术语 taḥlīl 转入 r2 补登"
+  },
+  {
+   "step": "r2",
+   "status": "ok",
+   "actor": "A-main-20261108",
+   "at": "2026-11-07T17:40:12Z",
+   "evidence": "补登 3 人名+1 术语（taḥlīl 分析）；勘误 tarkīb 译法为综合（synthesis）与伊吉全名（阿杜德丁·伊吉）；删除与既有 677 行重复的 mutakallimūn 行（同键先登优先：凯拉姆学者）"
+  },
+  {
+   "step": "r3",
+   "status": "ok",
+   "actor": "A-main-20261108",
+   "at": "2026-11-07T17:44:40Z",
+   "evidence": "check_all 七项全绿（SUMMARY/分类目录/单体文件/垃圾/术语一致性/学术规范/单元测试，两轮复跑）"
+  },
+  {
+   "step": "done",
+   "status": "ok",
+   "actor": "A-main-20261108",
+   "at": "2026-11-07T17:44:40Z",
+   "evidence": "A 批 51/160；零信任重译 7494 词源文，12 节 17 段落块，五维对账全等，四检+七项门禁全绿"
+  },
+  {
+   "step": "reconcile-fix",
+   "status": "ok",
+   "actor": "A3-main-20261109",
+   "at": "2026-11-09T02:56:00Z",
+   "evidence": "A 批对账实修（计算/同步/纠正，依据 specs/005-translation-campaign/results/a-progress-audit-2026-11-09.md）：本词条 done 正文 L56/L64/L72 引用的三图 ../assets/arabic-islamic-phil-math/Fig-{1,2,3}.svg 在发布侧缺件（tools/check_images.py 悬空 5 条中占 3）。已从不可变基线 en/arabic-islamic-phil-math/ 原样复制三件入 assets/arabic-islamic-phil-math/，SHA-256 逐件与源一致（D46B60DD…/160B1B53…/90D5905A…）。正文与 alt 未改：alt 系上游 alt=described in the previous paragraph 的照译，与 yuanwen/a/arabic-islamic-phil-math.md L57/L65/L73 对照一致，非缺陷。复跑 check_images：md 2097｜可解析 79｜悬空 2（余二件属 i 批 imprecise-probabilities，不在 A 范围）。状态保持 done，不重走状态机。"
   }
+ ],
+ "blockers": [],
+ "created_at": "2026-10-28T16:36:53Z",
+ "version_pin": {
+  "pubinfo_date": "Apr 9, 2022",
+  "archive_edition": "Summer 2022",
+  "sha256": "d60b8c3d7ccacf15b02e040c2197aa2d82c9b1fff068f575178fa45eb154c46a"
+ }
 }
