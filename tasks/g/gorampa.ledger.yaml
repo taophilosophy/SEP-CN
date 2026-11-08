@@ -1,0 +1,555 @@
+version: 1
+slug: gorampa
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Gorampa Sonam Senge (Go rams pa bSod nams Seng ge, 1429–89) is one of the most widely-studied philosophers in the Sakya (*sa skya*) school of Tibetan Buddhism. A fierce critic of Tsongkhapa, the founder of what later came to be known as the Gelug (*dge lugs*) school, his works were so controversial that they were suppressed by Gelug leaders shortly after they were composed. Gorampa’s texts remained hidden until the early 20th century, when the monk Jamgyal Rinpoche received permission from the thirteenth Dalai Lama to collect Gorampa’s extant texts and have them reprinted in Derge. Today, Gorampa’s philosophy is studied widely in monastic colleges, not only in those affiliated with his own Sakya tradition, but also in institutions affiliated with the Kagyu (*bka' brgyud*) and Nyingma (*rnying ma*) schools.
+    step1: |-
+      果让巴·索南僧格（Gorampa Sonam Senge，藏文 Go rams pa bSod nams Seng ge，1429–89）是藏传佛教萨迦派（*sa skya*）中被研究得最为广泛的哲学家之一。作为后来被称为格鲁派（*dge lugs*）之开创者宗喀巴的激烈批评者，其著作争议极剧，以致成书之后不久即被格鲁派领袖查禁。果让巴的文本一直湮没无闻，直到二十世纪初，僧人蒋嘉仁波切（Jamgyal Rinpoche）获得十三世达赖喇嘛的许可，搜集果让巴现存文本并在德格重刊。今天，果让巴的哲学在寺院学院中被广泛研习，不仅见于与他本宗萨迦传统相关的学院，也见于与噶举派（*bka' brgyud*）和宁玛派（*rnying ma*）相关的机构。
+    step2: |-
+      果让巴·索南僧格（Gorampa Sonam Senge，藏文 Go rams pa bSod nams Seng ge，1429–89）是藏传佛教萨迦派（*sa skya*）中研究最广的哲学家之一。他以激烈批评宗喀巴著称——宗喀巴即后来所谓格鲁派（*dge lugs*）的开创者——其著作因此争议极大，成书不久便被格鲁派领袖查禁。此后数百年，果让巴的文本湮没无闻；直到二十世纪初，僧人蒋嘉仁波切（Jamgyal Rinpoche）获十三世达赖喇嘛许可，才搜集其现存文本并在德格重刊。今天，果让巴的哲学在寺院学院中被广泛研习，不仅见于本宗萨迦传统的学院，也见于噶举派（*bka' brgyud*）与宁玛派（*rnying ma*）的机构。
+  - id: 2
+    kind: body
+    source: |-
+      Gorampa, like most Tibetan Buddhist philosophers, considers himself a follower of the Madhyamaka (Middle Way) school developed by the Indian philosopher Nāgārjuna in the second century, CE. His views with respect to particular issues within Madhyamaka, however, differ significantly from the views of scholars belonging to other sects of Tibetan Buddhism (e.g., Tsongkhapa and Dolpopa), and at times, his views even differ from those of other Sakya scholars (most notably Śākya Chokden). Gorampa’s particular brand of Madhyamaka philosophy is defined by his understanding of the relationship between the two truths, the use of negation, the role of logic, and proper methods of philosophical argumentation.
+    step1: |-
+      与多数藏传佛教哲学家一样，果让巴自认为印度哲学家龙树（Nāgārjuna）于公元二世纪所发展出的中观派（Madhyamaka，中道）的追随者。然而，他对中观内部若干具体问题的看法，与属于藏传佛教其他宗派的学者（例如宗喀巴与朵波巴）显著不同；有时他的看法甚至与萨迦派的其他学者（最著名者为释迦秋登）不同。果让巴独特的中观哲学，是由他对二谛之间关系的理解、对否定的运用、逻辑的作用以及哲学论证的正当方法所界定的。
+    step2: |-
+      与多数藏传佛教哲学家一样，果让巴自认是印度哲学家龙树（Nāgārjuna）于公元二世纪所创中观派（Madhyamaka，中道）的追随者。但他对中观内部若干具体问题的看法，与藏传佛教其他宗派的学者（如宗喀巴、朵波巴）颇有出入；有时甚至与萨迦派本宗的其他学者（最著名者如释迦秋登）也不一致。界定果让巴中观哲学之特色的，正是他对二谛关系的理解、对否定的运用、逻辑的地位，以及哲学论证的正当方法。
+  - id: 3
+    kind: body
+    source: |-
+      ## 1. Life and Works
+    step1: |-
+      ## 1. 生平与著作
+    step2: |-
+      ## 1 生平与著作
+  - id: 4
+    kind: body
+    source: |-
+      Gorampa was born in 1429 in eastern Tibet. At age nineteen, he traveled to central Tibet to pursue monastic studies. He briefly attended Nalendra monastery, one of the prominent Sakya monastic institutions in Tibet, where he studied Madhyamaka texts with the scholar Rongton Sheja Kunrig (Rong ston Shes bya Kun rigs, 1367–1449). Rongton passed away the following summer, and Gorampa began to travel throughout central Tibet, studying with a number of other teachers. In addition to becoming a skilled philosopher, Gorampa mastered a variety of Tantric practices, including the *Lamdre* (lam ‘bras), the defining practice of the Sakya School.
+    step1: |-
+      果让巴于 1429 年出生于藏东。十九岁时，他前往卫藏（藏中）求学。他曾短暂就读于那烂陀寺（Nalendra），那是西藏萨迦派著名的寺院机构之一，他在那里随学者绒敦·释迦坚赞（Rongton Sheja Kunrig，藏文 Rong ston Shes bya Kun rigs，1367–1449）研习中观文本。绒敦于次年夏天圆寂，果让巴遂开始游历卫藏各地，随其他多位师长学习。除成为娴熟的哲学家之外，果让巴还精通种种密续修法，其中包括萨迦派标志性的修法“道果”（*Lamdre*，藏文 lam ‘bras）。
+    step2: |-
+      果让巴 1429 年生于藏东，十九岁赴卫藏求学。他一度就读于那烂陀寺——西藏萨迦派的重要寺院之一——随学者绒敦·释迦坚赞（Rongton Sheja Kunrig，藏文 Rong ston Shes bya Kun rigs，1367–1449）学习中观典籍。次年夏，绒敦圆寂，果让巴自此游历卫藏，遍从诸师。他不仅成为出色的哲学家，也精通多种密续修法，包括萨迦派最具标志性的“道果”（*Lamdre*，藏文 lam ‘bras）。
+  - id: 5
+    kind: body
+    source: |-
+      After completing his studies, Gorampa became a teacher, and in 1473 he founded Thubten Namgyal Ling Monastery, developing a curriculum that emphasized both rigorous philosophical education and thorough training in meditative practices. Gorampa later spent four years as the sixth abbot of Ewam Choden, the primary institution of the Ngor subsect of the Sakya school. He died in 1489.
+    step1: |-
+      完成学业之后，果让巴成为教师，并于 1473 年创建了土丹南嘉林寺（Thubten Namgyal Ling），制定了一套兼重严格哲学教育与系统禅修训练的课程。果让巴后来担任俄旺秋丹寺（Ewam Choden）第六任住持四年，该寺是萨迦派俄尔支派的主要机构。他于 1489 年去世。
+    step2: |-
+      学业完成之后，果让巴开始授徒，并于 1473 年创建土丹南嘉林寺（Thubten Namgyal Ling），所定课程兼重严格的哲学训练与系统的禅修实践。此后他出任俄旺秋丹寺（Ewam Choden）第六任住持四年；该寺是萨迦派俄尔支派的主寺。1489 年，果让巴去世。
+  - id: 6
+    kind: body
+    source: |-
+      Gorampa lived during a period of political instability in Tibet. From 1244 until 1354, the Sakya sect had held political control over Tibet, and was backed by the support of the Mongol army. Eventually the Mongolian court’s interest in Tibet weakened, and the Pagmodruk sect of Tibetan Buddhism ousted the Sakyapas from power in a violent confrontation. The Pagmodrukpas continued to rule over Tibet for over a century, but by the latter half of Gorampa’s life, they had fallen from power, resulting in a number of groups fiercely competing for religious and political dominance.
+    step1: |-
+      果让巴生活在西藏政治动荡的时期。自 1244 年至 1354 年，萨迦派一直掌握西藏的政治控制权，并得到蒙古军队的支持。最终蒙古朝廷对西藏的兴趣减弱，藏传佛教帕竹噶举派在一场暴力冲突中把萨迦巴赶下台。帕竹巴继续统治西藏一个多世纪，但到果让巴生命的后半段，他们也已失势，结果是若干集团为争夺宗教与政治支配权而激烈角逐。
+    step2: |-
+      果让巴生活的时代，西藏政局动荡。1244 年至 1354 年间，萨迦派掌握西藏政权，背后有蒙古军队支持。后来蒙古朝廷对西藏的兴趣转淡，帕竹噶举派在一场流血冲突中把萨迦巴赶下了台。帕竹巴统治西藏一个多世纪，但到果让巴后半生，他们也已失势，于是若干集团为争夺宗教与政治的主导权而激烈相争。
+  - id: 7
+    kind: body
+    source: |-
+      Gorampa composed his philosophical texts, therefore, at a time in which the Sakya sect was struggling to re-assert its dominance. Although verifiable information about the political motivations of the Sakyapas remains elusive, the unstable political situation in Tibet could have at least partially accounted for the overtly polemical nature of some of Gorampa’s philosophical writings. When the Gelugpas eventually ascended to political power in the sixteenth century, the fifth Dalai Lama ordered that Gorampa’s texts, which were so critical of Tsongkhapa, be destroyed or otherwise removed from monastic institutions. However, many of Gorampa’s texts continued to be studied in eastern Tibet, beyond the Central Tibetan government’s scope of influence.
+    step1: |-
+      因此，果让巴撰写其哲学文本之时，正是萨迦派力图重振其支配地位之际。尽管关于萨迦巴政治动机的可证信息仍然渺茫，但西藏动荡的政治局势至少可以部分解释果让巴某些哲学著作那种不加掩饰的论辩性格。当格鲁巴最终于十六世纪登上政治权力之位时，第五世达赖喇嘛下令销毁果让巴那些如此激烈批评宗喀巴的文本，或以其他方式将其从寺院机构中清除。然而，果让巴的许多文本仍在藏东继续被研习，那是卫藏政府影响力所不及的地方。
+    step2: |-
+      果让巴撰写哲学著作之时，萨迦派正力图重振其主导地位。萨迦巴的政治动机究竟如何，可考的材料至今渺茫；但西藏动荡的政局，至少可以部分解释果让巴若干哲学论著何以如此锋芒毕露。十六世纪格鲁巴终于执掌政教大权，五世达赖喇嘛遂下令销毁果让巴那些激烈批评宗喀巴的文本，或将其从各寺院机构中清除。不过，果让巴的许多文本仍在藏东流传研习——那里是卫藏政府势力所不及之地。
+  - id: 8
+    kind: body
+    source: |-
+      When work began on the republication of Gorampa’s writings in 1905, thirteen volumes of texts were recovered from monasteries throughout Tibet. In addition to his works on Madhyamaka philosophy, Gorampa composed a number of treatises on Abhidharma, several commentaries on the Indian text the *Abhisamayālaṅkāra*, and various practice texts based on Tantra. Gorampa’s complete Madhyamaka texts comprise only two of these thirteen volumes. These are:
+    step1: |-
+      1905 年果让巴著作的重刊工作开始时，从西藏各地寺院中搜集到十三卷文本。除中观哲学著作之外，果让巴还撰有若干部阿毗达磨（Abhidharma）论著、数种对印度文本《现观庄严论》（*Abhisamayālaṅkāra*）的注释，以及多种依据密续的修法文本。果让巴的中观文本全集在其中仅占两卷。它们是：
+    step2: |-
+      1905 年重刊果让巴著作时，从西藏各地寺院共搜集到十三卷文本。除中观哲学之外，他还撰有数部阿毗达磨（Abhidharma）论著、若干《现观庄严论》（*Abhisamayālaṅkāra*）的注释，以及多种依密续而作的修法文本。而他的中观论著全集，在这十三卷中只占两卷，即：
+  - id: 9
+    kind: body
+    source: |-
+      1. *Distinguishing the View* (*lta ba’i shan ‘byed*), a polemical text distinguishing Gorampa’s own view from those of Tsongkhapa (Tsong kha pa bLo bzang Grags pa, 1357–1419) and Dolpopa (Dol po pa Shes rab rGyal mtshan, 1292–1361);
+      2. *Elucidating the View* *(lta ba ngan sel*), a commentary on the Indian scholar Candrakīrti’s *Madhyamakāvatāra;*
+      3. *Synopsis of Madhyamaka* (*dbu ma’i spyi don*), an encyclopedic text outlining Gorampa’s views on the major points of Madhyamaka, as well as the views of a number of Indian and Tibetan scholars with whom he both agrees and disagrees.
+    step1: |-
+      1. 《辨见》（*Distinguishing the View*，藏文 *lta ba’i shan ‘byed*），一部论辩性文本，分辨果让巴自己的见解与宗喀巴（Tsong kha pa bLo bzang Grags pa，1357–1419）及朵波巴（Dol po pa Shes rab rGyal mtshan，1292–1361）的见解；
+      2. 《除邪见》（*Elucidating the View*，藏文 *lta ba ngan sel*），对印度学者月称（Candrakīrti）《入中论》（*Madhyamakāvatāra*）的注释；
+      3. 《中观总义》（*Synopsis of Madhyamaka*，藏文 *dbu ma’i spyi don*），一部百科全书式的文本，概述果让巴对中观诸要点的看法，以及他所赞同与不赞同的若干印度与西藏学者的看法。
+    step2: |-
+      1. 《辨见》（*Distinguishing the View*，藏文 *lta ba’i shan ‘byed*）：论辩之作，分辨果让巴自宗之见与宗喀巴（Tsong kha pa bLo bzang Grags pa，1357–1419）、朵波巴（Dol po pa Shes rab rGyal mtshan，1292–1361）之见的差别；
+      2. 《除邪见》（*Elucidating the View*，藏文 *lta ba ngan sel*）：对印度学者月称（Candrakīrti）《入中论》（*Madhyamakāvatāra*）的注释；
+      3. 《中观总义》（*Synopsis of Madhyamaka*，藏文 *dbu ma’i spyi don*）：百科全书式的著作，通述果让巴对中观诸要点的主张，并评述若干印度与西藏学者的异同。
+  - id: 10
+    kind: body
+    source: |-
+      The main difference in these texts concerns the ways in which Gorampa presents his philosophical view. *Distinguishing the View* is a polemical text in which Gorampa focuses on the metaphysics of Madhyamaka, positioning his own interpretation as a sort of middle way between other interpretations that cast Madhyamaka in terms of nihilism or eternalism. *Elucidating the View* focuses on the process through which a follower of Madhyamaka transforms her mind as she progresses toward complete awakening. *Synopsis of Madhyamaka* presents Gorampa’s interpretation of Madhyamaka in three ways: ontologically, in terms of its grounding (*bzhi*) in the two truths; ethically, in terms of the path (*lam*) that a Buddhist must follow; and epistemologically, in terms of the mental content that a Buddha experiences as a result (*‘bras bu*) of complete awakening.
+    step1: |-
+      这三部文本的主要差别，在于果让巴呈现其哲学见解的方式。《辨见》是一部论辩性文本，果让巴在其中聚焦于中观的形而上学，把自己的解释定位为一种中道，介于把中观解释为虚无主义或永恒主义的其他解释之间。《除邪见》聚焦于中观追随者在走向圆满觉悟的过程中转变自心的过程。《中观总义》以三种方式呈现果让巴对中观的理解：本体论上，就其以二谛为基（*bzhi*）而言；伦理上，就佛教徒必须遵循的道（*lam*）而言；认识论上，就佛陀因圆满觉悟而经验到的心理内容（*‘bras bu*，果）而言。
+    step2: |-
+      三部文本的差别，主要在于果让巴呈现见解的方式。《辨见》是论辩之作，集中于中观的形而上学，把自己的解释安立于一种中道，既不同于以虚无主义解中观者，也不同于以永恒主义解中观者。《除邪见》则集中于中观行者趋向圆满觉悟时转变自心的历程。《中观总义》以三个层面呈现果让巴的中观理解：本体论层面，就其以二谛为基（*bzhi*）而言；伦理层面，就佛教徒所须遵循的道（*lam*）而言；认识论层面，就佛陀由圆满觉悟而经验到的心理内容（*‘bras bu*，果）而言。
+  - id: 11
+    kind: body
+    source: |-
+      Despite the different emphases of these three texts, Gorampa’s general presentation of Madhyamaka remains consistent throughout his writings. This is especially striking when compared to Gorampa’s rough contemporaries, including Tsongkhapa and Śākya Chokden, whose views evolved over the course of their careers. The relative stability of Gorampa’s views over his lifetime is one reason why he is held in such high regard among proponents of the Sakya tradition.
+    step1: |-
+      尽管这三部文本的侧重不同，果让巴对中观的一般呈现，在其全部著作中仍保持一致。把他的看法与果让巴大致同时代的人相比，这一点尤其引人注目，那些人包括宗喀巴与释迦秋登，其见解在各自学术生涯中不断演变。果让巴的见解终生相对稳定，这正是他在萨迦传统拥护者中备受推崇的原因之一。
+    step2: |-
+      三部文本侧重虽异，果让巴对中观的总体呈现却在其全部著作中始终一贯。与同时代人大体相比，这一点尤其醒目：宗喀巴、释迦秋登等人，见解都随年岁而变。果让巴一生之见相对稳定，这正是他在萨迦传统拥护者中备受尊崇的一个缘由。
+  - id: 12
+    kind: body
+    source: |-
+      ## 2. Gorampa’s Madhyamaka
+    step1: |-
+      ## 2. 果让巴的中观
+    step2: |-
+      ## 2 果让巴的中观
+  - id: 13
+    kind: body
+    source: |-
+      Gorampa, like all of his Mādhyamika interlocutors, appeals to the authority of Nāgārjuna. As such, most disagreements between Gorampa and his opponents primarily concern the correct ways to interpret the works of Nāgārjuna and his commentators. While Gorampa and his opponents generally agree that a Buddhist must understand the nature of reality by eliminating ignorance and realizing emptiness, what sets Gorampa apart from other Mādhyamikas is the way in which he articulates reality, and the processes by which he argues that one must eliminate ignorance and realize emptiness.
+    step1: |-
+      与所有与他对话的中观师一样，果让巴诉诸龙树的权威。因此，果让巴与其论敌之间的大多数分歧，主要在于解释龙树及其注释者著作的正确方式。尽管果让巴与其论敌大体都同意，佛教徒必须通过消除无明、证悟空性来理解实在的本性，但使果让巴区别于其他中观师者，是他表述实在的方式，以及他主张必须借以消除无明、证悟空性的那些过程。
+    step2: |-
+      与所有中观论者一样，果让巴也诉诸龙树的权威。因此，他与论敌之间的分歧，大多集中在如何正确解释龙树及其注释者的著作上。双方大体都同意：佛教徒必须消除无明、证悟空性，方能理解实在的本性；但果让巴之所以不同于其他中观师，在于他表述实在的方式，以及他所主张的消除无明、证悟空性的那些进程。
+  - id: 14
+    kind: body
+    source: |-
+      With this in mind, there are four defining characteristics of Gorampa’s philosophy that set him apart from other Tibetan philosophers. They are his understandings of: (1) the two truths; (2) negation and the tetralemma; (3) the role of logic and reasoning; and (4) proper methods of argumentation on the path to awakening.
+    step1: |-
+      有鉴于此，果让巴的哲学有四条界定性特征，使他区别于其他西藏哲学家。它们是果让巴对以下各项的理解：（1）二谛；（2）否定与四句（tetralemma）；（3）逻辑与推理的作用；（4）在趋向觉悟之道上正当的论证方法。
+    step2: |-
+      由此看来，果让巴哲学有四项界定性特征，使他区别于其他西藏哲学家，即他对下列问题的理解：（1）二谛；（2）否定与四句；（3）逻辑与推理的作用；（4）趋向觉悟之道上的正当论证方法。
+  - id: 15
+    kind: body
+    source: |-
+      ### 2.1 The Two Truths
+    step1: |-
+      ### 2.1 二谛
+    step2: |-
+      ### 2.1 二谛
+  - id: 16
+    kind: body
+    source: |-
+      The theory of the two truths, or two realities, is fundamental to Madhyamaka philosophy. Reality can be classified in terms of the conventional truth (or conventional reality), which corresponds to the way that things appear to ordinary persons, and the ultimate truth (or ultimate reality), which corresponds to the way that things really are. While Mādhyamikas tend to disagree about the nature of and relationship between the conventional and ultimate truths, the final goal of Madhyamaka philosophy involves realizing the ultimate truth – seeing things not just as they appear, but as they really are.
+    step1: |-
+      二谛（或二种实在）的理论，是中观哲学的基础。实在可以按世俗谛（或世俗实在）与胜义谛（或胜义实在）来分类：前者对应于事物对凡夫显现的方式，后者对应于事物实际所是的方式。尽管中观师们往往在世俗谛与胜义谛的本性及其相互关系上意见不一，但中观哲学的最终目标在于证悟胜义谛——不仅按事物显现的样子、而且按事物实际所是的样子来看待事物。
+    step2: |-
+      二谛（或称二种实在）之说是中观哲学的基础。实在可分为世俗谛（世俗实在）与胜义谛（胜义实在）：前者相应于事物对凡夫显现的方式，后者相应于事物实际所是的方式。中观师们在二谛的本性及其关系上往往各持一说，但中观哲学的最终目标，在于证悟胜义谛——不仅照事物显现的样子、更要照事物实际所是的样子去看事物。
+  - id: 17
+    kind: body
+    source: |-
+      Gorampa argues that the distinction between the two truths is made based on the ways in which a subject (*yul can*) apprehends an object (*yul*). That is, the way in which one engages with the world determines whether one perceives things conventionally or ultimately. Broadly speaking, the conventional truth is mediated by concepts, logic, and reasoning, while the ultimate truth is outside of the realm of conceptual thought. As long as one is engaged in concepts, one is interacting with conventional reality. Once all concepts have been eliminated by following the Buddhist path (as will be explained below), one is said to have realized the ultimate reality.
+    step1: |-
+      果让巴主张，二谛的区分是依据主体（*yul can*）把握对境（*yul*）的方式而作的。也就是说，一个人与世界打交道的方式，决定了他感知事物是世俗的还是胜义的。宽泛地说，世俗谛以概念、逻辑与推理为中介，而胜义谛则在概念思维的领域之外。只要一个人还在运用概念，他就在与世俗实在打交道。一旦依照佛教之道（如下文所释）消除了一切概念，就可以说他已证悟了胜义实在。
+    step2: |-
+      果让巴主张，二谛之分取决于主体（*yul can*）把握对境（*yul*）的方式：一个人与世界打交道的方式，决定他所感知的是世俗的还是胜义的。大体而言，世俗谛以概念、逻辑与推理为中介，胜义谛则在概念思维的范围之外。人只要还在动用概念，便仍在与世俗实在打交道；一旦依佛教之道（详见下文）消除了一切概念，便可说他已证得胜义实在。
+  - id: 18
+    kind: body
+    source: |-
+      Gorampa defines “conventional truth” as that which appears to ordinary beings with ordinarily functioning sense faculties. Objects, words, smells, and ideas are all sorts of things that can be conventionally true, or conventionally real. They are true or real in the sense that they appear to be true or real to ordinary persons, without any sort of philosophical analysis. Most people in Paris, for example, can point to the Eiffel Tower and agree, “That is the Eiffel Tower.” The existence of the Eiffel Tower is thus conventionally true. It appears to ordinary people with fully functioning sense faculties, and these ordinary people identify it by means of the linguistic convention, “Eiffel Tower.”
+    step1: |-
+      果让巴把“世俗谛”定义为：对感官机能正常运作的凡夫所显现者。物体、语词、气味与观念，都是可以世俗地真、或世俗地实有的东西。它们之真或实有，意义在于：它们对凡夫显得真或显得实有，而无需任何哲学分析。例如，巴黎的大多数人都能指着埃菲尔铁塔并且一致同意：“那就是埃菲尔铁塔。”因此，埃菲尔铁塔的存在是世俗地真的。它对感官机能完全正常的普通人显现，而这些普通人通过“埃菲尔铁塔”这一语言约定来识别它。
+    step2: |-
+      果让巴把“世俗谛”定义为：对感官功能正常运作的凡夫所显现者。物体、语词、气味、观念，皆可世俗地真、世俗地实有。其“真”或“实有”，是说它们对凡夫显得真、显得实有，无须任何哲学分析。譬如巴黎的多数人都能指着埃菲尔铁塔说“那就是埃菲尔铁塔”，众口一致；埃菲尔铁塔的存在因此是世俗地真的——它对感官功能完好的普通人显现，而这些人凭“埃菲尔铁塔”这一语言约定来指认它。
+  - id: 19
+    kind: body
+    source: |-
+      It is not, however, necessarily the case that anything that can be identified or described in words is conventionally true. If a tourist in Paris drinks too much wine and starts seeing double, for example, this does not mean that the existence of two Eiffel Towers is suddenly conventionally true. The drunk person’s perception is skewed; he is no longer operating with ordinary faculties. After he sobers up, he will once again see that really, there is only one Eiffel Tower. To illustrate this point in his texts, Gorampa refers to Candrakīrti’s well-known Madhyamaka analogy of a person with an eye disorder (*rab rib can*) mistakenly thinking that the floaters in his field of vision are actually hairs on his dinner plate. But the truth of the matter – the conventional truth, that is – is that the hairs are not really there, as a person with normally functioning eyes can affirm.
+    step1: |-
+      然而，凡能以语词识别或描述的东西，并不必然就是世俗地真的。例如，巴黎的一位游客饮酒过量而开始看到重影，这并不意味着两座埃菲尔铁塔的存在突然变成世俗地真的。醉者的感知是歪曲的；他已不再以正常的感官机能运作。等他清醒过来，他会再次看到，实际上只有一座埃菲尔铁塔。为了在文本中说明这一点，果让巴援引月称那个著名的中观比喻：一位患有眼病者（*rab rib can*）误以为自己视野中的飞蚊真的是他餐盘上的毛发。但事情的真相——也就是说，世俗谛——是那些毛发并不真的在那里，正如双眼功能正常的人所能确认的那样。
+    step2: |-
+      但能以语词识别或描述者，未必就是世俗地真。譬如一位游客在巴黎饮酒过量、看东西成了双影，这并不使两座埃菲尔铁塔的存在忽然世俗地真起来。醉者的感知是歪曲的，他已不在正常感官机能下运作；酒醒之后，他仍会看到实际只有一座埃菲尔铁塔。果让巴在文中借月称那个著名的中观譬喻说明此点：患眼病者（*rab rib can*）误以为视野里的飞蚊真是自己餐盘上的毛发。而事情的真相——即世俗谛——是那些毛发并不真的在那里，双眼功能正常的人都能确认这一点。
+  - id: 20
+    kind: body
+    source: |-
+      The conventional truth, therefore, is true in the sense that it is something upon which all ordinary persons with normally functioning faculties can agree. The conventional truth is what allows for people to travel to Paris to visit the Eiffel Tower, to talk about the weather, and to engage in debates about politics. It is also, most importantly for Gorampa, what allows people to understand conceptually what a realization of the ultimate truth is like, and what enables Buddhist practitioners to correctly develop logical reasoning and engage in proper types of meditative practices. In other words, some features of the conventional – such as reasoning and language – can be used to approach an understanding of the ultimate, even though the ultimate itself transcends those features.
+    step1: |-
+      因此，世俗谛之真，意义在于：它是感官机能正常的一切凡夫都能一致同意的东西。世俗谛使人们得以前往巴黎参观埃菲尔铁塔、谈论天气、参与政治辩论。对果让巴而言最重要的是，世俗谛还使人得以在概念上理解“证悟胜义谛是什么样子”，并使佛教修行者得以正确开展逻辑推理、从事正当类型的禅修。换言之，世俗的某些方面——例如推理与语言——可以用来趋近对胜义的理解，尽管胜义本身超越了这些方面。
+    step2: |-
+      所以，世俗谛之真，在于它是一切感官机能正常的凡夫都能一致认可者。正因有世俗谛，人们才能去巴黎看埃菲尔铁塔、谈论天气、争论政治。对果让巴而言尤为要紧的是，世俗谛还使人能在概念上把握“证悟胜义谛是何情形”，并使修行者得以正确开展逻辑推理、修习正当的禅观。换言之，世俗的某些方面——推理与语言——可以借来趋近对胜义的理解，尽管胜义本身超出这些方面。
+  - id: 21
+    kind: body
+    source: |-
+      In contrast to the conventional, the ultimate truth is understood as the way things really are, independent of the concepts and conventions with which ordinary persons engage. Gorampa contends that the conventional truth is mired in ignorance – the cause of *saṃsāra*, which keeps sentient beings cycling from one birth to the next, lifetime after lifetime. When this ignorance is removed, one is capable of realizing the ultimate truth, and through that realization, one can attain freedom from the cycle of rebirth.
+    step1: |-
+      与世俗相反，胜义谛被理解为事物实际所是的方式，独立于凡夫所运用的概念与约定。果让巴主张，世俗谛缠缚于无明之中——无明是轮回（*saṃsāra*）之因，使有情一生又一生地流转生死。当无明被去除，人便能证悟胜义谛，并借这一证悟而得以解脱生死轮回。
+    step2: |-
+      与世俗相对，胜义谛被理解为事物实际所是的样子，不依赖凡夫所用的概念与约定。果让巴主张，世俗谛缠缚于无明——无明即轮回（*saṃsāra*）之因，令有情一世又一世流转生死。无明既除，人便能证得胜义谛，并由此证得解脱，超出生死流转。
+  - id: 22
+    kind: body
+    source: |-
+      Based on this account, then, when philosophers attempt to describe or even label “the ultimate truth,” they fail to capture it in its entirety; when identifying and describing the ultimate truth, concepts and language must be used, and Gorampa’s definition of the ultimate truth is that it is beyond all concepts and language. Still, Gorampa argues that it is important to begin the process of realizing the actual ultimate truth by developing a conceptual understanding of the general features of the ultimate. In other words, forming a concept of the ultimate is not the final goal of awakening itself, but it gives one a sense of what awakening is *like*.
+    step1: |-
+      那么，基于这一说明，当哲学家试图描述甚至标称“胜义谛”时，他们无法完整地把握它；在识别与描述胜义谛时，概念与语言必须被使用，而果让巴对胜义谛的定义是：它超越一切概念与语言。尽管如此，果让巴主张，通过发展对胜义之一般特征的概念性理解来开始证悟真正胜义谛的过程，仍然十分重要。换言之，形成关于胜义的概念并非觉悟本身的最终目标，但它让人对觉悟“像是什么样子”有所领会。
+    step2: |-
+      据此，哲学家一旦试图描述甚至命名“胜义谛”，便不能完整地把握它：识别与描述胜义谛都不得不动用概念与语言，而果让巴对胜义谛的定义恰恰是“超出一切概念与语言”。尽管如此，他仍主张：证悟真正胜义谛的过程，须从对胜义的一般特征形成概念性理解开始。也就是说，形成胜义的概念并不是觉悟本身的目标，但它能让人领会觉悟“像是什么样子”。
+  - id: 23
+    kind: body
+    source: |-
+      In order to explain the difference between a conceptual understanding and a nonconceptual realization of the ultimate truth, Gorampa divides it into two types: the ultimate that is taught (*bstan pa'i don dam*) and the ultimate that is realized (*rtogs pa'i don dam*). The ultimate that is taught corresponds to an ordinary person’s concept of the ultimate, while the ultimate that is realized is directly and nonconceptually ascertained by awakened beings.
+    step1: |-
+      为了解释对胜义谛的概念性理解与非概念性证悟之间的差别，果让巴把胜义分为两类：所教胜义（*bstan pa’i don dam*）与所证胜义（*rtogs pa’i don dam*）。所教胜义对应于凡夫关于胜义的概念，而所证胜义则由已觉悟者直接地、非概念地确定。
+    step2: |-
+      果让巴把胜义谛分为两类，以说明“概念性理解”与“非概念性证悟”的差别：一是所教胜义（*bstan pa’i don dam*），二是所证胜义（*rtogs pa’i don dam*）。前者相应于凡夫对胜义所形成的概念，后者则是觉悟者直接而非概念地确定的。
+  - id: 24
+    kind: body
+    source: |-
+      When the ultimate is divided in this way, Gorampa makes the case that ordinary persons and awakened beings are capable of recognizing each of the two truths, but in different ways. An ordinary person can conceptually understand the ultimate that is taught, while still perceiving the conventional realm as true or real. From this perspective, the conventional is called “the conventional *truth*” (*kun rdzob bden pa*). But once an awakened being nonconceptually apprehends the ultimate that is realized, the conventional no longer appears as real or as solid as it once was. The awakened being, having had a direct experience of the way things really are, no longer experiences the conventional as *true*, but rather as *merely*conventional (*kun rdzob tsam*).
+    step1: |-
+      当胜义如此划分时，果让巴主张，凡夫与觉悟者都能认识二谛中的每一谛，但方式不同。凡夫可以在概念上理解所教胜义，同时仍把世俗领域感知为真或实有。从这个角度看，世俗被称为“世俗*谛*”（*kun rdzob bden pa*）。但一旦觉悟者非概念地把握了所证胜义，世俗便不再像从前那样显现为真实或坚固。觉悟者由于直接体验了事物实际所是的方式，不再把世俗经验为*真*，而只是经验为*唯*世俗（*kun rdzob tsam*）。
+    step2: |-
+      胜义如此二分之后，果让巴主张：凡夫与觉悟者都能认识二谛，只是方式不同。凡夫可以在概念上理解所教胜义，同时仍把世俗领域感知为真、感知为实有。就此而言，世俗被称为“世俗*谛*”（*kun rdzob bden pa*）。然而觉悟者一旦非概念地把握所证胜义，世俗便不再如先前那样显现为真实、坚固。他既已直接体验事物实际所是的样子，便不再把世俗经验为*真*，而只经验为*唯*世俗（*kun rdzob tsam*）。
+  - id: 25
+    kind: body
+    source: |-
+      In other words, we can say that the conventional *truth* is that which is true for ordinary, unawakened beings. The *merely*conventional, however, is perceived after an awakened being realizes the ultimate truth. There merely conventional is not false; it is simply a mode of perception that is subordinated to the ultimate truth that an awakened being has directly experienced.
+    step1: |-
+      换言之，我们可以说，世俗*谛*是对平凡而未觉悟者而言为真的东西。而*唯*世俗，则是在觉悟者证悟胜义谛之后所感知的。那里的唯世俗并非虚假；它只是一种感知方式，从属于觉悟者所直接体验的胜义谛。
+    step2: |-
+      换言之，世俗*谛*是对平凡未觉悟者而言为真者；而*唯*世俗，则是在觉悟者证悟胜义谛之后才被感知的。唯世俗并不虚假，它只是一种感知方式，从属于觉悟者所直接体验的胜义谛。
+  - id: 26
+    kind: body
+    source: |-
+      Unlike some other Tibetan philosophers, Gorampa stresses that the difference between conventional truth and mere convention is based entirely on the subject who apprehends these objects. The same table appears as truly existent to an ordinary being, and as a merely conventional imputation to an awakened being. The conventional and ultimate truths, similarly, are distinguished on the basis of the ways in which they are apprehended. (This approach differs from someone like Tsongkhapa, who distinguishes the two truths on the basis of the object, arguing that every appearing thing consists of conventional and ultimate aspects.)
+    step1: |-
+      与某些其他西藏哲学家不同，果让巴强调，世俗谛与唯世俗之间的差别，完全基于把握这些对象的主体。同一张桌子，对凡夫显现为真实存在，对觉悟者则显现为唯世俗的假立。世俗谛与胜义谛同样也是依据它们被把握的方式来区分的。（这一进路不同于宗喀巴之类的人，他依据对象来区分二谛，主张每一显现之物都由世俗与胜义两方面构成。）
+    step2: |-
+      与某些西藏哲学家不同，果让巴强调：世俗谛与唯世俗之别，完全系于把握对象的主体。同一张桌子，在凡夫看来是真实存在，在觉悟者看来只是唯世俗的假立。世俗谛与胜义谛的区分，同样依据它们被把握的方式。（此说不同于宗喀巴一类人：他依对象区分二谛，主张每一显现之物皆兼具世俗与胜义两面。）
+  - id: 27
+    kind: body
+    source: |-
+      In short, ordinary beings perceive the conventional *truth*, and understand the ultimate that is *taught*. Awakened beings experience the *merely*conventional, and directly realize the ultimate that is *realized*. Based on this model of the two truths, Gorampa argues that the Buddhist path involves a process of transforming one’s perspective. One begins by correctly identifying and understanding the conventional truth. Then, through logical reasoning and meditative practices, one gradually begins to realize that this so-called truth is merely conventional and that it is based entirely on concepts that are rooted in ignorance; in this way one comes to a conceptual understanding of the ultimate that is taught. Through more analysis and practice still, one eventually recognizes that the conventional truth is only merely conventional, and directly realizes the ultimate truth, which does not depend on ignorance and concepts.
+    step1: |-
+      简言之，凡夫感知世俗*谛*，并理解所*教*胜义。觉悟者经验*唯*世俗，并直接证悟所*证*胜义。基于这一二谛模型，果让巴主张，佛教之道包含一个转变自身视角的过程。人首先正确地识别并理解世俗谛。然后，通过逻辑推理与禅修实践，人逐渐开始证悟：这一所谓的谛只是唯世俗的，且完全基于植根于无明的概念；由此，人对所教胜义获得概念性的理解。再经更多的分析与修习，人最终认识到世俗谛只是唯世俗的，并直接证悟不依赖无明与概念的胜义谛。
+    step2: |-
+      简言之：凡夫感知世俗*谛*，理解所*教*胜义；觉悟者经验*唯*世俗，直接证悟所*证*胜义。果让巴即依此二谛模型主张，佛教之道乃是一个转变视角的过程。人先正确识别并理解世俗谛；继而凭借逻辑推理与禅修，渐渐证知这一所谓“谛”只是唯世俗的，且完全基于植根于无明的概念——于是对所教胜义获得概念性的理解；再经分析与修习，终于认识到世俗谛不过是唯世俗，从而直接证悟那不依无明与概念的胜义谛。
+  - id: 28
+    kind: body
+    source: |-
+      By working through this process to transform one’s mind, Gorampa argues that a Buddhist practitioner on the Madhymaka path will finally arrive at a state of freedom from conceptual proliferations (*spros pa dang bral ba*). This is a mental state in which conceptual thought does not occur, and one directly and immediately apprehends the ultimate that is realized. Gorampa is explicit in pointing out that this state of freedom from conceptual proliferations is different from a state of unconsciousness. In order to cultivate a state of freedom from conceptual proliferations, one must eliminate concepts gradually, through particular methods that involve both logical reasoning and meditative practices. As we will see below, Gorampa outlines a very specific fourfold process for eliminating concepts in order to arrive at this desired state of nonconceptuality.
+    step1: |-
+      果让巴主张，佛教修行者通过这一转变自心的过程，在中观道上最终会达到一种离概念戏论（*spros pa dang bral ba*）的状态。这是一种概念思维不再生起的心理状态，人于其中直接而当下地把握所证胜义。果让巴明确指出，这种离戏论的状态不同于无意识的状态。为了培养离戏论的状态，人必须通过兼含逻辑推理与禅修实践的特殊方法，逐步消除概念。如下文所见，果让巴为消除概念、达到这一所求的非概念状态，勾勒出一个非常具体的四重过程。
+    step2: |-
+      果让巴主张，修行者经此转变自心的过程，终将在中观道上达到离概念戏论（*spros pa dang bral ba*）的状态。在此状态中，概念思维不再生起，人直接而当下地把握所证胜义。他明确指出：离戏论不同于失去意识。要培养这一状态，须以兼具逻辑推理与禅修的特殊方法，渐次消除概念；下文将见，果让巴为消除概念、臻于此非概念之境，勾画了一个相当具体的四重进程。
+  - id: 29
+    kind: body
+    source: |-
+      ### 2.2 Negation
+    step1: |-
+      ### 2.2 否定
+    step2: |-
+      ### 2.2 否定
+  - id: 30
+    kind: body
+    source: |-
+      In order to cultivate an awakened mind that realizes the ultimate truth, the Madhyamaka school of philosophy advocates a fourfold process of analyzing the conventional truth that is commonly referred to as a tetralemma (*catuṣkoṭi*, *mtha’ bzhi*). While this fourfold analysis is not unique to Buddhism, its use as a tool in Buddhist philosophical traditions can be traced to Nāgārjuna’s *Mūlamadhyamakakārika*, in which he famously remarks, “Neither from itself, nor from another, nor from both, nor without a cause, does anything, anywhere, ever, arise” (MMK I:1). This fourfold rejection of one extreme, its opposite, both, and neither, is adopted and expanded upon by later Mādhyamikas, and is frequently used as a tool in order to demonstrate the Madhyamaka view.
+    step1: |-
+      为了培养证悟胜义谛的觉悟之心，中观哲学主张对世俗谛作一种四重分析，通常称为四句（*catuṣkoṭi*，*mtha’ bzhi*）。这种四重分析虽非佛教所独有，但其作为佛教哲学传统中工具的运用，可追溯至龙树的《中论》（*Mūlamadhyamakakārika*），他在其中有一句名言：“诸法不自生，亦不从他生，不共不无因，是故知无生”（MMK I:1）。这一对“有、无、亦有亦无、非有非无”四边的否定，为后来的中观师所采纳并加以扩展，并常被用作展示中观之见的工具。
+    step2: |-
+      为培养证悟胜义谛的觉悟之心，中观哲学主张对世俗谛作四重分析，通常称为四句（*catuṣkoṭi*，*mtha’ bzhi*）。四重分析并非佛教独有，但把它当作哲学工具使用，可以追溯到龙树的《中论》（*Mūlamadhyamakakārika*）——其中有句名言：“诸法不自生，亦不从他生，不共不无因，是故知无生。”（MMK I:1）这一对四边——有、无、亦有亦无、非有非无——的否定，为后世中观师所继承并加以扩展，常被用作显示中观之见的工具。
+  - id: 31
+    kind: body
+    source: |-
+      Nāgārjuna’s commentator Āryadeva applies this fourfold negation to an analysis of existence in his *Jñānasārasamuccaya*, writing, “There is no existence, there is no nonexistence, there is no existence and nonexistence, nor is there the absence of both.” Gorampa frequently cites this passage in order to illustrate the Madhyamaka view as that which is free from conceptual constructs. He contends that a proper understanding and application of this passage allows a practitioner to successfully transition from the state of an ordinary person who sees conventional truth, to an awakened buddha who directly and nonconceptually realizes the ultimate.
+    step1: |-
+      龙树的注释者提婆（Āryadeva）在《智心髓集》（*Jñānasārasamuccaya*）中把这四重否定运用于对存在的分析，写道：“无有存在，无有非存在，无有存在与非存在，亦无二者之无。”果让巴频频引用这段文字，以说明中观之见即是离概念造作之见。他主张，正确理解并运用这段文字，能使修行者成功地从见世俗谛的凡夫状态，过渡到直接而非概念地证悟胜义的觉悟佛陀。
+    step2: |-
+      龙树的注释者提婆（Āryadeva）在《智心髓集》（*Jñānasārasamuccaya*）中以此四重否定分析存在，写道：“无有存在，无有非存在，无有存在与非存在，亦无二者俱非。”果让巴屡引此语，以说明中观之见即是离概念造作之见。他主张，若能正确理解并运用此语，修行者便可从见世俗谛的凡夫之境，转为直接而非概念地证悟胜义的觉者。
+  - id: 32
+    kind: body
+    source: |-
+      Most Tibetan Buddhist philosophers agree that the tetralemma is a tool that can help one to realize the ultimate, but they differ in their explanations of the ways in which this tool functions. Gorampa argues that one must negate each of the four extremes in succession by using logic and reasoning, and then one must subsequently realize the negation of all four extremes simultaneously through meditative practices.
+    step1: |-
+      多数藏传佛教哲学家都同意，四句是一种有助于证悟胜义的工具，但他们在解释这一工具如何运作时各有不同。果让巴主张，人必须先用逻辑与推理依次否定四边中的每一极，然后必须继而通过禅修实践，同时证悟对四边的否定。
+    step2: |-
+      多数藏传佛教哲学家都同意四句是助人证悟胜义的工具，但对它如何运作，解释各异。果让巴主张：先用逻辑与推理依次否定四边，再通过禅修同时证悟四边俱遣。
+  - id: 33
+    kind: body
+    source: |-
+      #### 2.2.1 The Process of Refuting the Four Extremes
+    step1: |-
+      #### 2.2.1 破除四边的过程
+    step2: |-
+      #### 2.2.1 破除四边的过程
+  - id: 34
+    kind: body
+    source: |-
+      As Gorampa formulates the tetralemma, the process begins by analyzing and refuting existence. This is done by using the “Five Madhyamaka Reasonings” (*dbu ma gtan tshigs lnga*). These five types of reasoning are:
+    step1: |-
+      按果让巴对四句的表述，这一过程始于对存在的分析与破除。这是通过运用“中观五大因”（*dbu ma gtan tshigs lnga*）来完成的。这五种推理是：
+    step2: |-
+      依果让巴对四句的表述，此过程始于分析并破除“有”。所凭者即“中观五大因”（*dbu ma gtan tshigs lnga*），即：
+  - id: 35
+    kind: body
+    source: |-
+      1. Neither one nor many (*gcig du dral*), which analyzes the essence (*ngo bo*) of things.
+      2. Diamond splinters (*rdo rje'i gzegs ma*), which analyzes causes.
+      3. Refuting the arising of something existent or nonexistent (*yod med skye ‘gog*), which analyzes effects.
+      4. Refuting the four possibilities of arising (*mu bzhi skye ‘gog*), which analyzes causes and effects together.
+      5. Dependent arising (*rten ‘brel*), which shows that phenomena cannot exist independently.
+    step1: |-
+      1. 离一多（*gcig du dral*），分析事物的自性（*ngo bo*）。
+      2. 金刚屑（*rdo rje’i gzegs ma*），分析因。
+      3. 破有无生（*yod med skye ‘gog*），分析果。
+      4. 破四句生（*mu bzhi skye ‘gog*），合观因与果。
+      5. 缘起（*rten ‘brel*），显示诸法不能独立存在。
+    step2: |-
+      1. 离一多因（*gcig du dral*）：分析事物的自性（*ngo bo*）。
+      2. 金刚屑因（*rdo rje’i gzegs ma*）：分析因。
+      3. 破有无生因（*yod med skye ‘gog*）：分析果。
+      4. 破四句生因（*mu bzhi skye ‘gog*）：合观因果。
+      5. 缘起因（*rten ‘brel*）：显示诸法不能独立存在。
+  - id: 36
+    kind: body
+    source: |-
+      These points are generally agreed upon by all Mādhyamikas, and entire essays can be devoted to each of these five types of reasoning, so they will not be discussed in detail here. The basic thrust of these five types of reasoning is that when we analyze the things that appear in the conventional truth, and try to find some kind of essential qualities that underpin those conventionally appearing things, nothing whatsoever can be found. In other words, if one searches for an ultimate truth that exists beyond conventional appearances, nothing whatsoever can be found.
+    step1: |-
+      这些要点为一切中观师所公认，且五种推理中的每一种都可以写成专文，故此处不拟详论。这五种推理的基本要旨是：当我们分析世俗谛中显现的事物，并试图找出支撑那些世俗显现之物的某种本质属性时，什么都找不到。换言之，如果有人去寻求一种存在于世俗显现之外的胜义谛，他什么都找不到。
+    step2: |-
+      这些要点为中观诸家所公认，且五种推理每一种都足以写成专文，此处不拟详论。其基本要旨是：当我们分析世俗谛中显现的事物、试图找出支撑这些世俗显现之物的某种本质属性时，一无所获；换言之，若去寻求一种超出于世俗显现之外的胜义谛，亦一无所获。
+  - id: 37
+    kind: body
+    source: |-
+      After one has refuted the concept that things truly exist, Gorampa concedes that a person’s natural inclination might be to assume that things are therefore nonexistent. He argues, however, that if one were to affirm the nonexistence of things, this would amount to a view of nihilism, which is antithetical to the Madhyamaka position. In order to show that the acceptance of nonexistence is untenable, Gorampa argues that existence and nonexistence are concepts that depend upon each other, just like left and right, or big and small; one makes no sense without the other. So, once the concept of existence is eliminated completely, it makes no sense to conceive of nonexistence independently of that. Things cannot be nonexistent unless they stand in contrast to things that are existent.
+    step1: |-
+      在破除了事物真实存在的概念之后，果让巴承认，人的自然倾向或许是就此认定事物并不存在。然而他主张，如果一个人进而肯定事物的不存在，那就等于执持一种虚无主义的见解，与中观立场相违。为了表明接受不存在是站不住脚的，果让巴主张，存在与不存在是相互依赖的概念，正如左与右、大与小；没有一方，另一方就毫无意义。因此，一旦存在的概念被彻底消除，脱离存在而去构想不存在便毫无意义。除非与存在的事物相对照，事物不可能是不存在的。
+    step2: |-
+      破除“事物真实存在”之见以后，果让巴承认，人自然倾向于进而认定事物不存在。但他主张：若肯定事物不存在，便落入虚无主义之见，与中观立场相违。为表明“无”亦站不住，他指出存在与不存在是互相依赖的概念，如左与右、大与小，缺一即无意义。所以存在的概念一旦彻底遣除，再脱离存在去构想不存在，便毫无意义；事物若不与存在者相对，就不能说它不存在。
+  - id: 38
+    kind: body
+    source: |-
+      Once he has shown that existence and nonexistence are each untenable, Gorampa refutes the third possibility of the tetralemma, that things can somehow simultaneously both exist and not exist. He dismisses this possibility quite succinctly, stating that if existence and nonexistence have each been refuted individually, then it makes no sense that they could somehow exist together.
+    step1: |-
+      在表明存在与不存在各自都站不住脚之后，果让巴继而破除四句中的第三种可能，即事物可以以某种方式同时既存在又不存在。他相当简洁地排除了这种可能，指出：既然存在与不存在已各自被破除，那么它们能以某种方式共同存在，便毫无意义。
+    step2: |-
+      既已表明“有”与“无”各自站不住，果让巴便破四句的第三种可能：事物能以某种方式既存在又不存在。他的排除十分干脆：既然“有”“无”已分别破除，再说二者能并存，便毫无道理。
+  - id: 39
+    kind: body
+    source: |-
+      The refutation of the fourth lemma, neither existence nor nonexistence, yet again depends upon the successful refutation of the previous three. Gorampa argues that to conceive of something as “neither existent nor nonexistent” is to conceive of something that is somewhere between the two extremes of existence and nonexistence. He contends, however, that if one has any concept of anything at all – even if it is some sort of concept of quasi-existence – this is still a wrong view. Once the extremes of existence, nonexistence, and both have been completely refuted, there is no viable position left. To somehow claim that things are neither existent nor nonexistent after having refuted the first three possibilities is illogical.
+    step1: |-
+      对第四句“非有非无”的破除，同样取决于前三句的成功破除。果让巴主张，把某物构想为“既非存在亦非不存在”，就是把某物构想为处于存在与不存在两极之间的某处。然而他主张，如果一个人对任何事物还有任何概念——即便是某种准存在的概念——这仍然是错误之见。一旦存在、不存在与二者兼具这三边被彻底破除，便不再有任何可行的立场。在已经破除前三种可能之后，还要主张事物既非存在亦非不存在，是不合逻辑的。
+    step2: |-
+      第四句“非有非无”的破除，同样有赖于前三句的破除。果让巴主张：把某物构想为“既非有亦非无”，就是把它构想为处于有无两极之间的某处；然而只要对任何事物还存有任何概念——哪怕是某种“准存在”的概念——仍然是错误之见。存在、不存在、二者兼具三边既已彻底破除，便再无可行之立场；既破前三，却仍主张事物非有非无，于理不通。
+  - id: 40
+    kind: body
+    source: |-
+      With the refutation of these four positions in succession, Gorampa shows that *any* possible way of conceiving of the ultimate reality of a thing is impossible. Gorampa stresses the importance of understanding the refutation of each of these four lemmas in succession; the logic that refutes the concept of nonexistence depends upon the successful refutation of the existence, the refutation of the third concept (both existence and nonexistence) depends on the refutation of the first two, and the refutation of the fourth (neither existence nor nonexistence) depends upon the refutation of the first three concepts. Existence, nonexistence, both, and neither are the only possible ways of conceiving of the ultimate status of a thing, so once each of these possible ways is eliminated, there is no way to conceive of things that remains.
+    step1: |-
+      随着这四种立场被依次破除，果让巴表明，*任何*构想事物胜义实在的可能方式都是不可能的。果让巴强调，理解对这四句各自的依次破除十分重要；破除不存在概念的逻辑，依赖于对存在概念的成功破除；对第三种概念（存在与不存在兼具）的破除，依赖于对前两种概念的破除；而对第四种概念（非存在亦非不存在）的破除，则依赖于对前三种概念的破除。存在、不存在、二者兼具与二者俱非，乃是构想事物究竟状态的仅有可能方式，因此一旦这些可能方式逐一被排除，便再无任何构想事物的方式留存。
+    step2: |-
+      四边依次破毕，果让巴表明：构想事物胜义实在的*任何*可能方式皆不可能。他强调依次理解四句之破的重要：破“无”的逻辑依赖于先破“有”；破第三句（亦有亦无）依赖于先破前两句；破第四句（非有非无）则依赖于先破前三句。存在、不存在、二者兼具、二者俱非，是构想事物究竟状态的仅有可能方式；这些方式一旦逐一排除，便再无构想事物的方式可存。
+  - id: 41
+    kind: body
+    source: |-
+      The refutation of each of the four extremes of the tetralemma is a logic-oriented process that helps a follower of Madhyamaka to cultivate a conceptual understanding of the ultimate truth that is taught. But Gorampa argues that logic alone will not bring about a realization of the actual ultimate truth. For this, one must also incorporate meditative practices. Gorampa argues that through repeated meditation on the refutation of each of the four lemmas in succession, one will eventually come to realize all four refutations simultaneously. We might describe this style of meditative practice as a kind of “turning off” of concepts. After one conceptually understands the negation of existence, for example, one meditates on this negation and eventually stops having concepts of things existing altogether. This process continues through all four possibilities in the tetralemma, until one no longer conceives of things at all. Again, it is important to note that this is distinct from simply arresting the process of thought.
+    step1: |-
+      对四句四边各自的破除，是一个以逻辑为取向的过程，帮助中观追随者对所教胜义形成概念性的理解。但果让巴主张，单凭逻辑并不能带来对真正胜义谛的证悟。为此，人还必须结合禅修实践。果让巴主张，通过对四句逐一破除的反复禅观，人最终会同时证悟全部四种破除。我们可以把这种禅修方式描述为对概念的一种“关闭”。例如，在概念上理解了“无”的否定之后，人对这一否定加以禅观，最终完全不再生起事物存在的概念。这一过程贯穿四句的全部四种可能，直到人根本不再构想事物。再次强调，这与单纯中止思维过程是有区别的。
+    step2: |-
+      对四边逐一破除，是以逻辑为取向的过程，能助中观行者对所教胜义生起概念性的理解。但果让巴主张，单凭逻辑不足以证得真正的胜义谛，还须结合禅修。他说，反复禅观四句之破，终能同时证悟四种破除；这种禅修不妨形容为对概念的“关掉”。例如，先在概念上理解对“有”的否定，再对此否定反复禅观，最终便不再生起事物存在的概念。四句四种可能皆如此推进，直至完全不再构想事物。仍须强调：这与单纯止息思维过程并不相同。
+  - id: 42
+    kind: body
+    source: |-
+      #### 2.2.2 The Role of Negation and the Function of the Tetralemma
+    step1: |-
+      #### 2.2.2 否定的作用与四句的功能
+    step2: |-
+      #### 2.2.2 否定的作用与四句的功能
+  - id: 43
+    kind: body
+    source: |-
+      According to Gorampa, the tetralemma is a tool that is used to investigate the ultimate status of appearances. Through the logic of this fourfold negation, one cultivates a conceptual understanding of the ultimate that is taught, and then, through subsequent meditative practices, one eventually cultivates a direct, nonconceptual realization of the actual ultimate truth. In short, the logical reasoning involved in the fourfold negation is implemented by ordinary persons in order to understand what the ultimate truth is *like*, but logic alone is not sufficient to arrive at a direct realization of the ultimate.
+    step1: |-
+      按果让巴的看法，四句是用来探究显现之物的究竟状态的工具。通过这一四重否定的逻辑，人培养起对所教胜义的概念性理解，然后通过随后的禅修实践，最终培养起对真正胜义谛的直接的、非概念的证悟。简言之，四重否定所包含的逻辑推理，是由凡夫实施的，以便理解胜义谛*像是什么样子*，但单凭逻辑不足以达到对胜义的直接证悟。
+    step2: |-
+      在果让巴看来，四句是探究显现之物究竟状态的工具。借四重否定的逻辑，人先对所教胜义生起概念性理解；再经随后的禅修，终于生起对真正胜义谛的直接而非概念的证悟。简言之，四重否定中的逻辑推理由凡夫施行，为的是理解胜义谛*像是什么样子*；但单凭逻辑，不足以直接证得胜义。
+  - id: 44
+    kind: body
+    source: |-
+      Although tetralemmic analysis is employed by all Mādhyamika philosophers, Gorampa’s interpretation of this fourfold negation is unique in that it amounts to a complete eradication of conceptual thought. Other Mādhyamikas, such as Tsongkhapa, qualify each of the negations in the tetralemma in ways that eliminate only certain kinds of concepts. For someone like Tsongkhapa, the tetralemma is a tool that can be used to eliminate *wrong*concepts; for Gorampa, however, it is a tool that eliminates *all*concepts.
+    step1: |-
+      尽管四句分析为中观哲学家普遍采用，果让巴对四重否定的解释却独树一帜，因为它等于对概念思维的彻底根除。其他中观师，例如宗喀巴，对四句中的每一否定都加以限定，从而只消除某些种类的概念。对宗喀巴这样的人来说，四句是消除*错误*概念的工具；而对果让巴来说，它是消除*一切*概念的工具。
+    step2: |-
+      四句分析虽为中观诸家通用，果让巴的解释却独具一格：它意味着对概念思维的彻底根除。宗喀巴等人对四句的每一重否定都加以限定，只遣除某些种类的概念：对宗喀巴一流而言，四句是消除*错误*概念的工具；对果让巴而言，则是消除*一切*概念的工具。
+  - id: 45
+    kind: body
+    source: |-
+      Gorampa’s particular interpretation of the tetralemma is based on the ways that he understands negation to function within this fourfold analysis. For him, the negations of existence, nonexistence, both, and neither are each complete and total non-affirming negations (*med dgag*); that is, each limb of the tetralemma is negated in its entirely, without the existence of anything else being affirmed in its place. The result of this process is, again, the complete eradication of any concepts of existence, nonexistence, both, or neither.
+    step1: |-
+      果让巴对四句的独特解释，基于他对否定在这一四重分析中如何运作的理解。在他看来，对存在、不存在、二者兼具与二者俱非的否定，各自都是完整而彻底的无遮否定（*med dgag*）；也就是说，四句的每一支都被整个地否定，而不在其位置上肯定任何其他东西的存在。这一过程的结果，同样是任何关于存在、不存在、二者兼具或二者俱非的概念的彻底根除。
+    step2: |-
+      果让巴对四句的独特解释，系于他对否定在此四重分析中如何运作的理解。在他看来，对“有”“无”“亦有亦无”“非有非无”的否定，各自都是完整彻底的无遮否定（*med dgag*）：四句的每一支都被整个否定，而不在其位另立一物以肯定。其结果，同样是对“有”“无”“亦有亦无”“非有非无”一切概念的彻底根除。
+  - id: 46
+    kind: body
+    source: |-
+      Some of Gorampa’s opponents – again, including Tsongkhapa – understand negation differently. Tsongkhapa and his supporters adhere to the law of double negation, and understand the negations within the tetralemma to be qualified in certain ways. As such, while the negation of existence is interpreted to mean that nothing exists ultimately, the negation of nonexistence is interpreted to mean that something does, nevertheless, exist. For Tsongkhapa, this “something” is the conventional truth. Because of this, Tsongkhapa’s understanding of the tetralemma involves a complex system of logical statements, each qualified according to one of the two truths. If one accepts double negation elimination, then it makes no sense for both existence and nonexistence to be negated, unless these negations are qualified in certain ways.
+    step1: |-
+      果让巴的一些论敌——同样包括宗喀巴——对否定的理解与此不同。宗喀巴及其拥护者遵奉双重否定律，并把四句中的否定理解为以某些方式作了限定。因此，虽然对存在的否定被解释为“没有任何东西究竟存在”，但对不存在的否定却被解释为“毕竟还有某物存在”。对宗喀巴而言，这个“某物”就是世俗谛。因此，宗喀巴对四句的理解涉及一个复杂的逻辑陈述系统，其中每一陈述都依照二谛之一而作限定。如果接受双重否定消去，那么除非这些否定以某些方式作了限定，否则既否定存在又否定不存在便毫无意义。
+    step2: |-
+      果让巴的论敌——仍是宗喀巴一流——对否定另有一套理解。他们遵奉双重否定律，认为四句中的否定各有限定：否定“有”，意为究竟无物存在；否定“无”，却意为毕竟有某物存在。对宗喀巴而言，此“某物”即世俗谛。因此他理解的四句，是一套复杂的逻辑陈述系统，每条陈述都依二谛之一加以限定。若承认双重否定可以消去，那么在不作限定的情况下同时否定“有”与“无”，便毫无意义。
+  - id: 47
+    kind: body
+    source: |-
+      Gorampa, on the other hand, does not adhere to double negation in the context of the tetralemma. Instead, he understands the tetralemma as a succession of four negations that are applied to the four possible ways of conceiving of the status of the ultimate truth. Because the ultimate truth is nonconceptualizable, Gorampa contends that Tsongkhapa’s understanding of the tetralemma is incomplete, because it doesn’t negate enough – literally, it underpervades (*khyab chung ba*). While Tsongkhapa’s model successfully refutes the extreme view of existence at the ultimate level, Gorampa argues that it does not eliminate all extreme views ultimately and in their entirety.
+    step1: |-
+      另一方面，果让巴在四句的语境中并不遵奉双重否定。他反而把四句理解为对四种可能的“构想胜义谛状态的方式”依次施行的四重否定。由于胜义谛不可概念化，果让巴主张宗喀巴对四句的理解并不完整，因为它否定得不够——按字面说，它“周遍不足”（*khyab chung ba*）。宗喀巴的模型固然成功破斥了“究竟层面存在”这一极端之见，但果让巴主张，它并未在究竟层面、且完整地消除一切极端之见。
+    step2: |-
+      果让巴则不然：在四句的语境里，他不承认双重否定。他把四句理解为对“构想胜义谛状态”的四种可能方式依次施行的四重否定。既然胜义谛不可概念化，他便主张宗喀巴的理解并不完整——否定得不够，用他的话说，是“周遍不足”（*khyab chung ba*）。宗喀巴的模型固然破了“究竟层面有”这一极端，但果让巴认为，它并未在究竟层面彻底消除一切极端。
+  - id: 48
+    kind: body
+    source: |-
+      Tsongkhapa argues that a negation of all four extremes at the ultimate level defies logic, but Gorampa contends that a transcendence of logic is specifically the tetralemma’s purpose. By negating all possibilities for logical, conceptual thought, the only recourse is to abandon concepts completely. True freedom from conceptual proliferations lies outside of the scope of conceptual thought, and is therefore inexpressible. Gorampa maintains, however, that because ordinary persons utilize conceptual thought, they necessarily construe the ultimate truth as an object of conceptual constructs (that is, they construe it as the ultimate that is taught). As such, one must first use conceptual reasoning to refute each of the four extremes, but these concepts must eventually be abandoned.
+    step1: |-
+      宗喀巴主张，在究竟层面否定全部四边有违逻辑；但果让巴主张，超越逻辑恰恰是四句的目的。通过否定逻辑的、概念的一切思维可能，唯一的出路就是彻底舍弃概念。真正的离戏论处于概念思维的范围之外，因而不可言诠。然而果让巴坚持认为，由于凡夫使用概念思维，他们必然把胜义谛理解为概念造作的对象（也就是说，他们把它理解为所教胜义）。因此，人必须首先运用概念推理来破除四边中的每一极，但这些概念最终必须被舍弃。
+    step2: |-
+      宗喀巴主张，在究竟层面否定四边有违逻辑；果让巴则说，超越逻辑正是四句的用意所在。把逻辑的、概念的一切可能都否定掉，剩下的唯一出路便是彻底舍弃概念。真正的离戏论在概念思维的范围之外，因而不可言诠。但果让巴也坚持：凡夫既用概念思维，就必然把胜义谛当作概念造作的对象来理解（即理解为所教胜义）。所以人须先用概念推理破除四边，而这些概念最终又必须舍弃。
+  - id: 49
+    kind: body
+    source: |-
+      In other words, because all four extremes are negated under the analysis of the tetralemma, Gorampa concludes that a correct realization of the ultimate truth must be something that is other than these conceptualizations of and dichotomizations into existence and nonexistence. As such, the ultimate truth cannot be described using these terms. And, since these are the only possible ways of speaking of or conceptualizing the status of the existence of things, once they are all negated, one is forced to conclude that the ultimate truth cannot be described linguistically or conceptually. The ultimate truth that is realized transcends the boundaries of language and conceptual thought. However, Gorampa still maintains that logic and analysis are essential in arriving at a state of nonconceptuality.
+    step1: |-
+      换言之，由于在四句的分析之下四边皆被否定，果让巴得出结论：对胜义谛的正确证悟，必须是不同于这些概念化、不同于这些对存在与不存在的二分的东西。因此，胜义谛无法用这些术语来描述。而且，既然这些是言说或概念化事物存在状态的仅有可能方式，那么一旦它们全被否定，人就不得不承认：胜义谛无法以语言或概念来描述。所证悟的胜义谛超越了语言与概念思维的界限。然而，果让巴仍然坚持，逻辑与分析对于达到非概念的状态是必不可少的。
+    step2: |-
+      换言之，四边在四句分析下既已俱遣，果让巴便断言：对胜义谛的正确证悟，必是不同于“有/无”这类概念化与二分的东西。因此胜义谛无法用这些说法描述。而这些说法既是言说、概念化事物存在状态的仅有方式，一旦全被否定，就只能承认胜义谛非语言、非概念所能描述。所证悟的胜义谛超出语言与概念思维的界限。不过果让巴仍坚持：逻辑与分析对于达至非概念之境不可或缺。
+  - id: 50
+    kind: body
+    source: |-
+      ### 2.3 The Role of Logic
+    step1: |-
+      ### 2.3 逻辑的作用
+    step2: |-
+      ### 2.3 逻辑的作用
+  - id: 51
+    kind: body
+    source: |-
+      Gorampa’s understanding of the relationship between the two truths and the use of negation in the tetralemma reinforce his understanding of the ways in which a practitioner should proceed on the Buddhist path toward awakening. Through the logic of the tetralemma, Gorampa demonstrates that the final goal of awakening is beyond conceptual thought.
+    step1: |-
+      果让巴对二谛关系以及四句中否定之运用的理解，强化了他对修行者在趋向觉悟的佛教之道上应如何前进的看法。通过四句的逻辑，果让巴表明觉悟的最终目标超出概念思维之外。
+    step2: |-
+      果让巴对二谛关系与四句中否定之运用的理解，进一步支撑了他对修行者在菩提道上如何行进的看法。借四句的逻辑，他表明：觉悟的最终目标在概念思维之外。
+  - id: 52
+    kind: body
+    source: |-
+      Conceptual thought comes from ignorance, so by eradicating ignorance, one eradicates conceptual thought. In other words, since an awakened being is completely free from ignorance, she has no concepts whatsoever. This claim is quite controversial for obvious reasons: buddhas are understood as consisting of perfect wisdom, and are described in scriptures as omniscient beings. How, then, can a buddha have no concepts at all, but still be considered omniscient?
+    step1: |-
+      概念思维来自无明，因此消除无明即可消除概念思维。换言之，既然觉悟者完全脱离无明，她便毫无概念。这一主张因显而易见的原因而颇具争议：佛陀被理解为具足圆满智慧，经中也把佛陀描述为全知者。那么，一位佛陀如何可能毫无概念，却仍被视为全知？
+    step2: |-
+      概念思维出于无明，故消除无明即消除概念思维。换言之，觉悟者既已完全离于无明，便毫无概念可言。这一主张显然颇有争议：佛陀具足圆满智慧，经中又说佛陀全知。既毫无概念，何以仍称全知？
+  - id: 53
+    kind: body
+    source: |-
+      Tsongkhapa and his fellow Gelugpa opponents criticize Gorampa for this very reason. They contend that Gorampa’s philosophy negates too much – it “overpervades” (*khyab che ba*). They argue that if the final goal of awakening is really a complete elimination of concepts, then one ought to be able to attain awakening by simply falling asleep or otherwise becoming unconscious. Gorampa contends, however, that in order to successfully eliminate all concepts in their entirety, it is absolutely essential that one begins by using logic and reasoning. The end result is indeed nonconceptual, but it differs from the quietism that is a result of simply not-thinking, without any prior analysis.
+    step1: |-
+      宗喀巴及其格鲁巴论敌正是为此而批评果让巴。他们主张，果让巴的哲学否定得太多——它“周遍过宽”（*khyab che ba*）。他们论证说，如果觉悟的最终目标真的是概念的彻底消除，那么人只要睡上一觉或以其他方式失去意识，就应该能够获得觉悟。然而果让巴主张，为了成功地彻底消除一切概念，人必须从运用逻辑与推理开始，这一点绝对不可或缺。最终结果确实是非概念的，但它不同于那种未经任何先行分析、单纯“不去想”而产生的寂止状态。
+    step2: |-
+      宗喀巴与格鲁巴论敌正是据此批评果让巴：其哲学否定过多，是“周遍过宽”（*khyab che ba*）。他们说，若觉悟的最终目标真是概念的彻底消除，那么人只要睡一觉、或昏厥过去，便应获得觉悟。果让巴则辩称：要真正彻底消除一切概念，必须从运用逻辑与推理开始，这一步绝对不可或缺；最终结果确实非概念，但它不同于未经任何分析、单纯“不去想”所得的寂止。
+  - id: 54
+    kind: body
+    source: |-
+      The issue underlying this debate concerns the status of conceptual content in the minds of fully awakened buddhas. Gorampa contends, citing Candrakīrti, that fully awakened buddhas have no conceptual content whatsoever; they have completely eliminated ignorance in its entirety, and therefore do not actively engage in the conventional world. They do not conceive of things as existent, nonexistent, both, or neither. In fact, they do not conceive of things at all. They do, however, *appear* to be omniscient from the perspective of ordinary beings, and because of their previous karma and the compassion that they have cultivated on the path to enlightenment, they continue to function in the world for the benefit of ordinary unenlightened beings for a period of time.
+    step1: |-
+      这场争论背后的根本问题，是圆满觉悟的佛陀心中概念内容的地位。果让巴引月称为据，主张圆满觉悟的佛陀毫无概念内容；他们已彻底消除无明，因而不再主动涉入世俗世界。他们不构想事物为存在、不存在、二者兼具或二者俱非。事实上，他们根本不构想事物。然而，从凡夫的角度看，他们确实*显得*是全知的；并且由于他们先前的业力与在觉悟道上所培养的悲心，他们会在一定时期内继续为了未觉悟的凡夫而在这世界中运作。
+    step2: |-
+      争论的根子，在于圆满觉悟的佛陀心中概念内容处于何种地位。果让巴引月称为证，主张圆满觉悟的佛陀全无概念内容：无明已彻底消除，故不再主动涉入世俗世界；他们不构想事物为有、为无、为亦有亦无、为非有非无——事实上根本不构想事物。但从凡夫的角度看，他们确实*显得*全知；又因夙昔业力与菩提道上所修的悲心，他们会在一段时期内继续为未觉悟的凡夫而在世间运作。
+  - id: 55
+    kind: body
+    source: |-
+      The implications of Gorampa’s view are significant. While Tsongkhapa’s model stresses the eradication of only certain kinds of concepts – e.g., concepts relating to the ultimate existence of things – Gorampa’s model shows that *all* concepts must be eliminated, first through the logical reasoning of the tetralemma, and then through subsequent meditative practices. Because Gorampa is not concerned with the preservation of certain kinds of concepts, he is more tolerant of variations in styles of argumentation that might be used to arrive at a state of freedom from conceptual proliferations.
+    step1: |-
+      果让巴这一看法的蕴含颇为重大。宗喀巴的模型只强调消除某些种类的概念——例如与事物的究竟存在相关的概念——而果让巴的模型则表明，*一切*概念都必须被消除，首先通过四句的逻辑推理，然后通过随后的禅修实践。由于果让巴并不关心保存某些种类的概念，他对可能用来达到离戏论状态的不同论证风格也更为宽容。
+    step2: |-
+      此说的蕴含相当重大。宗喀巴的模型只强调消除某几类概念，例如与事物究竟存在有关的概念；果让巴的模型则表明，*一切*概念都须消除：先凭四句的逻辑推理，再凭随后的禅修。果让巴既不求保存某几类概念，便对用以达至离戏论状态的各种论证风格更为宽容。
+  - id: 56
+    kind: body
+    source: |-
+      ### 2.4 Methods of Argumentation
+    step1: |-
+      ### 2.4 论证的方法
+    step2: |-
+      ### 2.4 论证的方法
+  - id: 57
+    kind: body
+    source: |-
+      Gorampa’s emphasis on the possibility for different acceptable styles of argumentation occurs in the context of his analysis of the so-called Prāsaṅgika and Svātantrika subschools of Madhyamaka thought. These two subschools were understood by Tibetan thinkers as being developed by the Indian Mādhyamikas Buddhapālita and Bhāviveka, the former advocating the Prāsaṅgika position and the latter that of the Svātantrika. Candrakīrti is understood as upholding the Prāsaṅgika tradition, because he defended Buddhapālita’s views against Bhāviveka’s criticisms. It is important to note, however, that none of these Indian scholars labeled themselves as adherents of particular subschools of Madhyamaka, and that the terms rang gyud pa (Svātantrika) and thal ‘gyur ba (Prāsaṅgika) were coined centuries later by Tibetans.
+    step1: |-
+      果让巴对“可以有不同的可接受论证风格”这一点的强调，出现在他对中观思想中所谓应成派（Prāsaṅgika）与自续派（Svātantrika）两个支派的析论语境中。这两个支派被西藏思想家理解为由印度中观师佛护（Buddhapālita）与清辨（Bhāviveka）所开创：前者主张应成派立场，后者主张自续派立场。月称被理解为持守应成派传统，因为他曾为佛护的见解辩护，反驳清辨的批评。然而必须注意，这些印度学者中没有一位把自己标举为中观某一支派的追随者，而 rang gyud pa（自续派）与 thal ‘gyur ba（应成派）这两个术语，是数百年后由藏人创制的。
+    step2: |-
+      果让巴强调“可接受的论证风格可以不同”，这番话是针对中观思想中所谓应成派（Prāsaṅgika）与自续派（Svātantrika）两支而发的。西藏思想家认为，这两支分别由印度中观师佛护（Buddhapālita）与清辨（Bhāviveka）开出：前者主应成，后者主自续。月称被视为应成派的维护者，因为他曾为佛护之说辩护，回应清辨的批评。但须注意：这些印度学者没有一位自称属于中观某一支派；rang gyud pa（自续）与 thal ‘gyur ba（应成）这两个名目，是几百年后藏人的创制。
+  - id: 58
+    kind: body
+    source: |-
+      Regardless of whether Buddhapālita, Bhāviveka, or Candrakīrti actually understood themselves to be advocating these distinct positions, the differentiation between Svātantrika and Prāsaṅgika became reified in medieval Tibetan Buddhist discourse. Because Tibetans held Candrakīrti’s Madhyamaka in high regard, they purported to be Prāsaṅgikas themselves, and many constructed detailed explanations of the division between the Svātantrika and Prāsaṅgika systems, always upholding Prāsaṅgika as the highest form of Madhyamaka.
+    step1: |-
+      无论佛护、清辨或月称实际上是否自认为在主张这些不同的立场，自续派与应成派之间的区分在中世纪藏传佛教话语中被实体化了。由于藏人推重月称的中观，他们自称应成派，许多人还构造出关于自续派与应成派体系之别的详尽解释，始终把应成派奉为中观的最上乘。
+    step2: |-
+      佛护、清辨、月称本人是否自认在主张这些不同立场，姑且不论；自续与应成之别在中世纪藏传佛教话语中已被坐实。藏人推重月称的中观，遂自称应成派；许多人还细密构造自续、应成两系之别的解释，而始终以应成为中观之极致。
+  - id: 59
+    kind: body
+    source: |-
+      Tsongkhapa famously composed a list of “eight difficult points” (dka’ gnad brgyad) distinguishing his own Prāsaṅgika view from that of the Svātantrika. Based on these eight points, Tsongkhapa concluded that the two schools to differ in terms of their views regarding the nature of the ultimate truth.
+    step1: |-
+      宗喀巴曾著名地列出“八大难题”（dka’ gnad brgyad），以区分他自己的应成派之见与自续派之见。基于这八点，宗喀巴断定两派在关于胜义谛本性的见解上有所不同。
+    step2: |-
+      宗喀巴曾列出著名的“八大难题”（dka’ gnad brgyad），以区别他自己的应成之见与自续之见。据此八点，他断定两派在胜义谛本性上的见解相异。
+  - id: 60
+    kind: body
+    source: |-
+      Gorampa also considers himself a Prāsaṅgika, but insists that the distinction between these two Madhyamaka subschools is a matter of method, not view. Because Gorampa’s interpretation of the two truths and negation informs a process by which the Mādhyamika begins with logic and analysis, and ends in a state of nonconceptuality, Gorampa contends that there can be no differences between Mādhyamikas with respect to their final view. There cannot be different types of nonconceptuality; the end result of any true Madhyamaka analysis is freedom from conceptual proliferations. Once one has successfully eradicated conceptual thought, the methods that she has used to arrive at such a state are no longer relevant. The differences between these Madhyamaka subschools, therefore, occur with respect to the ways in which they understand the conventional truth, and utilize logic and reasoning.
+    step1: |-
+      果让巴也自认为应成派，但坚持这两个中观支派之间的区分是方法问题，而非见解问题。由于果让巴对二谛与否定的解释，构成了一个中观师以逻辑与分析为始、以非概念状态为终的过程，他主张中观师之间在最终见解上不可能有差别。非概念性不可能有不同的类型；任何真正的中观分析的最终结果都是离戏论。一旦人成功根除了概念思维，她用以达到这一状态的方法便不再相干。因此，这些中观支派之间的差别，出现在它们理解世俗谛以及运用逻辑与推理的方式上。
+    step2: |-
+      果让巴也自认应成派，但坚持两支之别是方法之别，而非见解之别。既然他对二谛与否定的解释勾画出一条以逻辑分析始、以非概念终的道路，他便主张中观师在最终见解上不可能有异。非概念性不会有不同种类；任何真正的中观分析，其归宿都是离戏论。概念思维一旦根除，用以达此的方法便无关紧要。故两支之异，只在理解世俗谛、运用逻辑推理的方式上。
+  - id: 61
+    kind: body
+    source: |-
+      In short, Gorampa’s particular brand of Madhyamaka is characterized by his understanding of the two truths, and the ways in which negation functions within the logic of tetralemmic analysis. Because the ultimate truth is entirely free from concepts, one utilizes negation to eliminate all concepts in their entirety. The ways in which one employs Madhyamaka reasoning in order to negate these concepts are ultimately not as important as actually arriving at a state of nonconceptuality. Thus, unlike Tsongkhapa, who concludes that there is one correct final view, Gorampa contends that the final, ultimate view is actually no view at all.
+    step1: |-
+      简言之，果让巴独特的中观品格，由其对于二谛的理解，以及否定在四句分析的逻辑中如何运作的理解所刻画。由于胜义谛完全离于概念，人便运用否定来彻底消除一切概念。人究竟以何种方式运用中观推理来否定这些概念，最终并不如实际达到非概念状态那样重要。因此，与断定只有一种正确最终见解的宗喀巴不同，果让巴主张，最终的根本之见其实根本不是任何一种见。
+    step2: |-
+      总之，果让巴中观之学的特色，系于他对二谛的理解，以及否定在四句逻辑中如何运作的理解。胜义谛既完全离于概念，便以否定来彻底遣除一切概念；至于用何种方式推行中观推理，终不如实际臻于非概念之境来得要紧。因此，与断定只有一种正确最终之见的宗喀巴不同，果让巴主张：最终的根本之见，其实无见可言。
+  - id: 62
+    kind: body
+    source: |-
+      ## 3. Influence on Other Philosophers
+    step1: |-
+      ## 3. 对其他哲学家的影响
+    step2: |-
+      ## 3 对其他哲学家的影响
+  - id: 63
+    kind: body
+    source: |-
+      Gorampa’s harsh criticisms of Tsongkhapa resulted in his works being banned throughout Tibet for centuries. When these texts were recovered and reprinted, however, Gorampa’s philosophy experienced a resurgence of sorts, not only among fellow Sakyapas, but also among some scholars belonging to the Kagyu and Nyingma schools. Gorampa’s emphasis on logic and reasoning, combined with his view that different methods can successfully be applied to arrive at the same result of freedom from conceptual proliferations, appealed to non-Sakya scholars who had historically placed more of an emphasis on meditative practices, but wished to counter Gelugpa-style logical arguments.
+    step1: |-
+      果让巴对宗喀巴的严厉批评，导致其著作在西藏各地被禁数百年。然而，当这些文本被重新发现并重刊之后，果让巴的哲学经历了某种复兴，不仅在其萨迦同门中，也在属于噶举与宁玛派的某些学者中。果让巴对逻辑与推理的强调，加上他关于不同方法可以成功达致同一离戏论结果的观点，吸引了那些历史上更重视禅修实践、却希望抗衡格鲁巴式逻辑论证的非萨迦学者。
+    step2: |-
+      果让巴对宗喀巴的严厉批评，使他的著作在西藏各地被禁数百年。但这些文本重新发现并重刊之后，其哲学竟有某种复兴：不但在萨迦同门中，也在噶举、宁玛两派的某些学者中流传。果让巴重逻辑与推理，又主张不同方法皆可同致离戏论之果，这正投合那些素来更重禅修、却想抗衡格鲁巴式逻辑论证的非萨迦学者。
+  - id: 64
+    kind: body
+    source: |-
+      Just as Gorampa argues that the distinction between Svātantrika and Prāsaṅgika is a matter of method, but not of a Mādhyamika’s final view, later Tibetan commentators have extended this reasoning to apply to other, non-Sakya schools within Tibetan Buddhism. Gorampa’s philosophy has become influential within what has recently come to be known as the “nonsectarian movement” (*ris med*) of Tibetan Buddhism.
+    step1: |-
+      正如果让巴主张自续派与应成派之别是方法问题，而非中观师最终见解之别，后来的西藏注释者已把这一推理推广到藏传佛教中其他非萨迦的宗派。果让巴的哲学在晚近所谓藏传佛教“无派别运动”（*ris med*）中已颇具影响。
+    step2: |-
+      果让巴主张自续、应成之别只是方法之别，而非中观师最终见解之别；后世西藏注家更把这一推理推广及于藏传佛教中其他非萨迦宗派。在晚近所称的藏传佛教“无派别运动”（*ris med*）中，果让巴的哲学已颇有影响。
+  - id: 65
+    kind: body
+    source: |-
+      Kagyu and Nyingma scholars managed to appropriate some of Gorampa’s philosophy and incorporate it into their own systems. Not only did Gorampa provide a compelling refutation of Tsongkhapa’s particular understanding of Madhyamaka, but his philosophical arguments also proved compatible with Kagyu and Nyingma styles of meditative practice. Today, Kagyu and Nyingma scholars study Gorampa’s philosophical texts at Sakya monastic institutions, and some even teach Gorampa’s philosophy in their own monasteries.
+    step1: |-
+      噶举与宁玛派学者设法取用了果让巴的部分哲学，并把它纳入自己的体系。果让巴不仅对宗喀巴独特的中观理解提供了有力的反驳，他的哲学论证也证明与噶举、宁玛的禅修风格相容。今天，噶举与宁玛派学者在萨迦派的寺院机构中研习果让巴的哲学文本，有些甚至在自己的寺院中讲授果让巴的哲学。
+    step2: |-
+      噶举、宁玛两派学者取用果让巴哲学之一部分，纳入自宗体系。果让巴不仅有力驳斥了宗喀巴特有的中观理解，其论证还与噶举、宁玛的禅修风格相容。今日噶举、宁玛学人仍在萨迦寺院中研习果让巴的哲学文本，有些甚至在本寺讲授其学。
+  - id: 66
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      [欢迎向作者提出建议。]
+    step2: |-
+      [欢迎向作者提出建议。]

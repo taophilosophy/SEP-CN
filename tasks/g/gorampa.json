@@ -2,7 +2,7 @@
   "slug": "gorampa",
   "kind": "retranslate",
   "zh_doc": "g/gorampa.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-01T18:45:39Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "lead-G-main-20261109",
+      "at": "2026-11-08T22:51:11Z",
+      "evidence": "账本 66/66 段双版齐（step1 忠实/step2 优化，互不相同）；lq check HARD=0，SOFT 9 条已判读（5 条为标题段 step1==step2 机械等价、2 条扇形*计数差为中文强调转书名号）；compose 写回 13171 字符；g_fix_h1 修正转义括号截断 H1；italic_to_bold 8 行、g_apos 正文 15 处转写撇号（参考文献 24 处保持照录未动，20/20 定义与源逐字符相同）；四检全绿（style 0 / math 0 / academic --strict OK / H1=SUMMARY）"
     }
   ],
   "blockers": [],
