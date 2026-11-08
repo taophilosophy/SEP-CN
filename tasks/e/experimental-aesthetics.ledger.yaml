@@ -657,50 +657,66 @@ segments:
     kind: body
     source: |-
       The question of cross-cultural recognizably has also been tackled in Constant Bonard’s experimental philosophy paper (2019). Bonard argues that the affective meaning of a musical piece depends on musical grammar, as there is an overlap of cognitive mechanisms constituting the capacity for language and capacity for music. According to him, listeners familiar with certain musical idioms and grammatical organizations are better able to perceive the affective meaning of a piece. Bonard presented his participants in Geneva and India with excerpts from Western classical music, South Indian music, as well as a set of atonal melodies that do not belong to either of these cultures. They were asked to identify musical excerpts that do not correspond to musical grammatical rules. For both Indian and Western participants, the Western and atonal (but not Indian) stimuli were easier to encode for those familiar with the musical idiom. Participants were also asked to listen to musical extracts and continually rate how much the music expressed a given emotion. The study confirmed that participants were better at recognizing the affective dimension of music that originated from their region. Taken together, these studies present tentative evidence that the recognition of emotions in music may depend on familiarity with local musical grammar rules (for more readings on musical semantics, also see Schlenker 2017, 2019, 2022)[^schlenker-2017].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      跨文化识别性的问题也在 Constant Bonard 的实验哲学论文（2019）中得到处理。Bonard 主张，一段音乐的情感意义取决于音乐语法，因为构成语言能力与音乐能力的认知机制存在重叠。依他之见，熟悉某些音乐习语与语法组织的听者，更能感知一段音乐的情感意义。Bonard 向日内瓦与印度的被试呈现西方古典音乐、南印度音乐的片段，以及一组不属于这两种文化的无调性旋律。被试被要求识别不符合音乐语法规则的片段。对印度与西方被试而言，西方与无调性（而非印度）的刺激对那些熟悉该音乐习语的人更易编码。被试还被要求聆听音乐片段，并持续评定音乐在多大程度上表现了给定的情感。研究确认，被试更善于识别来自本地区的音乐的情感维度。综合来看，这些研究提供了初步证据，表明音乐中情感的识别可能取决于对当地音乐语法规则的熟悉程度（关于音乐语义学的更多读物，另见 Schlenker 2017, 2019, 2022）[^schlenker-2017]。
+    step2: |-
+      Constant Bonard 的实验哲学论文（2019）也处理了跨文化识别性问题。他认为，一段音乐的情感意义取决于音乐语法，因为构成语言能力与音乐能力的认知机制彼此重叠。依此，熟悉某种音乐习语与语法组织的听者，更能把握一段音乐的情感意义。Bonard 以日内瓦与印度的被试为对象，呈现西方古典音乐、南印度音乐片段，以及一组不属于这两种文化的无调性旋律，请被试识别不合音乐语法规则的片段。无论印度还是西方被试，只要熟悉相应音乐习语，对西方与无调性刺激（而非印度刺激）的编码就更容易。被试还需边听边持续评定音乐所表现的情感程度。研究确认，被试更善于辨识本地区音乐的情感维度。综观这些研究，可得初步证据：音乐中情感的识别可能依赖于对当地音乐语法规则的熟悉（音乐语义学的更多文献，另见 Schlenker 2017, 2019, 2022）[^schlenker-2017]。
   - id: 82
     kind: body
     source: |-
       The topic of art and emotion induction may also be relevant to discussions on art and morality. Angelika Seidel and Jesse Prinz (2013b) found that music can be used to induce positive or negative emotions, which in turn modifies moral evaluations. Roughly, happy music increases judgments of goodness, and angry music increases judgments of wrongness. Seidel and Prinz (2013a) further discovered that different negative musically-induced emotions, anger and disgust, can impact the severity of different kinds of moral judgments. A more complex result comes from Ansani and colleagues (2024), which shows that musical expertise is likely to lead to more individualizing moral foundations as opposed to binding ones.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      艺术与情感诱发这一主题，也许还与关于艺术与道德的讨论相关。Angelika Seidel 与 Jesse Prinz（2013b）发现，音乐可被用来诱发正面或负面情感，进而改变道德评价。粗略地说，快乐的音乐提高对善的判断，愤怒的音乐提高对错的判断。Seidel 与 Prinz（2013a）进一步发现，不同的负面音乐诱发情感——愤怒与厌恶——会影响不同种类道德判断的严厉程度。一个更复杂的结果来自 Ansani 及其同事（2024），它表明音乐专长可能导致更偏重个体化道德基础，而非约束性道德基础。
+    step2: |-
+      艺术与情感诱发这一主题，也与艺术与道德的讨论相关。Angelika Seidel 与 Jesse Prinz（2013b）发现，音乐可诱发正面或负面情感，进而改变道德评价：大致说来，欢快的音乐使人更容易判断某事为善，愤怒的音乐使人更容易判断某事为错。Seidel 与 Prinz（2013a）还发现，愤怒与厌恶这两种不同的负面音乐情感，会影响不同类别道德判断的严厉程度。Ansani 及其同事（2024）给出了更复杂的结果：音乐专长可能使人更偏重个体化的道德基础，而非约束性的道德基础。
   - id: 83
     kind: body
     source: |-
       ## 8. Methodological Debates
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 8. 方法论争论
+    step2: |-
+      ## 8 方法论争论
   - id: 84
     kind: body
     source: |-
       Throughout this entry, we have generally focused on recent empirical research done by philosophers on topics in philosophy of art and aesthetics. However, this scope is admittedly arbitrary. As noted at the start, the research program that we have surveyed is continuous with empirical aesthetics in psychology, and comes from a long historical tradition that encompasses both philosophy and psychology. The principal reasons to draw boundaries are pragmatic ones.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      贯穿本词条，我们大体上聚焦于哲学家就艺术哲学与美学议题所做的晚近经验研究。然而，这一范围无疑是任意的。正如开头所指出的，我们所综述的研究纲领与心理学中的经验美学一脉相承，并源于一个同时涵盖哲学与心理学的悠久历史传统。划定边界的主要理由是实用的。
+    step2: |-
+      本词条大体聚焦于哲学家就艺术哲学与美学问题所作的晚近经验研究。但这一范围无疑是任意划定的。诚如开头所言，我们所综述的研究纲领与心理学中的经验美学一脉相承，其来源是一个兼含哲学与心理学的悠久传统。划定边界，主要出于实用考虑。
   - id: 85
     kind: body
     source: |-
       Like other branches of experimental philosophy, experimental philosophy of art and aesthetics involves gathering data using empirical methods and bringing analyses of the data to bear on philosophical theorizing. As a matter of general fact, research in experimental philosophy is relatively replicable (Cova, Strickland, et al. 2021), and relatively free of scientific misconduct such as p-hacking (Stuart, Colaço, & Machery 2019). While experimental philosophy of art and aesthetics is bolstered by this general track record, it also inherits a number of methodological challenges from experimental philosophy and related areas of psychology regarding instruments, samples, and stimuli.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与其他实验哲学分支一样，艺术与美学的实验哲学运用经验方法收集数据，并把对数据的分析用于哲学理论建构。就一般事实而言，实验哲学研究相对可重复（Cova, Strickland, et al. 2021），也相对少有 p-hacking 之类的科学不端行为（Stuart, Colaço, & Machery 2019）。尽管艺术与美学的实验哲学受益于这一总体记录，它也从实验哲学与心理学相关领域继承了一系列关于工具、样本与刺激物的方法论挑战。
+    step2: |-
+      与其他实验哲学分支一样，艺术与美学的实验哲学以经验方法收集数据，再以数据分析支撑哲学理论建构。就总体情况而言，实验哲学研究的可重复性较好（Cova, Strickland, et al. 2021），也较少出现 p 值操纵（p-hacking）之类的科研不端（Stuart, Colaço, & Machery 2019）。尽管有此总体记录作后盾，这一领域仍从实验哲学与心理学相关领域继承了一系列方法论难题，涉及工具、样本与刺激物。
   - id: 86
     kind: body
     source: |-
       By far, the most common instrument used in experimental philosophy of art and aesthetics is—like other branches of experimental philosophy and related areas of psychology—the questionnaire. Participants’ responses are measured by their answers to questions posed by the researchers. Nick Zangwill (2019) expresses a general skepticism toward studies that use questionnaires, and criticizes experimental philosophy of art and aesthetics for its wide use of this specific measurement instrument. Drawing inspiration from Wittgenstein, Zangwill is pessimistic about the questionnaire’s attempt to use language to reveal agents’ thoughts generally. In addition, he is pessimistic about the questionnaire’s capacity to reveal agents’ normative judgments, such as judgments of beauty, as opposed to non-normative judgments, such as judgments of agreeableness. Zangwill’s critique could be taken as an invitation for experimental philosophers to explore methodological tools beyond the questionnaire. In fact, some philosophers have already experimented with eye movement tracking (Wright et al. 2019)[^wright-2019], virtual reality (Francis et al. 2016)[^francis-2016], electroencephalography (Bricker 2020)[^bricker-2020], and corpus analysis (Liao, McNally, & Meskin 2016; McNally & Stojanovic 2017; Sytsma et al. 2019; Chartrand 2022; Doran, forthcoming a)[^chartrand-2022][^mcnally-2017][^sytsma-2019]. Some of these or other proposed methods (see Fischer & Curtis 2019; Fischer & Sytsma 2023)[^fischer-2019][^fischer-2023] might also enrich experimental aestheticians’ toolboxes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      迄今为止，艺术与美学的实验哲学中最常用的工具——与其他实验哲学分支及心理学相关领域一样——是问卷。被试的反应以他们对研究者所提问题的回答来衡量。Nick Zangwill（2019）对使用问卷的研究表达了总体上的怀疑，并批评艺术与美学的实验哲学广泛使用这一特定测量工具。Zangwill 受维特根斯坦启发，对问卷试图用语言揭示行动者思想的做法总体持悲观态度。此外，他对问卷揭示行动者规范性判断（如对美的判断）而非非规范性判断（如对宜人性的判断）的能力也持悲观态度。Zangwill 的批评可以被看作是对实验哲学家的邀请，去探索问卷之外的方法论工具。事实上，一些哲学家已经尝试了眼动追踪（Wright et al. 2019）[^wright-2019]、虚拟现实（Francis et al. 2016）[^francis-2016]、脑电图（Bricker 2020）[^bricker-2020]以及语料分析（Liao, McNally, & Meskin 2016; McNally & Stojanovic 2017; Sytsma et al. 2019; Chartrand 2022; Doran, forthcoming a）[^chartrand-2022][^mcnally-2017][^sytsma-2019]。其中一些方法或其他被提出的方法（见 Fischer & Curtis 2019; Fischer & Sytsma 2023）[^fischer-2019][^fischer-2023]也许还能充实实验美学家的工具箱。
+    step2: |-
+      在艺术与美学的实验哲学中，最常用的工具（一如其他实验哲学分支及心理学相关领域）是问卷：被试的反应由其对研究者所提问题的回答来衡量。Nick Zangwill（2019）对问卷研究整体持怀疑态度，并批评这一领域过度依赖这一测量工具。他受维特根斯坦启发，不相信问卷能借语言揭示行动者的思想，更怀疑它能否揭示行动者的规范性判断（如对美的判断），而非宜人性之类的非规范性判断。Zangwill 的批评不妨视为对实验哲学家的邀约：去探索问卷之外的工具。事实上，已有哲学家尝试眼动追踪（Wright et al. 2019）[^wright-2019]、虚拟现实（Francis et al. 2016）[^francis-2016]、脑电图（Bricker 2020）[^bricker-2020]与语料分析（Liao, McNally, & Meskin 2016; McNally & Stojanovic 2017; Sytsma et al. 2019; Chartrand 2022; Doran, forthcoming a）[^chartrand-2022][^mcnally-2017][^sytsma-2019]。这些方法及其他被提议的方法（见 Fischer & Curtis 2019; Fischer & Sytsma 2023）[^fischer-2019][^fischer-2023]，也许都能充实实验美学家的工具箱。
   - id: 87
     kind: body
     source: |-
       The most common sample used in experimental philosophy of art and aesthetics is—once again, like other branches of experimental philosophy and related areas of psychology—WEIRD: participants from Western, Educated, Industrialized, Rich, and Democratic countries (Henrich, Heine, & Norenzayan 2010). Whether responses from these WEIRD participants are representative of people in general remains an open question. Within experimental philosophy (and related areas in psychology), there is an ongoing debate about the legitimacy of making theoretical generalizations based on empirical results from WEIRD samples (for criticisms, see Stich & Machery 2023 and Peters & Lemeire 2024; for defenses, see Knobe 2019, 2021)[^knobe-2019][^peters-2024][^stich-2023]. Clearly, this ongoing debate impacts the evidentiary value of existing research in experimental philosophy of art and aesthetics as well.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      艺术与美学的实验哲学中最常用的样本——再次，与其他实验哲学分支及心理学相关领域一样——是 WEIRD 样本：来自西方、受过教育、工业化、富裕与民主国家的被试（Henrich, Heine, & Norenzayan 2010）。这些 WEIRD 被试的反应是否代表一般人群，仍是一个悬而未决的问题。在实验哲学（以及心理学相关领域）内部，关于依据 WEIRD 样本的经验结果作出理论概括是否正当，存在持续争论（批评见 Stich & Machery 2023 与 Peters & Lemeire 2024；辩护见 Knobe 2019, 2021）[^knobe-2019][^peters-2024][^stich-2023]。显然，这场持续争论也影响艺术与美学的实验哲学中现有研究的证据价值。
+    step2: |-
+      这一领域最常用的样本（同样与其他实验哲学分支及心理学相关领域一样）是 WEIRD 样本，即来自西方（Western）、受过教育（Educated）、工业化（Industrialized）、富裕（Rich）、民主（Democratic）国家的被试（Henrich, Heine, & Norenzayan 2010）。这类被试的反应能否代表一般人群，仍是悬案。实验哲学（及心理学相关领域）内部一直在争论：依据 WEIRD 样本的经验结果作出理论概括是否正当（批评见 Stich & Machery 2023 与 Peters & Lemeire 2024；辩护见 Knobe 2019, 2021）[^knobe-2019][^peters-2024][^stich-2023]。这场争论显然也影响本领域现有研究的证据价值。
   - id: 88
     kind: body
     source: |-
       That said, it is important to highlight a couple of cross-cultural works in experimental philosophy of art and aesthetics. In one work, Florian Cova, Christopher Olivola, and colleagues (2019) extend Cova’s earlier research on the intersubjective validity of aesthetic judgments to a sample that includes participants from 19 countries on four continents. Across six geographical areas (Europe, Middle East, Central and North America, South America, East Asia, and South and Southeast Asia), they found both variations and convergences in patterns of responses. While participants from East Asia tend to endorse ‘subjectivism’ about aesthetic judgments (when two people disagree, both can be correct), participants from other geographical areas tend to endorse ‘nihilism’ (when two people disagree, neither is correct or incorrect). At the same time, people everywhere tend to not endorse ‘realism’ (when two people disagree, at most one can be correct). In another work, Constant Bonard (2019) conducted studies in Switzerland and India to vindicate the hypothesis that musical idioms have grammatical structures. The grammar of Western classical music was found to be more recognizable to Switzerland participants than Indian participants, but no reverse asymmetry was found for South Indian classical music. Another study investigated aesthetic judgments of mathematical beauty between Chinese and British mathematicians and found that they do not seem to be strongly influenced by cultural differences (Sa et al. 2024). As things stand, these three cross-cultural works remain the exception, and not the norm, in experimental philosophy of art and aesthetics. The fact that the vast majority of work has been conducted with Western European and American samples is not dissimilar to the situation in empirical aesthetics (see Che, Sun, Gallardo, & Nadal 2018)[^nadal-2018] or music cognition (see Jacoby et al 2020)[^jacoby-2020]. As such, this is a problem that needs to be addressed in all fields that empirically study art and aesthetics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      话虽如此，仍有必要强调艺术与美学的实验哲学中的少数几项跨文化工作。在一项工作中，Florian Cova、Christopher Olivola 及其同事（2019）把 Cova 早先关于审美判断主体间有效性的研究扩展到包含四大洲十九个国家被试的样本。在六个地理区域（欧洲、中东、中北美、南美、东亚、南亚与东南亚），他们既发现了回答模式上的差异，也发现了趋同。东亚被试倾向于赞同关于审美判断的“主观主义”（两人分歧时，双方都可以正确），其他地理区域的被试则倾向于赞同“虚无主义”（两人分歧时，双方都不正确）。与此同时，各地的人们都倾向于不赞同“实在论”（两人分歧时，至多一方正确）。在另一项工作中，Constant Bonard（2019）在瑞士与印度进行研究，以验证音乐习语具有语法结构的假设。西方古典音乐的语法对瑞士被试而言比印度被试更易识别，但南印度古典音乐则未出现反向的不对称。另一项研究考察了中国与英国数学家对数学美的审美判断，发现它们似乎并未受到文化差异的强烈影响（Sa et al. 2024）。就目前而言，这三项跨文化工作仍是艺术与美学的实验哲学中的例外，而非常态。绝大多数工作以西欧与美国样本进行，这与经验美学（见 Che, Sun, Gallardo, & Nadal 2018）[^nadal-2018]或音乐认知（见 Jacoby et al 2020）[^jacoby-2020]的处境并无二致。因此，这是所有经验地研究艺术与美学的领域都需要解决的问题。
+    step2: |-
+      话虽如此，本领域中仍有几项跨文化研究值得强调。其一是 Florian Cova、Christopher Olivola 及其同事（2019）把 Cova 早先关于审美判断主体间有效性的研究扩展到四大洲十九个国家的被试。在六个地理区域（欧洲、中东、中北美、南美、东亚、南亚与东南亚），回答模式既有差异也有趋同：东亚被试倾向于接受审美判断的“主观主义”（两人分歧时，双方皆可正确），其他地区的被试则倾向于接受“虚无主义”（两人分歧时，双方都不正确）；但各地人们普遍不接受“实在论”（两人分歧时，至多一方正确）。其二是 Constant Bonard（2019）在瑞士与印度检验音乐习语具有语法结构之假设：西方古典音乐的语法对瑞士被试比印度被试更易识别，南印度古典音乐却未表现出反向的不对称。另有一项研究比较中国与英国数学家对数学美的审美判断，发现其似未受文化差异的强烈影响（Sa et al. 2024）。就现状而言，这三项跨文化研究在艺术与美学的实验哲学中仍属例外而非常态。绝大多数研究使用西欧与美国样本，这与经验美学（见 Che, Sun, Gallardo, & Nadal 2018）[^nadal-2018]及音乐认知（见 Jacoby et al 2020）[^jacoby-2020]的处境并无不同。因此，举凡以经验方法研究艺术与美学的领域，都须正视这一问题。
   - id: 89
     kind: body
     source: |-
