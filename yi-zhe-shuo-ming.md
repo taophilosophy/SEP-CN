@@ -2425,3 +2425,17 @@
 | separate substances / separate intellects | — | 独立实体／独立理智 | condemnation 首译 | 托马斯—阿维森纳体系通行汉译（substantiae separatae）；凭证 2026-11-08 | 2026-11-08 |
 | doctrinal investigation / censure | — | 教义调查／教义谴责 | condemnation 首译 | 中世纪大学审查制度通行汉译（conventio/censura doctrinalis）；凭证 2026-11-08 | 2026-11-08 |
 | necromancy / geomancy / divination | — | 死灵术／地占术／占卜 | condemnation 首译 | 中世纪禁书类目通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| previsions | — | 预现 | 首现（imprecise-probabilities） | 学界惯例（Walley 术语：期望的推广形式）；凭证 2026-11-08 | 2026-11-08 |
+| prospect | — | 前景 | 首现（imprecise-probabilities） | 学界惯例（决策论通行）；凭证 2026-11-08 | 2026-11-08 |
+| ambiguity | — | 歧义（决策论：结果概率未知或仅部分已知） | 首现（imprecise-probabilities） | 学界惯例（Ellsberg 文献通行；与 vagueness 模糊性分列）；凭证 2026-11-08 | 2026-11-08 |
+| risk (decision theory) | — | 风险 | 首现（imprecise-probabilities） | 学界惯例（与 ambiguity 歧义对举）；凭证 2026-11-08 | 2026-11-08 |
+| ambiguity aversion | — | 歧义厌恶 | 首现（imprecise-probabilities） | 学界惯例（Ellsberg 悖论文献）；凭证 2026-11-08 | 2026-11-08 |
+| probabilistic orthodoxy | — | 概率论正统 | 首现（imprecise-probabilities） | 构词直译（orthodox/precise probabilism 的对举面）；凭证 2026-11-08 | 2026-11-08 |
+| expected utility maximiser | — | 期望效用最大化者 | 首现（imprecise-probabilities） | 学界惯例（决策论通行）；凭证 2026-11-08 | 2026-11-08 |
+| qualitative probability ordering | — | 定性概率排序 | 首现（imprecise-probabilities） | 学界惯例（概率哲学通行）；凭证 2026-11-08 | 2026-11-08 |
+| representation theorem | — | 表征定理 | 首现（imprecise-probabilities） | 学界惯例（决策论与测量论通行）；凭证 2026-11-08 | 2026-11-08 |
+| completion (of a preference ordering) | — | 完全化 | 首现（imprecise-probabilities） | 学界惯例（序理论通行）；凭证 2026-11-08 | 2026-11-08 |
+| regulative ideal | — | 范导性理想 | 首现（imprecise-probabilities） | 学界惯例（康德研究通行译法）；凭证 2026-11-08 | 2026-11-08 |
+| behaviourism | — | 行为主义 | 首现（imprecise-probabilities） | 学界惯例（心理学与心灵哲学通行）；凭证 2026-11-08 | 2026-11-08 |
+| Ellsberg problem | — | Ellsberg 问题 | 首现（imprecise-probabilities） | 自译裁定（保留英文姓氏，现代学者人名不汉译）；凭证 2026-11-08 | 2026-11-08 |
+| idealised evidential position | — | 理想化证据位置 | 首现（imprecise-probabilities） | 构词直译；凭证 2026-11-08 | 2026-11-08 |

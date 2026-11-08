@@ -290,56 +290,74 @@ segments:
     kind: body
     source: |-
       Partly because of Levi’s injunction to distinguish “imprecise” from “indeterminate” belief, some have objected to the use of the term “imprecise probability”. Using the above distinction between indeterminate, unspecific and imperfectly introspected belief, we can keep separate the categories Levi wanted to keep separate all without using the term “imprecise”. We can then use “imprecise” as an umbrella term to cover all these cases of lack of precision. Conveniently, this allows us to stay in line with the wealth of formal work on “Imprecise Probabilities” which term is used to cover cases of indeterminacy. This usage goes back at least to Peter Walley’s influential book *Statistical Reasoning with Imprecise Probabilities* (Walley 1991)[^walley-1991].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      部分由于 Levi 要求区分“不精确的”信念与“非确定的”信念，有人反对使用“非精确概率”这一术语。借用上述非确定、不具体与内省不完善三类信念的区分，我们可以把 Levi 想分开的各类保持分开，而无需使用“非精确”一词。于是我们可以把“非精确”用作涵盖所有这些缺乏精确性情形的总称。方便的是，这使我们得以与“Imprecise Probabilities”的大量形式工作保持一致——该术语被用来涵盖非确定的情形。这一用法至少可追溯到 Peter Walley 那本影响深远的著作 *Statistical Reasoning with Imprecise Probabilities*（Walley 1991）[^walley-1991]。
+    step2: |-
+      部分因为 Levi 力主把“不精确的”信念与“非确定的”信念区别开来，有人反对使用“非精确概率”这一说法。借助上述非确定、不具体与内省不完善的三分，我们既能保住 Levi 所要保住的区分，又不必动用“不精确”一词；随后便可把“非精确”当作统称，覆盖所有这些缺乏精确性的情形。方便之处在于，这样做与围绕“Imprecise Probabilities”的大量形式工作保持一致——该名目正是用来涵盖非确定情形的。这一用法至少可以追溯到 Peter Walley 那部影响深远的著作 *Statistical Reasoning with Imprecise Probabilities*（Walley 1991）[^walley-1991]。
   - id: 32
     kind: body
     source: |-
       So, “Imprecise” is not quite right, but neither is “Probability” since the formal theory of IP is really about *previsions* (sort of expectations) rather than just about probability (expectations of indicator functions). Helpfully, if I abbreviate Imprecise Probability to “IP” then I can exploit some useful ambiguities.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以，“Imprecise”并不十分恰当，但“Probability”也不尽然，因为 IP 的形式理论其实关乎 *previsions*（预现，某种期望），而不只是关乎概率（指示函数的期望）。所幸，若把 Imprecise Probability 缩写成“IP”，我便可以利用一些有用的歧义。
+    step2: |-
+      可见“Imprecise”不甚妥当，“Probability”亦然：IP 的形式理论真正谈论的是 *previsions*（预现，可理解为一种期望），而不止于概率（即指示函数的期望）。好在把 Imprecise Probability 缩写成“IP”之后，一些有用的歧义恰好可以为我所用。
   - id: 33
     kind: body
     source: |-
       ## 2. Motivations
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. Motivations
+    step2: |-
+      ## 2 动机
   - id: 34
     kind: body
     source: |-
       Let’s consider, in general terms, what sort of motivations one might have for adopting models that fall under the umbrella of IP. The focus will be on models of rational belief, since these are the models that philosophers typically focus on, although it is worth noting that statistical work using IP isn’t restricted to this interpretation. Note that no one author endorses all of these arguments, and indeed, some authors who are sympathetic to IP have explicitly stated that they don’t consider certain of these arguments to be good (for example Mark Kaplan does not endorse the claim that concerns about descriptive realism suggest allowing incompleteness).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      让我们一般地考察：人们可能出于何种动机采用属于 IP 旗下的模型。重点将放在理性信念的模型上，因为哲学家通常关注这类模型；不过值得一提的是，使用 IP 的统计学工作并不局限于这一解释。注意：没有哪位作者赞同所有这些论证；事实上，一些同情 IP 的作者明确表示，他们认为其中某些论证并不好（例如 Mark Kaplan 并不赞同如下主张：对描述性实在论的关切提示我们应当允许不完备性）。
+    step2: |-
+      我们不妨一般地想一想，人们采用 IP 旗下各类模型的动机可能有哪些。重点放在理性信念的模型上，因为哲学家通常关注这一类；不过也应注意，采用 IP 的统计学工作并不限于这种解释。需要说明的是，没有哪位作者会赞同这里的全部论证；一些同情 IP 的作者甚至明言，他们认为其中某些论证并不成立（例如 Mark Kaplan 就不接受“对描述性实在论的关切提示应允许不完备性”这一主张）。
   - id: 35
     kind: body
     source: |-
       ### 2.1 Ellsberg decisions
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 Ellsberg decisions
+    step2: |-
+      ### 2.1 Ellsberg 决策
   - id: 36
     kind: body
     source: |-
       There are a number of examples of decision problems where we are intuitively drawn to go against the prescriptions of precise probabilism. And indeed, many experimental subjects do seem to express preferences that violate the axioms. IP offers a way of representing these intuitively plausible and experimentally observed choices as rational. One classic example of this is the *Ellsberg problem* (Ellsberg 1961)[^ellsberg-1961].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有许多决策问题的例子，我们在直觉上倾向于违背精确概率主义的指令。而且，许多实验受试者确实表现出违反公理的偏好。IP 提供了一种方式，把这类直觉上合理、实验上观察到的选择表征为理性的。一个经典例子是 *Ellsberg problem*（Ellsberg 1961）[^ellsberg-1961]。
+    step2: |-
+      有不少决策问题的例子，会让人直觉上想要违背精确概率主义的指令；许多实验受试者也确实表现出违反公理的偏好。IP 提供了一条途径，可以把这类合乎直觉、又见于实验的选择刻画为理性的。经典一例即 *Ellsberg problem*（Ellsberg 1961）[^ellsberg-1961]。
   - id: 37
     kind: body
     source: |-
       > I have an urn that contains ninety marbles. Thirty marbles are red. The remainder are blue or yellow in some unknown proportion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我有一只罐子，里面有九十颗弹珠。三十颗是红的。其余的为蓝色或黄色，比例未知。
+    step2: |-
+      > 我有一只罐，内装九十颗弹珠：三十颗为红色，其余为蓝色或黄色，两者比例不详。
   - id: 38
     kind: body
     source: |-
       Consider the indicator gambles for various events in this scenario. Consider a choice between a bet that wins if the marble drawn is red (I), versus a bet that wins if the marble drawn is blue (II). You might prefer I to II since I involves *risk* while II involves *ambiguity*. A prospect is risky if its outcome is uncertain but its outcomes occur with known probability. A prospect is ambiguous if the outcomes occur with unknown or only partially known probabilities. Now consider a choice between a bet that wins if the marble drawn is not blue (III) versus a bet that wins if the marble drawn is not red (IV). Now it is III that is ambiguous, while IV is unambiguous but risky, and thus IV might seem better to you if you preferred risky to ambiguous prospects. Such a pattern of preferences (I preferred to II but IV preferred to III) cannot be rationalised as the choices of a precise expected utility maximiser. The gambles are summarised in the table.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      考虑此情景中各种事件的指示赌局。考虑在“抽到红球即赢”（I）的赌与“抽到蓝球即赢”（II）的赌之间作选择。你可能偏好 I 甚于 II，因为 I 涉及 *风险*，而 II 涉及 *歧义*。一个前景若其结果不确定、但结果以已知概率出现，就是有风险的。一个前景若其结果以未知或仅部分已知的概率出现，就是有歧义的。现在考虑在“抽到的不是蓝球即赢”（III）与“抽到的不是红球即赢”（IV）之间作选择。此时有歧义的是 III，而 IV 无歧义但有风险；因此若你偏好有风险甚于有歧义的前景，IV 在你看来可能更好。这样的偏好模式（偏好 I 甚于 II，却偏好 IV 甚于 III）无法被合理化为一位精确期望效用最大化者的选择。这些赌局汇总于表中。
+    step2: |-
+      试看此情景中各事件的指示赌局。先在“抽到红色即赢”（I）与“抽到蓝色即赢”（II）之间选择：你或许偏好 I 而非 II，因为 I 涉及 *risk*（风险），II 则涉及 *ambiguity*（歧义）。一个前景，若其结果不确定、但各结果以已知概率出现，便是有风险的；若各结果出现的概率未知或仅部分已知，则是有歧义的。再在“抽到的不是蓝色即赢”（III）与“抽到的不是红色即赢”（IV）之间选择：此时有歧义的是 III，IV 虽无歧义却有风险，故若你宁愿承担风险而不愿面对歧义，IV 在你看来便较好。这样一种偏好模式（宁取 I 而不取 II，却宁取 IV 而不取 III），无法被合理化为精确期望效用最大化者的选择。诸赌局汇总于下表。
   - id: 39
     kind: body
     source: |-
       *Table 1:*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Table 1:*
+    step2: |-
+      *表 1：*
   - id: 40
     kind: body
     source: |-
@@ -349,128 +367,180 @@ segments:
       | II | 0 | 1 | 0 |
       | III | 1 | 0 | 1 |
       | IV | 0 | 1 | 1 |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      |   | R | B | Y |
+      | --- | --- | --- | --- |
+      | I | 1 | 0 | 0 |
+      | II | 0 | 1 | 0 |
+      | III | 1 | 0 | 1 |
+      | IV | 0 | 1 | 1 |
+    step2: |-
+      |   | R | B | Y |
+      | --- | --- | --- | --- |
+      | I | 1 | 0 | 0 |
+      | II | 0 | 1 | 0 |
+      | III | 1 | 0 | 1 |
+      | IV | 0 | 1 | 1 |
   - id: 41
     kind: body
     source: |-
       Table 1: The Ellsberg bets. The urn contains 30 red marbles and 60 blue/yellow marbles
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Table 1: The Ellsberg bets. The urn contains 30 red marbles and 60 blue/yellow marbles
+    step2: |-
+      表 1：Ellsberg 赌局。罐中有 30 颗红色弹珠，60 颗蓝色／黄色弹珠
   - id: 42
     kind: body
     source: |-
       Let the probabilities for red, blue and yellow marbles be $r$, $b$ and $y$ respectively. If you were an expected utility maximiser and preferred I to II, then $r > b$ and a preference for IV over III entails that $r+y < y +b$. No numbers can jointly satisfy these two constraints. Therefore, no probability function is such that an expected utility maximiser with that probability would choose in the way described above. While by no means universal, these preferences are a robust feature of many experimental subjects’ response to this sort of example (Camerer and Weber 1992; Fox and Tversky 1995)[^camerer-1992][^fox-1995]. Some experiments suggest that Ellsberg-type patterns of preference are rarer than normally recognised (Binmore et al. 2012; Voorhoeve et al. 2016)[^binmore-2012][^voorhoeve-2016]. For more on ambiguity attitudes, see Trautmann and van der Kuilen (2016).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      设红、蓝、黄弹珠的概率分别为 $r$、$b$ 与 $y$。若你是期望效用最大化者且偏好 I 甚于 II，则 $r > b$；而偏好 IV 甚于 III 意味着 $r+y < y+b$。没有任何数值能同时满足这两个约束。因此，不存在这样的概率函数：以该概率行事的期望效用最大化者会按上述方式选择。这类偏好虽非普遍，却是许多实验受试者在此类例子中反应的稳健特征（Camerer and Weber 1992; Fox and Tversky 1995）[^camerer-1992][^fox-1995]。一些实验表明，Ellsberg 型偏好模式比通常认为的更为少见（Binmore et al. 2012; Voorhoeve et al. 2016）[^binmore-2012][^voorhoeve-2016]。关于模糊态度的更多内容，见 Trautmann and van der Kuilen（2016）。
+    step2: |-
+      令红、蓝、黄三色弹珠的概率分别为 $r$、$b$、$y$。倘若你是期望效用最大化者而偏好 I 甚于 II，则 $r > b$；偏好 IV 甚于 III 则意味着 $r+y < y+b$。没有任何一组数值能同时满足这两个约束。可见，不存在哪个概率函数能使以之为准的期望效用最大化者作出上述选择。这类偏好虽非人皆有之，却是许多实验受试者面对此类例子时相当稳固的反应（Camerer and Weber 1992; Fox and Tversky 1995）[^camerer-1992][^fox-1995]。也有实验提示，Ellsberg 型偏好模式比一般所认为的更为罕见（Binmore et al. 2012; Voorhoeve et al. 2016）[^binmore-2012][^voorhoeve-2016]。关于模糊态度的进一步讨论，见 Trautmann and van der Kuilen（2016）。
   - id: 43
     kind: body
     source: |-
       The imprecise probabilist can model the situation as follows: $P(R)=1/3, P(B)=P(Y)=[0,2/3]$. Note that this expression of the belief state misses out some important details. For example, for all $p\in P$, we have $p(B)=2/3-p(Y)$. For the point being made here, this detail is not important. Modelling the ambiguity allows us to rationalise real agents’ preferences for bets on red. To flesh this story out would require a lot more to be said about decision making, (see section 3.3) but the intuition is that aversion to ambiguity explains the preference for I over II and IV over III.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      非精确概率论者可以把该情景建模如下：$P(R)=1/3, P(B)=P(Y)=[0,2/3]$。注意，这一信念状态的表达遗漏了一些重要细节。例如，对所有 $p\in P$，都有 $p(B)=2/3-p(Y)$。就此处所论之点而言，这一细节并不重要。对歧义建模，使我们得以把现实行动者对押注红色的偏好合理化为理性的。要把这一说明充实起来，还需要对决策作更多讨论（见 3.3 节），但其直觉是：对歧义的厌恶解释了偏好 I 甚于 II、IV 甚于 III。
+    step2: |-
+      非精确概率论者可把该情境建模如下：$P(R)=1/3, P(B)=P(Y)=[0,2/3]$。须注意，这一信念状态的表述遗漏了若干重要细节，例如对所有 $p\in P$ 都有 $p(B)=2/3-p(Y)$；但就眼下所论之点而言，这些细节无关紧要。对歧义加以建模，便可把现实行动者押注红色的偏好合理化为理性的。要把这套说法讲周全，还需对决策有更多交代（见 3.3 节），但其直觉在于：对歧义的厌恶解释了宁取 I 而不取 II、宁取 IV 而不取 III 的偏好。
   - id: 44
     kind: body
     source: |-
       As Steele (2007) points out, the above analysis rationalises the Ellsberg choices only if we are dealing with genuinely indeterminate or unspecific beliefs. If we were dealing with a case of imperfectly introspected belief then there would exist some $p$ in the representor such that rational choices maximise $E_{p}$. For the Ellsberg choices, there is no such $p$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如 Steele（2007）所指出的，上述分析只有在我们面对的是真正非确定或不具体的信念时，才把 Ellsberg 选择合理化为理性的。若我们面对的是内省不完善的信念情形，则表征集会中存在某个 $p$，使理性选择最大化 $E_{p}$。就 Ellsberg 选择而言，并不存在这样的 $p$。
+    step2: |-
+      如 Steele（2007）所言，上述分析唯有在面对真正非确定或不具体的信念时，才足以把 Ellsberg 式选择合理化。倘若所涉情形只是内省不完善的信念，那么表征集之中必存在某个 $p$，使理性选择最大化 $E_{p}$；而就 Ellsberg 选择而言，这样的 $p$ 并不存在。
   - id: 45
     kind: body
     source: |-
       This view on the lessons of the Ellsberg game is not uncontroversial. Al-Najjar and Weinstein (2009) offer an alternative view on the interpretation of the Ellsberg preferences. Their view is that the distinctive pattern of Ellsberg choices is due to agents applying certain heuristics to solve the decisions that assume that the odds are manipulable. In real-life situations, if someone offers you a bet, you might think that they must have some advantage over you in order for it to be worth their while offering you the bet. Such scepticism, appropriately modelled, can yield the Ellsberg choices within a simple game theoretic precise probabilistic model.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于 Ellsberg 博弈之教益的这一看法并非没有争议。Al-Najjar and Weinstein（2009）对 Ellsberg 偏好的解释提出了另一种看法。他们认为，Ellsberg 选择那种独特模式，是由于行动者运用某些启发式来求解决策，而这些启发式假定赔率是可操纵的。在现实生活中，若有人向你提供一项赌局，你可能会想：对方必定对你占有某种优势，这项赌局才值得他开出。这种怀疑态度若得到恰当的建模，就可以在一个简单的博弈论精确概率模型内部产生 Ellsberg 选择。
+    step2: |-
+      对 Ellsberg 博弈之教益的这一读解并非无争议。Al-Najjar and Weinstein（2009）对 Ellsberg 偏好给出了另一种解释：他们主张，Ellsberg 选择之所以呈现那种独特模式，是因为行动者求解决策时运用了某些启发式，而这些启发式预设赔率可被操纵——现实生活中，若有人向你兜售一项赌局，你或许会想，对方必是对你占了某种便宜，才值得他开出此局。这种怀疑态度只要建模得当，便可在简单的博弈论精确概率模型内部复现 Ellsberg 选择。
   - id: 46
     kind: body
     source: |-
       ### 2.2 Incompleteness and incomparability
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 Incompleteness and incomparability
+    step2: |-
+      ### 2.2 不完备性与不可比性
   - id: 47
     kind: body
     source: |-
       Various arguments for (precise) probabilism assume that some relation or other is complete. Whether this is a preference over acts, or some “qualitative probability ordering”, the relation is assumed to hold one way or the other between any two elements of the domain. This hardly seems like it should be a principle of rationality, especially in cases of severe uncertainty. That is—to take the preference example—it is reasonable to have no preference in either direction. This is an importantly different attitude to being *indifferent* between the options. Mark Kaplan argues this point as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      支持（精确）概率主义的各种论证都假定某种关系是完全的。无论这是对行动项的偏好，还是某种“定性概率排序”，该关系都被假定在论域中任意两个元素之间总以某种方式成立。这很难说应当成为一条理性原则，在严重不确定的情形中尤其如此。也就是说——以偏好为例——在两个方向上都没有偏好，是合理的。这与在诸选项之间 *无差异* 是一种重要不同的态度。Mark Kaplan 对此论证如下：
+    step2: |-
+      为（精确）概率主义辩护的种种论证，都预设某种关系是完全的：不论是对行动项的偏好，还是某种“定性概率排序”，都假定该关系在论域任取两元素时必以某一方向成立。这很难算得上一条理性原则，在严重不确定的情形下尤其如此。以偏好为例：在两个方向上都不持偏好，本是合理的。这与对诸选项抱持 *indifferent*（无差异）的态度迥然不同。Mark Kaplan 对此作了如下论证：
   - id: 48
     kind: body
     source: |-
       > Both when you are indifferent between $A$ and $B$ and when you are undecided between $A$ and $B$ you can be said not to prefer either state of affairs to the other. Nonetheless, indifference and indecision are distinct. When you are indifferent between $A$ and $B$, your failure to prefer one to the other is born of a determination that they are equally preferable. When you are undecided, your failure to prefer one to the other is born of no such determination. (Kaplan 1996: 5)[^kaplan-1996]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 当你对 $A$ 与 $B$ 无差异时，以及当你在 $A$ 与 $B$ 之间踌躇未决时，都可以说你并不偏好其中任一状况。然而，无差异与踌躇未决是两回事。当你对 $A$ 与 $B$ 无差异时，你不偏好其一，是出于断定二者同样可取；当你踌躇未决时，你不偏好其一，则并非出于这种断定。（Kaplan 1996: 5）[^kaplan-1996]
+    step2: |-
+      > 当你对 $A$ 与 $B$ 无差异时，或当你在 $A$ 与 $B$ 之间踌躇未决时，都可以说你不偏袒其中任一状况。然而，无差异与踌躇未决判然有别：当你对 $A$ 与 $B$ 无差异时，你不偏向其一，源于你断定二者同样可取；当你踌躇未决时，你不偏向其一，则并无这样的断定。（Kaplan 1996: 5）[^kaplan-1996]
   - id: 49
     kind: body
     source: |-
       There is a standard *behaviourist* response to the claim that incomparability and indifference should be distinguished. In short, the claim is that it is a distinction that cannot be inferred from actual agents’ choice behaviour. Ultimately, in a given choice situation you must choose one of the options. Which you choose can be interpreted as being (weakly) preferred. Joyce offers the following criticism of this appeal to behaviourism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对于“不可比与无差异应当区分”这一主张，有一种标准的 *行为主义* 回应。简言之，该主张认为：这一区分无法从现实行动者的选择行为中推断出来。归根到底，在给定的选择情境中，你必须选择其中一个选项。你选择哪一个，都可以被解释为（弱）偏好哪一个。Joyce 对这种诉诸行为主义的做法提出了如下批评。
+    step2: |-
+      对于“不可比应与无差异相区别”这一主张，有一种标准的 *behaviourist*（行为主义）回应，其要旨是：这一区分无法从现实行动者的选择行为中推断出来——毕竟在给定的选择情境中，你总得择其一，而你选了哪一个，便可解释为你（弱）偏好哪一个。Joyce 对这种诉诸行为主义的做法有如下批评。
   - id: 50
     kind: body
     source: |-
       > There are just too many things worth saying that cannot be said within the confines of strict behaviorism… The basic difficulty here is that it is impossible to distinguish contexts in which an agent’s behavior really does reveal what she wants from contexts in which it does not without appealing to additional facts about her mental state… An even more serious shortcoming is behaviorism’s inability to make sense of *rationalizing explanations* of choice behavior. (Joyce 1999: 21)[^joyce-1999]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 有太多值得一说的事情，在严格行为主义的樊篱之内无从说起……根本的困难在于：若不诉诸关于行动者心灵状态的额外事实，就无法把“其行为确实揭示其所欲”的语境与“并不揭示”的语境区分开来……更为严重的缺陷是，行为主义无法理解对选择行为的 *合理化解释*。（Joyce 1999: 21）[^joyce-1999]
+    step2: |-
+      > 值得一说的东西实在太多，而严格行为主义的樊篱之内却说不出多少……根本的困难在于：若不借助关于行动者心理状态的额外事实，就无法区分“其行为确实透露其所欲”的语境与“并不透露”的语境……更严重的缺陷在于，行为主义无法理解对选择行为的 *rationalizing explanations*（合理化解释）。（Joyce 1999: 21）[^joyce-1999]
   - id: 51
     kind: body
     source: |-
       On top of this, behaviourists cannot make sense of the fact that incomparable goods are *insensitive to small improvements*. That is, if $A$ and $B$ are two goods that you have no preference between (for example, bets on propositions with imprecise probabilities) and if $A^+$ is a good slightly better than $A$, then it might still be incomparable with $B$. This distinguishes incomparability from indifference, since indifference “ties” will be broken by small improvements. So the claim that there is no behavioural difference between indifference and incomparability is false.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除此之外，行为主义者也无法理解这一事实：不可比的善 *对微小的改善不敏感*。也就是说，若 $A$ 与 $B$ 是两项你并不偏好其一的善（例如对具有非精确概率的命题的押注），而 $A^+$ 是略优于 $A$ 的善，那么 $A^+$ 仍可能与 $B$ 不可比。这把不可比与无差异区别开来，因为无差异的“平局”会被微小的改善打破。因此，“无差异与不可比之间没有行为差异”这一主张是假的。
+    step2: |-
+      此外，行为主义者还无从解释如下事实：不可比的善 *对轻微的改善并不敏感*。设 $A$ 与 $B$ 是两项你并不偏好其一的善（例如对概率非精确的命题所下的押注），$A^+$ 是略胜于 $A$ 的善，则它仍可能与 $B$ 不可比。这正是不可比与无差异的分野：无差异造成的“平局”会被微小的改善打破。可见“无差异与不可比之间并无行为差异”之说为假。
   - id: 52
     kind: body
     source: |-
       Kaplan argues that not only is violating the completeness axiom permissible, it is, in fact, sometimes obligatory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Kaplan 论证说，违反完全性公理不仅是许可的，有时甚至是义务性的。
+    step2: |-
+      Kaplan 主张，违反完全性公理不仅被允许，有时甚至是一种义务。
   - id: 53
     kind: body
     source: |-
       > [M]y reason for rejecting as falsely precise the demand that you adopt a … set of preferences [that satisfy the preference axioms] is not the usual one. It is not that this demand is not humanly satisfiable. For if *that* were all that was wrong, the demand might still play a useful role as a regulative ideal—an ideal which might then be legitimately invoked to get you to “solve” your decision problem as the orthodox Bayesian would have you do. My complaint about the orthodox Bayesian demand is rather that it imposes the wrong regulative ideal. For if you have [such a] set of preferences then you have a determinate assignment of [$p$] to every hypothesis—and then you are not giving evidence its due. (Kaplan 1983: 571)[^kaplan-1983]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我之所以把“要求你采纳一组（满足偏好公理的）偏好”斥为虚假的精确，理由并非常见的那一种。我的理由并不是这一要求非人力所能满足。因为倘若 *那* 就是全部问题所在，这一要求仍可扮演有用的范导性理想——一个可以正当地被援引、以促使你像正统贝叶斯主义者所要求的那样去“解决”你的决策问题的理想。我对正统贝叶斯主义之要求的抱怨毋宁是：它强加的是错误的范导性理想。因为倘若你拥有（这样一组）偏好，你便对每一假说都有了确定的 [$p$] 赋值——于是你便没有给予证据其应得的分量。（Kaplan 1983: 571）[^kaplan-1983]
+    step2: |-
+      > 我把“要求你采纳一组（满足偏好公理的）偏好”斥为虚假的精确，理由并不是常见的那一种：我的理由并非这一要求非人力所能满足。倘若 *that*（那）便是全部症结，这要求倒仍可充当有用的范导性理想——一个可以正当地援引、以促使你像正统贝叶斯主义者所要求的那样去“解决”决策问题的理想。我对正统贝叶斯主义之要求的抱怨毋宁在于：它所强加的是错误的范导性理想。因为倘若你拥有（这样一组）偏好，你便对每一假说都有确定的 [$p$] 赋值——于是你便没有把证据应得的分量给它。（Kaplan 1983: 571）[^kaplan-1983]
   - id: 54
     kind: body
     source: |-
       He notes that it is not the case that it is always unreasonable or impossible for you to have precise beliefs: in that case precision could serve as a regulative ideal. Precise probabilism does still serve as something of a regulative ideal, but it is the belief of an ideal agent *in an idealised evidential position*. Idealised evidential positions are approximated by cases where you have a coin of a known bias. Precise probabilists and advocates of IP both agree that precise probabilism is an idealisation, and a regulative ideal. However, they differ as to what kind of idealisation is involved. Precise probabilists think that what precludes us from having precise probabilistic beliefs is merely a lack of computational power and introspective capacity. Imprecise probabilists think that even agents ideal in this sense might (and possibly *should*) fail to have precise probabilistic beliefs when they are not in an ideal *evidential* position.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      他指出，情况并非总是如此：你持有精确信念并不总是非理性的或不可能的；若果真如此，精确性便可充当范导性理想。精确概率主义确实仍在某种意义上充当范导性理想，只不过那是理想行动者 *在理想化证据位置* 上的信念。理想化的证据位置，近似于你持有一枚已知偏向的硬币这类情形。精确概率主义者与 IP 的倡导者都同意：精确概率主义是一种理想化，也是一种范导性理想。然而，他们在所涉的是何种理想化上存在分歧。精确概率主义者认为，妨碍我们持有精确概率信念的，仅仅是计算能力与内省能力的欠缺。非精确概率主义者则认为，即便在这两方面理想的行为者，当其不处于理想的 *证据* 位置时，也可能（或许还 *应当*）不具备精确的概率信念。
+    step2: |-
+      他指出，并非任何情形下你持有精确信念都属非理性或不可能；若果然如此，精确性便可充当范导性理想。精确概率主义确实仍在某种意义上充当范导性理想，只是它所刻画的是理想行动者 *在理想化证据位置* 上的信念。理想化的证据位置，近似于你手持一枚已知偏向的硬币这类情形。精确概率主义者与 IP 的倡导者都同意：精确概率主义是一种理想化，也是一种范导性理想；分歧在于所涉的是何种理想化。精确概率主义者认为，妨碍我们持有精确概率信念的，不过是计算能力与内省能力的欠缺；非精确概率主义者则认为，即便在这两方面堪称理想的行为者，只要不处于理想的 *证据* 位置，也可能（或许还 *应当*）不具备精确的概率信念。
   - id: 55
     kind: body
     source: |-
       At least some of the axioms of preference are not normative constraints. We can now ask what can be proved in the absence of the “purely structural”—non-normative—axioms? This surely gives us a handle on what is really required of the structure of belief.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      至少有一些偏好公理并不是规范性约束。我们现在可以问：在缺少“纯结构的”——非规范性的——公理的情况下，能够证明什么？这无疑有助于我们把握信念结构真正的要求何在。
+    step2: |-
+      偏好的公理中，至少有一些并非规范性约束。那么不妨问：抽掉那些“纯结构的”（非规范的）公理之后，还能证明些什么？这正好帮助我们看清，信念的结构究竟被要求到什么程度。
   - id: 56
     kind: body
     source: |-
       It seems permissible to fail to have a preference between two options. Or it seems reasonable to fail to consider either of two possibilities more likely than the other. And these failures to assent to certain judgements is not the same as considering the two elements under consideration to be *on a par* in any substantive sense. That said, precise probabilism is serving as a regulative ideal. That is, precision might still be an unattained (possibly unattainable) goal that informs agents as to how they might improve their credences. Completeness of preference is what the thoroughly informed agent ought to have. Without complete preference, standard representation theorems don’t work. However, for each *completion* of the incomplete preference ordering—for each complete ordering that extends the incomplete preference relation—the theorem follows. So if we consider the set of probability functions that are such that some completion of the incomplete preference is represented by that function, then we can consider this set to be representing the beliefs associated with the incomplete preference. We also get, for each completion, a utility function unique up to linear transformation. This, in essence, was Kaplan’s position (see Kaplan 1983; 1996)[^kaplan-1983].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在两个选项之间没有偏好，似乎是许可的；认为两种可能性中无一更可能，似乎也是合理的。而这些不肯首肯某些判断的情形，并不等同于认为所考虑的两个元素在实质意义上 *不相上下*。话虽如此，精确概率主义仍在充当范导性理想。也就是说，精确性仍可能是一个未达到（也许不可达到）的目标，它告诉行动者可以如何改进其信度。偏好的完全性，是充分掌握信息的行动者所应有的。没有完全的偏好，标准的表征定理便不成立。然而，对于不完全偏好序的每一个 *完全化*——对每一个延展该不完全偏好关系的完全序——定理都随之成立。因此，若我们考虑这样的概率函数集合：不完全偏好的某个完全化由该函数表征，那么我们就可以认为这一集合表征了与不完全偏好相联系的信念。对每个完全化，我们还得到一个在直到线性变换的意义上唯一的效用函数。这实质上就是 Kaplan 的立场（见 Kaplan 1983; 1996）[^kaplan-1983]。
+    step2: |-
+      在两个选项之间不持偏好，看来是允许的；认为两种可能性谁也不比谁更可能，看来也属合理。而这种不肯首肯某些判断的情形，并不等于认为所涉两个元素在任何实质意义上 *不相上下*。话虽如此，精确概率主义仍在充当范导性理想：精确性仍可视为一个尚未达到（或许无法达到）的目标，提示行动者可以如何改进自己的信度。偏好的完全性，是充分知情的行动者所应有的；没有完全的偏好，标准的表征定理便无从成立。然而，对不完全偏好序的每一个 *完全化*——即每一个延展该不完全偏好关系的完全序——定理都随之成立。于是，若取这样的概率函数所成之集：不完全偏好的某个完全化恰由该函数表征，便可将此集合视为表征了与不完全偏好相联系的信念。对每个完全化，我们还会得到一个直到线性变换为止唯一的效用函数。这实质上正是 Kaplan 的立场（见 Kaplan 1983; 1996）[^kaplan-1983]。
   - id: 57
     kind: body
     source: |-
       Joyce (1999: 102–4) and Jeffrey (1984: 138–41) both make similar claims. A particularly detailed argument along these lines for comparative belief can be found in Hawthorne (2009). Indeed, this idea has a long and distinguished history that goes back at least as far as B.O. Koopman (1940). I.J Good (1962), Terrence Fine (1973) and Patrick Suppes (1974) all discussed ideas along these lines. Seidenfeld, Schervish, and Kadane (1995) give a representation theorem for preference that don’t satisfy completeness. (See Evren and Ok 2011; Pedersen 2014; and Chu and Halpern 2008, 2004; for very general representation theorems)[^chu-2008][^evren-2011][^pedersen-2014][^pedersen-2014-2].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Joyce（1999: 102–4）与 Jeffrey（1984: 138–41）都提出了类似的看法。沿着这条思路为比较性信念所作的一个特别详细的论证，可见 Hawthorne（2009）。事实上，这一想法有着悠久而卓越的历史，至少可以追溯到 B.O. Koopman（1940）。I.J Good（1962）、Terrence Fine（1973）与 Patrick Suppes（1974）都讨论过这一思路。Seidenfeld、Schervish 与 Kadane（1995）给出了不满足完全性的偏好的一个表征定理。（关于非常一般的表征定理，见 Evren and Ok 2011; Pedersen 2014; 以及 Chu and Halpern 2008, 2004）[^chu-2008][^evren-2011][^pedersen-2014][^pedersen-2014-2]。
+    step2: |-
+      Joyce（1999: 102–4）与 Jeffrey（1984: 138–41）都提出了类似看法。沿此思路为比较性信念所作的一个格外细致的论证，见于 Hawthorne（2009）。这一想法其实源远流长，至少可以上溯到 B.O. Koopman（1940）；I.J Good（1962）、Terrence Fine（1973）与 Patrick Suppes（1974）都讨论过类似的思路。Seidenfeld、Schervish 与 Kadane（1995）则为不满足完全性的偏好给出了一个表征定理。（关于极为一般的表征定理，见 Evren and Ok 2011; Pedersen 2014; 以及 Chu and Halpern 2008, 2004）[^chu-2008][^evren-2011][^pedersen-2014][^pedersen-2014-2]。
   - id: 58
     kind: body
     source: |-
       ### 2.3 Weight of evidence, balance of evidence
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.3 Weight of evidence, balance of evidence
+    step2: |-
+      ### 2.3 证据权重与证据平衡
   - id: 59
     kind: body
     source: |-
       Evidence influences belief. Joyce (2005) suggests that there is an important difference between the weight of evidence and the balance of evidence. He argues that this is a distinction that precise probabilists struggle to deal with and that the distinction is worth representing. This idea has been hinted at by a great many thinkers including J.M. Keynes, Rudolf Carnap, C.S. Pierce and Karl Popper (see references in Joyce 2005; Gärdenfors and Sahlin 1982)[^gärdenfors-1982][^joyce-2005]. Here’s Keynes’ articulation of the intuition:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      证据影响信念。Joyce（2005）提出，证据权重与证据平衡之间存在重要区别。他论证说，精确概率主义者难以处理这一区分，而这一区分值得被表征出来。许多思想家都曾暗示过这一想法，包括 J.M. 凯恩斯（J.M. Keynes）、鲁道夫·卡尔纳普（Rudolf Carnap）、C.S. 皮尔士（C.S. Peirce）与卡尔·波普尔（Karl Popper）（见 Joyce 2005; Gärdenfors and Sahlin 1982 中的参考文献）[^gärdenfors-1982][^joyce-2005]。以下是凯恩斯对这一直觉的表述：
+    step2: |-
+      证据影响信念。Joyce（2005）提出，证据权重与证据平衡之间有一重要区别；他论证说，精确概率主义者难以处置这一区分，而它值得被表征出来。许多思想家都曾隐约触及这一想法，包括 J.M. 凯恩斯（J.M. Keynes）、鲁道夫·卡尔纳普（Rudolf Carnap）、C.S. 皮尔士（C.S. Peirce）与卡尔·波普尔（Karl Popper）（见 Joyce 2005; Gärdenfors and Sahlin 1982 所列文献）[^gärdenfors-1982][^joyce-2005]。凯恩斯对这一直觉的表述如下：
   - id: 60
     kind: body
     source: |-
       > As the relevant evidence at our disposal increases, the magnitude of the probability of the argument may either decrease or increase, according as the new knowledge strengthens the unfavourable or the favourable evidence; but *something* seems to have increased in either case,—we have a more substantial basis upon which to rest our conclusion. I express this by saying than an accession of new evidence increases the *weight* of an argument. (Keynes 1921: 78, Keynes’ emphasis)[^keynes-1921]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 随着我们手头相关证据的增加，该论证之概率的大小可能减少也可能增加，端视新知识加强的是不利证据还是有利证据；但在两种情形下，似乎都有 *某种东西* 增加了——我们有了更为坚实的根据来支撑结论。我这样表达：新证据的加入增加了论证的 *权重*。（Keynes 1921: 78，凯恩斯原文强调）[^keynes-1921]
+    step2: |-
+      > 随着手头相关证据的增多，该论证之概率的数值可增可减，取决于新知识加强的是不利证据还是有利证据；但在两种情形下，似乎都有 *something*（某种东西）增加了——我们据以安放结论的基础变得更为厚实。我因此说：新证据的加入增添了论证的 *weight*（权重）。（Keynes 1921: 78，凯恩斯原文强调）[^keynes-1921]
   - id: 61
     kind: body
     source: |-
