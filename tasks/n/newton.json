@@ -2,7 +2,7 @@
   "slug": "newton",
   "kind": "retranslate",
   "zh_doc": "n/newton.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-08T07:47:27Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ZCode-N-20261108",
+      "at": "2026-11-08T09:19:45Z",
+      "evidence": "44 段账本双版齐（p1-p3 分段落盘、三次提交），lq check HARD=0；compose 写回 14982 字符；References 现制照录 defs 10=10、marker 15=15；脚注 4 条独立成节"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ZCode-N-20261108",
+      "at": "2026-11-08T09:19:45Z",
+      "evidence": "逐段对照 yuanwen 核销 44 段：无漏译增译；节序 H2 源2+脚注节、H3 4=4；脚注键 15=15、定义 10=10 全等；数字差异仅中文数字词形（16 个月/八十岁/三百部/第二卷）与日期月序、世纪数字体例；相关词条 8 项，'Newton, Isaac: Principia' 手工归 SUMMARY 主名'自然哲学的数学原理'"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ZCode-N-20261108",
+      "at": "2026-11-08T09:19:45Z",
+      "evidence": "check_prose 22 项→0（长句拆分 8、弱动词 4、的链 10；改动回写账本 step2 后两次重组）；check_style --strict 0；中文强调斜体转粗 2 行"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ZCode-N-20261108",
+      "at": "2026-11-08T09:19:46Z",
+      "evidence": "check_academic --strict 无硬错误；人名登记 21 行、术语 18 行（含 Warden of the Mint）；check_math missing 0（本词条无公式）；check_summary H1 一致"
     }
   ],
   "blockers": [],

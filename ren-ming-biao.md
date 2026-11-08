@@ -126,6 +126,7 @@
 | Dughet, Gaspard | — | 加斯帕尔·迪盖 | — | — | environmental-aesthetics | 学界惯例音译（十七世纪风景画家） | 2026-11-08 |
 | Faral, Edmond | — | Edmond Faral（现代学者，保留英文） | 法国／中世纪文学史家 | 1883–1958 | buridan | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Gilbert of Poitiers | — | 普瓦捷的吉尔伯特 | 法国／经院神学 | c. 1080–1154 | analogy-medieval | 中世纪神学通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| Hanke, Miroslav | — | Miroslav Hanke（现代学者，保留英文） | — | — | buridan | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Heidegger, Martin | — | 马丁·海德格尔 | — | — | environmental-aesthetics | 学界千年通行汉译 | 2026-11-08 |
 | Heizer, Michael | — | 迈克尔·海泽 | — | — | environmental-aesthetics | 学界惯例音译（大地艺术） | 2026-11-08 |
 | Helias, Peter | — | 彼得·赫利亚斯 | — | — | buridan | 学界通行音译（12 世纪语法学家）；凭证 2026-11-08 | 2026-11-08 |
@@ -146,13 +147,16 @@
 | Odo, Gerald of | — | 奥多的杰拉尔德 | — | — | buridan | 学界通行音译（14 世纪方济各会神学家）；凭证 2026-11-08 | 2026-11-08 |
 | Philip the Chancellor | — | 菲利普校长 | 法国／经院神学 | c. 1160–1236 | conscience；analogy-medieval | 中世纪哲学通行（13 世纪巴黎圣母院学校校长；音译兼职衔；亦作“校长腓力”“尚塞利耶的菲利普”）；重复行合并 2026-11-08；凭证 2026-11-08 | 2026-11-08 |
 | Pironet, Fabienne | — | Fabienne Pironet（现代学者，保留英文） | — | — | buridan | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
+| Read, Stephen | — | Stephen Read（现代学者，保留英文） | — | — | buridan | ADR-0022：无通行汉名者保留英文（布里丹《论后承》英译者）；凭证 2026-11-08 | 2026-11-08 |
 | Rosa, Salvator | — | 萨尔瓦托·罗萨 | — | — | environmental-aesthetics | 学界惯例音译（十七世纪风景画家） | 2026-11-08 |
 | Santayana, George | — | 乔治·桑塔亚那 | — | — | environmental-aesthetics | 学界通行汉译 | 2026-11-08 |
 | Seneca the Elder | — | 老塞涅卡 | 罗马／修辞学家 | c. 54 BCE–c. 39 CE | buridan | 学界通行汉译（与既有 Seneca 行分立，免撞键）；凭证 2026-11-08 | 2026-11-08 |
 | Shelley, Percy Bysshe | — | 珀西·比希·雪莱 | — | — | environmental-aesthetics | 千年通行 | 2026-11-08 |
 | Smithson, Robert | — | 罗伯特·史密森 | — | — | environmental-aesthetics | 学界通行（大地艺术） | 2026-11-08 |
+| Spade, Paul | — | Paul Spade（现代学者，保留英文） | — | — | buridan | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Stein, Michael | — | 迈克尔·斯坦 | — | — | disability-care-rationing | 学界通行汉译（法学与分配正义，功利主义辩护）；首现括注；凭证 2026-11-08 | 2026-11-08 |
 | Sutton, Thomas | — | 托马斯·萨顿 | 英格兰／托马斯主义 | c. 1250–1315 | analogy-medieval | 中世纪哲学研究通行音译；凭证 2026-11-08 | 2026-11-08 |
+| Sylla, Edith | — | Edith Sylla（现代学者，保留英文） | — | — | buridan | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Sylvester of Ferrara, Francis | — | 费拉拉的弗朗西斯·西尔维斯特 | 意大利／托马斯主义 | 1474–1528 | analogy-medieval | 托马斯主义研究通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Prierias, Sylvester Mazzolini | — | 西尔维斯特·马佐里尼·普里埃里亚斯 | 意大利／多明我会 | 1456–1523 | analogy-medieval | 宗教改革史通行音译；凭证 2026-11-08 | 2026-11-08 |
 | Soncinas, Paulus | — | 保卢斯·松奇纳斯 | 意大利／托马斯主义 | d. c. 1494 | analogy-medieval | 文艺复兴托马斯主义研究通行音译；凭证 2026-11-08 | 2026-11-08 |
@@ -583,6 +587,7 @@
 | Theocritus | — | 忒奥克里托斯 | — | — | environmental-aesthetics | 千年通行（古希腊牧歌诗人） | 2026-11-08 |
 | Theodoretus | — | 塞奥多雷特 | — | — | 首现（xenophanes） | 学界通行汉译（叙利亚教父）；凭证 2026-11-07 | 2026-11-07 |
 | Theognis | — | 忒奥格尼斯 | — | — | dialectical-school | 学界通行汉译（狄奥多罗斯之女，据称逻辑学家；与麦加拉诗人忒奥格尼斯异人）；凭证 2026-11-07 | 2026-11-07 |
+| Thijssen, Hans | — | Hans Thijssen（现代学者，保留英文） | — | — | buridan | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Thomas Sidney | — | 托马斯·西德尼 | — | — | alexander-crummell | 克鲁梅尔友人（19 世纪画家），音译 | 2026-11-07 |
 | Timaeus | — | 蒂迈欧 | — | — | neoplatonism | 柏拉图《蒂迈欧篇》同名对话人物（毕达哥拉斯派）；通行汉译同篇名 | 2026-11-07 |
 | Timon of Phlius | — | 斐利亚修斯的第蒙 | — | — | 首现（timon-phlius） | 学界通行汉译（皮浪门徒，讽刺诗人）；SUMMARY 定名；凭证 2026-11-07 | 2026-11-07 |

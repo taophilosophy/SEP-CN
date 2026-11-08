@@ -2613,3 +2613,23 @@
 | illusion | — | 幻象 | langer 首译 | 朗格研究通行（与 Täuschung 错觉分域）；凭证 2026-11-08 | 2026-11-08 |
 | virtuality | — | 虚拟性 | langer 首译 | 朗格研究通行；凭证 2026-11-08 | 2026-11-08 |
 | neutral monism | — | 中立一元论 | langer 首译 | 学界通行（谢弗语境）；凭证 2026-11-08 | 2026-11-08 |
+| calculus | — | 微积分 | newton | 数学通行；凭证 2026-11-08 | 2026-11-08 |
+| universal gravity | — | 万有引力 | newton | 物理学通行；凭证 2026-11-08 | 2026-11-08 |
+| Newtonianism | — | 牛顿主义 | newton | 科学史通行；凭证 2026-11-08 | 2026-11-08 |
+| action at a distance | — | 超距作用 | newton | 物理学通行；凭证 2026-11-08 | 2026-11-08 |
+| inverse-square (central force) | — | 平方反比（中心力） | newton | 物理学通行；凭证 2026-11-08 | 2026-11-08 |
+| annus mirabilis | annus mirabilis | 奇迹年 | newton | 科学史通行（牛顿 1665–1666）；凭证 2026-11-08 | 2026-11-08 |
+| Lucasian Professor of Mathematics | — | 卢卡斯数学教授 | newton | 剑桥大学教席通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| Master of the Mint | — | 造币局局长 | newton | 英国史通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| reflecting telescope | — | 反射望远镜 | newton | 光学通行；凭证 2026-11-08 | 2026-11-08 |
+| conic-section trajectory | — | 圆锥截线轨迹 | newton | 数学通行；凭证 2026-11-08 | 2026-11-08 |
+| Royal Society (of London) | — | 皇家学会 | newton | 科学史通行；凭证 2026-11-08 | 2026-11-08 |
+| Trinity College (Cambridge) | — | 三一学院 | newton | 剑桥大学学院通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| Anglican Catholic Church | — | 英国国教会 | newton | 英国史通行（Anglican 安立甘）；凭证 2026-11-08 | 2026-11-08 |
+| Warden of the Mint | — | 造币局督办 | newton | 英国史通行汉译（与 Master of the Mint 造币局局长分级）；凭证 2026-11-08 | 2026-11-08 |
+| vis viva | vis viva | 活力 | newton | 物理史通行（莱布尼茨学派守恒量）；凭证 2026-11-08 | 2026-11-08 |
+| principle of least action | — | 最小作用量原理 | newton | 物理学通行；凭证 2026-11-08 | 2026-11-08 |
+| d'Alembert's principle | — | 达朗贝尔原理 | newton | 力学通行；凭证 2026-11-08 | 2026-11-08 |
+| celestial mechanics | — | 天体力学 | newton | 天文学通行；凭证 2026-11-08 | 2026-11-08 |
+| point-mass | — | 质点 | newton | 力学通行；凭证 2026-11-08 | 2026-11-08 |
+| precession of the equinoxes | — | 岁差 | newton | 天文学通行；凭证 2026-11-08 | 2026-11-08 |
