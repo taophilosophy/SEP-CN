@@ -358,6 +358,7 @@
 | Evans, Gareth | — | 加雷斯·埃文斯 | — | — | bodily-awareness | 学界通行汉译（《指称的种种变体》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Fang Muru | — | 方楘如 | — | — | dai-zhen | 上游自带汉字；学界通行（清代学者，戴震所承写作原则出处）；凭证 2026-11-07 | 2026-11-07 |
 | Farinier, William | — | 威廉·法里尼耶 | — | — | auriol | 方济各会总会长通行音译 | 2026-11-07 |
+| Fraenkel, Abraham | — | 阿伯拉罕·弗兰克尔 | — | — | tarski-truth | 学界通行汉译（ZF 集合论的 F；与 Carlos Fraenkel 异人） | 2026-11-09 |
 | Felsenstein, Joseph | — | 约瑟夫·费尔森斯坦 | — | — | biology-philosophy | 学界通行汉译（系统发生学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Ferguson, Sally | — | Sally Ferguson（现代学者，保留英文） | — | — | biology-philosophy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Feuerbach | — | 费尔巴哈 | — | — | 首现（xenophanes） | 学界通行汉译（宗教批判）；凭证 2026-11-07 | 2026-11-07 |
@@ -418,6 +419,7 @@
 | Henry of Ghent | — | 根特的亨利 | — | — | alyngton | 学界通行汉译（SUMMARY 定名沿用） | 2026-11-06 |
 | Hermann Diels | — | 赫尔曼·第尔斯 | — | — | 语料回收（全目录） | 学界惯例（前苏格拉底残篇编者（DK 本））；凭证 2026-11-01 | 2026-11-01 |
 | Helmholtz, Hermann von | — | 赫尔曼·冯·亥姆霍兹 | — | — | SUMMARY 定名（h/hermann-helmholtz.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-06 | 2026-11-06 |
+| Hintikka, Jaakko | — | 欣蒂卡 | — | — | tarski-truth | 学界通行汉译（芬兰逻辑学家，博弈语义学与独立友好逻辑） | 2026-11-09 |
 | Heraclides of Pontus | — | 本都的赫拉克利德 | — | — | xenocrates | 学界通行汉译（老学园成员，与伊奥尼亚的赫拉克利德异人） | 2026-11-08 |
 | Hermias of Atarneus | — | 阿塔尔纽斯的赫尔米亚斯 | — | — | xenocrates | 学界通行汉译（柏拉图门徒，亚里士多德庇主） | 2026-11-08 |
 | Hermite, Charles | — | 夏尔·埃尔米特 | — | — | duhem | 学界惯例（数学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
@@ -471,6 +473,7 @@
 | John Stuart Mill | — | 约翰·斯图亚特·穆勒（亦作“密尔”；SUMMARY 登记形 m/mill.md） | — | — | academic-freedom | 学界通行汉译（SUMMARY 单一事实源锚定）；审定库模糊命中 20 条存查（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | John Toland | — | 约翰·托兰德 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | John Wyclif | — | 约翰·威克里夫 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Katz, Jerrold | — | 杰瑞·卡茨 | — | — | tarski-truth | 学界通行汉译（语言哲学家，《语义理论的结构》合著者） | 2026-11-09 |
 | John XXII | — | 约翰二十二世 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Jonathan Bennett | — | 乔纳森·贝内特 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Joscelin of Soissons | — | 苏瓦松的若斯兰 | — | — | 首现（william-sherwood） | 学界惯例（12 世纪苏瓦松主教）；凭证 2026-11-07 | 2026-11-07 |
@@ -491,6 +494,7 @@
 | Kramers, Hendrik | — | 亨德里克·克拉默斯 | — | — | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Kāshānī, Afḍal al-Dīn | — | 阿夫达勒丁·卡沙尼 | — | — | arabic-islamic-mysticism | 波斯哲学通行音译 | 2026-11-07 |
 | Kāshānī, Mullā Muḥsin Fayḍ | — | 费兹·卡沙尼 | — | — | arabic-islamic-mysticism | 萨德拉学派通行音译 | 2026-11-07 |
+| Levy, Azriel | — | 莱维 | — | — | tarski-truth | 学界通行汉译（集合论学家，Σ_n 公式层级） | 2026-11-09 |
 | Lambert of Auxerre | — | 欧塞尔的兰伯特 | — | — | 首现（william-sherwood） | 学界通行汉译；SUMMARY 定名沿用（l/lambert-auxerre）；凭证 2026-11-07 | 2026-11-07 |
 | Lao Tzu | — | 老子 | — | — | 首现（wisdom） | 学界通行汉译（道家创始人）；凭证 2026-11-07 | 2026-11-07 |
 | Leng, Mary | — | 玛丽·伦格 | — | — | deductivism-mathematics | 学界通行汉译（数学虚构主义）；凭证 2026-11-08 | 2026-11-08 |
@@ -544,6 +548,7 @@
 | Numenius | — | 努梅尼乌斯 | — | — | neoplatonism | 学界通行汉译（阿帕梅亚的努梅尼乌斯，2 世纪中期柏拉图主义者） | 2026-11-07 |
 | Nurī, Mullā ʿAlī | — | 穆拉·阿里·努里 | — | — | arabic-islamic-mysticism | 德黑兰学派通行音译 | 2026-11-07 |
 | Nāṣir-i Khusraw | — | 纳赛尔·霍斯鲁 | — | — | arabic-islamic-mysticism | 伊斯玛仪哲学通行汉译 | 2026-11-07 |
+| Partee, Barbara | — | 帕蒂 | — | — | tarski-truth | 学界通行汉译（形式语义学家） | 2026-11-09 |
 | Odysseus | — | 奥德修斯 | — | — | 首现（timon-phlius） | 学界通行汉译（荷马史诗人物）；凭证 2026-11-07 | 2026-11-07 |
 | Oresme, Nicole | — | 尼科尔·奥雷斯姆（正文简作“奥雷斯姆”） | — | — | duhem；nicole-oresme | 学界惯例（中世纪哲学家通行汉译；2026-11-08 名形统一：妮可→尼科尔、“奥雷姆”补“斯”，与 SUMMARY/已译语料归一，用户裁定）；凭证 2026-11-06 | 2026-11-08 |
 | O’Shaughnessy, Brian | — | 布赖恩·奥肖内西 | — | — | bodily-awareness | 学界通行音译（身体意识哲学家）；凭证 2026-11-07 | 2026-11-07 |
@@ -1090,6 +1095,7 @@
 | Eliot, T.S. | — | T.S. 艾略特 | — | — | bergson | 学界通行汉译（诗人；法兰西公学院听众） | 2026-11-08 |
 | Gouhier, Henri | — | 亨利·古耶 | — | — | bergson | 柏格森研究学者；学界通行音译 | 2026-11-08 |
 | Gutton, Jean | — | 让·居东 | — | — | bergson | 第七版《绵延与同时性》编者；学界通行音译 | 2026-11-08 |
+| Skolem, Thoralf | — | 斯科伦 | — | — | tarski-truth | 学界通行汉译（挪威逻辑学家，斯科伦函数） | 2026-11-09 |
 | Jankélévitch, Vladimir | Vladimir Jankélévitch | 弗拉基米尔·扬凯列维奇 | — | — | bergson | 柏格森研究学者；学界通行音译 | 2026-11-08 |
 | Jaurès, Jean | Jean Jaurès | 让·饶勒斯 | — | — | bergson | 法国社会主义领袖，柏格森高师同窗；学界通行汉译 | 2026-11-08 |
 | Lachelier, Jules | — | 儒勒·拉舍利耶 | — | — | bergson | 法国唯灵论哲学家，柏格森之师；学界通行音译 | 2026-11-08 |
@@ -1105,6 +1111,7 @@
 | Westmoreland, Mark William | — | 马克·威廉·韦斯特摩兰 | — | — | bergson | 《超越柏格森》编者；学界通行音译 | 2026-11-08 |
 | Worms, Frederic | — | 弗雷德里克·沃尔姆 | — | — | bergson | 柏格森之友协会创立者；学界通行音译 | 2026-11-08 |
 | Steele, Richard | — | 理查德·斯梯尔 | 爱尔兰／英格兰 | 1672–1729 | mandeville | 学界通行汉译（《闲谈者》《旁观者》创办人）；凭证 2026-11-08 | 2026-11-08 |
+| Vaught, Robert | — | 沃特 | — | — | tarski-truth | 学界通行汉译（模型论学家，Tarski–Vaught 检验） | 2026-11-09 |
 | Sloane, Hans | — | 汉斯·斯隆 | 苏格兰／爱尔兰 | 1660–1753 | mandeville | 学界通行汉译（博物学家、大英博物馆藏品奠基人）；凭证 2026-11-08 | 2026-11-08 |
 | Crossley, James | — | 詹姆斯·克罗斯利 | 英格兰 | 1800–1883 | mandeville | 音译（藏书家、伊壁鸠鲁派道德哲学拥护者；学界无惯用汉名）；凭证 2026-11-08 | 2026-11-08 |
 | Macclesfield, Earl of (Thomas Parker) | — | 麦克尔斯菲尔德勋爵 | 英格兰 | 1666–1732 | mandeville | 学界通行汉译（大法官 Thomas Parker，第一代麦克尔斯菲尔德伯爵；正文以爵号行文）；凭证 2026-11-08 | 2026-11-08 |

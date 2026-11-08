@@ -2,7 +2,7 @@
   "slug": "langer",
   "kind": "retranslate",
   "zh_doc": "l/langer.md",
-  "state": "cleared",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,41 @@
       "actor": "task_ops",
       "at": "2026-11-08T01:49:20Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "L-main-20261109",
+      "at": "2026-11-08T16:03:19Z",
+      "evidence": "账本 113 段 step1/step2 双版全填，compose 成稿 514 行；结构对账 h2 10=10、h3 7=7、markers 462=462、defs 257=257；守恒门 lq check 113 段 HARD=0"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "L-main-20261109",
+      "at": "2026-11-08T16:05:30Z",
+      "evidence": "逐段核销：节标题 18=18 一一对应（References A/B/C 照录），引块 10=10 全译，相关词条 10 项全映射（修 map_related 误映射 1 项：music: history of western philosophy of, since 1800 → 西方音乐哲学史：自 1800 年以来），数字差异定性 6 类（600,000→60 万册、1960s-1990s→1960-90 年代、58→五十八岁 等），biblio_audit 0 疑点，混排残留仅 PNK/MEHF/III 等缩写与引注作者名，figures 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "L-main-20261109",
+      "at": "2026-11-08T16:07:28Z",
+      "evidence": "prose 72→4：长句拆分与去欧化实修 66 处（长句 38→2、de-chain 21→1、weak-verb 9→1、passive-bei 4→0），余 4 项均在引文块或内嵌引语内（第 27/97/155 行），按 ADR-0020 引文豁免留痕；style 1→0（第 89 行 bold-spacing 补空格）；补丁脚本逐条计数断言、幂等、残余为零才写回"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "L-main-20261109",
+      "at": "2026-11-08T16:13:38Z",
+      "evidence": "术语 9 行登记（虚拟现实、生命意蕴、主导形式、主导幻象、记法相对性、公设系统、超公设、符号制造、凝缩）；人名 25 行登记（Selig、Anderson、Tobey、Graves、Lynch、Stebbing、de Laguna、Calkins、Ladd-Franklin、Welby、Agnes Hoernlé、Sewall、Kraft、Bühler、Geertz、Felix Cohen、William Langer、Gombrich、Flaubert、Sapir、Koffka、Malraux、Valéry、Hindemith、Jorn）；check_terms 本词条硬错误 0（登记册 2 条重复行为他会话既有）、academic --strict 0、math missing 0、unbalanced 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "L-main-20261109",
+      "at": "2026-11-08T17:05:28Z",
+      "evidence": "源文对照复审：脚注 refs 216=216 逐键零差异、defs 257 键集与源一致且无重复定义（未引用 defs 为源文书目转换既有形态，转换注记已照录）、引块 10=10、节数 18=18；语义抽查 20 段（覆盖全部 6 节）无误译漏译；数字差异 6 类定性；初译 actor 为前会话，本审独立（ISO 17100）"
     }
   ],
   "blockers": [],

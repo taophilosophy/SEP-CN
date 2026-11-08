@@ -65,6 +65,7 @@
 | care ethics | — | 关怀伦理学（亦作"关怀伦理"） | 语料回收（标题词） | 审定名词库（termonline-all·新闻学与传播学·媒体与传播伦理，2026-11-08 浏览器通道凭证，en=ethics of care 精确命中；语料多数词条已用"关怀伦理学"） | 2026-11-08 |
 | categorematic | — | 范畴式 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | Celestial Masters | — | 天师道 | 语料回收（标题词） | 审定“天师”佐证（道教）；凭证 2026-11-01 | 2026-11-01 |
+| Convention T | — | 约定 T | tarski-truth | 塔尔斯基真理理论通行译名（Convention T） | 2026-11-09 |
 | Cheka | Чека | 契卡 | 人名表移植 | 学界通行译法（苏俄肃反委员会，克格勃前身）；凭证 2026-11-06 | 2026-11-06 |
 | chimera | — | 客迈拉 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑例证通行译法（希腊神话怪兽）；凭证 2026-11-06 | 2026-11-06 |
 | chunk and permeate | — | 分块渗透 | 语料回收（mathematics-inconsistent 首译） | 本词条首译裁定（Brown–Priest 技术）；凭证 2026-11-06 | 2026-11-06 |
@@ -152,6 +153,7 @@
 | ECQ (ex contradictione quodlibet) | ex contradictione quodlibet | 爆炸原理（从矛盾可任意推出） | 语料回收（mathematics-inconsistent 首译） | 哲学逻辑界通行译法（亦作 ex falso quodlibet）；凭证 2026-11-06 | 2026-11-06 |
 | efficacy | — | 实效 | lawphil-theory | 学界惯例（凯尔森 efficacy/Wirksamkeit，与 legal validity 法律效力相对）；凭证 2026-11-03 | 2026-11-03 |
 | enactive approach | — | 生成进路 | 语料回收（标题词） | 学界惯例（生成认知（enactivism）通行）；凭证 2026-11-01 | 2026-11-01 |
+| elementary embedding | — | 初等嵌入 | tarski-truth | 模型论通行 | 2026-11-09 |
 | efficient/final cause | — | 动力因／目的因 | 语料回收（marsilius-inghen 首译） | 亚里士多德研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | ens inquantum ens | ens inquantum ens | 作为存在的存在 | 语料回收（marsilius-inghen 首译） | 形而上学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | environmental aesthetics | — | 环境美学 | 首现（environmental-aesthetics） | 学界通行译名（SUMMARY 定名沿用；美学 sub-field 通行译法） | 2026-11-08 |
@@ -263,6 +265,7 @@
 | latency | — | 潜隐 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | law of the least means | — | 最小手段律 | antonio-rosmini | 罗斯米尼神义论术语（lex minimi medii） | 2026-11-07 |
 | Lazy Argument | — | 懒惰论证 | dialectical-school | 学界通行（“懒惰论证”通行译法）；凭证 2026-11-07 | 2026-11-07 |
+| fully interpreted | — | 完全解释的 | tarski-truth | 塔尔斯基用语（fully interpreted language） | 2026-11-09 |
 | Liujing zaidao | 六經載道 | 六经载道 | dai-zhen | 上游自带汉字；儒学通行命题（英 the Six Classics convey the dao）；凭证 2026-11-07 | 2026-11-07 |
 | liyi | 理義 | 理义 | dai-zhen | 上游自带汉字；戴震承《孟子》原词（英 pattern and right）；凭证 2026-11-07 | 2026-11-07 |
 | local sign theory | — | 本地符号理论 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -273,6 +276,7 @@
 | material implication | — | 实质蕴涵 | dialectical-school | 逻辑学通行译法（真值函项条件句）；凭证 2026-11-07 | 2026-11-07 |
 | maximum likelihood | — | 最大似然法 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | mediated appreciation | — | 中介化欣赏 | 首译（environmental-aesthetics） | 本词条术语（经表征的中介欣赏） | 2026-11-08 |
+| generalized quantifier | — | 广义量词 | tarski-truth | 逻辑学通行（generalised quantifier） | 2026-11-09 |
 | Megaric questions | — | 麦加拉问题 | diodorus-cronus | 学界通行（克吕西波对狄奥多罗斯所发展悖论的称呼）；凭证 2026-11-07 | 2026-11-07 |
 | mental proposition | — | 心灵命题 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | messianism | — | 弥赛亚主义 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -703,6 +707,7 @@
 | Hilbert space | — | 希尔伯特空间 | 语料回收 | 审定名词库（termonline-all·物理学名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | hole argument | — | 空穴论证 | spacetime-holearg | 发布表 ci-hui-biao 既有裁定（广义相对论哲学语境，亦译“空洞论证”） | 2026-10-28 |
 | hole transformation | — | 洞变换 | spacetime-holearg | B 档（随词条语境，与 hole argument 复合同源） | 2026-10-28 |
+| Kripke structure | — | 克里普克结构 | tarski-truth | 模态逻辑通行 | 2026-11-09 |
 | Holy Spirit | — | 圣灵 | 语料回收（标题词） | 学界惯例（宗教学通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | human action | — | 人类行动（action 哲学语境定译“行动”） | 语料回收 | 学界惯例（行动哲学通行）；审定库无直接收录（凭证 2026-10-29） | 2026-10-29 |
 | human agency | — | 人类能动性 | 语料回收 | 审定名词库（termonline-all·“人类能动性”在案（域标地理学，哲学通行同形），2026-10-30 浏览器通道凭证） | 2026-10-30 |
@@ -776,6 +781,7 @@
 | moral perfection | — | 道德完善（康德语境） | 语料回收 | 学界惯例（康德译本通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | moral worth | — | 道德价值（康德语境） | 语料回收 | 学界惯例（伦理学/康德译本通行）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | moral philosophy | — | 道德哲学 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
+| formal correctness | — | 形式正确性 | tarski-truth | 塔尔斯基真理定义条件之一 | 2026-11-09 |
 | Müller-Lyer illusion | Müller-Lyer illusion | 米勒-莱尔错觉 | 语料回收 | 审定名词库（termonline-all·心理学·认知与实验心理学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | mutakallimūn | مُتَكَلِّمُون | 凯拉姆学者（亦作“教义学家”） | 语料回收 | 学界惯例（伊斯兰哲学）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31） | 2026-10-31 |
 | natural deduction | — | 自然演绎 | 语料回收 | 学界惯例（逻辑学界通行）；审定库无直接收录（凭证 2026-10-29） | 2026-10-29 |
@@ -964,10 +970,12 @@
 | phenomenology of mind | — | 精神现象学（黑格尔） | gadamer-aesthetics | 权威译本通行译法（黑格尔《精神现象学》） | 2026-11-01 |
 | Critique of Judgment | — | 《判断力批判》（康德） | gadamer-aesthetics | 权威译本通行译法（康德《判断力批判》） | 2026-11-01 |
 | Letters on Aesthetic Education | — | 《审美教育书简》（席勒） | gadamer-aesthetics | 权威译本通行译法（席勒《审美教育书简》） | 2026-11-01 |
+| assignment | — | 指派 | tarski-truth | 模型论通行（对象对变元的指派）；亦作“赋值” | 2026-11-09 |
 | Truth and Method | — | 《真理与方法》（伽达默尔） | gadamer-aesthetics | 权威译本通行译法（洪汉鼎译本） | 2026-11-01 |
 | nacherleben | nacherleben | 再体验（nacherleben；狄尔泰） | gadamer-aesthetics | 学界惯例（狄尔泰研究通行） | 2026-11-01 |
 | Erlebnis-Ästhetik | Erlebnis-Ästhetik | 体验美学 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
 | Erfahrung-Ästhetik | Erfahrung-Ästhetik | 经验美学 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
+| boolean combination | — | 布尔组合 | tarski-truth | 逻辑学通行 | 2026-11-09 |
 | Werden | Werden | 生成（Werden） | gadamer-aesthetics | 学界惯例（德国古典哲学通行） | 2026-11-01 |
 | sensuous appearing of the Idea | — | 理念的感性显现（黑格尔） | gadamer-aesthetics | 权威译本通行译法（黑格尔美学） | 2026-11-01 |
 | hermeneutic identity | — | 诠释学同一性 | gadamer-aesthetics | 学界惯例（伽达默尔研究通行） | 2026-11-01 |
@@ -1511,6 +1519,7 @@
 | gene | — | 基因 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 g/gene））；凭证 2026-11-04 | 2026-11-04 |
 | frame problem | — | 框架问题 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 f/frame-problem））；凭证 2026-11-04 | 2026-11-04 |
 | existentialist aesthetics | — | 存在主义美学 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/aesthetics-existentialist））；凭证 2026-11-04 | 2026-11-04 |
+| independence friendly logic | — | 独立友好逻辑 | tarski-truth | Hintikka 逻辑通行译名；SUMMARY 定名沿用 | 2026-11-09 |
 | evolution | — | 进化 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 e/evolution））；凭证 2026-11-04 | 2026-11-04 |
 | yin | 陰 | 阴 | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
 | yang | 陽 | 阳 | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
@@ -1664,6 +1673,7 @@
 | hylomorphism | — | 质形论 | lorenzo-valla | 亚里士多德学界通行 | 2026-11-04 |
 | tabula rasa | tabula rasa | 白板 | lorenzo-valla | 学界通行（灵魂论/洛克研究） | 2026-11-04 |
 | vis aestimativa | vis aestimativa | 估量力 | lorenzo-valla | 中世纪灵魂论通行（亦作“评判力”备查） | 2026-11-04 |
+| Skolem function | — | 斯科伦函数 | tarski-truth | 模型论与逻辑学通行 | 2026-11-09 |
 | Peripatetics | — | 逍遥学派 | lorenzo-valla | 学界通行（亚里士多德派；形容词作“逍遥派的”） | 2026-11-04 |
 | sorites | — | 堆垛论证 | lorenzo-valla | 逻辑学通行（悖论词条题名作“堆垛悖论”） | 2026-11-04 |
 | dilemma | — | 二难推理 | lorenzo-valla | 逻辑学与修辞学通行 | 2026-11-04 |
@@ -1860,6 +1870,8 @@
 | Kabbalah | — | 卡巴拉 | delmedigo | 学界通行（犹太神秘主义传统定译） | 2026-11-06 |
 | Sefer ha-Zohar | — | 光辉之书 | delmedigo | 学界通行（卡巴拉核心文献） | 2026-11-06 |
 | Guide of the Perplexed | — | 迷途指津 | delmedigo | 学界通行（迈蒙尼德名著通行书名） | 2026-11-06 |
+| indexical | — | 索引性 | tarski-truth | 语言哲学通行（indexical 索引词） | 2026-11-09 |
+| definite description | — | 限定摹状词 | tarski-truth | 逻辑哲学通行（罗素） | 2026-11-09 |
 | agent intellect | — | 能动理智 | delmedigo | 学界通行（亚里士多德 nous poietikos 通译之一；亦作“主动理智”） | 2026-11-06 |
 | material intellect | — | 质料理智 | delmedigo | 学界通行（阿威罗伊主义术语，agent intellect 之对项） | 2026-11-06 |
 | ex nihilo | ex nihilo | 从无中创生 | delmedigo | 学界通行（creatio ex nihilo 通行译法；拉丁原语保留） | 2026-11-06 |
@@ -1928,6 +1940,7 @@
 | classical negation | — | 经典否定 | schema | 学界惯例（逻辑学通行） | 2026-11-06 |
 | declarative sentence | — | 陈述句 | schema | 学界惯例（逻辑学通行） | 2026-11-06 |
 | first-order formula | — | 一阶公式 | schema | 学界惯例（数理逻辑通行） | 2026-11-06 |
+| material adequacy | — | 实质恰当性 | tarski-truth | 塔尔斯基真理定义条件之一（material adequacy） | 2026-11-09 |
 | induction principle | — | 归纳原则 | schema | 学界惯例（数学基础通行；亦作“归纳原理”） | 2026-11-06 |
 | second-order axiom | — | 二阶公理 | schema | 学界惯例（数理逻辑通行） | 2026-11-06 |
 | propositional function | — | 命题函项 | schema | 学界惯例（罗素《数理哲学导论》中译通行） | 2026-11-06 |
@@ -2014,6 +2027,7 @@
 | foliation | — | 叶状剖分 | spacetime-convensimul | 学界惯例（微分几何“叶状结构”之动词义） | 2026-11-06 |
 | inhomogeneous Lorentz transformations | — | 非齐次洛伦兹变换 | spacetime-convensimul | 学界惯例（物理学通行；即庞加莱变换） | 2026-11-06 |
 | Poincaré transformations | Poincaré transformations | 庞加莱变换 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
+| quantifier elimination | — | 量词消去 | tarski-truth | 模型论通行（量词消去法） | 2026-11-09 |
 | Galilean transformations | — | 伽利略变换 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
 | scale transformation | — | 标度变换 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
 | temporal reflection | — | 时间反演 | spacetime-convensimul | 学界惯例（物理学通行；t→−t 反射义） | 2026-11-06 |
@@ -2095,6 +2109,7 @@
 | disjunctive proposition | — | 选言命题 | 首现（william-jevons） | 学界通行（逻辑学标准术语；与已登记析取三段论同族） | 2026-11-07 |
 | dismal science | — | 沉闷科学 | 首现（william-jevons） | 学界通行（Carlyle 语，经济学史通行译名）；凭证 2026-11-07 | 2026-11-07 |
 | docta ignorantia | — | 有学问的无知 | 首现（theology-aristotle） | 学界通行（库萨·尼古拉术语通译）；凭证 2026-11-08 | 2026-11-08 |
+| satisfaction | — | 满足 | tarski-truth | 模型论通行（satisfaction） | 2026-11-09 |
 | law of commutativeness | — | 交换律 | 首现（william-jevons） | 学界通行（代数-逻辑标准术语） | 2026-11-07 |
 | skeptosunê | — | 探究 | 首现（timon-phlius） | 学界惯例（第蒙用语，inquiry；勿径作“怀疑论”）；凭证 2026-11-07 | 2026-11-07 |
 | sunêtheia | συνήθεια | 日常经验 | 首现（timon-phlius） | 学界惯例（第蒙《皮同》用语，ordinary experience）；凭证 2026-11-07 | 2026-11-07 |
@@ -2136,6 +2151,7 @@
 | assertoric | — | 直言的 | 首现（william-sherwood） | 学界通行（与 modal 相对的断定语句）；凭证 2026-11-07 | 2026-11-07 |
 | terminist logic | — | 词项主义逻辑 | 首现（william-sherwood） | 学界通行（13 世纪词项逻辑）；凭证 2026-11-07 | 2026-11-07 |
 | appellatum | — | 被称谓者 | 首现（william-sherwood） | 学界惯例（appaellatio 的对象）；凭证 2026-11-07 | 2026-11-07 |
+| explicit definition | — | 显式定义 | tarski-truth | 逻辑学通行（与隐定义相对） | 2026-11-09 |
 | distributively confused supposition | — | 周延混淆指代 | 首现（william-sherwood） | 学界惯例（suppositio confuse distributiva）；凭证 2026-11-07 | 2026-11-07 |
 | merely confused supposition | — | 纯混淆指代 | 首现（william-sherwood） | 学界惯例（suppositio confuse tantum）；凭证 2026-11-07 | 2026-11-07 |
 | formal supposition | — | 形式指代 | 首现（william-sherwood） | 学界惯例（suppositio formalis）；凭证 2026-11-07 | 2026-11-07 |
@@ -2634,10 +2650,12 @@
 | Royal Society (of London) | — | 皇家学会 | newton | 科学史通行；凭证 2026-11-08 | 2026-11-08 |
 | Trinity College (Cambridge) | — | 三一学院 | newton | 剑桥大学学院通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Anglican Catholic Church | — | 英国国教会 | newton | 英国史通行（Anglican 安立甘）；凭证 2026-11-08 | 2026-11-08 |
+| compositionality | — | 组合性 | tarski-truth | 语言哲学与逻辑学通行（Frege 原理相关） | 2026-11-09 |
 | Warden of the Mint | — | 造币局督办 | newton | 英国史通行汉译（与 Master of the Mint 造币局局长分级）；凭证 2026-11-08 | 2026-11-08 |
 | vis viva | vis viva | 活力 | newton | 物理史通行（莱布尼茨学派守恒量）；凭证 2026-11-08 | 2026-11-08 |
 | principle of least action | — | 最小作用量原理 | newton | 物理学通行；凭证 2026-11-08 | 2026-11-08 |
 | d'Alembert's principle | — | 达朗贝尔原理 | newton | 力学通行；凭证 2026-11-08 | 2026-11-08 |
+| fully abstract | — | 完全抽象 | tarski-truth | 程序语义学与组合性讨论通行 | 2026-11-09 |
 | celestial mechanics | — | 天体力学 | newton | 天文学通行；凭证 2026-11-08 | 2026-11-08 |
 | point-mass | — | 质点 | newton | 力学通行；凭证 2026-11-08 | 2026-11-08 |
 | precession of the equinoxes | — | 岁差 | newton | 天文学通行；凭证 2026-11-08 | 2026-11-08 |
@@ -2719,6 +2737,7 @@
 | epistemic parity | — | 认知对等 | 首现（religion-epistemology） | 同侪分歧文献通行；凭证 2026-11-08 | 2026-11-08 |
 | hinge commitment | — | 枢轴承诺 | 首现（religion-epistemology） | 维特根斯坦《论确实性》研究通行；凭证 2026-11-08 | 2026-11-08 |
 | forms of life | — | 生活形式 | 首现（religion-epistemology） | 维特根斯坦术语通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| infinitary logic | — | 无穷逻辑 | tarski-truth | 逻辑学通行；SUMMARY 定名“无穷逻辑” | 2026-11-09 |
 | argument from evil | — | 恶的论证 | 首现（religion-epistemology） | 宗教哲学通行（与 problem of evil 恶的问题分列）；凭证 2026-11-08 | 2026-11-08 |
 | quasi-fideism | — | 准信仰主义 | 首现（religion-epistemology） | Pritchard 术语；凭证 2026-11-08 | 2026-11-08 |
 | religious exceptionalism | — | 宗教例外论 | 首现（religion-epistemology） | 本词条术语（Forrest）；凭证 2026-11-08 | 2026-11-08 |
@@ -2729,6 +2748,7 @@
 | cosmological principle | — | 宇宙学原理 | cosmology-30s 首译 | 宇宙学通行（Milne 1933 提出；de Sitter 论战核心）；凭证 2026-11-08 | 2026-11-08 |
 | operationalism | — | 操作主义 | cosmology-30s 首译 | 科学哲学通行（Bridgman 传统；与 operational definition 操作定义同族）；凭证 2026-11-08 | 2026-11-08 |
 | hypothetico-deductivism | — | 假说—演绎主义 | cosmology-30s 首译 | 科学哲学通行（H-D method 假说—演绎方法之立场形态）；凭证 2026-11-08 | 2026-11-08 |
+| semantic conception of truth | — | 真理的语义观 | tarski-truth | 塔尔斯基用语通行译法 | 2026-11-09 |
 | inductive empiricism | — | 归纳经验主义 | cosmology-30s 首译 | 科学哲学通行（Dingle 阵营）；凭证 2026-11-08 | 2026-11-08 |
 | steady-state theory | — | 稳恒态理论 | cosmology-30s 首译 | 宇宙学通行（Bondi–Gold–Hoyle 1948）；凭证 2026-11-08 | 2026-11-08 |
 | world-geometry | — | 世界几何 | cosmology-30s 首译 | Milne 术语学界通行（与 world structure 世界结构配对）；凭证 2026-11-08 | 2026-11-08 |
@@ -2753,6 +2773,7 @@
 | conciliar theory | — | 公会议理论 | marsilius-padua | 学界通行（与教皇君主制理论相对）；凭证 2026-11-08 | 2026-11-08 |
 | Revelation | — | 启示 | marsilius-padua | 学界通行（神学认识论）；凭证 2026-11-08 | 2026-11-08 |
 | omnipresence | — | 全在 | omnipresence | SUMMARY 定名沿用（全在）；学界通行（全在/遍在，取全在）；凭证 2026-11-08 | 2026-11-08 |
+| truth definition | — | 真理定义 | tarski-truth | 逻辑学通行；SUMMARY 定名沿用 | 2026-11-09 |
 | omnipresent | — | 全在的 | omnipresence | 同上；属性谓词形；凭证 2026-11-08 | 2026-11-08 |
 | ubiquity | — | 遍在性 | omnipresence | 学界通行（Inman 语；与全在区分，作属性名）；凭证 2026-11-08 | 2026-11-08 |
 | dimensive quantity | — | 维度量 | omnipresence | 学界通行（经院术语 quantitas dimensiva）；凭证 2026-11-08 | 2026-11-08 |
@@ -2795,5 +2816,7 @@
 | human legislator | — | 人类立法者 | marsilius-padua | 学界通行（马西利乌斯核心概念 legislator humanus）；凭证 2026-11-08 | 2026-11-08 |
 | pars principans | pars principans | 统治部分（政府） | marsilius-padua | 学界通行（马西利乌斯拉丁术语，与 legislator 立法者相对）；凭证 2026-11-08 | 2026-11-08 |
 | potentia coactiva | potentia coactiva | 强制权力 | marsilius-padua | 学界通行（马西利乌斯拉丁术语）；凭证 2026-11-08 | 2026-11-08 |
+| well-founded | — | 良基 | tarski-truth | 集合论与逻辑学通行 | 2026-11-09 |
 | original sin | — | 原罪 | marsilius-padua | 学界通行（基督教神学）；凭证 2026-11-08 | 2026-11-08 |
+| winning strategy | — | 制胜策略 | tarski-truth | 博弈语义学通行 | 2026-11-09 |
 | Genesis | — | 《创世记》 | marsilius-padua | 圣经通行汉译（和合本）；凭证 2026-11-08 | 2026-11-08 |
