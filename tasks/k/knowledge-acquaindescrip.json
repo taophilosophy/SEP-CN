@@ -2,7 +2,7 @@
   "slug": "knowledge-acquaindescrip",
   "kind": "retranslate",
   "zh_doc": "k/knowledge-acquaindescrip.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "?",
       "at": "2026-11-06T18:57:20Z",
       "evidence": "四检：check_academic --strict OK；check_style issues=0；check_prose 44 条已按 ADR-0020 分类豁免并留痕；check_math missing=[]/unbalanced=[]；lq check 守恒门 103 段通过"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:56Z",
+      "evidence": "r1 独立复核（K 批接管，2026-11-08）：段落 90:89（差 1=源 byline）、marker 55:55、defs 65:65、年份 197:197、图 0:0；尾节子标题 1:0 为源文 Acknowledgments → 本库体例 ## 致谢（k/knowledge-acquaindescrip.md:297 在位），非缺件；抽查第 45 段（亲知既保障知识对象亦保障思想对象、罗素版简单观念来源论证）与源文逐句相符；正文残留扫描 0。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:56Z",
+      "evidence": "r2 语言与忠实复核：无缺陷需修；check_style --strict 0、check_math 0/0、check_academic --strict OK。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:58Z",
+      "evidence": "r3 门禁：四检全绿，check_all 七项全绿。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:58Z",
+      "evidence": "done 收口（K-main-20261108）：s3_checked 遗留件五维齐平（致谢体例差异已核）、抽查无误、门禁全绿。"
     }
   ],
   "blockers": [],
