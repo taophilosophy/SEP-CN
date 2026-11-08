@@ -38,29 +38,29 @@
   },
   "e": {
    "phase": "translate",
-   "claimed_by": "EH-main-20261108b",
-   "claimed_at": "2026-11-08T02:50:41Z",
+   "claimed_by": "EFG-main-20261108",
+   "claimed_at": "2026-11-08T12:07:14Z",
    "note": "对账（2026-11-08 EH-main-20261108b 正序接管）：99=d19/在途0/未动工80（pending 80）；英文词数 1,568,038，done 181,650（11.6%）。本会话正序收口 environmental-aesthetics（18,426 词）、erotic-art（12,517 词）两条，均九步齐、四检绿、账本守恒；下一条 experimental-aesthetics（17,480 词）。done 12 条 NO_LEDGER 存量不补造（ADR-0021 债）；4 条半截旧账本正文完整、禁 compose。",
    "advanced_at": "2026-11-08T02:53:16Z"
   },
   "f": {
    "phase": "translate",
-   "claimed_by": "EH-main-20261108b",
-   "claimed_at": "2026-11-08T02:50:42Z",
+   "claimed_by": "EFG-main-20261108",
+   "claimed_at": "2026-11-08T12:07:43Z",
    "note": "对账（2026-11-08 正序接管）：96=d1（film，账本 77/77 守恒）/在途0/未动工95，其中 frame-problem 为空骨架（账本 0/40，需立账后开译，禁 compose）；英文词数 1,430,133，done 7,483（0.5%）。正序第二轮按 SUMMARY 队列开译。",
    "advanced_at": "2026-11-08T02:53:16Z"
   },
   "g": {
    "phase": "translate",
-   "claimed_by": "EH-main-20261108b",
-   "claimed_at": "2026-11-08T02:50:42Z",
+   "claimed_by": "EFG-main-20261108",
+   "claimed_at": "2026-11-08T12:07:43Z",
    "note": "对账（2026-11-08 正序接管）：49=d1（gelukpa）/在途0/未动工48（pending 30＋cleared 空架 18）；cleared 18 条均无旧文（gene/heraclitus 类旧文已于 2026-11-06 doc-reset）；英文词数 710,324，done 5,509（0.8%）。正序第三轮接手。",
    "advanced_at": "2026-11-08T02:53:16Z"
   },
   "h": {
    "phase": "translate",
-   "claimed_by": "EH-main-20261108b",
-   "claimed_at": "2026-11-08T02:50:42Z",
+   "claimed_by": "H-main-20261108",
+   "claimed_at": "2026-11-08T12:05:27Z",
    "note": "对账（2026-11-08 正序接管）：61=d9（hume-aesthetics 收口，较 §9 快照 +1）/在途10/未动工42（pending 24＋cleared 空架 18）。在途=半截账本 9 条（haecceitism 13/122、halevi 48/120、hamann 3/76、han-dynasty 36/105、heytesbury 11/193、hilbert-program 3/63、hobbes-science 35/85、holkot 35/62、hume-moral 7/92）＋hegel-social-political（无账本，孤儿导言 240 字）；半截账本禁直接 init（整册覆盖）、禁 compose（残余≠0）。英文词数 922,779，done 82,451（8.9%）。正序最后一轮接手。",
    "advanced_at": "2026-11-08T02:53:16Z"
   },
@@ -96,8 +96,8 @@
    "phase": "translate",
    "claimed_by": "M-main-20261108",
    "claimed_at": "2026-11-08T02:28:33Z",
-   "note": "2026-11-08 接管（M-main-20261108）：五方复算 M 139 条——done 6（marsilius-inghen/mathematics-inconsistent/modesty-humility/molyneux-problem/montesquieu/moral-responsibility-empirical）、s3_checked 1（moral-demands-permissions，已交评审线 R-main-20261108 走 r1-r3）、pending 任务 7、未建任务 125；账实零偏差（成稿 7=任务有稿 7，无有稿无任务/done 无稿）；本会话续译余 132 条，按字母序推进",
-   "advanced_at": "2026-11-08T02:28:34Z"
+   "note": "M-main-20261108 接续（2026-11-08 20:0x UTC+8）：五方复算 139=done 6 + 在途 2（mandeville drafted、moral-demands-permissions s3_checked 属 R-main 评审线）+ pending 6 + 未建 125，账实零偏差；收编 mandeville 工作区遗留润色（33 段，守恒 HARD=0、compose 逐字符相等）commit e3873bb4；待译口径 132（含 mandeville）；下一目标 mandeville s1→s2→s3，再按源文词数升序清 pending 6",
+   "advanced_at": "2026-11-08T12:15:15Z"
   },
   "n": {
    "phase": "translate",
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-08T12:01:21Z"
+ "updated_at": "2026-11-08T12:15:15Z"
 }

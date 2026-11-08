@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-08 11:36（UTC）
+生成时间：2026-11-08 12:13（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1034|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|212|
-|在途（drafted 起、done 前）|231|
+|已完成（done）|213|
+|在途（drafted 起、done 前）|230|
 |阻塞|0|
 
 ## 任务状态分布
@@ -27,8 +27,7 @@
 |drafted|4|
 |s1_checked|1|
 |s3_checked|63|
-|r2_reviewed|1|
-|done|212|
+|done|213|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -51,7 +50,7 @@
 |O|21|21|9|8|
 |P|165|165|4|0|
 |Q|34|34|0|0|
-|R|85|85|12|6|
+|R|85|85|12|7|
 |S|161|161|14|9|
 |T|71|71|6|2|
 |U|4|4|0|0|
@@ -286,7 +285,6 @@
 |mandeville|retranslate|drafted|M-main-20261108 2026-11-08|
 |moral-demands-permissions|retranslate|s3_checked|LMN-main-20261108f 2026-11-08|
 |necessary-sufficient|retranslate|cleared|task_ops 2026-11-08|
-|rationalism-early-modern|retranslate|r2_reviewed|QR-main-20261108 2026-11-08|
 |representation-medieval|retranslate|cleared|task_ops 2026-11-08|
 |simon-faversham|retranslate|cleared|task_ops 2026-11-08|
 |telesio|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
