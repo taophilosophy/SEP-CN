@@ -2,7 +2,7 @@
   "slug": "cosmology-30s",
   "kind": "retranslate",
   "zh_doc": "c/cosmology-30s.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-07T22:33:58Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "C-main-20261109",
+      "at": "2026-11-08T18:17:02Z",
+      "evidence": "初译成稿收口（接管前会话未提交在途件）：段落账本 tasks/c/cosmology-30s.ledger.yaml 100 段（p1-p100）source/step1/step2 全填、源文正文块 3-136 全覆盖（块1 H1、块2 作者行由 SUMMARY/模板承载），脚本 script/c30_compose.py 组装产物与工作区正文逐字符一致（仅 markdownlint 要求的空行差 3 处）；结构守恒五维：marker 123:123、defs 62:62、年份集合 49:49 全等、公式 0、图片 0，h2 13:12 与 h3 26:27 之差为『致谢』按模板由 ### 归一为 ##（合规）；待办登记：29 段 step1==step2 反思步欠账（7 段为引块），列入 s2 逐段补写"
     }
   ],
   "blockers": [],
