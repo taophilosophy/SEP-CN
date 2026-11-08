@@ -587,52 +587,72 @@ segments:
     kind: body
     source: |-
       The ‘paradox’ of fiction is motivated by the following observation: if we were to learn that events in life that make us feel sad have not in fact come to pass, our sadness would disappear. But the same is not true in art. I may know that Tolstoy’s *Anna Karenina* does not exist, and yet may feel sad reading about her fate in the novel (Radford & Weston 1975)[^radford-1975]. With this in mind, the paradox of fiction has standardly been formulated as a trilemma of three individually plausible but mutually inconsistent claims (for example, Currie 1990)[^currie-1990]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      虚构的“悖论”由以下观察激发：如果我们得知，那些让我们感到悲伤的生活事件其实并未发生，我们的悲伤就会消失。但在艺术中则不然。我可能知道托尔斯泰的《安娜·卡列尼娜》（*Anna Karenina*）并不存在，却仍会在读小说中她的命运时感到悲伤（Radford & Weston 1975）[^radford-1975]。有鉴于此，虚构悖论通常被表述为一个三难困境，由三个各自似乎合理却彼此不一致的主张构成（例如 Currie 1990）[^currie-1990]：
+    step2: |-
+      虚构的“悖论”源于一个观察：若得知那些令我们悲伤的生活事件其实并未发生，悲伤便会消散；艺术则不然。我明知托尔斯泰的《安娜·卡列尼娜》（*Anna Karenina*）并不存在，读到她命运的结局仍会悲伤（Radford & Weston 1975）[^radford-1975]。据此，虚构悖论通常被表述为三个各自可信、却互不相容的主张构成的三难（例如 Currie 1990）[^currie-1990]：
   - id: 74
     kind: body
     source: |-
       1. We have emotional responses directed towards fictional entities and situations in literature and art;
       2. In order to have emotional responses we need to believe in the existence of the entities and situations that they are directed at;
       3. We do not believe in the existence of the fictional entities in literature and art.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 我们对文学与艺术中的虚构实体和情境怀有情感反应；
+      2. 要有情感反应，我们需要相信其指向的实体与情境存在；
+      3. 我们并不相信文学与艺术中的虚构实体存在。
+    step2: |-
+      1. 我们对文学艺术中的虚构人物与情境确有情感反应；
+      2. 唯有相信情感所指向的实体与情境存在，才会产生情感反应；
+      3. 我们并不相信文学艺术中的虚构实体存在。
   - id: 75
     kind: body
     source: |-
       Most philosophers have now jettisoned this paradoxical formulation, by rejecting proposition (2). But, even if there is no paradox per se, philosophers have noted that interesting questions remain here: *Do our emotional responses to fictions differ from their real-life cognates? And, if so, what might explain this? Do our emotional responses to fiction involve different mental representations, for example? And are any differences that exist sufficient to constitute a different kind of emotional response?*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      多数哲学家如今已抛弃这一悖论式表述，办法是拒斥命题（2）。但是，即便并不存在悖论本身，哲学家也注意到此处仍留有有趣的问题：我们对虚构作品的情感反应是否不同于现实生活中同类的情感反应？如果是，又该如何解释？例如，我们对虚构作品的情感反应是否涉及不同的心理表征？而如果存在差异，这些差异是否足以构成一种不同的情感反应？
+    step2: |-
+      如今多数哲学家已通过拒斥命题（2）而放弃了这一悖论式表述。但即便悖论本身消解，哲学家仍注意到有意思的问题尚存：对虚构作品的情感反应，是否不同于现实生活中的同类反应？若然，何以解释？这类反应是否涉及不同的心理表征？既有的差异又是否足以构成另一种情感反应？
   - id: 76
     kind: body
     source: |-
       In connection with this, some experimental philosophers have thought that the emotional responses that are had in response to fictional entities and events might differ in their intensity, as a result of differences in self-referential processes. Sperduti et al. (2016), for example, asked participants to watch clips of scenarios apt to elicit positive or negative emotions, or neutral video clips, presented as either mockumentaries (fiction), or documentaries or amateur films (non-fiction). Participants self-reported less intense emotions only in response to the *negative* clips when they were presented as fictions, and even here, there were no differences in the physiological responses (and specifically, in electrodermal activity). The authors interpret this as suggesting that the emotional responses to fiction are genuine emotions, on the grounds that there are no physiological differences, but that appraisals of fictionality might nonetheless cause people to psychologically distance themselves from the content (for discussion, see Pelletier 2019)[^pelletier-2019]. Humbert-Droz et al. (2020), by contrast, found that longer clips of sad scenes lead to lower skin conductance when labeled as non-fictional versus fictional, as well as greater self-reports of sadness—suggesting that believing that the clip was real led to greater sadness. Given the mixed findings in this context, the issues of whether the emotions that we feel in response to fiction differ from those we feel in non-fictional contexts, and if so why, remain open questions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与此相关，一些实验哲学家认为，对虚构实体与事件的情感反应可能在强度上有所不同，原因在于自我指涉过程的差异。例如，Sperduti 等人（2016）请被试观看易于引发正面或负面情感的片段，或中性视频片段，这些片段被呈现为伪纪录片（虚构）、纪录片或业余影片（非虚构）。被试只在*负面*片段被呈现为虚构时，自报情感强度较低；即便在此情形中，生理反应（具体而言是皮肤电活动）也没有差异。作者把这解释为提示：对虚构作品的情感反应是真正的情感，理由是没有生理差异；但关于虚构性的评估仍可能使人从心理上与内容保持距离（讨论见 Pelletier 2019）[^pelletier-2019]。相反，Humbert-Droz 等人（2020）发现，较长的悲伤场景片段在被标注为非虚构而非虚构时，导致更低的皮肤电导，同时被试自报的悲伤也更多——这提示，相信片段是真实的会带来更多悲伤。鉴于这方面发现的混杂，我们面对虚构作品时感受到的情感是否不同于非虚构语境中的情感，如果是又为什么，仍是悬而未决的问题。
+    step2: |-
+      与此相关，一些实验哲学家推测，对虚构人物与事件的情感反应在强度上或有差异，原因在于自我指涉过程的不同。Sperduti 等人（2016）让被试观看易引发正面或负面情感的片段，或中性片段，并分别标注为伪纪录片（虚构）、纪录片或业余影片（非虚构）。结果，唯有*负面*片段标为虚构时，被试自报的情感强度较低；即便如此，生理反应（尤其是皮肤电活动）也无差异。作者据此认为，对虚构作品的情感反应是真实情感（生理上并无二致），但关于虚构性的判断仍可能使人从心理上与内容拉开距离（讨论见 Pelletier 2019）[^pelletier-2019]。Humbert-Droz 等人（2020）的结果则相反：较长的悲伤场景标为非虚构而非虚构时，皮肤电导更低，自报悲伤却更多——可见相信片段属实会加重悲伤。由于发现不一，对虚构的情感反应是否异于非虚构语境中的情感、若异又何以如此，仍是开放问题。
   - id: 77
     kind: body
     source: |-
       The paradox of negative emotion (Hume 1757b)[^hume-1757b], has intrigued philosophers since the time of Aristotle: why do we seek exposure to art arousing negative emotions if negative emotions is something that we tend to avoid in our everyday life? One important example is listening to sad music, which is often thought to evoke sad mood in listeners (though for dissent, see Kivy 1990)[^kivy-1990]. There is vast psychological literature on emotional responses to music that are relevant to this philosophical discussion (see Mitterschiffthaler et al. 2007; Juslin & Västfjäll 2008; Vuoskoski & Eerola 2012; Koelsch, 2014; Peltola & Eerola 2016; Juslin 2019)[^juslin-2019][^juslin-2008][^mitterschiffthaler-2007][^peltola-2016][^vuoskoski-2012], and it has received some attention from experimental philosophers as well.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      负面情感悖论（Hume 1757b）[^hume-1757b]自亚里士多德时代起就令哲学家着迷：既然负面情感是我们在日常生活中倾向于回避的，我们为何还要寻求会唤起负面情感的艺术？一个重要例子是聆听悲伤的音乐，它常被认为会在听者心中唤起悲伤情绪（不过关于异议，见 Kivy 1990）[^kivy-1990]。关于音乐情感反应的大量心理学文献与这一哲学讨论相关（见 Mitterschiffthaler et al. 2007; Juslin & Västfjäll 2008; Vuoskoski & Eerola 2012; Koelsch, 2014; Peltola & Eerola 2016; Juslin 2019）[^juslin-2019][^juslin-2008][^mitterschiffthaler-2007][^peltola-2016][^vuoskoski-2012]，这一议题也受到一些实验哲学家的关注。
+    step2: |-
+      负面情感悖论（Hume 1757b）[^hume-1757b]自亚里士多德以来一直引人追问：负面情感在日常生活中避之惟恐不及，我们为何反而寻求能唤起负面情感的艺术？一个典型例子是听悲伤的音乐——通常认为，它会在听者心中唤起悲伤的情绪（异议见 Kivy 1990）[^kivy-1990]。关于音乐情感反应的心理学文献十分丰富，与这一哲学讨论密切相关（见 Mitterschiffthaler et al. 2007; Juslin & Västfjäll 2008; Vuoskoski & Eerola 2012; Koelsch, 2014; Peltola & Eerola 2016; Juslin 2019）[^juslin-2019][^juslin-2008][^mitterschiffthaler-2007][^peltola-2016][^vuoskoski-2012]，实验哲学家亦有所涉足。
   - id: 78
     kind: body
     source: |-
       Mario Attie-Picker and colleagues (2024) tested the hypothesis that people choose to listen to sad music because of the emotions music is expressive of: listening to sad music allows people to feel more connected. In the first study, participants were presented with vignettes describing musical pieces with differing levels of musical proficiency and emotional expressiveness. They were then asked to what extent they agreed that the described piece of music was good and embodied the essence of what music is ‘all about’. The results revealed that emotional expressiveness, more so than technical proficiency, influenced judgments on what are the characteristic values of music. In the second study, participants were asked to complete sentences about (a) the characteristic values of music, (b) feeling connected in conversations, and (c) pleasantness of music. They found an overlap between the emotions people listed as embodying what music is “all about” and the emotions that make people feel connected in conversations. Attie-Picker and colleagues thus try to explain the paradox by shifting the focus away from the traditional emphasis on the listener’s felt emotions and instead centering it on emotions one perceives in music.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Mario Attie-Picker 及其同事（2024）检验了这一假设：人们选择听悲伤的音乐，是因为音乐所表现的情感——听悲伤的音乐让人感到更与他人相连。在第一项研究中，被试阅读描述音乐片段的情境，这些片段在音乐技巧与情感表现力上有所不同。随后被问及他们在多大程度上同意，所描述的音乐片段是好的，并体现了音乐“根本上”之所是的本质。结果显示，情感表现力比技巧更能影响关于音乐之特征价值的判断。在第二项研究中，被试被要求补全关于以下内容的句子：（a）音乐的特征价值，（b）在交谈中感到相连，（c）音乐的愉悦性。他们发现，人们所列出的体现音乐“根本上”之所是的情感，与使人在交谈中感到相连的情感之间存在重叠。Attie-Picker 及其同事因此试图通过把焦点从传统上对听者所感情感的强调，转移到人在音乐中所感知到的情感，来解释这一悖论。
+    step2: |-
+      Mario Attie-Picker 及其同事（2024）检验的假设是：人们之所以愿意听悲伤的音乐，在于音乐所表现的情感——悲伤的音乐让人更觉与他人相连。第一项研究中，被试阅读关于若干音乐片段的描述，片段在演奏技巧与情感表现力上各有高低；随后评定这些片段在多大程度上算好，以及在多大程度上体现了音乐“根本”之所是。结果显示，影响判断音乐之特征价值的是情感表现力，而非技巧。第二项研究请被试补全关于（a）音乐的特征价值、（b）交谈中的相连感、（c）音乐的愉悦性的句子。结果发现，人们列为体现音乐“根本”之所是的情感，与在交谈中带来相连感的情感相互重叠。Attie-Picker 及其同事据此解释这一悖论：关键不在传统所强调的听者自身所感，而在听者在音乐中所感知的情感。
   - id: 79
     kind: body
     source: |-
       The paradox of emotional expressiveness is related not to the emotions we feel when we listen to music, but rather emotions we hear in the music itself. In our everyday conversations, we often characterize music as joyful, sad or angry. We use those terms when discussing a piece of music—an entity that does not have mental states and is incapable of experiencing emotions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      情感表现性悖论与我们听音乐时感受的情感无关，而与我们在音乐本身之中听到的情感有关。在日常交谈中，我们常把音乐描述为欢快的、悲伤的或愤怒的。我们讨论一段音乐——一个没有心理状态、也无法体验情感的实体——时会使用这些词。
+    step2: |-
+      情感表现性悖论所涉的并非听者所感的情感，而是从音乐本身“听出”的情感。日常交谈中，我们常说某段音乐欢快、悲伤或愤怒——而音乐本是没有心理状态、无法体验情感的实体，我们却仍用这些词来谈论它。
   - id: 80
     kind: body
     source: |-
       One way to empirically study the relationship between music and emotional expressiveness is through cross-cultural research. Psychological literature suggests that cross-cultural recognition of emotions in music is quite limited. Some studies have shown that the list of cross-culturally recognizable emotions in music is limited to three basic emotions of happiness, sadness and fear (Fritz et al. 2009)[^fritz-2009]. Other studies suggest that even major and minor chords may not, after all, be universally associated with happiness and sadness (Lahdelma et al. 2021; Smit et al. 2022)[^lahdelma-2021][^smit-2022]. However, at least aversion to dissonant musical chords appears to be cross-cultural (Lahdelma et al., 2021).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      经验地研究音乐与情感表现性之关系的一条途径是跨文化研究。心理学文献提示，音乐中情感的跨文化识别相当有限。一些研究显示，音乐中可跨文化识别的情感仅限于快乐、悲伤与恐惧三种基本情感（Fritz et al. 2009）[^fritz-2009]。另一些研究提示，就连大调与小调和弦也未必普遍地与快乐和悲伤相联系（Lahdelma et al. 2021; Smit et al. 2022）[^lahdelma-2021][^smit-2022]。不过，至少对不协和和弦的厌避似乎是跨文化的（Lahdelma et al., 2021）。
+    step2: |-
+      跨文化研究是经验地考察音乐与情感表现性之关系的一条途径。心理学文献显示，音乐中情感的跨文化识别相当有限：有研究称，可跨文化识别的音乐情感仅限快乐、悲伤、恐惧三种基本情感（Fritz et al. 2009）[^fritz-2009]；也有研究提示，大小调和弦与快乐、悲伤的关联未必普遍成立（Lahdelma et al. 2021; Smit et al. 2022）[^lahdelma-2021][^smit-2022]。不过，对不协和和弦的厌避至少是跨文化的（Lahdelma et al., 2021）。
   - id: 81
     kind: body
     source: |-
