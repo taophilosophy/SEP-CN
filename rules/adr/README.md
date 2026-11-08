@@ -56,3 +56,4 @@
 | [0022](0022-现代学者人名体例澄清.md) | 现代学者人名体例澄清（有通行汉名者汉名＋首现括注；原编 0021，2026-11-06 让号为先立的 LLM 协议） | accepted |
 | [0023](0023-根目录白名单与散件归置.md) | 根目录白名单与散件归置（check_junk 双向核对，散件归 script/state/specs bin） | accepted |
 | [0024](0024-标题同步改本地门禁与CI只读校验.md) | 标题同步改本地门禁与 CI 只读校验（sync-headers 不再写回 main、H1↔SUMMARY 硬门禁、11 条标题收口） | accepted |
+| [0025](0025-disability译名按域分用.md) | disability 译名按域分用（概念/标题用「残疾」，卫生经济语境用「失能」） | accepted |
