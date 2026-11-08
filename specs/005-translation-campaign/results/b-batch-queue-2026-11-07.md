@@ -7,18 +7,18 @@
 | 指标 | 数值 |
 |---|---|
 | 正式词条 | 62 |
-| done | 7（boolalg-math、biology-philosophy、bloch、blame、bohr-correspondence、bradley-moral、bodily-awareness） |
-| s3_checked（待 r1→r3→done 收口） | 14 |
-| drafted（待 s1→s3→r1→r3→done） | 2 |
-| cleared（待全量重译） | 39 |
+| done | 15（boolalg-math、binarium、biology-philosophy、bauer、basing-epistemic、behaviorism、bloch、bayes-theorem、bayle、blame、bergson、bohr-correspondence、bradley-moral、bodily-awareness、buridan） |
+| r1_reviewed（待 r2→r3→done，评审线） | 1 |
+| s3_checked（待 r1→r3→done 收口，评审线） | 6 |
+| drafted（待 s1→s3→r1→r3→done） | 3 |
+| cleared（待全量重译） | 37 |
 
-## 队列 A：cleared 39 条全量重译（按源文词数升序，先短后长）
+## 队列 A：cleared 37 条全量重译（按源文词数升序，先短后长）
 
 > 词数口径：源文正文（首个 `[^key]:` defs 行之前）去掉行内脚注标记后的英文词数；由 `script/b_queue.py` 实时推导。
 
 | 词数 | slug | 词数 | slug |
 |---|---|---|---|
-| 11097 | buridan | 11190 | belief-merging |
 | 11321 | brentano-judgement | 11411 | brentano |
 | 11460 | byzantine-philosophy | 11682 | black-reparations |
 | 11745 | bosanquet | 12038 | broad |
@@ -39,26 +39,20 @@
 | 21130 | bounded-rationality | 22856 | buddhism-tiantai |
 | 23464 | bolzano |  |  |
 
-## 队列 B：在途 16 条收口（r1 复审口径）
+## 队列 B：在途 10 条收口（r1 复审口径）
 
 | 词数 | slug | 状态 | 备注 |
 |---|---|---|---|
-| 3385 | binarium | s3_checked |  |
-| 4223 | bessarion | drafted | draft 步 evidence 空（旧留痕缺口，不补造） |
-| 4827 | brouwer | drafted | 同上 |
-| 6829 | boethius-dacia | s3_checked |  |
-| 7416 | bauer | s3_checked |  |
-| 7753 | basing-epistemic | s3_checked |  |
-| 7829 | behaviorism | s3_checked | **实缺 [^ross-2008]** 正文末句，r1 必修 |
+| 6829 | boethius-dacia | r1_reviewed | 评审线 R-main 初审已过 02431e93；待 r2/r3 |
 | 8049 | buddha | s3_checked |  |
-| 8674 | bayes-theorem | s3_checked |  |
 | 8905 | butler-moral | s3_checked |  |
 | 9181 | boethius | s3_checked |  |
 | 9268 | buddhism-chan | s3_checked |  |
 | 9440 | bradley | s3_checked |  |
-| 9561 | bayle | s3_checked |  |
 | 10095 | buddhism-huayan | s3_checked |  |
-| 10525 | bergson | s3_checked |  |
+| 4223 | bessarion | drafted | draft 步 evidence 空（旧留痕缺口，不补造）；待 s1→s3 |
+| 4827 | brouwer | drafted | 同上 |
+| 11190 | belief-merging | drafted | draft 收口 f6cec931，账本 112 段双版齐；待 s1→s3 |
 
 ## 本批确认的家法（biology-philosophy 首例实证）
 
@@ -97,3 +91,15 @@
 - **buridan** 九步完整闭环（B-main-20261108）：接管收编前会话组装稿（draft 步）→ s1 回源逐段实修 52 处 → s2 术语 27 项核销＋token 册行订正「殊例」＋人名补登 12 行（含 Seneca the Elder 与既有 Seneca 行分立）→ s3 四检全绿 → r1 57 内容注通读对照＋四处同键异译回改正形（波纳文图拉/因根的马西利乌斯/菲洛波努斯/达西亚的波爱修斯）＋注内学者补登 5 行 → r2 拉丁短语守恒＋引注抽查 → r3 check_all 七项全绿 → done。成稿 19 746 汉字 7 节，57 内容注译出、105 书目 defs 照录。凭证链 d2ed3ff4 → e8ede11a →（本提交）。
 - **并行收口波**：R-main-20261108 在收口 s3_checked 存量（behaviorism/bayle/bauer/bayes-theorem/bergson 已 done）；**分工裁定——s3_checked 余 7 条（boethius-dacia/boethius/bradley/buddha/buddhism-chan/buddhism-huayan/butler-moral）归 R-main 收口波，B-main-20261108 转向 cleared 队列全量翻译**，互不抢件。
 - **当前计数**（2026-11-08 13:10）：done 15 / s3_checked 7 / drafted 2 / cleared 38 = 62。drafted 2 = bessarion/brouwer（旧存量）＋buridan 已出队。
+
+## 2026-11-09 复账接管（B-main-20261109b）
+
+**接管**：用户指令「现在由你负责翻译 B」（主会话直译、不用子代理），`campaign.py claim b --force` 自 B-main-20261109 接手；对账全文见 `b-progress-audit-2026-11-09.md`。
+
+**实测**（2026-11-09 02:42 UTC+8，`script/b_queue.py` 实时推导）：62 条 = done 15（125,767 词）/ r1_reviewed 1（boethius-dacia，评审线）/ s3_checked 6（评审线）/ drafted 3（bessarion 4,223、brouwer 4,827、belief-merging 11,190）/ cleared 37（553,393 词）；有正文 25 条（227,774 词，29.9%），清空桩 37 条。四源闭合零缺项（SUMMARY＝文件＝任务 62/62/62），步序、凭证、时间单调、version_pin 四维探针零异常。
+
+**纠正三件**：①批次账本注记原记「done 7/cleared 39/在途 16」已过时 → 按实测重记（原注记保留，追加不覆盖）；②本队列三表重建（cleared 37、在途 10，补 r1_reviewed 行与 belief-merging/boethius-dacia 备注；`script/b_queue.py` 扩展支持 r1_reviewed）；③PROGRESS.md 重生成，B 行 62/62/62/15 与实测一致。
+
+**在途件归属**：belief-merging draft 为 B-main-20261109 收口件（f6cec931；账本 112 段双版齐、`lq.py check` HARD=0、compose 与正文归一后逐字节一致），其 s1→s3 由本线续做；boethius-dacia r1 为 R-main 评审线件（02431e93）。原 B-main-20261109 会话请勿再推进 B 批词条（防同件双写），s3_checked 6 条与 r1_reviewed 1 条的 r1–r3 仍归 R-main。
+
+**队列 A 队首**：brentano-judgement 11,321 词（belief-merging 已出队）；按源文词数升序全量重译，账本双版随 draft 入库。

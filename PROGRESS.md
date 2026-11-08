@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-08 18:30（UTC）
+生成时间：2026-11-08 18:42（UTC）
 
 ## 总览
 
@@ -12,10 +12,10 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1144|
+|已建任务|1145|
 |例行/维护任务（不计状态机）|2|
 |已完成（done）|222|
-|在途（drafted 起、done 前）|228|
+|在途（drafted 起、done 前）|229|
 |阻塞|0|
 
 ## 任务状态分布
@@ -24,7 +24,7 @@
 |---|---|
 |pending|694|
 |cleared|156|
-|drafted|5|
+|drafted|6|
 |s3_checked|64|
 |r1_reviewed|3|
 |done|222|
@@ -44,7 +44,7 @@
 |I|75|75|75|21|
 |J|38|38|38|8|
 |K|36|36|36|21|
-|L|144|144|19|18|
+|L|144|144|20|18|
 |M|139|139|14|6|
 |N|50|50|6|3|
 |O|21|21|10|8|
@@ -276,9 +276,10 @@
 |korean-confucianism|retranslate|s3_checked|K-main-20261108b 2026-11-08|
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
+|la-forge|retranslate|cleared|task_ops 2026-11-08|
 |langer|retranslate|r1_reviewed|L-main-20261109 2026-11-08|
 |mandeville|retranslate|s3_checked|M-main-20261108 2026-11-08|
-|marsilius-padua|retranslate|cleared|task_ops 2026-11-08|
+|marsilius-padua|retranslate|drafted|M-main-20261109 2026-11-08|
 |moral-demands-permissions|retranslate|s3_checked|LMN-main-20261108f 2026-11-08|
 |necessary-sufficient|retranslate|s3_checked|ZCode-N-20261108b 2026-11-08|
 |omnipresence|retranslate|drafted|OPQR-main-20261108 2026-11-08|
