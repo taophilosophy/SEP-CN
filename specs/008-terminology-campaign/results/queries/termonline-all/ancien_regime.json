@@ -1,0 +1,348 @@
+{
+ "key": "ancien regime",
+ "term": "ancien régime",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-08T15:28:24+00:00",
+ "status": "ok",
+ "note": "variant=ancien régime; 审定公布名词库=727; 海峡两岸名词对照库=252; 其他来源数据库=18; 预公布名词数据库=33; match=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "社稷",
+   "en": "sheji,regime",
+   "code": "06.039",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_中国城市建设史和遗产保护规划_中国城市建设史"
+  },
+  {
+   "cn": "地下水动态",
+   "en": "groundwater regime",
+   "code": "16.05.047",
+   "standard": "地质学名词",
+   "subject": "地质学_水文地质学_水文地质调查"
+  },
+  {
+   "cn": "构造体制",
+   "en": "tectonic regime",
+   "code": "09.01.070",
+   "standard": "地质学名词",
+   "subject": "地质学_构造地质学_总论"
+  },
+  {
+   "cn": "香蕉区",
+   "en": "banana regime",
+   "code": "3.203",
+   "standard": "核科学技术名词",
+   "subject": "核科学技术_核聚变_磁约束聚变"
+  },
+  {
+   "cn": "脱靶状态",
+   "en": "detached regime",
+   "code": "3.225",
+   "standard": "核科学技术名词",
+   "subject": "核科学技术_核聚变_磁约束聚变"
+  },
+  {
+   "cn": "坪区",
+   "en": "plateau regime",
+   "code": "3.309",
+   "standard": "核科学技术名词",
+   "subject": "核科学技术_核聚变_磁约束聚变"
+  },
+  {
+   "cn": "脆性区",
+   "en": "brittle regime",
+   "code": "01.1572",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_震源"
+  },
+  {
+   "cn": "震情",
+   "en": "seismic regime",
+   "code": "01.2002",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震和社会"
+  },
+  {
+   "cn": "热体制",
+   "en": "thermal regime",
+   "code": "06.0016",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地热学_地热学总论"
+  },
+  {
+   "cn": "光照制度",
+   "en": "lighting regime",
+   "code": "02.206",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_饲养管理_禽饲养"
+  },
+  {
+   "cn": "河势",
+   "en": "river regime",
+   "code": "01.833",
+   "standard": "电力名词",
+   "subject": "电力_总论"
+  },
+  {
+   "cn": "造渣制度",
+   "en": "slagging regime",
+   "code": "05.1109",
+   "standard": "冶金学名词",
+   "subject": "冶金学_钢铁冶金_炼钢"
+  },
+  {
+   "cn": "体系",
+   "en": "regime",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "哈得来域",
+   "en": "Hadley regime",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "降水型",
+   "en": "precipitation regime",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "罗斯贝型，罗斯贝域",
+   "en": "Rossby regime",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "火使用制度,火状况",
+   "en": "fire regime",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "水文情势",
+   "en": "hydrological regime",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "拉格泰姆",
+   "en": "ragtime",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "冰情阶段",
+   "en": "ice regime phase",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "上部水流动态",
+   "en": "upper flow regime",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "古代文化遗产",
+   "en": "ancient heritage",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "古地图",
+   "en": "ancient map",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "古地图",
+   "en": "ancient map",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "二次打击",
+   "en": "Ancient warfare",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "信息战",
+   "en": "Ancient warfare",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "环境战",
+   "en": "Ancient warfare",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "第二次工业革命",
+   "en": "Ancient technology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "米底王国",
+   "en": "Ancient Iranian religion",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "德尔斐",
+   "en": "phocis (ancient region)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "配价",
+   "en": "Lucien Tesnière",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "建筑光学",
+   "en": "Ancient Chinese wooden architecture",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "结构力学",
+   "en": "Ancient Chinese wooden architecture",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "建筑美学",
+   "en": "Ancient Chinese wooden architecture",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "群特异性抗原",
+   "en": "Group-specific antigen",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "抗原呈递细胞",
+   "en": "antigen-presenting cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生产政体",
+   "en": "factory regime",
+   "code": "3.5.3.27",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_新经济社会学"
+  },
+  {
+   "cn": "一日生活制度",
+   "en": "daily regime",
+   "code": "8.5.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校教育过程卫生_作息制度卫生"
+  },
+  {
+   "cn": "古代社会",
+   "en": "ancient society",
+   "code": "2.1.2.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会形式"
+  },
+  {
+   "cn": "古代城市",
+   "en": "ancient city",
+   "code": "3.4.2.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_城市的变迁"
+  },
+  {
+   "cn": "古代",
+   "en": "ancient world",
+   "code": "04.0043",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_马克思恩格斯时期"
+  },
+  {
+   "cn": "抗原",
+   "en": "antigen",
+   "code": "1.3.4.1",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_抗原与抗体"
+  },
+  {
+   "cn": "军人膳食制度",
+   "en": "dietary regime for soldiers",
+   "code": "7.4.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队营养与食品卫生_军人供膳"
+  },
+  {
+   "cn": "中国古代伦理学",
+   "en": "ancient chinese ethics",
+   "code": "1.166",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派"
+  },
+  {
+   "cn": "五尺道",
+   "en": "Wuchi Ancient Road",
+   "code": "3.0332",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族经济与地理"
+  },
+  {
+   "cn": "南夷道",
+   "en": "Nanyi Ancient Road",
+   "code": "3.0333",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族经济与地理"
+  },
+  {
+   "cn": "班禅",
+   "en": "Panchen Lama",
+   "code": "3.0252",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族政治"
+  },
+  {
+   "cn": "特异性抗原",
+   "en": "specific antigen",
+   "code": "1.3.4.6",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_抗原与抗体"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

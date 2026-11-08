@@ -1,0 +1,117 @@
+{
+ "key": "anamnesis",
+ "term": "anamnesis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-08T14:50:49+00:00",
+ "status": "ok",
+ "note": "variant=anamnesis; 审定公布名词库=8; 海峡两岸名词对照库=7; 其他来源数据库=0; 预公布名词数据库=0; match=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "前进进化",
+   "en": "anagenesis",
+   "code": "2.0229",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物进化"
+  },
+  {
+   "cn": "前进进化",
+   "en": "anagenesis",
+   "code": "02.0171",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "类进化",
+   "en": "anagensis",
+   "code": "02.021",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物系统学"
+  },
+  {
+   "cn": "前进演化",
+   "en": "anagenesis",
+   "code": "01.0058",
+   "standard": "古生物学名词",
+   "subject": "古生物学_总论"
+  },
+  {
+   "cn": "前进进化",
+   "en": "anagenesis",
+   "code": "07.014",
+   "standard": "遗传学名词",
+   "subject": "遗传学_进化遗传学"
+  },
+  {
+   "cn": "累变发生",
+   "en": "anagenesis",
+   "code": "02.045",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫分类与进化"
+  },
+  {
+   "cn": "回忆应答",
+   "en": "anamnestic response",
+   "code": "14.128",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医免疫学"
+  },
+  {
+   "cn": "回忆应答",
+   "en": "anamnestic response",
+   "code": "02.379",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_免疫学"
+  },
+  {
+   "cn": "累变发生（=前进进化）",
+   "en": "anagenesis",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "前进进化，前进演化，累变发生",
+   "en": "anagenesis",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "前进演化（=前进进化）",
+   "en": "anagenesis",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "前进进化,累变发生",
+   "en": "anagenesis",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "前进[性]进化",
+   "en": "anagenesis",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "累变发生，前进进化",
+   "en": "anagenesis",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "回忆应答",
+   "en": "anamnestic response",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
