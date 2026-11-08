@@ -2,7 +2,7 @@
   "slug": "simon-faversham",
   "kind": "retranslate",
   "zh_doc": "s/simon-faversham.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "SZ-main-20261108",
       "at": "2026-11-08T15:48:18Z",
       "evidence": "三校（体例）：check_style --strict 0 issue；markdownlint-cli2 0 错误（列表子弹统一星号，151 行核对后仅改正文/文献条目内 3 段 24 行，账本同步）；check_math 0 缺失 0 失衡；check_academic --strict 0 硬错误；check_summary H1 0、别名片段 0；术语登记 28 行入 yi-zhe-shuo-ming（模态主义者/第一二重命名词/逻辑意向/空指称/真理制造者/真理判定/可理解种相/可能理智/诸理智/光照说/疑念/估计/什么性/实体形式/个体化原理/自存/月下存在者/精神质料/esse essentiae/流入/共同感/phantasia经院义/idola/艺学硕士/组合与划分等）；人名登记 5 行（温切尔西尔/John Longeway 保留英文形/希波克拉底/西班牙的彼得/Christina Thomsen Thörnqvist），Simon 行已存；中文强调斜体→粗体 2 行；相关词条 8 项 SUMMARY 定名，吉尔斯/拉杜尔弗斯与登记册异形留痕待治理"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "SZ-main-20261108",
+      "at": "2026-11-08T17:06:31Z",
+      "evidence": "初审（对照原文自审）：全文回读 yuanwen 源，5 节论证链无偏移（逻辑主题=modi sciendi、五种三段论与前提确定性、意谓=本质而非概念、真理=认识主体的性质且相合涉两重操作、空指称之真理判定、灵魂=实体形式兼具完善性、理智=非质料被动分离、抽象两模型、梦与占卜、共相=心灵方式、个体化双重说明、本质与存在的概念性区分、存在之类比）；发现并实修 4 处——段66“本书目”→“本词条”（entry 误译）、note-2 书名著录《逻辑小全》→《逻辑大全》（对齐 buridan 成例，同一 Summulae 全库一名）、段32“断言所述谓的是”→“所述谓的若是”（指谓关系读顺）、段30 指代词“这一点”明确为“他的看法”；拉丁引文 5 处（note-9..13）与正文引块译文逐句对位（infallibiliter/quantum ad secundum esse/condiciones individuantes/materia debita/subsistentiam），校勘页码 145/25,6–11/26,41–27,2/47,26–31/329 全对；无 Critical/Major 残留"
     }
   ],
   "blockers": [],
