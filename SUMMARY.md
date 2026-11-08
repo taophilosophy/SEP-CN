@@ -1947,7 +1947,7 @@
 * [艺术本体论史 History of the Ontology of Art](a/art-ontology-history.md)
 * [操作主义 operationalism (Hasok Chang)](o/operationalism.md)
 * [日常对象 ordinary objects (Daniel Z. Korman and Jonathan Barker)](o/ordinary-objects.md)
-* [尼科尔·奥雷姆 Oresme, Nicole (Stefan Kirschner)](n/nicole-oresme.md)
+* [尼科尔·奥雷斯姆 Oresme, Nicole (Stefan Kirschner)](n/nicole-oresme.md)
 * [奥利金 Origen (Mark J. Edwards)](o/origen.md)
 * [原初状态 original position (Samuel Freeman)](o/original-position.md)
 * [何塞·奥尔特加·伊·加塞特 Ortega y Gasset, José (Oliver Holmes)](g/gasset.md)

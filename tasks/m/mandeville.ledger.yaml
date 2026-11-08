@@ -139,146 +139,194 @@ segments:
     kind: body
     source: |-
       Mandeville similarly casts doubt on the notion that human conduct is governed by reason. In “An Enquiry Into the Origin of Moral Virtue”, he offers a speculative account of how the lawgivers who first established society could have persuaded people to resist their natural appetites and concern themselves with the public interest. The chief tool at the lawgivers’ disposal was flattery: they
-    step1: TBD
-    step2: TBD
+    step1: |-
+      曼德维尔同样质疑人类行为受理性支配这一观念。在《探究道德德性的起源》中，他对最初建立社会的立法者如何可能说服人们克制自然嗜欲、关心公共利益，提出了一套思辨性的说明。立法者手头的主要工具是奉承：他们
+    step2: |-
+      曼德维尔同样怀疑人类行为受理性支配。在《探究道德德性的起源》里，他提出一套思辨性的说法，解释最初建立社会的立法者如何说服人们克制自然嗜欲、关心公共利益。立法者手里最主要的工具是奉承：他们
   - id: 18
     kind: body
     source: |-
       > extoll’d the Excellency of our Nature above other Animals … [and] bestow’d a thousand Encomiums on the Rationality of our Souls. (FB I, 43)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 颂扬我们的本性卓越，远高于其他动物……[并]对我们的灵魂之理性百般称颂。（FB I, 43）
+    step2: |-
+      > 颂扬我们的本性卓越，远高于其他动物……[并]对我们的灵魂之理性百般称颂。（FB I, 43）
   - id: 19
     kind: body
     source: |-
       Those people who indulged their natural appetites without regard to anyone else were compared to animals, whereas those who resisted their inclinations and strived to promote the peace and welfare of society were praised as belonging to a higher class of people. The self-denial that such people practiced, however, was motivated by the pride they took in being regarded as members of the superior class (FB I, 42–44). While we like to believe that we have a rational soul that distinguishes us from other animals, then, what really sets humans apart is the extent to which our desire to be thought of in a certain light drives so much of our behavior—and that desire is rooted in the passions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      那些放纵自然嗜欲、不顾他人的人，被比作动物；而那些克制自己的倾向、努力促进社会和平与福祉的人，则被赞为属于更高一等的人。然而，这类人所实践的自我克制，动机在于他们因被视为优越阶层成员而产生的骄傲（FB I, 42–44）。因此，我们固然愿意相信，我们拥有一种理性灵魂，使我们区别于其他动物；但真正使人类与众不同的，是我们的行为有多大程度受“想被别人以某种方式看待”这一欲望驱动——而这种欲望植根于激情。
+    step2: |-
+      放纵自然嗜欲、不顾他人的人，被比作动物；克制自身倾向、努力促进社会和平与福祉的人，则被赞为更高一等。可这类人的自我克制，动力来自骄傲：他们因被视为优越阶层的成员而洋洋自得（FB I, 42–44）。所以我们固然愿意相信，人有一种理性灵魂，足以把自己同其他动物区别开来；但真正让人类与众不同的，是“希望别人以某种眼光看自己”这一欲望在多大程度上驱动了我们的行为——而这欲望植根于激情。
   - id: 20
     kind: body
     source: |-
       Mandeville describes humans as “*a compound of various Passions*”, with our behavior determined by the most prominent passion on any given occasion (FB I, 39). He adopts a broadly Hobbesian conception of the will, as “the last Result of deliberation”, and contends that we (mistakenly) take our will to be free because of the difficulties involved in identifying our motivating passions. Although someone might believe that they are choosing freely, their judgement is always “over rul’d by a predominant Passion” that could have been resisted only by a stronger one (FT 61–62). Even when people draw on relevant knowledge before acting, or follow the dictates of reason, they are still “compell’d so to do by some Passion or other”, much as those who act in unreasonable ways are led to do so by different passions. On Mandeville’s account, then, all “Human Creatures are sway’d and wholly govern’d by their Passions” (OH 31).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      曼德维尔把人描述为“各种激情的复合体”，我们的行为由任一特定场合中最突出的那种激情决定（FB I, 39）。他大体上采用霍布斯式的意志概念，把意志视为“深思熟虑的最后结果”，并主张我们（错误地）以为意志是自由的，原因在于辨认驱动我们的激情颇为困难。某人也许相信自己是在自由选择，但他的判断总是“被某种主导性的激情所支配”，除非有更强的激情，否则无从抗拒（FT 61–62）。即便人们在行动前援引相关知识，或遵从理性的命令，他们也仍然“为某种激情或其他激情所迫使”而如此行事；正如以不合理方式行动的人，也是被另一些激情引着走。因此在曼德维尔看来，一切“人类造物都受其激情摆布，完全受激情统治”（OH 31）。
+    step2: |-
+      曼德维尔把人说成“各种激情的复合体”，行为由特定场合中最突出的那股激情决定（FB I, 39）。他大体沿用霍布斯的意志概念，把意志看作“深思熟虑的最后结果”，并主张我们之所以（错误地）以为意志自由，是因为辨认驱动自己的激情太难。一个人也许相信自己是在自由选择，可他的判断总“被某种主导性的激情所支配”，除非有更强的激情，否则抗拒不了（FT 61–62）。即便人们在行动前援引相关知识，或听从理性的命令，也仍然“为某种激情或其他激情所迫使”；正如行事不合理性的人，也是被另一些激情牵着走。所以在曼德维尔看来，一切“人类造物都受激情摆布，完全受激情统治”（OH 31）。
   - id: 21
     kind: body
     source: |-
       Many of Mandeville’s contemporaries found this view of human nature deeply objectionable, for precisely the reasons that he had anticipated: it dissolves what were often taken to be the most important distinctions between humans and other animals. As William Law (1724: 4) complained, Mandeville’s depiction of humans as a compound of various passions “seems to suit a *Wolf* or a *Bear*, as exactly as your self, or a *Grecian Philosopher*”. Law protested that Mandeville’s analysis could not account for the extent to which humans engage in thought, in ways that set us apart from other animals. Yet Mandeville’s more subtle point is about what drives our reasoning. He does not deny that we are capable of thought and reflection, but he presents reason as subservient to the passions. Indeed, he maintains that we often deploy our reason to justify what we have already done, rather than using it to determine our actions in the first place. It is the passions that guide our reason, in this respect, with self-love “furnishing every individual with Arguments to justify their Inclinations” (FB I, 333). As Arthur Lovejoy observed in 1922, in uncovering the many subconscious motivations that lead us to rationalize our actions, Mandeville’s “chief significance” may be understood in terms of his contribution to the history of social psychology (personal letter to Kaye given in the notes to FB II, 452).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      曼德维尔的许多同时代人都觉得这种人性观极其可憎，理由恰恰是他早已预见的：它消解了那些常被视为人与其他动物之间最重要的区别。威廉·劳（William Law，1724: 4）抱怨说，曼德维尔把人描绘成各种激情的复合体，“似乎同样适合狼或熊，也适合你自己或一位希腊哲学家”。劳抗辩说，曼德维尔的分析无法解释人类从事思考的程度——正是这一点把我们与其他动物区别开来。然而，曼德维尔更微妙的论点在于：是什么在驱动我们的推理。他并不否认我们有思考和反省的能力，但他把理性呈现为激情的仆从。事实上，他主张我们常常动用理性为自己已经做过的事找理由，而不是先用它来决定行动。就此而言，是激情在引导理性，自爱“为每个人提供论证，以替自己的倾向辩护”（FB I, 333）。正如 Arthur Lovejoy 在 1922 年所观察到的，曼德维尔揭示了诸多引导我们替自己的行为找理由的潜意识动机，就此而言，他的“主要意义”或许可以从他对社会心理学史的贡献来理解（致 Kaye 的私人书信，见 FB II, 452 注）。
+    step2: |-
+      曼德维尔的许多同时代人都觉得这种人性观极其可憎，理由恰恰是他早就预见的：它消解了那些常被视为人与其他动物之间最重要的区别。威廉·劳（William Law，1724: 4）抱怨说，曼德维尔把人描绘成各种激情的复合体，“似乎同样适合狼或熊，也适合你自己或一位希腊哲学家”。劳抗辩说，曼德维尔的分析无法解释人类从事思考的程度，而正是这一点把我们同其他动物区别开来。但曼德维尔更微妙的论点是：究竟是什么在驱动我们的推理。他并不否认人有思考和反省的能力，只是把理性摆到激情仆从的位置上。事实上，他主张我们常常动用理性，为自己已经做过的事找理由，而不是先用理性决定行动。就此而言，是激情在引导理性，自爱“为每个人提供论证，好替自己的倾向辩护”（FB I, 333）。Arthur Lovejoy 在 1922 年就观察到，曼德维尔揭示了诸多引导我们替行为找理由的潜意识动机，就此而言，他的“主要意义”或许要从他对社会心理学史的贡献来理解（致 Kaye 的私人书信，见 FB II, 452 注）。
   - id: 22
     kind: body
     source: |-
       ### 2.2 Psychological egoism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 心理利己主义
+    step2: |-
+      ### 2.2 心理利己主义
   - id: 23
     kind: body
     source: |-
       It is one thing to claim that humans are creatures of the passions; it is quite another to insist, as Mandeville also does, that “all Passions center in Self-Love” (FB I, 75). Mandeville can thus be taken as a proponent of what, in the eighteenth century, was sometimes called the “selfish system”, a position which today is better known as psychological egoism (but on the limitations of using this term to capture Mandeville’s position, see Maurer 2019: 58–85)[^maurer-2019].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      说人是激情的造物，这是一回事；像曼德维尔那样坚持“一切激情都汇聚于自爱”，则是另一回事（FB I, 75）。因此，曼德维尔可以被视为 18 世纪有时被称为“利己主义体系”的那种立场的拥护者；这一立场今天更常被称为心理利己主义（但关于用这个术语概括曼德维尔立场有何局限，见 Maurer 2019: 58–85）[^maurer-2019]。
+    step2: |-
+      说人是激情的造物，这是一回事；像曼德维尔那样坚持“一切激情都汇聚于自爱”，则是另一回事（FB I, 75）。由此，曼德维尔可算 18 世纪有时称作“利己主义体系”的那种立场的拥护者；这个立场今天更常叫心理利己主义（不过用这个术语概括曼德维尔的立场有何局限，见 Maurer 2019: 58–85）[^maurer-2019]。
   - id: 24
     kind: body
     source: |-
       Mandeville regularly seeks to explain how acts that appear to be motivated by other-regarding passions are in fact different manifestations of self-love. Suppose we see a baby that is about to drop into a fire. Mandeville does not doubt that we would immediately act to save the baby, but he does maintain that, in so doing, “we only obliged our selves”, for had the baby fallen then we would have felt “a Pain, which Self-preservation compell’d us to prevent” (FB I, 56). Mandeville allows that witnessing the suffering of others causes us pain and anxiety (FB I, 254–255), yet he argues that our pity ultimately derives from self-love, or self-preservation. Elsewhere, Mandeville similarly claims that a mother’s natural love for her child originates in self-love (FB I, 75). Even when we care deeply about other people, then, Mandeville still presents the passions in question as manifestations of self-love.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      曼德维尔经常试图解释，那些看似由关心他人的激情所驱动的行为，实际上如何是自爱的不同表现。假设我们看见一个婴儿就要掉进火里。曼德维尔并不怀疑我们会立即出手相救；但他坚持认为，这样做时“我们只是对自己尽了义务”，因为婴儿若掉下去，我们就会感到“一种痛苦，自保迫使我们防止它发生”（FB I, 56）。曼德维尔承认，目睹他人受苦会给我们带来痛苦与焦虑（FB I, 254–255），但他主张我们的怜悯最终源于自爱，或曰自保。在其他地方，曼德维尔同样声称母亲对孩子的自然之爱起源于自爱（FB I, 75）。因此，即便我们深切关心他人，曼德维尔仍把这些激情呈现为自爱的表现。
+    step2: |-
+      曼德维尔经常要解释：那些看起来是由关心他人的激情驱动的事，实际上怎么都是自爱的不同表现。假设我们看见一个婴儿就要掉进火里。他并不怀疑我们会立刻冲上去相救；但他坚持说，这么做“我们只是对自己尽了义务”，因为婴儿要是掉下去，我们就会感到“一种痛苦，自保迫使我们防止它发生”（FB I, 56）。曼德维尔承认，目睹他人受苦会让我们痛苦、焦虑（FB I, 254–255），但他主张怜悯最终源于自爱，也就是自保。在别处，他同样声称母亲对孩子的天然之爱起源于自爱（FB I, 75）。所以，即便我们深切关心他人，曼德维尔仍把这些激情说成自爱的表现。
   - id: 25
     kind: body
     source: |-
       In these cases, it might be objected that Mandeville’s position involves disingenuously redescribing other-regarding passions in terms of self-love. In challenging the selfish system in the 1720s—quite possibly with Mandeville in his sights—Joseph Butler (1726 [2017: 94]) retorted that “this is not the language of mankind”. Passions such as pity and parental love are clearly not *selfish* passions, since their satisfaction depends upon the wellbeing of other people, not merely our own. Similar objections to the self-love thesis would be raised in turn by Francis Hutcheson, David Hume, and Adam Smith, amongst others, who suggested that attempts to root all passions in self-love relied more upon linguistic sophistry than philosophical insight.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在这些情形中，有人可能反驳说，曼德维尔的立场等于不诚实地把关心他人的激情改写为自爱。18 世纪 20 年代，约瑟夫·巴特勒（Joseph Butler，1726 [2017: 94]）起而挑战利己主义体系——很可能就是冲着曼德维尔来的——他回敬说，“这不是人类的语言”。怜悯与父母之爱这类激情显然不是自私的激情，因为它们的满足取决于他人的福祉，而不只是我们自己的福祉。此后，弗兰西斯·哈奇森、大卫·休谟和亚当·斯密等人也相继对自爱论提出类似反驳；他们认为，把所有激情都追溯到自爱的做法，更多依赖语言上的诡辩，而非哲学洞见。
+    step2: |-
+      面对这类情形，有人可能反驳说，曼德维尔其实是在耍花招：把关心他人的激情改写成自爱。18 世纪 20 年代，约瑟夫·巴特勒（Joseph Butler，1726 [2017: 94]）起而挑战利己主义体系，很可能就是冲着曼德维尔来的。他回敬道，“这不是人类的语言”。怜悯、父母之爱这类激情显然不是自私的激情，因为它们的满足取决于他人的福祉，而不只是我们自己的福祉。此后，弗兰西斯·哈奇森、大卫·休谟、亚当·斯密等人也相继反驳自爱论。他们认为，把一切激情都追溯到自爱，靠的多是语言上的诡辩，而不是哲学洞见。
   - id: 26
     kind: body
     source: |-
       In other cases, however, Mandeville takes a different approach to exposing the depths of self-love by focusing on our desire for social esteem. The key passions here are pride and shame, which work closely together and result in us becoming preoccupied with our reputation and relative standing in comparison to other people. Where pride leads us to desire praise and social approbation, shame leads us to fear disapproval and criticism. Mandeville argues that these passions lie behind a remarkable amount of human behavior, motivating us to regulate our own conduct in accordance with prevailing social norms and expectations. These passions are so powerful that they will sometimes outweigh the fear of death, as is best illustrated by the example of dueling, where the fear of shame leads men of honor to imperil their lives in order to preserve their social standing and avoid being thought cowardly (FB I, 334; FB II, 87–96). In less extreme cases, pride and shame habitually lead us to conceal other passions that would be met with social disapproval, and they are therefore central to Mandeville’s explanation of why we regularly act in ways that appear to be public spirited, even when our motivations are ultimately self-centered.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而在另一些情形中，曼德维尔采取另一种进路来揭示自爱之深：聚焦于我们对社会尊重的渴望。这里的关键激情是骄傲与羞耻；二者紧密配合，使我们念念不忘自己的名声，以及与别人相比的相对地位。骄傲使我们渴望赞扬与社会赞许，羞耻则使我们害怕非难与批评。曼德维尔主张，这些激情是数量惊人的人类行为背后的动力，促使我们按照流行的社会规范与期待来调节自身行为。这些激情如此强大，有时竟压过对死亡的恐惧；决斗之例最能说明这一点：对羞耻的恐惧使有荣誉感的男子冒着生命危险，以保住社会地位、避免被人视为懦夫（FB I, 334；FB II, 87–96）。在没那么极端的情形里，骄傲与羞耻习惯性地促使我们隐藏那些会招致社会非难的激情；因此，对于“我们为何经常做出看似热心公益的事、哪怕动机终究以自我为中心”，这两种激情在曼德维尔的解释中居于核心。
+    step2: |-
+      不过换一些情形，曼德维尔会换一种办法来揭示自爱之深：盯住我们对社会尊重的渴望。这里的关键激情是骄傲与羞耻。二者紧密配合，使我们念念不忘自己的名声，以及与别人相比的相对地位。骄傲让我们渴望赞扬和社会赞许，羞耻让我们害怕非难和批评。曼德维尔主张，数量惊人的行为背后都有这两股激情在推动，它们促使我们按流行的社会规范和期待来调节自己的举止。这两股激情强大到有时能压过对死亡的恐惧，决斗就是最好的例子：怕羞耻，使有荣誉感的男子拿命去冒险，只为保住社会地位，不让人看成懦夫（FB I, 334；FB II, 87–96）。没那么极端的时候，骄傲与羞耻也习惯性地让我们藏起那些会招来社会非难的激情。因此，要解释我们为什么经常做出看似热心公益的事——哪怕动机终究以自我为中心——这两种激情在曼德维尔的说明中居于核心。
   - id: 27
     kind: body
     source: |-
       ### 2.3 Self-love and self-liking
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.3 自爱与自矜
+    step2: |-
+      ### 2.3 自爱与自矜
   - id: 28
     kind: body
     source: |-
       In the first volume of the *Fable*, Mandeville contends that all passions originate in self-love. Yet in both the second volume and its sequel, *An Enquiry into the Origin of Honour*, he draws a distinction between self-love and self-liking (FB II, 129–134; OH 3–8). The idea that all human action can be reduced to self-love came under sustained attack from philosophers such as Butler and Hutcheson in the 1720s, and Mandeville may well have introduced the distinction in response (Tolonen 2013: 49–65)[^tolonen-2013].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《寓言》第一卷中，曼德维尔主张一切激情都源于自爱。然而在第二卷及其续篇《探究荣誉的起源》中，他却区分了自爱与自矜（FB II, 129–134；OH 3–8）。一切人类行为都可化约为自爱这一观念，在 18 世纪 20 年代遭到巴特勒、哈奇森等哲学家的持续攻击；曼德维尔很可能正是为了回应这些攻击，才引入了这一区分（Tolonen 2013: 49–65）[^tolonen-2013]。
+    step2: |-
+      在《寓言》第一卷里，曼德维尔主张一切激情都源于自爱。可到了第二卷及其续篇《探究荣誉的起源》，他却把自爱与自矜区分开来（FB II, 129–134；OH 3–8）。“一切人类行为都可化约为自爱”这一观念，在 18 世纪 20 年代遭到巴特勒、哈奇森等哲学家的持续攻击；曼德维尔引入这个区分，很可能就是对此的回应（Tolonen 2013: 49–65）[^tolonen-2013]。
   - id: 29
     kind: body
     source: |-
       The concept of self-liking can helpfully be understood in relation to Mandeville’s (earlier) account of pride. In the first volume of the *Fable*, Mandeville claims that pride is the faculty by which we overvalue ourselves (FB I, 124), while also equating pride with the concern we have for our own reputation (FB I, 146). But why, if we overvalue ourselves, do we care so much about our reputation, which is based on how *others* view us? In the second volume of the *Fable*, Mandeville supplies a more complete answer to this question by introducing the concept of self-liking. He now describes self-liking (rather than pride) as the “Instinct, by which every Individual values itself above its real Worth”. As we are conscious that we overvalue ourselves, however, this instinct is accompanied by a sense of uneasiness, which leads us to desire the approbation of other people to “strengthen and confirm us in the good Opinion we have of ourselves” (FB II, 130). The approval of other people, then, eases the apprehension that arises from overvaluing ourselves.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把自矜这一概念同曼德维尔（较早）关于骄傲的说明对照起来理解，会有帮助。在《寓言》第一卷里，曼德维尔声称骄傲是我们借以高估自己的那种官能（FB I, 124），同时又把骄傲等同于我们对自己名声的关切（FB I, 146）。但如果我们高估自己，又为何如此在乎名声——而名声恰恰取决于他人如何看待我们？在《寓言》第二卷中，曼德维尔引入自矜概念，为这个问题提供了更完整的答案。他现在把自矜（而非骄傲）描述为“一种本能，每个个体借此把自己估得高于其实际价值”。然而，由于我们意识到自己在高估自己，这种本能便伴随着一种不安之感，促使我们渴望他人的赞许，以“巩固并确认我们对自己的好评”（FB II, 130）。于是，他人的认可缓解了高估自己所引起的不安。
+    step2: |-
+      把自矜同曼德维尔（较早）关于骄傲的说法对照起来看，会更容易理解。在《寓言》第一卷里，他说骄傲是我们借以高估自己的官能（FB I, 124），同时又把骄傲等同于对自己名声的关切（FB I, 146）。可既然我们高估自己，为什么又那么在乎名声——而名声恰恰取决于别人怎么看我们？到了第二卷，曼德维尔引入自矜概念，把这个问题答得更完整。他现在把自矜（而不是骄傲）说成“一种本能，每个个体借此把自己估得高于其实际价值”。可我们意识到自己在高估自己，于是这种本能总伴着一阵不安，促使我们渴望别人的赞许，好“巩固并确认我们对自己的好评”（FB II, 130）。这样，别人的认可就缓解了高估自己带来的不安。
   - id: 30
     kind: body
     source: |-
       Mandeville clarifies that self-liking is the underlying cause of passions such as pride and shame (FB II, 131–132; OH 3–4, 12–13). Where self-love explains why we are concerned with matters of sustenance and security, self-liking explains why we care about our reputation and social standing (FB II, 133–134). The significance and bearing of the distinction between self-love and self-liking for Mandeville’s wider philosophy remains a matter of debate, with scholars disagreeing on the extent to which it constitutes a refinement or a repudiation of Mandeville’s earlier self-love thesis, and on whether the introduction of self-liking reflects a more general change in the character of his moral and social philosophy between the different editions of the *Fable* (see especially Hundert 1994: 53–55, 137–139; Tolonen 2013: 41–102; Maurer 2019: 60–64; Douglass 2023: 35–38, 62–67; Callanan 2025: 242–253)[^callanan-2025][^douglass-2023][^hundert-1994][^maurer-2019][^tolonen-2013].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      曼德维尔澄清说，自矜是骄傲、羞耻等激情的深层原因（FB II, 131–132；OH 3–4, 12–13）。自爱解释了我们为何关心生计与安全之事，自矜则解释了我们为何在乎自己的名声与社会地位（FB II, 133–134）。自爱与自矜的区分对曼德维尔更广阔的哲学有何意义与影响，至今仍有争论：学者们对它在多大程度上是对曼德维尔早期自爱论的完善还是否定意见不一，对引入自矜是否反映了《寓言》各版之间其道德哲学与社会哲学品格的总体变化也意见不一（尤见 Hundert 1994: 53–55, 137–139；Tolonen 2013: 41–102；Maurer 2019: 60–64；Douglass 2023: 35–38, 62–67；Callanan 2025: 242–253）[^callanan-2025][^douglass-2023][^hundert-1994][^maurer-2019][^tolonen-2013]。
+    step2: |-
+      曼德维尔澄清说，自矜是骄傲、羞耻这类激情的深层原因（FB II, 131–132；OH 3–4, 12–13）。自爱解释我们为何关心生计与安全，自矜解释我们为何在乎名声与社会地位（FB II, 133–134）。这个区分对曼德维尔更广阔的哲学究竟有何意义、有何影响，至今仍有争论。学者们意见不一：它究竟完善了还是否定了曼德维尔早期的自爱论？引入自矜，是否反映《寓言》各版之间他的道德哲学和社会哲学发生了总体变化？（尤见 Hundert 1994: 53–55, 137–139；Tolonen 2013: 41–102；Maurer 2019: 60–64；Douglass 2023: 35–38, 62–67；Callanan 2025: 242–253）[^callanan-2025][^douglass-2023][^hundert-1994][^maurer-2019][^tolonen-2013]。
   - id: 31
     kind: body
     source: |-
       ## 3. Moral Philosophy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 道德哲学
+    step2: |-
+      ## 3 道德哲学
   - id: 32
     kind: body
     source: |-
       The area of Mandeville’s thought that has generated the greatest debate is undoubtedly his moral philosophy. Amongst many competing views, he has been read as a sceptic who aims to expose morality as a political trick while subverting the prevailing moral standards of his day, as a moral rigorist who seeks to demonstrate that much of our behavior falls considerably short of the demands of virtue, and as a utilitarian who holds that what really matters is the consequences of our actions and not the motives behind them (for an extensive survey, see Monro 1975: 178–248)[^monro-1975]. Our aim presently is not to pass judgement on the validity of these or other interpretations. Instead, we focus on some of the key questions and puzzles that arise from the most influential statement of Mandeville’s moral philosophy, “An Enquiry Into the Origin of Moral Virtue”, in which he explains how humans could have acquired ideas of virtue and vice without knowledge of revealed religion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      曼德维尔思想中引发最大争论的领域，无疑是他的道德哲学。在众多彼此竞争的解读中，他被读作一位怀疑论者，旨在揭露道德不过是一场政治把戏，同时颠覆他那个时代流行的道德标准；也被读作一位道德严格主义者，力图表明我们的许多行为远远达不到德性的要求；还被读作一位功利主义者，认为真正重要的是行动的后果，而非背后的动机（详尽综述见 Monro 1975: 178–248）[^monro-1975]。我们当下的目标不是评判这些解读或其他解读是否成立，而是聚焦于曼德维尔道德哲学最具影响力的表述——《探究道德德性的起源》——所引出的若干关键问题与困惑。在这篇论文中，他解释了人类如何可能在不知启示宗教的情况下获得德性与恶德的观念。
+    step2: |-
+      曼德维尔思想中争论最大的领域，无疑是道德哲学。众多解读相互竞争：有人把他读成怀疑论者，意在揭穿道德不过是政治把戏，同时颠覆他那个时代流行的道德标准；有人把他读成道德严格主义者，力求表明我们的许多行为远远够不上德性的要求；也有人把他读成功利主义者，认为真正要紧的是行动的后果，而不是背后的动机（详尽综述见 Monro 1975: 178–248）[^monro-1975]。我们这里不想评判这些解读或其他解读是否成立，只想聚焦曼德维尔道德哲学最具影响力的表述——《探究道德德性的起源》——所引出的几个关键问题和困惑。这篇论文要解释的是：人类如何可能在不知启示宗教的情况下获得德性与恶德的观念。
   - id: 33
     kind: body
     source: |-
       ### 3.1 The origin of moral virtue
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 道德德性的起源
+    step2: |-
+      ### 3.1 道德德性的起源
   - id: 34
     kind: body
     source: |-
       In setting out his account of the origin of virtue, Mandeville addresses the problem of what leads us to act in ways that advance the interests of other people and the community. As we have seen, Mandeville thinks that we are fundamentally self-centered creatures, which means that we would only resist our natural appetites and inclinations if we anticipate some personal gain from doing so. Instead of providing individuals with tangible goods, Mandeville suggests that “lawgivers”—a broad concept that often encompasses those with the authority to establish moral rules—would have used praise and contempt as foundational tools to civilize humanity. Those who resist their selfish inclinations and act in ways that benefit others would be rewarded with praise, while those who indulge their appetites without regard to the public good would be held in contempt. It is on this basis, Mandeville argues, that everyone would have come to agree on definitions of virtue and vice. All acts where someone gratifies their appetites in a way that could prove socially detrimental would be counted as vices, with the term virtue reserved for acts where someone resists their natural impulses and endeavors “the Benefit of others, or the Conquest of his own Passions out of a Rational Ambition of being good” (FB I, 42–49).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在阐述德性起源的说明时，曼德维尔处理的问题是：是什么引导我们以增进他人与共同体利益的方式行动。如我们所见，曼德维尔认为我们从根本上是以自我为中心的造物，这意味着，只有当预见到这样做会带来某种个人好处时，我们才会克制自然的嗜欲与倾向。曼德维尔提出，立法者——一个宽泛的概念，常包括有权确立道德规则的人——不是向个体提供有形的好处，而是把赞扬与蔑视当作教化人类的基础工具。那些克制自私倾向、以利他方式行动的人会得到赞扬作为奖赏；那些放纵嗜欲、不顾公共利益的人则会遭到蔑视。曼德维尔主张，正是在这个基础上，每个人才逐渐就德性与恶德的定义达成一致。凡是某人以满足嗜欲的方式行事、并可能对社会有害的行为，都算作恶德；而德性一词则留给这样的行为：某人抗拒自然冲动，并且“出于想成为好人的理性抱负，致力于他人之利，或征服自己的激情”（FB I, 42–49）。
+    step2: |-
+      要讲德性的起源，曼德维尔先要回答：是什么促使我们去做增进他人和共同体利益的事？如我们所见，他认为人从根本上以自我为中心，所以只有预见到某种个人好处，我们才会克制自然的嗜欲和倾向。他提出，立法者——这个宽泛概念常包括有权确立道德规则的人——并不给个体什么有形的好处，而是把赞扬和蔑视当作教化人类的基础工具。克制自私倾向、做有益他人之事的人，会得到赞扬；放纵嗜欲、不顾公共利益的人，则遭蔑视。曼德维尔主张，正是在这个基础上，大家才逐渐就德性与恶德的定义达成一致：凡是以可能危害社会的方式满足嗜欲的行为，都算恶德；德性一词则留给这样的行为——某人抗拒自然冲动，“出于想成为好人的理性抱负，致力于他人之利，或征服自己的激情”（FB I, 42–49）。
   - id: 35
     kind: body
     source: |-
       On this account, we hold certain ideas of virtue and vice only because doing so is in everyone’s interest. Where those who approximate this standard of virtue have an interest in being esteemed as virtuous, those who fall short of this standard nevertheless have an interest in encouraging others to perform acts from which they benefit. Mandeville maintains that the earliest formulation of these ideas was an invention of ambitious lawgivers or politicians who wanted to govern people more easily. He describes the distinction between virtue and vice as “the Contrivance of Politicians”, and memorably declares that “the Moral Virtues are the Political Offspring which Flattery begot upon Pride” (FB I, 50–51). These assertions outraged many of Mandeville’s contemporaries, who accused him of bringing the idea of virtue into disrepute by denying the reality of moral distinctions. Mandeville’s explanation of how we acquire notions of virtue and vice implicitly rejects views of morality widely held at the time, such as the idea that we have an innate moral sense that allows us to understand the distinction between right and wrong, or that moral obligations can be deduced by right reason as precepts of natural law. By contrast, his critics argued, Mandeville’s account presents our ideas of virtue and vice as arbitrary, in the sense that these notions are dependent upon human will and agreement alone, rather than being based on any immutable or eternal standards (see e.g., Fiddes 1724: xvi; Law 1724: 22–23; Bluet 1725: 108–109, 136)[^bluet-1725][^fiddes-1724][^law-1724]. This worry was exacerbated by the fact that Mandeville elsewhere flirts with moral relativism, highlighting examples of how moral codes vary in different cultures to challenge the idea that virtue and vice are “permanent Realities that must ever be the same in all Countries and all Ages” (FB I, 324, 330–331).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按照这一说明，我们之所以持有某些德性与恶德的观念，仅仅因为这样做符合每个人的利益。接近这一德性标准的人，有利益要被人尊为有德；达不到这一标准的人，同样有利益鼓励别人去做那些自己可以从中受益的行为。曼德维尔坚持认为，这些观念最早的表述，是野心勃勃的立法者或政治家的发明，他们想更容易地统治人民。他把德性与恶德的区分描述为“政治家的设计”，并留下那句令人难忘的断言：“道德德性是奉承在骄傲之上生出的政治子嗣”（FB I, 50–51）。这些断言激怒了许多同时代人，他们指责曼德维尔否认道德区分的实在性，从而使德性观念声名扫地。曼德维尔关于我们如何获得德性与恶德观念的解释，暗中否弃了当时广泛流行的道德观，例如：我们有一种内在的道德感，能理解是非之别；或者，道德义务可以凭正确理性推演为自然法的戒律。批评者反驳说，相比之下，曼德维尔的说明把我们的德性与恶德观念呈现为任意的：这些观念仅依赖人的意志与约定，而不以任何不变或永恒的标准为依据（例见 Fiddes 1724: xvi；Law 1724: 22–23；Bluet 1725: 108–109, 136）[^bluet-1725][^fiddes-1724][^law-1724]。使这种忧虑更甚的是，曼德维尔在别处还与道德相对主义调情，举出道德准则在不同文化中如何变化的例子，以挑战“德性与恶德是恒久实在，在任何国家、任何时代都必定始终如一”这一观念（FB I, 324, 330–331）。
+    step2: |-
+      按这套说法，我们之所以持有某些德性与恶德的观念，仅仅因为这样对每个人都有利。接近这一德性标准的人，有利益要被人尊为有德；达不到标准的人，也有利益鼓励别人去做自己能从中受益的事。曼德维尔坚持认为，这些观念最早的表述，是野心勃勃的立法者或政治家的发明，他们想更省力地统治人民。他把德性与恶德的区分说成“政治家的设计”，还留下那句令人难忘的话：“道德德性是奉承在骄傲之上生出的政治子嗣”（FB I, 50–51）。这些断言激怒了许多同时代人，他们指责曼德维尔否认道德区分的实在性，让德性观念声名扫地。曼德维尔关于我们如何获得德性与恶德观念的解释，暗中否弃了当时广为流行的道德观。例如，有人认为我们有一种内在的道德感，能分辨是非；也有人认为，道德义务可以凭正确理性推演为自然法戒律。批评者反驳说，相比之下，曼德维尔的说明把德性与恶德观念说成了任意的：这些观念只依赖人的意志和约定，不以任何不变或永恒的準则为依据（例见 Fiddes 1724: xvi；Law 1724: 22–23；Bluet 1725: 108–109, 136）[^bluet-1725][^fiddes-1724][^law-1724]。更让他们不安的是，曼德维尔在别处还与道德相对主义眉来眼去，举出道德准则在不同文化中如何变化的例子，挑战“德性与恶德是恒久实在，在任何国家、任何时代都必定始终如一”这一想法（FB I, 324, 330–331）。
   - id: 36
     kind: body
     source: |-
       As his critics also pointed out, the role of wise lawgivers or politicians in Mandeville’s account is somewhat question-begging, as it remains unclear how they attained the knowledge required to civilize everyone else (e.g., Bluet 1725: 25–28)[^bluet-1725]. Yet Mandeville’s later works do not rely on these figures to anywhere near the same degree, and, when they are invoked, he explains their inventions as the joint labor of numerous people over many ages (OH 40–41). He still maintains that humans do not naturally possess any equitable or reasonable notions of right and wrong (FB II, 223–224), arguing instead that we would have come to acquire such notions only through a long period of socialization. He also insists that this explanation does not involve denigrating virtue, as his critics had objected. Comparing the excellence of virtue to axioms of mathematics, Mandeville allows that it makes sense to call these eternal truths in a figurative sense, but the key point is that a great deal of learning is needed to discover them. To stress the difficulties involved in arriving at these truths, however, is not to deny their existence (OH vii–viii).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如批评者还指出的，在曼德维尔的说明中，明智的立法者或政治家的角色有点乞题：他们究竟如何获得教化其他所有人所需的知识，仍然不清楚（例见 Bluet 1725: 25–28）[^bluet-1725]。但曼德维尔后来的著作远没有那么依赖这些人物；即便提到他们，他也把他们的发明解释为无数人在许多世代中的共同劳作（OH 40–41）。他仍然坚持，人类并非天生就拥有任何公正或合理的对错观念（FB II, 223–224），而是主张我们只有经过漫长的社会化过程才会获得这类观念。他还坚称，这一解释并不涉及贬低德性——批评者曾如此指责。曼德维尔把德性的卓越比作数学公理，承认在比喻意义上把这些称为永恒真理是说得通的，但关键在于：要发现它们，需要大量学习。然而，强调抵达这些真理的困难，并不等于否认它们的存在（OH vii–viii）。
+    step2: |-
+      批评者还指出，曼德维尔笔下那些明智的立法者或政治家，角色有点乞题：他们究竟怎么获得教化其余所有人所需的知识，始终说不清楚（例见 Bluet 1725: 25–28）[^bluet-1725]。不过曼德维尔后来的著作远没有那么依赖这些人物；即便提到，他也把他们的发明说成无数人在许多世代里的共同劳作（OH 40–41）。他仍然坚持，人并非天生就有任何公正、合理的对错观念（FB II, 223–224），而是主张只有经过漫长的社会化，我们才获得这类观念。他还坚称，这一解释并不贬低德性——批评者曾这样指责他。曼德维尔把德性的卓越比作数学公理，承认在比喻意义上称这些为永恒真理是说得通的；但关键的一点是，要发现它们，需要大量学习。强调抵达这些真理有多难，并不等于否认它们存在（OH vii–viii）。
   - id: 37
     kind: body
     source: |-
       One way of understanding Mandeville’s position is that, given certain background facts about human nature and social interaction, ideas of virtue and vice are necessary for societies to function effectively. The distinction between virtue and vice is socially advantageous, in other words, and we must have come to understand moral concepts in a certain way to facilitate social order and cooperation. If this way of reading Mandeville’s position helps to evade the worry that he denied the reality of moral distinctions, it may nonetheless run into tension with his infamous “private vices, public benefits” thesis (see Bluet 1725: 23–24)[^bluet-1725]. On the one hand, *The Grumbling Hive* verse suggests that if vices were rooted out of society and everyone became virtuous then economic and social ruin would ensue. On the other hand, Mandeville argues that ideas of virtue and vice are required to ensure that we live peacefully together. Even if these two strands of his thought can be reconciled, doing so is far from straightforward (for further discussion, see Monro 1975, 203–209)[^monro-1975].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理解曼德维尔立场的一种方式是：给定关于人性与社会互动的某些背景事实，德性与恶德的观念对于社会有效运作是必要的。换言之，德性与恶德的区分对社会有利，而我们必定是逐渐以某种方式理解道德概念的，以促进社会秩序与合作。如果这种读法有助于避开“曼德维尔否认道德区分之实在性”的忧虑，它却可能与曼德维尔那句臭名昭著的“私恶公利”论点发生紧张（见 Bluet 1725: 23–24）[^bluet-1725]。一方面，《抱怨的蜂巢》一诗暗示，如果恶德被从社会中根除、人人都变得有德，经济与社会的毁灭便会随之而来。另一方面，曼德维尔又主张，德性与恶德的观念是确保我们和平共处所必需的。即便他思想中的这两条线索可以调和，调和起来也远非易事（进一步讨论见 Monro 1975, 203–209）[^monro-1975]。
+    step2: |-
+      理解曼德维尔立场的一种方式是：给定关于人性与社会互动的某些背景事实，德性与恶德的观念对社会有效运转来说是必要的。换句话说，德性与恶德的区分对社会有好处，而我们必定是逐渐以某种方式理解道德概念，才促成了社会秩序与合作。这样读可以避开“他否认道德区分实在性”的忧虑，却可能与他那个臭名昭著的“私恶公利”论点相冲突（见 Bluet 1725: 23–24）[^bluet-1725]。一方面，《抱怨的蜂巢》暗示：恶德若从社会中被根除，人人都变得有德，经济和社会的毁灭就会随之而来。另一方面，曼德维尔又主张，德性与恶德的观念是确保我们和平共处所必需的。这两条线索即便可以调和，调和起来也远非易事（进一步讨论见 Monro 1975, 203–209）[^monro-1975]。
   - id: 38
     kind: body
     source: |-
       ### 3.2 Is virtue possible?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 德性是否可能？
+    step2: |-
+      ### 3.2 德性是否可能？
   - id: 39
     kind: body
     source: |-
       Mandeville’s definitions of virtue and vice admit of many ambiguities, giving rise to debates about whether he has a consistent account of the requirements of virtue, and, if so, whether those requirements place virtue beyond human reach (see Colman 1972; Douglass 2020)[^colman-1972][^douglass-2020]. Leaving aside the question of his sincerity, for the moment, two features of his expressed position are relatively uncontroversial. First, virtuous actions require self-denial. This is clear from Mandeville’s initial definition of virtue (FB I, 48–49), and it is a point that he emphasizes repeatedly when setting his ideas out against Shaftesbury (e.g., FB I, 323, 331; FB II, 108–109). Second, whether an act is virtuous depends on the motive from which someone acts (FB I, 56, 260–261). While this much is straightforward, complications soon arise once we start to interrogate these requirements further.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      曼德维尔对德性与恶德的定义有许多含混之处，由此引发争论：他对德性要求是否有一套前后一致的说明？若有，这些要求是否使德性超出了人类力所能及的范围（见 Colman 1972；Douglass 2020）[^colman-1972][^douglass-2020]。暂时撇开他是否真诚的问题，他明确表达过的立场有两个特征相对没有争议。第一，有德的行为要求自我克制。这一点从曼德维尔最初对德性的定义即可看清（FB I, 48–49），也是他在把自己的观点与沙夫茨伯里对置时反复强调的一点（例见 FB I, 323, 331；FB II, 108–109）。第二，一个行为是否有德，取决于人出于何种动机行动（FB I, 56, 260–261）。这些还算直白；可一旦进一步追问这些要求，麻烦很快就来了。
+    step2: |-
+      曼德维尔对德性与恶德的定义有不少含混之处，于是引出争论：他对德性的要求是否有一套前后一致的说法？如果有，这些要求是否让德性超出了人力所及（见 Colman 1972；Douglass 2020）[^colman-1972][^douglass-2020]。先撇开他是否真诚不谈，他明确表达过的立场有两个特征相对没有争议。第一，有德的行为要求自我克制。这点从他最初给德性下的定义就能看清（FB I, 48–49），也是他把自己的观点与沙夫茨伯里对置时反复强调的（例见 FB I, 323, 331；FB II, 108–109）。第二，一个行为是否有德，取决于人出于什么动机（FB I, 56, 260–261）。这些还算直白；可一旦继续追问这些要求，麻烦很快就来了。
   - id: 40
     kind: body
     source: |-
       Consider self-denial. How much self-denial is required for an act to be virtuous? Acting “contrary to the impulse of Nature” (FB I, 48) might not be too demanding if it involves nothing more than resisting one’s immediate appetites. Yet more is presumably required to conquer one’s passions. At one point Mandeville claims that virtue requires “a Victory over the Passions”. It is this victory over the passions that distinguishes real virtue from “Counterfeited Virtue”, which is merely the “Conquest which one Passion obtains over another” (FB I, 230, also 405). When we act in ways that benefit others out of pride or shame, for example, this does not count as the victory over the passions required for real virtue, but only the conquest of one passion over another that characterizes counterfeited virtue. This is why good manners and politeness have little to do with real virtue (FB I, 79; FB II, 146, 281). How, then, can we obtain the victory over the passions required for real virtue? If all our actions are governed by our passions, as Mandeville maintains, then it follows that a victory over the passions is impossible—at least without divine assistance (FT 24; OH 56, 99–100). Notice, however, that even if real virtue is beyond human reach, this does not imperil the widespread practice of counterfeited virtue, where people act in ways that appear to be public-spirited because they desire social esteem.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      试看自我克制。一个行为要有德，需要多少自我克制？如果“违背自然冲动”（FB I, 48）仅仅意味着克制当下的嗜欲，那也许不算太难。但要征服自己的激情，大概就需要更多了。曼德维尔一度声称，德性要求“对激情的胜利”。正是这种对激情的胜利，把真正的德性与“假冒的德性”区别开来；后者不过是“一种激情对另一种激情取得的征服”（FB I, 230，亦见 405）。例如，当我们出于骄傲或羞耻去做有益他人的事，这不算真正德性所要求的那种对激情的胜利，而只是假冒德性所具有的“一种激情征服另一种激情”。正因如此，良好举止与礼貌同真正的德性关系不大（FB I, 79；FB II, 146, 281）。那么，我们如何才能获得真正德性所要求的那种对激情的胜利？如果如曼德维尔所坚持的，我们的一切行为都受激情支配，那么结论就是：对激情的胜利不可能——至少在没有神圣助力的情况下不可能（FT 24；OH 56, 99–100）。不过要注意：即便真正的德性超出人力所及，这也并不危及假冒德性的广泛实践——在这种实践中，人们因为渴望社会尊重，做出看似热心公益的事。
+    step2: |-
+      试看自我克制。一个行为要有德，究竟需要多少自我克制？“违背自然冲动”（FB I, 48），如果只是克制当下的嗜欲，那也许不算太难。但要征服自己的激情，大概就得更多。曼德维尔一度声称，德性要求“对激情的胜利”。正是这种胜利，把真正的德性与“假冒的德性”区别开来；后者不过是“一种激情对另一种激情取得的征服”（FB I, 230，亦见 405）。比方说，我们出于骄傲或羞耻去做有益他人的事，这算不上真正德性所要求的那种胜利，只是假冒德性的“一种激情征服另一种激情”。正因如此，良好举止和礼貌同真正的德性关系不大（FB I, 79；FB II, 146, 281）。那么，怎样才能获得真正德性所要求的那种对激情的胜利？如果像曼德维尔坚持的那样，我们的一切行为都受激情支配，结论就是：对激情的胜利不可能——至少没有神圣助力就不可能（FT 24；OH 56, 99–100）。不过要注意：即便真正的德性超出人力所及，也不妨碍假冒德性大行其道——人们因为渴望社会尊重，做出看似热心公益的事。
   - id: 41
     kind: body
     source: |-

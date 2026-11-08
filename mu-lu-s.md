@@ -167,7 +167,7 @@ outline: [1, 6]
 * [中世纪的类比理论 medieval theories of (E. Jennifer Ashworth and Domenic D’Ettore)](a/analogy-medieval.md)
 * [中世纪哲学中的心理表征 in medieval philosophy (Henrik Lagerlund)](r/representation-medieval.md)
 * [阿拉伯和伊斯兰哲学中的本质与存在 essence and existence (Fedor Benevich)](a/arabic-islamic-essence.md)
-* [尼科尔·奥雷姆 Oresme, Nicole (Stefan Kirschner)](n/nicole-oresme.md)
+* [尼科尔·奥雷斯姆 Oresme, Nicole (Stefan Kirschner)](n/nicole-oresme.md)
 * [萨克森的阿尔伯特 Albert of Saxony (Joél Biard)](a/albert-saxony.md)
 * [让·布里丹 John Buridan (Jack Zupko)](b/buridan.md)
 * [威廉·海特斯伯里 Heytesbury, William (Miroslav Hanke and Elzbieta Jung)](h/heytesbury.md)
