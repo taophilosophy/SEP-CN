@@ -1,0 +1,22 @@
+{
+  "slug": "stem-cells",
+  "kind": "retranslate",
+  "zh_doc": "s/stem-cells.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T21:47:08Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-08T21:47:08Z",
+  "version_pin": {
+    "pubinfo_date": "Dec 19, 2018",
+    "archive_edition": "Winter 2018",
+    "sha256": "d70e5af6873c8c57e199ea3abd4003becb05c4d719cfecc3a7c62a80d69f3858"
+  }
+}

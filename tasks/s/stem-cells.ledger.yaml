@@ -1,0 +1,321 @@
+version: 1
+slug: stem-cells
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Human embryonic stem cell (HESC) research offers much hope for alleviating the human suffering brought on by the ravages of disease and injury. HESCs are characterized by their capacity for self-renewal and their ability to differentiate into all types of cells of the body. The main goal of HESC research is to identify the mechanisms that govern cell differentiation and to turn HESCs into specific cell types that can be used for treating debilitating and life-threatening diseases and injuries.
+    step1: |-
+      人类胚胎干细胞（HESC）研究为减轻疾病与损伤之破坏所带来的人类苦难提供了很大希望。HESC 的特征在于其自我更新的能力，以及分化成身体所有类型细胞的能力。HESC 研究的主要目标是找出控制细胞分化的机制，并把 HESC 转变成可用于治疗致衰弱与威胁生命的疾病和损伤的特定细胞类型。
+    step2: |-
+      人类胚胎干细胞（HESC）研究给人类带来很大希望：疾病与损伤的破坏造成种种苦难，这项研究有望加以缓解。HESC 的特点是能够自我更新，并能分化成人体各类细胞。HESC 研究的主要目标，是找出支配细胞分化的机制，把 HESC 变成特定的细胞类型，用以治疗那些使人衰弱、危及生命的疾病与损伤。
+  - id: 2
+    kind: body
+    source: |-
+      Despite the tremendous therapeutic promise of HESC research, the research has met with heated opposition because the harvesting of HESCs involves the destruction of the human embryo. HESCs are derived *in vitro* around the fifth day of the embryo’s development (Thomson *et al*. 1998)[^thomson-1998]. A typical day-5 human embryo consists of 200–250 cells, most of which comprise the trophoblast, which is the outermost layer of the blastocyst. HESCs are harvested from the inner cell mass of the blastocyst, which consists of 30–34 cells. The derivation of HESC cultures requires the removal of the trophoblast. This process of disaggregating the blastocyst’s cells eliminates its potential for further development. Opponents of HESC research argue that the research is morally impermissible because it involves the unjust killing of innocent human beings.
+    step1: |-
+      尽管 HESC 研究有着巨大的治疗前景，这项研究却遭到激烈反对，因为采集 HESC 涉及销毁人类胚胎。HESC 是在胚胎发育第五天前后 *in vitro* 获取的（Thomson *et al*. 1998）[^thomson-1998]。一个典型的第 5 天人类胚胎由 200–250 个细胞构成，其中大多数组成滋养层，滋养层是囊胚的最外层。HESC 是从囊胚的内细胞团采集的，内细胞团由 30–34 个细胞构成。建立 HESC 培养系需要去除滋养层。这一解离囊胚细胞的过程消除了它继续发育的潜能。反对 HESC 研究的人主张，这项研究在道德上不可允许，因为它涉及不义地杀死无辜的人。
+    step2: |-
+      尽管 HESC 研究的治疗前景极为可观，它却遭到激烈反对：采集 HESC 要销毁人类胚胎。HESC 取自胚胎发育第五天前后的 *in vitro* 培养物（Thomson *et al*. 1998）[^thomson-1998]。典型的第 5 天人类胚胎含 200–250 个细胞，其中大多构成滋养层，即囊胚的最外层。HESC 则取自囊胚的内细胞团，那里只有 30–34 个细胞。建立 HESC 细胞系须去除滋养层；把囊胚的细胞解离，胚胎便失去了继续发育的潜能。反对者因此主张，这项研究在道德上不可允许：它不义地杀死了无辜的人。
+  - id: 3
+    kind: body
+    source: |-
+      Scientists recently succeeded in converting adult human skin cells into cells that appear to have the properties of HESCs by activating four genes in the adult cells (Takahashi *et al*. 2007; Yu *et al*. 2007)[^takahashi-2007]. The reprogrammed cells—“induced pluripotent stem cells” (iPSCs)—could ultimately eliminate the need for HESCs. However, at present, the consensus in the scientific community is that both HESC and iPSC research should be pursued, as we do not yet know whether iPSCs have the same potential as HESCs or whether it is safe to transplant them into humans. Thus, the controversies around HESC research will continue, at least in the near-term.
+    step1: |-
+      科学家最近成功地把成年人类皮肤细胞转化为看来具有 HESC 特性的细胞，办法是激活成年细胞中的四个基因（Takahashi *et al*. 2007; Yu *et al*. 2007）[^takahashi-2007]。这些被重编程的细胞——“诱导多能干细胞”（iPSC）——最终可能消除对 HESC 的需要。然而，目前科学界的共识是，HESC 研究与 iPSC 研究都应继续推进，因为我们尚不知道 iPSC 是否具有与 HESC 相同的潜能，也不知道把它们移植到人体是否安全。因此，围绕 HESC 研究的争议将会继续，至少在近期如此。
+    step2: |-
+      科学家最近做成了一件事：激活成年细胞中的四个基因，把成人的皮肤细胞转化成看似具有 HESC 特性的细胞（Takahashi *et al*. 2007; Yu *et al*. 2007）[^takahashi-2007]。这些重编程后的细胞即“诱导多能干细胞”（iPSC），最终或许能让 HESC 变得不必要。不过，科学界目前的共识是两条线都要走：iPSC 是否与 HESC 潜能相当、移植到人体是否安全，眼下都还没有答案。因此围绕 HESC 研究的争议仍将持续，至少近期如此。
+  - id: 4
+    kind: body
+    source: |-
+      While the principal source of the controversy surrounding HESC research lies in competing views about the value of human embryonic life, the scope of ethical issues in HESC research is broader than the question of the ethics of destroying human embryos. It also encompasses questions about, among other things, whether researchers who use but do not derive HESCs are complicit in the destruction of embryos, whether there is a moral distinction between creating embryos for research purposes and creating them for reproductive ends, the permissibility of cloning human embryos to harvest HESCs, and the ethics of creating human/non-human chimeras. This entry provides an overview of all but the last two issues just listed; cloning and human-non-human chimeras are addressed in separate entries.
+    step1: |-
+      虽然围绕 HESC 研究的争议主要源于关于人类胚胎生命价值的分歧看法，HESC 研究中的伦理问题范围却比销毁人类胚胎的伦理问题更广。它还涵盖如下问题：使用但不获取 HESC 的研究者是否在销毁胚胎一事上有共谋；为研究目的创造胚胎与为生殖目的创造胚胎之间是否有道德区别；克隆人类胚胎以采集 HESC 是否可允许；以及创造人与非人嵌合体是否合乎伦理。本词条概述上述问题中除最后两个之外的全部问题；克隆与人与非人嵌合体另有专条讨论。
+    step2: |-
+      围绕 HESC 研究的争议，主要源头在于人们对人类胚胎生命价值看法不一；但 HESC 研究涉及的伦理问题远不止“销毁人类胚胎是否合乎伦理”。它还牵涉以下问题：只使用 HESC 而不获取 HESC 的研究者，是否在销毁胚胎一事上负有共谋；为研究创造胚胎与为生殖创造胚胎之间有无道德区别；克隆人类胚胎以采集 HESC 是否可允许；以及创造人与非人嵌合体是否合乎伦理。本词条讨论上述问题，唯最后两项除外——克隆与人与非人嵌合体另有专条。
+  - id: 5
+    kind: body
+    source: |-
+      ## 1. The Ethics of Destroying Human Embryos for Research
+    step1: |-
+      ## 1 为研究而销毁人类胚胎的伦理问题
+    step2: |-
+      ## 1 为研究而销毁人类胚胎的伦理问题
+  - id: 6
+    kind: body
+    source: |-
+      The potential therapeutic benefits of HESC research provide strong grounds in favor of the research. If looked at from a strictly consequentialist perspective, it’s almost certainly the case that the potential health benefits from the research outweigh the loss of embryos involved and whatever suffering results from that loss for persons who want to protect embryos. However, most of those who oppose the research argue that the constraints against killing innocent persons to promote social utility apply to human embryos. Thus, as long as we accept non-consequentialist constraints on killing persons, those supporting HESC research must respond to the claim that those constraints apply to human embryos.
+    step1: |-
+      HESC 研究的潜在治疗收益为这项研究提供了强有力的支持理由。若从严格的后果主义视角看，几乎可以肯定，这项研究潜在的健康收益超过所涉及的胚胎损失，也超过这一损失给想要保护胚胎的人带来的任何痛苦。然而，反对这项研究的人大多主张，禁止为增进社会效用而杀死无辜者的约束同样适用于人类胚胎。因此，只要我们接受禁止杀人的非后果主义约束，支持 HESC 研究的人就必须回应如下主张：这些约束适用于人类胚胎。
+    step2: |-
+      HESC 研究潜在的治疗收益，是支持这项研究的有力理由。若纯从后果主义看，几乎可以肯定：研究带来的潜在健康收益，大于所涉胚胎的损失，也大于这一损失给想要保护胚胎的人造成的痛苦。但反对者大多主张，禁止为增进社会效用而杀死无辜者的约束，同样适用于人类胚胎。因此，只要我们还接受禁止杀人的非后果主义约束，支持 HESC 研究的人就必须回应一点：这些约束适用于人类胚胎。
+  - id: 7
+    kind: body
+    source: |-
+      In its most basic form, the central argument supporting the claim that it is unethical to destroy human embryos goes as follows: It is morally impermissible to intentionally kill innocent human beings; the human embryo is an innocent human being; therefore it is morally impermissible to intentionally kill the human embryo. It is worth noting that this argument, if sound, would not suffice to show that all or even most HESC research is impermissible, since most investigators engaged in HESC research do not participate in the derivation of HESCs but instead use cell lines that researchers who performed the derivation have made available. To show that researchers who use but do not derive HESCs participate in an immoral activity, one would further need to establish their complicity in the destruction of embryos. We will consider this issue in section 2. But for the moment, let us address the argument that it is unethical to destroy human embryos.
+    step1: |-
+      支持“销毁人类胚胎不合伦理”这一主张的核心论证，最基本的形式如下：故意杀死无辜的人，在道德上不可允许；人类胚胎是无辜的人；因此，故意杀死人类胚胎在道德上不可允许。值得注意的是，这一论证即使成立，也不足以表明所有乃至大多数 HESC 研究不可允许，因为从事 HESC 研究的研究者大多不参与获取 HESC，而是使用完成获取的研究者已提供的细胞系。要表明使用但不获取 HESC 的研究者参与了一种不道德的活动，还需要进一步确定他们在销毁胚胎一事上的共谋。我们将在第 2 节讨论这一问题。眼下先来处理“销毁人类胚胎不合伦理”这一论证。
+    step2: |-
+      支持“销毁人类胚胎不合伦理”的核心论证，最基本的形式如下：故意杀死无辜的人，道德上不可允许；人类胚胎是无辜的人；所以，故意杀死人类胚胎，道德上不可允许。要注意：这一论证即便成立，也不足以说明所有 HESC 研究、甚至大多数 HESC 研究都不可允许。从事 HESC 研究的研究者大多并不亲自获取 HESC，用的只是别人建好的细胞系。要说“只用不取”的研究者参与了不道德的活动，还得另外证明他们与销毁胚胎构成共谋。这个问题留到第 2 节。眼下先看“销毁人类胚胎不合伦理”这一论证本身。
+  - id: 8
+    kind: body
+    source: |-
+      ### 1.1 When does a human being begin to exist?
+    step1: |-
+      ### 1.1 人从何时开始存在？
+    step2: |-
+      ### 1.1 人从何时开始存在？
+  - id: 9
+    kind: body
+    source: |-
+      A premise of the argument against killing embryos is that human embryos are human beings. The issue of when a human being begins to exist is, however, a contested one. The standard view of those who oppose HESC research is that a human being begins to exist with the emergence of the one-cell zygote at fertilization. At this stage, human embryos are said to be “whole living member[s] of the species homo sapiens … [which] possess the epigenetic primordia for self-directed growth into adulthood, with their determinateness and identity fully intact” (George & Gomez-Lobo 2002, 258)[^george-2002]. This view is sometimes challenged on the grounds that monozygotic twinning is possible until around days 14–15 of an embryo’s development (Smith & Brogaard 2003)[^smith-2003]. An individual who is an identical twin cannot be numerically identical to the one-cell zygote, since both twins bear the same relationship to the zygote, and numerical identity must satisfy transitivity. That is, if the zygote, A, divides into two genetically identical cell groups that give rise to identical twins B and C, B and C cannot be the same individual as A because they are not numerically identical with each other. This shows that not all persons can correctly assert that they began their life as a zygote. However, it does not follow that the zygote is not a human being, or that it has not individuated. This would follow only if one held that a condition of an entity’s status as an individual human being is that it be impossible for it to cease to exist by dividing into two or more entities. But this seems implausible. Consider cases in which we imagine adult humans undergoing fission (for example, along the lines of Parfit’s thought experiments, where each half of the brain is implanted into a different body) (Parfit 1984)[^parfit-1984]. The prospect of our going out of existence through fission does not pose a threat to our current status as distinct human persons. Likewise, one might argue, the fact that a zygote may divide does not create problems for the view that the zygote is a distinct human being.
+    step1: |-
+      反对杀死胚胎的论证有一个前提：人类胚胎是人。然而，人从何时开始存在，是一个有争议的问题。反对 HESC 研究者的标准看法是：人随着受精时单细胞受精卵的出现而开始存在。在这个阶段，人类胚胎被说成是“homo sapiens 物种的完整活成员……〔它〕拥有自我导向地成长为成人的表观遗传原基，其确定性与同一性完全无损”（George & Gomez-Lobo 2002, 258）[^george-2002]。这一看法有时受到挑战，理由是：胚胎发育到约 14—15 天之前，同卵孪生都有可能（Smith & Brogaard 2003）[^smith-2003]。一个同卵双生子不可能与单细胞受精卵数值同一，因为两个双生子与受精卵的关系相同，而数值同一必须满足传递性。也就是说，如果受精卵 A 分裂为两个基因上相同的细胞群，进而长成同卵双生子 B 和 C，那么 B 和 C 不可能是与 A 相同的个体，因为二者彼此并不数值同一。这表明，并非所有人都能正确断言自己以受精卵的形态开始了生命。然而，由此推不出受精卵不是人，也推不出它尚未个体化。只有当我们认定“实体成为个体的人”的条件之一是它不可能靠分裂为两个或更多实体而停止存在，上述结论才推得出来。但这似乎不可信。试想成年人经历分裂的情形。帕菲特设想把大脑的两半分别植入不同的身体，我们可以照此设想（Parfit 1984）[^parfit-1984]。我们有可能通过分裂而不再存在，这一前景并不威胁我们当下作为彼此不同的人的地位。同样，人们可以论证，受精卵可能分裂这一事实，并不给“受精卵是一个独立的人”这一看法造成麻烦。
+    step2: |-
+      反对杀死胚胎的论证有一个前提：人类胚胎是人。可是，人从何时开始存在，本身就有争议。反对 HESC 研究的人通常认为，人随着受精时单细胞受精卵的出现而开始存在。他们说，此时的人类胚胎是“homo sapiens 物种的完整活成员……〔它〕拥有自我导向地长成人的表观遗传原基，其确定性与同一性完全无损”（George & Gomez-Lobo 2002, 258）[^george-2002]。这一看法有时遭到反驳：胚胎发育到 14—15 天左右之前，同卵孪生仍有可能（Smith & Brogaard 2003）[^smith-2003]。同卵双生子之一不可能与那个单细胞受精卵数值同一。两个双生子与受精卵的关系完全对等，而数值同一必须满足传递性。也就是说，若受精卵 A 分裂成两个基因上相同的细胞群，长成同卵双生子 B 与 C，那么 B、C 都不可能是 A 这个个体，因为二者彼此并不数值同一。可见，并非所有人都能如实说自己是从一个受精卵开始的。但这推不出受精卵不是人，也推不出它还没有个体化。只有当我们认定“实体成为个体的人”的条件之一是它不可能靠分裂成两个或更多实体而停止存在，上述结论才推得出来。而这似乎不可信。想想成年人经历分裂的情形：帕菲特设想过把大脑的两半分别植入不同的身体（Parfit 1984）[^parfit-1984]。我们有可能因分裂而不再存在，这一前景并不威胁我们当下作为彼此不同的人的地位。同样可以论证：受精卵可能分裂，并不妨碍“受精卵是一个独立的人”这一看法。
+  - id: 10
+    kind: body
+    source: |-
+      There are, however, other grounds on which some have sought to reject that the early human embryo is a human being. According to one view, the cells that comprise the early embryo are a bundle of homogeneous cells that exist in the same membrane but do not form a human organism because the cells do not function in a coordinated way to regulate and preserve a single life (Smith & Brogaard 2003, McMahan 2002)[^mcmahan-2002][^smith-2003]. While each of the cells is alive, they only become parts of a human organism when there is substantial cell differentiation and coordination, which occurs around day-16 after fertilization. Thus, on this account, disaggregating the cells of the 5-day embryo to derive HESCs does not entail the destruction of a human being.
+    step1: TBD
+    step2: TBD
+  - id: 11
+    kind: body
+    source: |-
+      This account is subject to dispute on empirical grounds. That there is some intercellular coordination in the zygote is revealed by the fact that the development of the early embryo requires that some cells become part of the trophoblast while others become part of the inner cell mass. Without some coordination between the cells, there would be nothing to prevent all cells from differentiating in the same direction (Damschen, Gomez-Lobo and Schonecker 2006). The question remains, though, whether this degree of cellular interaction is sufficient to render the early human embryo a human being. Just how much intercellular coordination must exist for a group of cells to constitute a human organism cannot be resolved by scientific facts about the embryo, but is instead an open metaphysical question (McMahan 2007a)[^mcmahan-2007a].
+    step1: TBD
+    step2: TBD
+  - id: 12
+    kind: body
+    source: |-
+      ### 1.2 The moral status of human embryos
+    step1: TBD
+    step2: TBD
+  - id: 13
+    kind: body
+    source: |-
+      Suppose that the 5-day human embryo is a human being. On the standard argument against HESC research, membership in the species *Homo sapiens* confers on the embryo a right not to be killed. This view is grounded in the assumption that human beings have the same moral status (at least with respect to possessing this right) at all stages of their lives.
+    step1: TBD
+    step2: TBD
+  - id: 14
+    kind: body
+    source: |-
+      Some accept that the human embryo is a human being but argue that the human embryo does not have the moral status requisite for a right to life. There is reason to think that species membership is not the property that determines a being’s moral status. We have all been presented with the relevant thought experiments, courtesy of Disney, Orwell, Kafka, and countless science fiction works. The results seem clear: we regard mice, pigs, insects, aliens, and so on, as having the moral status of persons in those possible worlds in which they exhibit the psychological and cognitive traits that we normally associate with mature human beings. This suggests that it is some higher-order mental capacity (or capacities) that grounds the right to life. While there is no consensus about the capacities that are necessary for the right to life, some of the capacities that have been proposed include reasoning, self-awareness, and agency (Kuhse & Singer 1992, Tooley 1983, Warren 1973)[^kuhse-1992][^tooley-1983][^warren-1973].
+    step1: TBD
+    step2: TBD
+  - id: 15
+    kind: body
+    source: |-
+      The main difficulty for those who appeal to such mental capacities as the touchstone for the right to life is that early human infants lack these capacities, and do so to a greater degree than many of the nonhuman animals that most deem it acceptable to kill (Marquis 2002)[^marquis-2002]. This presents a challenge for those who hold that the non-consequentialist constraints on killing human children and adults apply to early human infants. Some reject that these constraints apply to infants, and allow that there may be circumstances where it is permissible to sacrifice infants for the greater good (McMahan 2007b)[^mcmahan-2007b]. Others argue that, while infants do not have the intrinsic properties that ground a right to life, we should nonetheless treat them as if they have a right to life in order to promote love and concern towards them, as these attitudes have good consequences for the persons they will become (Benn 1973, Strong 1997)[^benn-1973][^strong-1997].
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      Some claim that we can reconcile the ascription of a right to life to all humans with the view that higher order mental capacities ground the right to life by distinguishing between two senses of mental capacities: “immediately exercisable” capacities and “basic natural” capacities. (George and Gomez-Lobo 2002, 260)[^george-2002]. According to this view, an individual’s immediately exercisable capacity for higher mental functions is the actualization of natural capacities for higher mental functions that exist at the embryonic stage of life. Human embryos have a “rational nature,” but that nature is not fully realized until individuals are able to exercise their capacity to reason. The difference between these types of capacity is said to be a difference between degrees of development along a continuum. There is merely a quantitative difference between the mental capacities of embryos, fetuses, infants, children, and adults (as well as among infants, children, and adults). And this difference, so the argument runs, cannot justify treating some of these individuals with moral respect while denying it to others.
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      Given that a human embryo cannot reason at all, the claim that it has a rational nature has struck some as tantamount to asserting that it has the potential to become an individual that can engage in reasoning (Sagan & Singer 2007)[^sagan-2007]. But an entity’s having this potential does not logically entail that it has the same status as beings that have realized some or all of their potential (Feinberg 1986)[^feinberg-1986]. Moreover, with the advent of cloning technologies, the range of entities that we can now identify as potential persons arguably creates problems for those who place great moral weight on the embryo’s potential. A single somatic cell or HESC can in principle (though not yet in practice) develop into a mature human being under the right conditions—that is, where the cell’s nucleus is transferred into an enucleated egg, the new egg is electrically stimulated to create an embryo, and the embryo is transferred to a woman’s uterus and brought to term. If the basis for protecting embryos is that they have the potential to become reasoning beings, then, some argue, we have reason to ascribe a high moral status to the trillions of cells that share this potential and to assist as many of these cells as we reasonably can to realize their potential (Sagan & Singer 2007, Savulescu 1999)[^sagan-2007][^savulescu-1999]. Because this is a stance that we can expect nearly everyone to reject, it’s not clear that opponents of HESC research can effectively ground their position in the human embryo’s potential.
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      One response to this line of argument has been to claim that embryos possess a kind of potential that somatic cells and HESCs lack. An embryo has potential in the sense of having an “active disposition” and “intrinsic power” to develop into a mature human being (Lee & George 2006)[^lee-2006]. An embryo can mature on its own in the absence of interference with its development. A somatic cell, on the other hand, does not have the inherent capacity or disposition to grow into a mature human being. However, some question whether this distinction is viable, especially in the HESC research context. While it is true that somatic cells can realize their potential only with the assistance of outside interventions, an embryo’s development also requires that numerous conditions external to it are satisfied. In the case of embryos that are naturally conceived, they must implant, receive nourishment, and avoid exposure to dangerous substances *in utero*. In the case of spare embryos created through in vitro fertilization—which are presently the source of HESCs for research—the embryos must be thawed and transferred to a willing woman’s uterus. Given the role that external factors—including technological interventions—play in an embryo’s realizing its potential, one can question whether there is a morally relevant distinction between an embryo’s and somatic cell’s potential and thus raise doubts about potentiality as a foundation for the right to life (Devolder & Harris 2007)[^devolder-2007].
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      Some grant that human embryos lack the properties essential to a right to life, but hold that they possess an intrinsic value that calls for a measure of respect and places at least some moral constraints on their use: “The life of a single human organism commands respect and protection … no matter in what form or shape, because of the complex creative investment it represents and because of our wonder at the divine or evolutionary processes that produce new lives from old ones.” (Dworkin l992, 84). There are, however, divergent views about the level of respect embryos command and what limits exist on their use. Some opponents of HESC research hold that the treatment of human embryos as mere research tools always fails to manifest proper respect for them. Other opponents take a less absolutist view. Some, for example, deem embryos less valuable than more mature human beings but argue that the benefits of HESC research are too speculative to warrant the destruction of embryos, and that the benefits might, in any case, be achieved through the use of noncontroversial sources of stem cells (e.g., adult stem cells) (Holm 2003)[^holm-2003].
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      Many, if not most, who support the use of human embryos for HESC research would likely agree with opponents of the research that there are some circumstances where the use of human embryos would display a lack of appropriate respect for human life, for example, were they to be offered for consumption to contestants in a reality TV competition or destroyed for the production of cosmetics. But proponents of the research hold that the value of human embryos is not great enough to constrain the pursuit of research that may yield significant therapeutic benefits. Supporters of the research also frequently question whether most opponents of the research are consistent in their ascription of a high value to human embryos, as opponents generally display little concern about the fact that many embryos created for fertility treatment are discarded.
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      ### 1.3 The case of “doomed embryos”
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      When spare embryos exist after fertility treatment, the individuals for whom the embryos were created typically have the option of storing for them for future reproductive use, donating them to other infertile couples, donating them to research, or discarding them. Some argue that as long as the decision to donate embryos for research is made after the decision to discard them, it is morally permissible to use them in HESC research even if we assume that they have the moral status of persons. The claim takes two different forms. One is that it is morally permissible to kill an individual who is about to be killed by someone else where killing that individual will help others (Curzer, H. 2004). The other is that researchers who derive HESCs from embryos that were slated for destruction do not cause their death. Instead, the decision to discard the embryos causes their death; research just causes the manner of their death (Green 2002)[^green-2002].
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      Both versions of the argument presume that the decision to discard spare embryos prior to the decision to donate them to research entails that donated embryos are doomed to destruction when researchers receive them. There are two arguments one might marshal against this presumption. First, one who wants to donate embryos to research might first elect to discard them only because doing so is a precondition for donating them. There could be cases in which one who chooses the discard option would have donated the embryos to other couples were the research donation option not available. The fact that a decision to discard embryos is made prior to the decision to donate the embryos thus does not establish that the embryos were doomed to destruction before the decision to donate them to research was made. Second, a researcher who receives embryos could choose to rescue them, whether by continuing to store them or by donating them to infertile couples. While this would violate the law, the fact that it is within a researcher’s power to prevent the destruction of the embryos he or she receives poses problems for the claim that the decision to discard the embryos dooms them or causes their destruction.
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      ## 2. The Ethics of Using Human Embryonic Stem Cells in Research
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      Assume for the sake of argument that it is morally impermissible to destroy human embryos. It does not follow that all research with HESCs is impermissible, as it is sometimes permissible to benefit from moral wrongs. For example, there is nothing objectionable about transplant surgeons and patients benefiting from the organs of murder and drunken driving victims (Robertson 1988)[^robertson-1988]. If there are conditions under which a researcher may use HESCs without being complicit in the destruction of embryos, then those who oppose the destruction of embryos could support research with HESCs under certain circumstances.
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      Researchers using HESCs are clearly implicated in the destruction of embryos where they derive the cells themselves or enlist others to derive the cells. However, most investigators who conduct research with HESCs obtain them from an existing pool of cell lines and play no role in their derivation. One view is that we cannot assign causal or moral responsibility to investigators for the destruction of embryos from which the HESCs they use are derived where their “research plans had no effect on whether the original immoral derivation occurred.” (Robertson 1999)[^robertson-1999]. This view requires qualification. There may be cases in which HESCs are derived for the express purpose of making them widely available to HESC investigators. In such instances, it may be that no individual researcher’s plans motivated the derivation of the cells. Nonetheless, one might argue that investigators who use these cells are complicit in the destruction of the embryos from which the cells were derived because they are participants in a research enterprise that creates a demand for HESCs. For these investigators to avoid the charge of complicity in the destruction of embryos, it must be the case that the researchers who derived the HESCs would have performed the derivation in the absence of external demand for the cells (Siegel 2004)[^siegel-2004].
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      The issue about complicity goes beyond the question of an HESC researcher’s role in the destruction of the particular human embryo(s) from which the cells he or she uses are derived. There is a further concern that research with existing HESCs will result in the future destruction of embryos: “[I]f this research leads to possible treatments, private investment in such efforts will increase greatly and the demand for many thousands of cell lines with different genetic profiles will be difficult to resist.” (U.S. Conference of Catholic Bishops 2001). This objection faces two difficulties. First, it appears to be too sweeping: research with adult stem cells and non-human animal stem cells, as well as general research in genetics, embryology, and cell biology could be implicated, since all of this research might advance our understanding of HESCs and result in increased demand for them. Yet, no one, including those who oppose HESC research, argues that we should not support these areas of research. Second, the claim about future demand for HESCs is speculative. Indeed, current HESC research could ultimately reduce or eliminate demand for the cells by providing insights into cell biology that enable the use of alternative sources of cells (Siegel 2004)[^siegel-2004].
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      While it might thus be possible for a researcher to use HESCs without being morally responsible for the destruction of human embryos, that does not end the inquiry into complicity. Some argue that agents can be complicit in wrongful acts for which they are not morally responsible. One such form of complicity arises from an association with wrongdoing that symbolizes acquiescence in the wrongdoing (Burtchaell 1989)[^burtchaell-1989]. The failure to take appropriate measures to distance oneself from moral wrongs may give rise to “metaphysical guilt,” which produces a moral taint and for which shame is the appropriate response (May 1992)[^may-1992]. The following question thus arises: Assuming it is morally wrongful to destroy human embryos, are HESC researchers who are not morally responsible for the destruction of embryos complicit in the sense of symbolically aligning themselves with a wrongful act?
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      One response is that a researcher who benefits from the destruction of embryos need not sanction the act any more than the transplant surgeon who uses the organs of a murder or drunken driving victim sanctions the homicidal act (Curzer 2004)[^curzer-2004]. But this response is unlikely to be satisfactory to opponents of HESC research. There is arguably an important difference between the transplant case and HESC research insofar as the moral wrong associated with the latter (a) systematically devalues a particular class of human beings and (b) is largely socially accepted and legally permitted. Opponents of HESC research might suggest that the HESC research case is more analogous to the following kind of case: Imagine a society in which the practice of killing members of a particular racial or ethnic group is legally permitted and generally accepted. Suppose that biological materials obtained from these individuals subsequent to their deaths are made available for research uses. Could researchers use these materials while appropriately distancing themselves from the wrongful practice? Arguably, they could not. There is a heightened need to protest moral wrongs where those wrongs are socially and legally accepted. Attempts to benefit from the moral wrong in these circumstances may be incompatible with mounting a proper protest (Siegel 2003)[^siegel-2003].
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      But even if we assume that HESC researchers cannot avoid the taint of metaphysical guilt, it is not clear that researchers who bear no moral responsibility for the destruction of embryos are morally obligated not to use HESCs. One might argue that there is a prima facie duty to avoid moral taint, but that this duty may be overridden for the sake of a noble cause.
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      ## 3. The Ethics of Creating Embryos for Stem Cell Research and Therapy
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      Most HESCs are derived from embryos that were created for infertility treatment but that were in excess of what the infertile individual(s) ultimately needed to achieve a pregnancy. The HESCs derived from these leftover embryos offer investigators a powerful tool for understanding the mechanisms controlling cell differentiation. However, there are scientific and therapeutic reasons not to rely entirely on leftover embryos. From a research standpoint, creating embryos through cloning technologies with cells that are known to have particular genetic mutations would allow researchers to study the underpinnings of genetic diseases *in vitro*. From a therapeutic standpoint, the HESCs obtained from leftover IVF embryos are not genetically diverse enough to address the problem of immune rejection by recipients of stem cell transplants. (Induced pluripotent stem cells may ultimately prove sufficient for these research and therapeutic ends, since the cells can (a) be selected for specific genetic mutations and (b) provide an exact genetic match for stem cell recipients.) At present, the best way to address the therapeutic problem is through the creation of a public stem cell bank that represents a genetically diverse pool of stem cell lines (Faden *et al*. 2003, Lott & Savulescu 2007)[^faden-2003][^lott-2007]. This kind of stem cell bank would require the creation of embryos from gamete donors who share the same HLA-types (i.e., similar versions of the genes that mediate immune recognition and rejection).
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      Each of these enterprises has its own set of ethical issues. In the case of research cloning, some raise concerns, for example, that the perfection of cloning techniques for research purposes will enable the pursuit of reproductive cloning, and that efforts to obtain the thousands of eggs required for the production of cloned embryos will result in the exploitation of women who provide the eggs (President’s Council on Bioethics 2002, Norsigian 2005)[^norsigian-2005]. With respect to stem cell banks, it is not practically possible to create a bank of HESCs that will provide a close immunological match for all recipients. This gives rise to the challenge of determining who will have biological access to stem cell therapies. We might construct the bank so that it provides matches for the greatest number of people in the population, gives everyone an equal chance of finding a match, or ensures that all ancestral/ethnic groups are fairly represented in the bank (Faden *et al*. 2003, Bok, Schill, & Faden 2004, Greene 2006)[^faden-2003][^greene-2006].
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      There are, however, more general challenges to the creation of embryos for research and therapeutic purposes. Some argue that the creation of embryos for non-reproductive ends is morally problematic, regardless of whether they are created through cloning or in vitro fertilization. There are two related arguments that have been advanced to morally distinguish the creation of embryos for reproductive purposes from the creation of embryos for research and therapeutic purposes. First, each embryo created for procreative purposes is originally viewed as a potential child in the sense that each is a candidate for implantation and development into a mature human. In contrast, embryos created for research or therapies are viewed as mere tools from the outset (Annas, Caplan & Elias 1996, President’s Council on Bioethics 2002). Second, while embryos created for research and therapy are produced with the intent to destroy them, the destruction of embryos created for reproduction is a foreseeable but unintended consequence of their creation (FitzPatrick 2003)[^fitzpatrick-2003].
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      One response to the first argument has been to suggest that we could, under certain conditions, view all research embryos as potential children in the relevant sense. If all research embryos were included in a lottery in which some of them were donated to individuals for reproductive purposes, all research embryos would have a chance at developing into mature humans (Devander 2005). Since those who oppose creating embryos for research would likely maintain their opposition in the research embryo lottery case, it is arguably irrelevant whether embryos are viewed as potential children when they are created. Of course, research embryos in the lottery case would be viewed as both potential children and potential research tools. But this is also true in the case of embryos created for reproductive purposes where patients are open to donating spare embryos to research.
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      As to the second argument, the distinction between intending and merely foreseeing harms is one to which many people attach moral significance, and it is central to the Doctrine of Double Effect. But even if one holds that this is a morally significant distinction, it is not clear that it is felicitous to characterize the destruction of spare embryos as an unintended but foreseeable side-effect of creating embryos for fertility treatment. Fertility clinics do not merely foresee that some embryos will be destroyed, as they choose to offer patients the option of discarding embryos and carry out the disposal of embryos when patients request it. Patients who elect that their embryos be discarded also do not merely foresee the embryos’ destruction; their election of that option manifests their intention that the embryos be destroyed. There is thus reason to doubt that there is a moral distinction between creating embryos for research and creating them for reproductive purposes, at least given current fertility clinic practices.
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      ## 4. Stem Cell-Derived Gametes
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      Recent scientific work suggests it is possible to derive gametes from human pluripotent stem cells. Researchers have generated sperm and eggs from mouse ESCs and iPSCs and have used these stem cell-derived gametes to produce offspring (Hayashi 2011; Hayashi 2012)[^hayashi-2011][^hayashi-2012]. While it may take several years before researchers succeed in deriving gametes from human stem cells, the research holds much promise for basic science and clinical application. For example, the research could provide important insights into the fundamental processes of gamete biology, assist in the understanding of genetic disorders, and provide otherwise infertile individuals a means of creating genetically related children. The ability to derive gametes from human stem cells could also reduce or eliminate the need for egg donors and thus help overcome concerns about exploitation of donors and the risks involved in egg retrieval. Nonetheless, the research gives rise to some controversial issues related to embryos, genetics, and assisted reproductive technologies (D. Mathews *et al*. 2009)[^mathews-2009].
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      One issue arises from the fact that some research on stem cell-derived gametes requires the creation of embryos, regardless of whether one is using ESCs or iPSCs. To establish that a particular technique for deriving human gametes from stem cells produces functional sperm and eggs, it is necessary to demonstrate that the cells can produce an embryo. This entails the creation of embryos through in vitro fertilization. Since it would not be safe to implant embryos created during the early stages of the research, the likely disposition of the embryos is that they would be destroyed. In such instances, the research would implicate all of the moral issues surrounding the creation and destruction of embryos for research. However, the creation of embryos for research in this situation would not necessitate the destruction of the embryos, as it does when embryos are created to derive stem cell lines. One could in principle store them indefinitely rather than destroy them. This would still leave one subject to the objection that life is being created for instrumental purposes. But the force of the objection is questionable since it is not clear that this instrumental use is any more objectionable than the routine and widely accepted practice of creating excess IVF embryos in the reproductive context to increase the probability of generating a sufficient number of viable ones to produce a pregnancy.
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      Further issues emerge with the prospect of being able to produce large quantities of eggs from stem cells. As the capacity to identify disease and non-disease related alleles through preimplantation genetic diagnosis (PGD) expands, the ability to create large numbers of embryos would substantially increase the chances of finding an embryo that possesses most or all of the traits one wishes to select. This would be beneficial in preventing the birth of children with genetic diseases. But matters would become morally contentious if it were possible to select for non-disease characteristics, such as sexual orientation, height, superior intelligence, memory, and musical ability. One common argument against using PGD in this way is that it could devalue the lives of those who do not exhibit the chosen characteristics. Another concern is that employing PGD to select for non-disease traits would fail to acknowledge the “giftedness of life” by treating children as “objects of our design or products of our will or instruments of our ambition” rather accepting them as they are given to us (Sandel 2004, 56)[^sandel-2004]. There is additionally a concern about advances in genetics heightening inequalities where certain traits confer social and economic advantages and only the well-off have the resources to access the technology (Buchanan 1995)[^buchanan-1995]. Of course, one can question whether the selection of non-disease traits would in fact lead to devaluing other characteristics, whether it would alter the nature of parental love, or whether it is distinct enough from currently permitted methods of gaining social and economic advantage to justify regulating the practice. Nonetheless, the capacity to produce human stem cell-derived gametes would make these issues more pressing.
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      ## 5. Stem Cell-Derived Organoids, Gastruloids, and Synthetic Embryos
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      There have been a number of recent scientific studies in which stem cells have, under certain *in vitro* culture conditions, self-organized into three-dimensional structures that resemble and recapitulate some of the functions of human organs (Lancaster & Knoblich 2014; Clevers 2016)[^clevers-2016][^lancaster-2014]. These “organoids” have been established with human stem cells for a variety of organs, including, among others, the kidney, liver, gut, pancreas, retina, and brain. In addition to organoids, stem cells have been shown to self-organize into embryo-like structures *in vitro*. Human embryonic stem cells have formed structures – referred to as “gastruloids” – that bear some resemblance to embryos during gastrulation, which is the stage several days after implantation where the body plan and some tissues tissue types, including the central nervous system, start to develop (Warmflash et al. 2014; Deglincerti *et al*. 2016; Shahbazi 2016)[^deglincerti-2016][^shahbazi-2016][^warmflash-2014]. Researchers have also combined mouse embryonic stem cells and trophoblast stem cells to create “synthetic embryos,” which have a structure akin to pre-implantation embryos (Rivron *et al*. 2018)[^rivron-2018]. Synthetic embryos have been shown to implant into the mouse uterus, though their potential to develop to term has not been demonstrated.
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      While these scientific advances offer promising avenues for better understanding human development and disease, they also raise some novel and challenging ethical issues. In the case of organoids, cerebral organoids raise the most vexing issues. Researchers have produced cerebral organoids with a degree of development similar to that of a few-months-old embryo, and have already used them to study how the Zika virus causes microcephaly in fetuses (Garcez *et al*. 2016). At present, there is some evidence that cerebral organoids may be able to receive afferent stimulations that produce simple sensations (Quadrato *et al*. 2017)[^quadrato-2017]. However, they currently lack the kind of mature neural networks and sensory inputs and outputs essential to the development of cognition. If, through bioengineering, human cerebral organoids were to develop the capacity for cognition, that would provide grounds for ascribing an elevated moral status to them, and it would raise concomitant issues about our moral obligations towards them. In the nearer term, it is more likely that cerebral organoids will develop some degree of consciousness Assuming we have a shared understanding of consciousness (e.g., phenomenal consciousness), one challenge is to identify means of measuring the presence of consciousness, since a cerebral organoid cannot communicate its internal states (Lavazza & Massimini 2018)[^lavazza-2018]. But even if we can verify that an organoid is conscious, there remains the question of the moral significance of consciousness (Shepherd 2018)[^shepherd-2018]. There is debate over whether consciousness has intrinsic value (Lee 2018)[^lee-2018], and whether in some cases it is better for a conscious being to not possess it (Kahane & Savulescu 2009)[^kahane-2009]. Those who reject the intrinsic value and moral significance of consciousness might find the case of a conscious entity that has led a solely disembodied existence, emerges and persists in the absence of any social or cultural nexus, and lacks beliefs and desires, to be a paradigmatic case where the value of consciousness is doubtful.
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      With respect to gastruloids and synthetic embryos (if the latter are successfully produced with human stem cells), the central question is whether these entities are sufficiently like human embryos in their structure and functions to give rise to moral concerns about their use in research. Gastruloids do not possess all the characteristics of an embryo, as they do not form all of the embryonic tissues (e.g., they do not have the trophectoderm, which mediates the attachment to the uterus). At the same time, gastruloids may, with extra-embryonic tissues, achieve a developmental stage in which they manifest a whole body plan. Recall that one argument (discussed in Section 1.1 above) for rejecting that human embryos are human beings is that the cells that comprise the early embryo do not function in a coordinated way to regulate and preserve a single organism. Gastruloids can in principle operate with this higher level of coordination. While one may still reject that this characteristic of gastruloids confers human rights on them, their more advanced stage of development might ground reasonable claims for according them greater respect than embryos at an earlier stage. In the case of both gastruloids and human synthetic embryos, the possibility that they ultimately lack the potential to develop into mature human beings may be of significance in morally distinguishing them from normal human embryos. As noted previously (in section 1.2 above), one argument for ascribing a high moral status to human embryos and for distinguishing the potential of human embryos from the potential of somatic cells and embryonic stem cells is that embryos have an “active disposition” and “intrinsic power” to develop into mature humans on their own. If synthetic embryos and gastruloids do not possess this disposition and power, then those who oppose some forms of human embryo research might not object to the creation and use of human gastruloids and synthetic embryos for research.
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: oir
+    source: |-
+      ### Cited Resources
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: oir
+    source: |-
+      - President’s Council on Bioethics, 2002, [Human Cloning and Human Dignity: An Ethical Inquiry](http://bioethics.georgetown.edu/pcbe/reports/cloningreport/)
+      - U.S. Conference of Catholic Bishops, 2001, [Fact Sheet: President Bush’s Stem Cell Decision](http://web.archive.org/web/20020616170740/http://www.nccbuscc.org/prolife/issues/bioethic/fact801.htm)
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: oir
+    source: |-
+      ### Other Resources
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: oir
+    source: |-
+      - [International Society for Stem Cell Research](http://www.isscr.org/)
+      - [Stem Cell Resources](http://www.aaas.org/news/stem-cell-resources) from the American Association for the Advancement of Science
+      - [Stem Cell Research and Applications](http://www.aaas.org/sites/default/files/content_files/Stem%20Cell%20Research%20and%20Applications%20Report.pdf), recommendations and findings from the AAAS and the Institute for Civil Society.
+      - [Medline Plus: Stem Cells](http://www.nlm.nih.gov/medlineplus/stemcells.html)
+      - [The Pew Forum on Religion and Public Life: Bioethics](http://www.pewforum.org/topics/bioethics/)
+      - [The Hinxton Group: An International Consortium on Stem Cell, Ethics, and Law](http://www.hinxtongroup.org/)
+    step1: TBD
+    step2: TBD
