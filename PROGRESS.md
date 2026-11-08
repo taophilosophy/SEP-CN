@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-08 02:55（UTC）
+生成时间：2026-11-08 04:45（UTC）
 
 ## 总览
 
@@ -12,30 +12,30 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1029|
+|已建任务|1031|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|199|
-|在途（drafted 起、done 前）|233|
+|已完成（done）|202|
+|在途（drafted 起、done 前）|234|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|597|
+|pending|595|
 |cleared|164|
-|drafted|2|
+|drafted|4|
 |s1_checked|2|
-|s3_checked|64|
-|r1_reviewed|1|
-|done|199|
+|s3_checked|63|
+|r2_reviewed|1|
+|done|202|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|52|
-|B|62|62|62|10|
+|A|160|160|160|53|
+|B|62|62|62|12|
 |C|172|172|172|4|
 |D|92|92|92|11|
 |E|99|99|99|17|
@@ -51,13 +51,13 @@
 |O|21|21|9|7|
 |P|165|165|4|0|
 |Q|34|34|0|0|
-|R|85|85|11|6|
+|R|85|85|12|6|
 |S|161|161|13|8|
 |T|71|71|6|2|
 |U|4|4|0|0|
 |V|15|15|0|0|
 |W|38|38|6|0|
-|X|3|3|1|0|
+|X|3|3|2|0|
 |Y|2|2|1|0|
 |Z|6|6|0|0|
 
@@ -83,14 +83,11 @@
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
-|analogy-medieval|retranslate|cleared|task_ops 2026-11-08|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bayes-theorem|retranslate|s3_checked|? 2026-11-04|
-|bayle|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |beardsley-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |beauty|retranslate|cleared|task_ops 2026-11-01|
 |beauvoir|retranslate|cleared|task_ops 2026-11-01|
-|behaviorism|retranslate|s3_checked|? 2026-11-04|
 |belief|retranslate|cleared|task_ops 2026-11-01|
 |belief-merging|retranslate|cleared|task_ops 2026-11-01|
 |bell-theorem|retranslate|cleared|task_ops 2026-11-01|
@@ -177,9 +174,11 @@
 |digital-art|retranslate|cleared|task_ops 2026-11-01|
 |dilthey|retranslate|cleared|task_ops 2026-11-01|
 |diodorus-cronus|retranslate|s3_checked|D-main-20261107 2026-11-07|
-|disability-care-rationing|retranslate|cleared|task_ops 2026-11-07|
+|disability|retranslate|cleared|task_ops 2026-11-08|
+|disability-care-rationing|retranslate|s3_checked|D-main-20261108 2026-11-08|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |du-bos|retranslate|s3_checked|主代理 2026-11-01|
+|environmental-aesthetics|retranslate|cleared|task_ops 2026-11-08|
 |frame-problem|retranslate|cleared|task_ops 2026-11-06|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |galen|retranslate|cleared|task_ops 2026-11-01|
@@ -236,7 +235,7 @@
 |ingarden|retranslate|cleared|task_ops 2026-11-07|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
 |intuitionism-ethics|retranslate|cleared|task_ops 2026-11-01|
-|jaina-philosophy|retranslate|cleared|task_ops 2026-11-01|
+|jaina-philosophy|retranslate|drafted|J-main-20261108 2026-11-08|
 |james-mill|retranslate|s3_checked|? 2026-11-07|
 |james-viterbo|retranslate|cleared|task_ops 2026-11-01|
 |japanese-aesthetics|retranslate|s3_checked|J-main-20261108 2026-11-08|
@@ -286,15 +285,17 @@
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
 |langer|retranslate|cleared|task_ops 2026-11-08|
-|mandeville|retranslate|cleared|task_ops 2026-11-08|
+|mandeville|retranslate|drafted|M-main-20261108 2026-11-08|
 |moral-demands-permissions|retranslate|s3_checked|LMN-main-20261108f 2026-11-08|
 |nicole-oresme|retranslate|cleared|task_ops 2026-11-08|
 |olympiodorus|retranslate|cleared|task_ops 2026-11-07|
-|rationalism-early-modern|retranslate|r1_reviewed|OR-main-20261107 2026-11-07|
+|rationalism-early-modern|retranslate|r2_reviewed|QR-main-20261108 2026-11-08|
+|representation-medieval|retranslate|cleared|task_ops 2026-11-08|
 |scholem|retranslate|s1_checked|SZ-main-20261108b 2026-11-08|
 |telesio|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |theology-aristotle|retranslate|s3_checked|TZ-main-20261107 2026-11-08|
 |william-jevons|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |william-sherwood|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |wisdom|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
+|xenocrates|retranslate|cleared|task_ops 2026-11-08|
 |xenophanes|retranslate|s3_checked|TZ-main-20261107 2026-11-07|

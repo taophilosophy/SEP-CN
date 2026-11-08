@@ -2,7 +2,7 @@
   "slug": "buridan",
   "kind": "retranslate",
   "zh_doc": "b/buridan.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:01:53Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "B-main-20261108",
+      "at": "2026-11-08T05:10:47Z",
+      "evidence": "接管收编前会话在途组装稿：script/assemble_buridan.py 十分片组装（7 正文片+57 内容注+105 书目照录+尾节），独立只读对账五项全绿——行内标记 79:79 多重集与顺序全等（ASCII 撇号归一）、note 键集 57/57、书目 defs 105 全覆盖、H2 7/7、引文 6:6、段落 50:50、年份 45:45、尾节四件套齐备；人名 9 行术语 27 行已登记入库（git show HEAD 核实）"
     }
   ],
   "blockers": [],

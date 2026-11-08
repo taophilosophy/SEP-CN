@@ -77,3 +77,17 @@
 - 2026-11-07（续二）：`bohr-correspondence`（f7f8bb71）九步入 done。首例含图与公式条目：公式 128 个零失衡、图路径改 `../yuanwen/assets/`；斜体→加粗逐跨度正则会把 `**已加粗**` 吃成三连星，需后处理修复；`Copenhagen interpretation` 统一词汇表定名“哥本哈根诠释”，`Jammer` 按人名表作“贾默”。
 - 2026-11-07（续三）：`bodily-awareness` 九步入 done（15 575 汉字 / 5 节 14 小节 / 207 条书目 defs 照录 / 242 标记 242 守恒）。首例**零内容性脚注且无 `## 脚注` 节**（源无 Notes 区）；`O’Shaughnessy` 撇号键为 U+2019，须与 defs 逐字符一致；`enactive approach` 沿词汇表定名“生成进路”（初写“生成式进路”已改）；prose 34 条告警逐句实修至 0。队列表由 `script/b_queue.py` 重建，避免手改错位。
 - 2026-11-08：`bradley-moral` 九步入 done（15 870 汉字 / 8 节 / 13 段直引 / 84 条书目含三个书目小节）。两处实测教训：① **`目的` 内含 `的` 字**，`de-chain` 把它计入“的”数，改写时用 `目标` 可消误报；② 斜体→加粗批量正则（`\*([^*]+)\*`）会跨强调对粘连，并与残留 `***` 叠加，事后须跑 `\*{3,}` 归一、并把拉丁单字 `*A*` 还原（本轮 7 个分片被伤，已修）。
+
+## 2026-11-08 接管对账（B-main-20261108）
+
+**接管**：用户改派，`campaign.py claim b --force` 自 B-main-20261106 接手；其遗留在途件三笔已核实收编：
+
+1. **术语修正三件**（008 审定库 2026-11-08 裁定行回写，登记行已在 HEAD）：bohr-correspondence 作用量子→量子作用、bodily-awareness 情感性触觉→情感性触摸（×2）、buddhism-chan 关怀伦理→关怀伦理学。提交 ba860cda。
+2. **behaviorism 收口**：并行会话 R-main-20261108 于 12:27 完成 r1–r3→done（026e9564），补回审计发现的 `[^ross-2008]` 缺标记，登记项销账。
+3. **buridan 组装稿收编**：前会话十分片组装稿（382 行）未 advance 即中断；独立只读对账（script/verify_buridan_20261108.py）五项全绿——行内标记 79:79 多重集与顺序全等、note 键集 57/57、书目 defs 105 全覆盖、H2 7/7、段落 50:50、年份 45:45、尾节四件套齐——advance draft 收编，待 s1–s3、r1–r3。
+
+**当前计数**（campaign.py status 实时推导，2026-11-08 12:45）：done 12 / s3_checked 9 / drafted 2 / cleared 39 = 62；campaign 账本零漂移，PROGRESS.md 已刷新（B 行 done=12）。
+
+**s3_checked 9**：bayes-theorem / bergson / boethius-dacia / boethius / bradley / buddha / buddhism-chan / buddhism-huayan / butler-moral（behaviorism 已销账）。**drafted 3**：bessarion / brouwer（旧存量，draft 步 evidence 空缺口维持不补造裁定）/ buridan（新收编）。
+
+**队列 A 头部更新**：cleared 39 条队首为 belief-merging 11190 / brentano-judgement 11321 / brentano 11411（buridan 已出队）。
