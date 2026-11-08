@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-07 23:03（UTC）
+生成时间：2026-11-07 23:54（UTC）
 
 ## 总览
 
@@ -12,10 +12,10 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1027|
+|已建任务|1028|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|181|
-|在途（drafted 起、done 前）|245|
+|已完成（done）|193|
+|在途（drafted 起、done 前）|234|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,18 +23,19 @@
 |状态|数量|
 |---|---|
 |pending|601|
-|cleared|164|
+|cleared|163|
 |drafted|4|
-|s3_checked|76|
+|s1_checked|1|
+|s3_checked|65|
 |r1_reviewed|1|
-|done|181|
+|done|193|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
 |A|160|160|160|51|
-|B|62|62|62|8|
+|B|62|62|62|9|
 |C|172|172|172|3|
 |D|92|92|92|11|
 |E|99|99|99|17|
@@ -43,11 +44,11 @@
 |H|61|61|61|8|
 |I|75|75|75|20|
 |J|38|38|38|4|
-|K|36|36|36|10|
+|K|36|36|36|21|
 |L|144|144|19|18|
 |M|139|139|14|6|
 |N|50|50|3|1|
-|O|21|21|8|7|
+|O|21|21|9|7|
 |P|165|165|4|0|
 |Q|34|34|0|0|
 |R|85|85|11|6|
@@ -100,7 +101,6 @@
 |berkeley|retranslate|cleared|task_ops 2026-11-01|
 |berlin|retranslate|cleared|task_ops 2026-11-01|
 |bessarion|retranslate|drafted|? 2026-11-01|
-|binarium|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |biodiversity|retranslate|cleared|task_ops 2026-11-01|
 |bioethics-latin-america|retranslate|cleared|task_ops 2026-11-01|
 |biology-developmental|retranslate|cleared|task_ops 2026-11-01|
@@ -226,11 +226,11 @@
 |holism-social|retranslate|cleared|task_ops 2026-11-01|
 |holkot|retranslate|cleared|task_ops 2026-11-01|
 |horkheimer|retranslate|cleared|task_ops 2026-11-01|
-|hume-aesthetics|retranslate|cleared|task_ops 2026-11-01|
+|hume-aesthetics|retranslate|drafted|EH-main-20261108 2026-11-07|
 |hume-freewill|retranslate|cleared|task_ops 2026-11-01|
 |hume-moral|retranslate|cleared|task_ops 2026-11-01|
 |humor|retranslate|cleared|task_ops 2026-11-01|
-|illumination|retranslate|cleared|task_ops 2026-11-07|
+|illumination|retranslate|s3_checked|I-main-20261108 2026-11-07|
 |imaginative-resistance|retranslate|cleared|task_ops 2026-11-01|
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
@@ -277,28 +277,18 @@
 |kant-conceptualism|retranslate|cleared|task_ops 2026-11-01|
 |kant-development|retranslate|cleared|task_ops 2026-11-01|
 |kant-hume-causality|retranslate|cleared|task_ops 2026-11-01|
-|kant-hume-morality|retranslate|s3_checked|AK-main-20261105 2026-11-06|
 |kant-judgment|retranslate|cleared|task_ops 2026-11-01|
 |kant-moral|retranslate|cleared|task_ops 2026-11-01|
-|kant-reason|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |kant-religion|retranslate|cleared|task_ops 2026-11-01|
-|kant-science|retranslate|s3_checked|AK-main-20261105 2026-11-04|
-|kant-social-political|retranslate|s3_checked|AK-main-20261105 2026-11-04|
 |kant-spacetime|retranslate|cleared|task_ops 2026-11-01|
 |kant-transcendental|retranslate|cleared|task_ops 2026-11-01|
 |kant-transcendental-idealism|retranslate|cleared|task_ops 2026-11-01|
-|kierkegaard|retranslate|s3_checked|AK-main-20261105 2026-11-05|
-|knowledge-acquaindescrip|retranslate|s3_checked|? 2026-11-06|
-|knowledge-analysis|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |knowledge-how|retranslate|cleared|task_ops 2026-11-01|
-|knowledge-value|retranslate|s3_checked|AK-main-20261105 2026-11-05|
-|korean-buddhism|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |korean-confucianism|retranslate|cleared|task_ops 2026-11-01|
-|korean-philosophy|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |kukai|retranslate|cleared|task_ops 2026-11-01|
-|kumaarila|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
-|moral-demands-permissions|retranslate|drafted|LMN-main-20261108c 2026-11-07|
+|moral-demands-permissions|retranslate|s1_checked|LMN-main-20261108 2026-11-07|
+|olympiodorus|retranslate|cleared|task_ops 2026-11-07|
 |rationalism-early-modern|retranslate|r1_reviewed|OR-main-20261107 2026-11-07|
 |scholem|retranslate|drafted|SZ-main-20261108 2026-11-07|
 |telesio|retranslate|s3_checked|TZ-main-20261107 2026-11-07|

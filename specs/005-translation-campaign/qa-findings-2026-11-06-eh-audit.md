@@ -77,3 +77,50 @@
 假双版合计 ≈196 段（halevi/holkot/han-dynasty/hume-aesthetics/hutcheson 的 lane2 重写仅部分完成）；未建骨架 ≈773 段。
 
 **处置计划**：① f/film 唯一守恒通过，先收口（四检+prose 实修 41→全周期）；② 在途件逐条续账本（扩段合并+假双版真反思+补填）→ compose → 全周期收口；③ hegel-social-political 骨架立账；④ 再开 pending 新译（词数序）。扩段用合并脚本（init 会整册覆盖，禁直接对半截账本跑 init）。
+
+## 8. 接管复算（2026-11-08，EH-main-20261108，倒序战役）
+
+**口径**：任务 JSON 状态机 × 段落账本 `lq.py check` × 正文落盘（体积/节标题/尾节四件套）× 英文镜像词数，四方核销；计数以 `PROGRESS.md`/`campaign.py status` 生成物为准，本节只记对账结论与纠正项。
+
+### 8.1 复算结论（快照：UTC 2026-11-07 23:50，E–H 四批）
+
+| 字母 | 总 | done | 在途 | 未动工 | 总词数 | done 词数 |
+| --- | --- | --- | --- | --- | --- | --- |
+| E | 99 | 17 | 0 | 82 | 1,576,712 | 151,530 |
+| F | 96 | 1 | 1 | 94 | 1,441,580 | 7,520 |
+| G | 49 | 1 | 0 | 48（pending 30＋cleared 空架 18） | 715,917 | 5,546 |
+| H | 61 | 8 | 11 | 42（pending 24＋cleared 空架 18） | 931,426 | 70,490 |
+| 合计 | 305 | 27（8.9%） | 12（3.9%） | 266（87.2%） | 4,665,635 | 235,086（5.0%） |
+
+在途 12 条即 §7 表 11 条（hutcheson 已收口 done，减 1）＋**h/holkot**（§7 表漏列，现补）：f/frame-problem 0/40（正文已清、待立账）；h/halevi 48/120、h/han-dynasty 36/105、h/heytesbury 11/193、h/hilbert-program 3/63、h/hobbes-science 35/85、h/holkot 35/62、h/hume-moral 7/92、h/hamann 3/76、h/haecceitism 13/122、h/hegel-social-political 无账本（孤儿导言 5 行）。在途词数合计 136,996（2.9%）。
+
+### 8.2 纠正项（本次已改）
+
+1. **§7 在途表漏列 h/holkot**：账本 35/62 段、正文 8610 汉字半截 compose；现补入在途清单。
+2. **h/hume-aesthetics 进度超 §7 记录**：原记 64/89 段、假双版 39；现账本已扩至 89/89 且 `lq check` 守恒通过（仅 SOFT 标旗：斜体→书名号、相关词条 1 条未匹配），正文 9 节＋尾节四件套齐。上一会话未提交半成品，状态仍停 `cleared`；本会话接手续跑 s1 起，不重 compose。
+3. **g 批账本 note 过期**：仍称「gene 文件结构完整（19541 汉字）但系快照内容」；gene/heraclitus 已于 2026-11-06 `doc-reset` 复位 H1，现 18 条 cleared 全部空架无旧文。
+4. **h 批账本 note 过期**：「done 6/cleared 31」→ 现 done 8/cleared 29（hutcheson 收口、hume-aesthetics 计入在途）。
+5. **e 批账本 note 过期**：「s3_checked 16」→ 现 0，17 条全 done。
+6. **交接卡数字过期**：`session-handoff.md` §2 原写「全局 done 179/1879」，且并行会话推进后 181、193 反复过期 —— 改为不复制数字，统一以 `PROGRESS.md`／`campaign.py status` 生成物为准。
+7. **done 条账本形态登记**（不补造，ADR-0021 债）：8 条账本守恒通过（emerson/film/gelukpa/hare/holes/hutcheson SOFT 留痕；hume-aesthetics 为在途件）；4 条半截账本（harriet-mill 60/76、hartshorne 76/83、holbach 42/47、homosexuality 43/49，旧管线产物、正文完整）；humanism-civic 账本为旧格式（顶层 `- id:` 折行块）不可 `lq check`，按 NO_LEDGER 等价登记；E 批 12 条 done 无账本（NO_LEDGER 存量）。
+
+### 8.3 在途件残差（逐条接续依据）
+
+| 条目 | 账本/源段 | `lq check` 首报 |
+| --- | --- | --- |
+| h/hume-aesthetics | 89/89 | OK 守恒通过（SOFT 标旗留痕） |
+| h/halevi | 48/120 | HARD-FAIL 段数不符；假双版 48 段待真反思 |
+| h/han-dynasty | 36/105 | HARD-FAIL 段数不符；段1 `**` 计数违例 |
+| h/heytesbury | 11/193 | HARD-FAIL 段数不符；段10 `**` 计数、段11 缺双版 |
+| h/hilbert-program | 3/63 | 段3 脚注键不守恒（bernays-1928b 等重复展开）＋`$`/`**` 计数 |
+| h/hobbes-science | 35/85 | HARD-FAIL 段数不符 |
+| h/holkot | 35/62 | HARD-FAIL 段数不符 |
+| h/hume-moral | 7/92 | HARD-FAIL 段数不符 |
+| h/hamann | 3/76 | HARD-FAIL 段数不符 |
+| h/haecceitism | 13/122 | 段数不符；段8/9/11 `**` 计数 |
+| h/hegel-social-political | 无账本 | 需按 §7 计划③立账 |
+| f/frame-problem | 0/40 | 需立账后开译 |
+
+### 8.4 战役顺序（倒序）
+
+批次倒序 **H → G → F → E**；H 内先收在途 11 条（§7 计划②，就近收口），再按 SUMMARY 倒序开 pending；G/F/E 同理。认领统一改 `EH-main-20261108`。维持 §7 硬约束：半截账本禁直接 `init`（整册覆盖）、禁 compose（残余≠0）。

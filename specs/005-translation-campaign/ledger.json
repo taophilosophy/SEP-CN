@@ -10,8 +10,8 @@
   },
   "a": {
    "phase": "translate",
-   "claimed_by": "AB-main-20261106",
-   "claimed_at": "2026-11-06T14:08:07Z",
+   "claimed_by": "A-main-20261108",
+   "claimed_at": "2026-11-07T23:33:50Z",
    "note": "fetch/convert事实已满足（基线160/160镜像160/160，intake add=0）；political-philosophy遗留桩已裁定移除；对账补记（2026-11-06）：任务 160=pending 98/cleared 21/s1_checked 1/s3_checked 5/done 35，状态机与凭证一致；NO_LEDGER 41（旧存量 39 不补造；新增 2：addams-jane/al-farabi 11-03 ABCDE 会话译，无账本留痕）；复账（2026-11-06 AB-main-20261106）：任务 160=pending 97/cleared 18/done 45，内容×状态零偏差（done×complete 45/cleared×empty 18/pending×empty 97，无快照遗留件）；abortion done+qa-rework 开项（11-04 立项，状态保持 done）属既定语义非缺陷；上句补记 done 35/s3 5 系 11-03 快照过时数，c1623ef1 提交信息声称纠正但未落盘，本次补落；NO_LEDGER 160 全批（A 批无段落账本体系，不补造留痕）；收口（2026-11-07 AB-main-20261106）：alexander-crummell 九步入 done（s3 88f5e168、done bb45d393），实况 160=pending 96/cleared 18/done 46；下一目标按源文词数升序；行数口径不可靠（B 批已实证）。收口（2026-11-07 续）：albo-joseph 九步入 done（s3 ea599181、done 8f2da1b3，61 defs、marker 67:67、年份 147:147 全等，人名 19+术语 10 登记），实况 160=pending 95/cleared 18/done 47；收口（2026-11-07 续二）：arabic-islamic-mysticism 九步入 done（s3 7bdfa9e4、done 132751b2，defs 27+note-1、marker 25:25、年份 119:119 全等，人名 36+术语 8 登记，转写撇号 U+02BC 归一 77 处），实况 160=pending 94/cleared 18/done 48；收口（2026-11-07 续三）：antonio-rosmini 九步入 done（s3 c764a5ca、done 0f970ecc，defs 2 条 -nd 照录、参考文献区缩写表四类书目照录、年份 +3 全为缩写区间/年代词边界假差，人名 6+术语 11 登记），实况 160=pending 93/cleared 18/done 49；下一目标 auriol（9747 词）",
    "advanced_at": "2026-10-28T16:35:48Z"
   },
@@ -38,31 +38,31 @@
   },
   "e": {
    "phase": "translate",
-   "claimed_by": "EH-main-20261107",
-   "claimed_at": "2026-11-07T06:24:53Z",
-   "note": "E批40路子代理滚动起跑：99词条，两波模式（翻译波+复核波），主代理监控收口；对账补记（2026-11-06）：任务 99=pending 83/s3_checked 16；NO_LEDGER 12（旧存量 5；新增 7：11-03 起译 egoism/epsilon-calculus/epistemology-language-tibetan/erasmus/ethics-deontological/economic-democracy/emilie-du-chatelet，账本仅 4 份）",
-   "advanced_at": "2026-11-01T11:03:27Z"
+   "claimed_by": "EH-main-20261108",
+   "claimed_at": "2026-11-07T23:46:39Z",
+   "note": "对账补记（2026-11-08）：任务 99=done 17/pending 82，无在途；done 17 条九步齐、正文含尾节四件套；NO_LEDGER 12 条为 ADR-0021 旧管线债（qa-findings §4/§8 留痕）；认领改 EH-main-20261108，倒序战役最后一批。",
+   "advanced_at": "2026-11-07T23:49:14Z"
   },
   "f": {
    "phase": "translate",
-   "claimed_by": "EH-main-20261107",
-   "claimed_at": "2026-11-07T06:24:53Z",
-   "note": "对账补记（2026-11-03）：基线 96/96 镜像 96/96，intake/fetch/convert 事实满足；任务已建 40=全部 pending；对账补记（2026-11-06）：任务 97 全建全 pending（11-03 缺口 40→97 已闭合）；frame-problem 文件含 641faf13 快照内容待直译",
-   "advanced_at": "2026-11-02T16:12:59Z"
+   "claimed_by": "EH-main-20261108",
+   "claimed_at": "2026-11-07T23:46:39Z",
+   "note": "对账补记（2026-11-08）：任务 96=done 1（film）/cleared 1（frame-problem 正文已清、账本 0/40 待立账）/pending 94；在途 1 条；认领改 EH-main-20261108。",
+   "advanced_at": "2026-11-07T23:49:14Z"
   },
   "g": {
    "phase": "translate",
-   "claimed_by": "EH-main-20261107",
-   "claimed_at": "2026-11-07T06:24:53Z",
-   "note": "对账补记（2026-11-03）：任务 49=cleared 19/pending 30；对账补记（2026-11-06）：任务 49=pending 30/cleared 19；gene 文件结构完整（19541 汉字）但系快照内容，状态 cleared=待直译，裁定不推进",
-   "advanced_at": "2026-11-02T16:12:59Z"
+   "claimed_by": "EH-main-20261108",
+   "claimed_at": "2026-11-07T23:46:39Z",
+   "note": "对账补记（2026-11-08）：任务 49=done 1（gelukpa）/cleared 18（全部空架无旧文，gene/heraclitus 已 doc-reset）/pending 30；旧文存量已清零；认领改 EH-main-20261108。",
+   "advanced_at": "2026-11-07T23:49:14Z"
   },
   "h": {
    "phase": "translate",
-   "claimed_by": "EH-main-20261107",
-   "claimed_at": "2026-11-07T06:24:54Z",
-   "note": "对账补记（2026-11-03）：任务 61=s3_checked 3/s1_checked 2/cleared 32/pending 24；11 条在途快照 641faf13；对账补记（2026-11-06）：任务 61=pending 24/cleared 31/done 6；10 条 641faf13 快照遗留待直译（han-dynasty/haecceitism/halevi/heytesbury/hilbert-program/hobbes-science/holes/holkot/hume-moral/hutcheson）；账本 19 份",
-   "advanced_at": "2026-11-02T16:13:00Z"
+   "claimed_by": "EH-main-20261108",
+   "claimed_at": "2026-11-07T23:46:39Z",
+   "note": "对账补记（2026-11-08）：任务 61=done 8/cleared 29/pending 24；在途 11=haecceitism 13/122、halevi 48/120、hamann 3/76、han-dynasty 36/105、heytesbury 11/193、hilbert-program 3/63、hobbes-science 35/85、holkot 35/62（§7 漏列补录）、hume-aesthetics 89/89 守恒过、hume-moral 7/92、hegel-social-political 无账本；认领改 EH-main-20261108，先收在途再倒序开 pending。",
+   "advanced_at": "2026-11-07T23:49:14Z"
   },
   "i": {
    "phase": "translate",
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-07T23:29:38Z"
+ "updated_at": "2026-11-07T23:49:14Z"
 }

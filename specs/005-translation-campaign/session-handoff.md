@@ -21,7 +21,7 @@ python tools/campaign.py claim <批次> --session <你的会话名>
 | **B. 批次预处理**（可 N 会话并行） | 各批 intake → fetch → convert 三阶段（`campaign.py next` 领批） | `campaign.py claim` | 无——可与阶段 A 并行 |
 | **C. 批次翻译**（可 N 会话并行） | 各批 translate 阶段：`campaign.py slugs <批>` 逐词条 `task_ops.py create --kind retranslate` + 状态机 | `campaign.py claim` | **阶段 A 验收通过后** |
 
-当前批次状态（2026-11-08 复核）：27 批全部已认领、均处 translate 阶段，全局 done 179/1879；断点与 next 建议随时以 `campaign.py status` / `campaign.py next` 现查，评审线 r1–r3 接管见 §6。
+当前批次状态（2026-11-08 复核）：27 批全部已认领、均处 translate 阶段；done 计数以 `PROGRESS.md`／`campaign.py status` 现查为准（生成物，本卡不复制数字，避免并行会话推进后过期）；断点与 next 建议随时以 `campaign.py status` / `campaign.py next` 现查，评审线 r1–r3 接管见 §6。
 
 ## 3. 各阶段的标准作业（每批次）
 

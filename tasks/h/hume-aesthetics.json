@@ -2,7 +2,7 @@
   "slug": "hume-aesthetics",
   "kind": "retranslate",
   "zh_doc": "h/hume-aesthetics.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-01T12:12:59Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "EH-main-20261108",
+      "at": "2026-11-07T23:52:15Z",
+      "evidence": "接续上一会话未提交半成品并复算：账本 89/89 段 lq check 守恒通过（SOFT 标旗留痕：段84/88 斜体→书名号、相关词条 1 条未匹配）；compose 输出 80642 字节，正文 9 节＋尾节四件套齐（79978 字节，含人工润色差异）；状态由 cleared 补记 draft，不重 compose"
     }
   ],
   "blockers": [],
