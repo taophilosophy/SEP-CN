@@ -2,8 +2,16 @@
   "slug": "model-organisms",
   "kind": "retranslate",
   "zh_doc": "m/model-organisms.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T18:53:55Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T05:38:08Z",
   "version_pin": {
