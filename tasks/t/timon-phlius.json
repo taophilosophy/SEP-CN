@@ -2,7 +2,7 @@
   "slug": "timon-phlius",
   "kind": "retranslate",
   "zh_doc": "t/timon-phlius.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "TZ-main-20261107",
       "at": "2026-11-06T20:51:53Z",
       "evidence": "体例校：check_style 0 issue；check_academic --strict 0 硬错误；check_math 0 公式/0 缺失/0 不平衡；check_terms 0 硬错误（本批修 Alain Locke 词汇表滞后与 Leibniz 重复行两处登记册冲突）；check_all 七项全绿。术语登记 28 行（术语 16＋人名 12，term_flow 落册后按表体例补 6 列重排，词汇表与池同步）；SUMMARY 标题与 mu-lu-s 一致（斐利亚修斯的第蒙 Timon of Phlius）。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "REV-main-20261108",
+      "at": "2026-11-08T00:09:17Z",
+      "evidence": "r1 初审（s3_checked 存量复审波，主会话直做）：对照 yuanwen/t/timon-phlius.md 全文自审——结构对位 3 节 + 2.1 小节 + 现制 References（Ancient Texts/Secondary Literature 空子节 + 15 条定义照录）+ 学术工具 4 项/其他网络资源/相关词条 13 项，与源一致；机械体检：节标题 4/4、块数 22/22、脚注键 15/15 双向闭合。**实质发现①（漏译，Moderate）**：源文第 16 段括注『(See the discussion of “The Nature of the Divine and the Good” in Section 6 of the entry on Pyrrho, for a brief account of the difficulties surrounding this fragment.)』中文侧整句缺失，已补为『（关于这一残篇所牵涉的疑难，“皮浪”词条第 6 节有简要讨论。）』；该缺失正是数字化体检 NUM『缺 6』所指（源文该处为阿拉伯数字 6，中文侧无对应）。②体例（Minor）：H1 下缺空行（MD022）已补。③斜体差（过检 MARK ital 58 vs 162）经逐 token 比对确认为书名照译所致（*Silloi*→《讽刺诗》22 处、*Pindalmoi*/*Indalmoi*→《影像》8 处、*Pytho*→《皮同》5 处、*Odyssey*→《奥德赛》等），非标记丢失。人名核查：Stilpo/Arcesilaus/Parmenides/Melissus/Crates/Aristocles/Clayman/Strabo/Athenaeus/Diogenes Laertius/Timon/Phlius/Empedocles/Anaxagoras/Protagoras/Democritus/Eusebius 均在册；Brunschwig、Marchand 按 ADR-0022 无通行汉名保留英文，不登记。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "REV-main-20261108",
+      "at": "2026-11-08T00:09:17Z",
+      "evidence": "r2 复审（逐句回核 + 冷置回读；独立性满足 ADR-0020）：check_prose 1 条告警实修——引文行『是人由心灵 [或：由习俗] 加以判定的』弱动词『加以』删去（源文 are judged by mind [or: by convention]，去『加以』不损义且更贴源语气），归零。语义方向复核：§1 生平（生年 325–320/卒年 235–230、dancer→Stilpo→Pyrrho→sophist 次序）、§2 著作（《讽刺诗》三卷与第二三卷色诺芬尼对话、《影像》标题三说、《皮同》来源为阿里斯托克勒经优西比乌、《论感觉》蜜甜例句、Arcesilaus 丧宴与假颂之说）、§3 哲学活动（sunêtheia=日常经验、ouden mallon 注、假设论与不可分时间）——逐处与源一致，无增译、无立场改变；脚注 long-1978 一处 marker 与定义闭合。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "REV-main-20261108",
+      "at": "2026-11-08T00:09:19Z",
+      "evidence": "r3 终审（体例 + 门禁）：check_style 0 issue；check_academic --docs --strict 0 硬错误；check_math 0 公式 0 缺失；check_prose 0 告警；markdownlint-cli2 本文件 0 错误（H1 空格已补）；check_terms 硬错误 0。体例核对：pubinfo 首行斜体（模板 §2）、希腊/拉丁原文斜体照录（*tuphos*、*hupatuphos*、*amphoteroglôssos*、*kinaidos*、*M* 等）、书名号译题、方括号内异文 [或：由习俗] 照源保留、源文笔误『Declava Caizzi』照录（en 侧同形）。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "REV-main-20261108",
+      "at": "2026-11-08T00:09:20Z",
+      "evidence": "六道走完（draft/s1/s2/s3 由 TZ-main-20261107，r1–r3 由 REV-main-20261108 独立复走）。done：t/timon-phlius.md——正文 3 节 + 2.1 小节 + 15 条文献定义照录 + 导航三节；本轮实修 3 处（漏译 1 处补全、MD022 1 处、弱动词 1 处）；定点四检全过。"
     }
   ],
   "blockers": [],
