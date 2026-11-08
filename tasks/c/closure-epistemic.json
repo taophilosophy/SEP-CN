@@ -2,7 +2,7 @@
   "slug": "closure-epistemic",
   "kind": "retranslate",
   "zh_doc": "c/closure-epistemic.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-08T05:35:45Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "C-main-20261108c",
+      "at": "2026-11-08T12:52:47Z",
+      "evidence": "初译完成（前会话 C-main-20261108b 落盘、本会话核验）：零信任译自 yuanwen/c/closure-epistemic.md，账本 199 段 step1/step2 双版齐全（bd8e15cc/5ec8f433/6f7542dc/3dd3f593 四批落盘）；正文与账本 step2 归一化对齐 199:199（8 处差异为 md 侧后期 prose 实修），尾节参考文献 defs 77 条照录、学术工具/其他网络资源/相关词条已汉化"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "C-main-20261108c",
+      "at": "2026-11-08T12:53:24Z",
+      "evidence": "自校一：check_style --docs c/closure-epistemic.md --strict 0 问题；CJK 斜体一律改加粗（账本「*知识分析的论证*」等在正文为 **加粗**，共 8 处强调归位）、加粗两侧空格、直引号 0、U+FFFD 0、正文长英文串 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "C-main-20261108c",
+      "at": "2026-11-08T12:54:33Z",
+      "evidence": "自校二：check_academic --strict 0 硬错误（在途豁免 1）；check_prose 0 告警（长句/的链/弱动词/被字全过）；check_math 0 公式 0 缺对；pubinfo 照 baseline（首次发表 2001-12-31、实质修订 2016-02-24），H1 与 SUMMARY 题名「认知闭合 epistemic closure (Steven Luper)」一致"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "C-main-20261108c",
+      "at": "2026-11-08T12:56:24Z",
+      "evidence": "自校三：守恒五维全等——marker 113:113（顺序与键集全等）、defs 77:77 键集全等、年份 263:263 多重集全等、H2 10:10、H3 11:11；正文块 199 段与账本逐段对位；人名登记 31 行（本次补 Hawthorne/舍曼 2 行）、术语 8 行；四检全绿；r1-r3 归 R-main-20261108 评审线"
     }
   ],
   "blockers": [],

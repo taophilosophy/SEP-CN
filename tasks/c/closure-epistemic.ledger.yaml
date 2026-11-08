@@ -466,9 +466,9 @@ segments:
     source: |-
       In response to this first version of the argument from the analysis of knowledge, some theorists (e.g., Luper 1984, BonJour 1987, DeRose 1995)[^bonjour-1987][^derose-1995][^luper-1984] argued that K has great plausibility in its own right (which Dretske acknowledged in 2005: 18)[^dretske-2005] so it should be abandoned only in the face of compelling reasons, yet there are no such reasons.
     step1: |-
-      针对知识分析论证的这一版本，一些理论家（如 Luper 1984、邦茹 1987、德罗斯 1995）[^bonjour-1987][^derose-1995][^luper-1984] 主张，K 本身极具合理性（德雷茨克 2005: 18 也承认），因此只有在面对有力理由时才应放弃它；而这样的理由并不存在。
+      针对知识分析论证的这一版本，一些理论家（如卢珀 1984、邦茹 1987、德罗斯 1995）[^bonjour-1987][^derose-1995][^luper-1984] 主张，K 本身极具合理性（德雷茨克 2005: 18 也承认）[^dretske-2005]，因此只有在面对有力理由时才应放弃它；而这样的理由并不存在。
     step2: |-
-      针对知识分析论证的这一版本，一些理论家（如 Luper 1984、邦茹 1987、德罗斯 1995）[^bonjour-1987][^derose-1995][^luper-1984] 主张，K 本身极具合理性（德雷茨克 2005: 18 也承认），因此只有在面对有力理由时才应放弃它；而这样的理由并不存在。
+      针对知识分析论证的这一版本，一些理论家（如卢珀 1984、邦茹 1987、德罗斯 1995）[^bonjour-1987][^derose-1995][^luper-1984] 主张，K 本身极具合理性（德雷茨克 2005: 18 也承认）[^dretske-2005]，因此只有在面对有力理由时才应放弃它；而这样的理由并不存在。
   - id: 58
     kind: body
     source: |-
@@ -1346,203 +1346,271 @@ segments:
     kind: body
     source: |-
       Turning tables on the skeptic in this way was roughly Moore’s (1959) antiskeptical strategy. (Tendentiously, some writers now call this strategy *dogmatism*). However, instead of K, Moore presupposed the truth of a stronger principle:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这样把怀疑论者的桌子翻转过来，大致就是摩尔（1959）的反怀疑论策略。（带倾向性地，如今有些作者把这一策略称为 *独断论*。）不过，摩尔所预设为真的不是 K，而是一条更强的原则：
+    step2: |-
+      这样把怀疑论者的桌子翻转过来，大致就是摩尔（1959）的反怀疑论策略。（带倾向性地，如今有些作者把这一策略称为 *独断论*。）不过，摩尔所预设为真的不是 K，而是一条更强的原则：
   - id: 167
     kind: body
     source: |-
       **(PK)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（PK）**
+    step2: |-
+      **（PK）**
   - id: 168
     kind: body
     source: |-
       If, while knowing *p*, *S* believes *q* because *S* knows that *q* is entailed by *S*’s knowing *p*, then *S* knows *q*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *S* 在知道 *p* 的同时，因知道 *q* 由 *S* 知道 *p* 这件事所蕴涵而相信 *q*，则 *S* 知道 *q*。
+    step2: |-
+      若 *S* 在知道 *p* 的同时，因知道 *q* 由 *S* 知道 *p* 这件事所蕴涵而相信 *q*，则 *S* 知道 *q*。
   - id: 169
     kind: body
     source: |-
       Unlike K, PK underwrites Moore’s famous argument: Moore knows he is standing; his knowing that he is standing entails that he is not dreaming; therefore, he knows (or rather is in a position to know) that he is not dreaming.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与 K 不同，PK 支持摩尔那条著名论证：摩尔知道自己在站着；他知道自己站着，蕴涵他没有在做梦；因此，他知道（更确切说，处于知道的位置）自己没有在做梦。
+    step2: |-
+      与 K 不同，PK 支持摩尔那条著名论证：摩尔知道自己在站着；他知道自己站着，蕴涵他没有在做梦；因此，他知道（更确切说，处于知道的位置）自己没有在做梦。
   - id: 170
     kind: body
     source: |-
       ### 5.2 Tracking and Skepticism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.2 追踪与怀疑论
+    step2: |-
+      ### 5.2 追踪与怀疑论
   - id: 171
     kind: body
     source: |-
       According to Dretske and Nozick, skepticism is appealing because skeptics are partially right. They are correct when they say that we do not know that skeptical hypotheses fail to hold. For I do not track *not*-*biv*: if *biv* were true, I would still have the experiences that lead me to believe that *biv* is false. Something similar can be said about antiskepticism: antiskeptics are correct when they say we know all sorts of commonsense claims that entail the falsity of skeptical hypotheses. Having gotten this far, however, skeptics appeal to K, and argue that since I would know *not-biv* if I knew *h*, then I must not know *h* after all, while Moore-style antiskeptics appeal to K in order to conclude that I do know *not-biv*. But this is precisely where skeptics and antiskeptics alike go wrong, for K is false. Consider the position skeptics are in. Having accepted the tracking view—as they do when they deny that we know skeptical hypotheses are false—skeptics cannot appeal to the principle of closure, which is false on the tracking theory. We track (hence know) the truth of ordinary knowledge claims yet fail to track (or know) the truth of things that follow, such as that incompatible skeptical hypotheses are false.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按德雷茨克与诺齐克，怀疑论之所以有吸引力，是因为怀疑论者部分正确。他们说我们不知道怀疑论假设不成立，这是对的。因为我并不追踪 *非缸脑*：若 *缸脑* 为真，我仍会有那些使我相信 *缸脑* 为假的体验。反怀疑论那边也可以说类似的话：反怀疑论者说我们知道各式各样蕴涵怀疑论假设为假的常识断言，这也是对的。然而走到这一步之后，怀疑论者便诉诸 K，并论证说：既然若我知道 *h* 我就会知道 *非缸脑*，那我终究不知道 *h*；而摩尔式反怀疑论者则诉诸 K，以得出我确实知道 *非缸脑* 的结论。但这恰恰是怀疑论者与反怀疑论者一起出错之处，因为 K 是假的。看看怀疑论者所处的位置。既然接受追踪观点——他们否认我们知道怀疑论假设为假时正是如此——怀疑论者便不能诉诸闭合原则，因为按追踪理论，闭合原则为假。我们追踪（因而知道）平常知识断言的真，却不去追踪（或知道）其后承的真，例如那些不相容的怀疑论假设为假。
+    step2: |-
+      按德雷茨克与诺齐克，怀疑论之所以有吸引力，是因为怀疑论者部分正确。他们说我们不知道怀疑论假设不成立，这是对的。因为我并不追踪 *非缸脑*：若 *缸脑* 为真，我仍会有那些使我相信 *缸脑* 为假的体验。反怀疑论那边也可以说类似的话：反怀疑论者说我们知道各式各样蕴涵怀疑论假设为假的常识断言，这也是对的。然而走到这一步之后，怀疑论者便诉诸 K，并论证说：既然若我知道 *h* 我就会知道 *非缸脑*，那我终究不知道 *h*；而摩尔式反怀疑论者则诉诸 K，以得出我确实知道 *非缸脑* 的结论。但这恰恰是怀疑论者与反怀疑论者一起出错之处，因为 K 是假的。看看怀疑论者所处的位置。既然接受追踪观点——他们否认我们知道怀疑论假设为假时正是如此——怀疑论者便不能诉诸闭合原则，因为按追踪理论，闭合原则为假。我们追踪（因而知道）平常知识断言的真，却不去追踪（或知道）其后承的真，例如那些不相容的怀疑论假设为假。
   - id: 172
     kind: body
     source: |-
       One shortcoming of this story is that it cannot come to terms with all types of skepticism. There are two main forms of skepticism (and various sub-categories): regress (or Pyrrhonian) skepticism, and indiscernability (Cartesian) skepticism. At best, Dretske and Nozick have provided a way of dealing with the latter.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一故事有个缺陷：它无法与所有类型的怀疑论相调和。怀疑论有两种主要形式（还有各种子类）：回溯（或皮浪式）怀疑论，与不可分辨（笛卡尔式）怀疑论。德雷茨克与诺齐克至多提供了一种对付后者的办法。
+    step2: |-
+      这一故事有个缺陷：它无法与所有类型的怀疑论相调和。怀疑论有两种主要形式（还有各种子类）：回溯（或皮浪式）怀疑论，与不可分辨（笛卡尔式）怀疑论。德雷茨克与诺齐克至多提供了一种对付后者的办法。
   - id: 173
     kind: body
     source: |-
       Another worry about Dretske’s and Nozick’s response to Cartesian skepticism is that it forces us to give up K (as well as GK, and closure across instantiation and simplification). Given the intuitive appeal of these principles, some theorists have looked for alternative ways of explaining skepticism, which they then offer as superior in part on the grounds that they do no violence to K. Consider two possibilities, one offered by advocates of the safe indication theory, and one by contextualists.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对德雷茨克与诺齐克回应笛卡尔式怀疑论的另一个担忧是：它迫使我们放弃 K（连同 GK，以及例示与简化下的闭合）。鉴于这些原则在直觉上有吸引力，一些理论家另寻解释怀疑论的途径，并主张其更优，部分理由是它们不伤害 K。考虑两种可能：一种由安全指示理论的倡导者提供，另一种由语境论者提供。
+    step2: |-
+      对德雷茨克与诺齐克回应笛卡尔式怀疑论的另一个担忧是：它迫使我们放弃 K（连同 GK，以及例示与简化下的闭合）。鉴于这些原则在直觉上有吸引力，一些理论家另寻解释怀疑论的途径，并主张其更优，部分理由是它们不伤害 K。考虑两种可能：一种由安全指示理论的倡导者提供，另一种由语境论者提供。
   - id: 174
     kind: body
     source: |-
       ### 5.3 Safe Indication and Skepticism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.3 安全指示与怀疑论
+    step2: |-
+      ### 5.3 安全指示与怀疑论
   - id: 175
     kind: body
     source: |-
       Advocates of the safe indication theory accept the gist of the tracking theorist explanation of the appeal of skepticism but retain the principle of closure. One reason skepticism tempts us is that we tend to confuse CR with SI (Sosa 1999, Luper 1984, 1987c, 2003a)[^luper-1984][^sosa-1999]. After all, CR—if *p* were false, *R* would not hold—closely resembles SI—*R* would hold only if *p* were true. When we run the two together, we sometimes apply CR and conclude that we do not know that skeptical scenarios do not hold. Then we shift back to the safe indication account, and go along with skeptics when they appeal to the principle of entailment, which is sustained by the safe indication account, and conclude that ordinary knowledge claims are false. But, as Moore claimed, skeptics are wrong when they say we do not know that skeptical hypotheses are false. Roughly, we know skeptical possibilities do not hold since (given our circumstances) they are remote.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      安全指示理论的倡导者接受追踪理论家对怀疑论吸引力所作解释的大意，但保留闭合原则。怀疑论之所以诱使我们，原因之一是我们容易把 CR 与 SI 混淆（索萨 1999；卢珀 1984, 1987c, 2003a）[^luper-1984][^sosa-1999]。毕竟，CR——若 *p* 为假，*R* 就不会成立——与 SI——*R* 成立仅当 *p* 为真——十分相似。当我们把两者搅在一起时，有时会应用 CR，并断定我们不知道怀疑论场景不成立。随后我们又转回安全指示说明，在怀疑论者诉诸蕴涵原则（该原则由安全指示说明支持）时附和他们，并断定平常知识断言为假。但正如摩尔所主张，怀疑论者说我们不知道怀疑论假设为假，是错的。粗略地说，我们知道怀疑论可能性不成立，因为（就我们的情形而言）它们是遥远的。
+    step2: |-
+      安全指示理论的倡导者接受追踪理论家对怀疑论吸引力所作解释的大意，但保留闭合原则。怀疑论之所以诱使我们，原因之一是我们容易把 CR 与 SI 混淆（索萨 1999；卢珀 1984, 1987c, 2003a）[^luper-1984][^sosa-1999]。毕竟，CR——若 *p* 为假，*R* 就不会成立——与 SI——*R* 成立仅当 *p* 为真——十分相似。当我们把两者搅在一起时，有时会应用 CR，并断定我们不知道怀疑论场景不成立。随后我们又转回安全指示说明，在怀疑论者诉诸蕴涵原则（该原则由安全指示说明支持）时附和他们，并断定平常知识断言为假。但正如摩尔所主张，怀疑论者说我们不知道怀疑论假设为假，是错的。粗略地说，我们知道怀疑论可能性不成立，因为（就我们的情形而言）它们是遥远的。
   - id: 176
     kind: body
     source: |-
       Skepticism might also result from the assumption that, if a belief formation method *M* were, in some situation, to yield a belief without enabling us to know the truth of that belief, then it cannot ever generate bona fide knowledge (of that sort of belief), no matter what circumstances it is used in. (*M* must be strengthened somehow, say with a supplemental method, or with evidence about the circumstances at hand, if knowledge is to be procured.) This assumption might rest on the idea that any belief *M* yields is, at best, accidentally correct, if in any circumstances *M* yields a false or an accidentally correct belief (Luper 1987b,c)[^luper-1987b]. On this assumption, we can rule out a method of belief formation *M* as a source of knowledge merely by sketching circumstances in which *M* yields a belief that is false or accidentally correct. Traditional skeptical scenarios suffice; so do Gettieresque situations. Externalist theorists reject the assumption, saying that *M* can generate knowledge when used in circumstances under which the belief it yields is not accidentally correct. In highly Gettierized circumstances *M* must put us in an especially strong epistemic position if *M* is to generate knowledge; in ordinary circumstances, less exacting methods can produce knowledge. The standards a method must meet to produce knowledge depend on the context in which it is used. This view, on which the requirements for a subject or agent *S* to know *p* vary with *S*’s context (e.g., how exacting *S*’s method of belief formation must be to yield knowledge depend on *S*’s circumstances), might be called *agent-centered* (or *subject*) *contextualism*. Both tracking theorists and safe indication theorists defend agent-centered contextualism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      怀疑论还可能源于这样一个假定：若信念形成方法 *M* 在某个情形下产生的信念使我们无从知道其真，那么无论在什么情形下使用，它都不能产生真正的知识（就该类信念而言）。（要获得知识，*M* 必须以某种方式加强，例如辅以补充方法，或辅以关于眼下情形的证据。）这一假定也许立足如下想法：若在任何情形下 *M* 都产生假的或碰巧正确的信念，那么 *M* 产生的信念至多碰巧正确（卢珀 1987b, c）[^luper-1987b]。按这一假定，我们只需勾画 *M* 产生假信念或碰巧正确信念的情形，便可把 *M* 这一信念形成方法排除出知识来源。传统怀疑论场景就够了；盖梯尔式情形也一样。外在主义理论家拒斥这一假定，说 *M* 在其产生的信念并非碰巧正确的情形下使用时，可以产生知识。在高度盖梯尔化的情形中，*M* 若要产生知识，就必须把我们置于特别强的认识论位置；在平常情形中，不那么苛刻的方法也能产生知识。一个方法要产生知识所须满足的标准，取决于它被使用的语境。这一观点——知道 *p* 的要求随主体或行动者 *S* 的语境而变（例如 *S* 的信念形成方法必须苛刻到什么程度才产生知识，取决于 *S* 的情形）——不妨称为 *行动者中心*（或 *主体*）*语境论*。追踪理论家与安全指示理论家都为行动者中心语境论辩护。
+    step2: |-
+      怀疑论还可能源于这样一个假定：若信念形成方法 *M* 在某个情形下产生的信念使我们无从知道其真，那么无论在什么情形下使用，它都不能产生真正的知识（就该类信念而言）。（要获得知识，*M* 必须以某种方式加强，例如辅以补充方法，或辅以关于眼下情形的证据。）这一假定也许立足如下想法：若在任何情形下 *M* 都产生假的或碰巧正确的信念，那么 *M* 产生的信念至多碰巧正确（卢珀 1987b, c）[^luper-1987b]。按这一假定，我们只需勾画 *M* 产生假信念或碰巧正确信念的情形，便可把 *M* 这一信念形成方法排除出知识来源。传统怀疑论场景就够了；盖梯尔式情形也一样。外在主义理论家拒斥这一假定，说 *M* 在其产生的信念并非碰巧正确的情形下使用时，可以产生知识。在高度盖梯尔化的情形中，*M* 若要产生知识，就必须把我们置于特别强的认识论位置；在平常情形中，不那么苛刻的方法也能产生知识。一个方法要产生知识所须满足的标准，取决于它被使用的语境。这一观点——知道 *p* 的要求随主体或行动者 *S* 的语境而变（例如 *S* 的信念形成方法必须苛刻到什么程度才产生知识，取决于 *S* 的情形）——不妨称为 *行动者中心*（或 *主体*）*语境论*。追踪理论家与安全指示理论家都为行动者中心语境论辩护。
   - id: 177
     kind: body
     source: |-
       ### 5.4 Contextualism and Skepticism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.4 语境论与怀疑论
+    step2: |-
+      ### 5.4 语境论与怀疑论
   - id: 178
     kind: body
     source: |-
       Theorists writing under the label “contextualism,” such as David Lewis (1979, 1996), Stewart Cohen (1988, 1999), and Keith DeRose (1995), offer a related way of explaining skepticism without denying closure. For clarity, we might call them *speaker*-centered (or *attributor*) contextualists since they contrast their view with agent-centered contextualism. According to (speaker-centered) contextualists, whether it is correct for a *judge* to attribute knowledge to someone depends on that *judge’s* context, and the standards for knowledge differ from context to context. When the man on the street judges knowledge, the applicable standards are relatively modest. But an epistemologist takes all sorts of possibilities seriously that are ignored by ordinary folk, and so must apply quite stringent standards in order to reach correct assessments. What passes for knowledge in ordinary contexts does not qualify for knowledge in contexts where heightened criteria apply. Skepticism is explained by the fact that the contextual variation of epistemic standards is easily overlooked. Skeptics note that in the epistemic context it is inappropriate to grant anyone knowledge. However, skeptics assume—falsely—that what goes in the epistemic context goes in all contexts. They assume that since those who take skepticism seriously must deny anyone knowledge, then everyone, regardless of context, should deny anyone knowledge. Yet people in ordinary contexts are perfectly correct in claiming that they know all sorts of things.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以“语境论”为标签写作的理论家，如大卫·刘易斯（1979, 1996）、斯图尔特·科恩（1988, 1999）与基思·德罗斯（1995），提供了一条相关途径，可以在不否认闭合的情况下解释怀疑论。为清晰起见，我们不妨称他们为 *说话者中心*（或 *归与者*）语境论者，因为他们把自己的观点与行动者中心语境论相对照。按（说话者中心）语境论者，一个 *评判者* 把知识归于某人是否正确，取决于该 *评判者* 的语境，而知识标准因语境而异。街上的人在评判知识时，适用的标准相对温和。但认识论者把平常人忽略的种种可能性当真，因此必须应用相当苛刻的标准，才能得出正确评估。在平常语境中算作知识的东西，在适用提高标准的语境中不够格。怀疑论的解释是：认识标准随语境而变，这一点很容易被忽视。怀疑论者指出，在认识论语境中，把知识归于任何人都不恰当。不过，怀疑论者错误地假定：认识论语境中通行的，在一切语境中都通行。他们假定：既然认真对待怀疑论的人必须不把知识归于任何人，那么无论语境如何，人人都不该把知识归于任何人。可是，平常语境中的人声称知道各式各样的事，完全正确。
+    step2: |-
+      以“语境论”为标签写作的理论家，如大卫·刘易斯（1979, 1996）、斯图尔特·科恩（1988, 1999）与基思·德罗斯（1995），提供了一条相关途径，可以在不否认闭合的情况下解释怀疑论。为清晰起见，我们不妨称他们为 *说话者中心*（或 *归与者*）语境论者，因为他们把自己的观点与行动者中心语境论相对照。按（说话者中心）语境论者，一个 *评判者* 把知识归于某人是否正确，取决于该 *评判者* 的语境，而知识标准因语境而异。街上的人在评判知识时，适用的标准相对温和。但认识论者把平常人忽略的种种可能性当真，因此必须应用相当苛刻的标准，才能得出正确评估。在平常语境中算作知识的东西，在适用提高标准的语境中不够格。怀疑论的解释是：认识标准随语境而变，这一点很容易被忽视。怀疑论者指出，在认识论语境中，把知识归于任何人都不恰当。不过，怀疑论者错误地假定：认识论语境中通行的，在一切语境中都通行。他们假定：既然认真对待怀疑论的人必须不把知识归于任何人，那么无论语境如何，人人都不该把知识归于任何人。可是，平常语境中的人声称知道各式各样的事，完全正确。
   - id: 179
     kind: body
     source: |-
       Furthermore, the closure principle is correct, contextualists say, so long as it is understood to operate within given contexts, not across contexts. That is, so long as we stay within a given context, we know the things we deduce from other things we know. But if I am in an ordinary context, knowing I am in San Antonio, I cannot come to know, via deduction, that I am not a brain in a vat on a distant planet, since the moment I take that skeptical possibility seriously, I transform my context into one in which heightened epistemic standards apply. When I take the vat possibility seriously, I must wield demanding standards that rule out my knowing I am not a brain in a vat. By the same token, these standards preclude my knowing I am in San Antonio. Thinking seriously about knowledge undermines our knowledge.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，语境论者说，闭合原则是正确的，只要把它理解为在给定语境之内运作，而非跨语境运作。也就是说，只要我们停留在给定语境之内，我们从已知之事推出的事，我们也就知道。但若我处在平常语境中，知道我在圣安东尼奥，我便不能凭演绎进而知道我不是一颗放在遥远行星上的缸中之脑；因为一旦我认真对待那个怀疑论可能性，我就把我的语境变成了适用提高认识标准的语境。当我认真对待缸中之脑的可能性时，我必须使用苛刻的标准，这些标准排除我知道自己不是缸中之脑。同理，这些标准也排除我知道自己在圣安东尼奥。认真思考知识，会瓦解我们的知识。
+    step2: |-
+      此外，语境论者说，闭合原则是正确的，只要把它理解为在给定语境之内运作，而非跨语境运作。也就是说，只要我们停留在给定语境之内，我们从已知之事推出的事，我们也就知道。但若我处在平常语境中，知道我在圣安东尼奥，我便不能凭演绎进而知道我不是一颗放在遥远行星上的缸中之脑；因为一旦我认真对待那个怀疑论可能性，我就把我的语境变成了适用提高认识标准的语境。当我认真对待缸中之脑的可能性时，我必须使用苛刻的标准，这些标准排除我知道自己不是缸中之脑。同理，这些标准也排除我知道自己在圣安东尼奥。认真思考知识，会瓦解我们的知识。
   - id: 180
     kind: body
     source: |-
       ## 6. Closure of Rational Belief
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6. 合理信念的闭合
+    step2: |-
+      ## 6. 合理信念的闭合
   - id: 181
     kind: body
     source: |-
       To say that justified belief is closed under entailment is to say that something like one of the following principles is correct (or that both are):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      说证成信念在蕴涵下闭合，即是说下面两条原则中某条（或两条都）成立：
+    step2: |-
+      说证成信念在蕴涵下闭合，即是说下面两条原则中某条（或两条都）成立：
   - id: 182
     kind: body
     source: |-
       **(J)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（J）**
+    step2: |-
+      **（J）**
   - id: 183
     kind: body
     source: |-
       If, while justifiably believing *p*, *S* believes *q* because *S* knows *p* entails *q*, then *S* justifiably believes *q*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *S* 在有证成地相信 *p* 的同时，因知道 *p* 蕴涵 *q* 而相信 *q*，则 *S* 有证成地相信 *q*。
+    step2: |-
+      若 *S* 在有证成地相信 *p* 的同时，因知道 *p* 蕴涵 *q* 而相信 *q*，则 *S* 有证成地相信 *q*。
   - id: 184
     kind: body
     source: |-
       **(GJ)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（GJ）**
+    step2: |-
+      **（GJ）**
   - id: 185
     kind: body
     source: |-
       If, while justifiably believing various propositions, *S* believes *p* because S knows that they entail *p*, then *S* justifiably believes *p*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *S* 在有证成地相信若干命题的同时，因知道它们蕴涵 *p* 而相信 *p*，则 *S* 有证成地相信 *p*。
+    step2: |-
+      若 *S* 在有证成地相信若干命题的同时，因知道它们蕴涵 *p* 而相信 *p*，则 *S* 有证成地相信 *p*。
   - id: 186
     kind: body
     source: |-
       However, GJ generates paradoxes (Kyburg 1961)[^kyburg-1961]. To see why, notice that if the chances of winning a lottery are sufficiently remote, I am justified in believing that my ticket, ticket 1, will lose. I am also justified in believing that ticket 2 will lose, and that 3 will lose, and so on. However, I am not justified in believing the conjunction of these propositions. If I were, I would justifiably believe that no ticket will win. If a proposition is justified when probable enough, lottery examples undermine GJ. No matter how great the probability that suffices for justification, unless that probability is 1, in some lotteries we will be justified in believing, of an arbitrary ticket, that it will lose, and thus, by GJ, we will be justified in believing that all of the tickets will lose.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，GJ 会产生悖论（基伯格 1961）[^kyburg-1961]。为看清缘由，请注意：若彩票中奖概率足够遥远，我便有证成地相信我的票——1 号票——会输。我也有证成地相信 2 号票会输、3 号票会输，依此类推。但我并无证成地相信这些命题的合取。若我有，我就会有证成地相信没有任何票会中奖。若命题概率足够高就算得到证成，彩票例子便瓦解 GJ。无论作为证成之充分条件的概率有多高，只要不是 1，在有些彩票中我们就会有证成地相信任一指定票会输；于是按 GJ，我们就会有证成地相信所有票都会输。
+    step2: |-
+      然而，GJ 会产生悖论（基伯格 1961）[^kyburg-1961]。为看清缘由，请注意：若彩票中奖概率足够遥远，我便有证成地相信我的票——1 号票——会输。我也有证成地相信 2 号票会输、3 号票会输，依此类推。但我并无证成地相信这些命题的合取。若我有，我就会有证成地相信没有任何票会中奖。若命题概率足够高就算得到证成，彩票例子便瓦解 GJ。无论作为证成之充分条件的概率有多高，只要不是 1，在有些彩票中我们就会有证成地相信任一指定票会输；于是按 GJ，我们就会有证成地相信所有票都会输。
   - id: 187
     kind: body
     source: |-
       Even if we reject GJ, it does not follow that we must reject GK, which concerns *knowledge* closure. Consider the lottery example again. How justified we are in believing that ticket 1 will lose depends on how probable its losing is. Now, the probability that ticket 2 will lose is equal to the probability that ticket 1 will lose. The same goes for each ticket. However, consider the conjunction, *Ticket 1 will lose & ticket 2 will lose*. The probability of this conjunctive proposition is less than the probability of either of its conjuncts. Suppose we continue to add conjuncts. For example, next in line will be: *Ticket 1 will lose & ticket 2 will lose & ticket 3 will lose*. Each time a conjunct is added, the probability of the resulting proposition is still lower. This illustrates the fact that we can begin with a collection of propositions each of which surpasses some threshold level of justification (let it be whatever is necessary for a belief to count as “justified” according to GJ) and, by conjoining them, we can end up with a proposition which falls below that threshold level of justification. We may “justifiably believe” each conjunct, but not the conjunction, so GJ fails. However, we need not reject GK on these grounds. Even if we grant that we *justifiably believe* that *Ticket 1 will lose* is true we might deny that we *know* that this proposition is true. We might take the position that if we believe some proposition *p* on the basis of its probability, nothing less than a probability of 1 will suffice to enable us to know that it is true. In that case GK will not succumb to our objection to GJ, for if the probability of two or more propositions is 1 then the probability of their conjunction is also 1.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即使拒斥 GJ，也不必随之拒斥 GK，因为 GK 关涉 *知识* 闭合。再考虑彩票例子。我们对“1 号票会输”的证成程度，取决于其输掉的概率。而 2 号票输掉的概率等于 1 号票输掉的概率；每张票都如此。但考虑合取“1 号票会输 & 2 号票会输”：这一合取命题的概率小于其中任一支的概率。若继续增加支项，例如接着是“1 号票会输 & 2 号票会输 & 3 号票会输”，每加一个支项，所得命题的概率就更低。这表明：我们可以从一组命题出发，其中每个都超过某个证成阈值（按 GJ，信念要算“得到证成”所需的程度），而把它们合取起来，最终得到的命题却低于该证成阈值。我们可以“有证成地相信”每个支项，却不相信那个合取，于是 GJ 失败。但我们无须以此为理由拒斥 GK。即便我们承认自己 *有证成地相信* “1 号票会输”为真，我们仍可否认自己 *知道* 这一命题为真。我们可以采取这样的立场：若我们基于概率相信某命题 *p*，那么要使我们知道它为真，概率非到 1 不可。如此一来，GK 不会屈服于我们对 GJ 的反驳，因为若两个或多个命题的概率都是 1，则其合取的概率也是 1。
+    step2: |-
+      即使拒斥 GJ，也不必随之拒斥 GK，因为 GK 关涉 *知识* 闭合。再考虑彩票例子。我们对“1 号票会输”的证成程度，取决于其输掉的概率。而 2 号票输掉的概率等于 1 号票输掉的概率；每张票都如此。但考虑合取“1 号票会输 & 2 号票会输”：这一合取命题的概率小于其中任一支的概率。若继续增加支项，例如接着是“1 号票会输 & 2 号票会输 & 3 号票会输”，每加一个支项，所得命题的概率就更低。这表明：我们可以从一组命题出发，其中每个都超过某个证成阈值（按 GJ，信念要算“得到证成”所需的程度），而把它们合取起来，最终得到的命题却低于该证成阈值。我们可以“有证成地相信”每个支项，却不相信那个合取，于是 GJ 失败。但我们无须以此为理由拒斥 GK。即便我们承认自己 *有证成地相信* “1 号票会输”为真，我们仍可否认自己 *知道* 这一命题为真。我们可以采取这样的立场：若我们基于概率相信某命题 *p*，那么要使我们知道它为真，概率非到 1 不可。如此一来，GK 不会屈服于我们对 GJ 的反驳，因为若两个或多个命题的概率都是 1，则其合取的概率也是 1。
   - id: 188
     kind: body
     source: |-
       We can reject GJ. Should we also reject J? The status of this principle is much more controversial. Some theorists argue against it using counterexamples like Dretske’s own zebra case: because the zebra is in plain sight, you seem fully justified in believing *zeb*, but it is not so clear that you are justified in believing *not-mule*, even if you deduce this belief from *zeb*. Anyone who rejects K on the grounds that K sanctions the knowledge of limiting or heavyweight propositions (discussed earlier) is likely to reject J on similar grounds: justifiably believing that we have hands, it might seem, does not position us to justifiably believe that there are physical objects even if we see that the former entails the latter.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们可以拒斥 GJ。那么也该拒斥 J 吗？这条原则的地位更有争议。一些理论家用类似德雷茨克斑马情形的反例反驳它：由于斑马就在眼前，你似乎完全有证成地相信 *斑马*，但你是否有证成地相信 *非骡子*，就不那么清楚——即使你从 *斑马* 演绎出这一信念。凡以 K 认可限定性或重量级命题的知识为由拒斥 K 的人（见前文讨论），很可能以类似理由拒斥 J：有证成地相信我们有手，似乎并不使我们处于有证成地相信有物理对象存在的位置，即使我们看出前者蕴涵后者。
+    step2: |-
+      我们可以拒斥 GJ。那么也该拒斥 J 吗？这条原则的地位更有争议。一些理论家用类似德雷茨克斑马情形的反例反驳它：由于斑马就在眼前，你似乎完全有证成地相信 *斑马*，但你是否有证成地相信 *非骡子*，就不那么清楚——即使你从 *斑马* 演绎出这一信念。凡以 K 认可限定性或重量级命题的知识为由拒斥 K 的人（见前文讨论），很可能以类似理由拒斥 J：有证成地相信我们有手，似乎并不使我们处于有证成地相信有物理对象存在的位置，即使我们看出前者蕴涵后者。
   - id: 189
     kind: body
     source: |-
       One response is that cases such as Dretske’s do not count against J, but rather against the following principle (of the transmissibility of evidence):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一种回应是：德雷茨克这类情形不构成对 J 的反驳，而是对下面这条（证据可传递性）原则的反驳：
+    step2: |-
+      一种回应是：德雷茨克这类情形不构成对 J 的反驳，而是对下面这条（证据可传递性）原则的反驳：
   - id: 190
     kind: body
     source: |-
       **(E)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（E）**
+    step2: |-
+      **（E）**
   - id: 191
     kind: body
     source: |-
       If *e* is evidence for *p*, and *p* entails *q*, then *e* is evidence for *q*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *e* 是 *p* 的证据，且 *p* 蕴涵 *q*，则 *e* 是 *q* 的证据。
+    step2: |-
+      若 *e* 是 *p* 的证据，且 *p* 蕴涵 *q*，则 *e* 是 *q* 的证据。
   - id: 192
     kind: body
     source: |-
       Even if we reject this principle, it does not follow that justification is not closed under entailment, as Peter Klein (1981) pointed out. Arguably, for justification closure, all that is necessary is that when, given all of our relevant evidence *e*, we are justified in believing *p*, we also *have* sufficient justification for believing each of *p*’s consequences. Our justification for *p*’s consequences need not be *e*. Instead, it might be *p* itself, which is, after all, a justified belief. And since *p* entails its consequences, it is sufficient to justify them. Moreover, any good evidence we have against a consequence of *p* counts against *p* itself, preventing us from being justified in believing *p* in the first place, so if we are justified in believing *p*, considering all our evidence, pro and con, we will not have overwhelming evidence against propositions entailed by *p*. (A similar move could be defended against the tracking theorists when they deny the closure of knowledge: if we track *p*, and believe *q* by deducing it from *p*, then we track *q* if we take *p* as our basis for believing *q*.) Looked at in this way, J seems plausible. (There is a substantial literature on the transmissibility of evidence and its failure; see, for example, Crispin Wright (1985) and Martin Davies (1998).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即使拒斥这条原则，也不蕴涵证成不在蕴涵下闭合，彼得·克莱因（1981）已指出这一点。可以说，对证成闭合而言，所需的一切只是：当我们依据全部相关证据 *e* 而有证成地相信 *p* 时，我们对 *p* 的每个后承也 *拥有* 充分的证成去相信。我们对 *p* 后承的证成不必是 *e*，而可以是 *p* 本身——它毕竟是一个得到证成的信念。既然 *p* 蕴涵其后承，*p* 便足以证成它们。此外，我们反对 *p* 某个后承的任何好证据，也反对 *p* 本身，使我们一开始就不可能有证成地相信 *p*；因此，若权衡正反全部证据后我们仍有证成地相信 *p*，我们就不会有压倒性证据反对 *p* 所蕴涵的命题。（对拒斥知识闭合的追踪理论家，也可以作类似辩护：若我们追踪 *p*，并从 *p* 演绎出 *q* 而相信它，那么只要我们以 *p* 作为相信 *q* 的依据，我们就追踪 *q*。）这样看，J 似乎可信。（关于证据可传递性及其失效，已有大量文献，例如见 Crispin Wright (1985) 与 Martin Davies (1998)。
+    step2: |-
+      即使拒斥这条原则，也不蕴涵证成不在蕴涵下闭合，彼得·克莱因（1981）已指出这一点。可以说，对证成闭合而言，所需的一切只是：当我们依据全部相关证据 *e* 而有证成地相信 *p* 时，我们对 *p* 的每个后承也 *拥有* 充分的证成去相信。我们对 *p* 后承的证成不必是 *e*，而可以是 *p* 本身——它毕竟是一个得到证成的信念。既然 *p* 蕴涵其后承，*p* 便足以证成它们。此外，我们反对 *p* 某个后承的任何好证据，也反对 *p* 本身，使我们一开始就不可能有证成地相信 *p*；因此，若权衡正反全部证据后我们仍有证成地相信 *p*，我们就不会有压倒性证据反对 *p* 所蕴涵的命题。（对拒斥知识闭合的追踪理论家，也可以作类似辩护：若我们追踪 *p*，并从 *p* 演绎出 *q* 而相信它，那么只要我们以 *p* 作为相信 *q* 的依据，我们就追踪 *q*。）这样看，J 似乎可信。（关于证据可传递性及其失效，已有大量文献，例如见 Crispin Wright (1985) 与 Martin Davies (1998)。
   - id: 193
     kind: body
     source: |-
       Some final observations can be made using Roderick Firth’s (1978) distinction between propositional and doxastic justification. Proposition *p* has propositional justification for S if and only if, given the grounds *S* possesses, *p* would count as rational. That *p* has propositional justification for *S* does not require that *S* actually base *p* on these grounds, or even that *S* believe *p*. Whether *S*’s belief has doxastic justification depends on *S*’s actual grounds for believing *p*: if, on these grounds, *p* would count as rational, then *p* possesses doxastic justification. Consider the following principles:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，可以借罗德里克·弗斯（1978）对命题证成与信念证成的区分作几点观察。命题 *p* 对 *S* 有命题证成，当且仅当：就 *S* 所拥有的依据而言，*p* 算得上合理。*p* 对 *S* 有命题证成，并不要求 *S* 真把这些依据当作 *p* 的基础，甚至不要求 *S* 相信 *p*。*S* 的信念是否有信念证成，取决于 *S* 相信 *p* 的实际依据：若依这些依据，*p* 算得上合理，则 *p* 拥有信念证成。考虑下述原则：
+    step2: |-
+      最后，可以借罗德里克·弗斯（1978）对命题证成与信念证成的区分作几点观察。命题 *p* 对 *S* 有命题证成，当且仅当：就 *S* 所拥有的依据而言，*p* 算得上合理。*p* 对 *S* 有命题证成，并不要求 *S* 真把这些依据当作 *p* 的基础，甚至不要求 *S* 相信 *p*。*S* 的信念是否有信念证成，取决于 *S* 相信 *p* 的实际依据：若依这些依据，*p* 算得上合理，则 *p* 拥有信念证成。考虑下述原则：
   - id: 194
     kind: body
     source: |-
       **(JD)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（JD）**
+    step2: |-
+      **（JD）**
   - id: 195
     kind: body
     source: |-
       If *p* is doxastically justified for *S*, and *p* entails *q*, then *q* is doxastically justified for *S*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *p* 对 *S* 有信念证成，且 *p* 蕴涵 *q*，则 *q* 对 *S* 有信念证成。
+    step2: |-
+      若 *p* 对 *S* 有信念证成，且 *p* 蕴涵 *q*，则 *q* 对 *S* 有信念证成。
   - id: 196
     kind: body
     source: |-
       **(JP)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（JP）**
+    step2: |-
+      **（JP）**
   - id: 197
     kind: body
     source: |-
       If *p* is propositionally justified for *S*, and *p* entails *q*, then *q* is propositionally justified for *S*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *p* 对 *S* 有命题证成，且 *p* 蕴涵 *q*，则 *q* 对 *S* 有命题证成。
+    step2: |-
+      若 *p* 对 *S* 有命题证成，且 *p* 蕴涵 *q*，则 *q* 对 *S* 有命题证成。
   - id: 198
     kind: body
     source: |-
       Clearly JD faces two fatal objections. First, we might fail to believe some of the things implied by our beliefs. Second, we may have perfectly respectable reasons for believing something *p*, yet, failing to see that *p* entails *q*, we might not be aware of any grounds for believing *q*, or, worse, we might believe *q* for bogus reasons. But neither difficulty threatens JP. First, propositional justification does not entail belief. Second, *S* might be propositionally justified in believing *q* on the basis of *p* whether or not *S* fails to see that *p* entails *q*, and even if *S* believes *q* for bogus reasons. As further support for JP, we might cite the fact that, if *p* entails *q*, whatever counts against *q* also counts against *p*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      显然，JD 面临两项致命反驳。第一，我们可能不相信我们信念所蕴涵的某些事。第二，我们可能完全有体面的理由相信某件事 *p*，却因看不出 *p* 蕴涵 *q*，而意识不到任何相信 *q* 的依据；更糟的是，我们可能因虚假理由而相信 *q*。但这两项困难都不威胁 JP。第一，命题证成不蕴涵信念。第二，无论 *S* 是否看出 *p* 蕴涵 *q*，甚至即便 *S* 因虚假理由相信 *q*，*S* 仍可能基于 *p* 而有命题证成地相信 *q*。作为对 JP 的进一步支持，我们可以援引这一事实：若 *p* 蕴涵 *q*，则凡不利于 *q* 者，也不利于 *p*。
+    step2: |-
+      显然，JD 面临两项致命反驳。第一，我们可能不相信我们信念所蕴涵的某些事。第二，我们可能完全有体面的理由相信某件事 *p*，却因看不出 *p* 蕴涵 *q*，而意识不到任何相信 *q* 的依据；更糟的是，我们可能因虚假理由而相信 *q*。但这两项困难都不威胁 JP。第一，命题证成不蕴涵信念。第二，无论 *S* 是否看出 *p* 蕴涵 *q*，甚至即便 *S* 因虚假理由相信 *q*，*S* 仍可能基于 *p* 而有命题证成地相信 *q*。作为对 JP 的进一步支持，我们可以援引这一事实：若 *p* 蕴涵 *q*，则凡不利于 *q* 者，也不利于 *p*。
   - id: 199
     kind: oir
     source: |-
       [Please contact the author with suggestions.]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [请向作者提出改进建议。]
+    step2: |-
+      [请向作者提出改进建议。]

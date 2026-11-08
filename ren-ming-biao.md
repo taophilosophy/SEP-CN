@@ -993,7 +993,7 @@
 | Connor, Margaret | — | 玛格丽特·康纳 | — | — | cockburn | 学界惯例（考克本研究者，音译；脚注出现）；凭证 2026-11-07 | 2026-11-07 |
 | Kelley, Anne | — | 安妮·凯利 | — | — | cockburn | 学界通行汉译（《Catharine Trotter》作者，考克本研究者）；凭证 2026-11-07 | 2026-11-07 |
 | Trotter, Catharine | — | 凯瑟琳·特洛特 | — | — | cockburn | 学界惯例（考克本婚前名，即 Cockburn, Catharine Trotter）；凭证 2026-11-07 | 2026-11-07 |
-| Holkot, Robert | — | 罗伯特·霍尔柯特 | — | — | 首现（crathorn） | 学界惯例（14 世纪牛津多明我会士，音译；源文亦作 Holcot）；凭证 2026-11-07 | 2026-11-07 |
+| Holkot, Robert | — | 罗伯特·霍尔科特 | — | — | 首现（crathorn） | 学界惯例（14 世纪牛津多明我会士，音译；源文亦作 Holcot）；与 834 行 Robert Holcot 同人双键，译名统一为霍尔科特（先登优先，2026-11-01 行）；凭证 2026-11-07 | 2026-11-07 |
 | Harclay, Henry of | — | 亨利·哈克莱 | — | — | 首现（crathorn） | 学界惯例（牛津方济各会士，音译）；凭证 2026-11-07 | 2026-11-07 |
 | Chatton, Walter | — | 沃尔特·查顿 | — | — | 首现（crathorn） | 学界惯例（牛津方济各会士，音译）；凭证 2026-11-07 | 2026-11-07 |
 | Gerard of Odo | — | 热拉尔·奥多 | — | — | 首现（crathorn） | 学界惯例（巴黎方济各会士，音译）；凭证 2026-11-07 | 2026-11-07 |
@@ -2340,6 +2340,8 @@
 | Roush, Sherrilyn | — | 谢里琳·劳什 | — | — | closure-epistemic | 学界通行音译（追踪与闭合）；凭证 2026-11-08 | 2026-11-08 |
 | Ginet, Carl | — | 卡尔·吉内 | — | — | closure-epistemic | 学界通行音译（谷仓反例）；凭证 2026-11-08 | 2026-11-08 |
 | Moore, G. E. | — | G. E. 摩尔 | — | — | closure-epistemic | 学界通行汉译（常识哲学、反怀疑论；与迈克尔·摩尔异人）；凭证 2026-11-08 | 2026-11-08 |
+| Hawthorne, John | — | 约翰·霍桑 | — | — | closure-epistemic | 学界通行音译（《知识与彩票》作者，单前提闭合）；凭证 2026-11-08 | 2026-11-08 |
+| Sherman, Benjamin | — | 本杰明·舍曼 | — | — | closure-epistemic | 学界通行音译（哈曼与舍曼 2004 确信要求）；凭证 2026-11-08 | 2026-11-08 |
 | Penelope | — | 佩内洛普 | — | — | necessary-sufficient | 示例人名音译（词条例子）；凭证 2026-11-08 | 2026-11-08 |
 | Nellie | — | 奈莉 | — | — | necessary-sufficient | 示例人名音译（词条例子）；凭证 2026-11-08 | 2026-11-08 |
 | Lambert (example) | — | 兰伯特 | — | — | necessary-sufficient | 示例人名音译（词条大提琴例子，非 Johann Heinrich Lambert）；凭证 2026-11-08 | 2026-11-08 |
@@ -2347,3 +2349,5 @@
 | Audrey | — | 奥德丽 | — | — | necessary-sufficient | 示例人名音译（词条例子）；凭证 2026-11-08 | 2026-11-08 |
 | Jonah | — | 约拿 | — | — | necessary-sufficient | 圣经典故人名通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Octavia | — | 奥克塔维娅 | — | — | necessary-sufficient | 示例人名音译（词条例子）；凭证 2026-11-08 | 2026-11-08 |
+| Prichard, H. A. | — | H. A. 普里查德 | — | — | intuitionism-ethics | 学界通行汉译（《道德哲学基于错误吗？》作者）；凭证 2026-11-08 | 2026-11-08 |
+| Singer, Peter | — | 彼得·辛格 | — | — | intuitionism-ethics | 学界通行汉译（《饥荒、富裕与道德》作者）；凭证 2026-11-08 | 2026-11-08 |
