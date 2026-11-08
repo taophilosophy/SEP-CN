@@ -1,0 +1,1118 @@
+version: 1
+slug: erotic-art
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      What is erotic art? Do all paintings with a sexual theme qualify as erotic? How to distinguish between erotica and erotic art? In what way are aesthetic experiences related to, or different from, erotic experiences and are they at all compatible? Both people and works of art can be sensually appealing, but is the beauty in each case substantially the same? How helpful is the distinction between the nude and the naked? Can we draw a strict line between erotic art and pornography? We tend to think of art as complex and of pornography as one-dimensional, but how compelling is that differentiation? Pornography is often considered harmful, objectifying, and exploitative, but to what extent is erotic art immune to moral criticism of this sort? In addressing such questions this entry will provide an overview of current philosophical debates on erotic art. It will also place those debates in historical perspective and, in the closing section, explore some important avenues for future research.
+    step1: |-
+      何为情色艺术？是否所有以性为主题的作品都可以算作情色的？如何区分情色图像（erotica）与情色艺术？审美经验与情色经验有何关联、有何不同，二者究竟能否相容？人与艺术作品都可能具有感官上的吸引力，但这两种情形中的美是否实质相同？裸体（nude）与赤裸（naked）之分有多大用处？我们能否在情色艺术与色情之间划出一条严格界线？我们惯于把艺术想得复杂，把色情想得单一，但这套区分有多大说服力？色情常被认为有害、把人物对象化并构成剥削，然而情色艺术在多大程度上能免于此类道德批评？本词条在回应这些问题时，将概述当前关于情色艺术的哲学争论，也将把这些争论置于历史脉络之中，并在结尾部分探讨若干重要的未来研究方向。
+    step2: |-
+      情色艺术是什么？凡以性为主题的作品都算情色吗？情色图像与情色艺术之间如何分辨？审美经验同情色经验有何关联、有何差异，两者是否相容？人与艺术作品都能在感官上吸引人，但两处的美是否实质相同？“裸体”与“赤裸”的区分有多大用处？在情色艺术与色情作品之间，能划出一条严格界线吗？我们习惯把艺术看作复杂之物，把色情看作单薄之物，可这一区分究竟有多站得住？色情常被指为有害、把人当作物、构成剥削；情色艺术又在多大程度上能躲开这类道德指责？为回答这些问题，本词条将概述当前有关情色艺术的哲学争论，把这些争论放回历史脉络，并在最后一节提出若干值得开拓的研究方向。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. What is Erotic Art?
+    step1: |-
+      ## 1. 何为情色艺术？
+    step2: |-
+      ## 1. 何为情色艺术？
+  - id: 3
+    kind: body
+    source: |-
+      ### 1.1 A Definition of Erotic Art
+    step1: |-
+      ### 1.1 情色艺术的定义
+    step2: |-
+      ### 1.1 情色艺术的定义
+  - id: 4
+    kind: body
+    source: |-
+      In *Sex and Reason*, Richard Posner proposes to use the word “erotic” to describe
+    step1: |-
+      在《性与理性》（*Sex and Reason*）中，理查德·波斯纳（Richard Posner）提议用“情色的”（erotic）一词来描述
+    step2: |-
+      理查德·波斯纳（Richard Posner）在《性与理性》（*Sex and Reason*）中主张，用“情色的”这个说法来指称
+  - id: 5
+    kind: body
+    source: |-
+      > presentations and representations that are, or at least are taken by some viewers to be, in some sense “about” sexual activity. (Posner 1994: 351)[^posner-1994]
+    step1: |-
+      > 那些在某种意义上“关于”性活动的呈现与再现，或者至少被某些观者视为如此的东西。（Posner 1994: 351）[^posner-1994]
+    step2: |-
+      > 在某种意义上“关于”性活动、或至少被某些观者视为如此的种种呈现与再现。（Posner 1994: 351）[^posner-1994]
+  - id: 6
+    kind: body
+    source: |-
+      This characterization needs some narrowing down if one wants to arrive at a definition that captures the extension of what we ordinarily think counts as erotic art. For one thing, an extensionally adequate definition should exclude scientific-behavioral studies or medical illustrations of sexual activity (which tend to be neither erotic nor artistic in nature). Furthermore, it’s not the case, simply because some viewers take a painting or a sculpture to be about sexual activity, that we are *ipso facto* dealing with an erotic representation. Someone who is unfamiliar with the story of the Christian Bible might take a crucifixion painting to be a depiction of a sado-masochistic act, but that would be insufficient grounds to call, say, Tintoretto’s *Crucifixion* (1565) a work of erotic art.
+    step1: |-
+      若要得出一个能涵盖我们通常认为属于情色艺术之范围的恰当外延定义，这一刻画就需要进一步收窄。首先，一个外延上充分的定义应当排除对性活动的科学行为研究或医学图解（后者在性质上往往既不情色也不艺术）。其次，某些观者把一幅画或一座雕塑视为关于性活动，并不因此就*ipso facto*（本身）使我们面对一种情色再现。不熟悉基督教圣经故事的人，可能把一幅钉十字架画当作施虐受虐行为的描绘，但这并不足以成为把丁托列托（Tintoretto）的*Crucifixion*（《钉十字架》，1565）称为情色艺术作品的根据。
+    step2: |-
+      要想得到一个外延恰当、真能覆盖我们通常所谓情色艺术的定义，上述刻画还须收紧。一方面，外延充分的定义应把关于性活动的科学行为研究与医学图解排除在外——它们往往既不情色，也不艺术。另一方面，仅仅因为某些观者把一幅画或一座雕塑看作关于性活动，我们并不*ipso facto*（因此）就面对一种情色再现。不熟悉基督教圣经故事的人，也许会把一幅钉十字架画看成施虐受虐场景，但据此把丁托列托（Tintoretto）的*Crucifixion*（《钉十字架》，1565）算作情色艺术作品，理由并不充分。
+  - id: 7
+    kind: body
+    source: |-
+      Peter Webb’s definition of erotic art as
+    step1: |-
+      彼得·韦布（Peter Webb）把情色艺术定义为
+    step2: |-
+      彼得·韦布（Peter Webb）对情色艺术的定义是
+  - id: 8
+    kind: body
+    source: |-
+      > art on a sexual theme related specifically to emotions rather than merely actions, and sexual depictions which are justifiable on aesthetic grounds (Webb 1975: 2)[^webb-1975]
+    step1: |-
+      > 以性为主题、并且具体关联于情感而非仅仅关联于行为的艺术，以及在审美上站得住脚的性描绘。（Webb 1975: 2）[^webb-1975]
+    step2: |-
+      > 取材于性主题、且特别关涉情感而非仅止于行为的艺术，以及能够在审美上获得辩护的性描绘。（Webb 1975: 2）[^webb-1975]
+  - id: 9
+    kind: body
+    source: |-
+      is already closer to the mark. But even though Webb’s emphasis on emotions is understandable from an etymological point of view—the term “erotic” derives from the Greek word “eros” meaning love or passion—he does not succeed in spelling out the necessary or sufficient conditions for erotic art. Man Ray’s photograph *The Prayer* (1930) shows only the hands, feet, and buttocks of a woman; it is not a sexual depiction in the strict sense and there is no show of emotions. Still, it is widely considered to be an erotic masterpiece. Conversely, Ian McEwan’s novella *On Chesil Beach*, set in the early 1960s and telling the story of a wedding night that goes horribly wrong, does qualify as “art on a sexual theme related specifically to emotions” and yet it would be misleading to label it as erotic literature.
+    step1: |-
+      这一定义已经更接近要害。尽管从词源上看，韦布对情感的强调可以理解——“情色的”一词源自希腊语“eros”，意为爱或激情——但他并没有成功地说出情色艺术的必要或充分条件。曼·雷（Man Ray）的摄影作品*The Prayer*（《祈祷》，1930）只呈现一位女子的双手、双足与臀部；严格说来这不是性描绘，也没有情感的表现。然而它被广泛视为情色杰作。反过来，伊恩·麦克尤恩（Ian McEwan）的中篇小说*On Chesil Beach*（《在切瑟尔海滩上》）以二十世纪六十年代初为背景，讲述一个彻底失败的洞房之夜，它确实算得上“以性为主题、并且具体关联于情感的艺术”，但把它标为情色文学却会误导人。
+    step2: |-
+      这一界定离要害更近了一步。韦布看重情感，从词源上说不难理解——“情色的”源于希腊语“eros”，意为爱或激情——但他终究没有给出情色艺术的必要或充分条件。曼·雷（Man Ray）的摄影*The Prayer*（《祈祷》，1930）只拍下一位女子的手、脚与臀部，严格说来并非性描绘，也看不出什么情感，却被普遍奉为情色名作。反过来说，伊恩·麦克尤恩（Ian McEwan）的中篇*On Chesil Beach*（《在切瑟尔海滩上》）写二十世纪六十年代初一个一塌糊涂的洞房之夜，完全符合“取材于性主题、且特别关涉情感的艺术”，可若称之为情色文学，却又失当。
+  - id: 10
+    kind: body
+    source: |-
+      Instead of claiming that erotic art is *about* sexual feelings or desires, one could say that erotic art *elicits* sexual feelings or desires. But this characterization would also be too broad. A pious Madonna and Child painting may elicit sexual feelings or desires in some people, but that in and of itself does not make it erotic art. The *intention* to be sexually stimulating appears crucial, as Jerrold Levinson acknowledges in his definition of erotic art as
+    step1: |-
+      与其说情色艺术是*about*（关于）性感受或性欲望，不如说情色艺术*elicits*（引发）性感受或性欲望。但这一刻画同样过于宽泛。一幅虔诚的圣母圣婴画也可能在某些人身上引发性感受或性欲望，但仅此并不使它成为情色艺术。具有性刺激的*intention*（意图）看来至关重要，正如杰罗尔德·莱文森（Jerrold Levinson）所承认的，他把情色艺术定义为
+    step2: |-
+      换一种说法：情色艺术不是*about*（关于）性感受或性欲望，而是*elicits*（引发）性感受或性欲望。这条进路同样失之过宽。一幅虔诚的圣母圣婴画也可能在某些人心里唤起性感受或性欲望，但仅凭这一点，它并不因此成为情色艺术。看来关键在于是不是抱有性刺激的*intention*（意图）——杰罗尔德·莱文森（Jerrold Levinson）就承认这一点，他给情色艺术下的定义是
+  - id: 11
+    kind: body
+    source: |-
+      > art which aims to engage viewers sexually through explicit sexual content, and that succeeds, to some extent, in doing so. (Levinson 2006: 252)[^levinson-2006]
+    step1: |-
+      > 旨在通过露骨的性内容使观者产生性反应、并在某种程度上成功做到这一点的艺术。（Levinson 2006: 252）[^levinson-2006]
+    step2: |-
+      > 以露骨的性内容谋求观者性反应、并在一定程度上如愿以偿的艺术。（Levinson 2006: 252）[^levinson-2006]
+  - id: 12
+    kind: body
+    source: |-
+      But does erotic art need to be explicit? Take Nobuyoshi Araki’s famous close-up photograph of a woman’s eye, sometimes entitled *The Look*. The artist has tilted the picture 90 degrees to make it suggestive of female genitalia, thereby soliciting sensuous feelings and associations in spectators. It is highly erotic, though it has no explicit sexual content.
+    step1: |-
+      但情色艺术必须是露骨的吗？且看荒木经惟（Nobuyoshi Araki）那幅著名的女子眼睛特写照片，有时题为*The Look*（《目光》）。艺术家把照片倾斜九十度，使它暗示女性生殖器，从而在观者身上唤起感官性的感受与联想。它极具情色意味，却没有任何露骨的性内容。
+    step2: |-
+      然而，情色艺术一定得露骨吗？荒木经惟（Nobuyoshi Araki）有一幅名作，是一女子眼睛的特写，有时题为*The Look*（《目光》）。艺术家把照片转了九十度，让它暗示女性生殖器，从而在观者心里勾起感官性的感受与联想。这幅作品情色意味十足，却毫无露骨的性内容。
+  - id: 13
+    kind: body
+    source: |-
+      A more adequate definition, and one that will be adhered to in this article, is the following: erotic art is art that is made with the intention to stimulate its target audience sexually, and that succeeds to some extent in doing so. This raises the further question what sexual stimulation precisely entails. According to Guy Sircello (1979: 119) it is the inducing of sexual feelings where the latter might be (1) feelings in our sexual parts, or (2) feelings in other erogenous parts—typically generated by or generating feelings in sexual parts. However, a kick below the belt will give a man certain feelings in his sexual parts, but not of the sort that erotic art is supposed to bring about. So, an important qualification is needed. Sexual stimulation is probably best understood as the inducing of sexual feelings, desires and imaginings, that would generally be regarded as *pleasant in themselves*. Alternatively, one could adopt Matthew Kieran’s nutshell definition of erotic art as art which “essentially aims at eliciting sexual thoughts, feelings and associations found to be arousing” (2001: 32).
+    step1: |-
+      一个更为充分的定义——本文也将沿用——如下：情色艺术是为着性刺激其目标受众而创作、并在某种程度上成功做到这一点的艺术。这又引出进一步的问题：性刺激究竟包含什么？据盖伊·西尔切洛（Guy Sircello，1979: 119），它是引发性感受；后者可以是（1）我们性器官中的感受，或（2）其他性感带中的感受——通常由性器官中的感受所引发，或引发性器官中的感受。然而，朝裆部踢一脚也会在男子的性器官中产生某些感受，但那不是情色艺术应当带来的那类感受。因此需要一项重要的限定。性刺激最好理解为引发那些一般会被视为*pleasant in themselves*（本身令人愉悦）的性感受、性欲望与性想象。或者也可以采用马修·基兰（Matthew Kieran）的扼要定义：情色艺术是“本质上旨在引发令人兴奋的性思想、性感受与性联想的艺术”（2001: 32）。
+    step2: |-
+      一个更站得住、本文也将采用的界定是这样的：情色艺术，指怀着性刺激目标受众的意图而创作、并在一定程度上达到这一效果的艺术。随之而来的问题是，性刺激到底包括什么。按盖伊·西尔切洛（Guy Sircello，1979: 119）的说法，它是引发性感受，而性感受可以是（1）性器官上的感受，或（2）其他性感带上的感受——后者通常由性器官的感受引起，或反过来引起性器官的感受。可是，往裆部踹一脚也能让男子性器官产生某种感受，那却不是情色艺术该带来的感受。所以还须加一道限定。性刺激恐怕最好理解为：引发那些通常被视为*pleasant in themselves*（本身即令人愉快）的性感受、性欲望与性想象。另一个办法是采用马修·基兰（Matthew Kieran）的简括说法：情色艺术是“本质上意在引发令人兴奋的性念头、性感受与性联想的艺术”（2001: 32）。
+  - id: 14
+    kind: body
+    source: |-
+      ### 1.2 Some Further Distinctions
+    step1: |-
+      ### 1.2 若干进一步的区分
+    step2: |-
+      ### 1.2 若干进一步的区分
+  - id: 15
+    kind: body
+    source: |-
+      Levinson (2005) makes a useful distinction between erotic art and what he calls *erotica*, that is, images intended to sexually stimulate but not to reward artistic interest (such as provocative lingerie ads). In general, it is good to keep in mind that the domain of erotic art only constitutes a small subsection of the much larger class of items that are called erotic (erotic massages, erotic games, erotic toys, etc.). Erotic art also seems to fall within the broader category of *sexually themed art*. All works of erotic art have a sexual theme, it could be argued, but not the other way around: many artworks with a sexual theme are not works of erotic art. Ian McEwan’s *On Chesil Beach* has already been mentioned. Another example might be Tracey Emin’s *Is Anal Sex Legal?* (1998), which simply consists of that question writ large in pink neon light. (The piece is usually exhibited together with its complement, *Is Legal Sex Anal?* also from 1998).
+    step1: |-
+      莱文森（2005）作了一个有用的区分，把情色艺术与他所谓的*erotica*（情色图像）区别开来：后者指意在性刺激、却无意满足艺术兴趣的图像（例如挑逗性的内衣广告）。总的来说，应当记住：情色艺术只构成被称作“情色的”那个大得多的类别中的一小部分（情色按摩、情色游戏、情色玩具等等）。情色艺术似乎也属于*sexually themed art*（以性为主题的艺术）这一更宽的范畴。可以说，所有情色艺术作品都有性的主题，但反过来不成立：许多以性为主题的艺术作品并不是情色艺术作品。前面已提到伊恩·麦克尤恩的*On Chesil Beach*。另一个例子也许是翠西·艾敏（Tracey Emin）的*Is Anal Sex Legal?*（《肛交合法吗？》，1998），该作品不过是用粉色霓虹灯大字写出这一问题（这件作品通常与其互补之作*Is Legal Sex Anal?*（《合法性行为是肛交吗？》，亦 1998）一同展出）。
+    step2: |-
+      莱文森（2005）给出一条有用的区分：一边是情色艺术，另一边是他所谓的*erotica*（情色图像），即意在性刺激、却不求回报艺术兴趣的图像（挑逗性内衣广告就是一例）。大体上应当记住，情色艺术在被称作“情色的”那一大类东西（情色按摩、情色游戏、情色玩具等）里只占很小一块。情色艺术似乎还落在*sexually themed art*（以性为主题的艺术）这个更宽的类别之内。可以说，情色艺术作品无不带有性主题，反过来却不然：许多以性为主题的作品并非情色艺术。伊恩·麦克尤恩的*On Chesil Beach*前已提及。再如翠西·艾敏（Tracey Emin）的*Is Anal Sex Legal?*（《肛交合法吗？》，1998），整件作品只是用粉色霓虹灯把这个问句放大写出（该作通常与它的姊妹作*Is Legal Sex Anal?*（《合法性行为是肛交吗？》，同为 1998）并列展出）。
+  - id: 16
+    kind: body
+    source: |-
+      Sexually themed art should be distinguished from *sexually stimulating art*, i.e., art that stimulates its target audience sexually, even though it may not have had the aim to do so. While some may find it difficult to think of any examples in this category, Sircello argues on phenomenological grounds that everything that is truly beautiful, and hence every work of art that is truly beautiful, will be experienced as sexually titillating. For instance, when he studies *The Burghers of Calais*, with its stooped and despondent old men,
+    step1: |-
+      以性为主题的艺术应当与*sexually stimulating art*（性刺激艺术）区分开来，后者指在性上刺激其目标受众的艺术，即便它未必有此意图。有人也许觉得这一类里举不出例子，但西尔切洛依据现象学论证说，一切真正美的东西、因而每一件真正美的艺术作品，都会被体验为带有性挑逗意味。例如，当他细看《加来义民》（*The Burghers of Calais*）中那些佝偻而沮丧的老人时：
+    step2: |-
+      以性为主题的艺术还应同*sexually stimulating art*（性刺激艺术）分开：后者在性上刺激其目标受众，却未必抱有这样的意图。有人或许认为这一类根本举不出例子，但西尔切洛以现象学为据论证说，凡是真正美的东西、因之每一件真正美的艺术作品，都会被体验为带有性的撩拨。譬如他端详《加来义民》（*The Burghers of Calais*）里那些弓着背、神情沮丧的老人时：
+  - id: 17
+    kind: body
+    source: |-
+      > the beauty of Rodin’s restless surface leads me … to rub that glorious bronze, and once again comes that warmth in the testicles, that stirring in the penis, that itch in the nipples and the tongue. (1979: 225)
+    step1: |-
+      > 罗丹那不安表面的美，引我……去抚摸那光灿的青铜，于是睾丸间又升起那股温热，阴茎里又起那种搅动，乳头与舌尖又泛起那种痒意。（1979: 225）
+    step2: |-
+      > 罗丹作品那躁动不安的表面的美，诱使我去摩挲那光亮的青铜，于是睾丸又热了起来，阴茎又搅动起来，乳头与舌头也痒了起来。（1979: 225）
+  - id: 18
+    kind: body
+    source: |-
+      Similarly,
+    step1: |-
+      同样，
+    step2: |-
+      又如，
+  - id: 19
+    kind: body
+    source: |-
+      > when I inspect the austere and meticulous Zurbaran still life, notice the painstaking precision of its details … (I) feel forthwith those stirrings in the groin. (1979: 225)
+    step1: |-
+      > 当我审视苏巴朗（Zurbaran）那幅严峻而精细的静物画、注意到其细节中一丝不苟的精确……（我）立刻感到腹股沟里那些搅动。（1979: 225）
+    step2: |-
+      > 我打量苏巴朗（Zurbaran）那幅朴素而精细的静物，留意到细节中那种一丝不苟的精确……（我）顿时觉出腹股沟里的那阵骚动。（1979: 225）
+  - id: 20
+    kind: body
+    source: |-
+      However, while Sircello judges his arousal to be “neither abnormal nor idiosyncratic” and to be fully “appropriate and natural” (1979: 226) not everyone might agree with that assessment.
+    step1: |-
+      然而，尽管西尔切洛断定自己的性唤起“既非反常，也非个人特异”，而是完全“恰当而自然”（1979: 226），并非人人都会同意这一评判。
+    step2: |-
+      不过，西尔切洛自认这种唤起“既不反常，也不特异”，且完全“恰当而自然”（1979: 226）；这一评判却未必人人赞同。
+  - id: 21
+    kind: body
+    source: |-
+      The counterpart of sexually stimulating art is *failed erotic art* (or as Levinson 2006 would have it “nominally erotic art”)[^levinson-2006]: art that aims but does not succeed in stimulating its target audience sexually (see also Mag Uidhir 2010)[^mag-2010]. *Anti-erotic art*, on the other hand, is art that aims to induce *negative* sexual feelings, thoughts, and imaginings in its target audience. Otto Dix’s *Old Couple* (1923) or George Grosz’s *Sex Murder in the Ackerstrasse* (1916–7) could serve as illustrations. More recently, feminist artists such as Kiki Smith have explored the dark, violent, abject aspects of sexuality in their work (see, for instance, Smith’s *Tale*, 1992, and *Blood Pool*, 1992).
+    step1: |-
+      性刺激艺术的对立面是*failed erotic art*（失败的情色艺术；莱文森 2006 的说法是“名义上的情色艺术”）[^levinson-2006]：意在性刺激其目标受众却未能成功的艺术（另见 Mag Uidhir 2010）[^mag-2010]。另一方面，*Anti-erotic art*（反情色艺术）则意在在其目标受众身上引发*negative*（负面的）性感受、性念头与性想象。奥托·迪克斯（Otto Dix）的*Old Couple*（《老夫妻》，1923）或格奥尔格·格罗斯（George Grosz）的*Sex Murder in the Ackerstrasse*（《阿克街的性谋杀》，1916–7）可作为例证。晚近以来，琪琪·史密斯（Kiki Smith）等女性主义艺术家在其作品中探索了性中阴暗、暴力、卑贱的方面（例如见史密斯的*Tale*（《故事》，1992）与*Blood Pool*（《血池》，1992））。
+    step2: |-
+      与性刺激艺术相对的是*failed erotic art*（失败的情色艺术），莱文森 2006 称之为“名义上的情色艺术”[^levinson-2006]，即意在性刺激其目标受众、却未能奏效的艺术（另见 Mag Uidhir 2010）[^mag-2010]。*Anti-erotic art*（反情色艺术）则另当别论：它要在目标受众身上引发*negative*（负面）的性感受、性念头与性想象。奥托·迪克斯（Otto Dix）的*Old Couple*（《老夫妻》，1923）、格奥尔格·格罗斯（George Grosz）的*Sex Murder in the Ackerstrasse*（《阿克街的性谋杀》，1916–7）都可为例。晚近的琪琪·史密斯（Kiki Smith）等女性主义艺术家，也在作品中探究了性之中阴暗、暴烈、卑污的一面（例如史密斯的*Tale*（《故事》，1992）与*Blood Pool*（《血池》，1992））。
+  - id: 22
+    kind: body
+    source: |-
+      Finally, because censorship and moral policing have often prevented artists from making work that is openly erotic, it is worth drawing attention to the existence of *covertly erotic art*, that is, art made with the *covert* intention to stimulate its target audience sexually and that succeeds to some extent in doing so. A good example are the so called “sukashi shunga” (hidden shunga) that were popular in Japan at the beginning of the 20ᵗʰ century. Shunga are woodblock prints, often created by Japan’s leading artists, depicting highly erotic scenes. While there were already regulations in the early 18ᵗʰ century against the distribution of shunga, it was only at the end of the 19ᵗʰ century, in the wake of Japan’s increasing openness towards the West, that censorship laws were really being enforced. As a result, hidden (see-through) shunga prints were designed to escape the strict eye of the censor. What at first sight appear to be beautifully drawn postcards depicting landscapes with some space in the middle and at the corners to write one’s message, when held up to the light, turn out to be sexually explicit lovemaking scenes (Aki 2013: 47)[^aki-2013]. An example of an entirely different kind might be Maria Scanu’s sculpture of *Madonna del Naviganti* (1999) or Vermeer’s *Milk Maid* (1657–58). Given that milk maids had a reputation for sexual availability in 17th century Holland, some scholars have argued that the painting has a covert erotic message, with the foot warmer on the floor suggesting feminine desire (because foot warmers would heat not only the feet but everything under a woman’s skirt) and one of the Delft tiles in the scene depicting Cupid, while another tile shows a traveling man possibly suggesting that the maid is thinking of an absent lover (Liedtke 2009)[^liedtke-2009].
+    step1: |-
+      最后，由于审查与道德管控常常使艺术家无法创作公开情色的作品，值得提请注意*covertly erotic art*（隐秘的情色艺术）的存在，即怀着*covert*（隐秘）意图去性刺激其目标受众、并在某种程度上成功的艺术。一个很好的例子是二十世纪初流行于日本的所谓“透视春画”（sukashi shunga）。春画是木版画，常出自日本一流画家之手，描绘极具情色意味的场景。早在十八世纪初就有管制春画发行的规定，但直到十九世纪末、随着日本对西方日益开放，审查法才真正得到执行。于是出现了为躲过审查者严眼而设计的透视春画。乍看像是画着风景的漂亮明信片，画面中部与四角留有写字的空间；对着光一看，却是露骨的性交场面（Aki 2013: 47）[^aki-2013]。完全另一类的例子，也许是玛丽亚·斯坎努（Maria Scanu）的雕塑*Madonna del Naviganti*（1999），或维米尔（Vermeer）的*Milk Maid*（《倒牛奶的女仆》，1657–58）。鉴于十七世纪荷兰的挤奶女工常被视为在性上可轻易得手，一些学者主张这幅画含有隐秘的情色信息：地上的脚炉暗示女性的欲望（脚炉不只暖脚，也暖裙下的一切），场景中一块代尔夫特瓷砖画着丘比特，另一块则画着一名旅人，可能暗示女仆正想着一位不在身边的情人（Liedtke 2009）[^liedtke-2009]。
+    step2: |-
+      最后，审查与道德管制长期使艺术家无法公开创作情色作品，因此值得提请注意*covertly erotic art*（隐秘的情色艺术）：它怀着*covert*（隐秘）意图去性刺激目标受众，并在一定程度上得手。二十世纪初在日本流行的所谓“透视春画”（sukashi shunga）就是好例子。春画是木版画，多出自日本顶尖画家之手，描绘情色意味极浓的场景。十八世纪初已有管制春画发售的条令，但直到十九世纪末，随着日本对西方日益开放，审查法才真正付诸执行。于是画家设计出透视春画，以躲过审查者的眼睛。这种画乍看是画着风景的精美明信片，中间与四角留着写字的地方；对着光一照，才显出露骨的性交场面（Aki 2013: 47）[^aki-2013]。另一类完全不同的例子，也许是玛丽亚·斯坎努（Maria Scanu）的雕塑*Madonna del Naviganti*（1999），或维米尔的*Milk Maid*（《倒牛奶的女仆》，1657–58）。十七世纪荷兰的挤奶女工以在性上容易得手著称，因此有学者主张这幅画藏着情色暗示：地上的脚炉暗示女性欲望（脚炉不只暖脚，也暖裙下的一切）；场景里一块代尔夫特瓷砖绘着丘比特，另一块画着一名旅人，也许暗示女仆正念着远行的情人（Liedtke 2009）[^liedtke-2009]。
+  - id: 23
+    kind: body
+    source: |-
+      ## 2. Modern Aesthetics and the Problem of Erotic Art
+    step1: |-
+      ## 2. 现代美学与情色艺术问题
+    step2: |-
+      ## 2. 现代美学与情色艺术问题
+  - id: 24
+    kind: body
+    source: |-
+      Are there *überhaupt* any works of erotic art? This may seem a silly question, especially to anyone who is familiar with art history and with the well-established tradition of erotic art in particular. But to students of modern aesthetics, that is, the philosophy of art and beauty from roughly the beginning of the 18ᵗʰ century to the end of the 19ᵗʰ century, that question will not appear absurd at all.
+    step1: |-
+      究竟*überhaupt*（到底）有没有情色艺术作品？对熟悉艺术史、尤其是情色艺术悠久传统的人来说，这个问题也许显得可笑。但对现代美学的研究者——即大致从十八世纪初到十九世纪末的艺术与美的哲学——而言，这个问题一点也不荒谬。
+    step2: |-
+      情色艺术作品*überhaupt*（究竟）存在吗？熟悉艺术史、尤其熟悉情色艺术悠久传统的人，也许会觉此问可笑。但在现代美学的研究者看来——现代美学大致指十八世纪初至十九世纪末的艺术与美的哲学——这个问题一点也不荒唐。
+  - id: 25
+    kind: body
+    source: |-
+      ### 2.1 The Aesthetic Disenfranchisement of the Erotic
+    step1: |-
+      ### 2.1 情色在美学上的褫夺
+    step2: |-
+      ### 2.1 情色在美学上的褫夺
+  - id: 26
+    kind: body
+    source: |-
+      Modern aesthetics famously built a wall between aesthetic pleasure, on the one hand, and sensual or sexual pleasures, on the other hand, leaving precious little room for works that aim to combine the two. The problem becomes clear when we consider Immanuel Kant’s *Critique of Judgment* (1790), arguably the most central and influential work of that period. According to Kant, a pure aesthetic judgment is based entirely on a feeling of disinterested pleasure, i.e., a pleasure that does not depend on or generate a desire for the object. But since works of erotic art are meant precisely to tap into and stimulate our sexual appetites and desires, it is hard to see how they can be the object of an aesthetic judgment. They are rather primed to be the object of what Kant calls a judgment of the agreeable, based on an “interested pleasure”, in this case the titillation provided by the alluring depictions of attractive bodies and seductive poses. The sensual pleasure offered by such representations is very different from the enjoyment that occurs in an aesthetic experience and which results from the free play of the cognitive faculties of imagination and understanding. According to Kant, it is because aesthetic judgments are grounded not in any interest, but rather in the subjective conditions of cognition, which are shared by all rational beings, that they can lay claim to universality. The pleasure solicited by erotic art can obviously not lay claim to such universality since it will depend on one’s sexual preferences and inclinations.
+    step1: |-
+      现代美学著名地在审美快感与感官或性快感之间筑起一道墙，留给那些意在兼顾二者的作品的空间少得可怜。只要考察伊曼努尔·康德的《判断力批判》（*Critique of Judgment*，1790）——可以说是那个时期最核心、最有影响的著作——问题就清楚了。按康德，纯粹的审美判断完全基于无利害的愉悦之感，即一种不依赖、也不产生对对象之欲求的愉悦。然而情色艺术作品恰恰旨在触动并刺激性欲与性欲求，因此很难看出它们如何能成为审美判断的对象。它们倒更像是康德所谓“快适判断”的对象，基于一种“有利害的愉悦”，在此即由诱人身体与撩人姿态的描绘所提供的挑逗。这类再现所提供的感官快感，与审美经验中发生、由想象与知性这两种认知能力的自由游戏所产生的享受大不相同。按康德，审美判断之所以能主张普遍有效性，是因为它不基于任何利害，而基于一切理性存在者共有的认知的主观条件。情色艺术所唤起的快感显然无法主张这样的普遍有效性，因为它取决于个人的性偏好与性倾向。
+    step2: |-
+      现代美学在审美快感与感官快感、性快感之间筑起一道著名的墙，留给那些想兼得二者的作品的空间少得可怜。只要看看伊曼努尔·康德的《判断力批判》（*Critique of Judgment*，1790）——那部时期里最核心也最有影响的著作——问题便一目了然。按康德的说法，纯粹的审美判断完全基于一种无利害的愉悦感，此愉悦既不依赖、也不产生对对象的欲求。可情色艺术作品恰恰意在触动并刺激性欲与性欲求，于是很难看出它们如何能成为审美判断的对象；它们更像是康德所谓快适判断的对象，基于“有利害的愉悦”，在这里就是诱人的身体与挑逗的姿态所带来的撩拨。这类再现提供的感官快乐，与审美经验中由想象力和知性这两种认知力自由游戏而生出的享受，实有天壤之别。康德认为，审美判断之所以能主张普遍性，是因为它不系于任何利害，而系于一切理性存在者共有的认知的主观条件。情色艺术所唤起的快乐显然无从主张这种普遍性，因为它取决于各人的性偏好与性倾向。
+  - id: 27
+    kind: body
+    source: |-
+      Kant was not the first to introduce disinterestedness as hallmark of the aesthetic and isolate it as such from what is merely sensually or sexually appealing. Anthony Ashley Cooper, the third Earl of Shaftesbury, is often credited with this insight. In his *Characteristics of Men, Manners, Opinions, Times* (1711) Shaftesbury already stated that the response solicited by beauty is one of rational and refined contemplation, far removed from the crude pleasures that we receive through our senses.
+    step1: |-
+      康德并不是第一个把无利害性引入为审美的标志、并据此把它与仅仅感官或性方面的吸引力隔离开来的人。这项洞见常被归给第三代沙夫茨伯里伯爵安东尼·阿什利·库珀（Anthony Ashley Cooper）。在其《人、风俗、意见与时代之特征》（*Characteristics of Men, Manners, Opinions, Times*，1711）中，沙夫茨伯里已经指出，美所唤起的反应是理性而精致的沉思，与我们通过感官获得的粗陋快感相去甚远。
+    step2: |-
+      把无利害性确立为审美的标志、并据此把它同纯感官或性的吸引力分开，这一洞见并非康德首创；人们常把它归给第三代沙夫茨伯里伯爵安东尼·阿什利·库珀（Anthony Ashley Cooper）。早在《人、风俗、意见与时代之特征》（*Characteristics of Men, Manners, Opinions, Times*，1711）里，沙夫茨伯里就说过：美所唤起的反应是一种理性而精微的沉思，与我们经由感官得来的粗陋快乐相隔甚远。
+  - id: 28
+    kind: body
+    source: |-
+      A problem that immediately arises for Shaftesbury’s account is the one posed by the “dazzling form” of a beautiful woman (1964 [1711]: 136). Here, beauty and sensual appeal, far from being antithetical, actually seem to go hand in hand. Still, Shaftesbury insists that the two kinds of pleasure are utterly distinct, even though, in this particular case, erotic pleasure may indeed follow in the wake of aesthetic pleasure. One could make a comparison, he writes, with someone who goes from contemplating the beauty of a tree to fantasizing about its tasty fruits. Both activities are pleasurable, but the pleasures involved are very different: one is a disinterested aesthetic pleasure, the other is a pleasure informed by our self-interest. It points to a sensual joy, based on an appetite that we have in common with animals, or “brutes” as Shaftesbury prefers to call them. The contemplation of beauty, by contrast, is unique to us rational beings. That’s because beauty is exclusively an object of the mind.
+    step1: |-
+      沙夫茨伯里的论述立刻遇到一个问题：美女的“耀眼形式”（1964 [1711]: 136）。在这里，美与感官吸引力非但不对立，反倒似乎携手同行。尽管如此，沙夫茨伯里仍坚持两种快感判然有别，即便在这一特定情形中，情色快感确实可能尾随审美快感而来。他写道，可以打个比方：某人从沉思一棵树的美，转而幻想它美味的果实。两种活动都令人愉快，但所涉快感大不相同：一种是无关利害的审美快感，另一种则受自利之心浸染。它指向一种感官的快乐，基于我们与动物（沙夫茨伯里爱称之为“畜生”）共有的欲求。相比之下，对美的沉思为我们理性存在者所独有。这是因为美完全是心灵的对象。
+    step2: |-
+      沙夫茨伯里的学说立刻就碰上一道难题：美女那“炫目的形式”（1964 [1711]: 136）。此处美与感官吸引力不但不敌对，看上去还相依相随。沙夫茨伯里却仍旧坚称，两种快乐截然不同；纵然在这一具体情形里，情色快乐或许确实尾随审美快乐而至。他打了个比方：有人先沉思一棵树的美，随后又幻想它可口的果子。两件事都让人愉快，但其中的快感迥异——前者是无利害的审美愉悦，后者则浸透了自利之心。它标示的是一种感官之乐，其根底是我们与动物（沙夫茨伯里爱称“畜生”）共有的欲望。反观对美的沉思，那是我们理性存在者独有的。因为美纯粹是心灵的对象。
+  - id: 29
+    kind: body
+    source: |-
+      But can one really draw the distinction in such absolute terms? When we admire an attractive man or woman, isn’t it precisely their *beauty* that activates the senses and gives rise to certain bodily passions? And if so, doesn’t this prove that the two are intimately linked? Shaftesbury dismisses this line of thought almost out of hand. After all, we wouldn’t say that it is the *beauty* of the fruit that attracts and brings joy to the prowling animal in search of food; or that it is the beauty of the food served at the dinner table that makes us humans hungry. What whets and satisfies appetite of both humans and animals is not the striking form, but what lies beneath that striking form, that which is mere matter. (Accordingly, the more a mouthwatering dish or body is viewed, the further they are from satisfying by mere view.) Just as it is not the material that makes a sculpture beautiful, but rather the artistic intentions and designs that shape the material, so it is not the body in itself, something that is mere matter, that is beautiful:
+    step1: |-
+      但真能以如此绝对的方式作出区分吗？当我们欣赏一位俊男或美女时，难道不正是其*beauty*（美）激活了感官，并激起某些身体激情吗？若是如此，这岂不证明二者紧密相连？沙夫茨伯里几乎不加理会地打发了这一思路。毕竟，我们不会说，是果实的*beauty*（美）吸引并取悦了那只四处觅食的野兽；也不会说，是餐桌上食物的美使我们人类感到饥饿。激起并满足人与动物欲求的，不是那引人注目的形式，而是形式之下的东西，即纯然质料。（因此，一道令人垂涎的菜肴或一具身体，越是被人观看，就越是远离仅凭观看而来的满足。）正如使雕塑成其为美的不是材料，而是塑造材料的艺术意图与设计；同样，身体本身——那纯然质料——并不是美的：
+    step2: |-
+      然而，真能把界限划得如此绝对吗？我们欣赏一位俊男或美女时，激活感官、激起身体激情的，难道不正是其*beauty*（美）？若果如此，岂不恰好证明二者密不可分？对这一思路，沙夫茨伯里几乎挥手便打发了。我们总不至于说，吸引觅食的野兽、让它欢喜的，是果子的*beauty*（美）；也不至于说，让我们人类觉得饿的，是餐桌上食物的美。激起并满足人与动物食欲的，并非那醒目的形式，而是形式底下纯然质料的东西。（所以，一盘令人垂涎的菜、一具令人垂涎的身体，看得越多，反倒离仅凭观看而得的满足越远。）使雕塑成其为美的，不是材料，而是赋予材料以形状的艺术意图与设计；与此同理，身体本身作为纯然质料，并不美：
+  - id: 30
+    kind: body
+    source: |-
+      > What is it you admire but mind, or the effect of mind? Tis mind alone which forms. All which is void of mind is horrid, and matter formless is deformity itself. (1964 [1711]: 132)
+    step1: |-
+      > 你所欣赏的除了心灵、或心灵的作用，还能是什么？唯有心灵才赋形。一切缺乏心灵的东西都可怖，无形式的质料即畸形本身。（1964 [1711]: 132）
+    step2: |-
+      > 除了心灵，或心灵的作用，你所赞叹的还能是什么？赋形者唯有心灵。凡无心灵者皆可怖，无形之质料正是畸形本身。（1964 [1711]: 132）
+  - id: 31
+    kind: body
+    source: |-
+      Mind is the only true object of beauty. Moreover, it is only *through* the mind that beauty can be apprehended and appreciated, for if animals can’t know and enjoy beauty precisely because they have only senses, it follows that man can’t conceive or enjoy beauty through his senses (the “brutish part”).
+    step1: |-
+      心灵是美唯一真正的对象。而且，只有*through*（通过）心灵，美才能被领会和欣赏；因为倘若动物恰恰由于只有感官而不能认识、不能享受美，那么人也不能通过感官（“畜生部分”）来构想或享受美。
+    step2: |-
+      心灵是美唯一真正的对象；而且唯有*through*（经由）心灵，美才可被领会、被欣赏。既然动物恰恰因为只有感官而无从认识、无从享受美，那么人也不能靠感官（“畜生部分”）去构想或享受美。
+  - id: 32
+    kind: body
+    source: |-
+      It is evident that, for Shaftesbury, erotic art, which is all about presenting desirable bodies and stirring up sensual pleasures, can have no legitimate place within the realm of the aesthetic. Yet, apart from a brief passage in which he denounces the “self-improving artist” who makes a fortune by “studying bodies” (1964 [1711]: 144), Shaftesbury does not explicitly criticize or attack any kind of art or artist. (Like Kant, his primary focus is not art, but beauty.) Someone who does explicitly take up such a critical stance, however, is Arthur Schopenhauer. If Shaftesbury is the philosopher who inspired Kant to develop the theory of disinterestedness, then Schopenhauer is the philosopher who, inspired by Kant, has taken this notion of disinterestedness and worked it up into a fully-fledged philosophy of art.
+    step1: |-
+      显然，对沙夫茨伯里来说，情色艺术——它全然在于呈现可欲的身体、激起感官快乐——在审美领域内不可能有合法位置。不过，除了一处简短段落谴责那位靠“研究身体”发财的“自我提升的艺术家”（1964 [1711]: 144）之外，沙夫茨伯里并未明确批评或攻击任何艺术或艺术家。（与康德一样，他的首要关注不是艺术，而是美。）然而，明确采取这种批判立场的另有其人：阿图尔·叔本华。如果说沙夫茨伯里是启发康德发展无利害性理论的那位哲学家，那么叔本华便是受康德启发、把无利害性这一观念加工成一套完备艺术哲学的那位哲学家。
+    step2: |-
+      显而易见，在沙夫茨伯里那里，情色艺术——它无非是呈现可欲的身体、撩起感官快乐——在审美领域中不可能有正当位置。不过，除了有一处顺带痛斥某个靠“研究身体”而发迹的“自我修养型艺术家”（1964 [1711]: 144）之外，他并没有指名道姓地批评或攻击哪一种艺术、哪一位艺术家。（他和康德一样，首要关心的不是艺术，而是美。）真正明确摆出这种批判姿态的，是阿图尔·叔本华。如果说沙夫茨伯里启发了康德去阐发无利害性理论，那么叔本华就是受康德启发、把无利害性发挥为一套完整艺术哲学的人。
+  - id: 33
+    kind: body
+    source: |-
+      This is not the place to discuss all the minutiae of Schopenhauer’s *The World as Will and Representation* (1818). Crucial, for our purposes, is his concept of “das Reizende”, which will here be translated as “the stimulating.” The stimulating is “that which excites the will by directly presenting to it satisfaction, fulfillment” (Schopenhauer 1969 [1818]: 207)[^schopenhauer-1969]. It ought to be shunned at all price in art, says Schopenhauer, because it
+    step1: |-
+      这里不是讨论叔本华《作为意志和表象的世界》（*The World as Will and Representation*，1818）全部细节的地方。对我们而言关键的是他的“das Reizende”概念，此处译作“刺激性的东西”。刺激性的东西是“通过直接向其呈现满足、实现而激起意志者”（Schopenhauer 1969 [1818]: 207）[^schopenhauer-1969]。叔本华说，它在艺术中无论如何都应避而远之，因为它
+    step2: |-
+      叔本华《作为意志和表象的世界》（*The World as Will and Representation*，1818）的种种细枝末节，此处不必讨论。对我们来说要紧的是他的“das Reizende”概念，这里译作“刺激性者”。所谓刺激性者，即“通过直接把满足、实现呈现于意志而刺激意志者”（Schopenhauer 1969 [1818]: 207）[^schopenhauer-1969]。叔本华说，这种东西在艺术里无论如何都要避开，因为它
+  - id: 34
+    kind: body
+    source: |-
+      > draws the beholder down from pure contemplation, demanded by every apprehension of the beautiful, since it necessarily stirs his will by objects that directly appeal to it. Thus the beholder no longer remains pure subject of knowing, but becomes the needy and dependent subject of willing. (Schopenhauer 1969 [1818]: 207)[^schopenhauer-1969]
+    step1: |-
+      > 把观者从一切对美的领会所要求的纯粹沉思中拽下来，因为它必然以直接投合意志的对象来搅动意志。于是观者不再是纯粹的认识主体，而成了匮乏而依赖的意愿主体。（Schopenhauer 1969 [1818]: 207）[^schopenhauer-1969]
+    step2: |-
+      > 把观者从一切对美的把握所必需的纯粹沉思中拉下来，因为它必然借直接投合意志的对象去搅动意志。这样一来，观者便不再是纯粹的认识主体，而沦为匮乏、依赖的意愿主体。（Schopenhauer 1969 [1818]: 207）[^schopenhauer-1969]
+  - id: 35
+    kind: body
+    source: |-
+      This is contrary to the aim of art, which is to facilitate will-less contemplation of the Ideas.
+    step1: |-
+      这与艺术的目的相悖，艺术的目的在于促成对理念的无意志沉思。
+    step2: |-
+      这与艺术的目的背道而驰——艺术旨在促成对理念的无意志沉思。
+  - id: 36
+    kind: body
+    source: |-
+      Schopenhauer is quite specific about what the stimulating consists in:
+    step1: |-
+      叔本华对刺激性的东西究竟指什么说得相当具体：
+    step2: |-
+      刺激性者究竟指什么，叔本华说得很具体：
+  - id: 37
+    kind: body
+    source: |-
+      > In historical painting and in sculpture (it) consists in nude figures, the position, semi-drapery, and whole treatment of which are calculated to excite lustful feeling in the beholder. (1969 [1818]: 207–8)
+    step1: |-
+      > 在历史画与雕塑中，（它）在于裸体人物，其姿态、半遮的衣饰与整体处理，都意在激起观者的淫欲。（1969 [1818]: 207–8）
+    step2: |-
+      > 在历史画与雕塑里，（它）见于裸体人物：其姿势、半遮半掩的衣饰以及整体处理，都算计着要勾起观者的淫欲。（1969 [1818]: 207–8）
+  - id: 38
+    kind: body
+    source: |-
+      It is important to note that he does not object to depicting the nude figure as such—after all, “the ancients” did so “almost always free from … fault” (*ibid*.). What he objects to is a particular *treatment* of the nude, one which is designed to excite lustful feelings in the beholder. In other words, what he targets and denounces is erotic art. Like Shaftesbury and Kant he is drawn to make a comparison with food. Fruit is admissible as a subject matter for paintings
+    step1: |-
+      应当注意，他并不反对描绘裸体本身——毕竟“古人”画裸体“几乎总是免于……过失”（*ibid*.）。他所反对的是对裸体的某种*treatment*（处理），即旨在激起观者淫欲的那种处理。换言之，他所针对并谴责的正是情色艺术。与沙夫茨伯里和康德一样，他也喜欢拿食物作比。水果可以作为绘画的题材
+    step2: |-
+      要注意，他并不反对画裸体本身——毕竟“古人”画裸体“几乎总是不犯……毛病”（*ibid*.）。他反对的是对裸体的某种*treatment*（处理），即存心勾起观者淫欲的那种处理。换句话说，他瞄准并谴责的，正是情色艺术。和沙夫茨伯里、康德一样，他也爱拿食物打比方。水果可以入画，
+  - id: 39
+    kind: body
+    source: |-
+      > for it exhibits itself as a further development of the flower, and as a beautiful product of nature through form and colour, without our being positively forced to think of its edibility. (*ibid*.: 207–8)
+    step1: |-
+      > 因为它显现为花朵的进一步发展，并以其形式与色彩显现为自然的美妙产物，而不迫使我们正面去想它的可食性。（*ibid*.: 207–8）
+    step2: |-
+      > 因为它显现为花朵进一步发展的结果，以其形式与色彩显现为自然的美丽产物，并不硬逼着我们去想它可不可吃。（*ibid*.: 207–8）
+  - id: 40
+    kind: body
+    source: |-
+      But what is not admissible are prepared and served-up dishes, depicted with a high degree of realism. Dutch still life paintings depicting oysters, herrings, crabs, bread, butter, beer, wine, excite the appetite and are objectionable for the exact same reasons as erotic paintings and sculptures, which excite sexual appetite, are objectionable: they stimulate the will and as such put an end to any aesthetic contemplation of the object. Given that the function of art is to facilitate aesthetic experience, it follows for Schopenhauer that “the stimulating … is everywhere to be avoided in art” (*ibid*: 208; see also Neill 2012)[^neill-2012].
+    step1: |-
+      但不可容许的，是以高度写实手法描绘的备好上桌的菜肴。描绘牡蛎、鲱鱼、螃蟹、面包、黄油、啤酒、葡萄酒的荷兰静物画激起食欲，其可指责之处，与情色绘画和雕塑激起性欲而可指责之处完全相同：它们刺激意志，因而终结了对对象的任何审美沉思。既然艺术的功能在于促成审美经验，叔本华便得出结论：“刺激性的东西……在艺术中处处都应避免”（*ibid*: 208；另见 Neill 2012）[^neill-2012]。
+    step2: |-
+      不能容许的，是画得极为逼真、已经备好上桌的菜肴。荷兰静物画里的牡蛎、鲱鱼、螃蟹、面包、黄油、啤酒、葡萄酒会勾起食欲；它们该受责备的理由，与情色绘画、雕塑勾起性欲而该受责备的理由一模一样：它们刺激意志，从而断送了对对象的任何审美沉思。既然艺术的功能在于促成审美经验，叔本华的结论便是：“刺激性者……在艺术中处处都应避开”（*ibid*: 208；另见 Neill 2012）[^neill-2012]。
+  - id: 41
+    kind: body
+    source: |-
+      ### 2.2 The Legacy of Modern Aesthetics
+    step1: |-
+      ### 2.2 现代美学的遗产
+    step2: |-
+      ### 2.2 现代美学的遗产
+  - id: 42
+    kind: body
+    source: |-
+      Modern aesthetics has cast a long shadow into the 20ᵗʰ and even the 21ˢᵗ century, and the idea that the aesthetic and the erotic are fundamentally incompatible has proved to be very influential throughout.
+    step1: |-
+      现代美学把长长的阴影投向了二十世纪乃至二十一世纪，而“审美与情色根本不相容”这一观念始终影响深远。
+    step2: |-
+      现代美学的阴影一直拖到二十世纪，甚至二十一世纪；“审美与情色根本不相容”这一想法，也始终在暗中左右着人们。
+  - id: 43
+    kind: body
+    source: |-
+      Clive Bell, the great champion of aesthetic formalism, inscribes himself neatly in that tradition. In his landmark book, *Art* (1914), he begins by drawing a sharp contrast between the aesthetic emotion, which is provoked by works of art in virtue of a certain pleasing combination of lines and colors, and sexual feelings and desires which are provoked by sensually appealing bodies. The two could not be more different, he thinks:
+    step1: |-
+      克莱夫·贝尔（Clive Bell）这位审美形式主义的旗手，正稳稳地站在这条传统之内。在其里程碑式的著作《艺术》（*Art*，1914）中，他开篇便鲜明对照两种东西：由艺术作品凭某种悦目的线条与色彩组合所激起的审美情感，以及由感官上诱人的身体所激起的性感受与性欲望。他认为二者再不同不过：
+    step2: |-
+      审美形式主义的旗手克莱夫·贝尔（Clive Bell）就稳稳站在这一传统里。他的名著《艺术》（*Art*，1914）开卷便把两样东西尖锐对立起来：一是艺术作品凭某种悦目的线条与色彩组合所激起的审美情感，二是感官上诱人的身体所激起的性感受与性欲望。在他看来，二者天差地别：
+  - id: 44
+    kind: body
+    source: |-
+      > let no one imagine, because he has made merry in the warm tilth and quaint nooks of romance, that he can even guess at the austere and thrilling raptures of those who have climbed the cold, white peaks of art. (1961 [1914]: 42)
+    step1: |-
+      > 谁也不要因为自己在浪漫的温暖田垄与奇趣角落中寻过欢，就自以为能猜度那些爬上艺术那寒冷雪白峰顶的人所体会的严峻而战栗的狂喜。（1961 [1914]: 42）
+    step2: |-
+      > 谁都不要以为，自己既曾在浪漫的温暖田垄与奇趣角落里寻欢作乐，便猜得到那些攀上艺术那冷白峰顶的人所体验的严峻而战栗的狂喜。（1961 [1914]: 42）
+  - id: 45
+    kind: body
+    source: |-
+      Nevertheless, Bell acknowledges, as did Shaftesbury, that the two emotions are often confused partly because in everyday speech the word “beauty” is used indiscriminately for items that fall in each of the two categories (beautiful works of art, attractive men and women). To prevent any further confusion, he insists therefore on using the word “significant form,” instead of beauty, for the combination of lines and colors that produces the aesthetic emotion. (Shaftesbury, one will recall, was revisionist in the opposite direction, refusing to employ the word beauty for that which is merely desirable.)
+    step1: |-
+      不过，贝尔与沙夫茨伯里一样承认，这两种情感常被混淆，部分原因在于日常言谈中“美”一词被不加区分地用于两类对象（美的艺术作品、俊男美女）。为防止进一步混淆，他因而坚持用“有意味的形式”而非“美”来指称产生审美情感的那种线条与色彩的组合。（人们记得，沙夫茨伯里是在相反方向上的修正主义者：他拒绝用“美”一词去指仅仅可欲的东西。）
+    step2: |-
+      然而贝尔也像沙夫茨伯里一样承认，这两种情感常遭混淆，一部分原因是在日常言谈里“美”这个字被不分青红皂白地用到了两类对象上（美的艺术品、俊男美女）。为免继续混淆，他坚持改用“有意味的形式”来称呼产生审美情感的那种线条与色彩组合，而不再用“美”。（可记得，沙夫茨伯里修正的方向恰好相反：他拒绝拿“美”去称仅仅可欲之物。）
+  - id: 46
+    kind: body
+    source: |-
+      What about those works of art that appeal to our sensual feelings and desires and that are so popular with the man in the street?
+    step1: |-
+      那些诉诸我们感官感受与欲望、并且在大众中如此流行的艺术作品又如何呢？
+    step2: |-
+      那么，那些诉诸我们感官感受与欲望、在普通大众中十分流行的艺术作品，又该怎么说呢？
+  - id: 47
+    kind: body
+    source: |-
+      > The art that they call “beautiful” is generally closely related to the women. A beautiful picture is a photograph of a pretty girl; beautiful music, the music that provokes emotions similar to those provoked by young ladies in musical farces; and beautiful poetry, the poetry that recalls the same emotions felt, twenty years earlier, for the rector’s daughter. (1961 [1914]: 28–29)
+    step1: |-
+      > 他们所谓的“美”的艺术，一般与女人密切相关。一幅美的画，是漂亮姑娘的照片；美的音乐，是能激起类似于音乐滑稽剧里年轻女士所激起的情感的那种音乐；美的诗，则是唤起二十年前对教区牧师女儿所生同样情感的诗。（1961 [1914]: 28–29）
+    step2: |-
+      > 他们口中的“美”的艺术，大多与女人脱不了干系。美的画，是漂亮姑娘的照片；美的音乐，是叫人想起音乐闹剧里那些年轻女子所勾起的情绪的音乐；美的诗，则是令人重温二十年前对牧师女儿那番情愫的诗。（1961 [1914]: 28–29）
+  - id: 48
+    kind: body
+    source: |-
+      Bell has no patience with ignorant folks who seek out pictures, poems, or music for these reasons. They are simply confusing the sensual and the aesthetic. Of course, this does not mean that paintings depicting pretty girls cannot be art. They can, but if they are art, they will be so *despite* their erotic content. For example, when Manet’s *Olympia*, a picture of a prostitute, caused a storm of indignation in Paris of the 1860s, Emile Zola defended the painting in terms that Bell would have approved of:
+    step1: |-
+      贝尔对出于这些理由去寻画、寻诗、寻乐的无知之人毫无耐心。他们不过是把感官的与审美的混为一谈。当然，这并不意味着画漂亮姑娘的画不能成为艺术。它们可以，但若它们是艺术，那也是*despite*（不顾）其情色内容而为艺术。例如，当马奈（Manet）那幅描绘妓女的*Olympia*（《奥林匹亚》）在十九世纪六十年代的巴黎掀起一片愤慨时，埃米尔·左拉（Emile Zola）为这幅画辩护的措辞，贝尔想必会赞同：
+    step2: |-
+      对出于这类理由去找画、找诗、找音乐的无知之徒，贝尔毫无耐性：他们不过是把感官之事与审美之事搅成了一团。当然，这并不等于说画漂亮姑娘的画就一定不是艺术；它们可以是艺术，但若真是艺术，那也是*despite*（不顾）其情色内容而成其为艺术。举例来说，马奈（Manet）画妓女的*Olympia*（《奥林匹亚》）在十九世纪六十年代的巴黎激起一片哗然时，埃米尔·左拉（Emile Zola）为它辩护的措辞，贝尔想必会点头称是：
+  - id: 49
+    kind: body
+    source: |-
+      > Tell them aloud, dear master, that you are not what they think you are, that a painting is for you a mere pretext for analysis. You needed … clear and luminous tones, and you introduced a bouquet; you needed black tones and you placed in a corner a Negress and a cat. (Zola 1991: 161)[^zola-1991]
+    step1: |-
+      > 大声告诉他们，亲爱的大师，你并非他们所想的那样；对你来说，一幅画不过是分析的借口。你需要……明净而明亮的色调，于是你添了一束花；你需要黑色调，于是在一角放了一个黑女人和一只猫。（Zola 1991: 161）[^zola-1991]
+    step2: |-
+      > 亲爱的老师，请大声告诉他们：你并不是他们以为的那种人；一幅画对你而言，不过是分析的由头。你需要……明净而明亮的调子，于是添了一束花；你需要深黑的调子，便在角落里安置了一个黑女人和一只猫。（Zola 1991: 161）[^zola-1991]
+  - id: 50
+    kind: body
+    source: |-
+      For Bell and his fellow formalists, significant form is the only important artistic criterion. Where it comes to insulating the aesthetic from the erotic, many prominent philosophers in the 20ᵗʰ century have followed in Bell’s footsteps, even when they do not subscribe to his formalism. In *The Principles of Art* (1938), R. G. Collingwood observes how “the words ‘beauty’, ‘beautiful’, as actually used, have no aesthetic implication” since they often indicate “the satisfaction of some desire or the arousing of some emotion” (1938: 38–41). For Collingwood, a beautiful man or woman ordinarily means one whom we find sexually desirable. And he firmly states that this “has nothing whatever to do with aesthetic experience. It has to do with that other kind of experience that Plato called *eros*” (1938: 41). Similarly, Monroe Beardsley insisted on a strict divide between the two sorts of responses and revised his theory of aesthetic experience when it was pointed out to him that it did not exclude sexual experiences from the realm of the aesthetic (Beardsley 1982)[^beardsley-1982]. Edward Bullough famously posited “psychical distance” as a prerequisite for experiencing art and concluded that
+    step1: |-
+      对贝尔及其形式主义同道来说，有意味的形式是唯一重要的艺术标准。在把审美与情色隔离开这件事上，二十世纪许多著名哲学家都追随贝尔的脚步，即便他们并不接受他的形式主义。在《艺术原理》（*The Principles of Art*，1938）中，R. G. 科林伍德（R. G. Collingwood）指出，“‘美’‘美的’这些词在实际使用中并无审美含义”，因为它们常表示“某种欲望的满足或某种情感的激起”（1938: 38–41）。对科林伍德而言，说一个男人或女人美，通常意味着我们觉得其在性上可欲。他坚决表示，这与“审美经验毫无关系。它关乎柏拉图称之为*eros*的那种另一类经验”（1938: 41）。同样，门罗·比尔兹利（Monroe Beardsley）坚持两类反应之间的严格分界，并在有人指出其审美经验理论并未把性经验排除在审美领域之外后，修订了自己的理论（Beardsley 1982）[^beardsley-1982]。爱德华·布洛（Edward Bullough）提出著名的“心理距离”作为体验艺术的前提，并得出结论说：
+    step2: |-
+      对贝尔和形式主义同道来说，有意味的形式是唯一要紧的艺术标准。二十世纪不少名家在把审美与情色隔开这件事上跟着贝尔走，尽管他们并不信奉他的形式主义。R. G. 科林伍德（R. G. Collingwood）在《艺术原理》（*The Principles of Art*，1938）里指出，“‘美’‘美的’这些词在实际用法中并无审美含义”，因为它们常指“某种欲望的满足或某种情绪的激起”（1938: 38–41）。在科林伍德看来，说一个人（男人或女人）美，平常就是说我们觉得此人在性上可欲。他斩钉截铁地说，这“与审美经验毫不相干。它关乎柏拉图称为*eros*的另一类经验”（1938: 41）。门罗·比尔兹利（Monroe Beardsley）同样坚持两类反应泾渭分明；有人指出他的审美经验理论并未把性经验排除在审美领域之外，他便修改了自己的理论（Beardsley 1982）[^beardsley-1982]。爱德华·布洛（Edward Bullough）以著名的“心理距离”作为体验艺术的前提，并断言：
+  - id: 51
+    kind: body
+    source: |-
+      > explicit references to organic affections, … especially to sexual matters, lie normally below the Distance-limit, and can be touched on by Art only with special precautions. (1969: 403)
+    step1: |-
+      > 对有机感受的明确指涉，……尤其是对性事情的指涉，通常落在距离界限之下，艺术只能以特殊防范措施触及。（1969: 403）
+    step2: |-
+      > 对有机感受的露骨指涉，……尤其对性事的指涉，通常都落在距离界限之下，艺术若要触碰，只能格外设防。（1969: 403）
+  - id: 52
+    kind: body
+    source: |-
+      Even in the 21ˢᵗ century one will find philosophers who are deeply sceptical about the aesthetic and artistic potential of the erotic. Mohan Matthen, for instance, states that “erotic art tends not to be great art” because
+    step1: |-
+      即便在二十一世纪，也能找到对情色的审美与艺术潜能深表怀疑的哲学家。例如，莫汉·马森（Mohan Matthen）说“情色艺术往往不是伟大的艺术”，因为
+    step2: |-
+      即便到了二十一世纪，仍有哲学家对情色的审美潜能与艺术潜能深怀疑虑。例如莫汉·马森（Mohan Matthen）就说，“情色艺术往往算不上伟大的艺术”，理由是
+  - id: 53
+    kind: body
+    source: |-
+      > even when erotica are artistic … they have too direct an effect on sexual response, and this distracts the viewer’s attention away from the work itself. (2011: 354)
+    step1: |-
+      > 即便情色作品具有艺术性……它们对性反应的影响也太直接，这会分散观者对作品本身的注意。（2011: 354）
+    step2: |-
+      > 即便情色作品具有艺术性……它们对性反应的作用也太直接，把观者的注意力从作品本身引开了。（2011: 354）
+  - id: 54
+    kind: body
+    source: |-
+      The more erotic a work of art, the more difficult it is to appreciate aesthetically. Matthen makes this claim in an essay review of *The Art Instinct* (2009), a book on evolutionary aesthetics written by Denis Dutton, who also claims that eroticism is best avoided in art, though for different reasons than Matthen. While the latter considers the sexual response too distracting, Dutton argues that it is rather too crude and too basic to count as a proper aesthetic response. A high degree of meaning-complexity is the hallmark of all great art, according to Dutton, but while love is complex, “(s)ex itself is just too simple” (2009: 238). As a consequence,
+    step1: |-
+      一件艺术作品越情色，就越难在审美上欣赏。马森是在评述《艺术本能》（*The Art Instinct*，2009）的一篇书评中提出这一主张的；该书是丹尼斯·达顿（Denis Dutton）所写的一部进化美学著作。达顿也主张艺术最好避开情色，理由却与马森不同。马森认为性反应太分散注意，达顿则认为它太粗陋、太基本，不足以算作恰当的审美反应。按达顿，高度复杂的意涵是一切伟大艺术的标志，而爱固然复杂，“性本身却太简单了”（2009: 238）。结果是：
+    step2: |-
+      作品越是情色，就越难作审美欣赏。马森是在评《艺术本能》（*The Art Instinct*，2009）的一篇书评里提出此说的。那本书是丹尼斯·达顿（Denis Dutton）写的进化美学著作；达顿也认为艺术最好避开情色，理由却不同：马森嫌性反应太分心，达顿则嫌它太粗、太基本，不够格充当一种恰当的审美反应。达顿认为，高度的意涵复杂性是一切伟大艺术的特征；爱虽复杂，“性本身却太简单了”（2009: 238）。于是：
+  - id: 55
+    kind: body
+    source: |-
+      > love is the most pervasive theme for representative arts everywhere, (whereas) explicit eroticism does not tend to figure importantly in the greatest masterpieces. (2009: 238)
+    step1: |-
+      > 爱是各地再现艺术中最普遍的主题，（而）露骨的情色则往往不在最伟大的杰作中占据重要位置。（2009: 238）
+    step2: |-
+      > 无论何地，爱都是再现艺术最普遍的主题，（而）露骨的情色却往往在最伟大的杰作中无足轻重。（2009: 238）
+  - id: 56
+    kind: body
+    source: |-
+      Just like a bowl of corn syrup and a plate of sugar will never be dinner, Dutton flippantly observes, erotic paintings, novels, and poems will never qualify as art of the highest order. (It is certainly noteworthy that Dutton, who is the antipode of modern aesthetics in doing away with the very notion of a disinterested pleasure and assuming that matters of sexual reproduction are vital in explaining our interest in art and aesthetics, actually finds himself in the company of Schopenhauer, Kant, and Shaftesbury where erotic art is concerned.)
+    step1: |-
+      达顿还轻描淡写地评论说，正如一碗玉米糖浆和一盘白糖永远成不了晚餐，情色绘画、小说与诗歌也永远不会成为最高等级的艺术。（特别值得注意的是，达顿在取消无利害愉悦这一观念、并假定性生殖之事对于解释我们对艺术与美学的兴趣至关重要这一点上，恰是现代美学的对立面；然而在情色艺术的问题上，他竟与叔本华、康德和沙夫茨伯里站到了一起。）
+    step2: |-
+      达顿还随口打趣说，正如一碗玉米糖浆加一盘白糖永远成不了一顿晚餐，情色绘画、小说和诗也永远够不上最高档次的艺术。（有一点很值得注意：达顿取消了无利害愉悦这一观念，还认定性生殖之事对解释我们对艺术与美学的兴趣至关重要，在这一点上他恰是现代美学的反面；可一涉及情色艺术，他竟与叔本华、康德、沙夫茨伯里为伍。）
+  - id: 57
+    kind: body
+    source: |-
+      To recapitulate: if (disinterested, contemplative) aesthetic responses are indeed irreconcilable with (interested, bodily) sexual responses, as so many philosophers of art in the past have thought, then there hardly remains any conceptual space for works that aim for both kinds of response. Yet, we do, as a matter of fact, have this longstanding tradition of erotic art, not just in the West but also in many non-Western cultures. How to account for this?
+    step1: |-
+      小结一下：如果（无利害的、沉思的）审美反应确实与（有利害的、身体的）性反应无法调和，正如过去那么多艺术哲学家所认为的那样，那么旨在兼得两类反应的作品就几乎没有概念空间了。然而事实上，我们确实拥有这一悠久的情色艺术传统，不仅西方如此，许多非西方文化亦然。这该如何解释？
+    step2: |-
+      概而言之：假如（无利害的、沉思的）审美反应真与（有利害的、身体的）性反应水火不容，一如过去许多艺术哲学家所想，那么意在兼取两类反应的作品就几乎没有概念空间。可事实上，这种情色艺术的悠久传统确实存在，不独西方，许多非西方文化亦然。这一事实该如何解释？
+  - id: 58
+    kind: body
+    source: |-
+      Proponents of modern aesthetics could simply bite the bullet here and argue, as Mohan Matthen does, that erotic art tends not to be great art, or, following Bell, that erotic paintings, books, poems can only attain art status despite their erotic content. But that is a big bullet to bite, by any standard. Not only are there so many outstanding works of erotic art, but the eroticism of these works is also more often than not an integral part of their status and value as art. To be sure, there are nude paintings and sculptures which seem to qualify first and foremost as studies in formal beauty (certain sculptures of Henry Moore come to mind). But anyone who would regard, say, *The Naked Maja* by Goya (c. 1797–1800) or *Les Délassements d’Eros* by Gerda Wegener (1925) as a mere formal exercise would entirely misunderstand and fail to appreciate what these works are about. That is why the great majority of aestheticians today prefer the other horn of the dilemma. Instead of denying the existence of genuinely erotic art, they will deny that aesthetic and erotic responses are antithetical and hence reject the basic tenets of modern aesthetics.
+    step1: |-
+      现代美学的拥护者干脆可以咬牙接受这一结论，像莫汉·马森那样主张情色艺术往往不是伟大的艺术；或者像贝尔那样主张情色绘画、书籍、诗歌只能不顾其情色内容而获得艺术地位。但按任何标准，这都是一颗难以下咽的苦果。不仅杰出的情色艺术作品数量众多，而且这些作品的情色性往往还是其艺术地位与价值的有机组成部分。当然，有些裸体绘画与雕塑似乎首先算得上是形式美的研究（亨利·摩尔的一些雕塑浮现脑海）。但任何人若把戈雅（Goya）的*The Naked Maja*（《裸体的玛哈》，约 1797–1800）或格尔达·韦格纳（Gerda Wegener）的*Les Délassements d’Eros*（《厄洛斯的消遣》，1925）仅仅视为形式练习，就会完全误解、也无法欣赏这些作品之所是。正因如此，今天绝大多数美学家宁愿选择两难的另一端：他们不否认真正情色艺术的存在，而是否认审美反应与情色反应彼此对立，从而拒斥现代美学的基本信条。
+    step2: |-
+      现代美学的拥护者大可以硬着头皮认下这个结论，像莫汉·马森那样说情色艺术往往不是伟大的艺术；或像贝尔那样说，情色绘画、书籍、诗歌只能不顾其情色内容而取得艺术地位。可无论用什么标准衡量，这颗苦果都太难咽。杰出的情色艺术作品不仅数量可观，而且其情色性多半正是它们作为艺术之地位与价值的有机部分。当然，也有一些裸体绘画与雕塑，看上去首先属于形式美的研讨（亨利·摩尔的某些雕塑便是一例）。但谁若把戈雅（Goya）的*The Naked Maja*（《裸体的玛哈》，约 1797–1800）或格尔达·韦格纳（Gerda Wegener）的*Les Délassements d’Eros*（《厄洛斯的消遣》，1925）只看作形式练习，那便是全然误解，也无从欣赏这些作品究竟在讲什么。正因如此，今天的美学家绝大多数宁愿选两难的另一头：他们不否认真正的情色艺术存在，而是否认审美反应与情色反应彼此相斥，从而否弃现代美学的基本教条。
+  - id: 59
+    kind: body
+    source: |-
+      ### 2.3 The Aesthetic Rehabilitation of the Erotic
+    step1: |-
+      ### 2.3 情色的审美平反
+    step2: |-
+      ### 2.3 情色的审美平反
+  - id: 60
+    kind: body
+    source: |-
+      Modern aesthetics and its 20ᵗʰ century formalist and experientialist heirs have been criticized from many sides. But instead of offering a general critique, let us consider briefly some of the philosophers who, in attacking modern aesthetics, have explicitly pleaded for the inclusion of the sexual within the domain of aesthetics.
+    step1: |-
+      现代美学及其二十世纪的形式主义与经验主义继承人，受到了来自多方的批评。但这里不作一般性批判，而简要考察几位哲学家——他们在攻击现代美学时，明确请求把性纳入审美领域。
+    step2: |-
+      现代美学连同它在二十世纪的形式主义与体验论后裔，遭到来自四面八方的批评。这里不作笼统的清算，只简要看看几位哲学家：他们在抨击现代美学时，明确要求把性纳入审美领域。
+  - id: 61
+    kind: body
+    source: |-
+      One of the most vehement early critics was Friedrich Nietzsche. In an oft-quoted passage in *On the Genealogy of Morals* (1887: III.6) Nietzsche shifts attention to the artist’s point of view to reveal a fundamental flaw in modern aesthetics:
+    step1: |-
+      早期最激烈的批评者之一是弗里德里希·尼采。在《论道德的谱系》（*On the Genealogy of Morals*，1887: III.6）一段常被引用的话里，尼采把注意力转向艺术家的视角，以揭示现代美学的一个根本缺陷：
+    step2: |-
+      早期批评者中，言辞最激烈的当属弗里德里希·尼采。在《论道德的谱系》（*On the Genealogy of Morals*，1887: III.6）一段屡被引用的话中，尼采把视线转向艺术家的立场，以此揭出现代美学的一个根本毛病：
+  - id: 62
+    kind: body
+    source: |-
+      > When our aestheticians tirelessly rehearse, in support of Kant’s view, that the spell of beauty enables us to view even nude female statues “disinterestedly” we may be allowed to laugh a little at their expense. The experiences of artists in this delicate matter are rather more “interesting”; certainly Pygmalion was not entirely devoid of aesthetic feeling.
+    step1: |-
+      > 我们的美学家为支持康德的观点，不厌其烦地反复说：美之魔力使我们甚至能“无利害地”观看裸体女性雕像——对此我们不妨笑他们一笑。艺术家在这件微妙事情上的经验要“有趣”得多；皮格马利翁想必并非全无审美感受。
+    step2: |-
+      > 我们的美学家为了替康德撑腰，不厌其烦地念叨：美的魔力让我们连裸体女性雕像都能“无利害地”观看——对此我们大可笑话他们一番。艺术家在这类微妙事情上的经验要“有趣”得多；皮格马利翁总不至于全无审美感受吧。
+  - id: 63
+    kind: body
+    source: |-
+      (NB: For Nietzsche’s texts we have relied on the classic edition of Colli & Montinari, 1967–78. *On the Genealogy of Morals* is abbreviated as GM, *The Will to Power* is abbreviated as WP, and *Twilight of the Idols* is abbreviated as TI. The translations we have used are listed in the bibliography)
+    step1: |-
+      （按：尼采文本我们依据科利与蒙蒂纳里 1967–78 年版经典全集。《论道德的谱系》缩写为 GM，《权力意志》缩写为 WP，《偶像的黄昏》缩写为 TI。所用译本列于参考文献。）
+    step2: |-
+      （按：尼采文本依据科利与蒙蒂纳里（Colli & Montinari）1967–78 年经典版全集。《论道德的谱系》简称 GM，《权力意志》简称 WP，《偶像的黄昏》简称 TI。所用译本见参考文献。）
+  - id: 64
+    kind: body
+    source: |-
+      Pygmalion fell under the spell of the beautiful statue he had created, but his enjoyment was certainly not bereft of any desire. For Nietzsche, the case of Pygmalion is not exceptional, but rather emblematic: “All art works tonically, increases strength, inflames desire” (WP §809). And, as he writes in *Twilight of the Idols* (1889),
+    step1: |-
+      皮格马利翁迷上了自己造出的美丽雕像，而他的享受肯定并非毫无欲望。对尼采来说，皮格马利翁之例并不例外，反而具有象征意义：“一切艺术都起强健作用，增强力量，点燃欲望”（WP §809）。又如他在《偶像的黄昏》（*Twilight of the Idols*，1889）中所写：
+    step2: |-
+      皮格马利翁迷恋上自己雕出的美丽雕像，他那份享受里显然并非没有欲望。在尼采看来，皮格马利翁并非例外，反而颇具象征意味：“一切艺术都起亢奋作用，增强力量，点燃欲望”（WP §809）。他在《偶像的黄昏》（*Twilight of the Idols*，1889）里又写道：
+  - id: 65
+    kind: body
+    source: |-
+      > all beauty incites to procreation—… precisely this is the *proprium* of its effect, from the most sensual regions up into the most spiritual…. (TI IX.22)
+    step1: |-
+      > 一切美都煽动生殖——……这恰恰是其效果的*proprium*（特有属性），从最感官的领域直到最精神的领域……（TI IX.22）
+    step2: |-
+      > 一切美都催动生殖——……这正是其效果之*proprium*（专有本性），从最感官的领域一直贯通到最精神的领域……（TI IX.22）
+  - id: 66
+    kind: body
+    source: |-
+      To believe, as Schopenhauer, Kant, Shaftesbury seem to have done, that in matters of beauty and art there is such a thing as “immaculate perception” (an aesthetic regard pure of any desire), is simply to deceive oneself.
+    step1: |-
+      像叔本华、康德、沙夫茨伯里似乎都认为，在美与艺术的事情上存在所谓“无瑕的知觉”（一种不含任何欲望的审美观照）——这样想不过是自欺。
+    step2: |-
+      叔本华、康德、沙夫茨伯里似乎都以为，在美与艺术之事上真有所谓“无瑕的知觉”——一种不含丝毫欲望的审美观照。这不过是自欺罢了。
+  - id: 67
+    kind: body
+    source: |-
+      Far from building a wall between the aesthetic and the sexual, Nietzsche sees them as intimately linked: “The demand for art and beauty is an indirect demand for the ecstasies of sexuality” (WP §805). The two experiences really share the same structure and phenomenology. As with sexual experience, if there is to be “any aesthetic doing or seeing, one physiological condition is indispensable: rapture” (TI IX, 8). And the pleasure that one receives is not a disembodied, cognitive pleasure—a unique kind of experience that would set us apart from animals. No,
+    step1: |-
+      尼采非但没有在审美与性之间筑墙，反而认为二者紧密相连：“对艺术与美的要求，是对性狂喜的间接要求”（WP §805）。两种经验其实共享同一结构与现象学。与性经验一样，若要“有任何审美作为或审美观看，就不可缺少一个生理条件：狂喜”（TI IX, 8）。人所获得的快感并非脱离身体的认知快感——一种使我们有别于动物的独特经验。不是的，
+    step2: |-
+      尼采不但不在审美与性之间砌墙，反倒认定二者紧密相系：“对艺术与美的要求，就是对性狂喜的间接要求”（WP §805）。两种经验其实共享同一套结构与现象学。像性经验一样，若要“有任何审美的作为或观看，就少不了一个生理条件：狂喜”（TI IX, 8）。人所得到的快感，并不是脱离身体的认知快感——好像那是一种把人同动物区分开的独特经验。并非如此，
+  - id: 68
+    kind: body
+    source: |-
+      > art reminds (us) of states of animal vigour: it is on the one hand an excess and overflow of blooming *corporeality* into the world of images and desires: on the other, an excitation of the animal functions through the images and desires of intensified life. (WP §802)
+    step1: |-
+      > 艺术（使我们）想起动物活力的状态：一方面，它是蓬勃的*corporeality*（身体性）溢入形象与欲望世界的过剩与流溢；另一方面，它又通过强化生命的形象与欲望激发动物性功能。（WP §802）
+    step2: |-
+      > 艺术（使我们）回想起动物生命力勃发的状态：一方面，它是蓬勃的*corporeality*（肉身性）向形象与欲望之界的满溢与流泻；另一方面，它又借那些强化生命的形象与欲望，把动物性的功能激发起来。（WP §802）
+  - id: 69
+    kind: body
+    source: |-
+      Thus, while the erotic masterpieces of the past must qualify as regrettable anomalies for someone like Schopenhauer, Nietzsche has no trouble at all in giving them a place.
+    step1: |-
+      这样，昔日的情色杰作对叔本华之类人来说只能算可叹的例外，尼采却毫不费力地给它们留出了位置。
+    step2: |-
+      于是，在叔本华一类人那里，往昔的情色杰作只能算可叹的异例；尼采却毫不为难地给它们留了一席之地。
+  - id: 70
+    kind: body
+    source: |-
+      Within contemporary aesthetics, Alexander Nehamas and Richard Shusterman have made a serious and sustained effort to make room for the erotic within aesthetics and art. In the first few pages of his book *Only a Promise of Happiness* (2007), Nehamas lays his cards on the table. Mentioning Kant and Schopenhauer as his adversaries, he states uncompromisingly that “the only reaction appropriate to beauty is *eros*—love, the desire to possess it” (2007: 6). While *eros* should not necessarily be understood in a sexual sense here, Nehamas does think that erotic encounters provide an instructive model for aesthetic experiences in general:
+    step1: |-
+      在当代美学内部，亚历山大·内哈马斯（Alexander Nehamas）与理查德·舒斯特曼（Richard Shusterman）为在美学与艺术中给情色腾出位置，作了认真而持久的努力。内哈马斯在其《幸福不过是一个承诺》（*Only a Promise of Happiness*，2007）开头几页便摊开了底牌。他点名康德与叔本华为对手，毫不妥协地说：“对美唯一恰当的反应是*eros*（爱欲）——爱，占有它的欲望”（2007: 6）。虽然此处的*eros*不必作性的理解，内哈马斯确实认为情色遭遇为一般审美经验提供了一个富有教益的模型：
+    step2: |-
+      在当代美学内部，亚历山大·内哈马斯（Alexander Nehamas）与理查德·舒斯特曼（Richard Shusterman）下了认真的长功夫，要为情色在美学与艺术中争一席地。内哈马斯在《幸福不过是一个承诺》（*Only a Promise of Happiness*，2007）头几页就亮出了底牌。他把康德、叔本华点为对手，毫不含糊地说：“对美唯一相称的反应是*eros*（爱欲）——爱，即占有它的欲望”（2007: 6）。这里的*eros*未必作性解，但内哈马斯确实认为，情色性的相遇为一般审美经验提供了一个有教益的范式：
+  - id: 71
+    kind: body
+    source: |-
+      > The most abstract and intellectual beauty provokes the urge to possess it no less than the most sensual inspires the passion to come to know it better. (2007: 7)
+    step1: |-
+      > 最抽象、最理智的美，同最具感官性的美一样，都会激起占有它的冲动——后者激起的是更深入认识它的激情。（2007: 7）
+    step2: |-
+      > 最抽象、最理智的美，也照样激起占有的冲动；最具感官性的美，则激起要更深地认识它的热情。（2007: 7）
+  - id: 72
+    kind: body
+    source: |-
+      Each judgment of beauty is future oriented, is identical with the spark of desire, and contains, in the words of Stendhal, a promise of happiness (Stendhal 1926: 74; Nehamas 2007: 55)[^nehamas-2007][^stendhal-1926].
+    step1: |-
+      每一个美的判断都面向未来，都等同于欲望的火花，并且用司汤达的话说，都包含着幸福的承诺（Stendhal 1926: 74; Nehamas 2007: 55）[^nehamas-2007][^stendhal-1926]。
+    step2: |-
+      每一个关于美的判断都朝向未来，都等同于欲望迸出的火花，并且用司汤达的话说，都含有一种幸福的承诺（Stendhal 1926: 74; Nehamas 2007: 55）[^nehamas-2007][^stendhal-1926]。
+  - id: 73
+    kind: body
+    source: |-
+      For Nehamas, too, erotic art is not at all a recalcitrant exception in need of explanation. Quite the contrary, it offers the best possible inroad to understanding what beauty and art are all about. It’s not a coincidence that the touchstone work of art, to which Nehamas returns again and again, is Manet’s *Olympia*. Far from being an exercise in formal beauty, as Zola would have it, this is a painting that is precisely designed
+    step1: |-
+      对内哈马斯来说，情色艺术也绝不是需要解释的顽固例外。恰恰相反，它提供了理解美与艺术究竟何谓的最佳入口。他反复回到的试金石作品是马奈的*Olympia*（《奥林匹亚》），这并非偶然。正如左拉所说，它远非一次形式美的演练；这幅画恰恰意在
+    step2: |-
+      对内哈马斯而言，情色艺术也绝不是需要特别解释的顽固异例。恰恰相反，它是理解美与艺术究竟为何物的最佳入口。他一再回到的试金石作品是马奈的*Olympia*（《奥林匹亚》），这并非偶然。它绝非左拉所说的那种形式美演练，而恰恰是刻意用来
+  - id: 74
+    kind: body
+    source: |-
+      > to jolt the audience, especially the men, into acknowledging that what they were enjoying was not a painted canvas or an idealized figure with an edifying message but a naked woman of their own place and time. (Nehamas 2007: 27)[^nehamas-2007]
+    step1: |-
+      > 猛推观众——尤其是男性观众——一把，逼他们承认自己所享受的并不是一幅画布，也不是一个带有教化寓意的理想化形体，而是他们自己时代、自己地方的一个裸女。（Nehamas 2007: 27）[^nehamas-2007]
+    step2: |-
+      > 猛推观众一把——尤其是男观众——逼他们承认：自己所津津乐道的，并不是一块涂了颜料的画布，也不是一个载着教化寓意的理想化形体，而是他们自己时代、自己地方的一个赤裸女人。（Nehamas 2007: 27）[^nehamas-2007]
+  - id: 75
+    kind: body
+    source: |-
+      It is erotic in every sense of the word and for Nehamas it does what all great art should do: spark the audience’s desire.
+    step1: |-
+      它在一切意义上都是情色的；对内哈马斯而言，它做了所有伟大艺术该做的事：点燃观众的欲望。
+    step2: |-
+      它在任何意义上都是情色的；在内哈马斯看来，它做到了伟大艺术该做的事：点燃观众的欲望。
+  - id: 76
+    kind: body
+    source: |-
+      If Nehamas mainly takes issue with the disavowal of desire within modern aesthetics, Richard Shusterman’s main target is the “idealist-rationalist repugnance for the body” which he finds is permeating the entire tradition of Western philosophy (2005: 324; see also Irvin (ed.) 2016). To counter this, Shusterman proposes a new discipline, “somaesthetics,” which aims to study the “experience and use of one’s body as a locus of sensory-aesthetic appreciation and creative self-fashioning” (1999: 302) and which has as one of its main subsidiary ambitions to “(i)mprove our appreciation of the artistry, beauty, meaning that sexual experience can offer” (2008: 85). In several of his essays he argues that sexual experience itself can qualify as an aesthetic experience, since most of the crucial features attributed to aesthetic experiences are also attributable to erotic experiences: they are pursued and valued for their own sake, they are rich in intensity and stand out distinctively from the flow of ordinary humdrum experience, they display harmonies of structure and developing form, they are being subjectively savored but also intentionally directed at an object, they deeply engage thought, feeling, and imagination, and stimulate both body and mind (2007: 57, 2008: 93). Hence, instead of ignoring or disenfranchising the tradition of erotic art, Shusterman pleads for the reassertion of an “ars erotica” which would not just involve a renewed attention for certain works of the past, but would entail the development of genuine erotic art forms that could help increase our understanding of the relation between aesthetics and sex, deliver aesthetically rewarding erotic experiences, and deepen our appreciation of the aesthetic potential of other somatic practices (2007: 57; 2021).
+    step1: |-
+      如果说内哈马斯主要针对的是现代美学对欲望的否认，那么理查德·舒斯特曼的主要靶子是“唯心主义-理性主义对身体的厌恶”，他认为这种厌恶渗透了整个西方哲学传统（2005: 324；另见 Irvin (ed.) 2016）。为对抗它，舒斯特曼提出一门新学科“身体美学”（somaesthetics），旨在研究“把身体作为感官-审美欣赏与创造性自我塑造之场所的经验与运用”（1999: 302），其附属抱负之一是“增进我们对性经验所能提供的技艺性、美与意义的欣赏”（2008: 85）。他在数篇论文中论证，性经验本身可以算作审美经验，因为归给审美经验的那些关键特征大多也可归给情色经验：它们因自身之故而被追求、被珍视；它们强度丰富，鲜明地超脱于日常琐屑经验之流；它们展现出结构的和谐与形式的发展；它们既被主体细细品味，又有意向地指向某个对象；它们深深牵动思想、情感与想象，并同时刺激身体与心灵（2007: 57, 2008: 93）。因此，舒斯特曼不去忽视或褫夺情色艺术的传统，而是呼吁重振一种“ars erotica”（爱欲之术）：这不仅要求重新关注过去的某些作品，还要求发展真正的情色艺术形式——它们能帮助我们更好地理解美学与性之间的关系，带来审美上有回报的情色经验，并加深我们对其他身体实践之审美潜能的欣赏（2007: 57; 2021）。
+    step2: |-
+      内哈马斯主要针对的是现代美学对欲望的否认；理查德·舒斯特曼的靶子则主要是“唯心主义-理性主义对身体的嫌恶”，他认为这种嫌恶弥漫于整个西方哲学传统（2005: 324；另见 Irvin (ed.) 2016）。为此，舒斯特曼提出一门新学问“身体美学”（somaesthetics），研究“把身体当作感官-审美欣赏与创造性自我塑造之场所的经验与运用”（1999: 302）；它的一项附属抱负是“增进我们对性经验所能带来的技艺、美与意义的欣赏”（2008: 85）。他在几篇文章里论证，性经验本身就可以算作审美经验，因为人们归给审美经验的那些关键特征，大多也能归给情色经验：它们因自身而被追求、被看重；它们强度充沛，鲜明地超离于日常庸碌经验之流；它们显出结构的和谐与形式的发展；它们既被主体细细咀嚼，又有意向地指向某个对象；它们深入牵动思想、情感与想象，并同时刺激身体与心灵（2007: 57, 2008: 93）。所以，舒斯特曼并不主张无视或贬黜情色艺术的传统，而是呼吁重振一种“ars erotica”（爱欲之术）：这不只是重新留意过去的某些作品，还意味着发展真正的情色艺术形式——它们有助于加深我们对美学与性之关系的理解，带来审美上值得的情色经验，并拓展我们对其他身体实践之审美潜能的领会（2007: 57; 2021）。
+  - id: 77
+    kind: body
+    source: |-
+      ## 3. Contemporary Aesthetics and the Problem of Pornographic Art
+    step1: |-
+      ## 3. 当代美学与色情艺术问题
+    step2: |-
+      ## 3. 当代美学与色情艺术问题
+  - id: 78
+    kind: body
+    source: |-
+      While not everyone will take the aesthetic recuperation of the erotic as far as Shusterman and Nehamas, very few philosophers today will deny the existence and aesthetic legitimacy of erotic art. So, does this mean that the wall between the sexual and the aesthetic has been torn down? Not entirely. It seems more accurate to say that the battle lines have been redrawn. The suspicion towards the erotic may have largely subsided in contemporary aesthetics, but it has been replaced by a very pronounced scepticism of the pornographic. Many philosophers of art, including Roger Scruton, Jerrold Levinson, and Christy Mag Uidhir, deny that there is (or can be) such a thing as pornographic art. In other words, they advocate a strict divide between erotic art and pornography. Some of their scepticism, one cannot fail to notice, bears a significant resemblance to the earlier resistance against erotic art.
+    step1: |-
+      尽管并非人人都会像舒斯特曼与内哈马斯那样把情色的审美复原推得那么远，今天却很少有哲学家会否认情色艺术的存在与审美正当性。那么，这是否意味着性与审美之间的墙已被拆掉？并不尽然。更准确的说法是，战线被重新划过了。当代美学中对情色的疑虑也许已大体消退，取而代之的是对色情的极明显怀疑。包括罗杰·斯克鲁顿（Roger Scruton）、杰罗尔德·莱文森与克里斯蒂·马格·乌伊迪尔（Christy Mag Uidhir）在内的许多艺术哲学家，都否认色情艺术这种东西存在（或可能存在）。换言之，他们主张情色艺术与色情之间有严格分界。人们不会不注意到，他们的某些怀疑与早先对情色艺术的抵制颇为相似。
+    step2: |-
+      尽管并非人人都像舒斯特曼、内哈马斯那样把情色的审美复原推得那么远，如今的哲学家却很少否认情色艺术的存在及其审美正当性。那么，性与审美之间的墙是否已经拆掉？也不尽然。更准确地说，战线被重新划定了。当代美学对情色的疑心大体消退，取而代之的是对色情极为显眼的怀疑。罗杰·斯克鲁顿（Roger Scruton）、杰罗尔德·莱文森、克里斯蒂·马格·乌伊迪尔（Christy Mag Uidhir）等许多艺术哲学家都否认色情艺术这种东西存在（或可能存在）。换言之，他们主张在情色艺术与色情之间划一道严格界线。不难看出，他们的某些怀疑与早先针对情色艺术的抵制颇为相像。
+  - id: 79
+    kind: body
+    source: |-
+      Pornographic representations are sexually explicit and rich in anatomical detail, Scruton points out, whereas works of erotic art rely on suggestion and, instead of focusing on certain body parts, will try to capture the individuality, personality, and subjectivity of the represented person. In Titian’s *Venus of Urbino* (1538), for instance, it is not the sexual organs but the face, as “window to the soul,” that provides the focus of attention (1986: 154, 2005: 11, 2009: 149). A pornographic image, by contrast, “is like a magic wand that turns subjects into objects, people into things—and thereby disenchants them, destroying the source of their beauty” (2009: 163). As part of his project to rehabilitate beauty as the central aesthetic and artistic category, Scruton also appeals to the distinction between “the nude” and “the naked” made famous by Kenneth Clark (1956). The artistic nude constitutes, as the subtitle of Clark’s book indicates, a “Study in Ideal Form”: the body is beautifully shaped and framed by the conventions of art. The people in pornographic images are not nude, but naked. They are deprived of clothes, and as such exposed in an embarrassing way. Furthermore, while the Titian nude retains a detached serenity, pornography arouses the viewer, which is always “an aesthetic defect, a ‘fall’ into another kind of interest than that which has beauty as its target” (2009: 160).
+    step1: |-
+      斯克鲁顿指出，色情再现是露骨的，充满解剖细节；而情色艺术作品依靠暗示，并且不把注意力集中在某些身体部位上，而力图捕捉所描绘者的个体性、人格与主体性。例如在提香（Titian）的*Venus of Urbino*（《乌尔比诺的维纳斯》，1538）中，成为注意力焦点的不是性器官，而是作为“灵魂之窗”的面孔（1986: 154, 2005: 11, 2009: 149）。相形之下，一幅色情图像“像一根魔杖，把主体变成客体，把人变成物——从而使其祛魅，摧毁其美的源泉”（2009: 163）。作为其恢复美之中心地位这一工程的一部分，斯克鲁顿还诉诸肯尼思·克拉克（Kenneth Clark，1956）使之闻名的“裸体”（the nude）与“赤裸”（the naked）之分。艺术性的裸体，正如克拉克该书副标题所示，是一种“理想形式的研究”：身体被艺术惯例塑造、框定得优美。色情图像中的人不是裸体，而是赤裸：他们被剥去衣服，因而以令人难堪的方式暴露。此外，提香的裸体保持着一种超然的宁静，色情则挑动观者——而这始终是一种“审美缺陷，是‘跌落’到以美为目标的那种利害之外的另一类利害之中”（2009: 160）。
+    step2: |-
+      斯克鲁顿指出，色情再现是露骨的，充斥解剖细节；情色艺术作品则靠暗示，不把镜头对准某些身体部位，而努力捕捉所绘之人的个体性、人格与主体性。以提香（Titian）的*Venus of Urbino*（《乌尔比诺的维纳斯》，1538）为例，占据注意力焦点的并非性器官，而是作为“灵魂之窗”的脸（1986: 154, 2005: 11, 2009: 149）。色情图像则相反，“像一根魔杖，把主体点成客体，把人点成物——于是为其祛魅，毁掉其美的源头”（2009: 163）。在把美重新扶回审美与艺术之中心这一工程中，斯克鲁顿还借用了肯尼思·克拉克（Kenneth Clark，1956）使之著称的“裸体”（the nude）与“赤裸”（the naked）之别。艺术上的裸体，正如克拉克那本书的副标题所示，是“理想形式之研究”：身体经艺术惯例塑形、取景，显得优美。色情图像里的人不是裸体，而是赤裸：衣服被剥去，于是以令人难堪的方式暴露。再者，提香的裸体保持着一种超然的宁静，色情却挑动观者，而这始终是一种“审美缺陷，是‘跌落’进另一类利害——以美为目标的那种利害之外的利害”（2009: 160）。
+  - id: 80
+    kind: body
+    source: |-
+      Levinson also wishes to separate erotic art from pornography in terms of the kind of response they call for, yet his argument is markedly different from Scruton’s. Here’s a summary of Levinson’s argument:
+    step1: |-
+      莱文森也想按所要求的反应类型把情色艺术与色情分开，但他的论证与斯克鲁顿明显不同。以下是莱文森论证的概述：
+    step2: |-
+      莱文森也想按二者所要求的反应类型来区分情色艺术与色情，但论证路数与斯克鲁顿大不相同。莱文森的论证可概述如下：
+  - id: 81
+    kind: body
+    source: |-
+      1. Erotic art consists of images centrally aimed at a certain sort of reception (R1).
+      2. Pornography consists of images centrally aimed at a certain sort of reception (R2).
+      3. R1 essentially involves attention to form/vehicle/medium/manner, and so entails treating images as in part opaque.
+      4. R2 essentially excludes attention to form/vehicle/medium/manner, and so entails treating images as wholly transparent.
+      5. R1 and R2 are incompatible.
+      6. Hence, nothing can be both erotic art and pornography; or at the least, nothing can be coherently projected as both erotic art and pornography; or at the very least, nothing can succeed as erotic art and pornography at the same time. (2005: 239)
+    step1: |-
+      1. 情色艺术由主要旨在某种接受方式（R1）的图像构成。
+      2. 色情由主要旨在某种接受方式（R2）的图像构成。
+      3. R1 本质上涉及对形式/载体/媒介/方式的注意，因而要求把图像在某种程度上视为不透明的。
+      4. R2 本质上排斥对形式/载体/媒介/方式的注意，因而要求把图像视为完全透明的。
+      5. R1 与 R2 不相容。
+      6. 因此，没有任何东西能同时既是情色艺术又是色情；或者至少，没有任何东西能被融贯地筹划为二者；或者最宽松地说，没有任何东西能同时作为情色艺术与色情而成功。（2005: 239）
+    step2: |-
+      1. 情色艺术由主要以某类接受方式（R1）为目标的图像构成。
+      2. 色情由主要以某类接受方式（R2）为目标的图像构成。
+      3. R1 本质上要求注意形式/载体/媒介/手法，因而要求把图像在某种程度上看作不透明的。
+      4. R2 本质上排除对形式/载体/媒介/手法的注意，因而要求把图像看作完全透明的。
+      5. R1 与 R2 互不相容。
+      6. 所以，没有任何东西能既是情色艺术又是色情；或者至少，没有任何东西能被融贯地设计为二者；或者退一步说，没有任何东西能同时成功地充当情色艺术与色情。（2005: 239）
+  - id: 82
+    kind: body
+    source: |-
+      Elsewhere in the article Levinson makes it clear that by “R1” he means aesthetic delight or aesthetic experience and that “R2” refers to sexual arousal and release:
+    step1: |-
+      在该文别处，莱文森明确指出，“R1”指审美愉悦或审美经验，“R2”指性唤起与性释放：
+    step2: |-
+      在文章别处，莱文森讲明了：“R1”指审美愉悦或审美经验，“R2”指性唤起与性释放：
+  - id: 83
+    kind: body
+    source: |-
+      > the aims of true pornography and the aims of art, erotic art included, are not compatible, but war against one another (…). One induces you, in the name of arousal and release, to ignore the representation so as to get at the represented, the other induces you, in the name of aesthetic delight, to dwell on the representation. (2005: 234)
+    step1: |-
+      > 真正的色情与艺术（包括情色艺术）的目的并不相容，而是彼此交战（……）。一个以唤起与释放之名，诱你无视再现，以便直达所再现者；另一个以审美愉悦之名，诱你流连于再现。（2005: 234）
+    step2: |-
+      > 真正的色情与艺术（情色艺术也在内）目的并不相容，反倒彼此开战（……）。一方以唤起和释放之名，诱你撇开再现，直奔所再现之物；另一方以审美愉悦之名，诱你盘桓于再现本身。（2005: 234）
+  - id: 84
+    kind: body
+    source: |-
+      This has been the single most influential argument in recent debates on the relation between erotic art and pornography, winning many supporters (Matthen 2011; Nanay 2012; Neill 2012)[^matthen-2011][^nanay-2012][^neill-2012] but also attracting a substantial amount of criticism (see, for instance, Kania 2012; Davies 2012; van Brabandt and Prinz 2012; Patridge 2013)[^davies-2012][^kania-2012][^patridge-2013]. While one may want to challenge some of Levinson’s premises (as Maes 2009 does in a systematic way)[^maes-2009], one could also question whether his rather radical conclusion really follows from said premises. After all, it seems that one *can* (coherently and successfully) aim at incompatible audience responses, as long as one does not expect these responses to be elicited at the same time, in the same audience (see Maes 2011)[^maes-2011].
+    step1: |-
+      这是晚近关于情色艺术与色情之关系的争论中最有影响的一个论证，赢得许多支持者（Matthen 2011; Nanay 2012; Neill 2012）[^matthen-2011][^nanay-2012][^neill-2012]，也招来大量批评（例如见 Kania 2012; Davies 2012; van Brabandt and Prinz 2012; Patridge 2013）[^davies-2012][^kania-2012][^patridge-2013]。人们既可以质疑莱文森的某些前提（如 Maes 2009 所做的那样，系统地质疑）[^maes-2009]，也可以追问：他那颇为激进的结论是否真的能从这些前提推出。毕竟，只要不指望相互冲突的受众反应在同一受众、同一时刻被唤起，人似乎*can*（能够）（融贯地、成功地）瞄准不相容的受众反应（见 Maes 2011）[^maes-2011]。
+    step2: |-
+      在晚近关于情色艺术与色情之关系的争论中，这是影响最大的一个论证，支持者众多（Matthen 2011; Nanay 2012; Neill 2012）[^matthen-2011][^nanay-2012][^neill-2012]，招来的批评也不少（例如见 Kania 2012; Davies 2012; van Brabandt and Prinz 2012; Patridge 2013）[^davies-2012][^kania-2012][^patridge-2013]。人们可以质疑莱文森的某些前提（Maes 2009 就作了系统质疑）[^maes-2009]，也可以追问：他那相当激进的结论是否真能从这些前提推出来。说到底，只要不要求相互冲突的受众反应在同一受众身上、同一时刻被唤起，人似乎*can*（能够）融贯而成功地瞄准互不相容的受众反应（见 Maes 2011）[^maes-2011]。
+  - id: 85
+    kind: body
+    source: |-
+      As opposed to key representatives of modern aesthetics, both Levinson and Scruton have no problem acknowledging the existence of erotic art. However, they do object very strongly to the possibility of there being pornographic art, and it’s not hard to discern in their respective objections—which rely on notions such as beauty, contemplation, ideal form, aesthetic experience—the remnants and residual influence of modern aesthetics. This is less obvious in Christy Mag Uidhir’s attempt to draw a line between pornography and art. While Scruton insists on the controversial connection between art and beauty, and Levinson builds his case on the idea that a work of art’s main purpose is to produce an aesthetic experience and draw attention to its own formal features, Mag Uidhir’s argument does not rely on any such substantial claims. He does not even claim that art has or should have a purpose. Mag Uidhir asks us only to accept that *if* a work of art has a purpose, including perhaps the purpose of sexual titillation as is the case in erotic art, then that purpose must be manner specific. Here’s how he arrives at his exclusivist position (2009: 194):
+    step1: |-
+      与现代美学的主要代表不同，莱文森与斯克鲁顿都乐于承认情色艺术的存在。然而他们极为强烈地反对色情艺术存在的可能性；从他们各自的反对中——这些反对依赖美、沉思、理想形式、审美经验等观念——不难辨认出现代美学的残余与余威。这一点在克里斯蒂·马格·乌伊迪尔试图在色情与艺术之间划线时就不那么明显了。斯克鲁顿坚持艺术与美之间有争议的关联，莱文森则以“艺术作品的主要目的在于产生审美经验并使人注意其自身形式特征”为立论基础，而马格·乌伊迪尔的论证不依赖任何此类实质主张。他甚至不主张艺术有或应当有目的。马格·乌伊迪尔只要求我们接受：*if*（如果）一件艺术作品有目的，包括情色艺术那种性挑逗的目的，那么这个目的必须是方式特定的。下面是他得出排他主义立场的方式（2009: 194）：
+    step2: |-
+      与现代美学的主要代言人不同，莱文森与斯克鲁顿都不否认情色艺术的存在。可他们又极强烈地否认色情艺术可能存在；而在他们各自的反对意见里——这些意见倚重美、沉思、理想形式、审美经验等观念——不难辨出现代美学的残迹与余威。到了克里斯蒂·马格·乌伊迪尔试图给色情与艺术划线时，这一点就不那么显眼了。斯克鲁顿固守艺术与美之间那个颇有争议的联结，莱文森则立论于“艺术作品的主要目的在于产生审美经验、让人注意自身的形式特征”；马格·乌伊迪尔却不用任何这类实质主张。他甚至不说艺术有目的或应当有目的。他只请我们接受一点：*if*（假如）一件艺术作品有目的——包括情色艺术那种性挑逗的目的——那么这目的必须是方式特定的。他由此得出排他主义立场，步骤如次（2009: 194）：
+  - id: 86
+    kind: body
+    source: |-
+      1. If something is pornography, then that something has the purpose of sexual arousal (of some audience).
+      2. If something is pornography, then that something has the purpose of sexual arousal and that purpose is manner inspecific.
+      3. If something is art, then if that something has a purpose, then that purpose is manner specific.
+      4. If something is art, then if that something has the purpose of sexual arousal, then that purpose is manner specific.
+      5. A purpose cannot be both manner specific and manner inspecific.
+      6. Therefore, if something is pornography, then it is not art.
+    step1: |-
+      1. 如果某物是色情，那么该物具有（对某受众的）性唤起这一目的。
+      2. 如果某物是色情，那么该物具有性唤起这一目的，且该目的是方式非特定的。
+      3. 如果某物是艺术，那么若该物有目的，则该目的是方式特定的。
+      4. 如果某物是艺术，那么若该物具有性唤起这一目的，则该目的是方式特定的。
+      5. 一个目的不可能既方式特定又方式非特定。
+      6. 因此，如果某物是色情，那么它就不是艺术。
+    step2: |-
+      1. 某物若是色情，则它具有（对某受众的）性唤起目的。
+      2. 某物若是色情，则它具有性唤起目的，而这个目的是方式非特定的。
+      3. 某物若是艺术，则只要它有目的，这个目的就是方式特定的。
+      4. 某物若是艺术，则只要它具有性唤起目的，这个目的就是方式特定的。
+      5. 一个目的不可能同时既方式特定又方式非特定。
+      6. 故：某物若是色情，它就不是艺术。
+  - id: 87
+    kind: body
+    source: |-
+      For a purpose to be manner specific, according to Mag Uidhir, is for it to be essentially constituted both by an action (or state of affairs) and a manner, such that the purpose is to perform that action (or bring about that state of affairs) in that particular manner. A purpose is manner inspecific, on the other hand, if failure to perform the action (or bring about the state of affairs) in the prescribed manner does not necessarily constitute failure to satisfy the purpose.
+    step1: |-
+      按马格·乌伊迪尔，一个目的要成为方式特定的，就是它本质上由某一行动（或事态）与某一方式共同构成，以致其目的在于以那种特定方式施行该行动（或造成该事态）。另一方面，如果未能以规定方式施行该行动（或造成该事态）并不必然构成对该目的的满足的失败，那么该目的就是方式非特定的。
+    step2: |-
+      马格·乌伊迪尔说，一个目的成为方式特定的，是指它本质上由某个行动（或事态）连同一种方式共同构成，其要旨在于以那种特定方式去做那个行动（或造成那个事态）。反过来，若没有按规定方式去做（或造成），并不必然意味着该目的落空，那么这个目的就是方式非特定的。
+  - id: 88
+    kind: body
+    source: |-
+      Mag Uidhir’s approach is markedly different from Scruton’s and Levinson’s. Still, regarding the central issue, he aligns himself squarely with other sceptics. He, too, thinks that artists or pornographers attempting to produce something that is both (erotic) art and pornography, in fact attempt the impossible. However, recent critics of Mag Uidhir have raised doubts about his second premise (Davies 2012; Patridge 2013)[^davies-2012][^patridge-2013], as well as the general validity of his argument (Maes 2012)[^maes-2012][^maes-2012-2]. These critics belong to a growing number of philosophers who find exclusivists’ arguments unconvincing and argue for the existence of pornographic art as a subclass of erotic art (Kieran 2001, van Brabandt and Prinz 2012, Fokt 2012)[^fokt-2012][^kieran-2001].
+    step1: |-
+      马格·乌伊迪尔的进路与斯克鲁顿、莱文森明显不同。但在核心问题上，他与别的怀疑者完全站在一起。他也认为，试图创作既是（情色）艺术又是色情之作的艺术家或色情作者，实际上是在尝试不可能之事。然而，晚近批评马格·乌伊迪尔的人对其第二个前提（Davies 2012; Patridge 2013）[^davies-2012][^patridge-2013]以及其论证的普遍有效性（Maes 2012）[^maes-2012][^maes-2012-2]提出了疑问。这些批评者属于一个日益壮大的哲学家群体：他们觉得排他主义者的论证不能服人，并主张色情艺术作为情色艺术的一个子类而存在（Kieran 2001, van Brabandt and Prinz 2012, Fokt 2012）[^fokt-2012][^kieran-2001]。
+    step2: |-
+      马格·乌伊迪尔的路径与斯克鲁顿、莱文森判然有别，但在核心问题上，他与别的怀疑者站得一样稳：他也认为，那些想创作既是（情色）艺术又是色情之作的艺术家或色情制作者，其实是在做不可能的事。不过，近来批评他的人对他的第二个前提（Davies 2012; Patridge 2013）[^davies-2012][^patridge-2013]，以及整个论证的普遍有效性（Maes 2012）[^maes-2012][^maes-2012-2]，都提出了疑问。这些批评者属于一个日渐壮大的阵营：他们不认排他主义者的账，主张色情艺术作为情色艺术的一个子类而存在（Kieran 2001, van Brabandt and Prinz 2012, Fokt 2012）[^fokt-2012][^kieran-2001]。
+  - id: 89
+    kind: body
+    source: |-
+      ## 4. Erotic Art vs Pornography: Beyond Aesthetics
+    step1: |-
+      ## 4. 情色艺术与色情：超越美学
+    step2: |-
+      ## 4. 情色艺术与色情：超越美学
+  - id: 90
+    kind: body
+    source: |-
+      Besides aesthetics, there are at least two other areas of academic study where the distinction between erotic art and pornography has been at the centre of serious philosophical debate: feminist theory and art history.
+    step1: |-
+      除美学之外，至少还有两个学术领域把情色艺术与色情的区分当作严肃哲学争论的中心：女性主义理论与艺术史。
+    step2: |-
+      除去美学，至少还有两个学术领域把情色艺术与色情的区分置于严肃哲学争论的中心：女性主义理论与艺术史。
+  - id: 91
+    kind: body
+    source: |-
+      ### 4.1 Erotic Art, Art History, and the Cultural History of Pornography
+    step1: |-
+      ### 4.1 情色艺术、艺术史与色情文化史
+    step2: |-
+      ### 4.1 情色艺术、艺术史与色情文化史
+  - id: 92
+    kind: body
+    source: |-
+      Art historians who write about erotic art are often quite anxious to draw a strict dividing line between “high brow” erotic art and “low brow” pornography. Kenneth Clark, mentioned earlier, famously stated to the Longford Committee Investigating Pornography:
+    step1: |-
+      撰写情色艺术的艺术史家，往往急于在“高雅”情色艺术与“低俗”色情之间划一条严格界线。前面提到的肯尼思·克拉克在向调查色情的朗福德委员会作证时有一句名言：
+    step2: |-
+      写情色艺术的艺术史家，常常急于在“高雅”的情色艺术与“低俗”的色情之间划一道严格的线。前面提到的肯尼思·克拉克在向调查色情问题的朗福德委员会作证时，说过一句名言：
+  - id: 93
+    kind: body
+    source: |-
+      > To my mind art exists in the realm of contemplation … the moment art becomes an incentive to action it loses its true character. (Longford 1972: 280)[^longford-1972]
+    step1: |-
+      > 在我看来，艺术存在于沉思的领域……一旦艺术成为行动的诱因，它就失去了其真正品格。（Longford 1972: 280）[^longford-1972]
+    step2: |-
+      > 在我看来，艺术存在于沉思的领域……艺术一旦变成行动的诱因，便失掉了它真正的品格。（Longford 1972: 280）[^longford-1972]
+  - id: 94
+    kind: body
+    source: |-
+      This was his main objection to pornography: that it was in essence an incentive to sexual acts. However, as a justification for the radical separation of art and pornography this will not do. For one thing, Clark seems to overlook the fact that there are numerous religious or politically inspired masterpieces that call on people to change their lives or perform certain actions (the *Isenheim Altarpiece*, 1512–16, or Delacroix’s *Liberty Leading the People*, 1830, come to mind).
+    step1: |-
+      这就是他反对色情的主要理由：色情本质上是性行为的诱因。然而，以此作为彻底分离艺术与色情的理由，并不成立。首先，克拉克似乎忽略了一点：有大量宗教或政治灵感之作呼吁人们改变生活或采取某些行动（《伊森海姆祭坛画》（*Isenheim Altarpiece*，1512–16）或德拉克洛瓦（Delacroix）的*Liberty Leading the People*（《自由引导人民》，1830）便是例子）。
+    step2: |-
+      这正是他反对色情的主要理由：色情本质上是性行为的诱因。可拿它来论证艺术与色情的彻底分离，却站不住。其一，克拉克似乎忘了，有大量宗教或政治灵感催生的杰作，恰恰在召唤人们改变生活、去做某些事（《伊森海姆祭坛画》（*Isenheim Altarpiece*，1512–16）和德拉克洛瓦（Delacroix）的*Liberty Leading the People*（《自由引导人民》，1830）就是例子）。
+  - id: 95
+    kind: body
+    source: |-
+      This brings us to another rationale for separating erotic art and pornography that is very popular among art historians (and is somewhat reminiscent of Dutton’s expressed reservations towards eroticism in art). Art is necessarily multi-layered, it is argued, whereas pornography is one-dimensional; it has only one job to do and therefore lacks the formal and structural intricacy, the cognitive complexity, and interpretive openness of art (see, for example, Webb 1975: 6; Mahon 2005: 14; Wallace et al. 2007: 15)[^mahon-2005][^wallace-2007][^webb-1975]. But while the *Isenheim Altarpiece* and *Liberty Leading the People* may indeed be very complex works, there is good reason to believe that the insistence on the simplicity of pornography is itself the result of an oversimplification. Let us examine this claim in more detail.
+    step1: |-
+      这把我们引向艺术史家非常青睐的另一个分离理由（它与达顿对艺术中情色所表达的保留有些相似）。有人论证说，艺术必然是多重层次的，而色情是单维的；色情只有一项工作要做，因而缺乏艺术那种形式与结构的精巧、认知的复杂与解释的开放性（例如见 Webb 1975: 6; Mahon 2005: 14; Wallace et al. 2007: 15）[^mahon-2005][^wallace-2007][^webb-1975]。然而，尽管《伊森海姆祭坛画》与*Liberty Leading the People*（《自由引导人民》）确实可能是非常复杂的作品，却有充分理由相信，坚持色情之简单性本身就是过度简化的结果。让我们更细致地考察这一主张。
+    step2: |-
+      由此便引出艺术史家很爱用的另一条分离理由（它与达顿对艺术中情色的保留多少相似）。有人论证说，艺术必然是多层的，色情则是单维的：色情只消完成一项任务，因而缺少艺术那种形式与结构上的精巧、认知上的复杂与解释上的开放（例如见 Webb 1975: 6; Mahon 2005: 14; Wallace et al. 2007: 15）[^mahon-2005][^wallace-2007][^webb-1975]。然而，《伊森海姆祭坛画》和*Liberty Leading the People*（《自由引导人民》）固然可能是极复杂的作品，我们却有充分理由相信，一口咬定色情之简单，本身就是一种过度简化。下面就细看这一主张。
+  - id: 96
+    kind: body
+    source: |-
+      (1) *A simple purpose?* It is tempting to think of pornography as having only one, very rudimentary purpose: sexual arousal of the audience. But a look at very early pornographic works, those that were produced in France and England between 1500 and 1800, shows how misleading that conception is. Almost all pornographic works of that era deliberately used the shock of sex to criticize religious and political authorities (Hunt 1996: 35)[^hunt-1996]. With their truth-telling trope they were meant to function as a powerful antidote to the many forms of repression in society and often had the explicit aim to educate people about politics, religion, society, and of course, sex (Lubey 2022)[^lubey-2022]. It is not a coincidence that these books were known in 18th century France as “livres philosophiques” (they were considered just as dangerous to society as philosophical treatises) and that the rise in pornography around 1740 coincided with the hey-day of the Enlightenment (Hunt 1996; Darnton 1995)[^darnton-1995][^hunt-1996]. Quite a few of the pornographic novels of that time even carried the term “philosophy” in the title (think of Sade’s *La Philosophie dans le Boudoir*, 1795) and some of them were actually written by prominent philosophers who were keen to use this extremely popular genre to divulge some of their ideas to the masses (think of Diderot’s *Les Bijoux Indiscrets*, 1748).
+    step1: |-
+      (1) *A simple purpose?*（目的单一？）人们很容易把色情想成只有一项极为基本的目的：唤起受众的性欲。但只要看一看很早的色情作品——1500 至 1800 年间在法国与英国生产的那些——就会发现这种想法多么误导。那个时代几乎所有色情作品都刻意用性的震撼来批评宗教与政治权威（Hunt 1996: 35）[^hunt-1996]。凭借其“讲真话”的修辞，它们意在充当对抗社会种种压抑的有力解药，并且常常明确以教育人们政治、宗教、社会以及当然还有性为目标（Lubey 2022）[^lubey-2022]。这些书在十八世纪的法国被称为“livres philosophiques”（哲学书），并非偶然（它们被认为与哲学论著一样对社会危险）；而 1740 年前后色情的兴起恰与启蒙运动的鼎盛同时（Hunt 1996; Darnton 1995）[^darnton-1995][^hunt-1996]。当时不少色情小说甚至在书名里带有“哲学”一词（想想萨德的*La Philosophie dans le Boudoir*（《闺房哲学》，1795）），其中一些确实出自知名哲学家之手，他们急于利用这一极受欢迎的体裁向大众透露自己的一些想法（想想狄德罗的*Les Bijoux Indiscrets*（《泄露真情的首饰》，1748））。
+    step2: |-
+      (1) *A simple purpose?*（目的单一？）人们容易把色情想象成只抱一项极粗浅的目的：唤起受众的性欲。但只要看看早期的色情作品——1500 至 1800 年间法国与英国印行的那些——就会发现这种想法有多误导。那个时代几乎所有色情作品都刻意借性的震撼去批判宗教与政治权威（Hunt 1996: 35）[^hunt-1996]。它们打着“讲真话”的旗号，意在充当对抗社会各种压抑的强效解药，而且往往明目张胆地以教诲政治、宗教、社会乃至性为目标（Lubey 2022）[^lubey-2022]。这些书在十八世纪的法国被称为“livres philosophiques”（哲学书），绝非偶然（它们被看得同哲学论著一样对社会有害）；而 1740 年前后色情作品的兴起，恰逢启蒙运动的鼎盛（Hunt 1996; Darnton 1995）[^darnton-1995][^hunt-1996]。当时颇有一些色情小说在书名里就带着“哲学”二字（不妨想想萨德的*La Philosophie dans le Boudoir*（《闺房哲学》，1795）），其中还有些确实出自知名哲学家之手，他们急着借这个极受欢迎的体裁向大众透露自己的若干想法（想想狄德罗的*Les Bijoux Indiscrets*（《泄露真情的首饰》，1748））。
+  - id: 97
+    kind: body
+    source: |-
+      In one of the most notorious examples of the genre, *Thérèse Philosophe* (1748), written by the philosopher Jean-Baptiste de Boyer, Marquis d’Argens, a great variety of copulations is used to communicate what is in essence a materialist and mechanistic metaphysics. In anonymous bedrooms, bodies brought together by individual need and interest collide just like the atoms of the natural philosophers (Jacob 1996: 160)[^jacob-1996]. And the bodies themselves are described as machines powered by the relentless motion inherent in matter, by passions they cannot control:
+    step1: |-
+      在这一体裁最臭名昭著的例子之一《哲学家泰蕾兹》（*Thérèse Philosophe*，1748）中——作者是哲学家让-巴蒂斯特·德·布瓦耶·达尔让侯爵（Jean-Baptiste de Boyer, Marquis d’Argens）——形形色色的交合被用来传达一种本质上是唯物主义与机械论式的形而上学。在匿名的卧室里，被个人需要与利益聚拢到一起的身体相互碰撞，正如自然哲学家们的原子（Jacob 1996: 160）[^jacob-1996]。而身体本身被描述为由物质固有的不息运动、由它们无法控制的激情所驱动的机器：
+    step2: |-
+      在这一体裁最声名狼藉的作品之一《哲学家泰蕾兹》（*Thérèse Philosophe*，1748；作者为哲学家让-巴蒂斯特·德·布瓦耶·达尔让侯爵（Jean-Baptiste de Boyer, Marquis d’Argens））里，五花八门的交媾被用来传达一套骨子里属于唯物主义与机械论的形而上学。在无名无姓的卧房里，身体被各自的需要与利益推到一起，彼此碰撞，正如自然哲学家的原子（Jacob 1996: 160）[^jacob-1996]。身体本身则被写成机器，由物质固有的不息运动、由人所无法支配的激情驱动：
+  - id: 98
+    kind: body
+    source: |-
+      > The arrangement of our organs, the disposition of our fibers, a certain movement of our fluids, all determine the type of passions which work upon us, directing our reason and our will in the smallest as well as the greatest actions we perform. (*Thérèse Philosophe*, excerpted in Darnton 1995: 100)[^darnton-1995]
+    step1: |-
+      > 我们器官的构造、纤维的排列、体液的某种运动，都决定了作用于我们的激情的类型，在我们所施行的一切行动——无论最微小还是最重大——中支配着我们的理性与意志。（《哲学家泰蕾兹》，转引自 Darnton 1995: 100）[^darnton-1995]
+    step2: |-
+      > 我们器官的构造、纤维的排布、体液的某种流动，决定了何种激情会作用于我们，并在我们所做的一切事——无论巨细——当中支配我们的理性与意志。（《哲学家泰蕾兹》，转引自 Darnton 1995: 100）[^darnton-1995]
+  - id: 99
+    kind: body
+    source: |-
+      Or, as the main character herself observes:
+    step1: |-
+      或者，如主人公自己所说：
+    step2: |-
+      或者，用女主人公自己的话说：
+  - id: 100
+    kind: body
+    source: |-
+      > Men and women couple like machines. Love for them is a tingling in the epidermis, a surge of liquids, a rush of particles through the fibers, and nothing more. (*Thérèse Philosophe*, excerpted in Leemans 2002: 257)[^leemans-2002]
+    step1: |-
+      > 男人与女人像机器一样交合。对他们来说，爱不过是表皮上的一阵刺痒、体液的涌起、粒子在纤维间的奔突，如此而已。（《哲学家泰蕾兹》，转引自 Leemans 2002: 257）[^leemans-2002]
+    step2: |-
+      > 男女交合，如同机器。对他们而言，爱不过是表皮上的一阵酥麻、体液的一阵奔涌、微粒在纤维间的一阵穿行，如此而已。（《哲学家泰蕾兹》，转引自 Leemans 2002: 257）[^leemans-2002]
+  - id: 101
+    kind: body
+    source: |-
+      (2) *Formal and structural simplicity?* Pornography of the enlightenment era also serves to tackle another misconception. It has been argued that, because the main aim of pornographers is to sexually arouse the audience, they are forced to include as many sexually explicit scenes as possible, leaving precious little room for plot development or formal intricacies (Steiner 1975)[^steiner-1975]. The pornographer “concocts no better than a crude excuse for a beginning; and once having begun, it goes on and on and ends nowhere” (Sontag 1994: 39)[^sontag-1994]. Pornography, as Adorno already noted, lacks the beginning-middle-end form characteristic of literature (Sontag 1994: 39)[^sontag-1994]. Yet, again, this gives us far from a waterproof criterion for distinguishing erotic literature from pornography. For instance, the structural complexity of the pornographic novel, *Histoire de Dom B… Portier des Chartreux* (1741), with its embedded stories and variety of narrators, has often been noted by scholars (Frappier-Mazur 1996: 211)[^frappier-mazur-1996]. The careful composition of *Thérèse*, where the author has arranged the parts to maximize the refraction, so that wherever the reader turns he seems to see throbbing sexuality, provides another counterexample (Darnton 1995)[^darnton-1995].
+    step1: |-
+      (2) *Formal and structural simplicity?*（形式与结构简单？）启蒙时代的色情还用来破除另一个误解。有人论证说，由于色情作者的旨在于性唤起受众，他们被迫塞进尽可能多的露骨性场面，留给情节发展或形式精巧的空间少得可怜（Steiner 1975）[^steiner-1975]。色情作者“所编造的开头，不过是个粗劣的借口；而一旦开了头，它就没完没了地继续下去，最后不知终结于何处”（Sontag 1994: 39）[^sontag-1994]。正如阿多诺早已指出，色情缺少文学那种“开头—中段—结尾”的形式（Sontag 1994: 39）[^sontag-1994]。然而，这远不足以成为区分情色文学与色情的可靠标准。例如，学者们常常提到色情小说《沙特勒兹修道院守门人多姆·B 的故事》（*Histoire de Dom B… Portier des Chartreux*，1741）的结构复杂性：它嵌套着故事，叙述者也多种多样（Frappier-Mazur 1996: 211）[^frappier-mazur-1996]。《哲学家泰蕾兹》的精心布局提供了另一个反例：作者安排各部分以最大化折射效果，使读者无论转向何处，似乎都看见搏动的性（Darnton 1995）[^darnton-1995]。
+    step2: |-
+      (2) *Formal and structural simplicity?*（形式与结构简单？）启蒙时期的色情作品还能破除另一个成见。有人论证说，色情作者既以性唤起受众为首要目标，就不得不尽量多塞露骨性场面，留给情节铺展或形式雕琢的余地少得可怜（Steiner 1975）[^steiner-1975]。色情作者“编出来的开头，顶多是个粗劣的由头；一旦开了头，便一路拖下去，最后不知在哪里收场”（Sontag 1994: 39）[^sontag-1994]。阿多诺早已指出，色情缺少文学那种“起—承—合”的格局（Sontag 1994: 39）[^sontag-1994]。可是，这远不足以充当区分情色文学与色情的牢靠标准。举例说，学者们常提到色情小说《沙特勒兹修道院守门人多姆·B 的故事》（*Histoire de Dom B… Portier des Chartreux*，1741）的结构之复杂：其中套着故事，叙述者也不止一个（Frappier-Mazur 1996: 211）[^frappier-mazur-1996]。《哲学家泰蕾兹》的精心布局又是一个反例：作者把各部分安排得折射效果最大化，读者无论转到哪里，眼前似乎都是搏动的性（Darnton 1995）[^darnton-1995]。
+  - id: 102
+    kind: body
+    source: |-
+      (3) *One-dimensional in its effect on the audience?* It could be thought that sexual arousal is such a powerful, bodily state that it must block out all other functions, most notably our cognitive faculties. Levinson claims that this is precisely what distinguishes sexual arousal from sexual stimulation, which he thinks is *not* incompatible with the cognitive activity required for aesthetic appreciation (2005: 232). Other philosophers have challenged this controversial distinction (Blackburn 2006: 52; Maes 2012)[^blackburn-2006][^maes-2012][^maes-2012-2]. Moreover, even if one were to accept the animal-like nature of sexual arousal, that does not mean that it cannot be cognitively rewarding and artistically appropriate. As one commentator of Cleland’s *Fanny Hill* notes:
+    step1: |-
+      (3) *One-dimensional in its effect on the audience?*（对受众的影响单维？）人们可能以为，性唤起是如此强烈、如此身体化的状态，必定会屏蔽其他一切功能，尤其是我们的认知能力。莱文森声称，这正是性唤起与性刺激的区别所在，而他认为性刺激*not*（并非）与审美欣赏所需的认知活动不相容（2005: 232）。其他哲学家对这一有争议的区分提出了质疑（Blackburn 2006: 52; Maes 2012）[^blackburn-2006][^maes-2012][^maes-2012-2]。此外，即便接受性唤起的动物性，也并不意味着它不可能在认知上有收获、在艺术上恰如其分。正如克莱兰《范妮·希尔》（*Fanny Hill*）的一位评论者所指出：
+    step2: |-
+      (3) *One-dimensional in its effect on the audience?*（对受众的作用是单维的？）有人也许以为，性唤起是那么强烈、那么身体化的状态，必定把别的功能统统压住，尤其会压住认知能力。莱文森就说，性唤起与性刺激的区别正在于此，而他认为性刺激*not*（并非）与审美欣赏所需的认知活动相冲突（2005: 232）。另一些哲学家对这个颇有争议的区分提出质疑（Blackburn 2006: 52; Maes 2012）[^blackburn-2006][^maes-2012][^maes-2012-2]。而且，就算承认性唤起带有动物性，也不等于说它不能在认知上有所收获、在艺术上恰如其分。克莱兰《范妮·希尔》（*Fanny Hill*）的一位评论者就说得好：
+  - id: 103
+    kind: body
+    source: |-
+      > The stimulus of reading a scene in *Fanny Hill* makes in the reader’s own nature the point made in the text. The reader may be moved to reconsider the merits of stoicism, revaluate the powers of the mind to control the body, reread his Descartes and think again of the dividing line between mind and the bête-machine. (Braudy 1991: 85)[^braudy-1991]
+    step1: |-
+      > 阅读《范妮·希尔》中一个场景所带来的刺激，在读者自己的天性中造成了文本所要表达的那一点。读者可能因此重新考虑斯多亚主义的可取之处，重新评估心灵控制身体的力量，重读他的笛卡尔，并重新思考心灵与“动物机器”之间的分界线。（Braudy 1991: 85）[^braudy-1991]
+    step2: |-
+      > 读《范妮·希尔》里某个场景时所受的刺激，会在读者自己的天性里造出文本所要表明的那一点。读者也许会因此重新掂量斯多亚主义的可取之处，重新评估心灵驾驭身体的力量，重读他的笛卡尔，重新思量心灵同“动物机器”之间的界限。（Braudy 1991: 85）[^braudy-1991]
+  - id: 104
+    kind: body
+    source: |-
+      (4) *Simple to interpret?* While questions of interpretation arise frequently in relation to works of erotic art, people rarely seem to have interpretive qualms where pornography is concerned. Indeed, if an interpretation typically attempts to account for those elements in a work whose presence is not immediately obvious to the target audience (Carroll 2009)[^carroll-2009], there may seem no need for an interpretation in the case of pornography since it is all too obvious why such films or novels include one sexually explicit scene after another. Still, here too it is important not to jump to conclusions. There are (at least) two different kinds of interpretative projects one could engage in, each with its own set of lead questions. “What is the work about?” is one question one could ask. Another question is “What does the work reveal about the author or the time, place, culture, society in which it was made?” While the former is central to the discipline of art criticism, the latter question will usually be the starting point of interpretations offered by cultural historians, sociologists, psychoanalysts. These latter interpretations, where pornography is concerned, will be everything but simple given the incredible complexity of the pornographic landscape with its huge catalogue of taboos, body types, sex acts, and other things that get people’s blood flowing. Pornography offers us, in the words of Laura Kipnis, “the royal road to the cultural psyche” (2006: 118) and as such can prove to be a gold mine for interpretations. The other question—What is the work about?—seems less pertinent, especially in relation to the formulaic and repetitive video clips one finds on porn websites. Nevertheless, there are other types of pornography where issues about meaning and “aboutness” do seem highly relevant, such as the philosophical pornography mentioned above and the feminist pornography that will be discussed in the next section.
+    step1: |-
+      (4) *Simple to interpret?*（解释简单？）尽管在情色艺术作品中解释问题频繁出现，人们在色情那里却似乎很少有为解释犯难的时候。的确，如果一种解释通常旨在说明作品中那些对目标受众而言并非一目了然的成分（Carroll 2009）[^carroll-2009]，那么在色情那里似乎就不需要解释，因为这些影片或小说为何一个接一个地塞入露骨性场面，实在太过明显。不过，这里同样不可遽下结论。人至少可以从事两类不同的解释工程，各有其主导问题。“这部作品讲的是什么？”是可以问的一个问题。另一个问题是：“这部作品揭示了它的作者、或它的时代、地方、文化、社会的什么？”前者是艺术批评学科的中心，后者通常是文化史家、社会学家、精神分析师所提供的解释的起点。就色情而言，后一类解释绝不简单，因为色情景观极为复杂：其禁忌、体型、性行为以及其他让人血脉偾张之物的目录庞大无比。用劳拉·基普尼斯（Laura Kipnis）的话说，色情为我们提供了“通往文化心灵的康庄大道”（2006: 118），因而可能是解释的富矿。另一个问题——作品讲的是什么？——似乎不那么切题，尤其就色情网站上那些公式化、重复性的视频片段而言。不过，也有其他类型的色情，其中关于意义与“所讲”的问题似乎高度相关，例如前述哲学色情，以及下一节将讨论的女性主义色情。
+    step2: |-
+      (4) *Simple to interpret?*（解释起来简单？）情色艺术作品常常引出解释问题，色情却似乎很少让人在解释上犯难。诚然，解释通常是要说明作品中那些对目标受众并非一目了然的成分（Carroll 2009）[^carroll-2009]，而色情似乎无须解释：这类影片或小说为何一幕接一幕地塞进露骨性场面，实在再明显不过。然而，此处也不可急着下结论。解释至少可以有两类，各自带着自己的主导问题。一类问：“这部作品讲的是什么？”另一类问：“这部作品透露了作者、透露了它诞生其中的时代、地方、文化与社会什么？”前者是艺术批评的本行，后者往往是文化史家、社会学家、精神分析学家所作解释的起点。就色情而言，后一类解释绝不简单，因为色情的地形极为复杂：禁忌、体型、性行为，以及其他种种让人血脉贲张之物，目录庞大得惊人。用劳拉·基普尼斯（Laura Kipnis）的话说，色情是“通往文化心灵的康庄大道”（2006: 118），因而可能是解释的富矿。前一类问题——“作品讲的是什么？”——似乎就不那么切题，尤其面对色情网站上那些公式化、反复雷同的视频片段。不过，另有些色情作品，其意义与“所讲”问题倒高度相关，例如上文提到的哲学色情，以及下一节要讨论的女性主义色情。
+  - id: 105
+    kind: body
+    source: |-
+      In closing, it is worth mentioning a thesis recently put forward by Eaton (2018), based on art historical considerations regarding the function of erotic images in 16th-century Italy. Eaton argues that the root of the erotic art/pornography distinction was—at least in that particular context—class. The need for a special category of unsanctioned illicit images arose at the very time when print culture was beginning to threaten elite privilege. What made an erotic representation exceed the boundaries of acceptability, Eaton suggests, was not its extreme libidinosity but, rather, its widespread availability and, thereby, its threat to one of the mechanisms of sustaining class privilege.
+    step1: |-
+      最后，值得提一提伊顿（Eaton，2018）新近提出的一个论点，它基于关于十六世纪意大利情色图像功能的艺术史考察。伊顿论证说，情色艺术/色情之区分的根源——至少在那个特定语境中——是阶级。对一类不受认可的非法图像的特殊需要，恰恰出现在印刷文化开始威胁精英特权之时。伊顿认为，使一种情色再现越出可接受边界的，不是其极度的淫荡，而是其广泛可得，因而对维系阶级特权的机制之一构成威胁。
+    step2: |-
+      最后，还得提一提伊顿（Eaton，2018）最近提出的一个论点，它依据的是关于十六世纪意大利情色图像功能的艺术史考察。伊顿认为，情色艺术与色情的区分，至少在那个具体语境中，根源在于阶级。对一类不受认可、不合法的图像的特殊需求，恰在印刷文化开始威胁精英特权之际出现。伊顿提示，使一种情色再现超出可接受范围的，并非其淫荡至极，而是它广为流传，从而威胁到维系阶级特权的机制之一。
+  - id: 106
+    kind: body
+    source: |-
+      ### 4.2 Erotic Art, Feminist Theory, and Objectification
+    step1: |-
+      ### 4.2 情色艺术、女性主义理论与对象化
+    step2: |-
+      ### 4.2 情色艺术、女性主义理论与对象化
+  - id: 107
+    kind: body
+    source: |-
+      In a short but oft-quoted essay, Gloria Steinem describes what is for her “a clear and present difference”:
+    step1: |-
+      在一篇简短却常被引用的文章中，格洛丽亚·斯泰纳姆（Gloria Steinem）描述了她眼中“清清楚楚、当下就在”的一种区别：
+    step2: |-
+      格洛丽亚·斯泰纳姆（Gloria Steinem）在一篇短小而屡被引用的文章里，描述了她所谓“清清楚楚、就在眼前”的一种区别：
+  - id: 108
+    kind: body
+    source: |-
+      > Look at any photo or film of people making love, really making love. … there is usually sensuality and touch and warmth, an acceptance of bodies and nerve endings. … Now look at any depiction of sex in which there is clear force, or an unequal power that spells coercion. … The first is erotic: a mutually pleasurable, sexual expression between people who have enough power to be there by positive choice. … The second is pornographic: its message is violence, dominance, and conquest. (Steinem 1995: 31)[^steinem-1995]
+    step1: |-
+      > 且看任何一张人们做爱的照片或影片，真正的做爱。……通常有感官性、触摸与温暖，有对身体与神经末梢的接纳。……现在再看任何表现性的描绘，其中有明显的强制，或有一种意味着胁迫的不平等权力。……第一种是情色的：是权力足以凭积极选择而在场的人们之间相互愉悦的性表达。……第二种是色情的：其信息是暴力、支配与征服。（Steinem 1995: 31）[^steinem-1995]
+    step2: |-
+      > 不妨看看任何一张人们做爱的照片或影片，真正在做爱的。……那里通常有感官、有触摸、有温度，有对身体与神经末梢的接纳。……再看任何表现性的画面，其中有赤裸裸的强制，或有一种预示着胁迫的不平等权力。……前一种属于情色：是彼此都有足够权力作积极选择的人之间，一种相互愉悦的性表达。……后一种属于色情：它传达的消息是暴力、支配与征服。（Steinem 1995: 31）[^steinem-1995]
+  - id: 109
+    kind: body
+    source: |-
+      This idea that there is an important *moral* difference between erotic art and pornography, in so far as pornography focuses on sex that is aggressive, emotionless, or alienated, while the focus of erotic art is on love, passion, and equality between partners, has been very influential (see, for example, Ellis 2006: 30; Mahon 2005: 15; Ridington 1989: 27)[^ellis-2006][^mahon-2005][^ridington-1989]. However, delineating the distinctiveness of erotic art, as opposed to pornography, in terms of a particular content will not in and of itself establish that the latter is immoral, while the former is not. As Theodore Gracyk (1987) has argued, the morally objectionable character of a representation can never be just a matter of represented subject matter. For an artist can decide to depict rape or other aggressive forms of abuse in an attempt to precisely warn and protest against such degradation of women or men (recall the work of Kiki Smith). That is why Helen Longino is careful to define pornography as
+    step1: |-
+      情色艺术与色情之间存在重要的*moral*（道德）区别——因为色情着眼于侵略性的、无情感的或疏离的性，而情色艺术着眼于伴侣之间的爱、激情与平等——这一观念影响甚大（例如见 Ellis 2006: 30; Mahon 2005: 15; Ridington 1989: 27）[^ellis-2006][^mahon-2005][^ridington-1989]。然而，以特定内容来刻画情色艺术不同于色情之处，本身并不能证明后者不道德而前者道德。正如西奥多·格拉西克（Theodore Gracyk，1987）所论证，一种再现之在道德上可反对，绝不可能只取决于其所再现的题材。因为艺术家可以决定描绘强奸或其他侵略性虐待，恰恰是为了警告并抗议这种对男女的贬损（回想琪琪·史密斯的作品）。正因如此，海伦·朗吉诺（Helen Longino）才谨慎地把色情定义为
+    step2: |-
+      有一种看法影响很大：情色艺术与色情之间存在着重要的*moral*（道德）差别——色情着眼于侵略性、无情感或疏离的性，情色艺术则着眼于伴侣间的爱、激情与平等（例如见 Ellis 2006: 30; Mahon 2005: 15; Ridington 1989: 27）[^ellis-2006][^mahon-2005][^ridington-1989]。可是，仅凭特定内容来刻画情色艺术与色情的不同，并不能说明后者不道德而前者道德。西奥多·格拉西克（Theodore Gracyk，1987）就论证说，一种再现之所以在道德上可加反对，绝不能只在于它所再现的题材。因为艺术家完全可能刻意去画强奸或别的侵略性虐待，恰恰是为了警示并抗议这类对男女的贬损（想想琪琪·史密斯的作品）。海伦·朗吉诺（Helen Longino）之所以小心翼翼地把色情界定为
+  - id: 110
+    kind: body
+    source: |-
+      > verbal or pictorial material which represents or describes sexual behavior that is degrading or abusive to one or more of the participants *in such a way as to endorse the degradation*. (1980: 43, our emphasis)
+    step1: |-
+      > 对性行为的言语或图像材料之表现或描述，而该性行为贬损或虐待一个或多个参与者，*in such a way as to endorse the degradation*（其方式乃是认可这种贬损）。（1980: 43，我们的强调）
+    step2: |-
+      > 表现或描述性行为的言语或图像材料，而该性行为贬损或虐待一名或多名参与者，*in such a way as to endorse the degradation*（且其方式在于认可这种贬损）。（1980: 43，着重号为引者所加）
+  - id: 111
+    kind: body
+    source: |-
+      Longino is only one of the many authors who have tried to capture what is morally problematic about pornography. But the intricacies of that debate will not concern us here. Our focus is on erotic art, rather than pornography. Still, it is worth considering some of the more basic arguments, because they can be, and have been, put to use in discussions on the distinction between erotic art and pornography.
+    step1: |-
+      朗吉诺只是众多试图捕捉色情之道德问题所在的作者之一。但那场争论的曲折细节此处不必涉及。我们的焦点是情色艺术，而不是色情。尽管如此，考察一些更基本的论证仍值得，因为它们可以、也确实被用于讨论情色艺术与色情之别。
+    step2: |-
+      朗吉诺只是众多想点出色情之道德症结的作者之一，那场争论的曲折细节这里不拟涉及——我们关心的是情色艺术，而非色情。不过，几项较为基本的论证仍值得一谈，因为它们可以、而且已经被用来讨论情色艺术与色情的分别。
+  - id: 112
+    kind: body
+    source: |-
+      Perhaps the most straightforward way to argue that pornography is morally objectionable (in a way that erotic art is not) is to argue that it is harmful. The harm that pornography does may occur in the production phase, and take the form of coercion, brutality, violence, or rape. But even if no harm takes place in the making of pornography, and models are treated fairly and with respect, there can still be post-production harms. Some have argued that the pornographic materials themselves *constitute* harm because, as a form of hate speech, they silence and subordinate women (MacKinnon 1987; Langton 1993, 2009; Maitra 2009)[^langton-1993][^mackinnon-1987][^maitra-2009]. Others have emphasized that exposure to pornographic material may *cause* harm (Eaton 2007)[^eaton-2007]. The latter claim is further refined by specifying the frequency of exposure (isolated/cumulative), the nature of the material (egalitarian/inegalitarian), the kind of harm inflicted (physical/psychological), and whom it is mainly inflicted on (consumer/third party). By systematically eroticizing aspects of gender inequality, inegalitarian pornography is mainly thought to cause harm to a third party, in particular women, through the pernicious effect it has on its consumers (Eaton 2007)[^eaton-2007].
+    step1: |-
+      论证色情在道德上可反对（而情色艺术不然）的最直接方式，也许就是论证它有害。色情造成的伤害可能发生在制作阶段，表现为胁迫、残暴、暴力或强奸。但即便色情制作中并未发生伤害、模特得到公平而有尊严的对待，制作之后仍可能存在伤害。有人论证说，色情材料本身*constitute*（构成）伤害，因为作为仇恨言论的一种形式，它们使女性噤声并使其处于从属地位（MacKinnon 1987; Langton 1993, 2009; Maitra 2009）[^langton-1993][^mackinnon-1987][^maitra-2009]。另一些人强调，接触色情材料可能*cause*（造成）伤害（Eaton 2007）[^eaton-2007]。后一主张进一步细化，具体区分接触的频率（孤立/累积）、材料的性质（平等主义/不平等主义）、所造成伤害的类型（身体/心理），以及主要受害者（消费者/第三方）。通过系统地使性别不平等的各方面情色化，不平等主义的色情被认为主要通过其对消费者的有害影响，对第三方——尤其是女性——造成伤害（Eaton 2007）[^eaton-2007]。
+    step2: |-
+      要论证色情在道德上可加反对（而情色艺术不然），最直截的路子也许是论证它有害。伤害可能出在制作阶段，表现为胁迫、残暴、暴力或强奸。但即便制作过程中没有伤害、模特受到公平而尊重的对待，制作之后仍可能有伤害。有人主张，色情材料本身*constitute*（构成）伤害：作为仇恨言论的一种，它们让女性噤声，把女性置于从属地位（MacKinnon 1987; Langton 1993, 2009; Maitra 2009）[^langton-1993][^mackinnon-1987][^maitra-2009]。也有人强调，接触色情材料可能*cause*（造成）伤害（Eaton 2007）[^eaton-2007]。后一种主张还得进一步细化：接触的频率（一次性的还是累积的）、材料的性质（平等主义的还是不平等主义的）、伤害的类型（身体的还是心理的）、主要受害人是谁（消费者还是第三方）。不平等主义的色情把性别不平等的各个方面系统地情色化，因而被认为主要经由对消费者的有害影响，伤及第三方，尤其是女性（Eaton 2007）[^eaton-2007]。
+  - id: 113
+    kind: body
+    source: |-
+      “Exploitation” and “objectification” are terms that are used particularly often to describe what is wrong with pornography. Martha Nussbaum (1995), for instance, has written a seminal essay on different forms of objectification and how they apply to pornography (see also Stock 2015)[^stock-2015]. Artists like Nancy Spero have defined pornography as “stuff that exploits women’s bodies” (quoted in Cembalest 1989: 142)[^cembalest-1989]. It might be thought, and indeed Spero and others have argued, that these ethical terms may serve to demarcate (erotic) art from pornography—pornography being exploitative or objectifying in a way that (erotic) art is not.
+    step1: |-
+      “剥削”与“对象化”是特别常用来描述色情之错的词。例如，玛莎·努斯鲍姆（Martha Nussbaum，1995）写了一篇关于对象化不同形式及其如何适用于色情的奠基性论文（另见 Stock 2015）[^stock-2015]。南希·斯佩罗（Nancy Spero）等艺术家把色情定义为“剥削女性身体的东西”（转引自 Cembalest 1989: 142）[^cembalest-1989]。人们也许会想——斯佩罗等人也确实这样论证——这些伦理术语可用于把（情色）艺术与色情区分开来：色情以（情色）艺术所不具有的方式剥削或对象化。
+    step2: |-
+      说到色情的毛病，最常用的字眼是“剥削”与“对象化”。玛莎·努斯鲍姆（Martha Nussbaum，1995）就写过一篇奠基性论文，辨析对象化的各种形式及其如何施用于色情（另见 Stock 2015）[^stock-2015]。南希·斯佩罗（Nancy Spero）一类艺术家把色情定义为“剥削女人身体的东西”（转引自 Cembalest 1989: 142）[^cembalest-1989]。人们也许会想——斯佩罗等人也的确这样论证——这些伦理术语正好用来把（情色）艺术同色情分开：色情剥削、对象化，而（情色）艺术不。
+  - id: 114
+    kind: body
+    source: |-
+      This way of drawing the line is significantly problematized by the emergence of feminist pornography. Examples are films like *Skin.Like.Sun* (2010, dir. Jennifer Lyon Bell and Murielle Scherre) and *When We Are Together, We Can Be Everywhere* (2015, dir. Marit Östberg), Molly Kiely’s graphic novel *That Kind of Girl* (1999), or *Dirty Diaries*, a collection of Swedish movie shorts (2009). Mutual pleasure and consent are absolutely key in these pornographic works which seem to exhibit none of the moral flaws manifest in mainstream pornography (no exploitation, objectification, or eroticization of gender inequality). What is more, in rejecting sexual repression, self-oppression, and hypocrisy, these works are often said to have a positive, consciousness-raising force (Willis 1995; Taormino et al. 2013; Maes 2017; 2020; Eaton 2017)[^eaton-2017][^maes-2017][^taormino-2013][^willis-1995].
+    step1: |-
+      这条划线方式因女性主义色情的出现而大受挑战。例子包括《皮肤如阳》（*Skin.Like.Sun*，2010，导演 Jennifer Lyon Bell 与 Murielle Scherre）与《当我们在一起，我们无处不在》（*When We Are Together, We Can Be Everywhere*，2015，导演 Marit Östberg）、莫莉·基利（Molly Kiely）的图像小说《那种女孩》（*That Kind of Girl*，1999），以及瑞典短片集《肮脏日记》（*Dirty Diaries*，2009）。在这些色情作品中，相互愉悦与同意绝对关键，它们似乎不带有主流色情中显露的任何道德缺陷（没有剥削、对象化，也没有性别不平等的情色化）。更有甚者，由于拒绝性压抑、自我压抑与虚伪，这些作品常被认为具有积极的意识提升力量（Willis 1995; Taormino et al. 2013; Maes 2017; 2020; Eaton 2017）[^eaton-2017][^maes-2017][^taormino-2013][^willis-1995]。
+    step2: |-
+      然而女性主义色情的兴起，使这种划线方式大受动摇。例子有《皮肤如阳》（*Skin.Like.Sun*，2010，Jennifer Lyon Bell 与 Murielle Scherre 执导）、《当我们在一起，我们无处不在》（*When We Are Together, We Can Be Everywhere*，2015，Marit Östberg 执导）、莫莉·基利（Molly Kiely）的图像小说《那种女孩》（*That Kind of Girl*，1999），以及瑞典短片集《肮脏日记》（*Dirty Diaries*，2009）。这些色情作品把相互愉悦与同意摆在绝对要害的位置，似乎并不带主流色情那种道德毛病（没有剥削、没有对象化，也没有把性别不平等情色化）。更有甚者，由于它们拒斥性压抑、自我压抑与虚伪，人们常说这些作品具有积极的意识觉醒之力（Willis 1995; Taormino et al. 2013; Maes 2017; 2020; Eaton 2017）[^eaton-2017][^maes-2017][^taormino-2013][^willis-1995]。
+  - id: 115
+    kind: body
+    source: |-
+      But even if one were to disregard this rapidly growing subgenre of pornography, and argue that there is something deeply wrong with *any* type of pornography, that in itself would still not justify a strict divide between erotic art and pornography. For every plausible account of the relation between moral and artistic value—whether it is autonomism, ethicism, immoralism, or contextualism—will acknowledge that works of art, including works of erotic art, can be deeply morally flawed (Gaut 2007; see also Eaton 2003 for an in depth analysis of Titian’s *Rape of Europa*, 1562)[^eaton-2003][^gaut-2007]. What is more, it appears that whatever (moral) objection one wants to bring forward against mainstream pornography, it is likely to apply to some erotic art as well (Patridge 2013)[^patridge-2013]. First, harm may be inflicted when erotic art is being produced (Brown 2002 tells the harrowing story of Cellini and the Nymph of Fontainebleau)[^brown-2002]. Second, some erotic art may also *constitute* harm. At least, Langton and MacKinnon’s arguments seem to carry over seamlessly to (certain strands of) erotic art. One of the difficult questions for Langton and MacKinnon—do pornographers possess the appropriate authority to perform the speech acts of silencing and subordinating women?—appears even easier to answer in the affirmative in the case of artists since their perceived authority is much less contentious. Third, some erotic art may cause harm in the same way as pornography, that is, by eroticizing aspects of gender inequality and thus shaping people’s sexual preferences in such a way that sustains the current inequality between genders (Eaton 2012)[^eaton-2012]. Finally, a detailed case is made by, respectively, Cooke 2012 and Eaton 2012 that neither exploitation nor objectification is unique to pornography and that both are present in many works of erotic art—a presence that is frequently unacknowledged precisely because critics tend to focus exclusively on pornography and too often consider art to be above (moral) criticism.
+    step1: |-
+      但即便无视这一迅速壮大的色情子类，论证*any*（任何）类型的色情都存在严重问题，这本身仍不足以证成情色艺术与色情的严格分界。因为关于道德价值与艺术价值之关系的每一种说得通的学说——无论是自律论、伦理主义、不道德主义还是语境论——都会承认，艺术作品（包括情色艺术作品）可能在道德上有严重缺陷（Gaut 2007；另见 Eaton 2003 对提香*Rape of Europa*（《劫掠欧罗巴》，1562）的深入分析）[^eaton-2003][^gaut-2007]。而且，无论人们想对主流色情提出何种（道德）反对，这种反对很可能同样适用于某些情色艺术（Patridge 2013）[^patridge-2013]。第一，情色艺术在制作时也可能造成伤害（Brown 2002 讲述了切利尼与枫丹白露仙女那段骇人的故事）[^brown-2002]。第二，某些情色艺术也可能*constitute*（构成）伤害。至少，朗顿与麦金农的论证似乎可以无缝延伸到（某些脉络的）情色艺术。对朗顿与麦金农来说的难题之一——色情作者是否拥有实施使女性噤声、使其从属的言语行为的恰当权威？——在艺术家那里似乎更容易给出肯定回答，因为艺术家的被感知权威争议要小得多。第三，某些情色艺术可能以与色情相同的方式造成伤害，即通过把性别不平等的各方面情色化，从而把人们的性偏好塑造成维持当前性别不平等的样子（Eaton 2012）[^eaton-2012]。最后，库克（Cooke 2012）与伊顿（Eaton 2012）分别详细论证：剥削与对象化都并非色情所独有，二者都存在于许多情色艺术作品中——这种存在之所以常被无视，恰恰因为批评者往往只盯着色情，并太常认为艺术高于（道德）批评。
+    step2: |-
+      但就算把这一迅速壮大的色情子类撇开，坚持*any*（任何）一类色情都深有问题，这本身仍不足以证成情色艺术与色情之间的严格分界。因为凡是对道德价值与艺术价值之关系给出说得通解释的学说——自律论、伦理主义、不道德主义、语境论——都承认艺术作品（包括情色艺术作品）可能在道德上有严重缺陷（Gaut 2007；另见 Eaton 2003 对提香*Rape of Europa*（《劫掠欧罗巴》，1562）的深入分析）[^eaton-2003][^gaut-2007]。更何况，无论想对主流色情提出什么（道德）反对，这反对很可能同样落到某些情色艺术头上（Patridge 2013）[^patridge-2013]。其一，情色艺术在制作时也可能造成伤害（Brown 2002 讲过切利尼与枫丹白露仙女那段骇人故事）[^brown-2002]。其二，某些情色艺术也可能*constitute*（构成）伤害。至少，朗顿与麦金农的论证似乎可以原封不动地移用到（某些脉络的）情色艺术上。对朗顿与麦金农而言有一道难题：色情制作者是否拥有施行“使女性噤声、把女性置于从属”这类言语行为的正当权威？而在艺术家那里，这道题似乎更容易答“是”，因为艺术家的权威较少争议。其三，某些情色艺术可能以同色情一样的方式造成伤害，即把性别不平等的各个方面情色化，从而塑造人们的性偏好，使之维系当前的性别不平等（Eaton 2012）[^eaton-2012]。最后，库克（Cooke 2012）与伊顿（Eaton 2012）各自详加论证：剥削也好，对象化也好，都不是色情所独有，二者同样见于许多情色艺术作品——之所以常被忽略，恰因批评者往往只盯住色情，又太常认为艺术超乎（道德）批评之上。
+  - id: 116
+    kind: body
+    source: |-
+      To conclude, it does not seem possible to make a clear-cut distinction between erotic art and pornography based on moral or feminist grounds. Critiques of pornography have focused on features that are shared by a much wider class of cultural products and by (some) works of erotic art in particular. This is not necessarily bad news for feminists. On the contrary, feminists could embrace this conclusion as it implies that their critiques are wider ranging than they at first appear to be (see Kania 2012; Mikkola (ed.) 2017; Mikkola 2019).
+    step1: |-
+      总之，似乎不可能基于道德或女性主义的理由在情色艺术与色情之间划出清晰界线。对色情的批评所针对的特征，为一个宽得多的文化产品类别、尤其为（某些）情色艺术作品所共有。这对女性主义者未必是坏消息。恰恰相反，女性主义者可以把这一结论拥为己有，因为它意味着她们的批评比初看时范围更广（见 Kania 2012; Mikkola (ed.) 2017; Mikkola 2019）。
+    step2: |-
+      总而言之，想凭道德或女性主义的理由在情色艺术与色情之间划一条清楚界线，看来是做不到的。批评色情时所针对的那些特征，为一类宽得多的文化产品所共有，尤其为（某些）情色艺术作品所共有。这对女性主义者未必是坏消息；恰恰相反，她们大可以接纳这一结论，因为它意味着她们的批评比乍看之下范围更广（见 Kania 2012; Mikkola (ed.) 2017; Mikkola 2019）。
+  - id: 117
+    kind: body
+    source: |-
+      ## 5. Further questions
+    step1: |-
+      ## 5. 进一步的问题
+    step2: |-
+      ## 5. 进一步的问题
+  - id: 118
+    kind: body
+    source: |-
+      Many more philosophical questions remain to be examined in relation to erotic art. The following will likely play an important role in future research on this topic. First, what exactly does it mean for a representation to be voyeuristic and what, if anything, is the difference between voyeurism in artistic and non-artistic representations? The question was already raised in John Berger’s classic *Ways of Seeing* (1972) and has since then been addressed in Schellekens 2012 and Eaton 2012. The latter also offers a philosophical re-interpretation of the influential but strongly psychoanalytically informed concept of the “male gaze” (Mulvey 1989)[^mulvey-1989]. To say that a work embodies the male gaze, Eaton submits, is simply to say that it prescribes that its audience perceives the woman represented as primarily a sex object. As such, the tradition of the female nude in Western art promotes sexually objectifying, heteronormative erotic taste, and thereby has insidious effects on gender equality. Following on from this, Lavallee (2016) argues that Eaton’s thesis is mainly based on the experiences of white women and does not pay adequate attention to the lives of nonwhite women. This act of exclusion exposes a more general bias in discussions of female representations in art. Different kinds of bodies have been subjected to different kinds of objectifying construal. Lavallee therefore suggests that the ethics of nudity in art must be extended to take such variation into account (see also Taylor 2016, especially chapter 4)[^taylor-2016].
+    step1: |-
+      围绕情色艺术，还有许多哲学问题有待考察。以下问题很可能在未来研究中扮演重要角色。第一，一种再现是窥视性的，究竟是什么意思？艺术性与非艺术性再现中的窥视，若有区别，区别何在？约翰·伯格（John Berger）的经典《观看之道》（*Ways of Seeing*，1972）已提出此问，此后 Schellekens 2012 与 Eaton 2012 又加以讨论。后者还对“男性凝视”这一影响巨大但深受精神分析浸染的概念作了哲学重释（Mulvey 1989）[^mulvey-1989]。伊顿提出，说一件作品体现男性凝视，无非是说它规定其受众把所表现的女性主要感知为性对象。就此而言，西方艺术中的女性裸体传统助长了一种性对象化的、异性恋规范的情色趣味，从而对性别平等产生隐蔽的害处。顺着这一点，拉瓦莱（Lavallee，2016）论证说，伊顿的论点主要基于白人女性的经验，未能充分关注非白人女性的生活。这种排除暴露出艺术中女性再现讨论里一种更普遍的偏颇：不同种类的身体遭受了不同种类的对象化建构。因此拉瓦莱建议，艺术中裸体的伦理学必须扩展，以顾及这种差异（另见 Taylor 2016，尤其是第四章）[^taylor-2016]。
+    step2: |-
+      情色艺术方面还有许多哲学问题等着考察。以下这些，大概在未来的研究里都会占一席之地。第一，一种再现“带有窥视性”究竟何意？艺术再现中的窥视同非艺术再现中的窥视，若有分别，分别何在？约翰·伯格（John Berger）的经典《观看之道》（*Ways of Seeing*，1972）已经提出此问，之后 Schellekens 2012 与 Eaton 2012 又作了讨论。伊顿还对“男性凝视”这一影响巨大却深受精神分析色彩浸染的概念作了哲学重释（Mulvey 1989）[^mulvey-1989]。她提出，说一件作品体现男性凝视，不过就是说它规定受众把所表现的女性首先感知为性对象。这样一来，西方艺术里的女性裸体传统便助长了一种性对象化的、异性恋规范的情色趣味，从而对性别平等产生不易察觉的损害。沿此思路，拉瓦莱（Lavallee，2016）指出，伊顿的论点主要建立在白人女性的经验上，对非白人女性的生活关注不足。这种排除暴露出艺术中女性再现讨论里一个更普遍的偏颇：不同种类的身体，遭到不同种类的对象化建构。因此拉瓦莱主张，艺术中裸体的伦理学必须扩展，把这种差异纳入考虑（另见 Taylor 2016，尤其是第四章）[^taylor-2016]。
+  - id: 119
+    kind: body
+    source: |-
+      Second, what is the role of transgression in erotic art? While feminist philosophers have rightly highlighted the moral dangers involved in the production and dissemination of sexual imagery, other philosophers and most notably Georges Bataille (1985, 1986), have argued that norm-breaking, and in particular the violation of social or moral norms about sexual behavior, is indispensable for sexual arousal and provides a basis for other affective states, such as disgust, humor, and awe, which are often in play in sexual encounters and representations. (For a demystified and less radical version of this argument, see Newall 2012. For a general discussion of the role of transgression in art, see Julius 2002)[^julius-2002][^newall-2012].
+    step1: |-
+      第二，越界在情色艺术中起什么作用？女性主义哲学家正确地强调了性图像之生产与传播所涉的道德危险；另一些哲学家——尤其是乔治·巴塔耶（Georges Bataille，1985, 1986）——则论证说，打破规范、特别是违反关于性行为的社会或道德规范，对性唤起不可或缺，并为厌恶、幽默、敬畏等其他情感状态提供了基础，而这些状态常常在性遭遇与性再现中发挥作用。（关于这一论证的祛魅化、不那么激进的版本，见 Newall 2012。关于越界在艺术中作用的一般讨论，见 Julius 2002）[^julius-2002][^newall-2012]。
+    step2: |-
+      第二，越界在情色艺术中扮演什么角色？女性主义哲学家理直气壮地指出，性图像的生产与流布含有道德风险；另一些哲学家——尤以乔治·巴塔耶（Georges Bataille，1985, 1986）为代表——则主张，破坏规范、特别是违背关于性行为的社会规范或道德规范，对性唤起不可或缺，并且为厌恶、幽默、敬畏等情感状态打下底子，而这些情感常在性遭遇与性再现中起作用。（这一论证的祛魅版、不那么激烈的版本见 Newall 2012。关于越界在艺术中作用的一般讨论，见 Julius 2002）[^julius-2002][^newall-2012]。
+  - id: 120
+    kind: body
+    source: |-
+      Third, how does the degree of eroticism of a work of erotic art relate to its goodness as art, and how do the criteria for assessing erotic art differ from those appropriate to assessing art of other sorts? By reflecting on the appreciation and artistic status of art with a non-artistic primary intended function, such as religious, political or erotic art, Davies (2012) makes a good start in answering these questions.
+    step1: |-
+      第三，一件情色艺术作品的情色程度与其作为艺术的好坏有何关系？评价情色艺术的标准与评价其他艺术的标准有何不同？戴维斯（Davies，2012）通过反思那些首要预期功能并非艺术的艺术（如宗教、政治或情色艺术）的欣赏与艺术地位，为回答这些问题开了个好头。
+    step2: |-
+      第三，一件情色作品的情色程度，与它作为艺术的好坏有何关系？评价情色艺术的标准，同评价别类艺术的标准又有何不同？戴维斯（Davies，2012）考察了那些首要预期功能并非艺术的艺术（宗教艺术、政治艺术、情色艺术）如何被欣赏、如何取得艺术地位，为回答这些问题开了个不错的头。
+  - id: 121
+    kind: body
+    source: |-
+      Fourth, there are interesting differences between art forms that are worth investigating. For instance, philosophical discussions of erotic art have often focused on visual art or literature. But Benovsky (2021) draws attention to erotic experiences qua proprioceptive experiences and defends the claim that, under the right circumstances, such experiences can bring about proprioceptive artworks. Adil Mustafa Ahmad notes in relation to Islamic art that
+    step1: |-
+      第四，不同艺术形式之间存在值得研究的有趣差异。例如，关于情色艺术的哲学讨论常集中于视觉艺术或文学。但贝诺夫斯基（Benovsky，2021）提请人们注意作为本体感受经验的情色经验，并捍卫这一主张：在适当情况下，这类经验可以造就本体感受性的艺术作品。阿迪勒·穆斯塔法·艾哈迈德（Adil Mustafa Ahmad）就伊斯兰艺术指出：
+    step2: |-
+      第四，不同艺术形式之间的有趣差异值得探究。举例说，关于情色艺术的哲学讨论历来多集中于视觉艺术或文学。贝诺夫斯基（Benovsky，2021）却提醒人们注意作为本体感受经验的情色经验，并主张这类经验在适当条件下可以造就本体感受性的艺术。阿迪勒·穆斯塔法·艾哈迈德（Adil Mustafa Ahmad）就伊斯兰艺术指出：
+  - id: 122
+    kind: body
+    source: |-
+      > practically all that is perceived as erotic (acceptable, sublime) when described in literature is seen as pornographic (off-putting and vulgar) if projected in painting and sculpture. (Ahmad 1994: 281)[^ahmad-1994]
+    step1: |-
+      > 凡在文学中被感知为情色的（可接受的、崇高的）东西，若投射到绘画与雕塑中，几乎都被视为色情的（令人反感的、粗俗的）。（Ahmad 1994: 281）[^ahmad-1994]
+    step2: |-
+      > 举凡在文学里被感受为情色的（可接受的、崇高的）东西，一旦移到绘画与雕塑中，几乎都被看作色情的（令人嫌恶的、粗俗的）。（Ahmad 1994: 281）[^ahmad-1994]
+  - id: 123
+    kind: body
+    source: |-
+      In Western art, too, there appear to be different degrees of permissibility if one compares literature with the visual arts. How to explain this? How to explain, furthermore, the absence, or near-absence, of the genre of erotic art in what are sometimes called the non-representational arts? There seems to be very little erotic architecture and it is not entirely clear whether there is any absolute music that qualifies as erotic. There are erotic dances, of course, but these are rarely performed within an art context or considered as art works.
+    step1: |-
+      在西方艺术中，若把文学与视觉艺术相比，似乎也存在不同程度的可容许性。这该如何解释？又该如何解释情色艺术这一体裁在有时被称为非再现性艺术中的缺席或近乎缺席？情色建筑似乎极少，而是否存在任何堪称情色的绝对音乐，并不完全清楚。当然有情色舞蹈，但它们很少在艺术语境中演出，也很少被视为艺术作品。
+    step2: |-
+      在西方艺术中，拿文学同视觉艺术相比，似乎也有不同程度的容许度。这该如何解释？又该如何解释情色艺术这一体裁在所谓非再现性艺术中的缺席或近乎缺席？情色建筑似乎少而又少；至于有没有哪种纯音乐堪称情色，也说不清楚。情色舞蹈当然有，但很少在艺术场合演出，也很少被当作艺术作品。
+  - id: 124
+    kind: body
+    source: |-
+      To illuminate the latter phenomenon it might be helpful to reflect on issues of fictionality and imagination—a fifth important research strand. As Cain Todd (2012) argues, the awareness of fictionality of sexual representations ensures that one’s imaginative engagement implies merely imagined “desire-like” states, whereas the voyeuristic appreciation of a stripper’s erotic dance seems to preclude this sort of engagement, and in virtue of doing so, involves real sexual desire. One might think that, characteristically, arousal-directed imagining towards a sexual representation is *de se* in that one uses the image as a prop to imagine committing or witnessing certain sexual acts and, indeed, Todd argues that the engagement with sexual imagery can possess certain cognitive values, insofar as it involves the self in *de se* imaginative projects. But notwithstanding the apparent plausibility of such claims, this is denied by Stock (2012) who argues that enjoying erotica does not always involve imagining something about oneself.
+    step1: |-
+      为阐明后一现象，反思虚构性与想象问题也许有益——这是第五个重要的研究脉络。正如凯恩·托德（Cain Todd，2012）所论证，对性再现之虚构性的意识，确保人的想象性投入只涉及想象出来的“类欲望”状态；而对脱衣舞者情色舞蹈的窥视性欣赏，似乎排除了这类投入，并因此涉及真实的性欲望。人们也许认为，指向性再现的、以唤起为旨的想象典型地是*de se*（涉己的）：人把图像当作道具，想象自己实施或目睹某些性行为；托德确实论证说，与性图像的接触可以具有某些认知价值，因为它把自我卷入*de se*（涉己的）想象工程。然而，尽管这类主张表面上可信，斯托克（Stock，2012）却予以否认，他论证说享受情色作品并不总是涉及想象关于自己的某事。
+    step2: |-
+      要说明后一现象，不妨想想虚构性与想象的问题——这是第五条重要的研究线索。凯恩·托德（Cain Todd，2012）论证说，意识到性再现是虚构的，就保证人的想象性投入只涉及想象出来的“类欲望”状态；相反，对脱衣舞者情色之舞的窥视式欣赏，似乎排除了这类投入，因而牵动真实的性欲望。人们也许认为，朝向性再现、以唤起为旨的想象特点在于*de se*（涉己）：人拿图像当道具，想象自己做出或目睹某些性行为；托德也确实论证，同性图像打交道可以具有某种认知价值，因为它把自我带入*de se*（涉己）的想象工程。可是，这类主张看似有理，斯托克（Stock，2012）却加以否认，他论证说，欣赏情色作品未必涉及想象关于自己的什么事。
+  - id: 125
+    kind: body
+    source: |-
+      Sixth, if erotic art and pornography are not mutually exclusive, why is there not more art that qualifies as both? Van Brabandt and Prinz (2012) address this question in relation to cinema. Despite the many resemblances between art films and pornographic films—jump cuts, long takes, “Brechtian” acting, a cinema vérité-like grittiness, arousal of strong emotions, an exploration of the extremes of human experience and of the margins of society—they argue that market forces are mainly to be blamed for the lack of overlap between the two. Mari Mikkola (2013), by contrast, builds on recent work in the ontology of artifacts to speculate about the possibility of porno-art—a new class of objects growing out of the extant categories of pornography and art, without being reducible to either one.
+    step1: |-
+      第六，如果情色艺术与色情并非互斥，为什么兼具二者资格的艺术并不多见？范·布拉班特与普林茨（van Brabandt and Prinz，2012）就电影讨论了这个问题。尽管艺术电影与色情电影有诸多相似——跳切、长镜头、“布莱希特式”表演、类真实电影的粗粝质感、强烈情感的唤起、对人类经验之极端与社会边缘的探索——他们论证说，二者的重叠之所以稀少，主要应归咎于市场力量。与之相对，玛丽·米科拉（Mari Mikkola，2013）借助晚近关于人造物本体论的工作，推测“色情-艺术”（porno-art）的可能性：这是一类从既有的色情与艺术范畴中生长出来、却不可还原为其中任何一方的新对象。
+    step2: |-
+      第六，既然情色艺术与色情并不互斥，为什么兼具两者资格的艺术并不多见？范·布拉班特与普林茨（van Brabandt and Prinz，2012）就电影讨论了此问。艺术电影与色情电影相似之处甚多——跳接、长镜头、“布莱希特式”表演、类真实电影的粗粝感、强烈情感的唤起、对人类经验之极端与社会边缘的勘探——可他们仍认为，两者重叠之少，主要得怪市场力量。玛丽·米科拉（Mari Mikkola，2013）则另辟一路，借近期人造物本体论的研究，揣想“色情-艺术”（porno-art）的可能：一类从既有的色情与艺术范畴中生长出来、却又不能被还原为其中任何一方的新对象。
+  - id: 126
+    kind: body
+    source: |-
+      Seventh, obscenity and censorship issues will continue to play a key part in research on erotic art. They crop up in philosophical discussions of the nude (Nead 1992; Hammer 1997; Danto 2000; Scruton 2009)[^danto-2000][^hammer-1997][^nead-1992][^scruton-2009] and of art that challenges the classical ideal of beauty (O’Hear 1991, Danto 1995, Mey 2007)[^danto-1995][^mey-2007][^o’hear-1991]. They are also central to *stipulative* distinctions between erotic art and pornography (Maes 2012)[^maes-2012][^maes-2012-2]. George P. Elliott, for instance, defines pornography as
+    step1: |-
+      第七，淫秽与审查问题将继续在情色艺术研究中占重要地位。它们出现在关于裸体的哲学讨论（Nead 1992; Hammer 1997; Danto 2000; Scruton 2009）[^danto-2000][^hammer-1997][^nead-1992][^scruton-2009]以及关于挑战古典美理想的艺术的讨论中（O’Hear 1991, Danto 1995, Mey 2007）[^danto-1995][^mey-2007][^o’hear-1991]。它们也是情色艺术与色情之间*stipulative*（约定性）区分的核心（Maes 2012）[^maes-2012][^maes-2012-2]。例如，乔治·P. 艾略特（George P. Elliott）把色情定义为
+    step2: |-
+      第七，淫秽与审查问题仍将是情色艺术研究的关键一环。关于裸体的哲学讨论（Nead 1992; Hammer 1997; Danto 2000; Scruton 2009）[^danto-2000][^hammer-1997][^nead-1992][^scruton-2009]，以及关于挑战古典美理想之艺术的讨论（O’Hear 1991, Danto 1995, Mey 2007）[^danto-1995][^mey-2007][^o’hear-1991]，都绕不开它们；情色艺术与色情之间的*stipulative*（约定性）区分，其核心也在于它们（Maes 2012）[^maes-2012][^maes-2012-2]。例如，乔治·P. 艾略特（George P. Elliott）把色情定义为
+  - id: 127
+    kind: body
+    source: |-
+      > the representation of directly or indirectly erotic acts with an intrusive vividness which offends decency without aesthetic justification. (1970: 74–75)
+    step1: |-
+      > 对直接或间接情色行为的再现，其侵入性的鲜明生动冒犯体面，且无审美上的正当理由。（1970: 74–75）
+    step2: |-
+      > 对直接或间接情色行为的一种再现，其逼人的鲜明生动冒犯了体面，又得不到审美上的辩护。（1970: 74–75）
+  - id: 128
+    kind: body
+    source: |-
+      A normative definition of this kind will bring to mind certain legal descriptions of obscenity such as the U.S. Supreme Court’s notorious Miller test, set forth in *Miller v. California* (1973). This test proposed a three-pronged criterion for obscenity: *x* is obscene if (1) it is found appealing to the prurient interest by an average person applying contemporary community standards, (2) it depicts sexual conduct, specifically defined by the applicable state law, in a patently offensive way and (3) taken as a whole, it lacks serious literary, artistic, political or scientific value. The Miller test has proved problematic in many respects, one of its most evident flaws being the conflation of two ideas—the pornographic and the obscene (Nussbaum 2004)[^nussbaum-2004]. Recent philosophical attempts to define the obscene have avoided this mistake—allowing for non-pornographic obscenities and obscene erotic art (e.g., Kieran 2002)[^kieran-2002].
+    step1: |-
+      此类规范性定义会让人想到某些关于淫秽的法律描述，例如美国最高法院在*Miller v. California*（《米勒诉加利福尼亚州》，1973）中提出的臭名昭著的米勒标准。该标准为淫秽提出三项判准：*x*（某物）是淫秽的，若（1）按当代社区标准适用的普通人会认为它投合淫欲；（2）它以明显冒犯的方式描绘由适用州法具体界定的性行为；（3）整体看来，它缺乏严肃的文学、艺术、政治或科学价值。米勒标准在许多方面被证明问题重重，其最明显的缺陷之一是把两个观念——色情的与淫秽的——混为一谈（Nussbaum 2004）[^nussbaum-2004]。晚近为淫秽下定义的哲学尝试避开了这一错误，允许存在非色情的淫秽以及淫秽的情色艺术（如 Kieran 2002）[^kieran-2002]。
+    step2: |-
+      这类规范性定义会让人想起若干关于淫秽的法律表述，例如美国最高法院在*Miller v. California*（《米勒诉加利福尼亚州》，1973）一案中提出的那个声名不佳的米勒标准。该标准就淫秽给出三条判准：*x*（某物）属淫秽，当（1）按当代社区标准行事的普通人会认为它投合淫欲；（2）它以明显冒犯的方式描绘了适用州法所具体界定的性行为；（3）就整体而言，它缺乏严肃的文学、艺术、政治或科学价值。事实证明，米勒标准在许多方面都成问题，最显眼的毛病之一是把两个观念——色情的与淫秽的——搅在了一起（Nussbaum 2004）[^nussbaum-2004]。晚近为淫秽下定义的哲学尝试避开了这一错误，容许存在非色情的淫秽物，也容许存在淫秽的情色艺术（如 Kieran 2002）[^kieran-2002]。
+  - id: 129
+    kind: body
+    source: |-
+      Finally, if erotic representations and art works help to shape how we see and engage with bodies, how can they be mobilised to challenge (or perpetuate) oppression based on race, sexual orientation, age, size, and disability? Audre Lorde’s “Uses of the Erotic” (1978) has been a seminal text. But while Davidson (2016), Cahill (2016), Lintott & Irvin (2016), Mikkola (ed., 2017) and Thorneycroft (2021) offer some recent perspectives, much more work still needs to be done on this front.
+    step1: |-
+      最后，如果情色再现与艺术作品有助于塑造我们观看和接触身体的方式，那么它们如何能被调动起来，去挑战（或维系）基于种族、性取向、年龄、体型与残障的压迫？奥德丽·洛德（Audre Lorde）的《情色之用》（“Uses of the Erotic”，1978）是一部奠基性文本。尽管戴维森（Davidson，2016）、卡希尔（Cahill，2016）、林托特与欧文（Lintott & Irvin，2016）、米科拉（Mikkola 编，2017）与索尼克罗夫特（Thorneycroft，2021）提供了一些晚近视角，这一方面仍有大量工作要做。
+    step2: |-
+      最后，如果情色再现与艺术作品参与塑造我们看待身体、与身体打交道的方式，那么怎样才能调动它们去挑战（或延续）基于种族、性取向、年龄、体型与残障的压迫？奥德丽·洛德（Audre Lorde）的《情色之用》（“Uses of the Erotic”，1978）是一篇奠基之作。戴维森（Davidson，2016）、卡希尔（Cahill，2016）、林托特与欧文（Lintott & Irvin，2016）、米科拉（Mikkola 编，2017）、索尼克罗夫特（Thorneycroft，2021）提供了一些近期视角，但这一方面仍有许多工作要做。
+  - id: 130
+    kind: body
+    source: |-
+      In sum, it will be clear that any serious thinking about erotic art leads to fundamental questions about the nature of aesthetics, the moral impact and status of representations, and the boundaries of art. As such there can be little doubt that this topic will prove to be fruitful for further philosophical investigation.
+    step1: |-
+      总之，显而易见，任何对情色艺术的严肃思考都会引向关于美学本性、再现的道德影响与地位、以及艺术边界的基本问题。因此几乎可以无疑地说，这一题目将被证明对进一步的哲学探究富有成果。
+    step2: |-
+      总而言之，任何认真思考情色艺术的人都会发现，自己终归要面对一些根本问题：美学的本性、再现的道德影响与地位、艺术的边界。因此几乎可以肯定，这个题目对进一步的哲学探究来说将是一片沃土。
+  - id: 131
+    kind: oir
+    source: |-
+      - [Web Gallery of Art](http://www.wga.hu/)
+      - [Google Art Project](http://www.google.com/culturalinstitute/project/art-project)
+      - [the Metropolitan Museum of Art](http://www.metmuseum.org/en)
+      - [Tate Online](http://www.tate.org.uk/art/)
+      - [American Civil Liberties Union](https://www.aclu.org/)
+      - [Feminists Against Censorship](https://www.infotextmanuscripts.org/ncropa/ncropa_fac.html), maintained by Avedon Carol.
+    step1: |-
+      - [Web Gallery of Art](http://www.wga.hu/)
+      - [Google Art Project](http://www.google.com/culturalinstitute/project/art-project)
+      - [the Metropolitan Museum of Art](http://www.metmuseum.org/en)
+      - [Tate Online](http://www.tate.org.uk/art/)
+      - [American Civil Liberties Union](https://www.aclu.org/)
+      - [Feminists Against Censorship](https://www.infotextmanuscripts.org/ncropa/ncropa_fac.html), maintained by Avedon Carol.
+    step2: |-
+      - [Web Gallery of Art](http://www.wga.hu/)
+      - [Google Art Project](http://www.google.com/culturalinstitute/project/art-project)
+      - [the Metropolitan Museum of Art](http://www.metmuseum.org/en)
+      - [Tate Online](http://www.tate.org.uk/art/)
+      - [American Civil Liberties Union](https://www.aclu.org/)
+      - [Feminists Against Censorship](https://www.infotextmanuscripts.org/ncropa/ncropa_fac.html)，由 Avedon Carol 维护。
+  - id: 132
+    kind: oir
+    source: |-
+      [Please contact the author with further suggestions.]
+    step1: |-
+      [Please contact the author with further suggestions.]
+    step2: |-
+      〔如有其他建议，请与作者联系。〕
+  - id: 133
+    kind: ack
+    source: |-
+      The author would like to acknowledge the helpful suggestions and comments offered in the preparation this article by Anne Eaton, Inger Leemans, Wijnand Mijnhardt, Annelies Monseré, Michael Newall, Katrien Schaubroeck. He also thanks the publisher Palgrave Macmillan for permission to re-use a few paragraphs from his introduction to the book *Pornographic Art and the Aesthetics of Pornography* (2013).
+    step1: |-
+      作者感谢 Anne Eaton、Inger Leemans、Wijnand Mijnhardt、Annelies Monseré、Michael Newall、Katrien Schaubroeck 在本文写作过程中提出的有益建议与评论。他还感谢帕尔格雷夫·麦克米伦出版社准许重印其《色情艺术与色情美学》（*Pornographic Art and the Aesthetics of Pornography*，2013）一书导言中的若干段落。
+    step2: |-
+      本文撰写期间，Anne Eaton、Inger Leemans、Wijnand Mijnhardt、Annelies Monseré、Michael Newall、Katrien Schaubroeck 诸君惠赐有益的建议与评论，作者谨致谢意。作者并感谢帕尔格雷夫·麦克米伦出版社许可，重印其《色情艺术与色情美学》（*Pornographic Art and the Aesthetics of Pornography*，2013）一书导言中的若干段落。

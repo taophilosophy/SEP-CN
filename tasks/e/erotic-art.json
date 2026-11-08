@@ -2,8 +2,72 @@
   "slug": "erotic-art",
   "kind": "retranslate",
   "zh_doc": "e/erotic-art.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T08:14:36Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "EH-main-20261108b",
+      "at": "2026-11-08T09:42:49Z",
+      "evidence": "账本 133 段（body 130/oir 2/ack 1）lq check 守恒通过（软旗留痕：节标题 step1==step2 2 条、段84 脚注键补回 [^maes-2009]、段100/101/103 斜体→书名号 3 条）；compose --write 输出 43,114 字符/462 行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "EH-main-20261108b",
+      "at": "2026-11-08T09:42:49Z",
+      "evidence": "逐段对照源钉（pubinfo 2014-08-20；2023-02-07 实质修订 / Spring 2023）：段 133:133；脚注标记 237:237 多重集全等；脚注定义 150:150 键集全等；节 19:19；作者-年引注 109:108（源多 Levinson 2006×1 系汉名行文，非漏译）；数字 token 909:893（源多系 20th/18th/19th/21st 上标序数与 1960s/1860s 年代词转汉数字及 byline 月份，译多 2 为成书日期 8 月/2 月）；相关词条 9 项 1 项英文保留（SUMMARY 无对应子条目）；refs 节两处英文子标题译为中文"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "EH-main-20261108b",
+      "at": "2026-11-08T09:44:08Z",
+      "evidence": "check_prose 39→10：实修 30 处（长句 6 拆分、de-chain 20、被动 2、存在句 1、弱动词 1），余 10 条全为引文块内部（行 37/91/113/151/209/213/219/229/257 直引原文，ADR-0020 豁免，含 1 条被动与 1 条长句）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "EH-main-20261108b",
+      "at": "2026-11-08T09:44:11Z",
+      "evidence": "s3 终检：check_style --docs --strict 0；check_academic --strict OK；check_math 0 missing/0 unbalanced；check_prose 10 条引文豁免；对账复核同 s1（段 133:133、标记 237:237、defs 150:150、节 19:19）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261108b",
+      "at": "2026-11-08T09:46:11Z",
+      "evidence": "r1 段级核销（独立复核）：数字 token 909:893 逐项定位（上标序数 20ᵗʰ/18ᵗʰ/19ᵗʰ/21ˢᵗ、1960s/1860s 年代词、byline 月份）；作者-年引注 109:108（Levinson 2006 汉名行文）；脚注键 237:237 无孤儿无缺失；defs 150:150；节 19:19；专名抽检 Tintoretto/Titian/Manet/Vermeer/Zurbaran 与源一致"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261108b",
+      "at": "2026-11-08T09:46:11Z",
+      "evidence": "r2 句级复读：462 行全篇通读，术语（情色艺术/情色图像/性刺激艺术/有意味的形式/心理距离/男性凝视/身体美学）前后一致；引文块逐条与源比对；无 ASCII 引号、直角引号、英文虚词混入、重复长行（程序扫描 0）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261108b",
+      "at": "2026-11-08T09:46:14Z",
+      "evidence": "r3 终检：本词条四检全绿（style 0 / academic OK / math 0 / prose 10 引文豁免）；术语 20 行 + 人名 47 行入册后 check_terms 绿（仅既有 attribution 告警）；check_all 其余六项绿，SUMMARY 结构审计红系并行会话 h/holkot 在途未提交改动（非本词条）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261108b",
+      "at": "2026-11-08T09:46:14Z",
+      "evidence": "done 终审签收：九步齐；英文 12,517 词→中文 15,269 汉字/462 行；段 133:133、标记 237:237、defs 150:150、节 19:19、作者-年 109:108；四检全绿（prose 10 条引文豁免）；术语 20 + 人名 47 登记"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T11:02:18Z",
   "version_pin": {
