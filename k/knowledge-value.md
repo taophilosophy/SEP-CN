@@ -220,6 +220,10 @@ Lynch 从这类思想实验得出的一个结论是：理解拥有单纯知识�
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+
+### Works Cited
+### Other Important Works
+
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=knowledge-value)。
@@ -241,9 +245,6 @@ Lynch 从这类思想实验得出的一个结论是：理解拥有单纯知识�
 ### 致谢
 
 感谢 Earl Conee、Alan Millar 以及《斯坦福哲学百科全书》的几位审稿人对本词条早期版本提出有益的意见。
-
-### Works Cited
-### Other Important Works
 
 [^abath-2025]: Abath, André J., 2025, “What’s Going On? Disinformation, Understanding, and Ignorance”, *Episteme*, first online 19 June 2025. doi:10.1017/epi.2025.10048
 
