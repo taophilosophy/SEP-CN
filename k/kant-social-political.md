@@ -135,6 +135,9 @@
   * *Religion and Rational Theology*（宗教与理性神学），Allen Wood 与 George di Giovanni 译，1996。相关内容：《单纯理性界限内的宗教》、《系科之争》。
   * *Anthropology, History, and Education*（人类学、历史与教育），Robert Louden 与 Guenther Zoeller 译（2007）。相关内容：《世界公民观点之下的普遍历史观念》、《实用人类学》与《论教育学》一书。
 
+
+### Secondary Sources.
+
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-social-political)。
@@ -150,8 +153,6 @@
 自利契约论 | 世界主义 | 民主 | 托马斯·霍布斯 | 伊曼努尔·康德 | 康德对理性的论述 | 康德的道德哲学 | 自由主义 | 积极自由和消极自由 | 约翰·洛克 | 自然法理论 | 财产和所有权 | 法律惩罚 | 让-雅克·卢梭
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
-### Secondary Sources.
 
 [^ameriks-2009]: Ameriks, Karl and Otfried Höffe (eds.), 2009, *Kant’s Moral and Legal Philosophy*, Nicholas Walker (trans.), New York: Cambridge University Press.
 
