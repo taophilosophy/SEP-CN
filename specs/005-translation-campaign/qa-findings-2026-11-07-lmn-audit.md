@@ -111,3 +111,34 @@
 
 
 
+
+## 8. L 批复账、纠正与 langer 收编（2026-11-09，L-main-20261109）
+
+**起因**：用户指派本会话专责 L 批，先复算同步进度、纠正账实，再续译（不使用子代理）。
+
+**五方复算**（`script/lmn_audit4.py l` + 结构对账 `script/tmp/l_parity.py`）：
+
+| 正式词条 | 成稿 | done | 在途 | pending 任务 | 未建任务 | 剩余源文词数 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 144 | 19 | 18 | 1（langer） | 0 | 125 | 2,013,089 |
+
+* **唯一账实偏差：`l/langer` 状态滞后**。账本 113 段 step1/step2 双填（HEAD 仅至段 84，段 85–113 与 compose 成稿均为工作区未提交件）、成稿 514 行，而任务 `state=cleared`、steps 仅 1 步（clear）。判定：前会话中断遗留，非质量件问题。
+* **`luxemburg` 引号、`lorenzo-valla`/`lambert-auxerre` 混排、`logic-preference` 系统性漏译**（§7 所记四项）复核：均已在既有提交落库，本轮零复发。
+* 其余 18 条 done 与 §7 一致：九步齐、账本双填、尾节（学术工具/其他网络资源/相关词条/参考文献）齐备，无「有稿无任务」「done 无稿」。
+
+**纠正（本轮实修，langer）**：
+
+1. **收编检查点**：账本 113 段 + compose 成稿先行提交（1334cdc2），避免并行会话再收编。
+2. **s1 结构对账**：节标题 18=18、引块 10=10、markers 462=462、defs 257=257、脚注引用 216=216 逐键零差异、相关词条 10 项全映射（修 `music: history of western philosophy of, since 1800` → 西方音乐哲学史：自 1800 年以来）、`biblio_audit` 0 疑点；数字差异 6 类定性（600,000→60 万册；1960s–1990s→1960–90 年代；58 岁→五十八岁 等）；figures 0。
+3. **s2 语言质量**：prose 72→4（长句 38→2、de-chain 21→1、weak-verb 9→1、passive-bei 4→0），余 4 项均在引文块/内嵌引语内，按 ADR-0020 豁免；style 1→0（`**普遍的**“` 补空格）。补丁脚本逐条计数断言、幂等、残余≠0 禁写回。
+4. **s3 登记**：术语 9 行（虚拟现实、生命意蕴、主导形式、主导幻象、记法相对性、公设系统、超公设、符号制造、凝缩）、人名 25 行（Selig/Anderson/Tobey/Graves/Lynch/Stebbing/de Laguna/Calkins/Ladd-Franklin/Welby/Agnes Hoernlé/Sewall/Kraft/Bühler/Geertz/Felix Cohen/William Langer/Gombrich/Flaubert/Sapir/Koffka/Malraux/Valéry/Hindemith/Jorn）。**登记行被并行会话 ef67405e、5dbc8cc2 一并收编**（内容核对无覆盖、无改写他人提交，按并行纪律仅留痕）。
+
+**判定与不回填**：
+
+* 账本 step2 与成稿的强调形态分歧（账本 `*中文*` vs 成稿 `**中文**`）为管线常态（done 词条同例：账本 0 处 `**`、成稿有 `**`），**不回填账本**。
+* s2 实修不回写账本 step2，成稿即终稿（沿用 C 批「勿再 compose --write 回退」先例）。
+* `check_terms` 报登记册 2 条重复行（`substantial form` 475/2703、`Revelation` 1189/2754）为**他会话既有**，非本轮引入，留待治理裁定。
+
+**r1–r3**：r1 已过（源文对照 + 脚注逐键核销 + 20 段语义抽查，初译 actor 为前会话，本审独立）。r2/r3 按 `rules/04` 冷置条款，先做其他词条后回读。
+
+**本批下一步**：①langer 冷置回读 → r2/r3 → done；②125 条未建任务按源文词数升序建任务翻译（首条 la-forge 7,851 词）。
