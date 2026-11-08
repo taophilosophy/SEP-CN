@@ -986,272 +986,362 @@ segments:
     kind: body
     source: |-
       **(SPC)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（SPC）**
+    step2: |-
+      **（SPC）**
   - id: 122
     kind: body
     source: |-
       If *S* perceives *p*, and this causes *S* to believe *q*, then *S* perceives *q*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *S* 知觉到 *p*，而这使 *S* 相信 *q*，则 *S* 知觉到 *q*。
+    step2: |-
+      若 *S* 知觉到 *p*，而这使 *S* 相信 *q*，则 *S* 知觉到 *q*。
   - id: 123
     kind: body
     source: |-
       ## 4. The Argument From Not (Easily) Knowable Propositions
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 不可（轻易）知命题的论证
+    step2: |-
+      ## 4. 不可（轻易）知命题的论证
   - id: 124
     kind: body
     source: |-
       Another anticlosure argument is that there are some sorts of propositions we cannot know unless perhaps we take extraordinary measures, yet such propositions are entailed by mundane claims whose truth we do know. Since this would be impossible if K were correct, K must be false. The same difficulty is sometimes discussed under the heading *problem of easy knowledge*, since some theorists (Cohen 2002)[^cohen-2002] believe that certain things are difficult to know, in the sense that they cannot be known by deduction from banal knowledge. The argument has different versions depending on which propositions are said to be hard knowledge. According to Dretske (and perhaps Nozick as well), we cannot easily know that *limiting propositions* or *heavyweight propositions* are true. These resemble propositions Moore (1959) considered certainly true and that Wittgenstein (1969) declared to be unknowable (but Wittgenstein considered them unknowable on the dubious grounds that they must be true if we are to entertain doubts). Another possibility is that we cannot easily know *lottery propositions*. A special case of the argument from unknowable propositions starts with the claim that we cannot know the falsity of skeptical hypotheses. We will consider this third view in the next section.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一个反闭合论证说：有些命题，除非采取非常手段，我们无法知道；然而这类命题却由我们确知其真的平常断言所蕴涵。若 K 正确，这就不可能，所以 K 必假。同一困难有时在“轻易知识问题”这一标题下讨论，因为一些理论家（科恩 2002）[^cohen-2002] 相信某些事难以知道，意思是它们无法由平庸知识演绎得知。该论证有不同版本，取决于哪些命题被说成难以知道。按德雷茨克（也许还有诺齐克），我们无法轻易知道 *限定性命题* 或 *重量级命题* 为真。这类命题类似于摩尔（1959）视为确定真、而维特根斯坦（1969）宣称不可知的命题（但维特根斯坦判其不可知的理由可疑：若我们要提出怀疑，它们就必须为真）。另一种可能是，我们无法轻易知道 *彩票命题*。不可知命题论证有一个特例，其出发点是：我们无法知道怀疑论假设为假。这一第三观点将在下一节讨论。
+    step2: |-
+      另一个反闭合论证说：有些命题，除非采取非常手段，我们无法知道；然而这类命题却由我们确知其真的平常断言所蕴涵。若 K 正确，这就不可能，所以 K 必假。同一困难有时在“轻易知识问题”这一标题下讨论，因为一些理论家（科恩 2002）[^cohen-2002] 相信某些事难以知道，意思是它们无法由平庸知识演绎得知。该论证有不同版本，取决于哪些命题被说成难以知道。按德雷茨克（也许还有诺齐克），我们无法轻易知道 *限定性命题* 或 *重量级命题* 为真。这类命题类似于摩尔（1959）视为确定真、而维特根斯坦（1969）宣称不可知的命题（但维特根斯坦判其不可知的理由可疑：若我们要提出怀疑，它们就必须为真）。另一种可能是，我们无法轻易知道 *彩票命题*。不可知命题论证有一个特例，其出发点是：我们无法知道怀疑论假设为假。这一第三观点将在下一节讨论。
   - id: 125
     kind: body
     source: |-
       ### 4.1 The Argument from Limiting Propositions
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 限定性命题的论证
+    step2: |-
+      ### 4.1 限定性命题的论证
   - id: 126
     kind: body
     source: |-
       Dretske did not clearly delineate the class of propositions he called “limiting” (in 2003) or “heavyweight” (in 2005). Some of the examples he provided are “There is a past,” “There are physical objects,” and “I am not being fooled by a clever deception.” He appeared to think that these propositions have a property we may call “elusiveness,” where *p* is elusive for me if and only if *p*’s falsity would not change my experiences. But being limiting does not coincide with being elusive. If there were no physical objects, my experiences would be changed dramatically, since I would not exist. So some limiting propositions are not elusive. As to whether all elusive claims are limiting, it is hard to say, because of the squishiness of the term “limiting”. *Not-mule* is elusive, but is it limiting?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      德雷茨克没有清楚界定他所谓“限定性”（2003）或“重量级”（2005）命题的范围。他给出的一些例子是“有过去存在”“有物理对象存在”“我没有被精巧的欺骗所愚弄”。他似乎认为这些命题有一种可称为“难以捉摸性”（elusiveness）的性质：*p* 对我来说难以捉摸，当且仅当 *p* 为假不会改变我的经验。但限定性并不等同于难以捉摸性。若没有物理对象，我的经验会大变，因为我将不存在。所以有些限定性命题并不难以捉摸。至于一切难以捉摸的断言是否都属限定性，则很难说，因为“限定性”一词弹性太大。*非骡子* 难以捉摸，但它算限定性吗？
+    step2: |-
+      德雷茨克没有清楚界定他所谓“限定性”（2003）或“重量级”（2005）命题的范围。他给出的一些例子是“有过去存在”“有物理对象存在”“我没有被精巧的欺骗所愚弄”。他似乎认为这些命题有一种可称为“难以捉摸性”（elusiveness）的性质：*p* 对我来说难以捉摸，当且仅当 *p* 为假不会改变我的经验。但限定性并不等同于难以捉摸性。若没有物理对象，我的经验会大变，因为我将不存在。所以有些限定性命题并不难以捉摸。至于一切难以捉摸的断言是否都属限定性，则很难说，因为“限定性”一词弹性太大。*非骡子* 难以捉摸，但它算限定性吗？
   - id: 127
     kind: body
     source: |-
       Can’t we know limiting propositions? If not, and if we do know things that entail them, Dretske thought he had further support for his conclusive reasons view, assuming, as he did, that his view rules out our knowing limiting propositions (while allowing knowledge of things that entail them). However, this assumption is false (Hawthorne 2005, Luper 2006)[^hawthorne-2005][^luper-2006]. We do have conclusive reason to believe some limiting propositions, such as that there are physical objects. Still, Dretske might abandon the notion of a limiting proposition in favor of the notion of elusive propositions, and cite, in favor of his conclusive reasons view, and against K, the facts that we cannot know elusive claims but we can know things that imply them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们就不能知道限定性命题吗？若不能，且我们确实知道那些蕴涵它们的事，德雷茨克便认为他的决定性理由观点又多了一层支持。他假定自己的观点排除我们对限定性命题的知道（同时允许我们知道蕴涵它们的事）。然而这一假定为假（霍桑 2005、Luper 2006）[^hawthorne-2005][^luper-2006]。对某些限定性命题（如有物理对象存在），我们确实拥有决定性理由去相信。不过，德雷茨克可以放弃限定性命题概念，转用难以捉摸命题概念，并援引以下事实支持其决定性理由观点、反对 K：我们无法知道难以捉摸的断言，却能知道蕴涵它们的事。
+    step2: |-
+      我们就不能知道限定性命题吗？若不能，且我们确实知道那些蕴涵它们的事，德雷茨克便认为他的决定性理由观点又多了一层支持。他假定自己的观点排除我们对限定性命题的知道（同时允许我们知道蕴涵它们的事）。然而这一假定为假（霍桑 2005、Luper 2006）[^hawthorne-2005][^luper-2006]。对某些限定性命题（如有物理对象存在），我们确实拥有决定性理由去相信。不过，德雷茨克可以放弃限定性命题概念，转用难以捉摸命题概念，并援引以下事实支持其决定性理由观点、反对 K：我们无法知道难以捉摸的断言，却能知道蕴涵它们的事。
   - id: 128
     kind: body
     source: |-
       In order to rule out knowledge of limiting/elusive propositions, Dretske offered two sorts of argument, which we may call the *argument from perception* and the *argument from pseudocircularity*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为排除对限定性／难以捉摸命题的知道，德雷茨克提出两类论证，我们不妨称为 *知觉论证* 与 *伪循环论证*。
+    step2: |-
+      为排除对限定性／难以捉摸命题的知道，德雷茨克提出两类论证，我们不妨称为 *知觉论证* 与 *伪循环论证*。
   - id: 129
     kind: body
     source: |-
       The argument from perception starts with the claims that (a) we do not perceive that limiting/elusive claims hold and (b) we do not know, via perception, that limiting/elusive claims hold. Since it is hard to see how else we could know limiting/elusive propositions, (a) and (b) are good grounds for concluding that we just do not know that they hold.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      知觉论证从两项主张开始：(a) 我们知觉不到限定性／难以捉摸的断言成立；(b) 我们无法凭知觉知道这类断言成立。既然很难看出我们还能凭什么知道限定性／难以捉摸命题，(a) 与 (b) 便是好理由，可据以断定我们根本不知道它们成立。
+    step2: |-
+      知觉论证从两项主张开始：(a) 我们知觉不到限定性／难以捉摸的断言成立；(b) 我们无法凭知觉知道这类断言成立。既然很难看出我们还能凭什么知道限定性／难以捉摸命题，(a) 与 (b) 便是好理由，可据以断定我们根本不知道它们成立。
   - id: 130
     kind: body
     source: |-
       There is no doubt that (a) and (b) have considerable plausibility. Nonetheless, they are controversial. To explain the truth of (a) and (b), Dretske counted on his conclusive reasons analysis of perception. His critics may cite the safe indication account of perception as the basis for rejecting (a) and (b). Luper (2006), for example, argues against both, chiefly on the grounds that we can perceive and know some elusive claims (such as *not-mule*) indirectly, by directly perceiving claims (such as *zeb*) that entail them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      毫无疑问，(a) 与 (b) 相当可信。但它们仍有争议。为解释 (a) 与 (b) 为何为真，德雷茨克依靠他对知觉的决定性理由分析。批评者则可以援引知觉的安全指示说明，作为拒斥 (a) 与 (b) 的依据。例如，Luper（2006）对二者都作反驳，主要理由是：我们能够通过直接知觉到蕴涵某些难以捉摸断言（如 *非骡子*）的断言（如 *斑马*），而间接地知觉到并知道那些断言。
+    step2: |-
+      毫无疑问，(a) 与 (b) 相当可信。但它们仍有争议。为解释 (a) 与 (b) 为何为真，德雷茨克依靠他对知觉的决定性理由分析。批评者则可以援引知觉的安全指示说明，作为拒斥 (a) 与 (b) 的依据。例如，Luper（2006）对二者都作反驳，主要理由是：我们能够通过直接知觉到蕴涵某些难以捉摸断言（如 *非骡子*）的断言（如 *斑马*），而间接地知觉到并知道那些断言。
   - id: 131
     kind: body
     source: |-
       Dretske suggested another reason for ruling out knowledge of limiting/elusive claims. He thought we can know banal facts (e.g., we ate breakfast) without knowing limiting/elusive claims they entail (e.g., the past is real) *so long as* those limiting/elusive claims are *true*, but we cannot then turn around and employ the former as our basis for knowing the latter. Suppose we take ourselves to know some claim, *q*, by inferring it from another claim, *p*, which we know, but our knowing *p* in the first place depends on the truth of *q*. Call this *pseudocircular reasoning*. According to Dretske, pseudocircular reasoning is unacceptable, and yet it is precisely what we rely on when we attempt to know limiting/elusive claims such as denials of skeptical hypotheses by deducing them from ordinary knowledge claims that entail them: we will not know the latter in the first place unless the former are true. The problem Dretske here raised was pressed earlier by critics of broadly reliabilist accounts of knowledge, such as Richard Fumerton (1995, 178). Jonathan Vogel (2000) discusses it under the heading *bootstrapping*, the procedure employed when, e.g., someone who has no initial evidence about the reliability of a gas gauge, comes to believe *p* on several different occasions because the gauge indicates *p*, and thereby knows *p* according to reliabilist accounts of knowledge, then infers that the gauge is reliable, by induction. By bootstrapping we may move—illegitimately, according to Vogel—from beliefs formed through a reliable process to the knowledge that those beliefs were arrived at through a reliable process. One may know *p* using a gauge in the first instance only if that gauge is reliable; hence, to conclude it is reliable solely on the basis of its track record involves pseudocircular reasoning.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      德雷茨克还提出另一个理由，以排除对限定性／难以捉摸断言的知道。他认为，我们可以知道平庸事实（如我们吃过早饭），却不知道它们所蕴涵的限定性／难以捉摸断言（如过去真实存在）——只要后者为 *真*；但我们不能转过身来，拿前者当作知道后者的依据。设我们自认为知道某断言 *q*，办法是从另一条我们知道的断言 *p* 推出它，而我们当初知道 *p* 又依赖 *q* 为真。这便叫 *伪循环推理*。按德雷茨克，伪循环推理不可接受；然而，当我们试图从蕴涵限定性／难以捉摸断言（如对怀疑论假设的否定）的平常知识断言演绎出这些断言、从而知道它们时，我们所依赖的恰恰就是伪循环推理：除非那些断言为真，我们当初就不知道那些平常断言。德雷茨克在此提出的问题，早先已由宽泛可靠论知识说明的批评者（如理查德·富默顿 1995, 178）提出过。乔纳森·沃格尔（2000）在 *自举* 这一标题下讨论它。“自举”指这样一种程序：某人起初对燃气表的可靠性毫无证据，却因燃气表指示 *p* 而在多个不同场合相信 *p*；按可靠论知识说明，他由此知道 *p*；随后又以归纳法推断该表可靠。按沃格尔，借自举，我们可以——但不合法地——从经由可靠过程形成的信念，走到“那些信念是经由可靠过程得到的”这一知识。一个人起初只有在该表可靠时才能用表知道 *p*；因此，仅凭该表以往的记录就断定它可靠，便涉及伪循环推理。
+    step2: |-
+      德雷茨克还提出另一个理由，以排除对限定性／难以捉摸断言的知道。他认为，我们可以知道平庸事实（如我们吃过早饭），却不知道它们所蕴涵的限定性／难以捉摸断言（如过去真实存在）——只要后者为 *真*；但我们不能转过身来，拿前者当作知道后者的依据。设我们自认为知道某断言 *q*，办法是从另一条我们知道的断言 *p* 推出它，而我们当初知道 *p* 又依赖 *q* 为真。这便叫 *伪循环推理*。按德雷茨克，伪循环推理不可接受；然而，当我们试图从蕴涵限定性／难以捉摸断言（如对怀疑论假设的否定）的平常知识断言演绎出这些断言、从而知道它们时，我们所依赖的恰恰就是伪循环推理：除非那些断言为真，我们当初就不知道那些平常断言。德雷茨克在此提出的问题，早先已由宽泛可靠论知识说明的批评者（如理查德·富默顿 1995, 178）提出过。乔纳森·沃格尔（2000）在 *自举* 这一标题下讨论它。“自举”指这样一种程序：某人起初对燃气表的可靠性毫无证据，却因燃气表指示 *p* 而在多个不同场合相信 *p*；按可靠论知识说明，他由此知道 *p*；随后又以归纳法推断该表可靠。按沃格尔，借自举，我们可以——但不合法地——从经由可靠过程形成的信念，走到“那些信念是经由可靠过程得到的”这一知识。一个人起初只有在该表可靠时才能用表知道 *p*；因此，仅凭该表以往的记录就断定它可靠，便涉及伪循环推理。
   - id: 132
     kind: body
     source: |-
       Theorists have long objected to knowledge claims whose truth depends on a fact that itself has not been established, especially if that fact is merely taken for granted. It is also standard to reject any knowledge claim whose pedigree smacks of circularity. Both worries arise if we claim to know that one proposition, *q*, is true on the grounds that it is entailed by a second proposition, *p*, even though the truth of *q* was taken for granted in coming to know that *p* is true. Many theorists will reject pseudocircular reasoning on precisely these traditional grounds. Dretske did not share the first worry but he did raise the second, the concern about pseudocircular reasoning. But there is a growing body of work that breaks with tradition and defends some forms of epistemic circularity (this work is heavily criticized, in turn, on the grounds that it is open to versions of traditional objections). Max Black (1949) and Nelson Goodman (1955) were early examples; others include Van Cleve 1979 and 2003; Luper 2004; Papineau 1992; and Alston 1993. Dretske himself meant to break with tradition, writing under the banner of ‘externalism.’ He explicitly said that most, if not all, of our mundane knowledge claims depend on facts we have not established. Indeed, he cited this as a virtue of his conclusive reasons view. Yet nothing in the nature of the conclusive reasons account rules out our knowing limiting propositions using pseudocircular reasoning, which leaves his reservations mysterious. A set of jar-ish experiences can constitute a conclusive reason for believing *jar*, a jar of cookies is in front of me. If I then believe *objects*, there are physical objects, because it is entailed by *jar*, I have conclusive reason for believing *objects*, a limiting proposition. (If *objects* were false, *jar* would be too, and I would lack my jar-ish experiences.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理论家早就反对这样的知识声称：其真取决于一个本身尚未确立的事实，尤其当该事实只被当作理所当然时。同样常见的是，凡谱系带循环气味的知识声称，一律拒斥。若我们声称知道命题 *q* 为真，理由是它由另一命题 *p* 所蕴涵，而我们在知道 *p* 为真时又把 *q* 的真当作理所当然，上述两种担忧便都出现。许多理论家会恰以这些传统理由拒斥伪循环推理。德雷茨克不认同第一种担忧，却提出了第二种，即对伪循环推理的担忧。但已有越来越多的工作打破传统，为某些形式的知识循环辩护（这些工作反过来又饱受批评，说它们挡不住传统反驳的各种版本）。马克斯·布莱克（1949）与纳尔逊·古德曼（1955）是早期例子；其他还有 Van Cleve 1979 与 2003；Luper 2004；帕皮诺 1992；阿尔斯顿 1993。德雷茨克本人也意在破传统，其旗号是“外在主义”。他明言，我们大多数（若非全部）平常知识声称都依赖我们尚未确立的事实。他甚至把这列为决定性理由观点的一项优点。然而，决定性理由说明的本性并不排除我们借伪循环推理知道限定性命题，这就使他的保留显得神秘。一簇“罐子似的”经验可以构成相信 *罐子*（我面前有一罐饼干）的决定性理由。若我随后因 *罐子* 蕴涵 *对象*（有物理对象存在）而相信 *对象*，我便拥有相信 *对象* 这一限定性命题的决定性理由。（若 *对象* 为假，*罐子* 也会为假，我也不会拥有那些罐子似的经验。）
+    step2: |-
+      理论家早就反对这样的知识声称：其真取决于一个本身尚未确立的事实，尤其当该事实只被当作理所当然时。同样常见的是，凡谱系带循环气味的知识声称，一律拒斥。若我们声称知道命题 *q* 为真，理由是它由另一命题 *p* 所蕴涵，而我们在知道 *p* 为真时又把 *q* 的真当作理所当然，上述两种担忧便都出现。许多理论家会恰以这些传统理由拒斥伪循环推理。德雷茨克不认同第一种担忧，却提出了第二种，即对伪循环推理的担忧。但已有越来越多的工作打破传统，为某些形式的知识循环辩护（这些工作反过来又饱受批评，说它们挡不住传统反驳的各种版本）。马克斯·布莱克（1949）与纳尔逊·古德曼（1955）是早期例子；其他还有 Van Cleve 1979 与 2003；Luper 2004；帕皮诺 1992；阿尔斯顿 1993。德雷茨克本人也意在破传统，其旗号是“外在主义”。他明言，我们大多数（若非全部）平常知识声称都依赖我们尚未确立的事实。他甚至把这列为决定性理由观点的一项优点。然而，决定性理由说明的本性并不排除我们借伪循环推理知道限定性命题，这就使他的保留显得神秘。一簇“罐子似的”经验可以构成相信 *罐子*（我面前有一罐饼干）的决定性理由。若我随后因 *罐子* 蕴涵 *对象*（有物理对象存在）而相信 *对象*，我便拥有相信 *对象* 这一限定性命题的决定性理由。（若 *对象* 为假，*罐子* 也会为假，我也不会拥有那些罐子似的经验。）
   - id: 133
     kind: body
     source: |-
       Dretske might have fallen back on the view that the conclusive reasons account rules out knowing elusive, as opposed to limiting, claims through pseudocircular reasoning, because we lack conclusive reasons for elusive claims no matter what sort of reasoning we employ. But this does not put Dretske’s account at odds with pseudocircular reasoning. And even this more limited position can be challenged (adapting a charge against Nozick in Shatz 1987)[^shatz-1987]. We might insist that *p* itself is a conclusive reason for believing *q* when we know *p* and *p* entails *q*. After all, assuming *p* entails *q*, if *q* were false so would *p* be. On this strategy we have a further argument for K: if *S* knows *p* (relying on some conclusive reason *R*), and *S* believes *q* because *S* knows *p* entails *q*, *S* has a conclusive reason for believing *q*, namely *p* (rather than *R*), and hence *S* knows *q*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      德雷茨克也许可以退守这样一种观点：决定性理由说明排除我们借伪循环推理知道难以捉摸的断言（而非限定性断言），因为无论采用哪种推理，我们对难以捉摸的断言都缺乏决定性理由。但这并不使他的说明与伪循环推理相冲突。而且，即便这个更有限的立场也可被挑战（可套用沙茨 1987 对诺齐克的一项指控）[^shatz-1987]。我们可以坚持：当我们知道 *p* 且 *p* 蕴涵 *q* 时，*p* 本身就是相信 *q* 的决定性理由。毕竟，假定 *p* 蕴涵 *q*，若 *q* 为假，*p* 也会为假。按此策略，我们便有支持 K 的进一步论证：若 *S* 知道 *p*（依靠某个决定性理由 *R*），且 *S* 因知道 *p* 蕴涵 *q* 而相信 *q*，则 *S* 拥有相信 *q* 的决定性理由，即 *p*（而非 *R*），故 *S* 知道 *q*。
+    step2: |-
+      德雷茨克也许可以退守这样一种观点：决定性理由说明排除我们借伪循环推理知道难以捉摸的断言（而非限定性断言），因为无论采用哪种推理，我们对难以捉摸的断言都缺乏决定性理由。但这并不使他的说明与伪循环推理相冲突。而且，即便这个更有限的立场也可被挑战（可套用沙茨 1987 对诺齐克的一项指控）[^shatz-1987]。我们可以坚持：当我们知道 *p* 且 *p* 蕴涵 *q* 时，*p* 本身就是相信 *q* 的决定性理由。毕竟，假定 *p* 蕴涵 *q*，若 *q* 为假，*p* 也会为假。按此策略，我们便有支持 K 的进一步论证：若 *S* 知道 *p*（依靠某个决定性理由 *R*），且 *S* 因知道 *p* 蕴涵 *q* 而相信 *q*，则 *S* 拥有相信 *q* 的决定性理由，即 *p*（而非 *R*），故 *S* 知道 *q*。
   - id: 134
     kind: body
     source: |-
       Another doubt about knowing elusive claims deductively via mundane claims is that this maneuver is improperly ampliative. Cohen claims that knowing the table is red does not position us to know “I am not a brain-in-a-vat being deceived into believing that the table is red” nor “it’s not the case that the table is white [but] illuminated by red lights” (2002: 313). In the transition from the former to the latter, our knowledge appears to have been amplified improperly. This concern may be due at least in large part to lack of precision in the application of entailment or deductive implication (Klein 2004)[^klein-2004]. Let *red* be the proposition that the table is red, *white* the proposition that the table is white, and *light* the proposition that the table is being illuminated by a red light. *Red* does not entail anything about the conditions under which the table is illuminated. In particular it does not entail the conjunction, *light & not-white*. The most we can infer is that the conjunction, *white & light*, is false, and that gives us no information whatever about the lighting conditions of the table. One could as easily infer the falsity of the conjunction, *white* *&* *not-light*. No amplification of the original known proposition, *red*, has come about.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一个疑虑是：借平常断言演绎地知道难以捉摸的断言，这种手法不正当地扩张了知识。科恩主张，知道桌子是红的，并不能使我们处于知道“我并非缸中之脑、正被欺骗而相信桌子是红的”的位置，也不能使我们处于知道“并非桌子是白的、只是被红灯照亮”的位置（2002: 313）。从前一知识转到后一知识，我们的知识似乎被不正当地放大了。这一担忧至少在很大程度上可能源于对蕴涵或演绎蕴涵的运用不够精确（克莱因 2004）[^klein-2004]。设 *红* 为“桌子是红的”这一命题，*白* 为“桌子是白的”，*灯* 为“桌子正被红灯照亮”。*红* 并不蕴涵任何关于桌子受照条件的东西。尤其，它不蕴涵合取 *灯 & 非白*。我们最多能推出合取 *白 & 灯* 为假，而这根本不给我们关于桌子受照条件的任何信息。人们同样可以推出合取 *白 & 非灯* 为假。原已知命题 *红* 并未被放大。
+    step2: |-
+      另一个疑虑是：借平常断言演绎地知道难以捉摸的断言，这种手法不正当地扩张了知识。科恩主张，知道桌子是红的，并不能使我们处于知道“我并非缸中之脑、正被欺骗而相信桌子是红的”的位置，也不能使我们处于知道“并非桌子是白的、只是被红灯照亮”的位置（2002: 313）。从前一知识转到后一知识，我们的知识似乎被不正当地放大了。这一担忧至少在很大程度上可能源于对蕴涵或演绎蕴涵的运用不够精确（克莱因 2004）[^klein-2004]。设 *红* 为“桌子是红的”这一命题，*白* 为“桌子是白的”，*灯* 为“桌子正被红灯照亮”。*红* 并不蕴涵任何关于桌子受照条件的东西。尤其，它不蕴涵合取 *灯 & 非白*。我们最多能推出合取 *白 & 灯* 为假，而这根本不给我们关于桌子受照条件的任何信息。人们同样可以推出合取 *白 & 非灯* 为假。原已知命题 *红* 并未被放大。
   - id: 135
     kind: body
     source: |-
       ### 4.2 The Argument from Lottery Propositions
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 彩票命题的论证
+    step2: |-
+      ### 4.2 彩票命题的论证
   - id: 136
     kind: body
     source: |-
       It seems apparent that I do not know *not-win*, I will not win the state lottery tonight, even though my odds for hitting it big are vanishingly small. But suppose my heart’s desire is to own a 10 million dollar villa in the French Riviera. It seems plausible to say that I know *not-buy*, I will not buy that villa tomorrow, since I lack the means, and that I know the conditional, if *win* then *buy*, i.e., tomorrow I will buy the villa if I win the state lottery tonight. From the conditional and *not-buy* it follows that *not-win*, so, given closure, knowing the conditional and *not-buy* positions me to know *not-win*. As this reasoning shows, the unknowability of claims like *not-win* together with the knowability of claims like *not-buy* position us to launch another challenge to closure.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      看来很明显：我不知道 *不中*，即我今晚不会中州彩票，尽管中大奖的几率微乎其微。但假定我梦寐以求的是在法国里维埃拉拥有一座千万美元别墅。似乎可以说，我知道 *不买*，即我明天不会买那座别墅，因为我财力不济；我也知道条件句“若 *中* 则 *买*”，即若我今晚中了州彩票，明天就会买下别墅。由该条件句与 *不买* 可推出 *不中*。于是，若闭合成立，知道该条件句与 *不买* 便使我处于知道 *不中* 的位置。这一推理表明：像 *不中* 这类断言的不可知，加上像 *不买* 这类断言的可知，使我们得以对闭合发起又一轮挑战。
+    step2: |-
+      看来很明显：我不知道 *不中*，即我今晚不会中州彩票，尽管中大奖的几率微乎其微。但假定我梦寐以求的是在法国里维埃拉拥有一座千万美元别墅。似乎可以说，我知道 *不买*，即我明天不会买那座别墅，因为我财力不济；我也知道条件句“若 *中* 则 *买*”，即若我今晚中了州彩票，明天就会买下别墅。由该条件句与 *不买* 可推出 *不中*。于是，若闭合成立，知道该条件句与 *不买* 便使我处于知道 *不中* 的位置。这一推理表明：像 *不中* 这类断言的不可知，加上像 *不买* 这类断言的可知，使我们得以对闭合发起又一轮挑战。
   - id: 137
     kind: body
     source: |-
       Let a *lottery proposition* be a proposition, like *not-win*, that (at least normally) is supportable only on the grounds that its probability is very high but less than 1. Vogel (1990, 2004) and Hawthorne (2004, 2005) have noted that a great number of propositions that do not actually involve lotteries resemble lottery propositions in that they can be given a probability that is close to but less than 1. Such propositions might be described as *lotteryesque*. The events mentioned in a claim can be subsumed under indefinitely many reference classes, and there is no authoritative way to choose which among these determines the probability of the subsumed events. By carefully selecting among these classes we can often find ways to suggest that the probability of a claim is less than 1. Take, for example, *not-stolen*, the proposition that the car you just parked in front of the house has not been stolen: by selecting the class, *red cars stolen from in front of your house in the last hour*, we can portray the statistical probability of *not-stolen* as 1. But by selecting, *cars stolen in the U.S.*, we can portray the probability as significantly less than 1. If, like lottery propositions, lotteryesque propositions are not easily known, they increase the pressure on the closure principle, since they are entailed by a wide range of mundane propositions which become unknowable, given closure.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      设 *彩票命题* 指像 *不中* 这样的命题：它（至少在通常情况下）只能以“其概率极高但小于 1”为据得到支持。沃格尔（1990, 2004）与霍桑（2004, 2005）指出，许多实际上与彩票无关的命题也类似彩票命题：人们可以给它们一个接近 1 但小于 1 的概率。这类命题不妨称为 *彩票式* 命题。一个断言所提到的事件可以归入无穷多参照类，而要在这些类中选定哪一个决定被归入事件的概率，并无权威办法。通过精心挑选参照类，我们常常能暗示某断言的概率小于 1。例如 *未被偷*，即你刚停在屋前的车没有被偷：若选取“过去一小时在你家门前被偷的红色汽车”这一类，我们可把 *未被偷* 的统计概率说成 1；但若选取“在美国被偷的汽车”这一类，我们又可把其概率说得远小于 1。若彩票式命题也像彩票命题那样不易知道，它们便加大了对闭合原则的压力，因为它们由大量平常命题所蕴涵，而按闭合，这些平常命题会变得不可知。
+    step2: |-
+      设 *彩票命题* 指像 *不中* 这样的命题：它（至少在通常情况下）只能以“其概率极高但小于 1”为据得到支持。沃格尔（1990, 2004）与霍桑（2004, 2005）指出，许多实际上与彩票无关的命题也类似彩票命题：人们可以给它们一个接近 1 但小于 1 的概率。这类命题不妨称为 *彩票式* 命题。一个断言所提到的事件可以归入无穷多参照类，而要在这些类中选定哪一个决定被归入事件的概率，并无权威办法。通过精心挑选参照类，我们常常能暗示某断言的概率小于 1。例如 *未被偷*，即你刚停在屋前的车没有被偷：若选取“过去一小时在你家门前被偷的红色汽车”这一类，我们可把 *未被偷* 的统计概率说成 1；但若选取“在美国被偷的汽车”这一类，我们又可把其概率说得远小于 1。若彩票式命题也像彩票命题那样不易知道，它们便加大了对闭合原则的压力，因为它们由大量平常命题所蕴涵，而按闭合，这些平常命题会变得不可知。
   - id: 138
     kind: body
     source: |-
       How great a threat to K (and GK) are lottery and lotteryesque propositions? The matter is somewhat controversial. However, there is a great deal to be said for treating lottery propositions one way and lotteryesque propositions another.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      彩票命题与彩票式命题对 K（以及 GK）构成多大威胁？此事有些争议。不过，把彩票命题与彩票式命题分开处理，很有道理。
+    step2: |-
+      彩票命题与彩票式命题对 K（以及 GK）构成多大威胁？此事有些争议。不过，把彩票命题与彩票式命题分开处理，很有道理。
   - id: 139
     kind: body
     source: |-
       As for lottery propositions: several theorists suggest that we do not in fact know that they are true because knowing them requires believing them because of something that *establishes* their truth, and we (normally) cannot establish the truth of lottery propositions. There are various ways to understand what is meant by “establishing” the truth of a claim. Dretske, as we have seen, thinks that knowledge entails having a conclusive reason for thinking as we do. David Armstrong (1973, p. 187) said that knowledge entails having a belief state that “ensures” truth. Safe indication theorists suggest that we know things when we believe them because of something that safely indicates their truth. And Harman and Sherman (2004, p. 492) say that knowledge requires believing as we do because of something “that settles the truth of that belief.” On all four views, we fail to know that a claim is true when our only grounds for believing it is that it is highly likely. However, the unknowability of lottery propositions is not a substantial threat to closure, since it is not obvious that there are propositions that are both known to be true and that entail lottery propositions. Consider the example discussed earlier: the conditional if *win* then *buy* together with *not-buy*. If I know these, then, by GK, I know *not-win*, a lottery proposition. But it is quite plausible to deny that I do know these. After all, I might win the lottery.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于彩票命题：若干理论家认为，我们实际上并不知道它们为真，因为要知道它们，就得因某个 *确立* 其真的事情而相信它们；而我们（通常）无法确立彩票命题的真。对“确立”一个断言的真，有各种理解方式。如我们所见，德雷茨克认为知识蕴涵拥有我们如此思想的决定性理由。大卫·阿姆斯特朗（1973, 第 187 页）说，知识蕴涵拥有一个“确保”真的信念状态。安全指示理论家认为，当我们因某个安全指示某事为真的事情而相信它时，我们便知道它。哈曼与舍曼（2004, 第 492 页）则说，知识要求我们因某个“确定该信念之真”的事情而如此相信。按这四种观点，当我们相信某断言为真的唯一依据是它极可能为真时，我们便不知道它为真。然而，彩票命题的不可知并不对闭合构成实质威胁，因为并不显然存在既被知道为真、又蕴涵彩票命题的命题。回想前面讨论的例子：条件句“若 *中* 则 *买*”连同 *不买*。若我知道这些，那么按 GK，我就知道 *不中*，一个彩票命题。但否认我知道这些，也颇合理。毕竟，我也可能中彩票。
+    step2: |-
+      关于彩票命题：若干理论家认为，我们实际上并不知道它们为真，因为要知道它们，就得因某个 *确立* 其真的事情而相信它们；而我们（通常）无法确立彩票命题的真。对“确立”一个断言的真，有各种理解方式。如我们所见，德雷茨克认为知识蕴涵拥有我们如此思想的决定性理由。大卫·阿姆斯特朗（1973, 第 187 页）说，知识蕴涵拥有一个“确保”真的信念状态。安全指示理论家认为，当我们因某个安全指示某事为真的事情而相信它时，我们便知道它。哈曼与舍曼（2004, 第 492 页）则说，知识要求我们因某个“确定该信念之真”的事情而如此相信。按这四种观点，当我们相信某断言为真的唯一依据是它极可能为真时，我们便不知道它为真。然而，彩票命题的不可知并不对闭合构成实质威胁，因为并不显然存在既被知道为真、又蕴涵彩票命题的命题。回想前面讨论的例子：条件句“若 *中* 则 *买*”连同 *不买*。若我知道这些，那么按 GK，我就知道 *不中*，一个彩票命题。但否认我知道这些，也颇合理。毕竟，我也可能中彩票。
   - id: 140
     kind: body
     source: |-
       Now consider lotteryesque propositions. We cannot defend closure by denying that we know any mundane proposition that entails a lotteryesque proposition since it is clear that we know that many things are true that entail lotteryesque propositions. To defend closure we must instead say that lotteryesque propositions are knowable. They differ from genuine lottery propositions in that they may be supportable on grounds that establish their truth. If I base my belief *not-stolen* solely on crime statistics, I will fail to know that it is true. But I can instead base it on observations, such as having just parked it in my garage, and so forth, that, under the circumstances, establish that *not-stolen* holds.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在考虑彩票式命题。我们不能靠否认我们知道任何蕴涵彩票式命题的平常命题来捍卫闭合，因为很清楚，我们知道许多蕴涵彩票式命题的事为真。要捍卫闭合，我们反倒必须说彩票式命题可知。它们与真正的彩票命题不同：它们可以基于确立其真的依据而得到支持。若我把信念 *未被偷* 仅建立在犯罪统计上，我就不会知道它为真。但我可以转而把它建立在观察上，例如我刚把车停进车库等等；这些观察在具体情形下确立了 *未被偷* 成立。
+    step2: |-
+      现在考虑彩票式命题。我们不能靠否认我们知道任何蕴涵彩票式命题的平常命题来捍卫闭合，因为很清楚，我们知道许多蕴涵彩票式命题的事为真。要捍卫闭合，我们反倒必须说彩票式命题可知。它们与真正的彩票命题不同：它们可以基于确立其真的依据而得到支持。若我把信念 *未被偷* 仅建立在犯罪统计上，我就不会知道它为真。但我可以转而把它建立在观察上，例如我刚把车停进车库等等；这些观察在具体情形下确立了 *未被偷* 成立。
   - id: 141
     kind: body
     source: |-
       ## 5. The Argument From Skepticism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. 怀疑论论证
+    step2: |-
+      ## 5. 怀疑论论证
   - id: 142
     kind: body
     source: |-
       According to Dretske and Nozick, we can account for the appeal of skepticism and explain where it goes wrong if we accept their view of knowledge and reject K. Rejecting knowledge closure is therefore the key to resolving skepticism. Given the importance of insight into the problem of skepticism, they would seem to have a good case for denying closure. Let us consider the story they present, and some worries about its acceptability.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按德雷茨克与诺齐克，若我们接受他们的知识观并拒斥 K，便能解释怀疑论的吸引力，也能说明它错在何处。因此，拒斥知识闭合是解决怀疑论的关键。鉴于洞悉怀疑论问题如此重要，他们似乎有充分理由否认闭合。且看他们讲述的故事，以及关于其可接受性的若干疑虑。
+    step2: |-
+      按德雷茨克与诺齐克，若我们接受他们的知识观并拒斥 K，便能解释怀疑论的吸引力，也能说明它错在何处。因此，拒斥知识闭合是解决怀疑论的关键。鉴于洞悉怀疑论问题如此重要，他们似乎有充分理由否认闭合。且看他们讲述的故事，以及关于其可接受性的若干疑虑。
   - id: 143
     kind: body
     source: |-
       ### 5.1 Skepticism and Antiskepticism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.1 怀疑论与反怀疑论
+    step2: |-
+      ### 5.1 怀疑论与反怀疑论
   - id: 144
     kind: body
     source: |-
       Dretske and Nozick focused on a form of skepticism that combines K with the assumption that we do not know that skeptical hypotheses are false. For example, I do not know *not*-*biv*: I am not a brain in a vat on a planet far from earth being deceiving by alien scientists. On the strength of these assumptions, skeptics argue that we do not know all sorts of commonsense claims that entail the falsity of skeptical hypotheses. For example, since *not*-*biv* is entailed by *h*, I am in San Antonio, skeptics may argue as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      德雷茨克与诺齐克关注一种怀疑论，它把 K 与“我们不知道怀疑论假设为假”这一假定结合起来。例如，我不知道 *非缸脑*：我并非一颗放在远离地球的行星上、正受外星科学家欺骗的缸中之脑。怀疑论者凭这些假定论证说：我们不知道各式各样蕴涵怀疑论假设为假的常识断言。例如，既然 *非缸脑* 由 *h*（我在圣安东尼奥）所蕴涵，怀疑论者便可这样论证：
+    step2: |-
+      德雷茨克与诺齐克关注一种怀疑论，它把 K 与“我们不知道怀疑论假设为假”这一假定结合起来。例如，我不知道 *非缸脑*：我并非一颗放在远离地球的行星上、正受外星科学家欺骗的缸中之脑。怀疑论者凭这些假定论证说：我们不知道各式各样蕴涵怀疑论假设为假的常识断言。例如，既然 *非缸脑* 由 *h*（我在圣安东尼奥）所蕴涵，怀疑论者便可这样论证：
   - id: 145
     kind: body
     source: |-
       **(1)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（1）**
+    step2: |-
+      **（1）**
   - id: 146
     kind: body
     source: |-
       K is true; i.e., if, while knowing *p*, *S* believes *q* because *S* knows that *p* entails *q*, then *S* knows *q*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      K 为真；即，若 *S* 在知道 *p* 的同时，因知道 *p* 蕴涵 *q* 而相信 *q*，则 *S* 知道 *q*。
+    step2: |-
+      K 为真；即，若 *S* 在知道 *p* 的同时，因知道 *p* 蕴涵 *q* 而相信 *q*，则 *S* 知道 *q*。
   - id: 147
     kind: body
     source: |-
       **(2)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（2）**
+    step2: |-
+      **（2）**
   - id: 148
     kind: body
     source: |-
       *h* entails *not-biv*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *h* 蕴涵 *非缸脑*。
+    step2: |-
+      *h* 蕴涵 *非缸脑*。
   - id: 149
     kind: body
     source: |-
       **(3)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（3）**
+    step2: |-
+      **（3）**
   - id: 150
     kind: body
     source: |-
       So if I know *h* and I believe *not-biv* because I know it is entailed by *h* then I know *not-biv*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以，若我知道 *h*，且因知道 *非缸脑* 由 *h* 蕴涵而相信它，则我知道 *非缸脑*。
+    step2: |-
+      所以，若我知道 *h*，且因知道 *非缸脑* 由 *h* 蕴涵而相信它，则我知道 *非缸脑*。
   - id: 151
     kind: body
     source: |-
       **(4)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（4）**
+    step2: |-
+      **（4）**
   - id: 152
     kind: body
     source: |-
       But I do not know *not-biv*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但我不知道 *非缸脑*。
+    step2: |-
+      但我不知道 *非缸脑*。
   - id: 153
     kind: body
     source: |-
       **(5)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（5）**
+    step2: |-
+      **（5）**
   - id: 154
     kind: body
     source: |-
       Hence I do not know *h*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      故我不知道 *h*。
+    step2: |-
+      故我不知道 *h*。
   - id: 155
     kind: body
     source: |-
       Dretske and Nozick were well aware that this argument can be turned on its head, as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      德雷茨克与诺齐克很清楚，这一论证可以反过来用，如下：
+    step2: |-
+      德雷茨克与诺齐克很清楚，这一论证可以反过来用，如下：
   - id: 156
     kind: body
     source: |-
       **(1)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（1）**
+    step2: |-
+      **（1）**
   - id: 157
     kind: body
     source: |-
       K is true; i.e., if, while knowing *p*, *S* believes *q* because *S* knows that *p* entails *q*, then *S* knows *q*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      K 为真；即，若 *S* 在知道 *p* 的同时，因知道 *p* 蕴涵 *q* 而相信 *q*，则 *S* 知道 *q*。
+    step2: |-
+      K 为真；即，若 *S* 在知道 *p* 的同时，因知道 *p* 蕴涵 *q* 而相信 *q*，则 *S* 知道 *q*。
   - id: 158
     kind: body
     source: |-
       **(2)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（2）**
+    step2: |-
+      **（2）**
   - id: 159
     kind: body
     source: |-
       *h* entails *not-biv*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *h* 蕴涵 *非缸脑*。
+    step2: |-
+      *h* 蕴涵 *非缸脑*。
   - id: 160
     kind: body
     source: |-
       **(3)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（3）**
+    step2: |-
+      **（3）**
   - id: 161
     kind: body
     source: |-
       So if I know *h* and I believe *not-biv* because I know it is entailed by *h* then I know *not-biv*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以，若我知道 *h*，且因知道 *非缸脑* 由 *h* 蕴涵而相信它，则我知道 *非缸脑*。
+    step2: |-
+      所以，若我知道 *h*，且因知道 *非缸脑* 由 *h* 蕴涵而相信它，则我知道 *非缸脑*。
   - id: 162
     kind: body
     source: |-
       **(4)′**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（4）′**
+    step2: |-
+      **（4）′**
   - id: 163
     kind: body
     source: |-
       I do know *h*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我确实知道 *h*。
+    step2: |-
+      我确实知道 *h*。
   - id: 164
     kind: body
     source: |-
       **(5)′**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（5）′**
+    step2: |-
+      **（5）′**
   - id: 165
     kind: body
     source: |-
       Hence I do know *not-biv*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      故我确实知道 *非缸脑*。
+    step2: |-
+      故我确实知道 *非缸脑*。
   - id: 166
     kind: body
     source: |-
