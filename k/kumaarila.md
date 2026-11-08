@@ -152,6 +152,11 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+
+### Critical editions of primary texts
+### Translations of primary texts
+### Secondary literature
+
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kumaarila)。
@@ -168,10 +173,6 @@
 抽象对象 | 法称 | 早期现代印度的分析哲学 | 古典印度哲学中的语言与证言 | 古典印度哲学中的逻辑学 | 古典印度哲学中的知觉经验与概念 | 古典印度哲学中的自我认识 | 知识证成的内在主义与外在主义观念 | 意义理论 | 托马斯·里德 | 可靠主义认识论 | 寂护
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
-### Critical editions of primary texts
-### Translations of primary texts
-### Secondary literature
 
 [^tantravārttika-1970]: *Tantravārttika*. Edited by Kashinath Vasudev Abhyankar, et al, 1970, ff., in *Śrīmajjaiminipraṇīte Mīmāṃsādarśane…: (Mīmāṃsākaṇṭīravakumārilabhaṭṭapraṇītatantravārttika sahitaśābarabhāṣyopetaḥ)* [7 volumes, comprising Kumārila’s *Tantravārttika*], Pune: Ānandāśrama Sanskrit Series.
 
