@@ -2,7 +2,7 @@
   "slug": "scholem",
   "kind": "retranslate",
   "zh_doc": "s/scholem.md",
-  "state": "s2_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -31,6 +31,13 @@
       "actor": "SZ-main-20261108b",
       "at": "2026-11-08T05:03:52Z",
       "evidence": "散文门禁 39 告警→5（全部豁免留痕）：实修 19 处=长句拆分 18+弱动词 1（加以节制→有所节制）+双被字句 1（神性被理性化、被祛除神话→历经）+的链降密 9（段38/51×2/55/56/57/59/62/63）+排比三连改单的（段17）+被字句（段59）；豁免 5 条附理由：段6 引文（JJC 44）、段18 引文（LY 287）、段29 引文（KS 88）、段31 括注对位（源文括号并列）、段64 引文（作者自译）；改后 lq check 守恒通过（69 段）→compose→italic_to_bold；style 0 issue、academic --strict 0 硬错误、math 无缺失、summary H1 0 mismatch"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "SZ-main-20261108b",
+      "at": "2026-11-08T06:49:41Z",
+      "evidence": "体例三校：check_style 0 issue；markdownlint-cli2 --no-globs s/scholem.md 0 error（修 6 处 MD004：OIR 节项目符号 - → *，源文符号不合本仓库星号体例，已改账本段69 step2 后重组）；check_academic --strict 0 硬错误；check_math missing/unbalanced 空；check_render_artifacts 0 产物缺陷；check_mulu_s 0 重复/0 硬错误；术语登记一致性：告警 6→3（补全首现全形：索伦·克尔凯郭尔、弗朗茨·卡夫卡、以撒·卢里亚；残留 3 条为噪声：Molyneux 两条本文未涉及、Wasserstrom 仅见于 (Wasserstrom 1999) 引注组按体例不译），硬错误 0；check_all 中 scholem 无红点（SUMMARY 结构审计 1 硬错误属 h/holkot.md（EH-main 在途）、术语冲突 social contract 属 august-rehberg 词汇表滞后，均非本部）；顺手清理根目录 0 字节乱名散件（check_junk 转绿）"
     }
   ],
   "blockers": [],
