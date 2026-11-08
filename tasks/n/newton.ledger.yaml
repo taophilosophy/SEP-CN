@@ -257,56 +257,74 @@ segments:
     kind: body
     source: |-
       The many other areas of Newton's intellectual endeavors made less of a difference to eighteenth century philosophy and science. In mathematics, Newton was the first to develop a full range of algorithms for symbolically determining what we now call integrals and derivatives, but he subsequently became fundamentally opposed to the idea, championed by Leibniz, of transforming mathematics into a discipline grounded in symbol manipulation. Newton thought the only way of rendering limits rigorous lay in extending geometry to incorporate them, a view that went entirely against the tide in the development of mathematics in the eighteenth and nineteenth ceturies. In chemistry Newton conducted a vast array of experiments, but the experimental tradition coming out of his *Opticks*, and not his experiments in chemistry, lay behind Lavoisier calling himself a Newtonian; indeed, one must wonder whether Lavoisier would even have associated his new form of chemistry with Newton had he been aware of Newton's fascination with writings in the alchemical tradition. And even in theology, there is Newton the anti-Trinitarian mild heretic who was not that much more radical in his departures from Roman and Anglican Christianity than many others at the time, and Newton, the wild religious zealot predicting the end of the Earth, who did not emerge to public view until quite recently.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿智识事业的其他许多领域，对 18 世纪哲学与科学的影响较小。在数学上，牛顿最早发展出一整套算法，用符号确定我们今天所谓的积分与导数；但后来他根本反对莱布尼茨所主张的、把数学变成一门以符号操作为基础的学科的想法。牛顿认为，使极限严格化的唯一途径是把几何学扩展到容纳极限，这一观点与 18、19 世纪数学发展的潮流完全背道而驰。在化学上，牛顿做过大量实验，但拉瓦锡自称牛顿主义者时所依据的，是出自其《光学》的实验传统，而非他的化学实验；事实上，倘若拉瓦锡知道牛顿对炼金术传统著作的痴迷，他是否还会把其新式化学与牛顿联系起来，实在大可怀疑。即便在神学上，也有两个牛顿：一个是反三位一体的温和异端，其偏离罗马与英国国教的程度，并不比当时许多人激进多少；另一个是狂热的宗教信徒，预言世界末日——后者直到相当晚近才进入公众视野。
+    step2: |-
+      牛顿智识事业的其他领域，对 18 世纪哲学与科学影响较小。数学方面，他最早发展出一整套算法，以符号确定我们今天所谓的积分与导数；但后来他坚决反对莱布尼茨的主张——把数学变成一门以符号操作为基础的学科。牛顿认为，要使极限严格化，唯一途径是把几何学扩展以容纳极限；这与 18、19 世纪数学发展的潮流完全相悖。化学方面，牛顿做过大量实验，但拉瓦锡自称牛顿主义者时依据的，是《光学》所开启的实验传统，而非牛顿的化学实验。事实上，倘若拉瓦锡知道牛顿对炼金术传统著作何等痴迷，他是否还会把新式化学与牛顿相联系，大可怀疑。即便在神学上也有两个牛顿：一个是反三位一体的温和异端，其偏离罗马与英国国教的程度，并不比同时代许多人更激进；另一个是预言世界末日的狂热宗教信徒——后者直到相当晚近才进入公众视野。
   - id: 32
     kind: body
     source: |-
       There is surprisingly little cross-referencing of themes from one area of Newton's endeavors to another. The common element across almost all of them is that of a problem-solver *extraordinaire*, taking on one problem at a time and staying with it until he had found, usually rather promptly, a solution. All of his technical writings display this, but so too does his unpublished manuscript reconstructing Solomon's Temple from the biblical account of it and his posthumously published *Chronology of the Ancient Kingdoms* in which he attempted to infer from astronomical phenomena the dating of major events in the Old Testament. The Newton one encounters in his writings seems to compartmentalize his interests at any given moment. Whether he had a unified conception of what he was up to in all his intellectual efforts, and if so what this conception might be, has been a continuing source of controversy among Newton scholars.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      令人惊讶的是，牛顿各领域事业之间的主题交叉引用极少。几乎贯穿所有领域的共同点，是一位非凡的解题者：一次攻一个问题，直到（通常相当快地）找到解法为止。他全部技术性著作都显示这一点；其未刊手稿——依据圣经记载复原所罗门圣殿——以及身后出版的《古代王国编年史》亦然，后者试图从天文现象推断《旧约》重大事件的年代。在著作中遇到的牛顿，似乎在任何时刻都把兴趣分隔开来。他对自己全部智识努力是否有统一的构想，若有，那构想又是什么，一直是牛顿学界争论不休的问题。
+    step2: |-
+      令人惊讶的是，牛顿各领域事业之间很少相互引证。贯穿几乎所有领域的共同点，是一位非凡的解题能手：一次只攻一个问题，咬住不放，直到（通常相当快地）找到解法。他全部技术性著作都体现了这一点；未刊的所罗门圣殿复原手稿（依据圣经记载）如此，身后出版的《古代王国编年史》也如此——后者试图从天文现象推断《旧约》重大事件的年代。从著作中遇到的牛顿，似乎在每一时刻都把兴趣分门别类。他对自己全部智识努力是否有统一构想，若有又是何种构想，至今仍是牛顿学界争论不休的问题。
   - id: 33
     kind: body
     source: |-
       Of course, were it not for the *Principia*, there would be no entry at all for Newton in an Encyclopedia of Philosophy. In science, he would have been known only for the contributions he made to optics, which, while notable, were no more so than those made by Huygens and Grimaldi, neither of whom had much impact on philosophy; and in mathematics, his failure to publish would have relegated his work to not much more than a footnote to the achievements of Leibniz and his school. Regardless of which aspect of Newton's endeavors “Newtonian” might be applied to, the word gained its aura from the *Principia*. But this adds still a further complication, for the *Principia* itself was substantially different things to different people. The press-run of the first edition (estimated to be around 300) was too small for it to have been read by all that many individuals. The second edition also appeared in two pirated Amsterdam editions, and hence was much more widely available, as was the third edition and its English (and later French) translation. The *Principia*, however, is not an easy book to read, so one must still ask, even of those who had access to it, whether they read all or only portions of the book and to what extent they grasped the full complexity of what they read. The detailed commentary provided in the three volume Jesuit edition (1739–42) made the work less daunting. But even then the vast majority of those invoking the word “Newtonian” were unlikely to have been much more conversant with the *Principia* itself than those in the first half of the 20th century who invoked ‘relativity’ were likely to have read Einstein's two special relativity papers of 1905 or his general relativity paper of 1916. An important question to ask of any philosophers commenting on Newton is, what primary sources had they read?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当然，若不是《原理》，哲学百科全书中根本不会有牛顿条目。在科学上，他本只会因对光学的贡献而为人所知——这些贡献固然显著，却不比惠更斯与格里马尔迪的贡献更突出，而两人对哲学影响都不大；在数学上，若他不出版，其工作本会沦为莱布尼茨及其学派成就的一个脚注。“牛顿主义”一词无论应用于牛顿事业的哪一方面，其光环都来自《原理》。但这又添了一层复杂：对不同的读者，《原理》本身是颇为不同的东西。第一版印数（估计约 300 部）太小，读过的人不会很多。第二版另有阿姆斯特丹两种盗印本，因而流传广得多；第三版及其英译（后来还有法译）亦然。然而《原理》并非易读之书，所以即便对有条件读到的人，仍须追问：他们读的是全书还是部分？对读到内容的复杂程度又把握了多少？耶稣会三卷本版本（1739–42）所提供的详细评注，使此书不再那么令人生畏。但即便如此，绝大多数使用“牛顿主义者”一词的人，对《原理》本身的熟悉程度，恐怕并不比 20 世纪上半叶使用“相对论”一词的人对爱因斯坦 1905 年两篇狭义相对论论文或 1916 年广义相对论论文的熟悉程度高多少。对任何评论牛顿的哲学家，都应追问一个重要问题：他们读过哪些原始文献？
+    step2: |-
+      当然，若无《原理》，哲学百科全书根本不会有牛顿条目。科学方面，他本只会因光学贡献而为人所知；这些贡献虽显著，却不比惠更斯、格里马尔迪的贡献更突出，而后者对哲学影响不大。数学方面，若其成果不出版，本会沦为莱布尼茨及其学派成就的脚注。“牛顿主义”无论施用于牛顿事业的哪一面，其光环都来自《原理》。这又添了一层复杂：对不同的读者，《原理》本身是颇为不同的东西。第一版印数（估计约三百部）太小，读过的人不会多。第二版另有阿姆斯特丹两种盗印本，流传广得多；第三版及其英译（后来还有法译）亦然。然而《原理》并不易读，故即便有条件读到的人，也仍需追问：他们读的是全书还是部分？对其中复杂性把握了多少？耶稣会三卷本（1739–42）的详细评注使此书不再那么令人生畏。但即便如此，绝大多数使用“牛顿主义者”一词的人，对《原理》本身的熟悉程度，恐怕并不比 20 世纪上半叶使用“相对论”一词的人对爱因斯坦 1905 年两篇狭义相对论论文或 1916 年广义相对论论文的熟悉程度高多少。对任何评论牛顿的哲学家，都应追问：他们读过哪些原始文献？
   - id: 34
     kind: body
     source: |-
       The 1740s witnessed a major transformation in the standing of the science in the *Principia*. The *Principia* itself had left a number of loose-ends, most of them detectable by only highly discerning readers. By 1730, however, some of these loose-ends had been cited in Bernard le Bovier de Fontenelle's elogium for Newton[^note-4] and in John Machin's appendix to the 1729 English translation of the *Principia*, raising questions about just how secure Newton's theory of gravity was, empirically. The shift on the continent began in the 1730s when Maupertuis convinced the Royal Academy to conduct expeditions to Lapland and Peru to determine whether Newton's claims about the non-spherical shape of the Earth and the variation of surface gravity with latitude are correct. Several of the loose-ends were successfully resolved during the 1740's through such notable advances beyond the *Principia* as Clairaut's *Théorie de la Figure de la Terre*; the return of the expedition from Peru; d'Alembert's 1749 rigid-body solution for the wobble of the Earth that produces the precession of the equinoxes; Clairaut's 1749 resolution of the factor of 2 discrepancy between theory and observation in the mean motion of the lunar apogee, glossed over by Newton but emphasized by Machin; and the prize-winning first ever successful description of the motion of the Moon by Tobias Mayer in 1753, based on a theory of this motion derived from gravity by Euler in the early 1750s taking advantage of Clairaut's solution for the mean motion of the apogee.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1740 年代，《原理》中科学的地位发生了重大转变。《原理》本身留下若干未了问题，其中大多只有极具辨识力的读者才能察觉。然而到 1730 年，其中一些问题已在 Bernard le Bovier de Fontenelle 为牛顿所写颂词[^note-4]以及 John Machin 为 1729 年英译《原理》所作附录中被提及，从而引发疑问：牛顿的引力理论在经验上究竟有多牢靠？大陆的转变始于 1730 年代，莫佩尔蒂说服皇家科学院派远征队前往拉普兰与秘鲁，以判定牛顿关于地球非球形、以及地表重力随纬度变化的主张是否正确。1740 年代，若干未了问题借由超越《原理》的显著进展而成功解决：克莱罗的《地球形状论》（*Théorie de la Figure de la Terre*）；秘鲁远征队归来；达朗贝尔 1749 年给出地球摆动（产生岁差）的刚体解；克莱罗 1749 年解决了月球远地点平均运动理论与观测之间差因子 2 的问题——牛顿对此含糊带过，马钦则加以强调；以及托比亚斯·迈尔 1753 年首次成功描述月球运动并获奖，其基础是欧拉 1750 年代初利用克莱罗对远地点平均运动的解法、由引力导出的月球运动理论。
+    step2: |-
+      1740 年代，《原理》所代表的科学地位大变。《原理》本身留下若干未了问题，大多只有目光极为敏锐的读者才能察觉。可是到 1730 年，其中一些问题已见于贝尔纳·勒博维耶·德·丰特奈尔为牛顿所写的颂词[^note-4]，以及约翰·马钦为 1729 年英译《原理》所写的附录；于是有人追问：牛顿引力理论在经验上究竟有多可靠？大陆的转变始于 1730 年代：莫佩尔蒂说服皇家科学院派远征队赴拉普兰与秘鲁，以判定牛顿关于地球非球形、地表重力随纬度变化的主张是否正确。1740 年代，若干未了问题随着超越《原理》的显著进展而获解决：克莱罗的《地球形状论》（*Théorie de la Figure de la Terre*）；秘鲁远征队归来；达朗贝尔 1749 年给出地球摆动（岁差之源）的刚体解；克莱罗 1749 年消除了月球远地点平均运动理论与观测之间因子 2 的偏差——牛顿对此含糊带过，马钦则大加强调；托比亚斯·迈尔 1753 年首次成功描述月球运动并获奖，其理论基于欧拉 1750 年代初由引力导出、并利用克莱罗远地点解法的月球运动理论。
   - id: 35
     kind: body
     source: |-
       Euler was the central figure in turning the three laws of motion put forward by Newton in the *Principia* into Newtonian mechanics. These three laws, as Newton formulated them, apply to “point-masses,” a term Euler had put forward in his *Mechanica* of 1736. Most of the effort of eighteenth century mechanics was devoted to solving problems of the motion of rigid bodies, elastic strings and bodies, and fluids, all of which require principles beyond Newton's three laws. From the 1740s on this led to alternative approaches to formulating a general mechanics, employing such different principles as the conservation of *vis viva*, the principle of least action, and d'Alembert's principle. The “Newtonian” formulation of a general mechanics sprang from Euler's proposal in 1750 that Newton's second law, in an *F=ma* formulation that appears nowhere in the *Principia*, could be applied locally within bodies and fluids to yield differential equations for the motions of bodies, elastic and rigid, and fluids. During the 1750s Euler developed his equations for the motion of fluids, and in the 1760s, his equations of rigid-body motion. What we call Newtonian mechanics was accordingly something for which Euler was more responsible than Newton.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      欧拉是把牛顿在《原理》中提出的三条运动定律转变为牛顿力学的核心人物。牛顿表述的这三条定律适用于“质点”——这是欧拉 1736 年在《力学》（*Mechanica*）中提出的术语。18 世纪力学的大部分努力，用于求解刚体、弹性弦与弹性体以及流体的运动问题，而这些问题都需要超出牛顿三定律的原理。1740 年代起，这导致形成一般力学的各种替代进路，采用活力守恒、最小作用原理、达朗贝尔原理等不同原理。“牛顿式”的一般力学表述，源于欧拉 1750 年的提议：牛顿第二定律——以《原理》中从未出现的 *F=ma* 形式——可以在物体与流体内部局域地应用，从而得出刚体、弹性体与流体运动的微分方程。1750 年代欧拉发展出流体运动方程，1760 年代发展出刚体运动方程。因此，我们所谓的牛顿力学，欧拉的功劳大于牛顿。
+    step2: |-
+      把牛顿在《原理》中提出的三条运动定律变成牛顿力学的核心人物，是欧拉。牛顿所表述的三条定律适用于“质点”——这是欧拉 1736 年在《力学》（*Mechanica*）中提出的术语。18 世纪力学的大部分精力，都用于求解刚体、弹性弦与弹性体、流体的运动问题，而这些都需要超出牛顿三定律的原理。1740 年代起，由此形成一般力学的多种替代进路，采用活力守恒、最小作用量原理、达朗贝尔原理等不同原理。“牛顿式”的一般力学表述，源自欧拉 1750 年的提议：牛顿第二定律（以《原理》中从未出现的 *F=ma* 形式）可以在物体与流体内部局域应用，从而得出刚体、弹性体与流体运动的微分方程。1750 年代欧拉写出流体运动方程，1760 年代写出刚体运动方程。因此，我们所谓的牛顿力学，欧拉之功大于牛顿。
   - id: 36
     kind: body
     source: |-
       Although some loose-ends continued to defy resolution until much later in the eighteenth century, by the early 1750s Newton's theory of gravity had become the accepted basis for ongoing research among almost everyone working in orbital astronomy. Clairaut's successful prediction of the month of return of Halley's comet at the end of this decade made a larger segment of the educated public aware of the extent to which empirical grounds for doubting Newton's theory of gravity had largely disappeared. Even so, one must still ask of anyone outside active research in gravitational astronomy just how aware they were of the developments from ongoing efforts when they made their various pronouncements about the standing of the science of the *Principia* among the community of researchers. The naivety of these pronouncements cuts both ways: on the one hand, they often reflected a bloated view of how secure Newton's theory was at the time, and, on the other, they often underestimated how strong the evidence favoring it had become. The upshot is a need to be attentive to the question of what anyone, even including Newton himself, had in mind when they spoke of the science of the *Principia*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管有些未了问题直到 18 世纪更晚才解决，到 1750 年代初，牛顿的引力理论已成为几乎所有从事轨道天文学研究者公认的研究基础。克莱罗在这十年末成功预测哈雷彗星回归的月份，使更大一部分受教育公众意识到：怀疑牛顿引力理论的经验理由，已大体消失。即便如此，对引力天文学研究圈外任何人，仍须追问：当他们就《原理》科学在研究共同体中的地位发表种种论断时，对进行中的研究进展究竟了解多少？这些论断的天真之处是双向的：一方面，它们常反映出对当时牛顿理论有多牢靠的夸大看法；另一方面，又常低估支持该理论的证据已变得多么有力。结果就是：须留意任何人——甚至包括牛顿本人——在谈论《原理》的科学时，心里究竟指什么。
+    step2: |-
+      有些未了问题迟至 18 世纪更晚才解决，但到 1750 年代初，牛顿的引力理论已成为几乎所有轨道天文学研究者公认的研究基础。克莱罗在这十年末成功预测哈雷彗星回归的月份，使更大一部分受教育公众意识到：怀疑牛顿引力理论的经验理由已大体消失。即便如此，对引力天文学圈外的人仍须追问：他们就《原理》科学在研究共同体中的地位发表种种论断时，对进行中的研究究竟了解多少？这些论断的天真之处是双向的：一方面常高估当时牛顿理论有多可靠，另一方面又常低估支持它的证据已多么有力。由此可见，须留意任何人——甚至牛顿本人——谈论《原理》的科学时，心里究竟指什么。
   - id: 37
     kind: body
     source: |-
       To view the seventy years of research after Newton died as merely tying up the loose-ends of the *Principia* or as simply compiling more evidence for his theory of gravity is to miss the whole point. Research predicated on Newton's theory had answered a huge number of questions about the world dating from long before it. The motion of the Moon and the trajectories of comets were two early examples, both of which answered such questions as how one comet differs from another and what details make the Moon's motion so much more complicated than that of the satellites of Jupiter and Saturn. In the 1770s Laplace had developed a proper theory of the tides, reaching far beyond the suggestions Newton had made in the *Principia* by including the effects of the Earth's rotation and the non-radial components of the gravitational forces of the Sun and Moon, components that dominate the radial component that Newton had singled out. In 1786 Laplace identified a large 900 year fluctuation in the motions of Jupiter and Saturn arising from quite subtle features of their respective orbits. With this discovery, calculation of the motion of the planets from the theory of gravity became the basis for predicting planet positions, with observation serving primarily to identify further forces not yet taken into consideration in the calculation. These advances in our understanding of planetary motion led Laplace to produce the four principal volumes of his *Traité de mécanique céleste* from 1799 to 1805, a work collecting in one place all the theoretical and empirical results of the research predicated on Newton's *Principia*. From that time forward, Newtonian science sprang from Laplace's work, not Newton's.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把牛顿去世后七十年的研究仅仅看作收拾《原理》的未了问题，或只是为其引力理论积累更多证据，就完全错失了要点。以牛顿理论为前提的研究，回答了大量远早于它的关于世界的问题。月球运动与彗星轨迹是两个早期例子，二者都回答了诸如一颗彗星与另一颗有何不同、哪些细节使月球运动比木星与土星的卫星复杂得多之类的问题。1770 年代，拉普拉斯发展出恰当的潮汐理论，远超牛顿在《原理》中的提示：他纳入地球自转的效应，以及日、月引力中非径向的分量——这些分量压倒了牛顿特别指出的径向分量。1786 年，拉普拉斯识别出木星与土星运动中一个为期约 900 年的大幅涨落，它源于二者各自轨道的相当微妙的特征。有了这一发现，由引力理论计算行星运动便成了预测行星位置的基础，观测则主要用来找出计算中尚未考虑的其他力。这些对行星运动理解的进展，促使拉普拉斯在 1799 至 1805 年间写出《天体力学》（*Traité de mécanique céleste*）四大卷，把以牛顿《原理》为前提的全部理论与经验成果汇于一处。自此以后，牛顿科学源自拉普拉斯的工作，而非牛顿的工作。
+    step2: |-
+      若把牛顿去世后七十年的研究只看作收拾《原理》的未了问题，或只是为其引力理论补充证据，便完全错失了要点。以牛顿理论为前提的研究，回答了自远古以来大量关于世界的问题。月球运动与彗星轨迹是两个早期例子，二者回答了这样的问题：一颗彗星与另一颗有何不同？哪些细节使月球运动远比木星、土星的卫星复杂？1770 年代，拉普拉斯建立起恰当的潮汐理论，远超牛顿在《原理》中的提示：他计入地球自转的效应，也计入日、月引力中的非径向分量——这些分量压倒了牛顿特别指出的径向分量。1786 年，拉普拉斯发现木星与土星运动中有约 900 年的大幅涨落，其源在于二者轨道的微妙特征。由此，以引力理论计算行星运动成了预测行星位置的基础，观测则主要用于找出计算尚未纳入的其他力。这些进展促使拉普拉斯于 1799 至 1805 年间写出《天体力学》（*Traité de mécanique céleste*）四大卷，将以牛顿《原理》为前提的全部理论与经验成果汇于一处。自此以后，牛顿科学源自拉普拉斯，而非牛顿。
   - id: 38
     kind: body
     source: |-
       The success of the research in celestial mechanics predicated on the *Principia* was unprecedented. Nothing of comparable scope and accuracy had ever occurred before in empirical research of any kind. That led to a new philosophical question: what was it about the science of the *Principia* that enabled it to achieve what it did? Philosophers like Locke and Berkeley began asking this question while Newton was still alive, but it gained increasing force as successes piled on one another over the decades after he died. This question had a practical side, as those working in other fields like chemistry pursued comparable success, and others like Hume and Adam Smith aimed for a science of human affairs. It had, of course, a philosophical side, giving rise to the subdiscipline of philosophy of science, starting with Kant and continuing throughout the nineteenth century as other areas of physical science began showing similar signs of success. The Einsteinian revolution in the beginning of the twentieth century, in which Newtonian theory was shown to hold only as a limiting case of the special and general theories of relativity, added a further twist to the question, for now all the successes of Newtonian science, which still remain in place, have to be seen as predicated on a theory that holds only to high approximation in parochial circumstances.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以《原理》为前提的天体力学研究，其成功史无前例。在任何经验研究中，都从未有过范围与精确度可比的东西。这引出一个新的哲学问题：《原理》的科学究竟凭什么取得了这样的成就？洛克与贝克莱等哲学家在牛顿生前就开始追问；随着他去世后数十年间成功不断累积，这个问题愈发有力。这个问题有实践的一面：化学等其他领域的研究者追求类似的成功，休谟与亚当·斯密等人则力图建立一门关于人类事务的科学。当然，它也有哲学的一面，催生了科学哲学这一分支——始于康德，贯穿 19 世纪，而其他物理科学领域也开始显露类似的成功迹象。20 世纪初的爱因斯坦革命表明，牛顿理论只是狭义与广义相对论的极限情形，这又给该问题添了一层转折：如今牛顿科学的全部成功（仍然成立）都必须视为基于一种只在局域情形下高度近似成立的理论。
+    step2: |-
+      以《原理》为前提的天体力学研究，成功史无前例：任何经验研究都未曾有过范围与精确度相当的成绩。这引出一个新的哲学问题：《原理》的科学究竟凭什么能有此成就？洛克、贝克莱等哲学家在牛顿生前即已发问；随着他去世后数十年成功接踵而至，这一问题愈发有力。它有实践的一面：化学等领域的学者追求类似的成功，休谟、亚当·斯密等人则力图建立关于人类事务的科学。它当然也有哲学的一面，由此催生科学哲学这一分支——始于康德，贯穿整个 19 世纪，而其他物理科学领域也开始显露类似成功的迹象。20 世纪初的爱因斯坦革命表明，牛顿理论只作为狭义与广义相对论的极限情形成立，这又给问题添了一层：如今牛顿科学的全部成功（至今仍在）都得看作基于一种只在有限情形下高度近似成立的理论。
   - id: 39
     kind: body
     source: |-
       The extraordinary character of the *Principia* gave rise to a still continuing tendency to place great weight on everything Newton said. This, however, was, and still is, easy to carry to excess. One need look no further than Book 2 of the *Principia* to see that Newton had no more claim to being somehow in tune with nature and the truth than any number of his contemporaries. Newton's manuscripts do reveal an exceptional level of attention to detail of phrasing, from which we can rightly conclude that his pronouncements, especially in print, were *generally* backed by careful, self-critical reflection. But this conclusion does not automatically extend to every statement he ever made. We must constantly be mindful of the possibility of too much weight being placed, then or now, on any pronouncement that stands in relative isolation over his 60 year career; and, to counter the tendency to excess, we should be even more vigilant than usual in not losing sight of the context, circumstantial as well as historical and textual, of both Newton's statements and the eighteenth century reaction to them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《原理》的非凡品格，引致一种至今仍在的倾向：对牛顿说过的每句话都赋予极大分量。然而这种倾向过去和现在都很容易过头。只需看《原理》第二卷便知：牛顿并不比同时代任何人更有资格说自己与自然和真理合拍。牛顿手稿确实显示其对措辞细节的关注非同寻常，由此可以正当地断定：他的论断，尤其是印行者，*通常*有仔细而自我批判的反思作后盾。但这结论并不自动延伸到他说过的每一句话。我们必须时刻警惕：在他 60 年生涯中，任何相对孤立的论断，无论当时还是现在，都可能被赋予过重的分量；为纠正这种过头倾向，我们应比平常更加警觉，不要忽视牛顿言论及 18 世纪对其反应的语境——包括情境的、历史的与文本的语境。
+    step2: |-
+      《原理》的非凡品格，养成一种延续至今的习惯：对牛顿说过的每句话都赋予极大分量。这种习惯过去和现在都极易过头。只消看《原理》第二卷便知：牛顿并不比同时代任何人更有资格声称自己与自然和真理合拍。牛顿手稿确实表明，他对措辞细节的关注非同寻常；由此可以正当地推断，他的论断（尤其是印行的论断）*通常*经过仔细而自我批判的反思。但这一推断并不自动适用于他说过的每一句话。我们必须常存警惕：在他 60 年生涯中，任何相对孤立的论断，无论当时还是现在，都可能被赋予过重分量；为矫正这种过头倾向，我们应比平常更加警觉，切勿忽视牛顿言论以及 18 世纪对其反应的语境——无论是情境的，还是历史的、文本的。
   - id: 40
     kind: oir
     source: |-
@@ -314,29 +332,45 @@ segments:
       - [The Newton Project](http://www.newtonproject.sussex.ac.uk)
       - [The Newton Project-Canada](http://www.isaacnewton.ca)
       - [The Chymistry of Isaac Newton](http://webapp1.dlib.indiana.edu/newton/index.jsp), Digital Library at Indiana
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [MacTutor 数学史档案](https://mathshistory.st-andrews.ac.uk/Biographies/Newton/)
+      - [牛顿项目](http://www.newtonproject.sussex.ac.uk)
+      - [牛顿项目—加拿大](http://www.isaacnewton.ca)
+      - [艾萨克·牛顿的化学炼金术](http://webapp1.dlib.indiana.edu/newton/index.jsp)，印第安纳大学数字图书馆
+    step2: |-
+      - [MacTutor 数学史档案](https://mathshistory.st-andrews.ac.uk/Biographies/Newton/)
+      - [牛顿项目](http://www.newtonproject.sussex.ac.uk)
+      - [牛顿项目——加拿大](http://www.isaacnewton.ca)
+      - [艾萨克·牛顿的化学炼金术](http://webapp1.dlib.indiana.edu/newton/index.jsp)，印第安纳大学数字图书馆
   - id: 41
     kind: note
     source: |-
       [^note-1]: Of the many biographies of Newton, two stand out: Westfall 1980 provides the most thorough intellectual biography, and Hall 1992 is meticulous in not overreaching what we truly know about him. Also helpful are Feingold 2004 and Iliffe 2007.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-1]: 在众多牛顿传记中，有两部格外突出：Westfall 1980 提供了最详尽的思想传记，Hall 1992 则谨慎有加，不越出我们真正所知的范围。Feingold 2004 与 Iliffe 2007 也很有帮助。
+    step2: |-
+      [^note-1]: 众多牛顿传记中，有两部格外突出：Westfall 1980 的思想传记最为详尽，Hall 1992 则谨严有度，不越出我们确知的范围。Feingold 2004 与 Iliffe 2007 亦颇有助益。
   - id: 42
     kind: note
     source: |-
       [^note-2]: This treatise was published in English translations in 1736 and 1737, the latter under the title, “A Treatise of the Method of Fluxions and Infinite Series, With its Application to the Geometry of Curve Lines” (reprinted in [**W**, I, 27-137]; see also [**M**, III, 32-372] for a fully annotated version of the Latin text with translation).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-2]: 该论著于 1736 与 1737 年出版英译本，后者的标题为《流数与无穷级数方法论，及其在曲线几何中的应用》（重印于 [**W**, I, 27-137]；拉丁文本的完整笺注本及译文见 [**M**, III, 32-372]）。
+    step2: |-
+      [^note-2]: 该论著 1736 年、1737 年有英译本，后者题为《流数与无穷级数方法论及其在曲线几何中的应用》（重印于 [**W**, I, 27-137]；拉丁文本的完整笺注与译文见 [**M**, III, 32-372]）。
   - id: 43
     kind: note
     source: |-
       [^note-3]: This specific statement of the problem occurs in Hooke's last letter to Newton during this exchange, a letter of 17 January 1680 that itself followed an unanswered letter of 6 January. See [**C**, II, 313].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-3]: 这一具体问题的表述见于此次通信中胡克致牛顿的最后一封信，即 1680 年 1 月 17 日之信；此前 1 月 6 日的一封信未获答复。见 [**C**, II, 313]。
+    step2: |-
+      [^note-3]: 这一问题的具体表述，见于此次通信中胡克致牛顿的最后一封信，即 1680 年 1 月 17 日之信；此信之前，1 月 6 日的那封信未获答复。见 [**C**, II, 313]。
   - id: 44
     kind: note
     source: |-
       [^note-4]: Reprinted in **[N]**.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-4]: 重印于 **[N]**。
+    step2: |-
+      [^note-4]: 重印于 **[N]**。
