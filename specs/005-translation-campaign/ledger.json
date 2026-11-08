@@ -66,10 +66,10 @@
   },
   "i": {
    "phase": "translate",
-   "claimed_by": "I-main-20261108",
-   "claimed_at": "2026-11-07T22:41:10Z",
-   "note": "2026-11-08 倒序线（I-main-20261108）：imprecise-probabilities 全量重译 done——167 段账本（正文 165＋其他网络资源＋致谢）双版→成稿 63143 字符，s1/s2/s3/r1/r2/r3 六道全过（s2 prose 49→0；s3 style 0、academic --strict 0；r1 修正 4 处 Minor）。I 批 done 21/75（28.0%），pending 47／cleared 7（含 5 条快照遗留、immunology 存根、illumination 在途）。倒序队列下一条：intuitionism-ethics（cleared 遗留旧译、11 节结构齐全，零信任重译）。并行正序线：illumination 已至 s3、ingarden p1 在途，两线不重叠。",
-   "advanced_at": "2026-11-08T09:24:37Z"
+   "claimed_by": "I-main-20261109",
+   "claimed_at": "2026-11-08T19:12:51Z",
+   "note": "2026-11-09 倒序线对账（I-main-20261109 承接 I-main-20261108）：四方核销（任务 JSON × 账本实填 × 正文落盘 × 英文字数）结论——75 条 / 1,210,525 英文词；done 21（236,095 词，19.5%；账本era 3 条＋40 路批存量 18 条）、s3_checked 2（illumination 90/90、ingarden 55/55，待 r1–r3）、cleared 7（intuitionism-ethics 账本 30/147、it-moral-values 98/114、immunology 空壳、imaginative-resistance / impossible-worlds / information-biological / intrinsic-extrinsic 四条为 11-02 在途快照遗留、无账本不合 ADR-0021，一律按待译重走账本）、pending 45（856,799 词）。倒序队列自 intuitionism-ethics 起（SUMMARY 序 #70 向 #1）。对账凭证：specs/005-translation-campaign/results/i-progress-audit-2026-11-09.md。",
+   "advanced_at": "2026-11-08T19:12:51Z"
   },
   "j": {
    "phase": "translate",
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-08T18:43:29Z"
+ "updated_at": "2026-11-08T19:12:51Z"
 }
