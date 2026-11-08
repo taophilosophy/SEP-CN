@@ -251,74 +251,122 @@ segments:
     kind: body
     source: |-
       A final concern in this section is that information technologies are now storing user data in “the cloud” meaning that the data is stored on a device remotely located from the user and not owned or operated by that user, but the data is then available from anywhere the user happens to be, on any device they happen to be using. This ease of access has the result of also making the relationship one has to one’s own data more tenuous because of the uncertainty about the physical location of that data. Since personal data is crucially important to protect, the third parties that offer “cloud” services need to understand the responsibility of the trust the user is placing in them. If you load all the photographs of your life to a service like Flickr and they were to somehow lose or delete them, this would be a tragic mistake that might be impossible to repair.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本节的最后一个关切是，信息技术如今把用户数据储存在“云”中，意思是数据储存在远离用户、且不为用户所有或操作的设备上，但无论用户身在何处、使用何种设备，都可以取用这些数据。这种获取便利的结果是，由于数据的物理位置不确定，人与自己数据的关系也变得更加脆弱。由于个人数据至关重要、必须保护，提供“云”服务的第三方需要理解用户交给它们的信任所蕴含的责任。如果你把一生的照片都上传到 Flickr 这样的服务，而它们不知怎么丢失或删除了这些照片，那将是一个可能无法挽回的悲剧性错误。
+
+    step2: |-
+      本节末尾还有一个关切：信息技术如今把用户数据存进“云”里——也就是说，数据放在远离用户、且不为用户所有或掌管的设备上；但无论用户身在何处、手边是什么设备，都能取到这些数据。取用愈便利，人与自家数据的关系反而愈见脆弱，因为数据的物理位置成了一笔糊涂账。个人数据干系重大、务必守护，提供“云”服务的第三方必须明白：用户交到它们手里的那份信任，责任有多重。倘若你把一辈子的照片都存进 Flickr 这样的服务，对方却把照片弄丢了、删掉了，那便是一场无法挽回的悲剧。
+
   - id: 26
     kind: body
     source: |-
       #### 2.1.2 Moral Values in Communicating and Accessing Information
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 2.1.2 信息传递与获取中的道德价值
+
+    step2: |-
+      #### 2.1.2 信息传递与获取中的道德价值
+
   - id: 27
     kind: body
     source: |-
       Information technology has forced us to rethink earlier notions of privacy that were based on print technologies, such as letters, notes, books, pamphlets, newspapers, etc. The moral values that coalesced around these earlier technologies have been sorely stretched by the easy way that information can be shared and altered using digital information technologies and this has required the rapid development of new moral theories that recognize both the benefits and risks of communicating all manner of information using modern information technologies. The primary moral values that seem to be under pressure from these changes are privacy, confidentiality, ownership, trust, and the veracity of the information being communicated in these new ways.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      信息技术迫使我们重新思考以往基于印刷技术——书信、笔记、书籍、小册子、报纸等——的隐私观念。围绕这些早期技术凝聚起来的道德价值，被数字信息技术使信息得以轻易共享和改变的方式严峻地拉伸；这就要求快速发展新的道德理论，以同时顾及用现代信息技术传递各类信息的收益与风险。在这些变化压力下首当其冲的道德价值似乎有：隐私、保密、所有权、信任，以及以这些新方式传递的信息的真实性。
+
+    step2: |-
+      信息技术迫使人们重新省思基于印刷技术——书信、笔记、书籍、小册子、报纸——的旧隐私观。围绕那些早期技术凝聚起来的道德价值，如今被拉扯得苦不堪言：数字信息技术让信息的共享与改动变得轻而易举。这便要求新道德理论迅速成长，既要看到用现代信息技术传递各类信息的种种好处，也要看清其风险。在上述变化的挤压之下首当其冲的道德价值，似乎有这几样：隐私、保密、所有权、信任，以及经由这些新渠道传递的信息之真实。
+
   - id: 28
     kind: body
     source: |-
       Who has the final say on whether or not some information about a user is communicated or not? Who is allowed to sell your medical records, your financial records, your email, your browser history, etc.? If you do not have control over this process, then how can you enforce your own moral right to privacy? For instance Alan Westin argued in the very early decades of the advance of digital information technologies that control of access to one’s personal information was the key to maintaining privacy (Westin, 1967). It follows that if we care about privacy, then we should give all the control of access to personal information to the individual. Most corporate entities resist this notion for the simple reason that information about users has become a primary commodity in the digital world boosting the vast fortunes of corporations like Google or Facebook. Indeed, there is a great deal of utility each of us gains from the services provided by internet search companies like Google and social networks such as Facebook. It might be argued that it is actually a fair exchange we receive since they provide search results and other applications for free and they offset the cost of creating those valuable serviced by collecting data from individual user behavior that can be monetized in various lucrative ways. A major component of the profit model for these companies is based on directed advertising where the information collected on the user is used to help identify advertising that will be most effective on a particular user based on his or her search history and other online behaviors. Simply by using the free applications offered, each user tacitly agrees to give up some amount of privacy that varies with the applications they are using. Even if we were to agree that there is some utility to the services users receive in this exchange, there are still many potential moral problems with this arrangement. If we follow the argument raised by Westin earlier that privacy is equivalent to information control (ibid.), then we do seem to be ceding our privacy away little by little given that we have almost no control or even much understanding of the vast amounts of digital information that is collected about us.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于某条用户信息是否应当传递，谁有最终决定权？谁被允许出售你的医疗记录、财务记录、电子邮件、浏览器历史等等？如果你对这一过程没有控制权，你又如何行使自己的隐私道德权利？例如，阿兰·威斯汀（Alan Westin）在数字信息技术发展的最初几十年就主张，控制对个人信息的获取是维护隐私的关键（Westin, 1967）。由此推论，如果我们关心隐私，就应当把对个人信息获取的全部控制交给个人。大多数公司实体抵制这一主张，理由很简单：用户信息已成为数字世界中的主要商品，支撑着谷歌或脸书这类公司的巨额财富。诚然，我们每个人从谷歌这类互联网搜索公司和脸书这类社交网络提供的服务中获得大量效用。有人可能会说，这其实是一笔公平交易：它们免费提供搜索结果和其他应用，又通过收集个体用户行为的数据来抵偿创建那些宝贵服务的成本，这些数据可以以各种有利可图的方式变现。这些公司利润模型的主要组成部分是定向广告：收集到的用户信息被用来帮助识别对特定用户最有效的广告，依据是其搜索历史和其他在线行为。仅仅使用这些免费应用，每个用户就默许放弃一定数量的隐私，多少随所用应用而异。即便我们同意用户在这种交换中获得的服务确有效用，这种安排仍有许多潜在的道德问题。如果我们接受威斯汀前文的论证——隐私即信息控制（同上）——那么鉴于我们对被收集的关于我们的海量数字信息几乎没有控制、甚至缺乏了解，我们确实正在一点点放弃自己的隐私。
+
+    step2: |-
+      用户信息该不该传出去，最终谁说了算？谁有权出卖你的医疗记录、财务记录、电子邮件、浏览历史？若你对这一过程毫无控制，又谈何行使自己的隐私道德权利？比如，阿兰·威斯汀（Alan Westin）早在数字信息技术起步的头几十年就主张：守住对个人信息获取的控制，正是维护隐私的关键（Westin, 1967）。顺着这条理路：我们既然在乎隐私，就应当把个人信息获取的控制权悉数交归个人。多数公司却抵制这个主张，道理不复杂——用户信息如今已是数字世界里的大宗商品，撑起了谷歌、脸书这类公司的泼天财富。诚然，谷歌这样的搜索公司、脸书这样的社交网络，其服务确令我们每个人受益良多。也有人说这桩交换其实公平：它们免费供给搜索结果与种种应用，亏空靠收集个体用户行为的数据来填补，而这些数据可以多种途径变现，利润可观。这类公司盈利模式的支柱是定向广告：拿收集到的用户信息，按其搜索历史与其他上网行为，锁定对这位用户最奏效的广告。用户一经使用这些免费应用，便默许让渡一部分隐私，分量几何，视所用应用而定。就算承认用户在这场交换中所得的服务确有效用，这种安排仍潜伏着诸多道德问题。倘若我们沿用威斯汀前文的论证——隐私即信息控制（同上）——那么面对被收集的关于我们的海量数字信息，我们既几无控制，也谈不上了解，确实正把自己的隐私一点点让渡出去。
+
   - id: 29
     kind: body
     source: |-
       There is a counterargument to this. Herman Tavani and James Moor (2004) argue that in some cases giving the user more control over their information may result in greater loss of privacy. Their primary argument is that no one can actually control all of the information about oneself that is produced every day by our activities. If we focus only on the fraction of it that we can control, we lose sight of the vast mountains of data we cannot (Tavani and Moor, 2004). Tavani and Moor argue that privacy must be recognized by the third parties that do control your information and only if those parties have a commitment to protecting user privacy, will we acquire any privacy worth having. Towards this end, they suggest that we think in terms of restricted access to information rather than strict personal control of information (ibid).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对此存在一个反驳。赫尔曼·塔瓦尼（Herman Tavani）与詹姆斯·穆尔（James Moor）（2004）论证说，在某些情况下，给用户对其信息更多的控制反而可能导致更大的隐私损失。他们的主要论据是：没有人真能控制我们日常活动所产生的关于自身的一切信息。如果我们只盯着自己能控制的那一小部分，就看不见我们无法控制的茫茫数据大山（Tavani and Moor, 2004）。塔瓦尼与穆尔论证说，隐私必须由真正掌控你信息的第三方来承认；只有当这些第三方承诺保护用户隐私，我们才能获得任何值得拥有的隐私。为此，他们建议我们用“限制对信息的获取”而非“对信息的严格个人控制”来思考问题（同上）。
+
+    step2: |-
+      对此有一说反驳。赫尔曼·塔瓦尼（Herman Tavani）与詹姆斯·穆尔（James Moor）（2004）论证：某些情形下，让用户对自家信息握有更多控制，反倒会赔上更多隐私。他们的主论据是：无人真能控制我们的日常活动每天制造出的关于自身的一切信息；若只盯住我们能控制的那一小角，便看不见我们控制不了的滔滔数据大山（Tavani and Moor, 2004）。塔瓦尼与穆尔主张：隐私必须由那些实际掌控你信息的第三方来承认——唯有这些当事方真心承诺保护用户隐私，我们才谈得上拥有值得拥有的隐私。为此，他们建议换一个思路想问题：与其苛求对信息的严格个人控制，不如着眼于限制对信息的获取（同上）。
+
   - id: 30
     kind: body
     source: |-
       Information security is another important moral value that impacts the communication and access of user information. If we grant control of our information to third parties in exchange for the services they provide, then these entities must also be responsible for restricting access to that information by others who might use it to harm us (See Epstein 2007; Magnani 2007; Tavani 2007)[^epstein-2007][^magnani-2007][^tavani-2007]. With enough information, a person’s entire identity can be stolen and used to facilitate fraud and larceny. This type of crime has grown rapidly since the advent of digital information technologies. The victims of these crimes can have their lives ruined as they try to rebuild such things as their credit rating and bank accounts. This has led to the design of computer systems that are more difficult to access and the growth of a new industry dedicated to securing computer systems. Even with these efforts the economic and social impact of cybercrime is growing at a staggering rate. In February of 2018, the cyber-security company McAfee released a report that estimated the world cost of cybercrime was up from 445 billion dollars in 2014 to 608 billion dollars or 0.8 of the global GDP in 2018, and that is not counting the hidden costs of increased friction and productivity loss in time spent trying to fight cybercrime (Lewis 2018)[^lewis-2018].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      信息安全是另一个影响用户信息传递与获取的重要道德价值。如果我们把信息的控制权交给第三方以换取其提供的服务，那么这些实体也必须负责限制可能利用信息伤害我们的他人获取这些信息（见 Epstein 2007; Magnani 2007; Tavani 2007）[^epstein-2007][^magnani-2007][^tavani-2007]。只要信息足够多，一个人的全部身份就可能被窃取，用来实施欺诈和盗窃。自数字信息技术问世以来，这类犯罪增长迅速。犯罪的受害者可能生活尽毁，因为他们要努力重建自己的信用评级和银行账户。这推动了更难侵入的计算机系统的设计，也催生了一个致力于保障计算机系统安全的新产业。即便有这些努力，网络犯罪的经济与社会影响仍以惊人速度增长。2018 年 2 月，网络安全公司迈克菲（McAfee）发布报告估计：全球网络犯罪代价已从 2014 年的 4450 亿美元升至 2018 年的 6080 亿美元，占全球 GDP 的 0.8%；这还不算摩擦增加与生产力损失的隐性成本——即人们为对抗网络犯罪而耗费的时间（Lewis 2018）[^lewis-2018]。
+
+    step2: |-
+      信息安全是另一项关涉用户信息传递与获取的重要道德价值。我们若把信息控制权交给第三方，换取其服务，那么这些实体同时必须负责拦住他人对信息的获取——免得有人拿它来害我们（见 Epstein 2007; Magnani 2007; Tavani 2007）[^epstein-2007][^magnani-2007][^tavani-2007]。信息攒得够多，一个人的完整身份便可被人窃走，用来行骗、行窃。自数字信息技术问世，这类犯罪一路猛增。受害者可能生活尽毁：信用评级、银行账户，样样要从头重建。由此推动了两件事：设计更难侵入的计算机系统，以及一个专门保障系统安全的新产业应运而生。纵有这些努力，网络犯罪的经济与社会冲击仍以骇人的速度扩大。2018 年 2 月，网络安全公司迈克菲（McAfee）发布报告估计：全球网络犯罪代价已由 2014 年的 4450 亿美元涨至 2018 年的 6080 亿美元，约占全球 GDP 的 0.8%；这还没算隐性成本——摩擦加剧，以及人们为对抗网络犯罪耗费时间造成生产力损失（Lewis 2018）[^lewis-2018]。
+
   - id: 31
     kind: body
     source: |-
       The difficulty in obtaining complete digital security rests on the fact that the moral value of security can be in conflict with the moral values of sharing and openness, and it is these later values that guided many of the early builders of information technology. Steven Levy (1984) describes in his book, “Hackers: Heroes of the Computer Revolution,” a kind of “Hacker ethic,” that includes the idea that computers should be freely accessible and decentralized in order to facilitate “world improvement” and further social justice (Levy 1984; see also Markoff 2005)[^levy-1984][^markoff-2005]. So it seems that information technology has a strong dissonance created in the competing values of security and openness that is worked right into the design of these technologies and this is all based on the competing moral values held by the various people who designed the technologies themselves.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      完全的数字安全之所以难以获得，原因在于安全这一道德价值可能与共享和开放这些道德价值相冲突，而后一类价值正是指引许多信息技术早期建造者的价值。史蒂文·利维（Steven Levy）（1984）在其《黑客：计算机革命的英雄》（Hackers: Heroes of the Computer Revolution）一书中描述了一种“黑客伦理”，其中包括这样的理念：计算机应当可以自由访问并且去中心化，以促成“世界改良”并推进社会正义（Levy 1984；另见 Markoff 2005）[^levy-1984][^markoff-2005]。如此看来，信息技术内部存在一种强烈的不和谐音：安全与开放两种价值互相竞争，而这恰恰被铸进了这些技术的设计之中——这一切的根源，是设计技术本身的各种人所持的相互竞争的道德价值。
+
+    step2: |-
+      想要滴水不漏的数字安全，难就难在这里：安全这一道德价值，可能与共享、开放的价值相互冲突，而后者恰恰是许多信息技术早期建造者的指路明灯。史蒂文·利维（Steven Levy）（1984）在《黑客：计算机革命的英雄》（Hackers: Heroes of the Computer Revolution）一书中刻画了一种“黑客伦理”，其要义包括：计算机应当自由开放、去中心化，以促成“世界改良”、推进社会正义（Levy 1984；另见 Markoff 2005）[^levy-1984][^markoff-2005]。如此看来，信息技术内里藏着一道强烈的不和谐音：安全与开放两值相争，而这道裂隙干脆被浇铸进了技术设计本身——追根溯源，这正是技术设计者们各持己见的道德价值互相较劲的结果。
+
   - id: 32
     kind: body
     source: |-
       This conflict in values has been debated by philosophers. While many of the hackers interviewed by Levy argue that hacking is not as dangerous as it seems and that it is mostly about gaining access to hidden knowledge of how information technology systems work, Eugene Spafford counters that no computer break-in is entirely harmless and that the harm precludes the possibility of ethical hacking except in the most extreme cases (Spafford 2007)[^spafford-2007]. Kenneth Himma largely agrees that the activity of computer hacking is unethical but that politically motivated hacking or “Hacktivism” may have some moral justification, though he is hesitant to give his complete endorsement of the practice due to the largely anonymous nature of the speech entailed by the hacktivist protests (Himma 2007b)[^himma-2007b]. Mark Manion and Abby Goodrum agree that hacktivism could be a special case of ethical hacking but warn that it should proceed in accordance with the moral norms set by the acts of civil disobedience that marked the twentieth century or risk being classified as online terrorism (Manion and Goodrum 2007)[^manion-2007].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种价值冲突哲学家们已有辩论。利维访谈的许多黑客辩称，黑客行为并不像看上去那样危险，它主要是为了获取关于信息技术系统如何运作的隐秘知识；尤金·斯帕福德（Eugene Spafford）则反驳说，没有任何一次计算机入侵是完全无害的，这种危害排除了伦理黑客的可能性，除非处于最极端的情形（Spafford 2007）[^spafford-2007]。肯尼斯·希马（Kenneth Himma）大体同意计算机黑客行为不合伦理，但认为有政治动机的黑客行为或“黑客行动主义”（Hacktivism）或许有几分道德正当性；不过由于黑客行动主义抗议所涉言论大多匿名，他对完全背书这种做法持保留态度（Himma 2007b）[^himma-2007b]。马克·马尼翁（Mark Manion）与艾比·古德鲁姆（Abby Goodrum）同意黑客行动主义可以是伦理黑客行为的一种特例，但警告说，它应当循着二十世纪那些标志性的公民不服从行动所确立的道德规范行事，否则就有被归类为网络恐怖主义之虞（Manion and Goodrum 2007）[^manion-2007]。
+
+    step2: |-
+      这场价值之争，哲学家们已有交锋。利维访谈过的许多黑客辩称：黑客行为远不像看上去那么危险，多半只是想弄到信息技术系统运作方式的隐秘知识。尤金·斯帕福德（Eugene Spafford）则针锋相对：天下没有完全无害的计算机入侵；其危害足以排除“伦理黑客”的可能，除非在最极端的情形（Spafford 2007）[^spafford-2007]。肯尼斯·希马（Kenneth Himma）大体赞同计算机黑客行为不合伦理，但认为怀有政治动机的黑客行为，即“黑客行动主义”（Hacktivism），或许有几分道德依据；不过黑客抗议所涉言论大多匿名，他因此不肯完全背书这种实践（Himma 2007b）[^himma-2007b]。马克·马尼翁（Mark Manion）与艾比·古德鲁姆（Abby Goodrum）承认黑客行动主义可算伦理黑客的特例，同时警告：它必须循着二十世纪公民不服从行动树立的道德规范行事，否则便有被划为网络恐怖主义之虞（Manion and Goodrum 2007）[^manion-2007]。
+
   - id: 33
     kind: body
     source: |-
       A very similar value split plays out in other areas as well, particularly in the field of intellectual property rights (see entry on intellectual property/) and pornography and censorship (see entry on pornography and censorship). What information technology adds to these long standing moral debates is the nearly effortless access to information that others might want to control such as intellectual property, dangerous information and pornography (Floridi 1999)[^floridi-1999][^floridi-1999-2], as well as providing technological anonymity for both the user and those providing access to the information in question (Nissenbaum 1999; Sullins 2010)[^nissenbaum-1999][^sullins-2010]. For example, even though cases of bullying and stalking occur regularly, the anonymous and remote actions of cyber-bullying and cyberstalking make these behaviors much easier and the perpetrator less likely to be caught. Given that information technologies can make these unethical behaviors more likely, then it can be argued that the design of cyberspace itself tacitly promotes unethical behavior (Adams 2002; Grodzinsky and Tavani 2002)[^adam-2002][^grodzinsky-2002]. Since the very design capabilities of information technology influence the lives of their users, the moral commitments of the designers of these technologies may dictate the course society will take and our commitments to certain moral values will then be determined by technologists (Brey 2010; Bynum 2000; Ess 2009; Johnson 1985; Magnani 2007; Moor 1985; Spinello 2001; Sullins 2010)[^brey-2010][^bynum-2000][^ess-2009][^johnson-1985][^magnani-2007][^moor-1985][^spinello-2001][^sullins-2010].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      极其类似的价值分裂也出现在其他领域，尤其是知识产权（参见“知识产权”词条）与色情和审查（参见“色情与审查”词条）的领域。信息技术给这些由来已久的道德辩论添上的是：对他人可能想控制的信息——知识产权、危险信息与色情内容——几乎毫不费力的获取（Floridi 1999）[^floridi-1999][^floridi-1999-2]，以及为用户和提供信息获取渠道者双方提供的技术匿名性（Nissenbaum 1999; Sullins 2010）[^nissenbaum-1999][^sullins-2010]。例如，欺凌与跟踪的案例时有发生，而网络欺凌与网络跟踪的匿名和远程特性使这些行为容易得多，行为人也更难被抓到。既然信息技术会使这类不道德行为更容易发生，那就可以论证：网络空间本身的设计在不知不觉中助长了不道德行为（Adams 2002; Grodzinsky and Tavani 2002）[^adam-2002][^grodzinsky-2002]。信息技术的种种设计能力既然影响着用户的生活，这些技术设计者的道德承诺便可能左右社会将走的道路，我们对某些道德价值的承诺到头来将由技术专家来决定（Brey 2010; Bynum 2000; Ess 2009; Johnson 1985; Magnani 2007; Moor 1985; Spinello 2001; Sullins 2010）[^brey-2010][^bynum-2000][^ess-2009][^johnson-1985][^magnani-2007][^moor-1985][^spinello-2001][^sullins-2010]。
+
+    step2: |-
+      类似的价值裂隙同样出现在其他领域，最突出的是知识产权（参见“知识产权”词条）与色情和审查（参见“色情与审查”词条）。信息技术给这些由来已久的道德论辩添了两样东西：其一，对他人或想控制的信息——知识产权、危险信息、色情内容——近于毫不费力的获取（Floridi 1999）[^floridi-1999][^floridi-1999-2]；其二，给用户与信息提供者双方罩上一层技术匿名（Nissenbaum 1999; Sullins 2010）[^nissenbaum-1999][^sullins-2010]。欺凌与跟踪本就时有发生，而网络欺凌、网络跟踪凭其匿名与远程，让这类行为愈发轻易、行为人愈发难落法网。信息技术既能让这类不德之行更容易得手，便有理由说：网络空间自身的设计就在默默纵容不道德行为（Adams 2002; Grodzinsky and Tavani 2002）[^adam-2002][^grodzinsky-2002]。信息技术的设计能力既如此渗入用户的生活，设计者的道德承诺便可能圈定社会的走向——我们对某些道德价值的承诺，到头来竟要由技术专家拍板（Brey 2010; Bynum 2000; Ess 2009; Johnson 1985; Magnani 2007; Moor 1985; Spinello 2001; Sullins 2010）[^brey-2010][^bynum-2000][^ess-2009][^johnson-1985][^magnani-2007][^moor-1985][^spinello-2001][^sullins-2010]。
+
   - id: 34
     kind: body
     source: |-
       Assuming we are justified in granting access to some store of information that we may be in control of, there is a duty to ensure that that information is truthful, accurate, and useful. A simple experiment will show that information technologies might have some deep problems in this regard. Load several different search engines and then type the same search terms in each of them, each will present different results and some of these searches will vary widely from one another. This shows that each of these services uses a different proprietary algorithm for presenting the user with results from their search. It follows then that not all searches are equal and the truthfulness, accuracy, and usefulness of the results will depend greatly on which search provider you are using and how much user information is shared with this provider. All searches are filtered by various algorithms to ensure that the information the search provider believes is most important to the user is listed first. Since these algorithms are not made public and are closely held trade secrets, users are placing a great deal of trust in this filtering process. The hope is that these filtering decisions are morally justifiable but it is difficult to know. A simple example is found in “clickjacking.” If we are told a link will take us to one location on the web yet when we click it we are taken to some other place, the user may feel that this is a breach of trust. This is often called “clickjacking” and malicious software can clickjack a browser by taking the user to some other site than what is expected; it will usually be rife with other links that pay the clickjacker for bringing traffic to them (Hansen and Grossman, 2008). Again the anonymity and ease of use that information technology provides can facilitate deceitful practices such as clickjacking. Pettit (2009) suggests that this should cause us to reevaluate the role that moral values such as trust and reliance play in a world of information technology. Anonymity and the ability to hide the authors of news reports online have contributed to the rise of “fake news” or propaganda of various sorts posing as legitimate news. This is a significant problem and will be discussed in section (2.2.3) below
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即便我们有理由准许他人获取我们掌控的某批信息，我们也有责任确保这些信息真实、准确、有用。一个简单的实验就能表明信息技术在这方面可能有深层的毛病。打开几个不同的搜索引擎，输入同样的搜索词，各家给出的结果各不相同，有些甚至大相径庭。这表明每家服务都用各自专有的算法向用户呈现搜索结果。由此可知，搜索并非一律平等：结果的真实性、准确性与有用性，很大程度上取决于你用的是哪家搜索服务商，以及你与这家服务商共享了多少用户信息。所有搜索都经过各种算法过滤，以确保搜索服务商认为对用户最重要的信息排在前列。这些算法不公开，是严守的商业机密，用户正是在这种过滤过程中托付了大量信任。人们希望这些过滤决定在道德上站得住脚，但这很难知道。“点击劫持”就是一个简单的例子。如果有人告诉我们某个链接会带我们到网上某处，而我们一点击却被带到了别的地方，用户会觉得这是一种背信。这常被称为“点击劫持”：恶意软件把用户带往并非其所期待的站点，那里通常满是其他链接，点击劫持者靠给这些站点输送流量赚取报酬（Hansen and Grossman, 2008）。信息技术提供的匿名与易用，又一次便利了点击劫持这类欺骗行径。佩蒂特（Pettit）（2009）提示我们，这应当促使我们重新评估信任与依赖这类道德价值在信息技术世界中所扮演的角色。匿名与隐藏网上新闻作者的能力，助长了“假新闻”或各类乔装成正当新闻的宣传的兴起。这是个重大问题，下文（2.2.3 节）将予讨论。
+
+    step2: |-
+      即便我们有理由准许他人获取我们掌控的某批信息，也仍有责任确保这批信息真实、准确、有用。一个简单的实验就能看出信息技术在这里可能藏着的深坑：打开几个不同的搜索引擎，输入同样的搜索词，各家呈现的结果互不相同，有些甚至天差地别。可见每家服务都在用自家的专有算法向你呈现结果。由此推知：搜索并非一律平等——结果真实与否、准确与否、有用与否，很大程度上系于你用哪家搜索服务商，以及你向它交出了多少用户信息。所有搜索都要过算法过滤这一道，为的是让搜索服务商认为对用户最重要的信息排在最前。这些算法不公开，是严守的商业机密；用户正是在这道过滤工序上托付了重重的信任。人们指望这些过滤决定在道德上站得住脚，可谁又知道呢。“点击劫持”（clickjacking）就是个现成的例子：明明被告知某链接会带你去网上某处，一点击却落到别的地方——用户难免觉得这是背信。恶意软件就这样“劫持”浏览器，把用户送往本不该去的站点；那些站点通常满是待价而沽的链接，点击劫持者靠输送流量收取报酬（Hansen and Grossman, 2008）。信息技术的匿名与易用，又一次给点击劫持这类骗术开了方便之门。佩蒂特（Pettit）（2009）提示：这应当促使我们重新掂量信任与依赖这类道德价值在信息技术世界里扮演的角色。匿名，以及遮掩网上新闻报道作者的能力，助长了“假新闻”与各色乔装成正经新闻的宣传的兴起。这是个重大问题，下文（2.2.3 节）将予讨论。
+
   - id: 35
     kind: body
     source: |-
       Lastly in this section, we must address the impact that access to information has on social justice. Information technology was largely developed in the Western industrial societies during the twentieth century. But even today the benefits of this technology have not spread evenly around the world and to all socioeconomic demographics. Certain societies and social classes have little to no access to the information easily available to those in more well-off and developed nations, and some of those who have some access have that access heavily censored by their governments. This situation has come to be called the “digital divide,” and despite efforts to address this gap, it may be growing wider. It is worth noting that as the cost of smartphones decreases these technologies are giving some access to the global internet to communities that have been shut out before (Poushter 2016)[^poushter-2016]. While much of this gap is driven by economics (see Warschauer 2003)[^warschauer-2003], Charles Ess notes that there is also a problem with the forces of a new kind of cyber-enabled colonialism and ethnocentrism that can limit the desire of those outside the industrial West to participate in this new “Global Metropolis” (Ess 2009)[^ess-2009]. John Weckert also notes that cultural differences in giving and taking offense play a role in the design of more egalitarian information technologies (Weckert 2007)[^weckert-2007]. Others argue that basic moral concerns like privacy are weighed differently in Asian cultures (Hongladarom 2008; Lü 2005)[^hongladarom-2008].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，本节还须讨论信息的获取对社会正义的影响。信息技术主要于二十世纪在西方工业社会发展起来。但直到今天，这项技术的好处仍未均匀地遍及世界和所有社会经济群体。某些社会和社会阶层几乎无法获取那些在较富裕发达国度唾手可得的信息，而一些有所获取的人，其获取又被本国政府严加审查。这种局面后来被称为“数字鸿沟”；尽管各方努力弥合，鸿沟或许还在加宽。值得注意的是，随着智能手机成本下降，这些技术正让一些此前被隔绝在外的群体获得接触全球互联网的机会（Poushter 2016）[^poushter-2016]。这道鸿沟固然主要由经济因素驱动（见 Warschauer 2003）[^warschauer-2003]，但查尔斯·埃斯（Charles Ess）指出，还有一股新型的、由网络助殖的殖民主义与种族中心主义的力量在作祟，它可能抑制工业西方之外的人们参与这座新的“全球都会”的意愿（Ess 2009）[^ess-2009]。约翰·韦克特（John Weckert）也指出，在冒犯与被冒犯上的文化差异，会在设计更平等的信息技术时发生作用（Weckert 2007）[^weckert-2007]。还有人论证，隐私这类基本道德关切在亚洲文化中的权重有所不同（Hongladarom 2008; Lü 2005）[^hongladarom-2008]。
+
+    step2: |-
+      本节最后要谈的，是信息获取对社会正义的冲击。信息技术大体是二十世纪在西方工业社会里发展起来的。可时至今日，这项技术的好处并未均匀洒遍全球、惠及各个社会经济群体。有些社会与社会阶层，对富庶发达国度唾手可得的信息近乎无缘；另一些有所沾及的人，接触渠道又被本国政府重重审查。这种局面后来得名“数字鸿沟”；弥合的努力虽有，鸿沟却可能越拉越宽。值得留意的是，智能手机成本一路下探，此前被隔绝在外的社群正借此获得接入全球互联网的机会（Poushter 2016）[^poushter-2016]。这道鸿沟固然多半由经济因素驱动（见 Warschauer 2003）[^warschauer-2003]，但查尔斯·埃斯（Charles Ess）指出，还有一股新式的、借网络张目的殖民主义与种族中心主义在发力，足以浇灭工业西方之外的人们投身这座新“全球都会”的热情（Ess 2009）[^ess-2009]。约翰·韦克特（John Weckert）也指出，各方文化在施予冒犯与领受冒犯上的差异，会左右更平等的信息技术的设计（Weckert 2007）[^weckert-2007]。另有人主张，隐私这类基本道德关切在亚洲文化里的权重别有分寸（Hongladarom 2008; Lü 2005）[^hongladarom-2008]。
+
   - id: 36
     kind: body
     source: |-
       #### 2.1.3 Moral Values in Organizing and Synthesizing Information
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 2.1.3 信息组织与综合中的道德价值
+
+    step2: |-
+      #### 2.1.3 信息组织与综合中的道德价值
+
   - id: 37
     kind: body
     source: |-
