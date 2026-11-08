@@ -531,138 +531,186 @@ segments:
     kind: body
     source: |-
       ### 4.4 Economics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.4 经济
+    step2: |-
+      ### 4.4 经济
   - id: 67
     kind: body
     source: |-
       Throughout the twentieth century, there was much debate about whether Mandeville should be classified as a proponent of laissez-faire or mercantilist economic doctrines (for critical overviews, see Landreth 1975; Rashid 1985; Prendergast 2016, 104–112)[^landreth-1975][^prendergast-2016][^rashid-1985]. Evidence supporting both interpretations can be found, and Mandeville may have changed his position to some extent between different editions of the *Fable*, shifting from a more laissez-faire position when analyzing economic demand to a more mercantilist one when examining labor supply (Dew 2005)[^dew-2005]. Indeed, one area where his economic thinking closely intersects with his broader social and political philosophy concerns his views on the working poor.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      整个 20 世纪，学界围绕曼德维尔究竟应被归为自由放任主义还是重商主义经济学说，争论不休（批判性综述见 Landreth 1975；Rashid 1985；Prendergast 2016, 104–112）[^landreth-1975][^prendergast-2016][^rashid-1985]。支持两种解读的证据都能找到；曼德维尔在《寓言》各版之间，立场也可能有所变化：分析经济需求时偏向自由放任，考察劳动供给时则更偏重商主义（Dew 2005）[^dew-2005]。的确，他的经济思考与更广泛的社会政治哲学密切交叠的一个领域，就是他对穷苦劳动者的看法。
+    step2: |-
+      整个 20 世纪，学界一直在争论：曼德维尔到底该归入自由放任主义，还是重商主义的经济学说（批判性综述见 Landreth 1975；Rashid 1985；Prendergast 2016, 104–112）[^landreth-1975][^prendergast-2016][^rashid-1985]。支持两种解读的证据都能找到。曼德维尔在《寓言》各版之间的立场也可能有所变化：分析经济需求时偏向自由放任，考察劳动供给时更偏重商主义（Dew 2005）[^dew-2005]。确实，他的经济思考与更广泛的社会政治哲学密切交叠，其中一个领域就是他对穷苦劳动者的看法。
   - id: 68
     kind: body
     source: |-
       In defending the thesis that private vices lead to public benefits, Mandeville maintains that the advantages of commercial prosperity extend to the lowest classes in society, with the poorest members of flourishing states enjoying more of the comforts of life than even the richest classes in less economically-developed societies (FB I, 169–172). Yet Mandeville does not support the liberal reward of labor—as David Hume and Adam Smith would later do—and instead endorses a version of the utility of poverty thesis. While the poor should have enough to survive, Mandeville argues that the state benefits more if the poor spend their entire income, rather than being able to build up savings. The poor are generally “more prone to Ease and Pleasure than they are to Labour”, and thus will only work if driven to do so by immediate necessity (FB I, 192–194). What is more, it is important that the poor are kept uneducated and do not acquire aspirations that will only be disappointed by striving to emulate the more affluent classes. The poor will be happier with their lot if their expectations are not raised beyond what they can ever hope to attain (FB I, 287–290).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在捍卫“私恶导致公利”这一论点时，曼德维尔坚称商业繁荣的好处会惠及社会最底层：在繁荣国家，最穷的成员享有的生活舒适，甚至超过经济欠发达社会中最富有的阶层（FB I, 169–172）。然而，曼德维尔并不支持对劳动给予宽厚报酬——大卫·休谟和亚当·斯密后来才主张这一点——而是赞同某种版本的“贫穷效用论”。穷人固然应当有足够的东西维生，但曼德维尔认为，如果穷人把全部收入都花掉、而不是攒下储蓄，国家反而受益更多。穷人一般“更倾向于安逸与享乐，而不是劳动”，因此只有被眼前的生计所迫才会去工作（FB I, 192–194）。更重要的是，必须让穷人不受教育，不去产生那些只会因努力效仿更富裕阶层而落空的抱负。如果穷人的期望不被抬到他们永远无望达到的高度之上，他们就会对自己的境况更满意（FB I, 287–290）。
+    step2: |-
+      捍卫“私恶导致公利”这一论点时，曼德维尔坚称商业繁荣的好处会惠及社会最底层：繁荣国家里最穷的人，生活舒适程度甚至超过经济欠发达社会里最富的阶层（FB I, 169–172）。可曼德维尔并不支持给劳动以宽厚报酬——大卫·休谟和亚当·斯密后来才主张这个——他赞同的是某种版本的“贫穷效用论”。穷人当然该有足够的东西活命，但曼德维尔认为，穷人把全部收入花掉、而不是攒下储蓄，对国家反而更有利。穷人一般“更倾向于安逸与享乐，而不是劳动”，只有被眼前的生计逼着才肯干活（FB I, 192–194）。更重要的是，必须让穷人不受教育，不生出那些只会因努力效仿富人而落空的抱负。穷人的期望只要不被抬到永远达不到的高度，他们就会对自己的境况更满意（FB I, 287–290）。
   - id: 69
     kind: body
     source: |-
       As these remarks indicate, not only does Mandeville recognize that the societies of his day were demarcated into different socioeconomic classes, but he also holds that it is unrealistic—and even undesirable—to try to change this. He argues that maintaining clear class distinctions would protect the self-esteem of the working poor, who comprised most of the population. By ensuring that the lower classes do not compare themselves to those above them on the social ladder, their self-image could be preserved, leading to greater happiness and satisfaction with their condition. There is nothing egalitarian about the way that the economy of esteem plays out in Mandeville’s social vision.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如这些论述所示，曼德维尔不仅承认他那个时代的社会划分为不同的社会经济阶层，还认为试图改变这一点既不现实，甚至不可取。他主张，维持清晰的阶级区分会保护占人口多数的穷苦劳动者的自尊。只要确保下层阶级不拿自己同社会阶梯上更高的人相比，他们的自我形象就能保住，从而对自己的处境更感幸福与满足。在曼德维尔的社会图景中，尊重经济（economy of esteem）的运作方式毫无平等主义可言。
+    step2: |-
+      这些论述表明，曼德维尔不仅承认他那个时代的社会分成不同社会经济阶层，还认为想改变这一点既不现实，甚至不可取。他主张，维持清晰的阶级区分能保护占人口多数的穷苦劳动者的自尊。只要保证下层阶级不拿自己同社会阶梯上更高的人比，他们的自我形象就能保住，也就会对自己的处境更满意、更幸福。在曼德维尔的社会图景里，尊重经济的运作方式毫无平等主义可言。
   - id: 70
     kind: body
     source: |-
       One striking feature of Mandeville’s analysis of the working poor is that he does not allow that the desire for social standing and esteem could reliably motivate people to perform menial labor. Given the importance that he elsewhere accords to pride, envy, and emulation in stimulating the demand for luxury goods, Mandeville’s discussion of the motivations of the laboring poor may seem at odds with his more general account of human nature (Pongiglione & Tolonen 2016: 89–93)[^pongiglione-2016]. Adam Smith (1759 [1976: 50]) would later remark that it “is chiefly from this regard to the sentiments of mankind, that we pursue riches and avoid poverty”, and the thought that what drives the economy is not the desire for material possessions as much as the status and good opinion that wealth confers fits well with much of Mandeville’s analysis of human nature. When it comes to the working classes, however, he contends that it is only economic necessity, and not the desire for social esteem, that can secure the labor supply of a prosperous economy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      曼德维尔对穷苦劳动者的分析有一个引人注目的特点：他不承认对社会地位与尊重的渴望能可靠地驱使人去做卑贱的体力活。鉴于他在别处极为重视骄傲、嫉妒与效仿在刺激奢侈品需求方面的作用，曼德维尔关于劳动穷人动机的讨论，似乎与他更一般的人性说明不一致（Pongiglione & Tolonen 2016: 89–93）[^pongiglione-2016]。亚当·斯密（1759 [1976: 50]）后来指出，“我们追求财富、躲避贫穷，主要正是出于对世人情感的在意”；而认为驱动经济的与其说是对物质的占有欲，不如说是财富带来的地位与好评——这一想法与曼德维尔人性分析的许多部分十分契合。然而，一涉及劳动阶级，他就主张：只有经济上的必要性，而非对社会尊重的渴望，才能保障繁荣经济的劳动力供给。
+    step2: |-
+      曼德维尔对穷苦劳动者的分析，有个引人注目的地方：他不承认对社会地位和尊重的渴望能可靠地驱使人去干卑贱的体力活。他在别处那么看重骄傲、嫉妒和效仿在刺激奢侈品需求上的作用，可一谈劳动穷人的动机，说法似乎就同他更一般的人性说明对不上（Pongiglione & Tolonen 2016: 89–93）[^pongiglione-2016]。亚当·斯密（1759 [1976: 50]）后来说，“我们追求财富、躲避贫穷，主要正是出于对世人情感的在意”；而认为驱动经济的与其说是对物质的占有欲，不如说是财富带来的地位和好评——这个想法和曼德维尔人性分析的许多部分十分契合。可一说到劳动阶级，他就主张：只有经济上的必要性，而不是对社会尊重的渴望，才能保障繁荣经济的劳动力供给。
   - id: 71
     kind: body
     source: |-
       ## 5. Legacy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 遗产
+    step2: |-
+      ## 5 遗产
   - id: 72
     kind: body
     source: |-
       *The Fable of the Bees* was one of the most scandalous books published in eighteenth-century Europe. Beyond the work’s notoriety, however, it played an important role in the development of social and moral philosophy throughout the century, and, while not so widely read subsequently, it continued to attract the attention of some of the most famous philosophers and social scientists in the nineteenth and twentieth centuries (for wide-ranging surveys, see Kaye 1924a: cxiv–cxlvi; Hundert 1994: 237–249)[^hundert-1994][^kaye-1924a].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《蜜蜂的寓言》是 18 世纪欧洲出版的最伤风败俗的书之一。然而，除了这部作品的恶名之外，它还在整个世纪的社会哲学与道德哲学发展中扮演了重要角色；虽然后来读者没那么广，它仍持续吸引着 19、20 世纪一些最著名的哲学家和社会科学家的注意（广泛综述见 Kaye 1924a: cxiv–cxlvi；Hundert 1994: 237–249）[^hundert-1994][^kaye-1924a]。
+    step2: |-
+      《蜜蜂的寓言》是 18 世纪欧洲最伤风败俗的书之一。可除了恶名，它还在整个世纪的社会哲学和道德哲学发展中扮演了重要角色；后来读者虽没那么广，它仍不断吸引 19、20 世纪一些最著名的哲学家和社会科学家（广泛综述见 Kaye 1924a: cxiv–cxlvi；Hundert 1994: 237–249）[^hundert-1994][^kaye-1924a]。
   - id: 73
     kind: body
     source: |-
       ### 5.1 Eighteenth-century reception
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.1 18 世纪的反响
+    step2: |-
+      ### 5.1 18 世纪的反响
   - id: 74
     kind: body
     source: |-
       Although the public reception of Mandeville’s work in 1720s Britain was largely hostile, it swiftly elevated him to fame (for a collection of responses, see Stafford 1997)[^stafford-1997]. By 1732, over 300 reports on the *Fable* had appeared in the British press (Revolti 2016)[^revolti-2016], and Benjamin Franklin sought to meet Mandeville when he came to London in 1725. A strong case can also be made that Mandeville’s mature philosophy proved very influential in the Scottish and wider European Enlightenment, with some of his key ideas being developed by David Hume, Jean-Jacques Rousseau, and Adam Smith, amongst others (see, e.g., Castiglione 1986; Goldsmith 1988; Hundert 1994; Robertson 2005: 256–324; Heath 2014)[^castiglione-1986][^goldsmith-1988][^heath-2014][^hundert-1994][^robertson-2005]. Even when these philosophers criticized Mandeville directly, they appear to have adopted some of his key insights about the evolution of social norms and the importance of passions such as self-liking (or, in Rousseau’s lexicon, *amour-propre*) that lead us to care deeply about our social standing.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管曼德维尔的作品在 1720 年代英国的公众接受大体上是敌意的，它却迅速把他推成了名人（回应文集见 Stafford 1997）[^stafford-1997]。到 1732 年，英国报刊上已出现 300 多篇关于《寓言》的报道（Revolti 2016）[^revolti-2016]；本杰明·富兰克林 1725 年来伦敦时，还设法求见曼德维尔。也有充分理由认为，曼德维尔成熟的哲学在苏格兰乃至整个欧洲启蒙运动中影响巨大，他的一些关键观念由大卫·休谟、让-雅克·卢梭和亚当·斯密等人加以发展（例见 Castiglione 1986；Goldsmith 1988；Hundert 1994；Robertson 2005: 256–324；Heath 2014）[^castiglione-1986][^goldsmith-1988][^heath-2014][^hundert-1994][^robertson-2005]。即便这些哲学家直接批评曼德维尔，他们似乎也采纳了他的一些关键洞见：社会规范如何演化，以及自矜之类激情（在卢梭的词汇里是 *amour-propre*）如何重要——正是这些激情让我们深切在乎自己的社会地位。
+    step2: |-
+      曼德维尔的作品在 1720 年代英国的公众接受大体上充满敌意，却迅速把他推成了名人（回应文集见 Stafford 1997）[^stafford-1997]。到 1732 年，英国报刊上已出现 300 多篇关于《寓言》的报道（Revolti 2016）[^revolti-2016]；本杰明·富兰克林 1725 年来伦敦时，还设法求见曼德维尔。也有充分理由认为，曼德维尔成熟的哲学在苏格兰乃至整个欧洲启蒙运动中影响巨大，他的一些关键观念由大卫·休谟、让-雅克·卢梭和亚当·斯密等人接着发展（例见 Castiglione 1986；Goldsmith 1988；Hundert 1994；Robertson 2005: 256–324；Heath 2014）[^castiglione-1986][^goldsmith-1988][^heath-2014][^hundert-1994][^robertson-2005]。即便这些哲学家直接批评曼德维尔，他们似乎也采纳了他的一些关键洞见：社会规范如何演化，自矜之类激情（在卢梭的词汇里是 *amour-propre*）如何重要——正是这些激情让我们深切在乎自己的社会地位。
   - id: 75
     kind: body
     source: |-
       Reviewing Rousseau’s *Discours sur l’origine et les fondements de l’inégalité parmi les hommes*, Smith (1756 [1980: 250]) claimed that “the second volume of the Fable of the Bees has given occasion to the system of Mr. Rousseau”, noting that they both denied natural sociability and set out accounts of how humans gradually come to acquire the qualities required to live together in society. Indeed, one of the most striking features of Mandeville’s conjectural history of society is that it implicitly rejects the social contract approaches associated with political philosophers like Thomas Hobbes and John Locke, and instead places much more emphasis on how conventions of justice and politeness could have emerged over time—an approach that would be developed further and more famously in Hume’s *A Treatise of Human Nature* (Tolonen 2013)[^tolonen-2013]. Similarly, Mandeville’s naturalistic explanation of how language first developed may well have influenced Étienne Bonnot de Condillac and helped to shape subsequent debates on the origin of language (Kaye 1924b; Schreyer 1978; Hundert 1994: 86–115)[^hundert-1994][^kaye-1924b][^schreyer-1978].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      史密斯（1756 [1980: 250]）在评论卢梭的《论人类不平等的起源和基础》（*Discours sur l’origine et les fondements de l’inégalité parmi les hommes*）时声称，“《蜜蜂的寓言》第二卷给了卢梭先生的体系以契机”，并指出两人都否认人天生具有社会性，都说明了人类如何逐渐获得共同生活在社会中所需要的品质。的确，曼德维尔社会推测史最引人注目的特点之一，是它暗中否弃了托马斯·霍布斯、约翰·洛克等政治哲学家所代表的社会契约进路，而把更多分量放在正义与礼貌的习俗如何随时间形成之上——这一进路在休谟的《人性论》（*A Treatise of Human Nature*）中得到了更充分、也更著名的发挥（Tolonen 2013）[^tolonen-2013]。同样，曼德维尔对语言最初如何发展的自然主义解释，很可能影响了艾蒂安·博诺·德·孔狄亚克，并塑造了此后关于语言起源的争论（Kaye 1924b；Schreyer 1978；Hundert 1994: 86–115）[^hundert-1994][^kaye-1924b][^schreyer-1978]。
+    step2: |-
+      史密斯（1756 [1980: 250]）评论卢梭的《论人类不平等的起源和基础》（*Discours sur l’origine et les fondements de l’inégalité parmi les hommes*）时说，“《蜜蜂的寓言》第二卷给了卢梭先生的体系以契机”。他指出，两人都否认人天生具有社会性，都说明人类如何逐渐获得共同生活在社会里所需的品质。确实，曼德维尔社会推测史最引人注目的特点之一，是它暗中否弃了托马斯·霍布斯、约翰·洛克等政治哲学家代表的社会契约进路，转而把更多分量放在正义与礼貌的习俗如何随时间形成上——这条进路在休谟的《人性论》（*A Treatise of Human Nature*）里得到更充分、也更著名的发挥（Tolonen 2013）[^tolonen-2013]。同样，曼德维尔对语言最初如何发展的自然主义解释，很可能影响了艾蒂安·博诺·德·孔狄亚克，也塑造了此后关于语言起源的争论（Kaye 1924b；Schreyer 1978；Hundert 1994: 86–115）[^hundert-1994][^kaye-1924b][^schreyer-1978]。
   - id: 76
     kind: body
     source: |-
       In these respects, *The Fable of the Bees* is a quintessentially Enlightenment text. It offers a naturalistic account of the origins of society and morality, without appealing to God-given natural law, in the vein of Locke, or to any strong (and sometimes theologically grounded) assumptions about the reach of human benevolence—the very assumptions to which Francis Hutcheson would appeal, as one of Mandeville’s most trenchant critics. When confronted with serious religious thinkers like Hutcheson and especially George Berkeley, Mandeville reaffirmed his intellectual integrity and claimed that the outrage caused by the *Fable* was largely due to people criticizing it without having read it carefully. He insisted that the *Fable* should be read as “a Philosophical Disquisition into the Force of the Passions, and the Nature of Society” (LD 54–55), and it appears to have had the greatest philosophical impact amongst those who did take it seriously in these terms, such as Hume and Smith.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在这些方面，《蜜蜂的寓言》是一部典型的启蒙文本。它对社会与道德的起源给出自然主义说明，既不诉诸洛克式的上帝所赐自然法，也不诉诸任何关于人类仁慈之范围的强假定（这些假定有时还有神学基础）——而弗兰西斯·哈奇森作为曼德维尔最尖锐的批评者之一，恰恰诉诸的就是这些假定。面对哈奇森、尤其是乔治·贝克莱这样严肃的宗教思想家时，曼德维尔重申自己的思想操守，并声称《寓言》引起的义愤，多半是因为人们没有仔细阅读就加以批评。他坚持《寓言》应被读作“一篇对激情之力与社会本性的哲学探讨”（LD 54–55）；而它似乎正是在那些以此方式认真对待它的人——如休谟和斯密——当中，产生了最大的哲学影响。
+    step2: |-
+      在这些方面，《蜜蜂的寓言》是一部典型的启蒙文本。它对社会和道德的起源给出自然主义说明，既不诉诸洛克式的上帝所赐自然法，也不诉诸任何关于人类仁慈之范围的强假定（这些假定有时还带神学基础）——而弗兰西斯·哈奇森作为曼德维尔最尖锐的批评者之一，诉诸的恰恰就是这类假定。面对哈奇森、尤其是乔治·贝克莱这样严肃的宗教思想家，曼德维尔重申自己的思想操守，声称《寓言》招来的义愤，多半是因为人们没仔细读就开批。他坚持《寓言》应被读作“一篇对激情之力与社会本性的哲学探讨”（LD 54–55）；而它似乎正是在那些以此方式认真对待它的人——如休谟和斯密——当中，产生了最大的哲学影响。
   - id: 77
     kind: body
     source: |-
       Mandeville’s economic ideas also proved influential in the eighteenth century, not least in France, where his ideas on luxury were taken up by Jean-François Melon and Voltaire (Hont 2006)[^hont-2006]. French translations of some of Mandeville’s texts, including *Free Thoughts on Religion*, appeared even before his rise to fame following the 1723 edition of the *Fable*. The French press extensively reviewed and discussed his works, especially once a full translation of both parts of the *Fable* was published in 1740 (Muceni 2015)[^muceni-2015]. While the influence of Mandeville’s ideas was greatest in eighteenth-century Britain and France, his works also received wider attention throughout the century, including in Germany (Fabian 1976)[^fabian-1976] and the Dutch Republic (Hengstmengel & Verburg 2023)[^hengstmengel-2023].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      曼德维尔的经济观念在 18 世纪也颇具影响，尤其是在法国：他关于奢侈的看法被让-弗朗索瓦·梅隆（Jean-François Melon）和伏尔泰接了过去（Hont 2006）[^hont-2006]。曼德维尔某些文本的法译本，包括《关于宗教的自由思想》，甚至在他因 1723 年版《寓言》而成名之前就已出现。法国报刊对他的著作作了大量评论与讨论，尤其是 1740 年《寓言》两部分的完整译本出版之后（Muceni 2015）[^muceni-2015]。曼德维尔观念的影响以 18 世纪的英国和法国为最大，但他的著作在整个世纪也受到更广泛的注意，包括在德国（Fabian 1976）[^fabian-1976]和荷兰共和国（Hengstmengel & Verburg 2023）[^hengstmengel-2023]。
+    step2: |-
+      曼德维尔的经济观念在 18 世纪也颇有影响，尤其在法国：他关于奢侈的看法被让-弗朗索瓦·梅隆（Jean-François Melon）和伏尔泰接了过去（Hont 2006）[^hont-2006]。曼德维尔某些文本的法译本，包括《关于宗教的自由思想》，甚至在他因 1723 年版《寓言》成名之前就已出现。法国报刊对他的著作作了大量评论和讨论，尤其是 1740 年《寓言》两部分的完整译本出版之后（Muceni 2015）[^muceni-2015]。曼德维尔观念的影响以 18 世纪的英国和法国最大，但他的著作在整个世纪也受到更广泛的注意，包括在德国（Fabian 1976）[^fabian-1976]和荷兰共和国（Hengstmengel & Verburg 2023）[^hengstmengel-2023]。
   - id: 78
     kind: body
     source: |-
       ### 5.2 Nineteenth-century reception
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.2 19 世纪的反响
+    step2: |-
+      ### 5.2 19 世纪的反响
   - id: 79
     kind: body
     source: |-
       Mandeville’s ideas continued to captivate the minds of important thinkers during the nineteenth century, sparking debates that extended into the twentieth century and beyond. For example, Karl Marx (1867 [1976: 764–765]) quoted at length from Mandeville’s discussion of the utility of poverty, which he regarded as a brutally honest assessment of the extent to which a thriving capitalist economy depends upon a poor underclass being kept at subsistence level. In addition, Marx (1867 [1976: 475]) claimed that parts of Adam Smith’s analysis of the division of labor were “copied almost word for word” from Mandeville. Other influential thinkers also turned to Mandeville’s ideas for insights into explaining complex societal phenomena. In particular, his attempts to naturalize social norms and institutions by charting their historical origins gave rise to questions about the relationship between individual behavior and collective outcomes that would dominate later social science, and which were taken up in very different ways in (for example) Thomas Malthus’s work on population dynamics and Jeremy Bentham’s account of utilitarianism (Gaukroger 2016: 267–302)[^gaukroger-2016]. Perhaps most notably, Charles Darwin appears to have read the second volume of the *Fable* closely and may have drawn inspiration from Mandeville’s conjectural history when developing his own evolutionary theory, recognizing its relevance for thinking through how unintended consequences and gradual change could relate to processes of natural selection (Alter 2008)[^alter-2008].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      19 世纪，曼德维尔的思想继续吸引重要思想家，激起的争论一直延伸到 20 世纪乃至更晚。例如，卡尔·马克思（1867 [1976: 764–765]）大段引用了曼德维尔关于贫穷效用论的讨论，认为这是对“繁荣的资本主义经济在多大程度上依赖把贫穷下层阶级维持在糊口水平”所作的残酷而诚实的评估。此外，马克思（1867 [1976: 475]）还声称，亚当·斯密关于分工的分析有一部分是“几乎逐字逐句”从曼德维尔那里抄来的。其他有影响的思想家也借助曼德维尔的观念，以获取解释复杂社会现象的洞见。尤其是，他试图通过梳理社会规范与制度的历史起源而将其自然化；这引出了个体行为与集体结果之间关系的问题，而这些问题将主导此后的社会科学，并在（例如）托马斯·马尔萨斯关于人口动态的著作和杰里米·边沁的功利主义说明中以非常不同的方式得到处理（Gaukroger 2016: 267–302）[^gaukroger-2016]。或许最值得注意的是，查尔斯·达尔文似乎仔细读过《寓言》第二卷，并可能在发展自己的演化论时从曼德维尔的推测史中获得灵感；他认识到，这对思考非意图后果与渐进变化如何同自然选择过程相关联颇具相关性（Alter 2008）[^alter-2008]。
+    step2: |-
+      19 世纪，曼德维尔的思想继续吸引重要思想家，激起的争论一直延伸到 20 世纪乃至更晚。比如，卡尔·马克思（1867 [1976: 764–765]）大段引用曼德维尔关于贫穷效用论的讨论，认为这是对“繁荣的资本主义经济在多大程度上依赖把贫穷下层阶级维持在糊口水平”所作的残酷而诚实的评估。马克思（1867 [1976: 475]）还声称，亚当·斯密关于分工的分析有一部分“几乎逐字逐句”抄自曼德维尔。其他有影响的思想家也借曼德维尔的观念来解释复杂社会现象。尤其是，他试图通过梳理社会规范与制度的历史起源而将其自然化；这引出个体行为与集体结果之间关系的问题。这些问题将主导此后的社会科学，并在（比如）托马斯·马尔萨斯关于人口动态的著作和杰里米·边沁的功利主义说明中得到非常不同的处理（Gaukroger 2016: 267–302）[^gaukroger-2016]。或许最值得注意的是，查尔斯·达尔文似乎仔细读过《寓言》第二卷，并可能在发展自己的演化论时从曼德维尔的推测史中获得灵感；他看出，这对思考非意图后果与渐进变化如何同自然选择过程相关联很有帮助（Alter 2008）[^alter-2008]。
   - id: 80
     kind: body
     source: |-
       The nineteenth century also witnessed more systematic attempts to categorize Mandeville’s thought. This intellectual endeavor found fertile ground in Germany, where a flourishing school of scholarship emerged around Mandeville’s ideas in the later part of the century. One notable milestone was Paul Sakmann’s seminal work, *Bernard de Mandeville und die Bienenfabel-controverse* (1897), to which F. A. Hayek would later acknowledge a significant debt (Nolan 2016)[^nolan-2016]. Parallel to the burgeoning interest in Germany, the categorization of Mandeville’s intellectual contributions also gained momentum in Britain. Mandeville’s impact endured throughout the nineteenth century in England, as is evident from references to him in general magazines and other thinkers’ works, especially in relation to discussions of ethics, economics, and human behavior. One staunch advocate of Mandeville was James Crossley, a celebrated collector and champion of Epicurean moral philosophy, who actively fostered dialogues around Mandeville’s writings, consolidating his prominence in the intellectual milieu of the time (Tolonen 2010: 29)[^tolonen-2010]. Mandeville’s importance to the history of moral philosophy was further established with the publication of Leslie Stephen’s *Essays on Freethinking and Plainspeaking* (1873: 243–278) and *The History of English Thought in the Eighteenth Century* (1876: 15–46), which presented Mandeville and Shaftesbury as occupying the poles between which subsequent British moral philosophy had to navigate.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      19 世纪还出现了更系统地整理曼德维尔思想的尝试。这项智识努力在德国找到了沃土：19 世纪后期，围绕曼德维尔的观念形成了一个兴旺的学术流派。一个显著的里程碑是 Paul Sakmann 的开创性著作《伯纳德·德·曼德维尔与蜜蜂寓言之争》（*Bernard de Mandeville und die Bienenfabel-controverse*，1897）；F. A. 哈耶克后来承认自己对此书负债甚多（Nolan 2016）[^nolan-2016]。与德国日益高涨的兴趣并行，对曼德维尔思想贡献的分类整理也在英国获得了动力。曼德维尔的影响在整个 19 世纪的英格兰延续下来，可见于一般杂志和其他思想家著作中对他的引用，尤其是涉及伦理、经济与人类行为的讨论。曼德维尔的一位坚定拥护者是詹姆斯·克罗斯利（James Crossley），他是一位著名的收藏家、伊壁鸠鲁派道德哲学的倡导者，积极促成了围绕曼德维尔著作的对话，巩固了曼德维尔在当时思想界的显赫地位（Tolonen 2010: 29）[^tolonen-2010]。随着 Leslie Stephen 的《论自由思想与直率言说》（*Essays on Freethinking and Plainspeaking*，1873: 243–278）和《18 世纪英国思想史》（*The History of English Thought in the Eighteenth Century*，1876: 15–46）出版，曼德维尔对道德哲学史的重要性得到进一步确立；这两部书把曼德维尔与沙夫茨伯里呈现为两极，此后的英国道德哲学不得不在其间穿行。
+    step2: |-
+      19 世纪还出现了更系统地整理曼德维尔思想的尝试。这项智识努力在德国找到了沃土：19 世纪后期，围绕曼德维尔的观念形成了一个兴旺的学术流派。一个显著的里程碑是 Paul Sakmann 的开创性著作《伯纳德·德·曼德维尔与蜜蜂寓言之争》（*Bernard de Mandeville und die Bienenfabel-controverse*，1897）；F. A. 哈耶克后来承认自己对此书负债甚多（Nolan 2016）[^nolan-2016]。与德国这股日益高涨的兴趣并行，对曼德维尔思想贡献的分类整理也在英国获得了动力。曼德维尔的影响在整个 19 世纪的英格兰延续下来，可见于一般杂志和其他思想家著作中对他的引用，尤其涉及伦理、经济和人类行为的讨论。他的一位坚定拥护者是詹姆斯·克罗斯利（James Crossley）：这位著名收藏家、伊壁鸠鲁派道德哲学的倡导者积极促成了围绕曼德维尔著作的对话，巩固了曼德维尔在当时思想界的显赫地位（Tolonen 2010: 29）[^tolonen-2010]。Leslie Stephen 的《论自由思想与直率言说》（*Essays on Freethinking and Plainspeaking*，1873: 243–278）和《18 世纪英国思想史》（*The History of English Thought in the Eighteenth Century*，1876: 15–46）出版后，曼德维尔对道德哲学史的重要性进一步确立：这两部书把曼德维尔与沙夫茨伯里摆成两极，此后的英国道德哲学不得不在其间穿行。
   - id: 81
     kind: body
     source: |-
       ### 5.3 Twentieth-century reception
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.3 20 世纪的反响
+    step2: |-
+      ### 5.3 20 世纪的反响
   - id: 82
     kind: body
     source: |-
       As the twentieth century dawned, Mandeville’s works had become rare physical artefacts and it was difficult to obtain copies of his books. Frederick Benjamin Kaye played a key role in remedying this and catalyzing Mandeville’s reception. His two-volume edition of *The Fable of the Bees*—first published in 1924 by the Clarendon Press and later reissued by the Liberty Fund in 1988—reshaped the landscape for reading Mandeville. Kaye’s impact was so substantial that it rendered much earlier scholarship almost inconspicuous, with his edition also playing an indispensable role in making Mandeville’s ideas more accessible to contemporary students and scholars ever since.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      20 世纪来临之际，曼德维尔的著作已成为稀见的实体文物，很难弄到他的书。Frederick Benjamin Kaye 在补救这一点、并推动曼德维尔接受史上起了关键作用。他编辑的两卷本《蜜蜂的寓言》——1924 年由 Clarendon Press 首次出版，1988 年由 Liberty Fund 重印——重塑了阅读曼德维尔的格局。Kaye 的影响如此之大，以致早先的许多学术研究几乎黯然失色；自此以后，他的版本在让当代学生与学者更容易接近曼德维尔思想上，也一直扮演着不可或缺的角色。
+    step2: |-
+      20 世纪来临之际，曼德维尔的著作已成稀见的实体文物，他的书很难弄到。Frederick Benjamin Kaye 在补救这一点、推动曼德维尔接受史上起了关键作用。他编的两卷本《蜜蜂的寓言》，1924 年由 Clarendon Press 初版，1988 年由 Liberty Fund 重印，重塑了阅读曼德维尔的格局。Kaye 的影响太大，早先许多研究几乎因此黯然失色；自此以后，他的版本在让当代学生和学者更容易接近曼德维尔思想上，也一直不可或缺。
   - id: 83
     kind: body
     source: |-
       In the early decades of the twentieth century, Mandeville’s ideas continued to be discussed amongst a range of different scholarly audiences. At one point Mandeville had suggested that humans would be unwilling to kill animals for food were it “not for this Tyranny which Custom usurps over us” (FB I, 173), and the renowned early twentieth-century Finnish sociologist, Edvard Westermarck, even identified Mandeville as an advocate of vegetarianism (1939: 392). In the Anglophone world, however, Mandeville’s ideas were most often invoked in debates about the history of economic thought. Kaye (1924a: cxxxix) had claimed that “Mandeville maintains, and maintains explicitly, the theory at present known as the *laissez-faire* theory”, yet this interpretation was soon contested by some of the most prominent economists of the period. In *The General Theory of Employment, Interest, and Money*, John Maynard Keynes (1936 [2018: 319–322]) included Mandeville in his survey of the history of mercantilist economic doctrines, stressing the importance of consumption rather than saving in Mandeville’s explanation of economic growth. It was Jacob Viner (1953 [1991: 183–184]), however, who did most to challenge Kaye’s claim by presenting Mandeville as “a convinced adherent of the prevailing mercantilism of his time”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      20 世纪最初几十年，曼德维尔的观念继续在不同学术圈子里得到讨论。曼德维尔曾一度提出，若不是“习俗篡夺在我们身上的这种暴政”，人类本不愿为食而杀动物（FB I, 173）；20 世纪初著名的芬兰社会学家 Edvard Westermarck 甚至把曼德维尔认定为素食主义的倡导者（1939: 392）。然而在英语世界，曼德维尔的观念最常被援引于经济思想史的争论中。Kaye（1924a: cxxxix）曾声称，“曼德维尔主张、而且明确主张今天所谓 *laissez-faire* 的理论”；但这一解释很快遭到当时一些最杰出经济学家的质疑。在《就业、利息和货币通论》中，约翰·梅纳德·凯恩斯（1936 [2018: 319–322]）把曼德维尔纳入他对重商主义经济学说史的考察，强调在曼德维尔的经济增长解释中，消费而非储蓄更为重要。然而，真正大力挑战 Kaye 之说的是 Jacob Viner（1953 [1991: 183–184]），他把曼德维尔呈现为“他那个时代流行重商主义的坚定信徒”。
+    step2: |-
+      20 世纪最初几十年，曼德维尔的观念继续在不同学术圈子里被讨论。曼德维尔曾提出，要不是“习俗篡夺在我们身上的这种暴政”，人类本不愿为食而杀动物（FB I, 173）；20 世纪初著名的芬兰社会学家 Edvard Westermarck 甚至把曼德维尔认作素食主义的倡导者（1939: 392）。不过在英语世界，曼德维尔的观念最常被援引于经济思想史的争论。Kaye（1924a: cxxxix）曾声称，“曼德维尔主张、而且明确主张今天所谓 *laissez-faire* 的理论”；这一解释很快遭到当时一些最杰出经济学家的质疑。在《就业、利息和货币通论》里，约翰·梅纳德·凯恩斯（1936 [2018: 319–322]）把曼德维尔纳入他对重商主义经济学说史的考察，强调在曼德维尔的经济增长解释中，消费而非储蓄更重要。真正大力挑战 Kaye 之说的是 Jacob Viner（1953 [1991: 183–184]）：他把曼德维尔呈现为“他那个时代流行重商主义的坚定信徒”。
   - id: 84
     kind: body
     source: |-
       In aiming to add nuance to and ultimately move beyond the mercantilism/laissez-faire debate, Nathan Rosenberg (1963) and F. A. Hayek (1966) sought to recover and foreground the evolutionary aspects of Mandeville’s account of social development. Amongst Mandeville’s more famous twentieth-century readers, no one has taken his social philosophy as seriously as Hayek. In a talk delivered to the British Academy’s “Master-Mind” lecture series, Hayek (1966: 126) played down the importance of Mandeville’s economic ideas and instead credited his work with marking “the definitive breakthrough in modern thought of the twin ideas of evolution and of the spontaneous formation of an order”. According to Hayek, Mandeville understood that people are biased and neither foresee nor understand the macro-level consequences of their individual actions. Hayek saw this propensity for self-deception as a reason not to trust any individual, no matter how enlightened, to guide society towards a centrally planned future. In line with Mandeville’s thinking, Hayek criticized constructivist rationalism and what he took to be the wrong kind of individualism rooted in excessive faith in human reason. Hayek thus followed Mandeville in emphasizing the limitations of human knowledge and, on this basis, advocated for the decentralized decision-making that takes place in the market.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为了给重商主义与自由放任之争增加细微层次并最终超越这一争论，Nathan Rosenberg（1963）和 F. A. 哈耶克（1966）力图恢复并凸显曼德维尔社会发展说明中的演化面向。在曼德维尔较为著名的 20 世纪读者中，没有人比哈耶克更认真地对待他的社会哲学。在英国科学院“大师心智”讲座系列的一次演讲中，哈耶克（1966: 126）淡化曼德维尔经济观念的重要性，转而把其著作的功绩说成标志着“演化与秩序之自发形成这对观念在现代思想中的决定性突破”。按照哈耶克的说法，曼德维尔明白人是有偏见的，既预见不到也不理解自己个体行动的宏观后果。哈耶克把这种自欺倾向视为一条理由：不应信任任何个人——无论他多么开明——来引导社会走向中央计划的未来。与曼德维尔的思路一致，哈耶克批评建构主义理性主义，以及他所谓植根于对人类理性过度信任的那种错误个人主义。哈耶克由此追随曼德维尔，强调人类知识的限度，并在此基础上主张市场中的分散决策。
+    step2: |-
+      为了让重商主义与自由放任之争更细致、并最终超越这场争论，Nathan Rosenberg（1963）和 F. A. 哈耶克（1966）力图恢复并凸显曼德维尔社会发展说明中的演化面向。在曼德维尔较著名的 20 世纪读者里，没人比哈耶克更认真地对待他的社会哲学。在英国科学院“大师心智”讲座系列的一次演讲中，哈耶克（1966: 126）淡化曼德维尔经济观念的重要性，转而把其著作的功绩说成标志着“演化与秩序之自发形成这对观念在现代思想中的决定性突破”。按哈耶克的说法，曼德维尔明白人有偏见，既预见不到也不理解自己个体行动的宏观后果。哈耶克把这种自欺倾向当成一条理由：不该信任任何个人——无论他多开明——去引导社会走向中央计划的未来。与曼德维尔的思路一致，哈耶克批评建构主义理性主义，以及他所谓植根于对人类理性过度信任的那种错误个人主义。哈耶克由此追随曼德维尔，强调人类知识的限度，并在此基础上主张市场中的分散决策。
   - id: 85
     kind: body
     source: |-
       For Hayek, spontaneous orders are well-structured social patterns that seem like they must have been designed by an omniscient mind, but which are in fact the unplanned and uncoordinated outcomes of countless individuals’ actions. Hayek regarded Mandeville’s social philosophy as exemplifying a more general theory that explains how a coherent aggregate structure can emerge accidentally from the actions of individuals, regardless of whether those actions are altruistic or egoistic. Hayek therefore saw Mandeville as an important precursor of his own ideas on the spontaneous evolution of rules and institutions within an equilibrating economic system. Mandeville might not have fully grasped the extent of his own discovery, according to Hayek, but he set a line of thought in motion that would be developed more extensively in the Scottish Enlightenment. The highest accolade that Hayek (1966: 139) could grant Mandeville was that “he made Hume possible”. More generally, Mandeville’s emphasis on individualism and economic self-interest resonated with Hayek’s belief in the role of self-interest in economic coordination. Even if Mandeville’s views were rooted in the mercantilist tradition, then, his exploration of the mechanisms through which self-interest can contribute to the public good would influence later classical liberal thinkers.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在哈耶克看来，自发秩序是结构良好的社会模式：它们看起来必定由某个全知心智设计而成，实际上却是无数个体行动未经计划、未经协调的结果。哈耶克认为，曼德维尔的社会哲学例示了一种更一般的理论，说明一个连贯的整体结构如何能从个体行动中偶然产生——无论这些行动是利他的还是利己的。因此，哈耶克把曼德维尔看作自己关于规则与制度在均衡经济体系中自发演化之观念的重要先驱。按照哈耶克的说法，曼德维尔也许并未完全把握自己发现的意义，但他启动了一条思路，而这条思路将在苏格兰启蒙运动中得到更充分的展开。哈耶克（1966: 139）能给予曼德维尔的最高赞誉是：“他使休谟成为可能。”更一般地说，曼德维尔对个人主义与经济自利的强调，与哈耶克关于自利在经济协调中作用的信念相呼应。因此，即便曼德维尔的观点植根于重商主义传统，他对自利如何有助于公共善之机制的探索，仍影响了后来的古典自由主义思想家。
+    step2: |-
+      在哈耶克看来，自发秩序是结构良好的社会模式：看上去必定由某个全知心智设计而成，实际却是无数个体行动未经计划、未经协调的结果。哈耶克认为，曼德维尔的社会哲学例示了一种更一般的理论，说明一个连贯的整体结构如何从个体行动中偶然产生——无论这些行动利他还是利己。因此，哈耶克把曼德维尔看作自己那套观念的重要先驱：规则与制度会在均衡经济体系中自发演化。按哈耶克的说法，曼德维尔也许没完全把握自己发现的意义，但他启动了一条思路，这条思路将在苏格兰启蒙运动中得到更充分的展开。哈耶克（1966: 139）能给予曼德维尔的最高赞誉是：“他使休谟成为可能。”更一般地说，曼德维尔对个人主义和经济自利的强调，与哈耶克关于自利在经济协调中作用的信念相呼应。所以，即便曼德维尔的观点植根于重商主义传统，他对自利如何有助于公共善之机制的探索，仍影响了后来的古典自由主义思想家。
   - id: 86
     kind: body
     source: |-
       The final three decades of the twentieth century witnessed a significant increase in scholarly interest in Mandeville, with several important book-length studies appearing in English, French, and Italian (Monro 1975; Primer 1975; Horne 1978; Carrive 1980, 1983; Scribano 1980; Goldsmith 1985; Jack 1987; Schneider 1987; Hundert 1994; Prior 2000)[^carrive-1980][^goldsmith-1985][^horne-1978][^hundert-1994][^jack-1987][^monro-1975][^primer-1975][^prior-2000][^schneider-1987][^scribano-1980]. As a result, Mandeville’s significance to the history of philosophy is now recognized within specialist circles, despite the fact that he is mainly remembered more widely for his infamous “private vices, public benefits” paradox. Even amongst historians of philosophy, attention has been mostly focused on *The Fable of the Bees* and there remains relatively little research dedicated to some of his lesser-known works, such as *The Virgin Unmask’d*, *A Treatise of the Hypochondriack and Hysterick Passions*, and *An Enquiry into the Origin of Honour*, which merit greater study if we are to fully appreciate the depth, range, and social implications of Mandeville’s philosophical investigations into human nature and society.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      20 世纪最后三十年，学界对曼德维尔的兴趣显著增长，英语、法语和意大利语中出现了若干重要的专著（Monro 1975；Primer 1975；Horne 1978；Carrive 1980, 1983；Scribano 1980；Goldsmith 1985；Jack 1987；Schneider 1987；Hundert 1994；Prior 2000）[^carrive-1980][^goldsmith-1985][^horne-1978][^hundert-1994][^jack-1987][^monro-1975][^primer-1975][^prior-2000][^schneider-1987][^scribano-1980]。结果是，曼德维尔对哲学史的重要性如今在专业圈内已获承认，尽管在更广的范围内，人们记住他主要是因为那句臭名昭著的“私恶公利”悖论。即便在哲学史家当中，注意力也大多集中在《蜜蜂的寓言》上，对他一些不那么出名的著作——如《揭下面纱的处女》《疑病症与歇斯底里激情论》和《探究荣誉的起源》——研究仍然相对很少；而要充分领会曼德维尔对人性和社会的哲学探究之深度、范围与社会意涵，这些著作值得更多研究。
+    step2: |-
+      20 世纪最后三十年，学界对曼德维尔的兴趣显著增长，英语、法语和意大利语中出现了若干重要专著（Monro 1975；Primer 1975；Horne 1978；Carrive 1980, 1983；Scribano 1980；Goldsmith 1985；Jack 1987；Schneider 1987；Hundert 1994；Prior 2000）[^carrive-1980][^goldsmith-1985][^horne-1978][^hundert-1994][^jack-1987][^monro-1975][^primer-1975][^prior-2000][^schneider-1987][^scribano-1980]。结果，曼德维尔对哲学史的重要性如今在专业圈内已获承认，尽管在更广范围内，人们记住他主要是因为那句臭名昭著的“私恶公利”悖论。即便在哲学史家当中，注意力也大多集中在《蜜蜂的寓言》上；对他一些不那么出名的著作——如《揭下面纱的处女》《疑病症与歇斯底里激情论》和《探究荣誉的起源》——研究仍然相对很少。要充分领会曼德维尔对人性和社会的哲学探究有多深、多广、有何社会意涵，这些著作值得更多研究。
   - id: 87
     kind: oir
     source: |-
       - BBC Radio 4’s episode of [In Our Time: On The Fable of the Bees (42 minutes)](https://www.bbc.co.uk/programmes/m0000t3y).
       - [News blog on Mandeville](https://www.bernard-mandeville.nl/recent-news-on-mandeville) by Arne Jansen.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - BBC 广播四台《我们这个时代》（*In Our Time*）节目：[论《蜜蜂的寓言》（42 分钟）](https://www.bbc.co.uk/programmes/m0000t3y)。
+      - Arne Jansen 的[曼德维尔新闻博客](https://www.bernard-mandeville.nl/recent-news-on-mandeville)。
+    step2: |-
+      - BBC 广播四台《我们这个时代》（*In Our Time*）节目：[论《蜜蜂的寓言》（42 分钟）](https://www.bbc.co.uk/programmes/m0000t3y)。
+      - Arne Jansen 的[曼德维尔新闻博客](https://www.bernard-mandeville.nl/recent-news-on-mandeville)。
   - id: 88
     kind: ack
     source: |-
       We would like to thank Andrea Branchi and John Callanan for helpful feedback on a draft of this entry.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们感谢 Andrea Branchi 与 John Callanan 对本词条初稿提出的有益意见。
+    step2: |-
+      我们感谢 Andrea Branchi 与 John Callanan 对本词条初稿提出的有益意见。
