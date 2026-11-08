@@ -1,0 +1,445 @@
+version: 1
+slug: qt-entangle
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Quantum entanglement is a physical resource, like energy, associated with the peculiar nonclassical correlations that are possible between separated quantum systems. Entanglement can be measured, transformed, and purified. A pair of quantum systems in an entangled state can be used as a quantum information channel to perform computational and cryptographic tasks that are impossible for classical systems. The general study of the information-processing capabilities of quantum systems is the subject of quantum information theory.
+    step1: |-
+      量子纠缠是一种物理资源，像能量一样，它同分离的量子系统之间可能出现的奇特非经典关联相联系。纠缠可以被测量、变换和纯化。一对处于纠缠态的量子系统可以用作量子信息信道，执行经典系统不可能完成的计算与密码学任务。对量子系统信息处理能力的普遍研究，是量子信息论的主题。
+    step2: |-
+      量子纠缠是一种物理资源，与能量相似，它对应着分离的量子系统之间可能出现的那种奇特非经典关联。纠缠可以被测量、变换、纯化。一对处于纠缠态的量子系统，可以用作量子信息信道，去完成经典系统无法完成的计算任务与密码学任务。量子信息论所研究的，正是量子系统信息处理能力的一般问题。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Quantum Entanglement
+    step1: |-
+      ## 1. 量子纠缠
+    step2: |-
+      ## 1 量子纠缠
+  - id: 3
+    kind: body
+    source: |-
+      In 1935 and 1936, Schrödinger published a two-part article in the *Proceedings of the Cambridge Philosophical Society* in which he discussed and extended an argument by Einstein, Podolsky, and Rosen. The Einstein-Podolsky-Rosen (EPR) argument was, in many ways, the culmination of Einstein’s critique of the orthodox Copenhagen interpretation of quantum mechanics and was designed to show that the theory is incomplete. (See the entries on the Einstein-Podolsky-Rosen argument in quantum theory and the Copenhagen interpretation of quantum mechanics.) In classical mechanics the state of a system is essentially a list of the system’s properties — more precisely, it is the specification of a set of parameters from which the list of properties can be reconstructed: the positions and momenta of all the particles comprising the system (or similar parameters in the case of fields). The dynamics of the theory specifies how properties change in terms of a law of evolution for the state. In a letter to Max Born, Wolfgang Pauli characterized this mode of description of physical systems as a ‘detached observer’ idealization (see *The Born-Einstein Letters*, Born, 1992; p. 218). On the Copenhagen interpretation, such a description is not possible for quantum systems. Instead, the quantum state of a system should be understood as a catalogue of what an observer has done to the system and what has been observed, and the import of the state then lies in the probabilities that can be inferred (in terms of the theory) for the outcomes of possible future observations on the system. Einstein rejected this view and proposed a series of arguments to show that the quantum state is simply an incomplete characterization of a quantum system. The missing parameters are sometimes referred to as ‘hidden parameters’ or ‘hidden variables.’
+    step1: |-
+      1935 年与 1936 年，薛定谔在 *Proceedings of the Cambridge Philosophical Society* 上发表了一篇分两部分的文章，讨论并扩展了爱因斯坦、波多尔斯基与罗森提出的一个论证。爱因斯坦-波多尔斯基-罗森（EPR）论证在许多方面是爱因斯坦批判量子力学正统哥本哈根诠释的顶点，其目的在于表明该理论是不完备的。（参见关于量子理论中爱因斯坦-波多尔斯基-罗森论证的词条，以及关于量子力学哥本哈根诠释的词条。）在经典力学中，系统的状态本质上是一份系统属性的清单——更确切地说，它是对一组参数的指定，从这组参数可以重构出属性清单：组成系统的所有粒子的位置与动量（若为场，则是类似参数）。理论的动力学以状态演化律的形式规定属性如何变化。在致马克斯·玻恩的一封信中，沃尔夫冈·泡利把这种描述物理系统的方式刻画为一种“超然观察者”的理想化（见 *The Born-Einstein Letters*，Born，1992；第 218 页）。按照哥本哈根诠释，对量子系统不可能作这样的描述。相反，系统的量子态应当被理解为一份目录，记录着观察者对系统做了什么、观察到了什么；状态的意义则在于：可以（依据该理论）推断出对该系统未来可能观测之结果的概率。爱因斯坦拒斥这种观点，并提出了一系列论证，以表明量子态只不过是对量子系统的不完备刻画。那些缺失的参数，有时被称为“隐参数”或“隐变量”。
+    step2: |-
+      1935 与 1936 年，薛定谔在 *Proceedings of the Cambridge Philosophical Society* 上发表了一篇两部分的文章，讨论并扩展了爱因斯坦、波多尔斯基与罗森的一个论证。爱因斯坦-波多尔斯基-罗森（EPR）论证在许多方面堪称爱因斯坦批判量子力学正统哥本哈根诠释的顶点，意在表明这一理论并不完备。（关于量子理论中的 EPR 论证与量子力学的哥本哈根诠释，见相应词条。）经典力学中，系统的状态本质上就是一份属性清单——更确切地说，是给定一组参数，由这些参数可以重构出属性清单：组成系统的所有粒子的位置与动量（若是场，则为类似参数）。理论的动力学通过状态的演化律来规定属性如何变化。在给马克斯·玻恩的一封信里，沃尔夫冈·泡利把这种描述物理系统的方式称作“超然观察者”式的理想化（见 *The Born-Einstein Letters*，Born，1992；第 218 页）。按哥本哈根诠释，对量子系统作这样的描述是不可能的。量子态毋宁应被理解为一份目录，记下观察者对系统做了什么、又观察到了什么；状态的意义则在于：依据该理论，可以推断出对该系统未来可能观测之结果的概率。爱因斯坦不接受这一观点，提出了一系列论证，表明量子态只是对量子系统的不完备刻画。那些缺失的参数，有时被叫作“隐参数”或“隐变量”。
+  - id: 4
+    kind: body
+    source: |-
+      It should not be supposed that Einstein’s notion of a complete theory included the requirement that the theory should be deterministic. Rather, he required certain conditions of separability and locality for composite systems consisting of separated component systems: each component system separately should be characterized by its own properties (its own ‘being-thus,’ as Einstein put it — ‘So-sein’ in German), and it should be impossible to alter the properties of a distant system instantaneously (or the probabilities of these properties) by acting on a local system. In later analyses, notably in Bell’s argument for the nonlocality of quantum correlations, it became apparent that these conditions, suitably formulated as probability constraints, are equivalent to the requirement that statistical correlations between separated systems should be reducible to probability distributions over common causes (deterministic or stochastic) in the sense of Reichenbach. (See the entries on Bell’s theorem and Reichenbach’s common cause principle.)
+    step1: |-
+      不应当以为，爱因斯坦的完备理论概念包含“理论应当是决定论的”这一要求。他要求的是：对于由相互分离的组分系统构成的复合系统，须满足某些可分离性与定域性条件：每个组分系统应当各自由其自身属性来刻画（用爱因斯坦的话说，是它自己的“如此存在”，德语作 “So-sein”），并且不可能通过作用于某个定域系统而瞬时改变远处系统的属性（或这些属性的概率）。在后来的分析中，尤其是在贝尔关于量子关联之非定域性的论证中，事情变得清楚：这些条件若被恰当地表述为概率约束，就等价于这样的要求——分离系统之间的统计关联，应当可以归约为赖欣巴哈意义上的共因（决定论的或随机论的）之上的概率分布。（参见关于贝尔定理与赖欣巴哈共因原理的词条。）
+    step2: |-
+      不要以为，爱因斯坦的“完备理论”概念里含有“理论必须是决定论的”这一要求。他要求的其实是：由相互分离的组分系统构成的复合系统，须满足某些可分离性与定域性条件——每个组分系统都各自由其自身属性来刻画（按爱因斯坦的说法，即它自己的“如此存在”，德语作 “So-sein”）；并且，人们不可能通过作用于某个定域系统，瞬时改变远处系统的属性（或这些属性的概率）。后来的分析——尤其是贝尔对量子关联之非定域性的论证——表明：只要把这些条件恰当地表述为概率约束，它们就等价于这样一个要求：分离系统之间的统计关联，应当可以归约为赖欣巴哈意义上的共因（决定论的或随机论的）之上的概率分布。（关于贝尔定理与赖欣巴哈的共因原理，见相应词条。）
+  - id: 5
+    kind: body
+    source: |-
+      In the original EPR article, two particles are prepared from a source in a certain ‘pure’ quantum state of the composite system (a state that cannot be expressed as a mixture or probability distribution of other pure quantum states, and cannot be reduced to a pure quantum state of each particle separately). After the particles move apart, there are ‘matching’ correlations between both the positions of the two particles and their momenta: a measurement of either position or momentum on a particular particle will allow the prediction, with certainty, of the outcome of a position measurement or momentum measurement, respectively, on the other particle. These measurements are mutually exclusive: either a position measurement can be performed, or a momentum measurement, but not both simultaneously. The subsequent measurement of momentum, say, after establishing a position correlation, will no longer yield any correlation in the momenta of the two particles. It is as if the position measurement disturbs the correlation between the momentum values, and conversely. Apart from this peculiarity that either correlation can be observed, but not both for the same pair of quantum particles, the position and momentum correlations for the quantum particles are exactly like the classical correlations between two billiard balls after a collision. Classical correlations can be explained by a common cause, or correlated ‘elements of reality.’ The EPR argument is that quantum mechanics is incomplete because these common causes or elements of reality are not included in the quantum state description.
+    step1: |-
+      在最初的 EPR 文章中，两个粒子由某个源制备出来，处于复合系统的某个“纯”量子态（这种态不能表示为其他纯量子态的混合或概率分布，也不能归约为每个粒子各自的纯量子态）。在两粒子分开之后，它们的位置之间、动量之间都存在“匹配的”关联：对某个特定粒子作位置测量或动量测量，分别可以确定无疑地预测对另一个粒子作位置测量或动量测量的结果。这两类测量互斥：要么能作位置测量，要么能作动量测量，但不能同时作。比如，在确立位置关联之后再去测量动量，两粒子的动量之间就不再有任何关联。倒像是位置测量扰乱了动量值之间的关联，反之亦然。除了这一奇特性——对同一对量子粒子，两种关联中只能观察到一种，不能同时观察两种——量子粒子的位置关联与动量关联，与碰撞后两个台球之间的经典关联完全一样。经典关联可以用共因来解释，也可以用相互关联的“实在要素”来解释。EPR 论证的结论是：量子力学不完备，因为这些共因或实在要素并未包含在量子态描述之中。
+    step2: |-
+      在最初的 EPR 文章里，两个粒子从某个源处被制备出来，处于复合系统的一个“纯”量子态（该态既不能表示成其他纯量子态的混合或概率分布，也不能归约为两个粒子各自的纯量子态）。两粒子分开之后，它们的位置之间与动量之间都存在着“匹配的”关联：对某个粒子作位置测量或动量测量，就能分别确定无疑地预测对另一个粒子作位置测量或动量测量的结果。这两类测量互不相容：要么作位置测量，要么作动量测量，不能同时作。比如在确立了位置关联之后再测动量，两粒子的动量之间就不再有任何关联。倒像是位置测量扰乱了动量值之间的关联，反过来也一样。量子粒子的这种位置关联与动量关联，除了一个奇特之处——同一对量子粒子只能观察到其中一种关联，不能两者兼得——与碰撞之后两个台球之间的经典关联一模一样。经典关联可以用共因来解释，也可以用彼此关联的“实在要素”来解释。EPR 论证由此断定：量子力学不完备，因为这些共因或实在要素没有写进量子态的描述里。
+  - id: 6
+    kind: body
+    source: |-
+      Here is how Schrödinger put the puzzle in the first part of his two-part article (Schrödinger, 1935; p. 559):
+    step1: |-
+      薛定谔在他那篇分两部分文章的第一部分中是这样提出这个难题的（Schrödinger, 1935; p. 559）：
+    step2: |-
+      薛定谔在他那篇两部分文章的第一部分里，把这个难题摆了出来（Schrödinger, 1935; p. 559）：
+  - id: 7
+    kind: body
+    source: |-
+      > Yet since I can predict *either* $x_1$ or $p_1$ without interfering with the system No. 1 and since system No. 1, like a scholar in an examination, cannot possibly know which of the two questions I am going to ask first: it so seems that our scholar is prepared to give the right answer to the *first* question he is asked, *anyhow*. Therefore he must know both answers; which is an amazing knowledge; quite irrespective of the fact that after having given his first answer our scholar is invariably so disconcerted or tired out, that all the following answers are ‘wrong.’
+    step1: |-
+      > 然而，既然我能够在不干扰 1 号系统的条件下预测 $x_1$ 或 $p_1$ 中的*要么*一个，又既然 1 号系统就像考场里的学生，不可能知道我要先问这两个问题中的哪一个：那么看来，这位学生无论如何都准备好对他被问到的*第一个*问题给出正确答案。因此他必定两个答案都知道；这是一种惊人的知识；全然不顾这样一个事实：给出第一个答案之后，这位学生总是心慌意乱或疲惫不堪，以致后面所有答案都是“错的”。
+    step2: |-
+      > 不过，既然我可以不对 1 号系统作任何干扰就预测出*要么* $x_1$、要么 $p_1$，又既然 1 号系统就像考场里的学生，不可能知道我要先问这两个问题中的哪一个：如此看来，这位学生*无论如何*都准备着对他被问到的*第一个*问题给出正确答案。那么他必定两个答案都知道；这是一种惊人的知识；全然不顾这样一个事实：给出第一个答案之后，这位学生总是心慌意乱或疲惫不堪，以致后面的答案全是“错的”。
+  - id: 8
+    kind: body
+    source: |-
+      What Schrödinger showed was that if two particles are prepared in an EPR quantum state, where there are matching correlations for two ‘canonically conjugate’ dynamical quantities (quantities like position and momentum whose values suffice to specify all the properties of a classical system), then there are infinitely many dynamical quantities of the two particles for which there exist similar matching correlations: every function of the canonically conjugate pair of the first particle matches with the same function of the canonically conjugate pair of the second particle. So (Schrödinger, p. 559) system No. 1 ‘does not only know these two answers but a vast number of others, and that with no mnemotechnical help whatsoever, at least with none that we know of.’
+    step1: |-
+      薛定谔所表明的是：如果两个粒子被制备在某个 EPR 量子态中，其中两个“正则共轭”动力学量（像位置与动量这样、其值足以确定经典系统全部属性的量）存在匹配的关联，那么这两个粒子就有无穷多个动力学量存在类似的匹配关联：第一个粒子的正则共轭对上的每一个函数，都与第二个粒子的正则共轭对上的同一个函数相匹配。所以（Schrödinger, p. 559）1 号系统“不仅知道这两个答案，还知道大量其他答案，而且不借助任何记忆术的帮助，至少不借助我们所知的任何帮助。”
+    step2: |-
+      薛定谔表明的是这样一点：若把两个粒子制备在某个 EPR 量子态中，使两个“正则共轭”动力学量（即位置、动量这类取值足以确定经典系统全部属性的量）之间存在匹配的关联，那么这两个粒子上就有无穷多个动力学量存在同样的匹配关联——第一个粒子的正则共轭对上的任一函数，都与第二个粒子正则共轭对上的同一函数相匹配。因此（Schrödinger, p. 559）1 号系统“不仅知道这两个答案，还知道大量别的答案，而且全不借助任何记忆术，至少不借助我们所知的任何一种。”
+  - id: 9
+    kind: body
+    source: |-
+      Schrödinger coined the term ‘entanglement’ to describe this peculiar connection between quantum systems (Schrödinger, 1935; p. 555):
+    step1: |-
+      薛定谔创造了“纠缠”一词，用来描述量子系统之间的这种奇特联系（Schrödinger, 1935; p. 555）：
+    step2: |-
+      为描述量子系统之间的这种奇特联系，薛定谔造了“纠缠”一词（Schrödinger, 1935; p. 555）：
+  - id: 10
+    kind: body
+    source: |-
+      > When two systems, of which we know the states by their respective representatives, enter into temporary physical interaction due to known forces between them, and when after a time of mutual influence the systems separate again, then they can no longer be described in the same way as before, viz. by endowing each of them with a representative of its own. I would not call that *one* but rather *the* characteristic trait of quantum mechanics, the one that enforces its entire departure from classical lines of thought. By the interaction the two representatives [the quantum states] have become entangled.
+    step1: |-
+      > 当两个系统——我们通过它们各自的代表来认识其状态——由于它们之间已知的力而进入暂时的物理相互作用，并且在相互影响一段时间之后这两个系统又重新分开时，它们就不能再像以前那样被描述了，即不能再通过赋予它们各自一个自己的代表来描述。我不会把这一点称为量子力学的*某一个*特征，而宁可称之为量子力学的*那个*特征，正是它迫使量子力学完全脱离经典的思想路线。通过这种相互作用，两个代表［即量子态］已经纠缠在一起了。
+    step2: |-
+      > 两个系统，我们通过各自的代表来了解其状态；当它们由于彼此之间已知的力而发生暂时的物理相互作用，经过一段相互影响的时间又重新分开之后，就不能再按原先的方式描述了——不能再给每个系统各自安上一个代表。这一点，我不会称作量子力学的*一个*特征，而要说它是量子力学的*那个*特征：正是它逼着量子力学彻底离开经典的思想轨道。经过这番相互作用，两个代表［即量子态］已经纠缠在一起了。
+  - id: 11
+    kind: body
+    source: |-
+      He added (Schrödinger, 1935; p. 555):
+    step1: |-
+      他补充道（Schrödinger, 1935; p. 555）：
+    step2: |-
+      他又补充说（Schrödinger, 1935; p. 555）：
+  - id: 12
+    kind: body
+    source: |-
+      > Another way of expressing the peculiar situation is: the best possible knowledge of a *whole* does not necessarily include the best possible knowledge of all its *parts,* even though they may be entirely separate and therefore virtually capable of being ‘best possibly known,’ i.e., of possessing, each of them, a representative of its own. The lack of knowledge is by no means due to the interaction being insufficiently known — at least not in the way that it could possibly be known more completely — it is due to the interaction itself.
+      >
+      > Attention has recently been called to the obvious but very disconcerting fact that even though we restrict the disentangling measurements to *one* system, the representative obtained for the *other* system is by no means independent of the particular choice of observations which we select for that purpose and which by the way are *entirely* arbitrary. It is rather discomforting that the theory should allow a system to be steered or piloted into one or the other type of state at the experimenter’s mercy in spite of his having no access to it.
+    step1: |-
+      > 表达这种奇特处境的另一种方式是：对一个*整体*的最佳可能认识，并不必然包含对其所有*部分*的最佳可能认识，尽管这些部分可能是完全分离的，因而实际上能够被“最佳可能地认识”，也就是说，每一个部分都能拥有一个自己的代表。知识的缺乏绝不是由于相互作用未被充分认识——至少不是以可能被更完备地认识的那种方式——而是由于相互作用本身。
+      >
+      > 近来人们注意到一个明显却非常令人不安的事实：即便我们把解纠缠的测量只限于*一个*系统，为*另一个*系统所得到的代表，也绝不独立于我们为此目的所选择的特定观测，而这些观测顺便说是*完全*任意的。理论竟然容许一个系统任凭实验者摆布地被操控或被引导成这种或那种类型的状态，而实验者根本无法接触到它，这颇令人不安。
+    step2: |-
+      > 这种奇特处境还可以换一种说法：对*整体*的最佳可能认识，未必包含对其所有*部分*的最佳可能认识，哪怕这些部分彼此完全分离、因而实际上能够“被最佳可能地认识”，也就是说，每个部分都能拥有一个自己的代表。这里知识之所以缺乏，绝不是因为相互作用未被充分认识——至少不是那种有可能被认识得更完备的情形——而是因为相互作用本身。
+      >
+      > 近来人们注意到一个明显却非常令人不安的事实：即便我们把解纠缠的测量局限于*一个*系统，为*另一个*系统得到的代表，也绝不独立于我们为此目的而选择的特定观测——而这些观测，顺带说，是*完全*任意的。理论竟容许一个系统任凭实验者摆布地被操控、被引导成这一类或那一类状态，而实验者根本无法接触到它，这实在令人不安。
+  - id: 13
+    kind: body
+    source: |-
+      In the second part of the paper, Schrödinger showed that an experimenter, by a suitable choice of operations carried out on one member of an entangled pair, possibly using additional ‘ancilla’ or helper particles, can ‘steer’ the second system into a chosen mixture of quantum states, with a probability distribution that depends on the entangled state. The second system cannot be steered into a *particular* quantum state at the whim of the experimenter, but for many copies of the entangled pair, the experimenter can constrain the quantum state of the second system to lie in a chosen set of quantum states, where these states are correlated with the possible outcomes of measurements carried out on the entangled paired systems, or the paired systems plus ancillas. He found this conclusion sufficiently unsettling to suggest that the entanglement between two separating systems would persist only for distances small enough that the time taken by light to travel from one system to the other could be neglected, compared with the characteristic time periods associated with other changes in the composite system. He speculated that for longer distances the two systems might in fact be in a correlated mixture of quantum states determined by the entangled state.
+    step1: |-
+      在文章的第二部分，薛定谔表明：实验者通过对纠缠对中的一个成员实施适当选择的操作，并可能使用额外的“辅助”粒子或帮手粒子，可以把第二个系统“操控”进某个选定的量子态混合，其概率分布依赖于该纠缠态。第二个系统不能被实验者随意操控进某个*特定的*量子态，但对于纠缠对的许多个副本，实验者可以约束第二个系统的量子态，使它落在某个选定的量子态集合之内，而这些态与对纠缠配对系统、或配对系统加辅助系统所作测量的可能结果相关联。他觉得这个结论足够令人不安，因而提出：两个正在分离的系统之间的纠缠，只在距离小到——光从一个系统传到另一个系统所需的时间，与复合系统中其他变化相关的特征时间段相比可以忽略——的时候才持续存在。他猜测，对于更长的距离，两个系统事实上可能处于由该纠缠态所决定的、相互关联的量子态混合之中。
+    step2: |-
+      在文章第二部分，薛定谔表明：实验者只要对纠缠对中的一个成员实施适当选择的操作，还可能动用额外的“辅助”粒子或帮手粒子，就能把第二个系统“操控”进某个选定的量子态混合，其概率分布取决于该纠缠态。第二个系统不会被实验者随心所欲地操控进某个*特定的*量子态；不过，对于纠缠对的许多个副本，实验者可以约束第二个系统的量子态，使它落在某个选定的量子态集合里，而这些态与对纠缠着的配对系统（或配对系统加辅助系统）所作测量的可能结果相关联。这个结论让他颇感不安，于是他提出：两个分离中的系统之间的纠缠，只在距离足够小的时候才持续存在——小到光从一个系统走到另一个系统所需的时间，与复合系统中其他变化所对应的特征时间相比可以忽略不计。他猜测，距离更长时，这两个系统实际上可能处于由该纠缠态所决定的一种相互关联的量子态混合之中。
+  - id: 14
+    kind: body
+    source: |-
+      Most physicists attributed the puzzling features of entangled quantum states to Einstein’s inappropriate ‘detached observer’ view of physical theory and regarded Bohr’s reply to the EPR argument (Bohr, 1935) as vindicating the Copenhagen interpretation. This was unfortunate, because the study of entanglement was ignored for thirty years until John Bell’s reconsideration of the EPR argument (Bell, 1964). Bell looked at entanglement in simpler systems than the EPR example: matching correlations between two-valued dynamical quantities, such as polarization in a particular direction or spin in a particular direction, of two separated systems in an entangled state. What Bell showed was that the statistical correlations between the measurement outcomes of suitably chosen *different* quantities on the two systems are inconsistent with an inequality derivable from Einstein’s separability and locality assumptions — in effect from the assumption that the correlations have a common cause. This inequality is now known as Bell’s inequality, and various related inequalities can be derived as a necessary condition for classical or common cause correlations.
+    step1: |-
+      大多数物理学家把纠缠量子态那些令人困惑的特征，归因于爱因斯坦对物理理论不恰当的“超然观察者”观点，并把玻尔对 EPR 论证的回应（Bohr, 1935）视为捍卫了哥本哈根诠释。这很不幸，因为纠缠的研究被忽视了三十年，直到约翰·贝尔重新审视 EPR 论证（Bell, 1964）。贝尔考察的是比 EPR 例子更简单的系统中的纠缠：处于纠缠态的两个分离系统之间，二值动力学量——比如沿某个特定方向的偏振，或沿某个特定方向的自旋——之间的匹配关联。贝尔表明：对两个系统上适当选择的*不同*量作测量，其测量结果之间的统计关联，与一条可由爱因斯坦的可分离性和定域性假定推出的不等式相冲突——实际上就是与“这些关联有共同原因”这一假定推出的不等式相冲突。这条不等式现在被称为贝尔不等式，而各种相关的不等式都可以作为经典关联或共因关联的必要条件推导出来。
+    step2: |-
+      纠缠量子态那些令人费解的特征，多数物理学家都归咎于爱因斯坦对物理理论所持的“超然观察者”观点不合时宜，并把玻尔对 EPR 论证的回应（Bohr, 1935）看作是对哥本哈根诠释的维护。这实在不幸：此后三十年，纠缠的研究无人问津，直到约翰·贝尔重新审视 EPR 论证（Bell, 1964）。贝尔考察的纠缠，系统比 EPR 的例子简单：处于纠缠态的两个分离系统之间，二值动力学量——例如沿某一特定方向的偏振或自旋——的匹配关联。贝尔表明：在两个系统上适当选择*不同*的量并作测量，所得结果之间的统计关联，与一条不等式无法调和；这条不等式可由爱因斯坦的可分离性与定域性假定推出——实际上是由“这些关联有共同原因”这一假定推出。这条不等式今天称作贝尔不等式；作为经典关联或共因关联的必要条件，还可以推出若干相关的不等式。
+  - id: 15
+    kind: body
+    source: |-
+      Bell’s investigation generated an ongoing debate on the foundations of quantum mechanics. One important feature of this debate was confirmation that entanglement can persist over long distances, thus falsifying Schrödinger’s supposition of the spontaneous decay of entanglement as two entangled particles separate. (Free space entanglement of photons has been demonstrated over a distance of 143 km and, using satellites to distribute entanglement, between locations more than 1200 km apart on earth. See Herbst *et al* 2014 and Yin *et al* 2017.)[^yin-2017] But it was not until the 1980s that physicists, computer scientists, and cryptologists began to regard the non-local correlations of entangled quantum states as a new kind of non-classical physical resource that could be exploited, rather than an embarrassment for quantum mechanics to be explained away. For a discussion of entanglement — what it is, why it is conceptually puzzling, and what you can do with it, including a simple proof of Bell’s theorem — see the graphic novel *Totally Random: Why Nobody Understands Quantum Mechanics (A Serious Comic on Entanglement)*, Bub and Bub 2018. For further discussion of entanglement as a physical resource, including measuring entanglement, and the manipulation and purification of entanglement by local operations, see “The Joy of Entanglement” by Popescu and Rohrlich in Lo, Popescu, and Spiller 1998, Bub 2016, and the classic Nielsen and Chuang 2011. Alain Aspect, John F. Clauser, and Anton Zeilinger were awared the 2022 Nobel Prize in physics for their pioneering experiments on entangled photons, validating Bell’s insight and initiating the field of quantum information.
+    step1: |-
+      贝尔的探究引发了一场关于量子力学基础的持续争论。这场争论的一个重要特征，是确认了纠缠能够在远距离上持续存在，从而否证了薛定谔的猜想：随着两个纠缠粒子分离，纠缠会自发衰变。（光子的自由空间纠缠已在 143 公里的距离上得到演示；利用卫星分发纠缠，已在地球上相距 1200 多公里的地点之间实现。见 Herbst *et al* 2014 与 Yin *et al* 2017。）[^yin-2017] 但直到 1980 年代，物理学家、计算机科学家和密码学家才开始把纠缠量子态的非定域关联看作一种可加利用的新非经典物理资源，而不是量子力学一处需要被解释掉的窘迫。关于纠缠的讨论——它是什么、为什么在概念上令人困惑、以及你能拿它做什么，包括贝尔定理的一个简单证明——见图像小说 *Totally Random: Why Nobody Understands Quantum Mechanics (A Serious Comic on Entanglement)*，Bub and Bub 2018。关于纠缠作为物理资源的进一步讨论，包括纠缠的测量、以及通过局部操作对纠缠的操控与纯化，见 Popescu 与 Rohrlich 的“The Joy of Entanglement”一文，收于 Lo, Popescu, and Spiller 1998、Bub 2016，以及经典的 Nielsen and Chuang 2011。阿兰·阿斯佩、约翰·F. 克劳泽与安东·蔡林格因其在纠缠光子上的开创性实验获得 2022 年诺贝尔物理学奖，这些实验验证了贝尔的洞见，并开创了量子信息领域。
+    step2: |-
+      贝尔的探究引发了一场围绕量子力学基础的持久争论。这场争论的一个重要收获，是确认纠缠能在远距离上维持，这就推翻了薛定谔的猜想——两个纠缠粒子一经分离，纠缠便会自发衰变。（光子的自由空间纠缠已在 143 公里距离上演示成功；借助卫星分发纠缠，也已在地球上相距 1200 多公里的两地之间实现。见 Herbst *et al* 2014 与 Yin *et al* 2017。）[^yin-2017] 不过，直到 1980 年代，物理学家、计算机科学家与密码学家才开始把纠缠量子态的非定域关联视为一种可以利用的新型非经典物理资源，而不再把它当作量子力学需要解释掉的尴尬。纠缠究竟是什么、为何在概念上令人困惑、又能拿它来做什么，包括贝尔定理的一个简单证明，可参看图像小说 *Totally Random: Why Nobody Understands Quantum Mechanics (A Serious Comic on Entanglement)*（Bub and Bub 2018）。至于把纠缠当作物理资源的进一步讨论——如何测量纠缠，如何通过局部操作操控与纯化纠缠——可参看 Popescu 与 Rohrlich 的“The Joy of Entanglement”，收于 Lo, Popescu, and Spiller 1998，以及 Bub 2016 和经典教材 Nielsen and Chuang 2011。阿兰·阿斯佩、约翰·F. 克劳泽与安东·蔡林格因在纠缠光子上的开创性实验而获得 2022 年诺贝尔物理学奖：这些实验验证了贝尔的洞见，并开启了量子信息这一领域。
+  - id: 16
+    kind: body
+    source: |-
+      ## 2. Exploiting Entanglement: Quantum Teleportation
+    step1: |-
+      ## 2. 利用纠缠：量子隐形传态
+    step2: |-
+      ## 2 利用纠缠：量子隐形传态
+  - id: 17
+    kind: body
+    source: |-
+      Consider again Schrödinger’s realization that an entangled state could be used to steer a distant particle into one of a set of states, with a certain probability. In fact, this possibility of ‘remote steering’ is even more dramatic than Schrödinger demonstrated. Suppose Alice and Bob share an entangled pure state of the sort considered by Bell, say two photons in an entangled state of polarization, where Alice has in her possession one of the entangled photons, and Bob has the second paired photon. Suppose that Alice receives an additional photon in an unknown state of polarization $\ket{u}$, where the notation ‘$\ket{\ }$’ denotes a quantum state. It is possible for Alice to perform an operation on the two photons in her possession that will transform Bob’s photon into one of four states, depending on the four possible (random) outcomes of Alice’s operation: either the state $\ket{u}$, or a state that is related to $\ket{u}$ in a definite way. Alice’s operation entangles the two photons in her possession, and disentangles Bob’s photon, steering it into a state $\ket{u^*}$. After Alice communicates the outcome of her operation to Bob, Bob knows either that $\ket{u^*}$ = $\ket{u}$, or how to transform $\ket{u^*}$ to $\ket{u}$ by a local operation. This phenomenon is known as ‘quantum teleportation.’ After the teleportation procedure the state $\ket{u}$ remains unknown to both Alice and Bob.
+    step1: |-
+      再想想薛定谔的那个洞见：纠缠态可以用来以某个概率把远处的粒子操控进一组状态中的某一个。事实上，这种“远程操控”的可能性比薛定谔所演示的还要引人注目。假设爱丽丝与鲍勃共享一个贝尔所考虑的那种纠缠纯态，比如说两个光子处于偏振的纠缠态，爱丽丝持有其中一个纠缠光子，鲍勃持有第二个成对的光子。假设爱丽丝收到一个额外的光子，处于未知的偏振态 $\ket{u}$，其中记号“$\ket{\ }$”表示一个量子态。爱丽丝有可能对她手中的两个光子实施某种操作，把鲍勃的光子转变成四个态中的一个，这取决于爱丽丝操作的四种可能（随机）结果：要么是态 $\ket{u}$，要么是某个以确定方式与 $\ket{u}$ 相关的态。爱丽丝的操作使她手中的两个光子纠缠，同时使鲍勃的光子解纠缠，把它操控进态 $\ket{u^*}$。在爱丽丝把她操作的结果告知鲍勃之后，鲍勃便知道要么 $\ket{u^*}$ = $\ket{u}$，要么知道如何通过局部操作把 $\ket{u^*}$ 变换为 $\ket{u}$。这种现象被称为“量子隐形传态”。在隐形传态程序之后，态 $\ket{u}$ 对爱丽丝和鲍勃来说仍然是未知的。
+    step2: |-
+      再回头看看薛定谔的那个洞见：纠缠态可以用以某个概率把远处的粒子操控进一组状态中的某一个。其实，这种“远程操控”的可能性比薛定谔演示的还要惊人。设爱丽丝与鲍勃共享一个贝尔所考虑的那种纠缠纯态，例如两个光子处于偏振的纠缠态，爱丽丝手中持有其中一个纠缠光子，鲍勃持有与之成对的第二个光子。再设爱丽丝收到一个额外的光子，它处于未知的偏振态 $\ket{u}$，其中记号“$\ket{\ }$”表示一个量子态。爱丽丝可以对自己手中的两个光子实施某种操作，把鲍勃的光子变成四个态之一，究竟是哪一个，取决于她这次操作的四种可能（随机）结果：或者是态 $\ket{u}$，或者是某个与 $\ket{u}$ 有确定关系的态。爱丽丝的操作使她手中两个光子纠缠起来，同时使鲍勃的光子解纠缠，把它操控进态 $\ket{u^*}$。爱丽丝把操作结果告知鲍勃之后，鲍勃便知道要么 $\ket{u^*}$ = $\ket{u}$，要么知道如何借助局部操作把 $\ket{u^*}$ 变换成 $\ket{u}$。这种现象叫作“量子隐形传态”。经过隐形传态程序，态 $\ket{u}$ 对爱丽丝与鲍勃仍然是未知的。
+  - id: 18
+    kind: body
+    source: |-
+      What is extraordinary about this phenomenon is that Alice and Bob have managed to use their shared entangled state as a quantum communication channel to destroy the state $\ket{u}$ of a photon in Alice’s part of the universe and recreate it in Bob’s part of the universe. Since the linear polarization state of a photon requires specifying a direction in space (the value of an angle that can vary continuously), without a shared entangled state Alice would have to convey an infinite amount of classical information to Bob for Bob to be able to reconstruct the state $\ket{u}$ precisely. The amount of classical information associated with a binary alternative, represented as 0 or 1, where each alternative has equal probability, is one binary digit or ‘bit.’ To specify an arbitrary angle as a decimal requires an infinite sequence of digits between 0 and 9, or an infinite sequence of 0s and 1s in binary notation. The outcome of Alice’s operation, which has four possible outcomes with equal probability of 1/4, can be specified by two bits of classical information. Remarkably, Bob can reconstruct the state $\ket{u}$ on the basis of just two bits of classical information communicated by Alice, apparently by exploiting the entangled state as a quantum communication channel to transfer the remaining information. The idea was first proposed by Bennett *et al* in 1993. For further discussion of quantum teleportation, see Nielsen and Chuang 2011, or Richard Josza’s article “Quantum Information and its Properties” in Lo, Popescu, and Spiller 1998. Quantum teleportation has been achieved over a distance of around 100 km on earth, and 1400 km between earth and a satellite (Zeilinger, 2018). The development of a quantum internet using satellites to transmit entangled photons will rely on quantum teleportation.
+    step1: |-
+      这个现象非同寻常之处在于：爱丽丝与鲍勃设法把他们共享的纠缠态用作量子通信信道，在宇宙中爱丽丝所在的部分摧毁一个光子的态 $\ket{u}$，并在宇宙中鲍勃所在的部分把它重新创造出来。由于光子的线偏振态要求指定空间中的一个方向（一个可以连续变化的角的值），若没有共享的纠缠态，爱丽丝就必须向鲍勃传送无穷多的经典信息，鲍勃才能精确地重构态 $\ket{u}$。与一个二值选项（表示为 0 或 1，两个选项概率相等）相关联的经典信息的量，是一个二进制位，即“比特”。要用十进制指定一个任意的角，需要 0 到 9 之间的无穷数字序列；用二进制记号则需要 0 与 1 的无穷序列。爱丽丝操作的结果有四种可能结果，概率各为 1/4，可以由两个比特的经典信息来指定。值得注意的是，鲍勃仅凭爱丽丝告知的两个比特经典信息就能重构态 $\ket{u}$，这显然是把纠缠态用作量子通信信道来传递其余信息的结果。这个想法最早由 Bennett *et al* 于 1993 年提出。关于量子隐形传态的进一步讨论，见 Nielsen and Chuang 2011，或 Richard Josza 的“Quantum Information and its Properties”一文，收于 Lo, Popescu, and Spiller 1998。量子隐形传态已在地球上约 100 公里的距离上实现，并在地球与卫星之间 1400 公里的距离上实现（Zeilinger, 2018）。利用卫星传输纠缠光子来发展量子互联网，将依赖量子隐形传态。
+    step2: |-
+      这个现象的惊人之处在于：爱丽丝与鲍勃竟然把共享的纠缠态当作量子通信信道，在宇宙中爱丽丝这一侧毁掉一个光子的态 $\ket{u}$，又在宇宙中鲍勃那一侧把它重新造出来。光子的线偏振态要求指定空间中的一个方向（一个可以连续变化的角），因此，没有共享的纠缠态，爱丽丝就非得向鲍勃传送无穷多的经典信息，鲍勃才能精确重构态 $\ket{u}$。一个二值选项（记作 0 或 1，两种可能概率相等）所对应的经典信息量，是一个二进制位，即“比特”。要用十进制写出一个任意的角，需要 0 到 9 之间的无穷数字串；换成二进制，则需要 0 与 1 的无穷序列。爱丽丝操作的结果有四种可能，概率各为 1/4，只需两个比特的经典信息即可指明。耐人寻味的是，鲍勃仅凭爱丽丝传给他的两个比特经典信息，就能重构出态 $\ket{u}$，靠的显然是把纠缠态当作量子通信信道来传送其余的信息。这一想法最早由 Bennett *et al* 于 1993 年提出。量子隐形传态的进一步讨论，见 Nielsen and Chuang 2011，或 Richard Josza 的“Quantum Information and its Properties”，收于 Lo, Popescu, and Spiller 1998。量子隐形传态已在地球上约 100 公里的距离上实现，并在地球与卫星之间 1400 公里的距离上实现（Zeilinger, 2018）。用卫星传输纠缠光子来建设量子互联网，要依赖量子隐形传态。
+  - id: 19
+    kind: body
+    source: |-
+      ## 3. Quantum Information
+    step1: |-
+      ## 3. 量子信息
+    step2: |-
+      ## 3 量子信息
+  - id: 20
+    kind: body
+    source: |-
+      Formally, the amount of classical information we gain, on average, when we learn the value of a random variable (or, equivalently, the amount of uncertainty in the value of a random variable before we learn its value) is represented by a quantity called the Shannon entropy, measured in bits (Shannon and Weaver, 1949). A random variable is defined by a probability distribution over a set of values. In the case of a binary random variable, with equal probability for each of the two possibilities, the Shannon entropy is one bit, representing maximal uncertainty. For all other probabilities — intuitively, representing some information about which alternative is more likely — the Shannon entropy is less than one. For the case of maximal knowledge or zero uncertainty about the alternatives, where the probabilities are 0 and 1, the Shannon entropy is zero. (Note that the term ‘bit’ is used to refer to the basic unit of classical information in terms of Shannon entropy, and to an elementary two-state classical system considered as representing the possible outputs of an elementary classical information source.)
+    step1: |-
+      从形式上说，当我们得知一个随机变量的值时，我们平均获得的经典信息的量（等价地说，是在我们得知某个随机变量的值之前，该值的不确定性的量），由一个称为香农熵的量来表示，以比特为单位计量（Shannon and Weaver, 1949）。随机变量由一组取值上的概率分布来定义。对于二值随机变量，两种可能各自概率相等，香农熵为 1 比特，代表最大的不确定性。对于其他一切概率——直观地说，代表关于哪个选项更可能的某些信息——香农熵都小于 1。对于拥有最大知识、即对各选项零不确定性的情形，概率为 0 与 1，香农熵为零。（注意，“比特”一词既用来指按香农熵计的经典信息的基本单位，也用来指一个基本的二态经典系统，该系统被视为代表一个基本经典信息源的可能输出。）
+    step2: |-
+      形式上，我们获知某个随机变量的取值时平均获得的经典信息量（等价地说，是获知其取值之前该取值的不确定性），由一个叫作香农熵的量来刻画，以比特计量（Shannon and Weaver, 1949）。随机变量由一组取值上的概率分布来定义。二值随机变量若两种可能等概率，香农熵就是 1 比特，代表最大的不确定性。其余各种概率——直观上代表“哪个选项更可能”的某些信息——香农熵都小于 1。到了知识最大、即对各选项毫无不确定性的情形，概率为 0 与 1，香农熵为零。（注意：“比特”一词既指按香农熵计的经典信息基本单位，也指一个基本的二态经典系统，该系统被看作代表某个基本经典信息源的可能输出。）
+  - id: 21
+    kind: body
+    source: |-
+      Since information is always embodied in the state of a physical system, we can also think of the Shannon entropy as quantifying the physical resources required to store classical information. Suppose Alice wishes to communicate some classical information to Bob over a classical communication channel such as a telephone line. A relevant question concerns the extent to which the message can be compressed without loss of information, so that Bob can reconstruct the original message accurately from the compressed version. According to Shannon’s source coding theorem or noiseless coding theorem (assuming a noiseless telephone line with no loss of information), the minimal physical resource required to represent the message (effectively, a lower bound on the possibility of compression) is given by the Shannon entropy of the source.
+    step1: |-
+      既然信息总是体现在物理系统的状态之中，我们也可以把香农熵看作是对存储经典信息所需物理资源的量化。假设爱丽丝想通过一条经典通信信道（比如电话线）把某些经典信息传送给鲍勃。一个相关的问题是：在不丢失信息的前提下，消息能被压缩到什么程度，从而使鲍勃能够由压缩版本准确地重构原始消息。按照香农的信源编码定理或无噪编码定理（假定电话线无噪声、不丢失信息），表示该消息所需的最小物理资源（实际上也就是压缩可能性的下界），由信源的香农熵给出。
+    step2: |-
+      信息总要体现在物理系统的状态中，所以我们也可以把香农熵理解为对存储经典信息所需物理资源的度量。假定爱丽丝想经由一条经典通信信道（例如电话线）把一些经典信息传给鲍勃。这时一个相关的问题是：在不丢信息的前提下，消息能压缩到什么程度，好让鲍勃从压缩版本准确重构出原消息。按香农的信源编码定理（无噪编码定理，假定电话线无噪声、不丢信息），表示该消息所需的最小物理资源（实际上就是压缩可能性的下界）由信源的香农熵给出。
+  - id: 22
+    kind: body
+    source: |-
+      What happens if we use the quantum states of physical systems to store information, rather than classical states? It turns out that quantum information is radically different from classical information. The unit of quantum information is the ‘qubit’, representing the amount of quantum information that can be stored in the state of the simplest quantum system, for example, the polarization state of a photon. The term is due to Schumacher (1995), who proved a quantum analogue of Shannon’s noiseless coding theorem. (By analogy with the term ‘bit,’ the term ‘qubit’ refers to the basic unit of quantum information in terms of the von Neumann entropy, and to an elementary two-state quantum system considered as representing the possible outputs of an elementary quantum information source.) An arbitrarily large amount of classical information can be encoded in a qubit. This information can be processed and communicated but, because of the peculiarities of quantum measurement, at most one bit can be accessed. According to a theorem by Holevo, the accessible information in a probability distribution over a set of alternative qubit states is limited by the von Neumann entropy, which is equal to the Shannon entropy only when the states are orthogonal in the space of quantum states, and is otherwise less than the Shannon entropy.
+    step1: |-
+      如果我们用物理系统的量子态而非经典态来存储信息，会发生什么？结果表明，量子信息与经典信息截然不同。量子信息的单位是“量子比特”，它代表能够存储在最简单量子系统之状态中的量子信息的量，例如一个光子的偏振态。这个术语出自 Schumacher（1995），他证明了香农无噪编码定理的量子对应物。（与“比特”一词相类比，“量子比特”既指按冯·诺依曼熵计的量子信息的基本单位，也指一个基本的二态量子系统，该系统被视为代表一个基本量子信息源的可能输出。）任意大的经典信息量都可以编码进一个量子比特。这些信息可以被处理和传送，但由于量子测量的种种特性，最多只能访问其中一个比特。按照 Holevo 的一个定理，在一组备选量子比特态上的概率分布中，可获取信息受冯·诺依曼熵的限制；只有当这些态在量子态空间中相互正交时，冯·诺依曼熵才等于香农熵，否则小于香农熵。
+    step2: |-
+      若改用物理系统的量子态、而不是经典态来存储信息，情况会怎样？原来，量子信息与经典信息截然不同。量子信息的单位是“量子比特”，代表最简单的量子系统（例如一个光子的偏振态）的状态所能存储的量子信息量。这个术语出自 Schumacher（1995），他证明了香农无噪编码定理的量子对应版本。（仿照“比特”一词的用法，“量子比特”既指按冯·诺依曼熵计的量子信息基本单位，也指一个基本的二态量子系统，该系统被看作代表某个基本量子信息源的可能输出。）任意大的经典信息量都能编码进一个量子比特。这些信息可以被处理、被传送，但受量子测量种种特性的限制，最多只能取出一个比特。按 Holevo 的一条定理，一组备选量子比特态上的概率分布中，可获取信息受冯·诺依曼熵限制；只有当这些态在量子态空间中彼此正交时，冯·诺依曼熵才等于香农熵，否则就小于香农熵。
+  - id: 23
+    kind: body
+    source: |-
+      While classical information can be copied or cloned, the quantum ‘no cloning’ theorem (Dieks, 1982; Wootters and Zurek, 1982) asserts the impossibility of cloning an unknown quantum state. To see why, consider how we might construct a classical copying device. A NOT gate is a device that takes a bit as input and produces as output either a 1 if the input is 0, or a 0 if the input is 1. In other words, a NOT gate is a 1-bit gate that flips the input bit. A controlled-NOT gate, or CNOT gate, takes two bits as inputs, a control bit and a target bit, and flips the target bit if and only if the control bit is 1, while reproducing the control bit. So there are two inputs, the control and target, and two outputs: the control, and either the target or the flipped target, depending on the value of the control. A CNOT gate functions as a copying device for the control bit if the target bit is set to 0, because the output of the target bit is then a copy of the control bit: the input 00 produces output 00, and the input 10 produces output 11 (here the first bit is the control and the second bit is the target). Insofar as we can think of a measurement as simply a copying operation, a CNOT gate is the paradigm of a classical measuring device. Imagine Alice equipped with such a device, with input and output control and target wires, measuring the properties of an unknown classical world. The input control wire is a probe for the presence or absence of a property, represented by a 1 or a 0. The target wire functions as the pointer, which is initially set to 0. The output of the target is a 1 or a 0, depending on the presence or absence of the property.
+    step1: |-
+      经典信息可以被复制或克隆，而量子的“不可克隆”定理（Dieks, 1982; Wootters and Zurek, 1982）断言：不可能克隆一个未知的量子态。要看清原因，不妨考虑一下我们如何构造一台经典复制装置。非门是一种装置，它取一个比特作为输入，若输入为 0 则输出 1，若输入为 1 则输出 0。换言之，非门是一个翻转输入比特的 1 比特门。受控非门（CNOT 门）取两个比特作为输入，一个控制比特和一个目标比特，当且仅当控制比特为 1 时翻转目标比特，同时复制控制比特。所以它有两个输入——控制与目标，两个输出：控制和目标、或翻转后的目标，取决于控制的值。如果把目标比特设为 0，CNOT 门就充当控制比特的复制装置，因为此时目标比特的输出就是控制比特的副本：输入 00 产生输出 00，输入 10 产生输出 11（这里第一个比特是控制比特，第二个比特是目标比特）。只要我们把测量简单地看作一种复制操作，CNOT 门就是经典测量装置的范式。设想爱丽丝配备这样一台装置，带有输入与输出的控制线和目标线，去测量一个未知经典世界的属性。输入控制线是一个探针，探测某个属性的有无，以 1 或 0 表示。目标线起指针的作用，初始设为 0。目标的输出是 1 还是 0，取决于该属性的有无。
+    step2: |-
+      经典信息可以复制、可以克隆，量子“不可克隆”定理（Dieks, 1982; Wootters and Zurek, 1982）却断言：未知的量子态无法克隆。原因何在？不妨想想怎么造一台经典复制装置。非门取一个比特作输入，输入 0 则输出 1，输入 1 则输出 0——也就是说，非门是一个翻转输入比特的 1 比特门。受控非门（CNOT 门）以两个比特为输入，一个控制比特、一个目标比特；当且仅当控制比特为 1 时翻转目标比特，同时照抄控制比特。于是它有两个输入——控制与目标——和两个输出：控制比特，以及目标比特或翻转后的目标比特，取决于控制比特的取值。若把目标比特置为 0，CNOT 门就成了控制比特的复制装置，因为此时目标比特的输出正是控制比特的副本：输入 00 得输出 00，输入 10 得输出 11（这里第一个比特是控制，第二个是目标）。只要把测量径直看作一种复制操作，CNOT 门就是经典测量装置的典范。设想爱丽丝有这样一台装置，带输入、输出的控制线与目标线，用它去测量一个未知经典世界的属性。输入控制线是探针，探测某属性之有无，以 1 或 0 表示；目标线则相当于指针，初始置为 0。输出是 1 还是 0，取决于该属性有无。
+  - id: 24
+    kind: body
+    source: |-
+      Suppose we attempt to use a CNOT gate to copy an unknown qubit state. Since we are now proposing to regard the CNOT gate as a device for processing quantum states, the evolution from input states to output states must be effected by a physical quantum transformation. Quantum transformations are linear on the linear state space of qubits. Linearity of the *state space* means that any sum or superposition with coefficients $c_0, c_1$ of two qubit states in the state space is also a qubit state in the state space. Linearity of the *transformation* requires that the transformation should take a qubit state represented by the sum of two qubit states to a new qubit state that is the sum of the transformed qubit states. If the CNOT gate succeeds in copying two orthogonal qubit states, represented as $\ket{0},\ket{1}$, it cannot succeed in copying a general linear superposition of these qubits. Since the gate functions linearly, it must instead produce a state that is a linear superposition of the outputs obtained for the two orthogonal qubit states. That is to say, the output of the gate will be represented by a quantum state that is a sum of two terms, where the first term represents the output of the control and target for the first qubit state, and the second term represents the output of the control and target for the second orthogonal qubit state. This could be expressed as $c_0 \ket{0} \ket{0}$ + $c_1 \ket{1} \ket{1}$, which is an entangled state (unless $c_0$ or $ c_1$ is zero) rather than the output that would be required by a successful copying operation (where the control and target each outputs the superposition qubit state $c_0 \ket{0}$ + $c_1 \ket{1}$).
+    step1: |-
+      假设我们试图用 CNOT 门来复制一个未知的量子比特态。既然我们现在提议把 CNOT 门看作处理量子态的装置，那么从输入态到输出态的演化就必须由某种物理的量子变换来实现。量子变换在量子比特的线性状态空间上是线性的。*状态空间*的线性意味着：状态空间中两个量子比特态以系数 $c_0, c_1$ 构成的任意和或叠加，也是状态空间中的一个量子比特态。*变换*的线性要求：该变换应当把一个由两个量子比特态之和表示的量子比特态，变成一个由这两个量子比特态经变换后之和构成的新量子比特态。如果 CNOT 门能成功复制两个正交的量子比特态，即 $\ket{0},\ket{1}$，那么它就不能成功复制这些量子比特的一般线性叠加。由于门是按线性方式起作用的，它必定产生一个态，该态是对这两个正交量子比特态所得输出的一种线性叠加。也就是说，门的输出将由一个量子态表示，该量子态是两项之和：第一项代表第一个量子比特态下控制与目标的输出，第二项代表第二个正交量子比特态下控制与目标的输出。这可以表示为 $c_0 \ket{0} \ket{0}$ + $c_1 \ket{1} \ket{1}$，这是一个纠缠态（除非 $c_0$ 或 $ c_1$ 为零），而不是一次成功的复制操作所要求的输出（那种情况下控制与目标各自输出叠加量子比特态 $c_0 \ket{0}$ + $c_1 \ket{1}$）。
+    step2: |-
+      假定我们想用 CNOT 门去复制一个未知的量子比特态。既然这里要把 CNOT 门当作处理量子态的装置，从输入态到输出态的演化就必须由某种物理的量子变换来实现。量子变换在量子比特的线性状态空间上是线性的。*状态空间*的线性是说：状态空间中两个量子比特态以系数 $c_0, c_1$ 构成的任意和或叠加，仍是该状态空间中的量子比特态。*变换*的线性则要求：变换应把一个由两个量子比特态之和表示的量子比特态，变成一个新的量子比特态，即这两个量子比特态各自变换之后的和。倘若 CNOT 门能成功复制两个正交量子比特态 $\ket{0},\ket{1}$，它就无法成功复制这两个量子比特的一般线性叠加。门的作用是线性的，因此它只能产生这样一个态：对两个正交量子比特态分别所得的输出再做线性叠加。也就是说，门的输出将是一个由两项之和表示的量子态，第一项是第一个量子比特态下控制与目标的输出，第二项是第二个正交量子比特态下控制与目标的输出。这可写作 $c_0 \ket{0} \ket{0}$ + $c_1 \ket{1} \ket{1}$——一个纠缠态（除非 $c_0$ 或 $ c_1$ 为零），而不是成功复制操作所要求的输出（此时控制与目标各自输出叠加量子比特态 $c_0 \ket{0}$ + $c_1 \ket{1}$）。
+  - id: 25
+    kind: body
+    source: |-
+      ## 4. Quantum Cryptography
+    step1: |-
+      ## 4. 量子密码学
+    step2: |-
+      ## 4 量子密码学
+  - id: 26
+    kind: body
+    source: |-
+      Suppose Alice and Bob are separated and want to communicate a secret message, without revealing any information to Eve, an eavesdropper. They can do this in a classical world if they share a ‘one-time pad,’ a cryptographic key represented by a sequence of random bits at least as long as the number of bits required to communicate the message. In fact, this is the only secure way to achieve perfect security in a classical world. To send a message to Bob, Alice communicates which bits in the key Bob should flip. The resulting sequence of bits is the message. In addition, they would need to have some way of encoding messages as sequences of bits, by representing letters of the alphabet and spaces and punctuation symbols as binary numbers, which could be done by some standard, publicly available scheme.
+    step1: |-
+      假设爱丽丝与鲍勃相隔两地，想要传递一条秘密消息，而不向窃听者伊芙泄露任何信息。在经典世界里，只要他们共享一个“一次性密码本”，就能做到这一点——这是一把密码学密钥，由随机比特序列表示，其长度至少与传递该消息所需的比特数一样长。事实上，这是在经典世界中达到完美安全的唯一可靠方式。要向鲍勃发送消息，爱丽丝告知鲍勃应当翻转密钥中的哪些比特。由此得到的比特序列就是消息。此外，他们还需要某种把消息编码为比特序列的办法，即把字母表中的字母、空格和标点符号表示为二进制数；这可以用某种标准的、公开可得的方案来做。
+    step2: |-
+      设爱丽丝与鲍勃分处两地，想传递一条秘密消息，又不向窃听者伊芙泄露任何信息。在经典世界里，只要他们共享一个“一次性密码本”就能办到：那是一把密码学密钥，由随机比特序列表示，长度至少等于传递该消息所需的比特数。事实上，这也是经典世界中达到完美安全的唯一办法。要把消息发给鲍勃，爱丽丝只需说明密钥中哪些比特该由鲍勃翻转，由此得到的比特序列就是消息。此外，他们还得有办法把消息编码成比特序列，即把字母、空格与标点符号表示成二进制数；这可以借助某种标准的公开方案来完成。
+  - id: 27
+    kind: body
+    source: |-
+      The problem is that messages communicated in this way are only secret if Alice and Bob use a different one-time pad for each message. If they use the same one-time pad for several messages, Eve could gain some information about the correspondence between letters of the alphabet and subsequences of bits in the key by relating statistical features of the messages to the way words are composed of letters. To share a new key they would have to rely on trusted couriers or some similar method to distribute the key. There is no way to guarantee the security of the key distribution procedure in a classical world.
+    step1: |-
+      问题在于，以这种方式传递的消息只有在爱丽丝与鲍勃为每条消息使用不同的一次性密码本时才是秘密的。如果他们为若干条消息使用同一个一次性密码本，伊芙就有可能通过把消息的统计特征与词由字母构成的方式联系起来，获得关于字母表中字母与密钥中比特子序列之间对应关系的一些信息。要共享一把新密钥，他们就得依靠可信的信使或类似方法来分发密钥。在经典世界里，没有办法保证密钥分发程序的安全。
+    step2: |-
+      问题在于，这样传递的消息只有在爱丽丝与鲍勃为每条消息各换一个一次性密码本时才是秘密的。倘若几条消息共用同一个一次性密码本，伊芙就可以把消息的统计特征同“词由字母拼成”的方式对照起来，从而获得一些关于字母与密钥中比特子序列如何对应的信息。要共享新密钥，他们只能靠可信的信使或类似办法来分发。而在经典世界里，密钥分发程序的安全性无从保证。
+  - id: 28
+    kind: body
+    source: |-
+      Copying the key without revealing that it has been copied is also a problem for the shared key that Alice and Bob each store in some supposedly secure way. But the laws of physics in a classical world cannot guarantee that a storage procedure is completely secure, and they cannot guarantee that breaching the security and copying the key will always be detected. So apart from the key distribution problem, there is a key storage problem.
+    step1: |-
+      对于爱丽丝与鲍勃各自以某种据称安全的方式存储的共享密钥来说，还有另一个问题：复制密钥而不暴露它已被复制。可是经典世界的物理定律既不能保证某种存储程序完全安全，也不能保证破坏安全并复制密钥的行为总会被发现。所以，除了密钥分发问题，还有一个密钥存储问题。
+    step2: |-
+      爱丽丝与鲍勃各自以某种据称安全的方式存储共享密钥，这里还横着另一个问题：把密钥复制走而不留痕迹。然而经典世界的物理定律既不能保证某种存储程序绝对安全，也不能保证一旦安全被破、密钥被复制就一定能被发现。所以除密钥分发问题之外，还有密钥存储问题。
+  - id: 29
+    kind: body
+    source: |-
+      Quantum entanglement provides a way of solving these problems through the ‘monogamy’ of entangled state correlations: no third party can share entanglement correlations between Alice and Bob. Moreover, any attempt by Eve to measure the quantum systems in the entangled state shared by Alice and Bob will destroy the entangled state. Alice and Bob can detect this by checking a Bell inequality.
+    step1: |-
+      量子纠缠通过纠缠态关联的“单配性”提供了解决这些问题的途径：任何第三方都无法分享爱丽丝与鲍勃之间的纠缠关联。而且，伊芙若试图测量爱丽丝与鲍勃共享的纠缠态中的量子系统，就会破坏该纠缠态。爱丽丝与鲍勃可以通过检验一条贝尔不等式来察觉这一点。
+    step2: |-
+      量子纠缠为解决这些问题提供了一条途径，靠的是纠缠态关联的“单配性”：爱丽丝与鲍勃之间的纠缠关联，任何第三方都分享不到。而且，伊芙只要试图测量爱丽丝与鲍勃共享的纠缠态中的量子系统，就会毁掉这个纠缠态。爱丽丝与鲍勃检验一条贝尔不等式，便能察觉此事。
+  - id: 30
+    kind: body
+    source: |-
+      One way to do this is by a protocol originally proposed by Artur Ekert. Suppose Alice has a collection of photons, one for each entangled pair in the state $\ket{0}\ket{0} + \ket{1}\ket{1}$ (ignoring the equal coefficients, for simplicity), and Bob has the collection of paired photons. Alice measures the polarization of her photons randomly in directions, $0, \pi/8, 2\pi/8$ with respect to some direction $z$ they agree on in advance, and Bob measures the polarizations of his photons randomly in directions $\pi/8, 2\pi/8, 3\pi/8$. They communicate the directions of their polarization measurements publicly, but not the outcomes, and they divide the measurements into two sets: one set when they both measured polarization in the direction $\pi/8$, or when they both measured polarization in the direction $2\pi/8$, and one set when Alice measured polarization in directions $0$ or $2\pi/8$ and Bob measured polarization in directions $\pi/8$ or $3\pi/8$. For the first set, when they measured the polarization in the same direction, the outcomes are random but perfectly correlated in the entangled state so they share these random bits as a cryptographic key. They use the second set to check a Bell inequality, which reveals whether or not the entangled state has been altered by the measurements of an eavesdropper. (See Ekert, 1991.)
+    step1: |-
+      做这件事的一种方式，是使用阿图尔·埃克特最初提出的一个协议。假设爱丽丝有一批光子，每一个对应一个处于态 $\ket{0}\ket{0} + \ket{1}\ket{1}$ 的纠缠对（为简单起见，忽略相等的系数），而鲍勃拥有与之成对的那批光子。爱丽丝相对于他们事先约定的某个方向 $z$，随机地沿方向 $0, \pi/8, 2\pi/8$ 测量她的光子的偏振；鲍勃则随机地沿方向 $\pi/8, 2\pi/8, 3\pi/8$ 测量他的光子的偏振。他们公开地告知彼此的偏振测量方向，但不告知结果；并把测量分成两组：一组是两人都沿方向 $\pi/8$ 测量偏振，或都沿方向 $2\pi/8$ 测量偏振的情形；另一组是爱丽丝沿方向 $0$ 或 $2\pi/8$ 测量偏振、而鲍勃沿方向 $\pi/8$ 或 $3\pi/8$ 测量偏振的情形。对于第一组，由于他们沿同一方向测量偏振，结果虽然随机，但在该纠缠态中完全关联，于是他们把共享的这些随机比特用作密码学密钥。他们用第二组来检验一条贝尔不等式，这可以揭示纠缠态是否已被窃听者的测量所改变。（见 Ekert, 1991。）
+    step2: |-
+      办法之一是阿图尔·埃克特最初提出的一个协议。设爱丽丝持有一批光子，每个光子对应一个处于态 $\ket{0}\ket{0} + \ket{1}\ket{1}$ 的纠缠对（为简化起见忽略相等的系数），鲍勃则持有与之配对的那批光子。爱丽丝相对于双方事先约定的某个方向 $z$，随机沿 $0, \pi/8, 2\pi/8$ 三个方向测量自己光子的偏振；鲍勃随机沿 $\pi/8, 2\pi/8, 3\pi/8$ 三个方向测量自己光子的偏振。两人公开告知各自的测量方向，但不告知测量结果，并把测量分成两组：一组是两人都沿 $\pi/8$ 方向测量、或都沿 $2\pi/8$ 方向测量的情形；另一组是爱丽丝沿 $0$ 或 $2\pi/8$ 方向测量、鲍勃沿 $\pi/8$ 或 $3\pi/8$ 方向测量的情形。第一组里，两人沿同一方向测量偏振，结果虽随机，却在该纠缠态中完全关联，于是他们把共享的这些随机比特当作密码学密钥。第二组则用来检验一条贝尔不等式，由此可以看出纠缠态是否已被窃听者的测量动过手脚。（见 Ekert, 1991。）
+  - id: 31
+    kind: body
+    source: |-
+      While the difference between classical and quantum information can be exploited to achieve successful key distribution, there are other cryptographic protocols that are thwarted by quantum entanglement. Bit commitment is a key cryptographic protocol that can be used as a subroutine in a variety of important cryptographic tasks. In a bit commitment protocol, Alice supplies an encoded bit to Bob. The information available in the encoding should be insufficient for Bob to ascertain the value of the bit, but sufficient, together with further information (supplied by Alice at a subsequent stage when she is supposed to reveal the value of the bit), for Bob to be convinced that the protocol does not allow Alice to cheat by encoding the bit in a way that leaves her free to reveal either 0 or 1 at will.
+    step1: |-
+      经典信息与量子信息之间的差异可以被利用来实现成功的密钥分发，但另有一些密码学协议却因量子纠缠而受阻。比特承诺是一个关键的密码学协议，可以作为子程序用于各种重要的密码学任务。在比特承诺协议中，爱丽丝向鲍勃提供一个编码过的比特。该编码中所含的信息应当不足以让鲍勃确定这个比特的值，但连同进一步的信息（由爱丽丝在后续阶段、即她应当揭示比特值的时候提供）则足以让鲍勃确信：该协议不允许爱丽丝作弊，即以某种使她能够随意揭示 0 或 1 的方式编码这个比特。
+    step2: |-
+      经典信息与量子信息的差异可以用来实现成功的密钥分发，但另有一些密码学协议恰恰被量子纠缠挡住了去路。比特承诺就是这样一个关键协议，它可作为子程序用于多种重要的密码学任务。在比特承诺协议里，爱丽丝交给鲍勃一个编码过的比特。该编码所含的信息应当不足以让鲍勃确定这个比特的取值；但若再加上进一步的信息（由爱丽丝在后续阶段、即她该揭示比特取值之时提供），就足以让鲍勃确信：这个协议不让爱丽丝有作弊的余地——她没法把比特编码成自己想揭示 0 就揭示 0、想揭示 1 就揭示 1 的样子。
+  - id: 32
+    kind: body
+    source: |-
+      To illustrate the idea, suppose Alice claims the ability to predict advances or declines in the stock market on a daily basis. To substantiate her claim without revealing valuable information (perhaps to a potential employer, Bob) she suggests the following demonstration: She proposes to record her prediction, before the market opens, by writing a 0 (for ‘decline’) or a 1 (for ‘advance’) on a piece of paper, which she will lock in a safe. The safe will be handed to Bob, but Alice will keep the key. At the end of the day’s trading, she will announce the bit she chose and prove that she in fact made the commitment at the earlier time by handing Bob the key. Of course, the key-and-safe protocol is not provably secure from cheating by Bob, because there is no principle of classical physics that prevents Bob from opening the safe and closing it again without leaving any trace. The question is whether there exists a quantum analogue of this procedure that is unconditionally secure: provably secure by the laws of physics against cheating by either Alice or Bob. Bob can cheat if he can obtain *some* information about Alice’s commitment before she reveals it (which would give him an advantage in repetitions of the protocol with Alice). Alice can cheat if she can delay actually making a commitment until the final stage when she is required to reveal her commitment, or if she can change her commitment at the final stage with a very low probability of detection.
+    step1: |-
+      为了说明这个想法，假设爱丽丝声称有能力逐日预测股市的上涨或下跌。为了在不泄露有价值信息的前提下（也许是向潜在的雇主鲍勃）证实她的说法，她提出如下演示：她提议在市场开盘之前就把自己的预测记录下来，在一张纸上写下 0（表示“下跌”）或 1（表示“上涨”），然后把纸锁进保险箱。保险箱交给鲍勃，但钥匙由爱丽丝保管。当天交易结束时，她宣布自己选的比特，并把钥匙交给鲍勃，以证明她确实在较早的时刻作出了承诺。当然，保险箱加钥匙的协议无法证明能防住鲍勃作弊，因为经典物理学没有任何原理阻止鲍勃打开保险箱再关上而不留痕迹。问题在于：是否存在这一程序的一种无条件安全的量子对应物——即依物理定律可以证明，无论爱丽丝还是鲍勃都无法作弊。如果鲍勃能在爱丽丝揭示之前获得关于她承诺的*某些*信息，他就能作弊（这会让他在与爱丽丝重复该协议时占优势）。如果爱丽丝能把真正作出承诺这件事推迟到她必须揭示承诺的最后阶段，或者能在最后阶段以极低的被发现概率改变承诺，她就能作弊。
+    step2: |-
+      为说明这个想法，设爱丽丝声称自己能逐日预测股市的涨跌。为了在不泄露有价值信息的情况下证实这一说法（也许是向潜在的雇主鲍勃），她提出如下演示：在市场开盘之前，她先把预测写在一张纸上——0 表示“下跌”，1 表示“上涨”——然后锁进保险箱。保险箱交给鲍勃，钥匙由爱丽丝自己留着。当天交易结束，她宣布自己选的是哪个比特，并把钥匙交给鲍勃，以此证明她确实早在开盘前就作出了承诺。当然，这套“保险箱加钥匙”的办法无法证明能防住鲍勃作弊，因为经典物理学中没有任何原理能阻止鲍勃打开保险箱再关上而不留痕迹。问题在于：这一程序有没有一种无条件安全的量子对应物——依物理定律可证明，爱丽丝与鲍勃谁都作不了弊。鲍勃若能在爱丽丝揭示之前得到关于她承诺的*某些*信息，他就能作弊（这会让他与爱丽丝重复该协议时占便宜）。爱丽丝若能把真正作出承诺一事拖到她必须揭示承诺的最后阶段，或者能在最后阶段改变承诺而几乎不会被发现，她就能作弊。
+  - id: 33
+    kind: body
+    source: |-
+      It turns out that unconditionally secure two-party bit commitment, based solely on the principles of quantum or classical mechanics (without exploiting special relativistic signaling constraints, or principles of general relativity or thermodynamics) is impossible. See Mayers 1997, Lo and Chau 1997 and Lo’s article “Quantum Cryptology” in Lo, Popescu, and Spiller 1998 for further discussion. (Kent 1999 has shown that one can implement a secure classical bit commitment protocol by exploiting relativistic signaling constraints in a timed sequence of communications between verifiably separated sites for both Alice and Bob.)[^kent-1999] Roughly, the impossibility arises because at any step in the protocol where either Alice or Bob is required to make a determinate choice (perform a measurement on a particle in the quantum channel, choose randomly and perhaps conditionally between a set of alternative actions to be implemented on the particle in the quantum channel, etc.), the choice can delayed by entangling one or more ancilla particles with the channel particle in an appropriate way. By suitable operations on the ancillas, the channel particle can be ‘steered’ so that this cheating strategy is undetectable. In effect, if Bob can obtain no information about the committed bit, then entanglement will allow Alice to ‘steer’ the bit to either 0 or 1 at will.
+    step1: |-
+      结果表明：只依据量子力学或经典力学的原理（不借助狭义相对论的信号传递约束，也不借助广义相对论或热力学的原理），无条件安全的两方比特承诺是不可能的。进一步讨论见 Mayers 1997、Lo and Chau 1997，以及 Lo 的“Quantum Cryptology”一文，收于 Lo, Popescu, and Spiller 1998。（Kent 1999 表明，通过在对爱丽丝与鲍勃双方均可验证地分离的站点之间进行定时通信序列，利用相对论性的信号传递约束，可以实施一个安全的经典比特承诺协议。）[^kent-1999] 粗略地说，这种不可能性之所以出现，是因为在协议中任何要求爱丽丝或鲍勃作出确定选择的步骤（对量子信道中的一个粒子进行测量，随机地、也许有条件地在一组要对量子信道中的粒子实施的不同行动之间作选择，等等），这个选择都可以通过以适当方式让一个或多个辅助粒子与信道粒子纠缠起来而被推迟。通过对辅助粒子作适当操作，信道粒子可以被“操控”，从而使这种作弊策略无法被发现。实际上，如果鲍勃无法获得关于所承诺比特的任何信息，那么纠缠就会让爱丽丝能够随意地把该比特“操控”成 0 或 1。
+    step2: |-
+      结果表明：仅仅依据量子力学或经典力学的原理（既不借狭义相对论的信号传递约束，也不借广义相对论或热力学原理），无条件安全的两方比特承诺是不可能的。进一步讨论见 Mayers 1997、Lo and Chau 1997，以及 Lo 的“Quantum Cryptology”，收于 Lo, Popescu, and Spiller 1998。（Kent 1999 表明：在对爱丽丝与鲍勃双方都可验证地分离的站点之间安排定时通信序列，利用相对论性的信号传递约束，就能实施一个安全的经典比特承诺协议。）[^kent-1999] 大略说来，不可能性出在这里：协议中凡要求爱丽丝或鲍勃作出确定选择的步骤（对量子信道中的某个粒子作测量，随机地、也许还是有条件地在若干要施加于该粒子的备选行动之间作选择，等等），这个选择都可以通过恰当地让一个或多个辅助粒子与信道粒子纠缠起来而推迟。再对辅助粒子作适当操作，信道粒子就能被“操控”，使这种作弊策略无法被识破。实际上，只要鲍勃得不到关于所承诺比特的任何信息，纠缠便能让爱丽丝随心所欲地把该比特“操控”成 0 或 1。
+  - id: 34
+    kind: body
+    source: |-
+      In 2022 the US National Institute of Standards and Technology (NIST) announced a suite of encryption protocols designed to be secure against attacks by a quantum computer: [NIST Announces First Four Quantum-Resistant Cryptographic Algorithms](https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms).
+    step1: |-
+      2022 年，美国国家标准与技术研究院（NIST）公布了一套加密协议，旨在抵御量子计算机的攻击：[NIST 公布首批四种抗量子密码算法](https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms)。
+    step2: |-
+      2022 年，美国国家标准与技术研究院（NIST）公布了一组加密协议，设计目标是抵御量子计算机的攻击：[NIST 公布首批四种抗量子密码算法](https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms)。
+  - id: 35
+    kind: body
+    source: |-
+      ## 5. Quantum Computation
+    step1: |-
+      ## 5. 量子计算
+    step2: |-
+      ## 5 量子计算
+  - id: 36
+    kind: body
+    source: |-
+      Quantum information can be processed, but the accessibility of this information is limited by the Holevo bound (mentioned in Section 3). David Deutsch (1985) first showed how to exploit quantum entanglement to perform a computational task that is impossible for a classical computer. Suppose we have a black box or oracle that evaluates a Boolean function $f$, where the arguments or inputs of $f$ are either 0 or 1, and the values or outputs of $f$ are also 0 or 1. The outputs are either the same for both inputs (in which case $f$ is said to be constant), or different for the two inputs (in which case $f$ is said to be balanced). Suppose we are interested in determining whether $f$ is constant or balanced. Classically, the only way to do this is to run the black box or query the oracle twice, for both arguments 0 and 1, and to pass the values (outputs of $f$) to a circuit that determines whether they are the same (for ‘constant’) or different (for ‘balanced’). Deutsch showed that if we use quantum states and quantum gates to store and process information, then we can determine whether $f$ is constant or balanced in one evaluation of the function $f$. The trick is to design the circuit (the sequence of gates) to produce the answer to a *global* question about the function in an output qubit register that can then be read out or measured.
+    step1: |-
+      量子信息可以被处理，但这种信息的可访问性受 Holevo 界的限制（第 3 节提到过）。戴维·多伊奇（1985）最先表明如何利用量子纠缠来完成一项经典计算机不可能完成的计算任务。假设我们有一个黑箱或预言机，用来求一个布尔函数 $f$ 的值，其中 $f$ 的自变量或输入要么是 0 要么是 1，$f$ 的值或输出也是 0 或 1。输出或者对两个输入相同（此时称 $f$ 为常量函数），或者对两个输入不同（此时称 $f$ 为平衡函数）。假设我们想确定 $f$ 是常量还是平衡的。经典地，唯一的办法是把黑箱运行两次或向预言机查询两次，对 0 与 1 两个自变量各一次，再把所得的值（$f$ 的输出）送入一个电路，由它判定两者相同（“常量”）还是不同（“平衡”）。多伊奇表明：如果我们用量子态与量子门来存储和处理信息，那么只需对函数 $f$ 求值一次，就能确定 $f$ 是常量还是平衡的。诀窍在于设计电路（门的序列），使关于该函数的一个*全局*问题的答案出现在一个输出量子比特寄存器中，随后可以把它读出或测量。
+    step2: |-
+      量子信息可以被处理，但这种信息的可获取性受 Holevo 界的限制（第 3 节提到过）。戴维·多伊奇（1985）最先表明，如何借量子纠缠完成一项经典计算机不可能完成的计算任务。设我们有一个黑箱或预言机，用来求布尔函数 $f$ 的值，$f$ 的自变量或输入取 0 或 1，$f$ 的值或输出也取 0 或 1。输出或对两个输入相同（这时称 $f$ 是常量函数），或对两个输入不同（这时称 $f$ 是平衡函数）。设我们想确定 $f$ 究竟是常量还是平衡的。经典办法只有一种：把黑箱运行两次、或向预言机查询两次，0 与 1 两个自变量各一次，再把得到的值（$f$ 的输出）送进一个电路，由它判定两者相同（“常量”）还是不同（“平衡”）。多伊奇表明：若用量子态与量子门来存储、处理信息，那么只需对函数 $f$ 求值一次，就能确定 $f$ 是常量还是平衡的。诀窍在于设计电路（门的序列），让关于该函数某个*全局*问题的答案落在一个输出量子比特寄存器里，然后把它读出或测量出来。
+  - id: 37
+    kind: body
+    source: |-
+      Consider again the quantum CNOT gate, with two orthogonal qubits $\ket{0}$ and $\ket{1}$ as possible inputs for the control, and $\ket{0}$ as the input for the target. One can think of the input control and output target qubits, respectively, as the argument and associated value of a function. This CNOT function associates the value 0 with the argument 0 and the value 1 with the argument 1. For a linear superposition of the orthogonal qubits with equal coefficients as input to the control, and the qubit $\ket{0}$ as the input to the target, the output is the entangled state $\ket{0} \ket{0}$ + $\ket{1} \ket{1}$ (ignoring the coefficients, for simplicity). This is a linear superposition in which the first term represents the argument 0 and associated value 0 of the CNOT function, and the second term represents the argument 1 and associated value 1 of the CNOT function. The entangled state represents all possible arguments and corresponding values of the function as a linear superposition, but this information is not accessible. What can be shown to be accessible, by a suitable choice of quantum gates, is information about whether or not the function has certain global properties. This information is obtainable without reading out the evaluation of any individual arguments and values. (Indeed, accessing information in the entangled state about a global property of the function will typically require losing access to all information about individual arguments and values.)
+    step1: |-
+      再来看量子 CNOT 门：控制比特的可能输入是两个正交量子比特 $\ket{0}$ 与 $\ket{1}$，目标比特的输入是 $\ket{0}$。我们可以把输入的控制量子比特与输出的目标量子比特分别看作一个函数的自变量与相应值。这个 CNOT 函数把值 0 与自变量 0 相关联，把值 1 与自变量 1 相关联。若控制比特的输入是这两个正交量子比特以相等系数构成的线性叠加，目标比特的输入是量子比特 $\ket{0}$，则输出是纠缠态 $\ket{0} \ket{0}$ + $\ket{1} \ket{1}$（为简单起见忽略系数）。这是一个线性叠加，其中第一项代表 CNOT 函数的自变量 0 与相应值 0，第二项代表 CNOT 函数的自变量 1 与相应值 1。该纠缠态把函数所有可能的自变量与对应值表示为一个线性叠加，但这一信息是不可访问的。可以表明可访问的，是通过适当选择量子门而得到的、关于该函数是否具有某些全局性质的信息。这种信息可以在不读出任何个别自变量与值的求值结果的情况下获得。（的确，要访问纠缠态中关于函数某个全局性质的信息，通常就必须失去关于个别自变量与值的全部信息的访问途径。）
+    step2: |-
+      再看量子 CNOT 门：控制比特的可能输入是两个正交量子比特 $\ket{0}$ 与 $\ket{1}$，目标比特的输入是 $\ket{0}$。不妨把输入的控制量子比特和输出的目标量子比特，分别看作某函数的自变量与相应的值。这个 CNOT 函数把值 0 配给自变量 0，把值 1 配给自变量 1。若控制比特输入的是两个正交量子比特以相等系数构成的线性叠加，目标比特输入量子比特 $\ket{0}$，输出便是纠缠态 $\ket{0} \ket{0}$ + $\ket{1} \ket{1}$（为简化起见忽略系数）。这是一个线性叠加，第一项代表 CNOT 函数的自变量 0 与相应值 0，第二项代表自变量 1 与相应值 1。纠缠态以线性叠加的形式表示出该函数全部可能的自变量与对应值，可这些信息是取不到的。能够表明可取到的，只是通过适当选择量子门而得到的、关于该函数是否具有某些全局性质的信息。这类信息不必读出任何个别自变量与值的求值结果即可获得。（实际上，要从纠缠态中获取关于函数某个全局性质的信息，通常就得放弃关于个别自变量与值的全部信息。）
+  - id: 38
+    kind: body
+    source: |-
+      The situation is analogous for Deutsch’s function $f$. Here the output of $f$ can be represented as either $\ket{0} \ket{0} + \ket{1} \ket{0}$ or $\ket{0} \ket{1} + \ket{1} \ket{1}$ in the ‘constant’ case, or $\ket{0} \ket{0} + \ket{1} \ket{1}$ or $\ket{0} \ket{1} + \ket{1} \ket{0}$ in the ‘balanced’ case. The two entangled states in the ‘constant’ case are orthogonal in the 4-dimensional two-qubit state space and span a plane. Call this the ‘constant’ plane. Similarly, the two entangled states in the ‘balanced’ case span a plane, the ‘balanced’ plane. These two planes, representing two alternative quantum disjunctions, are orthogonal except for an intersection or overlap in a line, representing a product (non-entangled) state, where each qubit separately is in the state $\ket{0} + \ket{1}$. It is therefore possible to design a measurement to distinguish the two alternative disjunctive or global properties of $f$, ‘constant’ or ‘balanced,’ with a certain probability (actually, 1/2) of failure, when the measurement yields an outcome corresponding to the overlap state, which is common to the two cases. Nevertheless, only one query of the function is required when the measurement succeeds in identifying the global property. With a judicious choice of quantum gates, it is even possible to design a quantum circuit that always succeeds in distinguishing the two cases in one run.
+    step1: |-
+      对多伊奇的函数 $f$ 来说，情形类似。这里 $f$ 的输出，在“常量”情形下可以表示为 $\ket{0} \ket{0} + \ket{1} \ket{0}$ 或 $\ket{0} \ket{1} + \ket{1} \ket{1}$，在“平衡”情形下可以表示为 $\ket{0} \ket{0} + \ket{1} \ket{1}$ 或 $\ket{0} \ket{1} + \ket{1} \ket{0}$。“常量”情形下的两个纠缠态，在四维的双量子比特状态空间中正交，并张成一个平面。称这个平面为“常量”平面。类似地，“平衡”情形下的两个纠缠态张成一个平面，即“平衡”平面。这两个平面代表两个备选的量子析取，它们正交，只是相交或重叠于一条线，这条线代表一个积态（非纠缠态），其中每个量子比特各自处于态 $\ket{0} + \ket{1}$。因此，可以设计一种测量来区分 $f$ 的两个备选析取性质或全局性质——“常量”或“平衡”——以某个失败概率（实际上是 1/2），即当测量给出对应于重叠态的结果时，而该态为两种情形所共有。不过，当测量成功地辨认出该全局性质时，只需对函数查询一次。只要明智地选择量子门，甚至可以设计出一个量子电路，在一次运行中总能成功区分这两种情形。
+    step2: |-
+      多伊奇的函数 $f$ 与此类似。$f$ 的输出，在“常量”情形下或为 $\ket{0} \ket{0} + \ket{1} \ket{0}$，或为 $\ket{0} \ket{1} + \ket{1} \ket{1}$；在“平衡”情形下或为 $\ket{0} \ket{0} + \ket{1} \ket{1}$，或为 $\ket{0} \ket{1} + \ket{1} \ket{0}$。“常量”情形的两个纠缠态在四维双量子比特状态空间中正交，张成一个平面，不妨称之为“常量”平面；“平衡”情形的两个纠缠态同样张成一个平面，即“平衡”平面。这两个平面代表两个备选的量子析取，彼此正交，只交叠于一条线，这条线代表一个积态（非纠缠态），其中每个量子比特各自处于态 $\ket{0} + \ket{1}$。因此可以设计一种测量，用来区分 $f$ 的两个备选析取性质或全局性质——“常量”还是“平衡”——但有一定概率（其实为 1/2）失败，即测量结果落在两种情形所共有的重叠态上。不过，只要测量成功辨认出该全局性质，就只需对函数查询一次。若量子门选得巧妙，甚至可以设计出一次运行便能成功区分两种情形的量子电路。
+  - id: 39
+    kind: body
+    source: |-
+      Deutsch’s example shows how quantum information and quantum entanglement can be exploited to compute a disjunctive or global property of a function in one step that would take two steps classically. While Deutsch’s problem is rather trivial, there now exist several quantum algorithms with interesting applications, notably Shor’s factorization algorithm for factoring large composite integers in polynomial time (with direct application to ‘public key’ cryptography, a widely used classical cryptographic scheme) and Grover’s database search algorithm. Shor’s algorithm achieves an exponential speed-up over *any known* classical algorithm. For algorithms that are allowed access to oracles (whose internal structure is not considered), the speed-up can be shown to be exponential over *any* classical algorithm in some cases, e.g., Simon’s algorithm. For more on quantum computing and quantum algorithms, see Nielsen and Chuang 2011, Barenco’s article “Quantum Computation: An Introduction” in Lo, Popescu, and Spiller 1998, Bub 2006 (Section 6), Abhijith et al 2022, as well as the entry on quantum computing.
+    step1: |-
+      多伊奇的例子表明，量子信息与量子纠缠怎样被用来在一步之内算出一个函数的一个析取性质或全局性质，而经典地则需要两步。多伊奇的问题虽然相当平凡，但现在已有若干具有有趣应用的量子算法，特别是 Shor 的因式分解算法（在多项式时间内分解大的合数，直接应用于“公钥”密码学这种广泛使用的经典密码学方案），以及 Grover 的数据库搜索算法。Shor 算法相对于*任何已知*的经典算法都取得了指数级加速。对于允许访问预言机的算法（不考虑其内部结构），在某些情况下可以证明其相对于*任何*经典算法的加速是指数级的，例如 Simon 算法。关于量子计算与量子算法的更多内容，见 Nielsen and Chuang 2011，Barenco 的“Quantum Computation: An Introduction”一文，收于 Lo, Popescu, and Spiller 1998，Bub 2006（第 6 节），Abhijith et al 2022，以及关于量子计算的词条。
+    step2: |-
+      多伊奇的例子说明，量子信息与量子纠缠可以怎样在一步之内算出一个函数的析取性质或全局性质，而经典办法需要两步。多伊奇的问题本身相当平凡，但如今已有若干有实用价值的量子算法，其中最著名的是 Shor 的因式分解算法（在多项式时间内分解大的合数，可直接用于“公钥”密码学这一广泛使用的经典密码学方案）与 Grover 的数据库搜索算法。Shor 算法相对于*任何已知*经典算法都是指数级加速。对于允许访问预言机的算法（不考虑预言机的内部结构），某些情况下可以证明其加速相对于*任何*经典算法都是指数级的，例如 Simon 算法。量子计算与量子算法的更多内容，见 Nielsen and Chuang 2011、Barenco 的“Quantum Computation: An Introduction”（收于 Lo, Popescu, and Spiller 1998）、Bub 2006（第 6 节）、Abhijith et al 2022，以及关于量子计算的词条。
+  - id: 40
+    kind: body
+    source: |-
+      Note that there is currently no proof that a quantum algorithm can solve an NP-complete problem in polynomial time (see the entry on computational complexity theory for the concept of an NP-complete problem), so the efficiency of quantum computers relative to classical computers could turn out to be illusory. If there is indeed a speed-up, it would seem to be due to the phenomenon of entanglement. The amount of information required to describe a general entangled state of $n$ qubits grows exponentially with $n$. The state space (Hilbert space) has $2^n$ dimensions, and a general entangled state is a superposition of $2^n$ $n$-qubit states. In classical mechanics there are no entangled states: a general $n$-bit composite system can be described with just $n$ times the amount of information required to describe a single bit system. So the classical simulation of a quantum process would involve an exponential increase in the classical informational resource required to represent the quantum state, as the number of qubits that become entangled in the evolution grows linearly, and there would be a corresponding exponential slowdown in calculating the evolution, compared to the actual quantum computation performed by the system.
+    step1: |-
+      注意，目前还没有证明表明量子算法能在多项式时间内解决一个 NP 完全问题（关于 NP 完全问题的概念，见关于计算复杂性理论的词条），因此量子计算机相对于经典计算机的效率可能最终被证明是虚幻的。如果确实存在加速，那似乎要归因于纠缠现象。描述 $n$ 个量子比特的一般纠缠态所需的信息量随 $n$ 呈指数增长。状态空间（希尔伯特空间）有 $2^n$ 个维度，而一般纠缠态是 $2^n$ 个 $n$ 量子比特态的叠加。经典力学中没有纠缠态：一个一般的 $n$ 比特复合系统，只需用描述单个比特系统所需信息量的 $n$ 倍就能描述。于是，对量子过程的经典模拟将要求表示该量子态所需的经典信息资源呈指数增长（因为演化过程中变得纠缠的量子比特数线性增长），并且与系统实际执行的量子计算相比，计算该演化的速度会有相应的指数级下降。
+    step2: |-
+      要注意，迄今还没有证据表明量子算法能在多项式时间内求解 NP 完全问题（NP 完全问题的概念见关于计算复杂性理论的词条），所以量子计算机相对于经典计算机的效率，到头来也许只是幻觉。若真有加速，那看来应归功于纠缠现象。描述 $n$ 个量子比特的一般纠缠态，所需信息量随 $n$ 指数增长。状态空间（希尔伯特空间）是 $2^n$ 维的，一般纠缠态是 $2^n$ 个 $n$ 量子比特态的叠加。经典力学里没有纠缠态：一个一般的 $n$ 比特复合系统，只需描述单个比特系统所需信息量的 $n$ 倍即可描述。因此，对量子过程作经典模拟时，随着演化中纠缠起来的量子比特数线性增长，表示该量子态所需的经典信息资源将指数增长，计算该演化的速度也会相应指数级变慢——这是与实际由系统执行的量子计算相比。
+  - id: 41
+    kind: body
+    source: |-
+      ## 6. Interpretative Remarks
+    step1: |-
+      ## 6. 解释性评论
+    step2: |-
+      ## 6 解释性评论
+  - id: 42
+    kind: body
+    source: |-
+      Deutsch (1997) has argued that the exponential speed-up in quantum computation, and in general the way a quantum system processes information, can only be properly understood within the framework of Everett’s ‘many-worlds’ interpretation (see the entries on Everett’s relative-state formulation of quantum mechanics and the many-worlds interpretation of quantum mechanics). The idea, roughly, is that an entangled state of the sort that arises in the quantum computation of a function, which represents a linear superposition over all possible arguments and corresponding values of the function, should be understood as something like a massively parallel classical computation, for all possible values of the function, in parallel worlds. For an insightful critique of this idea of ‘quantum parallelism’ as explanatory, see Steane 2003.
+    step1: |-
+      多伊奇（1997）论证说，量子计算中的指数级加速，以及一般而言量子系统处理信息的方式，只有在埃弗雷特“多世界”诠释的框架内才能得到恰当理解（参见关于埃弗雷特量子力学相对态表述的词条，以及关于量子力学多世界诠释的词条）。粗略地说，这个想法是：在函数量子计算中出现的那类纠缠态——它表示对该函数所有可能自变量及对应值的一个线性叠加——应当被理解为某种类似大规模并行的经典计算，即在诸平行世界中对该函数所有可能取值并行计算。关于“量子并行”这一解释性想法的一种富有洞见的批评，见 Steane 2003。
+    step2: |-
+      多伊奇（1997）主张，量子计算中的指数级加速，乃至量子系统处理信息的方式，只有在埃弗雷特的“多世界”诠释框架内才能得到恰当理解（见关于埃弗雷特量子力学相对态表述的词条，以及关于量子力学多世界诠释的词条）。粗略地说，其想法是：函数量子计算中出现的那类纠缠态，表示该函数所有可能自变量与对应值的线性叠加，应当被理解为一种大规模的并行经典计算，即在各个平行世界中对该函数的一切可能取值同时进行计算。对“量子并行”这种解释思路的犀利批评，见 Steane 2003。
+  - id: 43
+    kind: body
+    source: |-
+      An alternative view emphasizes the non-Boolean structure of properties of quantum systems. The properties of a classical system form a Boolean algebra, essentially the abstract characterization of a set-theoretic structure. This is reflected in the Boolean character of classical logic, and the Boolean gates in a classical computer. From this perspective, the picture is entirely different. Rather than ‘computing all values of a function at once,’ a quantum algorithm achieves an exponential speed-up over a classical algorithm by computing the answer to a disjunctive or global question about a function (e.g., whether a Boolean function is constant or balanced) without computing redundant information (e.g., the output values for different inputs to the function). A crucial difference between quantum and classical information is the possibility of selecting an exclusive disjunction, representing a global property of a function, among alternative possible disjunctions — for example, the ‘constant’ disjunction asserting that the value of the function (for both arguments) is 0 *or* 1, or the ‘balanced’ disjunction asserting that the value of the function (for both arguments) is the same as the argument *or* different from the argument — without determining the truth values of the disjuncts.
+    step1: |-
+      另一种观点强调量子系统属性的非布尔结构。经典系统的属性构成一个布尔代数，本质上是一种集合论结构的抽象刻画。这体现在经典逻辑的布尔性质以及经典计算机中的布尔门之中。从这个视角看，图景完全不同。量子算法并不是“一次算出函数的全部取值”，而是通过计算关于某个函数的一个析取问题或全局问题的答案（例如某个布尔函数是常量还是平衡的），同时不计算冗余信息（例如该函数不同输入对应的输出值），从而取得相对于经典算法的指数级加速。量子信息与经典信息的一个关键差别在于：可以在若干备选的可能析取中选定一个排他性析取，用它来表示函数的某个全局性质——例如“常量”析取，断言该函数的值（对两个自变量）是 0 *或* 1；或“平衡”析取，断言该函数的值（对两个自变量）与自变量相同 *或* 不同于自变量——而不必确定各析取项的真理值。
+    step2: |-
+      另一种观点着眼于量子系统属性的非布尔结构。经典系统的属性构成一个布尔代数，实质上是集合论结构的一种抽象刻画；经典逻辑的布尔性质、经典计算机里的布尔门，都是这一点的体现。从这个角度看，图景就完全不同了。量子算法并不“一次算出函数的全部取值”，而是去算关于某函数的一个析取问题或全局问题的答案（例如某布尔函数是常量还是平衡的），同时不计算冗余信息（例如该函数各不同输入所对应的输出值），由此获得相对于经典算法的指数级加速。量子信息与经典信息的一个关键差别是：可以在若干备选的可能析取之中选定一个排他性析取，用来表示函数的某个全局性质——例如“常量”析取，断言该函数的值（对两个自变量而言）为 0 *或* 1；又如“平衡”析取，断言该函数的值（对两个自变量而言）与自变量相同 *或* 不同于自变量——却不必确定各个析取项的真理值。
+  - id: 44
+    kind: body
+    source: |-
+      Classically, an exclusive disjunction is true if and only if one of the disjuncts is true. Deutsch’s quantum circuit achieves its speed-up by exploiting the non-Boolean structure of quantum properties to efficiently distinguish between two disjunctive properties, without determining the truth values of the relevant disjuncts (representing the association of individual inputs to the function with corresponding outputs). The point of the procedure is to avoid the evaluation of the function for specific inputs in the determination of the global property, and it is this feature — impossible in the Boolean logic of classical computation — that leads to the speed-up relative to classical algorithms. (For quantum logic not specifically in relation to quantum computation, see the entry on quantum logic and quantum probability).
+    step1: |-
+      经典地，一个排他性析取为真，当且仅当其中一个析取项为真。多伊奇的量子电路取得加速，靠的是利用量子属性的非布尔结构，高效地区分两个析取性质，而不确定相关析取项的真理值（这些析取项代表函数的个别输入与对应输出之间的关联）。该程序的要求在于：在确定全局性质时避免对特定输入求函数值；正是这一特征——在经典计算的布尔逻辑中不可能——带来了相对于经典算法的加速。（若要不针对量子计算、专门讨论量子逻辑，见关于量子逻辑与量子概率的词条。）
+    step2: |-
+      在经典逻辑中，排他性析取为真，当且仅当其中一个析取项为真。多伊奇的量子电路之所以加速，靠的是利用量子属性的非布尔结构，高效区分两个析取性质，而不必确定相关析取项的真假（这些析取项代表函数个别输入与对应输出之间的关联）。这套程序的关键，就是在确定全局性质时绕开对特定输入的函数求值；正是这一在经典计算的布尔逻辑中办不到的特征，带来了相对于经典算法的加速。（若想不涉量子计算、专门了解量子逻辑，见关于量子逻辑与量子概率的词条。）
+  - id: 45
+    kind: body
+    source: |-
+      Some researchers in quantum information and quantum computation have argued for an information-theoretic interpretation of quantum mechanics. In his review article on quantum computation, Andrew Steane (1998, p. 119) makes the following remark:
+    step1: |-
+      量子信息与量子计算领域的一些研究者主张对量子力学作信息论的诠释。Andrew Steane 在其关于量子计算的综述文章（1998, p. 119）中作了如下评论：
+    step2: |-
+      量子信息与量子计算领域的一些研究者，力主对量子力学作信息论的诠释。Andrew Steane 在关于量子计算的综述文章（1998, p. 119）中评论道：
+  - id: 46
+    kind: body
+    source: |-
+      > Historically, much of fundamental physics has been concerned with discovering the fundamental particles of nature and the equations which describe their motions and interactions. It now appears that a different programme may be equally important: to discover the ways that nature allows, and prevents, *information* to be expressed and manipulated, rather than particles to move.
+    step1: |-
+      > 从历史上看，基础物理学的很大一部分一直致力于发现自然的基本粒子，以及描述其运动与相互作用的方程。现在看来，另一项纲领可能同样重要：去发现自然以何种方式允许、又以何种方式阻止*信息*被表达和被操纵，而不只是粒子的运动。
+    step2: |-
+      > 历来，基础物理学的很大一部分工作，是发现自然的基本粒子以及描述其运动与相互作用的方程。如今看来，另一项纲领或许同样重要：去弄清自然如何允许、又如何阻止*信息*被表达与操纵，而不只是粒子如何运动。
+  - id: 47
+    kind: body
+    source: |-
+      Steane concludes his review with the following radical proposal (1998, p. 171):
+    step1: |-
+      Steane 在综述结尾提出了如下激进的纲领（1998, p. 171）：
+    step2: |-
+      Steane 在综述末尾提出了这样一个激进的构想（1998, p. 171）：
+  - id: 48
+    kind: body
+    source: |-
+      > To conclude with, I would like to propose a more wide-ranging theoretical task: to arrive at a set of principles like energy and momentum conservation, but which apply to information, and from which much of quantum mechanics could be derived. Two tests of such ideas would be whether the EPR-Bell correlations thus became transparent, and whether they rendered obvious the proper use of terms such as ‘measurement’ and ‘knowledge’.
+    step1: |-
+      > 最后，我想提出一项范围更广的理论任务：达到一组类似能量守恒与动量守恒的原理，但它们适用于信息，并且量子力学的许多内容都可以从它们推导出来。检验这类想法有两个标准：EPR-贝尔关联是否因此变得透明，以及它们是否使“测量”与“知识”这类术语的恰当用法变得显然。
+    step2: |-
+      > 最后，我想提出一项范围更广的理论任务：找到一组类似能量守恒、动量守恒的原理，但它们管的是信息，而量子力学的许多内容都可以从它们推出来。检验这类想法，只看两点：EPR-贝尔关联是否因此变得一目了然；“测量”“知识”这类术语的恰当用法，是否也因此变得显然。
+  - id: 49
+    kind: body
+    source: |-
+      There has been considerable research in the framework of so-called ‘generalized probability theories’ or ‘Boxworld’ on the problem of what information-theoretic constraints in the class of ‘no signaling’ theories would characterize quantum theories. See Brassard 2005, van Dam 2005, Skrzypczyk, Brunner, and Popescu 2009, Pawlowski *et al*. 2009, Allcock *et al*. 2009, Navascues and Wunderlich 2009, Al–Safi and Short 2013, Ramanathan *et al* 2010, and Ringbauer *et al* (2014) for interesting results along these lines. Chiribella and Spekkens 2016 is a collection of articles based on a conference at the Perimeter institute of Theoretical Physics in Waterloo, Canada on new research at the interface of quantum foundations and quantum information. See Fuchs 2014 and the entry on quantum-Bayesian and pragmatist views of quantum theory for a discussion of QBism, a radically subjectivist information-theoretic perspective.
+    step1: |-
+      在所谓“广义概率论”或“Boxworld”的框架内，已有相当多的研究探讨这样一个问题：在“无信号传递”理论这一类中，哪些信息论约束会刻画量子理论。沿着这条思路的有趣结果，见 Brassard 2005，van Dam 2005，Skrzypczyk, Brunner, and Popescu 2009，Pawlowski *et al*. 2009，Allcock *et al*. 2009，Navascues and Wunderlich 2009，Al–Safi and Short 2013，Ramanathan *et al* 2010，以及 Ringbauer *et al*（2014）。Chiribella and Spekkens 2016 是一本论文集，源自加拿大滑铁卢圆周理论物理研究所的一次会议，讨论量子基础与量子信息交界处的新研究。关于 QBism 这一彻底主观主义的信息论视角的讨论，见 Fuchs 2014 以及关于量子贝叶斯式与实用主义式量子理论观点的词条。
+    step2: |-
+      在所谓“广义概率论”或“Boxworld”框架里，已有大量研究追问：在“无信号传递”理论这一类中，究竟哪些信息论约束能够刻画量子理论。这方面的有趣结果见 Brassard 2005、van Dam 2005、Skrzypczyk, Brunner, and Popescu 2009、Pawlowski *et al*. 2009、Allcock *et al*. 2009、Navascues and Wunderlich 2009、Al–Safi and Short 2013、Ramanathan *et al* 2010 以及 Ringbauer *et al*（2014）。Chiribella and Spekkens 2016 是一部论文集，出自加拿大滑铁卢圆周理论物理研究所的一次会议，议题是量子基础与量子信息交界处的新研究。关于 QBism 这一极端主观主义的信息论视角，见 Fuchs 2014 以及关于量子贝叶斯式与实用主义式量子理论观点的词条。
+  - id: 50
+    kind: oir
+    source: |-
+      - [arXiv E-print Archive for Quantum Physics](http://arxiv.org/find/quant-ph).
+      - [Todd Brun’s Lecture Notes on Quantum Information Processing](http://www-bcf.usc.edu/~tbrun/Course/index.html).
+      - [John Preskill’s Course on Quantum Information and Computation](http://www.theory.caltech.edu/~preskill/ph219/ph219_2018-19).
+      - [Oxford Quantum](http://oxfordquantum.org), Oxford University.
+      - [Institute for Quantum Optics and Quantum Information](http://www.iqoqi-vienna.at), Austrian Academy of Sciences.
+      - [GAP-Optique](https://www.unige.ch/gap/quantum/start), University of Geneva.
+      - [Centre for Quantum Technologies](http://www.quantumlah.org), University of Singapore.
+      - [Joint Quantum Institute](http://jqi.umd.edu), University of Maryland.
+      - [The Dream Machine](http://www.newyorker.com/magazine/2011/05/02/dream-machine), *New Yorker* article on quantum computing, 2011.
+      - [New Quantum Theory Could Explain the Flow of Time](http://www.wired.com/2014/04/quantum-theory-flow-time/), article in *Wired*, 2014, reprinted from *Quanta Magazine*.
+      - [Spooky Actions at a Distance?](https://www.youtube.com/watch?gl=IT&hl=it&v=ta09WXiUqcQ), David Mermin’s Oppenheimer Lecture.
+    step1: |-
+      - [量子物理学 arXiv 电子预印本档案](http://arxiv.org/find/quant-ph)。
+      - [Todd Brun 的量子信息处理讲义](http://www-bcf.usc.edu/~tbrun/Course/index.html)。
+      - [John Preskill 的量子信息与计算课程](http://www.theory.caltech.edu/~preskill/ph219/ph219_2018-19)。
+      - [牛津量子](http://oxfordquantum.org)，牛津大学。
+      - [量子光学与量子信息研究所](http://www.iqoqi-vienna.at)，奥地利科学院。
+      - [GAP-Optique](https://www.unige.ch/gap/quantum/start)，日内瓦大学。
+      - [量子技术中心](http://www.quantumlah.org)，新加坡大学。
+      - [联合量子研究所](http://jqi.umd.edu)，马里兰大学。
+      - [造梦机器](http://www.newyorker.com/magazine/2011/05/02/dream-machine)，*New Yorker* 关于量子计算的文章，2011 年。
+      - [新量子理论或可解释时间的流动](http://www.wired.com/2014/04/quantum-theory-flow-time/)，*Wired* 文章，2014 年，转载自 *Quanta Magazine*。
+      - [幽灵般的超距作用？](https://www.youtube.com/watch?gl=IT&hl=it&v=ta09WXiUqcQ)，David Mermin 的奥本海默讲座。
+    step2: |-
+      - [量子物理 arXiv 电子预印本库](http://arxiv.org/find/quant-ph)。
+      - [Todd Brun 的量子信息处理讲义](http://www-bcf.usc.edu/~tbrun/Course/index.html)。
+      - [John Preskill 的量子信息与计算课程](http://www.theory.caltech.edu/~preskill/ph219/ph219_2018-19)。
+      - [Oxford Quantum](http://oxfordquantum.org)，牛津大学。
+      - [量子光学与量子信息研究所](http://www.iqoqi-vienna.at)，奥地利科学院。
+      - [GAP-Optique](https://www.unige.ch/gap/quantum/start)，日内瓦大学。
+      - [量子技术中心](http://www.quantumlah.org)，新加坡大学。
+      - [联合量子研究所](http://jqi.umd.edu)，马里兰大学。
+      - [《造梦机器》](http://www.newyorker.com/magazine/2011/05/02/dream-machine)，*New Yorker* 刊载的量子计算文章，2011 年。
+      - [《新量子理论或可解释时间的流动》](http://www.wired.com/2014/04/quantum-theory-flow-time/)，*Wired* 刊载的文章，2014 年，转载自 *Quanta Magazine*。
+      - [《幽灵般的超距作用？》](https://www.youtube.com/watch?gl=IT&hl=it&v=ta09WXiUqcQ)，David Mermin 的奥本海默讲座。

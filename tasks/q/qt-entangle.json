@@ -2,8 +2,44 @@
   "slug": "qt-entangle",
   "kind": "retranslate",
   "zh_doc": "q/qt-entangle.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T19:29:31Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "qr-translator-3",
+      "at": "2026-11-08T22:07:36Z",
+      "evidence": "账本 50 段双版填齐（body 49 + oir 1，分 p1 段1-14/p2 段15-30/p3 段31-50 三批写入）；lq.py check 守恒通过 HARD 0/SOFT 0；compose --write 落盘 22611 字符；斜体转粗 12 行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "qr-translator-3",
+      "at": "2026-11-08T22:08:26Z",
+      "evidence": "对照 yuanwen 逐节核销 6 节：H1/版本行与 baseline pubinfo 一致（2001-08-13 首版；2023-05-02 实质修订）；引注组比对 28→30，差异 2 处为全角括号内译出「见 The Born-Einstein Letters…第 218 页」「见 Ekert, 1991」，无新增/臆造引注；正文数字 51 类逐类对上（唯一差异 four→四种）；脚注键 yin-2017/kent-1999 逐段守恒；6 节标题编号齐备无增删；残留英文仅刊名/书名/作者引注；源侧不一致照录留痕（正文 Herbst et al 2014 vs 文献 [^herbst-2015] 2015，未擅改）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "qr-translator-3",
+      "at": "2026-11-08T22:12:01Z",
+      "evidence": "check_prose 告警清零（两轮共 48 处逐处精确修订，脚本 script/qr_s2_qt-entangle.py 38 处 + script/qr_s2b_qt-entangle.py 10 处，均为唯一命中替换非正则批量）：长句拆分 20+/去「的」链 12/消双被动 4/弱动词 3/去「存在着」1；改后 check_style 0 issue、check_prose 0 告警"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "qr-translator-3",
+      "at": "2026-11-08T22:26:29Z",
+      "evidence": "check_style 0 issue；check_academic --docs q/qt-entangle.md --strict 0 硬错误（非存根 1，在途豁免 1）；check_math missing 0/unbalanced 1 为 yuanwen 侧伪报（货币启发式把 \\, \\\\pi/8...\\$ 的 \\, 当金额剥除，bell-theorem 同报，产物无失真）；相关词条未匹配 1 项已回 SUMMARY 修正为「汉斯·赖兴巴赫的共同原因原理」（p/physics-Rpcc.md）；术语登记 48 条、人名 14 条已 reg_tool 入库（未 stage）"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-08T18:26:14Z",
   "version_pin": {
