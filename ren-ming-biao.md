@@ -899,6 +899,26 @@
 | Rudolph Haym | — | 鲁道夫·海姆 | — | — | bauer | 学界通行汉译（《黑格尔及其时代》作者）；书目形 Rudolf Haym | 2026-11-08 |
 | Stahl | — | 施塔尔 | — | — | bauer | 学界通行音译（保守派法学家 F.J. Stahl） | 2026-11-08 |
 | Wagener | — | 瓦格纳 | — | — | bauer | 学界通行音译（《国家与社会辞典》主编 F.W.H. Wagener，与作曲家 Wagner 异人） | 2026-11-08 |
+| Diagoras | — | 狄亚戈拉斯 | — | — | bayle | 学界通行汉译（古希腊无神论者，《神圣者》佚） | 2026-11-08 |
+| Euhemerus | — | 欧赫墨罗斯 | — | — | bayle | 学界通行汉译（神话解释论作者） | 2026-11-08 |
+| Hippo | — | 希波 | — | — | bayle | 学界通行音译（据培尔记载的古代无神论者之一） | 2026-11-08 |
+| Nicanor | — | 尼卡诺尔 | — | — | bayle | 学界通行音译（据培尔记载的古代无神论者之一） | 2026-11-08 |
+| Vanini, Lucilio | — | 卢奇利奥·瓦尼尼 | — | — | bayle | 学界通行音译；与 Vanini, Giulio Cesare 为同人异名（受洗名/改名），telesio 批已登后者 | 2026-11-08 |
+| Zoroaster | — | 琐罗亚斯德 | — | — | bayle | 学界通行汉译（波斯宗教创始人；培尔虚构化对话者） | 2026-11-08 |
+| Jurieu, Pierre | — | 皮埃尔·朱里厄 | — | — | bayle | 学界通行音译（培尔论敌，鹿特丹墙外神学家） | 2026-11-08 |
+| Bruguière, Jane de | — | 简·德·布吕吉埃 | — | — | bayle | 培尔之母，学界通行音译 | 2026-11-08 |
+| Labrousse, Elisabeth | — | 伊丽莎白·拉布鲁斯 | — | — | bayle | 学界通行汉译（培尔研究奠基学者） | 2026-11-08 |
+| Solère, Jean-Luc | — | 让-吕克·索莱尔 | — | — | bayle | 学界通行音译（中世纪良心论与培尔研究者） | 2026-11-08 |
+| Popkin, Richard | — | 理查德·波普金 | — | — | bayle | 学界通行汉译（怀疑论史家） | 2026-11-08 |
+| Israel, Jonathan | — | 乔纳森·伊斯雷尔 | — | — | bayle | 学界通行汉译（激进启蒙运动史家） | 2026-11-08 |
+| Lennon, Thomas | — | 托马斯·列侬 | — | — | bayle | 学界通行音译（《阅读培尔》作者） | 2026-11-08 |
+| Mori, Gianluca | — | 詹卢卡·莫里 | — | — | bayle | 学界通行音译（《培尔哲学家》作者） | 2026-11-08 |
+| Ryan, Todd | — | 托德·瑞安 | — | — | bayle | 学界通行音译（培尔笛卡尔主义研究） | 2026-11-08 |
+| McKenna, Antony | — | 安东尼·麦肯纳 | — | — | bayle | 学界通行音译（培尔通信集主编） | 2026-11-08 |
+| Maia Neto, José R. | — | 若泽·R. 迈亚·内托 | — | — | bayle | 学界通行音译（学院派怀疑论研究） | 2026-11-08 |
+| Le Clerc, Jean | — | 让·勒克莱尔 | — | — | bayle | 学界通行音译（培尔论敌，理性主义神学家） | 2026-11-08 |
+| Jaquelot, Isaac | — | 伊萨克·雅克洛 | — | — | bayle | 学界通行音译（培尔论敌，神义论作者） | 2026-11-08 |
+| Ramsay, Michael | — | 迈克尔·拉姆齐 | — | — | bayle | 学界通行音译（休谟 1737 年通信对象） | 2026-11-08 |
 
 ## 伊斯兰阿拉伯人物（ADR-0013 种子区，2026-10-28）
 
@@ -1886,7 +1906,7 @@
 | Husserl, Edmund | — | 埃德蒙德·胡塞尔 | — | — | intentionality-ancient | 学界千年通行汉译 | 2026-11-07 |
 | Theaetetus | — | 泰阿泰德 | — | — | intentionality-ancient | 学界通行汉译（柏拉图对话人物） | 2026-11-07 |
 | Critias | — | 克里提亚 | — | — | intentionality-ancient | 学界通行汉译（柏拉图对话人物） | 2026-11-07 |
-| Theodorus | — | 泰奥多洛 | — | — | intentionality-ancient | 学界通行汉译（昔兰尼数学家，对话人物） | 2026-11-07 |
+| Theodorus | — | 泰奥多洛（亦作泰奥多鲁斯） | — | — | intentionality-ancient | 学界通行汉译（昔兰尼数学家，对话人物）；bayle 正文用泰奥多鲁斯（通行 -os 尾形） | 2026-11-07 |
 | Clement of Alexandria | — | 亚历山大的克雷芒 | — | — | intentionality-ancient | 教父学通行汉译 | 2026-11-07 |
 | Abner of Burgos | — | 布尔戈斯的阿布内尔 | — | — | crescas | 学界通行中译（14 世纪叛教者，亦名 Alfonso de Valladolid）；凭证 2026-11-08 | 2026-11-08 |
 | Nissim of Gerondi | — | 赫罗纳的尼西姆 | — | — | crescas | 学界通行中译（14 世纪拉比，克雷斯卡斯之师）；凭证 2026-11-08 | 2026-11-08 |
