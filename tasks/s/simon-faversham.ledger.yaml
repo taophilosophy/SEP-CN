@@ -142,74 +142,98 @@ segments:
     kind: body
     source: |-
       ## 3. Logic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 逻辑学
+    step2: |-
+      ## 3 逻辑学
   - id: 12
     kind: body
     source: |-
       ### 3.1 The Subject Matter and the Division of Logic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 逻辑的主题与逻辑的划分
+    step2: |-
+      ### 3.1 逻辑的主题与划分
   - id: 13
     kind: body
     source: |-
       Like most thirteenth-century commentators on the *logica vetus* (Boethius’s Latin translations of Porphyry’s *Isagoge* and Aristotle’s *Categories* and *De interpretatione*, together with Boethius’s commentaries on these texts), Simon of Faversham begins his commentary with a prologue, which treats of the subject matter of logic and the division of logic, corresponding to the division of Aristotle’s *Organon* into eight(!) treatises.[^note-4]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      像十三世纪大多数《旧逻辑》（*logica vetus*，即波爱修斯对波菲利《导论》以及亚里士多德《范畴篇》《解释篇》的拉丁译本，连同波爱修斯对这些文本的注释）的注释者一样，法弗舍姆的西蒙以一篇序言开始其注释；序言讨论逻辑的主题与逻辑的划分，后者对应于把亚里士多德《工具论》分为八（！）种论著的做法。[^note-4]
+    step2: |-
+      与十三世纪大多数《旧逻辑》（*logica vetus*：波爱修斯所译波菲利《导论》与亚里士多德《范畴篇》《解释篇》的拉丁译本，连同波爱修斯对这些文本的注释）的注释者一样，法弗舍姆的西蒙也以一篇序言开篇。这篇序言讨论逻辑的主题与逻辑的划分，而后者对应的是把亚里士多德《工具论》分为八（！）种论著的做法。[^note-4]
   - id: 14
     kind: body
     source: |-
       Like other masters from the last quarter of the thirteenth-century such as Radulphus Brito, Simon considers the subject matter of logic to be the methods of knowledge acquisition (*modi sciendi*): the intellectual operations whereby we can proceed from something known to the knowledge of something unknown. These methods are definition, division, and, most importantly, the syllogism (*In Isag*.: prologue). Accordingly, logic is neither a purely theoretical science, as it does not consider essences or quiddities, nor a purely practical science, as its aim is not practical action. As a science, logic is instrumental to the proper functioning of the theoretical sciences (*In Isag.*: q.1).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与十三世纪最后四分之一的其他硕士如拉杜尔夫·布里托一样，西蒙认为逻辑的主题是获取知识的方法（*modi sciendi*）：即我们借以从已知之物推进到对未知之物之知识的那些理智操作。这些方法就是定义、划分，以及最重要的三段论（*In Isag.*：序言）。据此，逻辑既不是纯粹的理论科学，因为它不考虑本质或什么性；也不是纯粹的实践科学，因为其目的不是实践行动。作为一门科学，逻辑对于理论科学的正常运作具有工具性（*In Isag.*：q.1）。
+    step2: |-
+      与拉杜尔夫·布里托等十三世纪最后四分之一的硕士一样，西蒙把逻辑的主题定为获取知识的方法（*modi sciendi*），即我们借以从已知之物推进到未知之知的那些理智操作。这些方法就是定义、划分，以及最重要的三段论（*In Isag.*：序言）。据此，逻辑既不是纯粹的理论科学——它不考虑本质或什么性；也不是纯粹的实践科学——其目的不在实践行动。作为一门科学，逻辑是理论科学正常运作的工具（*In Isag.*：q.1）。
   - id: 15
     kind: body
     source: |-
       As was commonly the case at this time in the thirteenth century, Simon also holds that logic is about logical intentions (cf. *In Isag.*: q.2). But his logic of intentions is not nearly as developed as that of the later Parisian master Radulphus Brito. Logical intentions are notions that can be applied to the knowledge of what things are essentially, i.e., quiddities. According to Simon, the intellect forms these intentions from the ways things present themselves to it (i.e., from *apparentia*). Thereafter, the intellect attributes different intentions to different things according to different properties. For instance, after having noticed that some ways of being are common to several things, the intellect forms the logical intention *species*, after which the intellect can apply this intention to the concept of man and express this act with the assertion ‘man is a species’. Consequently, despite not being a theoretical science, logic is ultimately grounded in the properties of the things from which logical intentions are taken (*In Isag*.: q.2).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如十三世纪此一时期的常见情形，西蒙也主张逻辑研究的是逻辑意向（参 *In Isag.*：q.2）。但他的意向逻辑远不如后来的巴黎硕士拉杜尔夫·布里托那样发达。逻辑意向是可以应用于认识事物本质上是什么（即什么性）的概念。据西蒙，理智从事物向它呈现自身的方式（即从 *apparentia*［显现］）形成这些意向。此后，理智依不同属性把不同意向赋予不同事物。例如，在注意到某些存在方式为若干事物所共有之后，理智形成逻辑意向 *species*（种），随后理智可以把这一意向应用于人的概念，并以“人是种”这一断言表达该活动。因此，尽管逻辑不是理论科学，它归根到底植根于从中提取逻辑意向的事物的属性（*In Isag.*：q.2）。
+    step2: |-
+      正如那个时代的常见情形，西蒙也主张逻辑研究的是逻辑意向（参 *In Isag.*：q.2）。不过，他的意向逻辑远不及后来的巴黎硕士拉杜尔夫·布里托发达。逻辑意向是可以用于认识事物本质上是什么（即什么性）的概念。按西蒙的说法，理智从事物向它呈现自身的方式（即从 *apparentia*［显现］）形成这些意向，随后再依不同属性把不同的意向赋予不同事物。例如，理智一旦注意到某些存在方式为若干事物所共有，便形成逻辑意向 *species*（种）；此后它可以把这一意向用于人的概念，并以“人是种”这一断言表达该活动。于是，逻辑虽非理论科学，却归根到底植根于它据以提取逻辑意向的事物的属性（*In Isag.*：q.2）。
   - id: 16
     kind: body
     source: |-
       As regards the division of logic, which is more precisely a division of the syllogism, Simon’s commentary is noteworthy in one regard: following in the footsteps of Giles of Rome and the Arabic logical tradition, Simon considers rhetoric and poetics to be parts of logic, i.e., to function by way of syllogisms. Different types of syllogism are demarcated based on the varying degrees of certainty of the premises (*In Isag*.: prologue). Hence, if the premises are accepted as mere suspicion (*suspicio),*[^note-5] the syllogism is rhetorical and the conclusion will also be accepted as mere suspicion (a syllogism dealt with in the *Rhetoric*). If it “proceeds from fictitious premises that portray horror or pleasure” (*In Isag*.: prologue), the syllogism is poetic and the conclusion will be accepted as an estimation (*aestimatio*) (a syllogism dealt with in the *Poetics*). If the syllogism proceeds from acceptable premises, the syllogism is dialectical and the conclusion will be an acceptable belief (a syllogism dealt with in the *Topics*). If it proceeds from the indubitable indemonstrable principles proper to a given science, the syllogism is demonstrative and the conclusion will be certain and infallible knowledge (a syllogism dealt with in the *Posterior Analytics*). Finally, if it proceeds from knowledge that seems acceptable, but is not, the syllogism is sophistical and the conclusion will be an error (*deceptio*) (a syllogism dealt with in the *Sophistical Refutations*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      至于逻辑的划分——更确切地说是三段论的划分——西蒙的注释有一点值得注意：他追随罗马的吉莱斯与阿拉伯逻辑传统，认为修辞学与诗学是逻辑的部分，即以三段论方式运作。不同类型的三段论依前提确定性的不同程度而划界（*In Isag.*：序言）。因此，若前提仅作为疑念（*suspicio*）被接受[^note-5]，三段论就是修辞式的，结论也将仅作为疑念被接受（《修辞学》所处理的三段论）。若它“从描绘恐怖或快乐的虚构前提推出”（*In Isag.*：序言），三段论就是诗学的，结论将作为估计（*aestimatio*）被接受（《诗学》所处理的三段论）。若三段论从可接受的前提推出，它就是辩证式的，结论将是可接受的信念（《论题篇》所处理的三段论）。若它从某一门科学所固有的、不可怀疑的不可证明原理推出，三段论就是证明式的，结论将是确定而无误的知识（《后分析篇》所处理的三段论）。最后，若它从看来可接受而其实并非如此的知识推出，三段论就是诡辩式的，结论将是错误（*deceptio*）（《辩谬篇》所处理的三段论）。
+    step2: |-
+      至于逻辑的划分——更确切地说，是三段论的划分——西蒙的注释有一点值得注意：他追随罗马的吉莱斯与阿拉伯逻辑传统，把修辞学与诗学也算作逻辑的部分，即认为二者以三段论方式运作。不同类型的三段论，依前提确定性的高低而划界（*In Isag.*：序言）。所以，前提若仅作为疑念（*suspicio*）被接受[^note-5]，三段论便是修辞式的，结论也只作为疑念被接受（《修辞学》所论的三段论）。它若“从描绘恐怖或快乐的虚构前提推出”（*In Isag.*：序言），三段论便是诗学的，结论作为估计（*aestimatio*）被接受（《诗学》所论的三段论）。三段论若从可接受的前提推出，便是辩证式的，结论成为可接受的信念（《论题篇》所论的三段论）。它若从某门科学固有的、不可怀疑的不可证明原理推出，三段论便是证明式的，结论成为确定而无误的知识（《后分析篇》所论的三段论）。最后，它若从看来可接受、实则并非如此的知识推出，三段论便是诡辩式的，结论成为错误（*deceptio*）（《辩谬篇》所论的三段论）。
   - id: 17
     kind: body
     source: |-
       In addition to this division of syllogistic reasoning into five types, logic also studies the formal underpinnings of syllogistic reasoning, which is analysed in terms of the moods and figures of Aristotelian syllogistic developed in the *Prior Analytics*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了把三段论推理划分为五种类型，逻辑还研究三段论推理的形式基础，这一基础依《前分析篇》所发展的亚里士多德三段论的式与格来分析。
+    step2: |-
+      除把三段论推理分为五类之外，逻辑还研究三段论推理的形式基础；这一基础是依《前分析篇》所建立的亚里士多德三段论的式（moods）与格（figures）来分析的。
   - id: 18
     kind: body
     source: |-
       Finally, logic is also concerned with the simple notions out of which syllogistic premises are composed. In the *Categories*, those simple notions are considered insofar as they are related to the category of being. In the *De interpretatione*, those same notions are considered insofar as they are the subjects and predicates of mental compositions and divisions, i.e., mental assertions (*In Isag*.: prologue).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，逻辑也关涉构成三段论前提的单纯概念。在《范畴篇》中，那些单纯概念是就其与存在范畴的关系而被考察的。在《解释篇》中，同一批概念是就其为心灵组合与划分——即心灵断言——的主项与谓项而被考察的（*In Isag.*：序言）。
+    step2: |-
+      最后，逻辑还关涉构成三段论前提的那些单纯概念。在《范畴篇》里，这些单纯概念是就其与存在范畴的关系来考察的；在《解释篇》里，同一批概念则是就其作为心灵组合与划分（即心灵断言）的主项与谓项来考察的（*In Isag.*：序言）。
   - id: 19
     kind: body
     source: |-
       ### 3.2 Signification
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 意谓
+    step2: |-
+      ### 3.2 意谓
   - id: 20
     kind: body
     source: |-
       Simon also contributes to the medieval discussion about the signification of words—whether they signify things or concepts—a discussion prompted by Aristotle’s claim in the first chapter of the *De interpretatione* that words signify concepts. Simon clearly opposes the Boethian tradition, which defends the immediate signification of concepts, and sides with those who claim that words signify things.[^note-6]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      西蒙也参与了中世纪关于语词意谓的讨论——语词意谓事物还是概念——这场讨论由亚里士多德在《解释篇》第一章中“语词意谓概念”的主张引发。西蒙明确反对波爱修斯传统（该传统捍卫概念的直接意谓），并站在主张语词意谓事物的一边。[^note-6]
+    step2: |-
+      西蒙也加入了中世纪关于语词意谓的争论：语词所意谓的究竟是事物还是概念？这场争论由亚里士多德在《解释篇》第一章的“语词意谓概念”一说引发。西蒙明确站在波爱修斯传统的对立面——该传统捍卫概念的直接意谓——而与主张语词意谓事物的人为伍。[^note-6]
   - id: 21
     kind: body
     source: |-
       Following a division first attested in Porphyry, Simon divides words into words of first and second imposition. Words of first imposition are given as names of essences, which have being independently of a knowing subject. Words of second imposition are given as names of logical intentions, the being of which depends on a knowing subject. Words of second imposition clearly signify concepts, so the controversy does not concern them. Rather, it concerns words of first imposition, such as ‘human’ and ‘stone’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      遵循可追溯至波菲利的一种划分，西蒙把语词分为第一重命名词（*primae impositionis*）与第二重命名词（*secundae impositionis*）。第一重命名词被赋予为本质的名称，本质的存在独立于认识主体。第二重命名词被赋予为逻辑意向的名称，逻辑意向的存在依赖于认识主体。第二重命名词显然意谓概念，所以争论不涉及它们；争论涉及的是第一重命名词，如“人”与“石头”。
+    step2: |-
+      西蒙沿用一种可追溯至波菲利的划分，把语词分为第一重命名词（*primae impositionis*）与第二重命名词（*secundae impositionis*）。前者被赋予为本质的名称，而本质的存在独立于任何认识主体；后者被赋予为逻辑意向的名称，而逻辑意向的存在依赖于认识主体。第二重命名词显然意谓概念，争论不涉及它们；争论所涉的是第一重命名词，如“人”与“石头”。
   - id: 22
     kind: body
     source: |-
       For Simon, words of first imposition do not signify a concept but an essence. His argument goes as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对西蒙来说，第一重命名词意谓的不是概念，而是本质。他的论证如下：
+    step2: |-
+      在西蒙看来，第一重命名词所意谓的不是概念，而是本质。其论证如下：
   - id: 23
     kind: body
     source: |-
@@ -218,52 +242,80 @@ segments:
       3. Therefore, ‘human’ does not signify the concept of human; and generally, ‘x’ does not signify the concept of *x*.
       4. On the contrary, ‘human’ occasions the concept of human in the listener and expresses the concept of human in the speaker.
       5. Therefore, ‘human’ signifies the human essence; and generally, ‘x’ signifies *x*—an essence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. “X”意谓 *x*，当且仅当“x”在听者心中唤起 *x* 的概念，*并且* 在说者心中表达 *x* 的概念（参 *De int.* 1 与 3）。
+      2. “人”不在听者心中唤起“人的概念”的概念，也不在说者心中表达“人的概念”的概念。若果真如此，像“跑”这样的实在谓词就不能被验证于任何人，因为跑的活动显然不能归属于人的概念。
+      3. 因此，“人”不意谓人的概念；一般而言，“x”不意谓 *x* 的概念。
+      4. 相反，“人”在听者心中唤起人的概念，并在说者心中表达人的概念。
+      5. 因此，“人”意谓人的本质；一般而言，“x”意谓 *x*——一个本质。
+    step2: |-
+      1. “X”意谓 *x*，当且仅当“x”在听者心中唤起 *x* 的概念，*并且* 在说者心中表达 *x* 的概念（参 *De int.* 1 与 3）。
+      2. “人”并不在听者心中唤起“人的概念”这一概念，也不在说者心中表达“人的概念”这一概念。否则，像“跑”这样的实在谓词就无法验证于任何人——跑的活动显然不能归属于人的概念。
+      3. 因此，“人”不意谓人的概念；推而广之，“x”不意谓 *x* 的概念。
+      4. 反之，“人”确实在听者心中唤起人的概念，也在说者心中表达人的概念。
+      5. 因此，“人”意谓人的本质；推而广之，“x”意谓 *x*——一个本质。
   - id: 24
     kind: body
     source: |-
       It is remarkable that, in Simon’s view, ‘x’ signifies *x* only if both the expression-condition for the speaker and the understanding-condition for the listener are met. This double condition for signification, typical of the last quarter of the thirteenth century, represents a break with the more expression-oriented notion of signification common in the second and third quarters of the century (Marmo 1999)[^marmo-1999].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      值得注意的是，在西蒙看来，只有当说者一方的表达条件与听者一方的理解条件同时得到满足时，“x”才意谓 *x*。这种意谓的双重条件，是十三世纪最后四分之一时期的典型特征，标志着与十三世纪第二、第三个二十五年流行的更偏向表达的意谓概念的决裂（Marmo 1999）[^marmo-1999]。
+    step2: |-
+      值得注意的是，按西蒙之见，只有当说者的表达条件与听者的理解条件同时得到满足，“x”才意谓 *x*。这种意谓的双重条件为十三世纪最后四分之一时期所典型；它标志着与十三世纪第二、第三个二十五年间流行的、更偏重表达的意谓概念之间的断裂（Marmo 1999）[^marmo-1999]。
   - id: 25
     kind: body
     source: |-
       Now, following the Avicennian idea that existence—mental or actual—is an accident of essences, Simon also makes clear that ‘x’ does not signify essences according to their existence in the external world. In other words, ‘human’ does not signify any particular human, but the human essence. This part of the argument goes as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，遵循阿维森纳的观念——存在（无论心灵的还是现实的）是本质的偶性——西蒙也明确指出，“x”并不按其在外在世界中的存在来意谓本质。换言之，“人”不意谓任何个别的人，而意谓人的本质。论证的这一部分如下：
+    step2: |-
+      西蒙又依循阿维森纳的观念——存在（无论是心灵中的还是现实中的）是本质的偶性——明确指出：“x”并不按本质在外在世界中的存在来意谓本质。换言之，“人”所意谓的不是任何个别的人，而是人的本质。论证的这一部分如下：
   - id: 26
     kind: body
     source: |-
       1. ‘X’ signifies the same thing the definition of ‘x’ signifies.
       2. The definition of ‘x’ does not signify a particular thing, but a thing only with regard to its essential features and regardless of accidents such as external or mental existence.
       3. Therefore, ‘x’ does not signify a particular *x*, but *x* with regard to its essential features and regardless of accidents such as external or mental existence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. “X”意谓“x”的定义所意谓的同一个东西。
+      2. “x”的定义不意谓某个个别事物，而只就事物的本质特征、不顾外部存在或心灵存在之类的偶性来意谓该事物。
+      3. 因此，“x”不意谓个别的 *x*，而是就本质特征、不顾外部存在或心灵存在之类的偶性来意谓 *x*。
+    step2: |-
+      1. “X”所意谓的，正是“x”的定义所意谓的那同一个东西。
+      2. “x”的定义并不意谓某个个别事物；它只就事物的本质特征来意谓该事物，而不顾外部存在或心灵存在之类的偶性。
+      3. 因此，“x”不意谓个别的 *x*，而是就本质特征、不顾外部存在或心灵存在之类的偶性来意谓 *x*。
   - id: 27
     kind: body
     source: |-
       Consequently, Simon also holds that when the referents of a word of first imposition are all destroyed, the word does not lose its signification because for a word to signify, its significate—the essence—simply needs to be conceptualized, but an essence can continue to be conceptualized even after the destruction of all its particular instances.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，西蒙还主张，当一个第一重命名词的所有指称对象都被毁灭时，该词并不丧失其意谓，因为一个词要有所意谓，其意谓对象——本质——只需被概念化，而本质在其一切个别实例被毁灭之后仍可继续被概念化。
+    step2: |-
+      由此，西蒙还主张：一个第一重命名词的指称对象即使全部毁灭，该词也不丧失意谓。因为一个词要有所意谓，只需其意谓对象——本质——被概念化；而本质在其一切个别实例毁灭之后，仍可继续被概念化。
   - id: 28
     kind: body
     source: |-
       ### 3.3 Truth and Empty Reference
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3 真理与空指称
+    step2: |-
+      ### 3.3 真理与空指称
   - id: 29
     kind: body
     source: |-
       Simon also discusses whether truth is a property of thoughts or of things. He gives a solution typical of the period, according to which truth is above all a property of the knowing subject who is in possession of a true belief (*In Perih.*: q.6).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      西蒙还讨论真理究竟是思想的性质还是事物的性质。他给出该时期典型的解答：真理首先是拥有真信念的认识主体的性质（*In Perih.*：q.6）。
+    step2: |-
+      西蒙还讨论了真理究竟是思想的性质，还是事物的性质。他给出的解答在该时期颇具代表性：真理首先是拥有真信念的认识主体的性质（*In Perih.*：q.6）。
   - id: 30
     kind: body
     source: |-
       Simon accepts the common medieval definition of a true belief as one that is adequate (*adequatio*) with the way things are. However, unlike other thirteenth-century masters of arts (e.g., Robert Kilwardby and Radulphus Brito), Simon maintains that this adequation concerns the second, and composite, operation of the intellect—composition and division—as well as the first, and simple, one—the apprehension of essences (*In Perih*.: q.6). Hence, while other masters hold that adequation can only obtain between composite items (i.e., composite thoughts and composite things), Simon holds that, since the intellectual grasping of an essence is naturally in agreement with this essence, it is also susceptible of truth (*In Perih*.: q.6). Regarding the truth of composite items, however, Simon’s position is remarkably elegant, as is evident in his discussion of empty reference in the commentary on the *Prior Analytics*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      西蒙接受中世纪关于真信念的通行定义：真信念是与事物所是的方式相合（*adequatio*）的信念。然而，与十三世纪的其他艺学硕士（如罗伯特·基尔沃德比与拉杜尔夫·布里托）不同，西蒙主张这种相合既涉及理智的第二种、复合的操作——组合与划分，也涉及第一种、单纯的操作——对本质的把握（*In Perih.*：q.6）。因此，当其他硕士主张相合只能成立于复合项之间（即复合思想与复合事物之间）时，西蒙却主张：既然对本质的理智把握自然地与该本质相一致，它也就能够有真有假（*In Perih.*：q.6）。至于复合项的真理，西蒙的立场格外精巧，这一点在他《前分析篇》注释中对空指称的讨论里显而易见。
+    step2: |-
+      西蒙接受中世纪流行的真信念定义：真信念即与事物所是的方式相合（*adequatio*）者。但与其他十三世纪艺学硕士（如罗伯特·基尔沃德比、拉杜尔夫·布里托）不同，西蒙主张这种相合既关乎理智的第二种、复合的操作——组合与划分，也关乎第一种、单纯的操作——对本质的把握（*In Perih.*：q.6）。于是，当其他硕士认为相合只能成立于复合项之间（复合的思想与复合的事物）时，西蒙却认为：对本质的理智把握既然天然与该本质相合，便同样可以承载真假（*In Perih.*：q.6）。不过，就复合项的真理而言，西蒙的立场格外优雅；这一点在他《前分析篇》注释中对空指称的讨论里一览无余。
   - id: 31
     kind: body
     source: |-
