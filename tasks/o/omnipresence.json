@@ -1,0 +1,29 @@
+{
+  "slug": "omnipresence",
+  "kind": "retranslate",
+  "zh_doc": "o/omnipresence.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "direction",
+      "status": "ok",
+      "actor": "OPQR-main-20261108",
+      "at": "2026-11-08T14:32:02Z",
+      "evidence": "方向声明（rules/08）：o 批第 9 件 omnipresence（4789 词，Edward Wierenga，2026-06-01 实质修订版）。意图复述：用户 2026-11-08 裁定 O–R 全流程（draft→done）由本会话负责，本件为其中 o 批在途骨架件的接续。目标：按 ADR-0021 账本协议双版直译并走完六道三审三校至 done。非目标：不改原文、不补内容、不造引文、不动其他批次与他会话在途文件。验收判据：账本 38 段（37 body+1 oir）守恒 HARD=0；check_style --strict 0 issue、check_academic --strict 0 硬错误、check_math 0 缺失、check_summary 0 错误、markdownlint 0 错误；task_ops 状态机无跳步至 done。版本钉 Jun 1, 2026 / Summer 2026 / sha256 dac7d2bb。"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T14:32:02Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-08T13:26:22Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 1, 2026",
+    "archive_edition": "Summer 2026",
+    "sha256": "dac7d2bb72d58cf45405f4d1307ace55acf9c4668e5554c40f74bf01082b0b9b"
+  }
+}

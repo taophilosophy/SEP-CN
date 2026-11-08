@@ -1,0 +1,261 @@
+version: 1
+slug: omnipresence
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      The psalmist asks God,
+    step1: |-
+      诗篇作者问上帝，
+    step2: |-
+      诗篇作者向上帝发问，
+  - id: 2
+    kind: body
+    source: |-
+      > Where can I go from your spirit? Or where can I flee from your presence? If I ascend to heaven, you are there; If I make my bed in Sheol, you are there.                 (Psalms 139: 7–8, NRSV)
+    step1: |-
+      我往哪里去，躲避你的灵？我往哪里逃，躲避你的面？我若升到天上，你在那里；我若在阴间下榻，你也在那里。（《诗篇》139: 7–8，NRSV）
+    step2: |-
+      我往何处去躲避你的灵？我往何处逃躲避你的面？我若升到天上，你在那里；我若在阴间下榻，你也在那里。（《诗篇》139: 7–8，NRSV）
+  - id: 3
+    kind: body
+    source: |-
+      Philosophers and theologians have taken such texts to affirm that God is present everywhere. This passage suggests, first, that God is really *present* at or *located* at various particular places. Second, it suggests that there is no place where God is not present, that is, that God is present *everywhere*. This is the claim that God is *omnipresent*. Divine omnipresence is thus one of the traditional divine attributes, although it has attracted less philosophical attention than such attributes as omnipotence, omniscience, or being eternal.
+    step1: |-
+      哲学家与神学家借这类文本断定：上帝处处临在。这段经文首先表明，上帝确实 *临在* 于、或 *定位* 于各个特定之处。其次，它表明没有任何地方是上帝不临在的，也就是说，上帝 *处处* 临在。这就是上帝 *全在* 的主张。于是，神性全在成为传统神性属性之一，尽管它获得的哲学关注少于全能、全知或永恒之类的属性。
+    step2: |-
+      哲学家与神学家依据这类文本断定：上帝处处临在。这段经文首先表明，上帝确实 *临在* 于、或 *定位* 于各个特定之处。其次，它表明没有任何地方是上帝不临在的，换言之，上帝 *处处* 临在。这正是上帝 *全在* 的主张。于是，神性全在成为传统神性属性之一，只是它所受的哲学关注少于全能、全知或永恒之类的属性。
+  - id: 4
+    kind: body
+    source: |-
+      Philosophers who have attempted to give an account of omnipresence have identified several interesting philosophical questions that an adequate account of omnipresence must address: How can a being who is supposed to be *immaterial* be present at or located in space? If God is located in a particular place, can anything else be located there, too? If God is present everywhere, does it follow that he has parts in each of the particular places in which he is located? Various philosophers have proposed accounts of omnipresence in terms that are supposed to apply to an immaterial being. This essay will examine some of these proposals.
+    step1: |-
+      试图说明全在的哲学家指出，一个恰当的全在说明必须回答若干有趣的哲学问题：一个被设定为 *非物质的* 存在者，如何能临在于空间之中、或定位于空间之中？如果上帝定位于某一特定之处，别的东西是否也能定位于那里？如果上帝处处临在，是否就可推出：他在其所定位于的每一个特定之处都各有部分？不少哲学家提出了以适用于非物质存在者为准的全在说明。本文将考察其中若干方案。
+    step2: |-
+      试图说明全在的哲学家指出，一个恰当的全在说明必须回答若干有趣的哲学问题：一个被设定为 *非物质* 的存在者，如何能临在或定位于空间之中？上帝若定位于某一特定之处，别的东西是否也能定位于那里？上帝若处处临在，是否就可推出：他在其所定位于的每一个特定之处都各有部分？不少哲学家提出了据称适用于非物质存在者的全在说明。本文考察其中若干方案。
+  - id: 5
+    kind: body
+    source: |-
+      ## 1. Some Issues involving Omnipresence and Historical Background
+    step1: |-
+      ## 1. 全在涉及的若干问题与历史背景
+    step2: |-
+      ## 1 全在涉及的若干问题与历史背景
+  - id: 6
+    kind: body
+    source: |-
+      According to classical theism, God is omnipresent, that is, present everywhere. But classical theism also holds that God is immaterial. How can something that is not, or does not have, a body be located in space? Early discussions of divine presence typically began by distinguishing God’s presence in space from that of material bodies. Augustine (354–430) writes,
+    step1: |-
+      按照古典有神论，上帝全在，即处处临在。但古典有神论也主张上帝是非物质的。一个并非身体、也不拥有身体的东西，如何能定位于空间之中？早期关于神圣临在的讨论，通常从区分上帝在空间中的临在与物体在空间中的临在入手。奥古斯丁（354–430）写道：
+    step2: |-
+      按照古典有神论，上帝全在，也就是处处临在。但古典有神论同样主张上帝是非物质的。一个并非身体、也不拥有身体的东西，如何能定位于空间之中？早期关于神圣临在的讨论，通常先区分上帝在空间中的临在与物体在空间中的临在。奥古斯丁（354–430）写道：
+  - id: 7
+    kind: body
+    source: |-
+      > Although in speaking of him we say that God is everywhere present, we must resist carnal ideas and withdraw our mind from our bodily senses, and not imagine that God is distributed through all things by a sort of extension of size, as earth or water or air or light are distributed (*Letter 187*, Ch. 2).
+    step1: |-
+      > 尽管我们论及他时说上帝处处临在，我们仍须拒斥肉身的观念，把心灵从身体感官收回，不可想象上帝以某种体积的延展遍布万物，一如土、水、气或光之遍布（*Letter 187*, Ch. 2）。
+    step2: |-
+      > 尽管我们论及他时说上帝处处临在，仍须拒斥肉身的观念，把心灵从身体感官收回，不可想象上帝以某种体积的延展遍布万物，一如土、水、气或光之遍布（*Letter 187*, Ch. 2）。
+  - id: 8
+    kind: body
+    source: |-
+      Elsewhere Augustine continues this theme and introduces a new element, namely, the suggestion that divine presence might be understood by analogy with the presence of the soul:
+    step1: |-
+      在别处，奥古斯丁延续这一主题，并引入一个新要素，即：神圣临在或可借灵魂的临在之类比来理解：
+    step2: |-
+      在别处，奥古斯丁延续这一主题，又引入一个新要素：神圣临在或可借灵魂的临在之类比来理解：
+  - id: 9
+    kind: body
+    source: |-
+      > [Some people] are not able to imagine any substance except what is corporeal, whether those substances be grosser, like water and earth, or finer, like air and light, but still corporeal. None of these can be wholly everywhere, since they are necessarily composed of numberless parts, some here and some there; however large or however small the substance may be, it occupies an amount of space, and it fills that space without being entire in any part of it. Consequently, it is a characteristic of corporeal substances alone to be condensed and rarified, contracted and expanded, divided into small bits and enlarged into a great mass. The nature of the soul is very different from that of the body, and much more different is the nature of God who is the Creator of both body and soul (*Letter 137*).
+    step1: |-
+      > [有些人]除了有形体的东西，想象不出任何实体——无论这些实体是水与土那样较粗浊的，还是气与光那样较精微的，终究仍是有形体的。它们没有一样能整个地无处不在，因为它们必然由无数部分组成，一些部分在此，另一些部分在彼；无论该实体多么大或多么小，它总占据一定量的空间，并且充满那空间，却不整个地存在于其中任何部分。因此，凝聚与稀薄、收缩与扩张、分割为小块与扩充为巨块，唯独是有形体实体的特征。灵魂的本性与身体的本性大不相同，而上帝作为身体与灵魂二者的创造者，其本性又与二者更加不同（*Letter 137*）。
+    step2: |-
+      > [有些人]除了有形体的东西，想象不出任何实体——无论这些实体是水与土那样较粗浊的，还是气与光那样较精微的，终究仍是有形体的。它们没有一样能整个地无处不在，因为它们必然由无数部分组成，一些部分在此，另一些部分在彼；无论该实体多么大或多么小，它总占据一定量的空间，并且充满那空间，却不整个地存在于其中任何部分。因此，凝聚与稀薄、收缩与扩张、分割为小块与扩充为巨块，这些都是有形实体独有的特征。灵魂的本性与身体的本性大不相同，而上帝作为身体与灵魂二者的创造者，其本性又与二者更加不同（*Letter 137*）。
+  - id: 10
+    kind: body
+    source: |-
+      Augustine adds two further points: First, God “knows how to be wholly everywhere without being confined to any place” (*Letter 137*). In contrast to material objects, which, having parts in various parts of the space they occupy, are not wholly present at any of those regions, God is *wholly present* wherever he is. Second, God is not *contained* in or confined by any of the places at which he exists. Augustine is thus explicit that God is not present in the way corporeal substances are present, but his positive proposal for divine presence is less well developed. He notes that God’s light, strength, and wisdom reach everywhere (*Letter 187*, Ch. 7), and he holds that “God so permeates all things as to be not a quality of the world, but the very creative substance of the world ruling the world without labor, sustaining it without effort.” Rather than going on to explain these ideas, however, this passage simply ends with what became a familiar formula:
+    step1: |-
+      奥古斯丁又补充两点：第一，上帝“知道如何整个地无处不在，而不被局限于任何地方”（*Letter 137*）。物体在其所占据空间的不同部分各有一部分，因此在那些区域的任何一处都不是整个地临在；与之相反，上帝无论在哪里，都是 *整个地临在*。第二，上帝不被任何他所在的地方所 *容纳* 或限制。可见奥古斯丁明确主张：上帝临在的方式不同于有形实体的临在方式；不过，他关于神圣临在的正面构想尚欠展开。他指出上帝的光、力量与智慧达于一切处（*Letter 187*, Ch. 7），并主张“上帝如此渗透万物，以至他不是世界的一种性质，而是世界那创造性的实体本身，不费力地统治世界，不劳顿地维系世界”。然而，这段话并未进而解释这些想法，而是径直以一个后来变得耳熟能详的公式收尾：
+    step2: |-
+      奥古斯丁又补充两点：第一，上帝“知道如何整个地无处不在，而不被局限于任何地方”（*Letter 137*）。物体在其所占据空间的不同部分各有一部分，因此在那些区域的任何一处都不是整个地临在；上帝则相反，无论在哪里，都是 *整个地临在*。第二，上帝不被任何他所在的地方所 *容纳* 或限制。可见奥古斯丁明确主张：上帝临在的方式不同于有形实体的临在方式；不过，他关于神圣临在的正面构想尚欠展开。他指出上帝的光、力量与智慧达于一切处（*Letter 187*, Ch. 7），并主张“上帝如此渗透万物，以至他不是世界的一种性质，而是世界那创造性的实体本身，不费力地统治世界，不劳顿地维系世界”。然而，这段话并未进而解释这些想法，而是径直以一个后来变得耳熟能详的公式收尾：
+  - id: 11
+    kind: body
+    source: |-
+      > Nevertheless, he [God] is not distributed through space by size so that half of him should be in half the world and half in the other half of it. He is wholly present in all of it in such wise as to be wholly in heaven alone and wholly in the earth alone and wholly in heaven and earth together; not confined in any place, but wholly in himself everywhere.
+    step1: |-
+      > 然而，他[上帝]并不按体积分布于空间，以至他的一半在世界的一半、另一半在世界的另一半。他整个地临在于整个世界，乃至单独在天上时是整个的，单独在地上时也是整个的，在天上地下合在一起时仍是整个的；他不被限制于任何地方，而是在一切处都整个地在他自身之中。
+    step2: |-
+      > 然而，他[上帝]并不按体积分布于空间，以至他的一半在世界的一半、另一半在世界的另一半。他整个地临在于整个世界：单独在天上时是整个的，单独在地上时也是整个的，在天上地下合在一起时仍是整个的；他不被限制于任何地方，而是在一切处都整个地在他自身之中。
+  - id: 12
+    kind: body
+    source: |-
+      Anselm (1033–1109) also distinguishes God’s presence from the way in which material objects are contained in space, and he, too, appeals to the concept of being wholly present. In his *Monologion* Anselm discusses omnipresence in a series of chapters with paradoxical titles. In chapter 20 he states that “the Supreme Being exists in every place and at all times.” But in the following chapter, he argues that God “exists in no place and at no time.” Finally, he attempts to reconcile these “two conclusions—so contradictory according to their utterance, so necessary according to their proof”, by distinguishing two senses of “being wholly in a place.” In one sense those things are wholly in a place “whose magnitude place contains by circumscribing it, and circumscribes by containing it.” In this sense, an ordinary material object is contained in a place. God, however, is not thus contained in space, for it is “a mark of shameless impudence to say that place circumscribes the magnitude of Supreme Truth.” Instead, God is in every place in the sense that he is present at every place. According to Anselm, “the Supreme Being must be present as a whole in every different place at once.” Like Augustine, then, Anselm denies that God is contained in space. Also, like Augustine, he seems to leave unexplained this second relation of being “present as a whole” in every place.
+    step1: |-
+      安瑟伦（1033–1109）同样把上帝的临在与物体被容纳于空间中的方式区分开来，他也诉诸“整个地临在”这一概念。在《独语录》（*Monologion*）中，安瑟伦以一系列标题看似矛盾的章节讨论全在。第 20 章说“至高存在存在于一切地方、一切时间”。但在下一章，他又论证上帝“不存在于任何地方、任何时间”。最后，他试图调和这两个“按其表述如此矛盾、按其证明又如此必然”的结论，办法是区分“整个地在某处”的两种含义。按第一种含义，事物整个地在某处，是指“地方以划定界限的方式容纳其体积，又以容纳的方式划定其界限”。在此意义上，普通物体被容纳于某处。然而上帝并不这样被容纳于空间之中，因为“说地方划定至高真理之体积的界限，乃是无耻鲁莽之举”。相反，上帝在一切地方，意思是他临在于一切地方。按安瑟伦之说，“至高存在必定同时整个地临在于每一个不同的地方”。可见，安瑟伦与奥古斯丁一样，否认上帝被容纳于空间之中。也同奥古斯丁一样，他似乎没有解释“整个地临在”于一切地方这第二种关系。
+    step2: |-
+      安瑟伦（1033–1109）同样把上帝的临在与物体被容纳于空间中的方式区分开来，也诉诸“整个地临在”这一概念。在《独语录》（*Monologion*）中，安瑟伦以一系列标题看似矛盾的章节讨论全在。第 20 章说“至高存在存在于一切地方、一切时间”。但在下一章，他又论证上帝“不存在于任何地方、任何时间”。最后，他试图调和这两个“按其表述如此矛盾、按其证明又如此必然”的结论，办法是区分“整个地在某处”的两种含义。按第一种含义，事物整个地在某处，是指“地方以划定界限的方式容纳其体积，又以容纳的方式划定其界限”。在此意义上，普通物体被容纳于某处。然而上帝并不这样被容纳于空间之中，因为“说地方划定至高真理之体积的界限，乃是无耻鲁莽之举”。相反，上帝在一切地方，意即他临在于一切地方。按安瑟伦之说，“至高存在必定同时整个地临在于每一个不同的地方”。可见，安瑟伦与奥古斯丁一样，否认上帝被容纳于空间之中。也同奥古斯丁一样，他似乎没有解释“整个地临在”于一切地方这第二种关系。
+  - id: 13
+    kind: body
+    source: |-
+      In his (1988) Edward Wierenga attempts to supply the missing details. He notes that Anselm holds that souls could be wholly present in more than one place, provided that they sensed in more than one place, and that Anselm (in his *Proslogion*) adds that perception for God is a matter of having direct or immediate knowledge. Combining these two ideas, Anselm could say that God is present everywhere in virtue of having immediate knowledge of what is happening everywhere. Brian Leftow (1989) objects to the details of this interpretation and proposes instead that, for Anselm, God is everywhere in virtue of his power. We will explore the combination of knowledge and power below. It should be noted, however, as Christopher Conn (2011) emphasizes, that Anselm himself discusses time in conjunction with space; perhaps an adequate interpretation of Anselm would exploit this idea and develop an account, as Conn suggests, according to which God “contains” all of space-time.
+    step1: TBD
+    step2: TBD
+  - id: 14
+    kind: body
+    source: |-
+      The two ideas of knowledge and power figure prominently in the account of omnipresence given by Thomas Aquinas (1225–1274), which we will take up in the next section. Section 3 will consider two 20th century proposals very much in the spirit of Aquinas’s. Some treatments of the problem of omnipresence seem to have the consequence that God is related to the world as though it is his body. That will be the subject of Section 4. In Section 5 we will consider several recent proposals that depart from the traditional formula.
+    step1: TBD
+    step2: TBD
+  - id: 15
+    kind: body
+    source: |-
+      ## 2. Power, Knowledge, and Essence
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      According to Thomas Aquinas, God’s presence is to be understood in terms of God’s power, knowledge and essence. (In this view he followed a formula put forth by Peter Lombard (late 11th C.–1160) in his *Sentences,* I, xxxvii, 1.) He writes, “God is in all things by his power, inasmuch as all things are subject to his power; he is by his presence in all things, inasmuch as all things are bare and open to his eyes; he is in all things by his essence, inasmuch as he is present to all as the cause of their being” (*Summa Theologica* I, 8, 3). Aquinas attempts to motivate this claim with some illustrations:
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      > But how he [God] is in other things created by him may be considered from human affairs. A king, for example, is said to be in the whole kingdom by his power, although he is not everywhere present. Again, a thing is said to be by its presence in other things which are subject to its inspection; as things in a house are said to be present to anyone, who nevertheless may not be in substance in every part of the house. Lastly, a thing is said to be substantially or essentially in that place in which its substance is.
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      Perhaps there is a sense in which a king is present wherever his power extends. In any event, Aquinas seems to think so. He distinguishes two kinds of being in place: by “contact of dimensive quantity, as bodies are, [and] contact of power” (*S.T.* I, 8, 2, ad 1). In *Summa contra Gentiles* he writes that “an incorporeal thing is related to its presence in something by its power, in the same way that a corporeal thing is related to its presence in something by dimensive quantity,” and he adds that “if there were any body possessed of infinite dimensive quantity, it would have to be everywhere. So if there were an incorporeal being possessed of infinite power, it must be everywhere” (*SCG* III, 68, 3). So the first aspect of God’s presence in things is his having power over them. The second aspect is having every thing present *to* him, having everything “bare and open to his eyes” or being known to him. The third feature, that God is present in things by his essence, is glossed as his being the cause of their being, (although Ross Inman (2021) argues that a fuller account within the Christian tradition treats the role of essence here as deriving explanatorily from a prior attribute of ubiquity).
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      This way of understanding God’s presence by reference to his power and his knowledge treats the predicate ‘is present’ as applied to God as *analogical* with its application to ordinary physical things. (For a fuller explanation of analogical predication, see Medieval Theories of Analogy.) As applied to God, ‘is present’ is neither univocal (used with the same meaning as in ordinary contexts) nor equivocal (used with an unrelated meaning). Rather, its meaning can be explained by reference to its ordinary sense: God is present at a place just in case there is a physical object that is at that place and God has power over that object, knows what is going on in that object, and God is the cause of that object’s existence. Nicholas Everitt (2010, p. 86) objects to this analogical approach, stating that “if this is how omnipresence is interpreted, one might well think that it would be clearer to say straightforwardly that God is not omnipresent at all,” and he cites Joshua Hoffman and Gary Rosenkrantz (2002, p. 41)) as agreeing with him. But Hoffman and Rosenkrantz in the cited passage merely say that “there is no *literal* sense in which [God] could be omnipresent,” which leaves it open that there is an analogical sense in which God is omnipresent. Hud Hudson (2009) also denies that God’s presence is analogical, but that is because he thinks that there is a literal way in which God is present everywhere. We will consider Hudson’s proposal in Section 5.
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      This account of omnipresence has the consequence that, strictly speaking, God is only present where some physical thing is located. Perhaps, however, this is exactly what the medievals had intended. Anselm says, for example, that “the supreme Nature is more appropriately said to be everywhere, in this sense, that it is in all existing things, than in this sense, namely that it is merely in all places” (*Monologion*, 23).
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      ## 3. Two Recent Traditional Treatments
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      More recent philosophers have agreed that God’s presence is to be understood analogically. Charles Hartshorne (1897–2000), for example, claims that “the relation of God to the world must necessarily be conceived, if at all, by analogy with relations given in human experience” (1941). Rather than taking the relations to be knowledge of and power over things, however, Hartshorne assumes that God’s relation to the world is analogous to that of a human mind’s relation to its body.
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      Hartshorne develops this idea by making distinctions between kinds of knowledge and kinds of power. Some things that human beings know are known immediately, by “vivid and direct intuition”, while other things are known only indirectly or through inference. Hartshorne holds that the former kind of knowledge is infallible, and it is the kind of knowledge human beings have of their own thoughts and feelings. Since this kind of knowledge is the highest form of knowledge, it is the kind God has, and he has it with respect to the entire cosmos.
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      Similarly, some things human beings have power over they control directly; other things can be controlled only indirectly. Human beings have direct control only over their own volitions and movements of their own bodies. Again, since this is the highest kind of power, it is the kind of power God has—and he has it over every part of the universe.
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      Thus far Hartshorne may be seen as developing the medieval view of divine presence. God is present everywhere by having *immediate* knowledge and *direct* power throughout the universe (with the addition that his presence extends to unoccupied regions of space). But Hartshorne endorses a surprising addition. He adds that whatever part of the world a mind knows immediately and controls directly is, by definition, its body. The world, therefore, is God’s body.
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      Richard Swinburne (1977) also begins his discussion of omnipresence by asking what it is for a person to have a body. Although he insists that God is an immaterial spirit, he supposes this claim to be compatible with a certain “limited embodiment.” Subsequently (2016) he withdraws this suggestion, saying that since “God is not supposed to be tied down to acting or learning through … [the universe] or any chunk of matter … it seems less misleading to say that he is not embodied.” Swinburne develops his account by appeal to the notions of a “basic action” (an action one performs, for example, moving ones limbs in the typical case, without having to perform another action in order to do it) and of “direct knowledge” (knowledge that is neither inferential nor dependent on causal interaction). He then presents the claim that God is omnipresent as the claim that God “can cause effects at every place directly (as an instrumentally basic action) and knows what is happening at every place without the information coming to him through some causal chain—for example, without needing light rays from a distant place to stimulate his eyes” (2016, p. 113). Swinburne’s account is thus, as he notes, in the spirit of that of Aquinas.
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      ## 4. The World as God’s Body
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      As we have seen, Hartshorne explicitly endorses as a consequence of the doctrine of divine omnipresence that the world is God’s body, and Swinburne is initially willing to accept a “limited embodiment.” But some philosophers have been loath to accept divine embodiment as a consequence of omnipresence. Charles Taliaferro, for example, while endorsing this overall account of omnipresence, notes that the basic actions human beings perform “can involve highly complex physical factors…[including] many neural events and muscle movements, whereas with God there is no such physical complexity” (Taliaferro, 1994). Taliaferro then adds that this immediacy in the case of God’s action is precisely a reason to say that “the world does not function as God’s body the way material bodies function as our own.” Edward Wierenga adds a second objection. He holds that as Hartshorne and Swinburne develop accounts of God’s power and knowledge, God would have the same knowledge of and control over what happens in empty regions of space as he does with respect to those regions occupied by material objects (Wierenga, 2010). In other words, Hartshorne’s and Swinburne’s accounts of omnipresence, unlike that of Aquinas, do not interpret God’s presence as presence *in things*. But it would be implausible to count a thing as part of God’s body on the basis of his knowledge of and power over the region of space that thing occupies, when God’s knowledge and power would extend in the same way to that region if it were unoccupied. So it seems as though one could accept a version of the traditional account of divine omnipresence without having to conclude that the world is God’s body.
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      ## 5. Some Recent Alternative Proposals
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      Although conceiving of omnipresence in terms of power, knowledge, and essence is the traditional approach, with continued adherents, in recent years several philosophers have proposed quite different accounts of omnipresence.
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      Robert Oakes (2006) suggests that space is “constituted by” God’s omnipresence. He holds that things located in space and the world itself are therefore distinct from God. Oakes then draws on these claims to argue that divine omnipresence is incompatible with pantheism.
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      Some recent work appeals to esoteric concepts from metaphysics. Luco Johan van den Brom (1984; see also 1993) suggests that “God has a spatial dimension *of his own* which he does not share with the created cosmos.” Brom’s idea is that just as a two-dimensional surface “transcends” a line on that surface but is present at every point on the line, and similarly for a three-dimensional space and a two-dimensional plane in that space, “God, by existing in a higher dimensional system, is also present in the places of all the objects in the three-dimensional space of created cosmos without being contained by that three-dimensional space” (1984, p. 654). Brom even conjectures that God possesses at least two extra dimensions, making it impossible for our space to bisect his.
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      Other recent work draws on contemporary discussions on the metaphysics of material objects and their relation to spacetime. Hud Hudson (2009) describes several possible “occupation” relations. One of these relations is “entension”, where an object *entends* a region *r* just in case it is wholly and entirely located at *r* and also wholly located at every proper subregion of *r*. An object is entirely located at a region *r* just in case it is located at *r* and there is no region disjoint from *r* at which it is located. And an object is wholly located at *r* just in case it is located at *r* and no proper part of it is not located at *r*. The typical way in which an object is located at a region of space is by having various of its parts at different subregions of that region; that is, typically material objects are “spread out” or distributed through a region they occupy (they “pertend”, to use a technical term). In contrast, if an object entends a region, then it is located *as a whole* throughout that region. Hudson then proposes a “literal occupation account of omnipresence as ubiquitous entension” (2009, p. 209). Omnipresence is location at “the maximally inclusive region” plus being wholly located at every subregion there is. Alexander R. Pruss (2013) also endorses a version of this account, with slightly different details to allow explicitly for divine timelessness. In Hudson’s view, any object that occupies a region in space is a material object. He is thus willing to accept as a consequence of his account of omnipresence as ubiquitous entension that God is a material object. Ross Inman (2017), while sympathetic to the appeal to ubiquitous entension, is unwilling to accept the conclusion that God is a material object. Accordingly he shows that careful attention to medieval discussions of the distinction between material and immaterial objects yields at least three ways of marking that distinction according to which God is not material.
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      Eleonore Stump (2010, see also 2008, 2011, 2013) defends adding additional conditions to the traditional understanding of omnipresence in terms of knowledge and power. She writes, “I … think, however, that the attempt to capture personal presence in terms of direct and unmediated cognitive and casual contact misses something even in the minimal sense of personal presence” (2010, p. 111). She continues, “what has to be added to the condition of direct and unmediated casual and cognitive contact … are two things––namely, second-person experience and shared attention” (2010, p. 112). Second-person experience involves being aware of and attending to someone else as a person when that other person is conscious and functioning as a person. Shared attention requires that two persons be aware of each other and aware of their awareness, whether of each other or a third object. Stump’s goal is to provide an understanding of the kind of union to be desired in love. It may be, then, that her real topic is the nature of God’s offer of love to people. But she explicitly applies her remarks about personal presence to omnipresence when she writes, “in order for God to be omnipresent, that is, in order for God to be always and everywhere *present*, it also needs to be the case that God is always and everywhere in a position to share attention with any creature able and willing to share attention with God” (2010, p. 117). Perhaps, then, Stump can be seen not only as attempting to analyze omnipresence but to identify what is required for it to be of religious or theological importance.
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      Georg Gasser (2019) also defends adding an additional condition involving agency to the traditional appeal to knowledge and power. He considers a variety of proposed accounts of omnipresence, giving special attention (and initial sympathy) to Hudson’s development of ubiquitous entension. But he concludes that this proposal has a hard time explaining “the biblical tradition and personal religious experiences [according to which] God acts differently at different places” (2019, 59). Perhaps he takes Stump’s second-person attention and shared experience, which he references, to provide the requisite agency, or perhaps he intends such actions as, for example, God’s speaking to Moses in the burning bush and also preventing the consumption of the bush by fire. In any event, Gasser assumes that omnipresence includes, not only God’s presence through his knowledge and power everywhere, but also “acting from time to time … ‘specially’ in miraculous ways” (2019, p. 60).
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      ## 6. Future Directions
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      In a recent paper, Sam Cowling and Wesley D. Cray note that “[t]he philosophical literature on omnipresence is vast, though largely situated in the context of Western, monotheistic philosophy of religion” (2017, p. 223). Their own proposal for expanding the field is to develop an account of omnipresence according to which even numbers and pure sets are omnipresent. That will likely strike many as implausible, but their claim about the limited scope of traditional work on the topic is accurate. In fact they could have mentioned, more precisely, that the philosophers considered in this entry tend to restrict their attention primarily to Augustine, Anselm, and Aquinas, with perhaps an aside to Peter Lombard. That suggests that one avenue for future research is to consider the work of ancient philosophers as well as early modern and later philosophers. The mention of monotheistic philosophy of religion calls attention to another often overlooked area, namely, the work of Jewish and Islamic philosophers of religion. Finally, recent interest in global philosophy suggests yet other areas into which work on omnipresence could extend. Remarkably, all of these concerns are addressed in an important new *Oxford Handbook* (Marmodoro, Migliorini, and Page 2025). Entries describe views of Heraclitus, Plato, Aristotle, Philo, and Plotinus, among other predecessors of Augustine. Another section discusses the treatment of omnipresence by Descartes, Spinoza, and Leibniz, as well as Locke, Berkeley, Kant, and more, filling in the large gap between Aquinas and the twentieth century. Two sections of entries are devoted to Jewish and Islamic views on omnipresence as well as those of several eastern religions. And two groups of new essays discuss recent developments and propose new understandings of omnipresence.
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: TBD
+    step2: TBD
