@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-08 02:24（UTC）
+生成时间：2026-11-08 02:34（UTC）
 
 ## 总览
 
@@ -25,8 +25,8 @@
 |pending|598|
 |cleared|162|
 |drafted|2|
-|s1_checked|3|
-|s3_checked|63|
+|s1_checked|2|
+|s3_checked|64|
 |r1_reviewed|1|
 |done|199|
 
@@ -291,7 +291,7 @@
 |rationalism-early-modern|retranslate|r1_reviewed|OR-main-20261107 2026-11-07|
 |scholem|retranslate|s1_checked|SZ-main-20261108b 2026-11-08|
 |telesio|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
-|theology-aristotle|retranslate|s1_checked|TZ-main-20261107 2026-11-08|
+|theology-aristotle|retranslate|s3_checked|TZ-main-20261107 2026-11-08|
 |william-jevons|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |william-sherwood|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |wisdom|retranslate|s3_checked|TZ-main-20261107 2026-11-07|

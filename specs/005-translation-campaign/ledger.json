@@ -94,16 +94,16 @@
   },
   "m": {
    "phase": "translate",
-   "claimed_by": "LMN-main-20261108e",
-   "claimed_at": "2026-11-07T23:29:38Z",
-   "note": "2026-11-08 接管（LMN-main-20261108c）：在途 moral-demands-permissions 账本 63/63 双版齐、组装稿 220 行已落盘并逐段核验一致，本会话推进 s1-s3；done 6/139，pending 7+未建 125",
-   "advanced_at": "2026-11-06T23:54:21Z"
+   "claimed_by": "M-main-20261108",
+   "claimed_at": "2026-11-08T02:28:33Z",
+   "note": "2026-11-08 接管（M-main-20261108）：五方复算 M 139 条——done 6（marsilius-inghen/mathematics-inconsistent/modesty-humility/molyneux-problem/montesquieu/moral-responsibility-empirical）、s3_checked 1（moral-demands-permissions，已交评审线 R-main-20261108 走 r1-r3）、pending 任务 7、未建任务 125；账实零偏差（成稿 7=任务有稿 7，无有稿无任务/done 无稿）；本会话续译余 132 条，按字母序推进",
+   "advanced_at": "2026-11-08T02:28:34Z"
   },
   "n": {
    "phase": "translate",
-   "claimed_by": "LMN-main-20261108e",
-   "claimed_at": "2026-11-07T23:29:38Z",
-   "note": "2026-11-08 复账同步（LMN-main-20261108b）：纠正注记（原记 2026-11-06 成稿 0 已过时）——neoplatonism done（N done 1/50）；pending 2（nietzsche-aesthetics/nominalism-metaphysics）+未建 47",
+   "claimed_by": "ZCode-N-20261108",
+   "claimed_at": "2026-11-08T02:31:12Z",
+   "note": "2026-11-08 复账同步（LMN-main-20261108b）：纠正注记（原记 2026-11-06 成稿 0 已过时）——neoplatonism done（N done 1/50）；pending 2（nietzsche-aesthetics/nominalism-metaphysics）+未建 47；2026-11-08 接管（ZCode-N-20261108）：复算 50 条——基线/镜像 50/50 齐、任务 3（done 1=neoplatonism、pending 2=H1 桩、未建 47），成稿 1 篇其余全桩，账实零偏差；源文 786,992 词，最小 nicole-oresme 6,437 词；本会话续译余 49 条，按源文词数升序推进",
    "advanced_at": "2026-11-06T15:08:55Z"
   },
   "o": {
@@ -122,15 +122,15 @@
   },
   "q": {
    "phase": "translate",
-   "claimed_by": "OR-main-20261106",
-   "claimed_at": "2026-11-06T13:48:33Z",
+   "claimed_by": "QR-main-20261108",
+   "claimed_at": "2026-11-08T02:33:02Z",
    "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
    "advanced_at": "2026-11-05T15:22:54Z"
   },
   "r": {
    "phase": "translate",
-   "claimed_by": "OR-main-20261106",
-   "claimed_at": "2026-11-06T13:48:33Z",
+   "claimed_by": "QR-main-20261108",
+   "claimed_at": "2026-11-08T02:33:03Z",
    "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
    "advanced_at": "2026-11-05T20:22:06Z"
   },
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-08T02:20:12Z"
+ "updated_at": "2026-11-08T02:33:03Z"
 }
