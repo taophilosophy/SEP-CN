@@ -408,7 +408,7 @@
 |transcendental|先验（康德术语 transzendental）||
 |tripartite analysis of knowledge|知识的三元分析||
 |Trolley Problem|电车难题||
-|truth-maker|真值制造者||
+|truth-maker|真值制造者|亦作“真理制造者”（simon-faversham 等篇用形，待三校对齐）|
 |tuphos|虚妄||
 |understanding|知性（康德 Verstand；日常语境译“理解”）||
 |universal|共相（中世纪-黑格尔传统）||
@@ -567,7 +567,7 @@
 |Gottlob Frege|戈特洛布·弗雷格||
 |human agency|人类能动性|审定名词在案|
 |Immanuel Kant|伊曼努尔·康德||
-|innate knowledge|先天知识|亦作“天赋知识”|
+|innate knowledge|天赋知识|与 a priori knowledge 先天知识 分义（2026-11-09 反向校对）|
 |John Dewey|约翰·杜威||
 |John Locke|约翰·洛克||
 |John Rawls|约翰·罗尔斯||
@@ -741,7 +741,7 @@
 |causal explanation|因果说明|审定名词复合词佐证；与科学解释同口径|
 |categorical imperative|定言命令|亦作“绝对命令”；康德|
 |Cardano|卡尔达诺||
-|Cardinal|枢机主教||
+|Cardinal|枢机主教|集合论语境亦作“基数”|
 |Carl Friedrich Stumpf|卡尔·弗里德里希·斯图姆夫||
 |Carl Stumpf|卡尔·斯图姆夫|对齐 SUMMARY 与人名表（2026-11-05）|
 |Carnap|卡尔纳普||
