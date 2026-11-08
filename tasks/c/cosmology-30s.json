@@ -2,7 +2,7 @@
   "slug": "cosmology-30s",
   "kind": "retranslate",
   "zh_doc": "c/cosmology-30s.md",
-  "state": "drafted",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,13 @@
       "actor": "C-main-20261109",
       "at": "2026-11-08T18:17:02Z",
       "evidence": "初译成稿收口（接管前会话未提交在途件）：段落账本 tasks/c/cosmology-30s.ledger.yaml 100 段（p1-p100）source/step1/step2 全填、源文正文块 3-136 全覆盖（块1 H1、块2 作者行由 SUMMARY/模板承载），脚本 script/c30_compose.py 组装产物与工作区正文逐字符一致（仅 markdownlint 要求的空行差 3 处）；结构守恒五维：marker 123:123、defs 62:62、年份集合 49:49 全等、公式 0、图片 0，h2 13:12 与 h3 26:27 之差为『致谢』按模板由 ### 归一为 ##（合规）；待办登记：29 段 step1==step2 反思步欠账（7 段为引块），列入 s2 逐段补写"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "C-main-20261109",
+      "at": "2026-11-08T22:20:10Z",
+      "evidence": "一校（准确性）逐段回源核销 p1-p100 全覆盖：结构守恒 marker 123:123、defs 62:62、年份集合 49:49、公式 0、图片 0；实质问题 9 处已修并双版同步——①Critical 1 处：p51 源 How could Dingle be answered? 第二版误作『丁格尔该如何作答？』主客颠倒，改『又该如何回应丁格尔呢？』；②Major 体例 8 处：第二版删去首现英文括注，已补回 A. G. 沃克（A.G. Walker）、L. N. G. 菲隆（L.N.G. Filon）、R. A. 桑普森（R.A. Sampson）、N. R. 坎贝尔（N.R. Campbell）、G. J. 惠特罗（G.J. Whitrow）、乔治·坦普尔（George Temple）、詹姆斯·斯科特奖（James Scott Prize）、托马斯·戈尔德（Thomas Gold）、弗雷德·霍伊尔（Fred Hoyle）；③渲染缺陷 43 处：星内空格 ** 词 **（CommonMark 永不渲染）全数归一为 **词** 并补体外空格，源头生成器 script/c30_compose.py bold_spacing 已改为 span 级处理，重跑 compose 与正文逐字符一致；术语补登 5 行（说明性实在论/红移/完美宇宙学原理/稳恒态宇宙学/多普勒频移）"
     }
   ],
   "blockers": [],
