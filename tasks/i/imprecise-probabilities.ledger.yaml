@@ -545,186 +545,254 @@ segments:
     kind: body
     source: |-
       Consider tossing a coin known to be fair. Let’s say you have seen the outcome of a hundred tosses and roughly half have come up heads. Your degree of belief that the coin will land heads should be around a half. This is a case where there is weight of evidence behind the belief.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      考虑抛掷一枚已知公平的硬币。假定你已见过一百次抛掷的结果，其中约一半是正面。你认为这枚硬币将落在正面的置信度应当约为一半。这是信念背后有证据权重的一个例子。
+    step2: |-
+      设想抛掷一枚已知公平的硬币。假设你已见过一百次抛掷，约有一半出现正面。那么你对这枚硬币将落在正面的置信度应在一半上下。此例中，信念背后是有证据权重的。
   - id: 62
     kind: body
     source: |-
       Now consider another case: a coin of unknown bias is to be tossed. That is, you have not seen any data on previous tosses. In the absence of any relevant information about the bias, symmetry concerns might suggest you take the chance of heads to be around a half. This opinion is different from the above one. There is no *weight* of evidence, but there is nothing to suggest that your attitudes to $H$ and $T$ should be different. So, on *balance*, you should have the same belief in both.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在考虑另一种情形：要抛掷一枚偏向未知的硬币。也就是说，你没有见过任何先前抛掷的数据。在缺乏关于偏向的任何相关信息时，对称性考虑可能提示你认为正面的机遇约为一半。这一意见与上述意见不同。这里没有证据的 *权重*，但也没有什么提示你对 $H$ 与 $T$ 的态度应当有所不同。因此，就 *平衡* 而言，你对二者的信念应当相同。
+    step2: |-
+      再看另一情形：要抛掷的是一枚偏向未知的硬币，你从未见过它先前抛掷的数据。在关于其偏向毫无相关信息的情况下，对称性考虑或许提示你把正面出现的机遇估在一半上下。这一看法与上例不同：此处没有证据的 *weight*（权重），却也没有任何东西提示你对 $H$ 与 $T$ 的态度应有所不同；因此就 *balance*（平衡）而言，你对二者应持相同信念。
   - id: 63
     kind: body
     source: |-
       However, these two different cases get represented as having the same probabilistic belief, namely $p(H)=p(T)=0.5$. In the fair coin case, this probability assignment comes from having evidence that suggests that the chance of heads is a half, and the prescription to have your credences match chances (*ceteris paribus*). In the unknown bias case, by contrast, one arrives at the same assignment in a different way: nothing in your evidence supports one proposition over the other so some “principle of indifference” reasoning suggests that they should be assigned the same credence (see Hájek 2011, for discussion of the principle of indifference)[^hájek-2011].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，这两种不同情形被表征为具有相同的概率信念，即 $p(H)=p(T)=0.5$。在公平硬币情形中，这一概率赋值来自你拥有提示正面机遇为一半的证据，以及要求信度与机遇相符（*ceteris paribus*）的规约。相反，在偏向未知的情形中，人们以另一种方式得到同一赋值：你的证据中没有任何东西支持某一命题甚于另一命题，于是某种“无差别原则”的推理提示二者应被赋予相同的信度（关于无差别原则的讨论，见 Hájek 2011）[^hájek-2011]。
+    step2: |-
+      然而，这两种不同的情形却被表征为同一种概率信念，即 $p(H)=p(T)=0.5$。在公平硬币一例中，这一概率赋值源于你有提示正面机遇为一半的证据，以及“信度应与机遇相配”的规约（*ceteris paribus*）。在偏向未知一例中则不然，人们是以另一条途径得到同一赋值：你的证据中并无任何东西支持其中一个命题甚于另一个，于是某种“无差别原则”式的推理提示二者应被赋予相同信度（关于无差别原则的讨论，见 Hájek 2011）[^hájek-2011]。
   - id: 64
     kind: body
     source: |-
       If we take seriously the “ambiguity aversion” discussed earlier, when offered the choice between betting on the fair coin’s landing heads as opposed to the unknown-bias coin’s landing heads, it doesn’t seem unreasonable to prefer the former. Recall the preference for unambiguous gambles in the Ellsberg game in section 2.1. But if both coins have the same subjective probabilities attached, what rationalises this preference for betting on the fair coin? Joyce argues that there is a difference between these beliefs that is worth representing. IP *does* represent the difference. The first case is represented by $P(H)=\{0.5\}$, while the second is captured by $P(H)=[0,1]$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果我们认真对待前文讨论的“歧义厌恶”，那么在“押注公平硬币落在正面”与“押注偏向未知的硬币落在正面”之间作选择时，偏好前者似乎并非不合理。回想 2.1 节 Ellsberg 博弈中对无歧义赌局的偏好。但若两枚硬币被赋予相同的主观概率，又是什么把这种对押注公平硬币的偏好合理化为理性的呢？Joyce 论证说，这两种信念之间存在一种值得表征的差异。IP *确实* 表征了这一差异：第一种情形由 $P(H)=\{0.5\}$ 表征，第二种则由 $P(H)=[0,1]$ 把握。
+    step2: |-
+      倘若认真对待前文所说的“歧义厌恶”，那么在“押注公平硬币落于正面”与“押注偏向未知的硬币落于正面”之间，偏好前者并不显得不合理——回想 2.1 节 Ellsberg 博弈中对无歧义赌局的偏好即可。但若两枚硬币被赋予相同的主观概率，这种偏好又何以被合理化为理性的？Joyce 主张，这两种信念之间存在一种值得表征的差异，而 IP *确实* 表征了这一差异：前一种情形表示为 $P(H)=\{0.5\}$，后一种则表示为 $P(H)=[0,1]$。
   - id: 65
     kind: body
     source: |-
       Scott Sturgeon puts this point nicely when he says:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Scott Sturgeon 把这一点说得很好，他说：
+    step2: |-
+      Scott Sturgeon 对此有一句妙语：
   - id: 66
     kind: body
     source: |-
       > *[E]vidence and attitude aptly based on it must match in character*. When evidence is essentially sharp, it warrants sharp or exact attitude; when evidence is essentially fuzzy—as it is most of the time—it warrants at best a fuzzy attitude. In a phrase: evidential precision begets attitudinal precision; and evidential imprecision begets attitudinal imprecision. (Sturgeon 2008: 159 Sturgeon’s emphasis)[^sturgeon-2008]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *[E]vidence and attitude aptly based on it must match in character*（证据与恰当地基于它的态度，必须在品性上相匹配）。当证据本质上是明确的，它便证成明确或精确的态度；当证据本质上是模糊的——多数时候如此——它充其量证成模糊的态度。用一句话说：证据的精确性生出态度的精确性；证据的非精确性生出态度的非精确性。（Sturgeon 2008: 159，Sturgeon 原文强调）[^sturgeon-2008]
+    step2: |-
+      > *[E]vidence and attitude aptly based on it must match in character*（证据与恰当地基于它的态度，须在品性上相匹配）。证据若本质上是明确的，便证成明确或精确的态度；证据若本质上是模糊的——多数时候正是如此——则充其量证成模糊的态度。一言以蔽之：证据的精确生出态度的精确，证据的非精确生出态度的非精确。（Sturgeon 2008: 159，Sturgeon 原文强调）[^sturgeon-2008]
   - id: 67
     kind: body
     source: |-
       Wheeler (2014) criticises Sturgeon on this “character matching” thesis. However, an argument for IP based on the nature of evidence only requires that the character of the evidence sometimes allows (or mandates?) imprecise belief and not that the characters must always match. In opposition, Schoenfield (2012) argues that evidence always supports precise credence, but that for reasons of limited computational capacity, real agents needn’t be required to have precise credences. However, her argument only really supports the claim that *sometimes* indeterminacy is due to complexity of the evidence and computational complexity. She doesn’t have an argument against the claims Levi, Kaplan, Joyce and others make that there are evidential situations that warrant imprecise attitudes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Wheeler（2014）就这一“品性匹配”论题批评了 Sturgeon。然而，基于证据本性的 IP 论证只需要：证据的品性有时允许（或要求？）非精确的信念，而并不要求品性必须始终匹配。相反，Schoenfield（2012）论证说，证据始终支持精确的信度，但出于计算能力有限的理由，现实行动者不必被要求持有精确的信度。然而，她的论证实际上只支持这一主张：*有时* 非确定性源于证据的复杂性与计算复杂性。她并没有论证反对 Levi、Kaplan、Joyce 等人所提出的主张：存在证成非精确态度的证据情境。
+    step2: |-
+      Wheeler（2014）就这一“品性匹配”论题批评 Sturgeon。然而，为 IP 辩护的证据本性论证只需说明：证据的品性 *sometimes*（有时）允许（甚至要求？）非精确的信念，而不必主张二者始终匹配。与此相对，Schoenfield（2012）主张证据始终支持精确的信度，只是出于计算能力有限，现实行动者不必被要求持有精确信度。然而她的论证其实只支持这一点：非确定性有时源自证据的复杂与计算的复杂；她并未针对 Levi、Kaplan、Joyce 等人“存在证成非精确态度的证据情境”之说提出反驳。
   - id: 68
     kind: body
     source: |-
       Strictly speaking, what we have here is only half the story. There *is* a difference between the representations of belief as regards weight and balance. But that still leaves open the question of exactly what is representing the weight of evidence? What aspect of the belief reflects this difference? One might be tempted to view $\overline{P}(H)-\underline{P}(H)$ as a measure of the weight of evidence for $H$. Walley (1991) tentatively suggests as much. However, this would get wrong cases of conflicting evidence. (Imagine two equally reliable witnesses: one tells you the coin is biased towards heads, the other says the bias is towards tails.) The question of whether and how IP does better than precise probabilism has not yet received an adequate answer. Researchers in IP have, however, made progress on distinguishing cases where your beliefs happen to have certain symmetry properties from cases where your beliefs capture evidence about symmetries in the objects of belief. This *is* a distinction that the standard precise model of belief fails to capture (de Cooman and Miranda 2007)[^cooman-2007].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      严格说来，我们这里只讲了一半故事。在权重与平衡方面，信念的表征之间 *确实* 存在差异。但这仍然留下一个问题：究竟什么在表征证据的权重？信念的哪个方面反映了这一差异？人们可能倾向于把 $\overline{P}(H)-\underline{P}(H)$ 视为 $H$ 之证据权重的度量。Walley（1991）曾试探性地如此提示。然而，这样做会在证据相互冲突的情形中出错。（设想两位同样可靠的证人：一位告诉你硬币偏向正面，另一位说偏向反面。）IP 是否以及如何优于精确概率主义，这一问题尚未得到充分回答。不过，IP 的研究者已在区分两类情形上取得了进展：一类是你的信念恰好具有某些对称性质，另一类是你的信念把握了关于信念对象之对称性的证据。这一区分正是标准的精确信念模型所无法把握的（de Cooman and Miranda 2007）[^cooman-2007]。
+    step2: |-
+      严格说来，这里只讲了故事的一半：就权重与平衡而言，信念的表征之间 *确实* 有差别。但问题依然悬着：究竟是什么在表征证据的权重？信念的哪一方面反映了这一差别？人们或许会想把 $\overline{P}(H)-\underline{P}(H)$ 当作 $H$ 之证据权重的度量，Walley（1991）也曾试探性地作此提示。然而，这么做在证据相互冲突的场合会失准。（试想两位同样可靠的证人：一位说硬币偏向正面，另一位说偏向反面。）IP 是否、以及如何胜过精确概率主义，至今仍未得到充分回答。不过，IP 研究者确已在区分两类情形上有所推进：一类是你的信念恰好具有某些对称性质，另一类是你的信念把握了关于信念对象之对称性的证据。这一区分恰恰是标准的精确信念模型所无法把握的（de Cooman and Miranda 2007）[^cooman-2007]。
   - id: 69
     kind: body
     source: |-
       The precise probabilist can respond to the weight/balance distinction argument by pointing to the property of *resiliency* (Skyrms 2011)[^skyrms-2011] or *stability* (Leitgeb 2014)[^leitgeb-2014]. The idea is that probabilities determined by the weight of evidence change less in response to new evidence than do probabilities determined by balance of evidence alone. That is, if you’ve seen a hundred tosses of the coin, seeing it land heads doesn’t affect your belief much, while if you’ve not seen any tosses of the coin, seeing it land heads has a bigger effect on your beliefs. Thus, the distinction is represented in the precise probabilistic framework in the conditional probabilities. The distinction, though, is one that cannot rationalise the preference for betting on the fair coin. One could develop a resiliency-weighted expected value and claim that this is what you should maximise, but this would be as much of a departure from orthodox probabilism as IP is. If someone were to develop such a theory, then its merits could be weighed against the merits of IP type models.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      精确概率主义者可以通过指出 *弹性*（resiliency，Skyrms 2011）[^skyrms-2011] 或 *稳定性*（stability，Leitgeb 2014）[^leitgeb-2014] 这一性质来回应权重／平衡区分的论证。其想法是：由证据权重决定的概率，面对新证据时的变化小于仅由证据平衡决定的概率。也就是说，若你已见过硬币一百次抛掷，再看到一次正面并不会使你的信念变化多少；而若你从未见过抛掷，看到一次正面对你的信念影响更大。因此，这一区分在精确概率框架内由条件概率表征出来。然而，这一区分无法把偏好押注公平硬币合理化为理性的。人们可以发展一种按弹性加权的期望值，并主张这才是你应当最大化的东西；但这样做偏离正统概率主义的程度，与 IP 不相上下。若有人发展出这样的理论，其优劣便可与 IP 型模型相较量。
+    step2: |-
+      面对权重／平衡之分的论证，精确概率主义者可以转而指出 *resiliency*（弹性，Skyrms 2011）[^skyrms-2011] 或 *stability*（稳定性，Leitgeb 2014）[^leitgeb-2014] 这一性质：由证据权重确定的概率，遇到新证据时的变动小于仅由证据平衡确定的概率。也就是说，若你已看过硬币一百次抛掷，再见一次正面并不会让你的信念挪动多少；若你一次抛掷也没见过，见一次正面则影响大得多。于是，这一区分在精确概率框架内借条件概率得到了表征。然而，这一区分并不能把偏好押注公平硬币合理化。人们大可构造一种按弹性加权的期望值，并声称这才是你该最大化的东西；可这样一来，它偏离正统概率主义的程度便与 IP 相当。倘若真有人发展出这样的理论，自可将其优劣与 IP 型模型相较。
   - id: 70
     kind: body
     source: |-
       Another potential precise response would be to suggest that there is weight of evidence for $H$ if many propositions that are evidence for $H$ are fully believed, or if there is a chance proposition (about $H$) that is near to fully believed. This is in contrast to cases of mere balance where few propositions that are evidence for $H$ are fully believed, or where probability is spread out over a number of chance hypotheses. The same comments made above about resiliency apply here: such distinctions can be made, but this doesn’t get us to a theory that can rationalise ambiguity aversion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一种可能的精确回应是：若有许多作为 $H$ 之证据的命题被完全相信，或者存在一个（关于 $H$ 的）机遇命题被接近完全地相信，则可说存在支持 $H$ 的证据权重。这与仅有平衡的情形形成对照：在后者中，很少有作为 $H$ 之证据的命题被完全相信，或者概率分散在若干机遇假说之上。上文关于弹性的评论同样适用：这类区分可以作出，但这并不能给我们一个能把歧义厌恶合理化的理论。
+    step2: |-
+      另一种可能的精确进路是：若有许多作为 $H$ 之证据的命题被完全相信，或者有一个关于 $H$ 的机遇命题近乎被完全相信，便可说有支持 $H$ 的证据权重；这与仅有平衡的情形恰成对照——后者中很少有支持 $H$ 的证据命题被完全相信，或者概率分散在若干机遇假说之上。前述关于弹性的评论在此同样适用：这类区分固然可以作出，却仍不能给我们一个足以把歧义厌恶合理化的理论。
   - id: 71
     kind: body
     source: |-
       The phenomenon of dilation (section 3.1) suggests that the kind of argument put forward in this section needs more care and further elaboration.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      膨胀现象（3.1 节）提示：本节所提出的那类论证需要更谨慎的对待与更进一步的阐发。
+    step2: |-
+      膨胀现象（见 3.1 节）表明，本节所提出的这类论证还需更审慎的处理与进一步的展开。
   - id: 72
     kind: body
     source: |-
       ### 2.4 Suspending judgement
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.4 Suspending judgement
+    step2: |-
+      ### 2.4 悬置判断
   - id: 73
     kind: body
     source: |-
       You are sometimes in a position where none of your evidence seems to speak for or against the truth of some proposition. Arguably, a reasonable attitude to take towards such a proposition is suspension of judgement.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      你有时处于这样的境地：你的证据似乎既不支持也不反对某个命题的真。可以说，对这类命题采取的一种合理态度是悬置判断。
+    step2: |-
+      有时你会处于这样的境地：手头证据似乎既不支持、也不反对某个命题为真。对这类命题，悬置判断不失为一种合理态度。
   - id: 74
     kind: body
     source: |-
       > When there is little or no information on which to base our conclusions, we cannot expect reasoning (no matter how clever or thorough) to reveal a most probable hypothesis or a uniquely reasonable course of action. There are limits to the power of reason. (Walley 1991: 2)[^walley-1991]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 当我们据以得出结论的信息很少或没有时，我们不能指望推理（无论多么精巧或周详）揭示出最可能的假说，或唯一合理的行动方案。理性的力量是有限度的。（Walley 1991: 2）[^walley-1991]
+    step2: |-
+      > 可用于支撑结论的信息寥寥无几乃至全无时，我们不能指望推理（无论多么精巧、多么周详）揭示出最可能的假说或唯一合理的行动方案。理性之力自有其限度。（Walley 1991: 2）[^walley-1991]
   - id: 75
     kind: body
     source: |-
       Consider a coin of unknown bias. The Bayesian agent must have a precise belief about the coin’s landing heads on the next toss. Given the complete lack of information about the coin, it seems like it would be better just to suspend judgement. That is, it would be better not to have any particular precise credence. It would be better to avoid betting on the coin. But there just isn’t room in the Bayesian framework to do this. The probability function must output some number, and that number will sanction a particular set of bets as desirable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      考虑一枚偏向未知的硬币。贝叶斯行动者必须对这枚硬币在下一次抛掷中落在正面持有精确的信念。鉴于关于这枚硬币完全缺乏信息，似乎更好的做法是径直悬置判断。也就是说，最好不要持有任何特定的精确信度。最好避免对这枚硬币下注。但在贝叶斯框架中根本没有余地这样做。概率函数必须输出某个数，而这个数会认可某一组特定的赌局是可欲的。
+    step2: |-
+      设想一枚偏向未知的硬币。贝叶斯行动者对这枚硬币下一次抛掷是否落在正面，必须持有精确信念。可是，关于这枚硬币既无任何信息，不如径直悬置判断：不持任何特定的精确信度，不如避开对这枚硬币下注。然而贝叶斯框架根本容不下这种做法——概率函数必须输出某个数，而这个数便认可某一组特定的赌局为可取。
   - id: 76
     kind: body
     source: |-
       Consider $\underline{P}(X)$ as representing the degree to which the evidence supports $X$. Now consider $I(X) = 1- (\underline{P}(X) + \underline{P}(\neg X))$. This measures the degree to which the evidence is silent on $X$. Huber (2009) points out that precise probabilism can then be understood as making the claim that no evidence is ever silent on any proposition. That is, $I(X)=0$ for all $X$. One can never suspend judgement. This is a nice way of seeing the strangeness of the precise probabilist’s attitude to evidence. Huber is making this point about Dempster-Shafer belief functions (see historical appendix, section 7), but it carries over to IP in general.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把 $\underline{P}(X)$ 视为表征证据支持 $X$ 的程度。现在考虑 $I(X) = 1- (\underline{P}(X) + \underline{P}(\neg X))$。它度量证据对 $X$ 保持沉默的程度。Huber（2009）指出，精确概率主义于是可以被理解为主张：证据从不对任何命题保持沉默。也就是说，对所有 $X$，$I(X)=0$。人永远无法悬置判断。这是看清精确概率主义者的证据态度之怪异的一个好办法。Huber 是针对 Dempster-Shafer 信念函数提出这一点的（见历史附录第 7 节），但它同样适用于一般的 IP。
+    step2: |-
+      若把 $\underline{P}(X)$ 看作证据支持 $X$ 的程度，再看 $I(X) = 1- (\underline{P}(X) + \underline{P}(\neg X))$，后者度量的便是证据对 $X$ 保持沉默的程度。Huber（2009）指出，据此可以把精确概率主义理解为在主张：证据从不对任何命题沉默，即对所有 $X$ 都有 $I(X)=0$，人永远无法悬置判断。这正是照见精确概率主义者证据态度之怪异的一束光。Huber 此论本是就 Dempster-Shafer 信念函数而发（见历史附录第 7 节），但同样适用于一般的 IP。
   - id: 77
     kind: body
     source: |-
       The committed precise probabilist would respond that setting $p(X)=0.5$ *is* suspending judgement. This *is* the maximally noncommittal credence in the case of a coin flip. More generally, suspending judgement should be understood in terms of maximising entropy (Jaynes 2003; Williamson 2010: 49–72)[^jaynes-2003][^williamson-2010]. The imprecise probabilist could argue that this only *seems* to be the right way to be noncommittal if you are wedded to the precise probabilist representation of belief. That is, the MaxEnt approach makes sense if you are already committed to representation of belief by a single precise probability, but loses its appeal if credal sets are available. Suspending judgement is something you do when the evidence doesn’t determine your credence. But for the precise probabilist, there is no way to signal the difference between suspension of judgement and strong evidence of probability half. This is just the weight/balance argument again.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      坚定的精确概率主义者会回应说：设定 $p(X)=0.5$ *就是* 悬置判断。在抛硬币的情形中，这 *正是* 最大程度不置可否的信度。更一般地说，悬置判断应当被理解为最大化熵（Jaynes 2003; Williamson 2010: 49–72）[^jaynes-2003][^williamson-2010]。非精确概率主义者可以论证说：只有当你已经固守于精确概率主义的信念表征时，这种做法才 *看来* 是不置可否的正确方式。也就是说，最大熵方法在你已经承诺用单一精确概率表征信念时才讲得通，而一旦手头有信度集可用，它便失去吸引力。悬置判断是你在证据并未确定你的信度时所做的事情。但对精确概率主义者而言，无法标示悬置判断与“概率为一半的有力证据”之间的区别。这又回到了权重／平衡的论证。
+    step2: |-
+      坚定的精确概率主义者会反驳说：令 $p(X)=0.5$ *就是* 悬置判断，在抛硬币的场合，这 *正是* 最不置可否的信度；更一般地，悬置判断应理解为熵的最大化（Jaynes 2003; Williamson 2010: 49–72）[^jaynes-2003][^williamson-2010]。非精确概率主义者则可以回应：只有当你已固守精确概率主义的信念表征时，这种做法才 *看来* 是“不置可否”的正解——最大熵进路在你已承诺以单一精确概率表征信念时才讲得通，一旦信度集可用，它便失去吸引力。悬置判断是证据未能确定信度时的作为；而在精确概率主义者那里，悬置判断与“有强证据支持概率为一半”之间的差别根本无从标示。这又落回权重／平衡的论证。
   - id: 78
     kind: body
     source: |-
       To make things more stark, consider the following delightfully odd example from Adam Elga:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为把事情衬托得更鲜明，考虑 Adam Elga 下面这个妙趣横生的怪例：
+    step2: |-
+      为把问题衬托得更为鲜明，请看 Adam Elga 下面这个妙趣横生的怪例：
   - id: 79
     kind: body
     source: |-
       > A stranger approaches you on the street and starts pulling out objects from a bag. The first three objects he pulls out are a regular-sized tube of toothpaste, a live jellyfish, and a travel-sized tube of toothpaste. To what degree should you believe that the next object he pulls out will be another tube of toothpaste? (2010: 1)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 一个陌生人在街上走近你，开始从袋子里往外掏东西。他掏出的头三样东西是：一支普通大小的牙膏、一只活水母、一支旅行装牙膏。你应当在多大程度上相信他下一次掏出的又是一支牙膏？（2010: 1）
+    step2: |-
+      > 街上有个陌生人向你走来，开始从袋子里往外掏东西。头三件掏出来的，是一支普通装牙膏、一只活水母、一支旅行装牙膏。那么，他下一件掏出的仍是牙膏，你应当相信到什么程度？（2010: 1）
   - id: 80
     kind: body
     source: |-
       In this case, unlike in the coin case, it really isn’t clear what intuition says about what would be the “correct” precise probabilist suspension of judgement. What Maximum Entropy methods recommend will depend on seemingly arbitrary choices about the formal language used to model the situation. Williamson is well aware of this language relativity problem. He argues that choice of a language encodes some of our evidence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在此例中，与硬币一例不同，直觉对于何谓“正确的”精确概率主义式悬置判断确实并不清楚。最大熵方法的建议将取决于一些看似任意的选择，即用以建模该情境的形式语言的选择。Williamson 清楚地意识到这一语言相对性问题。他论证说，语言的选择编码了我们的部分证据。
+    step2: |-
+      此例与硬币一例不同：何谓“正确的”精确概率主义式悬置判断，直觉上其实并不清楚；最大熵方法给出什么建议，取决于对建模所用形式语言的一些看似任意的选择。Williamson 对语言相对性这一难题了然于心，他主张语言的选择本身已编码了我们的部分证据。
   - id: 81
     kind: body
     source: |-
       Another response to this argument would be to take William James’ response to W.K. Clifford (Clifford 1901; James 1897)[^clifford-1901][^james-1897]. James argued that as long as your beliefs are consistent with the evidence, then you are free to believe what you like. So there is *no need* to ever suspend judgement. Thus, the precise probabilist’s inability to do so is no real flaw. This attitude, which is sometimes called *epistemic voluntarism*, is close to the sort of *subjectivism* espoused by Bruno de Finetti, Frank Ramsey and others.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对这一论证的另一种回应，是采取 William James 对 W.K. Clifford 的回应（Clifford 1901; James 1897）[^clifford-1901][^james-1897]。James 论证说，只要你的信念与证据一致，你便可以自由地相信你所愿相信的。因此 *无需* 悬置判断。于是，精确概率主义者做不到这一点并不算真正的缺陷。这种态度有时被称为 *认知意志主义*，它与 Bruno de Finetti、Frank Ramsey 等人所主张的 *主观主义* 颇为相近。
+    step2: |-
+      对这一论证的另一种回应，是接过 William James 对 W.K. Clifford 的答复（Clifford 1901; James 1897）[^clifford-1901][^james-1897]：James 主张，只要信念与证据相容，你便尽可信你所愿信的，因而 *无需* 悬置判断；这样看来，精确概率主义者做不到悬置判断并不算真正的缺陷。这种态度有时称作 *epistemic voluntarism*（认知意志主义），与 Bruno de Finetti、Frank Ramsey 等人所持的 *subjectivism*（主观主义）颇为相近。
   - id: 82
     kind: body
     source: |-
       There does seem to be a case for an alternative method of suspending judgement in order to allow you to avoid making any bets when your evidence is very incomplete, ambiguous or imprecise. If your credences serve as your standard for the acceptability of bets, they should allow for both sides of a bet to fail to be acceptable. A precise probabilist cannot do this since if a bet has (precise) expected value $e$ then taking the other side of that bet (being the bookie) has expected value $-e$. If acceptability is understood as nonnegative expectation, then at least one side of any bet is acceptable to a precise agent. This seems unsatisfactory. Surely genuine suspension of judgement involves being unwilling to risk money on the truth of a proposition at any odds.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      看来确实有理由采取另一种悬置判断的方式，使你得以在证据极不完备、有歧义或非精确时避免下任何赌注。若你的信度充当赌局可接受性的标准，它们就应当允许一项赌局的两侧都不可接受。精确概率主义者做不到这一点：因为若一项赌局具有（精确的）期望值 $e$，那么接受该赌局的另一侧（做庄）就具有期望值 $-e$。若可接受性被理解为非负期望，那么对精确行动者而言，任何赌局至少有一侧是可接受的。这似乎不能令人满意。真正的悬置判断显然包含：不愿以任何赔率拿钱去赌一个命题的真。
+    step2: |-
+      看来确有理由另辟一条悬置判断之途，使你在证据极不完备、有歧义或非精确时不至于非下注不可。信度既然是判断赌局可否接受的标准，就应当容许一项赌局的两侧都不可接受。精确概率主义者做不到：一项赌局的（精确）期望值为 $e$ 时，接下它的另一侧（做庄）期望值便是 $-e$；若把可接受性理解为期望非负，那么任何赌局在精确行动者那里至少有一侧可取。这显然不能令人满意——真正的悬置判断，恰恰包含不以任何赔率拿钱去赌一个命题之真。
   - id: 83
     kind: body
     source: |-
       Inspired by the famous “Bertrand paradox”, Chandler (2014) offers a neat argument that the precise probabilist cannot jointly satisfy two desiderata relating to suspension of judgment about a variable. First desideratum: if you suspend judgement about the value of a bounded real variable $X$, then it seems that different intervals of possible values for $X$ of the same size should be treated the same by your epistemic state. Second desideratum: if $Y$ essentially describes the same quantity as $X$, then suspension of judgement about $X$ should entail suspension of judgement about $Y$. Let’s imagine now that you have precise probabilities and that you suspend judgement about $X$. By the first desideratum, you have a uniform distribution over values of $X$. Now consider $Y = 1/X$. $Y$ essentially describes the same quantity that $X$ did. But a uniform distribution over $X$ entails a non-uniform distribution over $Y$. So you do not suspend judgement over $Y$. A real-world case of variables so related is “ice residence time in clouds” and “ice fall rate in clouds”. These are inversely related, but describe essentially the same element of a climate system (Stainforth et al. 2007: 2154)[^stainforth-2007].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      受著名的“伯特兰悖论”启发，Chandler（2014）提出了一个简洁的论证，说明精确概率主义者无法同时满足关于某个变量的悬置判断的两项要求。第一项要求：若你对一个有界实变量 $X$ 的取值悬置判断，那么 $X$ 的可能取值中大小相同的不同区间，应当被你的认知状态同等对待。第二项要求：若 $Y$ 本质上描述了与 $X$ 相同的量，那么对 $X$ 的悬置判断应当蕴含对 $Y$ 的悬置判断。现在设想你持有精确概率，并且对 $X$ 悬置判断。按第一项要求，你对 $X$ 的取值有一个均匀分布。现在考虑 $Y = 1/X$。$Y$ 本质上描述了 $X$ 所描述的那个量。但 $X$ 上的均匀分布蕴含 $Y$ 上的非均匀分布。所以你对 $Y$ 并未悬置判断。现实世界中存在如此相关的变量：“云中冰的驻留时间”与“云中冰的降落速率”。二者成反比，但描述的是气候系统中本质上相同的要素（Stainforth et al. 2007: 2154）[^stainforth-2007]。
+    step2: |-
+      借用著名的“伯特兰悖论”，Chandler（2014）给出了一个简洁论证：精确概率主义者无法同时满足关于某一变量的悬置判断的两项要求。第一项：若你对有界实变量 $X$ 的取值悬置判断，则 $X$ 的可能取值中大小相同的不同区间，应当被你的认知状态同等看待。第二项：若 $Y$ 实质上描述了与 $X$ 相同的量，则对 $X$ 的悬置判断应蕴含对 $Y$ 的悬置判断。现假设你持精确概率，且对 $X$ 悬置判断。依第一项要求，你对 $X$ 的取值取均匀分布。再令 $Y = 1/X$：$Y$ 实质上描述的正是 $X$ 所描述的那个量，可 $X$ 上的均匀分布却蕴含 $Y$ 上的非均匀分布，于是你对 $Y$ 并未悬置判断。现实世界中恰有这样一对变量：“云中冰的驻留时间”与“云中冰的降落速率”——二者互为反比，却描述着气候系统中实质上同一的要素（Stainforth et al. 2007: 2154）[^stainforth-2007]。
   - id: 84
     kind: body
     source: |-
       So a precise probabilist cannot satisfy these reasonable desiderata of suspension of judgement. An imprecise probabilist can: for example, the set of all probability functions over $X$ satisfies both desiderata. There may be more informative priors that also represent suspension of judgement, but it suffices for now to point out that IP seems better able to represent suspension of judgement than precise probabilism. Section 5.5 of Walley (1991), discusses IP’s prospects as a method for dealing with suspension of judgement.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以，精确概率主义者无法满足这些关于悬置判断的合理要求。非精确概率主义者则可以：例如，$X$ 上所有概率函数构成的集合同时满足这两项要求。也许还有更具信息量的先验也表征悬置判断，但目前只需指出：IP 似乎比精确概率主义更能表征悬置判断。Walley（1991）第 5.5 节讨论了 IP 作为处理悬置判断之方法的前景。
+    step2: |-
+      可见，这些关于悬置判断的合理要求，精确概率主义者无法满足，非精确概率主义者却能：例如 $X$ 上所有概率函数构成的集合便同时满足两项要求。或许还有更具信息量的先验同样表征着悬置判断，但眼下只需指出：IP 似乎比精确概率主义更能表征悬置判断。Walley（1991）第 5.5 节即讨论了 IP 作为处置悬置判断之方法的前景。
   - id: 85
     kind: body
     source: |-
       ### 2.5 Unknown correlations
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.5 Unknown correlations
+    step2: |-
+      ### 2.5 未知相关性
   - id: 86
     kind: body
     source: |-
       Haenni et al. (2011) motivate imprecise probabilities by showing how they can arise from precise probability judgements. That is, if you have a precise probability for $X$ and a precise probability for $Y$, then you can put bounds on $p(X\cap Y)$ and $p(X \cup Y)$, even if you don’t know how $X$ and $Y$ are related. These bounds give you intervals of possible probability values for the compound events.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Haenni et al.（2011）通过表明非精确概率如何能从精确的概率判断中产生，来为它们提供动机。也就是说，若你对 $X$ 有精确概率、对 $Y$ 有精确概率，那么即使你不知道 $X$ 与 $Y$ 如何相关，你也可以对 $p(X\cap Y)$ 与 $p(X \cup Y)$ 给出界。这些界给出复合事件之可能概率值的区间。
+    step2: |-
+      Haenni et al.（2011）为 IP 提供动机的方式，是表明它们如何能从精确的概率判断中生长出来：只要你对 $X$ 有精确概率、对 $Y$ 也有精确概率，那么即便不知道 $X$ 与 $Y$ 如何相关，你也能为 $p(X\cap Y)$ 与 $p(X \cup Y)$ 给出界；这些界给出复合事件可能概率值的区间。
   - id: 87
     kind: body
     source: |-
       For example, you know that $p(X \cap Y)$ is bounded above by $p(X)$ and by $p(Y)$ and thus by $\min\{p(X),p(Y)\}$. If $p(X) \gt 0.5$ and $p(Y) \gt 0.5$ then $X$ and $Y$ must overlap. So $p(X\cap Y)$ is bounded below by $p(X)+p(Y)-1$. But, by definition, $p(X \cap Y)$ is also bounded below by $0$. So we have the following result: if you know $p(X)$ and you know $p(Y)$, then, you know
 
       $$ \max\{0,p(X)+p(Y)-1\} \le p(X \cap Y) \le \min\{p(X),p(Y)\}. $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，你知道 $p(X \cap Y)$ 以 $p(X)$ 为上界、也以 $p(Y)$ 为上界，因而以 $\min\{p(X),p(Y)\}$ 为上界。若 $p(X) \gt 0.5$ 且 $p(Y) \gt 0.5$，则 $X$ 与 $Y$ 必然相交。于是 $p(X\cap Y)$ 以 $p(X)+p(Y)-1$ 为下界。但按定义，$p(X \cap Y)$ 也以 $0$ 为下界。于是我们得到如下结果：若你知道 $p(X)$，又知道 $p(Y)$，那么你就知道
+
+      $$ \max\{0,p(X)+p(Y)-1\} \le p(X \cap Y) \le \min\{p(X),p(Y)\}. $$
+    step2: |-
+      例如，$p(X \cap Y)$ 以 $p(X)$ 为上界，也以 $p(Y)$ 为上界，因而以 $\min\{p(X),p(Y)\}$ 为上界；若 $p(X) \gt 0.5$ 且 $p(Y) \gt 0.5$，则 $X$ 与 $Y$ 必有交叠，于是 $p(X\cap Y)$ 以 $p(X)+p(Y)-1$ 为下界。但按定义，$p(X \cap Y)$ 又受 $0$ 所限。合起来便得：知道 $p(X)$、又知道 $p(Y)$，你也就知道
+
+      $$ \max\{0,p(X)+p(Y)-1\} \le p(X \cap Y) \le \min\{p(X),p(Y)\}. $$
   - id: 88
     kind: body
     source: |-
       Likewise, bounds can be put on $p(X \cup Y)$. $p(X\cup Y)$ can’t be bigger than when $X$ and $Y$ are disjoint, so it is bounded above by $p(X)+p(Y)$. It is also bounded above by $1$, and thus by the minimum of those expressions. It is also bounded below by $p(X)$ and by $p(Y)$ and thus by their maximum. Putting this together,
 
       $$\max\{p(X),p(Y)\} \le p(X\cup Y) \le \min\{p(X)+p(Y),1\}.$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      同样，也可以对 $p(X \cup Y)$ 给出界。$p(X\cup Y)$ 不会大于 $X$ 与 $Y$ 不相交时，故以 $p(X)+p(Y)$ 为上界。它也以 $1$ 为上界，因而以这两个表达式的最小值为上界。它还以 $p(X)$ 与 $p(Y)$ 为下界，因而以二者最大值为下界。合起来，
+
+      $$\max\{p(X),p(Y)\} \le p(X\cup Y) \le \min\{p(X)+p(Y),1\}.$$
+    step2: |-
+      同理也可为 $p(X \cup Y)$ 给出界：$p(X\cup Y)$ 不会大于 $X$ 与 $Y$ 不相交时的值，故以 $p(X)+p(Y)$ 为上界；它又不大于 $1$，因而以这两者中的较小者为上界。另一方面，它以 $p(X)$、也以 $p(Y)$ 为下界，因而以二者中的较大者为下界。合而观之，
+
+      $$\max\{p(X),p(Y)\} \le p(X\cup Y) \le \min\{p(X)+p(Y),1\}.$$
   - id: 89
     kind: body
     source: |-
       These constraints are effectively what you get from de Finetti’s Fundamental Theorem of Prevision (de Finetti 1990 [1974]: 112; Schervish, Seidenfeld, and Kadane 2008)[^finetti-1990].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些约束实际上就是 de Finetti 的预现基本定理所给出的东西（de Finetti 1990 [1974]: 112; Schervish, Seidenfeld, and Kadane 2008）[^finetti-1990]。
+    step2: |-
+      这些约束，实质上正是 de Finetti 的预现基本定理所给出的结果（de Finetti 1990 [1974]: 112; Schervish, Seidenfeld, and Kadane 2008）[^finetti-1990]。
   - id: 90
     kind: body
     source: |-
       So if your evidence constrains your belief in $X$ and in $Y$, but is silent on their interaction, then you will only be able to pin down these compound events to certain intervals. Any choice of a particular probability function will go beyond the evidence in assuming some particular evidential relationship between $X$ and $Y$. That is, $p(X)$ and $p(X\mid Y)$ will differ in a way that has no grounding in your evidence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，若你的证据约束了你对 $X$ 与对 $Y$ 的信念，却对二者的相互作用保持沉默，那么你只能把这些复合事件确定到某些区间。任何对特定概率函数的选择，都会在假定 $X$ 与 $Y$ 之间某种特定证据关系上超出证据。也就是说，$p(X)$ 与 $p(X\mid Y)$ 的差异将缺乏证据上的根据。
+    step2: |-
+      于是，当证据约束了你对 $X$ 与对 $Y$ 的信念，却对二者的相互作用保持沉默时，你能把这些复合事件钉住的就只有若干区间。无论选取哪一个特定的概率函数，都会在假定 $X$ 与 $Y$ 之间存在某种特定证据关系这一点上越出证据：$p(X)$ 与 $p(X\mid Y)$ 之间的差异，在证据中找不到根据。
   - id: 91
     kind: body
     source: |-

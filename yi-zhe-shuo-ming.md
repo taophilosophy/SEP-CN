@@ -2439,3 +2439,14 @@
 | behaviourism | — | 行为主义 | 首现（imprecise-probabilities） | 学界惯例（心理学与心灵哲学通行）；凭证 2026-11-08 | 2026-11-08 |
 | Ellsberg problem | — | Ellsberg 问题 | 首现（imprecise-probabilities） | 自译裁定（保留英文姓氏，现代学者人名不汉译）；凭证 2026-11-08 | 2026-11-08 |
 | idealised evidential position | — | 理想化证据位置 | 首现（imprecise-probabilities） | 构词直译；凭证 2026-11-08 | 2026-11-08 |
+| entropy | — | 熵 | 首现（imprecise-probabilities） | 学界惯例（信息论与统计力学通行）；凭证 2026-11-08 | 2026-11-08 |
+| maximum entropy | — | 最大熵 | 首现（imprecise-probabilities） | 学界惯例（Jaynes 方法通行；缩写 MaxEnt）；凭证 2026-11-08 | 2026-11-08 |
+| principle of indifference | — | 无差别原则 | 首现（imprecise-probabilities） | 学界惯例（概率哲学通行；亦作不充分理由原则）；凭证 2026-11-08 | 2026-11-08 |
+| resiliency | — | 弹性 | 首现（imprecise-probabilities） | 学界惯例（Skyrms 概率哲学用语）；凭证 2026-11-08 | 2026-11-08 |
+| stability | — | 稳定性 | 首现（imprecise-probabilities） | 学界惯例（Leitgeb 用语，与 resiliency 略同）；凭证 2026-11-08 | 2026-11-08 |
+| epistemic voluntarism | — | 认知意志主义 | 首现（imprecise-probabilities） | 构词直译（与 subjectivism 主观主义对举）；凭证 2026-11-08 | 2026-11-08 |
+| belief function | — | 信念函数 | 首现（imprecise-probabilities） | 学界惯例（Dempster-Shafer 理论通行）；凭证 2026-11-08 | 2026-11-08 |
+| Fundamental Theorem of Prevision | — | 预现基本定理 | 首现（imprecise-probabilities） | 学界惯例（de Finetti 术语）；凭证 2026-11-08 | 2026-11-08 |
+| Bertrand paradox | — | 伯特兰悖论 | 首现（imprecise-probabilities） | 学界惯例（概率论通行）；凭证 2026-11-08 | 2026-11-08 |
+| identity theory (of truth) | — | 同一论 | truth-coherence 补记 | 学界通行汉译（真理同一论，与融贯论/符合论对举）；凭证 2026-11-08 | 2026-11-08 |
+| epistemic realism about truth | — | 真理实在论 | truth-coherence 补记 | 学界通行汉译（接受二值原则与超越原则的立场）；凭证 2026-11-08 | 2026-11-08 |
