@@ -1,0 +1,885 @@
+version: 1
+slug: korean-confucianism
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Koreans have played a pivotal role in shaping Asian intellectual history, serving as dynamic agents of intercultural synthesis. By the fifth century CE, the “Three Teachings” of China—Buddhism, Confucianism, and Daoism—had permeated Korean society, merging with indigenous traditions and institutions. This encounter was not merely cultural but profoundly philosophical: ideas became instruments for structuring life, guiding conduct, and envisioning order. Korean Confucians, drawing on principles of hierarchy and moral governance, forged a bureaucratic framework that offered society a disciplined modus vivendi. Here, philosophy was inseparable from praxis, bearing tangible consequences for the individual, the family, and the state—indeed, for the cosmos itself. While Confucian thought prioritized ethical and social harmony over spiritual introspection, it sought to articulate an organized moral discourse capable of sustaining communal life. Inevitably, tensions among competing schools of thought sparked rigorous debates, culminating in the maturation of Korean Confucianism during the Chosŏn dynasty (1392–1910), when Neo-Confucianism emerged as a recalibrated system, eclipsing Buddhism as Korea’s dominant philosophical paradigm (for an overview of Confucianism in Korea, see Sancho 2025b)[^sancho-2025b].
+    step1: |-
+      朝鲜人在塑造亚洲思想史方面起了关键作用，是跨文化综合的推动者。至公元五世纪，中国的“三教”——佛教、儒学与道教——已渗入朝鲜社会，并与本土传统和制度融合。这一相遇不只是文化的，而且有深刻的哲学意义：观念成为安排生活、引导行为、构想秩序的工具。朝鲜儒者依循等级与德治的原则，锻成一套官僚框架，为社会提供了一种有纪律的共处之道。在这里，哲学与实践不可分离，对个人、家庭与国家——乃至宇宙本身——都有切实后果。儒家思想虽把伦理与社会和谐置于精神内省之上，却力图阐发一套能维系共同生活的有组织的道德话语。学派之间的张力难免引发激烈论辩，最终促成朝鲜儒学的成熟：在朝鲜王朝（1392–1910）时期，性理学作为一种重新校准的体系兴起，取代佛教成为朝鲜主导的哲学范式（关于朝鲜儒学的概况，见 Sancho 2025b）[^sancho-2025b]。
+    step2: |-
+      朝鲜人在塑造亚洲思想史方面起了关键作用，是跨文化综合的能动推动者。至公元五世纪，中国的“三教”——佛教、儒学与道教——已渗入朝鲜社会，并与本土传统和制度融合。这一相遇不只是文化性的，更有深刻的哲学意义：观念成了安排生活、引导行为、构想秩序的工具。朝鲜儒者依循等级与德治的原则，锻成一套官僚框架，为社会提供了一种有纪律的共处之道。在这里，哲学与实践不可分离，对个人、家庭与国家——乃至宇宙本身——都有切实后果。儒家思想虽把伦理与社会和谐置于精神内省之上，却力图阐发一套足以维系共同生活的有组织的道德话语。各学派之间的张力难免引发激烈论辩，最终促成朝鲜儒学的成熟：在朝鲜王朝（1392–1910）时期，性理学作为一种重新校准的体系兴起，取代佛教成为朝鲜主导性的哲学范式（关于朝鲜儒学的概况，见 Sancho 2025b）[^sancho-2025b]。
+  - id: 2
+    kind: body
+    source: |-
+      The following sections will examine the principal ideas and recurring themes of Korean Confucianism, providing a systematic analysis of its core metaphysical concepts and the philosophical debates that have informed its development. Particular attention will be given to one of its most distinctive ideals—sagehood—an ethical paradigm that shaped Korea’s intellectual tradition and continues to offer a meaningful framework for moral reflection in the twenty-first century.
+    step1: |-
+      以下各节考察朝鲜儒学的主要观念与反复出现的主题，对其核心形而上学概念、以及塑造其发展的哲学论辩作系统分析。其中特别关注它最具特色的一个理想——圣人人格，这一伦理范式塑造了朝鲜的思想传统，至今仍为二十一世纪的道德反思提供有意义的框架。
+    step2: |-
+      以下各节将考察朝鲜儒学的主要观念与反复出现的主题，对其核心形而上学概念以及塑造其发展的哲学论辩作系统分析。其中将特别关注它最具特色的一个理想——圣人人格（sagehood）——这一伦理范式塑造了朝鲜的思想传统，至今仍为二十一世纪的道德反思提供有意义的框架。
+  - id: 3
+    kind: body
+    source: |-
+      ## 1. Initial Observations
+    step1: |-
+      ## 1 初步观察
+    step2: |-
+      ## 1 初步观察
+  - id: 4
+    kind: body
+    source: |-
+      The tradition that is known as Confucianism in the West is known as *Yuhak* in Korean (儒學; C. *Ruxue*) [the study of the “Ru” scholars], or *Yugyo* (儒敎, C. *Rujiao*) [the teachings of the scholars]. Korean Confucians have contributed greatly to complex metaphysical discussions relating to the moral psychology of Confucian philosophy and its teachings. The goal of such teachings is to become a sage (聖人, C. *Shengren*, K. *Sŏngin*), and this is a salient feature of Korean Confucianism, referring to someone who studies, and who morally transforms themselves through concerted effort. In this sense, one’s moral cultivation, known in the Confucian texts as “self-cultivation” (修己, C. *xiuji*, K. *sugi*), meant that humans should depend on themselves and their own inherent abilities to solve their own problems (social and personal), ruling out the need for help from gods or deities. This becomes evident when we read the Korean philosophical texts on sagehood discussed below.
+    step1: |-
+      在西方称为儒学的这一传统，在朝鲜语中称 *Yuhak*（儒学；汉 *Ruxue*）［即“儒”士之学］，或称 *Yugyo*（儒教，汉 *Rujiao*）［即士人之教］。朝鲜儒者对儒家哲学及其教说中牵涉道德心理学的复杂形而上学讨论贡献甚巨。这类教说的目标是成圣（圣人，汉 *Shengren*，韩 *Sŏngin*）；这是朝鲜儒学的一个突出特征，指一个人通过持续努力去研习并在道德上转化自身。在此意义上，一个人的道德修养——儒家典籍中称“修己”（汉 *xiuji*，韩 *sugi*）——意味着人应当依靠自身与其固有能力解决自己的问题（社会性的与个人性的），从而排除了求助神灵的必要。这一点，在我们阅读下文讨论圣人人格的朝鲜哲学文本时便显而易见。
+    step2: |-
+      在西方称为儒学的这一传统，在朝鲜语中称 *Yuhak*（儒学；汉 *Ruxue*）［即“儒”士之学］，或称 *Yugyo*（儒教，汉 *Rujiao*）［即士人之教］。朝鲜儒者对儒家哲学及其教说中牵涉道德心理学的复杂形而上学讨论贡献甚巨。这类教说的目标是成圣（圣人，汉 *Shengren*，韩 *Sŏngin*），而这是朝鲜儒学的一个突出特征：它指一个人通过持续努力研习、并在道德上转化自身。在此意义上，一个人的道德修养——儒家典籍中称“修己”（汉 *xiuji*，韩 *sugi*）——意味着人应当依靠自身与其固有能力来解决自己的问题（社会性的与个人性的），从而排除求助于神灵的必要。这一点，在我们阅读下文讨论圣人人格的朝鲜哲学文本时便显而易见。
+  - id: 5
+    kind: body
+    source: |-
+      The classical texts of Confucianism, which were later edited and probably re-organised by Confucius himself, are known as the *Five Classics* (五經, C. *Wujing*, K. *Ogyŏng*):
+    step1: |-
+      儒家经典——后来由孔子本人编订、很可能也经他重新整理——称为《五经》（汉 *Wujing*，韩 *Ogyŏng*）：
+    step2: |-
+      儒家的经典文本——后来由孔子本人编订、很可能也经他重新整理——称为《五经》（汉 *Wujing*，韩 *Ogyŏng*）：
+  - id: 6
+    kind: body
+    source: |-
+      - *Yijing* (易經) [Classic of Changes],
+      - *Shujing* (書經) [Classic of History],
+      - *Shijing* (詩經) [Classic of Poetry],
+      - *Liji* (禮記) [Records of Rites], and
+      - *Chunqiu* (春秋) [Spring and Autumn Annals].
+    step1: |-
+      * 《易经》（*Yijing*）［变化之书］，
+      * 《书经》（*Shujing*）［历史之书］，
+      * 《诗经》（*Shijing*）［诗歌之书］，
+      * 《礼记》（*Liji*）［礼仪记录］，与
+      * 《春秋》（*Chunqiu*）［春秋编年］。
+    step2: |-
+      * 《易经》（*Yijing*）［变化之书］，
+      * 《书经》（*Shujing*）［历史之书］，
+      * 《诗经》（*Shijing*）［诗歌之书］，
+      * 《礼记》（*Liji*）［礼仪记录］，以及
+      * 《春秋》（*Chunqiu*）［春秋编年］。
+  - id: 7
+    kind: body
+    source: |-
+      Later, a new body of work would be grouped into a new set of texts collectively known as *The Four Books* (四書, C. *Sishu*, K. Sasŏ), by the great Southern Song dynasty (1126–1271) scholar Zhu Xi (1130–1200):
+    step1: |-
+      后来，另一批著作被编为新的一套经典，统称《四书》（汉 *Sishu*，韩 *Sasŏ*），这要归功于南宋（1126–1271）大儒朱熹（1130–1200）：
+    step2: |-
+      后来，另一批著作被编为新的一套经典，统称《四书》（汉 *Sishu*，韩 *Sasŏ*），这要归功于南宋（1126–1271）大儒朱熹（1130–1200）：
+  - id: 8
+    kind: body
+    source: |-
+      - *Lunyu* (論語) [The Analects],
+      - *Daxue* (大學) [The Great Learning],
+      - *Zhongyong* (中庸) [The Doctrine of the Mean], and
+      - *Mengzi* (孟子) [The Mencius].
+      - (The *Daxue* and *Zhongyong* were originally separate chapters in the *Liji*—Record of Rites. See also Other Internet Resources for more information.)
+    step1: |-
+      * 《论语》（*Lunyu*）［论语］，
+      * 《大学》（*Daxue*）［大学］，
+      * 《中庸》（*Zhongyong*）［中庸］，与
+      * 《孟子》（*Mengzi*）［孟子］。
+      * （《大学》与《中庸》原为《礼记》中各自独立的篇章。更多信息见“其他网络资源”。）
+    step2: |-
+      * 《论语》（*Lunyu*），
+      * 《大学》（*Daxue*），
+      * 《中庸》（*Zhongyong*），以及
+      * 《孟子》（*Mengzi*）。
+      * （《大学》与《中庸》原为《礼记》中各自独立的篇章。更多信息见“其他网络资源”。）
+  - id: 9
+    kind: body
+    source: |-
+      Zhu, a severe critic of Buddhism, consolidated the later metaphysical developments of Confucian thought into what became known as Neo-Confucianism—a synthesis that profoundly influenced the course of Korean intellectual history. His commentaries on the *Four Books*—including their reorganization and occasional rephrasing—were elevated to the status of “orthodox” interpretation, while alternative readings were relegated to heterodoxy. Yet Korean Confucians engaged these inherited ideas in ways distinct from their Chinese counterparts, generating debates that not only reframed Neo-Confucian discourse but also underscored Korea’s unique and enduring contribution to the philosophical tradition.
+    step1: |-
+      朱熹是佛教的严厉批评者，他把儒家思想后来的形而上学发展整合为后世所称的性理学——这一综合深刻影响了朝鲜思想史的走向。他对《四书》的注释——包括重新编次与偶或改写的措辞——被提升为“正统”解释，而其他读法则被贬为异端。然而朝鲜儒者以不同于中国同侪的方式处理这些承继而来的观念，由此产生的论辩不仅重新框定了性理学的话语，也凸显了朝鲜对哲学传统的独特而持久的贡献。
+    step2: |-
+      朱熹是佛教的严厉批评者，他把儒家思想后来的形而上学发展整合为后世所称的性理学——这一综合深刻影响了朝鲜思想史的走向。他对《四书》的注释——包括重新编次与偶或改写措辞——被提升为“正统”解释，而其他读法则被贬为异端。然而朝鲜儒者处理这些承继而来的观念，方式不同于中国同侪；由此产生的论辩不仅重新框定了性理学话语，也凸显了朝鲜对哲学传统的独特而持久的贡献。
+  - id: 10
+    kind: body
+    source: |-
+      One’s social obligations calibrated through a distinct set of relationships has been extremely important for Koreans, in the past as well as in the present. The “Five Cardinal Relationships” (五倫, C. *wulun*, K. *oryun*) of Confucianism, where each relationship was related to a particular virtue, are emphasised in *Mencius*:
+    step1: |-
+      通过一套特定关系来校准的社会义务，对朝鲜人极为重要，古今皆然。儒学的“五伦”（汉 *wulun*，韩 *oryun*）——每一伦都系于一种特定的德——在《孟子》中得到强调：
+    step2: |-
+      通过一套特定关系来校准的社会义务，对朝鲜人极为重要，古今皆然。儒学的“五伦”（汉 *wulun*，韩 *oryun*）——每一伦都系于一种特定的德——在《孟子》中得到强调：
+  - id: 11
+    kind: body
+    source: |-
+      > between father and son there should be affection; between ruler and minister there should be righteousness; between husband and wife there should be attention to their separate functions; between old and young there should be proper order; and between friends there should be faithfulness. (3A:4; translated SB-Chan: 69–70)
+    step1: |-
+      > 父子有亲，君臣有义，夫妇有别，长幼有序，朋友有信。（3A:4；译文据 SB-Chan：69–70）
+    step2: |-
+      > 父子有亲，君臣有义，夫妇有别，长幼有序，朋友有信。（3A:4；译文据 SB-Chan：69–70）
+  - id: 12
+    kind: body
+    source: |-
+      In the Korean Confucian tradition, social position and age were not merely markers of status but integral to maintaining a hierarchical order believed to reflect cosmic harmony. Women were particularly disadvantaged under these interpretations, expected to remain perpetually subordinate to men—fathers, husbands, and even sons—roles reinforced through gendered education. This subordination was framed as part of a universal principle of order, where fulfilling one’s prescribed role was essential for achieving societal “harmony.” Harmony, in this sense, was not egalitarian but hierarchical: a well-functioning society was imagined as a moral cosmos in which each person’s duties were clearly delineated and rigorously observed (see Cawley 2025: 139-147)[^cawley-2025]. Nevertheless, the “superior” person in these hierarchical relationships was expected to embody moral integrity and social responsibility—most notably the king, whose authority carried reciprocal obligations toward the people he governed. This ideal of good or virtuous rulership is a recurring theme in the literature on *Sage Learning* (聖學, C. *shengxue*, K. *sŏnghak*), which profoundly shaped Korean Neo-Confucianism. Another relationship, possibly emphasized more in Korea than in China, was filial piety (孝, C. *xiao*, K. *hyo*). *Hyo* remains one of the defining features of Korean Confucian culture, where respect for parents and elders continues to be deeply ingrained. Within the family, the eldest male occupied the highest position of honor, underscoring the gendered hierarchy that Confucian norms institutionalized on the peninsula. This patriarchal structure—once regarded as essential for social harmony—is now the subject of intense debate in contemporary Korea, particularly in light of gender equality movements such as #MeToo, which challenge the enduring legacy of these Confucian ideals.
+    step1: |-
+      在朝鲜儒学传统中，社会地位与年龄不只是身份的标记，更是维持一种被认为映现宇宙和谐的等级秩序所不可缺的要素。在这种解释下，女性处境尤为不利：她们被期待永远从属于男性——父、夫乃至子——这些角色又通过按性别区分的教育加以强化。这种从属被说成普遍秩序原理的一部分：各人履行其被规定的角色，是实现社会“和谐”的必要条件。在此意义上，和谐不是平等主义的，而是等级性的：一个运作良好的社会被想象为一个道德的宇宙，其中每个人的职责都界限分明并得到严格遵行（见 Cawley 2025: 139-147）[^cawley-2025]。不过，在这些等级关系中，处于“上位”者被期待体现道德操守与社会责任——尤其是君主，其权威对他所统治的人民负有相互的义务。这种良好或德性统治的理想，是《圣学》（汉 *shengxue*，韩 *sŏnghak*）文献中反复出现的主题，它深刻塑造了朝鲜性理学。另一种关系——孝（汉 *xiao*，韩 *hyo*）——在朝鲜或许比在中国更受强调。孝至今仍是朝鲜儒家文化的界定性特征之一，对父母与长辈的敬重至今仍根深蒂固。在家庭内部，最年长的男性居于最尊荣的位置，凸显了儒家规范在半岛上加以制度化的性别等级。这一父权结构——曾被视为社会和谐所必需——如今在当代朝鲜成为激烈争论的对象，尤其在 #MeToo 等性别平等运动的映照下，这些运动挑战着这些儒家理想的持久遗产。
+    step2: |-
+      在朝鲜儒学传统中，社会地位与年龄不只是身份的标记，更是维持一种被认为映现宇宙和谐的等级秩序所不可或缺的要素。在这种解释下，女性处境尤为不利：她们被期待永远从属于男性——父、夫乃至子——这些角色又通过按性别区分的教育加以强化。这种从属被说成普遍秩序原理的一部分：各人履行其被规定的角色，是实现社会“和谐”的必要条件。在此意义上，和谐不是平等主义的，而是等级性的：一个运作良好的社会被想象为一个道德的宇宙，其中每个人的职责都界限分明并得到严格遵行（见 Cawley 2025: 139-147）[^cawley-2025]。不过，在这些等级关系中处于“上位”者，被期待体现道德操守与社会责任——尤其是君主，其权威对他所统治的人民负有相互的义务。这种良好统治或德性统治的理想，是《圣学》（汉 *shengxue*，韩 *sŏnghak*）文献中反复出现的主题，它深刻塑造了朝鲜性理学。另一种关系——孝（汉 *xiao*，韩 *hyo*）——在朝鲜或许比在中国更受强调。孝至今仍是朝鲜儒家文化的界定性特征之一，对父母与长辈的敬重至今仍然深厚。在家庭内部，最年长的男性居于最尊荣的位置，凸显了儒家规范在半岛上加以制度化的性别等级。这一父权结构——曾被视为社会和谐所必需——如今在当代朝鲜成为激烈争论的对象，尤其在 #MeToo 等性别平等运动的映照下，这些运动挑战着这些儒家理想的持久遗产。
+  - id: 13
+    kind: body
+    source: |-
+      In Korea, ancestral rites (*chesa*, 祭祀, C. *jisi*) remain one of the most enduring expressions of Confucian ritual propriety (禮, C. *li*, K. *ye*), using ritual as a mechanism for ordering society. Far from being mere commemorative practices, these ceremonies historically functioned as a cornerstone of social organization. By prescribing strict rules for who could officiate—typically the eldest son—*chesa* reinforced patrilineal descent and male authority within the family, embedding hierarchical norms into the fabric of everyday life. Women were systematically excluded from performing these rites, their roles confined to preparation and support, reflecting the metaphysical mapping of Yin and Yang onto gender: men as active agents of ritual and lineage continuity, women as passive and subordinate. Through this ritual system, Confucian cosmology was enacted in domestic space, transforming the family into a microcosm of the moral universe. Observing *chesa* was thus not only an act of filial piety but a reaffirmation of social order, where harmony was achieved through fulfilling one’s prescribed role within a divinely patterned hierarchy. Naoaki Hiraishi (2003: 187) underscores the important function of rituals in society, noting their refining influence, and how they have “the advantage of inculcating people with social norms rather than […] social ordering with criminal law and other physical punishment”.
+    step1: TBD
+    step2: TBD
+  - id: 14
+    kind: body
+    source: |-
+      The refining nature of moral education was a central pillar of Korean Confucianism, vigorously asserted by scholars and institutionalized at every level of society—even the king underwent formal Confucian training, receiving lectures on orthodox morality (see Sohn 2000: ch. 1)[^sohn-2000]. Korean Confucians embraced the Mencian view of education as a process of cultivating innate goodness, grounded in the belief that “human nature” (性, C. *xing*, K. *sŏng*) is inherently good. Education, therefore, was not merely instructional but transformative—a vehicle for refining one’s moral disposition and aligning it with universal Principle (理, *i*). In this sense, Mencius’ ideas provided the metaphysical foundation for Chosŏn’s intellectual life, stimulating profound philosophical recalibrations and sparking debates that would define Korean Neo-Confucian thought for centuries.
+    step1: TBD
+    step2: TBD
+  - id: 15
+    kind: body
+    source: |-
+      ## 2. Neo-Confucian Metaphysical Recalibration
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      ### 2.1 *Principle*, Human Nature, and Material Force
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      Early Confucian thought was anchored in an ethical vision yet lacked the metaphysical and cosmological architecture necessary to rival the comprehensive soteriology of Buddhism. This conceptual lacuna, as Creel notes, compelled Confucian scholars to “offer a cosmology that could compete with the Buddhists” (1971: 205). From this intellectual imperative arose the Neo-Confucian synthesis—a system that, by the twilight of the Koryŏ dynasty (918–1392), had already permeated Korean discourse, where inquiries into human nature (*sŏng*) began to unfold with systematic rigor. The revival of Confucianism in Tang China, initiated by Han Yu (768–824), marked a decisive rupture: his *Inquiry on Human Nature* reaffirmed Mencian principles while repudiating Buddhist metaphysics. These ideas, transmitted across cultural boundaries, armed Korean scholars with both conceptual instruments and polemical resolve, enabling them to contest Buddhist doctrines and, in so doing, to deepen their own debates on the ontological and moral essence of human nature (SB-Chan: 452–455; SB-BB: 583–585).
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      Neo-Confucianism can be traced to the writings of “The Five Sages of Song”: Shao Yong (1011–1077), Zhou Dunyi (1017–1073), Zhang Zai (1020–1077), and two brothers, Cheng Hao (1032–1085) and Cheng Yi (1033–1107). However, their main ideas were recognised and appreciated only later when their various contributions were synthesised by the impressive scholar Zhu Xi, particularly the ideas of the Cheng brothers (Fairbank & Goldman 1999: 98)[^fairbank-1999]. Ames and Rosemont (1998: 17) highlight how “Zhu Xi’s commentaries […] became the definitive of the [Neo-Confucian] tradition from the early fourteenth century through the twentieth centuries”, and this influence also extended to Korea, becoming deeply rooted there. Zhu’s compendium on Neo-Confucian thought, *Jinsilu* (近思錄) [Reflections on Things at Hand], written with Lu Zu-qian (1137–1181), became the handbook on this great philosophical synthesis, and was integral to the Korean development of those ideas. Zhu focused on self-cultivation, a necessary ingredient in Confucian sagehood that became central to Korean’s interpretation of those ideas (Chan 1987: 122–124; Tillman 1992: 114–118)[^chan-1987][^tillman-1992].
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      It was Zhu Xi’s profound rearticulation of the Cheng brothers’ doctrine of *Principle* (理, C. *li*, K. *i*) that decisively shaped its Korean reception. In this Neo-Confucian vision, *Principle*—italicized here to distinguish it from its Western analogues—signifies the primordial, ordering ground of all reality. Every entity bears its own determinate principle, yet each is but a particularization of the overarching, immaterial, and universally structuring *Principle* that governs the cosmos. Cheng Yi famously asserted that *Principle* is one, though its manifestations are many, and that its consummate expression is found in humanity—especially in the mind, endowed with an inherently “good” nature (SB-Chan: 544). In Korea, this metaphysical orientation came to define Neo-Confucianism, commonly designated as the *School of Principle* (理學, K. *ihak*) or, more fully, the *School of Principle and Human Nature* (性理學, K. *sŏngnihak*), signaling an intellectual trajectory that pursued metaphysical inquiry to an unprecedented microcosmic depth (Keum 1980 [2000]; Kang 2003 [2006])[^kang-2003][^keum-1980].
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      While Zhu had given primacy to *Principle*, at the same time he recognised it as intertwined with the material force (*ki*):
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      > Fundamentally [*Principle*] and material force cannot be spoken of as prior or posterior. But if we trace their origin, we are obliged to say that [*Principle*] is prior. (SB-Chan: 634)
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      This stance was initially adapted by the majority of Neo-Confucian scholars in Korea, and developed by Kwŏn Kŭn (1352–1409), who “had the most sophisticated understanding of Neo-Confucian metaphysics” in the fourteenth century, especially his *Diagrammatic Treatises for the Commencement of Learning* (入學圖說, K. *Iphak tosŏl*), which consisted of some
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      > forty diagrams and explanations designed to help beginners grasp the fundamentals of [Human] Nature and *Principle* Learning. (SB-Lee: 449–450)
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      These diagrammatic expositions reflect an important dimension of the Korean Neo-Confucian tradition, to use diagrams to explain complex metaphysical ideas and how they related to moral psychology embedded within the mind. Kwŏn wrote that
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      > [*Principle*] is the fundamental basis of the mind and material force. Therefore, [*Principle*] precedes Material Force,
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      which allows him to uphold the idea that human nature is good, because *Principle* is good, and that what is not good is due to the material force (see Choi M.-H. 1980: 37–38; slightly adapted translation)[^choi-1980]. Furthermore, he was the first Neo-Confucian scholar in Korea to discuss *Principle* and material force in relation to the human mind linked with the “four beginnings”, and the “seven feelings”: The “four beginnings” are referred to by Mencius (2A:6; see SB-Chan: 65): the feeling [(情, C. *qing*, K. *chŏng*)] of commiseration, shame and dislike, deference and compliance, and the feeling of right and wrong, which when developed lead to the cardinal virtues of Confucianism (humanity, righteousness, propriety and wisdom). Humanity (仁, C. *ren* (sometimes *jen*), K. *in*) was seen as the greatest Confucian virtue, often translated as benevolence or kind-heartedness. The “seven feelings” are referred to in the ninth chapter of the *Book of Rites*: joy, anger, sadness, fear, love, dislike and liking. Kwŏn linked the four beginnings (which were always good) with *Principle*, and the seven feelings (which could be potentially bad) with the material force, starting a veritable meta-psychological chain reaction that continues until today. These ideas were consolidated in his “*Diagram of the Unity* and Oneness of *Heaven*, Human Beings, Mind, and Human Nature” (天人心性合一之圖, K. *Ch’ŏnin simsŏng habil-to*), and in Kwŏn’s view “Heaven” referred to the working of *Principle* in all things, including the human mind, and so (wo)man’s mind was linked to the moral *Principle* of the universe, embodied by the sage (see Halla Kim 2017: 1–23)[^kim-2017][^kim-2017-2][^kim-2017-3][^kim-2017-4].
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      Further complicating the intellectual impetus of Korean Confucianism was its reaction to (or rather against) Sinitic Chan meditational developments that shaped the Sŏn school in Korea. Korean Sŏn ideas had arguably reached their maturity in the teachings of the Koryŏ monk Chinul (1158–1210), especially his text *Secrets on Cultivating the Mind* (修心訣, K. *Susim kyŏl*). Chinul’s approach recognises the mind as the essence (體, K. *che*) of one’s Buddha Nature, which requires continual practice and cultivation aids to refine its function (用 K. *yong*), bringing together the important essence-function (*che-yong*) feature of Korea’s Buddhist tradition, which would deeply influence the Neo-Confucian thought of Chosŏn (for an in depth examination of Chinul’s ideas see, Buswell Jr. 2016)[^buswell-2016]. The Sŏn practice of seated meditation would also shape Neo-Confucianism’s own mind-focused concept of “quiet-sitting” (靜坐; C. *jingzuo*, K. *chŏngjwa*), also known as *chŏngjwa chonsim* (靜坐存心): to sit quietly and preserve the mind (Palais 1996: 181)[^palais-1996].
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      ### 2.2 Neo-Confucianism and Social Transformation
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      An Hyang (1243–1306) occupies a foundational place in Korean intellectual history, introducing Neo-Confucianism as not merely a scholarly system but as a cosmological and moral vision. His act of hand-copying the Confucian Classics and bringing Zhu Xi’s image to Korea (Deuchler 1992: 17)[^deuchler-1992] symbolized the transmission of an entire worldview—one that sought to align human society with the universal *Principle* (理, *i*) governing the cosmos. Paek I-jŏng (1247–1323) and other scholars deepened this philosophical exchange through encounters with Chinese Neo-Confucians, including direct heirs of the Cheng-Zhu tradition, at the Man’gwŏndang library—the “Hall of Ten Thousand Scrolls”—established by King Ch’ungsŏn (1308–1313) in the Yuan capital (Deuchler 1992: 19)[^deuchler-1992]. Yi Che-hyŏn (1287–1367) advanced this vision by endorsing the printing of *The Four Books* and asserting that rulership must embody sagely virtue, thereby fusing governance with moral cosmology. His son, Yi Saek (1328–1396), further disseminated these texts as Neo-Confucian prestige soared, serving as educational intendant for the Yuan in Korea (De Bary & Haboush 1985b: 41). In this synthesis, Neo-Confucianism became the axis of education and statecraft, prescribing an ethical order that regulated not only political authority but also family hierarchy and gender roles—embedding cosmic harmony into the fabric of social life.
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      These revitalized Confucian ethics reconfigured the moral and cosmological foundations of the emerging Chosŏn dynasty (1392–1910). At the center of this transformation stood Chŏng Tojŏn (1342–1398), whose philosophical vision legitimated the new kingship by rooting political authority in an ethical order mirroring the structure of the cosmos. His project sought to reconstruct society through the disciplined enactment of propriety (*ye*), expressed in ritual practice, thereby harmonizing governance with universal Principle (理, *i*) and material force (氣, *ki*) (Deuchler 2004: 46)[^deuchler-2004]. This cosmological ethic penetrated the intimate sphere of family and gender. As Lee Sang-wha (2005) notes, Neo-Confucian metaphysics inscribed patriarchal norms through the polarity of Yin (Ŭm in Korean), associated with weakness and passivity, and Yang, linked to strength and activity—mapping cosmic dualities onto social roles: women as passive, men as active. The four cardinal rites—coming of age (capping), wedding, mourning, and ancestral rites—functioned as instruments for embedding these gendered hierarchies into everyday life. The capping ceremony marked a boy’s transition into adulthood, symbolizing his active role in governance and lineage continuity, while wedding rites reinforced male authority as household head and positioned women within a framework of obedience and domesticity. Mourning and ancestral rites further codified these roles: men led ritual obligations as moral exemplars, while women’s participation was circumscribed, emphasizing their supportive and subordinate position. Through manuals such as *Zhuzi jiali* (朱子家禮) [Zhu Xi’s *Family Rites*], these practices linked personal self-cultivation and mental discipline to the cosmic order, ensuring that gendered social roles were not arbitrary but reflections of a metaphysical hierarchy, also drawing on the *Liji*, *The Record of Rites* (Deuchler 1992: 108–111, for a study onthe influence of the *Liji* in Chosŏn, see Gehlmann 2023)[^deuchler-1992][^gehlmann-2023]. In Korea, these rites were not merely moral prescriptions—they became legal mandates, codified in the national “Grand Code for State Administration” (*Kyŏngguk taejŏn*, 經國大典), first promulgated in the late fifteenth century. Failure to observe the prescribed rituals could result in severe penalties, including corporal punishment, imprisonment, and even execution—as tragically occurred with thousands of Catholics in the nineteenth century. By embedding ritual obligations into law, the state asserted a Neo-Confucian cosmological order as the foundation of governance and social life. This legal framework did more than regulate behavior; it institutionalized a hierarchical moral system that suppressed competing traditions, most notably Buddhism, and rendered any challenge to its authority a threat to both political stability and cosmic harmony.
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      ## 3. Korea’s Neo-Confucian Confrontation with Buddhism
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      ### 3.1 Early Criticisms of Buddhism
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      One of the first Confucian texts critical of the Buddhists was that of Paek Munbo (1303–1374), *Ch’ŏkpulso* (斥佛疏) [*In Rejection of Buddhism*], which used Shao Yong’s Daoist-inspired cyclical cosmological philosophy to ratiocinate that it was again time for restoration of the “way” of the sage Confucian rulers Yao and Shun (Deuchler 1992: 23)[^deuchler-1992]. Kang (2003 [2006: 158–164]) outlines the opposition to Buddhism towards the end of the Koryŏ period, especially among Confucian scholars such as Chŏng Mongju (1337–1392) and Chŏng Tojŏn. Chŏng Mongju emphasised the practical “everyday life” of the Confucians who fulfilled social and sexual relations unlike the Buddhists who
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      > part with relatives, denounce the relationship between man and woman […] and revere the search for emptiness and Nirvana. (Kang 2003 [2006: 160–161])[^kang-2003]
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      He also was noted for his loyalty to last king of the Koryŏ, which would cost him his life: this was how seriously Confucian philosophers were dedicated to the moral principles they wrote about—ideas they were expected to practice in their lives. It was Chŏng Tojŏn, the “godfather” of early Chosŏn Neo-Confucianism, who had helped General Yi Sŏnggye (1335–1408) to form a military alliance with other powerful Neo-Confucian scholars following Yi’s decision to oust the last Koryŏ king from power in 1388, soon establishing the Chosŏn dynasty. Neo-Confucianism became the guiding socio-political ideology of Chosŏn with Chŏng Tojŏn at the helm as its chief architect, benefiting from military support and royal authority to carry out his grand scheme (E. Chung 1995: 59)[^chung-1995]. From the point of view of intellectual history, Chŏng played a major role in the attempt to discredit and marginalise Buddhism, and Kwŏn Kŭn (quoted in Deuchler 1992: 101 [*Sambong-jib*: 286])[^deuchler-1992], commented on how Chŏng aspired to make
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      > the elucidation of the Learning of the Way [Neo-Confucianism] and the repulsion of heterodox teachings [i.e., Buddhism] his own responsibility.
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      Confucian philosophy was strategically deployed to delegitimize Buddhism during the formative years of the Chosŏn dynasty. This was not merely a political maneuver but an intellectual campaign grounded in metaphysical critique. Neo-Confucian scholars argued that Buddhism’s emphasis on transcendence and monastic withdrawal disrupted the moral fabric of society and violated the cosmological principle of harmonizing human life with the natural and social order. By contrast, Confucianism presented itself as a philosophy of immanence—anchoring virtue in familial obligations, ritual propriety, and hierarchical relationships that mirrored the structure of the cosmos. Buddhism was condemned as socially corrosive, economically parasitic, and metaphysically misguided, accused of neglecting the ethical responsibilities that sustain both governance and lineage. Through this discourse, Confucian thinkers reframed the Buddhist pursuit of enlightenment as an abandonment of worldly duties, positioning Neo-Confucianism as the sole legitimate path to moral cultivation and cosmic harmony. This ideological shift was reinforced through law, education, and ritual, ensuring that Confucian norms permeated every level of society (Sancho 2025a: 106-114)[^sancho-2025a].
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      ### 3.2 Chŏng Tojŏn’s Neo-Confucian Critique of Buddhism
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      Chŏng Tojŏn’s arguments against Buddhism are encapsulated in his final treatise *Pulssi Chappyŏn* (佛氏雜辨) [*Array of Critiques of Mr. Buddha*], while his shorter text, *Simgiri p’yŏn* (心氣理篇) [On Mind, Material Force and Principle], also critiques the Buddhists and Daoists. Both texts have been translated and annotated along with the original Chinese characters by A. Charles Muller (2015) in *Korea’s Great Buddhist-Confucian Debate*, as well as the rebuttal of Hamhǒ Kihwa (1376–1433), an erudite Confucian trained Buddhist, in his treatise entitled *Hyǒnjǒng-non* (顯正論) [*The Exposition of the Correct*].
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      Chŏng, while investigating the phenomenological issues concerning human nature and their ethical implications, was completely unwilling to acknowledge any conceptual dependence on Buddhist doctrines, while reinforcing the staunch position of Neo-Confucians in Korea to link philosophical principles to one’s social reality (see Muller 2015: introduction)[^muller-2015]. For Confucians, Buddhists had cut themselves off from both social and filial obligations. His ideas, therefore, “provide grounded guidelines for individuals as social beings who faced daily challenges” and this is exemplified by the recent translation of his writings as *Seeking Order in a Tumultuous Age* (Robinson (trans.) 2016: here 5). These writings reflect the need to help the people, as well as the need to rectify the mind of the ruler, but also the obligation to rectify oneself before trying to rectify others (Robinson (trans.) 2016: 128–129). They also recount the practical reasons behind his philosophical attack of Buddhism:
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      > the bulk of the Finance Commission is spent on Buddhism and deities. There is no greater waste of fiscal resources. (trans. in Robinson 2016: 53)[^robinson-2016]
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      These are ideas that later scholars might refer to as “practical learning” or *Sirhak*, often described as a trend that emerged after the Hideyoshi invasions of the late sixteenth century, yet here we have very practical guidance from Chŏng at the start of the Chosŏn dynasty, or rather the beginnings of a practical form of “sage” learning applied to issues directly related to daily life.
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      Chŏng’s shorter rebuttal of Buddhism, *On Mind, Material Force and Principle* (*Simgiri p’yŏn*: 45–53), already highlights this intellectual nexus which dominates Neo-Confucianism in Korea. It introduces the main metaphysical issues that were of great importance in Korea at this time, namely, the mind (心; also referred to in literature as the heart-and-mind), the material force (氣), and of course *Principle* (理), which he describes as “the inherent virtue of the mind and that through which material force is produced”, and clearly states that “only after there is principle is there material force” (*Simgiri p’yŏn*: 50). He discusses what he considers to be the misinterpretation and application of ideas in the teachings of the Buddhists and Daoists, vindicating his rebuttal with quotes from the *Mencius*, the *Analects*, and the writings of Zhu Xi, as well as the *Book of Rites*. Chŏng’s arguments culminate in a radical espousal of Confucianism as an exclusivistic discourse, and he lauds the practical and direct social implications of these metaphysical ideas, juxtaposed to Buddhist and Daoist emphasis on emptiness and vacuity, which he considers to be devoid of meaning when related to matters of the mundane world (*Simgiri p’yŏn*: 53). The philosophical implications of Chŏng’s ideas are related to this-worldly affairs and not speculative spiritual proclivities of other traditions, which he suggests depended on deities who could then reward or punish. Chŏng asserts the need to investigate one’s human nature and the mind for oneself, and not to rely on teachings that call upon spirits to do so, advocating the Confucian practice of preserving what is good in the mind and nourishing the material force to control bodily desires through proper Confucian education (*Simgiri p’yŏn*: 51). This dual approach would become greatly elucidated by later Neo-Confucian philosophers who would advocate an approach to fully develop the humanity (K. *in*) that our minds were “naturally” endowed with by *Principle*.
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      Chŏng’s *Pulssi Chappyŏn* is translated by Muller (2015) under the title *An Array of Critiques of Buddhism*. The text lists 19 critiques, which Chŏng systematically treats in turn, including important Buddhist doctrines, such as transmigration and karma. The goal of Confucianism, being firmly focused on this life, was not interested in idle speculation about an afterlife. Initially, Chŏng (*Pulssi Chappyŏn*: 59–61) sets out to critique the Buddhists interpretations of the mind (K. *sim*), and human nature (K. *sŏng*), and criticises the Koryŏ monk Chinul of “nebulous supposition”, lacking “hard facts”, accusing Buddhists of “word play”, while lacking a definitive doctrine. Chŏng explains that the Confucians consider the mind to be made of the material force that “one takes from heaven at birth”, while the mind itself is endowed by one’s human nature through *Principle* at birth (*Pulssi Chappyŏn*: 59). He reinforces the “concrete” aspect of the “function” of Confucianism in reality, which the Buddhists consider completely illusory, and refers to Cheng Yi’s dictum,
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      > The study of the Buddhists includes reverence to correct the internal, but does not include justice to straighten the external. (*Pulssi Chappyŏn*: 63)
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      Cheng Hao had similarly added that “The Buddhist way of internal and external life is incomplete” (SB-Chan: 538). This Confucian rationale underpins Chŏng’s arguments in his “Critique of the Buddhists’ Abandonment of the Basic Human Relationships” and the “Buddhist Notion of Compassion”, initiating his discourse (*Pulssi Chappyŏn*: 64–67) on the Confucian virtue of humanity (K. *in*), which functions through social interactions, manifested through “The Five Relationships”. Furthermore, Chŏng denounces Buddhists for rejecting filial piety, adding that they “regard their most intimate family members like passers-by on the street”, despite having inherited their material force from their parents, illustrating how Neo-Confucians now used metaphysics to validate their moral “reality” (*Pulssi Chappyŏn*: 66).
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      As Buddhists could take refuge in the Buddha, thereby rely on something external, the point is excoriated by Chǒng in his critique of Sŏn Buddhists and their teachings (*Pulssi Chappyŏn*: 72–73), who he insinuates,
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      > took nothingness [空, K. *kong*; this was the translation of the Sanskrit term Śūnyatā] as their cardinal teaching and abandoned the obligations of society,
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      contrasting it greatly with the practical “way” of Confucianism, further emphasised in his, “Critique of the Equivalence and Differences between Confucianism and Buddhism” (*Pulssi Chappyŏn*: 73–77). Chŏng accuses Buddhists of being “masters of glibness, lewdness, trickiness, and evasiveness” (*Pulssi Chappyŏn*: 77). In contrast, the role of the Confucian “sage” is also acutely heralded as a pragmatic pathway that has use for governing, to plan for the welfare of the people and to “avoid activities that would bring harm to [them]”, ideas that are also emphasised in his practical handbook for governance, *Seeking Order in a Tumultuous Age*, discussed above (Robinson (trans.) 2016: 81).
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      Chŏng’s text draws together multiple quotes by renowned Confucian scholars to fuel his arguments and support his overall view that Buddhism had no practical social worth. As Muller (1999: 185) underscores, such ideas were closely linked to the Confucian understanding that “Buddhists regarded existence as illusory and that only mind was real”, hence they “scorned human relationships”, while “only quiet meditative inner cultivation was valued”. The most important retort to this diatribe would come from the monk Hamhǒ Kihwa, who skillfully counter-charges Chŏng’s caustic attack using Confucian ideas and texts, while encouraging a much more inclusivistic, hence less divisive, approach. Kihwa (*Hyǒnjǒng-non*: 110–111), argued for the “unity of the Three Teachings”, giving a valid piece of advice about what not to do that is useful for us to hear today:
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      > Holding stubbornly onto one’s own opinion while ignoring the positions of others, arbitrarily affirming this and rejecting that.
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      ## 4. Sage Learning and The Four-Seven Debate
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      Two towering figures of early Chosŏn Neo-Confucianism—Yi Hwang (1501–1570), known by his pen name T’oegye, and Yi I (1536–1584), known as Yulgok—shaped the profound metaphysical discourse that would define Korea’s intellectual tradition. Both undertook rigorous analyses of the macrocosmic *Principle* 理 and its dynamic interplay with *material force* (氣, K. *ki*), probing not only their ontological structure but also their implications for the mind and human nature as actualized in thought and action. These inquiries were not abstract exercises; they carried an acute psychological and social urgency, framing ethics as inseparable from metaphysics. Korean Neo-Confucianism thus emerged as a humanistic guiding discourse, grounded in the Confucian ideal of *in* (仁), expressed both externally through conduct and internally through reflective cultivation. At the heart of this vision lay the pursuit of sagehood, realized through disciplined learning—what came to be called “Sage Learning.” As Oh Kangnam (1993: 313) observes, this was “one of the essential components, if not the essence, of Korean Confucianism […] Neo-Confucianism’s hallmark was its emphasis on sage-learning”.
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      Both T’oegye and Yulgok both wrote very specific texts on sagehood. In 1568, T’oegye wrote *Sŏnghak sipto* 聖學十圖 (The Ten Diagrams on Sage Learning), and in 1575 Yulgok wrote *Sŏnghak chipyo* 聖學輯要 (Essentials of Sage Lrearning). According to Keum Jang-tae (1980 [2000: 40]), author of *Confucianism and Korean Thoughts*, these texts (the *Ten Diagrams* and the *Essentials*) reflect “the two main classical works epitomizing Neo-Confucian learning in the Chosŏn era”. They also embody the development of Korea’s Neo-Confucian tradition. Kim Yung Sik (2017: 25) suggests that
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      > the full understanding of [Zhu’s thought] seems to have come quite late, only after Yi Hwang […] launched an all-out effort to come to grips with the entire scope of the Zhu Xi Learning.
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      In fact, Japanese Neo-Confucian scholars, such as Yamazaki Ansai (1618–82), considered T’oegye to be “the greatest Confucian in Korea”, even suggesting he was on a par with Zhu Xi himself (Pak 1983: 69)[^pak-1983].
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      T’oegye’s *Ten Diagrams* represents the finest synthesis of this Neo-Confucian thought current in Korea at that time, and it was one of the most reproduced texts of the entire Chosŏn dynasty, overshadowing Yulgok’s text. T’oegye’s text consists of a collection of diagrams by Neo-Confucian scholars from China and Korea, including three by T’oegye himself, that elucidate Zhu Xi’s main teachings, as well as T’oegye’s own synthesis and analysis of them, especially through his focus on the mind (K. *sim*), though guided by a methodological approach that focuses on *Kyŏng* (敬). Although *kyŏng* is often rendered as “seriousness”, T’oegye reconfigures its meaning, emphasizing the disciplined sovereignty of the mind over thought and action. This interpretive shift has led Michael Kalton (1985: 212–214) to translate the term as “mindfulness”, while Kim Hyoungchan (2018: 27–32) proposes “reverent mindfulness”. In this Confucian re-appropriation of a concept resonant with Buddhist practice, mindfulness becomes the cornerstone of T’oegye’s vision of sagehood: a continuous, deliberate attentiveness to the operations of the mind, restraining its impulses so that good or positive thoughts can lead to actions that reflect them.
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      The first two diagrams reflect the underpinnings of Neo-Confucian ontologico-cosmology:
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      1. Zhou Dunyi’s *Diagram of the Supreme Ultimate* (太極之圖, K. *T’aegŭk chido*), and
+      2. Zhang Zai’s *Western Inscription* (西銘圖, K. *Sŏmyŏngdo*)
+      3. (see [Kalton’s translations online](https://faculty.washington.edu/mkalton/10dia%20contents%20web.htm)).
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      These diagrams articulate the Neo-Confucian vision of a morally ordered cosmos. The first depicts the Supreme Ultimate (*T’aegŭk*) as *Principle* (理), the generative source from which yin and yang forces emerge, subsequently giving rise to the Five Elements (also referred to as the Five Phases). The second diagram further concretizes this ontological schema, illustrating how the originating *Principle* inscribes itself hierarchically within the material world. Because *Principle* permeates all things, it becomes the normative ground for human social relations and distinctions—such as those between ruler and subject, elder and younger. The remaining three diagrams shift from cosmology to pedagogy, presenting the foundations of Confucian moral education: the *Diagram of Elementary Learning*, the *Diagram of the Great Learning*, and the *Diagram of Rules for the White Deer Hollow Academy*—the latter codifying Zhu Xi’s own retreat for scholarly cultivation. This educational framework establishes Confucian morality as the foundation for engaging with more intricate questions concerning mind and human nature. *The Diagram of Elementary Learning*—created by T’oegye as an adaptation of Zhu Xi’s widely studied text—served as a cornerstone of Korean scholarship. Likewise, the *Diagram of the Great Learning*, originally composed by Kwŏn Kŭn and included in his collection of diagrams, reinforces the primacy of moral education within the Korean Neo-Confucian tradition.
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      It is the sixth diagram in T’oegye’s collection where we find his view of the “Four-Seven” issue that was first mentioned by Kwŏn Kŭn, but which really addressed the questions: if human nature is completely good—why do people do things that are “not good” and how/why are there negative feelings? Is this due to *Principle* or the material force? This was a conundrum for Neo-Confucians just as good and evil was for the Scholastics in Europe trying to explain why there was evil if their God was good. Michael Kalton (1985: 119) describes the subsequent debate, outlined below, as “the single most important intellectual controversy of the Yi [Chosŏn] dynasty”, ultimately related to the different roles of *Principle* and material force, their interactions and significance in regard to one’s human nature and the mind. T’oegye’s sixth diagram (see Kalton (trans. 1988:119–124) is actually divided into three parts, relating to the saying *The Mind Combines and Governs the Nature and the Feelings* (心統性情圖) and they describe different but interrelated aspects of the mind:
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      1. “the not yet aroused state” (未發, K. *mibal*), linked to the four beginnings, and pure *Principle*, and
+      2. the seven feelings linked to “the aroused state” (已發, K. *ibal*) when *Principle* interacts with the material force.
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      In this instance, both *Principle* and material force interpenetrate each other, but this was not T’oegye’s initial interpretation, which had changed due to his “Four-Seven” debate with another scholar. The “Four-Seven” debate (which was clearly deeply related to *Principle* and material force) originated from a series of correspondences between T’oegye and Kobong, penname of Ki Taesŭng (1527–1572), and later it was continued on between Yulgok and Ugye, penname of Sŏng Hon (1536–1598). T’oegye originally suggested that the four beginnings and seven feelings had different origins, and this instigated the original debate with Kobong, who did not agree with T’oegye’s dualistic approach: that *Principle* (*i*) was the source of the four beginnings, while the material force was the source of the seven feelings. Kobong was more interested in *ki*’s moral and activating function, and considered *i* and *ki* as inseparable, especially when it came to “their presence in actual things” (Kalton 1994: 6)[^kalton-1994]. The issue at hand was how could the morally good *Principle*, manifested to its highest form in (wo)mankind, be corrupt, or led astray, in the sense that people clearly do not always conduct themselves in a kind-hearted manner towards others. Though T’oegye revised his view, he still gave primacy to *Principle* and maintained that it always initially preceded *ki* when we act morally, or rather that *Principle* guided *ki*, like a rider guiding a horse. Hence, T’oegye upheld the moralistic perfection and integrity of *Principle* by suggesting that things could be less than perfect, and human behaviour sometimes not good, as a result of the interaction with the material force, which could be affected/corrupted depending on the concrete circumstances of its actualisation in concrete form/action.
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      Morever, for T’oegye, *Principle* (*i*) was identified with the Supreme Ultimate (*taiji*), the primordial source of all existence. Principle represents the ontological ground of possibility, such that the potentiality of a thing precedes its actualization, which then occurs through its interaction with *ki* (material force). In this sense, the latent possibility of life in the cosmos predates its concrete manifestation. T’oegye’s view is profoundly idealistic: *Principle* initiates what might I call the “*possibility of actualization*”, while its dynamic interplay with *ki* enables the “*actualization of possibility*”. This possibility is always perfect in its essence; however, *ki*, being contingent and mutable, does not invariably function in harmony with its inherent *Principle*.
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      To illustrate, consider the process of sexual reproduction. When a man and woman mate—or through medical intervention—there exists the potential for fertilization. If conditions are optimal, conception occurs and a child may be carried to term. Yet biological factors can impede pregnancy or affect fetal development. These issues do not arise from *Principle* itself—whose ideal form prescribes the generative process—but from the material actualization of genetic codes, which determine physical outcomes. Thus, what we inherit from our parents is not their *Principle* but their *ki*.
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      Analogously, in the realm of mind, T’oegye draws a critical distinction between the ‘Mind of Dao’—pure, luminous, and perfectly aligned with *Principle*—and the human mind, which is entangled with desires, emotions, and contingent circumstances. The ‘Mind of Dao’ represents the normative ideal, the metaphysical axis around which moral life should revolve. It is the mind as it ought to be: transparent to *Principle*, free from distortion. By contrast, the human mind is the mind as it is—subject to fluctuations of *ki*, vulnerable to passions, and prone to error. This duality underscores T’oegye’s conviction that moral failure does not stem from *Principle* itself, which remains inviolate, but from the imperfect actualization of Principle through the material and psychological conditions of *ki*.
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      Yet this imperfection is not absolute; it is a call to ethical effort. Through mindfulness (*kyŏng*) and disciplined self-reflection, one can gradually reorient the human mind toward the ‘Mind of Dao’. Such practice is not merely cognitive but ontological: it restores harmony between *i* and *ki*, allowing *Principle* to exert its normative governance over the turbulent energies of material force. In this sense, mindfulness becomes a metaphysical praxis—a way of “making present” the ideal order within the empirical world. By cultivating reverence, sincerity, and attentiveness, the individual participates in the cosmic movement of *Principle*, transforming moral possibility into lived actuality. Thus, for T’oegye, sagehood is not an abstract ideal but a dynamic process of aligning the finite with the infinite, the contingent with the necessary, through the vigilant governance of mind. This is why T’oegye (in Kalton (trans.) 1988: 162) emphasises effort and mindfulness:
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      In sum, the essennce of applying one’s effort is nothing other than a matter of not departing from constant mindfulness, for the mind is the master of the entire person and mindfulness is the master of the mind.
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      Contrary to T’oegye and Ugye, Yulgok advanced a more pragmatic interpretation of the relationship between i 理, Principle) and ki 氣, material force), arguing that *ki* was the activating factor behind both the ch’ilchŏng 七情, seven feelings) and the sadan (四端, four beginnings). In his view, moral psychology must be grounded in the dynamic operations of *ki*, for *i* could never exert influence in isolation; it required a locus—a material substrate—in which to “settle” (*chŏngch’aek*) before it could guide or shape reality, and that locus was *ki*. T’oegye, by contrast, refined his mature theory of hobal (互發, *ho-bal*, “alternate issuance”) to argue that although *i* and *ki* are always intertwined, they can nevertheless display distinct initiating forces within moral emotions: the *sadan* arise through the issuing of *i*, which then guides *ki*, while the *ch’ilchŏng* originate in *ki* and are subsequently harmonized by *i*. This allowed T’oegye to develop a finely differentiated moral psychology anchored in the ethical primacy of *i*. Yulgok, however, criticized the dualistic structure implicit in this model and insisted on the inseparability and constant co‑activity of *i* and *ki*, encapsulating his position in the unitary formulations *kibal isŭng* 氣發理乘, “*ki* issues and *i* rides along”) and *it’ong kiguk* 理通氣局, “*i* universally permeates while *ki* forms concrete configurations”). Thus, whereas T’oegye maintained a functional distinction between different modes of issuance, Yulgok dissolved such distinctions by emphasizing a single, integrated process of moral and psychological activity (discussed in detail in Kim 2018)[^kim-2018]. Yulgok (in Lee 1993: 633)[^lee-1993] clarifies this succintly when he writes:
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      There is a single thread running through both the explanation of principle and material force and the explanation of the Human Mind and the Tao Mind [Mind of Dao]. If one has not comprehended the meaning of the Human Mind and the Tao Mind, it amounst to not comprehending principle and material force.
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      For Yulgok, *Principle* could not exert influence in isolation; it required a locus—a material substrate—in which to “settle” before it could guide or shape reality. That locus was *ki*.
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      To illustrate this in practical terms: the *Principle* of fertilization presupposes the existence of man and woman and their union. Without the material conditions of mating—or their medical equivalents—the *Principle* remains inert, a mere possibility. This analogy reflects Yulgok’s more concrete orientation: ‘actuality’ depends upon the interplay of *Principle* and material force, **not** *Principle* alone.
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      This view carried significant moral implications. Yulgok maintained that while the seven feelings encompass the four beginnings, the reverse is not true—the four beginnings do not contain the seven feelings. This asymmetry safeguards the innate goodness of human nature, ensuring that moral potential remains intact even amid the turbulence of emotional life. In short, Yulgok’s framework situates ethical cultivation within the dynamic tension between ideal *Principle* and the mutable energies of *ki*, emphasizing a moral realism that contrasts sharply with T’oegye’s idealism.
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      Bongrae Seok (2019: 24) clarifies that Yulgok (and Kobong, for that matter) did not believe that
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      > the goodness of the Four is a distinct moral property explained exclusively by [*i*] but a common property shared by the Seven explained by both [*i*] and *qi* [*ki*],
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      hence, in a sense “smoothening the sharp distinction between the Four and the Seven” as argued by T’oegye and rearticulated by Ugye. Seok (2019: 19) also notes how Ugye interpreted the four beginnings and the seven feelings as separate sets of emotions, with the “seven” having the potential for evil, drawing on T’oegye who clearly viewed *Principle* as the essence of the mind and *ki* as the function (on which *Principle* mounts), again using the interrelationship between essence-function, or *che-yong*, discussed above in relation to Chinul. For the Korean Neo-Confucians, this only reinforced the need for proper moral education and the incessant need for self-cultivations to guide one from falling prey of the shortcomings of one’s physical, material and environmental existence as it related to the mind and one’s human nature (see E. Chung 1995; Ro 1989; Cawley 2019: 84–89)[^cawley-2019][^chung-1995]. Though Yulgok was interested in the metaphysical aspects of Neo-Confucianism, Ro Young-Chan (2017: 74) underscores his interest in the practical side of “sagely learning”. In his own words, Yulgok (in Lee (ed.), 1993:513), leaving metaphysical complexities aside, noted that “the essentials of cultivating self and pacifying the people are strategies of praying for heaven’s eternal mandate”, which was linked to “keeping the will sincere and rectifying the mind”, while also advising the king to take head of the teachings of his Neo-Confucian advisors “in order to receive the benefit of their assistance”.
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      Both T’oegye’s *Diagrams* and Yulgok’s *Essentials* outline pathways toward sagehood and emphasize the central role of self-cultivation. Each scholar underscores the unique responsibility of the king, who was expected to serve as a paragon of Confucian morality and humanity (*ren*), embodying the ideals of sagehood in practice. T’oegye and Yulgok situate individuals within a morally ordered universe, where ethical conduct toward family and society is not merely aspirational but a lived reality—a “practiced” vision of morality enacted in daily life. For both thinkers, sagehood represents a noble *savoir vivre*, its ultimate purpose being the benefit of others, which they regard as the very essence of becoming a sage. In this sense, T’oegye and Yulgok offer archetypes of an East Asian Neo-Confucian “social contract,” reminiscent of Rousseau’s seminal work (*The Social Contract*, 1762). Both Korean scholars stress not only the moral and social obligations of those in power but also the reciprocal responsibility of individuals toward one another as members of an interconnected society—a principle that resonates profoundly today. During the global pandemic of 2020–21, socially responsible distancing exemplified this ethic: by respecting and protecting others, we reaffirm our shared moral duty.
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      ## 5. The Horak Debate
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      When discussing the debate itself, separating the syllables as Ho‑rak helps foreground the internal division the term encodes. The debate refers to the broader “provincial–capital” split within the Noron (“Old Doctrine”) faction—*Ho* designating the provincial branch and *rak* the capital branch. This fissure emerged among scholars who, for the most part, traced their intellectual lineage to Yulgok’s metaphysical orientation. By using Ho‑rak in explanatory contexts, the analysis highlights the factional and regional tensions underlying what is otherwise referred to more compactly as the Horak Debate.
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      As Kang (2003 [2006: 300]) points out,
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      > The problem was that differences in academic opinions were associated with antagonism between factions or regions.
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      Thus, allegiance to T’oegye or Yulgok was never a matter of mere factional politics; it reflected profound commitments to competing visions of reality. These interpretations carried ontological weight, shaping how scholars conceived the relationship between Principle (理, *i*) and material force (氣, *ki*), and by extension, the moral architecture of the cosmos. To dissent from the faction in power was not simply a political risk—it was to challenge an entire metaphysical order. This controversy, echoing the intensity of the Four-Seven Debate, unfolded through a series of letters between two eminent thinkers, each embodying a distinct philosophical orientation: Han Wŏn-jin (1682–1751) of Ch’ungch’ŏng province and Yi Kan (1677–1727) of Kyŏnggi province, the region encompassing Seoul. Seoh (1977:47) notes that both scholars are
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      > particularly important because it was their debate over the definition of human nature that precipitated a resurgence of the *ki* school.
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      Though Yi Kan underscored the central role of *Principle*, Han posited the operation of the human mind as dependent on *ki*—both original *ki*, and corrupted *ki*. These ideas were related, not only to the emotions and how they affect the actualised mind (thoughts/actions), but led to other speculative questions:
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      1. How should one describe the unaroused mind (*mibal*), in terms of *ki* or *Principle*, or a mixture? (see Yoo, W. 2017)
+      2. Whether sages and ordinary people have the same nature?, and
+      3. Is the nature of human beings and nonhuman animals identical? (Richard Kim 2017: 90; Choi Y. 2011)[^choi-2011][^kim-2017][^kim-2017-2][^kim-2017-3][^kim-2017-4]
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      Richard Kim (2017: 90) notes that such questions became the debates’ “foundational issue”, thought it also brought up some of issues related to the previous debate, in regard to the effects of the emotions on the mind, and whether minds of sages and normal people were originally the same.
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      The notion of the unaroused mind appears in the *Doctrine of the Mean*, one of the *Four Books*:
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      > Before the feelings of pleasure, anger, sorrow and joy are aroused it is called equilibrium (*chung* [中], centrality, mean). When these feelings are aroused and each and all attain due measure and degree, it is called harmony. (SB-Chan: 98)
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: body
+    source: |-
+      Choi Young-jin (2011: 9) describes this as “a state of moderation […] bent neither one way or another […] the state of balance”. This actual state of mind had never been analysed in such minute detail before, nor had it been considered in such detail in relation to the sage, normal humans, and other animals: were they the same, or not, at the microcosmic level of their mind in terms of *ki* or *Principle*? Han Wŏn-jin’s essay on the “Explanation of the Original Nature and the Psycho-Physical Nature”, sowed the seeds of the debate. In this essay he suggested that the original nature, even before being aroused in the mind (*mibal*, as argued by T’oegye), was already interacting with *ki*, in other words, energised by material force, or as Richard Kim (2017: 92) puts it, Han viewed “*gi* [*ki*] as constitutive of the inactivated mind”. For Han, *Principle* required *ki*, so *ki* already had to exist in the mind and this *ki* had to be originally good or in equilibrium, balanced and unmotivated by desires. Clearly Han was “adhering more strictly to the materialist core of the *ki* school”, while claiming that “nature is not an abstract [undifferentiated] entity”, and that *Principle* “is nothing but a law of the dynamics of *ki*,” in other words, *Principle* had no concrete existence of any sort (Seoh 1977: 48)[^seoh-1977]. He ultimately saw the nature of a human and other animals as different even in their unaroused or *mibal* state where *ki* was inactive, and used their different psycho-physical make-up (due to the variant manifestations of material force when activated) as the basis for his thesis. Han ultimately considered the sage to possess a pure form of *ki*, already balanced and pure even in an unaroused state, unlike other beings (which for him also included women and children) and in this sense he is more hierarchically inclined in his approach, with a more idealistic vision of the sage—something usually linked with proponents of *Principle*.
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: body
+    source: |-
+      Yi Kan advocated the primacy of *Principle* in all living things, and therefore the immanence of goodness embedded within the Confucian virtues. The idea of the immanence of *Principle* in all things is also addressed in a more macrocosmic sense in Zhang Zai’s *Diagram of the Western Inscription*, which appears in T’oegye’s Diagrams, though here again, in the Korean context these ideas are analysed in a more microcosmic manner. Yi asserted that human and nonhuman animals had the potential to manifest the universal “original mind” (本心, K. *bonsim*). This, according to Yi, was not always manifest by humans because their “physical nature” and, thereby, their psycho-physical preponderances varied: some humans were good, but some acted badly, just as was the case for nonhuman animals. He rather suggested that the apparent differences, were actually nothing other than differences in temperaments due to the turbidity of *ki* after feelings were aroused, but that the underlying *Principle* meant that they were morally unified in an unaroused state (R. Kim 2017)[^kim-2017][^kim-2017-2][^kim-2017-3][^kim-2017-4]. This also meant that theoretically, women too, even children, could aspire to be sages because their “original mind”, which was “the foundation of for human morality” was no different from that of a sage, what mattered was that one controlled one’s desires because “sages are those who maintain their moral self”: those who develop themselves to the optimum level of *humanity* (Lee 2011: 108)[^lee-2011]. As Lee (2011: 111) asserts, Yi
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: body
+    source: |-
+      > went so far as to say that the original mind-heart [*sim*] is clearly present in anyone at any time, and the mind-hearts of sages and commoners are alike when aroused.
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: body
+    source: |-
+      For Yi, what made one a sage was the fact that they “acted” morally—being aware of what is good but not acting on it at all times was what made one a “common” person.
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: body
+    source: |-
+      Seoh (1977: 43) summarises the debate as follows:
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: body
+    source: |-
+      > Yi Kan equated the nature of man with other creatures and stressed its universality, while Han maintained the uniqueness of the nature of man in contrast with other creatures.
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: body
+    source: |-
+      One interesting contribution in regard to this debate, came from one of the few women of the Chosŏn period to write on Neo-Confucianism (hence trained in Classical Chinese), Im Yunjidang (1721–1793). She disagreed somewhat with Yulgok’s interpretation of *ki*, whom her own brothers had agreed with, and instead claimed “that each thing [or species] in the universe possesses a particularised and embodied nature”, while ultimately convinced of the role of “Heaven endowed” *Principle* (Kim Sungmoon 2017: 190–191)[^kim-2017][^kim-2017-2][^kim-2017-3][^kim-2017-4]. This idea intersects with the philosophical core of the Horak debate, which questioned whether human and nonhuman beings share an identical moral nature or differ fundamentally due to variations in *ki* (material force). By emphasizing the embodied and differentiated character of nature, Im aligns conceptually with the *ki*-centered perspective advanced by Han Wŏn-jin, which privileges material conditions over abstract *Principle*. Yet, her interpretation carries radical ethical implications: while acknowledging differentiation, she insists that women possess the same moral potential as men because their original nature, grounded in *Principle*, remains intact despite psycho-physical variance. In this way, Im reframes the Horak debate’s metaphysical question into a discourse on gender equality, arguing that sagehood is attainable through self-cultivation rather than predetermined by status or gender. Her position thus extends Neo-Confucian ontology into a socially transformative vision, challenging hierarchical norms while preserving the dynamic interplay of *i* and *ki* at the heart of Korean philosophical thought. Im Yunjidang’s emphasis on the moral equality of men and women was a conviction later echoed by early Korean Catholics. Kang Chŏngiltang (1772–1832), another female Neo-Confucian scholar from this period, emphasised that human nature is good, as well as the importance of putting Confucian ideals into practice (for a recent translation and study of Im Yunjidang and Gang Jeongildang’s work see Ivanhoe and Wang (2023). Kang’s short poem on “Concentrating on Mindfulness” [or reverence] manages to capture with exquisite conciseness the main themes and the ultimate goal of Neo-Confucian learning in Chosŏn, namely, sagehood (Kim Youngmin 2007: 226, slightly altered translation)[^kim-2007]:
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: body
+    source: |-
+      > Myriad Patterns [principles] originate from Heaven-and-Earth. One mind unites nature and emotions. Without concentrating on mindfulness, How can you manage the long trip to sagehood?
+    step1: TBD
+    step2: TBD
+  - id: 97
+    kind: body
+    source: |-
+      Interestingly, by this stage it is important to note that Catholicism, considered as part of “Western Learning” (西學, K. *Sŏhak*), had already attracted the interest of some Neo-Confucian scholars, directing them away from an unemotional *Principle*, towards a belief in an anthropomorphic caring deity.
+    step1: TBD
+    step2: TBD
+  - id: 98
+    kind: body
+    source: |-
+      ## 6. Confucian Reactions to Early Catholicism
+    step1: TBD
+    step2: TBD
+  - id: 99
+    kind: body
+    source: |-
+      ### 6.1 Matteo Ricci and Philosophical Reactions to Western Theology
+    step1: TBD
+    step2: TBD
+  - id: 100
+    kind: body
+    source: |-
+      The time frame of the Horak debate also coincided with Catholic texts being read by Korean Neo-Confucian philosophers. The most important text from this period was *Tianzhu shiyi* (天主實義; K. *Chŏnju sirŭi*) [The True Meaning of the Lord of Heaven], which had a great impact in Korea after being read by scholars there (see Ricci 1985)[^ricci-1985]. It was actually written by Matteo Ricci (1552–1610), an Italian Jesuit missionary who had lived for many years (and died) in China. Ricci weaved in the mediaeval Scholastic philosophy of his European tradition into a newly enlarged tapestry including his newly discovered Confucian ideas. He retraced the trajectory of Neo-Confucianism, revealing its Buddhist and Daoist legacy that has been carefully coloured over by Zhu Xi, whose ideas also dictated how Koreans received the Confucian canon, something that clearly irked the Korean scholars. These ideas and messages had serious repercussions in Korea, where, as Seoh Munsang (1977: 46–47) points out, the intellectual milieu had retained Zhu Xi’s orthodoxy where metaphysical speculation was “still a vital force polarising the *i* and *ki* schools”.
+    step1: TBD
+    step2: TBD
+  - id: 101
+    kind: body
+    source: |-
+      Yi Sugwang (1563–1628), in offering what stands as Korea’s earliest commentary on Ricci’s work, undertakes a brief yet revealing critique. He observes that Ricci’s conception of God—*Tianzhu* (rendered *Ch’ŏnju* in Korean)—posits a transcendent creator who brings forth the cosmos and thus becomes the object of worship and praise. Yi challenges this view, for his own intellectual horizon is grounded in the primacy of *Principle* 理 as the immanent order underlying all existence. In his reading, Yi mistakenly attributes to Ricci the Confucian affirmation of humanity’s innate goodness; Ricci, however, had noted the absence of unanimity among Confucians, contrasting Mencius’ claim of original goodness with Xunzi’s assertion of inherent depravity—a tension Korean Neo-Confucians largely elided. This episode discloses not merely a doctrinal disagreement but a deeper divergence in cosmological orientation: Yi’s critique reflects a metaphysics wherein ultimate reality is not a personal deity but an impersonal, self-ordering Principle (Yi 2000: 61). Yi Ik (1681–1763), who headed one of Chosŏn’s many scholarly factions, the *Namin* (Southern) faction, in more recent times described as a proponent of *Sirhak* “practical” thought, also compiled a wide range of encyclopedic texts and wrote commentaries on the Confucian canon too. He engaged more intellectually with Ricci’s ideas in his critique entitled *Ch’ŏnju sirŭi-bal* (天主實義跋) [Reactions Against *Tianzhu zhiyi*] (Kim Shin-ja [ed.] 1987: 22–23). Yi Ik, deeply rooted in the metaphysical tradition of T’oegye and author of treatises such as *Sach’il sinp’yŏ* 四七新編) [New Compilation on the Four-Seven Debate], refused to concede to the notion of a divine architect of the cosmos, and categorically rejected the idea of a God who could assume human form. In his engagement with the moral reflections of the Jesuit Diego de Pantoja (1571–1618), particularly in his commentary on *Qike* (七克) [Seven Victories]—a text prescribing remedies for the seven deadly sins—Yi argued that, once stripped of its theological scaffolding concerning God and the devil, its ethical prescriptions could stand almost indistinguishable from Confucian virtue. This stance illuminates the fundamentally non-theistic orientation of Korean Neo-Confucian thought, while underscoring Yi’s unwavering fidelity to the onto-cosmological framework inherited from T’oegye (Yi Ik *Sŏngho sasŏl*: 343).
+    step1: TBD
+    step2: TBD
+  - id: 102
+    kind: body
+    source: |-
+      Some of Yi’s associate *Namin* scholars were much more critical of Western ideas in general, especially Sin Hudam (1702–1761) and An Chŏngbok (1712–1783). Sin Hudam was particularly scathing of Catholic teachings in his critique entitled *Sŏhak pyŏn* (西學辨) [Critique of Western Learning]. There is a sub-stratum of thought at play in Sin’s text, which hopes to dissuade others from believing in Jesus as God, or God in the form of a man who spreads teachings to the poor. This idea would disengage God from the realm of insensitive Neo-Confucian metaphysics and could potentially wreak havoc for the king and society at large if the social hierarchy inscribed universally through *Principle* were to be rejected.
+    step1: TBD
+    step2: TBD
+  - id: 103
+    kind: body
+    source: |-
+      This foreboding is much more urgent in the writings of a fellow *Namin* scholar An Chŏngbok, as his own son-in-law Kwŏn Ilsin (1736–1791) was among the earliest Confucian converts to Catholicism. These were the incentives behind his two critiques of Catholicism: *Ch’ŏnhakko* (天學考) [Thoughts on Heavenly Learning], and *Ch’ŏnhak mundap* (天學問答) [Questions and Answers on Heavenly Learning]. An Chŏngbok draws our attention to the importance of the figure of Jesus and his message as the focal point of these young Korean Neo-Confucian scholars who had overturned the onto-cosmology of *Principle* and *ki*, which then also had no bearing on one’s human nature and mind. In *Ch’ŏnhak mundap*, An upholds his traditional Neo-Confucian horizon and suggests that Catholics misused Confucian vocabulary when they discussed sagehood (in relation to Jesus), emphasising that Confucius did not discuss the supernatural and was concerned with this life (Kim Shin-ja [ed.] 1987: 28–29).
+    step1: TBD
+    step2: TBD
+  - id: 104
+    kind: body
+    source: |-
+      These Confucians were all toeing the line of orthodox Confucian morality, which was practical (not mystical), and where the onus for morality was on oneself, inscribed into one’s mind and human nature. For them, humans decided their own moral fate by mastering one’s desires, and neither the devil nor God had any part in this. The “this-worldliness” of the Confucian discourse was something they championed, advocating its benefits for human affairs governed by “mindfulness”, and not by any sort of interference from the spirit world. In this sense they were upholding the agnostic stance of Confucius himself in the *Analects*:
+    step1: TBD
+    step2: TBD
+  - id: 105
+    kind: body
+    source: |-
+      > If we are not yet able to serve man, how can we serve spiritual beings? […] If we do not yet know about life, how can we know about death? (SB-Chan: 36)
+    step1: TBD
+    step2: TBD
+  - id: 106
+    kind: body
+    source: |-
+      ### 6.2 Confucian-Catholics, Tasan and Moral Priorities
+    step1: TBD
+    step2: TBD
+  - id: 107
+    kind: body
+    source: |-
+      The earliest converts to Catholicism were all Confucian-trained scholars from aristocratic (*yangban*) families. Yi Pyŏk (1754–1786), as well as Yi Sŭnghun (1756–1801), were the leaders of this group who were soon joined by other yangban scholars, such as the two Kwŏn brothers (including the son-in-law of An Chŏngbok), and the three Chŏng brothers. The youngest of the Chŏng brothers, Yagyong (1762–1836), more generally known by his penname Tasan (often written as Dasan), is one of the most widely acclaimed philosophers in Korea’s intellectual history, discussed below. His early Confucian mentor, Yi Pyŏk, wrote the first lengthy outline of Christian doctrine in Korea, *Sŏnggyo yoji* (聖敎要旨) [The Essence of the Divine Doctrine] in Classical Chinese for his “Confucian” entourage. However, his hymn, *Ch’ŏnju konggyŏng-ga* (천주공경가) [Hymn in Adoration of God], is considered one of the first hymns written in Han’gŭl, the vernacular script, which was first promulgated in the fifteenth century, though generally associated with women and men from the poorer classes. In fact, so poorly was this simplified script esteemed in elite circles that it was referred to as *Ŏnmun* (諺文), meaning the vulgar script. But Yi’s hymn was also deeply Confucian, advocating loyalty to the king, emphasising filial piety, and even encouraging adherence to the “Five Relationships”. This Confucian aspect of early Catholicism reflects an interesting transcultural interaction between both traditions, highlighting their moral priorities. Chŏng Yakchŏn (1758–1816) and Chŏng Yakchong (1760–1801), also wrote Catholic texts in Han’gŭl, which also exhort Confucian morality: loyalty to the king, as well as filial piety, tropes already found in Yi’s hymn. In fact, in Chŏng Yakchŏn’s *Sipkyemyŏng-ga* (십계명가) [Hymn in Praise of the Ten Commandments], he writes that “Among all the things in the world, filial piety is the most important”, which also clarifies the singular importance of filial piety in Korean Confucianism (Ha (ed.) 2000: 334). Chŏng Yakchong wrote a much longer treatise on Catholicism in *Han’gŭl*, called *Chugyo yoji* (주교요지) [The Essence of The Lord’s Teachings], obviously directed at a growing audience who were not yangban scholars. In fact, many were women and members of the lower classes, overturning and destabilising entrenched hierarchical Confucian social norms, while at the same time advocating Confucian morality, but supplemented with egalitarian Christian ideas (see Cawley 2025, chapters 4 and 5)[^cawley-2025].
+    step1: TBD
+    step2: TBD
+  - id: 108
+    kind: body
+    source: |-
+      Tasan, like many others, renounced the religion after witnessing close relations and friends brutally executed, and as a result his authorial control had been clearly compromised through the fear of his own execution, as well as the fact that his wife and children could have been sold as slaves (Cawley 2014b)[^cawley-2014b]. Some scholars, such as Kim Shin-ja (2006 [2010: 92–102]), comment on the philosophical inclinations in Tasan’s writings, and consider him as having returned to the “original theory of Confucius”, known as *Susahak* (洙泗學). However, Tasan’s commentaries are full of references to “The Sovereign on High”, *Sangje* (which is the Korean pronunciation of *Shangdi* from the Chinese characters 上帝), despite the fact that the *Analects* never mention this term, not even a single time. It appears only five times in the entire *Four Books*! This term was used in the *Five Classics*, as highlighted by Matteo Ricci, and was of great importance to the early Catholics in Korea, who, having read Ricci’s text, considered *Sangje* to be God. Why might this be important? Seen in this light, Tasan’s interest in “original” Confucianism (*Susahak*), may have been merely a ploy to detract from his religious affiliation with Catholicism. The *Sangje* one encounters in Tasan’s writings is a personal, monotheistic, creator deity, and *not* an impersonal *Principle.* Indeed, Tasan’s “dis-assembling” of Neo-Confucianism, extracting the Cheng-Zhu influenced metaphysical discourse, and reorienting it towards *Sangje*, resembles the strategy of Matteo Ricci, though supplemented with a sense of active social morality (see Cawley 2014a)[^cawley-2014a]. Keum (1980 [2000: 189]) insists that
+    step1: TBD
+    step2: TBD
+  - id: 109
+    kind: body
+    source: |-
+      > Catholic Doctrine not only provided a bridge to a new understanding of the universe, it also became a spring-board for the development of his [Tasan’s] Neo-Confucianism,
+    step1: TBD
+    step2: TBD
+  - id: 110
+    kind: body
+    source: |-
+      leading to a creative synthesis. This development may also be described as “post-Confucian,” not only because it moves beyond the classical metaphysical frameworks of Ihak 理學, the School of Principle) and Sŏngnihak 性理學, the School of Nature and Principle), but also because it departs from classical Confucianism in the centrality it assigns to Sangje within its overall schema of reality. In this reinterpretation, Sangje functions less as an impersonal moral order and more as a deity who actively governs and directs creation. One might even characterize the system as a subtle form of “Christo‑Confucianology,” insofar as Christian motifs quietly inform its moral discourse—now oriented around an anthropomorphic understanding of Sangje (discussed in detail in Cawley 2014b)[^cawley-2014b]. Indeed, Gim (2020) argues that the ontological framework of Tasan’s entire thought is deeply informed by Catholic concepts.
+    step1: TBD
+    step2: TBD
+  - id: 111
+    kind: body
+    source: |-
+      In *Chungyong kangŭibo* (中庸講義補) [Supplement to Lectures on the *Doctrine of the Mean*], Tasan (*Kugyŏk yŏyudang chŏnsŏ*: vol. 1: 390) queries the link between the “Diagram of the Supreme Ultimate” (which had provided the foundation for T’oegye’s onto-cosmology and *Principle*) and original Confucian ideas, noting that, “it was written over a thousand years after Confucius”, hence not found in “original” Confucianism at all. In another text, *Maengja yoŭi* (孟子要義) [The Essentials of *The Mencius*] Tasan notes that
+    step1: TBD
+    step2: TBD
+  - id: 112
+    kind: body
+    source: |-
+      > the circle in this diagram which represents the Supreme Ultimate [and *Principle*] does not appear anywhere in the [Five] Classics. (*Maengja yoŭi*: 383)
+    step1: TBD
+    step2: TBD
+  - id: 113
+    kind: body
+    source: |-
+      Tasan rejected the primacy of *Principle*—the foundational Neo‑Confucian category central to Zhu Xi’s metaphysical system—arguing that it lacked any capacity for perception, intentionality, or personality. He dismissed the idea that such an impersonal and abstract force could serve as the governing source of the cosmos. Instead, he relegated *Principle* to the level of an “attribute,” functioning more like a natural law than an independent, self‑subsisting “substance.” This reinterpretation not only destabilised the traditional Neo‑Confucian ontological framework but also reflects the influence of Scholastic distinctions between substance and attribute that Tasan encountered through Ricci’s writings, as discussed in Yoo (1994).
+    step1: TBD
+    step2: TBD
+  - id: 114
+    kind: body
+    source: |-
+      Similar to Matteo Ricci, Tasan reorients his ideas away from these widely accepted Neo-Confucian metaphysical norms towards an all-seeing *Sangje* to provide an alternative foundation for his moral framework. It is *Sangje* who re-stabilises Tasan’s re-conceptualised ontotheological-cosmology, disentangling it from *Principle*, the Supreme Ultimate, yin and yang, as well as the five elements. It is *Sangje* who renders Tasan’s philosophy distinctly theistic in orientation, for this *Sangje* is conceived as a creator‑deity, fundamentally unlike the more impersonal *Sangje* of the Confucian classics. Whereas classical Confucianism treats *Sangje* as a highest moral‑cosmic order or Heaven’s mandate operating through P*rinciple*, Tasan reinterprets *Sangje* as a personal, volitional being who intentionally creates, governs, and sustains the world. This shift transforms the metaphysical landscape of his thought: instead of grounding ethics solely in human nature, ritual propriety, or the moral patterns of Heaven, Tasan anchors moral authority in the will and agency of a transcendent, anthropomorphic *Sangje*. In this sense, his philosophy moves decisively beyond traditional Confucian cosmology toward a theistic framework that parallels—though does not wholly replicate—monotheistic models.
+    step1: TBD
+    step2: TBD
+  - id: 115
+    kind: body
+    source: |-
+      In *Ch’unch’u kojing* (春秋考徵) [Evidential Analysis of the *Spring and Summer Annals*] written circa 1812, he asks, “Who is *Sangje*?”, answering that
+    step1: TBD
+    step2: TBD
+  - id: 116
+    kind: body
+    source: |-
+      > *Sangje* is a being that *creates*, governs and maintains heaven, earth, spirits, humans and all things, but also transcends them. (*Ch’unch’u kojing*, a283_363a)
+    step1: TBD
+    step2: TBD
+  - id: 117
+    kind: body
+    source: |-
+      Furthermore, this quote echoes the full title of Ricci’s first chapter in the *True Meaning of the Lord of Heaven*:
+    step1: TBD
+    step2: TBD
+  - id: 118
+    kind: body
+    source: |-
+      > A Discussion on the creation of Heaven, Earth, and all things by the Lord of Heaven and on the way he governs and sustains them. (Ricci 1985:65)[^ricci-1985]
+    step1: TBD
+    step2: TBD
+  - id: 119
+    kind: body
+    source: |-
+      Tam (2025) also underscores the importance of this phrase noting that *Sangje* is indeed presented as a creator in Tasan’s writings, himself focusing his study on the Christo-Confucian re-interpretation of the poem ‘Tang’ from the *Classic of History.*
+    step1: TBD
+    step2: TBD
+  - id: 120
+    kind: body
+    source: |-
+      Earlier scholars such as Yun Hyu (1617–1680) and Pak Sedang (1629–1703) had dared to be critical of Zhu Xi’s interpretations of texts and rituals, but Mark Setton (1997: 102–103) notes how Tasan took this to another level, arguing that even his conception of Confucian virtue was “diametrically opposed” to Zhu Xi’s. Setton also notes how Tasan even rejected the introspective aspects of self-cultivation, advocating an outward ethical practice based on our moral priorities. This, then, depends on a notion akin to self‑determining agency, a strikingly innovative idea in Tasan’s thought, for which good and evil are not inherent features of one’s material force but operate on the psychological level, existing only “in the context of concrete human relations” (Setton 1989: 380)[^setton-1989]. In this framework, the defining feature of the human being becomes its capacity for:
+    step1: TBD
+    step2: TBD
+  - id: 121
+    kind: body
+    source: |-
+      > This ability to make moral choices, and consequently to shape his own moral destiny, places man in an entirely different category from the animals. (Setton 1989: 380)[^setton-1989]
+    step1: TBD
+    step2: TBD
+  - id: 122
+    kind: body
+    source: |-
+      Tasan’s theological reconfiguration bears directly on how he understands human moral agency. Although one might expect a theistic framework to introduce a notion of “freedom of the will,” Tasan does not explicitly employ such terminology. Instead, he speaks of *chaju chikkwŏn* (自主職權, the power of autonomy) and *kwŏnhyŏng* (權衡, balance), concepts that frame human agency not in terms of abstract volition but in terms of the mind’s capacity for self‑regulation and moral equilibrium. Most importantly, his account of the mind’s self‑determinative power—often expressed through *yŏngmyŏng* (英明, intelligence or luminous awareness)—rests on his distinctive understanding of human nature as preference or inclination (*sŏnggi hosŏl*, 性嗜好說). In contrast to Neo‑Confucian models grounded in an ontological principle (*i*), Tasan roots moral agency in the dynamic, affectively‑charged tendencies of human nature itself. Thus, the same shift that elevates an anthropomorphic *Sangje* also reshapes his theory of moral psychology, producing a framework that is theistic in cosmology yet distinctively non‑volitional in its account of human autonomy (for a detailed examination see, Kam 2025; Kalton 1981)[^kalton-1981].
+    step1: TBD
+    step2: TBD
+  - id: 123
+    kind: body
+    source: |-
+      Although Tasan’s texts draw extensively on Confucian commentaries, they do not simply eulogize Confucian norms; rather, they offer a sharp critique of entrenched legalism and ritualism, shifting the discourse from metaphysical speculation to urgent social realities—a society in decay and common people suffering under punitive laws and oppressive taxation (see B. Choi [trans.] 2010, *Mongmin simsŏ*). This move from abstract theory to concrete reform reflects Tasan’s conviction that *kwŏnhyŏng* (or moral agency) is not merely a metaphysical principle but a moral imperative: if human beings possess genuine freedom, they also bear responsibility for shaping just institutions and alleviating suffering. Justice, for Tasan, thus becomes a call to exercise this freedom ethically—a vision of “humane” governance actively committed to loving the people, where Christian undertones, particularly the ethic of charity, may again be discerned.
+    step1: TBD
+    step2: TBD
+  - id: 124
+    kind: body
+    source: |-
+      ## 7. Emergence of Modernisation and Confucian Challenges
+    step1: TBD
+    step2: TBD
+  - id: 125
+    kind: body
+    source: |-
+      Confucian scholars remained determined to uphold and validate their intellectual tradition—even at the cost of violent suppression of competing ideologies. Between 1866 and 1871, Confucian authorities orchestrated the persecution of Catholics, resulting in the torture and execution of an estimated 8,000 to 10,000 men, women, and children. This tragic episode underscores the intensity with which Confucian orthodoxy sought to defend its moral and metaphysical foundations against perceived threats.
+    step1: TBD
+    step2: TBD
+  - id: 126
+    kind: body
+    source: |-
+      Amid this turbulence, Choi Min-Hong (1980: 191–217) observes a notable resurgence of philosophical interest in *Principle* (*i*) during the nineteenth century, particularly among scholars associated with the Namin faction—intellectual heirs to T’oegye’s metaphysical vision. Figures such as Ki Chŏngjin (1798–1879) and Yi Hangno (1792–1868) exemplify this revival. Yi Hangno regarded *Principle* as the fundamental substance of the universe, describing it as “something spiritual” (1980: 194), thereby reaffirming its ontological primacy. Similarly, Ki Chŏngjin returned to Zhu Xi’s writings, re-engaging with the study of ‘sage learning’ and the Classics. For Ki, *Principle* functioned as a spiritual Supreme Ultimate, generating yin and yang and, subsequently, *ki*—thus asserting that *Principle* precedes material force. Moreover, he argued that this *Principle* manifests differently in humans and animals, thereby reinforcing a hierarchical vision of cosmic order—a view that further develops themes from the Horak debate (Choi M.-H. 1980: 196–198)[^choi-1980].
+    step1: TBD
+    step2: TBD
+  - id: 127
+    kind: body
+    source: |-
+      Yi Chin-sang (1818–1885) also considered *Principle* as preceding *ki*, but also as that which generated it, therefore, self-cultivation lay in the study of the mind and not in knowing external things due to man’s “Heaven-bestowed cognitive powers” which depended on “transcendental *i* [*Principle*]” (Choi M.-H. 1980: 191–217)[^choi-1980]. Such idealistic ideas were hardly needed at a time when society was in such a state of disarray, already foreboded in the writings of Tasan.
+    step1: TBD
+    step2: TBD
+  - id: 128
+    kind: body
+    source: |-
+      At the same time, another intellectual current emerged that championed *ki*, exemplified by Ch’oe Han-ki (1803–1879), who sought to liberate thought from entrenched prejudices. Recent scholarship has significantly re-evaluated Ch’oe’s work. For instance, Chang (2025) analyzes his hermeneutical philosophy and reinterpretation of the Confucian Classics, highlighting how Ch’oe reframed canonical texts through a processual lens, emphasizing dynamic interaction rather than static metaphysical categories. This approach reflects his broader attempt to reconcile Confucian thought with emerging scientific and socio-political realities. Other scholars underscore his empiricist orientation and methodologically sophisticated engagement with experience—an approach reminiscent of John Locke (1632–1704), though adapted to challenge the notion of an innately good mind prior to learning through accumulated experience (Park 2004)[^park-2004]. Deeply conversant with European science, Ch’oe articulated an ontology grounded in a “One-Dimensional ki theory,” positing ki as the formative principle shaping all things, even preceding form itself, while simultaneously rejecting the Zhu Xi school’s conception of innate reasoning power (Choi M.-H. 1980: 205)[^choi-1980]. His thought was also attuned to the shifting realities of his time—critical of the rigid class hierarchy and the inhumane treatment of the populace—concerns that also echoed themes raised earlier by Tasan.
+    step1: TBD
+    step2: TBD
+  - id: 129
+    kind: body
+    source: |-
+      Park Chong-hong (2004: 396) critiques the trend of the (later-called) *Sirhak* [Practical] scholars, who “made the mistake of arranging encyclopedic knowledge” and other “trivial matters”, clearly unable to fathom what was coming, and unable to provide Chosŏn with the tools it needed to survive the “modernisation” that would soon be thrust upon the peninsula, leading to Japan’s eventual colonial rule over the peninsula (1910–1945). As the situation on the peninsula disintegrated, Koreans sought alternatives to Confucianism to deal with social issues and inequality. The first of these New Religious Movements (NRMs) was known as *Tonghak* (東學), or Eastern Learning, to contrast directly with the foreign “Western Learning”, and it attempted to help hopeless poor peasants whose lives were getting progressively worse, especially in the southern regions far from the capital. Tonghak was founded by Ch’oe Che-u (1824–1864), known by his followers as Su-un, and while providing an alternative to Confucianism, it used the name of the “Sovereign on High” (*Sangje*) from the Confucian Classics to refer to its deity, while also using the Catholic term “Lord of Heaven” (*Ch’ŏnju*) as well. There were splinter groups formed out of this NRM such as Chŭngsando (more commonly written Jeungsando), and Daesoon Jinrihoe, both worshipping different iterations of *Sangje*—a monotheistic Korean deity with Confucian origins (see Cawley 2019: ch. 5)[^cawley-2019].
+    step1: TBD
+    step2: TBD
+  - id: 130
+    kind: body
+    source: |-
+      As the Chosŏn dynasty approached its end and Korea began opening to Western nations, Protestant missionaries entered the peninsula in increasing numbers by the late 1880s, leaving a profound imprint on its religious culture. This influx prompted some Confucian scholars to attempt a revitalization of Confucianism by emphasizing its religious dimensions, while others sought to reform Confucian thought as a countermeasure against Japanese efforts to “Japanize” Korean society. As Keum (1980 [2000: 219]) observes, “It goes without saying that the idea of Confucian Religion was prompted by the Christian concept of a transcendent God,” as well as by notions of organized religious communities and institutional structures. Yet this movement never truly gained traction—likely due to the elitism historically associated with Confucianism and its role in perpetuating social inequities, particularly toward women. By contrast, Protestantism offered women new opportunities for education through “modern” schools, contributing to its growing appeal and accelerating cultural transformation.
+    step1: TBD
+    step2: TBD
+  - id: 131
+    kind: body
+    source: |-
+      Han Hyong-jo (2016) articulates that more recent understandings of Korean Confucianism “has mirrored its chief nemesis, modernity” and outlines three stages:
+    step1: TBD
+    step2: TBD
+  - id: 132
+    kind: body
+    source: |-
+      1. Denial (1890s–1930s), where Confucianism was blamed for the loss of Korea’s sovereignty;
+      2. Excuse (1930s–1980s): *Sirhak*, whereby “practical” ideas were “fished” out of the tradition as a sort of retrospective consolation had things gone differently;
+      3. Rehabilitation (1980s–1997): suggesting that Confucianism is behind of the economic rise of Korea and linked to the emergence of its democracy, despite the fact that Confucians were against industry and labour, and they supported unelected rulers from a royal clan.
+    step1: TBD
+    step2: TBD
+  - id: 133
+    kind: body
+    source: |-
+      Indeed, rulers’ challengers were easily disposed of—even if they should be senior members of their own family—contravening teachings on filial piety. Confucianism has also been linked with a resurgence of “Asian” values, or recalibrated (yet again) to permit a feminist turn, and possibly even found in some of the Juche ideas of North Korea’s state ideology, which commands undisputed loyalty (*chung*) to its Dear Leader.
+    step1: TBD
+    step2: TBD
+  - id: 134
+    kind: body
+    source: |-
+      As Min (2016) observes, Confucianism now “nests between” other traditions, insinuating itself throughout them, rather than remaining a monolithic system. This adaptive posture has sparked renewed interest in recovering what Han Hyoung-jo (2016) calls the “lost art” of Confucian *ihak*—the cultivation of mind as the foundation of moral life. Reengaging with this tradition, Han argues, could restore Confucianism’s original telos: not democracy or mere institutional reform, but the pursuit of sagehood, a noble ideal that transcends political systems. Such cultivation, Han suggests, offers a remedy for the pervasive “self-oblivion and self-centeredness” of modern culture, enabling us to rediscover our innate potential for humane coexistence across ideological, political, and religious divides.
+    step1: TBD
+    step2: TBD
+  - id: 135
+    kind: body
+    source: |-
+      Recent scholarship reinforces this vision. Yao’s edited volume, *Reconceptualizing Confucian Philosophy in the 21st Century* (2017), and Davies’ review (2018) highlight efforts to reinterpret Confucian doctrines, virtues, and hermeneutics for contemporary relevance, framing Confucianism as a global philosophy capable of addressing ethical and existential challenges in an age of rapid change. Likewise, Li (2022) characterizes the post-millennium “Confucian revival” as a dynamic intellectual movement—no longer a relic of the past but a living tradition actively engaging with science, modernity, and global ethics. In a similar vein, Sancho (2025b) underscores its status as a plurisecular intellectual tradition, marked by multiple dimensions and adaptive capacities. These developments suggest that Korean Confucianism—particularly its emphasis on sage learning and moral self-cultivation—is far from obsolete. Rather, it may offer an agnostic moral framework uniquely suited to reconnect individuals with themselves and with others at a time when psychological distress and social fragmentation are escalating across advanced democracies.
+    step1: TBD
+    step2: TBD
+  - id: 136
+    kind: oir
+    source: |-
+      - [Chinese Text Project](https://ctext.org/pre-qin-and-han), searchable Confucian texts online (original with English translation).
+      - From [ChinaKnowledge.de](http://www.chinaknowledge.de/) information on
+      - [*Lunyu*](http://www.chinaknowledge.de/Literature/Classics/lunyu.html) (論語) [The Analects]
+      - [*Daxue*](http://www.chinaknowledge.de/Literature/Classics/daxue.html) (大學) [The Great Learning]
+      - [*Zhongyong*](http://www.chinaknowledge.de/Literature/Classics/zhongyong.html) (中庸) [The Doctrine of the Mean]
+      - [*Mengzi*](http://www.chinaknowledge.de/Literature/Classics/mengzi.html) (孟子) [The Mencius]
+    step1: TBD
+    step2: TBD
