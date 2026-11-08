@@ -139,104 +139,138 @@ segments:
     kind: body
     source: |-
       This view of disabilities as the result of human variations is closely related to the view that disability is a universal human condition (Zola 1989)[^zola-1989] or shared human identity (L. Davis 2002: Ch. 1)[^davis-2002]. The claim that disability is universal can be taken as nothing more than a prediction that we will all acquire familiar disabilities at some point in our lives. But that claim is better construed as one about the nature of disability; as maintaining that all human beings have physical or mental variations that can become a source of vulnerability or disadvantage in some settings.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把残疾视为人类变异之结果，这一看法与另一种看法密切相关：残疾是普遍的人类境况（Zola 1989）[^zola-1989]，或共享的人类身份（L. Davis 2002: Ch. 1）[^davis-2002]。说残疾是普遍的，可以只当作一个预测：我们每个人终其一生都会得到某种常见的残疾。但这个主张更好的理解是关于残疾本性的主张：它主张所有人类都有身体或心智上的变异，这些变异在某些环境中会成为脆弱或不利的来源。
+    step2: |-
+      把残疾视为人类变异之结果，这一看法与另一种看法密切相关：残疾是普遍的人类境况（Zola 1989）[^zola-1989]，或是共享的人类身份（L. Davis 2002: Ch. 1）[^davis-2002]。说残疾是普遍的，可以只当作一个预测：我们每个人终其一生都会得到某种常见的残疾。但这个主张更好的理解是关于残疾本性的主张：它主张所有人类都有身体或心智上的变异，这些变异在某些环境中会成为脆弱或不利的来源。
   - id: 18
     kind: body
     source: |-
       These two versions of the social model are not incompatible, differing mainly in emphasis. The discrimination stressed by the minority group model generally leads to, and is expressed in, the societal failure to accommodate people with various differences. In some contexts, it is appropriate to analogize people with disabilities to racial or other minorities; in others, it is important to reject a dichotomy between disability and normality and treat impairments as continuous variations. If one goal of social policy is to remove discrimination and its enduring disadvantages, another is to encompass the full range of human variation in the design of the physical environment and social practices.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      社会模型的这两个版本并不冲突，主要差别在侧重。少数群体模型所强调的歧视，一般会导致、并表现为社会未能顾及具有各种差异的人。在某些语境中，把残疾人比作种族或其他少数是恰当的；在另一些语境中，重要的是拒绝残疾与正常之间的二分，把损伤当作连续的变异。如果社会政策的一个目标是消除歧视及其持久的不利，另一个目标就是在物理环境与社会实践的设计中容纳人类变异的全部范围。
+    step2: |-
+      社会模型的这两个版本并不冲突，主要差别在侧重。少数群体模型所强调的歧视，一般会导致、并表现为社会未能顾及具有各种差异的人。在某些语境中，把残疾人比作种族或其他少数是恰当的；在另一些语境中，重要的是拒绝残疾与正常之间的二分，把损伤当作连续的变异。如果社会政策的一个目标是消除歧视及其持久的不利，另一个目标就是在物理环境与社会实践的设计中容纳人类变异的全部范围。
   - id: 19
     kind: body
     source: |-
       Although the social model, in one version or another, is now the dominant legislative, social-science, and humanities paradigm for understanding disability, stronger versions of it – particularly the British Social Model exemplified by UPIAS – have been subject to extensive criticism. Some argue that an adequate conceptualization of disability requires a recognition of impairments as an objective basis for classification, to distinguish disability discrimination from other types of discrimination (Bickenbach 1993)[^bickenbach-1993]. Several critics argue that extreme versions of the model implausibly deny or understate the role of impairment itself as a source of disadvantage (Anastasiou & Kauffman 2013; Terzi 2004, 2009; Shakespeare 2006)[^anastasiou-2013][^shakespeare-2006][^terzi-2004]. Others, however, contend that this criticism is misplaced, because the British Social Model does not deny the importance of impairments but rather seeks to restrict the application of the term “disability” to social exclusion and oppression (Beaudry 2016)[^beaudry-2016].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管社会模型——不论哪个版本——如今是理解残疾的主导性立法、社会科学与人文学科范式，其较强版本（尤其是以 UPIAS 为典范的英国社会模型）却受到广泛批评。有人认为，要充分地概念化残疾，就必须承认损伤是分类的客观基础，以便把残疾歧视与其他类型的歧视区分开（Bickenbach 1993）[^bickenbach-1993]。数位批评者主张，极端版本的模型难以置信地否认或低估了损伤本身作为不利来源的作用（Anastasiou & Kauffman 2013; Terzi 2004, 2009; Shakespeare 2006）[^anastasiou-2013][^shakespeare-2006][^terzi-2004]。然而另一些人认为，这种批评打错了靶子，因为英国社会模型并不否认损伤的重要性，而只是想将“残疾”一词的适用范围限制在社会排斥与压迫上（Beaudry 2016）[^beaudry-2016]。
+    step2: |-
+      尽管社会模型——不论哪个版本——如今是理解残疾的主导性立法、社会科学与人文学科范式，其较强版本（尤其是以 UPIAS 为典范的英国社会模型）却受到广泛批评。有人认为，要充分地概念化残疾，就必须承认损伤是分类的客观基础，以便把残疾歧视与其他类型的歧视区分开（Bickenbach 1993）[^bickenbach-1993]。数位批评者主张，极端版本的模型难以置信地否认或低估了损伤本身作为不利来源的作用（Anastasiou & Kauffman 2013; Terzi 2004, 2009; Shakespeare 2006）[^anastasiou-2013][^shakespeare-2006][^terzi-2004]。然而另一些人认为，这种批评打错了靶子，因为英国社会模型并不否认损伤的重要性，而只是想将“残疾”一词的适用范围限制在社会排斥与压迫上（Beaudry 2016）[^beaudry-2016]。
   - id: 20
     kind: body
     source: |-
       Another objection is that the social as well as the medical model both rest on a false dichotomy between biological impairments and social limitations. There are two versions of this objection. One maintains that disability is a complex phenomenon, in which biological impairment and social exclusion are deeply interwoven and difficult to tease apart (Martiny 2015; Anastasiou & Kauffman 2013)[^anastasiou-2013][^martiny-2015]. The other version of this objection rejects the treatment of impairment as a (strictly) biological phenomenon. “Impairment”, the argument goes, is no less a social construction than the barriers faced by people so classified (more on this below). Claims that there is a stable biomedical basis for classifying a variation as an impairment are called into question by shifting classifications; by the “medicalization” of some conditions (shyness) and “demedicalization” of others (homosexuality). Moreover, the social environment appears to play a significant role in identifying and, arguably, in constituting some impairments (dyslexia) (Cole 2007; Shakespeare 2006; L. Davis 2002: Ch 1; Tremain 2001, 2017; Amundson 2000)[^amundson-2000][^cole-2007][^davis-2002][^shakespeare-2006][^tremain-2001]. What counts as an impairment may depend on which variations appear to be disadvantageous in familiar or salient environments, or on which variations are subject to social prejudice: Less-than-average height may be more readily classified as an impairment than greater-than-average height because the former is more often disadvantageous in environments designed for people of average height, or because it is generally seen as less desirable. For such reasons, it is difficult to establish the objectivity of the impairment classification by appeal to a clear and undisputed biomedical norm. Amundson (2000), indeed, goes so far as to deny that there is any biological basis for a concept of functional normality—a claim emphatically rejected by Boorse (2010).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一个反对意见是：社会模型与医学模型都建立在生物损伤与社会限制之间的虚假二分之上。这一反对意见有两个版本。一个版本主张，残疾是复杂的现象，生物损伤与社会排斥在其中深度交织，难以拆开（Martiny 2015; Anastasiou & Kauffman 2013）[^anastasiou-2013][^martiny-2015]。另一个版本反对把损伤当作（严格意义上的）生物现象。“损伤”这一说法，并不比被如此归类的人所面临的障碍更少社会建构（详见后文）。把某种变异归类为损伤有稳定的生物医学基础吗？这种主张受到质疑：分类本身在变；某些状况（羞怯）被“医学化”，另一些（同性恋）被“去医学化”。此外，社会环境似乎在识别、并且可以说在构成某些损伤（阅读障碍）方面起重要作用（Cole 2007; Shakespeare 2006; L. Davis 2002: Ch 1; Tremain 2001, 2017; Amundson 2000）[^amundson-2000][^cole-2007][^davis-2002][^shakespeare-2006][^tremain-2001]。什么算损伤，可能取决于哪些变异在熟悉或显著的环境中显得不利，或者取决于哪些变异遭到社会偏见：低于平均的身高比高于平均的身高更容易被归为损伤，因为前者在按平均身高设计的环境中更常带来不利，或者因为前者一般被认为不那么可取。由于这些原因，很难诉诸清晰而无争议的生物医学规范来确立损伤分类的客观性。事实上，阿蒙森（Amundson 2000）走得如此之远，以至于否认功能正常性概念有任何生物学基础——伯尔斯（Boorse 2010）断然拒绝了这一主张。
+    step2: |-
+      另一个反对意见是：社会模型与医学模型都建立在生物损伤与社会限制之间的虚假二分之上。这一反对意见有两个版本。一个版本主张，残疾是复杂的现象，生物损伤与社会排斥在其中深度交织，难以拆开（Martiny 2015; Anastasiou & Kauffman 2013）[^anastasiou-2013][^martiny-2015]。另一个版本反对把损伤当作（严格意义上的）生物现象。“损伤”这一说法，并不比被如此归类的人所面临的障碍更少社会建构（详见后文）。把某种变异归类为损伤有稳定的生物医学基础吗？这种主张受到质疑：分类本身在变；某些状况（羞怯）被“医学化”，另一些（同性恋）被“去医学化”。此外，社会环境似乎在识别、并且可以说在构成某些损伤（阅读障碍）方面起重要作用（Cole 2007; Shakespeare 2006; L. Davis 2002: Ch 1; Tremain 2001, 2017; Amundson 2000）[^amundson-2000][^cole-2007][^davis-2002][^shakespeare-2006][^tremain-2001]。什么算损伤，可能取决于哪些变异在熟悉或显著的环境中显得不利，或者取决于哪些变异遭到社会偏见：低于平均的身高比高于平均的身高更容易被归为损伤，因为前者在按平均身高设计的环境中更常带来不利，或者因为前者一般被认为不那么可取。由于这些原因，很难诉诸清晰而无争议的生物医学规范来确立损伤分类的客观性。事实上，阿蒙森（Amundson 2000）走得如此之远，以至于否认功能正常性概念有任何生物学基础——伯尔斯（Boorse 2010）断然拒绝了这一主张。
   - id: 21
     kind: body
     source: |-
       ### 1.2 An Affirmative Model?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.2 一个肯定性模型？
+    step2: |-
+      ### 1.2 一个肯定性模型？
   - id: 22
     kind: body
     source: |-
       The debate between the medical and social model about the source of the disadvantages disabled people experience has dominated academic discourse about disability since the 1970s. More recently, however, disability activists and disabled scholars have questioned the apparent shared assumption of both models, that disability is fundamentally a matter of disadvantage, exclusion, or functional limitation. This is to take a (partly) different view on what an account of disability should explain; a view consistent in principle with either a more medical or more social view of what does the explaining. The *affirmative model* of disability and impairment, as articulated by John Swain and Sally French (2000), holds that disability is not in the first instance a problem—not simply or solely a “personal tragedy”, and implicitly, not simply or solely a social injustice either. Rather, disability is a different way of living in and experiencing the world, one not characterized by its disadvantages any more than its advantages.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1970 年代以来，医学模型与社会模型关于残疾人不利之来源的争论，主导了关于残疾的学术话语。然而晚近以来，残疾行动者与残疾学者质疑两个模型表面上的共同假定：残疾根本上是关于不利、排斥或功能限制的事。这等于对“残疾说明应当解释什么”采取（部分）不同的看法；这种看法在原则上既可与更医学的观点相容，也可与更社会的观点相容——后两者针对的是“由什么来解释”。由约翰·斯温（John Swain）与萨莉·弗伦奇（Sally French，2000）阐明的残疾与损伤*肯定性模型*主张，残疾首先不是一个问题——不单纯或仅仅是一场“个人悲剧”，也隐含地不单纯或仅仅是一种社会不公。相反，残疾是一种不同的生活与体验世界的方式，其不利并不比其有利更能刻画它。
+    step2: |-
+      1970 年代以来，医学模型与社会模型关于残疾人不利之来源的争论，主导了关于残疾的学术话语。然而晚近以来，残疾行动者与残疾学者质疑两个模型表面上的共同假定：残疾根本上是关于不利、排斥或功能限制的事。这等于对“残疾说明应当解释什么”采取（部分）不同的看法；这种看法在原则上既可与更医学的观点相容，也可与更社会的观点相容——后两者针对的是“由什么来解释”。由约翰·斯温（John Swain）与萨莉·弗伦奇（Sally French，2000）阐明的残疾与损伤肯定性模型主张，残疾首先不是一个问题——不单纯或仅仅是一场“个人悲剧”，也隐含地不单纯或仅仅是一种社会不公。相反，残疾是一种不同的生活与体验世界的方式，其不利并不比其有利更能刻画它。
   - id: 23
     kind: body
     source: |-
       Note that this is not a claim about what causally explains disability; rather, it is a claim about what aspects of the phenomenon of disability should serve as the object of explanation in social scientific theories of disability. As such, the affirmational model is *prima facie* consistent with either the medical or the social model, and indeed tends to draw on considerations from both. The diverse mix of advantages and disadvantages that characterize life with disability can derive from biological factors, social factors, or interactions between the two. On the side of advantage, a person with a disability like blindness might celebrate the increased attention sightlessness saves for hearing and other senses as well as the solidarity they experience with other disabled people as they fight together against ableism and for social justice. On the side of disadvantage, the affirmational model will point to the considerations some would regard as personal tragedies as, instead, a combination of purely functional challenges to be overcome, and conditions of social exclusion that can make life harder without thereby making it any less valuable or worth living.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      注意，这并不是关于什么在因果上解释残疾的主张，而是关于残疾现象中哪些方面应当成为社会科学残疾理论之解释对象的主张。因此，肯定性模型在表面上（*prima facie*）与医学模型或社会模型都相容，而且实际上往往兼取两者的考量。带残疾的生活所具有的有利与不利的多样混合，可能来自生物因素、社会因素或两者的交互作用。在有利一面，一位失明的残疾人也许会称赞失明为听觉及其他感官留出了更多注意力，也会称赞与其他残疾人一起对抗能力主义、争取社会正义时所体验到的团结。在不利一面，肯定性模型会把某些人视为个人悲剧的考量，改述为纯粹的、有待克服的功能挑战与社会排斥状况的组合——后者会使生活更艰难，但并不因此使生活价值更低或不值得过。
+    step2: |-
+      注意，这并不是关于什么在因果上解释残疾的主张，而是关于残疾现象中哪些方面应当成为社会科学残疾理论之解释对象的主张。因此，肯定性模型在表面上（*prima facie*）与医学模型或社会模型都相容，而且实际上往往兼取两者的考量。带残疾的生活所具有的有利与不利的多样混合，可能来自生物因素、社会因素或两者的交互作用。在有利一面，一位失明的残疾人也许会称赞失明为听觉及其他感官留出了更多注意力，也会称赞与其他残疾人一起对抗能力主义、争取社会正义时所体验到的团结。在不利一面，肯定性模型会把某些人视为个人悲剧的考量，改述为纯粹的、有待克服的功能挑战与社会排斥状况的组合——后者会使生活更艰难，但并不因此使生活价值更低或不值得过。
   - id: 24
     kind: body
     source: |-
       Still, though logically independent of claims about the evaluative import of disability, the medical and social models suggest different views about the impact of disability on well-being, and different views about how disability is relevant to reproductive decisions, medical interventions, and social policy. The affirmational model is likely to be more in sympathy with social than medical models here. Those who accept a social model of disability regard the association between disability and well-being as highly contingent, mediated by a variety of environmental and social factors (Campbell & Stramondo 2017)[^campbell-2017]. They also tend to question conceptions of well-being that give a central role to the possession or exercise of the standard array of physical and mental functions, as those conceptions imply, or are often taken to imply, that well-being is precluded or diminished merely by the absence or limitation of those functions (see entry disability and well-being). As a result, they generally see the disadvantages of disability not only as externally caused, but as less formidable than they appear to people who view disability in largely biomedical terms. These differences are reflected in the conflicting assessments of life with disabilities found in the bioethics and public policy literature on the one hand, and disability scholarship on the other (contrast Brock 2005 with Goering 2008)[^brock-2005][^goering-2008].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不过，尽管在逻辑上独立于关于残疾之评价意义的主张，医学模型与社会模型对残疾如何影响福祉暗示了不同看法，对残疾如何与生育决策、医疗干预和社会政策相关也暗示了不同看法。在这方面，肯定性模型可能更同情社会模型而非医学模型。接受社会模型的人认为，残疾与福祉之间的联系高度偶然，为各种环境与社会因素所中介（Campbell & Stramondo 2017）[^campbell-2017]。他们也倾向于质疑那些把标准身心功能的拥有或运用置于核心的福祉概念，因为这类概念暗示（或常被理解为暗示）：仅仅因为那些功能的缺失或受限，福祉就被排除或减损（见“残疾与福祉”词条）。结果，他们一般不仅把残疾的不利视为外部造成的，而且视为不像那些大致以生物医学术语看待残疾的人所觉得的那样可怕。这些差异反映在两类文献对带残疾生活的相互冲突的评估中：一边是生命伦理学与公共政策文献，另一边是残疾研究（对比 Brock 2005 与 Goering 2008）[^brock-2005][^goering-2008]。
+    step2: |-
+      不过，尽管在逻辑上独立于关于残疾之评价意义的主张，医学模型与社会模型对残疾如何影响福祉暗示了不同看法，对残疾如何与生育决策、医疗干预和社会政策相关也暗示了不同看法。在这方面，肯定性模型可能更同情社会模型而非医学模型。接受社会模型的人认为，残疾与福祉之间的联系高度偶然，为各种环境与社会因素所中介（Campbell & Stramondo 2017）[^campbell-2017]。他们也倾向于质疑那些把标准身心功能的拥有或运用置于核心的福祉概念，因为这类概念暗示（或常被理解为暗示）：仅仅因为那些功能的缺失或受限，福祉就被排除或减损（见“残疾与福祉”词条）。结果，他们一般不仅把残疾的不利视为外部造成的，而且视为不像那些大致以生物医学术语看待残疾的人所觉得的那样可怕。这些差异反映在两类文献对带残疾生活的相互冲突的评估中：一边是生命伦理学与公共政策文献，另一边是残疾研究（对比 Brock 2005 与 Goering 2008）[^brock-2005][^goering-2008]。
   - id: 25
     kind: body
     source: |-
       ### 1.3 Models, Decisions, and Policies
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.3 模型、决策与政策
+    step2: |-
+      ### 1.3 模型、决策与政策
   - id: 26
     kind: body
     source: |-
       The different models of disability—and particularly, the medical and social models—have always been interpreted as favoring different responses to disability. The medical model appears to support the correction of the biological condition (or some form of compensation when that is impractical); the minority group model appears to favor measures to eliminate exclusionary practices or at least recognize their injustice; the human variation model appears to favor reconstruction of the physical and social environment to take into account a wider range of differences in human structure and function (measures that could in turn make the social environment less exclusionary).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      残疾的不同模型——尤其是医学模型与社会模型——一直被理解为支持对残疾作出不同的回应。医学模型看来支持矫正生物状况（在不切实际时给予某种补偿）；少数群体模型看来赞成消除排斥性做法、或至少承认其不义的措施；人类变异模型看来赞成重建物理与社会环境，以顾及人类结构与功能上更宽范围的差异（这些措施又能反过来使社会环境不那么排斥）。
+    step2: |-
+      残疾的不同模型——尤其是医学模型与社会模型——一直被理解为支持对残疾作出不同的回应。医学模型看来支持矫正生物状况（在不切实际时给予某种补偿）；少数群体模型看来赞成消除排斥性做法、或至少承认其不义的措施；人类变异模型看来赞成重建物理与社会环境，以顾及人类结构与功能上更宽范围的差异（这些措施又能反过来使社会环境不那么排斥）。
   - id: 27
     kind: body
     source: |-
       But claims about the causal explanation of disadvantage do not always yield straightforward prescriptions for their remediation (Wasserman 2001; Samaha 2007; Barclay 2018)[^barclay-2018][^samaha-2007][^wasserman-2001]. In some cases, medical or surgical “correction” may be the most effective way to escape discrimination; if correction is not appropriate, that is because it reinforces discriminatory attitudes and practices, not because it is discriminatory *per se*. Even an affirmational model does not straightforwardly imply that we should change society rather than disabled bodies: that disabled people have reason to be proud of their disabilities and/or impairments does not immediately entail claims in justice on the rest of us to incur the costs of accommodating these differences. This is to be expected: the proper response to the disadvantages associated with disability depends not only on causal attributions and prudential evaluations, the domains of the three “models”, but also on moral judgments about responsibility, respect, and justice.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但关于不利之因果解释的主张，并不总能直接给出补救的处方（Wasserman 2001; Samaha 2007; Barclay 2018）[^barclay-2018][^samaha-2007][^wasserman-2001]。在某些情形中，医学或外科“矫正”也许是摆脱歧视的最有效方式；如果矫正并不恰当，那是因为它强化了歧视性的态度与做法，而不是因为它本身就带有歧视性。即便是肯定性模型，也不直接意味着我们应当改变社会而非改变残疾的身体：残疾人有权为自己的残疾和/或损伤感到自豪，这并不立即推出我们其他人负有正义上的义务去承担迁就这些差异的成本。这是可以预期的：对残疾相关不利的恰当回应，不仅取决于因果归因与审慎评价（三个“模型”的领域），还取决于关于责任、尊重与正义的道德判断。
+    step2: |-
+      但关于不利之因果解释的主张，并不总能直接给出补救的处方（Wasserman 2001; Samaha 2007; Barclay 2018）[^barclay-2018][^samaha-2007][^wasserman-2001]。在某些情形中，医学或外科“矫正”也许是摆脱歧视的最有效方式；如果矫正并不恰当，那是因为它强化了歧视性的态度与做法，而不是因为它本身就带有歧视性。即便是肯定性模型，也不直接意味着我们应当改变社会而非改变残疾的身体：残疾人有权为自己的残疾和/或损伤感到自豪，这并不立即推出我们其他人负有正义上的义务去承担迁就这些差异的成本。这是可以预期的：对残疾相关不利的恰当回应，不仅取决于因果归因与审慎评价（三个“模型”的领域），还取决于关于责任、尊重与正义的道德判断。
   - id: 28
     kind: body
     source: |-
       This is not to say that these causal attributions, much less prudential judgments, are morally irrelevant: to the extent that social causation of disability disadvantage makes social institutions *morally responsible* for the limitations disabled people face, it may be unfair and disrespectful for society to ask disabled people to change themselves rather than changing itself to be more inclusive (Aas 2020)[^aas-2020]. Moreover, “correcting” disability may (as the affirmational model reminds us) involve destroying valuable forms of life and reducing the vibrant diversity of human embodiment; or it may not do enough to counterbalance the benefits of uniformity (Garland-Thomson 2012)[^garland-thomson-2012]. *Contra* the sense that the social, medical, and affirmational models each come bundled with obvious policy consequences, it seems clear on reflection that there is much yet to do to understand just what these different explanations of disability imply as to how we should respond to it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这并不是说这些因果归因、更不用说审慎判断，在道德上无关紧要：如果残疾不利的社会因果使社会制度对残疾人所面临的限制负有道德责任，那么社会要求残疾人改变自己、而不改变自身以更具包容性，可能就不公平且不尊重人（Aas 2020）[^aas-2020]。此外，“矫正”残疾可能（如肯定性模型提醒我们的）毁掉有价值的生活形式、削减人类身体的鲜活多样性；也可能不足以抵偿均一性带来的好处（Garland-Thomson 2012）[^garland-thomson-2012]。与“社会模型、医学模型与肯定性模型各自都带有显而易见的政策后果”这一感觉相反，反思之下显然还有大量工作要做：弄清这些不同的残疾解释究竟意味着我们应当如何回应残疾。
+    step2: |-
+      这并不是说这些因果归因、更不用说审慎判断，在道德上无关紧要：如果残疾不利的社会因果使社会制度对残疾人所面临的限制负有道德责任，那么社会要求残疾人改变自己、而不改变自身以更具包容性，可能就不公平且不尊重人（Aas 2020）[^aas-2020]。此外，“矫正”残疾可能（如肯定性模型提醒我们的）毁掉有价值的生活形式、削减人类身体的鲜活多样性；也可能不足以抵偿均一性带来的好处（Garland-Thomson 2012）[^garland-thomson-2012]。与“社会模型、医学模型与肯定性模型各自都带有显而易见的政策后果”这一感觉相反，反思之下显然还有大量工作要做：弄清这些不同的残疾解释究竟意味着我们应当如何回应残疾。
   - id: 29
     kind: body
     source: |-
       ## 2. Definitions of Disability
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. 残疾的定义
+    step2: |-
+      ## 2. 残疾的定义
   - id: 30
     kind: body
     source: |-
       Until relatively recently, there was little independent philosophical discussion of definitions of disability. Instead, philosophers focused primarily on developing and interpreting legal and regulatory definitions needed to implement disability policy. The legal definitions, in turn, were heavily influenced by the two-part “anatomy”—impairment and social response—of the social model of disability, which was developed by activists seeking to influence legislation and policy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      直到相对晚近，关于残疾定义的独立哲学讨论都很少。哲学家主要致力于发展与解释实施残疾政策所需的法律与监管定义。而法律定义又深受社会模型的二分“解剖学”——损伤与社会回应——的影响，这一模型由力图影响立法与政策的行动者发展出来。
+    step2: |-
+      直到相对晚近，关于残疾定义的独立哲学讨论都很少。哲学家主要致力于发展与解释实施残疾政策所需的法律与监管定义。而法律定义又深受社会模型的二分“解剖学”——损伤与社会回应——的影响，这一模型由力图影响立法与政策的行动者发展出来。
   - id: 31
     kind: body
     source: |-
       ### 2.1 Philosophical discussion of Official Definitions of Disability
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 对官方残疾定义的哲学讨论
+    step2: |-
+      ### 2.1 对官方残疾定义的哲学讨论
   - id: 32
     kind: body
     source: |-
       Thus, two familiar features are shared by most official definitions of disability, such as those in the World Health Organization (1980, 2001), the Disability Discrimination Act (UK), and the Americans with Disabilities Act (United States): (i) a physical or mental characteristic labeled or perceived as an impairment or dysfunction and (ii) some personal or social limitation associated with that impairment. Impairments are generally seen as *traits* of the individual that he or she cannot readily alter. Just what makes a condition a trait or attribute of an individual is obscure and debatable, but there seems to be agreement on clear cases. Thus, poverty is not seen as an impairment, however disabling it may be, nor is tasteless clothing, even if it is a manifestation of impaired fashion-sense rather than scarce income. On the other hand, diseases are generally classified as impairments, even though they are often neither permanent nor static conditions. Diseases that are especially transient, however, such as the flu and the measles, do not normally count as impairments.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，多数官方残疾定义共享两个熟悉的特征，如世界卫生组织（1980, 2001）、《残疾歧视法》（英国）与《美国残疾人法》（美国）中的定义：(i) 被标为或被感知为损伤或功能失调的身体或心理特征；(ii) 与该损伤相关联的某种个人或社会限制。损伤一般被视为个体的特征，个体无法轻易改变。究竟是什么使某种状况成为个体的特征或属性，这一点模糊而有争议，但在明确的案例上似有共识。因此，贫困不被视为损伤，无论它多么具有致残性；衣着没有品味也不算，即便那是时尚感受损而非收入拮据的表现。另一方面，疾病一般被归为损伤，尽管它们往往既非永久、也非静止的状况。然而尤其短暂的疾病，如流感和麻疹，通常不算损伤。
+    step2: |-
+      因此，多数官方残疾定义共享两个熟悉的特征，如世界卫生组织（1980, 2001）、《残疾歧视法》（英国）与《美国残疾人法》（美国）中的定义：(i) 被标为或被感知为损伤或功能失调的身体或心理特征；(ii) 与该损伤相关联的某种个人或社会限制。损伤一般被视为个体的特征，个体无法轻易改变。究竟是什么使某种状况成为个体的特征或属性，这一点模糊而有争议，但在明确的案例上似有共识。因此，贫困不被视为损伤，无论它多么具有致残性；衣着没有品味也不算，即便那是时尚感受损而非收入拮据的表现。另一方面，疾病一般被归为损伤，尽管它们往往既非永久、也非静止的状况。然而尤其短暂的疾病，如流感和麻疹，通常不算损伤。
   - id: 33
     kind: body
     source: |-
       As in early philosophical debates about competing models, the most controversial issue in defining disability is the relationship between these two features. At one extreme are definitions that imply, or are read to imply, that biological impairments are the sole causes of limitation. The definitions in the World Health Organization’s 1980 International Classification of Impairment, Disability, and Handicap, and the Disability Discrimination Act (UK) have been interpreted this way. At the other extreme are definitions that restrict the limitations faced by disabled people (as such) solely to “contemporary social organization”, such as the definition given by the Union of the Physically Impaired Against Segregation (UPIAS 1976)[^upias-1976]. In between are definitions which assert that individual impairment and the social environment are *jointly* sufficient causes of limitation. Perhaps the best-known example is the WHO’s International Classification of Functioning, Disability and Health (World Health Organization 2001, referred to as ICF)[^world-2001], which emphasizes that disability is a “dynamic interaction between health conditions and environmental and personal factors”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与早期关于竞争模型的哲学争论一样，定义残疾时最具争议的问题是这两个特征之间的关系。一个极端是暗示（或被认为暗示）生物损伤是限制的唯一原因的定义。世界卫生组织 1980 年《国际损伤、残疾与障碍分类》以及《残疾歧视法》（英国）中的定义，就被这样解读。另一个极端是把残疾人（作为如此这般）所面临的限制完全归给“当代社会组织”的定义，如“身体损伤者反隔离联盟”给出的定义（UPIAS 1976）[^upias-1976]。介于两者之间的是主张个体损伤与社会环境是限制的*共同*充分原因的定义。也许最著名的例子是世界卫生组织的《国际功能、残疾与健康分类》（World Health Organization 2001，简称 ICF）[^world-2001]，它强调残疾是“健康状况与环境及个人因素之间的动态交互作用”。
+    step2: |-
+      与早期关于竞争模型的哲学争论一样，定义残疾时最具争议的问题是这两个特征之间的关系。一个极端是暗示（或被认为暗示）生物损伤是限制的唯一原因的定义。世界卫生组织 1980 年《国际损伤、残疾与障碍分类》以及《残疾歧视法》（英国）中的定义，就被这样解读。另一个极端是把残疾人（作为如此这般）所面临的限制完全归给“当代社会组织”的定义，如“身体损伤者反隔离联盟”给出的定义（UPIAS 1976）[^upias-1976]。介于两者之间的是主张个体损伤与社会环境是限制的共同充分原因的定义。也许最著名的例子是世界卫生组织的《国际功能、残疾与健康分类》（World Health Organization 2001，简称 ICF）[^world-2001]，它强调残疾是“健康状况与环境及个人因素之间的动态交互作用”。
   - id: 34
     kind: body
     source: |-
