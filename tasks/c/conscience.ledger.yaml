@@ -1,0 +1,753 @@
+version: 1
+slug: conscience
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Reading the philosophical and historical literature on conscience, the first thing one would notice is the variety of meanings and psychological and ethical assessments of the concept. Different philosophical, religious and common sense approaches to conscience have emphasized different aspects of the following, broad characterization: through our individual conscience, we become aware of our deeply held moral principles, we are motivated to act upon them, and we assess our character, our behavior and ultimately our self against those principles. The resulting more specific understandings of conscience will be presented in the sections below. On any of these accounts, conscience is defined by its inward looking and subjective character, in the following sense: conscience is always knowledge of ourselves, or awareness of moral principles we have committed to, or assessment of ourselves, or motivation to act that comes from within us (as opposed to external impositions). This inward looking and subjective character of conscience is also reflected in the etymological relation between the notion of “conscience” and that of *consciousness*. Only after the 17ᵗʰ Century did “consciousness” start to be used with a distinct meaning referring to the psychological and phenomenal dimension of the mind, rather than to its moral dimension (for an account of the terminological shift, see Jorgensen 2014)[^jorgensen-2014].
+    step1: |-
+      阅读关于良心的哲学与历史文献，人们首先会注意到的是这一概念在含义上以及在心理学与伦理学评价上的多样。哲学、宗教与常识对良心的不同进路，各自强调了以下这一宽泛刻画的不同方面：通过我们个人的良心，我们意识到自己深怀的道德原则，受其激励而行动，并依据这些原则评价自己的品格、行为，最终评价我们自己。由此产生的更为具体的良心理解，将在下文各节呈现。无论采用其中哪一种解释，良心都由其向内审视的、主观的品格来界定，具体含义如下：良心总是关于我们自己的知识，或者是对我们所承诺的道德原则的意识，或者是对我们自己的评价，或者是来自我们内心的行动动机（与外部强加相对）。良心这种向内审视的、主观的品格，也反映在“良心”（conscience）这一概念与*意识*（consciousness）概念之间的词源关系上。直到 17 世纪以后，“意识”才开始被用来指心灵的心理与现象维度，而非其道德维度，并具有了独特的含义（关于这一术语变迁的论述，见 Jorgensen 2014）[^jorgensen-2014]。
+    step2: |-
+      通读关于良心的哲学与历史文献，最先注意到的，是这一概念在含义上、以及在心理学与伦理学评价上的纷繁多样。哲学、宗教与常识对良心的不同进路，各自凸显了下面这一宽泛刻画的不同侧面：借由各人的良心，我们意识到自己深怀的道德原则，受其激励而行动，并依据这些原则评价自己的品格与行为，最终评价我们自己。由此得出的更具体的良心理解，见下文各节。无论取哪一种解释，良心都以其向内审视、主观的品格来界定：良心总是关于我们自身的知识，或是对我们所承诺的道德原则的意识，或是对我们自己的评价，或是发自内心的行动动机（而非外部强加）。这一品格也体现在“良心”（conscience）与*意识*（consciousness）两概念的词源关系上。直到 17 世纪之后，“意识”才开始带有独特含义，指心灵的心理与现象维度而非道德维度（关于这一术语变迁，见 Jorgensen 2014）[^jorgensen-2014]。
+  - id: 2
+    kind: body
+    source: |-
+      The term “conscience” translates the Latin “*conscientia*”, which refers to sharing “knowledge” (*scientia*) “with” (*con*-), and which in turns translates the equivalent Greek term *suneidenai* (see Pierce 1955 and Sorabji 2014 for an etymological analysis of the term)[^pierce-1955][^sorabji-2014]. The literal meaning of the term does not specify the type of knowledge involved and whom that knowledge is shared with. However, the concept has traditionally been used to refer to *moral* knowledge (we talk indifferently of conscience and moral conscience) that is shared *with oneself*. This reference to the self does not rule out that the source of the morality in question be external to the self. For example, it might be God, as in the Christian tradition, or the influence of one’s culture or of one’s upbringing, as in the Freudian theory of the Super-Ego. Reference to the self indicates that, from a psychological point of view, conscience involves introspection, awareness of one’s behavior, and self-assessment. As we shall see, although these aspects often overlap, they are psychologically and conceptually distinct functions.
+    step1: |-
+      “良心”一词译自拉丁文 *conscientia*，其含义是与自己共同（*con*-）分享“知识”（*scientia*）；而这一拉丁词又译自与之对应的希腊词 *suneidenai*（关于该词的词源分析，见 Pierce 1955 与 Sorabji 2014）[^pierce-1955][^sorabji-2014]。该词的字面含义并未限定所涉及的是哪一类知识，也未限定与谁分享这种知识。然而，这一概念传统上用来指 *道德* 知识（我们不加区分地说“良心”与“道德良心”），并且这种知识是 *与自己* 分享的。这一对自我的指涉，并不排除所涉道德的源头在自我之外。例如，源头可能是上帝，如基督教传统中那样；也可能是个人文化或教养的影响，如弗洛伊德式的超我理论中那样。对自我的指涉表明，从心理学观点看，良心涉及内省、对自身行为的意识以及自我评价。正如我们将要看到的，这些方面虽然常常相互重叠，但在心理学与概念上却是彼此不同的功能。
+    step2: |-
+      “良心”译自拉丁文 *conscientia*，意为共同（*con*-）分享“知识”（*scientia*）；该拉丁词又译自对应的希腊词 *suneidenai*（词源分析见 Pierce 1955 与 Sorabji 2014）[^pierce-1955][^sorabji-2014]。字面上，它既未限定所涉知识的类型，也未限定与谁分享。但这一概念传统上指 *道德* 知识（人们不加区分地说“良心”与“道德良心”），且是 *与自己* 分享的知识。指涉自我，并不排除道德的源头在自我之外：那可能是上帝（如基督教传统），也可能是文化与教养的影响（如弗洛伊德式的超我理论）。对自我的指涉表明，从心理学看，良心涉及内省、对自身行为的意识与自我评价。下文将见，这些方面虽常重叠，却在心理学与概念上是彼此不同的功能。
+  - id: 3
+    kind: body
+    source: |-
+      “Sharing moral knowledge with oneself” might mean and imply different things. As for the object of knowledge, for example, it might refer to knowledge of one’s own conduct in view of an assessment of it against a certain moral standard, or it might refer to knowledge of moral standards or principles themselves. As for the “self” with whom knowledge is shared, it might mean sharing knowledge with a part of the self, as if we were split into two persons (Sorabji 2014: 12)[^sorabji-2014], but it might also mean sharing knowledge with an imaginary witness, such as an ideal observer (for instance a god, an imagined moral model, an impartial spectator). Unfortunately, debates in which appeals to conscience are often made—for example the debate about conscientious objection in health care—are often characterized by a lack of clarity as to what it exactly is that we are talking about when we talk about conscience, and therefore about what exactly people are claiming when they put forward a “conscientious objection” to, for example, abortion. In what sense does abortion violate the conscience of a committed Catholic doctor? And is conscience amenable to reason and public discussion, or are appeals to conscience ultimately based on intuitions and private morality? In what sense is a conscientious choice different from a mere moral preference? The notion of conscience is in need of conceptual clarification.
+    step1: |-
+      “与自己分享道德知识”可能意味着并蕴含不同的事情。例如，就知识的对象而言，它可能指关于自身行为的认识，以便依据某种道德标准对该行为作出评价；也可能指对道德标准或原则本身的认识。而就与之分享知识的那个“自我”而言，它可能指与自我的一部分分享知识，仿佛我们分裂成了两个人（Sorabji 2014: 12）[^sorabji-2014]；但也可能指与一个想象中的见证者分享知识，例如理想观察者（比如神、想象中的道德典范，或公正旁观者）。不幸的是，那些经常诉诸良心的争论——例如医疗领域关于依良心拒绝的争论——往往有一个特点：我们谈论良心时究竟在谈论什么，并不清楚；因此人们针对例如堕胎提出“依良心拒绝”时究竟在主张什么，也不清楚。堕胎在何种意义上侵犯了一位虔诚天主教医生的良心？良心是否服从理性与公共讨论，抑或诉诸良心最终依据的是直觉与私人道德？依良心的选择在何种意义上不同于单纯的道德偏好？良心的概念亟需得到澄清。
+    step2: |-
+      “与自己分享道德知识”，可能意味并蕴含不同的事。就对象而言：它可指关于自身行为的认识，以便对照某种道德标准评价该行为；也可指对道德标准或原则本身的认识。就与之分享的“自我”而言：它可指与自我的一部分分享知识，仿佛我们分裂成两个人（Sorabji 2014: 12）[^sorabji-2014]；也可指与想象出来的见证者分享，例如理想观察者（神、想象中的道德典范，或公正旁观者）。不幸的是，常诉诸良心的争论——如医疗领域关于依良心拒绝的争论——往往说不清我们在谈的究竟是什么；于是，人们针对堕胎等事提出“依良心拒绝”时究竟在主张什么，也不清楚。堕胎在何种意义上侵犯一位虔诚天主教医生的良心？良心能否交付理性与公共讨论，还是诉诸良心最终只落在直觉与私人道德上？依良心的选择与单纯的道德偏好，区别何在？这一概念亟需澄清。
+  - id: 4
+    kind: body
+    source: |-
+      This entry will expound the main features of the notion of conscience as it is used in philosophical discussion, religious teaching and in common language alike. The perspective adopted here will be theoretical, rather than historical. The entry focuses on the Western tradition and some examples are drawn from Christian source. The entry is structured around four possible, but not mutually exclusive, ways of conceptualizing conscience. These will be preceded by an introductory section outlining the pluralistic, morally neutral and subjective nature of the concept of conscience. The four main aspects of conscience that will be described are the following. Section 2 discusses conscience as a faculty for self-knowledge and self-assessment. Section 3 presents the epistemic aspect of conscience that allows the formation of moral beliefs, distinguishing the different possible sources of moral principles that inform such beliefs. In section 4, conscience will be described as a motivational force or as the source of our sense of duty, which already presupposes a body of moral knowledge or of moral beliefs. Finally, section 5 will focus on conscience understood as the body of personal core and self-identifying moral beliefs which is often taken to be the basis of moral integrity (Fuss 1964; Wicclair 2011)[^fuss-1964][^wicclair-2011] and of our sense of personal identity (Childress 1979)[^childress-1979]. As discussed in section 6, this last approach to conscience is often used with a political function to advocate freedom of thought and action in liberal democratic societies, for example, as explained in subsection 6.1, through conscientious objection to practices that one would otherwise be professionally or legally expected to perform.
+    step1: |-
+      本文阐述良心概念的主要特征，这一概念在哲学讨论、宗教教导与日常语言中同样被使用。此处采取的是理论视角，而非历史视角。本文聚焦于西方传统，部分例证取自基督教文献。全文围绕四种可能但彼此并不排斥的良心概念化方式展开。在此之前，先有一个导论节，概述良心概念的多元、道德中立与主观的本性。将要描述的良心的四个主要方面如下。第 2 节讨论作为自我认识与自我评价官能的良心。第 3 节呈现良心的认识论方面，即良心使道德信念得以形成，并区分可为这类信念提供依据的道德原则的不同可能来源。第 4 节把良心描述为一种动机力量，或我们义务感的来源；这一方面已经预设了一定的道德知识或道德信念。最后，第 5 节聚焦于把良心理解为个人的核心且自我认同的道德信念之整体；这些信念常被视为道德完整性（Fuss 1964; Wicclair 2011）[^fuss-1964][^wicclair-2011] 与个人认同感（Childress 1979）[^childress-1979] 的基础。如第 6 节所论，最后这种良心进路常被赋予政治功能，用以在自由民主社会中倡导思想与行动自由；例如 6.1 小节所说明的，通过依良心拒绝那些否则会因职业或法律而被期待去做的事。
+    step2: |-
+      本文阐述良心概念的主要特征——这一概念在哲学讨论、宗教教导与日常语言中同样在用。视角是理论的，不是历史的；取材以西方传统为主，部分例证出自基督教文献。全文围绕四种可能而并不互斥的良心概念化方式展开，前面另设导论节，概述良心概念的多元、道德中立与主观本性。四个主要方面如下。第 2 节：良心作为自我认识与自我评价的官能。第 3 节：良心的认识论方面——它使道德信念得以形成，并区分这些信念背后道德原则的不同可能来源。第 4 节：良心作为动机力量，或义务感的来源；此一方面已预设一定的道德知识或道德信念。第 5 节：良心作为个人的核心且自我认同的道德信念之整体；这些信念常被视为道德完整性（Fuss 1964; Wicclair 2011）[^fuss-1964][^wicclair-2011] 与个人认同感（Childress 1979）[^childress-1979] 的基础。如第 6 节所述，这一进路常被赋予政治功能：在自由民主社会中倡导思想与行动自由——例如 6.1 小节所言，通过依良心拒绝那些原本因职业或法律而须做的事。
+  - id: 5
+    kind: body
+    source: |-
+      ## 1. Conscience as pluralistic, neutral and subjective
+    step1: |-
+      ## 1. 良心的多元、中立与主观
+    step2: |-
+      ## 1. 良心的多元、中立与主观
+  - id: 6
+    kind: body
+    source: |-
+      The concept of conscience does not bear any connection with any particular substantial moral view (Broad 1940)[^broad-1940]. The voice of conscience might suggest different principles and different behaviors to different people. In other words, there is no psychological or conceptual relation between conscience and any particular moral belief. However, as will be explained below, in the Catholic tradition the idea of an erroneous conscience is sometimes used to refer to conscience that fails to recognize the true moral laws which it is naturally predisposed to “witness” within our heart. As for secular accounts of conscience, the independence of the notion of conscience from any substantial moral content can be understood in three senses.
+    step1: |-
+      良心概念与任何特定的实质道德观点都没有关联（Broad 1940）[^broad-1940]。良心的声音可能向不同的人提示不同的原则与不同的行为。换言之，良心与任何特定的道德信念之间，都没有心理学或概念上的关系。然而，如下文将要解释的，在天主教传统中，“错误良心”的观念有时用来指未能认识到真正道德律的良心——良心按其自然倾向本应在我们心中“见证”这些道德律。至于世俗的良心解释，良心概念独立于任何实质道德内容这一点，可以从三种意义上理解。
+    step2: |-
+      良心概念与任何特定的实质道德观点都无关联（Broad 1940）[^broad-1940]。良心的声音向不同的人提示不同的原则与行为。换言之，良心与任何特定道德信念之间，并无心理学或概念上的关系。但如下文所释，天主教传统有时用“错误良心”指未能认识真正道德律的良心——而良心按其自然倾向，本应在我们心中“见证”这些道德律。就世俗解释而言，良心概念独立于任何实质道德内容，可从三种意义上理解。
+  - id: 7
+    kind: body
+    source: |-
+      First, conscience is a *pluralistic* notion. To say that a person acted with conscience or that something violates someone’s conscience does not entail anything about what this act consists of or what this person’s moral values are (although it might tell us that conscience is itself a value this person holds dear). To use a metaphor, conscience is like an empty box that can be filled with any type of moral content. As put by Strohm,
+    step1: |-
+      第一，良心是一个 *多元的* 概念。说一个人凭良心行事，或说某事侵犯了某人的良心，并不蕴含关于这一行为由什么构成、或此人的道德价值为何的任何结论（尽管它或许告诉我们，良心本身是此人所珍视的一种价值）。打个比方，良心就像一个空盒子，可以装入任何类型的道德内容。正如 Strohm 所说，
+    step2: |-
+      第一，良心是 *多元的* 概念。说某人凭良心行事，或说某事侵犯了某人的良心，并不蕴含该行为由什么构成、此人的道德价值为何（尽管它或许告诉我们，良心本身是此人所珍视的价值）。打个比方：良心如一只空盒子，可装入任何类型的道德内容。正如 Strohm 所说，
+  - id: 8
+    kind: body
+    source: |-
+      > conscience has what might be called an “identity problem”—that it possesses no fixed or inherited content of its own, and that it can be hailed and mobilized in defence of one position or equally in defence of its rival. (Strohm 2011: 120)[^strohm-2011]
+    step1: |-
+      > 良心有一个或可称为“身份问题”的难题——它没有自身固定或继承的内容，可以被呼唤、被动员起来捍卫某一立场，也同样可以捍卫与之对立的立场。（Strohm 2011: 120）[^strohm-2011]
+    step2: |-
+      > 良心有一个或可称为“身份问题”的难题：它没有自身固定或承继的内容，可以被呼唤、被动员去捍卫某一立场，也同样可以捍卫它的对手。（Strohm 2011: 120）[^strohm-2011]
+  - id: 9
+    kind: body
+    source: |-
+      For example, while some health practitioners raise “conscientious” objection to abortion and refuse to provide the service, someone’s conscience might demand the exact opposite, i.e., to perform abortions in order to respect what is conscientiously believed to be a woman’s right (Joffe 1995)[^joffe-1995].
+    step1: |-
+      例如，一些医疗从业者对堕胎提出“依良心”的反对，拒绝提供该项服务；而另一些人的良心却可能要求截然相反的做法，即实施堕胎，以尊重其依良心所认定的女性权利（Joffe 1995）[^joffe-1995]。
+    step2: |-
+      例如，一些医疗从业者“依良心”反对堕胎、拒绝提供该项服务；另一些人的良心却可能要求相反之事：实施堕胎，以尊重其依良心所认定的女性权利（Joffe 1995）[^joffe-1995]。
+  - id: 10
+    kind: body
+    source: |-
+      Second, conscience is typically a *morally neutral* concept. Appealing to conscience does not usually add anything to the moral justification of any particular conduct or principle. Unless one is committed to the relativistic idea that your belief (or your conscience) about *x* being right or wrong is what makes it right or wrong for you to do *x* (Foot 1979)[^foot-1979], something is not made morally better or worse, acceptable or unacceptable, simply by being a matter of conscience. For example, the morality of abortion has nothing to do with abortion being *conscientiously* opposed by some health practitioners or *conscientiously* supported by others. This neutrality does not exclude, however, that an appeal to conscience can represent itself as a reason for respecting someone’s moral views, for example a reason for granting someone a right to object to carrying out certain activities. While appeals to conscience do not typically provide any moral reason in defense of a certain moral stance (unless one is a relativist), they might ground political reasons for respecting individuals’ moral beliefs, such as for example tolerance or pluralism.
+    step1: |-
+      第二，良心通常是一个 *道德中立的* 概念。诉诸良心通常不会为任何特定行为或原则的道德辩护增添任何东西。除非一个人信奉这样的相对主义观念：你对 *x* 对错的信念（或你的良心）使 *x* 对你而言成为对的或错的（Foot 1979）[^foot-1979]；否则，一件事不会仅仅因为属于良心问题，就在道德上变得更好或更坏、更可接受或更不可接受。例如，堕胎的道德性与某些医疗从业者 *依良心* 反对堕胎、或另一些人 *依良心* 支持堕胎，毫无关系。然而，这种中立并不排除：诉诸良心可以表现为尊重某人道德观点的理由，例如赋予某人拒绝从事某些活动的权利的理由。诉诸良心通常并不为某一道德立场提供道德上的辩护理由（除非是相对主义者），但可能为尊重个人道德信念提供政治理由，例如宽容或多元主义。
+    step2: |-
+      第二，良心通常是一个 *道德中立的* 概念。诉诸良心，通常不会为任何特定行为或原则的道德辩护增添什么。除非信奉相对主义——认为你对 *x* 对错的信念（或良心）使 *x* 对你而言成其对错（Foot 1979）[^foot-1979]——否则，一件事不会仅因属于良心问题，就在道德上变得更好或更坏、更可接受或更不可接受。例如，堕胎的道德性，与某些医疗从业者 *依良心* 反对、或另一些人 *依良心* 支持，毫不相干。不过，这种中立并不排除：诉诸良心可以充当尊重某人道德观点的理由，例如赋予某人拒绝从事某些活动的理由。诉诸良心通常不为某一道德立场提供道德辩护（除非是相对主义者），却可能为尊重个人道德信念提供政治理由，如宽容或多元主义。
+  - id: 11
+    kind: body
+    source: |-
+      Finally, conscience only concerns the *subjective* dimension of morality. Even assuming that there are ethical values that, in some sense, can be considered objective, conscience only refers to what individuals *believe*, independently of any external, objective proof or justification. And when people state what they subjectively and conscientiously believe, they acknowledge that other people might (and probably will) subjectively and conscientiously hold different moral views. Thus, when I say that abortion violates my conscience, I am not saying (although I might be thinking) that abortion is morally wrong by some objective standard, and I’m not necessarily trying to convince others that abortion is wrong by some objective standard. I am simply stating what I deeply believe and what I want others to respect as my conscientious belief, regardless of how good or bad the moral reasons I can provide to defend my claims are or appear to be to others (McGuire 1963: 259)[^mcguire-1963]. In fact, when health practitioners claim conscientious objection to some medical procedures, they are usually not interested in preventing other doctors who hold different moral beliefs from performing the procedure. They are usually only interested in, so to speak, keeping their hands clean according to their subjective moral standard.
+    step1: |-
+      最后，良心只涉及道德的 *主观* 维度。即便假定存在某种意义上可被视为客观的伦理价值，良心也只指向个人 *相信* 的东西，与任何外在的客观证据或辩护无关。当人们陈述自己主观上、依良心所相信的东西时，他们承认别人可能（而且很可能会）主观上、依良心地持有不同的道德观点。因此，当我说堕胎侵犯了我的良心时，我并不是在说（尽管我可能这样想）堕胎按某种客观标准在道德上是错的，也未必是在试图说服别人相信堕胎按某种客观标准是错的。我只是在陈述我深所相信的东西，以及我希望别人作为我的良心信念予以尊重的东西，无论我能为我的主张提供怎样的道德理由、这些理由在别人看来是好是坏（McGuire 1963: 259）[^mcguire-1963]。事实上，医疗从业者对某些医疗程序主张依良心拒绝时，通常并不想阻止持不同道德信念的其他医生施行该程序。通常，他们只想按自己的主观道德标准“保持双手干净”，可这么说。
+    step2: |-
+      最后，良心只涉及道德的 *主观* 维度。即便存在某种意义上可称客观的伦理价值，良心也只指向个人 *相信* 的东西，与外在的客观证据或辩护无关。人们陈述自己主观上、依良心所信的东西时，也承认别人可能（且很可能）主观上、依良心地持有不同道德观点。因此，我说堕胎侵犯我的良心，并不是在说（尽管可能这样想）堕胎按某种客观标准在道德上是错的，也未必想说服别人相信它按客观标准是错的。我只是陈述我深所相信、并希望别人作为我的良心信念予以尊重的东西——无论我能为它提供怎样的道德理由，也无论这些理由在别人看来是好是坏（McGuire 1963: 259）[^mcguire-1963]。事实上，医疗从业者对某些医疗程序主张依良心拒绝，通常并不想阻止持不同道德信念的其他医生施行该程序；他们通常只想按自己的主观道德标准“保持双手干净”，不妨这么说。
+  - id: 12
+    kind: body
+    source: |-
+      These three aspects related to the independence of conscience from particular substantial moral views explain why appeals to conscience to justify one’s behavior are usually made with the expectation that no further reason for the behavior in question be required. As put by Childress, when an agent appeals to her conscience,
+    step1: |-
+      良心独立于特定实质道德观点的这三个方面，解释了为什么人们诉诸良心为自己的行为辩护时，通常期待该行为无须再给出进一步的理由。正如 Childress 所说，当行动者诉诸自己的良心时，
+    step2: |-
+      良心独立于特定实质道德观点的这三个方面，解释了人们为何在诉诸良心为行为辩护时，通常预期该行为无须再给进一步理由。正如 Childress 所说，行动者诉诸自己的良心时，
+  - id: 13
+    kind: body
+    source: |-
+      > [u]sually the agent has given up the attempt to convince others of the objective rightness of his act and is content to assert its subjective rightness. (Childress 1979: 329)[^childress-1979]
+    step1: |-
+      > 通常，行动者已经放弃说服别人相信其行为客观上正确的努力，而满足于断言其主观上的正确性。（Childress 1979: 329）[^childress-1979]
+    step2: |-
+      > 通常，行动者已放弃说服他人相信其行为在客观上正确，转而满足于断言它在主观上正确。（Childress 1979: 329）[^childress-1979]
+  - id: 14
+    kind: body
+    source: |-
+      ## 2. Conscience as self-knowledge and self-assessment
+    step1: |-
+      ## 2. 作为自我认识与自我评价的良心
+    step2: |-
+      ## 2. 作为自我认识与自我评价的良心
+  - id: 15
+    kind: body
+    source: |-
+      When we talk about conscience, we often refer to reflection about ourselves as moral persons and about our moral conduct. Through conscience we examine ourselves, as if we were our own inner judge. The image of an individual split into two persons, one who acts and the other who observes the former’s conduct, reflects the original conception of “conscience” in the Greek world, at least from the 5ᵗʰ century BCE (Sorabji 2014: 12)[^sorabji-2014]. But such self- knowledge may also be thought of as shared with *others inside of us*, such as God(s) or other imaginary witnesses (for example an admired philosopher according to Epicurus (Sorabji 2014: 24)[^sorabji-2014], or an impartial spectator according to Adam Smith (1759)). The god(s) in question might be the god(s) of a particular religion, such as the God of Christianity, or a postulate of the practical reason, such as in Kant, according to whom reason, in order to be “practical” in the sense of informing moral conduct, needs the idea of a higher authority who sanctions individuals for their actions (Kant 1797)[^kant-1797].
+    step1: |-
+      当我们谈论良心时，常常指对我们作为道德人格的反思，以及对我们的道德行为的反思。通过良心，我们检视自己，仿佛我们就是自己的内在法官。个体分裂为两个人的意象——一个人行动，另一个人观察前者的行为——反映了希腊世界中“良心”的原初观念，至少从公元前 5 世纪起就是如此（Sorabji 2014: 12）[^sorabji-2014]。但这种自我认识也可以被设想为与 *我们内部的他人* 分享，例如神，或其他想象中的见证者（比如伊壁鸠鲁所说的、我们所敬仰的哲学家（Sorabji 2014: 24）[^sorabji-2014]，或亚当·斯密所说的公正旁观者（Smith 1759））。所涉的神可能是某一特定宗教的神，例如基督教的上帝；也可能是实践理性的悬设，如康德那里那样——在康德看来，理性若要在为道德行为提供依据的意义上成为“实践的”，就需要一个更高权威的观念，由该权威对个人的行为施以裁断（Kant 1797）[^kant-1797]。
+    step2: |-
+      我们谈良心，常指对自身作为道德人格的反思，以及对自身道德行为的反思。借良心，我们检视自己，仿佛自己就是内在的法官。个体一分为二的意象——一人行动，另一人旁观其行为——至少自公元前 5 世纪起就体现了希腊世界“良心”的原初观念（Sorabji 2014: 12）[^sorabji-2014]。但这类自我认识也可设想为与 *我们内部的他人* 分享：神，或其他想象中的见证者（如伊壁鸠鲁所说我们所敬仰的哲学家（Sorabji 2014: 24）[^sorabji-2014]，或亚当·斯密所说的公正旁观者（Smith 1759））。这神可以是某宗教的神（如基督教的上帝），也可以是实践理性的悬设——如康德：理性要在为道德行为提供依据的意义上成为“实践的”，就需一个更高权威的观念，由其裁断个人的行为（Kant 1797）[^kant-1797]。
+  - id: 16
+    kind: body
+    source: |-
+      The role of conscience in this sense is not that of merely gaining knowledge about our behavior or character. The knowledge in question is typically (though, as explained below, not always) the ground for a moral assessment by conscience. When observing one’s behavior, conscience is more like a judge (or sometimes it is identified with the judgment itself) than like a disinterested observer. Thus, for instance, the impartial spectator with which Adam Smith identified conscience, inspired by the Stoic’s notion of conscience as an imagined admired philosopher judging one’s conduct, is not a morally and emotionally neutral observer, but generates a sentiment of approval or disapproval of oneself (Smith 1759 and discussion in Raphael 2007: 34)[^raphael-2007][^smith-1759]. Even in the Catholic view, where the main characterization of conscience is that of a witness of God’s law in our hearts (as described in section 3), conscience is also presented as “a moral judgment about man and his actions, a judgment either of acquittal or condemnation” (John Paul II 1993: 59)[^john-1993]. Analogously, in the Kantian view, conscience is conceived of as an inner court (Wood 2008: 184)[^wood-2008]: it is moral self-awareness that allows one to apply the moral law suggested by practical reason to our moral conduct, and to judge whether we have complied with the moral law. As Kant defines it in the *Metaphysics of Morals*, conscience is
+    step1: |-
+      在这种意义上，良心的角色并不只是获得关于我们行为或品格的知识。所涉及的知识通常（尽管如下文所述并非总是）是良心作出道德评价的依据。观察一个人的行为时，良心更像一名法官（有时良心与判断本身相等同），而不像一个无利害关系的观察者。因此，例如亚当·斯密将良心等同于公正旁观者，这一构想受斯多亚派良心观念启发——良心是一位想象中的、受人敬仰的哲学家，评判一个人的行为；它并不是道德上与情感上中立的观察者，而是产生对自己赞同或不赞同的情感（Smith 1759，讨论见 Raphael 2007: 34）[^raphael-2007][^smith-1759]。即便在天主教观点中——其主要刻画是良心在我们心中见证上帝的律法（见第 3 节）——良心也被表述为“一种关于人及其行为的道德判断，一种宣告无罪或定罪的判断”（John Paul II 1993: 59）[^john-1993]。类似地，在康德式观点中，良心被设想为一座内在法庭（Wood 2008: 184）[^wood-2008]：它是道德上的自我意识，使人能够把实践理性所提示的道德律应用于自己的道德行为，并判断自己是否遵守了道德律。正如康德在《道德形而上学》中所定义的，良心是
+    step2: |-
+      这种意义上的良心，其角色并不止于获得关于行为或品格的知识。这类知识通常是（如下文所述，并非总是）良心作出道德评价的依据。观察自身行为时，良心更像法官（有时干脆与判断本身相等同），而不像无利害的旁观者。因此，亚当·斯密把良心等同于公正旁观者——这一构想受斯多亚派良心观念启发，即良心是一位想象中的、受人敬仰的哲学家在评判自己的行为——它并非道德与情感上中立的观察者，而会生出对自己的赞同或不赞同（Smith 1759，讨论见 Raphael 2007: 34）[^raphael-2007][^smith-1759]。即便在天主教观点中（其主要刻画是良心在我们心中见证上帝的律法，见第 3 节），良心也被表述为“一种关于人及其行为的道德判断，一种宣告无罪或定罪的判断”（John Paul II 1993: 59）[^john-1993]。康德式观点亦然：良心是内在法庭（Wood 2008: 184）[^wood-2008]——它是道德自我意识，使人能把实践理性所提示的道德律应用于自身的道德行为，并判断自己是否守法。康德在《道德形而上学》中把良心定义为
+  - id: 17
+    kind: body
+    source: |-
+      > practical reason holding the human being’s duty before him for his acquittal or condemnation in every case that comes under a law (Kant 1797 [1991: 160])[^kant-1797]
+    step1: |-
+      > 实践理性在每一个属于律法之下的场合，把人自身的义务摆在他面前，以供其宣告无罪或定罪（Kant 1797 [1991: 160]）[^kant-1797]
+    step2: |-
+      > 实践理性把人自身的义务摆在面前，在每一个归入律法的场合，供其宣告无罪或定罪（Kant 1797 [1991: 160]）[^kant-1797]
+  - id: 18
+    kind: body
+    source: |-
+      and
+    step1: |-
+      以及
+    step2: |-
+      以及
+  - id: 19
+    kind: body
+    source: |-
+      > consciousness of an internal court in man. (Kant 1797 [1991: 189])[^kant-1797]
+    step1: |-
+      > 人心中内在法庭的意识。（Kant 1797 [1991: 189]）[^kant-1797]
+    step2: |-
+      > 人心中内在法庭的意识。（Kant 1797 [1991: 189]）[^kant-1797]
+  - id: 20
+    kind: body
+    source: |-
+      This understanding of conscience as an inner court is well illustrated by the story of Huckleberry Finn in Mark Twain’s famous novel (Twain 1884; Bennett 1974)[^bennett-1974][^twain-1884]. In a well-known episode of the novel, Huck feels guilty and blameworthy for having helped his slave friend Jim to escape from his owner Miss Watson. Blame does not come from some external moral authority, but it is a verdict issued by conscience according to its moral laws. The bites of conscience in Huck’s case were caused by a tension between his feelings supporting what he did and the principles he had inherited from his social environment. At the time when the novel is set, slave-owning was considered a natural type of possession and helping slaves run away meant depriving someone of her private property. This was the “law” (metaphorically speaking) against which Huck’s conscience assessed his behavior.
+    step1: |-
+      把良心理解为内在法庭，这一点在马克·吐温（Mark Twain）著名小说中哈克贝利·费恩的故事里得到了很好的说明（Twain 1884; Bennett 1974）[^bennett-1974][^twain-1884]。在小说一个著名的片段中，哈克因为帮助他的奴隶朋友吉姆从主人华森小姐那里逃跑而感到内疚、应受责备。责备并非来自某种外在的道德权威，而是良心依据其道德律作出的裁决。哈克身上良心的啃咬，源于他的情感支持他所做的事，而他继承自社会环境的那些原则却不支持，二者之间的张力。小说故事发生的年代，蓄奴被视为一种自然而然的占有形式，帮助奴隶逃跑意味着剥夺某人的私有财产。这就是哈克的良心据以评价其行为的“律法”（打个比方）。
+    step2: |-
+      把良心理解为内在法庭，马克·吐温（Mark Twain）的著名小说中哈克贝利·费恩的故事便是佳例（Twain 1884; Bennett 1974）[^bennett-1974][^twain-1884]。小说有个著名片段：哈克帮助奴隶朋友吉姆逃离主人华森小姐，为此感到内疚、自觉有罪。责备不来自任何外在的道德权威，而是良心依其道德律所作的裁决。哈克所受良心的啃咬，源于张力：他的情感支持自己的所作所为，而他从社会环境承继的原则不支持。小说所写的年代，蓄奴被视为天经地义的占有，帮奴隶逃跑就等于剥夺某人的私有财产。这便是哈克良心据以评价自身行为的“律法”（打个比方）。
+  - id: 21
+    kind: body
+    source: |-
+      This story illustrates another interesting feature of conscience as a faculty for self-assessment, i.e., the asymmetry between our confidence in the validity of the moral standards provided by our own conscience and our confidence in the validity of the standards provided other people’s conscience. Huck thinks that what he did was wrong and that it rendered him blameworthy *in spite of* his feelings, because he thinks that his own conscience provides a correct moral standard, i.e., a standard that he endorses even if some of his feelings or beliefs indicate otherwise. This seems to reflect our common way of relating to our own conscience: we try to adjust our feelings and judgments to our conscience’s standard, rather than *vice versa*. However, the same does not hold when we talk of other people’s conscience, which is usually taken to indicate their subjective moral standard and does not imply that we are endorsing it. This asymmetry suggests that there is no conceptual relation between the notion of conscience *per se* and the notion of an objective or correct moral standard; rather, it stresses once more the fact that conscience has merely to do with one’s private morality and one’s commitment to her own morality.
+    step1: |-
+      这个故事还说明了良心作为自我评价官能的另一个有趣特征，即：我们对自己良心所提供的道德标准之有效性的信心，与我们对别人良心所提供的标准之有效性的信心，二者并不对称。哈克认为自己所做的事是错的，使他应受责备——*尽管* 他的情感并非如此——因为他认为自己的良心提供了正确的道德标准，即一个他认可的标准，即便他的某些情感或信念指向相反的结论。这似乎反映了我们与自己良心的通常关系：我们设法使自己的情感与判断去迁就良心的标准，而不是 *反过来*。然而，当我们谈论别人的良心时，情况就不同了：别人的良心通常被视为标示其主观的道德标准，并不蕴含我们对它的认可。这种不对称表明，良心概念 *本身* 与客观或正确道德标准的概念之间没有概念关系；相反，它再次强调：良心只与一个人的私人道德、以及此人对自己道德的承诺有关。
+    step2: |-
+      这个故事还显出良心作为自我评价官能的另一特征：我们对自己良心所给标准的信心，与对他人良心所给标准的信心，并不对称。哈克认定自己所做的事是错的、使他应受责备——*尽管* 情感上有相反倾向——因为他认为自己的良心提供了正确的道德标准，即他认可的标准，哪怕某些情感或信念指向相反。这似乎正是我们与自身良心的常态关系：让情感与判断去迁就良心的标准，而不是 *反过来*。对别人的良心则不然：别人的良心通常被视为标示其主观道德标准，并不意味着我们认可它。这种不对称表明：良心概念 *本身* 与客观或正确道德标准的概念之间并无概念关系；它再次强调，良心只关乎一个人的私人道德，以及此人对自己道德的承诺。
+  - id: 22
+    kind: body
+    source: |-
+      Consistently with this understanding of conscience as self-knowledge and self-assessment, it has been suggested by some that psychopaths—i.e., pathological subjects who display antisocial behavior and systematically act without regard to what they consider to be right or wrong—can be said to lack conscience (Hare 1999)[^hare-1999]. For instance, according to Vujošević (2015), in psychopaths the link between moral knowledge or beliefs and self-directed feelings of condemnation (e.g., guilt) is broken: psychopaths cannot feel the remorse that normal functioning agents feel when they perceive the discrepancy between their moral beliefs and their behavior, and as a consequence psychopaths do not consider themselves accountable for their actions (Gudjonsson and Roberts 1983; Aharoni et al. 2012)[^aharoni-2012][^gudjonsson-1983], although their moral beliefs are often “normal” (Schaich and Sinnott-Armstrong 2013)[^schaich-2013]
+    step1: |-
+      与这种把良心理解为自我认识与自我评价的观点相一致，一些人提出：精神病态者——即表现出反社会行为、系统性地不顾自己所认为的对错而行动的病态主体——可以说缺乏良心（Hare 1999）[^hare-1999]。例如，据 Vujošević（2015），在精神病态者身上，道德知识或道德信念与指向自我的谴责情感（如内疚）之间的联系断裂了：精神病态者感受不到正常运作的行动者在察觉自身道德信念与行为不一致时所感受的悔恨，因此精神病态者不认为自己应为行为负责（Gudjonsson and Roberts 1983; Aharoni et al. 2012）[^aharoni-2012][^gudjonsson-1983]，尽管他们的道德信念往往是“正常的”（Schaich and Sinnott-Armstrong 2013）[^schaich-2013]
+    step2: |-
+      与“良心即自我认识与自我评价”这一理解相一致，有人提出：精神病态者——表现出反社会行为、惯常不顾自认为对错而行动的病态主体——可以说没有良心（Hare 1999）[^hare-1999]。例如 Vujošević（2015）认为，精神病态者身上，道德知识或信念与指向自我的谴责感（如内疚）之间的链条断了：正常人察觉道德信念与行为相悖时会生悔恨，他们却感受不到；因此他们不认为自己应为行为负责（Gudjonsson and Roberts 1983; Aharoni et al. 2012）[^aharoni-2012][^gudjonsson-1983]，尽管其道德信念往往“正常”（Schaich and Sinnott-Armstrong 2013）[^schaich-2013]
+  - id: 23
+    kind: body
+    source: |-
+      As mentioned above in this section, when expressing itself through self-evaluative feelings, conscience might be conceived of as either *constituted by* such feelings (Fuss 1964)[^fuss-1964] or as *occasioning* them (Broad 1940)[^broad-1940].
+    step1: |-
+      如本节上文所述，当良心通过自我评价性情感表现出来时，可以设想良心要么 *由* 这类情感 *构成*（Fuss 1964）[^fuss-1964]，要么 *引发* 这类情感（Broad 1940）[^broad-1940]。
+    step2: |-
+      如本节上文所述，良心借自我评价性情感表现自身，此时它可以被设想为 *由* 这类情感 *构成*（Fuss 1964）[^fuss-1964]，也可以被设想为 *引发* 这类情感（Broad 1940）[^broad-1940]。
+  - id: 24
+    kind: body
+    source: |-
+      In the former sense (conscience as *constituted by* self-evaluative feelings), the feeling is an essential part of conscience. Conscience in this case is better conceived not as a judge who issues sentences, but as a feeling with cognitive content—where the cognitive content concerns the adherence of one’s behavior to a certain moral standard; in such cases, the negative feeling informs me that what I am doing or am contemplating doing is wrong (according to my own moral parameters). In the latter sense (conscience as *occasioning* self-evaluative feelings), the inner judge, when in tension with one’s conduct, generates negative self-directed feelings (Mill 1861: ch 3)[^mill-1861]. For instance, in Freud the “Super-Ego”—the part of our personality that attends to prohibitions, inhibitions and moral constraints—takes “the form of conscience” to exercise its control over one’s impulses and instincts by producing negative evaluative feelings towards the individual, such as aggressiveness towards the Ego and guilt (Freud 1929 [2000: 30])[^freud-1929]. As we shall see below in section 4, these self-directed negative feelings play an essential role in fulfilling the motivational function of conscience.
+    step1: |-
+      在前一种意义上（良心 *由* 自我评价性情感 *构成*），情感是良心的本质部分。此时，良心最好不被设想为宣判的法官，而被设想为一种带有认知内容的情感——其认知内容关涉一个人的行为是否符合某种道德标准；在此类情形中，负面情感告诉我：我正在做或正考虑去做的事是错的（依据我自己的道德参数）。在后一种意义上（良心 *引发* 自我评价性情感），内在法官在与一个人的行为发生张力时，会产生指向自我的负面情感（Mill 1861: ch 3）[^mill-1861]。例如，在弗洛伊德那里，“超我”——我们人格中关注禁令、抑制与道德约束的部分——采取“良心的形式”，通过产生对个人的负面评价性情感（如对自我的攻击性与内疚），来对一个人的冲动与本能实施控制（Freud 1929 [2000: 30]）[^freud-1929]。下文第 4 节将表明，这些指向自我的负面情感在实现良心的动机功能方面起着本质作用。
+    step2: |-
+      前一种意义上（良心 *由* 自我评价性情感 *构成*），情感是良心的本质部分。此时，良心与其说像宣判的法官，不如说是一种带认知内容的情感——内容关涉行为是否符合某种道德标准；在此情形下，负面情感告诉我：我正在做或考虑去做的事是错的（依我自己的道德参数）。后一种意义上（良心 *引发* 自我评价性情感），内在法官在行为与其相悖时，会生出指向自我的负面情感（Mill 1861: ch 3）[^mill-1861]。例如弗洛伊德那里，“超我”——人格中掌管禁令、抑制与道德约束的部分——取“良心的形式”，借对个人产生负面评价性情感（如对自我的攻击性与内疚），来管控其冲动与本能（Freud 1929 [2000: 30]）[^freud-1929]。第 4 节将表明，这些指向自我的负面情感，对良心发挥动机功能至关重要。
+  - id: 25
+    kind: body
+    source: |-
+      As the characterization of conscience as self-assessment here presented suggests, conscience has most often been associated with negative feelings (Arendt 1971)[^arendt-1971], such as shame, guilt, fear, contrition. For most of us, even in our common language, conscience is something that yields negative feelings more often than not—for example we often talk of the “bites of conscience” or of conscience as causing us “remorse” (which derives from the Latin “*remordere*”, i.e., “to bite again”). However, a joyful conscience that praises and takes pride of one’s own moral merit can be conceived as well. Examples of joyful conscience can be found for instance in Cicero and some Latin Stoics, most prominently Seneca (Sorabji 2014: 25–30)[^sorabji-2014]. Also in the Protestant tradition started by Luther we find the idea of a joyful conscience, where joy springs not from pride or self-praise, but from awareness of God’s future remission of sins (Luther 1535; Calvin 1536).
+    step1: |-
+      正如这里所呈现的“良心即自我评价”的刻画所提示的，良心最常与负面情感联系在一起（Arendt 1971）[^arendt-1971]，例如羞耻、内疚、恐惧、痛悔。对我们大多数人而言，即便在日常语言中，良心也多半产生负面情感——例如我们常说“良心的啃咬”，或说良心使我们“悔恨”（remorse 源自拉丁文 *remordere*，即“再次啃咬”）。不过，赞美并以自己道德功德为荣的喜悦良心，同样可以被设想。喜悦良心的例子可见于西塞罗（Cicero）与一些拉丁斯多亚派，其中最著名的是塞涅卡（Seneca）（Sorabji 2014: 25–30）[^sorabji-2014]。在路德（Luther）开创的新教传统中，也有喜悦良心的观念：其喜悦并非出自骄傲或自我夸耀，而是出自对上帝将来赦罪的意识（Luther 1535; Calvin 1536）。
+    step2: |-
+      如上文“良心即自我评价”的刻画所示，良心最常与负面情感相连（Arendt 1971）[^arendt-1971]：羞耻、内疚、恐惧、痛悔。即便在日常语言里，良心对我们多数人也多半产出负面情感——我们常说“良心的啃咬”，或说良心使我们“悔恨”（remorse 源自拉丁文 *remordere*，“再次啃咬”）。但喜悦的良心同样可以设想：它赞美并以自己的道德功德为荣。例如西塞罗（Cicero）与一些拉丁斯多亚派，尤以塞涅卡（Seneca）为著（Sorabji 2014: 25–30）[^sorabji-2014]。路德（Luther）开创的新教传统中也有喜悦良心之说：其喜悦不出于骄傲或自夸，而出于意识到上帝将来赦罪（Luther 1535; Calvin 1536）。
+  - id: 26
+    kind: body
+    source: |-
+      The contrast between the Protestant joyful conscience and the Catholic conscience burdened by negative feelings of guilt and fear was emphasized by Luther when he denounced the “terrorization of conscience” by the Roman Catholic Church. According to Luther, with this terrorization the Roman Catholic Church aimed to reinforce its authority and control over people’ conscience. In fact, conscience in the Catholic tradition can only be relieved from its burden of negative feelings through the confession of one’s sins to a priest and the penitence decided by that priest.
+    step1: |-
+      新教的喜悦良心与天主教那被内疚和恐惧等负面情感所重压的良心，二者之间的对照，在路德谴责罗马天主教会“对良心的恐吓”时得到了强调。按路德的说法，罗马天主教会借这种恐吓，意在强化其对人们良心的权威与控制。事实上，在天主教传统中，良心只有通过向神父告罪、并接受神父所定的补赎，才能从负面情感的重负中解脱。
+    step2: |-
+      路德谴责罗马天主教会“恐吓良心”，正是要凸显新教喜悦良心与天主教负疚负惧的良心之间的对照。照路德之说，这种恐吓旨在强化罗马天主教会对人们良心的权威与控制。实际上，按天主教传统，良心要卸下负面情感的重负，唯有向神父告罪，并接受神父所定的补赎。
+  - id: 27
+    kind: body
+    source: |-
+      ## 3. The epistemic function of conscience
+    step1: |-
+      ## 3. 良心的认识论功能
+    step2: |-
+      ## 3. 良心的认识论功能
+  - id: 28
+    kind: body
+    source: |-
+      Along with the previous, non-epistemic conception of conscience, we can also understand conscience as having an epistemic function. In this sense, conscience brings us some form of moral knowledge or moral beliefs—either in an absolute sense, e.g., knowledge of divine laws, or in a relative sense, e.g., knowledge of social norms in one’s culture.
+    step1: |-
+      与前述非认识论的良心概念一道，我们也可以把良心理解为具有认识论功能。在这种意义上，良心给我们带来某种形式的道德知识或道德信念——或是绝对意义上的，例如对神圣律法的知识；或是相对意义上的，例如对个人文化中社会规范的知识。
+    step2: |-
+      除了前述非认识论的良心概念，我们还可以把良心理解为具有认识论功能：良心带来某种道德知识或道德信念——或为绝对意义，如对神圣律法的知识；或为相对意义，如对自身文化中社会规范的知识。
+  - id: 29
+    kind: body
+    source: |-
+      The epistemic role of conscience does not necessarily coincide with the role of epistemic faculties or functions such as reason, intuitions, or senses. In particular, that conscience “brings” us moral knowledge or beliefs does not necessarily mean that it gives us direct access to the *source* of this knowledge or of these beliefs, as might be the case with reason, intuitions, or senses.
+    step1: |-
+      良心的认识论作用未必与理性、直觉或感觉等认识官能或功能的作用相重合。特别是，良心“带来”道德知识或信念，未必意味着它使我们直接通达这种知识或信念的 *来源*，而理性、直觉或感觉则可能如此。
+    step2: |-
+      良心的认识论作用，未必与理性、直觉、感觉等认识官能或功能的作用重合。尤其，良心“带来”道德知识或信念，未必意味着它让我们直接通达这类知识或信念的 *来源*——理性、直觉或感觉则可能如此。
+  - id: 30
+    kind: body
+    source: |-
+      The knowledge we get from conscience, understood as possessing an epistemic function, is often conceived as mediated knowledge. This is not surprising, since, as we have seen, conscience is mostly understood as inward looking, which presupposes that the knowledge to which it gives us access is already *within us* and that we acquired it through some other process not involving conscience. In fact, on many accounts, conscience does not generate its own moral principles. For example, the moral contents we discover within us can be acquired through divine intervention, as is the case with the laws of nature which, according to Christians, God infuses in our heart. As we are going to see in subsection 3.1, the understanding of conscience as having an epistemic function and as the recipient of mediated knowledge is not exclusive to religious views.
+    step1: |-
+      我们从被理解为具有认识论功能的良心那里获得的知识，常被设想为中介性的知识。这并不奇怪，因为如我们所见，良心多半被理解为向内审视的，这就预设了良心使我们通达的知识已经 *在我们之内*，而且是我们通过某种不涉及良心的其他过程获得的。事实上，按许多解释，良心并不生成自己的道德原则。例如，我们在自身之内发现的道德内容，可以通过神圣的干预而获得，正如自然律的情形：按基督徒的说法，上帝把自然律注入我们心中。我们将在 3.1 小节看到，把良心理解为具有认识论功能、并接受中介性知识，这种理解并非宗教观点所独有。
+    step2: |-
+      良心被赋予认识论功能，由此获得的知识常被设想为中介性的。这不奇怪：如我们所见，良心多半被理解为向内审视的，这就预设它所通达的知识已经 *在我们之内*，且是通过某种不涉及良心的其他过程获得的。事实上，按许多解释，良心并不生成自己的道德原则。比如，我们在自身之内发现的道德内容，可经神圣干预而获得——如自然律：按基督徒之说，上帝将其注入我们心中。3.1 小节将表明，把良心理解为具有认识论功能、接受中介性知识，并非宗教观点所独有。
+  - id: 31
+    kind: body
+    source: |-
+      On other accounts of conscience, however, conscience does give us *direct* access to moral knowledge, for example as an intuition about what is good and what is bad.
+    step1: |-
+      然而，按另一些良心解释，良心确实使我们 *直接* 通达道德知识，例如作为关于何者为善、何者为恶的直觉。
+    step2: |-
+      但另一些良心解释认为，良心确实让我们 *直接* 通达道德知识——例如作为关于善恶的直觉。
+  - id: 32
+    kind: body
+    source: |-
+      Let us examine the two accounts of the epistemic role of conscience in more detail.
+    step1: |-
+      让我们更详细地考察关于良心认识论作用的这两种解释。
+    step2: |-
+      下面更详细地考察良心的两种认识论作用解释。
+  - id: 33
+    kind: body
+    source: |-
+      ### 3.1 Conscience as a faculty for indirect moral knowledge
+    step1: |-
+      ### 3.1 作为间接道德知识官能的良心
+    step2: |-
+      ### 3.1 作为间接道德知识官能的良心
+  - id: 34
+    kind: body
+    source: |-
+      In the Christian tradition, starting from Paul, the inward looking character of conscience is emphasized by the metaphor of the witness (Romans 2: 14–15). Conscience does not allow us to acquire the knowledge of the moral law directly from an external source (God in this case), but only to witness the presence of God’s laws within us. Conscience cannot directly contemplate God. The idea of a faculty that gives us indirect, and therefore imperfect knowledge of some external moral authority suits religious traditions very well. For example, the idea that through conscience we discover the true divine laws can also be found in Islam (Geaves 1999: 164)[^geaves-1999].
+    step1: |-
+      在基督教传统中，从保罗（Paul）开始，良心的向内审视品格由见证者的隐喻得到强调（《罗马书》2:14–15）。良心并不让我们从外在来源（在此即上帝）直接获得道德律的知识，而只让我们见证上帝律法在我们之内的临在。良心不能直接观照上帝。有一种官能，使我们获得关于某种外在道德权威的间接、因而不完善的知识——这一观念非常契合宗教传统。例如，通过良心我们发现真正神圣律法这一观念，在伊斯兰教中也能找到（Geaves 1999: 164）[^geaves-1999]。
+    step2: |-
+      基督教传统中，自保罗（Paul）起，良心的向内品格便由“见证者”的隐喻加以强调（《罗马书》2:14–15）。良心不让我们从外在来源（此处即上帝）直接获得道德律的知识，只让我们见证上帝律法在我们之内的临在；良心不能直接观照上帝。有一种官能，能给我们关于某种外在道德权威的间接、因而不完善的知识——这一观念极合宗教传统。例如，通过良心发现真正神圣律法之说，在伊斯兰教中亦可找到（Geaves 1999: 164）[^geaves-1999]。
+  - id: 35
+    kind: body
+    source: |-
+      It is important to note that also in this case, as in the previous understanding of conscience as self-awareness and self-assessment, conscience can be conceived as fulfilling an introspective function, i.e., as being directed towards the *self* and towards one’s own mental states. Introspection allows one to gain self-knowledge (Schwitzgebel 2014)[^schwitzgebel-2014], but since the self which is observed contains the moral law, it is possible to say that the law itself, as part of our self, becomes the object of introspection. Thus, for instance, in his theological writings before his papacy, Joseph Ratzinger said that “something like an original memory of the good and the true (the two are identical) has been implanted in us”, and conscience is
+    step1: |-
+      重要的是要注意，在此情形中亦然——如同前一种把良心理解为自我意识与自我评价的理解——良心可以被设想为履行内省功能，即指向 *自我* 及自身心理状态。内省使人获得自我认识（Schwitzgebel 2014）[^schwitzgebel-2014]；但既然被观察的自我包含道德律，就可以说，作为我们自我之一部分的律法本身成了内省的对象。因此，例如在即位教宗之前的神学著作中，约瑟夫·拉青格说，“某种对善与真（二者同一）的原初记忆已被植入我们之中”，而良心
+    step2: |-
+      须注意，在此情形下亦然（如前一种“良心即自我意识与自我评价”的理解）：良心可被设想为履行内省功能，即指向 *自我* 及自身的心理状态。内省使人获得自我认识（Schwitzgebel 2014）[^schwitzgebel-2014]；而既然被观察的自我包含道德律，便可以说，作为自我一部分的律法本身成了内省的对象。因此，例如在即位教宗之前的神学著作中，约瑟夫·拉青格说：“某种对善与真的原初记忆（二者同一）已被植入我们之中”，而良心
+  - id: 36
+    kind: body
+    source: |-
+      > so to speak an inner sense, a capacity to recall, so that the one whom it addresses, if he is not turned in on himself, hears its echo from within. (Ratzinger 1991 [2010: 535])[^ratzinger-1991]
+    step1: |-
+      > 可说是内在感官，一种回忆的能力，使它所呼唤的人，只要不封闭于自身，就能从内心听到它的回声。（Ratzinger 1991 [2010: 535]）[^ratzinger-1991]
+    step2: |-
+      > 可说是内在感官，一种回忆的能力；它所呼唤的人只要不封闭于自身，便能从内心听到它的回声。（Ratzinger 1991 [2010: 535]）[^ratzinger-1991]
+  - id: 37
+    kind: body
+    source: |-
+      The Catholic Church also makes reference to “the voice of the Lord echoing in the conscience of every individual” (John Paul II 1995: par. 24)[^john-1995].
+    step1: |-
+      天主教会也提到“主的声音在每一个人的良心中回响”（John Paul II 1995: par. 24）[^john-1995]。
+    step2: |-
+      天主教会亦言“主的声音在每一个人的良心中回响”（John Paul II 1995: par. 24）[^john-1995]。
+  - id: 38
+    kind: body
+    source: |-
+      On this account—since conscience is only a *witness* and does not have direct epistemic access to the source of knowledge, i.e., to God—conscience is considered fallible and actually often erroneous (1 Corinthians 4:4; Aquinas 1265–1274; Butler 1726: sermon 3 (3)). In particular, conscience might fail to correctly interpret the divine laws when applying them to real cases. According to some 13ᵗʰ Century Catholic theologians, such as Philip the Chancellor, Albert the Great and, most notably, Thomas Aquinas, conscience is the act of applying universal principles (i.e., divine laws) to real situations, i.e., it is the conclusion of the practical syllogism whose first premise is a universal principle provided by a separate faculty called “synderesis” (Aquinas, *Summa Theologiae*, 1 q79; Langston 2000 and 2015; Sorabji 2014: 62–66)[^langston-2000][^langston-2015][^sorabji-2014]: as such, conscience can be erroneous in deriving moral conclusions from first principles (Aquinas, *On Truth*, q17, art. 2, and discussion in D’Arcy 1961: 100–103)[^d’arcy-1961]. However, other Catholic thinkers have emphasized the essential role of conscience in humans search for the truth. Cardinal John Henry Newman, for instance, saw conscience as the moral sense that can lead us to the moral truth. As such, conscience is in his view both epistemic and action guiding, but the two aspects are not distinguishable, to the extent that the moral truth is what guides our actions. As he wrote, “The feeling of conscience … is twofold: it is a moral sense, and a sense of duty; a judgment of the reason and a magisterial dictate. Of course its act is indivisible; still it has these two aspects, distinct from each other, and admitting of a separate consideration” (Newman 1870, 101)[^newman-1870]
+    step1: |-
+      按这种解释——既然良心只是 *见证者*，并不对知识之源即上帝拥有直接的认识通达——良心被认为会出错，而且实际上常常出错（《哥林多前书》4:4; Aquinas 1265–1274; Butler 1726: sermon 3 (3)）。特别是，良心在把神圣律法应用于实际案例时，可能未能正确解释这些律法。据一些 13 世纪天主教神学家，如菲利普校长（Philip the Chancellor）、大阿尔伯特（Albert the Great），以及最著名的托马斯·阿奎那（Thomas Aquinas），良心是把普遍原则（即神圣律法）应用于实际情境的行为，即实践三段论的结论，其三段论的第一前提由一个称作“良知”（synderesis）的独立官能提供（Aquinas, *Summa Theologiae*, 1 q79; Langston 2000 and 2015; Sorabji 2014: 62–66）[^langston-2000][^langston-2015][^sorabji-2014]：因此，良心在从第一原则推导道德结论时可能出错（Aquinas, *On Truth*, q17, art. 2, 讨论见 D’Arcy 1961: 100–103）[^d’arcy-1961]。然而，另一些天主教思想家强调了良心在人类寻求真理中的本质作用。例如枢机约翰·亨利·纽曼（John Henry Newman）把良心视为能引导我们走向道德真理的道德感。因此，在他看来，良心既是认识性的，又是行动指导性的；但这两个方面不可区分，因为道德真理正是指导我们行动的东西。他写道：“良心的感受……是双重的：它既是道德感，又是义务感；既是理性的判断，又是权威性的命令。其行为当然不可分割；但它仍有这两个方面，彼此不同，可以分别考察”（Newman 1870, 101）[^newman-1870]
+    step2: |-
+      按此解释，良心只是 *见证者*，对知识之源即上帝并无直接的认识通达，因此被认为会出错，而且实际上常常出错（《哥林多前书》4:4; Aquinas 1265–1274; Butler 1726: sermon 3 (3)）。尤其，良心把神圣律法应用于实际案例时，可能未能正确解释律法。一些 13 世纪天主教神学家——如菲利普校长（Philip the Chancellor）、大阿尔伯特（Albert the Great），以及最著名的托马斯·阿奎那（Thomas Aquinas）——认为，良心是把普遍原则（即神圣律法）应用于实际情境的行为，即实践三段论的结论；其第一前提由一个称作“良知”（synderesis）的独立官能提供（Aquinas, *Summa Theologiae*, 1 q79; Langston 2000 and 2015; Sorabji 2014: 62–66）[^langston-2000][^langston-2015][^sorabji-2014]。既然如此，良心从第一原则推导道德结论时就可能出错（Aquinas, *On Truth*, q17, art. 2，讨论见 D’Arcy 1961: 100–103）[^d’arcy-1961]。不过，另一些天主教思想家强调良心在人类寻求真理中的本质作用。例如枢机约翰·亨利·纽曼（John Henry Newman）把良心看作能引我们走向道德真理的道德感。故在他看来，良心既认识、又指导行动；但两面不可分，因为道德真理正是指引我们行动者。他写道：“良心的感受……是双重的：既是道德感，又是义务感；既是理性的判断，又是权威的命令。其行为固然不可分；但它有这两个方面，彼此有别，可以分别考察”（Newman 1870, 101）[^newman-1870]
+  - id: 39
+    kind: body
+    source: |-
+      On a secular account, the external source of moral knowledge that instills moral principles in us is not God, but one’s own culture or upbringing. In this case, the moral knowledge in question is typically understood in a relativistic sense: our conscience is the faculty through which the social norms of our culture or the norms of our upbringing are evoked and exert their influence on our moral psychology. These norms explain our moral feelings and our moral choices, but what conscience tells us in this case is the product of social and cultural dynamics over which we have little control. As the case of Huckleberry Finn’s conscience demonstrates, hardly can conscience so understood be credited any moral authority, since our educators or our culture might be highly immoral (for example our conscience might end up drawing on racist or discriminatory principles, such as the ones which supported slavery in Huck’s social environment). And in fact, unsurprisingly, many are rather skeptical or dismissive of the moral authority of conscience, since they see it as mere opinion about moral principles influenced or even determined by one’s own culture (Montaigne 1580: book 1, ch. 22; Hobbes 1651: ch. 7)[^hobbes-1651]. In this sense, conscience is a merely relativistic notion whose content changes according to social, cultural, and familial circumstances.
+    step1: |-
+      在世俗解释中，把道德原则注入我们内心的道德知识的外部来源不是上帝，而是个人自己的文化或教养。在此情形中，所涉道德知识通常以相对主义意义来理解：良心是我们借以召唤自身文化的社会规范或自身教养的规范、并使这些规范对我们的道德心理施加影响的官能。这些规范解释我们的道德情感与道德选择，但良心在此情形中告诉我们的东西，是社会与文化动态的产物，而我们对这些动态几乎无法控制。正如哈克贝利·费恩的良心这一案例所表明的，如此理解的良心几乎不能被赋予任何道德权威，因为我们的教育者或我们的文化可能极不道德（例如我们的良心可能最终依据种族主义或歧视性的原则，如哈克的社会环境中支持奴隶制的那些原则）。事实上，毫不奇怪，许多人对良心的道德权威相当怀疑或鄙夷，因为他们视之为关于道德原则的单纯意见，而这类意见受个人文化影响、甚至由之决定（Montaigne 1580: book 1, ch. 22; Hobbes 1651: ch. 7）[^hobbes-1651]。在这种意义上，良心只是一个相对主义的概念，其内容随社会、文化与家庭环境而变。
+    step2: |-
+      世俗解释中，把道德原则注入我们内心的外部来源不是上帝，而是自身的文化或教养。此时，所涉道德知识通常取相对主义意义：良心是我们借以唤起自身文化的社会规范或教养规范、并让这些规范作用于道德心理的官能。这些规范解释我们的道德情感与选择；但良心此时告诉我们的，是社会与文化动态的产物，而我们对其几乎无从控制。哈克贝利·费恩的良心便是明证：这样理解的良心几乎不能被赋予任何道德权威，因为我们的教育者或文化可能极不道德（例如良心可能依据种族主义或歧视性原则，如哈克所处社会中支持奴隶制的原则）。不出所料，许多人对良心的道德权威颇为怀疑或鄙夷，视之为受自身文化影响、甚至由其决定的关于道德原则的单纯意见（Montaigne 1580: book 1, ch. 22; Hobbes 1651: ch. 7）[^hobbes-1651]。此种意义上，良心只是一个相对主义概念，其内容随社会、文化与家庭环境而变。
+  - id: 40
+    kind: body
+    source: |-
+      ### 3.2 Conscience as a faculty for direct moral knowledge
+    step1: |-
+      ### 3.2 作为直接道德知识官能的良心
+    step2: |-
+      ### 3.2 作为直接道德知识官能的良心
+  - id: 41
+    kind: body
+    source: |-
+      Contrary to what Montaigne and Hobbes had claimed, Rousseau argued in *Emile, or Education* that good education can free conscience from the corrupting influences of societies. Actually, one of the aims of education is to render the young autonomous moral thinkers and agents by teaching them how to critically examine and, if necessary, replace received norms (Rousseau 1762; see Sorabji 2014, for a discussion)[^rousseau-1762][^sorabji-2014]. The idea here is that conscience is what remains of our innate moral sense once we free it from “childish errors” and “prejudices of our upbringing” (Rousseau 1921 [1762]: 253). As Rousseau presents it,
+    step1: |-
+      与蒙田和霍布斯的主张相反，卢梭在《爱弥儿，或论教育》中论证，好的教育能够使良心从社会的腐化影响中解放出来。实际上，教育的目的之一，就是通过教导年轻人如何批判地审查既受规范、并在必要时替换它们，使他们成为自主的道德思考者与行动者（Rousseau 1762；讨论见 Sorabji 2014）[^rousseau-1762][^sorabji-2014]。这里的想法是：一旦使良心摆脱“孩童式的错误”与“教养的偏见”（Rousseau 1921 [1762]: 253），良心就是我们天赋道德感所剩下的东西。如卢梭所呈现的，
+    step2: |-
+      与蒙田、霍布斯的主张相反，卢梭在《爱弥儿，或论教育》中论证：良好的教育能使良心摆脱社会的腐化影响。教育的一个目的，正是教导年轻人批判地审查既受规范、必要时替换它们，使其成为自主的道德思考者与行动者（Rousseau 1762；讨论见 Sorabji 2014）[^rousseau-1762][^sorabji-2014]。这里的想法是：良心一旦摆脱“孩童式的错误”与“教养的偏见”（Rousseau 1921 [1762]: 253），便是我们天赋道德感所剩下的东西。卢梭这样呈现它：
+  - id: 42
+    kind: body
+    source: |-
+      > There is therefore at the bottom of our hearts an innate principle of justice and virtue, by which, in spite of our maxims, we judge our own actions or those of others to be good or evil; and it is this principle that I call conscience. (Rousseau 1921 [1762]: 253)
+    step1: |-
+      > 因此，我们内心深处有一个关于正义与德性的天赋原则，凭借它，尽管我们的种种格言，我们仍把自己的或他人的行为评判为善或恶；我把这个原则称为良心。（Rousseau 1921 [1762]: 253）
+    step2: |-
+      > 因此，我们内心深处有一天赋原则，关乎正义与德性；凭着它，尽管我们的种种格言，我们仍把自己的或他人的行为判为善或恶。我称这个原则为良心。（Rousseau 1921 [1762]: 253）
+  - id: 43
+    kind: body
+    source: |-
+      According to Rousseau, then, conscience has a natural tendency to perceive and follow the right order of nature, and a good teacher should help the young’s conscience to do what it is naturally predisposed to do. In Rousseau’s words:
+    step1: |-
+      据卢梭，良心有一种自然倾向去感知并遵循自然的正确秩序，好的教师应当帮助年轻人的良心去做它自然倾向去做的事。用卢梭的话说：
+    step2: |-
+      据卢梭，良心有自然倾向去感知并遵循自然的正当秩序；好教师应当帮助年轻人的良心去做它自然倾向做之事。卢梭的话是：
+  - id: 44
+    kind: body
+    source: |-
+      > Too often does reason deceive us; we have only too good a right to doubt her; but conscience never deceives us; she is the true guide of man; it is to the soul what instinct is to the body; he who obeys his conscience is following nature and he need not fear that he will go astray… Let us obey the call of nature; we shall see that her yoke is easy and that when we give heed to her voice we find a joy in the answer of a good conscience. (Rousseau 1921 [1762]: 252)
+    step1: |-
+      > 理性太常欺骗我们；我们有充分的理由怀疑理性；但良心从不欺骗我们；它是人的真正向导，对灵魂而言，它如同本能之于身体；听从良心的人是在遵循自然，无须害怕迷路……让我们听从自然的召唤；我们将看到自然的轭是容易的；当我们留心听从她的声音时，我们会在良心的回应中找到喜悦。（Rousseau 1921 [1762]: 252）
+    step2: |-
+      > 理性太常欺骗我们，我们有充分理由怀疑它；但良心从不欺骗我们。良心是人的真正向导：对灵魂，它如本能之于身体。听从良心，便是遵循自然，无须害怕迷路……让我们听从自然的召唤吧；我们会看到自然的轭是轻省的；当我们留心她的声音时，便会在良心的回应里找到喜悦。（Rousseau 1921 [1762]: 252）
+  - id: 45
+    kind: body
+    source: |-
+      This understanding of conscience as a deeper form of moral knowledge brings us to the second sense in which conscience can be said to have an epistemic role. As well as merely witnessing received opinions or divine laws, conscience can also be conceived as a moral sense giving us direct access to moral principles. Understood in this way, conscience is typically seen as intuitive and influenced by emotions, rather than a reason-based faculty. In particular, 18ᵗʰ Century sentimentalist philosophers often (e.g., Shaftesbury (1711) and Hume (1738–1740)) identified conscience with a moral “sentiment” or moral “sense”. According to Hume’s psychological theory, for instance, “reason is wholly inactive and can never be the source of so active a principle as conscience, or a sense of morals” (Hume 1738–1740: book 3, part 1, section 1)[^hume-1738]. Also on more recent accounts of conscience and of private morality, the dictates of conscience can be understood as expressions of our moral intuitions. According to Thagard and Finn (2011), for instance, “conscience is a kind of moral intuition” (p. 168) that is “both cognitive and emotional”(p.156).
+    step1: |-
+      这种把良心理解为一种更深的道德知识的观点，把我们引向良心可以说具有认识论作用的第二种意义。除了仅仅见证既受意见或神圣律法之外，良心还可以被设想为一种道德感，使我们直接通达道德原则。按这种理解，良心通常被视为直觉的、受情感影响的，而非基于理性的官能。特别是，18 世纪情感主义哲学家常常（例如沙夫茨伯里（Shaftesbury）（1711）与休谟（Hume）（1738–1740））把良心等同于道德“情感”（sentiment）或道德“感”（sense）。例如，按休谟的心理学理论，“理性是完全不动的，永远不能成为像良心或道德感这样主动的原则的来源”（Hume 1738–1740: book 3, part 1, section 1）[^hume-1738]。在较新的良心与私人道德解释中，良心的命令也可以被理解为我们的道德直觉的表达。例如，据 Thagard 与 Finn（2011），“良心是一种道德直觉”（第 168 页），它“既是认知的又是情感的”（第 156 页）。
+    step2: |-
+      这种把良心理解为更深一层道德知识的观点，把我们引向良心具有认识论作用的第二种意义。良心不止见证既受意见或神圣律法，还可被设想为一种道德感，让我们直接通达道德原则。如此理解的良心，通常被视为直觉的、受情感影响的，而非基于理性的官能。尤其，18 世纪情感主义哲学家（如沙夫茨伯里（Shaftesbury）（1711）与休谟（Hume）（1738–1740））常把良心等同于道德“情感”（sentiment）或道德“感”（sense）。按休谟的心理学理论，“理性是完全不动的，永远不能成为像良心或道德感这样主动的原则的来源”（Hume 1738–1740: book 3, part 1, section 1）[^hume-1738]。较新的良心与私人道德解释中，良心的命令也可理解为道德直觉的表达。例如 Thagard 与 Finn（2011）说：“良心是一种道德直觉”（168 页），“既认知又情感”（156 页）。
+  - id: 46
+    kind: body
+    source: |-
+      Once again, there are reasons to doubt the epistemic and moral authority of conscience so understood. A lot of work in recent moral psychology aimed at understanding moral disagreement has suggested that there are seemingly irreconcilable differences in fundamental moral intuitions and emotions among people with different worldviews (e.g., Haidt 2012; Greene 2013)[^greene-2013][^haidt-2012]. These differences in fundamental moral intuitions seem to undermine the epistemic status of conscience and, with it, conscience’s moral authority, not least because most of our moral intuitions seem, according to these recent developments in moral psychology, not to be amenable to revision in light of new evidence or new good reasons. Reasoning, on any plausible account, should be an important part of morality; however, what our conscience tells us may have little to do with reasons and evidence. Theoretical work in moral psychology (e.g., Haidt 2012; Graham et al. 2009; Haidt 2001)[^graham-2009][^haidt-2001][^haidt-2012], supported by evidence from neuroscience (Greene 2013)[^greene-2013], suggests that our most fundamental moral beliefs might be based on intuitions and emotions over which our rational capacities have little control. If this account is correct, then we have reasons to be skeptical about the possibility of affecting, let alone changing, people’s conscientious beliefs through dialogue, public discussion and reason giving. Psychological research has focused particularly on the differences between liberal and conservative thinking. For example, it has been suggested that conservative moral and political views are often founded on certain specific emotions, e.g., disgust or fears, and specific intuitions, e.g., intuitive opposition to perceived violations of purity and to authority subversion, whereas liberal views are often driven by other specific emotions, e.g., anger, and intuitions, e.g., intuitive rejection of fairness violations or liberty infringements (Haidt 2001 and 2012)[^haidt-2001][^haidt-2012]. If conscience simply is the expression of moral intuition, and if individuals have significantly different and irreconcilable moral intuitions, then individuals also have significantly different and difficult-to-reconcile conscientious moral consciences.
+    step1: |-
+      再一次，有理由怀疑如此理解的良心的认识论与道德权威。近来的道德心理学中有大量工作旨在理解道德分歧，它们表明：在世界观不同的人群之间，根本道德直觉与情感存在看似不可调和的差异（例如 Haidt 2012; Greene 2013）[^greene-2013][^haidt-2012]。这些根本道德直觉上的差异似乎损害了良心的认识论地位，并随之损害良心的道德权威——尤其因为按道德心理学的这些新进展，我们的多数道德直觉似乎并不因新的证据或新的好理由而可修正。无论按哪种可信的解释，推理都应当是道德的重要组成部分；然而我们的良心告诉我们的东西，可能与理由和证据关系不大。道德心理学的理论工作（例如 Haidt 2012; Graham et al. 2009; Haidt 2001）[^graham-2009][^haidt-2001][^haidt-2012]，加上神经科学的证据（Greene 2013）[^greene-2013]，表明我们最基本的道德信念可能基于直觉与情感，而我们的理性能力对这些直觉与情感几乎没有控制力。如果这一解释正确，那么我们有理由怀疑：通过对话、公共讨论与说理去影响——更不用说改变——人们良心信念的可能性。心理学研究尤其关注自由派与保守派思维之间的差异。例如，有观点认为，保守派的道德与政治观点常建立在某些特定情感之上，如厌恶或恐惧，以及特定直觉之上，如直觉上反对被视为对纯洁的违反与对权威的颠覆；而自由派的观点常由其他特定情感（如愤怒）与其他特定直觉（如直觉上拒绝违反公正或侵犯自由）所驱动（Haidt 2001 and 2012）[^haidt-2001][^haidt-2012]。如果良心只是道德直觉的表达，而且个人的道德直觉显著不同且不可调和，那么人们依良心持有的道德信念也会显著不同、难以调和。
+    step2: |-
+      如此理解的良心，其认识论与道德权威同样有可议之处。近来道德心理学旨在理解道德分歧的大量工作表明：不同世界观的人之间，根本道德直觉与情感存在看似不可调和的差异（如 Haidt 2012; Greene 2013）[^greene-2013][^haidt-2012]。这些差异似乎动摇良心的认识论地位，随之动摇其道德权威——尤其因为，按道德心理学这些新进展，我们的多数道德直觉似乎不因新证据或新理由而可修正。无论如何解释，推理都应是道德的重要部分；可良心告诉我们的东西，未必与理由和证据相干。道德心理学的理论工作（Haidt 2012; Graham et al. 2009; Haidt 2001）[^graham-2009][^haidt-2001][^haidt-2012] 加上神经科学证据（Greene 2013）[^greene-2013] 表明：我们最基本的道德信念可能基于直觉与情感，理性能力对其几无控制。若此说成立，我们便有理由怀疑：凭对话、公共讨论与说理能否影响——遑论改变——人们的良心信念。心理学研究尤重自由派与保守派思维之别。例如有研究认为：保守派的道德与政治观点常奠基于特定情感（如厌恶、恐惧）与特定直觉（如直觉反对违反纯洁、颠覆权威）；自由派则常由另一些情感（如愤怒）与直觉（如直觉拒绝违反公正、侵犯自由）驱动（Haidt 2001 and 2012）[^haidt-2001][^haidt-2012]。若良心只是道德直觉的表达，而个人直觉显著不同且不可调和，那么人们依良心持有的道德信念也会显著不同、难以调和。
+  - id: 47
+    kind: body
+    source: |-
+      ## 4. Conscience as motivation to act morally
+    step1: |-
+      ## 4. 作为道德行动之动机的良心
+    step2: |-
+      ## 4. 作为道德行动之动机的良心
+  - id: 48
+    kind: body
+    source: |-
+      Conscience can also be conceived as our sense of duty. According to this understanding, conscience motivates us to act according to moral principles or beliefs we already possess (e.g., D’Arcy 1963; Childress 1979; McGuire 1963; Fuss 1964)[^childress-1979][^d’arcy-1963][^fuss-1964][^mcguire-1963]. Conscience so understood “establishes a general sense of moral obligation in the individual’s consciousness” (Fuss 1964: 116)[^fuss-1964]. The subjective character of conscience implies that the motivational force must come entirely from within the individual, as opposed to sanctions from an external authority.
+    step1: |-
+      良心也可以被设想为我们的义务感。按这种理解，良心激励我们按照已经拥有的道德原则或信念而行动（例如 D’Arcy 1963; Childress 1979; McGuire 1963; Fuss 1964）[^childress-1979][^d’arcy-1963][^fuss-1964][^mcguire-1963]。如此理解的良心“在个人的意识中确立一种一般的道德义务感”（Fuss 1964: 116）[^fuss-1964]。良心的主观品格意味着，动机力量必须完全来自个人内部，与来自外部权威的制裁相对。
+    step2: |-
+      良心也可被设想为我们的义务感。按此理解，良心激励我们按已有的道德原则或信念行动（如 D’Arcy 1963; Childress 1979; McGuire 1963; Fuss 1964）[^childress-1979][^d’arcy-1963][^fuss-1964][^mcguire-1963]。这样的良心“在个人意识中确立一股一般的道德义务感”（Fuss 1964: 116）[^fuss-1964]。良心的主观品格意味着：动机力量必须全然发自个人内部，而非来自外部权威的制裁。
+  - id: 49
+    kind: body
+    source: |-
+      A powerful motivational source is represented by the feelings that conscience generates in its self-assessment function. As we said at the beginning, the different understandings of conscience presented here are not necessarily mutually exclusive. Conscience as self-assessment and conscience as motivation to act morally constitute a good example of perspectives on conscience which are not only consistent with one another, but which actually complete one another. In Kant, for example, the theory of conscience can be seen as “a motivation theory set in the context of a reflection theory” (Wood 2008: 183)[^wood-2008]: As Wood interprets the Kantian notion of conscience, “conscience is a feeling of pleasure or displeasure associated with myself” that arises when I comply or don’t comply with moral principles and that motivates me to act in one sense rather than the other when the feeling accompanies the contemplation of a certain course of action (Wood 2008: 183–184)[^wood-2008]. Conscience for Kant is therefore not only an inner court, but also a source of motivation to act morally, that is, motivation to follow our sense of duty as determined by reason (Kant 1797 [1991: 161])[^kant-1797].
+    step1: |-
+      一股强大的动机来源，是良心在其自我评价功能中产生的情感。如我们在开头所说，这里呈现的良心的不同理解并不必然互相排斥。作为自我评价的良心与作为道德行动之动机的良心，是彼此一致、实际上还互相补充的良心视角的好例子。例如在康德那里，良心的理论可以被视为“置于反思理论语境中的动机理论”（Wood 2008: 183）[^wood-2008]：按 Wood 对康德良心概念的解读，“良心是一种与我自己相联系的愉悦或不愉悦的情感”，当我遵守或不遵守道德原则时它便产生，而当这种情感伴随对某一行动路线的思量时，它便激励我按此而非彼的方式行动（Wood 2008: 183–184）[^wood-2008]。因此，对康德而言，良心不仅是内在法庭，也是道德行动的动机来源，即遵循由理性所确定的义务感的动机（Kant 1797 [1991: 161]）[^kant-1797]。
+    step2: |-
+      一股强大的动机来源，是良心在自我评价功能中产生的情感。如开头所言，此处呈现的几种良心理解并不必然互斥。作为自我评价的良心与作为道德行动动机的良心，不但相容，而且互补。例如在康德那里，良心的理论可视为“置于反思理论语境中的动机理论”（Wood 2008: 183）[^wood-2008]：按 Wood 对康德良心概念的解读，“良心是一种与我自己相联系的愉悦或不愉悦”，在我守或不守道德原则时产生；当它伴随对某一行动路线的思量时，便激励我取此而非彼（Wood 2008: 183–184）[^wood-2008]。故对康德，良心不仅是内在法庭，也是道德行动的动机来源——即遵循理性所定义务感的动机（Kant 1797 [1991: 161]）[^kant-1797]。
+  - id: 50
+    kind: body
+    source: |-
+      More generally, as we have seen in section 1, conscience’s self-assessment often produces remorse or other negative feelings (guilt, shame, fear, and so on). Our desire or tendency to avoid this form of self-punishment can have motivational force towards acting morally. Thus, for instance, according to Childress the motive for acting morally that defines conscience is “in part, avoidance of a sanction imposed by the self on itself” (Childress 1979: 328)[^childress-1979].
+    step1: |-
+      更一般地，如第 1 节所见，良心的自我评价常常产生悔恨或其他负面情感（内疚、羞耻、恐惧等）。我们避免这种自我惩罚的欲望或倾向，可以具有朝向道德行动的动机力量。因此，例如据 Childress，界定良心的道德行动动机“部分在于避免自我施加于自身的制裁”（Childress 1979: 328）[^childress-1979]。
+    step2: |-
+      更一般地，如第 1 节所见，良心的自我评价常产出悔恨或其他负面情感（内疚、羞耻、恐惧等）。避免这种自我惩罚的欲望或倾向，本身可成为向道德行动的动机力量。例如 Childress 说，界定良心的道德行动动机“部分在于避免自我加于自身的制裁”（Childress 1979: 328）[^childress-1979]。
+  - id: 51
+    kind: body
+    source: |-
+      Consistent with this philosophical view are studies in developmental psychology suggesting that the emotion of guilt, which is typically seen as one of the products of conscience as self-assessment, is “the motivational engine that infuses misdeeds with negative personal valence” (Kochanska and Aksan 2006: 1589)[^kochanska-2006]. Transgression generates anxious feelings in most children, and these negative feelings help children suppress future wrongdoing and internalize the relative moral norms (Damásio 1994, as reported in Kochanska and Aksan 2006: 1595)[^damásio-1994][^kochanska-2006].
+    step1: |-
+      与这一哲学观点相一致的是发展心理学的研究，它们表明内疚情感——通常被视为良心作为自我评价的产物之一——是“把负面个人价值注入不当行为的动机引擎”（Kochanska and Aksan 2006: 1589）[^kochanska-2006]。犯错在多数儿童身上引起焦虑情感，而这些负面情感帮助儿童抑制将来的错误行为、并把相关的道德规范内化（Damásio 1994，转引自 Kochanska and Aksan 2006: 1595）[^damásio-1994][^kochanska-2006]。
+    step2: |-
+      与此哲学观点一致，发展心理学研究表明：内疚——常被视为良心作为自我评价的产物之一——是“把负面个人价值注入不当行为的动机引擎”（Kochanska and Aksan 2006: 1589）[^kochanska-2006]。犯错使多数儿童焦虑；这些负面情感帮助儿童抑制将来的错行，并把相应道德规范内化（Damásio 1994，转引自 Kochanska and Aksan 2006: 1595）[^damásio-1994][^kochanska-2006]。
+  - id: 52
+    kind: body
+    source: |-
+      However, at the same time, the negative self-directed feelings must themselves be generated by previous experience of tension between our action and a pre-existing sense of duty. Although it might seem that we are stuck in an infinite regress, where sense of duty and negative self-directed feelings presuppose one another, this need not be the case. It is possible to conceive of an external or independent source of that most fundamental sense of duty that constitutes our conscience, such as for example our moral education and upbringing (Mill 1861: ch. 3)[^mill-1861]. But the sense of duty that identifies a conscientious person can also be conceived as a primitive function, an innate disposition which is not explained by any other more fundamental mechanism. In Kant, for instance, “every human being, as a moral being, has a conscience within him originally” (Kant 1797 [1991: 160])[^kant-1797], and conscience is one of the four “natural predispositions of the mind (…) for being affected by concepts of duty”, the other three being moral feeling, love for one’s neighbors, and respect for oneself (Kant 1797 [1991: 160])[^kant-1797].
+    step1: |-
+      然而，与此同时，这些指向自我的负面情感本身，必须由先前的经验生成，即我们的行动与先在的义务感之间的张力的经验。虽然看似我们陷入了无穷倒退——义务感与指向自我的负面情感相互预设——但情况未必如此。有可能设想构成我们良心的那种最基本义务感有一个外在的或独立的来源，例如我们的道德教育与教养（Mill 1861: ch. 3）[^mill-1861]。但界定良心之人的义务感，也可以被设想为一种原初功能，一种不由任何更基本机制来解释的天赋倾向。例如在康德那里，“每一个人作为道德存在者，都原初地在其内有良心”（Kant 1797 [1991: 160]）[^kant-1797]，良心是心灵“因义务概念而受感动的”四种“自然倾向”之一，另外三种是道德情感、对邻人的爱与自尊（Kant 1797 [1991: 160]）[^kant-1797]。
+    step2: |-
+      但另一方面，这些指向自我的负面情感，本身必须由先前经验生成——即行动与先在义务感之间张力的经验。看似陷入无穷倒退：义务感与负面自我情感互相预设。但未必如此。构成良心的那最基本义务感，可以设想有一个外在或独立的来源，例如道德教育与教养（Mill 1861: ch. 3）[^mill-1861]。但界定良心之人的义务感，也可设想为一种原初功能、一种天赋倾向，无须更基本的机制来解释。例如康德说：“每一个人作为道德存在者，都原初地在己内有良心”（Kant 1797 [1991: 160]）[^kant-1797]；良心是心灵“因义务概念而受感动的”四种“自然倾向”之一，余三种为道德情感、对邻人的爱与自尊（Kant 1797 [1991: 160]）[^kant-1797]。
+  - id: 53
+    kind: body
+    source: |-
+      Negative feelings and sense of duty are not always successful in prompting agents to do what their moral principles require. But the “bites of conscience”, or just the prospect of bites of conscience, act as motivational force towards aligning our future behavior to those norms. Of course, positive feelings associated with conscience might also have a motivational force. For example, as seen above, Kant associated conscience also with positive feelings about oneself when the agent recognizes he has acted according to his sense of duty. Rousseau, alongside the epistemic account of conscience presented above, also provides in *Emile* a motivational account of conscience based on positive feelings: while reason gives us knowledge of the good, it is conscience, through a sentiment of love for the good, which motivates us to behave morally (Rousseau 1762)[^rousseau-1762].
+    step1: |-
+      负面情感与义务感并不总能成功地促使行动者去做其道德原则所要求的事。但“良心的啃咬”，或仅仅是啃咬的预期，会作为一种动机力量，促使我们把将来的行为对准那些规范。当然，与良心相联系的正面情感也可能有动机力量。例如如上所见，康德把良心也与行动者认识到自己按义务感行事的正面情感相联系。卢梭在给出上述良心的认识论解释之外，还在《爱弥儿》中提供了基于正面情感的良心动机解释：理性给我们关于善的知识，而正是良心，通过对善的爱的情感，激励我们按道德行事（Rousseau 1762）[^rousseau-1762]。
+    step2: |-
+      负面情感与义务感并不总能促成行动者按其道德原则行事。但“良心的啃咬”——或仅仅是啃咬的预期——会成为动机力量，把将来的行为对准那些规范。当然，与良心相连的正面情感也有动机力量。如上所见，康德把良心与行动者自觉守义的正面情感相联系。卢梭除上述认识论解释外，还在《爱弥儿》里给出基于正面情感的动机解释：理性给我们关于善的知识，而激励我们行道德之事的，是良心——通过对善的爱（Rousseau 1762）[^rousseau-1762]。
+  - id: 54
+    kind: body
+    source: |-
+      ## 5. Conscience, self-identifying moral commitments, and moral integrity
+    step1: |-
+      ## 5. 良心、自我认同的道德承诺与道德完整性
+    step2: |-
+      ## 5. 良心、自我认同的道德承诺与道德完整性
+  - id: 55
+    kind: body
+    source: |-
+      The subjective character of conscience delimits a sphere of personal morality that is an essential part of our sense of personal identity, understood as our sense of who we are and of what characterizes qualitatively our individuality (for instance, our character, our psychological traits, our past experience, etc.). My conscience is what makes me *this* particular individual in a social and cultural context that I want to keep separate from *me*.
+    step1: |-
+      良心的主观品格划出了一个个人道德的领域，它是我们个人认同感——即我们对自己是谁、以及什么在性质上刻画了我们的个体性（例如我们的品格、心理特征、过去经验等）的感受——的本质部分。我的良心使我在社会与文化语境中成为 *这个* 特定的个体，而这一语境是我想要与 *我* 分开的。
+    step2: |-
+      良心的主观品格划出一个个人道德的领域，它是个人认同感——即我们对自己是谁、什么在性质上刻画我们的个体性（品格、心理特征、过去经验等）的感受——的本质部分。我的良心使我在社会文化语境中成为 *这个* 特定个体，而这一语境我想与 *我* 分开。
+  - id: 56
+    kind: body
+    source: |-
+      This private space in which the individual finds her own sense of identity often grounds the political use of the notion of conscience. Thus, many people claim the right to stick to their conscience—particularly by advancing so called “conscientious objection”—when social expectations or legal obligations would demand otherwise. These political appeals to conscience are usually made on the basis of two principles. The first is the principle of respect for moral integrity, which finds its justification in the close relationship between the notions of conscience and of moral integrity on one side (Childress 1979)[^childress-1979], and the sense of personal identity on the other. The second principle often invoked in the political uses of “conscience” is the principle of “freedom of conscience”. The former will be discussed in this section, and the latter in the next section.
+    step1: |-
+      个人在这一私人空间中找到自己的认同感，这一空间常常为良心概念的政治运用提供根据。因此，当社会期待或法律义务提出相反要求时，许多人主张坚持自己良心的权利——特别是通过提出所谓的“依良心拒绝”。这些对良心的政治诉诸通常基于两个原则。第一个是尊重道德完整性的原则，其正当性根据在于良心与道德完整性概念（一方面）与个人认同感（另一方面）之间的紧密关系（Childress 1979）[^childress-1979]。在“良心”的政治运用中常被援引的第二个原则是“良心自由”原则。前者将在本节讨论，后者在下一节。
+    step2: |-
+      个人在这一私人空间里找到自己的认同感，而这空间常为良心概念的政治运用提供依据。于是，当社会期待或法律义务另有要求时，许多人主张坚持自良心——尤其通过提出所谓“依良心拒绝”。这类政治性诉诸通常基于两个原则。其一为尊重道德完整性：其正当性在于良心与道德完整性（一方面）、与个人认同感（另一方面）之间的紧密关系（Childress 1979）[^childress-1979]。其二为“良心自由”。前者在本节讨论，后者在下一节。
+  - id: 57
+    kind: body
+    source: |-
+      The concept of personal identity in the sense in which the notion is used here—i.e what defines me as this particular person in a qualitative sense—is intimately related to the notions of conscience (Wicclair 2011; Childress 1979)[^childress-1979][^wicclair-2011] and of moral integrity, and more specifically to the “identity view of integrity” (Cox et al. 2013; Williams 1973 and 1981)[^cox-2013][^williams-1973][^williams-1981]. According to this view, for people to have integrity means to remain faithful to “identity-conferring commitments”, i.e., “commitments that people identify with most deeply, as constituting what they consider their life is fundamentally about” (Cox et al. 2013)[^cox-2013]. This identity-conferring aspect of one’s morality is exactly what some people call “conscience”. According to Childress, for example,
+    step1: |-
+      个人认同这一概念在此处的用法——即什么在性质上把我界定为这个特定的人——与良心（Wicclair 2011; Childress 1979）[^childress-1979][^wicclair-2011] 与道德完整性这两个概念密切相关，更具体地说，与“完整性的认同观”密切相关（Cox et al. 2013; Williams 1973 and 1981）[^cox-2013][^williams-1973][^williams-1981]。按这一观点，人拥有完整性意味着忠实于“赋予认同的承诺”（identity-conferring commitments），即“人们最深地认同、视为构成其生活根本之所是的那些承诺”（Cox et al. 2013）[^cox-2013]。一个人道德中这种赋予认同的方面，正是某些人所说的“良心”。例如，据 Childress，
+    step2: |-
+      个人认同在此处的用法——即什么在性质上把我界定为这个特定的人——与良心（Wicclair 2011; Childress 1979）[^childress-1979][^wicclair-2011] 及道德完整性密切相连，更具体地说，与“完整性的认同观”相连（Cox et al. 2013; Williams 1973 and 1981）[^cox-2013][^williams-1973][^williams-1981]。按此观点，人有完整性，意味着忠实于“赋予认同的承诺”——“人们最深地认同、视之为构成其生活根本之所是的那些承诺”（Cox et al. 2013）[^cox-2013]。一个人道德中这种赋予认同的方面，正是某些人所谓“良心”。例如 Childress 说：
+  - id: 58
+    kind: body
+    source: |-
+      > [i]n appealing to conscience I indicate that I am trying to preserve a sense of myself, my wholeness and integrity, my good conscience, and that I cannot preserve these qualities if I submit to certain requirements of the state or society. (Childress 1979: 327)[^childress-1979]
+    step1: |-
+      > 在诉诸良心时，我表明自己是在设法保全一种自我感、我的整全与完整性、我的善良心：如果我服从国家或社会的某些要求，就无法保全这些品质。（Childress 1979: 327）[^childress-1979]
+    step2: |-
+      > 诉诸良心，我是在表明：我要保全一种自我感、我的整全与完整性、我的善良心；若服从国家或社会的某些要求，这些品质便无法保全。（Childress 1979: 327）[^childress-1979]
+  - id: 59
+    kind: body
+    source: |-
+      Conscience as self-identifying can be understood in two ways. It can be thought of either as a set of core and self-identifying moral beliefs that are “integral to an agent’s understanding of who she is (i.e., her self-conception or identity)” (Wicclair 2011: 4)[^wicclair-2011], or as a way of approaching and relating to such moral beliefs, i.e., a “commitment to uphold one’s deepest and self-identifying moral beliefs” (Sulmasy 2008: 138)[^sulmasy-2008] and “a mode of consciousness in which prospective actions are viewed in relation to one’s self and character” (Bluestein 1993: 294).
+    step1: |-
+      作为自我认同的良心可以从两个方面来理解。它可以被设想为一组核心的、自我认同的道德信念，这些信念“对行动者理解自己是谁（即她的自我构想或认同）具有构成性意义”（Wicclair 2011: 4）[^wicclair-2011]；也可以被设想为一种接近、关联这类道德信念的方式，即“坚持自己最深、最具自我认同意义的道德信念的承诺”（Sulmasy 2008: 138）[^sulmasy-2008]，以及“一种意识模式，在其中，预期的行动被置于与自我及品格的关系中加以审视”（Bluestein 1993: 294）。
+    step2: |-
+      作为自我认同的良心，可有两解。其一，它是一组核心且自我认同的道德信念，“对行动者理解自己是谁（即其自我构想或认同）具有构成性意义”（Wicclair 2011: 4）[^wicclair-2011]。其二，它是一种接近并关联这类信念的方式，即“坚持自己最深、最具自我认同意义的道德信念的承诺”（Sulmasy 2008: 138）[^sulmasy-2008]，也是“一种意识模式：预期的行动被置于与自我及品格的关系中审视”（Bluestein 1993: 294）。
+  - id: 60
+    kind: body
+    source: |-
+      Conceived in either way, conscience is an essential part of our understanding of what kind of person we are, and this is taken to be a reason for warranting protection of conscience and conscientious objection in different contexts, particularly in the health care professions (Wicclair 2011: 25–26; Bluestein 1993: 295)[^wicclair-2011].
+    step1: |-
+      无论按哪种方式设想，良心都是我们理解自己是何种人的本质部分；而这被视为应当在不同语境中保护良心与依良心拒绝的理由，尤其是在医疗行业中（Wicclair 2011: 25–26; Bluestein 1993: 295）[^wicclair-2011]。
+    step2: |-
+      无论取哪一解，良心都是我们理解自身为何种人的本质部分；这被视为应当在各种语境中保护良心与依良心拒绝的理由，医疗行业尤然（Wicclair 2011: 25–26; Bluestein 1993: 295）[^wicclair-2011]。
+  - id: 61
+    kind: body
+    source: |-
+      We have seen above that there is a sense in which, according to some, psychopaths can be said to lack conscience (Hare 1999)[^hare-1999]: psychopaths are not capable of connecting their moral knowledge to their conduct through the feelings of guilt and disapproval which conscience, on some accounts, produces. Interestingly, according to some psychologists, psychopaths are also less likely to base their sense of personal identity on moral traits than normal functioning individuals (Glenn et al. 2010)[^glenn-2010]. More recent psychological studies have suggested that people tend to link the identity of others not so much to their memories, as traditionally believed, but to their morals: it is the loss of one’s moral character and moral beliefs, rather than of one’s memory, that leads us to say that a certain individual is not the same person anymore (Strohminger and Nichols 2015)[^strohminger-2015]. These findings provide empirical support to the idea that conscience is essential to one’s sense of personal identity and to attributions of personal identity
+    step1: |-
+      上文已见，在某种意义上，按某些人的说法，精神病态者可以说缺乏良心（Hare 1999）[^hare-1999]：精神病态者无法通过内疚与不赞同的情感——良心按某些解释会产生这类情感——把自己的道德知识与行为联系起来。有趣的是，据一些心理学家，精神病态者也比正常运作的个体更不可能把个人认同感建立在道德特征之上（Glenn et al. 2010）[^glenn-2010]。较新的心理学研究表明，人们倾向于把他人的认同与道德而非传统上所认为的记忆相联系：使我们说某个人已不再是从前那个人的，是道德品格与道德信念的丧失，而非记忆的丧失（Strohminger and Nichols 2015）[^strohminger-2015]。这些发现为如下观念提供了经验支持：良心对个人认同感、以及对个人认同的归属至关重要
+    step2: |-
+      上文已见，按某些人的说法，精神病态者可以说缺乏良心（Hare 1999）[^hare-1999]：他们无法借内疚与不赞同的情感（良心按某些解释所产生者）把道德知识与行为联系起来。有趣的是，一些心理学家认为，精神病态者比正常个体更少把个人认同感奠基于道德特征（Glenn et al. 2010）[^glenn-2010]。较新的心理学研究提示：人们把他人之认同更多系于其道德，而非传统所信的记忆——使我们说某人已非故我的，是道德品格与道德信念的丧失，而非记忆的丧失（Strohminger and Nichols 2015）[^strohminger-2015]。这些发现为“良心对个人认同感与认同归属至关重要”提供了经验支持
+  - id: 62
+    kind: body
+    source: |-
+      ## 6. Freedom of conscience
+    step1: |-
+      ## 6. 良心自由
+    step2: |-
+      ## 6. 良心自由
+  - id: 63
+    kind: body
+    source: |-
+      Some people have suggested that appeals to *freedom* of conscience tend to be more vigorously put forward and more effective in contexts where political or religious structures lose power or moral authority. Thus, for instance, according to C.A. Pierce:
+    step1: |-
+      有人提出，在政治或宗教结构失去权力或道德权威的语境中，诉诸良心的 *自由* 往往被更有力地提出、也更有效。因此，例如据 C.A. Pierce：
+    step2: |-
+      有人提出：在政治或宗教结构失去权力或道德权威的语境里，诉诸良心的 *自由* 往往提得更起劲、也更见效。例如 C.A. Pierce 说：
+  - id: 64
+    kind: body
+    source: |-
+      > conscience only came into its own in the Greek world after the collapse of the city-state. The close integration of politics with ethics, with the former predominant, was no longer possible: there was no sufficiently close authority, external to the individual, effectively to direct conduct. Consequently, as a *pis aller*, men fell back on the internal chastisement of the conscience as the only authority. (Pierce 1955: 76)[^pierce-1955]
+    step1: |-
+      > 良心只是到城邦崩溃之后才在希腊世界获得其应有地位。政治与伦理的紧密结合——其中政治占主导——已不再可能：不再有足够紧密的、外在于个人的权威来有效地指导行为。因此，作为 *不得已的下策*（pis aller），人们退回到良心的内在惩戒，把它当作唯一的权威。（Pierce 1955: 76）[^pierce-1955]
+    step2: |-
+      > 良心只是在城邦崩溃之后，才在希腊世界真正登场。政治与伦理的紧密结合（政治居主导）已不可能：不再有足够紧密且外在于个人的权威，来有效指导行为。于是，作为 *不得已的下策*（pis aller），人们退而依靠良心的内在惩戒，视之为唯一权威。（Pierce 1955: 76）[^pierce-1955]
+  - id: 65
+    kind: body
+    source: |-
+      The same can be said for 17ᵗʰ Century England, with its crisis of religious authority and the frequent appeals to freedom of conscience in the philosophical and political literature of that time (Childress 1979: 326)[^childress-1979].
+    step1: |-
+      17 世纪的英格兰亦然：当时宗教权威发生危机，哲学与政治文献中频频诉诸良心自由（Childress 1979: 326）[^childress-1979]。
+    step2: |-
+      17 世纪的英格兰亦然：宗教权威陷入危机，当时的哲学与政治文献频频诉诸良心自由（Childress 1979: 326）[^childress-1979]。
+  - id: 66
+    kind: body
+    source: |-
+      There are three main arguments that can be used to defend a principle of freedom of conscience. Two of them are frequently found in the 16ᵗʰ and 17ᵗʰ Century philosophical literature: they are the “argument from ineffectiveness or hypocrisy” and the “argument from ignorance” (Sorabji 2014: 139)[^sorabji-2014]. A third argument, which might be called “argument from legitimization”, was put forward by John Stuart Mill. Let us examine them in order.
+    step1: |-
+      有三项主要论证可用来为良心自由原则辩护。其中两项常见于 16 与 17 世纪的哲学文献：它们是“无效或虚伪论证”与“无知论证”（Sorabji 2014: 139）[^sorabji-2014]。第三项论证可称为“正当化论证”，由约翰·斯图尔特·密尔提出。让我们依次考察。
+    step2: |-
+      为良心自由原则辩护的主要论证有三。前两项常见于 16、17 世纪哲学文献：“无效或虚伪论证”与“无知论证”（Sorabji 2014: 139）[^sorabji-2014]。第三项可称“正当化论证”，出自约翰·斯图尔特·密尔（John Stuart Mill）。下面依次考察。
+  - id: 67
+    kind: body
+    source: |-
+      a) The *argument from ineffectiveness or hypocrisy* is based on the relevance of the distinction between beliefs and acts for the definition of conscience. According to this argument, it is not possible to compel someone to believe or to not believe something, i.e., to change one’s conscientious beliefs. All we can do is compel people to act *as if* they believed something, which would be a hypocritical behavior. Therefore, if some authority aims to convert people or to change people’s moral views, prohibiting the free *expression*, through actions, of one’s conscience would not serve this purpose.
+    step1: |-
+      a) *无效或虚伪论证* 依据的是信念与行为之区分对于界定良心的相关性。按这一论证，不可能强迫某人相信或不相信某事，即不可能改变一个人的良心信念。我们所能做的，只是强迫人们表现得 *仿佛* 他们相信某事，而这将是虚伪的行为。因此，如果某种权威旨在使人们改宗或改变人们的道德观点，那么禁止人们通过行动自由 *表达* 自己的良心，就无助于这一目的。
+    step2: |-
+      a) *无效或虚伪论证*，依据信念与行为之别对界定良心的相关性。它主张：不可能强迫某人相信或不相信某事，即不可能改变其良心信念；所能做的只是强迫人们 *仿佛* 相信某事那样行动，而那不过是虚伪。因此，若某权威欲使人改宗或改变其道德观点，禁止人们以行动自由 *表达* 良心，对此目的毫无用处。
+  - id: 68
+    kind: body
+    source: |-
+      This line of argument was often put forward by early Christians, most notably Christian apologist Tertullian, to defend their freedom to practice their cult in a time where they were persecuted by Roman governors: their claim was that forcing them to abandon the Christian cults would have no effect on their conscience. The same line of argument can also be found in Locke’s works on toleration, the *Essay Concerning Toleration* of 1667 and *A Letter Concerning Toleration* of 1689.
+    step1: |-
+      这一论证线路常被早期基督徒提出，最著名的是基督教护教士德尔图良（Tertullian），用以在他们受罗马总督迫害的时代捍卫自己举行崇拜的自由：他们的主张是，强迫他们放弃基督教崇拜，对他们的良心不会有效果。同样的论证线路也可见于洛克（Locke）关于宽容的著作，即 1667 年的《论宽容书》（*Essay Concerning Toleration*）与 1689 年的《论宽容的信》（*A Letter Concerning Toleration*）。
+    step2: |-
+      早期基督徒常用这条论证，最著名者为护教士德尔图良（Tertullian）：在受罗马总督迫害的时代，他们以此捍卫举行崇拜的自由——强迫他们放弃基督教崇拜，对其良心不会有任何效果。同样的论证也见于洛克（Locke）论宽容的著作：1667 年《论宽容书》（*Essay Concerning Toleration*）与 1689 年《论宽容的信》（*A Letter Concerning Toleration*）。
+  - id: 69
+    kind: body
+    source: |-
+      However, Christians did not seem to believe in the force of this argument, and more generally in the principle of freedom of conscience, when, later on, they attempted to justify the violent persecution of heretics (those who revise their religious dogmas) and apostates (those who abandon their religion) and their forced conversion (Clarke 2014: 118–123)[^clarke-2014]. Two main justifications have been given by Christian theologians for the forced conversion of heretics and apostates.
+    step1: |-
+      然而，当基督徒后来试图为暴力迫害异端者（修改宗教教义的人）与背教者（放弃宗教的人）、以及强制他们改宗作辩护时，他们似乎并不相信这一论证的力量，更一般地说，也不相信良心自由原则（Clarke 2014: 118–123）[^clarke-2014]。基督教神学家为强制异端者与背教者改宗给出了两项主要辩护。
+    step2: |-
+      然而，基督徒后来为暴力迫害异端者（修改宗教教义者）与背教者（放弃宗教者）、以及强制其改宗辩护时，似乎又不信这条论证的力量，更不信良心自由原则（Clarke 2014: 118–123）[^clarke-2014]。基督教神学家为强制改宗给出两项主要辩护。
+  - id: 70
+    kind: body
+    source: |-
+      One can be found, among others, in Aquinas and Calvin, who thought that violent persecution is justified because heretics’ mistaken views would exert great influence on many ordinary people. By departing from the Christian doctrine, these people would be condemned to eternal damnation in the afterlife, and Christians have a duty to save as many people as possible from eternal damnation (Clarke 2014: 120–121)[^clarke-2014].
+    step1: |-
+      其中一项可见于阿奎那与加尔文等人：他们认为暴力迫害是正当的，因为异端者的错误观点会对许多普通人产生巨大影响。这些人偏离基督教教义，将在来世被判处永罚；基督徒有义务尽可能多地把人从永罚中救出（Clarke 2014: 120–121）[^clarke-2014]。
+    step2: |-
+      其一见于阿奎那与加尔文等人：他们认为暴力迫害正当，因为异端者的错误观点会影响许多普通人。这些人偏离基督教教义，来世将遭永罚；基督徒有义务尽可能多地把人救离永罚（Clarke 2014: 120–121）[^clarke-2014]。
+  - id: 71
+    kind: body
+    source: |-
+      A second type of argument in defense of violent persecution is the one offered by Augustine (5ᵗʰ Century). He argued that compelling people to follow the true religion—by which he meant persecuting heretics—could open their eyes to the truth (Sorabji 2014: 49–50)[^sorabji-2014]. This thesis implies that sometimes conscience, even if we confine it to matters of inward conviction and not to behavior, can be influenced by some external imposition.
+    step1: |-
+      为暴力迫害辩护的第二类论证，是奥古斯丁（Augustine）（5 世纪）提出的。他论证说，强迫人们信奉真正的宗教——他以此指迫害异端者——可以使他们睁开眼睛看到真理（Sorabji 2014: 49–50）[^sorabji-2014]。这一论点意味着，良心有时即便被我们限定为内心信念之事而非行为之事，也可能受到某种外部强加的影响。
+    step2: |-
+      为暴力迫害辩护的第二类论证出自奥古斯丁（Augustine，5 世纪）。他主张：强迫人们信奉真宗教——他以此指迫害异端——可以让他们睁开眼看到真理（Sorabji 2014: 49–50）[^sorabji-2014]。这一论点意味着：良心即便只被限定于内心信念而非行为，有时也会受某种外部强加的影响。
+  - id: 72
+    kind: body
+    source: |-
+      This latter approach based on the idea of bringing the truth to conscience by “freeing” conscience from error is consistent with the Catholic peculiar understanding of the notion of freedom of conscience. Philosophically speaking, “freedom of conscience” is typically understood as an individualistic concept that allows for a plurality of moral and religious views (Strohm 2011: 90)[^strohm-2011]. For the Catholic Church, however, *authentic* freedom is inseparable from the notion of truth. Inspired by the works of the English theologian and cardinal John Henry Newman, Joseph Ratzinger writes that in the Catholic view “truth” is the middle term that reconciles authority of God and subjectivity of conscience: the latter, when authentically free, cannot but reveal the truth established by the former (Ratzinger 1991 [2010])[^ratzinger-1991]. Since, as we have seen above, in the Catholic view reason alone can’t create its own values, which are instilled by God into humans’ hearts, “human freedom finds its authentic and complete fulfillment precisely in the acceptance of that law” of God (John Paul II 1993: par. 35)[^john-1993]. So when practical reason is free to exercise its “participation” (John Paul II 1993: sec. 40)[^john-1993] in the divine law, then “in the depths of his conscience, man detects a law which he does not impose upon himself, but which holds him to obedience” (Paul VI 1965: par. 16)[^paul-1965].
+    step1: |-
+      后一种进路以“把良心从错误中解放出来”、从而把真理带给良心为理念，与天主教对良心自由概念的独特理解相一致。从哲学上说，“良心自由”通常被理解为一个个人主义的概念，容许道德与宗教观点的多元（Strohm 2011: 90）[^strohm-2011]。然而，对天主教会而言，*真正的* 自由与真理概念不可分割。受英国神学家、枢机约翰·亨利·纽曼著作的启发，约瑟夫·拉青格写道：在天主教观点中，“真理”是调和上帝的权威与良心的主体性的中间项：后者在真正自由时，不能不同时揭示前者所确立的真理（Ratzinger 1991 [2010]）[^ratzinger-1991]。既然如上文所见，在天主教观点中，单凭理性不能创造自己的价值——价值是上帝注入人心的——那么“人的自由恰恰在接受上帝的这一律法时，才找到其真正而完满的实现”（John Paul II 1993: par. 35）[^john-1993]。所以，当实践理性自由地“参与”（John Paul II 1993: sec. 40）[^john-1993] 神圣律法时，“人在其良心的深处察觉到一条律法，这律法不是他自己强加于自己的，却使他服从”（Paul VI 1965: par. 16）[^paul-1965]。
+    step2: |-
+      后一进路以“把良心从错误中解放”、从而把真理带给良心为理念，与天主教对良心自由的独特理解相合。哲学上，“良心自由”通常被理解为个人主义概念，容许道德与宗教观点多元（Strohm 2011: 90）[^strohm-2011]。但对天主教会而言，*真正的* 自由与真理概念不可分。受英国神学家、枢机约翰·亨利·纽曼著作启发，约瑟夫·拉青格写道：按天主教观点，“真理”是调和上帝权威与良心主体性的中间项——良心真正自由时，不能不同时揭示上帝所确立的真理（Ratzinger 1991 [2010]）[^ratzinger-1991]。如上文所见，天主教观点认为单凭理性不能自创价值（价值由上帝注入人心），故“人的自由恰在接受上帝这一律法时，才找到真正而完满的实现”（John Paul II 1993: par. 35）[^john-1993]。因此，当实践理性自由地“参与”（John Paul II 1993: sec. 40）[^john-1993] 神圣律法时，“人在良心深处察觉到一条律法，这律法不是他自加于己的，却使他服从”（Paul VI 1965: par. 16）[^paul-1965]。
+  - id: 73
+    kind: body
+    source: |-
+      In any case, it is not necessary to dismiss the argument from ineffectiveness in order to justify imposing norms and practices that might violate individuals’ conscience. Actually, the same argument from ineffectiveness can be used to support the imposition of policies that might conflict with individuals’ consciences. On the basis of the idea that conscience is merely a matter of private beliefs, not of action, some authors have argued that compelling people to follow certain rules even against their conscience would not constitute a violation of their freedom of conscience, and is therefore justifiable. This was the line of argument pursued, for example, by Thomas Hobbes (1651: chapter 40), Baruch Spinoza (1670: chapter 20) and John Locke (1660), who argued that the State has the power to enforce certain practices even when citizens claim that it would violate their conscience, in order to protect social order.
+    step1: |-
+      无论如何，要证成为可能侵犯个人良心的规范与做法，并不必抛弃无效论证。实际上，同一个无效论证也可以用来支持推行可能与个人良心冲突的政策。基于良心只是私人信念之事、而非行动之事的观念，一些作者论证说，强迫人们遵循某些规则，即便违背其良心，也不构成对其良心自由的侵犯，因此是正当的。例如，托马斯·霍布斯（1651: chapter 40）、巴鲁赫·斯宾诺莎（Spinoza）（1670: chapter 20）与约翰·洛克（1660）就走这条论证路线：他们主张，国家有权为保护社会秩序而强制推行某些做法，即便公民声称这会侵犯其良心。
+    step2: |-
+      无论如何，要证成可能侵犯个人良心的规范与做法，并不必抛弃无效论证。实际上，同一无效论证也可用来支持推行可能与个人良心冲突的政策。既然良心只是私人信念而非行动，一些作者便论证：强迫人们即便违背良心也遵循某些规则，并不构成对其良心自由的侵犯，因而正当。例如托马斯·霍布斯（1651: chapter 40）、巴鲁赫·斯宾诺莎（Spinoza）（1670: chapter 20）与约翰·洛克（1660）即持此路线：国家有权为维护社会秩序而强制推行某些做法，即便公民声称这会侵犯其良心。
+  - id: 74
+    kind: body
+    source: |-
+      b) The “*argument from ignorance”,* which might be better labeled “*argument from humility*”, is based on a skeptical approach to the content of conscience. The possibility exists that what we conscientiously believe is wrong and that those holding conscientious beliefs opposite to ours are right. Therefore, there is a reason for not forcing anyone to believe in something or to engage in behaviors that might turn out to be morally wrong. The argument from ignorance or humility started to be put forward quite frequently, and most prominently by Pierre Bayle (1686–1688), after the Catholic Church lost a significant proportion of its religious and moral authority following the Protestant reform in 16ᵗʰ and 17ᵗʰ Century—which was defined by Keith Thomas (1993) as “the age of conscience”. It was at that time that we assisted to the “secularization of conscience” in the modern era (Strohm 2011)[^strohm-2011], although the phenomenon would be better conceived of as a “re-secularization”, since conscience was not related to the voice or the authority of God in the Greek world.
+    step1: |-
+      b) “*无知论证*”，或许更宜称为“*谦卑论证*”，依据的是对良心内容的怀疑论态度。我们所依良心相信的东西可能是错的，而持相反良心信念的人可能是对的。因此，有理由不强迫任何人相信某事、或从事结果可能在道德上是错误的行为。无知或谦卑论证在 16 与 17 世纪新教改革之后天主教会失去相当比例宗教与道德权威之后，开始被相当频繁地提出，最著名者如皮埃尔·培尔（Pierre Bayle）（1686–1688）——凯斯·托马斯（Keith Thomas）（1993）把这一时期称为“良心的时代”。正是在那时，我们见证到现代“良心的世俗化”（Strohm 2011）[^strohm-2011]；不过这一现象或许更宜设想为“再世俗化”，因为在希腊世界中，良心与上帝的声音或权威并无关联。
+    step2: |-
+      b) “*无知论证*”——或许更宜称“*谦卑论证*”——依据对良心内容的怀疑论态度：我们所依良心相信的可能是错的，持相反良心信念的人可能是对的。因此，有理由不强迫任何人相信某事，或从事结果可能在道德上错误的行为。这一论证在 16、17 世纪新教改革后、天主教会失去相当一部分宗教与道德权威之际开始频出，最著名者为皮埃尔·培尔（Pierre Bayle）（1686–1688）；凯斯·托马斯（Keith Thomas，1993）称此期为“良心的时代”。也正是在那时，我们见证到现代“良心的世俗化”（Strohm 2011）[^strohm-2011]；不过这一现象更宜视为“再世俗化”，因为在希腊世界，良心与上帝的声音或权威并无关联。
+  - id: 75
+    kind: body
+    source: |-
+      The same argument from ignorance or from humility is also put forward by John Locke in his *Second Letter Concerning Toleration*. Locke had to rely on this argument as an alternative strategy to defend freedom of conscience after the Anglican priest Jonas Proast pointed out that compulsion can actually change personal beliefs (as Augustine had argued), and that therefore the argument from ineffectiveness that Locke had used in his first *Letter* fails (Sorabji 2014: 151)[^sorabji-2014].
+    step1: |-
+      同一无知或谦卑论证，也由约翰·洛克在其《第二封论宽容的信》中提出。当圣公会牧师乔纳斯·普罗阿斯特（Jonas Proast）指出，强制实际上可以改变个人信念（如奥古斯丁所论），因而洛克在第一封《信》中使用的无效论证失败时，洛克不得不依靠这一论证，作为捍卫良心自由的替代策略（Sorabji 2014: 151）[^sorabji-2014]。
+    step2: |-
+      约翰·洛克在《第二封论宽容的信》中亦提出同一无知或谦卑论证。圣公会牧师乔纳斯·普罗阿斯特（Jonas Proast）指出，强制实际上能改变个人信念（如奥古斯丁所论），因此洛克在第一封《信》里所用的无效论证失败；洛克只好倚重这一论证，作为捍卫良心自由的替代策略（Sorabji 2014: 151）[^sorabji-2014]。
+  - id: 76
+    kind: body
+    source: |-
+      A version of the argument from ignorance can also be found in contemporary defenses of conscientious objection in an age where pluralism of worldviews is acknowledged and actually supported. For example, Sulmasy appeals to epistemic humility as “true basis of tolerance” (Sulmasy 2008: 144)[^sulmasy-2008] in his arguments in support of a right to conscientious objection in health care.
+    step1: |-
+      在世界观多元得到承认、实际上得到支持的时代，当代为依良心拒绝的辩护中也能找到一种版本的无知论证。例如，Sulmasy 在支持医疗领域依良心拒绝权利的论证中，诉诸认识论的谦卑，视之为“宽容的真正基础”（Sulmasy 2008: 144）[^sulmasy-2008]。
+    step2: |-
+      在世界观多元得到承认、甚至支持的时代，当代为依良心拒绝的辩护中也有一种无知论证的版本。例如 Sulmasy 在支持医疗领域依良心拒绝权利的论证中，诉诸认识论上的谦卑，称之为“宽容的真正基础”（Sulmasy 2008: 144）[^sulmasy-2008]。
+  - id: 77
+    kind: body
+    source: |-
+      c) Finally, the third argument in defense of freedom of conscience is what I have called above the “*argument from legitimization*”. John Stuart Mill (1859) defended freedom of conscience by appealing to the idea that allowing the free expression of any opinion, and particularly mistaken opinions, would allow truth to emerge more clearly and would provide us with a justification for acting upon our own beliefs, once they have been assessed against others’ opinions. As put by Mill,
+    step1: |-
+      c) 最后，为良心自由辩护的第三项论证，是我上文所称的“*正当化论证*”。约翰·斯图尔特·密尔（1859）为良心自由辩护，诉诸这样的观念：允许任何意见——尤其是错误的意见——自由表达，能让真理更清楚地显现，并在我们已把自己的信念与别人意见作过对照之后，为依自己的信念行动提供正当理由。用密尔的话说，
+    step2: |-
+      c) 为良心自由辩护的第三项论证，即上文所称“*正当化论证*”。约翰·斯图尔特·密尔（1859）诉诸这一观念：允许任何意见——尤其是错误意见——自由表达，能让真理更清楚地浮现；而在我们把信念与别人意见对照之后，这也为依自身信念行动提供正当理由。密尔说：
+  - id: 78
+    kind: body
+    source: |-
+      > [c]omplete liberty of contradicting and disproving our opinion, is the very condition which justifies us in assuming its truth for purposes of action; and on no other terms can a being with human faculties have any rational assurance of being right. (Mill 1859: ch. 2)[^mill-1859]
+    step1: |-
+      > 反驳并证伪我们意见的完全自由，正是使我们有理由为行动起见假定其真理性的条件；若不以此条件，具有人类官能的存在者便不能有任何理性的保证说自己是对的。（Mill 1859: ch. 2）[^mill-1859]
+    step2: |-
+      > 完全自由地反驳并证伪我们的意见，正是使我们有理由为行动起见假定其为真的条件；舍此条件，具有人类官能者便不能理性地保证自己正确。（Mill 1859: ch. 2）[^mill-1859]
+  - id: 79
+    kind: body
+    source: |-
+      ### 6.1 Freedom of conscience and conscientious objection today
+    step1: |-
+      ### 6.1 今日的良心自由与依良心拒绝
+    step2: |-
+      ### 6.1 今日的良心自由与依良心拒绝
+  - id: 80
+    kind: body
+    source: |-
+      Freedom of conscience is today protected by the United Nations Universal Declaration of Human Rights, which reads: “Everyone has the right to freedom of thought, conscience and religion” (art. 18).
+    step1: |-
+      良心自由今日受《联合国世界人权宣言》保护，其第 18 条规定：“人人有权享有思想、良心与宗教的自由。”
+    step2: |-
+      良心自由今日受《联合国世界人权宣言》保护，其第 18 条称：“人人有权享有思想、良心与宗教的自由。”
+  - id: 81
+    kind: body
+    source: |-
+      According to Strohm, this article should not be taken to imply freedom to act according to one’s conscience, but it only refers to “matters of inward conviction” (Strohm 2011: 88)[^strohm-2011]. If this interpretation is correct, article 18 does not seem to raise any interesting philosophical or practical problem today, as very few people today would deny freedom in matters of *inward* conviction. More problematic is the moral and political debate about the freedom to *act*, or to *refrain from acting*, according to one’s conscience, especially where there are professional roles or legal obligations that would demand otherwise. In fact, appeals to conscience and freedom of conscience are often deployed to claim and justify “conscientious objection” to certain activities that someone would otherwise be required to perform.
+    step1: |-
+      据 Strohm，这一条不应被理解为按自己良心行动的自由，它只指“内心信念之事”（Strohm 2011: 88）[^strohm-2011]。如果这一解释正确，第 18 条今天似乎不会引出任何有趣的哲学或实践问题，因为今天极少有人会否认 *内心* 信念方面的自由。更有争议的是关于按自己良心 *行动* 或 *不行动* 之自由的道德与政治争论，尤其是在有职业角色或法律义务要求相反作为的地方。事实上，诉诸良心与良心自由，常被用来主张并证成对某些否则会被要求去做的活动的“依良心拒绝”。
+    step2: |-
+      据 Strohm，这一条不应理解为按良心行动的自由，只指“内心信念之事”（Strohm 2011: 88）[^strohm-2011]。若此解正确，第 18 条今天似乎引不出什么有趣的哲学或实践问题——今天极少有人会否认 *内心* 信念方面的自由。更有争议的是关于按良心 *行动* 或 *不行动* 之自由的道德与政治争论，尤其当职业角色或法律义务要求相反作为时。事实上，诉诸良心与良心自由，常被用来主张并证成对某些否则须做的活动的“依良心拒绝”。
+  - id: 82
+    kind: body
+    source: |-
+      One example is conscientious objection to the military service where conscription is in place. Although originally conscientious objection to war was mainly a religious issue (the Quakers were the most famous group of conscientious objectors to war), in more recent times the objection to war has been put forward and granted without explicit reference to any religious justification (Moskos and Chamber 1993)[^moskos-1993].
+    step1: |-
+      一个例子是在实行义务兵役制的地方对兵役的依良心拒绝。虽然最初对战争的依良心拒绝主要是宗教问题（贵格会信徒（Quakers）是最著名的反战良心拒服群体），但较近以来，对战争的拒绝是在不明确援引任何宗教理由的情况下提出并获得准许的（Moskos and Chamber 1993）[^moskos-1993]。
+    step2: |-
+      一例是在实行义务兵役制之地对兵役的依良心拒绝。最初，反战的依良心拒绝主要是宗教问题（贵格会信徒（Quakers）是最著名的反战拒服群体）；较近以来，对战争的拒绝已在不援引宗教理由的情况下提出并获准（Moskos and Chamber 1993）[^moskos-1993]。
+  - id: 83
+    kind: body
+    source: |-
+      As most States have now abolished conscription, appeals to freedom of conscience and to conscientious objection today can be found mainly in debates in medical ethics with regard to health practitioners who conscientiously object to performing medical procedures they morally oppose, such as abortions (for overviews of the debate in medical ethics, see Wicclair 2011; Wester 2015)[^wester-2015][^wicclair-2011].
+    step1: |-
+      由于多数国家如今已废除义务兵役制，今日诉诸良心自由与依良心拒绝，主要见于医疗伦理的争论：医疗从业者依良心拒绝施行他们在道德上反对的医疗程序，如堕胎（关于医疗伦理争论的综述，见 Wicclair 2011; Wester 2015）[^wester-2015][^wicclair-2011]。
+    step2: |-
+      多数国家如今已废义务兵役制，故今日诉诸良心自由与依良心拒绝，主要见于医疗伦理之争：医疗从业者依良心拒绝施行其道德上反对的程序，如堕胎（综述见 Wicclair 2011; Wester 2015）[^wester-2015][^wicclair-2011]。
+  - id: 84
+    kind: body
+    source: |-
+      According to those who are against a right to conscientious objection, professional obligations trump any value conscience might have and any principle that might justify conscientious objection *qua conscientious* (e.g., Giubilini, Schuklenk, Minerva, and Savulescu 2025; Savulescu and Schuklenk 2017)[^savulescu-2017]; according to defenders of conscientious objection, professionals’ conscience must be protected to the largest extent possible, i.e., up to the point where respecting conscience would significantly jeopardize physical or psychological health of patients (e.g., Sulmasy 2008; Wicclair 2011)[^sulmasy-2008][^wicclair-2011], a compromise that, depending on circumstances—for example a too high percentage of objecting practitioners which would make it nearly impossible to refer patients to non-objecting doctors—might be very difficult to achieve (Minerva 2015)[^minerva-2015]. Between these two stances, there are positions that are neither for nor against conscientious objection in principle, but pose tighter restrictions to those who advance conscientious objection (McLeod 2020)[^mcleod-2020], for example the requirement to provide reasons for the objection, and to submit such reasons to public scrutiny or experts’ assessment of the reasonability of one’s objection (Card 2007, Card 2020)[^card-2007][^card-2020], or the qualification that objection can only be justified if consistent with the internal values of the profession (Wicclair 2000; Deans 2013)[^deans-2013][^wicclair-2000].
+    step1: |-
+      按反对依良心拒绝权利者，职业义务压倒良心可能具有的任何价值，也压倒任何可能仅 *因为* 依良心而证成依良心拒绝的原则（例如 Giubilini, Schuklenk, Minerva, and Savulescu 2025; Savulescu and Schuklenk 2017）[^savulescu-2017]；按依良心拒绝的辩护者，专业人士的良心必须受到尽可能大程度的保护，即保护到尊重良心会显著危及患者身心健康的临界点（例如 Sulmasy 2008; Wicclair 2011）[^sulmasy-2008][^wicclair-2011]；这一折中视情形而定，可能极难实现——例如拒绝者比例过高，会使把患者转诊给不拒绝的医生几乎不可能（Minerva 2015）[^minerva-2015]。在这两种立场之间，还有一些立场既不原则上支持也不原则上反对依良心拒绝，而是对主张依良心拒绝者施加更严格的限制（McLeod 2020）[^mcleod-2020]，例如要求为拒绝提供理由、并把这类理由提交公共审查或由专家评估其合理性（Card 2007, Card 2020）[^card-2007][^card-2020]，或附加限定：拒绝只有在与该职业内在价值一致时才可证成（Wicclair 2000; Deans 2013）[^deans-2013][^wicclair-2000]。
+    step2: |-
+      反对依良心拒绝权利者认为：职业义务压倒良心可能有的任何价值，也压倒任何可能仅 *因* 其依良心而证成拒绝的原则（如 Giubilini, Schuklenk, Minerva, and Savulescu 2025; Savulescu and Schuklenk 2017）[^savulescu-2017]。辩护者则认为：专业人士的良心应受尽可能大的保护，直至尊重良心会显著危及患者身心健康的临界点（如 Sulmasy 2008; Wicclair 2011）[^sulmasy-2008][^wicclair-2011]；这一折中因情形而异，可能极难达成——比如拒绝者比例过高，把患者转诊给不拒绝的医生几无可能（Minerva 2015）[^minerva-2015]。两立场之间另有若干立场：既不原则上支持也不原则上反对依良心拒绝，而是对其主张者施加更严限制（McLeod 2020）[^mcleod-2020]——例如要求给出拒绝理由，并交公共审查或由专家评估其合理性（Card 2007, Card 2020）[^card-2007][^card-2020]；或附加条件：拒绝须与该职业的内在价值一致方可证成（Wicclair 2000; Deans 2013）[^deans-2013][^wicclair-2000]。
+  - id: 85
+    kind: body
+    source: |-
+      However, if it is the validity or the soundness of the reasons provided which is considered relevant for the justification of conscientious objection, it seems that the value of conscience and the principle of freedom of conscience are no longer at stake. What makes an objection good or bad, acceptable or unacceptable, has nothing to do with its being conscientious, unless we add a “genuineness requirement” (e.g., Meyers and Woods 1996)[^meyers-1996] to an assessment of the legitimacy of a conscientious objection, whereby professionals need to demonstrate that the moral beliefs at stake are deeply and sincerity held. The interesting question in this case would be whether a test can be devised that can reliably track genuine conscientious objections.
+    step1: |-
+      然而，如果被认为与依良心拒绝的证成相关的是所给理由的有效性或健全性，那么良心的价值与良心自由原则似乎就不再是争点。一项拒绝是好是坏、可接受与否，与其是否依良心无关——除非我们给依良心拒绝之正当性的评估加上一项“真诚性要求”（例如 Meyers and Woods 1996）[^meyers-1996]，要求专业人士证明所涉道德信念是深刻而真诚地持有的。在此情形中，有趣的问题将是：能否设计出一种可靠追踪真正依良心拒绝的检验。
+    step2: |-
+      然而，若与依良心拒绝的证成相关的其实是所给理由的有效性或健全性，那么良心的价值与良心自由原则似乎就不再是争点。一项拒绝的好与坏、可接受与否，与其是否依良心无关——除非给正当性评估再加一项“真诚性要求”（如 Meyers and Woods 1996）[^meyers-1996]，要专业人士证明所涉道德信念深刻而真诚。此时有趣的问题便是：能否设计出一种可靠追踪真正依良心拒绝的检验。
+  - id: 86
+    kind: body
+    source: |-
+      ## 7. Conclusion
+    step1: |-
+      ## 7. 结论
+    step2: |-
+      ## 7. 结论
+  - id: 87
+    kind: body
+    source: |-
+      There is no such a thing as *the* notion of conscience, both in a philosophical and in a psychological sense. As we have seen, the concept of conscience has been given different interpretations throughout history, sometimes on the basis of underlying systematic philosophical theories of the mind and of morality, and sometimes serving religious or political purposes.
+    step1: |-
+      无论在哲学意义还是心理学意义上，都不存在 *唯一的* 良心概念。如我们所见，良心概念在历史上被赋予不同的解释，有时基于心灵与道德的底层系统哲学理论，有时则服务于宗教或政治目的。
+    step2: |-
+      无论在哲学还是心理学意义上，都不存在 *唯一的* 良心概念。如我们所见，良心概念在历史上被赋予不同解释：有时基于关于心灵与道德的底层系统哲学理论，有时则服务于宗教或政治目的。
+  - id: 88
+    kind: body
+    source: |-
+      This lack of uniformity is not only a problem for historians and theoretical philosophers. Because it cannot be immediately clear what we are talking about when we talk of conscience, of freedom of conscience, or of conscientious objection, it is important that clarity is made every time conscience is appealed to in different branches of applied philosophy (particularly medical ethics) and in public debates alike.
+    step1: |-
+      这种缺乏统一性，不只是历史学家与理论哲学家的问题。因为当我们谈论良心、良心自由或依良心拒绝时，不可能立刻清楚我们在谈什么，所以每当应用哲学的不同分支（尤其是医疗伦理）与公共争论中诉诸良心时，都必须作出澄清。
+    step2: |-
+      这种不统一，不只是史家与理论哲学家的问题。我们谈良心、良心自由或依良心拒绝时，未必立刻清楚在谈什么；因此，每当应用哲学各分支（尤其医疗伦理）与公共争论诉诸良心，都必须加以澄清。
+  - id: 89
+    kind: body
+    source: |-
+      This entry has presented a conceptual map, rather than a historical account, of conscience, which can provide some guidance for those engaged in this clarificatory task. One of the benefits of clarifying concepts, and clarifying them in the different circumstances in which they are used, is their subsequent demystification.
+    step1: |-
+      本文呈现的是良心的概念地图，而非历史叙述；它可为从事这一澄清工作的人提供一些指引。澄清概念——并在概念被使用的不同情境中加以澄清——的好处之一，是随之而来的祛魅。
+    step2: |-
+      本文呈现的是一幅良心的概念地图，而非历史叙述，可为从事澄清工作者提供一些指引。澄清概念——并在其被使用的不同情境中澄清——的好处之一，是随之而来的祛魅。
+  - id: 90
+    kind: body
+    source: |-
+      Conscience needs to be demystified, since it is one of those concepts that tend to elicit reverence rather than questions or an interest in further inquiry. As seen above, appeals to conscience often replace reason giving and are made with the expectation that no further reason for one’s decisions and positions is requested. This attitude is also displayed in many legislative approaches dealing with the notion of conscience; in particular, legislations about conscientious objection in health care typically grant doctors a right to object to performing certain professional activities (e.g., conscientious objection to abortion) without requiring them to provide reasons for their objection, let alone submitting reasons to some form of assessment.
+    step1: |-
+      良心需要祛魅，因为它属于那种容易引起敬畏、而不引起追问或进一步探究兴趣的概念之一。如上文所见，诉诸良心常常取代说理，并且带着这样的期待：人们不会再要求为自己的决定与立场给出进一步理由。这种态度也见于许多处理良心概念的立法进路；特别是关于医疗领域依良心拒绝的立法，通常赋予医生拒绝施行某些职业活动的权利（例如依良心拒绝堕胎），而不要求他们为拒绝提供理由，更不用说把理由提交某种评估。
+    step2: |-
+      良心需要祛魅：它属于那种易招敬畏、却不易招来追问或探究兴趣的概念。如上文所见，诉诸良心常取代说理，且带着这样的期待——别再要求为自己的决定与立场给出进一步理由。许多处理良心概念的立法进路也显出这一态度；尤其是医疗领域关于依良心拒绝的立法，通常赋予医生拒绝施行某些职业活动的权利（如依良心拒绝堕胎），而不要求给出理由，遑论把理由交某种评估。
+  - id: 91
+    kind: body
+    source: |-
+      This entry has distinguished four main understandings of conscience, drawing on the philosophical tradition of the concept. Whether the concept is to be understood as a faculty for self-knowledge and self-assessment, or as having an epistemic function in the sphere of morality, or as a motivational force, or again as a set of self-identifying moral beliefs, or a combination of any of these characterizations, it is important to have clear in mind what exactly we are talking about when we talk of conscience and of freedom of conscience in each circumstance.
+    step1: |-
+      本文借助该概念的哲学传统，区分了良心的四种主要理解。无论这一概念应被理解为自我认识与自我评价的官能，还是被理解为在道德领域具有认识论功能，还是被理解为一种动机力量，还是被理解为一组自我认同的道德信念，抑或这些刻画中任何几种的组合，重要的是在每个情境中清楚地意识到：我们谈良心、谈良心自由时，究竟在谈什么。
+    step2: |-
+      本文借助该概念的哲学传统，区分了良心的四种主要理解。无论把它理解为自我认识与自我评价的官能、道德领域具有认识论功能者、一种动机力量，还是一组自我认同的道德信念，抑或上述诸种刻画之组合，重要的是在每个情境中都清楚：我们谈良心、谈良心自由时究竟在谈什么。
+  - id: 92
+    kind: body
+    source: |-
+      Far from being a conversation-stopper, conscience can only find its proper place in philosophical and in public discussion if its philosophical and psychological aspects are teased out, defined and assessed. Appeals to conscience can only be part of philosophical, political, and legal discussion if they are seen as the start, not the end of discussions.
+    step1: |-
+      良心远不是谈话的终结者；只有把它的哲学方面与心理学方面梳理出来、加以界定与评估，良心才能在哲学与公共讨论中找到自己的恰当位置。只有当诉诸良心被视为讨论的开端而非终结时，它才能成为哲学、政治与法律讨论的一部分。
+    step2: |-
+      良心远不是谈话的终结者；唯有把其哲学与心理学方面梳理清楚、加以界定与评估，良心才能在哲学与公共讨论中占据恰当位置。诉诸良心只有被视为讨论的开端而非终点，才能成为哲学、政治与法律讨论的一部分。
+  - id: 93
+    kind: oir
+    source: |-
+      - [Uehiro Centre for Practical Ethics YouTube Channels](https://www.youtube.com/channel/UCk2P1JGcQvli4Ny4hfecKVw), with some interviews to philosophers and ethicists about conscience and conscientious objection in healthcare
+    step1: |-
+      - [上广实践伦理中心（Uehiro Centre for Practical Ethics）YouTube 频道](https://www.youtube.com/channel/UCk2P1JGcQvli4Ny4hfecKVw)，其中有对哲学家与伦理学家关于医疗领域良心与依良心拒绝的若干访谈
+    step2: |-
+      - [上广实践伦理中心（Uehiro Centre for Practical Ethics）YouTube 频道](https://www.youtube.com/channel/UCk2P1JGcQvli4Ny4hfecKVw)，收录若干访谈，谈医疗领域中的良心与依良心拒绝
