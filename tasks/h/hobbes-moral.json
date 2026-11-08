@@ -2,7 +2,7 @@
   "slug": "hobbes-moral",
   "kind": "retranslate",
   "zh_doc": "h/hobbes-moral.md",
-  "state": "cleared",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,41 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:35:11Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "H-main-20261109",
+      "at": "2026-11-08T23:06:44Z",
+      "evidence": "初译（ADR-0021 段落账本，主会话直译，模型 tierflow_pro 主会话，temperature 0.2，batch=all 无限流）：35 段双版落盘（body 34 = 导语+11 节标题+22 段正文；oir 1，分三批 p1-p3），lq check 35/35 守恒 HARD=0（SOFT 留痕：11 个标题机械段 step1==step2、斜体→书名号计数差属正常）；compose 写回 28915 字符；11 节标题齐全、144 条文献 defs 照录、学术工具四行 + OIR + 相关词条 + 译注齐"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "H-main-20261109",
+      "at": "2026-11-08T23:06:45Z",
+      "evidence": "一校（准确性）逐节对照 yuanwen/h/hobbes-moral.md：H2 15:15、H3 3:3、文献 defs 144:144 全等；正文外文残留仅人名括注（Thomas Hobbes/John Locke/Molesworth/Warrender/Malcolm/Cromartie/Skinner）与章节号（XIII/xlii），无未译碎片；年数抽核全等（0 差异：1650/1642/1651/1668/1679/1655/1658/1681/1656/1839–45/26/3/11/5）；实修 8 处：①the fearsome state of nature 原误「祖先状态」→「自然状态」（Critical 级）；②no place for industry 原「劳动没有市场」→「没有产业发展的余地」；③masterlesse men 补出「无主之人」；④dissolute 改「放纵境况」；⑤Hobbes's near descendant 改「思想上近支后学」；⑥state of perfectly private judgment 句重构；⑦规范假设句重排；⑧5 处长句/叠词表述校准"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "H-main-20261109",
+      "at": "2026-11-08T23:06:45Z",
+      "evidence": "二校（语言）：check_prose 19→1，实修 18 处——长句拆分 5（导语社会契约句/主权权利句/责任理论句 109 字/宗教相容句 76 字/前一种讲法句 89 字）、de-chain 10（的 密度，含「方法上的革新…建设性影响」等三连）、weak-verb 3（作出判断错误/作出导致战争的行为→走向战争）、passive-bei 1（家庭被说成→家庭里的角色只说）；余 1 条为直引内部（「和平是善的…也是善的」），按 ADR-0020 引文内部豁免留判读依据"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "H-main-20261109",
+      "at": "2026-11-08T23:06:52Z",
+      "evidence": "三校（体例）：check_style --docs --strict 0 issue；check_math 0 缺式 0 失衡；check_summary H1 mismatch 0；check_academic --strict 0 硬错误（在途豁免随状态推进解除后复跑仍 0）；check_terms 硬错误 0，本词条登记术语 19 行（自然状态/自然法/自然权利/绝对主义/心理利己主义/规则利己主义/投射主义/授权/国家/战争状态/建制主权/取得主权/家长制主义/信约/猜忌/虚荣等）+ 人名 3 行（菲尔默/布拉姆霍尔/莫尔斯沃思）；URL 对位：en 9 vs zh 8，差一为学术工具表 PhilPapers 双链合成 v1.3 模板单链；refs 转换器契约注记照录（源文同构）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "H-main-20261109",
+      "at": "2026-11-08T23:23:40Z",
+      "evidence": "初审（冷置回读，间隔逾三小时、中途他条目作业）：全文 247 行分三段回读，十一节论证链（主要著作→哲学规划→自然状态→战争状态→再问→自然法→主权建立→绝对主义→责任与限度→宗教→性别与种族）顺序与源文一致；回读修订 1 处（「受规则约束的议会这样的拟制人格」三连「的」改并列句式；「祖先状态」Critical 已在一校修）；标题与正文层级、文献区、学术工具、OIR、相关词条、译注齐备，无孤立定义异常（144 defs 源文同构）"
     }
   ],
   "blockers": [],
