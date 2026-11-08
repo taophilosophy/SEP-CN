@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-08 09:33（UTC）
+生成时间：2026-11-08 09:48（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1033|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|211|
-|在途（drafted 起、done 前）|230|
+|已完成（done）|212|
+|在途（drafted 起、done 前）|229|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,11 +23,11 @@
 |状态|数量|
 |---|---|
 |pending|592|
-|cleared|162|
+|cleared|161|
 |drafted|4|
 |s3_checked|63|
 |r2_reviewed|1|
-|done|211|
+|done|212|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -37,7 +37,7 @@
 |B|62|62|62|15|
 |C|172|172|172|4|
 |D|92|92|92|11|
-|E|99|99|99|18|
+|E|99|99|99|19|
 |F|96|96|96|1|
 |G|49|49|49|1|
 |H|61|61|61|9|
@@ -176,7 +176,6 @@
 |disability-care-rationing|retranslate|s3_checked|D-main-20261108 2026-11-08|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |du-bos|retranslate|s3_checked|主代理 2026-11-01|
-|erotic-art|retranslate|cleared|task_ops 2026-11-08|
 |frame-problem|retranslate|cleared|task_ops 2026-11-06|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |galen|retranslate|cleared|task_ops 2026-11-01|
