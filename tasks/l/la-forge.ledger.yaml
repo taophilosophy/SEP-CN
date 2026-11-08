@@ -187,146 +187,194 @@ segments:
     kind: body
     source: |-
       Assuming that the motions and interactions of parts of matter are sufficient to explain the human body, La Forge acknowledges that the explanatory enterprise must be hypothetical, and that hypotheses cannot be restricted to what is visible to the naked eye.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      假定物质各部分的运动与相互作用足以解释人体，拉弗尔热承认这一解释事业必定是假设性的，而且假设不能局限于肉眼可见之物。
+    step2: |-
+      拉弗尔热假定物质各部分的运动与相互作用足以解释人体，同时承认解释事业必定带有假设性质，而假设又不能局限于肉眼可见之物。
   - id: 24
     kind: body
     source: |-
       > We would be very ignorant if we had to doubt everything that we do not see … one surely sees that the Sun and the Moon are sometimes in the East … and sometimes in the West, but one has never seen them move there; nevertheless almost no one doubts their movement. (*H* 217)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 若我们非得怀疑一切未见之物，那就太无知了……人们确实看到太阳和月亮有时在东……有时在西，却从未见它们在那里移动；然而几乎无人怀疑它们的运动。（*H* 217）
+    step2: |-
+      > 倘若凡未见者皆须怀疑，我们便太无知了……人确实看见日月有时在东……有时在西，却从未见其移往彼处；然而几乎无人怀疑它们在运动。（*H* 217）
   - id: 25
     kind: body
     source: |-
       For similar reasons, one should not reject Descartes’ assumptions about parts of matter in motion in the human body (such as animal spirits or the nerves) simply because, given their size, they are unobservable. Although Descartes and La Forge were attempting to describe parts of the human body and their motions before the invention of the microscope, the methodological issue involved would not have changed even if the threshold of observability had been modified by optical instruments: the Cartesian theory of explanation supported the postulation of unobservable particles of matter to explain visible effects whenever they were thought necessary. Their explanatory role justified their hypothetical postulation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      出于类似的理由，人们不应仅仅因为笛卡儿关于人体内运动物质微粒（如动物精气或神经）的假设在尺寸上不可观察，就加以拒斥。尽管笛卡儿与拉弗尔热是在显微镜发明之前试图描述人体各部位及其运动，但即便光学仪器改变了可观察性的阈值，所涉及的方法论问题也不会改变：笛卡儿式解释理论支持在认为必要时设定不可观察的物质微粒，以解释可见结果。它们的解释作用证明了这种假设性设定的正当性。
+    step2: |-
+      同理，也不应仅因笛卡儿关于人体内运动物质微粒（如动物精气或神经）的假设尺寸微小、不可观察，便予拒斥。笛卡儿与拉弗尔热描述人体各部分及其运动时，显微镜尚未发明；但纵使光学仪器改变了可观察性的门槛，其中的方法论问题依然如故：笛卡儿式解释理论主张，只要认为必要，便可设定不可观察的物质微粒来解释可见结果。正是其解释作用，使这种假设性设定获得正当性。
   - id: 26
     kind: body
     source: |-
       This required La Forge to address the topical question about how, and the extent to which, explanatory hypotheses may be confirmed. He offered the same solution that was supported by other natural philosophers in the seventeenth century, such as Robert Boyle or Christiaan Huygens:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这要求拉弗尔热处理一个当时的热门问题：解释性假设如何、以及在多大程度上能得到确认。他给出的方案与 17 世纪其他自然哲学家（如罗伯特·波义耳或克里斯蒂安·惠更斯）所支持者相同：
+    step2: |-
+      这就要求拉弗尔热回应当时一个热门问题：解释性假设如何、又在多大程度上能够得到确认。他所给的方案，与罗伯特·波义耳、克里斯蒂安·惠更斯等 17 世纪自然哲学家所主张者相同：
   - id: 27
     kind: body
     source: |-
       > However, hypotheses are not only probable but also indubitable when they explain something very clearly and easily, when our senses do not contradict them, when reason shows that the phenomenon in question could not occur otherwise and it is deduced from principles that are certain, and when the hypotheses serve not only to explain one single effect but many different and even distinct effects; for it would be impossible for hypotheses not to be found defective in some situation if they were not true. (*H* 218)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 然而，假设不仅或然，而且确实无疑：当它们十分清楚、轻易地解释某事，当我们的感官不与之矛盾，当理性表明所论现象不可能以别的方式发生、且该假设由确定的原则推出，当假设不仅解释单一结果而且解释许多不同甚至相异的结果；因为假设若不真，便不可能在某种情形下不显出缺陷。（*H* 218）
+    step2: |-
+      > 然而假设不仅或然，而且确实无疑：只要它们对某事的解释十分清楚、轻易，感官不与之相悖，理性表明所论现象舍此无由发生、且假设由确定原则推出，并且假设不仅解释单一结果，还能解释许多不同乃至相异的结果；因为假设若不真，迟早必在某种情形下露出破绽。（*H* 218）
   - id: 28
     kind: body
     source: |-
       Although he exaggerated the degree of certainty that could be legitimately claimed for his hypotheses, La Forge did not claim explicitly that all explanations must be mechanical. He is best understood as contrasting the emptiness of scholastic explanations, which were certain but non-explanatory, with the epistemic risks involved in postulating hypotheses that were at least intelligible (since they involved only pieces of matter in motion) and were confirmed indirectly by their explanatory success. The limited choices available among physiological explanations at that time (either scholastic faculties, or matter in motion) did not imply any conclusion about how the discipline could develop at a later time.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管他夸大了自己的假设可以正当主张的确定程度，拉弗尔热并未明确声称一切解释都必须是机械的。最好的理解是：他把经院式解释的空洞——确定却无解释力——与设定至少可理解的假设（因为只涉及运动中的物质微粒）所承担的认知风险相对照，而这些假设又通过解释上的成功得到间接确认。当时生理学解释的选择有限（要么经院官能，要么运动中的物质），这并不蕴含关于该学科日后如何发展的任何结论。
+    step2: |-
+      拉弗尔热夸大了自家假设所能正当主张的确定程度，但他并未明言一切解释都必属机械。较妥当的理解是：他将经院式解释的空洞——虽确定却无解释力——与设定至少可理解的假设所担的认知风险两相对照；这类假设只涉及运动中的物质微粒，又凭解释上的成功获得间接确认。当时生理学解释可选项有限（非经院官能，即运动中的物质），但这并不蕴含该学科日后如何发展的任何结论。
   - id: 29
     kind: body
     source: |-
       ## 3. Substance Dualism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 实体二元论
+    step2: |-
+      ## 3 实体二元论
   - id: 30
     kind: body
     source: |-
       La Forge was among the first commentators to attribute to Descartes an unambiguous dualism of mind and body. He defined a substance as ‘a thing in which some property, quality or attribute (of which we have a real idea in ourselves) resides immediately as in a subject and by which it exists’ (*H* preface ù3). His *Remarks* were designed to extend the explanatory scope of the machine model of the body to include all the actions of non-human animals and, in the case of the human body, to explain how ideas arise in the brain, how they are stored in memory, and how they are re-activated in the imagination. Accordingly, he initially used the word ‘idea’, as Descartes had done, to refer to the brain-states that are associated with the occurrence of thoughts in the mind (*H* 262), and he defined memory as the physical capacity of the brain to facilitate the repeated occurrence of such traces. Since the relevant brain-events were understood as patterns in the flow of animal spirits, memory was explained as an acquired disposition of the paths through which animal spirits flowed to re-open on subsequent occasions when appropriately stimulated (Sutton 1998)[^sutton-1998].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      拉弗尔热是最早把心灵与身体的明确二元论归于笛卡儿的评注者之一。他把实体定义为“这样一种东西：某种性质、品质或属性（我们在自身中对之有真实观念）直接寓于其中，如同寓于一个主体，实体借之而存在”（*H* 序言 ù3）。他的《评注》旨在把身体机器模型的解释范围扩展到非人动物的一切行为，并就人体而言，解释观念如何在脑中产生、如何储存于记忆、如何在想象中重新激活。因此，他最初像笛卡儿那样，用“观念”一词指与心中思想发生相关联的大脑状态（*H* 262），并把记忆定义为大脑促成此类痕迹反复出现的物理能力。由于相关大脑事件被理解为动物精气流动的样式，记忆便被解释为动物精气所经路径的一种习得性倾向：日后受到适当刺激时，这些路径会重新打开（Sutton 1998）[^sutton-1998]。
+    step2: |-
+      拉弗尔热是最早明确把心灵与身体的二元论归于笛卡儿的评注者之一。他这样界定实体：“某种性质、品质或属性（我们在自身中对之有真实观念）直接寓于其中，如同寓于主体，实体即凭之而存在”（*H* 序言 ù3）。其《评注》意在把身体机器模型的解释范围扩至非人动物的一切行为；就人体而言，则要解释观念如何在脑中产生、如何存入记忆、又如何在想象中重新激活。故他起初沿用笛卡儿的用法，以“观念”指与心中思想之发生相连的大脑状态（*H* 262），并把记忆界定为大脑促成此类痕迹反复出现的物理能力。相关大脑事件被理解为动物精气流动的样式，于是记忆便得到这样的解释：动物精气所经的路径获得一种习得性倾向，日后受到适当刺激便会重新打开（Sutton 1998）[^sutton-1998]。
   - id: 31
     kind: body
     source: |-
       > Memory, which consists in nothing else, when considered from the perspective of the body, than the facility which remains in the pores [of the brain] which had been opened previously to re-open subsequently. (*H* 304; cf. *T* 280–81: *THM* 178)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 记忆，从身体的角度看，不外乎先前已经打开的[大脑]孔隙中留存下来的便利，使它们日后能够重新打开。（*H* 304；参 *T* 280–81: *THM* 178）
+    step2: |-
+      > 从身体方面看，记忆不是别的，就是先前开启的[大脑]孔隙中留下的便利，使其日后得以重新开启。（*H* 304；参 *T* 280–81: *THM* 178）
   - id: 32
     kind: body
     source: |-
       This Cartesian use of the term ‘idea’ was ambiguous, since it referred to thoughts in the mind and the brain-states that accompany them. For that reason, La Forge decided in the *Treatise* to restrict the use of the term to thoughts, and to rename physical ideas in the brain as ‘corporeal species’ (*T* 158, 256; *THM* 77, 159).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种笛卡儿式的“观念”用法有歧义，因为它既指心中的思想，又指伴随这些思想的大脑状态。因此，拉弗尔热在《论人的心灵》中决定把该词限用于思想，而把脑中的物理观念改称为“形体种相”（*T* 158, 256; *THM* 77, 159）。
+    step2: |-
+      笛卡儿这种“观念”用法含义含混：既指心中的思想，又指伴随思想的大脑状态。有鉴于此，拉弗尔热在《论人的心灵》中把该词限用于思想，而将脑中的物理观念改称“形体种相”（*T* 158, 256; *THM* 77, 159）。
   - id: 33
     kind: body
     source: |-
       According to this theory, the delicate fluid material called ‘animal spirits’ functions in a quasi-hydraulic machine (*T* 279; *THM* 177). Impressions on the external senses are transmitted to the ‘common sense’ in the brain, and the patterns in which animal spirits emerge from the brain in response to external stimuli are corporeal species. All voluntary or involuntary bodily actions, such as walking or blinking, are explained by the motion of animal spirits from the brain to the muscles, while internal sensations (such as hunger or thirst) are likewise experienced by the subject as a result of associated motions of animal spirits in the opposite direction, from other parts of the body to the brain. Even the passions or emotions are triggered by similar mechanisms. Thus everything that occurs in a human body may be explained by the motion of various kinds of matter in its various parts (e.g., the brain, nervous system, or the veins and arteries). The only exception in human nature to this type of physiological explanation, i.e., thought, was reserved exclusively to the mind.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按照这一理论，被称为“动物精气”的精细流体物质在一部准水压机器中发挥作用（*T* 279; *THM* 177）。外部感官上的印象被传送到脑中的“共同感官”，而动物精气受外部刺激后从脑中涌出的样式，就是形体种相。一切自愿或非自愿的身体动作，如行走或眨眼，都由动物精气从大脑流向肌肉来解释；内部感觉（如饥饿或口渴）同样由动物精气沿相反方向、从身体其他部位流向大脑的相关运动而被主体体验到。甚至激情或情感也由类似机制触发。于是，人体中发生的一切都可由各种物质在其各部位（如大脑、神经系统或静脉与动脉）中的运动来解释。人性中唯一不属于这类生理解释的例外，即思想，则专属于心灵。
+    step2: |-
+      按此理论，名为“动物精气”的精细流体物质在一部准水压式的机器中运作（*T* 279; *THM* 177）。外部感官的印象传至脑中的“共同感官”；动物精气应外部刺激自脑中涌出的样式，便是形体种相。一切自愿或不自愿的身体动作，如行走、眨眼，均以动物精气自脑流向肌肉来解释；内部感觉（如饥饿、口渴）亦如此：动物精气反向流动，自身体他处入脑，主体遂有此感。甚至激情或情感也由类似机制触发。于是，人体内发生的一切，都可由各种物质在脑、神经系统、静脉与动脉等部位中的运动来解释。人性中唯一不属此类生理解释者，即思想，则专归心灵。
   - id: 34
     kind: body
     source: |-
       La Forge began the *Traité* (1666) with a lengthy preface in which he compared Descartes’ theory of the human mind with that of Augustine, from whom he quoted extensively to show that the mind is a distinct substance that is immaterial and survives the death of the body. This immaterial substance has two characteristic properties, by which alone it is known: understanding and willing. The understanding can generate ideas or conceptions of realities that have never been observed or imagined, and to that extent it is independent of the human body. Pure understanding ‘is a faculty which is independent of the body in the same way as the will is’ (*T* 292; *THM* 188).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      拉弗尔热以一篇长序开始《论人的心灵》（1666）；序中他把笛卡儿的人类心灵理论与奥古斯丁的理论相比较，并大量引用奥古斯丁，以表明心灵是一种独特的实体，它非物质，且在身体死后继续存在。这种非物质实体有两个特征属性，且仅凭它们而被认识：理解与意欲。理解能产生从未被观察或想象过的实在之观念或概念，就此而言它独立于人体。纯粹理解“是一种如同意志一样独立于身体的官能”（*T* 292; *THM* 188）。
+    step2: |-
+      《论人的心灵》（1666）以一篇长序开篇。拉弗尔热在序中把笛卡儿的人类心灵理论与奥古斯丁相较，并广引奥古斯丁，以证心灵乃一独特实体，非物质，且能于身体死后继续存在。这一非物质实体有两个特征属性，人也只凭它们认识它：理解与意欲。理解能生成从未被观察或想象过的实在之观念或概念，就此而言独立于人体。纯粹理解“是一种如同意志一样独立于身体的官能”（*T* 292; *THM* 188）。
   - id: 35
     kind: body
     source: |-
       Thus ideas originate in the mind in two distinct ways: in one case, they are triggered by sensations, and in the other they arise without any corresponding bodily stimulus. However, La Forge also repeated Descartes’ theory of the origin of ideas, according to which all ideas are innate (in some sense) in the mind. He identified the ‘principal and effective’ cause of ideas as the mind, while bodily sensations were described as the ‘remote and occasional’ causes of some ideas. The argument here seemed to depend on the dissimilarity between the body and the mind:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，观念以两种不同方式在心中产生：一种由感觉触发，另一种则无任何相应的身体刺激而产生。然而，拉弗尔热也重述了笛卡儿关于观念起源的理论：一切观念都在某种意义上是心灵中固有的。他把观念的“主要而有效”的原因认定为心灵，而把身体感觉描述为某些观念的“遥远而偶因的”原因。这里的论证似乎依赖身体与心灵之间的不相似：
+    step2: |-
+      观念之生于心，因而有两条途径：一由感觉触发，一则无任何相应身体刺激而自生。不过，拉弗尔热也重述了笛卡儿的观念起源论：一切观念在某种意义上都为心灵所固有。他判定观念的“主要而有效”之因是心灵，而把身体感觉说成某些观念的“遥远而偶因的”原因。此处论证似乎立足于身体与心灵的不相似：
   - id: 36
     kind: body
     source: |-
       > Although one could say that the bodies that surround our bodies … are in some sense the cause of the ideas we then have … because these are material substances, the action of which does not extend to the soul insofar as it is simply a thing which thinks … they cannot be more than their remote and occasional causes which, by the union of mind and body, cause our faculty to think and determines it to produce ideas of which the faculty of thinking itself is the principal and effective cause. (*T* 176; *THM* 92)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 尽管可以说，环绕我们身体的身体……在某种意义上是我们当时所具有的观念的原因……因为这些是物质实体，其作用不能及于仅仅作为思维之物的灵魂……它们至多只能是其遥远而偶因的原因；凭借心身联合，它们促使我们的思维官能并规定它产生观念，而思维官能本身才是观念的主要而有效的原因。（*T* 176; *THM* 92）
+    step2: |-
+      > 虽说环绕我们身体的身体……在某种意义上是我们当时观念之因……但这些是物质实体，其作用不能及于仅作为思维之物的灵魂……它们至多只能是遥远而偶因的原因；借心身之联合，它们激发我们的思维官能，并规定它产生观念，而思维官能本身才是观念的主要而有效之因。（*T* 176; *THM* 92）
   - id: 37
     kind: body
     source: |-
       The mind is thus an active cause of all its own ideas, including those that it generates on the occasion of being stimulated by the senses. In that sense, all ideas are innate because the mind is their principal and effective cause.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是，心灵是其一切观念的能动原因，包括那些在感官刺激的场合下产生的观念。在这个意义上，一切观念都是固有的，因为心灵是其主要而有效的原因。
+    step2: |-
+      可见，心灵是其一切观念的能动之因，包括在感官刺激之际所生者。在此意义上，一切观念皆属固有，因为心灵才是其主要而有效之因。
   - id: 38
     kind: body
     source: |-
       The will is equally active; it is an
-    step1: TBD
-    step2: TBD
+    step1: |-
+      意志同样能动；它是
+    step2: |-
+      意志亦同样能动；它是
   - id: 39
     kind: body
     source: |-
       > active power … of choosing or determining ourselves from within ourselves to everything to which we determine ourselves. (*T* 182; *THM* 97)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 一种能动力量……使我们从自身内部选择或决定自身去做我们决意去做的一切。（*T* 182; *THM* 97）
+    step2: |-
+      > 一种能动力量……使我们自内心选择或决定自身，去行我们所决意行的一切。（*T* 182; *THM* 97）
   - id: 40
     kind: body
     source: |-
       La Forge argued that, in addition to understanding and willing, the human mind must have an intellectual memory; since it can reason about purely spiritual realities, and since reasoning involves moving from one step to another and remembering those on which one relies for progress, the human mind must be capable of remembering purely spiritual concepts of which it has had no corresponding corporeal species (*T* 291; *THM* 187). La Forge concludes in Chapter xxv that the human mind is immortal; since its essence is to think, the mind continues to think constantly for eternity and may also remember things that do not presuppose the presence of a body.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      拉弗尔热论证说，除理解与意欲之外，人类心灵还必须有理智记忆；既然它能推理纯粹精神性的实在，而推理又涉及从一个步骤推进到另一步并记住所倚赖的步骤，那么人类心灵必定能够记住纯粹精神性的概念，即便它从未有过与之相应的形体种相（*T* 291; *THM* 187）。拉弗尔热在第二十五章得出结论：人类心灵不朽；既然其本质是思维，心灵便永恒地持续思维，并且也可能记住那些不以身体在场为前提的事物。
+    step2: |-
+      拉弗尔热主张，人类心灵除理解与意欲之外，还须有理智记忆。心灵既能推理纯粹精神性的实在，而推理又须步步推进、并记住所凭借的步骤，故人类心灵必能记住纯粹精神性的概念，尽管它从未有过与之相应的形体种相（*T* 291; *THM* 187）。拉弗尔热在第二十五章断言人类心灵不朽：其本质既为思维，心灵便永恒地思维不息，且能记住不以身体在场为前提的事物。
   - id: 41
     kind: body
     source: |-
       The stark definition of the human mind and body as distinct, simple substances did not prevent La Forge from describing their union in human nature as a ‘composite subject’ (*T* 112; *THM* 39) and as ‘a unity of composition and association’ (*T* 98; *THM* 28). It is known from experience that there is some kind of union involved here, which Descartes had struggled to describe in terms of an intermingling of two substances. La Forge describes it more analytically in causal terms; it consists in
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把人类心灵与身体规定为彼此相异、单纯的实体，这一鲜明界定并未妨碍拉弗尔热把二者在人性中的联合描述为“复合主体”（*T* 112; *THM* 39）和“组合与联合的统一”（*T* 98; *THM* 28）。经验表明此处确有某种联合，笛卡儿曾力图以两种物质的交融来形容它；拉弗尔热则改用因果语言作更分析性的描述，它在于
+    step2: |-
+      人类心灵与身体被规定为彼此相异、单纯的实体，这一斩截界定并未妨碍拉弗尔热把二者在人性中的联合称为“复合主体”（*T* 112; *THM* 39）与“组合与联合的统一”（*T* 98; *THM* 28）。经验表明此处确有某种联合，笛卡儿曾苦于用两种物质的交融来描摹它；拉弗尔热则转以因果语言作更分析性的说明，它在于
   - id: 42
     kind: body
     source: |-
       > a mutual and reciprocal dependence of thoughts of one of them on the movements of the other, and in the mutual interaction of their actions and passions. (*T* 210; *THM* 122)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 二者中一方的思想对另一方运动的相互依赖，以及它们各自行动与受动的相互作用。（*T* 210; *THM* 122）
+    step2: |-
+      > 一方之思想与另一方之运动相互依赖，以及双方行动与受动的交互作用。（*T* 210; *THM* 122）
   - id: 43
     kind: body
     source: |-
       La Forge frequently describes this interaction in causal terms, apparently without qualification or reservation. Accordingly, external bodies that interact with our sensory organs ‘cause’ sensations in us; the motions of external stimuli are the ‘true causes’ of our sensory perceptions (*T* 165, 326; *THM* 83, 215). The interaction of mind and body is reciprocal,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      拉弗尔热常以因果术语描述这种相互作用，显然不加限定或保留。据此，与我们的感觉器官相互作用的外部物体在我们身上“引起”感觉；外部刺激的运动是我们感官知觉的“真正原因”（*T* 165, 326; *THM* 83, 215）。心身相互作用是相互的，
+    step2: |-
+      拉弗尔热屡以因果语言描述这种交互作用，显然未加限定或保留。据此，作用于我们感觉器官的外部物体在我们身上“引起”感觉；外部刺激的运动是我们感官知觉的“真正原因”（*T* 165, 326; *THM* 83, 215）。心身交互是双向的，
   - id: 44
     kind: body
     source: |-
       > for not only can the body stimulate (*exciter*) various thoughts in the mind, but the mind can also cause (*causer)* various movements in the body. (*T* 215; *THM* 126)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 因为身体不仅能激发（*exciter*）心中的各种思想，心灵也能引起（*causer*）身体的各种运动。（*T* 215; *THM* 126）
+    step2: |-
+      > 因为身体不仅能激发（*exciter*）心中种种思想，心灵亦能引起（*causer*）身体种种运动。（*T* 215; *THM* 126）
   - id: 45
     kind: body
     source: |-
       In general, the link between the human mind and body
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一般说来，人类心灵与身体之间的联系
+    step2: |-
+      大体而言，人类心灵与身体之间的联系
   - id: 46
     kind: body
     source: |-
       > must consist in the relation or concurrence of the actions and passions of the mind and body. (*T* 212; *THM* 124)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 必定在于心身各自行动与受动之间的关系或协同。（*T* 212; *THM* 124）
+    step2: |-
+      > 必在于心身双方行动与受动之间的关系或协同。（*T* 212; *THM* 124）
   - id: 47
     kind: body
     source: |-
