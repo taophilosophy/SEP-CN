@@ -1730,6 +1730,31 @@
 | knowledge-that | — | 知识-那 | knowledge-value | 知识论通行（与 knowledge-how 对举的直译体例；命题知识之特称）；凭证 2026-11-08 | 2026-11-08 |
 | Decisive Treatise | — | 决定性论文 | delmedigo | 学界通行（伊本·鲁西德 Faṣl al-maqāl 通行译名；避开 determinism 定译“决定论”之混同） | 2026-11-06 |
 | equivocal | — | 歧义的（同名异义） | delmedigo | 学界通行（亚里士多德—经院术语；univocal 单义、analogical 类比之对项；r2 改定，初译误作“类比”） | 2026-11-06 |
+| analogy | — | 类比 | analogy-medieval 首译 | 学界通行（中世纪逻辑与神学术语 analogia）；凭证 2026-11-08 | 2026-11-08 |
+| univocal | — | 单义的 | analogy-medieval 首译 | 亚里士多德—经院术语通行汉译（与歧义的/类比的相对）；凭证 2026-11-08 | 2026-11-08 |
+| analogical | — | 类比的 | analogy-medieval 首译 | 学界通行（与单义/歧义相对）；凭证 2026-11-08 | 2026-11-08 |
+| analogy of proportionality | — | 比例类比 | analogy-medieval 首译 | 学界通行（analogia proportionalitatis）；凭证 2026-11-08 | 2026-11-08 |
+| analogy of attribution | — | 归属类比（亦作“属性类比”） | analogy-medieval 首译 | 学界通行（analogia attributionis；per prius et posterius 为标志）；凭证 2026-11-08 | 2026-11-08 |
+| analogy of imitation / participation | — | 模仿类比／分有类比 | analogy-medieval 首译 | 学界通行（类比项对神性完善的分有或模仿）；凭证 2026-11-08 | 2026-11-08 |
+| analogy of being | — | 存在类比（analogia entis） | analogy-medieval 首译 | 学界通行（中世纪形而上学核心术语）；凭证 2026-11-08 | 2026-11-08 |
+| per prius et posterius | per prius et posterius | 在先与在后意义上（保留拉丁） | analogy-medieval 首译 | 学界惯例（中世纪类比理论标志性表述）；凭证 2026-11-08 | 2026-11-08 |
+| univocity | — | 单义性 | analogy-medieval 首译 | 学界通行（与类比性/歧义性相对）；凭证 2026-11-08 | 2026-11-08 |
+| equivocation | — | 歧义（同名异义） | analogy-medieval 首译 | 学界通行（与 equivocal 同族；逻辑谬误语境作“歧义谬误”）；凭证 2026-11-08 | 2026-11-08 |
+| focal meaning / pros hen | — | 焦点意义／面向一（pros hen） | analogy-medieval 首译 | 学界通行（亚里士多德 Metaph. 4.2 的 pros hen 歧义；亦作“指向一”）；凭证 2026-11-08 | 2026-11-08 |
+| common nature | — | 共同本性 | analogy-medieval 首译 | 学界通行（中世纪共相学说）；凭证 2026-11-08 | 2026-11-08 |
+| modes of signifying | — | 意指方式（modi significandi） | analogy-medieval 首译 | 学界通行（中世纪语法与语义理论）；凭证 2026-11-08 | 2026-11-08 |
+| imposition | — | 设定（impositio） | analogy-medieval 首译 | 学界通行（语词意义的约定性设定）；凭证 2026-11-08 | 2026-11-08 |
+| transcendental terms | — | 超越词项（transcendentalia） | analogy-medieval 首译 | 学界通行（中世纪超越者学说；与康德“先验”transcendental 区分）；凭证 2026-11-08 | 2026-11-08 |
+| formal concept / objective concept | — | 形式概念／对象概念 | analogy-medieval 首译 | 学界通行（经院认识论对举；formal concept 为心灵行为，objective concept 为所表象对象）；凭证 2026-11-08 | 2026-11-08 |
+| significatum / res significata / suppositum | — | 意谓对象／所意指之物／所指 | analogy-medieval 首译 | 学界通行（中世纪语义三层区分）；凭证 2026-11-08 | 2026-11-08 |
+| participation | — | 分有 | analogy-medieval 首译 | 学界通行（柏拉图—经院术语 participatio）；凭证 2026-11-08 | 2026-11-08 |
+| agent causation / exemplar causation | — | 动力因作用／范型因作用 | analogy-medieval 首译 | 学界通行（agent 施动因与 exemplar 范型因对举）；凭证 2026-11-08 | 2026-11-08 |
+| demonstrative syllogism | — | 证明三段论 | analogy-medieval 首译 | 学界通行（《后分析篇》证明科学语境）；凭证 2026-11-08 | 2026-11-08 |
+| middle term | — | 中项 | analogy-medieval 首译 | 学界通行（三段论术语）；凭证 2026-11-08 | 2026-11-08 |
+| fallacy of equivocation | — | 歧义谬误 | analogy-medieval 首译 | 学界通行（亚里士多德《辩谬篇》）；凭证 2026-11-08 | 2026-11-08 |
+| analogy of many-to-one / one-to-another | — | 多对一类比／一对另一类比 | analogy-medieval 首译 | 学界通行（阿奎那神名学说中的类比类型）；凭证 2026-11-08 | 2026-11-08 |
+| proper proportionality | — | 严格比例（analogia proprie） | analogy-medieval 首译 | 学界通行（卡耶坦术语；与宽松/滥用的类比相对）；凭证 2026-11-08 | 2026-11-08 |
+| prescind / precision | — | 抽象分离（prescindere） | analogy-medieval 首译 | 学界通行（经院抽象理论；abstraction without precision 无分离的抽象）；凭证 2026-11-08 | 2026-11-08 |
 | Torah | — | 托拉 | delmedigo | 学界通行（犹太教经籍；亦作“妥拉”） | 2026-11-06 |
 | Talmud | — | 塔木德 | delmedigo | 学界通行（犹太教经典定译） | 2026-11-06 |
 | Kabbalah | — | 卡巴拉 | delmedigo | 学界通行（犹太神秘主义传统定译） | 2026-11-06 |
@@ -2353,8 +2378,8 @@
 | epistemic rationalization | — | 认知理性化 | basing-epistemic 首译 | 构词直译（rationalization 此处非贬义）；凭证 2026-11-08 | 2026-11-08 |
 | subliminal reasons | — | 阈下理由 | basing-epistemic 首译 | 学界通行汉译（subliminal=阈下）；凭证 2026-11-08 | 2026-11-08 |
 | occurrent | — | 当下的 | basing-epistemic 首译 | 学界通行汉译（与 dispositional 倾向的相对）；凭证 2026-11-08 | 2026-11-08 |
-| imprecise probabilities | — | 不精确概率 | 首现（imprecise-probabilities） | 学界惯例（决策论与形式认识论通行；缩写 IP）；凭证 2026-11-08 | 2026-11-08 |
-| imprecise probability (IP) models | — | 不精确概率（IP）模型 | 首现（imprecise-probabilities） | 学界惯例（同上）；凭证 2026-11-08 | 2026-11-08 |
+| imprecise probabilities | — | 非精确概率（SUMMARY 定名沿用；学界亦作“不精确概率”） | 首现（imprecise-probabilities） | 学界惯例（决策论与形式认识论通行；缩写 IP）；凭证 2026-11-08 | 2026-11-08 |
+| imprecise probability (IP) models | — | 非精确概率（IP）模型 | 首现（imprecise-probabilities） | 学界惯例（同上）；凭证 2026-11-08 | 2026-11-08 |
 | degree of belief | — | 置信度 | 首现（imprecise-probabilities） | 学界惯例（形式认识论通行）；凭证 2026-11-08 | 2026-11-08 |
 | credence | — | 信度 | 首现（imprecise-probabilities） | 学界惯例（形式认识论通行，与 degree of belief 互用）；凭证 2026-11-08 | 2026-11-08 |
 | credal set | — | 信度集 | 首现（imprecise-probabilities） | 学界惯例（Levi 术语）；凭证 2026-11-08 | 2026-11-08 |
@@ -2394,3 +2419,9 @@
 | fifth element / aether | αἰθήρ | 第五元素／以太（首现括注） | olympiodorus | 沿本册 ether=以太；亚里士多德宇宙论术语；凭证 2026-11-08 | 2026-11-08 |
 | world soul | — | 世界灵魂 | 首现（theology-aristotle） | 学界通行（柏拉图主义宇宙论标准译名）；凭证 2026-11-08 | 2026-11-08 |
 | ṣifāt | — | 属性 | 首现（theology-aristotle） | 学界惯例（伊斯兰神学'神之属性'，正文保留原词）；凭证 2026-11-08 | 2026-11-08 |
+| radical Aristotelianism | — | 激进亚里士多德主义 | condemnation 首译 | 学界通行汉译（与阿威罗伊主义并置的 13 世纪标签）；凭证 2026-11-08 | 2026-11-08 |
+| absolute power (of God) | — | 上帝的绝对权能 | condemnation 首译 | 学界通行汉译（potentia Dei absoluta）；凭证 2026-11-08 | 2026-11-08 |
+| artistae | — | 艺学家 | condemnation 首译 | 依 Faculty of Arts 定名（中世纪大学艺学院教师/学生）；凭证 2026-11-08 | 2026-11-08 |
+| separate substances / separate intellects | — | 独立实体／独立理智 | condemnation 首译 | 托马斯—阿维森纳体系通行汉译（substantiae separatae）；凭证 2026-11-08 | 2026-11-08 |
+| doctrinal investigation / censure | — | 教义调查／教义谴责 | condemnation 首译 | 中世纪大学审查制度通行汉译（conventio/censura doctrinalis）；凭证 2026-11-08 | 2026-11-08 |
+| necromancy / geomancy / divination | — | 死灵术／地占术／占卜 | condemnation 首译 | 中世纪禁书类目通行汉译；凭证 2026-11-08 | 2026-11-08 |

@@ -2,8 +2,16 @@
   "slug": "imprecise-probabilities",
   "kind": "retranslate",
   "zh_doc": "i/imprecise-probabilities.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T22:48:07Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:29:58Z",
   "version_pin": {
