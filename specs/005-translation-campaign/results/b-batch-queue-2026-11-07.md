@@ -103,3 +103,5 @@
 **在途件归属**：belief-merging draft 为 B-main-20261109 收口件（f6cec931；账本 112 段双版齐、`lq.py check` HARD=0、compose 与正文归一后逐字节一致），其 s1→s3 由本线续做；boethius-dacia r1 为 R-main 评审线件（02431e93）。原 B-main-20261109 会话请勿再推进 B 批词条（防同件双写），s3_checked 6 条与 r1_reviewed 1 条的 r1–r3 仍归 R-main。
 
 **队列 A 队首**：brentano-judgement 11,321 词（belief-merging 已出队）；按源文词数升序全量重译，账本双版随 draft 入库。
+
+- 2026-11-09：`brentano-judgement` 立账（219 段：body 184 / note 34 / biblio 照录 74 / oir 1，源 11,321 词），账本 p1（段 1–20）双版落盘。**方向声明**（rules/08）：意图＝按 SEP 英文源全量重译布伦塔诺判断理论词条；目标＝九步走完、四检全绿、术语与人名先登记；非目标＝不改英文源、不补内容、不造引文；验收＝`lq.py check` HARD=0＋compose 与正文逐字节一致＋s3 学术挂钩 0 硬错误。术语首译登记 12 行（承认 Anerkennung／明证性 Evidenz／存在判断／直言判断／假言判断／命题态度等）。接力点：段 21。

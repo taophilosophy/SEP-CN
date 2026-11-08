@@ -1,0 +1,1389 @@
+version: 1
+slug: brentano-judgement
+params:
+  model: "DeepSeek tierflow_pro（B-main-20261109b 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Franz Brentano (1838–1917) is famous for arguing in his *Psychology from an Empirical Standpoint* (1874) that intentionality—being directed toward something—is the mark of the mental. Brentano used that conception not only for distinguishing mental from physical phenomena, but also for developing a classification of mental phenomena. If intentionality is a fundamental feature of any mental act, Brentano argues, differences in the way mental phenomena are directed toward something constitute differences in kind between mental acts. Judgements are one of the three basic kinds of intentional phenomena with which Brentano deals at great length in his *Psychology*. That is not to say, however, that Brentano’s theory of judgement is just concerned with psychological issues. Brentano also aims to show how an experience of judging, specifically the experience of judging correctly, can provide us with a basis for grasping concepts like existence, truth, and logical inference. Brentano’s investigation of the mental act of judgement promises therefore to advance logic, epistemology, and ultimately metaphysics.
+    step1: |-
+      弗朗茨·布伦塔诺（1838–1917）以在《经验立场之心理学》（1874）中论证意向性——即指向某物——是心理的标志而闻名。布伦塔诺使用这一构想，不仅是为了区分心理现象与物理现象，也是为了发展一种心理现象的分类。布伦塔诺论证说，如果意向性是任何心理行为的根本特征，那么心理现象指向某物的方式上的差异，就构成了心理行为之间的种类差异。判断是布伦塔诺在《心理学》中详加处理的三种基本意向现象之一。然而，这并不是说布伦塔诺的判断理论只关心心理学问题。布伦塔诺还力求表明，判断的体验，特别是正确判断的体验，如何能为我们把握存在、真理与逻辑推论等概念提供基础。因此，布伦塔诺对判断这一心理行为的探究，有望推进逻辑学、认识论，并最终推进形而上学。
+    step2: |-
+      弗朗茨·布伦塔诺（1838–1917）因在《经验立场之心理学》（1874）中论证“意向性”——即指向某物——是心理的标志而闻名。他提出这一构想，既用以区分心理现象与物理现象，也用以建立心理现象的分类。布伦塔诺认为，既然意向性是任何心理行为的根本特征，那么心理现象指向某物的方式之别，便构成心理行为之间的种类之别。判断是他在这部《心理学》中详加论述的三种基本意向现象之一。但这并不等于说，布伦塔诺的判断理论只关心心理学问题。他还要表明：判断的体验，尤其是正确判断的体验，如何为我们把握存在、真理与逻辑推论等概念提供基础。因此，他对判断这一心理行为的探究，有望推进逻辑学、认识论，最终推进形而上学。
+  - id: 2
+    kind: body
+    source: |-
+      Much of that work which Brentano started in his *Psychology* remained unfinished. It was left to his students to further flesh out his view by drawing on lecture notes, letters, and unpublished material from Brentano’s *Nachlass*. Whether all the claims that have been ascribed to Brentano in this literature actually belong to his theory remains a matter of debate in the literature.[^note-1] From a contemporary perspective, an interesting question is which of the following two claims find support in Brentano’s theory:
+    step1: |-
+      布伦塔诺在《心理学》中开始的这项工作，大部分未及完成。进一步充实其观点的任务落到了他的学生身上：他们依据讲课笔记、书信以及布伦塔诺遗稿（Nachlass）中的未刊材料来做。这批文献中归于布伦塔诺名下的主张，是否全都真属于他的理论，在学界仍有争论。[^note-1] 从当代的眼光看，一个有趣的问题是：下面两项主张中，哪一项能在布伦塔诺的理论中得到支持：
+    step2: |-
+      布伦塔诺在《心理学》中着手的这项工作，大部分没有完成。他的学生依据讲课笔记、书信和遗稿（Nachlass）中的未刊材料，继续充实他的观点。这批文献中归于布伦塔诺名下的主张是否都真属于他的理论，学界至今仍有争论。[^note-1] 从当代视角看，一个有趣的问题是：下述两项主张，哪一项能在布伦塔诺的理论中找到支持：
+  - id: 3
+    kind: body
+    source: |-
+      **(A)**
+    step1: |-
+      **（A）**
+    step2: |-
+      **（A）**
+  - id: 4
+    kind: body
+    source: |-
+      Some judgements have a propositional content, others not.
+    step1: |-
+      有些判断具有命题内容，有些则没有。
+    step2: |-
+      有些判断具有命题内容，有些则没有。
+  - id: 5
+    kind: body
+    source: |-
+      **(B)**
+    step1: |-
+      **（B）**
+    step2: |-
+      **（B）**
+  - id: 6
+    kind: body
+    source: |-
+      No judgement has a propositional content.
+    step1: |-
+      没有任何判断具有命题内容。
+    step2: |-
+      没有任何判断具有命题内容。
+  - id: 7
+    kind: body
+    source: |-
+      (B) will sound to the ears of many contemporary readers surprising. We are, Brentano would say, in the grip of a misleading view of judgement. Consider an ascription of a judgement:
+    step1: |-
+      （B）在许多当代读者听来会显得令人惊讶。布伦塔诺会说，我们被一种关于判断的误导性看法支配了。试看一个关于判断的归属语句：
+    step2: |-
+      （B）在许多当代读者听来会显得令人惊讶。布伦塔诺会说，我们被一种关于判断的误导性看法支配了。试看一个关于判断的归属语句：
+  - id: 8
+    kind: body
+    source: |-
+      Oskar judges that 5 is prime number.
+    step1: |-
+      奥斯卡判断 5 是素数。
+    step2: |-
+      奥斯卡判断 5 是素数。
+  - id: 9
+    kind: body
+    source: |-
+      An influential analysis takes this sentence to put Oskar in a relation, judgement, to an object designated by ‘that 5 is a prime number’, a proposition that can be true or false. This suggests that judgement is an attitude towards a proposition; it is a propositional attitude.
+    step1: |-
+      一种有影响的分析认为，这个句子把奥斯卡置于一种关系之中，即判断关系，其对象是由“5 是素数”所指称的东西，即一个可以有真假的命题。这表明，判断是对命题的一种态度；它是一种命题态度。
+    step2: |-
+      一种有影响的分析认为，这个句子把奥斯卡置于一种关系之中——判断关系——其对象是由“5 是素数”所指称的命题，而命题有真假之分。这表明，判断是对命题的一种态度；它是一种命题态度。
+  - id: 10
+    kind: body
+    source: |-
+      Brentano's student Carl Stumpf anticipated the surprise a reader of (B) will feel who has accepted the analysis above:
+    step1: |-
+      布伦塔诺的学生卡尔·斯图姆夫早已预见到，接受了上述分析的读者读到（B）时会感到的惊讶：
+    step2: |-
+      布伦塔诺的学生卡尔·斯图姆夫早已预见到，接受了上述分析的读者读到（B）时会感到惊讶：
+  - id: 11
+    kind: body
+    source: |-
+      > [O]ne must always bear in mind that he [Brentano] used the term ‘judgement’ in a much more general way than most people in ordinary usage. One must remember that for him every perception, inner as well as external, is a judgement, that he already finds in it an elementary assent, a positing [Setzung], and that for him any mental act seems from the very beginning connected with an evident self-affirmation, hence a judgement in this widest sense. This is of course nowhere near the view that only knows verbally framed judgements (statements) with subject and predicate. (Stumpf 1919, 133; author translation)[^stumpf-1919]
+    step1: |-
+      > 必须时时记住，他〔布伦塔诺〕使用“判断”一词的方式，远比常人在日常用法中宽泛得多。要记住：在他看来，一切知觉，无论内知觉还是外知觉，都是判断；他已经在其中发现了某种初级的赞同，一种设定〔Setzung〕；而且在他看来，任何心理行为从一开始就似乎与一种明证的自我肯定相连，因而在这个最宽泛的意义上就是判断。这当然远非那种只承认有主语和谓语的、以语词表述的判断（陈述）的观点。（Stumpf 1919, 133；作者译）[^stumpf-1919]
+    step2: |-
+      > 必须时时记住，他〔布伦塔诺〕使用“判断”一词的方式，远比常人在日常用法中宽泛得多。要记住：在他看来，一切知觉，无论内知觉还是外知觉，都是判断；他已经在其中发现了某种初级的赞同，一种设定〔Setzung〕；而且在他看来，任何心理行为从一开始就似乎与一种明证的自我肯定相连，因而在这个最宽泛的意义上就是判断。这当然远非那种只承认有主语和谓语的、以语词表述的判断（陈述）的观点。（Stumpf 1919, 133；作者译）[^stumpf-1919]
+  - id: 12
+    kind: body
+    source: |-
+      For Brentano the starting point of a theory of judgement is our consciousness of our acceptance — in his terminology the acknowledgement (Annerkennung) — of our own mental acts and the objects of (outer) perception. From this starting point he tries to capture what seems to us to be a propositional attitude. As we will see in section 5 Brentano held (at least for a time) the view that a judgement that something is so-and-so supervenes on some acknowledgments.
+    step1: |-
+      对布伦塔诺来说，判断理论的出发点是：我们意识到自己对自身心理行为以及（外）知觉对象的接受——用他的术语说，即承认（Anerkennung）。他从这一出发点力图把握在我们看来属于命题态度的东西。我们将在第 5 节看到，布伦塔诺（至少在一段时期内）认为，某物如此这般的判断随附于某些承认之上。
+    step2: |-
+      对布伦塔诺而言，判断理论的出发点是：我们意识到自己对自身心理行为以及（外）知觉对象的接受——用他的术语说，即承认（Anerkennung）。他从这一出发点力图把握在我们看来属于命题态度的东西。我们将在第 5 节看到，布伦塔诺（至少有一段时间）主张：某物如此这般的判断，随附于某些承认之上。
+  - id: 13
+    kind: body
+    source: |-
+      ## 1. An Outline of Brentano’s Theory
+    step1: |-
+      ## 1. 布伦塔诺理论纲要
+    step2: |-
+      ## 1 布伦塔诺理论纲要
+  - id: 14
+    kind: body
+    source: |-
+      In this section, we start with an overview of Brentano’s theory of judgement, as far as it is contained in the first edition of the *Psychology*.[^note-2] It will be convenient to divide the material covered by Brentano in chapter 7 of this work (and the final section of chapter 6) into four parts. The first part tries to establish the fundamental difference between judgements (*Urteile*) and presentations (*Vorstellungen*); the second part pertains to the relation between judgement and truth; the third part deals with existential judgements and their intentional objects; and the fourth part proposes a reduction of categorical and hypothetical judgements to the existential form.
+    step1: |-
+      在本节中，我们先概述布伦塔诺的判断理论，以《心理学》第一版所包含的内容为限。[^note-2] 为方便起见，我们把布伦塔诺在该书第 7 章（以及第 6 章末节）所处理的材料分为四部分。第一部分力图确立判断（Urteile）与表象（Vorstellungen）之间的根本区别；第二部分关涉判断与真理的关系；第三部分讨论存在判断及其意向对象；第四部分提出把直言判断与假言判断还原为存在形式。
+    step2: |-
+      本节先概述布伦塔诺的判断理论，范围限于《心理学》第一版所包含的内容。[^note-2] 为方便起见，我们把布伦塔诺在该书第 7 章（以及第 6 章末节）所处理的材料分为四部分。第一部分力图确立判断（Urteile）与表象（Vorstellungen）之间的根本区别；第二部分关涉判断与真理的关系；第三部分讨论存在判断及其意向对象；第四部分提出把直言判断与假言判断还原为存在形式。
+  - id: 15
+    kind: body
+    source: |-
+      ### 1.1 Part I: Judgements Versus Presentations
+    step1: |-
+      ### 1.1. 第一部分：判断与表象
+    step2: |-
+      ### 1.1 第一部分：判断与表象
+  - id: 16
+    kind: body
+    source: |-
+      As a philosopher of mind, Brentano takes it to be his task to develop specific accounts of whatever phenomena one finds in inner experience. To do so, one has to pay close attention to the different ways in which phenomena are directed toward something (see PES 197 [II 32; SVS 1, 218]), and Kriegel 2017: 99ff). Applying this method to the case of judgement, Brentano arrives at the claim that judgements are clearly distinguishable from presentations. The question that concerns him is *how* precisely they differ. Brentano invokes three negative claims to draw that distinction:
+    step1: |-
+      作为一位心灵哲学家，布伦塔诺把自己的任务定为：对在内经验中出现的一切现象作出具体的说明。为此，必须密切关注现象指向某物的各种不同方式（见 PES 197 [II 32; SVS 1, 218]，以及 Kriegel 2017: 99ff）。把这一方法用于判断，布伦塔诺得出的主张是：判断与表象显然可以区分。他所关心的问题是：两者究竟如何不同。他借助三项否定性主张来划出这一区分：
+    step2: |-
+      作为心灵哲学家，布伦塔诺认为自己的任务是：对在内经验中出现的一切现象作出具体说明。为此，必须密切关注现象指向某物的各种方式（见 PES 197 [II 32; SVS 1, 218]，以及 Kriegel 2017: 99ff）。把这一方法用于判断，布伦塔诺得出的主张是：判断与表象显然可以区分。他所关心的问题是：两者究竟如何不同。他借助三项否定性主张来划定这一区分：
+  - id: 17
+    kind: body
+    source: |-
+      **(1)**
+    step1: |-
+      **（1）**
+    step2: |-
+      **（1）**
+  - id: 18
+    kind: body
+    source: |-
+      Combining two ideas/marks (*Merkmale*)[^note-3] in thought is not sufficient for making a judgement.
+    step1: |-
+      在思想中把两个观念／标记（Merkmale）结合起来，并不足以构成判断。[^note-3]
+    step2: |-
+      在思想中把两个观念／标记（Merkmale）结合起来，并不足以构成判断。[^note-3]
+  - id: 19
+    kind: body
+    source: |-
+      When someone asks me “Is any tree red?” I will combine these ideas in pondering the question, but how much I combine them, I might still remain undecided whether they exist together or not. That suffices to make claim (1) plausible.
+    step1: |-
+      当有人问我“有树是红的吗？”时，我会在思量这个问题时把这两个观念结合起来；但无论我结合得多么充分，我仍可能对它们是否共同存在悬而未决。这就足以使主张（1）显得合理。
+    step2: |-
+      当有人问我“有树是红的吗？”时，我会在琢磨这个问题时把这两个观念结合起来；但无论结合得多么充分，我仍可能对它们是否共同存在悬而未决。这就足以使主张（1）显得合理。
+  - id: 20
+    kind: body
+    source: |-
+      Claim (1) is compatible with the view that judging always means to hold true a proposition. For Brentano, that is not the right way to understand claim (1) however. In order to rule out that interpretation, Brentano invokes the following pair of claims:
+    step1: |-
+      主张（1）与“判断始终意味着把某个命题认定为真”这一看法相容。但在布伦塔诺看来，这并不是理解主张（1）的正确方式。为了排除这种解释，他提出下面一对主张：
+    step2: |-
+      主张（1）与“判断始终意味着把某个命题认定为真”这一看法相容。但在布伦塔诺看来，这并不是理解主张（1）的正确方式。为了排除这种解释，他提出下面一对主张：
+  - id: 21
+    kind: body
+    source: |-
+      **(2)**
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      Combining two ideas/marks (Merkmale) in thought is not necessary for making a judgement.
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      **(3)**
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      Combining two ideas/marks (Merkmale) is necessary in formulating a sentence or a proposition.
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      Together, claims (2) and (3) imply that judgements can be made without judging a sentence or proposition to be true. That is what Brentano tries to establish. Let us see how he tries to achieve this goal.
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      Brentano considers three possible ways of conceiving of the difference between presentations and judgements. There may be (i) an intrinsic difference between them, (ii) they may differ in their contents (Inhalte), or (iii) in a perfection [*Vollkommenheit*] with which these objects are thought (PES 204, [II 42f.; SVS 1, 226]).
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      Let’s start with (i). What would it mean that the distinction between judgement and presentation is *not* intrinsic, i.e., extrinsic? It would mean that the distinction between judgement and presentation consists in a relational property that one of these mental phenomena has while the other lacks it. In this sense the distinction between a bachelor and a husband is extrinsic: bachelors lack the relational property of being married to someone; husbands have it. Nothing else distinguishes bachelors and husbands from each other: there is no intrinsic property of husbands or bachelors that grounds the relational difference. Is the distinction between judgement and presentation like the distinction between husbands and bachelors? According to Alexander Bain, it is. For Bain there are two kinds of ideas (presentations): those that dispose one to act—this is the extrinsic or relational property—and others that don’t. The former are judgements and beliefs, the latter are mere presentations (see Bain 1872: 372f)[^bain-1872]. Mill (1878: 403–4) criticized Bain’s proposal as incomplete. In general, a dispositional property like disposing one to act on an object is grounded in its categorical properties. Hence, the belief-constituting disposition to act must be grounded in categorical properties of ideas and these properties seem to be intrinsic. The relational difference is not brute as in the husband/bachelor case.
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      Brentano finds Mill’s line of thought persuasive (see PES 202f. [II 40; SVS 1, 224]).[^note-4] By Brentano’s lights, any explanation of the distinction between judgement and presentation in terms of a difference in “impact” on mental states or actions is unsatisfactory.[^note-5] Like Mill, he goes for the first of the three options above: the difference between presentations and judgement is an intrinsic one.
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      On to (ii). Is the intrinsic difference between judgement and presentation one that concerns the content of the mental mental phenomena under consideration? According to the view opposed by Brentano, every judgement is a combining or separating of marks [Merkmale]. The content of a judgement is the combination of at least two marks that are either divided or combined in it. Possessing a content is an intrinsic property of a judgement: every judgement must have a content and the content distinguishes a judgement, in part, from other mental phenomena. Do judgements and presentations differ in content (cf. PES 205 [II 44; SVS 1, 227])? Again Brentano’s answer is NO. If I wonder whether there are red trees, the content of my presentation is a combination of the marks redness and tree(hood). My judgement that there are red trees has the same content as the mere presentation of a red tree.[^note-6]
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      This brings us to (iii). Is the intrinsic difference between judgement and presentation one that concerns a perfection in which mental phenomena that have the same object differ? Brentano identifies the perfection as *strength*, *intensity* or *vivacity* of the mental phenomena concerned. Is, as Brentano says, “a judgement a stronger presentation and a presentation a weaker judgement”? (PES 204 [II 44; SVS 1, 226]; author translation) Brentano says NO. A strong presentation is no judgement. This argument, while suggestive, is not persuasive because the notion of strength, vividness or intensity seems unclear. However, in the second edition Brentano adds an important consideration that improves the argument. If presentation and judgement were distinguished in strength, both would need to have positions on a scale of strength. However, Brentano now doubts that there is one scale of intensity or strength on which presentations and judgements both lie. Different degrees of conviction that may accompany an act of judgement should not be confused with the degrees of intensity with which an object can be presented to the mind, e.g., in sensation (PES 286f. [II 151ff.; SVS 1, 401). If there is not one dimension of strength in which both judgement and presentation can differ, strength cannot distinguish between them.
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      Brentano concludes that the distinction between judgement and presentation is intrinsic and irreducible to other distinctions between these mental phenomena. Hillebrand (1891: 26–7) called Brentano’s view therefore an “idiogenetic” theory of judgement—it takes judgement to be a fundamental kind of mental phenomenon—while “allogenetic” theories take judgements to be composed out of other mental phenomena that belong to fundamental kinds.
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      ### 1.2 Part II: Judgement and Truth
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      But are things not much easier? Brentano himself says:
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      > By “judgement” we mean, in accordance with common philosophical usage, acceptance [*annehmen*](as true) or rejection [*verwerfen*] (as false). We have already noted, however, that such acceptance or rejection also occurs in cases in which many people would not use the term “judgement,” as, for example, in the perception of mental acts and in remembering. (PES 198 [II 34; SVS 1, 219])
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      Brentano acknowledges that “accepting as true” or “rejecting as false” is the natural way to describe an act of judgement (PES 201 [II 38; SVS 1, 223]). Meanwhile philosophers have changed their habits. While it is still true, of course, that judgements can be true or false, most philosophers are swayed by Frege’s or Reinach’s argument that all judgements are acceptances as true.[^note-7] When one rejects a proposition as false, e.g., that there is extraterrestrial life, this is still a positive judgement for them, because in making the judgement one takes it to be *true* that no life exists beyond earth. Brentano would contest this by saying that their point only concerns the linguistic expression of our judgements, not the judgements themselves. We can find for each judgement a sentence that is true if and only if the judgement expressed in it is correct, but that does not show that the judgement itself always has a positive quality.
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      Why does the characterization of judgement as either an accepting as true or a rejecting as false not suffice to distinguish judgement from presentation? After all, one can present something without accepting it as true. Because saying that in judgement we take something to be true is potentially misleading. The following passage shows what Brentano is aiming at:
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      > If we say that every acknowledging judgement [*anerkennendes Urteil*] is an act of taking something to be true, and every rejecting judgement [*verwerfendes Urteil*] an act of taking something to be false, this does not mean that the former consists in predicating truth of what is taken to be true and the latter in predicating falsity of what is taken to be false. Our previous discussions have shown, rather, that what the expressions denote is a particular kind of intentional reception of an object, a distinctive kind of mental reference to a content of consciousness. The only correct interpretation is that anyone who takes something to be true will not only acknowledge the object, but, when asked whether the object is to be acknowledged, will also acknowledge the object’s to-be-acknowledgedness [*das Anzuerkennensein*], i.e., *its truth* (which is all that is meant by this barbarous expression). (PES 240 [II 89; SVS 1, 259]; emphasis added and translation improved).
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      The point that Brentano wants to get across is a delicate one and requires a careful wording. It is no coincidence that Brentano prefers here the term “*anerkennen*” over “*annehmen*”, which would be closer to common usage in philosophy. The reason is that Brentano thinks that the more common way of speaking wrongly suggests that one predicates truth when one accepts something as true. According to Brentano, as will become clear later, judgement requires no predication (not even a predication of existence). Hence, the difference in meaning between “accepting (*annehmen*)” and “acknowledging (*anerkennen*)” becomes important for him.[^note-8]
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      Brentano’s observation leads to an important result: To say that something is true does not mean that there is an object, a proposition, of which one predicates a property, being true. Rather, we can take the act of judgement itself as the vehicle which is true. To say that a judgement is true means to make a judgement of higher-order, namely to acknowledge that the object of the first judgement is worthy of either being acknowledged or rejected. Propositions are not needed for making sense of the concept of truth.
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      ### 1.3 Part III: Existential Judgements
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      Existential judgements play a fundamental role in Brentano’s arguments against other views of judgement as well as in his positive account of judgement. Brentano’s discussion of existential judgements aims to show that such judgements cannot be conceived as predications of properties (see section 1.1) and that such judgements are either acknowledgments or rejections of objects.
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      The argument focuses on existential propositions and tries to establish that a mental act of denial is on a par with an act of acceptance. Note, that by an existential proposition we do not mean here the *content* of a judgement, but *sentences* of the following form:
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      *A* exists, an *A* exists, *A*s exist.
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      *A* does not exist, an *A* does not exist, *A*s do not exist.
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      The argument developed by Brentano relies on the following principle:
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      > [W]henever someone acknowledges [*anerkennen*] a combination of marks he simultaneously acknowledges each particular element of the combination. (PES 208 [II 49; SVS 1, 231]; authors translation)
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      Applying the principle to the case of judgement, Brentano says:
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      > If this judgement were the acknowledgement of the combination of a mark “existence” with *A*, then it would include the acknowledgement of each individual element in the combination, and hence would include the acknowledgement of *A*. (ibid.)
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      A note of caution: Brentano reiterates here his claim that combining marks is not sufficient to make a judgement. He also raises a new question: what does ‘A’ stand for? If we combine two marks and then acknowledge each element of this combination, ‘A’ must stand for a mark. But sometimes he talks as if ‘A’ designated a particular object. We take this way of talking therefore to be a convenient abbreviation. Now back to the main topic. Acknowledging *A* already does all the work that judging that *A* exists is supposed to do: to commit one to the existence of *A*. Since one cannot judge that *A* exists without acknowledging *A*, judging that *A* exists is necessarily redundant.[^note-9] Thus, we get as an intermediary conclusion of the argument the following claim:
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      **(4)**
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      There is no predication involved in existential judgements.
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      What Brentano wants to show is this:
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      **(5)**
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      Positive and negative existential judgements do not differ in their ‘objects’.
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      The order in which we list the two claims might suggest that (5) somehow follows from (4). But nothing said by Brentano actually warrants this assumption. Brentano takes (5) to be an independent claim supported by the testimony of inner experience:
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      > The same object is present to consciousness whether a person affirms it, denies it, or uncertainly asks about it; in the last case it is merely presented, in the first two cases it is simultaneously presented and acknowledged or denied. And every object which is the content of a presentation can possibly also become the content of a judgement. (PES 221 [II 63; SVS 1, 241]; in part authors translation)
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      Inner experience is supposed to show us that, when we reject, acknowledge or keeps an open mind about an object, we have ‘the same object in consciousness’. Brentano then moves from ‘same object’ to the conclusion that a judgement, either negative or positive, and a presentation can have exactly the same content so that the difference between judgement and content does not lie in a difference in content. As remarked before, Brentano sometimes talks as if objects are contents. If we read Brentano’s remark charitably, he appeals to introspective knowledge that a presentation can purport to be directed on an object in terms of marks. The judgement that is based on this presentation and rejects the object the presentation purports to be directed on as well as the judgement that acknowledges it, share the content of the presentation (the marks in terms of which the presentation is directed on something). Hence, negative and positive judgements can have the same content. This gives Brentano a reason to endorse claim (5). His argument once more rules out a propositional analysis of these judgements, and may thus buttress his arguments in favor of claim (4). We will encounter further reasons that speak for accepting (5) later (in section 5), where we discuss Brentano’s reasons for rejecting negative properties.
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      At this stage, the structure of Brentano’s theory already leaves open several possible interpretations. Neither the significance of (4) nor of (5) in Brentano’s theory are completely clear. That is to say: it is not completely clear that Brentano actually needs these two claims for backing up his theory, in particular for backing up his claim that combining two ideas in thought is not necessary for making a judgement (= claim 2). While Brentano presents his theory as a single whole in which claims (2), (4), and (5) form a tight package. one may unravel that package and accept (2) on the basis of (4) alone or independently of (4) and (5) altogether.
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      ### 1.4 Part IV: The Reductionist Claims
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      In the final part of his theory Brentano turns to so-called categorical propositions. These are the sentences with which traditional logic is primarily concerned: sentences of the form “All *S* are *P*”, “No *S* is *P*”, “Some *S* are *P*” and “Some *S* are not *P*”. With respect to these propositions, Brentano takes the same view as Leibniz:
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      > It can be shown with utmost clarity that every categorical proposition can be translated without any change of meaning into an existential proposition (PES 214, [II 56; SVS 1, 236]).
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      In order to prove this claim, Brentano offers examples for the following translation schemes:
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      > A proposition of the form “All *S* are *P*” means the same as “An *S* that is not *P* does not exist.”
+      >
+      > A proposition of the form “No *S* is *P*” means the same as “An *S* that is *P* does not exist.”
+      >
+      > A proposition of the form “Some *S* are *P*” means the same as “An *S* that is exists.”
+      >
+      > A proposition of the form “Some *S* are not *P*” means the same as “An *S* that is not *P* exists.”
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      These are semantic claims about the meanings of sentences. In this case, Brentano trusts our linguistic intuitions and takes them to tell us something about the *judgements* expressed by these propositions. The translations are meant to reveal to us the true forms of judgement expressed by categorical propositions. Thus, Brentano advances the following reduction thesis:
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      **(6)**
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      Categorical propositions can be reduced to propositions of the form “*A* exists” and “*A* does not exist”. More explicitly: An utterance of a categorical proposition always expresses a judgement in which the existence of an object is acknowledged or rejected.
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      Notice that whereas the above translation schemes are symmetrical, the reduction thesis involves an asymmetry claim. It does *not* say that existential propositions express categorical judgements, but conversely that categorical propositions express existential judgements. There is no explicit argument in Brentano for this interpretation of the translation schemes. Rather, it is the context in which Brentano puts forward the reduction thesis that must provide a justification for it.
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      How might this work? Well, consider the following argument which Brentano constructs with the help of claim (6):
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      **(7)**
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      Everyone agrees that in categorical propositions of the form “All *S* are *P*”, “Some *S* are *P*”, “No *S* is *P*” and “Some *S* are not *P*” the copula “is” or “is not” merely indicates the quality of the judgement and has no meaning of itself.
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      **(6)**
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      Categorical propositions can be reduced to propositions of the form “*A* exists” and “*A* does not exist”.
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      **(8)**
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      Therefore: The notion “exists” in existential judgements does not have a meaning of itself either.
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      In running this argument, Brentano advances from a claim about the meaning of the copula “is” that he takes to be incontestable to a (contestable) claim about the meaning of “exists”. It is the direction of this argument that requires the reduction claim made in the second premise. Thus, it is the purpose of the argument that fixes for Brentano the direction in which the reduction has to go.
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      If one accepts the premises, the argument is sound. However, it still leaves open how one evaluates the entire argument because there are hidden assumptions in the premises that Brentano does not disclose. To make them explicit, one has to read the argument as follows:
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      > The copula does not add anything to the meaning of the terms *S* and *P*, and hence nothing to the subject matter of the expressed judgement *if the subject matter is fixed by these concepts*. Therefore, given (6), the term “exists” adds nothing to the subject matter of an existential judgement *if the subject matter is identified with the subject matter of the categorical proposition which forms the basis of the reduction*.
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      The parts in italics are the tacit assumptions that Brentano makes in this argument. Anyone who takes the subject matter of judgements to be propositions would deny them and hence the soundness of the argument. That would not immediately disprove the reduction claim (6), but it would deprive Brentano of a good reason for introducing an asymmetry into his translation schemes. Because of this problem, it seems questionable whether Brentano’s reduction project in the third part of his theory succeeds. Apparently, Brentano himself changed his mind on the validity of his argument when he later developed his theory of double judgement (see section 5 below). That means that he no longer can make use of his initial argument to show that “existence” has no meaning by itself.
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      ## 2. Brentano and His Precursors on Existential Judgement
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      We have seen that Brentano heavily relies on the special case of existential judgements in developing a general account of judgement and criticizes other views because they do not work for those cases. While Brentano’s approach is original, he also draws on a range of sources. He finds in Aristotle, Aquinas and Kant anticipations of the idea that existential judgements involve no predication (= claim 4). However, none of the named philosophers goes as far as Brentano and takes all judgements to be existential. Hence, Brentano can indeed claim that his own theory fills a gap in the history of ideas. Let’s consider what Brentano took from his predecessors in historical order.
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      In *Psychology* (PES 212 fn, [II 54 fn; SVS 1, 234 fn 246]) Brentano says in a long footnote that Aristotle hinted at the right conception of existential judgement in *Metaphysics* and in *De Interpretatione*. In *Metaphysics* Book IX (θ) 10 Aristotle is faced with a problem. He has told his readers that one judges truly if one separates in thought what is separated in reality and combines in thought what is combined in reality. For example, if Plato and foolishness are separated—the former does not have the latter—one judges truly if one separates Plato and foolishness in thought, that is, judges that Plato is not foolish. But now Aristotle goes on to tell us that there are *incomposites* that are not combined with anything. How can one make true or false judgements pertaining to such things?[^note-10]
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      Aristotle introduces in response a further, different notion of truth and judgement. Judgements pertaining to *incomposites* are “touchings” of or put us into “contact” with these things, a notion that Brentano renders as “perception”:
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      > In fact, as truth is not the same in these cases, so also being is not the same; but truth or falsity is as follows—contact and assertion are truth (assertion not being affirmation), and ignorance is non-contact. (*Metaphysics*, 1051b21–25)[^note-11]
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      In Brentano’s eyes, Aristotle’s “redefinition” of judgement and truth is highly suggestive. It shows that the strategy to explain judgement and truth in terms of combining and separating runs into a problem. Aristotle’s appeal to the idea of touching an object suggests a non-propositional form of judgement—good from Brentano’s perspective—while the postulation of two different kinds of judgement, propositional as well as non-propositional, results in a non-uniform account of judgement—bad from Brentano’s perspective. We want a uniform account of judgement. But such an account may not be available, as Brentano later came to see. In his theory of double judgement he accepts, like Aristotle did, the pattern of recognition of non-predicative judgement combined with postulating other kinds of judgement (see section 5).
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      Brentano refers also with approval to the third chapter of *De Interpretatione*. There Aristotle says about the copula “to be” or “to be not” that “by itself it is nothing, but it additionally signifies some combination, which cannot be thought of without the components.” Brentano renders this as
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      > the “being” of the copula does not in itself signify anything, as a name does, but simply completes the expression of a judgement.
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      As a correct reading of Aristotle this is dubious. Aristotle has the copula signifying some *combination*. It is not merely “completing” the expression of a judgement, that is, “to be” is not only a syncategorematic expression. But we can use Brentano’s interpretation of Aristotle to shed further light on his own positive view. He wants to say that the meaning of “is” is the same in the following sentences:
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      **(a)**
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: body
+    source: |-
+      God is almighty.
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: body
+    source: |-
+      **(b)**
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: body
+    source: |-
+      God is.
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: body
+    source: |-
+      In both sentences “is” has meaning or reference of its own. Hence, one cannot understand the judgement expressed by (b) as a predication of a property: “is” does not name the property of being.
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: body
+    source: |-
+      What does “is” then do in “God is”? In his answer of this question Brentano took inspiration from St. Thomas and Kant:
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: body
+    source: |-
+      > In the Middle Ages, St. Thomas came as close as Kant to the truth, remarkably enough by reflecting upon the same proposition, “God exists”. According to him, the “is” is not a real predicate but merely a sign of affirmation (*Summa Theologica*, P. I, Q. 3, A. 4 ad 2). (PES 211 fn, [II 53 fn; SVS 1, 234 fn 244])
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: body
+    source: |-
+      What is telling here is Brentano’s use of the word “merely”. It implies that one can use a sign for affirmation without using that very same sign also as a sign for predication. Following Brentano’s own suggestion, we can make this clear by introducing a simple formalism. Let us use the sign “+” as a sign for a mere affirmation (like a question mark is a mere sign for asking a question), and let us use “+is” as a sign that expresses both a judgement and a predication. Then we can symbolize the two judgements above as follows:
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: body
+    source: |-
+      **(a)**
+    step1: TBD
+    step2: TBD
+  - id: 97
+    kind: body
+    source: |-
+      God (+is) almighty
+    step1: TBD
+    step2: TBD
+  - id: 98
+    kind: body
+    source: |-
+      **(b)**
+    step1: TBD
+    step2: TBD
+  - id: 99
+    kind: body
+    source: |-
+      God (+)[^note-12]
+    step1: TBD
+    step2: TBD
+  - id: 100
+    kind: body
+    source: |-
+      That is the inspiration that Brentano gets from St. Thomas. But, again, there is something in St. Thomas that Brentano finds objectionable.[^note-13] As Brentano notes, Aquinas wants to uphold Aristotle’s theory of truth which requires that every judgement is a comparison between a representation and its object. He does not admit that existential judgements simply do not fit this description.
+    step1: TBD
+    step2: TBD
+  - id: 101
+    kind: body
+    source: |-
+      It is important to note that “+” is a sign of affirmation and not a predicate. For example, Sundholm (2009: 274) argues that Brentano simply “rediscovered” an idea of Bolzano. According to Sundholm, Bolzano takes “A exists” to express the propositions that the idea [A] has an object; “A does not exist” expresses the negation of this property. The appearance that Brentano recycles this view is dispelled when we notice that “+” does not express a presentation, but only determines in which mode a content is to be thought.
+    step1: TBD
+    step2: TBD
+  - id: 102
+    kind: body
+    source: |-
+      Let us now turn to Kant. Brentano disagrees with Kant’s epistemology on almost every single point. With respect to the nature of judgement, Brentano points out that Kant overlooks their essential character by putting them together with presentations into a single category: acts of thinking. He also takes Kant to task for holding on to the mistaken view that a judgement always unifies several representations (*Critique of Pure Reason*, A 68–9/B93–4). Thus it may come as a surprise that there is also a strong agreement between their views. Kant anticipates Brentano’s claim that a “single mark [einzelnes Merkmal] which is the object of a presentation can be acknowledged or denied, too” (PES 208 [II 49; SVS 1, 230]; translation changed). The insight can be found in Kant’s seminal discussion of existence:
+    step1: TBD
+    step2: TBD
+  - id: 103
+    kind: body
+    source: |-
+      > Being is obviously not a real predicate, i.e., a concept of something that could add to the concept of a thing. It is merely the positing of a thing or of certain determinations in themselves. (*Critique of Pure Reason*, A 598)
+    step1: TBD
+    step2: TBD
+  - id: 104
+    kind: body
+    source: |-
+      Kant’s slogan “being is not a real predicate” has been interpreted as saying that “exists” is no first-order predicate of objects, but a second-order predicate true of concepts. Whether this is the correct interpretation is not important for our purposes. Primed by Aquinas’s remarks on “to be”, Brentano reads Kant’s remark differently.[^note-14] When I judge that God exists, I posit an omniscient being, but I do not add something to the concept of an omniscient being. Instead of saying “exists” is not a real predicate, Kant should have said that it is not a predicate at all, but a force-indicator: it has positing force.
+    step1: TBD
+    step2: TBD
+  - id: 105
+    kind: body
+    source: |-
+      From Brentano’s point of view, Kant commits the same mistake as St. Thomas. He too tries to make existential judgements agree with the traditional view that every judgement is a combination of representations. To fit into Kant’s category of synthetic judgement, the existential judgement that God exists must add something to the concept of God. “This is,” remarks Brentano, “an unclear and contradictory semi-truth” (PES 211 [II 54; SVS 1, 234]; translation improved).
+    step1: TBD
+    step2: TBD
+  - id: 106
+    kind: body
+    source: |-
+      Kant may be forgiven his oversight, if one realizes how many logicians followed his path and found it equally incomprehensible to reach the position that Brentano advocates. A telling example of such incomprehension is provided by John Stuart Mill in his letter to Brentano:
+    step1: TBD
+    step2: TBD
+  - id: 107
+    kind: body
+    source: |-
+      > 1. I agree with you that Belief is the essential constituent in a Differentia of judgment, and that the putting together of two ideas is merely a prerequisite or antecedent condition.
+      >
+      > 2. I cannot, however, think that one idea is a sufficient prerequisite for a judgment. I cannot see how there can be Belief without both a subject and a predicate. If you say that the idea of an elephant suffices for belief in an elephant, belief in an elephant can only mean belief that there is such a thing as an elephant—that an elephant exists: or, in other words, that under some circumstances, and in some place known or unknown, I should perceive by my senses a thing answering the definition of an elephant. Now this, which is the truth really believed, is a fact, in two terms, not in one only.[^note-15] (Mill 1872 [1972: 1928–9])[^mill-1872]
+    step1: TBD
+    step2: TBD
+  - id: 108
+    kind: body
+    source: |-
+      The one philosopher that came closest to Brentano’s view on judgement was Johann Friedrich Herbart.[^note-16] Herbart does not try to assimilate existential and so-called “subjectless” statements (“It rains”) to categorical one’s of the form “*S* is *P*”.[^note-17] And he takes “is” in “God is” to be the sign of “absolute positing” (*unbedingte Aufstellung*) (Herbart 1813: 49)[^herbart-1813]. While Brentano praises Herbart for holding this view, he does not pick up his terminology, expecting little insight from the associations it encourages.
+    step1: TBD
+    step2: TBD
+  - id: 109
+    kind: body
+    source: |-
+      These comparisons are not only historically instructive. They give us a good sense of how radical Brentano’s position really is. It is radical in its demand that a theory of judgement must accommodate and not explain away existential judgements. And it is even more radical in its refusal to make existential judgements satisfy any version of the view of judging as a combinatory or synthetic act, which would nicely fit with the correspondence theory of truth. In refusing to take this step that most philosophers considered to be inevitable, Brentano put a heavy burden on a theory of judgement that tries to give a uniform account of existential and subjectless judgements as well as categorical judgements. Brentano thought that he can pull off this trick by turning the traditional approach to this problem inside out: instead of trying to show that in fact all judgements are categorical ones, he tries to show that all judgements are existential. If all judgements are reducible to existential ones, no judgement applies a property or concept to an object. That may sound ludicrous, but it is the only alternative left, unless one is willing to sacrifice the goal of giving a uniform account of judgement as a distinct mental category.
+    step1: TBD
+    step2: TBD
+  - id: 110
+    kind: body
+    source: |-
+      ## 3. Brentano’s Argument from Perception
+    step1: TBD
+    step2: TBD
+  - id: 111
+    kind: body
+    source: |-
+      We have now introduced the idea that animates Brentano’s theory of judgement: predication is one thing, judgement another. We have seen which views inspired Brentano to disentangle judgement and predication. However, so far we lack a reason to follow Brentano’s lead. How can he convince his readers that predication is not necessary for judgement, since we already judge when we merely acknowledge or reject an object?
+    step1: TBD
+    step2: TBD
+  - id: 112
+    kind: body
+    source: |-
+      Sometimes Brentano simply trusts his readers to agree with him if they pay sufficient attention to their own judgements and compare them with, for example, presentations. Consider, for instance, the following passage from the opening section of Brentano’s discussion of judgement in PES:
+    step1: TBD
+    step2: TBD
+  - id: 113
+    kind: body
+    source: |-
+      > It is […] true that nothing is an object of judgement which is not an object of presentation, and we maintain that when the object of presentation becomes the object of an affirmative or negative judgement, our consciousness enters into a completely new kind of relationship with the object. […] *This, we maintain, is revealed clearly to us by inner perception and the attentive observation of the phenomena of judgement in memory*. (PES 201 [II 38–9; SVS 1, 223, emphasis added)
+    step1: TBD
+    step2: TBD
+  - id: 114
+    kind: body
+    source: |-
+      So, if we are able to episodically remember judging something, we can come to know that the same object given in a presentation can be acknowledged or rejected in judgement and that acknowledging and rejecting are distinct in kind from presentation.
+    step1: TBD
+    step2: TBD
+  - id: 115
+    kind: body
+    source: |-
+      But merely encouraging a philosopher who is in the grip of the idea that judging is predication to pay more attention when recalling his judgements will not yield the intended results. Is there an argument that will establish Brentano’s view on the basis of uncontroversial premises? Brentano thinks there is an argument that is based on premises his opponents find compelling:[^note-18]
+    step1: TBD
+    step2: TBD
+  - id: 116
+    kind: body
+    source: |-
+      > That predication is not the essence of every judgement emerges quite clearly from the fact that all perceptions are judgements. For it [perception] is either knowledge [*Erkenntnis*] or at least a mistaken taking to be true [*Fürwahrnehmen*]. And this is not denied by those thinkers who hold that every judgement consists in a conjunction of subject and predicate. […] [I]t is hard to think of anything more obvious and unmistakable than the fact that a perception is not a [connection] of a concept of the subject and a concept of a predicate, nor does it refer to such a connection. Rather, the object of an *inner* perception is simply a mental phenomenon, and the object of an *external* perception is simply a physical phenomenon, a sound, odor, or the like. We have here, then, a quite obvious justification of the truth of our assertion. (PES 209 [II 50–51; SVS 1, 232], translation changed.)
+    step1: TBD
+    step2: TBD
+  - id: 117
+    kind: body
+    source: |-
+      *Everyone*—even predication theorists of judgement—believe that in perceiving we don’t connect the concept of a subject with that of a predicate. *No one*—even predication theorists of judgement—denies that every perception is a judgement. So, everyone accepts that there are some judgements that don’t predicate a property of something (connect a concept of a subject with a concept of a predicate). *A fortiori* the predication theorist of judgement is rationally compelled to accept that there are non-predicational judgements. If he does not do so, his view of judgement is not in harmony with the right view of perception. Hence, the view of judgement as predication must be revised.
+    step1: TBD
+    step2: TBD
+  - id: 118
+    kind: body
+    source: |-
+      How obvious is Brentano’s “quite obvious” justification? Let’s consider Brentano’s first premise first: perception does not involve predication. A charitable reading of Brentano should assume that by “perception” he means what philosophers following Fred Dretske now call “non-epistemic perception”. I can see something *without* having any beliefs about it to the effect that it is so-and-so. I see the yellow canary because it looks distinct from its immediate environment; I can’t see the chameleon because it does not look distinct from its environment. Note that it does not matter at this point whether one takes ordinary material objects such as birds or, as Brentano himself prefers, physical phenomena such as colours and shapes to be the (primary) objects of perception.
+    step1: TBD
+    step2: TBD
+  - id: 119
+    kind: body
+    source: |-
+      Is non-epistemic seeing a form of predication? *Prima facie*, it isn’t. When I see the yellow canary, I am directed towards an object and it appears distinct from its environment. The canary is given to me in such a way that I can attend to it in perception, but I might abstain from making any predicative judgement about it for the time being.
+    step1: TBD
+    step2: TBD
+  - id: 120
+    kind: body
+    source: |-
+      Brentano takes it to be beyond doubt that such a perception is a judgement, only not a predicative one. This is controversial. For example, Brentano’s *modus ponens* is Moritz Schlick’s (1925, 80/1974, 87) *modus tollens*: perception is not judgement, hence, a perception cannot be knowledge. So****why should one think of seeing a yellow canary or hearing a sound as a judgement in the first place? Consider again your perception of the yellow canary. The canary looks different from its surroundings to you and you can train your attention on it. In this situation you will, to use a non-committal phrase, “take the canary to be real”. Seeing the canary is a particular kind of “taking the canary to be”, namely as something real; in Brentano’s terminology that is “an acknowledging of the canary”. If this is right, there are judgements that do not predicate any properties of an object and merely acknowledge it.
+    step1: TBD
+    step2: TBD
+  - id: 121
+    kind: body
+    source: |-
+      Let us consider three objections to firm up our understanding of Brentano’s line of thought.
+    step1: TBD
+    step2: TBD
+  - id: 122
+    kind: body
+    source: |-
+      Objection 1: But one cannot “take something to be real”, yet not predicate any property of it. Taking something to be real is just predicating existence of it. Brentano considers this objection himself:[^note-19]
+    step1: TBD
+    step2: TBD
+  - id: 123
+    kind: body
+    source: |-
+      > Because we say not only that we perceive a color, a sound, an act of seeing, an act of hearing, but also that we perceive the existence of an act of seeing or of an act of hearing, someone might be led to believe that perception, too, consists in the acknowledgement [*Anerkennung*] of the conjunction of the attribute “existence” with the phenomenon in question. Such a misunderstanding of obvious facts seems to me almost inconceivable. (PES 210 [II 51–52; SVS 1, 232])
+    step1: TBD
+    step2: TBD
+  - id: 124
+    kind: body
+    source: |-
+      As said before, Brentano’s claim that the facts are obvious bears little argumentative weight. But the view that every (non-epistemic) perception is a judgement to the effect that something exists over-intellectualizes non-epistemic perception. Infants and dogs see and hear things. Does Brentano’s opponent really want to say that they make judgements to the effect that the objects perceived exist? Yet, a dog certainly takes the canary to be real when it chases it.
+    step1: TBD
+    step2: TBD
+  - id: 125
+    kind: body
+    source: |-
+      Brentano also provides a more theoretical reason against the view that (non-epistemic) perception consists in predications of existence (PES 210 [II 51–52; SVS 1, 232]). The view makes it difficult to explain how we manage to acquire the concept of existence. If we exercise the concept in every (non-epistemic) perception, the concept of existence must come with the capacity to perceive objects and qualities. Brentano finds this unbelievable.
+    step1: TBD
+    step2: TBD
+  - id: 126
+    kind: body
+    source: |-
+      In turn, if acknowledging an object does not presuppose possession of the concept of existence, our introspective knowledge of acknowledgement may be used to introduce the concept of existence. Brentano pursued this strategy following Aristotle:
+    step1: TBD
+    step2: TBD
+  - id: 127
+    kind: body
+    source: |-
+      > Aristotle had already recognized that [the concept of existence] is acquired by reflection on the acknowledging judgement. (TE 27 [45], translation improved)[^note-20]
+    step1: TBD
+    step2: TBD
+  - id: 128
+    kind: body
+    source: |-
+      Objection 2: Seeing the yellow canary is not the same thing as acknowledging it. For instance, one can see an object without acknowledging it “if one does not trust one’s eyes.” I see the canary before me, but since you have given me misleading evidence that I am now hallucinating, I do not trust my senses and do not take the canary to be real. So, seeing and judging are related—maybe (consciously) seeing something prompts one to judge that it is—but these mental acts are distinct.
+    step1: TBD
+    step2: TBD
+  - id: 129
+    kind: body
+    source: |-
+      In later work Brentano suggested that in such cases we do acknowledge the bird as well as judge that there is no object in the scene perceived. Just as we can love and hate an object, we can accept and reject an object at the same time:
+    step1: TBD
+    step2: TBD
+  - id: 130
+    kind: body
+    source: |-
+      > An affect that is reined in by a contradicting higher love still truly persists. Similarly, an acceptance of an object given in sensation, which is disapproved of by a higher judgement, could persist. Indeed, it is not at all clear, how the lower activity should be changed in its intrinsic character because of the occurrence of the higher activity; if the lower activity had a relation of acceptance to the outer object before, it will have it later. (VNV 26, author translation.)
+    step1: TBD
+    step2: TBD
+  - id: 131
+    kind: body
+    source: |-
+      It is thus possible to acknowledge and reject an object at the same time, although this is clearly not a mental state one prefers to be in. But sometimes things are not as we like them to be.
+    step1: TBD
+    step2: TBD
+  - id: 132
+    kind: body
+    source: |-
+      With this in mind Brentano can say that when we mistrust our senses we acknowledge an object, but this judgement conflicts with other judgements or beliefs that we have with regard to this matter.
+    step1: TBD
+    step2: TBD
+  - id: 133
+    kind: body
+    source: |-
+      Objection 3: We have already seen that Brentano subscribes to a Polarity Thesis: Acknowledging an object *x* has an opposite: rejecting *x* (see section 1, claim 5). These attitudes are directed towards the same object, yet only one of them can be correct even if they may co-exist, as Brentano allows. The correctness of acknowledging *x* is incompatible with the correctness of rejecting it. Hence, if non-epistemic perception is a kind of acknowledgement, it must have an opposite. But what could be the opposite of seeing?[^note-21] According to Peter Geach, there is nothing here to be found except the exclusion relation between (instances of) properties that we see:
+    step1: TBD
+    step2: TBD
+  - id: 134
+    kind: body
+    source: |-
+      > Believing, like seeing, has no polar opposite, though contrary dogmas may be believed, as contrary colours may be seen. (Geach 1965: 455)[^geach-1965]
+    step1: TBD
+    step2: TBD
+  - id: 135
+    kind: body
+    source: |-
+      However, Brentano’s view of perception could gain plausibility by contrasting it with a form of doubt that is also non-epistemic and directly opposed to it. If I see a yellow canary, that very act could make it incorrect to raise a doubt of a non-epistemic kind. If doubting can be like acknowledging an object-directed act with a non-propositional content, then Brentano’s Polarity thesis stands. If not, we must either revise the Polarity Thesis or Brentano’s view of perception.
+    step1: TBD
+    step2: TBD
+  - id: 136
+    kind: body
+    source: |-
+      Let us sum up the discussion and put its result into perspective. Brentano tells us that perceiving an object is acknowledging it. Such perceptions are for Brentano the prime example of existential judgements. In such judgements we acknowledge an object without predicating anything of it. Based on this observation, Brentano argues that simple existential judgements are not of the categorical form “*S* is *P*” or “*S* has the property *P*”. In other words, simple judgements do not have a propositional content. In making such judgements we may acknowledge a content, a combination of marks or a single mark and thereby an object that possesses these marks, but we do not affirm *that* the object that is so-and-so exists.
+    step1: TBD
+    step2: TBD
+  - id: 137
+    kind: body
+    source: |-
+      The consequences of this move are indeed far reaching. Even when we predicate a property of an object, Brentano can say that the predication need not change the character of the *judgement* that we are making. One may conceive of predication as a two-step process: one first connects the property *P* with the subject *S*, thus forming a complex representation of an *S*-that-is-*P*; then one acknowledges the complex content and thus forms a judgement. The content is complex, but the judgement itself is the same simple act of acknowledgement.
+    step1: TBD
+    step2: TBD
+  - id: 138
+    kind: body
+    source: |-
+      If judging is either acknowledging or rejecting of contents, the notion of acknowledgement/rejection is fundamental in philosophy of mind. In response to Brentano’s move, philosophers at the end of the 19th and beginning of 20th century engaged with his view of acknowledgement. Wilhelm Jerusalem (1895, 67–72) discussed Brentano’s and Marty’s view of judgement and argues for a view of judgement as a complex activity.[^note-22] Adolf Reinach (1911, sect. I) distinguished different related notions of ‘acknowledgement’ and criticises Brentano for running them together. Karelitzki (1914) is a (short) monograph devoted to find a plausible concept of acknowledgement and takes Brentano’s as its starting point (see ibid., 13–28). The central figure of the Vienna circle, Moritz Schlick (1925, 50/1974, 43) took Brentano to be right about the psychological nature of judgement, but not its logical role. For this reason he argues against the reduction thesis that we will examine below.
+    step1: TBD
+    step2: TBD
+  - id: 139
+    kind: body
+    source: |-
+      ## 4. The Reduction Thesis and Brentano’s Logic Reform
+    step1: TBD
+    step2: TBD
+  - id: 140
+    kind: body
+    source: |-
+      So far Brentano’s theory seems to have a sound footing. Now we need to make a big step when we consider Brentano’s most radical thesis: what we called his reduction thesis (see section 1, claim 6): “The reducibility of categorical propositions, indeed the reducibility of all propositions which express a judgement, to existential propositions is therefore indubitable” (PES 218 [II 60; SVS 1, 239). Before we can ask on what basis Brentano makes this claim, we need to get clear about its meaning.
+    step1: TBD
+    step2: TBD
+  - id: 141
+    kind: body
+    source: |-
+      Brentano introduces the notion of “reduction” at a linguistic level, applying it to sentences (or “propositions”), but what he is aiming at is a reduction at the level of mental phenomena. At the linguistic level, the claim is that any categorical proposition can be transformed without change of meaning into an existential proposition. At the level of judgement, the claim is that all judgements are in fact existential in character (and hence non-propositional). That shows for Brentano how language disguises the true nature of our judgements. When somebody asserts, for instance, that all *S* are *P*, he *seems* to make a positive judgement about all *S*. In fact, however, his judgement is negative and of the form “No *S*-that-is-not-*P* exists”. The point of the reduction thesis is to remove the linguistic disguise and to uncover the true form of our judgements. It also ensures that the judgements expressed by categorical and existential propositions are of the same kind. While such unification could also be achieved by saying that existential propositions express categorical judgement, Brentano’s thesis reverses that claim by declaring categorical propositions to express existential judgements.
+    step1: TBD
+    step2: TBD
+  - id: 142
+    kind: body
+    source: |-
+      That is the view that Brentano puts forth in the first edition of his *Psychology* (1874). However, Brentano had second thoughts on this matter. While holding on to his view that existential propositions express categorical judgements, and that categorical propositions *can* express existential judgements, Brentano later dropped the reduction thesis. At least since 1889, Brentano no longer thought that categorical propositions *only* express existential judgements. He states the result of this change of view in print first in *Vom Ursprung sittlicher Erkenntnis*:
+    step1: TBD
+    step2: TBD
+  - id: 143
+    kind: body
+    source: |-
+      > The judgement expressed in the sentence “The rose is a flower” is composed out of two judgements of which one is the acknowledgement of the subject […] (OKRW fn. 22 [SVS 3, 67f.])
+    step1: TBD
+    step2: TBD
+  - id: 144
+    kind: body
+    source: |-
+      It turns out that I make two judgements in one—a “double judgement”—when I seem to make only one: the judgement that the rose is a flower. Furthermore, higher-order judgements about the correctness and incorrectness of judgements exhibit the same complexity and come to play a prominent role in Brentano’s theory.
+    step1: TBD
+    step2: TBD
+  - id: 145
+    kind: body
+    source: |-
+      These new ideas complicate Brentano’s theory and force one to rethink the entire project of reducing categorical propositions to existential ones. We will do this in two steps. In this section, we take a closer look at the reduction thesis in the context in which it originally appears. In section 5 we explain why Brentano gave up this project.
+    step1: TBD
+    step2: TBD
+  - id: 146
+    kind: body
+    source: |-
+      We already noted that Brentano’s *Psychology* is not just a book about mental phenomena. It also includes fundamental considerations pertaining to logic and epistemology. In that sense Brentano is no doubt a “psychologist”. He takes judgements to be the primary bearers of truth, he defines logical inferences as relations between judgements, and he considers validity to emerge from the evidence of our judgements about such relations. In taking this approach, Brentano sets himself apart from the rising “mathematical logic” (see PES Appendix x). Instead of applying mathematical tools in logic, Brentano believed that logic will advance better by applying the tools of descriptive psychology. To prove his case, Brentano sketches a reform of traditional logic based on his reduction thesis.
+    step1: TBD
+    step2: TBD
+  - id: 147
+    kind: body
+    source: |-
+      To begin with, Brentano challenges the logic contained in the traditional square of opposition. This square is made up of the four categorial propositions:
+    step1: TBD
+    step2: TBD
+  - id: 148
+    kind: body
+    source: |-
+      - A (“All *S* are *P*”),
+      - E (“No *S* are *P*”),
+      - I (“Some *S* are *P*”), and
+      - O (“Some *S* are not *P*”).
+    step1: TBD
+    step2: TBD
+  - id: 149
+    kind: body
+    source: |-
+      Among others, the following logical relations have been claimed to hold among these propositions (see Parsons 2017)[^parsons-2017]:
+    step1: TBD
+    step2: TBD
+  - id: 150
+    kind: body
+    source: |-
+      1. A contradicts O, and vice versa.
+      2. E contradicts I, and vice versa.
+      3. A and E can be false but not true together (= law of contrariety)
+      4. I and O can be true but not false together (= law of subcontrariety)
+      5. A implies I (= subalternation)
+      6. E implies O (= subalternation)
+      7. I converts into “Some *P* are *S*” (simple conversion)
+      8. E converts into “No *P* is *S*” (simple conversion)
+    step1: TBD
+    step2: TBD
+  - id: 151
+    kind: body
+    source: |-
+      Brentano rejects almost all these principles. After translating the categorical propositions into existential form, he concludes that (i) and (ii) are the only rules correctly identified by traditional logic. (iii) to (vi) turn out to be mistaken if *S* is an empty term. (vii) and (viii) are correct principles, but no real conversion of a judgement takes place. The converted propositions simply express *one* judgement in two ways. This is why Brentano says that his theory
+    step1: TBD
+    step2: TBD
+  - id: 152
+    kind: body
+    source: |-
+      > leads to nothing less than a complete overthrow, and at the same time, a reconstruction of elementary logic. Everything then becomes simpler, clearer, and more exact. (PES 230 [II 77; SVS 1, 251])
+    step1: TBD
+    step2: TBD
+  - id: 153
+    kind: body
+    source: |-
+      The core idea from which Brentano starts is very simple: traditional logic takes the A-form and the I-form to express positive judgements, and the E-form and the O-form to express negative ones. According to Brentano, that is a confusion. All universal propositions (both A and E) express negative judgements and therefore lack existential import, whereas all particular propositions (both I and O) express positive judgements with existential import. The reduction thesis fits in nicely with this idea, or so it seems. It helps us to correctly interpret the principles of traditional logic and to see which of them one should retain. In turn, the simplification of the square of opposition lends support to the reduction thesis. Everything seems to fit nicely.[^note-23]
+    step1: TBD
+    step2: TBD
+  - id: 154
+    kind: body
+    source: |-
+      But a closer look reveals that this tight fit between Brentano’s theory of judgement and his reform of logic is illusory. With the advance of quantificational logic, it became clear that in order to correct the square of oppositions in the way in which Brentano suggests, all one needs to do is to use existentially quantified formulas instead of categorical propositions (see Church 1947: 56)[^church-1947]. This observation contains both good and bad news for Brentano. The good news is that Brentano’s logical intuitions find support in quantificational logic. The bad news is that his reduction thesis ceases to play a role in reforming logic. Surely, a quantified formula *may* express an existential judgement with a non-propositional content, as Brentano conceived it, but it may also express a judgement with a propositional content. To put it in other words: Brentano’s revision of traditional logic can be replicated without making use of his reduction thesis.
+    step1: TBD
+    step2: TBD
+  - id: 155
+    kind: body
+    source: |-
+      ## 5. The Theory of Double Judgements
+    step1: TBD
+    step2: TBD
+  - id: 156
+    kind: body
+    source: |-
+      When one reads the first edition of Brentano’s *Psychology*, the reduction thesis appears to be the backbone of Brentano’s theory of judgement. But that is in fact not so. In the second edition (1911) Brentano added several appendices, one of which is entitled “On genuine and fictitious objects” (PES appendix ix). Here Brentano recapitulates his theory of judgement and turns his back on the reduction thesis. Neither is it true, Brentano now says, that all categorical propositions can be transformed without change of meaning into existential propositions. Nor is it true that all judgements are of existential form.
+    step1: TBD
+    step2: TBD
+  - id: 157
+    kind: body
+    source: |-
+      It takes a careful reading to fully appreciate the significance of Brentano’s change of mind. While the change is dramatic, it does not undermine Brentano’s theory completely. On the contrary. All of the following claims still remain in place: in perception we make simple existential judgements by affirming or rejecting an object that we perceive (PES 295 [II 164; SVS 1, 413]);[^note-24] categorical propositions can be equivalent with existential propositions (PES 298 [II 168; SVS 1, 416]; existential propositions can express concepts with a complex subject matter (ibid.). While these claims all remain unchanged, what Brentano gives up is the idea of uniformity in the realm of judgement. That is what Brentano’s anti-reduction turn comes to:
+    step1: TBD
+    step2: TBD
+  - id: 158
+    kind: body
+    source: |-
+      *Anti-reduction* It is false that all judgements can be given a uniform psychological treatment.
+    step1: TBD
+    step2: TBD
+  - id: 159
+    kind: body
+    source: |-
+      Why did Brentano turn away from a unified theory of judgement? Consider first a line of reasoning that Brentano may have used in one of his lectures:[^note-25]
+    step1: TBD
+    step2: TBD
+  - id: 160
+    kind: body
+    source: |-
+      > […] since Aristotle, the categorical form has been considered as the basic form of judgement, while the other doctrine that the basic form of judgement is the existential form emerged only in recent times. Yet there can be no doubt that the absolute majority of our judgements take the form “A is B”, not the existential form, and that the Aristotelian logic made the right decision to ground its logical developments on that form [of judgement]. This apparent contradiction we must try to resolve. (LRU 113f., author translation)
+    step1: TBD
+    step2: TBD
+  - id: 161
+    kind: body
+    source: |-
+      Whether it was Hillebrand or Brentano who made the point, it is a very good question: Why should one bother to reduce categorical to existential judgements, if most of our judgements are expressed in categorical form? That is to say: Why not take such propositions at face value instead of claiming that language disguises the nature of our judgements?
+    step1: TBD
+    step2: TBD
+  - id: 162
+    kind: body
+    source: |-
+      However, there is also a good answer to this question. We usually do not make simple judgements, but what Brentano now calls “double judgements”, and in order to express such judgements we make use of the categorical form. In a double-judgement one affirms the existence of some object and then adds a second judgement that presupposes that the first judgement has been made.
+    step1: TBD
+    step2: TBD
+  - id: 163
+    kind: body
+    source: |-
+      The novel idea here is that judgements become more complex when they are built up in *three* steps: First one presents an object *S* and acknowledges its existence. Then one presents a property *P* and identifies *P* with the object *S* in thought that one has acknowledged, and finally one acknowledges *S* with the addition of [*mit der Zugabe*] *P*. (see PES 295 [II 164; SVS 1, 413]
+    step1: TBD
+    step2: TBD
+  - id: 164
+    kind: body
+    source: |-
+      What is it to identify *P* with *S* in thought? Brentano tells us that identification is not a kind of judgement and that the result of an identification is a presentation (PES 317, [II 206]).[^note-26] A natural way to understand Brentano is to think of identification as a way of forming complex presentations. Brentano seems mainly to have conjunction in mind. We can conjoin the presentation of [warm] and [round] to the presentation of [something warm & round]. Conjunction is here a primitive operation on presentations that is independent of judgement.[^note-27]
+    step1: TBD
+    step2: TBD
+  - id: 165
+    kind: body
+    source: |-
+      But what is the point of this complication? Why does Brentano not stick with the simpler two-step procedure that we are already familiar with: first, one combines *S* and *P* in an act of presentation, prior to making any judgement, and then one acknowledges “*S*-that-is-*P*” as a complex object? Is there a special way of identifying *S* and *P* which presupposes that the object *S* has to be acknowledged before such an identification can be made?[^note-28]
+    step1: TBD
+    step2: TBD
+  - id: 166
+    kind: body
+    source: |-
+      Demonstrative judgements are a good case to support Brentano’s new idea:
+    step1: TBD
+    step2: TBD
+  - id: 167
+    kind: body
+    source: |-
+      > A sentence of the form “That thing is *P*” expresses a double judgement consisting of (i) an acknowledgement of the object picked out by the demonstrative “that thing” and (ii) the conjoining of the idea [That] and [*P*] (read as “the thing which is that and *P*” and (iii) an acknowledgement of the thing which is that and *P*.
+    step1: TBD
+    step2: TBD
+  - id: 168
+    kind: body
+    source: |-
+      The formulation of the second judgement must be chosen with care. One would miss Brentano’s point, if one took the second judgement to have as content “that the thing just acknowledged is *P*”. Acknowledging an object and judging that one acknowledges it are not the same thing. Therefore, one could make the latter judgement without actually making the first affirmation. That is ruled out if one describes the second judgement as affirming of that thing *that has been acknowledged*, that it is *P*. Only thus one capture’s Brentano idea that in a double-judgement the second judgement is inseparable from the first: one can affirm something of an object only after one has actually affirmed its existence (see PES 296 [II 165; SVS 1, 414]).[^note-29]
+    step1: TBD
+    step2: TBD
+  - id: 169
+    kind: body
+    source: |-
+      Another possible misunderstanding is worth mentioning at this point. We have earlier seen that Brentano, like Frege, distinguishes predication from judgement. Now it may seem that Brentano backtracks on this agreement. On his new theory it seems that predication occurs when one affirms *P* of *S*, which means when one judges of *S* that it is *P*. But Brentano does not backtrack on this point. He still holds that predication occurs prior to and independently of judging. That is what the three-step process in a double-judgement guarantees: after acknowledging *S*, one must first identify *P* with *S*, i.e., predicate *P* of *S*, before one can judge that *S* is *P*, i.e., acknowledge *S* in conjunction with *P*.
+    step1: TBD
+    step2: TBD
+  - id: 170
+    kind: body
+    source: |-
+      Let us now turn to a second line of reasoning with which Brentano motivates his new theory. This line involves a thorough reconsideration of the categorical propositions of traditional logic. Following the model of singular propositions just elaborated, Brentano suggests that propositions of the I-form and the O-form also express double-judgements:
+    step1: TBD
+    step2: TBD
+  - id: 171
+    kind: body
+    source: |-
+      > Looked at more closely […a judgement of the form “Some *S* is *P*”] signifies a double judgement (*Doppelurteil),* one part of which acknowledges the subject, and, after the predicate has been identified in presentation with the subject, the other part acknowledges the subject which had been acknowledged all by itself by the first part, but with this addition—which is to say it ascribes to it the predicate *P*. (PES 295 [II 164; SVS 1, 413], translation amended)
+    step1: TBD
+    step2: TBD
+  - id: 172
+    kind: body
+    source: |-
+      Likewise, the O-form “Some *S* is not *P*”:
+    step1: TBD
+    step2: TBD
+  - id: 173
+    kind: body
+    source: |-
+      > consists of the acknowledgement of *S*, and this is the basic constituent of the double judgements. The second part relates to it and presupposes it in such a way as to be inseparable from it. And this second part is negative: it does not […] ascribe an attribute to the *S*, […] but rather denies one of it. (ibid.)
+    step1: TBD
+    step2: TBD
+  - id: 174
+    kind: body
+    source: |-
+      What is the rationale behind these claims? It is obviously no coincidence that Brentano makes them in the context of discussing the distinction between genuine and fictitious objects. This distinction becomes important for him because judgements are intentional mental acts, and as such they can be both about real things or about inventions of our own minds. These invented or “fictitious” objects can be of various kinds. We may invent something in hallucination or by imagining it in our dreams, like a magical island, or we may read about a mythological figure described in a story, like Pegasus, or we may invent non-existing objects by our way of speaking or as part of a metaphysical theory.
+    step1: TBD
+    step2: TBD
+  - id: 175
+    kind: body
+    source: |-
+      In the present context, Brentano is concerned particularly with fictitious objects invented by language or metaphysics: he calls them “negatives”, since they are denoted by negative terms which may occur either in the subject-position or the predicate-position of a categorical proposition. Such terms are regularly used in common language when one speaks of an “unintelligent man”, or an “unattractive thing” (PES 298 [II 169; SVS 1, 417].[^note-30] Or they may be introduced by artificial terms like “a non-white thing” or a “non-human”. Brentano denies that such terms actually have a denotative function and denote something that could be made an object of judgement. The following consideration may be taken as supporting Brentano’s point: When we count the properties of an object, only genuine properties should count. The properties of a flower may include being red and being a rose; but in addition to that the rose does not also have the further properties of being not-black and being not a daisy. It is of course correct to *say* that the flower is neither black nor a daisy, but in saying this one does not ascribe negative properties to it. One simply denies that it has the properties of being black and being a daisy. That is why Brentano insists that negation belongs to the mode of judgement, not to its content (see section 1, claim 5).
+    step1: TBD
+    step2: TBD
+  - id: 176
+    kind: body
+    source: |-
+      Brentano requires from a theory of judgement that it stays away from postulating fictitious entities of any kind. In this respect his earlier analysis of propositions of the O-form and the A-form turns out to be deficient. His claim about the O-form was that in judging that *S* is not *P*, one affirms the existence of an *S*-that-is-not-*P*. That conflicts with his restriction against negative properties because when one affirms a complex like *S*-that-is-not-*P*, one affirms all of its parts (see PES 208 [II 49; SVS 1, 231]). Thus, in affirming an *S*-that-is-not-*P*, one would affirm not only the entire complex, but also both of its “parts”: *S* and not-*P*. Note that the problem cannot be solved by joining the negation with the copula “is”, because the copula indicates the quality of the judgement and propositions of the O-form express *positive* judgements according to Brentano.
+    step1: TBD
+    step2: TBD
+  - id: 177
+    kind: body
+    source: |-
+      The way out of this problem is provided by Brentano’s theory of double-judgement. On the new analysis, judgements of the O-form are partially positive and partially negative. They affirm the existence of the subject *S*, and then deny the predicate *P* of that subject. Now the negation belongs to the mode of judgement, not to its subject matter.
+    step1: TBD
+    step2: TBD
+  - id: 178
+    kind: body
+    source: |-
+      Brentano considers this new analysis to provide a further insight into the way how language disguises the nature of judgement.[^note-31] Obviously, we cannot read off from the linguistic expression whether a given proposition expresses a simple or a double-judgement. It takes the scalpel of a philosopher to figure this out. In some cases, however, no decision may be reached. Then Brentano advises us to consider the proposition to be homonymous. This seems to be the proper verdict with propositions of the I-form. They can be interpreted either as expressing a simple judgement (“an SP exists”) or a double-judgement (“an *S* exists and that *S* is *P*”) (see LRU 114, and Hillebrand 1891: 98)[^hillebrand-1891].
+    step1: TBD
+    step2: TBD
+  - id: 179
+    kind: body
+    source: |-
+      A further ambiguity of this kind arises in the case of propositions of the E-form (“No *S* is *P*”). Their explicit negative quality speaks against an interpretation that takes them to express a double-judgement like propositions of the O-form.[^note-32] Brentano therefore ventures another idea what these propositions express: judgements of higher-order or “meta-judgements”:
+    step1: TBD
+    step2: TBD
+  - id: 180
+    kind: body
+    source: |-
+      > Anyone who says, “No *S* is *P*” is thinking of someone judging that “An *S* is *P*”, and declaring that in thinking of him in this way he is thinking of someone who judges incorrectly. (PES 298 [II 168; SVS 1, 416])
+    step1: TBD
+    step2: TBD
+  - id: 181
+    kind: body
+    source: |-
+      Brentano here exploits the principle that judgements of the E-form contradict judgements of the I-form. Denying that someone judges correctly that *S* is *P*, therefore means to judge that no *S* is *P*. Likewise, Brentano exploits the principle that A-judgements contradict O-judgements when he says that propositions of the A-form also express meta-judgements:
+    step1: TBD
+    step2: TBD
+  - id: 182
+    kind: body
+    source: |-
+      > If the O-form means the double-judgement “There is an *S* and it is not *P*”, then the proposition “Every *S* is *P*,” says that anyone who makes both of those judgements is judging falsely. (PES 298 [II 168; SVS 1, 416])
+    step1: TBD
+    step2: TBD
+  - id: 183
+    kind: body
+    source: |-
+      In this way, Brentano again manages to satisfy the restriction on negative properties. His earlier theory takes propositions of the A-form to express simple existential judgement. Brentano now considers that to be a mistake because it introduces the complex *S*-that-is-not-*P*, which includes the negative part “not-P”. Again, the “not” here cannot be taken as an indicator of the quality of the judgement, since one would then deny the existence of an *S*-that-is *P*. With propositions of the E-form this problem does not arise. In this case, two interpretations are admissible, which makes “No *S* is *P*” an ambiguous proposition: it either expresses the simple negative existential judgement that no *S*-that-is-*P* exists, or the higher-order judgement that someone who accepts an *S*-that-is-*P* judges incorrectly.
+    step1: TBD
+    step2: TBD
+  - id: 184
+    kind: body
+    source: |-
+      In sum, Brentano’s theory of double-judgement shows why a reduction of all categorical propositions to existential judgements is impossible.[^note-33] On the other hand, there is no way for Brentano of reducing existential propositions to propositions expressing double-judgements. Brentano is therefore forced to abandon the project of giving a uniform treatment of all judgements within the constraints of his theory.[^note-34]
+    step1: TBD
+    step2: TBD
+  - id: 185
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: TBD
+    step2: TBD
+  - id: 186
+    kind: note
+    source: |-
+      [^note-1]: Brentano’s students not only transmitted his views, they often took them as an inspiration for going beyond—or rebelling against—what has become called “Brentanian orthodoxy”. This debate is not covered in the present article. But see the works by Hillebrand, Husserl, Marty, Meinong, and Twardowski mentioned in the bibliography, as well as the insightful comparisons of their views with that of Brentano in Betti 2013, Betti & van der Schaar 2004, Cobb-Stevens 1998, Fréchette 2014, Ierna 2008, Janousek 2015 and 2017, Łukasiewicz 2007, Rojszczak & Smith 2003, and Staiti 2015.
+    step1: TBD
+    step2: TBD
+  - id: 187
+    kind: note
+    source: |-
+      [^note-2]: Rollinger 2020, 106–141 focusses on Brentano’s remarks about judgement in Brentano’s lectures on logic..
+    step1: TBD
+    step2: TBD
+  - id: 188
+    kind: note
+    source: |-
+      [^note-3]: Brentano also holds that combing ideas is not sufficient for making a judgement. We prefer to translate the German term ‘*Merkmal*’ that Brentano used literally and uniformly as ‘mark’ and not, as it is done in the published translation of *Psychologie*, sometimes as ‘attribute’, sometimes as ‘feature’. We have changed the translations accordingly.
+    step1: TBD
+    step2: TBD
+  - id: 189
+    kind: note
+    source: |-
+      [^note-4]: References in square quotes are to the two currently available German editions cited in the bibliography.
+    step1: TBD
+    step2: TBD
+  - id: 190
+    kind: note
+    source: |-
+      [^note-5]: Brentano acknowledges that this way of using ‘content’ deviates from the tradition. For it allows negative and positive judgements to have the same content. In his Logic lectures (EL80, 13[140]) Brentano distinguished in the content of a judgement form and matter, where matter corresponds to the marks or combination thereof and quality to the positive or negative force with which these marks are thought. In this terminology positive and negative judgements can have the same matter, but differ in form.
+    step1: TBD
+    step2: TBD
+  - id: 191
+    kind: note
+    source: |-
+      [^note-6]: That was not Brentano’s last word on this matter however. In VNV he backtracked and argued that Bain’s view is compatible with his own.
+    step1: TBD
+    step2: TBD
+  - id: 192
+    kind: note
+    source: |-
+      [^note-7]: See Frege 1918, 152ff; Reinach 1911, § 14ff (in the English translation). For discussion see Textor 2013a.
+    step1: TBD
+    step2: TBD
+  - id: 193
+    kind: note
+    source: |-
+      [^note-8]: The English translation misses this point by translating “*anerkennen*” as “accepting”. We therefore change the translation and say that for Brentano in a positive judgement one acknowledges an object (and thereby accepts its existence), while in a negative judgement one rejects an object (and thereby denies its existence).
+    step1: TBD
+    step2: TBD
+  - id: 194
+    kind: note
+    source: |-
+      [^note-9]: Actually, the argument is more complex than this brief summary suggests: The argument assumes that in acknowledging a combination all its parts are acknowledged in the same way. But if one can acknowledge an object only together with others, it becomes redundant to acknowledge it in particular. Predicating existence is therefore no idle move. In the negative case, one might hold that the implicit affirmation of A’s existence is suspended. That observation may be taken to confirm Brentano’s point that in such cases “more needs to be done” than merely separating the ideas of A and the ideas of existence. But it may not refute the view that even in negative existential judgements an act of predication takes place.
+    step1: TBD
+    step2: TBD
+  - id: 195
+    kind: note
+    source: |-
+      [^note-10]: Crivelli (2004: 103–104) gives a Brentano inspired discussion of this problem for Aristotle.
+    step1: TBD
+    step2: TBD
+  - id: 196
+    kind: note
+    source: |-
+      [^note-11]: If the following passage has been correctly transmitted by his students, then Brentano backtracked here:
+
+      > [I]n his theory of judgement Aristotle overlooked […] simple acknowledgments and rejections, which do not have predicates; his definition of true and false is of no use for them. We need a definition which is applicable to all judgements. (FCE 87 [138])
+
+      Brentano must have changed his mind about how to read *Metaphysics*. As Tassone notes, one can find here the roots of Brentano’s reworking of Aristotle’s theory of truth, moving from a substantive to a deflationary account. (see Tassone 2011: 305; and Brandl 2017)[^brandl-2017][^tassone-2011].
+    step1: TBD
+    step2: TBD
+  - id: 197
+    kind: note
+    source: |-
+      [^note-12]: The unusual formalism should make plain that “God exists” is not to be formalized according to St. Thomas and Brentano as “*F*(*a*)”, where “*a*” stands for God and “*F*” for the property to exist. The negations “God does not exist” and “God is not almighty” would accordingly be formalized as “God (+not)” and “God (+not) almighty”, where “(+not)” indicates the negative quality of the judgement, i.e., an act of denial.
+    step1: TBD
+    step2: TBD
+  - id: 198
+    kind: note
+    source: |-
+      [^note-13]: What Brentano might also find objectionable is the way in which St. Thomas in the passage he quotes characterizes the use of “is”, namely as an “act of essence” that does not mean “the composition of a proposition effected by the mind in joining a predicate to a subject”. In Brentano’s view, “act of affirmation” is the proper way to describe what St. Thomas has in mind.
+    step1: TBD
+    step2: TBD
+  - id: 199
+    kind: note
+    source: |-
+      [^note-14]: Rosenkoetter (2010: 553ff ) provides further textual evidence that Kant held that there are one-term judgements. See also Martin (2010) who teases out the connection between Kant and Fichte in relation to the notion of positing.
+    step1: TBD
+    step2: TBD
+  - id: 200
+    kind: note
+    source: |-
+      [^note-15]: Mill also disagrees with Kant when he goes on to say that for him “existence” is still “a real conception [or?] Idea and a real predicate” (Mill 1872 [1972: 1928])[^mill-1872]
+    step1: TBD
+    step2: TBD
+  - id: 201
+    kind: note
+    source: |-
+      [^note-16]: According to Martin (2010), one may put this coincidence in a larger historical context by going back to Fichte’s theory of thetic judgements. That does not prove, of course, that there was any direct influence from Fichte on Brentano.
+    step1: TBD
+    step2: TBD
+  - id: 202
+    kind: note
+    source: |-
+      [^note-17]: Brentano [PES 214 fn [II 57 fn; SVS 1, 237 fn] references Drobisch’s (1863: §53) comments on Herbart’s achievement.
+    step1: TBD
+    step2: TBD
+  - id: 203
+    kind: note
+    source: |-
+      [^note-18]: For further discussion of the argument see Textor 2007.
+    step1: TBD
+    step2: TBD
+  - id: 204
+    kind: note
+    source: |-
+      [^note-19]: Brentano’s arguments are directed against Reid and Hamilton.
+    step1: TBD
+    step2: TBD
+  - id: 205
+    kind: note
+    source: |-
+      [^note-20]: For different ways to spell out Brentano’s suggestion about existence see Kriegel 2015 and Textor 2017. Vallicella 2001 attempts to show that Brentano’s suggestion cannot be made to work.
+    step1: TBD
+    step2: TBD
+  - id: 206
+    kind: note
+    source: |-
+      [^note-21]: See Mulligan 2013, 126.
+    step1: TBD
+    step2: TBD
+  - id: 207
+    kind: note
+    source: |-
+      [^note-22]: For a defense of Brentano’s view against Jerusalem’s arguments see Textor 2020.
+    step1: TBD
+    step2: TBD
+  - id: 208
+    kind: note
+    source: |-
+      [^note-23]: Alonzo Church acknowledges Brentano’s achievement, saying that he
+
+      > seems to have been the first explicitly to question the validity of those moods of the categorical syllogism which purport to infer a particular conclusion from two universal premises, and to point out that the traditional ‘immediate inferences’ sometimes contradict one another. (Church 1947: 57)[^church-1947]
+
+      For critical discussions and further elaborations of Brentano’s logic reform see Prior 1962: 166ff., Prior 1976, 111-16, Terrell 1976, and Simons 1987.
+    step1: TBD
+    step2: TBD
+  - id: 209
+    kind: note
+    source: |-
+      [^note-24]: Brentano denies that categorical propositions express such simple existential judgements (which he now calls “direct” judgements), but he does not deny their existence in perceptual experience. (Unfortunately, the term “direct” has been dropped in the English translation (see PES 295). Marty picks up the distinction between “direct” and “indirect” judgements in his logic lectures of 1894/95 and suggests that disjunctive and conjunctive judgements are indirect (see Marty 2011: 473–474).
+    step1: TBD
+    step2: TBD
+  - id: 210
+    kind: note
+    source: |-
+      [^note-25]: The actual source of this argument is unclear. It comes from lectures by Franz Hillebrand who may have used material from Brentano’s own lectures.
+    step1: TBD
+    step2: TBD
+  - id: 211
+    kind: note
+    source: |-
+      [^note-26]: There is no reference here to SVS since all additional material from Brentano’s *Nachlass* has been omitted in this edition.
+    step1: TBD
+    step2: TBD
+  - id: 212
+    kind: note
+    source: |-
+      [^note-27]: Linguists find a view in which conjunction of lexical items is prior to the application of functions attractive. See Pietroski 2005, 2.
+    step1: TBD
+    step2: TBD
+  - id: 213
+    kind: note
+    source: |-
+      [^note-28]: We assume that Brentano is committed to answering “yes”, although we admit that the textual evidence for this commitment is not conclusive (see PES 317f., [II 206f.])
+    step1: TBD
+    step2: TBD
+  - id: 214
+    kind: note
+    source: |-
+      [^note-29]: Brentano criticizes Mill for having missed the idea that judgements might be only partially separable form each other, and not like a team of horses that one can always separate (see OKRW fn 22 [SVS 3, 66]).
+    step1: TBD
+    step2: TBD
+  - id: 215
+    kind: note
+    source: |-
+      [^note-30]: Brentano notes that we are so used to these terms that they tend to enter our metaphysical theories. Even Aristotle “who knows very well that a negative cannot become an object … comprises just those negative expressions” (PES 299, [II 169; SVS 1, 417].
+    step1: TBD
+    step2: TBD
+  - id: 216
+    kind: note
+    source: |-
+      [^note-31]: On this point, see Brandl & Textor 2021.
+    step1: TBD
+    step2: TBD
+  - id: 217
+    kind: note
+    source: |-
+      [^note-32]: A hint towards this possibility is made by Hillebrand in his elaboration of Brentano’s theory of judgement (see Hillebrand 1891: 99)[^hillebrand-1891]. Hillebrand claims that propositions of the A-form may be taken to be logically equivalent with a conjunction of two judgements: “There are *S* and there is no *S* that is not *P*”. Likewise, one might suggest that proposition of the E-form to be equivalent with a conjunction of two judgements: “There are *S* and there is no *S* that is *P*”. While Hillebrand thinks to have thereby shown that such propositions are capable of expressing double judgements, he does not explain how the two judgements might be psychologically conjoined. Something like the following would be required: “There are *S* and all of these *S* are *P*” and “There are *S* and none of these *S* are *P*”. But that leaves the terms “all” and “none” in these formulas unexplained. It therefore remains unclear that Hillebrand has shown, as he claims, how one can re-introduce with the help of the theory of double judgement the rule of subalternation as a valid principle of syllogistic logic (ibid.)
+    step1: TBD
+    step2: TBD
+  - id: 218
+    kind: note
+    source: |-
+      [^note-33]: Higher-order judgements are still reducible, if one interprets them as claiming that a subject who judges correctly or incorrectly exists or does not exist. But that makes the negative term “incorrect” part of the subject-matter of these judgements, in violation of Brentano’s restriction against negative properties. In line with that restriction, these higher-order judgements may therefore also turn out to be unreducible to the existential form.
+    step1: TBD
+    step2: TBD
+  - id: 219
+    kind: note
+    source: |-
+      [^note-34]: Of course, one could try to modify Brentano’s theory in a way that still reaches this goal. Following an idea of Anton Marty, G. Bacigalupo has put forward such a proposal that takes all categorical propositions to express double judgements, combined with a meta-judgement stating that either the whole double-judgement or part of it is incorrect. Bacigalupo concludes that on this version of Brentano’s theory, “the I-form becomes the only primitive form; all other forms may be derived from it by means of the notion of incorrectness” (2018: 256). From Brentano’s point of view, this modification has two shortcomings. It overlooks that simple existential judgements are still more primitive than judgements of the I-form, and one cannot make sense of the notion of “incorrectness” without taking both affirmative and negative judgements as primitive.
+    step1: TBD
+    step2: TBD
