@@ -1,10 +1,6 @@
 # 鸠摩利罗·跋陀 Kumārila (Daniel Arnold)
 
-
-
 *首次发表于 2010 年 5 月 4 日；2024 年 3 月 24 日实质修订。*
-
-
 
 鸠摩利罗·跋陀（Kumārila Bhaṭṭa）是前弥曼差派的一位婆罗门教倡导者，约公元 660 年前后活跃，是印度哲学史上最有影响的思想家之一。其重要的哲学贡献涉及弥曼差的构成性焦点——即解释命令人履行吠陀教仪式的文本群（“吠陀”）——所引出的一切问题。几乎所有在他之后写作的印度哲学家都觉得有必要与鸠摩利罗的立场交锋，尤其在知识论与语言哲学上；他那尤其针对佛教论敌的有力论证，在此后印度佛教哲学史上占有重要地位；例如，有影响的佛教哲学家法称阐发其伟大前辈陈那（约公元 480–540 年）的观点，正是为了回应鸠摩利罗对陈那的批评（如 Kataoka and Taber 2021）[^kataoka-2021]——而鸠摩利罗本人正是法称同时代的论敌。鸠摩利罗的思想对商羯罗（八世纪；见 Uskokov 2022）的不二论吠檀多也有决定性影响[^uskokov-2022]，其著作对印度的诠释学、诗学与法理学等领域的理论家有持久的影响。
 
@@ -172,6 +168,10 @@
 抽象对象 | 法称 | 早期现代印度的分析哲学 | 古典印度哲学中的语言与证言 | 古典印度哲学中的逻辑学 | 古典印度哲学中的知觉经验与概念 | 古典印度哲学中的自我认识 | 知识证成的内在主义与外在主义观念 | 意义理论 | 托马斯·里德 | 可靠主义认识论 | 寂护
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
+
+### Critical editions of primary texts
+### Translations of primary texts
+### Secondary literature
 
 [^tantravārttika-1970]: *Tantravārttika*. Edited by Kashinath Vasudev Abhyankar, et al, 1970, ff., in *Śrīmajjaiminipraṇīte Mīmāṃsādarśane…: (Mīmāṃsākaṇṭīravakumārilabhaṭṭapraṇītatantravārttika sahitaśābarabhāṣyopetaḥ)* [7 volumes, comprising Kumārila’s *Tantravārttika*], Pune: Ānandāśrama Sanskrit Series.
 

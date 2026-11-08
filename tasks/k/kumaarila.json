@@ -2,7 +2,7 @@
   "slug": "kumaarila",
   "kind": "retranslate",
   "zh_doc": "k/kumaarila.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "AK-main-20261105",
       "at": "2026-11-05T18:57:34Z",
       "evidence": "四检终态：style 0、prose 残余 153（体裁豁免类）、check_academic --strict OK；check_all 七门禁全绿；相关词条 12 条 SUMMARY 定名对齐"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:41:08Z",
+      "evidence": "r1 独立复核（K 批接管，2026-11-08）：段落 61:60（差 1=源 byline）、marker 65:65、defs 81:81、年份 145:145、尾节子标题 3:0（缺陷：Critical editions / Translations of primary texts / Secondary literature 三个书目子标题未搬）；抽查第 20–21 段（事用之二阶认识与证成种类、codanā 53 颂「凭其由认识构成而得可靠性」）逐句相符。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:41:08Z",
+      "evidence": "r2 缺陷实修：回填三个书目子标题（子标题 3:3）；复跑 check_style 0、check_math 0/0、check_academic OK；残留扫描 0。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:41:10Z",
+      "evidence": "r3 门禁：四检全绿，check_all 七项全绿。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:41:10Z",
+      "evidence": "done 收口（K-main-20261108）：s3_checked 遗留件补回三个书目子标题，五维齐平、抽查无误。"
     }
   ],
   "blockers": [],
