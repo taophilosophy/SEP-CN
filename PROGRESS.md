@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-08 19:38（UTC）
+生成时间：2026-11-08 19:59（UTC）
 
 ## 总览
 
@@ -25,8 +25,8 @@
 |pending|691|
 |cleared|160|
 |drafted|6|
-|s3_checked|64|
-|r1_reviewed|3|
+|s3_checked|63|
+|r1_reviewed|4|
 |done|222|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
@@ -154,7 +154,7 @@
 |conscience|retranslate|s3_checked|C-main-20261108b 2026-11-08|
 |contractarianism|retranslate|s3_checked|CD-main-20261106 2026-11-06|
 |copernicus|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
-|cordemoy|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
+|cordemoy|retranslate|r1_reviewed|REV-main-20261109 2026-11-08|
 |cosmology-30s|retranslate|drafted|C-main-20261109 2026-11-08|
 |creation-conservation|retranslate|s3_checked|主代理 2026-11-01|
 |crescas|retranslate|s3_checked|C-main-20261108 2026-11-07|
