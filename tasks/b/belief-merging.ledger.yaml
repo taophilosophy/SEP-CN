@@ -697,38 +697,50 @@ segments:
     kind: body
     source: |-
       How do impossibility results in judgment aggregation conciliate with the fact that *IC* merging operators can ensure a consistent collective outcome? The reason is that merging operators violate the independence conditions, one of the requirements imposed on aggregation functions in the impossibility theorems. Independence turned out to be an instrumentally attractive condition because it protects an aggregation function from strategic manipulation (Dietrich 2006; Dietrich and List 2007b)[^dietrich-2006][^dietrich-2007b]. This means that an individual has no interest in submitting an insincere judgment set in order to get a better outcome for her. However, independence has been criticized in the literature as a not suitable *desideratum* to aggregate propositions that are logically interconnected (Chapman 2002; Mongin 2008)[^chapman-2002][^mongin-2008]. Clearly, paradoxical results are avoided by resorting to *IC*, which blocks unacceptable outcome. However, it is worth noting that in judgment aggregation the collective rationality condition (that requires logically consistent outputs) plays an analogous role as *IC* in belief merging, that is, blocks unacceptable outcomes like inconsistent majority judgments. Moreover, judgment aggregation impossibility results persist even if we explicitly import additional integrity constraints into the judgment aggregation framework (see Dietrich and List 2008b; Grandi 2012)[^dietrich-2008b][^grandi-2012].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      判断聚合中的不可能结果如何与 *IC* 合并算子能保证融贯集体结果这一事实相调和？原因在于合并算子违反了独立性条件，而这是不可能定理中对聚合函数所施加的要求之一。独立性之所以显得有吸引力，是因为它保护聚合函数免受策略性操纵（Dietrich 2006; Dietrich and List 2007b）[^dietrich-2006][^dietrich-2007b]。这意味着个体没有兴趣为获得对自己更有利的结果而提交不真诚的判断集。然而，文献中批评独立性不是聚合逻辑上相互关联命题的合适要求（Chapman 2002; Mongin 2008）[^chapman-2002][^mongin-2008]。显然，诉诸 *IC* 可以避免悖论性结果，因为 *IC* 阻断了不可接受的结果。但值得注意的是，在判断聚合中，集体理性条件（要求逻辑上融贯的输出）所起的角色类似于信念合并中的 *IC*，即阻断诸如不一致的多数判断这样的不可接受结果。此外，即便我们明确地把额外的完整性约束引入判断聚合框架，判断聚合的不可能结果依然存在（见 Dietrich and List 2008b; Grandi 2012）[^dietrich-2008b][^grandi-2012]。
+    step2: |-
+      判断聚合中的不可能定理，与 *IC* 合并算子能够确保集体结果融贯这一事实，如何得以两全？答案在于：合并算子违背了独立性条件——而这正是不可能定理加于聚合函数的要求之一。独立性之所以看似可取，是因为它使聚合函数免遭策略性操纵（Dietrich 2006; Dietrich and List 2007b）[^dietrich-2006][^dietrich-2007b]：既然如此，个体便没有动机为求对己有利的结果而提交不诚实的判断集。然而文献中早有非议，认为独立性并不适合充当聚合逻辑上彼此关联命题的 *要求*（Chapman 2002; Mongin 2008）[^chapman-2002][^mongin-2008]。悖论性结果之所以能避开，端赖 *IC* 把不可接受的结果挡在门外。不过应当指出，判断聚合中的集体理性条件（要求输出逻辑融贯）所起的作用，恰与信念合并中的 *IC* 相当，同样是把不一致的多数判断之类挡在门外。再者，纵使把额外的完整性约束明确引入判断聚合框架，其不可能结果仍旧成立（见 Dietrich and List 2008b; Grandi 2012）[^dietrich-2008b][^grandi-2012]。
   - id: 84
     kind: body
     source: |-
       It has been observed (Brams et al. 2007a)[^brams-2007a] that majority voting minimizes the sum of Hamming distances. This means that, whenever proposition-wise majority voting selects a consistent judgment set, the same outcome is selected by the *minisum* rule. Majority voting has credentials for being democratic. Another reason to focus on majority distance-based procedures is that the aim of the aggregation of individual judgments should be the right decision rather than a fair distribution of individual dissatisfactions. The epistemic link between majority voting and right decisions has been pointed out in the *Condorcet Jury Theorem*. The theorem shows that, when the voters are independent and have an equal probability of being right better than random, then majority rule ensures to select the right decision and the probability for doing so approaches 1 as the voters’ group size increases (see List 2013 for this and some more formal arguments for majority rule)[^list-2013].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有人指出（Brams et al. 2007a）[^brams-2007a]，多数投票使汉明距离之和最小。这意味着，只要逐命题的多数投票选出一个融贯的判断集，最小和规则也会选出同一结果。多数投票具备民主的资格。关注基于距离的多数程序的另一理由在于，聚合个体判断的目的应当是作出正确决定，而不是公平分配个体的不满。多数投票与正确决定之间的认识论联系已由孔多塞陪审团定理指出。该定理表明，当投票者彼此独立且每人正确的概率相同且优于随机时，多数规则便能确保选出正确决定，且随着投票群体规模增大，如此行事的概率趋近于 1（关于这一点以及多数规则的更多形式论证，见 List 2013）[^list-2013]。
+    step2: |-
+      有人指出（Brams et al. 2007a）[^brams-2007a]：多数投票恰使汉明距离之和最小。也就是说，只要逐命题多数投票所得判断集融贯，最小和规则选出的便是同一结果。多数投票自有其民主的资历。此外，重视基于距离的多数程序，还因为聚合个体判断的目的本应是得出正确决定，而非公平分摊各人的不满。多数投票与正确决定之间的认识论关联，见于孔多塞陪审团定理：只要投票者彼此独立、各人正确的概率相同且高于随机，多数规则便能保证择定正确决定，且群体愈大，如此择定的概率愈近于 1（关于此点及多数规则的更多形式论证，见 List 2013）[^list-2013]。
   - id: 85
     kind: body
     source: |-
       Let us consider the three judges example and see what we obtain when applying the *minisum* rule. The legal doctrine corresponds to $\IC= \{(p\land q) \leftrightarrow r\}$. The court is represented by the profile $E=\{K_1 , K_{2} , K_{3}\}$, which is the multi-set containing the judgment sets $K_1 , K_{2} , K_3$ of the three judges. The three judgment sets and their corresponding models are:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      让我们考虑三位法官的例子，看看应用最小和规则时得到什么。法律教义对应 $\IC= \{(p\land q) \leftrightarrow r\}$。法庭由剖面 $E=\{K_1 , K_{2} , K_{3}\}$ 表示，即含有三位法官的判断集 $K_1 , K_{2} , K_3$ 的多重集。三个判断集及其相应的模型为：
+    step2: |-
+      且看三位法官之例，施用最小和规则会得到什么。法律教义对应 $\IC= \{(p\land q) \leftrightarrow r\}$。法庭以剖面 $E=\{K_1 , K_{2} , K_{3}\}$ 表示，即含三位法官判断集 $K_1 , K_{2} , K_3$ 的多重集。三个判断集及其模型如下：
   - id: 86
     kind: body
     source: |-
       \begin{align} K_1 &= \{p, q, r\} \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \mymod(K_1) &= \{(1, 1, 1)\};\\ K_{2} &= \{p, \neg q, \neg r\} \ \ \ \ \ \ \ \ \ \ \ \ \mymod(K_{2}) &= \{(1, 0, 0)\};\\ K_{3} &= \{\neg p, q, \neg r\} \ \ \ \ \ \ \ \ \ \ \ \ \mymod(K_{3}) &= \{(0, 1, 0)\}.\\ \end{align}
-    step1: TBD
-    step2: TBD
+    step1: |-
+      \begin{align} K_1 &= \{p, q, r\} \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \mymod(K_1) &= \{(1, 1, 1)\};\\ K_{2} &= \{p, \neg q, \neg r\} \ \ \ \ \ \ \ \ \ \ \ \ \mymod(K_{2}) &= \{(1, 0, 0)\};\\ K_{3} &= \{\neg p, q, \neg r\} \ \ \ \ \ \ \ \ \ \ \ \ \mymod(K_{3}) &= \{(0, 1, 0)\}.\\ \end{align}
+    step2: |-
+      \begin{align} K_1 &= \{p, q, r\} \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \mymod(K_1) &= \{(1, 1, 1)\};\\ K_{2} &= \{p, \neg q, \neg r\} \ \ \ \ \ \ \ \ \ \ \ \ \mymod(K_{2}) &= \{(1, 0, 0)\};\\ K_{3} &= \{\neg p, q, \neg r\} \ \ \ \ \ \ \ \ \ \ \ \ \mymod(K_{3}) &= \{(0, 1, 0)\}.\\ \end{align}
   - id: 87
     kind: body
     source: |-
       Table 2 shows the result for the majority operator that minimizes the sum of the Hamming distances. In the first column are all the interpretations for the propositional variables *p*, *q*, and *r*. The interpretations that are not models of the *IC* have a shaded background. So, for example, $(1,0,1)$ cannot be selected as the collective outcome because it violates the legal doctrine. The numbers in the $d_H (\cdot,K_1)$, $d_H(\cdot,K_{2})$, and $d_H(\cdot,K_{3})$ columns are the Hamming distances of each $K_i$ from the corresponding interpretation. In the last column are the sums of the Hamming distances.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      表 2 显示使汉明距离之和最小的多数算子的结果。第一列是命题变项 *p*、*q* 与 *r* 的一切解释。不是 *IC* 模型的解释带有底纹背景。因此，例如 $(1,0,1)$ 不能被选为集体结果，因为它违反了法律教义。$d_H (\cdot,K_1)$、$d_H(\cdot,K_{2})$ 与 $d_H(\cdot,K_{3})$ 列中的数字是各个 $K_i$ 相对于相应解释的汉明距离。最后一列是汉明距离之和。
+    step2: |-
+      表 2 给出使汉明距离之和最小的多数算子所得的结果。表的第一列是命题变项 *p*、*q*、*r* 的全部解释；凡非 *IC* 模型的解释，皆以底纹标示。举例说，$(1,0,1)$ 便不能入选为集体结果，因为它违犯了法律教义。$d_H (\cdot,K_1)$、$d_H(\cdot,K_{2})$、$d_H(\cdot,K_{3})$ 三列中的数目，是各 $K_i$ 距相应解释的汉明距离；末一列则为汉明距离之和。
   - id: 88
     kind: body
     source: |-
       *Table 2*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *表 2*
+    step2: |-
+      *表 2*
   - id: 89
     kind: body
     source: |-
@@ -742,74 +754,116 @@ segments:
       | $(0,1,0)$ | 2 | 0 | 2 | 4 |
       | $(0,0,1)$ | 2 | 2 | 2 | 6 |
       | $(0,0,0)$ | 3 | 1 | 1 | 5 |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      |   | $d_{H}(\cdot,K_{1})$ | $d_{H}(\cdot,K_{2})$ | $d_{H}(\cdot,K_{3})$ | $\Sigma(d_{H} (\cdot,E))$ |
+      | --- | --- | --- | --- | --- |
+      | $(1,1,1)$ | 0 | 2 | 2 | 4 |
+      | $(1,1,0)$ | 1 | 1 | 1 | 3 |
+      | $(1,0,1)$ | 1 | 3 | 1 | 5 |
+      | $(1,0,0)$ | 2 | 2 | 0 | 4 |
+      | $(0,1,1)$ | 1 | 1 | 3 | 5 |
+      | $(0,1,0)$ | 2 | 0 | 2 | 4 |
+      | $(0,0,1)$ | 2 | 2 | 2 | 6 |
+      | $(0,0,0)$ | 3 | 1 | 1 | 5 |
+    step2: |-
+      |   | $d_{H}(\cdot,K_{1})$ | $d_{H}(\cdot,K_{2})$ | $d_{H}(\cdot,K_{3})$ | $\Sigma(d_{H} (\cdot,E))$ |
+      | --- | --- | --- | --- | --- |
+      | $(1,1,1)$ | 0 | 2 | 2 | 4 |
+      | $(1,1,0)$ | 1 | 1 | 1 | 3 |
+      | $(1,0,1)$ | 1 | 3 | 1 | 5 |
+      | $(1,0,0)$ | 2 | 2 | 0 | 4 |
+      | $(0,1,1)$ | 1 | 1 | 3 | 5 |
+      | $(0,1,0)$ | 2 | 0 | 2 | 4 |
+      | $(0,0,1)$ | 2 | 2 | 2 | 6 |
+      | $(0,0,0)$ | 3 | 1 | 1 | 5 |
   - id: 90
     kind: body
     source: |-
       Table 2
-    step1: TBD
-    step2: TBD
+    step1: |-
+      表 2
+    step2: |-
+      表 2
   - id: 91
     kind: body
     source: |-
       We see that, without *IC*, the distance-based majority operator would select the same (inconsistent) outcome as proposition-wise majority voting, that is, $(1,1,0)$. This is the outcome that is at the minimum distance from *E*. However, the merging operator cannot select $(1,1,0)$ as that outcome violates the IC. Neglecting the shaded rows, only four interpretations are candidates to be selected as collective judgment sets, that is, $(1,1,1)$, $(1,0,0)$, $(0,1,0)$, and $(0,0,0)$. Of those, three are the ones that minimize the distances. Thus, collective inconsistency is avoided when a distance-based aggregation is used. However, this method does not always guarantee a unique outcome. In the court example, this aggregation selects the three models $(1,1,1)$, $(1,0,0)$ and $(0,1,0)$ as group positions. Technically, this is said to be an *irresolute* procedure, and a tie-breaking rule needs to be combined if we wish to ensure a unique result (as common in social choice theory).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们看到，若无 *IC*，基于距离的多数算子会选出与逐命题多数投票相同的（不融贯的）结果，即 $(1,1,0)$。这是距 *E* 最近的结果。然而合并算子不能选 $(1,1,0)$ 为结果，因为该结果违反了 IC。忽略底纹行，只有四个解释是集体判断集的候选，即 $(1,1,1)$、$(1,0,0)$、$(0,1,0)$ 与 $(0,0,0)$。其中三个是使距离最小者。于是，使用基于距离的聚合时，集体不一致被避免了。然而这一方法并不总能保证唯一结果。在法庭例子中，这一聚合选出三个模型 $(1,1,1)$、$(1,0,0)$ 与 $(0,1,0)$ 作为群体立场。技术上，这被称为无决断的程序；若我们希望确保唯一结果（如社会选择理论中常见的那样），就需要结合一个决胜规则。
+    step2: |-
+      由此可见，若无 *IC*，基于距离的多数算子所选出的结果，与逐命题多数投票相同，即不融贯的 $(1,1,0)$——这恰是距 *E* 最近的结果。但合并算子不能取 $(1,1,0)$，因为它违犯 IC。撇开底纹之行，可作集体判断集候选者只有四个解释：$(1,1,1)$、$(1,0,0)$、$(0,1,0)$ 与 $(0,0,0)$。其中三个使距离达到最小。可见采用基于距离的聚合，集体不一致便得以避免。只是此法未必总能给出唯一结果：在法庭一例中，该聚合便以 $(1,1,1)$、$(1,0,0)$、$(0,1,0)$ 三个模型为群体立场。就技术而言，这称为无决断的程序；若欲求得唯一结果，须再配上一条决胜规则（社会选择理论中即如此）。
   - id: 92
     kind: body
     source: |-
       The applicability of merging techniques developed in computer science to judgment aggregation problems does not mean that the two disciplines have the same objectives. As we have seen, the original motivation of belief merging was to define ways to aggregate information coming from different sources. Since the sources can have different access to the information, no externally given agenda is assumed. This is a difference with the judgment aggregation framework, where individuals are required to submit their opinion on a given set of items. Belief merging and judgment aggregation do not only differ in the type of inputs they aggregate. They also output different results: a collective base satisfying some given integrity constraints for belief merging, and a collective judgment on the given agenda for judgment aggregation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      计算机科学所发展的合并技术可应用于判断聚合问题，但这并不意味着两个学科有相同的目标。如我们所见，信念合并的原初动机是界定聚合来自不同来源的信息的方式。由于各来源获取信息的途径可能不同，并不假定存在外部给定的议程。这一点与判断聚合框架不同，后者要求个体就一组给定条目提交其意见。信念合并与判断聚合的差异不只在所聚合输入的类型上。它们输出的结果也不同：信念合并输出满足某些给定完整性约束的集体基，判断聚合则输出关于给定议程的集体判断。
+    step2: |-
+      计算机科学所发展的合并技术虽可用于判断聚合问题，却并不意味着两门学科志趣相同。前文已见，信念合并的初衷在于界定聚合不同来源信息的方式。各来源获取信息的机会未必均等，故此处并不假定有一个外部给定的议程——这与判断聚合框架有别，后者要求个体就一组既定条目陈述意见。二者的差异还不止于所聚合输入的类型：其输出亦不相同，信念合并输出的是满足某些完整性约束的集体基，判断聚合输出的则是关于既定议程的集体判断。
   - id: 93
     kind: body
     source: |-
       Another difference resides in the fact that judgment aggregation assumes that all members are rational, and so they all submit consistent judgment sets. In belief merging, this is not required. Agents can submit belief bases that are inconsistent with the *IC* (Grégoire 2004)[^grégoire-2004]. If an individual submits a judgment that violates an integrity constraint, that judgment set will not figure among the candidates to represent the group position. However, his input will not be disregarded and will be taken into account in the merging process. The possibility to abstain from expressing an opinion on a certain item is also easily taken into account in a belief merging setting. If individuals need to have their say on *p*, *q* and *r* and one agent believes *q* and *r* to be true but does not have a clear opinion on *p*, this will be represented as $\mymod(K_1)= \{(1, 1, 1),$ $(0, 1, 1)\}$ and the distances calculated accordingly. The completeness requirement on judgment sets has also been weakened in the judgment aggregation framework. List and Pettit (2002) first discussed the weakening of completeness in the context of supermajority and unanimity rules. Later, it was shown (Gärdenfors 2006; Dokow and Holzman 2010)[^dokow-2010][^gärdenfors-2006] that, when judgment sets are not assumed to be complete, any independent and unanimous aggregation function turns out to be weakly oligarchic, that is, a subset of the individuals will decide the collective outcome. Intuitively, this is a less negative result than dictatorship, though it reduces to dictatorship in the case in which only one individual belongs to that subset. Dietrich and List (2008a) independently obtained equivalent results on oligarchic rules to those in (Dokow and Holzman 2010)[^dokow-2010].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一差异在于：判断聚合假定所有成员都是理性的，因而他们都提交融贯的判断集。在信念合并中，这并非必需。智能体可以提交与 *IC* 不一致的信念基（Grégoire 2004）[^grégoire-2004]。若某个体提交的判断违反某项完整性约束，该判断集不会出现在代表群体立场的候选之列。然而他的输入不会被无视，而会在合并过程中被考虑。对某一事项表示弃权的可能性，在信念合并的设定中也很容易顾及。若个体须就 *p*、*q* 与 *r* 表态，而某智能体相信 *q* 与 *r* 为真但对 *p* 没有明确意见，这将被表示为 $\mymod(K_1)= \{(1, 1, 1),$ $(0, 1, 1)\}$，距离也相应计算。判断集上的完备性要求，在判断聚合框架中也被削弱了。List 与 Pettit（2002）首先在超多数规则与全体一致规则的语境中讨论了完备性的削弱。后来有人证明（Gärdenfors 2006; Dokow and Holzman 2010）[^dokow-2010][^gärdenfors-2006]，当不假定判断集完备时，任何独立且全体一致的聚合函数都会是弱寡头制的，即由个体的一个子集决定集体结果。直观上，这比独裁制少一些否定意味，尽管在只有一个个体的情形下它退化为独裁制。Dietrich 与 List（2008a）独立地得到了与（Dokow and Holzman 2010）[^dokow-2010]中等价的寡头规则结果。
+    step2: |-
+      尚有另一差别：判断聚合假定成员皆理性，故各人所提交的判断集莫不融贯；信念合并不作此假定，智能体所交的信念基纵与 *IC* 相违亦可（Grégoire 2004）[^grégoire-2004]。某个体的判断若违反完整性约束，该判断集自然不入群体立场候选之列，但其输入并不会被弃置，合并且仍会把它算上。至于对某一事项弃权不表态，在信念合并的设定中亦不难兼顾：设个体须就 *p*、*q*、*r* 表态，而某智能体确信 *q* 与 *r*、对 *p* 则无定见，此时可表为 $\mymod(K_1)= \{(1, 1, 1),$ $(0, 1, 1)\}$，距离照此计算。判断聚合框架中，判断集的完备性要求同样已获放宽。List 与 Pettit（2002）最先在超级多数规则与全体一致规则的语境下讨论放宽完备性；后来证明（Gärdenfors 2006; Dokow and Holzman 2010）[^dokow-2010][^gärdenfors-2006]，一旦不再假定判断集完备，任何独立而全体一致的聚合函数皆是弱寡头制的——即由个体的某一子集决定集体结果。此说较独裁制为温和，尽管子集仅含一人时仍退为独裁。Dietrich 与 List（2008a）亦独立得出与（Dokow and Holzman 2010）[^dokow-2010]相当的寡头规则结果。
   - id: 94
     kind: body
     source: |-
       Finally, if model-based merging approach is syntax-dependent, judgment aggregation explicitly permits syntax-dependence. This can give rise to decision framing problems (Cariani et al. 2008)[^cariani-2008] or logical agenda manipulation (Dietrich 2006)[^dietrich-2006] when a judgment problem can be presented using two logically equivalent but syntactically different agendas.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，若基于模型的合并进路是依赖句法的，则判断聚合明确允许句法依赖。当某一判断问题可用两个逻辑等价但句法不同的议程来呈现时，这可能引起决定框架问题（Cariani et al. 2008）[^cariani-2008]或逻辑议程操纵（Dietrich 2006）[^dietrich-2006]。
+    step2: |-
+      末了，判断聚合明确容许句法依赖，而基于模型的合并进路则否。当一个判断问题可以两个逻辑等价而句法各异的议程来陈述时，便可能引出决定框定问题（Cariani et al. 2008）[^cariani-2008]，或逻辑上的议程操纵（Dietrich 2006）[^dietrich-2006]。
   - id: 95
     kind: body
     source: |-
       A formal investigation of the relationships between belief merging and judgment aggregation can be found in (Everaere et al. 2015, 2017)[^everaere-2015]. As we have seen, belief merging takes a profile of propositional belief bases as input, where such bases represent the beliefs of a certain individual, not restraint to a given agenda. Judgment aggregation, on the other hand, asks people to submit their judgments on a specific set of issues. The analysis rests on the assumption that an individual’s beliefs allow deriving her opinion on the agenda’s items. Thus, in (Everaere et al. 2015)[^everaere-2015] a *projection function p* (assumed to be identical for all the individuals) is defined. The role of such projection function is precisely to determine the judgments of an agent (input of judgment aggregation operators) starting from her beliefs (input of belief merging). So, for example, if an individual only believes $a\land b$ and one of the agenda items is *a*, then the projection function can derive that the person submits a “yes” as judgment on *a*. However, if she believes only *a* and one of the agenda item is $a\land b$, she will probably be not able to submit a judgment on that item. For this reason, individual judgment sets in (Everaere et al. 2015)[^everaere-2015] are not necessarily complete (individuals can abstain on some agenda’s issues). Using the projection *p*, two paths along which a collective judgment can be derived from a profile of belief bases are considered. Along one path (merge-then-project), the individual belief bases are first merged using a merging operator and then the collective judgment is computed by the projection *p*. Along the other path (project-then-aggregate), starting from the individual bases, the individual judgment sets are first computed by *p* and then aggregated using a judgment aggregation procedure to determine the collective judgment on the given agenda. Thus, the question addressed is whether the two collective judgments obtained by following the two paths coincide. Two cases are considered: the general case (incomplete agendas) and the case in which the agenda is complete (i.e. it contains all possible interpretations). For example, the agenda $A= \{\neg a \land \neg b, \neg a \land b, a \land \neg b, a \land b\}$ is complete whereas the agenda $A= \{\neg a \land \neg b, \neg a \land b, a \land \neg b\}$ is not. Hence, if an individual believes $a\land b$, her judgment set will be $(0,0,0,1)$ in the first agenda and $(0,0,0)$ in the second one, which may lead to different collective outcomes depending on whether the merge-then-project or the project-then-merge path is used. The fact that by properly choosing the agenda one may manipulate the result has been investigated in the judgment aggregation literature (Dietrich 2016, Lang et al. 2016)[^dietrich-2016][^lang-2016]. In the general case, IC merging methods can give results that are inconsistent with those obtained by using judgment aggregation operators satisfying unanimity or majority preservation[^note-5]. On a more positive side, when the agenda is complete, the collective judgments obtained by following the two paths coincide for some judgment aggregation operators satisfying properties closed to some IC merging postulates.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对信念合并与判断聚合之间关系的形式考察可见于（Everaere et al. 2015, 2017）[^everaere-2015]。如我们所见，信念合并以命题信念基的剖面为输入，这些基代表某个个体的信念，并不限于某个给定议程。另一方面，判断聚合要求人们就一组特定议题提交判断。该分析立足于这一假定：个体的信念允许导出她对议程条目的意见。因此，（Everaere et al. 2015）[^everaere-2015]定义了一个投影函数 *p*（假定对所有个体相同）。该投影函数的作用正是从某智能体的信念（信念合并的输入）出发确定其判断（判断聚合算子的输入）。于是，例如若某个体只相信 $a\land b$，而议程条目之一是 *a*，则投影函数可导出此人就 *a* 提交“是”作为判断。然而，若她只相信 *a*，而议程条目之一是 $a\land b$，她很可能无法就该条目提交判断。为此，（Everaere et al. 2015）[^everaere-2015]中的个体判断集不必完备（个体可对议程的某些议题弃权）。借助投影 *p*，考虑了可由信念基剖面导出集体判断的两条路径。沿着一条路径（先合并后投影），先用合并算子合并个体信念基，再通过投影 *p* 计算集体判断。沿着另一条路径（先投影后聚合），先从个体基出发由 *p* 计算个体判断集，再用判断聚合程序聚合以确定关于给定议程的集体判断。于是，所处理的问题是：沿两条路径所得的集体判断是否重合。考虑两种情形：一般情形（不完备议程）与议程完备的情形（即议程包含一切可能的解释）。例如，议程 $A= \{\neg a \land \neg b, \neg a \land b, a \land \neg b, a \land b\}$ 是完备的，而议程 $A= \{\neg a \land \neg b, \neg a \land b, a \land \neg b\}$ 则否。于是，若某个体相信 $a\land b$，其判断集在第一个议程中为 $(0,0,0,1)$，在第二个议程中为 $(0,0,0)$；据所用者为先合并后投影抑或先投影后合并的路径，这可能导向不同的集体结果。通过恰当选择议程即可操纵结果这一事实，已在判断聚合文献中受到考察（Dietrich 2016, Lang et al. 2016）[^dietrich-2016][^lang-2016]。在一般情形下，IC 合并方法所得结果，可能与使用满足全体一致或多数保持性质的判断聚合算子所得的结果不一致[^note-5]。较为乐观的一面是：当议程完备时，对某些满足与若干 IC 合并公设相近性质的判断聚合算子而言，沿两条路径所得的集体判断重合。
+    step2: |-
+      信念合并与判断聚合之间关系的形式探究，见于（Everaere et al. 2015, 2017）[^everaere-2015]。如前所述，信念合并以命题信念基的剖面为输入，诸基代表某个个体的信念，并不拘于某一既定议程；判断聚合则要求个人就一组特定议题提出判断。其分析立足于一项假定：由个体信念可以导出其关于议程条目的意见。职是之故，（Everaere et al. 2015）[^everaere-2015]界定了投影函数 *p*（假定对一切个体相同），其职分正是自智能体的信念（信念合并之输入）推出其判断（判断聚合算子之输入）。举例说，某个体若仅信 $a\land b$，而议程条目之一为 *a*，则投影函数可推出此人就 *a* 投“是”。反之，若她仅信 *a*，而议程条目之一为 $a\land b$，她便多半无从就该条目表态。正因如此，（Everaere et al. 2015）[^everaere-2015]中的个体判断集不必完备（个体对议程某些议题可以弃权）。借投影 *p*，该文考虑了自信念基剖面导出集体判断的两条路径：一为“先合并后投影”，即先用合并算子合并诸个体信念基，再以投影 *p* 算出集体判断；一为“先投影后聚合”，即先由 *p* 算出各人的判断集，再以判断聚合程序聚合，定出关于既定议程的集体判断。于是问题便是：两条路径所得集体判断是否相合。文中分两种情形：一般情形（议程不完备）与议程完备的情形（议程含一切可能的解释）。例如议程 $A= \{\neg a \land \neg b, \neg a \land b, a \land \neg b, a \land b\}$ 完备，而 $A= \{\neg a \land \neg b, \neg a \land b, a \land \neg b\}$ 则不完备。设某个体相信 $a\land b$，其判断集在前一议程中为 $(0,0,0,1)$，在后一议程中为 $(0,0,0)$；取“先合并后投影”抑或“先投影后合并”，所得集体结果便可能不同。至于巧择议程即可操纵结果一事，判断聚合文献已有探究（Dietrich 2016, Lang et al. 2016）[^dietrich-2016][^lang-2016]。在一般情形下，IC 合并方法所得，可能异于采用满足全体一致或多数保持性质的判断聚合算子所得[^note-5]。较可乐观者，议程完备之时，对某些满足与若干 IC 合并公设相近之性质的判断聚合算子来说，两条路径所得的集体判断互相吻合。
   - id: 96
     kind: body
     source: |-
       Recently, distance-based operators have been applied to a new problem of judgment aggregation: dynamically rational judgment aggregation. Traditionally, judgment aggregation focuses on static aggregation: individuals submit their judgments, and those are aggregated using some procedure. However, in more realistic contexts, new information may become available at any time. How to aggregate judgments in the light of new information? Dietrich and List explore whether collective judgments can be dynamically rational, meaning that they change rationally in response to new information (Dietrich and List 2024)[^dietrich-2024]. A judgment aggregation rule is said to be dynamically rational with respect to a revision operator if individually revising the judgments in light of some information and then aggregating them leads to the same result as revising the old collective judgment with the new information. Distance-based revision operators, for instance, allow one to minimally change a judgment while consistently including the new information. Thus, they are rationality-preserving. Dietrich and List investigate the conditions under which judgment aggregation rules and revision operators can achieve dynamic rationality, highlighting the challenges and an impossibility theorem associated with it. Possible escape routes (obtained by relaxing the conditions on the aggregation rule or the revision operator) to the impossibility result are also examined.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      近来，基于距离的算子已被应用于判断聚合的一个新问题：动态理性的判断聚合。传统上，判断聚合关注静态聚合：个体提交其判断，然后用某种程序聚合这些判断。然而在更现实的情境中，新信息可能随时出现。如何在新信息之下聚合判断？Dietrich 与 List 探究集体判断能否是动态理性的，意即它们能否针对新信息作出理性的变化（Dietrich and List 2024）[^dietrich-2024]。若个体先在新信息之下修正判断、然后聚合所得的结果，与用新信息修正旧的集体判断所得的结果相同，则称一条判断聚合规则相对于某修正算子是动态理性的。例如，基于距离的修正算子允许在融贯地纳入新信息的同时对判断作最小改动。因此它们保持理性。Dietrich 与 List 考察了判断聚合规则与修正算子能够达成动态理性的条件，凸显了其中的困难以及与之相关的一条不可能定理。通向该不可能结果的若干可能出路（通过放宽对聚合规则或修正算子的条件而得）也得到了考察。
+    step2: |-
+      晚近，基于距离的算子又被施用于判断聚合的一个新问题：动态理性的判断聚合。传统上，判断聚合着眼于静态聚合——个体提交判断，再以某种程序将其聚合。但在更切实际的情境中，新信息随时可能到来。此时当如何聚合判断？Dietrich 与 List 追问道：集体判断能否是动态理性的，即能否针对新信息作出理性的改易（Dietrich and List 2024）[^dietrich-2024]。所谓一条判断聚合规则相对于某修正算子具有动态理性，是指：先在新信息之下各自修正判断、再行聚合，与径直以新信息修正旧的集体判断，二者结果相同。例如基于距离的修正算子，能在融贯地纳入新信息的同时只对判断作最小改动，故而是保理性的。Dietrich 与 List 考察了判断聚合规则与修正算子达成动态理性的条件，指出其中的种种困难，并给出一条相关的不可能定理；也探讨了逃出该不可能结果的若干出路（放宽对聚合规则或修正算子的条件而得）。
   - id: 97
     kind: body
     source: |-
       ### 3.1 Extensions and criticisms
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 扩展与批评
+    step2: |-
+      ### 3.1 扩展与批评
   - id: 98
     kind: body
     source: |-
       The *minisum* rule applied to merge the judgment sets of the three judges in the previous section is based on the same principles as the *Kemeny rule*, a well-known preference aggregation rule (Kemeny 1959)[^kemeny-1959]. Unlike what happened in social choice, at the beginning the literature of judgment aggregation focused on the axiomatic method and only few concrete aggregation rules were proposed and studied. Arguably, the interest of researchers from computer science and multi-agent systems for judgment aggregation lead to the definition of more concrete aggregation rules and to the investigation of their relations. The same idea of minimization that plays such a crucial role in belief merging can be found as a principle in the definition of several voting rules in social choice theory. For instance, the *minisum* rule turned out to be equivalent to several other rules recently introduced in the judgment aggregation literature (Lang et al. 2017)[^lang-2017].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上一节中用于合并三位法官判断集的最小和规则，其原则与著名的偏好聚合规则凯梅尼规则相同（Kemeny 1959）[^kemeny-1959]。与社会选择中的情形不同，判断聚合文献起初侧重公理化方法，所提出并研究的具体聚合规则寥寥无几。可以说，正因计算机科学与多智能体系统的研究者对判断聚合发生兴趣，才有了更多具体聚合规则的定义以及对其相互关系的研究。在信念合并中起如此关键作用的最小化观念，在社会选择理论中也是若干投票规则定义中的一项原则。例如，最小和规则被证明与判断聚合文献晚近引入的若干其他规则等价（Lang et al. 2017）[^lang-2017]。
+    step2: |-
+      前节用以合并三位法官判断集的最小和规则，其原则与著名的偏好聚合规则凯梅尼规则相同（Kemeny 1959）[^kemeny-1959]。与社会选择的情形不同，判断聚合文献起初偏重公理化方法，具体聚合规则之提出与研究者寥寥。应该说，正是计算机科学与多智能体系统研究者的兴趣，促成了更多具体聚合规则的界定以及彼此关系之探究。最小化这一观念在信念合并中举足轻重，在社会选择理论的若干投票规则定义中同样是一条原则。例如最小和规则，已证明与判断聚合文献晚近引入的若干其他规则相当（Lang et al. 2017）[^lang-2017]。
   - id: 99
     kind: body
     source: |-
       The interest of computer scientists for aggregation methods is witnessed by the fact that judgment aggregation is now among the topics of computational social choice, an interdisciplinary discipline that promotes exchanges and interactions between computer science and social choice theory. Computational issues of aggregation rules are among the interests of computational social choice. The intuition behind the application of complexity theory to aggregation rules is to assess the acceptability of an aggregation rule on the basis of pragmatic considerations, that is, the algorithmic feasibility of applying that rule. So, an aggregation rule is acceptable when its outcome is ‘easy’ to compute, that is, it can be solved by an algorithm in time which grows – at worst – polynomially with the size of the input (only in some pathological cases we can imagine desiring a rule that will not be able to return an outcome in a foreseeable future). On the other hand, if an aggregation rule is manipulable, then it is acceptable when it is ‘hard’ for an individual to manipulate it. Thus, the study of the computational complexity of aggregation rules may reveal that, even though a rule is manipulable, it is actually hard for an individual to act on that. The computational complexity of the distance-based procedures has been studied (Endriss et al. 2012; Endriss and de Haan 2015)[^endriss-2015][^endriss-2012]. The high computational complexity of Hamming rule in judgment aggregation mirrors a parallel result that the Kemeny rule in preference aggregation is also highly computational complex, as first shown in Bartholdi et al. (1989) and Hudry (1989). A new rule has been proposed to overcome the high computational complexity of distance-based procedures. The average-voter rule (Grandi 2012)[^grandi-2012] selects the judgment set submitted by the individuals that minimizes the sum of the distances. Hence, the outcome has to be one of the submitted judgment sets. This allows reducing the computational complexity and, at the same time, selects the most representative individual.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      计算机科学家对聚合方法的兴趣，可见于判断聚合如今已成为计算社会选择这一跨学科领域的课题之一；该领域促进计算机科学与社会选择理论之间的交流与互动。聚合规则的计算问题属于计算社会选择的关切之列。把复杂性理论应用于聚合规则，其直觉是以实用考量评估聚合规则的可用性，即应用该规则的算法可行性。于是，若一条聚合规则的结果“容易”计算，即能由算法在与输入规模（最坏情形下）多项式增长的时限内求解，则该规则是可接受的（只有在某些病态情形下我们才会想要一条无法在可预见未来给出结果的规则）。另一方面，若一条聚合规则是可操纵的，则当个体“难以”操纵它时，它是可接受的。因此，对聚合规则计算复杂性的研究可能揭示：即便某规则可操纵，个体实际上也难以据此行事。基于距离的程序的计算复杂性已得到研究（Endriss et al. 2012; Endriss and de Haan 2015）[^endriss-2015][^endriss-2012]。汉明规则在判断聚合中的高计算复杂性，呼应着偏好聚合中凯梅尼规则同样具有高计算复杂性这一平行结果，后者最早由 Bartholdi 等人（1989）与 Hudry（1989）指出。为克服基于距离的程序的高计算复杂性，有人提出了一条新规则。平均投票者规则（Grandi 2012）[^grandi-2012]选取个体所提交的判断集中使距离之和最小者。因此，结果必须是所提交的判断集之一。这既降低了计算复杂性，又同时选出了最具代表性的个体。
+    step2: |-
+      计算机科学家对聚合方法的兴致，可由一事见之：判断聚合如今已列入计算社会选择这一跨学科领域，而该领域正推动计算机科学与社会选择理论互通声气。聚合规则的计算问题，即属计算社会选择所关心者。把复杂性理论施于聚合规则，其用意是在实用层面评定规则可否采纳，即施行该规则的算法是否可行。若某规则的结果“易于”算出——能以算法在与输入规模成多项式增长（最坏情形下）的时间之内求得——该规则便可接受（只有在某些病态情形下，我们才会企盼一条在可预见的将来给不出结果的规则）。反过来，一条规则若可被操纵，则只要个体“难以”操纵它，仍属可接受。是故研究聚合规则的计算复杂性，或可揭示：某规则纵可操纵，个体实际上却难以施行操纵。基于距离的程序之计算复杂性已有研究（Endriss et al. 2012; Endriss and de Haan 2015）[^endriss-2015][^endriss-2012]。汉明规则在判断聚合中所需计算甚巨，恰与偏好聚合中凯梅尼规则同样计算繁重这一平行结果相映——此点最早由 Bartholdi 等人（1989）与 Hudry（1989）揭出。为避开基于距离的程序之繁重计算，有人另提一条新规：平均投票者规则（Grandi 2012）[^grandi-2012]在众个体所交判断集之中，选取距离之和最小者，故其结果必为已提交判断集之一。这既减轻了计算负担，又同时选出最具代表性的个体。
   - id: 100
     kind: body
     source: |-
       A generalization of distance-based methods for judgment aggregation has been given in (Miller and Osherson 2009)[^miller-2009]. Besides generalizing (by taking a general metric) the merging operator we have applied to the doctrinal paradox, they proposed three other distance-based procedures for judgment aggregation. In case proposition-wise majority collapses into an inconsistent collective judgment set, one method (*Endpoint*) selects as group outcome the closest (according to some distance metric) consistent collective judgment set. The other two methods (*Full* and *Output*) look at minimal ways to change the profile in order to output a consistent proposition-wise majority collective judgment set. The difference is that *Output* allows the individual judgment sets in the modified profile to be inconsistent.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      判断聚合中基于距离方法的一种推广见于（Miller and Osherson 2009）[^miller-2009]。除了把我们所施用于教义悖论的合并算子加以推广（通过取一般度量）之外，他们还为判断聚合提出了另外三种基于距离的程序。当逐命题的多数意见归结为不一致的集体判断集时，有一种方法（端点法）选取（依某种距离度量）最接近的融贯集体判断集作为群体结果。另外两种方法（完全法与输出法）着眼于对剖面作最小改动以输出逐命题多数一致的集体判断集。其差别在于，输出法允许修改后剖面中的个体判断集不一致。
+    step2: |-
+      判断聚合的基于距离方法，另有一种推广见（Miller and Osherson 2009）[^miller-2009]。该文不仅把前文施于教义悖论的合并算子作了推广（改用一般度量），还为判断聚合另立三种基于距离的程序。当逐命题多数意见汇成不融贯的集体判断集时，端点法便择取（依某种距离度量）最接近的融贯集体判断集为群体结果；完全法与输出法则设法对剖面作最小改动，俾使输出成为逐命题一致的集体判断集，二者之别在于输出法容许修改后的剖面中个体判断集互不一致。
   - id: 101
     kind: body
     source: |-
