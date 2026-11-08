@@ -758,92 +758,122 @@ segments:
     kind: body
     source: |-
       ## 5. Conceptual Competence
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. 概念能力
+    step2: |-
+      ## 5. 概念能力
   - id: 92
     kind: body
     source: |-
       Intuitions are often associated with conceptual competence in roughly the following way. When one has a certain degree of conceptual competence one possesses, perhaps implicitly and in ways that are difficult to capture in language, criteria for what it takes to fall under the concept (or what it takes to fall outside the concept). It is then possible to craft cases and propositions in such a way that they directly engage one’s conceptual competence, and enable one to apply a concept or concepts solely on the basis of conceptual competence. For some views sympathetic to this line of thought see, e.g., Goldman (2007: 4; 2013: passim), Graham and Horgan (1994), and Ludwig (2007).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      直觉常与概念能力以下述方式相联系。当一个人具有某种程度的概念能力时，他就拥有——也许是隐含地、以难以用语言捕捉的方式——关于什么算作落入该概念之下（或什么算作落在该概念之外）的标准。于是，就有可能这样来设计事例与命题：它们直接调动一个人的概念能力，使人仅凭概念能力就能应用某个或某些概念。关于同情这一思路的一些观点，例如见 Goldman（2007: 4; 2013: passim）、Graham 与 Horgan（1994）、Ludwig（2007）。
+    step2: |-
+      直觉常被同概念能力联系起来，大致如此：一个人具备某种程度的概念能力，也就拥有——或许是隐含地、以难以言传的方式——判定何者落入该概念（或何者落于其外）的标准。据此便可设计事例与命题，使之径直调动概念能力，让人仅凭概念能力即可应用某一或多个概念。同情此思路者，例见 Goldman（2007: 4; 2013: passim）、Graham 与 Horgan（1994）、Ludwig（2007）。
   - id: 93
     kind: body
     source: |-
       Applied to the ethical domain, the thought is that some case-based intuitions just are states of categorizing with a concept based solely on conceptual competence (or this plus reflection), and some intuitions concerning more general propositions are recognitions of conceptual connections based solely on one’s conceptual competence (or this plus reflection).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      应用于伦理领域，其想法是：某些基于事例的直觉，恰恰就是仅凭概念能力（或概念能力加反思）而用某一概念进行分类的状态；而某些关于更一般命题的直觉，则是仅凭一个人的概念能力（或概念能力加反思）而对概念联系的识别。
+    step2: |-
+      移之于伦理领域，其意谓：某些基于事例的直觉，正是仅凭概念能力（或再辅以反思）而作的“以概念归类”状态；某些关于更一般命题的直觉，则是仅凭概念能力（或再辅以反思）而对概念间联系的识别。
   - id: 94
     kind: body
     source: |-
       We could psychologize concept possession and competence, whereby having a concept is to psychologically encode some criteria for how to apply it. Or we could make the view less psychologized. For this second option, we could connect it back with the apprehension account above, and with a capacity of our understanding to apprehend abstract relations between properties/universals. One such view would say that what it is to fully grasp a concept is to have the capacity, if favorable conditions, to apprehend those abstract relations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们可以把概念拥有与概念能力心理学化：拥有一个概念，就是以心理学方式编码某些关于如何应用它的标准。或者，我们也可以让这一观点少一些心理学色彩。就第二种选择而言，我们可以把它与上面的领会说明联系起来，与我们的理解力领会属性／共相之间抽象关系的能力联系起来。一种这样的观点会说：完全把握一个概念，就是在有利条件下能够领会那些抽象关系。
+    step2: |-
+      我们也可能把“拥有概念”与“概念能力”心理学化，即：拥有一个概念就是以心理学方式编码若干应用标准。也可以让该说少一些心理学色彩：将其与前述领会说明相接，归于理解力领会属性／共相间抽象关系的能力。按其中一种说法，完全把握一个概念，就是在有利条件下有能力领会这些抽象关系。
   - id: 95
     kind: body
     source: |-
       Robert Audi appears to endorse a view like this, though he makes use of the idea of conceptual containment. He suggests that a self-evident proposition is one where the concept of the subject *contains* the concept of the predicate (Audi 2008: 479)[^audi-2008]. Conceptual containment is typically associated with analytic propositions, where one tries to explain what it is for a proposition to be true in virtue of the meanings of its constituents. Thus, “a vixen is a female” is analytically true (or so the proposal goes) because the concept of being a vixen contains the concept of being a female.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Robert Audi 似乎赞同类似的观点，尽管他使用了概念包含这一想法。他提出，自明命题就是主项的概念*包含*谓项的概念的命题（Audi 2008: 479）[^audi-2008]。概念包含通常与分析命题相联系：人们试图用命题构成成分的意义来解释一个命题何以为真。因此，“雌狐是雌性”是分析地为真的（至少该提议如此），因为“雌狐”这一概念包含“雌性”这一概念。
+    step2: |-
+      Robert Audi 似也赞同此类观点，只是借用了“概念包含”。他提出，自明命题即主项概念*包含*谓项概念的命题（Audi 2008: 479）[^audi-2008]。概念包含通常与分析命题相关：欲以构成成分的意义解释命题何以为真。“雌狐是雌性”之所以分析地为真（该提议如此主张），正因为“雌狐”概念包含“雌性”概念。
   - id: 96
     kind: body
     source: |-
       Audi suggests, however, that not all cases of containment are associated with analytic propositions. In support of this idea, Audi proposes the following example: that burning a person with a red-hot poker would cause him excruciating pain is a moral reason not to do it (Audi 2008: 479)[^audi-2008]. Here the concept of being a moral reason for action allegedly contains the concept of avoiding the causing of pain in a way that makes the second a sufficient condition for the first. It takes grasping these concepts and some reflection to see the correlative fact: that phi avoids the causing of pain is a reason to phi.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，Audi 提出，并非所有包含的情形都与分析命题相联系。为支持这一想法，Audi 举了如下例子：用烧红的火钳烫一个人会造成其剧痛，这是不做此事的道德理由（Audi 2008: 479）[^audi-2008]。在这里，“做某事的道德理由”这一概念据称包含“避免造成痛苦”这一概念，其方式使后者成为前者的充分条件。要看出相应的事实——即“φ 避免了造成痛苦”是支持 φ 的理由——需要把握这些概念并作一些反思。
+    step2: |-
+      但 Audi 主张，并非所有包含情形都与分析命题相干。他举例如下：以烧红的火钳烫人会带来剧痛，这是不施此烫的道德理由（Audi 2008: 479）[^audi-2008]。此处“行动的道德理由”概念据称包含“避免造成痛苦”概念，且包含方式使后者成为前者的充分条件。唯把握住这些概念并稍加反思，方见相应事实：φ 避免了造成痛苦，即构成支持 φ 的理由。
   - id: 97
     kind: body
     source: |-
       Similarly, Robert Cowan (2017) has suggested that one way to develop Ross’s view of self-evident *prima facie* duties is to make those duties implicit commitments for anyone who possesses the relevant moral concept. Adequate understanding, on this view, enables one to make explicit conceptual connections (perhaps with the help of reflection), and the Rossian duties are propositions that make explicit those conceptual connections.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      类似地，Robert Cowan（2017）提出，发展罗斯关于自明*初显*义务之观点的一条途径，是使这些义务成为任何拥有相关道德概念者的隐含承诺。按照这一观点，充分理解使人能够（也许借助反思）把概念联系明确表达出来，而罗斯式的义务就是把这些概念联系明确表达出来的命题。
+    step2: |-
+      同样，Robert Cowan（2017）提出：若要发展罗斯关于自明*初显*义务之说，可把这些义务视为任何拥有相关道德概念者的隐含承诺。依此说，充分理解使人（或借反思之助）得以把概念联系显明化，而罗斯式义务正是把这些联系显明化的命题。
   - id: 98
     kind: body
     source: |-
       The main problem with tying one’s moral metaphysics and epistemology too closely to conceptual competence is that it seems to over-generate cases of conceptual incompetence. Start with your favorite intuition that survives scrutiny and which you use to form a belief. Is it not possible for someone to disagree with you even though they possess the relevant concepts (to a very high degree), they reflect adequately, and they are not otherwise cognitively impaired? They might be mistaken in their judgment, but it does not seem to be a *conceptual* mistake akin to the mistake one makes when they deny that a vixen is a female (see Bedke 2008, 2010, 2016)[^bedke-2008].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把一个人的道德形而上学与认识论过分紧密地系于概念能力，其主要问题在于：它似乎会过度生成概念无能的案例。从你最喜欢的、经得起审视并据以形成信念的直觉出发。难道不可能有人与你意见相左，尽管他们拥有相关概念（且程度极高）、作了充分反思，并且在其他方面没有认知缺陷？他们的判断可能是错的，但这似乎不是一种*概念性*错误，不像一个人否认“雌狐是雌性”时犯的错误（见 Bedke 2008, 2010, 2016）[^bedke-2008]。
+    step2: |-
+      把道德形而上学与认识论过分系于概念能力，主要麻烦是：它会过度生成“概念无能”的事例。取一个你中意且经得起审视、并据以形成信念的直觉：难道不可能有人与你相左——他们高度拥有相关概念、反思充分、别无认知缺陷？他们的判断或错，但似乎并非*概念性*错误，不像否认“雌狐是雌性”所犯之错（见 Bedke 2008, 2010, 2016）[^bedke-2008]。
   - id: 99
     kind: body
     source: |-
       ## 6. Outputs of System 1 Processing
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6. 系统 1 加工的产物
+    step2: |-
+      ## 6. 系统 1 加工的产物
   - id: 100
     kind: body
     source: |-
       It is worth mentioning a theory of intuitions more prevalent in the psychology literature. It starts with the idea that cognition has two reasoning processes, system 1 and system 2. System 1 processing is characterized as implicit, fast, automatic, low effort, and modular (think of gut reactions based on stereotypes and heuristics), while system 2 processing is explicit, slow, deliberative, effortful, and general-purpose (think of deductive reasoning with many premises). Drawing on this distinction in cognitive science, some psychologists working on moral cognition have suggested that some intuitions are affective responses from system 1 processing (Haidt 2001; Haidt & Bjorklund 2007)[^haidt-2001][^haidt-2007]. Based on fMRI scans of brain activation, Joshua Greene (2008) has argued that consequentialist judgments are largely the products of system 2 while deontologist judgments are largely the products of system 1.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      值得提及一种在心理学文献中更为流行的直觉理论。它从这样一个想法开始：认知有两种推理过程，系统 1 与系统 2。系统 1 加工的特征是隐含的、快速的、自动的、省力的、模块化的（想想基于刻板印象与启发式的直觉反应）；系统 2 加工则是明确的、缓慢的、审慎的、费力的、通用的（想想带有许多前提的演绎推理）。借助认知科学中的这一区分，一些研究道德认知的心理学家提出，某些直觉是系统 1 加工的情感性反应（Haidt 2001; Haidt & Bjorklund 2007）[^haidt-2001][^haidt-2007]。基于对大脑激活的 fMRI 扫描，Joshua Greene（2008）论证说，后果论判断很大程度上是系统 2 的产物，而义务论判断很大程度上是系统 1 的产物。
+    step2: |-
+      心理学文献中另有一种更流行的直觉理论，值得一说。它始于“认知有两种推理过程——系统 1 与系统 2”这一想法。系统 1 加工是隐含的、快速的、自动的、省力的、模块化的（可设想基于刻板印象与启发式的直觉反应）；系统 2 加工则是显明的、缓慢的、审慎的、费力的、通用的（可设想以众多前提进行的演绎推理）。一些研究道德认知的心理学家借这一区分提出：某些直觉是系统 1 加工的情感性反应（Haidt 2001; Haidt & Bjorklund 2007）[^haidt-2001][^haidt-2007]。依据脑激活的 fMRI 扫描，Joshua Greene（2008）论证：后果论判断大体上是系统 2 的产物，义务论判断大体上是系统 1 的产物。
   - id: 101
     kind: body
     source: |-
       This approach is not necessarily inconsistent with other approaches. But without any finer grained distinctions, it would lump intuitions together with all sorts of other judgments that do not have the same surface features or the same epistemic role. Hunches, impulses, and other states whereby there is no proposition that seems true, and which do not defeasibly justify, are likely some of the outputs of system 1.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一进路未必与其他进路不一致。但若不作任何更精细的区分，它就会把直觉与各种在表面特征或认识论作用上并不相同的其他判断混为一谈。预感、冲动以及其他那些没有命题显得为真、也不能可废止地证成的状态，很可能是系统 1 的部分产物。
+    step2: |-
+      这一进路未必与其他进路相悖。但若无更精细的区分，它会把直觉同各种表面特征、认识论作用均不相同的判断混为一谈：预感、冲动之类并无“显得为真的命题”、也不能可废止地证成的状态，多半也是系统 1 的产物。
   - id: 102
     kind: body
     source: |-
       ## 7. Some Challenges
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7. 若干挑战
+    step2: |-
+      ## 7. 若干挑战
   - id: 103
     kind: body
     source: |-
       ### 7.1 Disagreement
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.1 分歧
+    step2: |-
+      ### 7.1 分歧
   - id: 104
     kind: body
     source: |-
       Many philosophers think that pervasive moral disagreement casts doubt on the claim that certain moral propositions are self-evident. If there were certain moral propositions that can be known if adequately understood, then people with an adequate understanding of them would believe them, and there would be universal assent amongst mature, comprehending people. But there is no such universal assent, at least for the substantive ethical propositions that intuitionists have used to craft a moral theory. So none of those principles are self-evident. Or so one can argue.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      许多哲学家认为，普遍存在的道德分歧使“某些道德命题是自明的”这一主张受到怀疑。如果有些道德命题在得到充分理解时便可被认识，那么对之作充分理解的人就会相信它们，而且在成熟而理解的人中间会有普遍同意。但并没有这种普遍同意，至少对于直觉主义者用来构建道德理论的那些实质性伦理命题而言是如此。所以这些原则没有一个是自明的。人们可以这样论证。
+    step2: |-
+      许多哲学家认为，道德分歧之普遍，足以动摇“某些道德命题自明”之说。若真有某些道德命题，充分理解即可认识，则凡充分理解者都会相信之，成熟而能理解的人之间当有普遍同意。然而并无此种普遍同意——至少对直觉主义者据以构建道德理论的那些实质性伦理命题而言如此。于是可以说：这些原则无一自明。
   - id: 105
     kind: body
     source: |-
       One way intuitionists could defend the view is to grant disagreement over allegedly self-evident propositions and suggest ways to deal with the problem. This was Sidgwick’s strategy. He thought that if there was significant disagreement about the truth of some apparently self-evident moral proposition, then that proposition might not be self-evident. To deal with it, he gives guidance on how to do the best we can in discerning what is self-evident. To guide us, he sets forth four conditions sufficient to establish “a significant proposition, apparently self-evident, in the highest degree of certainty attainable” (1907: 338):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      直觉主义者捍卫该观点的一种方式，是承认关于所谓自明命题存在分歧，并提出应对该问题的办法。这是西季威克的策略。他认为，若关于某个显然自明的道德命题之真存在重大分歧，那么该命题也许并非自明的。为应对这一点，他就如何在分辨自明者时尽力而为给出了指引。为指导我们，他提出了四个条件，足以确立“一个显然自明的重大命题，达到所能获得的最高确定性程度”（1907: 338）：
+    step2: |-
+      直觉主义者可有一法自辩：承认对所谓自明命题确有分歧，同时提出应对之道。这正是西季威克的策略。他以为，若某显然自明的道德命题之真伪引致重大分歧，则该命题或非自明。为应对此点，他给出分辨自明者的指引，列出四项条件，足以确立“一个显然自明的重大命题，达到可企及的最高确定性”（1907: 338）：
   - id: 106
     kind: body
     source: |-
@@ -851,32 +881,48 @@ segments:
       2. its self-evidence must be ascertained by careful reflection,
       3. taken as a whole, propositions taken as self-evident must be mutually consistent, and
       4. the target proposition must lack universal or general denial by others, or at least lack denial among experts (Sidgwick 1907 [1981]: 211–212, 338–342)[^sidgwick-1907].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 目标命题必须清晰而精确；
+      2. 其自明性必须通过审慎反思来确定；
+      3. 整体而言，被视为自明的命题必须相互一致；以及
+      4. 目标命题必须未遭他人普遍或一般的否认，或者至少未遭专家否认（Sidgwick 1907 [1981]: 211–212, 338–342）[^sidgwick-1907]。
+    step2: |-
+      1. 目标命题须清晰、精确；
+      2. 其自明性须经审慎反思而确定；
+      3. 就整体而言，被视为自明诸命题须彼此一致；
+      4. 目标命题须未遭普遍或一般的否认，至少未遭专家否认（Sidgwick 1907 [1981]: 211–212, 338–342）[^sidgwick-1907]。
   - id: 107
     kind: body
     source: |-
       He also warned that it is easy to confuse intuitions with blind impulses, vague sentiments, preferences for action, conclusions from rapid half-conscious processing, and current opinions to which familiarity has given an illusory air of self-evidence, such as conventional law (Sidgwick 1907 [1981]: 211–12)[^sidgwick-1907]. His own attempts to be mindful of these considerations led him to propose the following as self-evident: that the good of any one person is as important as the good of any other, and that one is rationally bound to aim at the good generally, not any part of it (Sidgwick 1907 [1981]: 382)[^sidgwick-1907]. From these and supplementary claims about the good, he argues for a form of consequentialism called *Hedonic Utilitarianism*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      他还告诫说，很容易把直觉与盲目的冲动、模糊的情绪、行动偏好、快速而半意识加工得出的结论，以及因熟悉而带有虚幻自明气息的流行意见（例如习惯法）混为一谈（Sidgwick 1907 [1981]: 211–12）[^sidgwick-1907]。他自己注意这些考量后，提出下列命题为自明的：任何一个人的善与任何另一个人的善同样重要；以及，人有理性上的约束去追求一般的善，而非其中任何部分（Sidgwick 1907 [1981]: 382）[^sidgwick-1907]。从这些命题连同关于善的补充主张，他论证出一种称为*快乐论功利主义*的后果论。
+    step2: |-
+      他更告诫：直觉极易与盲目冲动、模糊情绪、行动偏好、半意识状态下的快速加工结论，以及因耳熟能详而平添虚幻自明感的流行意见（如习惯法）相混淆（Sidgwick 1907 [1981]: 211–12）[^sidgwick-1907]。正因留意于此，他提出如下命题为自明：任何一个人的善与任何他人的善同等重要；人有理性上的约束去追求一般的善，而非其中任何部分（Sidgwick 1907 [1981]: 382）[^sidgwick-1907]。由此连同关于善的补充主张，他论证出了一种名为*快乐论功利主义*的后果论。
   - id: 108
     kind: body
     source: |-
       Other intuitionists allow that various other factors can lead to disagreement over what is self-evident. Clarke, for instance, allowed that stupidity, corruption, or perverseness may make one doubt self-evident propositions (1706 [1969: § 227]). John Balguy also acknowledges that self-evident moral principles, like many other plain and evident truths, may be, and have been, doubted, “even by philosophers and men of letters” whom, presumably, he did not regard as stupid or corrupt (1728 [1969: § 458]). And Price maintained that all forms of knowledge, including intuitive knowledge, may be evident in different degrees (1758 [1969: § 706]). Intuition may be clear and perfect, but may sometimes be faint and obscure. Such variance in degrees of clarity allows that a self-evident proposition may be imperfectly and obscurely grasped, and this may lead someone to deny its truth. Similarly, Moore claimed that “every way in which it is possible to cognise a true proposition, it is also possible to grasp a false one” (1903 [1993: 36]), and Ross notes that self-evident propositions may only be evident to us once we reach a certain moral maturity (1930 [2002: 29]). Given all these ways in which the truth of a self-evident proposition may be missed, it is no surprise that there is no universal assent. But the absence of universal assent is quite consistent with self-evidence, as long as one does not regard “self-evidence” to mean, or imply, obviousness.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一些直觉主义者容许，各种其他因素也会导致关于何者自明的分歧。例如，克拉克容许愚蠢、腐化或乖僻可能使人怀疑自明命题（1706 [1969: § 227]）。John Balguy 也承认，自明的道德原则像许多其他明白显见的真理一样，可能并且已经被怀疑，“甚至被哲学家与文人”怀疑——而他大概不会认为这些人愚蠢或腐化（1728 [1969: § 458]）。普莱斯则主张，一切形式的知识，包括直觉知识，都可能以不同程度的明显性呈现（1758 [1969: § 706]）。直觉可以是清晰而完美的，但有时也可能微弱而模糊。这种清晰程度上的差异，使得一个自明命题可能被不完美地、模糊地把握，而这可能导致某人否认其真。类似地，摩尔声称“凡能认识一个真命题的方式，也同样可能把握一个假命题”（1903 [1993: 36]）；罗斯则指出，自明命题可能只有在我们达到某种道德成熟之后才对我们明显（1930 [2002: 29]）。既然有这么多错失自明命题之真的途径，没有普遍同意也就不足为奇。但只要人们不把“自明”理解为或蕴含“显而易见”，缺乏普遍同意便与自明性完全相容。
+    step2: |-
+      另一些直觉主义者则容许：其他种种因素亦可导致关于何者自明的分歧。克拉克便容许愚蠢、腐化或乖僻使人怀疑自明命题（1706 [1969: § 227]）。John Balguy 亦承认，自明的道德原则如许多明白显见的真理一样，可能且已经遭到怀疑，“甚至被哲学家与文人”怀疑——而他大概不以为这些人愚蠢或腐化（1728 [1969: § 458]）。普莱斯则主张，一切知识（包括直觉知识）的明显性可有不同的程度（1758 [1969: § 706]）：直觉或清晰完美，或微弱隐晦。清晰程度既有差异，自明命题便可能被不完全、不清晰地把握，从而有人否认其真。摩尔同样声称“凡能用以认识真命题的方式，也都可能把握假命题”（1903 [1993: 36]）；罗斯则指出，自明命题或须待我们达到某种道德成熟后才对我们明显（1930 [2002: 29]）。错失自明命题之真的途径既如此之多，无普遍同意便不足为怪；而只要不把“自明”解作或释为“显而易见”，缺乏普遍同意便与自明性全然相容。
   - id: 109
     kind: body
     source: |-
       Despite what has been said above, critics of intuitionism can claim that the fact that there is fundamental disagreement between moral philosophers and even between intuitionists themselves undermines the view that certain propositions are self-evident. These philosophers will have thought long and hard about the relevant propositions, and (we would hope) have a very clear understanding of them. One would, therefore, expect that if there were certain moral propositions the truth of which could be apprehended by understanding, then moral philosophers would converge on these truths. Persistent disagreement amongst reflective, thoughtful, and comprehending moral philosophers may cast doubt on the view that any of these propositions are self-evident.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管有上述种种，直觉主义的批评者仍可主张：道德哲学家之间、甚至直觉主义者之间存在的根本分歧这一事实，削弱了“某些命题是自明的”这一观点。这些哲学家想必对相关命题作过长久的深思，并且（我们愿意希望）对之有非常清晰的理解。因此人们会预期：如果有些道德命题的真可由理解而领会，那么道德哲学家们就会在这些真理上趋于一致。在善于反思、深思熟虑且富有理解的道德哲学家之间持续存在的分歧，可能使“这些命题中任何一个是自明的”这一观点受到怀疑。
+    step2: |-
+      虽有上述辩解，批评者仍可反驳：道德哲学家之间、乃至直觉主义者彼此之间存在根本分歧，这本身就削弱了“某些命题自明”之说。这些人对相关命题想必深思已久，（我们但愿）理解甚明。那么按理可以预期：若某些道德命题之真可凭理解而领会，道德哲学家们终将在此类真理上趋于一致。然而，善于反思、深思熟虑、富有理解的道德哲学家之间分歧依旧，这便令人怀疑其中任一命题是否自明。
   - id: 110
     kind: body
     source: |-
       An alternative strategy for intuitionists is to downplay the amount of fundamental disagreement over allegedly self-evident propositions. They might claim that a lot of moral disagreement stems from disagreement about non-moral facts, such as what the consequences of a certain act will be. For instance, two people might disagree about whether it is permissible to boil lobsters alive just because they disagree about whether lobsters can feel pain. Since the basis of their moral disagreement is this disagreement about the relevant neurological fact, if they agreed on this non-moral fact, we could expect them to agree about the permissibility of boiling lobsters alive.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      直觉主义者的另一种策略，是淡化关于所谓自明命题的根本分歧之分量。他们可以主张，许多道德分歧源于关于非道德事实的分歧，例如某一行为会产生什么后果。举例来说，两个人可能就“活煮龙虾是否可许可”发生分歧，仅仅是因为他们对“龙虾能否感到疼痛”看法不同。既然他们道德分歧的基础是关于相关神经学事实的这一分歧，那么只要他们在这个非道德事实上取得一致，我们便可预期他们在“活煮龙虾是否可许可”上也会一致。
+    step2: |-
+      直觉主义者另有一策：淡化围绕所谓自明命题的根本分歧之分量。他们可以主张，许多道德分歧实源于非道德事实上的分歧，比如某行为将有何后果。例如，两人之于“活煮龙虾是否可许可”意见相左，可能仅因他们对“龙虾能否觉痛”看法不同。既然其道德分歧以此神经学事实上的分歧为基础，则一旦在此非道德事实上取得一致，便可预期他们在活煮龙虾之可许可性上亦归于一致。
   - id: 111
     kind: body
     source: |-
