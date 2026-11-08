@@ -2,8 +2,72 @@
   "slug": "august-rehberg",
   "kind": "retranslate",
   "zh_doc": "a/august-rehberg.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T06:06:22Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "A2-main-20261108",
+      "at": "2026-11-08T13:35:25Z",
+      "evidence": "零信任接管前会话（A-main-20261108）在途件：源文 64484 字符/140 非空行逐段回核，正文 6 节+引用注释型尾节 1:1（marker 123:123、defs 69:69 键集全等、URL 8:8、H2 11:11 源端空节 ## Notes（原文脚注）不镜像）；pubinfo 照 version_pin（Jan 11, 2007 / Spring 2020）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "A2-main-20261108",
+      "at": "2026-11-08T13:35:26Z",
+      "evidence": "体例首校：check_style --strict 0（italic-cjk 17 处全转加粗，其他网络资源中文书名去斜体）；术语册核对——前会话已登 18 条（Volksgeist/Kleinstaat/Ständesstaat/Stände/Landstandschaft/Elementarphilosophie/Popularphilosophie/physiocracy/ochlocracy/salto mortale/advocatus patriae 等）无冲突，补登 historical school of law／Hannoverian Whigs／Ritterakademie／Geheime Ratskollegium 4 条；Savigny 正文形对齐册内定名（弗里德里希·卡尔·冯·萨维尼）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "A2-main-20261108",
+      "at": "2026-11-08T13:39:12Z",
+      "evidence": "语言实修 31 处：check_prose 30→2（de-chain 24→2、weak-verb 4→0、long-sentence 2→0；含作出原创贡献/作出重大贡献/加以反驳改写、71 字长句拆分两处、去「的」链 22 处）；余 2 条（L35 de-chain、L67 weak-verb）均在雷贝格原文直引内，按 ADR-0020 引文豁免并留痕"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "A2-main-20261108",
+      "at": "2026-11-08T13:39:15Z",
+      "evidence": "变更段复核：check_style 0、check_academic --strict 0（学术规范挂钩实拦）、check_prose 余 2 直引豁免、check_math 0 公式；marker 123:123、defs 69:69、URL 8:8、非空行 139:140（差 1=源端空节）、H2 11:11 复算全等；年份差异经逐条定位全为 1902ff/1790s 缩写词边界假差"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "A2-main-20261108",
+      "at": "2026-11-08T13:46:46Z",
+      "evidence": "全文逐节回核源文（140 非空行/6 节全覆盖）：§1 生平（腓特烈拒聘骑士学院、约克公爵、施莱格尔家、默泽尔、休谟与康德）、§2 早期哲学（泛神论之争、实践信仰批判、莱因霍尔德基础主义六点批评）、§3 政治信念（英国宪制、改革保守主义、Stände 改革与 Landstandschaft）、§4 对革命批评（判断论、传统与继承、社会契约、卢梭公意、重农学派）、§5 与康德之争（定言命令形式性六条）、§6 历史主义（萨维尼与《拿破仑法典》、Meinecke、Volksgeist）；注 1–53 逐条回核（含 KrV A133/B172 判断力引文、书目 defs 16 条逐字照录）；纠错译 1 处：§5 平等原则例证原文 as you can prosecute me if I violate your rights 被译成施受同向重复句，已改为「正如我侵犯你的权利时你也可以起诉我」"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "A2-main-20261108",
+      "at": "2026-11-08T13:46:46Z",
+      "evidence": "登记核对：前会话已登 22 人名（Rehberg/Jacobi/Mendelssohn/Herder/Reinhold/Hume/Gentz/Möser/两施莱格尔/荷尔德林/施莱尔马赫/De Lolme/Savigny/Meinecke/Eberhard/George III/Louis XVI/Müller/Jachmann/Lessing/Stein）核对无冲突；补登 6 条注内汉名（Brandes/Spittler/Schlözer/Nicolovius/Epstein/Engel J.J.，生卒待核已留痕）；现代二手文献作者（Manfred Frank/Dieter Henrich/Iggers/Ritter/Weniger/Aris/Vogel Ursula/Braune/Behler/Schöndorffer）按 ADR-0022 保留拉丁形不登；术语补登 4 条见 s1"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "A2-main-20261108",
+      "at": "2026-11-08T14:00:18Z",
+      "evidence": "终检：check_all 七项全绿（SUMMARY 结构/分类目录/单体大小/垃圾产物/术语一致性/学术规范/单元测试）；check_prose 余 2 条直引豁免（ADR-0020）、check_style 0、check_academic --strict 0、check_math 0 公式；H1 与 SUMMARY/mu-lu-s 标题一致；version_pin 与 baseline 一致；对账五项全等"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "A2-main-20261108",
+      "at": "2026-11-08T14:00:19Z",
+      "evidence": "九步闭环 done：a/august-rehberg.md（导论+6 节+参考文献（引用注释）/学术工具/其他网络资源/相关词条/脚注五类尾节，53 条内容注+16 条书目 defs，约 1.5 万汉字）；A 批实况 done 54/160"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:37:11Z",
   "version_pin": {
