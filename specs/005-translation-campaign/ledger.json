@@ -82,7 +82,7 @@
    "phase": "translate",
    "claimed_by": "K-main-20261109",
    "claimed_at": "2026-11-08T20:44:41Z",
-   "note": "2026-11-08 K 批接管（K-main-20261108b，用户指令：现在负责翻译 K，主会话直译不用子代理）：三源对账 done 21/36、s3_checked 1（korean-confucianism，本会话 s1-s3 完成：s1 定点修 16 处含 seg89 漏译三句、seg107 丁/郑氏兄弟、seg123《牧民心书》等；s2 prose 70→57（实修 21、余按学术长句/术语枚举/引文豁免）、s3 五维对账 defs 93:93·markers 94:94·H2 11:11·H3 8:8、四检全绿；人名登记补 24 行；r1-r3 归评审线 R-main-20261108）、cleared 14（源 31.6 万词，体量升序：kant-judgment → kukai → knowledge-how → kant-transcendental → kant-development → kant-spacetime → kant-religion → kant-conceptualism → kant-moral → kant → kant-hume-causality → kant-transcendental-idealism → kant-aesthetics → kyoto-school）。已纠正：kochen-specker 段101 标题粘连与段126/130/132 source 截断（HARD 清零）、kant-mathematics 半账留痕。在途接力：kant-judgment。",
+   "note": "2026-11-08 K 批接管（K-main-20261108b，用户指令：现在负责翻译 K，主会话直译不用子代理）：三源对账 done 21/36、s3_checked 1（korean-confucianism，本会话 s1-s3 完成：s1 定点修 16 处含 seg89 漏译三句、seg107 丁/郑氏兄弟、seg123《牧民心书》等；s2 prose 70→57（实修 21、余按学术长句/术语枚举/引文豁免）、s3 五维对账 defs 93:93·markers 94:94·H2 11:11·H3 8:8、四检全绿；人名登记补 24 行；r1-r3 归评审线 R-main-20261108）、cleared 14（源 31.6 万词，体量升序：kant-judgment → kukai → knowledge-how → kant-transcendental → kant-development → kant-spacetime → kant-religion → kant-conceptualism → kant-moral → kant → kant-hume-causality → kant-transcendental-idealism → kant-aesthetics → kyoto-school）。已纠正：kochen-specker 段101 标题粘连与段126/130/132 source 截断（HARD 清零）、kant-mathematics 半账留痕。在途接力：kant-judgment。｜冲突让出（2026-11-09，K-main-20261109）：kant-judgment 账本段76-82 在本会话开工核查期间（04:52-04:53）被另一活跃会话实时填入（untracked 在途件），判定上一 K 会话仍在线推进该条；本会话按用户预案自动顺延，转译下 5 条（体量升序）：kukai → knowledge-how → kant-transcendental → kant-development → kant-spacetime。kant-judgment 连同其 76-82 段成果全部归他会话，本会话对该文件零写入。",
    "advanced_at": "2026-11-08T15:29:02Z"
   },
   "l": {
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-08T21:23:45Z"
+ "updated_at": "2026-11-09T04:55:00Z"
 }
