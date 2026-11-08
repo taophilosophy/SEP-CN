@@ -2,7 +2,7 @@
   "slug": "kierkegaard",
   "kind": "retranslate",
   "zh_doc": "k/kierkegaard.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "AK-main-20261105",
       "at": "2026-11-05T20:57:39Z",
       "evidence": "四检终态：style 0、prose 残余（体裁豁免类）、check_academic --strict OK；check_all 七门禁全绿；相关词条 12 条 SUMMARY 定名对齐（本真性/存在主义/信仰/信仰主义/黑格尔/希望/康德/爱/路德的哲学影响等）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:54Z",
+      "evidence": "r1 独立复核（K 批接管，2026-11-08）：段落 95:95、marker 112:112、defs 194:194、年份 282:285（多出为 1830s/1840s 年代合写）、尾节子标题 4:0（缺陷：A/B 两个分组与 A.1/A.2 两个著作分期子标题全未搬）；元素表 3 处重复行经回源比对为源文 1843 与 1844 各有一套《两篇/三篇/四篇造就性讲演》，属忠实照录非缺陷；抽查第 39–40 段（法官第二封信、选择即伦理、MacIntyre criterionless 之争）与源文相符。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:54Z",
+      "evidence": "r2 缺陷实修：回填 A. Primary Literature / A.1 Works in Danish / A.2 Works in English / B. Selected Secondary Literature 四个子标题（defs 段前按源序）；复跑子标题 4:4、重复行确认为源文同名著作不予改动；check_style 0、check_math 0/0、check_academic OK。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:56Z",
+      "evidence": "r3 门禁：四检全绿，check_all 七项全绿。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:56Z",
+      "evidence": "done 收口（K-main-20261108）：s3_checked 遗留件补回克尔凯郭尔著作表四个分组子标题，重复行经源文裁定为忠实照录，五维齐平。"
     }
   ],
   "blockers": [],
