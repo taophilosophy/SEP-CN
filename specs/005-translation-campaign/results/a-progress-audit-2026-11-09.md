@@ -54,7 +54,7 @@ done 正文 L56/L64/L72 引用 `../assets/arabic-islamic-phil-math/Fig-{1,2,3}.s
 * **QA 返工队列 13 件**（state 保持 done，末步 `rework-open`）：abduction、abelard、abhidharma、abilities、abner-burgos、abortion、abrabanel、abstract-objects、academic-freedom、actualism-possibilism-ethics、advance-directives、abu-bakr-al-razi、abraham-daud（action、action-perception 两件已于 11-08 收口 `rework-close`）。
 * **并行会话在途件**：`a/academic-freedom.md`、`a/addams-jane.md` 工作区有未提交语言润色（疑 011 译文审阅线），**本会话未动、未提交**，避免抢改。
 * **check_math 误报一件（工具侧）**：alberic-paris 报 `unbalanced` 1，实为镜像行含 `"$2+2=4$"`，检查器货币豁免正则 `\$\d[\d,.]*` 先吞掉 `$2` 留下孤立 `$`；该报告为告警级（退出码只由 missing 驱动），缺失 0。中文侧同式 `$2+2=4$` 经 `.vitepress/math-plugin.mjs` 数字分支可正确配对渲染。处置：登记工具侧修正，不改进文。
-* **术语门禁全局红（非 A 批所致）**：`check_all` 术语一致性项 12 条自洽硬错为 `yi-zhe-shuo-ming.md` / `ren-ming-biao.md` 的重复行（substantial form、Revelation、Moerbeke 等 10 组），经核**HEAD 已存在**，属 008/013 战役范围；A 批 54 件 `check_academic --strict` 全 0 硬错误、`check_terms --docs` 无本批词条级冲突。
+* **check_all 术语项时红时绿（并行在途，非 A 批）**：03:44 首轮全绿；04:00 前曾出现 12 条自洽硬错（`yi-zhe-shuo-ming.md`/`ren-ming-biao.md` 重复行：substantial form、Revelation、Moerbeke 等 10 组，经核 HEAD 已存在，属 008/013 战役存量），随后由该线在途消除；06:30 复跑转为 1 条「冲突: cardinal」——登记册 `cardinal | 基数`（quine-nf，凭证 2026-11-09，他会话当日新增）与 `qian-yan/ci-hui-biao.md` 的 `|Cardinal|枢机主教|集合论语境亦作“基数”|` 主形不一致，两侧文件当时均在并行会话工作区（未提交）。A 批文件与本次提交均未触及登记册/词汇表，故不计入本批缺陷；A 批 54 件 `check_academic --strict` 全 0 硬错误、`check_terms --docs` 无本批词条级冲突。收口前由 008 线消化。
 
 ## 作业队列（未译 106 条，按 `yuanwen` 字符数升序，先短后长）
 
