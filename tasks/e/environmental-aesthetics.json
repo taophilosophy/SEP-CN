@@ -2,8 +2,72 @@
   "slug": "environmental-aesthetics",
   "kind": "retranslate",
   "zh_doc": "e/environmental-aesthetics.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T03:03:30Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "EH-main-20261108b",
+      "at": "2026-11-08T07:43:13Z",
+      "evidence": "账本 99 段（body 96/oir 1/ack 2）lq check 守恒通过（10 条节标题 step1==step2 软旗，结构性可接受）；compose --write 输出 101,115 字符/595 行，节 23 与源 1:1"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "EH-main-20261108b",
+      "at": "2026-11-08T07:43:13Z",
+      "evidence": "逐段对照源钉（pubinfo 2024-08-16 / Fall 2024）：段 99:99；脚注标记 788:788 多重集全等；脚注定义 369:369 键集全等；节 23:23；作者-年引注 473:473；数字 token 4141:4139（源多 1800×2、1960×1 系 1800s/1960s→十九世纪初/二十世纪六十年代体例转换，译多 1 为成书日期 8 月）；相关词条 10 项，2 项英文保留（SUMMARY 无对应子条目）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "EH-main-20261108b",
+      "at": "2026-11-08T07:48:30Z",
+      "evidence": "check_prose 39→0：三轮实修 55 处（de-chain 22、长句 12、被动 3、弱动词 3、plural-men 1 等，逐条精确串替换并断言唯一命中）；无豁免（本词条无引文块长句争议）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "EH-main-20261108b",
+      "at": "2026-11-08T07:48:32Z",
+      "evidence": "s3 终检：check_style --docs --strict 0 问题；check_academic --strict OK（无硬错误）；check_math 0 missing/0 unbalanced；check_prose 0；对账复核同 s1（段 99:99、标记 788:788、defs 369:369、节 23:23、作者-年 473:473）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261108b",
+      "at": "2026-11-08T07:53:57Z",
+      "evidence": "r1 段级核销（独立复核）：数字 token 4141:4139（3 源多全系 1800s/1960s 年代词转换、1 译多为版权日期 8 月）；作者-年引注 473:473 逐条一致；脚注键 788:788 无孤儿无缺失；defs 369:369 键集全等；节 23:23；专名抽检 Carlson/Berleant/Hepburn/Leopold/Muir/Lorrain 与源一致"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261108b",
+      "at": "2026-11-08T07:53:57Z",
+      "evidence": "r2 句级复读：595 行全篇通读，技术术语（NEM、介入美学、景观模式、风景美学、肯定美学、自然环境模式）前后一致；无 ASCII 引号、直角引号、控制字符、英文虚词混入（程序扫描 0 命中）；prose 残余 0"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261108b",
+      "at": "2026-11-08T07:57:05Z",
+      "evidence": "r3 终检：本词条 check_style --docs --strict 0、check_academic --strict OK、check_math 0 missing/0 unbalanced、check_prose 0；check_all 7 项 6 绿，SUMMARY 结构审计红系并行会话 h/holkot 在途未提交改动（非本词条）；登记：术语 19 行、人名 24 行入册后 check_terms 绿"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261108b",
+      "at": "2026-11-08T07:57:05Z",
+      "evidence": "done 终审签收：九步齐（clear/draft/s1/s2/s3/r1/r2/r3/done）；英文 18,426 词→中文 16,409 汉字/595 行；段 99:99、标记 788:788、defs 369:369、节 23:23、作者-年 473:473；四检全绿；术语 19 + 人名 24 登记"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T11:02:17Z",
   "version_pin": {
