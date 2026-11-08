@@ -131,92 +131,122 @@ segments:
     kind: body
     source: |-
       In Korea, ancestral rites (*chesa*, 祭祀, C. *jisi*) remain one of the most enduring expressions of Confucian ritual propriety (禮, C. *li*, K. *ye*), using ritual as a mechanism for ordering society. Far from being mere commemorative practices, these ceremonies historically functioned as a cornerstone of social organization. By prescribing strict rules for who could officiate—typically the eldest son—*chesa* reinforced patrilineal descent and male authority within the family, embedding hierarchical norms into the fabric of everyday life. Women were systematically excluded from performing these rites, their roles confined to preparation and support, reflecting the metaphysical mapping of Yin and Yang onto gender: men as active agents of ritual and lineage continuity, women as passive and subordinate. Through this ritual system, Confucian cosmology was enacted in domestic space, transforming the family into a microcosm of the moral universe. Observing *chesa* was thus not only an act of filial piety but a reaffirmation of social order, where harmony was achieved through fulfilling one’s prescribed role within a divinely patterned hierarchy. Naoaki Hiraishi (2003: 187) underscores the important function of rituals in society, noting their refining influence, and how they have “the advantage of inculcating people with social norms rather than […] social ordering with criminal law and other physical punishment”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在朝鲜，祭祀（*chesa*，祭祀，汉 *jisi*）至今仍是儒家礼（汉 *li*，韩 *ye*）最持久的表达之一，把礼用作整顿社会的机制。这类仪式远不只是纪念性的实践，历史上曾是社会组织的基石。通过规定严格的司仪规则——通常由长子主祭——祭祀强化了父系传承与家庭中的男性权威，把等级规范嵌入日常生活的肌理。女性被系统地排除在行礼之外，其角色限于备办与辅助，这映现了阴阳被映射到性别上的形而上学格局：男性是礼仪与世系延续的能动者，女性则被动而从属。通过这一礼仪体系，儒家宇宙论在家庭空间中得到上演，把家庭转化为道德宇宙的微观缩影。于是，行祭祀不只是孝的行为，也是对社会秩序的重申：在按神圣秩序构型的等级中，各人履行被规定的角色，和谐由此达成。平石直昭（Naoaki Hiraishi，2003: 187）强调仪式在社会中的重要功能，指出其化育作用，以及仪式“具有以社会规范教化人民、而非［……］以刑法与其他体罚来维持社会秩序的优势”。
+    step2: |-
+      在朝鲜，祭祀（*chesa*，祭祀，汉 *jisi*）至今仍是儒家礼（汉 *li*，韩 *ye*）最持久的表达之一，以礼作为整顿社会的机制。这类仪式远不只是纪念性的实践，历史上曾是社会组织的基石。通过规定严格的司仪规则——通常由长子主祭——祭祀强化了父系传承与家庭中的男性权威，把等级规范嵌入日常生活的肌理。女性被系统地排除在行礼之外，其角色限于备办与辅助，这映现了阴阳被映射到性别上的形而上学格局：男性是礼仪与世系延续的能动者，女性则被动而从属。通过这一礼仪体系，儒家宇宙论在家庭空间中得到上演，把家庭转化为道德宇宙的微观缩影。于是，行祭祀不只是孝的行为，也是对社会秩序的重申：在按神圣秩序构型的等级中，各人履行被规定的角色，和谐由此达成。平石直昭（Naoaki Hiraishi，2003: 187）强调仪式在社会中的重要功能，指出其化育作用，以及仪式“具有以社会规范教化人民、而非［……］以刑法与其他体罚来维持社会秩序的优势”。
   - id: 14
     kind: body
     source: |-
       The refining nature of moral education was a central pillar of Korean Confucianism, vigorously asserted by scholars and institutionalized at every level of society—even the king underwent formal Confucian training, receiving lectures on orthodox morality (see Sohn 2000: ch. 1)[^sohn-2000]. Korean Confucians embraced the Mencian view of education as a process of cultivating innate goodness, grounded in the belief that “human nature” (性, C. *xing*, K. *sŏng*) is inherently good. Education, therefore, was not merely instructional but transformative—a vehicle for refining one’s moral disposition and aligning it with universal Principle (理, *i*). In this sense, Mencius’ ideas provided the metaphysical foundation for Chosŏn’s intellectual life, stimulating profound philosophical recalibrations and sparking debates that would define Korean Neo-Confucian thought for centuries.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      道德教育的化育性质是朝鲜儒学的核心支柱，学者们大力主张，并在社会的每一层级加以制度化——连君主也要接受正式的儒家训练，听讲正统道德（见 Sohn 2000: 第 1 章）[^sohn-2000]。朝鲜儒者接受孟子的教育观，即教育是培养固有善性的过程，其根据是“性”（汉 *xing*，韩 *sŏng*）本善的信念。因此教育不只是传授，而是转化性的——是砥砺人的道德禀性、使之与普遍的理（汉 *li*，韩 *i*）相合的载体。在此意义上，孟子的观念为朝鲜王朝的思想生活提供了形而上学基础，激发了深刻的哲学重校，并引发了此后数百年界定朝鲜性理学的论辩。
+    step2: |-
+      道德教育的化育性质是朝鲜儒学的核心支柱，学者们大力主张，并使之在社会每一层级制度化——连君主也要接受正式的儒家训练，听讲正统道德（见 Sohn 2000: 第 1 章）[^sohn-2000]。朝鲜儒者接受孟子的教育观，即教育是培养固有善性的过程，其根据是“性”（汉 *xing*，韩 *sŏng*）本善的信念。因此教育不只是传授，而是转化性的——是砥砺人的道德禀性、使之与普遍的理（汉 *li*，韩 *i*）相合的载体。在此意义上，孟子的观念为朝鲜王朝的思想生活提供了形而上学基础，激发了深刻的哲学重校，并引发了此后数百年界定朝鲜性理学的论辩。
   - id: 15
     kind: body
     source: |-
       ## 2. Neo-Confucian Metaphysical Recalibration
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 性理学的形而上学重新校准
+    step2: |-
+      ## 2 性理学的形而上学重新校准
   - id: 16
     kind: body
     source: |-
       ### 2.1 *Principle*, Human Nature, and Material Force
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 理、人性与气
+    step2: |-
+      ### 2.1 理、人性与气
   - id: 17
     kind: body
     source: |-
       Early Confucian thought was anchored in an ethical vision yet lacked the metaphysical and cosmological architecture necessary to rival the comprehensive soteriology of Buddhism. This conceptual lacuna, as Creel notes, compelled Confucian scholars to “offer a cosmology that could compete with the Buddhists” (1971: 205). From this intellectual imperative arose the Neo-Confucian synthesis—a system that, by the twilight of the Koryŏ dynasty (918–1392), had already permeated Korean discourse, where inquiries into human nature (*sŏng*) began to unfold with systematic rigor. The revival of Confucianism in Tang China, initiated by Han Yu (768–824), marked a decisive rupture: his *Inquiry on Human Nature* reaffirmed Mencian principles while repudiating Buddhist metaphysics. These ideas, transmitted across cultural boundaries, armed Korean scholars with both conceptual instruments and polemical resolve, enabling them to contest Buddhist doctrines and, in so doing, to deepen their own debates on the ontological and moral essence of human nature (SB-Chan: 452–455; SB-BB: 583–585).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      早期儒家思想锚定于一种伦理愿景，却缺少堪与佛教完备的救赎论相匹敌的形而上学与宇宙论架构。如克里尔（Creel）所言，这一概念空缺迫使儒者“提出一种堪与佛教竞争的宇宙论”（1971: 205）。正是这一思想上的迫切要求催生了性理学的综合：到高丽王朝（918–1392）末年，这一体系已渗入朝鲜的话语，对人性（*sŏng*）的探究开始以系统的严格性展开。韩愈（768–824）在唐代中国发起的儒学复兴标志着一个决定性的断裂：他的《原性》重申孟子原则而拒斥佛教的形而上学。这些观念跨越文化边界传播，为朝鲜学者提供了概念工具与论辩决心，使他们得以驳难佛教教义，并在此过程中深化自身关于人性的本体论与道德本质的论辩（SB-Chan: 452–455；SB-BB: 583–585）。
+    step2: |-
+      早期儒家思想锚定于一种伦理愿景，却缺少堪与佛教完备的救赎论相匹敌的形而上学与宇宙论架构。如克里尔（Creel）所言，这一概念空缺迫使儒者“提出一种堪与佛教竞争的宇宙论”（1971: 205）。正是这一思想上的迫切要求催生了性理学的综合：到高丽王朝（918–1392）末年，这一体系已渗入朝鲜的话语，对人性（*sŏng*）的探究开始以系统的严格性展开。韩愈（768–824）在唐代中国发起的儒学复兴标志着一个决定性的断裂：他的《原性》重申孟子原则而拒斥佛教的形而上学。这些观念跨越文化边界传播，为朝鲜学者提供了概念工具与论辩决心，使他们得以驳难佛教教义，并在此过程中深化自身关于人性的本体论与道德本质的论辩（SB-Chan: 452–455；SB-BB: 583–585）。
   - id: 18
     kind: body
     source: |-
       Neo-Confucianism can be traced to the writings of “The Five Sages of Song”: Shao Yong (1011–1077), Zhou Dunyi (1017–1073), Zhang Zai (1020–1077), and two brothers, Cheng Hao (1032–1085) and Cheng Yi (1033–1107). However, their main ideas were recognised and appreciated only later when their various contributions were synthesised by the impressive scholar Zhu Xi, particularly the ideas of the Cheng brothers (Fairbank & Goldman 1999: 98)[^fairbank-1999]. Ames and Rosemont (1998: 17) highlight how “Zhu Xi’s commentaries […] became the definitive of the [Neo-Confucian] tradition from the early fourteenth century through the twentieth centuries”, and this influence also extended to Korea, becoming deeply rooted there. Zhu’s compendium on Neo-Confucian thought, *Jinsilu* (近思錄) [Reflections on Things at Hand], written with Lu Zu-qian (1137–1181), became the handbook on this great philosophical synthesis, and was integral to the Korean development of those ideas. Zhu focused on self-cultivation, a necessary ingredient in Confucian sagehood that became central to Korean’s interpretation of those ideas (Chan 1987: 122–124; Tillman 1992: 114–118)[^chan-1987][^tillman-1992].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      性理学可追溯至“宋代五子”的著作：邵雍（1011–1077）、周敦颐（1017–1073）、张载（1020–1077），以及程颢（1032–1085）与程颐（1033–1107）兄弟。然而他们的主要观念要到后来才得到认识与赏识：由学识宏富的朱熹把诸家贡献加以综合，尤其是二程的思想（Fairbank & Goldman 1999: 98）[^fairbank-1999]。安乐哲与罗思文（Ames and Rosemont，1998: 17）强调，“朱熹的注释［……］自十四世纪初至二十世纪一直成为［性理学］传统的权威界定”，这一影响也远及朝鲜，并在那里深深扎根。朱熹与吕祖谦（1137–1181）合撰的性理学思想纂集《近思录》成为这一伟大哲学综合的手册，也是朝鲜发展这些观念时不可或缺的读本。朱熹注重修养工夫，这是儒家成圣的必要成分，后来成为朝鲜人对这些观念之解释的核心（Chan 1987: 122–124；Tillman 1992: 114–118）[^chan-1987][^tillman-1992]。
+    step2: |-
+      性理学可追溯至“宋代五子”的著作：邵雍（1011–1077）、周敦颐（1017–1073）、张载（1020–1077），以及程颢（1032–1085）与程颐（1033–1107）兄弟。然而他们的主要观念要到后来才得到认识与赏识：由学识宏富的朱熹把诸家贡献加以综合，尤其是二程的思想（Fairbank & Goldman 1999: 98）[^fairbank-1999]。安乐哲与罗思文（Ames and Rosemont，1998: 17）强调，“朱熹的注释［……］自十四世纪初至二十世纪一直成为［性理学］传统的权威界定”，这一影响也远及朝鲜，并在那里深深扎根。朱熹与吕祖谦（1137–1181）合撰的性理学思想纂集《近思录》，成为这一伟大哲学综合的手册，也是朝鲜发展这些观念时不可或缺的读本。朱熹注重修养工夫，这是儒家成圣的必要成分，后来成为朝鲜人对这些观念之解释的核心（Chan 1987: 122–124；Tillman 1992: 114–118）[^chan-1987][^tillman-1992]。
   - id: 19
     kind: body
     source: |-
       It was Zhu Xi’s profound rearticulation of the Cheng brothers’ doctrine of *Principle* (理, C. *li*, K. *i*) that decisively shaped its Korean reception. In this Neo-Confucian vision, *Principle*—italicized here to distinguish it from its Western analogues—signifies the primordial, ordering ground of all reality. Every entity bears its own determinate principle, yet each is but a particularization of the overarching, immaterial, and universally structuring *Principle* that governs the cosmos. Cheng Yi famously asserted that *Principle* is one, though its manifestations are many, and that its consummate expression is found in humanity—especially in the mind, endowed with an inherently “good” nature (SB-Chan: 544). In Korea, this metaphysical orientation came to define Neo-Confucianism, commonly designated as the *School of Principle* (理學, K. *ihak*) or, more fully, the *School of Principle and Human Nature* (性理學, K. *sŏngnihak*), signaling an intellectual trajectory that pursued metaphysical inquiry to an unprecedented microcosmic depth (Keum 1980 [2000]; Kang 2003 [2006])[^kang-2003][^keum-1980].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正是朱熹对二程理（理，汉 *li*，韩 *i*）说的深刻重新表述，决定性地塑造了它在朝鲜的接受。在这一性理学视野中，理——此处用斜体，以区别于西方类似概念——意指一切实在的原初秩序根据。每一事物各有其确定之理，而每一理都只是统摄宇宙的、非物质的、普遍构造性的理的个别化。程颐有一句名言：理一而分殊，其至完满的表达见于人——尤其见于本具“善”性的心（SB-Chan: 544）。在朝鲜，这一形而上学取向界定了性理学，通常称“理学”（韩 *ihak*），更完整地称“性理学”（韩 *sŏngnihak*），标示出一条把形而上学探究推进到前所未有的微观深度的思想轨迹（Keum 1980 [2000]；Kang 2003 [2006]）[^kang-2003][^keum-1980]。
+    step2: |-
+      正是朱熹对二程理（理，汉 *li*，韩 *i*）说的深刻重新表述，决定性地塑造了它在朝鲜的接受。在这一性理学视野中，理——此处以斜体标示，以区别于西方类似概念——意指一切实在的原初秩序根据。每一事物各有其确定之理，而每一理都只是统摄宇宙的、非物质的、普遍构造性的理的个别化。程颐有一句名言：理一而分殊，其至完满的表达见于人——尤其见于本具“善”性的心（SB-Chan: 544）。在朝鲜，这一形而上学取向界定了性理学，通常称“理学”（韩 *ihak*），更完整地称“性理学”（韩 *sŏngnihak*），标示出一条把形而上学探究推进到前所未有的微观深度的思想轨迹（Keum 1980 [2000]；Kang 2003 [2006]）[^kang-2003][^keum-1980]。
   - id: 20
     kind: body
     source: |-
       While Zhu had given primacy to *Principle*, at the same time he recognised it as intertwined with the material force (*ki*):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      朱熹虽以理为先，同时也承认理与气（*ki*）交织在一起：
+    step2: |-
+      朱熹虽以理为先，同时也承认理与气（*ki*）交织在一起：
   - id: 21
     kind: body
     source: |-
       > Fundamentally [*Principle*] and material force cannot be spoken of as prior or posterior. But if we trace their origin, we are obliged to say that [*Principle*] is prior. (SB-Chan: 634)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 从根本上说，［理］与气不可分先后。但若追溯其起源，我们不得不说［理］在先。（SB-Chan: 634）
+    step2: |-
+      > 从根本上说，［理］与气不可分先后。但若追溯其起源，我们不得不说［理］在先。（SB-Chan: 634）
   - id: 22
     kind: body
     source: |-
       This stance was initially adapted by the majority of Neo-Confucian scholars in Korea, and developed by Kwŏn Kŭn (1352–1409), who “had the most sophisticated understanding of Neo-Confucian metaphysics” in the fourteenth century, especially his *Diagrammatic Treatises for the Commencement of Learning* (入學圖說, K. *Iphak tosŏl*), which consisted of some
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一立场最初为朝鲜多数性理学者所承继，并由权近（1352–1409）加以发展；权近在十四世纪“对性理学形而上学有最精深的理解”，尤其著有《入学图说》（韩 *Iphak tosŏl*），内含约
+    step2: |-
+      这一立场最初为朝鲜多数性理学者所承继，并由权近（1352–1409）加以发展；权近在十四世纪“对性理学形而上学有最精深的理解”，尤其著有《入学图说》（韩 *Iphak tosŏl*），内含约
   - id: 23
     kind: body
     source: |-
       > forty diagrams and explanations designed to help beginners grasp the fundamentals of [Human] Nature and *Principle* Learning. (SB-Lee: 449–450)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 四十幅图与解说，旨在帮助初学者把握［人］性与理学的根本。（SB-Lee: 449–450）
+    step2: |-
+      > 四十幅图与解说，旨在帮助初学者把握［人］性与理学的根本。（SB-Lee: 449–450）
   - id: 24
     kind: body
     source: |-
       These diagrammatic expositions reflect an important dimension of the Korean Neo-Confucian tradition, to use diagrams to explain complex metaphysical ideas and how they related to moral psychology embedded within the mind. Kwŏn wrote that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些图解式的阐述反映了朝鲜性理学传统的一个重要面向：用图来解释复杂的形而上学观念，以及它们与内在于心的道德心理学的关系。权近写道
+    step2: |-
+      这些图解式的阐述反映了朝鲜性理学传统的一个重要面向：用图解释复杂的形而上学观念，以及这些观念与内在于心的道德心理学的关系。权近写道
   - id: 25
     kind: body
     source: |-
       > [*Principle*] is the fundamental basis of the mind and material force. Therefore, [*Principle*] precedes Material Force,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ［理］是心与气的根本依据。因此，［理］先于气，
+    step2: |-
+      > ［理］是心与气的根本依据。因此，［理］先于气，
   - id: 26
     kind: body
     source: |-
       which allows him to uphold the idea that human nature is good, because *Principle* is good, and that what is not good is due to the material force (see Choi M.-H. 1980: 37–38; slightly adapted translation)[^choi-1980]. Furthermore, he was the first Neo-Confucian scholar in Korea to discuss *Principle* and material force in relation to the human mind linked with the “four beginnings”, and the “seven feelings”: The “four beginnings” are referred to by Mencius (2A:6; see SB-Chan: 65): the feeling [(情, C. *qing*, K. *chŏng*)] of commiseration, shame and dislike, deference and compliance, and the feeling of right and wrong, which when developed lead to the cardinal virtues of Confucianism (humanity, righteousness, propriety and wisdom). Humanity (仁, C. *ren* (sometimes *jen*), K. *in*) was seen as the greatest Confucian virtue, often translated as benevolence or kind-heartedness. The “seven feelings” are referred to in the ninth chapter of the *Book of Rites*: joy, anger, sadness, fear, love, dislike and liking. Kwŏn linked the four beginnings (which were always good) with *Principle*, and the seven feelings (which could be potentially bad) with the material force, starting a veritable meta-psychological chain reaction that continues until today. These ideas were consolidated in his “*Diagram of the Unity* and Oneness of *Heaven*, Human Beings, Mind, and Human Nature” (天人心性合一之圖, K. *Ch’ŏnin simsŏng habil-to*), and in Kwŏn’s view “Heaven” referred to the working of *Principle* in all things, including the human mind, and so (wo)man’s mind was linked to the moral *Principle* of the universe, embodied by the sage (see Halla Kim 2017: 1–23)[^kim-2017][^kim-2017-2][^kim-2017-3][^kim-2017-4].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这使他得以坚持人性本善的主张：因为理是善的，不善者则归因于气（见 Choi M.-H. 1980: 37–38；译文略有调整）[^choi-1980]。此外，他还是朝鲜第一位把理与气同人心联系起来讨论的性理学者，并把人心与“四端”和“七情”关联起来：“四端”见于孟子（2A:6；见 SB-Chan: 65）：恻隐之情、羞恶之情、辞让之情、是非之情［情，汉 *qing*，韩 *chŏng*］，这些情加以扩充便通向儒家的基本德目（仁、义、礼、智）。仁（汉 *ren*，有时作 *jen*，韩 *in*）被视为儒家最高的德，常译作“benevolence”或“kind-heartedness”（仁慈）。《礼记》第九章提到“七情”：喜、怒、哀、惧、爱、恶、欲。权近把四端（始终是善的）系于理，把七情（可能为恶）系于气，由此开启了一场名副其实的元心理学连锁反应，至今未息。这些观念凝结在其《天人心性合一之图》（韩 *Ch’ŏnin simsŏng habil-to*）中；在权近看来，“天”指理在万物（包括人心）中的运作，因此（男）人之心与宇宙的道德理相联，而由圣人体现（见 Halla Kim 2017: 1–23）[^kim-2017][^kim-2017-2][^kim-2017-3][^kim-2017-4]。
+    step2: |-
+      这使他得以坚持人性本善的主张：理是善的，不善者则归因于气（见 Choi M.-H. 1980: 37–38；译文略有调整）[^choi-1980]。此外，他还是朝鲜第一位把理与气同人心联系起来讨论的性理学者，并把人心与“四端”“七情”关联起来：“四端”见于《孟子》（2A:6；见 SB-Chan: 65），即恻隐、羞恶、辞让、是非之情［情，汉 *qing*，韩 *chŏng*］，这些情加以扩充便通向儒家的基本德目（仁、义、礼、智）。仁（汉 *ren*，有时作 *jen*，韩 *in*）被视为儒家最高的德，常译作“仁爱”或“宽厚”。七情则见于《礼记》第九章：喜、怒、哀、惧、爱、恶、欲。权近把始终为善的四端系于理，把可能为恶的七情系于气，由此开启了一场名副其实的元心理学连锁反应，至今未息。这些观念凝结在其《天人心性合一之图》（韩 *Ch’ŏnin simsŏng habil-to*）中；在权近看来，“天”指理在万物（包括人心）中的运作，因此人之心与宇宙的道德理相联，而由圣人体现（见 Halla Kim 2017: 1–23）[^kim-2017][^kim-2017-2][^kim-2017-3][^kim-2017-4]。
   - id: 27
     kind: body
     source: |-
       Further complicating the intellectual impetus of Korean Confucianism was its reaction to (or rather against) Sinitic Chan meditational developments that shaped the Sŏn school in Korea. Korean Sŏn ideas had arguably reached their maturity in the teachings of the Koryŏ monk Chinul (1158–1210), especially his text *Secrets on Cultivating the Mind* (修心訣, K. *Susim kyŏl*). Chinul’s approach recognises the mind as the essence (體, K. *che*) of one’s Buddha Nature, which requires continual practice and cultivation aids to refine its function (用 K. *yong*), bringing together the important essence-function (*che-yong*) feature of Korea’s Buddhist tradition, which would deeply influence the Neo-Confucian thought of Chosŏn (for an in depth examination of Chinul’s ideas see, Buswell Jr. 2016)[^buswell-2016]. The Sŏn practice of seated meditation would also shape Neo-Confucianism’s own mind-focused concept of “quiet-sitting” (靜坐; C. *jingzuo*, K. *chŏngjwa*), also known as *chŏngjwa chonsim* (靜坐存心): to sit quietly and preserve the mind (Palais 1996: 181)[^palais-1996].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      使朝鲜儒学的思想动力更趋复杂的，是它对塑造朝鲜禅宗的汉地禅修传统所作的反应（毋宁说是反拒）。朝鲜禅宗的观念可说在高丽僧知讷（1158–1210）的教说中达到成熟，尤其是他的《修心诀》（韩 *Susim kyŏl*）。知讷的进路把心认作佛性的体（韩 *che*），须以持续的修行与助道工夫来砥砺其用（韩 *yong*），从而会合朝鲜佛教传统中重要的体用（*che-yong*）特征，这一特征后来深刻影响了朝鲜王朝的性理学（关于知讷思想的深入考察，见 Buswell Jr. 2016）[^buswell-2016]。禅宗的坐禅实践也塑造了性理学自身以心为焦点的“静坐”概念（汉 *jingzuo*，韩 *chŏngjwa*），又称 *chŏngjwa chonsim*（静坐存心）：静坐以存心（Palais 1996: 181）[^palais-1996]。
+    step2: |-
+      使朝鲜儒学的思想动力更趋复杂的，是它对塑造朝鲜禅宗的汉地禅修发展所作的反应（毋宁说是反拒）。朝鲜禅宗的观念可说在高丽僧知讷（1158–1210）的教说中达到成熟，尤其是他的《修心诀》（韩 *Susim kyŏl*）。知讷的进路把心认作佛性的体（韩 *che*），须以持续的修行与助道工夫来砥砺其用（韩 *yong*），从而会合朝鲜佛教传统中重要的体用（*che-yong*）特征，这一特征后来深刻影响了朝鲜王朝的性理学（关于知讷思想的深入考察，见 Buswell Jr. 2016）[^buswell-2016]。禅宗的坐禅实践也塑造了性理学自身以心为焦点的“静坐”概念（汉 *jingzuo*，韩 *chŏngjwa*），又称 *chŏngjwa chonsim*（静坐存心）：静坐以存心（Palais 1996: 181）[^palais-1996]。
   - id: 28
     kind: body
     source: |-
