@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-08 12:13（UTC）
+生成时间：2026-11-08 13:10（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1034|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|213|
-|在途（drafted 起、done 前）|230|
+|已完成（done）|216|
+|在途（drafted 起、done 前）|227|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,11 +23,10 @@
 |状态|数量|
 |---|---|
 |pending|591|
-|cleared|162|
-|drafted|4|
-|s1_checked|1|
+|cleared|159|
+|drafted|5|
 |s3_checked|63|
-|done|213|
+|done|216|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -40,9 +39,9 @@
 |E|99|99|99|19|
 |F|96|96|96|1|
 |G|49|49|49|1|
-|H|61|61|61|9|
+|H|61|61|61|10|
 |I|75|75|75|21|
-|J|38|38|38|4|
+|J|38|38|38|5|
 |K|36|36|36|21|
 |L|144|144|19|18|
 |M|139|139|14|6|
@@ -56,7 +55,7 @@
 |U|4|4|0|0|
 |V|15|15|0|0|
 |W|38|38|6|0|
-|X|3|3|2|0|
+|X|3|3|2|1|
 |Y|2|2|1|0|
 |Z|6|6|0|0|
 
@@ -142,7 +141,7 @@
 |chinese-phil-medicine|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |chinese-phil-science|retranslate|s3_checked|C-main-20261107 2026-11-07|
 |cloning|retranslate|s3_checked|CD-main-20261106 2026-11-06|
-|closure-epistemic|retranslate|cleared|task_ops 2026-11-08|
+|closure-epistemic|retranslate|s3_checked|C-main-20261108c 2026-11-08|
 |cognitive-science|retranslate|s3_checked|主代理 2026-11-01|
 |collingwood-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
 |colonialism|retranslate|s3_checked|C-main-20261107 2026-11-07|
@@ -219,7 +218,6 @@
 |hobbes-moral|retranslate|cleared|task_ops 2026-11-01|
 |hobbes-science|retranslate|cleared|task_ops 2026-11-01|
 |holism-social|retranslate|cleared|task_ops 2026-11-01|
-|holkot|retranslate|s1_checked|EH-main-20261108 2026-11-08|
 |horkheimer|retranslate|cleared|task_ops 2026-11-01|
 |hume-freewill|retranslate|cleared|task_ops 2026-11-01|
 |hume-moral|retranslate|cleared|task_ops 2026-11-01|
@@ -246,7 +244,6 @@
 |johann-fichte|retranslate|cleared|task_ops 2026-11-01|
 |johann-herbart|retranslate|cleared|task_ops 2026-11-01|
 |johann-sturm|retranslate|s3_checked|? 2026-11-06|
-|john-italos|retranslate|s3_checked|? 2026-11-06|
 |john-norris|retranslate|s3_checked|? 2026-11-07|
 |john-salisbury|retranslate|cleared|task_ops 2026-11-01|
 |jury-theorems|retranslate|cleared|task_ops 2026-11-01|
@@ -285,12 +282,11 @@
 |mandeville|retranslate|drafted|M-main-20261108 2026-11-08|
 |moral-demands-permissions|retranslate|s3_checked|LMN-main-20261108f 2026-11-08|
 |necessary-sufficient|retranslate|cleared|task_ops 2026-11-08|
-|representation-medieval|retranslate|cleared|task_ops 2026-11-08|
+|representation-medieval|retranslate|drafted|OPQR-main-20261108 2026-11-08|
 |simon-faversham|retranslate|cleared|task_ops 2026-11-08|
 |telesio|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |theology-aristotle|retranslate|s3_checked|TZ-main-20261107 2026-11-08|
 |william-jevons|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |william-sherwood|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |wisdom|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
-|xenocrates|retranslate|cleared|task_ops 2026-11-08|
 |xenophanes|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
