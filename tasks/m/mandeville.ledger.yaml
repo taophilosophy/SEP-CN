@@ -1,0 +1,570 @@
+version: 1
+slug: mandeville
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Bernard Mandeville (1670–1733), an Anglo-Dutch physician and philosopher, achieved fame through his notorious work *The Fable of the Bees: Or, Private Vices, Publick Benefits*. He is most well-known for arguing that economic prosperity depends upon harnessing individuals’ self-interested and even vicious passions, an idea which outraged his contemporaries and has subsequently led to him occupying an important place in the history of economic thought. *The Fable of the Bees* is a far more wide-ranging work, however, which offers incisive explorations of human nature, the passions, and the origins of moral and social norms. In addressing these topics, Mandeville made major contributions to the history of moral and social philosophy, and was a significant influence on many eighteenth-century philosophers, including David Hume, Jean-Jacques Rousseau, and Adam Smith. More recently, Mandeville’s ideas on the gradual evolution of moral norms and social institutions have been taken up by theorists of spontaneous order, following F. A. Hayek.
+    step1: |-
+      伯纳德·曼德维尔（Bernard Mandeville，1670–1733）是一位英荷医生、哲学家，凭借他那部声名狼藉的著作《蜜蜂的寓言：或，私人的恶德，公众的利益》（*The Fable of the Bees: Or, Private Vices, Publick Benefits*）而声名鹊起。他最广为人知的主张是：经济繁荣有赖于驾驭个体自利的乃至邪恶的激情；这一观念激怒了他的同时代人，后来也使他得以在经济思想史上占据重要位置。然而，《蜜蜂的寓言》是一部范围远为广阔的作品，它对人性、激情以及道德规范与社会规范的起源作了犀利探讨。在论述这些主题时，曼德维尔为道德哲学史与社会哲学史作出了重大贡献，并对许多 18 世纪哲学家产生了显著影响，包括大卫·休谟（David Hume）、让-雅克·卢梭（Jean-Jacques Rousseau）和亚当·斯密（Adam Smith）。晚近以来，曼德维尔关于道德规范与社会制度逐渐演化的观念，被追随 F. A. 哈耶克（F. A. Hayek）的自发秩序理论家所采纳。
+    step2: |-
+      伯纳德·曼德维尔（Bernard Mandeville，1670–1733）是英荷裔医生、哲学家，因一部声名狼藉的《蜜蜂的寓言：或，私人的恶德，公众的利益》（*The Fable of the Bees: Or, Private Vices, Publick Benefits*）而声名大噪。他最出名的主张是：经济繁荣有赖于驾驭个体自利乃至邪恶的激情。这一观点激怒了同时代人，也让他从此在经济思想史上占有一席之地。《蜜蜂的寓言》其实是一部视野宽广得多的著作，对人性、激情以及道德规范与社会规范的起源都有犀利剖析。曼德维尔在这些主题上的工作，为道德哲学史和社会哲学史作出了重要贡献，也深刻影响了 18 世纪的许多哲学家，包括大卫·休谟（David Hume）、让-雅克·卢梭（Jean-Jacques Rousseau）与亚当·斯密（Adam Smith）。晚近以来，他关于道德规范与社会制度渐进演化的想法，又被追随 F. A. 哈耶克（F. A. Hayek）的自发秩序论者接了过去。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life and Works
+    step1: |-
+      ## 1 生平与著作
+    step2: |-
+      ## 1 生平与著作
+  - id: 3
+    kind: body
+    source: |-
+      Born on 15 November 1670, in Rotterdam, the Netherlands, Bernard Mandeville hailed from a respected family of Dutch physicians, merchants, and political officials. He studied at Leiden University, known for its scholarly contributions to Cartesian and experimental philosophy. After earning degrees in philosophy and medicine, specializing in the connection between digestive disorders and psychology, Mandeville migrated to the British Isles, possibly due to his family’s involvement in the Costerman Riots of 1690 (Dekker 1992)[^dekker-1992]. In London, Mandeville worked as a physician from 1693, focusing on nervous disorders. He died in Hackney in 1733. Despite the fame that he had achieved by the end of his life, relatively little is known about his views beyond those that appear in his published works, due to the scarcity of personal correspondence or other available archival materials. Indeed, even identifying Mandeville’s published works is not without its challenges, since many originally appeared anonymously and, in some cases, his authorship was established only in the early decades of the twentieth century (see especially Kaye 1921; Anderson 1935)[^kaye-1921].
+    step1: |-
+      伯纳德·曼德维尔 1670 年 11 月 15 日生于荷兰鹿特丹，出身于一个受人尊敬的荷兰医生、商人与政治官员家庭。他求学于莱顿大学，该校以对笛卡尔哲学与实验哲学的学术贡献著称。取得哲学与医学学位、专攻消化紊乱与心理之间的联系之后，曼德维尔移居不列颠群岛，原因可能是其家族卷入 1690 年的科斯特曼骚乱（Costerman Riots）（Dekker 1992）[^dekker-1992]。在伦敦，曼德维尔自 1693 年起行医，专注于神经疾病。他于 1733 年卒于哈克尼。尽管他在生前已享有盛名，但除已刊著作中的观点外，人们对他的了解相对很少，因为个人书信及其他可用档案材料十分稀少。事实上，即便辨认曼德维尔的已刊著作也并非没有困难：许多著作最初匿名出版，有些情况下，他的作者身份直到 20 世纪最初几十年才被确定（尤见 Kaye 1921；Anderson 1935）[^kaye-1921]。
+    step2: |-
+      伯纳德·曼德维尔 1670 年 11 月 15 日生于荷兰鹿特丹，家族受人尊敬，出过好几代荷兰医生、商人和政界官员。他在莱顿大学求学，该校在笛卡尔哲学与实验哲学上贡献卓著。曼德维尔取得哲学和医学学位，专攻消化紊乱与心理之间的联系，随后移居不列颠群岛，原因可能是家族卷入了 1690 年的科斯特曼骚乱（Costerman Riots）（Dekker 1992）[^dekker-1992]。到伦敦后，他从 1693 年起行医，主治神经疾病，1733 年卒于哈克尼。曼德维尔生前已经成名，但除了已刊著作中的说法，人们对他的了解并不多，因为个人书信和其他可用档案材料都很稀少。其实，连辨认他有哪些已刊著作都不容易：许多书最初匿名问世，有些直到 20 世纪最初几十年才确认出自他手（尤见 Kaye 1921；Anderson 1935）[^kaye-1921]。
+  - id: 4
+    kind: body
+    source: |-
+      In 1705, Mandeville published *The Grumbling Hive: Or, Knaves Turn’d Honest,* a poem describing a wealthy bee community that seeks to root out all vice from the hive, which serves as an allegory illustrating the disastrous consequences that would follow any successful attempt to impose a moral reformation on an opulent nation like England. The poem challenged the prevalent “public spirit” ideology associated with civic humanism at the turn of the eighteenth century, ridiculing the notion that our benevolent or virtuous qualities lie behind social order and prosperity. In addition to the *Grumbling Hive*’s doggerel couplets, poetry featured prominently in Mandeville’s early literary endeavors, both in the form of translations and original verses, such as *The Pamphleteers: A Satyr* (1703), *Aesop Dress’d: Or a Collection of Fables Writ in Familiar Verse* (1704), and *Typhon; Or the Wars Between the Gods and Giants: A Burlesque Poem* (1704). A little later in his career, Mandeville compiled a collection entitled *Wishes to a Godson, with Other Miscellany Poems* (1712).
+    step1: |-
+      1705 年，曼德维尔发表《抱怨的蜂巢：或，恶棍变诚实》（*The Grumbling Hive: Or, Knaves Turn’d Honest*）。这首长诗描写一个富庶的蜜蜂共同体，该共同体试图把一切恶德从蜂巢中根除；它是一则寓言，说明任何要把道德改革强加于英格兰这样奢靡之国的成功尝试，都会带来灾难性后果。这首诗挑战了 18 世纪之交与公民人文主义相联系的流行“公共精神”意识形态，嘲讽了这样一种观念：我们的仁慈品质或德性品质是社会秩序与繁荣的根基。除了《抱怨的蜂巢》中那种打油诗式的对句，诗歌在曼德维尔早期的文学尝试中也占突出地位，既有译作也有原创诗作，如《小册子作者：一部讽刺诗》（*The Pamphleteers: A Satyr*，1703）、《装扮过的伊索：或，用通俗韵文写成的寓言集》（*Aesop Dress’d: Or a Collection of Fables Writ in Familiar Verse*，1704）以及《堤丰：或，诸神与巨人之间的战争：一部诙谐诗》（*Typhon; Or the Wars Between the Gods and Giants: A Burlesque Poem*，1704）。稍后，曼德维尔又编成一部诗集，题为《致教子的祝愿及其他杂诗》（*Wishes to a Godson, with Other Miscellany Poems*，1712）。
+    step2: |-
+      1705 年，曼德维尔发表《抱怨的蜂巢：或，恶棍变诚实》（*The Grumbling Hive: Or, Knaves Turn’d Honest*）。这首长诗写一个富庶的蜜蜂共同体，它想把一切恶德从蜂巢里根除。这其实是一则寓言：任何要把道德改革强加给英格兰这类奢靡之国的成功尝试，都会带来灾难性后果。18 世纪之交流行一种与公民人文主义相联系的“公共精神”意识形态，这首诗正是对它的挑战，也嘲讽了这样一种想法：我们的仁慈品质或德性品质，是社会秩序与繁荣的根基。诗歌在曼德维尔早期的文学尝试中颇为醒目，既有打油诗式的对句，也有译作和原创诗作，如《小册子作者：一部讽刺诗》（*The Pamphleteers: A Satyr*，1703）、《装扮过的伊索：或，用通俗韵文写成的寓言集》（*Aesop Dress’d: Or a Collection of Fables Writ in Familiar Verse*，1704）以及《堤丰：或，诸神与巨人之间的战争：一部诙谐诗》（*Typhon; Or the Wars Between the Gods and Giants: A Burlesque Poem*，1704）。稍后，曼德维尔又编了一部诗集，题为《致教子的祝愿及其他杂诗》（*Wishes to a Godson, with Other Miscellany Poems*，1712）。
+  - id: 5
+    kind: body
+    source: |-
+      As his years in London progressed, Mandeville began to venture into prose publishing. *The Virgin Unmask’d* (1709) is one of his boldest yet least well-known works. It comprises nine dialogues between a young lady and her aunt, who discuss a range of topics from the inequalities between the sexes to matters of political economy and statecraft in European politics. Throughout his writings, Mandeville would maintain a keen interest in the role of women in society and the double standards they face in various aspects of life. This is a theme that he continued to explore in his wide-ranging contributions to the periodical *The Female Tatler*, consisting of thirty-two issues published in 1709–1710, which were written in response to the campaign for moral reform being advanced by Richard Steele in *The Tatler*. In these contributions, Mandeville analyzed the standards of female and male honor for the first time in print, along with many other topics to which he would later return, such as dueling, the social functions of pride and vanity, and the naturalistic origins of civil society (see Goldsmith 1985: 35–46; Peltonen 2003: 263–302)[^goldsmith-1985][^peltonen-2003].
+    step1: |-
+      随着在伦敦的岁月渐长，曼德维尔开始涉足散文出版。《揭下面纱的处女》（*The Virgin Unmask’d*，1709）是他最大胆、却最不为人知的作品之一。全书由九篇对话组成，对话双方是一位年轻小姐和她的姑母，话题从两性之间的不平等，一直到政治经济学与欧洲政治中的治国术，范围很广。终其一生，曼德维尔都对女性在社会中的角色、以及她们在生活各方面遭遇的双重标准保持浓厚兴趣。这一主题也延续到他在期刊《女性闲谈者》（*The Female Tatler*）上的大量撰稿中：该刊 1709–1710 年共出 32 期，正是为回应理查德·斯梯尔（Richard Steele）在《闲谈者》（*The Tatler*）上推动的道德改革运动而作。在这些文章里，曼德维尔首次在印刷品中分析了女性荣誉与男性荣誉的标准，还谈了许多后来会再回来的题目，如决斗、骄傲与虚荣的社会功能，以及公民社会的自然主义起源（见 Goldsmith 1985: 35–46；Peltonen 2003: 263–302）[^goldsmith-1985][^peltonen-2003]。
+    step2: |-
+      在伦敦住得越久，曼德维尔越往散文出版上使劲。《揭下面纱的处女》（*The Virgin Unmask’d*，1709）是他最大胆、却最不为人知的作品之一。全书九篇对话，发生在一位年轻小姐和她的姑母之间，话题从两性不平等一直扯到政治经济学和欧洲政治中的治国术。曼德维尔一生都对女性在社会中的角色、对她们在生活各处遭遇的双重标准抱有浓厚兴趣。这一主题也延续到他为期刊《女性闲谈者》（*The Female Tatler*）写的大量文章里：该刊 1709–1710 年共出 32 期，为回应理查德·斯梯尔（Richard Steele）在《闲谈者》（*The Tatler*）上推动的道德改革运动而作。曼德维尔在这些文章中首次以印刷文字分析女性荣誉与男性荣誉的标准，还涉及许多他日后会再捡起的题目，如决斗、骄傲与虚荣的社会功能，以及公民社会的自然主义起源（见 Goldsmith 1985: 35–46；Peltonen 2003: 263–302）[^goldsmith-1985][^peltonen-2003]。
+  - id: 6
+    kind: body
+    source: |-
+      *A Treatise of the Hypochondriack and Hysterick Passions*, first published in 1711 and later in an expanded edition (with a slightly different title) in 1730, brought Mandeville wider recognition and remained a notable reference point amongst physicians well into the late eighteenth century (Simonazzi 2016: 63–66)[^simonazzi-2016]. It also facilitated Mandeville’s entry into London’s medical circles, guided by the eminent physician and naturalist Sir Hans Sloane. In the *Treatise*, Mandeville employs a dialogue format to engage patients directly, highlighting the importance of their active participation in therapy. He examines the relationship between socioeconomic status and hypochondria, arguing that wealth, with its attendant fears and desires, contributes to the loss of animal spirits and psychosomatic ailments. The *Treatise* addresses broader philosophical themes beyond its focus on medical matters—while also offering some suggestive autobiographical remarks—and is thus a key text for understanding how Mandeville sought to combine a satirical and polemical approach with his wider scientific and philosophical goals (Hilton 2010)[^hilton-2010].
+    step1: |-
+      《疑病症与歇斯底里激情论》（*A Treatise of the Hypochondriack and Hysterick Passions*）初版于 1711 年，1730 年又出了扩充版（标题略有不同），为曼德维尔赢得了更广泛的认可，直到 18 世纪晚期仍是医生们常引的重要参照（Simonazzi 2016: 63–66）[^simonazzi-2016]。这本书也帮助他进入了伦敦的医学圈子，引路人是著名医生兼博物学家汉斯·斯隆爵士（Sir Hans Sloane）。在《论》中，曼德维尔采用对话体，直接与病人对话，强调病人积极参与治疗的重要性。他考察社会经济地位与疑病症之间的关系，主张财富连同随之而来的恐惧与欲望，会造成动物精气的丧失和身心疾病。除了医学问题，《论》还讨论更广泛的哲学主题，并提供了一些带有自传意味的暗示，因此是理解曼德维尔如何把讽刺与论辩手法同其更宽广的科学与哲学目标结合起来的关键文本（Hilton 2010）[^hilton-2010]。
+    step2: |-
+      《疑病症与歇斯底里激情论》（*A Treatise of the Hypochondriack and Hysterick Passions*）初版于 1711 年，1730 年又出了扩充版，标题略有不同。这本书为曼德维尔赢得了更广泛的认可，直到 18 世纪晚期，医生们仍常把它当作重要参照（Simonazzi 2016: 63–66）[^simonazzi-2016]。它也让曼德维尔打进了伦敦的医学圈子，引路人是著名医生兼博物学家汉斯·斯隆爵士（Sir Hans Sloane）。在《论》中，曼德维尔用对话体直接与病人交谈，强调病人积极参与治疗的重要性。他考察社会经济地位与疑病症的关系，主张财富连同随之而来的恐惧与欲望，会耗损动物精气，引发身心疾病。除了医学问题，《论》还涉及更广泛的哲学主题，并夹杂一些带有自传意味的暗示，因此是理解曼德维尔如何把讽刺与论辩手法同更宽广的科学、哲学目标结合起来的关键文本（Hilton 2010）[^hilton-2010]。
+  - id: 7
+    kind: body
+    source: |-
+      In 1714, Mandeville republished *The Grumbling Hive* as part of a larger work entitled *The Fable of the Bees: Or, Private Vices, Publick Benefits*, with the subtitle announcing the idea for which he is now most famous. The book contained a series of short essays, or “Remarks”, which purport to explain some of the main ideas from the original verse, along with an essay entitled “An Enquiry Into the Origin of Moral Virtue”, where Mandeville attributes the development of our ideas of virtue to skillful politicians who harnessed pride and shame to promote socially desirable behavior.
+    step1: |-
+      1714 年，曼德维尔把《抱怨的蜂巢》重新刊行，收入一部更大的著作，题为《蜜蜂的寓言：或，私人的恶德，公众的利益》，副标题昭示的正是他如今最著名的那个观念。书中收有一系列短论，即“评注”（Remarks），意在解释原诗中的一些主要想法；另有一篇题为《探究道德德性的起源》的论文，曼德维尔在其中把德性观念的发展归功于老练的政治家，说他们利用骄傲与羞耻来推动社会称许的行为。
+    step2: |-
+      1714 年，曼德维尔把《抱怨的蜂巢》重新刊行，收进一部更大的著作，题为《蜜蜂的寓言：或，私人的恶德，公众的利益》——副标题昭示的正是他如今最著名的那个观念。书里有一系列短论，称为“评注”（Remarks），意在解释原诗的一些主要想法；另有一篇《探究道德德性的起源》，曼德维尔在其中把德性观念的发展归功于老练的政治家：他们利用骄傲与羞耻，推动社会称许的行为。
+  - id: 8
+    kind: body
+    source: |-
+      Mandeville’s next major work, *Free Thoughts on Religion, the Church, and National Happiness* (1720; expanded 1729), delves into theological matters and criticizes the role of the church in fostering persecution and intolerance. In this work (and elsewhere) Mandeville borrows extensively from Pierre Bayle, one of the great champions of religious toleration in seventeenth-century Europe. Mandeville advocates for a civil religion where the clergy would be salaried and under the authority of the government, on the grounds that this would promote tolerance and moderation. *Free Thoughts* remains a somewhat puzzling work. It discusses political and religious history in some depth, setting itself apart from Mandeville’s dialogue-style compositions by adopting a more serious and less distinctive tone. Certain chapters were published independently in Whig periodicals of the time, underscoring Mandeville’s intention to wield practical political influence. Indeed, Mandeville published several political pamphlets throughout his literary career, including *An Enquiry into the Causes of the Frequent Executions at Tyburn* (1725), which initially graced the pages of a prominent Whig periodical before being reprinted on other occasions in eighteenth-century newspapers. Other pamphlets, such as *The Mischiefs that ought Justly to be Apprehended from a Whig-Government* (1714) and *A Modest Defence of Publick Stews* (1724), have also been attributed to Mandeville.
+    step1: |-
+      曼德维尔的下一部重要著作《关于宗教、教会与国民幸福的自由思想》（*Free Thoughts on Religion, the Church, and National Happiness*，1720；1729 年扩充）深入神学问题，批评教会在助长迫害与不宽容方面的作用。在这部著作（以及其他地方），曼德维尔大量借用皮埃尔·培尔（Pierre Bayle）的思想；培尔是 17 世纪欧洲倡导宗教宽容的伟大旗手之一。曼德维尔主张一种公民宗教：神职人员应由政府支付薪俸并受政府管辖，理由是这样做能促进宽容与节制。《自由思想》至今仍是一部有些令人费解的作品。它相当深入地讨论政治史与宗教史，一改曼德维尔对话体作品的风格，语气更严肃，个人特色也不那么鲜明。其中若干章节当时曾单独发表在辉格党的期刊上，凸显出曼德维尔有意施加实际的政治影响。事实上，曼德维尔在整个文学生涯中出版了好几本政治小册子，包括《探究泰伯恩刑场频繁处决的原因》（*An Enquiry into the Causes of the Frequent Executions at Tyburn*，1725）：它最初刊于一份著名的辉格党期刊，后来又在 18 世纪的报纸上多次重印。其他小册子，如《一个辉格党政府理应引起的危害》（*The Mischiefs that ought Justly to be Apprehended from a Whig-Government*，1714）和《为公共妓院一辩》（*A Modest Defence of Publick Stews*，1724），也被归到曼德维尔名下。
+    step2: |-
+      下一部重要著作《关于宗教、教会与国民幸福的自由思想》（*Free Thoughts on Religion, the Church, and National Happiness*，1720；1729 年扩充）深入神学问题，批评教会在助长迫害与不宽容上的作用。在这本书里（也在别处），曼德维尔大量借用皮埃尔·培尔（Pierre Bayle）的思想。培尔是 17 世纪欧洲倡导宗教宽容的伟大旗手之一。曼德维尔主张一种公民宗教：神职人员领政府薪俸、受政府管辖，理由是这样能促进宽容与节制。《自由思想》至今仍有点令人费解。它相当深入地讨论政治史和宗教史，一改曼德维尔对话体作品的风格，语气更严肃，个人特色也不那么鲜明。其中若干章节当时曾单独发表在辉格党期刊上，可见曼德维尔有意施加实际的政治影响。事实上，他一生出版了好几本政治小册子，包括《探究泰伯恩刑场频繁处决的原因》（*An Enquiry into the Causes of the Frequent Executions at Tyburn*，1725）：它先刊于一份著名的辉格党期刊，后来又在 18 世纪的报纸上多次重印。其他小册子，如《一个辉格党政府理应引起的危害》（*The Mischiefs that ought Justly to be Apprehended from a Whig-Government*，1714）和《为公共妓院一辩》（*A Modest Defence of Publick Stews*，1724），也被归到曼德维尔名下。
+  - id: 9
+    kind: body
+    source: |-
+      Mandeville’s ideas generated increased controversy following the publication of a revised edition of *The Fable of the Bees* in 1723, which included additional remarks and two new lengthy essays. The first of these advances a scathing critique of the charity school movement and provides a revealing insight into Mandeville’s views on the working poor, while the second attacks the philosophy of Anthony Ashley Cooper, Third Earl of Shaftesbury, who is portrayed as Mandeville’s principal philosophical adversary. The 1723 edition was presented by the Grand Jury of Middlesex as a work that promoted irreligion and immorality. Mandeville defended himself against these charges by publishing *A Vindication of the Book* in 1724, which was appended to subsequent editions of the *Fable*. During this period, his friend Lord Macclesfield’s corruption trial further contributed to the tumultuous atmosphere surrounding Mandeville’s reputation.
+    step1: |-
+      1723 年《蜜蜂的寓言》修订版面世后，曼德维尔的观点引发的争议更加激烈。这一版增加了若干评注和两篇新的长文。第一篇对慈善学校运动发起尖锐批判，也让人们看清曼德维尔对穷苦劳动者的看法；第二篇抨击第三代沙夫茨伯里伯爵安东尼·阿什利·库珀（Anthony Ashley Cooper, Third Earl of Shaftesbury）的哲学，把他描绘成曼德维尔在哲学上的主要对手。米德尔塞克斯大陪审团把 1723 年版呈报为一部宣扬不敬神与不道德的作品。曼德维尔为回应这些指控，于 1724 年发表《为本书辩护》（*A Vindication of the Book*），附在《寓言》其后的各版中。此间，他的朋友麦克尔斯菲尔德勋爵（Lord Macclesfield）的贪腐案受审，也让围绕曼德维尔名声的动荡气氛更甚。
+    step2: |-
+      1723 年，《蜜蜂的寓言》修订版面世，曼德维尔的观点引发的争议随之升温。这一版增加了若干评注和两篇新的长文。第一篇尖锐批判慈善学校运动，也让人看清曼德维尔对穷苦劳动者是什么看法；第二篇抨击第三代沙夫茨伯里伯爵安东尼·阿什利·库珀（Anthony Ashley Cooper, Third Earl of Shaftesbury）的哲学，把他写成曼德维尔在哲学上的头号对手。米德尔塞克斯大陪审团把 1723 年版呈报为一部宣扬不敬神、不道德的作品。曼德维尔在 1724 年发表《为本书辩护》（*A Vindication of the Book*）回击这些指控，文字附在《寓言》此后的各版里。此间，他的朋友麦克尔斯菲尔德勋爵（Lord Macclesfield）因贪腐受审，也让围绕曼德维尔名声的气氛更加动荡。
+  - id: 10
+    kind: body
+    source: |-
+      In 1729, six years after the scandal over the *Fable* had propelled him to fame, Mandeville published *The Fable of the Bees, Part II*, which takes the form of six lengthy dialogues mainly between the characters Horatio and Cleomenes. This work showcases Mandeville’s most developed analysis of human nature and society, and, while few thinkers engaged with it explicitly, it appears to have influenced important philosophical trends in European thought, and especially in the Scottish Enlightenment. In his last major work, *An Enquiry into the Origin of Honour, and the Usefulness of Christianity in War* (1732), Mandeville resumes the dialogues between Horatio and Cleomenes to explore the role of self-liking in the development of honor codes, revealing how this passion had been exploited by different political powers, such as the Church of Rome. He argues that honor, though incompatible with virtue and religion, served as a hierarchical principle and social tie that was central to understanding the European politics of his day.
+    step1: |-
+      1729 年，即《寓言》风波把他推成名人六年之后，曼德维尔出版了《蜜蜂的寓言，第二部》。全书由六篇长对话组成，对话主要在霍雷肖（Horatio）与克莱奥米尼（Cleomenes）两个人物之间展开。这部作品展现了曼德维尔对人性与社会最为成熟的分析；虽然鲜有思想家公开讨论它，它似乎影响了欧洲思想中一些重要的哲学潮流，尤其是在苏格兰启蒙运动中。在最后一部重要著作《探究荣誉的起源以及基督教在战争中的用处》（*An Enquiry into the Origin of Honour, and the Usefulness of Christianity in War*，1732）中，曼德维尔让霍雷肖与克莱奥米尼继续对话，考察自矜在荣誉准则形成过程中的作用，揭示这种激情如何被不同的政治权力（如罗马教会）所利用。他主张，荣誉虽然与德性和宗教不相容，却充当了一条等级原则与社会纽带，是理解他那个时代欧洲政治的关键。
+    step2: |-
+      1729 年，也就是《寓言》风波把他捧成名人的六年之后，曼德维尔出版了《蜜蜂的寓言，第二部》。全书是六篇长对话，主要在霍雷肖（Horatio）与克莱奥米尼（Cleomenes）之间展开。这部作品展现了他对人性与社会最成熟的分析。虽然少有思想家公开讨论它，它似乎影响了欧洲思想中一些重要的哲学潮流，尤其在苏格兰启蒙运动之中。最后一部重要著作《探究荣誉的起源以及基督教在战争中的用处》（*An Enquiry into the Origin of Honour, and the Usefulness of Christianity in War*，1732）让霍雷肖与克莱奥米尼接着对话，考察自矜在荣誉准则形成中的作用，揭示这种激情如何被不同的政治权力利用，例如罗马教会。他主张，荣誉虽然与德性和宗教不相容，却是一条等级原则和社会纽带，是理解他那个时代欧洲政治的关键。
+  - id: 11
+    kind: body
+    source: |-
+      In 1732, Mandeville also published *A Letter to Dion*, in response to George Berkeley’s criticisms of the *Fable*. Mandeville protested that his critics had frequently misrepresented his ideas and intentions, in part so that they could divert attention from the ways in which the *Fable* exposed their own hypocrisy and moral shortcomings (Tolonen 2022)[^tolonen-2022]. To some extent, however, Mandeville’s paradoxical and satirical style invited criticism and perhaps even misunderstanding. He did not write systematic philosophical treatises, which has posed considerable obstacles for both his contemporaries and later readers who have attempted to grasp his overall philosophical stance. Nonetheless, and as we shall see, his works are characterized by a sustained and serious attempt to improve our understanding of a wide range of social and political phenomena through an in-depth analysis of human nature.
+    step1: |-
+      1732 年，曼德维尔还出版了《致狄翁的一封信》（*A Letter to Dion*），回应乔治·贝克莱（George Berkeley）对《寓言》的批评。曼德维尔抗辩说，批评者常常曲解他的观点和意图，部分是为了转移视线，不让人注意《寓言》如何暴露了他们自己的伪善与道德短处（Tolonen 2022）[^tolonen-2022]。然而在某种程度上，曼德维尔那种悖论式、讽刺式的文风本身就招致批评，甚至可能招致误解。他没有写过系统的哲学论著，这给他同时代的读者、也给后来试图把握其整体哲学立场的读者造成了相当大的障碍。不过，正如我们将会看到的，他的著作有一个一贯而严肃的追求：通过深入分析人性，增进我们对广泛社会现象与政治现象的理解。
+    step2: |-
+      1732 年，曼德维尔还出版了《致狄翁的一封信》（*A Letter to Dion*），回应乔治·贝克莱（George Berkeley）对《寓言》的批评。他抗辩说，批评者常常曲解他的观点和意图，部分是为了转移视线，不让人注意《寓言》如何暴露了他们自己的伪善与道德短处（Tolonen 2022）[^tolonen-2022]。不过在某种程度上，曼德维尔那种悖论式、讽刺式的文风本身就招批评，甚至招误解。他没写过系统的哲学论著，这给他同时代的读者，也给后来想把握其整体哲学立场的人，造成了相当大的障碍。不过，正如我们将会看到的，他的著作始终有一个严肃而一贯的追求：通过深入分析人性，增进我们对广泛社会现象和政治现象的理解。
+  - id: 12
+    kind: body
+    source: |-
+      ## 2. Human Nature
+    step1: |-
+      ## 2 人性
+    step2: |-
+      ## 2 人性
+  - id: 13
+    kind: body
+    source: |-
+      Mandeville’s account of human nature proved extremely controversial in the eighteenth century. Some of his most provocative ideas challenged widely held assumptions about what distinguishes humans from other animals, and he was often taken to have followed in the footsteps of another notorious philosopher, Thomas Hobbes, in reducing all human behavior to some form of self-love. Yet, as David Hume (1739–1740 [2000: 5]) famously remarked, Mandeville can also be seen as part of a tradition of philosophers, following John Locke, who played a pivotal role in putting “the science of man on a new footing” by deriving general principles about human nature from careful observation and experience.
+    step1: |-
+      曼德维尔对人性的说明在 18 世纪引起了极大争议。他最惊世骇俗的一些观点，挑战了当时关于人凭什么区别于其他动物的流行假定；人们还常常认为他步另一位声名狼藉的哲学家托马斯·霍布斯（Thomas Hobbes）的后尘，把一切人类行为都化约为某种形式的自爱。然而，正如大卫·休谟（David Hume，1739–1740 [2000: 5]）那句名言所说，曼德维尔也可以被看作洛克（John Locke）之后那一传统中的哲学家：他们从细致的观察与经验中得出关于人性的一般原则，在“把人性的科学置于新的基础之上”这件事上起了关键作用。
+    step2: |-
+      曼德维尔对人性的说明在 18 世纪引起了极大争议。他最惊世骇俗的一些观点，挑战了当时关于人凭什么区别于其他动物的流行假定。人们还常把他看成在步另一位声名狼藉的哲学家托马斯·霍布斯（Thomas Hobbes）的后尘，把一切人类行为都化约为某种形式的自爱。然而，正如大卫·休谟（David Hume，1739–1740 [2000: 5]）那句名言所说，曼德维尔也可以归入洛克（John Locke）之后的一批哲学家：他们从细致的观察和经验中提炼关于人性的一般原则，在“把人性的科学置于新的基础之上”这件事上起了关键作用。
+  - id: 14
+    kind: body
+    source: |-
+      Mandeville outlines an approach along these lines in *A Treatise of the Hypochondriack and Hysterick Passions*, where he claims that human knowledge “can only come *a posteriori*” (TH 100). He disparages physicians who propound abstract systems based upon reason alone, without seeking empirical support for their speculations, and instead argues that the art of the physician is grounded upon practical knowledge, which involves observing patterns from one’s accumulated experience and offering plausible hypotheses that can explain the available evidence (TH, especially 61–63, 91). Mandeville sometimes presents his approach in *The Fable of the Bees* in similar terms, claiming that even when he offers speculative conjectures to account for obscure social phenomena, his reasonings are nonetheless based on “the plain Observations which every body may make on Man” (FB II, 128).
+    step1: |-
+      曼德维尔在《疑病症与歇斯底里激情论》中勾勒了这样一条进路。他声称人类知识“只能来自后验”（TH 100）。他贬斥那些仅凭理性提出抽象体系、却不为其思辨寻求经验支持的医生，反过来主张医生的技艺建立在实践知识之上：从积累的经验中观察模式，并提出能解释现有证据的合理假说（TH，尤见 61–63、91）。在《蜜蜂的寓言》中，曼德维尔有时也用类似的说法表述自己的方法：即便他为解释晦涩的社会现象提出思辨性猜测，他的推理仍以“人人对人都能作出的明白观察”为依据（FB II, 128）。
+    step2: |-
+      曼德维尔在《疑病症与歇斯底里激情论》里勾勒的正是这样一条进路。他声称人类知识“只能来自后验”（TH 100）。他贬斥那些仅凭理性搭起抽象体系、却不为思辨寻求经验支持的医生，主张医生的技艺立足于实践知识：从积累的经验中观察模式，再提出能解释现有证据的合理假说（TH，尤见 61–63、91）。在《蜜蜂的寓言》里，曼德维尔有时也用类似的话说明自己的方法：即便他为晦涩的社会现象提出思辨性猜测，推理仍以“人人对人都能作出的明白观察”为据（FB II, 128）。
+  - id: 15
+    kind: body
+    source: |-
+      Observing human nature accurately, however, is no easy task. Mandeville suggests that many people go astray either by moralizing about how we should behave, rather than focusing on how we really do behave (FB I, 39), or by assuming that we possess certain qualities that elevate us above other animals. The latter concern is especially evident in Mandeville’s changing views on whether humans possess an immaterial soul (see Simonazzi 2008: 119–128)[^simonazzi-2008]. While studying at the University of Leiden, Mandeville had written a dissertation (*Disputatio Philosophica de Brutorum Operationibus* [1689]; translated in McKee 1991)[^mckee-1991] endorsing the Cartesian view that non-human animals are incapable of anything approaching human consciousness, yet he would increasingly come to repudiate this position as he sought to uncover the more animalistic aspects of human nature (Callanan 2025: 23–45)[^callanan-2025]. We are conscious of thinking ourselves, so if we assume that matter is incapable of thought then it makes sense to conclude that we possess an immaterial soul. Yet Mandeville argues that our struggle to comprehend the idea of thinking matter reveals more about the limitations of human knowledge than it does about the properties of matter. The notion that an immaterial soul can act upon the body (and vice versa) poses at least as many difficulties as the idea that matter can produce thought and consciousness. What is more, Mandeville stresses that the reason many philosophers have insisted that we possess an immaterial and immortal soul is not because this is the most plausible inference to draw from a thorough examination of human nature, but rather because it is a pleasing idea that makes us feel better about ourselves. It is an idea that flatters our self-love and pride, in other words, which means that most people will be inclined to endorse it even in the absence of any compelling evidence (TH 59–60, 100–102; FB I, 230).
+    step1: |-
+      然而，准确地观察人性并非易事。曼德维尔认为，许多人之所以走岔路，要么是因为他们只就人应当如何行为作道德说教，而不去看人实际如何行为（FB I, 39）；要么是因为他们假定人具有某些使我们高居于其他动物之上的品质。后一种毛病尤其体现在曼德维尔关于人是否拥有非物质的灵魂这一看法的变化中（见 Simonazzi 2008: 119–128）[^simonazzi-2008]。在莱顿大学求学时，曼德维尔曾写过一篇学位论文（《论禽兽的活动》，*Disputatio Philosophica de Brutorum Operationibus* [1689]；英译见 McKee 1991）[^mckee-1991]，赞同笛卡尔式的观点：非人动物不可能具有任何接近人类意识的东西。但他后来日益摒弃这一立场，因为他要揭示人性中更具动物性的一面（Callanan 2025: 23–45）[^callanan-2025]。我们意识到自己在思维，因此，如果假定物质不能思维，那么结论似乎就是：我们拥有非物质的灵魂。但曼德维尔认为，我们难以理解“思维着的物质”这一观念，这更多说明人类知识的限度，而非物质的属性。非物质灵魂能作用于身体（以及反过来）这一说法，至少和物质能产生思维与意识这一说法一样困难重重。更重要的是，曼德维尔强调，许多哲学家坚称我们拥有非物质的、不朽的灵魂，并不是因为这是彻底考察人性后最合理的推论，而是因为这是一个讨人喜欢的观念，能让我们对自己感觉更好。换言之，这是一个迎合我们自爱与骄傲的观念，因此大多数人即便没有任何有力的证据，也倾向于接受它（TH 59–60, 100–102；FB I, 230）。
+    step2: |-
+      不过，准确观察人性绝非易事。曼德维尔认为，许多人走岔路，要么是因为只就人应当如何行为作道德说教，不看人实际如何行为（FB I, 39）；要么是因为假定人具有某些品质，足以让我们高踞于其他动物之上。后一种毛病，尤其见于曼德维尔对“人是否有非物质灵魂”这一问题的看法变化（见 Simonazzi 2008: 119–128）[^simonazzi-2008]。在莱顿大学求学时，他写过一篇学位论文《论禽兽的活动》（*Disputatio Philosophica de Brutorum Operationibus* [1689]；英译见 McKee 1991）[^mckee-1991]，赞同笛卡尔式的观点：非人动物不可能有任何接近人类意识的东西。但后来他日益摒弃这一立场，因为要揭示人性中更具动物性的一面（Callanan 2025: 23–45）[^callanan-2025]。我们意识到自己在思维；那么，如果假定物质不能思维，结论似乎就是：我们拥有非物质的灵魂。但曼德维尔认为，我们难以理解“思维着的物质”，这更多暴露了人类知识的限度，而不是物质的属性。非物质灵魂能作用于身体（以及反过来），这个说法至少和“物质能产生思维与意识”一样困难重重。更重要的是，曼德维尔强调，许多哲学家坚称我们拥有非物质的、不朽的灵魂，并非因为这是彻底考察人性后最合理的推论，而是因为这是个讨人喜欢的观念，能让我们对自己感觉更好。换言之，它迎合我们的自爱与骄傲，所以大多数人即便拿不出任何有力证据，也倾向于接受（TH 59–60, 100–102；FB I, 230）。
+  - id: 16
+    kind: body
+    source: |-
+      ### 2.1 Reason and the passions
+    step1: |-
+      ### 2.1 理性与激情
+    step2: |-
+      ### 2.1 理性与激情
+  - id: 17
+    kind: body
+    source: |-
+      Mandeville similarly casts doubt on the notion that human conduct is governed by reason. In “An Enquiry Into the Origin of Moral Virtue”, he offers a speculative account of how the lawgivers who first established society could have persuaded people to resist their natural appetites and concern themselves with the public interest. The chief tool at the lawgivers’ disposal was flattery: they
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      > extoll’d the Excellency of our Nature above other Animals … [and] bestow’d a thousand Encomiums on the Rationality of our Souls. (FB I, 43)
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      Those people who indulged their natural appetites without regard to anyone else were compared to animals, whereas those who resisted their inclinations and strived to promote the peace and welfare of society were praised as belonging to a higher class of people. The self-denial that such people practiced, however, was motivated by the pride they took in being regarded as members of the superior class (FB I, 42–44). While we like to believe that we have a rational soul that distinguishes us from other animals, then, what really sets humans apart is the extent to which our desire to be thought of in a certain light drives so much of our behavior—and that desire is rooted in the passions.
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      Mandeville describes humans as “*a compound of various Passions*”, with our behavior determined by the most prominent passion on any given occasion (FB I, 39). He adopts a broadly Hobbesian conception of the will, as “the last Result of deliberation”, and contends that we (mistakenly) take our will to be free because of the difficulties involved in identifying our motivating passions. Although someone might believe that they are choosing freely, their judgement is always “over rul’d by a predominant Passion” that could have been resisted only by a stronger one (FT 61–62). Even when people draw on relevant knowledge before acting, or follow the dictates of reason, they are still “compell’d so to do by some Passion or other”, much as those who act in unreasonable ways are led to do so by different passions. On Mandeville’s account, then, all “Human Creatures are sway’d and wholly govern’d by their Passions” (OH 31).
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      Many of Mandeville’s contemporaries found this view of human nature deeply objectionable, for precisely the reasons that he had anticipated: it dissolves what were often taken to be the most important distinctions between humans and other animals. As William Law (1724: 4) complained, Mandeville’s depiction of humans as a compound of various passions “seems to suit a *Wolf* or a *Bear*, as exactly as your self, or a *Grecian Philosopher*”. Law protested that Mandeville’s analysis could not account for the extent to which humans engage in thought, in ways that set us apart from other animals. Yet Mandeville’s more subtle point is about what drives our reasoning. He does not deny that we are capable of thought and reflection, but he presents reason as subservient to the passions. Indeed, he maintains that we often deploy our reason to justify what we have already done, rather than using it to determine our actions in the first place. It is the passions that guide our reason, in this respect, with self-love “furnishing every individual with Arguments to justify their Inclinations” (FB I, 333). As Arthur Lovejoy observed in 1922, in uncovering the many subconscious motivations that lead us to rationalize our actions, Mandeville’s “chief significance” may be understood in terms of his contribution to the history of social psychology (personal letter to Kaye given in the notes to FB II, 452).
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      ### 2.2 Psychological egoism
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      It is one thing to claim that humans are creatures of the passions; it is quite another to insist, as Mandeville also does, that “all Passions center in Self-Love” (FB I, 75). Mandeville can thus be taken as a proponent of what, in the eighteenth century, was sometimes called the “selfish system”, a position which today is better known as psychological egoism (but on the limitations of using this term to capture Mandeville’s position, see Maurer 2019: 58–85)[^maurer-2019].
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      Mandeville regularly seeks to explain how acts that appear to be motivated by other-regarding passions are in fact different manifestations of self-love. Suppose we see a baby that is about to drop into a fire. Mandeville does not doubt that we would immediately act to save the baby, but he does maintain that, in so doing, “we only obliged our selves”, for had the baby fallen then we would have felt “a Pain, which Self-preservation compell’d us to prevent” (FB I, 56). Mandeville allows that witnessing the suffering of others causes us pain and anxiety (FB I, 254–255), yet he argues that our pity ultimately derives from self-love, or self-preservation. Elsewhere, Mandeville similarly claims that a mother’s natural love for her child originates in self-love (FB I, 75). Even when we care deeply about other people, then, Mandeville still presents the passions in question as manifestations of self-love.
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      In these cases, it might be objected that Mandeville’s position involves disingenuously redescribing other-regarding passions in terms of self-love. In challenging the selfish system in the 1720s—quite possibly with Mandeville in his sights—Joseph Butler (1726 [2017: 94]) retorted that “this is not the language of mankind”. Passions such as pity and parental love are clearly not *selfish* passions, since their satisfaction depends upon the wellbeing of other people, not merely our own. Similar objections to the self-love thesis would be raised in turn by Francis Hutcheson, David Hume, and Adam Smith, amongst others, who suggested that attempts to root all passions in self-love relied more upon linguistic sophistry than philosophical insight.
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      In other cases, however, Mandeville takes a different approach to exposing the depths of self-love by focusing on our desire for social esteem. The key passions here are pride and shame, which work closely together and result in us becoming preoccupied with our reputation and relative standing in comparison to other people. Where pride leads us to desire praise and social approbation, shame leads us to fear disapproval and criticism. Mandeville argues that these passions lie behind a remarkable amount of human behavior, motivating us to regulate our own conduct in accordance with prevailing social norms and expectations. These passions are so powerful that they will sometimes outweigh the fear of death, as is best illustrated by the example of dueling, where the fear of shame leads men of honor to imperil their lives in order to preserve their social standing and avoid being thought cowardly (FB I, 334; FB II, 87–96). In less extreme cases, pride and shame habitually lead us to conceal other passions that would be met with social disapproval, and they are therefore central to Mandeville’s explanation of why we regularly act in ways that appear to be public spirited, even when our motivations are ultimately self-centered.
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      ### 2.3 Self-love and self-liking
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      In the first volume of the *Fable*, Mandeville contends that all passions originate in self-love. Yet in both the second volume and its sequel, *An Enquiry into the Origin of Honour*, he draws a distinction between self-love and self-liking (FB II, 129–134; OH 3–8). The idea that all human action can be reduced to self-love came under sustained attack from philosophers such as Butler and Hutcheson in the 1720s, and Mandeville may well have introduced the distinction in response (Tolonen 2013: 49–65)[^tolonen-2013].
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      The concept of self-liking can helpfully be understood in relation to Mandeville’s (earlier) account of pride. In the first volume of the *Fable*, Mandeville claims that pride is the faculty by which we overvalue ourselves (FB I, 124), while also equating pride with the concern we have for our own reputation (FB I, 146). But why, if we overvalue ourselves, do we care so much about our reputation, which is based on how *others* view us? In the second volume of the *Fable*, Mandeville supplies a more complete answer to this question by introducing the concept of self-liking. He now describes self-liking (rather than pride) as the “Instinct, by which every Individual values itself above its real Worth”. As we are conscious that we overvalue ourselves, however, this instinct is accompanied by a sense of uneasiness, which leads us to desire the approbation of other people to “strengthen and confirm us in the good Opinion we have of ourselves” (FB II, 130). The approval of other people, then, eases the apprehension that arises from overvaluing ourselves.
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      Mandeville clarifies that self-liking is the underlying cause of passions such as pride and shame (FB II, 131–132; OH 3–4, 12–13). Where self-love explains why we are concerned with matters of sustenance and security, self-liking explains why we care about our reputation and social standing (FB II, 133–134). The significance and bearing of the distinction between self-love and self-liking for Mandeville’s wider philosophy remains a matter of debate, with scholars disagreeing on the extent to which it constitutes a refinement or a repudiation of Mandeville’s earlier self-love thesis, and on whether the introduction of self-liking reflects a more general change in the character of his moral and social philosophy between the different editions of the *Fable* (see especially Hundert 1994: 53–55, 137–139; Tolonen 2013: 41–102; Maurer 2019: 60–64; Douglass 2023: 35–38, 62–67; Callanan 2025: 242–253)[^callanan-2025][^douglass-2023][^hundert-1994][^maurer-2019][^tolonen-2013].
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      ## 3. Moral Philosophy
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      The area of Mandeville’s thought that has generated the greatest debate is undoubtedly his moral philosophy. Amongst many competing views, he has been read as a sceptic who aims to expose morality as a political trick while subverting the prevailing moral standards of his day, as a moral rigorist who seeks to demonstrate that much of our behavior falls considerably short of the demands of virtue, and as a utilitarian who holds that what really matters is the consequences of our actions and not the motives behind them (for an extensive survey, see Monro 1975: 178–248)[^monro-1975]. Our aim presently is not to pass judgement on the validity of these or other interpretations. Instead, we focus on some of the key questions and puzzles that arise from the most influential statement of Mandeville’s moral philosophy, “An Enquiry Into the Origin of Moral Virtue”, in which he explains how humans could have acquired ideas of virtue and vice without knowledge of revealed religion.
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      ### 3.1 The origin of moral virtue
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      In setting out his account of the origin of virtue, Mandeville addresses the problem of what leads us to act in ways that advance the interests of other people and the community. As we have seen, Mandeville thinks that we are fundamentally self-centered creatures, which means that we would only resist our natural appetites and inclinations if we anticipate some personal gain from doing so. Instead of providing individuals with tangible goods, Mandeville suggests that “lawgivers”—a broad concept that often encompasses those with the authority to establish moral rules—would have used praise and contempt as foundational tools to civilize humanity. Those who resist their selfish inclinations and act in ways that benefit others would be rewarded with praise, while those who indulge their appetites without regard to the public good would be held in contempt. It is on this basis, Mandeville argues, that everyone would have come to agree on definitions of virtue and vice. All acts where someone gratifies their appetites in a way that could prove socially detrimental would be counted as vices, with the term virtue reserved for acts where someone resists their natural impulses and endeavors “the Benefit of others, or the Conquest of his own Passions out of a Rational Ambition of being good” (FB I, 42–49).
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      On this account, we hold certain ideas of virtue and vice only because doing so is in everyone’s interest. Where those who approximate this standard of virtue have an interest in being esteemed as virtuous, those who fall short of this standard nevertheless have an interest in encouraging others to perform acts from which they benefit. Mandeville maintains that the earliest formulation of these ideas was an invention of ambitious lawgivers or politicians who wanted to govern people more easily. He describes the distinction between virtue and vice as “the Contrivance of Politicians”, and memorably declares that “the Moral Virtues are the Political Offspring which Flattery begot upon Pride” (FB I, 50–51). These assertions outraged many of Mandeville’s contemporaries, who accused him of bringing the idea of virtue into disrepute by denying the reality of moral distinctions. Mandeville’s explanation of how we acquire notions of virtue and vice implicitly rejects views of morality widely held at the time, such as the idea that we have an innate moral sense that allows us to understand the distinction between right and wrong, or that moral obligations can be deduced by right reason as precepts of natural law. By contrast, his critics argued, Mandeville’s account presents our ideas of virtue and vice as arbitrary, in the sense that these notions are dependent upon human will and agreement alone, rather than being based on any immutable or eternal standards (see e.g., Fiddes 1724: xvi; Law 1724: 22–23; Bluet 1725: 108–109, 136)[^bluet-1725][^fiddes-1724][^law-1724]. This worry was exacerbated by the fact that Mandeville elsewhere flirts with moral relativism, highlighting examples of how moral codes vary in different cultures to challenge the idea that virtue and vice are “permanent Realities that must ever be the same in all Countries and all Ages” (FB I, 324, 330–331).
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      As his critics also pointed out, the role of wise lawgivers or politicians in Mandeville’s account is somewhat question-begging, as it remains unclear how they attained the knowledge required to civilize everyone else (e.g., Bluet 1725: 25–28)[^bluet-1725]. Yet Mandeville’s later works do not rely on these figures to anywhere near the same degree, and, when they are invoked, he explains their inventions as the joint labor of numerous people over many ages (OH 40–41). He still maintains that humans do not naturally possess any equitable or reasonable notions of right and wrong (FB II, 223–224), arguing instead that we would have come to acquire such notions only through a long period of socialization. He also insists that this explanation does not involve denigrating virtue, as his critics had objected. Comparing the excellence of virtue to axioms of mathematics, Mandeville allows that it makes sense to call these eternal truths in a figurative sense, but the key point is that a great deal of learning is needed to discover them. To stress the difficulties involved in arriving at these truths, however, is not to deny their existence (OH vii–viii).
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      One way of understanding Mandeville’s position is that, given certain background facts about human nature and social interaction, ideas of virtue and vice are necessary for societies to function effectively. The distinction between virtue and vice is socially advantageous, in other words, and we must have come to understand moral concepts in a certain way to facilitate social order and cooperation. If this way of reading Mandeville’s position helps to evade the worry that he denied the reality of moral distinctions, it may nonetheless run into tension with his infamous “private vices, public benefits” thesis (see Bluet 1725: 23–24)[^bluet-1725]. On the one hand, *The Grumbling Hive* verse suggests that if vices were rooted out of society and everyone became virtuous then economic and social ruin would ensue. On the other hand, Mandeville argues that ideas of virtue and vice are required to ensure that we live peacefully together. Even if these two strands of his thought can be reconciled, doing so is far from straightforward (for further discussion, see Monro 1975, 203–209)[^monro-1975].
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      ### 3.2 Is virtue possible?
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      Mandeville’s definitions of virtue and vice admit of many ambiguities, giving rise to debates about whether he has a consistent account of the requirements of virtue, and, if so, whether those requirements place virtue beyond human reach (see Colman 1972; Douglass 2020)[^colman-1972][^douglass-2020]. Leaving aside the question of his sincerity, for the moment, two features of his expressed position are relatively uncontroversial. First, virtuous actions require self-denial. This is clear from Mandeville’s initial definition of virtue (FB I, 48–49), and it is a point that he emphasizes repeatedly when setting his ideas out against Shaftesbury (e.g., FB I, 323, 331; FB II, 108–109). Second, whether an act is virtuous depends on the motive from which someone acts (FB I, 56, 260–261). While this much is straightforward, complications soon arise once we start to interrogate these requirements further.
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      Consider self-denial. How much self-denial is required for an act to be virtuous? Acting “contrary to the impulse of Nature” (FB I, 48) might not be too demanding if it involves nothing more than resisting one’s immediate appetites. Yet more is presumably required to conquer one’s passions. At one point Mandeville claims that virtue requires “a Victory over the Passions”. It is this victory over the passions that distinguishes real virtue from “Counterfeited Virtue”, which is merely the “Conquest which one Passion obtains over another” (FB I, 230, also 405). When we act in ways that benefit others out of pride or shame, for example, this does not count as the victory over the passions required for real virtue, but only the conquest of one passion over another that characterizes counterfeited virtue. This is why good manners and politeness have little to do with real virtue (FB I, 79; FB II, 146, 281). How, then, can we obtain the victory over the passions required for real virtue? If all our actions are governed by our passions, as Mandeville maintains, then it follows that a victory over the passions is impossible—at least without divine assistance (FT 24; OH 56, 99–100). Notice, however, that even if real virtue is beyond human reach, this does not imperil the widespread practice of counterfeited virtue, where people act in ways that appear to be public-spirited because they desire social esteem.
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      These considerations relate closely to the question of the motive behind virtuous acts. What counts as a virtuous motive? Mandeville sometimes implies that acting from self-love cannot be “truly Virtuous” (FB I, 133), from which it would follow (insofar as we read Mandeville as endorsing psychological egoism) that we can never act from truly virtuous motives. At other points, he stresses the importance of acting out of “a Rational Ambition of being good” (FB I, 49, 260), without spelling out precisely what this entails. If it merely involves reflecting on whether your action is likely to benefit society before deciding whether to perform it, then this level of rational reflection is compatible with the presence of self-centered motives, such as pride. After all, we are more likely to receive the praise that will satisfy our pride if we perform acts that benefit society. If, however, acting from a rational ambition of being good requires being motivated by reason alone, without being affected by one’s passions, then this is beyond the reach of creatures governed by their passions. Whether or not real virtue is possible, on Mandeville’s account, thus depends on how some of the more ambiguous clauses in his definition are interpreted. At times Mandeville seems happy to leave the reader guessing, sometimes observing (against Shaftesbury) that it is no “Affront to Virtue to make it inaccessible” (FB I, 23), while in other places defending himself against this very charge (e.g., FB II, 50, 336).
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      ### 3.3 The question of sincerity
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      Given the ambiguities, equivocations, and perhaps even contradictions in Mandeville’s analysis of virtue, it is unsurprising that readers remain divided over how to make sense of his position. The main source of disagreement, however, is not so much the question of Mandeville’s consistency as that of his sincerity. He *says* that the *Fable* “is a Book of severe and exalted morality, that contains a strict Test of Virtue” (FB I, 404–405), but is this what he really *means*? Many of his contemporaries took the *Fable* to be a celebration of vice and an attack on virtue and Christianity, with Mandeville’s claims to the contrary treated as an insincere guise adopted to deflect criticism and censure.
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      The main reason Mandeville’s sincerity has frequently been doubted is that he appears to revel in highlighting the most scandalous implications of his own analysis. His tone is often humorous or playful, and, despite what he says, if the road to worldly prosperity and glory diverges from the road to virtue, then Mandeville seems relatively untroubled by the fact that we invariably choose the former. Indeed, he repeatedly criticizes those—especially the clergy—who complain about the moral degeneracy of society while being far from paragons of virtue themselves. That Mandeville aimed to expose the hypocrisy of such people is beyond doubt, yet it is less clear what the implications are for understanding his own moral philosophy. Some commentators have read Mandeville as a libertine or hedonist, whose rigoristic definition of virtue was insincere and adopted solely for satirical purposes (e.g., Viner 1953 [1991: 178–182]; Harth 1969; Nieli 1989)[^harth-1969][^nieli-1989][^viner-1953]. Others, by contrast, have not only taken Mandeville’s rigorism seriously, but even suggested that he saw his philosophy as resting firmly on Christian foundations (e.g., Chiasson 1970; Crisp 2019: 60–73)[^chiasson-1970][^crisp-2019]. Another influential view is that there is a genuine tension between Mandeville’s rigoristic conception of virtue and the more general empiricist bent of his philosophy, with the latter aligning more closely with utilitarianism (Kaye 1924a: lii–lvi)[^kaye-1924a].
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      When approaching these debates, it is helpful to consider the *scope* of Mandeville’s moral philosophy and its relationship with his social and political ideas. In theory, at least, one could be a moral rigorist at the level of individual ethics and nonetheless think that utilitarian concerns are more appropriate in the political sphere—the key point, for Mandeville, is that political questions should be evaluated without relying on any particular theory of individual ethics (see Maxwell 1951)[^maxwell-1951]. More generally still, it is worth recalling that one of Mandeville’s main goals was not to tell us how we ought to behave, but to explain how we do behave (FB I, 39). Insofar as this goal applies to his moral philosophy, we will likely go astray if we assume that Mandeville was concerned with defending a particular ethical position that we should strive to identify. His moral philosophy may be better understood as an investigation into the role that moral concepts, such as virtue and vice, play in our social lives. This explanatory project, which seeks to make sense of moral ideas as social phenomena, extends well beyond his conceptions of virtue and vice to encompass a wide range of social and political norms.
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      ## 4. Social and Political Norms
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      Mandeville was a keen observer of social and political norms. While this is evident throughout his writings, the evolutionary accounts of various social phenomena that he develops in his later works constitute his most original and significant contribution to social philosophy. Central to his analysis is the relationship between the passions and the emergence of larger societal structures. This relationship is also evident in his analysis of gender, religion, and economics, which we consider here as illustrative examples of how Mandeville’s underlying account of human nature informs his wider study of society and politics.
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      ### 4.1 The evolution of civil society
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      In *The Fable of the Bees, Part II*, Mandeville offers an evolutionary account of the origin of society that aims to explain how humans could have acquired the capacity to govern other people and learned to regulate their passions in ways that avoid conflict. Rather than operating with a stark dichotomy between the state of nature and civil society, Mandeville charts the various stages of a much lengthier developmental process, starting from a primitive society and gradually progressing towards the establishment of laws and norms of politeness over many centuries.
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      The most basic social unit, for Mandeville, is the primitive family, and he identifies three steps that would have led families to start working together before eventually forming civil societies. The first step is the fear of wild animals, which would have incentivized families to unite for purposes of common defense. As humans also pose a considerable threat to one another, the second step is fear of other humans who seek to domineer over everyone else. At this stage humans would have divided into different bands, with band leaders slowly learning through a process of trial-and-error how to govern their subjects. The third and final step is the invention of written laws, which is necessary for stable government and long-term peaceful coexistence (FB II, 266–269).
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      A civil society is one governed in accordance with written laws. Crucially, it is only at this juncture that human interactions would be regulated by any meaningful notions of justice. Prior to being educated and socialized, Mandeville claims that we would consider it just to take possession of anything we can, and unjust to be deprived of anything we possess—a bare bones notion of justice that would be incapable of resolving any disagreements or quarrels (FB II, 200). Written laws are required before justice can be administered equitably and reliably, and it is likewise only after many generations that we would be “led into the Method of thinking justly” (FB II, 219, also 236). Once laws that protect personal safety and private property are instituted, everything else falls into place. In particular, individuals enjoy a level of security that allows them to pursue the objects of their self-love more industriously through the division of labor (FB II, 283–284, 300). While Mandeville denies that there is any natural motive that prevents people from taking others’ possessions, the establishment of written laws and property rights creates a framework that incentivizes individuals to respect these boundaries.
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      Where justice is especially important for safeguarding the objects of our self-love, polite social norms allow us to cultivate self-liking in mutually beneficial ways. Mandeville claims that norms of politeness gradually arise once markets for luxury goods develop (FB II, 147), yet the example most familiar to his readers would have been the complex sport of upper-class manners observed in many of the European societies of his day. The most effective way to gain the good opinion of others and thereby satisfy our self-liking is through mutual discretion. Given that we all hold inflated views of ourselves, it is inadvisable to display our self-liking openly in public. Flattering other people and playing down our own qualities thus constitutes the height of good manners, with the politest people knowing
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      > not only to deny the high Value they have for themselves, but likewise to pretend that they have greater Value for others, than they have for themselves. (FB II, 145)
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      Social norms of politeness thus generate a positive cycle that nurtures everyone’s self-liking by adopting various means to please others while concealing our true motives and high opinions of ourselves.
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      Mandeville’s historical narratives show how the passions central to human nature give rise to social institutions that promote prosperity. Much of this development occurs unconsciously and unintentionally, with individuals unaware of their role in shaping social institutions. For example, we learn norms of politeness through emulation and experience, without understanding either the social function that politeness serves or even the underlying motives from which we act. This is often accomplished without any reflection or foresight; over a great deal of time, we “fall as it were into these Things spontaneously” (FB II, 139). Mandeville explains the origin of languages in terms of a similar process. He speculates that speech must have first been developed with the objective of persuading and displaying superiority over other people, even though language would subsequently come to serve many other purposes (FB II, 289–295). The invention of written laws, for instance, became possible only once language had advanced to an adequate level, and as language becomes increasingly complex it facilitates the refinement of norms of politeness.
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      Once civil society is established, Mandeville thinks that the government has a crucial role to play in maintaining social order. That role, however, does not involve radically transforming the political and social institutions that have developed over time, but rather ensuring that those institutions continue to function effectively. A well-constituted society is analogous to a well-designed clock, in this respect, which will continue to operate by itself so long as people remember to wind it up. This means that civil societies can be governed effectively by people who do not possess any extraordinary knowledge or virtues (FB II, 322–324). Civil society is a complex arrangement and those who tamper with its roots—by clamoring for a moral reformation, for instance—will invariably do more harm than good. Mandeville develops this line of thought further elsewhere, claiming that, rather than depending upon the qualities of virtuous politicians, the best constitution is that “which provides against the worst Contingencies … and preserves itself firm and remains unshaken, though most Men should prove Knaves” (FT 167). In advancing this case, Mandeville breaks sharply from the classical republican tradition that had stressed the importance of civic virtue in public life, instead setting out an approach to understanding politics now more often associated with Hume’s analysis of constitutional government (Moore 1977: 824–826)[^moore-1977].
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      ### 4.2 Gender
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      On Mandeville’s evolutionary account of society, the variation we observe in norms and behavior is a result of education and socialization, with human nature remaining constant throughout. There is no difference, he claims, “between the original Nature of a Savage, and that of a civiliz’d Man” (FB II, 214); they both possess the same passions, but these are cultivated differently due to the social environments in which they are raised. Much the same applies when it comes to his analysis of gender roles, and across his works Mandeville challenges many of the assumptions held at the time regarding the supposedly natural differences between the sexes.
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      Mandeville’s views on women are not especially well-known (although for notable contributions, see Goldsmith 1986; O’Brien 2009: 19–27; Branchi 2022: 38–55; Callanan 2025: 71–97)[^branchi-2022][^callanan-2025][^goldsmith-1986][^o’brien-2009]. In part, this is because some of his most striking contributions are found in his least famous works. In both *The Virgin Unmask’d* and his contributions to *The Female Tatler*, Mandeville adopts a dialogue format with a range of female characters expressing many of his most important ideas. In the “Preface” to the former, he announces that his aim “is to let young Ladies know whatever is dreadful in Marriage”. Every married woman, one of his characters declares, is “a Slave to her Husband”, with the respect and affection that men display towards women being no more than an outward show that serves to conceal the reality of subordination (VU 127–128). As well as exposing the extent—and sometimes brutal violence—of women’s oppression in the domestic sphere, the female interlocutors in *The Virgin Unmaks’d* also discuss Louis XIV’s politics in considerable detail, with Mandeville thereby implying that educated women can analyze the public sphere with a level of insight that many of his contemporaries would have considered the preserve of men alone. In a similar vein, some of Mandeville’s contributions to *The Female Tatler* return to the idea that marriage is akin to slavery, while also providing examples of women who have excelled in learning, valor, and other such qualities. The reason so few women have been recognized as great or virtuous is simply that they live under “the Injustice and Tyranny of the Men”, who, like all conquerors, endeavor to keep their captives ignorant for fear of otherwise losing their dominion (EFT, especially 171–174).
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      Mandeville’s views on women do not always point so straightforwardly in a feminist direction, as is most evident in the considerations that he raises for tolerating sex work as a lesser evil (on which, see Rosenthal 2006: 42–69; Nacol 2015)[^nacol-2015][^rosenthal-2006]. In the *Fable*, Mandeville approaches this topic in terms of sacrificing one group of women to preserve the chastity and social status of another, since lustful men will inevitably find some way of satisfying their carnal desires, and the language that he uses to describe sex workers hardly invites much sympathy with their plight (FB I, 95–100). This is a topic that is explored further in *A Modest Defence of Publick Stews*—a pamphlet published anonymously in 1724 that is now widely attributed to Mandeville (although for evidence raising doubts about this attribution, see Ryan, Mahadevan, & Tolonen 2023: 41–46)—which sets out a case (whether sincerely or not) for the provision of public brothels. Up to a point, at least, *A Modest Defence* does show a little more concern for the welfare of sex workers, who would be less exposed to violence and disease if their trade was legalized and regulated.
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      A recurring theme throughout Mandeville’s various discussions of women is the way that norms of chastity and female modesty are socially constructed and inculcated in young girls from a very early age. Girls are taught to feel ashamed of displaying their legs, for example, long before they could have any understanding of why this is deemed inappropriate. There is nothing natural about the different standards of modesty for men and women, Mandeville maintains, which should instead be understood as the consequence of education alone (FB I, 72–73). Chastity is the basis of female honor in much the same way as courage is the basis of male honor. Where soldiers risk their lives in battle for fear of being thought cowardly, educated women fend off the advances of men, while resisting their own sexual desires, for fear of being thought promiscuous. Even if these examples strike readers today as somewhat archaic, they nonetheless serve to illustrate Mandeville’s broader point: shame is the underlying passion that leads all of us to care deeply about our reputation, even though what is taken to be shameful is determined by the prevailing social norms and will thus vary in different times and places, and amongst those of different social status.
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      ### 4.3 Religion
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      Many of Mandeville’s contemporaries considered him a deeply irreligious thinker, largely because they took him to be celebrating vice against all religious and moral precepts. Yet his views on religion are far more complex and nuanced. In his later works, Mandeville argues that humans are naturally disposed towards religious belief. The seed of religion is one of our natural passions: fear of an invisible power. Uneducated humans, with no knowledge of revealed religion, would live in fear of unexpected phenomena that could threaten their existence, such as extreme weather conditions or diseases. From a young age, Mandeville observes, we all anthropomorphize the world around us and assume that even inanimate things feel and think as we do, so the idea that there is some intelligent agency behind natural phenomena comes very easily to us. We are also especially inquisitive in relation to things that harm us, and we would soon seek an explanation for anything that imperils our survival. Without any scientific understanding of the processes at work, however, uneducated humans would assume that dangerous natural phenomena are caused by an invisible power, leading them to extend their fear of the phenomena to the invisible power itself. There could be as many invisible powers as there are phenomena in question, which is why polytheism has been so common throughout human history. As the fear of an invisible cause is ingrained in human nature, Mandeville claims that it persists in all civilized societies and that no religion can dispense with this natural seed (FB II, 207–214).
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      Mandeville’s account of the origin of natural religion has significant political implications. One is that “no Nations can be govern’d without Religion”. Those who deny the existence of an invisible cause will not be believed by the multitude, so anyone who hopes to govern a society must humor our fear of an invisible cause and turn it to their own advantage. The main temporal benefit of religion is in promoting civic allegiance, as no one’s word can be relied upon if they do not fear some form of deity (OH 21–25). Even if the tie of religion might not be strong enough to govern everyone—hence the need for codes of honor in early-modern Europe—Mandeville’s account of the natural seed of religion precludes the possibility of a society of atheists.
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      While religion can have civic benefits, Mandeville was well aware that it often serves the ends of persecution and schism, amongst other evils. These are concerns that he discusses most fully in *Free Thoughts on Religion*, which attacks priestcraft and makes the case for tolerating all religious sects that recognize the authority of the government in matters of church and state (FT 140). Mandeville lays much of the blame for religious conflict with the clergy, while often aiming to reveal that they are just as vice-ridden as the laity. This involves little more than an application of his wider account of human nature. As “Pride and Ambition are so riveted in our Nature”, any group of people will seek to dominate and tyrannize others if given the opportunity to do so (FT 156). The clergy are certainly no exception, in this regard, and governments should therefore be extremely wary about entrusting any civil powers to the church. Mandeville’s analysis of the clergy is a good illustration of one of the broader political implications of his account of human nature: exposing the hypocrisy and self-centered motives behind our actions is one way of undermining the standing of those who appeal to their own moral credentials to wield power over others (see Douglass 2023: 117–118)[^douglass-2023].
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      ### 4.4 Economics
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      Throughout the twentieth century, there was much debate about whether Mandeville should be classified as a proponent of laissez-faire or mercantilist economic doctrines (for critical overviews, see Landreth 1975; Rashid 1985; Prendergast 2016, 104–112)[^landreth-1975][^prendergast-2016][^rashid-1985]. Evidence supporting both interpretations can be found, and Mandeville may have changed his position to some extent between different editions of the *Fable*, shifting from a more laissez-faire position when analyzing economic demand to a more mercantilist one when examining labor supply (Dew 2005)[^dew-2005]. Indeed, one area where his economic thinking closely intersects with his broader social and political philosophy concerns his views on the working poor.
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      In defending the thesis that private vices lead to public benefits, Mandeville maintains that the advantages of commercial prosperity extend to the lowest classes in society, with the poorest members of flourishing states enjoying more of the comforts of life than even the richest classes in less economically-developed societies (FB I, 169–172). Yet Mandeville does not support the liberal reward of labor—as David Hume and Adam Smith would later do—and instead endorses a version of the utility of poverty thesis. While the poor should have enough to survive, Mandeville argues that the state benefits more if the poor spend their entire income, rather than being able to build up savings. The poor are generally “more prone to Ease and Pleasure than they are to Labour”, and thus will only work if driven to do so by immediate necessity (FB I, 192–194). What is more, it is important that the poor are kept uneducated and do not acquire aspirations that will only be disappointed by striving to emulate the more affluent classes. The poor will be happier with their lot if their expectations are not raised beyond what they can ever hope to attain (FB I, 287–290).
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      As these remarks indicate, not only does Mandeville recognize that the societies of his day were demarcated into different socioeconomic classes, but he also holds that it is unrealistic—and even undesirable—to try to change this. He argues that maintaining clear class distinctions would protect the self-esteem of the working poor, who comprised most of the population. By ensuring that the lower classes do not compare themselves to those above them on the social ladder, their self-image could be preserved, leading to greater happiness and satisfaction with their condition. There is nothing egalitarian about the way that the economy of esteem plays out in Mandeville’s social vision.
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      One striking feature of Mandeville’s analysis of the working poor is that he does not allow that the desire for social standing and esteem could reliably motivate people to perform menial labor. Given the importance that he elsewhere accords to pride, envy, and emulation in stimulating the demand for luxury goods, Mandeville’s discussion of the motivations of the laboring poor may seem at odds with his more general account of human nature (Pongiglione & Tolonen 2016: 89–93)[^pongiglione-2016]. Adam Smith (1759 [1976: 50]) would later remark that it “is chiefly from this regard to the sentiments of mankind, that we pursue riches and avoid poverty”, and the thought that what drives the economy is not the desire for material possessions as much as the status and good opinion that wealth confers fits well with much of Mandeville’s analysis of human nature. When it comes to the working classes, however, he contends that it is only economic necessity, and not the desire for social esteem, that can secure the labor supply of a prosperous economy.
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      ## 5. Legacy
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      *The Fable of the Bees* was one of the most scandalous books published in eighteenth-century Europe. Beyond the work’s notoriety, however, it played an important role in the development of social and moral philosophy throughout the century, and, while not so widely read subsequently, it continued to attract the attention of some of the most famous philosophers and social scientists in the nineteenth and twentieth centuries (for wide-ranging surveys, see Kaye 1924a: cxiv–cxlvi; Hundert 1994: 237–249)[^hundert-1994][^kaye-1924a].
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      ### 5.1 Eighteenth-century reception
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      Although the public reception of Mandeville’s work in 1720s Britain was largely hostile, it swiftly elevated him to fame (for a collection of responses, see Stafford 1997)[^stafford-1997]. By 1732, over 300 reports on the *Fable* had appeared in the British press (Revolti 2016)[^revolti-2016], and Benjamin Franklin sought to meet Mandeville when he came to London in 1725. A strong case can also be made that Mandeville’s mature philosophy proved very influential in the Scottish and wider European Enlightenment, with some of his key ideas being developed by David Hume, Jean-Jacques Rousseau, and Adam Smith, amongst others (see, e.g., Castiglione 1986; Goldsmith 1988; Hundert 1994; Robertson 2005: 256–324; Heath 2014)[^castiglione-1986][^goldsmith-1988][^heath-2014][^hundert-1994][^robertson-2005]. Even when these philosophers criticized Mandeville directly, they appear to have adopted some of his key insights about the evolution of social norms and the importance of passions such as self-liking (or, in Rousseau’s lexicon, *amour-propre*) that lead us to care deeply about our social standing.
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      Reviewing Rousseau’s *Discours sur l’origine et les fondements de l’inégalité parmi les hommes*, Smith (1756 [1980: 250]) claimed that “the second volume of the Fable of the Bees has given occasion to the system of Mr. Rousseau”, noting that they both denied natural sociability and set out accounts of how humans gradually come to acquire the qualities required to live together in society. Indeed, one of the most striking features of Mandeville’s conjectural history of society is that it implicitly rejects the social contract approaches associated with political philosophers like Thomas Hobbes and John Locke, and instead places much more emphasis on how conventions of justice and politeness could have emerged over time—an approach that would be developed further and more famously in Hume’s *A Treatise of Human Nature* (Tolonen 2013)[^tolonen-2013]. Similarly, Mandeville’s naturalistic explanation of how language first developed may well have influenced Étienne Bonnot de Condillac and helped to shape subsequent debates on the origin of language (Kaye 1924b; Schreyer 1978; Hundert 1994: 86–115)[^hundert-1994][^kaye-1924b][^schreyer-1978].
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      In these respects, *The Fable of the Bees* is a quintessentially Enlightenment text. It offers a naturalistic account of the origins of society and morality, without appealing to God-given natural law, in the vein of Locke, or to any strong (and sometimes theologically grounded) assumptions about the reach of human benevolence—the very assumptions to which Francis Hutcheson would appeal, as one of Mandeville’s most trenchant critics. When confronted with serious religious thinkers like Hutcheson and especially George Berkeley, Mandeville reaffirmed his intellectual integrity and claimed that the outrage caused by the *Fable* was largely due to people criticizing it without having read it carefully. He insisted that the *Fable* should be read as “a Philosophical Disquisition into the Force of the Passions, and the Nature of Society” (LD 54–55), and it appears to have had the greatest philosophical impact amongst those who did take it seriously in these terms, such as Hume and Smith.
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      Mandeville’s economic ideas also proved influential in the eighteenth century, not least in France, where his ideas on luxury were taken up by Jean-François Melon and Voltaire (Hont 2006)[^hont-2006]. French translations of some of Mandeville’s texts, including *Free Thoughts on Religion*, appeared even before his rise to fame following the 1723 edition of the *Fable*. The French press extensively reviewed and discussed his works, especially once a full translation of both parts of the *Fable* was published in 1740 (Muceni 2015)[^muceni-2015]. While the influence of Mandeville’s ideas was greatest in eighteenth-century Britain and France, his works also received wider attention throughout the century, including in Germany (Fabian 1976)[^fabian-1976] and the Dutch Republic (Hengstmengel & Verburg 2023)[^hengstmengel-2023].
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      ### 5.2 Nineteenth-century reception
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      Mandeville’s ideas continued to captivate the minds of important thinkers during the nineteenth century, sparking debates that extended into the twentieth century and beyond. For example, Karl Marx (1867 [1976: 764–765]) quoted at length from Mandeville’s discussion of the utility of poverty, which he regarded as a brutally honest assessment of the extent to which a thriving capitalist economy depends upon a poor underclass being kept at subsistence level. In addition, Marx (1867 [1976: 475]) claimed that parts of Adam Smith’s analysis of the division of labor were “copied almost word for word” from Mandeville. Other influential thinkers also turned to Mandeville’s ideas for insights into explaining complex societal phenomena. In particular, his attempts to naturalize social norms and institutions by charting their historical origins gave rise to questions about the relationship between individual behavior and collective outcomes that would dominate later social science, and which were taken up in very different ways in (for example) Thomas Malthus’s work on population dynamics and Jeremy Bentham’s account of utilitarianism (Gaukroger 2016: 267–302)[^gaukroger-2016]. Perhaps most notably, Charles Darwin appears to have read the second volume of the *Fable* closely and may have drawn inspiration from Mandeville’s conjectural history when developing his own evolutionary theory, recognizing its relevance for thinking through how unintended consequences and gradual change could relate to processes of natural selection (Alter 2008)[^alter-2008].
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      The nineteenth century also witnessed more systematic attempts to categorize Mandeville’s thought. This intellectual endeavor found fertile ground in Germany, where a flourishing school of scholarship emerged around Mandeville’s ideas in the later part of the century. One notable milestone was Paul Sakmann’s seminal work, *Bernard de Mandeville und die Bienenfabel-controverse* (1897), to which F. A. Hayek would later acknowledge a significant debt (Nolan 2016)[^nolan-2016]. Parallel to the burgeoning interest in Germany, the categorization of Mandeville’s intellectual contributions also gained momentum in Britain. Mandeville’s impact endured throughout the nineteenth century in England, as is evident from references to him in general magazines and other thinkers’ works, especially in relation to discussions of ethics, economics, and human behavior. One staunch advocate of Mandeville was James Crossley, a celebrated collector and champion of Epicurean moral philosophy, who actively fostered dialogues around Mandeville’s writings, consolidating his prominence in the intellectual milieu of the time (Tolonen 2010: 29)[^tolonen-2010]. Mandeville’s importance to the history of moral philosophy was further established with the publication of Leslie Stephen’s *Essays on Freethinking and Plainspeaking* (1873: 243–278) and *The History of English Thought in the Eighteenth Century* (1876: 15–46), which presented Mandeville and Shaftesbury as occupying the poles between which subsequent British moral philosophy had to navigate.
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      ### 5.3 Twentieth-century reception
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      As the twentieth century dawned, Mandeville’s works had become rare physical artefacts and it was difficult to obtain copies of his books. Frederick Benjamin Kaye played a key role in remedying this and catalyzing Mandeville’s reception. His two-volume edition of *The Fable of the Bees*—first published in 1924 by the Clarendon Press and later reissued by the Liberty Fund in 1988—reshaped the landscape for reading Mandeville. Kaye’s impact was so substantial that it rendered much earlier scholarship almost inconspicuous, with his edition also playing an indispensable role in making Mandeville’s ideas more accessible to contemporary students and scholars ever since.
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      In the early decades of the twentieth century, Mandeville’s ideas continued to be discussed amongst a range of different scholarly audiences. At one point Mandeville had suggested that humans would be unwilling to kill animals for food were it “not for this Tyranny which Custom usurps over us” (FB I, 173), and the renowned early twentieth-century Finnish sociologist, Edvard Westermarck, even identified Mandeville as an advocate of vegetarianism (1939: 392). In the Anglophone world, however, Mandeville’s ideas were most often invoked in debates about the history of economic thought. Kaye (1924a: cxxxix) had claimed that “Mandeville maintains, and maintains explicitly, the theory at present known as the *laissez-faire* theory”, yet this interpretation was soon contested by some of the most prominent economists of the period. In *The General Theory of Employment, Interest, and Money*, John Maynard Keynes (1936 [2018: 319–322]) included Mandeville in his survey of the history of mercantilist economic doctrines, stressing the importance of consumption rather than saving in Mandeville’s explanation of economic growth. It was Jacob Viner (1953 [1991: 183–184]), however, who did most to challenge Kaye’s claim by presenting Mandeville as “a convinced adherent of the prevailing mercantilism of his time”.
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      In aiming to add nuance to and ultimately move beyond the mercantilism/laissez-faire debate, Nathan Rosenberg (1963) and F. A. Hayek (1966) sought to recover and foreground the evolutionary aspects of Mandeville’s account of social development. Amongst Mandeville’s more famous twentieth-century readers, no one has taken his social philosophy as seriously as Hayek. In a talk delivered to the British Academy’s “Master-Mind” lecture series, Hayek (1966: 126) played down the importance of Mandeville’s economic ideas and instead credited his work with marking “the definitive breakthrough in modern thought of the twin ideas of evolution and of the spontaneous formation of an order”. According to Hayek, Mandeville understood that people are biased and neither foresee nor understand the macro-level consequences of their individual actions. Hayek saw this propensity for self-deception as a reason not to trust any individual, no matter how enlightened, to guide society towards a centrally planned future. In line with Mandeville’s thinking, Hayek criticized constructivist rationalism and what he took to be the wrong kind of individualism rooted in excessive faith in human reason. Hayek thus followed Mandeville in emphasizing the limitations of human knowledge and, on this basis, advocated for the decentralized decision-making that takes place in the market.
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      For Hayek, spontaneous orders are well-structured social patterns that seem like they must have been designed by an omniscient mind, but which are in fact the unplanned and uncoordinated outcomes of countless individuals’ actions. Hayek regarded Mandeville’s social philosophy as exemplifying a more general theory that explains how a coherent aggregate structure can emerge accidentally from the actions of individuals, regardless of whether those actions are altruistic or egoistic. Hayek therefore saw Mandeville as an important precursor of his own ideas on the spontaneous evolution of rules and institutions within an equilibrating economic system. Mandeville might not have fully grasped the extent of his own discovery, according to Hayek, but he set a line of thought in motion that would be developed more extensively in the Scottish Enlightenment. The highest accolade that Hayek (1966: 139) could grant Mandeville was that “he made Hume possible”. More generally, Mandeville’s emphasis on individualism and economic self-interest resonated with Hayek’s belief in the role of self-interest in economic coordination. Even if Mandeville’s views were rooted in the mercantilist tradition, then, his exploration of the mechanisms through which self-interest can contribute to the public good would influence later classical liberal thinkers.
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      The final three decades of the twentieth century witnessed a significant increase in scholarly interest in Mandeville, with several important book-length studies appearing in English, French, and Italian (Monro 1975; Primer 1975; Horne 1978; Carrive 1980, 1983; Scribano 1980; Goldsmith 1985; Jack 1987; Schneider 1987; Hundert 1994; Prior 2000)[^carrive-1980][^goldsmith-1985][^horne-1978][^hundert-1994][^jack-1987][^monro-1975][^primer-1975][^prior-2000][^schneider-1987][^scribano-1980]. As a result, Mandeville’s significance to the history of philosophy is now recognized within specialist circles, despite the fact that he is mainly remembered more widely for his infamous “private vices, public benefits” paradox. Even amongst historians of philosophy, attention has been mostly focused on *The Fable of the Bees* and there remains relatively little research dedicated to some of his lesser-known works, such as *The Virgin Unmask’d*, *A Treatise of the Hypochondriack and Hysterick Passions*, and *An Enquiry into the Origin of Honour*, which merit greater study if we are to fully appreciate the depth, range, and social implications of Mandeville’s philosophical investigations into human nature and society.
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: oir
+    source: |-
+      - BBC Radio 4’s episode of [In Our Time: On The Fable of the Bees (42 minutes)](https://www.bbc.co.uk/programmes/m0000t3y).
+      - [News blog on Mandeville](https://www.bernard-mandeville.nl/recent-news-on-mandeville) by Arne Jansen.
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: ack
+    source: |-
+      We would like to thank Andrea Branchi and John Callanan for helpful feedback on a draft of this entry.
+    step1: TBD
+    step2: TBD
