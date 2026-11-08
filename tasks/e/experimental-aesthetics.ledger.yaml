@@ -267,50 +267,66 @@ segments:
     kind: body
     source: |-
       With respect to the issue of objectivity, many philosophical aestheticians have thought that aesthetic judgments intend to express truths about the way the world is, and that some people have better access to these truths than others. David Hume (1757a) suggests that some people are better able to detect and weigh the aesthetic merits of a work than others—they have delicate taste—and that works that are reliably appreciated over time and across cultures are those which are truly good. Immanuel Kant (1790) suggests that while our judgments of beauty are based in pleasure, they command universal agreement—that is, we expect others to make the same judgments as us. In this respect, aesthetic judgments have been thought to be *unlike* statements of personal taste, such as ‘broccoli is delicious’, about which there can only be blameless disagreement; and *like* empirical judgments, such as ‘there is a piece of broccoli on my plate’, about which there can be genuine disagreement. Indeed, some have thought that the way *the folk* act presupposes such a realist conception of aesthetic judgments, with Noël Carroll (1999), Nick Zangwill (2005), and Peter Kivy (2015) noting that we argue with each other about aesthetic matters.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在客观性问题上，许多哲学美学家认为，审美判断意在表达关于世界如何是的那些真理，而某些人比其他人更能通达这些真理。David Hume（1757a）提出，有些人比他人更能察觉并权衡一件作品的审美优点——他们具有细腻的品味——而那些在时间与文化中都被可靠欣赏的作品，才是真正优秀的。Immanuel Kant（1790）则认为，尽管我们对美的判断基于愉悦，它们却要求普遍的同意——也就是说，我们期待他人作出与我们相同的判断。就此而言，审美判断一向被认为*不同于*个人口味的陈述，例如“西兰花很好吃”，对此只能有无过失的分歧；而*类似于*经验性判断，例如“我盘子里有一块西兰花”，对此可以有真正的分歧。事实上，有人认为，*大众*行事的方式就预设了审美判断的这种实在论构想：Noël Carroll（1999）、Nick Zangwill（2005）与 Peter Kivy（2015）都指出，我们会在审美事务上彼此争论。
+    step2: |-
+      关于客观性，许多哲学美学家认为审美判断意在表达世界如何是之真相，而有些人比旁人更能通达这些真相。David Hume（1757a）主张，有些人更能察觉并权衡作品的审美优长——他们品味细腻；而那些跨越时代与文化仍能稳定获得欣赏的作品，才是真正优秀的。Immanuel Kant（1790）则认为，审美判断虽以愉悦为据，却要求普遍同意——我们期待他人作出同样的判断。因此，审美判断素来被认为*不同于*“西兰花很好吃”这类个人口味陈述——后者只容得下无可指摘的分歧；而*类似于*“我盘子里有一块西兰花”这类经验判断——后者才谈得上真正的分歧。也有人主张，*大众*的实际做法本身就预设了审美判断的这种实在论构想：Noël Carroll（1999）、Nick Zangwill（2005）与 Peter Kivy（2015）都注意到，我们在审美问题上会彼此争论。
   - id: 34
     kind: body
     source: |-
       Taking this as a starting point, a number of psychologists and experimental philosophers have presented findings that suggest realism cannot be given special status as the commonsensical view, and philosophical accounts of aesthetic judgments do not need to accommodate realist intuitions. This line of research started with Geoffrey Goodwin and John Darley (2008), who asked people to determine whether comparative aesthetic judgments—such as ‘Shakespeare was a better writer than Dan Brown’—were true, false, or a matter of opinion. Most participants described aesthetic statements as opinions (despite the strength of agreement with each statement) and they did this more frequently than in the case of comparable moral, factual statements, or statements reflecting social conventions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以此为起点，一些心理学家与实验哲学家提出了若干发现，提示实在论并不能作为常识观点获得特殊地位，关于审美判断的哲学说明也无需迁就实在论直觉。这条研究路线始于 Geoffrey Goodwin 与 John Darley（2008），他们要求被试判断比较性审美陈述——如“莎士比亚是比丹·布朗更好的作家”——为真、为假，抑或只是意见。多数被试把审美陈述说成意见（尽管他们对每条陈述的同意程度颇高），而且比起可比的道德陈述、事实陈述或反映社会约定的陈述，他们更常如此。
+    step2: |-
+      以此为起点，不少心理学家与实验哲学家给出了相反的证据：实在论并不占有什么常识地位，关于审美判断的哲学理论也无需去迁就实在论直觉。这条路线始于 Geoffrey Goodwin 与 John Darley（2008）。他们让被试判定比较性审美陈述——例如“莎士比亚是比丹·布朗更好的作家”——究竟为真、为假，还是只属于意见。多数被试把审美陈述视为意见（尽管对每条陈述的认同度都很高），而且相较于同类的道德陈述、事实陈述或社会约定陈述，他们更常作此选择。
   - id: 35
     kind: body
     source: |-
       Then, in a series of studies led by Florian Cova, the folk’s meta-aesthetical views were further tested by presenting participants with an aesthetic disagreement—such as where someone finds a sunset beautiful and the other does not—between two interlocutors (or between the participant and an interlocutor), and asking participants whether one person is correct, both are correct, or neither is correct. Across different kinds of objects (including natural objects and art widely recognized to be beautiful, as well as objects that study participants *personally* find beautiful), type of aesthetic judgments (including judgments of beauty and ugliness), and across a wide range of different countries, it has been found that most select the option “Neither is correct” (Cova & Pain 2012; Cova, Olivola, et al. 2019; for further studies utilizing the disagreement method, see Andow 2022)[^andow-2022][^cova-2012].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      随后，在 Florian Cova 主导的一系列研究中，通过向被试呈现两个论辩者之间（或被试与论辩者之间）的审美分歧——例如一人觉得落日很美、另一人不觉得——并询问被试究竟是一方正确、双方都正确，还是双方都不正确，大众元审美观点得到进一步检验。跨越不同种类的对象（包括自然对象与公认美丽的艺术品，也包括被试*个人*觉得美丽的对象）、审美判断的类型（包括对美与对丑的判断），以及一大片不同的国家，结果都发现：多数人选“双方都不正确”（Cova & Pain 2012; Cova, Olivola, et al. 2019；关于使用分歧方法的其他研究，见 Andow 2022）[^andow-2022][^cova-2012]。
+    step2: |-
+      接着，Florian Cova 主持的一系列研究进一步检验了大众的元审美观点：向被试呈现一桩审美分歧（甲认为落日很美、乙却不这么看），分歧双方要么是两位论辩者，要么是被试本人与一位论辩者，然后询问是一方正确、双方都正确还是双方都不正确。研究变换对象类型（自然物、公认美丽的艺术品，以及被试*个人*觉得美的对象）、判断类型（美与丑），并跨多个国家取样，结果始终一致：多数人选“双方都不正确”（Cova & Pain 2012; Cova, Olivola, et al. 2019；采用分歧范式的其他研究见 Andow 2022）[^andow-2022][^cova-2012]。
   - id: 36
     kind: body
     source: |-
       Returning to the comparative method, Nathaniel Rabb, Alex Han, and colleagues (2022) have presented further evidence against the idea that the folk are aesthetic realists by explicitly asking participants whether aesthetic judgments are matters of opinion or matters of fact. They showed that people believe that aesthetic judgments are subjective even after learning that one of the two works has been historically acclaimed, or even when they liked one artwork much more than another (though, for criticisms of this study, see Moss & Bush 2021)[^moss-2021].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      回到比较方法，Nathaniel Rabb、Alex Han 及其同事（2022）通过明确询问被试审美判断属于意见还是事实，为“大众并非审美实在论者”这一观点提供了进一步证据。他们表明，即便得知其中一件作品 历来广受赞誉，或者被试自己明显更喜欢某件作品，人们仍然认为审美判断是主观的（关于这项研究的批评，见 Moss & Bush 2021）[^moss-2021]。
+    step2: |-
+      再看比较范式。Nathaniel Rabb、Alex Han 及其同事（2022）直接询问被试：审美判断属于意见还是事实，从而为“大众并非审美实在论者”提供了进一步证据。他们显示，即便被告知两件作品中有一件历来备受推崇，或者被试本人明显更偏爱某件作品，人们仍然认为审美判断是主观的（对该研究的批评，见 Moss & Bush 2021）[^moss-2021]。
   - id: 37
     kind: body
     source: |-
       Supporters of the presumption in favor of realism have, however, fought back. Zangwill (2019) argues that Cova and his colleagues’ studies are not about whether people think aesthetic judgments can be true or false, but rather about whether a given person is right or wrong, and so leave the presumption in favor of realism unscathed. The distinction Zangwill is aiming at is as follows: Someone who guesses correctly that it is raining outside would be saying something true when they say that “it is raining outside”, but they cannot be described as *right*. Being right is a matter of being justified in saying something. In addressing Zangwill’s critique, in the same design where participants are asked to consider an interlocutor disagreeing with them in making various kinds of judgments, including aesthetic judgments, Cova (2019) asked participants whether one, both or neither person said something true or false. The results here were quite different from those of the studies conducted to date: with the modal response being that only one person says something true (40%), followed closely by the response that says that both say something true (39%). Despite these differences, Cova suggests that these do not support the idea that the folk tend to be realists about aesthetic judgment on the grounds that the pattern of responses did not match the pattern for paradigmatic factual judgements (that is, a disagreement about whether something is steel, where 71% of participants selected the response that only one person said something true).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，支持“有利于实在论之预断”的学者也进行了回击。Zangwill（2019）论证说，Cova 及其同事的研究涉及的并不是人们是否认为审美判断可以为真或为假，而是某个人是对还是错，因此并未触动有利于实在论的预断。Zangwill 意在作出的区分如下：一个人猜对了外面正在下雨，当他说“外面正在下雨”时便说了真话，但并不能被描述为*正确*。正确与否，关乎说某话是否得到辩护。为回应 Zangwill 的批评，Cova（2019）在同样的设计中让被试考虑一位在各类判断（包括审美判断）上与其分歧的论辩者，并询问是一方、双方还是任何一方说了真话或假话。此处的结果迄今所进行的研究截然不同：众数回答是只有一人说了真话（40%），紧随其后的是两人都说了真话（39%）。尽管存在这些差异，Cova 认为，它们并不支持“大众在审美判断上倾向于实在论”的想法，理由是回答模式并不符合典范性事实判断的模式（即关于某物是否为钢的分歧，其中 71% 的被试选择了只有一人说了真话）。
+    step2: |-
+      不过，主张“预断有利于实在论”的学者随即反击。Zangwill（2019）指出，Cova 及其同事的研究问的不是人们是否认为审美判断有真假，而是某个人对错与否，故有利于实在论的预断并未被动摇。Zangwill 所要的区分是：一个人猜对了天气，他说“外面正在下雨”确为真话，却未必称得上*正确*——正确与否取决于其断言是否得到辩护。为回应这一批评，Cova（2019）沿用同一设计（让被试考虑在各类判断上、包括审美判断上与其分歧的论辩者），但改问是一方、双方还是任何一方说了真话或假话。结果与此前的研究大相径庭：众数回答为“只有一人说了真话”（40%），“两人都说了真话”紧随其后（39%）。即便如此，Cova 认为这些结果并不支持“大众在审美判断上倾向实在论”，因为该回答模式与典范的事实判断（如某物是否为钢）并不相符——后者有 71% 的被试选择“只有一人说了真话”。
   - id: 38
     kind: body
     source: |-
       A further objection has been raised to this work on folk meta-aesthetics by Filippo Contesi and colleagues (2024). They point out that all the studies discussed above reveal that the folk’s *explicit* meta-aesthetic views are subjectivist, and that this is consistent with what supporters of aesthetic realism say. These supporters—such as Carroll (1999), Zangwill (2005), and Kivy (2015)—claim that the folk are implicitly realist in arguing about matters of taste, even if they hold explicit subjectivist attitudes, as expressed by hackneyed proverbs such as “there’s no accounting for taste”. As such, Contesi and colleagues suggest that Cova’s results are inconclusive, and that disproving folk aesthetic realism as it has been conceived of by realists to support the plausibility of their position would require a different methodological approach.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Contesi 及其同事（2024）对关于大众元美学的这项研究提出了另一重批评。他们指出，上述所有研究揭示的都是大众*明确的*元审美观点是主观主义的，而这与支持审美实在论者所说的相容。这些支持者——如 Carroll（1999）、Zangwill（2005）与 Kivy（2015）——主张，大众在品味问题上争论时隐含地是实在论者，即使他们持有明确的主观主义态度，正如“趣味无争辩”这类陈腐谚语所表达的。因此，Contesi 及其同事认为，Cova 的结果并不确定：要驳倒实在论者据以支持其立场之可能性的大众审美实在论，需要另一种方法论进路。
+    step2: |-
+      Filippo Contesi 及其同事（2024）又对大众元美学的这项研究提出一层质疑。他们指出，上述研究所揭示的无非是大众*明确的*元审美立场属于主观主义，而这与审美实在论支持者的说法其实并不冲突：Carroll（1999）、Zangwill（2005）、Kivy（2015）等人本来就主张，大众在品味之争中隐含地是实在论者，尽管其明确表态可能像“趣味无争辩”这类老话那样主观。据此他们认为，Cova 的结果尚不足以定论——若要驳倒实在论者用来支撑自身立场可能性的那种大众审美实在论，需另觅方法论进路。
   - id: 39
     kind: body
     source: |-
       Turning away from critiques of aesthetic realism to positive accounts of folk meta-aesthetics, experimental philosophers have also suggested that folk meta-aesthetical views might nonetheless allow for some degree of objectivity, and have found that the concept of good taste might behave differently from that of aesthetic truth.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从对审美实在论的批评转向对大众元美学的正面说明，实验哲学家也提出，大众的元审美观点仍可能允许一定程度的客观性，并发现“好品味”这一概念的表现可能与“审美真理”不同。
+    step2: |-
+      撇开对审美实在论的批评，转向对大众元美学的正面刻画，实验哲学家还提出：大众的元审美观点仍可能容纳某种程度的客观性，而“好品味”这一概念的表现，似乎与“审美真理”并不相同。
   - id: 40
     kind: body
     source: |-
       Cova (2019) suggests that the folk might be expressivists about aesthetic judgments, and that they may think that there can nonetheless be correctness conditions for aesthetic judgments, insofar as people can, for example, be mistaken about the cause of the feelings they express. In one study to begin to test this position, Cova presented participants with a case where someone judges the Eiffel tower to be beautiful as a result of being high on drugs, or as a result of seeing the Eiffel tower unimpaired. The results reveal that participants were less likely to say that a judgment of beauty was true and more likely to say that the judgment was false when the experience was the result of drugs. Similarly, across five studies that manipulated the type of disagreement (cross-cultural or intercultural, or internal disagreement of one individual over time) and asked participants about the possibility of error in aesthetic judgments, James Andow (2022) found that while people do not hold realist beliefs, they do believe that they have correctness conditions (though see Murray 2020 for results suggesting that people do not think that disagreement implies that they are seen as incorrect)[^murray-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Cova（2019）提出，大众对审美判断可能是表现主义的，并且他们也许认为审美判断仍可以有正确性条件——举例来说，人们可能弄错自己用以表达之感受的成因。为初步检验这一立场，Cova 向被试呈现一个案例：某人因吸毒后产生的效果而判断埃菲尔铁塔很美，或因清醒无碍地观看埃菲尔铁塔而判断其很美。结果表明，当经验是药物的结果时，被试较少说美的判断为真，更多说其为假。类似地，James Andow（2022）跨五项研究操纵了分歧的类型（跨文化或文化间分歧，或个体随时间产生的内部分歧）并询问审美判断是否可能出错，结果发现：人们虽不持实在论信念，却确实相信审美判断有其正确性条件（不过关于人们并不认为分歧意味着被看作错误的结果，见 Murray 2020）[^murray-2020]。
+    step2: |-
+      Cova（2019）提出，大众对审美判断或许是表现主义的，但同时可能认为审美判断仍有正确性条件——譬如说，人们可能弄错自己所表达之感受的成因。为初步检验这一立场，他设计了这样一个案例：某人判定埃菲尔铁塔很美，其判定或因服药后神志受影响所致，或因清醒无损地观看铁塔而生。结果显示，当这一经验出自药物作用时，被试更倾向于说该审美判断不为真。类似地，James Andow（2022）在五项研究中操纵分歧类型（跨文化与文化内部分歧、或同一人随时间产生的内部分歧），询问审美判断是否可能出错。他发现：人们虽不持实在论信念，却确实认为审美判断具备正确性条件（但 Murray 2020 的结果提示，人们并不把分歧理解为意味着某方有错，可作对照）[^murray-2020]。
   - id: 41
     kind: body
     source: |-
