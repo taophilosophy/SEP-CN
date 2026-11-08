@@ -1106,6 +1106,21 @@
 | Ten Unhistorical Aphorisms | — | 《十则非历史的箴言》 | s/scholem 首译 | 构词直译（朔勒姆短文）；凭证 2026-11-08 | 2026-11-08 |
 | Zimzum | — | 齐姆祖姆（神性收缩） | s/scholem 首译 | 犹太神秘主义研究通行音译；凭证 2026-11-08 | 2026-11-08 |
 | Brit Shalom | — | 和平联盟（Brit Shalom） | s/scholem 首译 | 专名音译兼意译（1925 年巴勒斯坦犹太社团组织）；凭证 2026-11-08 | 2026-11-08 |
+| conscience | — | 良心（亦作“良知”） | conscience 首译 | 学界通行（伦理学术语；哲学词典与伦理学教材通译“良心”，与孟子学“良知”相区别；本词条锁定“良心”）；凭证 2026-11-08；待 specs/008 审定库复核 | 2026-11-08 |
+| moral conscience | — | 道德良心 | conscience 首译 | 学界通行（conscience 的道德义）；凭证 2026-11-08 | 2026-11-08 |
+| conscientious objection | — | 依良心拒绝 | conscience 首译 | 学界通行（生命伦理学与法哲学文献通译“依良心拒绝”，亦作“良心拒绝”；本词条锁定前者）；凭证 2026-11-08 | 2026-11-08 |
+| freedom of conscience | — | 良心自由 | conscience 首译 | 学界通行（政治哲学与宪法学）；凭证 2026-11-08 | 2026-11-08 |
+| moral integrity | — | 道德完整性 | conscience 首译 | 学界通行（生命伦理学文献）；凭证 2026-11-08 | 2026-11-08 |
+| self-knowledge | — | 自我认识 | conscience 首译 | 学界通行；凭证 2026-11-08 | 2026-11-08 |
+| self-assessment | — | 自我评价 | conscience 首译 | 学界通行；凭证 2026-11-08 | 2026-11-08 |
+| introspection | — | 内省 | conscience 首译 | 学界通行；凭证 2026-11-08 | 2026-11-08 |
+| moral knowledge | — | 道德知识 | conscience 首译 | 学界通行；凭证 2026-11-08 | 2026-11-08 |
+| erroneous conscience | — | 错误良心 | conscience 首译 | 经院与天主教伦理学通行（conscientia erronea）；凭证 2026-11-08 | 2026-11-08 |
+| synderesis | συντήρησις | 良知（经院哲学术语 synderesis） | conscience 首译 | 经院哲学通行（阿奎那良知学说；与孟子学“良知”同形不同义，正文随文说明）；凭证 2026-11-08 | 2026-11-08 |
+| impartial spectator | — | 公正旁观者 | conscience 首译 | 学界通行（亚当·斯密术语）；凭证 2026-11-08 | 2026-11-08 |
+| ideal observer | — | 理想观察者 | conscience 首译 | 学界通行（元伦理学）；凭证 2026-11-08 | 2026-11-08 |
+| Super-Ego | — | 超我 | conscience 首译 | 精神分析通行（弗洛伊德术语）；凭证 2026-11-08 | 2026-11-08 |
+| faculty | — | 官能 | conscience 首译 | 学界通行（faculty psychology 官能心理学）；凭证 2026-11-08 | 2026-11-08 |
 ## 伊斯兰阿拉伯术语（ADR-0013 种子区，2026-10-28）
 
 > 译名优先取中国伊斯兰研究界与哲学史通行译法；知网系查证凭证存 specs/008-terminology-campaign/results/queries/（GB 标准库通常无收录，依据档位如实标注）。
@@ -1895,6 +1910,9 @@
 
 | somatic cell nuclear transfer (SCNT) | — | 体细胞核移植 | 首现（cloning） | 学界惯例（生命伦理学/发育生物学通行）；凭证 2026-11-07 | 2026-11-07 |
 | oocyte | — | 卵母细胞 | 首现（cloning） | 学界惯例（发育生物学/生殖医学通行）；凭证 2026-11-07 | 2026-11-07 |
+| al-Fawz al-Asghar (Shorter Healing) | — | 《小得救》 | 首现（theology-aristotle） | 学界惯例（米斯凯韦著作，阿拉伯语题名保留；Shorter Healing 系通行英译）；凭证 2026-11-08 | 2026-11-08 |
+| al-fiʿl al-maḥḍ | — | 纯粹现实 | 首现（theology-aristotle） | 照文直译（阿拉伯文亚氏神学语汇；正文双语并列）；凭证 2026-11-08 | 2026-11-08 |
+| al-lays | — | 非存在 | 首现（theology-aristotle） | 照文直译（长版本《神学》术语，阿拉伯文保留）；凭证 2026-11-08 | 2026-11-08 |
 | anima creata | — | 受造灵魂 | 首现（telesio） | 学界惯例（经院哲学术语 anima creata 通译受造灵魂）；凭证 2026-11-08 | 2026-11-08 |
 | blastocyst | — | 囊胚 | 首现（cloning） | 学界惯例（胚胎学通行）；凭证 2026-11-07 | 2026-11-07 |
 | conservatio sui | — | 自我保存 | 首现（telesio） | 学界惯例（斯多亚-文艺复兴自然哲学术语，拉丁语保留形）；凭证 2026-11-08 | 2026-11-08 |
@@ -1922,6 +1940,10 @@
 | proof theory | — | 证明论 | 首现（scholz） | 学界惯例（数理逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
 | abstraction theory | — | 抽象理论 | 首现（scholz） | 学界惯例（逻辑与数学基础通行）；凭证 2026-11-07 | 2026-11-07 |
 | anima vegetativa / sensitiva / cogitativa | — | 植物灵魂／感觉灵魂／思维灵魂 | 首现（telesio） | 学界通行（亚里士多德灵魂三分通译）；凭证 2026-11-08 | 2026-11-08 |
+| anniyya faqat | — | 纯粹存在 | 首现（theology-aristotle） | 学界惯例（阿拉伯文 anniyya 之源；正文双语并列）；凭证 2026-11-08 | 2026-11-08 |
+| Arabic Plotinus | — | 阿拉伯文普罗提诺 | 首现（theology-aristotle） | 学界惯例（研究文献通行称法 the Arabic Plotinus）；凭证 2026-11-08 | 2026-11-08 |
+| Book of Causes (Liber de Causis) | — | 《原因之书》 | 首现（theology-aristotle） | 学界通行（拉丁题名 Liber de Causis 通译原因之书）；凭证 2026-11-08 | 2026-11-08 |
+| Book on the Pure Good | — | 《论纯善之书》 | 首现（theology-aristotle） | 照题直译（伪亚氏著作，阿拉伯文原本题名）；凭证 2026-11-08 | 2026-11-08 |
 | predicate calculus | — | 谓词演算 | 首现（scholz） | 学界惯例（数理逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
 | sentential logic | — | 语句逻辑 | 首现（scholz） | 学界惯例（逻辑学通行；与 propositional logic 命题逻辑并用）；凭证 2026-11-07 | 2026-11-07 |
 | axiomatic method | — | 公理方法 | 首现（scholz） | 学界惯例（数学基础通行）；凭证 2026-11-07 | 2026-11-07 |
@@ -1948,6 +1970,7 @@
 | direct inference / immediate inference | — | 直接推理 | 首现（william-jevons） | 学界通行（Jevons 直接推理之首要形式即传统直接推理）；凭证 2026-11-07 | 2026-11-07 |
 | disjunctive proposition | — | 选言命题 | 首现（william-jevons） | 学界通行（逻辑学标准术语；与已登记析取三段论同族） | 2026-11-07 |
 | dismal science | — | 沉闷科学 | 首现（william-jevons） | 学界通行（Carlyle 语，经济学史通行译名）；凭证 2026-11-07 | 2026-11-07 |
+| docta ignorantia | — | 有学问的无知 | 首现（theology-aristotle） | 学界通行（库萨·尼古拉术语通译）；凭证 2026-11-08 | 2026-11-08 |
 | law of commutativeness | — | 交换律 | 首现（william-jevons） | 学界通行（代数-逻辑标准术语） | 2026-11-07 |
 | skeptosunê | — | 探究 | 首现（timon-phlius） | 学界惯例（第蒙用语，inquiry；勿径作“怀疑论”）；凭证 2026-11-07 | 2026-11-07 |
 | sunêtheia | — | 日常经验 | 首现（timon-phlius） | 学界惯例（第蒙《皮同》用语，ordinary experience）；凭证 2026-11-07 | 2026-11-07 |
@@ -2000,6 +2023,7 @@
 | properties of terms | — | 词项属性 | 首现（william-sherwood） | 学界通行（SUMMARY 词条名沿用：中世纪词项属性理论）；凭证 2026-11-07 | 2026-11-07 |
 | partial coherentism | — | 局部融贯论 | 首现（truth-coherence） | 学界惯例（仅对某类命题成立的融贯论）；凭证 2026-11-07 | 2026-11-07 |
 | global coherentism | — | 全局融贯论 | 首现（truth-coherence） | 学界惯例（与局部融贯论相对）；凭证 2026-11-07 | 2026-11-07 |
+| Letter on Divine Science | — | 《论神圣科学书简》 | 首现（theology-aristotle） | 照题直译（伪法拉比书简，通行亦作《论神圣科学》）；凭证 2026-11-08 | 2026-11-08 |
 | mind-independent | — | 独立于心灵的 | 首现（truth-coherence） | 学界通行（形而上学用语）；凭证 2026-11-07 | 2026-11-07 |
 | truth-maker | — | 真值制造者 | 首现（truth-coherence） | 学界通行（truthmaker 另一形体，正文照源作 truth-maker）；凭证 2026-11-07 | 2026-11-07 |
 | redundancy biconditional | — | 冗余双条件句 | 首现（truth-coherence） | 学界惯例（p 为真当且仅当 p）；凭证 2026-11-07 | 2026-11-07 |
@@ -2123,6 +2147,9 @@
 | method of least squares | — | 最小二乘法 | 首现（william-jevons） | 学界通行（统计学标准译名） | 2026-11-07 |
 | trope | — | 特普 | object 首译 | 学界通行译法（属性实例；与共相对举）；凭证 2026-11-07 | 2026-11-07 |
 | constituent ontology | — | 构成性本体论 | object 首译 | 学界惯例（与关系性本体论对举）；凭证 2026-11-07 | 2026-11-07 |
+| Elements of Theology | — | 《神学要义》 | 首现（theology-aristotle） | 学界惯例（普罗克洛斯著作；通行亦作《神学原理》）；凭证 2026-11-08 | 2026-11-08 |
+| Enneads | — | 《九章集》 | 首现（theology-aristotle） | 学界通行（普罗提诺著作标准汉译）；凭证 2026-11-08 | 2026-11-08 |
+| fayd | — | 流溢 | 首现（theology-aristotle） | 学界惯例（阿拉伯文流溢术语，正文保留原词）；凭证 2026-11-08 | 2026-11-08 |
 | logical alphabet | — | 逻辑字母表 | 首现（william-jevons） | 学界惯例（Jevons 逻辑术语，汉语逻辑史通行）；凭证 2026-11-07 | 2026-11-07 |
 | relational ontology | — | 关系性本体论 | object 首译 | 学界惯例（同上）；凭证 2026-11-07 | 2026-11-07 |
 | class nominalism | — | 类唯名论 | object 首译 | 学界通行汉译（属性即类）；凭证 2026-11-07 | 2026-11-07 |
@@ -2131,6 +2158,8 @@
 | blob | objects as blobs | 团块 | object 首译 | 学界惯例（Armstrong 论关系性本体论）；凭证 2026-11-07 | 2026-11-07 |
 | identity of indiscernibles | — | 不可分辨者的同一 | object 首译 | 学界通行汉译（莱布尼茨第二律）；凭证 2026-11-07 | 2026-11-07 |
 | indiscernibility of identicals | — | 同一者的不可分辨 | object 首译 | 学界通行汉译（莱布尼茨第一律）；凭证 2026-11-07 | 2026-11-07 |
+| Islamicization | — | 伊斯兰化 | 首现（theology-aristotle） | 学界惯例（希腊哲学接受史通行说法）；凭证 2026-11-08 | 2026-11-08 |
+| mimar | — | 米马尔（叙利亚语'章'） | 首现（theology-aristotle） | 学界惯例（叙利亚语 mimar 音译＋义注）；凭证 2026-11-08 | 2026-11-08 |
 | singly-located | — | 单处定位 | object 首译 | 自译裁定（与多重定位对举；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | multi-location | multiple location | 多重定位 | object 首译 | 学界惯例（属性多重定位问题）；凭证 2026-11-07 | 2026-11-07 |
 | sense-perceptible | — | 可感知 | object 首译 | 学界惯例（感性知觉判准）；凭证 2026-11-07 | 2026-11-07 |
@@ -2167,6 +2196,8 @@
 | local occasionalism | — | 局部偶因论 | occasionalism 首译 | 自译裁定（同上）；凭证 2026-11-07 | 2026-11-07 |
 | mere conservationism | — | 单纯保存论 | occasionalism 首译 | 自译裁定（concurrentism 并作论配套；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | divine concurrentism | concurrentism | 神性并作论（并作论） | occasionalism 首译 | 学界惯例（中世纪神学因果论）；凭证 2026-11-07 | 2026-11-07 |
+| entelecheia | — | 隐德来希 | 首现（theology-aristotle） | 学界通行（亚里士多德灵魂说标准音译）；凭证 2026-11-08 | 2026-11-08 |
+| Harmony of the Two Sages, Plato and Aristotle | — | 《两圣（柏拉图与亚里士多德）之和合》 | 首现（theology-aristotle） | 照题直译（法拉比著作，通行亦作《两哲观点的调和》）；凭证 2026-11-08 | 2026-11-08 |
 | interactionism | Cartesian interactionism | 交互作用论（笛卡尔式交互作用论） | occasionalism 首译 | 学界通行汉译（心身问题）；凭证 2026-11-07 | 2026-11-07 |
 | multiplicative disturbances | — | 乘性扰动 | 首现（william-jevons） | 构词直译（杰文斯指数构造假说）；凭证 2026-11-07 | 2026-11-07 |
 | passive nature argument | PN | 被动本性论证 | occasionalism 首译 | 自译裁定（凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
@@ -2178,6 +2209,7 @@
 | falâsifa | falâsifa | 法拉西法（亚里士多德派哲学家） | occasionalism 首译 | 学界惯例（保留阿拉伯文转写）；凭证 2026-11-07 | 2026-11-07 |
 | causa secundum esse | — | 拉丁原文保留（就存在而言的原因） | occasionalism 首译 | 体例：拉丁术语保留原词；凭证 2026-11-07 | 2026-11-07 |
 | esse | — | 拉丁原文保留（存在） | occasionalism 首译 | 体例：拉丁术语保留原词；凭证 2026-11-07 | 2026-11-07 |
+| kalima | — | 词（逻各斯） | 首现（theology-aristotle） | 学界惯例（伊斯兰神学 kalima 兼指'词/言语'）；凭证 2026-11-08 | 2026-11-08 |
 | pansensism | — | 泛感觉论 | 首现（telesio） | 学界通行（文艺复兴自然哲学史通译）；凭证 2026-11-08 | 2026-11-08 |
 | sensus sensus | — | 感觉之感觉 | 首现（telesio） | 照文直译（特莱西奥 meta-知觉术语）；凭证 2026-11-08 | 2026-11-08 |
 | sine qua non | — | 拉丁原文保留（缺之不然的原因） | occasionalism 首译 | 体例：拉丁术语保留原词；凭证 2026-11-07 | 2026-11-07 |
@@ -2240,6 +2272,7 @@
 | connotative term / connotatio | — | 含蓄词项（首现括注 *connotatio*） | ockham | 王路译本《逻辑大全》（商务印书馆汉译名著）作「含蓄的名」；term 统一作「词项」沿登记册惯例（范畴词/非范畴词系）；Panaccio 中译作「暗含」备查；凭证 2026-11-07 | 2026-11-07 |
 | absolute term | — | 绝对词项 | ockham | 王路译本《逻辑大全》作「绝对的名」；与含蓄词项对偶；凭证 2026-11-07 | 2026-11-07 |
 | Summa of Logic / Summa Logicae | Summa Logicae | 《逻辑大全》 | ockham | 王路译本（商务印书馆 2006，汉译名著丛书）通行书名；凭证 2026-11-07 | 2026-11-07 |
+| Theology of Aristotle | — | 《亚里士多德的神学》 | 首现（theology-aristotle） | 学界惯例（与 SUMMARY 题名一致）；凭证 2026-11-08 | 2026-11-08 |
 | Work of Ninety Days / Opus nonaginta dierum | Opus nonaginta dierum | 《九十日之作》（首现括注拉丁名） | ockham | 中文文献未见定译；存见译例《九十日之作》；Kilcullen 英译作 Work of Ninety Days；凭证 2026-11-07 | 2026-11-07 |
 | Dialogue / Dialogus | Dialogus | 《对话》（首现括注） | ockham | Kilcullen 英译项目（英国学术院版）通行简称；凭证 2026-11-07 | 2026-11-07 |
 | Short Discourse / Breviloquium | Breviloquium de principatu tyrannico | 《短论》（首现括注拉丁名） | ockham | McGrade/Kilcullen 剑桥政治思想史丛书英译通行简称；凭证 2026-11-07 | 2026-11-07 |
@@ -2248,6 +2281,7 @@
 | abstractive cognition | — | 抽象认识 | ockham | crathorn 成品既用（与直观认识对举）；凭证 2026-11-07 | 2026-11-07 |
 | fullness of power / plenitudo potestatis | plenitudo potestatis | 完全的权力（首现括注拉丁名） | ockham | 中世纪教会法研究通行（《「完全的权力」与「绝对的权力」》论文及《论西方中世纪王权观》章名）；凭证 2026-11-07 | 2026-11-07 |
 | Apostolic poverty | — | 使徒贫困 | ockham | 中国社会科学网教会史文献通行（亦作使徒贫穷）；凭证 2026-11-07 | 2026-11-07 |
+| Longer Version | — | 长版本 | 首现（theology-aristotle） | 照文直译（《神学》十四章节写本，学界通行称法）；凭证 2026-11-08 | 2026-11-08 |
 | papal bull | — | 教皇诏书 | ockham | 中文史学通行（又译教宗诏书/训谕；本册从大陆「教皇」系）；凭证 2026-11-07 | 2026-11-07 |
 | Conventuals | — | 住院派 | ockham | 方济各会史通译（《遭受挑战的教廷》中译本；维基方济各会条）；凭证 2026-11-07 | 2026-11-07 |
 | Spirituals | — | 属灵派 | ockham | 方济各会史通译（亦作灵修派；勿与 15 世纪 Observants 守规派混同）；凭证 2026-11-07 | 2026-11-07 |
@@ -2358,3 +2392,5 @@
 | koinai ennoiai (common notions) | κοιναὶ ἔννοιαι | 共同观念（首现括注原文） | olympiodorus | 新柏拉图主义认识论术语（亦作常识）；Tarrant 英译 common notions；凭证 2026-11-08 | 2026-11-08 |
 | skopos | σκοπός | 论旨（首现括注原文） | olympiodorus | 古代注疏学通行（文本的宗旨/主题）；凭证 2026-11-08 | 2026-11-08 |
 | fifth element / aether | αἰθήρ | 第五元素／以太（首现括注） | olympiodorus | 沿本册 ether=以太；亚里士多德宇宙论术语；凭证 2026-11-08 | 2026-11-08 |
+| world soul | — | 世界灵魂 | 首现（theology-aristotle） | 学界通行（柏拉图主义宇宙论标准译名）；凭证 2026-11-08 | 2026-11-08 |
+| ṣifāt | — | 属性 | 首现（theology-aristotle） | 学界惯例（伊斯兰神学'神之属性'，正文保留原词）；凭证 2026-11-08 | 2026-11-08 |

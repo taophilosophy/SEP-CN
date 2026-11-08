@@ -2,7 +2,7 @@
   "slug": "aristotle-causality",
   "kind": "retranslate",
   "zh_doc": "a/aristotle-causality.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-07T19:10:47Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-07T23:55:14Z",
+      "evidence": "承接 2026-11-08 04:10-04:46 在途组装稿（script/ac1.txt+ac2.txt+assemble_ac.py，任务仍 cleared、无账本、未提交）；零信任逐段回核 yuanwen/a/aristotle-causality.md 后收编：66 块结构对应、7 marker 有序一致、86 条 defs 逐行照录、24 个年份序列全等；H1 与 pubinfo 照 baseline（Jan 11, 2006 / Mar 7, 2023，Spring 2023）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-07T23:56:14Z",
+      "evidence": "体例首校：结构归一（致谢降为 H3、补 ## 脚注 节、清 pubinfo 与译注行首尾空格；空书目小节按 albo-joseph/alexander-crummell 成例移除）；check_style --strict 0 issue；marker 7:7 序列一致、defs 86:86 键集一致、年份 24:24、引块 6:6；H2 13=源 12+脚注节，H3 1=源 6-空书目 5"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-07T23:56:14Z",
+      "evidence": "语言实修 25 处（weak-verb 3、de-chain 21、passive-bei 2、长句 1）：逐条改写并保持源义（如“没有别的办法解释房子如何被建造”拆为“要解释房子怎样建成…别无他法”）；check_prose 22→1，余 1 条为亚里士多德直引（“为一般的东西寻找一般的原因…”）按 ADR-0020 引文豁免；控制字符 0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-07T23:56:16Z",
+      "evidence": "变更段复核：marker 7:7、defs 86:86（逐行照录零差异）、年份 24:24、引块 6:6、H2/H3 结构差仅空书目小节；check_style --strict 0、check_academic --strict 0 硬错误（学术工具 PDF 预览行按模板省略）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-07T23:57:26Z",
+      "evidence": "全文逐节回核源文（健壮性读法）：8 节 + 术语表 + 参考文献/学术工具/其他网络资源/相关词条/致谢均无漏段；拳手喻、amudrôs kai outhen saphôs 转写、kath’hauton/kata sumbebêkos 本然-偶性对举、假言必然性与条件必然性之辨、月食“最近动力因”均照源；铜像铸造例与技艺-工匠之辨完整"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-07T23:57:26Z",
+      "evidence": "人名/术语登记：Aristotle/Plato/Empedocles 已在册（ren-ming-biao 782/784 行），正文用汉名一致；新增 10 条术语（causal pluralism、material/formal/final cause、four causes、intrinsic/coincidental cause、hypothetical necessity、explanatory power、teleological explanation）入 yi-zhe-shuo-ming（causality 行后）；现代学者引文保留拉丁原名，不另立汉名"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-07T23:57:29Z",
+      "evidence": "终检：check_prose 1 条引文豁免（ADR-0020）、check_style --strict 0、check_academic --strict 0；对账五项（段落/marker/defs/年份/引块）全等；version_pin 与 baseline entries.json 一致（Mar 7, 2023 / Spring 2023）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-07T23:57:29Z",
+      "evidence": "九步闭环 done：a/aristotle-causality.md（8 节全译 + 亚里士多德术语表 17 条 + 四类尾部节 + 86 条 defs 照录），零信任回核在途残稿后收编；A 批实况 done 52/160"
     }
   ],
   "blockers": [],
