@@ -379,128 +379,170 @@ segments:
     kind: body
     source: |-
       Critics of substance dualism claimed, or assumed without argument, that it concealed an explanatory gap, since it failed to explain how two substances that were so dissimilar could interact causally with each other. La Forge addressed that issue in Chapter XVI of the *Traité*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      实体二元论的批评者声称，或未经论证便假定：实体二元论掩盖了一个解释鸿沟，因为它未能解释两种如此相异的实体如何能够因果地相互作用。拉弗尔热在《论人的心灵》第十六章处理了这一问题。
+    step2: |-
+      实体二元论的批评者声称——或径自假定——其中隐藏着一道解释鸿沟：两种如此相异的实体何以能因果互动，实难说明。拉弗尔热在《论人的心灵》第十六章回应了这一问题。
   - id: 48
     kind: body
     source: |-
       ## 4. Occasionalism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 偶因论
+    step2: |-
+      ## 4 偶因论
   - id: 49
     kind: body
     source: |-
       La Forge is one of the first Cartesians (together with Cordemoy and Geulincx) who openly defends occasionalism. La Forge’s occasionalism, however, is distinctive for both its scope and the arguments it uses. La Forge’s occasionalism is restricted to the domain of physical interactions among bodies and allows for the causal activity of finite minds. In this sense, La Forge (unlike Cordemoy, Geunlincx and Malebranche) is an advocate of “partial occasionalism” (Radner 1993, Sangiacomo 2014)[^radner-1993][^sangiacomo-2014]. In order to establish this form of partial occasionalism, La Forge builds his case around a specific issue in Cartesian physics, namely, the (im)possibility of any transfer of motion between interacting bodies. His ‘non-transfer’ argument aims, in turn, to solve some ambiguities in Descartes’s own treatment and provide enough support for body-body occasionalism without undermining the causal efficacy of immaterial substances.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      拉弗尔热是最早公开捍卫偶因论的笛卡儿主义者之一（与科尔德穆瓦、赫林克斯并列）。然而，拉弗尔热的偶因论在范围与论证方式上都独具特色。他的偶因论仅限于物体间物理相互作用的领域，并容许有限心灵的因果活动。在这个意义上，拉弗尔热（不同于科尔德穆瓦、赫林克斯与马勒伯朗士）主张“部分偶因论”（Radner 1993, Sangiacomo 2014）[^radner-1993][^sangiacomo-2014]。为确立这种部分偶因论，拉弗尔热围绕笛卡儿物理学中的一个具体问题构建论证：相互作用的物体之间是否可能发生运动传递。反过来，他的“不可转移”论证旨在解决笛卡儿本人处理中的一些含混，并为物体—物体偶因论提供足够支持，同时不削弱非物质实体的因果效力。
+    step2: |-
+      拉弗尔热是最早公开为偶因论辩护的笛卡儿主义者之一（与科尔德穆瓦、赫林克斯并列）。其偶因论在范围与论证上都别具一格：只限于物体间物理相互作用的领域，而容许有限心灵的因果活动。就此而言，拉弗尔热（不同于科尔德穆瓦、赫林克斯与马勒伯朗士）持“部分偶因论”（Radner 1993, Sangiacomo 2014）[^radner-1993][^sangiacomo-2014]。为确立这种部分偶因论，他围绕笛卡儿物理学的一个具体问题立论：相互作用的物体之间能否传递运动。其“不可转移”论证则意在廓清笛卡儿本人处理中的含混，既为物体—物体偶因论提供充分支持，又不削弱非物质实体的因果效力。
   - id: 50
     kind: body
     source: |-
       To fully understand La Forge’s discussion, it is helpful to keep in mind the overall argumentative strategy that he tries to push. In the *THM*, La Forge’s main task is to show that *there is* mind-body interaction and that this is not so difficult to understand—as many of Descartes’s opponents have claimed. The Cartesian account of mind-body interaction has been widely criticized because of the radical heterogeneity of thinking and extended substances in Descartes’s ontology. Elisabeth of Bohemia, for instance, provides a paradigmatic expression of this concern:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      要充分理解拉弗尔热的讨论，最好记住他试图推进的整体论证策略。在《论人的心灵》中，拉弗尔热的主要任务是表明心身相互作用确实存在，而且并不像许多笛卡儿反对者所声称的那样难以理解。笛卡儿式的心身相互作用解释广受批评，因为笛卡儿本体论中思维实体与广延实体的极端异质性。例如，波希米亚的伊丽莎白提供了一个范例性表述：
+    step2: |-
+      要透彻理解拉弗尔热的讨论，宜先把握其整体论证策略。在《论人的心灵》中，他的首要任务是表明心身相互作用确实存在，且并不像许多笛卡儿反对者所称的那样费解。笛卡儿式的心身互动说明屡遭诟病，根源在于其本体论中思维实体与广延实体极端异质。波希米亚的伊丽莎白即有一番堪称范例的表述：
   - id: 51
     kind: body
     source: |-
       > I ask you please to tell me how the soul of a human being (it being only a thinking substance) can determine the bodily spirits, in order to bring about voluntary actions. For it seems that all determination of movement happens through the impulsion of the thing moved, by the manner in which it is pushed by that which moves it, or else by the particular qualities and shape of the surface of the latter. Physical contact is required for the fi rst two conditions, extension for the third. You entirely exclude the one [extension] from the notion you have of the soul, and the other [physical contact] appears to me incompatible with an immaterial thing. (AT iii.661; Shapiro 62)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 请您告诉我：人的灵魂（它只是思维实体）如何能决定身体精气，以产生自愿动作。因为看起来，一切运动的决定都通过被推动者的推动而发生，或凭推动者的推动方式，或凭后者表面的特殊性质与形状。前两个条件需要物理接触，第三个需要广延。您在灵魂概念中完全排除了前者［广延］，而后者［物理接触］在我看来与非物质之物不相容。（AT iii.661; Shapiro 62）
+    step2: |-
+      > 请您告诉我：人的灵魂（它只是思维实体）如何能决定身体精气，以产生自愿动作。因为看起来，运动的一切决定都来自被推动者的推动，或来自推动者推动它的方式，或来自推动者表面的特殊性质与形状。前两者需要物理接触，第三者需要广延。您在灵魂概念中完全排除了前者［广延］，而后者［物理接触］在我看来与非物质之物不相容。（AT iii.661; Shapiro 62）
   - id: 52
     kind: body
     source: |-
       Elisabeth’s critique is truly Cartesian since it builds on the criterion of clear and distinct intelligibility advocated by Descartes himself. La Forge addresses this concern by denying that even *homogeneous* or univocal causation (like body-body causation) is as intelligible as it looks. By showing that univocal causation among bodies is in fact impossible, La Forge aims to show that *every* form of causation entails an interaction between something corporeal and something spiritual. Hence, the case of mind-body interaction ceases to be a puzzling scenario and becomes an instance of a broader and more general account of causation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伊丽莎白的批评确实是笛卡儿式的，因为它建立在笛卡儿本人所主张的清楚分明可理解性标准之上。拉弗尔热回应这一关切的方式，是否认即便是同质或单义的因果（如物体—物体因果）也不像看上去那样可理解。通过表明物体间的单义因果实际上不可能，拉弗尔热意在表明每一种因果形式都蕴含某种有形之物与某种精神之物之间的相互作用。于是，心身相互作用的案例不再是一个令人困惑的场景，而成为更广泛、更普遍的因果解释的一个实例。
+    step2: |-
+      伊丽莎白的批评确属笛卡儿式，因为它依据的正是笛卡儿本人所标举的清楚分明可理解性标准。拉弗尔热回应此虑的方式，是否认同质或单义的因果（如物体—物体因果）也不像看上去那样可理解。他力图表明物体间的单义因果实际上不可能，从而说明每一种因果形式都蕴含某种有形之物与某种精神之物的交互作用。如此，心身相互作用便不再是令人困惑的特例，而成为更广泛、更普遍的因果解释之一例。
   - id: 53
     kind: body
     source: |-
       This point is clearly stated at the beginning of Chapter 16 of La Forge’s *THM*:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一点在拉弗尔热《论人的心灵》第十六章开头说得很清楚：
+    step2: |-
+      拉弗尔热在《论人的心灵》第十六章开篇即点明此意：
   - id: 54
     kind: body
     source: |-
       > I think most people would not believe me if I said that it is no more difficult to conceive how the human mind, without being extended, can move the body and how the body without being a spiritual thing can act on the mind, than to conceive how a body has the power to move itself and to communicate its motion to another body. Yet there is nothing more true, and that is what I propose to show in this chapter. (THM 143)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我想，若我说：设想人类心灵（并无广延）如何能推动身体、身体（并非精神之物）如何能作用于心灵，并不比设想一个物体如何有力量自我运动并把运动传给另一物体更难，大多数人不会相信我。然而没有比这更真的了，这正是本章要表明的。（THM 143）
+    step2: |-
+      > 我想，倘若我说：设想人类心灵（并无广延）如何能推动身体、身体（并非精神之物）如何能作用于心灵，并不比设想一个物体如何有力量自我运动并把运动传给另一物体更难，大多数人不会相信我。然而没有比这更真的了，这正是本章要表明的。（THM 143）
   - id: 55
     kind: body
     source: |-
       Critics think that body-body causation is easy to conceive while mind-body causation is hardly intelligible (especially in a Cartesian dualistic ontology). La Forge aims to reverse this impression by showing that body-body causation is very hard to clearly and distinctly conceive and that, actually, it works in the same way as mind-body causation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      批评者认为物体—物体因果容易设想，而心身因果几乎不可理解（尤其在笛卡儿式二元论本体论中）。拉弗尔热意在扭转这一印象，表明物体—物体因果极难清楚分明地设想，而且实际上其运作方式与心身因果相同。
+    step2: |-
+      批评者以为物体—物体因果易于设想，心身因果则几乎不可理解（在笛卡儿式二元论本体论中尤然）。拉弗尔热欲扭转此印象：他要表明物体—物体因果极难清楚分明地设想，且其运作方式实与心身因果相同。
   - id: 56
     kind: body
     source: |-
       To fully accomplish this task, La Forge has to disqualify the possibility of a purely body-body interaction and he has to prove that bodies are always moved by a non-bodily cause. To reach this conclusion, La Forge uses an argument by elimination which reviews different potential sources of causal activity and shows that they do not offer a satisfying account of causation. The argument identifies three potential candidates as sources of causal activity in bodies: (i) other bodies; (ii) finite minds (e.g. human minds); and (iii) an infinite mind (i.e. God). La Forge discusses all three options in turn in order to prove that neither (i) other bodies nor (ii) finite minds can be the real causes of bodily movement in nature, and thus only God can be their genuine cause.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为完成这一任务，拉弗尔热必须排除纯粹物体—物体相互作用的可能性，并证明物体总是由非物体的原因推动。为达此结论，他使用排除法论证，逐一考察因果活动的不同潜在来源，并表明它们都不能令人满意地解释因果。该论证在物体中确认三个可能的因果活动来源：(i) 其他物体；(ii) 有限心灵（如人类心灵）；(iii) 无限心灵（即上帝）。拉弗尔热依次讨论三者，以证明 (i) 其他物体与 (ii) 有限心灵都不能是自然中身体运动的真正原因，因而唯有上帝能是其真正原因。
+    step2: |-
+      为此，拉弗尔热必须排除纯粹物体—物体相互作用的可能，并证明物体总是由非物体的原因推动。他采用排除法，逐一检视因果活动的潜在来源，表明无一能令人满意地说明因果。该论证列出物体中因果活动的三个候选来源：(i) 其他物体；(ii) 有限心灵（如人类心灵）；(iii) 无限心灵（即上帝）。拉弗尔热依次讨论三者，以证明 (i) 与 (ii) 都不能是自然中身体运动的真正原因，故唯有上帝才是其真正原因。
   - id: 57
     kind: body
     source: |-
       In order to prove that a body can move neither another body nor itself, La Forge uses the ‘non-transfer’ argument.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为证明一个物体既不能推动另一物体，也不能推动自身，拉弗尔热使用了“不可转移”论证。
+    step2: |-
+      为证明物体既不能推动他物，也不能推动自身，拉弗尔热提出“不可转移”论证。
   - id: 58
     kind: body
     source: |-
       > motion is only a mode which is not distinct from the body to which it belongs and which can no more pass from one subject to another than the other modes of matter, nor can it belong to a spiritual substance. But the motive force, i.e. the force which transports a body from one vicinity to another and which applies it successively to different parts of the bodies which is leaves behind […], is not only distinct from this application but also from the body which it applies and moves […]. *Now if the force which moves is distinct from the thing which is moved and if bodies alone can be moved, it follows clearly that no body can have the power of self-movement in itself*. *For if that were the case this force would not be distinct from the body, because no attribute or property is distinct from the thing to which it belongs*. If a body cannot move itself, it is obvious in my opinion that it cannot move another body. Therefore every body which is motion must be pushed by something which is not itself a body and which is completely distinct from it. (*THM* 145, emphasis added)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 运动只是一种样式，它与其所属物体不可区分，不能像物质的其他样式那样从一个主体转移到另一个主体，也不能属于精神实体。但运动力，即把物体从一个邻近处运送到另一邻近处、并依次使之接触其所离开的物体各部分的力……不仅与这种接触不同，而且与它所推动、所移动的物体不同……*既然推动的力与被推动之物不同，而唯有物体能被推动，那么显然，任何物体自身都不可能具有自我运动的力量*。*因为若如此，这种力便不会与物体不同，因为任何属性或性质都不会与其所属之物不同*。若一个物体不能自我运动，那么在我看来显然它也不能推动另一物体。因此，任何被推动的物体都必须由某种本身不是物体、且与之完全不同的东西推动。（*THM* 145，引文强调为原文所有）
+    step2: |-
+      > 运动只是一种样式，与所属物体并无区分，不能像物质的其他样式那样由一个主体转移至另一主体，也不能属于精神实体。但运动力——即把物体从一处邻域运送到另一处邻域、并使之依次接触所离物体各部分的力——……不仅不同于这种接触，也不同于它所推动、所移动的物体……*既然推动之力异于被推动之物，而唯物体可被推动，则显然任何物体自身都不可能具有自我运动之力*。*因为若果如此，此力便不会异于物体，盖任何属性或性质皆不异于其所属之物*。物体若不能自我运动，则在我看来显然也不能推动他物。故凡被推动的物体，必由某种本身非物体、且与之截然不同者所推动。（*THM* 145，引文强调为原文所有）
   - id: 59
     kind: body
     source: |-
       Because movement is only modally distinguished from the body, it cannot be separated from the moved body and it cannot be transferred from one body to another. However, because the force of movement can be separated from a body, it should be really distinguished from the body. Now, because the force of movement is really distinguished from the moved body, this force is not corporeal and does not pertain to such a body. In the same way in which Descartes used the real distinction between thought and extension to prove that the nature of thought has nothing to do with extension, La Forge argues that the real distinction between movement and force of movement entails that the force of movement cannot have anything extended in its own nature. Therefore, a body cannot have the force to move itself and, thus, it cannot have the force to move another body (because the force of motion is not in itself something bodily at all).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因为运动与物体只有模态上的区分，它不能与运动物体分离，也不能从一个物体转移到另一个物体。然而，因为运动力可以与物体分离，它应当与物体有实在的区分。既然运动力与被推动的物体有实在区分，这种力就不是物体性的，也不属于这样的物体。正如笛卡儿用思维与广延的实在区分来证明思维的本性无关广延，拉弗尔热论证：运动与运动力的实在区分蕴含运动力在本性上不能有任何广延之物。因此，物体不可能具有自我运动的力量，因而也不能具有推动另一物体的力量（因为运动力本身根本不是物体性的东西）。
+    step2: |-
+      运动与物体仅有模态之别，故不能与运动物体分离，也不能由一个物体转移至另一物体。然运动力可与物体分离，便应与物体有实在之别。运动力既与被推动的物体有实在区分，则此力非物体性，也不属于此类物体。笛卡儿曾以思维与广延的实在区分，证明思维的本性无关广延；拉弗尔热亦论证：运动与运动力的实在区分，蕴含运动力在本性上不能含有任何广延之物。职是之故，物体不可能具有自我运动之力，因而也不能具有推动他物之力（盖运动力本身根本不是物体性的东西）。
   - id: 60
     kind: body
     source: |-
       The reason to distinguish between movement and force of movement lies in the fact that movement is just a modification of the body and no modification can be transferred from a subject to another. On the contrary, it is necessary to think that the same force of movement, which causes the motion of a body, applies differently to different bodies, and thus it must be really distinguished from them. It is important to note that if the force of movement is really distinct from anything extended, then it should not be conceived as properly ‘divided’. Divisibility is a property of extended things, and if the force of movement is not extended, then it cannot be divisible in the way in which distances or bodies are. The (re)distribution of the force of movement across different bodies has thus to be understood more figuratively, perhaps analogously to the Cartesian claim that the mind itself is equally present in the whole body and in each of its parts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      区分运动与运动力的理由在于：运动只是物体的一个改变，而任何改变都不能从一个主体转移到另一个主体。相反，必须认为那引起物体运动的同一运动力以不同方式作用于不同物体，因而它必定与这些物体有实在区分。重要的是：若运动力与任何广延之物有实在区分，那么就不应把它设想为真正“可分的”。可分割性是广延之物的属性；若运动力不是广延的，它就不能像距离或物体那样可分。因此，运动力在不同物体间的（再）分配必须作更比喻性的理解，或许类似于笛卡儿的说法：心灵本身同等地临在于整个身体及其每一部分。
+    step2: |-
+      之所以要区分运动与运动力，是因为运动只是物体的一个改变，而任何改变都不能由一个主体转移至另一主体。反之，必须设想：引起物体运动的同一运动力，以不同方式施于不同物体，故必与这些物体有实在之别。尤须注意：运动力若与任何广延之物有实在区分，便不应被设想为真正“可分”。可分割性是广延之物的属性；运动力既非广延，就不能像距离或物体那样可分。于是，运动力在不同物体间的（再）分配，只能作更比喻性的理解，或许近于笛卡儿所谓心灵同等地临在于整个身体及其每一部分。
   - id: 61
     kind: body
     source: |-
       The fact that the force of movement can be applied to different bodies appears as the crucial point in La Forge’s argument. However, it might be asked why we should grant that the force is separable from the body and can be transferred. In the end, what prevents us from claiming that even the force is a modification of the body and thus cannot be separated from it? La Forge seems well aware of this problem and proposes a *reductio ad absurdum* to support this point:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      运动力可以作用于不同物体这一事实，似乎是拉弗尔热论证的关键点。然而，人们可以问：为什么我们应当承认这种力可与物体分离并能被转移？归根到底，什么阻止我们主张连这种力也是物体的改变、因而不能与之分离？拉弗尔热似乎很清楚这个问题，并提出一个归谬法来支持其观点：
+    step2: |-
+      运动力可施于不同物体，此一事实似为拉弗尔热论证的枢纽。然而不妨追问：我们凭什么承认此力可与物体分离、并能被转移？归根结底，何不主张连此力也是物体的改变，因而不能与之分离？拉弗尔热对此似有自觉，遂以归谬法支持己说：
   - id: 62
     kind: body
     source: |-
       > I may be told that I assume without argument that the force which moves must be distinct from the thing which is moved. […] But let us assume, if you wish, that this force is a mode of a body; *it could not then be distinguished from it and consequently it could not pass from one body to another*. If you conceive it in the same way as real qualities are conceived in the Schools and if you think it is definitely an accident of a body, even if it is distinct from it, then you would have to conceive that it subdivides itself when one body moves another and that it gives part of its movement to the other body and is therefore itself a body, at the same time as you assume that it is distinct from corporeal nature; for anything which is divisible and which has parts which can exist independently is a body; or you would have to say that it does not subdivide but that the body in which it is present produces a similar property in the body it touches when it pushes it. You thereby give to bodies the power of creation. (*THM* 145–146 emphasis added)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 也许有人会说，我未经论证便假定推动的力必定与被推动之物不同。……但若你愿意，不妨假定这种力是物体的样式；*那么它便不能与之区分，因而不能从一个物体传到另一个物体*。若你像经院哲学设想实在性质那样设想它，并认为它确实是物体的偶性，即便它与物体不同，那你就必须设想：当一个物体推动另一物体时，它自身发生分割，把其运动的一部分给予另一物体，因而它本身就是一个物体——同时你又假定它与有形自然不同；因为凡可分、且其部分能独立存在者，就是物体；否则你就得说它并不分割，而是它所在的那个物体在推动所触物体时，在后者中产生一种类似的性质。这样你就赋予了物体创造的能力。（*THM* 145–146，引文强调为原文所有）
+    step2: |-
+      > 也许有人会说，我未经论证便假定推动之力必异于被推动之物。……但若愿意，不妨假定此力是物体的样式；*那么它便不能与物体相区分，因而不能由一个物体传至另一物体*。倘若你像经院哲学设想实在性质那样设想它，认为它确是物体的偶性，即便异于物体，那你就必须设想：当一个物体推动另一物体时，它自身发生分割，把运动的一部分给予另一物体，因而它本身就是物体——而你又假定它异于有形自然；盖凡可分、且其部分能独立存在者，即为物体；否则你就得说它并不分割，只是它所在的物体在推动所触物体时，于后者中产生一种类似的性质。如此，你便赋予了物体创造的能力。（*THM* 145–146，引文强调为原文所有）
   - id: 63
     kind: body
     source: |-
       Under the hypothesis that the force of movement is a modification of the body, the non-transfer argument prevents any transfer of such a force from one body to another. However, La Forge assumes as factual that impact implies a redistribution of quantity of motion. Provided that the total amount of motion is conserved, this redistribution can be explained by redistribution either of the movement itself or of the force of movement. But if movement is a modification of the bodies, the non-transfer argument prevents its transfer. Thus, it must be the force of movement that is redistributed among the colliding bodies. This implies that the force of movement would be simultaneously *non*-distinguished from bodies (which was the hypothesis) and actually distinguished from them (because of the fact that it is redistributed). Unfortunately, this conclusion leads to absurdities. Indeed, either the force of movement is something like a real quality, which La Forge considers a contradictory entity, or we should accept that bodies have the power to create accidents in other bodies, which is taken as another absurdity. Thus, the force of movement cannot be a modification of a body, and the hypothesis must be rejected*.*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在运动力是物体之改变的假设下，不可转移论证阻止这种力从一个物体转移到另一个物体。然而，拉弗尔热把碰撞蕴含运动量再分配当作事实。只要运动总量守恒，这种再分配就可用运动本身或运动力的再分配来解释。但若运动是物体的改变，不可转移论证便阻止其转移。因此，在碰撞物体间再分配的必定是运动力。这意味着运动力将同时既与物体不可区分（这是假设），又与物体实际区分（因为它被再分配）。不幸的是，这一结论导致荒谬。的确，要么运动力类似实在性质——拉弗尔热视之为矛盾实体——要么我们得承认物体有能力在别的物体中创造偶性，这又被视为另一荒谬。因此，运动力不可能是物体的改变，该假设必须被拒斥。
+    step2: |-
+      设运动力为物体之改变，则不可转移论证便不容此力由一个物体转移至另一物体。然而拉弗尔热把碰撞蕴含运动量再分配视为事实。运动总量既守恒，这种再分配便可用运动本身的再分配、也可用运动力的再分配来解释。但运动若为物体之改变，不可转移论证即阻止其转移。于是在碰撞物体间再分配的，必是运动力。这就意味着运动力同时既与物体不可区分（此即假设），又与物体实际有别（因其被再分配）。不幸的是，此结论导致荒谬：要么运动力类似实在性质——拉弗尔热视为矛盾之物——要么就得承认物体能在其他物体中创造偶性，这又被视为另一荒谬。故运动力不可能是物体的改变，该假设必须弃置。
   - id: 64
     kind: body
     source: |-
       La Forge presents his use of the non-transfer argument as nothing but a faithful reading of Descartes. La Forge’s discussion, however, is better seen as an emendation of Descartes’s own position, which was more ambiguous on this subject. In the discussion of the third law of nature in his *Principles of Philosophy*, Descartes licenses a language that seems to accept transfer of motion between bodies (Sangiacomo 2014)[^sangiacomo-2014]. Henry More was puzzled by this and pressed Descartes to clarify this point during their correspondence. In his reply to More, Descartes denies that he ever allowed for any transfer of motion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      拉弗尔热把自己的不可转移论证说成不过是对笛卡儿的忠实解读。然而，他的讨论最好被看作对笛卡儿本人立场的修正，后者在这个问题上更为含混。在《哲学原理》讨论自然第三定律时，笛卡儿允许一种似乎接受物体间运动传递的语言（Sangiacomo 2014）[^sangiacomo-2014]。亨利·莫尔对此感到困惑，并在通信中催促笛卡儿澄清。笛卡儿在给莫尔的回信中否认自己曾允许任何运动传递。
+    step2: |-
+      拉弗尔热自陈其不可转移论证不过是对笛卡儿的忠实解读。然而，他的讨论毋宁应视为对笛卡儿本人立场的修正；笛卡儿在此问题上更为含混。在《哲学原理》论自然第三定律处，笛卡儿所用的措辞似乎容许物体间传递运动（Sangiacomo 2014）[^sangiacomo-2014]。亨利·莫尔对此深感困惑，遂于通信中促笛卡儿澄清。笛卡儿在复莫尔书中否认自己曾容许任何运动传递。
   - id: 65
     kind: body
     source: |-
       From a historical point of view, it is interesting to note that more or less during the same years in which La Forge works at his *THM*, Margaret Cavendish (1623–1673) also discusses the possibility of deriving occasionalism from the ‘non-transfer’ argument (Cavendish 1664, letter 30: 97–98)[^cavendish-1664]. Cavendish may have been inspired by More’s exchange with Descartes on this topic. However, she seems to ultimately reject occasionalism itself as understood and developed by La Forge and other Cartesian occasionalists. La Forge, anyhow, quotes at length Descartes’ answer to More, suggesting it as the true interpretation of Descartes’ physics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从历史角度看，有趣的是：差不多在拉弗尔热撰写《论人的心灵》的同一时期，玛格丽特·卡文迪许（1623–1673）也讨论了从“不可转移”论证推出偶因论的可能性（Cavendish 1664, letter 30: 97–98）[^cavendish-1664]。卡文迪许可能受莫尔与笛卡儿就此问题往来的启发。然而，她似乎最终拒斥拉弗尔热等笛卡儿偶因论者所理解、发展的偶因论本身。无论如何，拉弗尔热长篇引用了笛卡儿对莫尔的答复，并把它作为笛卡儿物理学的真正解释。
+    step2: |-
+      从历史上看，值得注意的是：大约在拉弗尔热撰写《论人的心灵》的同时，玛格丽特·卡文迪许（1623–1673）也讨论了由“不可转移”论证导出偶因论的可能（Cavendish 1664, letter 30: 97–98）[^cavendish-1664]。卡文迪许或受莫尔与笛卡儿就此问题往来书信的启发。不过，她最终似乎拒斥了拉弗尔热等笛卡儿偶因论者所理解并发展的偶因论本身。无论如何，拉弗尔热长篇征引笛卡儿复莫尔书，并视之为笛卡儿物理学的正解。
   - id: 66
     kind: body
     source: |-
       Nonetheless, up to this point, La Forge has only proved that force of movement is not something corporeal. This implies that all physical movements are always brought about by immaterial causes, which allows that in some cases, immaterial substances like human minds can cause some physical movements, i.e. voluntary motions, through the law of their union with the body. However, La Forge clearly would not assert that finite immaterial substances, such as angels or intermediate kinds of beings, produce every physical movement. Therefore, La Forge still needs a further argument to refute this kind of inference and show that, generally speaking, God himself directly moves physical bodies.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管如此，到此为止，拉弗尔热只证明了运动力不是物体性的东西。这意味着一切物理运动总是由非物质原因产生，从而允许在某些情况下，人类心灵这类非物质实体能通过其与身体联合的法则引起某些物理运动，即自愿运动。然而，拉弗尔热显然不会断言天使或中间类存在者这类有限非物质实体产生一切物理运动。因此，他仍需进一步论证来驳斥这类推论，并表明一般而言上帝亲自直接推动物体。
+    step2: |-
+      至此，拉弗尔热所证者仅是：运动力非物体性的东西。这意味着一切物理运动皆由非物质原因产生，从而在某些情形下，人类心灵这类非物质实体可依其与身体联合的法则引起某些物理运动，即自愿运动。然而，拉弗尔热显然不会断言天使或中间类存在者这类有限非物质实体产生一切物理运动。因此，他还需进一步论证，以排除此类推论，并表明一般而言上帝亲自直接推动物体。
   - id: 67
     kind: body
     source: |-
       Just after the previous quote, La Forge introduces a further part of his discussion in order to rule out the direct involvement of finite minds in natural phenomena. La Forge reminds us that movement produces every difference we observe in the physical world. Thus, if God would eliminate movement, the world would remain an inert mass of matter whose parts would be indistinguishable. Accordingly, La Forge focuses on the conditions in which God must introduce movement in such a mass to make a single body move.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      紧接上引之后，拉弗尔热引入讨论的进一步部分，以排除有限心灵对自然现象的直接参与。他提醒我们，运动产生我们在物理世界观察到的一切差异。因此，若上帝取消运动，世界将剩下一团惰性的物质，其各部分无从区分。据此，拉弗尔热聚焦于上帝必须在此类物质团中引入运动、以使单一物体运动的条件。
+    step2: |-
+      紧接上引，拉弗尔热转入进一步的讨论，以排除有限心灵对自然现象的直接参与。他提醒我们：我们在物理世界观察到的一切差异，皆由运动产生。故上帝若取消运动，世界便只剩一团惰性物质，其各部分无从区分。据此，拉弗尔热着重考察：上帝须在何种条件下于此物质团中引入运动，方能使单一物体运动。
   - id: 68
     kind: body
     source: |-
