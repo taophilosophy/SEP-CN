@@ -1,0 +1,562 @@
+version: 1
+slug: necessary-sufficient
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      A handy tool in the search for precise definitions is the specification of necessary and/or sufficient conditions for the application of a term, the use of a concept, or the occurrence of some phenomenon or event. For example, without water and oxygen, there would be no human life; hence these things are necessary conditions for the existence of human beings. Cockneys, according to the traditional definition, are all and only those born within the sound of the Bow Bells. Hence birth within the specified area is both a necessary and a sufficient condition for being a Cockney.
+    step1: |-
+      在寻求精确定义时，一个顺手的工具是：为一个术语的应用、一个概念的使用、或某一现象或事件的发生，规定其必要条件和/或充分条件。例如，没有水和氧气，就不会有人类生命；因此这些东西是人类存在的必要条件。按照传统定义，伦敦东区人（Cockney）恰是且只是那些出生于 Bow Bells（圣马利亚勒博教堂钟声）可闻范围之内的人。因此，出生于这一区域，既是成为伦敦东区人的必要条件，也是其充分条件。
+    step2: |-
+      寻求精确定义时，一个便利的工具是：为一个术语如何应用、一个概念如何使用，或某一现象与事件是否发生，规定必要条件和／或充分条件。例如，没有水和氧气就不会有人类生命，故这些东西是人类存在的必要条件。按传统定义，伦敦东区人（Cockney）恰是且只是出生于 Bow Bells（圣马利亚勒博教堂的钟声）可闻范围之内的人。于是，出生于该区域，既是成为伦敦东区人的必要条件，也是充分条件。
+  - id: 2
+    kind: body
+    source: |-
+      Like other fundamental concepts, the concepts of necessary and sufficient conditions cannot be readily specified in other terms. This article shows how elusive the quest is for a definition of the terms “necessary” and “sufficient”, indicating the existence of systematic ambiguity in the concepts of necessary and sufficient conditions. It also describes the connection between puzzles over this issue and troublesome issues surrounding the word “if” and its use in conditional sentences.
+    step1: |-
+      与其他基本概念一样，必要条件与充分条件这两个概念也无法轻易用别的术语来界定。本文表明，为“necessary”与“sufficient”这两个词寻求定义的努力何其难以取得成果，并指出必要条件与充分条件的概念中存在系统性歧义。本文还描述了围绕这一问题的种种困惑，与“if”一词及其在条件句中的用法所引发的棘手问题之间的关联。
+    step2: |-
+      同其他基本概念一样，必要条件与充分条件也难以用别的术语界定。本文要说明：为“necessary”（必要的）与“sufficient”（充分的）两词寻找定义，这一追求何其难以兑现；并指出必要条件与充分条件的概念中存在系统性歧义。本文还会描述：围绕这一问题的种种困惑，与“if”一词及其在条件句中的用法所牵出的棘手问题之间有何关联。
+  - id: 3
+    kind: body
+    source: |-
+      ## 1. Philosophy and Conditions
+    step1: |-
+      ## 1 哲学与条件
+    step2: |-
+      ## 1 哲学与条件
+  - id: 4
+    kind: body
+    source: |-
+      An ambition of twentieth-century philosophy was to analyse and refine the definitions of significant terms—and the concepts expressed by them—in the hope of casting light on the tricky problems of, for example, truth, morality, knowledge and existence that lay beyond the reach of scientific resolution. Central to this goal was specifying at least in part the conditions to be met for correct application of terms, or under which certain phenomena could truly be said to be present. Even now, philosophy’s unique contribution to interdisciplinary studies of consciousness, the evolution of intelligence, the meaning of altruism, the nature of moral obligation, the scope of justice, the concept of pain, the theory of perception and so on still relies on its capacity to bring high degrees of conceptual exactness and rigour to discussions in these areas.
+    step1: |-
+      二十世纪哲学的一项抱负，是分析与磨砺重要术语的定义——以及术语所表达的概念——以期照亮诸如真理、道德、知识与存在这类超出科学解决范围的棘手问题。这一目标的核心，是至少部分地规定术语正确应用所要满足的条件，或某些现象可以真正算作在场时所要满足的条件。直到今天，哲学对意识、智能演化、利他主义的意义、道德义务的本性、正义的范围、疼痛概念、知觉理论等跨学科研究的独特贡献，仍然依赖它为这些领域的讨论带来高度概念精确性与严格性的能力。
+    step2: |-
+      二十世纪哲学的一项抱负，是分析并磨砺重要术语的定义——以及术语所表达的概念——希望借此照亮真理、道德、知识、存在等科学方法无法解决的棘手问题。这一目标的核心，是至少部分地规定：术语要得到正确应用须满足何种条件，或在何种条件下才可以真正说某现象在场。直到今天，哲学仍以独特方式贡献于意识、智能演化、利他主义、道德义务、正义、疼痛、知觉等跨学科研究。它的贡献有赖于一种能力：为相关讨论带来高度的概念精确与严格。
+  - id: 5
+    kind: body
+    source: |-
+      If memory is a capacity for tracking our own past experiences and witnessings then a *necessary* condition for Penelope remembering giving a lecture is that it occurred in the past. Contrariwise, that Penelope now remembers the lecture is *sufficient* for inferring that it was given in the past. In a well-known attempt to use the terminology of necessary and sufficient conditions to illuminate what it is for one thing to be cause of another thing, J. L. Mackie proposes that causes are at a minimum INUS conditions, that is, “Insufficient but Necessary parts of a condition which is itself Unnecessary but Sufficient” for their effects (Mackie 1965)[^mackie-1965]. A schema like Mackie’s became the foundation for the “sufficient cause model” of disease in epidemiology (see Rothman 1976)[^rothman-1976] and continues to have influence on medical thinking about disease causation, as well as on definitions of causation in psychology and law (VanderWeele 2017)[^vanderweele-2017].
+    step1: |-
+      如果记忆是一种追踪我们过去经验与亲见的能力，那么佩内洛普记得自己讲过一次课的*必要*条件，是那次讲课发生在过去。反过来，佩内洛普现在记得那次讲课，这一点*充分*到足以推断那次讲课发生在过去。J. L. Mackie 在一次著名的尝试中，用必要条件与充分条件的术语来阐明一物为他物之因是什么；他提出，原因至少是 INUS 条件，即“对其结果而言不充分但必要的部分，属于本身不必要却充分的条件”（Mackie 1965）[^mackie-1965]。Mackie 式的图式后来成为流行病学中疾病“充分原因模型”的基础（见 Rothman 1976）[^rothman-1976]，并且持续影响着医学关于疾病因果的思考，也影响着心理学与法学中因果关系的定义（VanderWeele 2017）[^vanderweele-2017]。
+    step2: |-
+      如果记忆是一种追踪自己过去经验与亲见的能力，那么佩内洛普记得自己讲过一次课，其 *必要* 条件是：那次讲课发生在过去。反过来，佩内洛普现在记得那次讲课，这一点 *充分* 到可以推断讲课发生在过去。J. L. Mackie 曾有一次著名的尝试，用必要与充分条件的术语来阐明“一物是另一物之因”究竟是什么。他提出，原因至少是 INUS 条件，即“对其结果而言不充分但必要的部分，属于本身不必要却充分的条件”（Mackie 1965）[^mackie-1965]。这一 Mackie 式图式后来成为流行病学中疾病“充分原因模型”的基础（见 Rothman 1976）[^rothman-1976]，至今仍影响着医学对疾病因果的思考，也影响着心理学与法学中因果关系的定义（VanderWeele 2017）[^vanderweele-2017]。
+  - id: 6
+    kind: body
+    source: |-
+      What, then, is a necessary (or a sufficient) condition? This article describes the difficulties in providing complete precision in answering this question. Although the notion of sufficient condition can be used in defining what a necessary condition is (and vice versa), there appears to be no straightforward way to give a comprehensive and unambiguous account of the meaning of the term “necessary (or sufficient) condition” itself.
+    step1: |-
+      那么，什么是必要（或充分）条件？本文描述了在回答这一问题时提供完全精确性的种种困难。虽然充分条件的概念可用于定义必要条件是什么（反之亦然），但似乎没有一条直截了当的路径，能对“必要（或充分）条件”这一术语本身的意义给出全面而无歧义的说明。
+    step2: |-
+      那么，究竟什么是必要（或充分）条件？本文要描述的，是在回答这个问题时做到完全精确有何困难。充分条件这一概念固然可以用来定义何为必要条件（反之亦然），但看起来没有一条直路，能对“必要（或充分）条件”这个词本身的意义给出全面而无歧义的说明。
+  - id: 7
+    kind: body
+    source: |-
+      ## 2. The Standard Theory: Truth-functions and Reciprocity
+    step1: |-
+      ## 2 标准理论：真值函项与互反性
+    step2: |-
+      ## 2 标准理论：真值函项与互反性
+  - id: 8
+    kind: body
+    source: |-
+      The front door is locked. In order to open it in a normal way and get into the house, I must first use my key. A necessary condition of opening the door, without violence, then, is to use the key. So it seems true that
+    step1: |-
+      前门锁着。为了以正常方式开门进屋，我必须先用钥匙。于是，不以暴力开门的必要条件，是用钥匙。因此下面这句话似乎为真：
+    step2: |-
+      前门锁着。要按正常的方式开门进屋，我得先用钥匙。于是，不开暴力而开门的必要条件就是用钥匙。这样看来，下面这句话似乎为真：
+  - id: 9
+    kind: body
+    source: |-
+      1. If I opened the door, I used the key.
+    step1: |-
+      1. 如果我开了门，我就用过钥匙。
+    step2: |-
+      1. 如果我开了门，我就用过钥匙。
+  - id: 10
+    kind: body
+    source: |-
+      Can we use the truth-functional understanding of “if” to propose that the consequent of any conditional (in (i), the consequent is “I used the key”) specifies a necessary condition for the truth of the antecedent (in (i), “I opened the door”)? Many logic and critical thinking texts use just such an approach, and for convenience it can be called “the standard theory” (see Blumberg 1976, pp. 133–4, Hintikka and Bachman 1991, p. 328, Moore and Parker 2009, 310–11, and Southworth and Swoyer 2020, ch. 3.2 for examples of this approach)[^blumberg-1976][^hintikka-1991][^moore-2009][^southworth-2020].
+    step1: |-
+      我们能否用“if”的真值函项理解来主张：任何条件句的后件（在 (i) 中，后件是“我用过钥匙”）都为其前件（在 (i) 中，“我开了门”）的真值规定了一个必要条件？许多逻辑学与批判性思维教材正是采用这一进路；为方便起见，可称之为“标准理论”（这一进路的例子见 Blumberg 1976, pp. 133–4、Hintikka and Bachman 1991, p. 328、Moore and Parker 2009, 310–11、Southworth and Swoyer 2020, ch. 3.2）[^blumberg-1976][^hintikka-1991][^moore-2009][^southworth-2020]。
+    step2: |-
+      能否借助对“if”的真值函项理解，主张任何条件句的后件（在 (i) 中即“我用过钥匙”）都为其前件（在 (i) 中即“我开了门”）的真值规定一个必要条件？许多逻辑与批判性思维教材正是这样做的；为方便起见，可称之为“标准理论”（持这一进路的例子见 Blumberg 1976, pp. 133–4；Hintikka and Bachman 1991, p. 328；Moore and Parker 2009, 310–11；Southworth and Swoyer 2020, ch. 3.2）[^blumberg-1976][^hintikka-1991][^moore-2009][^southworth-2020]。
+  - id: 11
+    kind: body
+    source: |-
+      The standard theory makes use of the fact that in classical logic, the truth-function “*p* ⊃ *q*” (“If *p*, *q*”) is false only when *p* is true and *q* is false. The relation between “*p*” and “*q*” in this case is sometimes referred to as *material implication* (see the entry on the logic of conditionals). On this account of “if *p*, *q*”, if the conditional “*p* ⊃ *q*” is true, and *p* holds, then *q* also holds; likewise if *q* is false, then *p* must also be false (if the conditional is true). The standard theory claims that when the conditional “*p* ⊃ *q*” is true the truth of the consequent, “*q*”, is *necessary* for the truth of the antecedent, “*p*”, and the truth of the antecedent is in turn *sufficient* for the truth of the consequent. This reciprocal relation between necessary and sufficient conditions matches the formal equivalence between a conditional formula and its contrapositive (“~*q* ⊃ ~*p*” is the *contrapositive* of “*p* ⊃ *q*”). Descending from talk of truth of statements to speaking about states of affairs, we can equally correctly say, on the standard theory, that using the key was a necessary condition of opening the door.
+    step1: |-
+      标准理论利用了如下事实：在经典逻辑中，真值函项“*p* ⊃ *q*”（“如果 *p*，则 *q*”）只在 *p* 为真且 *q* 为假时为假。*p* 与 *q* 之间的这种关系有时被称为*实质蕴涵*（见条件句逻辑词条）。按照对“如果 *p*，则 *q*”的这种理解，如果条件句“*p* ⊃ *q*”为真且 *p* 成立，则 *q* 也成立；同样，如果 *q* 为假，则 *p* 也必为假（前提是该条件句为真）。标准理论主张：当条件句“*p* ⊃ *q*”为真时，后件“*q*”的真值对前件“*p*”的真值是*必要的*，而前件的真值反过来对后件的真值是*充分的*。必要条件与充分条件之间的这种互反关系，对应于条件公式与其逆否命题之间的形式等值（“~*q* ⊃ ~*p*”是“*p* ⊃ *q*”的*逆否命题*）。从谈论语句的真值下移到谈论事态，按标准理论我们同样可以正确地说：用钥匙是开门的必要条件。
+    step2: |-
+      标准理论利用了经典逻辑中的一个事实：真值函项“*p* ⊃ *q*”（“如果 *p*，则 *q*”）仅在 *p* 真而 *q* 假时为假。*p* 与 *q* 之间的这种关系，有时被称作 *实质蕴涵*（见条件句逻辑词条）。按这种对“如果 *p*，则 *q*”的理解，若条件句“*p* ⊃ *q*”为真且 *p* 成立，则 *q* 也成立；同样，若 *q* 为假，则 *p* 必为假（只要该条件句为真）。标准理论主张：当“*p* ⊃ *q*”为真时，后件“*q*”之真对前件“*p*”之真是 *必要的*；而前件之真对后件之真则是 *充分的*。必要条件与充分条件的这种互反关系，正好对应条件公式与其逆否命题之间的形式等值（“~*q* ⊃ ~*p*”是“*p* ⊃ *q*”的 *逆否命题*）。从语句真值的层面降到事态层面，按标准理论同样可以正确地说：用钥匙是开门的必要条件。
+  - id: 12
+    kind: body
+    source: |-
+      Given the standard theory, necessary and sufficient conditions are converses of each other: *B*’s being a necessary condition of *A* is equivalent to *A*’s being a sufficient condition of *B* (and vice versa). So it seems that any truth-functional conditional sentence states both a sufficient and a necessary condition as well. Suppose that if Nellie is an elephant, then she has a trunk. Being an elephant is a sufficient condition of her having a trunk; having a trunk in turn is a necessary condition of Nellie’s being an elephant. Indeed, the claim about the necessary condition appears to be another way of putting the claim about the sufficient condition, just as the contrapositive of a formula is logically equivalent to the original formula.
+    step1: |-
+      按照标准理论，必要条件与充分条件互为换位：*B* 是 *A* 的必要条件，等值于 *A* 是 *B* 的充分条件（反之亦然）。这样看来，任何真值函项条件句同时陈述了一个充分条件和一个必要条件。设如果奈莉是一头大象，那么她有象鼻。是一头大象是她有象鼻的充分条件；有象鼻反过来是奈莉是一头大象的必要条件。确实，关于必要条件的这一主张看起来只是关于充分条件主张的另一种说法，正如一个公式的逆否命题在逻辑上等值于原公式一样。
+    step2: |-
+      按标准理论，必要条件与充分条件互为换位：*B* 是 *A* 的必要条件，等值于 *A* 是 *B* 的充分条件（反之亦然）。如此说来，任何真值函项条件句便同时陈述了充分条件与必要条件。设：如果奈莉是一头大象，那么她有象鼻。“是一头大象”是她有象鼻的充分条件；“有象鼻”反过来是奈莉身为大象的必要条件。诚然，关于必要条件的说法看起来不过是充分条件说法的另一种表述——正如一个公式的逆否命题在逻辑上等值于原公式。
+  - id: 13
+    kind: body
+    source: |-
+      It is also possible—according the standard theory—to use “only if” to identify a necessary condition: we can say that Jonah was swallowed by a whale only if he was swallowed by a mammal, for if a creature is not a mammal, it is not a whale. Equivalent to (i) above, on this account, is the sentence “I opened the door only if I used the key”—a perfectly natural way of indicating that use of the key was necessary for opening the door.
+    step1: |-
+      按照标准理论，还可以用“only if”（仅当）来标识必要条件：我们可以说，约拿被鲸吞下，仅当他被一头哺乳动物吞下；因为一个生物若不是哺乳动物，就不是鲸。在这种理解下，与上面 (i) 等值的语句是“我开了门，仅当我用了钥匙”——这是表明用钥匙为开门所必要的一种完全自然的说法。
+    step2: |-
+      按标准理论，还可以借“only if”（仅当）来标识必要条件：我们可以说，约拿为鲸所吞，仅当吞他的是哺乳动物；因为不是哺乳动物的生物不会是鲸。在这种理解下，与 (i) 等值的语句是“我开了门，仅当我用了钥匙”——用它表示“用钥匙对开门是必要的”，再自然不过。
+  - id: 14
+    kind: body
+    source: |-
+      This account of necessary and sufficient conditions is particularly apposite in dealing with logical inferences. For example, from the truth of a conjunction, it can be inferred that each component is true (if “*p* and *q*” is true, then “*p*” is true and “*q*” is true). Suppose, then, that it is true that it is both raining and sunny. This is a sufficient condition for “it is raining” to be true. That it is raining is—contrariwise—a necessary condition for it being true that it is both raining and sunny. A similar account seems to work for conceptual and definitional contexts. So if the concept of memory is analysed as the concept of a faculty for tracking actual past events, the fact that an event is now in the past is a necessary condition of my presently recollecting it. If water is chemically defined as a liquid constituted mainly of H₂O, then if a glass contains water, it contains mainly H₂O. That the glass contains mostly H₂O is a necessary condition of its containing water.
+    step1: |-
+      这种对必要条件与充分条件的说明，在处理逻辑推理时尤其贴切。例如，由合取的真可以推出每个支命题为真（如果“*p* 且 *q*”为真，则“*p*”为真且“*q*”为真）。设“天既下雨又出太阳”为真。这是“天在下雨”为真的充分条件。反过来，天在下雨则是“天既下雨又出太阳”为真的必要条件。类似的说明似乎也适用于概念与定义的语境。于是，若记忆的概念被分析为追踪真实过去事件之官能的概念，那么某事件现已属于过去，就是我此刻回忆起它的必要条件。若水在化学上被定义为主要由 H₂O 构成的液体，那么一只杯子若装有水，就主要含有 H₂O。杯中主要含有 H₂O，是它装有水的必要条件。
+    step2: |-
+      这种对必要与充分条件的说明，用来处理逻辑推理尤为贴切。例如，从合取为真可推出每个支命题为真（“*p* 且 *q*”为真，则“*p*”为真、“*q*”为真）。设“天既下雨又出太阳”为真：这便是“天在下雨”为真的充分条件；反过来，天在下雨又是“天既下雨又出太阳”为真的必要条件。类似的说明似乎也适用于概念与定义的语境。于是，若把记忆概念分析为追踪真实过去事件的官能概念，则某事件如今已成过去，就是我此刻回忆起它的必要条件。若水在化学上定义为主要由 H₂O 构成的液体，则杯子装着水，就主要装着 H₂O；“杯中主要是 H₂O”是“杯中有水”的必要条件。
+  - id: 15
+    kind: body
+    source: |-
+      Despite its initial appeal, objections to the standard theory have been made by theorists from both philosophy and linguistics. In summary, the objections build on the idea that “if” in English does not always express a uniform kind of condition. If different kinds of conditions are expressed by the word “if”, the objectors argue, then it would be wise to uncover these before engaging in attempts to formalize and systematize the concepts of *necessary* and *sufficient*. In trying to show that there is an ambiguity infecting “if”-sentences in English, critics have focused on two doctrines they regard as mistaken: first, that there is a reciprocity between necessary and sufficient conditions, and, second, that “if *p*, *q*” and “*p* only if *q*” are equivalent.
+    step1: |-
+      尽管初看颇有吸引力，来自哲学与语言学两方面的理论家都对标准理论提出了异议。概括地说，这些异议立基于如下观念：英语中的“if”并不总是表达同一种条件。异议者论证，如果“if”一词表达的是不同种类的条件，那么在试图将*必要*与*充分*概念形式化、系统化之前，最好先把它们揭示出来。为表明英语中“if”句存在某种弥漫性的歧义，批评者聚焦于两条他们视为错误的学说：其一，必要条件与充分条件之间存在互反性；其二，“如果 *p*，则 *q*”与“*p* 仅当 *q*”等值。
+    step2: |-
+      尽管初看颇有吸引力，哲学与语言学两方面的理论家都对标准理论提出了异议。概括地说，异议的立足点是：英语里的“if”并非总是表达同一种条件。异议者主张，倘若“if”表达的条件不止一种，那么在着手把 *必要* 与 *充分* 形式化、系统化之前，理应先把这些条件类型弄清楚。为论证英语“if”句染有歧义，批评者盯住了两条他们视为错误的学说：一是必要条件与充分条件之间存在互反性；二是“如果 *p*，则 *q*”与“*p* 仅当 *q*”等值。
+  - id: 16
+    kind: body
+    source: |-
+      ## 3. Problems for the Standard Theory
+    step1: |-
+      ## 3 标准理论的问题
+    step2: |-
+      ## 3 标准理论的问题
+  - id: 17
+    kind: body
+    source: |-
+      Given any two true sentences *A* and *B*, the conditional “If *A*, then *B*” is true. For example, provided it is true that the sun is made of gas and also true that elephants have four legs, then the truth-functional conditional “If elephants have four legs, then the sun is made of gas” is also true. However, the gaseous nature of the sun would not normally be regarded as either a conceptually, or even a contingently, necessary condition of the quadripedality of elephants. Indeed, according to the standard theory, any truth will be a necessary condition for the truth of every statement whatsoever, and any falsehood will be a sufficient condition for the truth of any statement we care to consider.
+    step1: |-
+      给定任意两个真语句 *A* 与 *B*，条件句“如果 *A*，则 *B*”为真。例如，只要“太阳由气体构成”为真，且“大象有四条腿”为真，那么真值函项条件句“如果大象有四条腿，则太阳由气体构成”也就为真。然而，太阳的气态本性通常不会被看作大象四足性的概念性必要条件，甚至不会被看作其偶然的必要条件。的确，按标准理论，任何真都会是随便哪个语句为真的必要条件，而任何假都会是我们所考虑的任一语句为真的充分条件。
+    step2: |-
+      取任意两个真语句 *A* 与 *B*，条件句“如果 *A*，则 *B*”即为真。例如，只要“太阳由气体构成”为真、“大象有四条腿”也为真，真值函项条件句“如果大象有四条腿，则太阳由气体构成”便随之而真。可是，太阳的气态本性通常既算不上大象四足的概念性必要条件，也算不上哪怕偶然的必要条件。的确，按标准理论，任何真命题都是随便哪个语句为真的必要条件，而任何假命题都是我们所考虑的任一语句为真的充分条件。
+  - id: 18
+    kind: body
+    source: |-
+      These odd results do not arise in some non-classical logics where it is required that premisses be relevant to the conclusions drawn from them, and that the antecedents of true conditionals are likewise relevant to the consequents. But even in those versions of relevance logic which avoid some of these odd results, it is difficult to avoid all of the so-called “paradoxes of implication”(see the entry on the logic of conditionals and relevance logic). For example, a contradiction (a statement of the form “*p* and not *p*”) will be a sufficient condition for the truth of any statement unless the semantics for the logic in question allow the inclusion of inconsistent worlds.
+    step1: |-
+      在某些非经典逻辑中，这些奇怪的结果不会出现，那里要求前提与由之得出的结论相关，真条件句的前件同样与其后件相关。但即使在避免某些这类奇怪结果的相关逻辑版本中，也难以避开所有所谓的“蕴涵悖论”（见条件句逻辑词条与相干逻辑词条）。例如，一个矛盾（形如“*p* 且非 *p*”的语句）将成为任一语句为真的充分条件，除非所论逻辑的语义学允许包含不一致的世界。
+    step2: |-
+      有些非经典逻辑不会出现这些怪异结果：它们要求前提与所引出的结论相关，真条件句的前件也须与后件相关。但即便在避开了部分怪异结果的相干逻辑版本里，所谓的“蕴涵悖论”也无法尽数避开（见条件句逻辑词条与相干逻辑词条）。例如，一个矛盾（形如“*p* 且非 *p*”的语句）足以使任一语句成真——除非该逻辑的语义学允许包含不一致的世界。
+  - id: 19
+    kind: body
+    source: |-
+      These oddities might be dismissed as mere anomalies were it not for the fact that writers have identified a number of other problems associated with the ideas of reciprocity and equivalence mentioned at the end of the previous section. According to the standard theory, there is a kind of reciprocity between necessary and sufficient conditions, and “if *p*, *q*” sentences can always be paraphrased by “*p* only if *q*” ones. However, as writers in linguistics have observed, neither of these claims matches either the most natural understanding of necessary (or sufficient) conditions, or the behaviour of “if” (and “only if”) in English. Consider, for example, the following case (drawn from McCawley 1993, p. 317)[^mccawley-1993]:
+    step1: |-
+      这些怪异之处本可以被当作纯粹的异常而打发掉，要不是一些作者还指出了与上一节末尾提到的互反性与等值观念相关的若干其他问题。按标准理论，必要条件与充分条件之间存在某种互反性，而“如果 *p*，则 *q*”句总可以改写为“*p* 仅当 *q*”句。然而，正如语言学界作者所观察到的，这两条主张既不符合对必要（或充分）条件最自然的理解，也不符合“if”（及“only if”）在英语中的实际表现。例如，考虑下面的情形（取自 McCawley 1993, p. 317）[^mccawley-1993]：
+    step2: |-
+      这些怪异之处，本可以被当作无害的异常一笔带过，要不是有作者指出：上一节末尾提到的互反性与等值观念，还牵连出一批别的问题。按标准理论，必要条件与充分条件之间存在某种互反性，且“如果 *p*，则 *q*”总能改写成“*p* 仅当 *q*”。然而，正如语言学作者所观察到的，这两条主张既不合乎对必要（或充分）条件最自然的理解，也不合乎“if”（和“only if”）在英语中的实际表现。例如，考虑下面这个情形（取自 McCawley 1993, p. 317）[^mccawley-1993]：
+  - id: 20
+    kind: body
+    source: |-
+      1. If you touch me, I’ll scream.
+    step1: |-
+      1. 如果你碰我，我会尖叫。
+    step2: |-
+      1. 如果你碰我，我会尖叫。
+  - id: 21
+    kind: body
+    source: |-
+      While in the case of (i) above, using the key was necessary for opening the door, no parallel claim seems to work for (ii): in the natural reading of this statement, my screaming is not a condition for your touching me. James McCawley claims that the “if”-clause in a standard English statement gives the condition—whether epistemic, temporal or causal—for the truth of the “then”-clause. The natural interpretation of (ii) is that my screaming depends on your touching me. To take my screaming as a necessary condition for your touching me seems to get the dependencies back to front. A similar concern arises if it is maintained that (ii) entails that you will touch me *only if* I scream.
+    step1: |-
+      在上面 (i) 的情形中，用钥匙是开门所必要的；但对 (ii) 似乎做不出平行的主张：按这句话的自然读法，我尖叫并不是你碰我的条件。James McCawley 主张，标准英语语句中的“if”从句给出“then”从句为真的条件——无论是认知的、时间的还是因果的条件。(ii) 的自然解读是：我尖叫依赖于你碰我。把我的尖叫当作你碰我的必要条件，似乎把依赖关系弄颠倒了。如果有人坚持 (ii) 蕴涵你碰我*仅当*我尖叫，类似的疑虑也会出现。
+    step2: |-
+      上面 (i) 的情形里，用钥匙是开门的必要条件；但对 (ii) 却似乎做不出平行主张：按这句话的自然读法，我尖叫并不是你碰我的条件。James McCawley 主张：在标准英语语句里，“if”从句给出“then”从句成真的条件——认知条件、时间条件或因果条件，皆无不可。(ii) 的自然解读是：我尖叫依赖你碰我。把我的尖叫当成你碰我的必要条件，等于把依赖关系倒着安放。倘若有人坚持说 (ii) 蕴含“你碰我 *仅当* 我尖叫”，类似的疑虑同样会出现。
+  - id: 22
+    kind: body
+    source: |-
+      A similar failure of reciprocity or mirroring arises in the case of the door example ((i) above). While opening the door depended, temporally and causally, on using the key first, it would be wrong to think that using the key depended, either temporally or causally, on opening the door. So what kind of condition does the antecedent state? It may be helpful to consider the following puzzling pair of conditional sentences (a modification of Sanford 1989, 175–6)[^sanford-1989]:
+    step1: |-
+      在门这个例子（上面的 (i)）中，也出现类似的互反或镜像关系的失败。虽然在时间与因果上，开门依赖于先用钥匙，但认为用钥匙在时间或因果上依赖于开门，则是错误的。那么，前件陈述的是哪种条件？考察下面这对令人困惑的条件句（Sanford 1989, 175–6 的一个改写）[^sanford-1989]可能有帮助：
+    step2: |-
+      门那个例子（上面的 (i)）同样出现了互反或镜像关系的失败。虽然在时间与因果上，开门依赖先用钥匙；但要说用钥匙在时间或因果上依赖开门，就错了。那么，前件陈述的到底是哪种条件？看看下面这一对令人困惑的条件句或许有帮助（改写自 Sanford 1989, 175–6）[^sanford-1989]：
+  - id: 23
+    kind: body
+    source: |-
+      1. If he learns to play, I’ll buy Lambert a cello.
+      2. Lambert learns to play only if I buy him a cello.
+    step1: |-
+      1. 如果他学会了演奏，我就给兰伯特买一把大提琴。
+      2. 兰伯特学会演奏，仅当我给他买一把大提琴。
+    step2: |-
+      1. 如果他学会了演奏，我就给兰伯特买一把大提琴。
+      2. 兰伯特学会演奏，仅当我给他买一把大提琴。
+  - id: 24
+    kind: body
+    source: |-
+      Notice that these two statements are not equivalent in meaning, even though the standard theory treats “if *p*, *q*” as just another way of saying “*p* only if *q*”. While (iii) states a condition under which I buy Lambert a cello (presumably he first learns by using a borrowed one, or maybe he hires one), (iv) states a (necessary) condition of Lambert learning to play the instrument in the first place (there may be others too). Understood this way, the statements taken together leave poor old Lambert with no prospect of ever getting the cello from me. But if (iv) were just equivalent to (iii), combining the two statements would not lead to an *impasse* like this.
+    step1: |-
+      注意，这两句话意义并不等值，尽管标准理论把“如果 *p*，则 *q*”当作“*p* 仅当 *q*”的另一种说法。(iii) 陈述的是我给兰伯特买大提琴所依据的条件（想必他先用借来的琴学，或者租一把）；(iv) 陈述的则是兰伯特学会演奏这件乐器本身的一个（必要）条件（也许还有别的）。这样理解的话，这两句话合起来，让可怜的老兰伯特永远没有从我这里得到大提琴的希望。但如果 (iv) 只是与 (iii) 等值，把两句话合在一起就不会导致这样的*僵局*。
+    step2: |-
+      请注意，这两句话的意思并不等值，尽管标准理论把“如果 *p*，则 *q*”仅仅当作“*p* 仅当 *q*”的另一种说法。(iii) 陈述的是我买大提琴给兰伯特所依的条件（想必他先借一把琴或租一把琴来学）；(iv) 陈述的则是兰伯特学会演奏这件乐器本身的一个（必要）条件（或许还有别的条件）。照这样理解，两句话合在一起，可怜的老兰伯特就永远别想从我这里得到大提琴。可要是 (iv) 不过与 (iii) 等值，把两句话并置就不会造成这样的 *僵局*。
+  - id: 25
+    kind: body
+    source: |-
+      But how else can we formulate (iii) in terms of “only if”? A natural English equivalent is surprisingly hard to formulate. Perhaps it would be something like:
+    step1: |-
+      但除此之外，我们还能怎样用“only if”来表述 (iii)？一个自然的英语等值说法出奇地难以给出。也许它会是这样的：
+    step2: |-
+      可是除了这样，还能怎么用“only if”来表述 (iii)？一个自然的英语对应说法竟出奇地难找。也许是这样：
+  - id: 26
+    kind: body
+    source: |-
+      1. Lambert has learned to play the cello only if I have bought him one.
+    step1: |-
+      1. 兰伯特学会了拉大提琴，仅当我已经给他买了一把。
+    step2: |-
+      1. 兰伯特学会了拉大提琴，仅当我已经给他买了一把。
+  - id: 27
+    kind: body
+    source: |-
+      where the auxiliary (“has”/“have”) has been introduced to try to keep dependencies in order. Yet (v) is not quite right, for it can be read as implying that Lambert’s success is dependent on my having first bought him a cello—something that is certainly not implied in (iii). A still better (but not completely satisfactory) version requires further adjustment of the auxiliary, say:
+    step1: |-
+      这里引入助动词（“has”/“have”），是为了让依赖关系保持次序。然而 (v) 并不完全正确，因为它可以被读作：兰伯特的成功依赖于我先给他买了大提琴——而这肯定不是 (iii) 所蕴含的。一个更好（但还不完全令人满意）的版本需要进一步调整助动词，比如说：
+    step2: |-
+      这里引入助动词（“has”／“have”），试图让依赖关系维持正确的先后次序。但 (v) 并不完全对：它可以被读成“兰伯特的学成依赖于我先买了琴”——这绝非 (iii) 所蕴含的意思。要更贴切（但仍不令人完全满意），还得再调整助动词，比如：
+  - id: 28
+    kind: body
+    source: |-
+      1. Lambert will have learned to play the cello only if I have bought him one.
+    step1: |-
+      1. 兰伯特将要学会拉大提琴，仅当我已经给他买了一把。
+    step2: |-
+      1. 兰伯特将要学会拉大提琴，仅当我已经给他买了一把。
+  - id: 29
+    kind: body
+    source: |-
+      This time, it is not so easy to read (vi) as implying that I bought Lambert a cello before he learned to play. These changes in the auxiliary (sometimes described as changes in “tense”) have led some writers to argue that conditionals in English involve implicit quantification across times (see, for example, von Fintel 1998).
+    step1: |-
+      这一次，就不那么容易把 (vi) 读作：我在兰伯特学会演奏之前给他买了大提琴。助动词的这些变化（有时被描述为“时态”变化）促使一些作者论证：英语中的条件句涉及跨时间的隐性量化（例如见 von Fintel 1998）。
+    step2: |-
+      这一回，就不大容易把 (vi) 读成“我在兰伯特学会之前给他买了琴”。助动词上的这些变化（有时被称作“时态”变化）促使一些作者主张：英语条件句隐含着跨时间的量化（例如见 von Fintel 1998）。
+  - id: 30
+    kind: body
+    source: |-
+      An alternative view is that different kinds of dependency are expressed by use of the conditional construction: (iv) is not equivalent to (iii) because the consequent of (iii) provides what might be called a *reason for thinking* that Lambert has learned to play the cello. By contrast, the very same condition—that I buy Lambert a cello—appears to fulfil a different function in (iv) (namely that I first have to buy him a cello before he learns to play). In the following section, the possibility of distinguishing between different kinds of conditions is discussed. The existence of such distinctions would seem to provide some evidence for a systematic ambiguity about the meaning of “if” and in the concepts of *necessary* (and *sufficient*) *condition*.
+    step1: |-
+      另一种观点认为，条件句构造表达的是不同种类的依赖关系：(iv) 之所以不等值于 (iii)，是因为 (iii) 的后件提供了所谓的兰伯特已学会拉大提琴的*证据性理由*（reason for thinking）。相比之下，完全相同的条件——我给兰伯特买一把大提琴——在 (iv) 中似乎发挥着不同的功能（即我必须先给他买琴，然后他才能学会演奏）。下一节将讨论区分不同种类条件的可能性。这类区分若确实存在，似乎就为“if”的意义以及*必要*（与*充分*）*条件*概念中的系统性歧义提供了一些证据。
+    step2: |-
+      另一种观点则认为，条件句这一构造表达的是不同类型的依赖关系：(iv) 之所以不等值于 (iii)，是因为 (iii) 的后件提供了所谓“兰伯特已学会拉大提琴”的 *证据性理由*（reason for thinking）。相比之下，同一个条件——我给兰伯特买一把大提琴——在 (iv) 中似乎承担着别样的功能（即我得先买琴，他才学得会）。下一节将讨论区分不同种类条件的可能性。这样的区分若真存在，似乎就为“if”的意义、乃至 *必要*（与 *充分*）*条件* 概念中的系统性歧义提供了一份证据。
+  - id: 31
+    kind: body
+    source: |-
+      The possibility of ambiguity in these concepts raises a further problem for the standard theory. According to it—as Georg Henrik von Wright points out (von Wright 1974, 7)—the notions of necessary condition and sufficient condition are themselves interdefinable:
+    step1: |-
+      这些概念中的歧义可能性给标准理论带来了进一步的问题。正如 Georg Henrik von Wright 指出的（von Wright 1974, 7），按标准理论，必要条件与充分条件这两个概念本身是相互可定义的：
+    step2: |-
+      这些概念可能歧义，这给标准理论引出了进一步的问题。按标准理论，必要条件与充分条件两个概念本身是相互可定义的——Georg Henrik von Wright 已指出这一点（von Wright 1974, 7）：
+  - id: 32
+    kind: body
+    source: |-
+      *A* is a sufficient condition of *B* =_{*df*} the absence of *A* is a necessary condition of the absence of *B*
+    step1: |-
+      *A* 是 *B* 的充分条件 =_{*df*} *A* 的缺失是 *B* 的缺失的必要条件
+    step2: |-
+      *A* 是 *B* 的充分条件 =_{*df*} *A* 的缺失是 *B* 的缺失的必要条件
+  - id: 33
+    kind: body
+    source: |-
+      *B* is a necessary condition of *A* =_{*df*} the absence of *B* is a sufficient condition of the absence of *A*
+    step1: |-
+      *B* 是 *A* 的必要条件 =_{*df*} *B* 的缺失是 *A* 的缺失的充分条件
+    step2: |-
+      *B* 是 *A* 的必要条件 =_{*df*} *B* 的缺失是 *A* 的缺失的充分条件
+  - id: 34
+    kind: body
+    source: |-
+      Ambiguity would threaten this neat interdefinability. In the following section, we will explore whether there is an issue of concern here. The possibility of such ambiguity figures in work by Peter Downing on so-called “subjunctive” conditionals (Downing1959) and is explored subsequently as a more general problem in Wilson (1979), Goldstein et al. (2005), ch. 6, and later writers. The general argument, in brief, is that in some contexts there is a lack of reciprocity between necessary and sufficient conditions understood in a certain way, while in other situations the conditions do relate reciprocally to each other in the way required by the standard theory. If ambiguity is present, then there is no general conclusion that can safely be drawn about reciprocity, or lack of it, between necessary and sufficient conditions. Instead there will be a need to distinguish the sense of condition that is being invoked in a particular context. Without specification of meaning and context, it would also be wrong to make the general claim that sentences like “if *p*, *q*” are generally paraphrasable as “*p* only if *q*”. The philosophical literature contains numerous ways to make sense of the lack of reciprocity between the two kinds of conditions. Using a semi-formal argument, Carsten Held, for example, has suggested a way of explaining why necessary and sufficient conditions are not converses by making appeal to a version of truthmaker theory (Held 2016 – see Other Internet Resources). In what follows, the entry focuses on a rather different and possibly more widely accepted approach: the attempt to make sense of the lack of reciprocity in terms of the difference between inferential, evidential and explanatory uses of conditionals.
+    step1: |-
+      歧义会威胁这种漂亮的相互可定义性。下一节我们将考察这里是否存在值得关注的问题。这种歧义的可能性见于 Peter Downing 关于所谓“虚拟”条件句的工作（Downing 1959），随后在 Wilson (1979)、Goldstein et al. (2005) 第 6 章以及更晚的作者那里作为更一般的问题得到探讨。简要地说，一般论证是：在某些语境中，以某种方式理解的必要条件与充分条件之间缺乏互反性，而在另一些情形中，条件又以标准理论所要求的方式互反相关。如果歧义确实存在，那么关于必要条件与充分条件之间有无互反性，就无法安全地得出任何一般结论。相反，我们将需要区分特定语境中被援引的是哪一种意义上的条件。不弄清意义与语境，就断言“如果 *p*，则 *q*”这类句子一般可改写为“*p* 仅当 *q*”，同样是错误的。哲学文献中有多种方式来理解两种条件之间互反性的缺乏。例如，Carsten Held 借助一种真值制造理论（truthmaker theory）的版本，用半形式化的论证解释了为什么必要条件与充分条件不是互为换位的（Held 2016——见其他网络资源）。下文将聚焦于一条颇为不同、也许接受面更广的进路：借助条件句的推论性用法、证据性用法与解释性用法之间的差异，来理解互反性的缺乏。
+    step2: |-
+      歧义会威胁这种精巧的相互可定义性。下一节我们将考察这里是否真有问题。这种歧义的可能性，早见于 Peter Downing 论所谓“虚拟”（subjunctive）条件句的工作（Downing 1959）；随后 Wilson (1979)、Goldstein et al. (2005) 第 6 章以及更晚的作者，又把它当作更一般的问题来探讨。扼要说，其一般论证是：在某些语境中，按某种方式理解的必要条件与充分条件之间缺乏互反性；而在另一些情形中，两类条件又确实按标准理论要求的方式互反相关。若歧义确实存在，那么关于必要与充分条件之间有无互反性，就得不出任何可靠的一般结论；毋宁说，我们需要区分特定语境里援引的是哪一种意义上的“条件”。不先厘清意义与语境，就断言“如果 *p*，则 *q*”一般可改写为“*p* 仅当 *q*”，同样不成立。哲学文献中有多种办法来理解两类条件之间互反性的缺乏。例如，Carsten Held 借助真值制造理论（truthmaker theory）的一个版本，以半形式化的论证解释了必要条件与充分条件为何不互为换位（Held 2016——见“其他网络资源”）。下文将聚焦一条颇为不同、或许接受面更广的进路：从条件句的推论性、证据性与解释性用法之别入手，理解互反性的缺乏。
+  - id: 35
+    kind: body
+    source: |-
+      ## 4. Inferences, Reasons for Thinking, and Reasons Why
+    step1: |-
+      ## 4 推论、证据性理由与原因性理由
+    step2: |-
+      ## 4 推论、证据性理由与原因性理由
+  - id: 36
+    kind: body
+    source: |-
+      Are the following two statements equivalent? (Wertheimer 1968, 363–4)[^wertheimer-1968]:
+    step1: |-
+      下面两句话等值吗？（Wertheimer 1968, 363–4）[^wertheimer-1968]：
+    step2: |-
+      下面两句话等值吗？（Wertheimer 1968, 363–4）[^wertheimer-1968]：
+  - id: 37
+    kind: body
+    source: |-
+      1. The occurrence of a sea battle tomorrow is a necessary and sufficient condition for the truth, today, of “There will be a sea battle tomorrow.”
+      2. The truth, today, of “There will be a sea battle tomorrow” is a necessary and sufficient condition for the occurrence of a sea battle tomorrow.
+    step1: |-
+      1. 明天发生一场海战，是今天“明天将有一场海战”为真的必要且充分条件。
+      2. 今天“明天将有一场海战”为真，是明天发生一场海战的必要且充分条件。
+    step2: |-
+      1. 明天发生一场海战，是今天“明天将有一场海战”为真的必要且充分条件。
+      2. 今天“明天将有一场海战”为真，是明天发生一场海战的必要且充分条件。
+  - id: 38
+    kind: body
+    source: |-
+      David Sanford argues that while (vii) is sensible, (viii) “has things backward” (Sanford 1989, 176–7)[^sanford-1989]. He writes: “the statement about the battle, if true, is true because of the occurrence of the battle. The battle does not occur because of the truth of the statement” (*ibid*.) What he may mean is that the occurrence of the battle gives *a reason why* the statement is true, but it is not conversely the case that the truth of the statement provides any reason why the battle occurred. Of course, people sometimes do undertake actions just to make true what they had formerly said; so there will be unusual cases where the truth of a statement is a reason why an event occurred. But this seems an unlikely reading of the sea battle case.
+    step1: |-
+      David Sanford 论证说，(vii) 是可理解的，而 (viii) 则“把事情弄反了”（Sanford 1989, 176–7）[^sanford-1989]。他写道：“关于海战的那个语句，如果为真，其之所以为真是因为海战发生了；海战并不是因为那个语句为真才发生”（同上）。他可能意谓：海战的发生给出了语句为真的一个*原因性理由*（reason why），但反过来，语句为真并不为海战的发生提供任何原因性理由。当然，人们有时确实会为使自己先前说过的话成真而采取行动；所以会存在语句的真是一事件发生之原因性理由的异常情形。但这似乎不是对海战情形的一种合理解读。
+    step2: |-
+      David Sanford 论证：(vii) 说得通，(viii) 则“把事情说反了”（Sanford 1989, 176–7）[^sanford-1989]。他写道：“关于海战的那个语句如果为真，是因为海战发生才为真；海战并不是因为语句为真才发生”（同上）。他大约是想说：海战的发生是语句为真的一个 *原因性理由*（reason why），但反过来，语句为真并不给海战的发生提供任何原因性理由。当然，人们有时确实会为了让先前的话成真而有所行动；因此，语句之真成为某事件发生之原因性理由的怪例是存在的。但把海战情形读成这样，似乎不妥。
+  - id: 39
+    kind: body
+    source: |-
+      Now let *S* be the sentence “There will be a sea battle tomorrow”. If *S* is true today, it is correct to infer that a sea battle will occur tomorrow. That is, even though the truth of the sentence does not explain the occurrence of the battle, the fact that it is true licenses the inference to the occurrence of the event. Ascending to the purely formal mode (see section 4 of the entry on Rudolf Carnap), we can make the point by explicitly limiting inference relations to ones that hold among sentences or other bearers of truth values. It is perfectly proper to infer from the truth of *S* today that some other sentence is true tomorrow, such as “there is a sea battle today”. Since “there is a sea battle today” is true tomorrow if and only if there is a sea battle tomorrow, then we can infer from the fact that *S* is true today that it is true that a sea battle will occur tomorrow.
+    step1: |-
+      现在设 *S* 为语句“明天将有一场海战”。如果 *S* 今天为真，则推断明天将发生海战是正确的。也就是说，尽管语句的真并不解释海战的发生，它为真这一事实却准许我们推出该事件的发生。上升到纯粹形式说话方式（见 Rudolf Carnap 词条第 4 节），我们可以通过把推理关系明确限制在语句或其他真值承担者之间成立的关系上，来阐明这一点。从 *S* 今天为真推出某个其他语句明天为真——例如“今天有一场海战”——是完全正当的。既然“今天有一场海战”在明天为真当且仅当明天有海战，我们就能从 *S* 今天为真推出：明天将发生海战，这一点为真。
+    step2: |-
+      现在设 *S* 为语句“明天将有一场海战”。若 *S* 今天为真，据此推断明天有海战，这是对的。换言之，语句之真虽不解释海战的发生，但它为真这一事实却授权我们推出该事件发生。若上升到纯粹形式说话方式（见 Rudolf Carnap 词条第 4 节），可以这样做：把推理关系明确限定在语句或其他真值承担者之间成立的关系上。从 *S* 今天为真推出另一语句明天为真——比如“今天有一场海战”——完全正当。既然“今天有一场海战”在明天为真当且仅当明天有海战，我们便可以从 *S* 今天为真推出“明天将发生海战”为真。
+  - id: 40
+    kind: body
+    source: |-
+      From this observation, it would appear that there is a gap between what is true of inferences, and what is true of “reason why” relations. There is an inferential sense in which the truth of *S* is both a necessary and sufficient condition for the occurrence of the sea battle. However, there is an explanatory sense in which the occurrence of the sea battle is necessary and sufficient for the truth of *S*, but not *vice versa*. It would appear that in cases like (vii) and (viii) the inferences run in both directions, while explanatory reasons run only one way. Whether we read (vii) as equivalent to (viii) seems to depend on the sense in which the notions of necessary and sufficient conditions are being deployed.
+    step1: |-
+      由这一观察可见，推理层面为真的东西，与“原因性理由”关系层面为真的东西之间存在一道缝隙。有一个推论意义上的说法，其中 *S* 的真既是海战发生的必要条件，也是充分条件。然而有一个解释意义上的说法，其中海战的发生对 *S* 的真既是必要的也是充分的，但*反过来不然*。看来在 (vii) 与 (viii) 这样的情形中，推理双向可行，而解释性理由只单向流动。(vii) 是否等值于 (viii)，似乎取决于所动用的必要与充分条件概念是哪一种意义上的。
+    step2: |-
+      由这一观察看来，在“推理层面成立的东西”与“原因性理由关系层面成立的东西”之间，横着一道缝隙。就推论意义而言，*S* 之真既是海战发生的必要条件也是充分条件；而就解释意义而言，海战的发生对 *S* 之真既必要又充分，但 *反之不然*。看来在 (vii)、(viii) 这类情形里，推理可以双向运行，解释性理由却只单向流动。(vii) 是否等值于 (viii)，似乎取决于我们把必要与充分条件的概念用在哪种意义上。
+  - id: 41
+    kind: body
+    source: |-
+      Is it possible to generalize this finding? The door example ((i) above) seems to be a case in point. The fact I used the key gives a reason why I was able to open the door without force. That I opened the door without force gives a ground for inferring that I used the key. Here is a further example from McCawley:
+    step1: |-
+      这一发现能否推广？门的例子（上面的 (i)）看来恰是适例。我用过钥匙这一事实，给出了我无需暴力就能开门的一个原因性理由。我不施暴力而开了门，则给出我用过钥匙的推断根据。下面是 McCawley 的又一例：
+    step2: |-
+      这一发现能否推广？门的例子（上面的 (i)）恰似一例。我用过钥匙，这给了我一个原因性理由：我为何不施暴力就能开门。我不施暴力而开了门，又是推断我用过钥匙的根据。下面是 McCawley 的另一例：
+  - id: 42
+    kind: body
+    source: |-
+      1. If Audrey wins the race, we will celebrate.
+    step1: |-
+      1. 如果奥德丽赢了比赛，我们就庆祝。
+    step2: |-
+      1. 如果奥德丽赢了比赛，我们就庆祝。
+  - id: 43
+    kind: body
+    source: |-
+      Audrey’s winning the race is a sufficient condition for us having a celebration, and her winning the race is the reason why we will be celebrating. Our celebration, however, is not likely to be the reason why she wins the race. In what sense then is the celebration a necessary condition of her winning the race? Again, there is a ground for inferring: that we don’t celebrate is a ground for inferring that Audrey didn’t win the race. English time reference appears sensitive to the asymmetry uncovered here, in the way noted in the previous section. The natural way of writing the contrapositive of (ix) is not the literal “If we will not celebrate, then Audrey does not win the race”, but rather something like:
+    step1: |-
+      奥德丽赢得比赛是我们举行庆祝的充分条件，她的获胜是我们将庆祝的原因性理由。然而，我们的庆祝不太可能是她获胜的原因性理由。那么，在何种意义上庆祝是她获胜的必要条件？再说，这里有推断的根据：我们不庆祝，是从奥德丽没赢推断的根据。英语的时制表达似乎对这里揭示的不对称敏感，如上一节所述。(ix) 的逆否命题的自然写法，不是字面上的“如果我们将不庆祝，那么奥德丽不赢比赛”，而是类似于：
+    step2: |-
+      奥德丽赢下比赛，是我们举行庆祝的充分条件；她获胜则是我们将庆祝的原因性理由。然而，我们的庆祝多半不会是她获胜的原因性理由。那么，庆祝在何种意义上是获胜的必要条件？这里同样有的只是推断的根据：我们不庆祝，是推断奥德丽没赢的根据。英语的时制表达似乎对这里揭示的不对称颇为敏感，正如上一节所指出的。(ix) 的逆否命题的自然写法，并非字面上的“如果我们将不庆祝，那么奥德丽不赢比赛”，而更像：
+  - id: 44
+    kind: body
+    source: |-
+      1. If we don’t celebrate, Audrey didn’t win the race.
+    step1: |-
+      1. 如果我们不庆祝，奥德丽就没有赢。
+    step2: |-
+      1. 如果我们不庆祝，奥德丽就没有赢。
+  - id: 45
+    kind: body
+    source: |-
+      or
+    step1: |-
+      或
+    step2: |-
+      或
+  - id: 46
+    kind: body
+    source: |-
+      1. If we aren’t celebrating, Audrey hasn’t won the race.
+    step1: |-
+      1. 如果我们没有在庆祝，奥德丽就还没赢。
+    step2: |-
+      1. 如果我们没有在庆祝，奥德丽就还没赢。
+  - id: 47
+    kind: body
+    source: |-
+      or even
+    step1: |-
+      甚至
+    step2: |-
+      甚至
+  - id: 48
+    kind: body
+    source: |-
+      1. If we don’t celebrate, Audrey can’t have won the race.
+    step1: |-
+      1. 如果我们不庆祝，奥德丽就不可能赢。
+    step2: |-
+      1. 如果我们不庆祝，奥德丽就不可能赢。
+  - id: 49
+    kind: body
+    source: |-
+      Gilberto Gomes (Gomes 2019)[^gomes-2019] discusses in detail a range of cases in which sometimes elaborate paraphrasing of this, and other, kinds can be used to preserve reciprocity between conditionals and their contrapositives.
+    step1: |-
+      Gilberto Gomes（Gomes 2019）[^gomes-2019] 详细讨论了一系列情形，在其中对这一类或其他种类的、有时颇为精巧的改写，可用来在条件句与其逆否命题之间保持互反性。
+    step2: |-
+      Gilberto Gomes（Gomes 2019）[^gomes-2019] 详尽讨论了一整类情形：在其中，这种或其他形式的改写——有时相当精巧——可以用来在条件句与其逆否命题之间保住互反性。
+  - id: 50
+    kind: body
+    source: |-
+      Ian Wilson (in Wilson 1979)[^wilson-1979] proposes that there are five possible relations symbolised by “if, … then …” including the *reason why* reading. Subsequent authors have not adopted this proposal, preferring to focus mainly on three of these relations, each of which bears on questions of necessity and sufficiency. First is the implication relation symbolised by the hook operator, “⊃” or perhaps some relevant implication operator. Such an operator captures some inferential relations as already noted. For example, we saw that from the truth of a conjunction, it can be inferred that each component is true (from “*p* and *q*”, we can infer that “*p*” is true and that “*q*” is true). Hook, or a relevant implication operator, seems to capture one of the relations encountered in the sea battle case, a relation which can be thought of as holding paradigmatically between bearers of truth values, but can also be thought of in terms of states of affairs. For this relation, we are able to maintain the standard theory’s reciprocity thesis with the limitations already noted.
+    step1: |-
+      Ian Wilson（见 Wilson 1979）[^wilson-1979] 提出，“如果……那么……”所标示的可能关系有五种，其中包括*原因性理由*解读。后来的作者没有采纳这一提案，而是主要聚焦于其中三种关系，每一种都涉及必然性与充分性问题。第一种是由蹄铁算子“⊃”（或某种相干蕴涵算子）标示的蕴涵关系。如前所述，这类算子捕捉了某些推理关系。例如，我们看到，从合取的真可以推出每个支命题为真（从“*p* 且 *q*”可推出“*p*”为真、“*q*”为真）。蹄铁算子或相干蕴涵算子似乎捕捉了海战情形中出现的关系之一；这种关系可以被想成典型地成立于真值承担者之间，但也可以从事态的角度来思考。对于这种关系，在已指出的限制之下，我们能够维持标准理论的互反论题。
+    step2: |-
+      Ian Wilson（见 Wilson 1979）[^wilson-1979] 提出，“如果……那么……”可以标示五种可能关系，*原因性理由* 解读即在其中。后来的作者没有采纳这一方案，而主要聚焦于其中的三种关系，每一种都牵涉必然性与充分性问题。第一种是由蹄铁算子“⊃”（或某种相干蕴涵算子）标示的蕴涵关系。如前所述，这类算子捕捉的是一部分推理关系。例如，我们已经看到：从合取为真可推出每个支命题为真（从“*p* 且 *q*”可推出“*p*”为真、“*q*”为真）。蹄铁算子或相干蕴涵算子似乎捕捉到了海战情形中出现的关系之一；这种关系典型地成立于真值承担者之间，但也不妨从事态角度来思考。就这种关系而言，在已经指明的限度内，标准理论的互反论题可以维持。
+  - id: 51
+    kind: body
+    source: |-
+      Two further relations, however, are often implicated in reflections on necessary and sufficient conditions. To identify these, consider the different things that can be meant by saying
+    step1: |-
+      然而，在关于必要与充分条件的反思中，还经常牵涉另外两种关系。为识别它们，考虑说下面这句话时可以意谓的不同事情：
+    step2: |-
+      不过，在关于必要与充分条件的反思中，还有另外两种关系时常牵涉在内。要辨认它们，不妨想想说下面这句话时可以意指的不同事情：
+  - id: 52
+    kind: body
+    source: |-
+      1. If Solange was present, it was a good seminar.
+    step1: |-
+      1. 如果索朗日到场了，那这次研讨班就很好。
+    step2: |-
+      1. 如果索朗日到场了，那这次研讨班就很好。
+  - id: 53
+    kind: body
+    source: |-
+      One scenario for (xiii) is the situation where Solange is invariably a lively contributor to any seminar she attends. Moreover, the contributions she makes are always insightful, hence guaranteeing an interesting time for all who attend. In this case, Solange’s presence at least in part explains or is a *reason why* the seminar was good. Note that some writers distinguish explanatory reasons of this sort from full-bodied explanations (Nebel 2018). A different scenario depicts Solange as someone who has an almost unerring knack for spotting which seminars are going to be good, even though she is not always active in the discussion. Her attendance at a seminar, according to this story, provides a *reason for thinking*—or is *evidence*—that the seminar is good. We might say that according to the first story, the seminar is good because Solange is at it. In the second case, Solange is at it because it is good. Examples of this kind were first introduced in Wilson (1979) following on from the attack on the validity of contraposition in Downing (1975). Notice that the hook (as understood in classical logic) does not capture the *reason for thinking* relation, for it permits any true consequent to be inferred from any other statement whatever. Where the conditional is a *reason for thinking* relation, then the antecedent must provide some support for the consequent—hence has to provide some supporting evidence for accepting the consequent. A formal exploration of one *reason for thinking* relation is given in Vincenzo Crupi and Andrea Iacona’s study of the *evidential conditional* (Crupi and Iacona 2020, and see the fully developed logic of the evidential conditional in Raidl, Iacona and Crupi 2021)[^crupi-2020]. These writers treat the *reason for thinking* or evidentiary relation as one in which the antecedent provides a “reason for accepting” the consequent. See also Igor Douven on the “evidential support thesis” (Douven 2008, 2016)[^douven-2008].
+    step1: |-
+      (xiii) 的一种情形是：索朗日无论参加哪次研讨班，都总是活跃的发言者；而且她的发言总是富有洞见，因而保证所有与会者都过得有趣。在这种情形中，索朗日的到场至少部分地解释了研讨班为何很好，或者说，是研讨班很好的*原因性理由*。注意，一些作者把这类解释性理由与完全意义上的解释区分开来（Nebel 2018）。另一种情形把索朗日描绘成一个几乎从不出错地辨认哪次研讨班会好的人，尽管她在讨论中并不总是活跃。按照这个说法，她出席某次研讨班，提供了这次研讨班很好的一个*证据性理由*——或者说是*证据*。我们可以说，按照第一个说法，研讨班很好是因为索朗日在场；在第二种情形中，索朗日在场是因为研讨班很好。这类例子最初由 Wilson (1979) 引入，接续 Downing (1975) 对逆否推理有效性的攻击。注意，蹄铁算子（如经典逻辑所理解）捕捉不到*证据性理由*关系，因为它允许从任何语句推出任何为真的后件。当条件句是*证据性理由*关系时，前件必须为后件提供某种支持——因而必须为接受后件提供某种支持性证据。Vincenzo Crupi 与 Andrea Iacona 对*证据条件句*的研究给出了对一种*证据性理由*关系的形式化探讨（Crupi and Iacona 2020；证据条件句的完整逻辑见 Raidl, Iacona and Crupi 2021）[^crupi-2020]。这些作者把*证据性理由*或证据关系理解为前件为后件提供“接受的理由”的关系。另见 Igor Douven 论“证据支持论题”（Douven 2008, 2016）[^douven-2008]。
+    step2: |-
+      (xiii) 可以有这样一个场景：索朗日无论参加哪次研讨班都总是活跃的发言者，而且她的发言总富有洞见，足以保证所有与会的人都有趣而充实。此时，索朗日的到场至少部分地解释了研讨班为何出色——或者说，是研讨班出色的 *原因性理由*。要注意，一些作者把这类解释性理由与严格意义的解释区分开（Nebel 2018）。另一个场景则把索朗日画成一个眼光几乎从不出错的人：哪次研讨班会好，她一眼便知，尽管她在讨论中未必总活跃。按这个说法，她出席某次研讨班，就为“这次研讨班很好”提供了 *证据性理由*——或者说 *证据*。我们不妨这样概括：按第一个场景，研讨班很好是因为索朗日在场；按第二个场景，索朗日在场是因为研讨班很好。这类例子最早见于 Wilson (1979)，承接 Downing (1975) 对逆否推理有效性的攻击。注意，蹄铁算子（按经典逻辑的理解）捕捉不到 *证据性理由* 关系：它允许从任何语句推出任何为真的后件。而当条件句是 *证据性理由* 关系时，前件必须为后件提供某种支持——即必须为接受后件提供支持性证据。Vincenzo Crupi 与 Andrea Iacona 对 *证据条件句* 的研究，对一种 *证据性理由* 关系作了形式化探讨（Crupi and Iacona 2020；证据条件句的完整逻辑见 Raidl, Iacona and Crupi 2021）[^crupi-2020]。在他们那里，*证据性理由* 或证据关系就是前件为后件提供“接受的理由”的关系。另参 Igor Douven 论“证据支持论题”（Douven 2008, 2016）[^douven-2008]。
+  - id: 54
+    kind: body
+    source: |-
+      The *reason why* and *reason for thinking that* conditions may help to shed light on the peculiarities encountered earlier. That I opened the door is a reason for thinking that I used the key, not a reason why. In case (iii) above, that he learns to play the instrument is the reason why I will buy Lambert a cello, and that I buy him a cello is (in the same case) a reason for thinking that—but not a reason why—he has learned to play the instrument. Our celebrating is a reason for thinking that Audrey has won the race in case (ix), but is unlikely to be a reason why.
+    step1: |-
+      *原因性理由*条件与*证据性理由*条件或许有助于澄清前面遇到的种种特异之处。我开了门，是用过钥匙的一个证据性理由，而非原因性理由。在上面的 (iii) 中，他学会了演奏这件乐器，是我将给兰伯特买大提琴的原因性理由；而我给他买了大提琴，则是（在同一情形中）他已学会演奏这件乐器的一个证据性理由——但不是原因性理由。在情形 (ix) 中，我们庆祝是奥德丽赢了比赛的一个证据性理由，但不太可能是原因性理由。
+    step2: |-
+      *原因性理由* 条件与 *证据性理由* 条件，或许能照亮前面遇到的那些特异之处。我开了门，是用过钥匙的证据性理由，而非原因性理由。在上面的 (iii) 中，他学会了演奏，是我将给兰伯特买琴的原因性理由；而我买了琴，则（在同一情形中）是“他已学会演奏”的证据性理由——但不是原因性理由。在情形 (ix) 中，我们庆祝是奥德丽获胜的证据性理由，但多半不是原因性理由。
+  - id: 55
+    kind: body
+    source: |-
+      Although there is sometimes a correlation between reasons why, on the one hand, and evidentiary relations, on the other, few generalisations about this can be safely made. If *A* is a reason why *B* has occurred (and so perhaps also is evidence that *B* has occurred), then the occurrence of *B* will sometimes be a reason for thinking—but not a guarantee—that *A* has occurred. If *A* is no more than a reason for thinking that *B* has occurred, then *B* will sometimes be a reason why—but not a guarantee that—*A* has occurred. Going back to example (i) above, my opening the door (without violence) was a reason for thinking, that is to say evidence, that I had used the key. That I used the key, however, was not just a reason for thinking that I had opened the door, but one of the reasons why I was able to open the door. What is important is that the “if” clause of a conditional may do any of three things described in the present section. One of these is well captured by classical truth-functional logic, namely (i) introduce a sentence from which the consequent follows in the way modelled by an operator such as hook. But there are two other jobs that “if” may do as well, namely: (ii) state a reason why what is stated in the consequent is the case; (iii) state a reason for thinking that what is stated in the consequent is the case even when this is not a reason why.
+    step1: |-
+      虽然原因性理由与证据关系之间有时存在相关，但关于这一点很少有可以放心作出的概括。如果 *A* 是 *B* 发生的原因性理由（因而或许也是 *B* 发生的证据），那么 *B* 的发生有时会是 *A* 发生的证据性理由——但不保证如此。如果 *A* 只不过是 *B* 发生的证据性理由，那么 *B* 有时会是 *A* 发生的原因性理由——但同样不保证如此。回到上面的例子 (i)：我（不施暴力地）开了门，是“我用过钥匙”的证据性理由，即证据。然而我用过钥匙，不只是“我开了门”的证据性理由，而且是我能开门的原因性理由之一。要点在于：条件句的“if”从句可以承担本节描述的三件事中的任何一件。其中一件由经典真值函项逻辑很好地捕捉：即引入一个语句，后件以蹄铁算子之类算子所模拟的方式从它推出。但“if”还可以做另外两件事：即陈述后件所述情况如此的原因性理由；以及陈述后件所述情况如此的证据性理由，即使这不是原因性理由。
+    step2: |-
+      原因性理由与证据关系之间固然有时彼此相关，但对此几乎无法放胆概括。如果 *A* 是 *B* 发生的原因性理由（因而或许也是 *B* 发生的证据），那么 *B* 的发生有时会是 *A* 发生的证据性理由——但不作保证。如果 *A* 仅仅是 *B* 发生的证据性理由，那么 *B* 的发生有时会是 *A* 发生的原因性理由——同样不作保证。回到上面的例子 (i)：我（不施暴力地）开了门，是“我用过钥匙”的证据性理由，即证据；而我用过钥匙，却不只是“我开了门”的证据性理由，还是我能开门的原因性理由之一。关键在于：条件句的“if”从句可以承担本节描述的三种职能中的任何一种。其中一种由经典真值函项逻辑恰当地捕捉：引入一个语句，后件以蹄铁算子这类算子所模拟的方式从它推出。但“if”还能做另外两件事：其一，陈述后件所述情况为何如此的原因性理由；其二，陈述“后件所述情况如此”的证据性理由——即使它并非原因性理由。
+  - id: 56
+    kind: body
+    source: |-
+      In general, if explanation is directional, it may not seem surprising that when *A* explains *B*, it is not usually the case that *B*, or its negation, is in turn an explanation of *A* (or its negation). Audrey’s winning the race explains our celebration, but our failure to celebrate is not (normally) a plausible explanation of her failure to win. Solange’s presence may explain why the seminar was such a great success, but a boring seminar is not—in any normal set of circumstances—a reason why Solange is not at it. This result seems to undermine the usual understanding that if *A* is a sufficient condition of *B*, it will typically be the case that *B* is a necessary condition for *A*, and the falsity of *B* a sufficient condition for the falsity of *A*.
+    step1: |-
+      一般地说，如果解释是有方向的，那么当 *A* 解释 *B* 时，*B*（或其否定）通常并不是 *A*（或其否定）的解释，这或许不足为怪。奥德丽赢得比赛解释了我们的庆祝，但我们没有庆祝，通常并不是她未能获胜的一个可信解释。索朗日的到场可以解释研讨班为何大获成功，但一次乏味的研讨班在任何正常情形下都不是索朗日缺席的原因性理由。这一结果似乎动摇了通常的理解：如果 *A* 是 *B* 的充分条件，那么通常 *B* 会是 *A* 的必要条件，而 *B* 之假会是 *A* 之假的充分条件。
+    step2: |-
+      一般地说，解释若是有方向的，那么 *A* 解释 *B* 时，*B*（或其否定）通常并不是 *A*（或其否定）的解释——这或许不足为怪。奥德丽获胜解释了我们的庆祝；可我们没有庆祝，通常算不上她失利的可信解释。索朗日的到场可以解释研讨班为何大获成功；而一场乏味的研讨班，在任何正常情形下都不是索朗日缺席的原因性理由。这一结果似乎动摇了一个惯常的理解：若 *A* 是 *B* 的充分条件，那么通常 *B* 是 *A* 的必要条件，且 *B* 之假是 *A* 之假的充分条件。
+  - id: 57
+    kind: body
+    source: |-
+      In defence of contraposition, it might be argued that in the case of causal claims there is at least a weak form of contraposition that is valid. Gomes proposes (Gomes 2009)[^gomes-2009] that where ‘*A*’ is claimed to be a causally sufficient condition for ‘*B*’, or ‘*B*’ a causally necessary condition of ‘*A*’, then some form of reciprocity between the two kinds of conditions holds, and so some version of contraposition will be valid. Going back to example (ii), suppose we read this as stating a causal condition—that your touching me would cause me to scream. Gomes suggests that ‘*A*’ denotes a sufficient cause of *B*, provided that (1) ‘*A*’ specifies the occurrence of an event that would cause another event ‘*B*’, and does this by (2) stating a condition the truth of which is sufficient for inferring the truth of ‘*B*’. In such a case, we could further maintain that ‘*B*’, in turn, denotes a necessary effect of ‘*A*’, meaning that the truth of *B* provides a necessary condition for the truth of *A* (Gomes 2009, 377–9)[^gomes-2009]. It is notable that Crupi and Iacona’s evidential conditional also preserves contraposition, which they claim as a distinctive feature of of their analysis, based on their understanding that “provides evidence for” is another way of saying “supports” (section 6 of Crupi and Iacona 2020)[^crupi-2020]. For them, if Solange’s presence provides evidence for the seminar being good (see (xiii) above), then the seminar’s not being good is evidence of Solange’s absence. They—like Gomes (2019)—thus reject Downing’s (1975) general scepticism about contraposition. Wilson, by contrast, argues that the seminar not being good might also be a reason why Solange does not attend. But this, he claims, “saves only the appearance of contraposition” (Wilson 1979, 274–5)[^wilson-1979].
+    step1: |-
+      为逆否推理辩护，可以说在因果主张的情形中至少存在一种有效的弱逆否。Gomes 提出（Gomes 2009）[^gomes-2009]：如果主张“*A*”是“*B*”的因果充分条件，或“*B*”是“*A*”的因果必要条件，那么两类条件之间就成立某种互反性，因而某种形式的逆否将有效。回到例子 (ii)，设我们把它读作陈述一个因果条件——你碰我会导致我尖叫。Gomes 建议，“*A*”标示 *B* 的一个充分原因，只要 (1) “*A*”规定了某个会引起另一事件“*B*”的事件的发生，并且 (2) 通过陈述一个条件来做到这一点，该条件之真足以推出“*B*”之真。在这种情形中，我们还可以进一步主张，“*B*”反过来标示“*A*”的一个必然结果，意思是 *B* 之真为 *A* 之真提供了一个必要条件（Gomes 2009, 377–9）[^gomes-2009]。值得注意的是，Crupi 与 Iacona 的证据条件句同样保持逆否，他们把这一点主张为其分析的显著特征，依据是他们对“提供证据”即“支持”的理解（Crupi and Iacona 2020 第 6 节）[^crupi-2020]。对他们来说，如果索朗日的到场为研讨班很好提供了证据（见上面的 (xiii)），那么研讨班不好就是索朗日缺席的证据。他们——与 Gomes (2019) 一样——因此拒绝 Downing (1975) 对逆否推理的一般怀疑论。Wilson 恰恰相反，他论证研讨班不好也可能是不出席的原因性理由。但他声称，这只是“保住了逆否推理的样子”（Wilson 1979, 274–5）[^wilson-1979]。
+    step2: |-
+      为逆否推理辩护的人可以说：就因果主张而言，至少有一种弱形式的逆否是有效的。Gomes 提出（Gomes 2009）[^gomes-2009]：若主张“*A*”是“*B*”的因果充分条件，或“*B*”是“*A*”的因果必要条件，两类条件之间便有某种互反性成立，从而某种形式的逆否有效。回到例子 (ii)，设我们把它读作一个因果条件：你碰我，会致使我尖叫。Gomes 建议，“*A*”标示 *B* 的一个充分原因，只要 (1) “*A*”规定了某个会引起另一事件“*B*”的事件之发生，并且 (2) 它是通过陈述一个条件来这样做的——该条件之真足以推出“*B*”之真。在这种情形下，我们还可以进一步主张，“*B*”反过来标示“*A*”的一个必然结果，即 *B* 之真为 *A* 之真提供了一个必要条件（Gomes 2009, 377–9）[^gomes-2009]。值得注意的是，Crupi 与 Iacona 的证据条件句同样保住逆否，且他们把这当作其分析的独有特征，依据是对“提供证据”即“支持”的理解（Crupi and Iacona 2020 第 6 节）[^crupi-2020]。在他们看来，若索朗日的到场为研讨班很好提供了证据（见上面的 (xiii)），那么研讨班不好就是索朗日缺席的证据。因此，他们——与 Gomes (2019) 一样——拒绝 Downing (1975) 对逆否推理的一般怀疑论。Wilson 则相反，他论证研讨班不好也可能是不出席的原因性理由；但他声称，这“只保住了逆否推理的表象”（Wilson 1979, 274–5）[^wilson-1979]。
+  - id: 58
+    kind: body
+    source: |-
+      While it is possible to distinguish these different roles the “if” clause may play (there may be others too), it is not always easy to isolate them in every case. The appeal to “reasons why” and “reasons for thinking” enables us to identify what seem to be ambiguities both in the word “if” and in the terminology of necessary and sufficient conditions. Unfortunately, the concept of *what is explanatory* itself may be too vague to be very helpful here, for we can explain a phenomenon by citing a reason for thinking it is the case, or by citing a reason why it is the case. A similar vagueness infests the word “because”, as we see below. Consider, for example, cases where mathematical, physical or other laws are involved (one *locus classicus* for this issue is Sellars 1948)[^sellars-1948]. The truth of “that figure is a polygon” is sufficient for inferring “the sum of that figure’s exterior angles is 360 degrees”. Likewise, from “the sum of the figure’s exterior angles is not 360 degrees” we can infer “the figure is not a polygon”. Such inferences are not trivial. Rather they depend on geometrical definitions and mathematical principles, and so this is a case of mathematically necessary and sufficient conditions. But it appears quite plausible that mathematical results also give us at least a reason for thinking that because a figure is a polygon its exterior angles will sum to 360 degrees. We may even be able to think of contexts in which someone claims that a figure’s being a polygon is a reason why its exterior angles sum to 360 degrees. And it might not be unnatural for someone to remark that a certain figure is a polygon because its exterior angles sum to 360 degrees.
+    step1: |-
+      虽然可以区分“if”从句可能扮演的这些不同角色（也许还有别的角色），但在每个情形中都把它们分离出来并不总是容易。诉诸“原因性理由”与“证据性理由”，使我们能够识别出“if”一词与必要、充分条件术语中似乎存在的歧义。遗憾的是，*什么是解释性的*这一概念本身可能过于含混而帮助不大，因为我们既可以通过援引一个证据性理由来解释一个现象，也可以通过援引一个原因性理由来解释它。类似的含混也缠着“因为”一词，如下文所示。例如，考虑涉及数学、物理学或其他定律的情形（这一问题的一处经典出处[*locus classicus*]见 Sellars 1948）[^sellars-1948]。“那个图形是多边形”之真，足以推出“该图形外角之和为 360 度”。同样，从“该图形外角之和不是 360 度”可以推出“该图形不是多边形”。这类推理并非琐屑；它们依赖于几何定义与数学原理，因此这是数学性必要条件与充分条件的情形。但以下情形同样貌似可信：数学结果也至少给了我们一个证据性理由，让我们认为由于图形是多边形，其外角之和将为 360 度。我们甚至可以设想这样的语境：有人主张图形是多边形，是其外角之和为 360 度的原因性理由。而且，某人说一个图形是多边形，因为它外角之和为 360 度，也未必不自然。
+    step2: |-
+      尽管可以区分“if”从句的这些不同角色（或许还有别的），但并非在每一情形里都容易把它们剥离开来。诉诸“原因性理由”与“证据性理由”，我们能识别出“if”一词与必要、充分条件术语中似乎存在的歧义。遗憾的是，*何为解释性* 这一概念本身可能太过含混，帮不上大忙：我们既可援引证据性理由来解释一个现象，也可援引原因性理由来解释它。“因为”一词同样染有类似的含混，下文可见。例如，考虑涉及数学、物理学或其他定律的情形（这一问题的一处经典出处[*locus classicus*]见 Sellars 1948）[^sellars-1948]。“那个图形是多边形”为真，便足以推出“该图形外角之和为 360 度”；同样，从“该图形外角之和不是 360 度”可推出“该图形不是多边形”。这类推理并非琐屑，它们依赖几何定义与数学原理，因此属于数学性的必要与充分条件。但下面这一点同样可信：数学结果至少为我们提供了一个证据性理由，让我们认定：正因为该图形是多边形，其外角之和才为 360 度。我们甚至可以设想有人主张：该图形是多边形，这一点是其外角之和为 360 度的原因性理由。而若有人说“这个图形之所以是多边形，是因为它外角之和为 360 度”，也未必不自然。
+  - id: 59
+    kind: body
+    source: |-
+      A similar point holds for the theory of knowledge where it is generally held that if I know that *p*, then *p* is true (see the entry on the analysis of knowledge). The truth of *p* is a necessary condition of knowing that *p*, according to such accounts. In saying this we do not rule out claims stronger than simply saying that the truth of *p* follows from the fact that we know that *p*. That a belief is true—for example—may be (part of) a reason for thinking it constitutes knowledge. Other cases involve inferences licensed by physics, biology and the natural sciences—inferences that will involve causal or nomic conditions. Again there is need for care in determining whether *reason why* or *reason for thinking* relations are being stated. The increase of mean kinetic energy of its molecules does not just imply that the temperature of a gas is rising but also provides a reason why the temperature is increasing. However, if temperature is just one way of measuring mean molecular kinetic energy, then a change in temperature will be a reason for thinking that mean kinetic energy of molecules has changed, not a reason why it has changed.
+    step1: |-
+      类似的要点也适用于知识论：人们通常认为，如果我知道 *p*，则 *p* 为真（见知识分析词条）。按照这类说明，*p* 之真是知道 *p* 的必要条件。这样说时，我们并不排除比“*p* 之真得自我们知道 *p*”更强的主张。例如，一个信念为真，可以是认为它构成知识的一个（部分的）理由。另一些情形涉及物理学、生物学与自然科学所准许的推理——这些推理将涉及因果或律则条件。这里同样需要小心判断所陈述的是*原因性理由*关系还是*证据性理由*关系。分子平均动能的增加不只是蕴涵气体温度在升高，还为温度升高提供了原因性理由。然而，如果温度只是测量分子平均动能的一种方式，那么温度的变化将是分子平均动能已变化的证据性理由，而非其变化的原因性理由。
+    step2: |-
+      类似的要点也适用于知识论：人们普遍认为，如果我知道 *p*，则 *p* 为真（见知识分析词条）。按这类说明，*p* 之真是知道 *p* 的必要条件。这样说不排除更强的主张——比“*p* 之真得自我们知道 *p*”更强。例如，一个信念为真，可以算作它构成知识的（一部分）理由。另一些情形涉及物理学、生物学与自然科学准许的推理——其中会涉及因果条件或律则条件。这里同样要小心判断：所陈述的是 *原因性理由* 关系，还是 *证据性理由* 关系。分子平均动能的增加不只是蕴涵气体温度在升高，还为温度的升高提供了原因性理由。然而，如果温度不过是测量分子平均动能的一种方式，那么温度的变化就是“分子平均动能已变化”的证据性理由，而非其变化的原因性理由。
+  - id: 60
+    kind: body
+    source: |-
+      As mentioned at the start of the article, the specification of necessary and sufficient conditions has traditionally been part of the philosopher’s business of analysis of terms, concepts and phenomena. Philosophical investigations of knowledge, truth, causality, consciousness, memory, justice, altruism and a host of other matters do not aim at stating evidential or explanatory relations, but rather at identifying and developing conceptual ones (see Jackson 1998 for a detailed account of conceptual analysis, and the supplementary entry on conceptions of analysis in analytic philosophy for an overview)[^jackson-1998]. But even here, the temptation to look for *reasons why* or *reasons for thinking that* is not far away. While conceptual analysis, like dictionary definition, eschews evidential and explanatory conditions, evidential conditions seem to be natural consequences of definition and analysis. That Nellie is an elephant may not be a (or the) reason why she is an animal, any more than that a figure is a square is a reason why it has four sides. But some evidential claims seem to make sense even in such contexts: being an elephant apparently gives a reason for thinking that Nellie is an animal, and a certain figure may be said to have four sides because it is a square, in an evidential sense of “because”.
+    step1: |-
+      如文章开头所说，规定必要与充分条件，传统上是哲学家分析术语、概念与现象的业务之一。对知识、真理、因果性、意识、记忆、正义、利他主义以及一大堆其他问题的哲学研究，并不以陈述证据关系或解释关系为目标，而是以识别与发展概念关系为目标（概念分析的详细说明见 Jackson 1998；概览见分析哲学中的分析概念补充词条）[^jackson-1998]。但即使在这里，寻找*原因性理由*或*证据性理由*的诱惑也并不遥远。概念分析与词典定义一样，回避证据条件与解释条件；但证据条件似乎是定义与分析的自然后果。奈莉是一头大象，或许并不是她是一个动物的原因性理由（或那个原因性理由），正如一个图形是正方形并不是它有四条边的原因性理由。但有些证据主张即便在此类语境中似乎也讲得通：是一头大象显然给出了奈莉是一个动物的证据性理由；而某个图形可以说有四条边，因为它是一个正方形——这是“因为”的证据性意义。
+    step2: |-
+      如开头所说，规定必要与充分条件，传统上是哲学家分析术语、概念与现象这份营生的一部分。对知识、真理、因果性、意识、记忆、正义、利他主义等诸多问题的哲学研究，并不以陈述证据关系或解释关系为目标，而是要识别并发展概念关系（概念分析的详尽阐述见 Jackson 1998；概览见补充词条“分析哲学中的分析概念”）[^jackson-1998]。但即使在这里，寻找 *原因性理由* 或 *证据性理由* 的诱惑也相去不远。概念分析与词典定义一样回避证据条件与解释条件；然而证据条件似乎又是定义与分析的自然产物。奈莉是一头大象，或许并不是“她是一个动物”的原因性理由（或那个原因性理由），正如图形是正方形并不是“它有四条边”的原因性理由。但有些证据主张即便在这类语境中也说得通：是一头大象，显然给出奈莉是动物的证据性理由；而某个图形之所以有四条边，可以说是因为它是正方形——这里取的是“因为”的证据性意义。
+  - id: 61
+    kind: body
+    source: |-
+      To specify the necessary conditions for the truth of the sentence “that figure is a square” is to specify a number of conditions including “that figure has four sides”, “that figure is on a plane”, and “that figure is closed”. If any one of these latter conditions is false, then the sentence “that figure is a square” is also false. Conversely, the truth of “that figure is a square” is a sufficient condition for the truth of “that figure is closed”. The inferential relations in this case are modelled—even if inadequately—by an operator such as hook.
+    step1: |-
+      规定“那个图形是正方形”为真的必要条件，就是规定包括“该图形有四条边”“该图形位于一个平面上”“该图形是封闭的”在内的一批条件。如果这些条件中任何一个为假，则“那个图形是正方形”也为假。反过来，“那个图形是正方形”之真，是“该图形是封闭的”之真的充分条件。这一情形中的推理关系——纵然不充分地——由蹄铁算子这样的算子所模拟。
+    step2: |-
+      要规定“那个图形是正方形”为真的必要条件，就要规定一批条件，其中包括“该图形有四条边”“该图形位于一个平面上”“该图形是封闭的”。这些条件中任何一个为假，“那个图形是正方形”便随之而假。反过来，“那个图形是正方形”之真，是“该图形是封闭的”之真的充分条件。这里涉及的推理关系，由蹄铁算子这类算子来模拟——哪怕模拟得并不充分。
+  - id: 62
+    kind: body
+    source: |-
+      Now consider a previous example—that of memory. That Penelope remembers something—according to a standard account of memory—means (among other things) that the thing remembered was in the past, and that some previous episode involving Penelope plays an appropriate causal role in her present recall of the thing in question. It would be a mistake to infer from the causal role of some past episode in Penelope’s current remembering, that the definition of memory itself involves conditions that are explanatory in the *reason why* sense. That Penelope now remembers some event is not a reason why it is in the past. Nor is it a reason for thinking that it is in the past. Rather, philosophical treatments of memory seek for conditions that are *a priori* constitutive of the truth of such sentences as “Penelope remembers doing *X*”. The uncovering of such conditions simply provides insight into whether, and how, “remember” is to be defined. *Reason why* and *reason for thinking that* conditions seem not to play a role in this part of the philosopher’s enterprise.
+    step1: |-
+      现在考虑前面的一个例子——记忆。按照对记忆的标准说明，佩内洛普记得某事，意味着（除其他外）被记的事情在过去，并且某个先前涉及佩内洛普的事件片段在她当下对该事的回忆中扮演了适当的因果角色。由某个过去事件片段在佩内洛普当下回忆中的因果角色，推出记忆的定义本身包含*原因性理由*意义上的解释性条件，会是错误的。佩内洛普现在记得某个事件，并不是它在过去的原因性理由，也不是它过去的证据性理由。毋宁说，对记忆的哲学处理，寻找的是对“佩内洛普记得做过 *X*”这类语句之真*先验*构成性的条件。揭示这类条件，只是为了洞察“remember”是否以及如何被定义。*原因性理由*与*证据性理由*条件似乎在哲学事业的这一部分不起作用。
+    step2: |-
+      再看前面的一个例子——记忆。按对记忆的标准说明，佩内洛普记得某事，这意味着（除别的之外）两点：被记之事发生在过去；某个先前涉及佩内洛普的事件片段，在她当下回忆该事时扮演了适当的因果角色。若由某个过去片段在佩内洛普当下回忆中的因果角色，推出记忆的定义本身就包含 *原因性理由* 意义上的解释性条件，那就错了。佩内洛普现在记得某个事件，既不是该事件在过去的原因性理由，也不是其证据性理由。毋宁说，对记忆的哲学处理，寻找的是对“佩内洛普记得做过 *X*”这类语句之真具有 *先验* 构成性的条件。揭示这类条件，为的只是弄清“remember”是否可定义、又如何定义。*原因性理由* 与 *证据性理由* 条件，似乎在哲学家这项事业的那一部分里并无用武之地。
+  - id: 63
+    kind: body
+    source: |-
+      Finally, it should be noted that not all conditional sentences primarily aim at giving either necessary or sufficient conditions. A common case involves what might be called *jocular conditionals*. A friend of Octavia’s mistakenly refers to “Plato’s *Critique of Pure Reason*” and Octavia says, “If Plato wrote the *Critique of Pure Reason*, then I’m Aristotle”. Rather than specifying conditions, Octavia is engaging in a form of *reductio* argument. Since it is obvious that she is not Aristotle, her joke invites the listener to infer (by contraposition) that Plato did not write the *Critique of Pure Reason*. Another case is the so-called *concessive conditional,* where the antecedent does not appear to be a condition on the consequent of even an inferential kind. Suppose we plan on having picnic and hope it will be sunny. But *even if* rain comes, we will still go. In such a case it does not seem plausible to maintain that the threat of rain provides any condition at all on accepting the consequent. Such concessive conditionals do not admit of contraposition (Crupi and Iacona 2022, and compare Gomes 2020)[^crupi-2022][^gomes-2020]. Others have argued that in cases where a conditional construction does not appear to be putting forward any genuine conditions, these are “nonconditional” conditionals (Geis and Lycan 1993)[^geis-1993]—in other words they may just be disguised affirmations.
+    step1: |-
+      最后应当指出，并非所有条件句都以给出必要或充分条件为主要目的。一个常见情形涉及所谓的*玩笑式条件句*。奥克塔维娅的一位朋友误称“柏拉图的《纯粹理性批判》”，奥克塔维娅说：“如果柏拉图写了《纯粹理性批判》，那我就是亚里士多德了。”奥克塔维娅并不是在规定条件，而是在进行一种归谬（*reductio*）论证。既然她显然不是亚里士多德，她的玩笑就邀请听者（通过逆否）推出柏拉图并没有写《纯粹理性批判》。另一情形是所谓的*让步条件句*：前件甚至不表现为后件的推论性条件。设想我们计划野餐并希望天晴。但*即使*下雨，我们仍然会去。在这种情形中，断言下雨的威胁为接受后件提供了任何条件，似乎难以成立。这类让步条件句不容许逆否（Crupi and Iacona 2022；并比较 Gomes 2020）[^crupi-2022][^gomes-2020]。另一些作者则论证：在条件句构造并未提出任何真正条件的情形中，这些是“非条件性”条件句（Geis and Lycan 1993）[^geis-1993]——换句话说，它们也许只是伪装的断言。
+    step2: |-
+      最后应当指出：并非所有条件句都以给出必要或充分条件为主要目的。一个常见情形，涉及所谓的 *玩笑式条件句*。奥克塔维娅的一位朋友误称“柏拉图的《纯粹理性批判》”，奥克塔维娅便说：“如果柏拉图写了《纯粹理性批判》，那我就是亚里士多德了。”奥克塔维娅并非在规定条件，而是在玩一种归谬（*reductio*）论证。她显然不是亚里士多德，于是这个玩笑邀请听者（经由逆否）推出：柏拉图并没有写《纯粹理性批判》。另一情形是所谓的 *让步条件句*：前件甚至不构成后件的推论性条件。设想我们打算野餐，盼着天晴；但 *即使* 下雨，我们照样去。在这种情形里，要说下雨的威胁为接受后件提供了任何条件，似乎难以成立。这类让步条件句不容许逆否（Crupi and Iacona 2022；并比较 Gomes 2020）[^crupi-2022][^gomes-2020]。另一些作者则主张：当条件句构造并未真正提出条件时，它们是“非条件性”条件句（Geis and Lycan 1993）[^geis-1993]——换言之，它们或许只是伪装起来的断言。
+  - id: 64
+    kind: body
+    source: |-
+      ## 5. Conclusion
+    step1: |-
+      ## 5 结语
+    step2: |-
+      ## 5 结语
+  - id: 65
+    kind: body
+    source: |-
+      Given the different roles for “if” just identified, it is hardly surprising that generalisations about necessary and/or sufficient conditions are hard to formulate. Suppose, for example, someone tries to state a sufficient condition for a seminar being good in a context where the speaker and all the listeners share the view that Solange’s presence is a reason why seminars would be good. In this case, Solange’s presence might be said to be a sufficient condition of the seminar being good in the sense that her presence is a reason why it is good. Now, is there a similar sense in which the goodness of the seminar is a necessary condition of Solange’s presence? The negative answer to this question is already evident from the earlier discussion. If we follow von Wright’s proposal, mentioned above, we get the following result: that the seminar is not good is a sufficient condition of Solange not being present. But this cannot plausibly be read as a sufficient condition in anything like the sense of a reason why. At most, the fact of the seminar not being a good one may be a reason for thinking that Solange was not at it. So how can we tell, in general, what kind of condition is being expressed in an “if” sentence? As noted in the case of the sea battle, when rewriting in the formal mode captures the sense of what is being said, and when the formulations “if *p*, *q*” and “*p* only if *q*” seem idiomatically equivalent, then an inferential interpretation will be in order, von Wright’s equivalences will hold, and the material conditional gives a reasonable account of such cases. As indicated above, there are limitations to such an approach and it provides at best a partial account of the circumstances under which conditional sentences express necessary or sufficient conditions.
+    step1: |-
+      鉴于刚刚识别出的“if”的不同角色，关于必要和/或充分条件的一般概括难以作出，也就不足为奇了。例如，设想有人试图在如下语境中陈述研讨班很好的充分条件：讲者与所有听者都持这样的看法——索朗日的到场是研讨班会好的原因性理由。在这种情形中，可以说索朗日的到场是研讨班很好的充分条件，其意义是她的到场是它很好的原因性理由。那么，是否存在类似的意义，使研讨班很好成为索朗日到场的必要条件？这个问题的否定答案从先前的讨论中已经明显。如果我们遵循上文提到的 von Wright 的提案，会得到如下结果：研讨班不好是索朗日不到场的充分条件。但这无法在类似原因性理由的意义上被合理地读作充分条件。充其量，研讨班不好这一事实可以是认为索朗日不在场的一个证据性理由。那么，一般而言，我们如何能分辨一个“if”句表达的是哪种条件？正如海战情形所指出的：当形式说话方式的改写捕捉了所说内容的意义，且当“如果 *p*，则 *q*”与“*p* 仅当 *q*”这两个表述在习语上显得等值时，推论性解读便是恰当的，von Wright 的等值式将成立，而实质条件句对此类情形给出了合理的说明。如上文所示，这一进路有其限度，它至多只部分说明了条件句在哪些情形中表达必要或充分条件。
+    step2: |-
+      鉴于刚刚辨明的“if”的种种角色，关于必要和／或充分条件难以给出一般概括，也就不足为奇了。例如，设想有人在如下语境中试着陈述“研讨班很好”的充分条件：讲者与全体听众都同意，索朗日的到场是研讨班会好的原因性理由。此时可以说，索朗日的到场是“研讨班很好”的充分条件，意即她到场本身就是研讨班好的原因性理由。那么，有没有类似的意义，使“研讨班很好”成为索朗日到场的必要条件？否定的答案，先前的讨论已经摆明。若依上文 von Wright 的提案，会得到这样的结果：研讨班不好是索朗日不到场的充分条件。但这无论如何读不出“原因性理由”意义上的充分条件。充其量，“研讨班不好”可以算是“索朗日不在场”的一个证据性理由。那么，一般而论，我们如何分辨一个“if”句表达的究竟是哪种条件？正如海战情形所示：当形式说话方式的改写捕捉了所说内容的意义，而“如果 *p*，则 *q*”与“*p* 仅当 *q*”两种表述在习语上显得等值时，取推论性解读便是恰当的；von Wright 的等值式将成立，实质条件句对此类情形也给出了合理的说明。如前所示，这一进路有其限度：它至多部分地说明了条件句在哪些情形里表达必要或充分条件。
+  - id: 66
+    kind: body
+    source: |-
+      As already noted, even the inferential use of “if” is not always associated primarily with the business of stating necessary and sufficient conditions. This observation, together with the cases and distinctions mentioned in the present article, shows the need for caution when we move from natural language conditionals to analysis of them in terms of necessary and sufficient conditions, and also the need for caution in modelling the latter conditions by means of formal operators. It appears that there are several kinds of conditionals, and correspondingly several kinds of conditions. As the developments outlined above have shown, there are as a result several formal schemes for translating and making sense of the variety of conditionals used in natural language and the conditions, if any, that they express.
+    step1: |-
+      如前所述，即使是“if”的推论性用法，也并不总是首先与陈述必要与充分条件这件事相关。这一观察，连同本文提到的种种情形与区分，表明我们在从自然语言条件句转向以必要与充分条件对它们进行分析时需要谨慎，在用形式算子为后一类条件建模时也需要谨慎。看来存在若干种条件句，相应地也有若干种条件。正如上文勾画的发展所表明的，其结果是有若干种形式方案，用来翻译并理解自然语言中使用的形形色色的条件句，以及它们（如果有）所表达的条件。
+    step2: |-
+      如前所述，即便“if”的推论性用法，也并不总是首先与陈述必要、充分条件这件事相关。这一观察，连同本文提到的种种情形与区分，提醒我们两处谨慎：从自然语言条件句转向以必要与充分条件对其作分析时，以及用形式算子为后一类条件建模时。看来条件句有若干种，相应地条件也有若干种。正如上文勾画的发展所示，其结果是有若干套形式方案，用来翻译并理解自然语言里形形色色的条件句，以及它们（如果有）所表达的条件。
+  - id: 67
+    kind: oir
+    source: |-
+      - Held, Carsten, 2016. [Conditions](http://philsci-archive.pitt.edu/12164/), download from philsci-archive.pitt.edu/12164.
+      - [The Concepts of Necessary and Sufficient Conditions](http://www.sfu.ca/philosophy/swartz/conditions1.htm), maintained by Norman Swartz, Philosophy, Simon Fraser University.
+    step1: |-
+      - Held, Carsten, 2016. [Conditions](http://philsci-archive.pitt.edu/12164/)（《条件》），可从 philsci-archive.pitt.edu/12164 下载。
+      - [必要条件与充分条件的概念](http://www.sfu.ca/philosophy/swartz/conditions1.htm)，由西蒙弗雷泽大学哲学系的 Norman Swartz 维护。
+    step2: |-
+      * Held, Carsten, 2016. [Conditions](http://philsci-archive.pitt.edu/12164/)（《条件》），可从 philsci-archive.pitt.edu/12164 下载。
+      * [必要条件与充分条件的概念](http://www.sfu.ca/philosophy/swartz/conditions1.htm)，由西蒙弗雷泽大学哲学系的 Norman Swartz 维护。
+  - id: 68
+    kind: ack
+    source: |-
+      I am grateful to Richard Borthwick, Jake Chandler, Laurence Goldstein, Fred Kroon, Y.S. Lo, Jesse Alama, Edward Zalta and Uri Nodelman for their generous help and advice relating to this entry.
+    step1: |-
+      我感谢 Richard Borthwick、Jake Chandler、Laurence Goldstein、Fred Kroon、Y.S. Lo、Jesse Alama、Edward Zalta 与 Uri Nodelman 就本词条给予的慷慨帮助与建议。
+    step2: |-
+      感谢 Richard Borthwick、Jake Chandler、Laurence Goldstein、Fred Kroon、Y.S. Lo、Jesse Alama、Edward Zalta 与 Uri Nodelman 就本词条给予的慷慨帮助与建议。
