@@ -253,104 +253,138 @@ segments:
     kind: body
     source: |-
       Towards the end of his *Address on the Unity of Knowledge*, delivered at the 1954 Columbia University bicentennial celebrations, Weyl enumerates what he considers to be the essential constituents of knowledge. At the top of his list[^note-7] comes
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 1954 年哥伦比亚大学二百周年庆典上发表的《知识的统一》讲演临近结尾时，外尔列举了他视为知识之本质构成要素的东西。在他清单的首位[^note-7]是
+    step2: |-
+      1954 年，外尔在哥伦比亚大学二百周年庆典上发表《论知识的统一》一文；讲演近尾，他列举了自己心目中的知识之本源要素。清单之首[^note-7]为
   - id: 31
     kind: body
     source: |-
       > …intuition, mind’s ordinary act of seeing what is given to it. (Weyl 1954, 629)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……直观，即心智看见被给予它的东西的寻常活动。（Weyl 1954, 629）
+    step2: |-
+      > ……直观，即心智看见所予之物的寻常之举。（Weyl 1954, 629）
   - id: 32
     kind: body
     source: |-
       In particular Weyl held to the view that intuition, or *insight*—rather than *proof*—furnishes the ultimate foundation of *mathematical* knowledge. Thus in his *Das Kontinuum* of 1918 he says:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      特别是，外尔坚持这一观点：为*数学*知识提供终极基础的是直观、或曰*洞见*，而非*证明*。因此，在他 1918 年的《连续统》中他说：
+    step2: |-
+      尤其是，外尔坚持：为*数学*知识奠定最终基础者是直观即*洞见*，而非*证明*。故其 1918 年《连续统》有言：
   - id: 33
     kind: body
     source: |-
       > In the Preface to Dedekind (1888) we read that “In science, whatever is provable must not be believed without proof.” This remark is certainly characteristic of the way most mathematicians think. Nevertheless, it is a preposterous principle. As if such an indirect concatenation of grounds, call it a proof though we may, can awaken any “belief” apart from assuring ourselves through immediate insight that each individual step is correct. In all cases, this process of confirmation—and not the proof—remains the ultimate source from which knowledge derives its authority; it is the “experience of truth”. (Weyl 1987, 119)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 在戴德金（1888）的序言中我们读到：“在科学中，凡可证明者，皆不得未经证明而被相信。”这一评语当然是多数数学家思维方式的特征。然而它是一个荒谬的原则。仿佛这样一种间接的理由串联——我们尽可称之为证明——除了通过直接洞见向我们保证每一个别步骤正确之外，还能唤起任何“相信”。在一切情形中，正是这一确认过程——而非证明——始终是知识从中获得权威的最终源泉；它是“真理的体验”。（Weyl 1987, 119）
+    step2: |-
+      > 在戴德金（1888）的序言里我们读到：“在科学中，凡可证明者，皆不可未经证明而信之。”此语确实道出了多数数学家的思维特征。然而它是个悖理的原则。仿佛这样一条间接的理由链——我们不妨称之为证明——除了凭直接洞见向我们保证每个个别步骤正确之外，还能唤起任何“相信”。在一切情形中，正是这一确认过程——而非证明——始终是知识获取权威的最终源泉；它是“真理的体验”。（Weyl 1987, 119）
   - id: 34
     kind: body
     source: |-
       Weyl’s idealism naturally inclined him to the view that the ultimate basis of his own subject, mathematics, must be found in the intuitively given as opposed to the transcendent. Nevertheless, he recognized that it would be unreasonable to require all mathematical knowledge to possess intuitive immediacy. In *Das Kontinuum*, for example, he says:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔的唯心论自然使他倾向于这样的看法：他自己所属的学科即数学的最终基础，必须到直观地被给予者而非超越者中去寻找。然而他也认识到，要求一切数学知识都具有直观的直接性将是不合理的。例如，在《连续统》中他说：
+    step2: |-
+      外尔的唯心论自然令他倾向于这一看法：数学——他自己所属的学科——之最终基础须求诸直观所予，而非超越者。但他也明白，若要求一切数学知识皆具直观的直接性，便不合情理。例如《连续统》中他写道：
   - id: 35
     kind: body
     source: |-
       > The states of affairs with which mathematics deals are, apart from the very simplest ones, so complicated that it is practically impossible to bring them into full givenness in consciousness and in this way to grasp them completely. (*Ibid*., 17)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 数学所处理的事态，除最最简单者外，都如此复杂，以致实际上不可能把它们带入意识中的完全被给予性，并以此方式完全把握它们。（*同上*，17）
+    step2: |-
+      > 数学所处理的事态，除最最单纯者外，皆复杂至极，实际上无法使它们在意识中获得完全的所予性，从而被完整把握。（*同上*，17）
   - id: 36
     kind: body
     source: |-
       Nevertheless, Weyl felt that this fact, inescapable as it might be, could not justify extending the bounds of mathematics to embrace notions, such as the actual infinite, which cannot be given fully in intuition even in principle. He held, rather, that such extensions of mathematics into the transcendent are warranted only by the fact that mathematics plays an indispensable role in the physical sciences, in which intuitive evidence is necessarily transcended. As he says in The Open World[^note-8]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，外尔觉得这一事实尽管不可避免，却不能成为把数学的疆界扩展到诸如实无限这类即便在原则上也无法在直观中被完整给予的概念上去的理由。他毋宁主张，数学向超越领域的此类扩展，唯有凭靠如下事实才得到辩护：数学在物理科学中扮演着不可或缺的角色，而在物理科学中，直观明见性必然被超越。正如他在《开放的世界》中所说[^note-8]：
+    step2: |-
+      然而外尔认为，这一事实纵然无可逃避，却不足以成为把数学的疆域扩张到实无限之类概念的理由——这类概念即使在原则上也无法在直观中被完整给予。他毋宁主张：数学向超越领域的此类延伸，只因为数学在物理科学中不可或缺，才获得辩护，而物理科学中直观明证性必被超越。其《开放的世界》有言[^note-8]：
   - id: 37
     kind: body
     source: |-
       > … if mathematics is taken by itself, one should restrict oneself with Brouwer to the intuitively cognizable truths … nothing compels us to go farther. But in the natural sciences we are in contact with a sphere which is impervious to intuitive evidence; here cognition necessarily becomes symbolical construction. Hence we need no longer demand that when mathematics is taken into the process of theoretical construction in physics it should be possible to set apart the mathematical element as a special domain in which all judgments are intuitively certain; from this higher standpoint which makes the whole of science appear as one unit, I consider Hilbert to be right. (Weyl 1932, 82).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……若就数学本身而言，人应当随布劳威尔而止于直观上可认知的真理……并无任何东西迫使我们走得更远。但在自然科学中，我们接触的是一个不为直观明见性所穿透的领域；在此，认知必然成为符号建构。因此，我们不再需要要求：当数学被纳入物理学中的理论建构过程时，其数学要素应能被单独划出，成为一个其中一切判断都直观确定的特殊领域；从这一更高的立场——它使整个科学显现为一个统一体——看，我认为希尔伯特是对的。（Weyl 1932, 82）
+    step2: |-
+      > ……若单就数学而言，人当随布劳威尔而止于直观可认知的真理……并无何物迫使我们越出此界。然而在自然科学中，我们所接触的是一个不透直观明证的领域；在此，认知必然转为符号建构。因此我们无需再要求：数学一旦进入物理学的理论建构过程，其数学成分便应可被单独析出，成为一个一切判断皆直观确定的特殊领域；从这一更高立场——它令整个科学呈现为一个统一体——看，我认为希尔伯特是正确的。（Weyl 1932, 82）
   - id: 38
     kind: body
     source: |-
       In *Consistency in Mathematics* (1929), Weyl characterized the mathematical method as
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《数学中的一致性》（1929）中，外尔把数学方法刻画为
+    step2: |-
+      在《数学中的一致性》（1929）中，外尔将数学方法刻画为
   - id: 39
     kind: body
     source: |-
       > the a priori construction of the possible in opposition to the a posteriori description of what is actually given.[^note-9]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 对可能者的先验建构，与之相对的是对实际所予者的后验描述。[^note-9]
+    step2: |-
+      > 对可能者作先天的建构，以对立于对实际所予者作后验的描述。[^note-9]
   - id: 40
     kind: body
     source: |-
       The problem of identifying the limits on constructing “the possible” in this sense occupied Weyl a great deal. He was particularly concerned with the concept of the mathematical *infinite*, which he believed to elude “construction” in the naive set-theoretical sense [^note-10]. Again to quote a passage from *Das Kontinuum:*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      界定此种意义上的“可能者”之建构界限这一问题，耗费了外尔大量心力。他尤为关心数学*无限*这一概念，他相信它在朴素集合论意义上逃逸于“建构”之外[^note-10]。再引《连续统》中的一段：
+    step2: |-
+      如何划定此种意义上“可能者”之建构界限，这一问题耗去外尔许多心力。他尤其关切数学的*无限*概念，认为它在朴素集合论意义上逃逸于“建构”之外[^note-10]。再引《连续统》一段：
   - id: 41
     kind: body
     source: |-
       > No one can describe an infinite set other than by indicating properties characteristic of the elements of the set…. The notion that a set is a “gathering” brought together by infinitely many individual arbitrary acts of selection, assembled and then surveyed as a whole by consciousness, is nonsensical; “inexhaustibility” is essential to the infinite. (Weyl 1987, 23)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 除了指明集合元素所特有的性质之外，没有人能描述一个无限集合……认为集合是由无穷多个个别任意的选择行为所“聚集”而成、被组装起来并被意识作为一个整体加以审视，这种想法是无意义的；“不可穷尽性”对无限而言是本质性的。（Weyl 1987, 23）
+    step2: |-
+      > 除指明集合诸元素所特有的性质之外，无人能描述一个无穷集合……至于认为集合乃由无穷多个别而任意的选取行为所“聚拢”、组装之后由意识作整体审视，此种观念纯属无稽；“不可穷尽性”于无限乃本质所在。（Weyl 1987, 23）
   - id: 42
     kind: body
     source: |-
       But still, as Weyl attests towards the end of *The Open World*, “the demand for totality and the metaphysical belief in reality inevitably compel the mind to represent the infinite as closed being by symbolical construction”. The conception of the completed infinite, even if nonsensical, is inescapable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但尽管如此，正如外尔在《开放的世界》末尾所申言，“对总体性的要求与对实在的形而上学信念，不可避免地迫使心智通过符号建构把无限表象为封闭的存在”。完成了的无限这一观念，即便无意义，也不可避免。
+    step2: |-
+      尽管如此，如外尔在《开放的世界》近尾所申言：“对总体性的需求与对实在的形而上学信念，不可避免地迫使心智借符号建构把无限表象为已封闭的存在。”完成了的无限这一观念纵属无稽，亦不可避。
   - id: 43
     kind: body
     source: |-
       ### 3.1 *Das Kontinuum*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 《连续统》
+    step2: |-
+      ### 3.1 《连续统》
   - id: 44
     kind: body
     source: |-
       Another mathematical “possible” to which Weyl gave a great deal of thought is the *continuum*. During the period 1918–1921 he wrestled with the problem of providing the mathematical continuum—the real number line—with a logically sound formulation. Weyl had become increasingly critical of the principles underlying the set-theoretic construction of the mathematical continuum. He had come to believe that the whole set-theoretical approach involved vicious circles[^note-11] to such an extent that, as he says, “every cell (so to speak) of this mighty organism is permeated by contradiction.” In *Das Kontinuum* he tries to overcome this by providing analysis with a *predicative* formulation—not, as Russell and Whitehead had attempted, by introducing a hierarchy of logically ramified types, which Weyl seems to have regarded as excessively complicated—but rather by confining the comprehension principle to formulas whose bound variables range over just the initial given entities (numbers). Accordingly he restricts analysis to what can be done in terms of natural numbers with the aid of three basic logical operations, together with the operation of substitution and the process of “iteration”, i.e., primitive recursion. Weyl recognized that the effect of this restriction would be to render unprovable many of the central results of classical analysis—e.g., Dirichlet’s principle that any bounded set of real numbers has a least upper bound[^note-12]—but he was prepared to accept this as part of the price that must be paid for the security of mathematics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔反复思考的另一个数学“可能者”是*连续统*。1918—1921 年间，他为如何给数学连续统——实数直线——提供一种逻辑上可靠的表述而苦苦挣扎。外尔对数学连续统之集合论建构所依据的那些原理日益持批评态度。他逐渐相信，整个集合论进路都含有恶性循环[^note-11]，程度之深到了如他所说“这一庞大有机体的每一个细胞（可以说）都渗透着矛盾”的地步。在《连续统》中，他试图通过为分析提供一种*直谓的*表述来克服这一点——不是像罗素与怀特海所尝试的那样引入逻辑分枝类型论的层级（外尔似乎认为那过于复杂），而是把概括原则限制在那些约束变元仅取值于初始被给予的实体（数）的公式上。据此，他把分析限制在借助三种基本逻辑运算、替换运算以及“迭代”过程（即原始递归）就自然数所能做到的范围之内。外尔承认，这一限制的后果将是使经典分析的许多核心结果无法被证明——例如狄利克雷原理，即任何有界实数集都有最小上界[^note-12]——但他准备接受这一点，作为为数学的安全性必须付出的部分代价。
+    step2: |-
+      外尔反复思量的另一数学“可能者”是*连续统*。1918—1921 年间，他为如何给数学连续统——实数直线——提供逻辑上可靠的表述而苦苦求索。他对数学连续统之集合论建构所依的原理日益不满，终至相信整个集合论进路都陷入恶性循环[^note-11]，如他所言，“这一庞大有机体的每一个细胞（可以说）都渗透着矛盾”。在《连续统》中，他试图为分析提供一种*直谓的*表述来克服此弊：他不是像罗素与怀特海那样引入逻辑分枝类型论的层级（外尔似觉其过于繁复），而是把概括原则限于约束变元只取值于初始所予实体（数）的公式。于是分析被限制于：以三种基本逻辑运算、替换运算以及“迭代”即原始递归，在自然数范围内所能成就者。外尔承认，如此限制将使经典分析的许多核心结果不可证——例如狄利克雷原理，即任一有界实数集皆有最小上界[^note-12]——但他甘愿以此作为换取数学之安全所付的代价。
   - id: 45
     kind: body
     source: |-
       As Weyl saw it, there is an unbridgeable gap between intuitively given continua (e.g. those of space, time and motion) on the one hand, and the “discrete” exact concepts of mathematics (e.g. that of natural number[^note-13]) on the other. The presence of this chasm meant that the construction of the mathematical continuum could not simply be “read off” from intuition. It followed, in Weyl’s view, that the mathematical continuum must be treated as if it were an element of the transcendent realm, and so, in the end, justified in the same way as a physical theory. It was not enough that the mathematical theory be *consistent*; it must also be *reasonable*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在外尔看来，直观地被给予的连续统（如空间、时间与运动的连续统）与数学的“离散的”精确概念（如自然数概念[^note-13]）之间，存在一道无法架桥的鸿沟。这一鸿沟的存在意味着，数学连续统的建构不能简单地从直观中“读出”。外尔由此得出结论：数学连续统必须被当作超越领域的一个要素来处理，因而最终要像物理理论一样得到辩护。数学理论仅仅*一致*还不够；它还必须是*合理的*。
+    step2: |-
+      在外尔看来，直观所予的连续统（如空间、时间与运动的连续统）与数学的“离散”精确概念（如自然数概念[^note-13]）之间横着一道无法弥合的鸿沟。有此鸿沟，数学连续统的建构便不能径直从直观中“读出”。外尔由此断言：数学连续统须被视作超越领域之一员，最终须像物理理论那样得到辩护；数学理论仅只*一致*尚不足够，还须*合理*。
   - id: 46
     kind: body
     source: |-
       *Das Kontinuum* embodies Weyl’s attempt at formulating a theory of the continuum which satisfies the first, and, as far as possible, the second, of these requirements. In the following passages from this work he acknowledges the difficulty of the task:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《连续统》体现了外尔为连续统构造一种理论、以尽可能满足上述第一项要求并尽量满足第二项要求所作的努力。在该书的以下段落中，他承认这项工作的困难：
+    step2: |-
+      《连续统》正是外尔为连续统构造理论的尝试，力求满足上述第一项要求、并尽可能满足第二项要求。书中下列段落中，他坦言此事之难：
   - id: 47
     kind: body
     source: |-
@@ -361,8 +395,22 @@ segments:
       > Exact time- or space-points are not the ultimate, underlying atomic elements of the duration or extension given to us in experience. On the contrary, only reason, which thoroughly penetrates what is experientially given, is able to grasp these exact ideas. And only in the arithmetico- analytic concept of the real number belonging to the purely formal sphere do these ideas crystallize into full definiteness. (*Ibid*., 94)
       >
       > When our experience has turned into a real process in a real world and our phenomenal time has spread itself out over this world and assumed a cosmic dimension, we are not satisfied with replacing the continuum by the exact concept of the real number, in spite of the essential and undeniable inexactness arising from what is given. (*Ibid*., 93)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……数学的概念世界与我们直观连续统所呈现给我们的东西如此隔膜，以致要求二者相合只能被视为荒谬。（Weyl 1987, 108）
+      >
+      > ……直观直接给予我们的连续性（在时间之流与运动之流中），还须按其内容中可被精确概念化的那一部分，被数学地把握为离散“阶段”的总体。（*同上*，24）[^note-14]
+      >
+      > 精确的时间点或空间点并不是经验中给予我们的绵延或广延之最终的、底层的原子要素。恰恰相反，唯有彻底穿透经验所予者的理性，才能把握这些精确观念。而这些观念也唯有在纯粹形式领域的算术—解析实数概念中才结晶为完全确定的东西。（*同上*，94）
+      >
+      > 当我们的经验已转变为真实世界中的真实过程、我们的现象时间已在这世界上铺展开来并具有宇宙的维度时，我们并不满足于以实数的精确概念去取代连续统——尽管由所予者而来的本质性的、不可否认的不精确性依然存在。（*同上*，93）
+    step2: |-
+      > ……数学的概念世界与直观连续统呈现于我们者相去如此之远，以致要求二者相合，只能目为荒谬。（Weyl 1987, 108）
+      >
+      > ……直观直接给予我们的连续性（在时间与运动之流中），尚须依其内容中可作精确概念化的那一部分，被数学地把握为离散“阶段”的总体。（*同上*，24）[^note-14]
+      >
+      > 精确的时间点或空间点，并不是经验中给予我们的绵延或广延之最终的、底层的原子要素。恰恰相反，唯有彻底穿透经验所予的理性方能把握这些精确观念；而它们也唯有在属于纯粹形式领域的算术—解析实数概念中，才结晶为完全确定者。（*同上*，94）
+      >
+      > 一旦我们的经验化为真实世界中的真实过程，我们的现象时间在这世界上铺展开来而获宇宙的维度，我们便不满足于用实数的精确概念来取代连续统——尽管由所予者而来的本质性、不可否认的不精确性依然如故。（*同上*，93）
   - id: 48
     kind: body
     source: |-
