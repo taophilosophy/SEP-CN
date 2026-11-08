@@ -66,6 +66,13 @@
       "actor": "ses-FGHIJK-main-1103",
       "at": "2026-11-04T18:28:19Z",
       "evidence": "done 收口：K 批直译第八条全周期（init→直译双版 137 段→守恒→compose 39186 字符→s1-s3→r1-r3→done）；主会话直译无子代理；复核人 ses-FGHIJK-main-1103（自译自校如实记）"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:14:39Z",
+      "evidence": "qa-rework（K 批接管对账，2026-11-08）：第 48 行 μ(*P**{α}) 四处加粗吞并型标记破损（源文 *P*_{α}）已改回 *P*_{α}；第 98 行残留英文 moreover 译为『而且，』、全角方括号［VC1 证明］(…) 改回标准 markdown 链接 [VC1 证明](…)；复跑 style 0、math 0/0、defs 69:69、markers 39:39、academic OK"
     }
   ],
   "blockers": [],
