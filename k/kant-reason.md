@@ -1,10 +1,6 @@
 # 康德对理性的论述 Kant’s Account of Reason (Garrath Williams)
 
-
-
 *首次发表于 2008 年 9 月 12 日；2023 年 1 月 4 日实质修订。*
-
-
 
 康德的哲学聚焦于理性的能力与界限。两个问题居于中心。在其理论哲学中，康德追问：推理能否给我们形而上学知识？具体说，理性能否像莱布尼茨与笛卡尔等“理性主义”哲学家所主张的那样，为“超越”（*meta*）物理世界的洞见奠基？在其实践哲学中，康德追问：理性能否指导行动并证成道德原则。“经验主义”哲学家主张，唯有情感能推动我们行动；理性不能。用休谟的著名话说：“理性是完全不活动的，它永远不能像良心或道德感那样，成为如此活动的一个原则的来源”（《人性论》，3.1.1.11）。
 
@@ -387,6 +383,8 @@ O'Neill（2000）把康德式的说明置于三个备选项的对照中。（i�
 多年来对本词条提出意见，我要感谢 Carla Bagnoli、Graham Bird、Tatiana Patrone、Alison Stone、Lea Ypi，以及本百科全书的审稿人，包括 R. Lanier Anderson 与 Paul Guyer。对额外的协助，我要感谢 Alix Cohen、Sebastian Gardner、Katharina Kraus、Onora O'Neill、Margit Ruffing 与 Jens Timmermann。我还要衷心感谢 Nick Bunnin 组织了中国哲学暑期班，使我有机会就这一主题作讲座；感谢 Diana Diaconescu 在最近的（2023）修订中提供宝贵的研究协助。
 
 ## 脚注
+
+### Secondary literature
 
 [^note-1]: 另见理性主义与经验主义词条。
 

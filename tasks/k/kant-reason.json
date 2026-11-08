@@ -2,7 +2,7 @@
   "slug": "kant-reason",
   "kind": "retranslate",
   "zh_doc": "k/kant-reason.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "AK-main-20261105",
       "at": "2026-11-05T17:38:47Z",
       "evidence": "四检终态：style 0、prose 残余 70（引文豁免类）、check_academic --strict OK、math 0；check_all 七门禁全绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:46Z",
+      "evidence": "r1 独立复核（K 批接管，2026-11-08）：段落 158:157（差 1=源 byline）、marker 85:85、defs 134:124、年份 137:137、尾节子标题 3:3；10 个缺 defs 键（9 条剑桥版书目+科学院版 note）经逐条比对确认已译为「### 主要文献说明」中文注记（Guyer & Wood 1997、Gregor 1996、Gregor & Timmermann 2011、Schneewind & Heath 1998、Walford & Meerbote 1992、Allison 等 2002、Zoller 等 2007、Guyer & Matthews 2000、科学院版 1902 起），内容无失；**缺陷**：源文 Secondary literature 子标题未搬。抽查第 60 段（定言命令形式公式 5:27/4:421）与源文逐句相符。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:46Z",
+      "evidence": "r2 缺陷实修：回填 ### Secondary literature 子标题（defs 段前），尾节子标题 3:3 齐平；check_style 0、check_math 0/0、check_academic OK。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:49Z",
+      "evidence": "r3 门禁：四检全绿（style 0 / math 0 缺失 / academic --strict OK / bold-collapse 无候选），check_all 七项全绿。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:40:49Z",
+      "evidence": "done 收口（K-main-20261108）：s3_checked 遗留件经 r1-r3 复核，defs 差额 10 确认为「主要文献说明」中译注记非缺件，补回 Secondary literature 子标题，五维齐平。"
     }
   ],
   "blockers": [],
