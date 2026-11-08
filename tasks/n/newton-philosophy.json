@@ -1,0 +1,22 @@
+{
+  "slug": "newton-philosophy",
+  "kind": "retranslate",
+  "zh_doc": "n/newton-philosophy.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T22:20:30Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-08T22:20:30Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 14, 2021",
+    "archive_edition": "Fall 2021",
+    "sha256": "a760f0097a5a7a3656bc2bc9d3cf7937e9dec355598f3379499230e3f682eaec"
+  }
+}
