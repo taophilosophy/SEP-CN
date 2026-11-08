@@ -459,8 +459,10 @@ segments:
     kind: body
     source: |-
       *Table 1a*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *表 1a*
+    step2: |-
+      *表 1a*
   - id: 58
     kind: body
     source: |-
@@ -469,14 +471,26 @@ segments:
       | *Natural or Intrinsic* | Tractability in the lab Length of life cycle Fertility rates and ease of breeding Size of organism Ease of storage Size of genome Physical accessibility of features of interest |
       | *Induced/uncovered through experimental interaction and transfer to lab* | Mutability of specimens Response to lab environment Availability |
       | *Attributed to or projected onto the organism by researchers* | Representational scope Representational target Power as genetic tools Ability to serve as the basis for comparisons to other organisms Multi-disciplinary usefulness leading to cross-level integration |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | 生物的性状 |   |
+      | :---: | :---: |
+      | *自然的或内在的* | 实验室中的可操作性 生活史长度 繁殖率与繁育难易 生物体大小 储存难易 基因组大小 所关注特征的物理可及性 |
+      | *通过实验互动与向实验室转移而诱发或揭示的* | 标本的可突变性 对实验室环境的反应 可获得性 |
+      | *由研究者归予或投射到生物身上的* | 表征范围 表征目标 作为遗传工具的力量 充当与其他生物比较之基础的能力 带来跨层次整合的多学科用途 |
+    step2: |-
+      | 生物的性状 |   |
+      | :---: | :---: |
+      | *自然的或内在的* | 实验室中的可操作性；生活史长度；繁殖率与繁育难易；生物体大小；储存难易；基因组大小；所关注特征的物理可及性 |
+      | *通过实验互动与向实验室转移而诱发或揭示的* | 标本的可突变性；对实验室环境的反应；可获得性 |
+      | *由研究者归予或投射到生物身上的* | 表征范围；表征目标；作为遗传工具的力量；充当与其他生物比较之基础的能力；带来跨层次整合的多学科用途 |
   - id: 59
     kind: body
     source: |-
       *Table 1b*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *表 1b*
+    step2: |-
+      *表 1b*
   - id: 60
     kind: body
     source: |-
@@ -487,14 +501,30 @@ segments:
       | *Shared skills and practices* | Commitment to free exchange of materials, data, and knowledge Ability to move across biological subfields Public relations skills in attracting funding and attention from outside the scientific community |
       | *Institutional organization* | Charismatic leaders with strong organizational and scientific skills Efficient and accessible stock centers Common communication venues and institutions |
       | *Dependable funding sources* | Long-term support from governmental funding Strategies to secure that funding |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | 共同体的特征 |   |
+      | :---: | :---: |
+      | *概念承诺* | 演化保守性 对生物的整体性、跨层次进路 关注处于环境之外的生物 |
+      | *可用的技术* | 发展良好的共同体数据库 与可用仪器和工具的适配 |
+      | *共享的技能与实践* | 对材料、数据与知识自由交换的承诺 跨越生物学各子领域的能力 从科学共同体之外吸引经费与注意力的公关技能 |
+      | *制度组织* | 具有强大组织与科学技能的魅力型领袖 高效且易获取的种质资源中心 共同的交流场所与机构 |
+      | *可靠的经费来源* | 来自政府资助的长期支持 确保该类经费的策略 |
+    step2: |-
+      | 共同体的特征 |   |
+      | :---: | :---: |
+      | *概念承诺* | 演化保守性；对生物的整体性、跨层次进路；关注处于环境之外的生物 |
+      | *可用的技术* | 发展良好的共同体数据库；与可用仪器和工具的适配 |
+      | *共享的技能与实践* | 对材料、数据与知识自由交换的承诺；跨越生物学各子领域的能力；从科学共同体之外吸引经费与注意力的公关技能 |
+      | *制度组织* | 具有强大组织与科学技能的魅力型领袖；高效且易获取的种质资源中心；共同的交流场所与机构 |
+      | *可靠的经费来源* | 来自政府资助的长期支持；确保该类经费的策略 |
   - id: 61
     kind: body
     source: |-
       *Table 1c*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *表 1c*
+    step2: |-
+      *表 1c*
   - id: 62
     kind: body
     source: |-
@@ -503,56 +533,82 @@ segments:
       | *Fit with political and social goals* | Vision of basic molecular research as grounding innovation in medicine and agriculture |
       | *Intellectual property regime* | Free or otherwise well-regulated exchange of materials, techniques, and data |
       | *Institutional buy-in* | Existence of institutions willing to invest in model organism research |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | 更广阔格局的特征 |   |
+      | :---: | :---: |
+      | *与政治和社会目标的契合* | 把基础分子研究视为医学与农业创新之根基的愿景 |
+      | *知识产权制度* | 材料、技术与数据的自由交换或其他受到良好规制的交换 |
+      | *制度性认同* | 存在愿意投资于模式生物研究的机构 |
+    step2: |-
+      | 更广阔格局的特征 |   |
+      | :---: | :---: |
+      | *与政治和社会目标的契合* | 把基础分子研究视为医学与农业创新之根基的愿景 |
+      | *知识产权制度* | 材料、技术与数据的自由交换或其他受到良好规制的交换 |
+      | *制度性认同* | 存在愿意投资于模式生物研究的机构 |
   - id: 63
     kind: body
     source: |-
       Table 1a,b,c. Components of the Model Organisms Repertoire (After Ankeny and Leonelli 2020, 43–44)[^ankeny-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      表 1a、b、c. 模式生物本领库的构成要素（据 Ankeny and Leonelli 2020, 43–44）[^ankeny-2020]。
+    step2: |-
+      表 1a、b、c。模式生物本领库的构成要素（据 Ankeny and Leonelli 2020, 43–44）[^ankeny-2020]。
   - id: 64
     kind: body
     source: |-
       ## 4. The Multi-faceted Justification of Organism Choice
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 生物选择的多元理据
+    step2: |-
+      ## 4 生物选择的多元理据
   - id: 65
     kind: body
     source: |-
       Biologists choose to work on only a fraction of the millions of species on this planet. Which organism a biologist chooses to use and their justification for that choice constitute the problem of organism choice. Biologists typically employ a range of practical and epistemic criteria for their choice. Model organisms are often seen as possessing a particular cluster of distinctive features that justifies their use in biology and medicine.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      生物学家选择只研究这个星球上数百万物种中的一小部分。生物学家选择使用哪种生物、以及为该选择给出的理据，构成了生物选择问题。生物学家通常为其选择采用一系列实用的与认知的标准。模式生物常被认为具有一组独特的特征，从而证成了它们在生物学与医学中的使用。
+    step2: |-
+      这个星球上有数百万物种，生物学家只挑其中一小部分来做研究。挑哪一种生物、又凭什么挑，这就构成了生物选择问题。生物学家通常拿出一套实用的与认知的标准来挑。模式生物常被认为身上聚着一组与众不同的特征，正是这组特征证成了它们在生物学与医学中的用处。
   - id: 66
     kind: body
     source: |-
       ### 4.1 Krogh Organisms
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 Krogh 生物
+    step2: |-
+      ### 4.1 Krogh 生物
   - id: 67
     kind: body
     source: |-
       Among biologists, the criterion most frequently cited for organism choice is that of the Nobel Prize winning physiologist, August Krogh. Dubbed “Krogh’s Principle” in 1929, the principle states: “[f]or such a large number of problems there will be some animal of choice, or a few such animals, on which it can be most conveniently studied” (Krogh 1929, Krebs 1975, Krebs and Krebs 1980, Green et al. 2018)[^green-2018][^krebs-1975][^krebs-1980][^krogh-1929]. For instance, Krogh collaborated with Christian Bohr on lung function using the tortoise (Krogh 1929)[^krogh-1929]. Bohr had brought the tortoise to lung research because the branching of its trachea was much higher up in the neck than that of other vertebrates, which made it easier to independently study each lung in respiratory studies (Green et al. 2018)[^green-2018].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在生物学家当中，选择生物时最常被引用的标准，来自诺贝尔奖得主、生理学家 August Krogh。该原则在 1929 年被称为“Krogh 原则”，其表述为：“对于如此之多的问题，总会有某种可供选择的动物，或少数几种这样的动物，可以在它们身上最方便地加以研究”（Krogh 1929, Krebs 1975, Krebs and Krebs 1980, Green et al. 2018）[^green-2018][^krebs-1975][^krebs-1980][^krogh-1929]。例如，Krogh 曾与 Christian Bohr 合作，用陆龟研究肺功能（Krogh 1929）[^krogh-1929]。Bohr 之所以把陆龟带入肺研究，是因为其气管分叉处在颈部的位置远高于其他脊椎动物，这使呼吸研究中分别研究每一叶肺变得更容易（Green et al. 2018）[^green-2018]。
+    step2: |-
+      生物学家谈选材，最常引的是诺奖得主、生理学家 August Krogh 的那条标准。1929 年它被称作“Krogh 原则”，说的是：“问题如此之多，总有某种可供选择的动物，或少数几种这样的动物，能让研究做得最方便”（Krogh 1929, Krebs 1975, Krebs and Krebs 1980, Green et al. 2018）[^green-2018][^krebs-1975][^krebs-1980][^krogh-1929]。举例说，Krogh 曾与 Christian Bohr 合作，用陆龟研究肺功能（Krogh 1929）[^krogh-1929]。Bohr 把陆龟带进肺研究，是因为它的气管分叉在颈部的位置比其他脊椎动物高得多，呼吸研究里要分别研究每一叶肺便容易些（Green et al. 2018）[^green-2018]。
   - id: 68
     kind: body
     source: |-
       The kinds of organisms that Krogh favored in his research tended to have unique features that were often extreme adaptations. In contrast to model organisms, Green and her collaborators note that so-called Krogh organisms tend not to be standardized, do not have lasting infrastructures supporting their use, and most importantly tend to pick out a small set of specialized features as bearing on a particular research question (Green et al. 2018, 5–6)[^green-2018].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Krogh 在其研究中青睐的那类生物，往往具有常属极端适应的独特特征。与模式生物相对照，Green 及其合作者指出，所谓的 Krogh 生物往往不被标准化，没有支撑其使用的持久基础设施，而最重要的是，往往只挑出一小组专门特征，使之与某个特定研究问题相关（Green et al. 2018, 5–6）[^green-2018]。
+    step2: |-
+      Krogh 在研究中偏爱的那些生物，往往有独特的特征，且常常是极端的适应。Green 等人拿它们与模式生物对照：所谓 Krogh 生物往往不经标准化，没有支撑其使用的持久基础设施；最要紧的是，它们通常只挑出一小组专门特征，用来对应某个特定研究问题（Green et al. 2018, 5–6）[^green-2018]。
   - id: 69
     kind: body
     source: |-
       While Krogh’s principle is popular among biologists, a number of biologists and philosophers have moved beyond an appeal to convenience and proposed more fine-grained accounts of organism choice (Dietrich et al. 2020, Andrews and Enstipp 2016, Burian 1993, Clarke and Fujimura 1992, Gest 1995, Hopwood 2011, Robert 2008, Zallen 1993)[^andrews-2016][^burian-1993][^clarke-1992][^dietrich-2020][^gest-1995][^hopwood-2011][^robert-2008][^zallen-1993].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管 Krogh 原则在生物学家中颇受欢迎，不少生物学家和哲学家已经超越了诉诸便利的做法，提出了关于生物选择的更精细说明（Dietrich et al. 2020, Andrews and Enstipp 2016, Burian 1993, Clarke and Fujimura 1992, Gest 1995, Hopwood 2011, Robert 2008, Zallen 1993）[^andrews-2016][^burian-1993][^clarke-1992][^dietrich-2020][^gest-1995][^hopwood-2011][^robert-2008][^zallen-1993]。
+    step2: |-
+      Krogh 原则在生物学家中很吃得开，但不少生物学家与哲学家已不满足于“图方便”这条理由，转而对生物选择给出了更精细的说明（Dietrich et al. 2020, Andrews and Enstipp 2016, Burian 1993, Clarke and Fujimura 1992, Gest 1995, Hopwood 2011, Robert 2008, Zallen 1993）[^andrews-2016][^burian-1993][^clarke-1992][^dietrich-2020][^gest-1995][^hopwood-2011][^robert-2008][^zallen-1993]。
   - id: 70
     kind: body
     source: |-
       ### 4.2 Expanding the Range of Reasons for Model Organism Choice
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 扩展模式生物选择的理由范围
+    step2: |-
+      ### 4.2 扩展模式生物选择的理由范围
   - id: 71
     kind: body
     source: |-
