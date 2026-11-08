@@ -251,86 +251,114 @@ segments:
     kind: body
     source: |-
       > It is scarcely conceivable that anyone can impartially attend to the nature of his own perceptions, and determine that, when he thinks gratitude and beneficence to be *right*, he perceives nothing *true* of them, and *understands* nothing, but only receives an impression from *sense*. (Price 1758 [1969: § 678])[^price-1758]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 几乎无法设想，任何人能够不偏不倚地审视自己知觉的本性，并断定：当他以为感恩与仁慈是*正当的*时，他在它们之中并没有知觉到任何*真实的*东西，也没有*理解*任何东西，而只是从*感觉*接受了一个印象。（Price 1758 [1969: § 678]）[^price-1758]
+    step2: |-
+      > 一个人若公允地审视自己知觉的本性，几乎不可能断定说：当他认定感恩与仁慈为*正当*时，他并未知觉到其中任何*真实*之物，也未*理解*任何东西，而只是从*感官*得到印象。（Price 1758 [1969: § 678]）[^price-1758]
   - id: 32
     kind: body
     source: |-
       Price concedes that certain feelings may attend our apprehension of right and wrong, but these impressions are merely the consequence of our perception of right and wrong. They are not what is perceived. For Price, one approves of some act because one sees that it is right or good.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      普莱斯承认，某些情感可能伴随着我们对是非的领会，但这些印象只是我们知觉到是非的结果，而不是被知觉到的东西。对普莱斯来说，人之所以赞许某个行为，是因为他看出它是正当的或善的。
+    step2: |-
+      普莱斯承认，我们领会是非之际，或伴有某些情感；但这些印象只是知觉是非的结果，并非知觉的对象。在普莱斯看来，人赞许某一行为，是因为看出它正当或善。
   - id: 33
     kind: body
     source: |-
       Running alongside these ideas about the rational apprehension of some truths, Price also appeals to appearances in a way that resembles Clarke’s appeal to appearances:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与这些关于理性领会某些真理的观念并行，普莱斯还诉诸显现，其方式与克拉克诉诸显现的方式相似：
+    step2: |-
+      与“理性可领会某些真理”这一思路并行，普莱斯还援引“显现”，其取径与克拉克相仿：
   - id: 34
     kind: body
     source: |-
       > Is there nothing truly wrong in the absolute and eternal misery of an innocent being?—“It *appears* wrong *to us*”.—And what reason can you have for doubting that it *is* as it *appears*? (1758 [1969: § 679])
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 一个无辜者遭受绝对的、永恒的苦难，难道其中没有任何真正的错误吗？——“在我们看来，它*显得*是错的。”——你又有什么理由怀疑它*确实*如其所*显*呢？（1758 [1969: § 679]）
+    step2: |-
+      > 一个无辜者陷于绝对的、永恒的苦难，其中难道没有真正的错处？——“它*在我们看来*是错的。”——你又有何理由怀疑它*确如其所显*？（1758 [1969: § 679]）
   - id: 35
     kind: body
     source: |-
       Next, consider Prichard. Writing in the early and mid-twentieth century, Prichard was largely responding to the consequentialism of figures like Sidgwick and Moore. Sidgwick had characterized intuitionism as the view that right conduct is conduct that conforms to certain unconditionally binding principles (1907: book I, ch. 8), to be contrasted with a consequentialist view where right conduct is conduct that brings about good outcomes. Prichard wants to defend intuitionism so understood, largely by criticizing consequentialism. His considered positive view can be hard to discern, but he seems to think one’s moral obligations are grounded in (1) the nature of the state of affairs produced, and (2) the relations one bears to oneself or others (e.g., being a parent) (1912 [2002: 12]).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      接下来看普里查德。普里查德写作于二十世纪早期至中期，主要回应西季威克、摩尔等人的后果论。西季威克曾把直觉主义刻画为这样一种观点：正当的行为就是符合某些无条件约束性原则的行为（1907: book I, ch. 8），它对立于后果论的观点——正当行为是带来善结果的行为。普里查德想要捍卫如此理解的直觉主义，主要手段是批评后果论。他深思熟虑后所持的正面观点不易辨认，但他似乎认为，一个人的道德义务奠基于（1）所产生的境况的本性，以及（2）一个人与自身或他人所具有的关系（例如身为父母）（1912 [2002: 12]）。
+    step2: |-
+      接着看普里查德。他活动于二十世纪前中期，主要回应西季威克、摩尔等人的后果论。西季威克曾把直觉主义界定为：正当行为即符合某些具有无条件约束力的原则的行为（1907: book I, ch. 8），以别于后果论所谓“正当行为即带来善结果的行为”。普里查德要捍卫如此理解的直觉主义，途径主要是批评后果论。他本人成体系的正面主张不易辨识，但似乎认为道德义务奠基于两点：（1）所产生事态的本性；（2）个人与自身或他人所处的关系（如身为父母）（1912 [2002: 12]）。
   - id: 36
     kind: body
     source: |-
       In terms of epistemology, Prichard maintained that knowledge of our obligations is immediate, and so not derived from premises about the goodness of the outcomes to be produced. He draws a mathematical analogy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在认识论方面，普里查德主张，对我们义务的知识是直接的，因而并非得自关于将产生之结果之善性的前提。他作了一个数学上的类比。
+    step2: |-
+      在认识论上，普里查德主张：对我们义务的知识是直接的，并不由“所产生结果之善”这类前提推得。他为此作了一个数学类比。
   - id: 37
     kind: body
     source: |-
       > This apprehension [of a particular moral obligation] is immediate, in precisely the sense in which a mathematical apprehension is immediate, *e.g.*, the apprehension that this three-sided figure, in virtue of its being three-sided, must have three angles. Both apprehensions are immediate in the sense that in both insight into the nature of the subject directly leads us to recognise its possession of the predicate; and it is only stating this fact from the other side to say that in both cases the fact apprehended is self-evident. (1912 [2002: 13])
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 这种［对某项具体道德义务的］领会是直接的，其意义恰如数学领会的直接性，*例如*，领会到这个三边形因其为三边形而必定有三个角。两种领会之所以都是直接的，是因为在两种情形中，对主项本性的洞察都直接引导我们承认它具有谓项；换个说法陈述同一事实，就是：两种情形中被领会的事实都是自明的。（1912 [2002: 13]）
+    step2: |-
+      > 这种［对某项具体道德义务的］领会是直接的，其直接性与数学领会无异，*例如*领会到：这个三边形既然为三边形，就必定有三个角。两种领会之所以同样直接，是因为在两种情形下，对主项本性的洞见都径直引导我们承认它具有该谓项；把同一事实换个方向陈述，便是：两种情形下被领会的事实都是自明的。（1912 [2002: 13]）
   - id: 38
     kind: body
     source: |-
       This brief historical overview concludes with the figure most influential in contemporary debates: W. D. Ross. Ross wrote in the early to mid-twentieth century as well, and he was largely criticizing the consequentialism of G.E. Moore. Ross asked us to consider a right action like keeping a promise, and ask what *makes* it right. The consequentialist reply is that right actions are right because they produce the most good. Ross rejoined that this is not what the “plain man” really thinks. Instead, the plain man thinks that what makes the action right is that one promised to do it (1930 [2002: 17–18]).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这份简短的历史概述以当代争论中最有影响力的人物收尾：W. D. 罗斯。罗斯同样写作于二十世纪早期至中期，主要批评 G. E. 摩尔的后果论。罗斯请我们考虑一个正当行为，比如信守承诺，并追问是什么*使*它成为正当的。后果论的回答是：正当行为之所以正当，是因为它们产生最多的善。罗斯反驳说，这并不是“常人”真正所想的。相反，常人认为，使该行为成为正当的，是一个人曾许诺去做它（1930 [2002: 17–18]）。
+    step2: |-
+      这份简短的历史梳理以当代讨论中最具影响的人物作结：W. D. 罗斯。罗斯也写作于二十世纪前中期，主要批评 G. E. 摩尔的后果论。他请我们考虑一个正当行为——比如信守承诺——并追问：究竟是什么*使*它正当？后果论答曰：正当行为之所以正当，端在于它们产生最多的善。罗斯反驳说，“常人”并不真作如是想；常人以为，使该行为正当的，是当事人曾许诺去做它（1930 [2002: 17–18]）。
   - id: 39
     kind: body
     source: |-
       Expanding on this thought, Ross thinks utilitarianism ignores morally significant relations we bear to others by assuming that the only relevant relation is that between benefactor and beneficiary. For him, that one has promised to do something, for example, is morally relevant in its own right. If it is, consequentialism is extensionally and explanatorily inadequate. Suppose I promise to help someone move apartments, but I can produce slightly more good by breaking that promise and doing something else instead. Consequentialism says I should break the promise, whereas Ross claims there are cases like this where the duty of fidelity (as he calls it) is more weighty than the duty to promote the good (a duty of beneficence) (1930 [2002: 17–18, 35]).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      顺着这一想法，罗斯认为功利主义假定唯一相关的关系是施惠者与受惠者之间的关系，从而忽视了我们对他人所负的、具有道德意义的关系。在他看来，一个人曾许诺去做某事，这本身就是道德上相关的。若果真如此，后果论在外延上说明力不足。假设我承诺帮人搬家，但若我违背承诺去做别的事，能产生略多一点的善。后果论说，我应当违背承诺；而罗斯则主张，在此类情形中，信守的义务（他这样称呼它）比促进善的义务（一种行善义务）更有分量（1930 [2002: 17–18, 35]）。
+    step2: |-
+      沿着这一思路，罗斯认为功利主义只承认施惠者与受惠者这一种相关关系，遂忽视了我们同他人之间那些有道德意义的关系。在他看来，“一个人曾许诺去做某事”本身就是道德上相关的。若成立，后果论便在外延与解释力上都有欠缺。假设我答应帮人搬家，但只要违背承诺另做别事，就能产生稍多一点善；后果论便要求我违约，罗斯却主张，在这类情形里，信守义务（他如此命名）重于促进善的义务（行善义务）（1930 [2002: 17–18, 35]）。
   - id: 40
     kind: body
     source: |-
       Ross posited seven “*prima facie*” duties—duties of (1) fidelity, (2) reparation, (3) gratitude, (4) justice, (5) beneficence, (6) self-improvement, and (7) non-maleficence (1930 [2002: 21]). Though he uses the term “*prima facie*”, it is generally agreed that he meant these are duties as far as they go, or *pro tanto* (1930 [2002: 19]).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      罗斯提出了七项“*prima facie*”（初显）义务——（1）信守义务，（2）补偿义务，（3）感恩义务，（4）正义义务，（5）行善义务，（6）自我完善义务，（7）不伤害义务（1930 [2002: 21]）。尽管他使用“*prima facie*”一词，学界一般认为，他的意思是这些义务就其本身而言即为义务，即*pro tanto*（在此范围内）的义务（1930 [2002: 19]）。
+    step2: |-
+      罗斯列举了七项“*prima facie*”（初显）义务：信守、补偿、感恩、正义、行善、自我完善与不伤害（1930 [2002: 21]）。他虽用“*prima facie*”一语，学界一般认为其意为：这些义务就其自身而言即是义务，亦即*pro tanto*（就此而言）的义务（1930 [2002: 19]）。
   - id: 41
     kind: body
     source: |-
       In terms of epistemology, these duties are self-evident just like mathematical axioms or the validity of a form of inference is self-evident (1930 [2002: 29]). Price claimed that self-evident truths are “incapable of proof” (1758 [1969: § 704]). At one point Ross appears to agree, as he says self-evident moral propositions “cannot be proved, but … just as certainly need no proof” (1930 [2002: 30]). But elsewhere he makes only the more restricted claim that such propositions do not *need* any proof, which should be his considered view (1930 [2002: 29]). A self-evident proposition is one that we *can* be justified in believing without an argument, but this does not rule out the possibility that there may be such an argument, or that the proposition can be (justifiably) believed regardless of its self-evident status, as might happen were we to believe them on the basis of testimony (Audi 2004: 45)[^audi-2004].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在认识论方面，这些义务是自明的，正如数学公理或某种推理形式的有效性是自明的（1930 [2002: 29]）。普莱斯声称，自明的真理“无法被证明”（1758 [1969: § 704]）。罗斯一度似乎同意，他说自明的道德命题“无法被证明，但……也确实无需证明”（1930 [2002: 30]）。但在别处，他只提出限制更强的说法：这类命题不*需要*任何证明，而这应是他深思熟虑的观点（1930 [2002: 29]）。一个自明的命题，就是我们*可以*在没有论证的情况下有理由相信的命题；但这并不排除可能存在这样的论证，也不排除该命题可以不依其自明地位而（有理由地）被相信——例如我们凭见证而相信它们时就会如此（Audi 2004: 45）[^audi-2004]。
+    step2: |-
+      在认识论上，这些义务是自明的，一如数学公理或某种推理形式的有效性是自明的（1930 [2002: 29]）。普莱斯称自明真理“无法被证明”（1758 [1969: § 704]）。罗斯一度似表赞同，称自明的道德命题“无法证明，却……确实无需证明”（1930 [2002: 30]）；但他在别处只作较弱的断言：此类命题不*需要*任何证明——这应视为其成熟观点（1930 [2002: 29]）。自明命题即我们*可以*不经论证而有理由相信的命题；但这既不排除可能存在此种论证，也不排除该命题可脱离其自明地位而（有理由地）被相信，正如我们依据他人证言而相信它们那样（Audi 2004: 45）[^audi-2004]。
   - id: 42
     kind: body
     source: |-
       In some cases there will be more than one *pro tanto* duty operative and the duties will conflict. For Ross, what one ought to do all considered in such cases is not self-evident (which might conflict with Prichard’s view), nor can it be derived from the *pro tanto* duties and their weights. To resolve conflicts of duties, one must use judgment (1930 [2002: 30–31]).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在某些情形中，会有一项以上的*pro tanto*义务起作用，而这些义务会冲突。对罗斯来说，在此类情形中，综合考虑之后一个人应当做什么，并不是自明的（这一点可能与普里查德的观点相冲突），也不能从各项*pro tanto*义务及其权重推导出来。要解决义务冲突，必须运用判断力（1930 [2002: 30–31]）。
+    step2: |-
+      有时会有不止一项*pro tanto*义务同时起作用，彼此冲突。在罗斯看来，此类情形中“通盘考虑后应当做什么”并非自明的（这或许与普里查德相左），也无法由各项*pro tanto*义务及其权重推得；解决义务冲突，须靠判断力（1930 [2002: 30–31]）。
   - id: 43
     kind: body
     source: |-
       In addition to appealing to the idea of self-evidence, Ross also seems to think that we apprehend the truth of the self-evident principles by something like intuitive induction. That is, the epistemology starts with particular cases where the general principles are operative, and via those particular cases we come to see the truth of the generality (1930 [2002: 33]). Moreover, he thinks that ethics is unlike science in that it cannot appeal to sense experience for data in support of one ethical theory or another. Instead, “the moral convictions of thoughtful and well-educated people are the data of ethics, just as sense-perceptions are the data of natural science” (1930 [2002: 41]).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了诉诸自明性这一观念，罗斯似乎还认为，我们是通过类似直觉归纳的东西来领会自明原则之真理的。也就是说，认识论从一般原则在其中起作用的个别事例开始，经由这些个别事例，我们进而看出一般性的真理（1930 [2002: 33]）。此外，他认为伦理学不同于科学：伦理学不能诉诸感官经验来为某一种伦理理论提供数据支持。相反，“深思熟虑且受过良好教育之人的道德信念是伦理学的数据，正如感官知觉是自然科学的数据”（1930 [2002: 41]）。
+    step2: |-
+      除自明性外，罗斯似还认为，我们凭某种类似“直觉归纳”的方式领会自明原则之真：认识论始于一般原则在其中起作用的个别事例，经由这些事例，我们逐渐看出一般性之为真（1930 [2002: 33]）。他还认为伦理学有别于科学——它不能借感官经验为某一伦理理论提供数据；相反，“深思熟虑、教养良好者的道德信念是伦理学的数据，正如感官知觉是自然科学的数据”（1930 [2002: 41]）。
   - id: 44
     kind: body
     source: |-
       So much for quick historical notes. We can see that Ethical Intuitionism is a family of views where the following features are salient.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      历史札记到此为止。可以看出，伦理直觉主义是一族观点，其中以下特征颇为突出。
+    step2: |-
+      历史脉络就交代到这里。由此可以看出，伦理直觉主义是一族主张，其显著特征如下。
   - id: 45
     kind: body
     source: |-
@@ -341,159 +369,225 @@ segments:
       5. The apparent (/seeming) truth of some moral propositions.
       6. Non-inferential justification for some moral beliefs—for some justified moral belief, *B*(*q*), the justification is not based in the justification enjoyed by some other belief, *B*(*p*), where one infers *q* from *p*.
       7. Rationalism for some moral knowledge—some moral facts can be known *a priori* and through rational faculties, as opposed to empirical or sentimental faculties.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 一种多元论的义务论——存在若干基本的道德义务，它们不能以促进善来加以分析。
+      2. 关于道德事实的实在论——某些道德事实独立于任何现实或假想存在者的态度或立场（而且很可能是非自然的或*sui generis*［自成一类］的）。
+      3. 关于道德判断的认知主义——道德判断是信念，而不是类欲望的态度。
+      4. 某些道德命题的自明性。
+      5. 某些道德命题的表面（显似）真理。
+      6. 某些道德信念的非推论性证成——对某个有证成的道德信念*B*(*q*)而言，其证成并不基于另一信念*B*(*p*)所享有的证成，而*q*又是从*p*推论出来的。
+      7. 某些道德知识的理性主义——某些道德事实可以被*a priori*［先验地］认识，且是通过理性能力，而非经验能力或情感能力。
+    step2: |-
+      1. 多元论义务论——存在若干基本道德义务，不能以“促进善”来加以分析。
+      2. 道德事实的实在论——某些道德事实独立于任何现实或假想存在者的态度与立场（且很可能是非自然的或*sui generis*［自成一类］的）。
+      3. 道德判断的认知主义——道德判断是信念，而非类欲望的态度。
+      4. 某些道德命题具有自明性。
+      5. 某些道德命题具有表面（显似）之真。
+      6. 某些道德信念享有非推论性证成——对某个有证成的道德信念*B*(*q*)，其证成并不奠基于另一信念*B*(*p*)的证成之上，而*q*是由*p*推论出来的。
+      7. 某些道德知识的理性主义——某些道德事实可以*a priori*［先验地］被认识，且经由理性能力，而非经验或情感能力。
   - id: 46
     kind: body
     source: |-
       The remainder of this entry focuses on (4)–(7), which are most closely associated with intuitionism in ethics in contemporary discussions. They most directly concern epistemology, which is separable from the other ethical and metaethical views.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本词条余下的部分聚焦于（4）—（7），这些特征在当代讨论中与伦理学中的直觉主义关系最为密切。它们最直接地关涉认识论，而认识论可以与其余伦理学与元伦理学观点相分离。
+    step2: |-
+      本词条余下部分集中讨论（4）—（7）：在当代讨论中，这些特征与伦理学中的直觉主义关联最紧。它们最直接地涉及认识论，而认识论可与其余伦理学和元伦理学的立场分开处理。
   - id: 47
     kind: body
     source: |-
       ## 2. Self-Evident Propositions
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. 自明命题
+    step2: |-
+      ## 2. 自明命题
   - id: 48
     kind: body
     source: |-
       The notion of a self-evident proposition is a term of art in intuitionist thought, and it needs to be distinguished from certain common-sense understandings with which it may easily be conflated. The first thing to note is that a self-evident proposition is not the same as an obvious truth. To begin with, obviousness is relative to certain individuals or groups. What is obvious to you may not be obvious to me. But self-evidence is not relative in this way. A proposition cannot be self-evident to one person, but not to another. A proposition is just self-evident, not self-evident *to* someone. Secondly, there are many obvious truths that are not self-evident. Certain well-known empirical truths, for example, that if I drop a heavy object it will fall, or that the world is bigger than a football, are obvious but not self-evident. There are also self-evident propositions that may not be obvious to everyone, at least prior to reflection, e.g., that if all *A*s are *B*s and no *B*s are *C*s then no *C*s are *A*s, or that one man can be the father and grandfather of the same child.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “自明命题”这一概念是直觉主义思想中的一个术语，需要把它与某些容易混淆的常识理解区分开来。首先要指出，自明命题并不等于显而易见的真理。第一，显而易见性是相对于特定个人或群体的：对你而言显而易见的，对我而言未必如此；而自明性并不是以这种方式相对的。一个命题不可能对一个人自明而对另一个人不自明。命题就是自明的，而不是对某人自明的。第二，有许多显而易见的真理并不是自明的。某些著名的经验真理，例如重物脱手会下落，或者世界比一个足球大，就是显而易见却非自明的。也有一些自明命题并非对每个人都显而易见，至少在反思之前如此，例如：若所有*A*都是*B*且没有*B*是*C*，则没有*C*是*A*；又如，一个人可以是同一个孩子的父亲兼祖父。
+    step2: |-
+      “自明命题”是直觉主义思想中的专门术语，须与若干易混的常识理解区分开。第一，自明命题不同于显而易见的真理。显而易见性是相对于特定个人或群体的：于你显而易见者，于我未必如此；自明性却无此种相对性。命题不可能对某甲自明、对某乙不自明；命题只是自明，而非“对某人”自明。第二，许多显而易见的真理并不自明。某些公认的经验真理——如重物脱手会坠落、世界比一只足球大——显而易见却非自明。反过来，也有自明命题并非人人（至少在反思之前）都觉显而易见，例如：若所有*A*皆为*B*，且无*B*为*C*，则无*C*为*A*；又如，同一个人可以是某个孩子的父亲兼祖父。
   - id: 49
     kind: body
     source: |-
       What then is it for a proposition to be self-evident? Locke says that a self-evident proposition is one that “carries its own light and evidence with it, and needs no other proof: he that understands the terms, assents to it for its own sake” (1689: 1.3.4). Price tells us that a self-evident proposition is immediate, and needs no further proof, and goes on to say that self-evident propositions need only be understood to gain assent (1758 [1969: § 747]). Ross writes that a self-evident proposition is “evident without any need of proof, or of evidence beyond itself” (1930 [2002: 29]), and Broad describes self-evident propositions as being
-    step1: TBD
-    step2: TBD
+    step1: |-
+      那么，一个命题自明是什么意思？洛克说，自明命题是“自身带有光明与证据、无需其他证明的命题：凡理解其词语者，都会为其自身之故而同意它”（1689: 1.3.4）。普莱斯告诉我们，自明命题是直接的，无需进一步证明；他还说，自明命题只需被理解，便能获得同意（1758 [1969: § 747]）。罗斯写道，自明命题是“无需任何证明、也无需自身之外证据的明显命题”（1930 [2002: 29]）；布罗德则把自明命题描述为
+    step2: |-
+      那么，命题自明究竟何所指？洛克说，自明命题“自带光明与证据，无需其他证明；凡理解其词项者，都会为其自身之故而予以同意”（1689: 1.3.4）。普莱斯称自明命题是直接的、无需进一步证明，并说自明命题只需被理解即可获得同意（1758 [1969: § 747]）。罗斯写道，自明命题是“无需任何证明、无需自身之外证据而明显者”（1930 [2002: 29]）。布罗德则把自明命题描述为：
   - id: 50
     kind: body
     source: |-
       > such that a rational being of sufficient insight and intelligence could see it to be true by merely inspecting it and reflecting on its terms and their mode of combination. (Broad 1936: 102–3)[^broad-1936]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 这样的命题：一个具有充分洞见与智力的理性存在者，仅凭审视该命题、反思其词项及其组合方式，便能看出它为真。（Broad 1936: 102–3）[^broad-1936]
+    step2: |-
+      > 一个具有足够洞见与智力的理性存在者，只需审视该命题、反思其词项及其结合方式，便能看出其为真。（Broad 1936: 102–3）[^broad-1936]
   - id: 51
     kind: body
     source: |-
       These passages may have led to the standard account of a self-evident proposition in the contemporary literature. According to Robert Audi, a self-evident proposition is “a truth” such that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些段落可能促成了当代文献中关于自明命题的标准解释。按照 Robert Audi 的说法，一个自明命题是“一个真理”，它满足：
+    step2: |-
+      当代文献里关于自明命题的标准解释，或即由这些段落而来。据 Robert Audi，自明命题是“一种真理”，使得
   - id: 52
     kind: body
     source: |-
       > an adequate understanding of it is sufficient both for being justified in believing it and for knowing it if one believes it on the basis of that understanding. (Audi 1998: 20; 1999: 206; 2004: 49; see also Audi 2008: 478)[^audi-1998][^audi-2008].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 对它作出充分的理解，就既足以使人在相信它时有理由，也足以使人在基于该理解而相信它时认识它。（Audi 1998: 20; 1999: 206; 2004: 49; 另见 Audi 2008: 478）[^audi-1998][^audi-2008]。
+    step2: |-
+      > 只要对它理解充分，就足以使相信它的人有理由相信它，并且在人据该理解而相信它时足以使人认识到它。（Audi 1998: 20; 1999: 206; 2004: 49; 另见 Audi 2008: 478）[^audi-1998][^audi-2008]。
   - id: 53
     kind: body
     source: |-
       Similarly, Russ Shafer-Landau says
-    step1: TBD
-    step2: TBD
+    step1: |-
+      类似地，Russ Shafer-Landau 说
+    step2: |-
+      同样地，Russ Shafer-Landau 说：
   - id: 54
     kind: body
     source: |-
       > A proposition *p* is self-evident = if *p* is such that adequately understanding and attentively considering just *p* is sufficient to justify believing that *p*. (Shafer-Landau 2003: 247)[^shafer-landau-2003]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 命题*p*是自明的 ＝ 若*p*满足：充分理解并专注地考虑*p*本身，就足以证成对*p*的相信。（Shafer-Landau 2003: 247）[^shafer-landau-2003]
+    step2: |-
+      > 命题*p*自明，当且仅当：充分理解并专注考虑*p*本身，即足以证成“相信*p*”。（Shafer-Landau 2003: 247）[^shafer-landau-2003]
   - id: 55
     kind: body
     source: |-
       It seems fairly clear that this is not going to be inferential justification, for it is not as though understanding plays the role of some premise from which belief in the self-evident proposition is inferred.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      相当清楚的是，这不会是推论性的证成，因为理解并不是扮演某个前提的角色，从该前提推出对自明命题的信念。
+    step2: |-
+      这显然不是推论性证成：理解在此并不充当某项前提，让人由之推出对自明命题的信念。
   - id: 56
     kind: body
     source: |-
       As for candidate self-evident moral propositions, many philosophers have focused on certain general moral principles. W. D. Ross, as we have seen, thought that there were seven self-evident moral duties, such as the duty to keep one’s promises. But others have suggested that verdicts on cases can be self-evident (Clarke 1706: 192; Prichard 1912 [2002: 13])[^clarke-1706][^prichard-1912].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      至于候选的自明道德命题，许多哲学家聚焦于某些一般的道德原则。如我们所见，W. D. 罗斯认为有七项自明的道德义务，例如信守承诺的义务。但另一些人提出，对具体事例的裁断也可以是自明的（Clarke 1706: 192; Prichard 1912 [2002: 13]）[^clarke-1706][^prichard-1912]。
+    step2: |-
+      就候选的自明道德命题而言，许多哲学家着眼于某些一般道德原则。如前所见，W. D. 罗斯认为有七项自明的道德义务，信守承诺即其一。但也有人主张，对具体事例的裁断本身亦可自明（Clarke 1706: 192; Prichard 1912 [2002: 13]）[^clarke-1706][^prichard-1912]。
   - id: 57
     kind: body
     source: |-
       One should distinguish knowing a self-evident proposition from knowing that that proposition is self-evident. The former does not imply the latter. Someone might know some self-evident proposition, such as that if *A* is better than *B* and *B* is better than *C* then *A* is better than *C*, but lack the concept of self-evidence, so couldn’t know that that proposition is self-evident. One might even know a self-evident proposition whilst endorsing a theory according to which no propositions are self-evident.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      应当把认识一个自明命题与知道该命题是自明的区分开来。前者并不蕴含后者。某人可能认识某个自明命题，例如“若*A*优于*B*且*B*优于*C*，则*A*优于*C*”，却缺乏自明性这个概念，因而无法知道该命题是自明的。一个人甚至可能在认识某个自明命题的同时，赞同一个认为没有任何命题是自明的理论。
+    step2: |-
+      须区分“认识一个自明命题”与“知道该命题自明”——前者不蕴含后者。某人可以认识某个自明命题（如“若*A*优于*B*、*B*优于*C*，则*A*优于*C*”），却不具备自明性概念，因而无从知道该命题自明。他甚至可以在认识某个自明命题的同时，信奉一种否认任何命题自明的理论。
   - id: 58
     kind: body
     source: |-
       According to the standard account, a self-evident proposition is one which an adequate understanding of the proposition justifies us in believing it. That may sound odd. It is natural to think that justified belief requires evidence for the proposition believed, whereas adequately understanding a proposition never entails evidence for the proposition. Robert Audi has, however, recently offered an account of adequate understanding. He suggests that adequate understanding is a kind of direct apprehension of the truth-makers for the proposition, particularly concepts and relations that help make the proposition true. This, he suggests, “tends to yield an intuition,” which is the right sort of thing to justify belief (Audi 2019: 379–380)[^audi-2019].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按照标准解释，自明命题就是这样的命题：对它的充分理解使我们有理由相信它。这听起来可能有些奇怪。人们自然会认为，有证成的信念需要关于所信命题的证据，而充分理解一个命题从不蕴含关于该命题的证据。然而，Robert Audi 近来提出了一种关于充分理解的解释。他认为，充分理解是对该命题的真值制造者——尤其是有助于使该命题为真的概念与关系——的一种直接领会。他提出，这“倾向于产生一种直觉”，而直觉正是证成信念的恰当之物（Audi 2019: 379–380）[^audi-2019]。
+    step2: |-
+      按标准解释，自明命题即“对之理解充分，我们便有理由相信”的命题。这听起来有些奇怪：人们自然以为，有证成的信念需要关于所信命题的证据，而充分理解一个命题从不蕴含证据。不过 Robert Audi 晚近提出了一种“充分理解”的解释：充分理解是对命题之真值制造者——尤指使其为真的概念与关系——的直接领会。他称这“倾向于产生一种直觉”，而直觉恰是足以证成信念的东西（Audi 2019: 379–380）[^audi-2019]。
   - id: 59
     kind: body
     source: |-
       Be that as it may, most recent intuitionists have shied away from relying on the notion of a self-evident proposition. Before turning to other themes, note that self-evident propositions have been characterized in terms of their *epistemic role* when what we ultimately want is some metaphysical account of self-evident propositions capable of explaining that epistemic role. Not all true propositions are such that adequate understanding justifies us in believing them. If there is a special sub-class of propositions that have these epistemic properties, plausibly they have them in virtue of their non-epistemic properties. So what are those non-epistemic properties? Some of the examples offered suggest an answer.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即便如此，晚近大多数直觉主义者都已避免依赖自明命题这一概念。在转向其他主题之前，请注意：自明命题一直被按其*认识论作用*来刻画，而我们最终想要的，是能够解释该认识论作用的、关于自明命题的某种形而上学说明。并非所有真命题都是那种“充分理解即证成相信”的命题。如果存在具有这些认识论性质的特定命题子类，那么按理说，它们之具有这些性质，是凭借其非认识论性质。那么，这些非认识论性质是什么？所举的一些例子提示了答案。
+    step2: |-
+      即便如此，晚近的直觉主义者大多已不再倚重自明命题这一概念。在转入其他主题之前，值得一提的是：自明命题迄今都是按其*认识论作用*来刻画的，而我们最终想要的是能解释该作用的形而上学说明。并非所有真命题都“理解充分即可证成相信”。若存在具有此类认识论性质的特定命题子类，则它们之具有这些性质，按理是凭借其非认识论性质。那么，这些非认识论性质究竟是什么？所举诸例已透露端倪。
   - id: 60
     kind: body
     source: |-
       Robert Audi says the following are self-evident (but not intuitive in the sense of seeming true, at least not without reflection):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Robert Audi 说下列命题是自明的（但并不是在“显得为真”的意义上直观的，至少不经反思时并不直观）：
+    step2: |-
+      Robert Audi 认为下列命题是自明的（但它们并非在“显得为真”的意义上直观——至少不经反思则不然）：
   - id: 61
     kind: body
     source: |-
       1. the proposition that a grandmother can give birth to her grandchild, and
       2. the complex logical formula that if *p* entails *q*, and *q* entails *r*, and *r* entails *s*, and *s* is false, then *p* is false.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 祖母能够生育自己的孙辈这一命题，以及
+      2. 如下复杂逻辑公式：若*p*蕴涵*q*，且*q*蕴涵*r*，且*r*蕴涵*s*，且*s*为假，则*p*为假。
+    step2: |-
+      1. “祖母可以生下自己的孙辈”这一命题；
+      2. 如下复合逻辑式：若*p*蕴涵*q*、*q*蕴涵*r*、*r*蕴涵*s*，而*s*为假，则*p*为假。
   - id: 62
     kind: body
     source: |-
       These seem like candidates for *analytic* propositions and formulas, and it is plausible that the analyticity of a proposition can help to explain how adequately understanding it justifies believing it (Audi 2008: 478)[^audi-2008]. However, most substantive moral propositions offered as self-evident do not strike most as analytic. Ross’s *prima facie* duties, for example, appear to be synthetic rather than analytic. And many synthetic moral propositions are not self-evident. McGrath offers a nice example:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些看起来像是*分析*命题与公式的候选者，而且，一个命题的分析性能够帮助解释“充分理解它何以证成相信它”，这一点颇为可信（Audi 2008: 478）[^audi-2008]。然而，被举为自明的多数实质性道德命题，在多数人看来并不是分析的。例如，罗斯的*初显*义务似乎是综合的而非分析的。而许多综合的道德命题并不是自明的。McGrath 提供了一个很好的例子：
+    step2: |-
+      这些似乎属于*分析*命题与公式，而命题的分析性也确能解释“充分理解何以证成相信”（Audi 2008: 478）[^audi-2008]。然而，被举为自明的实质性道德命题，多数在常人看来并非分析命题。例如罗斯的*初显*义务，看来是综合的而非分析的。而许多综合的道德命题并不自明。McGrath 举了一个好例子：
   - id: 63
     kind: body
     source: |-
       > [E]ven if the proposition that it is wrong to encourage children to smoke is obvious to ordinary people in normal circumstances, it is not a good candidate for a self-evident proposition. For a person might understand the claim perfectly and yet not be justified in believing it …. (2019: 145)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ［即便］“鼓励儿童吸烟是错的”这一命题在通常情况下对普通人而言是显而易见的，它也不是自明命题的好候选。因为一个人可能完全理解该主张，却仍然没有理由相信它……（2019: 145）
+    step2: |-
+      > ［即便］“鼓励儿童吸烟为错”这一命题在正常情况下对常人显而易见，它仍不是自明命题的合适候选：一个人可以完全理解该主张，却仍无理由相信它……（2019: 145）
   - id: 64
     kind: body
     source: |-
       If there are synthetic but self-evident moral propositions, it would be nice to hear about the metaphysics of those propositions and particularly the non-epistemic properties in virtue of which they are self-evident. Further consideration would bring us into debates in core analytic philosophy and questions like these: Given that there are many synthetic propositions that are not knowable *a priori*, what is it about some synthetic propositions, and what is it about our powers of understanding, that makes them knowable *a priori*? Can we explain this difference while retaining the analytic-synthetic distinction, or is that something that has to go?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果存在综合的、却又自明的道德命题，那么我们希望能听到关于这些命题的形而上学，尤其是关于它们凭以自明的那些非认识论性质。进一步的考察会把我们带入核心分析哲学中的争论，以及诸如此类的问题：既然有许多综合命题不能被*a priori*认识，那么，某些综合命题的什么特征、我们理解力的什么特征，使它们可以被*a priori*认识？我们能否在保留分析—综合区分的同时解释这一差异，还是这个区分本身必须被放弃？
+    step2: |-
+      若真有综合而自明的道德命题，我们自然想知其形而上学，尤其是它们凭以自明的那些非认识论性质。再往下追问，便会进入核心分析哲学的论争：既然许多综合命题不可*a priori*认识，那么，究竟是某些综合命题的何种特征、我们理解力的何种特征，使它们得以被*a priori*认识？我们能否在保留分析—综合区分的前提下解释这一差异，抑或该区分本身须被放弃？
   - id: 65
     kind: body
     source: |-
       Self-evidence is not the only way to theorize about a priori moral knowledge or justification. We now turn to an influential alternative.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      自明性并不是理论化先验道德知识或证成的唯一途径。现在我们转向一种有影响的替代方案。
+    step2: |-
+      自明性并非探讨先验道德知识或证成的唯一进路。下面转向一种颇具影响的替代方案。
   - id: 66
     kind: body
     source: |-
       ## 3. Intuitive Seemings
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 直觉性显似
+    step2: |-
+      ## 3. 直觉性显似
   - id: 67
     kind: body
     source: |-
       There are multiple kinds of mental states whereby some content can seem true. The prototypical example is perception. Looking at a green apple, it perceptually seems that this apple is green; looking at a stick dipped in water, it perceptually seems that the stick is bent. Another example is memory. Thinking back, I seem to remember locking the door to the car; I seem to remember my grandfather’s birthday. Another example is proprioceptive. Closing my eyes, I have some sense of where my limbs are. In general epistemology we see the suggestion that intuitions are just another kind of seeming state, or appearance state, distinct from these others (Bealer 1998; Pust 2000; Huemer 2006; Chudnoff 2011a, 2013, 2020; Bengson 2015)[^bealer-1998][^bengson-2015][^chudnoff-2011a][^huemer-2006][^pust-2000]. And in moral epistemology intuitionism is often associated with the idea that ethical intuitions are just intuitive seemings where the content that seems true is ethical content.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      使某些内容显得为真的心理状态有多种。典型的例子是知觉。看着一个绿苹果，知觉上显得这个苹果是绿的；看着一根插入水中的棍子，知觉上显得棍子是弯的。另一个例子是记忆。回想起来，我似乎记得自己锁了车门；我似乎记得祖父的生日。还有一个例子是本体感受。闭上眼睛，我对自己的四肢位于何处有某种感觉。在一般认识论中，我们见到这样的主张：直觉不过是另一种显似状态或显现状态，有别于上述这些（Bealer 1998; Pust 2000; Huemer 2006; Chudnoff 2011a, 2013, 2020; Bengson 2015）[^bealer-1998][^bengson-2015][^chudnoff-2011a][^huemer-2006][^pust-2000]。而在道德认识论中，直觉主义常与如下想法相联系：伦理直觉不过是直觉性的显似，其中显得为真的内容是伦理内容。
+    step2: |-
+      能使某内容显得为真的心理状态有好几类。典型的是知觉：看着一只绿苹果，知觉上显得这只苹果是绿的；看着插入水中的棍子，知觉上显得棍子弯折。其次是记忆：回想之际，我似乎记得自己锁了车门，似乎记得祖父的生日。再次是本体感受：闭上眼，我大致知道四肢所处的位置。一般认识论中有一种主张：直觉不过是又一类显似状态（或显现状态），与上述诸类不同（Bealer 1998; Pust 2000; Huemer 2006; Chudnoff 2011a, 2013, 2020; Bengson 2015）[^bealer-1998][^bengson-2015][^chudnoff-2011a][^huemer-2006][^pust-2000]。道德认识论中的直觉主义则常与如下想法相联：伦理直觉就是这样一种直觉性显似，只不过显得为真的内容是伦理内容。
   - id: 68
     kind: body
     source: |-
       Just as perceptual, memorial, and proprioceptive seemings are fallible, so too intuitions qua seeming states are fallible. It can seem to you that *p* when *p* is not the case. And just as perceptual, memorial, and proprioceptive seemings are not beliefs, so too intuitions are not beliefs. You can have an intuition that *p* while failing to believe that *p*. Similarly, we can plausibly distinguish intuitions from hunches, guesses, blind impulses, vague sentiments, preferences for action, or familiar opinion (Sidgwick 1907 [1981]: 211–212)[^sidgwick-1907]. Some have suggested that intuitions are merely inclinations to believe (Williamson 2000; Sosa 2007; Earlenbaugh & Molyneux 2009)[^earlenbaugh-2009][^sosa-2007][^williamson-2000]. But the more common view is that, though intuitions might provide some categorical basis for a disposition to believe what is intuitive, we can distinguish intuitions from mere inclinations to believe. One can be inclined to belief without anything seeming to be the case in an intuitive way.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如知觉的、记忆的与本体感受的显似会出错，直觉作为显似状态也会出错。事情并非如此时，它也可能对你显得如此。而且，正如知觉的、记忆的与本体感受的显似不是信念，直觉也不是信念。你可能对*p*有直觉，却不相信*p*。同样，我们似乎有理由把直觉与预感、猜测、盲目的冲动、模糊的情绪、行动偏好或习见区分开来（Sidgwick 1907 [1981]: 211–212）[^sidgwick-1907]。有人提出，直觉仅仅是相信的倾向（Williamson 2000; Sosa 2007; Earlenbaugh & Molyneux 2009）[^earlenbaugh-2009][^sosa-2007][^williamson-2000]。但更常见的观点是：尽管直觉或许为“相信直观之物”的倾向提供了某种范畴性基础，我们仍可把直觉与单纯的相信倾向区分开来。一个人可以倾向于相信，却没有任何东西以直观的方式显得如此。
+    step2: |-
+      知觉、记忆与本体感受的显似都会出错，直觉作为一种显似状态同样会出错：事情并非如此，它仍可能对你显得如此。而知觉、记忆、本体感受的显似都不是信念，直觉亦然——你可以对*p*有直觉，却不相信*p*。与此相应，我们也有理由把直觉同预感、猜测、盲目冲动、模糊情绪、行动偏好或习见区分开（Sidgwick 1907 [1981]: 211–212）[^sidgwick-1907]。有人主张直觉只是相信的倾向（Williamson 2000; Sosa 2007; Earlenbaugh & Molyneux 2009）[^earlenbaugh-2009][^sosa-2007][^williamson-2000]；但更常见的看法是：直觉或为“相信直观之物”的倾向提供某种范畴性基础，却仍可与单纯的相信倾向区别开来——人可以倾向于相信，而并无任何东西以直观方式显得如此。
   - id: 69
     kind: body
     source: |-
       It is natural to wonder if there is some relation between the idea that some propositions are self-evident and seeming state theory. One thing to note is that seeming state theory is not necessarily an alternative to self-evidence theory. For it could be that when one adequately understands a self-evident proposition this manifests as a seeming state. McGrath suggests an alternative way to blend the two theories. She suggest that we characterize the self-evident in terms of seemings:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们自然会问：某些命题是自明的这一想法，与显似状态理论之间是否有某种关联。有一点需要注意：显似状态理论并不必然是自明性理论的替代品。因为可能是这样：当一个人充分理解一个自明命题时，这表现为一种显似状态。McGrath 提出了一种融合两种理论的替代方式。她提议用显似来刻画自明者：
+    step2: |-
+      人们自然会问：自明命题之说与显似状态理论之间有何关联？须注意，显似状态理论未必是自明性理论的替代物——完全可能：人充分理解一个自明命题时，这种理解就表现为一种显似状态。McGrath 则提出另一种融合两说的方式，主张以显似来刻画自明者：
   - id: 70
     kind: body
     source: |-
       > The self-evident propositions are simply those propositions—if any—whose intellectually seeming true to a subject can be correctly explained by their being true. (McGrath 2019: 148)[^mcgrath-2019]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 自明命题就是这样的命题（如果有的话）：它们对某一主体在理智上显得为真，可以正确地由它们确实为真来解释。（McGrath 2019: 148）[^mcgrath-2019]
+    step2: |-
+      > 自明命题无非是如下命题（若有的话）：它们对某主体在理智上显得为真，而这一显似可正确地由其实际为真来解释。（McGrath 2019: 148）[^mcgrath-2019]
   - id: 71
     kind: body
     source: |-
