@@ -2,7 +2,7 @@
   "slug": "jaina-philosophy",
   "kind": "retranslate",
   "zh_doc": "j/jaina-philosophy.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:37:00Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "J-main-20261108",
+      "at": "2026-11-08T04:14:34Z",
+      "evidence": "账本 137 段全填（p1-p13 分批：body 136＋oir 1；biblio 照录 71 defs）；以账本 source 编段、逐段双版；lq 守恒门 137 段通过（三处中文强调加粗按 ** 硬门还原为无标记行文）；compose 写回 39990 字符，H1=耆那教哲学 Jaina Philosophy (Marie-Hélène Gorisse)，与 SUMMARY/mu-lu-s 一致"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "J-main-20261108",
+      "at": "2026-11-08T05:24:52Z",
+      "evidence": "初译自校（对 137 段 step2 组装稿全文通读）：对账五项全等（内联 marker 103:103、defs 61:61、H2 8:8、H3 16:16、段落 152）；术语一致性按册内先登形回改——人名 3 处（阿羯兰迦·跋多→阿迦楞迦·跋陀、萨曼多跋陀罗→萨曼塔巴德拉、明辨→毗提耶难陀，从 jayaraasi 既有行）、因明系 12 处（anumāna→比量、parārthānumāna/svārthānumāna→为他/为己比量、pramāṇa→认知凭据、hetu/sādhya→因（证因）/宗（所立）、vyāpti→遍充、五支作法宗因喻合结），均循 jayaraasi/anumana 既有登记家法；新登人名 20 行（大雄/黑天/乌摩斯瓦敏/乌摩斯伐底/昆达昆达/诃梨跋陀罗/悉檀仙那·摩诃摩底/悉檀利希·伽尼/菩阇耶波陀/毗提耶难陀/尼弥旃陀罗/诃摩旃陀罗/钵罗跋旃陀罗/耶输毗阇耶/筏提·提婆苏利/末伽梨·拘舍梨/阇摩利/因陀罗菩提·乔答摩/乔答摩（正理）/筏磋衍那，已入 HEAD 6473aa98）、术语 30 行（七谛/六实体/多面性论/诸视角说/因明系，已入 HEAD f8bf625b）；check_terms 硬错误 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "J-main-20261108",
+      "at": "2026-11-08T05:46:25Z",
+      "evidence": "风格核定：check_prose 50→2，实修 48 处（长句拆分 11、被字改主动 9、弱动词替换 7、『的』链重构 18、冠词直译/as-one 2、类名复数 1）；余 2 条按 ADR-0020 豁免留痕——L116 *dharma* 广义义项枚举（唯一真可持续的行为之流/合德生活方式/值得称道行为/个人教法或宗教，属概念性并列，拆分破坏义项对照）、L264 《世尊教说》引块内『被如此问时…却被困惑压倒』（直引原文句式）；check_style --strict 0；账本冻结为 draft 记录，修正在 md 与本 evidence 留痕"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "J-main-20261108",
+      "at": "2026-11-08T06:17:03Z",
+      "evidence": "三校：check_style --strict 0 issue；check_academic --strict 通过（在途豁免 1）；check_math formulas=0/missing=[]/unbalanced=[]；check_prose 余 2 条均 ADR-0020 豁免（dharma 义项枚举、ĀS 引块内被动，明细见 s2 evidence）；lq 守恒门 137 段通过；对账复核 marker 103:103 多重集全等、defs 61、正文 ASCII 直引号 0；check_terms 硬错误 0"
     }
   ],
   "blockers": [],
