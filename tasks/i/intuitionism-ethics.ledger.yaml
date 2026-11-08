@@ -592,124 +592,168 @@ segments:
     kind: body
     source: |-
       ### 3.1 The Epistemology of Intuitive Seemings
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 直觉性显似的认识论
+    step2: |-
+      ### 3.1 直觉性显似的认识论
   - id: 72
     kind: body
     source: |-
       Epistemically, the idea is that all these seeming states, intuitions included, play an important epistemic role. We can follow Huemer’s nomenclature and call the epistemic principle Phenomenal Conservatism: For all *p*, if it seems to you that *p*, and if you believe that *p* based on it seeming to you that *p*, your belief is *pro tanto*, defeasibly justified (cf. Chudnoff 2011b; Huemer 2006; Pryor 2000)[^chudnoff-2011b][^huemer-2006][^pryor-2000]. This basing relation is not typically considered an inferential relation. In fact, this epistemic role is well suited to an internalist, foundationalist epistemology where seeming states are unjustified justifiers. Beliefs based on them are foundationally justified and from that foundation we can infer other beliefs that thereby enjoy inferential justification.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在认识论上，其想法是：所有这些显似状态，包括直觉在内，都起着重要的认识论作用。我们可以沿用 Huemer 的命名，把这条认识论原则称为“现象保守主义”（Phenomenal Conservatism）：对任意*p*，若它对你显得是*p*，且你基于它对你显得是*p*而相信*p*，那么你的信念就得到*pro tanto*的、可废止的证成（参 Chudnoff 2011b; Huemer 2006; Pryor 2000）[^chudnoff-2011b][^huemer-2006][^pryor-2000]。这种基于关系通常不被视为推论关系。事实上，这一认识论作用非常适合内在主义的基础主义认识论：在其中，显似状态是未获证成的证成者。基于它们的信念获得基础证成，而从这一基础出发，我们可以推论出其他信念，后者因而享有推论证成。
+    step2: |-
+      认识论上的要点是：包括直觉在内的所有这些显似状态都担当重要的认识论角色。沿用 Huemer 的命名，可将该原则称为“现象保守主义”（Phenomenal Conservatism）：对任意*p*，若它对你显得是*p*，而你正是基于这种显似而相信*p*，则该信念获得*pro tanto*的、可废止的证成（参 Chudnoff 2011b; Huemer 2006; Pryor 2000）[^chudnoff-2011b][^huemer-2006][^pryor-2000]。这种基于关系通常不算推论关系。实际上，这一角色恰合于内在主义的基础主义认识论：显似状态本身未获证成，却是证成者；基于其上的信念得到基础证成，再由这一基础推论出其他信念，后者便享有推论证成。
   - id: 73
     kind: body
     source: |-
       As articulated, Phenomenal Conservatism allows intuitions to justify beliefs without any externalist conditions, such as a reliable connection to the moral facts. To see this, imagine that we are being massively deceived by an evil demon (unbeknownst to us) and none of our seeming states are veridical. Still, according to the principle, we are justified in believing that things are as they seem to be. A more externalist epistemology would pay more attention to the right connections with the external facts, and it would not allow beliefs to be justified unless they had some good connection with the facts. For example, we might not want a belief to be justified unless it was produced by a reliable belief-forming process, in which case we want beliefs based on intuitions to be part of a reliable belief-forming process (Markie 2005: 356–357)[^markie-2005]. And there is nothing to prevent an epistemology of seemings that assigns some role to external connections. Shafer-Landau (2003: chs. 11–12), for example, has a moral epistemology that mixes internalist and externalist elements.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如上述表述所示，现象保守主义允许直觉在没有任何外在主义条件（例如与道德事实的可靠联系）的情况下证成信念。要看出这一点，可设想我们正被一个恶魔大规模欺骗（而我们并不知情），我们的显似状态没有一个是如实的。即便如此，按照该原则，我们仍有理由相信事情正如它们所显现的那样。更偏外在主义的认识论会更注意与外部事实的正确联系，除非信念与事实有某种良好联系，否则不会允许其获得证成。例如，我们可能希望：除非一个信念由可靠的信念形成过程产生，否则它不应获得证成；在这种情况下，我们就要求基于直觉的信念属于可靠的信念形成过程（Markie 2005: 356–357）[^markie-2005]。而没有什么能阻止一种给外在联系留出位置的显似认识论。例如，Shafer-Landau（2003: chs. 11–12）的道德认识论就混合了内在主义与外在主义要素。
+    step2: |-
+      按上述表述，现象保守主义允许直觉在任何外在主义条件（如与道德事实的可靠关联）之外证成信念。设想我们正被恶魔大规模欺骗（自己却浑然不觉），显似状态无一如实；即便如此，依该原则，我们仍有理由相信事情如其所显。更偏外在主义的认识论则更看重与外部事实的恰当关联，非有良好关联便不许信念获证成。例如，或可要求信念须由可靠的信念形成过程产生，才得证成——于是我们便要求基于直觉的信念属于可靠的信念形成过程（Markie 2005: 356–357）[^markie-2005]。但也没有任何东西阻止一种给外在关联留出位置的显似认识论；例如 Shafer-Landau（2003: chs. 11–12）的道德认识论就兼采内在主义与外在主义要素。
   - id: 74
     kind: body
     source: |-
       If we stick with Phenomenal Conservatism and its internalism, note that it underwrites a standard practice in ethics where intuitions play a central role in getting our beliefs off the ground, but best explanations, reflective equilibrium, and coherence can ultimately lead us to reject some things that were initially intuitive. Suppose we have a bunch of moral intuitions: an intuition that P, and intuition that Q,… and so on. On this basis we believe, and have some defeasible justification for believing, that P, that Q,… and so on. We can then consider what plausible theory best explains any pattern that emerges from P, Q, etc. The outcome of this process might be to ultimately reject some of P, Q, etc. But the main idea here is that intuitions legitimately feed into a respectable form of inquiry that gives intuitions some *pro tanto* and defeasible epistemic weight, much like other seeming states. And much like other seeming states, we might come to disbelieve some of the things that seem true, based on our best overall theories (as we reject the proposition that the stick in water is bent even though it appears so.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果我们坚持现象保守主义及其内在主义，请注意，它支持伦理学中的一种标准做法：直觉在使我们的信念起步时起核心作用，但最佳解释、反思平衡与融贯性最终可能引导我们拒斥某些起初觉得直观的东西。假设我们有一批道德直觉：对 P 的直觉、对 Q 的直觉……等等。在此基础上，我们相信 P、Q……并对之拥有某种可废止的证成。然后我们可以考虑：哪一种可信的理论最好地解释了 P、Q 等所呈现的任何模式。这一过程的结果可能是最终拒斥 P、Q 等中的某些。但这里的要点是：直觉正当地进入一种可敬的探究形式，它赋予直觉某种*pro tanto*的、可废止的认识论分量，正如其他显似状态一样。而且，正如其他显似状态一样，我们可能基于我们最好的整体理论，开始不相信某些显得为真的东西（正如我们尽管看到水中的棍子显得弯曲，却拒斥“水中的棍子是弯的”这一命题）。
+    step2: |-
+      若坚持现象保守主义及其内在主义，则须注意：它支撑伦理学的一种通行做法——直觉在信念起步阶段居核心地位，而最佳解释、反思平衡与融贯性最终可能使我们拒斥某些起初显得直观的东西。设有若干道德直觉：对 P 的直觉、对 Q 的直觉……；据此我们相信 P、Q……，并获可废止的证成。随后可追问：哪一种可信理论最能解释由 P、Q 等呈现出的模式？这一过程的结果，也许最终要拒斥 P、Q 等中的某些。要点在于：直觉正当地进入一种可敬的探究，并获得*pro tanto*的、可废止的认识论分量，与其他显似状态无异。也正因如此，我们可能依据最佳的整体理论而不信某些显得为真者——正如水中的棍子虽显得弯曲，我们仍拒斥“棍子弯了”。
   - id: 75
     kind: body
     source: |-
       Seen in this light, moral theory that relies on moral intuitions is just one domain among many where some things seem true, one thereby has some justification for believing that which seems true, and theory helps to best explain all that is true. This resonates with Ross’s position. Recall that he said “the moral convictions of thoughtful and well-educated people are the data of ethics, just as sense-perceptions are the data of natural science” (1930 [2002: 41]). Seeming state theorists simply think seeming states play this role, not the convictions of thoughtful and well-educated people.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如此看来，依赖道德直觉的道德理论，只是许多领域中之一：在那些领域中，有些东西显得为真，人们因此有某种理由相信显得为真者，而理论有助于最好地解释一切为真者。这与罗斯的立场相呼应。回想他说过：“深思熟虑且受过良好教育之人的道德信念是伦理学的数据，正如感官知觉是自然科学的数据”（1930 [2002: 41]）。显似状态理论家只是认为，起这一作用的是显似状态，而不是深思熟虑且受过良好教育者的信念。
+    step2: |-
+      由此看来，倚重道德直觉的道德理论，不过是“有些东西显得为真、人因而有理由相信它们、理论则助其最佳解释一切为真者”的众多领域之一。这与罗斯的立场遥相呼应——他尝言：“深思熟虑、教养良好者的道德信念是伦理学的数据，正如感官知觉是自然科学的数据”（1930 [2002: 41]）。显似状态理论家只追加一点：起这一作用的是显似状态，而非深思熟虑者的信念。
   - id: 76
     kind: body
     source: |-
       ### 3.2 Intellectual vs Sentimental Seemings
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 理智显似与情感显似
+    step2: |-
+      ### 3.2 理智显似与情感显似
   - id: 77
     kind: body
     source: |-
       So far, the seemings at issue have been characterized as intuitive seemings. But virtually everyone who characterizes intuitions as seeming states call them *intellectual* seemings or appearances (see, e.g., Bealer 1998; Huemer 2005: ch. 5; Bengson 2015)[^bealer-1998][^bengson-2015][^huemer-2005]. If ethical intuitions are intellectual seemings, this highlights continuity with the rationalist tradition found in Ethical Intuitionism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      到目前为止，所讨论的显似一直被刻画为直觉性显似。但几乎所有把直觉刻画为显似状态的人，都称它们为*理智*显似或显现（例如见 Bealer 1998; Huemer 2005: ch. 5; Bengson 2015）[^bealer-1998][^bengson-2015][^huemer-2005]。如果伦理直觉是理智显似，这就凸显了它们与伦理直觉主义中理性主义传统的连续性。
+    step2: |-
+      至此所论之显似，一直被刻画为直觉性显似。然而，凡把直觉视为显似状态者，几乎都称之为*理智*显似或理智性显现（例见 Bealer 1998; Huemer 2005: ch. 5; Bengson 2015）[^bealer-1998][^bengson-2015][^huemer-2005]。若伦理直觉属理智显似，便见其与伦理直觉主义中理性主义传统的连续性。
   - id: 78
     kind: body
     source: |-
       But there are those who maintain that some ethical intuitions are *sentimental* seemings. Sabine Roeser, for example, defends what she calls *affectual intuitionism*, which is the view that moral emotions are felt value judgments that provide epistemic access to objective moral truths (2011: ch. 5). To be clear, though she uses the term “intuitionism”, she does not think that ethical intuitions are non-doxastic states. For her, moral emotions are partly constituted by moral judgments, which provide epistemic access to moral truths by reliably tracking the moral facts. For this reason, it is not clear how she might distinguish intuitions from other sorts of states, as the seeming state theory tries to do. Christine Tappolet has a similar view, though she denies that having an emotion entails having an evaluative judgment. Still, she thinks emotions track and represent values in some way, and emotions are epistemically indispensable to discovering evaluative facts (Tappolet 2011)[^tappolet-2011]. Indeed, there are many neo-sentimentalists who think moral judgments “come from” sentiment in some way, but who do not explicitly talk about intuitions as distinct from moral judgments.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但也有人主张，某些伦理直觉是*情感*显似。例如，Sabine Roeser 为她所谓的*情感直觉主义*（affectual intuitionism）辩护：该观点认为，道德情感是被感受到的价值判断，它们提供通往客观道德真理的认识论通道（2011: ch. 5）。需要说明的是，尽管她使用“直觉主义”一词，她并不认为伦理直觉是非信念状态。对她而言，道德情感部分地由道德判断构成，而这些判断通过可靠地追踪道德事实而提供通往道德真理的认识论通道。因此，不清楚她如何能把直觉与其他种类的状态区分开来，正如显似状态理论试图做的那样。Christine Tappolet 有类似观点，尽管她否认拥有一种情感蕴含拥有一种评价性判断。她仍然认为，情感以某种方式追踪并表征价值，而情感在发现评价性事实方面是认识论上不可或缺的（Tappolet 2011）[^tappolet-2011]。的确，有许多新情感主义者认为道德判断在某种意义上“来自”情感，但他们并未明确把直觉与道德判断区分开来谈论。
+    step2: |-
+      但也有人主张，某些伦理直觉是*情感*显似。Sabine Roeser 即为其所谓*情感直觉主义*（affectual intuitionism）辩护，认为道德情感是被感受到的价值判断，为人提供通达客观道德真理的认识论通道（2011: ch. 5）。须说明：她虽用“直觉主义”之名，却不认为伦理直觉是非信念状态；在她看来，道德情感部分地由道德判断构成，而这些判断凭可靠地追踪道德事实而通达道德真理。正因如此，她如何把直觉与别种状态区分开（如显似状态理论所为），便不清楚了。Christine Tappolet 持类似看法，只是否认“有情感”蕴含“有评价性判断”；她仍认为情感以某种方式追踪并表征价值，且对发现评价性事实在认识论上不可或缺（Tappolet 2011）[^tappolet-2011]。此外，不少新情感主义者认为道德判断在某种意义上“出自”情感，却并未明确区分直觉与道德判断。
   - id: 79
     kind: body
     source: |-
       A neo-sentimentalist view that more clearly fits with seeming state theory is that of Antti Kauppinen. For him, substantive moral emotions are quasi-perceptual: they present evaluative content (e.g., indignation presents injustice). These emotional appearances are *prima facie* justifiers, just like any other appearance. But Kauppinen argues that grounding the seemings in emotion instead of the intellect does a better job explaining two key features that distinguish substantive moral intuitions from intuitions of other sorts:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一种更清楚契合显似状态理论的新情感主义观点是 Antti Kauppinen 的观点。对他而言，实质性的道德情感是准知觉的：它们呈现评价性内容（例如，义愤呈现不义）。这些情感性显现是*初显*证成者，正如任何其他显现一样。但 Kauppinen 论证说，把显似奠基于情感而非理智，能更好地解释区分实质性道德直觉与其他种类直觉的两个关键特征：
+    step2: |-
+      与显似状态理论更契合的新情感主义，是 Antti Kauppinen 之说。他认为实质性的道德情感具有准知觉性：它们呈现评价性内容（如义愤呈现不义）。这些情感性显现与任何显现一样，都是*初显*证成者。但他进一步论证：把显似奠基于情感而非理智，更能解释实质性道德直觉区别于他种直觉的两个特征——
   - id: 80
     kind: body
     source: |-
       1. their phenomenology is distinctive and diverse, often involving an affective tone and
       2. they provide (intrinsic) motivation (2013; see also Dancy 2014)[^dancy-2014].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 它们的现象学是独特而多样的，常带有情感色调；以及
+      2. 它们提供（内在的）动机（2013; 另见 Dancy 2014）[^dancy-2014]。
+    step2: |-
+      1. 其现象学独特而多样，常带情感色调；
+      2. 它们提供（内在）动机（2013; 另见 Dancy 2014）[^dancy-2014]。
   - id: 81
     kind: body
     source: |-
       On the differences between moral intuitions and intuitions of other sorts see also DePaul (2009: 211), Wielenberg (2014: 111), Bedke (2008, 2016).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于道德直觉与其他种类直觉的差异，另见 DePaul（2009: 211）、Wielenberg（2014: 111）、Bedke（2008, 2016）。
+    step2: |-
+      道德直觉与他种直觉之别，另见 DePaul（2009: 211）、Wielenberg（2014: 111）、Bedke（2008, 2016）。
   - id: 82
     kind: body
     source: |-
       Similarly, James Hutton (2022) defends a view he calls “emotional intuitionism”. As with Roeser and Tappolet, it is not clear that intuition *per se* plays a role. His main claim is that moral *experiences* consist of emotions. He argues that this best explains two observations:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      类似地，James Hutton（2022）为他所谓“情感直觉主义”的观点辩护。与 Roeser 和 Tappolet 一样，不清楚直觉*本身*是否起作用。他的主要主张是：道德*经验*由情感构成。他论证说，这最能解释两个观察：
+    step2: |-
+      同样地，James Hutton（2022）为其所谓“情感直觉主义”辩护。与 Roeser、Tappolet 一样，直觉*本身*是否起作用并不清楚；他的核心主张是道德*经验*由情感构成，并称这最能解释两点观察：
   - id: 83
     kind: body
     source: |-
       1. in the most compelling cases of moral experience, emotions are present, and
       2. the moral experience covaries with the presence of the emotions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 在最有力的道德经验事例中，情感是存在的；以及
+      2. 道德经验随情感的出现而变化。
+    step2: |-
+      1. 最具说服力的道德经验事例中总有情感在场；
+      2. 道德经验与情感之在场共变。
   - id: 84
     kind: body
     source: |-
       Insofar as moral experiences consist of moral seemings, this would classify moral intuitions and sentimental seemings.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      就道德经验由道德显似构成而言，这会把道德直觉归入情感显似。
+    step2: |-
+      若道德经验由道德显似构成，则道德直觉便当归入情感显似一类。
   - id: 85
     kind: body
     source: |-
       There is the possibility of pluralism about intuitive seemings in ethics, where some are intellectual and others are sentimental. Intuitions about formal matters like the transitivity of value, for example, are not likely sentimental even if some substantive moral intuitions are sentimental. And substantive intuitions about the moral statuses of actions, perhaps the impermissibility of rape, are arguably better candidates for sentimental seemings.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伦理学中关于直觉性显似存在多元论的可能：有些是理智的，另一些是情感的。例如，关于价值传递性这类形式问题的直觉，即使某些实质性道德直觉是情感的，也不太可能是情感的。而关于行为道德地位的实质性直觉，也许如强奸的不可许可性，则更有理由被视为情感显似。
+    step2: |-
+      伦理学中的直觉性显似可以是多元的：有的属理智，有的属情感。例如关于价值传递性这类形式问题的直觉，即便某些实质性道德直觉属情感，本身也不太可能是情感的；而关于行为道德地位的实质性直觉（或许如强奸之不可许可），则更有理由算作情感显似。
   - id: 86
     kind: body
     source: |-
       ## 4. Apprehension
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 领会
+    step2: |-
+      ## 4. 领会
   - id: 87
     kind: body
     source: |-
       Some intuitionists embrace an ability to rationally *apprehend* certain facts. We find this idea both in those who are friendly to self-evident propositions and those who are friendly to seeming state theory. Unlike seeming states, apprehensions are factive. There are different ways to develop this thought. You might think some propositions are true thanks to the relations of the properties/universals featured in the proposition. If so, you might posit an intellectual ability to grasp these properties/universals and relations among them (Huemer 2005: 124–126; see also Russell 1912: chs. IX–XI; Cuneo & Shafer-Landau 2014)[^cuneo-2014][^huemer-2005][^russell-1912]. Similarly, Bengson, Cuneo and Schafer-Landau (2023; 2024) endorse Price’s view that we can intellectually apprehend the *essences* of certain act types. According to them, we can thereby intellectually see (via what they call “Pricean reflection”) that certain act types are essentially morally valanced (2024: ch. 4). For example, we can intellectually see that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些直觉主义者主张人有一种理性地*领会*某些事实的能力。这一想法既见于亲近自明命题的人，也见于亲近显似状态理论的人。与显似状态不同，领会是事实性的。发展这一想法有不同方式。你可能认为，某些命题之所以为真，要归功于该命题中出现的属性／共相之间的关系。若如此，你可能会设定一种把握这些属性／共相及其间关系的理智能力（Huemer 2005: 124–126; 另见 Russell 1912: chs. IX–XI; Cuneo & Shafer-Landau 2014）[^cuneo-2014][^huemer-2005][^russell-1912]。类似地，Bengson、Cuneo 与 Schafer-Landau（2023; 2024）赞同普莱斯的观点：我们能在理智上领会某些行为类型的*本质*。按照他们的说法，我们能借此在理智上看出（通过他们所谓的“普莱斯式反思”）某些行为类型本质上具有道德效价（2024: ch. 4）。例如，我们能在理智上看出
+    step2: |-
+      有些直觉主义者承认人具有理性地*领会*某些事实的能力。亲近自明命题者与亲近显似状态理论者都有此说。与显似状态不同，领会是事实性的。这一想法可有不同展开：或可认为，某些命题之所以为真，端赖其中所涉属性／共相之间的关系；于是便可设定一种把握这些属性／共相及其关系的理智能力（Huemer 2005: 124–126; 另见 Russell 1912: chs. IX–XI; Cuneo & Shafer-Landau 2014）[^cuneo-2014][^huemer-2005][^russell-1912]。同样，Bengson、Cuneo 与 Schafer-Landau（2023; 2024）赞同普莱斯：我们能在理智上领会某些行为类型的*本质*，并借所谓“普莱斯式反思”在理智上看出某些行为类型本质上具有道德效价（2024: ch. 4）。例如，我们能在理智上看出：
   - id: 88
     kind: body
     source: |-
       > [I]t is essential to protecting one’s children from lethal danger that an action instantiates this property only if there is strong moral reason to perform it. (2024: 340).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ［要］保护自己的孩子免于致命危险，其本质在于：一个行为只有存在强烈的道德理由去做它时，才具有这一属性。（2024: 340）。
+    step2: |-
+      > ［要］保护子女免遭致命危险，其本质就在于：一个行为唯有在存在强烈道德理由去实行时，才具有这一属性。（2024: 340）。
   - id: 89
     kind: body
     source: |-
       These theories of intellectual apprehension might help flesh out the idea of a self-evident proposition. As noted above, we would like to know what it is about some true propositions, or what it is about our understanding, such that those propositions can be justifiably believed or known on a basis of understanding them. We could start an answer along the following lines. First, some propositions are true thanks to the relations of the properties/universals featured therein. Second, our powers of understanding are such that we can grasp the relations between certain properties/universals, and when we do so it is a kind of apprehension.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些关于理智领会的理论可能有助于充实自明命题这一观念。如上所述，我们想知道：某些真命题的什么特征，或者我们理解力的什么特征，使这些命题能够在理解它们的基础上被有理由地相信或认识。我们可以沿着如下思路开始回答。第一，某些命题之所以为真，要归功于其中所出现的属性／共相之间的关系。第二，我们的理解力使我们能够把握某些属性／共相之间的关系，而我们这样做时，就是一种领会。
+    step2: |-
+      这些理智领会理论，或可充实“自明命题”之说。如前所述，我们想知道：究竟某些真命题具备何种特征，或我们的理解力具备何种特征，才使这些命题能凭“理解它们”而被有理由地相信或认识？答案可循两条起步：其一，某些命题之为真，端赖其中所涉属性／共相之间的关系；其二，我们的理解力足以把握某些属性／共相之间的关系，而这一把握即是领会。
   - id: 90
     kind: body
     source: |-
       For those who embrace intuitions as intellectual seemings and also maintain that sometimes we intellectually apprehend certain moral facts, there is a nice parallel with perceptual seemings and perception. We can divide perceptual seemings into the good cases and the bad cases. In good cases it not only perceptually seems that *p*, but we perceive that *p*. In the bad cases, it only perceptually seems that *p*, and we do not perceive that *p*. From the inside, these might be indistinguishable and it might be that the seemings in both cases provide justification, but only in the good cases do we get knowledge. The same can be said for intellectual seemings. Intellectual seemings always justify but only in the good cases—the cases that are also intellectual apprehensions—do we get knowledge.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对于那些既把直觉视为理智显似、又主张我们有时在理智上领会某些道德事实的人来说，这里与知觉显似和知觉之间有一种很好的平行关系。我们可以把知觉显似分为好情形与坏情形。在好情形中，不仅知觉上显得是*p*，而且我们知觉到*p*。在坏情形中，只是知觉上显得是*p*，而我们并未知觉到*p*。从内部看，二者可能无法区分，且两种情形中的显似都可能提供证成，但只有在好情形中我们才获得知识。对理智显似也可以这样说。理智显似总能证成，但只有在好情形中——即同时也是理智领会的情形——我们才获得知识。
+    step2: |-
+      若既把直觉视为理智显似，又主张我们有时能在理智上领会某些道德事实，则与知觉显似和知觉之间有一绝佳类比。知觉显似可分好坏两种情形：好情形中不仅知觉上显得是*p*，而且我们确实知觉到*p*；坏情形中只是显得是*p*，并未知觉到*p*。自内观之，两者或不可分辨，且两种情形中的显似都能提供证成，但唯有好情形才给我们知识。理智显似亦然：理智显似总能证成，但唯有好情形——兼为理智领会的情形——才给我们知识。
   - id: 91
     kind: body
     source: |-
