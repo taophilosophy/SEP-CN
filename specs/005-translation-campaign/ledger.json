@@ -82,8 +82,8 @@
    "phase": "translate",
    "claimed_by": "K-main-20261108",
    "claimed_at": "2026-11-07T19:17:43Z",
-   "note": "36 任务全建并 cleared（karl-reinhold 沿用已存在任务）；对账补记（2026-11-06）：NO_LEDGER 4＝AK-main-20261105 会话所译 kant-science/kant-social-political/korean-buddhism/knowledge-analysis 无账本（ADR-0021 债，不补造留痕；done 10 条账本齐全）；二次对账（2026-11-06 I-K 接管）：任务 36=done 10/s3_checked 10/cleared 16（原记 cleared 22/s3_checked 4 已过时，6 条在 11-05 后推进至 s3）＋knowledge-acquaindescrip 账本 48/103 在途（本轮补齐中）；收口（2026-11-06 I-K 接管会话）：knowledge-acquaindescrip 账本续填中，任务 36=done 10/s3_checked 10/cleared 16",
-   "advanced_at": "2026-11-06T10:40:20Z"
+   "note": "2026-11-08 对账与收口（K-main-20261108）：36 条=done 10→21 + cleared 15。原 s3_checked 11 条经真实 r1-r3 复核收口 done：6 条查出参考文献区缺件并实修（kant-hume-morality 主文献区整段 99 行、kierkegaard/kumaarila/knowledge-value/kant-reason/kant-social-political 子标题回填），5 条五维齐平无缺陷；三条 done 词条定点纠正（kant-mathematics 补 schönfeld-2000、kant-mind bold-spacing、kochen-specker 破损标记与英文残留）；check_style 成对中文单引号遮蔽误报修正（已随并行提交入库）。余 15 条待译，源 109K–242K，体量升序：korean-confucianism → kant-judgment → kukai → kant-transcendental → …",
+   "advanced_at": "2026-11-08T00:11:09Z"
   },
   "l": {
    "phase": "translate",
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-07T23:49:14Z"
+ "updated_at": "2026-11-08T00:11:09Z"
 }

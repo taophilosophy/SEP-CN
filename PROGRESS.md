@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-07 23:54（UTC）
+生成时间：2026-11-08 00:11（UTC）
 
 ## 总览
 
@@ -14,27 +14,27 @@
 |已建英文基线|1879|
 |已建任务|1028|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|193|
-|在途（drafted 起、done 前）|234|
+|已完成（done）|195|
+|在途（drafted 起、done 前）|233|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|601|
-|cleared|163|
-|drafted|4|
+|pending|600|
+|cleared|162|
+|drafted|5|
 |s1_checked|1|
-|s3_checked|65|
+|s3_checked|64|
 |r1_reviewed|1|
-|done|193|
+|done|195|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|51|
+|A|160|160|160|52|
 |B|62|62|62|9|
 |C|172|172|172|3|
 |D|92|92|92|11|
@@ -53,7 +53,7 @@
 |Q|34|34|0|0|
 |R|85|85|11|6|
 |S|161|161|13|8|
-|T|71|71|6|0|
+|T|71|71|6|1|
 |U|4|4|0|0|
 |V|15|15|0|0|
 |W|38|38|6|0|
@@ -83,7 +83,6 @@
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
-|aristotle-causality|retranslate|cleared|task_ops 2026-11-07|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bauer|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |bayes-theorem|retranslate|s3_checked|? 2026-11-04|
@@ -236,12 +235,13 @@
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
 |imprecise-probabilities|retranslate|cleared|task_ops 2026-11-07|
 |information-biological|retranslate|cleared|task_ops 2026-11-01|
+|ingarden|retranslate|cleared|task_ops 2026-11-07|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
 |intuitionism-ethics|retranslate|cleared|task_ops 2026-11-01|
 |jaina-philosophy|retranslate|cleared|task_ops 2026-11-01|
 |james-mill|retranslate|s3_checked|? 2026-11-07|
 |james-viterbo|retranslate|cleared|task_ops 2026-11-01|
-|japanese-aesthetics|retranslate|cleared|task_ops 2026-11-01|
+|japanese-aesthetics|retranslate|drafted|J-main-20261108 2026-11-08|
 |japanese-confucian|retranslate|cleared|task_ops 2026-11-01|
 |japanese-philosophy|retranslate|cleared|task_ops 2026-11-01|
 |japanese-pure-land|retranslate|cleared|task_ops 2026-11-01|
@@ -293,7 +293,6 @@
 |scholem|retranslate|drafted|SZ-main-20261108 2026-11-07|
 |telesio|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |theology-aristotle|retranslate|cleared|task_ops 2026-11-07|
-|timon-phlius|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
 |truth-coherence|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
 |william-jevons|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |william-sherwood|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
