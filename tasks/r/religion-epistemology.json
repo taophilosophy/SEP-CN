@@ -1,0 +1,29 @@
+{
+  "slug": "religion-epistemology",
+  "kind": "retranslate",
+  "zh_doc": "r/religion-epistemology.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "direction",
+      "status": "ok",
+      "actor": "QR-main-20261108",
+      "at": "2026-11-08T14:40:23Z",
+      "evidence": "方向声明（rules/08）：r 批 religion-epistemology（源文 6649 词、56 段账本）。目标：走完 draft→s1→s2→s3→r1→r2→r3→done 全流程；验收判据=四检（style/math/summary/academic --strict）全绿、check_prose 清零、check_all 7 项全绿。非目标：不改原文、不补内容、不造引文、不动他会话在途文件与他人批次。冷置安排：本件 s3 后转下一件，r1–r3 回来复读本件。"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T14:08:56Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-08T14:08:56Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 26, 2025",
+    "archive_edition": "Winter 2025",
+    "sha256": "d46529f29003482881f77009fd99ded0c7bf41b9cdab97f66f76d767044fd3c6"
+  }
+}

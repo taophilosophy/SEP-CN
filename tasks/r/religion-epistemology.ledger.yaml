@@ -1,0 +1,383 @@
+version: 1
+slug: religion-epistemology
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      This entry focuses on two topics, evidentialism and disagreement. They are related because one reaction to the latter could be return to the former. Both are general epistemological topics but seem especially pertinent to religion, which not merely provides examples but introduces further considerations: privacy, problematic expertise, moral implications, the *sensus divinitatis*, religious experience, the idea of faith as gift and faith as commitment.
+    step1: |-
+      本文聚焦两个主题：证据主义与分歧。二者之所以相关，是因为对后者的一种反应可能正是回到前者。两者都是一般认识论主题，但似乎与宗教尤为相干——宗教不仅提供例证，还引入进一步的考虑：隐私、成问题的专门知识、道德意涵、*sensus divinitatis*（神圣感知）、宗教经验、信仰作为礼物与信仰作为委身的观念。
+    step2: |-
+      本文聚焦两个主题：证据主义与分歧。二者相关，因为对分歧的一种回应，可能正是回到证据主义。两者都属一般认识论主题，却与宗教尤为相干：宗教不仅提供例证，还引入若干额外考虑——隐私、成问题的专家知识、道德意涵、*sensus divinitatis*（神圣感知）、宗教经验，以及“信仰即礼物”与“信仰即委身”两种观念。
+  - id: 2
+    kind: body
+    source: |-
+      Evidentialism is the initially plausible position that a belief is justified only if “it is proportioned to the evidence”. For example, suppose a local weather forecaster has noticed that a wetter than average Winter has been followed in 85% of cases by a hotter than average Summer. Then, assuming for simplicity that the records are reliable, the forecaster is justified in believing with less than full confidence that this Winter, which is wetter than average, will be followed by a hotter than average Summer. But evidentialism implies that it would not be justified to have full belief, that is belief with 100% confidence. Again, consider someone who has a *hunch* that this Summer will be hotter than average but cannot justify that hunch further. Hunches are not considered evidence, so the belief is not considered justified. If, hunches about the weather have mostly turned out correct then the belief would be considered justified. For although hunches are not considered evidence, memories about them are, as are the observations that corroborated past hunches.
+    step1: |-
+      证据主义是这样一种初看合理的立场：一个信念唯有“与证据相称”才被证成。例如，假设一位本地气象预报员注意到，在 85% 的情形中，比平均更湿润的冬季之后跟着比平均更炎热的夏季。那么，为简单起见假定这些记录可靠，预报员便有理由以低于完全的信心相信：这个比平均更湿润的冬季之后将跟着比平均更炎热的夏季。但证据主义蕴含：拥有完全信念、即具有 100% 信心的信念，并不被证成。再考虑某人对今年夏季将比平均更热有一种*预感*，却无法进一步证成这种预感。预感不被视为证据，因此该信念也不被视为被证成。如果关于天气的预感大多后来被证明正确，那么该信念就会被视为被证成。因为尽管预感本身不被视为证据，关于预感的记忆却是证据，证实过过去预感的观察也是证据。
+    step2: |-
+      证据主义初看颇为合理：一个信念唯有“与证据相称”才算得到证成。例如，假设一位本地气象预报员发现，在 85% 的情形中，较之平均更为湿润的冬季之后，都跟着一个较之平均更为炎热的夏季。那么，为简单起见假定记录可靠，预报员便有理由以低于完全的信心相信：这个较平均更为湿润的冬季之后，将跟着一个较平均更为炎热的夏季。但证据主义蕴含：持有完全信念——即以 100% 的信心相信——并不因此得到证成。再看另一例：某人对今年夏季将比平均更热有一种*预感*，却无法进一步为这种预感提供理由。预感不被当作证据，故此信念也不被当作得到证成。倘若关于天气的预感大多后来被证明是对的，该信念便会被当作得到证成；这是因为，预感本身虽不算证据，关于预感的记忆却算，证实过以往预感的观察也算。
+  - id: 3
+    kind: body
+    source: |-
+      Evidentialism implies that full religious belief is justified only if there is conclusive evidence for it. It follows that if the arguments for there being a God, including any arguments from religious experience, are at best probable ones, no one would be justified in having a full belief that there is a God. And the same holds for other religious beliefs, such as the belief that God is not just good in a utilitarian fashion but loving, or the belief that there is an afterlife. Likewise it would be unjustified to believe even with less than full confidence that, say, Krishna is divine or that Mohammed is the last and most authoritative of the prophets, unless a good case can be made for these claims from the evidence.
+    step1: |-
+      证据主义蕴含：完全的宗教信念唯有在有决定性证据支持时才被证成。由此推出，如果支持有上帝存在的论证——包括任何来自宗教经验的论证——充其量只是概然性的，那么任何人都不会被证成持有“有上帝”的完全信念。其他宗教信念亦然，例如相信上帝不只是功利意义上的善，而是慈爱的，或相信有来世。同样，即便以低于完全的信心相信——比如说——克里希纳是神性的，或穆罕默德是最后且最具权威的先知，也不会被证成，除非能从证据为这些主张作出良好的论证。
+    step2: |-
+      证据主义蕴含：完全的宗教信念，唯有在拥有决定性证据时才得到证成。由此可推，倘若支持上帝存在的论证——包括一切出于宗教经验的论证——至多只是概然的，那么谁也没有资格持有“上帝存在”这一完全信念。其他宗教信念亦然，诸如相信上帝并非只在功利意义上善，而是慈爱的；或相信存在来世。同样，即便只以低于完全的信心相信克里希纳具有神性、或穆罕默德是最后也最具权威的先知，也不算得到证成——除非能依据证据为这些主张给出充分理由。
+  - id: 4
+    kind: body
+    source: |-
+      Evidentialism, then, sets rather high standards for justification, standards that the majority do not, it would seem, meet when it comes to religious beliefs, where many rely on “faith”, which is more like the hunch about the weather than the argument from past climate records. Many others take some body of scripture, such as the Bible or the Koran as of special authority, contrary to the evidentialist treatment of these as just like any other books making various claims. Are these standards too high?
+    step1: |-
+      由此可见，证据主义为证成设定了相当高的标准；就宗教信念而言，多数人似乎并未达到这些标准——许多人依赖“信仰”，而信仰更像对天气的预感，而不像根据过去气候记录所作的论证。还有许多其他人把某部经典——如《圣经》或《古兰经》——视为具有特殊权威，这与证据主义把这些书仅仅看作提出各种主张的普通书籍的做法相反。这些标准是否过高？
+    step2: |-
+      如此看来，证据主义为证成设定的标准相当高；而在宗教信念上，多数人似乎并未达标——他们所倚赖的“信仰”，更接近对天气的预感，而非依据往昔气候记录所作的论证。另有不少人把《圣经》《古兰经》之类经典奉为具有特殊权威，这与证据主义的处理方式正相反对：在证据主义者看来，这些书与其他提出种种主张的书并无二致。那么，这些标准是否过高？
+  - id: 5
+    kind: body
+    source: |-
+      This century has seen a turn in the debate, with emphasis on the implications of disagreement, “How can sincere intelligent people disagree? Should you not, therefore, suspend judgement?” Unless, that is, your belief meets evidentialist standard but not those of the ones with whom you disagree.
+    step1: |-
+      本世纪这场争论出现了转向，重点落在分歧的意涵上：“真诚而聪慧的人何以会分歧？因此，你难道不应当悬置判断吗？”——除非你的信念符合证据主义标准，而与你有分歧者的信念不符合。
+    step2: |-
+      本世纪，争论出现转向，重心移至分歧的意涵：“真诚而聪慧的人怎么会各执一词？既然如此，你难道不该悬置判断？”——除非你的信念合乎证据主义标准，而与你分歧者的信念并不合乎。
+  - id: 6
+    kind: body
+    source: |-
+      ## 1. Simplifications
+    step1: |-
+      ## 1. Simplifications
+    step2: |-
+      ## 1 简化处理
+  - id: 7
+    kind: body
+    source: |-
+      Epistemology is confusing because there are several sorts of items to be evaluated and several sorts of evaluation. Since the topic of this article is the epistemology of religion not general epistemology it will be assumed that what is being evaluated is something related to faith, namely individual religious beliefs, and that the way of evaluating religious beliefs is as justified or unjustified.
+    step1: |-
+      认识论之所以令人困惑，是因为有待评价的项目有好几类，评价的方式也有好几种。由于本文的主题是宗教认识论而非一般认识论，文中将假定：被评价的是与信仰相关的某物，即个人的宗教信念；而评价宗教信念的方式，是判定其被证成或未被证成。
+    step2: |-
+      认识论之所以令人困惑，是因为待评价的东西有好几类，评价方式也有好几种。本文主题是宗教认识论而非一般认识论，故文中假定：所评价者为与信仰相关者，即个人的宗教信念；评价方式则是判定其得到证成与否。
+  - id: 8
+    kind: body
+    source: |-
+      This entry, therefore, concentrates on questions such as, “Is it justified for Fatima to believe in God?”, “Is it justified for Richard to believe in the Trinity?”, or “Is it justified for Ramanujan to believe that Krishna is a human incarnation of the divine?” It ignores such questions as whether these beliefs count as knowledge or whether these beliefs are scientific. It also ignores disputes between coherence theorists and foundationalists and disputes over whether belief is voluntary. Although these have some implications for the epistemology of religion they are primarily topics in general epistemology.
+    step1: |-
+      因此，本文集中讨论诸如此类的问题：“法蒂玛相信上帝，是否被证成？”“理查德相信三位一体，是否被证成？”或“拉马努金相信克里希纳是神性的人身化身，是否被证成？”它忽略如下问题：这些信念是否算作知识，或这些信念是否科学。它也忽略融贯论者与基础主义者之间的争论，以及信念是否自愿的争论。尽管这些对宗教认识论有些意涵，但它们主要是普通认识论的主题。
+    step2: |-
+      因此，本文集中于这类问题：“法蒂玛相信上帝，算不算得到证成？”“理查德相信三位一体，算不算得到证成？”“拉马努金相信克里希纳是神性的人身化身，算不算得到证成？”至于这些信念是否算知识、是否科学，则不在讨论之列；融贯论者与基础论者之争、信念是否自愿之争，也一并略过。这些议题对宗教认识论虽有些牵动，却主要属于一般认识论。
+  - id: 9
+    kind: body
+    source: |-
+      Although the topic is religious belief the same questions can be asked about faith in the absence of belief, where the standards might be more lax. For example Schellenberg (2009) has argued that it is not justified to believe in a personal God, not justified to have faith in a personal God , not justified even to believe in something ultimate but it is justified to have a religious attitude of faith in something ultimate. Finally, and more controversially, this entry concentrates on Western epistemology of religion, which is not, however, the same as the epistemology of Western religion. Note, though, that epistemological disputes between Hindu and Buddhist philosophers over a thousand years ago are much the same as those considered here.
+    step1: |-
+      虽然主题是宗教信念，但同样的问题也可以就无信念的信仰提出，那里的标准或许更宽松。例如，舍伦贝格（Schellenberg 2009）论证说，相信一位人格神不被证成，对一位人格神怀有信仰也不被证成，甚至相信某种终极之物也不被证成，但对某种终极之物怀有信仰的宗教态度却是被证成的。最后，也更具争议的是，本文集中于西方的宗教认识论，然而这并不等同于西方宗教的认识论。不过请注意，一千多年前印度教与佛教哲学家之间的认识论争论，与这里所考虑的争论十分相似。
+    step2: |-
+      主题虽是宗教信念，但同样的问题也可针对“无信念的信仰”提出，那里的标准或许更为宽松。例如，舍伦贝格（Schellenberg 2009）主张：相信一位人格神固然未获证成，对一位人格神怀有信仰也未获证成，甚至相信某种终极之物同样未获证成；但对某种终极之物持一种信仰性的宗教态度，却是得到证成的。最后一点更具争议：本文集中于西方的宗教认识论，但这并不等于西方宗教的认识论。不过要注意，一千多年前印度教与佛教哲学家之间的认识论争论，与本文所论颇为相似。
+  - id: 10
+    kind: body
+    source: |-
+      ## 2. The Rejection of Enlightenment Evidentialism
+    step1: |-
+      ## 2. The Rejection of Enlightenment Evidentialism
+    step2: |-
+      ## 2 对启蒙证据主义的拒斥
+  - id: 11
+    kind: body
+    source: |-
+      Most contemporary epistemology of religion may be called *post modern* in the sense of being a reaction to the Enlightenment, in particular to the thesis of the *hegemony* of evidentialism. (Compare Vanhoozer 2003.)[^vanhoozer-2003] Hegemony is discussed below, but first consider evidentialism. This is the initially plausible position that a belief is justified only if “it is proportioned to the evidence”. Here several sorts of evidence are allowed. One consists of beliefs in that which is “evident to the senses”, that is, beliefs directly due to sense-experience. Another sort of evidence is that which is “self-evident”, that is, obvious once you think about it. Evidence may also include the beliefs directly due to memory and introspection. Again moral convictions might count as evidence, even if not treated as self-evident. But in order to state the sort of evidentialism characteristic of Enlightenment thought, it is stipulated that no beliefs asserting the content of religious or mystical experiences count as evidence. For example, if Fatima had an experience that she would describe as of the presence of God she should not treat Gods presence to her as a piece of evidence. That does not prevent the claim that someone has had a religious experience with a certain content from counting as evidence. For example, the fact that Fatima had an experience as if of God’s presence would be a piece of evidence. Likewise the fact that various people report miracles counts as evidence.
+    step1: |-
+      当代宗教认识论大多可称为*后现代*（post modern），意思是对启蒙的一种反应，尤其是对证据主义*霸权*论题的反应。（参较 Vanhoozer 2003。）[^vanhoozer-2003] 霸权将在下文讨论，但先考虑证据主义。它是这样一种初看合理的立场：一个信念唯有“与证据相称”才被证成。这里允许若干种证据。一种是关于“对感官显而易见者”的信念，即直接由感觉经验而来的信念。另一种证据是“自明者”，即一经思考便显而易见者。证据也可以包括直接由记忆与内省而来的信念。再者，道德确信或许也算证据，即便不被当作自明者。但为了陈述启蒙思想所特有的一类证据主义，须规定：任何断称宗教或神秘经验之内容的信念都不算证据。例如，如果法蒂玛有过一种她会描述为上帝临在的经验，她不应当把上帝向她临在当作一条证据。这并不妨碍“某人曾有过具有某种内容的宗教经验”这一主张算作证据。例如，法蒂玛曾有过仿佛上帝临在的经验这一事实，会是一条证据。同样，各种人报告奇迹这一事实也算证据。
+    step2: |-
+      当代宗教认识论大多可冠以*后现代*（post modern）之名，意谓它是对启蒙的反应，尤其是对证据主义*霸权*论题的反应（参较 Vanhoozer 2003）[^vanhoozer-2003]。霸权问题留待后文，先看证据主义。这一立场初看颇为合理：信念唯有“与证据相称”才得到证成。此处允许若干类证据：一类是关于“对感官显而易见者”的信念，即直接源于感觉经验的信念；另一类是“自明者”，即一经思索便显而易见者；证据还可包括直接源于记忆与内省的信念。此外，道德确信或许也算证据，即使不按自明者对待。不过，为陈述启蒙思想所特有的那类证据主义，此处特作规定：凡断称宗教经验或神秘经验之内容的信念，一概不算证据。譬如，法蒂玛若有某种她会描述为上帝临在的经验，她不应把上帝向她临在当作一条证据。但这并不妨碍“某人有过具有某种内容的宗教经验”这一主张算作证据：法蒂玛曾有过仿佛上帝临在的经验，这一事实便是一条证据。同样，不同的人报告奇迹这一事实，也算证据。
+  - id: 12
+    kind: body
+    source: |-
+      Evidentialism implies that no full religious belief (i.e. a religious belief held with full confidence) is justified unless there is conclusive evidence for it, or it is self-evident. The content of religious experience has been stipulated not to count as evidence. Even if, as Descartes held, the existence of God is self-evident, beliefs such as Richard’s in the Trinity and Ramanujan’s in the divinity of Krishna are not. So the only available evidence for these beliefs would seem to be non-religious premises, from which the religious beliefs are inferred. Therefore, the only way of deciding whether the religious beliefs are justified would be to examine various arguments with the non-religious beliefs as premises and the religious beliefs as conclusions.
+    step1: |-
+      证据主义蕴含：没有任何完全的宗教信念被证成，除非有决定性证据支持它，或它是自明的。宗教经验的内容已被规定为不算证据。即便如笛卡尔所主张，上帝的存在是自明的，理查德对三位一体的信念、拉马努金对克里希纳神性的信念却并非自明。因此，这些信念唯一可用的证据看来只能是非宗教的前提，宗教信念由之推出。所以，判定这些宗教信念是否被证成的唯一方式，就是考察各种以非宗教信念为前提、以宗教信念为结论的论证。
+    step2: |-
+      证据主义蕴含：任何完全的宗教信念，除非有决定性证据、抑或本身自明，否则未获证成。宗教经验的内容已按规定不算证据。即便如笛卡尔所主张，上帝存在是自明的，理查德对三位一体的信念、拉马努金对克里希纳神性的信念却并不自明。这样一来，这些信念唯一可用的证据，似乎就只有非宗教的前提，再由之推出宗教信念。于是，要判定这些宗教信念是否得到证成，便只有一条路：逐一考察那些以非宗教信念为前提、以宗教信念为结论的论证。
+  - id: 13
+    kind: body
+    source: |-
+      According to evidentialism it follows that if the arguments for there being a God, including any arguments from religious experience, are at best probable ones, and if, as most hold, God’s existence is not self-evident then no one would be justified in having full belief that there is a God. And the same holds for other religious beliefs. Likewise, it would not be justified to believe even partially (i.e. with less than full confidence) if there is not a balance of evidence for belief.
+    step1: |-
+      按照证据主义，由此可推出：如果支持有上帝存在的论证——包括任何来自宗教经验的论证——充其量只是概然性的，并且如果像多数人主张的那样，上帝的存在并非自明，那么任何人都不会被证成持有“有上帝”的完全信念。其他宗教信念亦然。同样，如果没有支持信念的证据平衡，那么即便部分地相信（即以低于完全的信心相信）也不会被证成。
+    step2: |-
+      依证据主义可推：倘若支持上帝存在的论证——包括一切出于宗教经验的论证——至多只是概然的，又倘若如多数人所主张，上帝存在并不自明，那么谁也没有资格持有“上帝存在”的完全信念；其他宗教信念亦同此理。同样，若证据并未在支持信念一侧形成平衡，那么即便只是部分地相信（即以低于完全的信心相信），也未获证成。
+  - id: 14
+    kind: body
+    source: |-
+      In fact it seems that many religious believers combine full belief with “doubts” in the sense of some reasons for doubting, or they combine partial belief with what they take to be weighty reasons for disbelief. According to evidentialism this is not justified. Other believers consider that, on reflection, they have little reason for doubting but that they have almost no positive evidence for their religious beliefs. According to evidentialism this too is unjustified. This raises the question, how can we adjudicate between an epistemological thesis which might otherwise be believed and a religious belief which that thesis implies is unjustified? The Enlightenment assumed two related, hegemony theses, those of epistemology and of evidentialism. The hegemony of epistemology states that (a) human beings can discover the correct epistemology in isolation from discovering actual human tendencies to form beliefs, and so (b) there is an overriding reason to use the correct epistemology (once discovered) to correct the above-mentioned tendencies. The hegemony of evidentialism adds to the hegemony of epistemology the further thesis that (c) evidentialism is the correct epistemology. If, according to evidentialism, full or even partial religious beliefs are unjustified, then, given the hegemony of evidentialism there is an overriding reason to reject those beliefs. Perhaps the clearest exponent of this position is Clifford whose use of moral vocabulary conveys well the overriding character of the reasons epistemology is said to provide. His position is summed up in the famous quotation: “It is wrong always, everywhere, and for anyone, to believe anything upon insufficient evidence” (Clifford 1879: 186)[^clifford-1879].
+    step1: |-
+      事实上，许多宗教信徒似乎把完全信念与“怀疑”——即一些怀疑的理由——结合在一起，或者把部分信念与他们视为重大的不信理由结合在一起。按证据主义，这未被证成。另一些信徒则认为，经过反思，他们几乎没有怀疑的理由，但对自己的宗教信念也几乎没有正面证据。按证据主义，这也未被证成。这就提出一个问题：我们如何在一种否则可能会被相信的认识论论题，与一种被该论题蕴含为未被证成的宗教信念之间作出裁决？启蒙运动假定两个相关的霸权论题，即认识论的霸权与证据主义的霸权。认识论的霸权声称：(a) 人类可以在不发现实际的人类信念形成倾向的情况下，发现正确的认识论；因此 (b) 有一个压倒性的理由去运用正确的认识论（一旦发现）来纠正上述倾向。证据主义的霸权在认识论的霸权之上再加上一个论题：(c) 证据主义是正确的认识论。如果按证据主义，完全甚至部分的宗教信念都未被证成，那么，鉴于证据主义的霸权，就有一个压倒性的理由拒斥这些信念。这一立场最清晰的代表人物或许是克利福德，他使用道德词汇，很好地传达了据称由认识论提供的理由所具有的压倒性特征。他的立场总结于那句名言：“无论何时、无论何地、无论何人，凭不充分的证据相信任何事情都是错的。”（Clifford 1879: 186）[^clifford-1879]
+    step2: |-
+      事实上，许多宗教信徒似乎把完全信念与“怀疑”——即若干怀疑的理由——糅在一起；或者把部分信念与他们心目中的重大不信理由糅在一起。按证据主义，这未获证成。另一些信徒经过反思，认为自己几乎没有怀疑的理由，但对宗教信念也几乎拿不出正面证据。按证据主义，这同样未获证成。于是问题来了：一方是一种本来或许可信的认识论论题，另一方是被该论题判定为未获证成的宗教信念，二者之间该如何裁决？启蒙运动假定了一对相关的霸权论题：认识论的霸权与证据主义的霸权。认识论的霸权声称：(a) 人类无需先查明实际的信念形成倾向，便可发现正确的认识论；因而 (b) 一旦发现正确的认识论，便有压倒性的理由用它来纠正上述倾向。证据主义的霸权则在认识论的霸权之上再添一条：(c) 证据主义正是那正确的认识论。假如按证据主义，完全乃至部分的宗教信念都未获证成，那么，鉴于证据主义的霸权，便有压倒性的理由拒斥这些信念。克利福德或许是这一立场最清晰的代表；他善用道德词汇，恰当地传达出所谓认识论理由的压倒性。其立场可归结为那句名言：“无论何时、无论何地、无论何人，凭不充分的证据相信任何事，都是错的。”（Clifford 1879: 186）[^clifford-1879]
+  - id: 15
+    kind: body
+    source: |-
+      At the other extreme from Clifford is the position of *fideism*, namely, that if an epistemological theory such as evidentialism conflicts with the holding of religious beliefs then that is so much the worse for the epistemological theory.
+    step1: |-
+      与克利福德相对的另一个极端是*信仰主义*的立场，即：如果像证据主义这样的认识论理论与持有宗教信念相冲突，那么这对认识论理论来说反而更糟。
+    step2: |-
+      克利福德的另一极端，是*信仰主义*的立场：倘若证据主义之类的认识论理论与宗教信念的持有相冲突，那么吃亏的是认识论理论本身。
+  - id: 16
+    kind: body
+    source: |-
+      The rejection of the hegemony of epistemology is quite compatible with holding a hegemony thesis for a fragment of epistemology. Such a fragment might, for instance, contain the principle of self-referential consistency, relied upon by Plantinga (1983: 60). This states that it is not justified to have a belief according to which that belief is itself not justified. Consider, for instance, the extreme case of the person who believes that no belief is justified unless it can be proven from premises everyone agrees upon.
+    step1: |-
+      拒斥认识论的霸权，与对认识论的某一碎片持有一个霸权论题，是完全相容的。例如，这样一个碎片可能包含自我指涉一致性原则，普兰丁格（1983: 60）就依赖这一原则。该原则说：持有一个按之该信念本身未被证成的信念，是不被证成的。例如，考虑那个极端例子：此人相信，除非能从人人都同意的前提加以证明，否则任何信念都未被证成。
+    step2: |-
+      拒斥认识论的霸权，完全可以与“对认识论的某个片段仍持霸权论题”并存。这样一个片段，例如可以包含自我指涉一致性原则——普兰丁格（1983: 60）正是倚重此原则。该原则说：若按某个信念自身，该信念未获证成，则持有该信念也未获证成。试看一个极端例子：某人相信，任何信念除非能由人人同意的前提证明，否则一律未获证成。
+  - id: 17
+    kind: body
+    source: |-
+      Postmodernism implies more than being post modern in the above sense. For it is the rejection of the hegemony of even a fragment of epistemology. That might seem agreeable to fideists. Postmodernism tends, however, to trivialize fideism by obliterating any contrast between faith in divine revelation and trust in human capacities to discover the truth. (For a discussion of fideism and postmodernism see Stiver 2003.)[^stiver-2003]
+    step1: |-
+      后现代主义蕴含的比上述意义上的“后现代”更多。因为它拒斥哪怕认识论一个碎片的霸权。这似乎会令信仰主义者满意。然而，后现代主义倾向于通过抹除对神圣启示的信仰与对人类发现真理之能力的信任之间的一切对照，而使信仰主义变得琐碎。（关于信仰主义与后现代主义的讨论，见 Stiver 2003。）[^stiver-2003]
+    step2: |-
+      后现代主义所蕴含的，不止上述意义上的“后现代”。它连认识论任何一个片段的霸权也一并拒斥。这或许会让信仰主义者称心。然而，后现代主义往往抹平对神圣启示的信仰与对人类发现真理之能力的信任之间的一切反差，从而使信仰主义沦为琐屑之谈。（关于信仰主义与后现代主义的讨论，见 Stiver 2003。）[^stiver-2003]
+  - id: 18
+    kind: body
+    source: |-
+      Much contemporary epistemology of religion seeks to avoid the extremes both of the Enlightenment thesis of the hegemony of evidentialism and of fideism. It is thus post modern without necessarily being postmodernist. Call the injunction to avoid these extremes the *problematic* of contemporary epistemology of religion.
+    step1: |-
+      许多当代宗教认识论力求避免两个极端：启蒙运动的证据主义霸权论题，以及信仰主义。因此它是后现代的，却未必是后现代主义的。不妨把避免这些极端的训令，称为当代宗教认识论的*问题域*。
+    step2: |-
+      许多当代宗教认识论力图避开两个极端：一端是启蒙运动关于证据主义霸权的论题，另一端是信仰主义。因此，它虽属后现代，却未必是后现代主义。我们不妨把“避开这两个极端”这一训令，称为当代宗教认识论的*问题域*。
+  - id: 19
+    kind: body
+    source: |-
+      ## 3. Evidentialism Defended
+    step1: |-
+      ## 3. Evidentialism Defended
+    step2: |-
+      ## 3 为证据主义辩护
+  - id: 20
+    kind: body
+    source: |-
+      One response to the problematic is to separate evidentialism from the hegemony of epistemology. Evidentialism may then be defended by noting how we implicitly rely upon evidentialist principles in many different areas of enquiry, or by noting which principles generalise various particular examples of justified and unjustified reasoning. Such a defence of evidentialism is part of the project of some contemporary philosophers who seek to attack theism in favour of agnosticism and/or atheism. This defence may well be implicit in Flew’s famous “The Presumption of Atheism” (1972). It is more explicit in Scriven’s *Primary Philosophy* (1966, ch 4). Scriven and Flew are relying on the Ockhamist principle that, in the absence of evidence for the existence of things of kind *X*, belief in *X*s is not reasonable. This they can defend by means of examples in which non-Ockhamist thinking is judged not to be justified. So even if the whole of evidentialism is not defended, the Ockhamist fragment of it may be.
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      Not surprisingly the reliance of non-theist philosophers on evidentialism has been criticised. First there is an ad hominem. Shalkowski (1989) has pointed out that these defenders of evidentialism tend in fact to be atheists not agnostics, yet a careful examination, he says, of the examples used to support Ockham’s Razor show that either they are ones in which there is independent evidence for denying the existence of *X*s or ones in which suspense of judgement seems to be the appropriate response, not denial. This shows critics of religious belief are not intellectual superiors correcting the mistakes of their inferiors, but disputants.
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      Another criticism is Plantinga’s claim that evidentialism is self-referentially inconsistent for there is no evidence for evidentialism (Plantinga 1983: 60)[^plantinga-1983][^plantinga-1983-2]. This might be met in either of two ways. First, it could be said that all that is being defended is the Ockhamist fragment of evidentialism and that this is not itself vulnerable to Ockham’s Razor. Or it could be argued that deriving an epistemology from a wide range of examples is evidence for it. To be sure this is far from conclusive evidence. But even a less than full belief in an epistemological thesis which showed theism to be unjustified would be damaging. This may be illustrated using an example with artificial numerical precision: 80% confidence in an epistemology which showed that no degree of belief in theism greater than 60% was justified is incompatible with a degree of belief in theism greater than 68%. The person in question could have a degree of belief of in the conjunction of theism and the (80% likely) epistemology of no greater than 48% (80% of 60%) and a degree of belief in the conjunction of theism and the denial of that epistemology of no greater than 20% (since that epistemology has a probability of 80%).
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      ## 4. Natural theology
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      Theistic philosophers may grant evidentialism and even grant its hegemony, but defend their religious convictions by providing the case which evidentialists demand. Here the details of the arguments are not within the scope of an article on epistemology. What is of interest is the *kind* of argument put forward. For a start there is the project of *demonstrating* God’s existence. (See Craig 1979, Braine 1988, Miller 1991.)[^braine-1988][^craig-1979][^miller-1991] To show the justifiability of full belief that there is a God it is sufficient (a) to have a deductively valid argument from premises which are themselves justifiably held with full belief unless defeated by an objection and (b) to have considered and defeated all available objections to either the premises, the conclusion or any intermediate steps. Some of the premises of these arguments are said to be self-evident, that is, obvious once you think about it. (E.g., the denial of the explanatory power of an infinite causal regress, or the principle that the existence of any composite thing needs to be explained). And that connects with the problem of disagreement: Does somethings being self-evident to you justify your full belief in it even if you know of those of equal or greater intellectual ability to whom it is not self-evident? The affirmative answer is tenable provided we distinguish genuine self-evidence from plausible intuition.
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      Many natural theologians have, however, abandoned the search for demonstrative arguments, appealing instead to ones which are probable, either in the sense of having weight but being inconclusive or in the sense of having a mathematical probability assigned to them. Notable in this regard are Mitchell’s cumulative argument (Mitchell 1973)[^mitchell-1973] and Swinburne’s Bayesian reliance on probability (Swinburne 1979)[^swinburne-1979]. In a popular exposition of his argument Swinburne appeals instead to an inference to the best explanation (Swinburne 1995; see also Forrest 1996, 2025)[^forrest-1996]. While there are differences of approach, the common theme is that there is evidence for theism but evidence of a probable rather than a conclusive kind, justifying belief but not full belief.
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      ## 5. The Relevance of Newman
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      Although pre-dating the current debate, Newman’s rejection of Locke’s and Paley’s evidentialism is relevant to the problematic of contemporary epistemology of religion. First he quite clearly rejected the hegemony of epistemology. His procedure was to examine how in fact people made up their minds on non-religious issues and argue that by the same standards religious beliefs were justified. As a result he qualified evidentialism by insisting that an *implicit* and *cumulative* argument could lead to justified certainty. (See Mitchell 1990.)[^mitchell-1990]
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      Newman’s position has two interpretations. One, which differs little from Swinburne’s probabilistic approach to natural theology, asserts that the consilience of a number of independent pieces of probable reasoning can result in a probability so high as to be negligibly different from certainty. If, to use an example Newman would not have liked, Aquinas’s five ways were independent and each had probability 75% then taken together their probability is about 99.9%. One difficulty with this interpretation is that even a highly probable argument differs from a demonstration in that the former is vulnerable to probabilistic counter-arguments. Thus a probabilistic version of the Argument from Evil might subsequently reduce the probability from 99.9% down to 75% again.
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      The other interpretation of Newman’s position is to say that evidentialism falsely presupposes that there are fine gradations on a scale from full belief through partial belief to partial disbelief to full disbelief. Newman claims that human beings are not like that when it comes to those beliefs which form part of religious faith. In such cases the only available states are those of full belief and full disbelief or, perhaps, full belief, and lack of full belief. Of course someone can believe that theism has a probability between 90% and 60%, say, but that could be interpreted as believing that relative to the evidence theism has a probability between 90% and 60%, which, in turn, is a comment on the strength of the case for theism not the expression of a merely partial belief.
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      If Newman is right in this regard then evidentialism is slightly wrong. Instead of requiring belief to be proportioned to the evidence, full belief is justified if the case for it holds “on the balance of probabilities”. Hence a natural theology consisting of merely probable arguments, such as Swinburne’s, can still show full religious belief to be justified.
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      Aquino (2012), however, provides a more nuanced reading of Newman, advocating an ïntegrated theoretical and practical wisdom as the justification for non-inferential beliefs.
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      ## 6. Fideism
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      Another reaction to the problematic is religious fideism, the thesis that religious faith is an exception to ordinary epistemological constraints, perhaps because the believers think of themselves as chosen by God with their faith as a gift. That version merely shifts the epistemological problem, although Kierkegaard’s position (1983) is more sophisticated, as is Wittgensteinian fideism (Phillips 1992)[^phillips-1992]. This asserts thesis that there are various different “language games”, and that while it is appropriate to ask questions about justification within a language game it is a mistake to ask about the justification of “playing” the game in question. In this way epistemology is relativised to language games, themselves related to forms of life, and the one used for assessing religious claims is less stringent than evidentialism. Here there seems to be both an autonomy thesis and an incommensurability thesis. The autonomy thesis tells us that religious utterances are only to be judged as justified or otherwise by the standards implicit in the religious form of life, and this may be further restricted to Christianity or Hinduism, or any other religion (Malcolm 1992)[^malcolm-1992]. The incommensurability thesis tells us that religious utterances are unlike scientific or metaphysical claims and so we are confusing different uses of language if we judge religious utterances by the standards of science or metaphysics (Phillips 1992)[^phillips-1992]. Stress on the autonomy thesis brings Wittgensteinian fideism close to the fideism of many religious conservatives, but stress on the incommensurability thesis brings it close to the extreme liberal position of Braithwaite (1955), namely that religion is about attitudes not facts, which would, of course, be rejected by religious conservatives.
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      Perhaps the most obvious criticism of Wittgensteinian fideism is that even if the underlying theory of forms of life and language games is granted, it is an historical fact, itself justified by the criteria of the “game” of history, that the tradition to which the majority of Jews, Christians and Muslims belong to is a form of life with heavy metaphysical commitments, and in which such utterances as “There is a God” are intended as much like “There is a star ten times more massive than the Sun” as like “There is hope”. So Wittgensteinian fideism is only appropriate for such religions as Zen Buddhism and for some, relatively recent, liberal strands of Judaism and Christianity which have rejected the traditional metaphysical commitment (as in Cupitt 1984)[^cupitt-1984].
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      The Wittgensteinian position could be modified to allow a metaphysical “language game” with its own criteria for justification etc, and in which natural theology should be pursued. Then the Judeo-Christian-Islamic “language game” would be part of this larger, autonomous metaphysical “language game”. That modified account would cohere with the historical fact of the metaphysical commitment of that religious tradition. In that case, though, it would seem that, not just the Judeo-Christian-Islamic “language game”, but all serious intellectual enquiry should also be treated as parts of the one “game”, with one set of rules. Thus Wittgensteinian fideism would have been qualified out of existence.
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      Even if you reject Wittgensteinian fideism you might still take a lesson from it. For it must surely be granted that religious utterances are not made in a purely intellectual way. Their entanglement with commitment to a way of life and their emotional charge might help to explain the fact, if it is one, that those who take religion seriously, whether believers or not, do not in fact have a continuous range of degrees of confidence but operate instead with full belief or full disbelief. For, normally, emotionally charged beliefs are either full on or full off, and in abnormal cases tend to be divided rather than partial. Thus, confronted with conflicting evidence about whether your affection is reciprocated you are far less likely to suspend judgement than to oscillate between full belief and full disbelief. Likewise it seems more normal to oscillate between full belief in God in moments of crisis and full disbelief when things go well than to suspend judgement at all times. This ties in with the Newmanian modification of evidentialism, mentioned above.
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      Recently, Pritchard (2017) has distinguished religious fideism from *quasifideism*, which Mackie would have called a “companions in guilt” thesis (1977:39), that accepts a fideist position but without any religious exceptionalism. He bases his epistemology on Wittgenstein’s idea of a “hinge commitment”, an arational presupposition of rational belief. A more restricted quasi-fidesim is advoated by Bishop (2007) in his defense of Jamesian “passional choices” in situations of “evidential ambiguity” and by Forrest (2019) who defends commitment in the face of intellectual dilemmas.
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      Reformed epistemologists, such as Wolterstorff (1976) and Plantinga (1983) reject evidentialism , arguing that beliefs are *warranted* without Enlightenment-approved evidence provided they are (a) grounded, and (b) defended against known objections. Such beliefs may then themselves be used as evidence for other beliefs. What grounding amounts is, however, contestable: Plantinga proposes that *S*’s belief that *p* is grounded in event *E* if (a) in the circumstances *E* caused *S* to believe that *p*, and (b) *S*’s coming to believe that *p* was a case of proper functioning (Plantinga 1993b)[^plantinga-1993b]. It should be noted that the term “warrant” used elsewhere in philosophy as a synonym for “justified” (as in “warranted assertibility”) is used by Plantinga to mean that which has to be adjoined to a true belief for it to be knowledge. (See Plantinga 1993a)[^plantinga-1993a]. Accordingly the most pressing criticism of Plantinga’s later position is that it largely ignores the question of justification, or reasonableness which, as Swinburne explicates it (Swinburne 2001)[^swinburne-2001] amounts to whether the religious beliefs are probable relative to total evidence. Here it should be noted however that this requirement does not imply that we are aware of our evidence. Moreover, the evidence can be of a rather private kind that is hard to articulate even for academic philosopher, and the reasoning from that evidence implicit. (See van Inwagen 1994). It could happen then religious believers are mistaken in thinking religious experience grounds their beliefs, because those beliefs, based on implicit reasoning from evidence they cannot articulate, are part of the cause of the experience rather than the other way round (Katz 1978)[^katz-1978].
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      Reformed Epistemology results in a stand-off between theists and de-bunkers of religion: if atheist naturalism is correct then theism would not be the result of proper functioning, but if God exist it is. As Moon has pointed out, however, we may draw the conclusion that the de-bunker has failed to undercut religious belief (2016: 21–22).
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      While the details of grounding might be controversial it may be assumed that reformed epistemologists assert that ordinary religious experiences of awe, gratitude, contrition, etc., ground the beliefs implied by the believer’s sincere reports of such experiences, provided they can be said to cause those beliefs. Such grounded beliefs are warranted provided they can be defended against known objections. They can then be used as evidence for further religious beliefs. Thus if religious experience grounds the belief that God has forgiven you for doing what is wrong to other humans beings, then that is evidence for a personal God who acts in a morally upright fashion. For, it can be argued, only such a God would find anything to forgive in the wrongs you do to your fellow human beings.
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      Jerome Gellman (1992, 2017) draws our attention to the experience of godlessness. This is occasioned by, but not inferred from, the evils that surround us. If Reformed Epistemology is correct this would seem to ground atheism in the same way that the experience of forgiveness can ground theism.
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      One difference between reformed epistemology and fideism is that the former requires defence against known objections, whereas the latter might dismiss such objections as either irrelevant or, worse, temptations. Included in the objections are not only those such as the Argument from Evil that seek to rebut, but arguments from sociology and, more recently, cognitive science that seek to undermine by proposing a naturalistic cause for basic religious beliefs. For instance, Barrett (2004) posits a HADD (hyperactive/hypersensitive agency detection device), suggesting that a sensitive agency detection device functions properly if the goal is survival but is hypersensitive if the goal is truth. This hypersensitivity then explains the human tendency towards supernatural beliefs, undermining the proper basicality of those beliefs. Clark and Barrett (2011) suggest that this hypersensitivity could itself be part of the divine plan. An alternative, Bayesian, theistic response would be that HADD exaggerates a properly basic probability for theism that is neither high nor too low prior to further evidence. This justifies a part evidentialist, part reformed, program of assessing the all-things-considered probability resulting from the effect of evidence on this basic probability.
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      ## 7. Religious Experience, Revelation and Tradition
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      Reformed epistemology might be thought of as a modification of evidentialism in which the permissible kinds of evidence are expanded. Notable in this context is Alston’s work arguing that certain kinds of religious experience can be assimilated to perception (1991). The difference is that religious experience is more private, personal, emotionally charged and variable than paradigmatic cases of perception. Consider a world in which the majority are tone deaf and the minority who are not are divided between lovers of just one of Gregorian chant, Wagner or Ravi Shankar,and who deride the others as mere noise. Perception has privileged epistemic status. Hence, it is not just a verbal dispute as to whether religious experience is perception or, because God is not the right sort of thing to be perceived, merely somewhat analogous to perception. (See So 2015; Netland 2022; Perrine 2025)[^netland-2022][^perrine-2025]. Moser’s treatment is not open to that objection. For he draws our attention to the experience of being guided about how we are to live and in our search for meaning (2019).
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      The difference between reformed epistemology and Enlightenment-style evidentialism is also shown by a consideration of revelation and inspiration. An evidentialist will consider arguments from the premiss that it is said such and such was revealed or the premiss that so and so claimed to be inspired by God, but a reformed epistemologist might allow as warranted those religious beliefs grounded in the event of revelation or inspiration. Thus Mavrodes has argued that any belief due to a genuine revelation is warranted, and has discussed several modes of revelation (Mavrodes 1988)[^mavrodes-1988]. Zagzebski argues that this would have the unacceptable consequence that warrant, and hence knowledge, becomes *totally* inaccessible either to the person concerned or the community (Zagzebski 1993a: 204–205). For instance, Mavrodes would probably not consider Ramanujan’s belief that Krishna is divine as warranted, but even if Mavrodes is correct Ramanujan would have no access to this truth about the unwarranted character of his own beliefs. A similar criticism could be made of beliefs grounded in religious experience. In both cases, the question of whether a belief is genuinely grounded in religious experience or is genuinely grounded in inspiration is one that several religious traditions have paid attention to, with such theories as that of discernment of spirits (Murphy, 1990, ch 5).
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      In what may be called “counter-reformed epistemology” it could be allowed that a belief can be warranted if grounded in a religious tradition. (See Zagzebski 1993b.)[^zagzebski-1993b][^zagzebski-1993b-2] Such a belief would have to be caused in the right sort of way by the right sort of tradition. As in the previous cases we might note that such grounding should be partially accessible to the believer. Rather little work has been done on this extension of reformed epistemology, but the social dimension of warrant has been noted (Zagzebski 1993a).
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      More recently Plantinga (2000) has defended a rather different account of divine inspiration, which he calls the Aquinas/Calvin model. This relies upon the doctrine of “original sin” claiming that most humans suffer from a cognitive-affective disorder, but that as a result of Redemption the Holy Spirit heals us so that we are able to function properly, and come to believe the Christian revelation in an immediate, non-inferential manner. In this way the Aquinas/Calvin model supports the Christian metaphysics, which in turn supports the Aquinas/Calvin model. Presumably it will be granted that the probability, *y*, of the Aquinas/Calvin model given Christian metaphysics is significantly less than 100%, because there are rival Christian models. As a consequence, the probability of Christian metaphysics is less than *x*/(1−*y*) where *x* is the probability of Christian metaphysics given the falsity of the Aquinas/Calvin model. Hence Plantinga’s proposal can succeed only if either *y* is near 100% or *x* is not too small.
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      ## 8. Religious Disagreement
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      How can sincere intelligent people disagree? Should not both disputants suspend judgement? To be sure, sometimes those who disagree with you are your intellectual inferiors in some respect. Consider, for instance, someone who insisted that π was precisely 22/7. Those who know of and can follow a proof that π is an irrational number may justifiably dismiss that person as a mathematical ignoramus. The case of interest, however, is that in which no such inferiority is on public display. This is referred to as a situation of *public epistemic parity*. Feldman (2007) criticizes the relativist solution to the problem, namely that there is not always a unique reasonable doxastic attitude to a given proposition in a given epistemic situation. He also rejects unargued dismissal, and reaches the conclusion that in situations of epistemic parity disputants should suspend judgement. Many, however, agree with van Inwagen who, in his autobiographical “Quam Delicta” (1994), implies that it is justified for both parties in a dispute to appeal to what is privately available to them. Such private assertions of epistemic superiority are often expressed by saying that someone “just does not get the point”. Typically, not getting the point requires a cognitive blind-spot. It is not that you know there is a point you cannot grasp, which reasonably requires some deference to those who claim to grasp it; you fail to see there is a point. A somewhat different response to Feldman is that of Forrest (2019), who argues that when the cases for and against a thesis are of different kinds we may sometimes *commit* to the thesis, because non-comparability is not the same as epistemic parity.
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      Even when not restricted to religion the problem is often motivated by religious disagreement. See for instance Schellenberg’s moderate skepticism (2007), Pittard’s reply (2019), and Buchak’s argument that sometimes beliefs are rationally maintained in the face of disagreements that would have prevented any initial rational acceptance (2021).
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      I call the thesis that the general case for suspense of judgement fails to apply to religious faith *religious exceptionalism*. First, suppose we reject it. Then, because conciliationists modify their own initial beliefs when they encounter peers who disagree, they should re-consider the widely rejected *consensus gentium* argument for theism (and maybe for an afterlife), perhaps like Netland (2020: 240–41) restricting it to the experience of the divine. Concilationists will, however, grant greater weight to those, dead or alive, whom they regard as experts. Presumably the experts on religion are not philosophers, among whom we may include scientists when philosophizing. For their expertise is only in laying out the various arguments as clearly as they can, which is a preliminary to the assessment of those who disagree. The only possible religious experts are the authorities that represent a tradition or the authors of scriptures held to be authoritative. If we disagree about who if anyone is a religious expert appeal to expertise is circular. (Compare Pittard 2021.)
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      One reason for religious exceptionalism might be the appeal to divine inspiration, as a source of private epistemic superiority, as in Plantinga’s “Aquinas/Calvin” model (Plantinga 2000)[^plantinga-2000]. It is hard to see, though, how this could apply to disputes between two religions that both rely on the role of divine inspiration. More recent discussion is contained in the anthology *Religious Disagreement and Pluralism* (Benton and Kvanvig (2021): Callahan (Ch 2) and Blanchard and Paul (Ch 6) argue that the embedding of religious beliefs in our understanding of ourselves and the world around us is a reason for not deferring to others (Compare Moser 2019)[^moser-2019]; Goldberg (Ch 3) points out that even if, accepting Reformed Epistemology as the general theory of justified or warranted belief, we permit unargued grounds for religious faith, these might be *defeated* by disagreement;King (Ch 7) warns against the intellectual arrogance seemingly displayed by apologists; Domandy (Ch 10) implicitly replies to King that apologists display loyalty not arrogance, but argues that this loyalty is often misplaced; Pittard (Ch 8) argues that conciliationism is circular unless we can recognize peers, and I would add experts, independently of what we believe on the topic in question; Kvanvig (Ch 9) argues that faith is not primarily intellectual (Again compare Moser 2019)[^moser-2019]; Finally, Choi (Ch 11) argues against reliance on majority opinion in religious disputes.
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      ## 9. Concluding Remark
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      Recent epistemology of religion may be interpreted as the rejection of the hegemony of epistemology in favor of the Just More Argument thesis, namely that any attempt impartially to judge philosophical debate on a contested topic merely results in further contributions to that debate.
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: oir
+    source: |-
+      - [Religious Disagreement](http://www.iep.utm.edu/r/relig-disa.htm), entry by John Pittard in the *Internet Encyclopedia of Philosophy*.
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: oir
+    source: |-
+      - [Religious Epistemology](http://www.iep.utm.edu/r/relig-ep.htm), entry by Kelly James Clark in the *Internet Encyclopedia of Philosophy*.
+    step1: TBD
+    step2: TBD
