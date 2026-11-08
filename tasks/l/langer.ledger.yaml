@@ -195,62 +195,82 @@ segments:
     kind: body
     source: |-
       ## 3. Early Work (1924–1939)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 早期工作（1924–1939）
+    step2: |-
+      ## 3 早期工作（1924–1939）
   - id: 25
     kind: body
     source: |-
       ### 3.1 Metaphysics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 形而上学
+    step2: |-
+      ### 3.1 形而上学
   - id: 26
     kind: body
     source: |-
       Following Whitehead (1926) Langer holds that each human “epoch” reflects a core “generative idea” shaping the human “pursuit of meanings”. Philosophy’s job is to clarify meanings, analyzing their forms and generating basic concepts to organize them (1930b: 105; MEHF I: xx). Meanings always have a psychological factor, although they may be treated logically (1926a: 108).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      朗格承怀特海（1926），认为人类的每个“时代”都反映一个塑造人类“意义追寻”的核心“生成性观念”。哲学的任务是澄清意义：分析意义的形式，并生成组织意义的基本概念（1930b: 105; MEHF I: xx）。意义总是带有心理学因素，尽管可以在逻辑上加以处理（1926a: 108）。
+    step2: |-
+      朗格追随怀特海（1926）：人类每个“时代”皆映照出一个核心“生成性观念”，塑造着人类对意义的追寻。哲学之职在于澄清意义——分析其形式，生成组织意义的基本概念（1930b: 105; MEHF I: xx）。意义总是带有心理学因素，虽可作逻辑处理（1926a: 108）。
   - id: 27
     kind: body
     source: |-
       Our time’s idea is *symbolism*, a ubiquitous mark of human mentality (Whitehead 1927; PNK 239)[^whitehead-1927]. The forms of meaning, even mind itself, are not entities, as they were conceived in the Cartesian era, but higher-order aspects of symbolic activity, itself an evolved set of human patterns and relations within nature. Experience, sensation, perception, thought, action and creation are phase-transitions of order among relations, realized in embodied processes, particular space-time events that “include facts, notions, feelings, qualities, etc. as well as *things*” (1926a: 107–8).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们这个时代的观念是 *符号体系*（symbolism）——人类心智无所不在的标记（Whitehead 1927; PNK 239）[^whitehead-1927]。意义的形式，甚至心灵本身，都不是笛卡尔时代所构想的那种实体，而是符号活动的高阶面向；符号活动本身是人性模式与关系在自然之内演化而成的一个集合。经验、感觉、知觉、思维、行动与创造，都是关系之间秩序的相变，实现在具体的过程中，是“把事实、观念、情感、性质等连同 *事物* 一并包含在内”的特定时空事件（1926a: 107–8）。
+    step2: |-
+      我们时代的观念是 *符号体系*（symbolism）——人类心智无处不在的印记（Whitehead 1927; PNK 239）[^whitehead-1927]。意义的形式、乃至心灵本身，并非笛卡尔时代所构想的那种实体，而是符号活动的高阶面向；符号活动本身则是在自然中演化而成的一套人类模式与关系。经验、感觉、知觉、思维、行动与创造，皆为关系间秩序的相变，实现于具体过程之中，是“把事实、观念、情感、性质等连同 *事物* 一并涵盖”的特定时空事件（1926a: 107–8）。
   - id: 28
     kind: body
     source: |-
       For Langer the distinctions between form and content, substance and accident, and mind and body do not mark fundamental categorial divisions but are logical or “formal” (Langer 1924a, 1926a, 1926c). Her hermeneutics of “meaning”, inspired by American pragmatism and semiotics (Colapietro 1998; Innis 2009)[^colapietro-1998][^innis-2009], is supported by her studies of modern logic. She shared Cassirer’s neo-Kantian aspiration “‘to compile a grammar of the symbolic function as such’ for language, art, mythology and religion” (Langer 1926a: 170, quoting Cassirer 1923–1927 Vol. 1:86)[^cassirer-1923][^cassirer-1923-2][^cassirer-1927] by stressing the importance—derived from Frege (1892a,b [1997], 1893/1903 [2013]), Whitehead and Russell (1910), and Sheffer (1921)—of generalizations in the theory of relations in modern logic that outstrip the older, static “substance/property” forms of Aristotelian logic (Langer 1926a: 36, 62, 55).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在朗格看来，形式与内容、实体与偶性、心灵与身体之间的区分并不标示根本的范畴划分，而是逻辑性的或“形式性的”（Langer 1924a, 1926a, 1926c）。她的“意义”解释学受美国实用主义与符号学启发（Colapietro 1998; Innis 2009）[^colapietro-1998][^innis-2009]，并由她关于现代逻辑的研究支撑。她分享卡西尔的新康德主义抱负——“为语言、艺术、神话与宗教‘编写符号功能本身的语法’”（Langer 1926a: 170，引 Cassirer 1923–1927 卷 1:86）[^cassirer-1923][^cassirer-1923-2][^cassirer-1927]——其方式是强调现代逻辑关系理论中种种推广的重要性；这些推广源自弗雷格（1892a,b [1997]，1893/1903 [2013]）、怀特海与罗素（1910）以及谢弗（1921），超越了亚里士多德逻辑较陈旧的、静态的“实体/属性”形式（Langer 1926a: 36, 62, 55）。
+    step2: |-
+      在朗格看来，形式与内容、实体与偶性、心灵与身体之别，并不标示根本的范畴划分，而只是逻辑上的或“形式上的”（Langer 1924a, 1926a, 1926c）。其“意义”解释学受美国实用主义与符号学启发（Colapietro 1998; Innis 2009）[^colapietro-1998][^innis-2009]，并以现代逻辑研究为支撑。她认同卡西尔的新康德主义抱负：为语言、艺术、神话与宗教“编写符号功能本身的语法”（Langer 1926a: 170，引 Cassirer 1923–1927 卷 1:86）[^cassirer-1923][^cassirer-1923-2][^cassirer-1927]；其着力点，是强调现代逻辑关系理论中诸种推广的重要性——这些推广源自弗雷格（1892a,b [1997]，1893/1903 [2013]）、怀特海与罗素（1910）及谢弗（1921），超越了亚里士多德逻辑陈旧的、静态的“实体/属性”形式（Langer 1926a: 36, 62, 55）。
   - id: 29
     kind: body
     source: |-
       As a philosopher of logic, Langer never tried to produce a metaphysics, although, like Whitehead, she took metaphysics to be necessary, a “study of basic assumptions … in terms of which every element of our experience can be interpreted” (Langer & Gadol 1950; Langer 1951a, 1962b: 6–7, 1967; Dengerink Chaplin 2020: ch. 6)[^dengerink-2020]. Whitehead (1929) inspired her conception of “organic form” as processual (Langer 1924–27 [1997]; Dryden 1997b; Dengerink Chaplin 2020: ch. 6)[^dengerink-2020][^dryden-1997b]. Reacting to Frege, Russell and Wittgenstein she developed an account of facts as immediate, yet never ultimate in form (Langer 1926c, 1933). Critical assessments of Langer’s “ontology” have produced little agreement about her ultimate stance, though authors note her engagement with conceptions of mind and reality (Lachmann 1997, 2000; Auxier 1997, 2008; Felappi 2017, 2024)[^auxier-1997][^felappi-2017][^lachmann-1997], her anticipation of later “metaontological” themes (McDaniel 2017)[^mcdaniel-2017], (Dryden 1997a,b, 2001)[^dryden-1997a], and her conviction, later absorbed into systems biology and philosophy of mind, that consciousness is a substrate of human psychology, grounded in a feeling, thought, and emotion (Dryden 2007; Dengerink Chaplin 2020)[^dengerink-2020][^dryden-2007].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作为逻辑哲学家，朗格从未试图建立一种形而上学；不过与怀特海一样，她认为形而上学是必要的，是“对我们的经验中每一个元素都可以据以解释的基本预设……的研究”（Langer & Gadol 1950; Langer 1951a, 1962b: 6–7, 1967; Dengerink Chaplin 2020: 第 6 章）[^dengerink-2020]。怀特海（1929）启发了她把“有机形式”理解为过程性的构想（Langer 1924–27 [1997]; Dryden 1997b; Dengerink Chaplin 2020: 第 6 章）[^dengerink-2020][^dryden-1997b]。回应弗雷格、罗素与维特根斯坦，她发展出一种把事实视为直接给予、却在形式上永非终极的说明（Langer 1926c, 1933）。对朗格“本体论”的批评性评估，对其最终立场少有共识；不过论者注意到她与心灵概念和实在概念的交涉（Lachmann 1997, 2000; Auxier 1997, 2008; Felappi 2017, 2024）[^auxier-1997][^felappi-2017][^lachmann-1997]，她预示了后来的“元本体论”主题（McDaniel 2017）[^mcdaniel-2017]，（Dryden 1997a,b, 2001）[^dryden-1997a]，以及她的一个信念——后来为系统生物学与心灵哲学所吸收——即意识是人类心理学的基底，扎根于情感、思想与情绪（Dryden 2007; Dengerink Chaplin 2020）[^dengerink-2020][^dryden-2007]。
+    step2: |-
+      作为逻辑哲学家，朗格从未尝试构造一种形而上学；但同怀特海一样，她视形而上学为必需，是对“基本预设……的研究——我们经验中的每一个元素皆可据以获得解释”（Langer & Gadol 1950; Langer 1951a, 1962b: 6–7, 1967; Dengerink Chaplin 2020: 第 6 章）[^dengerink-2020]。怀特海（1929）启发她把“有机形式”视为过程性的构想（Langer 1924–27 [1997]; Dryden 1997b; Dengerink Chaplin 2020: 第 6 章）[^dengerink-2020][^dryden-1997b]。她回应弗雷格、罗素与维特根斯坦，发展出一种事实观：事实是直接给予的，但在形式上永非终极（Langer 1926c, 1933）。对朗格“本体论”的批判性评估，就其最终立场殊少共识；不过论者皆注意到：她与心灵与实在概念的交涉（Lachmann 1997, 2000; Auxier 1997, 2008; Felappi 2017, 2024）[^auxier-1997][^felappi-2017][^lachmann-1997]，她对后来“元本体论”主题的预示（McDaniel 2017）[^mcdaniel-2017]，（Dryden 1997a,b, 2001）[^dryden-1997a]，以及她的信念——意识是人类心理的基底，植根于情感、思想与情绪；这一信念后来为系统生物学与心灵哲学所吸收（Dryden 2007; Dengerink Chaplin 2020）[^dengerink-2020][^dryden-2007]。
   - id: 30
     kind: body
     source: |-
       The chief interpretive challenge for readers of Langer’s work is to characterize “symbolic form” as both expressive and logically higher-order—something essentially abstract—while adhering to her naturalistic conception of symbolization as an embodied, concrete process in human life (Auxier 1997)[^auxier-1997].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      朗格作品读者面临的首要解释挑战，是把“符号形式”刻画为既有表现性、又在逻辑上是高阶的东西——本质上是抽象的——同时坚持她的自然主义符号化构想：符号化是人类生活中具体、具身的过程（Auxier 1997）[^auxier-1997]。
+    step2: |-
+      朗格读者面临的首要解释难题在于：既要将“符号形式”刻画为兼具表现性与逻辑高阶性者——本质上是抽象之物——又要坚持她自然主义的符号化构想：符号化是人类生活中具身而具体的过程（Auxier 1997）[^auxier-1997]。
   - id: 31
     kind: body
     source: |-
       ### 3.2 Neutral “Monism” (M.A. Thesis, 1924a)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 中立的“一元论”（硕士论文，1924a）
+    step2: |-
+      ### 3.2 中立的“一元论”（硕士论文，1924a）
   - id: 32
     kind: body
     source: |-
       Langer never conceived of logic as a branch of psychology comprising the “laws of thought” (1926a: 16, n.); she argued instead that the “logical forms” of meaning should apply to mental categories. Her debts to William James (a teacher of Sheffer’s) were large (Dryden 2001)[^dryden-2001]. Her 1924a MA thesis is a critical study of von Hartmann’s dualistic *Philosophy of the Unconscious* (1882 [1884]; see von Hartmann 1877, Beiser 2014; Langer also studied his philosophy of art, including philosophy of music [von Hartmann 1886, 1887])[^beiser-2014][^hartmann-1877][^hartmann-1886]. Langer defends the “unconscious” as a tool of psychological explanation through a logical analysis of the distinction between “unconscious” and “conscious”. She traces von Hartmann’s differences from Schopenhauer’s “classical voluntarism” (Langer 1924a: 26) noting his importance for Freud, particularly in having emphasized the tendency we have to imbue matter with “force” dualistically—something contemporary physics has outgrown. Langer denies that materialism can render consciousness an epiphenomenon; she criticizes Freud for having collapsed what he called the “virtual” character of psychic elements into materialistic ones (1924a: 36). Instead, she elaborates James’s (1904) idea of a “psychology without the self”, or “neutral monism” (developed by Sheffer in his dissertation (1908)), emphasizing the relational, attentional and value-laden character of the distinction between mental and physical. Langer (1924a) takes “mind”, “experience”, “consciousness” and “matter” to be differentiated only relative to “systems” formulated in descriptions of particular modes of existence and relation: what is “neutral” is not, she argues, a monistic “stuff” (1924a: 17)—contrary to Russell (1921)—but instead an “abstract form” or field of relations encompassing a number of possible valuations or orderings of experience (Langer 1924a: 3, 15, 42).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      朗格从不把逻辑视为包含“思维规律”的心理学分支（1926a: 16, n.）；她主张，意义的“逻辑形式”应当适用于心理范畴。她对威廉·詹姆斯（谢弗的老师）受惠甚多（Dryden 2001）[^dryden-2001]。她 1924a 年的硕士论文是对冯·哈特曼二元论《无意识哲学》的批判性研究（1882 [1884]；参 von Hartmann 1877、Beiser 2014；朗格还研习过他的艺术哲学，包括音乐哲学 [von Hartmann 1886, 1887]）[^beiser-2014][^hartmann-1877][^hartmann-1886]。朗格通过“无意识”与“意识”之区分的逻辑分析，为“无意识”作为心理学解释工具辩护。她追溯冯·哈特曼与叔本华“古典意志主义”的差异（Langer 1924a: 26），指出他对弗洛伊德的重要性，尤其在于他二元论地强调我们有把物质浸染“力”的倾向——当代物理学早已超越这一点。朗格否认唯物主义能把意识变成副现象；她批评弗洛伊德把他所谓的心理元素的“虚拟”性质塌缩为唯物论性质（1924a: 36）。相反，她阐发了詹姆斯（1904）“没有自我的心理学”或“中立一元论”（由谢弗在其博士论文（1908）中发展）的观念，强调心灵与物理之区分的关系性、注意性与价值负载性。朗格（1924a）认为“心灵”“经验”“意识”与“物质”只是相对于描述特定存在与关系模式时所制定的“系统”而分化：她论证说，“中立的”东西不是一种一元论的“料”（1924a: 17）——与罗素（1921）相反——而是一种“抽象形式”或关系场，容纳对经验的多种可能评价或排序（Langer 1924a: 3, 15, 42）。
+    step2: |-
+      朗格从未把逻辑当作包含“思维规律”的心理学分支（1926a: 16, n.）；她主张意义的“逻辑形式”应适用于心理范畴。她受惠于威廉·詹姆斯（谢弗的老师）甚多（Dryden 2001）[^dryden-2001]。其 1924a 年硕士论文是对冯·哈特曼二元论《无意识哲学》（1882 [1884]；参 von Hartmann 1877、Beiser 2014）的批判性研究；朗格还研习过他的艺术哲学，含音乐哲学（[von Hartmann 1886, 1887]）[^beiser-2014][^hartmann-1877][^hartmann-1886]。她通过“无意识”与“意识”之区分的逻辑分析，为“无意识”作为心理学解释工具作辩护。她梳理冯·哈特曼与叔本华“古典意志主义”的分歧（Langer 1924a: 26），指出其对弗洛伊德的重要性——尤其在于冯·哈特曼二元论式地强调人类倾向把物质浸染“力”，而当代物理学早已超越此点。朗格否认唯物主义能将意识降为副现象；她批评弗洛伊德把他所说的心理元素的“虚拟”性质塌缩为唯物论性质（1924a: 36）。她转而阐发詹姆斯（1904）“没有自我的心理学”——即“中立一元论”（谢弗在其博士论文（1908）中加以发展）——的观念，强调心灵与物理之区分的关系性、注意性与价值负载性。朗格（1924a）认为“心灵”“经验”“意识”与“物质”唯有相对于描述特定存在与关系模式时制定的“系统”方能分化：所谓“中立的”，她论证，并非一种一元论的“料”（1924a: 17）——这点与罗素（1921）相反——而是容纳经验之诸种可能评价或排序的“抽象形式”或关系场（Langer 1924a: 3, 15, 42）。
   - id: 33
     kind: body
     source: |-
       On this view it is not a metaphysical illusion that there are two kinds of ontological basics, the (conscious) “mental” and the “physical” (as “neutral monism” would have it). The mental is not simply epiphenomenal. Rather, there are two “forms” or “systems” of description of space-time events. The notion of the “unconscious” is “purely pragmatic and not strictly correct”, something constructed as an ideal point, analogous to the mathematician’s idea of lines that “meet at infinity” (1924a: Preface). This constructive Russellian approach—a “consciousness-event” is a “variable” that may be instantiated with relations among other events—allows her to argue that, generally speaking, we cannot “compute” the range of its possible modes of modification. She thus leaves open the possibility of discovering causal laws in psychology, but takes the “mind-system” to appear to be “infinitely complex” (1924a: 42). The system of conscious events consists of an open-ended evolution of possible classes or functions of modification, not “things”. Similarly an “unconscious” event is not (as in Freud) the lasting substrate behind a marker or “symptom” of repression, but rather an explanatory “symbol” capable of analysis in terms of possible modifications of conscious mental events. This makes sense of von Hartmann, Freud’s, and Jung’s treatment of the Unconscious as “timeless” and “unspatial”, as well as un-thinglike.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      依此观点，存在两类本体论基础——（有意识的）“心理的”与“物理的”——并非形而上学幻觉（“中立一元论”会如此认为）。心理的东西并不单纯是副现象。毋宁说，存在两种对时空事件的描述“形式”或“系统”。“无意识”概念是“纯粹实用性的、并非严格正确的”：它被构造成一个理想点，类比于数学家“在无穷远处相交”的直线的观念（1924a: 序言）。这种构造性的罗素式进路——一个“意识事件”是可用其他事件间的关系来实例化的“变元”——使她能够论证：一般说来，我们无法“计算”其可能的修改模式的范围。由此她为在心理学中发现因果规律留出可能，但认为“心灵系统”显得“无限复杂”（1924a: 42）。意识事件的系统由可能的修改类或修改函数的开放式演化构成，而非“物”。同样，“无意识”事件不是（如弗洛伊德那样）压抑的标记或“症状”背后的持久基底，而是一个解释性的“符号”，可以就意识心理事件的可能修改来分析。这使冯·哈特曼、弗洛伊德与荣格把无意识处理为“无时间的”与“无空间的”、非物性的做法得到理解。
+    step2: |-
+      依此观点，本体论基础有两类——（有意识的）“心理的”与“物理的”——这并非形而上学幻觉（尽管“中立一元论”会那样认为）。心理的东西并非单纯的副现象；毋宁说，时空事件有两种描述“形式”或“系统”。“无意识”概念“纯然是实用性的，并非严格正确”：它被构造为一个理想点，好比数学家那种“在无穷远处相交”的直线观念（1924a: 序言）。这种构造性的罗素式进路——“意识事件”是一个可用其他事件间的关系来例示的“变元”——使她得以论证：一般而言，我们无法“计算”其可能的修改模式之范围。她由此为心理学中发现因果律留下可能，但认为“心灵系统”显得“无限复杂”（1924a: 42）。意识事件的系统由可能的修改类或修改函数的开放式演化构成，而非“物”。同样，“无意识”事件并非（如弗洛伊德那样）压抑标记或“症状”背后的持久基底，而是一个解释性“符号”，可就意识心理事件的可能修改加以分析。这使冯·哈特曼、弗洛伊德与荣格将无意识处理为“无时间的”“无空间的”乃至非物性的做法获得理解。
   - id: 34
     kind: body
     source: |-
