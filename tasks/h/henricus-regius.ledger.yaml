@@ -107,74 +107,98 @@ segments:
     kind: body
     source: |-
       Descartes later joined the controversy in a more public way. He included a letter to a French Jesuit, ‘A Letter to Father Dinet,’ in the second edition of the *Meditations* (1642), which was published in Amsterdam and thus became readily available to his critics in Utrecht. While the letter to Dinet criticised Voetius without naming him explicitly, Descartes’ subsequent *Epistola ad Voetium* (1643) went further by removing the apparent anonymity of his target in the first letter. The complex history of the next few years, which is summarized in Verbeek 1992 and Descartes’ *Correspondence*, included an official ban on the teaching of Cartesian philosophy by the local authority in Utrecht (the Vroedschap), and the establishment by the same authority of a committee of inquiry into the public controversy that resulted from Regius’ teaching of Cartesian philosophy. The official report of the university committee on the whole affair, to date, was published in 1643 as the *Narratio historica* (*Testimonium* 1643; Verbeek 1988, 71–123)[^testimonium-1643][^verbeek-1988]. Meantime, Voetius arranged for one of his supporters, Martinus Schoock (1614–69), to write an extensive critique of Descartes and Cartesianism, which was published as *Admiranda methodus novae philosophiae Renati Des Cartes* (*The Admirable Method*) in Utrecht in 1643 (Schoock 1643)[^schoock-1643]. *The Admirable Method of the New Philosophy of René Descartes* listed, among the most serious charges against Descartes, that he was an atheist and a sceptic, and it implied that he deserved the same treatment as heretics, such as Giulio Cesare Vanini (1585–1619), who had been burned at the stake in Toulouse. While the authorship of this book, Descartes’ replies to it, and various legal charges of defamation and libel continued for some years, Descartes concluded his contribution to the controversy with Voetius in the *Apologetic Letter to the Magistrates of Utrecht*, which was written in 1647 and sent to Utrecht in February 1648 (Bos 1999)[^bos-1999].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      笛卡尔后来以更公开的方式加入论战。他在《沉思集》第二版（1642）中收入了一封致法国耶稣会士的信——“致迪内神父书”——该版在阿姆斯特丹出版，因而很容易到达乌得勒支批评者的手中。致迪内的信虽未点名却批评了沃埃修斯；笛卡尔随后写的《致沃埃修斯书》（*Epistola ad Voetium*，1643）更进一步，去掉了前一封信中表面上的匿名。此后数年复杂的历史（Verbeek 1992 与笛卡尔《书信集》中有概述）包括：乌得勒支地方当局（市政议会，Vroedschap）正式禁止讲授笛卡尔哲学，同一当局还设立调查委员会来审查雷吉乌斯讲授笛卡尔哲学所引发的公开争论。大学委员会就整个事件的官方报告，迄今所知于 1643 年以《历史叙述》（*Narratio historica*）为题出版（*Testimonium* 1643；Verbeek 1988, 71–123）[^testimonium-1643][^verbeek-1988]。与此同时，沃埃修斯安排他的一位支持者马蒂努斯·斯霍克（Martinus Schoock，1614–69）撰写一篇对笛卡尔与笛卡尔主义的长篇批判，1643 年在乌得勒支以《勒内·笛卡尔新哲学的惊人方法》（*Admiranda methodus novae philosophiae Renati Des Cartes*，即 *The Admirable Method*）为题出版（Schoock 1643）[^schoock-1643]。《勒内·笛卡尔新哲学的惊人方法》在针对笛卡尔的最严重指控中列明他是无神论者与怀疑论者，并暗示他应得到与图卢兹被处以火刑的异端朱利奥·切萨雷·瓦尼尼（Giulio Cesare Vanini，1585–1619）同样的处置。尽管此书的作者归属、笛卡尔的回应以及各种诽谤与中伤的法律指控又延续了数年，笛卡尔最终以《致乌得勒支市政官的申辩书》结束了他对这场与沃埃修斯论战的参与；该书 1647 年写成，1648 年 2 月寄达乌得勒支（Bos 1999）[^bos-1999]。
+    step2: |-
+      笛卡尔后来以更公开的姿态加入战局。他在《沉思集》第二版（1642）里塞进了一封致法国耶稣会士的信，即“致迪内神父书”；此版刊于阿姆斯特丹，乌得勒支的批评者们很容易读到。致迪内的信批评了沃埃修斯，却未点名；随后笛卡尔又写《致沃埃修斯书》（*Epistola ad Voetium*，1643），干脆撕掉了前一封信那层表面上的匿名。此后数年的复杂历史（概述见 Verbeek 1992 与笛卡尔《书信集》）包括：乌得勒支地方当局（市政议会，Vroedschap）明令禁止讲授笛卡尔哲学，同一当局又设立调查委员会，审查雷吉乌斯讲授笛卡尔哲学激起的公开争论。大学委员会就全部事件出具的官方报告，迄今所知以《历史叙述》（*Narratio historica*）为题于 1643 年印行（*Testimonium* 1643；Verbeek 1988, 71–123）[^testimonium-1643][^verbeek-1988]。与此同时，沃埃修斯授意支持者马蒂努斯·斯霍克（Martinus Schoock，1614–69）执笔，写成一部讨伐笛卡尔与笛卡尔主义的长文，1643 年在乌得勒支以《勒内·笛卡尔新哲学的惊人方法》（*Admiranda methodus novae philosophiae Renati Des Cartes*，即 *The Admirable Method*）为题刊出（Schoock 1643）[^schoock-1643]。这部《惊人方法》把“无神论者”“怀疑论者”列为对笛卡尔最严重的指控，还暗示他理应领受与朱利奥·切萨雷·瓦尼尼（Giulio Cesare Vanini，1585–1619）同样的下场——后者作为异端已在图卢兹被处以火刑。此书作者归属、笛卡尔的回击，连同各类诽谤与中伤的法律官司又拖了几年；最后，笛卡尔以《致乌得勒支市政官的申辩书》收束了自己在沃埃修斯之争中的分量：该书 1647 年写成，1648 年 2 月送达乌得勒支（Bos 1999）[^bos-1999]。
   - id: 14
     kind: body
     source: |-
       The intensity of the dispute between Voetius and those whom he identified as proponents of a ‘new philosophy’ might suggest agreement, at least between Descartes and Regius, on a common philosophical position. In the course of the Utrecht controversy, however, an irretrievable breakdown developed in relations between Descartes and his former supporter. The epistemology favoured by Regius, which reflected his disciplinary expertise in medicine and physiology, left little room for Cartesian metaphysics. When he wrote to Descartes, in July 1645 (AT IV, 254–6: Bos 2002, 189–90), that many reputable people believed that Descartes secretly held views about the human mind and God that differed from those that he published, and that he had discredited his philosophy by publishing the *Meditations*, it seemed to Descartes that Regius was endorsing the same criticisms that Voetius and Schoock had made earlier. The following year, against Descartes’ advice, Regius published the *Fundamenta physices*, in which he rejected a number of Descartes’ metaphysical theses and thereby incurred the wrath of his former mentor. The French philosopher denounced Regius, as misrepresenting his philosophy, in the preface to the French edition of the *Principles of Philosophy* (1647). Regius planned to reply by adding twenty-one Corollaries to a medical disputation that was scheduled for 2 October 1647, concerning a forty-year old man who had inflammation of the feet and legs (Regius 1647b). These Corollaries included three of the more contentious claims about the mind and God that Regius had earlier removed from *Fundamenta physices* in an unsuccessful attempt to appease Descartes. Although the disputation was banned by the University rector, Regius had already disseminated copies of the text, including the controversial *Corollaria*. Descartes replied with *Notae in programma quoddam* (1648)—i.e., *Critical Remarks on a Certain Manifesto*—to which Regius replied with an extended version of the *Corollaria*, in *A Brief Explanation of the Human Mind or the Rational Soul, in which is explained what it is and what it may be* (Regius 1648).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      沃埃修斯与他所认定的“新哲学”支持者之间的争斗如此激烈，这或许让人以为笛卡尔与雷吉乌斯至少持有一个共同的哲学立场。然而在乌得勒支论战过程中，笛卡尔与这位昔日支持者的关系出现了一种无法挽回的破裂。雷吉乌斯偏爱的认识论反映了他在医学与生理学上的专业所长，几乎不给笛卡尔式形而上学留有余地。1645 年 7 月，他写信告诉笛卡尔（AT IV, 254–6：Bos 2002, 189–90），许多有声望的人相信笛卡尔私下关于人的心灵与上帝的观点与他发表的不同，还说笛卡尔发表《沉思集》败坏了自己哲学的名声；在笛卡尔看来，这似乎是雷吉乌斯在附和沃埃修斯与斯霍克早先提出的那些批评。次年，雷吉乌斯不听笛卡尔劝告，出版了《自然哲学基础》，其中拒斥了笛卡尔的若干形而上学论题，从而招致昔日导师的震怒。这位法国哲学家在《哲学原理》法文版（1647）的序言中公开谴责雷吉乌斯歪曲其哲学。雷吉乌斯打算回复：为一场定于 1647 年 10 月 2 日举行、关于一位双脚与双腿发炎的四十岁男子的医学论辩增补二十一条附论（Regius 1647b）。这些附论包含了雷吉乌斯此前为安抚笛卡尔而从《自然哲学基础》中删去的三条关于心灵与上帝的、更具争议的主张。尽管该论辩被大学校长查禁，雷吉乌斯此前已散发文本的抄本，包括有争议的《附论》（*Corollaria*）。笛卡尔以《对某个纲领的注记》（*Notae in programma quoddam*，1648，即《对某个宣言的批判性评论》）作答；雷吉乌斯则以一个扩充版的《附论》回应，即《对人的心灵或理性灵魂的简要说明，其中解释了它是什么以及它可能是什么》（Regius 1648）。
+    step2: |-
+      沃埃修斯与他所认定的“新哲学”拥护者斗得你死我活，这或许会让人以为，笛卡尔与雷吉乌斯至少在哲学立场上是一致的。然而乌得勒支论战走到中途，笛卡尔与这位昔日拥趸的关系出现了无可挽回的破裂。雷吉乌斯偏爱的那种认识论，带着他医学与生理学的专业底色，几乎容不下笛卡尔式形而上学。1645 年 7 月，他写信给笛卡尔（AT IV, 254–6：Bos 2002, 189–90），说许多有声望的人都相信，笛卡尔私下关于人的心灵与上帝的看法与其发表的并不一致，还说发表《沉思集》反倒败坏了自己哲学的名声。在笛卡尔读来，这无异于雷吉乌斯替沃埃修斯与斯霍克早先的批评背书。第二年，雷吉乌斯不顾笛卡尔劝阻，出版《自然哲学基础》，公开拒斥笛卡尔的几条形而上学论题，昔日导师勃然大怒。这位法国哲学家随即在《哲学原理》法文版（1647）序言中公开谴责雷吉乌斯歪曲其哲学。雷吉乌斯的还击方式，是给一场定于 1647 年 10 月 2 日举行、题为“论一位双脚与双腿发炎的四十岁男子”的医学论辩增补二十一条附论（Regius 1647b）。这些附论里就有三条他先前为安抚笛卡尔而从《自然哲学基础》中删去、关于心灵与上帝的硬主张。大学校长下令查禁这场论辩，可雷吉乌斯早已把文本连同惹事的《附论》（*Corollaria*）散发出去。笛卡尔以《对某个纲领的注记》（*Notae in programma quoddam*，1648，即《对某个宣言的批判性评论》）回敬；雷吉乌斯再出一个扩充版《附论》，即《对人的心灵或理性灵魂的简要说明，其中解释了它是什么以及它可能是什么》（Regius 1648）。
   - id: 15
     kind: body
     source: |-
       The main source of disagreement between Descartes and Regius was their respective accounts of human nature. This had emerged as early as 1640, when Regius commented on a draft of the *Meditations*, and more explicitly in the disputation (December 1641), which proposed the thesis that the human mind and body are united in an ‘accidental unity.’ In July 1645, when Descartes responded to a draft of the *Fundamenta* *physices*, he argued that Regius had gone too far in the opposite direction by making the union of mind and body so close that the mind was merely a ‘mode’ of the body—which was an even greater error than his earlier mistake (AT IV, 250: Bos 2002, 188). This issue, of how to conceive of the mind and body as united and yet separable, dominated the series of claims and counter-claims made by both philosophers up to 1648. Between 1648 and February 1650, when Descartes died, the two philosophers did not engage directly with each other. Descartes discussed a range of questions with Burman in 1648, and in response to one query he provided another reminder of the extent to which Regius allegedly misunderstood his metaphysics. “As far as Regius is concerned … in physics he has always been anxious to follow the views of the author [i.e., Descartes] … whereas in metaphysics he has done everything possible to contradict the author’s views” (Descartes CB, 38: AT V, 170). Descartes’ last publication, *Les Passions de l’Ame* (1649: AT, vol. XI), may be read as his final attempt to address the source of their disagreement, and Regius 1650 may be seen as Regius’ response (Verbeek 2017)[^verbeek-2017].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      笛卡尔与雷吉乌斯分歧的主要根源在于二人各自的人性学说。这一点早在 1640 年雷吉乌斯评论《沉思集》草稿时就已显露，1641 年 12 月的论辩更为明确——该论辩提出了人的心灵与身体以“偶性统一”相结合的论题。1645 年 7 月，笛卡尔在回应《自然哲学基础》草稿时指出，雷吉乌斯在相反的方向上走得太远：他把心灵与身体的结合说得如此紧密，以至于心灵成了身体的“样态”——这比他先前的错误还要严重（AT IV, 250：Bos 2002, 188）。如何设想心灵与身体既结合又可分离，这个问题支配着两位哲学家直至 1648 年的连番主张与反驳。从 1648 年到 1650 年 2 月笛卡尔去世，两人再未直接交手。1648 年笛卡尔与布尔曼讨论过一系列问题，对其中一个疑问，他再次点明雷吉乌斯对形而上学的所谓误解到了什么程度：“就雷吉乌斯而言……在物理学上，他总是急于追随作者［即笛卡尔］的观点……而在形而上学上，他则想尽一切办法与作者的观点作对”（Descartes CB, 38：AT V, 170）。笛卡尔最后的出版物《论灵魂的激情》（*Les Passions de l'Ame*，1649：AT 第十一卷）可以读作他对分歧根源的最后回应，而 Regius 1650 则可视为雷吉乌斯的回应（Verbeek 2017）[^verbeek-2017]。
+    step2: |-
+      笛卡尔与雷吉乌斯的分歧，根子在他们各自的人性学说。这层分歧早在 1640 年就露头——那年雷吉乌斯评论了《沉思集》的草稿；到 1641 年 12 月的论辩则挑得更明：心灵与身体以“偶性统一”相结合。1645 年 7 月，笛卡尔针对《自然哲学基础》草稿答复说，雷吉乌斯在相反方向上过了头：他把身心结合讲得如此贴近，以致心灵不过是身体的“样态”——比先前的错误错得更厉害（AT IV, 250：Bos 2002, 188）。心灵与身体既结合又可分离，如何设想这件事，主宰了两位哲学家直到 1648 年你来我往的全部主张与反主张。从 1648 年到 1650 年 2 月笛卡尔去世，两人再没直接交过锋。1648 年笛卡尔与布尔曼谈过一连串问题，其中一个疑问的回答里，他再度点出雷吉乌斯对形而上学的所谓误解有多深：“就雷吉乌斯而言……在物理学上，他总是急于追随作者［即笛卡尔］的观点……而在形而上学上，他则想尽一切办法与作者的观点作对”（Descartes CB, 38：AT V, 170）。笛卡尔生前最后一部出版物《论灵魂的激情》（*Les Passions de l'Ame*，1649：AT 第十一卷），不妨读作他对分歧根源的最后回应；Regius 1650 则可看作雷吉乌斯的应答（Verbeek 2017）[^verbeek-2017]。
   - id: 16
     kind: body
     source: |-
       Beyond their philosophical disagreements, there was an accusation of plagiarism by Descartes. He wrote to an acquaintance that he had found almost nothing in *Fundamenta physices* that Regius could not have borrowed from him, but that it also contained many falsities due to Regius’ misunderstanding of them. In particular, Descartes referred to Regius’ explanation of muscle movement, which the Utrecht professor allegedly took from the unpublished manuscript of *Traité de l’homme*. However, because Regius would only have obtained a copy of that manuscript shortly before the publication of his book, and because the figures were lacking, his explanation was misguided (AT IV, 517–518; see also AT IV, 566–567). In later years, Regius denied that he ever had a copy of *L’homme* (Regius 1661b; Bos 2002, *xvi–xx*). Moreover, if Regius did not obtain a copy before 1645, this would mean that the groundwork for his explanation of muscle movement, already laid down in his 1641 disputations, must have been entirely his own work—which also seems doubtful. In any case, these disputations from 1641 show undeniably that the interaction between Descartes and Regius at the time was far more extensive than what we know from their correspondence. Their exchange of letters must have been larger than what survives, which seems likely, and it seems equally likely that they exchanged views during personal conversations (Bos 2017, 104–105)[^bos-2017]. That this exchange of ideas was certainly not one-way is demonstrated by the case of the explanation of magnetism, where an influence appears to have run in the opposite direction (Sander 2020, 721–728)[^sander-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了哲学上的分歧之外，还有笛卡尔的一项剽窃指控。他写信给一位熟人，说他在《自然哲学基础》中几乎找不到任何雷吉乌斯无法从他那里借来的东西，但该书也由于雷吉乌斯的误解而包含许多谬误。他特别提到雷吉乌斯对肌肉运动的解释，这位乌得勒支教授据称取自未刊手稿《论人》（*Traité de l'homme*）。然而，由于雷吉乌斯只可能在其著作出版前不久才得到该手稿的抄本，又由于其中缺少插图，他的解释走入歧途（AT IV, 517–518；另见 AT IV, 566–567）。晚年雷吉乌斯否认自己曾有过《论人》的抄本（Regius 1661b；Bos 2002, *xvi–xx*）。此外，如果雷吉乌斯在 1645 年之前确实没有得到抄本，那就意味着他为肌肉运动解释所奠定的基础——已见于其 1641 年的论辩——必定完全是他自己的工作，而这一点同样可疑。无论如何，这些 1641 年的论辩无可否认地表明：当时笛卡尔与雷吉乌斯的互动远比我们从其书信中所知的广泛。他们的通信量必定大于留存至今的部分，这一点似乎可信；他们同样可能在私下交谈中交换过看法（Bos 2017, 104–105）[^bos-2017]。这种思想交流肯定不是单向的：磁的解释就是例证，那里似乎有一股影响朝相反方向流动（Sander 2020, 721–728）[^sander-2020]。
+    step2: |-
+      哲学分歧之外，还添了一桩剽窃指控。笛卡尔写信给一位熟人，说《自然哲学基础》里几乎找不出一样东西不是雷吉乌斯能从他那里搬来的；但他又说，书里还因雷吉乌斯的误解掺进不少谬误。他特别点了雷吉乌斯对肌肉运动的解释：这位乌得勒支教授据说是从未刊手稿《论人》（*Traité de l'homme*）里拿来的。可问题是，雷吉乌斯只可能在成书前不久才拿到那份手稿的抄本，而抄本又缺图，所以他的解释走岔了道（AT IV, 517–518；另见 AT IV, 566–567）。晚年雷吉乌斯矢口否认自己曾藏有《论人》抄本（Regius 1661b；Bos 2002, *xvi–xx*）。再说，倘若他果真在 1645 年之前没拿到抄本，那他肌肉运动解释的底子——1641 年的论辩里已见雏形——就必是他自己的工作，这同样叫人起疑。无论如何，1641 年的这批论辩无可争辩地表明：当时笛卡尔与雷吉乌斯的互动，远比二人书信所存的更广。他们的通信总量必定大于今存的篇目，这似乎可以断定；他们也很可能在私下交谈里交换过看法（Bos 2017, 104–105）[^bos-2017]。这种思想交流绝非单行道：磁的解释便是明证——在那里，影响似乎朝相反的方向流动（Sander 2020, 721–728）[^sander-2020]。
   - id: 17
     kind: body
     source: |-
       ## 3. Theory of Knowledge and Philosophy of Science
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 知识论与科学哲学
+    step2: |-
+      ## 3 知识论与科学哲学
   - id: 18
     kind: body
     source: |-
       Once Regius had publicly established his independence vis-à-vis Descartes in 1647, he began to publish a theory of knowledge that reflected his medical interests (Bellis, 2013) and complemented the account of human nature that he adopted in opposition to his former mentor. The result was an epistemology that was closer to that which appeared, almost four decades later, in Locke’s *Essay* than anything that he had read in Descartes. This transition had begun while drafting *Fundamenta physices*, in which Regius denied the need for any innate ideas, including even the idea of God.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1647 年雷吉乌斯公开确立了自己相对于笛卡尔的独立地位之后，他开始发表一种反映其医学兴趣的知识论（Bellis, 2013），以补足他反对昔日导师时所采取的人性学说。其结果是一种认识论：它更接近将近四十年后洛克《人类理解论》中出现的那种认识论，而与他从笛卡尔那里读到的任何东西都相去较远。这一转变始于起草《自然哲学基础》之际；雷吉乌斯在该书中否认对任何天赋观念的需要，甚至包括上帝观念。
+    step2: |-
+      1647 年，雷吉乌斯公开摆出与笛卡尔分道的姿态之后，开始发表一套反映其医学趣味的知识论（Bellis, 2013），用以补全他在与昔日导师决裂时所立的人性学说。成果便是一种认识论：比起笛卡尔书中的任何东西，它更接近近四十年后洛克《人类理解论》里的那一种。转变其实始于起草《自然哲学基础》之时——雷吉乌斯在那部书里否认需要任何天赋观念，连上帝观念也不例外。
   - id: 19
     kind: body
     source: |-
       > The mind, in order to think, does not seem to need innate ideas, images, notions or axioms; rather, its innate faculty of thinking is sufficient on its own in order for it to complete all its thinking activities. This is evident in the perception of pain, colour, taste, and other similar perceptions, which are genuinely perceived by the mind, although none of those ideas is innate. Nor is there any reason why some ideas rather than others should be innate by their very nature. (Regius 1646, 251)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 心灵为了思维，似乎不需要天赋观念、影像、概念或公理；毋宁说，其天赋的思维官能单凭自身便足以完成其一切思维活动。这一点在痛觉、颜色、味道及其他类似知觉的感知中显而易见：这些知觉真切地为心灵所感知，尽管其中没有任何一个观念是天赋的。也没有任何理由认为，一些观念而非另一些观念按其本性就是天赋的。（Regius 1646, 251）
+    step2: |-
+      > 心灵要思维，似乎并不需要天赋观念、影像、概念或公理；它天赋的思维官能单凭自己，就足够完成全部思维活动。痛觉、颜色、味道等诸如此类的知觉可以为证：它们确确实实为心灵所感知，而其中没有一个观念是天赋的。同样没有理由说，某些观念而非另一些观念按本性就是天赋的。（Regius 1646, 251）
   - id: 20
     kind: body
     source: |-
       Regius supported this with the claim that a young person who had not been educated would, if asked, deny knowledge of things of which they had no experience (1654, 251). Since an innate idea of God was central to the Cartesian project, Regius made his own position explicit by also denying that the idea of God is innate: “Even the idea of God … does not seem to be innate in us, but is produced in us initially by observing things or is passed on to us by others” (Regius 1646, 252).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      雷吉乌斯还以如下主张支持这一点：一个未受过教育的年轻人若被问及，会否认自己知道那些没有经验过的事物（1654, 251）。由于上帝的天赋观念是笛卡尔事业的核心，雷吉乌斯进一步明确自己的立场，连上帝观念是天赋的也一并否认：“连上帝观念……在我们之中似乎也不是天赋的，而是起初由观察事物而在我们之中产生，或由他人传递给我们”（Regius 1646, 252）。
+    step2: |-
+      为支撑这一说法，雷吉乌斯举出：一个没受过教育的年轻人，若问起他，会否认自己知道任何没有经验过的事物（1654, 251）。上帝的天赋观念本是笛卡尔纲领的命脉，雷吉乌斯索性把立场挑明，连这一条也否认掉：“连上帝观念……在我们之中似乎也不是天赋的；它起初由我们观察事物而产生，或由旁人传递给我们”（Regius 1646, 252）。
   - id: 21
     kind: body
     source: |-
       Regius rejected the innateness of ideas for the same reason that Descartes had rejected various scholastic entities: it was redundant to an adequate explanation of thinking.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      雷吉乌斯拒斥观念的天赋性，理由与笛卡尔拒斥各种经院实体相同：它们对于充分解释思维而言是多余的。
+    step2: |-
+      雷吉乌斯否认观念天赋，理由正是笛卡尔拒斥诸般经院实体的那条：对充分解释思维来说，它纯属多余。
   - id: 22
     kind: body
     source: |-
       > It is evident from the perception of titillation and of pain, of sounds and light, which arise from the motion of an objective body, that the stimulation of the senses does not require intentional species, nor spiritual qualities, nor any other unintelligible things, but that local motion alone and its variations suffice for this purpose. (Regius 1646, 253–4)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 从瘙痒与疼痛的感知、以及由客观物体的运动产生的声音与光可以明白：感官的刺激不需要意向种相，不需要精神性质，也不需要任何其他不可理解的东西；仅凭局部运动及其变化便足以达成这一目的。（Regius 1646, 253–4）
+    step2: |-
+      > 由瘙痒与疼痛的感知、由客观物体运动发出的声音与光，可以看得明白：刺激感官既不需要意向种相，也不需要精神性质，更不需要任何其他没法理解的东西；单是局部运动及其种种变化，就足以成事。（Regius 1646, 253–4）
   - id: 23
     kind: body
     source: |-
       He repeated the denial of innate ideas in the Corollaries of 1647: “The mind does not need innate ideas, or notions, or axioms; its faculty of thinking alone is enough for it to perform its own actions” (Regius 1647b, Corollary 12). Descartes’ reply, in the *Notae* (Descartes 1648)[^descartes-1648], conceded the validity of Regius’ claim by accepting that their disagreement was merely verbal: “I never wrote or claimed that the mind needs innate ideas which are anything other than its faculty of thinking” (AT VIII-2, 357). Regius subsequently generalized his claim, in *Philosophia naturalis* (1654: 335); apart from what is revealed in Scripture, he argued, all thoughts originate in sensory experience.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      他在 1647 年的《附论》中重申对天赋观念的否认：“心灵不需要天赋观念、概念或公理；单凭其思维官能便足以实施其自身活动”（Regius 1647b, 附论 12）。笛卡尔在《注记》（Descartes 1648）[^descartes-1648]中的回应承认了雷吉乌斯主张的有效性，接受二人的分歧只是字面之争：“我从未写过或主张过心灵需要天赋观念，而那些观念不是别的东西，正是它的思维官能”（AT VIII-2, 357）。雷吉乌斯随后在《自然哲学》（1654: 335）中把这一主张一般化：他论证说，除《圣经》所启示者外，一切思想都起源于感觉经验。
+    step2: |-
+      1647 年的《附论》里，他把这套否认又重申了一遍：“心灵不需要天赋观念、概念或公理；单凭思维官能，就足以实施它自己的活动”（Regius 1647b, 附论 12）。笛卡尔在《注记》（Descartes 1648）[^descartes-1648]里回应说，两人分歧只是措辞之争——这等于承认了雷吉乌斯主张的效力：“我从未写过或主张过，心灵需要的天赋观念是它的思维官能以外的任何东西”（AT VIII-2, 357）。随后雷吉乌斯在《自然哲学》（1654: 335）里把这一主张推向一般：凡《圣经》所启示者之外，一切思想皆起源于感觉经验。
   - id: 24
     kind: body
     source: |-
       > All those [i.e., conscious acts], which do not originate in divine revelation, are sensations or derive their origin from sensation. For we cannot will, judge, or remember anything, nor imagine anything, nor otherwise perceive anything, unless some idea of that thing had been immediately or mediately produced in us by sensation, or subsequently triggered and presented to the mind.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 凡不起源于神圣启示者［即意识活动］，都是感觉，或起源于感觉。因为除非关于某物的观念已经直接或间接地由感觉在我们之中产生，或随后被触发并呈现于心灵，我们就不能意愿、判断或记忆任何东西，也不能想象任何东西，或以其他方式感知任何东西。
+    step2: |-
+      > 凡不源于神圣启示者［即意识活动］，不是感觉，就是从感觉里长出来的。因为倘若关于某物的观念不曾由感觉直接或间接地在我们的心中产生，或随后被触发而呈现给心灵，我们便不能意愿任何东西、判断任何东西、记忆任何东西，也不能想象任何东西，或以别的方式感知任何东西。
   - id: 25
     kind: body
     source: |-
