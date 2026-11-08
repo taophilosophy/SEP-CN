@@ -1,1 +1,1 @@
-# 尼科尔·奥雷姆 Oresme, Nicole (Stefan Kirschner)
+# 尼科尔·奥雷斯姆 Oresme, Nicole (Stefan Kirschner)
