@@ -299,65 +299,87 @@ segments:
     kind: body
     source: |-
       One would expect the same logic to apply to thinking, as an attribute that does not require a distinct substance. Nonetheless, Regius initially stopped short of saying that. While accepting that divine revelation teaches that the mind is a substance, he emphasized that it is organically united with the body. “The human mind, although it is a substance that is really distinct from the body, is however organic as long as it exists in the body” (1646, 246). The mind was also described as being “united most closely with the body in one substance” (Regius 1646, 248).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们会期待同样的逻辑也适用于思维，因为思维是一种并不需要另立实体的属性。然而雷吉乌斯起初并未说到这一步。他一方面接受神圣启示教导心灵是一个实体，另一方面强调心灵与身体有机地结合。“人的心灵虽然是一个与身体实在有别的实体，但只要它存在于身体之中，它就是有机的”（1646, 246）。心灵也被描述为“以最紧密的方式与身体结合于一个实体之中”（Regius 1646, 248）。
+    step2: |-
+      按理说，同一套逻辑也该用到思维上：思维是一种属性，并不需要另立一个实体。可雷吉乌斯起初没有把话说到底。他一面承认神圣启示教导心灵是实体，一面强调心灵与身体有机地结合着。“人的心灵虽然是一个与身体实在有别的实体，但只要它还在身体里，它就是有机的”（1646, 246）。他也说心灵“以最紧密的方式与身体结合为一个实体”（Regius 1646, 248）。
   - id: 38
     kind: body
     source: |-
       However, once he had been rebuked publicly by Descartes, Regius was free to express himself more explicitly. In the Corollaries (Regius 1647b), he wrote:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，一旦被笛卡尔公开斥责之后，雷吉乌斯便可更为直言不讳了。在《附论》（Regius 1647b）中，他写道：
+    step2: |-
+      不过，挨了笛卡尔一顿公开训斥之后，雷吉乌斯反倒可以放开手脚把话说透。他在《附论》（Regius 1647b）里写道：
   - id: 39
     kind: body
     source: |-
       > As far as the nature of things is concerned, it seems possible for the soul to be either a substance or a mode of a physical substance. Or, if we follow some other philosophers [i.e., Descartes] who stipulate that extension and thought are attributes which are present in certain substances as their subjects, then since these attributes are not opposites but are just different from each other, there is nothing to prevent the mind from being an attribute of some kind which applies to the same subject as extension, even though neither attribute is included in the concept of the other (thesis 2).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 就事物的本性而言，灵魂似乎既可能是一个实体，也可能是一个物理实体的样态。或者，如果我们追随另一些哲学家（即笛卡尔），他们规定广延与思维是存在于某些实体之中、以这些实体为主体的属性，那么，既然这些属性并不相反，而只是彼此不同，就没有什么能阻止心灵成为某种与广延适用于同一主体的属性，即使两个属性各自都不包含在对方的概念之中（论题 2）。
+    step2: |-
+      > 就事物的本性而论，灵魂既可能是个实体，也可能是个物理实体的样态。换个说法，若依另一些哲学家（即笛卡尔）的规定，广延与思维是寓于某些实体、以之为载体的属性，那么，这些属性彼此并不相反，只是互不相同而已；因此没有什么妨碍心灵成为与广延共属同一载体的某种属性——哪怕两个属性谁都不包含在对方的概念里（论题 2）。
   - id: 40
     kind: body
     source: |-
       This is further developed in Regius 1654, in which he argues that the concepts of extension and thinking are not incompatible and, “accordingly, they [the attributes] may both be present in the same simple subject” (337). This anticipates the question (and the implied answer) that was discussed by Locke, in the *Essay* IV, iii, 6, whether God may have superadded thought to a material substance. In the version proposed by Regius, there are no reasons why it would be impossible for a material entity to have the property of thinking because, although thinking and extension have nothing in common, they are not incompatible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一点在 Regius 1654 中得到进一步发展：他在其中论证广延与思维的概念并不相斥，“因此，它们［这些属性］可以同时存在于同一个单纯主体之中”（337）。这预演了洛克在《人类理解论》第四卷第三章第 6 节中讨论的那个问题（以及隐含的回答）：上帝是否可能把思维附加于一个物质实体之上。按雷吉乌斯提出的版本，没有任何理由说一个物质实体不可能具有思维的属性，因为思维与广延虽然毫无共同之处，却并不相斥。
+    step2: |-
+      Regius 1654 把这一点又往前推了一步：广延与思维这两个概念并不相斥，“因此，它们［这些属性］可以同时存在于同一个单纯主体之中”（337）。这恰好预演了洛克在《人类理解论》第四卷第三章第 6 节提的那个问题（连同隐含的答案）：上帝是否可能把思维附加于物质实体之上。照雷吉乌斯的版本，没有任何理由说一个物质的东西不能具有思维；思维与广延尽管毫无共同之处，却并不互相排斥。
   - id: 41
     kind: body
     source: |-
       Regius also included in the *Corollaries* two other theses that were critical of Descartes and had been omitted from the *Fundamenta Physices*: in thesis 3, he claimed that ‘those who assert that we conceive of the human mind clearly and distinctly as necessarily and really distinct from the body are mistaken’, and in thesis 13 that ‘all common notions that are engraved in the mind derive their origin from the observation of things or from tradition’. Regius also claimed that these conclusions from experience and reason, within the scope of natural philosophy, were consistent with thesis 4, that divine revelation provides indubitable evidence for belief that the human mind is a distinct substance.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      雷吉乌斯在《附论》中还收入了另外两条批评笛卡尔、且曾从《自然哲学基础》中删去的论题：在论题 3 中，他主张“那些断言我们清楚分明地把人的心灵设想为必然地、实在地与身体有别的人是错的”；在论题 13 中则主张“一切铭刻于心灵之中的共同概念都起源于对事物的观察或来自传统”。雷吉乌斯还主张，这些出自经验与理性、且在自然哲学范围之内的结论，与论题 4 相容：神圣启示为相信人的心灵是一个有别于身体的实体提供了不可怀疑的证据。
+    step2: |-
+      《附论》里还有两条批笛卡尔的论题，原本被从《自然哲学基础》中删掉了：论题 3 断言“那些说我们清楚分明地把人的心灵设想为必然地、实在地与身体有别的人，错了”；论题 13 则说“一切铭刻在心灵上的共同概念，都起于对事物的观察或来自传统”。雷吉乌斯还补充说，这些在自然哲学范围内由经验与理性得出的结论，与论题 4 并行不悖：神圣启示为“人的心灵是有别于身体的实体”这一信念提供了无可置疑的证据。
   - id: 42
     kind: body
     source: |-
       These early statements in thesis form of criticisms of Descartes were subsequently expanded in Regius 1654. Many of Descartes’ contemporaries had understood him as arguing that there must be a real distinction between mind and body because it is possible to doubt having a body although it is impossible to doubt having a mind. Regius addressed this argument explicitly:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些以论题形式表述的早期批笛卡尔意见，后来在 Regius 1654 中得到扩展。笛卡尔的许多同时代人把他理解为在论证：心灵与身体之间必定有实在的区分，因为可以怀疑自己有一个身体，却不能怀疑自己有一个心灵。雷吉乌斯明确回应了这一论证：
+    step2: |-
+      这些以论题形式写下的批笛卡尔意见，后来在 Regius 1654 中大大扩充。笛卡尔的同时代人大多这样理解他：心灵与身体必有实在区分，因为身体可以怀疑，心灵却无法怀疑。雷吉乌斯对这一论证作了正面回应：
   - id: 43
     kind: body
     source: |-
       > The fact that we can doubt the body but cannot possibly doubt the mind does not prevent the mind from being a mode of the body. That merely proves that, while we are doubting the body, we cannot say with certainty that the mind is its mode. In the mean time, since the body about which we doubt may nevertheless subsist and since there is no reason why it may not be modified by the mind—which is evident from what has been said earlier—this is enough to show that the mind of which we are certain may be a mode of that doubtful body. (1654, 338)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我们能够怀疑身体、却不可能怀疑心灵，这一事实并不妨碍心灵是身体的一个样态。它仅仅证明：在怀疑身体之时，我们不能确定地说心灵是身体的样态。与此同时，既然我们所怀疑的身体仍可能独立存在，又既然没有理由说它不可能被心灵所改变——这一点从先前所述可以明白——这就足以表明：我们所确信的心灵，可能正是那个可疑身体的样态。（1654, 338）
+    step2: |-
+      > 我们能怀疑身体，却根本无法怀疑心灵，这并不妨碍心灵是身体的一个样态。它只证明：当我们在怀疑身体时，我们无法确定地说心灵是身体的样态。可是，我们所怀疑的那个身体仍可能独立存在；而且，从前面所说可见，没有理由说它不能被心灵所改变。这就足以表明：我们确信无疑的那个心灵，也许正是那个可疑身体的样态。（1654, 338）
   - id: 44
     kind: body
     source: |-
       Given Regius’ disagreement with Descartes about the concept of a human mind, and his rejection of innate ideas, it was not surprising that he also rejected the ontological argument for God’s existence that Descartes had proposed in the Fifth Meditation (AT VII, 65). The Dutch philosopher accepted that the “actual and necessary existence of God is comprehended in the idea or concept of God.” He argued, however, that it does not follow from that concept that God exists actually and necessarily. “It merely follows that, if he existed anywhere, he would exist necessarily rather than contingently or that, in that case, he would not be capable of not existing” (Regius 1654, 357).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      鉴于雷吉乌斯在人的心灵这一概念上与笛卡尔的分歧，以及他对天赋观念的拒斥，他也拒斥笛卡尔在《第五沉思》中提出的上帝存在本体论论证（AT VII, 65），这并不令人意外。这位荷兰哲学家接受“上帝的现实的与必然的存在被包含在上帝的观念或概念之中”。然而他论证说，从这一概念并不能推出上帝现实地、必然地存在。“由此仅仅推出：如果他在任何地方存在，他就会必然地而非偶然地存在；或者，在这种情况下，他不可能不存在”（Regius 1654, 357）。
+    step2: |-
+      雷吉乌斯既然在“人的心灵”这个概念上与笛卡尔分道扬镳，又拒斥天赋观念，那么他连笛卡尔在《第五沉思》里提出的上帝存在本体论论证一并拒斥（AT VII, 65），也就不足为怪了。这位荷兰哲学家承认，“上帝的现实的、必然的存在包含在上帝的观念或概念之中”。但他论证说，从这个概念推不出上帝现实地、必然地存在。“由此只能推出：倘若他在某处存在，他就是必然地而非偶然地存在；或者说，在这种情况下，他不可能不存在”（Regius 1654, 357）。
   - id: 45
     kind: body
     source: |-
       One could interpret the gradual dissociation between Regius and Descartes, and the rejection by the former of the latter’s metaphysics, as an endorsement by Regius of one dominant feature of the Cartesian enterprise, namely, the new natural philosophy that was inaugurated in *Le Monde*. Regius had followed the logic of Descartes’ natural philosophy by denying any explanatory value in the hypothesis of souls in animals. “Since indeed the actions of beasts … can be explained simply by the disposition of their spirits and other bodily parts, and since entities should not be multiplied without necessity, we have no reason to attribute any intellect to beasts” (Regius 1646, 241–42). He might have followed the same logic in the case of human intelligence, had he not been restrained by his understanding of the teaching of Scripture, and his apparent acceptance on biblical grounds that the human mind is an immaterial substance. Rather than endorse Cartesian metaphysics, as found in the *Meditations*, which seemed to return its author to the scholastic philosophy that he explicitly rejected, Regius struggled with the competing demands of Scripture and the logic of Cartesian natural philosophy. The challenge of this conjunction is evident in Regius’ repeated attempts to describe the unity of mind and body ‘in a single substance’ (1646, 248) while maintaining that the mind is “something that is really distinct from the body and is separable from it in reality” (1646, 246). This epistemic dualism, to the effect that we acquire some beliefs from natural knowledge and others from Scripture, has been understood, by some readers, as intellectually dishonest and as a typical libertine camouflage for cryptic materialism (Hallyn, 2005). But, as Bos (2013) shows, Regius may have accepted the limits of human knowledge, based on reason and experience, and also adopted a commonplace understanding of the certainty of Scripture. By doing so, he became a reluctant dualist without endorsing Cartesian metaphysics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们可以把雷吉乌斯与笛卡尔的逐渐疏离、以及前者对后者形而上学的拒斥，解读为雷吉乌斯认可笛卡尔事业的某个主导特征，即在《论世界》中开创的新自然哲学。雷吉乌斯曾依循笛卡尔自然哲学的逻辑，否认动物有灵魂这一假设有任何解释价值。“既然兽类的行为……完全可以由其精气与其他身体部位的配置来解释，又既然实体不应无必要地增多，我们就没有理由把任何理智归给兽类”（Regius 1646, 241–42）。若不是受到他对《圣经》教导的理解、以及他显然基于圣经理由接受“人的心灵是非物质实体”这一点的约束，他在人类智能的情形中很可能也会依循同样的逻辑。笛卡尔式的形而上学（见于《沉思集》）似乎把其作者带回到他明确拒斥的经院哲学；雷吉乌斯不愿认可这种形而上学，而是在《圣经》的要求与笛卡尔自然哲学的逻辑之间挣扎。这一结合所带来的困难，清楚地见于雷吉乌斯一再尝试把心灵与身体的统一描述为“在一个实体之中”（1646, 248），同时又坚持心灵是“某种与身体实在有别、且在实在中可与它分离的东西”（1646, 246）。这种认识论上的二元论——我们的一些信念来自自然知识，另一些来自《圣经》——被某些读者理解为理智上不诚实，是隐秘唯物主义典型的放浪派伪装（Hallyn, 2005）。但正如 Bos（2013）所示，雷吉乌斯或许既接受了基于理性与经验的人类知识之界限，也采纳了对《圣经》之确定性的一种平实理解。这样一来，他成了一个不情愿的二元论者，却并未认可笛卡尔式的形而上学。
+    step2: |-
+      雷吉乌斯与笛卡尔渐行渐远，又把后者的形而上学弃置一旁；这可以读作他对笛卡尔事业某一主导特征的认可，即《论世界》所开创的新自然哲学。雷吉乌斯曾顺着他自然哲学的逻辑走：动物有灵魂这一假设，没有任何解释价值。“既然兽类的行为……单凭其精气与其他身体部位的配置就能解释，又既然实体不该无谓地增殖，我们就没有理由把任何理智归给兽类”（Regius 1646, 241–42）。要不是他对《圣经》教导的理解、以及他显然出于圣经理由而接受“人的心灵是非物质实体”这一点把他拦住，他在人类智能上也大可以照此办理。笛卡尔式的形而上学（见于《沉思集》）似乎把它的作者又拖回他明言拒斥的经院哲学；雷吉乌斯不肯为之背书，于是夹在《圣经》的要求与笛卡尔自然哲学的逻辑之间左右为难。这种两难，在他一次又一次的尝试里看得分明：一面把身心统一说成“在一个实体之中”（1646, 248），一面又坚持心灵是“某种与身体实在有别、在实在中可与身体分离的东西”（1646, 246）。这种认识论上的二元论——有些信念得自自然知识，有些得自《圣经》——被一些读者看成理智上的不诚实，是隐秘唯物主义惯用的放浪派伪装（Hallyn, 2005）。但 Bos（2013）表明，雷吉乌斯也许是既承认基于理性与经验的人类知识有其界限，又对《圣经》的确定性持一种平实的理解。如此看来，他不情愿地成了二元论者，却并没有为笛卡尔式形而上学作保。
   - id: 46
     kind: oir
     source: |-
       - Portrait of Regius, [Rijksmuseum, Amsterdam, The Netherlands](https://id.rijksmuseum.nl/200230749).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 雷吉乌斯画像，[荷兰阿姆斯特丹国立博物馆](https://id.rijksmuseum.nl/200230749)。
+    step2: |-
+      - 雷吉乌斯肖像，藏于[荷兰阿姆斯特丹国立博物馆](https://id.rijksmuseum.nl/200230749)。
   - id: 47
     kind: ack
     source: |-
       This entry was originally written by the late Desmond Clarke, but since October 2019, the entry has been updated and maintained by Erik-Jan Bos.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本条目原由已故的德斯蒙德·克拉克（Desmond Clarke）撰写；克拉克去世后，由埃里克-扬·博斯（Erik-Jan Bos）修订更新。
+    step2: |-
+      本条目最初出自已故的德斯蒙德·克拉克（Desmond Clarke）之手；克拉克身后，由埃里克-扬·博斯（Erik-Jan Bos）修订增补。

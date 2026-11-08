@@ -2,7 +2,7 @@
   "slug": "henricus-regius",
   "kind": "retranslate",
   "zh_doc": "h/henricus-regius.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-01T11:20:07Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "H-main-20261108",
+      "at": "2026-11-08T16:09:58Z",
+      "evidence": "初译（ADR-0021 段落账本，GLM-5.3 主会话直译，temperature 0.2，batch=all，无限流）：47 段双版落盘（body 45 + oir 1 + ack 1，分四批 p1-p4 提交），lq check 47/47 守恒 HARD=0（source 逐字符一致；SOFT 留痕：标题段 step1==step2 ×3、斜体→书名号 19 段）；compose 21013 字符，六节标题+书目 defs 41 条照录+学术工具+OIR+相关词条+致谢齐；译文 3 批账本 checkpoint 已提交（32651499/e480fcd9/5663a582）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "H-main-20261108",
+      "at": "2026-11-08T16:17:24Z",
+      "evidence": "一校（准确性）逐节对照 yuanwen/h/henricus-regius.md（4 节 45 正文段+8 引文块）：账本 47:47 source 逐字符；正文脚注标记 11:11 零缺零余；书目 defs 41:41 键集与正文逐字符全等；引文块 8 块齐全（dst 9=8 引文+References 说明行）；标题 4 节对位；相关词条映射人工核销 2 处（Descartes, René: ethics 误映射“非洲伦理学”→SUMMARY 主行“笛卡尔的伦理学”；innate/acquired distinction 未匹配→SUMMARY 1294 行“先天性特征与后天获得性特征的区别”）；年代表抽核 1598/1623/1625/1636/1638/1641/1642/1643/1645/1646/1647/1648/1649/1654/1661/1662/1673/1679/1687 与源一致；术语按登记册：实体形式/偶性统一/天赋观念/意向种相/纯粹理智/隐秘的质/雷吉乌斯/沃埃修斯全程一致"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "H-main-20261108",
+      "at": "2026-11-08T17:04:53Z",
+      "evidence": "二校（语言）：check_prose 19→6，实修 13+4=17 处——长句拆分 8（寓言句/沃埃修斯推论句/范隆论题句/布尔曼引语框架等）、weak-verb 2（进行口头答辩→当众答辩；加以拒斥→拒斥）、passive-bei 2、plural-men 1（批评者们→批评者）、de-chain 4；豁免 6 条全部为引文内部（Regius 1646, 251/253-4/252；1648, 10；1654, 351/404；Descartes AT VIII-2, 357），按 ADR-0020 引文内部不强拆留判读依据"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "H-main-20261108",
+      "at": "2026-11-08T17:04:55Z",
+      "evidence": "三校（体例）：check_style --docs --strict 0 issue（修 italic-cjk 1 处：源斜体短语 as something that is distinct from itself 的中文强调改无标记行文并调整括注）；check_academic --strict 0 硬错误；check_math 0 缺式；check_summary H1 mismatch 0；check_mulu_s HARD 0；check_terms 本词条无告警；书目 defs 41:41 逐字符照录；正文标记 11:11"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "H-main-20261108",
+      "at": "2026-11-08T17:04:55Z",
+      "evidence": "初审（自审回读）：168 行分三段回读完毕，四节论证链（生平→沃埃修斯/笛卡尔论战→知识论与科学哲学→人性学说）完整，尾节（学术工具/OIR/相关词条/致谢）齐备；回读发现并修订 1 处欧化残留（“原本被从《自然哲学基础》中删掉”→“原本已从…中删掉”，Minor）；异会话独立性成立（本会话即初译 actor，r 阶段为冷置后回读）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "H-main-20261108",
+      "at": "2026-11-08T17:04:55Z",
+      "evidence": "复审（逐句回核）：8 个直引块逐句对源核对（Regius 1646, 251/253-4、1641b 第 ix 段与第六场论辩、1654 结语/351/338、1648, 10、Descartes AT VIII-2 363/357、AT III 369-74/460/505、AT IV 250/517-518）；关键论证段（偶性统一论题、形式与质的拒斥、天赋观念否认、纯粹理智之争、本体论论证拒斥、隐秘唯物主义解读）逻辑层次与源一致，无增译漏译；年份与卷页抽核一致；未发现 Critical/Major"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "H-main-20261108",
+      "at": "2026-11-08T17:04:57Z",
+      "evidence": "终审验收：四检复跑全绿（style 0 / academic 0 硬错 / math 0 缺式 / summary 0 mismatch）+ prose 余 6 条全为直引内部豁免；check_terms 硬错误 0 且本词条无告警；段落身份 47:47、标记 11:11、defs 41:41；version_pin = Mar 3, 2026 / Spring 2026 / sha256 67d3749…"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "H-main-20261108",
+      "at": "2026-11-08T17:04:57Z",
+      "evidence": "done：六道三校齐备（clear/draft/s1/s2/s3/r1/r2/r3/done 九步），四检全绿，paths 单条提交。"
     }
   ],
   "blockers": [],
