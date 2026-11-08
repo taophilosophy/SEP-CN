@@ -331,50 +331,66 @@ segments:
     kind: body
     source: |-
       Moreover, although most studies on aesthetic judgments point in the direction of subjectivism, research on aesthetic taste suggests that people believe aesthetic taste *can* be good or bad. Constant Bonard et al. (2022) asked participants whether it makes sense to distinguish between good and bad taste, and then asked to define what it is. The majority of participants agreed with the distinction, and although a significant part defined good taste in terms of the ability to detect aesthetic properties, expressing the view compatible with aesthetic realism, for other participants, good taste was compatible with aesthetic subjectivism, since ‘good taste’ was defined simply as something corresponding to their own personal preferences. Another phenomenon that has been thought to be relevant to the issue of whether good taste exists, is that of ‘guilty pleasures’—enjoying aesthetic objects one feels one should not enjoy. As Kris Goffin and Florian Cova (2019) observe, the existence of guilty pleasure at first sight might be considered evidence for the existence of good taste among the folk. However, they present evidence suggesting that the guilt people experience should be understood as guilt for violating social norms, not aesthetic ones, and therefore should not be seen as evidence for folk aesthetic realism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，尽管关于审美判断的多数研究都指向主观主义，关于审美趣味的研究却表明，人们相信审美趣味*可以*有好坏之分。Constant Bonard 等人（2022）询问被试，区分好品味与坏品味是否有意义，继而请他们界定所谓好品味是什么。多数被试赞同这一区分；尽管有相当一部分人以察觉审美属性的能力来界定好品味，表达了与审美实在论相容的观点，但对另一些被试来说，好品味与审美主观主义相容，因为“好品味”被简单地界定为与自身个人偏好相符的东西。另一个被认为与好品味是否存在有关的现象，是“罪恶快感”（guilty pleasures）——享受自己觉得不该享受的审美对象。正如 Kris Goffin 与 Florian Cova（2019）所观察到的，罪恶快感的存在乍看或许可被视为大众中存在好品味的证据。然而，他们给出的证据表明，人们体验到的罪恶感应当被理解为违反社会规范所致的罪恶感，而非违反审美规范，因此不应被视为大众审美实在论的证据。
+    step2: |-
+      再者，尽管多数审美判断研究都指向主观主义，审美趣味方面的研究却显示，人们相信品味*确有*好坏。Constant Bonard 等人（2022）先问被试：区分好品味与坏品味是否有意义？再请其界定好品味。多数被试认可这一区分；其中相当一部分人以察觉审美属性的能力界定好品味，与审美实在论相合，但也有人把“好品味”径直等同于合乎自身偏好的东西，从而与审美主观主义相容。另一个常被认为关乎好品味存在与否的现象是“罪恶快感”（guilty pleasures），即享受自觉不该享受的审美对象。Kris Goffin 与 Florian Cova（2019）指出，罪恶快感乍看或可充当大众有好品味之证据；但他们给出的证据表明，这种罪恶感应被理解为违反社会规范的内疚，而非违反审美规范，故不足以支持大众审美实在论。
   - id: 42
     kind: body
     source: |-
       In addition to the meta-aesthetical method outlined above, psychologists and experimental philosophers have also examined realism about taste by considering the mechanisms that result in people’s aesthetic judgments.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了上文勾勒的元美学方法，心理学家与实验哲学家还通过考察产生人们审美判断的机制，来研究关于品味的实在论。
+    step2: |-
+      除上述元美学方法之外，心理学家与实验哲学家还从审美判断的生成机制入手，考察关于品味的实在论。
   - id: 43
     kind: body
     source: |-
       Some philosophers have suggested that the idea that there be objective aesthetic value might be demonstrated simply by pointing to the fact that some artworks and not others are universally judged as aesthetically valuable. For example, Hume (1757a) suggests that some works are, truly, better than others, and that those works will pass the test of time: they will be judged to be good across cultures and epochs, and they will do this in virtue of truly having aesthetically good-making features.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些哲学家提出，客观审美价值的存在也许可以简单地通过指出如下事实来证明：某些艺术作品、而非另一些，被普遍判定为具有审美价值。例如，Hume（1757a）提出，有些作品确实优于其他作品，而那些作品将经受住时间的检验：它们会跨越文化与时代被判定为优秀，并且之所以如此，是因为它们确实具有造就审美优点的特征。
+    step2: |-
+      有些哲学家认为，证明客观审美价值存在，只需指出一个事实：某些艺术作品被普遍判为具有审美价值，另一些则不然。例如 Hume（1757a）主张，确有作品胜过他作，它们经得起时间检验——跨越文化与时代仍被判定为优，而其所以如此，正在于确实具备造就审美优点的特征。
   - id: 44
     kind: body
     source: |-
       However, James Cutting (2003) has presented evidence that has seemed to put pressure on this Humean view. Having found that merely exposing people to impressionist works made them like them more, Cutting suggests that we may like canonical works because they have been continually broadcast to the world. Armed with Cutting’s findings, the aesthetic skeptic might argue that passing the test of time isn’t an indication of aesthetic quality, but rather an indication that people have merely experienced the works more frequently.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，James Cutting（2003）提供的证据似乎对休谟的这一观点构成了压力。Cutting 发现，仅仅让人接触印象派作品，就会让他们更喜欢这些作品；据此他认为，我们之所以喜爱经典作品，也许是因为它们被持续不断地传播给全世界。有了 Cutting 的发现，审美怀疑论者便可以论证：经受住时间检验并非审美品质的指标，而只是人们更频繁地体验过这些作品的指标。
+    step2: |-
+      但 James Cutting（2003）的证据似乎给休谟式观点出了难题。他发现，仅仅让人反复接触印象派作品，就能提升他们对这些作品的喜爱；由此推测，我们偏爱经典作品，也许只是因为它们被源源不断地传播给世人。审美怀疑论者遂可借 Cutting 的发现立论：经受时间检验并不表明审美品质高，只表明人们接触得更多。
   - id: 45
     kind: body
     source: |-
       In defense of the Humean view, Meskin et al. (2013) suggest that mere exposure might not indiscriminately improve liking of works, irrespective of their aesthetic quality; but rather, help us to more accurately appreciate their true aesthetic merits and demerits. As a corollary, they also suggest that works may enter the canon because they are truly better. Putting their Humean defense to the test, they merely exposed participants to works that the authors and many critics consider good and bad (namely, works by John Millais and Thomas Kinkade, respectively). The results revealed that participants liked the Kinkade paintings *less* the more they were exposed to them, and the results suggested a trend for participants to like the late Millais paintings *more* the more they were exposed to them (though this was not significant). Meskin and colleagues interpret this evidence as consistent with the existence of aesthetic value, as well as the reliability of the test of time: with repeated exposure, we are better able to appraise a work’s good- and bad-making features, and so those works that endure do so, at least in part, in virtue of having good-making features.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为捍卫休谟式观点，Meskin 等人（2013）提出，单纯曝光未必会不分青红皂白地提升对作品的喜爱，不论其审美品质如何；相反，它或许有助于我们更准确地领会作品真正的审美优点与缺点。作为推论，他们还提出，作品之所以进入经典，也许正是因为它们确实更优。为检验其休谟式辩护，他们让被试仅仅接触他们与许多批评家都认为好和坏的作品（分别是 John Millais 与 Thomas Kinkade 的作品）。结果显示，被试接触 Kinkade 画作越多，就越*不喜欢*它们；结果还显示，被试接触 Millais 晚期画作越多，就越*喜欢*它们（尽管这一趋势并不显著）。Meskin 及其同事把这一证据解释为与审美价值的存在以及时间检验的可靠性相容：随着反复接触，我们更能评价一件作品的优点与缺点，因此那些流传下来的作品之所以流传，至少部分是因为具有造就优点的特征。
+    step2: |-
+      Meskin 等人（2013）则为休谟式观点辩护。他们认为，单纯曝光未必会不分良莠地提升喜爱——不论作品审美品质如何——反倒可能帮助我们更准确地领会作品真正的审美优长与缺陷。由此推论，作品之所以跻身经典，也许正因为确实更优。为检验这一休谟式辩护，他们让被试只接触作者与众多批评家公认为优、劣的两类作品（分别为 John Millais 与 Thomas Kinkade 的画作）。结果显示：接触 Kinkade 画作越多，被试越*不喜欢*；接触 Millais 晚期画作越多，被试越*喜欢*（尽管这一趋势未达显著）。Meskin 及其同事据此认为，这一证据与审美价值的存在、以及时间检验的可靠性均相协调：反复接触使我们更能评判作品的优劣特征，因而流传下来的作品之所以流传，至少部分是因为它们具备优长特征。
   - id: 46
     kind: body
     source: |-
       Bence Nanay (2017) has criticized the idea that mere exposure is relevant to aesthetic realism. First, studies on mere exposure target spontaneous reactions, while aesthetic judgments are traditionally thought to be reflective and unfolding in time. Secondly, the mere exposure effect seems to work only with good artworks and not with bad ones—exposure to good artworks makes positive aesthetic judgments more likely, but not the other way around. Most importantly, according to Nanay, experiments show that exposure to one artwork changes our preference for *that particular* artwork, but not for any other artwork. In order for these experiments to count as evidence against aesthetic realism, Nanay contends, we would need to demonstrate that exposure to one particular artwork can influence our preferences for other artworks of the same kind (for example, of the same artistic style).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Bence Nanay（2017）批评了单纯曝光与审美实在论相关的想法。第一，关于单纯曝光的研究针对的是自发反应，而审美判断传统上被认为是反思性的、随时间展开的。第二，单纯曝光效应似乎只对优秀艺术作品起作用，对糟糕作品则不然——接触优秀作品使正面审美判断更可能发生，反过来则不成立。最重要的是，Nanay 认为，实验表明接触一件作品会改变我们对*那一件*作品的偏好，却不会改变我们对任何其他作品的偏好。Nanay 主张，要使这些实验算作反对审美实在论的证据，我们需要证明接触某件特定作品能够影响我们对同类（例如同一艺术风格）其他作品的偏好。
+    step2: |-
+      Bence Nanay（2017）对“单纯曝光与审美实在论相关”这一思路提出批评。其一，单纯曝光研究针对的是自发反应，而审美判断历来被视为反思性的、随时间展开的。其二，单纯曝光效应似乎只对好作品生效，对坏作品则否——接触好作品会提高正面审美判断的可能，反之则不然。更重要的是，Nanay 指出，实验表明接触某件作品只改变我们对*那一件*作品的偏好，并不波及他作。他认为，要让这些实验成为反对审美实在论的证据，就须证明接触某件作品能影响我们对同类作品（例如同一艺术风格的作品）的偏好。
   - id: 47
     kind: body
     source: |-
       Finally, another tightly related question is about the nature of aesthetic testimony: if our aesthetic judgments are similar to empirical judgments, we can reliably learn about aesthetic properties from what other people say—if during a phone call someone says that a piece of broccoli they are having for lunch ‘is beautiful’, should we trust their testimony to the same extent that we would trust their claim that ‘there is a piece of broccoli on my plate’?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，另一个紧密相关的问题是审美证言的本性：如果我们的审美判断类似于经验判断，我们就能可靠地从他人所言中学到审美属性——如果电话里有人说他午餐吃的一块西兰花“很美”，我们是否应当像信任“我盘子里有一块西兰花”这一断言那样，同样信任其证言？
+    step2: |-
+      最后，还有一个密切相关的问题：审美证言具有何种本性？倘若审美判断类同于经验判断，我们就能可靠地从他人之言获知审美属性——电话那头有人说自己午餐的西兰花“很美”，我们是否应像相信“我盘子里有一块西兰花”那样，同样相信这句证言？
   - id: 48
     kind: body
     source: |-
       Andow (2019) asked his study participants whether they think that forming aesthetic beliefs based on testimony given by a friend or an expert is less *permissible* and *legitimate* compared to forming such beliefs based on first-hand experience, and also compared to forming non-aesthetic beliefs, such as beliefs about size or price. Although his results confirm that there is an asymmetry between the extent to which people are inclined to trust aesthetic testimony, compared to testimony about non-aesthetic properties, interestingly, this effect was not moderated by the participants’ attitudes toward the status of aesthetic judgments. Moreover, another similarly designed study shows that aesthetic and moral beliefs based on testimony, in contrast to descriptive beliefs, are not seen as constituting *knowledge* (Andow 2020)[^andow-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Andow（2019）询问研究被试，他们认为依据朋友或专家提供的证言形成审美信念，相比依据亲身经验形成此类信念，是否更不*可允许*、更不*正当*；同时也与形成非审美信念（如关于大小或价格的信念）相比较。尽管其结果确认，人们信任审美证言的倾向与信任关于非审美属性之证言的倾向之间存在不对称，但有趣的是，这一效应并未受到被试对审美判断地位之态度的调节。此外，另一项设计类似的研究表明，依据证言形成的审美信念与道德信念，与描述性信念不同，并不被视为构成*知识*（Andow 2020）[^andow-2020]。
+    step2: |-
+      Andow（2019）请被试比较：依据朋友或专家的证言形成审美信念，是否比依据亲身经验形成同类信念更不*可允许*、更不合*正当*；与形成大小、价格之类非审美信念相比又如何。结果确认存在不对称：人们信任审美证言的程度，低于信任关于非审美属性之证言的程度。耐人寻味的是，这一效应并不受被试对审美判断地位所持态度的影响。另一项设计相近的研究还表明，与描述性信念不同，依据证言形成的审美信念与道德信念不被视为构成*知识*（Andow 2020）[^andow-2020]。
   - id: 49
     kind: body
     source: |-
