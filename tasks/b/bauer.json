@@ -66,6 +66,13 @@
       "actor": "R-main-20261108",
       "at": "2026-11-08T02:00:23Z",
       "evidence": "批次收口：r3 终审通过后置 done；凭证链九步完整（clear/draft/s1/s2/s3=ABCDE-main-20261103，r1/r2/r3/done=R-main-20261108）；提交链见 git log"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-11-08T03:39:25Z",
+      "evidence": "r1 收口后自检补漏：pubinfo 行源形对齐（源文 **First published…** 加粗，译文误用斜体 *首次发表于…*）→ 已改为加粗形，与非加粗斜体家法区分无涉（pubinfo 形态随源文：全库加粗 117/斜体 171 并存）（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],
