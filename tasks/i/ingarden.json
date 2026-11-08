@@ -2,8 +2,44 @@
   "slug": "ingarden",
   "kind": "retranslate",
   "zh_doc": "i/ingarden.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T23:54:34Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "I-main-20261108",
+      "at": "2026-11-08T14:15:35Z",
+      "evidence": "I-main 在途稿收口：账本 55 段 lq 守恒 OK，compose 成稿 227 行完整（尾节含致谢模板节）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "I-main-20261108",
+      "at": "2026-11-08T14:15:35Z",
+      "evidence": "对照核销：脚注 marker 多重集零差零缺、defs 键集相等、年份 263=263、粗体缩写键两侧皆空、节数 8+致谢=9"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "I-main-20261108",
+      "at": "2026-11-08T14:15:36Z",
+      "evidence": "语言校：check_prose --strict 0 告警（前会话实修到位，本轮复跑确认）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "I-main-20261108",
+      "at": "2026-11-08T14:15:39Z",
+      "evidence": "三校全绿：style 0 / academic 硬 0 / render 0 / summary HARD 0 / math 0，五项结构对账通过"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:29:44Z",
   "version_pin": {
