@@ -2,7 +2,7 @@
   "slug": "japanese-aesthetics",
   "kind": "retranslate",
   "zh_doc": "j/japanese-aesthetics.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "J-main-20261108",
       "at": "2026-11-08T00:53:41Z",
       "evidence": "三校：check_style --strict 0 issue；check_academic --strict 通过（在途豁免 1）；check_math 0 公式 0 缺失 0 失衡；check_prose 余 9 条均 ADR-0020 豁免类（明细见 s2 evidence）；lq 守恒门 112 段通过；check_terms 硬错误 1 系并行会话在途登记冲突（ren-ming-biao.md 未提交新增 Philip the Chancellor 行 vs 词汇表既有行『总务长菲利普』），非本词条引入（本词条正文不含该人名），按登记册竞态规则留待该会话收口，本词条文本-登记册一致性无缺项"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-08T15:24:58Z",
+      "evidence": "独立复审：对照 yuanwen 十节（物哀/侘/寂/幽玄/雪舟山水/意气/切/小津/东京物语）通读，节 10:10、marker 4:4、defs 44:44、图 33:33、段落 96:95（差一=byline 豁免）；lq 守恒 112 段 HARD=0。实修：全文 33 处图片路径 ../assets/ 改 ../yuanwen/assets/（模板 §2#9/§6 裁定；原路径从 j/ 解析到根 assets 悬空），账本 step1/step2 同步 66 处、source 保留原文逐字符镜像，check_images 本词条悬空归零；6 件补充材料页（ginkakuji/splashed-ink/ryoanji/late-spring/tokyo-story/ginkakuji-kinkakuji）按协议另建任务，主文链接保留"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-08T15:24:58Z",
+      "evidence": "登记册复核：物哀/侘/寂/幽玄/意气/切/枯山水/茶道/能剧/俳句/无常/缘起/无为 经册内精确匹配均在册；人名（道元/吉田兼好/紫式部/本居宣长/千利休/珠光/绍鸥/世阿弥/雪舟/九鬼周造/小津/西田/西谷/芭蕉/谷崎等）正文用形与 ren-ming-biao 一致；无新缺术语"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-08T15:25:01Z",
+      "evidence": "终稿验收：check_style --strict issues=[]、check_academic --strict OK、check_math 0、check_images 本词条悬空 0、check_summary 一致；引块（《平家物语》《徒然草》谷崎世阿弥文字）与俳句表格照录完整；尾节齐全"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-08T15:25:01Z",
+      "evidence": "终审签字：六道全过，图片路径修复落地并同步账本，四检全绿，独立复审完成；补充材料另任务"
     }
   ],
   "blockers": [],

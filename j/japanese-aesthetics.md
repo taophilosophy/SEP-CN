@@ -58,7 +58,7 @@
 
 有资格声称是日本茶道发源地的地方之一，是京都的银阁寺。楼阁（十五世纪晚期）是寂之乐趣的朴素纪念碑；其旁的向月台与银沙滩（约晚二百年）则是侘的范本。后两者构成日本独有的“枯山水”园林风格的一个不寻常版本（见下文第 7 节）。这些惊人的抽象构形（以十七世纪而论！）最好在满月之夜从楼阁二层观赏：沙在月光中闪着银光，沙纹宛如静止海面上的波涛。
 
-![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji1-thumb.jpg) ![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji2-thumb.jpg) ![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji3-thumb.jpg)
+![thumbnail photo of Ginkakuji](../yuanwen/assets/japanese-aesthetics/ginkakuji1-thumb.jpg) ![thumbnail photo of Ginkakuji](../yuanwen/assets/japanese-aesthetics/ginkakuji2-thumb.jpg) ![thumbnail photo of Ginkakuji](../yuanwen/assets/japanese-aesthetics/ginkakuji3-thumb.jpg)
 
 [银阁寺银沙滩与向月台大图](japanese-aesthetics.ginkakuji.md)
 
@@ -118,7 +118,7 @@
 
 *sabi* 更高妙的例证，是京都银阁寺那座精致的银阁。茶道据说就发源于此地一间浸透 *sabi* 的小茶室，而银阁的外表原本打算仿照金阁寺的金阁（十四世纪），包上一层银箔。可银阁从未披上过银装，反倒成了 *sabi* 的典范，也是有史以来最优雅的建筑之一。把它与更大、更耀眼的金阁对照，颇能说明问题：金箔赋予金阁的是另一种美，而且分明与 *sabi* 相悖。
 
-![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji4-thumb.jpg) ![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji5-thumb.jpg) ![thumbnail photo of Kinkakuji](../assets/japanese-aesthetics/kinkakuji1-thumb.jpg) ![thumbnail photo of Kinkakuji](../assets/japanese-aesthetics/kinkakuji2-thumb.jpg)
+![thumbnail photo of Ginkakuji](../yuanwen/assets/japanese-aesthetics/ginkakuji4-thumb.jpg) ![thumbnail photo of Ginkakuji](../yuanwen/assets/japanese-aesthetics/ginkakuji5-thumb.jpg) ![thumbnail photo of Kinkakuji](../yuanwen/assets/japanese-aesthetics/kinkakuji1-thumb.jpg) ![thumbnail photo of Kinkakuji](../yuanwen/assets/japanese-aesthetics/kinkakuji2-thumb.jpg)
 
 [银阁寺银阁与金阁寺金阁大图](japanese-aesthetics.ginkakuji-kinkakuji.md)
 
@@ -150,7 +150,7 @@
 
 雪舟是著名的画家、诗人、书法家与园艺家，中国的主要画法与体裁几乎无所不精，从花鸟到肖像、挂轴、屏风、扇面。然而使他名垂不朽的，是其山水，尤以那幅著名的“泼墨山水”为最。这幅画让人洞见上文讨论过的一个日本美学核心观念，即 *yūgen*。
 
-![reproduction of Splashed Ink Landscape](../assets/japanese-aesthetics/splashed-ink-landscape-thumb.jpg)
+![reproduction of Splashed Ink Landscape](../yuanwen/assets/japanese-aesthetics/splashed-ink-landscape-thumb.jpg)
 
 [雪舟《泼墨山水》](japanese-aesthetics.splashed-ink.md)
 
@@ -193,7 +193,7 @@
 
 日本最具特色的庭园样式“枯山水”（*karesansui*），其存在要归功于把景观从园界之外的自然世界“切”开。此风格的典范是京都龙安寺石庭：十五块“山”形石头安置在苔地上，围在一片矩形白砂“海”中。
 
-![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji0-thumb.jpg) ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji1-thumb.jpg) ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji2-thumb.jpg) ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji3-thumb.jpg) ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji4-thumb.jpg) ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji5-thumb.jpg) ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji6-thumb.jpg) ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji7-thumb.jpg) ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji8-thumb.jpg) ![thumbnail photo of Ryoanji](../assets/japanese-aesthetics/ryoanji9-thumb.jpg)
+![thumbnail photo of Ryoanji](../yuanwen/assets/japanese-aesthetics/ryoanji0-thumb.jpg) ![thumbnail photo of Ryoanji](../yuanwen/assets/japanese-aesthetics/ryoanji1-thumb.jpg) ![thumbnail photo of Ryoanji](../yuanwen/assets/japanese-aesthetics/ryoanji2-thumb.jpg) ![thumbnail photo of Ryoanji](../yuanwen/assets/japanese-aesthetics/ryoanji3-thumb.jpg) ![thumbnail photo of Ryoanji](../yuanwen/assets/japanese-aesthetics/ryoanji4-thumb.jpg) ![thumbnail photo of Ryoanji](../yuanwen/assets/japanese-aesthetics/ryoanji5-thumb.jpg) ![thumbnail photo of Ryoanji](../yuanwen/assets/japanese-aesthetics/ryoanji6-thumb.jpg) ![thumbnail photo of Ryoanji](../yuanwen/assets/japanese-aesthetics/ryoanji7-thumb.jpg) ![thumbnail photo of Ryoanji](../yuanwen/assets/japanese-aesthetics/ryoanji8-thumb.jpg) ![thumbnail photo of Ryoanji](../yuanwen/assets/japanese-aesthetics/ryoanji9-thumb.jpg)
 
 [龙安寺枯山水庭园大图](japanese-aesthetics.ryoanji.md)
 
@@ -207,7 +207,7 @@
 
 龙安寺的庭园在日本电影经典之一、小津安二郎的《晚春》（1949）里短暂而重要地出现过一次。它紧接在影片最著名的画面之一后面：一只花瓶立在榻榻米上，窗前投着竹影。该场景由八个镜头组成，其中七个拍的是龙安寺的石头（总共十五块），它们之间由七次“切”分隔并连接。（小津几乎从不用“切”以外的转场，比如划接。）先拍两个庭中石头的镜头，随后机位反打，我们看到主角与朋友——两人都是父亲，女儿都已长大——坐在木台上，画面下部被两块石头占住。两块石头，两个父亲。切到从左侧拍父亲的近景，画面里没有石头。他们身着深色西装，以小津经典的“叠置三角形”构图坐着，身子前倾朝向庭园，双臂抱着屈向胸前的膝盖，看上去就像两块石头。他们谈着如何把子女养大，子女又如何离去过自己的生活。在念叨这些无常的显现之际，他们几乎一动不动，只是偶尔点头或转头。
 
-![](../assets/japanese-aesthetics/LSwindow-thumb.jpg) ![](../assets/japanese-aesthetics/LSgarden1-thumb.jpg) ![](../assets/japanese-aesthetics/LSrocks1-thumb.jpg) ![](../assets/japanese-aesthetics/LSfathers1-thumb.jpg) ![](../assets/japanese-aesthetics/LSfathers2-thumb.jpg) ![](../assets/japanese-aesthetics/LSrocks2-thumb.jpg) ![](../assets/japanese-aesthetics/LSfathers3-thumb.jpg) ![](../assets/japanese-aesthetics/LSrocks3-thumb.jpg) ![](../assets/japanese-aesthetics/LSgarden2-thumb.jpg)
+![](../yuanwen/assets/japanese-aesthetics/LSwindow-thumb.jpg) ![](../yuanwen/assets/japanese-aesthetics/LSgarden1-thumb.jpg) ![](../yuanwen/assets/japanese-aesthetics/LSrocks1-thumb.jpg) ![](../yuanwen/assets/japanese-aesthetics/LSfathers1-thumb.jpg) ![](../yuanwen/assets/japanese-aesthetics/LSfathers2-thumb.jpg) ![](../yuanwen/assets/japanese-aesthetics/LSrocks2-thumb.jpg) ![](../yuanwen/assets/japanese-aesthetics/LSfathers3-thumb.jpg) ![](../yuanwen/assets/japanese-aesthetics/LSrocks3-thumb.jpg) ![](../yuanwen/assets/japanese-aesthetics/LSgarden2-thumb.jpg)
 
 [《晚春》剧照放大序列](japanese-aesthetics.late-spring.md)
 
@@ -217,7 +217,7 @@
 
 火车尾部到达画面中心时——声音继续，但切到从山坡一侧拍的火车近景，火车这时沿对角线向左上方行驶。火车另一侧的房屋背后又是河口。火车汽笛响起——切到一座被松树与石像环绕的神社，神社立在堤岸上，远处左侧背景是河口。连续性由前景的一根烟囱提供，它冒着烟，而火车的汽笛声继续。画面的主线又回到向右上升的水平线。六秒钟后——这是迄今最短的一场——切到祖父母坐在乡下家中的榻榻米上，面朝右方。祖父查着时刻表说：“我们今晚六点左右过大阪”，说的是他们即将启程去东京的火车旅行，这趟旅行将启动影片的主要情节。
 
-![](../assets/japanese-aesthetics/TS-1-thumb.jpg) ![](../assets/japanese-aesthetics/TS-2-thumb.jpg) ![](../assets/japanese-aesthetics/TS-3-thumb.jpg) ![](../assets/japanese-aesthetics/TS-4-thumb.jpg) ![](../assets/japanese-aesthetics/TS-5-thumb.jpg) ![](../assets/japanese-aesthetics/TS-6-thumb.jpg)
+![](../yuanwen/assets/japanese-aesthetics/TS-1-thumb.jpg) ![](../yuanwen/assets/japanese-aesthetics/TS-2-thumb.jpg) ![](../yuanwen/assets/japanese-aesthetics/TS-3-thumb.jpg) ![](../yuanwen/assets/japanese-aesthetics/TS-4-thumb.jpg) ![](../yuanwen/assets/japanese-aesthetics/TS-5-thumb.jpg) ![](../yuanwen/assets/japanese-aesthetics/TS-6-thumb.jpg)
 
 [《东京物语》剧照放大序列](japanese-aesthetics.tokyo-story.md)
 
