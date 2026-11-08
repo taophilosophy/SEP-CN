@@ -2,7 +2,7 @@
   "slug": "boethius-dacia",
   "kind": "retranslate",
   "zh_doc": "b/boethius-dacia.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "ABCDE-main-20261103",
       "at": "2026-11-02T17:26:53Z",
       "evidence": "check_style 0 issue（存佚标记 \\* 字面转义、清单星号与斜体错配修复、F/B 稿本符号改加粗裁定留痕、第58行括注重排）；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；相关词条 11 项与 SUMMARY 登记名一致（艾尔伯图斯·麦格努斯（大阿尔伯特）等）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T15:01:50Z",
+      "evidence": "评审线接管初审：源文 376 行/61 defs 全文回读对照，五维对账复算全等（段落 103:103、marker 多重集 102:102 含 ASCII 撇号归一、defs 键集 61:61、尾节四件套齐、粗体缩写键 0:0）；实修三类——①结构回填确认：前会话未提交工作区的 References 说明行+三个空子标题（校勘本/译本/二手文献）系源端空节镜像，验证保留；②忠实性 4 处：§3.3.3 后半论式行（1\\*/（2）/\\（2\\*）五组显示块由连排段还原为源文 10 分段结构（C1 段差-8 根因）、「动物不被存在」误译 2 处改「不存在或未受设想」、「来自其世纪」改「来自他那个世纪」；③prose 实修 20 处（de-chain 14/长句 2/被字 4，含论式段重排后收敛），prose 21→1，余 1 条为 §3.1 引块（every being either a thing...）按 ADR-0020 引文豁免留痕；四检全绿（style 0/academic 无硬错误/prose 1 豁免/math 0 公式）；年份序列 3 差全为 1270s/1260s/1290s 十年词中文展开体例豁免"
     }
   ],
   "blockers": [],
