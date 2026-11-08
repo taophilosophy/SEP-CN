@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-08 21:30（UTC）
+生成时间：2026-11-08 21:51（UTC）
 
 ## 总览
 
@@ -12,10 +12,10 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1146|
+|已建任务|1147|
 |例行/维护任务（不计状态机）|2|
 |已完成（done）|223|
-|在途（drafted 起、done 前）|234|
+|在途（drafted 起、done 前）|235|
 |阻塞|0|
 
 ## 任务状态分布
@@ -24,7 +24,7 @@
 |---|---|
 |pending|689|
 |cleared|159|
-|drafted|7|
+|drafted|8|
 |s1_checked|2|
 |s3_checked|62|
 |r1_reviewed|3|
@@ -53,7 +53,7 @@
 |P|165|165|5|0|
 |Q|34|34|34|0|
 |R|85|85|85|8|
-|S|161|161|14|9|
+|S|161|161|15|9|
 |T|71|71|7|2|
 |U|4|4|0|0|
 |V|15|15|0|0|
@@ -286,12 +286,13 @@
 |model-organisms|retranslate|cleared|task_ops 2026-11-08|
 |moral-demands-permissions|retranslate|s3_checked|LMN-main-20261108f 2026-11-08|
 |omnipresence|retranslate|drafted|OPQR-main-20261108 2026-11-08|
-|peirce-benjamin|retranslate|cleared|task_ops 2026-11-08|
+|peirce-benjamin|retranslate|drafted|OP-CN-20261109 2026-11-08|
 |qt-entangle|retranslate|cleared|task_ops 2026-11-08|
 |quine-nf|retranslate|cleared|task_ops 2026-11-08|
 |reinach|retranslate|cleared|task_ops 2026-11-08|
 |religion-epistemology|retranslate|cleared|task_ops 2026-11-08|
 |simon-faversham|retranslate|r1_reviewed|SZ-main-20261108 2026-11-08|
+|stem-cells|retranslate|cleared|task_ops 2026-11-08|
 |tarski-truth|retranslate|cleared|task_ops 2026-11-08|
 |telesio|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |theology-aristotle|retranslate|s3_checked|TZ-main-20261107 2026-11-08|
