@@ -899,6 +899,27 @@
 | Rudolph Haym | — | 鲁道夫·海姆 | — | — | bauer | 学界通行汉译（《黑格尔及其时代》作者）；书目形 Rudolf Haym | 2026-11-08 |
 | Stahl | — | 施塔尔 | — | — | bauer | 学界通行音译（保守派法学家 F.J. Stahl） | 2026-11-08 |
 | Wagener | — | 瓦格纳 | — | — | bauer | 学界通行音译（《国家与社会辞典》主编 F.W.H. Wagener，与作曲家 Wagner 异人） | 2026-11-08 |
+| Bettina Brentano-von Arnim | — | 贝蒂娜·布伦塔诺-冯·阿尼姆 | — | — | bauer | 学界通行汉译（德意志浪漫派作家） | 2026-11-08 |
+| Charles Fourier | — | 傅立叶 | — | — | bauer | 学界通行汉译（正文作傅立叶主义者） | 2026-11-08 |
+| Christian Hermann Weisse | — | 克里斯蒂安·赫尔曼·魏斯 | — | — | bauer | 学界通行音译（思辨有神论者） | 2026-11-08 |
+| David Friedrich Strauss | — | 大卫·弗里德里希·施特劳斯 | — | — | bauer | 学界通行汉译（《耶稣传》作者）；正文简称 D.F. 施特劳斯 | 2026-11-08 |
+| Disraeli | — | 迪斯雷利 | — | — | bauer | 学界通行汉译（本杰明·迪斯雷利，英国首相） | 2026-11-08 |
+| Edgar Bauer | — | 埃德加·鲍威尔 | — | — | bauer | 鲍威尔之弟，名+姓并称 | 2026-11-08 |
+| Friedrich Schiller | — | 席勒 | — | — | bauer | 学界通行汉译 | 2026-11-08 |
+| Friedrich Schleiermacher | — | 施莱尔马赫 | — | — | bauer | 学界通行汉译 | 2026-11-08 |
+| Hadrian | — | 哈德良 | — | — | bauer | 学界通行汉译（罗马皇帝 117–138 在位） | 2026-11-08 |
+| Hengstenberg | — | 亨格斯坦贝格 | — | — | bauer | 学界通行音译（柏林神学家 E.W. Hengstenberg） | 2026-11-08 |
+| Hotho | — | 霍托 | — | — | bauer | 学界通行音译（黑格尔《美学讲演录》编者 H.G. Hotho） | 2026-11-08 |
+| Karl Welcker | — | 卡尔·韦尔克 | — | — | bauer | 学界通行音译（南德自由派政治家） | 2026-11-08 |
+| Marheineke | — | 马海内克 | — | — | bauer | 学界通行音译（柏林神学家 P. Marheineke） | 2026-11-08 |
+| Max Stirner | — | 麦克斯·施蒂纳 | — | — | bauer | 学界通行汉译 | 2026-11-08 |
+| Michael Bakunin | — | 米哈伊尔·巴枯宁 | — | — | bauer | 学界通行汉译 | 2026-11-08 |
+| Nicolas Dessaux | — | 尼古拉·德索 | — | — | bauer | 学界通行音译（法方编者，正文方括号原文照录） | 2026-11-08 |
+| Otto von Bismarck | — | 俾斯麦 | — | — | bauer | 学界通行汉译 | 2026-11-08 |
+| Arnold Ruge | — | 阿诺德·卢格 | — | — | bauer | 学界通行汉译 | 2026-11-08 |
+| Rudolph Haym | — | 鲁道夫·海姆 | — | — | bauer | 学界通行汉译（《黑格尔及其时代》作者）；书目形 Rudolf Haym | 2026-11-08 |
+| Stahl | — | 施塔尔 | — | — | bauer | 学界通行音译（保守派法学家 F.J. Stahl） | 2026-11-08 |
+| Wagener | — | 瓦格纳 | — | — | bauer | 学界通行音译（《国家与社会辞典》主编 F.W.H. Wagener，与作曲家 Wagner 异人） | 2026-11-08 |
 
 ## 伊斯兰阿拉伯人物（ADR-0013 种子区，2026-10-28）
 
