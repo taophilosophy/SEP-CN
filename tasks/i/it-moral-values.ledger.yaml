@@ -371,74 +371,122 @@ segments:
     kind: body
     source: |-
       In addition to storing and communicating information, many information technologies automate the organizing of information as well as synthesizing or mechanically authoring or acting on new information. Norbert Wiener first developed a theory of automated information synthesis which he called *Cybernetics* (Wiener 1961 [1948])[^wiener-1961]. Wiener realized that a machine could be designed to gather information about the world and derive logical conclusions about that information which would imply certain actions, which the machine could then implement, all without any direct input from a human agent. Wiener quickly saw that if his vision of cybernetics was realized, there would be tremendous moral concerns raised by such machines and he outlined some of them in his book *The Human Use of Human Beings* (Wiener 1950)[^wiener-1950]. Wiener argued that, while this sort of technology could have drastic moral impacts, it was still possible to be proactive and guide the technology in ways that would increase the moral reasoning capabilities of both humans and machines (Bynum 2008)[^bynum-2008].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了储存和传递信息，许多信息技术还把信息的组织自动化，也进行综合，或以机械方式创作新信息、依据新信息采取行动。诺伯特·维纳（Norbert Wiener）首先发展了一种自动信息综合理论，他称之为“控制论”（*Cybernetics*）（Wiener 1961 [1948]）[^wiener-1961]。维纳意识到，可以设计出一种机器来收集关于世界的信息，从这些信息推出逻辑结论，这些结论暗含某些行动，机器随后可以执行这些行动——全程无须人类行动者的任何直接输入。维纳很快看到，如果他的控制论愿景得以实现，这类机器将引发巨大的道德关切；他在《人有人的用处》（*The Human Use of Human Beings*）（Wiener 1950）[^wiener-1950] 一书中概述了其中的一些。维纳论证说，虽然这类技术可能带来剧烈的道德冲击，但人们仍然可以主动行事，引导技术以提升人类与机器双方道德推理能力的方式发展（Bynum 2008）[^bynum-2008]。
+
+    step2: |-
+      除了储存与传递信息，许多信息技术还把信息的组织交给自动化：或综合信息，或机械地执笔创作新信息，或依新信息采取行动。诺伯特·维纳（Norbert Wiener）率先发展出一门自动信息综合的理论，他名之曰“控制论”（*Cybernetics*）（Wiener 1961 [1948]）[^wiener-1961]。维纳意识到：完全可以设计出一种机器，让它收集关于世界的信息，从信息推出逻辑结论，结论暗含某些行动，机器随即照办——全程无须人类行动者插手。他很快预见到，控制论的愿景一旦实现，这类机器将掀起滔天的道德波澜；若干关切，他已在《人有人的用处》（*The Human Use of Human Beings*）（Wiener 1950）[^wiener-1950] 一书中勾勒。维纳的立场是：这类技术纵然可能带来剧烈的道德冲击，人仍可未雨绸缪，引导技术朝着同时提升人类与机器道德推理能力的方向走（Bynum 2008）[^bynum-2008]。
+
   - id: 38
     kind: body
     source: |-
       Machines make decisions that have moral impacts. Wendell Wallach and Colin Allen tell an anecdote in their book “Moral Machines” (2008). One of the authors left on a vacation and when he arrived overseas his credit card stopped working, perplexed, he called the bank and learned that an automatic anti-theft program had decided that there was a high probability that the charges he was trying to make were from someone stealing his card and that to protect him the machine had denied his credit card transactions. Here we have a situation where a piece of information technology was making decisions about the probability of nefarious activity happening that resulted in a small amount of harm to the person that it was trying to help. Increasingly, machines make important life-changing financial decisions about people without much oversight from human agents. Whether or not you will be given a credit card, mortgage loan, the price you will have to pay for insurance, etc., is very often determined by a machine. For instance, if you apply for a credit card, the machine will look for certain data points, like your salary, your credit record, the economic condition of the area you reside in, etc., and then calculate the probability that you will default on your credit card. That probability will either pass a threshold of acceptance or not and determine whether or not you are given the card. The machine can typically learn to make better judgments given the results of earlier decisions it has made. This kind of machine learning and prediction is based on complex logic and mathematics (see for example, Russell and Norvig 2010)[^russell-2010], this complexity may result in slightly humorous examples of mistaken predictions as told in the anecdote above, or it might be more eventful. For example, the program may interpret the data regarding the identity of one’s friends and acquaintances, his or her recent purchases, and other readily available social data, which might result in the mistaken classification of that person as a potential terrorist, thus altering that person’s life in a powerfully negative way (Sullins 2010)[^sullins-2010]. It all depends on the design of the learning and prediction algorithm, something that is typically kept secret so that it is hard to justify the veracity of the prediction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      机器做出的决定具有道德影响。温德尔·瓦拉克（Wendell Wallach）与科林·艾伦（Colin Allen）在《道德机器》（Moral Machines）（2008）一书中讲过一则轶事：其中一位作者出门度假，抵达海外时信用卡却刷不了了；他一头雾水，打电话给银行，才知道一个自动防盗程序判定，他想刷的这笔消费极有可能出自盗刷者之手，为保护他，机器拒绝了他的信用卡交易。这里的情况是：一件信息技术在就恶性活动发生的概率做决定，结果却给它正想帮助的那个人造成了些许伤害。如今，机器在人身上做出足以改变人生的重要财务决定，而人类行动者对此几乎不加监督。你会不会获批信用卡、房贷，你要为保险付多少钱，等等，往往由机器说了算。比如你申请信用卡，机器会查找某些数据点——你的薪水、你的信用记录、你所在地区的经济状况等——然后计算你违约的概率。该概率要么过、要么不过一个接受阈值，从而决定给不给你这张卡。机器通常能根据先前决定的结果学习，做出更好的判断。这种机器学习与预测以复杂的逻辑与数学为基础（例如见 Russell and Norvig 2010）[^russell-2010]；其复杂性可能造成上面轶事里那种略带滑稽的预测失误，也可能闹出更大的事端。例如，程序可能解读关于一个人朋友与熟人的身份、其近期购物记录以及其他随手可得的社会数据，结果错把这个人归类为潜在恐怖分子，从而给这个人的生活带来强烈的负面改变（Sullins 2010）[^sullins-2010]。一切都取决于学习与预测算法的设计，而算法通常保密，预测的真实性因而难以证成。
+
+    step2: |-
+      机器在做决定，决定又带着道德分量。温德尔·瓦拉克（Wendell Wallach）与科林·艾伦（Colin Allen）在《道德机器》（Moral Machines）（2008）一书中讲过一则轶事：某位作者出门度假，人刚到海外，信用卡忽然刷不动了；他满头雾水地打电话给银行，才知是自动防盗程序判定：他想刷的这笔消费极可能出自盗刷者之手，为保护他，机器拒了这笔交易。此处的情形是：一件信息技术在估量恶性活动发生的概率，结果却给它一心想护着的人平添了几分损害。而今，机器在人身上做那些足以改变人生的重要财务决定，人类行动者却几乎不过问。你能不能批下信用卡、房贷，你的保险该掏多少钱，诸如此类，常常是机器说了算。比如申请信用卡：机器会找某些数据点——你的薪水、信用记录、所在地区的经济状况之类——然后算出你违约的概率；该概率过不过一道接受阈值，便定下这张卡给还是不给。机器通常还能依据先前决定的结果学习，把判断越做越准。这类机器学习与预测，底下是复杂的逻辑与数学（例如见 Russell and Norvig 2010）[^russell-2010]；其复杂性可能酿出上文轶事里那种略带滑稽的预测失误，也可能闹出更大的乱子。比如，程序或许会解读一个人的朋友与熟人身份、近期购物记录等唾手可得的社会数据，结果错把他归为潜在恐怖分子，从此给这个人的生活蒙上浓重的阴影（Sullins 2010）[^sullins-2010]。一切系于学习与预测算法的设计；算法照例保密，预测是否属实，也就难以证成了。
+
   - id: 39
     kind: body
     source: |-
       ### 2.2 The Moral Paradox of Information Technologies
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 信息技术的道德悖论
+
+    step2: |-
+      ### 2.2 信息技术的道德悖论
+
   - id: 40
     kind: body
     source: |-
       Several of the issues raised above result from the moral paradox of Information technologies. Many users want information to be quickly accessible and easy to use and desire that it should come at as low a cost as possible, preferably free. But users also want important and sensitive information to be secure, stable, and reliable. Maximizing our value of quick and low cost minimizes our ability to provide secure and high-quality information and the reverse is true also. Thus the designers of information technologies are constantly faced with making uncomfortable compromises. The early web pioneer Stewart Brand sums this up well in his famous quote:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上述若干问题都源于信息技术的道德悖论。许多用户希望信息可以快速获取、易于使用，并希望成本尽可能低，最好免费。但用户也希望重要而敏感的信息安全、稳定、可靠。把快速与低成本的价值最大化，就会把我们提供安全、高质量信息的能力压到最小，反之亦然。因此信息技术的设计者始终面临令人难受的妥协。早期的网络先驱斯图尔特·布兰德（Stewart Brand）在他的名言中把这一点总结得很好：
+
+    step2: |-
+      上文挑起的若干问题，皆出自信息技术的道德悖论。许多用户要信息召之即来、用之顺手，还要价廉——最好分文不取。可他们又要重要而敏感的信息安全、稳定、可靠。把“快”与“省”推到极大，提供安全、高质量信息的能力就被压到极小；反过来也一样。于是信息技术的设计者不得不做出种种难堪的取舍。早期网络先驱斯图尔特·布兰德（Stewart Brand）一句名言道尽此意：
+
   - id: 41
     kind: body
     source: |-
       > In fall 1984, at the first Hackers’ Conference, I said in one discussion session: “On the one hand information wants to be expensive, because it’s so valuable. The right information in the right place just changes your life. On the other hand, information wants to be free, because the cost of getting it out is getting lower and lower all the time. So you have these two fighting against each other” (Clarke 2000—see Other Internet Resources)[^note-1]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 1984 年秋，在第一届黑客大会上，我在一个讨论小组里说过：“一方面，信息想要变得昂贵，因为它太有价值了。正确的信息出现在正确的位置，会改变你的一生。另一方面，信息想要变得自由，因为把信息发布出去的成本一直在降。于是这两个方向就在互相较劲”（Clarke 2000——见“其他网络资源”）[^note-1]
+
+    step2: |-
+      > 1984 年秋，第一届黑客大会，我在一场分组讨论里说过：“一方面，信息想要贵，因为它实在太有价值。对的信息出现在对的地方，足以改变你的人生。另一方面，信息想要自由，因为把它发布出去的成本一路走低。于是这两个方向便彼此缠斗不休”（Clarke 2000——见“其他网络资源”）[^note-1]
+
   - id: 42
     kind: body
     source: |-
       Since these competing moral values are essentially impossible to reconcile, they are likely to continue to be at the heart of moral debates in the use and design of information technologies for the foreseeable future.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由于这些相互竞争的道德价值本质上无法调和，在可预见的未来，它们很可能继续居于信息技术使用与设计中道德争论的核心。
+
+    step2: |-
+      这些相争的道德价值本质上无从调和；在可预见的将来，它们多半仍会盘踞在信息技术使用与设计之道德论辩的正中央。
+
   - id: 43
     kind: body
     source: |-
       ## 3. Specific Moral Challenges at the Cultural Level
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 文化层面的具体道德挑战
+
+    step2: |-
+      ## 3 文化层面的具体道德挑战
+
   - id: 44
     kind: body
     source: |-
       In the section above, the focus was on the moral impacts of information technologies on the individual user. In this section, the focus will be on how these technologies shape the moral landscape at the societal level. At the turn of the twentieth century the term “web 2.0” began to surface and it referred to the new way that the World Wide Web was being used as a medium for information sharing and collaboration as well as a change in the mindset of web designers to include more interoperability and user-centered experiences on their websites. This term has also become associated with “social media” and “social networking.” While the original design of the World Wide Web in 1989 by its creator Tim Berners-Lee was always one that included notions of meeting others and collaborating with them online, users were finally ready to fully exploit those capabilities by 2004 when the first Web 2.0 conference was held by O’Reilly Media (O’Reilly 2007 [2005])[^o’reilly-2007]. This change has meant that a growing number of people have begun to spend significant portions of their lives online with other users experiencing a new unprecedented lifestyle. Social networking is an important part of many people’s lives worldwide. Vast numbers of people congregate on sites like Facebook and interact with friends old and new, real and virtual. The Internet offers the immersive experience of interacting with others in virtual worlds where environments are constructed entirely out of information. Just now, emerging onto the scene are technologies that will allow us to merge the real and the virtual. This new form of “augmented reality” is facilitated by the fact that many people now carry GPS enabled smart phones and other portable computers with them upon which they can run applications that let them interact with their surroundings and their computers at the same time, perhaps looking at an item though the camera in their device and the “app” calling up information about that entity and displaying it in a bubble above the item. Each of these technologies comes with its own suite of new moral challenges some of which will be discussed below.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上一节关注的是信息技术对个体用户的道德影响；本节关注的是这些技术如何在社会层面塑造道德图景。二十世纪之交，“web 2.0”一词开始出现，指的是万维网作为信息共享与协作媒介的新用法，以及网页设计师心态的转变——在网站上纳入更多互操作性与以用户为中心的体验。这个词后来也与“社交媒体”和“社交网络”联系在一起。万维网由其创造者蒂姆·伯纳斯-李（Tim Berners-Lee）于 1989 年完成原始设计，其中始终包含与他人相会并在线协作的理念；但用户直到 2004 年奥莱利传媒（O'Reilly Media）举办首届 Web 2.0 大会时，才终于准备好充分利用这些能力（O'Reilly 2007 [2005]）[^o'reilly-2007]。这一变化意味着，越来越多的人开始把生活的相当部分放到网上，与其他用户一道体验一种前所未有的新生活方式。社交网络如今是世界上许多人生活中的重要部分。海量用户聚集在脸书这类网站上，与新旧朋友、真实与虚拟的朋友互动。互联网提供了一种沉浸式体验：在完全由信息构造出的虚拟世界中与他人互动。此刻，让我们能够融合真实与虚拟的技术正崭露头角。这种新形态的“增强现实”之所以成为可能，是因为许多人如今随身携带支持 GPS 的智能手机和其他便携计算机，可在上面运行应用程序，让人同时与周围环境和计算机互动：也许正通过设备的摄像头看着某件物品，“应用”便调出关于该实体的信息，以气泡形式显示在物品上方。每一项这类技术都带来自己的一整套新道德挑战，其中一些将在下文讨论。
+
+    step2: |-
+      上一节着眼信息技术对个体用户的道德冲击；本节转看这些技术如何在社会的层面上重塑道德图景。临近二十世纪之交，“Web 2.0”一词渐次浮出水面，说的是万维网的一种新用法——作为信息共享与协作的媒介——也说的是网页设计师心态的转变：在自家网站上容纳更多互操作性，把体验做得以用户为中心。这个词日后又与“社交媒体”“社交网络”绑在了一起。万维网的原始设计出自缔造者蒂姆·伯纳斯-李（Tim Berners-Lee）之手（1989），其中本就含着与他人网上相会、协作的理念；但直到 2004 年奥莱利传媒（O'Reilly Media）办起首届 Web 2.0 大会，用户才终于准备好把这些能力用足（O'Reilly 2007 [2005]）[^o'reilly-2007]。这场变化意味着：越来越多的人开始把生活的相当部分搬上网，与其他用户一起过一种前所未有的新生活。放眼全球，社交网络已是许多人生活中的要紧部分。浩浩荡荡的人群聚在脸书这类站点上，与新旧朋友、真实与虚拟的朋友应酬往来。互联网还提供沉浸式的体验：在完全由信息搭建的虚拟世界里与人互动。此刻，让我们能够把真实与虚拟熔于一炉的技术正崭露头角。这种新形态的“增强现实”之所以行得通，是因为许多人如今随身带着支持 GPS 的智能手机与其他便携计算机，上面跑着应用，让人同时与周遭环境和计算机打交道：说不定你正用设备的摄像头端详某件物品，“应用”就调出关于该实体的信息，以气泡形式悬浮在物品上方。每一项这类技术都自带一整套新的道德挑战，其中一些将在下文讨论。
+
   - id: 45
     kind: body
     source: |-
       ### 3.1 Social Media and Networking
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 社交媒体与社交网络
+
+    step2: |-
+      ### 3.1 社交媒体与社交网络
+
   - id: 46
     kind: body
     source: |-
       Social networking is a term given to sites and applications that facilitate online social interactions that typically focus on sharing information with other users referred to as “friends.” The most famous of these sites today is Facebook but there are many others, such as Instagram, Twitter (now known as X), and Snapchat, to name just a few. There are several moral values that these sites call into question. Shannon Vallor (2011, 2016) has reflected on how sites like Facebook change or even challenge our notion of friendship. Her analysis is based on the Aristotelian theory of friendship (see entry on Aristotle’s ethics). Aristotle argued that humans realize a good and true life through virtuous friendships. Vallor notes that four key dimensions of Aristotle’s ‘virtuous friendship,’ namely: reciprocity, empathy, self-knowledge, and the shared life, and that the first three are found in online social media in ways that can sometimes strengthen friendship (Vallor 2011, 2016)[^vallor-2011]. Yet she argues that social media is not yet up to the task of facilitating what Aristotle calls ‘the shared life.’ Meaning that social media can give us shared activities but not the close intimate friendship that shared daily lives can give. (Here is a more complete discussion of Aristotelian friendship). Thus these media cannot fully support the Aristotelian notion of complete and virtuous friendship by themselves (Vallor 2011)[^vallor-2011]. Vallor also has a similar analysis of other Aristotelian virtues such as patience, honesty, and empathy, and their problematic application in social media (Vallor 2010)[^vallor-2010]. Vallor has gone on to argue that both the users and designers of information technologies need to develop a new virtue that she terms “technomoral wisdom” which can help us foster better online communities and friendships (Vallor, 2016).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “社交网络”是对那些便利在线社交互动的站点与应用的称呼，这类互动通常聚焦于与其他被称为“朋友”的用户共享信息。今天最有名的是脸书（Facebook），但还有许多其他站点，如 Instagram、Twitter（今称 X）和 Snapchat，姑举数例。这些站点对若干道德价值提出了疑问。香农·瓦洛尔（Shannon Vallor）（2011, 2016）思考了脸书这类站点如何改变甚至挑战我们对友谊的观念。她的分析基于亚里士多德的友谊理论（参见“亚里士多德伦理学”词条）。亚里士多德主张，人通过有德性的友谊实现良好而真实的生活。瓦洛尔指出亚里士多德“有德性的友谊”的四个关键维度：互惠、共感、自我认识与共同生活；前三维可以在在线社交媒体中找到，有时还能巩固友谊（Vallor 2011, 2016）[^vallor-2011]。但她论证说，社交媒体尚不足以促成亚里士多德所谓“共同生活”；意思是，社交媒体能给我们共同的活动，却给不了共同生活所能给予的那种亲密无间的友谊（关于亚里士多德式友谊，这里有更完备的讨论）。因此，单凭这些媒介，亚里士多德那里完整而有德性的友谊观念无法得到充分支撑（Vallor 2011）[^vallor-2011]。瓦洛尔对耐心、诚实、共感等其他亚里士多德式德性及其在社交媒体中的成问题的运用也有类似分析（Vallor 2010）[^vallor-2010]。她进一步论证，信息技术的用户与设计者都需要培养一种新德性，她称之为“技术道德智慧”（technomoral wisdom），它有助于我们营造更好的在线社区与友谊（Vallor, 2016）。
+
+    step2: |-
+      “社交网络”是个名号，赠给了那些便利在线社交往来的站点与应用；这类互动通常围着与“朋友”——即其他用户——共享信息打转。如今名气最响的是脸书（Facebook），但其余也不少：Instagram、Twitter（今名 X）、Snapchat，姑举数例。这些站点把好些道德价值推上了被审问的位置。香农·瓦洛尔（Shannon Vallor）（2011, 2016）细想过脸书这类站点如何改动、乃至挑战我们对友谊的观念。她的分析立在亚里士多德的友谊理论之上（参见“亚里士多德伦理学”词条）。亚里士多德主张，人要靠有德性的友谊来实现良好而真实的生活。瓦洛尔点出亚里士多德“有德性的友谊”的四个关键维度——互惠、共感、自我认识与共同生活——并指出前三维在在线社交媒体里找得到，有时还真能巩固友谊（Vallor 2011, 2016）[^vallor-2011]。但她论证：社交媒体还没本事促成亚里士多德所谓“共同生活”；换句话说，社交媒体给得了我们共同的活动，却给不了共同生活才给得了的那份贴身的亲密友谊（亚里士多德式友谊另有更完备的讨论）。是以，单凭这些媒介，撑不起亚里士多德那里完整而有德性的友谊（Vallor 2011）[^vallor-2011]。瓦洛尔对耐心、诚实、共感这类亚里士多德式德性及其在社交媒体上的别扭应用，做过如出一辙的分析（Vallor 2010）[^vallor-2010]。她再进一步：信息技术的用户与设计者都得培养一种新德性——她名之曰“技术道德智慧”（technomoral wisdom）——它能帮我们把在线社区与友谊经营得更好（Vallor, 2016）。
+
   - id: 47
     kind: body
     source: |-
       Johnny Hartz Søraker (2012) argues for a nuanced understanding of online friendship rather than a rush to normative judgment on the virtues of virtual friends.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      约翰尼·哈茨·瑟拉克（Johnny Hartz Søraker）（2012）主张对在线友谊做细致入微的理解，而不是急于对虚拟朋友的德性下规范判断。
+
+    step2: |-
+      约翰尼·哈茨·瑟拉克（Johnny Hartz Søraker）（2012）主张对在线友谊做细致入微的理解，反对一上来就对虚拟朋友的德性急下规范判断。
+
   - id: 48
     kind: body
     source: |-
       Privacy issues abound in the use of social media. James Parrish following Mason (1986) recommends four policies that a user of social media should follow to ensure proper ethical concern for other’s privacy:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      社交媒体的使用中隐私问题比比皆是。詹姆斯·帕里什（James Parrish）沿袭梅森（1986），推荐了社交媒体用户应当遵循的四条策略，以确保对他人隐私给予适当的伦理关怀：
+
+    step2: |-
+      社交媒体一用起来，隐私问题便俯拾皆是。詹姆斯·帕里什（James Parrish）承梅森（1986）之余绪，为社交媒体用户开出四条守则，以保对他人隐私有合乎伦理的关切：
+
   - id: 49
     kind: body
     source: |-
@@ -446,14 +494,28 @@ segments:
       2. When sharing information on SNS, it is the responsibility of the one desiring to share information to verify the accuracy of the information before sharing it.
       3. A user of SNS should not post information about themselves that they feel they may want to retract at some future date. Furthermore, users of SNS should not post information that is the product of the mind of another individual unless they are given consent by that individual. In both cases, once the information is shared, it may be impossible to retract.
       4. It is the responsibility of the SNS user to determine the authenticity of a person or program before allowing the person or program access to the shared information. (Parrish 2010)[^parrish-2010]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 在社交网站（SNS）上共享信息时，不仅有必要考虑自己个人信息的隐私，也要考虑与所共享信息相关联的他人信息的隐私。
+      2. 在 SNS 上共享信息时，想要共享信息的人有责任在共享之前核实信息的准确性。
+      3. SNS 用户不应发布他们觉得自己日后可能想要撤回的关于自己的信息。此外，SNS 用户不应发布他人心智产物的信息，除非得到该人的同意。在这两种情形下，信息一经共享，便可能无法撤回。
+      4. SNS 用户有责任在允许某人或某程序获取共享信息之前，先确定其真实性。（Parrish 2010）[^parrish-2010]
+
+    step2: |-
+      1. 在社交网站（SNS）上分享信息时，不单要顾自己个人信息的隐私，还要顾与所分享信息牵连的他人信息的隐私。
+      2. 在 SNS 上分享信息时，动念分享者有责任先行核实信息准确，再行分享。
+      3. SNS 用户不应发布日后恐要反悔的关于自己的信息；再者，未经本人同意，不应发布出自他人心智产物的信息。这两种情形，信息一经共享，多半再也收不回来。
+      4. SNS 用户有责任先行验明人或程序的真身，再放行其对共享信息的获取。（Parrish 2010）[^parrish-2010]
+
   - id: 50
     kind: body
     source: |-
       These systems are not normally designed to explicitly infringe on individual privacy, but since these services are typically free there is a strong economic drive for the service providers to harvest at least some information about their user’s activities on the site to sell that information to advertisers for directed marketing. This marketing can be done with the provider just selling access to users’ data that has been made anonymous so that the advertiser knows that the user may be likely to buy a pair of jeans but they do not give the exact identity of that person. In this way, a social network provider can try to maintain the moral value of privacy for its users while still profiting off of linking them with advertisers.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些系统通常并非有意明着侵犯个人隐私，但由于这类服务一般免费，服务商有强烈的经济动力去收割至少一些用户在站内的活动信息，卖给广告商做定向营销。这种营销可以这样进行：服务商只出售对已匿名化的用户数据的访问权，广告商由此知道这位用户可能想买一条牛仔裤，却得不到这个人的确切身份。这样一来，社交网络服务商既能设法为其用户守住隐私这一道德价值，又能继续靠把用户与广告商撮合起来牟利。
+
+    step2: |-
+      这些系统并非存心明着侵犯个人隐私；可这类服务多半免费，服务商便有强劲的经济冲动，去收割至少一部分用户在站内的活动信息，转卖给广告商做定向营销。营销的路径可以是：服务商只出售对已匿名用户数据的访问权——广告商由此得知这位用户八成想买条牛仔裤，却摸不到此人的确切身份。如此，社交网络服务商既能替用户守住隐私这份道德价值，又能继续从用户与广告商的撮合中抽头。
+
   - id: 51
     kind: body
     source: |-
