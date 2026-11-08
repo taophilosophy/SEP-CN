@@ -1871,6 +1871,10 @@
 | advocatus patriae | advocatus patriae | 祖国辩护士（保留拉丁） | august-rehberg 首译 | 默泽尔研究通行；凭证 2026-11-08 | 2026-11-08 |
 | hyperrationalism | — | 过度理性主义 | august-rehberg 首译 | 构词直译（Rehberg 研究）；凭证 2026-11-08 | 2026-11-08 |
 | Estates General | — | 三级会议 | august-rehberg 首译 | 法国史通行；凭证 2026-11-08 | 2026-11-08 |
+| historical school of law | — | 历史法学派 | august-rehberg 首译 | 法学史通行（萨维尼开创的历史法学派）；凭证 2026-11-08 | 2026-11-08 |
+| Hannoverian Whigs | Hannoverian Whigs | 汉诺威辉格党人 | august-rehberg 首译 | 德国史通行（以哥廷根为基地的保守派作家群）；凭证 2026-11-08 | 2026-11-08 |
+| Ritterakademie | Ritterakademie | 骑士学院（保留德文） | august-rehberg 首译 | 普鲁士／德意志教育史通行；凭证 2026-11-08 | 2026-11-08 |
+| Geheime Ratskollegium | Geheime Ratskollegium | 枢密院（保留德文） | august-rehberg 首译 | 汉诺威行政史通行；凭证 2026-11-08 | 2026-11-08 |
 | Torah | — | 托拉 | delmedigo | 学界通行（犹太教经籍；亦作“妥拉”） | 2026-11-06 |
 | Talmud | — | 塔木德 | delmedigo | 学界通行（犹太教经典定译） | 2026-11-06 |
 | Kabbalah | — | 卡巴拉 | delmedigo | 学界通行（犹太神秘主义传统定译） | 2026-11-06 |
@@ -2660,3 +2664,36 @@
 | celestial mechanics | — | 天体力学 | newton | 天文学通行；凭证 2026-11-08 | 2026-11-08 |
 | point-mass | — | 质点 | newton | 力学通行；凭证 2026-11-08 | 2026-11-08 |
 | precession of the equinoxes | — | 岁差 | newton | 天文学通行；凭证 2026-11-08 | 2026-11-08 |
+| truth-functional | — | 真值函项的 | necessary-sufficient | 逻辑学通行；凭证 2026-11-08 | 2026-11-08 |
+| INUS condition | INUS | INUS 条件（不充分但必要的部分，属于本身不必要却充分的条件） | necessary-sufficient | Mackie 术语；凭证 2026-11-08 | 2026-11-08 |
+| sufficient cause model | — | 充分原因模型 | necessary-sufficient | 流行病学通行（Rothman）；凭证 2026-11-08 | 2026-11-08 |
+| reason why | — | 原因性理由（何以如此的理由） | necessary-sufficient | 本词条核心区分（解释性关系）；凭证 2026-11-08 | 2026-11-08 |
+| reason for thinking | — | 证据性理由（据以认定的理由） | necessary-sufficient | 本词条核心区分（证据关系）；凭证 2026-11-08 | 2026-11-08 |
+| evidential conditional | — | 证据条件句 | necessary-sufficient | Crupi–Iacona 术语；凭证 2026-11-08 | 2026-11-08 |
+| evidential support thesis | — | 证据支持论题 | necessary-sufficient | Douven 术语；凭证 2026-11-08 | 2026-11-08 |
+| concessive conditional | — | 让步条件句 | necessary-sufficient | 语言学通行；凭证 2026-11-08 | 2026-11-08 |
+| nonconditional conditional | — | 非条件性条件句 | necessary-sufficient | Geis–Lycan 术语；凭证 2026-11-08 | 2026-11-08 |
+| jocular conditional | — | 玩笑式条件句 | necessary-sufficient | 本词条术语；凭证 2026-11-08 | 2026-11-08 |
+| hook operator | hook | 蹄铁算子（⊃） | necessary-sufficient | 逻辑学通行（material conditional 符号）；凭证 2026-11-08 | 2026-11-08 |
+| paradoxes of implication | — | 蕴涵悖论 | necessary-sufficient | 逻辑学通行；凭证 2026-11-08 | 2026-11-08 |
+| interdefinable | — | 相互可定义 | necessary-sufficient | 逻辑学通行；凭证 2026-11-08 | 2026-11-08 |
+| contrapositive | — | 逆否命题 | necessary-sufficient | 逻辑学通行（与既有“换质位命题”同族，正文用逆否）；凭证 2026-11-08 | 2026-11-08 |
+| epidemiology | — | 流行病学 | necessary-sufficient | 医学通行；凭证 2026-11-08 | 2026-11-08 |
+| ethical intuitionism | — | 伦理直觉主义 | 首现（intuitionism-ethics） | 学界惯例（本词条主题词；intuitionism 已登记“直觉主义”）；凭证 2026-11-08 | 2026-11-08 |
+| moral intuition | — | 道德直觉 | 首现（intuitionism-ethics） | 学界惯例（元伦理学通行）；凭证 2026-11-08 | 2026-11-08 |
+| intuition (ethical) | — | 直觉（伦理学语境；与康德传统的“直观”分列） | 首现（intuitionism-ethics） | 学界惯例（道德直觉主义文献通行）；凭证 2026-11-08 | 2026-11-08 |
+| self-evident | — | 自明的 | 首现（intuitionism-ethics） | 学界惯例（认识论通行）；凭证 2026-11-08 | 2026-11-08 |
+| self-evidence | — | 自明性 | 首现（intuitionism-ethics） | 学界惯例（认识论通行）；凭证 2026-11-08 | 2026-11-08 |
+| non-naturalism | — | 非自然主义 | 首现（intuitionism-ethics） | 学界惯例（元伦理学通行）；凭证 2026-11-08 | 2026-11-08 |
+| moral property | — | 道德属性 | 首现（intuitionism-ethics） | 学界惯例（元伦理学通行）；凭证 2026-11-08 | 2026-11-08 |
+| moral fact | — | 道德事实 | 首现（intuitionism-ethics） | 学界惯例（元伦理学通行）；凭证 2026-11-08 | 2026-11-08 |
+| understanding (faculty) | — | 理智 | 首现（intuitionism-ethics） | 学界惯例（与“感性”对举的认知能力）；凭证 2026-11-08 | 2026-11-08 |
+| fittingness | — | 适宜性 | 首现（intuitionism-ethics） | 学界惯例（克拉克/罗斯语境通译）；凭证 2026-11-08 | 2026-11-08 |
+| immediate perception | — | 直接知觉 | 首现（intuitionism-ethics） | 学界惯例（近代认识论通行）；凭证 2026-11-08 | 2026-11-08 |
+| immediate intuition | — | 直接直觉 | 首现（intuitionism-ethics） | 学界惯例（近代认识论通行）；凭证 2026-11-08 | 2026-11-08 |
+| prima facie duty | — | 初显义务 | 首现（intuitionism-ethics） | 学界惯例（罗斯术语）；凭证 2026-11-08 | 2026-11-08 |
+| first-order ethics | — | 第一阶伦理学 | 首现（intuitionism-ethics） | 学界惯例（元伦理学通行）；凭证 2026-11-08 | 2026-11-08 |
+| moral pluralism | — | 道德多元论 | 首现（intuitionism-ethics） | 学界惯例（与道德一元论对举）；凭证 2026-11-08 | 2026-11-08 |
+| moral realism | — | 道德实在论 | 首现（intuitionism-ethics） | 学界惯例（元伦理学通行）；凭证 2026-11-08 | 2026-11-08 |
+| conative attitude | — | 意动态度 | 首现（intuitionism-ethics） | 学界惯例（欲望/情感类态度）；凭证 2026-11-08 | 2026-11-08 |
+| simplicity (of properties) | — | 单纯性 | 首现（intuitionism-ethics） | 学界惯例（与复合性对举）；凭证 2026-11-08 | 2026-11-08 |

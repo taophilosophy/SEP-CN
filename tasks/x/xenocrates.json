@@ -1,0 +1,78 @@
+{
+  "slug": "xenocrates",
+  "kind": "retranslate",
+  "zh_doc": "x/xenocrates.md",
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T03:16:32Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "TZ-main-20261108",
+      "at": "2026-11-08T12:39:34Z",
+      "evidence": "账本 60 段双版填充完毕，lq check 守恒通过（source 逐字符一致；脚注键 29:29；defs 44:44；标题 11:11 对位）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "TZ-main-20261108",
+      "at": "2026-11-08T12:39:34Z",
+      "evidence": "逐段对照 yuanwen 核销：引文块与书名照录、脚注键零缺零多、defs 键集全等、节标题对位；相关词条按登记册正形重写（柏拉图的学园/塞克斯都·恩披里柯/辛普里丘/特米斯提乌斯/特奥弗拉斯托斯）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "TZ-main-20261108",
+      "at": "2026-11-08T12:39:34Z",
+      "evidence": "prose 实修 2 处（的-链改定二处）+同人异形 1 处（塞克斯托斯→塞克斯都）；豁免 7 条全为引文块内长句/de-chain（ADR-0020 引文内部豁免）；check_style/check_academic/check_math 全绿"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "TZ-main-20261108",
+      "at": "2026-11-08T12:39:37Z",
+      "evidence": "四检全绿（check_style --strict/check_academic --strict/check_math/check_prose 余 7 条引文豁免留痕）；脚注标记与 defs 键集守恒复核通过"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "TZ-main-20261108",
+      "at": "2026-11-08T12:58:30Z",
+      "evidence": "全文回读（正文 1–119 行逐段）：七处引文块与源文对读（D.L./亚里士多德/普罗克洛斯/波菲利/特奥弗拉斯托斯/克莱门），残篇编号（fr./T/frs. IP）照录零改动；直引号 0、控制字符 0、正文英文残留仅 H1 作者括注与 In Arist. Cat. 引用缩写（合法）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "TZ-main-20261108",
+      "at": "2026-11-08T12:58:30Z",
+      "evidence": "人名 9 行（Xenocrates/Speusippus/Aetius/Antiochus/Crantor/Eudorus/Heraclides/Hermias/Menedemus）与术语 7 行（Form-Number/Indefinite Dyad/daimon/doxography/epistemonic logos/indivisible lines/unwritten doctrines）外科入索引；正文人名、术语用词与两册全量比对一致；相关词条行以 SUMMARY 定名重写"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "TZ-main-20261108",
+      "at": "2026-11-08T12:58:32Z",
+      "evidence": "结构对位：11 节标题、尾节四件套（References（引用注释）/学术工具/其他网络资源/相关词条/致谢）齐备；学术挂钩 strict 通过；check_style/check_academic/check_math/check_prose（余 7 条引文内豁免）全绿"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "TZ-main-20261108",
+      "at": "2026-11-08T12:58:32Z",
+      "evidence": "r3 终审通过：9 步全周期完成，账本 60 段、译 8881 汉字，前会话在途件收口"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-08T03:16:32Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 3, 2025",
+    "archive_edition": "Fall 2025",
+    "sha256": "55c476502fa10412f85b5fb498ff93c61006477f6626b38b139cb970f567cc87"
+  }
+}

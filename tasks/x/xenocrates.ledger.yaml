@@ -1,0 +1,489 @@
+version: 1
+slug: xenocrates
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      As Diogenes Laertius reports (D.L., IV 14 = T 2 IP), Xenocrates (of Chalcedon, a city on the Asian side of the Bosporus opposite Byzantium) became head of the Academy after the death of Speusippus, in 339/338 (“in the second year of the 110th Olympiad”). D.L. adds that he held that position for twenty-five years and died at 82. Accordingly, his life dates are generally given as 396/395–314/313 BCE.
+    step1: |-
+      As Diogenes Laertius reports (D.L., IV 14 = T 2 IP), Xenocrates (of Chalcedon, a city on the Asian side of the Bosporus opposite Byzantium) became head of the Academy after the death of Speusippus, in 339/338 (“in the second year of the 110th Olympiad”). D.L. adds that he held that position for twenty-five years and died at 82. Accordingly, his life dates are generally given as 396/395–314/313 BCE.
+    step2: |-
+      据第欧根尼·拉尔修记载（D.L., IV 14 = T 2 IP），色诺克拉底（生于卡尔克顿，即博斯普鲁斯海峡亚洲一侧、与拜占庭隔水相望的城市）在斯彪西波去世后于公元前 339/338 年（“第 110 届奥林匹亚德第二年”）出任学园园长。第欧根尼补充说，他任此职二十五年，享年 82 岁。因此，其生卒年通常标为公元前 396/395–314/313 年。
+  - id: 2
+    kind: body
+    source: |-
+      On the death of Plato, when Speusippus became head of the Academy, Xenocrates and Aristotle may have left Athens together at the invitation of Hermeias of Atarneus (Strabo, *Geography*, XIII 57), and Xenocrates returned to succeed Speusippus. According to D.L. (IV 3 = T 21 IP), this was at Speusippus’ request, while the *Academicorum Index Herculanensis* (cols. 6,41–7,18: Fleisher 2018, 175–176 = T 1 IP) tells us that the younger members of the Academy voted —for the first time—and confirmed Xenocrates (over Heraclides of Pontus and Menedemus of Pyrrha) by a narrow margin as the first elected head of the school. These two accounts, although not incompatible, offer two different versions of the succession, and it does not appear possible to get behind them to what really happened.
+    step1: |-
+      On the death of Plato, when Speusippus became head of the Academy, Xenocrates and Aristotle may have left Athens together at the invitation of Hermeias of Atarneus (Strabo, *Geography*, XIII 57), and Xenocrates returned to succeed Speusippus. According to D.L. (IV 3 = T 21 IP), this was at Speusippus’ request, while the *Academicorum Index Herculanensis* (cols. 6,41–7,18: Fleisher 2018, 175–176 = T 1 IP) tells us that the younger members of the Academy voted —for the first time—and confirmed Xenocrates (over Heraclides of Pontus and Menedemus of Pyrrha) by a narrow margin as the first elected head of the school. These two accounts, although not incompatible, offer two different versions of the succession, and it does not appear possible to get behind them to what really happened.
+    step2: |-
+      柏拉图去世、斯彪西波继任学园园长时，色诺克拉底与亚里士多德可能应阿塔尔纽斯的赫尔米亚斯之邀一同离开雅典（斯特拉波《地理学》XIII 57）；后来色诺克拉底返回，接替斯彪西波。据第欧根尼（IV 3 = T 21 IP），这是应斯彪西波之请；而《学园派赫库兰尼姆索引》（cols. 6,41–7,18: Fleisher 2018, 175–176 = T 1 IP）则告诉我们，学园的青年成员首次投票，以微弱多数确认色诺克拉底（击败本都的赫拉克利德与皮拉的门内德穆）为该校首位经选举产生的园长。这两种说法虽不相互排斥，却是关于继任的两种不同版本；似乎无法透过它们弄清实际发生了什么。
+  - id: 3
+    kind: body
+    source: |-
+      D.L.’s bibliography (IV 11–14 = T 2 IP) lists over seventy titles attributed to Xenocrates, none of which survives, not even in the form of clearly identifiable quotations in other authors. As with Speusippus, the reconstruction of Xenocrates’ doctrines depends heavily on Aristotle who, frustratingly, often refrains from naming Xenocrates explicitly. Although Aristotle never directly names Xenocrates when discussing his philosophical views, possible references to his doctrines are signalled through certain recurring formulas; for instance, when Aristotle speaks of “those who posited the Forms” (a phrase that often includes Plato and Xenocrates), of “those who posited one nature for mathematical objects and Forms,” or of “those who defined the soul as ‘self-moving number’” (more on this below).
+    step1: |-
+      D.L.’s bibliography (IV 11–14 = T 2 IP) lists over seventy titles attributed to Xenocrates, none of which survives, not even in the form of clearly identifiable quotations in other authors. As with Speusippus, the reconstruction of Xenocrates’ doctrines depends heavily on Aristotle who, frustratingly, often refrains from naming Xenocrates explicitly. Although Aristotle never directly names Xenocrates when discussing his philosophical views, possible references to his doctrines are signalled through certain recurring formulas; for instance, when Aristotle speaks of “those who posited the Forms” (a phrase that often includes Plato and Xenocrates), of “those who posited one nature for mathematical objects and Forms,” or of “those who defined the soul as ‘self-moving number’” (more on this below).
+    step2: |-
+      第欧根尼的著作目录（IV 11–14 = T 2 IP）列出七十多种归于色诺克拉底的题名，无一存世，甚至在其他作者那里也找不到可以明确辨认的引文。与斯彪西波的情况一样，色诺克拉底学说的重构在很大程度上依赖亚里士多德；而令人无奈的是，亚里士多德常常不点色诺克拉底的名。亚里士多德讨论其哲学观点时从未直接指名色诺克拉底，但对他学说的可能指涉，通过某些反复出现的表述透出端倪：例如亚里士多德谈到“设定型相的人”（这一短语常包括柏拉图与色诺克拉底）、“为数学对象与型相设定同一本性的人”，或“把灵魂定义为'自行运动的数'的人”（详见下文）。
+  - id: 4
+    kind: body
+    source: |-
+      Throughout this entry, citations of Xenocrates’ fragments follow the numbering in Isnardi Parente’s revised edition (2012), hereafter ‘IP’.
+    step1: |-
+      Throughout this entry, citations of Xenocrates’ fragments follow the numbering in Isnardi Parente’s revised edition (2012), hereafter ‘IP’.
+    step2: |-
+      本词条通篇对色诺克拉底残篇的引证，均依 Isnardi Parente 修订版（2012）的编号，以下简称“IP”。
+  - id: 5
+    kind: body
+    source: |-
+      Sextus Empiricus tells us (*Adv. math.* I §16 = fr. 1 IP) that Xenocrates made explicit the tripartite division of philosophy that was implicit in Plato into ‘physics’, ‘ethics’, and ‘logic’. This schema later became canonical in Stoicism and Hellenistic philosophy more generally. As is standard with this terminology, what we today refer to as metaphysics and theory of knowledge are subsumed under ‘physics’ and ‘logic’, respectively. Sextus’ report about the standard division of philosophy transmitted by Xenocrates but ultimately derived from Plato is typical of much of what we hear about him: Xenocrates appears to have been at least as concerned to carry on Plato’s thought as to promote ideas of his own.
+    step1: |-
+      Sextus Empiricus tells us (*Adv. math.* I §16 = fr. 1 IP) that Xenocrates made explicit the tripartite division of philosophy that was implicit in Plato into ‘physics’, ‘ethics’, and ‘logic’. This schema later became canonical in Stoicism and Hellenistic philosophy more generally. As is standard with this terminology, what we today refer to as metaphysics and theory of knowledge are subsumed under ‘physics’ and ‘logic’, respectively. Sextus’ report about the standard division of philosophy transmitted by Xenocrates but ultimately derived from Plato is typical of much of what we hear about him: Xenocrates appears to have been at least as concerned to carry on Plato’s thought as to promote ideas of his own.
+    step2: |-
+      塞克斯都·恩披里柯告诉我们（《驳数学家》I §16 = fr. 1 IP），色诺克拉底把柏拉图隐含的哲学三分——“自然学”“伦理学”“逻辑学”——明确化了。这一图式后来在斯多亚派乃至整个希腊化哲学中成为规范。按这套术语的通常用法，我们今天称为形而上学与知识论的内容，分别归入“自然学”与“逻辑学”之下。塞克斯托斯关于这一标准哲学三分（由色诺克拉底传下、而最终源于柏拉图）的记述，典型地代表了我们所听到的关于他的大部分情况：色诺克拉底似乎至少同样关心承续柏拉图的思想，而非仅仅宣扬自己的创见。
+  - id: 6
+    kind: body
+    source: |-
+      Xenocrates’ system has sometimes been read as anticipating ideas that would become prominent in the Middle Platonic tradition (e.g., Dillon 2003. For an overview of major scholarly approaches to the material preserved on the Early Academy, see the entry on Speusippus)[^dillon-2003]. In this entry, significant focus is placed on Aristotle’s texts, complemented by material preserved by other authors, with less emphasis on potential continuity with later traditions. What survives of Xenocrates’ views is here divided into four sections: Metaphysics, Xenocrates and the *Timaeus*, Theory of Knowledge, and Ethics. The available material is considerably more abundant for metaphysics, while our sources for epistemology and ethics are far more limited.
+    step1: |-
+      Xenocrates’ system has sometimes been read as anticipating ideas that would become prominent in the Middle Platonic tradition (e.g., Dillon 2003. For an overview of major scholarly approaches to the material preserved on the Early Academy, see the entry on Speusippus)[^dillon-2003]. In this entry, significant focus is placed on Aristotle’s texts, complemented by material preserved by other authors, with less emphasis on potential continuity with later traditions. What survives of Xenocrates’ views is here divided into four sections: Metaphysics, Xenocrates and the *Timaeus*, Theory of Knowledge, and Ethics. The available material is considerably more abundant for metaphysics, while our sources for epistemology and ethics are far more limited.
+    step2: |-
+      色诺克拉底的体系有时被解读为预示了后来在中期柏拉图主义传统中大放异彩的观念（例如 Dillon 2003；关于研究早期学园存世材料的主要学术进路之概述，见“斯彪西波”词条）[^dillon-2003]。本词条把重点放在亚里士多德的文本上，辅以其他作者保存的材料，对与后世传统之间的可能连续性则着墨较少。色诺克拉底观点的存世部分在此分为四节：形而上学、色诺克拉底与《蒂迈欧篇》、知识论、伦理学。形而上学方面的材料相当丰富，而知识论与伦理学的材料则远为有限。
+  - id: 7
+    kind: body
+    source: |-
+      ## 1. Metaphysics
+    step1: |-
+      ## 1. Metaphysics
+    step2: |-
+      ## 1 形而上学
+  - id: 8
+    kind: body
+    source: |-
+      Most of what we can reconstruct about Xenocrates pertains to his metaphysics. This reconstruction is carried out largely by identifying views of his that appear in Aristotle’s criticisms of the metaphysical doctrines of his predecessors and contemporaries, and by chaining these with other texts that can plausibly be taken to concern Xenocrates’ own views. The one feature of Xenocrates’ system that Aristotle emphasizes the most when presenting his metaphysics is his postulation of Form-Numbers. Indeed, in Aristotelian reports, Xenocrates’ position is often recognisable alongside those of Plato and Speusippus. Consider, for example, the beginning of book Λ of the *Metaphysics*:
+    step1: |-
+      Most of what we can reconstruct about Xenocrates pertains to his metaphysics. This reconstruction is carried out largely by identifying views of his that appear in Aristotle’s criticisms of the metaphysical doctrines of his predecessors and contemporaries, and by chaining these with other texts that can plausibly be taken to concern Xenocrates’ own views. The one feature of Xenocrates’ system that Aristotle emphasizes the most when presenting his metaphysics is his postulation of Form-Numbers. Indeed, in Aristotelian reports, Xenocrates’ position is often recognisable alongside those of Plato and Speusippus. Consider, for example, the beginning of book Λ of the *Metaphysics*:
+    step2: |-
+      我们能重构的色诺克拉底思想，大多涉及他的形而上学。这一重构主要靠辨认亚里士多德批评前人及同代人的形而上学学说时出现的、可能属于他的观点，再把它们与那些可以合理认为涉及色诺克拉底本人立场的其他文本串联起来。亚里士多德在陈述其形而上学时最强调的色诺克拉底体系特征，是他对形式数（Form-Numbers）的设定。的确，在亚里士多德的记述中，色诺克拉底的位置常与柏拉图、斯彪西波并列可辨。例如，请看《形而上学》Λ 卷的开头：
+  - id: 9
+    kind: body
+    source: |-
+      > There are three kinds of substance—one that is sensible (of which one subdivision is eternal and another is perishable […]); and another that is immovable, and this certain thinkers assert to be capable of existing apart, some dividing it into two, others combining the Forms and the objects of mathematics into one class, and others believing only in the mathematical part of this class. (Arist., *Metaph*. Λ1 1069a30–35 = fr. 26 IP, transl. Ross)
+    step1: |-
+      > There are three kinds of substance—one that is sensible (of which one subdivision is eternal and another is perishable […]); and another that is immovable, and this certain thinkers assert to be capable of existing apart, some dividing it into two, others combining the Forms and the objects of mathematics into one class, and others believing only in the mathematical part of this class. (Arist., *Metaph*. Λ1 1069a30–35 = fr. 26 IP, transl. Ross)
+    step2: |-
+      > 实体有三类：一类是可感觉的（其中又分永恒者与可朽者 […]）；另一类是不动的，某些思想家主张它可以分离存在——有人把它分为两类，有人把型相与数学对象合为一类，还有人只相信这一类中的数学部分。（亚里士多德《形而上学》Λ1 1069a30–35 = fr. 26 IP，罗斯英译）
+  - id: 10
+    kind: body
+    source: |-
+      In this and similar reports, Aristotle is quite consistent in the way he presents the positions of Plato and his immediate successors. To Plato, Aristotle attributes the postulation of Forms alongside mathematical entities, mentioned here as two distinct classes of immovable substance. As for Speusippus, Aristotle states that he admitted the existence of mathematical objects only, having rejected the existence of Forms. Finally, regarding Xenocrates, Aristotle reports that he placed Forms and mathematical objects in a single class. Compare, for instance, how Aristotle frames the issue in book M:
+    step1: |-
+      In this and similar reports, Aristotle is quite consistent in the way he presents the positions of Plato and his immediate successors. To Plato, Aristotle attributes the postulation of Forms alongside mathematical entities, mentioned here as two distinct classes of immovable substance. As for Speusippus, Aristotle states that he admitted the existence of mathematical objects only, having rejected the existence of Forms. Finally, regarding Xenocrates, Aristotle reports that he placed Forms and mathematical objects in a single class. Compare, for instance, how Aristotle frames the issue in book M:
+    step2: |-
+      在这则及类似记述中，亚里士多德呈现柏拉图及其直系后继者立场的方式相当一致。他把“型相与数学实体并存”归于柏拉图，二者在此被说成两类不同的不动实体。至于斯彪西波，亚里士多德说他否认型相的存在，只承认数学对象。最后，关于色诺克拉底，亚里士多德说他把型相与数学对象置于同一类。例如，请看《形而上学》M 卷中亚里士多德如何框定这一问题：
+  - id: 11
+    kind: body
+    source: |-
+      > Two opinions are held on this subject; it is said that the objects of mathematics—i.e. numbers and lines and the like—are substances, and again that the Forms are substances. And since some recognize these as two different classes—the Forms and the mathematical numbers—and some recognize both as having one nature, while some others say that the mathematical substances are the only substances, we must consider first the objects of mathematics, not qualifying them by any other characteristic […]. (Arist., *Metaph*. M1 1076a16–24 = fr. 27 IP, transl. Ross slightly modified)
+    step1: |-
+      > Two opinions are held on this subject; it is said that the objects of mathematics—i.e. numbers and lines and the like—are substances, and again that the Forms are substances. And since some recognize these as two different classes—the Forms and the mathematical numbers—and some recognize both as having one nature, while some others say that the mathematical substances are the only substances, we must consider first the objects of mathematics, not qualifying them by any other characteristic […]. (Arist., *Metaph*. M1 1076a16–24 = fr. 27 IP, transl. Ross slightly modified)
+    step2: |-
+      > 在这个问题上流行两种意见：有人说数学对象——即数、线之类——是实体，也有人说型相是实体。既然有人把二者认作两个不同的类（型相与数学数），也有人认为二者具有同一本性，还有人声称数学实体是唯一的实体，我们就必须首先考察数学对象，而不附加任何别的特征 […]。（亚里士多德《形而上学》M1 1076a16–24 = fr. 27 IP，罗斯英译略改）
+  - id: 12
+    kind: body
+    source: |-
+      This version of the Theory of Forms associated with Xenocrates is that which Aristotle also ascribes to the ‘later’ Plato (see Arist., *Metaph.* M4 1078b10–12 for the qualification ‘later’), in which the Forms are, in the first instance, numbers. In trying to understand what Aristotle tells us about Form-Numbers, it is necessary to bear in mind the fundamental distinction he draws between Form-Numbers and mathematical numbers: both are, according to Aristotle, composed of units, but the units making up Form-Numbers are of a peculiar kind, such that those within one Form-Number cannot be combined with those from any other. By contrast, the units of which mathematical numbers are composed can be freely added and subtracted (Arist. *Metaph.* M6, 1080a15-b4). And furthermore, there is only one Form-Number for each of the numbers 2, 3, 4, etc., where there are indefinitely many instances of each among the mathematical numbers (Arist., *Metaph*. A6, 987b14–18). The mathematical numbers are the ones that mathematicians work with (for example, in performing arithmetical operations) and this is presumably why they are called ‘mathematical’.
+    step1: |-
+      This version of the Theory of Forms associated with Xenocrates is that which Aristotle also ascribes to the ‘later’ Plato (see Arist., *Metaph.* M4 1078b10–12 for the qualification ‘later’), in which the Forms are, in the first instance, numbers. In trying to understand what Aristotle tells us about Form-Numbers, it is necessary to bear in mind the fundamental distinction he draws between Form-Numbers and mathematical numbers: both are, according to Aristotle, composed of units, but the units making up Form-Numbers are of a peculiar kind, such that those within one Form-Number cannot be combined with those from any other. By contrast, the units of which mathematical numbers are composed can be freely added and subtracted (Arist. *Metaph.* M6, 1080a15-b4). And furthermore, there is only one Form-Number for each of the numbers 2, 3, 4, etc., where there are indefinitely many instances of each among the mathematical numbers (Arist., *Metaph*. A6, 987b14–18). The mathematical numbers are the ones that mathematicians work with (for example, in performing arithmetical operations) and this is presumably why they are called ‘mathematical’.
+    step2: |-
+      与色诺克拉底相联系的这个型相论版本，也是亚里士多德归于“后期”柏拉图的版本（关于“后期”这一限定见亚里士多德《形而上学》M4 1078b10–12）；在这一版本中，型相首先是数。要理解亚里士多德关于形式数的说法，必须记住他所做的形式数与数学数之间的根本区分：按亚里士多德，二者都由单元构成，但构成形式数的单元是一种特殊的单元——同一个形式数内部的单元不能与任何别的形式数的单元组合。相反，构成数学数的单元可以自由加减（亚里士多德《形而上学》M6, 1080a15–b4）。此外，对于 2、3、4 等每一个数，只有一个形式数；而在数学数中，每个数都有无穷多个实例（亚里士多德《形而上学》A6, 987b14–18）。数学数是数学家所操作的那种数（例如在施行算术运算时），这大概就是它们被称为“数学的”之缘由。
+  - id: 13
+    kind: body
+    source: |-
+      Consistently with what we have seen in the reports introduced above, Aristotle ascribes to Plato the position that there are both Form-Numbers and mathematical numbers; to Speusippus that he rejected Form-Numbers (and with them the entire theory of Forms; see the entry on Speusippus). The position Aristotle ascribes to Xenocrates is more nuanced. The core of it is that Xenocrates’ held that “the Forms and the numbers have the same nature:” that is, Form-Numbers and the mathematical numbers are essentially the same thing (Arist. *Metaph.* M8, 1083b1–8 = fr. 29 IP).
+    step1: |-
+      Consistently with what we have seen in the reports introduced above, Aristotle ascribes to Plato the position that there are both Form-Numbers and mathematical numbers; to Speusippus that he rejected Form-Numbers (and with them the entire theory of Forms; see the entry on Speusippus). The position Aristotle ascribes to Xenocrates is more nuanced. The core of it is that Xenocrates’ held that “the Forms and the numbers have the same nature:” that is, Form-Numbers and the mathematical numbers are essentially the same thing (Arist. *Metaph.* M8, 1083b1–8 = fr. 29 IP).
+    step2: |-
+      与上述诸记述所见一致，亚里士多德把“形式数与数学数并存”归于柏拉图，把“拒斥形式数（并随之拒斥整个型相论；见'斯彪西波'词条）”归于斯彪西波。归于色诺克拉底的立场则更微妙。其核心是：色诺克拉底主张“型相与数具有同一本性”，也就是说，形式数与数学数本质上是同一个东西（亚里士多德《形而上学》M8, 1083b1–8 = fr. 29 IP）。
+  - id: 14
+    kind: body
+    source: |-
+      A series of half a dozen passages in the *Metaphysics* can, in consequence of this identification, be associated with Xenocrates (see, e.g., Arist., *Metaph*. M6, 1080b21–30 = frs. 28 IP and 39 IP; M8, 1083b1–8 = fr. 47 IP; M9, 1086a5–11 = fr. 30 IP; N3, 1090b13–1091a5 = fr. 38 IP, although Isnardi Parente is sometimes very minimal in identifying which lines refer explicitly to Xenocrates). From these passages it appears that Xenocrates considered the distinction between Forms and mathematical numbers unnecessary and therefore decided to assimilate the latter to the former, believing that mathematics can be done entirely with Form-Numbers.
+    step1: |-
+      A series of half a dozen passages in the *Metaphysics* can, in consequence of this identification, be associated with Xenocrates (see, e.g., Arist., *Metaph*. M6, 1080b21–30 = frs. 28 IP and 39 IP; M8, 1083b1–8 = fr. 47 IP; M9, 1086a5–11 = fr. 30 IP; N3, 1090b13–1091a5 = fr. 38 IP, although Isnardi Parente is sometimes very minimal in identifying which lines refer explicitly to Xenocrates). From these passages it appears that Xenocrates considered the distinction between Forms and mathematical numbers unnecessary and therefore decided to assimilate the latter to the former, believing that mathematics can be done entirely with Form-Numbers.
+    step2: |-
+      由于这一同一化，《形而上学》中大约六七处段落可以系于色诺克拉底（例如见亚里士多德《形而上学》M6, 1080b21–30 = frs. 28 IP 与 39 IP；M8, 1083b1–8 = fr. 47 IP；M9, 1086a5–11 = fr. 30 IP；N3, 1090b13–1091a5 = fr. 38 IP——不过 Isnardi Parente 对哪些行明确指涉色诺克拉底，有时判断得极为保守）。从这些段落看，色诺克拉底认为型相与数学数之间的区分并无必要，因而决定把后者同化于前者，相信数学完全可以只用形式数来做。
+  - id: 15
+    kind: body
+    source: |-
+      However, because Aristotle is particularly insistent on the fact that mathematical operations are rendered impossible by Form-Numbers, we are, unfortunately, not told more about how Xenocrates envisioned such operations to be possible, given the incombinability of the units composing Form-Numbers. For Plato and Speusippus, the addition of 2 and 3 consists in combining a group of units that constitutes the mathematical 2 with a distinct group of units that constitutes the mathematical 3 (that numbers are such collections of units is a view that can still be found later, perhaps most importantly, given his influence, in Euclid, *Elements* VII def. 2). Aristotle, too, understood addition in this way, albeit with a very different underlying ontology. It is plausible, however, that this approach was unavailable to Xenocrates, given his postulation of Form-Numbers.
+    step1: |-
+      However, because Aristotle is particularly insistent on the fact that mathematical operations are rendered impossible by Form-Numbers, we are, unfortunately, not told more about how Xenocrates envisioned such operations to be possible, given the incombinability of the units composing Form-Numbers. For Plato and Speusippus, the addition of 2 and 3 consists in combining a group of units that constitutes the mathematical 2 with a distinct group of units that constitutes the mathematical 3 (that numbers are such collections of units is a view that can still be found later, perhaps most importantly, given his influence, in Euclid, *Elements* VII def. 2). Aristotle, too, understood addition in this way, albeit with a very different underlying ontology. It is plausible, however, that this approach was unavailable to Xenocrates, given his postulation of Form-Numbers.
+    step2: |-
+      然而，由于亚里士多德特别坚持形式数使数学运算变得不可能，我们遗憾地未被告知：在构成形式数的单元不可组合的前提下，色诺克拉底究竟设想了何种可能。对柏拉图与斯彪西波来说，2 与 3 的相加，在于把构成数学的 2 的一组单元与构成数学的 3 的另一组单元合并起来（“数是这样的单元集合”这一观点后来仍可见到，鉴于其影响力，或许最重耍的是欧几里得《几何原本》VII 定义 2）。亚里士多德也以这种方式理解加法，尽管其背后的本体论大不相同。然而，鉴于色诺克拉底设定了形式数，这种做法对他而言很可能不可用。
+  - id: 16
+    kind: body
+    source: |-
+      Accordingly, we do not know how Xenocrates understood addition. One possibility (Dancy 2021)[^dancy-2021] is that he conceived of it as a kind of map: if you are on the unique Form-Number 2 and you wish to add the unique Form-Number 3 to it, you cannot, strictly speaking, do that, but taking three steps forward in the series will get you to the unique Form-Number 5, and that is what ‘2 + 3 = 5’ really means. Another possibility is that he thought it was through participation that arithmetical operations became possible. There is, however, no direct evidence to support any of these conjectures, apart from Aristotle’s repeated complaint (see Arist., *Metaph*. M6, 1080b28–30 = fr. 39 IP; M8, 1083b4–6 = fr. 19 IP; M9, 1086a9–11 = fr. 30 IP) that Xenocrates actually makes doing mathematics impossible Or, to put it as Aristotle does elsewhere: that Xenocrates ends up destroying mathematical number. According to Aristotle, Xenocrates is not so much explaining addition as explaining it *away*.
+    step1: |-
+      Accordingly, we do not know how Xenocrates understood addition. One possibility (Dancy 2021)[^dancy-2021] is that he conceived of it as a kind of map: if you are on the unique Form-Number 2 and you wish to add the unique Form-Number 3 to it, you cannot, strictly speaking, do that, but taking three steps forward in the series will get you to the unique Form-Number 5, and that is what ‘2 + 3 = 5’ really means. Another possibility is that he thought it was through participation that arithmetical operations became possible. There is, however, no direct evidence to support any of these conjectures, apart from Aristotle’s repeated complaint (see Arist., *Metaph*. M6, 1080b28–30 = fr. 39 IP; M8, 1083b4–6 = fr. 19 IP; M9, 1086a9–11 = fr. 30 IP) that Xenocrates actually makes doing mathematics impossible Or, to put it as Aristotle does elsewhere: that Xenocrates ends up destroying mathematical number. According to Aristotle, Xenocrates is not so much explaining addition as explaining it *away*.
+    step2: |-
+      因此，我们不知道色诺克拉底如何理解加法。一种可能（Dancy 2021）[^dancy-2021]是：他把加法设想为某种地图——若你正处在唯一的那个形式数 2 上，想把唯一的形式数 3 加给它，严格说来做不到；但在序列中向前走三步就能到达唯一的形式数 5，而这就是“2 + 3 = 5”的真正含义。另一种可能是：他认为算术运算之所以可能，靠的是分有。然而，除了亚里士多德反复抱怨（见亚里士多德《形而上学》M6, 1080b28–30 = fr. 39 IP；M8, 1083b4–6 = fr. 19 IP；M9, 1086a9–11 = fr. 30 IP）色诺克拉底实际上使做数学成为不可能之外，没有任何直接证据支持上述任何一种推测。或者用亚里士多德在别处的话说：色诺克拉底最终毁掉了数学数。在亚里士多德看来，色诺克拉底与其说是在说明加法，不如说是在把加法说明掉。
+  - id: 17
+    kind: body
+    source: |-
+      The same criticisms levelled at Xenocrates’ Form-Numbers are, although more indirectly, directed at his conception of geometrical items as well. Just as Aristotle complains that not any two units can compose the Dyad, he also objects that, for Xenocrates, not every magnitude is divisible into other magnitudes. More broadly, Aristotle suggests that Xenocrates adjusts the basic assumptions of arithmetic and geometry to suit the needs of his system, introducing *ad hoc* premises instead of deriving conclusions from commonly accepted mathematical principles. As with arithmetic, with geometry, too, the underlying concern is that the explanatory order of mathematics is compromised by the metaphysical and ontological commitments endorsed by Xenocrates.
+    step1: |-
+      The same criticisms levelled at Xenocrates’ Form-Numbers are, although more indirectly, directed at his conception of geometrical items as well. Just as Aristotle complains that not any two units can compose the Dyad, he also objects that, for Xenocrates, not every magnitude is divisible into other magnitudes. More broadly, Aristotle suggests that Xenocrates adjusts the basic assumptions of arithmetic and geometry to suit the needs of his system, introducing *ad hoc* premises instead of deriving conclusions from commonly accepted mathematical principles. As with arithmetic, with geometry, too, the underlying concern is that the explanatory order of mathematics is compromised by the metaphysical and ontological commitments endorsed by Xenocrates.
+    step2: |-
+      针对色诺克拉底形式数的那些批评，也（尽管更为间接地）指向他对几何对象的构想。正如亚里士多德抱怨并非任意两个单元都能构成二（Dyad），他也反对说，在色诺克拉底那里并非每一个量都能分割为其他量。更宽泛地说，亚里士多德暗示，色诺克拉底为迁就自己体系的需要而调整算术与几何的基本假定，引入临时性（*ad hoc*）前提，而不是从公认的数学原理推出结论。与算术一样，几何方面的潜在忧虑也在于：数学的解释秩序被色诺克拉底所认可的那套形而上学与本体论承诺所损害。
+  - id: 18
+    kind: body
+    source: |-
+      The charge that, according to Xenocrates, ‘not every magnitude is divisible into other magnitude’ appears to be motivated by Xenocrates’ commitment to the existence of indivisible lines. Aristotle attributes this view to Plato in *Metaphysics* A9, 992a20–22, but Alexander’s commentary on the same passage adds the name of Xenocrates, in a way suggesting that Xenocrates’ endorsement of indivisible magnitudes was even more prominent or widely recognized than Plato’s (Alex. Aphr. *In Arist. Metaph.*, 120,6–8 = fr. 49 IP; see also Simplicius *In Arist. De caelo*, 563,20–23= fr. 53 IP, and many other passages in the commentators in which this ascription occurs: frs. 54–67 IP).
+    step1: |-
+      The charge that, according to Xenocrates, ‘not every magnitude is divisible into other magnitude’ appears to be motivated by Xenocrates’ commitment to the existence of indivisible lines. Aristotle attributes this view to Plato in *Metaphysics* A9, 992a20–22, but Alexander’s commentary on the same passage adds the name of Xenocrates, in a way suggesting that Xenocrates’ endorsement of indivisible magnitudes was even more prominent or widely recognized than Plato’s (Alex. Aphr. *In Arist. Metaph.*, 120,6–8 = fr. 49 IP; see also Simplicius *In Arist. De caelo*, 563,20–23= fr. 53 IP, and many other passages in the commentators in which this ascription occurs: frs. 54–67 IP).
+    step2: |-
+      那条“按色诺克拉底，并非每一个量都可分割为其他量”的指控，似乎源于他对不可分线存在的坚持。亚里士多德在《形而上学》A9, 992a20–22 把这一观点归于柏拉图，但亚历山大对同一段落的注疏加入了色诺克拉底的名字，其方式暗示：色诺克拉底对不可分量的支持，比亚里士多德笔下的柏拉图更为突出、也更为人所知（阿弗罗狄西亚的亚历山大《亚里士多德〈形而上学〉注》120,6–8 = fr. 49 IP；另见辛普里丘《亚里士多德〈论天〉注》563,20–23 = fr. 53 IP，以及注疏家著作中许多出现这一归属的其他段落：frs. 54–67 IP）。
+  - id: 19
+    kind: body
+    source: |-
+      As Proclus understood Xenocrates’ position, it applied to the Form of the line rather than to geometrical or physical magnitudes (Procl. *In Tim.* II, 245 23–33 = fr. 67 IP), but this is very much a minority view. Porphyry, as quoted by Simplicius in the latter’s commentary on the *Physics* (140,9–13 = fr. 60 IP), gives a more general formulation:
+    step1: |-
+      As Proclus understood Xenocrates’ position, it applied to the Form of the line rather than to geometrical or physical magnitudes (Procl. *In Tim.* II, 245 23–33 = fr. 67 IP), but this is very much a minority view. Porphyry, as quoted by Simplicius in the latter’s commentary on the *Physics* (140,9–13 = fr. 60 IP), gives a more general formulation:
+    step2: |-
+      按普罗克洛斯的理解，色诺克拉底的立场适用于线之型相，而不适用于几何量或物理量（普罗克洛斯《〈蒂迈欧篇〉注》II, 245 23–33 = fr. 67 IP），但这只是极少数人的看法。波菲利（经辛普里丘在《〈物理学〉注》中引用，140,9–13 = fr. 60 IP）给出了更为一般的表述：
+  - id: 20
+    kind: body
+    source: |-
+      > …it does not go on to infinity, but stops at some indivisibles (*atoma*). These however are not indivisible as being without parts and smallest, but fissile with regard to quantity and having parts, but indivisible and primary in form, supposing that there are certain primary indivisible lines, and the planes from these and primary solids. (transl. Huby and Taylor)
+    step1: |-
+      > …it does not go on to infinity, but stops at some indivisibles (*atoma*). These however are not indivisible as being without parts and smallest, but fissile with regard to quantity and having parts, but indivisible and primary in form, supposing that there are certain primary indivisible lines, and the planes from these and primary solids. (transl. Huby and Taylor)
+    step2: |-
+      > ……它并不无限延伸，而是止于某些不可分者（*atoma*）。然而，这些不可分者并非因其没有部分且最小而不可分，而是在量上可裂、具有部分，但在形式上不可分且为首要——这里假设存在某些首要的不可分线，以及由它们而来的面和首要的立体。（Huby 与 Taylor 英译）
+  - id: 21
+    kind: body
+    source: |-
+      If we are to trust the testimony, Xenocrates might have thought he could do with the notion of a line what Aristotle was prepared to do with notions such as *man*. Aristotle is prepared to say that a man is indivisible, and thus a suitable unit for the arithmetician’s contemplation, in the sense that if you divide a man into two parts, what you get is not two men (see Arist. *Metaph.* N3, 1078a23–26). There is no consensus on the extent to which Xenocrates’ metaphysical atomism should be understood as a theory of physical minima (as Plutarch’s testimony also seems to suggest: *Quaest*. *Plat*. 8, 1007c = fr. 132 IP). Xenocrates’ postulation of the indivisible lines has important implications for his cosmology, as recently emphasized by Sedley (2021) and Alieva (2021), who explore how his mathematical and metaphysical commitments inform his broader account of the structure of the universe and of perceptibles.
+    step1: |-
+      If we are to trust the testimony, Xenocrates might have thought he could do with the notion of a line what Aristotle was prepared to do with notions such as *man*. Aristotle is prepared to say that a man is indivisible, and thus a suitable unit for the arithmetician’s contemplation, in the sense that if you divide a man into two parts, what you get is not two men (see Arist. *Metaph.* N3, 1078a23–26). There is no consensus on the extent to which Xenocrates’ metaphysical atomism should be understood as a theory of physical minima (as Plutarch’s testimony also seems to suggest: *Quaest*. *Plat*. 8, 1007c = fr. 132 IP). Xenocrates’ postulation of the indivisible lines has important implications for his cosmology, as recently emphasized by Sedley (2021) and Alieva (2021), who explore how his mathematical and metaphysical commitments inform his broader account of the structure of the universe and of perceptibles.
+    step2: |-
+      倘若我们相信这一证言，色诺克拉底或许认为，他能用“线”这个概念做亚里士多德准备用“人”之类概念做的事。亚里士多德愿意说，人不可分，因而适合充当算术家观想的单元——其意义是：若把人分成两部分，你所得到的并不是两个人（见亚里士多德《形而上学》N3, 1078a23–26）。色诺克拉底的形而上学原子论在多大程度上应被理解为一种物理最小量理论（普鲁塔克的证言似乎也如此暗示：《柏拉图问题》8, 1007c = fr. 132 IP），学界并无共识。色诺克拉底对不可分线的设定对其宇宙论有重要意涵——Sedley（2021）与 Alieva（2021）近来对此加以强调，他们探讨了他的数学与形而上学承诺如何塑造其关于宇宙结构与可感觉者的更宽泛说明。
+  - id: 22
+    kind: body
+    source: |-
+      Xenocrates’ espousal of indivisible magnitudes has led to the conjecture that the pseudo-Aristotelian treatise *On Indivisible Lines* is, at least in part, an attack on him, and that the arguments recounted in its first chapter in favour of the existence of indivisible lines, later rebutted in the treatise, might ultimately derive from Xenocrates. Unfortunately, the arguments are quite obscure, as the text is not in good shape (an admirably concise summary of the first four of these arguments may be found in Furley 1967, 105)[^furley-1967]. Some of the arguments owe a lot to Zeno of Elea: that Xenocrates was influenced by Zeno is only what one would expect, and is confirmed elsewhere (see esp. the passage from Porphyry cited in part above, *apud* Simplicius *In Arist. Phys.* 140.6–18. For the connection between Xenocrates’ arguments and Zeno, see also Gemelli Marciano 2007, 132–137)[^gemelli-2007]. For the moment, and until a better reconstruction of the treatise becomes available, its connection to Xenocrates’ doctrine cannot be assessed in more detail.
+    step1: |-
+      Xenocrates’ espousal of indivisible magnitudes has led to the conjecture that the pseudo-Aristotelian treatise *On Indivisible Lines* is, at least in part, an attack on him, and that the arguments recounted in its first chapter in favour of the existence of indivisible lines, later rebutted in the treatise, might ultimately derive from Xenocrates. Unfortunately, the arguments are quite obscure, as the text is not in good shape (an admirably concise summary of the first four of these arguments may be found in Furley 1967, 105)[^furley-1967]. Some of the arguments owe a lot to Zeno of Elea: that Xenocrates was influenced by Zeno is only what one would expect, and is confirmed elsewhere (see esp. the passage from Porphyry cited in part above, *apud* Simplicius *In Arist. Phys.* 140.6–18. For the connection between Xenocrates’ arguments and Zeno, see also Gemelli Marciano 2007, 132–137)[^gemelli-2007]. For the moment, and until a better reconstruction of the treatise becomes available, its connection to Xenocrates’ doctrine cannot be assessed in more detail.
+    step2: |-
+      色诺克拉底对不可分量的支持，引出了一个推测：伪亚里士多德著作《论不可分线》至少部分是针对他的；书中第一章为不可分线存在所列举、后来又在该论著中遭到反驳的论证，最终可能源出色诺克拉底。遗憾的是，由于文本状况不佳，这些论证颇为晦涩（关于其中前四个论证的简明总结，见 Furley 1967, 105）[^furley-1967]。有些论证大得益于埃利亚的芝诺：色诺克拉底受芝诺影响本是意料中事，其他材料亦可证实（尤见上文部分引用的波菲利段落，载辛普里丘《亚里士多德〈物理学〉注》140.6–18；关于色诺克拉底论证与芝诺的联系，另见 Gemelli Marciano 2007, 132–137）[^gemelli-2007]。目前，在该论著获得更好的重构之前，它与色诺克拉底学说的关联无法详加评判。
+  - id: 23
+    kind: body
+    source: |-
+      From Aristotle’s criticism of Xenocrates’ treatment of geometrical and mathematical items, it also emerges that Xenocrates sought to account for the generation of geometrical figures (see, e.g., Arist. *Metaph.* M6, 1080 b23–30 = fr. 39 IP; N3, 1090b21–24; 31–32 = fr. 38 IP), and that this process was somehow related to Form-Numbers. The details of how this connection was conceived, however, remain elusive. Yet, the very need to clarify the transition from Form-Numbers to geometrical items brings into focus a point that is consistently emphasized by the early sources: Xenocrates’ commitment to the continuity of the system, in contrast to the fragmented structure of the universe postulated by Speusippus.
+    step1: |-
+      From Aristotle’s criticism of Xenocrates’ treatment of geometrical and mathematical items, it also emerges that Xenocrates sought to account for the generation of geometrical figures (see, e.g., Arist. *Metaph.* M6, 1080 b23–30 = fr. 39 IP; N3, 1090b21–24; 31–32 = fr. 38 IP), and that this process was somehow related to Form-Numbers. The details of how this connection was conceived, however, remain elusive. Yet, the very need to clarify the transition from Form-Numbers to geometrical items brings into focus a point that is consistently emphasized by the early sources: Xenocrates’ commitment to the continuity of the system, in contrast to the fragmented structure of the universe postulated by Speusippus.
+    step2: |-
+      从亚里士多德对色诺克拉底处理几何与数学对象的批评中还可以看出，色诺克拉底试图说明几何图形的生成（例如见亚里士多德《形而上学》M6, 1080b23–30 = fr. 39 IP；N3, 1090b21–24、31–32 = fr. 38 IP），且这一过程在某种意义上与形式数有关。然而，这一联系究竟如何设想，细节仍然难以捉摸。不过，恰恰是说明从形式数到几何对象之过渡的需要，凸显出早期材料一贯强调的一点：色诺克拉底坚持体系的连续性，这与斯彪西波所设定的宇宙之断裂结构形成对照。
+  - id: 24
+    kind: body
+    source: |-
+      In *Metaphysics* Z2, for instance (1028b19–21 = fr. 23 IP), after introducing the identification of Forms and mathematical numbers, Aristotle makes a comment about the rest of the universe:
+    step1: |-
+      In *Metaphysics* Z2, for instance (1028b19–21 = fr. 23 IP), after introducing the identification of Forms and mathematical numbers, Aristotle makes a comment about the rest of the universe:
+    step2: |-
+      例如在《形而上学》Z2（1028b19–21 = fr. 23 IP）中，亚里士多德在引入型相与数学数的同一化之后，对宇宙的其余部分作了一句评论：
+  - id: 25
+    kind: body
+    source: |-
+      > But some say that the Forms and the numbers have the same nature, while the others, lines and planes, come next, {and so on} down to the substance of the heavens and to the perceptibles. (transl. Dancy)
+    step1: |-
+      > But some say that the Forms and the numbers have the same nature, while the others, lines and planes, come next, {and so on} down to the substance of the heavens and to the perceptibles. (transl. Dancy)
+    step2: |-
+      > 但有人说，型相与数具有同一本性，而其余的东西——线、面——紧随其后，{如此类推}直至天界的实体与可感觉者。（Dancy 英译）
+  - id: 26
+    kind: body
+    source: |-
+      It appears that Xenocrates pictured the universe as unfolding in some sequence from Form-Numbers to geometrical items, and finally to perceptible things. Compared to that of Speusippus, whose universe Aristotle portrays as discontinuous or disjointed, Xenocrates’ unfolding of the universe from higher principles appears markedly more continuous. For one thing, Xenocrates renounces the many principles that Speusippus had introduced for each level of reality, and instead appeals to just two ultimate principles: the One and the Indefinite Dyad (see Aëtius, I, 7 30 = fr. 133 IP; Plutarch, *De an. procr. in Tim*., 1012 d2-f1= fr. 108 IP; Theophrastus, *Metaph.* 6b1 = fr. 20 IP). Some scholars have argued that, in Xenocrates’ system, the two principles are not entirely equal in status, and that the Indefinite Dyad is ultimately dependent on or subordinate to the One, a reading that reinforces the unity and hierarchical structure of his metaphysics. A prominent version of this view is offered by Thiel (2006), who, following Krämer, reconstructs Xenocrates’ thought in light of Plato’s so-called ‘unwritten doctrines’ and presents him as formalising these into a tightly integrated metaphysical framework. Thiel’s argument for the subordination of the Dyad relies chiefly on a passage in Sextus Empiricus (*Adv. math*. X §248–283), which he takes to preserve genuinely Xenocratean material. The passage is, however, not treated as a genuine report on Xenocrates in Isnardi Parente’s collection, and the early sources offer no clear support for the view that Xenocrates considered the Dyad subordinate to the One.
+    step1: |-
+      It appears that Xenocrates pictured the universe as unfolding in some sequence from Form-Numbers to geometrical items, and finally to perceptible things. Compared to that of Speusippus, whose universe Aristotle portrays as discontinuous or disjointed, Xenocrates’ unfolding of the universe from higher principles appears markedly more continuous. For one thing, Xenocrates renounces the many principles that Speusippus had introduced for each level of reality, and instead appeals to just two ultimate principles: the One and the Indefinite Dyad (see Aëtius, I, 7 30 = fr. 133 IP; Plutarch, *De an. procr. in Tim*., 1012 d2-f1= fr. 108 IP; Theophrastus, *Metaph.* 6b1 = fr. 20 IP). Some scholars have argued that, in Xenocrates’ system, the two principles are not entirely equal in status, and that the Indefinite Dyad is ultimately dependent on or subordinate to the One, a reading that reinforces the unity and hierarchical structure of his metaphysics. A prominent version of this view is offered by Thiel (2006), who, following Krämer, reconstructs Xenocrates’ thought in light of Plato’s so-called ‘unwritten doctrines’ and presents him as formalising these into a tightly integrated metaphysical framework. Thiel’s argument for the subordination of the Dyad relies chiefly on a passage in Sextus Empiricus (*Adv. math*. X §248–283), which he takes to preserve genuinely Xenocratean material. The passage is, however, not treated as a genuine report on Xenocrates in Isnardi Parente’s collection, and the early sources offer no clear support for the view that Xenocrates considered the Dyad subordinate to the One.
+    step2: |-
+      看来，色诺克拉底把宇宙设想为按某种次序展开：从形式数到几何对象，最后到可感觉事物。与斯彪西波的宇宙（亚里士多德把它描绘为不连续或支离的）相比，色诺克拉底从更高本原展开宇宙的方式明显更为连续。其一，色诺克拉底放弃了斯彪西波为现实的每一层级引入的众多本原，转而诉诸仅两个终极本原：一（the One）与不定的二（Indefinite Dyad）（见埃提乌斯 I, 7 30 = fr. 133 IP；普鲁塔克《论〈蒂迈欧篇〉中灵魂的生成》1012 d2–f1 = fr. 108 IP；特奥弗拉斯托斯《形而上学》6b1 = fr. 20 IP）。有些学者主张，在色诺克拉底的体系中，这两个本原地位并不完全平等，不定的二最终依赖或从属于一——这一读法强化了其形而上学的统一性与层级结构。Thiel（2006）给出了这一观点的一个著名版本：他追随 Krämer，依据柏拉图所谓“口传学说”（unwritten doctrines）重构色诺克拉底的思想，并把他呈现为把这些学说形式化为一个紧密整合的形而上学框架的人。Thiel 关于二从属于一的论证主要依据塞克斯都·恩披里柯的一段文字（《驳数学家》X §248–283），他认为这段保存了真正属色诺克拉底的材料。然而，Isnardi Parente 的文集并不把这段当作关于色诺克拉底的真实记述；早期材料也没有为“色诺克拉底认为二从属于一”这一看法提供明确支持。
+  - id: 27
+    kind: body
+    source: |-
+      Further evidence for the continuity and comprehensiveness of Xenocrates’ system is preserved by Theophrastus. In his *Metaphysics*, Theophrastus complains that Pythagoreans and the Platonists fail to give us a full story about the construction of the universe: they just go so far and stop (6a23-b1).
+    step1: |-
+      Further evidence for the continuity and comprehensiveness of Xenocrates’ system is preserved by Theophrastus. In his *Metaphysics*, Theophrastus complains that Pythagoreans and the Platonists fail to give us a full story about the construction of the universe: they just go so far and stop (6a23-b1).
+    step2: |-
+      关于色诺克拉底体系之连续性与完备性的更多证据，由特奥弗拉斯托斯保存。特奥弗拉斯托斯在其《形而上学》中抱怨，毕达哥拉斯派与柏拉图派未能就宇宙的构造给出完整说明：他们只走到某一步便停下了（6a23–b1）。
+  - id: 28
+    kind: body
+    source: |-
+      > At present, however, having arrived at a certain [point], many, certainly, stop completely, as do too those who posit the one and the indefinite dyad; for having generated numbers and planes and solids, they leave out almost everything else except to the extent of apprehending and declaring only this much, that some things are [generated] from the indefinite dyad […] and others from the numbers and the one […]—but of the heavens and the rest they make no further mention whatsoever.
+    step1: |-
+      > At present, however, having arrived at a certain [point], many, certainly, stop completely, as do too those who posit the one and the indefinite dyad; for having generated numbers and planes and solids, they leave out almost everything else except to the extent of apprehending and declaring only this much, that some things are [generated] from the indefinite dyad […] and others from the numbers and the one […]—but of the heavens and the rest they make no further mention whatsoever.
+    step2: |-
+      > 然而目前，许多人到达某一点便彻底停下了——设定一与不定的二的那些人也是如此；因为他们生成了数与面、立体之后，几乎把其余一切都撇下不管，只是把握并宣称这么多：有些东西〔生成〕于不定的二 […] 另一些则出于数与一 […]——至于天界及其余事物，他们只字未提。
+  - id: 29
+    kind: body
+    source: |-
+      Then he says (6b6–10):
+    step1: |-
+      Then he says (6b6–10):
+    step2: |-
+      接着他说（6b6–10）：
+  - id: 30
+    kind: body
+    source: |-
+      > And likewise neither do those around Speusippus nor anyone of the others except Xenocrates; for he does somehow provide everything about the universe, alike sensibles, intelligibles, mathematicals, and, what is more, the divine [things]. (transl. Gutas (2010). For the commentary, see 311–312)
+    step1: |-
+      > And likewise neither do those around Speusippus nor anyone of the others except Xenocrates; for he does somehow provide everything about the universe, alike sensibles, intelligibles, mathematicals, and, what is more, the divine [things]. (transl. Gutas (2010). For the commentary, see 311–312)
+    step2: |-
+      > 同样，斯彪西波周围的人以及其他任何人也都如此，唯有色诺克拉底除外；因为他的确以某种方式提供了关于宇宙的一切：可感觉者、可理知者、数学对象，而且还有神性〔事物〕。（Gutas 2010 英译；相关疏解见同书 311–312 页）
+  - id: 31
+    kind: body
+    source: |-
+      So, while Aristotle portrays Xenocrates’ account of the universe as granting continuity to the universe (in contrast to that of Speusippus), Theophrastus emphasizes its comprehensiveness: Xenocrates provides an account that encompasses every level of reality, from intelligibles to perceptibles (on Xenocrates’ bridging of metaphysical entities to perceptibles, see Horky 2022)[^horky-2022].
+    step1: |-
+      So, while Aristotle portrays Xenocrates’ account of the universe as granting continuity to the universe (in contrast to that of Speusippus), Theophrastus emphasizes its comprehensiveness: Xenocrates provides an account that encompasses every level of reality, from intelligibles to perceptibles (on Xenocrates’ bridging of metaphysical entities to perceptibles, see Horky 2022)[^horky-2022].
+    step2: |-
+      因此，亚里士多德把色诺克拉底的宇宙说明描绘为赋予宇宙以连续性（与斯彪西波的说法相对），特奥弗拉斯托斯则强调其完备性：色诺克拉底给出的说明涵盖现实的每一层级，从可理知者到可感觉者（关于色诺克拉底如何把形而上学实体与可感觉者衔接起来，见 Horky 2022）[^horky-2022]。
+  - id: 32
+    kind: body
+    source: |-
+      Besides offering a general breakdown of the components of Xenocrates’ world (an attempt to reconcile this evidence with other testimonia can be found in Horky 2013)[^horky-2013][^horky-2013-2], Theophrastus’ mention of ‘divine things’ is particularly noteworthy. The claim that these, too, received a specific account and were accommodated within the system appears to reflect a broader tendency, already detectable in Plato’s later dialogues, and further developed within the Academy (especially in the *Epinomis*; see Aronadio-Tulli-Petrucci 2018 and Calchi 2020)[^aronadio-2018], to associate traditional gods with metaphysical principles and celestial bodies, thus drawing theology into the domain of metaphysics (for this tendency in the Academy, see Thiel 2006; Dillon 2020; Bartninkas 2023)[^bartninkas-2023][^dillon-2020][^thiel-2006]. A passage in Aëtius (Aëtius, I, 7 30 = fr. 133 IP, see Mansfeld-Runia 2020, 400 n. *ad* §20)[^mansfeld-2020] seems to reflect precisely this kind of theological-metaphysical integration. It reports that Xenocrates identified the One and the Dyad as gods — the former male, the latter female—, regarded the heavenly bodies as divine, and populated his sublunary world with *daimones*. How much of the information preserved in this testimony can be taken at face value is difficult to determine, as reconciling its details with what we know of Xenocrates’ metaphysics raises several problems (as Dillon 2003 rightly notes, against the interpretation proposed by Baltes 1988 and largely accepted by Thiel 2006)[^baltes-1988][^dillon-2003][^thiel-2006]. Yet, even if the specifics are uncertain, this and similar passages still testify to the general tendency to bridge metaphysics and theology.
+    step1: |-
+      Besides offering a general breakdown of the components of Xenocrates’ world (an attempt to reconcile this evidence with other testimonia can be found in Horky 2013)[^horky-2013][^horky-2013-2], Theophrastus’ mention of ‘divine things’ is particularly noteworthy. The claim that these, too, received a specific account and were accommodated within the system appears to reflect a broader tendency, already detectable in Plato’s later dialogues, and further developed within the Academy (especially in the *Epinomis*; see Aronadio-Tulli-Petrucci 2018 and Calchi 2020)[^aronadio-2018], to associate traditional gods with metaphysical principles and celestial bodies, thus drawing theology into the domain of metaphysics (for this tendency in the Academy, see Thiel 2006; Dillon 2020; Bartninkas 2023)[^bartninkas-2023][^dillon-2020][^thiel-2006]. A passage in Aëtius (Aëtius, I, 7 30 = fr. 133 IP, see Mansfeld-Runia 2020, 400 n. *ad* §20)[^mansfeld-2020] seems to reflect precisely this kind of theological-metaphysical integration. It reports that Xenocrates identified the One and the Dyad as gods — the former male, the latter female—, regarded the heavenly bodies as divine, and populated his sublunary world with *daimones*. How much of the information preserved in this testimony can be taken at face value is difficult to determine, as reconciling its details with what we know of Xenocrates’ metaphysics raises several problems (as Dillon 2003 rightly notes, against the interpretation proposed by Baltes 1988 and largely accepted by Thiel 2006)[^baltes-1988][^dillon-2003][^thiel-2006]. Yet, even if the specifics are uncertain, this and similar passages still testify to the general tendency to bridge metaphysics and theology.
+    step2: |-
+      除了对色诺克拉底世界之构成要素作总体划分之外（试图把这一证据与其他证言加以调和者，见 Horky 2013）[^horky-2013][^horky-2013-2]，特奥弗拉斯托斯提到“神性事物”尤为值得注意。他说这些东西也得到了专门说明并被安置在体系之内，这似乎反映出一种更广的倾向：把传统诸神与形而上学本原及天体联系起来，从而把神学引入形而上学的领域。这一倾向在柏拉图晚期对话中已可察觉，并在学园内部进一步发展（尤其在《厄庇诺米斯》中；见 Aronadio-Tulli-Petrucci 2018 与 Calchi 2020）[^aronadio-2018]（关于学园中的这一倾向，见 Thiel 2006；Dillon 2020；Bartninkas 2023）[^bartninkas-2023][^dillon-2020][^thiel-2006]。埃提乌斯的一则记载（埃提乌斯 I, 7 30 = fr. 133 IP，见 Mansfeld-Runia 2020, 400 n. *ad* §20）[^mansfeld-2020]似乎恰恰反映了这类神学-形而上学的整合。它说色诺克拉底把一与二认作神——前者为男，后者为女——把天体视为神圣，并以精灵（*daimones*）填充月下世界。这则证言所保存的信息有多少可以照字面采信，难以断定，因为要把其中细节与我们已知的色诺克拉底形而上学调和起来，会引出若干问题（正如 Dillon 2003 正确地指出的那样，其说反对 Baltes 1988 的解释，而 Thiel 2006 大体接受了后者）[^baltes-1988][^dillon-2003][^thiel-2006]。然而，即便细节不确定，这则及类似段落仍然证明了沟通形而上学与神学的普遍倾向。
+  - id: 33
+    kind: body
+    source: |-
+      We hear more about the gods, *daimones*, and men from Plutarch, who tells us (*De defectu oraculorum* 416c-d = fr. 142 IP) that Xenocrates associated them with types of triangles: gods with equilateral ones, *daimones* with isosceles ones, and men with scalene triangles. Just as isosceles triangles are intermediate between equilateral and scalene triangles, so *daimones* occupy an intermediate position between gods and men. Another version of this association between the souls of *daimones* and triangles is recorded by Proclus (Procl. *In Resp*. 2, 48,4ff. Kroll = fr. 143 IP). More generally, Xenocrates appears to have been the first to develop Plato’s scattered references to the ‘*daimonion*’ into a more systematic daemonological framework (Timotin 2012)[^timotin-2012]. On Xenocrates’ view, daemons can seemingly be good or evil, but in some testimonia, individual souls themselves appear to be identified with their daemons, whose moral stature determines their happiness, as Aristotle records (Arist. *Topics* II, 6 112a 32–37 = fr. 154 IP).
+    step1: |-
+      We hear more about the gods, *daimones*, and men from Plutarch, who tells us (*De defectu oraculorum* 416c-d = fr. 142 IP) that Xenocrates associated them with types of triangles: gods with equilateral ones, *daimones* with isosceles ones, and men with scalene triangles. Just as isosceles triangles are intermediate between equilateral and scalene triangles, so *daimones* occupy an intermediate position between gods and men. Another version of this association between the souls of *daimones* and triangles is recorded by Proclus (Procl. *In Resp*. 2, 48,4ff. Kroll = fr. 143 IP). More generally, Xenocrates appears to have been the first to develop Plato’s scattered references to the ‘*daimonion*’ into a more systematic daemonological framework (Timotin 2012)[^timotin-2012]. On Xenocrates’ view, daemons can seemingly be good or evil, but in some testimonia, individual souls themselves appear to be identified with their daemons, whose moral stature determines their happiness, as Aristotle records (Arist. *Topics* II, 6 112a 32–37 = fr. 154 IP).
+    step2: |-
+      关于神、精灵与人，我们从普鲁塔克那里听到更多。他告诉我们（《论神谕的衰歇》416c–d = fr. 142 IP），色诺克拉底把三者与三角形类型联系起来：神对应等边三角形，精灵对应等腰三角形，人对应不等边三角形。正如等腰三角形介于等边与不等边三角形之间，精灵也处于神与人之间的中间位置。普罗克洛斯记录了精灵灵魂与三角形之联系的另一个版本（普罗克洛斯《〈理想国〉注》2, 48,4ff. Kroll = fr. 143 IP）。更一般地说，色诺克拉底似乎是第一个把柏拉图关于“精灵”（*daimonion*）的零散提及发展成较为系统的精灵学框架的人（Timotin 2012）[^timotin-2012]。在色诺克拉底看来，精灵似乎有善有恶；但在某些证言中，个体灵魂本身似乎就与其精灵同一，而精灵的道德品格决定其幸福——亚里士多德如此记载（亚里士多德《论题篇》II, 6 112a32–37 = fr. 154 IP）。
+  - id: 34
+    kind: body
+    source: |-
+      In addition, there are isolated snatches of other views of Xenocrates that might fall under the heading ‘metaphysics’.
+    step1: |-
+      In addition, there are isolated snatches of other views of Xenocrates that might fall under the heading ‘metaphysics’.
+    step2: |-
+      此外，还有一些零散片段涉及色诺克拉底的其他观点，或许可归入“形而上学”标题之下。
+  - id: 35
+    kind: body
+    source: |-
+      Simplicius, in his commentary on Aristotle’s *Categories* (*In Arist. Cat.* 63.22–5 Kalbfleisch = fr. 15 IP) tells us that Xenocrates objected to Aristotle’s list of ten categories defending that all that was needed was the distinction —already outlined by Plato in the (*Sophist* 255c-d) — between things that are ‘by virtue of themselves’ and things that are ‘relative to something’ (Dancy 1999; Granieri 2021)[^dancy-1999][^granieri-2021].
+    step1: |-
+      Simplicius, in his commentary on Aristotle’s *Categories* (*In Arist. Cat.* 63.22–5 Kalbfleisch = fr. 15 IP) tells us that Xenocrates objected to Aristotle’s list of ten categories defending that all that was needed was the distinction —already outlined by Plato in the (*Sophist* 255c-d) — between things that are ‘by virtue of themselves’ and things that are ‘relative to something’ (Dancy 1999; Granieri 2021)[^dancy-1999][^granieri-2021].
+    step2: |-
+      辛普里丘在其《亚里士多德〈范畴篇〉注》（*In Arist. Cat.* 63.22–5 Kalbfleisch = fr. 15 IP）中告诉我们，色诺克拉底反对亚里士多德的十范畴表，主张只需区分“依自身而在者”与“相对于某物者”——柏拉图在《智者篇》255c–d 已勾画出这一区分（Dancy 1999；Granieri 2021）[^dancy-1999][^granieri-2021]。
+  - id: 36
+    kind: body
+    source: |-
+      A text preserved in Arabic (Pines 1961; the text is re-printed in Isnardi Parente’s edition as fr. 42)[^pines-1961] has Alexander of Aphrodisias criticizing Xenocrates for saying that the species is prior to the genus on the grounds that, just as parts are prior to wholes, the genus, being an element in the definition of the species, is a part of it (the most recent discussion of the material, along with a translation of the passage, can be found in Rashed 2004)[^rashed-2004].
+    step1: |-
+      A text preserved in Arabic (Pines 1961; the text is re-printed in Isnardi Parente’s edition as fr. 42)[^pines-1961] has Alexander of Aphrodisias criticizing Xenocrates for saying that the species is prior to the genus on the grounds that, just as parts are prior to wholes, the genus, being an element in the definition of the species, is a part of it (the most recent discussion of the material, along with a translation of the passage, can be found in Rashed 2004)[^rashed-2004].
+    step2: |-
+      一篇以阿拉伯文保存的文本（Pines 1961；该文本重印于 Isnardi Parente 版 fr. 42）[^pines-1961]记载，阿弗罗狄西亚的亚历山大批评色诺克拉底主张“种先于属”：其理由是，正如部分先于整体，属既然是种之定义中的一个要素，便是种的一部分（关于这批材料的最新讨论及该段译文，见 Rashed 2004）[^rashed-2004]。
+  - id: 37
+    kind: body
+    source: |-
+      A long passage in Themistius’ *Paraphrase of Aristotle’s* *De anima* (= frs. 178–180 IP, new critical edition by García Valverde 2024)[^garcía-2024] seems to stem from Xenocrates’ *On Nature* (at 11.37–12.1 Themistius says “It is possible to gather all these {things} from the *On Nature* of Xenocrates”). This is a discussion of a story about the composition of the soul from the Form-Numbers 1, 2, 3, and 4 (although 1 was not normally considered a number), mentioned in Arist. *De anima* 408b18–27. The motivation for this account of the soul, in both Aristotle and Themistius, is the explanation of how we can know things about the universe: the universe derives from those numbers, and so, if the soul is similarly derived, the soul can know things under the principle that like things are known by like. It remains uncertain, however, how much of this account can be securely attributed to Xenocrates.
+    step1: |-
+      A long passage in Themistius’ *Paraphrase of Aristotle’s* *De anima* (= frs. 178–180 IP, new critical edition by García Valverde 2024)[^garcía-2024] seems to stem from Xenocrates’ *On Nature* (at 11.37–12.1 Themistius says “It is possible to gather all these {things} from the *On Nature* of Xenocrates”). This is a discussion of a story about the composition of the soul from the Form-Numbers 1, 2, 3, and 4 (although 1 was not normally considered a number), mentioned in Arist. *De anima* 408b18–27. The motivation for this account of the soul, in both Aristotle and Themistius, is the explanation of how we can know things about the universe: the universe derives from those numbers, and so, if the soul is similarly derived, the soul can know things under the principle that like things are known by like. It remains uncertain, however, how much of this account can be securely attributed to Xenocrates.
+    step2: |-
+      特米斯提乌斯《亚里士多德〈论灵魂〉释义》中的一段长文（= frs. 178–180 IP；新校勘本见 García Valverde 2024）[^garcía-2024]似乎源出色诺克拉底的《论自然》（在 11.37–12.1 处，特米斯提乌斯说“所有这些〔内容〕都可以从色诺克拉底的《论自然》中辑出”）。这段讨论的是一则关于灵魂由形式数 1、2、3、4 构成的说法（尽管 1 通常不被视为数），亚里士多德在《论灵魂》408b18–27 提及此事。在亚里士多德与特米斯提乌斯那里，这一灵魂说的动因都在于说明我们如何能认识宇宙中的事物：宇宙由那些数派生而来；因此，若灵魂也以类似方式派生，灵魂便能按“同类为同类所知”的原则认识事物。不过，这段记载有多少可以稳妥地归于色诺克拉底，仍然不确定。
+  - id: 38
+    kind: body
+    source: |-
+      ## 2. Xenocrates and the *Timaeus*
+    step1: |-
+      ## 2. Xenocrates and the *Timaeus*
+    step2: |-
+      ## 2 色诺克拉底与《蒂迈欧篇》
+  - id: 39
+    kind: body
+    source: |-
+      A very puzzling definition of the soul is attributed to Xenocrates: the soul is “a self-moving number” (see Aristotle, *De Anima* I, 2 404b27–30 = fr. 85 IP. The ascription to Xenocrates is supported by a substantial number of testimonia collected by Isnardi Parente as frs. 85–132 IP). Unfortunately, the sources tell us little about the philosophical gist of this definition, which Aristotle says is introduced to account for the soul’s motive and cognitive functions, but which he criticizes in various occasions (e.g., *Topics* III, 6 120b 3–4 = fr. 87 IP. On Aristotle’s criticism of Xenocrates’ definition of the soul, see Carter 2019, 103–122)[^carter-2019].
+    step1: |-
+      A very puzzling definition of the soul is attributed to Xenocrates: the soul is “a self-moving number” (see Aristotle, *De Anima* I, 2 404b27–30 = fr. 85 IP. The ascription to Xenocrates is supported by a substantial number of testimonia collected by Isnardi Parente as frs. 85–132 IP). Unfortunately, the sources tell us little about the philosophical gist of this definition, which Aristotle says is introduced to account for the soul’s motive and cognitive functions, but which he criticizes in various occasions (e.g., *Topics* III, 6 120b 3–4 = fr. 87 IP. On Aristotle’s criticism of Xenocrates’ definition of the soul, see Carter 2019, 103–122)[^carter-2019].
+    step2: |-
+      有一个令人十分费解的灵魂定义被归于色诺克拉底：灵魂是“自行运动的数”（见亚里士多德《论灵魂》I, 2 404b27–30 = fr. 85 IP。归于色诺克拉底这一归属，有 Isnardi Parente 编为 frs. 85–132 IP 的大量证言支持）。遗憾的是，材料对这一概念的哲学要旨所言甚少。亚里士多德说引入它是为了说明灵魂的运动功能与认知功能，但他屡次加以批评（例如《论题篇》III, 6 120b3–4 = fr. 87 IP。关于亚里士多德对色诺克拉底灵魂定义的批评，见 Carter 2019, 103–122）[^carter-2019]。
+  - id: 40
+    kind: body
+    source: |-
+      Thanks to Plutarch, however, we have some further insight into Xenocrates’ psychology. In the *De animae procreatione in Timaeo* we find the following description:
+    step1: |-
+      Thanks to Plutarch, however, we have some further insight into Xenocrates’ psychology. In the *De animae procreatione in Timaeo* we find the following description:
+    step2: |-
+      不过，多亏普鲁塔克，我们对色诺克拉底的心理学还能有进一步的了解。在《论〈蒂迈欧篇〉中灵魂的生成》中，我们看到如下描述：
+  - id: 41
+    kind: body
+    source: |-
+      > Since, however, of the men most highly esteemed some were won over by Xenocrates, who declared the soul’s essence to be number itself being moved by itself, and others adhered to Crantor of Soli, who makes the soul a mixture of the intelligible nature and of the opinable nature of perceptible things, I think that the clarification of these two when exposed will afford us something like a key-note. The former believes that nothing but the generation of number is signified by the mixture of the indivisible and divisible being, the one being indivisible and multiplicity divisible and number being the product of these when the one bounds multiplicity and inserts a limit in infinitude, which they call indefinite dyad too […]. But they believe that this number is not yet soul, for it lacks motivity and mobility but that after the commingling of sameness and difference, the latter of which is the principle of motion and change while the former is that of rest, then the product is soul, soul being a faculty of bringing to a stop and being at rest no less than of being in motion and setting in motion. (Plut. *De an. procr. in Tim.* 1012 d2-f1 = fr. 108IP, transl. Cherniss)
+    step1: |-
+      > Since, however, of the men most highly esteemed some were won over by Xenocrates, who declared the soul’s essence to be number itself being moved by itself, and others adhered to Crantor of Soli, who makes the soul a mixture of the intelligible nature and of the opinable nature of perceptible things, I think that the clarification of these two when exposed will afford us something like a key-note. The former believes that nothing but the generation of number is signified by the mixture of the indivisible and divisible being, the one being indivisible and multiplicity divisible and number being the product of these when the one bounds multiplicity and inserts a limit in infinitude, which they call indefinite dyad too […]. But they believe that this number is not yet soul, for it lacks motivity and mobility but that after the commingling of sameness and difference, the latter of which is the principle of motion and change while the former is that of rest, then the product is soul, soul being a faculty of bringing to a stop and being at rest no less than of being in motion and setting in motion. (Plut. *De an. procr. in Tim.* 1012 d2-f1 = fr. 108IP, transl. Cherniss)
+    step2: |-
+      > 然而，在最受推崇的人物中，有人信从色诺克拉底——他宣称灵魂的本质就是自行运动的数本身；另一些人则追随索利的克朗托尔，后者把灵魂说成可理知本性同可感觉事物的可意见本性之混合。我认为，把这两说阐明出来，将给我们提供某种类似基调的东西。前者认为，不可分存在与可分存在的混合所意味的，无非是数的生成：一是不可分的，多样性是可分的，而当一把多样性限定起来、在无限中置入一个界限（他们亦称此为不定的二）时，数便是二者的产物 […] 。但他们认为这个数还不是灵魂，因为它缺乏运动力与可动性；而在同与异混合之后——异是运动与变化的本原，同是静止的本原——产物才是灵魂；灵魂是一种既能停止、静止，也同样能运动、使运动的能力。（普鲁塔克《论〈蒂迈欧篇〉中灵魂的生成》1012 d2–f1 = fr. 108 IP，Cherniss 英译）
+  - id: 42
+    kind: body
+    source: |-
+      Setting aside the issue of the reliability of its sources (the information is possibly mediated through Eudorus, and thus to be taken with caution), Plutarch’s testimony offers more than a bare definition: it provides a glimpse into Xenocrates’ broader account of the soul. First, we learn that the definition is introduced in the context of interpreting *Timaeus* 35a, a key passage for early Platonists, who frequently used the *Timaeus*’ psychogony to formulate their own views of the soul. Second, Plutarch presents Xenocrates as conceiving of the Timaean psychogony as a two-stage process (a pattern followed by ancient Platonists down to Proclus; see Opsomer 2020)[^opsomer-2020]. The first stage consists in the generation of Number, understood as a mixture of the One and the Indefinite Dyad, here identified with indivisible and divisible being, respectively. Then, this numerical mixture is combined with Sameness and Difference identified as principles of motion/change and rest, respectively, so that Number may acquire the capacities for motion, change, and permanence that are essential to the soul.
+    step1: |-
+      Setting aside the issue of the reliability of its sources (the information is possibly mediated through Eudorus, and thus to be taken with caution), Plutarch’s testimony offers more than a bare definition: it provides a glimpse into Xenocrates’ broader account of the soul. First, we learn that the definition is introduced in the context of interpreting *Timaeus* 35a, a key passage for early Platonists, who frequently used the *Timaeus*’ psychogony to formulate their own views of the soul. Second, Plutarch presents Xenocrates as conceiving of the Timaean psychogony as a two-stage process (a pattern followed by ancient Platonists down to Proclus; see Opsomer 2020)[^opsomer-2020]. The first stage consists in the generation of Number, understood as a mixture of the One and the Indefinite Dyad, here identified with indivisible and divisible being, respectively. Then, this numerical mixture is combined with Sameness and Difference identified as principles of motion/change and rest, respectively, so that Number may acquire the capacities for motion, change, and permanence that are essential to the soul.
+    step2: |-
+      暂且不论其史料可靠性问题（这些信息可能经由欧多鲁转手，因而须谨慎对待），普鲁塔克的证言提供的远不止一个干巴巴的定义：它让我们窥见色诺克拉底关于灵魂的更完整说明。第一，我们得知，这个定义是在解释《蒂迈欧篇》35a 的语境中提出的——该段对早期柏拉图派至关重要，他们常借《蒂迈欧篇》的灵魂生成说来表达自己的灵魂观。第二，普鲁塔克呈现的色诺克拉底把《蒂迈欧篇》的灵魂生成理解为两阶段过程（古代柏拉图派直至普罗克洛斯都沿用这一模式；见 Opsomer 2020）[^opsomer-2020]。第一阶段是数的生成：数被理解为与不定的二的混合，此处分别等同于不可分存在与可分存在。接着，这个数的混合物再与同和异结合——二者分别被认作运动/变化与静止的本原——从而使数获得灵魂所必需的运动、变化与恒存能力。
+  - id: 43
+    kind: body
+    source: |-
+      Many aspects of Xenocrates’ account remain obscure. Should the Number mentioned here be identified with Form-Numbers? Why the emphasis on the soul’s capacity for self-motion, a feature not emphasised (and arguably even denied) in the *Timaeus* (see Petrucci 2018, 280–281 for discussion)? For this reason, some interpreters (e.g., Sedley 2021)[^sedley-2021] have suggested that the *Phaedrus* also forms part of the background. Given Xenocrates’ seeming reception of themes developed in Plato’s later dialogues, his pronounced theological interests, and his tendency to associate cosmic components with divine entities, it is not implausible to suppose that *Laws* X also contributes to the picture.
+    step1: |-
+      Many aspects of Xenocrates’ account remain obscure. Should the Number mentioned here be identified with Form-Numbers? Why the emphasis on the soul’s capacity for self-motion, a feature not emphasised (and arguably even denied) in the *Timaeus* (see Petrucci 2018, 280–281 for discussion)? For this reason, some interpreters (e.g., Sedley 2021)[^sedley-2021] have suggested that the *Phaedrus* also forms part of the background. Given Xenocrates’ seeming reception of themes developed in Plato’s later dialogues, his pronounced theological interests, and his tendency to associate cosmic components with divine entities, it is not implausible to suppose that *Laws* X also contributes to the picture.
+    step2: |-
+      色诺克拉底这一说明的许多方面仍然晦暗不明。这里提到的数应当等同于形式数吗？为什么强调灵魂的自行运动能力——这一特征在《蒂迈欧篇》中并未受到强调（甚至可以说遭到否定；讨论见 Petrucci 2018, 280–281）？正因如此，有些解释者（例如 Sedley 2021）[^sedley-2021]提出，《斐德罗篇》也构成背景的一部分。鉴于色诺克拉底似乎接受了柏拉图晚期对话所发展的主题，其鲜明的神学兴趣，以及把宇宙构成要素与神圣实体相联系的倾向，设想《法篇》第十卷也对这幅图景有所贡献，并非不近情理。
+  - id: 44
+    kind: body
+    source: |-
+      Xenocrates is also mentioned in connection with the so-called ‘metaphorical’ interpretation of the cosmogony in the *Timaeus*, according to which some early Platonists claimed that Plato’s account of the world’s ‘generation’ was meant as a pedagogical device (Centrone 2010; on the topic, see also Reydams-Schils 2012; Dillon 2012)[^centrone-2010][^dillon-2012][^reydams-schils-2012]. According to these Platonists, Plato did not mean to suggest that the world ever came to be *in time*: its generation was an illustrative metaphor, just as geometers make their figures clearer by showing them in the process of being drawn. The earliest source for this information is Aristotle (*De caelo* I 10, 279b32–280a2 = fr. 73 IP), who refers only to “some people”. It is Simplicius who reports that Aristotle had in mind above all ‘Xenocrates and the Platonists’ (*In Cael*. 303,34–304,16 = fr. 74 IP) and the same identification is found in an anonymous scholion, which explicitly names both Speusippus and Xenocrates as attempting to ‘come to the rescue’ of Plato (*Scholia in Arist. De Caelo* 409a9–12 Brandis = fr. 76 IP). The *De caelo* testimony itself is, however, less explicit than much of the scholarship has assumed. First, Aristotle consistently attributes to these unnamed Platonists the claim that the world is ‘indestructible and yet generated.’ Second, Aristotle rejects the comparison with diagrams by appealing to the text of the *Timaeus* (*Tim.* 30a): order, he says, cannot arise from disorder without a process of generation and therefore without time; by contrast, in diagrams nothing is separated in time. But why would Aristotle use a *literal* reading of the *Timaeus* to reject a supposedly *metaphorical* interpretation? Dörrie and Baltes (1998) argue that Aristotle’s rejection of the metaphor is a *petitio principii*. For further discussion, see De Cesaris 2023a. It is likely, then, that the later Platonist tradition played a role in developing the early Platonists’ view into a more explicit affirmation of the world’s ungeneratedness.
+    step1: |-
+      Xenocrates is also mentioned in connection with the so-called ‘metaphorical’ interpretation of the cosmogony in the *Timaeus*, according to which some early Platonists claimed that Plato’s account of the world’s ‘generation’ was meant as a pedagogical device (Centrone 2010; on the topic, see also Reydams-Schils 2012; Dillon 2012)[^centrone-2010][^dillon-2012][^reydams-schils-2012]. According to these Platonists, Plato did not mean to suggest that the world ever came to be *in time*: its generation was an illustrative metaphor, just as geometers make their figures clearer by showing them in the process of being drawn. The earliest source for this information is Aristotle (*De caelo* I 10, 279b32–280a2 = fr. 73 IP), who refers only to “some people”. It is Simplicius who reports that Aristotle had in mind above all ‘Xenocrates and the Platonists’ (*In Cael*. 303,34–304,16 = fr. 74 IP) and the same identification is found in an anonymous scholion, which explicitly names both Speusippus and Xenocrates as attempting to ‘come to the rescue’ of Plato (*Scholia in Arist. De Caelo* 409a9–12 Brandis = fr. 76 IP). The *De caelo* testimony itself is, however, less explicit than much of the scholarship has assumed. First, Aristotle consistently attributes to these unnamed Platonists the claim that the world is ‘indestructible and yet generated.’ Second, Aristotle rejects the comparison with diagrams by appealing to the text of the *Timaeus* (*Tim.* 30a): order, he says, cannot arise from disorder without a process of generation and therefore without time; by contrast, in diagrams nothing is separated in time. But why would Aristotle use a *literal* reading of the *Timaeus* to reject a supposedly *metaphorical* interpretation? Dörrie and Baltes (1998) argue that Aristotle’s rejection of the metaphor is a *petitio principii*. For further discussion, see De Cesaris 2023a. It is likely, then, that the later Platonist tradition played a role in developing the early Platonists’ view into a more explicit affirmation of the world’s ungeneratedness.
+    step2: |-
+      色诺克拉底还被与《蒂迈欧篇》宇宙生成论的所谓“隐喻”解释联系在一起：按此解释，某些早期柏拉图派声称，柏拉图关于世界“生成”的叙述只是一套教学手段（Centrone 2010；关于此问题另见 Reydams-Schils 2012；Dillon 2012）[^centrone-2010][^dillon-2012][^reydams-schils-2012]。按这些柏拉图派，柏拉图并非想说世界曾在时间中生成：世界的生成是一个说明性的隐喻，正如几何学家通过展示作图过程使其图形更清晰。关于此事的最早材料是亚里士多德（《论天》I 10, 279b32–280a2 = fr. 73 IP），但他只提到“某些人”。是辛普里丘告诉我们，亚里士多德心里首先指的是“色诺克拉底与柏拉图派”（《论天注》303,34–304,16 = fr. 74 IP）；同样的归属也见于一则匿名旁注，其中明确点出斯彪西波与色诺克拉底都试图“为柏拉图解围”（《亚里士多德〈论天〉旁注》409a9–12 Brandis = fr. 76 IP）。然而，《论天》这则证言本身并不像许多学者所假定的那样明确。首先，亚里士多德一贯把“世界不可毁灭却又生成”这一主张归于这些未点名的柏拉图派。其次，亚里士多德反驳与图表的类比时诉诸《蒂迈欧篇》原文（《蒂迈欧篇》30a）：他说，若无生成过程、因而若无时间，秩序便不能从无序中产生；相反，在图表中并没有任何东西在时间上分离。可是，亚里士多德为什么要用对《蒂迈欧篇》的“字面”读法，去反驳一种据说是“隐喻”的解释呢？Dörrie 与 Baltes（1998）主张，亚里士多德对隐喻说的反驳是窃取论点（*petitio principii*）。进一步讨论见 De Cesaris 2023a。因此，很可能是后来的柏拉图主义传统起了作用，把早期柏拉图派的看法发展成对世界“非生成”的更明确肯定。
+  - id: 45
+    kind: body
+    source: |-
+      ## 3. Theory of Knowledge
+    step1: |-
+      ## 3. Theory of Knowledge
+    step2: |-
+      ## 3 知识论
+  - id: 46
+    kind: body
+    source: |-
+      As already noted, the theory of knowledge comes under the heading ‘logic’ in Sextus Empiricus. No one reports anything for Xenocrates about what we would think of as ‘pure’ logic; Sextus (*Adv. math.* VII §147–149 = fr. 2 IP) gives us a scrap about epistemology. Xenocrates is supposed to have divided all substances or beings into three groups: perceptible, intelligible, and believable (also referred to as ‘composite’ and ‘mixed’). The intelligible ones were objects of knowledge, which Xenocrates called ‘epistemonic *logos*’ or ‘knowing account’, and they were ‘located’ outside the heavens. The perceptible ones were objects of perception, which was a faculty capable of attaining truth but not the same truth as knowledge; they were within the heavens. The composite ones were the heavenly bodies themselves, and they were objects of belief, which is sometimes true and sometimes false.
+    step1: |-
+      As already noted, the theory of knowledge comes under the heading ‘logic’ in Sextus Empiricus. No one reports anything for Xenocrates about what we would think of as ‘pure’ logic; Sextus (*Adv. math.* VII §147–149 = fr. 2 IP) gives us a scrap about epistemology. Xenocrates is supposed to have divided all substances or beings into three groups: perceptible, intelligible, and believable (also referred to as ‘composite’ and ‘mixed’). The intelligible ones were objects of knowledge, which Xenocrates called ‘epistemonic *logos*’ or ‘knowing account’, and they were ‘located’ outside the heavens. The perceptible ones were objects of perception, which was a faculty capable of attaining truth but not the same truth as knowledge; they were within the heavens. The composite ones were the heavenly bodies themselves, and they were objects of belief, which is sometimes true and sometimes false.
+    step2: |-
+      如前所述，在塞克斯都·恩披里柯那里，知识论归在“逻辑学”标题之下。没有人报道过色诺克拉底在我们今天认为的“纯”逻辑方面有何主张；塞克斯都（《驳数学家》VII §147–149 = fr. 2 IP）给我们留下关于认识论的一鳞半爪。据说色诺克拉底把一切实体或存在者分为三类：可感觉的、可理知的、可信的（后一类也称“复合的”与“混合的”）。可理知者是知识的对象，色诺克拉底称之为“知识性逻各斯”（epistemonic *logos*）或“认知的说明”，它们“位于”天界之外。可感觉者是感觉的对象，感觉是一种能达到真理、但所达真理不同于知识的官能；它们位于天界之内。复合者是天体本身，它们是意见的对象，而意见有时真、有时假。
+  - id: 47
+    kind: body
+    source: |-
+      This classification of beings likely goes back to Plato’s image of the divided line (*Republic* VI, 509d-511e), which Xenocrates appears to have reworked. His tripartite division of objects recalls the one found in Aristotle, *Metaphysics* Λ1.
+    step1: |-
+      This classification of beings likely goes back to Plato’s image of the divided line (*Republic* VI, 509d-511e), which Xenocrates appears to have reworked. His tripartite division of objects recalls the one found in Aristotle, *Metaphysics* Λ1.
+    step2: |-
+      这一存在者分类很可能可追溯到柏拉图“线段之喻”（《理想国》VI, 509d–511e），色诺克拉底似乎对它作了改造。他的对象三分让人想起亚里士多德《形而上学》Λ1 中的三分。
+  - id: 48
+    kind: body
+    source: |-
+      The phrase ‘epistemonic logos’ is one Sextus also assigns to Speusippus and Democritus (*Adv. math.* VII §145); it also recalls discussions in Aristotle (e.g. Arist. *Metaph.* Z15) and the end of Plato’s *Theaetetus*. While it is difficult to pin down what precisely Xenocrates meant by this, an ‘epistemonic *logos*’ seems to correspond to an account that is constitutive of, or equivalent to, knowledge.
+    step1: |-
+      The phrase ‘epistemonic logos’ is one Sextus also assigns to Speusippus and Democritus (*Adv. math.* VII §145); it also recalls discussions in Aristotle (e.g. Arist. *Metaph.* Z15) and the end of Plato’s *Theaetetus*. While it is difficult to pin down what precisely Xenocrates meant by this, an ‘epistemonic *logos*’ seems to correspond to an account that is constitutive of, or equivalent to, knowledge.
+    step2: |-
+      塞克斯都也把“知识性逻各斯”这一表述派给斯彪西波与德谟克利特（《驳数学家》VII §145）；它也让人想起亚里士多德的一些讨论（例如《形而上学》Z15）以及柏拉图《泰阿泰德篇》的结尾。虽然难以确定色诺克拉底此语的确切含义，但“知识性逻各斯”似乎对应于一种构成知识、或等同于知识的说明。
+  - id: 49
+    kind: body
+    source: |-
+      The intelligible domain must have included the Form-Numbers dealt with above, which was also, as mentioned, the domain of mathematics, while the special place accorded to the heavens seems to explain Xenocrates’ interest for astronomy, as witnessed by the fact that one of the items in D.L.’s bibliography is ‘*On Astronomy*, 6 books’.
+    step1: |-
+      The intelligible domain must have included the Form-Numbers dealt with above, which was also, as mentioned, the domain of mathematics, while the special place accorded to the heavens seems to explain Xenocrates’ interest for astronomy, as witnessed by the fact that one of the items in D.L.’s bibliography is ‘*On Astronomy*, 6 books’.
+    step2: |-
+      可理知领域必定包括上文讨论的形式数；如前所述，这一领域也是数学的领域。至于赋予天界的特殊地位，似乎能解释色诺克拉底对天文学的兴趣——第欧根尼书目中列有“《论天文学》，6 卷”，可为佐证。
+  - id: 50
+    kind: body
+    source: |-
+      As to the sensible domain, an important testimony preserved in Porphyry (*In Ptol. Harm*. 31,1–6 = fr. 6 IP; for a defense of the authenticity of the content, see Alieva 2018) offers valuable insight into Xenocrates’ account of sense perception, particularly hearing. The passage is introduced as Xenocrates’ report of how Pythagoras discovered that musical intervals are grounded in numerical ratios, and it includes a detailed account of the mechanics of hearing. Sound (*phōnē*), it is said, originates with an impact and travels in a straight line towards the sense organ, which it sets in motion, thereby producing perception. This impact occurs in an instant, which is imperceptible to the senses due to their weakness. To illustrate this, Xenocrates draws on a visual analogy: when a spinning cone bears a single-coloured point or line, it appears as a continuous surface of colour. Likewise, the ear, unable to register the intervals of silence between discrete impacts, forms an impression (*phantasia*) of continuous sound (Alieva 2018). Hearing, Xenocrates adds, is ‘more disturbed’ than vision, but the explanatory model appears to be shared across modalities. Notably, despite their imprecision, the senses are not considered unreliable: although they cannot grasp ‘what is exact’ (*to akribēs*) — that is, they fail to apprehend their objects with full precision —, they are nonetheless able to convey some degree of truth. As Raffa (2016, 727) has emphasized, Xenocrates presents the senses as reliably reporting perceptible distinctions such as pitch, colour, or form. Moreover, our perceptual faculties are said to naturally recoil from stimuli that are disordered (such as unpleasant smells or anti-melodic sounds), while they respond favourably to those structured by numerical proportion. Xenocrates’ account thus acknowledges both the limitations and the cognitive value of the senses, embedding them within what appears to be a unified explanatory framework in which perception, though incapable of yielding knowledge, offers epistemically meaningful access to reality. In this context, music and sound are not exceptions but serve as paradigmatic illustrations of the dynamic interplay between sensory input and intelligible structure.
+    step1: |-
+      As to the sensible domain, an important testimony preserved in Porphyry (*In Ptol. Harm*. 31,1–6 = fr. 6 IP; for a defense of the authenticity of the content, see Alieva 2018) offers valuable insight into Xenocrates’ account of sense perception, particularly hearing. The passage is introduced as Xenocrates’ report of how Pythagoras discovered that musical intervals are grounded in numerical ratios, and it includes a detailed account of the mechanics of hearing. Sound (*phōnē*), it is said, originates with an impact and travels in a straight line towards the sense organ, which it sets in motion, thereby producing perception. This impact occurs in an instant, which is imperceptible to the senses due to their weakness. To illustrate this, Xenocrates draws on a visual analogy: when a spinning cone bears a single-coloured point or line, it appears as a continuous surface of colour. Likewise, the ear, unable to register the intervals of silence between discrete impacts, forms an impression (*phantasia*) of continuous sound (Alieva 2018). Hearing, Xenocrates adds, is ‘more disturbed’ than vision, but the explanatory model appears to be shared across modalities. Notably, despite their imprecision, the senses are not considered unreliable: although they cannot grasp ‘what is exact’ (*to akribēs*) — that is, they fail to apprehend their objects with full precision —, they are nonetheless able to convey some degree of truth. As Raffa (2016, 727) has emphasized, Xenocrates presents the senses as reliably reporting perceptible distinctions such as pitch, colour, or form. Moreover, our perceptual faculties are said to naturally recoil from stimuli that are disordered (such as unpleasant smells or anti-melodic sounds), while they respond favourably to those structured by numerical proportion. Xenocrates’ account thus acknowledges both the limitations and the cognitive value of the senses, embedding them within what appears to be a unified explanatory framework in which perception, though incapable of yielding knowledge, offers epistemically meaningful access to reality. In this context, music and sound are not exceptions but serve as paradigmatic illustrations of the dynamic interplay between sensory input and intelligible structure.
+    step2: |-
+      至于可感觉领域，波菲利保存的一则重要证言（《〈托勒密和声学〉注》31,1–6 = fr. 6 IP；关于其内容真实性的辩护，见 Alieva 2018）为了解色诺克拉底的感觉知觉说明、尤其是听觉，提供了宝贵线索。这段以转述色诺克拉底的方式引入：毕达哥拉斯如何发现音程以数值比率为基础；其中还详细说明了听觉的机制。声音（*phōnē*）据说起于一次撞击，沿直线传向感觉器官，使之运动，从而产生知觉。这一撞击发生于瞬间，因感官的孱弱而不被觉察。为说明这一点，色诺克拉底借用了视觉类比：当旋转的圆锥带有一个单色的点或线时，看上去是一片连续的颜色。同样，耳朵无法记录离散撞击之间的寂静间隙，便形成连续声音的印象（*phantasia*）（Alieva 2018）。色诺克拉底补充说，听觉比视觉“更受搅扰”，但这一解释模型似乎在各模态间共享。值得注意的是，感官尽管不精确，却并不被视为不可靠：它们虽不能把握“精确者”（*to akribēs*）——也就是说，它们未能以完全的精确性把握其对象——却仍能传达某种程度的真理。正如 Raffa（2016, 727）所强调的，色诺克拉底把感官呈现为可靠地报告音高、颜色或形式之类可感觉差别者。此外，据说我们的知觉官能会自然地回避失序的刺激（如难闻的气味或不合旋律的声音），而对那些由数值比例赋予结构的刺激作出积极反应。因此，色诺克拉底的说明既承认感官的局限，也承认其认知价值，并把感官安置在一个看似统一的解释框架之内：在此框架中，知觉虽不能产生知识，却提供了一种在认识上有意义的通达实在之途。在这一语境下，音乐与声音并非例外，而是感官输入与可理知结构之间动态交互的典范例证。
+  - id: 51
+    kind: body
+    source: |-
+      ## 4. Ethics
+    step1: |-
+      ## 4. Ethics
+    step2: |-
+      ## 4 伦理学
+  - id: 52
+    kind: body
+    source: |-
+      Here we are very much in the dark: what we have are mostly disconnected snippets.
+    step1: |-
+      Here we are very much in the dark: what we have are mostly disconnected snippets.
+    step2: |-
+      在这方面我们知之甚少：手头的材料多是互不连贯的片段。
+  - id: 53
+    kind: body
+    source: |-
+      Aristotle names Xenocrates twice in the *Topics.* First, at II 6. 112a37–38 (= fr. 154 IP), he ascribes to Xenocrates the view that a happy man is one with a good soul, along with the claim that one’s soul is one’s *daimon.* Then, at VII 1. 152a7–9 (= fr. 158 IP) he attributes to him an argument according to which the good life and the happy life are the same, for both are the most choiceworthy.
+    step1: |-
+      Aristotle names Xenocrates twice in the *Topics.* First, at II 6. 112a37–38 (= fr. 154 IP), he ascribes to Xenocrates the view that a happy man is one with a good soul, along with the claim that one’s soul is one’s *daimon.* Then, at VII 1. 152a7–9 (= fr. 158 IP) he attributes to him an argument according to which the good life and the happy life are the same, for both are the most choiceworthy.
+    step2: |-
+      亚里士多德在《论题篇》中两度点名色诺克拉底。首先，在 II 6. 112a37–38（= fr. 154 IP）处，他把“幸福的人即有善灵魂的人”这一观点归于色诺克拉底，并连带“人之灵魂即其精灵（*daimon*）”的主张。其次，在 VII 1. 152a7–9（= fr. 158 IP）处，他归于色诺克拉底一个论证：善的生活与幸福的生活是同一个，因为二者都最值得选择。
+  - id: 54
+    kind: body
+    source: |-
+      A clearer, albeit much later, report comes from Clement of Alexandria, who ascribes to Xenocrates the view that happiness consists in the possession of the appropriate virtue and the power necessary to act in accordance with it. Clement continues:
+    step1: |-
+      A clearer, albeit much later, report comes from Clement of Alexandria, who ascribes to Xenocrates the view that happiness consists in the possession of the appropriate virtue and the power necessary to act in accordance with it. Clement continues:
+    step2: |-
+      一则更清楚、但时代晚得多的记载来自亚历山大的克莱门。他把“幸福在于拥有合宜的德性，以及依此德性行动所必需的能力”这一观点归于色诺克拉底。克莱门接着说：
+  - id: 55
+    kind: body
+    source: |-
+      > Then, as if he wants to say where it resides, he clearly indicates the soul. For the originating causes, he points to the virtues; for its component parts he points to noble actions, and states, dispositions, motions and attitudes of high morality; for its necessary concomitants he points to physical and external circumstances. (Clement, *Strom. ii* 133 5 = fr. 150 IP, transl. Ferguson)
+    step1: |-
+      > Then, as if he wants to say where it resides, he clearly indicates the soul. For the originating causes, he points to the virtues; for its component parts he points to noble actions, and states, dispositions, motions and attitudes of high morality; for its necessary concomitants he points to physical and external circumstances. (Clement, *Strom. ii* 133 5 = fr. 150 IP, transl. Ferguson)
+    step2: |-
+      > 接着，他仿佛要说明幸福居于何处，明确指向灵魂。作为创始性的原因，他指向诸德性；作为其构成部分，他指向高尚的行为，以及具有高度道德性的状态、性情、运动与态度；作为其必要的伴随物，他指向身体方面与外在的境况。（克莱门《杂文集》ii 133,5 = fr. 150 IP，Ferguson 英译）
+  - id: 56
+    kind: body
+    source: |-
+      The passage, remarkably rich for a doxographical source, suggests that Xenocrates defined happiness as a structured whole that encompasses not only the stable possession of virtue, but also a practical capacity to enact it. Notably, the internal conditions (states, dispositions, actions) are given priority, while physical and external goods are included as necessary conditions but not constitutive parts (more on the testimony can be found in De Cesaris 2023b)[^de-2023b].
+    step1: |-
+      The passage, remarkably rich for a doxographical source, suggests that Xenocrates defined happiness as a structured whole that encompasses not only the stable possession of virtue, but also a practical capacity to enact it. Notably, the internal conditions (states, dispositions, actions) are given priority, while physical and external goods are included as necessary conditions but not constitutive parts (more on the testimony can be found in De Cesaris 2023b)[^de-2023b].
+    step2: |-
+      这段文字对于一则学说汇编性材料来说内容丰富得惊人，它表明色诺克拉底把幸福定义为一个有结构的整体：其中不仅包含对德性的稳定拥有，还包含将其付诸实践的实践能力。值得注意的是，内在条件（状态、性情、行为）得到优先地位，而身体与外在的善则作为必要条件纳入，但不构成其组成部分（关于这则证言的更多讨论，见 De Cesaris 2023b）[^de-2023b]。
+  - id: 57
+    kind: body
+    source: |-
+      Plutarch (*De communibus notitiis* 1069e-f = fr. 151 IP) attributes to Xenocrates the idea that happiness consists in living according to nature. Other reports convey related ideas, such as Xenocrates’ description of philosophical life as the “cessation of disturbance” ([Galen], *Hist. phil*. 8 = fr. 171 IP), a formulation that foreshadows Hellenistic ideals of tranquillity (*ataraxia*), though this is not made central in any extant account. These views, if genuine, seems to aim to the same sorts of goals that were typical of later Hellenistic schools.
+    step1: |-
+      Plutarch (*De communibus notitiis* 1069e-f = fr. 151 IP) attributes to Xenocrates the idea that happiness consists in living according to nature. Other reports convey related ideas, such as Xenocrates’ description of philosophical life as the “cessation of disturbance” ([Galen], *Hist. phil*. 8 = fr. 171 IP), a formulation that foreshadows Hellenistic ideals of tranquillity (*ataraxia*), though this is not made central in any extant account. These views, if genuine, seems to aim to the same sorts of goals that were typical of later Hellenistic schools.
+    step2: |-
+      普鲁塔克（《论共同概念》1069e–f = fr. 151 IP）把“幸福在于依自然而生活”的观念归于色诺克拉底。其他记载传达了相关想法，例如色诺克拉底把哲学生活描述为“扰动的止息”（[盖伦]《哲学史》8 = fr. 171 IP）——这一说法预示了希腊化时代心神宁静（*ataraxia*）的理想，尽管它在现存任何记述中都未被置于中心。这些看法若属真实，似乎指向后来希腊化各派典型的那种目标。
+  - id: 58
+    kind: body
+    source: |-
+      Although there is no reason to be overly sceptical about possible lines of continuity (after all, Xenocrates’ scolarchate is marked by the transition into the Hellenistic period) our ability to assess the relationship between his ethics and later doctrines remains limited. Much of the evidence comes from later sources, particularly Cicero and Clement, and may reflect Antiochus of Ascalon’s project of harmonising Academic and Stoic doctrines. As a result, while there are suggestive overlaps, it remains difficult to determine how far Xenocrates’ ethics genuinely prefigure Hellenistic concerns, and how much is the product of later reinterpretation within a reconciliatory agenda.
+    step1: |-
+      Although there is no reason to be overly sceptical about possible lines of continuity (after all, Xenocrates’ scolarchate is marked by the transition into the Hellenistic period) our ability to assess the relationship between his ethics and later doctrines remains limited. Much of the evidence comes from later sources, particularly Cicero and Clement, and may reflect Antiochus of Ascalon’s project of harmonising Academic and Stoic doctrines. As a result, while there are suggestive overlaps, it remains difficult to determine how far Xenocrates’ ethics genuinely prefigure Hellenistic concerns, and how much is the product of later reinterpretation within a reconciliatory agenda.
+    step2: |-
+      尽管没有理由对可能的连续性线索过度怀疑（毕竟，色诺克拉底任园长之时正值向希腊化时代的过渡），我们评估其伦理学与后世学说之关系的能力仍然有限。许多证据来自较晚的材料，尤其是西塞罗与克莱门，它们可能反映了阿斯卡隆的安提奥科斯调和学园派与斯多亚派学说的计划。因此，尽管存在耐人寻味的重叠，但仍难以判定色诺克拉底的伦理学在多大程度上真正预示了希腊化时代的关切，又有多少是后来的调和性议程在重新解释中的产物。
+  - id: 59
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      [Please contact the author with suggestions.]
+    step2: |-
+      [欢迎向作者提出建议。]
+  - id: 60
+    kind: ack
+    source: |-
+      As of the 2025 update, Giulia De Cesaris has taken responsibility for updating and maintaining this entry.
+    step1: |-
+      As of the 2025 update, Giulia De Cesaris has taken responsibility for updating and maintaining this entry.
+    step2: |-
+      自 2025 年更新起，Giulia De Cesaris 负责本词条的更新与维护。
