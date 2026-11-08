@@ -83,56 +83,74 @@ segments:
     kind: body
     source: |-
       There are, however, other grounds on which some have sought to reject that the early human embryo is a human being. According to one view, the cells that comprise the early embryo are a bundle of homogeneous cells that exist in the same membrane but do not form a human organism because the cells do not function in a coordinated way to regulate and preserve a single life (Smith & Brogaard 2003, McMahan 2002)[^mcmahan-2002][^smith-2003]. While each of the cells is alive, they only become parts of a human organism when there is substantial cell differentiation and coordination, which occurs around day-16 after fertilization. Thus, on this account, disaggregating the cells of the 5-day embryo to derive HESCs does not entail the destruction of a human being.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，有些人还从别的根据出发，试图否认早期人类胚胎是人。按一种看法，构成早期胚胎的细胞是一束同质的细胞，它们存在于同一层膜之内，却不构成一个人类有机体，因为这些细胞并未以协调的方式运作，以调节并维持一个单一的生命（Smith & Brogaard 2003, McMahan 2002）[^mcmahan-2002][^smith-2003]。虽然每一个细胞都是有生命的，但只有在出现实质性的细胞分化与协调之后，它们才成为人类有机体的各个部分；而这种分化与协调大约出现在受精后第 16 天。因此，按这一说法，把 5 天胚胎的细胞解离以获取 HESC，并不等于毁灭一个人。
+    step2: |-
+      不过，也有人从别的根据出发，试图否认早期人类胚胎是人。一种看法是：早期胚胎的细胞不过是一束同质细胞，它们同处一层膜内，却不构成人类有机体——因为这些细胞并不协同运作去调节、维持同一个生命（Smith & Brogaard 2003, McMahan 2002）[^mcmahan-2002][^smith-2003]。每个细胞都活着，但只有在细胞出现实质分化并彼此协调之后，它们才成为人类有机体的组成部分；这大约是受精后第 16 天的事。所以按这一说法，把 5 天胚胎的细胞解离、据以获取 HESC，并不是毁灭一个人。
   - id: 11
     kind: body
     source: |-
       This account is subject to dispute on empirical grounds. That there is some intercellular coordination in the zygote is revealed by the fact that the development of the early embryo requires that some cells become part of the trophoblast while others become part of the inner cell mass. Without some coordination between the cells, there would be nothing to prevent all cells from differentiating in the same direction (Damschen, Gomez-Lobo and Schonecker 2006). The question remains, though, whether this degree of cellular interaction is sufficient to render the early human embryo a human being. Just how much intercellular coordination must exist for a group of cells to constitute a human organism cannot be resolved by scientific facts about the embryo, but is instead an open metaphysical question (McMahan 2007a)[^mcmahan-2007a].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一说法在经验层面有争议。受精卵中确实存在某种细胞间的协调，这从下述事实可以看出：早期胚胎的发育要求一部分细胞成为滋养层的一部分，另一部分细胞成为内细胞团的一部分。若细胞之间全无协调，就没有任何东西能阻止所有细胞朝同一方向分化（Damschen, Gomez-Lobo and Schonecker 2006）。然而问题仍未解决：这种程度的细胞相互作用是否足以使早期人类胚胎成为人？一组细胞要构成人类有机体，究竟需要多少细胞间协调，这无法由关于胚胎的科学事实来解决，而是一个悬而未决的形而上学问题（McMahan 2007a）[^mcmahan-2007a]。
+    step2: |-
+      这一说法在经验层面有争议。受精卵里确实存在某种细胞间协调，证据是：早期胚胎的发育要求一部分细胞进入滋养层，另一部分细胞进入内细胞团。细胞之间若无某种协调，就挡不住所有细胞朝同一方向分化（Damschen, Gomez-Lobo and Schonecker 2006）。但问题仍在：这种程度的细胞相互作用，是否足以让早期人类胚胎成为人？一组细胞要构成人类有机体，究竟需要多少细胞间协调，靠关于胚胎的科学事实答不了，这是个悬而未决的形而上学问题（McMahan 2007a）[^mcmahan-2007a]。
   - id: 12
     kind: body
     source: |-
       ### 1.2 The moral status of human embryos
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.2 人类胚胎的道德地位
+    step2: |-
+      ### 1.2 人类胚胎的道德地位
   - id: 13
     kind: body
     source: |-
       Suppose that the 5-day human embryo is a human being. On the standard argument against HESC research, membership in the species *Homo sapiens* confers on the embryo a right not to be killed. This view is grounded in the assumption that human beings have the same moral status (at least with respect to possessing this right) at all stages of their lives.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      假设 5 天人类胚胎是人。按反对 HESC 研究的标准论证，属于 *Homo sapiens* 这一物种，就赋予胚胎一项不被杀死的权利。这一看法的根据是一个假设：人在其生命的各个阶段具有相同的道德地位（至少就拥有这项权利而言）。
+    step2: |-
+      姑且承认 5 天的人类胚胎是人。按反对 HESC 研究的标准论证，只要属于 *Homo sapiens* 物种，胚胎就获得不被杀死的权利。这一看法立足于一个假设：人在生命的各个阶段道德地位相同，至少就拥有这项权利而言如此。
   - id: 14
     kind: body
     source: |-
       Some accept that the human embryo is a human being but argue that the human embryo does not have the moral status requisite for a right to life. There is reason to think that species membership is not the property that determines a being’s moral status. We have all been presented with the relevant thought experiments, courtesy of Disney, Orwell, Kafka, and countless science fiction works. The results seem clear: we regard mice, pigs, insects, aliens, and so on, as having the moral status of persons in those possible worlds in which they exhibit the psychological and cognitive traits that we normally associate with mature human beings. This suggests that it is some higher-order mental capacity (or capacities) that grounds the right to life. While there is no consensus about the capacities that are necessary for the right to life, some of the capacities that have been proposed include reasoning, self-awareness, and agency (Kuhse & Singer 1992, Tooley 1983, Warren 1973)[^kuhse-1992][^tooley-1983][^warren-1973].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有些人接受人类胚胎是人，但主张人类胚胎不具有生命权所要求的道德地位。有理由认为，物种成员身份并不是决定一个存在者道德地位的属性。我们都见过相关的思想实验——多亏了迪士尼、奥威尔、卡夫卡以及无数科幻作品。结论似乎很清楚：在那些老鼠、猪、昆虫、外星人等等表现出我们通常与成熟的人相联系的心理与认知特征的可能世界中，我们把它们视为具有人的道德地位。这表明，为生命权提供根据的是某种（或某些）高阶心智能力。虽然对于哪些能力是生命权所必需的尚无共识，但已被提出的能力包括推理、自我意识与能动性（Kuhse & Singer 1992, Tooley 1983, Warren 1973）[^kuhse-1992][^tooley-1983][^warren-1973]。
+    step2: |-
+      也有人承认人类胚胎是人，但主张它并不具备生命权所需的那种道德地位。有理由认为，决定一个存在者道德地位的，并不是它属于哪个物种。我们都见识过相关思想实验——这要归功于迪士尼、奥威尔、卡夫卡和无数科幻作品。结论似乎很清楚：在老鼠、猪、昆虫、外星人等等表现出我们通常只在成熟的人身上见到的那些心理与认知特征的可能世界里，我们认为它们具有人的道德地位。这就提示，为生命权奠基的是某种或某些高阶心智能力。哪些能力为生命权所必需，学界尚无共识，但已被提出的有推理能力、自我意识与能动性（Kuhse & Singer 1992, Tooley 1983, Warren 1973）[^kuhse-1992][^tooley-1983][^warren-1973]。
   - id: 15
     kind: body
     source: |-
       The main difficulty for those who appeal to such mental capacities as the touchstone for the right to life is that early human infants lack these capacities, and do so to a greater degree than many of the nonhuman animals that most deem it acceptable to kill (Marquis 2002)[^marquis-2002]. This presents a challenge for those who hold that the non-consequentialist constraints on killing human children and adults apply to early human infants. Some reject that these constraints apply to infants, and allow that there may be circumstances where it is permissible to sacrifice infants for the greater good (McMahan 2007b)[^mcmahan-2007b]. Others argue that, while infants do not have the intrinsic properties that ground a right to life, we should nonetheless treat them as if they have a right to life in order to promote love and concern towards them, as these attitudes have good consequences for the persons they will become (Benn 1973, Strong 1997)[^benn-1973][^strong-1997].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对于那些把此类心智能力当作生命权试金石的人来说，主要困难在于：早期人类婴儿缺乏这些能力，而且缺乏的程度超过许多多数人认为可以杀死的非人动物（Marquis 2002）[^marquis-2002]。这对那些主张禁止杀死人类儿童与成人的非后果主义约束适用于早期人类婴儿的人，构成了挑战。有些人否认这些约束适用于婴儿，并允许在某些情形下为更大的善而牺牲婴儿（McMahan 2007b）[^mcmahan-2007b]。另一些人则论证说，虽然婴儿不具有为生命权提供根据的内在属性，我们仍应把它们当作拥有生命权来对待，以促进对它们的爱与关怀，因为这些态度对它们日后成为的人有好的后果（Benn 1973, Strong 1997）[^benn-1973][^strong-1997]。
+    step2: |-
+      把此类心智能力当作生命权试金石的人，最大的麻烦是：早期人类婴儿恰恰缺少这些能力，而且缺得比许多非人动物还厉害——多数人却认为杀死那些动物并无不可（Marquis 2002）[^marquis-2002]。这就难住了那些主张“禁止杀死人类儿童与成人”的非后果主义约束也适用于早期人类婴儿的人。有人索性否认这些约束适用于婴儿，容许在某些情形下为更大的善牺牲婴儿（McMahan 2007b）[^mcmahan-2007b]。也有人认为，婴儿虽不具备为生命权奠基的内在属性，我们仍应把它们当作有生命权者来对待，以培养对它们的爱与关怀。理由是：这些态度对它们日后长成的人会有好结果（Benn 1973, Strong 1997）[^benn-1973][^strong-1997]。
   - id: 16
     kind: body
     source: |-
       Some claim that we can reconcile the ascription of a right to life to all humans with the view that higher order mental capacities ground the right to life by distinguishing between two senses of mental capacities: “immediately exercisable” capacities and “basic natural” capacities. (George and Gomez-Lobo 2002, 260)[^george-2002]. According to this view, an individual’s immediately exercisable capacity for higher mental functions is the actualization of natural capacities for higher mental functions that exist at the embryonic stage of life. Human embryos have a “rational nature,” but that nature is not fully realized until individuals are able to exercise their capacity to reason. The difference between these types of capacity is said to be a difference between degrees of development along a continuum. There is merely a quantitative difference between the mental capacities of embryos, fetuses, infants, children, and adults (as well as among infants, children, and adults). And this difference, so the argument runs, cannot justify treating some of these individuals with moral respect while denying it to others.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有人主张，我们可以把“赋予所有人类生命权”与“高阶心智能力为生命权提供根据”这两种看法调和起来，办法是区分心智能力的两种意义：“可直接运用的”能力与“基本自然的”能力（George and Gomez-Lobo 2002, 260）[^george-2002]。按这一看法，个体对高阶心智功能的可直接运用能力，是生命胚胎阶段就已存在的高阶心智功能自然能力的现实化。人类胚胎具有“理性本性”，但这一本性要等到个体能够运用其推理能力时才完全实现。据说，这些类型的能力之间的差别，是同一连续统上发育程度的差别。胚胎、胎儿、婴儿、儿童与成人的心智能力之间只有量的差别（婴儿、儿童与成人之间也一样）。而据论证，这一差别无法证成如下做法：对其中一些个体给予道德尊重，却否认另一些个体应得此种尊重。
+    step2: |-
+      有人主张，“所有人都有生命权”与“高阶心智能力为生命权奠基”可以调和，办法是区分心智能力的两种含义：“可直接运用的”能力与“基本自然的”能力（George and Gomez-Lobo 2002, 260）[^george-2002]。照此说法，个体对高阶心智功能的“可直接运用”能力，其实是胚胎阶段就已具备的高阶心智功能自然能力的现实化。人类胚胎有“理性本性”，但这一本性要等个体真能运用推理能力时才完全实现。两类能力的差别，据说只是同一连续统上发育程度的差别。胚胎、胎儿、婴儿、儿童与成人的心智能力只有量的差别，婴儿、儿童、成人之间亦然。而据论证，这样的差别无法证成一种做法：对上述个体中的一些给予道德尊重，对另一些则不予尊重。
   - id: 17
     kind: body
     source: |-
       Given that a human embryo cannot reason at all, the claim that it has a rational nature has struck some as tantamount to asserting that it has the potential to become an individual that can engage in reasoning (Sagan & Singer 2007)[^sagan-2007]. But an entity’s having this potential does not logically entail that it has the same status as beings that have realized some or all of their potential (Feinberg 1986)[^feinberg-1986]. Moreover, with the advent of cloning technologies, the range of entities that we can now identify as potential persons arguably creates problems for those who place great moral weight on the embryo’s potential. A single somatic cell or HESC can in principle (though not yet in practice) develop into a mature human being under the right conditions—that is, where the cell’s nucleus is transferred into an enucleated egg, the new egg is electrically stimulated to create an embryo, and the embryo is transferred to a woman’s uterus and brought to term. If the basis for protecting embryos is that they have the potential to become reasoning beings, then, some argue, we have reason to ascribe a high moral status to the trillions of cells that share this potential and to assist as many of these cells as we reasonably can to realize their potential (Sagan & Singer 2007, Savulescu 1999)[^sagan-2007][^savulescu-1999]. Because this is a stance that we can expect nearly everyone to reject, it’s not clear that opponents of HESC research can effectively ground their position in the human embryo’s potential.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      鉴于人类胚胎完全不能推理，有人认为，“人类胚胎具有理性本性”这一主张无异于断言它具有成为一个能进行推理的个体的潜能（Sagan & Singer 2007）[^sagan-2007]。但一个实体具有这种潜能，在逻辑上并不蕴涵它与已经实现其部分或全部潜能的存在者地位相同（Feinberg 1986）[^feinberg-1986]。此外，随着克隆技术的出现，我们如今能认定为潜在的人的存在者范围扩大了，这可以说给那些极为看重胚胎潜能的人造成了麻烦。单个体细胞或 HESC 在原则上（尽管在实践中尚不可能）可以在适当条件下发育为成熟的人——也就是说，把该细胞的细胞核移入去核卵，对新卵施以电刺激使之成为胚胎，再把胚胎移入女性子宫并孕育至足月。如果保护胚胎的根据在于它们有成为理性存在者的潜能，那么有人主张，我们就有理由赋予共有这一潜能的数万亿个细胞以很高的道德地位，并尽力帮助其中尽可能多的细胞实现其潜能（Sagan & Singer 2007, Savulescu 1999）[^sagan-2007][^savulescu-1999]。由于这种立场几乎人人都不会接受，反对 HESC 研究的人能否有效地把立场建立在人类胚胎的潜能之上，并不清楚。
+    step2: |-
+      人类胚胎完全不会推理，因此在有些人看来，“胚胎具有理性本性”这话等于说：它有潜能成为一个会推理的个体（Sagan & Singer 2007）[^sagan-2007]。可是，一个实体有这种潜能，逻辑上并不蕴涵它与那些已实现部分或全部潜能的存在者地位相同（Feinberg 1986）[^feinberg-1986]。何况克隆技术出现之后，我们如今能称为潜在的人的存在者范围宽了许多，这给极看重胚胎潜能的人添了麻烦。单个体细胞或 HESC，原则上（实践上还不行）也能在适当条件下长成成熟的人。路径是：把它的细胞核移入去核卵，电刺激新卵使之成为胚胎，再把胚胎移入女性子宫、孕育至足月。有人因此说，若保护胚胎的根据是它有成为理性存在者的潜能，那我们就有理由赋予同样具备这一潜能的数万亿个细胞以很高的道德地位，并尽力帮助其中尽可能多的细胞实现潜能（Sagan & Singer 2007, Savulescu 1999）[^sagan-2007][^savulescu-1999]。但这种立场几乎人人都不会接受，所以反对 HESC 研究的人能否靠人类胚胎的潜能站稳立场，还很可疑。
   - id: 18
     kind: body
     source: |-
       One response to this line of argument has been to claim that embryos possess a kind of potential that somatic cells and HESCs lack. An embryo has potential in the sense of having an “active disposition” and “intrinsic power” to develop into a mature human being (Lee & George 2006)[^lee-2006]. An embryo can mature on its own in the absence of interference with its development. A somatic cell, on the other hand, does not have the inherent capacity or disposition to grow into a mature human being. However, some question whether this distinction is viable, especially in the HESC research context. While it is true that somatic cells can realize their potential only with the assistance of outside interventions, an embryo’s development also requires that numerous conditions external to it are satisfied. In the case of embryos that are naturally conceived, they must implant, receive nourishment, and avoid exposure to dangerous substances *in utero*. In the case of spare embryos created through in vitro fertilization—which are presently the source of HESCs for research—the embryos must be thawed and transferred to a willing woman’s uterus. Given the role that external factors—including technological interventions—play in an embryo’s realizing its potential, one can question whether there is a morally relevant distinction between an embryo’s and somatic cell’s potential and thus raise doubts about potentiality as a foundation for the right to life (Devolder & Harris 2007)[^devolder-2007].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对这一论证路线的一种回应是主张：胚胎具有一种体细胞与 HESC 所缺乏的潜能。胚胎有潜能，意思是它具有发育为成熟的人的“主动倾向”与“内在力量”（Lee & George 2006）[^lee-2006]。胚胎可以在不受干扰的情况下自行成熟。另一方面，体细胞并不具有长成成熟的人的固有能力或倾向。然而，有人质疑这一区分是否站得住，尤其是在 HESC 研究的语境中。体细胞确实只有在外来干预的协助下才能实现其潜能，但胚胎的发育同样要求它之外的众多条件得到满足。就自然受孕的胚胎而言，它们必须着床、获得营养，并避免在 *in utero* 接触危险物质。就通过体外受精创造的剩余胚胎而言（它们目前是研究用 HESC 的来源），胚胎必须被解冻并移植到一位愿意的女性子宫内。鉴于外部因素——包括技术干预——在胚胎实现其潜能中所起的作用，人们可以质疑胚胎的潜能与体细胞的潜能之间是否存在道德上相关的区别，从而对以潜能作为生命权的基础表示怀疑（Devolder & Harris 2007）[^devolder-2007]。
+    step2: |-
+      面对这一路论证，有人回应说：胚胎有一种体细胞与 HESC 都没有的潜能。说胚胎有潜能，意思是它有发育为成熟的人的“主动倾向”与“内在力量”（Lee & George 2006）[^lee-2006]。胚胎在发育不受干扰时可以自行成熟；体细胞则没有长成成熟的人的固有能力或倾向。但有人怀疑这一区分能否成立，在 HESC 研究的语境里尤其如此。体细胞确实只有靠外来干预才能实现潜能，可胚胎发育同样要求外部许多条件得到满足。自然受孕的胚胎必须着床、获得营养，还要避免在 *in utero* 接触危险物质。体外受精造成的剩余胚胎（目前研究用 HESC 正来源于此）则必须解冻，再移入一位愿意的女性的子宫。既然外部因素——包括技术干预——在胚胎实现潜能中起着作用，人们就可以追问：胚胎的潜能与体细胞的潜能之间，是否真有道德上相关的区别？从而对“以潜能作为生命权基础”表示怀疑（Devolder & Harris 2007）[^devolder-2007]。
   - id: 19
     kind: body
     source: |-
