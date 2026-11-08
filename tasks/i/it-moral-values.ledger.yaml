@@ -131,74 +131,122 @@ segments:
     kind: body
     source: |-
       Socrates, who was adept at quoting lines from poems and epics and placing them into his conversations, fears that those who rely on writing will never be able to truly understand and live by these words. For Socrates there is something immoral or false about writing. Books can provide information but they cannot, by themselves, give you the wisdom you need to use or deeply understand that information. Conversely, in an oral tradition you do not simply consult a library, you are the library, a living manifestation of the information you know by heart. For Socrates, reading a book is nowhere near as insightful as talking with its author. Written words,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      苏格拉底善于引用诗歌与史诗中的诗句并将其融入自己的谈话，他担心依赖书写的人永远无法真正理解这些文字并依之而活。在苏格拉底看来，书写有某种不道德或虚假的成分。书籍能提供信息，但它们本身不能给你使用或深入理解这些信息所需的智慧。相反，在口传传统中，你不仅仅是查询一座图书馆，你就是图书馆，是你所熟记的信息的活的化身。对苏格拉底来说，读一本书远不如与作者交谈那样富有洞见。书写的文字：
+
+    step2: |-
+      苏格拉底惯于把诗歌与史诗中的诗句信手拈来，织进自己的谈吐；他担心，依赖书写的人永远无法真正领会这些文字并身体力行。在苏格拉底眼里，书写总带着几分不道德或虚假。书籍固然能提供信息，却不能单凭自身给你那份智慧——用上这些信息、进而深懂这些信息所需的智慧。反观口传传统：你不是去查询一座图书馆，你本身就是图书馆，是你烂熟于心的那些信息的活的化身。对苏格拉底而言，读一本书远不及与作者面谈来得有洞见。至于书写的文字：
+
   - id: 14
     kind: body
     source: |-
       > …seem to talk to you as though they were intelligent, but if you ask them anything about what they say, from a desire to be instructed, they go on telling you the same thing forever. (Phaedrus, section 275d).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……它们似乎在和你交谈，仿佛它们有智能；但如果你出于求教的欲望问它们所说的任何一件事，它们只会永远重复同一句话。（《斐德罗篇》，275d 节）
+
+    step2: |-
+      > ……它们像是有智能似的对你说话；可你若怀着受教的愿望，就它们所说的追问一句，它们便只会把同一套话永远讲下去。（《斐德罗篇》，275d 节）
+
   - id: 15
     kind: body
     source: |-
       His criticism of writing at first glance may seem humorous but the temptation to use recall and call it memory is getting more and more prevalent in modern information technologies. Why learn anything when information is just an Internet search away? In order to avoid Socrates’ worry, information technologies should do more than just provide access to information; they should also help foster wisdom and understanding as well.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      他对书写的批评乍看可能显得好笑，但把检索当作记忆的诱惑在现代信息技术中正变得越来越普遍。当信息只需一次互联网搜索就能获得时，为什么还要学习任何东西？为了避免苏格拉底的担忧，信息技术应当做的不仅是提供获取信息的途径，还应当帮助培养智慧与理解。
+
+    step2: |-
+      他对书写的批评乍看近乎滑稽，可“把检索当记忆”的诱惑，在现代信息技术里正愈演愈烈。既然信息一搜即得，又何必学任何东西？要免于苏格拉底的忧虑，信息技术就不能只管提供信息的入口，还得助人养成智慧与理解。
+
   - id: 16
     kind: body
     source: |-
       ### 2.1 The Fundamental Character of Information Technologies
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 信息技术的根本特征
+
+    step2: |-
+      ### 2.1 信息技术的根本性质
+
   - id: 17
     kind: body
     source: |-
       Early in the information technology revolution Richard Mason suggested that the coming changes in information technologies, such as their roles in education and economic impacts, would necessitate rethinking the social contract (Mason 1986)[^mason-1986]. He worried that they would challenge privacy, accuracy, property and accessibility (PAPA) and to protect our society we “… must formulate a new social contract, one that insures everyone the right to fulfill his or her own human potential” (Mason 1986 P. 11)[^mason-1986] What he could not have known then was how often we would have to update the social contract as these technologies rapidly change. Information technologies change quickly and move in and out of fashion at a bewildering pace. This makes it difficult to try to list them all and catalog the moral impacts of each. The very fact that this change is so rapid and momentous has caused some to argue that we need to deeply question the ethics of the process of developing emerging technologies (Moor 2008). It has also been argued that the ever morphing nature of information technology is changing our ability to even fully understand moral values as they change. Lorenzo Magnani claims that acquiring knowledge of how that change confounds our ability to reason morally “…has become a duty in our technological world” (Magnani 2007, 93)[^magnani-2007]. The legal theorist Larry Lessig warns that the pace of change in information technology is so rapid that it leaves the slow and deliberative process of law and political policy behind and in effect these technologies become lawless, or extralegal. This is due to the fact that by the time a law is written to curtail, for instance, some form of copyright infringement facilitated by a particular file sharing technology, that technology has become out of date and users are on to something else that facilitates even more copyright infringement (Lessig 1999)[^lessig-1999]. But even given this rapid pace of change, it remains the case that information technologies or applications can all be categorized into at least three different types – each of which we will look at below.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在信息技术革命的早期，理查德·梅森（Richard Mason）就提出，信息技术的即将到来的变化，例如它们在教育中的作用和经济影响，将不得不促使我们重新思考社会契约（Mason 1986）[^mason-1986]。他担心这些变化会挑战隐私、准确性、财产和可及性（PAPA），为了保护我们的社会，我们“……必须制定一个新的社会契约，确保每个人都拥有实现自身人类潜能的权利”（Mason 1986 P. 11）[^mason-1986]。他当时无法知道的是，随着这些技术的快速变化，我们将不得不多么频繁地更新社会契约。信息技术变化迅速，以令人眼花缭乱的速度忽而流行忽而过时。这使得我们很难把它们一一列举并逐一编目其道德影响。这一变化如此迅速且意义重大，这一事实本身已使一些人主张，我们需要深刻追问开发新兴技术这一过程的伦理（Moor 2008）。也有人论证，信息技术不断变形的本性正在改变我们全面理解道德价值的能力，因为道德价值也在变化。洛伦佐·马尼亚尼（Lorenzo Magnani）主张，了解这种变化如何扰乱我们的道德推理能力，“……在我们这个技术世界里已成为一项义务”（Magnani 2007, 93）[^magnani-2007]。法学理论家拉里·莱西格（Larry Lessig）警告说，信息技术变化的速度如此之快，以至于把缓慢而深思熟虑的法律和政治政策制定过程甩在身后，这些技术实际上变得无法无天，或者说处于法律之外。原因在于：等到一部法律写成，用来遏制例如某种由特定文件共享技术促成的版权侵犯时，那项技术已经过时，用户又转向了别的东西，促成更多的版权侵犯（Lessig 1999）[^lessig-1999]。但即便变化如此迅速，信息技术或应用仍然可以归入至少三种不同的类型——下文将逐一讨论。
+
+    step2: |-
+      信息技术革命初期，理查德·梅森（Richard Mason）便提出：信息技术即将发生的变化——比如它们在教育中的角色与对经济的冲击——将迫使人们重新思考社会契约（Mason 1986）[^mason-1986]。他担心这些变化会冲击隐私、准确性、财产与可及性（PAPA）；为护佑社会，我们“……必须制定一个新的社会契约，确保每个人都享有实现自身人类潜能的权利”（Mason 1986 P. 11）[^mason-1986]。他当时无从知晓的是：随着技术疾变，社会契约将要经历多少次更新。信息技术迭代迅速，忽而风靡、忽而过时，令人目不暇给，要把它一一列举、逐一清点各自的道德影响，殊为不易。变化既如此迅猛而重大，有人据此主张：对开发新兴技术这一过程本身的伦理，我们必须深究（Moor 2008）。也有人论证，信息技术那不断变形的本性，正在改变我们能否充分理解道德价值——因为价值本身也在流变。洛伦佐·马尼亚尼（Lorenzo Magnani）声称，弄清这种变化如何搅乱我们的道德推理能力，“……在我们这个技术世界里已成为一项义务”（Magnani 2007, 93）[^magnani-2007]。法学理论家拉里·莱西格（Larry Lessig）警告：信息技术变化之快，把迟缓而讲究审慎的法律与政策制定进程甩在身后，这些技术在实效上便成了“法外之物”。道理很简单：等到一部法律写成，去遏制比如某种由特定文件共享技术助长的侵权行为时，那项技术早已过时，用户早已转向别的工具，促成更多的侵权（Lessig 1999）[^lessig-1999]。但纵有这般疾速变化，信息技术或应用终归可以归入至少三种不同的类型——下文将逐一考察。
+
   - id: 18
     kind: body
     source: |-
       All information technologies record (store), transmit (communicate), organize and/or synthesize information. For example, a book is a record of information, a telephone is used to communicate information, and the Dewey decimal system organizes information. Many information technologies can accomplish more than one of the above functions and, most notably, the computer can accomplish all of them since it can be described as a universal machine (see the entry on computability and complexity), so it can be programmed to emulate any form of information technology. In section 2 we will look at some specific example technologies and applications from each of the three types of information technology listed above and track the moral challenges that arise out of the use and design of these particular technologies. In addition to the above we will need to address the growing use of information environments such as massive multiplayer games, which are environments completely composed of information where people can develop alternate lives filled with various forms of social activities (see section 3.3). Finally we will look at not only how information technology impacts our moral intuitions but also how it might be changing the very nature of moral reasoning. In section 4, we will look at information as a technology of morality and how we might program applications and robots to interact with us in a more morally acceptable manner.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所有信息技术都记录（储存）、传输（交流）、组织和/或综合信息。例如，书籍是信息的记录，电话用于交流信息，杜威十进制系统组织信息。许多信息技术可以完成上述多种功能；最突出的是计算机，它可以完成所有这些功能，因为它可以被描述为一台通用机器（参见“可计算性与复杂度”词条），从而可以被编程来模拟任何形式的信息技术。在第 2 节中，我们将从上述三类信息技术中各取一些具体的技术与应用实例，并追踪这些特定技术的使用和设计所引发的道德挑战。除上述内容外，我们还需要讨论信息环境的日益广泛的使用，例如大型多人游戏——这类环境完全由信息构成，人们可以在其中发展出充满各种社会活动的另一种生活（见 3.3 节）。最后，我们不仅考察信息技术如何影响我们的道德直觉，还要考察它如何可能正在改变道德推理的本质。在第 4 节中，我们将考察信息作为一门道德技术，以及我们如何编程应用与机器人，使其以更合乎道德的方式与我们互动。
+
+    step2: |-
+      一切信息技术无非记录（储存）、传递（交流）、组织或综合信息。书籍是信息的记录，电话用来交流信息，杜威十进分类法组织信息，都是例子。许多信息技术能兼任上述数种功能；最突出的是计算机——它堪称通用机器（参见“可计算性与复杂度”词条），可编程模拟任何形式的信息技术，故上述功能一应俱全。第 2 节将从上述三类信息技术中各举若干具体技术与应用，并追踪这些特定技术的使用与设计引发的道德挑战。此外，我们还需处理信息环境的日益流行，如大型多人游戏：那种完全由信息构成的环境，人们可在其中经营另一种人生，充斥着形形色色的社会活动（见 3.3 节）。最后，我们不仅要看信息技术如何影响我们的道德直觉，还要看它是否正在改变道德推理本身的性质。第 4 节将把信息当作一门道德技术来考察：我们如何为应用程序与机器人编程，使它们以道德上更可接受的方式与我们互动。
+
   - id: 19
     kind: body
     source: |-
       #### 2.1.1 Moral Values in Information Recording
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 2.1.1 信息记录中的道德价值
+
+    step2: |-
+      #### 2.1.1 信息记录中的道德价值
+
   - id: 20
     kind: body
     source: |-
       The control of information is power, and in an information economy such as we find ourselves today, it may be the ultimate form of political power. We live in a world rich in data and the technology to produce, record, and store vast amounts of this data has developed rapidly. The primary moral concern here is that when we collect, store, and/or access information, it is vital that this be done in a just manner that can reasonably be seen as fair and in the best interests of all parties involved. As was mentioned above, each of us produces a vast amount of information every day that could be recorded and stored as useful data to be accessed later when needed. But moral conundrums arise when that collection, storage and use of our information is done by third parties without our knowledge or done with only our tacit consent. The social institutions that have traditionally exercised this power are things like, religious organizations, universities, libraries, healthcare officials, government agencies, banks and corporations. These entities have access to stored information that gives them a certain amount of power over their customers and constituencies. Today each citizen has access to more and more of that stored information without the necessity of utilizing the traditional mediators of that information and therefore a greater individual share of social power (see Lessig 1999)[^lessig-1999].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      控制信息就是权力，在我们今天所处的信息经济中，它也许是政治权力的终极形式。我们生活在一个数据丰富的世界里，生产、记录和储存海量数据的技术发展迅速。这里的首要道德关切是：当我们收集、储存和/或获取信息时，必须以正义的方式进行，即可以合理地视为公平并符合所有相关方的最佳利益。如上所述，我们每个人每天都在产生大量信息，这些信息可以被记录并储存为有用的数据，以备日后需要时获取。但当我们的信息被第三方在我们不知情的情况下收集、储存和使用，或者仅凭我们的默许来完成时，道德难题便出现了。传统上行使这种权力的社会机构包括宗教组织、大学、图书馆、医疗保健机构、政府机构、银行和公司。这些实体可以获取储存的信息，从而对其顾客和拥护者拥有一定的权力。今天，每个公民无需借助这些信息的传统中介，就能获取越来越多的储存信息，因而个人对社会权力的份额也随之增大（见 Lessig 1999）[^lessig-1999]。
+
+    step2: |-
+      控制信息即握有权力；在我们身处的信息经济里，它甚至可能是政治权力的终极形态。我们生活的世界数据充盈，生产、记录、储存海量数据的技术一路疾进。这里头等重要的道德关切是：无论收集、储存还是获取信息，都必须做得公正——公道得让人可以合理认可，并真正照顾到所有相关方的利益。前文说过，我们每个人每天都在制造海量信息，它们可以录为有用的数据储存起来，供日后需要时调用。麻烦出在：这些收集、储存与使用若由第三方在背地里完成，或仅凭我们不明言的默许而行，道德难题便接踵而至。传统上握有这份权力的，是宗教组织、大学、图书馆、医疗部门、政府机构、银行与公司这类建制。它们可及储存的信息，由此对顾客与所辖人群握有相当的支配力。而今天，每个公民无须再经过信息的传统中介，就能触及越来越多的储存信息——个人在社会权力中的份额因此水涨船高（见 Lessig 1999）[^lessig-1999]。
+
   - id: 21
     kind: body
     source: |-
       One of the great values of modern information technology is that it makes the recording of information easy and almost automatic. Today, a growing number of people enter biometric data such as blood pressure, calorie intake, exercise patterns, etc. into applications designed to help them achieve a healthier lifestyle. This type of data collection could become almost fully automated in the near future. Through the use of smart watches or technologies such as the “Fitbit,” or gathered through a users smartphone, such as applications that use the GPS tracking to track the length and duration of a user’s walk or run. How long until a smartphone collects a running data stream of your blood pressure throughout the day perhaps tagged with geolocation markers of particularly high or low readings? In one sense this could be immensely powerful data that could lead to much healthier lifestyle choices. But it could also be a serious breach in privacy if the information got into the wrong hands, which could be easily accomplished, since third parties have access to information collected on smartphones and online applications. In the next section (2.1.2) we will look at some theories on how best to ethically communicate this recorded information to preserve privacy. But here we must address a more subtle privacy breach – the collection and recording of data about a users without their knowledge or consent. When searching on the Internet, browser software records all manner of data about our visits to various websites which can, for example, make webpages load faster next time you visit them. Even the websites themselves use various means to record information when your computer has accessed them and they may leave bits of information on your computer which the site can use the next time you visit. Some websites are able to detect which other sites you have visited or which pages on the website you spend the most time on. If someone were following you around a library noting down this kind of information, you might find it uncomfortable or hostile, but online this kind of behavior takes place behind the scenes and is barely noticed by the casual user.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现代信息技术的一大价值在于，它使信息的记录变得容易且几乎自动化。如今，越来越多的人把血压、卡路里摄入、锻炼模式等生物特征数据输入旨在帮助他们实现更健康生活方式的应用程序。这类数据收集在不久的将来几乎可以完全自动化。通过智能手表或“Fitbit”之类技术，或通过用户的智能手机收集，例如使用 GPS 跟踪来记录用户步行或跑步的长度和持续时间。还要多久，智能手机就会收集你一整天的血压数据流，甚至给特别高或特别低的读数打上地理位置标记？从某种意义上说，这可能是极其强大的数据，能促成健康得多的生活方式选择。但如果信息落入坏人之手，它也可能是对隐私的严重侵犯——而这很容易发生，因为第三方可以获取智能手机和在线应用上收集的信息。下一节（2.1.2）我们将讨论如何以符合伦理的方式传递这些被记录的信息以保护隐私的一些理论。但在这里，我们必须面对一种更隐蔽的隐私侵犯：在用户不知情或未同意的情况下收集和记录关于用户的数据。在互联网上搜索时，浏览器软件会记录我们访问各种网站的各种数据，例如，这可以使网页在你下次访问时加载得更快。甚至网站本身也会使用各种手段在你计算机访问它们时记录信息，它们可能会在你的计算机上留下一些信息片段，供该网站在你下次访问时使用。一些网站能够检测你访问过哪些其他网站，或你在这个网站上把时间花在哪些页面上。如果有人在图书馆里跟踪你并记下这类信息，你可能会感到不舒服或怀有敌意；但在网上，这种行为在幕后进行，随意浏览的用户几乎察觉不到。
+
+    step2: |-
+      现代信息技术的一大价值，是把信息的记录变得轻而易举、近乎自动。如今，越来越多的人把血压、卡路里摄入、锻炼模式之类的量化数据输入应用程序，以期活得更健康。这类数据收集，近期几乎就能完全自动化：或靠智能手表与“Fitbit”一类设备，或靠手机上的应用——比如用 GPS 跟踪记录用户步行或跑步的距离与时长。还要多久，智能手机就会整天收集你的血压数据流，甚至给特别高或特别低的读数贴上地理位置标记？从一方面看，这是威力极大的数据，能引导人做出健康得多的生活选择；可从另一方面看，一旦这些信息落入不当之手，就是对隐私的严重侵犯——而落入不当之手易如反掌，第三方本就能触及手机与在线应用上收集的信息。下一节（2.1.2）将讨论几条理论，看如何以合乎伦理的方式传递这些记录下来的信息、守住隐私。但此处必须先正视一种更隐蔽的侵犯：在用户不知情、未同意的情况下收集并记录用户的数据。在互联网上搜索时，浏览器软件会记下我们访问各类网站的大量信息——例如让网页在你下次访问时加载更快。网站自己也用各种手段记录你的计算机到访，还可能在你计算机上留下若干信息片段，供下次到访时取用。有些网站甚至能探知你去过哪些别的网站、在这个站的哪些页面上停留最久。倘若有人跟着你在图书馆里把这类信息一一记下，你会觉得别扭乃至感到敌意；可这种事搬到网上，全在幕后进行，随意的用户几乎毫无察觉。
+
   - id: 22
     kind: body
     source: |-
       According to some professionals, information technology has all but eliminated the private sphere and that it has been this way for decades. Scott McNealy of Sun Microsystems famously announced in 1999: “You have zero privacy anyway. Get over it” (Sprenger, 1999). Helen Nissenbaum observes that,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按一些专业人士的说法，信息技术几乎消灭了私人领域，而且几十年来一直如此。太阳微系统公司的斯科特·麦克尼利（Scott McNealy）在 1999 年有句名言：“反正你已经毫无隐私，认了吧”（Sprenger, 1999）。海伦·尼森鲍姆（Helen Nissenbaum）注意到：
+
+    step2: |-
+      在一些业内人看来，信息技术几乎把私人领域消灭干净，且这种局面已持续数十年。太阳微系统公司的斯科特·麦克尼利（Scott McNealy）1999 年撂下一句名言：“反正你早就没有隐私了，认了吧”（Sprenger, 1999）。海伦·尼森鲍姆（Helen Nissenbaum）观察到：
+
   - id: 23
     kind: body
     source: |-
       > [w]here previously, physical barriers and inconvenience might have discouraged all but the most tenacious from ferreting out information, technology makes this available at the click of a button or for a few dollars (Nissenbaum 1997)[^nissenbaum-1997]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 以往，物理障碍和种种不便还能打消除了最固执者之外所有人打探信息的念头，而技术使人只消按一下按钮或花几美元就能得到这些信息（Nissenbaum 1997）[^nissenbaum-1997]
+
+    step2: |-
+      > 以往，有形的阻隔与种种不便，还能让除最顽固者之外的人对打探信息望而却步；技术却让人只消按一下按钮、花上几块钱，便可手到擒来（Nissenbaum 1997）[^nissenbaum-1997]
+
   - id: 24
     kind: body
     source: |-
       and since the time when she wrote this the gathering of personal data has become more automated and cheaper. Clearly, earlier theories of privacy that assumed the inviolability of physical walls no longer apply but as Nissenbaum argues, personal autonomy and intimacy require us to protect privacy nonetheless (Nissenbaum 1997)[^nissenbaum-1997].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      而自她写下这段话以来，个人数据的收集已变得更加自动化、更加廉价。显然，那些假定物理墙壁不可侵犯的早期隐私理论已不再适用，但正如尼森鲍姆所论证的，个人自主与亲密关系仍然要求我们保护隐私（Nissenbaum 1997）[^nissenbaum-1997]。
+
+    step2: |-
+      而且自她写下这段话以来，个人数据的收集愈发自动化，也愈发廉价。显然，以“物理墙壁不可侵犯”为前提的早期隐私理论已经失灵；但正如尼森鲍姆所论，个人自主与亲密关系仍然要求我们守护隐私（Nissenbaum 1997）[^nissenbaum-1997]。
+
   - id: 25
     kind: body
     source: |-
