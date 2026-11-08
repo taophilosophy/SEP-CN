@@ -2,7 +2,7 @@
   "slug": "behaviorism",
   "kind": "retranslate",
   "zh_doc": "b/behaviorism.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "?",
       "at": "2026-11-04T17:12:49Z",
       "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 44 豁免留痕见 s2；人名 15 条登记（斯金纳/华生/巴甫洛夫/桑代克/赖尔/托尔曼/赫尔/格思里/塞拉斯/齐硕姆/福多/米尔/丘奇兰德等）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T04:26:56Z",
+      "evidence": "独立初审：全文回读 8 节（什么是行为主义/三类型/根源/盛行/为何做/斯金纳世界观/为何反对/结论）逐块对齐，无错译；实修 1 处内容缺陷（b-progress-audit-2026-11-06 §2 登记项销账）：末段「（见 Ross et al. 2008, especially p. 10）」丢失行内标记 [^ross-2008] 已补（源文该段两次引用，译文此前仅一次）；引用组内英文短语保留原形（对照 Kuhn/Henkel/Gutas 三处先例）；年份缩写全形展开（1889–51→1889–1951）属体例豁免；prose 44 条全豁免（30 de-chain 术语链/9 weak-verb 为「激进行为主义」术语误报（S5 白名单先例）/3 长句直引/2 被动在斯金纳直引块内）；四检：style 0、academic 无硬错误、math 0；人名登记 3 行（弗雷泽/卡斯尔/威拉德·戴）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T04:26:56Z",
+      "evidence": "独立复审：r1 实修断言（[^ross-2008] 第二次引用在位）；五维守恒：defs 82:82、marker 多重集复验通过、H2 8:8、尾节四件套齐（学术工具 bullet 四行制+译注行）；BLOCK 72:71＝译注行+byline 解释；MARK ital 差为 pubinfo/byline 随源文形态口径；ENRES 0"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T04:27:01Z",
+      "evidence": "终审：check_all 七项本地全绿（2026-11-08）；r2 无新增问题"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T04:27:01Z",
+      "evidence": "收口：置 done；凭证链 clear/draft/s1/s2/s3（actor ? 旧留痕）+r1/r2/r3/done（R-main-20261108）"
     }
   ],
   "blockers": [],
