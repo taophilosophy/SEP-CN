@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-08 02:20（UTC）
+生成时间：2026-11-08 02:24（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1028|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|198|
-|在途（drafted 起、done 前）|232|
+|已完成（done）|199|
+|在途（drafted 起、done 前）|231|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,13 +23,12 @@
 |状态|数量|
 |---|---|
 |pending|598|
-|cleared|163|
+|cleared|162|
 |drafted|2|
-|s1_checked|2|
+|s1_checked|3|
 |s3_checked|63|
 |r1_reviewed|1|
-|r2_reviewed|1|
-|done|198|
+|done|199|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -42,7 +41,7 @@
 |E|99|99|99|17|
 |F|96|96|96|1|
 |G|49|49|49|1|
-|H|61|61|61|8|
+|H|61|61|61|9|
 |I|75|75|75|20|
 |J|38|38|38|4|
 |K|36|36|36|21|
@@ -225,7 +224,6 @@
 |holism-social|retranslate|cleared|task_ops 2026-11-01|
 |holkot|retranslate|cleared|task_ops 2026-11-01|
 |horkheimer|retranslate|cleared|task_ops 2026-11-01|
-|hume-aesthetics|retranslate|r2_reviewed|EH-main-20261108 2026-11-08|
 |hume-freewill|retranslate|cleared|task_ops 2026-11-01|
 |hume-moral|retranslate|cleared|task_ops 2026-11-01|
 |humor|retranslate|cleared|task_ops 2026-11-01|
@@ -293,7 +291,7 @@
 |rationalism-early-modern|retranslate|r1_reviewed|OR-main-20261107 2026-11-07|
 |scholem|retranslate|s1_checked|SZ-main-20261108b 2026-11-08|
 |telesio|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
-|theology-aristotle|retranslate|cleared|task_ops 2026-11-07|
+|theology-aristotle|retranslate|s1_checked|TZ-main-20261107 2026-11-08|
 |william-jevons|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |william-sherwood|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |wisdom|retranslate|s3_checked|TZ-main-20261107 2026-11-07|

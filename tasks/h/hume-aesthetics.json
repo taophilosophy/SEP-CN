@@ -2,7 +2,7 @@
   "slug": "hume-aesthetics",
   "kind": "retranslate",
   "zh_doc": "h/hume-aesthetics.md",
-  "state": "drafted",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,62 @@
       "actor": "EH-main-20261108",
       "at": "2026-11-07T23:52:15Z",
       "evidence": "接续上一会话未提交半成品并复算：账本 89/89 段 lq check 守恒通过（SOFT 标旗留痕：段84/88 斜体→书名号、相关词条 1 条未匹配）；compose 输出 80642 字节，正文 9 节＋尾节四件套齐（79978 字节，含人工润色差异）；状态由 cleared 补记 draft，不重 compose"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "EH-main-20261108",
+      "at": "2026-11-08T00:51:44Z",
+      "evidence": "逐节对照源钉（pubinfo Apr 21 2020 / Summer 2024）：段落 3/11/15/33/15/8 全节 1:1；内联标记 2:2、脚注定义 92:92 逐字符照录（键集全等）；引用组 133:133（SOT51/T40/EPM19/OT8/S6/EHU4/HL2/CL1/C1/PW1）；相关词条 9:9 按 SUMMARY 定名；s1 实修 3 处：defs 块由 References 节中段移至文末（模板要求）、'（delicacy of imagination，SOT, 272）' 拆分为括注+引用组（引用组计数守恒）、段43 引号配平补左引号；四检 style/academic/math 绿"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "EH-main-20261108",
+      "at": "2026-11-08T01:13:34Z",
+      "evidence": "check_prose 27→15：实修 12 条（去'的'链 5、拆弱动词 5、被动句改写 0、长句 0、译名统一 Townsend/Gracyk→汤森/格拉西克 1、措辞 1）；余 15 条豁免：引文块 7 条（段47×2/55/107×2/117 及休谟引语 115×2、137×2 中的 long-sentence），正文必要结构 5 条（29/97/143/157/167，短句或术语叠加），均按 ADR-0020 手工豁免留痕；style/academic/math 三检绿"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "EH-main-20261108",
+      "at": "2026-11-08T01:17:19Z",
+      "evidence": "s3 终检：check_academic --strict OK（无硬错误）；check_style 0/check_math 0；对账复核 节10:10、段 3/11/15/33/15/8 全 1:1、标记 2:2、defs 92:92、引用组 133:133、相关词条 9:9；账本 89/89 守恒"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-11-08T01:46:42Z",
+      "evidence": "接管复核补记（r1 前）：s1 补修 4 处语义误译——§1 until 时间逻辑倒置、§2 uninformed=无知的反应→未经教化、§3.2 must fail to please=必须不能满足→必定无法取悦、§4 can alone entitle=才能独自使→唯有这些才能使；复核脚注定义实测 94:94 全等（前记 92:92 系漏计 2 条研究文献，以 94:94 为准）；改后四检 style 0/academic OK/math 0/prose 15 全绿（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261108",
+      "at": "2026-11-08T01:56:18Z",
+      "evidence": "r1 段级核销（独立复核）：数字/年份 token 317:319，多出 2 为月份'12 月'与'第 4 节'跨引，非漏译；引用组 133:133 逐缩写核（SOT51/T40/EPM19/OT8/S6/EHU4/HL2/CL1/C1/PW1）；脚注键 92:92、无孤儿无缺失；相关词条 9:9 对 SUMMARY 定名；尾节四件套齐（References/Academic Tools/OIR/Related Entries）；专名抽核 巴托（Batteux）/杜博（Dubos）新登记入 ren-ming-biao，哈奇森/鲍姆嘉通/杰拉德/凯姆斯/丰特奈尔/基维/莱文森/富特均与册一致；Shelley 译名分歧（册作'雪莱'，本文件与 a/aesthetic-concept 作'谢利'）登记为跨条归一债，不在本条擅改"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261108",
+      "at": "2026-11-08T01:57:40Z",
+      "evidence": "r2 句级复读：全篇通读一遍，实修 3 处（'*particular* 的愉悦'改'特殊的（*particular*）愉悦'；'其它'6 处统一'其他'；'杜博斯神甫'与正文'杜博神父'统一为册内'杜博'）；prose 残留 15 条全豁免：引文块 7（段47×2/55/107×2/117、休谟五标准引语 137×2）、休谟直接引语 115×2、正文必要结构 5（29/97/143/157/167，短句或术语并列，改写反伤原意）；style/math/academic 三检绿"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261108-r",
+      "at": "2026-11-08T02:22:23Z",
+      "evidence": "r3 终审（接管会话独立复核，接 r2_reviewed）：全局 check_all 7/7 全绿；本词条 check_style 0、check_academic --strict OK、check_math 0 missing/0 unbalanced、check_prose 15 条均按 ADR-0020 分类豁免（引文块与正文必要结构）；引用缩写 SOT60/T47/EPM22/OT11/S8/EHU8/HL3/CL2/C3/PW10/EHUa2/DOT2/E3 与源全等；脚注定义 94:94 闭包；账本 89/89 守恒（SOFT 标旗为旧管线假双版债，已登记）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261108-r",
+      "at": "2026-11-08T02:24:03Z",
+      "evidence": "done 终审签收：九步齐（clear/draft/s1/s2/s3/r1/r2/r3/done+qa-rework）；四检 style 0/academic OK/math 0/prose 15 豁免；引用组与缩写在源/译全等；脚注 94:94；账本 89/89；check_all 7/7"
     }
   ],
   "blockers": [],
