@@ -32,6 +32,7 @@
 | anarchic hand | — | 无政府手 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | antecedent/consequent | — | 前件／后件 | 语料回收（marsilius-inghen 首译） | 逻辑学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Anthropocene | — | 人类世 | 首现（environmental-aesthetics） | 地质学通行（Crutzen 术语） | 2026-11-08 |
+| anthropocentrism | — | 人类中心论 | jaina-philosophy 首译 | 学界通行译名（人类中心主义/论，环境伦理与印度哲学文献通用）；凭证 2026-11-08 | 2026-11-08 |
 | anti-erotic art | — | 反情色艺术 | 首译（erotic-art） | 本词条术语（意在引发负面性感受） | 2026-11-08 |
 | anticipation | — | 预期 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | antiperistasis | — | 反周流 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
@@ -254,6 +255,7 @@
 | intensity interpretation | — | 强度解释 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | intentional action | — | 意向行动 | 语料回收（标题词） | 学界惯例（行动哲学核心（action 词条×53））；凭证 2026-11-01 | 2026-11-01 |
 | ideology | — | 意识形态 | law-ideology | 学界通行译法（马克思主义/政治哲学通行）；凭证 2026-11-03 | 2026-11-03 |
+| intentional species | — | 意向种相 | henricus-regius | 学界通行（与 species 种相行配套，中世纪知觉论）；凭证 2026-11-08 | 2026-11-08 |
 | internal/external history | — | 内部史／外部史 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | interoception | — | 内感受 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | introgression | — | 基因渗入 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -335,6 +337,7 @@
 | objectification | — | 对象化 | 首现（erotic-art） | 女性主义伦理学通行（亦作“物化”备查） | 2026-11-08 |
 | objectivity | — | 客观性 | antonio-rosmini | 认识论通行 | 2026-11-07 |
 | obscenity | — | 淫秽 | 首现（erotic-art） | 法学与美学通行 | 2026-11-08 |
+| occult qualities | — | 隐秘的质 | henricus-regius | 学界通行（经院哲学 occultae qualitates）；凭证 2026-11-08 | 2026-11-08 |
 | occurring desire | — | 偶发欲望 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | old quantum theory | — | 旧量子理论 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | omega-rule | — | omega 规则 | deductivism-mathematics | 证明论通行（ω 规则，本库以拉丁转写 omega）；凭证 2026-11-08 | 2026-11-08 |
@@ -351,6 +354,7 @@
 | parsimony | — | 简约法 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | partinost | партийность | 党性 | 语料回收（lakatos 首译） | 苏联文艺学界通行译法（俄文 партийность）；凭证 2026-11-06 | 2026-11-06 |
 | paraconsistency | — | 弗协调性 | 语料回收（lakatos 首译） | 逻辑学界通行译法（亦作“次协调”）；凭证 2026-11-06 | 2026-11-06 |
+| paramāṇu | परमाणु | 极微（耆那教原子） | jaina-philosophy 首译 | 梵语义译通行（耆那教与胜论“不可分原子”作极微；承佛典古译“极微”传统译名）；凭证 2026-11-08 | 2026-11-08 |
 | personal projects | — | 个人计划 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | phantom limb | — | 幻肢 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | philosophia perennis | — | 常青哲学 | antonio-rosmini | 中世纪—文艺复兴哲学传统通行（与 philosophia perennis 拉丁原形并列） | 2026-11-07 |
@@ -380,6 +384,7 @@
 | protective agency | — | 保护性能动 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | provability | — | 可证性 | deductivism-mathematics | 证明论通行译法；凭证 2026-11-08 | 2026-11-08 |
 | psychical distance | — | 心理距离 | 首现（erotic-art） | 美学通行（Bullough 术语） | 2026-11-08 |
+| pure intellect | — | 纯粹理智 | henricus-regius | 学界通行（笛卡尔—洛克脉络，与 pure understanding 同指）；凭证 2026-11-08 | 2026-11-08 |
 | quaestiones | — | 问题集 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | quality of life | — | 生活质量 | disability-care-rationing | 学界通行（卫生经济学与生物伦理）；凭证 2026-11-08 | 2026-11-08 |
 | quality-adjusted life year | — | 质量调整生命年 | disability-care-rationing | 卫生经济学通行（QALY）；凭证 2026-11-08 | 2026-11-08 |
@@ -473,6 +478,7 @@
 | sublime | — | 崇高 | 首现（environmental-aesthetics；与 gadamer-aesthetics 诠释学的崇高 同源） | 学界千年通行（伯克/康德美学） | 2026-11-08 |
 | subpersonal | — | 亚个人的 | moral-responsibility-empirical | Dennett 术语通行（subpersonal vs person-level） | 2026-11-07 |
 | substantial concept | — | 实体概念 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
+| substantial form | — | 实体形式 | henricus-regius | 经院哲学通行译法（forma substantialis；与 substantial concept 实体概念分义）；凭证 2026-11-08 | 2026-11-08 |
 | Sufism | — | 苏非主义 | arabic-islamic-mysticism | 伊斯兰研究通行（与 mysticism 神秘主义为上下位） | 2026-11-07 |
 | super-contemporaneity | — | 超同时性 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | supervenience | — | 随附性（supervenient property 随附属性） | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -522,6 +528,7 @@
 | Thinking Dispositions | — | 思维倾向 | 语料回收（标题词） | 审定“思维”复合词群佐证（认知心理学）；凭证 2026-11-01 | 2026-11-01 |
 | universals | — | 共相 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | univocity of the concept of being | — | 存在概念的单义性 | auriol | 司各脱主义通行（univocatio entis） | 2026-11-07 |
+| unum per accidens | — | 偶性统一 | henricus-regius | 经院哲学通行译法（与 per se 统一相对；源文括注即该拉丁语）；凭证 2026-11-08 | 2026-11-08 |
 | upright walk | — | 直立行走 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | utopia | — | 乌托邦 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | utopian function | — | 乌托邦功能 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -2370,17 +2377,17 @@
 | Over-Soul | — | 超灵 | emerson | 学界通行（爱默生《论超灵》） | 2026-11-07 |
 | gelukpa | དགེ་ལུགས་པ | 格鲁派 | gelukpa | 传统译名（藏传佛教四大派，dge lugs pa；宗喀巴所创） | 2026-11-07 |
 | Cārvāka / Lokāyata | चार्वाक / लोकायत | 顺世论 | jayaraasi | 印度哲学史学界通行（唯物论派；音译“遮卢婆迦”较少用）；与既有 anumāna/pratyakṣa 因明系译名并行 | 2026-11-07 |
-| pramāṇa（认知凭据义） | — | 认知凭据 | jayaraasi | 因明学“量”之散文义；j/jayaraasi 全文作“认知凭据”并括注“量”，与表内 pramāṇa=量论（学科义）分工 | 2026-11-07 |
+| pramāṇa（认知凭据义） | प्रमाण | 认知凭据 | jayaraasi | 因明学“量”之散文义；j/jayaraasi 全文作“认知凭据”并括注“量”，与表内 pramāṇa=量论（学科义）分工 | 2026-11-07 |
 | Tattvôpaplava-siṁha | — | 《谛坏狮子论》 | jayaraasi | 本库自拟书名（tattva 谛、upaplava 坏灭、siṁha 狮子）；梵文原题随文括注 | 2026-11-07 |
-| prasaṅga | — | 归谬论式 | jayaraasi | 学界惯例（中观学“归谬”；与“自立论证”svatantra 相对） | 2026-11-07 |
-| vitaṇḍā | — | 只破不立之辩 | jayaraasi | 正理派辩论分类通行译法（与 vāda 真辩相对） | 2026-11-07 |
-| catuṣ-koṭi | — | 四句 | jayaraasi | 因明与中观学传统译名（有、无、亦有亦无、非有非无） | 2026-11-07 |
-| pratyakṣa（感官知觉义） | — | 知觉（现量） | jayaraasi | j/jayaraasi 体例：作量目/认知凭据者作“现量”，作感官知觉活动者作“知觉”，随文括注原词 | 2026-11-07 |
-| upamāna | — | 譬喻量 | jayaraasi | 因明六量传统译名（与义准量 arthāpatti 同系） | 2026-11-07 |
-| abhāva | — | 无体量 | jayaraasi | 因明传统译名（依缺席之否定证） | 2026-11-07 |
+| prasaṅga | प्रसङ्ग | 归谬论式 | jayaraasi | 学界惯例（中观学“归谬”；与“自立论证”svatantra 相对） | 2026-11-07 |
+| vitaṇḍā | वितण्डा | 只破不立之辩 | jayaraasi | 正理派辩论分类通行译法（与 vāda 真辩相对） | 2026-11-07 |
+| catuṣ-koṭi | चतुष्कोटि | 四句 | jayaraasi | 因明与中观学传统译名（有、无、亦有亦无、非有非无） | 2026-11-07 |
+| pratyakṣa（感官知觉义） | प्रत्यक्ष | 知觉（现量） | jayaraasi | j/jayaraasi 体例：作量目/认知凭据者作“现量”，作感官知觉活动者作“知觉”，随文括注原词 | 2026-11-07 |
+| upamāna | उपमान | 譬喻量 | jayaraasi | 因明六量传统译名（与义准量 arthāpatti 同系） | 2026-11-07 |
+| abhāva | अभाव | 无体量 | jayaraasi | 因明传统译名（依缺席之否定证） | 2026-11-07 |
 | sambhāva | — | 相等量 | jayaraasi | 印度量论通行译法 | 2026-11-07 |
 | aitihya | — | 传承量 | jayaraasi | 印度量论通行译法（辗转相传为量） | 2026-11-07 |
-| śabda / āgama | — | 声量／圣典量 | jayaraasi | 因明“声量”与“圣言量”传统译名 | 2026-11-07 |
+| śabda / āgama | शब्द / आगम | 声量／圣典量 | jayaraasi | 因明“声量”与“圣言量”传统译名 | 2026-11-07 |
 | anubhava | — | 直接经验 | jayaraasi | 学界通行（与“量”相对的经验义） | 2026-11-07 |
 | Jina | जिन | 耆那（胜者） | jaina-philosophy | 学界通行音译（耆那教“胜者”，教名所本） | 2026-11-08 |
 | tīrthaṅkara | तीर्थंकर | 造渡者 | jaina-philosophy | 本库自拟直译（tīrtha 渡口＋kara 作者；学界亦作“渡津者”） | 2026-11-08 |

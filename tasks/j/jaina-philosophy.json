@@ -2,7 +2,7 @@
   "slug": "jaina-philosophy",
   "kind": "retranslate",
   "zh_doc": "j/jaina-philosophy.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "J-main-20261108",
       "at": "2026-11-08T06:17:03Z",
       "evidence": "三校：check_style --strict 0 issue；check_academic --strict 通过（在途豁免 1）；check_math formulas=0/missing=[]/unbalanced=[]；check_prose 余 2 条均 ADR-0020 豁免（dharma 义项枚举、ĀS 引块内被动，明细见 s2 evidence）；lq 守恒门 137 段通过；对账复核 marker 103:103 多重集全等、defs 61、正文 ASCII 直引号 0；check_terms 硬错误 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-08T14:21:11Z",
+      "evidence": "独立复审：对照 yuanwen 全文通读（出离伦理学/世界观形上学/知识论多面性/救赎论四大部分），节 4/13/4 层级全等、marker 46:46、defs 71:71、段落 117:116（差一=byline 豁免）；lq 守恒 137 段 HARD=0；正文无英文残留（拉丁串全在 defs 照录区）；术语用形与册内定名一致（业质/系缚/遮止/灭除/流入/多面性/比量/现量）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-08T14:21:12Z",
+      "evidence": "登记册补课：补登 yi-zhe-shuo-ming 两行 paramāṇu=极微（耆那教原子，正文 26 见）、anthropocentrism=人类中心论（正文 2 见），先登后用于 r2 落实；人名 20 行（大雄/乌摩斯瓦敏/乌摩斯伐底/诃摩旃陀罗/尼弥旃陀罗/因陀罗菩提·乔答摩等）经 git show HEAD 计数核实在册；同键异译回改循 jayaraasi 既有行（阿迦楞迦·跋陀/萨曼塔巴德拉/毗提耶难陀）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-08T14:21:32Z",
+      "evidence": "终稿验收：check_style --strict issues=[]、check_academic --strict OK、check_math formulas=0、check_terms 无硬错误（新增两行后复跑）、check_summary 一致；引块（ĀS/TS 偈颂）照录完整；尾节齐全（References 现制+学术工具+其他网络资源+相关词条）；残留扫描零英文长句"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-08T14:21:33Z",
+      "evidence": "终审签字：六道全过，账本 137 段双版齐、四检全绿，独立复审完成；r2 补登术语两行随批提交"
     }
   ],
   "blockers": [],
