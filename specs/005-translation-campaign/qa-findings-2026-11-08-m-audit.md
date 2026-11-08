@@ -30,3 +30,13 @@
 2. 每条作业口径：`lq.py init` 建账本 → 双版直译（step1 忠实／step2 语言）分批落盘并即时提交 → `lq.py check`（HARD=0 为写回前置门）→ `compose --write` → `italic_to_bold_cjk` → s1（逐段核销＋文献还原＋相关词条逐条对 SUMMARY）→ s2（prose 告警清零或逐条留痕豁免）→ s3（体例四检）→ 交评审线（r1–r3 归 R-main，见 session-handoff §6）。
 3. 术语与人名先登记后使用（`yi-zhe-shuo-ming.md`、`ren-ming-biao.md`）；并行会话占用共享登记册时按行键选择性暂存。
 4. 单会话吞吐受源文体量限制（M 批单条 yuanwen 37–192 KB，平均约 100 KB），按条收口、高频小步提交；断点以 `campaign.py status` 现查为准。
+
+## 4. 接管复算（2026-11-08 04:4x UTC，M-main-20261108 接续会话）
+
+以 `script/lmn_audit4.py m` 复算五方对账，与 §1 基线一致，仅一处推进：
+
+* **mandeville 收口到 drafted**：工作区遗留的 299 行成稿经三重验证后落盘提交（82eebb20）——`lq.py check` 守恒 HARD=0（88 段，软提示均为机械段/斜体转书名号正常项）；compose 干跑与工作区成稿逐字符 diff=0；`italic_to_bold_cjk` 转换 0 行（书名一律书名号）。任务 advance draft，evidence 留痕。
+* **moral-demands-permissions 维持 s3_checked**：属评审线 R-main-20261108 队列（session-handoff §6），本会话不推进 r1–r3，非偏差。
+* **PROGRESS.md 重生成**：全局 done 202 / 在途 234（含并行会话推进）；M 批任务 14、done 6、drafted 1、s3_checked 1、pending 6、未建 125。
+* 归属无变化：m 批 claimed_by=M-main-20261108（§2 处置已由上一会话完成），接续会话沿用该身份记账。
+* 待译口径更新：**132 条不变**（139 − done 6 − 评审线 1）；其中 1 条（mandeville）已到 drafted，作业主线为其 s1 逐段核销，其余按 §3 计划推进。
