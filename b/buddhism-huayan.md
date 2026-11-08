@@ -106,7 +106,7 @@
 
 《华严五教章》（Treatise on the Five Teachings of Huayan，汉语 *Huayan Wujiao Zhang*；T45.1866，译 Cook 1970）[^cook-1970]的第十章（即最后一章）包含法藏许多最独特、最重要的教义。在第一节，法藏发展其“三性”（three natures）理论。这一理论原初在瑜伽行派佛教中发展，设定三种“实在”：第一，除一不可言说、不可表达、在绝对自然清净上类似于虚空、金、水的实在外，别无他物；第二，这一实在显现为一非实的构想（imaginative construction）；第三，这一非实构想是错误之基，错误由混淆构想与实在而生。
 
-在其[**三性论**](https://plato.stanford.edu/entries/vasubandhu/#ThrNatNonDua)（Three Natures Treatise）中，瑜伽行派哲学家世亲（Vasubandhu）为这三种“实在”各各命名其性。他说：不可言说、不可表达的实在具有“圆成实”（consummation，或 perfection）之性；这一实在是圆满的，其性无非是空。他说：非实的构想，即显现为无非是显现之显现者，具有“依他起”（other-dependence）之性，这与缘起（*pratitya-samutpada*）同义。最后他说：关于非实构想的迷执具有“遍计”（fabrication，或 imagination、discrimination）之性。
+在其[《三性论》](https://plato.stanford.edu/entries/vasubandhu/#ThrNatNonDua)（Three Natures Treatise）中，瑜伽行派哲学家世亲（Vasubandhu）为这三种“实在”各各命名其性。他说：不可言说、不可表达的实在具有“圆成实”（consummation，或 perfection）之性；这一实在是圆满的，其性无非是空。他说：非实的构想，即显现为无非是显现之显现者，具有“依他起”（other-dependence）之性，这与缘起（*pratitya-samutpada*）同义。最后他说：关于非实构想的迷执具有“遍计”（fabrication，或 imagination、discrimination）之性。
 
 中观传统最终也认可了三性论的一个版本，尽管与瑜伽行派版本有显著差异。依瑜伽行派理论，遍计性（fabricated nature）虽空，依他起性与圆成实性却是实在的。与依他起性相关的构想——阿赖耶识中的业种——依瑜伽行派必须具有某种实在的面向，否则它们将无处等待其未来的实现；而与圆成实性相关的不可言说实在，也必须具有某种实在的面向，以免犯断见的错误。中观师认为瑜伽行派的推理是谬误的，他们偏好对三性的认识论而非本体论解释。然而，认识论解释的困难在于：在没有任何实在之物的情况下，如何理解（虚妄的）显现是可能的。
 
