@@ -92,3 +92,11 @@
 2. 5 条 pending 按源文体量升序开工：model-organisms（94.7 KB）→ music（108.4 KB）→ moral-learning（111.5 KB）→ montessori-maria（125.2 KB）→ mathematical-practice（153.8 KB）；每条 `clear` → 账本 init → 双版分批落盘 → `lq.py check` → compose → 四检 → s1/s2/s3。
 3. 125 条未建任务按 SUMMARY 序 `task_ops create --kind retranslate` 后逐条推进。
 4. 收工前 `python tools/check_all.py` 全绿；账本与任务状态同步提交。
+
+### 7.4 首批实作进展（2026-11-09 03:0x–04:0x UTC+8）
+
+* **model-organisms 启动**：`task_ops clear`（baseline gate hash_ok）→ `lq.py init`（104 段 = body 100 + oir 4，biblio 照录 109 条）。
+* **账本双版落盘 28/104 段**（段 1–28），分批提交：`b0534ebb`（段 1–14）、`20e52073`（段 15–28）；`lq.py check` 已填段残余 0（唯一 HARD 为段 11：初稿把源文斜体图题写成 `**`，已改回 `*图 1。*`，粗体化留给 compose 后 `italic_to_bold_cjk`）。
+* **术语先行**：登记 25 行（模式生物学术语 13 + 表征论术语 12：实验生物、非模式生物、模型载体、表征范围/目标、外推、基因组作图/测序、NIH、HGP、威斯塔研究所、模式系统、本领库、最低限度/复杂模式生物、可操作性、替代物、探索性模型、负模型、解释键、DEKI 框架、标本、基础认知、系统发生亲缘关系、反思平衡）。
+* **门禁**：`tools/check_all.py` 7/7 全绿；`tools/progress.py` 重生成（M 行 139/139/14/6 不变，model-organisms 由 pending 转 cleared）。
+* **下一批次断点**：模型生物段 29 起（§2.2 范例与替代物 → §3 起）；余 76 段。

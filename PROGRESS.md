@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-08 19:59（UTC）
+生成时间：2026-11-08 20:12（UTC）
 
 ## 总览
 
@@ -23,8 +23,9 @@
 |状态|数量|
 |---|---|
 |pending|691|
-|cleared|160|
-|drafted|6|
+|cleared|158|
+|drafted|7|
+|s1_checked|1|
 |s3_checked|63|
 |r1_reviewed|4|
 |done|222|
@@ -172,7 +173,7 @@
 |digital-art|retranslate|cleared|task_ops 2026-11-01|
 |dilthey|retranslate|cleared|task_ops 2026-11-01|
 |diodorus-cronus|retranslate|s3_checked|D-main-20261107 2026-11-07|
-|disability|retranslate|cleared|task_ops 2026-11-08|
+|disability|retranslate|s1_checked|D-main-20261109 2026-11-08|
 |disability-care-rationing|retranslate|s3_checked|D-main-20261108 2026-11-08|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |du-bos|retranslate|s3_checked|主代理 2026-11-01|
@@ -188,7 +189,7 @@
 |genetic-drift|retranslate|cleared|task_ops 2026-11-01|
 |genotype-phenotype|retranslate|cleared|task_ops 2026-11-01|
 |george-eliot|retranslate|cleared|task_ops 2026-11-01|
-|gersonides|retranslate|cleared|task_ops 2026-11-01|
+|gersonides|retranslate|drafted|g-beta-G-main-20261109 2026-11-08|
 |gianfrancesco-pico|retranslate|cleared|task_ops 2026-11-01|
 |giles|retranslate|cleared|task_ops 2026-11-01|
 |global-democracy|retranslate|cleared|task_ops 2026-11-01|
