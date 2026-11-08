@@ -66,6 +66,13 @@
       "actor": "EH-main-20261107",
       "at": "2026-11-07T18:09:26Z",
       "evidence": "h 批 hutcheson 全周期收口：账本 157 段（remap 重映射+真反思 46 段+新填 12 段+fix-bold 154 对），compose 3.3 万字，prose 叙述实修 30 归零引块 50 豁免留痕，四检全绿，五项对账全过，九步凭证齐"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-11-08T00:52:23Z",
+      "evidence": "对账纠正：内容注节「## 脚注」由参考文献前移至文末致谢之后（与 emilie/envy 体例一致），note-2005 原文孤立定义照留；check_style 0、check_academic OK（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],

@@ -66,6 +66,13 @@
       "actor": "EH-main-20261106",
       "at": "2026-11-07T03:42:46Z",
       "evidence": "终稿验收：六道全过；误报类豁免有读核记录"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-11-08T00:52:22Z",
+      "evidence": "对账纠正：删除装配重复的版本行（首次发表 2002-11-04/2023-01-09）与参考文献转换说明块各 1 处（源各 1）；check_style 0、check_academic OK（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],

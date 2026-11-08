@@ -66,6 +66,13 @@
       "actor": "ses-FGHIJK-main-1103",
       "at": "2026-11-02T22:24:47Z",
       "evidence": "done 收口：s2/s3 补校（18 处定点修，含 contemporary 误译、三子性别忠实、两处 credit 句式方向）+r1 五节八注全核销（引文 40+ 处、脚注 42 条逐字相符）+r3 四道门禁全绿；独立复审人 ses-FGHIJK-main-1103"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-11-08T00:52:23Z",
+      "evidence": "对账纠正：文末注释节标题 Notes（原文脚注）译为「## 注释」，删除同义重复标题「## Notes to Harriet Taylor Mill」（与 envy/erfurt 体例一致，注释定义照留）；check_style 0、check_academic OK（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],

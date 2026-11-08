@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-08 00:11（UTC）
+生成时间：2026-11-08 00:53（UTC）
 
 ## 总览
 
@@ -15,17 +15,18 @@
 |已建任务|1028|
 |例行/维护任务（不计状态机）|2|
 |已完成（done）|195|
-|在途（drafted 起、done 前）|233|
+|在途（drafted 起、done 前）|234|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|600|
-|cleared|162|
-|drafted|5|
-|s1_checked|1|
+|pending|599|
+|cleared|163|
+|drafted|3|
+|s1_checked|2|
+|s2_checked|1|
 |s3_checked|64|
 |r1_reviewed|1|
 |done|195|
@@ -83,6 +84,7 @@
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
+|analogy-medieval|retranslate|cleared|task_ops 2026-11-08|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bauer|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |bayes-theorem|retranslate|s3_checked|? 2026-11-04|
@@ -225,7 +227,7 @@
 |holism-social|retranslate|cleared|task_ops 2026-11-01|
 |holkot|retranslate|cleared|task_ops 2026-11-01|
 |horkheimer|retranslate|cleared|task_ops 2026-11-01|
-|hume-aesthetics|retranslate|drafted|EH-main-20261108 2026-11-07|
+|hume-aesthetics|retranslate|s1_checked|EH-main-20261108 2026-11-08|
 |hume-freewill|retranslate|cleared|task_ops 2026-11-01|
 |hume-moral|retranslate|cleared|task_ops 2026-11-01|
 |humor|retranslate|cleared|task_ops 2026-11-01|
@@ -241,7 +243,7 @@
 |jaina-philosophy|retranslate|cleared|task_ops 2026-11-01|
 |james-mill|retranslate|s3_checked|? 2026-11-07|
 |james-viterbo|retranslate|cleared|task_ops 2026-11-01|
-|japanese-aesthetics|retranslate|drafted|J-main-20261108 2026-11-08|
+|japanese-aesthetics|retranslate|s2_checked|J-main-20261108 2026-11-08|
 |japanese-confucian|retranslate|cleared|task_ops 2026-11-01|
 |japanese-philosophy|retranslate|cleared|task_ops 2026-11-01|
 |japanese-pure-land|retranslate|cleared|task_ops 2026-11-01|

@@ -66,6 +66,13 @@
       "actor": "EH-main-20261106",
       "at": "2026-11-06T12:50:07Z",
       "evidence": "终稿验收：六道全过；r1 实抓重复文献块并修复；技术密排 3 条豁免有据"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-11-08T00:52:23Z",
+      "evidence": "对账纠正：删除装配重复的版本行（首次发表 2002-05-03/2024-07-18）1 处（源 1）；check_style 0、check_academic OK（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],

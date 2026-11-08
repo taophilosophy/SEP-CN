@@ -66,6 +66,13 @@
       "actor": "EH-main-20261106",
       "at": "2026-11-06T17:17:41Z",
       "evidence": "终稿验收：六道全过；豁免 20 条逐类留痕（引文/术语被动/书名并列）"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-11-08T00:52:23Z",
+      "evidence": "对账纠正：正文第 4 节补回漏置脚注标记 [^note-20]（源句紧随 note-19 后；定义原已在文末）；check_style 0、check_academic OK（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],

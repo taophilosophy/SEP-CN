@@ -124,3 +124,41 @@
 ### 8.4 战役顺序（倒序）
 
 批次倒序 **H → G → F → E**；H 内先收在途 11 条（§7 计划②，就近收口），再按 SUMMARY 倒序开 pending；G/F/E 同理。认领统一改 `EH-main-20261108`。维持 §7 硬约束：半截账本禁直接 `init`（整册覆盖）、禁 compose（残余≠0）。
+
+## 9. 接管复算与纠正（2026-11-08 00:54 UTC，EH-main-20261108 续，主会话直译、无子代理）
+
+**口径**：任务 JSON 状态机 × `script/lq.py check` 账本 × 正文落盘（汉字数/节标题/脚注键集）× 英文镜像（`yuanwen/` 按 `[A-Za-z][A-Za-z'’-]*` 分词）四方核销；批次数以 `campaign.py status`、`PROGRESS.md` 生成物为准。
+
+### 9.1 复算快照（E–H）
+
+| 字母 | 总 | done | 在途 | 未动工 | 英文词数 | done 英文词数 |
+| --- | --- | --- | --- | --- | --- | --- |
+| E | 99 | 17 | 0 | 82 | 1,568,038 | 150,707（9.6%） |
+| F | 96 | 1 | 1（frame-problem 0/40） | 94 | 1,430,133 | 7,483（0.5%） |
+| G | 49 | 1 | 0 | 48（pending 30＋cleared 空架 18） | 710,324 | 5,509（0.8%） |
+| H | 61 | 8 | 11（§8.3 表 10 条半截＋hume-aesthetics drafted） | 42（pending 24＋cleared 空架 18） | 922,779 | 69,885（7.6%） |
+| 合计 | 305 | 27（8.9%） | 12（3.9%） | 266（87.2%） | 4,631,274 | 233,584（5.0%） |
+
+与 §8.1 一致，无 done 计数漂移；`PROGRESS.md` 已重生成（全局 done 195，在途 234）。
+
+### 9.2 本次纠正（已落盘）
+
+1. **h 账本 note 过期**：原记 cleared 29 系 hume-aesthetics 推进 `drafted`（2026-11-07T23:52Z）前快照；现改 cleared 28/drafted 1，并写入在途 11 与倒序战役口径（`campaign.py advance h translate --note`）。
+2. **e/egoism**：装配重复的版本行与「原文参考文献已转为脚注引用」说明块各 1 处（源各 1），删除重复；qa-rework 留痕。
+3. **e/epsilon-calculus**：装配重复的版本行 1 处，删除；qa-rework 留痕。
+4. **e/erfurt**：正文第 4 节 `note-19` 与 `note-21` 之间漏置 `[^note-20]` 标记（定义原在文末），补回；qa-rework 留痕。
+5. **h/harriet-mill**：文末注释节标题 `## Notes（原文脚注）` 译为 `## 注释`，删除同义重复标题 `## Notes to Harriet Taylor Mill`（与 envy/erfurt 体例一致）；qa-rework 留痕。
+6. **h/hutcheson**：内容注节 `## 脚注` 由参考文献前移至文末致谢之后（与 emilie/envy 体例一致，note-2005 原文孤立定义照留）；qa-rework 留痕。
+
+五条纠正后 `check_style` 0、`check_academic --strict` OK；脚注键闭包仅余源文同构的未引用定义（发布形态既定取舍）。
+
+### 9.3 复核结论与不做项
+
+* **done 27 条结构复核**：节集合/脚注键/defs 键集无缺失，唯一真缺陷为 erfurt 漏标记（已补）；其余差异为源文自身孤立定义与 `[^key]` 说明字面，属既定豁免（fan-yi-mu-ban §235）。
+* **`## References（引用注释）` 9 条（emerson/equal-ed-opportunity/film/gelukpa/holes/harriet-mill/homosexuality/hume-aesthetics/hutcheson）不改**：ADR-0017 与 2026-10-31 裁定「词条文件维持底稿形态，由站点渲染层补全参考文献」；`## 参考文献` 与 `## References（引用注释）` 并存属新旧管线既定双形态，非错译。
+* **参考文献子标题缺失（emilie/erasmus/epistemology-language-tibetan）**：references 脚注化后的转换器债（§6），留待 refs 转换器统一处理，不逐条手工打散。
+* **半截账本 4 条（emotion-Christian-tradition/epictetus/erfurt/equal-ed-opportunity）**：正文完整、账本旧管线残缺，维持 §6「禁 compose」结论。
+
+### 9.4 倒序战役断点
+
+批次倒序 **H → G → F → E** 不变；H 批接着手：先收 hume-aesthetics（drafted→s1 起），再逐条续半截在途（§8.3 表），最后按 SUMMARY 倒序开 pending。半截账本禁直接 `init`、禁 compose（残余≠0）。
