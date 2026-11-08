@@ -363,56 +363,74 @@ segments:
     kind: body
     source: |-
       ### 3.4 Early Analytic Philosophy and Logic (1926–1939)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.4 早期分析哲学与逻辑（1926–1939）
+    step2: |-
+      ### 3.4 早期分析哲学与逻辑（1926–1939）
   - id: 46
     kind: body
     source: |-
       Langer was a leader among the rising generation of analytic philosophers at Harvard in the 1920s and 1930s, importing ideas from Vienna and organizing a series of philosophical discussions modeled on the Vienna Circle. Feigl wrote to Schlick in 1930 that he
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1920 与 30 年代，朗格是哈佛新兴一代分析哲学家中的领军人物：她输入维也纳的观念，并仿照维也纳学派组织了一系列哲学讨论。费格尔 1930 年写信给石里克说，他
+    step2: |-
+      1920、30 年代，朗格是哈佛新一代分析哲学家中的佼佼者：她把维也纳的观念引入美国，并仿照维也纳学派组织了一系列哲学讨论。1930 年，费格尔在致石里克的信中说，他
   - id: 47
     kind: body
     source: |-
       > was delighted to meet Susanne Langer, who is a professor here at Radcliffe College … She is an excellent woman and her versatility is admirable… She … speaks German as well as English…. We (i.e., a group of young people who are interested in logic and philosophy…) meet at her place every Monday evening for discussions on the Viennese model;
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 很高兴结识苏珊·朗格，她是此地拉德克利夫学院的教授……她是一位出色的女性，多才多艺令人钦佩……她……德语与英语说得一样好……我们（即一群对逻辑与哲学感兴趣的年轻人……）每周一晚上在她家聚会，按维也纳模式讨论；
+    step2: |-
+      > 很高兴认识苏珊·朗格，她在此地拉德克利夫学院任教……她是一位优秀的女性，博学多才令人钦佩……她……德语与英语同样流利……我们（一群对逻辑与哲学感兴趣的年轻人……）每周一晚上在她寓所聚会，依维也纳模式进行讨论；
   - id: 48
     kind: body
     source: |-
       Feigl described Langer’s discussion group as “excellent”, finding her “amusingly” like Wittgenstein in her “demeanour, intuitive determination, and the conciseness of her statements” (Verhaegh 2022: 224)[^verhaegh-2022][^verhaegh-2022-2]. Carnap expressed an interest in working with her in his 1933 Rockefeller application (Verhaegh 2022: 223)[^verhaegh-2022][^verhaegh-2022-2].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      费格尔称朗格的讨论小组“极佳”，并觉得她在“风度、直觉式的决断与陈述的简洁”上“有趣地”像维特根斯坦（Verhaegh 2022: 224）[^verhaegh-2022][^verhaegh-2022-2]。卡尔纳普在 1933 年的洛克菲勒基金申请中表示希望与她合作（Verhaegh 2022: 223）[^verhaegh-2022][^verhaegh-2022-2]。
+    step2: |-
+      费格尔誉朗格的讨论小组为“极佳”，并觉得她“有趣地”酷似维特根斯坦——“风度、直觉式的决断、陈述的简洁”皆然（Verhaegh 2022: 224）[^verhaegh-2022][^verhaegh-2022-2]。卡尔纳普在 1933 年的洛克菲勒基金会申请书中表示有意与她合作（Verhaegh 2022: 223）[^verhaegh-2022][^verhaegh-2022-2]。
   - id: 49
     kind: body
     source: |-
       Langer’s earliest post-dissertation philosophical work consisted of a stream of pioneering articles on symbols, analysis and logical types (1926b,c; 1927, 1929a,b). Her dissertation argued that although *Principia*’s notation for *propositional function*, $\hat{\varphi}x$ “cannot be rendered verbally” (1926a: 52f.), the ascent from type to type does not yield ambiguity if it is understood purely “formally”. This echoes *Tractatus* 3.333, but Langer actually means her *own* notion of “formal”: whereas Wittgenstein rejected Russell’s axiom of reducibility as contingently true, hence not logical (*Tractatus* 6.1233), Langer (1926a,b) sides with Russell’s proposal in the second edition of *Principia* (1925: xxx): movement from type to type is *projection through similarity*, so that $\hat{\varphi}x$ is a “true abstraction”, hence not ambiguous at all, and there is no need for a special axiom.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      朗格博士论文之后最早的哲学工作，是一系列关于符号、分析与逻辑类型的开创性文章（1926b,c; 1927, 1929a,b）。其博士论文论证说，尽管《数学原理》对 *命题函项* 的记法 $\hat{\varphi}x$ “无法用言语表达”（1926a: 52f.），只要纯粹“从形式上”理解，从类型到类型的上升就不会产生歧义。这呼应《逻辑哲学论》3.333，但朗格实际指的是她 *自己* 的“形式”概念：维特根斯坦以“偶然为真、因而并非逻辑的”为由拒斥罗素的可化归公理（《逻辑哲学论》6.1233），朗格（1926a,b）则站在罗素在《数学原理》第二版（1925: xxx）中的提议一边：从类型到类型的运动是 *经由相似性的投射*，因此 $\hat{\varphi}x$ 是“真正的抽象”，从而毫无歧义，也不需要专门的公理。
+    step2: |-
+      朗格在博士论文之后最早的哲学工作，是一连串论符号、分析与逻辑类型的开创性论文（1926b,c; 1927, 1929a,b）。其博士论文主张：尽管《数学原理》中 *命题函项* 的记法 $\hat{\varphi}x$ “无法以言语表达”（1926a: 52f.），但只要纯“形式上”理解，从类型向类型的上升并不会导致歧义。此说呼应《逻辑哲学论》3.333，但朗格所谓的“形式”实为她 *自己* 的概念：维特根斯坦以可化归公理只是偶然为真、因而不是逻辑的为由加以拒斥（《逻辑哲学论》6.1233），朗格（1926a,b）则赞成罗素在《数学原理》第二版（1925: xxx）中的提议：类型间的移动是 *经由相似性的投射*，故 $\hat{\varphi}x$ 是“真正的抽象”，绝无歧义，也无须另设公理。
   - id: 50
     kind: body
     source: |-
       Langer next introduced a “paradox” concerning the relation of form to content, emphasizing their ultimate inseparability for purposes of analysis (1926c). Recasting the more well-known logical paradoxes, she argues that there is neither an overarching totality of all forms nor just *one* form of an object or proposition, because each object and each proposition may be projected into many different systems, and a form always inheres in a system (1926c: 437; Felappi 2017, 2024)[^felappi-2017]. This pluralism, owing debts to James’s pragmatism, Russell and Wittgenstein’s conceptions of “form”, Sheffer’s theory of “notational relativity” and to C.I. Lewis’s conceptual pragmatism (Langer & Gadol 1950: 126), prefigures Carnap’s pluralistic “constructive” program in analytic philosophy (Verhaegh 2022: 221)[^verhaegh-2022][^verhaegh-2022-2].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      朗格接着提出一个关于形式与内容之关系的“悖论”，强调就分析而言二者最终不可分离（1926c）。她重铸那些更著名的逻辑悖论，论证说：既不存在统摄一切形式的总体，也不存在对象或命题的 *唯一* 形式，因为每个对象、每个命题都可以被投射进许多不同的系统，而形式总是内在于某个系统（1926c: 437; Felappi 2017, 2024）[^felappi-2017]。这种多元论受惠于詹姆斯的实用主义、罗素与维特根斯坦的“形式”概念、谢弗的“记法相对性”理论以及 C.I. 刘易斯的概念实用主义（Langer & Gadol 1950: 126），预示了卡尔纳普在分析哲学中的多元“构造”纲领（Verhaegh 2022: 221）[^verhaegh-2022][^verhaegh-2022-2]。
+    step2: |-
+      朗格继而提出一个关于形式与内容之关系的“悖论”，强调分析上二者终不可分（1926c）。她重述那些更著名的逻辑悖论，主张：既无统摄一切形式的总体，也无对象或命题的 *单一* 形式；每个对象、每个命题皆可投射入许多不同系统，而形式总内在于某一系统（1926c: 437; Felappi 2017, 2024）[^felappi-2017]。这一多元论受惠于詹姆斯的实用主义、罗素与维特根斯坦的“形式”观、谢弗的“记法相对性”理论及 C.I. 刘易斯的概念实用主义（Langer & Gadol 1950: 126），并预示了卡尔纳普在分析哲学中的多元“构造”纲领（Verhaegh 2022: 221）[^verhaegh-2022][^verhaegh-2022-2]。
   - id: 51
     kind: body
     source: |-
       Langer’s pluralism is supported by her *Tractatus*-inspired analysis of meaning. The field of all possible analogies cannot be captured in a single proposition (1926a: 48, 88n, 92), though particular metaphors may be correct or incorrect, tight or loose, in a given context (1926a: 112, 159). In Langer (1927) she argues that Russell’s (1906) struggles with negative facts and the notion of “assertion” in the “verb” of a proposition may be resolved by taking propositions to express “inter-structural relations” of “analogy” and “projection” among systems (Felappi 2017)[^felappi-2017]. Langer’s 1929b argues that skeptical doubt is an inevitable result of making a demand for absolute truth, which is in turn driven by the refusal to admit that necessity is always relative to a system: the key flaw in traditional metaphysics lies in the tendency to treat concepts as entities and to begin with broad concepts (“cause”, etc.) instead of with systems (a point made also in the *Tractatus*). In asking whether consciousness *exists* (1904), for example, James should instead have asked, “Can we talk coherently about *consciousness*?” (Langer 1929b: 383).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      朗格的多元论得到她受《逻辑哲学论》启发的意义分析的支撑。一切可能类比构成的领域无法被单个命题捕获（1926a: 48, 88n, 92），尽管特定隐喻在给定语境中可以有对有错、或紧或松（1926a: 112, 159）。在 Langer（1927）中，她论证说，罗素（1906）在否定事实与命题“动词”中“断言”概念上的困扰，或可通过把命题视为表达系统之间“类比”与“投射”的“结构间关系”而得到化解（Felappi 2017）[^felappi-2017]。朗格 1929b 论证说，怀疑论式的怀疑是要求绝对真理的必然结果，而这一要求又源自拒绝承认必然性总是相对于某个系统：传统形而上学的关键缺陷，在于倾向把概念当作实体，并从宽泛概念（“原因”等）出发，而不是从系统出发（《逻辑哲学论》也提出过这一点）。例如，詹姆斯在追问意识是否 *存在*（1904）时，本应改问：“我们能否融贯地谈论 *意识*？”（Langer 1929b: 383）。
+    step2: |-
+      朗格的多元论以其受《逻辑哲学论》启发的意义分析为支撑。一切可能类比构成的领域无法收束于单个命题（1926a: 48, 88n, 92），尽管具体隐喻在特定语境中或对或错、或紧或松（1926a: 112, 159）。Langer（1927）主张，罗素（1906）在否定事实与命题“动词”之“断言”概念上的困局，或可借“命题表达诸系统间‘类比’与‘投射’的结构间关系”一说来化解（Felappi 2017）[^felappi-2017]。朗格 1929b 论证：怀疑论式的怀疑，是要求绝对真理的必然后果；而这一要求又出于拒不承认必然性始终相对于某一系统。传统形而上学的关键缺陷，正在于把概念当作实体、从宽泛概念（“原因”等）出发而不从系统出发（《逻辑哲学论》亦有此论）。例如詹姆斯追问意识是否 *存在*（1904），本当改问：“我们能否融贯地谈论 *意识*？”（Langer 1929b: 383）。
   - id: 52
     kind: body
     source: |-
       A founding member of *The Journal of Symbolic Logic*, from 1926 to 1939 Langer reviewed nineteen logic and philosophy books in German, French, English, and Italian. Her first philosophy book, *The Practice of Philosophy* (1930b), was an introduction to “analytic” philosophy, developing ideas in her dissertation and intended as an introduction to philosophy for a general audience. Situating her conception of the “logical basis of meaning” in historical terms, she argued that a “synoptic”, “bird’s-eye view of all things … cannot be established by direct preoccupation with the cosmos as such” (1930b: 215), but only through analysis. She defends her quest for the discovery of “general patterns” and the importance for philosophy of “a systematic view of possibilities”, i.e., a knowledge of forms which would yield the ability to swiftly, independently, and clear-sightedly understand meanings “in nature, in life, in ritual and art” (1930b: 218, 221). Invoking her reading of the *Tractatus*, she criticizes the idea of an absolute “first cause” as a “pseudo-concept” on grounds that the concept of a particular cause has a place only *within* nature, not outside of it (1930b: 61ff.; see Langer 1936). The book was taken in the United States to indicate Langer’s importance for the “new movement” in philosophy (Blumberg & Feigl 1931: 281)[^blumberg-1931] and was actively discussed in the Vienna Circle, praised especially by Schlick (Verhaegh 2022: 216ff.)[^verhaegh-2022][^verhaegh-2022-2].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作为《符号逻辑杂志》的创始成员，朗格在 1926–1939 年间评论了十九部德语、法语、英语与意大利语的逻辑与哲学著作。她的第一部哲学著作《哲学的实践》（*The Practice of Philosophy*，1930b）是一部“分析”哲学导论，发展了其博士论文中的观念，意在作为面向普通读者的哲学入门。她以历史的方式安置其“意义的逻辑基础”概念，论证说，“综观的”、对万物的“鸟瞰……不可能通过直接专注于宇宙本身而确立”（1930b: 215），而只能通过分析。她为自己的探索辩护——寻找“普遍模式”，以及“对可能性作系统考察”对哲学的重要性，即一种形式知识，能赋予人迅速、独立而清晰地理解“在自然中、在生命中、在仪式与艺术中”的意义的能力（1930b: 218, 221）。她援引对《逻辑哲学论》的解读，批评绝对“第一因”观念是一种“伪概念”，理由是特定原因的概念只在自然 *之内* 有其位置，而不在自然之外（1930b: 61ff.; 参 Langer 1936）。此书在美国被视为标志着朗格对哲学“新运动”的重要性（Blumberg & Feigl 1931: 281）[^blumberg-1931]，并在维也纳学派中引起积极讨论，尤受石里克称赞（Verhaegh 2022: 216ff.）[^verhaegh-2022][^verhaegh-2022-2]。
+    step2: |-
+      作为《符号逻辑杂志》的创办成员，朗格于 1926–1939 年间评介了十九部德语、法语、英语与意大利语的逻辑、哲学著作。其首部哲学书《哲学的实践》（*The Practice of Philosophy*，1930b）是一部“分析”哲学导论，发展了博士论文中的观念，面向普通读者。她把“意义的逻辑基础”概念置于历史脉络，主张那种“综观的”、“对万物的鸟瞰……无法靠直接专注于宇宙本身而确立”（1930b: 215），唯有经由分析。她为寻找“普遍模式”、为哲学中“对可能性的系统考察”之重要性辩护：这是一种形式知识，使人能迅速、独立而清晰地领会“自然中、生命中、仪式与艺术中”的意义（1930b: 218, 221）。她援引对《逻辑哲学论》的解读，批评绝对“第一因”观念为“伪概念”，理由是特定原因的概念只居自然 *之内*，不在其外（1930b: 61ff.; 参 Langer 1936）。此书在美国被看作朗格对哲学“新运动”之重要的标志（Blumberg & Feigl 1931: 281）[^blumberg-1931]，在维也纳学派中也引起热烈讨论，尤得石里克称许（Verhaegh 2022: 216ff.）[^verhaegh-2022][^verhaegh-2022-2]。
   - id: 53
     kind: body
     source: |-
       Langer’s *An Introduction to Symbolic Logic* (1937a, still in print) was one of the first American textbooks in modern symbolic quantificational logic, offering a through treatment of the notions of logical form, relation, terms and degree, and difficulties of natural language and logical symbolism. She treats the idea of a truth-value and the differences between deductive, inductive and mixed systems of inference, the quantifiers, elementary class theory (including Shefferian postulate theories for it), and includes a chapter on the algebra of logic where she sets out the phenomenon of duality (e.g., any class formed with $+$ may also be expressed in terms of $\times$ and negation). She discusses Principia Mathematica’s use of the “material conditional” in light of “logistic” and mentions C.I. Lewis’s “strict implication” (Lewis 1918; Lewis & Langford 1932)[^lewis-1918][^lewis-1932]. Her textbook received positive reviews (Feigl 1938; Stebbing 1938)[^feigl-1938][^stebbing-1938] but, while very competent for the time, was not particularly mathematical. Carnap and Quine each expressed disappointment with it from this point of view, though it was clear that Langer was pushing in a very different direction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      朗格的《符号逻辑导论》（*An Introduction to Symbolic Logic*，1937a，至今仍在印行）是美国最早的现代符号量化逻辑教科书之一，详尽处理逻辑形式、关系、词项与度等概念，以及自然语言与逻辑符号体系的困难。她论述真值概念、演绎系统、归纳系统与混合推理系统之别、量词、初等类理论（包括为其建立的谢弗式公设理论），并有一章论逻辑代数，阐述对偶现象（例如，任何用 $+$ 构成的类也可以用 $\times$ 与否定来表达）。她结合“逻辑斯谛”讨论《数学原理》对“实质条件句”的使用，并提及 C.I. 刘易斯的“严格蕴涵”（Lewis 1918; Lewis & Langford 1932）[^lewis-1918][^lewis-1932]。她的教科书获得好评（Feigl 1938; Stebbing 1938）[^feigl-1938][^stebbing-1938]，但尽管在当时颇为胜任，却不算数学性很强。卡尔纳普与蒯因都曾就此点表示失望，不过朗格显然正朝一个非常不同的方向推进。
+    step2: |-
+      朗格的《符号逻辑导论》（*An Introduction to Symbolic Logic*，1937a，至今仍在版）是美国最早的现代符号量化逻辑教科书之一，详论逻辑形式、关系、词项与度诸概念，以及自然语言与逻辑符号体系的困难。书中处理真值概念、演绎／归纳／混合推理系统之别、量词、初等类理论（含为其构造的谢弗式公设理论），并设一章论逻辑代数，阐发对偶现象（如任何以 $+$ 构成的类，也可用 $\times$ 与否定表达）。她联系“逻辑斯谛”讨论《数学原理》对“实质条件句”的运用，并提到 C.I. 刘易斯的“严格蕴涵”（Lewis 1918; Lewis & Langford 1932）[^lewis-1918][^lewis-1932]。此书获好评（Feigl 1938; Stebbing 1938）[^feigl-1938][^stebbing-1938]，在当时颇为出色，但数学性并不强。卡尔纳普与蒯因都就此表示失望，不过朗格显然正朝迥异的方向推进。
   - id: 54
     kind: body
     source: |-
