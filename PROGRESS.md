@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-08 13:10（UTC）
+生成时间：2026-11-08 14:19（UTC）
 
 ## 总览
 
@@ -12,9 +12,9 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1034|
+|已建任务|1037|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|216|
+|已完成（done）|218|
 |在途（drafted 起、done 前）|227|
 |阻塞|0|
 
@@ -22,17 +22,18 @@
 
 |状态|数量|
 |---|---|
-|pending|591|
-|cleared|159|
-|drafted|5|
-|s3_checked|63|
-|done|216|
+|pending|592|
+|cleared|158|
+|drafted|4|
+|s2_checked|1|
+|s3_checked|64|
+|done|218|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|53|
+|A|160|160|160|54|
 |B|62|62|62|15|
 |C|172|172|172|4|
 |D|92|92|92|11|
@@ -46,12 +47,12 @@
 |L|144|144|19|18|
 |M|139|139|14|6|
 |N|50|50|6|3|
-|O|21|21|9|8|
+|O|21|21|10|8|
 |P|165|165|4|0|
 |Q|34|34|0|0|
-|R|85|85|12|7|
+|R|85|85|13|8|
 |S|161|161|14|9|
-|T|71|71|6|2|
+|T|71|71|7|2|
 |U|4|4|0|0|
 |V|15|15|0|0|
 |W|38|38|6|0|
@@ -81,7 +82,6 @@
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
-|august-rehberg|retranslate|cleared|task_ops 2026-11-08|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |beardsley-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |beauty|retranslate|cleared|task_ops 2026-11-01|
@@ -227,7 +227,7 @@
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
 |information-biological|retranslate|cleared|task_ops 2026-11-01|
-|ingarden|retranslate|cleared|task_ops 2026-11-07|
+|ingarden|retranslate|s3_checked|I-main-20261108 2026-11-08|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
 |intuitionism-ethics|retranslate|cleared|task_ops 2026-11-01|
 |jaina-philosophy|retranslate|s3_checked|J-main-20261108 2026-11-08|
@@ -279,11 +279,12 @@
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
 |langer|retranslate|cleared|task_ops 2026-11-08|
-|mandeville|retranslate|drafted|M-main-20261108 2026-11-08|
+|mandeville|retranslate|s2_checked|M-main-20261108 2026-11-08|
 |moral-demands-permissions|retranslate|s3_checked|LMN-main-20261108f 2026-11-08|
 |necessary-sufficient|retranslate|cleared|task_ops 2026-11-08|
-|representation-medieval|retranslate|drafted|OPQR-main-20261108 2026-11-08|
-|simon-faversham|retranslate|cleared|task_ops 2026-11-08|
+|religion-epistemology|retranslate|cleared|task_ops 2026-11-08|
+|simon-faversham|retranslate|drafted|SZ-main-20261108 2026-11-08|
+|tarski-truth|retranslate|cleared|task_ops 2026-11-08|
 |telesio|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |theology-aristotle|retranslate|s3_checked|TZ-main-20261107 2026-11-08|
 |william-jevons|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
