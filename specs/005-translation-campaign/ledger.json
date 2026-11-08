@@ -10,8 +10,8 @@
   },
   "a": {
    "phase": "translate",
-   "claimed_by": "A-main-20261108",
-   "claimed_at": "2026-11-07T23:33:50Z",
+   "claimed_by": "A2-main-20261108",
+   "claimed_at": "2026-11-08T11:38:20Z",
    "note": "fetch/convert事实已满足（基线160/160镜像160/160，intake add=0）；political-philosophy遗留桩已裁定移除；对账补记（2026-11-06）：任务 160=pending 98/cleared 21/s1_checked 1/s3_checked 5/done 35，状态机与凭证一致；NO_LEDGER 41（旧存量 39 不补造；新增 2：addams-jane/al-farabi 11-03 ABCDE 会话译，无账本留痕）；复账（2026-11-06 AB-main-20261106）：任务 160=pending 97/cleared 18/done 45，内容×状态零偏差（done×complete 45/cleared×empty 18/pending×empty 97，无快照遗留件）；abortion done+qa-rework 开项（11-04 立项，状态保持 done）属既定语义非缺陷；上句补记 done 35/s3 5 系 11-03 快照过时数，c1623ef1 提交信息声称纠正但未落盘，本次补落；NO_LEDGER 160 全批（A 批无段落账本体系，不补造留痕）；收口（2026-11-07 AB-main-20261106）：alexander-crummell 九步入 done（s3 88f5e168、done bb45d393），实况 160=pending 96/cleared 18/done 46；下一目标按源文词数升序；行数口径不可靠（B 批已实证）。收口（2026-11-07 续）：albo-joseph 九步入 done（s3 ea599181、done 8f2da1b3，61 defs、marker 67:67、年份 147:147 全等，人名 19+术语 10 登记），实况 160=pending 95/cleared 18/done 47；收口（2026-11-07 续二）：arabic-islamic-mysticism 九步入 done（s3 7bdfa9e4、done 132751b2，defs 27+note-1、marker 25:25、年份 119:119 全等，人名 36+术语 8 登记，转写撇号 U+02BC 归一 77 处），实况 160=pending 94/cleared 18/done 48；收口（2026-11-07 续三）：antonio-rosmini 九步入 done（s3 c764a5ca、done 0f970ecc，defs 2 条 -nd 照录、参考文献区缩写表四类书目照录、年份 +3 全为缩写区间/年代词边界假差，人名 6+术语 11 登记），实况 160=pending 93/cleared 18/done 49；下一目标 auriol（9747 词）；复账接管（2026-11-08 A-main-20261108，用户裁定 A 批转本会话负责）：三源对账 160=done 52/cleared 18/pending 90，done×正文×git 零偏差（唯一在途件 aristotle-causality：任务 cleared 但正文已成稿、无账本未提交，零信任回核源文后九步入 done）；action QA 返工（prose 138→2 引文豁免、135 处改写）已落库 1e815c4d；下一目标按源文行数升序 analogy-medieval（137 行）；续（2026-11-08）：analogy-medieval 九步 done（正文 39 块 1:1、75 defs 照录、prose 59→0，提交 f58c3e6e），实况 done 53/160；下一目标 august-rehberg（140 行）",
    "advanced_at": "2026-10-28T16:35:48Z"
   },
@@ -31,9 +31,9 @@
   },
   "d": {
    "phase": "translate",
-   "claimed_by": "D-main-20261107",
-   "claimed_at": "2026-11-06T20:34:41Z",
-   "note": "对账补记（2026-11-03）：任务 92=done 6/r1_reviewed 4/s3_checked 3/cleared 8/pending 71；对账补记（2026-11-06）：任务 92=pending 71/cleared 4/s3_checked 7/r1_reviewed 4/done 6；duhem 在途（并行会话译文中勿动）；NO_LEDGER 17（旧存量 14；新增 3：descartes-ethics/descartes-ideas 11-04、dewey-political 11-05，actor=?）；对账补记（2026-11-06，CD-main-20261106 接管）：任务 92=pending 71/cleared 3/s3_checked 7/done 11（r1_reviewed 4 已由并行会话推至 done），状态机与 steps 凭证 100% 一致；NO_LEDGER 17→18（新增 duhem：11-06 收口 done，无账本留痕）；cleared 4→3（davidson/digital-art/dilthey 待全量重译）；本会话（CD-main-20261106）开工即收 cloning，d 批 davidson/digital-art/dilthey 三件 cleared 待全量重译；对账补记（2026-11-08，D-main-20261108 接管，对账脚本 script/audit_d_progress_20261108.py 可复跑）：任务 92=pending 66/cleared 4/s3_checked 11/done 11——11-07 后新增 s3_checked 4 条（dai-zhen/dialectical-school/diodorus-cronus/deductivism-mathematics，D-main-20261107 产出）；translated 22 件 198,571 英文词、stub 70 件 1,176,200 英文词（min 11,647/中位 16,061/max 31,810）；对账异常 19：NO_LEDGER 18（旧存量 17+duhem，只登记不追造）+ disability-care-rationing 在途半成品（账本 87 段仅填 43、正文标题行、state=cleared，2026-11-08 05:09 D-main-20261107 中断遗留，本会话续译收口）；体例债登记：prose 语言告警 1106 处（20 件，其中 8 条 done/s3 无豁免留痕）、参考文献英文小节标题 18 处（9 件，模板 fan-yi-mu-ban §4 允许保留 vs C 批复审汉化实践冲突，待用户裁定）；s3_checked 11 条 r1–r3 归 R-main-20261108 评审线（session-handoff §6），本线不再自推",
+   "claimed_by": "D-main-20261108b",
+   "claimed_at": "2026-11-08T11:44:17Z",
+   "note": "对账补记（2026-11-03）：任务 92=done 6/r1_reviewed 4/s3_checked 3/cleared 8/pending 71；对账补记（2026-11-06）：任务 92=pending 71/cleared 4/s3_checked 7/r1_reviewed 4/done 6；duhem 在途（并行会话译文中勿动）；NO_LEDGER 17（旧存量 14；新增 3：descartes-ethics/descartes-ideas 11-04、dewey-political 11-05，actor=?）；对账补记（2026-11-06，CD-main-20261106 接管）：任务 92=pending 71/cleared 3/s3_checked 7/done 11（r1_reviewed 4 已由并行会话推至 done），状态机与 steps 凭证 100% 一致；NO_LEDGER 17→18（新增 duhem：11-06 收口 done，无账本留痕）；cleared 4→3（davidson/digital-art/dilthey 待全量重译）；本会话（CD-main-20261106）开工即收 cloning，d 批 davidson/digital-art/dilthey 三件 cleared 待全量重译；对账补记（2026-11-08，D-main-20261108 接管，对账脚本 script/audit_d_progress_20261108.py 可复跑）：任务 92=pending 66/cleared 4/s3_checked 11/done 11——11-07 后新增 s3_checked 4 条（dai-zhen/dialectical-school/diodorus-cronus/deductivism-mathematics，D-main-20261107 产出）；translated 22 件 198,571 英文词、stub 70 件 1,176,200 英文词（min 11,647/中位 16,061/max 31,810）；对账异常 19：NO_LEDGER 18（旧存量 17+duhem，只登记不追造）+ disability-care-rationing 在途半成品（账本 87 段仅填 43、正文标题行、state=cleared，2026-11-08 05:09 D-main-20261107 中断遗留，本会话续译收口）；体例债登记：prose 语言告警 1106 处（20 件，其中 8 条 done/s3 无豁免留痕）、参考文献英文小节标题 18 处（9 件，模板 fan-yi-mu-ban §4 允许保留 vs C 批复审汉化实践冲突，待用户裁定）；s3_checked 11 条 r1–r3 归 R-main-20261108 评审线（session-handoff §6），本线不再自推；对账续记（2026-11-08，D-main-20261108b 接管 d 批）：任务 92=pending 65/cleared 4/s3_checked 12/done 11（disability-care-rationing 由 3f5215a1 收口 s3_checked）；translated 23 件 210,218 英文词、stub 69 件 1,164,553 英文词；异常 19 定性不变（NO_LEDGER 18 只登记不追造；disability 在途 59/111 段=body 109+oir 2，账本 kind/source 身份零差、已填 59 段守恒零问题，state=cleared 属 draft 未收口常态，本会话自段 60 续译）；s3_checked 12 条 r1–r3 仍归 R-main-20261108 评审线（session-handoff §6）",
    "advanced_at": "2026-11-02T16:12:59Z"
   },
   "e": {
@@ -108,29 +108,29 @@
   },
   "o": {
    "phase": "translate",
-   "claimed_by": "OR-main-20261106",
-   "claimed_at": "2026-11-06T13:48:32Z",
+   "claimed_by": "OPQR-main-20261108",
+   "claimed_at": "2026-11-08T11:24:30Z",
    "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
    "advanced_at": "2026-11-05T15:22:54Z"
   },
   "p": {
    "phase": "translate",
-   "claimed_by": "OR-main-20261106",
-   "claimed_at": "2026-11-06T13:48:32Z",
+   "claimed_by": "OPQR-main-20261108",
+   "claimed_at": "2026-11-08T11:24:31Z",
    "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
    "advanced_at": "2026-11-05T15:22:54Z"
   },
   "q": {
    "phase": "translate",
-   "claimed_by": "QR-main-20261108",
-   "claimed_at": "2026-11-08T02:33:02Z",
+   "claimed_by": "OPQR-main-20261108",
+   "claimed_at": "2026-11-08T11:24:31Z",
    "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
    "advanced_at": "2026-11-05T15:22:54Z"
   },
   "r": {
    "phase": "translate",
-   "claimed_by": "QR-main-20261108",
-   "claimed_at": "2026-11-08T02:33:03Z",
+   "claimed_by": "OPQR-main-20261108",
+   "claimed_at": "2026-11-08T11:24:31Z",
    "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
    "advanced_at": "2026-11-05T20:22:06Z"
   },
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-08T09:49:43Z"
+ "updated_at": "2026-11-08T11:44:17Z"
 }
