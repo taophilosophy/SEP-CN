@@ -2450,3 +2450,12 @@
 | Bertrand paradox | — | 伯特兰悖论 | 首现（imprecise-probabilities） | 学界惯例（概率论通行）；凭证 2026-11-08 | 2026-11-08 |
 | identity theory (of truth) | — | 同一论 | truth-coherence 补记 | 学界通行汉译（真理同一论，与融贯论/符合论对举）；凭证 2026-11-08 | 2026-11-08 |
 | epistemic realism about truth | — | 真理实在论 | truth-coherence 补记 | 学界通行汉译（接受二值原则与超越原则的立场）；凭证 2026-11-08 | 2026-11-08 |
+| linear pooling | — | 线性池化 | 首现（imprecise-probabilities） | 学界惯例（判断聚合文献）；凭证 2026-11-08 | 2026-11-08 |
+| aggregation | — | 聚合 | 首现（imprecise-probabilities） | 学界惯例（社会选择与判断聚合通行）；凭证 2026-11-08 | 2026-11-08 |
+| Pareto condition | — | 帕累托条件 | 首现（imprecise-probabilities） | 学界惯例（社会选择理论通行）；凭证 2026-11-08 | 2026-11-08 |
+| convexity | — | 凸性 | 首现（imprecise-probabilities） | 学界惯例（数学通行）；凭证 2026-11-08 | 2026-11-08 |
+| avatar | — | 化身 | 首现（imprecise-probabilities） | 自译裁定（Bradley 用语，正文括注 avatars）；凭证 2026-11-08 | 2026-11-08 |
+| Reflection Principle | — | 反思原则 | 首现（imprecise-probabilities） | 学界惯例（van Fraassen 术语）；凭证 2026-11-08 | 2026-11-08 |
+| probabilistic independence | — | 概率独立（性） | 首现（imprecise-probabilities） | 学界惯例（概率论通行）；凭证 2026-11-08 | 2026-11-08 |
+| group agent | — | 群体行动者 | 首现（imprecise-probabilities） | 学界惯例（社会本体论通行）；凭证 2026-11-08 | 2026-11-08 |
+| objective chance | — | 客观机遇 | 首现（imprecise-probabilities） | 学界惯例（概率哲学通行；chance 作机遇义）；凭证 2026-11-08 | 2026-11-08 |

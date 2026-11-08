@@ -797,182 +797,242 @@ segments:
     kind: body
     source: |-
       ### 2.6 Nonprobabilistic chances
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.6 Nonprobabilistic chances
+    step2: |-
+      ### 2.6 非概率的机遇
   - id: 92
     kind: body
     source: |-
       What if the objective chances were not probabilities? If we endorse some kind of connection between known objective chances and belief—for example, a principle of direct inference or Lewis’ Principal Principle (Lewis 1986)[^lewis-1986]—then we might have an additional reason to endorse imprecise probabilism. It seems to be a truth universally acknowledged that chances ought to be probabilities, but it is a “truth” for which very little argument has been offered. For example, Schaffer (2007) makes obeying the probability axioms one of the things required in order to play the “chance role”, but offers no argument that this should be the case. Joyce says “some have held objective chances are not probabilities. This seems unlikely, but explaining why would take us too far afield” (2009: 279, fn.17). Various other discussions of chance—for example in statistical mechanics (Loewer 2001; Frigg 2008)[^frigg-2008][^loewer-2001] or “Humean chance” (Lewis 1986, 1994)[^lewis-1986]—take for granted that chances should be precise and probabilistic (Dardashti et al. 2014 is an exception)[^dardashti-2014]. Obviously things are confused by the use of the concept of chance as a way of interpreting probability theory. There is, however, a perfectly good pre-theoretic notion of chance: this is what probability theory was originally invented to reason about, after all. This pre-theoretic chance still seems like the sort of thing that we should apportion our belief to, in some sense. And there is very little argument that chances must always be probabilities. If the chances were nonprobabilistic in a particular way, one might argue that your credences ought to be nonprobabilistic in the same way. What form a chance-coordination norm should take if chances and credences were to have non-probabilistic formal structures is currently an open problem.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若客观机遇不是概率，会怎样？若我们认可已知客观机遇与信念之间的某种联系——例如直接推断原则或 Lewis 的 Principal Principle（Lewis 1986）[^lewis-1986]——那么我们可能就有了认可非精确概率主义的额外理由。机遇应当是概率，这似乎是人人公认的真理，但为此给出的论证却少得可怜。例如，Schaffer（2007）把服从概率公理列为扮演“机遇角色”所必需的事情之一，却没有论证为何应当如此。Joyce 说：“有些人主张客观机遇不是概率。这看来不太可能，但解释其缘由会使我们离题太远”（2009: 279, 注 17）。关于机遇的其他各种讨论——例如统计力学中的（Loewer 2001; Frigg 2008）[^frigg-2008][^loewer-2001] 或“休谟式机遇”（Lewis 1986, 1994）[^lewis-1986]——都把机遇应当精确且是概率的这一点视为理所当然（Dardashti et al. 2014 是例外）[^dardashti-2014]。显然，由于“机遇”概念被用作解释概率论的一种方式，事情变得混乱了。然而，有一个完全站得住脚的前理论机遇概念：毕竟概率论最初就是为了对之推理而发明的。这种前理论的机遇，在某种意义上仍像是我们应当把信念分配于其上的东西。而“机遇必须始终是概率”这一主张，几乎没有论证。若机遇以某种特定方式是非概率的，人们就可以论证：你的信度也应当以同样的方式是非概率的。当机遇与信度都具有非概率的形式结构时，机遇—信度协调规范应当采取何种形式，目前仍是一个开放问题。
+    step2: |-
+      倘若客观机遇不是概率，情形会如何？只要我们认可以下这类联系——已知的客观机遇与信念之间的直接推断原则，或 Lewis 的 Principal Principle（主要原则，Lewis 1986）[^lewis-1986]——便又多了一条认可非精确概率主义的理由。“机遇应当是概率”仿佛是一条人皆认可的真理，可为之给出的论证却少得可怜。例如 Schaffer（2007）把服从概率公理列为扮演“机遇角色”的必要条件之一，却未论证何以必须如此。Joyce 亦坦言：“有人主张客观机遇不是概率。这看似不太可能，但要解释个中缘由，会把我们带得太远”（2009: 279, 注 17）。关于机遇的其他讨论——诸如统计力学中的机遇（Loewer 2001; Frigg 2008）[^frigg-2008][^loewer-2001]，或“休谟式机遇”（Lewis 1986, 1994）[^lewis-1986]——大多径自假定机遇应当精确而合乎概率（Dardashti et al. 2014 属例外）[^dardashti-2014]。事情的混乱，显然与把“机遇”概念当作解释概率论的手段有关。然而，前理论的机遇概念本身完全站得住：概率论最初正是为了对之推理而发明的。这种前理论的机遇，在某种意义上仍是我们应当分配信念的对象。而“机遇必定始终是概率”一说，几乎没有论证支撑。倘若机遇以某种特定方式为非概率的，便可主张你的信度也应以同样方式为非概率的。至于当机遇与信度都具非概率的形式结构时，机遇—信度协调规范该取何种形式，眼下仍是开放问题。
   - id: 93
     kind: body
     source: |-
       I want to give a couple of examples of this idea. First consider some physical process that doesn’t have a limiting frequency but has a frequency that varies, always staying within some interval. This would be a process that is chancy, but fairly predictable. It might be that the best description of such a system is to just put bounds on its relative frequency. Such processes have been studied using IP models (Kumar and Fine 1985; Grize and Fine 1987; Fine 1988)[^fine-1988][^grize-1987][^kumar-1985], and have been discussed as a potential source of imprecision in credence (Hájek and Smithson 2012)[^hájek-2012]. A certain kind of non-standard understanding of a quantum-mechanical event leads naturally to upper probability models (Suppes and Zanotti 1991; Hartmann and Suppes 2010)[^hartmann-2010][^suppes-1991]. John Norton has discussed the limits of probability theory as a logic of induction, using an example which, he claims, admits no reasonable probabilistic attitude (Norton 2007, 2008a,b)[^norton-2007]. One might hope that IP offers an inductive logic along the lines Norton sketches. Norton himself has expressed scepticism on this line (Norton 2007)[^norton-2007], although Benétreau-Dupin (2015) has defended IP as a candidate system for Norton’s project. Finally, particular views on vagueness might well prompt a rethinking of the formal structure of chance (Bradley 2016)[^bradley-2016][^bradley-2016-2].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我想给出这一想法的几个例子。首先考虑某个物理过程，它没有极限频率，但其频率不断变化，始终处于某个区间之内。这将是一个随机但相当可预测的过程。对这样一个系统，最好的描述也许就是给其相对频率加上界。这类过程已用 IP 模型研究过（Kumar and Fine 1985; Grize and Fine 1987; Fine 1988）[^fine-1988][^grize-1987][^kumar-1985]，并作为信度非精确性的一个潜在来源被讨论过（Hájek and Smithson 2012）[^hájek-2012]。对量子力学事件的某种非标准理解，自然导向上概率模型（Suppes and Zanotti 1991; Hartmann and Suppes 2010）[^hartmann-2010][^suppes-1991]。John Norton 讨论过概率论作为归纳逻辑的限度，所用的例子他声称容许不了任何合理的概率态度（Norton 2007, 2008a,b）[^norton-2007]。人们或许希望 IP 能提供一种沿着 Norton 所勾勒思路的归纳逻辑。Norton 本人对这条路线表示怀疑（Norton 2007）[^norton-2007]，不过 Benétreau-Dupin（2015）曾为 IP 作为 Norton 计划的一个候选系统辩护。最后，关于模糊性的某些观点很可能促使人们重新思考机遇的形式结构（Bradley 2016）[^bradley-2016][^bradley-2016-2]。
+    step2: |-
+      这里举两个例子来说明这一想法。先看某个物理过程：它没有极限频率，其频率却不断变动、始终落在某一区间之内。这样的过程是随机的，却也相当可预测。对此类系统，最好的描述或许就是给它的相对频率划出上下界。这类过程已有人用 IP 模型研究过（Kumar and Fine 1985; Grize and Fine 1987; Fine 1988）[^fine-1988][^grize-1987][^kumar-1985]，也被当作信度非精确性的一种可能来源讨论过（Hájek and Smithson 2012）[^hájek-2012]。对量子力学事件的某种非标准解读，则会自然引出上概率模型（Suppes and Zanotti 1991; Hartmann and Suppes 2010）[^hartmann-2010][^suppes-1991]。John Norton 曾借一个他声称不容任何合理概率态度的例子，讨论概率论作为归纳逻辑的限度（Norton 2007, 2008a,b）[^norton-2007]；人们或可指望 IP 提供一种沿着 Norton 所勾勒方向的归纳逻辑。Norton 本人对此存疑（Norton 2007）[^norton-2007]，不过 Benétreau-Dupin（2015）已为 IP 作为 Norton 计划的候选系统作过辩护。最后，关于模糊性的某些看法也很可能促使我们重新考虑机遇的形式结构（Bradley 2016）[^bradley-2016][^bradley-2016-2]。
   - id: 94
     kind: body
     source: |-
       ### 2.7 Group belief
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.7 Group belief
+    step2: |-
+      ### 2.7 群体信念
   - id: 95
     kind: body
     source: |-
       Suppose we wanted our epistemology to apply not just to individuals, but to “group agents” like committees, governments, companies, and so on. Such agents may be made up of members who disagree. Levi (1986, 1999) has argued that representation of such conflict is better handled with sets of probabilities than with precise probabilities. There is a rich literature on combining or aggregating the (probabilistic) opinions of members of groups (Genest and Zidek 1986)[^genest-1986] but the outcome of such aggregation does not adequately represent the *disagreement* among the group. Some forms of aggregation also fail to respect plausible constraints on group belief. For example, if every member of the group agrees that $X$ and $Y$ are probabilistically independent, then it seems plausible to require that the group belief respects this unanimity. It is, however, well known that linear pooling—a simple and popular form of aggregation—does not respect this desideratum. Consider two probability functions $p, q$ such that $p(X) = p(Y) = 1/3$ and $p(X\mid Y)=p(X)$ while $q(X) = q(Y) = 2/3$ and $q(X\mid Y)=q(X)$. Consider aggregating these two probabilities by taking an unweighted average of them: $r = p/2 + q/2$. Now, calculation shows that $r(X\cap Y) = 5/18$ while $r(X)r(Y) = 1/4$, thus demonstrating that $r$ does not consider $X$ and $Y$ to be independent. So such an aggregation method does not satisfy the above desideratum (Kyburg and Pittarelli 1992; Cozman 2012)[^cozman-2012][^kyburg-1992]. For more on judgement aggregation in groups, see List and Pettit (2011), especially chapter 2.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      假定我们希望自己的认识论不仅适用于个体，也适用于“群体行动者”，如委员会、政府、公司等等。这类行动者可能由意见不一的成员组成。Levi（1986, 1999）论证说，对这种冲突的表征，用概率集比用精确概率处理得更好。关于如何组合或聚合群体成员之（概率）意见的文献很丰富（Genest and Zidek 1986）[^genest-1986]，但如此聚合的结果并不能充分表征群体内部的 *分歧*。某些形式的聚合也无法尊重对群体信念的合理约束。例如，若群体中每位成员都同意 $X$ 与 $Y$ 概率独立，那么要求群体信念尊重这一一致意见似乎合理。然而众所周知，线性池化——一种简单而流行的聚合方式——并不尊重这一要求。考虑两个概率函数 $p, q$，使得 $p(X) = p(Y) = 1/3$ 且 $p(X\mid Y)=p(X)$，而 $q(X) = q(Y) = 2/3$ 且 $q(X\mid Y)=q(X)$。考虑对这两个概率取不加权的平均来聚合它们：$r = p/2 + q/2$。计算表明 $r(X\cap Y) = 5/18$，而 $r(X)r(Y) = 1/4$，从而表明 $r$ 并不认为 $X$ 与 $Y$ 相互独立。所以这种聚合方法不满足上述要求（Kyburg and Pittarelli 1992; Cozman 2012）[^cozman-2012][^kyburg-1992]。关于群体判断聚合的更多内容，见 List and Pettit（2011），特别是第 2 章。
+    step2: |-
+      倘若我们希望认识论不仅适用于个体，也适用于“群体行动者”——委员会、政府、公司等等，情形会怎样？这类行动者可能由意见相左的成员组成。Levi（1986, 1999）主张，对这种冲突的表征，用概率集比用精确概率处理得更好。关于如何组合或聚合群体成员之（概率）意见的文献十分丰富（Genest and Zidek 1986）[^genest-1986]，但聚合的结果并不能充分表征群体内部的 *分歧*；某些聚合方式还无法尊重对群体信念的合理约束。例如，若群体每位成员都认为 $X$ 与 $Y$ 概率独立，则要求群体信念尊重这一共识似乎合情合理。然而众所周知，线性池化——一种简单而流行的聚合方式——并不尊重这一要求：取两个概率函数 $p, q$，使 $p(X) = p(Y) = 1/3$ 且 $p(X\mid Y)=p(X)$，而 $q(X) = q(Y) = 2/3$ 且 $q(X\mid Y)=q(X)$，再以不加权的平均把它们聚合起来，即 $r = p/2 + q/2$；计算可得 $r(X\cap Y) = 5/18$，而 $r(X)r(Y) = 1/4$，可见 $r$ 并不认为 $X$ 与 $Y$ 相互独立。这种聚合方式由此不满足上述要求（Kyburg and Pittarelli 1992; Cozman 2012）[^cozman-2012][^kyburg-1992]。关于群体判断聚合的进一步讨论，见 List and Pettit（2011），尤其第 2 章。
   - id: 96
     kind: body
     source: |-
       Elkin and Wheeler (2016) argue that resolving disagreement among precise probabilist peers should involve an imprecise probability. Stewart and Quintana (2018) argue that imprecise aggregation methods have some nice properties that no precise aggregation method do.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Elkin and Wheeler（2016）论证说，解决精确概率主义同侪之间的分歧，应当涉及一个非精确概率。Stewart and Quintana（2018）论证说，非精确的聚合方法具有某些任何精确聚合方法都不具备的良好性质。
+    step2: |-
+      Elkin and Wheeler（2016）主张，化解精确概率主义同侪之间的分歧，应当引入一个非精确概率。Stewart and Quintana（2018）则主张，非精确的聚合方法具备某些为任何精确聚合方法所无的优良性质。
   - id: 97
     kind: body
     source: |-
       If committee members have credences *and* utilities that differ among the group, then no precise probability-utility pair distinct from the probabilities and utilities of the agents can satisfy the *Pareto condition* (Seidenfeld, Kadane, and Schervish 1989). The Pareto condition requires that the group preference respect agreement of preference among the group. That is, if all members of the group prefer $A$ to $B$ (that is, if each group member finds that $A$ has higher expected utility than $B$) then the aggregate preference (as determined by the aggregate probability-utility pair) should satisfy that preference. Since this “consensus preservation” is a reasonable requirement on aggregation, this result shows that precise models of group agents are problematic. Walley discusses an example of a set of probabilities where each probability represents the beliefs of a member of a group, then $P$ is an incomplete description of the beliefs of each agent, in the sense that if all members of $P$ agree on something, then that thing is something each agent believes. Sets of probabilities allow us to represent an agent who is *conflicted* in their judgements (Levi 1986, 1999)[^levi-1986].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若委员会成员的信度与效用各不相同，那么任何不同于各行动者之概率与效用的精确概率—效用配对，都无法满足 *帕累托条件*（Seidenfeld, Kadane, and Schervish 1989）。帕累托条件要求群体偏好尊重群体内部的偏好一致。也就是说，若群体中所有成员都偏好 $A$ 甚于 $B$（即每位成员都认为 $A$ 的期望效用高于 $B$），则聚合偏好（由聚合的概率—效用配对决定）应当满足这一偏好。既然这种“共识保持”是对聚合的合理要求，这一结果便表明，群体行动者的精确模型是有问题的。Walley 讨论了一个概率集的例子：其中每个概率代表群体一位成员的信念，于是 $P$ 是对每个行动者信念的不完备描述——其意义是：若 $P$ 中所有成员在某事上一致，则该事是每位行动者都相信的。概率集使我们得以表征一个在其判断上 *充满冲突* 的行动者（Levi 1986, 1999）[^levi-1986]。
+    step2: |-
+      倘若委员会成员的信度与效用彼此不一，那么任何有别于各行动者自身概率与效用的精确概率—效用配对，都无法满足 *Pareto condition*（帕累托条件，Seidenfeld, Kadane, and Schervish 1989）。帕累托条件要求群体偏好尊重群体内部的偏好一致：若群体所有成员都偏好 $A$ 甚于 $B$（即每位成员都认为 $A$ 的期望效用高于 $B$），则聚合偏好（由聚合的概率—效用配对决定）也应满足这一偏好。既然这种“共识保持”是对聚合的合理要求，该结果便表明群体行动者的精确模型有毛病。Walley 讨论过一个概率集之例：其中每个概率代表群体一位成员的信念，于是 $P$ 只是对各行动者信念的不完备描述——其义为：若 $P$ 中所有成员在某点上一致，该点便是每位行动者都相信的。概率集使我们能够表征一个在判断上 *conflicted*（充满冲突）的行动者（Levi 1986, 1999）[^levi-1986]。
   - id: 98
     kind: body
     source: |-
       > Ideally rational agents may face choices where there is no best option available to them. Indeterminacy in probability judgement and unresolved conflicts between values lead to predicaments where at the moment of choice the rational agent recognizes more than one such preference ranking of the available options in [the set of available choices] to be permissible. (Levi 1999: 510)[^levi-1999]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 理想的理性行动者可能面临没有最佳选项可用的选择。概率判断中的非确定性，以及价值之间的未决冲突，会导致这样的困境：在选择的那一刻，理性行动者认为[可选选择集]中有不止一个关于现有选项的偏好排序是许可的。（Levi 1999: 510）[^levi-1999]
+    step2: |-
+      > 理想的理性行动者也可能遇到无最佳选项可择的处境。概率判断中的非确定性，加上价值之间的未决冲突，会造成这样的困境：到了抉择时刻，理性行动者认为，在 [可选选择集] 中，关于现有选项的偏好排序不止一个是许可的。（Levi 1999: 510）[^levi-1999]
   - id: 99
     kind: body
     source: |-
       Levi also argued that individual agents can be in conflict in the same way as groups, and thus that individuals’ credal states are also better represented by sets of probabilities. (Levi also argued for the *convexity* of credal states, which brings him into conflict with the above argument about independence (see historical appendix section 3).) One doesn’t need to buy the claim that groups and individuals must be modelled in the same way to take something away from this idea. One merely needs to accept the idea that an individual can be *conflicted* in such a way that a reasonable representation of her belief state—or belief and value state—is in terms of sets of functions. Bradley (2009) calls members of such sets “avatars”. This suggests that we interpret an individual’s credal set as a *credal committee* made up of her avatars. This interpretation of the representor is due to Joyce (2011), though Joyce attributes it Adam Elga. This committee represents all the possible prior probabilities you could have that are consistent with the evidence. Each credal committee member is a fully opinionated Jamesian voluntarist. The committee as a whole, collectively, is a Cliffordian objectivist.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Levi 还论证说，个体行动者也可能像群体那样处于冲突之中，因而个体的信度状态也更宜用概率集来表征。（Levi 还主张信度状态具有 *凸性*，这使他与上述关于独立性的论证发生冲突（见历史附录第 3 节）。）人们不必接受“群体与个体必须以同样方式建模”这一主张，也能从这一想法中得到教益。只需接受：个体可能以这样的方式处于 *冲突* 之中，以致对其信念状态——或信念与价值状态——的合理表征是以函数集的形式给出的。Bradley（2009）称此类集合的成员为“化身”（avatars）。这提示我们把个体的信度集解释为一个由她的诸化身组成的 *信度委员会*。对表征集作这种解释，应归于 Joyce（2011），尽管 Joyce 将其归功于 Adam Elga。这个委员会代表你所能持有的、与证据相一致的一切可能先验概率。每位信度委员会成员都是完全有意见的詹姆斯式意志主义者；而委员会整体，则是一个克利福德式客观主义者。
+    step2: |-
+      Levi 还主张，个体行动者同样可能像群体那般处于冲突之中，因此个体的信度状态也更宜以概率集表征。（Levi 另主张信度状态具 *凸性*，这使他与上述关于独立性的论证相抵牾（见历史附录第 3 节）。）其实不必买下“群体与个体必须以同一方式建模”之说，也能从这一想法中有所得：只需承认，个体可能以某种方式处于 *冲突* 之中，以致对其信念状态——或信念与价值状态——的合理表征须取函数集的形式。Bradley（2009）称这类集合的成员为“化身”（avatars）。由此不妨把个体的信度集解释为一个由她的诸化身组成的 *信度委员会*——这一解释出自 Joyce（2011），而 Joyce 又将之归于 Adam Elga。该委员会代表你所能持有的、与证据相容的一切可能先验概率；每位成员都是意见周全的詹姆斯式意志主义者，而委员会整体则是克利福德式的客观主义者。
   - id: 100
     kind: body
     source: |-
       ## 3. Philosophical questions for IP
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. Philosophical questions for IP
+    step2: |-
+      ## 3 IP 的哲学问题
   - id: 101
     kind: body
     source: |-
       This section collects some problems for IP noted in the literature.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本节汇集文献中针对 IP 提出的一些问题。
+    step2: |-
+      本节汇集文献中就 IP 提出的一些问题。
   - id: 102
     kind: body
     source: |-
       ### 3.1 Dilation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 Dilation
+    step2: |-
+      ### 3.1 膨胀
   - id: 103
     kind: body
     source: |-
       Consider two logically unrelated propositions $H$ and $X$. Now consider the four “state descriptions” of this simple model as set out in Figure 1. So $a=H\cap X$ and so on. Now define $Y=a \cup d$. Alternatively, consider three propositions related in the following way: $Y$ is defined as “$H$ if and only if $X$”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      考虑两个逻辑上无关的命题 $H$ 与 $X$。现在考虑这一简单模型的四种“状态描述”，如图 1 所示。于是 $a=H\cap X$，依此类推。现在定义 $Y=a \cup d$。或者，考虑以下列方式相关的三个命题：$Y$ 被定义为“$H$ 当且仅当 $X$”。
+    step2: |-
+      取两个逻辑上无关的命题 $H$ 与 $X$，考察这一简单模型的四种“状态描述”，如图 1 所示。于是 $a=H\cap X$，余类推。再定义 $Y=a \cup d$；换个说法，就是三个命题按如下方式相关：$Y$ 定义为“$H$ 当且仅当 $X$”。
   - id: 104
     kind: body
     source: |-
       *Figure 1:*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Figure 1:*
+    step2: |-
+      *图 1：*
   - id: 105
     kind: body
     source: |-
       ![[A square with four quadrants, first column is labeled 'H' and second 'not H'; first row is labeled 'X' and second 'not X'. First quadrant (first column/first row) is shaded and has an 'a' on it; second quadrant (second column, first row) is not shaded and has a 'b' on it; third quadrant (first column, second row) is unshaded and has a 'c' on it; and last quadrant (second column, second row) is shaded and has a 'd' on it.]](../assets/imprecise-probabilities/two-by-two.png)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![[A square with four quadrants, first column is labeled 'H' and second 'not H'; first row is labeled 'X' and second 'not X'. First quadrant (first column/first row) is shaded and has an 'a' on it; second quadrant (second column, first row) is not shaded and has a 'b' on it; third quadrant (first column, second row) is unshaded and has a 'c' on it; and last quadrant (second column, second row) is shaded and has a 'd' on it.]](../assets/imprecise-probabilities/two-by-two.png)
+    step2: |-
+      ![[A square with four quadrants, first column is labeled 'H' and second 'not H'; first row is labeled 'X' and second 'not X'. First quadrant (first column/first row) is shaded and has an 'a' on it; second quadrant (second column, first row) is not shaded and has a 'b' on it; third quadrant (first column, second row) is unshaded and has a 'c' on it; and last quadrant (second column, second row) is shaded and has a 'd' on it.]](../assets/imprecise-probabilities/two-by-two.png)
   - id: 106
     kind: body
     source: |-
       Figure 1: A diagram of the relationships after Seidenfeld (1994); $Y$ is the shaded area
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Figure 1: A diagram of the relationships after Seidenfeld (1994); $Y$ is the shaded area
+    step2: |-
+      图 1：依 Seidenfeld（1994）所作的关系图；$Y$ 为阴影区域
   - id: 107
     kind: body
     source: |-
       Further imagine that $p(H\mid X) = p(H) = 1/2$. No other relationships between the propositions hold except those required by logic and probability theory. It is straightforward to verify that the above constraints require that $p(Y) = 1/2$. The probability for $X$, however, is unconstrained.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      进一步设想 $p(H\mid X) = p(H) = 1/2$。除逻辑与概率论所要求者外，诸命题之间不成立其他关系。容易验证，上述约束要求 $p(Y) = 1/2$。然而 $X$ 的概率则不受约束。
+    step2: |-
+      再设 $p(H\mid X) = p(H) = 1/2$，且诸命题之间除逻辑与概率论所要求者外别无其他关系。不难验证：上述约束要求 $p(Y) = 1/2$，而 $X$ 的概率则不受任何约束。
   - id: 108
     kind: body
     source: |-
       Let’s imagine you were given the above information, and took your representor to be the full set of probability functions that satisfied these constraints. Roger White suggested an intuitive gloss on how you might receive information about propositions so related and so constrained (White 2010)[^white-2010]. White’s puzzle goes like this. I have a proposition $X$, about which you know nothing at all. I have written whichever is true out of $X$ and $\neg X$ on the *Heads* side of a fair coin. I have painted over the coin so you can’t see which side is heads. I then flip the coin and it lands with the $X$ uppermost. $H$ is the proposition that the coin lands heads up. $Y$ is the proposition that the coin lands with the “$X$” side up.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      设想你获得了上述信息，并把表征集取为满足这些约束的全部概率函数。Roger White 就你可能如何获得关于如此相关、如此受约束的命题的信息，提出了一个直观的解释（White 2010）[^white-2010]。White 的谜题如下。我有一个命题 $X$，关于它你一无所知。我把 $X$ 与 $\neg X$ 中为真者写在了一枚公平硬币的 *正面* 一侧。我把硬币涂盖起来，使你看不出哪一面是正面。然后我抛掷硬币，它落地时 $X$ 朝上。$H$ 是硬币落地正面朝上这一命题。$Y$ 是硬币落地“$X$”一侧朝上这一命题。
+    step2: |-
+      设想你获知了上述信息，并把表征集取为满足这些约束的全部概率函数。Roger White 就“你可能如何获得关于如此相关、如此受约束的命题的信息”给出过一个直观的说明（White 2010）[^white-2010]。White 的谜题是这样的：我手里有一个命题 $X$，你对它一无所知；我把 $X$ 与 $\neg X$ 中为真者写在一枚公平硬币的 *heads*（正面）一侧；再把硬币涂盖起来，使你看不出哪面是正面。随后我抛掷硬币，它落下时 $X$ 朝上。令 $H$ 为“硬币落地正面朝上”这一命题，$Y$ 为“硬币落地时写着 $X$ 的一面朝上”这一命题。
   - id: 109
     kind: body
     source: |-
       Imagine if you had a precise prior that made you certain of $X$ (this is compatible with the above constraints since $X$ was unconstrained). Seeing $X$ land uppermost now should be evidence that the coin has landed heads. The game set-up makes it such that these apparently irrelevant instances of evidence *can* carry information. Likewise, being very confident of $X$ makes $Y$ very good evidence for $H$. If instead you were sure $X$ was false, $Y$ would be solid gold evidence of $H$’s falsity. So it seems that $p(H\mid Y)$ is proportional to prior belief in $X$ (indeed, this can be proven rather easily). Given the way the events are related, observing whether $X$ or $\neg X$ landed uppermost is a noisy channel to learn about whether or not $H$ landed uppermost.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      设想你有一个精确先验，使你确信 $X$（这与上述约束相容，因为 $X$ 不受约束）。此时看到 $X$ 朝上落地，应当成为硬币落在正面的证据。博弈的设置使得这些看似无关的证据实例 *能够* 携带信息。同样，对 $X$ 极为确信会使 $Y$ 成为 $H$ 的极好证据。反之，若你确信 $X$ 为假，则 $Y$ 便是 $H$ 为假的铁证。于是看来 $p(H\mid Y)$ 与对 $X$ 的先验信念成正比（这其实很容易证明）。鉴于诸事件的关联方式，观察 $X$ 还是 $\neg X$ 朝上落地，是一条了解 $H$ 是否朝上落地的噪声信道。
+    step2: |-
+      设想你持有一个精确先验，使你确信 $X$（这与上述约束相容，因为 $X$ 本无约束）。那么看到 $X$ 朝上落地，理应成为硬币落在正面的证据。博弈的设置恰恰让这些看似无关的证据实例 *能够* 携带信息：你对 $X$ 越是确信，$Y$ 便越是 $H$ 的好证据；反之，若你确信 $X$ 为假，$Y$ 便是 $H$ 为假的铁证。看来 $p(H\mid Y)$ 与对 $X$ 的先验信念成正比（这其实不难证明）。就诸事件的关联方式而言，观察落地朝上的是 $X$ 还是 $\neg X$，恰是一条探知 $H$ 是否朝上落地的噪声信道。
   - id: 110
     kind: body
     source: |-
       So let’s go back to the original imprecise case and consider what it means to have an imprecise belief in $X$. Among other things, it means considering possible that $X$ could be very likely. It is consistent with your belief state that $X$ is such that if you knew what proposition $X$ was, you would consider it very likely. In this case, $Y$ would be good evidence for $H$. Note that in this case learning that the coin landed $\neg X$ uppermost—call this $Y'$—would be just as good evidence against $H$. Likewise, $X$ might be a proposition that you would have very low credence in, and thus $Y$ would be evidence *against* $H$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      那么回到最初的非精确情形，考虑对 $X$ 持有非精确信念意味着什么。除其他事项外，它意味着认为 $X$ 很可能这一点是可能的。与你的信念状态相一致的是：$X$ 是这样一种命题——倘若你知道 $X$ 是什么命题，你会认为它很可能。在这种情况下，$Y$ 将是 $H$ 的良好证据。注意，在这种情况下，得知硬币以 $\neg X$ 朝上落地——称之为 $Y'$——将同样成为反对 $H$ 的良好证据。同样，$X$ 也可能是你信度极低的命题，于是 $Y$ 会成为 *反对* $H$ 的证据。
+    step2: |-
+      那么回到最初的非精确情形，看看对 $X$ 持非精确信念意味着什么。其含义之一是：你认为“$X$ 很可能”是可能的——你的信念状态容许这样的情形：$X$ 是那样一个命题，倘若你知道 $X$ 究竟是哪个命题，你会认为它很可能。此时 $Y$ 便会是 $H$ 的好证据。也要注意，在这种情况下，得知硬币以 $\neg X$ 朝上落地——记作 $Y'$——同样会是反对 $H$ 的好证据。同理，$X$ 也可能是你信度极低的一个命题，此时 $Y$ 便成了 *反对* $H$ 的证据。
   - id: 111
     kind: body
     source: |-
       Since you are in a state of ignorance with respect to $X$, your representor contains probabilities that take $Y$ to be good evidence that $H$ and probabilities that take $Y$ to be good evidence that $\neg H$. So, despite the fact that $P(H)=\{1/2\}$ we have $P(H\mid Y) = [0,1]$. This phenomenon—posteriors being wider than their priors—is known as dilation. The phenomenon has been thoroughly investigated in the mathematical literature (Walley 1991; Seidenfeld and Wasserman 1993; Herron, Seidenfeld, and Wasserman 1994; Pedersen and Wheeler 2014)[^pedersen-2014][^pedersen-2014-2][^seidenfeld-1993][^walley-1991][^wheeler-2014]. Levi and Seidenfeld reported an example of dilation to Good following Good (1967). Good mentioned this correspondence in his follow up paper (Good 1974)[^good-1974]. Recent interest in dilation in the philosophical community has been generated by White’s paper (White 2010)[^white-2010].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由于你对 $X$ 处于无知状态，你的表征集既包含把 $Y$ 视为 $H$ 之良好证据的概率，也包含把 $Y$ 视为 $\neg H$ 之良好证据的概率。因此，尽管 $P(H)=\{1/2\}$，我们却有 $P(H\mid Y) = [0,1]$。这一现象——后验比先验更宽——被称为膨胀。这一现象在数学文献中已被彻底研究（Walley 1991; Seidenfeld and Wasserman 1993; Herron, Seidenfeld, and Wasserman 1994; Pedersen and Wheeler 2014）[^pedersen-2014][^pedersen-2014-2][^seidenfeld-1993][^walley-1991][^wheeler-2014]。Levi 与 Seidenfeld 在 Good（1967）之后向 Good 报告了一个膨胀的例子。Good 在其后续论文中提到了这一通信（Good 1974）[^good-1974]。哲学界近期对膨胀的兴趣，由 White 的论文引发（White 2010）[^white-2010]。
+    step2: |-
+      由于你对 $X$ 一无所知，你的表征集里既有把 $Y$ 当作 $H$ 之好证据的概率，也有把 $Y$ 当作 $\neg H$ 之好证据的概率。于是，尽管 $P(H)=\{1/2\}$，却有 $P(H\mid Y) = [0,1]$。这一现象——后验宽于先验——即所谓膨胀，数学文献中已有充分研究（Walley 1991; Seidenfeld and Wasserman 1993; Herron, Seidenfeld, and Wasserman 1994; Pedersen and Wheeler 2014）[^pedersen-2014][^pedersen-2014-2][^seidenfeld-1993][^walley-1991][^wheeler-2014]。Levi 与 Seidenfeld 曾在 Good（1967）之后向 Good 报告过一例膨胀，Good 在随后的论文中提及了这通通信（Good 1974）[^good-1974]。哲学界近来对膨胀的兴趣，则由 White 的论文引发（White 2010）[^white-2010]。
   - id: 112
     kind: body
     source: |-
       White considers dilation to be a problem since learning $Y$ doesn’t *seem* to be relevant to $H$. That is, since you are ignorant about $X$, learning whether or not the coin landed $X$ up doesn’t seem to tell you anything about whether the coin landed heads up. It seems strange to argue that your belief in $H$ should *dilate* from $1/2$ to $[0,1]$ upon learning $Y$. It feels as if this should just be irrelevant to $H$. However, $Y$ is only really irrelevant to $H$ when $p(X)=1/2$. Any other precise belief you might have in $X$ is such that $Y$ now affects your posterior belief in $H$. Figure 2 shows the situation for one particular belief about how likely $X$ is; for one particular $p\in P$. The horizontal line can shift up or down, depending on what the committee member we focus on believes about $X$. $p(H\mid Y)$ is a half only if the prior in $X$ is also a half. However, the imprecise probabilist takes into account *all the ways $Y$ might affect belief in $H$*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      White 认为膨胀是个问题，因为得知 $Y$ *似乎* 与 $H$ 无关。也就是说，由于你对 $X$ 无知，得知硬币是否以 $X$ 朝上落地，似乎并不能告诉你硬币是否正面朝上落地。主张你在得知 $Y$ 之后对 $H$ 的信念应当从 $1/2$ *膨胀* 到 $[0,1]$，似乎很奇怪。感觉这应当与 $H$ 无关才对。然而，只有当 $p(X)=1/2$ 时，$Y$ 才真正与 $H$ 无关。你关于 $X$ 的任何其他精确信念，都会使 $Y$ 影响你对 $H$ 的后验信念。图 2 展示了关于 $X$ 之可能性的某一特定信念下的情形；对某个特定的 $p\in P$。水平线可以上移或下移，取决于我们所关注的那位委员会成员对 $X$ 持何信念。只有当对 $X$ 的先验也是一半时，$p(H\mid Y)$ 才是一半。然而，非精确概率主义者考虑了 *Y 影响 H 信念的所有可能方式*。
+    step2: |-
+      White 视膨胀为问题，因为得知 $Y$ *seems*（似乎）与 $H$ 无关：既然你对 $X$ 无知，那么得知硬币是否以 $X$ 朝上落地，似乎并不能告诉你硬币是否落在正面；说你在得知 $Y$ 之后对 $H$ 的信念会从 $1/2$ *dilate*（膨胀）到 $[0,1]$，未免离奇——感觉上这该与 $H$ 毫无干系才是。然而，唯有当 $p(X)=1/2$ 时，$Y$ 才真正与 $H$ 无关；你对 $X$ 持有的任何别的精确信念，都会让 $Y$ 影响你对 $H$ 的后验信念。图 2 就关于 $X$ 之可能性的某一特定看法展示了这一情形，对应某个特定的 $p\in P$：横线可上可下，取决于我们所注目的那位委员会成员对 $X$ 持何看法；只有当对 $X$ 的先验也恰为一半时，$p(H\mid Y)$ 才是一半。而非精确概率主义者所考虑的，是 *all the ways $Y$ might affect belief in $H$*（影响 其 信念之方式的一切可能）。
   - id: 113
     kind: body
     source: |-
       *Figure 2:*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Figure 2:*
+    step2: |-
+      *图 2：*
   - id: 114
     kind: body
     source: |-
       ![[A square with two columns labeled 'H' and 'not H' and two rows, a narrow one labeled 'X' and a wide one labeled 'not X'. The first quadrant (first column, first row) is shaded and has a 'Y' on it; second quadrant (second column, first row) is not shaded and has a 'not Y' on it; third quadrant (first column, second row) is unshaded with a 'not Y' on it and the fourth quadrant (second column, second row) is shaded and has a 'Y' on it.]](../assets/imprecise-probabilities/joyces-diagram.png)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![[A square with two columns labeled 'H' and 'not H' and two rows, a narrow one labeled 'X' and a wide one labeled 'not X'. The first quadrant (first column, first row) is shaded and has a 'Y' on it; second quadrant (second column, first row) is not shaded and has a 'not Y' on it; third quadrant (first column, second row) is unshaded with a 'not Y' on it and the fourth quadrant (second column, second row) is shaded and has a 'Y' on it.]](../assets/imprecise-probabilities/joyces-diagram.png)
+    step2: |-
+      ![[A square with two columns labeled 'H' and 'not H' and two rows, a narrow one labeled 'X' and a wide one labeled 'not X'. The first quadrant (first column, first row) is shaded and has a 'Y' on it; second quadrant (second column, first row) is not shaded and has a 'not Y' on it; third quadrant (first column, second row) is unshaded with a 'not Y' on it and the fourth quadrant (second column, second row) is shaded and has a 'Y' on it.]](../assets/imprecise-probabilities/joyces-diagram.png)
   - id: 115
     kind: body
     source: |-
       Figure 2: A member of the credal committee (after Joyce (2011))
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Figure 2: A member of the credal committee (after Joyce (2011))
+    step2: |-
+      图 2：信度委员会的一位成员（依 Joyce（2011））
   - id: 116
     kind: body
     source: |-
       Consider a group of agents who each had precise credences in the above coin case and differed in their priors on $X$. They would all start out with prior of a half in $H$. After learning $Y$, these agents would differ in their posterior opinions about $H$ based on their differing dispositions to update. The group belief would dilate. However, no agent in the group has acted in any way unreasonably. If we take Levi’s suggestion that individuals can be conflicted just like groups can, then it seems that individual agents can have their beliefs dilate just like groups can.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      考虑一组行动者，他们在上述硬币情形中各自持有精确信度，但对 $X$ 的先验各不相同。他们起初对 $H$ 的先验都是一半。得知 $Y$ 之后，这些行动者对 $H$ 的后验意见将因各自不同的更新倾向而彼此不同。群体信念将会膨胀。然而，群体中没有任何行动者做出任何不合理的举动。若我们接受 Levi 的建议——个体可以像群体那样处于冲突之中——那么看来个体行动者的信念也可以像群体那样膨胀。
+    step2: |-
+      设想一群行动者，他们在上述硬币情形中各持精确信度，对 $X$ 的先验却彼此不同。起初他们对 $H$ 的先验都是一半；得知 $Y$ 之后，因各自的更新倾向不同，他们对 $H$ 的后验意见便分道扬镳，群体信念随之膨胀。然而人群中没有任何一位行动者有丝毫不合理之举。若接受 Levi 的建议——个体可以像群体那样处于冲突之中——那么个体行动者的信念看来也能像群体那样膨胀。
   - id: 117
     kind: body
     source: |-
       There are two apparent problems with dilation. First, the belief-moving effect of apparently irrelevant evidence; and second, the fact that learning some evidence can cause your belief-intervals to widen. The above comments speak to the first of these. Pedersen and Wheeler (2014) also are focused on mitigating this worry. We turn now to the second worry.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      膨胀有两个明显的问题。第一，看似无关的证据具有移动信念的效力；第二，得知某些证据会使你的信念区间变宽。上述评论已涉及第一个问题。Pedersen and Wheeler（2014）也专注于缓解这一忧虑。现在我们转向第二个忧虑。
+    step2: |-
+      膨胀有两处显眼的毛病：其一，看似无关的证据竟有移动信念的效力；其二，得知某些证据会让你的信念区间变宽。上述讨论已回应了第一处，Pedersen and Wheeler（2014）也致力于缓解这一忧虑。下面转向第二处。
   - id: 118
     kind: body
     source: |-
       Even if we accept dilation as a fact of life for the imprecise probabilist, it is still *weird*. Even if all of the above argument is accepted, it still seems strange to say that your belief in $H$ is dilated, *whatever you learn*. That is, whether you learn $Y$ or $Y'$, your posterior belief in $H$ looks the same: $[0,1]$. Or perhaps, what it shows to be weird is that your initial credence was precise.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即便我们接受膨胀是非精确概率论者生活中无法回避的事实，它仍然 *很怪异*。即便上述论证全被接受，说你对 $H$ 的信念已经膨胀——*无论你学到什么*——仍然显得奇怪。也就是说，无论你得知 $Y$ 还是 $Y'$，你对 $H$ 的后验信念看起来都一样：$[0,1]$。又或者，这一现象所显示的怪异之处，其实在于你最初的信念是精确的。
+    step2: |-
+      即便承认膨胀是非精确概率论者躲不开的现实，它仍然 *很怪异*。纵使上述论证尽数接受，说你对 $H$ 的信念已经膨胀——*无论你学到什么*——仍显得离奇：无论得知的是 $Y$ 还是 $Y'$，你对 $H$ 的后验信念看去都一样，都是 $[0,1]$。又或者，这一现象所表明的怪异之处，其实在于你最初的信念竟是精确的。
   - id: 119
     kind: body
     source: |-
       Hart and Titelbaum (2015) suggest that dilation is strange because conditionalising on a biconditional (which is, after all, what you are doing in the above example) is unintuitive even in the precise case. Whether all cases of dilation can be explained away in this manner remains to be seen. Gong and Meng (2017) likewise see dilation as a problem of mis-specified statistical inference, rather than a problem for IP per se.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Hart and Titelbaum（2015）提出，膨胀之所以奇怪，是因为在一个双条件句上条件化（毕竟这正是上述例子中所做的事情）即便在精确情形中也不合直觉。是否所有膨胀情形都能以此方式化解，尚待观察。Gong and Meng（2017）同样把膨胀视为统计推断设定有误的问题，而非 IP 本身的问题。
+    step2: |-
+      Hart and Titelbaum（2015）提出，膨胀之所以显得奇怪，是因为在一个双条件句上条件化（上述例子所做的正是此事）即便在精确情形中也违反直觉。是否所有膨胀情形都能如此化解，尚待分晓。Gong and Meng（2017）同样把膨胀看作统计推断设定失当的问题，而非 IP 本身的毛病。
   - id: 120
     kind: body
     source: |-
       Beyond this seeming strangeness, White suggests a specific way that being subject to dilation is an indicator of a defective epistemology. White suggests that dilation examples show that imprecise probabilities violate the *Reflection Principle* (van Fraassen 1984)[^fraassen-1984]. The argument goes as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除去这一表面上的怪异，White 还提出了一种具体方式，说明何以受膨胀影响是认知论有缺陷的标志。White 提出，膨胀的例子表明非精确概率违反了 *反思原则*（van Fraassen 1984）[^fraassen-1984]。论证如下：
+    step2: |-
+      除这层表面上的怪异之外，White 还提出了一个具体说法，指认受膨胀影响是认知论有缺陷的征兆：他认为膨胀之例表明，非精确概率违反了 *Reflection Principle*（反思原则，van Fraassen 1984）[^fraassen-1984]。论证如下：
   - id: 121
     kind: body
     source: |-
