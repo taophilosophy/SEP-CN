@@ -82,8 +82,8 @@
    "phase": "translate",
    "claimed_by": "K-main-20261108b",
    "claimed_at": "2026-11-08T11:57:38Z",
-   "note": "2026-11-08 K 批接管对账（K-main-20261108b，用户指令：现在负责翻译 K，主会话直译不用子代理）：三源对账（tasks/ 状态 × 账本 segments × k/*.md 实态）＝done 21/36、drafted 1（korean-confucianism：账本 136 段（body135+oir1）双版全齐、补充材料 Figures and their Works 另译 4322B、doc 43455 字符，s1-s3 待校）、cleared 14（英文源 109–242KB，体量升序队列：kant-judgment → kukai → kant-transcendental → kant-development → kant-spacetime → kant-religion → knowledge-how → kant-moral → kant → kant-hume-causality → kant-conceptualism → kant-transcendental-idealism → kant-aesthetics → kyoto-school）。账本守恒复跑 12 份：10 份 HARD=0；纠正 2 处：① kochen-specker 段101 标题粘连（『#### Causal Contextuality』被早期段102/103 对调修复粘成正文残片并已落盘 doc 第226行）→ 改回『#### 因果的语境性』并同步账本；段126/130/132 source 多段块截断（只剩首行）→ 按 yuanwen 逐字符回填，HARD 清零（137/137）；② kant-mathematics 账本系子代理期 29 段半账（源 body38+oir1+note5=44），doc 侧 defs 120:120 与四检已过、内容完整，账本缺口如实留痕不作伪造回填，后续抽查以 doc 与 yuanwen 对读为准。在途接力：korean-confucianism s1 起，随后按体量序开 kant-judgment。",
-   "advanced_at": "2026-11-08T11:57:38Z"
+   "note": "2026-11-08 K 批接管（K-main-20261108b，用户指令：现在负责翻译 K，主会话直译不用子代理）：三源对账 done 21/36、s3_checked 1（korean-confucianism，本会话 s1-s3 完成：s1 定点修 16 处含 seg89 漏译三句、seg107 丁/郑氏兄弟、seg123《牧民心书》等；s2 prose 70→57（实修 21、余按学术长句/术语枚举/引文豁免）、s3 五维对账 defs 93:93·markers 94:94·H2 11:11·H3 8:8、四检全绿；人名登记补 24 行；r1-r3 归评审线 R-main-20261108）、cleared 14（源 31.6 万词，体量升序：kant-judgment → kukai → knowledge-how → kant-transcendental → kant-development → kant-spacetime → kant-religion → kant-conceptualism → kant-moral → kant → kant-hume-causality → kant-transcendental-idealism → kant-aesthetics → kyoto-school）。已纠正：kochen-specker 段101 标题粘连与段126/130/132 source 截断（HARD 清零）、kant-mathematics 半账留痕。在途接力：kant-judgment。",
+   "advanced_at": "2026-11-08T15:29:02Z"
   },
   "l": {
    "phase": "translate",
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-08T14:43:33Z"
+ "updated_at": "2026-11-08T15:29:02Z"
 }
