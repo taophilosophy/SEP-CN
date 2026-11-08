@@ -262,6 +262,8 @@
 
 [^rusnock-2004]: Rusnock, P., 2004, “Was Kant’s Philosophy of Mathematics Right for His Time?”, *Kant-Studien*, 95 (4): 426–442.
 
+[^schönfeld-2000]: Schönfeld, M., 2000, *The Philosophy of the Young Kant: The Precritical Project*, New York: Oxford University Press.
+
 [^shabel-1998]: Shabel, L., 1998, “Kant on the ‘Symbolic Construction’ of Mathematical Concepts”, *Studies in History and Philosophy of Science*, 29 (4): 589–621.
 
 [^shabel-2003]: –––, 2003, *Mathematics in Kant’s Critical Philosophy: Reflections on Mathematical Practice*, New York: Routledge.

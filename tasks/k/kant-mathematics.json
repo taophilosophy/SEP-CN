@@ -66,6 +66,13 @@
       "actor": "ses-FGHIJK-main-1103",
       "at": "2026-11-02T22:33:20Z",
       "evidence": "done 收口：s1-s3 三校（7 处定点修：H1/SUMMARY 全题化+星号错位×4+polyadic 多元逻辑）+r1 三节九小节全核销（康德原文引用 18 处 A/B 页码、脚注 6 条、参考文献 71 条逐字相符、相关词条 9 项对齐 SUMMARY）+r3 四道门禁全绿；独立复审人 ses-FGHIJK-main-1103；F-K 批审查通道（s3/s1/drafted 在途）至此全部清零"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:14:38Z",
+      "evidence": "qa-rework（K 批接管对账，2026-11-08）：参考文献 defs 键集对账发现漏搬 schönfeld-2000 一条（源 yuanwen 第 286 行，正文未引用型书目条目），已按字母序插入 k/kant-mathematics.md（rusnock-2004 与 shabel-1998 之间）逐字符照录；复跑 defs 120:120 齐平、check_style 0、check_math 0/0、check_academic --strict OK"
     }
   ],
   "blockers": [],
