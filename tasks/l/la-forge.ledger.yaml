@@ -1,0 +1,547 @@
+version: 1
+slug: la-forge
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Louis de la Forge was among the first group of self-styled disciples to edit and disseminate the writings of Descartes in the years immediately following his death in Sweden (1650). La Forge initially used his medical training to comment on Cartesian physiology. He also wrote the first monograph on Descartes’ theory of the human mind, in which he defended substance dualism and proposed a theory of occasional causation that was adopted and developed by other Cartesians, including Malebranche.
+    step1: |-
+      路易·德·拉弗尔热属于最早一批自命为笛卡儿信徒的人：笛卡儿 1650 年卒于瑞典后，他们随即着手编辑并传播其著作。拉弗尔热起初以医学训练为底，评注笛卡儿式生理学；后又写下第一部系统阐述笛卡儿人类心灵理论的专著，为实体二元论辩护，并提出一种偶因论因果学说，该学说为马勒伯朗士等笛卡儿主义者所承袭、发展。
+    step2: |-
+      路易·德·拉弗尔热是最早一批自命为笛卡儿门徒的学者之一；笛卡儿 1650 年卒于瑞典后，他们随即编辑、传布其著作。拉弗尔热最初以医学训练为根基，评注笛卡儿式生理学，继而撰成第一部系统论述笛卡儿人类心灵理论的专著，书中为实体二元论辩护，并提出一种偶因论因果学说，后为马勒伯朗士等笛卡儿主义者采纳并加以发展。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life and Works
+    step1: |-
+      ## 1 生平与著作
+    step2: |-
+      ## 1 生平与著作
+  - id: 3
+    kind: body
+    source: |-
+      La Forge was born on 24 or 26 November 1632 in La Flèche, in the Loire valley in central France, the same town in which Descartes had attended college between 1607 and 1615. He became a medical doctor, and then moved to Saumur, where he married Renée Bizard in 1653. He practised medicine at Saumur until his premature death in 1666. There had been a Huguenot college at Saumur since 1599, when it was founded by Philippe Duplessis-Mornay (1549–1623). Moïse Amyraut (1596–1664) and Robert Chouet (1642–1731) were among the notable contemporary scholars who taught there. There was also an Oratorian school (the *Collège royal des Catholiques*) and an adjoining seminary in the same town, at *Notre Dame des Ardilliers*. A number of Catholic philosophers had studied in the latter, including Bernard Lamy (1640–1715) and, for a brief period, Nicolas Malebranche. Both colleges were receptive to the ‘new’ philosophy of Cartesianism and, apparently, their staff members enjoyed more amicable relations than might have been expected from the history of the religious traditions that they represented. Following revocation of the Edict of Nantes (1685), the Calvinist college was razed, while *Notre Dame des Ardilliers* survives as a school to this day.
+    step1: |-
+      拉弗尔热于 1632 年 11 月 24 日或 26 日出生在法国中部卢瓦尔河谷的拉弗莱什，即笛卡儿 1607 至 1615 年间就读的同一座城镇。他成为医学博士，随后迁往索米尔，1653 年在那里与勒内·比扎尔结婚。他在索米尔行医，直至 1666 年英年早逝。自 1599 年菲利普·迪普莱西-莫尔奈（1549–1623）创办胡格诺派学院以来，索米尔一直有这样一所学院。莫伊兹·阿米罗（1596–1664）与罗贝尔·舒埃（1642–1731）是当时在该校任教的著名学者。同一城镇还有一所奥拉托利会学校（*Collège royal des Catholiques*）及其附属神学院，位于 *Notre Dame des Ardilliers*。一批天主教哲学家曾在该神学院学习，包括贝尔纳·拉米（1640–1715），以及短暂就读的尼古拉·马勒伯朗士。两所学院都接纳“新”哲学即笛卡儿主义，而且其教职员之间的关系显然比人们根据它们所代表的宗教传统史所预期的更为融洽。1685 年《南特敕令》撤销后，加尔文派学院被夷平，而 *Notre Dame des Ardilliers* 作为学校存续至今。
+    step2: |-
+      拉弗尔热 1632 年 11 月 24 日或 26 日生于法国中部卢瓦尔河谷的拉弗莱什——正是笛卡儿 1607 至 1615 年就读的城镇。他取得医学博士学位后迁居索米尔，1653 年与勒内·比扎尔成婚，并在那里行医，直至 1666 年早逝。索米尔自 1599 年菲利普·迪普莱西-莫尔奈（1549–1623）创办胡格诺派学院起，便有此校；莫伊兹·阿米罗（1596–1664）与罗贝尔·舒埃（1642–1731）都曾在此执教，颇负时名。同城另有奥拉托利会学校（*Collège royal des Catholiques*）及附属神学院，位于 *Notre Dame des Ardilliers*；贝尔纳·拉米（1640–1715）等一批天主教哲学家曾在此研习，尼古拉·马勒伯朗士亦曾短期就读。两所学院都对“新”哲学即笛卡儿主义持开放态度，其教职员之间的关系，显然也比两派宗教传统的历史所预示的更为和睦。1685 年《南特敕令》被撤销后，加尔文派学院遭夷平，而 *Notre Dame des Ardilliers* 则作为学校存续至今。
+  - id: 4
+    kind: body
+    source: |-
+      La Forge became acquainted with Cartesianism when he studied at La Flèche, and he continued his interest while practicing medicine at Saumur, where he had opportunities to discuss philosophy with other sympathetic readers of Descartes at both the Oratorian school and at the Reformed Academy, especially with Chouet. Although he lived in the provinces, he corresponded with some leading Cartesians of the period, including Géraud de Cordemoy (1626–84), who published his own contribution to Cartesianism in the same year as La Forge (Cordemoy 1666)[^cordemoy-1666]. When Claude Clerselier (1614–84) began to edit Descartes’ works and prepare them for publication, he acquired manuscript copies of two of his unpublished essays entitled *Traité de l’Homme* and *Description du Corps Humain*, both of which have since been lost. The *Traité* was the second part of a book that Descartes had planned to publish as *Traité de la lumière*. However, those plans were deferred indefinitely when news of Galileo’s condemnation reached Holland in 1633 and, as a result, the *Traité de l’Homme* remained unpublished during its author’s lifetime. Nonetheless, Descartes retained the manuscript throughout his peripatetic life; he also appears to have made at least two copies for friends (Otegem, 2002: II, 485–536), through whom in turn his physiological studies acquired a limited dissemination. In 1648, Descartes revisited his early work in physiology; he reported that it was almost illegible, due to the condition of the manuscript, and he began to draft a supplementary sketch of the conception and birth of animals in a manuscript entitled *Description du Corps Humain*.
+    step1: |-
+      拉弗尔热在拉弗莱什求学时接触到笛卡儿主义，此后在索米尔行医期间兴趣不减；他在那里有机会与奥拉托利会学校和改革宗学院中其他同情笛卡儿的读者讨论哲学，尤其是与舒埃。虽然他身居外省，却与当时一些重要的笛卡儿主义者通信，包括热罗·德·科尔德穆瓦（1626–84），后者与拉弗尔热同年发表了自己对笛卡儿主义的贡献（Cordemoy 1666）[^cordemoy-1666]。当克洛德·克莱尔塞利耶（1614–84）开始编辑笛卡儿著作并准备出版时，他获得了笛卡儿两篇未刊文稿《论人》（*Traité de l’Homme*）与《人体描述》（*Description du Corps Humain*）的抄本，二者此后均已佚失。《论人》原为笛卡儿计划以《光论》（*Traité de la lumière*）为题出版的书的第二部分。然而，1633 年伽利略受谴责的消息传到荷兰后，这些计划被无限期搁置；结果《论人》在作者生前未能出版。尽管如此，笛卡儿在辗转流离的一生中始终保存着这部手稿；他似乎还至少为友人抄录了两份（Otegem, 2002: II, 485–536），其生理学研究遂借由这些抄本得到有限流传。1648 年，笛卡儿重新审视自己早年的生理学工作；他报告说，由于手稿状况不佳，它几乎无法辨认，并开始在一部题为《人体描述》的手稿中起草关于动物受孕与出生的补充纲要。
+    step2: |-
+      拉弗尔热在拉弗莱什读书时初识笛卡儿主义，此后在索米尔行医期间兴趣不减，并有机会与奥拉托利会学校、改革宗学院中其他同情笛卡儿思想的读者讨论哲学，尤与舒埃过从。他虽身居外省，却与当时一些重要的笛卡儿主义者通信，其中包括热罗·德·科尔德穆瓦（1626–84）——后者恰与拉弗尔热同年发表了自己对笛卡儿主义的贡献（Cordemoy 1666）[^cordemoy-1666]。克洛德·克莱尔塞利耶（1614–84）着手编辑、整理笛卡儿遗著以备出版时，得到了笛卡儿两篇未刊文稿《论人》（*Traité de l’Homme*）与《人体描述》（*Description du Corps Humain*）的抄本，二者今皆佚失。《论人》本是笛卡儿拟以《光论》（*Traité de la lumière*）为总题出版之书的第二部分；但 1633 年伽利略获罪的消息传至荷兰，该计划遂无限期搁置，《论人》因而在作者生前未曾刊行。尽管如此，笛卡儿在辗转漂泊的一生中始终保存此稿，似乎还至少为友人抄录了两份（Otegem, 2002: II, 485–536），其生理学研究便借此获得有限流传。1648 年，笛卡儿重理早年生理学旧稿，自称手稿状况不佳、几不可辨，并着手在题为《人体描述》的手稿中补写动物受孕与出生的纲要。
+  - id: 5
+    kind: body
+    source: |-
+      Both unpublished texts were still in poor condition when Descartes died in 1650. Among other deficiencies, they lacked most of the diagrams that were required to make his theory intelligible to readers, which Descartes had been unable to draw. Since Clerselier was equally incapable of providing adequate illustrations, he invited various people to prepare them. A number of those who understood Cartesian physiology (including Henricus Regius) refused to cooperate. Clerselier eventually identified two willing collaborators; one was Louis de la Forge, in Saumur, and the other was Gerard van Gutschoven (1615–68), a professor of anatomy in Louvain. Clerselier accepted both offers of assistance and published their illustrations in the first edition. When the results of their artistic efforts coincided, he usually preferred those of Gutschoven because they were better drawn; however, when they differed, he published both and used the letters ‘F’ and ‘G’ to identify their respective authors. La Forge was thus credited with seven of the published illustrations. Descartes’ *Traité de l’Homme*, with these illustrations and extensive notes by La Forge, was published in Paris in April 1664. Thus La Forge’s first publication was the lengthy set of notes that explain various features of Descartes’ *Traité*, which appeared as *Remarques* on pp. 171–408 of the first French edition of that work. Meantime, Florentius Schuyl (1619­–69) had already published independently a Latin translation of the manuscript of the *Traité* in 1662, under the title *De Homine* (Descartes 1662)[^descartes-1662].
+    step1: |-
+      笛卡儿 1650 年去世时，这两部未刊文稿状况仍然不佳。除其他缺陷外，它们缺少使他的理论能为读者理解所必需的大部分图解，而笛卡儿本人未能绘制这些图。由于克莱尔塞利耶同样无法提供充分的插图，他便邀请多人来绘制。一些懂笛卡儿生理学的人（包括亨里库斯·雷吉乌斯）拒绝合作。克莱尔塞利耶最终找到两位愿意合作的绘图者：一位是索米尔的拉弗尔热，另一位是鲁汶的解剖学教授赫拉德·范·古茨霍芬（1615–68）。克莱尔塞利耶接受了双方的协助，并在第一版中刊出他们的插图。当两人的绘图成果一致时，他通常偏好古茨霍芬的，因为画得更好；当二者不同时，他便两幅都刊出，并用字母“F”和“G”标明各自的作者。拉弗尔热因此有七幅插图被采用并署名。笛卡儿的《论人》连同这些插图与拉弗尔热的大量注释，于 1664 年 4 月在巴黎出版。于是拉弗尔热的首次发表，就是那套解释笛卡儿《论人》各处内容的冗长注释，以《评注》（*Remarques*）为题刊于该书第一版法文版的第 171–408 页。与此同时，弗洛伦提乌斯·斯许尔（1619–69）已于 1662 年独立出版了《论人》手稿的拉丁文译本，题为《论人》（*De Homine*，Descartes 1662）[^descartes-1662]。
+    step2: |-
+      1650 年笛卡儿去世时，这两部未刊稿仍状况不佳：除其他缺陷外，它们缺少使理论可为读者理解所必需的大部分图解，而笛卡儿本人无力绘制。克莱尔塞利耶同样画不出像样的插图，便延请多人代绘。一些通晓笛卡儿生理学的人（如亨里库斯·雷吉乌斯）拒绝合作。克莱尔塞利耶最终找到两位愿意帮忙的人：索米尔的拉弗尔热，以及鲁汶的解剖学教授赫拉德·范·古茨霍芬（1615–68）。他接受了二人的协助，并将插图刊入第一版：若两人所绘相同，他通常取古茨霍芬之作，因其画工更佳；若有出入，则两幅并刊，以字母“F”“G”分别标示作者。拉弗尔热因此有七幅插图得以署名。笛卡儿的《论人》连同这些插图和拉弗尔热的长篇注释，于 1664 年 4 月在巴黎问世。拉弗尔热的首次发表，便是这套解释《论人》各处内容的冗长注释，题为《评注》（*Remarques*），收于该书第一版法文版第 171–408 页。与此同时，弗洛伦提乌斯·斯许尔（1619–69）已于 1662 年单独刊行《论人》手稿的拉丁译本，题为《论人》（*De Homine*，Descartes 1662）[^descartes-1662]。
+  - id: 6
+    kind: body
+    source: |-
+      While preparing his explanatory notes for the French edition of Descartes’ *Traité de l’Homme*, La Forge adverted to the opening sentences of that book, which referred to the hypothetical men described in it:
+    step1: |-
+      在为其法文版笛卡儿《论人》准备解释性注释时，拉弗尔热注意到该书开头的几句话，其中谈到书中描述的假想的人：
+    step2: |-
+      拉弗尔热为法文版笛卡儿《论人》撰写注释时，留意到该书开篇数句所谈的，正是书中那些假想的人：
+  - id: 7
+    kind: body
+    source: |-
+      > These men will be composed, as we are, of a soul and body. First I must describe the body on its own; then the soul, again on its own; and finally I must show how these two natures would have to be joined and united in order to constitute men who resemble us. (*CSM* I, 98)
+    step1: |-
+      > 这些人将如我们一样，由灵魂与身体组成。首先我必须单独描述身体；然后同样单独描述灵魂；最后我必须说明，这两种本性必须如何结合并联合起来，才能构成与我们相似的人。（*CSM* I, 98）
+    step2: |-
+      > 这些人和我们一样，由灵魂与身体构成。我先须单独描述身体，再单独描述灵魂，最后还须说明：这两种本性怎样结合、联合，才能构成与我们相像的人。（*CSM* I, 98）
+  - id: 8
+    kind: body
+    source: |-
+      Since Descartes died before he had completed even the first of these three stages, La Forge decided to fill the lacuna by developing what he believed Descartes would have written about the human mind and its union with the body had he had time to complete his theory, and he did so by borrowing extensively from Descartes’ published and unpublished work. The result was the *Traité de l’Esprit de l’Homme*, which was composed contemporaneously with La Forge’s commentary on Descartes’ *Traité de l’Homme*, and in which he referred on numerous occasions to a work in progress on the human mind (*H* 172, 262, 299, 315, 334, 335). This treatise was printed in Paris in November 1665, although the publication date on the title page was 1666.
+    step1: |-
+      由于笛卡儿在这三个步骤中连第一步都未完成便去世了，拉弗尔热决定填补这一空缺：他依据自己认为笛卡儿若有时间完成理论便会写下的内容，来阐发关于人类心灵及其与身体联合的学说，并为此大量借用了笛卡儿已刊与未刊的著作。成果便是《论人的心灵》（*Traité de l’Esprit de l’Homme*）；该书与拉弗尔热对笛卡儿《论人》的评注同时写成，书中多次提到一部正在撰写中的、关于人类心灵的著作（*H* 172, 262, 299, 315, 334, 335）。这部论著于 1665 年 11 月在巴黎印行，尽管扉页上的出版日期为 1666 年。
+    step2: |-
+      笛卡儿连这三个步骤的第一步都未及完成便去世了，拉弗尔热遂决意补此空缺：他想笛卡儿若有时间完成理论，会如何论述人类心灵及其与身体的联合，便照此阐发，并大量取资于笛卡儿已刊、未刊的著作。成果即《论人的心灵》（*Traité de l’Esprit de l’Homme*）。此书与拉弗尔热评注笛卡儿《论人》的工作同时写成，书中屡次提及一部正在撰写中的论人类心灵之作（*H* 172, 262, 299, 315, 334, 335）。该书 1665 年 11 月在巴黎印行，但扉页所署出版年份为 1666 年。
+  - id: 9
+    kind: body
+    source: |-
+      There is no official record of La Forge’s death. However, Clerselier confirmed in the preface to the third volume of Descartes’ correspondence (which was printed in September 1666) that La Forge had died soon after publishing his *Traité de l’Esprit de l’Homme* (Clerselier 1667: Preface ã2). It seems likely that he died sometime in early 1666, at the age of thirty-three.
+    step1: |-
+      关于拉弗尔热之死，没有正式记录。不过，克莱尔塞利耶在笛卡儿书信集第三卷（1666 年 9 月印行）的序言中证实，拉弗尔热在出版《论人的心灵》后不久便去世了（Clerselier 1667: Preface ã2）。他很可能卒于 1666 年初，年仅三十三岁。
+    step2: |-
+      拉弗尔热之死并无正式记录。但克莱尔塞利耶在笛卡儿书信集第三卷（1666 年 9 月印行）序言中确认：拉弗尔热在《论人的心灵》出版后不久即辞世（Clerselier 1667: Preface ã2）。他很可能卒于 1666 年初，年仅三十三岁。
+  - id: 10
+    kind: body
+    source: |-
+      ## 2. Explanation
+    step1: |-
+      ## 2 解释
+    step2: |-
+      ## 2 解释
+  - id: 11
+    kind: body
+    source: |-
+      La Forge endorsed fully Descartes’ critique of the use of faculties or powers in scholastic explanations. He reported that, for example, many physicians attributed the beating of the heart to a pulsific faculty of the soul, and added:
+    step1: |-
+      拉弗尔热完全赞同笛卡儿对经院哲学解释中诉诸官能或力量的批判。他举例说，许多医生把心脏的跳动归因于灵魂的搏动官能，并补充道：
+    step2: |-
+      拉弗尔热全盘赞同笛卡儿对经院哲学以官能或力量作解释的批判。他举例说，许多医生把心脏跳动归因于灵魂的搏动官能，随后补充道：
+  - id: 12
+    kind: body
+    source: |-
+      > one cannot deny that the heart has a faculty of beating since it does indeed beat … however, here and in many other places this word [faculty] is useless and does nothing to explain how the thing occurs. (*H* 183)
+    step1: |-
+      > 不能否认心脏有跳动的官能，因为它确实在跳动……然而，在这里以及许多其他地方，[官能]这个词毫无用处，丝毫无助于解释事情如何发生。（*H* 183）
+    step2: |-
+      > 不能否认心脏有跳动的官能，因为它确在跳动……然而在此处以及许多别处，[官能]一词毫无用处，丝毫无助于说明事情如何发生。（*H* 183）
+  - id: 13
+    kind: body
+    source: |-
+      Likewise he asked:
+    step1: |-
+      他同样问道：
+    step2: |-
+      他同样追问：
+  - id: 14
+    kind: body
+    source: |-
+      > does one really explain the cause of diarrhoea, for example, by saying that it results either from the fact that the expulsive faculty of the intestines is irritated or that their retentive faculty is weak? Is that not the same as saying, in good French, that I know nothing about it? (*H* 217)
+    step1: |-
+      > 例如，说腹泻要么源于肠道的排出官能被刺激，要么源于其保留官能衰弱，就真的解释了腹泻的原因吗？这岂不是等于用规范的法语说，我对此一无所知？（*H* 217）
+    step2: |-
+      > 譬如说，腹泻或由肠道排出官能受刺激而起，或由保留官能衰弱而起——这样说就真的解释了腹泻之因吗？这岂不等于用地道的法语说：我对此一无所知？（*H* 217）
+  - id: 15
+    kind: body
+    source: |-
+      He argued that all appeals to faculties and powers were nothing more than re-descriptions of the phenomena that need to be explained.
+    step1: |-
+      他主张，一切对官能与力量的诉诸，都只不过是对有待解释的现象的重新描述。
+    step2: |-
+      他主张，凡诉诸官能与力量者，不过是对有待解释的现象换一种说法而已。
+  - id: 16
+    kind: body
+    source: |-
+      In physiology, La Forge supported an alternative Cartesian model of explanation in terms of parts of matter in motion which, when linked together by contact action, form a machine.
+    step1: |-
+      在生理学中，拉弗尔热支持另一种笛卡儿式解释模型：以运动中的物质微粒来解释，这些微粒通过接触作用联结起来，便构成一部机器。
+    step2: |-
+      在生理学上，拉弗尔热支持另一种笛卡儿式解释模型：以运动中的物质微粒为据，微粒经接触作用彼此联结，便构成一部机器。
+  - id: 17
+    kind: body
+    source: |-
+      > By the word “machine” one cannot understand anything other than a body composed of many organic parts, which, united together, combine to produce some movements that they would be incapable of producing if they were separated. (*H* 173)
+    step1: |-
+      > “机器”一词只能理解为由许多有机部分组成的身体；这些部分联合起来，共同产生某些运动，而它们若彼此分离，便无法产生这些运动。（*H* 173）
+    step2: |-
+      > 所谓“机器”，只能理解为由许多有机部分组成的身体；这些部分联为一体，便能产生某些运动，而一旦彼此分离，便无从产生。（*H* 173）
+  - id: 18
+    kind: body
+    source: |-
+      This concept of a machine applies
+    step1: |-
+      这一机器概念适用于
+    step2: |-
+      这一机器概念可施用于
+  - id: 19
+    kind: body
+    source: |-
+      > not only to watches or other automata … but to the human body and that of all animals, and even the whole universe could be considered a machine. (*H* 173)
+    step1: |-
+      > 不仅适用于钟表或其他自动机……也适用于人体和一切动物的身体，甚至整个宇宙都可以被视为一部机器。（*H* 173）
+    step2: |-
+      > 不仅钟表或其他自动机如此……人体与一切动物的身体亦然，甚至整个宇宙也可视为一部机器。（*H* 173）
+  - id: 20
+    kind: body
+    source: |-
+      Accordingly, the disciples of Descartes
+    step1: |-
+      因此，笛卡儿的门徒
+    step2: |-
+      职是之故，笛卡儿的门徒
+  - id: 21
+    kind: body
+    source: |-
+      > try to explain everything that occurs in an animal in the same way as the movements of an automaton occur. (*H* 335)
+    step1: |-
+      > 试图以自动机的运动发生方式，来解释动物身上发生的一切。（*H* 335）
+    step2: |-
+      > 力图仿照自动机运动的方式，解释动物身上发生的一切。（*H* 335）
+  - id: 22
+    kind: body
+    source: |-
+      The same principle had been identified by critics of Cartesianism as one of its major defects rather than one of its strengths.
+    step1: |-
+      同一原则曾被笛卡儿主义的批评者视为其重大缺陷之一，而非长处。
+    step2: |-
+      同一个原则，在笛卡儿主义的批评者眼中却是其重大缺陷之一，而非长处。
+  - id: 23
+    kind: body
+    source: |-
+      Assuming that the motions and interactions of parts of matter are sufficient to explain the human body, La Forge acknowledges that the explanatory enterprise must be hypothetical, and that hypotheses cannot be restricted to what is visible to the naked eye.
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      > We would be very ignorant if we had to doubt everything that we do not see … one surely sees that the Sun and the Moon are sometimes in the East … and sometimes in the West, but one has never seen them move there; nevertheless almost no one doubts their movement. (*H* 217)
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      For similar reasons, one should not reject Descartes’ assumptions about parts of matter in motion in the human body (such as animal spirits or the nerves) simply because, given their size, they are unobservable. Although Descartes and La Forge were attempting to describe parts of the human body and their motions before the invention of the microscope, the methodological issue involved would not have changed even if the threshold of observability had been modified by optical instruments: the Cartesian theory of explanation supported the postulation of unobservable particles of matter to explain visible effects whenever they were thought necessary. Their explanatory role justified their hypothetical postulation.
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      This required La Forge to address the topical question about how, and the extent to which, explanatory hypotheses may be confirmed. He offered the same solution that was supported by other natural philosophers in the seventeenth century, such as Robert Boyle or Christiaan Huygens:
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      > However, hypotheses are not only probable but also indubitable when they explain something very clearly and easily, when our senses do not contradict them, when reason shows that the phenomenon in question could not occur otherwise and it is deduced from principles that are certain, and when the hypotheses serve not only to explain one single effect but many different and even distinct effects; for it would be impossible for hypotheses not to be found defective in some situation if they were not true. (*H* 218)
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      Although he exaggerated the degree of certainty that could be legitimately claimed for his hypotheses, La Forge did not claim explicitly that all explanations must be mechanical. He is best understood as contrasting the emptiness of scholastic explanations, which were certain but non-explanatory, with the epistemic risks involved in postulating hypotheses that were at least intelligible (since they involved only pieces of matter in motion) and were confirmed indirectly by their explanatory success. The limited choices available among physiological explanations at that time (either scholastic faculties, or matter in motion) did not imply any conclusion about how the discipline could develop at a later time.
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      ## 3. Substance Dualism
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      La Forge was among the first commentators to attribute to Descartes an unambiguous dualism of mind and body. He defined a substance as ‘a thing in which some property, quality or attribute (of which we have a real idea in ourselves) resides immediately as in a subject and by which it exists’ (*H* preface ù3). His *Remarks* were designed to extend the explanatory scope of the machine model of the body to include all the actions of non-human animals and, in the case of the human body, to explain how ideas arise in the brain, how they are stored in memory, and how they are re-activated in the imagination. Accordingly, he initially used the word ‘idea’, as Descartes had done, to refer to the brain-states that are associated with the occurrence of thoughts in the mind (*H* 262), and he defined memory as the physical capacity of the brain to facilitate the repeated occurrence of such traces. Since the relevant brain-events were understood as patterns in the flow of animal spirits, memory was explained as an acquired disposition of the paths through which animal spirits flowed to re-open on subsequent occasions when appropriately stimulated (Sutton 1998)[^sutton-1998].
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      > Memory, which consists in nothing else, when considered from the perspective of the body, than the facility which remains in the pores [of the brain] which had been opened previously to re-open subsequently. (*H* 304; cf. *T* 280–81: *THM* 178)
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      This Cartesian use of the term ‘idea’ was ambiguous, since it referred to thoughts in the mind and the brain-states that accompany them. For that reason, La Forge decided in the *Treatise* to restrict the use of the term to thoughts, and to rename physical ideas in the brain as ‘corporeal species’ (*T* 158, 256; *THM* 77, 159).
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      According to this theory, the delicate fluid material called ‘animal spirits’ functions in a quasi-hydraulic machine (*T* 279; *THM* 177). Impressions on the external senses are transmitted to the ‘common sense’ in the brain, and the patterns in which animal spirits emerge from the brain in response to external stimuli are corporeal species. All voluntary or involuntary bodily actions, such as walking or blinking, are explained by the motion of animal spirits from the brain to the muscles, while internal sensations (such as hunger or thirst) are likewise experienced by the subject as a result of associated motions of animal spirits in the opposite direction, from other parts of the body to the brain. Even the passions or emotions are triggered by similar mechanisms. Thus everything that occurs in a human body may be explained by the motion of various kinds of matter in its various parts (e.g., the brain, nervous system, or the veins and arteries). The only exception in human nature to this type of physiological explanation, i.e., thought, was reserved exclusively to the mind.
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      La Forge began the *Traité* (1666) with a lengthy preface in which he compared Descartes’ theory of the human mind with that of Augustine, from whom he quoted extensively to show that the mind is a distinct substance that is immaterial and survives the death of the body. This immaterial substance has two characteristic properties, by which alone it is known: understanding and willing. The understanding can generate ideas or conceptions of realities that have never been observed or imagined, and to that extent it is independent of the human body. Pure understanding ‘is a faculty which is independent of the body in the same way as the will is’ (*T* 292; *THM* 188).
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      Thus ideas originate in the mind in two distinct ways: in one case, they are triggered by sensations, and in the other they arise without any corresponding bodily stimulus. However, La Forge also repeated Descartes’ theory of the origin of ideas, according to which all ideas are innate (in some sense) in the mind. He identified the ‘principal and effective’ cause of ideas as the mind, while bodily sensations were described as the ‘remote and occasional’ causes of some ideas. The argument here seemed to depend on the dissimilarity between the body and the mind:
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      > Although one could say that the bodies that surround our bodies … are in some sense the cause of the ideas we then have … because these are material substances, the action of which does not extend to the soul insofar as it is simply a thing which thinks … they cannot be more than their remote and occasional causes which, by the union of mind and body, cause our faculty to think and determines it to produce ideas of which the faculty of thinking itself is the principal and effective cause. (*T* 176; *THM* 92)
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      The mind is thus an active cause of all its own ideas, including those that it generates on the occasion of being stimulated by the senses. In that sense, all ideas are innate because the mind is their principal and effective cause.
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      The will is equally active; it is an
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      > active power … of choosing or determining ourselves from within ourselves to everything to which we determine ourselves. (*T* 182; *THM* 97)
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      La Forge argued that, in addition to understanding and willing, the human mind must have an intellectual memory; since it can reason about purely spiritual realities, and since reasoning involves moving from one step to another and remembering those on which one relies for progress, the human mind must be capable of remembering purely spiritual concepts of which it has had no corresponding corporeal species (*T* 291; *THM* 187). La Forge concludes in Chapter xxv that the human mind is immortal; since its essence is to think, the mind continues to think constantly for eternity and may also remember things that do not presuppose the presence of a body.
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      The stark definition of the human mind and body as distinct, simple substances did not prevent La Forge from describing their union in human nature as a ‘composite subject’ (*T* 112; *THM* 39) and as ‘a unity of composition and association’ (*T* 98; *THM* 28). It is known from experience that there is some kind of union involved here, which Descartes had struggled to describe in terms of an intermingling of two substances. La Forge describes it more analytically in causal terms; it consists in
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      > a mutual and reciprocal dependence of thoughts of one of them on the movements of the other, and in the mutual interaction of their actions and passions. (*T* 210; *THM* 122)
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      La Forge frequently describes this interaction in causal terms, apparently without qualification or reservation. Accordingly, external bodies that interact with our sensory organs ‘cause’ sensations in us; the motions of external stimuli are the ‘true causes’ of our sensory perceptions (*T* 165, 326; *THM* 83, 215). The interaction of mind and body is reciprocal,
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      > for not only can the body stimulate (*exciter*) various thoughts in the mind, but the mind can also cause (*causer)* various movements in the body. (*T* 215; *THM* 126)
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      In general, the link between the human mind and body
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      > must consist in the relation or concurrence of the actions and passions of the mind and body. (*T* 212; *THM* 124)
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      Critics of substance dualism claimed, or assumed without argument, that it concealed an explanatory gap, since it failed to explain how two substances that were so dissimilar could interact causally with each other. La Forge addressed that issue in Chapter XVI of the *Traité*.
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      ## 4. Occasionalism
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      La Forge is one of the first Cartesians (together with Cordemoy and Geulincx) who openly defends occasionalism. La Forge’s occasionalism, however, is distinctive for both its scope and the arguments it uses. La Forge’s occasionalism is restricted to the domain of physical interactions among bodies and allows for the causal activity of finite minds. In this sense, La Forge (unlike Cordemoy, Geunlincx and Malebranche) is an advocate of “partial occasionalism” (Radner 1993, Sangiacomo 2014)[^radner-1993][^sangiacomo-2014]. In order to establish this form of partial occasionalism, La Forge builds his case around a specific issue in Cartesian physics, namely, the (im)possibility of any transfer of motion between interacting bodies. His ‘non-transfer’ argument aims, in turn, to solve some ambiguities in Descartes’s own treatment and provide enough support for body-body occasionalism without undermining the causal efficacy of immaterial substances.
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      To fully understand La Forge’s discussion, it is helpful to keep in mind the overall argumentative strategy that he tries to push. In the *THM*, La Forge’s main task is to show that *there is* mind-body interaction and that this is not so difficult to understand—as many of Descartes’s opponents have claimed. The Cartesian account of mind-body interaction has been widely criticized because of the radical heterogeneity of thinking and extended substances in Descartes’s ontology. Elisabeth of Bohemia, for instance, provides a paradigmatic expression of this concern:
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      > I ask you please to tell me how the soul of a human being (it being only a thinking substance) can determine the bodily spirits, in order to bring about voluntary actions. For it seems that all determination of movement happens through the impulsion of the thing moved, by the manner in which it is pushed by that which moves it, or else by the particular qualities and shape of the surface of the latter. Physical contact is required for the fi rst two conditions, extension for the third. You entirely exclude the one [extension] from the notion you have of the soul, and the other [physical contact] appears to me incompatible with an immaterial thing. (AT iii.661; Shapiro 62)
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      Elisabeth’s critique is truly Cartesian since it builds on the criterion of clear and distinct intelligibility advocated by Descartes himself. La Forge addresses this concern by denying that even *homogeneous* or univocal causation (like body-body causation) is as intelligible as it looks. By showing that univocal causation among bodies is in fact impossible, La Forge aims to show that *every* form of causation entails an interaction between something corporeal and something spiritual. Hence, the case of mind-body interaction ceases to be a puzzling scenario and becomes an instance of a broader and more general account of causation.
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      This point is clearly stated at the beginning of Chapter 16 of La Forge’s *THM*:
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      > I think most people would not believe me if I said that it is no more difficult to conceive how the human mind, without being extended, can move the body and how the body without being a spiritual thing can act on the mind, than to conceive how a body has the power to move itself and to communicate its motion to another body. Yet there is nothing more true, and that is what I propose to show in this chapter. (THM 143)
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      Critics think that body-body causation is easy to conceive while mind-body causation is hardly intelligible (especially in a Cartesian dualistic ontology). La Forge aims to reverse this impression by showing that body-body causation is very hard to clearly and distinctly conceive and that, actually, it works in the same way as mind-body causation.
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      To fully accomplish this task, La Forge has to disqualify the possibility of a purely body-body interaction and he has to prove that bodies are always moved by a non-bodily cause. To reach this conclusion, La Forge uses an argument by elimination which reviews different potential sources of causal activity and shows that they do not offer a satisfying account of causation. The argument identifies three potential candidates as sources of causal activity in bodies: (i) other bodies; (ii) finite minds (e.g. human minds); and (iii) an infinite mind (i.e. God). La Forge discusses all three options in turn in order to prove that neither (i) other bodies nor (ii) finite minds can be the real causes of bodily movement in nature, and thus only God can be their genuine cause.
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      In order to prove that a body can move neither another body nor itself, La Forge uses the ‘non-transfer’ argument.
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      > motion is only a mode which is not distinct from the body to which it belongs and which can no more pass from one subject to another than the other modes of matter, nor can it belong to a spiritual substance. But the motive force, i.e. the force which transports a body from one vicinity to another and which applies it successively to different parts of the bodies which is leaves behind […], is not only distinct from this application but also from the body which it applies and moves […]. *Now if the force which moves is distinct from the thing which is moved and if bodies alone can be moved, it follows clearly that no body can have the power of self-movement in itself*. *For if that were the case this force would not be distinct from the body, because no attribute or property is distinct from the thing to which it belongs*. If a body cannot move itself, it is obvious in my opinion that it cannot move another body. Therefore every body which is motion must be pushed by something which is not itself a body and which is completely distinct from it. (*THM* 145, emphasis added)
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      Because movement is only modally distinguished from the body, it cannot be separated from the moved body and it cannot be transferred from one body to another. However, because the force of movement can be separated from a body, it should be really distinguished from the body. Now, because the force of movement is really distinguished from the moved body, this force is not corporeal and does not pertain to such a body. In the same way in which Descartes used the real distinction between thought and extension to prove that the nature of thought has nothing to do with extension, La Forge argues that the real distinction between movement and force of movement entails that the force of movement cannot have anything extended in its own nature. Therefore, a body cannot have the force to move itself and, thus, it cannot have the force to move another body (because the force of motion is not in itself something bodily at all).
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      The reason to distinguish between movement and force of movement lies in the fact that movement is just a modification of the body and no modification can be transferred from a subject to another. On the contrary, it is necessary to think that the same force of movement, which causes the motion of a body, applies differently to different bodies, and thus it must be really distinguished from them. It is important to note that if the force of movement is really distinct from anything extended, then it should not be conceived as properly ‘divided’. Divisibility is a property of extended things, and if the force of movement is not extended, then it cannot be divisible in the way in which distances or bodies are. The (re)distribution of the force of movement across different bodies has thus to be understood more figuratively, perhaps analogously to the Cartesian claim that the mind itself is equally present in the whole body and in each of its parts.
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      The fact that the force of movement can be applied to different bodies appears as the crucial point in La Forge’s argument. However, it might be asked why we should grant that the force is separable from the body and can be transferred. In the end, what prevents us from claiming that even the force is a modification of the body and thus cannot be separated from it? La Forge seems well aware of this problem and proposes a *reductio ad absurdum* to support this point:
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      > I may be told that I assume without argument that the force which moves must be distinct from the thing which is moved. […] But let us assume, if you wish, that this force is a mode of a body; *it could not then be distinguished from it and consequently it could not pass from one body to another*. If you conceive it in the same way as real qualities are conceived in the Schools and if you think it is definitely an accident of a body, even if it is distinct from it, then you would have to conceive that it subdivides itself when one body moves another and that it gives part of its movement to the other body and is therefore itself a body, at the same time as you assume that it is distinct from corporeal nature; for anything which is divisible and which has parts which can exist independently is a body; or you would have to say that it does not subdivide but that the body in which it is present produces a similar property in the body it touches when it pushes it. You thereby give to bodies the power of creation. (*THM* 145–146 emphasis added)
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      Under the hypothesis that the force of movement is a modification of the body, the non-transfer argument prevents any transfer of such a force from one body to another. However, La Forge assumes as factual that impact implies a redistribution of quantity of motion. Provided that the total amount of motion is conserved, this redistribution can be explained by redistribution either of the movement itself or of the force of movement. But if movement is a modification of the bodies, the non-transfer argument prevents its transfer. Thus, it must be the force of movement that is redistributed among the colliding bodies. This implies that the force of movement would be simultaneously *non*-distinguished from bodies (which was the hypothesis) and actually distinguished from them (because of the fact that it is redistributed). Unfortunately, this conclusion leads to absurdities. Indeed, either the force of movement is something like a real quality, which La Forge considers a contradictory entity, or we should accept that bodies have the power to create accidents in other bodies, which is taken as another absurdity. Thus, the force of movement cannot be a modification of a body, and the hypothesis must be rejected*.*
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      La Forge presents his use of the non-transfer argument as nothing but a faithful reading of Descartes. La Forge’s discussion, however, is better seen as an emendation of Descartes’s own position, which was more ambiguous on this subject. In the discussion of the third law of nature in his *Principles of Philosophy*, Descartes licenses a language that seems to accept transfer of motion between bodies (Sangiacomo 2014)[^sangiacomo-2014]. Henry More was puzzled by this and pressed Descartes to clarify this point during their correspondence. In his reply to More, Descartes denies that he ever allowed for any transfer of motion.
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      From a historical point of view, it is interesting to note that more or less during the same years in which La Forge works at his *THM*, Margaret Cavendish (1623–1673) also discusses the possibility of deriving occasionalism from the ‘non-transfer’ argument (Cavendish 1664, letter 30: 97–98)[^cavendish-1664]. Cavendish may have been inspired by More’s exchange with Descartes on this topic. However, she seems to ultimately reject occasionalism itself as understood and developed by La Forge and other Cartesian occasionalists. La Forge, anyhow, quotes at length Descartes’ answer to More, suggesting it as the true interpretation of Descartes’ physics.
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      Nonetheless, up to this point, La Forge has only proved that force of movement is not something corporeal. This implies that all physical movements are always brought about by immaterial causes, which allows that in some cases, immaterial substances like human minds can cause some physical movements, i.e. voluntary motions, through the law of their union with the body. However, La Forge clearly would not assert that finite immaterial substances, such as angels or intermediate kinds of beings, produce every physical movement. Therefore, La Forge still needs a further argument to refute this kind of inference and show that, generally speaking, God himself directly moves physical bodies.
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      Just after the previous quote, La Forge introduces a further part of his discussion in order to rule out the direct involvement of finite minds in natural phenomena. La Forge reminds us that movement produces every difference we observe in the physical world. Thus, if God would eliminate movement, the world would remain an inert mass of matter whose parts would be indistinguishable. Accordingly, La Forge focuses on the conditions in which God must introduce movement in such a mass to make a single body move.
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      > [1] I also claim that there is no creature, spiritual or corporeal, which can cause change in [matter] or in any of its parts, in the second moment of their creation, if the Creator does not do so himself. Since it was He who produced this part of matter in place *A*, for example, not only must he continue to produce it if he wishes it to continue to exist but also, since he cannot create it everywhere or nowhere, he must put it in place *B* himself if he wishes it to be there. *For if he put it anywhere else there is no force capable of removing it from that location*.
+      >
+      > [2] Let us even consider that if God gave this particular body *A* all the motive force which he uses at present to move the whole of nature, it would not be enough even with all that to change its location, both because it would not be able to overcome the resistance of the rest of matter which we assume is at rest, and because in order to make body *A* capable of leaving its place to enter that of another body, the other body which it replaces would also have to move at the same moment that body *A* begins to move, since it is impossible for the first body to take the place of the second unless, at the same time as it tries to do so, the second body leaves that place and enters that of a third body and the third enters that of a fourth, and so on. That is how it could happen when everything is at rest. *Therefore no matter what force God gives to body A to move itself, it would be ineffective*. That is why when God decided to move matter in various ways he had to apply the force that he chose to put into matter to many of its parts at the same time, so that they could give up their places to each other at the same instant without which no motion could have been produced. (*THM* 147, emphasis added. Numbers in brackets added to help discussion)
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      Scholars used to consider the appeal to continuous creation (point 1) as an independent argument (Garber 1987, Nadler 2010: 123–41)[^garber-1987]. However, this reading is difficult to maintain. Indeed, without the further development provided by the discussion at point 2, what is stated at point 1 remains unproved. *Why* should it be God himself that has to recreate a moving body in a certain place? *Why* is there no creature, spiritual or corporeal, which can cause change in the position of a body? As La Forge says, “for if he put it anywhere else there is no force capable of removing it from that location”. But this is a mere assertion, which is proved only at point 2. Evidently, *if* God has to recreate a body in each of its positions, then nothing can work against God’s force. However, without establishing *why* God has to do so, the mere appeal to his continuous creation begs the question.
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      Rather, La Forge’s argument suggests that he aims at proving *why* the nature of force is such that God has not only to continuously recreate a moving body but also must place that body in each of the different positions that the body undergoes throughout its movement. The reason for this derives from the conditions of motion in a plenum*.* La Forge’s argument has two premises. First, the force of rest of an indefinite mass of bodies at rest is even greater than the infinite force of movement of just one single body. Second, to allow just one single body to move, it is necessary that all other bodies move too. It follows that, in such a condition, even if a single body had an infinite force of movement, it would not move unless other bodies also moved. Hence, because in order to move a body from one place to another it is necessary that all other bodies move, it follows that the force that moves the body is the same that moves all the other bodies, namely, the same force that introduces motion in matter, i.e. God’s force. Accordingly, the only force able to move a body away from a certain position is the same force that simultaneously moves all the other bodies, i.e. God’s force. Because motion is nothing but the passage from one position to another, God himself not only recreates the moving body but recreates it in each of its positions.
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      La Forge introduces his reinterpretation of continuous creation to complement the non-transfer argument. La Forge’s treatment of this argument does not suggest any kind of generalization concerning the way in which God’s continuous creation should be conceived concerning thinking substances. The reason why God has to recreate not only bodies but also bodies in specific places, that is, bodies and their modifications, is grounded in the nature of bodies and in the conditions for a movement in a plenum. But a thinking substance neither moves nor exists in a plenum. Therefore, God’s *modus operandi* ought not be the same. This is the reason why La Forge presents these arguments exposed in Chapter 16 of his *Traité* as strong support for his interactionist account of mind-body union.
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      However, by extending God’s creative activity to the modes of bodies, La Forge seems to reduce the whole account to incoherence, because the same considerations would apply to human minds. God could not create a human mind without its specific modes, which include all its thoughts and acts of the will. However, acts of the will as modes of a human mind are assumed by La Forge to be the basis on which human minds are genuinely active in determining themselves. If God creates even the acts of will of individual agents, it seems to undermine the claim that they are *self*-determining when, according to La Forge, they are determined by God’s creative activity.
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      To address this concern, two considerations are in order. First, from a historical point of view, it is crucial to keep in mind that the account of Divine concurrence was defended by Scholastic authors (from Aquinas to Suárez) as an *antidote* to (medieval) occasionalism and as a way of preserving the causal efficacy of secondary causes without denying God’s constant involvement in nature (e.g. Sangiacomo 2016)[^sangiacomo-2016]. Despite appearances, thus, the claim that God is directly involved in the operations of his creatures does not entail by itself a commitment to the (stronger) claim that God is the *sole* cause responsible for those operations. Second, from a more theoretical point of view, in order to reach this stronger claim, one needs to rule out the possibility that creatures make any genuine causal contribution to the causal process. La Forge argues that this is in fact the case for bodies, which (given how the physical world works) cannot have any causal powers. However, this is not the case for human minds, which (given how minds work) do have a genuine active role to play in their operations.
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      As La Forge himself expressly points out:
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      > I would add to Mr. Descartes that although all things depend on God, as he says, *they do so in different ways*. For in the production of effects to which neither our own will nor that of any other free agent contributes, one could say that God consulted his own will alone, by which he unconditionally determined to produce them in a certain way and at a certain time; but in the case of effects to which our will contributes, God did not consider his own will alone but he also included the consent of our will in his decree, and it was only after having foreseen how our will would determine itself in such and such circumstances that he consequently willed absolutely that such effects would result. (*THM* 106–107, emphasis added)
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      Here, La Forge clearly aims at clarifying Descartes’ account of will rather than at contradicting it. Thus, he plainly acknowledges a difference in God’s *modus operandi*, due to the difference between extended (inert) substances and spiritual (active) substances.
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      Although La Forge concluded that ‘God is the universal cause of all the motions which occur in the world’, he also recognised ‘bodies and minds as particular causes of these same motions … in determining and compelling the first cause to apply his force and motive power to the bodies to which he would not otherwise have applied it’ in accordance with laws of nature that God decreed (*T* 242: *THM* 148). He confirmed this view when he wrote, in relation to the reciprocal interaction of motions in the human body and thoughts in the mind:
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      > One should not say that it is God who does everything and that the body and mind do not really act on each other. For if the body had not had such a movement, the mind would never have had such a thought, and if the mind had not had such a thought the body might also never have had such a movement. (*T* 245; *THM* 150)
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      God has arranged matters, in human nature, so that certain thoughts in the mind are accompanied by changes in the brain, and certain motions of animal spirits trigger specific thoughts in the mind. God’s creative arrangement by which these twinned realities interact provides the ultimate explanation (if it is such) of a familiar fact of our experience. In that sense, the role of God in relation to mind-body interaction is exactly similar to God’s role in relation to body-body interactions.
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      From a historical point of view, La Forge’s emphasis on the non-transfer argument for occasionalism had some impact on later debates, especially in the British arena. Antoine Le Grand (1629–1699), originally from France, spent a large part of his life in England. He was active in the second half of the seventeenth century as an author of important Cartesian textbooks, in which he shows sympathy for occasionalism and supports it by adopting La Forge’s non-transfer argument. Arguably reacting against the success that occasionalism was enjoying, John Toland (1670–1722) would go on to call occasionalism applied to the physical realm a “monstrous hypothesis” and reject it in his *Letter to Serena* (1704, letter V; see Sangiacomo 2013)[^sangiacomo-2013] discussing again the same argument.
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: oir
+    source: |-
+      - [Occasionalism](http://www.iep.utm.edu/occasion/), by Jason Jordan (U. Oregon), in the *Internet Encyclopedia of Philosophy*.
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: ack
+    source: |-
+      The original version of this entry was written by the late Desmond Clarke. As of the October 2019 revision, Andrea Sangiacomo became a co-author, with the responsibility for revising and updating the entry.
+    step1: TBD
+    step2: TBD
