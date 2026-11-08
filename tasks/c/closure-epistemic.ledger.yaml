@@ -331,247 +331,337 @@ segments:
     kind: body
     source: |-
       In rough outline, the first version involves defending say Dretske’s or Nozick’s tracking analysis of knowledge, then showing that it undermines K (versions of the tracking account are also defended by Becker 2009, by Murphy and Black 2007, and by Roush 2005, the last of whom modifies the tracking account so as to preserve closure; for criticisms of Rouse see Brueckner 2012)[^becker-2009][^black-2007][^brueckner-2012][^roush-2005]. We can skip the defense, which consists largely in showing that tracking does a better job than competitors in dealing with our epistemic intuitions about cases of purported knowledge. We may also simplify the analyses. According to Nozick, to know *p* is, very roughly (and ignoring his thoroughly discredited fourth condition for knowledge, criticized, e.g, in Luper 1984 and 2009 and in Kripke 2011)[^kripke-2011][^luper-1984], to have a belief *p* which meets the following condition (‘BT’ for belief tracking):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      粗略说来，第一版先为某种追踪式知识分析辩护（比如德雷茨克或诺齐克的分析），再表明这种分析会瓦解 K。（追踪说明的若干版本亦由贝克 2009、墨菲与布莱克 2007 以及劳什 2005 辩护；其中劳什修改追踪说明以保住闭合。对劳什的批评见布鲁克纳 2012。）[^becker-2009][^black-2007][^brueckner-2012][^roush-2005] 为这种分析所作的辩护可以略过，它主要在于表明：在处理我们对所谓知识情形的认识论直觉时，追踪说明比竞争理论做得更好。我们还可以简化这些分析。按诺齐克，知道 *p* 粗略说来（并撇开他那条已被彻底否弃的第四个知识条件——批评见 Luper 1984、2009 与克里普克 2011）[^kripke-2011][^luper-1984]，就是拥有一个满足下述条件（“BT”，即信念追踪）的信念 *p*：
+    step2: |-
+      粗略说来，第一版先为某种追踪式知识分析辩护（比如德雷茨克或诺齐克的分析），再表明这种分析会瓦解 K。（追踪说明的若干版本亦由贝克 2009、墨菲与布莱克 2007 以及劳什 2005 辩护；其中劳什修改追踪说明以保住闭合。对劳什的批评见布鲁克纳 2012。）[^becker-2009][^black-2007][^brueckner-2012][^roush-2005] 为这种分析所作的辩护可以略过，它主要在于表明：在处理我们对所谓知识情形的认识论直觉时，追踪说明比竞争理论做得更好。我们还可以简化这些分析。按诺齐克，知道 *p* 粗略说来（并撇开他那条已被彻底否弃的第四个知识条件——批评见 Luper 1984、2009 与克里普克 2011）[^kripke-2011][^luper-1984]，就是拥有一个满足下述条件（“BT”，即信念追踪）的信念 *p*：
   - id: 42
     kind: body
     source: |-
       **(BT)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（BT）**
+    step2: |-
+      **（BT）**
   - id: 43
     kind: body
     source: |-
       were *p* false, *S* would not believe *p*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *p* 为假，*S* 就不会相信 *p*。
+    step2: |-
+      若 *p* 为假，*S* 就不会相信 *p*。
   - id: 44
     kind: body
     source: |-
       That is, in the close worlds to the actual world in which *not-p* holds, *S* does not believe *p*. The actual world is one’s situation as it is when one arrives at the belief *p*. BT requires that in all nearby *not-p* worlds *S* fails to believe *p*. (The semantics of subjunctive conditionals is clarified in Stalnaker 1968, Lewis 1973, and modified by Nozick 1981 note 8.)[^lewis-1973][^nozick-1981][^stalnaker-1968] On Dretske’s view knowing *p* is roughly a matter of having a reason *R* for believing *p* which meets the following condition (‘CR’ for conclusive reason):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      也就是说，在与现实世界相近、且 *not-p* 成立的诸世界中，*S* 不相信 *p*。现实世界即一个人形成信念 *p* 时所处的实际情形。BT 要求：在所有邻近的 *not-p* 世界中，*S* 都不相信 *p*。（虚拟条件句的语义学见斯托尔内克 1968、刘易斯 1973，诺齐克 1981 注 8 有所修改。）[^lewis-1973][^nozick-1981][^stalnaker-1968] 在德雷茨克看来，知道 *p* 粗略说来就是：为相信 *p* 而拥有的理由 *R* 满足下述条件（“CR”，即决定性理由）：
+    step2: |-
+      也就是说，在与现实世界相近、且 *not-p* 成立的诸世界中，*S* 不相信 *p*。现实世界即一个人形成信念 *p* 时所处的实际情形。BT 要求：在所有邻近的 *not-p* 世界中，*S* 都不相信 *p*。（虚拟条件句的语义学见斯托尔内克 1968、刘易斯 1973，诺齐克 1981 注 8 有所修改。）[^lewis-1973][^nozick-1981][^stalnaker-1968] 在德雷茨克看来，知道 *p* 粗略说来就是：为相信 *p* 而拥有的理由 *R* 满足下述条件（“CR”，即决定性理由）：
   - id: 45
     kind: body
     source: |-
       **(CR)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（CR）**
+    step2: |-
+      **（CR）**
   - id: 46
     kind: body
     source: |-
       were *p* false, *R* would not hold.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *p* 为假，*R* 就不会成立。
+    step2: |-
+      若 *p* 为假，*R* 就不会成立。
   - id: 47
     kind: body
     source: |-
       That is, in the close worlds to the actual world in which *not-p* holds, *R* does not. When *R* meets this condition, Dretske says *R* is a conclusive reason for believing *p*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      也就是说，在与现实世界相近、且 *not-p* 成立的诸世界中，*R* 不成立。德雷茨克说，*R* 满足这一条件时，*R* 就是相信 *p* 的决定性理由。
+    step2: |-
+      也就是说，在与现实世界相近、且 *not-p* 成立的诸世界中，*R* 不成立。德雷茨克说，*R* 满足这一条件时，*R* 就是相信 *p* 的决定性理由。
   - id: 48
     kind: body
     source: |-
       Dretske pointed out (2003, n. 9; 2005, n. 4) that his view does not face one of the objections which Saul Kripke (2011, 162–224; Dretske had access to a draft circulated prior to publication) deploys against Nozick’s account. Suppose I am driving through a neighborhood in which, unbeknownst to me, papier-mâché barns are scattered, and I see that the object in front of me is a barn. I also notice that it is red. Because I have barn-before-me percepts, I believe *barn*: the object in front of me is a (ordinary) barn (the example is attributed to Ginet in Goldman 1976)[^goldman-1976]. Our intuitions suggest that I fail to know *barn*. And so say BT and CR. But now suppose that the neighborhood has no fake *red* barns; the only fake barns are blue. (Call this the red barn case.) Then on Nozick’s view I can track the fact that there is a red barn, since I would not believe there was a red barn (via my red-barn percepts) if no red barn were there, but I cannot track the fact that there is a barn, since I might believe there was a barn (via *blue*-barn percepts) even if no barn were there. Dretske said that this juxtaposition, in which I know something yet fail to know a second thing that is intimately related to the first (there being a red barn, which I know, entails there being a barn, which I do not), “is an embarrassment,” and in this respect, he thought, his view is superior to Nozick’s. Let *R*, my basis for belief, be the fact that I have red-barn percepts. If no barn were there, *R* would fail to hold, so I know a barn is there. Further, if no *red* barn were there, *R* would still fail to hold, so I know a *red* barn is there. So Dretske can avoid the objectionable juxtaposition. Still, it is surprising that Dretske cited the red barn case as the basis for preferring his version of tracking over Nozick’s. First, Dretske himself accepted juxtapositions of knowledge and ignorance that are at least equally bizarre, as we shall see. Second, Nozick avoided the very juxtaposition Dretske discussed by restating his account to make reference to the methods via which we come to believe things (Hawthorne 2005)[^hawthorne-2005]. On a more polished version of his account, Nozick said that to know *p* is, roughly, to have a belief *p*, arrived at through a method *M*, which meets the following condition (‘BMT’ for belief method tracking):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      德雷茨克指出（2003, 注 9；2005, 注 4），他的观点不会碰上索尔·克里普克（2011, 162–224；德雷茨克当时可读到出版前流传的一份草稿）针对诺齐克说明所提的其中一项反驳。假设我驾车穿过一个街区，街上散落着纸糊的谷仓，只是我并不知道；我看见眼前的东西是谷仓，还注意到它是红色的。因为我有“眼前有谷仓”的知觉，我相信 *谷仓*：眼前的东西是一座（普通）谷仓（此例在戈德曼 1976 中归于吉内）[^goldman-1976]。我们的直觉倾向于说：我并不知道 *谷仓*。BT 与 CR 也这么说。但现在假定街上没有假的 *红色* 谷仓，假谷仓全是蓝色的（不妨称之为红谷仓情形）。于是在诺齐克看来，我能追踪“有一座红谷仓”这一事实，因为若没有红谷仓，我就不会（凭红谷仓知觉）相信有红谷仓；但我无法追踪“有一座谷仓”这一事实，因为即便没有谷仓，我仍可能（凭 *蓝* 谷仓知觉）相信有谷仓。德雷茨克说，这种并列——我知道一件事，却不知道与它密切相关的另一件事（有一座红谷仓，我知道；它蕴涵有一座谷仓，我不知道）——“令人难堪”。他认为，就此而言自己的观点优于诺齐克。设 *R*（我信念的依据）为“我有红谷仓知觉”这一事实。若没有谷仓，*R* 就不会成立，所以我知道有一座谷仓。进一步说，若没有 *红* 谷仓，*R* 同样不会成立，所以我知道有一座 *红* 谷仓。这样，德雷茨克便能避开那种令人难堪的并列。尽管如此，德雷茨克竟以红谷仓情形作为偏爱自己追踪说明胜过诺齐克的依据，仍令人意外。第一，德雷茨克本人接受过至少同样离奇的知识与无知并列，我们下文将看到。第二，诺齐克通过改写自己的说明、让它提及我们借以获得信念的方法，恰好避开了德雷茨克所讨论的那种并列（霍桑 2005）[^hawthorne-2005]。在更精细的版本中，诺齐克说，知道 *p* 粗略说来就是：拥有经由方法 *M* 得到的信念 *p*，该方法满足下述条件（“BMT”，即信念-方法追踪）：
+    step2: |-
+      德雷茨克指出（2003, 注 9；2005, 注 4），他的观点不会碰上索尔·克里普克（2011, 162–224；德雷茨克当时可读到出版前流传的一份草稿）针对诺齐克说明所提的其中一项反驳。假设我驾车穿过一个街区，街上散落着纸糊的谷仓，只是我并不知道；我看见眼前的东西是谷仓，还注意到它是红色的。因为我有“眼前有谷仓”的知觉，我相信 *谷仓*：眼前的东西是一座（普通）谷仓（此例在戈德曼 1976 中归于吉内）[^goldman-1976]。我们的直觉倾向于说：我并不知道 *谷仓*。BT 与 CR 也这么说。但现在假定街上没有假的 *红色* 谷仓，假谷仓全是蓝色的（不妨称之为红谷仓情形）。于是在诺齐克看来，我能追踪“有一座红谷仓”这一事实，因为若没有红谷仓，我就不会（凭红谷仓知觉）相信有红谷仓；但我无法追踪“有一座谷仓”这一事实，因为即便没有谷仓，我仍可能（凭 *蓝* 谷仓知觉）相信有谷仓。德雷茨克说，这种并列——我知道一件事，却不知道与它密切相关的另一件事（有一座红谷仓，我知道；它蕴涵有一座谷仓，我不知道）——“令人难堪”。他认为，就此而言自己的观点优于诺齐克。设 *R*（我信念的依据）为“我有红谷仓知觉”这一事实。若没有谷仓，*R* 就不会成立，所以我知道有一座谷仓。进一步说，若没有 *红* 谷仓，*R* 同样不会成立，所以我知道有一座 *红* 谷仓。这样，德雷茨克便能避开那种令人难堪的并列。尽管如此，德雷茨克竟以红谷仓情形作为偏爱自己追踪说明胜过诺齐克的依据，仍令人意外。第一，德雷茨克本人接受过至少同样离奇的知识与无知并列，我们下文将看到。第二，诺齐克通过改写自己的说明、让它提及我们借以获得信念的方法，恰好避开了德雷茨克所讨论的那种并列（霍桑 2005）[^hawthorne-2005]。在更精细的版本中，诺齐克说，知道 *p* 粗略说来就是：拥有经由方法 *M* 得到的信念 *p*，该方法满足下述条件（“BMT”，即信念-方法追踪）：
   - id: 49
     kind: body
     source: |-
       **(BMT)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（BMT）**
+    step2: |-
+      **（BMT）**
   - id: 50
     kind: body
     source: |-
       were *p* false, *S* would not believe *p* via *M*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *p* 为假，*S* 就不会经由 *M* 相信 *p*。
+    step2: |-
+      若 *p* 为假，*S* 就不会经由 *M* 相信 *p*。
   - id: 51
     kind: body
     source: |-
       If no red barn were there I would believe neither that there was a barn, nor that there was a *red* barn, via red-barn percepts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若没有红谷仓，我凭红谷仓知觉既不会相信有谷仓，也不会相信有 *红* 谷仓。
+    step2: |-
+      若没有红谷仓，我凭红谷仓知觉既不会相信有谷仓，也不会相信有 *红* 谷仓。
   - id: 52
     kind: body
     source: |-
       Third, the red barn case is one about which intuitions will vary. It is not obvious that I *do* know there is a red barn in the circumstances Dretske sketches, which differ from those in Ginet’s original barn case (where I fail to know *barn*) only in the stipulations that I see a red barn and that none of the barn simulacra are red. What is more, both Dretske’s and Nozick’s accounts have the odd implication that I know there is a barn if I base my belief on my red barn percepts yet I fail to know this if, in basing it on my barn percepts, I ignore the barn’s color. Presumably the barn’s color is not relevant to its being a barn.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第三，红谷仓情形中的直觉因人而异。在德雷茨克所勾画的情形里，我是否确实知道有一座红谷仓，并不显然。该情形与吉内原版谷仓情形（在那里我不知道 *谷仓*）只有两点规定不同：我看见的是一座红谷仓，且谷仓仿品都不是红色的。更有甚者，德雷茨克与诺齐克的说明都有一个古怪含义：若我把信念建立在红谷仓知觉上，我就知道有一座谷仓；但若把信念建立在谷仓知觉上、忽略谷仓的颜色，我就不知道。想必谷仓的颜色与它是不是谷仓并不相干。
+    step2: |-
+      第三，红谷仓情形中的直觉因人而异。在德雷茨克所勾画的情形里，我是否确实知道有一座红谷仓，并不显然。该情形与吉内原版谷仓情形（在那里我不知道 *谷仓*）只有两点规定不同：我看见的是一座红谷仓，且谷仓仿品都不是红色的。更有甚者，德雷茨克与诺齐克的说明都有一个古怪含义：若我把信念建立在红谷仓知觉上，我就知道有一座谷仓；但若把信念建立在谷仓知觉上、忽略谷仓的颜色，我就不知道。想必谷仓的颜色与它是不是谷仓并不相干。
   - id: 53
     kind: body
     source: |-
       The tracking accounts permit counterexamples to K. Dretske’s well-known illustration is the zebra case (1970): suppose you are at a zoo in ordinary circumstances standing in front of a cage marked ‘zebra’; the animal in the cage is a zebra, and you believe *zeb*, the animal in the cage is a zebra, because you have zebra-in-a-cage visual percepts. It occurs to you that *zeb* entails *not-mule*, it is not the case that the animal in the cage is a cleverly disguised mule rather than a zebra. You then believe *not-mule* by deducing it from *zeb*. What do you know? You know *zeb*, since, if *zeb* were false, you would not have zebra-in-a-cage visual percepts; instead, you would have empty-cage percepts, or aardvark-in-a-cage percepts, or the like. Do you know *not-mule*? If *not-mule* were false, you would still have zebra-in-a-cage visual percepts (and you would still believe *zeb*, and you would still believe *not-mule* by deducing it from *zeb*). So you do *not* know *not-mule*. But notice that we have:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      追踪说明允许出现 K 的反例。德雷茨克常被援引的例子是斑马情形（1970）：假设你在动物园里，情形平常，你站在一个标着“斑马”的笼子前；笼中的动物是斑马，而你因为拥有“笼中有斑马”的视觉知觉，便相信 *斑马*——笼中的动物是斑马。你想到 *斑马* 蕴涵 *非骡子*：笼中的动物并非一头巧妙伪装的骡子而非斑马。于是你从 *斑马* 演绎出 *非骡子*，并相信它。你知道什么？你知道 *斑马*，因为若 *斑马* 为假，你就不会有“笼中有斑马”的视觉知觉，而会有“空笼”知觉、“笼中有土豚”知觉之类。你知道 *非骡子* 吗？若 *非骡子* 为假，你仍会有“笼中有斑马”的视觉知觉（你仍会相信 *斑马*，也仍会从 *斑马* 演绎出并相信 *非骡子*）。所以你并 *不* 知道 *非骡子*。但请注意，我们有：
+    step2: |-
+      追踪说明允许出现 K 的反例。德雷茨克常被援引的例子是斑马情形（1970）：假设你在动物园里，情形平常，你站在一个标着“斑马”的笼子前；笼中的动物是斑马，而你因为拥有“笼中有斑马”的视觉知觉，便相信 *斑马*——笼中的动物是斑马。你想到 *斑马* 蕴涵 *非骡子*：笼中的动物并非一头巧妙伪装的骡子而非斑马。于是你从 *斑马* 演绎出 *非骡子*，并相信它。你知道什么？你知道 *斑马*，因为若 *斑马* 为假，你就不会有“笼中有斑马”的视觉知觉，而会有“空笼”知觉、“笼中有土豚”知觉之类。你知道 *非骡子* 吗？若 *非骡子* 为假，你仍会有“笼中有斑马”的视觉知觉（你仍会相信 *斑马*，也仍会从 *斑马* 演绎出并相信 *非骡子*）。所以你并 *不* 知道 *非骡子*。但请注意，我们有：
   - id: 54
     kind: body
     source: |-
       1. You know *zeb*
       2. You believe *not-mule* by recognizing that *zeb* entails *not-mule*
       3. You do not know *not-mule*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 你知道 *斑马*
+      2. 你因认识到 *斑马* 蕴涵 *非骡子* 而相信 *非骡子*
+      3. 你并不知道 *非骡子*
+    step2: |-
+      1. 你知道 *斑马*
+      2. 你因认识到 *斑马* 蕴涵 *非骡子* 而相信 *非骡子*
+      3. 你并不知道 *非骡子*
   - id: 55
     kind: body
     source: |-
       In view of (a)–(c), we have a counterexample to K, which entails that if (a) you know *zeb*, and (b) you believe *not-mule* by recognizing that *zeb* entails *not-mule*, then you *do* know *not-mule*, contrary to (c).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      鉴于 (a)–(c)，我们得到 K 的一个反例。K 蕴涵：若 (a) 你知道 *斑马*，且 (b) 你因认识到 *斑马* 蕴涵 *非骡子* 而相信 *非骡子*，则你 *确实* 知道 *非骡子*——这与 (c) 相反。
+    step2: |-
+      鉴于 (a)–(c)，我们得到 K 的一个反例。K 蕴涵：若 (a) 你知道 *斑马*，且 (b) 你因认识到 *斑马* 蕴涵 *非骡子* 而相信 *非骡子*，则你 *确实* 知道 *非骡子*——这与 (c) 相反。
   - id: 56
     kind: body
     source: |-
       Having rejected K, and denying that we know things like *not-mule*, Nozick also had to deny closure across simplification. For if some proposition *p* entails another proposition *q*, then *p* is equivalent to the conjunction *p & q*; accordingly, given closure across equivalence, which Nozick accepted, if we know *zeb* we can know the conjunction *zeb & not-mule*, but if we also accept closure across simplification, we will be able to know *not-mule*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      既已拒斥 K，又否认我们知道 *非骡子* 之类的事，诺齐克还必须否认简化下的闭合。因为若命题 *p* 蕴涵另一命题 *q*，则 *p* 等价于合取 *p & q*。于是，既然诺齐克接受等价下的闭合，若我们知道 *斑马*，便能知道合取 *斑马 & 非骡子*；但若我们也接受简化下的闭合，就能知道 *非骡子*。
+    step2: |-
+      既已拒斥 K，又否认我们知道 *非骡子* 之类的事，诺齐克还必须否认简化下的闭合。因为若命题 *p* 蕴涵另一命题 *q*，则 *p* 等价于合取 *p & q*。于是，既然诺齐克接受等价下的闭合，若我们知道 *斑马*，便能知道合取 *斑马 & 非骡子*；但若我们也接受简化下的闭合，就能知道 *非骡子*。
   - id: 57
     kind: body
     source: |-
       In response to this first version of the argument from the analysis of knowledge, some theorists (e.g., Luper 1984, BonJour 1987, DeRose 1995)[^bonjour-1987][^derose-1995][^luper-1984] argued that K has great plausibility in its own right (which Dretske acknowledged in 2005: 18)[^dretske-2005] so it should be abandoned only in the face of compelling reasons, yet there are no such reasons.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      针对知识分析论证的这一版本，一些理论家（如 Luper 1984、邦茹 1987、德罗斯 1995）[^bonjour-1987][^derose-1995][^luper-1984] 主张，K 本身极具合理性（德雷茨克 2005: 18 也承认），因此只有在面对有力理由时才应放弃它；而这样的理由并不存在。
+    step2: |-
+      针对知识分析论证的这一版本，一些理论家（如 Luper 1984、邦茹 1987、德罗斯 1995）[^bonjour-1987][^derose-1995][^luper-1984] 主张，K 本身极具合理性（德雷茨克 2005: 18 也承认），因此只有在面对有力理由时才应放弃它；而这样的理由并不存在。
   - id: 58
     kind: body
     source: |-
       To show there are no compelling reasons to abandon K, theorists have provided accounts of knowledge that (a) handle our intuitions at least as successfully as the tracking analyses and yet (b) underwrite K. One way to do this is to weaken the tracking analysis so that we know things that we track or that we believe because we know that they follow from things that we track (this sort of option has been turned against Nozick by various theorists; Roush defends it in 2005, 41–51)[^roush-2005]. Another approach is as follows. Knowing *p* is roughly a matter of having a reason *R* for believing *p* which meets the following condition (‘SI’ for safe indication):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为表明不存在放弃 K 的有力理由，理论家提供了若干知识说明：它们 (a) 处理我们的直觉至少与追踪分析同样成功，却又 (b) 支持 K。一种做法是弱化追踪分析，使我们知道我们所追踪之事，或知道那些我们因知道其从所追踪之事推出而相信的事（这类方案已被多位理论家用來反对诺齐克；劳什 2005: 41–51 为之辩护）[^roush-2005]。另一条进路如下。知道 *p* 粗略说来就是：为相信 *p* 而拥有的理由 *R* 满足下述条件（“SI”，即安全指示）：
+    step2: |-
+      为表明不存在放弃 K 的有力理由，理论家提供了若干知识说明：它们 (a) 处理我们的直觉至少与追踪分析同样成功，却又 (b) 支持 K。一种做法是弱化追踪分析，使我们知道我们所追踪之事，或知道那些我们因知道其从所追踪之事推出而相信的事（这类方案已被多位理论家用来反对诺齐克；劳什 2005: 41–51 为之辩护）[^roush-2005]。另一条进路如下。知道 *p* 粗略说来就是：为相信 *p* 而拥有的理由 *R* 满足下述条件（“SI”，即安全指示）：
   - id: 59
     kind: body
     source: |-
       **(SI)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（SI）**
+    step2: |-
+      **（SI）**
   - id: 60
     kind: body
     source: |-
       if *R* held, *p* would be true.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *R* 成立，*p* 就会为真。
+    step2: |-
+      若 *R* 成立，*p* 就会为真。
   - id: 61
     kind: body
     source: |-
       SI requires that *p* be true in the nearby *R* worlds. When *R* meets this condition, let us say that *R* is a *safe indicator* that *p* is true. (Different versions of the safety condition have been defended; see, for example, Luper 1984; Sosa 1999, 2003, 2007, 2009; Williamson 2000; and Pritchard 2007.)[^luper-1984][^pritchard-2007][^sosa-1999][^williamson-2000] SI is the contraposition of CR, but the contraposition of a subjunctive conditional is not equivalent to the original.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      SI 要求 *p* 在邻近的 *R* 世界中为真。当 *R* 满足这一条件时，我们不妨说 *R* 是 *p* 为真的 *安全指示*。（安全条件的各种版本都有人辩护，例如见 Luper 1984；索萨 1999、2003、2007、2009；威廉森 2000；普里查德 2007。）[^luper-1984][^pritchard-2007][^sosa-1999][^williamson-2000] SI 是 CR 的换质位命题，但虚拟条件句的换质位命题与原句并不等价。
+    step2: |-
+      SI 要求 *p* 在邻近的 *R* 世界中为真。当 *R* 满足这一条件时，我们不妨说 *R* 是 *p* 为真的 *安全指示*。（安全条件的各种版本都有人辩护，例如见 Luper 1984；索萨 1999、2003、2007、2009；威廉森 2000；普里查德 2007。）[^luper-1984][^pritchard-2007][^sosa-1999][^williamson-2000] SI 是 CR 的换质位命题，但虚拟条件句的换质位命题与原句并不等价。
   - id: 62
     kind: body
     source: |-
       Let us suppose without argument that SI handles cases of knowledge and ignorance as intuitively as CR. Why say SI underwrites K? The key point is that if R safely indicates that *p* is true, then it safely indicates that *q* is true, where *q* is any of *p*’s consequences. Put another way, the point is that the following reasoning is valid (being an instance of strengthening the consequence):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们不妨不加论证地假定：SI 处理知识与无知情形时，直觉效果与 CR 一样好。为什么说 SI 支持 K？关键在于：若 *R* 安全指示 *p* 为真，则它也安全指示 *q* 为真，其中 *q* 是 *p* 的任一后承。换一种说法：下述推理有效（它是“强化后件”的一个实例）：
+    step2: |-
+      我们不妨不加论证地假定：SI 处理知识与无知情形时，直觉效果与 CR 一样好。为什么说 SI 支持 K？关键在于：若 *R* 安全指示 *p* 为真，则它也安全指示 *q* 为真，其中 *q* 是 *p* 的任一后承。换一种说法：下述推理有效（它是“强化后件”的一个实例）：
   - id: 63
     kind: body
     source: |-
       1. If *R* held, *p* would be true (i.e., *R* safely indicates that *p*)
       2. *p* entails *q*
       3. So if *R* held, *q* would be true (i.e., *R* safely indicates that *q*)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 若 *R* 成立，*p* 就会为真（即 *R* 安全指示 *p*）
+      2. *p* 蕴涵 *q*
+      3. 所以，若 *R* 成立，*q* 就会为真（即 *R* 安全指示 *q*）
+    step2: |-
+      1. 若 *R* 成立，*p* 就会为真（即 *R* 安全指示 *p*）
+      2. *p* 蕴涵 *q*
+      3. 所以，若 *R* 成立，*q* 就会为真（即 *R* 安全指示 *q*）
   - id: 64
     kind: body
     source: |-
       Hence, if a person *S* knows *p* on the basis of *R*, *S* is in a position to know *q* on the basis of *R*, where *q* follows from *p*. *S* is also in a position to know *q* on the basis of the conjunction of *R* together with the fact that *p* entails *q*. Thus if *S* knows *p* on some basis *R*, and believes *q* on the basis of *R* (on which *p* rests) together with the fact that *p* entails *q*, then *S* knows *q*. Again: if
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，若人 *S* 基于 *R* 知道 *p*，则 *S* 处于基于 *R* 知道 *q* 的位置，其中 *q* 从 *p* 推出。*S* 也处于基于 *R* 与“*p* 蕴涵 *q*”这一事实的合取而知道 *q* 的位置。于是，若 *S* 基于某依据 *R* 知道 *p*，并基于 *R*（*p* 所依凭者）连同“*p* 蕴涵 *q*”这一事实而相信 *q*，则 *S* 知道 *q*。再说一遍：若
+    step2: |-
+      因此，若人 *S* 基于 *R* 知道 *p*，则 *S* 处于基于 *R* 知道 *q* 的位置，其中 *q* 从 *p* 推出。*S* 也处于基于 *R* 与“*p* 蕴涵 *q*”这一事实的合取而知道 *q* 的位置。于是，若 *S* 基于某依据 *R* 知道 *p*，并基于 *R*（*p* 所依凭者）连同“*p* 蕴涵 *q*”这一事实而相信 *q*，则 *S* 知道 *q*。再说一遍：若
   - id: 65
     kind: body
     source: |-
       1. *S* knows *p* (on the basis of *R*), and
       2. *S* believes *q* by recognizing that *p* entails *q* (so that *S* believe *q* on the basis of *R*, on which *p* rests, together with the fact that *p* entails *q*),
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. *S* 基于 *R* 知道 *p*，且
+      2. *S* 因认识到 *p* 蕴涵 *q* 而相信 *q*（于是 *S* 基于 *R*——*p* 所依凭者——连同“*p* 蕴涵 *q*”这一事实而相信 *q*），
+    step2: |-
+      1. *S* 基于 *R* 知道 *p*，且
+      2. *S* 因认识到 *p* 蕴涵 *q* 而相信 *q*（于是 *S* 基于 *R*——*p* 所依凭者——连同“*p* 蕴涵 *q*”这一事实而相信 *q*），
   - id: 66
     kind: body
     source: |-
       then
-    step1: TBD
-    step2: TBD
+    step1: |-
+      则
+    step2: |-
+      则
   - id: 67
     kind: body
     source: |-
       1. *S* knows *q* (on the basis of *R* and the fact that *p* entails *q*),
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. *S* 知道 *q*（基于 *R* 以及“*p* 蕴涵 *q*”这一事实），
+    step2: |-
+      1. *S* 知道 *q*（基于 *R* 以及“*p* 蕴涵 *q*”这一事实），
   - id: 68
     kind: body
     source: |-
       as K requires. To illustrate, let us use Dretske’s example. Having based your belief *zeb* on your zebra-in-the-cage percepts, you know *zeb* according to SI: given your circumstances, if you had those percepts, *zeb* would be true. Moreover, when you believe *not-mule* by first believing *zeb* on the basis of your zebra-in-the-cage percepts then deducing *not-mule* from *zeb*, you know *not-mule* according to SI: if you had those percepts not only would *zeb* hold, so would its consequence *not-mule*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一如 K 所要求。为作说明，且用德雷茨克的例子。既然你把信念 *斑马* 建立在“笼中有斑马”的视觉知觉上，按 SI 你就知道 *斑马*：在你的情形下，若你有那些知觉，*斑马* 就会为真。此外，当你先基于“笼中有斑马”的视觉知觉相信 *斑马*、再从 *斑马* 演绎出 *非骡子* 并因而相信它时，按 SI 你就知道 *非骡子*：若你有那些知觉，不仅 *斑马* 成立，其后果 *非骡子* 也成立。
+    step2: |-
+      一如 K 所要求。为作说明，且用德雷茨克的例子。既然你把信念 *斑马* 建立在“笼中有斑马”的视觉知觉上，按 SI 你就知道 *斑马*：在你的情形下，若你有那些知觉，*斑马* 就会为真。此外，当你先基于“笼中有斑马”的视觉知觉相信 *斑马*、再从 *斑马* 演绎出 *非骡子* 并因而相信它时，按 SI 你就知道 *非骡子*：若你有那些知觉，不仅 *斑马* 成立，其后果 *非骡子* 也成立。
   - id: 69
     kind: body
     source: |-
       Let us digress briefly in order to note that some versions of the safety account will not uphold closure (Murphy 2005 presses this objection against Sosa’s version of the safety account)[^murphy-2005]. For example, at one point Ernest Sosa discussed the following version of the condition:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们不妨稍作离题，指出安全说明的某些版本并不支持闭合（墨菲 2005 以此反驳索萨版本的安全说明）[^murphy-2005]。例如，欧内斯特·索萨曾讨论过下述版本的条件：
+    step2: |-
+      我们不妨稍作离题，指出安全说明的某些版本并不支持闭合（墨菲 2005 以此反驳索萨版本的安全说明）[^murphy-2005]。例如，欧内斯特·索萨曾讨论过下述版本的条件：
   - id: 70
     kind: body
     source: |-
       If *S* were to believe *p*, *p* would be true.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *S* 相信 *p*，*p* 就会为真。
+    step2: |-
+      若 *S* 相信 *p*，*p* 就会为真。
   - id: 71
     kind: body
     source: |-
       This is to require that one’s *belief* safely indicates its own truth. However, it is entirely possible to be so situated that one’s belief safely indicates its truth even though the requisite condition is not met for something that follows from that belief. The point can be illustrated with a version of the red barn case. Suppose that (on the basis of my red-barn percepts) I believe *red barn*: there is a red barn in front of me. Suppose, too, that there is indeed a red barn there. However (you guessed it) many fake barns are scattered through the neighborhood, all of which are blue, not red. In the close worlds in which I believe *red barn*, I am correct, so I meet the requisite condition for knowing *red barn*, which is that my believing *red barn* safely indicates its own truth. Now, *red barn* entails *barn*: there is a barn in front of me. But, according to the view on offer, the requisite condition for knowing *barn* is not that my belief *red barn* safely indicates that *barn* holds. What is required instead is that my belief *barn* safely indicates its *own* truth. Assuming that I would believe *barn* if I saw one of the blue fakes, then my belief *barn* does not safely indicate its truth.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这等于是要求：一个人的 *信念* 安全指示其自身为真。然而，完全可能处于这样的处境：一个人的信念安全指示其自身为真，但对由该信念推出之事，所需条件却未满足。可用红谷仓情形的一个版本来例示这一点。假设我（基于红谷仓知觉）相信 *红谷仓*：我面前有一座红谷仓。再假设那里确实有一座红谷仓。然而（你猜到了）街区里散落着许多假谷仓，它们全是蓝色的，不是红色的。在我相信 *红谷仓* 的诸相近世界中，我都是对的，因此我满足了知道 *红谷仓* 所需的条件：我相信 *红谷仓* 安全指示其自身为真。现在，*红谷仓* 蕴涵 *谷仓*：我面前有一座谷仓。但按眼下所论的观点，知道 *谷仓* 所需的条件并不是：我的信念 *红谷仓* 安全指示 *谷仓* 成立。所需的是：我的信念 *谷仓* 安全指示其 *自身* 为真。假定我若看见蓝色假谷仓之一就会相信 *谷仓*，那么我的信念 *谷仓* 并不安全指示其自身为真。
+    step2: |-
+      这等于是要求：一个人的 *信念* 安全指示其自身为真。然而，完全可能处于这样的处境：一个人的信念安全指示其自身为真，但对由该信念推出之事，所需条件却未满足。可用红谷仓情形的一个版本来例示这一点。假设我（基于红谷仓知觉）相信 *红谷仓*：我面前有一座红谷仓。再假设那里确实有一座红谷仓。然而（你猜到了）街区里散落着许多假谷仓，它们全是蓝色的，不是红色的。在我相信 *红谷仓* 的诸相近世界中，我都是对的，因此我满足了知道 *红谷仓* 所需的条件：我相信 *红谷仓* 安全指示其自身为真。现在，*红谷仓* 蕴涵 *谷仓*：我面前有一座谷仓。但按眼下所论的观点，知道 *谷仓* 所需的条件并不是：我的信念 *红谷仓* 安全指示 *谷仓* 成立。所需的是：我的信念 *谷仓* 安全指示其 *自身* 为真。假定我若看见蓝色假谷仓之一就会相信 *谷仓*，那么我的信念 *谷仓* 并不安全指示其自身为真。
   - id: 72
     kind: body
     source: |-
       To pick up the thread again: now, K fails if knowledge entails CR but not if knowledge entails SI, but it may not be possible to underwrite K merely by replacing CR with SI, since some other condition for knowledge might block closure. We can underwrite closure if we assume that believing *p* on “safe” grounds is *sufficient* for knowing *p*, but this assumption is dubious. As we have understood safety, we can believe things on safe grounds without knowing them. An obvious example is any necessary truth: because it holds in all possible worlds we can safely believe it for any reason. For another example, recall the red barn case discussed earlier: despite the many fake blue barns in the neighborhood, my red-barn percepts are safe indicators that the object in front of me is a barn and that it is a red barn, so no objectionable *juxtaposition* (such as I know *there is a red barn* but not *there is a barn*) occurs, but some theorists will insist that, in the circumstances sketched, I know *neither* that the object is a barn nor that it is a red barn.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      回到正题：如今，若知识蕴涵 CR，K 就失效；若知识蕴涵 SI，K 则不失效。但仅凭以 SI 取代 CR，也许仍无法支持 K，因为知识的其他条件可能阻断闭合。若我们假定基于“安全”依据相信 *p* 对知道 *p* 而言 *充分*，便能支持闭合；可这个假定可疑。按我们对安全的理解，我们可以在安全依据上相信某事却并不知道它。一个显眼的例子是任何必然真理：由于它在一切可能世界中都成立，我们可以凭任何理由安全地相信它。另一个例子是前面讨论的红谷仓情形：尽管街区里有许多假的蓝色谷仓，我的红谷仓知觉仍是安全指示——它指示眼前的东西是谷仓，也指示它是红谷仓；于是那种令人难堪的 *并列*（例如我知道 *有一座红谷仓*，却不知道 *有一座谷仓*）并未出现。但一些理论家仍会坚持：在所勾画的情形里，我既不知道眼前的东西是谷仓，也不知道它是红谷仓。
+    step2: |-
+      回到正题：如今，若知识蕴涵 CR，K 就失效；若知识蕴涵 SI，K 则不失效。但仅凭以 SI 取代 CR，也许仍无法支持 K，因为知识的其他条件可能阻断闭合。若我们假定基于“安全”依据相信 *p* 对知道 *p* 而言 *充分*，便能支持闭合；可这个假定可疑。按我们对安全的理解，我们可以在安全依据上相信某事却并不知道它。一个显眼的例子是任何必然真理：由于它在一切可能世界中都成立，我们可以凭任何理由安全地相信它。另一个例子是前面讨论的红谷仓情形：尽管街区里有许多假的蓝色谷仓，我的红谷仓知觉仍是安全指示——它指示眼前的东西是谷仓，也指示它是红谷仓；于是那种令人难堪的 *并列*（例如我知道 *有一座红谷仓*，却不知道 *有一座谷仓*）并未出现。但一些理论家仍会坚持：在所勾画的情形里，我既不知道眼前的东西是谷仓，也不知道它是红谷仓。
   - id: 73
     kind: body
     source: |-
       ### 2.2 Closure Fails on a Relevant Alternatives Approach
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 相关替代项进路导致闭合失效
+    step2: |-
+      ### 2.2 相关替代项进路导致闭合失效
   - id: 74
     kind: body
     source: |-
       The second version of the argument from the analysis of knowledge has it that any relevant alternatives view, not just tracking accounts, is in tension with K. An analysis is a relevant alternatives account when it meets two conditions. First, it yields an appropriate understanding of ‘relevant alternative.’ Dretske’s approach qualifies since it allows us to say that an alternative *A* to *p* is relevant if and only if:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      知识分析论证的第二版认为，与 K 相冲突的不只是追踪说明，任何相关替代项观点都与 K 紧张。一个分析要成为相关替代项说明，须满足两个条件。第一，它对“相关替代项”给出恰当理解。德雷茨克的进路合格，因为它允许我们说：*p* 的替代项 *A* 是相关的，当且仅当：
+    step2: |-
+      知识分析论证的第二版认为，与 K 相冲突的不只是追踪说明，任何相关替代项观点都与 K 紧张。一个分析要成为相关替代项说明，须满足两个条件。第一，它对“相关替代项”给出恰当理解。德雷茨克的进路合格，因为它允许我们说：*p* 的替代项 *A* 是相关的，当且仅当：
   - id: 75
     kind: body
     source: |-
       **(CRA)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（CRA）**
+    step2: |-
+      **（CRA）**
   - id: 76
     kind: body
     source: |-
       were *p* false, *A* might hold.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *p* 为假，*A* 可能成立。
+    step2: |-
+      若 *p* 为假，*A* 可能成立。
   - id: 77
     kind: body
     source: |-
       According to the second condition, the analysis must say that knowing *p* requires ruling out all *relevant* alternatives to *p* but not all *alternatives* to *p*. Dretske’s approach qualifies once again. It says an alternative *A* is ruled out on the basis of *R* if and only if the following condition is met:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按第二个条件，该分析必须说：知道 *p* 要求排除 *p* 的一切 *相关* 替代项，但并不要求排除 *p* 的一切 *替代项*。德雷茨克的进路再次合格。它说：*A* 这一替代项基于 *R* 被排除，当且仅当满足下述条件：
+    step2: |-
+      按第二个条件，该分析必须说：知道 *p* 要求排除 *p* 的一切 *相关* 替代项，但并不要求排除 *p* 的一切 *替代项*。德雷茨克的进路再次合格。它说：*A* 这一替代项基于 *R* 被排除，当且仅当满足下述条件：
   - id: 78
     kind: body
     source: |-
       **(CRR)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（CRR）**
+    step2: |-
+      **（CRR）**
   - id: 79
     kind: body
     source: |-
       were *A* to hold *R* would not hold.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *A* 成立，*R* 就不会成立。
+    step2: |-
+      若 *A* 成立，*R* 就不会成立。
   - id: 80
     kind: body
     source: |-
       And, on Dretske’s approach, an alternative *A* must be ruled out if and only if *A* meets CRA.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      而且，按德雷茨克的进路，替代项 *A* 必须被排除，当且仅当 *A* 满足 CRA。
+    step2: |-
+      而且，按德雷茨克的进路，替代项 *A* 必须被排除，当且仅当 *A* 满足 CRA。
   - id: 81
     kind: body
     source: |-
