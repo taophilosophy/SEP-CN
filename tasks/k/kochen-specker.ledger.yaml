@@ -869,9 +869,9 @@ segments:
     source: |-
       #### Causal Contextuality
     step1: |-
-      #### 因果断言的。基本观念是：被观测的值作为系统-装置相互作用的结果而产生。因此，通过与*P*-测量装置相互作用测量一个系统，可能产出值 *v*(*g*(*P*))；通过与 *Q*-测量装置相互作用测量同一系统，产出不同的值 *v*(*f*(*Q*))，尽管两个可观察量由同一算符 f(Q) = g(P) 表示。值的差别以可观察量的语境依赖性来解释：后者是语境依赖的，因为物理地实现它们的不同方式以不同的方式因果地影响系统，从而改变被观测的值。
+      #### 因果的语境性
     step2: |-
-      #### 因果的但可观察量由同一算符 f(Q) = g(P) 表示。值的差别以可观察量的语境依赖性解释：后者是语境依赖的，因为物理地实现它们的不同方式以不同方式因果地影响系统，从而改变被观测的值。
+      #### 因果的语境性
   - id: 102
     kind: body
     source: |-
@@ -1083,6 +1083,12 @@ segments:
     kind: note
     source: |-
       [^note-6]: It has been claimed that the theorem’s statement requires a third condition:
+
+      > (KS2)(c): There exists at least one observable *X* with *v*(*X*) ≠ 0.
+      >
+      > […] Without condition KS2c the theorem is actually false — the trivial valuation where for all observables *X* one sets *v*(*X*) = 0 provides an explicit counter-example.
+
+      (See Rajan and Visser 2017, p. 2, in Other Internet Resources.) But this is a mistake. The theorem claims the existence of a valuation such that KS1 and KS2 jointly are contradictory. Arguably, this claim can only be proved by explicit examples. Presenting a valuation such that KS1 and KS2 jointly are compatible (non-contradictory) – i.e., the “trivial valuation” – is itself compatible with the theory’s claim but irrelevant to its proof.
     step1: |-
       [^note-6]: 有人主张定理的陈述需要第三个条件：
       >
@@ -1127,6 +1133,16 @@ segments:
     kind: note
     source: |-
       [^note-10]: A state of a spin-1 particle where prob(*v*(*S*_{*x*}²)=0)=1 is |*S*_{*x*}=0>. Expanding this state in the eigenvectors of *S*_{*x*′} yields
+
+      > |*S*_{*x*}=0> = cos φ (1 + sin² φ) ^{−½} |*S*_{*x*′} = 0> + sin φ (1 + sin² φ) ^{−½} (|*S*_{*x*′} = −1> − |*S*_{*x*′} = +1>)
+
+      Now, with cos φ=1/3, we get:
+
+      > | prob(*v*(*S*_{*x*′}²) = 0) | = | prob(*v*(*S*_{*x*′}) = 0) |
+      > | --- | --- | --- |
+      > |   | = | (cos φ)² / (1 + sin² φ) |
+      > |   | = | 1/9 (1 + 8/9)^{−1} |
+      > |   | = | 1/17 |
     step1: |-
       [^note-10]: 一个 prob(*v*(*S*_{*x*}²)=0)=1 的自旋-1 粒子的态是 |*S*_{*x*}=0>。把这个态在 *S*_{*x*′} 的本征矢中展开，得：
 
@@ -1163,6 +1179,8 @@ segments:
     kind: note
     source: |-
       [^note-12]: The argument here is due to Redhead (1987: 132). Redhead himself suggests that there is an internal tension in his argument. He remarks that STAT FUNC, as derived from the QM formalism, is a statement about (probabilities for) *measured values*, (see his remark that when QM → STAT FUNC, the latter is “understood in terms of the statistics of measurement results”, p. 132), while FUNC talks about “the *possessed values* of the observables” (p. 121, my italics). This distinction seems to devaluate Redhead’s reasoning to some extent. If there is a real difference between possessed values and measured values and no explicit assumption equating both types of values is made, then STAT FUNC (version 1) derivable from FUNC talks about a statistical relation among functions of *possessed values*, while STAT FUNC (version 2) is derived from QM, hence by definition talks about the statistics of *measured values*. The two versions initially are entirely unconnected and FUNC → STAT FUNC (version 1) cannot lend plausibility to STAT FUNC (version 1). Now, don’t we have good reason to carefully distinguish measured and possessed values in QM?
+
+      Fortunately, no such distinction is really necessary. First, distinguish a strong sense of possessed values where possessed value are values a system possesses independently from being measured and a weak sense of possessed values where possessed values are possessed *simpliciter*, i.e. the system just has them, perhaps as a result of measurement, perhaps not. Second, consider the hedge phrase of a system ‘displaying a value’ as a result of a measurement. It is minimally a phrase like this which must go into the description of the events for which the Statistical Algorithm yields probabilities. But the hedge phrase is actually superfluous. Physical systems do not display anything unless they have it. Accordingly, if a system displays a value upon measurement, then it possesses this value (in the weak sense). By contrast, if a system displays a value upon measurement and measurement is faithful, then it possesses that value independently of measurement (thus, possessed it in the strong sense). (See the main text below, § 5.3, for more on faithful measurement; see also Redhead, p. 131 after eq. (11), for the connection between faithful measurement and possessed values.) Now, the weak sense of possessing a value is fully sufficient to formulate FUNC and Redhead’s plausibility argument for STAT FUNC remains untouched. (Indeed, the derivation FUNC → STAT FUNC itself uses the Statistical Algorithm, which would be an illegitimate procedure if the latter did not refer to probabilities for possessed values, in some sense.)
     step1: |-
       [^note-12]: 这里的论证出自 Redhead（1987: 132）。雷德海本人暗示他的论证有内在的张力。他评论说：从 QM 形式主义导出的 STAT FUNC 是关于（的概率的）*被测值*的陈述（见他的评论：当 QM → STAT FUNC 时，后者“按测量结果的统计来理解”，p. 132），而 FUNC 谈论“可观察量的*拥有的值*”（p. 121，我的强调）。这一区分在某种程度上贬低了雷德海推理的价值。如果在拥有的值与被测的值之间存在实在的差异、且没有明确假定等同两类值，那么可从 FUNC 导出的 STAT FUNC（版本 1）谈论的是*拥有的值*的函数之间的统计关系，而 STAT FUNC（版本 2）从 QM 导出，因而按定义谈论*被测值*的统计。两个版本起初完全不相干，FUNC → STAT FUNC（版本 1）不能为 STAT FUNC（版本 1）提供可信性。那么，难道我们没有好的理由在 QM 中仔细区分被测值与拥有的值吗？
 

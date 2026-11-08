@@ -73,6 +73,13 @@
       "actor": "K-main-20261108",
       "at": "2026-11-07T23:14:39Z",
       "evidence": "qa-rework（K 批接管对账，2026-11-08）：第 48 行 μ(*P**{α}) 四处加粗吞并型标记破损（源文 *P*_{α}）已改回 *P*_{α}；第 98 行残留英文 moreover 译为『而且，』、全角方括号［VC1 证明］(…) 改回标准 markdown 链接 [VC1 证明](…)；复跑 style 0、math 0/0、defs 69:69、markers 39:39、academic OK"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "K-main-20261108b",
+      "at": "2026-11-08T11:55:00Z",
+      "evidence": "qa-rework（K 批接管对账，2026-11-08）：① k/kochen-specker.md 第 226 行标题粘连（『#### 因果的但可观察量由同一算符 f(Q) = g(P) 表示。…』＝标题『#### Causal Contextuality』与下文残片合体，系早前 seg102/103 因果语境性段对调修复遗留），改回标题『#### 因果的语境性』（与段104『#### 存在论的语境性』平行），正文完整段已在下一行在位；② 账本段126/130/132 的 source 多段块被截断（只剩首行，step1/step2 完好），按 yuanwen 逐字符回填三处；lq.py check 复跑 HARD=0（137/137）；check_style 0、check_math 0/0、check_academic --strict OK"
     }
   ],
   "blockers": [],
