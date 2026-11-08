@@ -760,74 +760,122 @@ segments:
     kind: body
     source: |-
       #### 3.4.1 Acceleration of Change
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 3.4.1 变革的加速
+
+    step2: |-
+      #### 3.4.1 变革的加速
+
   - id: 76
     kind: body
     source: |-
       Information technologies have an interesting growth pattern that has been observed since the founding of the industry. Intel engineer Gordon E. Moore noticed that the number of components that could be installed on an integrated circuit doubled every year for a minimal economic cost and he thought it might continue that way for another decade or so from the time he noticed it in 1965 (Moore 1965)[^moore-1965]. History has shown his predictions were rather conservative. This doubling of speed and capabilities along with a halving of costs to produce it has roughly continued every eighteen months since 1965 and is likely to continue. This phenomenon is not limited to computer chips and can also be found in many different forms of information technologies. The potential power of this accelerating change has captured the imagination of the noted inventor and futurist Ray Kurzweil. He has famously predicted that if this doubling of capabilities continues and more and more technologies become information technologies, then there will come a point in time where the change from one generation of information technology to the next will become so massive that it will change everything about what it means to be human. Kurzweil has named this potential event “the Singularity” at which time he predicts that our technology will allow us to become a new post-human species (2006). If this is correct, there could be no more profound change to our moral values. There has been some support for this thesis from the technology community with institutes such as the Acceleration Studies Foundation, Future of Humanity Institute, and H+.[^note-2] Reaction to this hypothesis from philosophers has been mixed but largely critical. For example, Mary Midgley (1992) argues that the belief that science and technology will bring us immortality and bodily transcendence is based on pseudoscientific beliefs and a deep fear of death. In a similar vein Sullins (2000) argues that there is often a quasi-religious aspect to the acceptance of transhumanism that is committed to certain outcomes such as the uploading of human consciousness into computers as a way to achieve immortality, and that the acceptance of the transhumanist hypothesis influences the values embedded in computer technologies, which can be dismissive or hostile to the human body.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      信息技术有一种有趣的增长模式，自行业奠基以来就被人观察到。英特尔工程师戈登·E. 摩尔（Gordon E. Moore）注意到，一块集成电路上可安装的元件数量每年翻一番，而经济成本极小；他认为，从他 1965 年注意到这一点起，这种态势可能再持续十年左右（Moore 1965）[^moore-1965]。历史证明他的预测相当保守。这种速度与能力的倍增，连同生产成本减半，自 1965 年以来大体每十八个月延续一次，而且很可能继续下去。这一现象不限于计算机芯片，也可以在许多其他形式的信息技术中找到。这种加速变化的潜在力量，抓住了著名发明家与未来学家雷·库兹韦尔（Ray Kurzweil）的想象力。他有名的预测是：如果这种能力倍增继续下去，越来越多的技术变成信息技术，那么终有一刻，信息技术从一代到下一代的变迁会如此巨大，以至于改变作为人类意味着什么的一切。库兹韦尔把这个潜在事件命名为“奇点”（the Singularity）；他预测，届时我们的技术将让我们成为一个新的后人类物种（2006）。如果这是正确的，那么对我们的道德价值而言，再没有比这更深刻的改变了。技术界对这一论题已有一些支持，加速研究基金会、人类未来研究所、H+ 等机构即是[^note-2]。哲学家对这一假说的反应毁誉参半，但以批评为主。例如，玛丽·米奇利（Mary Midgley）（1992）论证，科学与技术将带给我们永生与身体超越的信念，立足于伪科学的信念和对死亡的深深恐惧。萨林斯（2000）以相近的笔调论证，超人类主义的接受往往带有准宗教的一面——它执着于把人类意识上传到计算机以实现永生这类特定结果；而对超人类主义假说的接受，影响着植入计算机技术中的价值，这些价值可能蔑视乃至敌视人体。
+
+    step2: |-
+      信息技术的增长轨迹颇为耐人寻味，自这个行业奠基起就有人留意。英特尔工程师戈登·E. 摩尔（Gordon E. Moore）注意到：一块集成电路上装得下的元件数每年翻番，而所费经济成本微乎其微；他估计，自他 1965 年发现这一点算起，这般势头大约还能再走十年（Moore 1965）[^moore-1965]。历史证明，他的预言实在偏于保守。速度与能力翻番、制造成本折半，自 1965 年以来大体每十八个月续一轮，多半还会续下去。这股风并不限于计算机芯片，形形色色的信息技术里都见得到。这股加速变化的潜在伟力，迷住了大名鼎鼎的发明家兼未来学家雷·库兹韦尔（Ray Kurzweil）。他有名的预言是：能力倍增若不停步，越来越多的技术又纷纷化作信息技术，那么终有一刻，信息技术代与代之间的更迭将大到足以改写“作为人意味着什么”的全部内涵。库兹韦尔把这个潜在事件唤作“奇点”（the Singularity）：他预言，届时我们的技术将使我们蜕变为一个全新的后人类物种（2006）。倘若果真如此，我们的道德价值便再无更深刻的变革可言。技术界对这一论题不乏声援，加速研究基金会、人类未来研究所、H+ 等机构即是[^note-2]。哲学家对这一假说的反应有捧有贬，贬者居多。比如玛丽·米奇利（Mary Midgley）（1992）论证：科学与技术将赐我们永生与身体超越——这份信念的根子是伪科学与对死亡的深深恐惧。萨林斯（2000）同调相和：超人类主义的接纳常带准宗教的气味，它一口咬定若干结果——把人类意识上传到计算机以求不朽即是一例；接纳超人类主义假说，还会渗入计算机技术内嵌的价值里，这些价值可以蔑视乃至仇视人的肉身。
+
   - id: 77
     kind: body
     source: |-
       There are other cogent critiques of this argument but none as simple as the realization that:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对这一论证还有其他有力的批评，但都不如这样一个认识来得简单：
+
+    step2: |-
+      这一论证另有力批不少，但最简快的莫过于这一领悟：
+
   - id: 78
     kind: body
     source: |-
       > …there is, after all, a limit to how small things can get before they simply melt. Moore’s Law no longer holds. Just because something grows exponentially for some time, does not mean that it will continue to do so forever… (Floridi, 2016).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……东西毕竟不能小到只是熔化为止。摩尔定律不再成立。某物在一段时间内呈指数增长，并不意味着它将永远如此增长……（Floridi, 2016）
+
+    step2: |-
+      > ……东西再小，总有个底，小到底就要熔化了。摩尔定律已然失灵。某样东西一时呈指数增长，并不担保它永远指数增长下去……（Floridi, 2016）
+
   - id: 79
     kind: body
     source: |-
       While many ethical systems place a primary moral value on preserving and protecting nature and the natural given world, transhumanists do not see any intrinsic value in defining what is natural and what is not and consider arguments to preserve some perceived natural state of the human body as an unjustifiable obstacle to progress. Not all philosophers are critical of transhumanism, as an example, Nick Bostrom (2008) of the Future of Humanity Institute at Oxford University argues that putting aside the feasibility argument, we must conclude that there are forms of posthumanism that would lead to long and worthwhile lives and that it would be overall a very good thing for humans to become posthuman if it is at all possible (Bostrom, 2008).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      许多伦理体系把保护和守护自然与给定的自然世界放在道德价值的首位，超人类主义者则不认为界定何为自然、何为非自然有任何内在价值，并把保存人体某种被认定的自然状态的论证视作毫无正当性可言的进步障碍。并非所有哲学家都批评超人类主义。例如，牛津大学人类未来研究所的尼克·博斯特罗姆（Nick Bostrom）（2008）论证：撇开可行性问题不谈，我们必须承认，有些后人类主义形态会带来长久而有价值的人生；若人类有可能成为后人类，那总体上是件非常好的事（Bostrom, 2008）。
+
+    step2: |-
+      许多有分量的伦理体系把守护自然、护持这个给定的自然世界摆在道德价值的头把交椅；超人类主义者却认为，划定何为自然、何为非自然并无内在价值可言，而种种“保存人体某种想当然的自然状态”的说法，不过是给进步设下的无理障碍。当然，并非人人恶超人类主义。比如牛津大学人类未来研究所的尼克·博斯特罗姆（Nick Bostrom）（2008）便论证：可行性姑置勿论，我们必须承认，某些后人类主义形态确能通向长久而有分量的人生；人类若真能成为后人类，总归是一件大好事（Bostrom, 2008）。
+
   - id: 80
     kind: body
     source: |-
       #### 3.4.2 Artificial Intelligence and Artificial Life
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 3.4.2 人工智能与人工生命
+
+    step2: |-
+      #### 3.4.2 人工智能与人工生命
+
   - id: 81
     kind: body
     source: |-
       Artificial Intelligence (AI) refers to the many longstanding research projects directed at building information technologies that exhibit some or all aspects of human-level intelligence and problem-solving. Artificial Life (ALife) is a project that is not as old as AI and is focused on developing information technologies and or synthetic biological technologies that exhibit life functions typically found only in biological entities. A more complete description of logic and AI can be found in the entry on logic and artificial intelligence. ALife essentially sees biology as a kind of naturally occurring information technology that may be reverse-engineered and synthesized in other kinds of technologies. Both AI and ALife are vast research projects that defy simple explanations. Instead, the focus here is on the moral values that these technologies impact and the way some of these technologies are programmed to affect emotion and moral concern. See also the entry on ethics of artificial intelligence and robotics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人工智能（AI）指许多历史悠久的研发项目，它们致力于建造展现人类水平智能与问题解决的部分或全部方面的信息技术。人工生命（ALife）是比 AI 年轻的项目，专注于开发展现生命功能的信息技术或合成生物技术——这些功能通常只见于生物体。逻辑与 AI 更完整的说明见“逻辑与人工智能”词条。ALife 的要义是把生物学看作一种自然发生的信息技术，可以对它做逆向工程并在其他技术中加以合成。AI 与 ALife 都是庞大到难以简单概括的研究计划。这里的焦点是这些技术冲击的道德价值，以及其中一些技术被编程来影响情感与道德关切的方式。另见“人工智能与机器人技术的伦理”词条。
+
+    step2: |-
+      人工智能（AI）指的是一连串历史悠久的研发项目：目标是造出能在部分或全部方面达到人类水平的智能与解题能力的信息技术。人工生命（ALife）比 AI 年轻，专攻开发展现生命功能的信息技术或合成生物技术——那些功能往常只在生物身上见得到。逻辑与 AI 的更完备说明，见“逻辑与人工智能”词条。ALife 的核心主张：生物学无非一种自然发生的信息技术，可以拿来做逆向工程，再在别的技术里把它合成出来。AI 与 ALife 都是大到难以三言两语说清的研究计划。所以此处只盯一点：这些技术冲击着哪些道德价值，其中一些技术又是如何被编程来拨动情感与道德关切的。另见“人工智能与机器人技术的伦理”词条。
+
   - id: 82
     kind: body
     source: |-
       3.4.2.1 Artificial Intelligence
-    step1: TBD
-    step2: TBD
+    step1: |-
+      3.4.2.1 人工智能
+
+    step2: |-
+      **3.4.2.1 人工智能**
+
   - id: 83
     kind: body
     source: |-
       Alan Turing is credited with defining the research project that would come to be known as Artificial Intelligence in his seminal 1950 paper “Computing Machinery and Intelligence.” He described the “imitation game,” where a computer attempts to fool a human interlocutor that it is not a computer but another human (Turing 1948, 1950)[^turing-1948]. In 1950, he made the now-famous claim that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      艾伦·图灵（Alan Turing）在其 1950 年的开创性论文《计算机器与智能》（Computing Machinery and Intelligence）中被认为界定了日后名为人工智能的研究计划。他描述了“模仿游戏”：计算机试图让人类对话者相信它不是计算机，而是另一个人（Turing 1948, 1950）[^turing-1948]。1950 年，他提出了如今广为人知的主张：
+
+    step2: |-
+      艾伦·图灵（Alan Turing）1950 年发表奠基之作《计算机器与智能》（Computing Machinery and Intelligence），定义了那项后来得名“人工智能”的研究计划。他刻画了“模仿游戏”：一台计算机设法哄骗人类对话者，让对方相信自己不是机器，而是另一个人（Turing 1948, 1950）[^turing-1948]。1950 年，他放出了那句如今家喻户晓的断言：
+
   - id: 84
     kind: body
     source: |-
       > I believe that in about fifty years’ time…. one will be able to speak of machines thinking without expecting to be contradicted.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我相信，在大约五十年之后……人们将可以谈论机器在思考，而不必担心遭到反驳。
+
+    step2: |-
+      > 我相信，约莫五十年后……人们说“机器在思考”时，将不必担心有人来反驳。
+
   - id: 85
     kind: body
     source: |-
       A description of the test and its implications to philosophy outside of moral values can be found here (see entry on the Turing test). Turing’s prediction may have been overly ambitious and some have argued that we are nowhere near the completion of Turing’s dream. For example, Luciano Floridi (2011a) argues that while AI has been very successful as a means of augmenting our own intelligence, but as a branch of cognitive science interested in intelligence production, AI has been a dismal disappointment. The opposite opinion has also been argued and some claim that the Turing Test has already been passed or at least that programmers are on the verge of doing so. For instance, it was reported by the BBC in 2014 that the Turing Test had been passed by a program that could convince the judges that it was a 13-year-old Ukrainian boy, but even so, many experts remain skeptical (BBC 2014)[^bbc-2014].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于该测试及其在道德价值之外的哲学意涵的说明，可在此找到（参见“图灵测试”词条）。图灵的预测或许过于雄心勃勃，有人论证我们离图灵之梦的完成还很遥远。例如，卢西亚诺·弗洛里迪（Luciano Floridi）（2011a）论证，AI 作为增强我们自身智能的手段非常成功，但作为关心智能生产的认知科学的一个分支，AI 一直令人大失所望。相反的意见也有人主张，有人宣称图灵测试已被通过，或至少程序员们已接近成功。例如，BBC 在 2014 年报道，一个程序已通过图灵测试——它能让评委相信自己是 13 岁的乌克兰男孩；即便如此，许多专家仍持怀疑态度（BBC 2014）[^bbc-2014]。
+
+    step2: |-
+      这项测试及其在道德价值之外的哲学蕴涵，另有专述（参见“图灵测试”词条）。图灵的预言或许野心过大：有人论证，图灵之梦离完成还远得很。例如卢西亚诺·弗洛里迪（Luciano Floridi）（2011a）便论证：AI 作为增强我们自身智能的手段相当成功；可作为认知科学里关心“造出智能”的一支，AI 的成绩单却惨不忍睹。反面意见同样有人持守，甚至有人说图灵测试早已被通过，或至少程序员们眼看就要成功。比如 BBC 2014 年报道：一个程序已通过图灵测试——它让评委们信了它是 13 岁的乌克兰男孩；纵然如此，许多专家依旧存疑（BBC 2014）[^bbc-2014]。
+
   - id: 86
     kind: body
     source: |-
       For argument’s sake, assume Turing is correct even if he is off in his estimation of when AI will succeed in creating a machine that can converse with you. Yale professor David Gelernter worries that that there would be certain uncomfortable moral issues raised. “You would have no grounds for treating it as a being toward which you have moral duties rather than as a tool to be used as you like” (Gelernter 2007)[^gelernter-2007]. Gelernter suggests that consciousness is a requirement for moral agency and that we may treat anything without it in any way that we want without moral regard. Sullins (2006) counters this argument by noting that consciousness is not required for moral agency. For instance, nonhuman animals and the other living and nonliving things in our environment must be accorded certain moral rights, and indeed, any Turing capable AI would also have moral duties as well as rights, regardless of its status as a conscious being (Sullins 2006)[^sullins-2006].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为论证起见，姑且假定图灵是对的，即便他对 AI 何时能造出可与你对话的机器估计有误。耶鲁教授大卫·盖伦特（David Gelernter）担心，这将引发某些令人不安的道德问题：“你将没有任何理由把它当作一个你对其负有道德义务的存在者，而不把它当作一件随你使用的工具”（Gelernter 2007）[^gelernter-2007]。盖伦特提示，意识是道德行动者的必要条件，对于没有意识的任何东西，我们可以随意处置，无须道德上的顾忌。萨林斯（2006）反驳这一论证，指出道德行动者并不需要意识。例如，非人类动物以及我们环境中的其他生物与非生物，都必须被授予某些道德权利；事实上，任何具备图灵能力的 AI 也将拥有道德义务与权利，无论它是否是有意识的存在（Sullins 2006）[^sullins-2006]。
+
+    step2: |-
+      为论证方便，姑且认下图灵——哪怕他对 AI 何时造得出能与你对谈的机器估计失准。耶鲁教授大卫·盖伦特（David Gelernter）担心，这会牵出几桩让人如坐针毡的道德问题：“你将再无理由把它当作你对其负有道德义务的存在者，而只能把它当作一件随你使唤的工具”（Gelernter 2007）[^gelernter-2007]。照盖伦特的说法，意识是道德行动者的门槛；没有意识的东西，我们尽可随意处置，谈不上道德上的顾忌。萨林斯（2006）反唇相驳：道德行动者并不以意识为前提。比如，非人类动物，乃至我们环境中的其他生物与非生物，都必须被授以若干道德权利；果真如此，任何具备图灵能力的 AI 也同样兼有道德义务与道德权利——无论它算不算有意识的存在（Sullins 2006）[^sullins-2006]。
+
   - id: 87
     kind: body
     source: |-
