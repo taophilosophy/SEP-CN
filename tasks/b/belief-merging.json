@@ -2,7 +2,7 @@
   "slug": "belief-merging",
   "kind": "retranslate",
   "zh_doc": "b/belief-merging.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:01:41Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "B-main-20261109",
+      "at": "2026-11-08T17:14:32Z",
+      "evidence": "账本 112 段双版齐（lq.py check OK，HARD=0）；compose 写回与工作区正文逐字节一致（纠两处：参考文献节标题归现制形 ## References（引用注释）、相关词条 social procedures, formal approaches 依 SUMMARY 正名为 社会程序的形式化进路，lq.py map_related 增词序颠倒同名互指兜底）；四检 style/math/academic --strict 全绿，prose 6 条留待 s2；源钉 Summer 2025（baseline gate hash_ok 2026-11-01）"
     }
   ],
   "blockers": [],
