@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-08 00:53（UTC）
+生成时间：2026-11-08 02:20（UTC）
 
 ## 总览
 
@@ -14,30 +14,30 @@
 |已建英文基线|1879|
 |已建任务|1028|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|195|
-|在途（drafted 起、done 前）|234|
+|已完成（done）|198|
+|在途（drafted 起、done 前）|232|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|599|
+|pending|598|
 |cleared|163|
-|drafted|3|
+|drafted|2|
 |s1_checked|2|
-|s2_checked|1|
-|s3_checked|64|
+|s3_checked|63|
 |r1_reviewed|1|
-|done|195|
+|r2_reviewed|1|
+|done|198|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
 |A|160|160|160|52|
-|B|62|62|62|9|
-|C|172|172|172|3|
+|B|62|62|62|10|
+|C|172|172|172|4|
 |D|92|92|92|11|
 |E|99|99|99|17|
 |F|96|96|96|1|
@@ -54,7 +54,7 @@
 |Q|34|34|0|0|
 |R|85|85|11|6|
 |S|161|161|13|8|
-|T|71|71|6|1|
+|T|71|71|6|2|
 |U|4|4|0|0|
 |V|15|15|0|0|
 |W|38|38|6|0|
@@ -86,7 +86,6 @@
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
 |analogy-medieval|retranslate|cleared|task_ops 2026-11-08|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
-|bauer|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |bayes-theorem|retranslate|s3_checked|? 2026-11-04|
 |bayle|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |beardsley-aesthetics|retranslate|cleared|task_ops 2026-11-01|
@@ -157,9 +156,8 @@
 |computing-history|retranslate|s3_checked|主代理 2026-11-01|
 |concept-emotion-india|retranslate|s3_checked|主代理 2026-11-01|
 |conceptual-art|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
-|condemnation|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |confucius|retranslate|s3_checked|主代理 2026-11-01|
-|conscience|retranslate|cleared|task_ops 2026-11-07|
+|conscience|retranslate|s1_checked|C-main-20261108 2026-11-08|
 |contractarianism|retranslate|s3_checked|CD-main-20261106 2026-11-06|
 |copernicus|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |cordemoy|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -227,7 +225,7 @@
 |holism-social|retranslate|cleared|task_ops 2026-11-01|
 |holkot|retranslate|cleared|task_ops 2026-11-01|
 |horkheimer|retranslate|cleared|task_ops 2026-11-01|
-|hume-aesthetics|retranslate|s1_checked|EH-main-20261108 2026-11-08|
+|hume-aesthetics|retranslate|r2_reviewed|EH-main-20261108 2026-11-08|
 |hume-freewill|retranslate|cleared|task_ops 2026-11-01|
 |hume-moral|retranslate|cleared|task_ops 2026-11-01|
 |humor|retranslate|cleared|task_ops 2026-11-01|
@@ -243,7 +241,7 @@
 |jaina-philosophy|retranslate|cleared|task_ops 2026-11-01|
 |james-mill|retranslate|s3_checked|? 2026-11-07|
 |james-viterbo|retranslate|cleared|task_ops 2026-11-01|
-|japanese-aesthetics|retranslate|s2_checked|J-main-20261108 2026-11-08|
+|japanese-aesthetics|retranslate|s3_checked|J-main-20261108 2026-11-08|
 |japanese-confucian|retranslate|cleared|task_ops 2026-11-01|
 |japanese-philosophy|retranslate|cleared|task_ops 2026-11-01|
 |japanese-pure-land|retranslate|cleared|task_ops 2026-11-01|
@@ -289,13 +287,13 @@
 |korean-confucianism|retranslate|cleared|task_ops 2026-11-01|
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
-|moral-demands-permissions|retranslate|s1_checked|LMN-main-20261108 2026-11-07|
+|langer|retranslate|cleared|task_ops 2026-11-08|
+|moral-demands-permissions|retranslate|s3_checked|LMN-main-20261108f 2026-11-08|
 |olympiodorus|retranslate|cleared|task_ops 2026-11-07|
 |rationalism-early-modern|retranslate|r1_reviewed|OR-main-20261107 2026-11-07|
-|scholem|retranslate|drafted|SZ-main-20261108 2026-11-07|
+|scholem|retranslate|s1_checked|SZ-main-20261108b 2026-11-08|
 |telesio|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |theology-aristotle|retranslate|cleared|task_ops 2026-11-07|
-|truth-coherence|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
 |william-jevons|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |william-sherwood|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |wisdom|retranslate|s3_checked|TZ-main-20261107 2026-11-07|

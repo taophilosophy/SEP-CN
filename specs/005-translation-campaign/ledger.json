@@ -24,9 +24,9 @@
   },
   "c": {
    "phase": "translate",
-   "claimed_by": "C-main-20261108",
-   "claimed_at": "2026-11-07T21:58:49Z",
-   "note": "对账补记（2026-11-03/11-06，CD-main-20261106）：s3 18→25（cloning 账本 59 段续译收口至 s3_checked）；状态机与 steps 凭证 100% 一致；修复 causation-medieval 文末缺 `## 参考文献` 节首（defs 60:60）、conway 两标题漏汉化。 | 对账补记（2026-11-08，C-main-20261108 接管）：五方复算账实一致——任务 172=done 3（cockburn/conway/crathorn）/s3_checked 27（本次 crescas 收口；r1-r3 归 R-main-20261108 评审线）/cleared 2（cancer、cosmology-30s）/pending 140；零跳步零虚挂。纠正 3 件：①crescas 前会话遗留未提交 s2→复验四检+结构五维全等后推进 s3（账本 113 段双填、守恒门过；md 为 s2 后终稿，勿再 compose --write 回退）；②cosmology-30s 账本 24 段部分草稿（源文 211 段/62 脚注，f746e57e 误入）而任务虚挂 pending→补记 clear（md 自 ADR-0009 起即 H1-only，基线门 hash_ok），续译自 p25；③cambridge-platonists 前会话遗留术语实修 7 处（费奇诺/马勒伯朗士/撒都该主义之溃败/善形官能 Boniform/Hylarchic/指代）已提交，不改状态（s3 归评审线）。遗留待登记线：ren-ming-biao 中 Malebranche 两行异译（马勒伯朗士[L 批 lady-masham] vs 马勒布朗士[O 批 occasionalism]）需合并。本线续开 pending 140。",
+   "claimed_by": "C-main-20261108b",
+   "claimed_at": "2026-11-08T02:18:17Z",
+   "note": "对账补记（2026-11-03/11-06，CD-main-20261106）：s3 18→25（cloning 账本 59 段续译收口至 s3_checked）；状态机与 steps 凭证 100% 一致；修复 causation-medieval 文末缺 `## 参考文献` 节首（defs 60:60）、conway 两标题漏汉化。 | 对账补记（2026-11-08，C-main-20261108 接管）：五方复算账实一致——任务 172=done 3（cockburn/conway/crathorn）/s3_checked 27（本次 crescas 收口；r1-r3 归 R-main-20261108 评审线）/cleared 2（cancer、cosmology-30s）/pending 140；零跳步零虚挂。纠正 3 件：①crescas 前会话遗留未提交 s2→复验四检+结构五维全等后推进 s3（账本 113 段双填、守恒门过；md 为 s2 后终稿，勿再 compose --write 回退）；②cosmology-30s 账本 24 段部分草稿（源文 211 段/62 脚注，f746e57e 误入）而任务虚挂 pending→补记 clear（md 自 ADR-0009 起即 H1-only，基线门 hash_ok），续译自 p25；③cambridge-platonists 前会话遗留术语实修 7 处（费奇诺/马勒伯朗士/撒都该主义之溃败/善形官能 Boniform/Hylarchic/指代）已提交，不改状态（s3 归评审线）。遗留待登记线：ren-ming-biao 中 Malebranche 两行异译（马勒伯朗士[L 批 lady-masham] vs 马勒布朗士[O 批 occasionalism]）需合并。本线续开 pending 140。 | 接管复算（2026-11-08，C-main-20261108b，本会话）：C 172 词条账实五方复算一致——done 4（cockburn/condemnation/conway/crathorn）、s3_checked 26（评审线 R-main 队列，condemnation 已由 REV-main 走完 r1-r3 收口）、s1_checked 1（conscience 在途，本线续做 s2-s3）、cleared 2（cancer、cosmology-30s）、pending 139；158 个任务 JSON 的步序/重复步/复审独立性（r1≠draft actor）/时间单调四维探针零问题（仅 causation-medieval、conway 各一条登记在案的 cd-sync 对账步，属补记非跳步）。纠正 2 件：①移除误入库的一次性装配脚本 c/_gen_crathorn.py（本地留存 script/，字母目录只放词条，ADR-0023 同类）；②PROGRESS.md 重生成同步（C 列不动：172/172/172/done 4）。另登记评审线索 3 件（均 s3_checked 存量，移交 R-main 在 r1 处理，本线不并行改同一文件）：certainty 4 处 bold-spacing（**p**/**b** 紧贴汉字）、change 1 处 curly-quotes（Leibniz’ law 撇号）、cambridge-platonists 1 处斜体断裂（*philosophia perenni*s）。本线续开 pending 139。",
    "advanced_at": "2026-11-02T16:12:59Z"
   },
   "d": {
@@ -61,8 +61,8 @@
    "phase": "translate",
    "claimed_by": "EH-main-20261108",
    "claimed_at": "2026-11-07T23:46:39Z",
-   "note": "对账补记（2026-11-08 二次复算）：任务 61=done 8/cleared 28/drafted 1（hume-aesthetics，账本 89/89 守恒通过）/pending 24；在途 11=上述 10 条半截 cleared+hume-aesthetics；done 8 与 §8 一致，原记 cleared 29 系 hume-aesthetics 推进 drafted 前的过期数；本会话纠正 5 条 done 文本装配缺陷（egoism/epsilon 重复版本行、erfurt 漏脚注标记、harriet-mill/hutcheson 标题与节序），均 qa-rework 留痕；倒序战役：H→G→F→E。",
-   "advanced_at": "2026-11-08T00:53:33Z"
+   "note": "三次复算（2026-11-08）：任务 61=done 8/cleared 28/s2_checked 1（hume-aesthetics，s1+s2 已过、待 s3→r1→r3）/pending 24；在途 11=常用口径（10 条半截 cleared＋frame-problem）＋hume-aesthetics=12/305；done 8 与 §8 一致；倒序战役 H→G→F→E 进行中。",
+   "advanced_at": "2026-11-08T01:22:03Z"
   },
   "i": {
    "phase": "translate",
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-08T00:53:33Z"
+ "updated_at": "2026-11-08T02:20:12Z"
 }
