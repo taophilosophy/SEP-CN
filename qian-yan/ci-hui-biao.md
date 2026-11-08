@@ -1093,7 +1093,7 @@
 |Peter Abelard|彼得·阿伯拉尔|法语原名 Pierre Abelard（皮埃尔·阿伯拉尔）；正文通常简称阿伯拉尔，见 Abelard 条|
 |Peter Frederick Strawson|彼得·弗雷德里克·斯特劳森||
 |Phaedo|斐多篇||
-|Philip the Chancellor|菲利普校长|13 世纪巴黎主教座堂总务长，神学家（依 ren-ming-biao 正形对齐 2026-11-08）|
+|Philip the Chancellor|菲利普校长|13 世纪巴黎主教座堂总务长，神学家；亦作“校长腓力”（ren-ming-biao 正形对齐 2026-11-08）|
 |Phenomenological Approaches|现象学方法||
 |Philo|斐洛||
 |Philolaus|菲洛劳斯|毕达哥拉斯学派；勿与 Philoponus（斐洛波努斯）混淆|

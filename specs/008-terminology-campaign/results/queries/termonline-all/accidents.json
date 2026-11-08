@@ -1,0 +1,320 @@
+{
+ "key": "accidents",
+ "term": "accidents",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-07T21:52:46+00:00",
+ "status": "ok",
+ "note": "variant=accidents; 审定公布名词库=286; 海峡两岸名词对照库=40; 其他来源数据库=8; 预公布名词数据库=61; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "事故",
+   "en": "accident",
+   "code": "05.020",
+   "standard": "急救医学名词",
+   "subject": "急救医学_灾难医学_基本概念_通用概念"
+  },
+  {
+   "cn": "事故",
+   "en": "accident",
+   "code": "03.145",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程模拟"
+  },
+  {
+   "cn": "事故",
+   "en": "accident",
+   "code": "09.0639",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理"
+  },
+  {
+   "cn": "事故",
+   "en": "accident",
+   "code": "21.266",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_可靠性"
+  },
+  {
+   "cn": "事故",
+   "en": "accident",
+   "code": "29.013",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电气安全"
+  },
+  {
+   "cn": "词形变化",
+   "en": "accidence",
+   "code": "04.237",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_句法篇章"
+  },
+  {
+   "cn": "被盗事故",
+   "en": "robbery accident,burglary accident",
+   "code": "06.0638",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道运输管理与运输经济"
+  },
+  {
+   "cn": "险性事故",
+   "en": "bad accident,dangerous accident",
+   "code": "06.0624",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道运输管理与运输经济"
+  },
+  {
+   "cn": "稀有事故",
+   "en": "infrequent accidents",
+   "code": "17.665",
+   "standard": "电力名词",
+   "subject": "电力_核电"
+  },
+  {
+   "cn": "海事",
+   "en": "marine accidents",
+   "code": "10.092",
+   "standard": "水产名词",
+   "subject": "水产_渔业工程与渔港"
+  },
+  {
+   "cn": "撞人事故",
+   "en": "pedestrian accidents",
+   "code": "03.219",
+   "standard": "公路交通科技名词",
+   "subject": "公路交通科学技术_交通工程"
+  },
+  {
+   "cn": "交通事故",
+   "en": "traffic accident",
+   "code": "05.021",
+   "standard": "急救医学名词",
+   "subject": "急救医学_灾难医学_基本概念_通用概念"
+  },
+  {
+   "cn": "事故倾向",
+   "en": "accident proneness",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "事故分析",
+   "en": "accident analysis",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "辐射事故",
+   "en": "radiation accident",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "核事故",
+   "en": "nuclear accident",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "临界事故",
+   "en": "criticality accident",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "潜水事故",
+   "en": "diving accident",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "偶然变异",
+   "en": "accident variation",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "不可避免的事故",
+   "en": "inevitable accident",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "海上事故",
+   "en": "sea accident",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "超功率事故",
+   "en": "super-power accident",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "短周期事故",
+   "en": "short period accident",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "海事报告",
+   "en": "marine accident report",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "事故",
+   "en": "accident",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "白内障",
+   "en": "Falling (accident)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "临界事故",
+   "en": "criticality accident",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "碘化钾",
+   "en": "nuclear and radiation accident",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "及早通报核事故公约",
+   "en": "Convention on Early Notification of a Nuclear Accident",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "意外换舷",
+   "en": "accidental gybe",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "国民自卫军",
+   "en": "List of terrorist incidents in France",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "大数据安全事件预警通报制度",
+   "en": "early warning system for big data security incidents",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "航海作业事故",
+   "en": "maritime accidents",
+   "code": "12.1.3.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_航海和潜水医学_航海医学"
+  },
+  {
+   "cn": "事故剂量",
+   "en": "accident dosimetry",
+   "code": "5.6.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测质量控制"
+  },
+  {
+   "cn": "事故隐患",
+   "en": "accident potential",
+   "code": "6.1.6.22",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_分析评估"
+  },
+  {
+   "cn": "事故预防",
+   "en": "accident prevention",
+   "code": "6.6.5.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役"
+  },
+  {
+   "cn": "核事故",
+   "en": "nuclear accident",
+   "code": "7.1.2.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件类型"
+  },
+  {
+   "cn": "临界事故",
+   "en": "critical accident",
+   "code": "7.1.2.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件类型"
+  },
+  {
+   "cn": "放射事故",
+   "en": "radiological accident",
+   "code": "7.1.2.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件类型"
+  },
+  {
+   "cn": "重大事故",
+   "en": "serious accident",
+   "code": "7.1.4.1.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件分级"
+  },
+  {
+   "cn": "特大事故",
+   "en": "major accident",
+   "code": "7.1.4.1.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件分级"
+  },
+  {
+   "cn": "临界事故",
+   "en": "critical accident",
+   "code": "8.7.7",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_核事故应急救援"
+  },
+  {
+   "cn": "核事故",
+   "en": "nuclear accident",
+   "code": "8.7.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_核事故应急救援"
+  },
+  {
+   "cn": "潜艇事故",
+   "en": "submarine accident",
+   "code": "12.1.7",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_航海和潜水医学_航海医学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
