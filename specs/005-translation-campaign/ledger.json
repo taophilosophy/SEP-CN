@@ -24,8 +24,8 @@
   },
   "c": {
    "phase": "translate",
-   "claimed_by": "C-main-20261108c",
-   "claimed_at": "2026-11-08T12:50:08Z",
+   "claimed_by": "C-main-20261109",
+   "claimed_at": "2026-11-08T18:37:06Z",
    "note": "复算纠正（2026-11-09，C-main-20261109 接管）：五方对账 C 172=SUMMARY 172（另 53 别名行）/baseline 172/镜像 172/任务 172/正文成稿 33——任务 JSON 四维探针零问题（cd-sync/qa-rework 为登记在案对账步）；状态 pending 138、cleared 2（cancer 骨架 78 段待译、cosmology-30s 在途）、s3_checked 28（评审线 R-main 队列）、done 4。纠正 1 件：cosmology-30s 前会话已成稿（账本 100 段双版全填、正文 64KB 与 compose 产物一致、marker 123:123/defs 62:62/年份 49:49）却虚挂 cleared 仅 clear 一步、且正文与账本均未提交——本次补记 draft 并提交 3c6bd63c，任务进 drafted，续做 s1-s3；登记欠账：29 段 step1==step2 反思步待 s2 逐段补写。本线续做 cosmology-30s s1-s3 后按源文词数升序续开 pending 138。",
    "advanced_at": "2026-11-08T18:20:09Z"
   },
@@ -108,15 +108,15 @@
   },
   "o": {
    "phase": "translate",
-   "claimed_by": "OPQR-main-20261108",
-   "claimed_at": "2026-11-08T11:24:30Z",
+   "claimed_by": "OP-CN-20261109",
+   "claimed_at": "2026-11-08T18:36:04Z",
    "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
    "advanced_at": "2026-11-05T15:22:54Z"
   },
   "p": {
    "phase": "translate",
-   "claimed_by": "OPQR-main-20261108",
-   "claimed_at": "2026-11-08T11:24:31Z",
+   "claimed_by": "OP-CN-20261109",
+   "claimed_at": "2026-11-08T18:36:04Z",
    "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
    "advanced_at": "2026-11-05T15:22:54Z"
   },
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-08T18:31:59Z"
+ "updated_at": "2026-11-08T18:37:06Z"
 }
