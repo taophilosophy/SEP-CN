@@ -2,8 +2,72 @@
   "slug": "analogy-medieval",
   "kind": "retranslate",
   "zh_doc": "a/analogy-medieval.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T00:20:01Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-08T03:08:01Z",
+      "evidence": "零信任全量重译：源文正文 39 块 1:1 对应（38 段落+pubinfo），75 条 defs 逐行照录，H2 12:12、引块 6:6、年份 14:14；H1 与 SUMMARY/mu-lu-s 标题联动补全 analogy；pubinfo 照 baseline（Nov 29, 1999 / Dec 3, 2025）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-08T03:17:15Z",
+      "evidence": "体例首校：italic-cjk 1 处（抽象分离）转加粗清零；check_style --strict 0 issue；标题三处联动（H1/SUMMARY/mu-lu-s 补 analogy），SUMMARY 与 mu-lu-s 检查 0 硬错误；先登后译：术语 25 条、人名 13 条已入册"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-08T03:17:15Z",
+      "evidence": "语言实修 69 处：check_prose 59→0（de-chain 34、长句 15、weak-verb 9、passive-bei 8、plural-men 1；三轮重写，含拆句、去「的」链、去双重「被」）；用词校准（存有→存在、某种方式补「以」、*rationes* 语序）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-08T03:17:18Z",
+      "evidence": "变更段复核：正文 39 块 1:1、defs 75:75（逐行照录零差异）、H2 12:12、引块 6:6、年份 14:14、控制字符 0；check_style 0、check_academic --strict 0、check_prose 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-08T04:16:43Z",
+      "evidence": "全文逐节回核源文：三来源（逻辑/神学/形而上学）—三种语义类比—波爱修斯四细分—两种三分法—阿奎那神名—司各脱单义性—卡耶坦三模式/prescind 之争，39 块逐段对应无漏译增译；乌贼骨、canis、sanum、principium、smiling meadow 诸例照源"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-08T04:16:43Z",
+      "evidence": "登记核对：Boethius/Avicenna/Ockham/Buridan/Duns Scotus/Capreolus/Suárez/安萨里已在册；新增人名 13 条（卡耶坦、里尔的阿兰、黑尔斯的亚历山大、普瓦捷的吉尔伯特、马斯特里乌斯、巴黎的尼古拉、校长腓力、托马斯·萨顿、费拉拉的西尔维斯特、普里埃里亚斯、松奇纳斯、圣托马斯的约翰、彼得·托马）；术语 25 条入册；现代学者 Montagnes/Hochschild/McInerny/Dewan/Wippel/Tavuzzi/Dumont/Cross 保留拉丁名"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-08T04:16:45Z",
+      "evidence": "终检：check_prose 0、check_style --strict 0、check_academic --strict 0；SUMMARY/mu-lu-s 标题与 H1 一致；version_pin 与 baseline 一致（Dec 3, 2025 / Winter 2025）；对账五项全等"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-08T04:16:45Z",
+      "evidence": "九步闭环 done：a/analogy-medieval.md（导论+8 节+四类尾部节，75 条 defs 照录，正文约 1.1 万汉字）；A 批实况 done 53/160"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:48Z",
   "version_pin": {
