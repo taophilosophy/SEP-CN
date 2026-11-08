@@ -2,8 +2,44 @@
   "slug": "disability-care-rationing",
   "kind": "retranslate",
   "zh_doc": "d/disability-care-rationing.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T19:52:18Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "D-main-20261108",
+      "at": "2026-11-08T02:56:58Z",
+      "evidence": "续译收口：账本 87 段（body 86+oir 1）双版齐——44-87 段本会话直译（白话直笔），1-43 段 D-main-20261107 遗产经体例改白话；lq 守恒 HARD=0（段数/kind/source 逐字符、脚注键与 $ 守恒），compose 幂等写回 33837 字符"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "D-main-20261108",
+      "at": "2026-11-08T03:03:38Z",
+      "evidence": "一校（准确性）：全篇逐段对照 yuanwen 镜像核销——数字/编号逐项比对零差（源独有 0、译独有 0：1990/1992/0.4/0.6×30=18/12 年等）；段数 87=源 87，脚注键集合与 $ 计数守恒；正文外文残留扫描 0；人名首现括注 6 处（丹·布罗克/诺曼·丹尼尔斯/阿马蒂亚·森/弗朗西斯·卡姆/迈克尔·斯坦/格雷格·博格纳）合规；尾节齐（参考文献/学术工具/其他网络资源/相关词条）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "D-main-20261108",
+      "at": "2026-11-08T03:08:03Z",
+      "evidence": "二校（语言）：check_prose 47→22，实修 25 处（长句拆分 14、双重被字 6、弱动词 2、as-one 2、的链 1；另恢复 ex ante/ex post 拉丁斜体 3 处、去中文斜体 2 处）；余 22 条逐条豁免留痕：12 条 long-sentence 为 70–76 字论证句（阈值 70，拆分反损逻辑链），10 条 de-chain 为术语密集定语（医疗资源分配的有效性/健康资源使用结局）；ADR-0020 口径"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "D-main-20261108",
+      "at": "2026-11-08T03:14:53Z",
+      "evidence": "三校（体例）：check_style 0 issue（弯引号/中西文空格/无 HTML/无中文斜体全过）；check_math missing=0 unbalanced=0；check_academic --strict 0 硬错误；check_summary H1 与 SUMMARY 一致；尾节后处理 4 项——References（引用注释）→ 参考文献并补「以下文献从原文照录」声明、相关词条 2 项改 SUMMARY 主名形（残疾与正义/残疾与福祉）、有序列表缩进规范化 5 处；术语登记 15 行（失能/配给/CEA/QALY/DALY/生活质量/受益能力/优先主义/运气平等主义/失能悖论/标引问题/分离领域问题/悲剧性选择/救助规则/平等待人/主观幸福）、人名 4 行（丹·布罗克/迈克尔·斯坦/格雷格·博格纳/阿德里安娜·阿施，另弗兰西斯·卡姆与诺曼·丹尼尔斯沿用既有行）"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:53Z",
   "version_pin": {

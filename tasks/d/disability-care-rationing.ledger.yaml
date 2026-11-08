@@ -1,0 +1,720 @@
+version: 1
+slug: disability-care-rationing
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      In the 1990s philosophers, in particular bioethicists, debated the broad question of the justice of health care resource allocation, and in particular the ethical pros and cons of the dominant rationing strategy based on cost effectiveness analysis (CEA) with benefit characterized in terms of “quality of life”. A dominant theme in this literature was whether a pre-existing health state, or resulting health outcome, should be taken into account when allocating health resources. More specifically, the debate centered on whether a person’s disability should be taken into account, or whether doing so would be discriminatory or unfair. As Dan Brock explained it, this concern was raised because of the confluence of two events—the then recent (1990) passage of the *Americans with Disabilities Act* (ADA), prohibiting discrimination on the basis of disability, and the 1992 Oregon Medicaid proposal for rationing services, which used both CEA and a quality of life outcome measure to prioritize treatments for persons with specific health conditions and which arguably systematically disadvantaged people with pre-existing disabilities (Brock 1995, 1999, 2004)[^brock-1995].
+    step1: |-
+            1990 年代，哲学家、尤其是生命伦理学家就医疗资源分配的正义性这一宽泛问题展开了争论，特别是围绕以成本效果分析（CEA）为基础、以“生活质量”刻画收益的主流配给策略的伦理利弊。这一文献的主导论题是：在分配医疗资源时，是否应当考虑既存的健康状况或由此产生的健康结局。更具体地说，争论集中在：一个人的失能是否应被纳入考量，抑或这样做会构成歧视或不公。正如 Dan Brock 所解释的，这一关切之所以被提出，是因为两件事的汇合：一是当时新近（1990 年）通过的《美国残疾人法》（ADA）禁止基于失能的歧视；二是 1992 年俄勒冈州医疗补助（Medicaid）的配给服务提案，该提案同时使用 CEA 与一种生活质量结局指标来为特定健康状况者的治疗排定优先次序，而可以说系统性地不利于有既存失能的人（Brock 1995, 1999, 2004）[^brock-1995]。
+    step2: |-
+      1990 年代，哲学家——尤其是生命伦理学家——围绕医疗资源分配的正义性展开了广泛争论，焦点是以成本效果分析（CEA）为基础、用“生活质量”来刻画收益的主流配给策略在伦理上有何利弊。这一文献的核心问题是：分配医疗资源时，是否应当考虑既存的健康状况或由此产生的健康结局；更具体地说，争论集中在个人的失能是否应纳入考量，还是说这样做构成歧视或不公。据丹·布罗克（Dan Brock）解释，这一关切之所以被提出，源于两件事的汇合：一是当时新近（1990 年）通过的《美国残疾人法》（ADA），禁止基于失能的歧视；二是 1992 年俄勒冈州医疗补助（Medicaid）的配给服务提案——该提案同时使用 CEA 和一种生活质量结局指标，为有特定健康状况者的治疗排定优先，而可以说系统性地不利于有既存失能的人（Brock 1995, 1999, 2004）[^brock-1995]。
+  - id: 2
+    kind: body
+    source: |-
+      The ethics of health care allocation or rationing raises a raft of issues that are not directly dependent on the potential discriminatory impact on persons with disabilities. Yet, since it is difficult to clearly separate the general ethical issues from those raised by the focus on disability, we begin in Section 1 by surveying, first, general ethical concerns in health care rationing, and then the specific issues raised by CEA and quality of life as a metric of the “benefit” that health care resources provide. We then turn in Section 2 to review why it has been argued that disability poses a special set of ethical issues in health care rationing. The ethical issues of health resource rationing (or “prioritization” as it is sometimes called) can be exemplified either at the individual level of specific allocation decisions “at the bedside”, or more generally as a social policy of health care rationing. The ethical issues at the individual level are reviewed in Section 2, and social policy issues are considered in Section 3, including whether it makes any difference if access to health care is viewed as a human right. We conclude in Section 4 with the unsatisfactory result that we remain in a dilemma: refusing to consider disability in health care allocation seems irrational and unfair, but taking disability into account raises a range of, apparently, irresolvable philosophical issues.
+    step1: |-
+            医疗资源分配或配给的伦理涉及一大串问题，它们并不直接取决于对失能者可能造成的歧视性影响。然而，既然很难把一般伦理问题与聚焦失能所引出的问题清楚分开，我们在第 1 节先综述医疗配给中的一般伦理关切，再讨论以 CEA 与生活质量作为“收益”度量所引出的具体问题。随后在第 2 节回顾：为何有人论证失能在医疗配给中带来一组特殊的伦理问题。医疗资源配给（有时也称“优先排序”）的伦理问题，既可以在“床边”具体分配决策的个体层面示例，也可以更一般地作为医疗配给的社会政策示例。个体层面的伦理问题在第 2 节评述，社会政策问题在第 3 节讨论，其中包括：把医疗服务可及性视为一项人权是否会有任何不同。第 4 节以不令人满意的结论收尾：我们仍陷于两难——拒绝在医疗分配中考量失能似乎不理性且不公，但把失能计入考量又引出一系列显然无解的哲学问题。
+    step2: |-
+      医疗资源分配或配给涉及的伦理问题一大串，它们并不直接取决于对失能者可能的歧视性影响。但一般伦理问题与聚焦失能所引出的问题既难清楚分开，第 1 节就先综述医疗配给的一般伦理关切，再讨论以 CEA 与生活质量来度量“收益”所引出的具体问题；第 2 节回顾为什么有人主张失能在医疗配给中带来一组特殊的伦理问题。医疗资源配给（有时也称“优先排序”）的伦理问题，既可以在“床边”具体分配决策的个体层面示例，也可以更一般地作为社会政策来示例。个体层面的伦理问题在第 2 节评述，社会政策问题在第 3 节讨论，其中包括把医疗服务可及性视为人权是否有所不同。第 4 节以一个不令人满意的结论收尾：我们仍陷在两难之中——拒绝在医疗分配中考量失能，似乎既不理性也不公平；把失能计入考量，却又引出一系列显然无解的哲学问题。
+  - id: 3
+    kind: body
+    source: |-
+      ## 1. The Ethics of Health Care Rationing
+    step1: |-
+            ## 1. 医疗配给的伦理
+    step2: |-
+      ## 1. 医疗配给的伦理
+  - id: 4
+    kind: body
+    source: |-
+      ### 1.1 Rationing health resources
+    step1: |-
+            ### 1.1 配给医疗资源
+    step2: |-
+      ### 1.1 配给医疗资源
+  - id: 5
+    kind: body
+    source: |-
+      What are the principal ethical concerns involved in how we allocate scarce medical resources to people who can benefit from them? Health care resources (broadly construed to include treatments or interventions, medications, medical and rehabilitative devices, health care services and service providers, health care systems, clinics and other settings, and so on) are by their nature scarce resources. They are scarce both as a consequence of societal, macro-allocative decisions about how much social resources are put into health care (rather than, say, into education, scientific research or fighting foreign wars), and because some of these resources, such as transplantable organs, are intrinsically scarce.
+    step1: |-
+            在我们把稀缺医疗资源分配给能够从中获益者时，涉及哪些主要的伦理关切？医疗资源（广义包括治疗或干预、药物、医疗与康复器械、医疗服务与服务提供者、医疗系统、诊所及其他场景等）按其本性即是稀缺资源。其稀缺既源于关于把多少社会资源投入医疗（而非投入教育、科研或对外战争）的社会性宏观分配决策，也因为这些资源中有些（如可移植器官）内在稀缺。
+    step2: |-
+      把稀缺的医疗资源分配给能从中获益的人，涉及哪些主要伦理关切？医疗资源（广义上包括治疗或干预、药物、医疗与康复器械、服务与提供者、医疗系统、诊所等）按其本性就是稀缺资源。它之稀缺，既因为社会要在宏观上决定把多少资源投入医疗（而不是投入教育、科研或对外战争），也因为其中有些资源（如可移植器官）本身就有内在的稀缺。
+  - id: 6
+    kind: body
+    source: |-
+      Scarcity entails that health resource demands will always overwhelm supply, which in turn entails that some method of constrained allocation must take place. Rationing is the generic name for this and it comes in many forms: implicit or explicit, case-by-case or systematic, rational and fair or the opposite, overt, transparent and professionally-sanctioned, or hidden, unexamined and rationalized as something other than rationing. The key point is that rationing is unavoidable and always occurs. As health economists insist, since rationing of health care resources is inevitable, best it be open, transparently justified and understandable, based on good evidence and argument (Ubel 2000)[^ubel-2000]. The ethicist agrees, but adds the consideration of fairness.
+    step1: |-
+            稀缺意味着医疗资源需求总会压倒供给，这又意味着必定发生某种受约束的分配。配给（rationing）是这一点的通称，且形态繁多：隐性的或显性的，逐案的或系统化的，理性公平的或其反面，公开、透明且经专业认可的，或隐藏、未经审视而被合理化为配给之外别的什么。要点在于：配给不可避免且总在发生。正如卫生经济学家所坚持的，既然医疗资源配给不可避免，最好让它公开、有可透明辩护的理由且可理解，并建立在良好证据与论证之上（Ubel 2000）[^ubel-2000]。伦理学家同意这一点，但补充了公平这一考量。
+    step2: |-
+      稀缺意味着医疗资源的需求总会压倒供给，所以必然发生某种受约束的分配。配给（rationing）就是这类分配的统称，形态繁多：或者隐性，或者显性；或者逐案处理，或者系统化；或者理性公平，或者恰恰相反；或者公开透明并获专业认可，或者被隐藏起来，未经审视就合理化成“配给之外的东西”。要点在于：配给不可避免，而且总在发生。卫生经济学家因此坚持，既然配给不可避免，最好让它公开、有可透明辩护的理由、可以理解，并且建立在良好证据与论证之上（Ubel 2000）[^ubel-2000]。伦理学家同意这一点，但要补上公平这一考量。
+  - id: 7
+    kind: body
+    source: |-
+      A persuasive criterion of rationality in rationing is efficiency: since supply is not infinite we must ensure that every allocated resource is used to achieve the maximum benefit it can provide. While in some domains the nature of a “benefit” is controversial, here it is obvious: health resources produce health benefits, either incremental improvements in health or the prevention of worsening health and premature death. Understanding death (or premature death) as the worst health outcome, life-saving or life-prolonging is (usually) a clear health benefit. But so is improving bodily functioning, mitigating or ameliorating functional problems or preventing functional decline. Although death is not preventable, disease, injuries, and other challenges to an individual’s health can either be prevented or their impact lessened, either indefinitely or for some period of time. Health outcomes, in short, are either quantitative (number of years lost to a health challenge) or qualitative (extent of functioning lost).
+    step1: |-
+            配给中一个颇具说服力的理性判准是效率：既然供给并非无限，我们就必须确保每一份已分配的资源都被用来取得它所能提供的最大收益。在某些领域“收益”的性质尚有争议，但在此处它显而易见：医疗资源产生健康收益，或使健康有增量改善，或防止健康恶化与过早死亡。把死亡（或过早死亡）理解为最坏的健康结局，那么救命或延长生命（通常）就是明确的健康收益。但改善身体功能、缓解或减轻功能问题、防止功能衰退，同样是健康收益。死亡虽不可防，但疾病、损伤及其他对个人健康的挑战，或可预防，或其影响可被减轻，或无限期或一段时间。简言之，健康结局或是量化的（因健康挑战而损失的寿命年数），或是质性的（功能丧失的程度）。
+    step2: |-
+      配给中一个颇具说服力的理性判准是效率：供给既然不是无限的，就必须确保每一份已分配的资源都取得它所能提供的最大收益。在某些领域，“收益”是什么还有争议，这里却显而易见——医疗资源产生的是健康收益：或者是健康的增量改善，或者是防止健康恶化与过早死亡。如果把死亡（或过早死亡）当作最坏的健康结局，那么救命或延长生命（通常）就是明确的健康收益；改善身体功能、缓解或减轻功能问题、防止功能衰退，同样是健康收益。死亡虽然无法防止，疾病、损伤及其他健康挑战却可以预防，或其影响可以被减轻——无限期地，或在一段时间内。简言之，健康结局或者可以量化（因健康挑战而损失的寿命年数），或者可以定性（功能丧失的程度）。
+  - id: 8
+    kind: body
+    source: |-
+      If we define a “health need” as any decrement in health (either years to live or a less-than-optimal level of bodily functioning), health resource efficiency is a matter of using health resources to minimize ill-health in a manner that does not waste health care resources. In the case of a single individual, there is no issue: give the person the resources he or she actually requires and nothing more. But resource allocation is only an issue when there is more than one claimant to the same, scarce, resource. Resource allocation is a problem of fairness across populations. This leads us to the question of distributional fairness where, as we shall see below, there are various competing options besides CEA. At first glance, however, the general efficiency requirement that scarce health resources be used to maximize benefit or minimize need seems strongly intuitive.
+    step1: |-
+            如果我们把“健康需要”界定为健康的任何减损（或可活年数，或低于最佳水平的身体功能），那么医疗资源效率就是用医疗资源以不浪费的方式把不健康降到最低。就单个个人而言没有问题：给此人他或她实际所需，不多给。但资源分配只在同一稀缺资源有不止一个索求者时才成问题。资源分配是一个跨人群的公平问题。这引向分配公平问题；如下文所见，除 CEA 之外还有多种相互竞争的选项。然而初看之下，“稀缺医疗资源须用于最大化收益或最小化需要”这一一般效率要求似乎具有很强的直觉力量。
+    step2: |-
+      如果把“健康需要”界定为健康的任何减损（或者可活的年数，或者低于最佳状态的身体功能），医疗资源的效率就是以不浪费的方式把不健康降到最低。单个个人身上并无问题：给他或她实际所需，不多给。资源分配只在同一稀缺资源有不止一个索求者时才成问题——它是跨人群的公平问题。这就引向分配公平；下文将会看到，除 CEA 之外还有多种竞争选项。不过初看之下，“稀缺医疗资源必须用于最大化收益或最小化需要”这一效率要求，似乎颇有直觉上的说服力。
+  - id: 9
+    kind: body
+    source: |-
+      The intuitive plausibility of the efficiency requirement is the motivation for the rationing strategy based on cost-effectiveness analysis (CEA). The health resource is a cost, the health improvement a benefit, and intuitively we should try to get as much benefit from the cost as possible. Alternatively put, CEA mandates that the lower the cost per unit of health improvement the more effective the use of the associated health resource. Although this strategy can in principle be applied to health resource usage at the individual level, CEA, reflecting its intellectual heritage as a form of utilitarianism, is standardly viewed as a societal strategy in which costs and benefits are aggregated over the population.
+    step1: |-
+            效率要求这种直觉上的可信性，正是以成本效果分析（CEA）为基础的配给策略之动机。医疗资源是成本，健康改善是收益，直觉上我们应尽量从成本中取得更多收益。换个说法，CEA 要求每单位健康改善的成本越低，相关医疗资源的使用就越有效。这一策略原则上可施于个体层面的医疗资源使用，但 CEA 承袭功利主义的智识遗产，通常被视为一种社会性策略，其中成本与收益在人口总体上被加总。
+    step2: |-
+      效率要求在直觉上的可信性，正是以成本效果分析（CEA）为基础的配给策略的动机：医疗资源是成本，健康改善是收益，直觉上应当尽量从成本中多取收益。换句话说，CEA 要求每单位健康改善的成本越低，相关资源的使用就越有效。这一策略原则上也可以施于个体层面，但 CEA 既继承了功利主义的智识遗产，通常被视为一种社会性策略——成本与收益在人口总体上加总计算。
+  - id: 10
+    kind: body
+    source: |-
+      In practice, though, cost-effectiveness analysis in health care allocation faces a substantial methodological hurdle: there is a vast array of incommensurable health improvements—lowering pain levels in arthritis, improving muscle strength or respiration efficiency, controlling high blood pressure, adding a year to life, postponing the onset of dementia. Since CEA requires health improvements to be comparable between individuals and across the population, an underlying health improvement metric—what statisticians call a “latent trait”—needs to be identified that is (at least) ordinal and comparable, if not precisely measurable. We need to identify, in short, what every health improvement shares in common. That is the measure of a health improvement, and the benefit that factors into the CEA calculation.
+    step1: |-
+            然而在实践中，医疗分配中的成本效果分析面临一道实质性的方法论难关：健康改善种类繁多而不可通约——降低关节炎的疼痛程度、改善肌力或呼吸效率、控制高血压、延长一年寿命、推迟痴呆发作。既然 CEA 要求健康改善在个体之间与人群之中可比，就必须找出一个底层的健康改善度量——统计学家称之为“潜在特质”——它至少是序数的、可比的，纵非精确可测。简言之，我们需要找出一切健康改善共同具有的东西。那就是健康改善的度量，也就是进入 CEA 计算的收益。
+    step2: |-
+      在实践中，医疗分配的成本效果分析面临一道实质性的方法论难关。健康改善种类繁多而且不可通约——或者降低关节炎疼痛，或者改善肌力与呼吸效率，或者控制高血压，或者延寿一年，或者推迟痴呆发作。CEA 既然要求健康改善在个体之间、人群之间可比，就必须找出一个底层度量——统计学家称之为“潜在特质”——它至少能作序数比较，哪怕不能精确测量。简言之，必须找出一切健康改善所共有的东西：那就是健康改善的度量，也就是进入 CEA 计算的收益。
+  - id: 11
+    kind: body
+    source: |-
+      The most commonly used metric is called “quality of life”—every health improvement, whatever else it accomplishes, incrementally improves the individual’s quality of life. Given that a health improvement is potentially either quantitative or qualitative (extending life or improving life), it is necessary to bring these two facets into a single measure (called, generically, a summary health measure). A common way of doing this is in terms of the econometric concept of quality-adjusted life year or QALY. Every health improvement produces a health state with an expected longevity (the number of years left to live) and level of functioning (the quality of living in that health state). These can be metrically joined into a single score by using the common metric of years lives and discounting the value of a year lived in a particular health state by the quality of life value of living in that state. If full health is represented by the value of 1, death by 0, then the quality of life values of all possible states of health a human can experience can be assigned a number between 1 and 0, and that number determines the quality of life impact of the health state on a person, in terms of some proportion of a full life year. The values for each state can be generated by a population ranking exercise (as was done in the Oregon example), by expert consensus, or by means of a variety of econometric “preference elicitation techniques” such as “standard gamble”, “willingness to pay” or “person trade off” (see Nord 1999 for the details of these techniques in the health domain)[^nord-1999].
+    step1: |-
+            最常用的度量叫“生活质量”——每一项健康改善，无论还成就了什么，都增量地提升了个人生活质量。既然健康改善可能是量化的或质性的（延长生命或改善生命），就必须把这两面并入单一度量（通称汇总健康度量）。一种常见的做法是借助质量调整生命年即 QALY 这一计量经济学概念。每项健康改善都产生一个健康状态，具有预期寿命（余下可活年数）与功能水平（在该健康状态中生活的质量）。二者可用“寿命年”这一共同度量合并为单一分数，办法是按在该状态中生活的生命质量值对在该状态中活一年的价值加以折扣。若以数值 1 表示完全健康、以 0 表示死亡，则人可能经验的一切健康状态的生命质量值都可赋予 1 与 0 之间的一个数字，该数字按某个完整生命年的比例决定了健康状态对一个人生活质量的影响。各状态的值可以通过人群排序练习生成（如俄勒冈之例所做）、通过专家共识生成，或借助多种计量经济学“偏好引出技术”生成，如“标准博弈”“支付意愿”或“人员取舍”（这些技术在健康领域的细节见 Nord 1999）[^nord-1999]。
+    step2: |-
+      最常用的度量叫“生活质量”：每一项健康改善无论还成就了什么，都增量地提升了个人生活质量。健康改善既然或者量化或者定性（延长生命或改善生命），就必须把两面并入一个单一度量（通称汇总健康度量）。常见做法是借用质量调整生命年即 QALY 这一计量经济学概念：每一项健康改善都产生一个健康状态，具有预期寿命（余下可活的年数）与功能水平（在该状态中生活的质量）；二者可以用“寿命年”这一共同度量并为单一分数，办法是按在该状态中生活的生命质量值，折算在该状态中活一年的价值。若以 1 表示完全健康、0 表示死亡，则人可能经验的一切健康状态，其生命质量值都可以赋予 1 与 0 之间的一个数；这个数按某完整生命年的比例，决定该状态对个人生活质量的影响。各状态的值可以由人群排序练习生成（如俄勒冈之例），也可以由专家共识生成，或借助多种计量经济学“偏好引出技术”，如“标准博弈”“支付意愿”“人员取舍”（健康领域的细节见 Nord 1999）[^nord-1999]。
+  - id: 12
+    kind: body
+    source: |-
+      Although the most commonly used in health resource prioritization, the QALY is not the only health benefit summary measure. The disability-adjusted life year or DALY operates similarly to the QALY, although conversely in terms of the burden of living with a disability, measured in life-years (see Murray 1996)[^murray-1996]. Here 0 is again death and 1 full health and a DALY score measures a health state as a function of life-years lost to disability. To compare the two measures, if the quality-adjusted factor associated with a health state like spinal cord injury (SCI) is 0.4, then the quality of each year of life post-injury is 0.4 of a year lived in full health. If one is expected to live another 30 years, then the overall QALY is 12 years. DALYs work the same way, only in reverse: the person with the SCI would have the overall life burden of 0.6 times 30 years or 18 disability-adjusted life years. (There are other differences between the two measures that are more technical in nature and can be ignored in this discussion.)
+    step1: |-
+            尽管在医疗资源优先排序中最常用，QALY 并非唯一的健康收益汇总度量。失能调整生命年即 DALY 的运作与 QALY 类似，只是反过来以带失能生活的负担来计量，单位仍是寿命年（见 Murray 1996）[^murray-1996]。此处 0 同样表示死亡、1 表示完全健康，而 DALY 分数按因失能而损失的寿命年来度量一个健康状态。为比较这两种度量：若脊髓损伤（SCI）之类健康状态的质量调整因子为 0.4，则伤后每一年的生活质量相当于在完全健康中活 0.4 年。若预期再活 30 年，则总体 QALY 为 12 年。DALY 的运作方式相同，只是方向相反：SCI 者的总体生命负担为 0.6 乘 30 年，即 18 个失能调整生命年。（两种度量之间还有性质上更技术性的其他差异，本讨论可忽略。）
+    step2: |-
+      QALY 虽然在医疗资源优先排序中最常用，却不是唯一的收益汇总度量。失能调整生命年即 DALY 运作方式类似，只是反过来以带失能生活的负担来计量，单位仍是寿命年（见 Murray 1996）[^murray-1996]：0 同样表示死亡，1 表示完全健康，DALY 分数按因失能损失的寿命年来度量健康状态。试比较二者：若脊髓损伤（SCI）这类状态的质量调整因子为 0.4，则伤后每一年的生活质量相当于完全健康中的 0.4 年；若预期再活 30 年，总体 QALY 为 12 年。DALY 同理而方向相反：SCI 者的总体生命负担为 0.6 × 30 年，即 18 个失能调整生命年。（二者还有更技术性的差异，本讨论可以略过。）
+  - id: 13
+    kind: body
+    source: |-
+      While QALYs are most commonly used as measure of the benefit from health resources for CEA in health allocation strategies (e.g., UK’s National Institute for Health and Care Excellence (NICE) uses QALYs for quality of care determinations), DALYs have been extensively used by the World Health Organization and the World Bank—and the Institute of Health Metrics and Evaluation in Seattle, Washington—to determine the population burden of disease and injuries, primarily for public health applications, including especially national priority setting (Jamison et al. 2006, updated in Das & Samarasekera 2012)[^das-2012][^jamison-2006].
+    step1: |-
+            QALY 最常被用作 CEA 中医疗资源收益的度量以服务于医疗分配策略（例如英国国家卫生与临床优化研究所（NICE）用 QALY 作医疗质量判定），而 DALY 则被世界卫生组织与世界杯银行——以及华盛顿州西雅图的健康指标与评估研究所——广泛用于确定疾病与损伤的人群负担，主要用于公共卫生应用，尤其包括国家优先事项的设定（Jamison et al. 2006，更新于 Das & Samarasekera 2012）[^das-2012][^jamison-2006]。
+    step2: |-
+      QALY 最常用作 CEA 中医疗资源收益的度量，服务于分配策略（如英国国家卫生与临床优化研究所〔NICE〕就以 QALY 作医疗质量判定）；DALY 则被世界卫生组织、世界银行以及西雅图的健康指标与评估研究所广泛用于确定疾病与损伤的人群负担，主要施于公共卫生应用，尤其是国家优先事项的设定（Jamison et al. 2006，更新于 Das & Samarasekera 2012）[^das-2012][^jamison-2006]。
+  - id: 14
+    kind: body
+    source: |-
+      The natural home of the CEA approach to allocation is at the institutional or meso-allocative level where decisions are made far from the individual bedside and are hidden from view in the form of hospital reimbursement policies and clinical guidelines. At the highest policy level of macro-allocation where overall national health budgets are developed, only the most technocratic of societies would have an explicit prioritization strategy based on CEA. In most democratic societies, health care budgets are determined by a complex interplay of politics and bureaucratic pressures. These forces tend to allocate more resources to urban areas, focus on curative rather than preventive services, and cater to special constituencies or those with the more highly paid lobbyists: all of which is demonstrably inefficient. Worse yet, in many countries, health care resource macro-allocation is governed by ability to pay, which is the most straightforwardly inefficient (not to say inequitable) allocation strategy there is.
+    step1: |-
+            CEA 分配进路的自然家园是制度层面或中观分配层面——此处的决策远离个体床边，并隐藏在医院的报销政策与临床指南之中。在宏观分配的顶层政策层面——即制订国家总体卫生预算之处——只有最技术官僚的社会才会有基于 CEA 的显性优先排序策略。在多数民主社会，医疗预算由政治与官僚压力的复杂互动决定。这些力量倾向于把更多资源分给城市地区、偏重治疗性而非预防性服务、并迎合特殊选民或拥有更高薪游说者的人：凡此皆显然低效。更糟的是，在许多国家，医疗资源的宏观分配由支付能力支配，而那是最直接低效（更不用说最不公）的分配策略。
+    step2: |-
+      CEA 分配进路的自然归属，在制度上是中观分配层面：这里的决策远离个体床边，隐在医院报销政策与临床指南之中。在宏观分配的顶层政策（国家总体卫生预算）层面，只有最技术官僚的社会才采用显性的 CEA 优先排序；多数民主社会的医疗预算由政治与官僚压力交织而定，其结果倾向于把更多资源分给城市、偏重治疗而非预防、迎合特殊选民或有高薪游说者的人——凡此都显然低效。更糟的是，许多国家的宏观分配由支付能力支配，而那是最直接低效（更不用说还不公平）的策略。
+  - id: 15
+    kind: body
+    source: |-
+      At the level of meso-allocation—the distribution of health care resources across a single institution, such as a hospital or clinic—much of what is called “rationing at the bedside” is disguised as standard clinical practice (Ubel 2000)[^ubel-2000]. If a physician—whether motivated by pressures from hospital administrators, managed care organization or insurance company, or merely excising her or his professional expertise—decides to forego live-saving treatment for a patient on the grounds that the health benefits would not warrant the use of the resource, then the judgment clearly reflects, rough and ready, intuitive application of CEA. Or if a treatment is not provided because it is judged “medically futile”, that judgment is in effect a cost-benefit analysis. Treatments are said to be “futile” when in the physician’s judgment the expected health benefits do not sufficiently outweigh the costs of providing the care (Crossley 1995; Batavia 2002)[^batavia-2002][^crossley-1995]. Similarly, “Do Not Resuscitate” or DNR orders, while they may be equally motivated by futility or even compassion, are essentially CEA rationing techniques, although here the judgment is that the resource would have no benefit at all.
+    step1: |-
+            在中观分配层面——即医疗资源在单一机构（如医院或诊所）内部的分配——“床边配给”有相当一部分被伪装成标准临床实践（Ubel 2000）[^ubel-2000]。如果一位医生——无论出于医院管理者、管理式医疗组织或保险公司的压力，还是仅仅凭其专业判断——决定不予某位病人救生治疗，理由是健康收益不足以证成该资源的使用，那么这个判断显然反映了对 CEA 粗略而现成的直觉应用。或者，如果某项治疗因被判定“医学上无益”而不予提供，该判断实际上就是一种成本—收益分析。当医生判断预期健康收益不足以为提供该照护的成本辩护时，治疗便被称为“无益”（Crossley 1995; Batavia 2002）[^batavia-2002][^crossley-1995]。同样，“不予心肺复苏”（DNR）医嘱，虽可能同样出于无益乃至同情，本质上也是 CEA 配给技术，尽管此处的判断是该资源根本不会有任何收益。
+    step2: |-
+      中观分配层面——资源在单一机构（如医院或诊所）内部的分配——“床边配给”有相当一部分被伪装成标准临床实践（Ubel 2000）[^ubel-2000]。医生不论是出于院方、管理式医疗组织或保险公司的压力，还是仅凭专业判断，都可能以“健康收益不足以证成资源使用”为由放弃救生治疗。这种判断显然反映了对 CEA 粗略而现成的直觉应用；如果某项治疗因“医学上无益”的判决而不予提供，这一判断实际就是成本—收益分析——医生判断预期收益不足以抵偿照护成本时，治疗便称作“无益”（Crossley 1995; Batavia 2002）[^batavia-2002][^crossley-1995]。同样，“不予心肺复苏”（DNR）医嘱虽然也可能出于无益乃至同情，本质上仍是 CEA 配给技术，只是这里判断为该资源全无收益。
+  - id: 16
+    kind: body
+    source: |-
+      ### 1.2 Ethical concerns with CEA and QALYs as a prioritization strategy
+    step1: |-
+            ### 1.2 以 CEA 与 QALY 为优先排序策略的伦理关切
+    step2: |-
+      ### 1.2 以 CEA 与 QALY 作优先排序策略的伦理关切
+  - id: 17
+    kind: body
+    source: |-
+      At least as compared to pure politics or the “free market”, using CEA with a metric such as QALY for rationing the use of health resources has the strongest claim to rationality. But what of its ethical acceptability? Even strong advocates of using CEA to ration health resources acknowledge that it suffers from at least five fundamental (and interconnected) ethical concerns. Some of these concerns only make sense at the population level of meso-allocations, but all affect, directly or indirectly, allocation decisions at the individual level (Daniels 1993, 1994, 1998; Brock 1995, 1998; Brock & Wikler 2006)[^brock-1995][^brock-2006][^daniels-1993].
+    step1: |-
+            至少与纯政治或“自由市场”相比，用 CEA 配合 QALY 之类度量来配给医疗资源的使用，最有资格主张理性。但其伦理可接受性如何？即便强烈主张以 CEA 配给医疗资源的人，也承认它至少有五项根本（且相互关联）的伦理关切。其中有些关切只在宏观分配的人口层面才说得通，但全都直接或间接影响个体层面的分配决策（Daniels 1993, 1994, 1998; Brock 1995, 1998; Brock & Wikler 2006）[^brock-1995][^brock-2006][^daniels-1993]。
+    step2: |-
+      至少与纯政治或“自由市场”相比，以 CEA 配合 QALY 之类度量来配给医疗资源，最有资格主张自己是理性的。但它的伦理可接受性如何？即便强烈主张此道的人，也承认它至少有五项根本而相互关联的伦理关切；有些只在宏观分配的人口层面才说得通，但全都直接或间接影响个体层面的决策（Daniels 1993, 1994, 1998; Brock 1995, 1998; Brock & Wikler 2006）[^brock-1995][^brock-2006][^daniels-1993]。
+  - id: 18
+    kind: body
+    source: |-
+      #### 1.2.1 The aggregation problem
+    step1: |-
+            #### 1.2.1 加总问题
+    step2: |-
+      #### 1.2.1 加总问题
+  - id: 19
+    kind: body
+    source: |-
+      To calculate the effectiveness of care resource utilization at the population level requires both resource costs and quality of life benefits to be aggregated in terms of the expected number of uses of each resource. A low-cost and low-benefit, but widely used resource will tend to rank as more efficient than a high-cost and high-benefit, but rarely used resource. This can lead to counter-intuitive results. For example, when the Oregon government tried to put into place a plan to lower Medicaid costs using CEA and QALY they began by identifying treatment/condition pairs—that is, types of treatments provided to patients with different kinds of health conditions—and from these created a rationing priority list in terms of expected QALY benefits from treatment. One of the consequences of the plan was that the treatment of capping teeth was far higher on the priority list than appendectomy, even though no one would die from uncapped teeth while untreated appendicitis could be lethal. The reason was obvious: you could pay for many hundred instances of teeth capping for the price of a single appendectomy, and adding up all of the small but non-zero QALY benefits from the capping would trump the QALY benefits of the appendectomy. This result was widely viewed as profoundly counterintuitive (although some argued that our intuitions are not always as clearly opposed to favoring aggregated benefits [Kamm 1993; Nord 1999])[^kamm-1993][^nord-1999].
+    step1: |-
+            要在人口层面计算照护资源使用的有效性，就需要按每项资源的预期使用次数把资源成本与生活质量收益一并加总。一种低成本、低收益但被广泛使用的资源，其效率排名往往高于高成本、高收益但罕被使用的资源。这可能导致反直觉的结果。例如，俄勒冈政府试图以 CEA 与 QALY 落实一项降低 Medicaid 成本的计划时，先是识别治疗/病症配对——即为不同类型健康状况的病人提供的各类治疗——再据此按预期 QALY 收益制定配给优先清单。该计划的后果之一是：补牙在优先清单上的排位远高于阑尾切除术，尽管没有人会因未补牙而死，而未治疗的阑尾炎可能致命。原因显而易见：一次阑尾切除术的价钱可支付数百例补牙，把补牙所有微小但非零的 QALY 收益加起来，就会盖过阑尾切除术的 QALY 收益。这一结果被广泛视为极度反直觉（尽管有人主张，我们的直觉并不总是如此明确地反对偏向加总收益〔Kamm 1993; Nord 1999〕）[^kamm-1993][^nord-1999]。
+    step2: |-
+      要在人口层面计算照护资源使用的有效性，就必须按每项资源的预期使用次数，加总资源成本与生活质量收益。低成本、低收益而广泛使用的资源，效率排名往往高于高成本、高收益而罕用的资源，由此导致反直觉的结果。例如俄勒冈州政府想用 CEA 与 QALY 压低 Medicaid 成本，先识别治疗/病症配对（即对不同健康状况者提供的各类治疗），再根据预期 QALY 收益定出配给优先清单；后果之一是补牙的排位远高于阑尾切除术——尽管没有人因为没补牙而死，未治的阑尾炎却可能致命。原因显而易见：一次阑尾切除术的费用可以支付数百例补牙，把补牙所有微小而可能为正的 QALY 收益加总，就盖过了阑尾切除术的收益。这一结果被广泛视为极度反直觉（不过也有人主张，我们的直觉并不总是如此明确地反对偏向加总收益〔Kamm 1993; Nord 1999〕）[^kamm-1993][^nord-1999]。
+  - id: 20
+    kind: body
+    source: |-
+      #### 1.2.2 The priority problem
+    step1: |-
+            #### 1.2.2 优先问题
+    step2: |-
+      #### 1.2.2 优先问题
+  - id: 21
+    kind: body
+    source: |-
+      One of the apparent ethical advantages of CEA is its commitment to equality and impartiality: everyone’s health needs are considered equally, irrespective of race, gender, or income level. But as the aggregation problem suggests, we intuitively believe that saving a person’s life is ethically more important than improving their appearance. More generally, it is an open ethical question whether we should skew our distribution of health resources towards those who are worst off or whose health needs are more significant or urgent; and if we do so, it is not clear how much extra weight these considerations should have in our assessment. An additional open question, to which we will return below, is whether the “worst off” should be defined in terms of health state or some other disadvantage as well. One version of the underlying intuition at work here is the often cited “rule of rescue”: since saving a life is arguably of infinite or at least indefinite benefit, we should always rank allocations that save a life the highest. For example, if a community spends a substantial part of its yearly health care budget on rescuing a small child who has fallen down a well, this is ethically justifiable, according to the rule of rescue, although patently inefficient (see the debates in Hadorn 1992; Jonson 1986; Cookson & Dolan 1999: Nord 1999; and Ubel 2000)[^cookson-1999][^hadorn-1992][^nord-1999][^ubel-2000].
+    step1: |-
+            CEA 表面上的一项伦理优势，是它对平等与公正的承诺：每个人的健康需要都得到平等考量，不问种族、性别或收入水平。但正如加总问题所提示，我们直觉上相信救一个人的命在伦理上比改善其容貌更重要。更一般地说，我们是否应把医疗资源的分配偏向境况最差者、或健康需要更重大更急迫者，这是一个悬而未决的伦理问题；而即便这样做，这些考量在我们的评估中应占多少额外权重也不清楚。另一个悬而未决的问题是（下文将回到）：所谓“境况最差”应依健康状态来界定，还是也依某种其他不利来界定。此处起作用的一种底层直觉版本，是常被引用的“救助规则”：既然救一条命可以说具有无限或至少不确定的收益，我们就应始终把救命的分配排到最高。例如，如果一个社区把年度医疗预算的相当部分用于营救一个掉进井里的小孩，按救助规则这在伦理上可辩护，尽管显然低效（相关争论见 Hadorn 1992; Jonson 1986; Cookson & Dolan 1999: Nord 1999; Ubel 2000）[^cookson-1999][^hadorn-1992][^nord-1999][^ubel-2000]。
+    step2: |-
+      CEA 表面上的一项伦理优势，是它对平等与公正的承诺：每个人的健康需要都得到平等考量，不问种族、性别、收入。但正如加总问题所示，我们直觉上相信救人性命在伦理上重于改善一个人的容貌。更一般地说，是否应当把医疗资源分配偏向境况最差的人、或健康需要更重大更急迫的人，仍是悬而未决的伦理问题；即便如此，这些考量在评估中应占多少额外权重也不清楚。另一个未决问题（下文再论）是：“境况最差”应当按健康状态界定，还是兼按其他不利来界定。这里所倚仗的一种底层直觉，就是常被引用的“救助规则”：救人性命既然具有无限、或至少不确定的收益，就应当始终把救命分配排到最高。例如某个社区把年度医疗预算的相当一部分用于营救掉进井里的小孩，按救助规则这在伦理上可辩护，尽管显然低效（争论见 Hadorn 1992; Jonson 1986; Cookson & Dolan 1999; Nord 1999; Ubel 2000）[^cookson-1999][^hadorn-1992][^nord-1999][^ubel-2000]。
+  - id: 22
+    kind: body
+    source: |-
+      The priority problem need not be characterized in terms of who is worst off so much as who most deserves the resource. For example, should it matter, all things being equal, whether a resource is provided to an elderly person who will not benefit as much from the resource as a younger person? In general, should the age of the recipient matter? CEA tends to favor highly efficient resource users, who will normally be younger, and some non-utilitarian philosophers have argued that as long as we ensure everyone a normal lifespan—or “fair innings” as Williams (1997) calls it—then ranking older recipients lower is not unfair. Alternatively, it has been strongly argued that, benefit notwithstanding, people who live unhealthy lives and are responsible for their health needs should be downgraded or lose their priority (Moss & Siegler 1991; Wikler 2002; Cappelen & Norheim 2006)[^cappelen-2006][^moss-1991][^wikler-2002]. (Although the examples used for this argument tend to be drug addicts, smokers, drinkers, and other discreditable risk takers, the argument, if successful, would also apply to athletes and heroes who risk their lives.)
+    step1: |-
+            优先问题不必以谁境况最差来刻画，而可以谁最该得该资源来刻画。例如，在其他条件相同的情况下，把资源给一位从中获益不如年轻人多的老年人，这重要吗？一般来说，受助者的年龄应否重要？CEA 倾向于偏向高效的资源使用者，而他们通常更年轻；一些非功利主义哲学家主张，只要我们确保每个人都能有正常寿命——或如 Williams（1997）所称的“公平的一份”——那么把年长受助者排在后面并不不公。另一种有强论证的立场是：不论收益如何，过不健康生活、对自己的健康需要负有责任者应被降级或取消优先（Moss & Siegler 1991; Wikler 2002; Cappelen & Norheim 2006）[^cappelen-2006][^moss-1991][^wikler-2002]。（尽管支持这一论证的例子往往是吸毒者、吸烟者、饮酒者及其他名声不佳的冒险者，但该论证若成立，也会适用于冒生命危险的运动员与英雄。）
+    step2: |-
+      优先问题也可以不必以“谁境况最差”、而以“谁最该得该资源”来刻画。例如，在其他条件相同时，把资源给予一位获益不如年轻人多的老年人，这重要吗？受助者的年龄一般应否重要？CEA 倾向于偏向高效使用者，而这些人通常更年轻；一些非功利主义哲学家主张，只要确保人人都有正常寿命——或如 Williams（1997）所说的“公平的一份”——把年长者排在后面便无不公。另一个有强论证的立场是：不论收益如何，过不健康生活、并应对自身健康需要负责的人，应被降级或取消优先（Moss & Siegler 1991; Wikler 2002; Cappelen & Norheim 2006）[^cappelen-2006][^moss-1991][^wikler-2002]。（例子多为吸毒者、吸烟者、饮酒者等名声不佳的冒险者；但这个论证如果真的成立，也适用于冒生命危险的运动员与英雄。）
+  - id: 23
+    kind: body
+    source: |-
+      #### 1.2.3 The democracy problem
+    step1: |-
+            #### 1.2.3 民主问题
+    step2: |-
+      #### 1.2.3 民主问题
+  - id: 24
+    kind: body
+    source: |-
+      The Oregon prioritization scheme based its QALY evaluations on a general resident’s survey in order, it was claimed, to capture “community values”. But why should these values determine which treatments are funded, since (as was demonstrable in the actual rankings that resulted) these values may reflect cultural or racial biases or just profound misunderstandings about health problems and what it is like to live with a disability (Asch 2001; Doyal 1998)[^asch-2001][^doyal-1998]? On the other hand, it is the public who pays for these health resources so why should some group of elites, however knowledgeable, pre-empt majoritarian decisions (Brock 2002)[^brock-2002]?
+    step1: |-
+            俄勒冈的优先排序方案把 QALY 评估建立在普通居民调查之上，据称是为了捕捉“社群价值”。但这些价值凭什么决定哪些治疗获得资助？因为（如实际得出的排名所明示）这些价值可能反映文化或种族偏见，或只是对健康问题、以及对带着失能生活是什么样子有深刻误解（Asch 2001; Doyal 1998）[^asch-2001][^doyal-1998]。另一方面，支付这些医疗资源的正是公众，那么凭什么让某一群精英——无论多么博学——抢先作出多数人的决定（Brock 2002）[^brock-2002]？
+    step2: |-
+      俄勒冈方案把 QALY 评估建立在普通居民调查之上，据称旨在捕捉“社群价值”。但这些价值凭什么决定哪些治疗获得资助？实际排名表明，它们可能反映文化或种族偏见，或者只是对健康问题与带失能生活的实况有深刻误解（Asch 2001; Doyal 1998）[^asch-2001][^doyal-1998]。另一方面，支付这些资源的正是公众，又凭什么让某群精英（无论多博学）抢先替多数人作决定（Brock 2002）[^brock-2002]？
+  - id: 25
+    kind: body
+    source: |-
+      #### 1.2.4 The indirect benefits problem
+    step1: |-
+            #### 1.2.4 间接收益问题
+    step2: |-
+      #### 1.2.4 间接收益问题
+  - id: 26
+    kind: body
+    source: |-
+      Since CEA weighs benefits against costs, it is natural to ask whether benefits should be restricted to health benefits alone, or should include other, more indirect benefits such as the economic benefit to the individual from returning to work or the financial benefits to employers from reducing lost work time due to employee illness (Brock 2003)[^brock-2003]. Economists would favor the broader conception of benefit since it provides a better calculation of the societal value of a health care prioritization scheme. More finely-gained benefit assessment would also allow us to make more ethically sensitive judgments about where money should be spent: e.g., it would be ethically justifiable to favor the health of mothers of children who need their care. On the other side, not only is it extremely difficult to quantify these benefits, it has also been argued that it is unfair to prioritize health care resources to favor patients whose improved health has greater indirect benefits to themselves or society since that is to treat people and their health as means to social ends. Economic or other benefits and health improvements are in “separate spheres” and merging them will make our health prioritization strategy both ethically compromised, and practically unworkable (Brock 2003)[^brock-2003].
+    step1: |-
+            既然 CEA 把收益与成本相权衡，自然要问：收益是否应限于健康收益，还是也应包括其他更间接的收益，例如个人重返工作带来的经济收益，或减少雇员病假工时给雇主带来的财务收益（Brock 2003）[^brock-2003]。经济学家会偏好更宽的收益概念，因为它能更好地计算医疗优先排序方案的社会价值。更精细的收益评估还使我们能作出在伦理上更敏感的支出判断：例如，偏向需要其照护的孩子的母亲们的健康，在伦理上是可辩护的。另一方面，不仅这些收益极难量化，而且有人论证：把医疗资源偏向那些健康改善对其自身或社会有更大间接收益的病人是不公平的，因为那是把人及其健康当作达成社会目的的手段。经济或其他收益与健康改善处于“分离的领域”，把它们合并会使我们的医疗优先排序策略在伦理上受损，在实践中也不可行（Brock 2003）[^brock-2003]。
+    step2: |-
+      CEA 既然权衡收益与成本，便自然要问：收益应当限于健康收益，还是也应包含更间接的收益——比如个人重返工作的经济收益，或减少雇员病假给雇主带来的财务收益（Brock 2003）[^brock-2003]？经济学家会偏好更宽的收益概念，因为它能更好地计算优先排序方案的社会价值；更精细的评估也使伦理上更敏感的支出判断成为可能：例如把资源偏向需要其照护的孩子的母亲们的健康，这在伦理上可辩护。另一方面，这些收益极难量化；而且有人论证，把资源偏向“健康改善对自身或社会有更大间接收益”的人并不公平，因为那是把人及其健康当作达成社会目的的手段。经济与其他收益、健康改善各处于“分离的领域”，合并二者将使优先排序策略既在伦理上受损，又在实践上不可行（Brock 2003）[^brock-2003]。
+  - id: 27
+    kind: body
+    source: |-
+      #### 1.2.5 The fair chances vs. best outcomes problem
+    step1: |-
+            #### 1.2.5 “公平机会”与“最佳结局”问题
+    step2: |-
+      #### 1.2.5 “公平机会”与“最佳结局”问题
+  - id: 28
+    kind: body
+    source: |-
+      The final concern is actually at the heart of all of the above concerns since it points to the underlying ethical tension between aggregate goodness and fairness—between the utilitarian approach of CEA and the deontological or egalitarian concern for fairness. The aptly named “fair chances” approach is grounded on our basic intuition that people deserve equal concern and respect, and so an equal chance at benefiting from an allocation scheme. If two people need a heart transplant to live, and one will live twenty more years with the new heart but the other only two years, is it really fair to use CEA and give the heart to the first? Is that truly giving both people an equal or fair chance to the health resource? Or again, if two people need a surgery to repair a torn cartilage in their knees, and one of these also has serious asthma, is it fair to prioritize the surgery to the first because the overall QALYs benefit of the person with asthma is lower?
+    step1: |-
+            最后的关切其实居于上述一切关切的核心，因为它指向加总善与公平之间的底层伦理张力——即 CEA 的功利主义进路与对公平的道义论或平等主义关切之间的张力。名副其实的“公平机会”进路奠基于我们的基本直觉：人应得到平等的关切与尊重，因而在分配方案中也应得到获益的平等机会。如果两人都需要心脏移植才能活，一人换心后可再活二十年而另一人只能再活两年，那么用 CEA 把心脏给前者真的公平吗？那真的给了两人对医疗资源平等或公平的机会吗？又如，如果两人都需要手术修复膝部撕裂的软骨，而其中一人还患有严重哮喘，那么因为哮喘者总体 QALY 收益更低就把手术优先给前者，公平吗？
+    step2: |-
+      最后的关切其实居于上述一切关切的核心：它指向加总善与公平之间的底层张力——CEA 的功利主义进路与对公平的道义论或平等主义关切之间的张力。名副其实的“公平机会”进路奠基于一个基本直觉：人应得平等关切与尊重，所以在分配方案中也应得获益的平等机会。如果两人都需要心脏移植才能存活，一人换心后可再活二十年、另一人只能再活两年，用 CEA 把心脏给前者真的公平吗？那真的给了二人对资源的平等或公平机会吗？又比如两人都需要手术修复膝部撕裂软骨，其中一人另患严重哮喘，因为其总体 QALY 收益更低就把手术优先给前者，公平吗？
+  - id: 29
+    kind: body
+    source: |-
+      On the other side, the egalitarian “fair chances” approach can hardly be the whole story since the only allocation strategy that fits a purely egalitarian approach is random allocation or a lottery. A lottery is vaguely fair when the two potential beneficiaries incur the same costs and benefits, but not when the benefits accrued from a resource are hugely different, or when other considerations, such as urgency, enter into the calculation. Some egalitarians have backtracked from pure randomness of a lottery (so that the asthmatic in the above example would have a somewhat lower chance of being successful—see Brock 1988; Broome 1988, 2004)[^brock-1988][^broome-1988]. Others have argued that considerations like urgency, the level of overall health need, or age should affect the proportional chances of success (Kamm 1993)[^kamm-1993]. Yet others have insisted that the asthmatic has already lost the “natural lottery” by having a serious health condition, so there is no need to run another lottery (Menzel 1989)[^menzel-1989]. These attempts aside, the lottery approach is not greatly favored, except as a last resort.
+    step1: |-
+            另一方面，平等主义的“公平机会”进路也远非全貌，因为唯一符合纯平等主义进路的分配策略是随机分配或抽签。当两位潜在受益者所承担的成本与收益相同时，抽签是模糊意义上的公平；但当一项资源所积累的收益相差悬殊，或当紧迫性等其他考量进入计算时，就不是了。一些平等主义者已从抽签的纯粹随机性上后退（于是上例中的哮喘者会有略低一些的成功机会——见 Brock 1988; Broome 1988, 2004）[^brock-1988][^broome-1988]。另一些人主张，紧迫性、总体健康需要水平或年龄等考量应影响按比例的成功机会（Kamm 1993）[^kamm-1993]。还有人坚持，哮喘者既已因患有严重健康状况而在“自然抽签”中失手，就不必再抽一次（Menzel 1989）[^menzel-1989]。撇开这些尝试，抽签进路并不太受青睐，除非作为最后手段。
+    step2: |-
+      另一方面，平等主义的“公平机会”进路也远非全貌：唯一符合纯平等主义进路的策略是随机分配或抽签。两位潜在受益者的成本与收益相同时，抽签在模糊的意义上是公平的；当收益悬殊、或紧迫性等其他考量进入计算时，就不再如此。一些平等主义者已经从纯粹随机性上后退（于是上例中的哮喘者成功机会略低——见 Brock 1988; Broome 1988, 2004）[^brock-1988][^broome-1988]；另一些人主张紧迫性、总体健康需要或年龄应影响按比例的成功机会（Kamm 1993）[^kamm-1993]；还有人坚持，哮喘者既然已经在“自然抽签”中失手，就无须再抽（Menzel 1989）[^menzel-1989]。撇开这些尝试不谈，抽签进路并不可取，只能作最后手段。
+  - id: 30
+    kind: body
+    source: |-
+      ### 1.3 Current state of debate on health resource prioritization
+    step1: |-
+            ### 1.3 医疗资源优先排序的当前论争状况
+    step2: |-
+      ### 1.3 医疗资源优先排序的当前论争状况
+  - id: 31
+    kind: body
+    source: |-
+      The philosophical debate on health resource prioritization has been somewhat muted in recent years. A fragile truce has been reached in which it is admitted that we cannot accept either a purely utilitarian CEA approach unalloyed with considerations of fairness, or a purely egalitarian lottery approach unaffected by intuitions concerning the significance of ineffective use of valuable resources. In part this is because of an intractable dilemma that dominates the rationing debate, which we will describe more specifically for the case of disability in the next section. We seem to be stuck between two extremes: allocate in terms of a “neutral” consideration such as “first come first serve” or pure lottery, or open the door to an unlimited number of potentially ethically relevant considerations that, together, make the allocation decision overwhelming difficult and cumbersome. The first option seems irrational, the second impractical.
+    step1: |-
+            关于医疗资源优先排序的哲学争论近些年略显沉寂。一种脆弱的休战达成了：人们承认，既不能接受不掺公平考量的纯功利主义 CEA 进路，也不能接受不受“有价值资源被低效使用”这一直觉影响的纯平等主义抽签进路。部分原因是配给争论中一个难以处理的两难占了主导，我们将在下一节针对失能更具体地描述它。我们似乎卡在两个极端之间：要么按“先到先得”或纯抽签这类“中立”考量分配，要么敞开大门容纳数量不受限、可能具伦理相关性的考量，而这些考量合起来会使分配决策极其艰难笨重。第一个选项似不理性，第二个不切实际。
+    step2: |-
+      医疗资源优先排序的哲学争论近些年略显沉寂。一种脆弱的休战已经达成：人们承认，既不能接受不掺公平考量的纯功利主义 CEA 进路，也不能接受不受“资源低效使用”直觉影响的纯平等主义抽签进路。部分原因是配给争论中一个难解的两难占了主导，下文将针对失能更具体地描述它。我们似乎卡在两极之间：或者按“先到先得”、纯抽签这类“中立”考量来分配，或者敞开大门，容纳数量不受限、可能具有伦理相关性的考量——二者合起来使分配决策极其艰难笨重。前一选项似乎不理性，后一选项不切实际。
+  - id: 32
+    kind: body
+    source: |-
+      Another reason for the stalemate is the aggregation problem as applied to the “benefit” side of the CEA calculation. Some have argued that we should abandon the QALY and DALY, summary health measure technology entirely (Anand & Wailoo 2000)[^anand-2000], while most agree with Dan Brock that health care prioritization without any reference to quality of life is a non-starter (Brock 1995)[^brock-1995]. There have been some attempts at finding a workable multi-criteria approach in which health benefits are disaggregated into separate components (Baltussen & Niessen 2006)[^baltussen-2006], but such suggestions open the door to the so-called “indexing problem” (discussed later in the context of disability) of trying to sum up disparate and incommensurable benefits (income, happiness, social productivity, creativity) in a way that would allow us to compare two health outcomes. Attempts at direct head-to-head comparisons between health outcomes require the dubious methodological assumption that health is *unidimensional*: walking out of the hospital with one surviving hand is obviously better than with none; but is being left partially sighted better, or worse, than ending up in a wheelchair? How do we compare various domains of human functioning that, together, make up the state of health?
+    step1: |-
+            僵局另一个原因，是加总问题在 CEA 计算“收益”一侧的适用。有人主张我们应彻底放弃 QALY 与 DALY 这类汇总健康度量技术（Anand & Wailoo 2000）[^anand-2000]；而多数人同意 Dan Brock 的看法：不涉及生活质量谈医疗优先排序根本行不通（Brock 1995）[^brock-1995]。已有一些尝试寻求可行的多标准进路，把健康收益拆解为彼此独立的成分（Baltussen & Niessen 2006）[^baltussen-2006]，但此类建议又敞开了所谓“标引问题”（下文在失能语境中讨论）之门——即试图把彼此不同且不可通约的收益（收入、幸福、社会生产力、创造力）加总，以便我们能比较两种健康结局。直接对健康结局作正面比较的尝试，要求一个可疑的方法论假定：健康是*单维的*。带着一只幸存的手走出医院显然好过一只手都没有；但只剩部分视力比最终坐上轮椅更好还是更坏？我们如何比较共同构成健康状态的人的诸功能领域？
+    step2: |-
+      僵局的另一个原因，是加总问题在 CEA“收益”一侧的适用。有人主张彻底放弃 QALY、DALY 这类汇总健康度量技术（Anand & Wailoo 2000）[^anand-2000]；多数人则同意丹·布罗克（Dan Brock）：不涉及生活质量来谈优先排序，根本行不通（Brock 1995）[^brock-1995]。已有人尝试可行的多标准进路，把健康收益拆成彼此独立的成分（Baltussen & Niessen 2006）[^baltussen-2006]；但这类建议又敞开了所谓“标引问题”（下文在失能语境中讨论）之门：把彼此不同且不可通约的收益（收入、幸福、社会生产力、创造力）加总，以便比较两种健康结局。直接作正面比较，则须一个可疑的方法论假定：健康只有一个维度。带着一只幸存的手出院显然胜于一只手都不剩；但只剩部分视力与最终坐上轮椅相比，孰优孰劣？共同构成健康状态的各个功能领域又何以相互比较？
+  - id: 33
+    kind: body
+    source: |-
+      This then is the general ethical backdrop against which the special moral concern about the impact of disability on health resource prioritization must be placed. We begin with why it is that disability—of the myriad of differences between people that might matter in how we decide to allocate health care resources—is different.
+    step1: |-
+            以上就是一般的伦理背景，失能对医疗资源优先排序的影响这一特殊道德关切必须置于其中。我们先从这一点开始：在可能影响医疗资源分配决策的人与人之间的无数差异中，失能为何与众不同。
+    step2: |-
+      以上就是一般的伦理背景，失能对医疗资源优先排序所引发的特殊道德关切须置于其中。我们先问：在可能影响分配决策的人与人之间无数差异中，失能何以与众不同。
+  - id: 34
+    kind: body
+    source: |-
+      ## 2. Why does disability pose a problem for health care rationing?
+    step1: |-
+            ## 2. 失能为何给医疗配给带来问题？
+    step2: |-
+      ## 2. 失能为何给医疗配给带来问题？
+  - id: 35
+    kind: body
+    source: |-
+      ### 2.1 The difference disability makes
+    step1: |-
+            ### 2.1 失能所造成的差别
+    step2: |-
+      ### 2.1 失能所造成的差别
+  - id: 36
+    kind: body
+    source: |-
+      The situation of persons with disabilities is a special ethical concern for health care allocation because disability is not just any human difference—like age, gender or ethnicity—or any social disadvantage—like poverty, gender discrimination, or minority marginalization. Disability is both a difference and a disadvantage that is *conceptually linked* to a person’s health state, and therefore health needs. All disability theorists these days agree that the physical, social and attitudinal environment in which a person with a health problem or functional impairment lives will make a huge difference to their perceived “disability” the person will experience (WHO 2001)[^who-2001]. Although there are a few hold-outs of the so-called “social model” that insist that disability is a pure “social construction” that has nothing to do with the state of a person’s health (see Oliver 1990)[^oliver-1990], the Consensus is that disability is conceptually linked to health: without an underlying health problem or impairment there is no disability.
+    step1: |-
+            失能者的处境之所以是医疗分配的特别伦理关切，是因为失能不只是人的任何一种差异（如年龄、性别或族裔），也不只是任何一种社会不利（如贫困、性别歧视或少数群体边缘化）。失能既是一种差异，又是一种不利，而它在*概念上*与一个人的健康状况、因而与健康需要*相联系*。如今所有失能理论家都同意，一个有健康问题或功能损伤的人所生活的物理、社会与态度环境，将对其所感受到的“失能”造成巨大差别（WHO 2001）[^who-2001]。尽管仍有少数所谓“社会模型”的坚持者主张失能纯粹是“社会建构”，与一个人的健康状况无关（见 Oliver 1990）[^oliver-1990]，共识仍是：失能在概念上与健康相联系——没有底层的健康问题或损伤，就没有失能。
+    step2: |-
+      失能者的处境之所以构成医疗分配的特别伦理关切，是因为失能既不是人的任一差异（年龄、性别、族裔），也不是任一社会不利（贫困、性别歧视、少数群体边缘化）。它既是差异又是不利，而且在概念上与健康状况、因而与健康需要相联。如今失能理论家一致同意：有健康问题或功能损伤的人所处的物理、社会与态度环境，对其所体验的“失能”影响巨大（WHO 2001）[^who-2001]。虽有少数“社会模型”坚持者主张失能纯属“社会建构”、与健康状况无关（见 Oliver 1990）[^oliver-1990]，共识仍是：失能在概念上与健康相系——没有底层的健康问题或损伤，就没有失能。
+  - id: 37
+    kind: body
+    source: |-
+      While the actual health needs of persons with disabilities, even severe disabilities, varies enormously, the conceptual link to health and human functioning means that health is not merely contingently related to disability, as gender, poverty or even quality of life are. Moreover, disability is not merely conceptually linked to health, it is linked to some problem with or decrement in health. This explains why the case of disability raises the priority problem in clear relief: every person with a disability is potentially a less-efficient health care resource user since they have an *ex ante* (pre-allocation) health problem.
+    step1: |-
+            尽管失能者的实际健康需要（即便是重度失能者）差别巨大，与健康及人的功能这一概念联系意味着：健康与失能的关系不只是偶然的，不像性别、贫困乃至生活质量那样。更有甚者，失能不仅概念上与健康相联，还与健康的某种问题或减损相联。这就解释了为何失能之例把优先问题清晰地凸显出来：每个失能者都可能是效率较低的医疗资源使用者，因为他或她在*分配之前*（*ex ante*）就有健康问题。
+    step2: |-
+      失能者的实际健康需要（即便重度失能）差别巨大；但与健康及人的功能这一概念上的联系意味着，健康与失能的关系并非偶然——不像性别、贫困乃至生活质量那样。更有甚者，失能不仅在概念上与健康相联，还与健康的某种问题或减损相联。这就解释了失能之例为什么把优先问题凸显出来：每个失能者都可能是效率较低的资源使用者，因为其在分配之前（*ex ante*）就有健康问题。
+  - id: 38
+    kind: body
+    source: |-
+      It is important to note, however, that disability is not conceptually linked to (lower) quality of life. Unfortunately, there is good evidence that it is commonly believed that people with disabilities suffer from a lower quality of life associated with their level of functioning or premature mortality, and that *ex ante* decrement in quality of life may not be fundamentally altered by the health resource (Albrecht & Devlieger 1999)[^albrecht-1999]. This empirical fact is the source of the democracy problem as it applies to disability since if the general public is laboring under a general prejudice about what it means to live with a disability, then they will be more easily persuaded that disability is an additional cost, or limits the benefit received (or both).
+    step1: |-
+            然而必须注意，失能在概念上并不与（较低的）生活质量相联。不幸的是，有充分证据表明，人们普遍相信失能者因其功能水平或过早死亡而生活质量较低，而这种*分配之前*生活质量的减损可能不会被医疗资源根本改变（Albrecht & Devlieger 1999）[^albrecht-1999]。这一经验事实正是民主问题在失能语境中的根源：如果一般公众对带失能生活意味着什么抱有普遍偏见，他们便更容易被说服认为失能是一项额外成本，或限制了所获收益（或二者兼有）。
+    step2: |-
+      然而须注意：失能在概念上并不与（较低的）生活质量相联。不幸的是，有充分证据表明，人们普遍相信失能者因功能水平或过早死亡而生活质量较低，而且这一“分配之前”的生活质量减损或许不会被资源根本改变（Albrecht & Devlieger 1999）[^albrecht-1999]。这一经验事实正是民主问题在失能语境中的根源：公众如果对带失能生活怀有普遍偏见，就更容易被说服，认为失能意味着额外成本，或限制了所能获得的收益（或二者兼有）。
+  - id: 39
+    kind: body
+    source: |-
+      To be sure, there can be no doubt that disability incurs additional personal and social costs in the form of impairment-related resources such as assistive technology (wheelchairs, hearing aids, and augmented communication devices); changes to make their world more accessible (curb cuts, audible stop lights, elevators, accessible toilets and disability parking); and social services such as income maintenance, disability pensions and vocational rehabilitation. By the same token the health care needs of persons with disabilities may be more costly to provide, given potential complications and co-morbidities as well as the accommodations that may be required to ensure access to health care (for example, that examination tables can accommodate persons with complete lower body paralysis). Because of this, however, people with disabilities will always have to face the converse of the indirect benefits problem: as a population, they incur health and non-health costs that, if factored into the cost of the health improvement associated with a health resource, would tilt the CEA efficiency calculation against them.
+    step1: |-
+            固然，失能无疑会带来额外的个人与社会成本，形式包括与损伤相关的资源，如辅助技术（轮椅、助听器、增强沟通设备）；使世界更可及的改变（路缘坡道、可听式交通灯、电梯、无障碍卫生间与残疾人车位）；以及收入维持、残疾抚恤金与职业康复等社会服务。同样，鉴于潜在的并发症与共病，以及为确保医疗可及所需的便利（例如检查台须能容纳下半身完全瘫痪者），失能者的医疗需要可能更昂贵。然而正因如此，失能者将始终面对间接收益问题的反面：作为一个群体，他们招致健康与非健康成本；若把这些成本计入与某项医疗资源相关的健康改善成本，就会使 CEA 效率计算不利于他们。
+    step2: |-
+      当然，失能无疑带来额外的个人与社会成本。其一是与损伤相关的资源：轮椅、助听器、增强沟通设备；其二是使世界更可及的改变：路缘坡道、可听式交通灯、电梯、无障碍卫生间与残疾人车位；其三是收入维持、残疾抚恤金、职业康复等社会服务。同样，鉴于潜在的并发症与共病，以及为确保可及所需的便利（比如检查台必须能容纳下半身完全瘫痪的人），失能者的医疗需要可能更昂贵。然而正因如此，失能者将始终面对间接收益问题的反面：就群体而言，他们招致健康与非健康成本；如果把这些成本计入与某资源相关的健康改善成本，就会使 CEA 的效率计算不利于他们。
+  - id: 40
+    kind: body
+    source: |-
+      ### 2.2 Disability and individual, head-to-head allocation
+    step1: |-
+            ### 2.2 失能与个体的正面权衡分配
+    step2: |-
+      ### 2.2 失能与个体的正面权衡分配
+  - id: 41
+    kind: body
+    source: |-
+      Taking all this together the result is, from the perspective of CEA reasoning, that disability seems to be a salient consideration for resource allocation. For the rest of this section, we will review what has been said about how disability impacts the ethics of health care allocation, and in particular how the five problems mentioned above play out in the case of disability.
+    step1: |-
+            把这一切合起来，从 CEA 推理的视角看，结果是：失能似乎是资源分配中的显著考量。本节余下部分将评述关于失能如何影响医疗分配伦理的既有论述，特别是上述五个问题在失能情形中如何展开。
+    step2: |-
+      合而言之，从 CEA 推理来看，失能似乎是资源分配中的一个显著考量。本节余下部分评述既有论述——失能如何影响医疗分配伦理，特别是上述五个问题在失能情形中如何展开。
+  - id: 42
+    kind: body
+    source: |-
+      There are two perspectives in which these intuitions can be tested: at the level of individual, head-to-head allocation contests and at the level of social policies or strategies about health care allocation across the population. In the first case we presume a head-to-head comparison between a person with and another without a disability, both of whom require the medical treatment or resource that, for whatever reason, can only be available to one of them. We will have occasion below to question the philosophical value of head-to-head allocation scenarios, but there is no doubt they have emotional power and put the impact of disability into stark relief. Interestingly, although the impact of disability on rationing was initially raised legally in terms of rationing policy (the Oregon rationing experiment mentioned above), despite creative legal academic discussions (Garvey 1992; Peters 1995; Orentlicher 1996; and Crossley 2000)[^crossley-2000][^garvey-1992][^orentlicher-1996][^peters-1995], United States courts were reluctant to move from the individual case to the policy level in the rationing debate because they were impressed by the argument that prioritization of health resources was simply unavoidable and so not discriminatory as a general policy. We return to this point below in the context of human rights and the impact of disability.
+    step1: |-
+            检验这些直觉有两条视角：个体层面正面对决的分配竞争，以及关于全人口医疗分配的社会政策或策略层面。在第一种情形，我们设想一位失能者与一位非失能者之间的正面比较，二者都需要同一医疗治疗或资源，而该资源因某种原因只能给其中一人。下文我们会质疑这种正面对决分配情境的哲学价值，但无疑它们具有情感力量，并把失能的影响置于刺眼的聚光灯下。有趣的是，尽管失能对配给的影响最初是以配给政策的法律形式（上文提到的俄勒冈配给实验）提出的，而且有富有创造性的法学讨论（Garvey 1992; Peters 1995; Orentlicher 1996; Crossley 2000）[^crossley-2000][^garvey-1992][^orentlicher-1996][^peters-1995]，美国法院却不愿在配给争论中从个案层面上升到政策层面，因为它们被这样一条论证打动：医疗资源的优先排序根本不可避免，故作为一般政策并不构成歧视。此点下文在人权与失能影响的语境中再议。
+    step2: |-
+      检验这些直觉有两条视角：个体层面正面对决的分配竞争，与全人口医疗分配的社会政策或策略层面。前者设想一位失能者与一位非失能者的正面比较，二者都需要同一治疗或资源，而资源因故只能给其中一人。下文会质疑这种正面对决情境的哲学价值，但无疑它们具有情感力量，并使失能的影响显得刺目。有趣的是，失能对配给的影响最初是以配给政策的法律形式（上文俄勒冈实验）提出的，也有富于创造的法学讨论（Garvey 1992; Peters 1995; Orentlicher 1996; Crossley 2000）[^crossley-2000][^garvey-1992][^orentlicher-1996][^peters-1995]。但美国法院不愿在争论中从个案上升到政策层面——它们被这样一条论证说服了：资源优先排序根本不可避免，所以作为一般政策并不构成歧视。这一点下文会在人权与失能影响的语境中再议。
+  - id: 43
+    kind: body
+    source: |-
+      ### 2.3 Problematic scenarios at the individual level
+    step1: |-
+            ### 2.3 个体层面的问题情境
+    step2: |-
+      ### 2.3 个体层面的问题情境
+  - id: 44
+    kind: body
+    source: |-
+      In this section we explore the ethical issues involved in health resource rationing involving disability at the individual level (leaving the ethics of rationing policy for the next section). For concreteness, we look at allocation scenarios commonly used in the literature to highlight the impact of disability on the allocation strategy of CEA using the QALY metric to define health resource use benefit, or to test other intuitions about non-utilitarian, egalitarian principles of fair distribution. There are many, many different variations on these examples that can be imagined to test our intuitions, but these will give a flavor of this form of philosophical analysis. The cases are divided naturally into those in which life itself is at stake and those in which some non-fatal health outcome involving an improvement in functioning (stabilization of functioning, or prevention of further functional decline) is at stake.
+    step1: |-
+      本节探讨个体层面的、涉及失能的医疗资源配给所包含的伦理问题（配给政策的伦理留待下一节）。为具体起见，我们考察文献中常用的分配场景，它们或用以凸显失能对 CEA 分配策略的影响——该策略以 QALY 度量健康资源使用收益——或用以检验关于非功利主义的、平等主义的公平分配原则的其他直觉。可以设想这些例子有无穷多种变体来检验我们的直觉，但以下这些足以让人体会这种哲学分析的路数。这些案例自然地分为两类：一类关涉生命本身，另一类关涉某种非致命的健康结局，涉及功能的改善（功能稳定，或防止功能进一步衰退）。
+    step2: |-
+      本节讨论个体层面的医疗资源配给在涉及失能时有哪些伦理问题（配给政策本身的伦理留到下一节）。为了讲得具体，我们看文献里常用的几个分配场景。这些场景或者用来凸显失能对 CEA 分配策略的影响——这种策略用 QALY 衡量健康资源使用的收益——或者用来检验我们对非功利主义、平等主义公平分配原则的其他直觉。这些例子可以有无穷多种变体，用来检验我们的直觉，不过下面这些已经足以让人体会这类哲学分析的做法。这些案例大致分成两类：一类性命攸关，另一类是某种非致命健康结局成为焦点，即功能的改善（让功能稳定下来，或防止功能继续衰退）。
+  - id: 45
+    kind: body
+    source: |-
+      Note: For all the examples below, let *A* represent a person with a disability and *B* and *C* persons without. We make no assumption about what kind or severity of disability is involved, except to remind ourselves that the underlying impairments may be trivial (a congenital port wine stain on one’s face), although socially stigmatizing, or moderate (arthritic pain affecting mobility), or extremely severe (life-threatening blood pressure or compromised lung function). We assume that *A*, *B*, and *C* *ex post* (before the resource is administered) all have roughly the same health needs with respect to the proposed treatment or resource use, although *A* may have other health needs associated with her pre-existing disability.
+    step1: |-
+      说明：以下所有例子中，设 *A* 为有失能者，*B* 与 *C* 为无失能者。我们不对失能的种类或严重程度作任何假定，只是提醒自己：底层损伤可能微不足道（如脸上先天的葡萄酒色斑），尽管会招致社会污名；也可能中等（如影响活动的关节炎疼痛），或极严重（如危及生命的血压或肺功能受损）。我们假定 *A*、*B*、*C* 在 *ex post*（即资源投放之前）就拟议治疗或资源使用而言，健康需要大致相同，尽管 *A* 可能因既存失能而有其他健康需要。
+    step2: |-
+      说明：下面所有例子中，*A* 代表有失能的人，*B* 与 *C* 代表没有失能的人。失能属于哪一类、有多严重，我们不作假定，只提醒一点：底层的损伤可能很轻微（比如脸上先天的葡萄酒色斑），只是会招来社会污名；也可能程度中等（比如影响活动的关节炎疼痛），或者极其严重（比如危及生命的血压问题或肺功能受损）。我们假定 *A*、*B*、*C* 就拟议的治疗或资源使用而言健康需要大致相同，*ex post* 也是如此（也就是在资源投放之前）；不过 *A* 可能因为既有的失能而有别的健康需要。
+  - id: 46
+    kind: body
+    source: |-
+      Life-saving cases:
+    step1: |-
+      救命案例：
+    step2: |-
+      救命型案例：
+  - id: 47
+    kind: body
+    source: |-
+      1. *A* has a shorter life expectancy, post-treatment than *B*, but the treatment will save the lives of both *A* and *B*.
+      2. *A* and *B* have the same life expectancy post-treatment, but *B* will have a higher quality of life.
+      3. *A*’s disability is such that the chances that the life-saving treatment will be wholly effective, or its potential for positive effect, are greatly diminished in comparison with *B*.
+      4. Neither *C* nor *B* have pre-existing disabilities, but post-treatment we have good reason to believe that *C* will acquire a disability and *B* will not, and that disability will either lessen *C*’s life expectancy, or quality of life, or both.
+    step1: |-
+      1. 治疗后 *A* 的预期寿命短于 *B*，但治疗能救活 *A* 与 *B* 两人。
+            2. 治疗后 *A* 与 *B* 的预期寿命相同，但 *B* 将有更高的生活质量。
+            3. *A* 的失能使救命治疗完全奏效的机会，或其产生正面效果的潜力，与 *B* 相比大为削弱。
+            4. *C* 与 *B* 均无既存失能，但治疗后我们有充分理由认为 *C* 将新得失能而 *B* 不会，且该失能会缩短 *C* 的预期寿命、降低其生活质量，或二者兼有。
+    step2: |-
+      1. 治疗后 *A* 的预期寿命比 *B* 短，但治疗能救活 *A* 和 *B* 两条命。
+            2. 治疗后 *A* 与 *B* 的预期寿命相同，但 *B* 的生活质量会更高。
+            3. *A* 的失能使救命治疗完全奏效的机会，或者说它产生正面效果的潜力，比 *B* 小得多。
+            4. *C* 与 *B* 都没有既存失能，但治疗后我们有充分理由认为 *C* 会新得失能而 *B* 不会，而且这一失能会缩短 *C* 的预期寿命、降低其生活质量，或者两者兼有。
+  - id: 48
+    kind: body
+    source: |-
+      In all of these scenarios, the CEA and QALY allocation strategy would *prima facie* favor the non-disabled individual *B*. Both the priority and the indirect benefits problems are at work here. Although this result seems intuitively acceptable for case (iii), since the treatment to *A* would be a total waste of a scarce resource, and unfair if *B* could benefit from it. But it is far less clear what we would say if the effectiveness of the treatment was less obviously compromised by the disability. As for cases (i), (ii) and (iv) the CEA analysis is at least troubling because the preference is based exclusively on *A*’s (or for case iv), *C*’s) disability, or *ex ante* quality of life. We might not think it relevant what kind of life a person would live after a medical treatment, and differences in life expectancy would only be relevant if they were very stark—say *A* would only live a few weeks, but *B* several decades.
+    step1: |-
+      在以上所有场景中，CEA 与 QALY 分配策略在表面上（*prima facie*）都会偏向无失能的个体 *B*。优先性问题与间接收益问题在此同时起作用。虽然对案例 (iii) 而言，这一结果在直觉上似乎可以接受——因为对 *A* 的治疗纯属浪费稀缺资源，而若 *B* 能从中受益，则对 *B* 不公平——但若治疗有效性受失能妨碍这一点不那么明显，我们会怎么说就远不清楚了。至于案例 (i)、(ii)、(iv)，CEA 分析至少令人不安，因为其偏好完全基于 *A* 的失能（或案例 iv 中 *C* 的失能），或基于其事前的生活质量。我们未必认为一个人经医疗后过着怎样的生活无关紧要，而预期寿命的差异只有在极为悬殊时才有意义——比如 *A* 只能再活几周，而 *B* 能再活几十年。
+    step2: |-
+      在上述每一个场景里，CEA 与 QALY 的分配策略表面上（*prima facie*）都会偏向没有失能的 *B*。优先性问题和间接收益问题在这里同时起作用。就案例 (iii) 而言，这个结果在直觉上似乎可以接受：把稀缺资源用在 *A* 身上完全是浪费，而如果 *B* 能从中受益，那对 *B* 反而不公平。但假如治疗效果受失能妨碍这一点没那么明显，我们该怎么判断就远不清楚了。至于案例 (i)、(ii)、(iv)，CEA 分析至少令人不安，因为偏向的依据完全在于 *A*（案例 iv 中是 *C*）的失能，或者说在于其事前的生活质量。我们未必认为一个人接受治疗后会过怎样的生活无关紧要；预期寿命的差别也只有在极为悬殊时才算数——比如 *A* 只能再活几周，而 *B* 还能活几十年。
+  - id: 49
+    kind: body
+    source: |-
+      Health improvement cases:
+    step1: |-
+      健康改善案例：
+    step2: |-
+      健康改善型案例：
+  - id: 50
+    kind: body
+    source: |-
+      1. *A*’s disability acts like a co-morbidity and reduces the efficacy of the proposed treatment so that the treatment has a less quality of life-enhancing outcome for *A* than it does for *B*.
+      2. *A*’s disability makes the treatment more complex, extended and more costly than it is for *B*, even though the resulting outcomes may be identical.
+      3. *C* and *B* have no pre-existing disabilities, but we know that *C* will acquire one post-treatment and because of this the quality of life-enhancing outcome will be less for *C* than for *B*.
+    step1: |-
+      1. *A* 的失能犹如一种合并症，降低了拟议治疗的效力，使治疗对 *A* 的生活质量改善结局不如对 *B*。
+            2. *A* 的失能使治疗比 *B* 更复杂、更漫长、更昂贵，尽管最终结局可能相同。
+            3. *C* 与 *B* 均无既存失能，但我们知道 *C* 治疗后将新得失能，因此治疗对 *C* 的生活质量改善结局不如对 *B*。
+    step2: |-
+      1. *A* 的失能像一种合并症，降低了拟议治疗的疗效，于是对 *A* 而言，治疗在提升生活质量上的结果不如对 *B* 那样好。
+            2. *A* 的失能使得治疗比 *B* 更复杂、更漫长、更昂贵，尽管最终结果可能一样。
+            3. *C* 与 *B* 都没有既存失能，但我们知道 *C* 治疗后会出现一种失能，因此治疗在提升生活质量上的结果对 *C* 不如对 *B* 好。
+  - id: 51
+    kind: body
+    source: |-
+      For cases (i) and (iii), primarily because of the use of QALY as a metric for benefit, the standard strategy for health resource allocation would favor *B* over *A* or *C*: because of their disabilities, *ex post* or *ex ante*, individuals *A* and *C* have worst health resource use outcomes than *B*. As with the life-saving cases, our intuitions seem to depend on how great the gap in quality of life is between *A* (or *C*) and *B*. Should *A* and *C* experience an extremely low quality of life after the treatment, while *B* experience very high quality of life, then we are tempted to favor *B*; but when the differences are minimal, then favoring *B* over *A* seems arbitrary and unfair. The case of (ii) puts the disadvantage on the cost rather than the benefit side, with the result that CEA would favor *B*. Again, our intuitions here seem to be affected by magnitude: if the cost difference is trivial, then it seems unfair to favor *B*; if the differences are enormous, then our utilitarian intuitions seem more dominant and we would favor *B*. In general, once the subtleties of proportional benefit or proportional cost are considered, our intuitions are actually very fluid.
+    step1: |-
+      对案例 (i) 与 (iii)，主要因以 QALY 作为收益度量，医疗资源分配的标准策略将偏向 *B* 而非 *A* 或 *C*：由于失能——无论是事后的还是事前的——个体 *A* 与 *C* 的健康资源使用结局都劣于 *B*。与救命案例一样，我们的直觉似乎取决于 *A*（或 *C*）与 *B* 之间生活质量差距的大小。若 *A* 与 *C* 治疗后生活质量极低，而 *B* 极高，我们便倾向于偏向 *B*；但若差异极小，则偏向 *B* 而非 *A* 显得武断且不公。案例 (ii) 把不利之处置于成本而非收益一侧，结果 CEA 仍将偏向 *B*。此处我们的直觉同样受幅度影响：若成本差异微不足道，偏向 *B* 便显得不公；若差异巨大，功利主义直觉似乎更占上风，我们便会偏向 *B*。总的来说，一旦考虑按比例计算的收益或成本这些微妙之处，我们的直觉其实非常易变。
+    step2: |-
+      就案例 (i) 与 (iii) 而言，主要因为把 QALY 当作收益的度量，标准的医疗资源分配策略会偏向 *B* 而非 *A* 或 *C*：由于失能——无论是 *ex post* 还是 *ex ante*——*A* 与 *C* 从健康资源使用中得到的结果都比 *B* 差。和救命型案例一样，我们的直觉似乎取决于 *A*（或 *C*）与 *B* 之间生活质量差距有多大。如果治疗之后 *A* 与 *C* 的生活质量极低，而 *B* 的很高，我们就倾向于偏向 *B*；但如果差距很小，偏向 *B* 而非 *A* 就显得武断而不公平。案例 (ii) 把不利之处放在成本一侧而非收益一侧，结果 CEA 仍会偏向 *B*。这里我们的直觉同样受幅度影响：成本差别微不足道时，偏向 *B* 显得不公平；差别巨大时，功利主义直觉似乎占了上风，我们就会偏向 *B*。总的来说，一旦把按比例计算的收益或成本这些微妙之处考虑进来，我们的直觉其实非常不稳定。
+  - id: 52
+    kind: body
+    source: |-
+      ### 2.4 What do head-to-head examples really tell us?
+    step1: |-
+      ### 2.4 正面比较的例子究竟能告诉我们什么？
+    step2: |-
+      ### 2.4 正面比较的例子究竟能告诉我们什么？
+  - id: 53
+    kind: body
+    source: |-
+      Francis Kamm has relied almost exclusively on individual head-to-head examples such as these to explore intuitions about the ethical significance of disability in allocation decisions (Kamm 1993, 2004, 2009a and b)[^kamm-1993]. Although her examples are vivid and the discussions often ethically illuminating, at the end of the day, one is left with the sense that relying on our intuitions about these scenarios (and their infinite variations) is a troublingly and indeterminate exercise. The unrealistic simplicity of the cases might create skepticism about how the debate has been framed. Surely, no health care decision, at the individual level, would ever be this stark and devoid of uncertainties. We are never completely sure whether our treatments will improve functioning, even save lives, or whether unintended side effects will end up making the outcome worse. In addition, measuring benefit in terms of QALYs is not an exact science, and the measurement of cost is extremely difficult, especially if, in addition to the direct costs from the provision of the resource, we add indirect costs and opportunity costs. Although the method of testing our intuitions on artificial scenarios, making increasingly nuanced changes in the case to highlight salient considerations, is philosophical illuminating, it may arguably be somewhat artificial.
+    step1: |-
+      弗朗西斯·卡姆（Francis Kamm）几乎仅凭此类个体层面的正面比较案例，探讨失能在分配决策中的伦理意义所引发的直觉（Kamm 1993, 2004, 2009a and b）[^kamm-1993]。其案例生动，讨论亦常在伦理上富有启发，但归根结底，人会觉得依靠我们对这些场景（及其无穷变体）的直觉，乃是一项令人不安且得不出定论的工作。案例不切实际的简单性，或使人怀疑争论的框架本身。个体层面的医疗决策，当然从不会如此干脆，也从不会没有不确定性。我们从来不能完全确定：治疗是否会改善功能、甚至挽救生命，或意外副作用是否终将把结局弄得更好。此外，以 QALY 衡量收益并非精确科学，成本衡量亦极其困难，尤其在资源供给的直接成本之外再加间接成本与机会成本之时。把直觉放到人为场景上检验、并在案例中作出日益细致的改动以凸显关键考量，这一方法固然有哲学启发，却也可以说有些人为。
+    step2: |-
+      弗朗西斯·卡姆（Francis Kamm）几乎只依靠这类个体层面的正面比较例子，来探讨失能在分配决策中的伦理意义所引发的直觉（Kamm 1993, 2004, 2009a and b）[^kamm-1993]。她的例子很生动，讨论也常常在伦理上富有启发，但归根到底，人会感到：依靠我们对这些场景（以及它们无穷无尽的变体）的直觉，是一项令人不安、又得不出确定结论的工作。案例那种不现实的简单化，可能会让人怀疑这场争论的框架本身。个体层面的医疗决策，肯定从来不会如此干脆，也从来不会没有不确定性。我们从来不能完全确定：治疗会不会改善功能，甚至能不能保住性命；或者意外的副作用会不会反而让结果更糟。此外，用 QALY 衡量收益并不是一门精确的科学，成本的衡量也极其困难——尤其是当我们除了资源供给的直接成本之外，再加上间接成本和机会成本的时候。把直觉放到人为构造的场景上检验，并在案例中不断作更细致的改动以凸显关键考量，这一方法固然有哲学上的启发，但也可以说有些做作。
+  - id: 54
+    kind: body
+    source: |-
+      Our intuitions seem both stable and reliable for *ex ante* examples, where a decision is made to allocate the resource to the non-disabled individual solely or automatically in terms of the presence of a disability in the other candidate, without any consideration of relative cost or benefit or the most rudimentary use of CEA. Surely such a decision would be the very essence of prejudicial and unfair. But even here our intuitions are not completely secure since it may make a difference how the allocation decision is framed.
+    step1: |-
+      对事前型案例，我们的直觉似乎既稳定又可靠：在其中，决定把资源配置给无失能个体，完全或自动地仅凭另一候选人有失能，而不考虑相对成本或收益，亦不运用最基本的 CEA。这样的决定当然正是偏见与不公的本质。但即便如此，我们的直觉也并非完全可靠，因为分配决定如何被表述可能带来差别。
+    step2: |-
+      在 *ex ante* 型例子里，我们的直觉似乎既稳定又可靠：把资源分给没有失能的人，唯一或自动的依据就是另一位候选人有失能，完全不考虑相对的成本或收益，也完全没有用 CEA 的最基本做法。这样的决定当然正是偏见与不公的典型。但即便在这里，我们的直觉也不是完全可靠，因为分配决定如何被表述，可能会带来差别。
+  - id: 55
+    kind: body
+    source: |-
+      Suppose we are asked to decide between a person in a wheelchair and someone without a severe disability. If the issue is framed crudely in term of “lives worth living” and we decide on stereotypical and ungrounded assumptions about the abject misery of living in a wheelchair, *ex ante*, then a case could be made that our decision to favor the person without a disability was irrational, unfair, and discriminatory. By contrast, suppose we cast the situation as one in which unavoidable scarcity necessitates a choice that, however it goes, will be regrettable and unfortunate (sometimes called a “tragic choice”: see Calabresi & Bobbitt 1978 and Nussbaum 2000)[^calabresi-1978][^nussbaum-2000]. So framed, we might seem far more ethically justified in appealing to disability, or indeed any other real difference between the two individuals that is, at least in principle, relevant to our judgment. Disability, as we have seen, is an *a priori* relevant consideration to health care allocation. We might argue that, after all, we have no option but to choose someone (choosing no one would be both wasteful and unfair to both). Against this it might be argued that fairness in such a circumstance can only be achieved by a purely random choice.
+    step1: |-
+      假设要我们在一位坐轮椅者与一位无严重失能者之间作决定。若问题以“值得过的生命”之类粗陋措辞表述，且我们依循关于坐轮椅生活之凄惨的刻板而无据的假定（从事前看），便可主张：我们偏向无失能者的决定是非理性的、不公的、歧视性的。反之，假设我们把情境表述为：不可避免的稀缺迫使作出一个无论怎样都令人遗憾、不幸的选择（有时称为“悲剧性选择”，见 Calabresi & Bobbitt 1978 与 Nussbaum 2000）[^calabresi-1978][^nussbaum-2000]。如此表述，我们诉诸失能——或诉诸两人之间任何其他真实差别，只要它至少在原则上与判断相关——似乎就在伦理上正当得多。如我们所见，失能是医疗分配中一个 *a priori* 相关的考量。我们或许会论证：毕竟我们别无选择，只能选一个人（谁都不选既浪费，又对两人都不公）。对此可反驳说：此种情形下的公平，只能通过纯随机选择实现。
+    step2: |-
+      假设要我们在一个坐轮椅的人和一个没有严重失能的人之间作选择。如果问题被粗暴地表述为“什么样的生命值得过”，而我们对坐轮椅的生活又抱刻板而毫无根据的凄惨想象，那么从 *ex ante* 看，偏向没有失能者的决定就是非理性的、不公平的、歧视性的。反过来，假设我们把情形表述为：不可避免的稀缺逼着我们作一个无论如何都会令人遗憾、令人难过的选择（有时称为“悲剧性选择”，见 Calabresi & Bobbitt 1978 与 Nussbaum 2000）[^calabresi-1978][^nussbaum-2000]。这样表述之后，我们援引失能——或者两位个体之间任何其他真实的差别，只要它至少在原则上与判断相关——似乎就在伦理上正当得多。如我们所见，失能是医疗分配中一个 *a priori* 相关的考量。我们或许会说，毕竟我们别无选择，只能选一个人（谁都不选既浪费，又对两人都不公平）。对此也可以反驳说：在这种情形下，公平只能靠纯随机的选择来实现。
+  - id: 56
+    kind: body
+    source: |-
+      ## 3. Disability as a systematic rationing consideration: ethical concerns
+    step1: |-
+      ## 3. 失能作为系统性的配给考量：伦理关切
+    step2: |-
+      ## 3. 失能作为系统性的配给考量：伦理关切
+  - id: 57
+    kind: body
+    source: |-
+      ### 3.1 The dilemma created by CEA
+    step1: |-
+      ### 3.1 CEA 造成的两难
+    step2: |-
+      ### 3.1 CEA 造成的两难
+  - id: 58
+    kind: body
+    source: |-
+      The individual allocation scenarios just described are powerful “intuition pumps” (Dennett 2013)[^dennett-2013] because they emphasize a direct competition between two individuals over the same required health resource. Yet if the only lesson we can draw from the life-saving and health improvement scenarios is that our intuitions about whether disability matters are clearer the starker the contrast in benefit or cost, this does not seem to advance the debate very much. Given that there is already a concern about the unrealistic simplicity of the individual cases, perhaps we can get a better result by asking whether, and in what way, disability is a relevant ethical consideration as a general social policy or allocation strategy that will be consistently and neutrally applied to everyone, without exception.
+    step1: |-
+      刚刚描述的个体分配场景是强有力的“直觉泵”（Dennett 2013）[^dennett-2013]，因为它们强调两个人为同一必需医疗资源而直接竞争。然而，若从救命与健康改善场景中只能得出这样的教训——收益或成本的对比越鲜明，我们关于失能是否重要的直觉就越清楚——这似乎并不能把争论推进多少。既然已经有人担心个体案例不切实际地简单，我们或许可以问：失能作为一项将被一致而无例外地适用于所有人（无一例外）的普遍社会政策或分配策略，是否以及在何种方式上构成相关的伦理考量。如此或可获得更好的结果。
+    step2: |-
+      刚刚描述的个体分配场景是强有力的“直觉泵”（Dennett 2013）[^dennett-2013]，因为它们凸显了两个人为同一必需医疗资源而直接竞争。但如果从救命型与健康改善型场景中，我们只能得出这样的教训——收益或成本的对比越鲜明，我们对失能是否重要的直觉就越清楚——那似乎并没有把争论推进多少。既然人们已经担心个体案例过于简单、不现实，那么我们也许可以换一种问法。失能作为一项普遍适用、对所有人一视同仁、没有例外的社会政策或分配策略，是否构成相关的伦理考量，又以什么方式构成？
+  - id: 59
+    kind: body
+    source: |-
+      If we are considering a social policy or population strategy for allocation, we are seemingly bound by basic principles of procedural fairness that pre-empt special-pleading and other exceptions. These principles are also principles of rationality, and in the case of allocation policy they obviously apply. But there are also special presumptions about an allocation policy that also tap into our intuitions about the rationality of a general policy, but concern the specific nature of an allocation policy. There appear to be three presumptions about such a policy that cannot be sensibly challenged: A) the rationing or prioritizing policy is necessary because health resources are scare; B) resource use effectiveness, if not the end of the story, is at least part of it; and C) some ordinal measure of health outcomes must be used to compare outcomes.
+    step1: |-
+      若我们考虑的是一项社会政策或面向人群的分配策略，我们似乎受程序公平基本原则的约束，这些原则排除了偏私辩护及其他例外。这些原则同样是理性原则，用于分配政策时显然适用。但关于分配政策还有一些特别的预设，它们同样诉诸我们关于一般政策之合理性的直觉，不过涉及的是分配政策的特定性质。对这类政策，似乎有三项预设无法被合理地挑战：A）配给或优先排序政策之所以必要，是因为医疗资源稀缺；B）资源使用有效性即使不是全部，至少也是其中一部分；C）必须用某种定序尺度衡量健康结局，以便比较结局。
+    step2: |-
+      若我们考虑的是一项社会政策或面向人群的分配策略，那我们似乎就受程序公平基本原则的约束，这些原则排除了偏私辩护与其他例外。这些原则同样是理性原则，用于分配政策时显然适用。但关于分配政策还有一些特别的预设，它们同样诉诸我们关于一般政策之合理性的直觉，不过涉及的是分配政策的特定性质。对这类政策，似乎有三项预设无法合理地挑战：A）配给或优先排序政策之所以必要，是因为医疗资源稀缺；B）资源使用的有效性即使不是全部，至少也是其中一部分；C）必须用某种定序尺度衡量健康结局，以便比较结局。
+  - id: 60
+    kind: body
+    source: |-
+      Effectiveness, as we saw, is both a matter of the costs of using a health resource and the benefits accrued. At the policy level it is far more important to be clear about what range of costs are relevant (should we include indirect and lost opportunity cost?) as well as what constitutes a relevant benefit (should we include enhanced employment prospects, a more financially secure family situation, and so on?). The cost side of the equation is rarely considered by bioethicists, which is a clear gap in the debate. The benefit side has been considered, as noted above, by Brock and others under the wider rubric of the “separate spheres” problem (Brock 2003; Broome 2004)[^brock-2003][^broome-2004]. We can ignore these complications in what follows and restrict the issue of effectiveness, as is usually done in this literature, to a single criterion: the *capacity to benefit directly* from a health resource.
+    step1: |-
+      如我们所见，有效性既关乎使用医疗资源的成本，也关乎累积的收益。在政策层面，更紧要的是弄清哪些成本范围算相关（是否应计入间接成本与机会损失？），以及什么算相关收益（是否应计入更好的就业前景、更有经济保障的家庭状况等？）。方程的成本一侧，生命伦理学家很少考虑，这是争论中明显的缺口。收益一侧，如上所述，Brock 等人已在“分离领域”问题这一更宽的名目下讨论过（Brock 2003; Broome 2004）[^brock-2003][^broome-2004]。下文可忽略这些复杂之处，按本文献通常做法，把有效性问题收窄为单一标准：*直接受益能力*（the *capacity to benefit directly*）。
+    step2: |-
+      如我们所见，有效性既涉及使用某种医疗资源的成本，也涉及由此得到的收益。在政策层面，更要紧的是弄清哪些成本范围算相关（要不要把间接成本和机会损失计入？），以及什么算相关收益（要不要把更好的就业前景、更有经济保障的家庭状况等算进来？）。方程的成本一侧，生命伦理学家很少考虑，这是争论中一个明显的缺口。收益一侧，如上所述，布罗克（Dan Brock）等人在“分离领域问题”这一更宽的名目下已作讨论（Brock 2003; Broome 2004）[^brock-2003][^broome-2004]。下文可以忽略这些复杂之处，按本文献通常的做法，把有效性问题收窄为一个标准：直接受益能力（capacity to benefit directly）。
+  - id: 61
+    kind: body
+    source: |-
+      Whatever our intuitions may suggest at the individual level, when we turn to a general allocation policy, it is clear that disability has a potential impact both on cost and the capacity to directly benefit, and a blanket refusal to take disability into account would be both irrational and unfair. Importantly, ignoring disability is irrational and unfair for everyone, including people with disabilities. If the presence of a disability makes a medical treatment ineffective, extremely impractical or vastly expensive, it would be foolish to ignore this fact. It would be unfair to those without a disability who need and could benefit from the treatment; but it would also be unfair for a person with a disability to ignore the fact that some of his or her needs would be unsatisfied, and some medical treatment of no use to him or her (or potentially harmful). This means that disability is not only ethically relevant at the policy level, but in fact it needs to be factored into the selection of resource or treatment and of the mode, method, and context by which the resource is delivered.
+    step1: |-
+      无论个体层面的直觉如何，一旦转到一般分配政策，就很清楚：失能对成本与直接受益能力都有潜在影响；一概拒绝把失能纳入考量，既不合理性，也不公平。要紧的是，无视失能对所有人都既不合理性、不公平，对有失能者亦然。若失能的存在使某项医疗变得无效、极不实际或极昂贵，忽略这一事实便是愚蠢的。那对无失能而需要且能受益于该治疗者不公平；但对有失能者同样不公平的是，无视其某些需要有得不到满足、某些医疗对其无用（甚至可能有害）这一事实。这意味着失能不仅在政策层面具有伦理相关性，而且事实上必须被纳入资源或治疗的选择，以及资源供给方式、方法与情境的选择。
+    step2: |-
+      无论个体层面的直觉如何，一旦转到一般分配政策，情况就很清楚：失能对成本和直接受益能力都有潜在影响；一律拒绝把失能纳入考量，既不合理性，也不公平。重要的是，无视失能对所有人都不合理性、不公平，对有失能的人也一样。如果失能的存在使某项医疗变得无效、极不实际或极其昂贵，忽略这一事实就是愚蠢的。那对需要治疗且能从中受益的无失能者不公平；但对有失能者同样不公平的是，无视他或她的某些需要得不到满足、某些医疗对其无用（甚至可能有害）这一事实。这意味着失能不仅在政策层面具有伦理相关性，而且实际上必须纳入资源或治疗的选择，以及资源供给方式、方法和情境的选择。
+  - id: 62
+    kind: body
+    source: |-
+      But if disability intrinsically affects costs of delivery and capacity to benefit, allocation policy appears to be trapped in a dilemma: CEA systematically disadvantages people with disabilities in health resource prioritization, but it is both irrational and unfair (to everyone, including people with disabilities) to ignore disability-related differences in costs and capacity to benefit when prioritizing health care resources.
+    step1: |-
+      但若失能本质上影响供给成本与受益能力，分配政策似乎便陷入两难：CEA 在医疗资源优先排序中系统性地使失能者处于不利地位；但在优先排序医疗资源时无视与失能相关的成本与受益能力差异，对所有人（包括失能者）都既不合理性、又不公平。
+    step2: |-
+      但如果失能本身确实影响供给成本和受益能力，分配政策看来就陷入两难：CEA 在医疗资源优先排序中系统性地让失能者处于不利地位；可是，在优先排序时无视与失能相关的成本与受益能力差异，对所有人（包括失能者）都不合理性、不公平。
+  - id: 63
+    kind: body
+    source: |-
+      ### 3.2 Resolving the dilemma: first attempts
+    step1: |-
+      ### 3.2 化解两难：最初的尝试
+    step2: |-
+      ### 3.2 化解两难：最初的尝试
+  - id: 64
+    kind: body
+    source: |-
+      Some disability advocates argue that there is no real dilemma here since “capacity to benefit” is merely a cloak for the prejudice that the life of disabled person, like that of the elderly, is of intrinsically less value and deserving of less effort to preserve or improve (Asch 2001)[^asch-2001]. These advocates have a point since precisely this view can be seen in the pronouncements of respectable bioethicists who do assert that the “disabled life” is fundamentally inferior (Kuhse & Singer 1985; Singer 1983; McKie et al. 1998)[^kuhse-1985][^mckie-1998][^singer-1983]. In the case of disability, for some writers, lower capacity to benefit is not an empirical conclusion, but an *a priori* assumption (Veach 1986; Harris 1986; Anand & Hanson 1997; Arneson & Nord 1999; Rock 2000; Koch 2000)[^anand-1997][^arneson-1999][^harris-1986][^koch-2000][^nord-1999][^rock-2000][^veach-1986]. CEA systematically disadvantages people with disabilities because it is intrinsically discriminatory.
+    step1: |-
+      一些失能倡导者认为此处并无真正的两难，因为“受益能力”不过是偏见的遮羞布——这种偏见认为失能者的生命（如同老年人的生命）本身价值较低、不值得为保全或改善它付出那么多努力（Asch 2001）[^asch-2001]。此议并非无的放矢：恰恰可在可敬的生命伦理学家的言论中见到这种看法，他们确实主张“失能的生命”从根本上低劣（Kuhse & Singer 1985; Singer 1983; McKie et al. 1998）[^kuhse-1985][^mckie-1998][^singer-1983]。就失能而言，在某些作者那里，受益能力较低并不是经验结论，而是 *a priori* 假定（Veach 1986; Harris 1986; Anand & Hanson 1997; Arneson & Nord 1999; Rock 2000; Koch 2000）[^anand-1997][^arneson-1999][^harris-1986][^koch-2000][^nord-1999][^rock-2000][^veach-1986]。CEA 系统性地不利于失能者，因为它本身带有歧视性。
+    step2: |-
+      一些失能权利倡导者认为，两难其实并不存在：所谓“受益能力”不过是偏见的遮羞布，这种偏见认为失能者的生命（如同老年人的生命）本身价值较低，不值得为保全或改善它付出那么多努力（Asch 2001）[^asch-2001]。这些倡导者并非无的放矢：在可敬的生命伦理学家们的言论中，恰恰可以看到这种看法，他们确实主张“失能的生命”从根本上低劣（Kuhse & Singer 1985; Singer 1983; McKie et al. 1998）[^kuhse-1985][^mckie-1998][^singer-1983]。就失能而言，某些作者所说的受益能力较低并不是经验结论，而是 *a priori* 假定（Veach 1986; Harris 1986; Anand & Hanson 1997; Arneson & Nord 1999; Rock 2000; Koch 2000）[^anand-1997][^arneson-1999][^harris-1986][^koch-2000][^nord-1999][^rock-2000][^veach-1986]。CEA 之所以系统性地不利于失能者，是因为它本身就带有歧视性。
+  - id: 65
+    kind: body
+    source: |-
+      Although Asch and others are certainly not attacking a straw person position, the response might be that there is an empirical basis for the claim that disability adversely affects the capacity to benefit from a health resource, namely the evidence that people with disabilities tend to enjoy less quality of life improvement from these resources than those without disabilities. The strength of this rejoinder, however, depends very much on what is meant by “quality of life”. If understood as a subjective assessment or evaluation of one’s life—now more often called “subjective well-being” (Kahneman, Diener & Schwarz 1999)—then there is good empirical evidence that disability **does not** negatively affect capacity to benefit. People with disabilities tend to be happier, and assess their lives to be of considerably higher value than would be objectively assumed—a phenomenon called the “disability paradox” (Albrecht & Devlieger 1999)[^albrecht-1999].
+    step1: |-
+      Asch 等人的批评当然不是在打稻草人；但回应者可以说，失能不利于从医疗资源中受益这一主张有经验依据，即证据表明失能者从这些资源获得的生活质量改善往往少于无失能者。然而，这一反驳的分量很大程度上取决于“生活质量”所指为何。若把它理解为主观评估或对自身生活的评价——如今更多称为“主观幸福”（Kahneman, Diener & Schwarz 1999）——则有充分经验证据表明，失能 **并不** 对受益能力产生负面影响。失能者往往更快乐，对自己生活的评价远高于客观推断所及——这一现象称为“失能悖论”（Albrecht & Devlieger 1999）[^albrecht-1999]。
+    step2: |-
+      阿施（Asch）等人的批评当然不是打稻草人；但回应者可以说，失能会不利于从医疗资源中受益，这一主张有经验依据：有证据表明，失能者从这些资源中获得的生活质量改善往往少于无失能者。不过，这一反驳有多大分量，很大程度上取决于“生活质量”指什么。如果把它理解为对自己生活的主观评估或评价——如今更多称为“主观幸福”（Kahneman, Diener & Schwarz 1999）——那么有充分经验证据表明，失能 **并不** 对受益能力产生负面影响。失能者往往更快乐，对自己生活的评价也远高于旁人客观推断的水平——这一现象被称为“失能悖论”（Albrecht & Devlieger 1999）[^albrecht-1999]。
+  - id: 66
+    kind: body
+    source: |-
+      This may be granted, but it remains true that bioethicists who rely on the notion of “quality of life” in this context tend to assume, usually without argument, that quality of life is an objective phenomenon that incorporates autonomy, accomplishments and a reasonable array of opportunities to live a full life (see, e.g., Brock 1995, 2005)[^brock-1995]. It is, of course, this objective sense that QALYs was intended to quantify by means of evaluations of health states, either by population or expert ranking, or by means of preference elicitation techniques. Invariably these ranking exercises show that quality of life decreases directly with the severity of the disabling condition.
+    step1: |-
+      此点可以承认，但实情仍是：在此语境中依赖“生活质量”概念的生命伦理学家往往不加论证就假定，生活质量是一种客观现象，包含自主、成就与一整套合理的机会以过完整的生活（例如见 Brock 1995, 2005）[^brock-1995]。QALY 想量化的当然正是这种客观意义，其手段是对健康状态作评价——或由人群排序，或由专家排序，或用偏好诱导技术。无一例外，这些排序练习都显示：生活质量随失能状况的严重程度而直接下降。
+    step2: |-
+      这一点可以承认。但实情仍是：在此语境中依赖“生活质量”概念的生命伦理学家，往往不加论证就假定生活质量是客观现象，包含自主、成就，以及过完整生活的合理机会（例如见 Brock 1995, 2005）[^brock-1995]。QALY 想量化的当然正是这种客观意义的质量：靠对健康状态的评价——或由人群排序，或由专家排序，或用偏好诱导技术——来量化。无一例外，这些排序练习都显示：失能状况越严重，生活质量越低。
+  - id: 67
+    kind: body
+    source: |-
+      The disability advocate might respond that QALYs and similar measures are simply not valid since the rankings are done by people who do not themselves have first-hand experience with what it means to live with a disability. Indeed there is some evidence that third-party assessments of the objective quality of life of people with impairments—either by health professionals or the general public—are systematically lower than self-assessments by people with impairments (Ubel et al. 2003)[^ubel-2003], and that this bias may well be the result of distortion from cultural and other prejudices (Amundson 2010)[^amundson-2010].
+    step1: |-
+      失能倡导者可能回应说，QALY 及类似度量根本无效，因为作排序的人自己并无亲身经历，不知带着失能生活意味着什么。确实有证据表明，第三方对有损伤者客观生活质量的评估——无论出自医疗专业人员还是一般公众——系统性地低于有损伤者的自我评估（Ubel et al. 2003）[^ubel-2003]，而这种偏差很可能源于文化与其它偏见的扭曲（Amundson 2010）[^amundson-2010]。
+    step2: |-
+      失能倡导者可能回应说，QALY 及类似度量根本无效，因为作排序的人自己并没有亲身经历过带着失能生活是什么样子。确实有证据表明，第三方——无论是医疗专业人员还是公众——对有损伤者客观生活质量的评估系统性地低于有损伤者的自我评估（Ubel et al. 2003）[^ubel-2003]，而这种偏差很可能源于文化与其它偏见的扭曲（Amundson 2010）[^amundson-2010]。
+  - id: 68
+    kind: body
+    source: |-
+      Against this it might be argued that whether or not a person with a disability is in an epistemically-privileged position concerning the experience of disability, this privilege need not extend to an objective assessment of the actual physical and other burdens of living with the disability (Brock 1995)[^brock-1995]. Quite the contrary, because of the psychological dynamics of adaptation and adjustment, especially after a traumatic injury, a person with a disability may well be in a worse position to assess his or her life objectively. Once adjusted, the disabled person may grossly overestimate the value of living with the disability, which, while perhaps not a bad thing, in this context has the effect of distorting the individual’s health and social needs (Murray 1996; Menzel et al. 2002)[^menzel-2002][^murray-1996].
+    step1: |-
+      对此可反驳说：无论失能者在失能体验上是否处于认识论上的优越位置，这种优越都不必延伸到对带失能生活的实际身体负担及其他负担的客观评估（Brock 1995）[^brock-1995]。恰恰相反，由于适应与调适的心理机制——尤其在创伤性损伤之后——失能者评估自己生活是否客观，位置可能反而更差。一旦调适完成，失能者可能大幅高估带失能生活的价值；这也许不是坏事，但在本语境中，其效果是扭曲了个人的健康与社会需要（Murray 1996; Menzel et al. 2002）[^menzel-2002][^murray-1996]。
+    step2: |-
+      对此可以反驳说：无论失能者在失能体验上是否处于认识论上的优越位置，这种优越都不必延伸到对失能带来的实际身体负担及其他负担的客观评估（Brock 1995）[^brock-1995]。恰恰相反，由于适应与调适的心理机制——尤其是在创伤性损伤之后——失能者评估自己生活是否客观，位置可能反而更差。一旦调适完成，失能者可能大幅高估带着失能生活的价值；这也许不算坏事，但在本语境中，其效果是扭曲了个人的健康需要与社会需要（Murray 1996; Menzel et al. 2002）[^menzel-2002][^murray-1996]。
+  - id: 69
+    kind: body
+    source: |-
+      Even if this debate about how QALYs should be developed is resolved, this may have little impact on the dilemma mentioned. If disability objectively reduces quality of life, then the expected overall benefit of a health resource will tend to be adversely affected and CEA will disadvantage persons with disabilities; but on the other hand, if not, and disability does not impact on the capacity to benefit from a health resource, then people with disabilities will be disadvantaged by the provision of these resources that do not take their disabilities into account. As Amaryta Sen helpfully explains the point, the value of any resource is not constant across a population since some differences between people affect their ability to “convert” the resource into what is value, either objectively, or to them alone (Sen 1999; Ruger 2010)[^ruger-2010][^sen-1999]. There are differences between people that make a difference to the value extracted from the same resource, and disability is perhaps the clearest example of such a difference.
+    step1: |-
+      即便关于 QALY 应如何建构的争论得以解决，对前述两难也可能影响甚微。若失能客观地降低生活质量，则一项医疗资源的预期总体收益便往往受到不利影响，CEA 也将使失能者处于不利地位；但另一方面，若并非如此，失能并不影响从医疗资源中受益的能力，那么使失能者处于不利地位的，反倒是那些不考虑其失能而供给的资源。阿马蒂亚·森（Amartya Sen）对此有一有帮助的说明：任何资源的价值在一个群体中并非恒定，因为人与人之间的某些差别会影响其把资源“转换”为有价值之物（客观上，或仅对其本人而言）的能力（Sen 1999; Ruger 2010）[^ruger-2010][^sen-1999]。人与人之间存在差别，这些差别使同一资源所提取的价值有所不同，而失能也许是这类差别最清楚的例子。
+    step2: |-
+      即便关于 QALY 应当如何建构的争论有了结论，对前述两难也可能帮助不大。如果失能客观地降低了生活质量，一项医疗资源的预期总体收益便往往受到不利影响，CEA 也就让失能者吃亏；但另一方面，如果并非如此，失能并不影响从医疗资源中受益的能力，那么使失能者处于不利地位的，反而是那些不考虑其失能而供给的资源。阿马蒂亚·森（Amartya Sen）对此有一个很有帮助的说明：任何资源的价值在一个群体中并非恒定。人与人之间的某些差别，会影响他们把资源“转换”为有价值之物的能力——无论是客观上，还是仅对他本人而言（Sen 1999; Ruger 2010）[^ruger-2010][^sen-1999]。人与人之间存在差别，这些差别会改变同一资源所能带来的价值，而失能也许是这类差别最清楚的例子。
+  - id: 70
+    kind: body
+    source: |-
+      The QALY metric, however, is problematic for another reason. When evaluators are asked to rank the impact of a disability on quality of life they are asked to consider the overall “burden” of living with that decrement in health or functioning. Undoubtedly, part of that burden is the result of the social stigma, discrimination and lack of opportunities that characterizes the disabled life, in all cultures. People with disabilities typically have as a group the lowest employment and education participation rates of any sub-population (WHO 2011, Chapter 8)[^who-2011], a fact that profoundly affects their quality of life, but which has as much to do with failed policy to combat stigma and lack of accommodation as it does with the underlying health condition. Yet the fact that the burden of living with a disability is caused as much by the social environment suggests that the QALY metric, even if it accurately describes the burden of disability, is unfair as a basis for resource allocation (Wasserman, Asch, Bickenbach 2008)[^bickenbach-2008]. In effect we are saying to the person with a disability that because stigma and failed policy make your life less valuable, we are not going to improve your life by giving you access to needed resources.
+    step1: |-
+      然而，QALY 度量还因另一理由而问题重重。当评估者被要求对失能于生活质量的影响排序时，他们被要求考虑带着那种健康或功能缺损生活的总体“负担”。毫无疑问，这种负担有一部分来自社会污名、歧视与机会匮乏——所有文化中的失能生活皆以之为特征。作为群体，失能者的就业与教育参与率通常在所有亚人群中最低（WHO 2011, Chapter 8）[^who-2011]，这一事实深刻影响其生活质量，但它既同未能对抗污名、缺乏无障碍便利的失败政策有关，也同样同底层健康状况有关。然而，带失能生活的负担如此大程度地由社会环境造成，这一事实表明：QALY 度量即便准确描述了失能的负担，作为资源分配的基础也不公平（Wasserman, Asch, Bickenbach 2008）[^bickenbach-2008]。实际上，我们等于在对失能者说：既然污名与失败的政策使你的生命价值更低，我们就不打算让你获得所需资源来改善生活。
+    step2: |-
+      然而，QALY 度量还因另一个理由成问题。评估者被要求就失能对生活质量的影响排序，同时须考虑带着那种健康或功能缺损生活的总体“负担”。毫无疑问，这种负担有一部分来自社会污名、歧视与机会匮乏——在所有文化中，失能者的生活都以这些为特征。就群体而言，失能者的就业与教育参与率通常是所有亚人群中最底的（WHO 2011, Chapter 8）[^who-2011]。这一事实深刻影响其生活质量，但它既与失败的政策有关——这些政策未能对抗污名、也未提供便利——也同样与底层健康状况有关。然而，带失能生活的负担如此大程度由社会环境造成这一事实说明：QALY 度量即便准确描述了失能的负担，作为资源分配的基础也不公平（Wasserman, Asch, Bickenbach 2008）[^bickenbach-2008]。实际上，我们是在对失能者说：因为污名与失败的政策使你的生命价值更低，我们就不打算通过让你获得所需资源来改善你的生活。
+  - id: 71
+    kind: body
+    source: |-
+      One of the most robust defenses of how the CEA approach deals with disability comes in the form of Michael Stein’s general defense of utilitarianism against forms of resource egalitarianism (Stein 2006)[^stein-2006]. Stein argues that only utilitarianism, by relying on the greater benefit criterion of distributive justice, can handle our intuitions about disability when it comes to health care allocation. He acknowledges that disability is conceptually related to ill-health or functional decrement (impairment), and, as a utilitarian takes that to mean that disability also reduces welfare—and proportionately: the more severe the disability, the greater the welfare loss. Because of this relationship, he argues that the utilitarian can precisely determine—in welfare terms—the impact of a health benefit and this makes utilitarianism, overall, a far better decision-making method for health care allocations. Unfortunately, on his own utilitarian terms, Stein’s argument is flawed. For, as we have said, as long as welfare is a subjective notion, there is no reason to think that there is a strict correlation between health and welfare deficit. Moreover, for a utilitarian consequentialist, there is no *a priori* reason to think that a person without a disability always experiences less welfare benefit than a person with disability—since there are domains other than health that impact welfare. On the other hand, if we are concerned about maximizing welfare, rather than health, then we need to take into account all consequential welfare advances that are linked to health improvements (opportunity to develop talents, better job prospects, or a more stable family life) and once that door is open, there is no reason to think that disability will matter since these benefits may, overall, greatly overwhelm the negative impact of disability (Bickenbach 2008)[^bickenbach-2008].
+    step1: |-
+      对 CEA 进路处理失能方式的最有力辩护之一，是 Michael Stein 针对各种资源平等主义所作的功利主义一般辩护（Stein 2006）[^stein-2006]。Stein 论证，只有功利主义凭借分配正义的更大收益标准，才能处理我们关于失能在医疗分配上的直觉。他承认失能在概念上与健康不佳或功能缺损（损伤）相关，并作为功利主义者认为这意味着失能也降低福利——且成比例：失能越严重，福利损失越大。正因这一关系，他论证功利主义者能（以福利术语）精确确定一项健康收益的影响，这使功利主义总体上成为远为更好的医疗分配决策方法。不幸的是，按 Stein 自己的功利主义标准，其论证有缺陷。因为如我们所说，只要福利是主观概念，就没有理由认为健康与福利亏缺之间存在严格相关。而且，对功利主义后果论者而言，也没有 *a priori* 理由认为无失能者总比失能者得到更少福利收益——因为影响福利的领域不止健康。另一方面，若我们关心的是最大化福利而非健康，便须把与健康改善相关的全部后果性福利进展（发展才能的机会、更好的就业前景、更稳定的家庭生活）纳入考量；而一旦打开这扇门，就没有理由认为失能还有何要紧，因为这些收益总体上可能大大盖过失能的负面影响（Bickenbach 2008）[^bickenbach-2008]。
+    step2: |-
+      为 CEA 处理失能方式作的最有力辩护之一，是迈克尔·斯坦（Michael Stein）对功利主义的总体辩护，用以对抗各种资源平等主义（Stein 2006）[^stein-2006]。斯坦论证，只有功利主义依靠分配正义的更大收益标准，才能在医疗分配上处理我们关于失能的直觉。他承认失能在概念上与健康不佳或功能缺损（损伤）相关，并作为功利主义者认为这意味着失能也降低福利——而且是成比例的：失能越严重，福利损失越大。正因为这一关系，他论证功利主义者能（以福利术语）精确确定一项健康收益的影响，这使功利主义总体上是远为更好的医疗分配决策方法。遗憾的是，按斯坦自己的功利主义标准，其论证是有缺陷的。因为如我们所说，只要福利是主观概念，就没有理由认为健康与福利亏缺之间存在严格相关。而且，对功利主义后果论者而言，也没有 *a priori* 理由认为无失能者总是比失能者获得更少福利收益——因为除健康之外还有别的领域影响福利。另一方面，如果我们关心的是最大化福利而非健康，就必须把与健康改善相关的全部后果性福利进展（发展才能的机会、更好的就业前景，或更稳定的家庭生活）纳入考量；而一旦打开这扇门，就没有理由认为失能还会有什么要紧，因为这些收益总体上可能大大盖过失能的负面影响（Bickenbach 2008）[^bickenbach-2008]。
+  - id: 72
+    kind: body
+    source: |-
+      ### 3.3 Resolving the dilemma: moving beyond CEA
+    step1: |-
+      ### 3.3 化解两难：超越 CEA
+    step2: |-
+      ### 3.3 化解两难：超越 CEA
+  - id: 73
+    kind: body
+    source: |-
+      The dilemma created by the cost-effectiveness strategy, or more generally a utilitarian approach, may be argued to reflect the perennial conflict in distributive justice between “fair chances” and “best outcomes”. Although there are diehard utilitarians like Stein, most philosophers are drawn to the view that we must in light of these problems find compromise positions in which cost efficiency is moderated by some countervailing principle of fairness. Although the debate is about how to construct a social policy of health care allocation—which potentially affects everyone, so that everyone’s interests need to be taken into account—this does not mean that the three presumptions mentioned above are rejected. No participant in this debate would argue that costs do not matter, that effective use of resources is irrelevant, or that health care outcomes are wholly subjective and incommensurable. Instead, we need to make allocation decision-making more complex by taking account of egalitarian “side constraints” that might modify our CEA results.
+    step1: |-
+      由成本效果策略、或更一般地由功利主义进路所造成的两难，可以说反映了分配正义中“公平机会”与“最佳结果”之间的长期冲突。尽管有 Stein 这样的铁杆功利主义者，多数哲学家倾向于认为，鉴于这些问题，必须找到折中立场，以某种抗衡性的公平原则节制成本效率。虽然争论的是如何建构医疗分配的社会政策——它可能影响每个人，因而每个人的利益都须纳入考量——但这并不意味着前述三项预设被否定。这场争论中没有参与者会主张成本无关紧要、资源的有效使用不相干，或医疗结局纯属主观且不可通约。相反，我们需要纳入平等主义的“附带约束”以使分配决策更复杂，这些约束可能修正 CEA 的结果。
+    step2: |-
+      成本效果策略、或更一般地说功利主义进路所造成的两难，可以说反映了分配正义中“公平机会”与“最佳结果”之间长期存在的冲突。尽管有斯坦这样的铁杆功利主义者，多数哲学家倾向于认为，鉴于这些问题，我们必须找到折中立场，用某种抗衡性的公平原则来节制成本效率。虽然争论的是如何建构一项医疗分配的社会政策——它可能影响每一个人，因而每个人的利益都须纳入考量——但这并不意味着前述三项预设被否定。这场争论中没有哪位参与者会主张成本无关紧要、资源的有效使用不相干，或医疗结局纯属主观、不可通约。相反，我们需要通过纳入平等主义的“附带约束”来使分配决策变得更复杂，这些约束可能修正 CEA 的结果。
+  - id: 74
+    kind: body
+    source: |-
+      Thus some philosophers have argued that the debate needs to be infused with the basic egalitarian principle of equal concern and respect, a principle that may from time to time trump CEA considerations. Sometimes, that is, “best outcomes” needs to be moderated by “fair chances”. Dan Brock, who was the first to raise the question of how disability impacts on health care allocation, argued that the best way forward is to structure health resource allocation to secure, to the greatest extent, equality of opportunity for all (Brock 1995)[^brock-1995]. Relocating the center of gravity of health care allocation to equality of opportunity was extremely appealing since it accorded with the a prominent view about the nature of health, and the value of health care, most clearly articulated by Norman Daniels (1985, and further developed in Daniels 2008)[^daniels-2008]. Health, Daniels argued, has a special moral significance for us because it facilitates and enhances our full range of opportunities in life, so ensuring that equality of health care is one of society’s most effective means of ensuring equality of opportunity across the board.
+    step1: |-
+      于是有些哲学家论证，这场争论需要注入平等关怀与尊重这一基本平等主义原则，该原则有时可压倒 CEA 考量。也就是说，“最佳结果”有时须由“公平机会”节制。Dan Brock 最早提出失能如何影响医疗分配的问题，他论证最佳出路是把医疗资源分配设计成尽可能保障所有人的机会平等（Brock 1995）[^brock-1995]。把医疗分配的重心移至机会平等极具吸引力，因为它契合一种关于健康本性与医疗价值的显要观点，该观点由 Norman Daniels 表达得最清楚（1985，并在 Daniels 2008 中进一步发展）[^daniels-2008]。Daniels 论证，健康对我们有特殊道德意义，因为它促成并增进我们生活中的全部机会；因此，确保医疗平等是社会确保全面机会平等最有效的手段之一。
+    step2: |-
+      于是有些哲学家论证，这场争论需要注入平等关怀与尊重这一基本平等主义原则，该原则有时可以压倒 CEA 的考量。也就是说，“最佳结果”有时需要由“公平机会”来节制。丹·布罗克（Dan Brock）最早提出失能如何影响医疗分配的问题，他论证最好的出路是把医疗资源分配设计成尽可能保障所有人的机会平等（Brock 1995）[^brock-1995]。把医疗分配的重心移到机会平等上极具吸引力，因为它符合一种关于健康之本性与医疗之价值的显要观点，这一观点由诺曼·丹尼尔斯（Norman Daniels）最清楚地表达（1985，并在 Daniels 2008 中进一步发展）[^daniels-2008]。丹尼尔斯论证，健康对我们有特殊的道德意义，因为它促成并增进我们在生活中的全部机会；因此，确保医疗平等是社会确保全面机会平等最有效的手段之一。
+  - id: 75
+    kind: body
+    source: |-
+      Yet it was not clear how a renewed emphasis on “fair chances” helps to resolve the dilemma that CEA purportedly creates. Even if a purely “best outcome” approach disadvantages people with disabilities, focusing on “fair outcomes” would not mean that we ignored differences in costs and capacity to benefit created by disability. One might argue that, as abstracted individuals, everyone should have an equal opportunity to benefit from health care resources, *ceteris paribus*. Yet, as it is irrational to ignore issues of cost and benefit, it is clear that disability is just the paradigm example of a consideration that disrupts the *ceteris paribus* assumption. People with disabilities cannot fairly be denied the opportunity to benefit from health care, but on rational and relevant grounds of cost and prospect of benefit, they can fairly be denied health care, at least on a case by case basis. Brock came to realize that the move to egalitarian equality of opportunity could not resolve the dilemma posed by the relevance of disability in health care rationing. After nearly three decades of work he acknowledged that the problem of seemingly justifiable disability discrimination “represents a deep and unresolved problem for resource prioritization” (Brock 2002)[^brock-2002] and “there is much work still to be done” (Brock 2009)[^brock-2009].
+    step1: |-
+      然而，重新强调“公平机会”如何有助于化解 CEA 据称造成的两难，并不清楚。即便纯粹“最佳结果”进路不利于失能者，聚焦“公平结果”也不意味着无视失能造成的成本与受益能力差异。有人可能论证，作为抽象个体，在 *ceteris paribus* 之下，人人应有平等机会从医疗资源中受益。但既以无视成本与收益问题为不理性，则显然，失能正是扰乱 *ceteris paribus* 假定的考量的典型例子。失能者不能被公平地剥夺从医疗中受益的机会，但基于成本与受益前景这类理性而相关的理由，他们可以被公平地拒绝给予某项医疗——至少可逐案如此。Brock 后来认识到，转向平等主义的机会平等并不能化解失能在医疗配给中的相关性所提出的两难。经近三十年工作，他承认这一看似可辩护的失能歧视问题“是资源优先排序中一个深刻而尚未解决的问题”（Brock 2002）[^brock-2002]，并且“还有许多工作要做”（Brock 2009）[^brock-2009]。
+    step2: |-
+      但重新强调“公平机会”如何有助于化解 CEA 据称造成的两难，当时并不清楚。即便纯粹“最佳结果”的进路不利于失能者，聚焦“公平结果”也不意味着我们无视失能造成的成本与受益能力差异。有人可能论证，作为抽象个体，在 *ceteris paribus* 的前提下，人人都应有平等机会从医疗资源中受益。然而，既然无视成本与收益问题是不理性的，那么显然，失能正是扰乱 *ceteris paribus* 假定的考量的典型例子。不能公平地剥夺失能者从医疗中受益的机会，但基于成本与受益前景这些理性而相关的理由，他们可以被公平地拒绝给予某项医疗——至少可以逐案如此。布罗克后来认识到，转向平等主义的机会平等并不能化解失能在医疗配给中的相关性所提出的两难。经过近三十年的工作，他承认这个看来可辩护的失能歧视问题“是资源优先排序中一个深刻而尚未解决的问题”（Brock 2002）[^brock-2002]，并且“还有许多工作要做”（Brock 2009）[^brock-2009]。
+  - id: 76
+    kind: body
+    source: |-
+      For his part, Daniels has argued that when it comes to health resource decisions our fundamental intuitions are permanently at odds and egalitarian theory cannot help. Our only solution is to ensure that our health resource allocation policy is formalized so that all decisions are firmly grounded on fair deliberative processes, in which every voice and argument is heard and decisions are made by a fair and neutral arbiter (Daniels, et al. 2000; Daniels 2008)[^daniels-2008].
+    step1: |-
+      就 Daniels 而言，他论证在医疗资源决策上，我们的基本直觉永远彼此冲突，平等主义理论帮不上忙。我们唯一的解决办法，是确保医疗资源分配政策被形式化，使所有决定都牢固地建立在公平的审议程序之上：每种声音与论证都被听到，决定由公平中立的裁决者作出（Daniels, et al. 2000; Daniels 2008）[^daniels-2008]。
+    step2: |-
+      丹尼尔斯则论证，在医疗资源决策上，我们的基本直觉永远彼此冲突，平等主义理论帮不上忙。我们唯一的解决办法，是确保医疗资源分配政策形式化，使所有决定都牢牢建立在公平的审议程序之上：每一种声音与论证都被听到，决定由公平中立的裁决者作出（Daniels, et al. 2000; Daniels 2008）[^daniels-2008]。
+  - id: 77
+    kind: body
+    source: |-
+      Searching for an egalitarian allocation principle that might avoid the dilemma, some philosophers have gone back to the priority problem mentioned above and noted that, depending on the severity of the disability, a person with disabilities may have a greater need for health resources than a non-disabled individual, or that the health resource may have a more profound impact on securing equality of opportunity for the disabled person. Making the case for allocation in terms of who is “worst off” reflects the version of egalitarianism called prioritarianism (see Parfit 1997; Arneson 2000)[^arneson-2000][^parfit-1997] in which the distribution of a resource is guided by the intuition that the worst off have more to gain and should be given priority, not, like in the utilitarian approach in terms of great welfare benefit, but because of greater need.
+    step1: |-
+      为寻找一种可能避开两难的平等主义分配原则，有些哲学家回到前面提到的优先性问题，指出视失能严重程度而定，失能者对医疗资源的需要可能大于无失能者，或医疗资源对保障失能者的机会平等可能作用更深。以“谁处境最差”为分配立论，反映的是称为优先主义的平等主义版本（见 Parfit 1997; Arneson 2000）[^arneson-2000][^parfit-1997]：资源分配受这样一种直觉引导——处境最差者有更多可获之益，应当优先，不是因为像功利主义那样看福利收益更大，而是因为需要更大。
+    step2: |-
+      为了寻找一种可能避开两难的平等主义分配原则，有些哲学家回到前面提到的优先性问题。他们指出，视失能严重程度而定，失能者对医疗资源的需要可能大于无失能者，或者医疗资源对保障失能者的机会平等可能作用更深。以“谁处境最差”为分配立论，反映的是平等主义的一个版本，称为优先主义（见 Parfit 1997; Arneson 2000）[^arneson-2000][^parfit-1997]：资源分配受这样一种直觉引导——处境最差者有更多可获之益，应当优先；不是因为像功利主义那样看福利收益更大，而是因为需要更大。
+  - id: 78
+    kind: body
+    source: |-
+      The prioritarian, however, has two impressive hurdles to overcome: how to determine, in health terms, who is “worse off”, and secondly a version of the indirect benefits problem: why should we restrict our focus on health when health resources have knock-on benefits that go far beyond the sphere of health, including becoming a productive member of society. Both issues turn in part on whether health is an intrinsic or an instrumental good (or both). If purely instrumental, then the value of a health improvement—and so an estimate of how worse off a person would be without that improvement—can only be determined by looking at the resulting consequences for the individual and society. Moving in this direction a wide range of considerations—social position, income level, innate talents and good luck—would be determinative, even though they have very little to do with the health benefit itself. If health is only intrinsically valuable, then we would need a direct, unidimensional and comparative metric of health-related disadvantage. This is a formidable challenge since, once again, it would require answers to imponderable questions such as “Is a person who is blind ‘worse off” than a person who is deaf?’
+    step1: |-
+      然而，优先主义者有两道大关要过：第一，如何在健康意义上确定谁“处境更差”；第二，一种间接收益问题的版本：既然医疗资源有远远超出健康领域的连带收益——包括成为社会的生产性成员——为什么要把关注限于健康？这两个问题都部分取决于健康是内在善还是工具善（抑或两者兼有）。如果健康纯属工具，那么一项健康改善的价值——从而对一个人若无此改善会差多少的估计——就只能通过考察其对个人与社会的后果来确定。朝这个方向走，社会地位、收入水平、天赋与运气等一大串考虑都会有决定作用，尽管它们与健康收益本身几乎无关。如果健康只有内在价值，那我们就需要一种直接、单维且可比较的健康相关不利度量。这是艰巨的挑战，因为那又会要求回答“盲人比聋人‘处境更差’吗”这类无从掂量的问题。
+    step2: |-
+      然而，优先主义者有两道大关要过：第一，如何在健康意义上确定谁“处境更差”；第二，一种间接收益问题的版本：既然医疗资源有远远超出健康领域的连带收益——包括成为社会的生产性成员——为什么要把关注限于健康？这两个问题都部分取决于健康是内在善还是工具善（抑或两者兼有）。如果健康纯属工具，那么一项健康改善的价值——从而对一个人若无此改善会差多少的估计——就只能通过考察其对个人与社会的后果来确定。朝这个方向走，社会地位、收入水平、天赋与运气等一大串考虑都会有决定作用，尽管它们与健康收益本身几乎无关。如果健康只有内在价值，那我们就需要一种直接、单维且可比较的健康相关不利度量。这是艰巨的挑战，因为那又会要求回答“盲人比聋人‘处境更差’吗”这类无从掂量的问题。
+  - id: 79
+    kind: body
+    source: |-
+      Recently, Greg Bognar, recalling a version of “luck egalitarianism” (see Arneson 2000)[^arneson-2000] has suggested another tactic that might avoid this tangle (Bognar 2010, 2011)[^bognar-2010]. Trading on the distinction between the value of a life and its moral worth, he has argued that we are uncomfortable with the quality of life measure, not because it is irrelevant to the capacity to benefit from a health resource, but because it tells us nothing about whether the individual deserves or merits the scarce resource. He suggests that in general we should ignore disability in the allocation of health resources. Disability is only relevant, he claims, when it diminishes the capacity to benefit from the health resource and the individual is responsible for the disability. Thus, while it would be unjust to deny a person a hip and knee replacement just because he or she is blind because of bad luck, it would not seem to be unjust if the person was voluntarily obese: being overweight contributed to the need for the replacement surgery in the first place, and would in any event reduce the benefit that the person would receive from the surgery.
+    step1: |-
+      最近，Greg Bognar 重提一种“运气平等主义”（见 Arneson 2000）[^arneson-2000]，提出另一可能避开这团乱麻的策略（Bognar 2010, 2011）[^bognar-2010]。他借生命价值与其道德价值之分论证：我们对生活质量度量感到不安，并非因为它与从医疗资源受益的能力无关，而是因为它在个人是否应得或配得该稀缺资源上什么也没告诉我们。他主张，一般而言，在医疗资源分配中应无视失能。他声称，只有当失能削弱了从该医疗资源受益的能力、且个人对失能负有责任时，失能才相关。因此，仅因运气不好而失明就拒绝给一个人做髋膝关节置换，会是不公正的；但若此人系自愿肥胖，拒绝似乎就不算不公：超重首先促成了置换手术的需要，而且无论如何会减少此人从手术中所得的收益。
+    step2: |-
+      最近，格雷格·博格纳（Greg Bognar）重提一种“运气平等主义”（见 Arneson 2000）[^arneson-2000]，提出另一种可能避开这团乱麻的策略（Bognar 2010, 2011）[^bognar-2010]。他借生命之价值与其道德价值之分论证：我们对生活质量度量感到不安，并非因为它与受益能力无关，而是因为它在个人是否应得或配得该稀缺资源上什么也没告诉我们。他主张，一般而言，在医疗资源分配中应无视失能。他声称，只有当失能削弱了从该医疗资源受益的能力，且个人对失能负有责任时，失能才相关。因此，仅因运气不好而失明就拒绝给一个人做髋膝关节置换，会是不公正的；但如果此人系自愿肥胖，拒绝似乎就不算不公：超重首先促成了置换手术的需要，而且无论如何会减少此人从手术中所得收益。
+  - id: 80
+    kind: body
+    source: |-
+      Although an intriguing theoretical take on the problem, Bognar’s solution, like all forms of luck egalitarianism, is fraught with a very practical problem of distinguishing causal responsibility from moral responsibility. We may feel confident blaming the excessive drinker for the medical need of a liver transplant, but only if we are equally confident that drinking was a choice, rather than a genetically predisposed behavior. And how far back in the causal history do we need to go to determine innocence or guilt? Most traumatic spinal cord injuries are the result of risky behaviors, and the soldier who voluntarily enlists surely understands the risks. Even assuming that these investigations into blameworthiness could conceivably be resolved, and resolved in a timely and inexpensive manner, Bognar is not offering a feasible solution to healthcare allocation in practice since ignoring blameworthy disability when allocating resources is not only unfair, but impractical since disabilities need to be taken into account in order to ensure that treatments and other medical interventions are as appropriate and beneficial for people with disabilities as for those without.
+    step1: |-
+      Bognar 的解决办法在理论上很有意思，但如同一切运气平等主义，它被一个非常实际的问题缠住：如何把因果责任与道德责任区分开。我们也许有信心因肝移植的医疗需要而责备酗酒者，但前提是我们同样有信心喝酒是一种选择，而非基因倾向的行为。而且，为判定无辜或有罪，我们要在因果链条上回溯多远？多数创伤性脊髓损伤是冒险行为的结果，自愿入伍的士兵当然明白风险。即便假定这些归责调查可以设想地得到解决，而且解决得及时、廉价，Bognar 也没有为实践中的医疗分配提供可行方案：在分配资源时无视应受责备的失能，不仅不公平，而且不切实际，因为要确保治疗与其他医疗干预对失能者和无失能者一样适当、一样有益，就必须把失能纳入考量。
+    step2: |-
+      博格纳的解决办法在理论上很有意思，但如同一切运气平等主义，它被一个非常实际的问题缠住：如何把因果责任与道德责任区分开。我们也许有信心因肝移植的医疗需要而责备酗酒者，但前提是我们同样有信心喝酒是一种选择，而非基因倾向的行为。而且，为了判定无辜或有罪，我们要在因果链条上回溯多远？多数创伤性脊髓损伤是冒险行为的结果，自愿入伍的士兵当然明白风险。即便假定这些归责调查可以设想地得到解决，而且解决得及时、廉价，博格纳也没有为实践中的医疗分配提供可行方案。因为在分配资源时无视应受责备的失能，不仅不公平，而且不切实际：要确保治疗与其他医疗干预对失能者和无失能者一样适当、一样有益，就必须把失能纳入考量。
+  - id: 81
+    kind: body
+    source: |-
+      ### 3.4 Health resource prioritization and the human right to health care
+    step1: |-
+      ### 3.4 医疗资源优先排序与医疗人权
+    step2: |-
+      ### 3.4 医疗资源优先排序与医疗人权
+  - id: 82
+    kind: body
+    source: |-
+      Is the ethical character of health care rationing fundamentally altered if we posit a human right to health care for persons with disabilities, as has been recently done by the United Nations *Convention on the Rights of Persons with Disabilities* (UN 2007: Articles 25 and 26)? Does human rights discourse strengthen the argument that health resource rationing cannot disadvantage persons with disabilities? Does it put more pressure on the need to ethically justify the application of cost effectiveness to allocation decision making? Does it help us resolve the dilemma that disability poses for health care allocation?
+    step1: |-
+      如果我们设定失能者享有医疗人权——联合国《残疾人权利公约》（UN 2007: Articles 25 and 26）近来正是如此——医疗配给的伦理性质会因此根本改变吗？人权话语会加强“医疗资源配给不得使失能者处于不利地位”这一论证吗？它会给“必须对把成本效果分析用于分配决策作出伦理辩护”施加更大压力吗？它有助于化解失能给医疗分配造成的两难吗？
+    step2: |-
+      如果我们设定失能者享有医疗人权——联合国《残疾人权利公约》（UN 2007: Articles 25 and 26）近来正是如此——医疗配给的伦理性质会因此根本改变吗？人权话语会加强“医疗资源配给不得使失能者处于不利地位”这一论证吗？它会给“必须为把成本效果分析用于分配决策作伦理辩护”施加更大压力吗？它有助于化解失能给医疗分配造成的两难吗？
+  - id: 83
+    kind: body
+    source: |-
+      The *Convention* explicitly asserts that all of its specific substantive rights—to health care, education, employment and so on—are rooted in the protection of equality (or prohibition of discrimination) and human dignity. This would suggest that if health resource allocation was prejudicial or discriminatory against people with disabilities, it would be a clear human rights violation. This assessment would hold whether the people with disabilities were disadvantaged directly and individually from “bedside allocation” or indirectly because of the application of otherwise disability-neutral private or public health care funding arrangements, or health care allocation policies or strategies.
+    step1: |-
+      《公约》明确主张，其所有具体实质性权利——医疗、教育、就业等等——都植根于对平等（或禁止歧视）与人的尊严的保护。这似乎意味着：若医疗资源分配对失能者有偏见或歧视，那就是明显侵犯人权。无论失能者是直接、个别地在“床边分配”中处于不利，还是因适用在其他方面对失能中立的私立或公立医疗筹资安排、或医疗分配政策与策略而间接受损，这一判断都成立。
+    step2: |-
+      《公约》明确主张，其所有具体实质性权利——医疗、教育、就业等等——都植根于对平等（或禁止歧视）与人的尊严的保护。这似乎意味着：如果医疗资源分配对失能者有偏见或歧视，那就是明显侵犯人权。无论失能者是直接、个别地在“床边分配”中处于不利，还是因适用在其他方面对失能中立的私立或公立医疗筹资安排、或医疗分配政策与策略而间接受损，这一判断都成立。
+  - id: 84
+    kind: body
+    source: |-
+      Unfortunately, the language of human rights adds little to the disability advocate’s already strong argument against *ex ante* prejudice or stigma in rationing decision-making, an argument that has no impact on the larger problem posed by the dilemma of whether disability should matter, and if so, how it should matter. In the case of the UN *Convention*, the human rights posited are not special rights restricted to persons with disabilities, rights that would, for example, directly impact health resource allocation so as to favor, or not disfavor, persons with disabilities. On the contrary, the right to health resources is explicitly said to be a right to “the same range, quality and standard of care as provided to other persons”. As long as persons with disabilities are treated equally with everyone else in a rationing scheme—subject to the same strategy of CEA or egalitarian principle and augmented with the same measure of benefit—then, arguably, no human right has been violated. In the context of international human rights, in short, equality of worth, dignity and respect demands, not special treatment or even equal treatment, but treatment as an equal. It would be as unfair, from this perspective, to say that the disability is determinative of health resource allocation as it would to say that disability is irrelevant. The dilemma, in short, remains.
+    step1: |-
+      不幸的是，人权话语对失能倡导者本已强有力的论证——反对配给决策中的事前偏见或污名——帮助不大；而该论证对更大的问题，即失能是否应当要紧、若应当又以何种方式要紧所造成的两难，毫无影响。就联合国《公约》而言，所设定的人权并不是仅限失能者的特殊权利——那种权利例如会直接影响医疗资源分配，使之偏向或不偏向失能者。相反，医疗资源权利被明确表述为获得“与其他人同等范围、同等质量与同等标准的照护”的权利。只要失能者在配给方案中与他人受到同等对待——服从同样的 CEA 策略或平等主义原则，并按同样的收益度量加以补足——那么可以说，就没有任何人权遭到侵犯。简言之，在国际人权语境中，价值、尊严与尊重的平等要求的是平等待人，而非特殊待遇，甚至不是同等对待。从这个视角看，说失能决定医疗资源分配，与说失能无关，都一样不公平。简言之，两难依然存在。
+    step2: |-
+      不幸的是，人权话语对失能倡导者本已强有力的论证——反对配给决策中的事前偏见或污名——帮助不大；而该论证对更大的问题，即失能是否应当要紧、若应当又以何种方式要紧所造成的两难，毫无影响。就联合国《公约》而言，所设定的人权并不是仅限失能者的特殊权利——那种权利例如会直接影响医疗资源分配，使之偏向或不偏向失能者。相反，医疗资源权利被明确表述为获得“与其他人同等范围、同等质量与同等标准的照护”的权利。只要失能者在配给方案中与他人受到同等对待——服从同样的 CEA 策略或平等主义原则，并按同样的收益度量补足——那么可以说，就没有任何人权遭到侵犯。简言之，在国际人权语境中，价值、尊严与尊重的平等要求的是平等待人（treatment as an equal），而非特殊待遇，甚至不是同等对待（equal treatment）。从这个视角看，说失能决定医疗资源分配，与说失能无关，都一样不公平。简言之，两难依然存在。
+  - id: 85
+    kind: body
+    source: |-
+      ## 4. A persistent dilemma?
+    step1: |-
+      ## 4. 挥之不去的两难？
+    step2: |-
+      ## 4. 挥之不去的两难？
+  - id: 86
+    kind: body
+    source: |-
+      Currently, the dilemma posed by whether, and how, disability should be taken into account for health allocation remains unsolved, although it frequently appears in the distributive justice literature as a test case for some variant of egalitarianism or a refined version of CEA. Even if the dilemma is resolved, additional problems arise. If we decide that disability is always a relevant allocation consideration, then on the way to tackling the larger question of what the impact of disability should be the question of comparability of varieties of disability looms larger. It has recently been suggested that the so-called “indexing problem” created by the incommensurable components of human disadvantage (Woff and De-Shalit 2007), which prevents any meaningful comparison between people experiencing very different forms of social disadvantage is compounded when trying to compare people with different disabilities. Comparing lower body paralysis with deafness is hard enough, but two people both of whom are paraplegic may experience it in vastly different ways depending on the availability of wheelchairs and accommodations such as accessible public buildings (Riddle 2014)[^riddle-2014]. If we decide that disability should never matter, then it is difficult to see why any consideration of either cost or benefit, unrelated to disability, could also be justified. If so, then the only survivable allocation procedure would be random allocation, which is highly counter-intuitive as a solution to head-to-head individual allocation decisions, let alone a general allocation policy.
+    step1: |-
+      目前，失能是否应当在医疗分配中被纳入考量、以及如何纳入，这一两难仍未解决；不过它频繁出现在分配正义文献中，作为检验某种平等主义变体或精细化 CEA 的测试案例。即便两难得以化解，还有别的问题冒出来。如果我们判定失能始终是相关的分配考量，那么在着手处理“失能的影响应当为何”这一更大问题的路上，各类失能之间的可比较性问题会愈发突出。近来有人指出，人类不利处境各成分不可通约所造成的所谓“标引问题”（Woff and De-Shalit 2007），本就使经历极为不同社会不利处境的人之间无法作有意义的比较；在试图比较有不同失能的人时，这一问题更加严重。把下肢瘫痪与失聪相比较已经够难，但两个同为截瘫的人，其体验可能因轮椅与无障碍公共建筑等便利之有无而大相径庭（Riddle 2014）[^riddle-2014]。如果我们判定失能永远不应要紧，那就很难看出，任何与失能无关的成本或收益考量又如何能站得住。若真如此，唯一还能存活的分配程序就是随机分配——作为个体间正面分配决策的解决办法，这已极违直觉，更不用说作为一般分配政策了。
+    step2: |-
+      目前，失能是否应当在医疗分配中被纳入考量、以及如何纳入，这一两难仍未解决；不过它频繁出现在分配正义文献中，作为检验某种平等主义变体或精细化 CEA 的测试案例。即便两难得到化解，还有别的问题冒出来。如果我们判定失能始终是相关的分配考量，那么在着手处理“失能的影响应当为何”这一更大问题的路上，各类失能之间的可比较性问题会愈发突出。近来有人指出，人类不利处境各成分不可通约所造成的所谓“标引问题”（Woff and De-Shalit 2007），本就使经历极为不同社会不利处境的人之间无法作有意义的比较；在试图比较有不同失能的人时，这一问题更加严重。把下肢瘫痪与失聪相比较已经够难，但两个同为截瘫的人，其体验可能因轮椅与无障碍公共建筑等便利之有无而大相径庭（Riddle 2014）[^riddle-2014]。如果我们判定失能永远不应要紧，那就很难看出，任何与失能无关的成本或收益考量又如何能站得住。若真如此，唯一还能存活的分配程序就是随机分配——作为个体间正面分配决策的解决办法，这已极违直觉，更不用说作为一般分配政策了。
+  - id: 87
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      请与作者联系，以提供建议。
+    step2: |-
+      请与作者联系，以提供建议。

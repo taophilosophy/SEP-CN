@@ -44,4 +44,5 @@ disability-care-rationing 11,647（在途续译）→ disability 11,738 → diet
 
 * 对账完成：92 条定性（见 §一），异常从 19 收窄到 1 件在途。
 * PROGRESS.md 与 specs/005 批账本 d 注已同步。
-* disability-care-rationing 续译收口：待本条目的 lq 守恒（残余=0）、compose、s1–s3 四检完成后回填。
+* **disability-care-rationing 收口**（本会话唯一实质纠正项）：账本 87 段补齐（44–87 段直译；1–43 段 D-main-20261107 遗产经体例改白话直笔，西文术语 *ex ante*／*ex post* 恢复斜体、中文斜体 2 处去斜体）→ lq 守恒 HARD=0（段数/kind/source 逐字符、脚注键与 `$` 守恒；段 32 的 `**` 增粗缺陷废稿改写为「健康只有一个维度」）→ compose 写回 33,837 字符 → s1 数字/编号零差、尾节齐 → s2 `check_prose` 47→22（实修 25 处：长句拆分 14、双重被字 6、弱动词 2、as-one 2、的链 1；余 22 条逐条豁免留痕：12 条 70–76 字论证句 + 10 条术语密集的链）→ s3 `check_style` 0 / `check_math` 0 / `check_academic --strict` 0 硬错误 / `check_summary` H1 一致；尾节后处理 4 项（参考文献标题汉化并补照录声明、相关词条 2 项改 SUMMARY 主名形、有序列表缩进规范化 5 处）。术语登记 15 行、人名 4 行。状态机 cleared→drafted→s1→s2→s3 各步凭证齐，`check_all` 7/7 全绿。
+* 余下 11 条 s3_checked 的 r1–r3 与前述 3 项体例/语言遗留，按 §三 交评审线与 QA 返工线；D 批待译 69 条（1,164,553 词）按 §四 体量升序续译。

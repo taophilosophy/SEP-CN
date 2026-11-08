@@ -17,10 +17,12 @@
 | Addams, Jane | — | 简·亚当斯 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Adolf Reinach | — | 阿道夫·莱纳赫 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Agathon | — | 阿伽通 | — | — | diodorus-cronus | 学界通行汉译（古希腊悲剧诗人，亚里士多德《尼各马可伦理学》1139b10 所引）；凭证 2026-11-07 | 2026-11-07 |
+| Ailly, Peter of | — | 阿伊的彼得 | buridan | 学界通行汉译（15 世纪巴黎神学家）；凭证 2026-11-08 | 2026-11-08 |
 | Ammonius Saccas | — | 阿摩尼乌斯·萨卡斯 | — | — | neoplatonism | 学界通行汉译（3 世纪亚历山大里亚哲学家，普罗提诺之师）；与赫尔米亚的阿莫尼俄斯（Ammonius Hermeiou）异人 | 2026-11-07 |
 | Antisthenes | — | 安提斯泰尼 | — | — | diodorus-cronus | 学界通行汉译（苏格拉底派哲学家，犬儒派先驱）；凭证 2026-11-07 | 2026-11-07 |
 | Apollonius Cronus | — | 阿波罗尼俄斯·克罗诺斯 | — | — | diodorus-cronus | 学界通行汉译（昔兰尼人，狄奥多罗斯之师，“克罗诺斯”绰号所自出）；凭证 2026-11-07 | 2026-11-07 |
 | Aristophanes | — | 阿里斯托芬 | — | — | diodorus-cronus | 学界千年通行汉译（古希腊喜剧作家，《云》658 以下论名词性别）；凭证 2026-11-07 | 2026-11-07 |
+| Asch, Adrienne | — | 阿德里安娜·阿施 | — | — | disability-care-rationing | 学界通行汉译（生物伦理与失能研究）；正文本条仅以姓「阿施」出现；凭证 2026-11-08 | 2026-11-08 |
 | Auriol, Peter | — | 彼得·奥雷奥利 | — | — | auriol | SUMMARY 定名沿用（本词条主词） | 2026-11-07 |
 | Aëtius | — | 埃提乌斯 | — | — | 首现（xenophanes） | 学界通行汉译（古希腊学说汇编者）；凭证 2026-11-07 | 2026-11-07 |
 | Alain LeRoy Locke | — | 阿兰·勒罗伊·洛克 | — | — | alexander-crummell | 学界通行汉译（SUMMARY 定名沿用，alain-locke 词条既名） | 2026-11-07 |
@@ -63,6 +65,7 @@
 | Bailey, Samuel | — | 塞缪尔·贝利 | — | — | 语料回收（molyneux-problem 首译） | 学界通行汉译（苏格兰常识学派，Mill 论战对象）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Basil | — | 巴西尔 | — | — | neoplatonism | 学界通行汉译（卡帕多西亚教父，该撒利亚主教；亦作“大巴西尔”） | 2026-11-07 |
 | Batterman, Robert | — | 罗伯特·巴特曼 | — | — | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| Batteux, Charles | — | 夏尔·巴托 | — | — | hume-aesthetics | 学界通行汉译（18 世纪法国美学家，“美的艺术”体系提出者，Abbé Charles Batteux）；待 specs/008 审定库复核 | 2026-11-08 |
 | Bauer, Bruno | — | 布鲁诺·鲍威尔 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Bayle, Pierre | — | 皮埃尔·培尔 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Beckner, Morton | — | Morton Beckner（现代学者，保留英文） | — | — | biology-philosophy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
@@ -79,6 +82,7 @@
 | Bloch, Karola | — | 卡罗拉·布洛赫 | — | — | bloch | 学界通行音译；凭证 2026-11-07 | 2026-11-07 |
 | Bloch-von Stritzki, Else | — | 埃尔斯·布洛赫-冯·施特里茨基 | — | — | bloch | 学界通行音译；凭证 2026-11-07 | 2026-11-07 |
 | Boethius, Anicius Manlius Severinus | — | 亚尼修·玛理乌斯·塞味利诺·波爱修斯 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
+| Bognar, Greg | — | 格雷格·博格纳 | — | — | disability-care-rationing | 学界通行汉译（卫生分配正义研究）；首现括注；凭证 2026-11-08 | 2026-11-08 |
 | Bohm, David | — | 大卫·玻姆 | — | — | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Bohr, Niels | — | 玻尔 | — | — | 语料回收（lakatos 首译） | 物理学界千年通行汉译（丹麦物理学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Bonaventure | — | 波纳文图拉 | — | — | 语料回收（marsilius-inghen 首译） | 学界千年通行汉译（中世纪神学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
@@ -89,8 +93,11 @@
 | Bouty, Edmond | — | 埃德蒙·布蒂 | — | — | duhem | 学界惯例（物理学史通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Boniface IX | — | 卜尼法斯九世 | — | — | 语料回收（marsilius-inghen 首译） | 教皇通译惯例（教皇名从天主教传统译名）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Bradley, Francis Herbert | — | 弗朗西斯·赫伯特·布拉德雷 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
+| Bradwardine, Thomas | — | 托马斯·布拉德沃丁 | buridan | 学界通行汉译（14 世纪英格兰神学家、逻辑学家）；凭证 2026-11-08 | 2026-11-08 |
 | Brandon, Robert | — | 罗伯特·布兰登 | — | — | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Brian Leftow | — | 布莱恩·莱夫托 | — | — | 语料回收（全目录） | 学界惯例（宗教哲学/时间哲学）；凭证 2026-11-01 | 2026-11-01 |
+| Brito, Radulphus | — | 拉杜尔夫·布里托 | buridan | 学界通行音译（13 世纪语法学家）；凭证 2026-11-08 | 2026-11-08 |
+| Brock, Dan | — | 丹·布罗克 | — | — | disability-care-rationing | 学界通行汉译（生物伦理，CEA 与失能配给论争核心作者）；首现括注；凭证 2026-11-08 | 2026-11-08 |
 | Brooks, Rodney | — | 罗德尼·布鲁克斯 | — | — | bodily-awareness | 学界通行汉译（具身人工智能研究者）；凭证 2026-11-07 | 2026-11-07 |
 | Brouwer, Luitzen Egbertus Jan | — | 勒伊岑·艾赫贝特斯·扬·布劳威尔 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Bruce Bridgeman | — | 布里奇曼（首现括注 Bruce Bridgeman） | — | — | action-perception | 学界通行汉译；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
@@ -98,6 +105,7 @@
 | Buddha | — | 佛陀 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Burgess, John P. | — | John P. Burgess（现代学者，保留英文） | — | — | deductivism-mathematics | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Buridan, John [Jean] | — | 让·布里丹（正文简作“布里丹”） | — | — | duhem | SUMMARY 定名沿用（学界通行汉译；SUMMARY b/buridan 行）；凭证 2026-11-06 | 2026-11-06 |
+| Burley, Walter | — | 沃尔特·伯利 | buridan | 学界通行汉译（14 世纪英格兰逻辑学家）；凭证 2026-11-08 | 2026-11-08 |
 | Butler, Joseph | — | 约瑟夫·巴特勒 | — | — | bradley-moral | 学界通行汉译（英国道德哲学家）；凭证 2026-11-08 | 2026-11-08 |
 | Bājjah, Ibn | — | 伊本·巴哲 | — | — | arabic-islamic-mysticism | 阿拉伯哲学通行汉译（拉丁名 Avempace） | 2026-11-07 |
 | Callimachus | — | 卡利马科斯 | — | — | diodorus-cronus | 学界通行汉译（亚历山大里亚诗人，警句诗涉狄奥多罗斯）；凭证 2026-11-07 | 2026-11-07 |
@@ -107,9 +115,13 @@
 | Alan of Lille | — | 里尔的阿兰 | 法国／经院神学 | c. 1128–1202 | analogy-medieval | 中世纪神学通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Alexander of Hales | — | 黑尔斯的亚历山大 | 英格兰／方济各会经院神学 | c. 1185–1245 | analogy-medieval | 中世纪神学通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Gilbert of Poitiers | — | 普瓦捷的吉尔伯特 | 法国／经院神学 | c. 1080–1154 | analogy-medieval | 中世纪神学通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| Helias, Peter | — | 彼得·赫利亚斯 | buridan | 学界通行音译（12 世纪语法学家）；凭证 2026-11-08 | 2026-11-08 |
 | Mastrius, Bartolomaeus | — | 巴尔托洛梅乌斯·马斯特里乌斯 | 意大利／方济各会司各脱主义 | 1602–1673 | analogy-medieval | 司各脱主义研究通行音译；凭证 2026-11-08 | 2026-11-08 |
 | Nicholas of Paris | — | 巴黎的尼古拉 | 法国／经院逻辑 | 13 世纪 | analogy-medieval | 中世纪逻辑研究通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| Ockham, William of | — | 奥卡姆的威廉 | buridan | 学界千年通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| Odo, Gerald of | — | 奥多的杰拉尔德 | buridan | 学界通行音译（14 世纪方济各会神学家）；凭证 2026-11-08 | 2026-11-08 |
 | Philip the Chancellor | — | 菲利普校长 | 法国／经院神学 | c. 1160–1236 | conscience；analogy-medieval | 中世纪哲学通行（13 世纪巴黎圣母院学校校长；音译兼职衔；亦作“校长腓力”“尚塞利耶的菲利普”）；重复行合并 2026-11-08；凭证 2026-11-08 | 2026-11-08 |
+| Stein, Michael | — | 迈克尔·斯坦 | — | — | disability-care-rationing | 学界通行汉译（法学与分配正义，功利主义辩护）；首现括注；凭证 2026-11-08 | 2026-11-08 |
 | Sutton, Thomas | — | 托马斯·萨顿 | 英格兰／托马斯主义 | c. 1250–1315 | analogy-medieval | 中世纪哲学研究通行音译；凭证 2026-11-08 | 2026-11-08 |
 | Sylvester of Ferrara, Francis | — | 费拉拉的弗朗西斯·西尔维斯特 | 意大利／托马斯主义 | 1474–1528 | analogy-medieval | 托马斯主义研究通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Prierias, Sylvester Mazzolini | — | 西尔维斯特·马佐里尼·普里埃里亚斯 | 意大利／多明我会 | 1456–1523 | analogy-medieval | 宗教改革史通行音译；凭证 2026-11-08 | 2026-11-08 |
@@ -193,6 +205,7 @@
 | Dred Scott | — | 德雷德·斯科特 | — | — | alexander-crummell | 德雷德·斯科特案通行汉译 | 2026-11-07 |
 | Duan Yucai | — | 段玉裁 | — | — | dai-zhen | 上游自带汉字；学界通行（戴震弟子，《说文解字注》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Duhem, Hélène | Hélène Duhem | 埃莱娜（迪昂之女） | — | — | duhem | 学界惯例（迪昂家人名音译）；凭证 2026-11-06 | 2026-11-06 |
+| Dubos, Jean-Baptiste | — | 让-巴蒂斯特·杜博 | — | — | hume-aesthetics | 学界通行汉译（18 世纪法国美学家，Abbé Jean-Baptiste Dubos）；待 specs/008 审定库复核 | 2026-11-08 |
 | Duns Scotus | — | 邓斯·司各脱（亦作“司各脱”） | — | — | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
 | Duran, Simeon ben Zemah | — | 西蒙·本·泽马·杜兰 | — | — | albo-joseph | 犹太哲学史通行音译 | 2026-11-07 |
 | Eagleton, Terry | — | 特里·伊格尔顿 | — | — | bloch | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
@@ -526,6 +539,7 @@
 | Turing, Alan | — | 阿兰·图灵 | — | — | deductivism-mathematics | 学界千年通行汉译（丘奇—图灵论题）；凭证 2026-11-08 | 2026-11-08 |
 | Van Vleck, John | — | 约翰·范弗莱克 | — | — | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Vattimo, Gianni | — | 詹尼·瓦蒂莫 | — | — | bloch | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| Vaudemont, Nicholas of | — | 尼古拉·德·沃德蒙 | buridan | 学界通行音译（14 世纪巴黎艺学硕士）；凭证 2026-11-08 | 2026-11-08 |
 | Vladimir Lenin | — | 弗拉基米尔·列宁 | — | — | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Vitoria, Francisco de | — | 弗朗西斯科·德·维多利亚 | — | — | 语料回收（marsilius-inghen 首译） | 西班牙经院哲学通行汉译（萨拉曼卡学派创始人）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Urban VI | — | 乌尔班六世 | — | — | 语料回收（marsilius-inghen 首译） | 教皇通译惯例；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
@@ -1426,6 +1440,34 @@
 | Price, Uvedale | — | 尤维代尔·普赖斯 | — | — | aesthetics-18th-british | 学界通行（《如画之美》作者） | 2026-11-06 |
 | Shaftesbury, 3rd Earl of | — | 沙夫茨伯里 | — | — | aesthetics-18th-british | 学界通行（Anthony Ashley Cooper，内在感官说先驱；正文以爵号行文） | 2026-11-06 |
 | Sibley, Frank | — | 弗兰克·西布利 | — | — | aesthetics-18th-british | 学界通行（审美概念不可推理论） | 2026-11-06 |
+| Townsend, Dabney | — | 达布尼·汤森 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Costelloe, Timothy M. | — | 蒂莫西·科斯特洛 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Home, Henry | — | 亨利·霍姆 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Jones, Peter | — | 琼斯 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者；正文以姓行文）；凭证 2026-11-08 | 2026-11-08 |
+| Grant, James | — | 詹姆斯·格兰特 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Hester, Marcus | — | 赫斯特 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Dickie, George | — | 迪基 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Shiner, Roger A. | — | 夏纳 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Savile, Anthony | — | 萨维尔 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Mothersill, Mary | — | 马瑟希尔 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Levinson, Jerrold | — | 莱文森 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Baxter, Donald L. M. | — | 巴克斯特 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Korsmeyer, Carolyn | — | 卡罗琳·科尔斯梅耶 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Stanhope, Philip | — | 菲利普·斯坦霍普 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Kulenkampff, Jens | — | 库伦坎普夫 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Noxon, James | — | 诺克森 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Carroll, Noël | — | 卡罗尔 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Gracyk, Theodore | — | 格拉西克 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Baceski, Tina | — | 巴切斯基 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Wieand, Jeffrey | — | 维兰德 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Guyer, Paul | — | 保罗·盖耶 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Ross, Stephanie | — | 斯蒂芬妮·罗斯 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Galgut, Elisa | — | 加尔古特 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Durà-Vilà, Víctor | — | 维克托·杜拉-维拉 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Ogilby, John | — | 约翰·奥格尔比 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Rowe, Nicholas | — | 尼古拉斯·罗 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Taylor, Jacqueline | — | 泰勒 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者；正文以姓行文）；凭证 2026-11-08 | 2026-11-08 |
+| Brown, Stuart Gerry | — | 布朗 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者；正文以姓行文）；凭证 2026-11-08 | 2026-11-08 |
 | Armogathe, Jean-Robert | — | 让-罗贝尔·阿尔莫加特 | — | — | descartes-works | 音译（笛卡尔研究中心，巴黎天主教大学） | 2026-11-06 |
 | Arnauld, Antoine | — | 安托万·阿尔诺 | — | — | descartes-works | 学界通行汉译（《波尔罗亚尔逻辑》作者之一，笛卡尔诘难人） | 2026-11-06 |
 | Baillet, Adrien | — | 巴耶 | — | — | descartes-works | 学界通行（笛卡尔早期传记作者） | 2026-11-06 |
@@ -2046,3 +2088,9 @@
 | Flasch, Kurt | — | 库尔特·弗拉施 | — | — | condemnation | 学界惯例（音译，维尔茨堡中世纪哲学史家）；凭证 2026-11-08 | 2026-11-08 |
 | Wielockx, Robert | — | 罗伯特·维洛克克斯 | — | — | condemnation | 学界惯例（音译，吉尔斯《辩护篇》校订者）；凭证 2026-11-08 | 2026-11-08 |
 | Peter of Auvergne | — | 奥弗涅的彼得 | — | — | condemnation | 依地名冠称（13 世纪艺学硕士，后继奥弗涅的威廉为巴黎主教）；凭证 2026-11-08 | 2026-11-08 |
+| Thagard, Paul | — | 保罗·萨加德 | — | — | truth-coherence | 学界惯例（认知科学家/科学哲学家，音译）；凭证 2026-11-08 | 2026-11-08 |
+| Iemhoff, Rosalie | — | 罗莎莉·伊姆霍夫 | — | — | truth-coherence | 学界惯例（直觉主义数学哲学家，音译）；凭证 2026-11-08 | 2026-11-08 |
+| Dorsey, Dale | — | 戴尔·多尔西 | — | — | truth-coherence | 学界惯例（伦理学家，音译）；凭证 2026-11-08 | 2026-11-08 |
+| Knight, Carl | — | 卡尔·奈特 | — | — | truth-coherence | 学界惯例（反思平衡研究者，音译）；凭证 2026-11-08 | 2026-11-08 |
+| Walker, Ralph C. S. | — | 拉尔夫·C·S·沃克 | — | — | truth-coherence | 学界通行汉译（《真理融贯论》作者）；凭证 2026-11-08 | 2026-11-08 |
+| Young, James O. | — | 詹姆斯·O·杨 | — | — | truth-coherence | 学界惯例（本词条作者，音译）；凭证 2026-11-08 | 2026-11-08 |
