@@ -1,0 +1,969 @@
+version: 1
+slug: intuitionism-ethics
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      [*Editor’s Note: The following new entry by Matt Bedke replaces the [former entry](https://plato.stanford.edu/archives/sum2026/entries/intuitionism-ethics/) on this topic by the previous author.*]
+    step1: |-
+      [*编者按：以下由 Matt Bedke 撰写的新词条，取代前一位作者就本主题所写的[旧词条](https://plato.stanford.edu/archives/sum2026/entries/intuitionism-ethics/)。*]
+    step2: |-
+      [*编者按：本词条为 Matt Bedke 新撰，取代前作者就同一主题所写的[旧词条](https://plato.stanford.edu/archives/sum2026/entries/intuitionism-ethics/)。*]
+  - id: 2
+    kind: body
+    source: |-
+      What would philosophical ethics be without intuitions? Consider the following sample of cases and propositions, which are meant to elicit an intuitive response.
+    step1: |-
+      倘若没有直觉，哲学伦理学将会是什么样子？请考虑下面这组案例与命题，它们旨在引出直觉性的回应。
+    step2: |-
+      没有直觉，哲学伦理学将会是什么样子？请看下面这组案例与命题——它们都是为了引出直觉回应而设的。
+  - id: 3
+    kind: body
+    source: |-
+      **1.**
+    step1: |-
+      **1.**
+    step2: |-
+      **1.**
+  - id: 4
+    kind: body
+    source: |-
+      A. A trolley is bearing down on five innocent people tied to the track. There is a side track that only has one innocent person tied to it. You are standing in front of a switch that will turn the trolley onto the side track. If you do not flip the switch the trolley will hit and kill the innocent five. If you flip the switch, the trolley will hit and kill the innocent one. Intuitively, is it permissible to flip the switch?
+    step1: |-
+      A. 一辆电车正冲向被绑在轨道上的五名无辜者。有一条岔道，上面只绑着一名无辜者。你站在一个转辙器前，它能把电车转到岔道上。如果你不扳动转辙器，电车将撞死那五名无辜者；如果你扳动它，电车将撞死那一名无辜者。直觉上，扳动转辙器是许可的吗？
+    step2: |-
+      A. 一辆电车正冲向被绑在轨道上的五名无辜者。旁边有一条岔道，上面只绑着一名无辜者。你站在一个能把电车转上岔道的转辙器前：不扳，电车会撞死那五名无辜者；扳了，电车会撞死那一名无辜者。直觉上，扳动转辙器是许可的吗？
+  - id: 5
+    kind: body
+    source: |-
+      **B.**
+    step1: |-
+      **B.**
+    step2: |-
+      **B.**
+  - id: 6
+    kind: body
+    source: |-
+      A trolley is bearing down on five innocent people tied to the track. You are standing on a footbridge over the trolley next to one large man. If you do not push the large man onto the tracks, the trolley will hit and kill the innocent five. If you push the large man onto the tracks, the trolley will hit and kill him before coming to a stop and the other five will live. Intuitively, is it permissible to push the large man onto the tracks? (Thomson 1985)[^thomson-1985].
+    step1: |-
+      一辆电车正冲向被绑在轨道上的五名无辜者。你站在电车上方的一座天桥上，身旁是一名体格魁梧的男子。如果你不把他推下轨道，电车将撞死那五名无辜者；如果你把他推下轨道，电车会撞死他并就此停下，另外五人则得以活命。直觉上，把他推下轨道是许可的吗？（Thomson 1985）[^thomson-1985]
+    step2: |-
+      一辆电车正冲向被绑在轨道上的五名无辜者。你站在跨越轨道的天桥上，身旁是一名体格魁梧的男子。不把他推下去，电车会撞死那五名无辜者；把他推下去，电车会先撞死他、随即停下，另外五人便可活命。直觉上，把他推下轨道是许可的吗？（Thomson 1985）[^thomson-1985]
+  - id: 7
+    kind: body
+    source: |-
+      **2.**
+    step1: |-
+      **2.**
+    step2: |-
+      **2.**
+  - id: 8
+    kind: body
+    source: |-
+      A. You could donate $5 to charity to save one innocent child half way around the world. Or you could decline to donate and go about your day. Intuitively, is it permissible to decline to donate?
+    step1: |-
+      A. 你可以向慈善机构捐款 5 美元，以拯救地球另一端的一名无辜儿童。或者，你也可以不捐，照常过自己的日子。直觉上，不捐是许可的吗？
+    step2: |-
+      A. 你可以捐 5 美元给慈善机构，救活地球另一端的一名无辜儿童；也可以不捐，照常过自己的日子。直觉上，不捐是许可的吗？
+  - id: 9
+    kind: body
+    source: |-
+      **B.**
+    step1: |-
+      **B.**
+    step2: |-
+      **B.**
+  - id: 10
+    kind: body
+    source: |-
+      You are walking through the park and you notice a child drowning in a pond. If you decline to rescue the child will die. If you rescue the child will live but it will cost you $5 to clean your shoes. Intuitively, is it permissible to decline to rescue?
+    step1: |-
+      你正穿过公园，注意到一个孩子正在池塘里溺水。如果你不去救，孩子会死；如果你去救，孩子会活下来，但你要花 5 美元清洗鞋子。直觉上，不去救是许可的吗？
+    step2: |-
+      你穿过公园，看见一个孩子正在池塘里溺水。不去救，孩子会死；去救，孩子能活，但你要花 5 美元刷鞋。直觉上，不去救是许可的吗？
+  - id: 11
+    kind: body
+    source: |-
+      **C.**
+    step1: |-
+      **C.**
+    step2: |-
+      **C.**
+  - id: 12
+    kind: body
+    source: |-
+      Consider: the physical proximity of a potential beneficiary is not directly morally relevant. Intuitively true? (Singer 1972)[^singer-1972].
+    step1: |-
+      考虑：潜在受益者的物理邻近性并不直接具有道德相关性。直觉上为真吗？（Singer 1972）[^singer-1972]
+    step2: |-
+      考虑这一命题：潜在受益者与你的物理距离，并不直接具有道德相关性。直觉上为真吗？（Singer 1972）[^singer-1972]
+  - id: 13
+    kind: body
+    source: |-
+      **3.**
+    step1: |-
+      **3.**
+    step2: |-
+      **3.**
+  - id: 14
+    kind: body
+    source: |-
+      World W₁ has ten billion people all with a high quality of life. Let the aggregate welfare in W₁ be *n*. World W₂ has many, many more people all with lives barely worth living. The aggregate welfare in W₂ is much greater than *n*, for the lesser welfare of each person is more than made up for by the sheer number of people. Intuitively, is W₂ better than W₁? (Parfit 1984: ch. 17)[^parfit-1984].
+    step1: |-
+      世界 W₁ 有 100 亿人，全都享有高质量的生活。设 W₁ 的总福利为 *n*。世界 W₂ 有远为更多的人，全都过着勉强值得过的生活。W₂ 的总福利远大于 *n*，因为每个人较少的福利被其庞大的人数所远远补偿。直觉上，W₂ 比 W₁ 更好吗？（Parfit 1984: 第 17 章）[^parfit-1984]
+    step2: |-
+      世界 W₁ 有 100 亿人，人人都过着高质量的生活，设其总福利为 *n*。世界 W₂ 的人数多得多，人人过着勉强值得一过的生活；其总福利远大于 *n*，因为人多势众，足以远远补偿每个人所享有的较少福利。直觉上，W₂ 比 W₁ 更好吗？（Parfit 1984: 第 17 章）[^parfit-1984]
+  - id: 15
+    kind: body
+    source: |-
+      **4.**
+    step1: |-
+      **4.**
+    step2: |-
+      **4.**
+  - id: 16
+    kind: body
+    source: |-
+      Consider: One has a *prima facie* duty to fulfill one’s promises (alternatively put, that one has promised to *phi* is a (moral) reason to *phi*) (Ross 1930: ch.2)[^ross-1930]. Intuitively true?
+    step1: |-
+      考虑：一个人有 *prima facie* 义务去履行自己的承诺（换个说法：某人曾承诺去做 φ，这构成去做 φ 的（道德）理由）（Ross 1930: 第 2 章）[^ross-1930]。直觉上为真吗？
+    step2: |-
+      考虑这一命题：人有 *prima facie*（初显的）义务去履行自己的承诺；换个说法，某人曾承诺去做 φ，这本身即是去做 φ 的一条道德理由（Ross 1930: 第 2 章）[^ross-1930]。直觉上为真吗？
+  - id: 17
+    kind: body
+    source: |-
+      **5.**
+    step1: |-
+      **5.**
+    step2: |-
+      **5.**
+  - id: 18
+    kind: body
+    source: |-
+      Consider: if *a* is better than *b*, and *b* is better than *c*, then *a* is better than *c*. Intuitively true?
+    step1: |-
+      考虑：若 *a* 优于 *b*，且 *b* 优于 *c*，则 *a* 优于 *c*。直觉上为真吗？
+    step2: |-
+      考虑这一命题：若 *a* 优于 *b*，*b* 优于 *c*，则 *a* 优于 *c*。直觉上为真吗？
+  - id: 19
+    kind: body
+    source: |-
+      When people have intuitive responses, it is thought that the intuitions provide some epistemic support for that which is intuitive. But there are good questions about what intuitions are and what the nature of the epistemic support is meant to be.
+    step1: |-
+      当人们产生直觉反应时，人们认为直觉为直觉所及之物提供了某种认知支持。但关于直觉究竟是什么、以及这种认知支持的本性应当如何理解，都还存在一些真问题。
+    step2: |-
+      人一旦产生直觉回应，通常便认为该直觉为直觉所及之物提供了某种认知支持。然而，直觉究竟是什么？这种支持又究竟属于何种性质？这些都仍是值得追问的真问题。
+  - id: 20
+    kind: body
+    source: |-
+      To approach these issues, we begin with the history of Ethical Intuitionism in section 1. Section 2 discusses moral epistemologies that give a significant role to self-evident moral propositions. Section 3 discusses moral epistemologies that identify intuitions as seeming states that play a foundational epistemic role. Section 4 discusses the role of intellectual apprehension in some intuitional theories. Section 5 discusses the role of conceptual competence. Section 6 discusses psychological theories that locate intuitions in fast cognitive processes psychologists refer to system 1 processing. Section 7 discusses a host of challenges to intuitions and their epistemic roles.
+    step1: |-
+      为处理这些问题，我们先从第 1 节的伦理直觉主义史谈起。第 2 节讨论赋予自明道德命题以重要作用的道德认识论。第 3 节讨论把直觉认定为发挥基础性认知作用的显象状态的道德认识论。第 4 节讨论理智领悟在某些直觉理论中的作用。第 5 节讨论概念能力的作用。第 6 节讨论那些把直觉定位在心理学家称为“系统 1 加工”的快速认知过程中的心理学理论。第 7 节讨论对直觉及其认知作用的一大堆挑战。
+    step2: |-
+      为处理这些问题，本文先在第 1 节梳理伦理直觉主义的历史；第 2 节讨论赋予自明道德命题以重要地位的道德认识论；第 3 节讨论把直觉视为发挥基础性认知作用的显象状态的道德认识论；第 4 节讨论理智领悟在某些直觉理论中的角色；第 5 节讨论概念能力的作用；第 6 节讨论那些把直觉安置在心理学家所谓“系统 1 加工”这类快速认知过程中的心理学理论；第 7 节则检视针对直觉及其认知作用的一系列挑战。
+  - id: 21
+    kind: body
+    source: |-
+      ## 1. The History of Ethical Intuitionism
+    step1: |-
+      ## 1. The History of Ethical Intuitionism
+    step2: |-
+      ## 1 伦理直觉主义史
+  - id: 22
+    kind: body
+    source: |-
+      There is a school of thought known as Ethical Intuitionism associated with some figures in British moral philosophy beginning in the late seventeenth century and up through the mid-twentieth century. Though Ethical Intuitionism introduces and elaborates on some epistemic views, it typically bundles those views with other commitments in first-order ethics and moral metaphysics. In terms of first-order ethics, it affirms a plurality of moral principles. In terms of moral metaphysics, it affirms non-naturalism for moral properties and facts. This section briefly highlights major themes of this school of thought, touching on the work of Samuel Clarke, Richard Price, H. A. Prichard, and W. D. Ross.
+    step1: |-
+      有一个思想学派被称为伦理直觉主义，它与 17 世纪末至 20 世纪中叶的一些英国道德哲学家相联系。伦理直觉主义虽然提出并阐发了一些认识论观点，但它通常把这些观点与第一阶伦理学及道德形而上学中的其他承诺捆绑在一起。就第一阶伦理学而言，它肯定道德原则的多元性；就道德形而上学而言，它肯定道德属性与道德事实的非自然主义。本节简要勾勒这一学派的主要主题，涉及 Samuel Clarke、Richard Price、H. A. Prichard 与 W. D. Ross 的工作。
+    step2: |-
+      有一个思想学派名为伦理直觉主义，与 17 世纪末至 20 世纪中叶的一批英国道德哲学家相关联。该学派固然提出并阐发了一些认识论主张，但通常把它们与第一阶伦理学、道德形而上学方面的其他承诺捆在一起：在第一阶伦理学上，它肯定道德原则的多元性；在道德形而上学上，它肯定道德属性与道德事实的非自然主义。本节简述这一学派的几个主要论题，涉及塞缪尔·克拉克（Samuel Clarke）、理查德·普莱斯（Richard Price）、H. A. 普里查德（H. A. Prichard）与 W. D. 罗斯（W. D. Ross）的工作。
+  - id: 23
+    kind: body
+    source: |-
+      Clarke wrote in the early eighteenth century, and he was largely reacting to Hobbes’s moral and political philosophy. Hobbes had argued that our moral duties are the result of a social contract. Clarke, on the other hand, thought there were moral duties that exist prior to and independently of any contract (including the duty to abide one’s contracts), and these duties ultimately rest on fundamental, necessary facts about which of our behaviors are fitting and which of them unfitting (1706 [1969: § 225]).
+    step1: |-
+      Clarke 写作于 18 世纪初，他主要是在回应霍布斯的道德与政治哲学。霍布斯论证说，我们的道德义务是社会契约的产物。Clarke 则认为，有些道德义务先于并独立于任何契约而存在（包括遵守契约的义务本身），而这些义务最终建立在关于我们哪些行为适宜、哪些不适宜的种种根本的、必然的事实之上（1706 [1969: § 225]）。
+    step2: |-
+      克拉克写作于 18 世纪初，主要针对霍布斯的道德与政治哲学。霍布斯主张，人的道德义务乃社会契约的产物；克拉克则认为，有些道德义务先于任何契约、且不依赖契约而存在（其中也包括信守契约的义务），它们最终植根于一些根本而必然的事实——关于人的哪些行为适宜、哪些不适宜的事实（1706 [1969: § 225]）。
+  - id: 24
+    kind: body
+    source: |-
+      For Clarke, there is more than one fundamental duty. There is a fundamental duty of piety to God (1706 [1969: § 240]), a fundamental duty of equity and love toward others (1706 [1969: § 241]), and a fundamental duty of self-preservation (1706 [1969: § 245]). All other duties can be derived from these fundamental ones (1706 [1969: § 245]).
+    step1: |-
+      对 Clarke 而言，根本义务不止一项：有对上帝虔敬的根本义务（1706 [1969: § 240]），有对他人公正与仁爱的根本义务（1706 [1969: § 241]），还有自我保存的根本义务（1706 [1969: § 245]）。所有其他义务都可从这些根本义务推导出来（1706 [1969: § 245]）。
+    step2: |-
+      在克拉克看来，根本义务不止一条：有对上帝虔敬的义务（1706 [1969: § 240]），有对他人持守公平与博爱的义务（1706 [1969: § 241]），还有自我保存的义务（1706 [1969: § 245]）；其余一切义务均可由这几条根本义务推出（1706 [1969: § 245]）。
+  - id: 25
+    kind: body
+    source: |-
+      In terms of epistemology, Clarke maintained that the fittingness and unfittingness of these behaviours are “self-evident” (1706 [1969: § 227]). Clarke also said that the behaviors that are fitting or unfitting will *appear* to be so to the *understandings* of all intelligent beings (1706 [1969: § 230]). As we shall see, talk of self-evidence and how things appear to the understanding are both central to discussions of contemporary intuitionism.
+    step1: |-
+      在认识论方面，Clarke 主张这些行为的适宜与不适宜是“自明的”（1706 [1969: § 227]）。Clarke 还说，适宜或不适宜的行为将会在一切智能存在者的*理智*面前*显得*如此（1706 [1969: § 230]）。我们将看到，关于自明性的谈论、以及事物如何在理智面前显现，这两者在当代直觉主义的讨论中都居于核心地位。
+    step2: |-
+      在认识论上，克拉克主张这些行为的适宜与否是“自明的”（1706 [1969: § 227]）。他还说，适宜或不适宜的行为，在一切智能存在者的 *understanding*（理智）看来都会 *appear*（显得）如此（1706 [1969: § 230]）。下文将表明，自明性之谈与“事物如何在理智面前显现”，正是当代直觉主义讨论的两大枢纽。
+  - id: 26
+    kind: body
+    source: |-
+      Let me next turn to Price, who was writing in the mid to late eighteenth century. Whereas Clarke was largely responding to Hobbes’ contractualism, Price was largely responding to the sentimentalism of philosophers like Hutcheson and Hume, and it is probably fair to characterize him as a realist about some moral duties. That is, some moral duties are independent of our attitudes and stances toward those actions that are our duties, and moral judgments about these duties are not sourced in our sentiments or other conative attitudes. Like Clarke, Price is a pluralist about basic moral duties. He believed in duties to God, duties to ourselves, duties of benevolence as well as duties of gratitude, veracity, and justice (1758 [1969: §§ 733–741]).
+    step1: |-
+      接下来谈 Price，他写作于 18 世纪中后期。Clarke 主要在回应霍布斯的契约论，而 Price 主要在回应 Hutcheson、Hume 等哲学家的情感主义；把他刻画为某些道德义务的实在论者，大概是公允的。也就是说，某些道德义务独立于我们对那些作为我们义务的行为所持的态度与立场，而关于这些义务的道德判断并不源自我们的情感或其他意动态度。与 Clarke 一样，Price 在基本道德义务上持多元论。他相信对上帝的义务、对自己的义务、仁慈的义务，以及感恩、诚实与正义的义务（1758 [1969: §§ 733–741]）。
+    step2: |-
+      下面转向普莱斯，其写作年代在 18 世纪中后期。克拉克所回应者主要是霍布斯的契约论，普莱斯所回应者则主要是哈奇森、休谟等人的情感主义；把他称为某些道德义务上的实在论者，大体公允——即某些道德义务不依赖我们对相应行为所持的态度与立场，关于这些义务的道德判断也不出自情感或其他意动态度。与克拉克一样，普莱斯在基本道德义务上持多元论，相信对上帝的义务、对自己的义务、仁慈的义务，以及感恩、诚实与正义的义务（1758 [1969: §§ 733–741]）。
+  - id: 27
+    kind: body
+    source: |-
+      According to Price, we come to know about fundamental moral duties via *understanding*, which is taken to be a rational way of knowing to be distinguished from the sentimentalists’ *moral sense*. Moreover, Price uses the term “intuition” (which Clarke did not as far as we know) and says that intuition is the use of understanding to discern the nature of things (1758 [1969: § 674]).
+    step1: |-
+      按照 Price 的看法，我们是通过*理智*来认识根本道德义务的；理智被视为一种理性的认识方式，与情感主义者的*道德感*相区别。此外，Price 使用了“直觉”一词（据我们所知 Clarke 没有用过），并说直觉就是运用理智去辨识事物的本性（1758 [1969: § 674]）。
+    step2: |-
+      按普莱斯之说，根本道德义务是凭 *understanding*（理智）认识的，而理智是一种理性的认识方式，与情感主义者的 *moral sense*（道德感）分属两途。此外，普莱斯还使用了“直觉”一词（据我们所知，克拉克未曾用过），并说直觉即运用理智去辨识事物的本性（1758 [1969: § 674]）。
+  - id: 28
+    kind: body
+    source: |-
+      The simplicity of moral properties, such as rightness and goodness, and our ideas of them, was important for many early intuitionists such as Price. He accepted the empiricist doctrine that simple ideas must be acquired by immediate intuition, as all simple ideas must “be ascribed to some power of *immediate* perception in the human mind” (1758 [1969: § 672]), i.e., either sensibility or the understanding. Consequently, the ideas of right and wrong must be immediate perceptions of either sensibility or the understanding.
+    step1: |-
+      道德属性——如正当与善——及其观念的单纯性，对 Price 等许多早期直觉主义者来说十分重要。他接受经验主义者的学说：单纯观念必须通过直接直觉获得，因为一切单纯观念都必须“被归于人类心灵中某种*直接*知觉的能力”（1758 [1969: § 672]），即要么归于感性，要么归于理智。因此，正当与错误的观念必然是感性或理智的直接知觉。
+    step2: |-
+      对普莱斯等许多早期直觉主义者而言，道德属性（如正当、善）及其观念的单纯性至关紧要。他接受经验主义的学说：单纯观念必由直接直觉获得，因为一切单纯观念都必“被归于人类心灵中某种 *immediate*（直接的）知觉能力”（1758 [1969: § 672]），亦即归于感性或理智。由此，正当与错误的观念便只能是感性或理智的直接知觉。
+  - id: 29
+    kind: body
+    source: |-
+      If right and wrong are just feelings of approval or disapproval caused in us by natural properties or objects, then the idea of right and wrong will be given by our senses, for these ideas will be merely the effect that the perception of certain things has on sensibility. If, however, right and wrong are real properties of actions, then they could not be apprehended by any empirical sense, for we have no such sensation of right and wrong when we apprehend right or wrong actions. Rather, what we “see” via the understanding is that these actions are right, or wrong. This seeing is an immediate apprehension, but it is intellectual rather than sensible.
+    step1: |-
+      若正当与错误只是由自然属性或对象在我们身上引起的赞许或不赞许之感，那么正当与错误的观念便由我们的感官给出，因为这些观念将只是对某些事物的知觉作用于感性所产生的效果。然而，若正当与错误是行为的真实属性，那么它们就不可能被任何经验性的感官所把握，因为当我们把握正当或错误的行为时，并没有这样的正当与错误之感。毋宁说，我们通过理智所“看见”的是：这些行为是正当的，或错误的。这种看见是一种直接把握，但它是理智的，而非感性的。
+    step2: |-
+      倘若正当与错误不过是由自然属性或对象在我们心中引起的赞许、不赞许之感，那么正当与错误的观念便由感官给出——它们只是知觉某物时作用于感性而产生的效果。可倘若正当与错误是行为的真实属性，它们就不可能为任何经验感官所把握，因为我们在把握正当或错误的行为时，并无相应的正当、错误之感；毋宁说，我们经由理智“看见”的是：这些行为正当，或错误。这种“看见”是一种直接把握，只是它属于理智，而非感性。
+  - id: 30
+    kind: body
+    source: |-
+      Price writes,
+    step1: |-
+      Price 写道，
+    step2: |-
+      普莱斯写道：
+  - id: 31
+    kind: body
+    source: |-
+      > It is scarcely conceivable that anyone can impartially attend to the nature of his own perceptions, and determine that, when he thinks gratitude and beneficence to be *right*, he perceives nothing *true* of them, and *understands* nothing, but only receives an impression from *sense*. (Price 1758 [1969: § 678])[^price-1758]
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      Price concedes that certain feelings may attend our apprehension of right and wrong, but these impressions are merely the consequence of our perception of right and wrong. They are not what is perceived. For Price, one approves of some act because one sees that it is right or good.
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      Running alongside these ideas about the rational apprehension of some truths, Price also appeals to appearances in a way that resembles Clarke’s appeal to appearances:
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      > Is there nothing truly wrong in the absolute and eternal misery of an innocent being?—“It *appears* wrong *to us*”.—And what reason can you have for doubting that it *is* as it *appears*? (1758 [1969: § 679])
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      Next, consider Prichard. Writing in the early and mid-twentieth century, Prichard was largely responding to the consequentialism of figures like Sidgwick and Moore. Sidgwick had characterized intuitionism as the view that right conduct is conduct that conforms to certain unconditionally binding principles (1907: book I, ch. 8), to be contrasted with a consequentialist view where right conduct is conduct that brings about good outcomes. Prichard wants to defend intuitionism so understood, largely by criticizing consequentialism. His considered positive view can be hard to discern, but he seems to think one’s moral obligations are grounded in (1) the nature of the state of affairs produced, and (2) the relations one bears to oneself or others (e.g., being a parent) (1912 [2002: 12]).
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      In terms of epistemology, Prichard maintained that knowledge of our obligations is immediate, and so not derived from premises about the goodness of the outcomes to be produced. He draws a mathematical analogy.
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      > This apprehension [of a particular moral obligation] is immediate, in precisely the sense in which a mathematical apprehension is immediate, *e.g.*, the apprehension that this three-sided figure, in virtue of its being three-sided, must have three angles. Both apprehensions are immediate in the sense that in both insight into the nature of the subject directly leads us to recognise its possession of the predicate; and it is only stating this fact from the other side to say that in both cases the fact apprehended is self-evident. (1912 [2002: 13])
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      This brief historical overview concludes with the figure most influential in contemporary debates: W. D. Ross. Ross wrote in the early to mid-twentieth century as well, and he was largely criticizing the consequentialism of G.E. Moore. Ross asked us to consider a right action like keeping a promise, and ask what *makes* it right. The consequentialist reply is that right actions are right because they produce the most good. Ross rejoined that this is not what the “plain man” really thinks. Instead, the plain man thinks that what makes the action right is that one promised to do it (1930 [2002: 17–18]).
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      Expanding on this thought, Ross thinks utilitarianism ignores morally significant relations we bear to others by assuming that the only relevant relation is that between benefactor and beneficiary. For him, that one has promised to do something, for example, is morally relevant in its own right. If it is, consequentialism is extensionally and explanatorily inadequate. Suppose I promise to help someone move apartments, but I can produce slightly more good by breaking that promise and doing something else instead. Consequentialism says I should break the promise, whereas Ross claims there are cases like this where the duty of fidelity (as he calls it) is more weighty than the duty to promote the good (a duty of beneficence) (1930 [2002: 17–18, 35]).
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      Ross posited seven “*prima facie*” duties—duties of (1) fidelity, (2) reparation, (3) gratitude, (4) justice, (5) beneficence, (6) self-improvement, and (7) non-maleficence (1930 [2002: 21]). Though he uses the term “*prima facie*”, it is generally agreed that he meant these are duties as far as they go, or *pro tanto* (1930 [2002: 19]).
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      In terms of epistemology, these duties are self-evident just like mathematical axioms or the validity of a form of inference is self-evident (1930 [2002: 29]). Price claimed that self-evident truths are “incapable of proof” (1758 [1969: § 704]). At one point Ross appears to agree, as he says self-evident moral propositions “cannot be proved, but … just as certainly need no proof” (1930 [2002: 30]). But elsewhere he makes only the more restricted claim that such propositions do not *need* any proof, which should be his considered view (1930 [2002: 29]). A self-evident proposition is one that we *can* be justified in believing without an argument, but this does not rule out the possibility that there may be such an argument, or that the proposition can be (justifiably) believed regardless of its self-evident status, as might happen were we to believe them on the basis of testimony (Audi 2004: 45)[^audi-2004].
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      In some cases there will be more than one *pro tanto* duty operative and the duties will conflict. For Ross, what one ought to do all considered in such cases is not self-evident (which might conflict with Prichard’s view), nor can it be derived from the *pro tanto* duties and their weights. To resolve conflicts of duties, one must use judgment (1930 [2002: 30–31]).
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      In addition to appealing to the idea of self-evidence, Ross also seems to think that we apprehend the truth of the self-evident principles by something like intuitive induction. That is, the epistemology starts with particular cases where the general principles are operative, and via those particular cases we come to see the truth of the generality (1930 [2002: 33]). Moreover, he thinks that ethics is unlike science in that it cannot appeal to sense experience for data in support of one ethical theory or another. Instead, “the moral convictions of thoughtful and well-educated people are the data of ethics, just as sense-perceptions are the data of natural science” (1930 [2002: 41]).
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      So much for quick historical notes. We can see that Ethical Intuitionism is a family of views where the following features are salient.
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      1. A pluralist deontology—there are several basic moral duties that are not analyzed in terms of promoting the good.
+      2. Realism about moral facts—some moral facts are independent of the attitudes or stances of any actual or hypothetical beings (and are likely non-natural or *sui generis*, too).
+      3. Cognitivism about moral judgments—moral judgments are beliefs, not desire-like attitudes.
+      4. The self-evidence of some moral propositions.
+      5. The apparent (/seeming) truth of some moral propositions.
+      6. Non-inferential justification for some moral beliefs—for some justified moral belief, *B*(*q*), the justification is not based in the justification enjoyed by some other belief, *B*(*p*), where one infers *q* from *p*.
+      7. Rationalism for some moral knowledge—some moral facts can be known *a priori* and through rational faculties, as opposed to empirical or sentimental faculties.
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      The remainder of this entry focuses on (4)–(7), which are most closely associated with intuitionism in ethics in contemporary discussions. They most directly concern epistemology, which is separable from the other ethical and metaethical views.
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      ## 2. Self-Evident Propositions
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      The notion of a self-evident proposition is a term of art in intuitionist thought, and it needs to be distinguished from certain common-sense understandings with which it may easily be conflated. The first thing to note is that a self-evident proposition is not the same as an obvious truth. To begin with, obviousness is relative to certain individuals or groups. What is obvious to you may not be obvious to me. But self-evidence is not relative in this way. A proposition cannot be self-evident to one person, but not to another. A proposition is just self-evident, not self-evident *to* someone. Secondly, there are many obvious truths that are not self-evident. Certain well-known empirical truths, for example, that if I drop a heavy object it will fall, or that the world is bigger than a football, are obvious but not self-evident. There are also self-evident propositions that may not be obvious to everyone, at least prior to reflection, e.g., that if all *A*s are *B*s and no *B*s are *C*s then no *C*s are *A*s, or that one man can be the father and grandfather of the same child.
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      What then is it for a proposition to be self-evident? Locke says that a self-evident proposition is one that “carries its own light and evidence with it, and needs no other proof: he that understands the terms, assents to it for its own sake” (1689: 1.3.4). Price tells us that a self-evident proposition is immediate, and needs no further proof, and goes on to say that self-evident propositions need only be understood to gain assent (1758 [1969: § 747]). Ross writes that a self-evident proposition is “evident without any need of proof, or of evidence beyond itself” (1930 [2002: 29]), and Broad describes self-evident propositions as being
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      > such that a rational being of sufficient insight and intelligence could see it to be true by merely inspecting it and reflecting on its terms and their mode of combination. (Broad 1936: 102–3)[^broad-1936]
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      These passages may have led to the standard account of a self-evident proposition in the contemporary literature. According to Robert Audi, a self-evident proposition is “a truth” such that
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      > an adequate understanding of it is sufficient both for being justified in believing it and for knowing it if one believes it on the basis of that understanding. (Audi 1998: 20; 1999: 206; 2004: 49; see also Audi 2008: 478)[^audi-1998][^audi-2008].
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      Similarly, Russ Shafer-Landau says
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      > A proposition *p* is self-evident = if *p* is such that adequately understanding and attentively considering just *p* is sufficient to justify believing that *p*. (Shafer-Landau 2003: 247)[^shafer-landau-2003]
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      It seems fairly clear that this is not going to be inferential justification, for it is not as though understanding plays the role of some premise from which belief in the self-evident proposition is inferred.
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      As for candidate self-evident moral propositions, many philosophers have focused on certain general moral principles. W. D. Ross, as we have seen, thought that there were seven self-evident moral duties, such as the duty to keep one’s promises. But others have suggested that verdicts on cases can be self-evident (Clarke 1706: 192; Prichard 1912 [2002: 13])[^clarke-1706][^prichard-1912].
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      One should distinguish knowing a self-evident proposition from knowing that that proposition is self-evident. The former does not imply the latter. Someone might know some self-evident proposition, such as that if *A* is better than *B* and *B* is better than *C* then *A* is better than *C*, but lack the concept of self-evidence, so couldn’t know that that proposition is self-evident. One might even know a self-evident proposition whilst endorsing a theory according to which no propositions are self-evident.
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      According to the standard account, a self-evident proposition is one which an adequate understanding of the proposition justifies us in believing it. That may sound odd. It is natural to think that justified belief requires evidence for the proposition believed, whereas adequately understanding a proposition never entails evidence for the proposition. Robert Audi has, however, recently offered an account of adequate understanding. He suggests that adequate understanding is a kind of direct apprehension of the truth-makers for the proposition, particularly concepts and relations that help make the proposition true. This, he suggests, “tends to yield an intuition,” which is the right sort of thing to justify belief (Audi 2019: 379–380)[^audi-2019].
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      Be that as it may, most recent intuitionists have shied away from relying on the notion of a self-evident proposition. Before turning to other themes, note that self-evident propositions have been characterized in terms of their *epistemic role* when what we ultimately want is some metaphysical account of self-evident propositions capable of explaining that epistemic role. Not all true propositions are such that adequate understanding justifies us in believing them. If there is a special sub-class of propositions that have these epistemic properties, plausibly they have them in virtue of their non-epistemic properties. So what are those non-epistemic properties? Some of the examples offered suggest an answer.
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      Robert Audi says the following are self-evident (but not intuitive in the sense of seeming true, at least not without reflection):
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      1. the proposition that a grandmother can give birth to her grandchild, and
+      2. the complex logical formula that if *p* entails *q*, and *q* entails *r*, and *r* entails *s*, and *s* is false, then *p* is false.
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      These seem like candidates for *analytic* propositions and formulas, and it is plausible that the analyticity of a proposition can help to explain how adequately understanding it justifies believing it (Audi 2008: 478)[^audi-2008]. However, most substantive moral propositions offered as self-evident do not strike most as analytic. Ross’s *prima facie* duties, for example, appear to be synthetic rather than analytic. And many synthetic moral propositions are not self-evident. McGrath offers a nice example:
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      > [E]ven if the proposition that it is wrong to encourage children to smoke is obvious to ordinary people in normal circumstances, it is not a good candidate for a self-evident proposition. For a person might understand the claim perfectly and yet not be justified in believing it …. (2019: 145)
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      If there are synthetic but self-evident moral propositions, it would be nice to hear about the metaphysics of those propositions and particularly the non-epistemic properties in virtue of which they are self-evident. Further consideration would bring us into debates in core analytic philosophy and questions like these: Given that there are many synthetic propositions that are not knowable *a priori*, what is it about some synthetic propositions, and what is it about our powers of understanding, that makes them knowable *a priori*? Can we explain this difference while retaining the analytic-synthetic distinction, or is that something that has to go?
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      Self-evidence is not the only way to theorize about a priori moral knowledge or justification. We now turn to an influential alternative.
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      ## 3. Intuitive Seemings
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      There are multiple kinds of mental states whereby some content can seem true. The prototypical example is perception. Looking at a green apple, it perceptually seems that this apple is green; looking at a stick dipped in water, it perceptually seems that the stick is bent. Another example is memory. Thinking back, I seem to remember locking the door to the car; I seem to remember my grandfather’s birthday. Another example is proprioceptive. Closing my eyes, I have some sense of where my limbs are. In general epistemology we see the suggestion that intuitions are just another kind of seeming state, or appearance state, distinct from these others (Bealer 1998; Pust 2000; Huemer 2006; Chudnoff 2011a, 2013, 2020; Bengson 2015)[^bealer-1998][^bengson-2015][^chudnoff-2011a][^huemer-2006][^pust-2000]. And in moral epistemology intuitionism is often associated with the idea that ethical intuitions are just intuitive seemings where the content that seems true is ethical content.
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      Just as perceptual, memorial, and proprioceptive seemings are fallible, so too intuitions qua seeming states are fallible. It can seem to you that *p* when *p* is not the case. And just as perceptual, memorial, and proprioceptive seemings are not beliefs, so too intuitions are not beliefs. You can have an intuition that *p* while failing to believe that *p*. Similarly, we can plausibly distinguish intuitions from hunches, guesses, blind impulses, vague sentiments, preferences for action, or familiar opinion (Sidgwick 1907 [1981]: 211–212)[^sidgwick-1907]. Some have suggested that intuitions are merely inclinations to believe (Williamson 2000; Sosa 2007; Earlenbaugh & Molyneux 2009)[^earlenbaugh-2009][^sosa-2007][^williamson-2000]. But the more common view is that, though intuitions might provide some categorical basis for a disposition to believe what is intuitive, we can distinguish intuitions from mere inclinations to believe. One can be inclined to belief without anything seeming to be the case in an intuitive way.
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      It is natural to wonder if there is some relation between the idea that some propositions are self-evident and seeming state theory. One thing to note is that seeming state theory is not necessarily an alternative to self-evidence theory. For it could be that when one adequately understands a self-evident proposition this manifests as a seeming state. McGrath suggests an alternative way to blend the two theories. She suggest that we characterize the self-evident in terms of seemings:
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      > The self-evident propositions are simply those propositions—if any—whose intellectually seeming true to a subject can be correctly explained by their being true. (McGrath 2019: 148)[^mcgrath-2019]
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      ### 3.1 The Epistemology of Intuitive Seemings
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      Epistemically, the idea is that all these seeming states, intuitions included, play an important epistemic role. We can follow Huemer’s nomenclature and call the epistemic principle Phenomenal Conservatism: For all *p*, if it seems to you that *p*, and if you believe that *p* based on it seeming to you that *p*, your belief is *pro tanto*, defeasibly justified (cf. Chudnoff 2011b; Huemer 2006; Pryor 2000)[^chudnoff-2011b][^huemer-2006][^pryor-2000]. This basing relation is not typically considered an inferential relation. In fact, this epistemic role is well suited to an internalist, foundationalist epistemology where seeming states are unjustified justifiers. Beliefs based on them are foundationally justified and from that foundation we can infer other beliefs that thereby enjoy inferential justification.
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      As articulated, Phenomenal Conservatism allows intuitions to justify beliefs without any externalist conditions, such as a reliable connection to the moral facts. To see this, imagine that we are being massively deceived by an evil demon (unbeknownst to us) and none of our seeming states are veridical. Still, according to the principle, we are justified in believing that things are as they seem to be. A more externalist epistemology would pay more attention to the right connections with the external facts, and it would not allow beliefs to be justified unless they had some good connection with the facts. For example, we might not want a belief to be justified unless it was produced by a reliable belief-forming process, in which case we want beliefs based on intuitions to be part of a reliable belief-forming process (Markie 2005: 356–357)[^markie-2005]. And there is nothing to prevent an epistemology of seemings that assigns some role to external connections. Shafer-Landau (2003: chs. 11–12), for example, has a moral epistemology that mixes internalist and externalist elements.
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      If we stick with Phenomenal Conservatism and its internalism, note that it underwrites a standard practice in ethics where intuitions play a central role in getting our beliefs off the ground, but best explanations, reflective equilibrium, and coherence can ultimately lead us to reject some things that were initially intuitive. Suppose we have a bunch of moral intuitions: an intuition that P, and intuition that Q,… and so on. On this basis we believe, and have some defeasible justification for believing, that P, that Q,… and so on. We can then consider what plausible theory best explains any pattern that emerges from P, Q, etc. The outcome of this process might be to ultimately reject some of P, Q, etc. But the main idea here is that intuitions legitimately feed into a respectable form of inquiry that gives intuitions some *pro tanto* and defeasible epistemic weight, much like other seeming states. And much like other seeming states, we might come to disbelieve some of the things that seem true, based on our best overall theories (as we reject the proposition that the stick in water is bent even though it appears so.)
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      Seen in this light, moral theory that relies on moral intuitions is just one domain among many where some things seem true, one thereby has some justification for believing that which seems true, and theory helps to best explain all that is true. This resonates with Ross’s position. Recall that he said “the moral convictions of thoughtful and well-educated people are the data of ethics, just as sense-perceptions are the data of natural science” (1930 [2002: 41]). Seeming state theorists simply think seeming states play this role, not the convictions of thoughtful and well-educated people.
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      ### 3.2 Intellectual vs Sentimental Seemings
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      So far, the seemings at issue have been characterized as intuitive seemings. But virtually everyone who characterizes intuitions as seeming states call them *intellectual* seemings or appearances (see, e.g., Bealer 1998; Huemer 2005: ch. 5; Bengson 2015)[^bealer-1998][^bengson-2015][^huemer-2005]. If ethical intuitions are intellectual seemings, this highlights continuity with the rationalist tradition found in Ethical Intuitionism.
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      But there are those who maintain that some ethical intuitions are *sentimental* seemings. Sabine Roeser, for example, defends what she calls *affectual intuitionism*, which is the view that moral emotions are felt value judgments that provide epistemic access to objective moral truths (2011: ch. 5). To be clear, though she uses the term “intuitionism”, she does not think that ethical intuitions are non-doxastic states. For her, moral emotions are partly constituted by moral judgments, which provide epistemic access to moral truths by reliably tracking the moral facts. For this reason, it is not clear how she might distinguish intuitions from other sorts of states, as the seeming state theory tries to do. Christine Tappolet has a similar view, though she denies that having an emotion entails having an evaluative judgment. Still, she thinks emotions track and represent values in some way, and emotions are epistemically indispensable to discovering evaluative facts (Tappolet 2011)[^tappolet-2011]. Indeed, there are many neo-sentimentalists who think moral judgments “come from” sentiment in some way, but who do not explicitly talk about intuitions as distinct from moral judgments.
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      A neo-sentimentalist view that more clearly fits with seeming state theory is that of Antti Kauppinen. For him, substantive moral emotions are quasi-perceptual: they present evaluative content (e.g., indignation presents injustice). These emotional appearances are *prima facie* justifiers, just like any other appearance. But Kauppinen argues that grounding the seemings in emotion instead of the intellect does a better job explaining two key features that distinguish substantive moral intuitions from intuitions of other sorts:
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      1. their phenomenology is distinctive and diverse, often involving an affective tone and
+      2. they provide (intrinsic) motivation (2013; see also Dancy 2014)[^dancy-2014].
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      On the differences between moral intuitions and intuitions of other sorts see also DePaul (2009: 211), Wielenberg (2014: 111), Bedke (2008, 2016).
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      Similarly, James Hutton (2022) defends a view he calls “emotional intuitionism”. As with Roeser and Tappolet, it is not clear that intuition *per se* plays a role. His main claim is that moral *experiences* consist of emotions. He argues that this best explains two observations:
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      1. in the most compelling cases of moral experience, emotions are present, and
+      2. the moral experience covaries with the presence of the emotions.
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      Insofar as moral experiences consist of moral seemings, this would classify moral intuitions and sentimental seemings.
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      There is the possibility of pluralism about intuitive seemings in ethics, where some are intellectual and others are sentimental. Intuitions about formal matters like the transitivity of value, for example, are not likely sentimental even if some substantive moral intuitions are sentimental. And substantive intuitions about the moral statuses of actions, perhaps the impermissibility of rape, are arguably better candidates for sentimental seemings.
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      ## 4. Apprehension
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      Some intuitionists embrace an ability to rationally *apprehend* certain facts. We find this idea both in those who are friendly to self-evident propositions and those who are friendly to seeming state theory. Unlike seeming states, apprehensions are factive. There are different ways to develop this thought. You might think some propositions are true thanks to the relations of the properties/universals featured in the proposition. If so, you might posit an intellectual ability to grasp these properties/universals and relations among them (Huemer 2005: 124–126; see also Russell 1912: chs. IX–XI; Cuneo & Shafer-Landau 2014)[^cuneo-2014][^huemer-2005][^russell-1912]. Similarly, Bengson, Cuneo and Schafer-Landau (2023; 2024) endorse Price’s view that we can intellectually apprehend the *essences* of certain act types. According to them, we can thereby intellectually see (via what they call “Pricean reflection”) that certain act types are essentially morally valanced (2024: ch. 4). For example, we can intellectually see that
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      > [I]t is essential to protecting one’s children from lethal danger that an action instantiates this property only if there is strong moral reason to perform it. (2024: 340).
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: body
+    source: |-
+      These theories of intellectual apprehension might help flesh out the idea of a self-evident proposition. As noted above, we would like to know what it is about some true propositions, or what it is about our understanding, such that those propositions can be justifiably believed or known on a basis of understanding them. We could start an answer along the following lines. First, some propositions are true thanks to the relations of the properties/universals featured therein. Second, our powers of understanding are such that we can grasp the relations between certain properties/universals, and when we do so it is a kind of apprehension.
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: body
+    source: |-
+      For those who embrace intuitions as intellectual seemings and also maintain that sometimes we intellectually apprehend certain moral facts, there is a nice parallel with perceptual seemings and perception. We can divide perceptual seemings into the good cases and the bad cases. In good cases it not only perceptually seems that *p*, but we perceive that *p*. In the bad cases, it only perceptually seems that *p*, and we do not perceive that *p*. From the inside, these might be indistinguishable and it might be that the seemings in both cases provide justification, but only in the good cases do we get knowledge. The same can be said for intellectual seemings. Intellectual seemings always justify but only in the good cases—the cases that are also intellectual apprehensions—do we get knowledge.
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: body
+    source: |-
+      ## 5. Conceptual Competence
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: body
+    source: |-
+      Intuitions are often associated with conceptual competence in roughly the following way. When one has a certain degree of conceptual competence one possesses, perhaps implicitly and in ways that are difficult to capture in language, criteria for what it takes to fall under the concept (or what it takes to fall outside the concept). It is then possible to craft cases and propositions in such a way that they directly engage one’s conceptual competence, and enable one to apply a concept or concepts solely on the basis of conceptual competence. For some views sympathetic to this line of thought see, e.g., Goldman (2007: 4; 2013: passim), Graham and Horgan (1994), and Ludwig (2007).
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: body
+    source: |-
+      Applied to the ethical domain, the thought is that some case-based intuitions just are states of categorizing with a concept based solely on conceptual competence (or this plus reflection), and some intuitions concerning more general propositions are recognitions of conceptual connections based solely on one’s conceptual competence (or this plus reflection).
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: body
+    source: |-
+      We could psychologize concept possession and competence, whereby having a concept is to psychologically encode some criteria for how to apply it. Or we could make the view less psychologized. For this second option, we could connect it back with the apprehension account above, and with a capacity of our understanding to apprehend abstract relations between properties/universals. One such view would say that what it is to fully grasp a concept is to have the capacity, if favorable conditions, to apprehend those abstract relations.
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: body
+    source: |-
+      Robert Audi appears to endorse a view like this, though he makes use of the idea of conceptual containment. He suggests that a self-evident proposition is one where the concept of the subject *contains* the concept of the predicate (Audi 2008: 479)[^audi-2008]. Conceptual containment is typically associated with analytic propositions, where one tries to explain what it is for a proposition to be true in virtue of the meanings of its constituents. Thus, “a vixen is a female” is analytically true (or so the proposal goes) because the concept of being a vixen contains the concept of being a female.
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: body
+    source: |-
+      Audi suggests, however, that not all cases of containment are associated with analytic propositions. In support of this idea, Audi proposes the following example: that burning a person with a red-hot poker would cause him excruciating pain is a moral reason not to do it (Audi 2008: 479)[^audi-2008]. Here the concept of being a moral reason for action allegedly contains the concept of avoiding the causing of pain in a way that makes the second a sufficient condition for the first. It takes grasping these concepts and some reflection to see the correlative fact: that phi avoids the causing of pain is a reason to phi.
+    step1: TBD
+    step2: TBD
+  - id: 97
+    kind: body
+    source: |-
+      Similarly, Robert Cowan (2017) has suggested that one way to develop Ross’s view of self-evident *prima facie* duties is to make those duties implicit commitments for anyone who possesses the relevant moral concept. Adequate understanding, on this view, enables one to make explicit conceptual connections (perhaps with the help of reflection), and the Rossian duties are propositions that make explicit those conceptual connections.
+    step1: TBD
+    step2: TBD
+  - id: 98
+    kind: body
+    source: |-
+      The main problem with tying one’s moral metaphysics and epistemology too closely to conceptual competence is that it seems to over-generate cases of conceptual incompetence. Start with your favorite intuition that survives scrutiny and which you use to form a belief. Is it not possible for someone to disagree with you even though they possess the relevant concepts (to a very high degree), they reflect adequately, and they are not otherwise cognitively impaired? They might be mistaken in their judgment, but it does not seem to be a *conceptual* mistake akin to the mistake one makes when they deny that a vixen is a female (see Bedke 2008, 2010, 2016)[^bedke-2008].
+    step1: TBD
+    step2: TBD
+  - id: 99
+    kind: body
+    source: |-
+      ## 6. Outputs of System 1 Processing
+    step1: TBD
+    step2: TBD
+  - id: 100
+    kind: body
+    source: |-
+      It is worth mentioning a theory of intuitions more prevalent in the psychology literature. It starts with the idea that cognition has two reasoning processes, system 1 and system 2. System 1 processing is characterized as implicit, fast, automatic, low effort, and modular (think of gut reactions based on stereotypes and heuristics), while system 2 processing is explicit, slow, deliberative, effortful, and general-purpose (think of deductive reasoning with many premises). Drawing on this distinction in cognitive science, some psychologists working on moral cognition have suggested that some intuitions are affective responses from system 1 processing (Haidt 2001; Haidt & Bjorklund 2007)[^haidt-2001][^haidt-2007]. Based on fMRI scans of brain activation, Joshua Greene (2008) has argued that consequentialist judgments are largely the products of system 2 while deontologist judgments are largely the products of system 1.
+    step1: TBD
+    step2: TBD
+  - id: 101
+    kind: body
+    source: |-
+      This approach is not necessarily inconsistent with other approaches. But without any finer grained distinctions, it would lump intuitions together with all sorts of other judgments that do not have the same surface features or the same epistemic role. Hunches, impulses, and other states whereby there is no proposition that seems true, and which do not defeasibly justify, are likely some of the outputs of system 1.
+    step1: TBD
+    step2: TBD
+  - id: 102
+    kind: body
+    source: |-
+      ## 7. Some Challenges
+    step1: TBD
+    step2: TBD
+  - id: 103
+    kind: body
+    source: |-
+      ### 7.1 Disagreement
+    step1: TBD
+    step2: TBD
+  - id: 104
+    kind: body
+    source: |-
+      Many philosophers think that pervasive moral disagreement casts doubt on the claim that certain moral propositions are self-evident. If there were certain moral propositions that can be known if adequately understood, then people with an adequate understanding of them would believe them, and there would be universal assent amongst mature, comprehending people. But there is no such universal assent, at least for the substantive ethical propositions that intuitionists have used to craft a moral theory. So none of those principles are self-evident. Or so one can argue.
+    step1: TBD
+    step2: TBD
+  - id: 105
+    kind: body
+    source: |-
+      One way intuitionists could defend the view is to grant disagreement over allegedly self-evident propositions and suggest ways to deal with the problem. This was Sidgwick’s strategy. He thought that if there was significant disagreement about the truth of some apparently self-evident moral proposition, then that proposition might not be self-evident. To deal with it, he gives guidance on how to do the best we can in discerning what is self-evident. To guide us, he sets forth four conditions sufficient to establish “a significant proposition, apparently self-evident, in the highest degree of certainty attainable” (1907: 338):
+    step1: TBD
+    step2: TBD
+  - id: 106
+    kind: body
+    source: |-
+      1. the target proposition must be clear and precise,
+      2. its self-evidence must be ascertained by careful reflection,
+      3. taken as a whole, propositions taken as self-evident must be mutually consistent, and
+      4. the target proposition must lack universal or general denial by others, or at least lack denial among experts (Sidgwick 1907 [1981]: 211–212, 338–342)[^sidgwick-1907].
+    step1: TBD
+    step2: TBD
+  - id: 107
+    kind: body
+    source: |-
+      He also warned that it is easy to confuse intuitions with blind impulses, vague sentiments, preferences for action, conclusions from rapid half-conscious processing, and current opinions to which familiarity has given an illusory air of self-evidence, such as conventional law (Sidgwick 1907 [1981]: 211–12)[^sidgwick-1907]. His own attempts to be mindful of these considerations led him to propose the following as self-evident: that the good of any one person is as important as the good of any other, and that one is rationally bound to aim at the good generally, not any part of it (Sidgwick 1907 [1981]: 382)[^sidgwick-1907]. From these and supplementary claims about the good, he argues for a form of consequentialism called *Hedonic Utilitarianism*.
+    step1: TBD
+    step2: TBD
+  - id: 108
+    kind: body
+    source: |-
+      Other intuitionists allow that various other factors can lead to disagreement over what is self-evident. Clarke, for instance, allowed that stupidity, corruption, or perverseness may make one doubt self-evident propositions (1706 [1969: § 227]). John Balguy also acknowledges that self-evident moral principles, like many other plain and evident truths, may be, and have been, doubted, “even by philosophers and men of letters” whom, presumably, he did not regard as stupid or corrupt (1728 [1969: § 458]). And Price maintained that all forms of knowledge, including intuitive knowledge, may be evident in different degrees (1758 [1969: § 706]). Intuition may be clear and perfect, but may sometimes be faint and obscure. Such variance in degrees of clarity allows that a self-evident proposition may be imperfectly and obscurely grasped, and this may lead someone to deny its truth. Similarly, Moore claimed that “every way in which it is possible to cognise a true proposition, it is also possible to grasp a false one” (1903 [1993: 36]), and Ross notes that self-evident propositions may only be evident to us once we reach a certain moral maturity (1930 [2002: 29]). Given all these ways in which the truth of a self-evident proposition may be missed, it is no surprise that there is no universal assent. But the absence of universal assent is quite consistent with self-evidence, as long as one does not regard “self-evidence” to mean, or imply, obviousness.
+    step1: TBD
+    step2: TBD
+  - id: 109
+    kind: body
+    source: |-
+      Despite what has been said above, critics of intuitionism can claim that the fact that there is fundamental disagreement between moral philosophers and even between intuitionists themselves undermines the view that certain propositions are self-evident. These philosophers will have thought long and hard about the relevant propositions, and (we would hope) have a very clear understanding of them. One would, therefore, expect that if there were certain moral propositions the truth of which could be apprehended by understanding, then moral philosophers would converge on these truths. Persistent disagreement amongst reflective, thoughtful, and comprehending moral philosophers may cast doubt on the view that any of these propositions are self-evident.
+    step1: TBD
+    step2: TBD
+  - id: 110
+    kind: body
+    source: |-
+      An alternative strategy for intuitionists is to downplay the amount of fundamental disagreement over allegedly self-evident propositions. They might claim that a lot of moral disagreement stems from disagreement about non-moral facts, such as what the consequences of a certain act will be. For instance, two people might disagree about whether it is permissible to boil lobsters alive just because they disagree about whether lobsters can feel pain. Since the basis of their moral disagreement is this disagreement about the relevant neurological fact, if they agreed on this non-moral fact, we could expect them to agree about the permissibility of boiling lobsters alive.
+    step1: TBD
+    step2: TBD
+  - id: 111
+    kind: body
+    source: |-
+      Furthermore, although people might disagree about the permissibility of boiling lobsters alive, we may assume that they agree that pain is a bad thing, and the infliction of undeserved pain is *prima facie* wrong. If this assumption is correct, then the disputants agree about the moral facts here. They disagree only about the empirical, non-moral facts.
+    step1: TBD
+    step2: TBD
+  - id: 112
+    kind: body
+    source: |-
+      Another factor that might explain moral disagreement is disagreement about the strength of certain moral reasons. Many disputants might agree about the non-moral facts, and about what is morally relevant, but disagree about the weight that should be given to the different moral considerations. So, for example, two people might disagree about whether they ought to push a large man onto the rail tracks to derail a trolley that would otherwise kill five people, but this is quite consistent with them agreeing that the fact that this act would save five people counts in favour of pushing the man off the bridge, and that the fact that he would die if this were done counts against doing it. In such a case there is agreement about what is relevant, and how it is relevant, but disagreement about the weight of the competing moral considerations—one person regards the evil of killing one person as weightier than the good of saving five, while the other regards the evil of killing one as outweighed by the good of saving the five. There is still moral disagreement here, but it is simply a difference in judgement about the application of agreed moral principles.
+    step1: TBD
+    step2: TBD
+  - id: 113
+    kind: body
+    source: |-
+      This fits with the intuitionist view held, e.g., by Ross, that causing good outcomes is *prima facie* right, and that causing harm is *prima facie* wrong, for Ross held that both of these propositions are self-evident. He denied, however, that the stringency, or weight, of these different *prima facie* duties is self-evident (1939: 188).
+    step1: TBD
+    step2: TBD
+  - id: 114
+    kind: body
+    source: |-
+      So far we have only discussed disagreement that concerns self-evident propositions. Turning to the idea that intuitions are seemings, one question is the extent to which different people have different intuitive seemings when considering the same proposition or case. It is worth emphasizing here that disagreement in moral judgment does not imply that people have different intuitive seemings. Two people could start with the same intuitions on cases. Reflection and lots of other influences could lead one to embrace consequentialism and the other to embrace deontology.
+    step1: TBD
+    step2: TBD
+  - id: 115
+    kind: body
+    source: |-
+      Still, Michael Huemer (2008) has claimed that some ethical intuitions are not shared, and he suggests this is due to a number of reasons: that they have been influenced by one’s culture, that they have been influenced by evolutionary pressures, that they sometimes support theories that promote one’s self- interests, that they sometimes line up with strong emotion, and that the abstract ones are prone to an overgeneralization bias. On these grounds he is inclined to place more trust in formal intuitions, like the intuition that if *a* is better than *b* and *b* is better than *c*, then *a* is better than *c* (the transitivity of value), for he thinks such intuitions are less susceptible to the distorting influences.
+    step1: TBD
+    step2: TBD
+  - id: 116
+    kind: body
+    source: |-
+      Stich and Machery (2023) have compiled a helpful chart of some experiments that purport to find differences in intuitions that correlate with various demographic categories (e.g., religion, age, gender, social class, etc.). To evaluate the significance of the experiments, first note that it is difficult to experimentally measure what intuitions people have. They can self-report, but it is not clear the extent to which reports tap into intuitions as opposed to beliefs or other mental states that are not intuitions *per se* (Bengson 2013)[^bengson-2013]. As lately noted, it is easy for there to be a mismatch between our intuitions and our judgments. Indeed, it is often quite reasonable to fail to believe what one finds intuitive, just as it is often reasonable to fail to believe what perceptually seems to be the case. Consider someone who is familiar with the Müller-Lyer illusion, where one line can look longer than another, but one reasonably believes it is not longer. Similarly, it is plausible to suppose that many act consequentialists still have the intuition that it is wrong to harvest organs from a healthy but non-consenting donor to save five other lives. But because they have persuaded themselves of the truth of act consequentialism, they would not believe this act is wrong.
+    step1: TBD
+    step2: TBD
+  - id: 117
+    kind: body
+    source: |-
+      Be that as it may, suppose there are demographic differences in what people find intuitive. Though it is commonly supposed that this somehow undermines the epistemic role of intuitions, nothing here undermines the basic idea that intuitions provide pro-tanto, *defeasible* justification for believing that which is intuitive. Whether inter-personal differences in intuitions provide a defeater is another question. Sinnott-Armstrong suggests that relying on intuitions that vary between persons is akin to reliance on the reading of one random thermometer in a box of one hundred thermometers, some portion of which are known to be unreliable (2006b: 201). Bedke (2013) argues that this overstates the case. Drawing an analogy with cases where others report *perceptual* seemings that differ from your own, it is not always the case that reported differences in seemings defeat the justification provided by one’s seeming states.
+    step1: TBD
+    step2: TBD
+  - id: 118
+    kind: body
+    source: |-
+      Some of this literature taps into the broader issue of peer disagreement, where the rough idea is that not any kind of disagreement undermines your justification, but disagreement with an epistemic peer could. It is not always clear that differences in intuitive seemings are differences among peers, and indeed the very fact that another does not share your intuitions might be some evidence that they are not a peer (Audi 2008: 490; Enoch 2010: 979–981)[^audi-2008][^enoch-2010].
+    step1: TBD
+    step2: TBD
+  - id: 119
+    kind: body
+    source: |-
+      ### 7.2 Framing and Ordering Effects
+    step1: TBD
+    step2: TBD
+  - id: 120
+    kind: body
+    source: |-
+      Consider the following three cases:
+    step1: TBD
+    step2: TBD
+  - id: 121
+    kind: body
+    source: |-
+      - **Switch:** there are five people on the rail track, and an out of control trolley that will kill all five of them. There is a lever that would divert the trolley onto a different track. But there is a single person on that track who would be killed if you pull the lever and divert the trolley.
+      - **Bridge:** there are five people on the rail track, and an out of control trolley that will kill all five of them. There is a large man standing on the bridge over the track. If you pushed him off the bridge onto the track, he would be killed. But he would derail the trolley and so the five people on the track would be saved.
+      - **Trap door:** there are five people on the rail track, and an out of control trolley that will kill all five of them. There is a man standing on the bridge over the track. If he fell onto the track he would be killed, but would derail the trolley thus saving the five people on the track. He is standing on a trap door that would open and drop him onto the track if you pulled a lever.
+    step1: TBD
+    step2: TBD
+  - id: 122
+    kind: body
+    source: |-
+      People tend to say that they should pull the lever in Switch, but that they ought not to push the man off the bridge in Bridge. Bridge looks similar to Switch in that you would be killing one person to save five. So why the different intuitions? One could try to explain away these apparently conflicting intuitions by providing principles that identify the morally relevant differences between the cases. That is grist for the deontologist’s mill.
+    step1: TBD
+    step2: TBD
+  - id: 123
+    kind: body
+    source: |-
+      It would be troubling if the intuitions on these cases were not stable, and particularly if they could be pushed around by morally irrelevant influences. One does not want to base one’s beliefs on unreliable intuitions. Some experiments have tried to address the issue. In Petrinovich and O’Neill (1996) participants were given trolley-type cases where the framing of the case was manipulated. If given an option couched in terms of “kill” wording (e.g., “to throw the switch which will result in the death of the one innocent person”), participants on average disagree slightly with the action, whereas if given an option in terms of “save” wording (e.g., “to throw the switch which will result in the five innocent people on the main track being saved”), subjects on average slightly agree with the action.
+    step1: TBD
+    step2: TBD
+  - id: 124
+    kind: body
+    source: |-
+      That same paper reported other studies that showed ordering effects. Subjects were asked to indicate their approval of actions (described in terms of saving) in three trolley-type questions given in sequence. One set of subjects got the questions in one sequence, and another set of subjects got the same questions in reverse sequence. On average, subjects more strongly approved of an action when it appeared first in the sequence than when it appeared last, and the degree of approval for the middle case varied depending on which of the other two trolley-type cases came first.
+    step1: TBD
+    step2: TBD
+  - id: 125
+    kind: body
+    source: |-
+      From framing effects like these, Sinnott-Armstrong argues that it is reasonable to “assign a large probability of error to moral intuitions in general” (Sinnott-Armstrong 2008: 99)[^sinnott-armstrong-2008]. For him, any given moral intuition must be shown to be immune from such effects before it can be justified.
+    step1: TBD
+    step2: TBD
+  - id: 126
+    kind: body
+    source: |-
+      But it is not clear that this is the conclusion to draw. For one, it is not clear these experiments tapped intuitions. The studies ask participants to register their *approval of action* rather than to classify actions under moral categories (e.g., impermissible, permissible). So it is not clear that the findings reflect the apparent truth of moral propositions. This is a difficult problem to overcome. Other studies have asked for people’s *judgments* about what is obligatory or permissible on hypothetical cases (Tobia, Buckwalter & Stich 2013; Schwitzgebel & Cushman 2012; Lombrozo 2009)[^lombrozo-2009][^schwitzgebel-2012], but as we noted above people’s judgments do not necessarily reflect their intuitions. Still, it might be that judgments show order effects for both philosophers and non-philosophers (Schwitzgebel & Cushman 2012; see also Lombrozo 2009)[^lombrozo-2009][^schwitzgebel-2012]. Tobia, Buckwalter & Stich (2013) reported an “actor-observer” bias for both philosophers and non-philosophers, where judgments differ depending on whether the experimental participant or some other party is cast as the actor (e.g., the one considering slipping the switch). But there are two other studies where that failed to replicate (Tobia, Chapman, & Stich 2013; Horvath & Wiegmann 2022)[^horvath-2022]. For a recent set of studies showing some framing effects and biases among philosophers and non-philosophers see Horvath and Wiegmann (2022).
+    step1: TBD
+    step2: TBD
+  - id: 127
+    kind: body
+    source: |-
+      Second, it is worth noting that in some of these studies what is measured is the degree to which participants agree with certain claims, or the degree to which certain actions are bad or good. Statistically significant differences in such things is not necessarily a signal of the unreliability of the judgment. One could reliably approve or reliably judge something good, but unreliably approve to the same degree, or say it is good to the same degree, across morally irrelevant manipulations.
+    step1: TBD
+    step2: TBD
+  - id: 128
+    kind: body
+    source: |-
+      Third, even if we grant that there are framing and ordering effects for intuitive seemings in some studies concerning some cases, and these effects carry over to judgments based on the intuitions, it is not the case that we should assign a large probability of error to *all* intuitively based ethical beliefs. For one, we do not have enough evidence to generalize from the cases where the effects have been shown to say that *all* intuitions are subject to these effects. For another, we are aware of these effects in a number of other domains, but we do not conclude in those domains that all judgments in those domains are unreliable (cf. Horne & Livengood 2017)[^horne-2017]. So though the framing and ordering effects are interesting and we should take them into consideration when improving our moral outlooks, it is not clear that they support the conclusion that moral intuitions as a class are unreliable.
+    step1: TBD
+    step2: TBD
+  - id: 129
+    kind: body
+    source: |-
+      Fourth, these experiments are trying to test intuitions about our overall moral duties—that is, about what we should, or may do in certain circumstances. As we have seen, not all intuitionists claim that principles about what we ought to do are intuitive. W. D. Ross for example claimed that only principles of *prima facie* duty are self-evident, and principles of *prima facie* duty are, roughly, principles stating that certain facts count in favour of an act and others count against. So these principles state, for instance, that the fact that one’s act would produce some good, or the fact that it would be the keeping of a promise, or the expression of gratitude, etc., counts in favour of it, and the fact that, for example, it would involve the infliction of harm on someone counts against it. For one study on the stability of intuitions on the moral valence (counting against or counting in favor) of Rossian-type considerations, see James Andow (2018).
+    step1: TBD
+    step2: TBD
+  - id: 130
+    kind: body
+    source: |-
+      ### 7.3 Debunking Certain Views in Normative Ethics
+    step1: TBD
+    step2: TBD
+  - id: 131
+    kind: body
+    source: |-
+      Other studies have shown emotional influence on moral judgment. Joshua Greene, for instance, uses fMRI technology to look at what areas of the brain are most active when subjects report moral judgments (Greene, Sommerville, et al. 2001; Greene 2008)[^greene-2008][^greene-2008-2]. He finds that regions of the brain associated with more emotional, “intuitive” processing are more active in subjects who report characteristically deontological judgments—for example, the intuition that it is impermissible to push the fat man off the bridge in the footbridge version of the trolley case—whereas regions of the brain associated with deliberative cognition are more active in subjects who report consequentialism-friendly judgments. (Because some emotional areas of the brain are activated for subjects who give consequentialism-friendly responses, Greene now says that the deontological intuitions are more alarm-like, whereas the consequentialist intuitions are more currency-like (Greene 2008: 41)[^greene-2008][^greene-2008-2].) Moreover, Greene reports that cognitive load, which is the burden of being taxed with tasks that interfere with deliberative cognition, selectively interferes with consequentialism-friendly responses. So subjects who give the consequentialism-friendly response to Footbridge while under cognitive load show longer response times (Greene, Morelli, et al. 2008).
+    step1: TBD
+    step2: TBD
+  - id: 132
+    kind: body
+    source: |-
+      Both Joshua Greene and Peter Singer have used results like these to argue that moral intuitions, or at least deontology-friendly intuitions, are likely unreliable (Greene 2008; Singer 2005)[^greene-2008][^greene-2008-2][^singer-2005]. Why unreliable? First, deontological intuitions are sensitive to *morally* *irrelevant* factors, such as whether you kill someone by pushing him versus throwing a switch. Second, deontological intuitions are the result of fast and frugal “intuitive processes” that were selected by evolution to produce fitness enhancing behaviors in some environment, rather than to track the moral facts (which perhaps this helps to explain the first thread of reasoning; see also Timmons 2008)[^timmons-2008].
+    step1: TBD
+    step2: TBD
+  - id: 133
+    kind: body
+    source: |-
+      What are we to make of these results and the conclusions drawn by the researchers? First, it is not clear whether intuitions as characterized by Audi, Shafer-Landau, Huemer and others are elicited in these studies, though this can be obfuscated by the fact that psychologists call the fast and frugal processes responsible for some moral judgments “intuitive processes”. Haidt and Bjorklund, for example, define a moral intuition as “the sudden appearance in consciousness or at the fringe of consciousness, of an evaluative feeling (like-dislike, good-bad)…” (2007: 188). That does not sound like intuitions as characterized by intuitionists themselves. We should try to make sure that the propositions or mental states to which intuitional epistemologists attribute epistemic roles are the ones under study before we draw any negative conclusions about the justificatory role of intuitions from these empirical results.
+    step1: TBD
+    step2: TBD
+  - id: 134
+    kind: body
+    source: |-
+      Supposing that these studies do elicit intuitions as intuitional epistemologists have understood them, still, any claim like Greene’s and Singer’s that deontology-friendly intuitions are sensitive to *morally irrelevant factors*, or are the product of something selected by evolution *without regard to the facts*, stakes some claim on what is and what is not morally relevant, or what the moral facts are. These commitments are not the result of empirical inquiry, but intuition. So even if some intuitive justification is defeated when one appreciates these findings, it is in part because intuition succeeds in justifying beliefs about what is or is not morally relevant, or beliefs about the moral facts. Also, the status of being a defeater is something the empirical results do not deliver—at best they exploit the fact that we treat certain considerations as defeaters (Berker 2009)[^berker-2009].
+    step1: TBD
+    step2: TBD
+  - id: 135
+    kind: body
+    source: |-
+      ### 7.4 Debunking and Metaethics
+    step1: TBD
+    step2: TBD
+  - id: 136
+    kind: body
+    source: |-
+      The concerns just mentioned target deontological intuitions. Other concerns are in a way broader, targeting general metaethical theories that mix an intuitive epistemology with metaphysical doctrines about the corresponding moral facts.
+    step1: TBD
+    step2: TBD
+  - id: 137
+    kind: body
+    source: |-
+      The most influential criticism along these lines is the evolutionary debunking argument. Sharon Street (2006) has pressed an evolutionary debunking argument against moral realism (but see also Vavova 2015)[^vavova-2015]. She argues that we have many of our moral judgments (or tendencies toward certain moral judgments) because they are adaptive, and not because they are mind-independently true. More generally, we might wonder if any of the causal forces that make us have the intuitions that we do have anything to do with the moral facts, particularly if we understand those facts to be non-natural or otherwise *sui generis* (Bedke 2009; 2014)[^bedke-2009].
+    step1: TBD
+    step2: TBD
+  - id: 138
+    kind: body
+    source: |-
+      These points are meant to be debunking in some way, but it is not clear how to articulate the debunking premise. It could concern modality—our intuitions or beliefs or the methods we use are not safe or sensitive or modally reliable. It could concern probability—our intuitions or beliefs are not likely true, or are not likely to track truth. It could concern explanation—the target facts are not explanatorily connected to why we have our intuitions or beliefs. Whether some concern in this ballpark is genuinely debunking remains hotly contested.
+    step1: TBD
+    step2: TBD
+  - id: 139
+    kind: body
+    source: |-
+      If our moral metaphysics is non-naturalist, perhaps moral facts and properties are non-causal. In that case, the debunking premise could say we cannot know of something that is causally impotent. This would be an application of a more general debunking argument against causally impotent facts or properties. Applied to mathematics, for example, it has been known as the Benacerraf-Field objection. Intuitionists might respond by asking why a property must be causally efficacious if we are to be able to know which things have that property. Causal theories of knowledge have been largely rejected. Alternatively, intuitionists could back off any commitment to non-naturalism. That does not appear to be an obligatory metaphysical position to pair with an intuitional epistemology (Bengson 2013)[^bengson-2013].
+    step1: TBD
+    step2: TBD
+  - id: 140
+    kind: body
+    source: |-
+      Debunking arguments like these are a topic unto themselves, and they can be applied regardless of whether one’s moral epistemology is intuitional or not. That is to say, they are not a special problem for intuitional moral epistemology.
+    step1: TBD
+    step2: TBD
+  - id: 141
+    kind: body
+    source: |-
+      ### 7.5 Non-Inferential Justification?
+    step1: TBD
+    step2: TBD
+  - id: 142
+    kind: body
+    source: |-
+      Intuitive justification is meant to be non-inferential. It is not entirely clear what an inference is. But the basic idea is that a mental state M2 is inferentially justified if it there is some movement of mind from a distinct, justified mental state M1 to M2 whereby the justification of M1 is transmitted to M2. Intuitive justification is non-inferential because intuitions are not the sorts of things that are justified or not. They are unjustified justifiers. This could also rule out perceptual justification as inferential, for perceptual states are arguably not the sorts of things that are justified or not.
+    step1: TBD
+    step2: TBD
+  - id: 143
+    kind: body
+    source: |-
+      Sinnott-Armstrong (2006a), however, challenges the existence of any non-inferential justification for moral beliefs. First, he argues that the following considerations should lead one to mistrust intuitively justified judgments:
+    step1: TBD
+    step2: TBD
+  - id: 144
+    kind: body
+    source: |-
+      1. which moral view one adopts affects one’s self-interests, so one is likely going to be biased when adopting a moral view;
+      2. there is often moral disagreement without reason to think one party is more likely to be right than the other;
+      3. emotions influence one’s moral view, and emotions cloud judgment;
+      4. moral views are likely to be formed in circumstances conducive to illusion, and shown by heuristics and framing effects; and
+      5. moral beliefs might be the product of morally suspicious sources, e.g., if they are the result of the influences of the rich and powerful.
+    step1: TBD
+    step2: TBD
+  - id: 145
+    kind: body
+    source: |-
+      He does not deny that some moral intuitions can justify moral beliefs. But given that the defeasible justification they provide is undermined by distorting factors, we need to check that any given moral intuition is not one of the undermined ones, and we must seek corroboration of their contents, before we can take it to provide justification. For him, the beliefs that are justified by this process are inferentially justified. If he is right, then those who have appreciated the influences mentioned in (i)–(v) have at best inferentially justified moral beliefs. They do not have non-inferential justification.
+    step1: TBD
+    step2: TBD
+  - id: 146
+    kind: body
+    source: |-
+      Nathan Ballantyne and Joshua C. Thurow (2013) disagree on this last point. Couched in terms of undercutting defeaters, they say the distorting factors that Sinnott-Armstrong mentions are offered as undercutting defeaters of the justification of most of our moral beliefs. One way to reinstate justification, they point out, is to defeat the defeater. That reinstates the initial, non-inferential support provided by the intuitions. Though we could get inferential corroboration of our intuitively justified beliefs, it is also possible that we simply assure ourselves that (i)–(v) do not apply to a given intuition, in which case that intuition can carry on as an unjustified justifier.
+    step1: TBD
+    step2: TBD
+  - id: 147
+    kind: oir
+    source: |-
+      - Stratton-Lake, Philip, “Intuitionism in Ethics”, *Stanford Encyclopedia of Philosophy* (Summer 2026 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <[https://plato.stanford.edu/archives/sum2026/entries/intuitionism-ethics/](https://plato.stanford.edu/archives/sum2026/entries/intuitionism-ethics/)>. [This was the previous entry on this topic in the *Stanford Encyclopedia of Philosophy* – see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=intuitionism-ethics).]
+    step1: TBD
+    step2: TBD
