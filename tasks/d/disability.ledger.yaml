@@ -1,0 +1,721 @@
+version: 1
+slug: disability
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Philosophers have always lived among, and often as, people who could not see, walk, or hear; who had limited mobility, comprehension or longevity, or chronic illnesses of various sorts. And philosophers have lived in societies that respond to these and other bodily differences in a wide variety of ways. And yet philosophical interest in these conditions and the social response to them was piecemeal and occasional until the past hundred or so years. Some of these conditions were cited in litanies of life’s hardships or evils; some were the vehicle for inquiries into the relationship between human faculties and human knowledge (see entry on Molyneux’s problem). But the treatment of disability as a subject of philosophical interest in its own right is relatively new.
+    step1: |-
+      哲学家一直生活在——也常常本身就是——看不见、走不了或听不见的人中间；这些人有的行动、理解或寿命受限，有的患着各种慢性病。哲学家所生活的社会，又以各种各样的方式回应这些以及其他身体差异。然而直到过去一百来年，哲学对这类状况及社会回应的兴趣都是零散的、偶然的。其中有些状况出现在列举人生苦难或恶的清单里；有些成了探究人类官能与人类知识之关系的载体（见“莫利纽克斯问题”词条）。但把残疾本身当作一个哲学兴趣对象来处理，相对而言是晚近的事。
+    step2: |-
+      哲学家一直生活在——也常常本身就是——看不见、走不了或听不见的人中间；这些人有的行动、理解或寿命受限，有的患着各种慢性病。哲学家所生活的社会，又以各种各样的方式回应这些以及其他身体差异。然而直到过去一百来年，哲学对这类状况及社会回应的兴趣都是零散的、偶然的。其中有些状况出现在列举人生苦难或恶的清单里；有些成了探究人类官能与人类知识之关系的载体（见“莫利纽克斯问题”词条）。但把残疾本身当作一个哲学兴趣对象来处理，相对而言是晚近的事。
+  - id: 2
+    kind: body
+    source: |-
+      The lack of attention to “disability” or the related concept of “impairment” may have a simple explanation: there were no such concepts to attend to until nineteenth century scientific thinking put variations in human function and form into categories of abnormality and deviance. Once such categories were established, it became possible to talk, and generalize, about (first) “the disabled”, and (then) “their impairments”, and philosophers have done so for various purposes [Hacking, 1990; L. Davis, 2002: Ch. 4]). The resurgent political philosophy of the second half of the last century, preoccupied with eliminating or reducing unearned disadvantages, tended to treat disability as a primary source of those disadvantages, to be addressed with medical correction or government compensation (Cohen 1993; Sen 1993)[^cohen-1993][^sen-1993]. Somewhat later, social philosophers began to see disability as a source both of discrimination and oppression, and of group identity, akin to race or gender in these respects. And biomedical and other practical applied ethicists have been concerned to help policy-makers construct and interpret new legal and regulatory frameworks making central reference to “disability” and related concepts.
+    step1: |-
+      对“残疾”或相关概念“损伤”缺乏关注，也许有一个简单的解释：在十九世纪科学思想把人类功能与形态的变异归入异常与偏差范畴之前，并没有这样的概念可供关注。这类范畴一旦建立，就有可能谈论并概括（先是）“残疾人”，然后（再是）“他们的损伤”；哲学家出于各种目的这样做了（Hacking, 1990; L. Davis, 2002: Ch. 4）。上世纪后半叶复兴的政治哲学专注于消除或减少非应得的不利，倾向于把残疾视为这些不利的主要来源，须以医学矫正或政府补偿来处理（Cohen 1993; Sen 1993）[^cohen-1993][^sen-1993]。稍后，社会哲学家开始把残疾既看作歧视与压迫的来源，也看作群体认同的来源，在这些方面与种族或性别相似。生物医学及其他实践应用伦理学家则关心帮助政策制定者建构并解释新的法律与监管框架——这些框架核心地援引“残疾”及相关概念。
+    step2: |-
+      对“残疾”或相关概念“损伤”缺乏关注，也许有一个简单的解释：在十九世纪科学思想把人类功能与形态的变异归入异常与偏差范畴之前，并没有这样的概念可供关注。这类范畴一旦建立，就有可能谈论并概括（先是）“残疾人”，然后（再是）“他们的损伤”；哲学家出于各种目的这样做了（Hacking, 1990; L. Davis, 2002: Ch. 4）。上世纪后半叶复兴的政治哲学专注于消除或减少非应得的不利，倾向于把残疾视为这些不利的主要来源，须以医学矫正或政府补偿来处理（Cohen 1993; Sen 1993）[^cohen-1993][^sen-1993]。稍后，社会哲学家开始把残疾既看作歧视与压迫的来源，也看作群体认同的来源，在这些方面与种族或性别相似。生物医学及其他实践应用伦理学家则关心帮助政策制定者建构并解释新的法律与监管框架——这些框架核心地援引“残疾”及相关概念。
+  - id: 3
+    kind: body
+    source: |-
+      For these reasons and others, philosophers have had much to say, initially in passing and now at length, about what disability is and what “disability” means. This entry will discuss both issues—first, detailing philosophical engagement with longstanding debates over the correct “model” or general framework for understanding disability as a phenomenon; second, asking how philosophers have come to understand the meaning of concepts denoted by words like “disability” and “impairment”, as those have been used in various empirical and normative discourses concerning people with disabilities.
+    step1: |-
+      出于这些原因及其他原因，哲学家对残疾是什么、“残疾”意味着什么，有很多话要说——起初是顺带提及，如今则长篇大论。本词条将讨论两个问题：第一，详细梳理哲学对一场由来已久的争论的介入，即理解残疾现象的正确“模型”或一般框架是什么；第二，追问哲学家如何理解“残疾”“损伤”这类词所指称的概念的含义——这些词被用于关于残疾人的各种经验性与规范性话语之中。
+    step2: |-
+      出于这些原因及其他原因，哲学家对残疾是什么、“残疾”意味着什么，有很多话要说——起初是顺带提及，如今则长篇大论。本词条将讨论两个问题：第一，详细梳理哲学对一场由来已久的争论的介入，即理解残疾现象的正确“模型”或一般框架是什么；第二，追问哲学家如何理解“残疾”“损伤”这类词所指称的概念的含义——这些词被用于关于残疾人的各种经验性与规范性话语之中。
+  - id: 4
+    kind: body
+    source: |-
+      ## 1. Models of Disability
+    step1: |-
+      ## 1. 残疾的诸模型
+    step2: |-
+      ## 1. 残疾的诸模型
+  - id: 5
+    kind: body
+    source: |-
+      Many different characteristics have been considered disabilities. Paraplegia, deafness, blindness, diabetes, autism, epilepsy, depression, and HIV have all been classified as “disabilities”. The term covers such diverse conditions as the congenital absence or adventitious loss of a limb or a sensory function; progressive neurological conditions like multiple sclerosis; chronic diseases like arteriosclerosis; the inability or limited ability to perform such cognitive functions as remembering faces or calculating sums; and psychiatric disorders like schizophrenia and bipolar disorder.
+    step1: |-
+      许多不同特征都曾被算作残疾。截瘫、失聪、失明、糖尿病、自闭症、癫痫、抑郁与 HIV 感染，都被归为“残疾”。这个词涵盖的状况极为多样：先天缺失或后天丧失肢体或感觉功能；多发性硬化这类进行性神经疾病；动脉硬化这类慢性病；记忆面孔或计算总和这类认知功能的无能或能力受限；以及精神分裂症、双相障碍这类精神疾病。
+    step2: |-
+      许多不同特征都曾被算作残疾。截瘫、失聪、失明、糖尿病、自闭症、癫痫、抑郁与 HIV 感染，都被归为“残疾”。这个词涵盖的状况极为多样：先天缺失或后天丧失肢体或感觉功能；多发性硬化这类进行性神经疾病；动脉硬化这类慢性病；记忆面孔或计算总和这类认知功能的无能或能力受限；以及精神分裂症、双相障碍这类精神疾病。
+  - id: 6
+    kind: body
+    source: |-
+      Disabilities like these have been objects of study in sociology, medicine, and policy debates for much longer than they have been subjects of sustained interest in philosophy. These discourses do not tend to define “disability” by way of the sort of rigorous necessary and sufficient conditions philosophers often prefer. But they have been centrally concerned with broadly definitional issues, often discussed under the heading of “models” of disability—that is, general theoretical perspectives concerned to say what in the world social scientists are investigating when they investigate disability. These models generally pick out, both (1) a set of phenomena as what needs explaining, when we explain disability, phenomena typically but not necessarily characterized as *disadvantages*; and (2) an explanation of these phenomena—again, typically, but not solely, an explanation of why disabled people experience the disadvantages they do.
+    step1: |-
+      这类残疾成为社会学、医学与政策争论的研究对象，远早于它们成为哲学持续关注的主题。这些话语并不倾向于用哲学家常偏爱的那种严格的充要条件来定义“残疾”。但它们一直核心地关涉广义的定义问题，通常放在残疾“模型”的标题下讨论——也就是一些一般性的理论视角，意在说明社会科学家研究残疾时究竟在研究世界上的什么。这些模型一般会挑出两样东西：(1) 一组需要解释的现象——我们解释残疾时所要解释的现象，通常但不必然被刻画为*不利*；(2) 对这些现象的解释——同样通常但不只是在解释为什么残疾人会经历他们所经历的那些不利。
+    step2: |-
+      这类残疾成为社会学、医学与政策争论的研究对象，远早于它们成为哲学持续关注的主题。这些话语并不倾向于用哲学家常偏爱的那种严格的充要条件来定义“残疾”。但它们一直核心地关涉广义的定义问题，通常放在残疾“模型”的标题下讨论——也就是一些一般性的理论视角，意在说明社会科学家研究残疾时究竟在研究世界上的什么。这些模型一般会挑出两样东西：(1) 一组需要解释的现象——我们解释残疾时所要解释的现象，通常但不必然被刻画为不利；(2) 对这些现象的解释——同样通常但不只是在解释为什么残疾人会经历他们所经历的那些不利。
+  - id: 7
+    kind: body
+    source: |-
+      ### 1.1 Medical and Social Models
+    step1: |-
+      ### 1.1 医学模型与社会模型
+    step2: |-
+      ### 1.1 医学模型与社会模型
+  - id: 8
+    kind: body
+    source: |-
+      In their extreme forms, the *medical* and *social* models serve to chart the space of possible relationships between bodily difference and functional limitation more than to reflect the actual views of individuals or institutions. (A variety of more formal models, described in Altman 2001, graphically represent the causal complexity of disability.)[^altman-2001]
+    step1: |-
+      在其极端形态中，医学模型与社会模型更多是用来勾画身体差异与功能限制之间可能的关系空间，而不是反映个人或机构的实际观点。（Altman 2001 描述了多种更形式化的模型，以图形表示残疾的因果复杂性。）[^altman-2001]
+    step2: |-
+      在其极端形态中，医学模型与社会模型更多是用来勾画身体差异与功能限制之间可能的关系空间，而不是反映个人或机构的实际观点。（Altman 2001 描述了多种更形式化的模型，以图形表示残疾的因果复杂性。）[^altman-2001]
+  - id: 9
+    kind: body
+    source: |-
+      The *medical model* explains disability disadvantage in terms of pathological states of the body and mind themselves. It regards the limitations faced by people with disabilities as resulting primarily from their bodily differences. The medical model is rarely defended explicitly, but aspects of it are often adopted unreflectively, when health care professionals, bioethicists, and philosophers ignore or underestimate the contribution of social and other environmental factors to the limitations faced by people with disabilities.
+    step1: |-
+      医学模型用身体与心灵本身的病理状态来解释残疾带来的不利。它认为残疾人所面临的限制主要源于其身体差异。医学模型很少被明确辩护，但其方方面面常被不假思索地采纳——当医疗专业人员、生命伦理学家与哲学家忽视或低估社会及其他环境因素对残疾人所受限制的作用时，就是如此。
+    step2: |-
+      医学模型用身体与心灵本身的病理状态来解释残疾带来的不利。它认为残疾人所面临的限制主要源于其身体差异。医学模型很少被明确辩护，但其方方面面常被不假思索地采纳——当医疗专业人员、生命伦理学家与哲学家忽视或低估社会及其他环境因素对残疾人所受限制的作用时，就是如此。
+  - id: 10
+    kind: body
+    source: |-
+      In contrast, the *social model* explains the characteristic features of disability in terms of a relation between an individual and her social environment: the exclusion of people with certain physical and mental characteristics, or “impairments”, from major domains of social life. Their exclusion is manifested not only in deliberate segregation, but in a built environment and organized social activity that preclude or restrict the participation of people seen or labeled as having disabilities. A variety of social models are embraced by disability scholars and activists in and outside of philosophy. The “British social model” associated with the Union of the Physically Impaired against Segregation (UPIAS 1976)[^upias-1976] appears to deny any causal role to impairment in disability:
+    step1: |-
+      相反，社会模型用个体与其社会环境之间的关系来解释残疾的特征性方面：具有某些身体与心理特征（即“损伤”）的人被排斥在社会生活的主要领域之外。这种排斥不仅表现为蓄意的隔离，也表现在建成环境与有组织的社会活动之中——它们阻止或限制那些被视为或被标为残疾的人参与。哲学内外，残疾学者与行动者拥护多种社会模型。与“身体损伤者反隔离联盟”（UPIAS 1976）[^upias-1976] 相联系的“英国社会模型”，似乎否认损伤在残疾中有任何因果作用：
+    step2: |-
+      相反，社会模型用个体与其社会环境之间的关系来解释残疾的特征性方面：具有某些身体与心理特征（即“损伤”）的人被排斥在社会生活的主要领域之外。这种排斥不仅表现为蓄意的隔离，也表现在建成环境与有组织的社会活动之中——它们阻止或限制那些被视为或被标为残疾的人参与。哲学内外，残疾学者与行动者拥护多种社会模型。与“身体损伤者反隔离联盟”（UPIAS 1976）[^upias-1976] 相联系的“英国社会模型”，似乎否认损伤在残疾中有任何因果作用：
+  - id: 11
+    kind: body
+    source: |-
+      > *In our view, it is society which disables physically impaired people.* Disability is something imposed on top of our impairments by the way we are unnecessarily isolated and excluded from full participation in society. Disabled people are therefore an oppressed group in society. Disability [is] the disadvantage or restriction of activity caused by a contemporary social organization which takes no or little account of people who have physical impairments and thus excludes them from participation in the mainstream of social activities.
+    step1: |-
+      > *在我们看来，正是社会使身体损伤者变得残疾。*残疾是在我们的损伤之上、由社会强加的东西——社会不必要地把我们隔离起来，排除在对社会生活的充分参与之外。因此，残疾人是社会中一个受压迫的群体。残疾［是］由当代社会组织造成的活动不利或限制——这种组织对身有损伤者不予考虑或很少考虑，从而把他们排除在社会活动主流之外。
+    step2: |-
+      > *在我们看来，正是社会使身体损伤者变得残疾。*残疾是在我们的损伤之上、由社会强加的东西——社会不必要地把我们隔离起来，排除在对社会生活的充分参与之外。因此，残疾人是社会中一个受压迫的群体。残疾［是］由当代社会组织造成的活动不利或限制——这种组织对身有损伤者不予考虑或很少考虑，从而把他们排除在社会活动主流之外。
+  - id: 12
+    kind: body
+    source: |-
+      Two features of this influential statement are worth noting, although we will only discuss the second at length. First, it limits itself to *physical* impairments; second, it contrasts *impairments*, individual characteristics or conditions, with *disabilities*, disadvantages imposed by society on those with impairments. The first feature inaugurates a long tradition in disability activism and scholarship of focusing exclusively on “physical” disability, to the neglect, if not the exclusion, of intellectual, psychiatric, and other “mental” disabilities. Both scholars and activists have long criticized, and sought to broaden, this narrow focus, and even those philosophers who continue to focus on physical disability recognize that adequate models and definitions must include mental disabilities as well. In the rest of this entry, we will not distinguish between the two types of disability except when it is relevant to a particular model or definition; we will note when an account is limited to physical disabilities or criticizes other accounts for that limitation.
+    step1: |-
+      这一影响深远的表述有两个特征值得注意，不过我们只详细讨论第二个。第一，它只限于身体损伤；第二，它把损伤（个体的特征或状况）与残疾（社会施加于损伤者的不利）对举。第一个特征开启了残疾行动与研究中的悠久传统：只关注“身体”残疾，而忽视——如果不是排除的话——智力、精神及其他“心智”残疾。学者与行动者早就批评并试图拓宽这一狭隘焦点；即便继续关注身体残疾的哲学家也承认，充分的模型与定义必须同样涵盖心智残疾。本词条余下部分不再区分这两类残疾，除非某一模型或定义与这种区分相关；当某一说明只限于身体残疾、或因这一限制而批评其他说明时，我们会加以注明。
+    step2: |-
+      这一影响深远的表述有两个特征值得注意，不过我们只详细讨论第二个。第一，它只限于身体损伤；第二，它把损伤（个体的特征或状况）与残疾（社会施加于损伤者的不利）对举。第一个特征开启了残疾行动与研究中的悠久传统：只关注“身体”残疾，而忽视——如果不是排除的话——智力、精神及其他“心智”残疾。学者与行动者早就批评并试图拓宽这一狭隘焦点；即便继续关注身体残疾的哲学家也承认，充分的模型与定义必须同样涵盖心智残疾。本词条余下部分不再区分这两类残疾，除非某一模型或定义与这种区分相关；当某一说明只限于身体残疾、或因这一限制而批评其他说明时，我们会加以注明。
+  - id: 13
+    kind: body
+    source: |-
+      The second feature, the distinction between impairment and disability, will be more central to our discussion. It is through those terms that the medical and social models have been distinguished, and it is this “anatomy” of disability that several recent philosophical definitions have rejected or significantly modified.
+    step1: |-
+      第二个特征，即损伤与残疾的区分，将是讨论的中心。医学模型与社会模型正是靠这对术语区分开来；而近年若干哲学定义拒绝或大大修改了残疾的这种“解剖学”。
+    step2: |-
+      第二个特征，即损伤与残疾的区分，将是讨论的中心。医学模型与社会模型正是靠这对术语区分开来；而近年若干哲学定义拒绝或大大修改了残疾的这种“解剖学”。
+  - id: 14
+    kind: body
+    source: |-
+      Implicit in the UPIAS understanding of disability are two ways that society imposes limitations on disabled people, corresponding to two distinct strands that might be a part of any social model. When the UPIAS claims that society “excludes” people with impairments, this suggests the *minority group model*, which sees people with impairments as a minority population subject to stigmatization and exclusion. On this view, the main reason people with disabilities encounter hardship is because they suffer discrimination along the same lines as racial or ethnic minorities. Accordingly, civil rights protections and anti-discrimination laws are the proper responses to disability (e.g., Hahn 1987 [1997] and Oliver 1990)[^hahn-1987][^oliver-1990]. Perhaps the most familiar expression of the minority-group model is found in the preamble to the Americans with Disabilities Act (ADA), which describes people with disabilities as “a discrete and insular minority”—an explicit invocation of the legal characterization of racial minorities.
+    step1: |-
+      UPIAS 对残疾的理解隐含了社会对残疾人施加限制的两种方式，它们对应任何社会模型都可能包含的两条不同脉络。UPIAS 主张社会“排斥”有损伤者时，指向的是少数群体模型——它把有损伤者视为遭受污名与排斥的少数人群。照这种看法，残疾人遭遇困苦的主要原因，是他们像种族或族裔少数那样受到歧视。因此，民权保护与反歧视法是应对残疾的正当手段（如 Hahn 1987 [1997] 与 Oliver 1990）[^hahn-1987][^oliver-1990]。少数群体模型最熟悉的表达，也许见于《美国残疾人法》（ADA）的序言：它把残疾人描述为“一个离散而孤立的少数群体”——明确援用了对种族少数的法律定性。
+    step2: |-
+      UPIAS 对残疾的理解隐含了社会对残疾人施加限制的两种方式，它们对应任何社会模型都可能包含的两条不同脉络。UPIAS 主张社会“排斥”有损伤者时，指向的是少数群体模型——它把有损伤者视为遭受污名与排斥的少数人群。照这种看法，残疾人遭遇困苦的主要原因，是他们像种族或族裔少数那样受到歧视。因此，民权保护与反歧视法是应对残疾的正当手段（如 Hahn 1987 [1997] 与 Oliver 1990）[^hahn-1987][^oliver-1990]。少数群体模型最熟悉的表达，也许见于《美国残疾人法》（ADA）的序言：它把残疾人描述为“一个离散而孤立的少数群体”——明确援用了对种族少数的法律定性。
+  - id: 15
+    kind: body
+    source: |-
+      The UPIAS also asserts that “contemporary social organization” fails to “take into account” people with disabilities. This suggests the *human variation model,* according to which many of the challenges faced by disabled people do not result from their deliberate exclusion, but from a mismatch between their characteristics and the physical and social environment. On this view, disability is
+    step1: |-
+      UPIAS 还主张，“当代社会组织”未能“顾及”残疾人。这指向人类变异模型：按此模型，残疾人面临的许多挑战并非源于蓄意排斥，而源于其特性与物理、社会环境之间的不匹配。照这种看法，残疾是
+    step2: |-
+      UPIAS 还主张，“当代社会组织”未能“顾及”残疾人。这指向人类变异模型：按此模型，残疾人面临的许多挑战并非源于蓄意排斥，而源于其特性与物理、社会环境之间的不匹配。照这种看法，残疾是
+  - id: 16
+    kind: body
+    source: |-
+      > an extension of the variability in physical and mental attributes beyond the present—but not the potential—ability of social institutions to routinely respond. (Scotch & Schriner 1997)[^scotch-1997]
+    step1: |-
+      > 身心属性之变异性的延伸，超出了社会制度当前（而非潜在）按常规加以回应的能力。（Scotch & Schriner 1997）[^scotch-1997]
+    step2: |-
+      > 身心属性之变异性的延伸，超出了社会制度当前（而非潜在）按常规加以回应的能力。（Scotch & Schriner 1997）[^scotch-1997]
+  - id: 17
+    kind: body
+    source: |-
+      This view of disabilities as the result of human variations is closely related to the view that disability is a universal human condition (Zola 1989)[^zola-1989] or shared human identity (L. Davis 2002: Ch. 1)[^davis-2002]. The claim that disability is universal can be taken as nothing more than a prediction that we will all acquire familiar disabilities at some point in our lives. But that claim is better construed as one about the nature of disability; as maintaining that all human beings have physical or mental variations that can become a source of vulnerability or disadvantage in some settings.
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      These two versions of the social model are not incompatible, differing mainly in emphasis. The discrimination stressed by the minority group model generally leads to, and is expressed in, the societal failure to accommodate people with various differences. In some contexts, it is appropriate to analogize people with disabilities to racial or other minorities; in others, it is important to reject a dichotomy between disability and normality and treat impairments as continuous variations. If one goal of social policy is to remove discrimination and its enduring disadvantages, another is to encompass the full range of human variation in the design of the physical environment and social practices.
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      Although the social model, in one version or another, is now the dominant legislative, social-science, and humanities paradigm for understanding disability, stronger versions of it – particularly the British Social Model exemplified by UPIAS – have been subject to extensive criticism. Some argue that an adequate conceptualization of disability requires a recognition of impairments as an objective basis for classification, to distinguish disability discrimination from other types of discrimination (Bickenbach 1993)[^bickenbach-1993]. Several critics argue that extreme versions of the model implausibly deny or understate the role of impairment itself as a source of disadvantage (Anastasiou & Kauffman 2013; Terzi 2004, 2009; Shakespeare 2006)[^anastasiou-2013][^shakespeare-2006][^terzi-2004]. Others, however, contend that this criticism is misplaced, because the British Social Model does not deny the importance of impairments but rather seeks to restrict the application of the term “disability” to social exclusion and oppression (Beaudry 2016)[^beaudry-2016].
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      Another objection is that the social as well as the medical model both rest on a false dichotomy between biological impairments and social limitations. There are two versions of this objection. One maintains that disability is a complex phenomenon, in which biological impairment and social exclusion are deeply interwoven and difficult to tease apart (Martiny 2015; Anastasiou & Kauffman 2013)[^anastasiou-2013][^martiny-2015]. The other version of this objection rejects the treatment of impairment as a (strictly) biological phenomenon. “Impairment”, the argument goes, is no less a social construction than the barriers faced by people so classified (more on this below). Claims that there is a stable biomedical basis for classifying a variation as an impairment are called into question by shifting classifications; by the “medicalization” of some conditions (shyness) and “demedicalization” of others (homosexuality). Moreover, the social environment appears to play a significant role in identifying and, arguably, in constituting some impairments (dyslexia) (Cole 2007; Shakespeare 2006; L. Davis 2002: Ch 1; Tremain 2001, 2017; Amundson 2000)[^amundson-2000][^cole-2007][^davis-2002][^shakespeare-2006][^tremain-2001]. What counts as an impairment may depend on which variations appear to be disadvantageous in familiar or salient environments, or on which variations are subject to social prejudice: Less-than-average height may be more readily classified as an impairment than greater-than-average height because the former is more often disadvantageous in environments designed for people of average height, or because it is generally seen as less desirable. For such reasons, it is difficult to establish the objectivity of the impairment classification by appeal to a clear and undisputed biomedical norm. Amundson (2000), indeed, goes so far as to deny that there is any biological basis for a concept of functional normality—a claim emphatically rejected by Boorse (2010).
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      ### 1.2 An Affirmative Model?
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      The debate between the medical and social model about the source of the disadvantages disabled people experience has dominated academic discourse about disability since the 1970s. More recently, however, disability activists and disabled scholars have questioned the apparent shared assumption of both models, that disability is fundamentally a matter of disadvantage, exclusion, or functional limitation. This is to take a (partly) different view on what an account of disability should explain; a view consistent in principle with either a more medical or more social view of what does the explaining. The *affirmative model* of disability and impairment, as articulated by John Swain and Sally French (2000), holds that disability is not in the first instance a problem—not simply or solely a “personal tragedy”, and implicitly, not simply or solely a social injustice either. Rather, disability is a different way of living in and experiencing the world, one not characterized by its disadvantages any more than its advantages.
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      Note that this is not a claim about what causally explains disability; rather, it is a claim about what aspects of the phenomenon of disability should serve as the object of explanation in social scientific theories of disability. As such, the affirmational model is *prima facie* consistent with either the medical or the social model, and indeed tends to draw on considerations from both. The diverse mix of advantages and disadvantages that characterize life with disability can derive from biological factors, social factors, or interactions between the two. On the side of advantage, a person with a disability like blindness might celebrate the increased attention sightlessness saves for hearing and other senses as well as the solidarity they experience with other disabled people as they fight together against ableism and for social justice. On the side of disadvantage, the affirmational model will point to the considerations some would regard as personal tragedies as, instead, a combination of purely functional challenges to be overcome, and conditions of social exclusion that can make life harder without thereby making it any less valuable or worth living.
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      Still, though logically independent of claims about the evaluative import of disability, the medical and social models suggest different views about the impact of disability on well-being, and different views about how disability is relevant to reproductive decisions, medical interventions, and social policy. The affirmational model is likely to be more in sympathy with social than medical models here. Those who accept a social model of disability regard the association between disability and well-being as highly contingent, mediated by a variety of environmental and social factors (Campbell & Stramondo 2017)[^campbell-2017]. They also tend to question conceptions of well-being that give a central role to the possession or exercise of the standard array of physical and mental functions, as those conceptions imply, or are often taken to imply, that well-being is precluded or diminished merely by the absence or limitation of those functions (see entry disability and well-being). As a result, they generally see the disadvantages of disability not only as externally caused, but as less formidable than they appear to people who view disability in largely biomedical terms. These differences are reflected in the conflicting assessments of life with disabilities found in the bioethics and public policy literature on the one hand, and disability scholarship on the other (contrast Brock 2005 with Goering 2008)[^brock-2005][^goering-2008].
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      ### 1.3 Models, Decisions, and Policies
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      The different models of disability—and particularly, the medical and social models—have always been interpreted as favoring different responses to disability. The medical model appears to support the correction of the biological condition (or some form of compensation when that is impractical); the minority group model appears to favor measures to eliminate exclusionary practices or at least recognize their injustice; the human variation model appears to favor reconstruction of the physical and social environment to take into account a wider range of differences in human structure and function (measures that could in turn make the social environment less exclusionary).
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      But claims about the causal explanation of disadvantage do not always yield straightforward prescriptions for their remediation (Wasserman 2001; Samaha 2007; Barclay 2018)[^barclay-2018][^samaha-2007][^wasserman-2001]. In some cases, medical or surgical “correction” may be the most effective way to escape discrimination; if correction is not appropriate, that is because it reinforces discriminatory attitudes and practices, not because it is discriminatory *per se*. Even an affirmational model does not straightforwardly imply that we should change society rather than disabled bodies: that disabled people have reason to be proud of their disabilities and/or impairments does not immediately entail claims in justice on the rest of us to incur the costs of accommodating these differences. This is to be expected: the proper response to the disadvantages associated with disability depends not only on causal attributions and prudential evaluations, the domains of the three “models”, but also on moral judgments about responsibility, respect, and justice.
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      This is not to say that these causal attributions, much less prudential judgments, are morally irrelevant: to the extent that social causation of disability disadvantage makes social institutions *morally responsible* for the limitations disabled people face, it may be unfair and disrespectful for society to ask disabled people to change themselves rather than changing itself to be more inclusive (Aas 2020)[^aas-2020]. Moreover, “correcting” disability may (as the affirmational model reminds us) involve destroying valuable forms of life and reducing the vibrant diversity of human embodiment; or it may not do enough to counterbalance the benefits of uniformity (Garland-Thomson 2012)[^garland-thomson-2012]. *Contra* the sense that the social, medical, and affirmational models each come bundled with obvious policy consequences, it seems clear on reflection that there is much yet to do to understand just what these different explanations of disability imply as to how we should respond to it.
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      ## 2. Definitions of Disability
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      Until relatively recently, there was little independent philosophical discussion of definitions of disability. Instead, philosophers focused primarily on developing and interpreting legal and regulatory definitions needed to implement disability policy. The legal definitions, in turn, were heavily influenced by the two-part “anatomy”—impairment and social response—of the social model of disability, which was developed by activists seeking to influence legislation and policy.
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      ### 2.1 Philosophical discussion of Official Definitions of Disability
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      Thus, two familiar features are shared by most official definitions of disability, such as those in the World Health Organization (1980, 2001), the Disability Discrimination Act (UK), and the Americans with Disabilities Act (United States): (i) a physical or mental characteristic labeled or perceived as an impairment or dysfunction and (ii) some personal or social limitation associated with that impairment. Impairments are generally seen as *traits* of the individual that he or she cannot readily alter. Just what makes a condition a trait or attribute of an individual is obscure and debatable, but there seems to be agreement on clear cases. Thus, poverty is not seen as an impairment, however disabling it may be, nor is tasteless clothing, even if it is a manifestation of impaired fashion-sense rather than scarce income. On the other hand, diseases are generally classified as impairments, even though they are often neither permanent nor static conditions. Diseases that are especially transient, however, such as the flu and the measles, do not normally count as impairments.
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      As in early philosophical debates about competing models, the most controversial issue in defining disability is the relationship between these two features. At one extreme are definitions that imply, or are read to imply, that biological impairments are the sole causes of limitation. The definitions in the World Health Organization’s 1980 International Classification of Impairment, Disability, and Handicap, and the Disability Discrimination Act (UK) have been interpreted this way. At the other extreme are definitions that restrict the limitations faced by disabled people (as such) solely to “contemporary social organization”, such as the definition given by the Union of the Physically Impaired Against Segregation (UPIAS 1976)[^upias-1976]. In between are definitions which assert that individual impairment and the social environment are *jointly* sufficient causes of limitation. Perhaps the best-known example is the WHO’s International Classification of Functioning, Disability and Health (World Health Organization 2001, referred to as ICF)[^world-2001], which emphasizes that disability is a “dynamic interaction between health conditions and environmental and personal factors”.
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      Through much of the first two decades of this century, philosophers were largely content with this definitional approach to disability as a relationship or interaction, disagreeing primarily on the comparative contribution of the two elements and the policy relevance of their contributions. As noted in the last section, dissenters mainly focused on the characterization of one or both elements, as, e.g., on the first as social vs. biological, rather than on the “anatomy” itself. More recently, however, there has been some movement away from reliance on these two-part approaches to defining disability (e.g., Barnes 2016, and much of the literature responding)[^barnes-2016]. One reason may be that in most settings, we do not think of or refer to disabilities as relationships or interactions, but as individual somatic or psychic traits, states or conditions (including absences and deficiencies). These commonsense referents are hard to find in, for example, the multifactorial charts by which the ICF illustrates its definition of disability as a complex interaction of health conditions with environmental, social, and personal factors.
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      Some might argue that ordinary usage is ideological, shaped by false failure to be conscious of the insights of social and interactionist models. But defining “disability” in rough conformity to ordinary usage hardly implies that its referents are selected by biomedical criteria, let alone that the traits selected cause the disadvantages faced by their bearers or dictate the appropriate social response to those disadvantages. Rather, this view on what “disability” and “people with disabilities” refer to is compatible with a wide variety of positions on how those referents are picked out: e.g., by biomedical criteria; by the rules of a civil-rights movement; by the assumptions of the dominant ideology about bodily dysfunction; or by the demands of justice. The extent to which what counts as a disability, or a person with a disability, varies with context and will depend on the account adopted; on biomedical accounts, the extension of “disability” will be as stable as human biology; on other accounts, it will change with changing social norms, economic needs, or political developments. Further, on some accounts, the referents will have common features, identifiable by inspection; on others, what they have in common can only be understood in terms of an ideology or a theory of justice.
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      After discussing several types of accounts, we will address the claim, inspired by the diversity of traits and conditions they pick out, that “disability” has no core meaning, and that it may be futile and distracting to search for one.
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      ### 2.2 Philosophical Definitions of Disability
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      Outside of legal and policy interpretation, philosophers have made a number of claims about the definition of “disability”—at first, mostly only in passing, during discussion of other matters, like “disease” and “health”; later as an increasingly important philosophical topic in its own right.
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      #### 2.2.1 Normal-Function Views
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      Given the pervasiveness of medical models of disability in the culture, one would think that at least some recent philosophers would defend a view of disability on which it is defined in terms of *pathology* or departure from normal functioning (see entry on concepts of health and disease). So far we can tell, however, no one has done so explicitly, in print. Christopher Boorse, perhaps, comes closest, when he says:
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      > at first sight, one expects *disability* […] to consist of a pathological condition severe enough to have certain morally and legally important effects. (Boorse 2010: 60–61)[^boorse-2010]
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      Though Boorse only broaches the possibility of such a definition, without defending, his broader views about health and disease may seem to support this approach. If, as Boorse argues there is a good naturalistic sense of “pathology” as (statistically) downward departure from species-typical functioning, then that notion can be inputted into our moral and political thinking to produce a definition of disability on the following pattern:
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      *S* is disabled, in a context *C*, iff
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      1. *S* has a pathology—that is, some part of their body performs its normal function at statistically subtypical levels,
+      2. In *C*, that pathology causes effects that make a difference, of kind *D*, to how *S* ought legally or morally to be treated
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      To fully develop this view, of course, one would need to say what sort of moral/legal difference pathology is supposed to make—not just any difference will do, since it would not follow from the fact, say, that everyone has a legal or moral right to treatment for transient injuries or diseases that all these conditions are disabilities. Note also that, though this view mentions the medical concept of pathology, as a *definition* of disability it does not entail a medical model, or indeed even the denial of the affirmational model. The medical/social debate will turn on the extent to which it is pathology *itself* that makes a moral difference, rather than pathology in combination with social factors. The affirmational model debate will turn on just which effects are definitive of disability; if these are all negative or harmful, it will be harder to understand disability as something to be proud of. But the bare fact that disability arises from pathology, on this definition, does not necessarily preclude pride in it, given Boorse’s normatively neutral definition of pathology.
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      That said, few philosophers seem inclined to defend this way of defining disability. Many philosophers are skeptical of the analytic division between facts about bodily function and social and ethical norms, arguing that there is no way to define disease or pathology independent of “normative” considerations (Wakefield 1992; Kingma 2007; entry on concepts of health and disease)[^kingma-2007][^wakefield-1992]. Those sympathetic to the claims of the disability may have more specific qualms, as well. Those attracted to the “human variation” version of the social model may be skeptical that all of the bodily difference that make for disability are statistically atypical in the required way, e.g., very common or universal conditions like age-related hearing loss or atherosclerosis. Those who tend more to a “minority group” model will tend to see the bodily differences that matter to disability as *perceived* or represented difference, rather than actual difference. And anyone with any sympathy to the social model at all will tend to think that, as-so-far stated, this definition puts its philosophical precision in the wrong place: that it is at least as important to understand what social, moral, and legal effects characterize disability as to understand which sorts of causes these effects must have to count as “disabling”.
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      #### 2.2.2 The Welfarist View
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      Kahane and Savulescu (2009; Savulescu & Kahane 2011)[^savulescu-2011] propose a reformed definition of disability that promises to avoid potentially problematic references to pathology. Their basic idea is that a disability is a (broadly) bodily condition that makes its bearer worse off. To wit:
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      > “disability” should refer to any stable physical or psychological property of subject *S* that leads to a significant reduction of *S*’s level of wellbeing in circumstances *C*, *excluding* the effect that this condition has on wellbeing that is due to prejudice against *S* by members of *S*’s society. (Savulescu & Kahane 2011: 45)[^savulescu-2011]
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      This view adopts certain insights of the social model: in particular in holding that disability is relative to circumstance and in downplaying the role of pathology or biological abnormality in defining disability (note there is no reference to “impairment”, not even records or appearance of impairment).
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      In other ways, however, it seems to be significantly out of step with both the letter and the spirit of social models of disability. On this definition, a condition which is *only* harmful in virtue of social prejudice would not be a disability. Even the softer social model implicit in the Americans with Disabilities Act allows that *some* people are disabled solely in virtue of being “regarded as” impaired; those in that group who experience discrimination as a result would still not be “disabled” on Kahane and Savulescu’s view. Just how out of step this judgment is with the usual commitments of the social model, may depend on the relative importance it places on prejudice as compared to other factors in producing disability disadvantage. A social model that cleaves closely to a “minority group” understanding of ableist injustice may find that this definition excludes the paradigm cases of disability, people who experience gross or net reductions in advantage due to prejudicial phenomena like stigma and intentional exclusion. A “human variation” account of most disability disadvantage would see more possibility for people to be disadvantaged by non-prejudicial mismatches between atypical bodies and societies built for typicality, since this account will say that many of the welfare costs experienced by people with atypical bodies are not a result of prejudicial attitudes *per se*, even if they often reflect structurally unjust failures of inclusion.
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      It should be even more clear that the *affirmational* model of disability is in substantial tension with this harm-requiring definition of disability. Granted, affirmation of disability may not be formally inconsistent with defining it in terms of harm, since it is possible in principle to take pride in or otherwise be glad about something that leads to a reduction in our well-being (since there are things in life that matter, besides our own well-being). But affirmational models generally hold that being disabled is not always or in general a cost to our well-being (Swain & French 2000; Barnes 2016)[^barnes-2016][^swain-2000]. This would be a conceptual falsehood, on the welfarist view: something which is not a cost to well-being in *some* context is simply not a disability.
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      Are these decisive problems for defining disability in terms of welfare? Much depends here on what we intend to do with definitions of disability. If the goal is to capture ordinary usage, a welfarist view may be on the right track. It might account, for instance, for the broad appeal of slogans like “deafness is not a disability” and euphemisms like “differently abled”; these expressions, on this view, would be ways of emphasizing some of the substantive evaluative intuitions behind the affirmative model, that most conditions we call disabilities are not so bad absent prejudice. That said, disability scholars and activists have tended to be skeptical of such expressions, on the grounds that they undermine efforts to see disabled people as a politically salient group with similar experience of ableism and strong reason to work together for justice, rather than to simply commiserate. If a definition of disability should advocate in favor of usages that produce a better or more just world, this might be a reason to reject Kahane and Savulescu’s view, in favor of one that allows people to be disabled due to prejudice and/or in the absence of harms to well-being. Or at least, this will be so if the social and/or affirmational models of disability have the moral and political advantages proponents advertise for them.
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      #### 2.2.3 Social Constructionisms
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      Most philosophers who have considered the definition of disability in recent years have written in sympathy with either or both of the social or affirmational model of disability.
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      Elizabeth Barnes’ critique of definitional claims implicit in the social model has been a signal moment in the recent debate. Barnes is concerned that thinking of disability as a stigmatizing, oppressive, and exclusionary response to bodily difference does not distinguish disability from other properties grounded in responses to the body, like (on many accounts) race, gender, and sexual orientation identities.
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      Barnes develops an alternative view which still defines disability as a social property—but in a way that fits the affirmational model better than the definitions suggested by classic social models, doing away with the distinction between disability and impairment and making no direct reference whatsoever to injustice or disadvantage. Barnes (2016) proposes to define disability in terms of the judgments of disabled people themselves, not society as a whole. To wit, *S* is (physically) disabled if and only if:
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      1. *S* is in some bodily state *x*; [such that]
+      2. The rules for making judgments about solidarity employed by the disability rights movement classify *x* in context *C* as among the physical conditions that they are seeking to promote justice for.
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      This makes who is disabled a social construction—dependent on the attitudes and commitments of a particular, self-identified group of people in contemporary society, the “disability rights movement”, composed of self-identified disabled and nondisabled members. It thus raises the concern that a disability movement might seek justice for the wrong people. Couldn’t some of those people complain that they should be included in the aims of that movement, precisely, because they are disabled? Barnes responds in two ways. The first is to note that she appeals to the *rules* for judgment-making, rather than judgments themselves; some people might not *actually* be included in the disability rights movement—say, because of internal prejudices on the part of those within the movement—but if this is inconsistent with the reasons for including others, then the excluded people will count as disabled too, on Barnes’ account. Still one might ask, what if the rules themselves were bad rules, wrongly but consistently excluding some people from the ambit of the struggle against ableism? Barnes, in response to this, rigidifies, insisting that we judge disability relative to the rules of the *actual* disability movement, even when we are imagining situations where that movement should use different rules than it actually does.
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      Some are not convinced by this last reply. For it can seem to give too much weight to judgments of the actual disability rights movement. As Jenkins and Webster point out, “rigidifying” to the actual world in this way means that imagining a world with a different disability rights movement isn’t imagining a world with different disabled people. But what if the disability rights movement is different there because social conditions are different, warranting a different set of rules for determining which people with pathologized bodily difference to seek justice for? And indeed isn’t there a sense in which “there” could be “here”? That is, couldn’t the disability right movement as it actually is, use rules that even when consistently applied lead it to seek justice for the wrong people (Wasserman 2018; Howard & Aas 2018; Lim 2018)[^howard-2018][^lim-2018][^wasserman-2018]?
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      This last concern can be generalized. Chong-min Lim, responding to Barnes, questions why the disability movement alone should have the authority to constitute disability. Where, we might ask, does this leave the experience of disabled people not part of the movement, or of those caregivers and/or non-disabled loved ones who advocate for them? And couldn’t the disability movement be overinclusive too, in principle, attempting to expand solidarity beyond what makes sense morally or politically. To address this problem (and in the process, expand the account to cover cognitive and other “non-physical” disabilities), Lim proposes that we make the following modification to Barnes’ account:
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      *S*, is disabled in context, *C*, if and only if:
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      1. *S* is in some state, *x*;
+      2. *x* is constitutive, in *C*, of some constraint on *S*’s legitimate interests;
+      3. *x* is regarded, in *C*, as the subject of legitimate medical interest;
+      4. the rules employed by the disability rights movement classify *x* in *C* as among the traits that they are seeking to promote progress and change for. (Lim 2018: 987)[^lim-2018]
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      Relative to Barnes, II and III are new restrictions, while IV is a substantially broadened version of the main clause of Barnes’ approach—in effect, broadening the relevant goals to include any improvement in the lives of putatively disabled people, whether that comes from social change or bodily transformation. Relatedly, III seems to bring back in medicalization—though now constrained by the requirement that the medical interest in question be “legitimate”, meaning, not *apt* in the traditional sense (not, *concerned with pathology*) but rather *just* or *right*; morally legitimate in light of whatever morally appropriate role medicine has to play in our society. Lim introduces these conditions to reflect the fact that expert communities outside of the disability rights movement have expertise relevant to constituting the disability population; parents or caregivers, even those not part of the movement itself, may have insight into whether and how a condition affects legitimate interests, while physicians will have important (though not exclusive) knowledge of which limitations on function are legitimately subject to medical interest.
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      The (intended) effect of Lim’s modifications, then, would be to limit the authority of the particular political judgments of the actual disability rights movement in determining who is disabled. This points to what may be a deeper problem for Barnes’ account, and the parts of Lim’s that follow her in making recognition by the rules that guide the disability movement determinative of disability. If the disability movement ought to adopt rules that pick out a certain group, isn’t that precisely because that group shares some other property, that makes that choice reasonable? That is, isn’t there something that those in the disability rights movement share, that explains why they ought to seek justice in solidarity together? Wouldn’t that thing, whatever it is, make a better candidate definition of disability? To put the question for Lim’s account in particular: why would we want to deny that a condition is a disability, if it were a medically interesting constraint on legitimate interests, but not recognized as such by the rules of the disability rights movement?
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      Howard and Aas (2018) respond to Barnes in a different way, developing a definition that harkens back to the classic social model of disability. Building on the work of Sally Haslanger (2000) on gender and race, they define disability classically as a certain sort of social response to impairment. On their view, person *S* is disabled in a context *C*, iff
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      1. *S* is in some bodily or psychological state *x* [such that]
+      2. *x* is regularly assumed in the ideology in *C* to involve an impairment: a dysfunctional bodily state that limits a major life activity, and
+      3. in the dominant ideology of *C*, that someone in *x* has an impairment explains why they can be appropriately pitied, stigmatized, and excluded from socially valued activities and statuses.
+      4. The fact that *S* is in this state plays a role in *S*’s systemic disadvantage: that is, (i)–(iii) actually explains why *S* is involuntarily excluded from certain valued activities or relegated to a marginal status along some significant social dimension. (2018: 1128–1129)
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      Impairment is critical on this analysis. Disability is distinct from other bodily-based social categories on this definition precisely because it is a response, of a certain distinctive sort, to social perception about bodily properties, namely *impairment*. Race, gender, and orientation identity would be different (thought possibly overlapping) responses to different (again, possibly overlapping) bodily properties. Howard and Aas do not, however, defend the biological reality of impairment; it suffices for their account that society itself employs some notion of biological abnormality or insufficiency, saying with the classic social model that disability is a matter of being classified as impaired, and excluded on that basis.
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      Barnes (2018) responds that, because of this last feature, this account does not after all give sufficiently central place to bodily difference. In particular, she thinks it makes it hard to see how the bodily differences characteristic of disability could be, as the affirmation model has it, *something to be proud* of. They are, after all, picked out negatively, by reference to disadvantage and social exclusion. Bodily features picked out for their role in the struggle for disability justice seem to be a better candidate source of joy, identification, and pride. The success of Barnes’ response depends on how exactly disability pride is supposed to work, and on how exactly definitions like these are supposed to serve the interests of the struggle against injustice. Among other things, reflection on related cases involving racialized body features suggests that it is possible to take pride in something that others respond to in oppressive and stigmatizing ways. On this understanding, the pride is not in the oppression, but in the oppression-triggering feature itself or in a skillful or solidaristic response to oppression.
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      Jenkins and Webster (2021) propose a different sort of social-construct definition of disability—or actually, three different but closely related definitions. Like Barnes, Howard, and Aas, they are interested in understanding what bodily differences are centrally relevant to disability. But they cleave closer to the human variation model than the minority group model in understanding these differences. Their key notion is what they call **marginalized functioning**: having a body that does not work in the way that our socially constructed world expects. Each of their three definitions of disability presuppose this notion; to wit:
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      **MF1**: A subject *S* is [physically] disabled if they have marginalized functioning relative to a context, *C*, where this is the case iff:
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      1. there is a set of social norms *N*, comprising $n_1,$ $n_2,$ …$n_n,$ each of which serves as a default for the purposes of constructing common social environments and structuring common social interactions in *C*; and
+      2. there is some norm in *N*, $n_x,$ such that *S* cannot physically function in a way that satisfies it. (2021: 8)
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      It might seem that this account, and indeed Howard and Aas’s, implies that there could be no disability in a just society. Though this is a classic claim of the traditional British social model of disability (UPIAS 1976)[^upias-1976], some find it implausible. Note, however, that neither of these views in fact implies the impossibility of disability in a just society (even if their language sometimes suggests it). For neither view, in itself, implies that the social responses that constitute most disabled people as such are *necessarily* unjust (though surely all four authors would agree that in the actual world, they usually are). If it is morally legitimate to set society up in a way that is designed for the functioning of most but not all its members—and it may well be, given how costly it would be to get anywhere near complete and comprehensive inclusion (Barclay 2018)[^barclay-2018]—then some forms of functioning could be marginalized or be a source of disadvantage, even in a just society. And, thus, those that function in those marginalized ways, could be disabled.
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      A more significant *prima facie* concern for MF1 is that it seems to include amongst the disabled people with merely transitory mismatch between body and society—say, someone who broke one or both arms, and therefore cannot open doors or otherwise do what society expects people to be, physically, able to do. These people do not normally identify and are not normally identified as disabled. To capture this, Jenkins and Webster propose that we might move, simply, to:
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      **MF2:** someone is disabled in a context if and only if they have lasting marginalized functioning in that context; OR
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      **MF3:** someone is disabled in a context if and only if they experience disability-characteristic oppression because they have marginalized functioning in that context
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      MF2 solves the problem of temporary conditions by stipulation. This may or may not be good enough here, depending on whether we think temporary conditions (e.g., post-concussion syndrome or pregnancy) can be disabilities. MF3 faces some of the same problems as other social-model-inspired definitions—particularly, that it seems to define disability in terms of a kind of oppression, and therefore in terms of something bad, something that is therefore (arguably) difficult to be proud of or happy about. Further, by requiring that oppression be caused by functioning that *actually* fails to fit going norms and expectations, it does not clearly classify as disabled people who are disadvantaged by *false* perceptions regarding their bodily differences—again, failing to follow the ADA in its well-considered inclusion of people “regarded as”, but not, impaired, in its definition of disability (Francis 2018)[^francis-2018]. It remains to be seen whether the advantages of this definition are great enough to justify excluding such “regarded” as people as disabled.
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      #### 2.2.4 Inability Views
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      In their influential book *From Chance to Choice*, Buchanan, Brock, Daniels, and Wikler (2000) propose the following definition, meant as an explication of the legal and policy decisions considered above.
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      > To have a disability is to be unable to perform some significant range of tasks or functions that individuals in someone’s reference group (e.g., adults) are ordinarily able to do, at least under favorable conditions, where the inability is not due to simple and easily corrigible ignorance or to lack of the tools or means ordinarily available for performing such tasks or functions. (2000: 286)
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      This defines disability colloquially, in terms of ability; disability is, roughly, an unusual inability. Barnes and others object, however, that this definition is too broad. It seems to make it the case, for instance, that someone who cannot “roll their tongue” or do mental subtraction is disabled; since most people can do this under favorable conditions. Conversely, this sort of view also seems to undergenerate disabilities, since some (fibromyalgia or depression for instance), only make it more difficult to do things, without making any particular task or function straightforwardly unachievable. And it is not entirely clear how this account avoids the obviously problematic implication that identity categories like race, gender, and sexual orientation imply disability; someone subject to social prejudice in virtue of their gender or the color of their skin might be, for that reason, unable to do things others can do.
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      Alex Gregory (2020) takes a different approach to defining disability in terms of inability:
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      > The Inability Theory: To be disabled is to be less able to do something than is typical, where this degree of inability is partly explained by features of your body that are atypical. (2020: 26)
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      This definition of disability brings the body into the definition, but it is meant to be neutral between more-medical and more-social ways of seeing disability. “Atypical” features need not be “abnormal” in a medicalizing sense; they are simply different, not necessarily worse. To say that an inability that comes to disability must be at least partly explained by bodily features is consistent, both, with saying that it is entirely explained by them (a la the medical model) and that it is also partly explained by social factors. This in itself rejects the medical model as a general claim, as well as the less nuanced statements of the social model, that would definitionally exclude non-social inabilities from the ambit of “disability”.
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      The initial statement of the Inability Theory would still seem to be overinclusive; someone who cannot get a good job because of the color of their skin, or marry the person they love because of their sexual orientation, has an atypical inability explained by an atypical bodily feature. To rule these cases out, Gregory moves to:
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      > The Final Inability Theory: To be disabled is to be less able to do something than is typical, where this degree of inability (1) is partly explained by features of your body that are atypical, and (2) is not explained by anyone’s attitudes toward those bodily features. (2020: 33)
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      This does plausibly avoid the problem of classifying sexual and racialized minorities at least as disabled; any inability engendered by color of skin is explained entirely by prejudicial attitudes. (Or so it may seem; more below). But in the process it also raises a recurring problem—where an atypical feature is only inability-generating because of attitudes *specifically about whether it is inability-generating*. If people think that people with, say, Down syndrome, cannot benefit from education, they will not be educated; when they do not develop the skills they could have developed, that lack of skill is, then, explained by a combination of atypical bodily features and attitudes towards those features. It can seem plausible to say, with the ADA, that discrimination rooted in a pathologized understanding of a trait *is* a kind of disability discrimination.
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      Moreover, this analysis also raises some of the same concerns as those Barnes and others pressed against Buchanan *et alia*’s explication of disability as biologically abnormal limitation. For here even more than there it seemed like not every limitation on ability, not even every one explained by atypicality or abnormality, is a disability properly-so-called. Gregory, however, has a novel response here—insisting that these are, really, disabilities, but just not normally worth calling attention to as “disabilities”, since the aptness of this ascription in conversational context depends on the significance of the abilities at issue.
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: body
+    source: |-
+      This proposal raises other problems, however. Recall race and sexual orientation. A person with light-colored skin cannot work in even relatively moderate sun all day without getting a sunburn. Someone with exclusively same-sex orientation cannot have procreative sex with someone for whom they have romantic and sexual feelings. These are inabilities explained by bodily difference, not by attitudes, and they are not insignificant or trivial ones: yet it seems they are not disabilities, not even a little bit.
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: body
+    source: |-
+      Why not? The social constructionist views considered above would give one kind of answer—pointing to the facts that (depending on the view):
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: body
+    source: |-
+      1. the disability rights movement is rationally unconcerned with properties like race and orientation; or
+      2. that race and orientation are not targeted by *ableist* ideology for exclusion and stigmatization; or
+      3. that our actual social norms do not marginalize these configurations of bodily function, in the way they marginalize paradigm impairments.
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: body
+    source: |-
+      An alternative, more positive approach, which remains focused squarely on ability, would hold that these inabilities, like the minor inabilities considered above, are not relevant to disability because their absence does not place claims on others, in justice. To wit, Jessica Begon (2021)
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: body
+    source: |-
+      > Thus, I define disability as the restriction in the ability to perform those tasks human beings are entitled to be able to perform as a matter of justice, as the result of the interaction between an individual’s impairment, their social and political context, and the resources they have available to them. (2021: 936–937)
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: body
+    source: |-
+      It turns out that by impairment Begon simply means “atypical or unusual functioning”, not pathological or life-limiting functioning; so, this account is actually structurally more similar to Gregory’s than to Buchanan et alia. The difference is that the specific absence of ability that constitutes a disability is the atypicality-caused absence of abilities *we ought to have*, or anyway that our societies ought to provide for us.
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: body
+    source: |-
+      This account has a natural response to the problems of non-disability inabilities. No one is entitled to roll their tongue (at least in any social environment remotely like our own); thus, nobody is disabled because they cannot do so. Nor, in most circumstances, are we entitled to sit unprotected all day in the sun without paying the consequences. We might be entitled to protection by sunscreen, or to the opportunity to escape the sun, but we are not entitled to have the ability to withstand the sun if we choose to forgo these protections. Similarly, it seems plausible to deny that anyone is entitled to procreate sexually with their romantic partner; there may be entitlements to become a parent, perhaps even a genetic parent, but they need not be realized in this way. Thus, Begon’s account appears at first glance not to overgenerate disabilities, as other inability-based accounts seem to.
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: body
+    source: |-
+      That said, the account still faces some of the problems we see with other ability-limitation-based accounts. The non-pathologizing sense of impairment as “functional difference” may not in the end be specific enough to distinguish disability from other kinds of unjust absence of ability. Begon addresses this in the case of sex difference, arguing—in effect, with Boorse—that differences in the “reference class” or appropriate functional norms applying to males and females of the species make for differences in what counts as an impairment between males and females. So, for instance, an inability to get a good-paying job resulting from possession of the capacity to menstruate is not a disability, because that capacity is not atypical *for female human beings*. Such a way to address the problem may not cover all forms of oppression since much oppression seems to be evoked by differences that are functional in some sense—sexual orientation relates to the function of our dispositions to sexual attraction; absence of athletic ability (within the normal range) to the function of the musculature; even pigmentation, to the function of the epidermis in protecting the organism from the environment.
+    step1: TBD
+    step2: TBD
+  - id: 97
+    kind: body
+    source: |-
+      Begon’s view could avoid classifying inabilities down to these differences by further multiplication of “reference class”, so that, say, being unable to get a job because you are gay is not a disability because gay people function typically “for gay people”. But as Elselijn Kingma has argued, in response to similar maneuvers in the health literature, this kind of specificity seems problematically arbitrary—in the limit, threatening to trivialize the relevant notion of “functional typicality” (Kingma 2007)[^kingma-2007]. These concerns seem to press back in the direction of Lim’s restriction of disability to responses to “medically significant interests”, or Howard and Aas’s definition in terms of traits *perceived* or represented as functional deficits in the reigning biomedical ideology.
+    step1: TBD
+    step2: TBD
+  - id: 98
+    kind: body
+    source: |-
+      There are also questions about how we are to understand the set of entitlements relevant to determining when the absence of ability is unjust. Begon discusses these issues only briefly (2021: 954, n30); a more fully developed version of the view would have to do more. It seems important to abstract from resource constraints, since we would not want to say that someone is only disabled if habilitating them is cost-effective relative to other priorities justice gives us, given what resources we happen to have. But this abstraction threatens to make too many of us disabled, since justice might, absent resource constraints, give us powerful reasons to enable one another to do all sorts of things—to give those of below-average height the ability to dunk a basketball, say; or to give women well-past childbearing age the ability to conceive and gestate children. Perhaps we should do these things in response to these functional atypicalities; that does not make people disabled, until we are rich enough to do them.
+    step1: TBD
+    step2: TBD
+  - id: 99
+    kind: body
+    source: |-
+      #### 2.2.5 Skepticism about Defining Disabilities
+    step1: TBD
+    step2: TBD
+  - id: 100
+    kind: body
+    source: |-
+      Two sorts of skeptical responses have greeted the effort to define disabilities as individual traits, conditions, or functions, selected by some set of rules or criteria. The first critique is inspired by the work of Michael Foucault on biopower as a form of control exercised by modern states over the bodies of their populations (Tremain 2017)[^tremain-2017]. This critique argues that to focus on individual characteristics in defining disability is to miss the forest for the trees. “Disability” refers not to a set of individual characteristics, or to a concept that encompasses such a set, but to a mechanism that identifies various types of individual characteristics for the purpose of social control. Notably, Shelley Tremain analyzes disability as a mechanism constructed and maintained by laws, informal norms, cultural understandings and other exercises of biopower. Impairments and disabilities only exist within this culturally and historically contingent apparatus that arose in part as a means for people who saw themselves as “normal” to regulate those they labeled as “deviants”.
+    step1: TBD
+    step2: TBD
+  - id: 101
+    kind: body
+    source: |-
+      > [D]isability is not a metaphysical substrate, a natural, biological category, or a characteristic that only certain individuals embody or possess, but rather is a historically contingent network of force relations in which everyone is implicated and entangled and in relation to which everyone occupies a position. That is, to be disabled or non-disabled is to occupy a certain subject position within the productive constraints of the apparatus of disability…. (2017: 22).
+    step1: TBD
+    step2: TBD
+  - id: 102
+    kind: body
+    source: |-
+      At first glance, Tremain’s Foucauldian claim can seem to be talking past the interlocutors considered above; no more a distinctive analysis of disability to compete with the foregoing than was Foucault’s famous claim that “knowledge is power” a competitor to Plato’s or Goldman’s or Sosa’s analytic definitions of knowledge (see entry on the analysis of knowledge). As in that case, however, a recognition of the role the concept of disability plays in reproducing unjust social conditions can cast doubt on the reliability of the commonsense judgments and linguistic intuitions appealed to by rival analytic definitions. Such judgments and intuitions are, so the Foucauldian could argue, products of the apparatus, not an independent basis for assessing or understanding its assignment of positions. However, several of the analytic accounts discussed in the preceding section were developed with awareness of and due skepticism towards the ideological roots of prevailing convictions about disability and do not explain disability as a natural, biological category. It is unclear then, if a Foucauldian challenge could undermine the evidence used to develop these accounts.
+    step1: TBD
+    step2: TBD
+  - id: 103
+    kind: body
+    source: |-
+      The second critique, rather than dismiss the value of philosophical definitions, emphasizes their multiplicity, maintaining that different definitions are appropriate in different contexts and for different purposes. On this view, the problem with these definitions is that they see themselves as competitors in pursuing a goal that is both unattainable and undesirable: a single unified or core definition of disability:
+    step1: TBD
+    step2: TBD
+  - id: 104
+    kind: body
+    source: |-
+      > Many philosophical disagreements about disability simply overlook the fact that the disputants are talking about different phenomena (impairment vs. oppression; care vs. justice; legal vs. extra-legal obligations, etc.). Some of those disagreements are more productively articulated as disagreements on how to handle the polysemy of disability. (Beaudry 2020: 5; see also Beaudry 2016)[^beaudry-2016][^beaudry-2020].
+    step1: TBD
+    step2: TBD
+  - id: 105
+    kind: body
+    source: |-
+      Though certain ethical or political contexts might call for specifying or stipulating a definition, this view holds that we have little reason to think we can find, or should seek, a definition of “disability” as a general matter. We are unlikely to find one because these different definitions will have conceptual and practical advantages in different contexts; we should not seek one because adopting a canonical definition would foreclose our recognition of other characteristics and phenomena with moral and practical affinities to what we have decided to call “disabilities”. An open-ended approach, in contrast, “can create avenues for new kinds of emancipatory self-understandings” (Beaudry 2020: 13)[^beaudry-2020].
+    step1: TBD
+    step2: TBD
+  - id: 106
+    kind: body
+    source: |-
+      Beaudry acknowledges that even open-ended approaches have evidentiary constraints, but these constraints are far looser than any which a single definition, however nuanced and complex, would impose:
+    step1: TBD
+    step2: TBD
+  - id: 107
+    kind: body
+    source: |-
+      > Disability remains a term that at least denotes or connotes “abnormal embodiments”, including phenomena entirely external to the bodies of “disabled persons” (such as prejudices directed at imagined abnormal embodiments or strictly cultural artifacts). It is a useful commonality between a constellation of discourses that relate to objects that are at least united by this family resemblance and may overlap or interact with each other, even though it is unlikely that a “master theory” would neatly choreograph all such interactions. (Beaudry 2020: 17)[^beaudry-2020]
+    step1: TBD
+    step2: TBD
+  - id: 108
+    kind: body
+    source: |-
+      This deflationary pluralism, however, arguably overlooks the value of continuing to seek a single unified or core definition of disability, however unlikely we are to agree on one. Most philosophers who have taken this tack do so not on the supposition that “disability” or even “impairment” are natural kinds—objective properties that legal and regulatory definitions ought to track. Rather, they are largely motivated by a belief that there is a set of personal experiences and social responses that people with disabilities have in common, and that ways of precisifying the meaning of “disability” and “impairment” are likely to work better than others for purposes of framing policies and building political movements to address, as a group, the moral and political needs and claims of individuals sharing such personal experiences.
+    step1: TBD
+    step2: TBD
+  - id: 109
+    kind: body
+    source: |-
+      Whether and to what extent the practical aims these various models of disability seek to serve are best accomplished by many separate contextual definitions, or one sophisticated one is, in the final analysis itself likely to be a difficult ethical, even political, question. Proponents of social constructionist, ameliorative views of disability, like proponents of similar views of race and gender, have tended to think that there are good practical reasons to define these notions broadly, to draw attention to forms of injustice that many experience, together, as a means for building larger and thus more powerful coalition to push for positive change. And they have, or anyway could, argue that the flexibility and inclusiveness pluralists call for can be accommodated by an open-minded and sensitive debate over just what this one solidaristic definition should or should not include. They might be right, or they might be wrong, but if they are wrong, it is not because the philosophical and political project of offering a unifying definition is *a priori* misguided.
+    step1: TBD
+    step2: TBD
+  - id: 110
+    kind: oir
+    source: |-
+      - [ADA] [[*Americans with Disabilities Act of 1990, As Amended*](https://www.ada.gov/pubs/ada.htm)
+      - [*American Philosophical Association Studies* (formerly Newsletters)](https://www.apaonline.org/page/APAStudies), These includes (among others) studies/newsletters on: Philosophy and the Black Experience; Feminism and Philosophy; Philosophy and Lesbian, Gay, Bisexual, and Transgender Issues; Hispanic/Latino Issues in Philosophy.
+      - [*Disability Discrimination Act 1995*](https://www.legislation.gov.uk/ukpga/1995/50/contents), United Kingdom
+      - [International Classification of Functioning, Disability and Health](https://www.who.int/classifications/international-classification-of-functioning-disability-and-health), World Health Organization web page.
+    step1: TBD
+    step2: TBD
+  - id: 111
+    kind: oir
+    source: |-
+      [Please contact the author with other suggestions.]
+    step1: TBD
+    step2: TBD
