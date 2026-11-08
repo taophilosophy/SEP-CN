@@ -894,7 +894,7 @@
 | Beda, Noël | Noël Beda | 诺埃尔·贝达 | — | — | erasmus | 学界惯例（巴黎神学家通译） | 2026-11-04 |
 | Froben, Johann | — | 约翰·弗罗本 | — | — | erasmus | 学界惯例（巴塞尔出版家通译） | 2026-11-04 |
 | Froben, Hieronymus | — | 希罗尼穆斯·弗罗本 | — | — | erasmus | 学界惯例（巴塞尔出版家通译） | 2026-11-04 |
-| Charles V | — | 查理五世 | — | — | erasmus | 学界惯例（神圣罗马皇帝通译） | 2026-11-04 |
+| Charles V | — | 查理五世 | — | — | erasmus | 学界惯例（神圣罗马皇帝通译）；nicole-oresme/newton 语境指法国瓦卢瓦王朝查理五世，随文以“法国”限定（2026-11-08） | 2026-11-04 |
 | Philip (the Handsome) | — | 腓力（美男子腓力） | — | — | erasmus | 学界惯例（哈布斯堡通译；查理五世之父） | 2026-11-04 |
 | Pico della Mirandola, Giovanni | — | 乔瓦尼·皮科·德拉·米兰多拉 | — | — | erasmus | 学界惯例（SUMMARY 定名沿用） | 2026-11-04 |
 | Marguerite of Navarre | — | 纳瓦拉的玛格丽特 | — | — | erasmus | 学界惯例（法国文艺复兴通译） | 2026-11-04 |
