@@ -620,62 +620,82 @@ segments:
     kind: body
     source: |-
       This view carried significant moral implications. Yulgok maintained that while the seven feelings encompass the four beginnings, the reverse is not true—the four beginnings do not contain the seven feelings. This asymmetry safeguards the innate goodness of human nature, ensuring that moral potential remains intact even amid the turbulence of emotional life. In short, Yulgok’s framework situates ethical cultivation within the dynamic tension between ideal *Principle* and the mutable energies of *ki*, emphasizing a moral realism that contrasts sharply with T’oegye’s idealism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一看法带有重要的道德意涵。栗谷主张：七情包含四端，反之不然——四端并不包含七情。这一不对称性维护了人性的本善，确保道德潜能即使在情感生活的动荡中仍完好无损。简言之，栗谷的框架把伦理修养安置于理想的理与气之可变能量之间的动态张力中，强调一种与退溪观念论形成鲜明对照的道德实在论。
+    step2: |-
+      这一看法带有重要的道德意涵。栗谷主张：七情包含四端，反之不然——四端并不包含七情。这一不对称性维护了人性的本善，确保道德潜能即使在情感生活的动荡中仍完好无损。简言之，栗谷的框架把伦理修养安置于理想的理与气之可变能量之间的动态张力中，强调一种与退溪观念论形成鲜明对照的道德实在论。
   - id: 74
     kind: body
     source: |-
       Bongrae Seok (2019: 24) clarifies that Yulgok (and Kobong, for that matter) did not believe that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Bongrae Seok（2019: 24）澄清说，栗谷（就此而言，高峰亦然）并不认为
+    step2: |-
+      Bongrae Seok（2019: 24）澄清说，栗谷（就此而言，高峰亦然）并不认为
   - id: 75
     kind: body
     source: |-
       > the goodness of the Four is a distinct moral property explained exclusively by [*i*] but a common property shared by the Seven explained by both [*i*] and *qi* [*ki*],
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 四端之善并非一种仅由［理］解释的独特道德属性，而是七情共有的、同由［理］与气［*ki*］共同解释的属性，
+    step2: |-
+      > 四端之善并非一种仅由［理］解释的独特道德属性，而是七情共有的、同由［理］与气［*ki*］共同解释的属性，
   - id: 76
     kind: body
     source: |-
       hence, in a sense “smoothening the sharp distinction between the Four and the Seven” as argued by T’oegye and rearticulated by Ugye. Seok (2019: 19) also notes how Ugye interpreted the four beginnings and the seven feelings as separate sets of emotions, with the “seven” having the potential for evil, drawing on T’oegye who clearly viewed *Principle* as the essence of the mind and *ki* as the function (on which *Principle* mounts), again using the interrelationship between essence-function, or *che-yong*, discussed above in relation to Chinul. For the Korean Neo-Confucians, this only reinforced the need for proper moral education and the incessant need for self-cultivations to guide one from falling prey of the shortcomings of one’s physical, material and environmental existence as it related to the mind and one’s human nature (see E. Chung 1995; Ro 1989; Cawley 2019: 84–89)[^cawley-2019][^chung-1995]. Though Yulgok was interested in the metaphysical aspects of Neo-Confucianism, Ro Young-Chan (2017: 74) underscores his interest in the practical side of “sagely learning”. In his own words, Yulgok (in Lee (ed.), 1993:513), leaving metaphysical complexities aside, noted that “the essentials of cultivating self and pacifying the people are strategies of praying for heaven’s eternal mandate”, which was linked to “keeping the will sincere and rectifying the mind”, while also advising the king to take head of the teachings of his Neo-Confucian advisors “in order to receive the benefit of their assistance”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由此，在某种意义上“抚平了四端与七情之间的尖锐区分”——此语先由退溪论证、牛溪重述。Seok（2019: 19）还指出，牛溪把四端与七情解释为两组各自独立的情感，而“七情”具有为恶的可能；牛溪取资于退溪——后者明确把理视作心之体、把气视作心之用（理即乘于其上），这再次动用了前文在知讷处讨论过的体用（*che-yong*）关系。对朝鲜性理学者而言，这只会强化正当道德教育的必要，以及不断修养自我的必要，以免人沦为其有形的、质料性的、环境性的存在之短处的猎物——就其关涉心与人性而言（见 E. Chung 1995；Ro 1989；Cawley 2019: 84–89）[^cawley-2019][^chung-1995]。栗谷虽对性理学的形而上学面向感兴趣，Ro Young-Chan（2017: 74）仍强调他关注“圣学”的实践一面。用栗谷自己的话说（见 Lee 编，1993: 513），他把形而上学的复杂性放在一旁，指出“修己治人的要领，是祈天永命的大计”，这与“诚意正心”相联；同时他也劝告君主听取其性理学顾问的教诲，“以受其辅弼之益”。
+    step2: |-
+      由此，在某种意义上“抚平了四端与七情之间的尖锐区分”——此语先由退溪论证、牛溪重述。Seok（2019: 19）还指出，牛溪把四端与七情解释为两组各自独立的情感，而“七情”具有为恶的可能；牛溪取资于退溪——后者明确把理视作心之体、把气视作心之用（理即乘于其上），这再次动用了前文在知讷处讨论过的体用（*che-yong*）关系。对朝鲜性理学者而言，这只会强化正当道德教育的必要，以及不断修养自我的必要，以免人沦为其有形的、质料性的、环境性的存在之短处的猎物——就其关涉心与人性而言（见 E. Chung 1995；Ro 1989；Cawley 2019: 84–89）[^cawley-2019][^chung-1995]。栗谷虽对性理学的形而上学面向感兴趣，Ro Young-Chan（2017: 74）仍强调他关注“圣学”的实践一面。用栗谷自己的话说（见 Lee 编，1993: 513），他把形而上学的复杂性放在一旁，指出“修己治人的要领，是祈天永命的大计”，这与“诚意正心”相联；同时他也劝告君主听取其性理学顾问的教诲，“以受其辅弼之益”。
   - id: 77
     kind: body
     source: |-
       Both T’oegye’s *Diagrams* and Yulgok’s *Essentials* outline pathways toward sagehood and emphasize the central role of self-cultivation. Each scholar underscores the unique responsibility of the king, who was expected to serve as a paragon of Confucian morality and humanity (*ren*), embodying the ideals of sagehood in practice. T’oegye and Yulgok situate individuals within a morally ordered universe, where ethical conduct toward family and society is not merely aspirational but a lived reality—a “practiced” vision of morality enacted in daily life. For both thinkers, sagehood represents a noble *savoir vivre*, its ultimate purpose being the benefit of others, which they regard as the very essence of becoming a sage. In this sense, T’oegye and Yulgok offer archetypes of an East Asian Neo-Confucian “social contract,” reminiscent of Rousseau’s seminal work (*The Social Contract*, 1762). Both Korean scholars stress not only the moral and social obligations of those in power but also the reciprocal responsibility of individuals toward one another as members of an interconnected society—a principle that resonates profoundly today. During the global pandemic of 2020–21, socially responsible distancing exemplified this ethic: by respecting and protecting others, we reaffirm our shared moral duty.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      退溪的《十图》与栗谷的《辑要》都勾勒了通向圣人人格的路径，并强调修养的核心作用。两位学者都强调君主独特的责任：他被期待作儒家道德与仁（*ren*）的典范，在实践中体现圣人人格的理想。退溪与栗谷把个人安置于一个道德有序的宇宙之中：对家庭与社会的伦理行为不只是抱负，而是亲历的现实——一种在日常生活中“践行”的道德愿景。对两位思想家而言，圣人人格代表一种高贵的“善处之道”（*savoir vivre*），其终极目的是利他，他们认为这正是成圣的本质所在。在此意义上，退溪与栗谷提供了东亚性理学“社会契约”的原型，令人想起卢梭的奠基之作（《社会契约论》，1762）。两位朝鲜学者不仅强调当权者的道德与社会义务，也强调个人作为相互关联社会之成员彼此承担的相互责任——这一原则在今日深有回响。2020–21 年的全球大流行期间，负社会责任的隔离正是这一伦理的体现：通过尊重与保护他人，我们重申了我们共同的道德义务。
+    step2: |-
+      退溪的《十图》与栗谷的《辑要》都勾勒了通向圣人人格的路径，并强调修养的核心作用。两位学者都强调君主独特的责任：他被期待作儒家道德与仁（*ren*）的典范，在实践中体现圣人人格的理想。退溪与栗谷把个人安置于一个道德有序的宇宙之中：对家庭与社会的伦理行为不只是抱负，而是亲历的现实——一种在日常生活中“践行”的道德愿景。对两位思想家而言，圣人人格代表一种高贵的“善处之道”（*savoir vivre*），其终极目的是利他，他们认为这正是成圣的本质所在。在此意义上，退溪与栗谷提供了东亚性理学“社会契约”的原型，令人想起卢梭的奠基之作（《社会契约论》，1762）。两位朝鲜学者不仅强调当权者的道德与社会义务，也强调个人作为相互关联社会之成员彼此承担的相互责任——这一原则在今日深有回响。2020–21 年的全球大流行期间，负社会责任的隔离正是这一伦理的体现：通过尊重与保护他人，我们重申了我们共同的道德义务。
   - id: 78
     kind: body
     source: |-
       ## 5. The Horak Debate
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 湖洛之辩
+    step2: |-
+      ## 5 湖洛之辩
   - id: 79
     kind: body
     source: |-
       When discussing the debate itself, separating the syllables as Ho‑rak helps foreground the internal division the term encodes. The debate refers to the broader “provincial–capital” split within the Noron (“Old Doctrine”) faction—*Ho* designating the provincial branch and *rak* the capital branch. This fissure emerged among scholars who, for the most part, traced their intellectual lineage to Yulgok’s metaphysical orientation. By using Ho‑rak in explanatory contexts, the analysis highlights the factional and regional tensions underlying what is otherwise referred to more compactly as the Horak Debate.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      讨论这场论辩本身时，把音节分写作湖—洛，有助于凸显该词所编码的内部分裂。此辩指老论（Noron）派内部更广的“地方—京畿”分裂：湖指地方一系，洛指京畿一系。这一裂痕出现于学者之间，而他们大体上都把自己的思想谱系追溯至栗谷的形而上学取向。在解释性语境中使用湖—洛，本分析便突出了通常更紧凑地称为“湖洛之辩”者背后的派系与地域张力。
+    step2: |-
+      讨论这场论辩本身时，把音节分写作湖—洛，有助于凸显该词所编码的内部分裂。此辩指老论（Noron）派内部更广的“地方—京畿”分裂：湖指地方一系，洛指京畿一系。这一裂痕出现于学者之间，而他们大体上都把自己的思想谱系追溯至栗谷的形而上学取向。在解释性语境中使用湖—洛，本分析便突出了通常更紧凑地称为“湖洛之辩”者背后的派系与地域张力。
   - id: 80
     kind: body
     source: |-
       As Kang (2003 [2006: 300]) points out,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如 Kang（2003 [2006: 300]）所指出的，
+    step2: |-
+      正如 Kang（2003 [2006: 300]）所指出的，
   - id: 81
     kind: body
     source: |-
       > The problem was that differences in academic opinions were associated with antagonism between factions or regions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 问题在于：学见上的分歧与派系或地域之间的对立纠缠在一起。
+    step2: |-
+      > 问题在于：学见上的分歧与派系或地域之间的对立纠缠在一起。
   - id: 82
     kind: body
     source: |-
       Thus, allegiance to T’oegye or Yulgok was never a matter of mere factional politics; it reflected profound commitments to competing visions of reality. These interpretations carried ontological weight, shaping how scholars conceived the relationship between Principle (理, *i*) and material force (氣, *ki*), and by extension, the moral architecture of the cosmos. To dissent from the faction in power was not simply a political risk—it was to challenge an entire metaphysical order. This controversy, echoing the intensity of the Four-Seven Debate, unfolded through a series of letters between two eminent thinkers, each embodying a distinct philosophical orientation: Han Wŏn-jin (1682–1751) of Ch’ungch’ŏng province and Yi Kan (1677–1727) of Kyŏnggi province, the region encompassing Seoul. Seoh (1977:47) notes that both scholars are
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，效忠退溪还是栗谷，从来不只是派系政治；它反映了对相互竞争的现实愿景的深刻承诺。这些解释带有本体论的分量，塑造了学者们如何设想理（理，*i*）与气（氣，*ki*）的关系，进而设想宇宙的道德架构。与当权派系相左不只是政治风险——那是对整个形而上学秩序的挑战。这场论争呼应四端七情之辩的激烈程度，通过两位杰出思想家之间的一系列书信展开，二人各持一种独特的哲学取向：忠清道的韩元震（1682–1751）与京畿道（首尔所在之域）的李柬（1677–1727）。Seoh（1977: 47）指出，两位学者都
+    step2: |-
+      因此，效忠退溪还是栗谷，从来不只是派系政治；它反映了对相互竞争的现实愿景的深刻承诺。这些解释带有本体论的分量，塑造了学者们如何设想理（理，*i*）与气（氣，*ki*）的关系，进而设想宇宙的道德架构。与当权派系相左不只是政治风险——那是对整个形而上学秩序的挑战。这场论争呼应四端七情之辩的激烈程度，通过两位杰出思想家之间的一系列书信展开，二人各持一种独特的哲学取向：忠清道的韩元震（1682–1751）与京畿道（首尔所在之域）的李柬（1677–1727）。Seoh（1977: 47）指出，两位学者都
   - id: 83
     kind: body
     source: |-
