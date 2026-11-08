@@ -135,6 +135,7 @@
 | Davidson, Maria | — | 戴维森 | — | — | erotic-art | 学界惯例音译（本词条引用文献作者） | 2026-11-08 |
 | Davies, Stephen | — | 斯蒂芬·戴维斯 | — | — | erotic-art | 学界通行（分析美学） | 2026-11-08 |
 | Delacroix, Eugène | — | 德拉克洛瓦 | — | — | erotic-art | 千年通行（法国浪漫主义画家） | 2026-11-08 |
+| Dinet, Jacques | — | 雅克·迪内 | — | — | henricus-regius | 音译（法国耶稣会士，笛卡尔《致迪内神父书》收信人）；凭证 2026-11-08 | 2026-11-08 |
 | Dix, Otto | — | 奥托·迪克斯 | — | — | erotic-art | 学界通行（新客观主义画家） | 2026-11-08 |
 | Ducasse, C. J. | — | C. J. 杜卡斯 | — | — | environmental-aesthetics | 学界惯例音译（美国哲学家） | 2026-11-08 |
 | Dughet, Gaspard | — | 加斯帕尔·迪盖 | — | — | environmental-aesthetics | 学界惯例音译（十七世纪风景画家） | 2026-11-08 |
@@ -181,7 +182,9 @@
 | Rosa, Salvator | — | 萨尔瓦托·罗萨 | — | — | environmental-aesthetics | 学界惯例音译（十七世纪风景画家） | 2026-11-08 |
 | Sade, Marquis de | — | 萨德 | — | — | erotic-art | 学界通行（萨德侯爵） | 2026-11-08 |
 | Santayana, George | — | 乔治·桑塔亚那 | — | — | environmental-aesthetics | 学界通行汉译 | 2026-11-08 |
+| Santorio, Santorio | — | 桑托里奥·桑托里 | — | — | henricus-regius | 学界惯例（意大利医学教授，1561–1636，通行汉译）；凭证 2026-11-08 | 2026-11-08 |
 | Scanu, Maria | — | 玛丽亚·斯坎努 | — | — | erotic-art | 学界惯例音译（雕塑家） | 2026-11-08 |
+| Schoock, Martinus | — | 马蒂努斯·斯霍克 | — | — | henricus-regius | 学界惯例（17 世纪乌得勒支论战者，音译）；凭证 2026-11-08 | 2026-11-08 |
 | Seneca the Elder | — | 老塞涅卡 | 罗马／修辞学家 | c. 54 BCE–c. 39 CE | buridan | 学界通行汉译（与既有 Seneca 行分立，免撞键）；凭证 2026-11-08 | 2026-11-08 |
 | Shelley, Percy Bysshe | — | 珀西·比希·雪莱 | — | — | environmental-aesthetics | 千年通行 | 2026-11-08 |
 | Shusterman, Richard | — | 理查德·舒斯特曼 | — | — | erotic-art | 学界通行（身体美学） | 2026-11-08 |
@@ -190,6 +193,7 @@
 | Smithson, Robert | — | 罗伯特·史密森 | — | — | environmental-aesthetics | 学界通行（大地艺术） | 2026-11-08 |
 | Spade, Paul | — | Paul Spade（现代学者，保留英文） | — | — | buridan | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Spero, Nancy | — | 南希·斯佩罗 | — | — | erotic-art | 学界惯例音译（女性主义艺术家） | 2026-11-08 |
+| Spigelius, Adrianus | — | 阿德里安·斯皮格利乌斯 | — | — | henricus-regius | 音译（帕多瓦解剖学家，1578–1625）；凭证 2026-11-08 | 2026-11-08 |
 | Stein, Michael | — | 迈克尔·斯坦 | — | — | disability-care-rationing | 学界通行汉译（法学与分配正义，功利主义辩护）；首现括注；凭证 2026-11-08 | 2026-11-08 |
 | Steinem, Gloria | — | 格洛丽亚·斯泰纳姆 | — | — | erotic-art | 学界通行（女性主义作家） | 2026-11-08 |
 | Stendhal | — | 司汤达 | — | — | erotic-art | 千年通行（法国作家） | 2026-11-08 |
@@ -647,6 +651,7 @@
 | Todd, Cain | — | 凯恩·托德 | — | — | erotic-art | 学界惯例音译（美学） | 2026-11-08 |
 | Torricelli, Evangelista | — | 托里拆利 | — | — | duhem | 学界惯例（物理学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Turing, Alan | — | 阿兰·图灵 | — | — | deductivism-mathematics | 学界千年通行汉译（丘奇—图灵论题）；凭证 2026-11-08 | 2026-11-08 |
+| van Loon, Henricus | — | 亨里库斯·范·隆 | — | — | henricus-regius | 音译（雷吉乌斯学生，1641 年论辩提出偶性统一）；凭证 2026-11-08 | 2026-11-08 |
 | Van Vleck, John | — | 约翰·范弗莱克 | — | — | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Vattimo, Gianni | — | 詹尼·瓦蒂莫 | — | — | bloch | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Vaudemont, Nicholas of | — | 尼古拉·德·沃德蒙 | — | — | buridan | 学界通行音译（14 世纪巴黎艺学硕士）；凭证 2026-11-08 | 2026-11-08 |
@@ -2356,3 +2361,27 @@
 | Octavia | — | 奥克塔维娅 | — | — | necessary-sufficient | 示例人名音译（词条例子）；凭证 2026-11-08 | 2026-11-08 |
 | Prichard, H. A. | — | H. A. 普里查德 | — | — | intuitionism-ethics | 学界通行汉译（《道德哲学基于错误吗？》作者）；凭证 2026-11-08 | 2026-11-08 |
 | Singer, Peter | — | 彼得·辛格 | — | — | intuitionism-ethics | 学界通行汉译（《饥荒、富裕与道德》作者）；凭证 2026-11-08 | 2026-11-08 |
+| Yi Kan | 李柬 | 李柬 | 1677–1727 | — | korean-confucianism | 汉文传统写法（朝鲜性理学家，号巍岩；湖洛之辩与韩元震对垒，主人与物性同） | 2026-11-08 |
+| An Hyang | 安珦 | 安珦 | 1243–1306 | — | korean-confucianism | 汉文传统写法（高丽性理学者，号晦轩，朱子学初传） | 2026-11-08 |
+| Paek I-jŏng | 白頤正 | 白颐正 | 1247–1323 | — | korean-confucianism | 汉文传统写法（高丽性理学者，万卷堂与元儒往还） | 2026-11-08 |
+| Yi Che-hyŏn | 李齊賢 | 李齐贤 | 1287–1367 | — | korean-confucianism | 汉文传统写法（高丽文臣，号益斋） | 2026-11-08 |
+| Yi Saek | 李穡 | 李穑 | 1328–1396 | — | korean-confucianism | 汉文传统写法（高丽末性理学者，号牧隐） | 2026-11-08 |
+| Paek Munbo | 白文寶 | 白文宝 | 1303–1374 | — | korean-confucianism | 汉文传统写法（高丽末儒者，《斥佛疏》作者） | 2026-11-08 |
+| Chŏng Mongju | 鄭夢周 | 郑梦周 | 1337–1392 | — | korean-confucianism | 汉文传统写法（高丽末性理学者，号圃隐） | 2026-11-08 |
+| Yi Sŏnggye | 李成桂 | 李成桂 | 1335–1408 | — | korean-confucianism | 汉文传统写法（朝鲜太祖） | 2026-11-08 |
+| Ch’ungsŏn | 忠宣王 | 忠宣王 | 在位 1308–1313 | — | korean-confucianism | 汉文传统写法（高丽王，元大都万卷堂创设者） | 2026-11-08 |
+| Kwŏn Ilsin | 權日身 | 权日身 | 1736–1791 | — | korean-confucianism | 汉文传统写法（朝鲜早期天主教徒，安鼎福女婿） | 2026-11-08 |
+| Sin Hudam | 慎後聃 | 慎后聃 | 1702–1761 | — | korean-confucianism | 汉文传统写法（朝鲜性理学者，《西学辨》作者） | 2026-11-08 |
+| Yi Sugwang | 李睟光 | 李睟光 | 1563–1628 | — | korean-confucianism | 汉文传统写法（朝鲜文臣，号芝峰，《芝峰类说》作者） | 2026-11-08 |
+| Ki Chŏngjin | 奇正鎭 | 奇正镇 | 1798–1879 | — | korean-confucianism | 汉文传统写法（朝鲜性理学家，号芦沙，理先气后） | 2026-11-08 |
+| Yi Hangno | 李恒老 | 李恒老 | 1792–1868 | — | korean-confucianism | 汉文传统写法（朝鲜性理学家，号华西） | 2026-11-08 |
+| Yi Chin-sang | 李震相 | 李震相 | 1818–1885 | — | korean-confucianism | 汉文传统写法（朝鲜性理学家，号寒洲） | 2026-11-08 |
+| Yi Pyŏk | 李檗 | 李檗 | 1754–1786 | — | korean-confucianism | 汉文传统写法（朝鲜早期天主教领袖，号讷庵） | 2026-11-08 |
+| Yi Sŭnghun | 李承薰 | 李承薰 | 1756–1801 | — | korean-confucianism | 汉文传统写法（朝鲜早期天主教领袖，1784 年北京受洗） | 2026-11-08 |
+| Chŏng Yakchŏn | 丁若銓 | 丁若铨 | 1758–1816 | — | korean-confucianism | 汉文传统写法（丁若镛之兄，《十诫命歌》作者） | 2026-11-08 |
+| Chŏng Yakchong | 丁若鍾 | 丁若钟 | 1760–1801 | — | korean-confucianism | 汉文传统写法（丁若镛之兄，《主教要旨》作者） | 2026-11-08 |
+| Yun Hyu | 尹鑴 | 尹鑴 | 1617–1680 | — | korean-confucianism | 汉文传统写法（朝鲜性理学者，号白湖） | 2026-11-08 |
+| Pak Sedang | 朴世堂 | 朴世堂 | 1629–1703 | — | korean-confucianism | 汉文传统写法（朝鲜性理学者，号西溪） | 2026-11-08 |
+| Hamhŏ Kihwa | 涵虛己和 | 涵虚己和 | 1376–1433 | — | korean-confucianism | 汉文传统写法（与已登记 Hamhŏ Tŭkt’ong 涵虛得通 为同一人：己和其名、得通其字、涵虚其号） | 2026-11-08 |
+| Yamazaki Ansai | 山崎闇齋 | 山崎暗斋 | 1618–1682 | — | korean-confucianism | 日本儒学史通行汉名（垂加神道） | 2026-11-08 |
+| Pantoja, Diego de | 龐迪我 | 庞迪我 | 1571–1618 | — | korean-confucianism | 耶稣会士汉名（《七克》作者） | 2026-11-08 |

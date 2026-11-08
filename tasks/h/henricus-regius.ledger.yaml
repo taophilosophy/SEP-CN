@@ -1,0 +1,315 @@
+version: 1
+slug: henricus-regius
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Henricus Regius (in Dutch: Hendrik de Roy) may be recognised today primarily as one of Descartes’ correspondents. However, he was also the author of a textbook of natural philosophy, *Fundamenta physices* (1646), which offered a significant alternative to Cartesian epistemology and metaphysics. His correspondence with Descartes, and his simultaneous controversy with G. Voetius during the 1640s, reflected Regius’ efforts to establish his intellectual independence from scholastic philosophy and Cartesian metaphysics.
+    step1: |-
+      亨利·雷吉乌斯（Henricus Regius，荷兰语作 Hendrik de Roy）今天或许主要作为笛卡尔的一位通信人被记住。然而，他也是一部自然哲学教科书《自然哲学基础》（*Fundamenta physices*，1646）的作者，该书为笛卡尔式认识论与形而上学提供了一个重要的替代方案。他与笛卡尔的通信，以及 1640 年代与吉斯伯特·沃埃修斯（G. Voetius）同时进行的争论，都反映了雷吉乌斯为确立自己相对于经院哲学与笛卡尔式形而上学的思想独立所作的努力。
+    step2: |-
+      今天，人们记住亨利·雷吉乌斯（Henricus Regius，荷兰语名 Hendrik de Roy），多半因为他是笛卡尔的通信人之一。其实他还是自然哲学教科书《自然哲学基础》（*Fundamenta physices*，1646）的作者；这部书对笛卡尔式认识论与形而上学提出了一个不容忽视的替代方案。1640 年代，他一面与笛卡尔通信，一面与吉斯伯特·沃埃修斯（G. Voetius）论战，两件事都见出他力图在经院哲学与笛卡尔式形而上学之外挣得思想上的独立。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life and Works
+    step1: |-
+      ## 1 生平与著作
+    step2: |-
+      ## 1 生平与著作
+  - id: 3
+    kind: body
+    source: |-
+      Regius was born in Utrecht, The Netherlands (the Republic of the Seven United Netherlands at the time), on 29 July 1598, into a wealthy family of brewers, and died on 19 February 1679 in the same city. Following initial studies in Arts at the University of Franeker, he studied medicine at Groningen and Leiden, and subsequently at the University of Montpellier (France). In 1623 he received his MD from the University of Padua (Italy) in front of the renowned medical professors Santorio Santori (1561–1636) and Adrianus Spigelius (1578–1625), as well as the famous philosopher Cesare Cremonini (1550–1631) (Baldassarri 2022)[^baldassarri-2022]. Regius was appointed town physician in Utrecht on his return there in 1625 and, following a period as headmaster of the Latin School at Naarden (where he was challenged about his religious orthodoxy as a Calvinist), he returned to Utrecht in 1634 and was re-appointed town physician in 1637. The Illustrious School of Utrecht had become a university in 1636 and, two years later, Regius was appointed ‘extraordinary’ Professor of Theoretical Medicine and Botany (equivalent to an associate professor, who was paid a significantly reduced salary). The following year, 1639, he was promoted to full professor. In 1640 Regius was awarded a salary increase, on the understanding that he would provide extra lectures to his students on natural philosophy. Since there were already professors of philosophy, mathematics, and theology in place at Utrecht, all of whom were senior to Regius, this extension of his contract included the seeds of subsequent controversies about philosophical and theological theses, and of disputes about disciplinary boundaries at the University.
+    step1: |-
+      雷吉乌斯 1598 年 7 月 29 日生于荷兰乌得勒支（当时为七联合尼德兰共和国），出身于一个富裕的酿酒商家庭；1679 年 2 月 19 日卒于同一城市。他先在弗拉讷克大学（University of Franeker）修习人文诸科，随后在格罗宁根与莱顿学医，之后又就读于（法国）蒙彼利埃大学。1623 年，他在（意大利）帕多瓦大学获得医学博士，答辩时在场的既有著名医学教授桑托里奥·桑托里（Santorio Santori，1561–1636）与阿德里安·斯皮格利乌斯（Adrianus Spigelius，1578–1625），也有著名哲学家切萨雷·克雷莫尼尼（Cesare Cremonini，1550–1631）（Baldassarri 2022）[^baldassarri-2022]。1625 年雷吉乌斯回到乌得勒支，被任命为市政医生；此后他在纳尔登（Naarden）拉丁学校任校长（其间其加尔文宗正统性受到质疑），1634 年返回乌得勒支，1637 年再度受任市政医生。乌得勒支的“著名学校”（Illustrious School）已于 1636 年升格为大学；两年后，雷吉乌斯被任命为理论医学与植物学的“特任”教授（extraordinary，相当于副教授，薪俸大幅削减）。次年即 1639 年，他升任正教授。1640 年，雷吉乌斯获得加薪，条件是为学生额外讲授自然哲学。由于乌得勒支此时已有哲学、数学与神学教授，且资历均高于雷吉乌斯，这次合同扩展便埋下了后来关于哲学与神学论题之争、以及关于大学学科边界之争的种子。
+    step2: |-
+      1598 年 7 月 29 日，雷吉乌斯生于荷兰乌得勒支（当时称七联合尼德兰共和国），家道殷实的酿酒商出身；1679 年 2 月 19 日，他卒于同一座城市。他先入弗拉讷克大学（University of Franeker）修人文诸科，继而赴格罗宁根、莱顿学医，后又就读于法国蒙彼利埃大学。1623 年，他在意大利帕多瓦大学获医学博士学位，答辩席上坐着著名医学教授桑托里奥·桑托里（Santorio Santori，1561–1636）、阿德里安·斯皮格利乌斯（Adrianus Spigelius，1578–1625），以及著名哲学家切萨雷·克雷莫尼尼（Cesare Cremonini，1550–1631）（Baldassarri 2022）[^baldassarri-2022]。1625 年他回到乌得勒支，出任市政医生；随后转任纳尔登（Naarden）拉丁学校校长，其间有人就他的加尔文宗正统性提出质疑。1634 年他返回乌得勒支，1637 年再度受任市政医生。乌得勒支的“著名学校”（Illustrious School）1636 年升格为大学；两年后，雷吉乌斯获任理论医学与植物学的“特任”教授（extraordinary，相当于副教授，薪俸大为削减）。次年，即 1639 年，他升任正教授。1640 年他得到加薪，条件是为学生增开自然哲学讲座。此时乌得勒支已有哲学、数学与神学教授，资历都在雷吉乌斯之上；合同上的这次扩展，于是埋下了此后关于哲学与神学命题的论战，也埋下了关于大学学科边界的争执。
+  - id: 4
+    kind: body
+    source: |-
+      Regius first came to Descartes’ attention through a mutual friend, Henricus Reneri (1593–1639), and almost immediately (in August 1638) began a correspondence with Descartes, which continued until 1645. In keeping with the custom at that time, he also presided as a professor over disputations at the University (the equivalent of research seminars, presented by students in the form of a defence of theses that were usually composed by their supervisor). The texts of disputations were printed and distributed in advance of their oral presentation. Regius’ disputations were initially concerned with medical matters, such as a controversial disputation supporting Harvey’s theory of blood circulation (Regius 1640a). During the year 1641, Regius considered publishing a book on natural philosophy, and consulted both Descartes and Gisbertus Voetius (1589–1676), the Professor of Theology and University Rector, about his plans. While Descartes recommended that Regius develop his ideas in the form of disputations, Voetius initially advised publication as a monograph, possibly to avoid conflict with faculty members in theology or philosophy. Regius adopted Descartes’ advice and, in April 1641, he began a series of disputations under the title *Physiologia sive cognitio sanitatis* (Regius 1641a).
+    step1: |-
+      雷吉乌斯最初是通过共同的朋友亨利·雷内里（Henricus Reneri，1593–1639）引起笛卡尔注意的，并几乎立即（1638 年 8 月）开始与笛卡尔通信，通信一直持续到 1645 年。按照当时惯例，他作为教授还在大学主持论辩（disputationes，相当于研究讨论班，由学生以辩护论文的形式进行，论文通常由导师撰写）。论辩文本在口头进行之前便已印行散发。雷吉乌斯最初的论辩涉及医学事务，例如一场支持哈维血液循环理论的有争议论辩（Regius 1640a）。1641 年间，雷吉乌斯考虑出版一部自然哲学著作，并就计划征询了笛卡尔与吉斯伯特·沃埃修斯（Gisbertus Voetius，1589–1676；神学教授兼大学校长）。笛卡尔建议雷吉乌斯以论辩形式阐发其想法，沃埃修斯起初则建议以专著形式出版，这或许是为避免与神学或哲学系教员发生冲突。雷吉乌斯采纳了笛卡尔的建议，于 1641 年 4 月开始以《生理学，或论健康之知识》（*Physiologia sive cognitio sanitatis*）为题的一系列论辩（Regius 1641a）。
+    step2: |-
+      雷吉乌斯最先经由共同的朋友亨利·雷内里（Henricus Reneri，1593–1639）进入笛卡尔的视野；1638 年 8 月，两人几乎当即开始通信，直到 1645 年才告一段落。当时的风气是，教授须在校内主持论辩（disputationes）——其性质近于研究讨论班，由学生出面为论文辩护，而论文一般出自导师之手。论辩文本先印行散发，然后才进行口头答辩。雷吉乌斯早期主持的论辩多涉医学，其中一场支持哈维的血液循环学说，颇招物议（Regius 1640a）。1641 年，他动了出版自然哲学著作的念头，并把计划分别说给笛卡尔与神学教授、大学校长吉斯伯特·沃埃修斯（Gisbertus Voetius，1589–1676）听。笛卡尔主张用论辩的形式逐步阐发；沃埃修斯起初建议写成专著出版，也许是想避开与神学、哲学两系教员的摩擦。雷吉乌斯听从了笛卡尔，1641 年 4 月起以《生理学，或论健康之知识》（*Physiologia sive cognitio sanitatis*）为题连续举行论辩（Regius 1641a）。
+  - id: 5
+    kind: body
+    source: |-
+      In November 1641, however, Regius initiated a new series of disputations, *De illustribus aliquot quaestionibus physiologicis* (Regius 1641b), in which he, sharper than before, challenged Aristotelian theses that were taught by his colleagues in philosophy and theology at the University. This attracted a very negative response from Voetius, who relied on Aristotelian philosophy to articulate his version of Calvinist theology. The resulting lengthy controversy, during which Regius lost the support of Descartes while simultaneously continuing the conflict with Voetius, is discussed below. He published the first edition of his book on natural philosophy under the title *Fundamenta physices* (1646); Chapter XII, entitled *De homine* (Regius 1646, 245–306), provided a synoptic exposition of his controversial views about human nature.
+    step1: |-
+      然而 1641 年 11 月，雷吉乌斯开始了一系列新的论辩：《论若干著名的生理学问题》（*De illustribus aliquot quaestionibus physiologicis*，Regius 1641b）。在这些论辩中，他比以前更尖锐地挑战校内哲学与神学同僚所讲授的亚里士多德式论题。这招致沃埃修斯的强烈负面反应——沃埃修斯依赖亚里士多德哲学来表述其加尔文宗神学。由此产生的漫长争论（其间雷吉乌斯失去笛卡尔的支持，同时仍与沃埃修斯冲突）将在下文讨论。他以《自然哲学基础》（*Fundamenta physices*，1646）为题出版了其自然哲学著作第一版；题为《论人》（*De homine*）的第十二章（Regius 1646, 245–306）对其关于人性的争议性观点作了通览式阐述。
+    step2: |-
+      可是到了 1641 年 11 月，雷吉乌斯另开一系列论辩：《论若干著名的生理学问题》（*De illustribus aliquot quaestionibus physiologicis*，Regius 1641b）。这一次他的矛头直指校内哲学与神学同僚所授的亚里士多德论题，措辞比先前尖锐得多。沃埃修斯反应极为激烈：他正是借亚里士多德哲学来铺陈自己那一版加尔文宗神学的。这场旷日持久的争论下文还要讨论；其间雷吉乌斯既失去了笛卡尔的支持，又持续与沃埃修斯对峙。1646 年，他的自然哲学著作以《自然哲学基础》（*Fundamenta physices*）为题出了第一版；其中第十二章《论人》（*De homine*，Regius 1646, 245–306）提纲挈领地交代了他那套关于人性、颇具争议的看法。
+  - id: 6
+    kind: body
+    source: |-
+      Despite the bitter and extended controversy in which Regius engaged with Voetius and the university authorities, he was later appointed Rector of the University of Utrecht (a one-year honorary position) in 1649, and again in 1662. He published an amended, enlarged edition of the *Fundamenta physices* under the title *Philosophia naturalis* in 1654, and a third edition in 1661. A French translation appeared in 1687. He remained in Utrecht, except for a brief period when he was captured as a hostage by the French army in late 1673, and died there in 1679.
+    step1: |-
+      尽管雷吉乌斯与沃埃修斯及大学当局的争论激烈而漫长，他后来仍于 1649 年被任命为乌得勒支大学校长（一年期荣誉职位），1662 年再度出任。1654 年，他以《自然哲学》（*Philosophia naturalis*）为题出版了《自然哲学基础》的修订增补版，1661 年又出第三版。1687 年有法译本问世。除 1673 年末一度被法军掳为人质外，他一直留在乌得勒支，并于 1679 年在那里去世。
+    step2: |-
+      尽管与沃埃修斯及校方的论战既苦且长，雷吉乌斯 1649 年仍被任命为乌得勒支大学校长（一年期的荣誉职），1662 年再度出任。1654 年，他把《自然哲学基础》修订增补，以《自然哲学》（*Philosophia naturalis*）为名出版，1661 年又出第三版，1687 年有了法译本。除了 1673 年末被法军扣作人质的一小段时间，他始终没有离开乌得勒支，1679 年卒于此地。
+  - id: 7
+    kind: body
+    source: |-
+      ## 2. Dispute with Voetius and Descartes
+    step1: |-
+      ## 2 与沃埃修斯和笛卡尔的论战
+    step2: |-
+      ## 2 与沃埃修斯和笛卡尔的论战
+  - id: 8
+    kind: body
+    source: |-
+      Regius attributed his appointment at Utrecht University to his familiarity with and support for Cartesian philosophy, which was acquired initially by reading Descartes’ first book, the *Discours de la Méthode … plus la Dioptrique, les Météores et la Géometrie*, 1637 (AT, vol. VI). Regius was sympathetic to Cartesian natural philosophy from his initial reading and began to teach it to students, in private lessons, and to dictate notes with a view to publishing his own summary of natural philosophy based on Cartesian principles. This objective was further encouraged when he read a copy of Descartes’ unpublished manuscript, *Le Monde* (AT, vol. XI), in 1641. The natural philosophy of *Le Monde* rejected scholastic forms and qualities as philosophical entities that contributed nothing to an explanation of natural phenomena. There was a significant difference, however, in a university such as Utrecht between not relying on scholastic forms and criticizing them publicly. The transition from the former to the latter, in the case of Regius, occurred in 1641.
+    step1: |-
+      雷吉乌斯把他在乌得勒支大学获得的教职归因于他对笛卡尔哲学的熟悉与支持；这种熟悉最初来自阅读笛卡尔的第一部书《方法谈……附屈光学、气象学与几何学》（*Discours de la Méthode … plus la Dioptrique, les Météores et la Géometrie*，1637；AT 第六卷）。雷吉乌斯初读便同情笛卡尔式自然哲学，并开始在私人课程中向学生讲授，还口授笔记，打算出版一部基于笛卡尔原理的自然哲学概要。1641 年他读到笛卡尔未刊手稿《论世界》（*Le Monde*；AT 第十一卷）的抄本，这一目标更加坚定。《论世界》的自然哲学拒斥经院式的形式与质，认为它们作为哲学实体对解释自然现象毫无贡献。然而，在乌得勒支这样的大学里，“不依赖经院形式”与“公开批评经院形式”之间有很大差别。就雷吉乌斯而言，从前者转向后者发生在 1641 年。
+    step2: |-
+      雷吉乌斯把在乌得勒支大学得到的职位，归功于他对笛卡尔哲学的熟稔与拥护。这份熟稔始于阅读笛卡尔的第一部书：《方法谈……附屈光学、气象学与几何学》（*Discours de la Méthode … plus la Dioptrique, les Météores et la Géometrie*，1637；AT 第六卷）。他初读即倾心于笛卡尔的自然哲学，随即在私人课程中向学生讲授，并口授笔记，想写出自己那部以笛卡尔原理为依据的自然哲学纲要。1641 年，他读到笛卡尔未刊手稿《论世界》（*Le Monde*；AT 第十一卷）的抄本，这一打算就更加迫切。《论世界》的自然哲学把经院式的形式与质视为哲学实体而加以拒斥，理由是它们对解释自然现象毫无助益。不过在乌得勒支这样的大学里，“不倚重经院形式”与“公开抨击经院形式”毕竟是两回事。雷吉乌斯从前者跨到后者，是在 1641 年。
+  - id: 9
+    kind: body
+    source: |-
+      While preparing *Physiologia* (Regius 1641a), Regius sent advance copies of draft disputations to Descartes. Since they were being presented in Utrecht as examples of Cartesian philosophy, Descartes recommended various changes, both to avoid needless controversy (for example, concerning blood circulation) and, more importantly, to avoid accusations of heresy against himself or Regius. Accordingly, he asked Regius to correct the thesis that the human soul is three-fold, and to argue instead that “in human beings the soul is one, namely a rational soul” (AT III, 369–74: Bos 2002, 63–69). During the year 1641, this pattern of prior consultation with Descartes continued; Regius accepted many of Descartes’ suggestions, and incorporated them into the final versions of the disputations.
+    step1: |-
+      在准备《生理学》（Regius 1641a）期间，雷吉乌斯把论辩草稿的样张寄给笛卡尔。由于这些论辩在乌得勒支被当作笛卡尔哲学的范例，笛卡尔提出各种修改建议：既为避免不必要的争论（例如关于血液循环），更重要的是避免使他本人或雷吉乌斯被指为异端。因此他要求雷吉乌斯改正“人的灵魂有三重”这一论题，改为主张“在人身上灵魂只有一个，即理性灵魂”（AT III, 369–74：Bos 2002, 63–69）。1641 年全年，这种先征询笛卡尔的模式延续下来；雷吉乌斯接受了许多建议，并把它们纳入论辩的最终版本。
+    step2: |-
+      写《生理学》（Regius 1641a）期间，雷吉乌斯把论辩草稿的样张寄给笛卡尔过目。这些论辩在乌得勒支被当作笛卡尔哲学的样板，所以笛卡尔提了不少改动意见：一为免去无谓的争论（比如血液循环问题），更要紧的是免得自己和雷吉乌斯被扣上异端的帽子。他因此请雷吉乌斯改正“人的灵魂有三重”这条论题，改为主张“在人身上，灵魂只有一个，即理性灵魂”（AT III, 369–74：Bos 2002, 63–69）。整个 1641 年，凡有论辩先送笛卡尔审阅的做法一直沿用；雷吉乌斯接受了其中许多建议，并把它们写进论辩的定本。
+  - id: 10
+    kind: body
+    source: |-
+      In November 1641, however, the Utrecht professor inaugurated another series of disputations in which he transgressed from medicine to philosophy and, by implication, into theology, and thereby provoked a controversy that continued for more than a decade. The most explicit challenge to established Aristotelian teaching occurred when one of Regius’ students, Henricus van Loon, claimed during a disputation (8 December 1641) that the human mind and body are two distinct substances which are joined together in an accidental union [*unum per accidens*]. This thesis addressed, perhaps inadvertently, one of the most contentious issues in Christian philosophy and theology, *viz.* how to understand the unity of human nature, as experienced by each subject, and at the same time defend the traditional Christian beliefs in the immortality of the human soul or mind and the resurrection of the body. The immortality of the soul seemed to presuppose that the mind or soul was capable of existing without the body and, for that reason, that it should be classified as an Aristotelian substance. When Descartes was informed about this disputation (when it was already too late to recommend amendments), he responded that there was hardly anything more likely to offend or antagonize theologians than to say that a human being “is an accidental being” (AT III, 460: Bos 2002, 90–91).
+    step1: |-
+      然而 1641 年 11 月，这位乌得勒支教授又开启了一系列论辩，从医学越界进入哲学，并连带进入神学，从而引发了一场持续十余年的争论。对既有亚里士多德学说的最明确挑战，发生在雷吉乌斯的学生亨里库斯·范·隆（Henricus van Loon）于一场论辩（1641 年 12 月 8 日）中主张：人的心灵与身体是两种彼此有别的实体，它们以偶性统一（*unum per accidens*）的方式结合在一起。这一论题或许在无意之间触及基督教哲学与神学中最具争议的问题之一，即如何理解每个主体所体验的人性之统一，同时又维护基督教关于人的灵魂或心灵不朽、以及身体复活的传统信仰。灵魂不朽似乎预设心灵或灵魂能够离开身体而存在，因而应被归为亚里士多德意义上的实体。笛卡尔得知这场论辩时（已来不及建议修改），回应说：几乎没有什么比说人“是一个偶性存在者”更容易冒犯或激怒神学家了（AT III, 460：Bos 2002, 90–91）。
+    step2: |-
+      然而 1641 年 11 月，这位乌得勒支教授又开了一系列论辩，从医学一路越进哲学，又连带闯进神学，由此引出的争论延续了十多年。对既有亚里士多德学说的最明白的挑战，出在雷吉乌斯的学生亨里库斯·范·隆（Henricus van Loon）身上：他在 1641 年 12 月 8 日的一场论辩中主张，人的心灵与身体是两种彼此有别的实体，二者以偶性统一（*unum per accidens*）的方式相结合。这一论题也许是无心之举，却正撞上基督教哲学与神学中最难缠的问题之一：既要理解每个主体所体验到的人性统一，又要守住基督教关于灵魂或心灵不朽、身体复活的传统信仰。灵魂不朽似乎先已假定：心灵或灵魂能离开身体而存在，因此应当归入亚里士多德意义上的实体。笛卡尔得知这场论辩时已经来不及提出修改意见，他的回应是：说人“是一个偶性存在者”，几乎再没有别的话更能冒犯或激怒神学家了（AT III, 460：Bos 2002, 90–91）。
+  - id: 11
+    kind: body
+    source: |-
+      Voetius, with the support of his professorial colleagues in theology, replied to Regius by appending corollaries to his own theological disputations, in December 1641, in which he accused proponents of the ‘new philosophy’ [i.e., Cartesianism] of a number of errors: teaching that a human being is an accidental being, defending Copernicanism, and supporting scepticism and irreligion by denying substantial forms. In the course of these replies to Regius, Descartes’ name was also mentioned, and it was clear that Regius and Descartes were perceived by Voetius as jointly attempting to undermine the philosophical foundations of Calvinist theology as taught at Utrecht. Initially, Descartes joined the debate merely by advising Regius how to respond appropriately to Voetius. One part of that advice was that Regius should have dealt with substantial forms as Descartes had done in the *Météores* (AT VI, 239): that he should not have rejected them explicitly but, instead, should merely have omitted them as redundant to genuine explanations.
+    step1: |-
+      1641 年 12 月，沃埃修斯在神学同僚教授的支持下，以在自己的神学论辩后附加推论（corollaria）的方式回应雷吉乌斯；他在这些推论中指责“新哲学”（即笛卡尔主义）的支持者犯有若干错误：教导人是一个偶性存在者，为哥白尼主义辩护，以及通过否认实体形式来支持怀疑主义与不敬神。在回应雷吉乌斯的过程中，笛卡尔的名字也被提及；显然沃埃修斯认为雷吉乌斯与笛卡尔在合力挖掉乌得勒支所讲授的加尔文宗神学的哲学根基。起初，笛卡尔只是通过建议雷吉乌斯如何恰当回应沃埃修斯来参与辩论。其中一项建议是：雷吉乌斯本应像笛卡尔在《气象学》中那样处理实体形式（AT VI, 239）——不公开拒斥它们，而只是把它们当作对真正解释而言多余的东西略去不提。
+    step2: |-
+      1641 年 12 月，沃埃修斯在神学同僚教授的支持下回击雷吉乌斯：他在自己的神学论辩后面附加若干推论（corollaria），指“新哲学”（即笛卡尔主义）的拥护者犯有几项错误——教导人是偶性存在者，为哥白尼主义张目，又借否认实体形式来支持怀疑主义与不敬神。这些回应里还点了笛卡尔的名；在沃埃修斯看来，雷吉乌斯与笛卡尔显然是在联手拆毁乌得勒支所授加尔文宗神学的哲学地基。笛卡尔起初只是从旁指点雷吉乌斯如何得体地回应沃埃修斯。其中一条是：对付实体形式，雷吉乌斯该学他在《气象学》里的做法（AT VI, 239）——不要明言拒斥，只把它们当作真正解释所不需要的东西略去即可。
+  - id: 12
+    kind: body
+    source: |-
+      However, Descartes also provided Regius with philosophical arguments in reply to Voetius. He outlined a number of reasons why they were jointly opposed to describing the human mind as a substantial form. To say that human beings think because they have a ‘thinking form’ explains nothing; secondly, those who postulate the existence of substantial forms are unable to say more precisely what they are, and thus they appeal to ‘occult’ realities that they do not understand; and, perhaps most importantly, if the alleged substantial forms of other natural phenomena were made redundant by developments in physics, there would be a danger that the spirituality of the mind or soul would be compromised by similar advances in the sciences. “All the arguments that are used to prove substantial forms may be applied to the form of a clock, although no one claims that it is substantial” (AT III, 505: Bos 2002, 115). Many of Descartes’ suggestions were incorporated, as amendments, into the final version of the Regius’ reply to Voetius, which appeared as *Responsio, sive notae in Appendicem* (Regius 1642) on 16 February 1642. This further inflamed the situation. The following month, Regius was forbidden by the University to teach natural philosophy in public or in private, and was restricted to lecturing in traditional medicine. The Academic Senate, with the approval of the town council, also issued an official condemnation of Cartesian philosophy.
+    step1: |-
+      不过，笛卡尔也向雷吉乌斯提供了回应沃埃修斯的哲学论证。他列举了若干理由，说明他们为何共同反对把人的心灵描述为实体形式。说人因为有“思维形式”而思维，什么也没有解释；其次，设定实体形式存在的人无法更精确地说出它们是什么，于是求助于他们并不理解的“隐秘”实在；或许最重要的是，如果其他自然现象所谓的实体形式因物理学的发展而变得多余，那么心灵或灵魂的精神性就有被科学的类似进展所损害的危险。“一切用来证明实体形式的论证都可以套用到钟表的形式上，尽管没有人主张钟表的形式是实体性的”（AT III, 505：Bos 2002, 115）。笛卡尔的许多建议作为修正被纳入雷吉乌斯回应沃埃修斯的最终版本，该文于 1642 年 2 月 16 日以《回应，或对附录的注释》（*Responsio, sive notae in Appendicem*，Regius 1642）发表。这使局势进一步激化。次月，大学禁止雷吉乌斯公开或私下讲授自然哲学，只许他讲授传统医学。学术评议会经市议会批准，还发布了正式谴责笛卡尔哲学的公告。
+    step2: |-
+      不过笛卡尔也给了雷吉乌斯一套回击沃埃修斯的哲学论证。他列出几条理由，说明两人何以都不赞成把人的心灵说成实体形式。其一，说人因为有“思维形式”而思维，等于什么也没说；其二，设定实体形式的人讲不清它们究竟是什么，只好乞灵于自己并不理解的“隐秘”实在；其三，也许最要紧：如果其他自然现象所谓的实体形式已被物理学的进展证明为多余，那么心灵或灵魂的精神性，也可能被科学的类似进展一并消解。“凡用来证明实体形式的论证，都可以搬到钟表的形式上，尽管没有人会说钟表的形式是实体性的”（AT III, 505：Bos 2002, 115）。笛卡尔的许多建议都以修正的形式写进了雷吉乌斯回击沃埃修斯的定本；该文 1642 年 2 月 16 日以《回应，或对附录的注释》（*Responsio, sive notae in Appendicem*，Regius 1642）刊行。局面因此更加火上浇油。次月，校方禁止雷吉乌斯公开或私下讲授自然哲学，只准他讲传统医学。学术评议会又经市议会核准，正式发布了对笛卡尔哲学的谴责。
+  - id: 13
+    kind: body
+    source: |-
+      Descartes later joined the controversy in a more public way. He included a letter to a French Jesuit, ‘A Letter to Father Dinet,’ in the second edition of the *Meditations* (1642), which was published in Amsterdam and thus became readily available to his critics in Utrecht. While the letter to Dinet criticised Voetius without naming him explicitly, Descartes’ subsequent *Epistola ad Voetium* (1643) went further by removing the apparent anonymity of his target in the first letter. The complex history of the next few years, which is summarized in Verbeek 1992 and Descartes’ *Correspondence*, included an official ban on the teaching of Cartesian philosophy by the local authority in Utrecht (the Vroedschap), and the establishment by the same authority of a committee of inquiry into the public controversy that resulted from Regius’ teaching of Cartesian philosophy. The official report of the university committee on the whole affair, to date, was published in 1643 as the *Narratio historica* (*Testimonium* 1643; Verbeek 1988, 71–123)[^testimonium-1643][^verbeek-1988]. Meantime, Voetius arranged for one of his supporters, Martinus Schoock (1614–69), to write an extensive critique of Descartes and Cartesianism, which was published as *Admiranda methodus novae philosophiae Renati Des Cartes* (*The Admirable Method*) in Utrecht in 1643 (Schoock 1643)[^schoock-1643]. *The Admirable Method of the New Philosophy of René Descartes* listed, among the most serious charges against Descartes, that he was an atheist and a sceptic, and it implied that he deserved the same treatment as heretics, such as Giulio Cesare Vanini (1585–1619), who had been burned at the stake in Toulouse. While the authorship of this book, Descartes’ replies to it, and various legal charges of defamation and libel continued for some years, Descartes concluded his contribution to the controversy with Voetius in the *Apologetic Letter to the Magistrates of Utrecht*, which was written in 1647 and sent to Utrecht in February 1648 (Bos 1999)[^bos-1999].
+    step1: TBD
+    step2: TBD
+  - id: 14
+    kind: body
+    source: |-
+      The intensity of the dispute between Voetius and those whom he identified as proponents of a ‘new philosophy’ might suggest agreement, at least between Descartes and Regius, on a common philosophical position. In the course of the Utrecht controversy, however, an irretrievable breakdown developed in relations between Descartes and his former supporter. The epistemology favoured by Regius, which reflected his disciplinary expertise in medicine and physiology, left little room for Cartesian metaphysics. When he wrote to Descartes, in July 1645 (AT IV, 254–6: Bos 2002, 189–90), that many reputable people believed that Descartes secretly held views about the human mind and God that differed from those that he published, and that he had discredited his philosophy by publishing the *Meditations*, it seemed to Descartes that Regius was endorsing the same criticisms that Voetius and Schoock had made earlier. The following year, against Descartes’ advice, Regius published the *Fundamenta physices*, in which he rejected a number of Descartes’ metaphysical theses and thereby incurred the wrath of his former mentor. The French philosopher denounced Regius, as misrepresenting his philosophy, in the preface to the French edition of the *Principles of Philosophy* (1647). Regius planned to reply by adding twenty-one Corollaries to a medical disputation that was scheduled for 2 October 1647, concerning a forty-year old man who had inflammation of the feet and legs (Regius 1647b). These Corollaries included three of the more contentious claims about the mind and God that Regius had earlier removed from *Fundamenta physices* in an unsuccessful attempt to appease Descartes. Although the disputation was banned by the University rector, Regius had already disseminated copies of the text, including the controversial *Corollaria*. Descartes replied with *Notae in programma quoddam* (1648)—i.e., *Critical Remarks on a Certain Manifesto*—to which Regius replied with an extended version of the *Corollaria*, in *A Brief Explanation of the Human Mind or the Rational Soul, in which is explained what it is and what it may be* (Regius 1648).
+    step1: TBD
+    step2: TBD
+  - id: 15
+    kind: body
+    source: |-
+      The main source of disagreement between Descartes and Regius was their respective accounts of human nature. This had emerged as early as 1640, when Regius commented on a draft of the *Meditations*, and more explicitly in the disputation (December 1641), which proposed the thesis that the human mind and body are united in an ‘accidental unity.’ In July 1645, when Descartes responded to a draft of the *Fundamenta* *physices*, he argued that Regius had gone too far in the opposite direction by making the union of mind and body so close that the mind was merely a ‘mode’ of the body—which was an even greater error than his earlier mistake (AT IV, 250: Bos 2002, 188). This issue, of how to conceive of the mind and body as united and yet separable, dominated the series of claims and counter-claims made by both philosophers up to 1648. Between 1648 and February 1650, when Descartes died, the two philosophers did not engage directly with each other. Descartes discussed a range of questions with Burman in 1648, and in response to one query he provided another reminder of the extent to which Regius allegedly misunderstood his metaphysics. “As far as Regius is concerned … in physics he has always been anxious to follow the views of the author [i.e., Descartes] … whereas in metaphysics he has done everything possible to contradict the author’s views” (Descartes CB, 38: AT V, 170). Descartes’ last publication, *Les Passions de l’Ame* (1649: AT, vol. XI), may be read as his final attempt to address the source of their disagreement, and Regius 1650 may be seen as Regius’ response (Verbeek 2017)[^verbeek-2017].
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      Beyond their philosophical disagreements, there was an accusation of plagiarism by Descartes. He wrote to an acquaintance that he had found almost nothing in *Fundamenta physices* that Regius could not have borrowed from him, but that it also contained many falsities due to Regius’ misunderstanding of them. In particular, Descartes referred to Regius’ explanation of muscle movement, which the Utrecht professor allegedly took from the unpublished manuscript of *Traité de l’homme*. However, because Regius would only have obtained a copy of that manuscript shortly before the publication of his book, and because the figures were lacking, his explanation was misguided (AT IV, 517–518; see also AT IV, 566–567). In later years, Regius denied that he ever had a copy of *L’homme* (Regius 1661b; Bos 2002, *xvi–xx*). Moreover, if Regius did not obtain a copy before 1645, this would mean that the groundwork for his explanation of muscle movement, already laid down in his 1641 disputations, must have been entirely his own work—which also seems doubtful. In any case, these disputations from 1641 show undeniably that the interaction between Descartes and Regius at the time was far more extensive than what we know from their correspondence. Their exchange of letters must have been larger than what survives, which seems likely, and it seems equally likely that they exchanged views during personal conversations (Bos 2017, 104–105)[^bos-2017]. That this exchange of ideas was certainly not one-way is demonstrated by the case of the explanation of magnetism, where an influence appears to have run in the opposite direction (Sander 2020, 721–728)[^sander-2020].
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      ## 3. Theory of Knowledge and Philosophy of Science
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      Once Regius had publicly established his independence vis-à-vis Descartes in 1647, he began to publish a theory of knowledge that reflected his medical interests (Bellis, 2013) and complemented the account of human nature that he adopted in opposition to his former mentor. The result was an epistemology that was closer to that which appeared, almost four decades later, in Locke’s *Essay* than anything that he had read in Descartes. This transition had begun while drafting *Fundamenta physices*, in which Regius denied the need for any innate ideas, including even the idea of God.
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      > The mind, in order to think, does not seem to need innate ideas, images, notions or axioms; rather, its innate faculty of thinking is sufficient on its own in order for it to complete all its thinking activities. This is evident in the perception of pain, colour, taste, and other similar perceptions, which are genuinely perceived by the mind, although none of those ideas is innate. Nor is there any reason why some ideas rather than others should be innate by their very nature. (Regius 1646, 251)
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      Regius supported this with the claim that a young person who had not been educated would, if asked, deny knowledge of things of which they had no experience (1654, 251). Since an innate idea of God was central to the Cartesian project, Regius made his own position explicit by also denying that the idea of God is innate: “Even the idea of God … does not seem to be innate in us, but is produced in us initially by observing things or is passed on to us by others” (Regius 1646, 252).
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      Regius rejected the innateness of ideas for the same reason that Descartes had rejected various scholastic entities: it was redundant to an adequate explanation of thinking.
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      > It is evident from the perception of titillation and of pain, of sounds and light, which arise from the motion of an objective body, that the stimulation of the senses does not require intentional species, nor spiritual qualities, nor any other unintelligible things, but that local motion alone and its variations suffice for this purpose. (Regius 1646, 253–4)
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      He repeated the denial of innate ideas in the Corollaries of 1647: “The mind does not need innate ideas, or notions, or axioms; its faculty of thinking alone is enough for it to perform its own actions” (Regius 1647b, Corollary 12). Descartes’ reply, in the *Notae* (Descartes 1648)[^descartes-1648], conceded the validity of Regius’ claim by accepting that their disagreement was merely verbal: “I never wrote or claimed that the mind needs innate ideas which are anything other than its faculty of thinking” (AT VIII-2, 357). Regius subsequently generalized his claim, in *Philosophia naturalis* (1654: 335); apart from what is revealed in Scripture, he argued, all thoughts originate in sensory experience.
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      > All those [i.e., conscious acts], which do not originate in divine revelation, are sensations or derive their origin from sensation. For we cannot will, judge, or remember anything, nor imagine anything, nor otherwise perceive anything, unless some idea of that thing had been immediately or mediately produced in us by sensation, or subsequently triggered and presented to the mind.
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      This unequivocally empiricist claim was compounded by the denial of any ‘pure intellect.’ Regius had never appealed to a ‘pure understanding’ as a source of ideas, and had often asserted the ‘organic’ connection between mind and body. He had defined ‘organic’, in the first of his *Physiologia* disputations (Bos 2002, 200), in contrast with ‘inorganic’ as almost a synonym for ‘bodily dependent’. Organic parts of the body, such as the nerves, veins, or muscles, required a certain physical conformation of the body in order to perform an action. When applied to the mind, therefore, the term ‘organic’ suggested that the mind could perform mental operations only on condition that various bodily parts functioned appropriately at the same time.
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      These early hints, which were short of an outright denial of a pure understanding, were interpreted correctly by Descartes in 1647. Regius had defined perception in his banned disputation as ‘sensation, remembering and imagining’ (Regius 1647b: *Corollaries*, no. 18), and Descartes concluded that he was implicitly denying the reality of pure understanding: “One could draw the conclusion that he does not accept any pure understanding, that is, an understanding that is not concerned with physical images; and therefore he thinks that we have no knowledge of God or the human soul, or of other non-physical things” (AT VIII-2, 363). Regius confirmed that interpretation in his reply: “The human mind, although it is a substance that is really distinct from the body, is however organic in all its actions while it is in the body … it cannot perform any of its actions without bodily organs” (Regius 1648, 10). Perhaps he had been applying Descartes’ previous advice about substantial forms—to ignore them rather than deny their existence explicitly—when he refrained from denying a pure understanding in his earlier writings. By 1654, however, he was ready to publish an explicit denial: “Since … we are able to explain all its operations [i.e., those of the mind] by those faculties of the intellect, which were already explained, there is no need to add to them a pure intellect or anything similar as something that is distinct from them” (Regius 1654, 404). Nonetheless, the denial of a pure intellect did not imply denying that human beings have an idea of God; the latter is acquired in the same way as other ideas, namely by using an intellect that is organically dependent on the human body.
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      Since all ideas originate in sensation, Regius had to acknowledge that we often come to have ideas that originate from imagined realities and that, in the case of veridical and non-veridical perceptions, the subjective experiences are often sufficiently similar that one cannot be certain of a correspondence between ideas and reality. In contrast with the Cartesian rational defence of the reliability of our cognitive faculties, Regius claimed that one must rely on Scripture for this purpose (Regius 1646, 249). However, Scripture does not guarantee that our perceptions are always certain. This issue was particularly acute when the realities in question were unobservable (Regius 1646, 4). Regius thought it was obvious that physical bodies are composed of insensible particles, and that their description is a matter of hypothesis. When faced with the task of explanation, therefore, he took refuge in some of the central themes of Cartesian natural philosophy. He borrowed the ‘fable’ used by Descartes in *Le Monde*, that the natural world is composed of one matter, that it is divided into parts of various sizes and shapes in motion, and that all natural phenomena may be explained by the laws of nature that apply to those parts (Regius 1646, 4).
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      This is the positive side of Regius’ account of explanation. The negative side, as with Descartes, is a rejection of forms and qualities as understood by scholastic philosophers. For example, Regius had argued in 1641 that one does not explain how the heart works by introducing a ‘sentient and vegetative soul.’ He commented: “That is saying nothing more than this: that the heart is moved by whatever is the principle by which we live, sense and move (for that is how the soul is defined), which begs the question as to what that is” (Regius 1641b, Disputatio VI, Corollary, par. V). Such an explanation of the heart’s motion is similar to explaining the motion of a clock by ‘a faculty of a certain kind.’ Regius proposed instead that we think of the world as a great machine, and that we explain natural phenomena by hypothesizing how that machine works.
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      > The world, therefore, is a great machine and each of its parts is a small machine, in which it can be observed and easily demonstrated that there is nothing other than motion or rest, together with size, position, and shape (I wish to make a unique exception of our soul). However, I regard the forms which are said to be substantial and likewise qualities of a corporeal substance, whether occult or manifest … as mere non-entities, which conceal our ignorance of causes. (Regius 1641b, para. ix)
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      It follows from this kind of speculative reasoning about the unobservable inner structure of natural phenomena that scientific knowledge is only more or less probable. If we imagine a likely cause of some phenomenon as a configuration of unobservable particles and, despite further research, cannot discover another possible cause that is either as likely or more likely, we should rest content with the first hypothesis until something better is discovered.
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      > When any question in physics is proposed for resolution, one should first think of an intelligible cause by which the effect that is observed in the proposed problem could be explained intelligibly and appropriately. One should then look to see if a more appropriate or equally appropriate cause can be found. If a more appropriate cause is found, it should be preferred. If one that is equally appropriate is found, it should be treated as equally confirmed. However, if none is found that is equally or more appropriate, the solution found should be adopted until a better or equally good one is found. (Regius 1654, Epilogue)
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      The acceptance of probable hypotheses as the best available was a significant revision of a model of human knowledge, originally derived from Aristotle, according to which genuine knowledge must achieve the degree of certainty that is provided by intuition and demonstration (Clarke 2011)[^clarke-2011]. While other natural philosophers, even at the conclusion of the seventeenth century, refused to classify explanations of natural phenomena as knowledge, because they were uncertain, Regius had accepted in mid-century that such uncertainty is inevitable except in the case of divine revelation. “Although, apart from divine revelation, there is no apodictic certainty about things that exist outside our mind, but only moral or probable and likely certainty, that is still sufficient to perform adequately and to control all the activities of human life, since nothing more is required for them apart from moral or probable truth or the certainty and likelihood of knowledge” (Regius 1654, 351).
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      ## 4. Theory of Human Nature
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      Regius acknowledged objections, as early as 1641, to scholastic descriptions of human nature, according to which the human mind or soul was the substantial form of the body that was capable, after death, of existing on its own. As indicated above, he accepted Descartes’ general objections to the intelligibility and explanatory usefulness of substantial forms. It was unclear to him, therefore, how such forms could be used to describe or explain human nature. His reservations about substantial forms were articulated in the draft copy of *Fundamenta physices*, which he had sent to Descartes prior to publication. The latter’s objections caused Regius to delete three of the more controversial claims about God and the soul from the published text. However, they re-appeared in the Corollaries of Regius 1647b, and in the second edition of the text, *Philosophia naturalis* (1654).
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      Descartes had defined material substance in terms of its principal attribute, extension. Regius endorsed that position when he rejected any distinction between a corporeal substance and its extension.
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      > There is no need to imagine that there is a substance in a body in which extension exists, and that it is something which in its nature or in reality is distinct from extension, because realities should not be multiplied without necessity. Extension does not need such a subject, *as something that is distinct from itself*; but it is capable of existing on its own. (Regius 1646, 2; the phrase in italics was added in Regius 1654, 3.)
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      One would expect the same logic to apply to thinking, as an attribute that does not require a distinct substance. Nonetheless, Regius initially stopped short of saying that. While accepting that divine revelation teaches that the mind is a substance, he emphasized that it is organically united with the body. “The human mind, although it is a substance that is really distinct from the body, is however organic as long as it exists in the body” (1646, 246). The mind was also described as being “united most closely with the body in one substance” (Regius 1646, 248).
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      However, once he had been rebuked publicly by Descartes, Regius was free to express himself more explicitly. In the Corollaries (Regius 1647b), he wrote:
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      > As far as the nature of things is concerned, it seems possible for the soul to be either a substance or a mode of a physical substance. Or, if we follow some other philosophers [i.e., Descartes] who stipulate that extension and thought are attributes which are present in certain substances as their subjects, then since these attributes are not opposites but are just different from each other, there is nothing to prevent the mind from being an attribute of some kind which applies to the same subject as extension, even though neither attribute is included in the concept of the other (thesis 2).
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      This is further developed in Regius 1654, in which he argues that the concepts of extension and thinking are not incompatible and, “accordingly, they [the attributes] may both be present in the same simple subject” (337). This anticipates the question (and the implied answer) that was discussed by Locke, in the *Essay* IV, iii, 6, whether God may have superadded thought to a material substance. In the version proposed by Regius, there are no reasons why it would be impossible for a material entity to have the property of thinking because, although thinking and extension have nothing in common, they are not incompatible.
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      Regius also included in the *Corollaries* two other theses that were critical of Descartes and had been omitted from the *Fundamenta Physices*: in thesis 3, he claimed that ‘those who assert that we conceive of the human mind clearly and distinctly as necessarily and really distinct from the body are mistaken’, and in thesis 13 that ‘all common notions that are engraved in the mind derive their origin from the observation of things or from tradition’. Regius also claimed that these conclusions from experience and reason, within the scope of natural philosophy, were consistent with thesis 4, that divine revelation provides indubitable evidence for belief that the human mind is a distinct substance.
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      These early statements in thesis form of criticisms of Descartes were subsequently expanded in Regius 1654. Many of Descartes’ contemporaries had understood him as arguing that there must be a real distinction between mind and body because it is possible to doubt having a body although it is impossible to doubt having a mind. Regius addressed this argument explicitly:
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      > The fact that we can doubt the body but cannot possibly doubt the mind does not prevent the mind from being a mode of the body. That merely proves that, while we are doubting the body, we cannot say with certainty that the mind is its mode. In the mean time, since the body about which we doubt may nevertheless subsist and since there is no reason why it may not be modified by the mind—which is evident from what has been said earlier—this is enough to show that the mind of which we are certain may be a mode of that doubtful body. (1654, 338)
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      Given Regius’ disagreement with Descartes about the concept of a human mind, and his rejection of innate ideas, it was not surprising that he also rejected the ontological argument for God’s existence that Descartes had proposed in the Fifth Meditation (AT VII, 65). The Dutch philosopher accepted that the “actual and necessary existence of God is comprehended in the idea or concept of God.” He argued, however, that it does not follow from that concept that God exists actually and necessarily. “It merely follows that, if he existed anywhere, he would exist necessarily rather than contingently or that, in that case, he would not be capable of not existing” (Regius 1654, 357).
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      One could interpret the gradual dissociation between Regius and Descartes, and the rejection by the former of the latter’s metaphysics, as an endorsement by Regius of one dominant feature of the Cartesian enterprise, namely, the new natural philosophy that was inaugurated in *Le Monde*. Regius had followed the logic of Descartes’ natural philosophy by denying any explanatory value in the hypothesis of souls in animals. “Since indeed the actions of beasts … can be explained simply by the disposition of their spirits and other bodily parts, and since entities should not be multiplied without necessity, we have no reason to attribute any intellect to beasts” (Regius 1646, 241–42). He might have followed the same logic in the case of human intelligence, had he not been restrained by his understanding of the teaching of Scripture, and his apparent acceptance on biblical grounds that the human mind is an immaterial substance. Rather than endorse Cartesian metaphysics, as found in the *Meditations*, which seemed to return its author to the scholastic philosophy that he explicitly rejected, Regius struggled with the competing demands of Scripture and the logic of Cartesian natural philosophy. The challenge of this conjunction is evident in Regius’ repeated attempts to describe the unity of mind and body ‘in a single substance’ (1646, 248) while maintaining that the mind is “something that is really distinct from the body and is separable from it in reality” (1646, 246). This epistemic dualism, to the effect that we acquire some beliefs from natural knowledge and others from Scripture, has been understood, by some readers, as intellectually dishonest and as a typical libertine camouflage for cryptic materialism (Hallyn, 2005). But, as Bos (2013) shows, Regius may have accepted the limits of human knowledge, based on reason and experience, and also adopted a commonplace understanding of the certainty of Scripture. By doing so, he became a reluctant dualist without endorsing Cartesian metaphysics.
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: oir
+    source: |-
+      - Portrait of Regius, [Rijksmuseum, Amsterdam, The Netherlands](https://id.rijksmuseum.nl/200230749).
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: ack
+    source: |-
+      This entry was originally written by the late Desmond Clarke, but since October 2019, the entry has been updated and maintained by Erik-Jan Bos.
+    step1: TBD
+    step2: TBD
