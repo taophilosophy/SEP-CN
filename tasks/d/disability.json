@@ -2,7 +2,7 @@
   "slug": "disability",
   "kind": "retranslate",
   "zh_doc": "d/disability.md",
-  "state": "cleared",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,20 @@
       "actor": "task_ops",
       "at": "2026-11-08T04:11:25Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "D-main-20261109",
+      "at": "2026-11-08T20:05:36Z",
+      "evidence": "本会话接管在途件收口：账本 111 段（body 109+oir 2）step1/step2 双版全齐，lq check 守恒校验通过（残余 0）；compose 输出与 d/disability.md 对齐，唯一差异为强调形态 em→中文加粗（ADR-0019 映射、L 批裁定债不回填账本）；脚注定义键 76:76、引用多重集 129:129、H2 6:6/H3 5:5/H4 5:5 全等；年份与链接多重集全等（除模板版本行）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "D-main-20261109",
+      "at": "2026-11-08T20:12:34Z",
+      "evidence": "逐段回核源文（yuanwen/d/disability.md 全 410 行）实修 6 处：①rigidifies 技术术语误译「采取了僵硬立场」→「以刚性化（rigidify）回应」，并与前文「固化」用语统一；②漏译 false：「由未能意识到」→「由错误地未能意识到社会模型与交互模型的洞见所塑造」；③Amundson 正文「阿蒙森（Amundson 2000）」→保留英文，与 ren-ming-biao 已登记行（Ron Amundson，ADR-0022）归一；④Boorse 同词条两形混用「与 Boorse 站在一边」→「与伯尔斯站在一边」；⑤Buchanan/Brock/Daniels/Wikler 首现补英文括注（ADR-0022）；⑥文末 oir 行全角方括弧→半角（源为半角）。人名/术语登记：术语 15 行、人名 19 行（Foucault 既有行核对不重复）；相关词条 9 项中文名与 SUMMARY 逐条一致；check_style 0 issue、check_academic --strict 0 硬错误、check_all 7/7 全绿。s2 待办：check_prose 告警 83（long-sentence 38/de-chain 26/passive-bei 11/weak-verb 8）"
     }
   ],
   "blockers": [],

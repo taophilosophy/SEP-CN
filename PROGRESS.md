@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-08 20:12（UTC）
+生成时间：2026-11-08 21:30（UTC）
 
 ## 总览
 
@@ -14,21 +14,22 @@
 |已建英文基线|1879|
 |已建任务|1146|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|222|
-|在途（drafted 起、done 前）|233|
+|已完成（done）|223|
+|在途（drafted 起、done 前）|234|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|691|
-|cleared|158|
+|pending|689|
+|cleared|159|
 |drafted|7|
-|s1_checked|1|
-|s3_checked|63|
-|r1_reviewed|4|
-|done|222|
+|s1_checked|2|
+|s3_checked|62|
+|r1_reviewed|3|
+|r2_reviewed|1|
+|done|223|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -47,7 +48,7 @@
 |K|36|36|36|21|
 |L|144|144|20|18|
 |M|139|139|14|6|
-|N|50|50|6|3|
+|N|50|50|6|4|
 |O|21|21|10|8|
 |P|165|165|5|0|
 |Q|34|34|34|0|
@@ -155,7 +156,7 @@
 |conscience|retranslate|s3_checked|C-main-20261108b 2026-11-08|
 |contractarianism|retranslate|s3_checked|CD-main-20261106 2026-11-06|
 |copernicus|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
-|cordemoy|retranslate|r1_reviewed|REV-main-20261109 2026-11-08|
+|cordemoy|retranslate|r2_reviewed|REV-main-20261109 2026-11-08|
 |cosmology-30s|retranslate|drafted|C-main-20261109 2026-11-08|
 |creation-conservation|retranslate|s3_checked|主代理 2026-11-01|
 |crescas|retranslate|s3_checked|C-main-20261108 2026-11-07|
@@ -177,6 +178,7 @@
 |disability-care-rationing|retranslate|s3_checked|D-main-20261108 2026-11-08|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |du-bos|retranslate|s3_checked|主代理 2026-11-01|
+|ecological-genetics|retranslate|cleared|task_ops 2026-11-08|
 |experimental-aesthetics|retranslate|s3_checked|EFG-main-20261108 2026-11-08|
 |frame-problem|retranslate|cleared|task_ops 2026-11-06|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
@@ -189,11 +191,11 @@
 |genetic-drift|retranslate|cleared|task_ops 2026-11-01|
 |genotype-phenotype|retranslate|cleared|task_ops 2026-11-01|
 |george-eliot|retranslate|cleared|task_ops 2026-11-01|
-|gersonides|retranslate|drafted|g-beta-G-main-20261109 2026-11-08|
+|gersonides|retranslate|s1_checked|g-beta-G-main-20261109 2026-11-08|
 |gianfrancesco-pico|retranslate|cleared|task_ops 2026-11-01|
 |giles|retranslate|cleared|task_ops 2026-11-01|
 |global-democracy|retranslate|cleared|task_ops 2026-11-01|
-|god-necessary-being|retranslate|cleared|task_ops 2026-11-01|
+|god-necessary-being|retranslate|drafted|g-gamma-G-main-20261109 2026-11-08|
 |goedel|retranslate|cleared|task_ops 2026-11-01|
 |goodman|retranslate|cleared|task_ops 2026-11-01|
 |gorampa|retranslate|cleared|task_ops 2026-11-01|
@@ -283,10 +285,10 @@
 |marsilius-padua|retranslate|drafted|M-main-20261109 2026-11-08|
 |model-organisms|retranslate|cleared|task_ops 2026-11-08|
 |moral-demands-permissions|retranslate|s3_checked|LMN-main-20261108f 2026-11-08|
-|necessary-sufficient|retranslate|s3_checked|ZCode-N-20261108b 2026-11-08|
 |omnipresence|retranslate|drafted|OPQR-main-20261108 2026-11-08|
 |peirce-benjamin|retranslate|cleared|task_ops 2026-11-08|
 |qt-entangle|retranslate|cleared|task_ops 2026-11-08|
+|quine-nf|retranslate|cleared|task_ops 2026-11-08|
 |reinach|retranslate|cleared|task_ops 2026-11-08|
 |religion-epistemology|retranslate|cleared|task_ops 2026-11-08|
 |simon-faversham|retranslate|r1_reviewed|SZ-main-20261108 2026-11-08|

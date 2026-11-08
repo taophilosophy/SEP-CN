@@ -590,7 +590,7 @@ segments:
     step1: |-
       Jenkins 与 Webster（2021）提出另一种社会建构式残疾定义——确切地说，是三个不同但密切相关的定义。与巴恩斯、Howard 和 Aas 一样，他们关心的是理解哪些身体差异与残疾核心相关。但在理解这些差异时，他们更靠近人类变异模型，而非少数群体模型。他们的关键概念是他们所称的**边缘化功能**：拥有一个不以我们社会建构的世界所期待的方式运作的身体。他们的三个残疾定义都预设了这一概念；即：
     step2: |-
-      Jenkins 与 Webster（2021）提出的是另一类社会建构式残疾定义——确切地说，是三个彼此不同又密切相关的定义。与巴恩斯、Howard 和 Aas 一样，他们想弄清哪些身体差异与残疾有着核心关联。只是在理解这些差异时，他们更接近人类变异模型，而不是少数群体模型。两人的关键概念是他们所谓的**边缘化功能**：身体不以我们社会建构的世界所期待的方式运作。他们的三个残疾定义都以这一概念为前提，即：
+      Jenkins 与 Webster（2021）提出的是另一类社会建构式残疾定义——确切地说，是三个彼此不同又密切相关的定义。与巴恩斯、Howard 和 Aas 一样，他们想弄清哪些身体差异与残疾有着核心关联。只是在理解这些差异时，他们更接近人类变异模型，而不是少数群体模型。两人的关键概念是他们所谓的 **边缘化功能**：身体不以我们社会建构的世界所期待的方式运作。他们的三个残疾定义都以这一概念为前提，即：
   - id: 71
     kind: body
     source: |-
@@ -631,17 +631,17 @@ segments:
     source: |-
       **MF2:** someone is disabled in a context if and only if they have lasting marginalized functioning in that context; OR
     step1: |-
-      **MF2：**某人在某一语境中是残疾人，当且仅当他们在该语境中具有持久的边缘化功能；或者
+      **MF2：** 某人在某一语境中是残疾人，当且仅当他们在该语境中具有持久的边缘化功能；或者
     step2: |-
-      **MF2：**某人在某一语境中是残疾人，当且仅当其在那个语境中具有持久的边缘化功能；或者
+      **MF2：** 某人在某一语境中是残疾人，当且仅当其在那个语境中具有持久的边缘化功能；或者
   - id: 76
     kind: body
     source: |-
       **MF3:** someone is disabled in a context if and only if they experience disability-characteristic oppression because they have marginalized functioning in that context
     step1: |-
-      **MF3：**某人在某一语境中是残疾人，当且仅当他们在该语境中因具有边缘化功能而经历残疾特有的压迫
+      **MF3：** 某人在某一语境中是残疾人，当且仅当他们在该语境中因具有边缘化功能而经历残疾特有的压迫
     step2: |-
-      **MF3：**某人在某一语境中是残疾人，当且仅当此人因在该语境中具有边缘化功能而遭受残疾所特有的压迫
+      **MF3：** 某人在某一语境中是残疾人，当且仅当此人因在该语境中具有边缘化功能而遭受残疾所特有的压迫
   - id: 77
     kind: body
     source: |-
@@ -681,7 +681,7 @@ segments:
     step1: |-
       这一定义用能力来通俗地界定残疾；残疾大致上是一种不寻常的无能力。然而巴恩斯等人反对说，这一定义过宽。例如，它似乎使不能“卷舌”或不能做心算的人成为残疾人，因为多数人在有利条件下都能做到这些。反过来，这类看法似乎也生成不足：有些状况（例如纤维肌痛或抑郁）只是使做事更困难，却并未使任何特定任务或功能径直无法完成。而且，这一定义如何避免那个显然成问题的蕴含，即种族、性别与性取向这类身份范畴蕴含残疾，也不完全清楚；某人可能因其性别或肤色而遭受社会偏见，并因此无法做别人能做的事。
     step2: |-
-      这一定义以能力为准，通俗地界定残疾：残疾大致上就是一种不同寻常的无能力。但巴恩斯等人反驳说，这一定义太宽。比如，它似乎会让不能“卷舌”、不会心算的人也成为残疾人，因为多数人在有利条件下都做得到。反过来，这类看法又会少生成残疾——有些状况（如纤维肌痛或抑郁）只是让做事更费劲，并没有使哪项特定任务或功能径直变得无法完成。再者，这一定义究竟如何避开那个明显有问题的蕴含——种族、性别、性取向这类身份范畴也蕴含残疾——并不完全清楚：一个人可能因其性别或肤色而遭受社会偏见，并因此做不了别人能做的事。
+      这一定义以能力为准，通俗地界定残疾：残疾大致上就是一种不同寻常的无能力。但巴恩斯等人反驳说，这一定义太宽。比如，它似乎会让不能“卷舌”、不会心算的人也成为残疾人，因为多数人在有利条件下都做得到。反过来，这类看法又会低估残疾——有些状况（如纤维肌痛或抑郁）只是让做事更费劲，并没有使哪项特定任务或功能径直变得无法完成。再者，这一定义究竟如何避开那个明显有问题的蕴含——种族、性别、性取向这类身份范畴也蕴含残疾——并不完全清楚：一个人可能因其性别或肤色而遭受社会偏见，并因此做不了别人能做的事。
   - id: 82
     kind: body
     source: |-
@@ -887,7 +887,7 @@ segments:
     step1: |-
       Beaudry 承认，即使开放式进路也有证据上的约束，但这些约束远比任何单一定义（无论多么细致复杂）会施加的约束宽松：
     step2: |-
-      Beaudry 承认为，即便是开放式进路也受证据约束，只是这些约束远比任何单一定义（无论多么细致、复杂）所强加的约束要宽松得多：
+      Beaudry 承认，即便是开放式进路也受证据约束，只是这些约束远比任何单一定义（无论多么细致、复杂）所强加的约束要宽松得多：
   - id: 107
     kind: body
     source: |-
@@ -920,14 +920,14 @@ segments:
       - [*Disability Discrimination Act 1995*](https://www.legislation.gov.uk/ukpga/1995/50/contents), United Kingdom
       - [International Classification of Functioning, Disability and Health](https://www.who.int/classifications/international-classification-of-functioning-disability-and-health), World Health Organization web page.
     step1: |-
-      - [ADA] [[*1990 年美国残疾人法（修正版）*](https://www.ada.gov/pubs/ada.htm)
-      - [*美国哲学协会研究*（原《通讯》）](https://www.apaonline.org/page/APAStudies)，其中包括（除其他外）关于以下主题的研究/通讯：哲学与黑人经验；女性主义与哲学；哲学与女同性恋、男同性恋、双性恋及跨性别议题；哲学中的西班牙裔/拉丁裔议题。
-      - [*1995 年残疾歧视法*](https://www.legislation.gov.uk/ukpga/1995/50/contents)，英国
+      - [ADA] [[《1990 年美国残疾人法》（修正版）](https://www.ada.gov/pubs/ada.htm)
+      - [《美国哲学协会研究》（原《通讯》）](https://www.apaonline.org/page/APAStudies)，其中包括（除其他外）关于以下主题的研究/通讯：哲学与黑人经验；女性主义与哲学；哲学与女同性恋、男同性恋、双性恋及跨性别议题；哲学中的西班牙裔/拉丁裔议题。
+      - [《1995 年残疾歧视法》](https://www.legislation.gov.uk/ukpga/1995/50/contents)，英国
       - [《国际功能、残疾和健康分类》](https://www.who.int/classifications/international-classification-of-functioning-disability-and-health)，世界卫生组织网页。
     step2: |-
-      - [ADA] [[*1990 年美国残疾人法（修正版）*](https://www.ada.gov/pubs/ada.htm)
-      - [*美国哲学协会研究*（原《通讯》）](https://www.apaonline.org/page/APAStudies)，其中（除其他外）包括关于以下主题的研究与通讯：哲学与黑人经验；女性主义与哲学；哲学与女同性恋、男同性恋、双性恋及跨性别议题；哲学中的西班牙裔/拉丁裔议题。
-      - [*1995 年残疾歧视法*](https://www.legislation.gov.uk/ukpga/1995/50/contents)，英国
+      - [ADA] [[《1990 年美国残疾人法》（修正版）](https://www.ada.gov/pubs/ada.htm)
+      - [《美国哲学协会研究》（原《通讯》）](https://www.apaonline.org/page/APAStudies)，其中（除其他外）包括关于以下主题的研究与通讯：哲学与黑人经验；女性主义与哲学；哲学与女同性恋、男同性恋、双性恋及跨性别议题；哲学中的西班牙裔/拉丁裔议题。
+      - [《1995 年残疾歧视法》](https://www.legislation.gov.uk/ukpga/1995/50/contents)，英国
       - [《国际功能、残疾和健康分类》](https://www.who.int/classifications/international-classification-of-functioning-disability-and-health)，世界卫生组织网页。
   - id: 111
     kind: oir
