@@ -96,8 +96,8 @@
    "phase": "translate",
    "claimed_by": "M-main-20261108",
    "claimed_at": "2026-11-08T02:28:33Z",
-   "note": "M-main-20261108 接续（2026-11-08 20:0x UTC+8）：五方复算 139=done 6 + 在途 2（mandeville drafted、moral-demands-permissions s3_checked 属 R-main 评审线）+ pending 6 + 未建 125，账实零偏差；收编 mandeville 工作区遗留润色（33 段，守恒 HARD=0、compose 逐字符相等）commit e3873bb4；待译口径 132（含 mandeville）；下一目标 mandeville s1→s2→s3，再按源文词数升序清 pending 6",
-   "advanced_at": "2026-11-08T12:15:15Z"
+   "note": "M-main-20261108 接续（2026-11-08 13:0x UTC）：mandeville 三校收口 s3_checked（commit a003522a）入 R-main 评审线；M 批在途 2 条均属评审线，待译 6 条 pending + 125 未建；下一目标 marsilius-padua（源 12,965 词，pending 中最小）",
+   "advanced_at": "2026-11-08T14:43:33Z"
   },
   "n": {
    "phase": "translate",
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-08T13:34:01Z"
+ "updated_at": "2026-11-08T14:43:33Z"
 }

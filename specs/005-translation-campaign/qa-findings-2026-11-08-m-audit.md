@@ -40,3 +40,18 @@
 * **PROGRESS.md 重生成**：全局 done 202 / 在途 234（含并行会话推进）；M 批任务 14、done 6、drafted 1、s3_checked 1、pending 6、未建 125。
 * 归属无变化：m 批 claimed_by=M-main-20261108（§2 处置已由上一会话完成），接续会话沿用该身份记账。
 * 待译口径更新：**132 条不变**（139 − done 6 − 评审线 1）；其中 1 条（mandeville）已到 drafted，作业主线为其 s1 逐段核销，其余按 §3 计划推进。
+
+## 5. 接管复算（2026-11-08 12:1x UTC，M-main-20261108 第三段接续）
+
+* **五方复算零偏差**：139 正式 = 成稿 8（done 6 + 在途 2）+ 单行 131；任务 14 = done 6 + drafted 1（mandeville）+ s3_checked 1（moral-demands-permissions，属 R-main 评审线）+ pending 6；未建 125。`script/lmn_audit4.py m` 与 `campaign.py status` 一致。
+* **通知/纠正**：工作区遗留 mandeville 润色件（2026-11-08 19:12，33 段 step2 同步 + 段 51 step1 误译修正「bare bones notion 骨瘦如柴→极其粗略」）经三重核验收编——`lq.py check m mandeville` HARD=0（88 段，软提示均为机械段/斜体转书名号正常项）、`lq.py compose` 与成稿逐字符相等、抽检 5 段忠实无损；commit e3873bb4，任务 draft 凭证补记。
+* **同步**：`tools/progress.py` 重生成（全局 done 213 / 在途 230）；`campaign.py advance m translate --note` 记复算口径与下一目标（commit f04c6d5b）。`claimed_by` 维持 M-main-20261108。
+* **待译口径**：132 条（含 mandeville）。作业序：mandeville s1→s2→s3 → 6 条 pending（按源文词数升序）→ 125 条未建任务按 SUMMARY 序。
+
+## 6. mandeville 三校收口（2026-11-08 13:0x UTC，本会话）
+
+* **s1**：逐段核销 88/88（61 段叙述正文 + 19 节标题 + 机械段）；结构全等（脚注定义 90/90、marker 78/78、标题 27/27、相关词条 12/12 对 SUMMARY 逐字符一致）；修订 2 处——段 63 回源删增译「原始」、段 75 Smith 译名「史密斯」→「斯密」（ren-ming-biao Adam Smith 行）。
+* **s2**：语言层修订 2 处（段 72 搭配、段 85 重复）；check_prose 2 条 de-chain 均为书名《蜜蜂的寓言：或，私人的恶德，公众的利益》内部「的」链误报，按 ADR-0020 逐条豁免。
+* **s3**：check_style 0 issue、markdownlint 0 error（修 OIR 列表符号 - → *）、check_math 0、check_academic --strict OK。
+* **状态**：mandeville s3_checked（commit a003522a），入 R-main-20261108 评审线（session-handoff §6），本会话不推进 r1–r3。
+* **M 批在途**：2 条均在评审线（mandeville、moral-demands-permissions）；待译主线为 6 条 pending + 125 条未建任务。
