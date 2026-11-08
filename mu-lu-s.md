@@ -1509,7 +1509,7 @@ outline: [1, 6]
 >
 > 本节涵盖：科学研究的方法和规范、如何建立假设、设计实验、收集数据、验证理论
 
-* [贝叶斯定理 Bayes’ Theorem (James Joyce)](b/bayes-theorem.md)
+* [贝叶斯定理 Bayesʼ Theorem (James Joyce)](b/bayes-theorem.md)
 * [比较认知学方法 comparative cognition, methods in (Marta Halina)](c/comparative-cognition.md)
 * [图表 diagrams (Sun-Joo Shin, Oliver Lemon, and John Mumma)](d/diagrams.md)
 * [科学与技术 episteme and techne \[= scientific knowledge and expertise\] (Richard Parry)](e/episteme-techne.md)

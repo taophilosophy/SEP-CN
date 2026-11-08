@@ -269,7 +269,7 @@
 * [认知基础关系 basing relation, epistemic (Keith Allen Korcz)](b/basing-epistemic.md)
 * [让·鲍德里亚 Baudrillard, Jean (Douglas Kellner)](b/baudrillard.md)
 * [布鲁诺·鲍威尔 Bauer, Bruno (Douglas Moggach and Gabriele Schimmenti)](b/bauer.md)
-* [贝叶斯定理 Bayes’ Theorem (James Joyce)](b/bayes-theorem.md)
+* [贝叶斯定理 Bayesʼ Theorem (James Joyce)](b/bayes-theorem.md)
 * [皮埃尔·培尔 Bayle, Pierre (Michael Hickson)](b/bayle.md)
 * [\*门罗·C.比厄斯利 Beardsley, Monroe C](README.md)
   * [比厄斯利的美学 aesthetics (Michael Wreen)](b/beardsley-aesthetics.md)
