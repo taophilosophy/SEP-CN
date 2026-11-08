@@ -2,7 +2,7 @@
   "slug": "korean-philosophy",
   "kind": "retranslate",
   "zh_doc": "k/korean-philosophy.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "AK-main-20261105",
       "at": "2026-11-05T18:14:58Z",
       "evidence": "四检终态：style 0、prose 残余 57（豁免类）、check_academic --strict OK；check_all 七门禁全绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:41:06Z",
+      "evidence": "r1 独立复核（K 批接管，2026-11-08）：段落 73:72（差 1=源 byline）、marker 42:42、defs 84:84、年份 154:159（多出为 1950s–2000s 年代合写）、图 1:1、尾节子标题 1:1（Acknowledgments→### 致谢 在位）；抽查正文（四端七情之辩/实学谱系段）与源文相符；正文残留 0；韩儒人名体例（李滉退溪/李珥栗谷/丁若镛茶山）与登记册一致。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:41:06Z",
+      "evidence": "r2 语言与忠实复核：无缺陷需修；check_style 0、check_math 0/0、check_academic OK。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:41:08Z",
+      "evidence": "r3 门禁：四检全绿，check_all 七项全绿。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "K-main-20261108",
+      "at": "2026-11-07T23:41:08Z",
+      "evidence": "done 收口（K-main-20261108）：s3_checked 遗留件五维齐平、抽查无误、门禁全绿。"
     }
   ],
   "blockers": [],
