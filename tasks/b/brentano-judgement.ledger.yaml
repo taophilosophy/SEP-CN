@@ -171,122 +171,162 @@ segments:
     kind: body
     source: |-
       **(2)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（2）**
+    step2: |-
+      **（2）**
   - id: 22
     kind: body
     source: |-
       Combining two ideas/marks (Merkmale) in thought is not necessary for making a judgement.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在思想中把两个观念／标记（Merkmale）结合起来，对于作出判断并不是必要的。
+    step2: |-
+      在思想中把两个观念／标记（Merkmale）结合起来，对于作出判断并不是必要的。
   - id: 23
     kind: body
     source: |-
       **(3)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（3）**
+    step2: |-
+      **（3）**
   - id: 24
     kind: body
     source: |-
       Combining two ideas/marks (Merkmale) is necessary in formulating a sentence or a proposition.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在构造一个句子或命题时，把两个观念／标记（Merkmale）结合起来则是必要的。
+    step2: |-
+      在构造一个句子或命题时，把两个观念／标记（Merkmale）结合起来则是必要的。
   - id: 25
     kind: body
     source: |-
       Together, claims (2) and (3) imply that judgements can be made without judging a sentence or proposition to be true. That is what Brentano tries to establish. Let us see how he tries to achieve this goal.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      主张（2）与（3）合起来蕴涵：判断可以在不把某个句子或命题判定为真的情况下作出。这正是布伦塔诺想要确立的。且看他如何达到这一目标。
+    step2: |-
+      主张（2）与（3）合起来蕴涵：判断可以在不把某个句子或命题判定为真的情况下作出。这正是布伦塔诺想要确立的。且看他如何达到这一目标。
   - id: 26
     kind: body
     source: |-
       Brentano considers three possible ways of conceiving of the difference between presentations and judgements. There may be (i) an intrinsic difference between them, (ii) they may differ in their contents (Inhalte), or (iii) in a perfection [*Vollkommenheit*] with which these objects are thought (PES 204, [II 42f.; SVS 1, 226]).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布伦塔诺考察了理解判断与表象之别的三种可能方式。它们之间或许有（i）内在的差异；（ii）内容（Inhalte）上的差异；或（iii）在思考这些对象时所达到的完善程度〔*Vollkommenheit*〕上的差异（PES 204, [II 42f.; SVS 1, 226]）。
+    step2: |-
+      布伦塔诺考察了理解判断与表象之别的三种可能方式。它们之间或许有（i）内在的差异；（ii）内容（Inhalte）上的差异；或（iii）在思考这些对象时所达到的完善程度〔*Vollkommenheit*〕上的差异（PES 204, [II 42f.; SVS 1, 226]）。
   - id: 27
     kind: body
     source: |-
       Let’s start with (i). What would it mean that the distinction between judgement and presentation is *not* intrinsic, i.e., extrinsic? It would mean that the distinction between judgement and presentation consists in a relational property that one of these mental phenomena has while the other lacks it. In this sense the distinction between a bachelor and a husband is extrinsic: bachelors lack the relational property of being married to someone; husbands have it. Nothing else distinguishes bachelors and husbands from each other: there is no intrinsic property of husbands or bachelors that grounds the relational difference. Is the distinction between judgement and presentation like the distinction between husbands and bachelors? According to Alexander Bain, it is. For Bain there are two kinds of ideas (presentations): those that dispose one to act—this is the extrinsic or relational property—and others that don’t. The former are judgements and beliefs, the latter are mere presentations (see Bain 1872: 372f)[^bain-1872]. Mill (1878: 403–4) criticized Bain’s proposal as incomplete. In general, a dispositional property like disposing one to act on an object is grounded in its categorical properties. Hence, the belief-constituting disposition to act must be grounded in categorical properties of ideas and these properties seem to be intrinsic. The relational difference is not brute as in the husband/bachelor case.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      先从（i）说起。说判断与表象之别不是内在的，即外在的，会是什么意思？那意味着：判断与表象之别在于一种关系性质，上述两种心理现象之一具有该性质，另一则不具有。在这个意义上，单身汉与丈夫之别是外在的：单身汉缺少“与某人结婚”这一关系性质，丈夫则具有它。除此之外，单身汉与丈夫之间别无区别：并不存在丈夫或单身汉的某种内在性质，作为这一关系差异的根据。判断与表象之别是否像丈夫与单身汉之别？亚历山大·贝恩认为是的。在贝恩看来，观念（表象）有两类：一类使人倾向于行动——这是外在的或关系的性质——另一类则不。前者是判断与信念，后者只是表象（见 Bain 1872: 372f）[^bain-1872]。穆勒（1878: 403–4）批评贝恩的提议不完整。一般来说，像“使人倾向于对某对象行动”这样的倾向性性质，其根据在于对象的直陈性质。因此，构成信念的行动倾向必须以观念的一些直陈性质为根据，而这些性质看来是内在的。这一关系差异并不像丈夫／单身汉一例那样是无根据的。
+    step2: |-
+      先从（i）说起。说判断与表象之别不是内在的，即外在的，会是什么意思？那意味着：判断与表象之别在于一种关系性质，上述两种心理现象之一具有该性质，另一则不具有。在这个意义上，单身汉与丈夫之别是外在的：单身汉缺少“与某人结婚”这一关系性质，丈夫则具有它。除此之外，单身汉与丈夫之间别无区别：并不存在丈夫或单身汉的某种内在性质，作为这一关系差异的根据。判断与表象之别是否像丈夫与单身汉之别？亚历山大·贝恩认为是的。在贝恩看来，观念（表象）有两类：一类使人倾向于行动——这是外在的或关系的性质——另一类则不。前者是判断与信念，后者只是表象（见 Bain 1872: 372f）[^bain-1872]。穆勒（1878: 403–4）批评贝恩的提议不完整。一般来说，像“使人倾向于对某对象行动”这样的倾向性性质，其根据在于对象的直陈性质。因此，构成信念的行动倾向必须以观念的一些直陈性质为根据，而这些性质看来是内在的。这一关系差异并不像丈夫／单身汉一例那样是无根据的。
   - id: 28
     kind: body
     source: |-
       Brentano finds Mill’s line of thought persuasive (see PES 202f. [II 40; SVS 1, 224]).[^note-4] By Brentano’s lights, any explanation of the distinction between judgement and presentation in terms of a difference in “impact” on mental states or actions is unsatisfactory.[^note-5] Like Mill, he goes for the first of the three options above: the difference between presentations and judgement is an intrinsic one.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布伦塔诺觉得穆勒的这一思路有说服力（见 PES 202f. [II 40; SVS 1, 224]）。[^note-4] 在布伦塔诺看来，凡是以对心理状态或行动的“冲击”（impact）之别来解释判断与表象之别的做法，都不能令人满意。[^note-5] 与穆勒一样，他选择了上述三种方案中的第一种：表象与判断之别是内在的。
+    step2: |-
+      布伦塔诺觉得穆勒的这一思路有说服力（见 PES 202f. [II 40; SVS 1, 224]）。[^note-4] 在布伦塔诺看来，凡是以对心理状态或行动的“冲击”（impact）之别来解释判断与表象之别的做法，都不能令人满意。[^note-5] 与穆勒一样，他选择了上述三种方案中的第一种：表象与判断之别是内在的。
   - id: 29
     kind: body
     source: |-
       On to (ii). Is the intrinsic difference between judgement and presentation one that concerns the content of the mental mental phenomena under consideration? According to the view opposed by Brentano, every judgement is a combining or separating of marks [Merkmale]. The content of a judgement is the combination of at least two marks that are either divided or combined in it. Possessing a content is an intrinsic property of a judgement: every judgement must have a content and the content distinguishes a judgement, in part, from other mental phenomena. Do judgements and presentations differ in content (cf. PES 205 [II 44; SVS 1, 227])? Again Brentano’s answer is NO. If I wonder whether there are red trees, the content of my presentation is a combination of the marks redness and tree(hood). My judgement that there are red trees has the same content as the mere presentation of a red tree.[^note-6]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      转到（ii）。判断与表象之间的内在差异，是否关涉所论心理现象的内容？按照布伦塔诺所反对的观点，每个判断都是标记〔Merkmale〕的结合或分离。判断的内容是至少两个标记的结合，这些标记在判断中被分离或被结合。具有内容乃判断的内在性质：每个判断都必有内容，而内容在某种程度上把判断与其他心理现象区分开来。那么，判断与表象是否在内容上不同（参 PES 205 [II 44; SVS 1, 227]）？布伦塔诺的回答仍然是否定的。如果我思量“是否有红树”，我表象的内容就是“红”与“树（性）”两个标记的结合。我关于“有红树”的判断，与关于一棵红树的单纯表象具有相同的内容。[^note-6]
+    step2: |-
+      转到（ii）。判断与表象之间的内在差异，是否关涉所论心理现象的内容？按照布伦塔诺所反对的观点，每个判断都是标记〔Merkmale〕的结合或分离。判断的内容是至少两个标记的结合，这些标记在判断中被分离或被结合。具有内容乃判断的内在性质：每个判断都必有内容，而内容在某种程度上把判断与其他心理现象区分开来。那么，判断与表象是否在内容上不同（参 PES 205 [II 44; SVS 1, 227]）？布伦塔诺的回答仍然是否定的。如果我思量“是否有红树”，我表象的内容就是“红”与“树（性）”两个标记的结合。我关于“有红树”的判断，与关于一棵红树的单纯表象具有相同的内容。[^note-6]
   - id: 30
     kind: body
     source: |-
       This brings us to (iii). Is the intrinsic difference between judgement and presentation one that concerns a perfection in which mental phenomena that have the same object differ? Brentano identifies the perfection as *strength*, *intensity* or *vivacity* of the mental phenomena concerned. Is, as Brentano says, “a judgement a stronger presentation and a presentation a weaker judgement”? (PES 204 [II 44; SVS 1, 226]; author translation) Brentano says NO. A strong presentation is no judgement. This argument, while suggestive, is not persuasive because the notion of strength, vividness or intensity seems unclear. However, in the second edition Brentano adds an important consideration that improves the argument. If presentation and judgement were distinguished in strength, both would need to have positions on a scale of strength. However, Brentano now doubts that there is one scale of intensity or strength on which presentations and judgements both lie. Different degrees of conviction that may accompany an act of judgement should not be confused with the degrees of intensity with which an object can be presented to the mind, e.g., in sensation (PES 286f. [II 151ff.; SVS 1, 401). If there is not one dimension of strength in which both judgement and presentation can differ, strength cannot distinguish between them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这就把我们带到（iii）。判断与表象之间的内在差异，是否关涉具有同一对象的心理现象在其中有所不同的某种完善程度？布伦塔诺把这种完善程度认定为相关心理现象的强度、强烈或生动性。那么，是否如布伦塔诺所说，“判断是较强的表象，表象是较弱的判断”？（PES 204 [II 44; SVS 1, 226]；作者译）布伦塔诺说不。强烈的表象并不是判断。这一论证虽然富有启发，却并不令人信服，因为强度、生动或强烈这些概念似乎并不清楚。不过，在第二版中布伦塔诺补充了一项重要考虑，改进了这一论证。如果表象与判断以强度相区别，两者就都得在强度标尺上占有一席之地。然而布伦塔诺此时怀疑：是否存在一条同时容纳表象与判断的强度或力量标尺。伴随判断行为的种种确信程度，不应与对象呈现于心灵时的强烈程度相混淆，例如在感觉中（PES 286f. [II 151ff.; SVS 1, 401）。如果并不存在一条能让判断与表象都有所不同的强度维度，强度便无法区分二者。
+    step2: |-
+      这就把我们带到（iii）。判断与表象之间的内在差异，是否关涉具有同一对象的心理现象在其中有所不同的某种完善程度？布伦塔诺把这种完善程度认定为相关心理现象的强度、强烈或生动性。那么，是否如布伦塔诺所说，“判断是较强的表象，表象是较弱的判断”？（PES 204 [II 44; SVS 1, 226]；作者译）布伦塔诺说不。强烈的表象并不是判断。这一论证虽然富有启发，却并不令人信服，因为强度、生动或强烈这些概念似乎并不清楚。不过，在第二版中布伦塔诺补充了一项重要考虑，改进了这一论证。如果表象与判断以强度相区别，两者就都得在强度标尺上占有一席之地。然而布伦塔诺此时怀疑：是否存在一条同时容纳表象与判断的强度或力量标尺。伴随判断行为的种种确信程度，不应与对象呈现于心灵时的强烈程度相混淆，例如在感觉中（PES 286f. [II 151ff.; SVS 1, 401）。如果并不存在一条能让判断与表象都有所不同的强度维度，强度便无法区分二者。
   - id: 31
     kind: body
     source: |-
       Brentano concludes that the distinction between judgement and presentation is intrinsic and irreducible to other distinctions between these mental phenomena. Hillebrand (1891: 26–7) called Brentano’s view therefore an “idiogenetic” theory of judgement—it takes judgement to be a fundamental kind of mental phenomenon—while “allogenetic” theories take judgements to be composed out of other mental phenomena that belong to fundamental kinds.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布伦塔诺由此断定：判断与表象之别是内在的，不能还原为这些心理现象之间的其他区别。因此，希尔德布兰德（1891: 26–7）把布伦塔诺的观点称为判断的“同源发生”（idiogenetic）理论——它把判断视为心理现象的一个基本种类——而“异源发生”（allogenetic）理论则认为判断由属于基本种类的其他心理现象组合而成。
+    step2: |-
+      布伦塔诺由此断定：判断与表象之别是内在的，不能还原为这些心理现象之间的其他区别。因此，希尔德布兰德（1891: 26–7）把布伦塔诺的观点称为判断的“同源发生”（idiogenetic）理论——它把判断视为心理现象的一个基本种类——而“异源发生”（allogenetic）理论则认为判断由属于基本种类的其他心理现象组合而成。
   - id: 32
     kind: body
     source: |-
       ### 1.2 Part II: Judgement and Truth
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.2. 第二部分：判断与真理
+    step2: |-
+      ### 1.2 第二部分：判断与真理
   - id: 33
     kind: body
     source: |-
       But are things not much easier? Brentano himself says:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但事情不是简单得多吗？布伦塔诺自己说：
+    step2: |-
+      但事情不是简单得多吗？布伦塔诺自己说：
   - id: 34
     kind: body
     source: |-
       > By “judgement” we mean, in accordance with common philosophical usage, acceptance [*annehmen*](as true) or rejection [*verwerfen*] (as false). We have already noted, however, that such acceptance or rejection also occurs in cases in which many people would not use the term “judgement,” as, for example, in the perception of mental acts and in remembering. (PES 198 [II 34; SVS 1, 219])
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 按通常的哲学用法，我们所谓“判断”，指（作为真）接受〔*annehmen*〕或（作为假）拒绝〔*verwerfen*〕。不过我们已经指出，这种接受或拒绝也出现在许多人不会使用“判断”一词的场合，例如在对心理行为的知觉中以及回忆中。（PES 198 [II 34; SVS 1, 219]）
+    step2: |-
+      > 按通常的哲学用法，我们所谓“判断”，指（作为真）接受〔*annehmen*〕或（作为假）拒绝〔*verwerfen*〕。不过我们已经指出，这种接受或拒绝也出现在许多人不会使用“判断”一词的场合，例如在对心理行为的知觉中以及回忆中。（PES 198 [II 34; SVS 1, 219]）
   - id: 35
     kind: body
     source: |-
       Brentano acknowledges that “accepting as true” or “rejecting as false” is the natural way to describe an act of judgement (PES 201 [II 38; SVS 1, 223]). Meanwhile philosophers have changed their habits. While it is still true, of course, that judgements can be true or false, most philosophers are swayed by Frege’s or Reinach’s argument that all judgements are acceptances as true.[^note-7] When one rejects a proposition as false, e.g., that there is extraterrestrial life, this is still a positive judgement for them, because in making the judgement one takes it to be *true* that no life exists beyond earth. Brentano would contest this by saying that their point only concerns the linguistic expression of our judgements, not the judgements themselves. We can find for each judgement a sentence that is true if and only if the judgement expressed in it is correct, but that does not show that the judgement itself always has a positive quality.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布伦塔诺承认，“作为真来接受”或“作为假来拒绝”是描述判断行为的自然方式（PES 201 [II 38; SVS 1, 223]）。与此同时，哲学家们的习惯已经改变。当然，判断有真有假这一点仍然成立；但多数哲学家已被弗雷格或莱纳赫的论证所说服，认为一切判断都是作为真来接受。[^note-7] 当人们把某个命题作为假来拒绝时——例如“存在地外生命”——在他们看来这仍是一个肯定判断，因为作出该判断时，人认定“地球之外不存在生命”为真。布伦塔诺会反驳说：他们的论点只涉及我们判断的语言表达，而不涉及判断本身。我们能为每个判断找到一个句子，该句子为真当且仅当其中表达的判断正确；但这并不表明判断本身始终具有肯定的性质。
+    step2: |-
+      布伦塔诺承认，“作为真来接受”或“作为假来拒绝”是描述判断行为的自然方式（PES 201 [II 38; SVS 1, 223]）。与此同时，哲学家们的习惯已经改变。当然，判断有真有假这一点仍然成立；但多数哲学家已被弗雷格或莱纳赫的论证所说服，认为一切判断都是作为真来接受。[^note-7] 当人们把某个命题作为假来拒绝时——例如“存在地外生命”——在他们看来这仍是一个肯定判断，因为作出该判断时，人认定“地球之外不存在生命”为真。布伦塔诺会反驳说：他们的论点只涉及我们判断的语言表达，而不涉及判断本身。我们能为每个判断找到一个句子，该句子为真当且仅当其中表达的判断正确；但这并不表明判断本身始终具有肯定的性质。
   - id: 36
     kind: body
     source: |-
       Why does the characterization of judgement as either an accepting as true or a rejecting as false not suffice to distinguish judgement from presentation? After all, one can present something without accepting it as true. Because saying that in judgement we take something to be true is potentially misleading. The following passage shows what Brentano is aiming at:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为什么把判断刻画为“作为真来接受”或“作为假来拒绝”，还不足以把判断与表象区别开来？毕竟，人可以在不把某物作为真来接受的情况下表象某物。因为说“在判断中我们把某物视为真”可能引起误解。下面一段话表明布伦塔诺的用意所在：
+    step2: |-
+      为什么把判断刻画为“作为真来接受”或“作为假来拒绝”，还不足以把判断与表象区别开来？毕竟，人可以在不把某物作为真来接受的情况下表象某物。因为说“在判断中我们把某物视为真”可能引起误解。下面一段话表明布伦塔诺的用意所在：
   - id: 37
     kind: body
     source: |-
       > If we say that every acknowledging judgement [*anerkennendes Urteil*] is an act of taking something to be true, and every rejecting judgement [*verwerfendes Urteil*] an act of taking something to be false, this does not mean that the former consists in predicating truth of what is taken to be true and the latter in predicating falsity of what is taken to be false. Our previous discussions have shown, rather, that what the expressions denote is a particular kind of intentional reception of an object, a distinctive kind of mental reference to a content of consciousness. The only correct interpretation is that anyone who takes something to be true will not only acknowledge the object, but, when asked whether the object is to be acknowledged, will also acknowledge the object’s to-be-acknowledgedness [*das Anzuerkennensein*], i.e., *its truth* (which is all that is meant by this barbarous expression). (PES 240 [II 89; SVS 1, 259]; emphasis added and translation improved).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 如果我们说，每个承认的判断〔*anerkennendes Urteil*〕都是把某物视为真的行为，每个拒绝的判断〔*verwerfendes Urteil*〕都是把某物视为假的行为，这并不意味着前者在于把“真”述谓于被视为真者，后者在于把“假”述谓于被视为假者。毋宁说，我们前面的讨论已经表明，这些表达式所指的，是对对象的一种特殊的意向性接受，是对意识内容的一种独特的心灵指涉。唯一正确的解释是：凡把某物视为真的人，不仅会承认该对象，而且在被问及该对象是否应予承认时，还会承认该对象的“应被承认性”〔*das Anzuerkennensein*〕，即*它的真*（这个生硬的表达所要说的不过如此）。（PES 240 [II 89; SVS 1, 259]；强调为引者所加，译文有改进）
+    step2: |-
+      > 如果我们说，每个承认的判断〔*anerkennendes Urteil*〕都是把某物视为真的行为，每个拒绝的判断〔*verwerfendes Urteil*〕都是把某物视为假的行为，这并不意味着前者在于把“真”述谓于被视为真者，后者在于把“假”述谓于被视为假者。毋宁说，我们前面的讨论已经表明，这些表达式所指的，是对对象的一种特殊的意向性接受，是对意识内容的一种独特的心灵指涉。唯一正确的解释是：凡把某物视为真的人，不仅会承认该对象，而且在被问及该对象是否应予承认时，还会承认该对象的“应被承认性”〔*das Anzuerkennensein*〕，即*它的真*（这个生硬的表达所要说的不过如此）。（PES 240 [II 89; SVS 1, 259]；强调为引者所加，译文有改进）
   - id: 38
     kind: body
     source: |-
       The point that Brentano wants to get across is a delicate one and requires a careful wording. It is no coincidence that Brentano prefers here the term “*anerkennen*” over “*annehmen*”, which would be closer to common usage in philosophy. The reason is that Brentano thinks that the more common way of speaking wrongly suggests that one predicates truth when one accepts something as true. According to Brentano, as will become clear later, judgement requires no predication (not even a predication of existence). Hence, the difference in meaning between “accepting (*annehmen*)” and “acknowledging (*anerkennen*)” becomes important for him.[^note-8]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布伦塔诺想要传达的这一点颇为微妙，需要谨慎措辞。他在这里宁可选用“*anerkennen*”而不选用更接近哲学通常用法的“*annehmen*”，绝非偶然。原因在于：布伦塔诺认为，更常见的说法会错误地暗示，人在把某物作为真来接受时是在述谓“真”。照布伦塔诺的看法（后文将会清楚），判断并不需要述谓（甚至不需要存在述谓）。因此，“接受（*annehmen*）”与“承认（*anerkennen*）”之间的意义差别，对他而言就变得重要了。[^note-8]
+    step2: |-
+      布伦塔诺想要传达的这一点颇为微妙，需要谨慎措辞。他在这里宁可选用“*anerkennen*”而不选用更接近哲学通常用法的“*annehmen*”，绝非偶然。原因在于：布伦塔诺认为，更常见的说法会错误地暗示，人在把某物作为真来接受时是在述谓“真”。照布伦塔诺的看法（后文将会清楚），判断并不需要述谓（甚至不需要存在述谓）。因此，“接受（*annehmen*）”与“承认（*anerkennen*）”之间的意义差别，对他而言就变得重要了。[^note-8]
   - id: 39
     kind: body
     source: |-
       Brentano’s observation leads to an important result: To say that something is true does not mean that there is an object, a proposition, of which one predicates a property, being true. Rather, we can take the act of judgement itself as the vehicle which is true. To say that a judgement is true means to make a judgement of higher-order, namely to acknowledge that the object of the first judgement is worthy of either being acknowledged or rejected. Propositions are not needed for making sense of the concept of truth.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布伦塔诺的这一观察引出一个重要结果：说某物为真，并不意味着存在一个对象即命题，人把“真”这一性质述谓于它。相反，我们可以把判断行为本身当作真理的载体。说一个判断为真，意思是作出一个更高阶的判断，即承认第一个判断的对象值得被承认或拒绝。要理解真理概念，并不需要命题。
+    step2: |-
+      布伦塔诺的这一观察引出一个重要结果：说某物为真，并不意味着存在一个对象即命题，人把“真”这一性质述谓于它。相反，我们可以把判断行为本身当作真理的载体。说一个判断为真，意思是作出一个更高阶的判断，即承认第一个判断的对象值得被承认或拒绝。要理解真理概念，并不需要命题。
   - id: 40
     kind: body
     source: |-
       ### 1.3 Part III: Existential Judgements
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.3. 第三部分：存在判断
+    step2: |-
+      ### 1.3 第三部分：存在判断
   - id: 41
     kind: body
     source: |-
