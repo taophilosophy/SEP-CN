@@ -355,74 +355,98 @@ segments:
     kind: body
     source: |-
       > the bulk of the Finance Commission is spent on Buddhism and deities. There is no greater waste of fiscal resources. (trans. in Robinson 2016: 53)[^robinson-2016]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 财政委员会的大部分开支都花在佛教与神祇上。没有比这更大的财政浪费了。（Robinson 译，2016: 53）[^robinson-2016]
+    step2: |-
+      > 财政委员会的大部分开支都花在佛教与神祇上。没有比这更大的财政浪费了。（Robinson 译，2016: 53）[^robinson-2016]
   - id: 42
     kind: body
     source: |-
       These are ideas that later scholars might refer to as “practical learning” or *Sirhak*, often described as a trend that emerged after the Hideyoshi invasions of the late sixteenth century, yet here we have very practical guidance from Chŏng at the start of the Chosŏn dynasty, or rather the beginnings of a practical form of “sage” learning applied to issues directly related to daily life.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      后世学者或称之为“实学”（*Sirhak*）的这些观念，常被描述为十六世纪末壬辰倭乱之后兴起的一股潮流；然而我们在朝鲜王朝之初已见到郑道传提供的十分切实的指导，或者毋宁说，一种应用于日常生活直接相关事务的实践性“圣人”之学的开端。
+    step2: |-
+      后世学者或称之为“实学”（*Sirhak*）的这些观念，常被描述为十六世纪末壬辰倭乱之后兴起的一股潮流；然而我们在朝鲜王朝之初已见到郑道传提供的十分切实的指导，或者毋宁说，一种应用于日常生活直接相关事务的实践性“圣人”之学的开端。
   - id: 43
     kind: body
     source: |-
       Chŏng’s shorter rebuttal of Buddhism, *On Mind, Material Force and Principle* (*Simgiri p’yŏn*: 45–53), already highlights this intellectual nexus which dominates Neo-Confucianism in Korea. It introduces the main metaphysical issues that were of great importance in Korea at this time, namely, the mind (心; also referred to in literature as the heart-and-mind), the material force (氣), and of course *Principle* (理), which he describes as “the inherent virtue of the mind and that through which material force is produced”, and clearly states that “only after there is principle is there material force” (*Simgiri p’yŏn*: 50). He discusses what he considers to be the misinterpretation and application of ideas in the teachings of the Buddhists and Daoists, vindicating his rebuttal with quotes from the *Mencius*, the *Analects*, and the writings of Zhu Xi, as well as the *Book of Rites*. Chŏng’s arguments culminate in a radical espousal of Confucianism as an exclusivistic discourse, and he lauds the practical and direct social implications of these metaphysical ideas, juxtaposed to Buddhist and Daoist emphasis on emptiness and vacuity, which he considers to be devoid of meaning when related to matters of the mundane world (*Simgiri p’yŏn*: 53). The philosophical implications of Chŏng’s ideas are related to this-worldly affairs and not speculative spiritual proclivities of other traditions, which he suggests depended on deities who could then reward or punish. Chŏng asserts the need to investigate one’s human nature and the mind for oneself, and not to rely on teachings that call upon spirits to do so, advocating the Confucian practice of preserving what is good in the mind and nourishing the material force to control bodily desires through proper Confucian education (*Simgiri p’yŏn*: 51). This dual approach would become greatly elucidated by later Neo-Confucian philosophers who would advocate an approach to fully develop the humanity (K. *in*) that our minds were “naturally” endowed with by *Principle*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      郑道传较短的反佛之作《心气理篇》（*Simgiri p’yŏn*：45–53）已凸显这一支配朝鲜性理学的思想关节。该文提出其时在朝鲜极为重要的主要形而上学问题，即心（心；文献中也称“心—意”）、气（氣）以及理（理）；他把理描述为“心的固有之德，气由之以生”，并明确断言“有理而后有气”（《心气理篇》：50）。他讨论了他认为佛教与道教教说中对观念的错误解释与应用，并引《孟子》《论语》、朱熹著作以及《礼记》以证成其驳论。郑道传的论证最终归结为把儒学主张为一种排他性话语，并称许这些形而上学观念切实而直接的社会意涵——与佛教、道教对空与虚的强调相对照，他认为后者一旦涉入世间事务便毫无意义（《心气理篇》：53）。郑道传观念中的哲学意涵关涉此世事务，而非其他传统那种思辨性的灵性倾向——他指出，后者依赖能够赏罚的神祇。郑道传主张人须亲自穷究自己的人性与心，而不倚赖召唤神灵的教说；他提倡儒家的工夫：存养心中之善、养气以制服身体欲望，通过恰当的儒家教育来实现（《心气理篇》：51）。这一双重进路后来由性理学者大加阐发，他们主张一种充分发展我们之心由理“自然”赋予的仁（韩 *in*）的进路。
+    step2: |-
+      郑道传较短的反佛之作《心气理篇》（*Simgiri p’yŏn*：45–53）已凸显这一支配朝鲜性理学的思想关节。该文提出其时在朝鲜极为重要的主要形而上学问题，即心（心；文献中也称“心—意”）、气（氣）与理（理）；他把理描述为“心的固有之德，气由之以生”，并明确断言“有理而后有气”（《心气理篇》：50）。他讨论了他认为佛教与道教教说中对观念的错误解释与应用，并引《孟子》《论语》、朱熹著作以及《礼记》以证成其驳论。郑道传的论证最终归结为把儒学主张为一种排他性话语，并称许这些形而上学观念切实而直接的社会意涵——与佛教、道教对空与虚的强调相对照，他认为后者一旦涉入世间事务便毫无意义（《心气理篇》：53）。郑道传观念中的哲学意涵关涉此世事务，而非其他传统那种思辨性的灵性倾向——他指出后者依赖能够赏罚的神祇。郑道传主张人须亲自穷究自己的人性与心，而不倚赖召唤神灵的教说；他提倡儒家的工夫：存养心中之善、养气以制服身体欲望，通过恰当的儒家教育来实现（《心气理篇》：51）。这一双重进路后来由性理学者大加阐发，他们主张一种充分发展我们之心由理“自然”赋予的仁（韩 *in*）的进路。
   - id: 44
     kind: body
     source: |-
       Chŏng’s *Pulssi Chappyŏn* is translated by Muller (2015) under the title *An Array of Critiques of Buddhism*. The text lists 19 critiques, which Chŏng systematically treats in turn, including important Buddhist doctrines, such as transmigration and karma. The goal of Confucianism, being firmly focused on this life, was not interested in idle speculation about an afterlife. Initially, Chŏng (*Pulssi Chappyŏn*: 59–61) sets out to critique the Buddhists interpretations of the mind (K. *sim*), and human nature (K. *sŏng*), and criticises the Koryŏ monk Chinul of “nebulous supposition”, lacking “hard facts”, accusing Buddhists of “word play”, while lacking a definitive doctrine. Chŏng explains that the Confucians consider the mind to be made of the material force that “one takes from heaven at birth”, while the mind itself is endowed by one’s human nature through *Principle* at birth (*Pulssi Chappyŏn*: 59). He reinforces the “concrete” aspect of the “function” of Confucianism in reality, which the Buddhists consider completely illusory, and refers to Cheng Yi’s dictum,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      郑道传的《佛氏杂辨》由 Muller（2015）译作 *An Array of Critiques of Buddhism*。该文列出十九条驳论，郑道传逐一系统处理，其中包括轮回与业等重要佛教教义。儒学的目标牢牢聚焦于此生，对来世的无谓思辨不感兴趣。郑道传起初（《佛氏杂辨》：59–61）批评佛教徒对心（韩 *sim*）与人性（韩 *sŏng*）的解释，指责高丽僧知讷“悬揣无实据”、缺乏“硬事实”，又斥佛教徒“玩弄字面”，而无确定的教说。郑道传解释说，儒者认为心由人“出生时从上天禀受”的气构成，而心本身在出生时由人性经理而赋予（《佛氏杂辨》：59）。他强调了儒学之“用”在现实中的“具体”面向——佛教徒则认为现实纯属虚幻——并引程颐的话：
+    step2: |-
+      郑道传的《佛氏杂辨》由 Muller（2015）译作 *An Array of Critiques of Buddhism*。该文列出十九条驳论，郑道传逐一系统处理，其中包括轮回与业等重要佛教教义。儒学的目标牢牢聚焦于此生，对来世的无谓思辨不感兴趣。郑道传起初（《佛氏杂辨》：59–61）批评佛教徒对心（韩 *sim*）与人性（韩 *sŏng*）的解释，指责高丽僧知讷“悬揣无实据”、缺乏“硬事实”，又斥佛教徒“玩弄字面”，而无确定的教说。郑道传解释说，儒者认为心由人“出生时从上天禀受”的气构成，而心本身在出生时由人性经理而赋予（《佛氏杂辨》：59）。他强调了儒学之“用”在现实中的“具体”面向——佛教徒则认为现实纯属虚幻——并引程颐的话：
   - id: 45
     kind: body
     source: |-
       > The study of the Buddhists includes reverence to correct the internal, but does not include justice to straighten the external. (*Pulssi Chappyŏn*: 63)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 佛氏之学有敬以正内，而无义以直外。（《佛氏杂辨》：63）
+    step2: |-
+      > 佛氏之学有敬以正内，而无义以直外。（《佛氏杂辨》：63）
   - id: 46
     kind: body
     source: |-
       Cheng Hao had similarly added that “The Buddhist way of internal and external life is incomplete” (SB-Chan: 538). This Confucian rationale underpins Chŏng’s arguments in his “Critique of the Buddhists’ Abandonment of the Basic Human Relationships” and the “Buddhist Notion of Compassion”, initiating his discourse (*Pulssi Chappyŏn*: 64–67) on the Confucian virtue of humanity (K. *in*), which functions through social interactions, manifested through “The Five Relationships”. Furthermore, Chŏng denounces Buddhists for rejecting filial piety, adding that they “regard their most intimate family members like passers-by on the street”, despite having inherited their material force from their parents, illustrating how Neo-Confucians now used metaphysics to validate their moral “reality” (*Pulssi Chappyŏn*: 66).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      程颢也说过类似的话：“佛氏内外之道不备”（SB-Chan: 538）。这一儒家理据支撑着郑道传《斥佛氏弃绝基本人伦》《佛氏之慈悲观》诸篇的论证，开启了他关于儒家仁德（韩 *in*）的论述（《佛氏杂辨》：64–67）——仁通过社会交往而运作，体现于“五伦”。此外，郑道传斥责佛教徒拒斥孝道，并说他们“视最亲近的家人如街上的路人”，尽管他们的气本受之于父母；这显示性理学者此时已用形而上学来证成其道德的“现实”（《佛氏杂辨》：66）。
+    step2: |-
+      程颢也说过类似的话：“佛氏内外之道不备”（SB-Chan: 538）。这一儒家理据支撑着郑道传《斥佛氏弃绝基本人伦》《佛氏之慈悲观》诸篇的论证，开启了他关于儒家仁德（韩 *in*）的论述（《佛氏杂辨》：64–67）——仁通过社会交往而运作，体现于“五伦”。此外，郑道传斥责佛教徒拒斥孝道，并说他们“视最亲近的家人如街上的路人”，尽管他们的气本受之于父母；这显示性理学者此时已用形而上学来证成其道德的“现实”（《佛氏杂辨》：66）。
   - id: 47
     kind: body
     source: |-
       As Buddhists could take refuge in the Buddha, thereby rely on something external, the point is excoriated by Chǒng in his critique of Sŏn Buddhists and their teachings (*Pulssi Chappyŏn*: 72–73), who he insinuates,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由于佛教徒可归依佛陀，从而倚赖某种外在之物，郑道传在批评禅宗佛教徒及其教说时痛斥此点（《佛氏杂辨》：72–73）；他暗示这些人
+    step2: |-
+      由于佛教徒可归依佛陀，从而倚赖某种外在之物，郑道传在批评禅宗佛教徒及其教说时痛斥此点（《佛氏杂辨》：72–73）；他暗示这些人
   - id: 48
     kind: body
     source: |-
       > took nothingness [空, K. *kong*; this was the translation of the Sanskrit term Śūnyatā] as their cardinal teaching and abandoned the obligations of society,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 以空［韩 *kong*；此为梵文术语 Śūnyatā 的译语］为根本教说，而弃绝社会义务，
+    step2: |-
+      > 以空［韩 *kong*；此为梵文术语 Śūnyatā 的译语］为根本教说，而弃绝社会义务，
   - id: 49
     kind: body
     source: |-
       contrasting it greatly with the practical “way” of Confucianism, further emphasised in his, “Critique of the Equivalence and Differences between Confucianism and Buddhism” (*Pulssi Chappyŏn*: 73–77). Chŏng accuses Buddhists of being “masters of glibness, lewdness, trickiness, and evasiveness” (*Pulssi Chappyŏn*: 77). In contrast, the role of the Confucian “sage” is also acutely heralded as a pragmatic pathway that has use for governing, to plan for the welfare of the people and to “avoid activities that would bring harm to [them]”, ideas that are also emphasised in his practical handbook for governance, *Seeking Order in a Tumultuous Age*, discussed above (Robinson (trans.) 2016: 81).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这与儒学切实的“道”形成鲜明对照；他在《儒佛同异辨》（《佛氏杂辨》：73–77）中进一步强调这一点。郑道传指责佛教徒是“油滑、放荡、诡诈、逃避之大师”（《佛氏杂辨》：77）。与之相对，儒家“圣人”的角色也被着力标举为一条切实可行的路径：它于治国有用，能为民谋福祉，并“避免有害于［民］的举措”；这些观念在他前述治国实务手册《在动荡之世求秩序》中也得到强调（Robinson 译，2016: 81）。
+    step2: |-
+      这与儒学切实的“道”形成鲜明对照；他在《儒佛同异辨》（《佛氏杂辨》：73–77）中进一步强调这一点。郑道传指责佛教徒是“油滑、放荡、诡诈、逃避之大师”（《佛氏杂辨》：77）。与之相对，儒家“圣人”的角色也被着力标举为一条切实可行的路径：它于治国有用，能为民谋福祉，并“避免有害于［民］的举措”；这些观念在他前述治国实务手册《在动荡之世求秩序》中也得到强调（Robinson 译，2016: 81）。
   - id: 50
     kind: body
     source: |-
       Chŏng’s text draws together multiple quotes by renowned Confucian scholars to fuel his arguments and support his overall view that Buddhism had no practical social worth. As Muller (1999: 185) underscores, such ideas were closely linked to the Confucian understanding that “Buddhists regarded existence as illusory and that only mind was real”, hence they “scorned human relationships”, while “only quiet meditative inner cultivation was valued”. The most important retort to this diatribe would come from the monk Hamhǒ Kihwa, who skillfully counter-charges Chŏng’s caustic attack using Confucian ideas and texts, while encouraging a much more inclusivistic, hence less divisive, approach. Kihwa (*Hyǒnjǒng-non*: 110–111), argued for the “unity of the Three Teachings”, giving a valid piece of advice about what not to do that is useful for us to hear today:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      郑道传的文字汇合了众多著名儒者的引语，以助其论辩并支持其总体看法：佛教没有切实的社会价值。正如 Muller（1999: 185）所强调的，这类观念与儒家的理解密切相关：“佛教徒视存在为虚幻，唯以心为真实”，因此他们“蔑视人伦”，而“唯有静默冥思的内在修养受到重视”。对这番痛斥最重要的反驳来自僧涵虚己和：他巧妙地用儒家的观念与文本反诉郑道传的刻薄攻击，同时倡导一种远为包容、因而较少分裂的进路。己和（《显正论》：110–111）主张“三教合一”，并就何事不可为给出一则有用的忠告，今日听来仍有益：
+    step2: |-
+      郑道传的文字汇合了众多著名儒者的引语，以助其论辩并支持其总体看法：佛教没有切实的社会价值。正如 Muller（1999: 185）所强调的，这类观念与儒家的理解密切相关：“佛教徒视存在为虚幻，唯以心为真实”，因此他们“蔑视人伦”，而“唯有静默冥思的内在修养受到重视”。对这番痛斥最重要的反驳来自僧涵虚己和：他巧妙地用儒家的观念与文本反诉郑道传的刻薄攻击，同时倡导一种远为包容、因而较少分裂的进路。己和（《显正论》：110–111）主张“三教合一”，并就何事不可为给出一则有用的忠告，今日听来仍有益：
   - id: 51
     kind: body
     source: |-
       > Holding stubbornly onto one’s own opinion while ignoring the positions of others, arbitrarily affirming this and rejecting that.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 固执己见而漠视他人立场，任意肯定此而否定彼。
+    step2: |-
+      > 固执己见而漠视他人立场，任意肯定此而否定彼。
   - id: 52
     kind: body
     source: |-
       ## 4. Sage Learning and The Four-Seven Debate
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 圣学与四端七情之辩
+    step2: |-
+      ## 4 圣学与四端七情之辩
   - id: 53
     kind: body
     source: |-
