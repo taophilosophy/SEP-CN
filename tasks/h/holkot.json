@@ -2,7 +2,7 @@
   "slug": "holkot",
   "kind": "retranslate",
   "zh_doc": "h/holkot.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-01T16:04:34Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "EH-main-20261108",
+      "at": "2026-11-08T10:03:33Z",
+      "evidence": "接管续跑：账本扩段重建 35→62 段（合并段按源块拆分，补 16 节标题+OIR 1+致谢 1，divine command ethics 译名统一为「神命伦理」，登记册为据），lq check 62/62 守恒通过（SOFT：旧管线 step1==step2 债留痕）；compose 27194 字符，正文 6 节 16 子节+References（引用注释）+学术工具+OIR+相关词条+致谢齐；style/academic/math 三检绿"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "EH-main-20261108",
+      "at": "2026-11-08T10:36:44Z",
+      "evidence": "s1 逐节对照 yuanwen/h/holkot.md（6 节 62 段）：账本 62:62 源序守恒；脚注定义 72:72、正文标记 29:29、Slotemaker and Witt 2015 12:12、Gelber 2004 1:1、Sent./Quod. 6:6 全等；补入 16 节标题+OIR+致谢并逐句核对；实修 3 处：opponent 按登记册（obligationes 口径）统一为「提问者」8 处（原「反对者」）、相关词条 future contingents 误映射修正为「中世纪的未来偶然性理论」、末段 otherwise true 由「否则为真的命题」改写为「原本为真的命题」；年代抽核 1349/1331–1333/1343/1277/1518 无出入"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "H-main-20261108",
+      "at": "2026-11-08T12:56:22Z",
+      "evidence": "二校（语言）全文回读 259 行：check_prose 告警 6→2，实修 5 处——种相单义/歧义句重构（的三连，改“此一外物…彼一外物…可称单义/便成了歧义用法”）、“相似物与性质判然二分”句重构、异教哲学家乐观根据句重构（去三重“的”）、司各脱“t 时刻所发生的事件都可能不曾发生”（原“事件有可能不是事件”死译）、“从司各脱的观点退却”→“从立场上后退”（retreated 欧化）；豁免 2 处（行 79《Quodl.》III q.8 直引 92 字长句、行 111《Sent.》II q.2 直引 de-chain，ADR-0020 引文内部不强拆，留判读依据）；附带准确性修正：identity relation「同一种关系」→「同一关系」（Major，误译）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "H-main-20261108",
+      "at": "2026-11-08T12:58:57Z",
+      "evidence": "三校（体例）：check_style --docs --strict 0 issue；check_academic --strict 0 硬错误；check_math holkot 0 缺式 0 失衡；check_summary H1 mismatch 0；书目 defs 72:72 与 yuanwen 逐字符一致（键集与正文全等）；正文脚注标记 30:30 零缺零余；节标题 6 节 16 子节与源一一对位（致谢按模板置 ##）；人名正形统一：霍尔柯特→霍尔科特 66 处（登记册先登优先：Robert Holcot 行 2026-11-01；弱势方 Holkot, Robert 行同步并留同人双键备注），SUMMARY 行同步；源文省略号“. . .”2 处改“……”。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "H-main-20261108",
+      "at": "2026-11-08T13:00:46Z",
+      "evidence": "初审（自审）：独立 actor（初译/一校为 EH-main-20261108，本条为异会话签署，满足 ADR-0020 复核独立性）。全文 1–259 行分三段回读完毕：六节论证链（与奥卡姆关系→自然神学→必然性/偶然性→神命伦理→神圣预知）脉络完整；结构对位与头尾节齐备；残留外文扫描仅剩首次括注英文人名与现代学者名（体例允许），无未译残片。Minor 待办已随手修订（同一种关系→同一关系）。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "H-main-20261108",
+      "at": "2026-11-08T13:01:43Z",
+      "evidence": "复审（逐句回核）：对照 yuanwen/h/holkot.md 抽核关键段落——三位一体三段论两难（源 46–58 行对译文 45–57 行）、绝对/受命权能命题分析（源 74–76 对 73–75）、不矛盾原则与神命伦理引文（源 80 对 79）、义务论辩问答（源 121–137 对 121–138）、未来偶然物与《解释篇》第 9 章（源 149–153）——逻辑结构与让步/反驳层次一致，无增译漏译；年代 1331–1333/1343/1349/1277 与源一致；引文页码（Quodl. III q.8 103、Sent. II q.2 126、Quod. III q.1 63、Quod. I q.2 38）与源全等；拉丁术语 species/obligationes/absolute-ordained 译法全程一致。未发现 Critical/Major；两处引文内 prose 告警按 ADR-0020 维持直译。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "H-main-20261108",
+      "at": "2026-11-08T13:02:55Z",
+      "evidence": "终审验收：四检复跑全绿（style 0 / academic 0 硬错 / math 0 缺式 / summary 0 mismatch）+ check_prose 余 2 条均为直引块内豁免；check_terms 无 holkot 本词条告警；登记册正形已统一（先登优先 霍尔科特）；段落身份与标记守恒（账本 62:62、正文标记 30:30、defs 72:72）。冷置说明：s2–r3 由异会话接续完成，与初译/一校 actor 不同，独立性成立。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "H-main-20261108",
+      "at": "2026-11-08T13:02:55Z",
+      "evidence": "done：六道+终审齐备，四检全绿，提交以 pathspec 单条入库。"
     }
   ],
   "blockers": [],

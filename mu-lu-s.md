@@ -181,7 +181,7 @@ outline: [1, 6]
   * [威廉·克雷索恩 Crathorn, William (Aurélien Robert)](c/crathorn.md)
   * [马尔基亚的弗朗西斯 Francis of Marchia (Christopher Schabel)](f/francis-marchia.md)
   * [里米尼的格里高利 Gregory of Rimini (Christopher Schabel and Charles Girard)](g/gregory-rimini.md)
-  * [罗伯特·霍尔柯特 Holkot \[Holcot\], Robert (Hester Gelber and John T. Slotemaker)](h/holkot.md)
+  * [罗伯特·霍尔科特 Holkot \[Holcot\], Robert (Hester Gelber and John T. Slotemaker)](h/holkot.md)
 * [亚当·德·沃德汉姆 Wodeham, Adam de (John T. Slotemaker and Jeffrey C. Witt)](w/wodeham.md)
 * [托马斯·阿奎那 Aquinas, Thomas (Robert Pasnau)](a/aquinas.md)
   * [托马斯·阿奎那的伦理学、政治哲学和法哲学 moral, political, and legal philosophy (John Finnis)](a/aquinas-moral-political.md)
