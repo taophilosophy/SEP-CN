@@ -2,7 +2,7 @@
   "slug": "rationalism-early-modern",
   "kind": "retranslate",
   "zh_doc": "r/rationalism-early-modern.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "direction",
@@ -17,6 +17,62 @@
       "actor": "task_ops",
       "at": "2026-11-06T00:33:32Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "OR-main-20261107",
+      "at": "2026-11-07T15:29:00Z",
+      "evidence": "draft（ADR-0021 账本协议，OR-main-20261107 主会话直译双版，承接 RZ 会话 p1-p3 成果并完成 p4-p7）：账本 149 段（body 148+oir 1，现制 References 照录由 compose 尾部拼装）；p4 段61-80/p5 段81-100/p6 段101-120/p7 段121-149 双版落盘（commits 24d846f2/8713341c/d6926071/5496d44c），组装器守恒自检 HARD=0（脚注键、$、\\*\\*三守恒；段111 SOFT-4、段117 SOFT-2、段146 SOFT-2 均为书名号转换与源文标记残留，逐条留痕于各批提交）；compose 写回 62709 字符+italic_to_bold 28 行；源文疑点照录三处（段142 衍字4、段145 生年 1648 与导语 1645 两照、18th 上标）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "OR-main-20261107",
+      "at": "2026-11-07T15:44:35Z",
+      "evidence": "s1 一校（MTPE 顺序，账本为对照底逐段核销）：①幻觉/漏译/增译——段61-149 数字多集合逐段比对，仅 3 处换算型差异（段77 Book 1→第一卷、段95 mid-1600s→17 世纪中叶、段109 §§3,6→第 3、6 节），无内容损失；脚注键闭环经 check_academic --strict 0 硬错误（orphan-ref 0）；段1-60 前会话译文经行4-73 通读复核 + 全文 prose 修阅通读一遍；②术语漂移——登记册 grep：天赋观念8/先天知识12/恰当观念6/充足理由律7/不可分辨者同一律2/道德确定性3/概念碎片化1、人名 卡文迪许23/安妮·康威4/阿莫20/索尔·胡安娜3/普兰·德·拉巴尔3 全对齐，innate 英文残留 0；③疑点留痕——段142『Head 2020; 4』衍字照录、段145 索尔·胡安娜生年两照不一致（1645/1648）照录、普兰著作年 1675（De l'excellence des hommes）照录"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "OR-main-20261107",
+      "at": "2026-11-07T15:47:17Z",
+      "evidence": "s2 二校（Fluency/Style，ADR-0020）：check_prose 51 条告警逐条人工修改归零至 2 条豁免——de-chain 24 处（的链消解，含『目的』暗藏『的』字 2 处改写）、long-sentence 15 处拆句（引文内 3 处不动）、weak-verb 5 处（作出/加以/予以→直接动词）、passive-bei 3 处（被字句改写，E1a2 引文重译『凡不能经由他物而设想者，必经由自身而设想』）、as-one 1 处（作为一个→作为整体）；豁免留痕 2 条（行69 两处《单子论》/书信直引文整句 78/74 字，拆分破坏引文完整性）；六检复跑全绿（style 0 issue、academic --strict 0 硬错误、math 0 缺失、summary 0 错误、markdownlint 0 错误）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "OR-main-20261107",
+      "at": "2026-11-07T15:47:18Z",
+      "evidence": "s3 三校（体例/学术挂钩）：check_style --strict 0 issue（curly-quotes 英文残留段已在 compose 后消解）；markdownlint-cli2 0 错误（H1 后补空行修 MD022，根因 lq.py compose 骨架已修，未来词条免复发）；check_academic --docs --strict 0 硬错误（非存根 1，在途豁免 1）；check_math 0 公式 0 缺失；check_summary 0 错误；引号体例全中文弯引号、书名号《》内转写体（索尔·胡安娜《初梦》等）照模板 #22；译注仅相关词条尾注 1 处"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "OR-main-20261107",
+      "at": "2026-11-07T16:05:36Z",
+      "evidence": "r1 初审（对照 yuanwen 镜像自审）：全文 6 段抽核+通读——①抓到 Critical 1 处并已修：段91 开头 'Amo privileges sensation over reason' 误译为方向反转『把感觉置于理性之下』，回源核对 yuanwen 确认字面为『置于理性之上』，账本双版+正文同步修正（该段末句理性高出于感觉系源文另一层面表述，张力照录）；②模态/方向复核：段74 可能论vs必然论对举方向、段78 Lin『必然论论证不依赖 PSR』方向、段122/123 Boyle/Georgescu 引文、段127 对象→真理推导链、段140 基督在坏方向不可变好方向可变、段147 实在区分（real distinction）——全部与源一致；③段132 源文方括号 [a]part 系词形变化标记，译文按约定消解不保留；④双脚注键 [^strok-2022][^strok-2022-2] 等闭包完好（check_academic 0 orphan）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "QR-main-20261108",
+      "at": "2026-11-08T03:14:25Z",
+      "evidence": "r2 复审（逐句回核 yuanwen 镜像与逻辑，独立于初译 actor OR-main-20261107）：全文 1-303 行逐段对源回核，发现并实修 3 处——①行252 '无知刻不了自我知识的画' 系 characterize 误读，改『无知无法刻画自我知识』（源 Ignorance cannot characterize self-knowledge）；②行260 修饰语错挂：源 'some steady, objective truths about that world – that God has provided for creation' 的破折号定语属『世界』不属『真理』，改『关于这个世界（上帝为创造所预备）仍有一些稳固的、客观的真理』；③行170 '世界作合理可解' 改『世界合乎理性、可以理解』（the world makes rational sense）。账本 step2 同步 3 处。逐项复核：17 条相关词条与源 Related Entries 一一对应；引文 8 组（Monadology/AG 285/Marshall/Steinberg/Detlefsen/Boyle/Georgescu/Strok）方向与归属无漂移；源文自身不一致照录留痕 5 处——3.1.1 首句 'Amo privileges sensation over reason' 与本节标题及本段末句『理性高出于感觉』相悖（疑源文笔误，零信任照录）、Nydan/Nyden 拼写不一、Head 2020 后衍字『; 4』、索尔·胡安娜生年导语 1645 与结论 1648 两照、Third Meditation 引注 CSM II 后缺页码。四检：check_prose 余 2 条均系 s2 既定豁免（行70 两处《单子论》/书信直引文 78/74 字），check_style 0 issue、check_academic --strict 0 硬错误、check_math 0 缺失、markdownlint 本文件 0 错误。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "OPQR-main-20261108",
+      "at": "2026-11-08T11:50:22Z",
+      "evidence": "r3 终审（OPQR-main-20261108 接手 O–R 全流程，独立于 draft/r1 actor）：①结构与源对位——66 个标题与 yuanwen 逐序对应，编号 0 漂移（源 2.3 标题自带冒号『2.3: Certain and Probable Knowledge』，zh 按体例归并为『2.3 确定知识与或然知识』，源形态异常留痕不修）；②残留外文碎片扫描——References 之前的正文无 6 词以上连续英文串；③发现并实修 Minor 1 处：行300『15 至 18ᵗʰ 世纪』的英文序数上标系源文排版残留（同句 15th 已作『15』，自身不一致），改『15 至 18 世纪』，账本 step1/step2 同步；④四检复核：check_style --strict 0 issue、check_academic --strict 0 硬错误（在途豁免 1 即本文）、check_math 0 缺失、check_summary HARD 0；check_prose 余 2 条为 s2 既定豁免（行70 两处引文长句）；markdownlint 本文件 0 错误；⑤r1/r2 所列源文自相矛盾 5 处（Amo 首句方向、Nydan/Nyden、Head 2020 衍字、索尔·胡安娜生年、CSM II 页码）零信任照录，不修。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "OPQR-main-20261108",
+      "at": "2026-11-08T11:51:09Z",
+      "evidence": "终稿验收签字（rules/04 r3 合格凭证：CI 全绿 + 验收签字）：本地七门禁 check_all 全绿，本文定点四检（style/academic/math/summary）0 硬错误，markdownlint 0 错误；正文与源 66 标题逐序对位，脚注键闭环；r3 实修 Minor 1 处（18ᵗʰ 上标）；r1–r3 均由初译 actor（OR-main-20261107）以外会话执行（r2 QR-main-20261108、r3 OPQR-main-20261108），满足 ADR-0020 复核独立性。任务收口 done（22 步全链，version_pin Summer 2026）。"
     }
   ],
   "blockers": [],
