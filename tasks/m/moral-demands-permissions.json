@@ -2,7 +2,7 @@
   "slug": "moral-demands-permissions",
   "kind": "retranslate",
   "zh_doc": "m/moral-demands-permissions.md",
-  "state": "s2_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -31,6 +31,13 @@
       "actor": "LMN-main-20261108",
       "at": "2026-11-08T00:53:54Z",
       "evidence": "prose 实修 66 处归零（de-chain 31/长句拆分 23/被字消解 9/弱动词 3，无豁免留痕）；markers/defs 复验无损；check_style 0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LMN-main-20261108f",
+      "at": "2026-11-08T01:45:43Z",
+      "evidence": "三校（体例）：check_style 0 issue；markdownlint-cli2（仓库配置）0 错（MD053 假阳性系旧版 CLI 误跑，cli2 绿）；check_academic --strict 0 硬错误；孤儿脚注 12 处（cullity/hurley/lazar/miller/murphy/portmore×3/quong/ross/singer/williams-1973）与 yuanwen 源逐一对应（68 defs/57 refs 双侧相等）照录非漏译；术语登记册文件级一致性无违例；人名告警为全库清单（specs/013）非本文件硬伤"
     }
   ],
   "blockers": [],
