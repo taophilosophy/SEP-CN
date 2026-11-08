@@ -139,104 +139,148 @@ segments:
     kind: body
     source: |-
       Among the few who opposed Aristotle’s doctrine of time was Petrus Johannis Olivi (b. c. 1248, d. 1298), who criticized Aristotle for regarding motion, rather than the actual existence of things, as the subject of time (Maier 1955, 110–111)[^maier-1955]. The Franciscan Gerardus Odonis (c. 1290–1349) was also a proponent of the independence of time from motion (Maier 1955, 134–137)[^maier-1955]. Oresme’s theory of time foreshadows that of classical physics to a certain degree, but, as is true of place and space, there are certain differences concerning the ontological status of time (Kirschner 2000a, 176–178)[^kirschner-2000a].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在少数反对亚里士多德时间学说的人中，有彼得·约翰·奥利维（约 1248–1298），他批评亚里士多德把运动而非事物的现实存在当作时间的载体（Maier 1955, 110–111）[^maier-1955]。方济各会士杰拉德·奥多尼斯（约 1290–1349）也主张时间独立于运动（Maier 1955, 134–137）[^maier-1955]。奥雷斯姆的时间理论在某种程度上预示了古典物理学的理论，但正如处所与空间的情形一样，时间的存在论地位仍有某些差异（Kirschner 2000a, 176–178）[^kirschner-2000a]。
+    step2: |-
+      反对亚里士多德时间学说者寥寥，彼得·约翰·奥利维（约 1248—1298）是其一：他批评亚里士多德把运动、而非事物的现实存在当作时间的载体（Maier 1955, 110–111）[^maier-1955]。方济各会士杰拉德·奥多尼斯（约 1290—1349）同样主张时间独立于运动（Maier 1955, 134–137）[^maier-1955]。奥雷斯姆的时间理论在某种程度上预示了古典物理学，但一如处所与空间的情形，时间的存在论地位仍有某些差异（Kirschner 2000a, 176–178）[^kirschner-2000a]。
   - id: 18
     kind: body
     source: |-
       Oresme states that the duration of things without any succession is eternity, which he defines as *duratio rerum tota simul*. As with the relation between God and extramundane space, Oresme identifies eternity with God himself (Kirschner 2000a, 178–179)[^kirschner-2000a].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥雷斯姆指出，事物没有任何相继的持存就是永恒，他把永恒定义为 *duratio rerum tota simul*。正如上帝与宇宙之外空间的关系一样，奥雷斯姆把永恒等同于上帝本身（Kirschner 2000a, 178–179）[^kirschner-2000a]。
+    step2: |-
+      奥雷斯姆说，事物毫无相继的持存，便是永恒；他把永恒定义为 *duratio rerum tota simul*（万物同时持存）。与上帝和宇宙之外空间的关系一样，他也把永恒等同于上帝本身（Kirschner 2000a, 178–179）[^kirschner-2000a]。
   - id: 19
     kind: body
     source: |-
       ### 2.4 Theory of Motion
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.4 运动理论
+    step2: |-
+      ### 2.4 运动理论
   - id: 20
     kind: body
     source: |-
       In his commentary on Aristotle’s Physics Oresme presents a detailed and elaborate discussion of the ontological status of motion, one of the fundamental problems of medieval natural philosophy. His theory of motion is highly specific and turns out to be an application of his characteristic *condicio*-theory of accidents (Caroti 1993; Caroti 1994; Kirschner 1997, 52–78; Kirschner 2014)[^caroti-1993][^caroti-1994][^kirschner-1997][^kirschner-2014].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥雷斯姆在其《物理学注疏》中详细而精细地讨论了运动的存在论地位，这是中世纪自然哲学的基本问题之一。他的运动理论极为独特，实为其特有的偶性样态论的应用（Caroti 1993; Caroti 1994; Kirschner 1997, 52–78; Kirschner 2014）[^caroti-1993][^caroti-1994][^kirschner-1997][^kirschner-2014]。
+    step2: |-
+      在《物理学注疏》中，奥雷斯姆对运动的存在论地位作了详尽精细的讨论——这是中世纪自然哲学的基本问题之一。他的运动理论极为独特，实际上是其特有的偶性样态论的一次应用（Caroti 1993; Caroti 1994; Kirschner 1997, 52–78; Kirschner 2014）[^caroti-1993][^caroti-1994][^kirschner-1997][^kirschner-2014]。
   - id: 21
     kind: body
     source: |-
       For Oresme motion is a *fluxus*, a successive entity of its own that exists in addition to the mobile and the things that are acquired during motion. This is a clear departure from the nominalistic position. Concerning its ontological status this *fluxus* is not considered a separate accidental form but only a *modus* (*se habendi*) or a *condicio* of the mobile. Thus Oresme circumvents the difficulties of a pure nominalistic approach, while simultaneously avoiding the problems that occur if one assigns the *fluxus* the ontological status of an accidental form, as Buridan did in the case of local motion in his Physics commentary (*ultima lectura*) (Buridan, *Questiones super octo Phisicorum libros Aristotelis*, Qu. III.7, f. 50ra–51ra). Oresme’s own concept of *fluxus* is easily applicable to all types of motion, be they alterations, changes in quantity or local motions. Such a uniform concept of motion was one of his major aims. Unfortunately, posterity does not seem to have appreciated his endeavour. Thus, at the University of Vienna in the second half of the 15th century it apparently became common to equate Oresme’s concept of motion with Ockham’s view (Kirschner 2014)[^kirschner-2014].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对奥雷斯姆来说，运动是一种 *fluxus*，一种自成一类的相继实体，除运动者以及运动过程中所获得的东西之外另行存在。这明显偏离了唯名论立场。就其存在论地位而言，这种 *fluxus* 不被视为独立的偶性形式，而只是运动者的一个 *modus*（*se habendi*）或 *condicio*。奥雷斯姆由此绕开了纯唯名论进路的困难，同时又避免了把 *fluxus* 赋予偶性形式的存在论地位所产生的种种问题——布里丹在其《物理学注疏》（*ultima lectura*，最终讲本）中处理位移时正是如此（Buridan, *Questiones super octo Phisicorum libros Aristotelis*, Qu. III.7, f. 50ra–51ra）。奥雷斯姆本人的 *fluxus* 概念易于应用于一切运动类型，无论是性质变化、数量变化还是位移。这种统一的运动概念是他的一大目标。遗憾的是，后世似乎并未领会他的这番努力：15 世纪下半叶，维也纳大学显然流行把奥雷斯姆的运动概念等同于奥卡姆的观点（Kirschner 2014）[^kirschner-2014]。
+    step2: |-
+      在奥雷斯姆看来，运动是一种 *fluxus*，一种自成一类的相继实体，除运动者以及运动过程中获得的东西之外另行存在。这明显偏离唯名论立场。就存在论地位而言，这种 *fluxus* 并不是独立的偶性形式，而只是运动者的一个 *modus*（*se habendi*）或 *condicio*。奥雷斯姆由此既避开了纯唯名论的困难，也避开了把 *fluxus* 当作偶性形式所带来的问题——布里丹在其《物理学注疏》（*ultima lectura*，最终讲本）中处理位移时正是如此（Buridan, *Questiones super octo Phisicorum libros Aristotelis*, Qu. III.7, f. 50ra–51ra）。奥雷斯姆自己的 *fluxus* 概念可方便地施用于一切运动类型：性质变化、数量变化、位移皆无不可。统一的运动概念正是他的主要目标之一。可惜后世似乎并未领会这番苦心：15 世纪下半叶，维也纳大学显然时兴把奥雷斯姆的运动概念与奥卡姆的观点等量齐观（Kirschner 2014）[^kirschner-2014]。
   - id: 22
     kind: body
     source: |-
       ### 2.5 Cosmology, Astronomy, and Opposition to Astrology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.5 宇宙论、天文学与反占星术
+    step2: |-
+      ### 2.5 宇宙论、天文学与反占星术
   - id: 23
     kind: body
     source: |-
       In his *Livre du ciel et du monde* and in other works (*Questiones super De celo*, *Questiones de spera*) Oresme brilliantly argues against any proof of the Aristotelian theory of a stationary Earth and a rotating sphere of the fixed stars. Although Oresme showed the possibility of a daily axial rotation of the Earth, he finished by affirming his belief in a stationary Earth (Clagett 1974, 225; Di Liscia/Szapiro 2020)[^clagett-1974]. Similarly, Oresme proves the possibility of a plurality of worlds, but ultimately keeps to the Aristotelian tenet of a single cosmos (Clagett 1974, 224–225; Harvey 2011)[^clagett-1974][^harvey-2011].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在其《天与世界之书》（*Livre du ciel et du monde*）以及其他著作（《〈论天〉问答》*Questiones super De celo*、《〈论天球〉问答》*Questiones de spera*）中，奥雷斯姆精彩地反驳了亚里士多德关于地球静止、恒星天球旋转的理论的任何证明。尽管奥雷斯姆展示了地球每日绕轴自转的可能性，他最终仍申明自己相信地球静止（Clagett 1974, 225; Di Liscia/Szapiro 2020）[^clagett-1974]。同样，奥雷斯姆证明了多个世界存在的可能性，但最终仍坚持单一宇宙的亚里士多德信条（Clagett 1974, 224–225; Harvey 2011）[^clagett-1974][^harvey-2011]。
+    step2: |-
+      在 *Livre du ciel et du monde* 以及其他著作（*Questiones super De celo*、*Questiones de spera*）中，奥雷斯姆精彩地驳斥了亚里士多德“地球静止、恒星天球旋转”这一理论的种种证明。他虽展示了地球每日绕轴自转的可能性，最终却仍申明相信地球静止（Clagett 1974, 225; Di Liscia/Szapiro 2020）[^clagett-1974]。同样，他证明了多个世界存在的可能，最终仍信守单一宇宙的亚里士多德信条（Clagett 1974, 224–225; Harvey 2011）[^clagett-1974][^harvey-2011]。
   - id: 24
     kind: body
     source: |-
       Oresme was a determined opponent of astrology, which he attacked on religious and scientific grounds. In *De proportionibus proportionum* Oresme first examined raising rational numbers to rational powers before extending his work to include irrational powers. The results of both operations he termed *irrational ratios*, although he considered the first type commensurable with rational numbers, and the latter not. His motivation for this study was a suggestion of Thomas Bradwardine that the relationship between forces $(F)$, resistances $(R)$, and velocities $(V)$ is exponential (Grant 1966, 24–40; Clagett 1974, 224)[^clagett-1974][^grant-1966]. In modern terms:
 
       $$ \frac{F_2}{R_2} = \left( \frac{F_1}{R_1} \right)^{(V_2 /V_1)} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥雷斯姆坚决反对占星术，并从宗教与科学两方面加以抨击。在《论比的比》（*De proportionibus proportionum*）中，奥雷斯姆首先考察把有理数提升到有理幂，随后把工作扩展到无理幂。他称这两种运算的结果为“非理比”（*irrational ratios*），尽管他认为前一种与有理数可通约，后一种则不可通约。这项研究的动机来自托马斯·布拉德沃丁的一个提示：力 $(F)$、阻力 $(R)$ 与速度 $(V)$ 之间的关系是指数式的（Grant 1966, 24–40; Clagett 1974, 224）[^clagett-1974][^grant-1966]。用现代术语表示即：
+
+      $$ \frac{F_2}{R_2} = \left( \frac{F_1}{R_1} \right)^{(V_2 /V_1)} $$
+    step2: |-
+      奥雷斯姆是占星术的坚决反对者，从宗教与科学两面加以抨击。在 *De proportionibus proportionum* 中，他先考察有理数的有理幂，继而扩展到无理幂；他把这两种运算的结果统称为“非理比”（*irrational ratios*），不过认为前者与有理数可通约，后者则否。这项研究缘于托马斯·布拉德沃丁的一个提示：力 $(F)$、阻力 $(R)$ 与速度 $(V)$ 之间的关系呈指数关系（Grant 1966, 24–40; Clagett 1974, 224）[^clagett-1974][^grant-1966]。用现代术语表示即：
+
+      $$ \frac{F_2}{R_2} = \left( \frac{F_1}{R_1} \right)^{(V_2 /V_1)} $$
   - id: 25
     kind: body
     source: |-
       Oresme then asserted that the ratio of any two celestial motions is probably incommensurable (Grant 1971, 67–77)[^grant-1971]. This excludes precise predictions of successively repeating conjunctions, oppositions, and other astronomical aspects, and he subsequently claimed, in *Ad pauca respicientes* (its name derives from the opening sentence “Concerning some matters …”), that astrology was thereby refuted (Grant 1966, 83–111)[^grant-1966]. In his *Livre de divinacions* and his *Tractatus contra astronomos* Oresme tries to show that astrology is “most dangerous to those of high estate, such as princes and lords to whom appertains the government of the commonwealth” (Coopland 1952, 51)[^coopland-1952]. As with astrology, he fought against the widespread belief in occult and “marvelous” phenomena by explaining them in terms of natural causes. Oresme’s writings against astrology and magic were due to his concern over the king’s and his court’s addiction to these practices. Interestingly, in the first redaction of his Questions on Meteorology Oresme does not yet turn out to be the resolute opponent of astrology as we know him from his later works, but, quite the contrary, adheres to its principles (Panzica 2021, 2)[^panzica-2021].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥雷斯姆随后断言，任意两种天体运动之比很可能是不可通约的（Grant 1971, 67–77）[^grant-1971]。这就排除了对依次重复的会合、冲以及其他天文相位的精确预测，他随即在《答少数人》（*Ad pauca respicientes*，其名取自开篇句“关于若干事项……”）中宣称，占星术由此被驳倒（Grant 1966, 83–111）[^grant-1966]。在《论占卜》（*Livre de divinacions*）与《驳占星家》（*Tractatus contra astronomos*）中，奥雷斯姆试图表明，占星术“对高居尊位者最为危险，例如身负共同体治理之责的君主与领主”（Coopland 1952, 51）[^coopland-1952]。与对待占星术一样，他也反对广泛流行的对隐秘现象与“奇异”现象的信仰，办法是用自然原因加以解释。奥雷斯姆撰写反占星术与反魔法之作，是出于对国王及其宫廷沉溺于这类实践的忧虑。有趣的是，在其《气象学问题》的第一个修订本中，奥雷斯姆尚未表现出后世著作中那种坚决的反占星术立场，恰恰相反，他仍信守占星术的原则（Panzica 2021, 2）[^panzica-2021]。
+    step2: |-
+      奥雷斯姆继而断言，任意两种天体运动之比很可能不可通约（Grant 1971, 67–77）[^grant-1971]。如此便排除了对周而复始的会合、冲及其他天文相位的精确预测；他随即在 *Ad pauca respicientes*（其名取自开篇句“关于若干事项……”）中宣称，占星术由此不攻自破（Grant 1966, 83–111）[^grant-1966]。在 *Livre de divinacions* 与 *Tractatus contra astronomos* 中，奥雷斯姆力图表明，占星术“对身居高位者最为危险，例如身负共同体治理之责的君主与领主”（Coopland 1952, 51）[^coopland-1952]。对待占星术如此，对待流行的隐秘现象与“奇异”现象之信仰亦然：他总以自然原因加以解释。他之所以撰写反占星术、反魔法之作，是忧虑国王及其宫廷沉溺此道。有趣的是，在《气象学问题》的第一个修订本中，奥雷斯姆还不是后来著作中那个坚决的反占星术者；恰恰相反，他此时仍信守占星术的原则（Panzica 2021, 2）[^panzica-2021]。
   - id: 26
     kind: body
     source: |-
       In his *De visione stellarum* Oresme departs from the standard view of earlier authors in optics such as Ptolemy (2ⁿᵈ century), Ibn al-Haytham (965–c. 1040), Roger Bacon (c. 1214–c. 1292), and Witelo (c. 1230/35–after 1275), who all held that refraction can only occur at the interface of two media of differing densities and thus would not take place in a single medium of uniformly varying density. He states – more than 300 years before Robert Hooke (1635–1703) and Newton – that atmospheric refraction occurs along a curve and proposes to approximate the curved path of a ray of light in a medium of uniformly varying density, in this case the atmosphere, by an infinite series of line segments each representing a single refraction (Burton 2007, 33–64; Szapiro 2022)[^burton-2007][^szapiro-2022].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《论星辰的视觉》（*De visione stellarum*）中，奥雷斯姆背离了此前光学作者的标准观点，如托勒密（2 世纪）、伊本·海赛姆（965–约 1040）、罗吉尔·培根（约 1214–约 1292）与维特洛（约 1230/35–1275 之后）的观点：他们都认为折射只能发生在密度不同的两种介质的界面上，因此在密度均匀变化的单一介质中不会发生。奥雷斯姆指出——比罗伯特·胡克（1635–1703）与牛顿早三百多年——大气折射沿曲线发生，并提出用无穷多线段来逼近光线在密度均匀变化的介质（此处即大气）中的弯曲路径，每一线段代表一次折射（Burton 2007, 33–64; Szapiro 2022）[^burton-2007][^szapiro-2022]。
+    step2: |-
+      在 *De visione stellarum* 中，奥雷斯姆背离了先前光学作者的标准看法——托勒密（2 世纪）、伊本·海赛姆（965—约 1040）、罗吉尔·培根（约 1214—约 1292）、维特洛（约 1230/35—1275 之后）都认为，折射只发生于密度不同的两种介质的界面，在密度均匀变化的单一介质中不会发生。奥雷斯姆却指出——比罗伯特·胡克（1635—1703）和牛顿早三百多年——大气折射沿曲线进行，并提出以无穷多线段逼近光线在密度均匀变化的介质（此即大气）中的弯曲路径，每一线段代表一次折射（Burton 2007, 33–64; Szapiro 2022）[^burton-2007][^szapiro-2022]。
   - id: 27
     kind: body
     source: |-
       In the first redaction of his Commentary on Aristotle’s Meteorology Oresme stated the supralunar location of comets, a unique opinion for a medieval philosopher (Kirschner 2000c; for the identification of the anonymous manuscript as Oresmian see Panziza 2015)[^kirschner-2000c]. Oresme’s view of the celestial nature of the Milky Way was also unconventional, otherwise only held by Albert the Great and Henry of Langenstein.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在其《亚里士多德〈气象学〉注疏》的第一个修订本中，奥雷斯姆提出彗星位于月上区域，这对中世纪哲学家来说是独一无二的见解（Kirschner 2000c; 关于该匿名抄本出自奥雷斯姆的鉴定，见 Panziza 2015）[^kirschner-2000c]。奥雷斯姆关于银河具有天体性质的看法同样不合常规，此前只有大阿尔伯特与朗根施泰因的亨利持同样观点。
+    step2: |-
+      在《亚里士多德〈气象学〉注疏》的第一个修订本中，奥雷斯姆主张彗星位于月上区域——这对中世纪哲学家而言是绝无仅有的见解（Kirschner 2000c; 该匿名抄本出自奥雷斯姆的手笔，鉴定见 Panziza 2015）[^kirschner-2000c]。他关于银河具有天体性质的看法同样不合流俗，此前唯大阿尔伯特与朗根施泰因的亨利持此说。
   - id: 28
     kind: body
     source: |-
       ### 2.6 Mathematics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.6 数学
+    step2: |-
+      ### 2.6 数学
   - id: 29
     kind: body
     source: |-
       Oresme’s main contributions to mathematics are contained in his *Questiones super geometriam Euclidis* and his *Tractatus de configurationibus qualitatum et motuum*. In these works Oresme conceived of the idea of using rectangular coordinates (*latitudo* and *longitudo*) and the resulting geometric figures (*configurationes*) to distinguish between uniform and nonuniform distributions of various quantities, such as the change of velocity in relation to time or the distribution of the intensities of a quality in relation to the extension of the subject. In the discussion of motions the base line (*longitudo*) is the time, while the perpendiculars raised on the base line (*latitudines*) represent the velocity from instant to instant in the motion. Thus uniform acceleration is represented by a right triangle. Oresme even extended his definition to include three-dimensional figures (Clagett 1974, 226–228)[^clagett-1974]. Thus, he helped lay the foundation that later led to the discovery of analytic geometry by René Descartes (1596–1650).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥雷斯姆对数学的主要贡献见于其《〈欧几里得几何学〉问答》（*Questiones super geometriam Euclidis*）与《论性质与运动的构形》（*Tractatus de configurationibus qualitatum et motuum*）。在这些著作中，奥雷斯姆提出了使用直角坐标（*latitudo* 与 *longitudo*）以及由此得到的几何图形（*configurationes*）来区分各种量的均匀分布与非均匀分布的思想，例如速度随时间的变化，或一种性质的诸强度相对于主体延展的分布。在讨论运动时，基线（*longitudo*）是时间，基线上竖起的垂线（*latitudines*）则表示运动中每一瞬间的速度。这样，匀加速便由直角三角形表示。奥雷斯姆甚至把定义扩展到三维图形（Clagett 1974, 226–228）[^clagett-1974]。他由此帮助奠定了后来勒内·笛卡尔（1596–1650）发现解析几何的基础。
+    step2: |-
+      奥雷斯姆对数学的主要贡献见于 *Questiones super geometriam Euclidis* 与 *Tractatus de configurationibus qualitatum et motuum*。他在这两部著作中提出：用直角坐标——以“经度”（*longitudo*，延展）与“纬度”（*latitudo*，强度）为轴——以及由此形成的几何图形（*configurationes*，构形），区分各种量的均匀分布与非均匀分布；所谓量，可以是速度随时间的变化，也可以是一种性质的诸强度相对于主体延展的分布。讨论运动时，基线（*longitudo*）为时间，基线上竖起的垂线（*latitudines*）表示运动中每一瞬间的速度，于是匀加速便表现为直角三角形。奥雷斯姆甚至把定义推广到三维图形（Clagett 1974, 226–228）[^clagett-1974]。后来笛卡尔（1596—1650）发现解析几何，其基础即有他一份功劳。
   - id: 30
     kind: body
     source: |-
       Furthermore, Oresme used his figures to give the first proof of the Merton theorem, discovered at Oxford in the 1330’s: the distance traveled in any given period by a body moving under uniform acceleration is the same as if the body moved at a uniform speed equal to its speed at the midpoint of the period (Clagett 1974, 225–226; Smorynski 2017, 216–222)[^clagett-1974][^smorynski-2017]. Some scholars believe that Oresme’s graphical representation of velocities was of great influence in the further development of kinematics, affecting in particular the work of Galileo (1564–1642).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，奥雷斯姆利用其图形首次证明了 14 世纪 30 年代发现于牛津的默顿定理：匀加速运动的物体在任一时段内走过的距离，等同于它以该时段中点时的速度做匀速运动所走的距离（Clagett 1974, 225–226; Smorynski 2017, 216–222）[^clagett-1974][^smorynski-2017]。一些学者认为，奥雷斯姆对速度的图示对运动学的进一步发展有很大影响，尤其影响了伽利略（1564–1642）的工作。
+    step2: |-
+      奥雷斯姆还用他的图形首次证明了默顿定理（14 世纪 30 年代发现于牛津）：匀加速物体在任一时段内所走的距离，等同于它以该时段中点速度做匀速运动所走的距离（Clagett 1974, 225–226; Smorynski 2017, 216–222）[^clagett-1974][^smorynski-2017]。有学者认为，奥雷斯姆对速度的图示大大推动了运动学的发展，伽利略（1564—1642）的工作尤其受其影响。
   - id: 31
     kind: body
     source: |-
       Further noteworthy achievements in the field of mathematics are Oresme’s geometric proofs of the sums of certain converging series, particularly in his *Questiones super geometriam Euclidis* and his *Tractatus de configurationibus qualitatum et motuum* (Clagett 1974, 228)[^clagett-1974]. Most interestingly, Oresme seems to have given a general rule of how to find the sum of all convergent series of the form:
 
       $$ a + \frac{a}{m} + \frac{a}{m^2} + \frac{a}{m^3} + \ldots + \frac{a}{m^n} + \frac{a}{m^{n+1}} + \ldots , $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      数学领域另一些值得注意的成就，是奥雷斯姆对某些收敛级数之和的几何证明，尤其见于其《〈欧几里得几何学〉问答》与《论性质与运动的构形》（Clagett 1974, 228）[^clagett-1974]。最有趣的是，奥雷斯姆似乎给出了求下列形式的一切收敛级数之和的一般规则：
+
+      $$ a + \frac{a}{m} + \frac{a}{m^2} + \frac{a}{m^3} + \ldots + \frac{a}{m^n} + \frac{a}{m^{n+1}} + \ldots , $$
+    step2: |-
+      数学方面另有一些值得称道的成就：奥雷斯姆对若干收敛级数之和给出几何证明，尤见于 *Questiones super geometriam Euclidis* 与 *Tractatus de configurationibus qualitatum et motuum*（Clagett 1974, 228）[^clagett-1974]。最有趣的是，他似乎给出了一条求一切如下形式收敛级数之和的一般规则：
+
+      $$ a + \frac{a}{m} + \frac{a}{m^2} + \frac{a}{m^3} + \ldots + \frac{a}{m^n} + \frac{a}{m^{n+1}} + \ldots , $$
   - id: 32
     kind: body
     source: |-
       with $a$ being any quantity (*aliqua quantitas*) and $m$ any natural number greater than or equal to 2 (cf. Murdoch 1964; Mazet 2003)[^mazet-2003][^murdoch-1964]. He informs us that we have to take the difference of two successive terms, that is $a/m^n - a/m^{n+1}$, and divide it through the first of these terms, that is $a/m^n$, so that we get:
 
       $$ \frac{a/m^n - a/m^{n+1}}{a/m^n} = \frac{m - 1}{m}.$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中 $a$ 为任一量（*aliqua quantitas*），$m$ 为任一大于或等于 2 的自然数（参 Murdoch 1964; Mazet 2003）[^mazet-2003][^murdoch-1964]。他告诉我们，须取两个相邻项之差，即 $a/m^n - a/m^{n+1}$，再除以其中第一项，即 $a/m^n$，于是得到：
+
+      $$ \frac{a/m^n - a/m^{n+1}}{a/m^n} = \frac{m - 1}{m}.$$
+    step2: |-
+      其中 $a$ 是任一量（*aliqua quantitas*），$m$ 是任一不小于 2 的自然数（参 Murdoch 1964; Mazet 2003）[^mazet-2003][^murdoch-1964]。他说，取相邻两项之差 $a/m^n - a/m^{n+1}$，除以其中第一项 $a/m^n$，便得：
+
+      $$ \frac{a/m^n - a/m^{n+1}}{a/m^n} = \frac{m - 1}{m}.$$
   - id: 33
     kind: body
     source: |-
