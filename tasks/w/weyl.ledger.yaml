@@ -953,104 +953,142 @@ segments:
     kind: body
     source: |-
       Weyl defines what he means by an *affine connection* in the following way: A point $p$ on the manifold $M$ is affinely connected with its immediate neighborhood, if and only of for every tangent vector $v_{p}$ at $p$, a tangent vector $v_{q}$ at $q$ is determined to which the tangent vector $v_{p}$ gives rise under parallel displacement from $p$ to the infinitesimally neighboring point $q$. This definition merely says that a manifold is affinely connected if it admits the process of infinitesimal parallel displacement of a vector.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔以下列方式定义他所理解的*仿射联络*：流形 $M$ 上的一点 $p$ 与其直接邻域仿射地相联络，当且仅当对于 $p$ 处的每个切向量 $v_{p}$，都存在 $q$ 处的一个切向量 $v_{q}$，$v_{p}$ 在从 $p$ 到无穷邻近点 $q$ 的平行位移下所产生者即此 $v_{q}$。这一定义只是说：一个流形是仿射相联络的，如果它容许向量的无穷小平行位移这一过程。
+    step2: |-
+      外尔对*仿射联络*的界定如下：流形 $M$ 上一点 $p$ 与其直接邻域成仿射联络，当且仅当对 $p$ 处每一向量 $v_{p}$，都有 $q$ 处的一向量 $v_{q}$ 与之相应——后者即 $v_{p}$ 经自 $p$ 至无穷邻近点 $q$ 的平行位移所生者。此定义不过是说：一流形若容许向量的无穷小平行位移，便是仿射联络的。
   - id: 114
     kind: body
     source: |-
       Weyl’s next definition characterizes the *essential nature* of infinitesimal parallel displacement. The definition says that at any arbitrary point of the manifold there exists a *geodesic coordinate system* such that the components of any vector at that point are not altered by an infinitesimal parallel displacement with respect to it. This is a geometrical way of expressing Einstein’s requirement that the gravitational field can always be made to vanish locally. According to Weyl (1923b, 115), it characterizes the *nature* of an affine connection on the manifold. A manifold which is an affine manifold is homogeneous in this sense. Moreover, manifolds do not exist whose affine structure is of a different *nature*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔的下一个定义刻画了无穷小平行位移的*本质*。该定义说：在流形上任一任意点，都存在一个*测地坐标系*，使得该点处任何向量的分量相对于它所作的无穷小平行位移不变。这是表达爱因斯坦那一要求的几何方式：引力场总可以被局部地消去。按照外尔（1923b, 115）的说法，这个定义刻画了流形上仿射联络的*本性*。一个作为仿射流形的流形在此意义上是齐性的。而且，并不存在其仿射结构具有不同*本性*的流形。
+    step2: |-
+      外尔接下来的定义刻画无穷小平行位移之*本质*：在流形之任一任意点，皆存在一个*测地坐标系*，使该点处任何向量的分量相对于它作无穷小平行位移而不变。此乃爱因斯坦“引力场总可局部消去”这一要求之几何表述。据外尔（1923b, 115），该定义刻画了流形上仿射联络之*本性*；作为仿射流形的流形，于此意义上是齐性的。且不存在其仿射结构具别种*本性*的流形。
   - id: 115
     kind: body
     source: |-
       The transport of a tangent vector $v_{p}$ at $p$ to an infinitesimally nearby point $q$ results in the tangent vector $v_{q}$ at $q$, namely,
 
       $$\tag{3} v_{q} = v_{p} + dv_{p}. $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把 $p$ 处的切向量 $v_{p}$ 移动到无穷邻近点 $q$，得到 $q$ 处的切向量 $v_{q}$，即：
+    step2: |-
+      将 $p$ 处切向量 $v_{p}$ 输运至无穷邻近点 $q$，得 $q$ 处切向量 $v_{q}$，即：
+
+      $$\tag{3} v_{q} = v_{p} + dv_{p}. $$
   - id: 116
     kind: body
     source: |-
       This infinitesimal tangent vector transport Weyl defines as *infinitesimal parallel displacement* if and only if there exists a coordinate system $\overline{x}$, called a *geodesic coordinate system* for the neighborhood of $p$, relative to which the transported tangent vector $\overline{v}_{q}$ at $q$ possesses the same components as the original tangent vector $\overline{v}_{p}$ at $p$; that is,
 
       $$\tag{4} \overline{v}^{\,i}_q - \overline{v}^{\,i}_p = d\overline{v}^{\,i}_p = 0. $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔把这一无穷小切向量输运定义为*无穷小平行位移*，当且仅当存在一个坐标系 $\overline{x}$——称为 $p$ 的邻域的*测地坐标系*——相对于它，输运到 $q$ 的切向量 $\overline{v}_{q}$ 与原切向量 $\overline{v}_{p}$ 具有相同的分量；亦即：
+    step2: |-
+      外尔称此种无穷小切向量输运为*无穷小平行位移*，当且仅当存在一坐标系 $\overline{x}$（称为 $p$ 之邻域的*测地坐标系*），相对于它，输运至 $q$ 的切向量 $\overline{v}_{q}$ 与原切向量 $\overline{v}_{p}$（在 $p$ 处）分量相同；亦即：
+
+      $$\tag{4} \overline{v}^{\,i}_q - \overline{v}^{\,i}_p = d\overline{v}^{\,i}_p = 0. $$
   - id: 117
     kind: body
     source: |-
       *Figure 1:*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *图 1：*
+    step2: |-
+      *图 1：*
   - id: 118
     kind: body
     source: |-
       ![figure](../assets/weyl/fig1.png)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![测地坐标系中的平行移动](../yuanwen/assets/weyl/fig1.png)
+    step2: |-
+      ![测地坐标系中的平行移动](../yuanwen/assets/weyl/fig1.png)
   - id: 119
     kind: body
     source: |-
       Figure 1: Parallel transport in a geodesic coordinate system $\overline{x}$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 1：测地坐标系 $\overline{x}$ 中的平行移动
+    step2: |-
+      图 1：测地坐标系 $\overline{x}$ 中的平行移动
   - id: 120
     kind: body
     source: |-
       For an arbitrary coordinate system $x$ the components $dv^{\,i}_p$ vanish whenever $v^{\,i}_p$ or $dx^{\,i}_p$ vanish. Consequently, $dv^{\,i}_p$ is *bi-linear* in $v^{\,i}_p$ and $dx^{\,i}_p$; that is,
 
       $$\tag{5} dv^{\,i}_p = -\Gamma^{\,i}_{jk}(x^i(p))v^{\,i}_p dx^{\,k}_p, $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对于任意坐标系 $x$，只要 $v^{\,i}_p$ 或 $dx^{\,i}_p$ 为零，分量 $dv^{\,i}_p$ 便为零。因此，$dv^{\,i}_p$ 关于 $v^{\,i}_p$ 与 $dx^{\,i}_p$ 是*双线性的*；即：
+    step2: |-
+      就任意坐标系 $x$ 而言，$v^{\,i}_p$ 或 $dx^{\,i}_p$ 一为零，分量 $dv^{\,i}_p$ 便为零。故 $dv^{\,i}_p$ 对 $v^{\,i}_p$ 与 $dx^{\,i}_p$ 是*双线性的*；即：
+
+      $$\tag{5} dv^{\,i}_p = -\Gamma^{\,i}_{jk}(x^i(p))v^{\,i}_p dx^{\,k}_p, $$
   - id: 121
     kind: body
     source: |-
       where, in the case of four dimensions, the $4^{3} = 64$ coefficients $\Gamma^{\,i}_{jk} (x^{i}(p))$ are coordinate functions, that is, functions of $x^{i}(p)$ $(i = 1, \ldots, 4)$, and the minus sign is introduced to agree with convention.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中，在四维情形下，$4^{3} = 64$ 个系数 $\Gamma^{\,i}_{jk} (x^{i}(p))$ 是坐标函数，即 $x^{i}(p)$ 的函数（$i = 1, \ldots, 4$），而负号的引入是为了与约定相一致。
+    step2: |-
+      其中，四维情形下 $4^{3} = 64$ 个系数 $\Gamma^{\,i}_{jk} (x^{i}(p))$ 皆为坐标函数，即 $x^{i}(p)$ 的函数（$i = 1, \ldots, 4$）；负号的引入，是为与约定相合。
   - id: 122
     kind: body
     source: |-
       *Figure 2:*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *图 2：*
+    step2: |-
+      *图 2：*
   - id: 123
     kind: body
     source: |-
       ![figure](../assets/weyl/fig2.png)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![任意坐标系中的平行移动](../yuanwen/assets/weyl/fig2.png)
+    step2: |-
+      ![任意坐标系中的平行移动](../yuanwen/assets/weyl/fig2.png)
   - id: 124
     kind: body
     source: |-
       Figure 2: Parallel transport in an arbitrary coordinate system $x$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 2：任意坐标系 $x$ 中的平行移动
+    step2: |-
+      图 2：任意坐标系 $x$ 中的平行移动
   - id: 125
     kind: body
     source: |-
       It is important to understand that there is no intrinsic notion of infinitesimal parallel displacement on a differentiable manifold. A notion of “parallelism” is not something that a manifold would possess merely by virtue of being a smooth manifold; additional structure has to be introduced which resides on the manifold and which permits the notion of infinitesimal parallelism. A manifold is an “affine manifold” $(M, \Gamma)$ if in addition to its manifold structure (differential topological structure) it is also endowed with an affine structure $\Gamma$ that assigns to each of its points 64 coefficients $\Gamma^{i}_{jk} (x^{i}(p))$ satisfying the symmetry condition $\Gamma^{i}_{jk} (x^{i}(p)) = \Gamma^{i}_{kj} (x^{i}(p))$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      重要的是要理解：在可微流形上并不存在内蕴的无穷小平行位移概念。“平行性”并非流形仅凭其为光滑流形便具有的东西；必须引入附着于流形之上的额外结构，而这种结构才使无穷小平行性的概念成为可能。一个流形是“仿射流形”$(M, \Gamma)$，如果除其流形结构（微分拓扑结构）之外，它还被赋予一个仿射结构 $\Gamma$，后者给它每一点指定 64 个满足对称条件 $\Gamma^{i}_{jk} (x^{i}(p)) = \Gamma^{i}_{kj} (x^{i}(p))$ 的系数 $\Gamma^{i}_{jk} (x^{i}(p))$。
+    step2: |-
+      要紧的是理解：可微流形上并无内蕴的无穷小平行位移概念。“平行性”不是流形仅因其为光滑流形便自然具备之物；须引入栖居于流形之上的额外结构，方使无穷小平行性之说成立。所谓“仿射流形”$(M, \Gamma)$，即除流形结构（微分拓扑结构）之外，另被赋予一仿射结构 $\Gamma$、而后者为其每一点指定 64 个满足对称条件 $\Gamma^{i}_{jk} (x^{i}(p)) = \Gamma^{i}_{kj} (x^{i}(p))$ 的系数 $\Gamma^{i}_{jk} (x^{i}(p))$ 的流形。
   - id: 126
     kind: body
     source: |-
       An $n$-dimensional manifold $M$, which is an affinely connected manifold, Weyl (1918b) interprets physically as an $n$-dimensional world (spacetime) filled with a gravitational field. Weyl says, “…the affine connection appears in physics as the *gravitational field*…” Since there exists at each spacetime point a geodesic coordinate system in which the components $\Gamma^{i}_{jk}$ of the symmetric linear connection vanish, the gravitational field can be made to vanish at each point of the manifold.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个 $n$ 维流形 $M$，若是一个仿射相联络的流形，外尔（1918b）便把它物理地解释为一个充满引力场的 $n$ 维世界（时空）。外尔说：“……仿射联络在物理学中显现为*引力场*……”由于在每一时空点都存在一个使对称线性联络的分量 $\Gamma^{i}_{jk}$ 为零的测地坐标系，引力场便可以在流形的每一点被消去。
+    step2: |-
+      若 $n$ 维流形 $M$ 为仿射联络流形，外尔（1918b）即把它物理地解释为一个充盈引力场的 $n$ 维世界（时空）。他说：“……仿射联络在物理学中以*引力场*的形态出现……”既然每一时空点皆有一个使对称线性联络之分量 $\Gamma^{i}_{jk}$ 消失的测地坐标系，引力场便可在流形之每一点被消去。
   - id: 127
     kind: body
     source: |-
       The *classical theory of physical geometry*, developed by Helmholtz, Poincaré and Hilbert, regarded the concept of “metric congruence” as the only basic relation of geometry, and constructed physical geometry from this one notion alone in terms of the relative positions and displacements of physical congruence standards. Although Einstein’s general theory of relativity championed a *dynamical view of spacetime geometry* that is very different from the *classical theory of physical geometry*, Einstein initially approached the problem of the structure of spacetime from the metrical point of view. It was Weyl (1923b) who emphasized and developed the metric-independent construction of the symmetric linear connection and who pointed out the rationale for doing so. In both the non-relativistic and relativistic contexts, it is the symmetric linear connection, and not the metric, which plays the essential role in the formulation of all physical laws that are expressed in terms of differential equations. It is the symmetric linear connection that relates the state of a system at a spacetime point to the states at neighboring spacetime events and enters into the differentials of the corresponding magnitudes. In both Newtonian physics and the theory of general relativity, all dynamical laws presuppose the projective and affine structure and hence the Law of Inertia. In fact, the whole of tensor analysis with its covariant derivatives is based on the affine concept of infinitesimal *parallel displacement* and *not*on the metric.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由赫尔姆霍兹、庞加莱与希尔伯特发展起来的*物理几何的经典理论*，把“度量全等”概念视为几何的惟一基本关系，并仅凭这一概念、依据物理全等标准的相对位置与位移来构造物理几何。尽管爱因斯坦的广义相对论倡导一种与*物理几何的经典理论*大相径庭的*时空几何的动力学观点*，爱因斯坦最初仍是从度量观点入手处理时空结构问题的。正是外尔（1923b）强调并发展了对称线性联络的度规无关构造，并指出了这样做的理由。无论在非相对论语境还是相对论语境中，在一切以微分方程表述的物理定律的表述中扮演本质角色的都是对称线性联络，而非度规。正是对称线性联络把系统在一个时空点上的状态与相邻时空事件上的状态联系起来，并进入相应量的微分。在牛顿物理学与广义相对论中，一切动力学定律都以射影结构与仿射结构、从而以惯性定律为前提。实际上，整个带有协变导数的张量分析都建立在无穷小*平行位移*这一仿射概念之上，而*不是*建立在度规之上。
+    step2: |-
+      赫尔姆霍兹、庞加莱与希尔伯特所创的*物理几何经典理论*，以“度量全等”为几何惟一的基始关系，仅凭此一概念、依物理全等标准的相对位置与位移来构造物理几何。爱因斯坦的广义相对论虽倡一种与*物理几何经典理论*迥异的*时空几何动力学观*，其最初处理时空结构问题仍取度量视角。正是外尔（1923b）强调并推进了对称线性联络的度规无关构造，且指明其理据。无论非相对论抑或相对论语境，凡以微分方程表述的物理定律，其表述中居本质地位者皆是对称线性联络而非度规：唯它把系统在某一时空点上的状态与相邻时空事件上的状态相联，并进入相应量之微分。牛顿物理学与广义相对论中，一切动力学定律皆以射影结构、仿射结构从而以惯性定律为前提。实则整个带协变导数的张量分析，皆立于无穷小*平行位移*这一仿射概念之上，而*不*立于度规之上。
   - id: 128
     kind: body
     source: |-
       Weyl’s metric independent construction not only led to a deeper understanding of the mathematical characterization of gravity, it also prepared the way for new constructions and generalizations in differential geometry and the general theory of relativity. In particular, it led to
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔的度规无关构造不仅导致对引力之数学刻画的更深入理解，也为微分几何与广义相对论中的新构造与新推广铺平了道路。特别是，它导致了：
+    step2: |-
+      外尔的度规无关构造不仅深化了人们对引力之数学刻画的领会，亦为微分几何与广义相对论中的新构造、新推广开通了道路。尤其它促成了：
   - id: 129
     kind: body
     source: |-
@@ -1058,50 +1096,72 @@ segments:
       2. Weyl’s discovery of the *causal-inertial method* which prepared the way to empirically determine the spacetime metric in a non-circular, non-conventional manner.
       3. Weyl’s generalization of Riemannian geometry in his attempt to unify gravity and electromagnetism.
       4. Weyl’s introduction of the concept of gauge in the context of his attempt to unify gravity and electromagnetism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. *路径几何*的发展，由外尔于 1918 年首次引入。
+      2. 外尔对*因果—惯性方法*的发现，该方法为以非循环、非约定的方式经验地确定时空度规铺平了道路。
+      3. 外尔在其统一引力与电磁力的尝试中对黎曼几何的推广。
+      4. 外尔在其统一引力与电磁力之尝试的语境中对规范（gauge）概念的引入。
+    step2: |-
+      1. *路径几何*的发展——由外尔 1918 年首倡。
+      2. 外尔发现*因果—惯性方法*，由此开辟以非循环、非约定方式经验地测定时空度规之途。
+      3. 外尔在统一引力与电磁力之尝试中对黎曼几何的推广。
+      4. 外尔在统一引力与电磁力之尝试的语境中引入规范（gauge）概念。
   - id: 130
     kind: body
     source: |-
       For more detail on Weyl’s metric independent construction of the affine connection (linear symmetric connection), see [the supplement](weyl.supplement.md).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于外尔对仿射联络（线性对称联络）的度规无关构造的更多细节，见[补充材料](weyl.supplement.md)。
+    step2: |-
+      外尔对仿射联络（线性对称联络）之度规无关构造的进一步细节，见[补充材料](weyl.supplement.md)。
   - id: 131
     kind: body
     source: |-
       #### 4.1.2 Projective Geometry or the Geometry of Paths
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 4.1.2 射影几何或路径几何
+    step2: |-
+      #### 4.1.2 射影几何即路径几何
   - id: 132
     kind: body
     source: |-
       Weyl’s metric-independent construction of the affine structure led to the development of differential *projective* geometries or the *geometries of paths.* The interest in projective geometry is in the *paths*, that is, in the continuous set of points of the *image set of curves*, rather than in the possible parameter descriptions of curves. A curve has one degree of freedom; it depends on one parameter, and its image set or path is a one-dimensional continuous set of points of the manifold. One represents a *curve* on a manifold $M$ as a smooth map (i.e., $C^{\infty})$ $\gamma$ from some open interval $I = (-\varepsilon, \varepsilon)$ of the real line $\mathbb{R}$ into $M$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔对仿射结构的度规无关构造，导致了微分*射影*几何即*路径几何*的发展。射影几何所关注的是*路径*，即*曲线的像集*的连续点集，而非曲线各种可能的参数描述。一条曲线有一个自由度；它依赖于一个参数，其像集或路径是流形的一维连续点集。人们把流形 $M$ 上的*曲线*表示为一个光滑映射（即 $C^{\infty})$ $\gamma$，从实直线 $\mathbb{R}$ 的某个开区间 $I = (-\varepsilon, \varepsilon)$ 映入 $M$。
+    step2: |-
+      外尔对仿射结构的度规无关构造，引出了微分*射影*几何即*路径几何*的发展。射影几何所措意者为*路径*——即*曲线之像集*的连续点集——而非曲线可能的各种参数描述。曲线有一个自由度，依赖于一个参数；其像集或路径，乃是流形上的一维连续点集。流形 $M$ 上的*曲线*被表示为光滑映射（即 $C^{\infty})$ $\gamma$，自实直线 $\mathbb{R}$ 的某开区间 $I = (-\varepsilon, \varepsilon)$ 映入 $M$。
   - id: 133
     kind: body
     source: |-
       *Figure 3:*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *图 3：*
+    step2: |-
+      *图 3：*
   - id: 134
     kind: body
     source: |-
       ![figure](../assets/weyl/fig3.png)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![流形上的曲线](../yuanwen/assets/weyl/fig3.png)
+    step2: |-
+      ![流形上的曲线](../yuanwen/assets/weyl/fig3.png)
   - id: 135
     kind: body
     source: |-
       Figure 3: A curve on the manifold $M$ is the smooth map $\gamma : I \subset \mathbb{R} \rightarrow M$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 3：流形 $M$ 上的曲线即光滑映射 $\gamma : I \subset \mathbb{R} \rightarrow M$
+    step2: |-
+      图 3：流形 $M$ 上的曲线即光滑映射 $\gamma : I \subset \mathbb{R} \rightarrow M$
   - id: 136
     kind: body
     source: |-
       It is important to understand that what one means by a “curve” is the map (the parametric description) itself, and *not* the set of its image points, the path. Consequently, two curves are mathematically considered to be different curves if they are given by different maps (different parameter descriptions), *even if their image set, that is, their path, is the same*. If we change a curve’s parameter description we change the curve but not its image set (its path), the points it passes through. A path is therefore sometimes defined as an equivalence class of curves under arbitrary parameter transformations. Hence, projective geometry may be defined as an equivalence class of affine geometries.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      重要的是要理解：所谓“曲线”意指映射（参数描述）本身，而*不是*其像点的集合即路径。因此，若两条曲线由不同的映射（不同的参数描述）给出，则它们在数学上被视为不同的曲线，*即便它们的像集即路径相同*。如果我们改变一条曲线的参数描述，我们就改变了这条曲线，但不改变其像集（其路径），即它所经过的点。因此，路径有时被定义为曲线在任意参数变换下的等价类。于是，射影几何可以被定义为仿射几何的等价类。
+    step2: |-
+      当留意者：所谓“曲线”，所指为映射（参数描述）本身，而*非*其像点之集即路径。故两条曲线若由不同映射（不同参数描述）给出，数学上便算作不同曲线，*纵使其像集即路径相同*。改变一条曲线的参数描述，改的是曲线，不改其像集（其路径），亦即它所经过的点。职是之故，路径有时被定义为曲线在任意参数变换下的等价类；射影几何遂可定义为仿射几何的等价类。
   - id: 137
     kind: body
     source: |-
