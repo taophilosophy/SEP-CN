@@ -2,7 +2,7 @@
   "slug": "moral-demands-permissions",
   "kind": "retranslate",
   "zh_doc": "m/moral-demands-permissions.md",
-  "state": "s1_checked",
+  "state": "s2_checked",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,13 @@
       "actor": "LMN-main-20261108",
       "at": "2026-11-07T23:19:50Z",
       "evidence": "逐段核销：五维一致 markers 67=67 defs 67=67 段 56=56 节 8=8；相关词条 7 项逐一对 SUMMARY 主行核verified（未落 map_related 歧义坑）；人名正文保持拉丁文；biblio_audit flagged 空；scan_mix 混杂残留 0；OIR 仅建议行与源一致；注记引用形态照录"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LMN-main-20261108",
+      "at": "2026-11-08T00:53:54Z",
+      "evidence": "prose 实修 66 处归零（de-chain 31/长句拆分 23/被字消解 9/弱动词 3，无豁免留痕）；markers/defs 复验无损；check_style 0"
     }
   ],
   "blockers": [],
