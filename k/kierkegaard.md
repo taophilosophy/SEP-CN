@@ -246,6 +246,12 @@ Stewart 后来成为一部巨型丛书的总主编：《克尔凯郭尔研究：
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+
+### A. Primary Literature: Works by Kierkegaard
+#### A.1 Kierkegaard’s Works in Danish
+#### A.2 Kierkegaard’s Works in English
+### B. Selected Secondary Literature and Other Works Referred To
+
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kierkegaard)。
@@ -261,11 +267,6 @@ Stewart 后来成为一部巨型丛书的总主编：《克尔凯郭尔研究：
 本真性 | 基督教传统中的情感 | 存在主义 | 信仰 | 信仰主义 | 格奥尔格·威廉·弗里德里希·黑格尔 | 希望 | 伊曼努尔·康德 | 爱 | 路德的哲学影响 | 西方哲学中的宗教与道德 | 让-保罗·萨特
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
-### A. Primary Literature: Works by Kierkegaard
-#### A.1 Kierkegaard’s Works in Danish
-#### A.2 Kierkegaard’s Works in English
-### B. Selected Secondary Literature and Other Works Referred To
 
 [^kierkegaard’s-nd]: The now definitive critical edition of Kierkegaard’s writings is:
 
