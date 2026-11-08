@@ -2,8 +2,16 @@
   "slug": "ecological-genetics",
   "kind": "retranslate",
   "zh_doc": "e/ecological-genetics.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T20:58:05Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T11:02:49Z",
   "version_pin": {
