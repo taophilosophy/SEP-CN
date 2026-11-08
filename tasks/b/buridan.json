@@ -2,7 +2,7 @@
   "slug": "buridan",
   "kind": "retranslate",
   "zh_doc": "b/buridan.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "B-main-20261108",
       "at": "2026-11-08T08:32:12Z",
       "evidence": "三校（文风学术）：check_style --strict 0 问题；check_math 0 公式无失衡；check_academic --strict 0 硬错误；check_prose 31→13，叙述文残余 0，残余 13 条全为引文块/直引内（S 4.2.6、S 4.3.2 两见、S 5.3.2、S 5.6.8、S 9.8、QM I.2、QM XII.9、QP I.4），按 ADR-0020 豁免留痕"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "B-main-20261108",
+      "at": "2026-11-08T09:24:20Z",
+      "evidence": "一审（回源复核）：57 条内容注全数通读对照源注，拉丁括注/书目照录体例核销；四处同键异译回改册内先登正形（波纳文图拉、因根的马西利乌斯、菲洛波努斯、达西亚的波爱修斯，各与 SUMMARY/done 条目一致）；note-50 因果措辞照源实修（air rushing in behind it to prevent a void）；注内叙述现代学者补登 5 行（Thijssen/Spade/Read/Sylla/Hanke 保留英文 ADR-0022）；五项对账复跑全绿；顺手消解并行会话 D'Alembert 同键重复行（合并行保先登，check_terms 恢复 0 硬错误）"
     }
   ],
   "blockers": [],
