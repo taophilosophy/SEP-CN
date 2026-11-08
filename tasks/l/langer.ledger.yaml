@@ -435,62 +435,82 @@ segments:
     kind: body
     source: |-
       ## 4. *Philosophy in a New Key* (1942)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 《哲学新钥》（1942）
+    step2: |-
+      ## 4 《哲学新钥》（1942）
   - id: 55
     kind: body
     source: |-
       Cassirer’s “masterstroke” was, for Langer, to “emphasize the constitutive character of symbolic renderings in the making of [human] ‘experience’”, transforming neo-Kantianism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对朗格而言，卡西尔的“神来之笔”在于“强调符号化呈现对[人类]‘经验’之构成的建构性特征”，从而把新康德主义
+    step2: |-
+      在朗格看来，卡西尔的“绝妙之笔”，是“强调符号化呈现对[人类]‘经验’之塑造具有建构性”，从而把新康德主义
   - id: 56
     kind: body
     source: |-
       > into an anthropological hypothesis, a key to several linguistic problems, a source of psychological understanding, and a guidepost in the maze of *Geistesgeschichte*. (Langer 1949a: 393)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 转变为一种人类学假说、若干语言问题的钥匙、心理理解的源泉，以及 *精神史* 迷宫中的路标。（Langer 1949a: 393）
+    step2: |-
+      > 转化为一种人类学假说、若干语言学难题的钥匙、心理学理解的源泉，以及 *精神史*（Geistesgeschichte）迷宫中的路标。（Langer 1949a: 393）
   - id: 57
     kind: body
     source: |-
       The first book in English to present Cassirer, PNK generalized Langer’s theory of symbolism in this way, revitalizing his thought. Langer read Cassirer early (1926a: 36, 170) and worked closely with him after his 1941 emigration to the United States. She may be said to have carried out the analysis of art that was to have comprised Cassirer’s unpublished fourth volume of *Philosophy of Symbolic Forms* (1996; Grüny 2024)[^grüny-2024].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      PNK 是第一部以英语介绍卡西尔的书，它以此方式推广了朗格的符号体系理论，使卡西尔的思想重获活力。朗格早年即读过卡西尔（1926a: 36, 170），并在卡西尔 1941 年流亡美国后与其密切合作。可以说，她完成了本应构成卡西尔未刊第四卷《符号形式哲学》（1996; Grüny 2024）[^grüny-2024]的艺术分析。
+    step2: |-
+      PNK 乃首部向英语世界介绍卡西尔之作，它循此路径推广朗格的符号体系理论，令卡西尔思想重焕生机。朗格早年即读卡西尔（1926a: 36, 170），1941 年卡西尔流亡美国后，二人合作紧密。不妨说，她完成了卡西尔未刊《符号形式哲学》第四卷（1996; Grüny 2024）[^grüny-2024]本应包含的艺术分析。
   - id: 58
     kind: body
     source: |-
       Developing her earlier analysis of meaning, Langer distinguishes *discursive* symbolization—i.e., sign-configurations projecting possible ways things may be in the world—from *presentational* symbolization, which “shows” rather than “says”. An artwork symbolizes feeling by presenting a configuration in which forms of feeling are expressed or “virtually” imaged. Presentational symbols exhibit second order communicable “forms” of the arrangements of its elements, and these are not translatable into propositional or discursive contents.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      朗格发展其早期的意义分析，把 *推论性* 符号化——即投射事物在世界上可能如何的记号构型——与 *表现性* 符号化区分开来；后者“显示”而非“言说”。艺术作品通过呈现一种构型来符号化情感，在其中情感的形式得到表达，或被“虚拟地”成像。表现性符号展示其元素排列的二阶可传达“形式”，而这些形式无法转译为命题性或推论性的内容。
+    step2: |-
+      朗格发展早先的意义分析，区分了 *推论性* 符号化——即以记号构型投射事物在世可能状态的符号化——与 *表现性* 符号化：后者“显示”而不“言说”。艺术作品呈现一种构型，情感的形式在其中得到表达或被“虚拟地”成像，由此符号化情感。表现性符号展示其元素排列的二阶可传达“形式”，这些形式不可转译为命题性、推论性的内容。
   - id: 59
     kind: body
     source: |-
       Both discursive and presentational symbolizations are abstractive and generalizing. Following Whitehead (1927), Langer takes symbolic formation to be central to the evolution of art and science, earmarked by a constant “transference” between schemes of “presentational” immediacy (the precise, vivid perception of what is present before us) and “causal efficacy” (the sense of processes outside us). In pre-scientific thought “facts” are taken for granted as they are immediately perceived, re-conceptualized for cognitive and utilitarian ends as cognition develops. Feeling, always entwined with experience and thought, also evolves through its symbolic projections and articulations, issuing into pathology, myth, religion, and art (1924a; 1926a: 108; MEHF I). PNK surveys a great deal of the anthropological, linguistic, psychological and ethological literature of Langer’s time: Wundt, Stumpf, Sapir, de LaGuna, Köhler, Koffka, Piaget, and hundreds of others, framing their origins in the history of Western philosophy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      推论性符号化与表现性符号化都是抽象性的、概括性的。承怀特海（1927），朗格认为符号构形对艺术与科学的演化至关重要，其特征是在“表现性”直接性图式（对眼前之物的精确、鲜明知觉）与“因果效力”（对我们之外过程的感觉）之间不断“转移”。在前科学思维中，“事实”按直接知觉的样子被理所当然地接受；随着认知发展，它们又为认知与实用目的而被重新概念化。情感始终与经验、思想交织，也通过其符号投射与表达而演化，进入病理、神话、宗教与艺术（1924a; 1926a: 108; MEHF I）。PNK 综述了朗格时代大量人类学、语言学、心理学与动物行为学文献：冯特、斯图姆夫、萨丕尔、德拉古纳、柯勒、考夫卡、皮亚杰，以及数百位其他学者，并把他们的起源置于西方哲学史中。
+    step2: |-
+      推论性与表现性符号化皆具抽象与概括性质。承怀特海（1927），朗格认为符号构形对艺术与科学之演化居于核心，其标志是在“表现性”直接性图式（对眼前之物的精确、生动知觉）与“因果效力”（对身外过程之感）之间不断“转移”。在前科学思维中，“事实”依直接知觉而被视为当然；认知发展后，又为认知与实用目的而被重新概念化。情感始终与经验、思想交织，也经由符号投射与表达而演化，最终流为病理、神话、宗教与艺术（1924a; 1926a: 108; MEHF I）。PNK 综述朗格时代大量人类学、语言学、心理学与动物行为学文献——冯特、斯图姆夫、萨丕尔、德拉古纳、柯勒、考夫卡、皮亚杰及数百位其他学者，并将他们的源头置于西方哲学史脉络。
   - id: 60
     kind: body
     source: |-
       Both discursive and presentational symbolization are carried forward in our embodied biology. Jointly their complexity gradually gives rise to the main qualitative difference between human and other animal nature: symbolization in language, culture, morality, and the consciousness of life and death (MEHF I xvii). Animals utilize signs and associations between gestures and emotions; they can intend, feel and expect, but they do not articulate the human symbolic forms of myth, religion, science and art. Langer explores in detail the complex ethology and neurology of animals and humans in order to precisify the points of continuity and discontinuity between plant, animal and human forms of life. In the evolution of humanity, superstition and magic are not demolished by facts, she argues, but outgrown, instantiating a general tendency toward discursive intellectual growth from dreamlike fantasy. This, she holds, explains the growing cultural and political hegemony of science in our time (PNK 270).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      推论性符号化与表现性符号化都在我们具身的生物学中得到推进。二者的复杂性共同逐渐造就了人与其他动物本性之间的主要质的差异：语言、文化、道德以及对生与死的意识中的符号化（MEHF I xvii）。动物利用记号以及手势与情绪之间的联想；它们能够意欲、感受与期待，但并不表达人类的神话、宗教、科学与艺术等符号形式。朗格详尽探讨动物与人类的复杂行为学与神经学，以精确界定植物、动物与人类生命形式之间的连续与断裂之点。她论证说，在人类演化中，迷信与巫术不是被事实摧毁的，而是被超越的，这体现了一种从梦幻幻想走向推论性理智成长的一般倾向。她认为，这解释了科学在我们时代日益增长的文化与政治霸权（PNK 270）。
+    step2: |-
+      推论性与表现性符号化都在我们具身的生物性中延续。二者的复杂化共同逐渐造就人与其他动物本性之间的主要质别：语言、文化、道德以及与生死意识中的符号化（MEHF I xvii）。动物会使用记号，也会在手势与情绪间建立联想；它们能意欲、感受、期待，却不表达人类的神话、宗教、科学与艺术等符号形式。朗格细究动物与人类的复杂行为学、神经学，以厘清植物、动物与人类生命形式之间连续与断裂之处。她主张，在人类演化中，迷信与巫术并非被事实铲除，而是被超越——这体现了一种从梦幻幻想走向推论性理智成长的一般趋势。她认为，这解释了科学在当代日益增长的文化与政治霸权（PNK 270）。
   - id: 61
     kind: body
     source: |-
       Because Langer’s distinctions between sign and symbol, discursive and non-discursive symbolization, and conventional and “formulative” aspects of symbols possess logical, psychological and evolutionary-historical dimensions, her terms cut across the usual notions of “symbol” “sign” “reference”, “denotation” and even “semantics”. For this she was criticized, often with the charge that because Wittgenstein’s “picture theory” had been outdated, her thought was too (Nagel 1943: 325–326; Beardsley 1958 [1981]; Wollheim 1955; compare Budd 1985: VI; Kivy 1989: 49, 61ff.; 2002: 30; see Langer 1957: 126)[^beardsley-1958][^budd-1985][^kivy-1989][^nagel-1943][^wollheim-1955]. Yet Langer’s different starting point—a higher-order modal account of picturing and form, a capacious view of “feeling”, an emphasis on processes, actions, and projective uses of signs and symbols—reflect a distinctive set of interests and ambitions (Dengerink Chaplin 2020: ch. 8; Verhaegh 2022: 231)[^dengerink-2020][^verhaegh-2022][^verhaegh-2022-2].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由于朗格对记号与符号、推论性与非推论性符号化、符号的约定性方面与“构形性”方面的区分兼具逻辑、心理与演化史的维度，她的术语横切通常的“符号”“记号”“指涉”“指称”甚至“语义学”概念。她因此受到批评，常见的指控是：既然维特根斯坦的“图像论”已经过时，她的思想也就过时了（Nagel 1943: 325–326; Beardsley 1958 [1981]; Wollheim 1955; 参 Budd 1985: VI; Kivy 1989: 49, 61ff.; 2002: 30; 见 Langer 1957: 126）[^beardsley-1958][^budd-1985][^kivy-1989][^nagel-1943][^wollheim-1955]。然而，朗格不同的出发点——对图像化与形式的高阶模态说明、对“情感”的宽宏看法，以及对过程、行动和记号与符号之投射用法的强调——反映出一组独特的问题意识与抱负（Dengerink Chaplin 2020: 第 8 章; Verhaegh 2022: 231）[^dengerink-2020][^verhaegh-2022][^verhaegh-2022-2]。
+    step2: |-
+      朗格对记号与符号、推论性与非推论性符号化、符号的约定性与“构形性”方面的区分，兼具逻辑、心理与演化史三重维度，故其术语横切通常的“符号”“记号”“指涉”“指称”乃至“语义学”概念。她因此招致批评，常见的指责是：维特根斯坦的“图像论”既已过时，她的思想自亦过时（Nagel 1943: 325–326; Beardsley 1958 [1981]; Wollheim 1955; 参 Budd 1985: VI; Kivy 1989: 49, 61ff.; 2002: 30; 见 Langer 1957: 126）[^beardsley-1958][^budd-1985][^kivy-1989][^nagel-1943][^wollheim-1955]。然而朗格另辟的起点——关于图像化与形式的高阶模态说明、对“情感”的宽宏理解，以及对过程、行动、记号与符号之投射用法的强调——体现了另一套独特的问题意识与抱负（Dengerink Chaplin 2020: 第 8 章; Verhaegh 2022: 231）[^dengerink-2020][^verhaegh-2022][^verhaegh-2022-2]。
   - id: 62
     kind: body
     source: |-
       Langer reserves the term *symbolism* for discursive language systems, artificial or natural, in which meaning may be compositionally symbolized through a “logical syntax” using step-by-step construction of meaningful wholes through their parts. She commends Carnap (1934) for having scientifically analyzed this notion (PNK 67). But her purpose is to reject this paradigm as a generally adequate theory of symbolic form, expression, and “meaning”. Discursive symbolism is
-    step1: TBD
-    step2: TBD
+    step1: |-
+      朗格把 *符号体系* 一词保留给推论性的语言系统（人工的或自然的），在其中意义可以通过“逻辑句法”、借由由部分逐步构造有意义的整体而组合性地被符号化。她称赞卡尔纳普（1934）对这一概念作了科学分析（PNK 67）。但她的目的是拒绝把这一范式当作关于符号形式、表达与“意义”的普遍充分理论。推论性符号体系
+    step2: |-
+      朗格把 *符号体系* 一语专留给推论性语言系统（人工或自然）：在其中，意义可凭“逻辑句法”、由部分逐步构造整体而组合地符号化。她称许卡尔纳普（1934）对这一概念所作的科学分析（PNK 67）。然而她的用意，是拒绝把该范式奉为关于符号形式、表达与“意义”的普遍充分理论。推论性符号体系
   - id: 63
     kind: body
     source: |-
       > useless for rendering the forms of awareness that are not essentially recognition of facts, … [e.g.] perceptions of our own sensitive reactions to things … and of the fabric of tensions which constitutes the so-called “inner life” of a conscious being,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 无法用来呈现那些本质上并非事实识别的意识形式……[例如]对我们自身对事物的敏感反应的知觉……以及构成一个有意识存在者所谓“内在生活”的张力织体的知觉，
+    step2: |-
+      > 无从呈现那些本质上并非事实认知的意识形式……[例如]对自身对事物的敏感反应的知觉……以及对构成有意识存在者所谓“内在生命”的张力网络之知觉，
   - id: 64
     kind: body
     source: |-
