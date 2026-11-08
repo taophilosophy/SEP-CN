@@ -880,74 +880,122 @@ segments:
     kind: body
     source: |-
       AI is certainly capable of creating machines that can converse effectively in simple ways with human beings. In addition, there are still many other applications that use AI technology. Nearly all of the information technologies we discussed above such as, search, computer games, data mining, malware filtering, robotics, etc., all utilize AI programming techniques. Thus AI will grow to be a primary location for the moral impacts of information technologies. Many governments and professional associations are now developing ethical guidelines and standards to help shape this important technology, one good example is the Global Initiative on the Ethics of Intelligent and Autonomous Systems (IEEE 2018)[^ieee-2018].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      AI 当然有能力造出能与人类进行简单而有效对话的机器。此外，还有许多其他应用在使用 AI 技术。我们上文讨论过的几乎所有信息技术——搜索、电脑游戏、数据挖掘、恶意软件过滤、机器人技术等——都利用 AI 编程技术。因此，AI 将成长为信息技术道德影响的主要场所。许多政府与专业协会正在制定伦理准则与标准，以帮助塑造这项重要技术，一个很好的例子是智能与自主系统伦理全球计划（IEEE 2018）[^ieee-2018]。
+
+    step2: |-
+      AI 自然造得出能与人简单而有效对话的机器。何况用 AI 技术的应用还多得很：上文谈过的信息技术——搜索、电脑游戏、数据挖掘、恶意软件过滤、机器人技术——几乎无一不用 AI 编程技术。所以，AI 终将成为信息技术道德冲击的主战场。许多政府与专业协会正为这项要紧技术拟定伦理准则与标准；一个好例子是智能与自主系统伦理全球计划（IEEE 2018）[^ieee-2018]。
+
   - id: 88
     kind: body
     source: |-
       3.4.2.2 Artificial Life
-    step1: TBD
-    step2: TBD
+    step1: |-
+      3.4.2.2 Artificial Life（人工生命）
+
+    step2: |-
+      3.4.2.2 人工生命
+
   - id: 89
     kind: body
     source: |-
       Artificial Life (ALife) is an outgrowth of AI and refers to the use of information technology to simulate or synthesize life functions. The problem of defining life has been an interest in philosophy since its founding. See the entry on life for a look at the concept of life and its philosophical ramifications. If scientists and technologists were to succeed in discovering the necessary and sufficient conditions for life and then successfully synthesize it in a machine or through synthetic biology, then we would be treading on territory that has a significant moral impact. Mark Bedau has been tracing the philosophical implications of ALife for some time now and argues that there are two distinct forms of ALife and each would thus have different moral effects if and when we succeed in realizing these separate research agendas (Bedau 2004; Bedau and Parke 2009)[^bedau-2004][^bedau-2009][^bedau-2009-2]. One form of ALife is completely computational and is the earliest form of ALife studied. ALife is inspired by the work of the mathematician John von Neumann on self-replicating cellular automata, which von Neumann believed would lead to a computational understanding of biology and the life sciences (1966). The computer scientist Christopher Langton simplified von Neumann’s model greatly and produced a simple cellular automata called “Loops” in the early eighties and helped get the field off the ground by organizing the first few conferences on Artificial Life (1989). Artificial Life programs are quite different from AI programs. Where AI is intent on creating or enhancing intelligence, ALife is content with very simple-minded programs that display life functions rather than intelligence. The primary moral concern here is that these programs are designed to self-reproduce and in that way resemble computer viruses and indeed successful ALife programs could become as malware vectors. The second form of ALife is much more morally charged. This form of ALife is based on manipulating actual biological and biochemical processes in such a way as to produce novel life forms not seen in nature.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人工生命（ALife）是 AI 的一个分支，指利用信息技术来模拟或合成生命功能。定义生命的问题自哲学创立以来就是哲学的兴趣所在。关于生命概念及其哲学牵连，参见“生命”词条。如果科学家与技术专家成功发现生命的充要条件，然后通过机器或合成生物学成功地合成生命，那我们将踏入具有重大道德影响的领域。马克·贝多（Mark Bedau）追踪 ALife 的哲学意涵已有时日，他论证存在两种截然不同的 ALife 形态；当我们真的实现这些各自的研究议程时，每一种都将产生不同的道德效应（Bedau 2004; Bedau and Parke 2009）[^bedau-2004][^bedau-2009][^bedau-2009-2]。一种 ALife 完全是计算性的，也是最早被研究的 ALife 形态。ALife 的灵感来自数学家约翰·冯·诺伊曼（John von Neumann）关于自我复制元胞自动机的工作，冯·诺伊曼相信这类工作将带来对生物学与生命科学的计算性理解（1966）。计算机科学家克里斯托弗·兰顿（Christopher Langton）把冯·诺伊曼的模型大大简化，在八十年代初造出一种名为“圈”（Loops）的简单元胞自动机，并通过组织最初几届人工生命会议（1989）帮助这个领域起步。人工生命程序与 AI 程序颇为不同：AI 一心创造或增强智能，ALife 则满足于展示生命功能而非智能的头脑极简单的程序。这里的首要道德关切是：这类程序被设计为自我复制，因而与计算机病毒相似；事实上，成功的 ALife 程序可能成为恶意软件的载体。第二种 ALife 形态的道德分量重得多：它以操纵真实的生物与生化过程为基础，以产出自然界未见的新型生命形式。
+
+    step2: |-
+      人工生命（ALife）从 AI 中生长出来，指的是用信息技术模拟或合成生命功能。怎么定义生命，自哲学草创起就是哲学的一块心病；生命概念及其哲学牵连，见“生命”词条。倘若科学家与技术专家真找到了生命的充要条件，进而用机器或合成生物学把生命合成出来，那我们就踏进了道德分量极重的一片领地。马克·贝多（Mark Bedau）追索 ALife 的哲学意涵已久；他论证：ALife 有两种判然有别的形态，一旦这些各自的研究议程得偿所愿，其道德效应也将各不相同（Bedau 2004; Bedau and Parke 2009）[^bedau-2004][^bedau-2009][^bedau-2009-2]。头一种 ALife 纯是计算性的，也是最早被研究的形态。它的灵感来自数学家约翰·冯·诺伊曼（John von Neumann）的自我复制元胞自动机之业——冯·诺伊曼相信这条路通向对生物学与生命科学的计算性理解（1966）。计算机科学家克里斯托弗·兰顿（Christopher Langton）把冯·诺伊曼的模型大幅简化，八十年代初做出一种唤作“圈”（Loops）的简单元胞自动机，又操办了头几届人工生命会议（1989），把这个领域扶上马。人工生命程序与 AI 程序大异其趣：AI 一门心思要造智能、增智能；ALife 只求一些头脑简单到极点的程序能显出生命功能——智能则非所问。此地头号的道德关切是：这类程序以自我复制为设计目标，与计算机病毒形貌酷似；事实上，成功的 ALife 程序完全可能沦为恶意软件的载体。第二种 ALife 的道德分量重得多：它建立在摆弄真实的生物与生化过程之上，要造出自然界从未有过的新型生命。
+
   - id: 90
     kind: body
     source: |-
       Scientists at the J. Craig Venter Institute were able to synthesize an artificial bacterium called JCVI-syn1.0 in May of 2010. While the media paid attention to this breakthrough, they tended to focus on the potential ethical and social impacts of the creation of artificial bacteria. Craig Venter himself launched a public relations campaign trying to steer the conversation about issues relating to creating life. This first episode in the synthesis of life gives us a taste of the excitement and controversy that will be generated when more viable and robust artificial protocells are synthesized. The ethical concerns raised by Wet ALife, as this kind of research is called, are more properly the jurisdiction of bioethics (see entry on theory and bioethics). But it does have some concern for us here in that Wet ALife is part of the process of turning theories from the life sciences into information technologies. This will tend to blur the boundaries between bioethics and information ethics. Just as software ALife might lead to dangerous malware, so too might Wet ALife lead to dangerous bacteria or other disease agents. Critics suggest that there are strong moral arguments against pursuing this technology and that we should apply the precautionary principle here which states that if there is any chance of a technology causing catastrophic harm, and there is no scientific consensus suggesting that the harm will not occur, then those who wish to develop that technology or pursue that research must prove it to be harmless first (see Epstein 1980)[^epstein-1980]. Mark Bedau and Mark Traint argue against a too strong adherence to the precautionary principle by suggesting that instead, we should opt for moral courage in pursuing such an important step in human understanding of life (2009). They appeal to the Aristotelian notion of courage, not a headlong and foolhardy rush into the unknown, but a resolute and careful step forward into the possibilities offered by this research.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      J. 克雷格·文特研究所的科学家于 2010 年 5 月成功合成了一种名为 JCVI-syn1.0 的人工细菌。媒体关注这一突破时，多聚焦于人工细菌创造的潜在伦理与社会影响。克雷格·文特本人则发起公关运动，试图引导关于创造生命之议题的讨论方向。这场生命合成的首演，让我们预尝到当更有活力、更强健的人工原始细胞被合成出来时将会激起的热忱与争议。所谓“湿”人工生命（Wet ALife）——这类研究的名称——所引发的伦理关切，其实更应归生物伦理学管辖（参见“理论与生物伦理学”词条）。但它也与我们这里的关切有些牵连，因为湿 ALife 是把生命科学理论转化为信息技术这一进程的一部分。这将趋向于模糊生物伦理学与信息伦理学的边界。正如软件 ALife 可能带来危险的恶意软件，湿 ALife 也可能带来危险的细菌或其他病原体。批评者认为，反对推进这项技术的道德论证相当有力，我们在此应适用预防原则：如果某项技术有可能造成灾难性伤害，而科学上又无共识表明该伤害不会发生，那么想开发该技术或推进该研究的人就必须先证明其无害（见 Epstein 1980）[^epstein-1980]。马克·贝多与马克·特林特（Mark Traint）反对过分死守预防原则，主张我们应改取道德勇气，推进人类理解生命的重要一步（2009）。他们诉诸亚里士多德的勇气概念：不是莽撞冒失地冲向未知，而是坚定而审慎地朝这项研究所展示的可能性迈进一步。
+
+    step2: |-
+      2010 年 5 月，J. 克雷格·文特研究所的科学家合成出一种唤作 JCVI-syn1.0 的人工细菌。媒体蜂拥报道这一突破，着眼的却多半是人工细菌之创造的潜在伦理与社会冲击。克雷格·文特本人则发起公关攻势，想把“创造生命”议题的讨论往自己的方向带。生命合成的这第一幕，让我们先尝了一口滋味：等更有活力、更皮实的人工原始细胞问世之时，热潮与争议只会更烈。这类研究唤作“湿”人工生命（Wet ALife）；它惹起的伦理关切，严格说该归生物伦理学管辖（参见“理论与生物伦理学”词条）。但它与我们此处的关切并非无涉：湿 ALife 恰是“把生命科学理论变成信息技术”这一进程的一环，而这条边界一糊，生物伦理学与信息伦理学的界线也就跟着糊了。软件 ALife 可能养出危险的恶意软件；同样，湿 ALife 也可能养出危险的细菌或其他病原体。批评者说，反对推进这项技术的道德论证相当硬，此处应祭出预防原则：技术若有一丝造成灾难性伤害的可能，而科学界又无共识担保其不会发生，那么想开发它、研究它的人，就必须先证其无害（见 Epstein 1980）[^epstein-1980]。马克·贝多与马克·特林特（Mark Traint）则反对把预防原则守得过死，主张改取道德勇气，迈出人类理解生命的重要一步（2009）。他们求助于亚里士多德的勇气概念：不是一头扎进未知的莽撞，而是朝着这项研究所敞开的种种可能，坚定而小心地向前迈一步。
+
   - id: 91
     kind: body
     source: |-
       #### 3.4.3 Robotics and Moral Values
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 3.4.3 机器人技术与道德价值
+
+    step2: |-
+      #### 3.4.3 机器人技术与道德价值
+
   - id: 92
     kind: body
     source: |-
       Information technologies have not been content to remain confined to virtual worlds and software implementations. These technologies are also interacting directly with us through robotics applications. Robotics is an emerging technology but it has already produced a number of applications that have important moral implications. Technologies such as military robotics, medical robotics, personal robotics, and the world of sex robots are just some of the already existent uses of robotics that impact on and express our moral commitments (see, Anderson and Anderson 2011; Capurro and Nagenborg 2009; Lin et al. 2012, 2017)[^anderson-2011][^capurro-2009][^lin-2012].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      信息技术并不甘于困守虚拟世界与软件实现。这些技术还在通过机器人技术的应用与我们直接互动。机器人技术方兴未艾，但已经催生了一批具有重大道德意涵的应用。军用机器人、医疗机器人、个人机器人，以及性机器人世界，只是机器人技术已然存在的若干用途——它们冲击并表达着我们的道德承诺（见 Anderson and Anderson 2011; Capurro and Nagenborg 2009; Lin 等 2012, 2017）[^anderson-2011][^capurro-2009][^lin-2012]。
+
+    step2: |-
+      信息技术并不甘心困在虚拟世界与软件实现里，它们还借机器人技术的应用同我们直接打交道。机器人技术虽属新兴，却已催生一批道德意涵重大的应用。军用机器人、医疗机器人、个人机器人，乃至性机器人的世界——这些已然存在的用途，正冲击并表达着我们的道德承诺（见 Anderson and Anderson 2011; Capurro and Nagenborg 2009; Lin 等 2012, 2017）[^anderson-2011][^capurro-2009][^lin-2012]。
+
   - id: 93
     kind: body
     source: |-
       There have already been a number of valuable contributions to the growing fields of machine morality and robot ethics (roboethics). For example, in Wallach and Allen’s book *Moral Machines: Teaching Robots Right from Wrong* (2010), the authors present ideas for the design and programming of machines that can functionally reason on moral questions as well as examples from the field of robotics where engineers are trying to create machines that can behave in a morally defensible way. The introduction of semi and fully autonomous machines, (meaning machines that make decisions with little or no human intervention), into public life will not be simple. Towards this end, Wallach (2011) has also contributed to the discussion on the role of philosophy in helping to design public policy on the use and regulation of robotics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在日益壮大的机器道德与机器人伦理（roboethics）领域，已有不少有价值的贡献。例如，瓦拉克与艾伦的《道德机器：教机器人分辨对错》（*Moral Machines: Teaching Robots Right from Wrong*）（2010）一书提出了设计与编程这类机器的构想——它们能在道德问题上做功能性推理——并给出机器人领域的实例：工程师们正试图创造能以道德上可辩护的方式行事的机器。半自主与全自主机器（即几乎或完全无须人类干预便做决定的机器）进入公共生活，不会是简单的事。为此，瓦拉克（2011）还参与了关于哲学在协助设计机器人使用与监管的公共政策中的作用的讨论。
+
+    step2: |-
+      机器道德与机器人伦理（roboethics）这两个领域方兴未艾，已有不少有分量的贡献。比如瓦拉克与艾伦合著的《道德机器：教机器人分辨对错》（*Moral Machines: Teaching Robots Right from Wrong*）（2010）：书中既提出设计与编程之策——造出能在道德问题上作功能性推理的机器——也举出机器人领域的实例：工程师们正设法造出能以道德上立得住脚的方式行事的机器。半自主与全自主机器（即几乎或全然无须人类干预便自行决断的机器）要走进公共生活，绝非易事。为此，瓦拉克（2011）还加了一场讨论：哲学该如何出力，帮着设计机器人使用与监管的公共政策。
+
   - id: 94
     kind: body
     source: |-
       Military robotics has proven to be one of the most ethically charged robotics applications (Lin et al. 2008, 2013, Lin 2010; Strawser, 2013)[^lin-2010][^lin-2008]. Today these machines are largely remotely operated (telerobots) or semi-autonomous, but over time these machines are likely to become more and more autonomous due to the necessities of modern warfare (Singer 2009)[^singer-2009]. In the first decades of war in the 21ˢᵗ century, robotic weaponry has been involved in numerous killings of both soldiers and noncombatants (Plaw 2013)[^plaw-2013], and this fact alone is of deep moral concern. Gerhard Dabringer has conducted numerous interviews with ethicists and technologists regarding the implications of automated warfare (Dabringer 2010)[^dabringer-2010]. Many ethicists are cautious in their acceptance of automated warfare with the provision that the technology is used to enhance ethical conduct in war, for instance by reducing civilian and military casualties or helping warfighters follow International Humanitarian Law and other legal and ethical codes of conduct in war (see Lin et al. 2008, 2013; Sullins 2009b)[^lin-2008][^sullins-2009b], but others have been highly skeptical of the prospects of an ethical autonomous war due to issues like the risk to civilians and the ease in which wars might be declared given that robots will be taking most of the risk (Asaro 2008; Sharkey 2011)[^asaro-2008][^sharkey-2011].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      军用机器人已被证明是道德争议最大的机器人应用之一（Lin 等 2008, 2013, Lin 2010; Strawser, 2013）[^lin-2010][^lin-2008]。如今这类机器大体是遥控的（遥操作机器人）或半自主的；但假以时日，由于现代战争的需要，它们很可能越来越自主（Singer 2009）[^singer-2009]。在 21 世纪战争的最初几十年里，机器人武器已卷入对士兵与非战斗人员的无数次杀戮（Plaw 2013）[^plaw-2013]，仅此一端便足以构成深重的道德关切。格哈德·达布林格（Gerhard Dabringer）就自动化战争的影响访谈过众多伦理学家与技术专家（Dabringer 2010）[^dabringer-2010]。许多伦理学家对自动化战争的接受持谨慎态度，附带的条件是这项技术须用于提升战争中的伦理操守，比如减少平民与军人伤亡，或帮助作战人员遵循国际人道法及战争中的其他法律与伦理规范（见 Lin 等 2008, 2013; Sullins 2009b）[^lin-2008][^sullins-2009b]；另一些人则对合乎伦理的自主战争前景深表怀疑，理由包括平民面临的风险，以及既然机器人将承担大部分风险，宣战可能变得轻而易举（Asaro 2008; Sharkey 2011）[^asaro-2008][^sharkey-2011]。
+
+    step2: |-
+      军用机器人已被证明是道德火药味最浓的机器人应用之一（Lin 等 2008, 2013, Lin 2010; Strawser, 2013）[^lin-2010][^lin-2008]。今日这类机器多为遥控（遥操作机器人）或半自主；但现代战争的需要摆在那里，假以时日，它们多半会越来越自主（Singer 2009）[^singer-2009]。21 世纪开战的头几十年，机器人武器已染指对军人与非战斗人员的无数杀戮（Plaw 2013）[^plaw-2013]；单凭这一件事，道德上的关切就已深重。格哈德·达布林格（Gerhard Dabringer）就自动化战争的影响遍访伦理学家与技术专家（Dabringer 2010）[^dabringer-2010]。许多伦理学家接受自动化战争时小心翼翼，附一条件：这项技术须用来提升战争中的伦理操守——比如减少平民与军人伤亡，或帮作战人员守住国际人道法及战争中的其他法律与伦理规范（见 Lin 等 2008, 2013; Sullins 2009b）[^lin-2008][^sullins-2009b]；另一些人则对“合乎伦理的自主战争”前景大摇其头：平民的风险摆在眼前，更何况机器人把风险都担了，宣战岂不成了轻而易举的事（Asaro 2008; Sharkey 2011）[^asaro-2008][^sharkey-2011]。
+
   - id: 95
     kind: body
     source: |-
       ## 4. Information Technologies of Morality
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 道德的信息技术
+
+    step2: |-
+      ## 4 道德的信息技术
+
   - id: 96
     kind: body
     source: |-
       A key development in the realm of information technologies is that they are not only the object of moral deliberations but they are also beginning to be used as a tool in moral deliberation itself. Since artificial intelligence technologies and applications are a kind of automated problem solvers, and moral deliberations are a kind of problem, it was only a matter of time before automated moral reasoning technologies would emerge. This is still only an emerging technology but it has some very interesting moral implications which will be outlined below. The coming decades are likely to see many advances in this area and ethicists need to pay close attention to these developments as they happen. Susan and Michael Anderson have collected several articles regarding this topic in their book, *Machine Ethics* (2011), and Rocci Luppicini has a section of his anthology devoted to this topic in the *Handbook of Research on Technoethics* (2009).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      信息技术领域的一个关键进展是：它们不仅是道德审议的对象，还开始被用作道德审议本身的工具。人工智能技术与应用是一种自动化的问题求解器，而道德审议也是一种问题；自动道德推理技术的出现，只是时间问题。这仍是一门新兴技术，但它有一些非常有趣的道德意涵，下文将作勾勒。未来几十年，这一领域可能取得许多进展；伦理学家须密切关注这些进展的发生。苏珊·安德森与迈克尔·安德森（Susan and Michael Anderson）在其《机器伦理》（*Machine Ethics*）（2011）一书中汇集了关于这一主题的多篇文章；罗基·卢皮奇尼（Rocci Luppicini）在其《技术伦理学研究手册》（*Handbook of Research on Technoethics*）（2009）文集中也有一节专门讨论这一主题。
+
+    step2: |-
+      信息技术领域的一个关键动向：它们不单是道德审议的对象，还开始被拿来做道德审议本身的工具。人工智能技术与应用是一种自动化解题器，而道德审议也是一种问题——自动道德推理技术的冒头，不过是个时间问题。这仍属新兴技术，却已带着几分很有意思的道德意涵，下文将作勾勒。往后几十年，这一领域多半会步步推进；伦理学家须盯紧这些动向。苏珊·安德森与迈克尔·安德森（Susan and Michael Anderson）把这一主题的若干文章汇成《机器伦理》（*Machine Ethics*）（2011）一书；罗基·卢皮奇尼（Rocci Luppicini）的《技术伦理学研究手册》（*Handbook of Research on Technoethics*）（2009）中也辟有一节，专论此题。
+
   - id: 97
     kind: body
     source: |-
       ### 4.1 Information Technology as a Model for Moral Discovery
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 信息技术作为道德发现的模型
+
+    step2: |-
+      ### 4.1 信息技术作为道德发现的模型
+
   - id: 98
     kind: body
     source: |-
       Patrick Grim has been a longtime proponent of the idea that philosophy should utilize information technologies to automate and illustrate philosophical thought experiments (Grim et al. 1998; Grim 2004)[^grim-2004][^grim-1998]. Peter Danielson (1998) has also written extensively on this subject beginning with his book *Modeling Rationality, Morality, and Evolution* with much of the early research in the computational theory of morality centered on using computer models to elucidate the emergence of cooperation between simple software AI or ALife agents (Sullins 2005)[^sullins-2005].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      帕特里克·格里姆（Patrick Grim）长期主张，哲学应当利用信息技术使哲学思想实验自动化并加以图示（Grim 等 1998; Grim 2004）[^grim-2004][^grim-1998]。彼得·丹尼尔森（Peter Danielson）（1998）对这一主题也有大量著述，始于其《理性、道德与演化的建模》（*Modeling Rationality, Morality, and Evolution*）一书；道德计算理论的早期研究多以计算机模型阐明简单软件 AI 或 ALife 行动者之间合作的涌现（Sullins 2005）[^sullins-2005]。
+
+    step2: |-
+      帕特里克·格里姆（Patrick Grim）多年鼓吹：哲学应当借信息技术让思想实验自动化、可视化（Grim 等 1998; Grim 2004）[^grim-2004][^grim-1998]。彼得·丹尼尔森（Peter Danielson）（1998）就此题也着墨甚多，发端于《理性、道德与演化的建模》（*Modeling Rationality, Morality, and Evolution*）一书；道德的计算理论早期研究，多半围着计算机模型打转——用它们阐明简单软件 AI 或 ALife 行动者之间合作如何涌现（Sullins 2005）[^sullins-2005]。
+
   - id: 99
     kind: body
     source: |-
