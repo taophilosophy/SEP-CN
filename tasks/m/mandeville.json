@@ -2,7 +2,7 @@
   "slug": "mandeville",
   "kind": "retranslate",
   "zh_doc": "m/mandeville.md",
-  "state": "drafted",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,27 @@
       "actor": "M-main-20261108",
       "at": "2026-11-08T04:41:29Z",
       "evidence": "承接 M-main-20261108 已 compose 的账本稿（88/88 段 step2 双版已填，账本 4 批提交 45f82a80/59b4cb28/1f39c840/81bd5542）：lq.py check 守恒 HARD=0（88 段，软提示均为机械段/斜体转书名号正常项）；compose 干跑与工作区成稿逐字符 diff=0（无手改丢失）；italic_to_bold_cjk 转换 0 行（书名一律书名号，无纯中文斜体残留）；成稿 300 行，待 s1 逐段核销；收编工作区遗留成稿润色（2026-11-08 19:12，33 段 step2 同步、1 段 step1 误译修正「bare bones notion」；lq.py check HARD=0，compose 输出与成稿逐字符相等，抽检忠实）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "M-main-20261108",
+      "at": "2026-11-08T13:32:12Z",
+      "evidence": "逐段核销 88/88（61 段叙述正文 + 19 节标题 + 参考文献/学术工具/OIR/致谢机械段），源文 90,621 字符↔成稿 42,555 字符；结构全等：脚注定义 90/90、marker 78/78（uniq 62/62）、27 标题一一对应；年份差 2 经查为 1720s→「18 世纪 20 年代」惯用译法非缺失；相关词条 12/12 与 SUMMARY 标题逐字符一致；H1 与 SUMMARY 行全等。修订 2 处：段63「未受教育的原始人」增译「原始」回源为「未受教育的人」；段75 Smith 译名「史密斯」→「斯密」（对齐 ren-ming-biao Adam Smith 行）。残留外文扫描 0（仅链接行）；biblio_audit 0 flagged（无中国文献，无需 ADR-0011 还原）；lq.py check HARD=0；check_academic --strict OK"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "M-main-20261108",
+      "at": "2026-11-08T13:34:06Z",
+      "evidence": "逐句语言层复核 61 段叙述正文：修订段72「后来读者虽没那么广」→「此后读它的人虽没那么多」（主谓搭配不通），段85 段首「在哈耶克看来」与前句重复→「哈耶克认为」。check_prose 告警 2 条，均系书名《蜜蜂的寓言：或，私人的恶德，公众的利益》内部「蜜蜂的…私人的…公众的」引发的 de-chain 误报（规则无法识别书名），按 ADR-0020 逐条豁免留痕；passive-bei/weak-verb/exists-there/dang-shihou/as-one/plural-men 全 0。修订后 lq.py check HARD=0、compose 已写回"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "M-main-20261108",
+      "at": "2026-11-08T14:34:51Z",
+      "evidence": "体例三校：check_style 0 issue；markdownlint-cli2（.github/.markdownlint.json）m/mandeville.md 0 error（修 OIR 两处列表符号 - → *，MD004，段87）；check_math 0 公式/0 缺失；check_academic --strict OK；脚注定义 90/90、marker 78/78 与源全等；术语抽查自矜/私人的恶德/公利/道德严格主义者与 yi-zhe-shuo-ming 一致，人名抽查亚当·斯密/杰里米·边沁/约翰·梅纳德·凯恩斯/威廉·劳与 ren-ming-biao 一致；H1 与 SUMMARY 行全等；lq.py check HARD=0"
     }
   ],
   "blockers": [],
