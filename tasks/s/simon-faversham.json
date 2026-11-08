@@ -1,0 +1,50 @@
+{
+  "slug": "simon-faversham",
+  "kind": "retranslate",
+  "zh_doc": "s/simon-faversham.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T07:41:40Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "SZ-main-20261108",
+      "at": "2026-11-08T13:15:43Z",
+      "evidence": "初译入库 s/simon-faversham.md：源 5 节全译；账本 tasks/s/simon-faversham.ledger.yaml 85 段（body 70+oir 1+ack 1+note 13）双版齐，lq.py check HARD=0 守恒（脚注键/$/** 全守恒；SOFT：* 计数差为拉丁书名→《》与增补拉丁括注所致；note-9..13 为拉丁原典照录，机械段）；compose 26768 字符→italic_to_bold 2 行；check_style --strict 0、check_math 0 缺失、check_summary H1 0、check_academic --strict 0；map_related 8/8 命中 SUMMARY 定名（吉尔斯/拉杜尔弗斯与登记册异形留痕）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "SZ-main-20261108",
+      "at": "2026-11-08T14:45:17Z",
+      "evidence": "一校（准确性）逐段对照 yuanwen/s/simon-faversham.md：8 节对位（正文 5 节+脚注/References/学术工具/其他网络资源/相关词条/致谢）；脚注引用与定义 13 键全等、无孤立无悬空；文献定义区 59 条照录（现制 refs_kind=modern，转换器契约注记保留）；数字多重集逐段比对 0 差异（年份/问题号 q.4/q.5/q.13/q.20/q.26/q.27/q.49、页码 145/159/160/7–8/9/10–11/13、条目编号 1–15 与 12.1–12.4 全对）；实修 3 处译名漂移——照亮→光照（学界通行）、诸智能→诸理智（intelligentiae 分离实体）、真理决定→真理判定；John Longeway 按 ADR-0022 保留英文形（中西文空格补齐）；源页排印缺陷 1 处留痕：段45 Question 13* 尾悬星号系源页脱字，译文按“第 13 问”处理；note-9..13 拉丁原典照录不译（译文见正文对应引块），可回溯 Ebbesen 2013/Mazarella SF-OL/Sharp 1934 校勘页码"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "SZ-main-20261108",
+      "at": "2026-11-08T14:45:17Z",
+      "evidence": "二校（语言）：check_prose 29 告警→0，19 段实修（step1/step2 双版同步改写，compose 取 step2）——long-sentence 5 处（段1/13/16/30/45 拆句或加分号；段13 把《旧逻辑》括注定义独立成句）、de-chain 19 处（段16 三段论五类排比改分号断链、段36 植物性的/感觉性的/理智性的→植物、感觉与理智三种能力、段53 概念性的或理智性的→存在于概念或理智之中、段68 存在方式（现实的、心灵的）→事物可能如何存在）、passive-bei 4 处（段3 被任命×2→改任/夺走、段16 作为疑念被接受→只算疑念、段31 被概念化→先经概念化、段43 被看见/被思维→得以呈现/进入思维）、weak-verb 1 处（段31 予以支持→来支撑这一点）；复跑 prose/style/math/academic 全绿"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "SZ-main-20261108",
+      "at": "2026-11-08T15:48:18Z",
+      "evidence": "三校（体例）：check_style --strict 0 issue；markdownlint-cli2 0 错误（列表子弹统一星号，151 行核对后仅改正文/文献条目内 3 段 24 行，账本同步）；check_math 0 缺失 0 失衡；check_academic --strict 0 硬错误；check_summary H1 0、别名片段 0；术语登记 28 行入 yi-zhe-shuo-ming（模态主义者/第一二重命名词/逻辑意向/空指称/真理制造者/真理判定/可理解种相/可能理智/诸理智/光照说/疑念/估计/什么性/实体形式/个体化原理/自存/月下存在者/精神质料/esse essentiae/流入/共同感/phantasia经院义/idola/艺学硕士/组合与划分等）；人名登记 5 行（温切尔西尔/John Longeway 保留英文形/希波克拉底/西班牙的彼得/Christina Thomsen Thörnqvist），Simon 行已存；中文强调斜体→粗体 2 行；相关词条 8 项 SUMMARY 定名，吉尔斯/拉杜尔弗斯与登记册异形留痕待治理"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-08T07:41:40Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 15, 2024",
+    "archive_edition": "Winter 2024",
+    "sha256": "25bdd783b68a30347d639c4437b6a44a7d24ff95e6c7f47a1cecae873a35d846"
+  }
+}
