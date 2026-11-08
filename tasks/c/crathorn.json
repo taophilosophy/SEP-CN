@@ -66,6 +66,13 @@
       "actor": "CD-main-20261106",
       "at": "2026-11-06T23:33:54Z",
       "evidence": "done 收口：九步入状态机齐，复审由初译 actor 以外会话执行（ADR-0020 独立性），prose 14→3 逐条留痕；词条 4675 汉字，源 3751 词，30 条脚注定义、参考文献+原始文献（Primary Literature）/译本（Translation）/二手文献（Secondary Literature）小节、学术工具 4 行、其他网络资源、相关词条齐备"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "H-main-20261108",
+      "at": "2026-11-08T13:33:21Z",
+      "evidence": "人名正形补漏（holkot 条目三校引发）：登记册同键异译冲突按先登优先裁定为「罗伯特·霍尔科特」（ren-ming-biao 2026-11-01 行），本条（6 处） 霍尔柯特→霍尔科特 全文替换；check_style --strict 0 issue、check_terms 硬错误 0、check_all 七项全绿。执行会话 H-main-20261108（h 批接管）。"
     }
   ],
   "blockers": [],

@@ -66,6 +66,13 @@
       "actor": "ZCode-N-20261108",
       "at": "2026-11-08T07:30:13Z",
       "evidence": "done：九步齐（clear/draft/s1/s2/s3/r1/r2/r3/done），账本 47 段 step2 全填、守恒 HARD=0；N 批第二条 done（N done 2/50）"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "H-main-20261108",
+      "at": "2026-11-08T13:33:21Z",
+      "evidence": "人名正形补漏（holkot 条目三校引发）：登记册同键异译冲突按先登优先裁定为「罗伯特·霍尔科特」（ren-ming-biao 2026-11-01 行），本条（3 处） 霍尔柯特→霍尔科特 全文替换；check_style --strict 0 issue、check_terms 硬错误 0、check_all 七项全绿。执行会话 H-main-20261108（h 批接管）。"
     }
   ],
   "blockers": [],
