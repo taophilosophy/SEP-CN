@@ -2,7 +2,7 @@
   "slug": "bayes-theorem",
   "kind": "retranslate",
   "zh_doc": "b/bayes-theorem.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "?",
       "at": "2026-11-04T22:07:22Z",
       "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 10 豁免留痕见 s2；人名 9 条登记（贝叶斯/哈金/罗亚尔/索伯/戈德曼/格利穆尔/马赫/菲特尔森/莱维）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T08:18:43Z",
+      "evidence": "独立初审（Wave 0 词条）：全文回读 4 节 + 16 条内容注 + 54 条书目，逐式对照 yuanwen；实修三类硬缺陷：①**H/H* 双假说符号系统性丢失**（源文 *H** 斜体+字面星，译文全成同符号 H，公式自乘无意义）——(2.1)/(2.1d)/(2.1e)/(2.3)/(1.4-1.6)/(3.3)-(3.7)/表1-7/Royall 引块共 31 处，统一采用 prime 形 *H*′（与 *E*′ 并列），其中 Royall 引块 H**/H*** 三级区分复原；②英文残留 5 处译出（conditioning on→取条件 2 处、integral→不可或缺、modest→温和、collectively→共同）；③括号事故 1 处（P(*E*)) 多余右括号）与 note 区粗体 P 记法归一为正体（与正文一致）；另 H1 撇号改 U+02BC（curly-quotes 门禁）并联动 SUMMARY/mu-lu-s 双索引；四检：style 0／academic 无硬错误／math unbalanced 0／prose 11 条全豁免（8 de-chain 证据术语链、2 长句源文等长、1 被动自然）；人名登记（Joyce 按 ADR-0022 保留英文）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T08:18:43Z",
+      "evidence": "独立复审：r1 断言通过（H′ 77 处、残留词零）；五维守恒：defs 54:54、marker 多重集、C1 段落 OK、年份序列差异＝『1660 万』数字被误读为年份（假阳性）；BLOCK 128:122 差 6＝表格行拆分+译注行；ital token 差随 prime 化归一（斜体配对减少）；check_all 七项全绿"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T08:18:46Z",
+      "evidence": "终审：数学公式与源文逐式对应（含 H′/E′ 全文一致性）；check_all 全绿（2026-11-08）；r2 无新增问题"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T08:18:46Z",
+      "evidence": "收口：置 done；凭证链 s3=初译会话、r1–done=R-main-20261108；提交见 git log"
     }
   ],
   "blockers": [],
