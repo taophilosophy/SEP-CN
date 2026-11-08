@@ -927,124 +927,168 @@ segments:
     kind: body
     source: |-
       Furthermore, although people might disagree about the permissibility of boiling lobsters alive, we may assume that they agree that pain is a bad thing, and the infliction of undeserved pain is *prima facie* wrong. If this assumption is correct, then the disputants agree about the moral facts here. They disagree only about the empirical, non-moral facts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，尽管人们可能就“活煮龙虾是否可许可”存在分歧，我们可以假定他们都同意痛苦是坏事，而施加不应得的痛苦*初显*上是错的。如果这一假定正确，那么争论者在此处的道德事实上是一致的。他们只是在经验性的、非道德的事实上有分歧。
+    step2: |-
+      再者，尽管人们之于“活煮龙虾是否可许可”或有分歧，但可以假定他们都同意：痛苦是坏事，施加不应得之苦*初显*为错。若此假定成立，则争论者在道德事实上其实一致，分歧只在经验的、非道德的事实。
   - id: 112
     kind: body
     source: |-
       Another factor that might explain moral disagreement is disagreement about the strength of certain moral reasons. Many disputants might agree about the non-moral facts, and about what is morally relevant, but disagree about the weight that should be given to the different moral considerations. So, for example, two people might disagree about whether they ought to push a large man onto the rail tracks to derail a trolley that would otherwise kill five people, but this is quite consistent with them agreeing that the fact that this act would save five people counts in favour of pushing the man off the bridge, and that the fact that he would die if this were done counts against doing it. In such a case there is agreement about what is relevant, and how it is relevant, but disagreement about the weight of the competing moral considerations—one person regards the evil of killing one person as weightier than the good of saving five, while the other regards the evil of killing one as outweighed by the good of saving the five. There is still moral disagreement here, but it is simply a difference in judgement about the application of agreed moral principles.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一个可能解释道德分歧的因素，是关于某些道德理由之强度的分歧。许多争论者可能就非道德事实、以及什么具有道德相关性达成一致，但对于不同道德考量应被赋予多大权重存在分歧。例如，两个人可能就“是否应当把一个大个子推上铁轨、使一辆本会杀死五人的电车脱轨”存在分歧，但这与他们同时都同意以下两点完全相容：这一行为会救五个人，这一事实支持把那人推下桥；若这样做那人会死，这一事实反对这样做。在此情形中，关于什么相关、如何相关是一致的，分歧在于相互竞争的道德考量的权重——一个人认为杀死一人的恶重于救五人的善，另一个人则认为杀死一人的恶被救五人的善所压倒。这里仍有道德分歧，但它只是关于如何应用已获共识的道德原则的判断差异。
+    step2: |-
+      另一可能解释道德分歧的因素，是对某些道德理由之强度的分歧。争论者或就非道德事实与道德相关性达成一致，却对各项道德考量应有的权重意见相左。例如，两人之于“是否该把一名大个子推下桥、以使其躯体让失控电车脱轨而救下五人”意见相左；这完全可以与他们同意的两点并存：此举动会救五人，这一事实支持推人之举；被推者会因此丧命，这一事实反对之。此类情形中，关于何者相关、如何相关已有共识，分歧只在相互竞逐的道德考量之权重——甲以为杀一之恶重于救五之善，乙以为杀一之恶为救五之善所压倒。此处道德分歧依旧，但只是对已获共识之原则如何应用的判断差异。
   - id: 113
     kind: body
     source: |-
       This fits with the intuitionist view held, e.g., by Ross, that causing good outcomes is *prima facie* right, and that causing harm is *prima facie* wrong, for Ross held that both of these propositions are self-evident. He denied, however, that the stringency, or weight, of these different *prima facie* duties is self-evident (1939: 188).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这与例如罗斯所持的直觉主义观点相符：造成善的结果*初显*上是正当的，造成伤害*初显*上是错的，因为罗斯认为这两个命题都是自明的。然而他否认，这些不同的*初显*义务的严格性即权重是自明的（1939: 188）。
+    step2: |-
+      这契合于罗斯等人的直觉主义立场：造成善果*初显*为正当，造成伤害*初显*为错误——罗斯以为二者皆自明。但他否认这些不同*初显*义务的严格性（即权重）也是自明的（1939: 188）。
   - id: 114
     kind: body
     source: |-
       So far we have only discussed disagreement that concerns self-evident propositions. Turning to the idea that intuitions are seemings, one question is the extent to which different people have different intuitive seemings when considering the same proposition or case. It is worth emphasizing here that disagreement in moral judgment does not imply that people have different intuitive seemings. Two people could start with the same intuitions on cases. Reflection and lots of other influences could lead one to embrace consequentialism and the other to embrace deontology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      到目前为止，我们只讨论了关涉自明命题的分歧。转向“直觉是显似”这一想法，一个问题便是：不同的人在考虑同一命题或事例时，其直觉性显似在多大程度上不同。这里值得强调：道德判断上的分歧并不蕴含人们有不同的直觉性显似。两个人可以从对事例的相同直觉出发，反思以及许多其他影响可能使一个人接受后果论，另一个人接受义务论。
+    step2: |-
+      以上只论及围绕自明命题的分歧。若转取“直觉即显似”之说，则有一问：面对同一命题或事例，不同人的直觉性显似究竟差异几何？须强调：道德判断的分歧并不蕴含直觉性显似之分殊。两人可由相同的事例直觉出发，经反思及其他种种影响，一人归向后果论，一人归向义务论。
   - id: 115
     kind: body
     source: |-
       Still, Michael Huemer (2008) has claimed that some ethical intuitions are not shared, and he suggests this is due to a number of reasons: that they have been influenced by one’s culture, that they have been influenced by evolutionary pressures, that they sometimes support theories that promote one’s self- interests, that they sometimes line up with strong emotion, and that the abstract ones are prone to an overgeneralization bias. On these grounds he is inclined to place more trust in formal intuitions, like the intuition that if *a* is better than *b* and *b* is better than *c*, then *a* is better than *c* (the transitivity of value), for he thinks such intuitions are less susceptible to the distorting influences.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管如此，Michael Huemer（2008）声称某些伦理直觉并不共享，并提出这有几个原因：它们受到一个人文化的影响；受到进化压力的影响；它们有时支持促进自身利益的理论；它们有时与强烈情感相合；而抽象直觉易犯过度概括的偏差。基于这些理由，他倾向于更信任形式直觉，例如“若*a*优于*b*且*b*优于*c*，则*a*优于*c*”（价值的传递性）这一直觉，因为他认为这类直觉较少受扭曲性影响。
+    step2: |-
+      尽管如此，Michael Huemer（2008）主张某些伦理直觉并非人人共有，并归因于数端：受文化熏染；受进化压力塑造；有时支撑合乎自身利益的理论；有时与强烈情感相合；抽象直觉则易陷过度概括之偏。据此他更愿信任形式直觉——如“若*a*优于*b*、*b*优于*c*，则*a*优于*c*”（价值传递性）——因为这类直觉较少受扭曲因素侵扰。
   - id: 116
     kind: body
     source: |-
       Stich and Machery (2023) have compiled a helpful chart of some experiments that purport to find differences in intuitions that correlate with various demographic categories (e.g., religion, age, gender, social class, etc.). To evaluate the significance of the experiments, first note that it is difficult to experimentally measure what intuitions people have. They can self-report, but it is not clear the extent to which reports tap into intuitions as opposed to beliefs or other mental states that are not intuitions *per se* (Bengson 2013)[^bengson-2013]. As lately noted, it is easy for there to be a mismatch between our intuitions and our judgments. Indeed, it is often quite reasonable to fail to believe what one finds intuitive, just as it is often reasonable to fail to believe what perceptually seems to be the case. Consider someone who is familiar with the Müller-Lyer illusion, where one line can look longer than another, but one reasonably believes it is not longer. Similarly, it is plausible to suppose that many act consequentialists still have the intuition that it is wrong to harvest organs from a healthy but non-consenting donor to save five other lives. But because they have persuaded themselves of the truth of act consequentialism, they would not believe this act is wrong.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Stich 与 Machery（2023）编制了一份有用的图表，收录了一些实验，这些实验据称发现了与各种人口学类别（如宗教、年龄、性别、社会阶层等）相关的直觉差异。要评估这些实验的意义，首先应注意：用实验测量人们拥有什么直觉是困难的。他们可以自我报告，但不清楚这些报告在多大程度上触及直觉，而不是触及信念或其他本身并非直觉的心理状态（Bengson 2013）[^bengson-2013]。如最近所指出的，我们的直觉与判断之间很容易出现不一致。确实，不相信自己觉得直观的东西，常常相当合理，正如不相信知觉上显得如此的东西常常合理。设想一个熟悉缪勒—莱耶错觉的人：一条线看起来比另一条长，但他有理由相信它并不更长。类似地，可以合理设想：许多行为后果论者仍然有“从一个健康但未同意的捐赠者身上摘取器官以救另外五人是不对的”这一直觉；但由于他们已说服自己相信行为后果论为真，他们不会相信这一行为是错的。
+    step2: |-
+      Stich 与 Machery（2023）整理了一张有用的图表，收录若干据称发现“直觉差异与各类人口学特征（宗教、年龄、性别、社会阶层等）相关”的实验。评估其意义，先须注意：以实验测量人们的直觉本非易事。被试可以自我报告，但报告在多大程度上触及直觉、抑或只是触及信念及其他本身并非直觉的心理状态，尚不清楚（Bengson 2013）[^bengson-2013]。如前所述，直觉与判断之间极易错位：不相信自己觉得直观之物，往往相当合理，正如不相信知觉上显得如此之物往往合理。熟悉缪勒—莱耶错觉者，见一线段显得长于另一线段，却有理由相信它并不更长。同理，许多行为后果论者或仍有“从健康而未同意的捐赠者身上摘取器官以救另外五人是不对的”这一直觉；但因已确信行为后果论为真，他们并不相信此行为为错。
   - id: 117
     kind: body
     source: |-
       Be that as it may, suppose there are demographic differences in what people find intuitive. Though it is commonly supposed that this somehow undermines the epistemic role of intuitions, nothing here undermines the basic idea that intuitions provide pro-tanto, *defeasible* justification for believing that which is intuitive. Whether inter-personal differences in intuitions provide a defeater is another question. Sinnott-Armstrong suggests that relying on intuitions that vary between persons is akin to reliance on the reading of one random thermometer in a box of one hundred thermometers, some portion of which are known to be unreliable (2006b: 201). Bedke (2013) argues that this overstates the case. Drawing an analogy with cases where others report *perceptual* seemings that differ from your own, it is not always the case that reported differences in seemings defeat the justification provided by one’s seeming states.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即便如此，假设人们在觉得什么直观上确有人口学差异。虽然人们常设想这在某种意义上削弱了直觉的认识论作用，但此处没有任何东西削弱这一基本想法：直觉为相信直观之物提供 pro-tanto 的、*可废止的*证成。人际间的直觉差异是否提供废止因素，是另一个问题。Sinnott-Armstrong 提出，依赖人与人之间会变化的直觉，类似于依赖一百支温度计中的一支随机温度计的读数，而其中一部分已知不可靠（2006b: 201）。Bedke（2013）论证说，这夸大了实情。以他人报告的*知觉*显似与你自己的不同这类情形作类比：他人报告的显似差异并不总是废止你自己的显似状态所提供的证成。
+    step2: |-
+      退一步说，姑且承认人们在“觉得什么直观”上确有人口学差异。人们常以为这会削弱直觉的认识论作用，但此处并无任何东西动摇这一基本想法：直觉为相信直观之物提供 pro tanto 的、*可废止的*证成。人际直觉差异是否构成废止因素，另当别论。Sinnott-Armstrong 谓，倚重人各不同的直觉，犹如在一百支温度计中随手取一支读数，而其中一部分已知不可靠（2006b: 201）。Bedke（2013）则以为此言过甚：以他人所报告的*知觉*显似与你相异的情形相类比，显似上的差异并不总能废止你自己的显似状态所提供的证成。
   - id: 118
     kind: body
     source: |-
       Some of this literature taps into the broader issue of peer disagreement, where the rough idea is that not any kind of disagreement undermines your justification, but disagreement with an epistemic peer could. It is not always clear that differences in intuitive seemings are differences among peers, and indeed the very fact that another does not share your intuitions might be some evidence that they are not a peer (Audi 2008: 490; Enoch 2010: 979–981)[^audi-2008][^enoch-2010].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这部分文献触及了更广泛的同侪分歧问题：其大意是，并非任何分歧都会削弱你的证成，但与认识论同侪的分歧则可能。直觉性显似的差异是否属于同侪之间的差异，并不总是清楚；事实上，他人不共享你的直觉这一事实本身，也许就是他们并非同侪的某种证据（Audi 2008: 490; Enoch 2010: 979–981）[^audi-2008][^enoch-2010]。
+    step2: |-
+      这类文献牵涉更广的“同侪分歧”问题：大意为，并非任何分歧都削弱你的证成，但与认识论同侪的分歧则可能如此。直觉性显似之差异是否属同侪间差异，往往并不清楚；而且，他人不共享你的直觉这一事实本身，或许恰是他们非同侪的证据（Audi 2008: 490; Enoch 2010: 979–981）[^audi-2008][^enoch-2010]。
   - id: 119
     kind: body
     source: |-
       ### 7.2 Framing and Ordering Effects
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.2 框架效应与顺序效应
+    step2: |-
+      ### 7.2 框架效应与顺序效应
   - id: 120
     kind: body
     source: |-
       Consider the following three cases:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      请考虑以下三个事例：
+    step2: |-
+      试看以下三例：
   - id: 121
     kind: body
     source: |-
       - **Switch:** there are five people on the rail track, and an out of control trolley that will kill all five of them. There is a lever that would divert the trolley onto a different track. But there is a single person on that track who would be killed if you pull the lever and divert the trolley.
       - **Bridge:** there are five people on the rail track, and an out of control trolley that will kill all five of them. There is a large man standing on the bridge over the track. If you pushed him off the bridge onto the track, he would be killed. But he would derail the trolley and so the five people on the track would be saved.
       - **Trap door:** there are five people on the rail track, and an out of control trolley that will kill all five of them. There is a man standing on the bridge over the track. If he fell onto the track he would be killed, but would derail the trolley thus saving the five people on the track. He is standing on a trap door that would open and drop him onto the track if you pulled a lever.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - **扳道**：铁轨上有五个人，一辆失控的电车将杀死他们全部。有一个拉杆，可把电车引向另一条轨道。但那条轨道上有一个人，如果你拉动拉杆把电车引过去，这个人就会被杀死。
+      - **天桥**：铁轨上有五个人，一辆失控的电车将杀死他们全部。天桥上站着一个大个子。如果你把他从天桥上推下去、落到轨道上，他会被杀死；但他会使电车脱轨，从而救下轨道上的五个人。
+      - **活板门**：铁轨上有五个人，一辆失控的电车将杀死他们全部。天桥上站着一个男人。如果他落到轨道上，他会被杀死，但会使电车脱轨，从而救下轨道上的五个人。他站在一个活板门上，只要你拉动拉杆，活板门就会打开、把他落到轨道上。
+    step2: |-
+      - **扳道**：铁轨上有五人，一辆失控电车将把他们尽数碾死。身旁有一拉杆，可将电车引向另一股道。但那股道上有一人，若你拉杆引车，他必死。
+      - **天桥**：铁轨上有五人，一辆失控电车将把他们尽数碾死。天桥上立着一名大个子。若你把他推下桥、落到轨道上，他会死；但电车将因此脱轨，轨道上的五人得救。
+      - **活板门**：铁轨上有五人，一辆失控电车将把他们尽数碾死。天桥上立着一名男子。他若坠到轨道上便会死，却能令电车脱轨，救下五人。他正站在一扇活板门上，只要你拉杆，活板门便开，他随即坠轨。
   - id: 122
     kind: body
     source: |-
       People tend to say that they should pull the lever in Switch, but that they ought not to push the man off the bridge in Bridge. Bridge looks similar to Switch in that you would be killing one person to save five. So why the different intuitions? One could try to explain away these apparently conflicting intuitions by providing principles that identify the morally relevant differences between the cases. That is grist for the deontologist’s mill.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们往往说，在“扳道”中他们应当拉杆，而在“天桥”中他们不应当把那个人推下桥。“天桥”在“杀死一人以救五人”这一点上与“扳道”相似。那么，何以直觉不同？人们可以试图用一些原则来化解这些表面上冲突的直觉，这些原则能辨认出各事例之间道德上相关的差异。这正是义务论者所乐用的材料。
+    step2: |-
+      人们往往说：“扳道”中应当拉杆，“天桥”中却不该把人推下桥。两者同为“杀一救五”，何以直觉相异？化解之道，是提出原则，指明诸事例间道德上相关的差异——这正是义务论者磨坊里的谷料。
   - id: 123
     kind: body
     source: |-
       It would be troubling if the intuitions on these cases were not stable, and particularly if they could be pushed around by morally irrelevant influences. One does not want to base one’s beliefs on unreliable intuitions. Some experiments have tried to address the issue. In Petrinovich and O’Neill (1996) participants were given trolley-type cases where the framing of the case was manipulated. If given an option couched in terms of “kill” wording (e.g., “to throw the switch which will result in the death of the one innocent person”), participants on average disagree slightly with the action, whereas if given an option in terms of “save” wording (e.g., “to throw the switch which will result in the five innocent people on the main track being saved”), subjects on average slightly agree with the action.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果对这些事例的直觉并不稳定，尤其是如果它们能被道德上无关的影响所左右，那将是令人不安的。人们不希望把自己的信念建立在不可靠的直觉上。一些实验试图处理这一问题。在 Petrinovich 与 O'Neill（1996）中，被试得到电车式事例，其中事例的表述方式被操纵。如果给出的选项用“杀死”措辞表达（例如“扳动拉杆，结果将导致那名无辜者死亡”），被试平均而言对该行为略有不同意；而如果给出的选项用“拯救”措辞表达（例如“扳动拉杆，结果将是主轨道上的五名无辜者获救”），被试平均而言对该行为略有同意。
+    step2: |-
+      倘若这些事例上的直觉并不稳定，尤其可被道德上无关的因素所左右，那就令人不安了——谁都不愿把信念建立在不可靠的直觉上。已有实验试图处理此点。Petrinovich 与 O'Neill（1996）让被试面对表述被操纵的电车式事例：若选项以“杀死”措辞给出（如“扳动拉杆，将导致那名无辜者死亡”），被试平均略表不同意；若以“拯救”措辞给出（如“扳动拉杆，主轨道上五名无辜者将获救”），被试平均略表同意。
   - id: 124
     kind: body
     source: |-
       That same paper reported other studies that showed ordering effects. Subjects were asked to indicate their approval of actions (described in terms of saving) in three trolley-type questions given in sequence. One set of subjects got the questions in one sequence, and another set of subjects got the same questions in reverse sequence. On average, subjects more strongly approved of an action when it appeared first in the sequence than when it appeared last, and the degree of approval for the middle case varied depending on which of the other two trolley-type cases came first.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      同一篇论文还报告了显示顺序效应的其他研究。被试被要求就按顺序给出的三个电车式问题表明对行为（以拯救措辞描述）的赞成程度。一组被试按一种顺序得到问题，另一组被试按相反顺序得到同样的问题。平均而言，被试对在序列中最先出现的行为的赞许强于最后出现的行为；而对中间事例的赞许程度则取决于另外两个电车式事例中哪一个先出现。
+    step2: |-
+      该文还报告了显示顺序效应的其他研究：被试须就依次给出的三个电车式问题表明对某行为（以“拯救”措辞描述）的赞许。一组按正序作答，另一组按逆序作答。平均而言，行为列于首位时的赞许强于列于末位时；中间事例的赞许程度，则视另两个电车式事例中何者先出而定。
   - id: 125
     kind: body
     source: |-
       From framing effects like these, Sinnott-Armstrong argues that it is reasonable to “assign a large probability of error to moral intuitions in general” (Sinnott-Armstrong 2008: 99)[^sinnott-armstrong-2008]. For him, any given moral intuition must be shown to be immune from such effects before it can be justified.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从这类框架效应出发，Sinnott-Armstrong 论证说，有理由“赋予一般意义上的道德直觉以很大的出错概率”（Sinnott-Armstrong 2008: 99）[^sinnott-armstrong-2008]。对他而言，任何特定的道德直觉都必须被表明不受这类效应影响，才能获得证成。
+    step2: |-
+      由这类框架效应，Sinnott-Armstrong 论证：有理由“对一般意义上的道德直觉赋予很高的出错概率”（Sinnott-Armstrong 2008: 99）[^sinnott-armstrong-2008]。在他看来，任一道德直觉都须先证明不受此类效应影响，方可获得证成。
   - id: 126
     kind: body
     source: |-
       But it is not clear that this is the conclusion to draw. For one, it is not clear these experiments tapped intuitions. The studies ask participants to register their *approval of action* rather than to classify actions under moral categories (e.g., impermissible, permissible). So it is not clear that the findings reflect the apparent truth of moral propositions. This is a difficult problem to overcome. Other studies have asked for people’s *judgments* about what is obligatory or permissible on hypothetical cases (Tobia, Buckwalter & Stich 2013; Schwitzgebel & Cushman 2012; Lombrozo 2009)[^lombrozo-2009][^schwitzgebel-2012], but as we noted above people’s judgments do not necessarily reflect their intuitions. Still, it might be that judgments show order effects for both philosophers and non-philosophers (Schwitzgebel & Cushman 2012; see also Lombrozo 2009)[^lombrozo-2009][^schwitzgebel-2012]. Tobia, Buckwalter & Stich (2013) reported an “actor-observer” bias for both philosophers and non-philosophers, where judgments differ depending on whether the experimental participant or some other party is cast as the actor (e.g., the one considering slipping the switch). But there are two other studies where that failed to replicate (Tobia, Chapman, & Stich 2013; Horvath & Wiegmann 2022)[^horvath-2022]. For a recent set of studies showing some framing effects and biases among philosophers and non-philosophers see Horvath and Wiegmann (2022).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但这是否就是应当得出的结论，并不清楚。首先，不清楚这些实验是否触及了直觉。研究要求被试登记其*对行为的赞许*，而不是把行为归入道德范畴（如不可许可、可许可）。因此，不清楚这些发现是否反映了道德命题的表面真理。这是一个难以克服的问题。其他研究询问人们对假设事例中何为义务性或可许可的*判断*（Tobia, Buckwalter & Stich 2013; Schwitzgebel & Cushman 2012; Lombrozo 2009）[^lombrozo-2009][^schwitzgebel-2012]，但如上所述，人们的判断未必反映其直觉。不过，哲学家与非哲学家的判断可能都显示出顺序效应（Schwitzgebel & Cushman 2012; 另见 Lombrozo 2009）[^lombrozo-2009][^schwitzgebel-2012]。Tobia、Buckwalter 与 Stich（2013）报告了哲学家与非哲学家都存在的“行动者—观察者”偏差：判断因实验被试还是其他方被设定为行动者（例如考虑扳动拉杆者）而不同。但另有两项研究未能重复该结果（Tobia, Chapman, & Stich 2013; Horvath & Wiegmann 2022）[^horvath-2022]。关于近来一组显示哲学家与非哲学家存在某些框架效应与偏差的研究，见 Horvath 与 Wiegmann（2022）。
+    step2: |-
+      但这是否即为应有结论，尚不清楚。其一，这些实验是否触及直觉，尚存疑问：研究要求被试登记对行为的*赞许*，而非把行为归入道德范畴（如不可许可／可许可），故其发现未必反映道德命题的表面之真。此难点不易克服。另有研究询问人们对假设事例中何者属义务、何者可许可的*判断*（Tobia, Buckwalter & Stich 2013; Schwitzgebel & Cushman 2012; Lombrozo 2009）[^lombrozo-2009][^schwitzgebel-2012]；然如前所述，判断未必反映直觉。不过，哲学家与非哲学家的判断或同样显示顺序效应（Schwitzgebel & Cushman 2012; 另见 Lombrozo 2009）[^lombrozo-2009][^schwitzgebel-2012]。Tobia、Buckwalter 与 Stich（2013）报告了哲学家与非哲学家共有的“行动者—观察者”偏差：判断因“行动者”被设定为被试本人还是他人（如扳杆者）而不同。但另有两项研究未能重复此结果（Tobia, Chapman, & Stich 2013; Horvath & Wiegmann 2022）[^horvath-2022]。关于晚近显示哲学家与非哲学家存在框架效应与偏差的一组研究，见 Horvath 与 Wiegmann（2022）。
   - id: 127
     kind: body
     source: |-
       Second, it is worth noting that in some of these studies what is measured is the degree to which participants agree with certain claims, or the degree to which certain actions are bad or good. Statistically significant differences in such things is not necessarily a signal of the unreliability of the judgment. One could reliably approve or reliably judge something good, but unreliably approve to the same degree, or say it is good to the same degree, across morally irrelevant manipulations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二，值得注意的是，在这些研究中的某些里，所测量的是被试对某些主张的同意程度，或某些行为坏或好的程度。这类东西上的统计显著差异，未必是判断不可靠的信号。一个人可以可靠地赞许、或可靠地判定某物为善，但在道德上无关的操纵之下，其赞许的程度或称之为善的程度并不可靠。
+    step2: |-
+      其二，须注意：某些研究所测的，是被试对若干主张的同意程度，或对某些行为好坏的评价程度。此类量上的统计显著差异，未必是判断不可靠的表征。人可以可靠地赞许，或可靠地判定某物为善，却在无关道德的操纵下，于赞许或评价的程度上并不可靠。
   - id: 128
     kind: body
     source: |-
       Third, even if we grant that there are framing and ordering effects for intuitive seemings in some studies concerning some cases, and these effects carry over to judgments based on the intuitions, it is not the case that we should assign a large probability of error to *all* intuitively based ethical beliefs. For one, we do not have enough evidence to generalize from the cases where the effects have been shown to say that *all* intuitions are subject to these effects. For another, we are aware of these effects in a number of other domains, but we do not conclude in those domains that all judgments in those domains are unreliable (cf. Horne & Livengood 2017)[^horne-2017]. So though the framing and ordering effects are interesting and we should take them into consideration when improving our moral outlooks, it is not clear that they support the conclusion that moral intuitions as a class are unreliable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第三，即使我们承认，在某些关于某些事例的研究中，直觉性显似存在框架效应与顺序效应，且这些效应会传递到基于直觉的判断上，也不能说我们应当赋予*所有*基于直觉的伦理信念以很大的出错概率。其一，我们没有足够的证据从已显示这些效应的事例推广出去，说*所有*直觉都受这些效应影响。其二，我们在许多其他领域也知道这类效应，但我们并不因此断定那些领域中的所有判断都不可靠（参 Horne & Livengood 2017）[^horne-2017]。因此，尽管框架效应与顺序效应很有趣，我们在改进自己的道德观时也应把它们考虑在内，但并不清楚它们支持“道德直觉作为一类是不可靠的”这一结论。
+    step2: |-
+      其三，纵然承认在某些关于某些事例的研究中，直觉性显似确有框架与顺序效应，且这些效应会传导至基于直觉的判断，也不能由此断言应赋予*一切*基于直觉的伦理信念以很高的出错概率。其一，证据不足以把已显现效应的事例推及于*所有*直觉。其二，我们在许多其他领域也知晓此类效应，却不因此断定该领域一切判断皆不可靠（参 Horne & Livengood 2017）[^horne-2017]。故框架与顺序效应虽有趣、亦当在改进道德观时予以考虑，却未必支持“道德直觉作为一类不可靠”之结论。
   - id: 129
     kind: body
     source: |-
       Fourth, these experiments are trying to test intuitions about our overall moral duties—that is, about what we should, or may do in certain circumstances. As we have seen, not all intuitionists claim that principles about what we ought to do are intuitive. W. D. Ross for example claimed that only principles of *prima facie* duty are self-evident, and principles of *prima facie* duty are, roughly, principles stating that certain facts count in favour of an act and others count against. So these principles state, for instance, that the fact that one’s act would produce some good, or the fact that it would be the keeping of a promise, or the expression of gratitude, etc., counts in favour of it, and the fact that, for example, it would involve the infliction of harm on someone counts against it. For one study on the stability of intuitions on the moral valence (counting against or counting in favor) of Rossian-type considerations, see James Andow (2018).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第四，这些实验试图检验的是关于我们整体道德义务的直觉——即关于我们在某些情境中应当做什么或可以做什么的直觉。如我们所见，并非所有直觉主义者都主张关于我们应当做什么的原则是直观的。例如，W. D. 罗斯主张，只有*初显*义务的原则是自明的；而*初显*义务的原则大致是如下原则：某些事实支持某一行为，另一些事实反对之。因此，这些原则陈述的是：例如，一个人的行为会产生某种善这一事实，或者该行为是守信、是表达感恩等等这一事实，支持该行为；而例如该行为会对某人造成伤害这一事实，反对该行为。关于罗斯式考量的道德效价（反对或支持）上直觉稳定性的研究之一，见 James Andow（2018）。
+    step2: |-
+      其四，这些实验所试者，是关于我们整体道德义务的直觉——即“在某些情境中我们应当或可以如何行事”。如前所见，并非所有直觉主义者都主张“应当如何”的原则是直观的。例如 W. D. 罗斯只主张*初显*义务的原则自明；而*初显*义务的原则大致是说：某些事实支持某一行为，另一些事实反对之。故此类原则所陈者如：某行为将产生某种善、或将是守信、或将是表达感恩等事实支持该行为；而如该行为将对某人造成伤害这一事实反对之。关于罗斯式考量之道德效价（支持或反对）上直觉稳定性的研究之一，见 James Andow（2018）。
   - id: 130
     kind: body
     source: |-
       ### 7.3 Debunking Certain Views in Normative Ethics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.3 对规范伦理学某些立场的祛除
+    step2: |-
+      ### 7.3 对规范伦理学某些立场的祛除
   - id: 131
     kind: body
     source: |-
