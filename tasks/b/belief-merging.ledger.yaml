@@ -250,232 +250,312 @@ segments:
     kind: body
     source: |-
       Konieczny and Pino Pérez consider a propositional language *L* built up from a finite set *At* of atomic propositions and the usual connectives $(\neg, \land, \lor , \rightarrow, \leftrightarrow )$. An interpretation is a total function $At \rightarrow \{0, 1\}$ that assigns 0 (false) or 1 (true) to each atomic proposition. For example, if $At =\{p, q, r\}$, then $(1, 0, 1)$ is the interpretation that assigns true to *p* and *r* and false to *q*.[^note-1] Denote the set of all interpretations by $W = \{0, 1\}^{At}$. For any formula $\varphi \in L$, $\mymod(\varphi) = \{\omega \in W | \omega \models \varphi\}$ denotes the set of models of $\varphi$, i.e., the set of truth assignments that makes $\varphi$ true. If we take the formula that expressed the contractual law in the doctrinal example, then $\mymod((p\land q) \leftrightarrow r) = \{(1,1,1), (1, 0, 0), (0, 1, 0), (0,0,0)\}.$ As usual, a formula $\varphi$ is consistent if it has at least a model, and a formula $\varphi$ follows from a set of formulae $\Phi$ if every interpretation that makes all formulae in $\Phi$ true, makes also $\varphi$ true.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Konieczny 与 Pino Pérez 考虑一个由有限原子命题集 *At* 与通常联结词 $(\neg, \land, \lor , \rightarrow, \leftrightarrow )$ 构成的命题语言 *L*。一个解释是把 0（假）或 1（真）指派给每个原子命题的全函数 $At \rightarrow \{0, 1\}$。例如，若 $At =\{p, q, r\}$，则 $(1, 0, 1)$ 是把真指派给 *p* 与 *r*、把假指派给 *q* 的解释。[^note-1] 以 $W = \{0, 1\}^{At}$ 记一切解释之集。对任意公式 $\varphi \in L$，$\mymod(\varphi) = \{\omega \in W | \omega \models \varphi\}$ 记 $\varphi$ 的模型集，即使 $\varphi$ 为真的真值指派之集。若取表达教义例中合同法的那个公式，则 $\mymod((p\land q) \leftrightarrow r) = \{(1,1,1), (1, 0, 0), (0, 1, 0), (0,0,0)\}.$ 照常，若公式 $\varphi$ 至少有一个模型，则它是融贯的；若每一使 $\Phi$ 中所有公式为真的解释也使 $\varphi$ 为真，则 $\varphi$ 从公式集 $\Phi$ 推出。
+    step2: |-
+      Konieczny 与 Pino Pérez 所设的命题语言 *L*，由有限原子命题集 *At* 与通常联结词 $(\neg, \land, \lor , \rightarrow, \leftrightarrow )$ 生成。所谓解释，是把 0（假）或 1（真）指派给每一原子命题的全函数 $At \rightarrow \{0, 1\}$。举例说，若 $At =\{p, q, r\}$，那么 $(1, 0, 1)$ 这一解释便把真赋给 *p* 与 *r*、把假赋给 *q*。[^note-1] 一切解释之集记作 $W = \{0, 1\}^{At}$。任取公式 $\varphi \in L$，$\mymod(\varphi) = \{\omega \in W | \omega \models \varphi\}$ 即 $\varphi$ 的模型集，也就是使 $\varphi$ 成真的真值指派之集。试取表达教义之例中合同法的公式，则 $\mymod((p\land q) \leftrightarrow r) = \{(1,1,1), (1, 0, 0), (0, 1, 0), (0,0,0)\}.$ 按惯例，公式 $\varphi$ 只要至少有一个模型便是融贯的；而若使 $\Phi$ 中所有公式为真的每一解释都使 $\varphi$ 为真，则 $\varphi$ 可由公式集 $\Phi$ 推出。
   - id: 30
     kind: body
     source: |-
       A *belief base* $K_i$ is a finite set of propositional formulas representing the explicit beliefs held by individual *i*. Each $K_{i}$ is assumed to be consistent. $\mathcal{K}$ denotes the set of all consistent belief bases. The postulates for merging consider a *multi-set* of belief bases (*belief profile*, or *belief set*, the terminology used in early papers) $E = \{K_1, \ldots , K_{n}\}$. The reason for using multi-sets is that an element can appear more than once, thus allowing the representation of the fact that two or more agents can hold the same beliefs. This is needed to take into account the popularity of a piece of information, hence to define majority operators. To mark the distinction with the usual set union $\cup$, the multi-set union is denoted by $\sqcup$ and defined as $\{\varphi\} \sqcup \{\varphi\} = \{\varphi, \varphi\}$. Two belief profiles are equivalent $(E_1\equiv E_{2})$ if and only if there exists a bijection *f* from $E_1$ to $E_{2}$ such that, for any $B\in E_1$, we have that $\models\land f(B)\leftrightarrow \land B$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      信念基 $K_i$ 是表示个体 *i* 所持显式信念的有限命题公式集。每个 $K_{i}$ 都被假定为融贯的。$\mathcal{K}$ 记一切融贯信念基之集。合并公设考虑信念基的多重集（信念剖面，或早期文献所称的信念集）$E = \{K_1, \ldots , K_{n}\}$。使用多重集的理由在于元素可以出现多次，如此便可表示两个或更多智能体持有相同信念这一事实。之所以需要如此，是为了顾及某一信息条目的受欢迎程度，从而界定多数算子。为与通常的集合的并 $\cup$ 相区别，多重集之并记作 $\sqcup$，定义为 $\{\varphi\} \sqcup \{\varphi\} = \{\varphi, \varphi\}$。两个信念剖面等价 $(E_1\equiv E_{2})$，当且仅当存在从 $E_1$ 到 $E_{2}$ 的双射 *f*，使得对任意 $B\in E_1$，有 $\models\land f(B)\leftrightarrow \land B$。
+    step2: |-
+      信念基 $K_i$ 是一个有限的命题公式集，代表个体 *i* 所明白持有的信念。诸 $K_{i}$ 皆假定为融贯。一切融贯信念基之集记作 $\mathcal{K}$。合并公设所处理的，是信念基的多重集（信念剖面，早期论文则称信念集）$E = \{K_1, \ldots , K_{n}\}$。之所以用多重集，是因为其中元素可以重复出现，从而能够表示两个乃至更多智能体持有相同信念这一情形；唯其如此，才能顾及某项信息的受众之多寡，进而界定多数算子。为区别于通常的集合并 $\cup$，多重集之并记作 $\sqcup$，其定义为 $\{\varphi\} \sqcup \{\varphi\} = \{\varphi, \varphi\}$。两个信念剖面等价 $(E_1\equiv E_{2})$，当且仅当存在由 $E_1$ 到 $E_{2}$ 的双射 *f*，使得对任一 $B\in E_1$ 都有 $\models\land f(B)\leftrightarrow \land B$。
   - id: 31
     kind: body
     source: |-
       Integrity constraints represent extra conditions that should follow from the merged bases. The interest of integrity constraints is to ensure that the aggregation of individual pieces of information satisfies some problem-specific requirement. For example, suppose that members of a city council have to decide what to build in a certain area. We can have constraints on the available budget (enough to cover only some of the projects) but also constraints on the coexistence of different projects (we may not build a parking lot and a playground in that area, but we may build a playground and a public library). If the (possibly empty) set of integrity constraints is denoted by the belief base *IC*, $\Delta_{\IC}(E)$ denotes the result of merging the multi-set *E* of belief bases given *IC*. Intuitively, the result will be a consistent belief base representing the collective beliefs and implying *IC*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      完整性约束表示应由合并后的诸基推出的额外条件。完整性约束的意义在于确保个体信息条目的聚合满足某一问题特有的要求。例如，设市议会成员须决定在某一片区建造什么。我们可有关于可用预算的约束（只够覆盖部分项目），也可有关于不同项目能否共存的约束（该片区或不可既建停车场又建游乐场，但可既建游乐场又建公共图书馆）。若以信念基 *IC* 记（可能为空的）完整性约束集，则以 $\Delta_{\IC}(E)$ 记在给定 *IC* 的情况下合并信念基多重集 *E* 的结果。直观上，结果将是一个融贯的信念基，它表示集体信念并蕴涵 *IC*。
+    step2: |-
+      完整性约束所表示的，是合并后的诸基理应推出的额外条件，其用意在于保证个体信息条目的聚合能满足某一问题所特有的要求。设市议会成员须决定在某个片区兴建何物。此时既可有预算上的约束（款额只够覆盖其中部分项目），也可有关于各项目能否并存的约束（该片区或不容停车场与游乐场并建，却容许游乐场与公共图书馆并建）。若以信念基 *IC* 记完整性约束之集（此集可为空集），则 $\Delta_{\IC}(E)$ 便表示在 *IC* 之下合并信念基多重集 *E* 所得的结果。直观地说，这结果将是一个融贯的信念基，既代表集体信念，又蕴涵 *IC*。
   - id: 32
     kind: body
     source: |-
       Konieczny and Pino Pérez (1999, 2002) put forward the following postulates for *IC* fusion operators between equally reliable sources. Let $E$, $E_1$, $E_{2}$, be belief profiles, $K_1$, $K_{2}$ be consistent belief bases, and $\IC$, $\IC_1$, $\IC_{2}$, be integrity constraints. $\Delta$ is an *IC* fusion operator if and only if it satisfies the following rationality postulates:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Konieczny 与 Pino Pérez（1999, 2002）为同等可靠来源之间的 *IC* 融合算子提出了如下公设。令 $E$, $E_1$, $E_{2}$, 为信念剖面，$K_1$, $K_{2}$ 为融贯信念基，$\IC$, $\IC_1$, $\IC_{2}$, 为完整性约束。$\Delta$ 是 *IC* 融合算子，当且仅当它满足以下合理性公设：
+    step2: |-
+      Konieczny 与 Pino Pérez（1999, 2002）就同等可靠来源之间的 *IC* 融合算子，立有如下公设。设 $E$, $E_1$, $E_{2}$, 为信念剖面，$K_1$, $K_{2}$ 为融贯信念基，$\IC$, $\IC_1$, $\IC_{2}$, 为完整性约束。$\Delta$ 是 *IC* 融合算子，当且仅当它满足下列合理性公设：
   - id: 33
     kind: body
     source: |-
       **(IC0)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(IC0)**
+    step2: |-
+      **(IC0)**
   - id: 34
     kind: body
     source: |-
       $\Delta_{\IC}(E) \models \IC$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $\Delta_{\IC}(E) \models \IC$
+    step2: |-
+      $\Delta_{\IC}(E) \models \IC$
   - id: 35
     kind: body
     source: |-
       **(IC1)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(IC1)**
+    step2: |-
+      **(IC1)**
   - id: 36
     kind: body
     source: |-
       If $\IC$ is consistent, then $\Delta_{\IC}(E)$ is consistent.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 $\IC$ 融贯，则 $\Delta_{\IC}(E)$ 融贯。
+    step2: |-
+      若 $\IC$ 融贯，则 $\Delta_{\IC}(E)$ 亦融贯。
   - id: 37
     kind: body
     source: |-
       **(IC2)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(IC2)**
+    step2: |-
+      **(IC2)**
   - id: 38
     kind: body
     source: |-
       If $\land E$ is consistent with *IC*, then $\Delta_{\IC}(E)\equiv \land E\land \IC$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 $\land E$ 与 *IC* 相容，则 $\Delta_{\IC}(E)\equiv \land E\land \IC$
+    step2: |-
+      倘 $\land E$ 与 *IC* 相容，则 $\Delta_{\IC}(E)\equiv \land E\land \IC$
   - id: 39
     kind: body
     source: |-
       **(IC3)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(IC3)**
+    step2: |-
+      **(IC3)**
   - id: 40
     kind: body
     source: |-
       If $E_1\equiv E_{2}$, and $\IC_1\equiv \IC_{2}$, then $\Delta_{\IC_1}(E_1)\equiv \Delta_{\IC_2}(E_{2})$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 $E_1\equiv E_{2}$ 且 $\IC_1\equiv \IC_{2}$，则 $\Delta_{\IC_1}(E_1)\equiv \Delta_{\IC_2}(E_{2})$
+    step2: |-
+      若 $E_1\equiv E_{2}$ 且 $\IC_1\equiv \IC_{2}$，则 $\Delta_{\IC_1}(E_1)\equiv \Delta_{\IC_2}(E_{2})$
   - id: 41
     kind: body
     source: |-
       **(IC4)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(IC4)**
+    step2: |-
+      **(IC4)**
   - id: 42
     kind: body
     source: |-
       If $K_1 \models\IC$ and $K_{2} \models\IC$, then $\Delta_{\IC}(\{K_1, K_{2}\})\land K_1$ is consistent if and only if $\Delta_{\IC}(\{K_1, K_{2}\})\land K_{2}$ is consistent.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 $K_1 \models\IC$ 且 $K_{2} \models\IC$，则 $\Delta_{\IC}(\{K_1, K_{2}\})\land K_1$ 融贯当且仅当 $\Delta_{\IC}(\{K_1, K_{2}\})\land K_{2}$ 融贯。
+    step2: |-
+      若 $K_1 \models\IC$ 且 $K_{2} \models\IC$，则 $\Delta_{\IC}(\{K_1, K_{2}\})\land K_1$ 融贯，当且仅当 $\Delta_{\IC}(\{K_1, K_{2}\})\land K_{2}$ 融贯。
   - id: 43
     kind: body
     source: |-
       **(IC5)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(IC5)**
+    step2: |-
+      **(IC5)**
   - id: 44
     kind: body
     source: |-
       $\Delta_{\IC}(E_1) \land \Delta_{\IC}(E_{2}) \models\Delta_{\IC}(E_1\sqcup E_{2})$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $\Delta_{\IC}(E_1) \land \Delta_{\IC}(E_{2}) \models\Delta_{\IC}(E_1\sqcup E_{2})$
+    step2: |-
+      $\Delta_{\IC}(E_1) \land \Delta_{\IC}(E_{2}) \models\Delta_{\IC}(E_1\sqcup E_{2})$
   - id: 45
     kind: body
     source: |-
       **(IC6)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(IC6)**
+    step2: |-
+      **(IC6)**
   - id: 46
     kind: body
     source: |-
       If $\Delta_{\IC}(E_1) \land \Delta_{\IC}(E_{2})$ is consistent, then $\Delta_{\IC}(E_1\sqcup E_{2}) \models \Delta_{\IC}(E_1) \land \Delta_{\IC}(E_{2})$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 $\Delta_{\IC}(E_1) \land \Delta_{\IC}(E_{2})$ 融贯，则 $\Delta_{\IC}(E_1\sqcup E_{2}) \models \Delta_{\IC}(E_1) \land \Delta_{\IC}(E_{2})$
+    step2: |-
+      倘 $\Delta_{\IC}(E_1) \land \Delta_{\IC}(E_{2})$ 融贯，则 $\Delta_{\IC}(E_1\sqcup E_{2}) \models \Delta_{\IC}(E_1) \land \Delta_{\IC}(E_{2})$
   - id: 47
     kind: body
     source: |-
       **(IC7)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(IC7)**
+    step2: |-
+      **(IC7)**
   - id: 48
     kind: body
     source: |-
       $\Delta_{\IC_{1}}(E) \land \IC_{2} \models\Delta_{\IC_{1\land} \IC_{2}} (E)$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $\Delta_{\IC_{1}}(E) \land \IC_{2} \models\Delta_{\IC_{1\land} \IC_{2}} (E)$
+    step2: |-
+      $\Delta_{\IC_{1}}(E) \land \IC_{2} \models\Delta_{\IC_{1\land} \IC_{2}} (E)$
   - id: 49
     kind: body
     source: |-
       **(IC8)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(IC8)**
+    step2: |-
+      **(IC8)**
   - id: 50
     kind: body
     source: |-
       If $\Delta_{\IC_1}(E) \land \IC_{2}$ is consistent, then $\Delta_{\IC_{1\land}\IC_{2}} (E) \models\Delta_{\IC_1}(E)$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 $\Delta_{\IC_1}(E) \land \IC_{2}$ 融贯，则 $\Delta_{\IC_{1\land}\IC_{2}} (E) \models\Delta_{\IC_1}(E)$
+    step2: |-
+      若 $\Delta_{\IC_1}(E) \land \IC_{2}$ 融贯，则 $\Delta_{\IC_{1\land}\IC_{2}} (E) \models\Delta_{\IC_1}(E)$
   - id: 51
     kind: body
     source: |-
       In order to illustrate these postulates, we consider the following example, due to (Konieczny and Pino Pérez 1999)[^konieczny-1999]. A group of flats co-owners wish to improve their condominium. At the meeting, the chairman proposes to build a tennis court, a swimming pool or a private parking. He also points out that building two of the three options will lead to a significant increase of the yearly maintenance expenses (this corresponds to the *IC*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为说明这些公设，我们考虑如下例子，取自（Konieczny and Pino Pérez 1999）[^konieczny-1999]。一群公寓共有人希望改善其共有住宅。会上，主席提议建网球场、游泳池或私人停车场。他还指出，若在三个选项中建两个，将会显著增加年度维护费用（这对应 *IC*）。
+    step2: |-
+      为阐明上述公设，且看（Konieczny and Pino Pérez 1999）[^konieczny-1999]所举的一例。一群公寓业主打算改善其共有物业。会上主席提议：或建网球场，或建游泳池，或建私家车位。他同时指出，三个选项中若建了两个，年度维护费将大增（此即 *IC* 所对应者）。
   - id: 52
     kind: body
     source: |-
       (IC0) ensures that the resulting merged base satisfies the integrity constraints. This is an obvious condition to impose since these are postulates for merging under integrity constraints, where the idea is to ensure that the result of the merging satisfies the integrity constraints. By employing a merging operator, the chairman knows that the group will agree on the increase of the expenses, if they decide to build at least two of the three facilities. (IC1) states that, when *IC* is consistent, then the result of the fusion operator will also be consistent. Again, given that the interpretations of the merged bases are selected among the interpretations of the integrity constraints, if *IC* is consistent, the result will also be consistent. (IC2) states that the result of the merging operator is simply the conjunction of the belief profile and the *IC*, whenever such conjunction is consistent. In our running example, if each person wishing to build two or more facilities endorses the rise of the expenses and the opinions given by the co-owners are consistent, then the merging will just return the conjunction of the *IC* and the individual opinions. (IC3) states that if two belief profiles $E_1$ and $E_{2}$ are logically equivalent and $\IC_1$ and $\IC_{2}$ are also equivalent, then merging the first belief profile with $\IC_1$ will be equivalent as merging the second belief profile with $\IC_{2}$. This postulate expresses a principle already imposed on belief revision operators (of which, as we shall see, merging operators are extensions), that is, the *principle of irrelevance of syntax*, which says that the result of a merging operator depends only on the semantical content of the merged bases and not on their syntactical expression. (IC4) is known as the *fairness postulate* because it states that when merging two belief bases $K_1$ and $K_{2}$, no priority should be given to one of them. The merging is consistent with one of them if and only if it is consistent with the other. This postulate expresses a symmetric condition that operators that give priority to one of the two bases will not satisfy. (IC5) and (IC6) were first introduced in (Revesz 1997)[^revesz-1997] and together they mean that if two groups agree on at least one item, then the result of the fusion will coincide with those items on which the two groups agreed on. So, if the group of co-owners can be split in two parties, such that one wants to build the tennis court and the swimming pool and the other wants the swimming pool and the parking, the building of the swimming pool will be selected as the final group decision. Finally, (IC7) and (IC8) guarantee that if the conjunction between the merging on $E$ under $\IC_1$ and $\IC_{2}$ is consistent, then $\IC_1$ will remain satisfied if $E$ is merged under a more restrictive condition, that is, the conjunction of $\IC_1$ and $\IC_{2}$. This is a natural requirement to impose as, less formally, (IC7) and (IC8) together state that if the swimming pool is chosen among the set of three alternatives, it will still be selected if we reduce the set of alternatives to the tennis court and swimming pool. The last two postulates are a generalization of two postulates for revision (R5 and R6) in (Katsuno and Mendelzon 1991)[^katsuno-1991], who analyzed the revision operator from a model-theoretic point of view and gave a characterization of revision operators satisfying the AGM rationality postulates (Alchourrón et al. 1985)[^alchourrón-1985] in terms of minimal change with respect to an ordering over interpretations. Like Katsuno and Mendelzon’s postulates, (IC7) and (IC8) ensure that the notion of closeness is well behaved, in the sense that if an outcome is selected by the merging operator under $\IC_1$, then that outcome will also be the closest (i.e., it will be selected) to $\IC_{2}$ within the more restrictive constraint $\IC_1 \land \IC_{2}$ (assuming $\Delta_{\IC_1}(E) \land \IC_{2}$ to be consistent). In Katsuno and Mendelzon model-theoretic approach, revision operators change the initial belief base by choosing the closest interpretation in the new information. Similarly, *IC* merging operators select the closest interpretation in the integrity constraints to the set of belief bases. Hence, belief merging can be interpreted as a generalization of belief revision to multiple belief bases (Grégoire and Konieczny 2006)[^grégoire-2006].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (IC0) 确保所得合并基满足完整性约束。这显然是一条应当施加的条件，因为这些是完整性约束下合并的公设，其要旨正在于确保合并的结果满足完整性约束。通过使用合并算子，主席知道：若群体决定至少建造三项设施中的两项，他们就会同意费用的增加。(IC1) 陈述：当 *IC* 融贯时，融合算子的结果也将融贯。同样，既然合并基的解释是在完整性约束的解释中选取的，若 *IC* 融贯，结果也将融贯。(IC2) 陈述：当信念剖面与 *IC* 的合取融贯时，合并算子的结果就是这个合取。在我们的现行例子中，若每个希望建造两项或更多设施的人都认可费用上涨，且各共有人给出的意见融贯，则合并将径直返回 *IC* 与个体意见的合取。(IC3) 陈述：若两个信念剖面 $E_1$ 与 $E_{2}$ 逻辑等价，且 $\IC_1$ 与 $\IC_{2}$ 也等价，则把第一个信念剖面与 $\IC_1$ 合并，将等价于把第二个信念剖面与 $\IC_{2}$ 合并。这条公设表达了已经施加于信念修正算子（我们将看到，合并算子是它们的扩展）的一项原则，即句法无涉原则，它说合并算子的结果只取决于被合并诸基的语义内容，而不取决于其句法表达。(IC4) 被称为公平公设，因为它陈述：合并两个信念基 $K_1$ 与 $K_{2}$ 时，不应给予其中之一以优先。合并结果与其中之一相容，当且仅当与另一个相容。这条公设表达了一个对称条件，凡给予两个基之一以优先的算子都不会满足它。(IC5) 与 (IC6) 最初在（Revesz 1997）[^revesz-1997]中引入，二者合起来意为：若两个群体至少在某一项上一致，则融合的结果将与两个群体一致的那些项相合。于是，若共有人群体可分成两派，一派想建网球场与游泳池，另一派想建游泳池与停车场，则建造游泳池将被选为最终的群体决定。最后，(IC7) 与 (IC8) 保证：若在 $\IC_1$ 与 $\IC_{2}$ 之下的 $E$ 合并结果与 $\IC_{2}$ 的合取融贯，则在更严格的条件下（即 IC1 与 $\IC_{2}$ 的合取）合并 $E$ 时，$\IC_1$ 仍将得到满足。这是一项自然的要求，因为不那么形式地说，(IC7) 与 (IC8) 合起来陈述：若游泳池在三个备选方案之集中被选中，那么把备选集缩减为网球场与游泳池时，它仍会被选中。最后两条公设是（Katsuno and Mendelzon 1991）[^katsuno-1991]中两条修正公设（R5 与 R6）的推广；后者从模型论观点分析修正算子，并依据相对于解释上某一序的最小变化，给出了满足 AGM 合理性公设（Alchourrón et al. 1985）[^alchourrón-1985]的修正算子的刻画。与 Katsuno 和 Mendelzon 的公设一样，(IC7) 与 (IC8) 确保接近性概念行为良好：若某结果在 $\IC_1$ 下被合并算子选中，则在更严格的约束 $\IC_1 \land \IC_{2}$ 下，该结果也将是最接近 $\IC_{2}$ 者（即会被选中）（假定 $\Delta_{\IC_1}(E) \land \IC_{2}$ 融贯）。在 Katsuno 与 Mendelzon 的模型论进路中，修正算子通过在新信息中选取最接近的解释来改变初始信念基。类似地，*IC* 合并算子在完整性约束中选取最接近于信念基集的那个解释。因此，信念合并可被解释为信念修正向多个信念基的推广（Grégoire and Konieczny 2006）[^grégoire-2006]。
+    step2: |-
+      (IC0) 保证合并所得的基满足完整性约束。此条显然该当施加：这些本就是在完整性约束下合并的公设，用心正是不让结果逸出约束。主席借合并算子可以预知，只要众人决定三处设施中至少建两处，便都会同意费用上涨。(IC1) 说：*IC* 融贯时，融合算子的结果同样融贯。理由如前——合并基的解释取自完整性约束的解释，故 *IC* 融贯则结果必融贯。(IC2) 说：只要信念剖面与 *IC* 的合取融贯，合并算子所得便是该合取本身。就眼前之例而言，若每位愿建两处以上设施者都认可费用上涨，而各业主所陈意见彼此融贯，则合并径直返回 *IC* 与个体意见之合取。(IC3) 说：若两个信念剖面 $E_1$ 与 $E_{2}$ 逻辑等价，$\IC_1$ 与 $\IC_{2}$ 亦相等价，则把前者与 $\IC_1$ 合并，与把后者与 $\IC_{2}$ 合并等价。此公设所表达的，是信念修正算子早已背上的原则（合并算子不过是其扩展，说见下文），亦即句法无涉原则：合并的结果只系于所并诸基的语义内容，不系于其句法写法。(IC4) 通称公平公设：合并 $K_1$ 与 $K_{2}$ 时不得偏袒任何一方；结果与其中之一相容，当且仅当与另一方相容。此乃一项对称要求，凡厚此薄彼的算子皆不能满足。(IC5) 与 (IC6) 首见于（Revesz 1997）[^revesz-1997]，二者合而言之：若两群体至少在一项上意见相合，融合结果便落在这一相合项上。故若业主可分为两派，一派欲建网球场与游泳池，一派欲建游泳池与停车场，则建游泳池将获选为群体的最终决定。末了，(IC7) 与 (IC8) 担保：若 $E$ 在 $\IC_1$ 与 $\IC_{2}$ 之下的合并结果与 $\IC_{2}$ 相容，则让 $E$ 则在更严的约束——即 IC1 与 $\IC_{2}$ 之合取——下合并时，$\IC_1$ 仍然得到满足。此项要求出于自然：说得不那么形式些，(IC7) 与 (IC8) 合起来的意思是，游泳池若在三个备选方案中获选，则备选缩为网球场与游泳池两处时，它仍当获选。这末两条公设，是（Katsuno and Mendelzon 1991）[^katsuno-1991]中修正公设 R5 与 R6 的推广；该文自模型论角度剖析修正算子，并以相对于解释上某一序的最小改动，刻画了满足 AGM 合理性公设（Alchourrón et al. 1985）[^alchourrón-1985]的修正算子。与 Katsuno、Mendelzon 的公设一样，(IC7) 与 (IC8) 保证接近性概念不至于失范：某结果若在 $\IC_1$ 下为合并算子所选，则在更严的约束 $\IC_1 \land \IC_{2}$ 下，它仍是距 $\IC_{2}$ 最近者（即仍会入选），前提是 $\Delta_{\IC_1}(E) \land \IC_{2}$ 融贯。Katsuno 与 Mendelzon 的模型论进路中，修正算子借选取新信息中最接近的解释来改易初始信念基；*IC* 合并算子亦犹是，它在完整性约束中挑出距诸信念基最近的那个解释。准此，信念合并可视为信念修正向多个信念基的推广（Grégoire and Konieczny 2006）[^grégoire-2006]。
   - id: 53
     kind: body
     source: |-
       Two sub-classes of $\IC$ fusion operators are defined. An *IC majority fusion* operator minimizes the level of total dissatisfaction (as introduced by Lin and Mendelzon 1996)[^lin-1996][^lin-1996-2], whereas an *IC arbitration operator* aims at equally distributing the level of individual dissatisfaction among the agents. The majority operator is similar in spirit to the utilitarian approach in social choice theory, whereas the arbitration is inspired to egalitarianism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      定义了两个 $\IC$ 融合算子的子类。*IC 多数融合*算子使总体不满水平最小化（如 Lin and Mendelzon 1996 所引入）[^lin-1996][^lin-1996-2]，而 *IC 仲裁算子*旨在把个体不满水平平均分配给各智能体。多数算子在精神上类似于社会选择理论中的功利主义进路，而仲裁则受平等主义启发。
+    step2: |-
+      $\IC$ 融合算子之下另分两类。*IC 多数融合*算子务求把总体不满降至最低（此概念由 Lin and Mendelzon 1996 引入）[^lin-1996][^lin-1996-2]；*IC 仲裁算子*则力求把个体不满在各智能体之间均摊。多数算子之旨趣近于社会选择理论中的功利主义，仲裁则取意于平等主义。
   - id: 54
     kind: body
     source: |-
       Let, for every integer $n$, $E^n$ denote the multi-set containing *n* times *E*. An *IC majority* operator satisfies the following additional postulate:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对每个整数 $n$，令 $E^n$ 记含有 *n* 个 *E* 的多重集。*IC 多数*算子满足如下附加公设：
+    step2: |-
+      对任一整数 $n$，以 $E^n$ 记含 *n* 份 *E* 的多重集。*IC 多数*算子还须满足下述附加公设：
   - id: 55
     kind: body
     source: |-
       **(Maj)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(Maj)**
+    step2: |-
+      **(Maj)**
   - id: 56
     kind: body
     source: |-
       $\exists n \Delta_{\IC} (E_1\sqcup E^{n}_{2}) \models\Delta_{\IC}(E_{2})$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $\exists n \Delta_{\IC} (E_1\sqcup E^{n}_{2}) \models\Delta_{\IC}(E_{2})$
+    step2: |-
+      $\exists n \Delta_{\IC} (E_1\sqcup E^{n}_{2}) \models\Delta_{\IC}(E_{2})$
   - id: 57
     kind: body
     source: |-
       Thus, (Maj) states that enough repetitions of $E_{2}$ will make $E_{2}$ the opinion of the group. The number of repetitions needed depends on the specific instance.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是，(Maj) 陈述：对 $E_{2}$ 作足够多次重复，将使 $E_{2}$ 成为群体的意见。所需重复次数取决于具体实例。
+    step2: |-
+      由此可见，(Maj) 所断言的是：把 $E_{2}$ 重复足够多遍，即足以使 $E_{2}$ 成为群体意见。所需遍数视具体情形而定。
   - id: 58
     kind: body
     source: |-
       An *IC arbitration* operator is characterized by the following postulate, in addition to (IC0)–(IC8):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除 (IC0)–(IC8) 之外，*IC 仲裁*算子还以下述公设刻画：
+    step2: |-
+      除 (IC0)–(IC8) 之外，*IC 仲裁*算子另有如下一条刻画公设：
   - id: 59
     kind: body
     source: |-
       **(Arb)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(Arb)**
+    step2: |-
+      **(Arb)**
   - id: 60
     kind: body
     source: |-
       Let IC1 and IC2 be logically independent. If $$\begin{align} \Delta_{\IC_1}(K_1) &\equiv \Delta_{\IC_2}(K_{2}), \textrm{ and}\\ \Delta_{\IC_{1} \leftrightarrow \neg \IC_{2}} (\{K_1, K_{2}\}) &\equiv (\IC_1\leftrightarrow \neg \IC_{2}), \textrm{ then} \\ \Delta_{\IC_{1}\lor \IC_{2}} (\{K_1, K_{2}\}) &\equiv \Delta_{\IC_1}(K_1).\end{align}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      设 IC1 与 IC2 逻辑独立。若 $$\begin{align} \Delta_{\IC_1}(K_1) &\equiv \Delta_{\IC_2}(K_{2}), \textrm{ and}\\ \Delta_{\IC_{1} \leftrightarrow \neg \IC_{2}} (\{K_1, K_{2}\}) &\equiv (\IC_1\leftrightarrow \neg \IC_{2}), \textrm{ then} \\ \Delta_{\IC_{1}\lor \IC_{2}} (\{K_1, K_{2}\}) &\equiv \Delta_{\IC_1}(K_1).\end{align}$$
+    step2: |-
+      设 IC1 与 IC2 逻辑独立。若 $$\begin{align} \Delta_{\IC_1}(K_1) &\equiv \Delta_{\IC_2}(K_{2}), \textrm{ and}\\ \Delta_{\IC_{1} \leftrightarrow \neg \IC_{2}} (\{K_1, K_{2}\}) &\equiv (\IC_1\leftrightarrow \neg \IC_{2}), \textrm{ then} \\ \Delta_{\IC_{1}\lor \IC_{2}} (\{K_1, K_{2}\}) &\equiv \Delta_{\IC_1}(K_1).\end{align}$$
   - id: 61
     kind: body
     source: |-
       Intuitively, this axiom states that the arbitration operator selects the median outcomes that are *IC*-consistent. The behavior of such operator will be clearer when expressed in a model-theoretical way, as we shall see in the next section.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      直观上，该公理陈述仲裁算子选取 *IC* 融贯的中位结果。此算子的行为在以下一节的模型论表述中会更清楚。
+    step2: |-
+      此公理直观上说的是：仲裁算子择取那些与 *IC* 融贯的中位结果。待下一节以模型论方式表述后，该算子的行止便更为显豁。
   - id: 62
     kind: body
     source: |-
       An example can help to appreciate the different behavior of a majority and an arbitration operator. Suppose three friends need to decide whether to buy a birthday present for a common acquaintance. Suppose now that two of them want to buy her a book and invite her out for dinner, while the third friend does not want to contribute to either of those presents. If the group takes its decision by majority, the three friends would resolve to buy a book and to invite her out for dinner, making the third friend very unhappy. If, on the other hand, they use an arbitration operator, they would either buy her a book or invite her out to a restaurant, making the three members equally dissatisfied. Everyone has exactly one formula in their belief base that is not being satisfied, so the “amount” of dissatisfaction for each friend is the same.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个例子有助于体会多数算子与仲裁算子的不同行为。设三位朋友须决定是否为一位共同的熟人买生日礼物。现设其中两位想给她买一本书并请她外出吃饭，而第三位朋友不愿为这两份礼物之一出资。若群体按多数作决定，三位朋友将决意买书并请她吃饭，这使第三位朋友极为不快。另一方面，若他们使用仲裁算子，则或者给她买书，或者请她去餐馆，这使三位成员同样不满。每人信念基中恰有一个公式未获满足，故对每位朋友而言不满的“量”相同。
+    step2: |-
+      试举一例，以见多数算子与仲裁算子行为之别。设三位朋友须决定是否为一位共同的熟人合送生日礼物。设其中两人想送她一本书并请她外出晚餐，第三位朋友则不愿为这两样礼物出一分钱。若群体以多数定夺，三位朋友便议定送书并请客，第三位朋友将大为不快。反之，若用仲裁算子，结果非送书即请客，三人的不满程度因而相当——每人信念基中恰有一个公式未获满足，故此“不满之量”对三人相同。
   - id: 63
     kind: body
     source: |-
       The fusion operators in the literature can be divided into two classes: *syntax-based* fusion and *model-based* fusion. The first type takes the propositional formulas as the information input, and typically considers the maximally consistent subsets of the belief profile. In a model-based operator, on the other hand, it is the interpretations of the formulas that are considered as inputs to the merging process. Hence, each belief base is seen as a set of models and the syntactic representation of its formulas is irrelevant. Recall the example we used at the beginning of Section 2 to illustrate that the combination of belief bases is syntax-dependent. We had $K_1 = \{a, b\}$, $K_2 = \{a \wedge b\}$ and $K_3 = \{\neg b\}$. A syntax-based fusion would treat $a, b, a \wedge b, \neg b$ as inputs, whereas a model-based fusion would take $mod(K_1) = mod(K_2) = \{(1, 1)\}$ and $mod(K_3) = \{(1,0), (0,0)\}$. Since model-based operators have been applied to the problem of judgment aggregation, we will focus on that class of merging operators and refer to (Baral et al. 1992; Konieczny 2000; Grégoire and Konieczny 2006)[^baral-1992][^grégoire-2006][^konieczny-2000] for more on syntax-based fusion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      文献中的融合算子可分为两类：基于句法的融合与基于模型的融合。第一类以命题公式为信息输入，通常考虑信念剖面的极大融贯子集。另一方面，在基于模型的算子中，被视为合并过程输入的是公式的解释。于是每个信念基被看作一个模型集，其公式的句法表示无关紧要。回想我们在 §2 开头用来说明信念基的组合依赖句法的例子。我们有 $K_1 = \{a, b\}$、$K_2 = \{a \wedge b\}$ 与 $K_3 = \{\neg b\}$。基于句法的融合会把 $a, b, a \wedge b, \neg b$ 作为输入，而基于模型的融合则取 $mod(K_1) = mod(K_2) = \{(1, 1)\}$ 与 $mod(K_3) = \{(1,0), (0,0)\}$。由于基于模型的算子已被应用于判断聚合问题，我们将集中讨论这一类合并算子，关于基于句法的融合则请参阅（Baral et al. 1992; Konieczny 2000; Grégoire and Konieczny 2006）[^baral-1992][^grégoire-2006][^konieczny-2000]。
+    step2: |-
+      文献中的融合算子可分两类：基于句法者与基于模型者。前者以命题公式为输入，通常着眼于信念剖面的极大融贯子集；后者所取作合并输入者，则是公式的解释，故每个信念基被视作一个模型集，其公式如何写就便无关痛痒。请回忆第 2 节开头用来说明信念基组合依赖句法的那个例子：$K_1 = \{a, b\}$、$K_2 = \{a \wedge b\}$ 与 $K_3 = \{\neg b\}$。基于句法的融合会把 $a, b, a \wedge b, \neg b$ 当作输入，基于模型的融合则取 $mod(K_1) = mod(K_2) = \{(1, 1)\}$ 与 $mod(K_3) = \{(1,0), (0,0)\}$。既然基于模型的算子已施用于判断聚合问题，下文便专注于这一类合并算子；至于基于句法的融合，读者可参阅（Baral et al. 1992; Konieczny 2000; Grégoire and Konieczny 2006）[^baral-1992][^grégoire-2006][^konieczny-2000]。
   - id: 64
     kind: body
     source: |-
       ### 2.2 The distance-based approach
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 基于距离的进路
+    step2: |-
+      ### 2.2 基于距离的进路
   - id: 65
     kind: body
     source: |-
       An *IC* model-based fusion operator selects, among the models of the integrity constraints *IC*, those that are preferred, where the preference relation depends on the operator that is used. Thus, the collective belief set $\Delta_{\IC}(E)$ is guaranteed to be a set of formulas that are true in all of the selected models and to satisfy the *IC*. In the example of the city council seen earlier, this means that building a playground and a parking lot will never be selected as a decision outcome. The preference information usually takes the form of a total pre-order (to recall, a pre-order is a reflexive and transitive relation) $\le$ on the interpretations induced by a notion of distance *d* between an interpretation $\omega$ and the profile *E*, denoted by $d(\omega,E)$. Intuitively, this is to select a collective outcome that is the closest (with respect to some notion of distance to be specified) to all individual belief bases while satisfying the integrity constraints. It should be noted that a distance-based fusion operator does not always guarantee a unique result. We will come back to this point when we look at the application of belief merging to judgment aggregation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      基于模型的 *IC* 融合算子在完整性约束 *IC* 的模型中选取那些较受偏好的模型，其中偏好关系取决于所用算子。于是，集体信念集 $\Delta_{\IC}(E)$ 保证是由所有被选模型中都为真的公式组成的集合，并且满足 *IC*。在前面所见的市议会例子中，这意味着建造游乐场与停车场永远不会被选为决定结果。偏好信息通常采取全预序（回想一下，预序是自反且传递的关系）$\le$ 的形式，施加于由解释 $\omega$ 与剖面 *E* 之间距离概念 *d* 所诱导的解释之上，记作 $d(\omega,E)$。直观上，这是在满足完整性约束的同时选取一个最接近所有个体信念基的集体结果。应当注意，基于距离的融合算子并不总能保证唯一结果。我们在考察信念合并在判断聚合中的应用时将回到这一点。
+    step2: |-
+      基于模型的 *IC* 融合算子所做的，是在完整性约束 *IC* 的诸模型之中挑出较受偏好者；偏好关系因算子而异。如此，集体信念集 $\Delta_{\IC}(E)$ 必是一切入选模型皆真的公式所成之集，且满足 *IC*。就前举市议会之例而言，这意味着“既建游乐场又建停车场”永远不会入选为决定结果。偏好信息一般表现为全预序（预序即自反且传递的关系）$\le$，它由解释 $\omega$ 与剖面 *E* 之间的距离概念 *d* 所诱导，记作 $d(\omega,E)$。直观上，这是要挑出一个集体结果：在满足完整性约束的前提下，它离一切个体信念基最近（距离概念尚待界定）。须注意，基于距离的融合算子并不总能给出唯一结果；此点在讨论信念合并在判断聚合上的应用时再谈。
   - id: 66
     kind: body
     source: |-
       We have seen that majority operators are characterized by trying to minimize the total dissatisfaction, whereas the arbitration operators aim at minimizing the local dissatisfaction. We can thus see the distance as a way to capture the notion of dissatisfaction. Inspired by the *economy principle* employed in belief revision, the outcome in merging should keep as much as information as possible from *each* individual belief base $K_i$. In other words, since the sources of information are assumed to be equally reliable, the merge should delete as little as possible from the sources. The idea then is to select the interpretations that minimize the distance between the models of *IC* and the models of the belief profile *E*. Formally, this can be expressed as follows:
 
       $$ \mymod(\Delta_{\IC}(E)) = \mymin (\mymod (\IC), \le_{d}) $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们已经看到，多数算子的特征在于力图使总体不满最小化，而仲裁算子旨在使局部不满最小化。因此我们可以把距离看作捕捉不满概念的方式。受信念修正中所用的经济原则启发，合并的结果应尽可能多地保留 *每个* 个体信念基 $K_i$ 的信息。换言之，既然信息来源被假定为同等可靠，合并就应尽可能少地从各来源中删减。于是想法是选取使 *IC* 的模型与信念剖面 *E* 的模型之间距离最小的那些解释。形式上，这可表述如下：
+
+      $$ \mymod(\Delta_{\IC}(E)) = \mymin (\mymod (\IC), \le_{d}) $$
+    step2: |-
+      前文已见，多数算子的特点在于力求总体不满最小，仲裁算子则力求局部不满最小。所以不妨把距离视作刻画“不满”的手段。信念修正有所谓经济原则，受其启发，合并的结果应尽量多地保存 *每个* 个体信念基 $K_i$ 的信息。换句话说，既然各信息源同样可靠，合并时就应从各源删削得越少越好。于是办法便是：挑选出使 *IC* 的诸模型与信念剖面 *E* 的诸模型之间距离最小者。形式上可表述如下：
+
+      $$ \mymod(\Delta_{\IC}(E)) = \mymin (\mymod (\IC), \le_{d}) $$
   - id: 67
     kind: body
     source: |-
