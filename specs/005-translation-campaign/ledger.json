@@ -17,10 +17,10 @@
   },
   "b": {
    "phase": "translate",
-   "claimed_by": "B-main-20261109",
-   "claimed_at": "2026-11-08T17:15:52Z",
-   "note": "B-main-20261109 接管：done 15/62；在途 8（s3_checked 6、r1_reviewed 1、drafted 3: bessarion/brouwer/belief-merging）；cleared 37 按源文词数升序推进；behaviorism 缺 [^ross-2008] 已补齐",
-   "advanced_at": "2026-11-08T17:39:11Z"
+   "claimed_by": "B-main-20261109b",
+   "claimed_at": "2026-11-08T18:42:32Z",
+   "note": "B-main-20261109 接管：done 15/62；在途 8（s3_checked 6、r1_reviewed 1、drafted 3: bessarion/brouwer/belief-merging）；cleared 37 按源文词数升序推进；behaviorism 缺 [^ross-2008] 已补齐 | 2026-11-09 复账接管（B-main-20261109b，用户指令：现在由你负责翻译 B，主会话直译不用子代理）：三源对账 62 条——done 15（源 125,767 词）/ s3_checked 6（54,938 词）/r1_reviewed 1（boethius-dacia 6,829 词，R-main 初审 02431e93 已提交）/ drafted 3（20,240 词：bessarion 4,223、brouwer 4,827、belief-merging 11,190）/ cleared 37（553,393 词）；有正文 25 条，清空桩 37 条（正文仅 H1，clear 语义合规）；步序、凭证、时间单调、version_pin 四维探针零异常——仅 boolalg-math 旧会话直写 JSON 的 intent 步（task_ops 不识别，不影响状态判定）与 bessarion/brouwer draft 步 evidence 空为已登记旧存量，不补造；账本 1 份（belief-merging 112 段，lq check HARD=0，compose 与正文归一化后逐字节一致）；NO_LEDGER 61（旧存量口径不补造）。纠正：①批次注记原记 done 7/cleared 39 已过时，按实测重记；②队列文档三表重建（cleared 37、在途 10）；③PROGRESS 刷新 B=15。交接：belief-merging draft 为 B-main-20261109 收口件（f6cec931，已入库），本会话自队列 A 队首 brentano-judgement（11,321 词）起继续全量重译；原 B-main-20261109 会话请勿再推进 B 批词条（避免同件双写）。",
+   "advanced_at": "2026-11-08T18:42:32Z"
   },
   "c": {
    "phase": "translate",
@@ -94,10 +94,10 @@
   },
   "m": {
    "phase": "translate",
-   "claimed_by": "M-main-20261108",
-   "claimed_at": "2026-11-08T02:28:33Z",
-   "note": "M-main-20261108 接续（2026-11-08 13:0x UTC）：mandeville 三校收口 s3_checked（commit a003522a）入 R-main 评审线；M 批在途 2 条均属评审线，待译 6 条 pending + 125 未建；下一目标 marsilius-padua（源 12,965 词，pending 中最小）",
-   "advanced_at": "2026-11-08T14:43:33Z"
+   "claimed_by": "M-main-20261109",
+   "claimed_at": "2026-11-08T18:42:47Z",
+   "note": "2026-11-09 02:4x 接管复算（M-main-20261109）：139 正式 = 基线 139 = 镜像 139；成稿 9 = done 6 + s3_checked 2（评审线 R-main）+ drafted 1（marsilius-padua，本会话三重验收后收编）；任务 14 = done 6 + s3_checked 2 + drafted 1 + pending 5；未建 125；待译主线 130 = 139 − done 6 − 评审线 2 − 已 drafted 1。账实零偏差（script/m_audit_20261109.py 五方对账），唯一偏差 marsilius-padua 状态滞后已纠正。",
+   "advanced_at": "2026-11-08T18:43:29Z"
   },
   "n": {
    "phase": "translate",
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-08T18:41:25Z"
+ "updated_at": "2026-11-08T18:43:29Z"
 }

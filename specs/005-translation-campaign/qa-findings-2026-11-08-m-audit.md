@@ -55,3 +55,40 @@
 * **s3**：check_style 0 issue、markdownlint 0 error（修 OIR 列表符号 - → *）、check_math 0、check_academic --strict OK。
 * **状态**：mandeville s3_checked（commit a003522a），入 R-main-20261108 评审线（session-handoff §6），本会话不推进 r1–r3。
 * **M 批在途**：2 条均在评审线（mandeville、moral-demands-permissions）；待译主线为 6 条 pending + 125 条未建任务。
+
+## 7. 接管复算与归属纠正（2026-11-09 02:4x UTC+8，M-main-20261109）
+
+**指令**：用户再次要求「计算、同步、纠正目前 M 词条的翻译进度，不使用子代理；现在由你负责翻 M」。本会话以新身份 M-main-20261109 接管 M 批，重算不引用旧记录。
+
+**方法**：`script/m_audit_20261109.py`（五方对账：SUMMARY × baseline × yuanwen × 成稿 × 任务 JSON × 账本 × git 脏/未提交）+ `script/m_structure_check_20261109.py`（结构三检：H1↔SUMMARY、version_pin、基线/镜像覆盖）。
+
+### 7.1 复算结果（2026-11-09 02:4x UTC+8）
+
+| 项 | 数值 | 依据 |
+| --- | --- | --- |
+| 正式词条 | 139 | SUMMARY `m/` 190 行 = 正式 139 + 别名/占位 51 |
+| 英文基线 | 139/139 | `baseline/entries.json` 逐 slug 命中 |
+| 转换镜像 | 139/139 | `yuanwen/m/<slug>.md` |
+| 成稿（>1 行） | 9 | 全部账本满段（见 §7.2 表） |
+| done | 6 | marsilius-inghen、mathematics-inconsistent、modesty-humility、molyneux-problem、montesquieu、moral-responsibility-empirical |
+| s3_checked（评审线） | 2 | mandeville、moral-demands-permissions |
+| drafted | 1 | marsilius-padua（本次收编） |
+| pending | 5 | mathematical-practice、model-organisms、montessori-maria、moral-learning、music |
+| 未建任务 | 125 | 139 − 14 |
+| **待译主线** | **130** | 139 − done 6 − 评审线 2 − 已 draft 1 |
+
+结构三检零缺陷：139 条 H1 与 SUMMARY 条目文字逐字符一致（0 偏差）；139 条基线、139 条镜像齐备；14 份任务 JSON `version_pin`（pubinfo + 存档版 + SHA-256）无缺失；9 份成稿账本段数全部满填（88/88、80/80、74/74、34/34、91/91、36/36、57/57、63/63、107/107）。
+
+### 7.2 偏差与处置
+
+1. **marsilius-padua 状态滞后（唯一账实偏差）**：工作区遗留未提交初译（287 行、账本 74/74、2026-11-09 01:51 前后落盘），任务状态仍停 `cleared`。三重验收后收编——`lq.py check` 守恒 HARD=0（74 段）；`lq.py compose` 去 NOTE 行后与成稿逐字符 diff=0；抽检段 1（导语）与段 30（DP 定义引块）对照 yuanwen 忠实无增删。`task_ops advance --step draft` 留痕，commit `bf1bcf2b`（仅 3 个 M pathspec 文件）。
+2. **认领归属纠正**：`ledger.json` 的 m 批 `claimed_by` 停在 M-main-20261108。处置：`campaign.py claim m --session M-main-20261109 --force` + `advance m translate --note`（复算口径写入注记）。
+3. **PROGRESS.md**：`tools/progress.py` 重生成（生成物，不手改）；全局计数含并行会话在途任务，M 行以本表为准。
+4. **评审线边界**：mandeville、moral-demands-permissions 属 R-main 评审线（session-handoff §6），本会话不推进 r1–r3；其余 s3_checked 收口后同样交评审线。
+
+### 7.3 本会话作业序
+
+1. marsilius-padua：drafted → s1（逐段核销 + 相关词条 NOTE 项「political philosophy: medieval Augustine」对 SUMMARY 回核）→ s2 → s3 → 交评审线。
+2. 5 条 pending 按源文体量升序开工：model-organisms（94.7 KB）→ music（108.4 KB）→ moral-learning（111.5 KB）→ montessori-maria（125.2 KB）→ mathematical-practice（153.8 KB）；每条 `clear` → 账本 init → 双版分批落盘 → `lq.py check` → compose → 四检 → s1/s2/s3。
+3. 125 条未建任务按 SUMMARY 序 `task_ops create --kind retranslate` 后逐条推进。
+4. 收工前 `python tools/check_all.py` 全绿；账本与任务状态同步提交。
