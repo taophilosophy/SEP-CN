@@ -139,50 +139,66 @@ segments:
     kind: body
     source: |-
       > That is not good, but it is true [concept].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 那不好，但它是真正的[概念]。
+    step2: |-
+      > 那并不好，但它是真正的[概念]。
   - id: 18
     kind: body
     source: |-
       Extant research shows that dual character concepts, but not descriptive concepts, tend to sound fine when combined with the “true” modifier (Knobe, Prasada, & Newman 2013). So, for merely descriptive concepts, the sentence makes little sense. For example, it sounds weird to say “that is a true sonnet”. Moreover, for positive evaluative concepts, the sentence also makes little sense because of the explicit negative evaluation. For example, it sounds weird to say “that masterpiece is not good”. Since participants think that the sentence “that is not good, but it is true art” sounds fine, Liao, Meskin, and Knobe argue that the concept of art is neither descriptive nor evaluative, but dual character.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      既有研究表明，双重特征概念、而非描述性概念，与“真正的”这一修饰语组合时往往听起来顺当（Knobe, Prasada, & Newman 2013）。因此，对纯粹描述性的概念来说，这个句子没有多大意义。例如，说“那是一首真正的十四行诗”听起来很怪。此外，对正面评价性概念来说，由于句子带有明确的负面评价，它也没有多大意义。例如，说“那幅杰作并不好”听起来很怪。既然被试认为“那不好，但它是真正的艺术”这句话听起来顺当，Liao、Meskin 与 Knobe 便论证说，艺术概念既非描述性的也非评价性的，而是双重特征的。
+    step2: |-
+      已有研究表明，与“真正的”这一修饰语搭配时，双重特征概念通常读来自然，描述性概念则不然（Knobe, Prasada, & Newman 2013）。可见对纯描述性概念而言，这个句子几乎讲不通，譬如说“那是一首真正的十四行诗”就很别扭。对正面评价性概念来说同样讲不通，因为句中有明确的负面评价——说“那幅杰作并不好”也很别扭。既然被试觉得“那不好，但它是真正的艺术”读来自然，Liao、Meskin 与 Knobe 便主张：艺术概念既非描述性亦非评价性，而是双重特征的。
   - id: 19
     kind: body
     source: |-
       ## 3. Ontology of Art
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 艺术的本体论
+    step2: |-
+      ## 3 艺术的本体论
   - id: 20
     kind: body
     source: |-
       Ontology of art (see entry on history of the ontology of art) aims to discover what kind of things works of art are, which ontological category or categories they belong to, whether it is possible and what it means to create or destroy them, and what it means for two different objects to be ‘the same’ work. Works of art can be divided into two categories: repeatable and non-repeatable. The former category consists of musical works and other kinds of works that exist in multiple instantiations. The latter category consists of singular works of art where there is only one original instance of that work and all others are merely copies of the original, for example, paintings or sculptures. This distinction also has implications for the way people evaluate work of art.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      艺术本体论（见“艺术本体论史”词条）旨在发现艺术作品属于何种事物、属于哪一个或哪些本体论范畴，创作或毁灭它们是否可能以及意味着什么，两个不同的对象成为“同一件”作品又意味着什么。艺术作品可以分为两类：可重复的与不可重复的。前者包括音乐作品以及其他以多个实例存在的作品。后者包括单件艺术作品——这类作品只有一个原初实例，其余的都只是原件的复制品，例如绘画或雕塑。这一区分对人们评价艺术作品的方式也有影响。
+    step2: |-
+      艺术本体论（见“艺术本体论史”词条）旨在弄清艺术作品究竟属于何种事物、隶属哪个或哪些本体论范畴，创作与毁灭它们是否可能、又意味着什么，以及两个不同对象何以成为“同一件”作品。艺术作品可分为两类：可重复的与不可重复的。前者如音乐作品，以及其他以多个实例而存在的作品；后者是单件的艺术作品，只有唯一的原初实例，其余皆为复制品，绘画与雕塑即属此类。这一区分还影响人们评价艺术作品的方式。
   - id: 21
     kind: body
     source: |-
       For repeatable artworks, the most pressing ontological question concerns the conditions under which two performances are of the same work. Christopher Bartel (2018) investigated intuitions on the repeatability of pop songs. He presented study participants with three scenarios describing three pairs of musical performances, with each of these pairs reflecting one of the following differences: a difference in provenance (two identically sounding performances are played by two different bands), in affect (one performance sounding humble, and one sounding dramatic), and in connotation (the two performances are played by different bands, with different lyrics and expressive of different emotions). Bartel found that a difference in provenance does not make a difference to whether the song is identical across different performances, but differences in affect and in connotation do.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对于可重复的艺术作品，最迫切的本体论问题在于：两场演奏在什么条件下属于同一件作品。Christopher Bartel（2018）考察了关于流行歌曲可重复性的直觉。他向研究被试呈现三种情境，描述三对音乐演奏，每一对分别反映以下差异之一：来源（provenance）的差异（两场听起来完全相同的演奏由两支不同的乐队演奏）、情感特质的差异（一场演奏听起来谦逊，另一场听起来戏剧化）、以及意涵的差异（两场演奏由不同乐队演奏，歌词不同，表达的情感也不同）。Bartel 发现，来源的差异并不影响一首歌在不同演奏之间是否同一，但情感特质与意涵的差异则有影响。
+    step2: |-
+      对可重复的艺术作品而言，最紧要的本体论问题是：两场演奏在什么条件下算作同一件作品。Christopher Bartel（2018）考察了人们对流行歌曲可重复性的直觉。他设计三种情境，分别描述三对演奏，每对只在以下一处不同：来源（provenance）不同——两场听来毫无二致的演奏由两支不同乐队完成；情感特质不同——一场听来谦抑，一场听来激越；意涵不同——两场由不同乐队演奏，歌词与所表达的情感均不相同。Bartel 发现，来源的差异不影响歌曲在不同演奏间的同一性，情感特质与意涵的差异则有影响。
   - id: 22
     kind: body
     source: |-
       Elzė Mikalonytė and Vilius Dranseika (2020) focused on works of classical music. They created scenarios that reflected the main points of disagreement among theories of the individuation of musical works, such as sonicism (which claims that identity of musical works depends on their acoustic properties only), instrumentalism (which also adds the instrument used to perform the musical work to the list of identity-conferring properties), and contextualism (which also emphasizes the importance of musico-historical context). In contrast to many other studies, Mikalonytė and Dranseika target intuitions about the identity of two performances *at the same point in time*. They presented the participants with seven scenarios, including, for example, two identically sounding performances of two identical scores which were independently created by two composers, or two performances that differ only with respect to their emotional expressivity. They concluded that folk intuitions correspond most with *pure sonicism*, the theory which claims that work identity depends solely on its (non-timbral) acoustic properties, although the identity of the composer is also an important factor. While Bartel concludes that pop music songs are not easily repeatable—in many cases, participants were inclined to deny that two performances were of the same song—Mikalonytė and Dranseika’s study points in the opposite direction: people consider works of classical music to be quite easily repeatable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Elzė Mikalonytė 与 Vilius Dranseika（2020）聚焦于古典音乐作品。他们设计的情境反映了音乐作品个体化理论之间的主要分歧，例如音响主义（主张音乐作品的同一性仅取决于其声学属性）、工具主义（还把演奏音乐作品所用的乐器列入赋予同一性的属性清单）、以及语境主义（还强调音乐史语境的重要性）。与许多其他研究不同，Mikalonytė 与 Dranseika 针对的是关于*同一时点*上两场演奏之同一性的直觉。他们向被试呈现七种情境，例如同两首完全相同的乐谱由两位作曲家各自独立创作、听起来完全相同的两场演奏，或仅在情感表现力上有所不同的两场演奏。他们得出结论：大众直觉与*纯粹音响主义*最为相符——该理论主张作品同一性仅取决于其（非音色的）声学属性——不过作曲家的身份也是一个重要因素。Bartel 的结论是流行歌曲不易重复——在许多情形中，被试倾向于否认两场演奏是同一首歌——而 Mikalonytė 与 Dranseika 的研究则指向相反方向：人们认为古典音乐作品相当容易重复。
+    step2: |-
+      Elzė Mikalonytė 与 Vilius Dranseika（2020）则以古典音乐作品为对象。他们设计的情境对应音乐作品个体化理论的主要分歧：音响主义主张音乐作品的同一性只取决于声学属性；工具主义则把演奏所用乐器也列入决定同一性的属性；语境主义还强调音乐史语境的作用。与多数同类研究不同，Mikalonytė 与 Dranseika 探问的是*同一时点*上两场演奏是否同一的直觉。他们呈现七种情境，其中包括：两位作曲家各自独立写出的两份相同乐谱、听起来毫无二致的演奏；或仅在情感表现力上有别的两场演奏。结论是：大众直觉最接近*纯粹音响主义*——作品同一性仅取决于其（非音色的）声学属性——不过作曲家身份也是重要因素。Bartel 认为流行歌曲不易重复（许多情形下被试倾向于否认两场演奏是同一首歌），Mikalonytė 与 Dranseika 的研究却指向相反方向：人们觉得古典音乐作品相当容易重复。
   - id: 23
     kind: body
     source: |-
       Nemesio Puy (2022) has criticized this approach for relying solely on textual vignettes, lacking real musical stimuli (for more on this discussion, see section 8). Puy’s experiments show that, compared to Bartel (2018) and Mikalonytė and Dranseika (2020), when study participants have the chance to hear musical works, they are even more likely to answer the individuation (or repeatability) question in the sonicist way. This tendency is especially apparent if the question is asked immediately after hearing two musical samples, without any contextual information being provided.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Nemesio Puy（2022）批评这一进路只依赖文字情境，缺少真实的音乐刺激（关于这一讨论的更多内容，见第 8 节）。Puy 的实验表明，与 Bartel（2018）以及 Mikalonytė 与 Dranseika（2020）相比，当研究被试有机会听到音乐作品时，他们更可能以音响主义的方式回答个体化（或可重复性）问题。若在听完两段音乐样本之后立即提问、且不提供任何语境信息，这种倾向尤为明显。
+    step2: |-
+      Nemesio Puy（2022）批评这类做法只依赖文字情境，缺少真实的音乐刺激（详见第 8 节）。Puy 的实验显示，与 Bartel（2018）、Mikalonytė 与 Dranseika（2020）相比，被试一旦有机会实际聆听音乐作品，反而更倾向于以音响主义方式回答个体化（或可重复性）问题；若在听完两段音乐后立即提问且不提供任何语境信息，这一倾向尤为突出。
   - id: 24
     kind: body
     source: |-
       Two more empirical studies in this area of inquiry investigate people’s intuitions regarding the *persistence* of musical works—in other words, their identity over time. Mikalonytė and Dranseika (2022) explored the hypothesis that musical works’ identity crucially depends on their purposes: different versions of a musical work remain versions *of the same work* if and only if they retain the same overall point they were created for. Their results provide some support for this hypothesis, but purpose was not considered to be a necessary condition. Again, this study shows that people have mostly sonicist intuitions—they believe that the identity of musical works mostly depends on their acoustic properties, and this is considered to be a much more important criterion in judgments of identity compared to the overall purpose of the work as intended by the composer.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一研究领域还有两项经验研究考察了人们对音乐作品*持存性*的直觉——换言之，即它们在时间中的同一性。Mikalonytė 与 Dranseika（2022）探索了如下假设：音乐作品的同一性关键在于其目的——音乐作品的不同版本当且仅当保持其被创作时所指向的总体要点，才仍是*同一件作品*的各个版本。他们的结果为该假设提供了一定支持，但目的并不被视为必要条件。这项研究再次表明，人们大多持有音响主义直觉——他们认为音乐作品的同一性主要取决于其声学属性，而在同一性判断中，这被视为远比作曲家所意图的作品总体目的更重要的标准。
+    step2: |-
+      该领域另有两项经验研究考察人们对音乐作品*持存性*（即其在时间中的同一性）的直觉。Mikalonytė 与 Dranseika（2022）检验的假设是：音乐作品的同一性关键在于其目的——一件音乐作品的不同版本，当且仅当保持创作时所指向的总体旨趣，才仍属于*同一件作品*。结果对该假设有一定支持，但目的并未被视为必要条件。这项研究再度显示，人们多半持音响主义直觉：音乐作品的同一性主要取决于声学属性，而在同一性判断中，这一标准远比作曲家所意图的作品总体目的更为重要。
   - id: 25
     kind: body
     source: |-
