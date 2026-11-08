@@ -2,7 +2,7 @@
   "slug": "omnipresence",
   "kind": "retranslate",
   "zh_doc": "o/omnipresence.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "direction",
@@ -17,6 +17,13 @@
       "actor": "task_ops",
       "at": "2026-11-08T14:32:02Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "OPQR-main-20261108",
+      "at": "2026-11-08T16:20:03Z",
+      "evidence": "draft（ADR-0021 账本协议，OPQR-main-20261108 主会话直译双版，p1-p4 分批落盘 commits 99334879/c6940e9c/fb5946b2＋末批）：账本 38 段（body 37+oir 1，id 1–38 连续），lq.py check 守恒 HARD=0，SOFT 2 条留痕（段18 * 计数 8→6 系《神学大全》《反异教大全》书名号化；段38 oir 机械段 step1==step2 为样板段）；compose 写回 13659 字符，italic_to_bold 10 行（中文强调转粗体）；四检 check_style --strict 0 issue、check_academic --strict 0 硬错误、check_math 0 缺失、check_summary HARD 0；相关词条 8 项全部命中 SUMMARY 正形（坎特伯雷的安瑟伦/托马斯·阿奎那/希波的奥古斯丁/基督教思想中的永恒/查尔斯·哈茨霍恩/全能/全知/泛神论），无 map_related 误配；术语登记 13 行（全在/遍在性/维度量/类比谓述/位格临在/第二人称体验/共同注意/基本行动/古典有神论、entension 与 pertension 按 ADR-0022 保留英文待定）、人名登记 15 行（现代学者保留英文），已随 ef67405e 入册；源文疑点照录留痕：段34/35 source 两处 casual 系 causal 笔误（译文按因果义）、段13 源文『In his (1988) Edward Wierenga』语序异常（译作『Edward Wierenga 在（1988）』）、段35 引注『(2019, 59)』格式与其余 (2019, p. 60) 不一。版本钉 Jun 1, 2026 / Summer 2026。"
     }
   ],
   "blockers": [],
