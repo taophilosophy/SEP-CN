@@ -16,7 +16,7 @@
       "status": "ok",
       "actor": "M-main-20261108",
       "at": "2026-11-08T04:41:29Z",
-      "evidence": "承接 M-main-20261108 已 compose 的账本稿（88/88 段 step2 双版已填，账本 4 批提交 45f82a80/59b4cb28/1f39c840/81bd5542）：lq.py check 守恒 HARD=0（88 段，软提示均为机械段/斜体转书名号正常项）；compose 干跑与工作区成稿逐字符 diff=0（无手改丢失）；italic_to_bold_cjk 转换 0 行（书名一律书名号，无纯中文斜体残留）；成稿 300 行，待 s1 逐段核销"
+      "evidence": "承接 M-main-20261108 已 compose 的账本稿（88/88 段 step2 双版已填，账本 4 批提交 45f82a80/59b4cb28/1f39c840/81bd5542）：lq.py check 守恒 HARD=0（88 段，软提示均为机械段/斜体转书名号正常项）；compose 干跑与工作区成稿逐字符 diff=0（无手改丢失）；italic_to_bold_cjk 转换 0 行（书名一律书名号，无纯中文斜体残留）；成稿 300 行，待 s1 逐段核销；收编工作区遗留成稿润色（2026-11-08 19:12，33 段 step2 同步、1 段 step1 误译修正「bare bones notion」；lq.py check HARD=0，compose 输出与成稿逐字符相等，抽检忠实）"
     }
   ],
   "blockers": [],
