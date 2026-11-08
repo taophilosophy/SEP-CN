@@ -2,7 +2,7 @@
   "slug": "buridan",
   "kind": "retranslate",
   "zh_doc": "b/buridan.md",
-  "state": "drafted",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,27 @@
       "actor": "B-main-20261108",
       "at": "2026-11-08T05:10:47Z",
       "evidence": "接管收编前会话在途组装稿：script/assemble_buridan.py 十分片组装（7 正文片+57 内容注+105 书目照录+尾节），独立只读对账五项全绿——行内标记 79:79 多重集与顺序全等（ASCII 撇号归一）、note 键集 57/57、书目 defs 105 全覆盖、H2 7/7、引文 6:6、段落 50:50、年份 45:45、尾节四件套齐备；人名 9 行术语 27 行已登记入库（git show HEAD 核实）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "B-main-20261108",
+      "at": "2026-11-08T08:30:13Z",
+      "evidence": "一校（对照核销）：全篇正文 128 行逐段回源核对；实修 52 处——源文单句被句号截断的断句碎片 14 处重于语义断点分句、错译 3 处（人有两个字母→三个字母、其实论→实在论、well into 直至→深入）、译名对齐 5 处（token→殊例循 Token/type 先登册行、proprie→本己×3、complexe significabile→可复合意谓者）、creaturely→受造物、引文内标点照源 2 处、体例 5 处（四短论补拉丁原题、DMA 句末补句号、1999 and→与、层级间多余空格、习语改写）；修复后五项对账仍全绿（79:79 标记含顺序、57 note 键、105 书目、50:50 段落、45:45 年份）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "B-main-20261108",
+      "at": "2026-11-08T08:32:10Z",
+      "evidence": "二校（术语人名）：已登记 27 术语逐项核销正文用形一致（反周流/扩展性词项/人称·质料·简单指代/冲力/1277 年谴责/本质主义唯名论/艺学硕士等）；token-based semantics 册行订正个例→殊例（同键异译以 Token/type 2026-10-27 先登行为准回改正文）；人名补登 7 行（Seneca the Elder 与既有 Seneca 行分立＋Klima/Faral/Biard/Hubien/Pironet/Maier 现代学者保留英文 ADR-0022）；昨批 8 行 6 列畸形订正 8 列标准形；登记均已入 HEAD（a062eaeb 他会整册收编，逐行核实）；check_terms 0 硬错误"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "B-main-20261108",
+      "at": "2026-11-08T08:32:12Z",
+      "evidence": "三校（文风学术）：check_style --strict 0 问题；check_math 0 公式无失衡；check_academic --strict 0 硬错误；check_prose 31→13，叙述文残余 0，残余 13 条全为引文块/直引内（S 4.2.6、S 4.3.2 两见、S 5.3.2、S 5.6.8、S 9.8、QM I.2、QM XII.9、QP I.4），按 ADR-0020 豁免留痕"
     }
   ],
   "blockers": [],
