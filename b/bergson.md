@@ -116,6 +116,16 @@
 
 **以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+### 原始文献
+
+#### 柏格森著作
+
+#### 英译本
+
+### 二手文献
+
 [^edition-1959]: *Œuvres*, Edition du Centenaire, Paris: Presses Universitaires de France, 1959.
 
 [^mélanges-1972]: *Mélanges*, Paris: Presses Universitaires de France, 1972.

@@ -2,7 +2,7 @@
   "slug": "bergson",
   "kind": "retranslate",
   "zh_doc": "b/bergson.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "ABCDE-main-20261103",
       "at": "2026-11-02T20:24:20Z",
       "evidence": "check_style 0 issue；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；文献中法对照条目照录合规"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T05:12:40Z",
+      "evidence": "独立初审：全文回读 7 节（生平/多的概念/直觉方法/知觉与记忆/创造进化/两个来源/复兴）+ 文献区，逐块对齐无错译；实修结构缺件 2 项（对照 fan-yi-mu-ban L235 现制 References 要点）：①转换器契约注记（[^key] 说明行）缺失补回；②源文 4 个文献子节标题（Primary Literature/Works by Bergson/English Translations/Secondary Literature）整体漏搬→补汉译空壳小节（### 原始文献/#### 柏格森著作/#### 英译本/### 二手文献）；C1 段落差 168→165 随两修复位（余 byline 豁免）；ENRES 6 处全为书名规范括注；prose 57 条全豁免（45 de-chain 绵延术语链/7 长句柏格森直引/4 被动自然中文/1 weak-verb 术语误报）；四检 style 0/academic 无硬错误/math 0；人名登记 20 行（德勒兹/德里达/列维纳斯/黎曼/涂尔干等基石名缺口补课）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T05:12:40Z",
+      "evidence": "独立复审：r1 断言（说明行=1、4 小节齐）通过；五维守恒：defs 99:99、marker 多重集、年份序列 OK(292)、H2 7:7；BLOCK 170:168 差 2＝byline 省略+说明行；ital 差为 pubinfo/byline 随源文口径；check_terms 硬错误 0"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T05:12:43Z",
+      "evidence": "终审：check_all 七项本地全绿（2026-11-08）；r2 无新增问题"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "R-main-20261108",
+      "at": "2026-11-08T05:12:44Z",
+      "evidence": "收口：置 done；凭证链 s3=ABCDE-main-20261103、r1–done=R-main-20261108"
     }
   ],
   "blockers": [],
