@@ -86,7 +86,7 @@ def check_line(path, lineno, line, issues):
             issues.append({"path": path, "line": lineno,
                            "rule": "de-chain",
                            "detail": "“的”连用或密度过高：%s" % excerpt})
-        if WEAK_RE.search(sent):
+        if WEAK_RE.search(sent.replace("进行得", "\x00\x00\x00")):
             issues.append({"path": path, "line": lineno,
                            "rule": "weak-verb",
                            "detail": "弱动词（进行/作出/加以/予以+名词）：%s" % excerpt})

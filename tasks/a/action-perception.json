@@ -80,6 +80,41 @@
       "actor": "governance-session",
       "at": "2026-11-04T16:38:42Z",
       "evidence": "QA 返工立项（qa-rework，状态保持 done 不动，认领会话按 update 语义只走变更段）：changes: specs/005-translation-campaign/results/qa-prose-2026-10-31-summary.md#返工队列；范围=Critical 定点核对（改前回核英文镜像）+check_prose 语言告警清零或逐条豁免留痕；优先序与作业程序见 specs/005-translation-campaign/qa-rework-dispatch-2026-11-05.md"
+    },
+    {
+      "step": "rework-s1",
+      "status": "ok",
+      "actor": "qa-rework-ses-20261108",
+      "at": "2026-11-08T00:25:28Z",
+      "evidence": "Critical 定点核对：traverse Critical 1（L379『快速的定性描述将不得不 sufficed』英文残留）现状已为『只能满足于一个简短的定性描述』，回核 yuanwen『a quick qualitative description will have to suffice』一致→销账"
+    },
+    {
+      "step": "rework-s2",
+      "status": "ok",
+      "actor": "qa-rework-ses-20261108",
+      "at": "2026-11-08T00:25:28Z",
+      "evidence": "语言告警 112→23：逐句改写 89 处（拆长句 12／破「的」链 40+／多重「被」6／弱动词 4）；S5 白名单新增『进行得+补语』（主动词用法）并补单测；残余 23 条全部落在直接引文块或引文内定义（贝克莱/Hurley & Noë/Prinz/Taylor），引文保真不动，豁免留痕见 specs/005-translation-campaign/results/qa-rework-2026-11-08.md"
+    },
+    {
+      "step": "rework-s3",
+      "status": "ok",
+      "actor": "qa-rework-ses-20261108",
+      "at": "2026-11-08T00:25:28Z",
+      "evidence": "变更段复核：脚注标记 370:370、脚注定义 196:196、粗体 134:134、H2 8:8、H3 9:9、引文块 37:37 全等；check_style --strict 0；check_academic --strict 无硬错误；check_math unbalanced 0"
+    },
+    {
+      "step": "rework-r3",
+      "status": "ok",
+      "actor": "qa-rework-ses-20261108",
+      "at": "2026-11-08T00:25:28Z",
+      "evidence": "终检：check_prose 残留 23 条均为引文豁免；术语族（感觉运动权变／传出副本／本体感受／运动成分理论／温和准备理论）未动；跨词条既定名未动"
+    },
+    {
+      "step": "rework-close",
+      "status": "ok",
+      "actor": "qa-rework-ses-20261108",
+      "at": "2026-11-08T00:25:28Z",
+      "evidence": "返工闭账（dispatch 表划账）：提交见 git log -1 -- a/action-perception.md；变更 47 行（改写 89 处）"
     }
   ],
   "blockers": [],

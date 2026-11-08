@@ -67,6 +67,11 @@ class TestCheckProse(unittest.TestCase):
         self.assertNotIn("passive-bei", rules(run(
             "主动与被动之间有一个重要区别，木头对火是被动的。\n")))
 
+    def test_jinxing_de_not_weak_verb(self):
+        # "进行得+补语"是主动词+补语（proceed），非弱动词框架（S5 白名单 2026-11-08）
+        self.assertNotIn("weak-verb", rules(run(
+            "这一联想过程进行得如此迅速，以致我们分不清判断与感觉。\n")))
+
     def test_mudi_not_de_chain(self):
         # "目的/目的论"词内的"的"不是结构助词（S5 白名单 2026-11-08）
         self.assertNotIn("de-chain", rules(run(
