@@ -122,7 +122,7 @@ $$\begin{align} &(p\land q>\neg p\land q), \\ &(p\land \neg q>\neg p\land \neg q
 
 *Figure 3.*
 
-**Von Wright’s 5 preference principles**
+**von Wright 的五条偏好原则**
 
 $$\begin{align} &\tag*{\(V_1\)} (p>q) \rightarrow\neg (q>p)&& \textrm{(\(>\)-asymmetry)}\\[1em] & \tag*{\(V_2\)} (p>q) \land (q >r)\rightarrow q>r&& \textrm{(\(>\)-transitivity)}\\[1em] & \tag*{\(V_3\)} (p>q)\leftrightarrow(p\land \neg q)> (\neg p\land q)&& \textrm{(\(>\)-expansion)}\\ \end{align}$$ $$ \begin{align}\tag*{\(V_4\)}\quad (p&\lor q)>(r \lor s) \leftrightarrow \\ &(p \land \neg r \land \neg s) > (\neg p\land \neg q \land r) \\ &\land\ (p\land \neg r \land \neg s)> (\neg p\land \neg q \land s)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land r)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land s) \ \text{(disjunctive distribution)} \end{align} $$ $$ \begin{align}\tag*{\(V_5\)} (p&>q) \leftrightarrow \\ &((p\land r)> (q\land r)) \\ &\land\ ((p\land \neg r)>(q\land \neg r)) \qquad {\textrm{(amplification)}} \end{align} $$
 
@@ -170,17 +170,17 @@ Rescher（1966, 1967）引入了偏好逻辑的第一个语义学，其模型是
 
 1. $v(\neg \varphi) = 1-v(\varphi)$
 2. $v(\varphi\lor\psi) = \textrm{max}\{v(\varphi),v(\psi)\}$
-3. $v(\varphi P\psi) = 1$ if $m(\varphi) \lt m(\psi)$ on A, or 0 otherwise
+3. 若 A 上 $m(\varphi) \lt m(\psi)$ 成立，则 $v(\varphi P\psi) = 1$；否则为 0
 
-For a set $\Gamma$ of formulas, the satisfaction relation is defined by:
+对给定的公式集 $\Gamma$，满足关系定义如下：
 
 $$\begin{align*} A, m, v \models p &\quad \textrm{ iff}\quad v(p) = 1 \textrm{ for atomic } p\\ A, m \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } v\\ A, v \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } m\\ A \models \varphi &\quad \textrm{ iff}\quad A, m, v\models \varphi \textrm{ for all } m \textrm{ and } v\\ \models \varphi &\quad \textrm{ iff}\quad A \models \varphi \textrm{ for all } A (\varphi \textrm{ is true})\\ A, m, v \models \Gamma &\quad \textrm{ iff}\quad A, m, v \models \Gamma \textrm{ for all } \varphi\in\Gamma\\ \Gamma\models \varphi &\quad \textrm{ iff}\quad A, m,v\models\Gamma \Rightarrow A, m,v\models \varphi\\ \end{align*}$$
 
 Van Dalen 把上述语义称为非理性语义，主要是因为逻辑等价的命题可以导致不同的偏好。因此他考虑对测度 m 或偏序集 A 添加三个额外条件，以得到更具受限性的语义：
 
-1. If $\varphi\equiv \psi$ is a tautology, then $m (\varphi) = m(\psi)$.
-2. A is linearly ordered.
-3. A is the set of reals and $m(\neg \varphi)=-m(\varphi)$.
+1. 若 $\varphi\equiv \psi$ 为重言式，则 $m (\varphi) = m(\psi)$。
+2. A 构成线性序。
+3. A 为实数集，且 $m(\neg \varphi)=-m(\varphi)$。
 
 Van Dalen 给出多个理论——**PREFIR**、**PREF**、**PREFL** 与 **PREFR**——概述于图 5。他证明：**PREFIR** 对非理性语义完全，**PREF** 对带条件 (i) 的语义完全，**PREFL** 对线性语义完全，**PREFR** 对 Rescher 语义完全。
 
@@ -229,23 +229,23 @@ $$\begin{align*} \tag*{P1} \neg (\varphi> \varphi) \\ \tag*{P2} \varphi>\psi \la
 
 在语法方面，给出一套模态偏好语言以表达基本的偏好关系及其性质。该语言是命题逻辑的扩充，带有两个新算子 $\lozenge^{\geq}\varphi$ 与 $\lozenge^{>}\varphi$（Van Benthem, Girard, & Roy 2009）。其真值条件定义如下：
 
-$\mathcal{M}$, $w \models \lozenge^{\geq} \varphi$    iff    for some v   with $v\succeq w$, $\mathcal{M}$, $v \models \varphi$.
+$\mathcal{M}$, $w \models \lozenge^{\geq} \varphi$    当且仅当有 v 满足 $v\succeq w$，且 $\mathcal{M}$, $v \models \varphi$。
 
-$\mathcal{M}$, $w \models \lozenge^{>} \varphi$    iff    for some v   with $v \succ w$, $\mathcal{M}$, $v \models \varphi.$
+$\mathcal{M}$, $w \models \lozenge^{>} \varphi$    当且仅当有 v 满足 $v \succ w$，且 $\mathcal{M}$, $v \models \varphi$。
 
 下图 6 所示的理论是 Van Benthem、Girard 与 Roy（2009）给出的模态偏好逻辑公理化，其中 $\succeq$ 是传递且自反的关系，E 是存在模态词，解释如下：
 
-$\mathcal{M}, w \models E\varphi$    iff    for some $v, \mathcal{M}, v \models \varphi$.
+$\mathcal{M}, w \models E\varphi$    当且仅当有 $v, \mathcal{M}, v \models \varphi$。
 
 *Figure 6.*
 
 **模态偏好逻辑**
 
-* S4 for $\lozenge^{\geq}$, S5 for E, K for $\lozenge^{>}$.
-* Inclusion axioms:
+* $\lozenge^{\geq}$ 采用 S4，E 采用 S5，$\lozenge^{>}$ 采用 K。
+* 包含公理：
 * $\lozenge^{>} \varphi\rightarrow\lozenge^{\geq} \varphi$
 * $\lozenge^{\geq} \varphi\rightarrow\lozenge E\varphi$
-* Interaction axioms between $\lozenge^{\geq}\varphi$ and $\lozenge^{>} \varphi$:
+* $\lozenge^{\geq}\varphi$ 与 $\lozenge^{>} \varphi$ 的交互公理：
 * $\lozenge^{>}\lozenge^{\geq} \varphi\rightarrow\lozenge^{>} \varphi$
 * $\lozenge^{\geq}\lozenge^{>} \varphi\rightarrow\lozenge^{>} \varphi$
 * $\psi\land \lozenge^{\geq}\varphi\rightarrow\lozenge^{>}\varphi\lor \lozenge^{\geq}(\varphi\land \lozenge^{\geq}\psi)$
@@ -260,7 +260,7 @@ $$\begin{align*} p\geq^{\forall\forall}q & := \forall w \models q\, \forall v\mo
 
 在语法方面，为表达提升，基本模态偏好语言以全称模态词 $U\varphi$（及其对偶 $E\varphi$）扩充（Boutilier 1992）[^boutilier-1992]。这一新模态词的真值定义是：
 
-$\mathcal{M}$, $w \models U \varphi$    iff    for all v  , $\mathcal{M}$, $v \models \varphi$.
+$\mathcal{M}$, $w \models U \varphi$    当且仅当对任意 v，$\mathcal{M}$, $v \models \varphi$。
 
 有了这一模态词，语言获得更大的表达力，可以定义与提升问题相关的一般偏好概念。我们给出一个例子：
 
@@ -279,9 +279,9 @@ Halpern（1997）为“相对似然”逻辑提出一个完全公理化。它在
 
 给定偏好模型 $\mathcal{M}=(W, \succeq, V)$，偏好公式解释如下：
 
-> $\mathcal{M} \models \varphi > \psi$ iff $\llbracket \varphi \rrbracket _{\mathcal{M}}$ is nonempty, $\forall v \in \llbracket \psi \rrbracket _{\mathcal{M}}\exists u \in \llbracket \varphi \rrbracket _{\mathcal{M}}$ such that $u\succ v$ and u dominates $\llbracket \psi \rrbracket _{\mathcal{M}}$
+> $\mathcal{M} \models \varphi > \psi$ 当且仅当 $\llbracket \varphi \rrbracket _{\mathcal{M}}$ 非空，且 $\forall v \in \llbracket \psi \rrbracket _{\mathcal{M}}\exists u \in \llbracket \varphi \rrbracket _{\mathcal{M}}$：$u\succ v$，且 u 支配 $\llbracket \psi \rrbracket _{\mathcal{M}}$
 
-and u dominates V if there is no $v' \in V$ such that $v'\succ u$.
+其中 u 支配 V，当且仅当不存在 $v' \in V$ 使 $v'\succ u$。
 
 当 $\succeq$ 是偏序时，Halpern（1997）的完全公理化由图 7 所列的公理与规则构成。公理 2 对应 $\succeq$ 的自反性，公理 3 对应 $\succeq$ 的传递性。在全预序情形，还须添加公理 $\varphi_1>\varphi_2\rightarrow (\varphi_1>\varphi_3)\lor(\varphi_3>\varphi_2)$。
 
@@ -289,12 +289,12 @@ and u dominates V if there is no $v' \in V$ such that $v'\succ u$.
 
 **系统 AX**
 
-1. All substitution instances of tautologies of propositional calculus.
+1. 命题演算重言式的所有替换实例。
 2. $\neg (\varphi> \varphi)$
 3. $((\varphi_1 \lor \varphi_2)> \varphi_3) \land ((\varphi_1\lor \varphi_3)> \varphi_2)\rightarrow(\varphi_1>(\varphi_2\lor \varphi_3))$
 4. $U (\varphi_1\rightarrow\varphi_2) \land U(\varphi_3\rightarrow\varphi_4)\land(\varphi_1>\varphi_4) \rightarrow(\varphi_2>\varphi_3)$
-5. Gen. $U\varphi,$ for all propositional tautologies.
-6. MP. From $\varphi$ and $\varphi\rightarrow\psi$ infer $\psi$.
+5. Gen. 对一切命题重言式取 $U\varphi,$
+6. MP. 由 $\varphi$ 与 $\varphi\rightarrow\psi$ 推出 $\psi$。
 
 图 7。
 
@@ -302,7 +302,7 @@ Shi 与 Sun（2021）的一篇近期论文探索了偏好提升的另一种方�
 
 $$\mathcal{M}, w \models \varphi \geq \psi \text{ iff } \begin{cases} (1) \ \forall x \in \llbracket\varphi\rrbracket_w \ \exists y \in \llbracket\psi\rrbracket_w : x \succeq_w y; \\ (2) \ \forall x \in \llbracket\psi\rrbracket_w \ \exists y \in \llbracket\varphi\rrbracket_w : y \succeq_w x \end{cases}$$
 
-where $\llbracket\varphi\rrbracket_w$ denotes the set of w-accessible worlds that satisfy $\varphi$. Traditionally applied in fields like denotational semantics, Shi and Sun (2021) extend the Egli-Milner order to preference logic by developing a complete axiomatic system for the “convex order” derived from a total pre-order.
+其中 $\llbracket\varphi\rrbracket_w$ 表示自 w 可及且满足 $\varphi$ 的世界之集。这一序传统上见于指称语义等领域；Shi 与 Sun（2021）把它扩展到偏好逻辑，对由全预序导出的“凸序”给出了完整的公理化系统。
 
 ## 4 基于理由的偏好
 
@@ -368,7 +368,7 @@ $$C(x) \gg Q(x) \gg N(x),$$
 
 $$x \succeq_M y \iff S_x \geq S_y,$$
 
-where $S_x = \{ P \in M : x \text{ has } P \}$ and $S_y = \{ P \in M : y \text{ has } P \}$. This relation ensures that the agent’s preferences in any motivational state M reflect the agent’s stable evaluation of property combinations across contexts.
+其中 $S_x = \{ P \in M : x \text{ has } P \}$，$S_y = \{ P \in M : y \text{ has } P \}$。这一关系确保：行动者在任一动机状态 M 中的偏好，都体现其对属性组合跨情境的稳定评价。
 
 Dietrich 与 List（2013a,b）的工作通过对比两种理性来探讨理性问题：结构理性——聚焦偏好中的内在一致性（如传统经济学）——与实质理性——评估偏好内容的正当与否。形式理性要求逻辑融贯，例如若 A 优于 B 且 B 优于 C 则 A 优于 C。实质理性则认为：即便偏好一致，若其自我毁灭或有害，也应视作“非理性的”——它评估偏好自身的价值，而不只是其融贯性。对这些哲学问题的更早讨论见 Pettit（2002）。
 
@@ -382,7 +382,7 @@ Osherson 与 Weinstein（2012）提出一种偏好逻辑：偏好并非任意、
 
 $$u: W \times S \rightarrow \mathbb{R}$$
 
-where W is the set of possible worlds and S indexes utility scales such as safety or cost.
+其中 W 为可能世界之集，S 标示效用尺度，如安全或成本。
 
 为评估诸如是否安装火灾报警器的选择，模型使用“选择函数” s 来辨识与现实世界最接近的备选世界以供比较。例如它比较
 
@@ -424,7 +424,7 @@ Van Benthem 与 Liu（2007）发展了动态认知逻辑的一个扩充，用以
 
 $$(\mathcal{M}, s) \models [\sharp \varphi]\psi \quad\textrm{ iff }\quad \mathcal{M}_{\sharp \varphi}, s \models \psi$$
 
-where $\mathcal{M}_{\sharp \varphi}$ is defined with the same domain, valuation, and actual world as $(\mathcal{M}, s)$ but with the preference relations updated by subtracting the preference links from $\varphi$-worlds to $\neg \varphi$-worlds:
+其中 $\mathcal{M}_{\sharp \varphi}$ 与 $(\mathcal{M}, s)$ 具有相同的定义域、赋值与现实世界，唯偏好关系经更新，删去由 $\varphi$-世界指向 $\neg \varphi$-世界的偏好链接：
 
 $$\leq^{*} = \leq - \{(s, t) \mid \mathfrak{M}, s \models \varphi \textrm{ and } \mathfrak{M}, t \models \neg \varphi\}.$$
 
@@ -432,11 +432,11 @@ $$\leq^{*} = \leq - \{(s, t) \mid \mathfrak{M}, s \models \varphi \textrm{ and }
 
 $$(?\neg \varphi ; R) \cup (R ; ?\varphi)$$
 
-indicating that all existing R links are retained with the exception of those links from $\varphi$-worlds to $\neg \varphi$-worlds. This setup allows for different types of preference change. For example, adding preference links (making every $\varphi$-world preferable to every $\neg \varphi$-world) can be represented as
+即除由 $\varphi$-世界指向 $\neg \varphi$-世界的链接外，所有既有 R 链接均予保留。这一设置可容纳不同类型的偏好改变。例如，添加偏好链接（使每个 $\varphi$-世界都优于每个 $\neg \varphi$-世界）可表示为
 
 $$R := R \cup (?\neg \varphi ; \top; ?\varphi)$$
 
-where $\top$ denotes the universal relation. *Radical preference upgrade* is defined as
+其中 $\top$ 即普适关系。*Radical preference upgrade*（激进偏好升级）则定义为
 
 $$\Uparrow \varphi(R) := (?\varphi;R;?\varphi)\cup(?\neg \varphi; R;?\neg \varphi) \cup (?\neg \varphi;\top;?\varphi)$$
 
@@ -460,7 +460,7 @@ $$\tag{P1} P\alpha \rightarrow [*\alpha]P\alpha $$
 
 $$\tag{P5} P\alpha \land N\beta \rightarrow [*\beta]P\alpha$$
 
-(P5) implies that learning that something that was expected is actually the case should not alter existing preferences. This principle, equivalently stated as $P\alpha \land \neg[*\beta]P\alpha \rightarrow \neg N\beta$, expresses that unexpected information is necessary for preference change to occur.
+（P5）蕴涵：得知本以为如此的事竟然确实如此，不应改变既有偏好。该原则等价地写成 $P\alpha \land \neg[*\beta]P\alpha \rightarrow \neg N\beta$，意即意外信息乃是偏好改变发生的必要条件。
 
 总之，信念更新驱动偏好改变，这表明二者的紧密关系。AGM 理论与动态逻辑系统等框架为建模这一演化提供了工具。
 
@@ -476,11 +476,11 @@ $$\tag{P5} P\alpha \land N\beta \rightarrow [*\beta]P\alpha$$
 * 给 A 最低优先性：可把 A 加在底部，使之优先性最低。
 * **并列**：可把 A 与 $\mathscr{B}$ 并置，不在 A 与其他优先性之间建立次序。
 
-The set $\alpha(\mathscr{B}, A)$ of basic graph updates is defined in a way that allows these possible changes to be captured:
+基本图更新之集 $\alpha(\mathscr{B}, A)$ 的定义，使这些可能的改变均可刻画：
 
 $$\alpha(\mathscr{B}, A) := A \mid \mathscr{B}_1 ; \mathscr{B}_2 \mid \mathscr{B}_1 \parallel \mathscr{B}_2.$$
 
-Here, $\mathscr{B}_1 ; \mathscr{B}_2$ represents the sequential composition of adding $\mathscr{B}_1$ on top of $\mathscr{B}_2$ so that every element in $\mathscr{B}_1$ has a higher priority than every element in $\mathscr{B}_2$. Parallel composition, ($\mathscr{B}_1 \parallel \mathscr{B}_2$), combines $\mathscr{B}_1$ and $\mathscr{B}_2$ as disjoint sets with no priority ordering between them.
+其中 $\mathscr{B}_1 ; \mathscr{B}_2$ 表示顺序复合：将 $\mathscr{B}_1$ 叠加于 $\mathscr{B}_2$ 之上，使 $\mathscr{B}_1$ 的每一元素都优先于 $\mathscr{B}_2$ 的每一元素。并行复合（$\mathscr{B}_1 \parallel \mathscr{B}_2$）则把 $\mathscr{B}_1$ 与 $\mathscr{B}_2$ 作为不相交的两个集合合并，其间不设优先序。
 
 优先基不仅可通过插入新命题来修改，还可通过删除操作移除优先性。例如，顶部删除会把优先基中不被其他项“支配”的项移除，即具有最高优先级的项。
 
@@ -502,7 +502,7 @@ $$\sigma(\preceq_{\mathscr{B}}, A) = \preceq_{\alpha(\mathscr{B}, A).}$$
 
 图 A：
 
-![a commuting diagram: link to extended description below](../assets/logic-preference/figxy1.svg)
+![交换图：扩展描述见下](../assets/logic-preference/figxy1.svg)
 
 图 A：交换图，其中新命题 A 以并列方式加入既有基［图 A 的扩展描述见补充材料。]
 
@@ -510,7 +510,7 @@ $$\sigma(\preceq_{\mathscr{B}}, A) = \preceq_{\alpha(\mathscr{B}, A).}$$
 
 图 B
 
-![a diagram: link to extended description below](../assets/logic-preference/figxy2.svg)
+![示意图：扩展描述见下](../assets/logic-preference/figxy2.svg)
 
 图 B：交换图，其中新命题 A 被置于优先图顶部［图 B 的扩展描述见补充材料。]
 
@@ -542,13 +542,13 @@ $$\sigma(\preceq_{\mathscr{B}}, A) = \preceq_{\alpha(\mathscr{B}, A).}$$
 
 解释“其余一切相同”这一短语时，一个自然的做法是使用世界的等价类。该领域的许多研究者都采取了这一进路。例如，Doyle 与 Wellman（1994）为个体定义了依赖语境的等价关系，称为语境等价。由此，等价类可以随所考虑的语境而变化。
 
-Formally, let $\Omega$ be a set of states, and let $\mathcal{E}(\Omega)$ denote the set of all equivalence relations on $\Omega$. The contextual equivalence is defined on a set $\Omega$ as a function $\eta$: $\mathcal{P}(\mathcal{P}(\Omega))\rightarrow\mathcal{E} (\Omega)$ assigning to each set of proposition $\{p, q, \ldots\}$ an equivalence relation $\eta(p, q, \ldots)$. For $w\,\eta(p,q,\ldots)\, w^{\prime}$ , we write $w\approx_{ mod\, p,q,\ldots} w^{\prime}$, meaning that with regard to $p, q, \ldots$, it is the case that w and $w^{\prime}$ are the same. Doyle and Wellman (1994) thus proposed dividing the space of possibilities into equivalence classes and ignoring comparison links that go across these classes.
+形式上，设 $\Omega$ 为状态集，$\mathcal{E}(\Omega)$ 表示 $\Omega$ 上所有等价关系构成的集合。语境等价定义为 $\Omega$ 上的函数 $\eta$: $\mathcal{P}(\mathcal{P}(\Omega))\rightarrow\mathcal{E} (\Omega)$，对每个命题集 $\{p, q, \ldots\}$ 指派等价关系 $\eta(p, q, \ldots)$。当 $w\,\eta(p,q,\ldots)\, w^{\prime}$ 时，记作 $w\approx_{ mod\, p,q,\ldots} w^{\prime}$，意即就 $p, q, \ldots$ 而言，w 与 $w^{\prime}$ 相同。Doyle 与 Wellman（1994）因此提议：将可能性空间划分为等价类，忽略跨越这些类的比较链接。
 
 Van Benthem、Girard 与 Roy（2009）把这一想法应用于可能世界之间的等价关系：对某个特定集合中所有相关模态公式的真值等价。此外，他们展示这一概念如何与 von Wright 的工作相衔接，以及它如何应用于博弈论解概念。他们向语言引入形如 $\langle \Gamma \rangle\varphi$ 的新模态词，形式定义如下：
 
 $$p\mid \neg \varphi\mid \varphi\land \psi \mid\langle \Gamma \rangle^{>}\varphi\mid \langle \Gamma \rangle^{\geq}\varphi\mid \langle \Gamma \rangle\varphi,$$
 
-where $\Gamma$ is an arbitrary set of formulas. This way, “being equal” is part of the formal language itself. Semantically, $\Gamma$ defines an equivalence class of possible worlds. For instance, $w \approx_{\Gamma} v$ indicates that w and v are equal w.r.t. $\Gamma$—they satisfy the same formulas in $\Gamma$.
+其中 $\Gamma$ 为任意公式集。这样一来，“相同”本身就进入了形式语言。在语义上，$\Gamma$ 刻画一个可能世界的等价类。例如，$w \approx_{\Gamma} v$ 表示 w 与 v 就 $\Gamma$ 而言等同——二者满足 $\Gamma$ 中的同一组公式。
 
 其余条件相同的偏好模型是四元组 $\mathcal{M}$= $(W, \succeq, \trianglerighteq_{\Gamma}, V)$，其中：
 
@@ -558,26 +558,26 @@ where $\Gamma$ is an arbitrary set of formulas. This way, “being equal” is p
 
 关系 $\trianglerighteq_{\Gamma}$ 实质上是两个世界间关系的交：基本偏好关系，与对 $\Gamma$ 中公式的真值等价。涉及等价类的新公式的真值条件是：
 
-* $\mathcal{M}, w \models \langle \Gamma \rangle^{\geq}\varphi$  iff   $\exists v$ s.t. $v \trianglerighteq_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
-* $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$  iff   $\exists v$ s.t. $v \vartriangleright_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
-* $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$  iff   $\exists v$ s.t. $v \approx_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
+* $\mathcal{M}, w \models \langle \Gamma \rangle^{\geq}\varphi$    当且仅当 $\exists v$，使 $v \trianglerighteq_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
+* $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$    当且仅当 $\exists v$，使 $v \vartriangleright_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
+* $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$    当且仅当 $\exists v$，使 $v \approx_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
 
 对 $\Gamma$ 有穷的情形，Van Benthem、Girard 与 Roy（2009）给出完全公理化。针对其余条件相同的特征，新公理集见图 8。
 
 *Figure 8:*
 
-Reflexivity axioms for ceteris paribus sets where $\varphi\in\Gamma$:
+其余条件相同集在 $\varphi\in\Gamma$ 情形下的自反性公理：
 
 1. $\langle \Gamma \rangle\varphi\rightarrow\varphi$
 2. $\langle \Gamma \rangle\neg \varphi\rightarrow\neg\varphi$
 
-Monotonicity axioms for ceteris paribus sets where $\Gamma \subseteq\Gamma^{\prime}$
+其余条件相同集在 $\Gamma \subseteq\Gamma^{\prime}$ 情形下的单调性公理
 
 1. $\langle \Gamma^{\prime} \rangle\varphi\rightarrow\langle \Gamma \rangle\varphi$
 2. $\langle \Gamma^{\prime} \rangle^{\geq}\varphi\rightarrow\langle \Gamma \rangle\varphi$
 3. $\langle \Gamma^{\prime} \rangle^{>}\varphi\rightarrow\langle \Gamma \rangle\varphi$
 
-Axioms characterizing the changes to the ceteris paribus sets:
+刻画其余条件相同集变化的公理：
 
 1. $\pm\varphi\land \langle \Gamma \rangle(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle\alpha$
 2. $\pm\varphi\land \langle \Gamma \rangle^{\geq}(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle^{\geq}\alpha$
@@ -608,7 +608,7 @@ CP 网的语义描述：如何基于各网络的结构与条件偏好表导出�
 
 $$\text{Dom}(X_1) = \{a_1, a_2\}, \quad \text{Dom}(X_2) = \{b_1, b_2\}, \quad \text{Dom}(X_3) = \{c_1, c_2\},$$
 
-then one outcome would be $o = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}$.
+那么一个结果就是 $o = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}$。
 
 遵循其余条件相同的假定——即在保持所有其他变量不变的情况下比较结果——如果我们尊重每个变量的 CPT 中规定的条件偏好，就可以得到结果上的偏好。
 

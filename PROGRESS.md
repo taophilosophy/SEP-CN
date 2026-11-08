@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-08 04:45（UTC）
+生成时间：2026-11-08 05:52（UTC）
 
 ## 总览
 
@@ -14,7 +14,7 @@
 |已建英文基线|1879|
 |已建任务|1031|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|202|
+|已完成（done）|203|
 |在途（drafted 起、done 前）|234|
 |阻塞|0|
 
@@ -22,20 +22,20 @@
 
 |状态|数量|
 |---|---|
-|pending|595|
-|cleared|164|
+|pending|594|
+|cleared|163|
 |drafted|4|
-|s1_checked|2|
+|s2_checked|2|
 |s3_checked|63|
-|r2_reviewed|1|
-|done|202|
+|r2_reviewed|2|
+|done|203|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
 |A|160|160|160|53|
-|B|62|62|62|12|
+|B|62|62|62|13|
 |C|172|172|172|4|
 |D|92|92|92|11|
 |E|99|99|99|17|
@@ -93,7 +93,6 @@
 |bell-theorem|retranslate|cleared|task_ops 2026-11-01|
 |benjamin|retranslate|cleared|task_ops 2026-11-01|
 |bentham|retranslate|cleared|task_ops 2026-11-01|
-|bergson|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |berkeley|retranslate|cleared|task_ops 2026-11-01|
 |berlin|retranslate|cleared|task_ops 2026-11-01|
 |bessarion|retranslate|drafted|? 2026-11-01|
@@ -128,7 +127,7 @@
 |buddhism-chan|retranslate|s3_checked|? 2026-11-04|
 |buddhism-huayan|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |buddhism-tiantai|retranslate|cleared|task_ops 2026-11-01|
-|buridan|retranslate|cleared|task_ops 2026-11-01|
+|buridan|retranslate|drafted|B-main-20261108 2026-11-08|
 |burke|retranslate|cleared|task_ops 2026-11-01|
 |burley|retranslate|cleared|task_ops 2026-11-01|
 |butler-moral|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -145,6 +144,7 @@
 |chinese-phil-medicine|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |chinese-phil-science|retranslate|s3_checked|C-main-20261107 2026-11-07|
 |cloning|retranslate|s3_checked|CD-main-20261106 2026-11-06|
+|closure-epistemic|retranslate|cleared|task_ops 2026-11-08|
 |cognitive-science|retranslate|s3_checked|主代理 2026-11-01|
 |collingwood-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
 |colonialism|retranslate|s3_checked|C-main-20261107 2026-11-07|
@@ -153,7 +153,7 @@
 |concept-emotion-india|retranslate|s3_checked|主代理 2026-11-01|
 |conceptual-art|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |confucius|retranslate|s3_checked|主代理 2026-11-01|
-|conscience|retranslate|s1_checked|C-main-20261108 2026-11-08|
+|conscience|retranslate|s3_checked|C-main-20261108b 2026-11-08|
 |contractarianism|retranslate|s3_checked|CD-main-20261106 2026-11-06|
 |copernicus|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |cordemoy|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -235,7 +235,7 @@
 |ingarden|retranslate|cleared|task_ops 2026-11-07|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
 |intuitionism-ethics|retranslate|cleared|task_ops 2026-11-01|
-|jaina-philosophy|retranslate|drafted|J-main-20261108 2026-11-08|
+|jaina-philosophy|retranslate|s2_checked|J-main-20261108 2026-11-08|
 |james-mill|retranslate|s3_checked|? 2026-11-07|
 |james-viterbo|retranslate|cleared|task_ops 2026-11-01|
 |japanese-aesthetics|retranslate|s3_checked|J-main-20261108 2026-11-08|
@@ -288,10 +288,10 @@
 |mandeville|retranslate|drafted|M-main-20261108 2026-11-08|
 |moral-demands-permissions|retranslate|s3_checked|LMN-main-20261108f 2026-11-08|
 |nicole-oresme|retranslate|cleared|task_ops 2026-11-08|
-|olympiodorus|retranslate|cleared|task_ops 2026-11-07|
+|olympiodorus|retranslate|r2_reviewed|OR-main-20261108 2026-11-08|
 |rationalism-early-modern|retranslate|r2_reviewed|QR-main-20261108 2026-11-08|
 |representation-medieval|retranslate|cleared|task_ops 2026-11-08|
-|scholem|retranslate|s1_checked|SZ-main-20261108b 2026-11-08|
+|scholem|retranslate|s2_checked|SZ-main-20261108b 2026-11-08|
 |telesio|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |theology-aristotle|retranslate|s3_checked|TZ-main-20261107 2026-11-08|
 |william-jevons|retranslate|s3_checked|TZ-main-20261107 2026-11-07|

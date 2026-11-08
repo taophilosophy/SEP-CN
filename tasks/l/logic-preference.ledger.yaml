@@ -472,12 +472,12 @@ segments:
 
       $$\begin{align} &\tag*{\(V_1\)} (p>q) \rightarrow\neg (q>p)&& \textrm{(\(>\)-asymmetry)}\\[1em] & \tag*{\(V_2\)} (p>q) \land (q >r)\rightarrow q>r&& \textrm{(\(>\)-transitivity)}\\[1em] & \tag*{\(V_3\)} (p>q)\leftrightarrow(p\land \neg q)> (\neg p\land q)&& \textrm{(\(>\)-expansion)}\\ \end{align}$$ $$ \begin{align}\tag*{\(V_4\)}\quad (p&\lor q)>(r \lor s) \leftrightarrow \\ &(p \land \neg r \land \neg s) > (\neg p\land \neg q \land r) \\ &\land\ (p\land \neg r \land \neg s)> (\neg p\land \neg q \land s)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land r)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land s) \ \text{(disjunctive distribution)} \end{align} $$ $$ \begin{align}\tag*{\(V_5\)} (p&>q) \leftrightarrow \\ &((p\land r)> (q\land r)) \\ &\land\ ((p\land \neg r)>(q\land \neg r)) \qquad {\textrm{(amplification)}} \end{align} $$
     step1: |-
-      **Von Wright’s 5 preference principles**
-      
+      **von Wright 的 5 条偏好原则**
+
       $$\begin{align} &\tag*{\(V_1\)} (p>q) \rightarrow\neg (q>p)&& \textrm{(\(>\)-asymmetry)}\\[1em] & \tag*{\(V_2\)} (p>q) \land (q >r)\rightarrow q>r&& \textrm{(\(>\)-transitivity)}\\[1em] & \tag*{\(V_3\)} (p>q)\leftrightarrow(p\land \neg q)> (\neg p\land q)&& \textrm{(\(>\)-expansion)}\\ \end{align}$$ $$ \begin{align}\tag*{\(V_4\)}\quad (p&\lor q)>(r \lor s) \leftrightarrow \\ &(p \land \neg r \land \neg s) > (\neg p\land \neg q \land r) \\ &\land\ (p\land \neg r \land \neg s)> (\neg p\land \neg q \land s)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land r)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land s) \ \text{(disjunctive distribution)} \end{align} $$ $$ \begin{align}\tag*{\(V_5\)} (p&>q) \leftrightarrow \\ &((p\land r)> (q\land r)) \\ &\land\ ((p\land \neg r)>(q\land \neg r)) \qquad {\textrm{(amplification)}} \end{align} $$
     step2: |-
-      **Von Wright’s 5 preference principles**
-      
+      **von Wright 的五条偏好原则**
+
       $$\begin{align} &\tag*{\(V_1\)} (p>q) \rightarrow\neg (q>p)&& \textrm{(\(>\)-asymmetry)}\\[1em] & \tag*{\(V_2\)} (p>q) \land (q >r)\rightarrow q>r&& \textrm{(\(>\)-transitivity)}\\[1em] & \tag*{\(V_3\)} (p>q)\leftrightarrow(p\land \neg q)> (\neg p\land q)&& \textrm{(\(>\)-expansion)}\\ \end{align}$$ $$ \begin{align}\tag*{\(V_4\)}\quad (p&\lor q)>(r \lor s) \leftrightarrow \\ &(p \land \neg r \land \neg s) > (\neg p\land \neg q \land r) \\ &\land\ (p\land \neg r \land \neg s)> (\neg p\land \neg q \land s)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land r)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land s) \ \text{(disjunctive distribution)} \end{align} $$ $$ \begin{align}\tag*{\(V_5\)} (p&>q) \leftrightarrow \\ &((p\land r)> (q\land r)) \\ &\land\ ((p\land \neg r)>(q\land \neg r)) \qquad {\textrm{(amplification)}} \end{align} $$
   - id: 51
     kind: body
@@ -652,11 +652,11 @@ segments:
     step1: |-
       1. $v(\neg \varphi) = 1-v(\varphi)$
       2. $v(\varphi\lor\psi) = \textrm{max}\{v(\varphi),v(\psi)\}$
-      3. $v(\varphi P\psi) = 1$ if $m(\varphi) \lt m(\psi)$ on A, or 0 otherwise
+      3. 若 A 上有 $m(\varphi) \lt m(\psi)$，则 $v(\varphi P\psi) = 1$，否则为 0
     step2: |-
       1. $v(\neg \varphi) = 1-v(\varphi)$
       2. $v(\varphi\lor\psi) = \textrm{max}\{v(\varphi),v(\psi)\}$
-      3. $v(\varphi P\psi) = 1$ if $m(\varphi) \lt m(\psi)$ on A, or 0 otherwise
+      3. 若 A 上 $m(\varphi) \lt m(\psi)$ 成立，则 $v(\varphi P\psi) = 1$；否则为 0
   - id: 71
     kind: body
     source: |-
@@ -664,12 +664,12 @@ segments:
 
       $$\begin{align*} A, m, v \models p &\quad \textrm{ iff}\quad v(p) = 1 \textrm{ for atomic } p\\ A, m \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } v\\ A, v \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } m\\ A \models \varphi &\quad \textrm{ iff}\quad A, m, v\models \varphi \textrm{ for all } m \textrm{ and } v\\ \models \varphi &\quad \textrm{ iff}\quad A \models \varphi \textrm{ for all } A (\varphi \textrm{ is true})\\ A, m, v \models \Gamma &\quad \textrm{ iff}\quad A, m, v \models \Gamma \textrm{ for all } \varphi\in\Gamma\\ \Gamma\models \varphi &\quad \textrm{ iff}\quad A, m,v\models\Gamma \Rightarrow A, m,v\models \varphi\\ \end{align*}$$
     step1: |-
-      For a set $\Gamma$ of formulas, the satisfaction relation is defined by:
-      
+      对公式集 $\Gamma$，满足关系定义如下：
+
       $$\begin{align*} A, m, v \models p &\quad \textrm{ iff}\quad v(p) = 1 \textrm{ for atomic } p\\ A, m \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } v\\ A, v \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } m\\ A \models \varphi &\quad \textrm{ iff}\quad A, m, v\models \varphi \textrm{ for all } m \textrm{ and } v\\ \models \varphi &\quad \textrm{ iff}\quad A \models \varphi \textrm{ for all } A (\varphi \textrm{ is true})\\ A, m, v \models \Gamma &\quad \textrm{ iff}\quad A, m, v \models \Gamma \textrm{ for all } \varphi\in\Gamma\\ \Gamma\models \varphi &\quad \textrm{ iff}\quad A, m,v\models\Gamma \Rightarrow A, m,v\models \varphi\\ \end{align*}$$
     step2: |-
-      For a set $\Gamma$ of formulas, the satisfaction relation is defined by:
-      
+      对给定的公式集 $\Gamma$，满足关系定义如下：
+
       $$\begin{align*} A, m, v \models p &\quad \textrm{ iff}\quad v(p) = 1 \textrm{ for atomic } p\\ A, m \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } v\\ A, v \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } m\\ A \models \varphi &\quad \textrm{ iff}\quad A, m, v\models \varphi \textrm{ for all } m \textrm{ and } v\\ \models \varphi &\quad \textrm{ iff}\quad A \models \varphi \textrm{ for all } A (\varphi \textrm{ is true})\\ A, m, v \models \Gamma &\quad \textrm{ iff}\quad A, m, v \models \Gamma \textrm{ for all } \varphi\in\Gamma\\ \Gamma\models \varphi &\quad \textrm{ iff}\quad A, m,v\models\Gamma \Rightarrow A, m,v\models \varphi\\ \end{align*}$$
   - id: 72
     kind: body
@@ -686,13 +686,13 @@ segments:
       2. A is linearly ordered.
       3. A is the set of reals and $m(\neg \varphi)=-m(\varphi)$.
     step1: |-
-      1. If $\varphi\equiv \psi$ is a tautology, then $m (\varphi) = m(\psi)$.
-      2. A is linearly ordered.
-      3. A is the set of reals and $m(\neg \varphi)=-m(\varphi)$.
+      1. 若 $\varphi\equiv \psi$ 是重言式，则 $m (\varphi) = m(\psi)$。
+      2. A 是线性序。
+      3. A 是实数集，且 $m(\neg \varphi)=-m(\varphi)$。
     step2: |-
-      1. If $\varphi\equiv \psi$ is a tautology, then $m (\varphi) = m(\psi)$.
-      2. A is linearly ordered.
-      3. A is the set of reals and $m(\neg \varphi)=-m(\varphi)$.
+      1. 若 $\varphi\equiv \psi$ 为重言式，则 $m (\varphi) = m(\psi)$。
+      2. A 构成线性序。
+      3. A 为实数集，且 $m(\neg \varphi)=-m(\varphi)$。
   - id: 74
     kind: body
     source: |-
@@ -883,17 +883,17 @@ segments:
     source: |-
       $\mathcal{M}$, $w \models \lozenge^{\geq} \varphi$    iff    for some v   with $v\succeq w$, $\mathcal{M}$, $v \models \varphi$.
     step1: |-
-      $\mathcal{M}$, $w \models \lozenge^{\geq} \varphi$    iff    for some v   with $v\succeq w$, $\mathcal{M}$, $v \models \varphi$.
+      $\mathcal{M}$, $w \models \lozenge^{\geq} \varphi$    当且仅当存在某个 v，使得 $v\succeq w$，且 $\mathcal{M}$, $v \models \varphi$。
     step2: |-
-      $\mathcal{M}$, $w \models \lozenge^{\geq} \varphi$    iff    for some v   with $v\succeq w$, $\mathcal{M}$, $v \models \varphi$.
+      $\mathcal{M}$, $w \models \lozenge^{\geq} \varphi$    当且仅当有 v 满足 $v\succeq w$，且 $\mathcal{M}$, $v \models \varphi$。
   - id: 97
     kind: body
     source: |-
       $\mathcal{M}$, $w \models \lozenge^{>} \varphi$    iff    for some v   with $v \succ w$, $\mathcal{M}$, $v \models \varphi.$
     step1: |-
-      $\mathcal{M}$, $w \models \lozenge^{>} \varphi$    iff    for some v   with $v \succ w$, $\mathcal{M}$, $v \models \varphi.$
+      $\mathcal{M}$, $w \models \lozenge^{>} \varphi$    当且仅当存在某个 v，使得 $v \succ w$，且 $\mathcal{M}$, $v \models \varphi$。
     step2: |-
-      $\mathcal{M}$, $w \models \lozenge^{>} \varphi$    iff    for some v   with $v \succ w$, $\mathcal{M}$, $v \models \varphi.$
+      $\mathcal{M}$, $w \models \lozenge^{>} \varphi$    当且仅当有 v 满足 $v \succ w$，且 $\mathcal{M}$, $v \models \varphi$。
   - id: 98
     kind: body
     source: |-
@@ -907,9 +907,9 @@ segments:
     source: |-
       $\mathcal{M}, w \models E\varphi$    iff    for some $v, \mathcal{M}, v \models \varphi$.
     step1: |-
-      $\mathcal{M}, w \models E\varphi$    iff    for some $v, \mathcal{M}, v \models \varphi$.
+      $\mathcal{M}, w \models E\varphi$    当且仅当存在 $v, \mathcal{M}, v \models \varphi$。
     step2: |-
-      $\mathcal{M}, w \models E\varphi$    iff    for some $v, \mathcal{M}, v \models \varphi$.
+      $\mathcal{M}, w \models E\varphi$    当且仅当有 $v, \mathcal{M}, v \models \varphi$。
   - id: 100
     kind: body
     source: |-
@@ -938,20 +938,20 @@ segments:
       - $\lozenge^{\geq}\lozenge^{>} \varphi\rightarrow\lozenge^{>} \varphi$
       - $\psi\land \lozenge^{\geq}\varphi\rightarrow\lozenge^{>}\varphi\lor \lozenge^{\geq}(\varphi\land \lozenge^{\geq}\psi)$
     step1: |-
-      - S4 for $\lozenge^{\geq}$, S5 for E, K for $\lozenge^{>}$.
-      - Inclusion axioms:
+      - $\lozenge^{\geq}$ 取 S4，E 取 S5，$\lozenge^{>}$ 取 K。
+      - 包含公理：
       - $\lozenge^{>} \varphi\rightarrow\lozenge^{\geq} \varphi$
       - $\lozenge^{\geq} \varphi\rightarrow\lozenge E\varphi$
-      - Interaction axioms between $\lozenge^{\geq}\varphi$ and $\lozenge^{>} \varphi$:
+      - $\lozenge^{\geq}\varphi$ 与 $\lozenge^{>} \varphi$ 之间的交互公理：
       - $\lozenge^{>}\lozenge^{\geq} \varphi\rightarrow\lozenge^{>} \varphi$
       - $\lozenge^{\geq}\lozenge^{>} \varphi\rightarrow\lozenge^{>} \varphi$
       - $\psi\land \lozenge^{\geq}\varphi\rightarrow\lozenge^{>}\varphi\lor \lozenge^{\geq}(\varphi\land \lozenge^{\geq}\psi)$
     step2: |-
-      - S4 for $\lozenge^{\geq}$, S5 for E, K for $\lozenge^{>}$.
-      - Inclusion axioms:
+      - $\lozenge^{\geq}$ 采用 S4，E 采用 S5，$\lozenge^{>}$ 采用 K。
+      - 包含公理：
       - $\lozenge^{>} \varphi\rightarrow\lozenge^{\geq} \varphi$
       - $\lozenge^{\geq} \varphi\rightarrow\lozenge E\varphi$
-      - Interaction axioms between $\lozenge^{\geq}\varphi$ and $\lozenge^{>} \varphi$:
+      - $\lozenge^{\geq}\varphi$ 与 $\lozenge^{>} \varphi$ 的交互公理：
       - $\lozenge^{>}\lozenge^{\geq} \varphi\rightarrow\lozenge^{>} \varphi$
       - $\lozenge^{\geq}\lozenge^{>} \varphi\rightarrow\lozenge^{>} \varphi$
       - $\psi\land \lozenge^{\geq}\varphi\rightarrow\lozenge^{>}\varphi\lor \lozenge^{\geq}(\varphi\land \lozenge^{\geq}\psi)$
@@ -998,9 +998,9 @@ segments:
     source: |-
       $\mathcal{M}$, $w \models U \varphi$    iff    for all v  , $\mathcal{M}$, $v \models \varphi$.
     step1: |-
-      $\mathcal{M}$, $w \models U \varphi$    iff    for all v  , $\mathcal{M}$, $v \models \varphi$.
+      $\mathcal{M}$, $w \models U \varphi$    当且仅当对一切 v，$\mathcal{M}$, $v \models \varphi$。
     step2: |-
-      $\mathcal{M}$, $w \models U \varphi$    iff    for all v  , $\mathcal{M}$, $v \models \varphi$.
+      $\mathcal{M}$, $w \models U \varphi$    当且仅当对任意 v，$\mathcal{M}$, $v \models \varphi$。
   - id: 108
     kind: body
     source: |-
@@ -1071,17 +1071,17 @@ segments:
     source: |-
       > $\mathcal{M} \models \varphi > \psi$ iff $\llbracket \varphi \rrbracket _{\mathcal{M}}$ is nonempty, $\forall v \in \llbracket \psi \rrbracket _{\mathcal{M}}\exists u \in \llbracket \varphi \rrbracket _{\mathcal{M}}$ such that $u\succ v$ and u dominates $\llbracket \psi \rrbracket _{\mathcal{M}}$
     step1: |-
-      > $\mathcal{M} \models \varphi > \psi$ iff $\llbracket \varphi \rrbracket _{\mathcal{M}}$ is nonempty, $\forall v \in \llbracket \psi \rrbracket _{\mathcal{M}}\exists u \in \llbracket \varphi \rrbracket _{\mathcal{M}}$ such that $u\succ v$ and u dominates $\llbracket \psi \rrbracket _{\mathcal{M}}$
+      > $\mathcal{M} \models \varphi > \psi$ 当且仅当 $\llbracket \varphi \rrbracket _{\mathcal{M}}$ 非空，$\forall v \in \llbracket \psi \rrbracket _{\mathcal{M}}\exists u \in \llbracket \varphi \rrbracket _{\mathcal{M}}$ 使得 $u\succ v$，并且 u 支配 $\llbracket \psi \rrbracket _{\mathcal{M}}$
     step2: |-
-      > $\mathcal{M} \models \varphi > \psi$ iff $\llbracket \varphi \rrbracket _{\mathcal{M}}$ is nonempty, $\forall v \in \llbracket \psi \rrbracket _{\mathcal{M}}\exists u \in \llbracket \varphi \rrbracket _{\mathcal{M}}$ such that $u\succ v$ and u dominates $\llbracket \psi \rrbracket _{\mathcal{M}}$
+      > $\mathcal{M} \models \varphi > \psi$ 当且仅当 $\llbracket \varphi \rrbracket _{\mathcal{M}}$ 非空，且 $\forall v \in \llbracket \psi \rrbracket _{\mathcal{M}}\exists u \in \llbracket \varphi \rrbracket _{\mathcal{M}}$：$u\succ v$，且 u 支配 $\llbracket \psi \rrbracket _{\mathcal{M}}$
   - id: 116
     kind: body
     source: |-
       and u dominates V if there is no $v' \in V$ such that $v'\succ u$.
     step1: |-
-      and u dominates V if there is no $v' \in V$ such that $v'\succ u$.
+      并且，u 支配 V 是指：不存在 $v' \in V$ 使得 $v'\succ u$。
     step2: |-
-      and u dominates V if there is no $v' \in V$ such that $v'\succ u$.
+      其中 u 支配 V，当且仅当不存在 $v' \in V$ 使 $v'\succ u$。
   - id: 117
     kind: body
     source: |-
@@ -1116,19 +1116,19 @@ segments:
       5. Gen. $U\varphi,$ for all propositional tautologies.
       6. MP. From $\varphi$ and $\varphi\rightarrow\psi$ infer $\psi$.
     step1: |-
-      1. All substitution instances of tautologies of propositional calculus.
+      1. 命题演算重言式的一切替换实例。
       2. $\neg (\varphi> \varphi)$
       3. $((\varphi_1 \lor \varphi_2)> \varphi_3) \land ((\varphi_1\lor \varphi_3)> \varphi_2)\rightarrow(\varphi_1>(\varphi_2\lor \varphi_3))$
       4. $U (\varphi_1\rightarrow\varphi_2) \land U(\varphi_3\rightarrow\varphi_4)\land(\varphi_1>\varphi_4) \rightarrow(\varphi_2>\varphi_3)$
-      5. Gen. $U\varphi,$ for all propositional tautologies.
-      6. MP. From $\varphi$ and $\varphi\rightarrow\psi$ infer $\psi$.
+      5. Gen. 对一切命题重言式，$U\varphi,$
+      6. MP. 从 $\varphi$ 与 $\varphi\rightarrow\psi$ 推出 $\psi$。
     step2: |-
-      1. All substitution instances of tautologies of propositional calculus.
+      1. 命题演算重言式的所有替换实例。
       2. $\neg (\varphi> \varphi)$
       3. $((\varphi_1 \lor \varphi_2)> \varphi_3) \land ((\varphi_1\lor \varphi_3)> \varphi_2)\rightarrow(\varphi_1>(\varphi_2\lor \varphi_3))$
       4. $U (\varphi_1\rightarrow\varphi_2) \land U(\varphi_3\rightarrow\varphi_4)\land(\varphi_1>\varphi_4) \rightarrow(\varphi_2>\varphi_3)$
-      5. Gen. $U\varphi,$ for all propositional tautologies.
-      6. MP. From $\varphi$ and $\varphi\rightarrow\psi$ infer $\psi$.
+      5. Gen. 对一切命题重言式取 $U\varphi,$
+      6. MP. 由 $\varphi$ 与 $\varphi\rightarrow\psi$ 推出 $\psi$。
   - id: 121
     kind: body
     source: |-
@@ -1156,9 +1156,9 @@ segments:
     source: |-
       where $\llbracket\varphi\rrbracket_w$ denotes the set of w-accessible worlds that satisfy $\varphi$. Traditionally applied in fields like denotational semantics, Shi and Sun (2021) extend the Egli-Milner order to preference logic by developing a complete axiomatic system for the “convex order” derived from a total pre-order.
     step1: |-
-      where $\llbracket\varphi\rrbracket_w$ denotes the set of w-accessible worlds that satisfy $\varphi$. Traditionally applied in fields like denotational semantics, Shi and Sun (2021) extend the Egli-Milner order to preference logic by developing a complete axiomatic system for the “convex order” derived from a total pre-order.
+      其中 $\llbracket\varphi\rrbracket_w$ 表示由 w 可及且满足 $\varphi$ 的那些世界构成的集合。该序传统上用于指称语义等领域；Shi 与 Sun（2021）将其推广到偏好逻辑，为从全预序导出的“凸序”构造了一个完全的公理系统。
     step2: |-
-      where $\llbracket\varphi\rrbracket_w$ denotes the set of w-accessible worlds that satisfy $\varphi$. Traditionally applied in fields like denotational semantics, Shi and Sun (2021) extend the Egli-Milner order to preference logic by developing a complete axiomatic system for the “convex order” derived from a total pre-order.
+      其中 $\llbracket\varphi\rrbracket_w$ 表示自 w 可及且满足 $\varphi$ 的世界之集。这一序传统上见于指称语义等领域；Shi 与 Sun（2021）把它扩展到偏好逻辑，对由全预序导出的“凸序”给出了完整的公理化系统。
   - id: 124
     kind: body
     source: |-
@@ -1412,9 +1412,9 @@ segments:
     source: |-
       where $S_x = \{ P \in M : x \text{ has } P \}$ and $S_y = \{ P \in M : y \text{ has } P \}$. This relation ensures that the agent’s preferences in any motivational state M reflect the agent’s stable evaluation of property combinations across contexts.
     step1: |-
-      where $S_x = \{ P \in M : x \text{ has } P \}$ and $S_y = \{ P \in M : y \text{ has } P \}$. This relation ensures that the agent’s preferences in any motivational state M reflect the agent’s stable evaluation of property combinations across contexts.
+      其中 $S_x = \{ P \in M : x \text{ has } P \}$，$S_y = \{ P \in M : y \text{ has } P \}$。这一关系保证：行动者在任何动机状态 M 下的偏好，都反映其对属性组合跨语境所作的稳定评价。
     step2: |-
-      where $S_x = \{ P \in M : x \text{ has } P \}$ and $S_y = \{ P \in M : y \text{ has } P \}$. This relation ensures that the agent’s preferences in any motivational state M reflect the agent’s stable evaluation of property combinations across contexts.
+      其中 $S_x = \{ P \in M : x \text{ has } P \}$，$S_y = \{ P \in M : y \text{ has } P \}$。这一关系确保：行动者在任一动机状态 M 中的偏好，都体现其对属性组合跨情境的稳定评价。
   - id: 153
     kind: body
     source: |-
@@ -1466,9 +1466,9 @@ segments:
     source: |-
       where W is the set of possible worlds and S indexes utility scales such as safety or cost.
     step1: |-
-      where W is the set of possible worlds and S indexes utility scales such as safety or cost.
+      其中 W 是可能世界集合，S 为效用尺度的索引，如安全或成本。
     step2: |-
-      where W is the set of possible worlds and S indexes utility scales such as safety or cost.
+      其中 W 为可能世界之集，S 标示效用尺度，如安全或成本。
   - id: 159
     kind: body
     source: |-
@@ -1628,12 +1628,12 @@ segments:
 
       $$\leq^{*} = \leq - \{(s, t) \mid \mathfrak{M}, s \models \varphi \textrm{ and } \mathfrak{M}, t \models \neg \varphi\}.$$
     step1: |-
-      where $\mathcal{M}_{\sharp \varphi}$ is defined with the same domain, valuation, and actual world as $(\mathcal{M}, s)$ but with the preference relations updated by subtracting the preference links from $\varphi$-worlds to $\neg \varphi$-worlds:
-      
+      其中 $\mathcal{M}_{\sharp \varphi}$ 与 $(\mathcal{M}, s)$ 有相同的定义域、赋值与现实世界，但偏好关系经过更新：减去从 $\varphi$-世界到 $\neg \varphi$-世界的偏好链接：
+
       $$\leq^{*} = \leq - \{(s, t) \mid \mathfrak{M}, s \models \varphi \textrm{ and } \mathfrak{M}, t \models \neg \varphi\}.$$
     step2: |-
-      where $\mathcal{M}_{\sharp \varphi}$ is defined with the same domain, valuation, and actual world as $(\mathcal{M}, s)$ but with the preference relations updated by subtracting the preference links from $\varphi$-worlds to $\neg \varphi$-worlds:
-      
+      其中 $\mathcal{M}_{\sharp \varphi}$ 与 $(\mathcal{M}, s)$ 具有相同的定义域、赋值与现实世界，唯偏好关系经更新，删去由 $\varphi$-世界指向 $\neg \varphi$-世界的偏好链接：
+
       $$\leq^{*} = \leq - \{(s, t) \mid \mathfrak{M}, s \models \varphi \textrm{ and } \mathfrak{M}, t \models \neg \varphi\}.$$
   - id: 176
     kind: body
@@ -1656,12 +1656,12 @@ segments:
 
       $$R := R \cup (?\neg \varphi ; \top; ?\varphi)$$
     step1: |-
-      indicating that all existing R links are retained with the exception of those links from $\varphi$-worlds to $\neg \varphi$-worlds. This setup allows for different types of preference change. For example, adding preference links (making every $\varphi$-world preferable to every $\neg \varphi$-world) can be represented as
-      
+      这表明：除从 $\varphi$-世界到 $\neg \varphi$-世界的链接外，所有既有的 R 链接都被保留。这一设置允许不同类型的偏好改变。例如，添加偏好链接（使每个 $\varphi$-世界都优于每个 $\neg \varphi$-世界）可以表示为
+
       $$R := R \cup (?\neg \varphi ; \top; ?\varphi)$$
     step2: |-
-      indicating that all existing R links are retained with the exception of those links from $\varphi$-worlds to $\neg \varphi$-worlds. This setup allows for different types of preference change. For example, adding preference links (making every $\varphi$-world preferable to every $\neg \varphi$-world) can be represented as
-      
+      即除由 $\varphi$-世界指向 $\neg \varphi$-世界的链接外，所有既有 R 链接均予保留。这一设置可容纳不同类型的偏好改变。例如，添加偏好链接（使每个 $\varphi$-世界都优于每个 $\neg \varphi$-世界）可表示为
+
       $$R := R \cup (?\neg \varphi ; \top; ?\varphi)$$
   - id: 178
     kind: body
@@ -1670,12 +1670,12 @@ segments:
 
       $$\Uparrow \varphi(R) := (?\varphi;R;?\varphi)\cup(?\neg \varphi; R;?\neg \varphi) \cup (?\neg \varphi;\top;?\varphi)$$
     step1: |-
-      where $\top$ denotes the universal relation. *Radical preference upgrade* is defined as
-      
+      其中 $\top$ 表示普适关系。*Radical preference upgrade*（激进偏好升级）定义如下
+
       $$\Uparrow \varphi(R) := (?\varphi;R;?\varphi)\cup(?\neg \varphi; R;?\neg \varphi) \cup (?\neg \varphi;\top;?\varphi)$$
     step2: |-
-      where $\top$ denotes the universal relation. *Radical preference upgrade* is defined as
-      
+      其中 $\top$ 即普适关系。*Radical preference upgrade*（激进偏好升级）则定义为
+
       $$\Uparrow \varphi(R) := (?\varphi;R;?\varphi)\cup(?\neg \varphi; R;?\neg \varphi) \cup (?\neg \varphi;\top;?\varphi)$$
   - id: 179
     kind: body
@@ -1758,9 +1758,9 @@ segments:
     source: |-
       (P5) implies that learning that something that was expected is actually the case should not alter existing preferences. This principle, equivalently stated as $P\alpha \land \neg[*\beta]P\alpha \rightarrow \neg N\beta$, expresses that unexpected information is necessary for preference change to occur.
     step1: |-
-      (P5) implies that learning that something that was expected is actually the case should not alter existing preferences. This principle, equivalently stated as $P\alpha \land \neg[*\beta]P\alpha \rightarrow \neg N\beta$, expresses that unexpected information is necessary for preference change to occur.
+      （P5）意味着：得知原本预期之事确实如此，不应改变既有偏好。这一原则等价地表述为 $P\alpha \land \neg[*\beta]P\alpha \rightarrow \neg N\beta$，它表示：意料之外的信息，是偏好改变得以发生的必要条件。
     step2: |-
-      (P5) implies that learning that something that was expected is actually the case should not alter existing preferences. This principle, equivalently stated as $P\alpha \land \neg[*\beta]P\alpha \rightarrow \neg N\beta$, expresses that unexpected information is necessary for preference change to occur.
+      （P5）蕴涵：得知本以为如此的事竟然确实如此，不应改变既有偏好。该原则等价地写成 $P\alpha \land \neg[*\beta]P\alpha \rightarrow \neg N\beta$，意即意外信息乃是偏好改变发生的必要条件。
   - id: 188
     kind: body
     source: |-
@@ -1822,21 +1822,21 @@ segments:
 
       $$\alpha(\mathscr{B}, A) := A \mid \mathscr{B}_1 ; \mathscr{B}_2 \mid \mathscr{B}_1 \parallel \mathscr{B}_2.$$
     step1: |-
-      The set $\alpha(\mathscr{B}, A)$ of basic graph updates is defined in a way that allows these possible changes to be captured:
-      
+      基本图更新之集 $\alpha(\mathscr{B}, A)$ 的定义使这些可能的改变都能被刻画：
+
       $$\alpha(\mathscr{B}, A) := A \mid \mathscr{B}_1 ; \mathscr{B}_2 \mid \mathscr{B}_1 \parallel \mathscr{B}_2.$$
     step2: |-
-      The set $\alpha(\mathscr{B}, A)$ of basic graph updates is defined in a way that allows these possible changes to be captured:
-      
+      基本图更新之集 $\alpha(\mathscr{B}, A)$ 的定义，使这些可能的改变均可刻画：
+
       $$\alpha(\mathscr{B}, A) := A \mid \mathscr{B}_1 ; \mathscr{B}_2 \mid \mathscr{B}_1 \parallel \mathscr{B}_2.$$
   - id: 195
     kind: body
     source: |-
       Here, $\mathscr{B}_1 ; \mathscr{B}_2$ represents the sequential composition of adding $\mathscr{B}_1$ on top of $\mathscr{B}_2$ so that every element in $\mathscr{B}_1$ has a higher priority than every element in $\mathscr{B}_2$. Parallel composition, ($\mathscr{B}_1 \parallel \mathscr{B}_2$), combines $\mathscr{B}_1$ and $\mathscr{B}_2$ as disjoint sets with no priority ordering between them.
     step1: |-
-      Here, $\mathscr{B}_1 ; \mathscr{B}_2$ represents the sequential composition of adding $\mathscr{B}_1$ on top of $\mathscr{B}_2$ so that every element in $\mathscr{B}_1$ has a higher priority than every element in $\mathscr{B}_2$. Parallel composition, ($\mathscr{B}_1 \parallel \mathscr{B}_2$), combines $\mathscr{B}_1$ and $\mathscr{B}_2$ as disjoint sets with no priority ordering between them.
+      这里 $\mathscr{B}_1 ; \mathscr{B}_2$ 表示顺序复合：把 $\mathscr{B}_1$ 加到 $\mathscr{B}_2$ 之上，使得 $\mathscr{B}_1$ 中每个元素都优先于 $\mathscr{B}_2$ 中每个元素。并行复合（$\mathscr{B}_1 \parallel \mathscr{B}_2$）把 $\mathscr{B}_1$ 与 $\mathscr{B}_2$ 当作互不相交的集合合并，二者之间没有优先序。
     step2: |-
-      Here, $\mathscr{B}_1 ; \mathscr{B}_2$ represents the sequential composition of adding $\mathscr{B}_1$ on top of $\mathscr{B}_2$ so that every element in $\mathscr{B}_1$ has a higher priority than every element in $\mathscr{B}_2$. Parallel composition, ($\mathscr{B}_1 \parallel \mathscr{B}_2$), combines $\mathscr{B}_1$ and $\mathscr{B}_2$ as disjoint sets with no priority ordering between them.
+      其中 $\mathscr{B}_1 ; \mathscr{B}_2$ 表示顺序复合：将 $\mathscr{B}_1$ 叠加于 $\mathscr{B}_2$ 之上，使 $\mathscr{B}_1$ 的每一元素都优先于 $\mathscr{B}_2$ 的每一元素。并行复合（$\mathscr{B}_1 \parallel \mathscr{B}_2$）则把 $\mathscr{B}_1$ 与 $\mathscr{B}_2$ 作为不相交的两个集合合并，其间不设优先序。
   - id: 196
     kind: body
     source: |-
@@ -1918,9 +1918,9 @@ segments:
     source: |-
       ![a commuting diagram: link to extended description below](../assets/logic-preference/figxy1.svg)
     step1: |-
-      ![a commuting diagram: link to extended description below](../assets/logic-preference/figxy1.svg)
+      ![交换图：扩展描述见下文](../assets/logic-preference/figxy1.svg)
     step2: |-
-      ![a commuting diagram: link to extended description below](../assets/logic-preference/figxy1.svg)
+      ![交换图：扩展描述见下](../assets/logic-preference/figxy1.svg)
   - id: 205
     kind: body
     source: |-
@@ -1950,9 +1950,9 @@ segments:
     source: |-
       ![a diagram: link to extended description below](../assets/logic-preference/figxy2.svg)
     step1: |-
-      ![a diagram: link to extended description below](../assets/logic-preference/figxy2.svg)
+      ![示意图：扩展描述见下文](../assets/logic-preference/figxy2.svg)
     step2: |-
-      ![a diagram: link to extended description below](../assets/logic-preference/figxy2.svg)
+      ![示意图：扩展描述见下](../assets/logic-preference/figxy2.svg)
   - id: 209
     kind: body
     source: |-
@@ -2078,9 +2078,9 @@ segments:
     source: |-
       Formally, let $\Omega$ be a set of states, and let $\mathcal{E}(\Omega)$ denote the set of all equivalence relations on $\Omega$. The contextual equivalence is defined on a set $\Omega$ as a function $\eta$: $\mathcal{P}(\mathcal{P}(\Omega))\rightarrow\mathcal{E} (\Omega)$ assigning to each set of proposition $\{p, q, \ldots\}$ an equivalence relation $\eta(p, q, \ldots)$. For $w\,\eta(p,q,\ldots)\, w^{\prime}$ , we write $w\approx_{ mod\, p,q,\ldots} w^{\prime}$, meaning that with regard to $p, q, \ldots$, it is the case that w and $w^{\prime}$ are the same. Doyle and Wellman (1994) thus proposed dividing the space of possibilities into equivalence classes and ignoring comparison links that go across these classes.
     step1: |-
-      Formally, let $\Omega$ be a set of states, and let $\mathcal{E}(\Omega)$ denote the set of all equivalence relations on $\Omega$. The contextual equivalence is defined on a set $\Omega$ as a function $\eta$: $\mathcal{P}(\mathcal{P}(\Omega))\rightarrow\mathcal{E} (\Omega)$ assigning to each set of proposition $\{p, q, \ldots\}$ an equivalence relation $\eta(p, q, \ldots)$. For $w\,\eta(p,q,\ldots)\, w^{\prime}$ , we write $w\approx_{ mod\, p,q,\ldots} w^{\prime}$, meaning that with regard to $p, q, \ldots$, it is the case that w and $w^{\prime}$ are the same. Doyle and Wellman (1994) thus proposed dividing the space of possibilities into equivalence classes and ignoring comparison links that go across these classes.
+      形式上，设 $\Omega$ 为状态集，$\mathcal{E}(\Omega)$ 表示 $\Omega$ 上一切等价关系的集合。语境等价在集合 $\Omega$ 上定义为函数 $\eta$: $\mathcal{P}(\mathcal{P}(\Omega))\rightarrow\mathcal{E} (\Omega)$，它为每个命题集 $\{p, q, \ldots\}$ 指派一个等价关系 $\eta(p, q, \ldots)$。对于 $w\,\eta(p,q,\ldots)\, w^{\prime}$，我们记作 $w\approx_{ mod\, p,q,\ldots} w^{\prime}$，意思是：就 $p, q, \ldots$ 而言，w 与 $w^{\prime}$ 相同。Doyle 与 Wellman（1994）由此提议：把可能性空间划分为等价类，并忽略跨越这些类的比较链接。
     step2: |-
-      Formally, let $\Omega$ be a set of states, and let $\mathcal{E}(\Omega)$ denote the set of all equivalence relations on $\Omega$. The contextual equivalence is defined on a set $\Omega$ as a function $\eta$: $\mathcal{P}(\mathcal{P}(\Omega))\rightarrow\mathcal{E} (\Omega)$ assigning to each set of proposition $\{p, q, \ldots\}$ an equivalence relation $\eta(p, q, \ldots)$. For $w\,\eta(p,q,\ldots)\, w^{\prime}$ , we write $w\approx_{ mod\, p,q,\ldots} w^{\prime}$, meaning that with regard to $p, q, \ldots$, it is the case that w and $w^{\prime}$ are the same. Doyle and Wellman (1994) thus proposed dividing the space of possibilities into equivalence classes and ignoring comparison links that go across these classes.
+      形式上，设 $\Omega$ 为状态集，$\mathcal{E}(\Omega)$ 表示 $\Omega$ 上所有等价关系构成的集合。语境等价定义为 $\Omega$ 上的函数 $\eta$: $\mathcal{P}(\mathcal{P}(\Omega))\rightarrow\mathcal{E} (\Omega)$，对每个命题集 $\{p, q, \ldots\}$ 指派等价关系 $\eta(p, q, \ldots)$。当 $w\,\eta(p,q,\ldots)\, w^{\prime}$ 时，记作 $w\approx_{ mod\, p,q,\ldots} w^{\prime}$，意即就 $p, q, \ldots$ 而言，w 与 $w^{\prime}$ 相同。Doyle 与 Wellman（1994）因此提议：将可能性空间划分为等价类，忽略跨越这些类的比较链接。
   - id: 225
     kind: body
     source: |-
@@ -2100,9 +2100,9 @@ segments:
     source: |-
       where $\Gamma$ is an arbitrary set of formulas. This way, “being equal” is part of the formal language itself. Semantically, $\Gamma$ defines an equivalence class of possible worlds. For instance, $w \approx_{\Gamma} v$ indicates that w and v are equal w.r.t. $\Gamma$—they satisfy the same formulas in $\Gamma$.
     step1: |-
-      where $\Gamma$ is an arbitrary set of formulas. This way, “being equal” is part of the formal language itself. Semantically, $\Gamma$ defines an equivalence class of possible worlds. For instance, $w \approx_{\Gamma} v$ indicates that w and v are equal w.r.t. $\Gamma$—they satisfy the same formulas in $\Gamma$.
+      其中 $\Gamma$ 是任意公式集。如此，“相同”本身成为形式语言的一部分。从语义上说，$\Gamma$ 定义了一个可能世界的等价类。例如 $w \approx_{\Gamma} v$ 表示 w 与 v 就 $\Gamma$ 而言相等——它们满足 $\Gamma$ 中相同的公式。
     step2: |-
-      where $\Gamma$ is an arbitrary set of formulas. This way, “being equal” is part of the formal language itself. Semantically, $\Gamma$ defines an equivalence class of possible worlds. For instance, $w \approx_{\Gamma} v$ indicates that w and v are equal w.r.t. $\Gamma$—they satisfy the same formulas in $\Gamma$.
+      其中 $\Gamma$ 为任意公式集。这样一来，“相同”本身就进入了形式语言。在语义上，$\Gamma$ 刻画一个可能世界的等价类。例如，$w \approx_{\Gamma} v$ 表示 w 与 v 就 $\Gamma$ 而言等同——二者满足 $\Gamma$ 中的同一组公式。
   - id: 227
     kind: body
     source: |-
@@ -2140,13 +2140,13 @@ segments:
       - $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$  iff   $\exists v$ s.t. $v \vartriangleright_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
       - $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$  iff   $\exists v$ s.t. $v \approx_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
     step1: |-
-      - $\mathcal{M}, w \models \langle \Gamma \rangle^{\geq}\varphi$  iff   $\exists v$ s.t. $v \trianglerighteq_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
-      - $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$  iff   $\exists v$ s.t. $v \vartriangleright_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
-      - $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$  iff   $\exists v$ s.t. $v \approx_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
+      - $\mathcal{M}, w \models \langle \Gamma \rangle^{\geq}\varphi$    当且仅当 $\exists v$ 使得 $v \trianglerighteq_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
+      - $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$    当且仅当 $\exists v$ 使得 $v \vartriangleright_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
+      - $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$    当且仅当 $\exists v$ 使得 $v \approx_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
     step2: |-
-      - $\mathcal{M}, w \models \langle \Gamma \rangle^{\geq}\varphi$  iff   $\exists v$ s.t. $v \trianglerighteq_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
-      - $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$  iff   $\exists v$ s.t. $v \vartriangleright_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
-      - $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$  iff   $\exists v$ s.t. $v \approx_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
+      - $\mathcal{M}, w \models \langle \Gamma \rangle^{\geq}\varphi$    当且仅当 $\exists v$，使 $v \trianglerighteq_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
+      - $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$    当且仅当 $\exists v$，使 $v \vartriangleright_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
+      - $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$    当且仅当 $\exists v$，使 $v \approx_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
   - id: 231
     kind: body
     source: |-
@@ -2168,9 +2168,9 @@ segments:
     source: |-
       Reflexivity axioms for ceteris paribus sets where $\varphi\in\Gamma$:
     step1: |-
-      Reflexivity axioms for ceteris paribus sets where $\varphi\in\Gamma$:
+      对 $\varphi\in\Gamma$ 的其余条件相同集，自反性公理：
     step2: |-
-      Reflexivity axioms for ceteris paribus sets where $\varphi\in\Gamma$:
+      其余条件相同集在 $\varphi\in\Gamma$ 情形下的自反性公理：
   - id: 234
     kind: body
     source: |-
@@ -2187,9 +2187,9 @@ segments:
     source: |-
       Monotonicity axioms for ceteris paribus sets where $\Gamma \subseteq\Gamma^{\prime}$
     step1: |-
-      Monotonicity axioms for ceteris paribus sets where $\Gamma \subseteq\Gamma^{\prime}$
+      对 $\Gamma \subseteq\Gamma^{\prime}$ 的其余条件相同集，单调性公理
     step2: |-
-      Monotonicity axioms for ceteris paribus sets where $\Gamma \subseteq\Gamma^{\prime}$
+      其余条件相同集在 $\Gamma \subseteq\Gamma^{\prime}$ 情形下的单调性公理
   - id: 236
     kind: body
     source: |-
@@ -2209,9 +2209,9 @@ segments:
     source: |-
       Axioms characterizing the changes to the ceteris paribus sets:
     step1: |-
-      Axioms characterizing the changes to the ceteris paribus sets:
+      刻画其余条件相同集之变化的公理：
     step2: |-
-      Axioms characterizing the changes to the ceteris paribus sets:
+      刻画其余条件相同集变化的公理：
   - id: 238
     kind: body
     source: |-
@@ -2328,9 +2328,9 @@ segments:
     source: |-
       then one outcome would be $o = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}$.
     step1: |-
-      then one outcome would be $o = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}$.
+      则一个结果可为 $o = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}$。
     step2: |-
-      then one outcome would be $o = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}$.
+      那么一个结果就是 $o = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}$。
   - id: 251
     kind: body
     source: |-

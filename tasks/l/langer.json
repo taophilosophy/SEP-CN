@@ -2,8 +2,16 @@
   "slug": "langer",
   "kind": "retranslate",
   "zh_doc": "l/langer.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T01:49:20Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T05:38:07Z",
   "version_pin": {

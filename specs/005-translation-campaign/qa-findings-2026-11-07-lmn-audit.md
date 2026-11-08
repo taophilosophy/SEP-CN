@@ -81,4 +81,33 @@
 * 同步动作：PROGRESS.md 重生成（done 177 / 在途 242）；l/m/n `claimed_by` 转交 `LMN-main-20261108`。
 * 本批下一步：①续译 moral-demands-permissions 段 46–63 → compose → 三审三校收口；②清 pending 10 条（langer、M 7、N 2）；③297 条未建任务按字母序建任务并翻译。
 
+## 7. L 批接管复账与纠正（2026-11-08，L-main-20261108）
+
+**起因**：用户指派本会话专责 L 批，先复算同步进度、纠正账实，再续译。
+
+**五方复算**（`script/lmn_audit4.py l` + 成稿混排扫描）：
+
+| 字母 | 正式词条 | 已成稿 | done | 在途 | pending 任务 | 未建任务 |
+| --- | --- | --- | --- | --- | --- | --- |
+| L | 144 | 18 | 18 | 1（langer，cleared） | 0 | 125 |
+
+* **账实一致**：18 条 done 均有 9 步状态机、账本 step2 全填（22/22…274/274…）、尾节（学术工具/其他网络资源/相关词条/参考文献）齐备；无「有稿无任务」「done 无稿」「成稿状态滞后」。
+* **认领转交**：l 批 `claimed_by` 由 `LMN-main-20261108e` 转为 `L-main-20261108`（m/n 已由 M-main-20261108、ZCode-N-20261108 各自接走，本会话不涉）。
+* **langer 在途件**：前会话 2026-11-08T01:49Z 已 clear（baseline hash_ok），账本未建、成稿为单行占位；本会话收编续作。
+
+**纠正（本轮实修）**：
+
+1. **`luxemburg` 引号失配**（style 门禁唯一硬点）：第 63 行源文 *“the contact with European civilisation, i.e. with capitalism”* 为单一引号跨度，译文误拆成两段收尾；合并为单引号跨度，`check_style --docs l/*.md` 由 1 issue → 0。
+2. **`lorenzo-valla` 混排残留**：第 7 段「第一卷主要 devoted 于形而上学」，补译「第一卷主要致力于形而上学」（账本 step1/step2 同步）。
+3. **`lambert-auxerre` 混排残留**：第 43 段「限定 ordinarily 代表所有（现存）猫的词项」，补译「限定“猫”一词项，而“猫”本来通常代表所有（现存）的猫」（账本 step1/step2 同步）。
+4. **`logic-preference` 系统性漏译**（ADR-0020 Major）：done 稿内 30 段形式化定义句整段留英文（step1==step2==source，含「For a set Γ…」「where … denotes …」「iff … for some v」「Inclusion axioms:」等，及两幅图 alt 文本）；逐段补译并同步账本（段 id 50/70/71/73/96/97/99/102/107/115/116/120/123/152/158/175/177/178/187/194/195/204/208/224/226/230/233/235/237/250）。`lq.py check` 274 段 HARD=0；四检复跑 style 0 / academic --strict 0 / math missing 0（unbalanced 1 为源页未闭合定界符，既有豁免）/ prose 0；术语登记 11 行。三条任务均追加 `post_done_fix` 步骤留痕。
+
+**继承性缺口（非本轮修复，登记）**：
+
+* **figdesc 未译**（全库 47 件，含 `l/lambert-auxerre.figdesc.md`、`l/logic-preference.figdesc.md`）：模板 §2 条 20 要求随主词条译为 `<slug>.figdesc.md`，现行各批一律未做；与 L 批无关但影响「补充材料链接」完整性，建议另行立案（批量 47 件，单独立任务）。
+* **成稿图注双行**：源页 `*Figure N.*` 与 caption 并存时译文保留英文标签行 + 中文「图 N。」，属源页排版缺陷的照录，维持现状。
+
+**本批下一步**：①langer 续译（账本建骨架 → 双版 → 三审三校）；②125 条未建任务按词数升序逐条建任务翻译。
+
+
 

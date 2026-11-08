@@ -375,9 +375,9 @@ segments:
     source: |-
       an example of natural restriction is when we restrict the term “cat”, which would ordinarily stand for all (presently living) cats, with the term “calico”, so that its supposition is now restricted to only calico cats. Use-based restriction arises not from any other term added to the sentence, but from the context of use, such as
     step1: |-
-      自然限定的一个例子是：我们用“花斑的”来限定 ordinarily 代表所有（现存的）猫的词项“猫”，使其指代现在仅限于花斑猫。基于使用的限定不是来自添加到句子中的任何其他词项，而是来自使用语境，如
+      自然限定的一个例子是：我们用“花斑的”来限定“猫”这一词项——它本来通常代表所有（现存的）猫——使其指代现在仅限于花斑猫。基于使用的限定不是来自添加到句子中的任何其他词项，而是来自使用语境，如
     step2: |-
-      自然限定之一例：用“花斑的”限定 ordinarily 代表所有（现存）猫的词项“猫”，使其指代仅限于花斑猫。基于使用的限定，则不是来自添加到句中的任何其他词项，而是来自使用语境，如
+      自然限定之一例：用“花斑的”限定“猫”一词项，而“猫”本来通常代表所有（现存）的猫，于是其指代仅限于花斑猫。基于使用的限定，则不是来自添加到句中的任何其他词项，而是来自使用语境，如
   - id: 44
     kind: body
     source: |-
