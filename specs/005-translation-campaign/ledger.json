@@ -1,195 +1,195 @@
 {
-  "version": 1,
-  "batches": {
-    "1": {
-      "phase": "done",
-      "claimed_by": "zcode-digit1-20261105",
-      "claimed_at": "2026-11-04T18:32:39Z",
-      "note": "批次1 唯一词条 18thGerman-preKant done（2026-11-05，全流程十步）；批次1 收口",
-      "advanced_at": "2026-11-04T20:57:44Z"
-    },
-    "a": {
-      "phase": "translate",
-      "claimed_by": "A2-main-20261108",
-      "claimed_at": "2026-11-08T11:38:20Z",
-      "note": "fetch/convert事实已满足（基线160/160镜像160/160，intake add=0）；political-philosophy遗留桩已裁定移除；对账补记（2026-11-06）：任务 160=pending 98/cleared 21/s1_checked 1/s3_checked 5/done 35，状态机与凭证一致；NO_LEDGER 41（旧存量 39 不补造；新增 2：addams-jane/al-farabi 11-03 ABCDE 会话译，无账本留痕）；复账（2026-11-06 AB-main-20261106）：任务 160=pending 97/cleared 18/done 45，内容×状态零偏差（done×complete 45/cleared×empty 18/pending×empty 97，无快照遗留件）；abortion done+qa-rework 开项（11-04 立项，状态保持 done）属既定语义非缺陷；上句补记 done 35/s3 5 系 11-03 快照过时数，c1623ef1 提交信息声称纠正但未落盘，本次补落；NO_LEDGER 160 全批（A 批无段落账本体系，不补造留痕）；收口（2026-11-07 AB-main-20261106）：alexander-crummell 九步入 done（s3 88f5e168、done bb45d393），实况 160=pending 96/cleared 18/done 46；下一目标按源文词数升序；行数口径不可靠（B 批已实证）。收口（2026-11-07 续）：albo-joseph 九步入 done（s3 ea599181、done 8f2da1b3，61 defs、marker 67:67、年份 147:147 全等，人名 19+术语 10 登记），实况 160=pending 95/cleared 18/done 47；收口（2026-11-07 续二）：arabic-islamic-mysticism 九步入 done（s3 7bdfa9e4、done 132751b2，defs 27+note-1、marker 25:25、年份 119:119 全等，人名 36+术语 8 登记，转写撇号 U+02BC 归一 77 处），实况 160=pending 94/cleared 18/done 48；收口（2026-11-07 续三）：antonio-rosmini 九步入 done（s3 c764a5ca、done 0f970ecc，defs 2 条 -nd 照录、参考文献区缩写表四类书目照录、年份 +3 全为缩写区间/年代词边界假差，人名 6+术语 11 登记），实况 160=pending 93/cleared 18/done 49；下一目标 auriol（9747 词）；复账接管（2026-11-08 A-main-20261108，用户裁定 A 批转本会话负责）：三源对账 160=done 52/cleared 18/pending 90，done×正文×git 零偏差（唯一在途件 aristotle-causality：任务 cleared 但正文已成稿、无账本未提交，零信任回核源文后九步入 done）；action QA 返工（prose 138→2 引文豁免、135 处改写）已落库 1e815c4d；下一目标按源文行数升序 analogy-medieval（137 行）；续（2026-11-08）：analogy-medieval 九步 done（正文 39 块 1:1、75 defs 照录、prose 59→0，提交 f58c3e6e），实况 done 53/160；下一目标 august-rehberg（140 行）；接管收口（2026-11-08 A2-main-20261108）：august-rehberg 在途件（任务 cleared 但正文已成稿、未提交）零信任回核后九步入 done（纠错译 1 处、italic-cjk 17→0、prose 30→2 直引豁免、marker 123:123/defs 69:69/URL 8:8 全等、人名 6+术语 4 补登），实况 done 54/160；批内 13 条 rework-open（QA 返工线）状态保持 done 不动；下一目标按源文词数升序 ancient-soul（144 行）",
-      "advanced_at": "2026-10-28T16:35:48Z"
-    },
-    "b": {
-      "phase": "translate",
-      "claimed_by": "B-main-20261109",
-      "claimed_at": "2026-11-08T17:15:52Z",
-      "note": "B-main-20261109 接管：done 15/62；在途 8（s3_checked 6、r1_reviewed 1、drafted 3: bessarion/brouwer/belief-merging）；cleared 37 按源文词数升序推进；behaviorism 缺 [^ross-2008] 已补齐",
-      "advanced_at": "2026-11-08T17:39:11Z"
-    },
-    "c": {
-      "phase": "translate",
-      "claimed_by": "C-main-20261108c",
-      "claimed_at": "2026-11-08T12:50:08Z",
-      "note": "对账补记（2026-11-03/11-06，CD-main-20261106）：s3 18→25（cloning 账本 59 段续译收口至 s3_checked）；状态机与 steps 凭证 100% 一致；修复 causation-medieval 文末缺 `## 参考文献` 节首（defs 60:60）、conway 两标题漏汉化。 | 对账补记（2026-11-08，C-main-20261108 接管）：五方复算账实一致——任务 172=done 3（cockburn/conway/crathorn）/s3_checked 27（本次 crescas 收口；r1-r3 归 R-main-20261108 评审线）/cleared 2（cancer、cosmology-30s）/pending 140；零跳步零虚挂。纠正 3 件：①crescas 前会话遗留未提交 s2→复验四检+结构五维全等后推进 s3（账本 113 段双填、守恒门过；md 为 s2 后终稿，勿再 compose --write 回退）；②cosmology-30s 账本 24 段部分草稿（源文 211 段/62 脚注，f746e57e 误入）而任务虚挂 pending→补记 clear（md 自 ADR-0009 起即 H1-only，基线门 hash_ok），续译自 p25；③cambridge-platonists 前会话遗留术语实修 7 处（费奇诺/马勒伯朗士/撒都该主义之溃败/善形官能 Boniform/Hylarchic/指代）已提交，不改状态（s3 归评审线）。遗留待登记线：ren-ming-biao 中 Malebranche 两行异译（马勒伯朗士[L 批 lady-masham] vs 马勒布朗士[O 批 occasionalism]）需合并。本线续开 pending 140。 | 接管复算（2026-11-08，C-main-20261108b，本会话）：C 172 词条账实五方复算一致——done 4（cockburn/condemnation/conway/crathorn）、s3_checked 26（评审线 R-main 队列，condemnation 已由 REV-main 走完 r1-r3 收口）、s1_checked 1（conscience 在途，本线续做 s2-s3）、cleared 2（cancer、cosmology-30s）、pending 139；158 个任务 JSON 的步序/重复步/复审独立性（r1≠draft actor）/时间单调四维探针零问题（仅 causation-medieval、conway 各一条登记在案的 cd-sync 对账步，属补记非跳步）。纠正 2 件：①移除误入库的一次性装配脚本 c/_gen_crathorn.py（本地留存 script/，字母目录只放词条，ADR-0023 同类）；②PROGRESS.md 重生成同步（C 列不动：172/172/172/done 4）。另登记评审线索 3 件（均 s3_checked 存量，移交 R-main 在 r1 处理，本线不并行改同一文件）：certainty 4 处 bold-spacing（**p**/**b** 紧贴汉字）、change 1 处 curly-quotes（Leibniz’ law 撇号）、cambridge-platonists 1 处斜体断裂（*philosophia perenni*s）。本线续开 pending 139。 | 复算纠正（2026-11-08，C-main-20261108c，本会话）：C 172 五方复算——done 4（cockburn/condemnation/conway/crathorn）、s3_checked 28（含本会话 closure-epistemic 收口与 conscience）、cleared 2（cancer、cosmology-30s）、pending 138；158 个任务 JSON 步序/重复步/时间单调/done≥6 步四维探针零异常。纠正 2 件：①closure-epistemic 前会话中断件（账本 p5 段 166-199 与正文 compose 均未提交、任务虚挂 cleared 仅 clear 一步）→ 正文与账本 step2 对齐 199:199（8 处为 md 侧 prose 实修）、守恒五维全等（marker 113:113/defs 77:77/年份 263:263/H2 10:10/H3 11:11）、四检全绿，推 draft/s1/s2/s3 并提交 e9a3ebd9；②补人名登记 2 行（Hawthorne 霍桑、Sherman 舍曼，全册缺行）。本线续开 pending 138。",
-      "advanced_at": "2026-11-08T13:10:05Z"
-    },
-    "d": {
-      "phase": "translate",
-      "claimed_by": "D-main-20261108b",
-      "claimed_at": "2026-11-08T11:44:17Z",
-      "note": "对账补记（2026-11-03）：任务 92=done 6/r1_reviewed 4/s3_checked 3/cleared 8/pending 71；对账补记（2026-11-06）：任务 92=pending 71/cleared 4/s3_checked 7/r1_reviewed 4/done 6；duhem 在途（并行会话译文中勿动）；NO_LEDGER 17（旧存量 14；新增 3：descartes-ethics/descartes-ideas 11-04、dewey-political 11-05，actor=?）；对账补记（2026-11-06，CD-main-20261106 接管）：任务 92=pending 71/cleared 3/s3_checked 7/done 11（r1_reviewed 4 已由并行会话推至 done），状态机与 steps 凭证 100% 一致；NO_LEDGER 17→18（新增 duhem：11-06 收口 done，无账本留痕）；cleared 4→3（davidson/digital-art/dilthey 待全量重译）；本会话（CD-main-20261106）开工即收 cloning，d 批 davidson/digital-art/dilthey 三件 cleared 待全量重译；对账补记（2026-11-08，D-main-20261108 接管，对账脚本 script/audit_d_progress_20261108.py 可复跑）：任务 92=pending 66/cleared 4/s3_checked 11/done 11——11-07 后新增 s3_checked 4 条（dai-zhen/dialectical-school/diodorus-cronus/deductivism-mathematics，D-main-20261107 产出）；translated 22 件 198,571 英文词、stub 70 件 1,176,200 英文词（min 11,647/中位 16,061/max 31,810）；对账异常 19：NO_LEDGER 18（旧存量 17+duhem，只登记不追造）+ disability-care-rationing 在途半成品（账本 87 段仅填 43、正文标题行、state=cleared，2026-11-08 05:09 D-main-20261107 中断遗留，本会话续译收口）；体例债登记：prose 语言告警 1106 处（20 件，其中 8 条 done/s3 无豁免留痕）、参考文献英文小节标题 18 处（9 件，模板 fan-yi-mu-ban §4 允许保留 vs C 批复审汉化实践冲突，待用户裁定）；s3_checked 11 条 r1–r3 归 R-main-20261108 评审线（session-handoff §6），本线不再自推；对账续记（2026-11-08，D-main-20261108b 接管 d 批）：任务 92=pending 65/cleared 4/s3_checked 12/done 11（disability-care-rationing 由 3f5215a1 收口 s3_checked）；translated 23 件 210,218 英文词、stub 69 件 1,164,553 英文词；异常 19 定性不变（NO_LEDGER 18 只登记不追造；disability 在途 59/111 段=body 109+oir 2，账本 kind/source 身份零差、已填 59 段守恒零问题，state=cleared 属 draft 未收口常态，本会话自段 60 续译）；s3_checked 12 条 r1–r3 仍归 R-main-20261108 评审线（session-handoff §6）",
-      "advanced_at": "2026-11-02T16:12:59Z"
-    },
-    "e": {
-      "phase": "translate",
-      "claimed_by": "EFG-main-20261108",
-      "claimed_at": "2026-11-08T12:07:14Z",
-      "note": "对账（2026-11-08 EH-main-20261108b 正序接管）：99=d19/在途0/未动工80（pending 80）；英文词数 1,568,038，done 181,650（11.6%）。本会话正序收口 environmental-aesthetics（18,426 词）、erotic-art（12,517 词）两条，均九步齐、四检绿、账本守恒；下一条 experimental-aesthetics（17,480 词）。done 12 条 NO_LEDGER 存量不补造（ADR-0021 债）；4 条半截旧账本正文完整、禁 compose。",
-      "advanced_at": "2026-11-08T02:53:16Z"
-    },
-    "f": {
-      "phase": "translate",
-      "claimed_by": "EFG-main-20261108",
-      "claimed_at": "2026-11-08T12:07:43Z",
-      "note": "对账（2026-11-08 正序接管）：96=d1（film，账本 77/77 守恒）/在途0/未动工95，其中 frame-problem 为空骨架（账本 0/40，需立账后开译，禁 compose）；英文词数 1,430,133，done 7,483（0.5%）。正序第二轮按 SUMMARY 队列开译。",
-      "advanced_at": "2026-11-08T02:53:16Z"
-    },
-    "g": {
-      "phase": "translate",
-      "claimed_by": "G-main-20261109",
-      "claimed_at": "2026-11-08T17:35:07Z",
-      "note": "对账（2026-11-08 正序接管）：49=d1（gelukpa）/在途0/未动工48（pending 30＋cleared 空架 18）；cleared 18 条均无旧文（gene/heraclitus 类旧文已于 2026-11-06 doc-reset）；英文词数 710,324，done 5,509（0.8%）。正序第三轮接手。",
-      "advanced_at": "2026-11-08T02:53:16Z"
-    },
-    "h": {
-      "phase": "translate",
-      "claimed_by": "H-main-20261108",
-      "claimed_at": "2026-11-08T12:05:27Z",
-      "note": "对账（2026-11-08 正序接管）：61=d9（hume-aesthetics 收口，较 §9 快照 +1）/在途10/未动工42（pending 24＋cleared 空架 18）。在途=半截账本 9 条（haecceitism 13/122、halevi 48/120、hamann 3/76、han-dynasty 36/105、heytesbury 11/193、hilbert-program 3/63、hobbes-science 35/85、holkot 35/62、hume-moral 7/92）＋hegel-social-political（无账本，孤儿导言 240 字）；半截账本禁直接 init（整册覆盖）、禁 compose（残余≠0）。英文词数 922,779，done 82,451（8.9%）。正序最后一轮接手。",
-      "advanced_at": "2026-11-08T02:53:16Z"
-    },
-    "i": {
-      "phase": "translate",
-      "claimed_by": "I-main-20261108",
-      "claimed_at": "2026-11-07T22:41:10Z",
-      "note": "2026-11-08 倒序线（I-main-20261108）：imprecise-probabilities 全量重译 done——167 段账本（正文 165＋其他网络资源＋致谢）双版→成稿 63143 字符，s1/s2/s3/r1/r2/r3 六道全过（s2 prose 49→0；s3 style 0、academic --strict 0；r1 修正 4 处 Minor）。I 批 done 21/75（28.0%），pending 47／cleared 7（含 5 条快照遗留、immunology 存根、illumination 在途）。倒序队列下一条：intuitionism-ethics（cleared 遗留旧译、11 节结构齐全，零信任重译）。并行正序线：illumination 已至 s3、ingarden p1 在途，两线不重叠。",
-      "advanced_at": "2026-11-08T09:24:37Z"
-    },
-    "j": {
-      "phase": "translate",
-      "claimed_by": "J-main-20261108",
-      "claimed_at": "2026-11-07T20:48:33Z",
-      "note": "38 任务已 create（version_pin 齐全），启动 40 路翻译波；对账补记（2026-11-06）：任务 38=cleared 34/done 4；cleared 34 含子代理废稿待直译，其中 japanese-aesthetics/justice-bad-luck 文件结构完整但状态不推进（J批 11-03 裁定）；账本 5 份；二次对账（2026-11-06 I-K 接管）：账本实为 6 份（justep-coherence 为 8 分卷），james-mill 账本仅 9/84 段系半成品、justep-coherence 分卷 114 段已填未 compose，两处已交本轮子代理补齐；收口（2026-11-06 I-K 接管会话）：john-italos、johann-sturm 全量三校至 s3_checked（30/76 段账本），justep-coherence 分卷已合并为单账本、james-mill 账本重建中；2026-11-07 续记：john-italos/johann-sturm/justus-lipsius 三条至 s3_checked，justep-coherence 分卷合并后 105/116、james-mill 账本重建中；2026-11-07 收口：无子代理后台，主会话续完 justep-coherence（116/116）与 james-mill（84/84）至 s3_checked，J 批在途账本清零；james-mill 曾因源文将三段对话引文并为一段而 p2 按镜像行编段，致 22-30 段译文后移两位，已按引注指纹对账定位并逐段外科纠正（20 处，残余 0）；2026-11-07 新开：jayaraasi（cleared，9256 词）账本 67 段立骨，p1-p4 已填 36/67（段1-36，含 5 note＋oir），以账本 source 编段、逐段双版，接力点段37；2026-11-07 收口：jayaraasi 67 段全填并至 s3_checked（术语 13 行、人名 10 行登记；标题归一“阇耶罗师·跋陀”）；接力下一条 john-norris（9854 词）；2026-11-07 续开 john-norris（80 段，45 条 biblio 照录）：p1-p2 填段 1-16，接力点段 17；术语沿用本批已登“观念哲学/可理解世界/偶因论”等；2026-11-07 续收口：john-norris 80 段全填至 s3_checked（人名 9 行、术语 9 行登记）；体例实测：纯中文强调既禁斜体（check_style）亦禁加粗（守恒门 ** 计数硬门），只能还原为无标记行文，拉丁斜体对保留；接力下一条 intentionality-ancient（10174 词）【J 批对账 2026-11-08】接管会话 J-main-20261108（用户指令：现在负责翻译 J 词条，主会话直译不用子代理）。三源对账（tasks/ 状态 × 账本 segments 双版 × j/*.md 实态）：38 条 = done 4（james 47 段 / james-ward 60 / joane-petrizi 26 / justice-virtue 59，账本均全齐）、s3_checked 7（james-mill 84 / jayaraasi 67 / johann-sturm 76 / john-italos 30 / john-norris 80 / justep-coherence 116 / justus-lipsius 53，账本均全齐；按 session-handoff §6 归评审线 R-main-20261108，本会话不动）、cleared 27（待译，英文源合计 42.7 万词）。在途：japanese-aesthetics 账本 55/112 段双版（旧提交记录为 p5=46 段，实已推进至 55），余 57 段（段 56–112）接力，源 10738 词。纠正 2 处脏态：japanese-aesthetics 与 justice-bad-luck 的 j/*.md 在 641faf13（2026-11-02 在途快照）被写回 2026-11-01 clear 之前的旧中文全文（零信任不作底稿的子代理废稿，与账本 step1/step2 逐句比对零重合，实证非同源），与 state=cleared 不符；已恢复为仅留 H1（clear 语义 FR-013），旧稿存 git 历史可回溯，新译文将由账本组装覆盖。格式待整理 1 处：japanese-aesthetics 账本 params 区有一行空值键 `batch_`（截断遗留），重译收官时清理。清理项 1 处：justep-coherence 分卷 part1–8 为合并前中间产物（主账本 116 段已齐），经 check_junk 不判违规，暂留任务证据。下一动作：续译 japanese-aesthetics 56–112，随后按体量序（japanese-aesthetics 10738 → jaspers 11431 → john-salisbury 12254 …）逐条全周期。 【J 批 2026-11-08 续记】（接管会话 J-main-20261108，主会话直译）二条收口至 s3_checked：① japanese-aesthetics（日本美学，10738 词）——账本 112 段双版全齐，params 区 batch_ 空键清理，lq compose 写回 27401 字符（296 行/43 defs），s1 误读型错译实修 1 处（Ozu-esque『奥兹式』→『小津经典』，回账本 source 核证 the classic Ozu overlapping triangles），s2 prose 43→9（实修 40、豁免 9：引文 4/术语 gloss 枚举 2/概念性定语 3），四检全绿；② jaina-philosophy（耆那教哲学，12972 词）——账本 137 段自骨架 p1-p13 分批全填（body 136＋oir 1），守恒门拦下 3 处源无 ** 而译文加粗（按硬门还原无标记），compose 39990 字符（436 行/61 defs），对账 marker 103:103、defs 61:61、H2 8:8、H3 16:16 全等；术语按册内先登形回改 15 处（阿羯兰迦·跋多→阿迦楞迦·跋陀、萨曼多跋陀罗→萨曼塔巴德拉、明辨→毗提耶难陀；anumāna→比量/parārthānumāna 为他比量、hetu/sādhya→因/宗、vyāpti→遍充、pramāṇa→认知凭据、五支作法宗因喻合结），新登人名 20 行（已入 HEAD 6473aa98）与术语 30 行（已入 HEAD f8bf625b）；s2 prose 50→2（实修 48、豁免 2：dharma 义项枚举＋ĀS 引块内被动），四检全绿。门禁备注：check_all 本轮 3 红均非 J 批引入——h/holkot H1 不一致（h 批在途）、social contract 登记册/词汇表冲突（他会登记）、根目录畸形散件（已由本会话清除，junk 门转绿）。接力：cleared 仍 25 条，按体量序下一条 jaspers（11431 词）；s3_checked 9 条归评审线 R-main-20261108。 【2026-11-08 续记二】jaspers（卡尔·雅斯贝尔斯，11664 词）账本 67 段（body 65＋oir 1＋note 1＋biblio 照录 41）已立，p1-p4 填段 1-28（引言/生平/学术生涯/海德格尔关系/精神病理学/《世界观心理学》/《哲学》三卷与康德改造），双版逐段落盘，接力点段 29（5. Philosophy and Religion）。",
-      "advanced_at": "2026-11-08T15:20:00Z"
-    },
-    "k": {
-      "phase": "translate",
-      "claimed_by": "K-main-20261108b",
-      "claimed_at": "2026-11-08T11:57:38Z",
-      "note": "2026-11-08 K 批接管（K-main-20261108b，用户指令：现在负责翻译 K，主会话直译不用子代理）：三源对账 done 21/36、s3_checked 1（korean-confucianism，本会话 s1-s3 完成：s1 定点修 16 处含 seg89 漏译三句、seg107 丁/郑氏兄弟、seg123《牧民心书》等；s2 prose 70→57（实修 21、余按学术长句/术语枚举/引文豁免）、s3 五维对账 defs 93:93·markers 94:94·H2 11:11·H3 8:8、四检全绿；人名登记补 24 行；r1-r3 归评审线 R-main-20261108）、cleared 14（源 31.6 万词，体量升序：kant-judgment → kukai → knowledge-how → kant-transcendental → kant-development → kant-spacetime → kant-religion → kant-conceptualism → kant-moral → kant → kant-hume-causality → kant-transcendental-idealism → kant-aesthetics → kyoto-school）。已纠正：kochen-specker 段101 标题粘连与段126/130/132 source 截断（HARD 清零）、kant-mathematics 半账留痕。在途接力：kant-judgment。",
-      "advanced_at": "2026-11-08T15:29:02Z"
-    },
-    "l": {
-      "phase": "translate",
-      "claimed_by": "L-main-20261109",
-      "claimed_at": "2026-11-08T02:45:53Z",
-      "note": "2026-11-08 复账同步（LMN-main-20261108b）：五方复算账实零偏差；done 18/144，pending 1（langer），未建 125；本线续译未建词条，r1-r3 归 R-main-20261108 评审线；2026-11-09 接管复账（L-main-20261109，主会话直译不用子代理）：五方复算 144=done 18/在途 1（langer，状态滞后件已收编并推进至 r1）/pending 0/未建 125（剩余源文 2,013,089 词）；langer 纠正详 qa-findings §8（s1 脚注 216=216 逐键、s2 prose 72→4、s3 术语 9+人名 25 登记）；登记行被 ef67405e/5dbc8cc2 并行收编留痕；本线续译未建词条按源文词数升序（首条 la-forge 7,851 词），r2-r3 仍归评审线口径不变",
-      "advanced_at": "2026-11-06T23:54:21Z"
-    },
-    "m": {
-      "phase": "translate",
-      "claimed_by": "M-main-20261108",
-      "claimed_at": "2026-11-08T02:28:33Z",
-      "note": "M-main-20261108 接续（2026-11-08 13:0x UTC）：mandeville 三校收口 s3_checked（commit a003522a）入 R-main 评审线；M 批在途 2 条均属评审线，待译 6 条 pending + 125 未建；下一目标 marsilius-padua（源 12,965 词，pending 中最小）",
-      "advanced_at": "2026-11-08T14:43:33Z"
-    },
-    "n": {
-      "phase": "translate",
-      "claimed_by": "ZCode-N-20261108b",
-      "claimed_at": "2026-11-08T12:01:21Z",
-      "note": "2026-11-08 复账同步（LMN-main-20261108b）：纠正注记（原记 2026-11-06 成稿 0 已过时）——neoplatonism done（N done 1/50）；pending 2（nietzsche-aesthetics/nominalism-metaphysics）+未建 47；2026-11-08 接管（ZCode-N-20261108）：复算 50 条——基线/镜像 50/50 齐、任务 3（done 1=neoplatonism、pending 2=H1 桩、未建 47），成稿 1 篇其余全桩，账实零偏差；源文 786,992 词，最小 nicole-oresme 6,437 词；本会话续译余 49 条，按源文词数升序推进；2026-11-08 nicole-oresme 全周期 done（账本 47 段、四检+check_all 全绿，名形统一尼科尔·奥雷斯姆；N done 2/50）；下一条 newton（6,692 词）；2026-11-08 newton 全周期 done（账本 44 段、四检+check_all 全绿；N done 3/50）；下一条 necessary-sufficient（7,025 词）",
-      "advanced_at": "2026-11-06T15:08:55Z"
-    },
-    "o": {
-      "phase": "translate",
-      "claimed_by": "OPQR-main-20261108",
-      "claimed_at": "2026-11-08T11:24:30Z",
-      "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
-      "advanced_at": "2026-11-05T15:22:54Z"
-    },
-    "p": {
-      "phase": "translate",
-      "claimed_by": "OPQR-main-20261108",
-      "claimed_at": "2026-11-08T11:24:31Z",
-      "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
-      "advanced_at": "2026-11-05T15:22:54Z"
-    },
-    "q": {
-      "phase": "translate",
-      "claimed_by": "OPQR-main-20261108",
-      "claimed_at": "2026-11-08T11:24:31Z",
-      "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
-      "advanced_at": "2026-11-05T15:22:54Z"
-    },
-    "r": {
-      "phase": "translate",
-      "claimed_by": "OPQR-main-20261108",
-      "claimed_at": "2026-11-08T11:24:31Z",
-      "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
-      "advanced_at": "2026-11-05T20:22:06Z"
-    },
-    "s": {
-      "phase": "translate",
-      "claimed_by": "SZ-main-20261108",
-      "claimed_at": "2026-11-07T18:44:24Z",
-      "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：161 词条=done 1（spacetime-holearg 10-28 旧存量无账本，不补造）+pending 5+155 未建；零偏差",
-      "advanced_at": "2026-11-03T19:15:07Z"
-    },
-    "t": {
-      "phase": "translate",
-      "claimed_by": "TZ-CN-20261109",
-      "claimed_at": "2026-11-08T17:41:16Z",
-      "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：71 词条=任务 2 pending+69 未建；零偏差",
-      "advanced_at": "2026-11-03T19:15:08Z"
-    },
-    "u": {
-      "phase": "translate",
-      "claimed_by": "TZ-CN-20261109",
-      "claimed_at": "2026-11-08T17:41:16Z",
-      "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：4 词条=任务 0 已建；零偏差",
-      "advanced_at": "2026-11-03T19:15:09Z"
-    },
-    "v": {
-      "phase": "translate",
-      "claimed_by": "TZ-CN-20261109",
-      "claimed_at": "2026-11-08T17:41:16Z",
-      "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：15 词条=任务 0 已建；零偏差",
-      "advanced_at": "2026-11-03T19:15:10Z"
-    },
-    "w": {
-      "phase": "translate",
-      "claimed_by": "TZ-CN-20261109",
-      "claimed_at": "2026-11-08T17:41:17Z",
-      "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：38 词条=任务 3 pending+35 未建；零偏差",
-      "advanced_at": "2026-11-03T19:15:11Z"
-    },
-    "x": {
-      "phase": "translate",
-      "claimed_by": "TZ-CN-20261109",
-      "claimed_at": "2026-11-08T17:41:17Z",
-      "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：3 词条=任务 0 已建；零偏差",
-      "advanced_at": "2026-11-03T19:15:12Z"
-    },
-    "y": {
-      "phase": "translate",
-      "claimed_by": "TZ-CN-20261109",
-      "claimed_at": "2026-11-08T17:41:17Z",
-      "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：2 词条=任务 1 pending+1 未建；零偏差",
-      "advanced_at": "2026-11-03T19:15:13Z"
-    },
-    "z": {
-      "phase": "translate",
-      "claimed_by": "TZ-CN-20261109",
-      "claimed_at": "2026-11-08T17:41:17Z",
-      "note": "收编自干执行2（2026-10-27 挂认领 9 天 0 进度，用户裁定收编），RZ-main-20261104 接手；对账补记（2026-11-06）：6 词条=任务 0 已建；零偏差",
-      "advanced_at": "2026-11-03T19:15:13Z"
-    }
+ "version": 1,
+ "batches": {
+  "1": {
+   "phase": "done",
+   "claimed_by": "zcode-digit1-20261105",
+   "claimed_at": "2026-11-04T18:32:39Z",
+   "note": "批次1 唯一词条 18thGerman-preKant done（2026-11-05，全流程十步）；批次1 收口",
+   "advanced_at": "2026-11-04T20:57:44Z"
   },
-  "updated_at": "2026-11-08T17:45:18Z"
+  "a": {
+   "phase": "translate",
+   "claimed_by": "A3-main-20261109",
+   "claimed_at": "2026-11-08T18:20:16Z",
+   "note": "fetch/convert事实已满足（基线160/160镜像160/160，intake add=0）；political-philosophy遗留桩已裁定移除；对账补记（2026-11-06）：任务 160=pending 98/cleared 21/s1_checked 1/s3_checked 5/done 35，状态机与凭证一致；NO_LEDGER 41（旧存量 39 不补造；新增 2：addams-jane/al-farabi 11-03 ABCDE 会话译，无账本留痕）；复账（2026-11-06 AB-main-20261106）：任务 160=pending 97/cleared 18/done 45，内容×状态零偏差（done×complete 45/cleared×empty 18/pending×empty 97，无快照遗留件）；abortion done+qa-rework 开项（11-04 立项，状态保持 done）属既定语义非缺陷；上句补记 done 35/s3 5 系 11-03 快照过时数，c1623ef1 提交信息声称纠正但未落盘，本次补落；NO_LEDGER 160 全批（A 批无段落账本体系，不补造留痕）；收口（2026-11-07 AB-main-20261106）：alexander-crummell 九步入 done（s3 88f5e168、done bb45d393），实况 160=pending 96/cleared 18/done 46；下一目标按源文词数升序；行数口径不可靠（B 批已实证）。收口（2026-11-07 续）：albo-joseph 九步入 done（s3 ea599181、done 8f2da1b3，61 defs、marker 67:67、年份 147:147 全等，人名 19+术语 10 登记），实况 160=pending 95/cleared 18/done 47；收口（2026-11-07 续二）：arabic-islamic-mysticism 九步入 done（s3 7bdfa9e4、done 132751b2，defs 27+note-1、marker 25:25、年份 119:119 全等，人名 36+术语 8 登记，转写撇号 U+02BC 归一 77 处），实况 160=pending 94/cleared 18/done 48；收口（2026-11-07 续三）：antonio-rosmini 九步入 done（s3 c764a5ca、done 0f970ecc，defs 2 条 -nd 照录、参考文献区缩写表四类书目照录、年份 +3 全为缩写区间/年代词边界假差，人名 6+术语 11 登记），实况 160=pending 93/cleared 18/done 49；下一目标 auriol（9747 词）；复账接管（2026-11-08 A-main-20261108，用户裁定 A 批转本会话负责）：三源对账 160=done 52/cleared 18/pending 90，done×正文×git 零偏差（唯一在途件 aristotle-causality：任务 cleared 但正文已成稿、无账本未提交，零信任回核源文后九步入 done）；action QA 返工（prose 138→2 引文豁免、135 处改写）已落库 1e815c4d；下一目标按源文行数升序 analogy-medieval（137 行）；续（2026-11-08）：analogy-medieval 九步 done（正文 39 块 1:1、75 defs 照录、prose 59→0，提交 f58c3e6e），实况 done 53/160；下一目标 august-rehberg（140 行）；接管收口（2026-11-08 A2-main-20261108）：august-rehberg 在途件（任务 cleared 但正文已成稿、未提交）零信任回核后九步入 done（纠错译 1 处、italic-cjk 17→0、prose 30→2 直引豁免、marker 123:123/defs 69:69/URL 8:8 全等、人名 6+术语 4 补登），实况 done 54/160；批内 13 条 rework-open（QA 返工线）状态保持 done 不动；下一目标按源文词数升序 ancient-soul（144 行）",
+   "advanced_at": "2026-10-28T16:35:48Z"
+  },
+  "b": {
+   "phase": "translate",
+   "claimed_by": "B-main-20261109",
+   "claimed_at": "2026-11-08T17:15:52Z",
+   "note": "B-main-20261109 接管：done 15/62；在途 8（s3_checked 6、r1_reviewed 1、drafted 3: bessarion/brouwer/belief-merging）；cleared 37 按源文词数升序推进；behaviorism 缺 [^ross-2008] 已补齐",
+   "advanced_at": "2026-11-08T17:39:11Z"
+  },
+  "c": {
+   "phase": "translate",
+   "claimed_by": "C-main-20261108c",
+   "claimed_at": "2026-11-08T12:50:08Z",
+   "note": "复算纠正（2026-11-09，C-main-20261109 接管）：五方对账 C 172=SUMMARY 172（另 53 别名行）/baseline 172/镜像 172/任务 172/正文成稿 33——任务 JSON 四维探针零问题（cd-sync/qa-rework 为登记在案对账步）；状态 pending 138、cleared 2（cancer 骨架 78 段待译、cosmology-30s 在途）、s3_checked 28（评审线 R-main 队列）、done 4。纠正 1 件：cosmology-30s 前会话已成稿（账本 100 段双版全填、正文 64KB 与 compose 产物一致、marker 123:123/defs 62:62/年份 49:49）却虚挂 cleared 仅 clear 一步、且正文与账本均未提交——本次补记 draft 并提交 3c6bd63c，任务进 drafted，续做 s1-s3；登记欠账：29 段 step1==step2 反思步待 s2 逐段补写。本线续做 cosmology-30s s1-s3 后按源文词数升序续开 pending 138。",
+   "advanced_at": "2026-11-08T18:20:09Z"
+  },
+  "d": {
+   "phase": "translate",
+   "claimed_by": "D-main-20261108b",
+   "claimed_at": "2026-11-08T11:44:17Z",
+   "note": "对账补记（2026-11-03）：任务 92=done 6/r1_reviewed 4/s3_checked 3/cleared 8/pending 71；对账补记（2026-11-06）：任务 92=pending 71/cleared 4/s3_checked 7/r1_reviewed 4/done 6；duhem 在途（并行会话译文中勿动）；NO_LEDGER 17（旧存量 14；新增 3：descartes-ethics/descartes-ideas 11-04、dewey-political 11-05，actor=?）；对账补记（2026-11-06，CD-main-20261106 接管）：任务 92=pending 71/cleared 3/s3_checked 7/done 11（r1_reviewed 4 已由并行会话推至 done），状态机与 steps 凭证 100% 一致；NO_LEDGER 17→18（新增 duhem：11-06 收口 done，无账本留痕）；cleared 4→3（davidson/digital-art/dilthey 待全量重译）；本会话（CD-main-20261106）开工即收 cloning，d 批 davidson/digital-art/dilthey 三件 cleared 待全量重译；对账补记（2026-11-08，D-main-20261108 接管，对账脚本 script/audit_d_progress_20261108.py 可复跑）：任务 92=pending 66/cleared 4/s3_checked 11/done 11——11-07 后新增 s3_checked 4 条（dai-zhen/dialectical-school/diodorus-cronus/deductivism-mathematics，D-main-20261107 产出）；translated 22 件 198,571 英文词、stub 70 件 1,176,200 英文词（min 11,647/中位 16,061/max 31,810）；对账异常 19：NO_LEDGER 18（旧存量 17+duhem，只登记不追造）+ disability-care-rationing 在途半成品（账本 87 段仅填 43、正文标题行、state=cleared，2026-11-08 05:09 D-main-20261107 中断遗留，本会话续译收口）；体例债登记：prose 语言告警 1106 处（20 件，其中 8 条 done/s3 无豁免留痕）、参考文献英文小节标题 18 处（9 件，模板 fan-yi-mu-ban §4 允许保留 vs C 批复审汉化实践冲突，待用户裁定）；s3_checked 11 条 r1–r3 归 R-main-20261108 评审线（session-handoff §6），本线不再自推；对账续记（2026-11-08，D-main-20261108b 接管 d 批）：任务 92=pending 65/cleared 4/s3_checked 12/done 11（disability-care-rationing 由 3f5215a1 收口 s3_checked）；translated 23 件 210,218 英文词、stub 69 件 1,164,553 英文词；异常 19 定性不变（NO_LEDGER 18 只登记不追造；disability 在途 59/111 段=body 109+oir 2，账本 kind/source 身份零差、已填 59 段守恒零问题，state=cleared 属 draft 未收口常态，本会话自段 60 续译）；s3_checked 12 条 r1–r3 仍归 R-main-20261108 评审线（session-handoff §6）",
+   "advanced_at": "2026-11-02T16:12:59Z"
+  },
+  "e": {
+   "phase": "translate",
+   "claimed_by": "EFG-main-20261108",
+   "claimed_at": "2026-11-08T12:07:14Z",
+   "note": "对账（2026-11-08 EH-main-20261108b 正序接管）：99=d19/在途0/未动工80（pending 80）；英文词数 1,568,038，done 181,650（11.6%）。本会话正序收口 environmental-aesthetics（18,426 词）、erotic-art（12,517 词）两条，均九步齐、四检绿、账本守恒；下一条 experimental-aesthetics（17,480 词）。done 12 条 NO_LEDGER 存量不补造（ADR-0021 债）；4 条半截旧账本正文完整、禁 compose。",
+   "advanced_at": "2026-11-08T02:53:16Z"
+  },
+  "f": {
+   "phase": "translate",
+   "claimed_by": "EFG-main-20261108",
+   "claimed_at": "2026-11-08T12:07:43Z",
+   "note": "对账（2026-11-08 正序接管）：96=d1（film，账本 77/77 守恒）/在途0/未动工95，其中 frame-problem 为空骨架（账本 0/40，需立账后开译，禁 compose）；英文词数 1,430,133，done 7,483（0.5%）。正序第二轮按 SUMMARY 队列开译。",
+   "advanced_at": "2026-11-08T02:53:16Z"
+  },
+  "g": {
+   "phase": "translate",
+   "claimed_by": "G-main-20261109",
+   "claimed_at": "2026-11-08T17:35:07Z",
+   "note": "对账（2026-11-08 正序接管）：49=d1（gelukpa）/在途0/未动工48（pending 30＋cleared 空架 18）；cleared 18 条均无旧文（gene/heraclitus 类旧文已于 2026-11-06 doc-reset）；英文词数 710,324，done 5,509（0.8%）。正序第三轮接手。",
+   "advanced_at": "2026-11-08T02:53:16Z"
+  },
+  "h": {
+   "phase": "translate",
+   "claimed_by": "H-main-20261109",
+   "claimed_at": "2026-11-08T17:57:34Z",
+   "note": "对账（2026-11-08 正序接管）：61=d9（hume-aesthetics 收口，较 §9 快照 +1）/在途10/未动工42（pending 24＋cleared 空架 18）。在途=半截账本 9 条（haecceitism 13/122、halevi 48/120、hamann 3/76、han-dynasty 36/105、heytesbury 11/193、hilbert-program 3/63、hobbes-science 35/85、holkot 35/62、hume-moral 7/92）＋hegel-social-political（无账本，孤儿导言 240 字）；半截账本禁直接 init（整册覆盖）、禁 compose（残余≠0）。英文词数 922,779，done 82,451（8.9%）。正序最后一轮接手。",
+   "advanced_at": "2026-11-08T02:53:16Z"
+  },
+  "i": {
+   "phase": "translate",
+   "claimed_by": "I-main-20261108",
+   "claimed_at": "2026-11-07T22:41:10Z",
+   "note": "2026-11-08 倒序线（I-main-20261108）：imprecise-probabilities 全量重译 done——167 段账本（正文 165＋其他网络资源＋致谢）双版→成稿 63143 字符，s1/s2/s3/r1/r2/r3 六道全过（s2 prose 49→0；s3 style 0、academic --strict 0；r1 修正 4 处 Minor）。I 批 done 21/75（28.0%），pending 47／cleared 7（含 5 条快照遗留、immunology 存根、illumination 在途）。倒序队列下一条：intuitionism-ethics（cleared 遗留旧译、11 节结构齐全，零信任重译）。并行正序线：illumination 已至 s3、ingarden p1 在途，两线不重叠。",
+   "advanced_at": "2026-11-08T09:24:37Z"
+  },
+  "j": {
+   "phase": "translate",
+   "claimed_by": "J-main-20261108",
+   "claimed_at": "2026-11-07T20:48:33Z",
+   "note": "38 任务已 create（version_pin 齐全），启动 40 路翻译波；对账补记（2026-11-06）：任务 38=cleared 34/done 4；cleared 34 含子代理废稿待直译，其中 japanese-aesthetics/justice-bad-luck 文件结构完整但状态不推进（J批 11-03 裁定）；账本 5 份；二次对账（2026-11-06 I-K 接管）：账本实为 6 份（justep-coherence 为 8 分卷），james-mill 账本仅 9/84 段系半成品、justep-coherence 分卷 114 段已填未 compose，两处已交本轮子代理补齐；收口（2026-11-06 I-K 接管会话）：john-italos、johann-sturm 全量三校至 s3_checked（30/76 段账本），justep-coherence 分卷已合并为单账本、james-mill 账本重建中；2026-11-07 续记：john-italos/johann-sturm/justus-lipsius 三条至 s3_checked，justep-coherence 分卷合并后 105/116、james-mill 账本重建中；2026-11-07 收口：无子代理后台，主会话续完 justep-coherence（116/116）与 james-mill（84/84）至 s3_checked，J 批在途账本清零；james-mill 曾因源文将三段对话引文并为一段而 p2 按镜像行编段，致 22-30 段译文后移两位，已按引注指纹对账定位并逐段外科纠正（20 处，残余 0）；2026-11-07 新开：jayaraasi（cleared，9256 词）账本 67 段立骨，p1-p4 已填 36/67（段1-36，含 5 note＋oir），以账本 source 编段、逐段双版，接力点段37；2026-11-07 收口：jayaraasi 67 段全填并至 s3_checked（术语 13 行、人名 10 行登记；标题归一“阇耶罗师·跋陀”）；接力下一条 john-norris（9854 词）；2026-11-07 续开 john-norris（80 段，45 条 biblio 照录）：p1-p2 填段 1-16，接力点段 17；术语沿用本批已登“观念哲学/可理解世界/偶因论”等；2026-11-07 续收口：john-norris 80 段全填至 s3_checked（人名 9 行、术语 9 行登记）；体例实测：纯中文强调既禁斜体（check_style）亦禁加粗（守恒门 ** 计数硬门），只能还原为无标记行文，拉丁斜体对保留；接力下一条 intentionality-ancient（10174 词）【J 批对账 2026-11-08】接管会话 J-main-20261108（用户指令：现在负责翻译 J 词条，主会话直译不用子代理）。三源对账（tasks/ 状态 × 账本 segments 双版 × j/*.md 实态）：38 条 = done 4（james 47 段 / james-ward 60 / joane-petrizi 26 / justice-virtue 59，账本均全齐）、s3_checked 7（james-mill 84 / jayaraasi 67 / johann-sturm 76 / john-italos 30 / john-norris 80 / justep-coherence 116 / justus-lipsius 53，账本均全齐；按 session-handoff §6 归评审线 R-main-20261108，本会话不动）、cleared 27（待译，英文源合计 42.7 万词）。在途：japanese-aesthetics 账本 55/112 段双版（旧提交记录为 p5=46 段，实已推进至 55），余 57 段（段 56–112）接力，源 10738 词。纠正 2 处脏态：japanese-aesthetics 与 justice-bad-luck 的 j/*.md 在 641faf13（2026-11-02 在途快照）被写回 2026-11-01 clear 之前的旧中文全文（零信任不作底稿的子代理废稿，与账本 step1/step2 逐句比对零重合，实证非同源），与 state=cleared 不符；已恢复为仅留 H1（clear 语义 FR-013），旧稿存 git 历史可回溯，新译文将由账本组装覆盖。格式待整理 1 处：japanese-aesthetics 账本 params 区有一行空值键 `batch_`（截断遗留），重译收官时清理。清理项 1 处：justep-coherence 分卷 part1–8 为合并前中间产物（主账本 116 段已齐），经 check_junk 不判违规，暂留任务证据。下一动作：续译 japanese-aesthetics 56–112，随后按体量序（japanese-aesthetics 10738 → jaspers 11431 → john-salisbury 12254 …）逐条全周期。 【J 批 2026-11-08 续记】（接管会话 J-main-20261108，主会话直译）二条收口至 s3_checked：① japanese-aesthetics（日本美学，10738 词）——账本 112 段双版全齐，params 区 batch_ 空键清理，lq compose 写回 27401 字符（296 行/43 defs），s1 误读型错译实修 1 处（Ozu-esque『奥兹式』→『小津经典』，回账本 source 核证 the classic Ozu overlapping triangles），s2 prose 43→9（实修 40、豁免 9：引文 4/术语 gloss 枚举 2/概念性定语 3），四检全绿；② jaina-philosophy（耆那教哲学，12972 词）——账本 137 段自骨架 p1-p13 分批全填（body 136＋oir 1），守恒门拦下 3 处源无 ** 而译文加粗（按硬门还原无标记），compose 39990 字符（436 行/61 defs），对账 marker 103:103、defs 61:61、H2 8:8、H3 16:16 全等；术语按册内先登形回改 15 处（阿羯兰迦·跋多→阿迦楞迦·跋陀、萨曼多跋陀罗→萨曼塔巴德拉、明辨→毗提耶难陀；anumāna→比量/parārthānumāna 为他比量、hetu/sādhya→因/宗、vyāpti→遍充、pramāṇa→认知凭据、五支作法宗因喻合结），新登人名 20 行（已入 HEAD 6473aa98）与术语 30 行（已入 HEAD f8bf625b）；s2 prose 50→2（实修 48、豁免 2：dharma 义项枚举＋ĀS 引块内被动），四检全绿。门禁备注：check_all 本轮 3 红均非 J 批引入——h/holkot H1 不一致（h 批在途）、social contract 登记册/词汇表冲突（他会登记）、根目录畸形散件（已由本会话清除，junk 门转绿）。接力：cleared 仍 25 条，按体量序下一条 jaspers（11431 词）；s3_checked 9 条归评审线 R-main-20261108。 【2026-11-08 续记二】jaspers（卡尔·雅斯贝尔斯，11664 词）账本 67 段（body 65＋oir 1＋note 1＋biblio 照录 41）已立，p1-p4 填段 1-28（引言/生平/学术生涯/海德格尔关系/精神病理学/《世界观心理学》/《哲学》三卷与康德改造），双版逐段落盘，接力点段 29（5. Philosophy and Religion）。",
+   "advanced_at": "2026-11-08T15:20:00Z"
+  },
+  "k": {
+   "phase": "translate",
+   "claimed_by": "K-main-20261108b",
+   "claimed_at": "2026-11-08T11:57:38Z",
+   "note": "2026-11-08 K 批接管（K-main-20261108b，用户指令：现在负责翻译 K，主会话直译不用子代理）：三源对账 done 21/36、s3_checked 1（korean-confucianism，本会话 s1-s3 完成：s1 定点修 16 处含 seg89 漏译三句、seg107 丁/郑氏兄弟、seg123《牧民心书》等；s2 prose 70→57（实修 21、余按学术长句/术语枚举/引文豁免）、s3 五维对账 defs 93:93·markers 94:94·H2 11:11·H3 8:8、四检全绿；人名登记补 24 行；r1-r3 归评审线 R-main-20261108）、cleared 14（源 31.6 万词，体量升序：kant-judgment → kukai → knowledge-how → kant-transcendental → kant-development → kant-spacetime → kant-religion → kant-conceptualism → kant-moral → kant → kant-hume-causality → kant-transcendental-idealism → kant-aesthetics → kyoto-school）。已纠正：kochen-specker 段101 标题粘连与段126/130/132 source 截断（HARD 清零）、kant-mathematics 半账留痕。在途接力：kant-judgment。",
+   "advanced_at": "2026-11-08T15:29:02Z"
+  },
+  "l": {
+   "phase": "translate",
+   "claimed_by": "L-main-20261109",
+   "claimed_at": "2026-11-08T02:45:53Z",
+   "note": "2026-11-08 复账同步（LMN-main-20261108b）：五方复算账实零偏差；done 18/144，pending 1（langer），未建 125；本线续译未建词条，r1-r3 归 R-main-20261108 评审线；2026-11-09 接管复账（L-main-20261109，主会话直译不用子代理）：五方复算 144=done 18/在途 1（langer，状态滞后件已收编并推进至 r1）/pending 0/未建 125（剩余源文 2,013,089 词）；langer 纠正详 qa-findings §8（s1 脚注 216=216 逐键、s2 prose 72→4、s3 术语 9+人名 25 登记）；登记行被 ef67405e/5dbc8cc2 并行收编留痕；本线续译未建词条按源文词数升序（首条 la-forge 7,851 词），r2-r3 仍归评审线口径不变",
+   "advanced_at": "2026-11-06T23:54:21Z"
+  },
+  "m": {
+   "phase": "translate",
+   "claimed_by": "M-main-20261108",
+   "claimed_at": "2026-11-08T02:28:33Z",
+   "note": "M-main-20261108 接续（2026-11-08 13:0x UTC）：mandeville 三校收口 s3_checked（commit a003522a）入 R-main 评审线；M 批在途 2 条均属评审线，待译 6 条 pending + 125 未建；下一目标 marsilius-padua（源 12,965 词，pending 中最小）",
+   "advanced_at": "2026-11-08T14:43:33Z"
+  },
+  "n": {
+   "phase": "translate",
+   "claimed_by": "N-main-20261109",
+   "claimed_at": "2026-11-08T18:31:59Z",
+   "note": "2026-11-08 复账同步（LMN-main-20261108b）：纠正注记（原记 2026-11-06 成稿 0 已过时）——neoplatonism done（N done 1/50）；pending 2（nietzsche-aesthetics/nominalism-metaphysics）+未建 47；2026-11-08 接管（ZCode-N-20261108）：复算 50 条——基线/镜像 50/50 齐、任务 3（done 1=neoplatonism、pending 2=H1 桩、未建 47），成稿 1 篇其余全桩，账实零偏差；源文 786,992 词，最小 nicole-oresme 6,437 词；本会话续译余 49 条，按源文词数升序推进；2026-11-08 nicole-oresme 全周期 done（账本 47 段、四检+check_all 全绿，名形统一尼科尔·奥雷斯姆；N done 2/50）；下一条 newton（6,692 词）；2026-11-08 newton 全周期 done（账本 44 段、四检+check_all 全绿；N done 3/50）；下一条 necessary-sufficient（7,025 词）",
+   "advanced_at": "2026-11-06T15:08:55Z"
+  },
+  "o": {
+   "phase": "translate",
+   "claimed_by": "OPQR-main-20261108",
+   "claimed_at": "2026-11-08T11:24:30Z",
+   "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
+   "advanced_at": "2026-11-05T15:22:54Z"
+  },
+  "p": {
+   "phase": "translate",
+   "claimed_by": "OPQR-main-20261108",
+   "claimed_at": "2026-11-08T11:24:31Z",
+   "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
+   "advanced_at": "2026-11-05T15:22:54Z"
+  },
+  "q": {
+   "phase": "translate",
+   "claimed_by": "QR-main-20261109",
+   "claimed_at": "2026-11-08T18:25:51Z",
+   "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
+   "advanced_at": "2026-11-05T15:22:54Z"
+  },
+  "r": {
+   "phase": "translate",
+   "claimed_by": "QR-main-20261109",
+   "claimed_at": "2026-11-08T18:25:51Z",
+   "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
+   "advanced_at": "2026-11-05T20:22:06Z"
+  },
+  "s": {
+   "phase": "translate",
+   "claimed_by": "S-main-20261109",
+   "claimed_at": "2026-11-08T18:29:34Z",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：161 词条=done 1（spacetime-holearg 10-28 旧存量无账本，不补造）+pending 5+155 未建；零偏差",
+   "advanced_at": "2026-11-03T19:15:07Z"
+  },
+  "t": {
+   "phase": "translate",
+   "claimed_by": "TZ-CN-20261109",
+   "claimed_at": "2026-11-08T17:41:16Z",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：71 词条=任务 2 pending+69 未建；零偏差",
+   "advanced_at": "2026-11-03T19:15:08Z"
+  },
+  "u": {
+   "phase": "translate",
+   "claimed_by": "TZ-CN-20261109",
+   "claimed_at": "2026-11-08T17:41:16Z",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：4 词条=任务 0 已建；零偏差",
+   "advanced_at": "2026-11-03T19:15:09Z"
+  },
+  "v": {
+   "phase": "translate",
+   "claimed_by": "TZ-CN-20261109",
+   "claimed_at": "2026-11-08T17:41:16Z",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：15 词条=任务 0 已建；零偏差",
+   "advanced_at": "2026-11-03T19:15:10Z"
+  },
+  "w": {
+   "phase": "translate",
+   "claimed_by": "TZ-CN-20261109",
+   "claimed_at": "2026-11-08T17:41:17Z",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：38 词条=任务 3 pending+35 未建；零偏差",
+   "advanced_at": "2026-11-03T19:15:11Z"
+  },
+  "x": {
+   "phase": "translate",
+   "claimed_by": "TZ-CN-20261109",
+   "claimed_at": "2026-11-08T17:41:17Z",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：3 词条=任务 0 已建；零偏差",
+   "advanced_at": "2026-11-03T19:15:12Z"
+  },
+  "y": {
+   "phase": "translate",
+   "claimed_by": "TZ-CN-20261109",
+   "claimed_at": "2026-11-08T17:41:17Z",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：2 词条=任务 1 pending+1 未建；零偏差",
+   "advanced_at": "2026-11-03T19:15:13Z"
+  },
+  "z": {
+   "phase": "translate",
+   "claimed_by": "TZ-CN-20261109",
+   "claimed_at": "2026-11-08T17:41:17Z",
+   "note": "收编自干执行2（2026-10-27 挂认领 9 天 0 进度，用户裁定收编），RZ-main-20261104 接手；对账补记（2026-11-06）：6 词条=任务 0 已建；零偏差",
+   "advanced_at": "2026-11-03T19:15:13Z"
+  }
+ },
+ "updated_at": "2026-11-08T18:31:59Z"
 }
