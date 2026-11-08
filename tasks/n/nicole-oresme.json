@@ -2,7 +2,7 @@
   "slug": "nicole-oresme",
   "kind": "retranslate",
   "zh_doc": "n/nicole-oresme.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-08T02:40:12Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ZCode-N-20261108",
+      "at": "2026-11-08T06:16:16Z",
+      "evidence": "47 段账本双版齐（p1-p3 分段落盘、三次提交），lq check HARD=0（SOFT 仅机械标题/书名号与 * 计数）；compose 写回 32499 字符；现制 References 照录 defs 90=90、marker 183=183"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ZCode-N-20261108",
+      "at": "2026-11-08T06:16:16Z",
+      "evidence": "逐段对照 yuanwen 核销 47 段：无漏译增译；节序 H2 2=2/H3 7=7、脚注键 183=183、定义 90=90、公式 $$ 18=18 全等；数字差异仅区间连接号/年代词形（1330's→14 世纪 30 年代、300→三百多年）与日期月序；修正 canon/dean 职衔、same designation、The Frogs 体裁 3 处；相关词条 19 项核，3 项英文保留（SUMMARY 无对应行）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ZCode-N-20261108",
+      "at": "2026-11-08T06:16:16Z",
+      "evidence": "check_prose 5 项→0（长句拆分 3、弱动词 1、的链 1），改动回写账本 step2 后重组；check_style --strict 0、check_math missing 0（biblio $1^{er}$ 货币启发式误报 1 条，源文照录）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ZCode-N-20261108",
+      "at": "2026-11-08T06:16:17Z",
+      "evidence": "check_academic --strict 无硬错误；术语登记 21 行、人名 8 行（含奥雷斯姆名形统一）；check_summary H1 一致 0 差异；check_all 7/7 全绿"
     }
   ],
   "blockers": [],

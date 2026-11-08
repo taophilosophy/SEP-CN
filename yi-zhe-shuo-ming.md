@@ -2578,3 +2578,11 @@
 | atmospheric refraction | — | 大气折射 | nicole-oresme | 光学通行；凭证 2026-11-08 | 2026-11-08 |
 | supralunar | — | 月上的 | nicole-oresme | 亚里士多德宇宙论通行；凭证 2026-11-08 | 2026-11-08 |
 | void space | — | 虚空空间 | nicole-oresme | 自然哲学通行（extracosmic void 宇宙之外虚空）；凭证 2026-11-08 | 2026-11-08 |
+| epistemic closure | — | 认知闭合 | closure-epistemic 首译 | 知识论通行（epistemic closure 通译“认知闭合”，亦作“知识闭合”）；凭证 2026-11-08 | 2026-11-08 |
+| closure (of knowledge under entailment) | — | 闭合 | closure-epistemic 首译 | 知识论通行（closed under entailment 在蕴涵下闭合）；凭证 2026-11-08 | 2026-11-08 |
+| entailment | — | 蕴涵 | closure-epistemic 首译 | 逻辑学通行（与 material implication 实质蕴涵 同族；entails 译“蕴涵”） | 2026-11-08 |
+| tracking (belief tracking) | — | 追踪（信念追踪） | closure-epistemic 首译 | 知识论通行（Nozick/Dretske 追踪条件）；凭证 2026-11-08 | 2026-11-08 |
+| conclusive reason | — | 决定性理由 | closure-epistemic 首译 | 知识论通行（Dretske CR 条件）；凭证 2026-11-08 | 2026-11-08 |
+| single premise closure / multiple premise closure | — | 单前提闭合／多前提闭合 | closure-epistemic 首译 | 知识论通行（Williamson/Hawthorne 术语）；凭证 2026-11-08 | 2026-11-08 |
+| brain in a vat | — | 缸中之脑 | closure-epistemic 首译 | 知识论通行（普特南式怀疑论假设）；凭证 2026-11-08 | 2026-11-08 |
+| skeptical hypothesis | — | 怀疑论假设 | closure-epistemic 首译 | 知识论通行；凭证 2026-11-08 | 2026-11-08 |
