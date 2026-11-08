@@ -162,3 +162,40 @@
 ### 9.4 倒序战役断点
 
 批次倒序 **H → G → F → E** 不变；H 批接着手：先收 hume-aesthetics（drafted→s1 起），再逐条续半截在途（§8.3 表），最后按 SUMMARY 倒序开 pending。半截账本禁直接 `init`、禁 compose（残余≠0）。
+
+## 10. 正序接管复算与纠正（2026-11-08，EH-main-20261108b，主会话直译、无子代理）
+
+**接管裁定**：用户指令改由本会话负责 E–H 四批翻译，**正序**（批次 E→F→G→H，批内按 `SUMMARY.md` 顺序）；不使用子代理。认领改 `EH-main-20261108b`（`campaign.py claim e/f/g/h --force`）。
+
+**口径**（与 §9 一致，一处修正）：任务 JSON 状态机 × `script/lq.py check` 账本段 × 正文落盘（汉字数≥500 或账本段>0 才算在途）× `yuanwen/` 英文词数。**修正 §8/§9 的「在途」口径**：`cleared` 空架（clear 已做、正文仅 H1、无账本段）一律归**未动工**，不再计入在途——§9 快照把 G 批 18 条与 H 批 18 条 cleared 空架计入在途，在途虚高 36 条。工具：`script/queue_eh_20261108.py`、`script/audit_eh_20261108.py`（`script/` 草稿区，不入库）。
+
+### 10.1 复算结论（E–H 四批，2026-11-08 02:50 UTC）
+
+| 字母 | 总 | done | 在途 | 未动工 | 英文词数 | done 词数 |
+| --- | --- | --- | --- | --- | --- | --- |
+| E | 99 | 17 | 0 | 82 | 1,568,038 | 150,707（9.6%） |
+| F | 96 | 1 | 0 | 95（含 frame-problem 空骨架 0/40） | 1,430,133 | 7,483（0.5%） |
+| G | 49 | 1 | 0 | 48（pending 30＋cleared 空架 18） | 710,324 | 5,509（0.8%） |
+| H | 61 | 9 | 10 | 42（pending 24＋cleared 空架 18） | 922,779 | 82,451（8.9%） |
+| 合计 | 305 | 28 | 10 | 267 | 4,631,274 | 246,150（5.3%） |
+
+* done 28 与 `PROGRESS.md`／`campaign.py status` 生成物一致（H 较 §9 +1：hume-aesthetics 已收口 done）。
+* **在途 10 条**：H 半截账本 9（haecceitism 13/122、halevi 48/120、hamann 3/76、han-dynasty 36/105、heytesbury 11/193、hilbert-program 3/63、hobbes-science 35/85、holkot 35/62、hume-moral 7/92）＋`h/hegel-social-political`（无账本，孤儿导言 240 字）；F 的 frame-problem 账本 0 段，归空骨架（未动工，须先立账）。
+* 剩余英文 4,385,124 词（94.7%）。
+
+### 10.2 本次纠正（已落盘）
+
+1. **账本 note 四处过期 → 重写**（`campaign.py` 账本，`script/eh_sync_notes.py` 幂等）：E 原「s3_checked 16」→ 现 0；F/G/H 补入正序口径与在途明细；H 原「done 6/cleared 31」→ 现 done 9/在途 10。
+2. **在途口径纠正**（见上）：cleared 空架归未动工，G/H 各 18 条不再计入在途。
+3. **认领同步**：e/f/g/h 认领者 → `EH-main-20261108b`，phase 均 translate。
+4. **PROGRESS.md 重生成**：正式词条 1879、done 199。注：`progress.py` 的「在途」= 非 pending/done 全量（含全部 cleared 待译），233 条为粗口径；逐批真实在途以本表为准。
+
+### 10.3 维持开放项（不改）
+
+* `h/hare.supplement.ledger.yaml` 有账本无任务 JSON（全库唯一协议债；补充材料不在 SUMMARY，不影响计数）——维持登记，不补造任务凭证。
+* E 批 12 条 done 无账本（NO_LEDGER 存量）、4 条半截旧账本（正文完整、禁 compose）：ADR-0021 债，按裁定不补造。
+* `## References（引用注释）` 双形态与参考文献子标题缺失（转换器债，§9.3）：维持不改。
+
+### 10.4 正序战役断点
+
+批次 **E → F → G → H**；批内按 `SUMMARY.md` 正序开 pending。E 批首条 `environmental-aesthetics`（18,426 词），队列见 `script/queue_eh_20261108.py`。H 批在途 10 条留至 H 轮按「先收在途、再开 pending」处置（半截账本禁 init、禁 compose、残余≠0 禁写回）。

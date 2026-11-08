@@ -38,31 +38,31 @@
   },
   "e": {
    "phase": "translate",
-   "claimed_by": "EH-main-20261108",
-   "claimed_at": "2026-11-07T23:46:39Z",
-   "note": "对账补记（2026-11-08）：任务 99=done 17/pending 82，无在途；done 17 条九步齐、正文含尾节四件套；NO_LEDGER 12 条为 ADR-0021 旧管线债（qa-findings §4/§8 留痕）；认领改 EH-main-20261108，倒序战役最后一批。",
-   "advanced_at": "2026-11-07T23:49:14Z"
+   "claimed_by": "EH-main-20261108b",
+   "claimed_at": "2026-11-08T02:50:41Z",
+   "note": "对账（2026-11-08 EH-main-20261108b 正序接管）：99=d17/在途0/未动工82（pending 82）；英文词数 1,568,038，done 150,707（9.6%）。done 12 条 NO_LEDGER 存量不补造（ADR-0021 债）；4 条半截旧账本（emotion-Christian-tradition/epictetus/erfurt/equal-ed-opportunity）正文完整、禁 compose。正序战役 e→f→g→h 按 SUMMARY 序开 pending。四批合计 305=d28/在途10/未动工267，见 specs/005 qa-findings-2026-11-06-eh-audit.md §10。",
+   "advanced_at": "2026-11-08T02:53:16Z"
   },
   "f": {
    "phase": "translate",
-   "claimed_by": "EH-main-20261108",
-   "claimed_at": "2026-11-07T23:46:39Z",
-   "note": "对账补记（2026-11-08）：任务 96=done 1（film）/cleared 1（frame-problem 正文已清、账本 0/40 待立账）/pending 94；在途 1 条；认领改 EH-main-20261108。",
-   "advanced_at": "2026-11-07T23:49:14Z"
+   "claimed_by": "EH-main-20261108b",
+   "claimed_at": "2026-11-08T02:50:42Z",
+   "note": "对账（2026-11-08 正序接管）：96=d1（film，账本 77/77 守恒）/在途0/未动工95，其中 frame-problem 为空骨架（账本 0/40，需立账后开译，禁 compose）；英文词数 1,430,133，done 7,483（0.5%）。正序第二轮按 SUMMARY 队列开译。",
+   "advanced_at": "2026-11-08T02:53:16Z"
   },
   "g": {
    "phase": "translate",
-   "claimed_by": "EH-main-20261108",
-   "claimed_at": "2026-11-07T23:46:39Z",
-   "note": "对账补记（2026-11-08）：任务 49=done 1（gelukpa）/cleared 18（全部空架无旧文，gene/heraclitus 已 doc-reset）/pending 30；旧文存量已清零；认领改 EH-main-20261108。",
-   "advanced_at": "2026-11-07T23:49:14Z"
+   "claimed_by": "EH-main-20261108b",
+   "claimed_at": "2026-11-08T02:50:42Z",
+   "note": "对账（2026-11-08 正序接管）：49=d1（gelukpa）/在途0/未动工48（pending 30＋cleared 空架 18）；cleared 18 条均无旧文（gene/heraclitus 类旧文已于 2026-11-06 doc-reset）；英文词数 710,324，done 5,509（0.8%）。正序第三轮接手。",
+   "advanced_at": "2026-11-08T02:53:16Z"
   },
   "h": {
    "phase": "translate",
-   "claimed_by": "EH-main-20261108",
-   "claimed_at": "2026-11-07T23:46:39Z",
-   "note": "三次复算（2026-11-08）：任务 61=done 8/cleared 28/s2_checked 1（hume-aesthetics，s1+s2 已过、待 s3→r1→r3）/pending 24；在途 11=常用口径（10 条半截 cleared＋frame-problem）＋hume-aesthetics=12/305；done 8 与 §8 一致；倒序战役 H→G→F→E 进行中。",
-   "advanced_at": "2026-11-08T01:22:03Z"
+   "claimed_by": "EH-main-20261108b",
+   "claimed_at": "2026-11-08T02:50:42Z",
+   "note": "对账（2026-11-08 正序接管）：61=d9（hume-aesthetics 收口，较 §9 快照 +1）/在途10/未动工42（pending 24＋cleared 空架 18）。在途=半截账本 9 条（haecceitism 13/122、halevi 48/120、hamann 3/76、han-dynasty 36/105、heytesbury 11/193、hilbert-program 3/63、hobbes-science 35/85、holkot 35/62、hume-moral 7/92）＋hegel-social-political（无账本，孤儿导言 240 字）；半截账本禁直接 init（整册覆盖）、禁 compose（残余≠0）。英文词数 922,779，done 82,451（8.9%）。正序最后一轮接手。",
+   "advanced_at": "2026-11-08T02:53:16Z"
   },
   "i": {
    "phase": "translate",
@@ -87,8 +87,8 @@
   },
   "l": {
    "phase": "translate",
-   "claimed_by": "LMN-main-20261108e",
-   "claimed_at": "2026-11-07T23:29:37Z",
+   "claimed_by": "L-main-20261108",
+   "claimed_at": "2026-11-08T02:45:53Z",
    "note": "2026-11-08 复账同步（LMN-main-20261108b）：五方复算账实零偏差；done 18/144，pending 1（langer），未建 125；本线续译未建词条，r1-r3 归 R-main-20261108 评审线",
    "advanced_at": "2026-11-06T23:54:21Z"
   },
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-08T02:33:03Z"
+ "updated_at": "2026-11-08T02:53:16Z"
 }

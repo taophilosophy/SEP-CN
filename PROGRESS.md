@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-08 02:34（UTC）
+生成时间：2026-11-08 02:55（UTC）
 
 ## 总览
 
@@ -12,18 +12,18 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1028|
+|已建任务|1029|
 |例行/维护任务（不计状态机）|2|
 |已完成（done）|199|
-|在途（drafted 起、done 前）|231|
+|在途（drafted 起、done 前）|233|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|598|
-|cleared|162|
+|pending|597|
+|cleared|164|
 |drafted|2|
 |s1_checked|2|
 |s3_checked|64|
@@ -47,7 +47,7 @@
 |K|36|36|36|21|
 |L|144|144|19|18|
 |M|139|139|14|6|
-|N|50|50|3|1|
+|N|50|50|4|1|
 |O|21|21|9|7|
 |P|165|165|4|0|
 |Q|34|34|0|0|
@@ -286,7 +286,9 @@
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
 |langer|retranslate|cleared|task_ops 2026-11-08|
+|mandeville|retranslate|cleared|task_ops 2026-11-08|
 |moral-demands-permissions|retranslate|s3_checked|LMN-main-20261108f 2026-11-08|
+|nicole-oresme|retranslate|cleared|task_ops 2026-11-08|
 |olympiodorus|retranslate|cleared|task_ops 2026-11-07|
 |rationalism-early-modern|retranslate|r1_reviewed|OR-main-20261107 2026-11-07|
 |scholem|retranslate|s1_checked|SZ-main-20261108b 2026-11-08|
