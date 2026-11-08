@@ -415,142 +415,192 @@ segments:
     kind: body
     source: |-
       As these quotations show, Weyl had come to accept that it was in principle impossible to furnish the continuum as presented to intuition with an exact mathematical formulation : so, with reluctance, he lowered his sights. In *Das Kontinuum* his goal was, first and foremost, to establish the *consistency* of the mathematical theory of the continuum by putting the *arithmetical* notion of real number on a firm logical basis. Once this had been achieved, he would then proceed to show that this theory is *reasonable* by employing it as the foundation for a plausible account of continuous process in the objective physical world.[^note-15]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如这些引文所表明的，外尔已经接受了这一点：在原则上不可能为呈现于直观的连续统提供一种精确的数学表述。于是，他勉强地调低了目标。在《连续统》中，他的目标首先是，通过把实数的*算术的*概念置于坚实的逻辑基础上，来确立连续统之数学理论的*一致性*。这一目标一旦达成，他便进而通过把该理论用作对客观物理世界中连续过程的一种可信说明的基础，来表明该理论是*合理的*。[^note-15]
+    step2: |-
+      如上引文所示，外尔已承认：为呈现于直观的连续统提供精确的数学表述，在原则上不可能。他于是退而求其次。在《连续统》中，他的首要目标是通过把实数的*算术*概念奠于坚实的逻辑基础，来确立连续统之数学理论的*一致性*；此目标既达，再以该理论为基座，对客观物理世界中的连续过程给出一种可信的说明，从而表明它是*合理的*。[^note-15]
   - id: 49
     kind: body
     source: |-
       In §6 of *Das Kontinuum* Weyl presents his conclusions as to the relationship between the intuitive and mathematical continua. He poses the question: Does the mathematical framework he has erected provide an adequate representation of physical or temporal continuity as it is *actually experienced*? In posing this question we can see the continuing influence of Husserl and phenomenological doctrine. Weyl begins his investigation by noting that, according to his theory, if one asks whether a given function is continuous, the answer is not fixed once and for all, but is, rather, dependent on the extent of the domain of real numbers which have been defined up to the point at which the question is posed. Thus the continuity of a function must always remain *provisional*; the possibility always exists that a function deemed continuous *now* may, with the emergence of “new” real numbers, turn out to be discontinuous *in the future*. [^note-16]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《连续统》第 6 节中，外尔陈述了他关于直观连续统与数学连续统之间关系的结论。他提出问题：他所竖立的数学框架，是否为*实际被经验的*物理连续性或时间连续性提供了充分的表示？在这个问题中，我们可以看到胡塞尔与现象学学说持续的影响。外尔以指出如下一点开始他的考察：按照他的理论，若问某一给定函数是否连续，答案并非一劳永逸地固定，而是取决于到问题提出之时为止已被定义的实数域的范围。因此，一个函数的连续性必须永远保持*暂定的*；始终存在这样的可能：某个*当下*被视为连续的函数，随着“新的”实数的出现，将来可能被发现是不连续的。[^note-16]
+    step2: |-
+      《连续统》第 6 节里，外尔陈述了他对直观连续统与数学连续统之关系的结论。他设问：他所竖立的数学框架，能否充分表示*实际被经验的*物理连续性或时间连续性？此问之中，胡塞尔与现象学学说的影响犹存。外尔的考察始于一点：依其理论，若问某个给定函数是否连续，答案并非一锤定音，而取决于至发问之刻为止已被定义的实数域之广狭。故函数的连续性永远只是*暂定的*：凡*当下*被视作连续者，随“新”实数之出现，来日或被发现不连续。[^note-16]
   - id: 50
     kind: body
     source: |-
       To reveal the discrepancy between this formal account of continuity based on real numbers and the properties of an intuitively given continuum, Weyl next considers the experience of seeing a pencil lying on a table before him throughout a certain time interval. The position of the pencil during this interval may be taken as a function of the time, and Weyl takes it as a fact of observation that during the time interval in question this function is continuous and that its values fall within a definite range. And so, he says,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为了揭示这一基于实数的形式连续统说明与直观连续统之性质之间的不符，外尔继而考察了在一段时间内看到一支铅笔放在自己面前桌上的经验。铅笔在这段时间里的位置可取作时间的函数，而外尔把如下情形当作观察事实：在所论时间区间内该函数连续，且其值落在一个确定范围内。于是他说：
+    step2: |-
+      为显露这种以实数为基础的形式连续性说明与直观连续统性质之间的凿枘，外尔继而考察这样一个经验：一段时间内，他看见一支铅笔搁在面前的桌上。铅笔在此期间的位置可取为时间的函数，且外尔将下述情形视作观察事实：在所论时段内该函数连续，其值落于一确定范围。于是他说：
   - id: 51
     kind: body
     source: |-
       > This observation entitles me to assert that during a certain period this pencil was on the table; and even if my right to do so is not absolute, it is nevertheless reasonable and well-grounded. It is obviously absurd to suppose that this right can be undermined by “an expansion of our principles of definition”—as if new moments of time, overlooked by my intuition could be added to this interval, moments in which the pencil was, perhaps, in the vicinity of Sirius or who knows where. If the temporal continuum can be represented by a variable which “ranges over” the real numbers, then it appears to be determined thereby how narrowly or widely we must understand the concept “real number” and the decision about this must not be entrusted to logical deliberations over principles of definition and the like. (Weyl 1987, 88)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 这一观察使我有权断言：在某个时期内这支铅笔在桌上；即便我这样做的权利不是绝对的，它也是合理的、有充分根据的。认为这种权利可以被“我们定义原则的扩展”所动摇，显然是荒谬的——仿佛会有被我的直观所忽略的新的时间时刻可以被加进这个区间，在那些时刻里铅笔或许在天狼星附近，或天知道在什么地方。如果时间连续统可以由一个“取值于”实数的变量来表示，那么我们该把“实数”这一概念理解得多宽或多窄，似乎就由此决定了，而关于这一点的裁定，绝不可托付给关于定义原则之类的逻辑思辨。（Weyl 1987, 88）
+    step2: |-
+      > 这一观察使我有权断言：某段时期内这支铅笔在桌上；即便此权非绝对，它也合理而有据。以为这种权利可被“我们定义原则之扩展”所撼动，显然荒谬——仿佛竟有我的直观所不曾留意的新的时刻，可以添入这个区间，而在那些时刻，铅笔或许近在天狼星，或天知道在何处。倘若时间连续统可由一个“遍取”实数的变量来表示，则“实数”概念该作宽解还是窄解，似乎就此注定；而这一裁定，绝不可托付给围绕定义原则之类的逻辑思辨。（Weyl 1987, 88）
   - id: 52
     kind: body
     source: |-
       To drive the point home, Weyl focuses attention on the fundamental continuum of *immediately given phenomenal time*, that is, as he characterizes it,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为了把这一点讲透，外尔把注意力集中于*直接被给予的现象时间*的基本连续统，即他所刻画的那一连续统：
+    step2: |-
+      为使此点更加透彻，外尔将注意力聚于*直接被给予的现象时间*这一基本连续统，即他如此刻画的：
   - id: 53
     kind: body
     source: |-
       > … to that constant form of my experiences of consciousness by virtue of which they appear to me to flow by successively. (By “experiences” I mean what I experience, exactly as I experience it. I do not mean real psychical or even physical processes which occur in a definite psychic-somatic individual, belong to a real world, and, perhaps, correspond to the direct experiences.) (*Ibid*., 88)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……我的诸意识经验的那一恒常形式，凭借它，这些经验向我显现为相继地流逝。（所谓“经验”，我指我所经验者，恰如我经验到它那样。我并非指发生在一个确定的身心个体之中、属于一个实在世界、并且或许与直接经验相对应的实在的心理过程乃至物理过程。）（*同上*，88）
+    step2: |-
+      > ……我的诸意识经验所共有的那种恒常形式，凭借它，诸经验向我显现为先后相继地流逝。（所谓“经验”，我指我所经验者，恰如其被我经验那样；并非指发生于某个确定的身心个体、属于某个实在世界、或许与直接经验相应的实在心理过程乃至物理过程。）（*同上*，88）
   - id: 54
     kind: body
     source: |-
       In order to correlate mathematical concepts with phenomenal time in this sense Weyl grants the possibility of introducing a rigidly punctate “now” and of identifying and exhibiting the resulting temporal points. On the collection of these temporal points is defined the relation of *earlier than* as well as a congruence relation of *equality of temporal intervals*, the basic constituents of a simple mathematical theory of time. Now Weyl observes that the discrepancy between phenomenal time and the concept of real number would vanish if the following pair of conditions could be shown to be satisfied:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为了在这种意义上的现象时间与数学概念之间建立对应，外尔容许引入一个刚性的点的“现在”，并辨认与展示由此得到的时间点。在这些时间点的集合上，定义了*早于*关系以及*时间区间相等*的叠合关系，这是一个简单的数学时间理论的基本构成要素。外尔随即观察到，若下列一对条件能够被证明得到满足，现象时间与实数概念之间的不符便会消失：
+    step2: |-
+      欲使现象时间在此意义上与数学概念相应，外尔容许引入一个刚性而点状的“现在”，并辨认、展示由此而得的时间点。在此等时间点的集合上，定义了*早于*关系与*时间区间相等*的叠合关系——一个简单数学时间理论的基本要素。外尔随即指出：倘下列一对条件可被证明成立，现象时间与实数概念之间的不符便会消弭：
   - id: 55
     kind: body
     source: |-
       1. The immediate expression of the intuitive finding that during a certain period I saw the pencil lying there were construed in such a way that the phrase “during a certain period” was replaced by “in every temporal point which falls within a certain time span OE”. [Weyl goes on to say parenthetically here that he admits “that this no longer reproduces what is intuitively present, but one will have to let it pass, *if it is really legitimate to dissolve a period into temporal points*.”)
       2. If $P$ is a temporal point, then the domain of rational numbers to which $l$ belongs if and only if there is a time point $L$ earlier than $P$ such that $$ OL = l{.}OE $$ can be constructed arithmetically in pure number theory on the basis of our principles of definition, and is therefore a real number in our sense. (*Ibid*., 89)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. “在某段时期内我看见铅笔在那里”这一直观发现，其直接表述被如此构造，以致“在某段时期内”这一短语被替换为“在落在某个时间跨度 OE 之内的每个时间点上”。[外尔在此以括注补充说，他承认“这不再复现直观中在场的东西，但人们将不得不听之任之，*如果把一个时期分解为时间点确实是合法的话*”。]
+      2. 若 $P$ 是一个时间点，则满足如下条件的、$l$ 所属的有理数域：当且仅当存在一个早于 $P$ 的时间点 $L$，使得 $$ OL = l{.}OE $$ 可以在纯粹数论中、依据我们的定义原则作算术构造，并且因此是我们意义上的一个实数。（*同上*，89）
+    step2: |-
+      1. “某段时期内我看见铅笔在那里”——这一直观发现的直接表述被如此构造，以致“在某段时期内”被替换为“在落在某时间跨度 OE 内的每一个时间点上”。[外尔在此括注道，他承认“这已不复复现直观中在场者，但人们只得听之任之，*倘若把一个时期分解为时间点确属合法*”。]
+      2. 若 $P$ 为一时间点，则由 $l$ 所从属的有理数之域——当且仅当存在早于 $P$ 的时间点 $L$ 使 $$ OL = l{.}OE $$ 时——可在纯粹数论中依我们的定义原则算术地构造出来，因而是我们意义上的一个实数。（*同上*，89）
   - id: 56
     kind: body
     source: |-
       Condition 2 means that, if we take the time span $OE$ as a unit, then each temporal point $P$ is correlated with a definite real number. In an addendum Weyl also stipulates the converse.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      条件 2 意味着，如果我们取时间跨度 $OE$ 为单位，那么每个时间点 $P$ 都对应于一个确定的实数。在一个附记中，外尔还规定了逆命题。
+    step2: |-
+      条件 2 意谓：若取时间跨度 $OE$ 为单位，则每一时间点 $P$ 皆对应一确定的实数。在一则附记中，外尔还规定了其逆。
   - id: 57
     kind: body
     source: |-
       But can temporal intuition itself provide evidence for the truth or falsity of these two conditions? Weyl thinks not. In fact, he states quite categorically that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但是，时间直观本身能够为这两个条件的真或假提供证据吗？外尔认为不能。实际上，他相当斩钉截铁地断言：
+    step2: |-
+      然而，时间直观本身能为这两个条件之真假提供证据吗？外尔以为不能。他甚至断然宣称：
   - id: 58
     kind: body
     source: |-
       > … everything we are demanding here is obvious nonsense: to these questions, the intuition of time provides no answer—just as a man makes no reply to questions which clearly are addressed to him by mistake and, therefore, are unintelligible when addressed to him. (*Ibid*., 90)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……我们在此要求的一切都是明显的胡说：对于这些问题，时间直观不提供任何回答——正如一个人对明显是错投给他的、因而对他说来不可理解的问题不作任何回答。（*同上*，90）
+    step2: |-
+      > ……我们在此要求的一切，纯属明明白白的胡说：对这些问题，时间直观不予任何回答——正如一个人对分明错投给自己的、因而自己无法理解的问题不予理睬。（*同上*，90）
   - id: 59
     kind: body
     source: |-
       The grounds for this assertion are by no means immediately evident, but one gathers from the passages following it that Weyl regards the experienced *continuous flow* of phenomenal time as constituting an insuperable barrier to the whole enterprise of representing the continuum as experienced in terms of individual points, and even to the characterization of “individual temporal point” itself. As he says,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一断言的根据绝非一目了然，但从其后的段落可以领会到：外尔把现象时间之被经验的*连续流动*视作一道不可逾越的障碍，既阻挡以单个点来表示被经验的连续统的整个事业，也阻挡对“单个时间点”本身的刻画。如他所说：
+    step2: |-
+      此断言之根据绝非一目了然，但观其后诸段可知：外尔视现象时间之被经验的*连续流动*为不可逾越的屏障——它既阻绝以单个点来表示被经验连续统的整个事业，也阻绝对“单个时间点”本身的刻画。如他所说：
   - id: 60
     kind: body
     source: |-
       > The view of a flow consisting of points and, therefore, also dissolving into points turns out to be mistaken: precisely what eludes us is the nature of the continuity, the flowing from point to point; in other words, the secret of how the continually enduring present can continually slip away into the receding past. Each one of us, at every moment, directly experiences the true character of this temporal continuity. But, because of the genuine primitiveness of phenomenal time, we cannot put our experiences into words. So we shall content ourselves with the following description. What I am conscious of is for me both a being-now and, in its essence, something which, with its temporal position, slips away. In this way there arises the persisting factual extent, something ever new which endures and changes in consciousness. (*Ibid*., 91–92)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 由点组成的流、并因而也消解为点的流这种观点，被证明是错误的：恰恰逃脱我们把握的，是连续性的本性，是从点到点的流动；换言之，是那不断持存的当下如何不断滑入逝去的过去这一秘密。我们每一个人，在每一个时刻，都直接经验到这种时间连续性的真正性质。但由于现象时间的真正原初性，我们无法把我们的经验付诸言词。所以我们将满足于如下描述。我所意识到的，对我而言既是一个“现在存在”，而且在本质上，是随其时间位置而流逝的某物。由此便产生了持存的实事广延，某种在意识中持续并变化着的、常新的东西。（*同上*，91–92）
+    step2: |-
+      > 所谓由点组成、因而也消解为点的流，已被证明是错误的：恰恰从我们指缝间溜走的，是连续性之本性，是自点向点的流动；换言之，是那不断持存的当下如何不断滑入远去的过去这一秘密。我们每个人，在每一时刻，都直接经验到这种时间连续性的真性质。然而由于现象时间的真原初性，我们无法将经验诉诸言词。故我们满足于如下描述：我所意识者，于我既是一“现在存在”，又按其本质随其时间位置而流逝。由此生起那持存的实事广延——某种在意识中延留而变化、常新不已者。（*同上*，91–92）
   - id: 61
     kind: body
     source: |-
       Weyl sums up what he thinks can be affirmed about “objectively presented time”—by which he presumably means “phenomenal time described in an objective manner”—in the following two assertions, which he claims apply equally, mutatis mutandis, to every intuitively given continuum, in particular, to the continuum of spatial extension. (*Ibid*., 92):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔总结了他认为可以就“客观地呈现的时间”——他大概意指“以客观方式描述的现象时间”——肯定的东西，即以下两条断言；他声称，经适当修改，它们同样适用于每一个直观地被给予的连续统，特别是空间广延的连续统。（*同上*，92）：
+    step2: |-
+      外尔总结了他认为可就“客观地呈现的时间”——意即“以客观方式描述的现象时间”——加以肯定的东西，即如下两条；并声称，经适当变通，二者同样适用于一切直观所予的连续统，尤其是空间广延之连续统。（*同上*，92）：
   - id: 62
     kind: body
     source: |-
       1. An individual point in it is non-independent, i.e., is pure nothingness when taken by itself, and exists only as a “point of transition” (which, of course, can in no way be understood mathematically);
       2. It is due to the essence of time (and not to contingent imperfections in our medium) that a fixed temporal point cannot be exhibited in any way, that always only an approximate, never an exact determination is possible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 其中的单个点是非独立的，即，就其自身而言是纯粹的无，只作为“过渡点”而存在（这一点当然绝不能在数学上被理解）；
+      2. 正是由于时间的本质（而不是由于我们媒介的偶然缺陷），一个固定的时间点无法以任何方式被展示，始终只有近似的、而绝无精确的测定是可能的。
+    step2: |-
+      1. 其中单个点是非独立的：就其自身而言只是纯粹的无，仅作为“过渡点”而存在（此点当然无法以数学方式理解）；
+      2. 固定的时间点无法以任何方式被展示、永远只能近似而无法精确地测定，乃是由于时间的本质（而非我们媒介的偶然缺陷）。
   - id: 63
     kind: body
     source: |-
       The fact that single points in a true continuum “cannot be exhibited” arises, Weyl asserts, from the fact that they are not genuine individuals and so cannot be characterized by their properties. In the physical world they are never defined absolutely, but only in terms of a coordinate system, which, in an arresting metaphor, Weyl describes as “the unavoidable residue of the eradication of the ego.” This metaphor, which Weyl was to employ more than once[^note-17], again reflects the continuing influence of phenomenological doctrine in his thinking : here, the thesis that the existent is given in the first instance as the contents of a consciousness.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔断言，真连续统中的单个点之所以“无法被展示”，乃是由于它们不是真正的个体，因而不能凭其性质来刻画。在物理世界中，它们从不被绝对地定义，而只相对于一个坐标系来定义；外尔以一个令人难忘的比喻把坐标系描述为“消除自我所不可避免留下的残余”。这个外尔不止一次使用的比喻[^note-17]，再次反映了现象学学说在他思想中持续的影响：即存在者首先作为意识的内容而被给予这一论题。
+    step2: |-
+      外尔断言：真连续统中的单个点之所以“无法被展示”，在于它们并非真正的个体，因而无法凭性质来刻画。在物理世界中，它们从不被绝对地定义，而只相对于坐标系来定义；外尔以一个令人难忘的比喻，把坐标系称作“消除自我所不可避免留下的残余”。这一被他屡次援用的比喻[^note-17]，再度折射出现象学学说于其思想中的持续影响：存在者首先作为意识的内容而被给予。
   - id: 64
     kind: body
     source: |-
       ### 3.2 Weyl and Brouwerian Intuitionism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 外尔与布劳威尔直觉主义
+    step2: |-
+      ### 3.2 外尔与布劳威尔式直觉主义
   - id: 65
     kind: body
     source: |-
       By 1919 Weyl had come to embrace Brouwer’s views on the intuitive continuum. Given the idealism that always animated Weyl’s thought, this is not surprising, since Brouwer assigned the thinking subject a central position in the creation of the mathematical world[^note-18].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      到 1919 年，外尔已转而接受布劳威尔关于直观连续统的观点。考虑到始终为外尔思想注入活力的那种唯心论，这并不奇怪，因为布劳威尔把能思主体置于数学世界之创造的中心位置[^note-18]。
+    step2: |-
+      至 1919 年，外尔已接纳布劳威尔关于直观连续统的观点。虑及始终为外尔思想供血的那种唯心论，此不足怪：布劳威尔本就把能思主体置于数学世界之创造的中心[^note-18]。
   - id: 66
     kind: body
     source: |-
       In his early thinking Brouwer had held that that the continuum is presented to intuition as a whole, and that it is impossible to construct all its points as individuals. But later he radically transformed the concept of “point”, endowing points with sufficient fluidity to enable them to serve as generators of a “true” continuum. This fluidity was achieved by admitting as “points”, not only fully defined discrete numbers such as 1/9, $e$, and the like—which have, so to speak, already achieved “being”—but also “numbers” which are in a perpetual state of “becoming” in that the entries in their decimal (or dyadic) expansions are the result of free acts of choice by a subject operating throughout an indefinitely extended time. The resulting choice sequences cannot be conceived as finished, completed objects: at any moment only an initial segment is known. Thus Brouwer obtained the mathematical continuum in a manner compatible with his belief in the primordial intuition of time—that is, as an unfinished, in fact unfinishable entity in a perpetual state of growth, a “medium of free development”. In Brouwer’s vision, the mathematical continuum is indeed “constructed”, not, however, by initially shattering, as did Cantor and Dedekind, an intuitive continuum into isolated points, but rather by assembling it from a complex of continually changing overlapping parts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在其早期思想中，布劳威尔曾认为连续统是作为一个整体呈现给直观的，并且不可能把它的所有点作为个体构造出来。但后来他彻底改造了“点”的概念，赋予点以充分的流动性，使它们能够充当一个“真正的”连续统的生成者。这种流动性是通过把如下“点”也接纳进来而实现的：不仅是完全定义了的离散数，如 1/9、$e$ 之类（它们可以说已经达到了“存在”），还有那些处于永不止息的“生成”状态的“数”——其十进制（或二进制）展开中的各位数字，是一个在无限延伸的时间中运作的主体自由选择行为的结果。由此得到的选择序列不能被设想为完成了的、完结的对象：在任何时刻，只有初始片段是已知的。这样，布劳威尔以一种与他关于时间之原初直观的信念相容的方式得到了数学连续统——即把它作为一个未完成的、实际上不可能完成的实体，一个处于永续生长状态的“自由发展之媒介”。在布劳威尔的愿景中，数学连续统的确是被“构造”出来的，但不是像康托尔和戴德金那样起初就把一个直观连续统打碎成孤立的点，而是用不断变化的相互重叠的部分把它装配起来。
+    step2: |-
+      布劳威尔早期认为，连续统乃作为整体呈现于直观，且无法把其所有点当作个体逐一构造。后来他彻底改造了“点”的概念，赋予点以足够的流动性，使它们足以充当“真正的”连续统之生成者。其法是：不仅承认完全定义的离散数——如 1/9、$e$ 之类，它们可谓已经“存在”——为“点”，也承认处于永无止境的“生成”之中的“数”：其十进制（或二进制）展开的各位数字，乃一个在无限绵延的时间中运作的主体自由选择之结果。由此得到的选择序列不可设想为已完成的对象：任一时刻所知者仅是初始片段。如此，布劳威尔以与其时间原初直观信念相容的方式得出了数学连续统——一个未完成、且实际不可能完成的实体，一个处于永续生长中的“自由发展之媒介”。在布劳威尔的愿景里，数学连续统确乎是被“构造”的；但构造之法，不是如康托尔与戴德金那般先把直观连续统打碎为孤立的点，而是以不断变化、彼此重叠的部分将它装配起来。
   - id: 67
     kind: body
     source: |-
       Brouwer’s impact looms large in Weyl’s 1921 paper, On the New Foundational Crisis of Mathematics. Here Weyl identifies two distinct views of the continuum: “atomistic” or “discrete”; and “continuous”. In the first of these the continuum is composed of individual real numbers which are well-defined and can be sharply distinguished. Weyl describes his earlier attempt at reconstructing analysis in Das Kontinuum as atomistic in this sense:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布劳威尔的影响在外尔 1921 年的论文《论数学的新基础危机》中清晰可见。在这篇文章中，外尔分辨了关于连续统的两种不同观点：“原子论的”或“离散的”；与“连续的”。在第一种观点中，连续统由个别的实数构成，这些实数是良定义的、可以被清晰区分的。外尔把他在《连续统》中重建分析的早期尝试描述为这种意义上的原子论的：
+    step2: |-
+      布劳威尔的影响在外尔 1921 年的《论数学的新基础危机》一文中历历可见。文中外尔分辨了连续统的两种观点：一为“原子论的”或“离散的”，一为“连续的”。依前者，连续统由个别实数构成，诸实数良定义且可截然区分。外尔把自己在《连续统》中重建分析的早期尝试描述为这种意义上的原子论：
   - id: 68
     kind: body
     source: |-
       > Existential questions concerning real numbers only become meaningful if we analyze the concept of real number in this extensionally determining and delimiting manner. Through this conceptual restriction, an ensemble of individual points is, so to speak, picked out from the fluid paste of the continuum. The continuum is broken up into isolated elements, and the flowing-into-each other of its parts is replaced by certain conceptual relations between these elements, based on the “larger-smaller” relationship. This is why I speak of the *atomistic* conception of the continuum. (Weyl 1921, 91)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 关于实数的存在问题，只有当我们以这种外延地确定并划界的方式分析实数概念时，才会变得有意义。通过这一概念限制，一个个别点的集合，可以说，从连续统的流体糊状物中被挑拣出来。连续统被分解为孤立的元素，其各部分相互流入的情形被这些元素之间的某些概念关系所取代，这些关系建立在“大小”关系之上。这就是为什么我谈论连续统的*原子论的*构想。（Weyl 1921, 91）
+    step2: |-
+      > 关于实数的存在问题，唯当我们以这种外延地确定并划界的方式分析实数概念时，方有意义。经此概念限制，一个个别点的集合，可谓从连续统的流质中被拣选出来；连续统被拆解为孤立的元素，其各部分相互交融的情形，则被这些元素之间基于“大小”关系的某些概念关系所取代。正因如此，我方才谈论连续统的*原子论的*构想。（Weyl 1921, 91）
   - id: 69
     kind: body
     source: |-
       By this time Weyl had repudiated atomistic theories of the continuum, including that of Das Kontinuum.[^note-19] While intuitive considerations, together with Brouwer’s influence, must certainly have fuelled Weyl’s rejection of such theories, it also had a logical basis. For Weyl had come to regard as meaningless the formal procedure—employed in Das Kontinuum—of negating universal and existential statements concerning real numbers conceived as developing sequences or as sets of rationals. This had the effect of undermining the whole basis on which his theory had been erected, and at the same time rendered impossible the very formulation of a “law of excluded middle” for such statements. Thus Weyl found himself espousing a position[^note-20] considerably more radical than that of Brouwer, for whom negations of quantified statements had a perfectly clear constructive meaning, under which the law of excluded middle is simply not generally affirmable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      到这个时候，外尔已经摒弃了原子论的连续统理论，包括《连续统》中的那一理论。[^note-19] 虽然直观方面的考虑，加上布劳威尔的影响，必定为外尔对这类理论的拒斥提供了动力，但这种拒斥也有一个逻辑基础。因为外尔已开始认为，《连续统》中所使用的那种形式程序——即否定关于被设想为发展序列或有理数集合的实数的全称陈述与存在陈述——是无意义的。这产生了一个后果：动摇了他的理论赖以竖立的整个基础，同时使得为这类陈述制定“排中律”根本成为不可能。于是外尔发现自己所拥护的立场[^note-20]远比布劳威尔的立场激进：对布劳威尔来说，被量化陈述的否定具有完全清楚的构造性含义，在此含义下，排中律只是不普遍可肯定而已。
+    step2: |-
+      至此时，外尔已摒弃原子论的连续统理论，包括《连续统》中的那一理论。[^note-19] 直观的考虑加上布劳威尔的影响，固然助推了这种拒斥；但拒斥亦有其逻辑根据：外尔此时已视《连续统》所用的形式程序——否定关于实数（被设想为发展序列或有理数集合）的全称与存在陈述——为无意义。其后果是双重的：既动摇了他的理论赖以竖立的整个基础，又使为这类陈述表述“排中律”一事根本无从谈起。于是外尔发觉自己拥护的立场[^note-20]远较布劳威尔激进：在布劳威尔那里，被量化陈述的否定自有完全清楚的构造性含义，排中律只是不普遍可断言而已。
   - id: 70
     kind: body
     source: |-
       Of existential statements Weyl says:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于存在陈述，外尔说：
+    step2: |-
+      至于存在陈述，外尔说：
   - id: 71
     kind: body
     source: |-
