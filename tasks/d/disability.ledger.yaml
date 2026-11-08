@@ -275,160 +275,216 @@ segments:
     kind: body
     source: |-
       Through much of the first two decades of this century, philosophers were largely content with this definitional approach to disability as a relationship or interaction, disagreeing primarily on the comparative contribution of the two elements and the policy relevance of their contributions. As noted in the last section, dissenters mainly focused on the characterization of one or both elements, as, e.g., on the first as social vs. biological, rather than on the “anatomy” itself. More recently, however, there has been some movement away from reliance on these two-part approaches to defining disability (e.g., Barnes 2016, and much of the literature responding)[^barnes-2016]. One reason may be that in most settings, we do not think of or refer to disabilities as relationships or interactions, but as individual somatic or psychic traits, states or conditions (including absences and deficiencies). These commonsense referents are hard to find in, for example, the multifactorial charts by which the ICF illustrates its definition of disability as a complex interaction of health conditions with environmental, social, and personal factors.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本世纪头二十年的大部分时间里，哲学家大体满足于这种把残疾定义为一种关系或交互作用的进路，主要分歧在于两个要素的相对贡献以及这些贡献的政策相关性。如上一节所述，异议者主要关注一个或两个要素的刻画（例如把第一个要素刻画为社会性的还是生物性的），而不是“解剖学”本身。然而晚近以来，出现了一些远离依赖这种两分进路来定义残疾的动向（如 Barnes 2016 及大量回应文献）[^barnes-2016]。一个原因也许是：在多数场合，我们并不把残疾想成或说成关系或交互作用，而想成个体的身体或心理特征、状态或状况（包括缺失与不足）。这些常识性的指称对象，很难在例如 ICF 用来图解其残疾定义的多因素图表中找到——该定义把残疾说成健康状况与环境、社会及个人因素的复杂交互作用。
+    step2: |-
+      本世纪头二十年的大部分时间里，哲学家大体满足于这种把残疾定义为一种关系或交互作用的进路，主要分歧在于两个要素的相对贡献以及这些贡献的政策相关性。如上一节所述，异议者主要关注一个或两个要素的刻画（例如把第一个要素刻画为社会性的还是生物性的），而不是“解剖学”本身。然而晚近以来，出现了一些远离依赖这种两分进路来定义残疾的动向（如 Barnes 2016 及大量回应文献）[^barnes-2016]。一个原因也许是：在多数场合，我们并不把残疾想成或说成关系或交互作用，而想成个体的身体或心理特征、状态或状况（包括缺失与不足）。这些常识性的指称对象，很难在例如 ICF 用来图解其残疾定义的多因素图表中找到——该定义把残疾说成健康状况与环境、社会及个人因素的复杂交互作用。
   - id: 35
     kind: body
     source: |-
       Some might argue that ordinary usage is ideological, shaped by false failure to be conscious of the insights of social and interactionist models. But defining “disability” in rough conformity to ordinary usage hardly implies that its referents are selected by biomedical criteria, let alone that the traits selected cause the disadvantages faced by their bearers or dictate the appropriate social response to those disadvantages. Rather, this view on what “disability” and “people with disabilities” refer to is compatible with a wide variety of positions on how those referents are picked out: e.g., by biomedical criteria; by the rules of a civil-rights movement; by the assumptions of the dominant ideology about bodily dysfunction; or by the demands of justice. The extent to which what counts as a disability, or a person with a disability, varies with context and will depend on the account adopted; on biomedical accounts, the extension of “disability” will be as stable as human biology; on other accounts, it will change with changing social norms, economic needs, or political developments. Further, on some accounts, the referents will have common features, identifiable by inspection; on others, what they have in common can only be understood in terms of an ideology or a theory of justice.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有人可能主张，日常用法是意识形态性的，由未能意识到社会模型与交互模型的洞见所塑造。但大致依照日常用法来定义“残疾”，几乎不意味着其指称对象由生物医学标准选出，更不意味着被选出的特征导致了其承载者所面临的不利、或规定了应对这些不利的恰当社会回应。相反，这一关于“残疾”与“残疾人”指称什么的看法，与关于这些指称对象如何被挑出的多种立场都相容：例如由生物医学标准挑出；由民权运动的规则挑出；由主流意识形态关于身体功能失调的假定挑出；或由正义的要求挑出。什么算残疾、谁算残疾人，在多大程度上随语境而变，取决于所采纳的说明：在生物医学说明中，“残疾”的外延会像人类生物学一样稳定；在其他说明中，它会随社会规范、经济需要或政治发展而变化。此外，在某些说明中，指称对象会有可通过检视辨认出的共同特征；在另一些说明中，它们的共同之处只能凭某种意识形态或正义理论来理解。
+    step2: |-
+      有人可能主张，日常用法是意识形态性的，由未能意识到社会模型与交互模型的洞见所塑造。但大致依照日常用法来定义“残疾”，几乎不意味着其指称对象由生物医学标准选出，更不意味着被选出的特征导致了其承载者所面临的不利、或规定了应对这些不利的恰当社会回应。相反，这一关于“残疾”与“残疾人”指称什么的看法，与关于这些指称对象如何被挑出的多种立场都相容：例如由生物医学标准挑出；由民权运动的规则挑出；由主流意识形态关于身体功能失调的假定挑出；或由正义的要求挑出。什么算残疾、谁算残疾人，在多大程度上随语境而变，取决于所采纳的说明：在生物医学说明中，“残疾”的外延会像人类生物学一样稳定；在其他说明中，它会随社会规范、经济需要或政治发展而变化。此外，在某些说明中，指称对象会有可通过检视辨认出的共同特征；在另一些说明中，它们的共同之处只能凭某种意识形态或正义理论来理解。
   - id: 36
     kind: body
     source: |-
       After discussing several types of accounts, we will address the claim, inspired by the diversity of traits and conditions they pick out, that “disability” has no core meaning, and that it may be futile and distracting to search for one.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      讨论过几类说明之后，我们将处理这样一个主张：由于这些说明所挑出的特征与状况如此多样，“残疾”没有核心含义，寻找核心含义可能是徒劳且分散注意力的。
+    step2: |-
+      讨论过几类说明之后，我们将处理这样一个主张：由于这些说明所挑出的特征与状况如此多样，“残疾”没有核心含义，寻找核心含义可能是徒劳且分散注意力的。
   - id: 37
     kind: body
     source: |-
       ### 2.2 Philosophical Definitions of Disability
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 残疾的哲学定义
+    step2: |-
+      ### 2.2 残疾的哲学定义
   - id: 38
     kind: body
     source: |-
       Outside of legal and policy interpretation, philosophers have made a number of claims about the definition of “disability”—at first, mostly only in passing, during discussion of other matters, like “disease” and “health”; later as an increasingly important philosophical topic in its own right.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在法律与政策解释之外，哲学家对“残疾”的定义提出了若干主张——起初多只是顺带提及，出现在关于“疾病”“健康”等其他问题的讨论中；后来则日益成为独立而重要的哲学课题。
+    step2: |-
+      在法律与政策解释之外，哲学家对“残疾”的定义提出了若干主张——起初多只是顺带提及，出现在关于“疾病”“健康”等其他问题的讨论中；后来则日益成为独立而重要的哲学课题。
   - id: 39
     kind: body
     source: |-
       #### 2.2.1 Normal-Function Views
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 2.2.1 正常功能观
+    step2: |-
+      #### 2.2.1 正常功能观
   - id: 40
     kind: body
     source: |-
       Given the pervasiveness of medical models of disability in the culture, one would think that at least some recent philosophers would defend a view of disability on which it is defined in terms of *pathology* or departure from normal functioning (see entry on concepts of health and disease). So far we can tell, however, no one has done so explicitly, in print. Christopher Boorse, perhaps, comes closest, when he says:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      鉴于医学模型在文化中的普遍性，人们会以为至少有些晚近哲学家会为一种按病理、即偏离正常功能来定义残疾的观点辩护（见“健康与疾病的概念”词条）。但就我们所能确定，尚无人明确地在出版物中这样做。也许克里斯托弗·伯尔斯（Christopher Boorse）最为接近，他说：
+    step2: |-
+      鉴于医学模型在文化中的普遍性，人们会以为至少有些晚近哲学家会为一种按病理、即偏离正常功能来定义残疾的观点辩护（见“健康与疾病的概念”词条）。但就我们所能确定，尚无人明确地在出版物中这样做。也许克里斯托弗·伯尔斯（Christopher Boorse）最为接近，他说：
   - id: 41
     kind: body
     source: |-
       > at first sight, one expects *disability* […] to consist of a pathological condition severe enough to have certain morally and legally important effects. (Boorse 2010: 60–61)[^boorse-2010]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 初看之下，人们会期待*残疾*……由一种严重到足以产生某些道德与法律上重要影响的病理状况构成。（Boorse 2010: 60–61）[^boorse-2010]
+    step2: |-
+      > 初看之下，人们会期待残疾……由一种严重到足以产生某些道德与法律上重要影响的病理状况构成。（Boorse 2010: 60–61）[^boorse-2010]
   - id: 42
     kind: body
     source: |-
       Though Boorse only broaches the possibility of such a definition, without defending, his broader views about health and disease may seem to support this approach. If, as Boorse argues there is a good naturalistic sense of “pathology” as (statistically) downward departure from species-typical functioning, then that notion can be inputted into our moral and political thinking to produce a definition of disability on the following pattern:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管伯尔斯只是提出这种定义的可能性，并未为之辩护，但他关于健康与疾病的更宽观点似乎支持这一进路。如果像伯尔斯所论证的那样，“病理”有一个良好的自然主义含义，即（统计上）偏离物种典型功能，那么这一概念就可以输入我们的道德与政治思考，按下列模式产生一个残疾定义：
+    step2: |-
+      尽管伯尔斯只是提出这种定义的可能性，并未为之辩护，但他关于健康与疾病的更宽观点似乎支持这一进路。如果像伯尔斯所论证的那样，“病理”有一个良好的自然主义含义，即（统计上）偏离物种典型功能，那么这一概念就可以输入我们的道德与政治思考，按下列模式产生一个残疾定义：
   - id: 43
     kind: body
     source: |-
       *S* is disabled, in a context *C*, iff
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *S* 在语境 *C* 中是残疾人，当且仅当
+    step2: |-
+      *S* 在语境 *C* 中是残疾人，当且仅当
   - id: 44
     kind: body
     source: |-
       1. *S* has a pathology—that is, some part of their body performs its normal function at statistically subtypical levels,
       2. In *C*, that pathology causes effects that make a difference, of kind *D*, to how *S* ought legally or morally to be treated
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. *S* 有病理——即其身体的某一部分以统计上低于典型的水平履行其正常功能；
+            2. 在 *C* 中，该病理造成 *D* 类效果，使 *S* 在法律或道德上应受如何对待有所不同
+    step2: |-
+      1. *S* 有病理——即其身体的某一部分以统计上低于典型的水平履行其正常功能；
+            2. 在 *C* 中，该病理造成 *D* 类效果，使 *S* 在法律或道德上应受如何对待有所不同
   - id: 45
     kind: body
     source: |-
       To fully develop this view, of course, one would need to say what sort of moral/legal difference pathology is supposed to make—not just any difference will do, since it would not follow from the fact, say, that everyone has a legal or moral right to treatment for transient injuries or diseases that all these conditions are disabilities. Note also that, though this view mentions the medical concept of pathology, as a *definition* of disability it does not entail a medical model, or indeed even the denial of the affirmational model. The medical/social debate will turn on the extent to which it is pathology *itself* that makes a moral difference, rather than pathology in combination with social factors. The affirmational model debate will turn on just which effects are definitive of disability; if these are all negative or harmful, it will be harder to understand disability as something to be proud of. But the bare fact that disability arises from pathology, on this definition, does not necessarily preclude pride in it, given Boorse’s normatively neutral definition of pathology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当然，要充分发展这一观点，就得说明病理应当造成何种道德/法律上的差别——不是随便什么差别都行：例如，不能因为每个人都有就短暂损伤或疾病接受治疗的法律或道德权利，就推出所有这些状况都是残疾。还要注意：尽管这一观点提到病理这一医学概念，但作为残疾的定义，它并不蕴含医学模型，甚至不蕴含对肯定性模型的否定。医学/社会之争将取决于：究竟是病理本身、还是病理与社会因素的结合造成了道德差别。肯定性模型之争将取决于哪些效果才算残疾的界定性效果；如果这些效果全是负面的或有害的，就更难把残疾理解为值得自豪的东西。但按这一定义，残疾源于病理这一赤裸事实未必排除对它的自豪——鉴于伯尔斯对病理的中性规范定义。
+    step2: |-
+      当然，要充分发展这一观点，就得说明病理应当造成何种道德/法律上的差别——不是随便什么差别都行：例如，不能因为每个人都有就短暂损伤或疾病接受治疗的法律或道德权利，就推出所有这些状况都是残疾。还要注意：尽管这一观点提到病理这一医学概念，但作为残疾的定义，它并不蕴含医学模型，甚至不蕴含对肯定性模型的否定。医学/社会之争将取决于：究竟是病理本身、还是病理与社会因素的结合造成了道德差别。肯定性模型之争将取决于哪些效果才算残疾的界定性效果；如果这些效果全是负面的或有害的，就更难把残疾理解为值得自豪的东西。但按这一定义，残疾源于病理这一赤裸事实未必排除对它的自豪——鉴于伯尔斯对病理的中性规范定义。
   - id: 46
     kind: body
     source: |-
       That said, few philosophers seem inclined to defend this way of defining disability. Many philosophers are skeptical of the analytic division between facts about bodily function and social and ethical norms, arguing that there is no way to define disease or pathology independent of “normative” considerations (Wakefield 1992; Kingma 2007; entry on concepts of health and disease)[^kingma-2007][^wakefield-1992]. Those sympathetic to the claims of the disability may have more specific qualms, as well. Those attracted to the “human variation” version of the social model may be skeptical that all of the bodily difference that make for disability are statistically atypical in the required way, e.g., very common or universal conditions like age-related hearing loss or atherosclerosis. Those who tend more to a “minority group” model will tend to see the bodily differences that matter to disability as *perceived* or represented difference, rather than actual difference. And anyone with any sympathy to the social model at all will tend to think that, as-so-far stated, this definition puts its philosophical precision in the wrong place: that it is at least as important to understand what social, moral, and legal effects characterize disability as to understand which sorts of causes these effects must have to count as “disabling”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      话虽如此，似乎没有多少哲学家愿意为这种定义残疾的方式辩护。许多哲学家怀疑关于身体功能的事实与社会及伦理规范之间的分析性划分，认为无法独立于“规范性”考量来定义疾病或病理（Wakefield 1992; Kingma 2007; 见“健康与疾病的概念”词条）[^kingma-2007][^wakefield-1992]。同情残疾主张的人可能还有更具体的疑虑。被社会模型“人类变异”版本吸引的人可能怀疑：造成残疾的身体差异是否都以所需方式在统计上非典型，例如与年龄相关的听力损失或动脉硬化这类非常常见或普遍的状况。更倾向“少数群体”模型的人，则倾向于把与残疾相关的身体差异看作被感知或被表征的差异，而非实际差异。而任何对社会模型有丝毫同情的人都会倾向于认为，如目前所述，这一定义把哲学上的精确性放错了地方：理解哪些社会、道德与法律效果刻画残疾，至少与理解这些效果必须有何种原因才算“致残”，同样重要。
+    step2: |-
+      话虽如此，似乎没有多少哲学家愿意为这种定义残疾的方式辩护。许多哲学家怀疑关于身体功能的事实与社会及伦理规范之间的分析性划分，认为无法独立于“规范性”考量来定义疾病或病理（Wakefield 1992; Kingma 2007; 见“健康与疾病的概念”词条）[^kingma-2007][^wakefield-1992]。同情残疾主张的人可能还有更具体的疑虑。被社会模型“人类变异”版本吸引的人可能怀疑：造成残疾的身体差异是否都以所需方式在统计上非典型，例如与年龄相关的听力损失或动脉硬化这类非常常见或普遍的状况。更倾向“少数群体”模型的人，则倾向于把与残疾相关的身体差异看作被感知或被表征的差异，而非实际差异。而任何对社会模型有丝毫同情的人都会倾向于认为，如目前所述，这一定义把哲学上的精确性放错了地方：理解哪些社会、道德与法律效果刻画残疾，至少与理解这些效果必须有何种原因才算“致残”，同样重要。
   - id: 47
     kind: body
     source: |-
       #### 2.2.2 The Welfarist View
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 2.2.2 福利主义观
+    step2: |-
+      #### 2.2.2 福利主义观
   - id: 48
     kind: body
     source: |-
       Kahane and Savulescu (2009; Savulescu & Kahane 2011)[^savulescu-2011] propose a reformed definition of disability that promises to avoid potentially problematic references to pathology. Their basic idea is that a disability is a (broadly) bodily condition that makes its bearer worse off. To wit:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      卡哈内（Kahane）与萨武列斯库（Savulescu，2009; Savulescu & Kahane 2011）[^savulescu-2011] 提出一种改良的残疾定义，承诺避免可能成问题的病理指涉。其基本想法是：残疾是（广义上）使承载者境况更差的自身状况。即：
+    step2: |-
+      卡哈内（Kahane）与萨武列斯库（Savulescu，2009; Savulescu & Kahane 2011）[^savulescu-2011] 提出一种改良的残疾定义，承诺避免可能成问题的病理指涉。其基本想法是：残疾是（广义上）使承载者境况更差的自身状况。即：
   - id: 49
     kind: body
     source: |-
       > “disability” should refer to any stable physical or psychological property of subject *S* that leads to a significant reduction of *S*’s level of wellbeing in circumstances *C*, *excluding* the effect that this condition has on wellbeing that is due to prejudice against *S* by members of *S*’s society. (Savulescu & Kahane 2011: 45)[^savulescu-2011]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > “残疾”应指主体 *S* 任何稳定的身体或心理属性——它在环境 *C* 中导致 *S* 的福祉水平显著下降，不包括该状况对福祉的影响中源于 *S* 所在社会成员对 *S* 的偏见的那部分。（Savulescu & Kahane 2011: 45）[^savulescu-2011]
+    step2: |-
+      > “残疾”应指主体 *S* 任何稳定的身体或心理属性——它在环境 *C* 中导致 *S* 的福祉水平显著下降，不包括该状况对福祉的影响中源于 *S* 所在社会成员对 *S* 的偏见的那部分。（Savulescu & Kahane 2011: 45）[^savulescu-2011]
   - id: 50
     kind: body
     source: |-
       This view adopts certain insights of the social model: in particular in holding that disability is relative to circumstance and in downplaying the role of pathology or biological abnormality in defining disability (note there is no reference to “impairment”, not even records or appearance of impairment).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一观点采纳了社会模型的某些洞见：特别是认为残疾相对于环境而言，并淡化病理或生物异常在定义残疾中的作用（注意其中没有提到“损伤”，连损伤的记录或外观也没有提）。
+    step2: |-
+      这一观点采纳了社会模型的某些洞见：特别是认为残疾相对于环境而言，并淡化病理或生物异常在定义残疾中的作用（注意其中没有提到“损伤”，连损伤的记录或外观也没有提）。
   - id: 51
     kind: body
     source: |-
       In other ways, however, it seems to be significantly out of step with both the letter and the spirit of social models of disability. On this definition, a condition which is *only* harmful in virtue of social prejudice would not be a disability. Even the softer social model implicit in the Americans with Disabilities Act allows that *some* people are disabled solely in virtue of being “regarded as” impaired; those in that group who experience discrimination as a result would still not be “disabled” on Kahane and Savulescu’s view. Just how out of step this judgment is with the usual commitments of the social model, may depend on the relative importance it places on prejudice as compared to other factors in producing disability disadvantage. A social model that cleaves closely to a “minority group” understanding of ableist injustice may find that this definition excludes the paradigm cases of disability, people who experience gross or net reductions in advantage due to prejudicial phenomena like stigma and intentional exclusion. A “human variation” account of most disability disadvantage would see more possibility for people to be disadvantaged by non-prejudicial mismatches between atypical bodies and societies built for typicality, since this account will say that many of the welfare costs experienced by people with atypical bodies are not a result of prejudicial attitudes *per se*, even if they often reflect structurally unjust failures of inclusion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而在其他方面，它似乎与社会模型残疾观的字面与精神都明显不合。按这一定义，仅因社会偏见而有害的状况就不算残疾。即便是《美国残疾人法》所隐含的较温和社会模型，也允许某些人仅因被“视为”有损伤而成为残疾人；而在卡哈内与萨武列斯库看来，该群体中因此遭受歧视的人仍然不算“残疾人”。这一判断与公认的社会模型承诺有多大出入，可能取决于它把偏见相对于其他因素在造成残疾不利中的重要性看得多重。紧贴“少数群体”式能力主义不义理解的社会模型，可能会认为这一定义把残疾的典型情形排除在外——因污名与蓄意排斥这类偏见现象而在优势上遭受严重或净损失的人。而“人类变异”式说明在多数残疾不利上，会看到更多可能性：人们因非典型的身体与为典型性建造的社会之间的不匹配而处于不利——因为这种说明会认为，非典型身体者所体验的许多福利代价并非源于偏见态度本身，即便它们常反映结构上不公正的包容失败。
+    step2: |-
+      然而在其他方面，它似乎与社会模型残疾观的字面与精神都明显不合。按这一定义，仅因社会偏见而有害的状况就不算残疾。即便是《美国残疾人法》所隐含的较温和社会模型，也允许某些人仅因被“视为”有损伤而成为残疾人；而在卡哈内与萨武列斯库看来，该群体中因此遭受歧视的人仍然不算“残疾人”。这一判断与公认的社会模型承诺有多大出入，可能取决于它把偏见相对于其他因素在造成残疾不利中的重要性看得多重。紧贴“少数群体”式能力主义不义理解的社会模型，可能会认为这一定义把残疾的典型情形排除在外——因污名与蓄意排斥这类偏见现象而在优势上遭受严重或净损失的人。而“人类变异”式说明在多数残疾不利上，会看到更多可能性：人们因非典型的身体与为典型性建造的社会之间的不匹配而处于不利——因为这种说明会认为，非典型身体者所体验的许多福利代价并非源于偏见态度本身，即便它们常反映结构上不公正的包容失败。
   - id: 52
     kind: body
     source: |-
       It should be even more clear that the *affirmational* model of disability is in substantial tension with this harm-requiring definition of disability. Granted, affirmation of disability may not be formally inconsistent with defining it in terms of harm, since it is possible in principle to take pride in or otherwise be glad about something that leads to a reduction in our well-being (since there are things in life that matter, besides our own well-being). But affirmational models generally hold that being disabled is not always or in general a cost to our well-being (Swain & French 2000; Barnes 2016)[^barnes-2016][^swain-2000]. This would be a conceptual falsehood, on the welfarist view: something which is not a cost to well-being in *some* context is simply not a disability.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      更应清楚的是，残疾的肯定性模型与这种要求伤害的残疾定义有实质张力。诚然，对残疾的肯定与按伤害来定义残疾在形式上并不矛盾：原则上，我们可以为自己带福祉减损的东西感到自豪或欣慰（生活中有自己福祉之外的要紧事）。但肯定性模型一般主张，残疾并不总是、或一般来说不是我们福祉的代价（Swain & French 2000; Barnes 2016）[^barnes-2016][^swain-2000]。在福利主义看来，这会是概念上的谬误：在任何语境中都不构成福祉代价的东西，根本就不是残疾。
+    step2: |-
+      更应清楚的是，残疾的肯定性模型与这种要求伤害的残疾定义有实质张力。诚然，对残疾的肯定与按伤害来定义残疾在形式上并不矛盾：原则上，我们可以为自己带福祉减损的东西感到自豪或欣慰（生活中有自己福祉之外的要紧事）。但肯定性模型一般主张，残疾并不总是、或一般来说不是我们福祉的代价（Swain & French 2000; Barnes 2016）[^barnes-2016][^swain-2000]。在福利主义看来，这会是概念上的谬误：在任何语境中都不构成福祉代价的东西，根本就不是残疾。
   - id: 53
     kind: body
     source: |-
       Are these decisive problems for defining disability in terms of welfare? Much depends here on what we intend to do with definitions of disability. If the goal is to capture ordinary usage, a welfarist view may be on the right track. It might account, for instance, for the broad appeal of slogans like “deafness is not a disability” and euphemisms like “differently abled”; these expressions, on this view, would be ways of emphasizing some of the substantive evaluative intuitions behind the affirmative model, that most conditions we call disabilities are not so bad absent prejudice. That said, disability scholars and activists have tended to be skeptical of such expressions, on the grounds that they undermine efforts to see disabled people as a politically salient group with similar experience of ableism and strong reason to work together for justice, rather than to simply commiserate. If a definition of disability should advocate in favor of usages that produce a better or more just world, this might be a reason to reject Kahane and Savulescu’s view, in favor of one that allows people to be disabled due to prejudice and/or in the absence of harms to well-being. Or at least, this will be so if the social and/or affirmational models of disability have the moral and political advantages proponents advertise for them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些是按福祉定义残疾的决定性问题吗？这在很大程度上取决于我们想用残疾定义做什么。如果目标是捕捉日常用法，福利主义观可能走在正轨上。它或许能解释诸如“失聪不是残疾”这类口号与“能力不同”这类委婉语的广泛吸引力：按这种观点，这些表达是在强调肯定性模型背后某些实质性的评价直觉——我们所称的多数残疾状况，在没有偏见的情况下并不那么糟。话虽如此，残疾学者与行动者往往对这类表达持怀疑态度，理由是它们破坏了把残疾人视为一个政治上显著群体的努力——这群人有着相似的能力主义经历、有充分的理由携手争取正义，而不只是相互怜悯。如果残疾定义应当为造就更好或更公正世界的用法辩护，这或许就是拒绝卡哈内与萨武列斯库观点的理由，转而支持允许人们因偏见和/或在福祉无损时成为残疾人的定义。至少，如果残疾的社会模型和/或肯定性模型真有其倡导者所宣称的道德与政治优势，就会如此。
+    step2: |-
+      这些是按福祉定义残疾的决定性问题吗？这在很大程度上取决于我们想用残疾定义做什么。如果目标是捕捉日常用法，福利主义观可能走在正轨上。它或许能解释诸如“失聪不是残疾”这类口号与“能力不同”这类委婉语的广泛吸引力：按这种观点，这些表达是在强调肯定性模型背后某些实质性的评价直觉——我们所称的多数残疾状况，在没有偏见的情况下并不那么糟。话虽如此，残疾学者与行动者往往对这类表达持怀疑态度，理由是它们破坏了把残疾人视为一个政治上显著群体的努力——这群人有着相似的能力主义经历、有充分的理由携手争取正义，而不只是相互怜悯。如果残疾定义应当为造就更好或更公正世界的用法辩护，这或许就是拒绝卡哈内与萨武列斯库观点的理由，转而支持允许人们因偏见和/或在福祉无损时成为残疾人的定义。至少，如果残疾的社会模型和/或肯定性模型真有其倡导者所宣称的道德与政治优势，就会如此。
   - id: 54
     kind: body
     source: |-
       #### 2.2.3 Social Constructionisms
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 2.2.3 社会建构论
+    step2: |-
+      #### 2.2.3 社会建构论
   - id: 55
     kind: body
     source: |-
       Most philosophers who have considered the definition of disability in recent years have written in sympathy with either or both of the social or affirmational model of disability.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      近年来考虑过残疾定义的哲学家，多数在著述中都同情残疾的社会模型或肯定性模型，或两者皆同情。
+    step2: |-
+      近年来考虑过残疾定义的哲学家，多数在著述中都同情残疾的社会模型或肯定性模型，或两者皆同情。
   - id: 56
     kind: body
     source: |-
       Elizabeth Barnes’ critique of definitional claims implicit in the social model has been a signal moment in the recent debate. Barnes is concerned that thinking of disability as a stigmatizing, oppressive, and exclusionary response to bodily difference does not distinguish disability from other properties grounded in responses to the body, like (on many accounts) race, gender, and sexual orientation identities.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伊丽莎白·巴恩斯（Elizabeth Barnes）对社会模型所隐含定义主张的批评，是近年论争中一个标志性时刻。巴恩斯担心：把残疾想成对身体差异的污名化、压迫性与排斥性回应，无法把残疾与其他植根于身体回应的特性区分开——比如（在许多说法下）种族、性别与性取向认同。
+    step2: |-
+      伊丽莎白·巴恩斯（Elizabeth Barnes）对社会模型所隐含定义主张的批评，是近年论争中一个标志性时刻。巴恩斯担心：把残疾想成对身体差异的污名化、压迫性与排斥性回应，无法把残疾与其他植根于身体回应的特性区分开——比如（在许多说法下）种族、性别与性取向认同。
   - id: 57
     kind: body
     source: |-
       Barnes develops an alternative view which still defines disability as a social property—but in a way that fits the affirmational model better than the definitions suggested by classic social models, doing away with the distinction between disability and impairment and making no direct reference whatsoever to injustice or disadvantage. Barnes (2016) proposes to define disability in terms of the judgments of disabled people themselves, not society as a whole. To wit, *S* is (physically) disabled if and only if:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      巴恩斯发展了一种替代看法，它仍把残疾定义为一种社会属性——但其方式比经典社会模型所建议的定义更契合肯定性模型：取消残疾与损伤的区分，完全不直接指涉不义或不利。巴恩斯（2016）提议按残疾人自己的判断来定义残疾，而非按整个社会的判断。即，*S* 是（身体）残疾人，当且仅当：
+    step2: |-
+      巴恩斯发展了一种替代看法，它仍把残疾定义为一种社会属性——但其方式比经典社会模型所建议的定义更契合肯定性模型：取消残疾与损伤的区分，完全不直接指涉不义或不利。巴恩斯（2016）提议按残疾人自己的判断来定义残疾，而非按整个社会的判断。即，*S* 是（身体）残疾人，当且仅当：
   - id: 58
     kind: body
     source: |-
       1. *S* is in some bodily state *x*; [such that]
       2. The rules for making judgments about solidarity employed by the disability rights movement classify *x* in context *C* as among the physical conditions that they are seeking to promote justice for.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. *S* 处于某种身体状态 *x*；［使得］
+            2. 残疾权利运动用于判断团结的规则，在语境 *C* 中把 *x* 归入他们试图为之争取正义的身体状况之列。
+    step2: |-
+      1. *S* 处于某种身体状态 *x*；［使得］
+            2. 残疾权利运动用于判断团结的规则，在语境 *C* 中把 *x* 归入他们试图为之争取正义的身体状况之列。
   - id: 59
     kind: body
     source: |-
       This makes who is disabled a social construction—dependent on the attitudes and commitments of a particular, self-identified group of people in contemporary society, the “disability rights movement”, composed of self-identified disabled and nondisabled members. It thus raises the concern that a disability movement might seek justice for the wrong people. Couldn’t some of those people complain that they should be included in the aims of that movement, precisely, because they are disabled? Barnes responds in two ways. The first is to note that she appeals to the *rules* for judgment-making, rather than judgments themselves; some people might not *actually* be included in the disability rights movement—say, because of internal prejudices on the part of those within the movement—but if this is inconsistent with the reasons for including others, then the excluded people will count as disabled too, on Barnes’ account. Still one might ask, what if the rules themselves were bad rules, wrongly but consistently excluding some people from the ambit of the struggle against ableism? Barnes, in response to this, rigidifies, insisting that we judge disability relative to the rules of the *actual* disability movement, even when we are imagining situations where that movement should use different rules than it actually does.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这使谁是残疾人成为一种社会建构——取决于当代社会中一个特定的、自我认同的人群的态度与承诺，即由自我认同的残疾与非残疾成员组成的“残疾权利运动”。由此引出一个担忧：残疾运动可能为错误的人寻求正义。难道其中某些人不能抱怨说，他们恰恰因为身有残疾而应当被纳入该运动的目标？巴恩斯以两种方式回应。第一，她求助于作出判断的规则，而非判断本身；某些人也许并未实际被纳入残疾权利运动——比如说，因为运动内部人员的内在偏见——但如果这与纳入其他人的理由不一致，那么按巴恩斯的说法，被排除的人也照样算作残疾人。人们仍可能问：如果规则本身就是坏规则，虽然始终如一却错误地把某些人排除在对抗能力主义的斗争之外呢？对此，巴恩斯采取了僵硬立场，坚持我们相对于实际的残疾权利运动的规则来判断残疾，即便在我们设想该运动本应采用不同规则的情形中也是如此。
+    step2: |-
+      这使谁是残疾人成为一种社会建构——取决于当代社会中一个特定的、自我认同的人群的态度与承诺，即由自我认同的残疾与非残疾成员组成的“残疾权利运动”。由此引出一个担忧：残疾运动可能为错误的人寻求正义。难道其中某些人不能抱怨说，他们恰恰因为身有残疾而应当被纳入该运动的目标？巴恩斯以两种方式回应。第一，她求助于作出判断的规则，而非判断本身；某些人也许并未实际被纳入残疾权利运动——比如说，因为运动内部人员的内在偏见——但如果这与纳入其他人的理由不一致，那么按巴恩斯的说法，被排除的人也照样算作残疾人。人们仍可能问：如果规则本身就是坏规则，虽然始终如一却错误地把某些人排除在对抗能力主义的斗争之外呢？对此，巴恩斯采取了僵硬立场，坚持我们相对于实际的残疾权利运动的规则来判断残疾，即便在我们设想该运动本应采用不同规则的情形中也是如此。
   - id: 60
     kind: body
     source: |-
