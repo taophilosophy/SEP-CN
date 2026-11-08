@@ -584,122 +584,162 @@ segments:
     kind: body
     source: |-
       It is hard to understand what is not alive in this system. Therefore, acting in a non-harmful way is close to non-acting. In practice, while the lay community should avoid harming the beings with two or more senses, the monastic community is supposed to also avoid harming the one-sensed beings. With such a norm of action, monks and nuns cannot cook, nor perform a range of acts necessary for their survival. From this, a system of redistribution of merit and demerit is developed for the lay people, who perform some violent acts for their survival, but are redeemed in providing the means to live to the monastic community.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在这一体系中，何者非生殊难理解。因此，以不害的方式行事，近于无所作为。实践中，在家信众须避免伤害具两种或更多感官的有情，而出家众则还须避免伤害一感官的有情。按这样的行为规范，比丘与比丘尼不能烹饪，也不能做一系列维生所必需的事。由此发展出一套福德与过恶的再分配系统：在家者为了生存而行某些暴力之事，但以供养出家众生活之资而得赎。
+    step2: |-
+      在这一体系中，何者非生殊难理解。因此，以不害的方式行事，近于无所作为。在实践上，在家信众须避免伤害具两种或更多感官的有情；出家众则还须避免伤害一感官的有情。按这样的行为规范，比丘与比丘尼不能烹饪，也不能做一系列维生所必需之事。由此发展出一套福德与过恶的再分配系统：在家者为生存而行某些暴力之事，却以供养出家众生活之资而得赎。
   - id: 62
     kind: body
     source: |-
       ### 2.4 Of self and karma: which type of dualism for the Jaina philosopher
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.4 关于自我与业：耆那教哲学家的是何种二元论
+    step2: |-
+      ### 2.4 关于自我与业：耆那教哲学家持何种二元论
   - id: 63
     kind: body
     source: |-
       Each self is eternal and, as such, it has no beginning nor end. At the same time, each self is constantly experiencing change, because it is essentially active. This is a core teaching of Jainism to which we will come back in the section 3.4 on epistemology, namely, that every existing thing is at the same time persistent and changing (Bajželj 2013)[^bajželj-2013]. This is one of the doctrinal points that prompted Jaina thinkers to speak in terms of many-sided objects of knowledge.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      每个自我都是永恒的，因此既无开端也无终结。同时，每个自我都在不断地经验变化，因为它本质上是能动的。这是耆那教的一项核心教义——我们将在第 3.4 节论知识论时再回来讨论——即：每一存在物都同时是持存而又变化的（Bajželj 2013）[^bajželj-2013]。这正是促使耆那教思想家以“多面对象”来谈论知识对象的教义要点之一。
+    step2: |-
+      每个自我都是永恒的，因此既无开端、也无终结。同时，每个自我都在不断经验变化，因为它本质上是能动的。这是耆那教的一项核心教义——本书第 3.4 节论知识论时还会回来讨论——即：每一存在物都同时既持存又变化（Bajželj 2013）[^bajželj-2013]。这正是促使耆那教思想家以“多面”方式谈论知识对象的教义要点之一。
   - id: 64
     kind: body
     source: |-
       Now, this means that even the omniscient one who fully manifests the qualities of consciousness still has modal variations on its consciousness, like momentary and innately arising modes of absolute knowledge and of absolute perception that continuously succeed to one another being qualitatively identical, just as the innately produced modes of time are qualitatively identical to one another (Bajželj 2018)[^bajželj-2018].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      而这意味着：即便是完全显现意识诸性质的遍知者，其意识仍有样态上的变易，例如绝对之知与绝对知觉的刹那生起、本然生起之样态，在质的方面彼此相同而前后相续——正如本然产生的时间样态在质的方面彼此相同（Bajželj 2018）[^bajželj-2018]。
+    step2: |-
+      这意味着：即便完全显现意识诸性质的遍知者，其意识仍有样态上的变易——绝对之知与绝对知觉的刹那生起、本然生起之样态，在质上彼此相同而前后相续；正如本然产生的时间样态在质上彼此相同（Bajželj 2018）[^bajželj-2018]。
   - id: 65
     kind: body
     source: |-
       Besides, this also means that contrarily to the Sāṃkhya view, modifications are not only in the realm of matter. Selves also are experiencing states.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，这也意味着：与数论观点相反，变易并非只存在于质料领域。自我也在经验着种种状态。
+    step2: |-
+      此外，这也意味着：与数论的观点相反，变易并非只发生在质料领域；自我也在经验着种种状态。
   - id: 66
     kind: body
     source: |-
       But this, in turns, entails that a change happens both at the level of matter and at the radically distinct level of selves. A phenomenon that helps us understand how this works in the Jaina view is the functioning of “life karma”. First, death is not an end, but a reappraisal of the entanglement of one self with matter, regulated by karma. The fact that the life karma decides the duration of one’s life means nothing less that when one dies, say, because of a car accident, these external forces are only the material cause of the death of the embodied self, while the fruition of her life karma is the efficient cause of her death. In such a conception, death happens as the fruit of the actions that one has herself performed in a previous life.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但这又意味着，变化既发生在质料层面，也发生在截然有别的自我层面。有助于理解耆那教观点中这一机制的现象，是“寿业”的运作。首先，死亡不是终结，而是对某一自我与质料之纠缠的一次重新评估，由业来调控。寿业决定一己生命的时长这一事实，其含义无非是：当一个人死去——比方说死于车祸——这些外力只是具身自我之死的质料因，而其寿业之成熟才是其死的效力因。在这样的构想中，死亡作为一个人前世自身所行之业的果实而发生。
+    step2: |-
+      但这又意味着，变化既发生在质料层面，也发生在截然有别的自我层面。有助于理解耆那教这一机制的现象，是“寿业”的运作。首先，死亡不是终结，而是对某一自我与质料之纠缠的重新评估，由业调控。寿业决定一己生命之时长，其含义无非是：当一个人死去——比方说死于车祸——这些外力只是具身自我之死的质料因，而其寿业之成熟才是其死的效力因。按这一构想，死亡作为一个人前世自身所行之业的果实而发生。
   - id: 67
     kind: body
     source: |-
       Before we continue, it is worthy to note that one’s acts do not genuinely determine the moment of one’s death in this life, but in the next one. Besides, when death happens, the most recent volitional activities have an impact. All in all, one’s very last breath can influence the specific outcome of the determination of the life karma for one’s next life. This is what explains that the Jains seek a good death. Such a good death is a death without strong volitions, free from fears and desires. This, in turn, is what explains the popularity of the ritual fast to death, called “*sallekhana*”, and that has caused some legal and cultural turmoil in recent years.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在继续之前，值得指出：一己的行为并不真正决定今生死亡之时刻，而是决定下一世的。此外，死亡发生时，最近的那些意志活动会有影响。总而言之，人的最后一口气能影响其下一世寿业决定的具体结果。这解释了耆那教徒何以追求“好死”。所谓好死，是无强烈意志、免于恐惧与欲望之死。这又解释了仪式性绝食而死——称为 *sallekhana*——何以流行，而这在近年来引发了一些法律与文化上的骚动。
+    step2: |-
+      在继续之前值得指出：一己之行为并不真正决定今生死亡之时刻，而是决定下一世的。此外，死亡发生之际，最近那些意志活动会有影响。总而言之，人的最后一口气能影响下一世寿业之决定的具体结果。这解释了耆那教徒何以追求“好死”：所谓好死，是无强烈意志、免于恐惧与欲望之死。这又解释了仪式性绝食而死（*sallekhana*）何以流行——而此事近年来引发了一些法律与文化上的骚动。
   - id: 68
     kind: body
     source: |-
       Second, since everything is already determined at the moment of death, one’s transition from death to the being in a womb or other type of new type of life is considered instantaneous, there is no waiting period, since everything is already decided.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二，既然一切在死亡的那一刻都已确定，人从死亡到入胎或转为其他新生类型的过渡，便被认为是瞬时的：没有等待期，因为一切已定。
+    step2: |-
+      第二，既然一切在死亡那一刻都已确定，人从死亡到入胎、或转为别的生命类型的过渡，便被认为是瞬时的：没有等待期，因为一切已定。
   - id: 69
     kind: body
     source: |-
       To come back to our main discussion, and try to understand how one’s acts in the previous life also engender a duration determination for this experience, a parallel with the process of sedimentation is helpful. Take a muddy water, leave it without any movement for a sufficient amount of time, and the different types of substances involved in this mixture will separate, the more gross particles being at the bottom. In this process, time differs for each mixture, since the speed of the disentanglement depends upon the nature of the substances involved. The same phenomenon happens with the self and its bodies, since their type of entanglement in the previous life mechanically has an effect on the lapse of time that the next entanglement will last. And this has nothing to do with a deserved punishment after some fault, nor with a deserved reward after some good deed. This has to do with the laws of physics. In the *Treatise on What There Is*, we can find calculations such as this one:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      回到我们的主题：要理解一个人前世的行为如何也为这一经验产生时长上的决定，与沉淀过程作类比是有帮助的。取一杯泥水，静置足够长的时间，这一混合物中不同种类的物质便会分离，较粗的微粒沉在底部。在此过程中，每一混合物的时间各不相同，因为解开的快慢取决于所涉物质的本性。自我与其诸身体也是如此：它们在前世的那种纠缠方式，会机械地影响下一次纠缠所持续的时长。而这与过失之后应得的惩罚无关，也与善行之后应得的奖赏无关。这与物理法则有关。在《论存在者》中，可以找到这样的计算：
+    step2: |-
+      回到正题：要理解一个人前世的行为如何也为这一段经验定下时长，与沉淀过程相类比是有帮助的。取一杯泥水，静置足够长时间，混合物中不同种类的物质便会分离，较粗的微粒沉在底部。在此过程中，每一混合物所需时间各不相同，因为解开的快慢取决于所涉物质的本性。自我与其诸身体亦然：它们在浊世中那种纠缠方式，会机械地影响下一次纠缠所持续之时长。这既与过失之后应得的惩罚无关，也与善行之后应得的奖赏无关——它与物理法则有关。在《论存在者》中，可以找到这样的计算：
   - id: 70
     kind: body
     source: |-
       > - TS 8.15. Bondage to life karma lasts up to thirty-three ocean-measured periods (that is, 1/3 × 8,400,00 × 8,400,00 × 10⁷ years).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > - TS 8.15. 寿业之系缚最长持续三十三个海洋计量劫（即 1/3 × 8,400,00 × 8,400,00 × 10⁷ 年）。
+    step2: |-
+      > - TS 8.15. 寿业之系缚最长持续三十三个海洋计量劫（即 1/3 × 8,400,00 × 8,400,00 × 10⁷ 年）。
   - id: 71
     kind: body
     source: |-
       With the sedimentation metaphor, it is still not clear why the efficient cause of death, the exhaustion of one’s life force, is not enough, and why material factors are here also needed. This cannot mean that Jainism is a type of occasionalism, since originated aggregates are efficient causes in their own realm. But at least, such a conception is only possible if one conceives the world as a rational whole in which things make sense together, even though only the omniscient ones can experience that.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      借助沉淀的比喻，仍不清楚为何作为死亡的效力因，一己生命力的耗尽还不够，为何在这里还需质料因素。这不可能意味着耆那教是一种偶因论，因为所生成的聚集体在其自身领域内就是效力因。但至少，这样的构想只有当我们把世界构想为一个理性的整体、其中诸物彼此相宜时才有可能——尽管唯有遍知者才能经验到这一点。
+    step2: |-
+      借助沉淀的比喻，仍不清楚的是：作为死亡的效力因，一己生命力之耗尽为何还不足够，为何在此还需质料因素。这不可能意味着耆那教是一种偶因论，因为所生成聚集体在其自身领域内就是效力因。但至少，这样的构想只有当我们把世界构想为一个理性整体、其中诸物彼此相宜时才有可能——尽管唯有遍知者才能经验到这一点。
   - id: 72
     kind: body
     source: |-
       The beginning of an answer to this question can be found in a second tradition, next to that of the *Treatise on What There Is*. This tradition is that of Kundakunda. “Kundakunda” is actually not a single author, but the name that stands for the collective authorship of a Jaina textual tradition composed in Prakrit (Jaina Śaurasenī) between the third and the eighth centuries CE around Karnataka in the South of India (Balcerowicz 2017)[^balcerowicz-2017]. Kundakunda’s textual tradition is as influent as the TS, and is regularly revered as sacred texts in Jaina temples. This textual tradition represents within Jainism a movement focused on the self, in which the religious practice that matters is the inward experience that is self-knowledge. The central teaching of Kundakunda in his *Essence of the self* (*Samayasāra* [SSā]) is that karmic matter is never genuinely mixed with the self. Therefore, it is close to Sāṃkhya conceptions, while keeping the Jaina specificity of an essentially active self (Bronkhorst 2010)[^bronkhorst-2010]. There, the self is modified by modifications of consciousness (*adhyavasāna*) and by states (*bhāva*). However, it is possible to distinguish between different types of activities, some of them not bringing about karmic retribution. And this is exactly Kundakunda’s move when he redefines the self as not the agent of what happens in the material world of karma. For him, the self is active only in its own domain. Concretely, the self is the material cause only of the modifications of consciousness, while karmic matter is the indirect instrumental cause of wrong modifications of it. In turn, the self is the indirect instrumental cause of karmic modifications, but only as a king indirectly causes the virtue in his subjects when he acts in a virtuous way and is taken as a model.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这个问题之答案的开端，可见于《论存在者》之外的另一传统，即昆达昆达（Kundakunda）的传统。“昆达昆达”其实并非单一作者，而是一个集体作者之名，代表一种以普拉克里特语（耆那绍拉塞尼语）写成的耆那教文本传统，于公元 3 至 8 世纪间围绕南印度卡纳塔克地区形成（Balcerowicz 2017）[^balcerowicz-2017]。昆达昆达的文本传统与 TS 同样有影响，且常在耆那教寺庙中被尊为圣典。这一文本传统在耆那教内部代表一场聚焦于自我的运动，其中要紧的宗教实践是自我认识这一内在经验。昆达昆达在《自我之精髓》（*Samayasāra*［SSā］）中的核心教导是：业质从未真正与自我相混。因此它接近数论构想，同时保留耆那教“自我本质能动”的特质（Bronkhorst 2010）[^bronkhorst-2010]。在此，自我受意识之变易（*adhyavasāna*）与诸状态（*bhāva*）所改变。然而，可以区分不同种类的活动，其中有些并不招致业的报应。昆达昆达的举措恰在此：他把自我重新定义为并非质料性的业世界中发生之事的行为者。在他看来，自我只在其自身领域中能动。具体说，自我只是意识变易的质料因，而业质则是其错误变易的间接工具因。反过来，自我是业之变易的间接工具因，但仅如一位国王：当他以合德方式行事而被当作楷模时，便间接地促成其臣民之德。
+    step2: |-
+      这一问题之答案的开端，可见于《论存在者》之外的另一传统，即昆达昆达（Kundakunda）的传统。“昆达昆达”其实并非单一作者，而是一个集体作者之名，代表一种以普拉克里特语（耆那绍拉塞尼语）写成的耆那教文本传统，于公元 3 至 8 世纪间围绕南印度卡纳塔克地区形成（Balcerowicz 2017）[^balcerowicz-2017]。昆达昆达的文本传统与 TS 同样有影响，且常在耆那教寺庙中被尊为圣典。这一传统在耆那教内部代表一场聚焦于自我的运动：其中要紧的宗教实践，是自我认识这一内在经验。昆达昆达在《自我之精髓》（*Samayasāra*［SSā］）中的核心教导是：业质从未真正与自我相混。因此它接近数论的构想，同时保留耆那教“自我本质能动”的特质（Bronkhorst 2010）[^bronkhorst-2010]。在此，自我受意识之变易（*adhyavasāna*）与诸状态（*bhāva*）所改变。然而，可以区分不同种类的活动，其中有些并不招致业的报应。昆达昆达的举措恰在此：他把自我重新定义为并非质料性的业世界中发生之事的行为者。在他看来，自我只在其自身领域中能动。具体说，自我只是意识变易的质料因；业质则是其错误变易的间接工具因。反过来，自我是业之变易的间接工具因，但仅如一位国王：当他以合德的方式行事而被当作楷模时，便间接促成其臣民之德。
   - id: 73
     kind: body
     source: |-
       To summarize, we have seen in the *Treatise on What There Is* that karmic matter and the self intermingle in the same way some liquids do, since their respective nature is not modified by this mixture and can get separated. Indeed, in muddy water, water actually stays water; while sedimentary dust actually stays sedimentary dust. Then, we have seen that in the *Essence of the self*, the association between the self and karmic matter can be though of in terms of kings acting as models. Another metaphor is that of a mirror-like crystal: if a flower reflected in a crystal is red, we see the crystal as if it was red, while it is not. Likewise, the self sees attachment and wrong notions superposed with it, not being it. All in all, in both textual lineages, what really matters is that the two—self and karmic matter—keep their essential distinct natures. Besides, the world is a whole in which things are mechanically combined together. Even though the types of substances are radically separated, they co-exist within the same conditions and so they experience synchronized modifications (Gorisse 2019)[^gorisse-2019].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      总结一下：我们在《论存在者》中看到，业质与自我如同某些液体那样相互掺杂，因为二者各自的本性并不因此混合而改变，且可以分离。确实，在泥水中，水实际仍是水；而沉积的尘土实际仍是尘土。随后我们看到，在《自我之精髓》中，自我与业质之间的结合可以用作楷模的国王来设想。另一个比喻是镜面般的水晶：若映在水晶中的花是红色的，我们看水晶便仿佛它是红的，而它其实不是。同样，自我看到染执与错误观念叠加在其上，却并非其自身。总而言之，在两个文本谱系中，真正要紧的是：自我与业质二者各自保持其本质的独特性。此外，世界是一个诸物机械地结合在一起的整全。即便诸实体类型截然分离，它们仍在相同条件下共存，从而经验同步的变易（Gorisse 2019）[^gorisse-2019]。
+    step2: |-
+      总结如下：在《论存在者》中我们看到，业质与自我如某些液体那样相互掺杂——二者本性并不因这混合而改变，且可以分离。确实，泥水中的水实际仍是水，沉积的尘土实际仍是尘土。随后我们看到，在《自我之精髓》中，自我与业质的结合可以用作楷模的国王来设想。另一个比喻是镜面般的水晶：若映在水晶中的花是红色的，我们看水晶便仿佛它是红的，而它其实不是。同样，自我看到染执与错误观念叠加在其上，却并非其自身。总而言之，在两个文本谱系中，真正要紧的是：自我与业质各自保持其本质的独特性。此外，世界是一个诸物机械结合的整全：即便诸实体类型截然分离，它们仍在相同条件下共存，从而经验同步的变易（Gorisse 2019）[^gorisse-2019]。
   - id: 74
     kind: body
     source: |-
       ### 2.5 The universe as seen by the omniscient ones
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.5 遍知者所见的宇宙
+    step2: |-
+      ### 2.5 遍知者所见的宇宙
   - id: 75
     kind: body
     source: |-
       Furthermore, Jaina authors believe that the life of the universe is a process without beginning nor end, that passes through an ongoing series of cosmic cycles, each of which is billions of years in duration. The question of an origin and end of the universe does not arise, since the latter is eternal. What matters is the transition between two types of periods. The universe goes through a series of cycles, each of which lasts several billion years. The wheel of time experiences one descending cycle, which passes through six periods during which prosperity, happiness, and morality decline; and one ascending cycle, which passes through six periods during which prosperity, happiness, and morality increase. These periods are characterized by the possibility—respectively the impossibility—of individual liberation while they happen. Indeed, on one hand, it takes a minimum of suffering to want to engage in the path of liberation. and on the other hand, serenity must be sufficiently accessible to be able to properly engage in ascetic practices. On the day when Kṛṣṇa left the earth, in the third millennium BCE, after the great battle described in the *Great [Epic of the Dynasty] of the Bhāratas* (*Mahābhārata*), we entered into the fifth descending period of the cycle. It is therefore expected that things will go from bad to worse in our world for a few millennia before they get better again. This means that it is no longer possible to achieve enlightenment in the current period, because the world order is too unstable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，耆那教作者相信，宇宙的生命是一个无始无终的过程，历经一连串宇宙周期，每一周期长达数十亿年。宇宙的起源与终结问题不会发生，因为它是永恒的。要紧的是两类时期之间的过渡。宇宙经历一系列周期，每一周期持续数十亿年。时间之轮经历一个下降周期——其间历经六个时期，繁荣、幸福与道德递降；以及一个上升周期——其间历经六个时期，繁荣、幸福与道德递升。这些时期的特征，是其间个体解脱之可能或不可能。确实，一方面，需要起码的苦，人才会想走上解脱之路；另一方面，安宁须足够可得，人才能够恰当地从事苦行。公元前三千年，黑天（Kṛṣṇa）在《婆罗多族大战史诗》（*Mahābhārata*）所描述的大战之后离开大地之日，我们便进入了这一周期的第五个下降期。因此可以预期，我们的世界在数千年间将每况愈下，然后才会好转。这意味着，在当前时期已不可能成就觉悟，因为世界秩序过于不稳。
+    step2: |-
+      此外，耆那教作者相信：宇宙的生命是一个无始无终的过程，历经一连串宇宙周期，每一周期长达数十亿年。宇宙的起源与终结问题不会发生，因为它是永恒的。要紧的是两类时期之间的过渡。宇宙经历一系列周期，每一周期持续数十亿年。时间之轮经历一个下降周期——其间历六个时期，繁荣、幸福与道德递降；以及一个上升周期——其间历六个时期，繁荣、幸福与道德递升。这些时期的特征，是其间个体解脱之可能或不可能。确实，一方面，需要起码的苦，人才会想走上解脱之路；另一方面，安宁须足够可得，人才能够恰当地从事苦行。公元前三千年，黑天（Kṛṣṇa）在《婆罗多族大战史诗》（*Mahābhārata*）所描述的大战之后离开大地之日，我们便进入了这一周期的第五个下降期。因此可以预期：我们的世界在数千年间将每况愈下，然后才会好转。这意味着，当前时期已不可能成就觉悟——因为世界秩序过于不稳。
   - id: 76
     kind: body
     source: |-
       We started this entry by stating that the Jains are those who consider that the teachings of the omniscient Jinas are the expression of the eternal essential nature of the universe, and that the only extant teaching is that of Mahāvīra “the Great Hero” (traditional dates 599–527/510 BCE), the twenty-fourth and last Jina of the current cosmic period. Mahāvīra is an older contemporary of the Buddha and has a biography very close to that of the latter. Notably, he left his royal family, became an ascetic and founded a community made of mendicant ascetics and lay followers. One notable difference being that he follows a tradition that was existing long before him.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本词条开篇即说：耆那教徒认为全知耆那们的教法是宇宙永恒本质的表达，而现存唯一的教法出自“大英雄”大雄（传统纪年公元前 599–527/510 年），他是当前宇宙周期的第二十四位、也是最后一位耆那。大雄是佛陀的同时代人而年长于佛陀，其传记与后者极为相近。值得注意的是，他离开王室、成为苦行者，并创立了一个由乞食苦行者与在家信众组成的团体。一个显著的不同在于：他所遵循的传统，远在他之前就已存在。
+    step2: |-
+      本词条开篇即说：耆那教徒认为全知耆那们的教法是宇宙永恒本质之表达；现存唯一的教法出自“大英雄”大雄（传统纪年公元前 599–527/510 年），他是当前宇宙周期第二十四位、也是最后一位耆那。大雄与佛陀同时而年长，其传记与后者极为相近：他离开王室、成为苦行者，并创立了一个由乞食苦行者与在家信众组成的团体。显著的不同在于：他所遵循的传统，远在他之前就已存在。
   - id: 77
     kind: body
     source: |-
       So, at every cosmic cycle, the doctrine is taught by 24 such omniscient Jinas. These are also called “*tīrthaṅkara*” (ford makers). Since Vedic times, a *tīrtha* refers to holy spots in shallow waters, where people perform acts of devotion, especially bathing, which is considered as purifying sins. These shallow waters can also be a crossing place symbolizing the junction between mundane world and sacred realm. In this line, a *tīrthaṅkara* is a spiritual pioneer able to cross beyond the perpetual flow of earthly life and, as such, he or she (they do not have a sexual identity at this stage) acts as a model mediating the passage between a mundane state of our selves and a state of unobstructed consciousness in act. It is important to notice that these liberated beings know all, but are by essence unable to influence the course of action of the world, since they do not have intentions and that they are radically isolated from anything else.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，每一宇宙周期，教法都由二十四位这样的全知耆那宣说。他们也被称为“*tīrthaṅkara*”（造渡者）。自吠陀时代以来，*tīrtha* 指浅水中的圣地，人们在那里行虔敬之事，尤其是沐浴，被认为能洗净罪业。这些浅水也可以是渡口，象征世俗世界与神圣领域的交接。循此，*tīrthaṅkara* 是能渡越尘世生活永流的灵性先驱；作为这样的人，他或她（在此阶段他们并无性别身份）充当楷模，中介于我们诸自我的世俗状态与行动中的无碍意识状态之间。须注意：这些解脱者无所不知，却本质上无法影响世界的行动进程，因为他们没有意图，且与任何其他事物彻底隔绝。
+    step2: |-
+      因此，每一宇宙周期，教法都由二十四位这样的全知耆那宣说。他们也称为“*tīrthaṅkara*”（造渡者）。自吠陀时代以来，*tīrtha* 指浅水中的圣地：人们在那里行虔敬之事，尤其沐浴，被认为能洗净罪业。这些浅水也可以是渡口，象征世俗世界与神圣领域之交接。循此，*tīrthaṅkara* 是能渡越尘世生活永流之灵性先驱；作为这样的人，他或她（在此阶段并无性别身份）充当楷模，中介于我们诸自我的世俗状态与行动中的无碍意识状态之间。须注意：这些解脱者无所不知，却本质上无法影响世界之行动进程——因为他们没有意图，且与任何其他事物彻底隔绝。
   - id: 78
     kind: body
     source: |-
       Besides, after Mahāvīra’s liberation, liberation is not possible anymore in our realm for cosmic reasons. However, there are other realms, in which gods and demons notably live. Jainas have developed a complex model of the universe (Dundas 2005)[^dundas-2005]. Canonical literature (3ʳᵈ century BCE—6ᵗʰ century CE) already includes description of the universe, but it is between the 3ʳᵈ and the 13ᵗʰ centuries CE that specialized texts specifically dedicated to cosmography are composed, amongst them, the influential *Compendium of Middle Earth* (*Jambūdvīpasaṃgrahaṇī* [JDS]) of Haribhadra Sūri (770 CE). There, the universe is described as being constituted of two parts. On one hand, the world (*loka*), extremely vast, but finite, is occupied by living beings and by things; on the other hand, the rest (*aloka*) surrounds the world with its infinite and empty space.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，大雄解脱之后，出于宇宙论的理由，我们的领域中再不可能有解脱。然而另有别的领域，诸神与魔类尤其居于其中。耆那教徒发展出一套复杂的宇宙模型（Dundas 2005）[^dundas-2005]。正典文献（公元前 3 世纪—公元 6 世纪）已含宇宙的描述，但专论宇宙志的专门文本写于公元 3 至 13 世纪之间，其中包括诃梨跋陀罗（Haribhadra Sūri，公元 770 年）颇有影响的《中土集》（*Jambūdvīpasaṃgrahaṇī*［JDS］）。在那里，宇宙被描述为由两部分构成：一方面是极广袤却有限的世界（*loka*），为有情与诸物所占据；另一方面是其余（*aloka*），以无限而空虚的空间环绕世界。
+    step2: |-
+      此外，大雄解脱之后，出于宇宙论的理由，我们的领域再不可能有解脱。然而另有别的领域，诸神与魔类尤其居于其中。耆那教徒发展出一套复杂的宇宙模型（Dundas 2005）[^dundas-2005]。正典文献（公元前 3 世纪—公元 6 世纪）已含宇宙之描述，但专论宇宙志的专门文本写于公元 3 至 13 世纪之间，其中包括诃梨跋陀罗（Haribhadra Sūri，公元 770 年）颇有影响的《中土集》（*Jambūdvīpasaṃgrahaṇī*［JDS］）。在那里，宇宙被描述为由两部分构成：一方面是极广袤却有限的世界（*loka*），为有情与诸物所占据；另一方面是其余（*aloka*），以无限而空虚的空间环绕世界。
   - id: 79
     kind: body
     source: |-
       The inhabited world is made of a succession of island-continents, oceans, hells and paradises. It measures the distance traveled by a god who flies for six months at a speed of sixteen million kilometers per second. In this world, human beings live only in Middle-earth, also called the Island-Continent of the Rose Apple Tree (*Jambūdvīpa*). Middle Earth is, as its name suggests, central. Its surface is extremely small compared to the rest of the world. The different parts of the universe are defined in relation to the possibility—respectively the impossibility—of liberation therein and the region of Middle Earth is the only region from which it is possible to achieve liberation. Such a representation is conducive to remember the rare and central character of human birth, which alone can lead to liberation. Moreover, the extent and complexity of the whole is a constant reminder of the skills of the omniscient Jinas who were able to teach such a system.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所居世界由一连串岛屿大陆、海洋、地狱与天堂构成。它的尺度，等于一位神以每秒一千六百万公里的速度飞行六个月所经的距离。在这个世界中，人只住在中土，又称玫瑰苹果树岛洲（*Jambūdvīpa*）。中土顾名思义居于中央，其表面与世界其余部分相比极小。宇宙各部分的界定，与其中解脱之可能或不可能相关；而中土是唯一可能达成解脱的区域。这样的图景有助于记住人身的稀有与中心地位——唯有人身能导向解脱。此外，整个图景的广袤与复杂，时时提醒人：能宣说这样一套体系的遍知耆那们是何等技艺高超。
+    step2: |-
+      所居世界由一连串岛屿大陆、海洋、地狱与天堂构成。它的尺度，等于一位神以每秒一千六百万公里的速度飞行六个月所经的距离。在这个世界中，人只住在中土，又称玫瑰苹果树岛洲（*Jambūdvīpa*）。中土顾名思义居于中央，其表面与世界其余部分相比极小。宇宙各部分的界定，与其中解脱之可能或不可能相关；而中土是唯一可能达成解脱的区域。这样的图景有助于记住人身之稀有与中心地位——唯有人身能导向解脱。此外，整个图景的广袤与复杂，时时提醒人：能宣说这样一套体系的遍知耆那们是何等技艺高超。
   - id: 80
     kind: body
     source: |-
       Around the 16ᵗʰ c., the world is presented in the form of a human being, thus emphasizing the similarities between the structure of the world and the inner struggle faced by each individual. Moreover, the extremely detailed depiction of the world provides a backdrop, both for the initiation tales of pious Jains found in narrative literature, and for meditative practices, some of which involve the contemplation of a holy object. Ultimately, the precision with which the authors describe the world allowed Jainism to stand out more clearly from other worldviews. Indeed, only the values of Jainism prevail in these descriptions of the universe. In this sense, the universe thus represented becomes an emblem of religious identity, as well as a guide to religious practice, because, above all else, the Jaina world is the abode of beings on the path of liberation (Dundas 2005)[^dundas-2005].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      约在十六世纪，世界被呈现为一个人的形状，从而强调世界结构与每个人所面对的内在斗争之间的相似。此外，对世界极其细致的描绘，为叙事文学中虔信耆那教徒的入门故事、也为某些涉及观想圣物的禅修实践，提供了背景。归根结底，作者们描述世界的精确，使耆那教得以更清楚地与其他世界观区别开来：确实，在这些宇宙描述中，唯有耆那教的价值观占据主导。在这个意义上，如此被表现的宇宙成为宗教认同的徽记，也成为宗教实践的指南——因为，首先，耆那教的世界是走在解脱之路上诸有情的居所（Dundas 2005）[^dundas-2005]。
+    step2: |-
+      约在十六世纪，世界被呈现为一个人的形状，从而强调世界结构与每个人所面对的内在斗争之间的相似。此外，对世界极其细致的描绘，为叙事文学中虔信耆那教徒的入门故事、也为某些涉及观想圣物的禅修实践，提供了背景。归根结底，作者们描述世界之精确，使耆那教得以更清楚地与其他世界观区别开来：在这些宇宙描述中，唯有耆那教的价值观占据主导。在这个意义上，如此被表现的宇宙成为宗教认同的徽记，也成为宗教实践之指南——因为首要的是：耆那教的世界，是走在解脱之路上诸有情的居所（Dundas 2005）[^dundas-2005]。
   - id: 81
     kind: body
     source: |-
