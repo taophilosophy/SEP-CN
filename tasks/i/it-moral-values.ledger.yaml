@@ -640,74 +640,122 @@ segments:
     kind: body
     source: |-
       In the case of Facebook, we can see that some of the warnings of the critics were prescient. In April 2018, Mark Zuckerberg was called before Congress where he apologized for the actions of his corporation in a scandal that involved divulging a treasure trove of information about his users to an independent researcher, who then sold it to Cambridge Analytica, which was a company involved in political data analysis. This data was then used to target political ads to the users of Facebook. Many of these were fake ads created by Russian intelligence to disrupt the US election in 2016 (Au-Yeung, 2018).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      就脸书而言，批评者的若干警告可谓有先见之明。2018 年 4 月，马克·扎克伯格被召至国会，为公司的行为道歉：一桩丑闻中，海量的用户信息被泄露给一位独立研究员，后者又把它卖给了从事政治数据分析的剑桥分析公司（Cambridge Analytica）。这些数据随后被用来向脸书用户定向投放政治广告，其中许多是俄罗斯情报机构为搅乱 2016 年美国大选而炮制的假广告（Au-Yeung, 2018）。
+
+    step2: |-
+      脸书这桩案子印证了批评家的先见。2018 年 4 月，马克·扎克伯格被召到国会作证，为公司的所作所为道歉：一桩丑闻里，一座关于其用户的资讯宝库被透露给一位独立研究员，研究员转手卖给剑桥分析公司（Cambridge Analytica）——一家做政治数据分析的公司。这批数据随即用于向脸书用户定向投放政治广告，其中不少假广告，出自俄罗斯情报机构之手，为的是搅浑 2016 年的美国大选（Au-Yeung, 2018）。
+
   - id: 64
     kind: body
     source: |-
       The philosopher Shannon Vallor critiques the cult of transparency as a version of what she calls the “Technological Transparency Paradox” (Vallor, 2016). She notes that those in favor of developing technologies to promote radically transparent societies do so under the premise that this openness will increase accountability and democratic ideals. But the paradox is that this cult of transparency often achieves just the opposite with largely unaccountable organizations that are not democratically chosen holding information that can be used to weaken democratic societies. This is due to the asymmetrical relationship between the user and the companies with whom she shares all the data of her life. The user is, indeed radically open and transparent to the company, but the algorithms used to mine the data and the identity of third parties that this data is shared with is opaque and not subject to accountability. We, the users of these technologies, are forced to be transparent but the companies profiting off our information are not required to be equally transparent.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      哲学家香农·瓦洛尔批评透明崇拜，视之为她所谓“技术透明性悖论”的一个版本（Vallor, 2016）。她指出，支持开发技术以促成彻底透明社会的人，其前提是：这种开放将增进问责与民主理想。但悖论在于，这种透明崇拜往往恰恰达成相反的结果：几乎无须问责、也非民主遴选的组织，握着足以削弱民主社会的信息。症结在用户与公司之间不对称的关系——用户把自己生活的全部数据都交给了公司。用户对公司确实彻底开放、彻底透明；但用来开采数据的算法，以及数据共享给的第三方的身份，却是不透明的、不受问责的。我们这些技术的用户被迫透明，而靠我们的信息牟利的公司却无须同样透明。
+
+    step2: |-
+      哲学家香农·瓦洛尔把透明崇拜批作她所谓“技术透明性悖论”的一个变种（Vallor, 2016）。她指出：主张开发技术以推动彻底透明社会的人，立论的前提是这种开放能增进问责、光大民主理想。可悖论偏偏在此：透明崇拜时常落得个相反的结局——一群几乎无须问责、也非民选的组织，攥着足以削弱民主社会的信息。根子在用户与公司之间那道不对称：用户把自家生活的全部数据都交了出去。用户对公司确实敞得彻底、透得彻底；可用来掘取数据的算法，以及数据所共享的第三方的身份，偏偏一概黑箱、不受问责。我们这些用户被迫透明，靠我们的信息坐地生金的公司，却没人要求它们同样透明。
+
   - id: 65
     kind: body
     source: |-
       ### 3.3 Malware, Spyware, and Informational Warfare
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3 恶意软件、间谍软件与信息战
+
+    step2: |-
+      ### 3.3 恶意软件、间谍软件与信息战
+
   - id: 66
     kind: body
     source: |-
       Malware and computer virus threats continue to grow at an astonishing rate. Security industry professionals report that while certain types of malware attacks such as spam are falling out of fashion, newer types of attacks such as Ransomware and other methods focused on mobile computing devices, cryptocurrency, and the hacking of cloud computing infrastructure are on the rise outstripping any small relief seen in the slowing down of older forms of attack (Cisco Systems 2018; Kaspersky Lab 2017, Lewis 2018, Symantec 2018)[^cisco-2018][^kaspersky-2017][^lewis-2018][^symantec-2018]. What is clear is that this type of activity will be with us for the foreseeable future. In addition to the largely criminal activity of malware production, we must also consider the related but more morally ambiguous activities of hacking, hacktivism, commercial spyware, and informational warfare. Each of these topics has its own suite of subtle moral ambiguities. We will now explore some of them here.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      恶意软件与计算机病毒的威胁仍在以惊人的速度增长。安全行业专业人士报告说，虽然垃圾邮件这类恶意软件攻击正在失宠，但勒索软件等较新的攻击类型，以及盯上移动计算设备、加密货币与云计算基础设施入侵的手段正在上升，盖过了老式攻击放缓所带来的些许宽慰（Cisco Systems 2018; Kaspersky Lab 2017, Lewis 2018, Symantec 2018）[^cisco-2018][^kaspersky-2017][^lewis-2018][^symantec-2018]。可以确定的是，在可预见的未来，这类活动都将与我们同在。除了大体属于犯罪活动的恶意软件生产，我们还必须考虑相关的、但道德上更暧昧的活动：黑客行为、黑客行动主义、商业间谍软件与信息战。这些话题各自都有一套微妙的道德含混之处。现在就来探讨其中若干。
+
+    step2: |-
+      恶意软件与计算机病毒的威胁仍在以骇人的速度滋长。安全业内报告：垃圾邮件这类攻击虽已渐失时兴，勒索软件一类新式攻击，连同盯着移动设备、加密货币与云计算基础设施下手的种种手段，正节节攀升，老式攻击放缓带来的些许喘息，全被盖过（Cisco Systems 2018; Kaspersky Lab 2017, Lewis 2018, Symantec 2018）[^cisco-2018][^kaspersky-2017][^lewis-2018][^symantec-2018]。可以断言的是：可预见的将来，这类活动都会缠着我们不放。恶意软件的生产大体是犯罪勾当；除此之外，我们还须掂量几种相关而道德上更暧昧的活动——黑客行为、黑客行动主义、商业间谍软件、信息战。每个话题都自带一簇微妙的道德含混。此处择其若干，逐一探看。
+
   - id: 67
     kind: body
     source: |-
       While there may be wide agreement that the conscious spreading of malware is of questionable morality there is an interesting question as to the morality of malware protection and anti-virus software. With the rise in malicious software, there has been a corresponding growth in the security industry which is now a multibillion-dollar market. Even with all the money spent on security software, there seems to be no slowdown in virus production, in fact, quite the opposite has occurred. This raises an interesting business ethics concern; what value are customers receiving for their money from the security industry? The massive proliferation of malware has been shown to be largely beyond the ability of anti-virus software to completely mitigate. There is an important lag in the time between when a new piece of malware is detected by the security community and the eventual release of the security patch and malware removal tools.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      蓄意传播恶意软件在道德上成问题，这一点或许有广泛共识；但恶意软件防护与反病毒软件的道德性，却是个有意思的问题。恶意软件兴起，安全产业相应壮大，如今已是数十亿美元的市场。尽管在安全软件上花了大把的钱，病毒的生产似乎并无放缓，事实上恰恰相反。这就提出一个有趣的商业伦理关切：顾客花钱从安全产业那里买到了什么价值？恶意软件的大规模繁殖已被证明大体超出反病毒软件彻底缓解的能力。从安全社区侦测到一件新恶意软件，到安全补丁与清除工具最终发布，中间存在一个重要的时间差。
+
+    step2: |-
+      蓄意散播恶意软件，道德上站不住脚，这一点共识颇广；可恶意软件防护与反病毒软件本身道德与否，倒是个耐人寻味的问题。恶意软件兴起，安全产业随之水涨船高，如今已是百亿美元级的市场。钱花了一箩筐，病毒的产能却不见丝毫放缓——事实恰恰相反。由此逼出一个有趣的商业伦理问题：顾客掏出的真金白银，从安全产业换到了什么价值？事实证明：恶意软件铺天盖地的增殖，大体是反病毒软件无力彻底招架的。安全社区侦获一件新恶意软件，到安全补丁与清除工具最终面世，中间横着一段要紧的时间差。
+
   - id: 68
     kind: body
     source: |-
       > The anti-virus modus operandi of receiving a sample, analyzing the sample, adding detection for the sample, performing quality assurance, creating an update, and finally sending the update to their users leaves a huge window of opportunity for the adversary … even assuming that anti-virus users update regularly. (Aycock and Sullins 2010)[^aycock-2010][^sullins-2010]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 反病毒软件的惯常做法——接收样本、分析样本、为样本添加检测、执行质量保证、制作更新、最后把更新发给用户——给对手留出了巨大的机会窗口……即便假定反病毒用户定期更新。（Aycock and Sullins 2010）[^aycock-2010][^sullins-2010]
+
+    step2: |-
+      > 反病毒软件的一套操作——收样本、析样本、为样本添检测、做质量保证、出更新、最后把更新推给用户——给对手敞开了一扇大大的机会之窗……哪怕假定反病毒用户都定期更新。（Aycock and Sullins 2010）[^aycock-2010][^sullins-2010]
+
   - id: 69
     kind: body
     source: |-
       This lag is constantly exploited by malware producers and in this model, there is an ever-present security hole that is impossible to fill. Thus it is important that security professionals do not overstate their ability to protect systems, by the time a new malicious program is discovered and patched, it has already done significant damage and there is currently no way to stop this (Aycock and Sullins 2010)[^aycock-2010][^sullins-2010].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      恶意软件制作者时刻在利用这个时间差；在这个模式下，有一个永远存在、无法填补的安全漏洞。因此，安全专业人士不应夸大自己保护系统的能力：等到一件新的恶意程序被发现、被打上补丁，它已经造成了重大损害，而目前没有办法阻止这一切（Aycock and Sullins 2010）[^aycock-2010][^sullins-2010]。
+
+    step2: |-
+      这个时间差，恶意软件制作者无时无刻不在利用；在此模式下，安全漏洞永远都在，补不胜补。所以安全专家切忌夸口护得了系统周全：一件新的恶意程序被发现、被打上补丁之时，损害早已酿成，眼下还没有什么办法能拦住这一切（Aycock and Sullins 2010）[^aycock-2010][^sullins-2010]。
+
   - id: 70
     kind: body
     source: |-
       In the beginning of the web, most malware creation was motivated by hobbyists and amateurs, but this has changed and now much of this activity is criminal in nature (Cisco Systems 2018; Kaspersky Lab 2017, Lewis 2018, Symantec 2018)[^cisco-2018][^kaspersky-2017][^lewis-2018][^symantec-2018]. Aycock and Sullins (2010) argue that relying on a strong defense is not enough and the situation requires a counteroffensive reply as well and they propose an ethically motivated malware research and creation program. This is not an entirely new idea and it was originally suggested by the Computer Scientist George Ledin in his editorial for the *Communications of the ACM*, “Not Teaching Viruses and Worms is Harmful” (2005). This idea does run counter to the majority opinion regarding the ethics of learning and deploying malware. Many computer scientists and researchers in information ethics agree that all malware is unethical (Edgar 2003; Himma 2007a; Neumann 2004; Spafford 1992; Spinello 2001)[^edgar-2003][^himma-2007a][^neumann-2004][^spafford-1992][^spinello-2001]. According to Aycock and Sullins, these worries can be mitigated by open research into understanding how malware is created in order to better fight this threat (2010).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      万维网之初，恶意软件的创作多出于爱好者和业余玩家，但今非昔比，如今这类活动大多属犯罪性质（Cisco Systems 2018; Kaspersky Lab 2017, Lewis 2018, Symantec 2018）[^cisco-2018][^kaspersky-2017][^lewis-2018][^symantec-2018]。艾科克与萨林斯（2010）论证，仅靠坚固的防御并不够，局势还需要反攻式的回应；他们提出一项有伦理动机的恶意软件研究与创作计划。这不是全新的想法，最初由计算机科学家乔治·莱丁（George Ledin）在《ACM 通讯》（*Communications of the ACM*）的社论《不教病毒与蠕虫反而有害》（2005）中提出。这个想法确实与关于学习与部署恶意软件之伦理的主流意见相悖。许多计算机科学家与信息伦理研究者都同意，一切恶意软件皆不道德（Edgar 2003; Himma 2007a; Neumann 2004; Spafford 1992; Spinello 2001）[^edgar-2003][^himma-2007a][^neumann-2004][^spafford-1992][^spinello-2001]。照艾科克与萨林斯的说法，只要公开研究、弄清恶意软件如何被造出来以便更好地对抗这一威胁，这些担忧便可缓解（2010）。
+
+    step2: |-
+      万维网草创之时，写恶意软件的多是发烧友与业余玩家；时移世易，如今这类勾当多半已归入犯罪行当（Cisco Systems 2018; Kaspersky Lab 2017, Lewis 2018, Symantec 2018）[^cisco-2018][^kaspersky-2017][^lewis-2018][^symantec-2018]。艾科克与萨林斯（2010）论证：单靠严防死守不够，局面还需要反攻式的应手；两人遂提议一项带有伦理动机的恶意软件研究与创作计划。这并非石破天惊的新见，最初是计算机科学家乔治·莱丁（George Ledin）在《ACM 通讯》（*Communications of the ACM*）社论《不教病毒与蠕虫反而有害》（2005）里提出的。此论确实与学习、部署恶意软件之伦理的主流意见相抵。许多计算机科学家与信息伦理研究者都认定：一切恶意软件皆属不德（Edgar 2003; Himma 2007a; Neumann 2004; Spafford 1992; Spinello 2001）[^edgar-2003][^himma-2007a][^neumann-2004][^spafford-1992][^spinello-2001]。艾科克与萨林斯的答复是：公开研究、摸清恶意软件如何出炉，方能更好地对抗这一威胁；如此，上述忧虑可以缓解（2010）。
+
   - id: 71
     kind: body
     source: |-
       When malware and spyware is created by state actors, we enter the world of informational warfare and a new set of moral concerns. Every developed country in the world experiences daily cyber-attacks, with the major target being the United States which experienced a purported 1.8 billion attacks a month in 2010 (Lovely 2010)[^lovely-2010] and 80 billion malicious scans worldwide in 2017 (Lewis 2018)[^lewis-2018]. The majority of these attacks seem to be just probing for weaknesses but they can devastate a country’s internet such as the cyber-attacks on Estonia in 2007 and those in Georgia which occurred in 2008. While the Estonian and Georgian attacks were largely designed to obfuscate communication within the target countries more recently informational warfare has been used to facilitate remote sabotage. The famous Stuxnet virus used to attack Iranian nuclear centrifuges is perhaps the first example of weaponized software capable of creating remotely damaging physical facilities (Cisco Systems 2018)[^cisco-2018]. The coming decades will likely see many more cyber weapons deployed by state actors along well-known political fault lines such as those between Israel-America-Western Europe vs Iran, and America-Western Europe vs China (Kaspersky Lab 2018). The moral challenge here is to determine when these attacks are considered a severe enough challenge to the sovereignty of a nation to justify military reactions and to react in a justified and ethical manner to them (Arquilla 2010; Denning 2008, Kaspersky Lab 2018)[^arquilla-2010][^denning-2008].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当恶意软件与间谍软件由国家行为者制造时，我们便进入信息战的世界，一组新的道德关切随之而来。世界上每个发达国家每天都经历网络攻击，主要目标是美国：据报道，2010 年美国每月遭受 18 亿次攻击（Lovely 2010）[^lovely-2010]，2017 年全球有 800 亿次恶意扫描（Lewis 2018）[^lewis-2018]。这些攻击大多数似乎只是刺探弱点，但它们可以摧毁一国的互联网，例如 2007 年对爱沙尼亚的网络攻击和 2008 年格鲁吉亚遭受的攻击。爱沙尼亚与格鲁吉亚的攻击大体旨在扰乱目标国国内的通信，而近来信息战已被用于支持远程破坏。用于攻击伊朗核离心机的著名震网（Stuxnet）病毒，或许是能够远程破坏实体设施的武器化软件的首例（Cisco Systems 2018）[^cisco-2018]。未来几十年，国家行为者很可能沿着著名的政治断层线——如以色列-美国-西欧对伊朗、美国-西欧对中国——部署更多网络武器（Kaspersky Lab 2018）。这里的道德挑战在于：判定这些攻击何时构成对一国主权严重到足以证成军事反应的挑战，并以正当且合乎伦理的方式作出反应（Arquilla 2010; Denning 2008, Kaspersky Lab 2018）[^arquilla-2010][^denning-2008]。
+
+    step2: |-
+      恶意软件与间谍软件一旦出自国家行为者之手，我们便踏入信息战的世界，一整套新的道德关切接踵而至。世上每个发达国家天天都在挨网络攻击，头号目标是美国：据报道，2010 年美国每月遭袭 18 亿次（Lovely 2010）[^lovely-2010]，2017 年全球恶意扫描达 800 亿次（Lewis 2018）[^lewis-2018]。这些攻击多半只是探路摸底，却足以瘫掉一国的互联网——2007 年爱沙尼亚遭袭、2008 年格鲁吉亚遭袭，即是先例。爱、格两役大体只为搅乱目标国国内的通信；近年来，信息战已然用来策应远程破坏。攻击伊朗核离心机的著名震网（Stuxnet）病毒，大概是武器化软件得以远程损毁实体设施的第一例（Cisco Systems 2018）[^cisco-2018]。往后几十年，沿着熟知的政治断层线——以色列-美国-西欧对伊朗、美国-西欧对中国——国家行为者多半还会部署更多网络武器（Kaspersky Lab 2018）。这里的道德挑战是：判定这些攻击何时严重到足以撼动一国主权、从而证成军事反应，又该如何以正当而合乎伦理的方式应对（Arquilla 2010; Denning 2008, Kaspersky Lab 2018）[^arquilla-2010][^denning-2008]。
+
   - id: 72
     kind: body
     source: |-
       The primary moral challenge of informational warfare is determining how to use weaponized information technologies in a way that honors our commitments to just and legal warfare. Since warfare is already a morally questionable endeavor it would be preferable if information technologies could be leveraged to lessen violent combat. For instance, one might argue that the Stuxnet virus used undetected from 2005 to 2010 did damage to Iranian nuclear weapons programs that in generations before might have only been accomplished by an air raid or other kinetic military action that would have incurred significant civilian casualties—and that so far there have been no reported human casualties resulting from Stuxnet. Thus malware might lessen the amount of civilian casualties in conflict. The malware known as “Flame” is an interesting case of malware that evidence suggests was designed to aid in espionage. One might argue that more accurate information given to decision-makers during wartime should help them make better decisions on the battlefield. On the other hand, these new informational warfare capabilities might allow states to engage in continual low level conflict eschewing efforts for peacemaking which might require political compromise.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      信息战的首要道德挑战，是判定如何使用武器化的信息技术，方能不违我们对正义战争与合法战争的承诺。战争本就是道德上可疑的事业；倘若能借助信息技术减少暴力交战，那再好不过。比如有人会说：震网病毒自 2005 到 2010 年潜伏未被发现，它对伊朗核武器计划造成的破坏，若在前几代人的时代，恐怕只有空袭或其他动能军事行动才能达成，而那将造成可观的平民伤亡——且迄今为止，尚无震网造成人员伤亡的报告。如此说来，恶意软件或许能减少冲突中的平民伤亡。名为“火焰”（Flame）的恶意软件是个有趣的案例：有证据显示，它的设计目的是辅助间谍活动。有人或许会说，战时向决策者提供更准确的信息，应有助于他们在战场上做出更好的决定。但另一方面，这些新的信息战能力也可能让各国陷入持续的低位冲突，回避那些可能需要政治妥协的和平努力。
+
+    step2: |-
+      信息战头等的道德挑战，在于判定如何动用武器化的信息技术，才配得上我们对正义战争、合法战争的承诺。战争本就德性可疑；若能借信息技术让暴力交战减量，自然求之不得。比如有人会说：震网病毒 2005 至 2010 年间潜伏未破，它重创伊朗核武计划；这份破坏搁在前几代人的岁月里，恐怕非空袭或其他动能军事手段不能奏功，而那必然带来可观的平民伤亡——况且直到如今，震网还未见造成人员伤亡的报告。照此说来，恶意软件或能替冲突中的平民少添几条亡魂。名为“火焰”（Flame）的恶意软件是个有趣的案例：种种证据显示，其设计意在襄助间谍活动。或许有人会说：战时把更准的情报递到决策者手上，应能助其在战场上作出更佳决断。可是反过来，这些新的信息战能力，也可能让各国缠斗于没完没了的低烈度冲突，把那些需要政治妥协的和谈努力撇在一边。
+
   - id: 73
     kind: body
     source: |-
       ### 3.4 Future Concerns
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.4 未来的关切
+
+    step2: |-
+      ### 3.4 未来的关切
+
   - id: 74
     kind: body
     source: |-
       As was mentioned in the introduction above, information technologies are in a constant state of change and innovation. The internet technologies that have brought about so much social change were scarcely imaginable just decades before they appeared. Even though we may not be able to foresee all possible future information technologies, it is important to try to imagine the changes we are likely to see in emerging technologies. James Moor argues that moral philosophers need to pay particular attention to emerging technologies and help influence the design of these technologies early on to encourage beneficial moral outcomes (Moor 2005)[^moor-2005]. The following sections contain some potential technological concerns.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如上文引言所说，信息技术处于不断的变革与创新之中。互联网技术带来了如此多的社会变化，而在它们出现前几十年，人们还几乎无法想象。虽然我们未必能预见所有可能的未来信息技术，但尽力想象新兴技术中可能出现的变革，是重要的。詹姆斯·穆尔论证说，道德哲学家需要特别关注新兴技术，并尽早参与影响这些技术的设计，以促成有益的道德结果（Moor 2005）[^moor-2005]。以下几节包含一些潜在的技术关切。
+
+    step2: |-
+      前文引言已提过：信息技术无时无刻不在变，无时无刻不在翻新。互联网技术搅动了如此多的社会变化，可就在它们问世前几十年，人们还几乎无从想象。纵然我们预见不了未来信息技术的全部可能，尽力去想新兴技术里大概率将出现的变革，仍然要紧。詹姆斯·穆尔论证：道德哲学家须格外留意新兴技术，赶早施加影响、参与其设计，好促成有益的道德结果（Moor 2005）[^moor-2005]。以下几节收录若干潜在的技术关切。
+
   - id: 75
     kind: body
     source: |-
