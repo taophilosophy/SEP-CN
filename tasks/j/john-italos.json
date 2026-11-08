@@ -2,7 +2,7 @@
   "slug": "john-italos",
   "kind": "retranslate",
   "zh_doc": "j/john-italos.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "?",
       "at": "2026-11-06T12:01:08Z",
       "evidence": "四检全绿：check_academic --strict OK；check_style --strict issues=[]；check_prose issues=[]；check_math formulas=0/missing=[]/unbalanced=[]；lq check 守恒门 30 段通过（软旗仅斜体→书名号与标题机械段）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-08T12:29:54Z",
+      "evidence": "独立复审：对照 yuanwen 逐段核销（生平与著述/学说五节/定罪与身后），段落 30:30、节 15:15、marker 79:79、defs 62:62 全等；lq check 30 段守恒过；拉丁串全在 defs 照录区，正文零残留；现制 References（引用注释）节题依 ADR-0017/fan-yi-mu-ban v1.4 保留源形，非缺陷"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-08T12:30:42Z",
+      "evidence": "登记册复核：ren-ming-biao 12 行/yi-zhe-shuo-ming 11 行均已在 HEAD（git show 计数吻合）；普塞洛斯/科穆宁娜/菲洛波努斯/佩特里齐/波菲利/普罗提诺/普罗克洛斯/阿莫尼俄斯/大马士革的约翰/霍尼亚提斯等正文用形与册内定名一致；相关词条『约翰·菲洛波诺斯』从 SUMMARY 站名，属 011 跨条归一事项不改"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-08T12:30:45Z",
+      "evidence": "终稿验收：check_style --strict issues=[]；check_academic --strict OK；check_math formulas=0/missing=[]/unbalanced=[]；check_summary 一致；结构对位（正文 5 节+References 现制+学术工具+其他网络资源+相关词条+致谢齐全）；残留扫描零英文长句"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-08T12:30:46Z",
+      "evidence": "终审签字：六道全过（30 段账本身份对齐、守恒 HARD=0），四检全绿，独立复审完成"
     }
   ],
   "blockers": [],
