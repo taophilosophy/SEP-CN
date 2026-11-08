@@ -155,62 +155,82 @@ segments:
     kind: body
     source: |-
       Some grant that human embryos lack the properties essential to a right to life, but hold that they possess an intrinsic value that calls for a measure of respect and places at least some moral constraints on their use: “The life of a single human organism commands respect and protection … no matter in what form or shape, because of the complex creative investment it represents and because of our wonder at the divine or evolutionary processes that produce new lives from old ones.” (Dworkin l992, 84). There are, however, divergent views about the level of respect embryos command and what limits exist on their use. Some opponents of HESC research hold that the treatment of human embryos as mere research tools always fails to manifest proper respect for them. Other opponents take a less absolutist view. Some, for example, deem embryos less valuable than more mature human beings but argue that the benefits of HESC research are too speculative to warrant the destruction of embryos, and that the benefits might, in any case, be achieved through the use of noncontroversial sources of stem cells (e.g., adult stem cells) (Holm 2003)[^holm-2003].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有些人承认人类胚胎缺乏生命权所必需的属性，但主张它具有一种内在价值，这种价值要求一定程度的尊重，并对其使用构成至少某些道德约束：“单一人类有机体的生命要求尊重与保护……无论它处于何种形式或形状，因为它代表了复杂的创造性投入，也因为我们惊叹于从旧生命中产生新生命的神圣或演化过程。”（Dworkin l992, 84）然而，关于胚胎所要求的尊重程度以及对其使用有何限制，看法颇有分歧。一些反对 HESC 研究的人认为，把人类胚胎当作单纯的研究工具，总是未能表现出对它们的适当尊重。另一些反对者的观点不那么绝对。例如，有人认定胚胎的价值低于更成熟的人，但主张 HESC 研究的收益过于推测性，不足以证成销毁胚胎，而且无论如何，这些收益或许可以通过使用无争议的干细胞来源（如成体干细胞）来获得（Holm 2003）[^holm-2003]。
+    step2: |-
+      也有人承认人类胚胎缺少生命权所必需的属性，但认为它有一种内在价值，值得给予一定尊重，其使用也因此受到至少某些道德约束：“单一人类有机体的生命要求尊重与保护……无论形貌如何，因为它代表着复杂的创造性投入，也因为我们惊叹于那从旧生命生出新生命的神圣或演化过程。”（Dworkin l992, 84）不过，胚胎究竟要求多少尊重、对其使用有哪些限制，看法并不一致。有些反对 HESC 研究的人认为，把人类胚胎当纯粹的研究工具，永远算不上给予它应有的尊重。另一些反对者没那么绝对。例如有人认定胚胎的价值低于更成熟的人，但认为 HESC 研究的收益太过推测，不足以证成销毁胚胎；何况这些收益或许能靠无争议的干细胞来源（如成体干细胞）取得（Holm 2003）[^holm-2003]。
   - id: 20
     kind: body
     source: |-
       Many, if not most, who support the use of human embryos for HESC research would likely agree with opponents of the research that there are some circumstances where the use of human embryos would display a lack of appropriate respect for human life, for example, were they to be offered for consumption to contestants in a reality TV competition or destroyed for the production of cosmetics. But proponents of the research hold that the value of human embryos is not great enough to constrain the pursuit of research that may yield significant therapeutic benefits. Supporters of the research also frequently question whether most opponents of the research are consistent in their ascription of a high value to human embryos, as opponents generally display little concern about the fact that many embryos created for fertility treatment are discarded.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      支持为 HESC 研究使用人类胚胎的人，即使不是大多数，也有许多大概会同意反对者的说法：在某些情形下，使用人类胚胎会表现出对人类生命缺乏适当尊重，例如把胚胎提供给真人秀竞赛的参赛者食用，或为生产化妆品而销毁胚胎。但这项研究的支持者主张，人类胚胎的价值还没有大到足以限制可能带来重大治疗收益的研究。研究的支持者还常常质疑：大多数反对者是否在赋予人类胚胎高价值这一点上前后一致，因为反对者通常对如下事实漠不关心：为生育治疗创造的许多胚胎都被丢弃了。
+    step2: |-
+      为 HESC 研究而使用人类胚胎，支持者即使不是多数，也大有人在。他们大概也会同意反对者一点：某些情形下使用人类胚胎，确是对人类生命不够尊重，比如把胚胎拿去给真人秀选手食用，或者销毁胚胎来生产化妆品。但支持者认为，胚胎的价值没那么大，不足以拦住可能带来重大治疗收益的研究。他们还常反问：多数反对者在“胚胎价值很高”这一点上是否一贯？因为为生育治疗造出的胚胎有许多被丢弃，反对者对此一般并不在意。
   - id: 21
     kind: body
     source: |-
       ### 1.3 The case of “doomed embryos”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.3 “注定毁灭的胚胎”的情形
+    step2: |-
+      ### 1.3 “注定毁灭的胚胎”的情形
   - id: 22
     kind: body
     source: |-
       When spare embryos exist after fertility treatment, the individuals for whom the embryos were created typically have the option of storing for them for future reproductive use, donating them to other infertile couples, donating them to research, or discarding them. Some argue that as long as the decision to donate embryos for research is made after the decision to discard them, it is morally permissible to use them in HESC research even if we assume that they have the moral status of persons. The claim takes two different forms. One is that it is morally permissible to kill an individual who is about to be killed by someone else where killing that individual will help others (Curzer, H. 2004). The other is that researchers who derive HESCs from embryos that were slated for destruction do not cause their death. Instead, the decision to discard the embryos causes their death; research just causes the manner of their death (Green 2002)[^green-2002].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      生育治疗之后存在剩余胚胎时，为这些胚胎而被创造出来的个体通常有以下选择：把它们储存起来供日后生殖使用、把它们捐给其他不育夫妇、捐给研究，或者丢弃。有人认为，只要捐献胚胎供研究之用的决定是在决定丢弃之后作出的，那么在 HESC 研究中使用它们在道德上就是可允许的，即便我们假定它们具有人的道德地位。这一主张有两种不同形式。一种形式是：在杀死某个个体能帮助他人的情况下，杀死一个即将被他人杀死的个体，在道德上是可允许的（Curzer, H. 2004）。另一种形式是：从预定要被销毁的胚胎中获取 HESC 的研究者并不导致这些胚胎死亡。导致它们死亡的是丢弃胚胎的决定；研究只决定它们死亡的方式（Green 2002）[^green-2002]。
+    step2: |-
+      生育治疗之后若还有剩余胚胎，为它们而被造出来的个体通常有几种选择：储存起来供日后生育之用，捐给其他不育夫妇，捐给研究，或者丢弃。有人认为：只要决定捐献胚胎供研究之用发生在决定丢弃之后，把它们用于 HESC 研究就道德上可允许——即便我们假定胚胎具有人的道德地位。这一主张有两种形式。其一：若杀死某个个体能帮助他人，而此人本就即将被他人杀死，那么杀死他在道德上可允许（Curzer, H. 2004）。其二：从预定销毁的胚胎中获取 HESC 的研究者并不造成胚胎死亡。造成死亡的是丢弃胚胎的决定，研究只决定它们怎样死（Green 2002）[^green-2002]。
   - id: 23
     kind: body
     source: |-
       Both versions of the argument presume that the decision to discard spare embryos prior to the decision to donate them to research entails that donated embryos are doomed to destruction when researchers receive them. There are two arguments one might marshal against this presumption. First, one who wants to donate embryos to research might first elect to discard them only because doing so is a precondition for donating them. There could be cases in which one who chooses the discard option would have donated the embryos to other couples were the research donation option not available. The fact that a decision to discard embryos is made prior to the decision to donate the embryos thus does not establish that the embryos were doomed to destruction before the decision to donate them to research was made. Second, a researcher who receives embryos could choose to rescue them, whether by continuing to store them or by donating them to infertile couples. While this would violate the law, the fact that it is within a researcher’s power to prevent the destruction of the embryos he or she receives poses problems for the claim that the decision to discard the embryos dooms them or causes their destruction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      该论证的两个版本都预设：先决定丢弃剩余胚胎、后决定把它们捐给研究，就蕴涵着捐出的胚胎在研究接手时注定要被销毁。可以提出两条论证来反驳这一预设。第一，想要把胚胎捐给研究的人，可能只是因为这样做是捐献的前提，才先选择丢弃。可能存在这样的情形：如果当时没有捐给研究这个选项，选择丢弃的人本会把胚胎捐给其他夫妇。因此，先作出丢弃胚胎的决定、后作出捐献胚胎的决定这一事实，并不能确立胚胎在作出捐献决定之前就已注定被销毁。第二，接手胚胎的研究者可以选择拯救它们，或者继续储存，或者捐给不育夫妇。这样做虽然违法，但研究者有能力阻止其所接手的胚胎被销毁这一事实，对“丢弃决定使胚胎注定毁灭或造成其毁灭”的主张构成了麻烦。
+    step2: |-
+      两个版本都预设了一件事：先决定丢弃剩余胚胎，再决定捐给研究，就意味着胚胎到了研究者手里时已注定被销毁。要反驳这一预设，有两条路子。第一，想捐胚胎给研究的人，可能正因为捐献以丢弃为前提，才先选择丢弃。完全可能有这种情况：若没有捐给研究这个选项，此人本会把胚胎捐给别的夫妇。所以，“先定丢弃、后定捐献”并不能证明胚胎在捐献决定作出之前就已注定毁灭。第二，接手胚胎的研究者可以选择救下它们：继续储存，或者捐给不育夫妇。这样做固然违法，但研究者既然有能力阻止自己接手的胚胎被销毁，“丢弃决定使胚胎注定毁灭”或“造成其毁灭”的说法就站不住了。
   - id: 24
     kind: body
     source: |-
       ## 2. The Ethics of Using Human Embryonic Stem Cells in Research
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 在研究中使用人类胚胎干细胞的伦理问题
+    step2: |-
+      ## 2 在研究中使用人类胚胎干细胞的伦理问题
   - id: 25
     kind: body
     source: |-
       Assume for the sake of argument that it is morally impermissible to destroy human embryos. It does not follow that all research with HESCs is impermissible, as it is sometimes permissible to benefit from moral wrongs. For example, there is nothing objectionable about transplant surgeons and patients benefiting from the organs of murder and drunken driving victims (Robertson 1988)[^robertson-1988]. If there are conditions under which a researcher may use HESCs without being complicit in the destruction of embryos, then those who oppose the destruction of embryos could support research with HESCs under certain circumstances.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为了论证起见，假定销毁人类胚胎在道德上不可允许。这并不推出所有使用 HESC 的研究都不可允许，因为有时从道德过错中受益是可允许的。例如，移植外科医生与病人从谋杀与醉酒驾驶受害者的器官中受益，并没有什么可反对的（Robertson 1988）[^robertson-1988]。如果在某些条件下研究者可以使用 HESC 而不在销毁胚胎一事上构成共谋，那么反对销毁胚胎的人在特定情形下就可以支持 HESC 研究。
+    step2: |-
+      姑且假定销毁人类胚胎在道德上不可允许。这并不推出一切使用 HESC 的研究都不可允许——从道德过错中受益，有时是可允许的。比如移植外科医生与病人使用凶杀或醉驾受害者的器官，没人觉得有什么不妥（Robertson 1988）[^robertson-1988]。只要存在某些条件，使研究者能在不与销毁胚胎构成共谋的前提下使用 HESC，那么反对销毁胚胎的人在特定情形下也就可以支持 HESC 研究。
   - id: 26
     kind: body
     source: |-
       Researchers using HESCs are clearly implicated in the destruction of embryos where they derive the cells themselves or enlist others to derive the cells. However, most investigators who conduct research with HESCs obtain them from an existing pool of cell lines and play no role in their derivation. One view is that we cannot assign causal or moral responsibility to investigators for the destruction of embryos from which the HESCs they use are derived where their “research plans had no effect on whether the original immoral derivation occurred.” (Robertson 1999)[^robertson-1999]. This view requires qualification. There may be cases in which HESCs are derived for the express purpose of making them widely available to HESC investigators. In such instances, it may be that no individual researcher’s plans motivated the derivation of the cells. Nonetheless, one might argue that investigators who use these cells are complicit in the destruction of the embryos from which the cells were derived because they are participants in a research enterprise that creates a demand for HESCs. For these investigators to avoid the charge of complicity in the destruction of embryos, it must be the case that the researchers who derived the HESCs would have performed the derivation in the absence of external demand for the cells (Siegel 2004)[^siegel-2004].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      使用 HESC 的研究者，如果自己获取细胞，或招募他人获取细胞，显然就卷入了销毁胚胎一事。然而，从事 HESC 研究的研究者大多从现有的细胞系库中取得细胞，在其获取过程中不起任何作用。有一种看法是：当研究者的“研究计划对最初那次不道德的获取是否发生并无影响”时，我们无法就其所用 HESC 所由来的胚胎被销毁，追究其因果责任或道德责任（Robertson 1999）[^robertson-1999]。这一看法需要加以限定。可能存在这样的情况：获取 HESC 就是为了让它们广泛地提供给 HESC 研究者。在这种情形下，可能并没有哪个研究者的计划促成了细胞的获取。尽管如此，人们仍可论证：使用这些细胞的研究者在胚胎被销毁一事上构成共谋，因为他们参与了一个制造 HESC 需求的研究事业。这些研究者若要避开销毁胚胎的共谋指控，就必须是这样的情形：获取 HESC 的研究者即使没有外界对这些细胞的需求，也会进行获取（Siegel 2004）[^siegel-2004]。
+    step2: |-
+      使用 HESC 的研究者，若自己获取细胞，或请别人去获取，显然卷入了胚胎销毁。但多数研究者用的是现成的细胞系库，在获取环节没有角色。有一种看法：如果研究者的“研究计划对最初那次不道德的获取是否发生并无影响”，就不能要他为所用 HESC 所由来的那些胚胎的销毁承担因果或道德责任（Robertson 1999）[^robertson-1999]。这一看法需要限定。有些情形下，获取 HESC 正是为了让它们广泛供应给 HESC 研究者。此时可能并没有哪位研究者的计划促成了细胞获取。但人们仍可主张：使用这些细胞的研究者参与了销毁胚胎，因为他们置身于一个制造 HESC 需求的研究事业之中。这些研究者若要避开共谋指控，前提是：获取 HESC 的研究者即使没有外界对这些细胞的需求，也照样会去获取（Siegel 2004）[^siegel-2004]。
   - id: 27
     kind: body
     source: |-
       The issue about complicity goes beyond the question of an HESC researcher’s role in the destruction of the particular human embryo(s) from which the cells he or she uses are derived. There is a further concern that research with existing HESCs will result in the future destruction of embryos: “[I]f this research leads to possible treatments, private investment in such efforts will increase greatly and the demand for many thousands of cell lines with different genetic profiles will be difficult to resist.” (U.S. Conference of Catholic Bishops 2001). This objection faces two difficulties. First, it appears to be too sweeping: research with adult stem cells and non-human animal stem cells, as well as general research in genetics, embryology, and cell biology could be implicated, since all of this research might advance our understanding of HESCs and result in increased demand for them. Yet, no one, including those who oppose HESC research, argues that we should not support these areas of research. Second, the claim about future demand for HESCs is speculative. Indeed, current HESC research could ultimately reduce or eliminate demand for the cells by providing insights into cell biology that enable the use of alternative sources of cells (Siegel 2004)[^siegel-2004].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于共谋的问题超出了如下范围：HESC 研究者在其所用细胞所由获取的特定人类胚胎被销毁一事中起了什么作用。还有一层担忧是：使用现有 HESC 的研究将在未来导致胚胎被销毁：“〔如果〕这项研究带来可能的疗法，私人对此类努力的投资将大大增加，而对成千上万个基因型不同的细胞系的需求将难以抗拒。”（U.S. Conference of Catholic Bishops 2001）这一反对意见面临两个困难。第一，它似乎过于宽泛：用成体干细胞与非人动物干细胞进行的研究，以及遗传学、胚胎学与细胞生物学的一般研究，都可能被牵连进来，因为这一切研究都可能推进我们对 HESC 的理解，并导致对它们的需求增加。然而，包括反对 HESC 研究的人在内，没有人主张我们不应支持这些研究领域。第二，关于未来对 HESC 需求的主张是推测性的。事实上，当前的 HESC 研究最终可能通过提供对细胞生物学的洞见、使人们能够使用替代的细胞来源，从而减少或消除对这些细胞的需求（Siegel 2004）[^siegel-2004]。
+    step2: |-
+      共谋问题不止于此。前面问的是：HESC 研究者在“他所用细胞所由获取的那个（些）人类胚胎被销毁”一事中起了什么作用；还有一层担忧是：使用现有 HESC 的研究会在将来导致胚胎被销毁。“〔如果〕这项研究带来可能的疗法，私人投资将大幅涌入，届时对成千上万种基因型不同的细胞系的需求将难以抗拒。”（U.S. Conference of Catholic Bishops 2001）这一反对意见有两个难处。第一，它太宽泛了：用成体干细胞、非人动物干细胞做研究，乃至遗传学、胚胎学、细胞生物学的一般研究，都可能被牵连——这些研究都可能增进我们对 HESC 的了解，从而抬高对它的需求。可是包括反对 HESC 研究的人在内，没人主张不该支持这些研究领域。第二，未来需求云云只是推测。事实上，当前的 HESC 研究最终可能减少乃至消除对这些细胞的需求：它提供的细胞生物学洞见，或可让人改用别的细胞来源（Siegel 2004）[^siegel-2004]。
   - id: 28
     kind: body
     source: |-
       While it might thus be possible for a researcher to use HESCs without being morally responsible for the destruction of human embryos, that does not end the inquiry into complicity. Some argue that agents can be complicit in wrongful acts for which they are not morally responsible. One such form of complicity arises from an association with wrongdoing that symbolizes acquiescence in the wrongdoing (Burtchaell 1989)[^burtchaell-1989]. The failure to take appropriate measures to distance oneself from moral wrongs may give rise to “metaphysical guilt,” which produces a moral taint and for which shame is the appropriate response (May 1992)[^may-1992]. The following question thus arises: Assuming it is morally wrongful to destroy human embryos, are HESC researchers who are not morally responsible for the destruction of embryos complicit in the sense of symbolically aligning themselves with a wrongful act?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      虽然研究者因此可能在使用 HESC 的同时并不对人类胚胎被销毁负有道德责任，但对共谋的探究并未到此为止。有人主张，行动者可以对之不负道德责任的过错行为构成共谋。其中一种共谋形式源于与过错行为的关联，这种关联象征着对过错的默许（Burtchaell 1989）[^burtchaell-1989]。未能采取适当措施与道德过错保持距离，可能引起“形而上学罪责”，它产生一种道德污点，而羞耻是对它的适当反应（May 1992）[^may-1992]。于是产生如下问题：假定销毁人类胚胎在道德上是过错，那么对胚胎被销毁不负道德责任的 HESC 研究者，是否在象征性地站到过错行为一边这一意义上构成共谋？
+    step2: |-
+      这样说来，研究者或许能在不承担“销毁人类胚胎”之道德责任的情况下使用 HESC。但共谋的追问并未就此结束。有人主张，行动者对于自己不负道德责任的过错行为，仍可能构成共谋。其中一种共谋来自与过错的关联——这种关联象征着对过错的默许（Burtchaell 1989）[^burtchaell-1989]。未能采取适当措施与道德过错拉开距离，可能引起“形而上学罪责”，它带来道德污点，而适当的反应是羞耻（May 1992）[^may-1992]。于是问题来了：假定销毁人类胚胎是道德上的过错，那么对胚胎被销毁不负道德责任的 HESC 研究者，是否在“象征性地站到过错一边”的意义上构成共谋？
   - id: 29
     kind: body
     source: |-
