@@ -103,6 +103,19 @@
 | Callimachus | — | 卡利马科斯 | — | — | diodorus-cronus | 学界通行汉译（亚历山大里亚诗人，警句诗涉狄奥多罗斯）；凭证 2026-11-07 | 2026-11-07 |
 | Campanella, Tommaso | — | 托马索·康帕内拉 | — | — | bloch | 学界通行汉译（《太阳城》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Capreolus, John | — | 约翰·卡普雷奥鲁斯 | — | — | auriol | 中世纪托马斯主义研究通行音译 | 2026-11-07 |
+| Cajetan, Thomas de Vio | — | 托马斯·德·维奥·卡耶坦（通称卡耶坦） | 意大利／天主教托马斯主义 | 1469–1534 | analogy-medieval | 中世纪神哲学通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| Alan of Lille | — | 里尔的阿兰 | 法国／经院神学 | c. 1128–1202 | analogy-medieval | 中世纪神学通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| Alexander of Hales | — | 黑尔斯的亚历山大 | 英格兰／方济各会经院神学 | c. 1185–1245 | analogy-medieval | 中世纪神学通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| Gilbert of Poitiers | — | 普瓦捷的吉尔伯特 | 法国／经院神学 | c. 1080–1154 | analogy-medieval | 中世纪神学通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| Mastrius, Bartolomaeus | — | 巴尔托洛梅乌斯·马斯特里乌斯 | 意大利／方济各会司各脱主义 | 1602–1673 | analogy-medieval | 司各脱主义研究通行音译；凭证 2026-11-08 | 2026-11-08 |
+| Nicholas of Paris | — | 巴黎的尼古拉 | 法国／经院逻辑 | 13 世纪 | analogy-medieval | 中世纪逻辑研究通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| Philip the Chancellor | — | 校长腓力 | 法国／经院神学 | c. 1160–1236 | analogy-medieval | 中世纪神学通行汉译（Paris chancellor）；凭证 2026-11-08 | 2026-11-08 |
+| Sutton, Thomas | — | 托马斯·萨顿 | 英格兰／托马斯主义 | c. 1250–1315 | analogy-medieval | 中世纪哲学研究通行音译；凭证 2026-11-08 | 2026-11-08 |
+| Sylvester of Ferrara, Francis | — | 费拉拉的弗朗西斯·西尔维斯特 | 意大利／托马斯主义 | 1474–1528 | analogy-medieval | 托马斯主义研究通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| Prierias, Sylvester Mazzolini | — | 西尔维斯特·马佐里尼·普里埃里亚斯 | 意大利／多明我会 | 1456–1523 | analogy-medieval | 宗教改革史通行音译；凭证 2026-11-08 | 2026-11-08 |
+| Soncinas, Paulus | — | 保卢斯·松奇纳斯 | 意大利／托马斯主义 | d. c. 1494 | analogy-medieval | 文艺复兴托马斯主义研究通行音译；凭证 2026-11-08 | 2026-11-08 |
+| John of St. Thomas | — | 圣托马斯的约翰（若昂·波因索特） | 葡萄牙／托马斯主义 | 1589–1644 | analogy-medieval | 托马斯主义研究通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| Peter Thomae | — | 彼得·托马 | 西班牙／早期司各脱主义 | c. 1280–1330 | analogy-medieval | 司各脱主义研究通行音译；凭证 2026-11-08 | 2026-11-08 |
 | Carl Schmitt | — | 卡尔·施米特 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Cantor, Georg | — | 康托尔 | — | — | 语料回收（mathematics-inconsistent 首译） | 数学界千年通行汉译（集合论创始人）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Buffon, Georges-Louis Leclerc de | — | 布丰 | — | — | 语料回收（molyneux-problem 首译） | 学界通行汉译（法国博物学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
@@ -517,7 +530,7 @@
 | Vitoria, Francisco de | — | 弗朗西斯科·德·维多利亚 | — | — | 语料回收（marsilius-inghen 首译） | 西班牙经院哲学通行汉译（萨拉曼卡学派创始人）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Urban VI | — | 乌尔班六世 | — | — | 语料回收（marsilius-inghen 首译） | 教皇通译惯例；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Eduard Bernstein | — | 爱德华·伯恩施坦 | — | — | luxemburg | 学界通行汉译（修正主义者）；待 specs/008 审定库复核 | 2026-11-03 |
-| Karl Kautsky | — | 卡尔·考茨基 | — | — | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Karl Kautsky | — | 卡尔·考茨基 | — | — | luxemburg；亦见 bauer | 学界通行汉译；待 specs/008 审定库复核；2026-11-08 并行会话重复行合并 | 2026-11-03 |
 | August Bebel | — | 奥古斯特·倍倍尔 | — | — | luxemburg | 学界通行汉译（德国工人运动领袖）；待 specs/008 审定库复核 | 2026-11-03 |
 | Clara Zetkin | — | 克拉拉·蔡特金 | — | — | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Karl Liebknecht | — | 卡尔·李卜克内西 | — | — | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
@@ -865,6 +878,27 @@
 | Finch, John | — | 约翰·芬奇 | — | — | conway | 学界惯例（康威同父异母兄长，莫尔在基督学院的学生；音译）；凭证 2026-11-07 | 2026-11-07 |
 | Cradock, Elizabeth | — | 伊丽莎白·克拉多克 | — | — | conway | 学界惯例（康威之母，贝内特爵士遗孀；音译）；凭证 2026-11-07 | 2026-11-07 |
 | Bennet, John | — | 约翰·贝内特 | — | — | conway | 学界惯例（克拉多克前夫，爵士；音译）；凭证 2026-11-07 | 2026-11-07 |
+| Arnold Ruge | — | 阿诺德·卢格 | — | — | bauer | 学界通行汉译 | 2026-11-08 |
+| Bettina Brentano-von Arnim | — | 贝蒂娜·布伦塔诺-冯·阿尼姆 | — | — | bauer | 学界通行汉译（德意志浪漫派作家） | 2026-11-08 |
+| Charles Fourier | — | 傅立叶 | — | — | bauer | 学界通行汉译（正文作傅立叶主义者） | 2026-11-08 |
+| Christian Hermann Weisse | — | 克里斯蒂安·赫尔曼·魏斯 | — | — | bauer | 学界通行音译（思辨有神论者） | 2026-11-08 |
+| David Friedrich Strauss | — | 大卫·弗里德里希·施特劳斯 | — | — | bauer | 学界通行汉译（《耶稣传》作者）；正文简称 D.F. 施特劳斯 | 2026-11-08 |
+| Disraeli | — | 迪斯雷利 | — | — | bauer | 学界通行汉译（本杰明·迪斯雷利，英国首相） | 2026-11-08 |
+| Edgar Bauer | — | 埃德加·鲍威尔 | — | — | bauer | 鲍威尔之弟，名+姓并称 | 2026-11-08 |
+| Friedrich Schiller | — | 席勒 | — | — | bauer | 学界通行汉译 | 2026-11-08 |
+| Friedrich Schleiermacher | — | 施莱尔马赫 | — | — | bauer | 学界通行汉译 | 2026-11-08 |
+| Hadrian | — | 哈德良 | — | — | bauer | 学界通行汉译（罗马皇帝 117–138 在位） | 2026-11-08 |
+| Hengstenberg | — | 亨格斯坦贝格 | — | — | bauer | 学界通行音译（柏林神学家 E.W. Hengstenberg） | 2026-11-08 |
+| Hotho | — | 霍托 | — | — | bauer | 学界通行音译（黑格尔《美学讲演录》编者 H.G. Hotho） | 2026-11-08 |
+| Karl Welcker | — | 卡尔·韦尔克 | — | — | bauer | 学界通行音译（南德自由派政治家） | 2026-11-08 |
+| Marheineke | — | 马海内克 | — | — | bauer | 学界通行音译（柏林神学家 P. Marheineke） | 2026-11-08 |
+| Max Stirner | — | 麦克斯·施蒂纳 | — | — | bauer | 学界通行汉译 | 2026-11-08 |
+| Michael Bakunin | — | 米哈伊尔·巴枯宁 | — | — | bauer | 学界通行汉译 | 2026-11-08 |
+| Nicolas Dessaux | — | 尼古拉·德索 | — | — | bauer | 学界通行音译（法方编者，正文方括号原文照录） | 2026-11-08 |
+| Otto von Bismarck | — | 俾斯麦 | — | — | bauer | 学界通行汉译 | 2026-11-08 |
+| Rudolph Haym | — | 鲁道夫·海姆 | — | — | bauer | 学界通行汉译（《黑格尔及其时代》作者）；书目形 Rudolf Haym | 2026-11-08 |
+| Stahl | — | 施塔尔 | — | — | bauer | 学界通行音译（保守派法学家 F.J. Stahl） | 2026-11-08 |
+| Wagener | — | 瓦格纳 | — | — | bauer | 学界通行音译（《国家与社会辞典》主编 F.W.H. Wagener，与作曲家 Wagner 异人） | 2026-11-08 |
 
 ## 伊斯兰阿拉伯人物（ADR-0013 种子区，2026-10-28）
 
@@ -1966,3 +2000,30 @@
 | Sitwell, Edith | — | 伊迪丝·西特韦尔 | — | — | ingarden | 文学通行汉译（英国现代主义诗人）；凭证 2026-11-08 | 2026-11-08 |
 | Bruegel, Pieter | — | 彼得·勃鲁盖尔 | — | — | ingarden | 艺术史通行汉译（《伊卡洛斯的坠落》）；凭证 2026-11-08 | 2026-11-08 |
 | Hamlet | — | 哈姆雷特 | — | — | ingarden | 文学千年通行汉译（莎士比亚剧作主人公，作品义）；凭证 2026-11-08 | 2026-11-08 |
+| Tempier, Stephen | — | 斯蒂芬·唐皮耶 | — | — | condemnation | 13 世纪巴黎主教，1277 年谴责颁行者；凭证 2026-11-08 | 2026-11-08 |
+| John XXI | — | 教皇约翰二十一世 | — | — | condemnation | 中世纪教皇通行汉译（彼得·西班牙人）；凭证 2026-11-08 | 2026-11-08 |
+| William of Alvernia | — | 奥弗涅的威廉 | — | — | condemnation | 依地名冠称（源文作 Alvernia，即 William of Auvergne，巴黎主教）；凭证 2026-11-08 | 2026-11-08 |
+| John of Pouilly | — | 普伊的约翰 | — | — | condemnation | 经院学者通行（John of Pouilly，神学硕士）；凭证 2026-11-08 | 2026-11-08 |
+| Ranulph of Houblonnire | — | 乌布隆尼尔的拉努尔夫 | — | — | condemnation | 依地名冠称（源文作 Houblonnire，后继唐皮耶任巴黎主教）；凭证 2026-11-08 | 2026-11-08 |
+| John of Alleux | — | 阿勒的约翰 | — | — | condemnation | 依地名冠称（1277 年巴黎大学校监）；凭证 2026-11-08 | 2026-11-08 |
+| Simon of Brion | — | 布里永的西蒙 | — | — | condemnation | 依地名冠称（方济各会，教皇使节）；凭证 2026-11-08 | 2026-11-08 |
+| Simon du Val | — | 西蒙·迪瓦尔 | — | — | condemnation | 学界惯例（音译，法国异端裁判官）；凭证 2026-11-08 | 2026-11-08 |
+| Goswin of Chapelle | — | 沙佩勒的戈斯温 | — | — | condemnation | 依地名冠称（列日圣马丁教堂议事司铎）；凭证 2026-11-08 | 2026-11-08 |
+| Bernier of Nivelles | — | 尼维尔的贝尔尼耶 | — | — | condemnation | 依地名冠称（列日圣马丁教堂议事司铎）；凭证 2026-11-08 | 2026-11-08 |
+| Andreas Capellanus | — | 安德烈亚斯·卡佩拉努斯 | — | — | condemnation | 学界通行（《论爱》作者，音译）；凭证 2026-11-08 | 2026-11-08 |
+| Hissette, Roland | — | 罗兰·希塞特 | — | — | condemnation | 学界惯例（鲁汶 219 条研究作者，音译）；凭证 2026-11-08 | 2026-11-08 |
+| Wippel, John F. | — | 约翰·F·维佩尔 | — | — | condemnation | 学界惯例（中世纪哲学史家，音译）；凭证 2026-11-08 | 2026-11-08 |
+| Normore, Calvin | — | 卡尔文·诺莫尔 | — | — | condemnation | 学界惯例（加州大学洛杉矶分校中世纪哲学家，音译）；凭证 2026-11-08 | 2026-11-08 |
+| Mandonnet, Pierre | — | 皮埃尔·曼东内 | — | — | condemnation | 学界通行汉译（多明我会，巴黎大学史）；凭证 2026-11-08 | 2026-11-08 |
+| Piron, Sylvain | — | 西尔万·皮龙 | — | — | condemnation | 学界惯例（中世纪哲学文献学者，音译）；凭证 2026-11-08 | 2026-11-08 |
+| De Mowbray, Malcolm | — | 马尔科姆·德·莫布雷 | — | — | condemnation | 学界惯例（音译，1277 年论辩研究）；凭证 2026-11-08 | 2026-11-08 |
+| Bianchi, Luca | — | 卢卡·比安基 | — | — | condemnation | 学界惯例（音译，都灵中世纪哲学史家）；凭证 2026-11-08 | 2026-11-08 |
+| Minnema, Anthony | — | 安东尼·明内马 | — | — | condemnation | 学界惯例（音译，安萨里拉丁接受史研究者）；凭证 2026-11-08 | 2026-11-08 |
+| Malgieri, Maria Evelina | — | 玛丽亚·埃韦莉娜·马尔吉耶里 | — | — | condemnation | 学界惯例（音译，第 156 条校勘者）；凭证 2026-11-08 | 2026-11-08 |
+| John of Naples | — | 那不勒斯的约翰 | — | — | condemnation | 依地名冠称（多明我会神学家）；凭证 2026-11-08 | 2026-11-08 |
+| Van Steenberghen, Fernand | — | 费尔南德·范·斯泰恩贝格亨 | — | — | condemnation | 学界通行汉译（鲁汶中世纪哲学史家）；凭证 2026-11-08 | 2026-11-08 |
+| Grant, Edward | — | 爱德华·格兰特 | — | — | condemnation | 学界惯例（音译，中世纪科学史家）；凭证 2026-11-08 | 2026-11-08 |
+| De Libera, Alain | — | 阿兰·德·利贝拉 | — | — | condemnation | 学界通行汉译（中世纪哲学史家）；凭证 2026-11-08 | 2026-11-08 |
+| Flasch, Kurt | — | 库尔特·弗拉施 | — | — | condemnation | 学界惯例（音译，维尔茨堡中世纪哲学史家）；凭证 2026-11-08 | 2026-11-08 |
+| Wielockx, Robert | — | 罗伯特·维洛克克斯 | — | — | condemnation | 学界惯例（音译，吉尔斯《辩护篇》校订者）；凭证 2026-11-08 | 2026-11-08 |
+| Peter of Auvergne | — | 奥弗涅的彼得 | — | — | condemnation | 依地名冠称（13 世纪艺学硕士，后继奥弗涅的威廉为巴黎主教）；凭证 2026-11-08 | 2026-11-08 |
