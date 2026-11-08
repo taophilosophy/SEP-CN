@@ -613,38 +613,50 @@ segments:
     kind: body
     source: |-
       The canonical model organisms were given special status by the NIH, which led to their prioritization among researchers for funding purposes. In a 2106 news post, Michael Lauer, the NIH’s Deputy Director for Extramural Research, discussed an internal NIH study that found that projects using model organisms were awarded grants at a rate that was higher than the rate for all NIH applications (Lauer 2016 [Other Internet Resources]). Increases in NIH and National Science Foundation (NSF) funding for specific organisms were also correlated with increases in publications (Dietrich, Ankeny, and Chen 2014, 792). Being designated a model organism thus seemed to be associated with both higher rates of funding and publication.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      经典模式生物被 NIH 赋予了特殊地位，这使它们在研究者当中为争取经费而被优先考虑。在 2016 年的一篇新闻帖中，NIH 负责院外研究的副主任 Michael Lauer 讨论了一项 NIH 内部研究，该研究发现使用模式生物的项目获得资助的比率高于全部 NIH 申请的比率（Lauer 2016 [其他网络资源]）。NIH 与国家科学基金会（NSF）对特定生物的经费增加，也与论文发表量的增加相关（Dietrich, Ankeny, and Chen 2014, 792）。因此，被认定为模式生物，似乎既与更高的经费获得率相关，也与更高的发表率相关。
+    step2: |-
+      经典模式生物经 NIH 认定，地位特殊，研究者在争经费时也因此被优先考虑。2016 年的一篇新闻帖里，NIH 主管院外研究的副主任 Michael Lauer 谈到一项 NIH 内部研究：用模式生物的项目，获资助的比率高于 NIH 全部申请的比率（Lauer 2016 [其他网络资源]）。NIH 与国家科学基金会（NSF）对某些特定生物的经费一旦增加，相关论文的发表量也跟着增加（Dietrich, Ankeny, and Chen 2014, 792）。这样看来，被认定为模式生物，既牵着更高的经费命中率，也牵着更高的发表率。
   - id: 72
     kind: body
     source: |-
       Although many federal grants supported laboratory research, several also funded community resources and infrastructure necessary for model organism work. Stock centers and databases for *Arabidopsis* and *C. elegans*, for instance, supported both the research of disparate laboratories and the creation of a sense of community among researchers using the same model organism (Leonelli and Ankeny 2012)[^leonelli-2012].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管许多联邦经费资助的是实验室研究，但也有若干经费资助了模式生物工作所必需的共同体资源与基础设施。例如，拟南芥与秀丽隐杆线虫的种质资源中心与数据库，既支撑了各不相同的实验室的研究，也在使用同一模式生物的研究者之间造就了一种共同体感（Leonelli and Ankeny 2012）[^leonelli-2012]。
+    step2: |-
+      联邦经费多用于实验室研究，但也有好几笔投向了模式生物工作所必需的共同体资源与基础设施。比如拟南芥与秀丽隐杆线虫的种质资源中心和数据库，既撑起了各家实验室的研究，也在用同一模式生物的研究者之间养出一种共同体感（Leonelli and Ankeny 2012）[^leonelli-2012]。
   - id: 73
     kind: body
     source: |-
       While cost has been an important factor in the selection of particular model organisms, this factor alone does not capture the complexity of these decisions, which are often multi-dimensional. Additionally, some model organisms are repurposed from other experimental contexts, chosen not only for their practical tractability but also for the availability of associated methods and infrastructure, even when they were originally studied for different purposes (Kaplan 2025)[^kaplan-2025]. Scientists will sometimes articulate the grounds for their choices explicitly. For instance, Isabel Rubio-Aliaga writes:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      虽然成本一直是选择特定模式生物的重要因素，但仅凭这一因素并不能把握这些决定的复杂性，它们往往是多维的。此外，有些模式生物是从其他实验语境中改作他用的，其被选中不仅因为实践上的可操作性，还因为相关方法与基础设施的可得性，即便它们最初是为别的目的而被研究的（Kaplan 2025）[^kaplan-2025]。科学家有时会明确说出其选择的理由。例如，Isabel Rubio-Aliaga 写道：
+    step2: |-
+      成本一向是挑选特定模式生物的重要因素，可单凭这一条，抓不住这类决定的复杂——它们往往是多维的。还有些模式生物是从别的实验语境里挪过来的：选中它们，不只因为实践上好操作，还因为相关方法与基础设施现成可用，哪怕当初研究它们本是为了别的目的（Kaplan 2025）[^kaplan-2025]。科学家有时会把选择的理由明说出来。Isabel Rubio-Aliaga 便写道：
   - id: 74
     kind: body
     source: |-
       > Most model organisms are cost-effective: they have short regeneration times, their maintenance and reproduction in the laboratory is easy and standardized, they have small size and require little space. Moreover, model organisms have been chosen for their different basic biological properties and should reflect the underlying human-derived questions, i.e. have similar pathways and physiological/pathological responses. Most models have been chosen due to their practicability or physiological tractability. A good understanding of their metabolism and biochemistry facilitates data interpretation and extrapolation to humans and therefore their applicability (Rubio-Aliaga 2012, 17)[^rubio-aliaga-2012].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 大多数模式生物都具有成本效益：再生时间短，在实验室中维持与繁殖容易且已标准化，体型小、占用空间少。此外，模式生物是因其各种基础生物学特性而被选中的，应当反映由人类而来的底层问题，即具有相似的通路与生理/病理反应。大多数模型之被选中，是因其可实践性或生理可操作性。对其代谢与生物化学的良好理解，便于数据解释以及向人类的外推，从而便于其应用（Rubio-Aliaga 2012, 17）[^rubio-aliaga-2012]。
+    step2: |-
+      > 多数模式生物都合算：再生时间短，在实验室里养起来、繁殖起来容易且已标准化，个头小、占地少。再说，模式生物之被选中，是因其各项基础生物学特性，理应映照出由人类而来的那些问题，即具有相似的通路与生理、病理反应。多数模型之被选中，靠的是可实践性或生理可操作性。把它们的代谢与生物化学弄明白，数据就好解释，也便于向人类外推，应用起来自然方便（Rubio-Aliaga 2012, 17）[^rubio-aliaga-2012]。
   - id: 75
     kind: body
     source: |-
       This mix of practical and biological reasons for organism choice is very common (Dietrich et al. 2020)[^dietrich-2020]. However, Rubio-Aliaga also includes important community features that support research on a specific organism. In her words, “the use of a model organism is reinforced by a large scientific community behind it, which promotes the interchange of knowledge and tools, such as mutant or bioinformatic resources” (Rubio-Aliaga 2012, 17)[^rubio-aliaga-2012]. These kinds of features figure prominently in Ankeny and Leonelli’s analysis of model organism success (Ankeny and Leonelli 2020, see section 3.3)[^ankeny-2020]. From scientists’ accounts, Dietrich and his collaborators articulated a list of twenty criteria (Table 2) that may be used in selection of an organism for biological research (Dietrich et al. 2020)[^dietrich-2020]. These criteria were grouped into five clusters: access, tractability, resourcing, economies, and promise. Choice of an organism using these clusters and criteria involves multiple criteria in a heavily contextualized judgement that may weigh criteria against each other and force researchers to refine their understanding of the criteria and the capabilities of the organisms under consideration.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种把实践理由与生物学理由混合起来的选材方式非常普遍（Dietrich et al. 2020）[^dietrich-2020]。不过，Rubio-Aliaga 也纳入了支持某一特定生物研究的重要共同体特征。用她的话说，“一种模式生物的使用，得到其背后庞大科学共同体的加强，这个共同体促进知识与工具的交流，例如突变体资源或生物信息学资源”（Rubio-Aliaga 2012, 17）[^rubio-aliaga-2012]。这类特征在 Ankeny 和 Leonelli 对模式生物成功的分析中十分突出（Ankeny and Leonelli 2020，见 3.3 节）[^ankeny-2020]。根据科学家们的陈述，Dietrich 及其合作者阐发了一张二十条标准的清单（表 2），可用于为生物学研究选择生物（Dietrich et al. 2020）[^dietrich-2020]。这些标准被归为五个簇：获取、可操作性、资源供给、经济性与前景。运用这些簇与标准来选择一种生物，涉及在高度语境化的判断中使用多重标准，这种判断可能要把各项标准相互权衡，并迫使研究者修正其对标准以及所考虑生物之能力的理解。
+    step2: |-
+      把实践理由与生物学理由掺在一起选材，是极常见的做法（Dietrich et al. 2020）[^dietrich-2020]。不过 Rubio-Aliaga 还点出了支撑某一生物研究的重要共同体特征。她说，“一种模式生物的使用，背后有庞大的科学共同体在撑，这个共同体推动知识与工具的互通，比如突变体资源、生物信息学资源”（Rubio-Aliaga 2012, 17）[^rubio-aliaga-2012]。这类特征在 Ankeny 与 Leonelli 对模式生物何以成功的分析里十分吃重（Ankeny and Leonelli 2020，见 3.3 节）[^ankeny-2020]。Dietrich 等人依科学家们的自述，整理出一张二十条标准的清单（表 2），可用于为生物学研究挑选生物（Dietrich et al. 2020）[^dietrich-2020]。这二十条归成五簇：获取、可操作性、资源供给、经济性、前景。照这些簇与标准来挑生物，就是在一个高度语境化的判断里同时用上多条标准，彼此权衡，甚至逼得研究者回去修正对标准本身、对所考虑生物之能力的理解。
   - id: 76
     kind: body
     source: |-
       *Table 2.*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *表 2。*
+    step2: |-
+      *表 2。*
   - id: 77
     kind: body
     source: |-
@@ -655,50 +667,78 @@ segments:
       | (C) Resourcing | (9) Previous Use (10) Epistemic Resources (11) Training Requirements (12) Informational Resources |
       | (D) Economies | (13) Institutional Support (14) Financial Considerations (15) Community Support (16) Affective and Cultural Attributes |
       | (E) Promise | (17) Commercial and Other Applications (18) Comparative Potential (19) Translational Potential (20) Novelty |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | 簇 | 标准 |
+      | :---: | :---: |
+      | （A）获取 | （1）供应难易（2）现象可及性（3）伦理考量 |
+      | （B）可操作性 | （4）标准化（5）生存力与耐久性（6）反应性（7）方法与技术的可得性（8）研究者风险 |
+      | （C）资源供给 | （9）既往使用（10）认知资源（11）培训要求（12）信息资源 |
+      | （D）经济性 | （13）制度支持（14）财务考量（15）共同体支持（16）情感与文化属性 |
+      | （E）前景 | （17）商业及其他应用（18）比较潜力（19）转化潜力（20）新颖性 |
+    step2: |-
+      | 簇 | 标准 |
+      | :---: | :---: |
+      | （A）获取 | （1）供应难易；（2）现象可及性；（3）伦理考量 |
+      | （B）可操作性 | （4）标准化；（5）生存力与耐久性；（6）反应性；（7）方法与技术的可得性；（8）研究者风险 |
+      | （C）资源供给 | （9）既往使用；（10）认知资源；（11）培训要求；（12）信息资源 |
+      | （D）经济性 | （13）制度支持；（14）财务考量；（15）共同体支持；（16）情感与文化属性 |
+      | （E）前景 | （17）商业及其他应用；（18）比较潜力；（19）转化潜力；（20）新颖性 |
   - id: 78
     kind: body
     source: |-
       Table 2. Criteria for Organismal Choice (From Dietrich et al. 2020)[^dietrich-2020]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      表 2. 生物选择的标准（据 Dietrich et al. 2020）[^dietrich-2020]
+    step2: |-
+      表 2。生物选择的标准（据 Dietrich et al. 2020）[^dietrich-2020]
   - id: 79
     kind: body
     source: |-
       While these criteria were proposed as generally applicable to all organism choices, the decision to use a model organism is often justified by invoking a narrower set of similar features. For instance, according to Hans-Jörg Rheinberger, “the operative criteria for selection of a model organism are the ease with which it can be maintained and handled, the quantity and quality of the knowledge already accumulated about it, and the ease of access to the phenomenon under investigation” (Rheinberger 2010, 7)[^rheinberger-2010]. Love and Yoshida (2026) further another perspective from evolutionary developmental biology, where model species are chosen to balance experimental tractability with the ability to integrate developmental conservation and evolutionary change, highlighting how organism choice can serve both practical and theoretical aims. Ankeny and Leonelli provide a more extensive set of criteria that include ease of breeding and maintenance in the laboratory, standardization of the organism, accumulation of resources including database infrastructures, conferences, training workshops, and systems for the distribution of organismal stocks. These last kinds of features are important to them because they argue that one of the aims of model organism research includes the creation of “a platform for interdisciplinary integration across biological disciplines and a reference point for comparative research across species” (Ankeny and Leonelli 2020, 3)[^ankeny-2020]. Ease of phenomenal access is included in Ankeny and Leonelli’s account when they speak of the recognized usefulness of model organisms as tool for biological research. Of course, they also require that a model organism be capable of being applied to a broad set of representational targets.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管这些标准被提出时是作为普遍适用于一切生物选择的，但使用某一模式生物的决定，往往是通过援引一组更窄的类似特征来证成的。例如，据 Hans-Jörg Rheinberger 说，“选择模式生物的操作性标准是：它被维持与处理的容易程度，关于它已积累的知识的数量与质量，以及通达所研究现象的容易程度”（Rheinberger 2010, 7）[^rheinberger-2010]。Love 和 Yoshida（2026）进一步提出来自演化发育生物学的另一种视角：在那里，模式物种之被选择，是要在实验可操作性与整合发育保守性和演化变化的能力之间取得平衡，这凸显出生物选择如何能同时服务于实践目标与理论目标。Ankeny 和 Leonelli 提供了更广泛的一组标准，包括在实验室中繁育与维持的容易程度、生物的标准化、包括数据库基础设施在内的资源的积累、会议、培训工作坊，以及生物品系的配送系统。最后这类特征对他们之所以重要，是因为他们主张模式生物研究的目标之一，包括创造“一个跨生物学学科进行跨学科整合的平台，以及一个跨物种比较研究的参照点”（Ankeny and Leonelli 2020, 3）[^ankeny-2020]。当他们谈到模式生物作为生物学研究工具被公认的用处时，现象可及性的容易程度也被纳入 Ankeny 和 Leonelli 的说明。当然，他们还要求一种模式生物能够被应用于广泛的一组表征目标。
+    step2: |-
+      这些标准虽说是普遍适用于一切生物选择的，可用不用某种模式生物，通常援引的还是更窄的一组同类特征。比如 Rheinberger 说，“选择模式生物的操作性标准是：它维持、处理起来有多容易，关于它已积累的知识在数量与质量上如何，以及通达所研究现象有多方便”（Rheinberger 2010, 7）[^rheinberger-2010]。Love 与 Yoshida（2026）又从演化发育生物学添了一种视角：那里挑模式物种，是要在实验可操作性与整合发育保守性、演化变化的能力之间取得平衡——可见选材可以同时服侍实践目标与理论目标。Ankeny 与 Leonelli 给出的标准更宽：实验室里繁育、维持的难易，生物的标准化，数据库基础设施等资源的积累，会议、培训工作坊，以及生物品系的配送系统。最后这一类他们格外看重，因为他们主张模式生物研究的目标之一，就是造出“一个跨生物学学科作跨学科整合的平台，一个跨物种比较研究的参照点”（Ankeny and Leonelli 2020, 3）[^ankeny-2020]。他们讲到模式生物作为生物学研究工具被公认的用处时，现象可及之易也已含在其中。当然，他们还要求模式生物能被用于广泛的一组表征目标。
   - id: 80
     kind: body
     source: |-
       ## 5. Artificial Intelligence and Model Organisms
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. 人工智能与模式生物
+    step2: |-
+      ## 5 人工智能与模式生物
   - id: 81
     kind: body
     source: |-
       The rise of artificially intelligent, or AI, systems in science also introduces new epistemic challenges for the evaluation and use of model organisms. As AI models increasingly improve on tasks such as pattern recognition and feature extraction, they begin to function as models both for improving the scientific study of model organisms and even as substitutes for the organisms themselves.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人工智能（AI）系统在科学中的兴起，也为模式生物的评估与使用带来了新的认知挑战。随着 AI 模型在模式识别与特征提取等任务上日益进步，它们开始既作为改进模式生物科学研究的模型发挥作用，甚至也作为生物本身的替代物发挥作用。
+    step2: |-
+      人工智能（AI）系统进了科学，也给模式生物的评估与使用带来新的认知难题。AI 模型在模式识别、特征提取这类任务上越来越好，于是它们开始充当模型：既用来改进对模式生物的科学研究，甚至也用来顶替生物本身。
   - id: 82
     kind: body
     source: |-
       ### 5.1 AI as a “Discovery” Tool in Model Organism Research
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.1 AI 作为模式生物研究中的“发现”工具
+    step2: |-
+      ### 5.1 AI 作为模式生物研究中的“发现”工具
   - id: 83
     kind: body
     source: |-
       As mentioned before (see section 2.2), a central challenge for mapping model organisms to their target systems concerns what’s known about the similarity between the model and its target. Determining which features are sufficiently similar between two biological systems to justify using one as a model for the other is not only a philosophical challenge, but also an empirical one. These empirical challenges are increasingly addressed by the use of various AI techniques in the biological sciences that can handle large datasets, permitting a kind of “discovery science” for model organism research (Wooley and Lin 2005)[^wooley-2005].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如前所述（见 2.2 节），把模式生物映射到其目标系统的一个核心挑战，关乎人们对模型与其目标之间相似性的所知。判定两个生物系统之间哪些特征足够相似、从而证成用其一作为另一的模型，不仅是哲学挑战，也是经验挑战。这些经验挑战正日益通过生物科学中各种能够处理大型数据集的 AI 技术得到应对，从而使模式生物研究有可能进行一种“发现科学”（Wooley and Lin 2005）[^wooley-2005]。
+    step2: |-
+      前面说过（见 2.2 节），把模式生物映射到目标系统，核心难题在于我们对模型与目标之间的相似所知多少。两个生物系统之间哪些特征足够相似、足以证成拿一个当另一个的模型，这既是哲学难题，也是经验难题。生物科学里那些能处理大型数据集的 AI 技术，正日益接手这些经验难题，使模式生物研究有望做成一种“发现科学”（Wooley and Lin 2005）[^wooley-2005]。
   - id: 84
     kind: body
     source: |-
       In model organism selection, for instance, AI techniques assist scientists’ selection of the appropriate model organism by providing high throughput comparisons of genomic, molecular, or phenotypic similarities between candidate models and their target systems (Tee 2025)[^tee-2025]. Innovations in molecular measurement techniques are also providing more detailed longitudinal recording across the development and lifespan of animals, revising the landscape of model organism research by requiring further temporal and spatial details for model mapping. For example, identifying specific timepoints over development and the organism’s lifespan where certain features align more closely between species can refine how model organisms are chosen and interpreted in research.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，在模式生物的选择中，AI 技术通过对候选模型与其目标系统之间的基因组、分子或表型相似性提供高通量比较，协助科学家选择合适的模式生物（Tee 2025）[^tee-2025]。分子测量技术的革新也在提供跨越动物发育与寿命的、更详细的纵向记录，通过要求为模型映射提供更精细的时间与空间细节，改变着模式生物研究的格局。例如，辨识发育与生物寿命中某些特征在物种之间更接近的特定时间点，可以改进研究中模式生物被选择与被解释的方式。
+    step2: |-
+      比如在选模式生物这件事上，AI 技术对候选模型与目标系统之间的基因组、分子、表型相似性做高通量比较，帮科学家挑出合适的模式生物（Tee 2025）[^tee-2025]。分子测量技术的革新，还能沿动物发育与寿命提供更细致的纵向记录；模型映射因而要求更精细的时间与空间细节，模式生物研究的格局也随之改变。举例说，若能认出在发育与寿命中哪些具体时间点上、物种之间的某些特征更为接近，选模式生物、解释模式生物的方式都能改进。
   - id: 85
     kind: body
     source: |-
