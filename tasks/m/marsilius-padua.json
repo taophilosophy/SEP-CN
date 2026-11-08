@@ -2,7 +2,7 @@
   "slug": "marsilius-padua",
   "kind": "retranslate",
   "zh_doc": "m/marsilius-padua.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-08T14:47:51Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "M-main-20261109",
+      "at": "2026-11-08T18:40:02Z",
+      "evidence": "接手会话三重验收后收编工作区遗留初译（2026-11-09）：① python script/lq.py check m marsilius-padua 守恒 HARD=0（74 段）；② lq.py compose 干跑（去 NOTE 行）与 m/marsilius-padua.md 逐字符 diff=0；③ 抽检段1（导语）与段30（DP 定义引块）对照 yuanwen 忠实无增删。成稿 287 行 / 74 段 step2 齐备，账本 tasks/m/marsilius-padua.ledger.yaml。"
     }
   ],
   "blockers": [],
