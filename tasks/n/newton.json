@@ -2,7 +2,7 @@
   "slug": "newton",
   "kind": "retranslate",
   "zh_doc": "n/newton.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "ZCode-N-20261108",
       "at": "2026-11-08T09:19:46Z",
       "evidence": "check_academic --strict 无硬错误；人名登记 21 行、术语 18 行（含 Warden of the Mint）；check_math missing 0（本词条无公式）；check_summary H1 一致"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ZCode-N-20261108",
+      "at": "2026-11-08T09:31:06Z",
+      "evidence": "冷置后全文回读（s3 后经门禁排障、提交、他条目复核等异质工作再回读）：核导语/生平/伦敦岁月/著作影响/脚注引文各节；修正相关词条 1 项（'Newton, Isaac: Principia'→SUMMARY 主名'自然哲学的数学原理'）；引文三段（胡克信、第四条推理规则、匿名评论）逐句对照无误"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ZCode-N-20261108",
+      "at": "2026-11-08T09:31:07Z",
+      "evidence": "逐句回核原文与逻辑：关键年代全对（1642 生/25 Dec 旧历、1661 入三一、1669.10 卢卡斯教席、1687 夏初版约300部44岁、1696 督办/1699 局长、1703 会长/1705 封爵、1727.3.20 卒84岁、初版192命题500页、二版1713/三版1726、光学1704/拉丁1706/二版1717、普遍算术1707、1711 两篇）；科学史事件（拉普兰/秘鲁远征、克莱罗1749因子2、达朗贝尔1749、迈尔1753、欧拉1750s/1760s、拉普拉斯1799–1805与900年涨落）逐一核对；数字token差异全部溯源（中文数字词形/日期月序/世纪体例）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ZCode-N-20261108",
+      "at": "2026-11-08T09:31:08Z",
+      "evidence": "终稿验收：check_all 7/7 全绿；本词条 style/academic/prose/math/summary 五道全绿（prose 22→0）；成稿 144 行 14982 字符，H1 与 SUMMARY 一致；References 照录 defs 10=10、marker 15=15、脚注 4 条"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ZCode-N-20261108",
+      "at": "2026-11-08T09:31:08Z",
+      "evidence": "done：九步齐（clear/draft/s1/s2/s3/r1/r2/r3/done），账本 44 段 step2 全填、守恒 HARD=0；N 批第三条 done（N done 3/50）"
     }
   ],
   "blockers": [],
