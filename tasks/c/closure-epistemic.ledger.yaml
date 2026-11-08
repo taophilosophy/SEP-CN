@@ -666,242 +666,322 @@ segments:
     kind: body
     source: |-
       So the tracking account is a relevant alternatives approach. But why say that relevant alternatives accounts of knowledge are in tension with K? We will say this if, like Dretske, we accept the following crucial tenet: the negation of a proposition *p* is automatically a relevant alternative to *p* (no matter how bizarre or remote *not-p* might be) but often *not* a relevant alternative to things that imply *p*. For a relevant alternatives theorist, this tenet suggests that we can know something *p* only if we can rule out *not-p* but we can know things that entail *p* even if we cannot rule out *not-p*, which opens up the possibility that there are cases that violate K. For while our inability to rule out *not-p* stops us from knowing *p* it does not stop us from knowing things that entail *p*. And an example is ready to hand: the zebra case. Perhaps you cannot rule out *mule*; but that stops you from knowing *not-mule* without stopping you from knowing *zeb*. These points can be restated in terms of the conclusive reasons account. For Dretske, the negation of a proposition *p* is automatically a relevant alternative since condition CRA is automatically met; that is, it is vacuously true that:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以追踪说明是一种相关替代项进路。但为什么说相关替代项式知识说明与 K 紧张？只要像德雷茨克那样接受下面这条关键信条，我们就会这么说：命题 *p* 的否定自动成为 *p* 的相关替代项（无论 *not-p* 多么离奇或遥远），却常常 *不是* 那些蕴涵 *p* 之事的的相关替代项。对相关替代项理论家而言，这条信条意味着：我们只有在能排除 *not-p* 时才能知道 *p*；但即便不能排除 *not-p*，我们仍能知道那些蕴涵 *p* 的事。这就打开了一种可能：存在违反 K 的情形。因为无法排除 *not-p* 虽使我们不能知道 *p*，却不使我们不能知道那些蕴涵 *p* 的事。例子就在手边：斑马情形。也许你无法排除 *骡子*；但这使你无法知道 *非骡子*，却不使你无法知道 *斑马*。这些要点可用决定性理由说明重述。对德雷茨克而言，命题 *p* 的否定自动成为相关替代项，因为条件 CRA 自动满足；也就是说，下面这句空泛地为真：
+    step2: |-
+      所以追踪说明是一种相关替代项进路。但为什么说相关替代项式知识说明与 K 紧张？只要像德雷茨克那样接受下面这条关键信条，我们就会这么说：命题 *p* 的否定自动成为 *p* 的相关替代项（无论 *not-p* 多么离奇或遥远），却常常 *不是* 那些蕴涵 *p* 之事的替代项。对相关替代项理论家而言，这条信条意味着：我们只有在能排除 *not-p* 时才能知道 *p*；但即便不能排除 *not-p*，我们仍能知道那些蕴涵 *p* 的事。这就打开了一种可能：存在违反 K 的情形。因为无法排除 *not-p* 虽使我们不能知道 *p*，却不使我们不能知道那些蕴涵 *p* 的事。例子就在手边：斑马情形。也许你无法排除 *骡子*；但这使你无法知道 *非骡子*，却不使你无法知道 *斑马*。这些要点可用决定性理由说明重述。对德雷茨克而言，命题 *p* 的否定自动成为相关替代项，因为条件 CRA 自动满足；也就是说，下面这句空泛地为真：
   - id: 82
     kind: body
     source: |-
       were *p* false, *not-p* might hold.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *p* 为假，*not-p* 可能成立。
+    step2: |-
+      若 *p* 为假，*not-p* 可能成立。
   - id: 83
     kind: body
     source: |-
       Therefore *mule* is a relevant alternative to *not-mule*. Furthermore, you fail to know *not-mule* since you cannot rule out *mule*: you believe *not-mule* on the basis of your zebra-in-the-cage percepts, but you would still have these if *mule* held, contrary to CRR. Yet you know *zeb* in spite of your inability to rule out *mule*, for were *zeb* false you would not have your zebra-in-the-cage percepts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，*骡子* 是 *非骡子* 的相关替代项。此外，你无法知道 *非骡子*，因为你无法排除 *骡子*：你基于“笼中有斑马”的视觉知觉相信 *非骡子*，但若 *骡子* 成立，你仍会有这些知觉，这与 CRR 相反。然而，尽管你无法排除 *骡子*，你却知道 *斑马*；因为若 *斑马* 为假，你就不会有“笼中有斑马”的视觉知觉。
+    step2: |-
+      因此，*骡子* 是 *非骡子* 的相关替代项。此外，你无法知道 *非骡子*，因为你无法排除 *骡子*：你基于“笼中有斑马”的视觉知觉相信 *非骡子*，但若 *骡子* 成立，你仍会有这些知觉，这与 CRR 相反。然而，尽管你无法排除 *骡子*，你却知道 *斑马*；因为若 *斑马* 为假，你就不会有“笼中有斑马”的视觉知觉。
   - id: 84
     kind: body
     source: |-
       According to the second version of the argument from the analysis of knowledge any relevant alternatives view is in tension with K. How compelling is this argument? As Dretske acknowledged (2003), it is actually a weak challenge to K since some relevant alternatives accounts are fully consistent with K. For an example, we have only to adapt the safe indication view so as to make it clear that it is a relevant alternatives account (Luper 1984, 1987c, 2006)[^luper-1984].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按知识分析论证的第二版，任何相关替代项观点都与 K 紧张。这一论证有多大说服力？如德雷茨克（2003）所承认，它对 K 其实只是弱挑战，因为有些相关替代项说明与 K 完全相容。举例来说，我们只需把安全指示观点稍作调整，使之明确成为相关替代项说明（Luper 1984, 1987c, 2006）[^luper-1984]。
+    step2: |-
+      按知识分析论证的第二版，任何相关替代项观点都与 K 紧张。这一论证有多大说服力？如德雷茨克（2003）所承认，它对 K 其实只是弱挑战，因为有些相关替代项说明与 K 完全相容。举例来说，我们只需把安全指示观点稍作调整，使之明确成为相关替代项说明（Luper 1984, 1987c, 2006）[^luper-1984]。
   - id: 85
     kind: body
     source: |-
       The safe indication view can be adapted in two steps. First, we say that an alternative to *p*, *A*, is relevant if and only if the following condition is met:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      安全指示观点可分两步调整。第一步，我们说：*p* 的替代项 *A* 是相关的，当且仅当满足下述条件：
+    step2: |-
+      安全指示观点可分两步调整。第一步，我们说：*p* 的替代项 *A* 是相关的，当且仅当满足下述条件：
   - id: 86
     kind: body
     source: |-
       **(SRA)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（SRA）**
+    step2: |-
+      **（SRA）**
   - id: 87
     kind: body
     source: |-
       In *S*’s circumstances, *A* might hold.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 *S* 的情形下，*A* 可能成立。
+    step2: |-
+      在 *S* 的情形下，*A* 可能成立。
   - id: 88
     kind: body
     source: |-
       Thus any possibility that is remote is automatically irrelevant, failing SRA. Second, we say that *A* is ruled out on the basis of *R* if and only if the following condition is met:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是，任何遥远的可能性都自动不相关，不满足 SRA。第二步，我们说：*A* 基于 *R* 被排除，当且仅当满足下述条件：
+    step2: |-
+      于是，任何遥远的可能性都自动不相关，不满足 SRA。第二步，我们说：*A* 基于 *R* 被排除，当且仅当满足下述条件：
   - id: 89
     kind: body
     source: |-
       **(SIR)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（SIR）**
+    step2: |-
+      **（SIR）**
   - id: 90
     kind: body
     source: |-
       were *R* to hold *A* would not hold.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *R* 成立，*A* 就不会成立。
+    step2: |-
+      若 *R* 成立，*A* 就不会成立。
   - id: 91
     kind: body
     source: |-
       This way of understanding relevant alternatives upholds K. The key point is that if *S* knows *p* on the basis of *R*, and is thus able to rule out *p*’s relevant alternatives, then *S* can also rule out *q*’s relevant alternatives, where *q* is anything *p* implies. If *R* were to hold, *q*’s alternatives would not.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种理解相关替代项的方式支持 K。关键在于：若 *S* 基于 *R* 知道 *p*，因而能排除 *p* 的相关替代项，则 *S* 也能排除 *q* 的相关替代项，其中 *q* 是 *p* 蕴涵的任何事。若 *R* 成立，*q* 的替代项就不会成立。
+    step2: |-
+      这种理解相关替代项的方式支持 K。关键在于：若 *S* 基于 *R* 知道 *p*，因而能排除 *p* 的相关替代项，则 *S* 也能排除 *q* 的相关替代项，其中 *q* 是 *p* 蕴涵的任何事。若 *R* 成立，*q* 的替代项就不会成立。
   - id: 92
     kind: body
     source: |-
       Apparently, the relevant alternatives account can be construed in a way that supports K as well as a way that does not. Hence Dretske is not well positioned to claim that the relevant alternatives view leads “naturally” to closure failure.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      看来，相关替代项说明既可以按支持 K 的方式理解，也可以按不支持 K 的方式理解。因此，德雷茨克不大有资格声称相关替代项观点会“自然地”导致闭合失效。
+    step2: |-
+      看来，相关替代项说明既可以按支持 K 的方式理解，也可以按不支持 K 的方式理解。因此，德雷茨克不大有资格声称相关替代项观点会“自然地”导致闭合失效。
   - id: 93
     kind: body
     source: |-
       ### 2.3 Closure and Reliabilism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.3 闭合与可靠论
+    step2: |-
+      ### 2.3 闭合与可靠论
   - id: 94
     kind: body
     source: |-
       On one version of reliabilism (defended by Ramsey 1931 and Armstrong 1973, among others)[^armstrong-1973][^ramsey-1931] one knows *p* if and only if one arrives at (or sustains) the belief *p* via a reliable method. Is the reliabilist committed to *K*? The answer depends on precisely how the relevant notion of reliability is understood. If we understand reliability as tracking theorists do, we will reject closure. But there are other versions of reliabilism which sustain *K*. For example, the safe indication account is a type of reliabilism. Also, we could say that a true belief *p* is reliably formed if and only if based on an event that *usually* would occur only if *p* (or a *p*-type belief) were true. Any event that, in this sense, reliably indicates that *p* is true will also reliably indicate that *p*’s consequences are true.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在可靠论的某一版本中（拉姆齐 1931、阿姆斯特朗 1973 等人都为之辩护）[^armstrong-1973][^ramsey-1931]，一个人知道 *p*，当且仅当他经由可靠方法得到（或维持）信念 *p*。可靠论者是否承诺 *K*？答案取决于如何精确理解相关的可靠性概念。若像追踪理论家那样理解可靠性，我们就会拒斥闭合。但可靠论还有其他版本支持 *K*。例如，安全指示说明就是一类可靠论。我们也可以说：真信念 *p* 是可靠地形成的，当且仅当它基于一个 *通常* 只在 *p*（或 *p* 型信念）为真时才发生的事件。任何在这种意义上可靠指示 *p* 为真的事件，也会可靠指示 *p* 的后承为真。
+    step2: |-
+      在可靠论的某一版本中（拉姆齐 1931、阿姆斯特朗 1973 等人都为之辩护）[^armstrong-1973][^ramsey-1931]，一个人知道 *p*，当且仅当他经由可靠方法得到（或维持）信念 *p*。可靠论者是否承诺 *K*？答案取决于如何精确理解相关的可靠性概念。若像追踪理论家那样理解可靠性，我们就会拒斥闭合。但可靠论还有其他版本支持 *K*。例如，安全指示说明就是一类可靠论。我们也可以说：真信念 *p* 是可靠地形成的，当且仅当它基于一个 *通常* 只在 *p*（或 *p* 型信念）为真时才发生的事件。任何在这种意义上可靠指示 *p* 为真的事件，也会可靠指示 *p* 的后承为真。
   - id: 95
     kind: body
     source: |-
       ## 3. The Argument From Nonclosure of Knowledge Modes
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 知识方式不闭合的论证
+    step2: |-
+      ## 3. 知识方式不闭合的论证
   - id: 96
     kind: body
     source: |-
       Dretske argued (2003, 2005) that we should expect K failure because none of the modes of gaining, preserving or extending knowledge are individually closed. Dretske made his point in the form of a rhetorical question: “how is one supposed to get closure on something when every way of getting, extending and preserving it is open (2003: 113–4)?”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      德雷茨克论证（2003, 2005）说，我们应当预期 K 失效，因为获取、保持或扩展知识的方式，没有一种是各自闭合的。他以一个反问表达这一点：“当获取、扩展和保持某物的每种方式都是敞开的，人们又怎能在这某物上获得闭合呢（2003: 113–4）？”
+    step2: |-
+      德雷茨克论证（2003, 2005）说，我们应当预期 K 失效，因为获取、保持或扩展知识的方式，没有一种是各自闭合的。他以一个反问表达这一点：“当获取、扩展和保持某物的每种方式都是敞开的，人们又怎能在这某物上获得闭合呢（2003: 113–4）？”
   - id: 97
     kind: body
     source: |-
       ### 3.1 Knowledge Modes and Nonclosure
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 知识方式与不闭合
+    step2: |-
+      ### 3.1 知识方式与不闭合
   - id: 98
     kind: body
     source: |-
       As examples of modes of gaining, sustaining and extending knowledge Dretske suggested perception, testimony, proof, memory, indication, and information. To say of these items that they are not individually closed is to say that the following modes closure principles, with or without the parenthetical qualifications, are false:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作为获取、维持与扩展知识的方式的例子，德雷茨克提出知觉、证言、证明、记忆、指示与信息。说这些项目各自不闭合，就是说下面这些方式闭合原则（无论是否带括注限定）为假：
+    step2: |-
+      作为获取、维持与扩展知识的方式的例子，德雷茨克提出知觉、证言、证明、记忆、指示与信息。说这些项目各自不闭合，就是说下面这些方式闭合原则（无论是否带括注限定）为假：
   - id: 99
     kind: body
     source: |-
       **(PC)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（PC）**
+    step2: |-
+      **（PC）**
   - id: 100
     kind: body
     source: |-
       If *S* *perceives* *p*, and (*S* believes *q* because *S* knows) *p* entails *q*, then *S* perceives *q*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *S* *知觉到* *p*，且（*S* 因知道）*p* 蕴涵 *q*，则 *S* 知觉到 *q*。
+    step2: |-
+      若 *S* *知觉到* *p*，且（*S* 因知道）*p* 蕴涵 *q*，则 *S* 知觉到 *q*。
   - id: 101
     kind: body
     source: |-
       **(TC)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（TC）**
+    step2: |-
+      **（TC）**
   - id: 102
     kind: body
     source: |-
       If *S* has *received testimony* that *p*, and (*S* believes *q* because *S* knows) *p* entails *q*, then *S* has received testimony that *q*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *S* *已获得证言* 说 *p*，且（*S* 因知道）*p* 蕴涵 *q*，则 *S* 已获得证言说 *q*。
+    step2: |-
+      若 *S* *已获得证言* 说 *p*，且（*S* 因知道）*p* 蕴涵 *q*，则 *S* 已获得证言说 *q*。
   - id: 103
     kind: body
     source: |-
       **(OC)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（OC）**
+    step2: |-
+      **（OC）**
   - id: 104
     kind: body
     source: |-
       If *S* has *proven* *p*, and (*S* believes *q* because *S* knows) *p* entails *q*, then *S* has proven *q*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *S* *已证明* *p*，且（*S* 因知道）*p* 蕴涵 *q*，则 *S* 已证明 *q*。
+    step2: |-
+      若 *S* *已证明* *p*，且（*S* 因知道）*p* 蕴涵 *q*，则 *S* 已证明 *q*。
   - id: 105
     kind: body
     source: |-
       **(RC)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（RC）**
+    step2: |-
+      **（RC）**
   - id: 106
     kind: body
     source: |-
       If *S* *remembers* *p*, and (*S* believes *q* because *S* knows) *p* entails *q*, then *S* remembers *q*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *S* *记得* *p*，且（*S* 因知道）*p* 蕴涵 *q*，则 *S* 记得 *q*。
+    step2: |-
+      若 *S* *记得* *p*，且（*S* 因知道）*p* 蕴涵 *q*，则 *S* 记得 *q*。
   - id: 107
     kind: body
     source: |-
       **(IC)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（IC）**
+    step2: |-
+      **（IC）**
   - id: 108
     kind: body
     source: |-
       If *R* *indicates* *p*, and (*S* believes *q* because *S* knows) *p* entails *q*, then *R* indicates *q*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *R* *指示* *p*，且（*S* 因知道）*p* 蕴涵 *q*，则 *R* 指示 *q*。
+    step2: |-
+      若 *R* *指示* *p*，且（*S* 因知道）*p* 蕴涵 *q*，则 *R* 指示 *q*。
   - id: 109
     kind: body
     source: |-
       **(NC)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（NC）**
+    step2: |-
+      **（NC）**
   - id: 110
     kind: body
     source: |-
       If *R* *carries the information* *p*, and (*S* believes *q* because *S* knows) *p* entails *q*, then *R* carries the information *q*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *R* *携带信息* *p*，且（*S* 因知道）*p* 蕴涵 *q*，则 *R* 携带信息 *q*。
+    step2: |-
+      若 *R* *携带信息* *p*，且（*S* 因知道）*p* 蕴涵 *q*，则 *R* 携带信息 *q*。
   - id: 111
     kind: body
     source: |-
       And, according to Dretske, each of these principles fails. We may perceive that we have hands, for example, without perceiving that there are physical things.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      而按德雷茨克，这些原则每一条都失败。例如，我们可能知觉到我们有手，却知觉不到物理事物的存在。
+    step2: |-
+      而按德雷茨克，这些原则每一条都失败。例如，我们可能知觉到我们有手，却知觉不到物理事物的存在。
   - id: 112
     kind: body
     source: |-
       ### 3.2 Responses to Dretske
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 对德雷茨克的回应
+    step2: |-
+      ### 3.2 对德雷茨克的回应
   - id: 113
     kind: body
     source: |-
       There have been various rejoinders to Dretske’s argument from nonclosure of knowledge modes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对德雷茨克的知识方式不闭合论证，已有多种反驳。
+    step2: |-
+      对德雷茨克的知识方式不闭合论证，已有多种反驳。
   - id: 114
     kind: body
     source: |-
       First, failure of one or more of the modes closure principles does not imply that K fails. What matters is whether the various modes of knowledge Dretske discusses position us to know the consequences of the things we know. In other words, the issue is whether the following principle is true:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第一，一条或多条方式闭合原则失效，并不蕴涵 K 失效。关键在于：德雷茨克所讨论的那些知识方式，是否使我们处于知道已知之事后承的位置。换言之，争点在于下面这条原则是否为真：
+    step2: |-
+      第一，一条或多条方式闭合原则失效，并不蕴涵 K 失效。关键在于：德雷茨克所讨论的那些知识方式，是否使我们处于知道已知之事后承的位置。换言之，争点在于下面这条原则是否为真：
   - id: 115
     kind: body
     source: |-
       **(T)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（T）**
+    step2: |-
+      **（T）**
   - id: 116
     kind: body
     source: |-
       If, while knowing *p* via perception, testimony, proof, memory, or something that indicates or carries the information that *p*, *S* believes *q* because *p* entails *q*, then *S* knows *q*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *S* 经由知觉、证言、证明、记忆，或经由指示或携带 *p* 之信息者而知道 *p*，同时因 *p* 蕴涵 *q* 而相信 *q*，则 *S* 知道 *q*。
+    step2: |-
+      若 *S* 经由知觉、证言、证明、记忆，或经由指示或携带 *p* 之信息者而知道 *p*，同时因 *p* 蕴涵 *q* 而相信 *q*，则 *S* 知道 *q*。
   - id: 117
     kind: body
     source: |-
       Second, theorists have defended some of these modes closure principles, such as PC, IC and NC. Dretske rejects these three principles because he thinks perception, indication and information are best analyzed in terms of conclusive reasons, which undermines closure. But the three principles (or something very much like them) may be defended if we analyze perception, indication and information in terms of safe indication. Consider IC and NC. Both are true if we analyze indication and information as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二，理论家已为其中一些方式闭合原则辩护，如 PC、IC 与 NC。德雷茨克拒斥这三条原则，因为他认为知觉、指示与信息最好用决定性理由来分析，而决定性理由会瓦解闭合。但若我们用安全指示来分析知觉、指示与信息，这三条原则（或与之极为相近者）便可获辩护。且看 IC 与 NC。若把指示与信息分析如下，二者都为真：
+    step2: |-
+      第二，理论家已为其中一些方式闭合原则辩护，如 PC、IC 与 NC。德雷茨克拒斥这三条原则，因为他认为知觉、指示与信息最好用决定性理由来分析，而决定性理由会瓦解闭合。但若我们用安全指示来分析知觉、指示与信息，这三条原则（或与之极为相近者）便可获辩护。且看 IC 与 NC。若把指示与信息分析如下，二者都为真：
   - id: 118
     kind: body
     source: |-
       *R* indicates *p* iff *p* would be true if *R* held.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *R* 指示 *p*，当且仅当若 *R* 成立，*p* 就会为真。
+    step2: |-
+      *R* 指示 *p*，当且仅当若 *R* 成立，*p* 就会为真。
   - id: 119
     kind: body
     source: |-
       *R* carries the information that *p* iff *p* would be true if *R* held.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *R* 携带 *p* 的信息，当且仅当若 *R* 成立，*p* 就会为真。
+    step2: |-
+      *R* 携带 *p* 的信息，当且仅当若 *R* 成立，*p* 就会为真。
   - id: 120
     kind: body
     source: |-
       A version of PC may be defended if we make use of Dretske’s own notion of indirect perception (1969). Consider a scientist who studies the behavior of electrons by watching bubbles they leave behind in a cloud chamber. The electrons themselves are invisible, but the scientist can perceive *that* the (invisible) electrons are moving in certain ways *by* perceiving that the (visible) bubbles left behind are arranging themselves in specific ways. What we directly perceive positions us to perceive various things indirectly. Now assume that when we directly or indirectly perceive *p*, and this causes us to believe *q*, where *p* entails *q*, we are positioned to perceive *q* indirectly. Then we are well on our way to accepting some version of PC, such as, for example:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若借助德雷茨克本人关于间接知觉的概念（1969），PC 的某一版本便可获辩护。设想一位科学家研究电子行为，办法是观察电子在云室中留下的气泡。电子本身不可见，但科学家可以通过知觉到（可见的）气泡以特定方式排列，而知觉到（不可见的）电子正以某些方式运动。我们直接知觉到的东西，使我们处于间接知觉各种事物的位置。现在假定：当我们直接或间接知觉到 *p*，而这又使我们相信 *q*（其中 *p* 蕴涵 *q*）时，我们便处于间接知觉 *q* 的位置。那么，我们离接受 PC 的某个版本就不远了，例如：
+    step2: |-
+      若借助德雷茨克本人关于间接知觉的概念（1969），PC 的某一版本便可获辩护。设想一位科学家研究电子行为，办法是观察电子在云室中留下的气泡。电子本身不可见，但科学家可以通过知觉到（可见的）气泡以特定方式排列，而知觉到（不可见的）电子正以某些方式运动。我们直接知觉到的东西，使我们处于间接知觉各种事物的位置。现在假定：当我们直接或间接知觉到 *p*，而这又使我们相信 *q*（其中 *p* 蕴涵 *q*）时，我们便处于间接知觉 *q* 的位置。那么，我们离接受 PC 的某个版本就不远了，例如：
   - id: 121
     kind: body
     source: |-
