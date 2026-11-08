@@ -2,7 +2,7 @@
   "slug": "imprecise-probabilities",
   "kind": "retranslate",
   "zh_doc": "i/imprecise-probabilities.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-07T22:48:07Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "I-main-20261108",
+      "at": "2026-11-08T07:11:37Z",
+      "evidence": "账本 167 段（body 165 + OIR 1 + 致谢 1）step1/step2 双版齐；lq check 守恒通过（脚注键/$/\\*\\* 逐段零硬残余）；compose 写回 63356 字符/579 行"
     }
   ],
   "blockers": [],

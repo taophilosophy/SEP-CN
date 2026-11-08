@@ -165,7 +165,7 @@ segments:
     source: |-
       The alternative approach that will be the main focus of this article is the approach that represents belief by a *set* of probability functions instead of a single probability. So instead of having some $p$ represent your belief state, you have $P$, a set of such functions. van Fraassen (1990) calls this your *representor*, Levi calls it a *credal set*. I will discuss various ways you might interpret the representor later but for now we can think of it as follows. Your representor is a *credal committee*: each probability function in it represents the opinions of one member of a committee that, collectively, represents your beliefs.
     step1: |-
-      本文主要关注的另一种进路，是用概率函数的 *集合* 而非单一概率来表征信念。于是，不再是某个 $p$ 表征你的信念状态，而是 $P$，一个此类函数的集合。van Fraassen（1990）称之为你的 *representor*，Levi 称之为 *credal set*。我稍后会讨论解释表征集的各种方式，目前可以这样理解：你的表征集是一个 *credal committee*：其中的每一个概率函数代表委员会一位成员的意见，而委员会集体地表征你的信念。
+      本文主要关注的另一种进路，是用概率函数的 集合 而非单一概率来表征信念。于是，不再是某个 $p$ 表征你的信念状态，而是 $P$，一个此类函数的集合。van Fraassen（1990）称之为你的 *representor*，Levi 称之为 *credal set*。我稍后会讨论解释表征集的各种方式，目前可以这样理解：你的表征集是一个 *credal committee*：其中的每一个概率函数代表委员会一位成员的意见，而委员会集体地表征你的信念。
     step2: |-
       本文主要关注的另一种进路，是用概率函数的集合而非单一概率来表征信念。于是，不再是某个 $p$ 表征你的信念状态，而是 $P$，一个由这类函数构成的集合。van Fraassen（1990）称之为你的 *representor*（表征集），Levi 则称之为 *credal set*（信度集）。解释表征集的方式有多种，稍后再论；目前不妨这样理解：你的表征集是一个 *credal committee*（信度委员会）：其中每个概率函数代表委员会一位成员的意见，而委员会集体地表征你的信念。
   - id: 17
@@ -173,7 +173,7 @@ segments:
     source: |-
       From these concepts we can define some “summary functions” that are often used in discussions of imprecise probabilities. Often, it is assumed that your degree of belief in a proposition, $X$, is represented by $P(X) = \{p(X) : p\in P \}$. I will adopt this notational convention, with the proviso that I don’t take $P(X)$ to be an adequate representation of your degree of belief in $X$. Your *lower envelope* of $X$ is: $\underline{P}(X)=\inf P(X)$. Likewise, your *upper envelope* is $\overline{P}(X)=\sup P(X)$. They are *conjugates* of each other in the following sense: $\overline{P}(X) = 1 - \underline{P}(\neg X)$.
     step1: |-
-      由这些概念，我们可以定义一些在非精确概率讨论中常用的“汇总函数”。通常假定，你对命题 $X$ 的置信度由 $P(X) = \{p(X) : p\in P\}$ 表征。我将采用这一记号约定，但附带一个限定：我并不认为 $P(X)$ 足以表征你对 $X$ 的置信度。你对 $X$ 的 *下包络* 是 $\underline{P}(X)=\inf P(X)$。同样，你的 *上包络* 是 $\overline{P}(X)=\sup P(X)$。二者在如下意义上是彼此的 *共轭*：$\overline{P}(X) = 1 - \underline{P}(\neg X)$。
+      由这些概念，我们可以定义一些在非精确概率讨论中常用的“汇总函数”。通常假定，你对命题 $X$ 的置信度由 $P(X) = \{p(X) : p\in P\}$ 表征。我将采用这一记号约定，但附带一个限定：我并不认为 $P(X)$ 足以表征你对 $X$ 的置信度。你对 $X$ 的 下包络 是 $\underline{P}(X)=\inf P(X)$。同样，你的 上包络 是 $\overline{P}(X)=\sup P(X)$。二者在如下意义上是彼此的 共轭：$\overline{P}(X) = 1 - \underline{P}(\neg X)$。
     step2: |-
       由这些概念可以定义若干“汇总函数”，它们在非精确概率的讨论中经常出现。通常假定，你对命题 $X$ 的置信度由 $P(X) = \{p(X) : p\in P\}$ 表征。我将沿用这一记号约定，但附带一项限定：我并不认为 $P(X)$ 足以表征你对 $X$ 的置信度。你对 $X$ 的 *lower envelope*（下包络）为 $\underline{P}(X)=\inf P(X)$；相应地，*upper envelope*（上包络）为 $\overline{P}(X)=\sup P(X)$。二者在如下意义上是彼此的 *conjugates*（共轭）：$\overline{P}(X) = 1 - \underline{P}(\neg X)$。
   - id: 18
@@ -251,7 +251,7 @@ segments:
     source: |-
       An important parameter in an IP theory is the normative force the theory is supposed to have. Is imprecision obligatory or is it merely permissible? Is it *always* permissible/obligatory, or only sometimes? Or we might be interested in a purely descriptive project of characterising the credal states of actual agents, with no interest in normative questions. This last possibility will concern us little in this article.
     step1: |-
-      IP 理论中的一个重要参数，是该理论被赋予的规范效力。不精确是义务性的，还是仅仅许可性的？它是 *始终* 许可／义务的，还是只在某些时候如此？或者，我们可能关心一个纯描述性的工程，即刻画现实行动者的信度状态，而对规范问题不感兴趣。最后一种可能性在本文中较少涉及。
+      IP 理论中的一个重要参数，是该理论被赋予的规范效力。不精确是义务性的，还是仅仅许可性的？它是 始终 许可／义务的，还是只在某些时候如此？或者，我们可能关心一个纯描述性的工程，即刻画现实行动者的信度状态，而对规范问题不感兴趣。最后一种可能性在本文中较少涉及。
     step2: |-
       IP 理论的一个要紧参数，是该理论被赋予的规范效力：不精确是强制性的，还是仅仅是允许的？它是始终允许／强制，还是只在某些场合如此？又或者，我们关心的是一个纯描述性的工程，只求刻画现实行动者的信度状态，不问规范问题。最后一种可能性在本文中着墨不多。
   - id: 27
@@ -267,7 +267,7 @@ segments:
     source: |-
       There are a variety of aspects of a body of evidence that could make a difference to how you ought to respond to it. We can ask *how much* evidence there is (weight of evidence). We can ask whether the evidence is balanced or whether it tells heavily in favour of one hypothesis over another (balance of evidence). Evidence can be balanced because it is *incomplete*: there simply isn’t enough of it. Evidence can also be balanced if it is *conflicted*: different pieces of evidence favour different hypotheses. We can further ask whether evidence tells us something *specific*—like that the bias of a coin is 2/3 in favour of heads—or unspecific—like that the bias of a coin is between 2/3 and 1 in favour of heads. This specificity should be distinguished from vagueness or indeterminacy of evidence: that a coin has bias *about* 2/3 is vague but specific, while that a coin has bias definitely somewhere between 2/3 and 1 is determinate but unspecific. Likewise, a credal state could be indeterminate, fuzzy, or it could be unspecific, or it could be both. It seems like determinate but unspecific belief states will be rarer than indeterminate ones.
     step1: |-
-      一份证据总体的诸多方面都可能影响你应当如何回应它。我们可以问证据 *有多少*（证据权重）。我们可以问证据是否平衡，或者是否强烈地偏向某一假说而非另一假说（证据平衡）。证据可能因为 *不完备* 而平衡：证据根本不够。证据也可能因为 *相互冲突* 而平衡：不同的证据支持不同的假说。我们还可以问证据告诉我们的是 *具体的* 东西（例如硬币的偏向为三分之二有利于正面），还是不具体的东西（例如硬币的偏向介于三分之二与一之间有利于正面）。这种具体性应当与证据的模糊或不确定相区别：硬币偏向 *大约* 三分之二是模糊但具体的，而硬币偏向肯定处于三分之二与一之间则是确定但不具体的。同样，一个信度状态可能不确定、模糊，也可能不具体，或者两者兼有。看来，确定但不具体的信念状态会比不确定的信念状态更为少见。
+      一份证据总体的诸多方面都可能影响你应当如何回应它。我们可以问证据 有多少（证据权重）。我们可以问证据是否平衡，或者是否强烈地偏向某一假说而非另一假说（证据平衡）。证据可能因为 不完备 而平衡：证据根本不够。证据也可能因为 相互冲突 而平衡：不同的证据支持不同的假说。我们还可以问证据告诉我们的是 具体的 东西（例如硬币的偏向为三分之二有利于正面），还是不具体的东西（例如硬币的偏向介于三分之二与一之间有利于正面）。这种具体性应当与证据的模糊或不确定相区别：硬币偏向 大约 三分之二是模糊但具体的，而硬币偏向肯定处于三分之二与一之间则是确定但不具体的。同样，一个信度状态可能不确定、模糊，也可能不具体，或者两者兼有。看来，确定但不具体的信念状态会比不确定的信念状态更为少见。
     step2: |-
       一组证据的方方面面，都可能影响你应当如何回应它。我们可以问证据有多少（证据权重），也可以问证据是否平衡、抑或强烈地偏向某一假说而排斥另一假说（证据平衡）。证据之所以平衡，可能由于不完备：证据根本不够；也可能由于相互冲突：不同的证据支持不同的假说。我们还可以问，证据所告知的是具体的情形（例如硬币偏向以三分之二有利于正面），还是不具体的情形（例如硬币偏向介于三分之二与一之间、有利于正面）。这种具体性应与证据的模糊或非确定性区别开来：硬币偏向大约三分之二是模糊而具体的，而硬币偏向确定落在三分之二与一之间则是确定而不具体的。同样，一个信度状态可以是非确定的、模糊的，也可以是不具体的，或两者兼具。看来，确定而不具体的信念状态会比非确定的信念状态更少见。
   - id: 29
@@ -283,7 +283,7 @@ segments:
     source: |-
       There is a further question about the interpretation of IP that cross-cuts the above. This is the question of whether we understand $P$ as a “complete” or “exhaustive” representation of your beliefs, or whether we take the representation to be incomplete or non-exhaustive. Let’s talk in terms of the betting interpretation for a moment. The exhaustive/non-exhaustive distinction can be drawn by asking the following question: does $P$ capture *all and only* your dispositions to bet or does $P$ only partially capture your dispositions to bet? Walley emphasises this distinction and suggests that most models are non-exhaustive.
     step1: |-
-      关于 IP 的解释还有一个问题，它横切上述诸问题：我们是把 $P$ 理解为你信念的“完备”或“穷尽”的表征，还是认为该表征是不完备或非穷尽的？暂且用赌博解释来说。穷尽／非穷尽的区分可以通过如下问题引出：$P$ 是否 *恰好且全部* 把握了你的赌博倾向，还是只部分地把握了你的赌博倾向？Walley 强调这一区分，并认为多数模型都是非穷尽的。
+      关于 IP 的解释还有一个问题，它横切上述诸问题：我们是把 $P$ 理解为你信念的“完备”或“穷尽”的表征，还是认为该表征是不完备或非穷尽的？暂且用赌博解释来说。穷尽／非穷尽的区分可以通过如下问题引出：$P$ 是否 恰好且全部 把握了你的赌博倾向，还是只部分地把握了你的赌博倾向？Walley 强调这一区分，并认为多数模型都是非穷尽的。
     step2: |-
       关于 IP 的解释，还有一个横切上述诸端的问题：我们是把 $P$ 理解为你信念的“完备”或“穷尽”的表征，还是认为这一表征本就不完备、非穷尽？不妨暂借赌博解释来说。要划出穷尽／非穷尽之分，可以问：$P$ 是否恰好且全部地把握了你的赌博倾向，抑或 $P$ 只把握了其中一部分？Walley 强调这一区分，并认为多数模型都是非穷尽的。
   - id: 31
@@ -347,7 +347,7 @@ segments:
     source: |-
       Consider the indicator gambles for various events in this scenario. Consider a choice between a bet that wins if the marble drawn is red (I), versus a bet that wins if the marble drawn is blue (II). You might prefer I to II since I involves *risk* while II involves *ambiguity*. A prospect is risky if its outcome is uncertain but its outcomes occur with known probability. A prospect is ambiguous if the outcomes occur with unknown or only partially known probabilities. Now consider a choice between a bet that wins if the marble drawn is not blue (III) versus a bet that wins if the marble drawn is not red (IV). Now it is III that is ambiguous, while IV is unambiguous but risky, and thus IV might seem better to you if you preferred risky to ambiguous prospects. Such a pattern of preferences (I preferred to II but IV preferred to III) cannot be rationalised as the choices of a precise expected utility maximiser. The gambles are summarised in the table.
     step1: |-
-      考虑此情景中各种事件的指示赌局。考虑在“抽到红球即赢”（I）的赌与“抽到蓝球即赢”（II）的赌之间作选择。你可能偏好 I 甚于 II，因为 I 涉及 *风险*，而 II 涉及 *歧义*。一个前景若其结果不确定、但结果以已知概率出现，就是有风险的。一个前景若其结果以未知或仅部分已知的概率出现，就是有歧义的。现在考虑在“抽到的不是蓝球即赢”（III）与“抽到的不是红球即赢”（IV）之间作选择。此时有歧义的是 III，而 IV 无歧义但有风险；因此若你偏好有风险甚于有歧义的前景，IV 在你看来可能更好。这样的偏好模式（偏好 I 甚于 II，却偏好 IV 甚于 III）无法被合理化为一位精确期望效用最大化者的选择。这些赌局汇总于表中。
+      考虑此情景中各种事件的指示赌局。考虑在“抽到红球即赢”（I）的赌与“抽到蓝球即赢”（II）的赌之间作选择。你可能偏好 I 甚于 II，因为 I 涉及 风险，而 II 涉及 歧义。一个前景若其结果不确定、但结果以已知概率出现，就是有风险的。一个前景若其结果以未知或仅部分已知的概率出现，就是有歧义的。现在考虑在“抽到的不是蓝球即赢”（III）与“抽到的不是红球即赢”（IV）之间作选择。此时有歧义的是 III，而 IV 无歧义但有风险；因此若你偏好有风险甚于有歧义的前景，IV 在你看来可能更好。这样的偏好模式（偏好 I 甚于 II，却偏好 IV 甚于 III）无法被合理化为一位精确期望效用最大化者的选择。这些赌局汇总于表中。
     step2: |-
       试看此情景中各事件的指示赌局。先在“抽到红色即赢”（I）与“抽到蓝色即赢”（II）之间选择：你或许偏好 I 而非 II，因为 I 涉及 *risk*（风险），II 则涉及 *ambiguity*（歧义）。一个前景，若其结果不确定、但各结果以已知概率出现，便是有风险的；若各结果出现的概率未知或仅部分已知，则是有歧义的。再在“抽到的不是蓝色即赢”（III）与“抽到的不是红色即赢”（IV）之间选择：此时有歧义的是 III，IV 虽无歧义却有风险，故若你宁愿承担风险而不愿面对歧义，IV 在你看来便较好。这样一种偏好模式（宁取 I 而不取 II，却宁取 IV 而不取 III），无法被合理化为精确期望效用最大化者的选择。诸赌局汇总于下表。
   - id: 39
@@ -357,7 +357,7 @@ segments:
     step1: |-
       *Table 1:*
     step2: |-
-      *表 1：*
+      表 1：
   - id: 40
     kind: body
     source: |-
@@ -434,7 +434,7 @@ segments:
     source: |-
       Various arguments for (precise) probabilism assume that some relation or other is complete. Whether this is a preference over acts, or some “qualitative probability ordering”, the relation is assumed to hold one way or the other between any two elements of the domain. This hardly seems like it should be a principle of rationality, especially in cases of severe uncertainty. That is—to take the preference example—it is reasonable to have no preference in either direction. This is an importantly different attitude to being *indifferent* between the options. Mark Kaplan argues this point as follows:
     step1: |-
-      支持（精确）概率主义的各种论证都假定某种关系是完全的。无论这是对行动项的偏好，还是某种“定性概率排序”，该关系都被假定在论域中任意两个元素之间总以某种方式成立。这很难说应当成为一条理性原则，在严重不确定的情形中尤其如此。也就是说——以偏好为例——在两个方向上都没有偏好，是合理的。这与在诸选项之间 *无差异* 是一种重要不同的态度。Mark Kaplan 对此论证如下：
+      支持（精确）概率主义的各种论证都假定某种关系是完全的。无论这是对行动项的偏好，还是某种“定性概率排序”，该关系都被假定在论域中任意两个元素之间总以某种方式成立。这很难说应当成为一条理性原则，在严重不确定的情形中尤其如此。也就是说——以偏好为例——在两个方向上都没有偏好，是合理的。这与在诸选项之间 无差异 是一种重要不同的态度。Mark Kaplan 对此论证如下：
     step2: |-
       为（精确）概率主义辩护的种种论证，都预设某种关系是完全的：不论是对行动项的偏好，还是某种“定性概率排序”，都假定该关系在论域任取两元素时必以某一方向成立。这很难算得上一条理性原则，在严重不确定的情形下尤其如此。以偏好为例：在两个方向上都不持偏好，本是合理的。这与对诸选项抱持 *indifferent*（无差异）的态度迥然不同。Mark Kaplan 对此作了如下论证：
   - id: 48
@@ -450,7 +450,7 @@ segments:
     source: |-
       There is a standard *behaviourist* response to the claim that incomparability and indifference should be distinguished. In short, the claim is that it is a distinction that cannot be inferred from actual agents’ choice behaviour. Ultimately, in a given choice situation you must choose one of the options. Which you choose can be interpreted as being (weakly) preferred. Joyce offers the following criticism of this appeal to behaviourism.
     step1: |-
-      对于“不可比与无差异应当区分”这一主张，有一种标准的 *行为主义* 回应。简言之，该主张认为：这一区分无法从现实行动者的选择行为中推断出来。归根到底，在给定的选择情境中，你必须选择其中一个选项。你选择哪一个，都可以被解释为（弱）偏好哪一个。Joyce 对这种诉诸行为主义的做法提出了如下批评。
+      对于“不可比与无差异应当区分”这一主张，有一种标准的 行为主义 回应。简言之，该主张认为：这一区分无法从现实行动者的选择行为中推断出来。归根到底，在给定的选择情境中，你必须选择其中一个选项。你选择哪一个，都可以被解释为（弱）偏好哪一个。Joyce 对这种诉诸行为主义的做法提出了如下批评。
     step2: |-
       对于“不可比应与无差异相区别”这一主张，有一种标准的 *behaviourist*（行为主义）回应，其要旨是：这一区分无法从现实行动者的选择行为中推断出来——毕竟在给定的选择情境中，你总得择其一，而你选了哪一个，便可解释为你（弱）偏好哪一个。Joyce 对这种诉诸行为主义的做法有如下批评。
   - id: 50
@@ -458,7 +458,7 @@ segments:
     source: |-
       > There are just too many things worth saying that cannot be said within the confines of strict behaviorism… The basic difficulty here is that it is impossible to distinguish contexts in which an agent’s behavior really does reveal what she wants from contexts in which it does not without appealing to additional facts about her mental state… An even more serious shortcoming is behaviorism’s inability to make sense of *rationalizing explanations* of choice behavior. (Joyce 1999: 21)[^joyce-1999]
     step1: |-
-      > 有太多值得一说的事情，在严格行为主义的樊篱之内无从说起……根本的困难在于：若不诉诸关于行动者心灵状态的额外事实，就无法把“其行为确实揭示其所欲”的语境与“并不揭示”的语境区分开来……更为严重的缺陷是，行为主义无法理解对选择行为的 *合理化解释*。（Joyce 1999: 21）[^joyce-1999]
+      > 有太多值得一说的事情，在严格行为主义的樊篱之内无从说起……根本的困难在于：若不诉诸关于行动者心灵状态的额外事实，就无法把“其行为确实揭示其所欲”的语境与“并不揭示”的语境区分开来……更为严重的缺陷是，行为主义无法理解对选择行为的 合理化解释。（Joyce 1999: 21）[^joyce-1999]
     step2: |-
       > 值得一说的东西实在太多，而严格行为主义的樊篱之内却说不出多少……根本的困难在于：若不借助关于行动者心理状态的额外事实，就无法区分“其行为确实透露其所欲”的语境与“并不透露”的语境……更严重的缺陷在于，行为主义无法理解对选择行为的 *rationalizing explanations*（合理化解释）。（Joyce 1999: 21）[^joyce-1999]
   - id: 51
@@ -466,9 +466,9 @@ segments:
     source: |-
       On top of this, behaviourists cannot make sense of the fact that incomparable goods are *insensitive to small improvements*. That is, if $A$ and $B$ are two goods that you have no preference between (for example, bets on propositions with imprecise probabilities) and if $A^+$ is a good slightly better than $A$, then it might still be incomparable with $B$. This distinguishes incomparability from indifference, since indifference “ties” will be broken by small improvements. So the claim that there is no behavioural difference between indifference and incomparability is false.
     step1: |-
-      除此之外，行为主义者也无法理解这一事实：不可比的善 *对微小的改善不敏感*。也就是说，若 $A$ 与 $B$ 是两项你并不偏好其一的善（例如对具有非精确概率的命题的押注），而 $A^+$ 是略优于 $A$ 的善，那么 $A^+$ 仍可能与 $B$ 不可比。这把不可比与无差异区别开来，因为无差异的“平局”会被微小的改善打破。因此，“无差异与不可比之间没有行为差异”这一主张是假的。
+      除此之外，行为主义者也无法理解这一事实：不可比的善 对微小的改善不敏感。也就是说，若 $A$ 与 $B$ 是两项你并不偏好其一的善（例如对具有非精确概率的命题的押注），而 $A^+$ 是略优于 $A$ 的善，那么 $A^+$ 仍可能与 $B$ 不可比。这把不可比与无差异区别开来，因为无差异的“平局”会被微小的改善打破。因此，“无差异与不可比之间没有行为差异”这一主张是假的。
     step2: |-
-      此外，行为主义者还无从解释如下事实：不可比的善 *对轻微的改善并不敏感*。设 $A$ 与 $B$ 是两项你并不偏好其一的善（例如对概率非精确的命题所下的押注），$A^+$ 是略胜于 $A$ 的善，则它仍可能与 $B$ 不可比。这正是不可比与无差异的分野：无差异造成的“平局”会被微小的改善打破。可见“无差异与不可比之间并无行为差异”之说为假。
+      此外，行为主义者还无从解释如下事实：不可比的善 对轻微的改善并不敏感。设 $A$ 与 $B$ 是两项你并不偏好其一的善（例如对概率非精确的命题所下的押注），$A^+$ 是略胜于 $A$ 的善，则它仍可能与 $B$ 不可比。这正是不可比与无差异的分野：无差异造成的“平局”会被微小的改善打破。可见“无差异与不可比之间并无行为差异”之说为假。
   - id: 52
     kind: body
     source: |-
@@ -482,7 +482,7 @@ segments:
     source: |-
       > [M]y reason for rejecting as falsely precise the demand that you adopt a … set of preferences [that satisfy the preference axioms] is not the usual one. It is not that this demand is not humanly satisfiable. For if *that* were all that was wrong, the demand might still play a useful role as a regulative ideal—an ideal which might then be legitimately invoked to get you to “solve” your decision problem as the orthodox Bayesian would have you do. My complaint about the orthodox Bayesian demand is rather that it imposes the wrong regulative ideal. For if you have [such a] set of preferences then you have a determinate assignment of [$p$] to every hypothesis—and then you are not giving evidence its due. (Kaplan 1983: 571)[^kaplan-1983]
     step1: |-
-      > 我之所以把“要求你采纳一组（满足偏好公理的）偏好”斥为虚假的精确，理由并非常见的那一种。我的理由并不是这一要求非人力所能满足。因为倘若 *那* 就是全部问题所在，这一要求仍可扮演有用的范导性理想——一个可以正当地被援引、以促使你像正统贝叶斯主义者所要求的那样去“解决”你的决策问题的理想。我对正统贝叶斯主义之要求的抱怨毋宁是：它强加的是错误的范导性理想。因为倘若你拥有（这样一组）偏好，你便对每一假说都有了确定的 [$p$] 赋值——于是你便没有给予证据其应得的分量。（Kaplan 1983: 571）[^kaplan-1983]
+      > 我之所以把“要求你采纳一组（满足偏好公理的）偏好”斥为虚假的精确，理由并非常见的那一种。我的理由并不是这一要求非人力所能满足。因为倘若 那 就是全部问题所在，这一要求仍可扮演有用的范导性理想——一个可以正当地被援引、以促使你像正统贝叶斯主义者所要求的那样去“解决”你的决策问题的理想。我对正统贝叶斯主义之要求的抱怨毋宁是：它强加的是错误的范导性理想。因为倘若你拥有（这样一组）偏好，你便对每一假说都有了确定的 [$p$] 赋值——于是你便没有给予证据其应得的分量。（Kaplan 1983: 571）[^kaplan-1983]
     step2: |-
       > 我把“要求你采纳一组（满足偏好公理的）偏好”斥为虚假的精确，理由并不是常见的那一种：我的理由并非这一要求非人力所能满足。倘若 *that*（那）便是全部症结，这要求倒仍可充当有用的范导性理想——一个可以正当地援引、以促使你像正统贝叶斯主义者所要求的那样去“解决”决策问题的理想。我对正统贝叶斯主义之要求的抱怨毋宁在于：它所强加的是错误的范导性理想。因为倘若你拥有（这样一组）偏好，你便对每一假说都有确定的 [$p$] 赋值——于是你便没有把证据应得的分量给它。（Kaplan 1983: 571）[^kaplan-1983]
   - id: 54
@@ -490,9 +490,9 @@ segments:
     source: |-
       He notes that it is not the case that it is always unreasonable or impossible for you to have precise beliefs: in that case precision could serve as a regulative ideal. Precise probabilism does still serve as something of a regulative ideal, but it is the belief of an ideal agent *in an idealised evidential position*. Idealised evidential positions are approximated by cases where you have a coin of a known bias. Precise probabilists and advocates of IP both agree that precise probabilism is an idealisation, and a regulative ideal. However, they differ as to what kind of idealisation is involved. Precise probabilists think that what precludes us from having precise probabilistic beliefs is merely a lack of computational power and introspective capacity. Imprecise probabilists think that even agents ideal in this sense might (and possibly *should*) fail to have precise probabilistic beliefs when they are not in an ideal *evidential* position.
     step1: |-
-      他指出，情况并非总是如此：你持有精确信念并不总是非理性的或不可能的；若果真如此，精确性便可充当范导性理想。精确概率主义确实仍在某种意义上充当范导性理想，只不过那是理想行动者 *在理想化证据位置* 上的信念。理想化的证据位置，近似于你持有一枚已知偏向的硬币这类情形。精确概率主义者与 IP 的倡导者都同意：精确概率主义是一种理想化，也是一种范导性理想。然而，他们在所涉的是何种理想化上存在分歧。精确概率主义者认为，妨碍我们持有精确概率信念的，仅仅是计算能力与内省能力的欠缺。非精确概率主义者则认为，即便在这两方面理想的行为者，当其不处于理想的 *证据* 位置时，也可能（或许还 *应当*）不具备精确的概率信念。
+      他指出，情况并非总是如此：你持有精确信念并不总是非理性的或不可能的；若果真如此，精确性便可充当范导性理想。精确概率主义确实仍在某种意义上充当范导性理想，只不过那是理想行动者 在理想化证据位置 上的信念。理想化的证据位置，近似于你持有一枚已知偏向的硬币这类情形。精确概率主义者与 IP 的倡导者都同意：精确概率主义是一种理想化，也是一种范导性理想。然而，他们在所涉的是何种理想化上存在分歧。精确概率主义者认为，妨碍我们持有精确概率信念的，仅仅是计算能力与内省能力的欠缺。非精确概率主义者则认为，即便在这两方面理想的行为者，当其不处于理想的 证据 位置时，也可能（或许还 应当）不具备精确的概率信念。
     step2: |-
-      他指出，并非任何情形下你持有精确信念都属非理性或不可能；若果然如此，精确性便可充当范导性理想。精确概率主义确实仍在某种意义上充当范导性理想，只是它所刻画的是理想行动者 *在理想化证据位置* 上的信念。理想化的证据位置，近似于你手持一枚已知偏向的硬币这类情形。精确概率主义者与 IP 的倡导者都同意：精确概率主义是一种理想化，也是一种范导性理想；分歧在于所涉的是何种理想化。精确概率主义者认为，妨碍我们持有精确概率信念的，不过是计算能力与内省能力的欠缺；非精确概率主义者则认为，即便在这两方面堪称理想的行为者，只要不处于理想的 *证据* 位置，也可能（或许还 *应当*）不具备精确的概率信念。
+      他指出，并非任何情形下你持有精确信念都属非理性或不可能；若果然如此，精确性便可充当范导性理想。精确概率主义确实仍在某种意义上充当范导性理想，只是它所刻画的是理想行动者 在理想化证据位置 上的信念。理想化的证据位置，近似于你手持一枚已知偏向的硬币这类情形。精确概率主义者与 IP 的倡导者都同意：精确概率主义是一种理想化，也是一种范导性理想；分歧在于所涉的是何种理想化。精确概率主义者认为，妨碍我们持有精确概率信念的，不过是计算能力与内省能力的欠缺；非精确概率主义者则认为，即便在这两方面堪称理想的行为者，只要不处于理想的 证据 位置，也可能（或许还 应当）不具备精确的概率信念。
   - id: 55
     kind: body
     source: |-
@@ -506,9 +506,9 @@ segments:
     source: |-
       It seems permissible to fail to have a preference between two options. Or it seems reasonable to fail to consider either of two possibilities more likely than the other. And these failures to assent to certain judgements is not the same as considering the two elements under consideration to be *on a par* in any substantive sense. That said, precise probabilism is serving as a regulative ideal. That is, precision might still be an unattained (possibly unattainable) goal that informs agents as to how they might improve their credences. Completeness of preference is what the thoroughly informed agent ought to have. Without complete preference, standard representation theorems don’t work. However, for each *completion* of the incomplete preference ordering—for each complete ordering that extends the incomplete preference relation—the theorem follows. So if we consider the set of probability functions that are such that some completion of the incomplete preference is represented by that function, then we can consider this set to be representing the beliefs associated with the incomplete preference. We also get, for each completion, a utility function unique up to linear transformation. This, in essence, was Kaplan’s position (see Kaplan 1983; 1996)[^kaplan-1983].
     step1: |-
-      在两个选项之间没有偏好，似乎是许可的；认为两种可能性中无一更可能，似乎也是合理的。而这些不肯首肯某些判断的情形，并不等同于认为所考虑的两个元素在实质意义上 *不相上下*。话虽如此，精确概率主义仍在充当范导性理想。也就是说，精确性仍可能是一个未达到（也许不可达到）的目标，它告诉行动者可以如何改进其信度。偏好的完全性，是充分掌握信息的行动者所应有的。没有完全的偏好，标准的表征定理便不成立。然而，对于不完全偏好序的每一个 *完全化*——对每一个延展该不完全偏好关系的完全序——定理都随之成立。因此，若我们考虑这样的概率函数集合：不完全偏好的某个完全化由该函数表征，那么我们就可以认为这一集合表征了与不完全偏好相联系的信念。对每个完全化，我们还得到一个在直到线性变换的意义上唯一的效用函数。这实质上就是 Kaplan 的立场（见 Kaplan 1983; 1996）[^kaplan-1983]。
+      在两个选项之间没有偏好，似乎是许可的；认为两种可能性中无一更可能，似乎也是合理的。而这些不肯首肯某些判断的情形，并不等同于认为所考虑的两个元素在实质意义上 不相上下。话虽如此，精确概率主义仍在充当范导性理想。也就是说，精确性仍可能是一个未达到（也许不可达到）的目标，它告诉行动者可以如何改进其信度。偏好的完全性，是充分掌握信息的行动者所应有的。没有完全的偏好，标准的表征定理便不成立。然而，对于不完全偏好序的每一个 完全化——对每一个延展该不完全偏好关系的完全序——定理都随之成立。因此，若我们考虑这样的概率函数集合：不完全偏好的某个完全化由该函数表征，那么我们就可以认为这一集合表征了与不完全偏好相联系的信念。对每个完全化，我们还得到一个在直到线性变换的意义上唯一的效用函数。这实质上就是 Kaplan 的立场（见 Kaplan 1983; 1996）[^kaplan-1983]。
     step2: |-
-      在两个选项之间不持偏好，看来是允许的；认为两种可能性谁也不比谁更可能，看来也属合理。而这种不肯首肯某些判断的情形，并不等于认为所涉两个元素在任何实质意义上 *不相上下*。话虽如此，精确概率主义仍在充当范导性理想：精确性仍可视为一个尚未达到（或许无法达到）的目标，提示行动者可以如何改进自己的信度。偏好的完全性，是充分知情的行动者所应有的；没有完全的偏好，标准的表征定理便无从成立。然而，对不完全偏好序的每一个 *完全化*——即每一个延展该不完全偏好关系的完全序——定理都随之成立。于是，若取这样的概率函数所成之集：不完全偏好的某个完全化恰由该函数表征，便可将此集合视为表征了与不完全偏好相联系的信念。对每个完全化，我们还会得到一个直到线性变换为止唯一的效用函数。这实质上正是 Kaplan 的立场（见 Kaplan 1983; 1996）[^kaplan-1983]。
+      在两个选项之间不持偏好，看来是允许的；认为两种可能性谁也不比谁更可能，看来也属合理。而这种不肯首肯某些判断的情形，并不等于认为所涉两个元素在任何实质意义上 不相上下。话虽如此，精确概率主义仍在充当范导性理想：精确性仍可视为一个尚未达到（或许无法达到）的目标，提示行动者可以如何改进自己的信度。偏好的完全性，是充分知情的行动者所应有的；没有完全的偏好，标准的表征定理便无从成立。然而，对不完全偏好序的每一个 完全化——即每一个延展该不完全偏好关系的完全序——定理都随之成立。于是，若取这样的概率函数所成之集：不完全偏好的某个完全化恰由该函数表征，便可将此集合视为表征了与不完全偏好相联系的信念。对每个完全化，我们还会得到一个直到线性变换为止唯一的效用函数。这实质上正是 Kaplan 的立场（见 Kaplan 1983; 1996）[^kaplan-1983]。
   - id: 57
     kind: body
     source: |-
@@ -538,7 +538,7 @@ segments:
     source: |-
       > As the relevant evidence at our disposal increases, the magnitude of the probability of the argument may either decrease or increase, according as the new knowledge strengthens the unfavourable or the favourable evidence; but *something* seems to have increased in either case,—we have a more substantial basis upon which to rest our conclusion. I express this by saying than an accession of new evidence increases the *weight* of an argument. (Keynes 1921: 78, Keynes’ emphasis)[^keynes-1921]
     step1: |-
-      > 随着我们手头相关证据的增加，该论证之概率的大小可能减少也可能增加，端视新知识加强的是不利证据还是有利证据；但在两种情形下，似乎都有 *某种东西* 增加了——我们有了更为坚实的根据来支撑结论。我这样表达：新证据的加入增加了论证的 *权重*。（Keynes 1921: 78，凯恩斯原文强调）[^keynes-1921]
+      > 随着我们手头相关证据的增加，该论证之概率的大小可能减少也可能增加，端视新知识加强的是不利证据还是有利证据；但在两种情形下，似乎都有 某种东西 增加了——我们有了更为坚实的根据来支撑结论。我这样表达：新证据的加入增加了论证的 权重。（Keynes 1921: 78，凯恩斯原文强调）[^keynes-1921]
     step2: |-
       > 随着手头相关证据的增多，该论证之概率的数值可增可减，取决于新知识加强的是不利证据还是有利证据；但在两种情形下，似乎都有 *something*（某种东西）增加了——我们据以安放结论的基础变得更为厚实。我因此说：新证据的加入增添了论证的 *weight*（权重）。（Keynes 1921: 78，凯恩斯原文强调）[^keynes-1921]
   - id: 61
@@ -554,7 +554,7 @@ segments:
     source: |-
       Now consider another case: a coin of unknown bias is to be tossed. That is, you have not seen any data on previous tosses. In the absence of any relevant information about the bias, symmetry concerns might suggest you take the chance of heads to be around a half. This opinion is different from the above one. There is no *weight* of evidence, but there is nothing to suggest that your attitudes to $H$ and $T$ should be different. So, on *balance*, you should have the same belief in both.
     step1: |-
-      现在考虑另一种情形：要抛掷一枚偏向未知的硬币。也就是说，你没有见过任何先前抛掷的数据。在缺乏关于偏向的任何相关信息时，对称性考虑可能提示你认为正面的机遇约为一半。这一意见与上述意见不同。这里没有证据的 *权重*，但也没有什么提示你对 $H$ 与 $T$ 的态度应当有所不同。因此，就 *平衡* 而言，你对二者的信念应当相同。
+      现在考虑另一种情形：要抛掷一枚偏向未知的硬币。也就是说，你没有见过任何先前抛掷的数据。在缺乏关于偏向的任何相关信息时，对称性考虑可能提示你认为正面的机遇约为一半。这一意见与上述意见不同。这里没有证据的 权重，但也没有什么提示你对 $H$ 与 $T$ 的态度应当有所不同。因此，就 平衡 而言，你对二者的信念应当相同。
     step2: |-
       再看另一情形：要抛掷的是一枚偏向未知的硬币，你从未见过它先前抛掷的数据。在关于其偏向毫无相关信息的情况下，对称性考虑或许提示你把正面出现的机遇估在一半上下。这一看法与上例不同：此处没有证据的 *weight*（权重），却也没有任何东西提示你对 $H$ 与 $T$ 的态度应有所不同；因此就 *balance*（平衡）而言，你对二者应持相同信念。
   - id: 63
@@ -570,9 +570,9 @@ segments:
     source: |-
       If we take seriously the “ambiguity aversion” discussed earlier, when offered the choice between betting on the fair coin’s landing heads as opposed to the unknown-bias coin’s landing heads, it doesn’t seem unreasonable to prefer the former. Recall the preference for unambiguous gambles in the Ellsberg game in section 2.1. But if both coins have the same subjective probabilities attached, what rationalises this preference for betting on the fair coin? Joyce argues that there is a difference between these beliefs that is worth representing. IP *does* represent the difference. The first case is represented by $P(H)=\{0.5\}$, while the second is captured by $P(H)=[0,1]$.
     step1: |-
-      如果我们认真对待前文讨论的“歧义厌恶”，那么在“押注公平硬币落在正面”与“押注偏向未知的硬币落在正面”之间作选择时，偏好前者似乎并非不合理。回想 2.1 节 Ellsberg 博弈中对无歧义赌局的偏好。但若两枚硬币被赋予相同的主观概率，又是什么把这种对押注公平硬币的偏好合理化为理性的呢？Joyce 论证说，这两种信念之间存在一种值得表征的差异。IP *确实* 表征了这一差异：第一种情形由 $P(H)=\{0.5\}$ 表征，第二种则由 $P(H)=[0,1]$ 把握。
+      如果我们认真对待前文讨论的“歧义厌恶”，那么在“押注公平硬币落在正面”与“押注偏向未知的硬币落在正面”之间作选择时，偏好前者似乎并非不合理。回想 2.1 节 Ellsberg 博弈中对无歧义赌局的偏好。但若两枚硬币被赋予相同的主观概率，又是什么把这种对押注公平硬币的偏好合理化为理性的呢？Joyce 论证说，这两种信念之间存在一种值得表征的差异。IP 确实 表征了这一差异：第一种情形由 $P(H)=\{0.5\}$ 表征，第二种则由 $P(H)=[0,1]$ 把握。
     step2: |-
-      倘若认真对待前文所说的“歧义厌恶”，那么在“押注公平硬币落于正面”与“押注偏向未知的硬币落于正面”之间，偏好前者并不显得不合理——回想 2.1 节 Ellsberg 博弈中对无歧义赌局的偏好即可。但若两枚硬币被赋予相同的主观概率，这种偏好又何以被合理化为理性的？Joyce 主张，这两种信念之间存在一种值得表征的差异，而 IP *确实* 表征了这一差异：前一种情形表示为 $P(H)=\{0.5\}$，后一种则表示为 $P(H)=[0,1]$。
+      倘若认真对待前文所说的“歧义厌恶”，那么在“押注公平硬币落于正面”与“押注偏向未知的硬币落于正面”之间，偏好前者并不显得不合理——回想 2.1 节 Ellsberg 博弈中对无歧义赌局的偏好即可。但若两枚硬币被赋予相同的主观概率，这种偏好又何以被合理化为理性的？Joyce 主张，这两种信念之间存在一种值得表征的差异，而 IP 确实 表征了这一差异：前一种情形表示为 $P(H)=\{0.5\}$，后一种则表示为 $P(H)=[0,1]$。
   - id: 65
     kind: body
     source: |-
@@ -594,7 +594,7 @@ segments:
     source: |-
       Wheeler (2014) criticises Sturgeon on this “character matching” thesis. However, an argument for IP based on the nature of evidence only requires that the character of the evidence sometimes allows (or mandates?) imprecise belief and not that the characters must always match. In opposition, Schoenfield (2012) argues that evidence always supports precise credence, but that for reasons of limited computational capacity, real agents needn’t be required to have precise credences. However, her argument only really supports the claim that *sometimes* indeterminacy is due to complexity of the evidence and computational complexity. She doesn’t have an argument against the claims Levi, Kaplan, Joyce and others make that there are evidential situations that warrant imprecise attitudes.
     step1: |-
-      Wheeler（2014）就这一“品性匹配”论题批评了 Sturgeon。然而，基于证据本性的 IP 论证只需要：证据的品性有时允许（或要求？）非精确的信念，而并不要求品性必须始终匹配。相反，Schoenfield（2012）论证说，证据始终支持精确的信度，但出于计算能力有限的理由，现实行动者不必被要求持有精确的信度。然而，她的论证实际上只支持这一主张：*有时* 非确定性源于证据的复杂性与计算复杂性。她并没有论证反对 Levi、Kaplan、Joyce 等人所提出的主张：存在证成非精确态度的证据情境。
+      Wheeler（2014）就这一“品性匹配”论题批评了 Sturgeon。然而，基于证据本性的 IP 论证只需要：证据的品性有时允许（或要求？）非精确的信念，而并不要求品性必须始终匹配。相反，Schoenfield（2012）论证说，证据始终支持精确的信度，但出于计算能力有限的理由，现实行动者不必被要求持有精确的信度。然而，她的论证实际上只支持这一主张：有时 非确定性源于证据的复杂性与计算复杂性。她并没有论证反对 Levi、Kaplan、Joyce 等人所提出的主张：存在证成非精确态度的证据情境。
     step2: |-
       Wheeler（2014）就这一“品性匹配”论题批评 Sturgeon。然而，为 IP 辩护的证据本性论证只需说明：证据的品性 *sometimes*（有时）允许（甚至要求？）非精确的信念，而不必主张二者始终匹配。与此相对，Schoenfield（2012）主张证据始终支持精确的信度，只是出于计算能力有限，现实行动者不必被要求持有精确信度。然而她的论证其实只支持这一点：非确定性有时源自证据的复杂与计算的复杂；她并未针对 Levi、Kaplan、Joyce 等人“存在证成非精确态度的证据情境”之说提出反驳。
   - id: 68
@@ -602,15 +602,15 @@ segments:
     source: |-
       Strictly speaking, what we have here is only half the story. There *is* a difference between the representations of belief as regards weight and balance. But that still leaves open the question of exactly what is representing the weight of evidence? What aspect of the belief reflects this difference? One might be tempted to view $\overline{P}(H)-\underline{P}(H)$ as a measure of the weight of evidence for $H$. Walley (1991) tentatively suggests as much. However, this would get wrong cases of conflicting evidence. (Imagine two equally reliable witnesses: one tells you the coin is biased towards heads, the other says the bias is towards tails.) The question of whether and how IP does better than precise probabilism has not yet received an adequate answer. Researchers in IP have, however, made progress on distinguishing cases where your beliefs happen to have certain symmetry properties from cases where your beliefs capture evidence about symmetries in the objects of belief. This *is* a distinction that the standard precise model of belief fails to capture (de Cooman and Miranda 2007)[^cooman-2007].
     step1: |-
-      严格说来，我们这里只讲了一半故事。在权重与平衡方面，信念的表征之间 *确实* 存在差异。但这仍然留下一个问题：究竟什么在表征证据的权重？信念的哪个方面反映了这一差异？人们可能倾向于把 $\overline{P}(H)-\underline{P}(H)$ 视为 $H$ 之证据权重的度量。Walley（1991）曾试探性地如此提示。然而，这样做会在证据相互冲突的情形中出错。（设想两位同样可靠的证人：一位告诉你硬币偏向正面，另一位说偏向反面。）IP 是否以及如何优于精确概率主义，这一问题尚未得到充分回答。不过，IP 的研究者已在区分两类情形上取得了进展：一类是你的信念恰好具有某些对称性质，另一类是你的信念把握了关于信念对象之对称性的证据。这一区分正是标准的精确信念模型所无法把握的（de Cooman and Miranda 2007）[^cooman-2007]。
+      严格说来，我们这里只讲了一半故事。在权重与平衡方面，信念的表征之间 确实 存在差异。但这仍然留下一个问题：究竟什么在表征证据的权重？信念的哪个方面反映了这一差异？人们可能倾向于把 $\overline{P}(H)-\underline{P}(H)$ 视为 $H$ 之证据权重的度量。Walley（1991）曾试探性地如此提示。然而，这样做会在证据相互冲突的情形中出错。（设想两位同样可靠的证人：一位告诉你硬币偏向正面，另一位说偏向反面。）IP 是否以及如何优于精确概率主义，这一问题尚未得到充分回答。不过，IP 的研究者已在区分两类情形上取得了进展：一类是你的信念恰好具有某些对称性质，另一类是你的信念把握了关于信念对象之对称性的证据。这一区分恰恰是标准的精确信念模型所无法把握的（de Cooman and Miranda 2007）[^cooman-2007]。
     step2: |-
-      严格说来，这里只讲了故事的一半：就权重与平衡而言，信念的表征之间 *确实* 有差别。但问题依然悬着：究竟是什么在表征证据的权重？信念的哪一方面反映了这一差别？人们或许会想把 $\overline{P}(H)-\underline{P}(H)$ 当作 $H$ 之证据权重的度量，Walley（1991）也曾试探性地作此提示。然而，这么做在证据相互冲突的场合会失准。（试想两位同样可靠的证人：一位说硬币偏向正面，另一位说偏向反面。）IP 是否、以及如何胜过精确概率主义，至今仍未得到充分回答。不过，IP 研究者确已在区分两类情形上有所推进：一类是你的信念恰好具有某些对称性质，另一类是你的信念把握了关于信念对象之对称性的证据。这一区分恰恰是标准的精确信念模型所无法把握的（de Cooman and Miranda 2007）[^cooman-2007]。
+      严格说来，这里只讲了故事的一半：就权重与平衡而言，信念的表征之间 确实 有差别。但问题依然悬着：究竟是什么在表征证据的权重？信念的哪一方面反映了这一差别？人们或许会想把 $\overline{P}(H)-\underline{P}(H)$ 当作 $H$ 之证据权重的度量，Walley（1991）也曾试探性地作此提示。然而，这么做在证据相互冲突的场合会失准。（试想两位同样可靠的证人：一位说硬币偏向正面，另一位说偏向反面。）IP 是否、以及如何胜过精确概率主义，至今仍未得到充分回答。不过，IP 研究者确已在区分两类情形上有所推进：一类是你的信念恰好具有某些对称性质，另一类是你的信念把握了关于信念对象之对称性的证据。这一区分恰恰是标准的精确信念模型所无法把握的（de Cooman and Miranda 2007）[^cooman-2007]。
   - id: 69
     kind: body
     source: |-
       The precise probabilist can respond to the weight/balance distinction argument by pointing to the property of *resiliency* (Skyrms 2011)[^skyrms-2011] or *stability* (Leitgeb 2014)[^leitgeb-2014]. The idea is that probabilities determined by the weight of evidence change less in response to new evidence than do probabilities determined by balance of evidence alone. That is, if you’ve seen a hundred tosses of the coin, seeing it land heads doesn’t affect your belief much, while if you’ve not seen any tosses of the coin, seeing it land heads has a bigger effect on your beliefs. Thus, the distinction is represented in the precise probabilistic framework in the conditional probabilities. The distinction, though, is one that cannot rationalise the preference for betting on the fair coin. One could develop a resiliency-weighted expected value and claim that this is what you should maximise, but this would be as much of a departure from orthodox probabilism as IP is. If someone were to develop such a theory, then its merits could be weighed against the merits of IP type models.
     step1: |-
-      精确概率主义者可以通过指出 *弹性*（resiliency，Skyrms 2011）[^skyrms-2011] 或 *稳定性*（stability，Leitgeb 2014）[^leitgeb-2014] 这一性质来回应权重／平衡区分的论证。其想法是：由证据权重决定的概率，面对新证据时的变化小于仅由证据平衡决定的概率。也就是说，若你已见过硬币一百次抛掷，再看到一次正面并不会使你的信念变化多少；而若你从未见过抛掷，看到一次正面对你的信念影响更大。因此，这一区分在精确概率框架内由条件概率表征出来。然而，这一区分无法把偏好押注公平硬币合理化为理性的。人们可以发展一种按弹性加权的期望值，并主张这才是你应当最大化的东西；但这样做偏离正统概率主义的程度，与 IP 不相上下。若有人发展出这样的理论，其优劣便可与 IP 型模型相较量。
+      精确概率主义者可以通过指出 弹性（resiliency，Skyrms 2011）[^skyrms-2011] 或 稳定性（stability，Leitgeb 2014）[^leitgeb-2014] 这一性质来回应权重／平衡区分的论证。其想法是：由证据权重决定的概率，面对新证据时的变化小于仅由证据平衡决定的概率。也就是说，若你已见过硬币一百次抛掷，再看到一次正面并不会使你的信念变化多少；而若你从未见过抛掷，看到一次正面对你的信念影响更大。因此，这一区分在精确概率框架内由条件概率表征出来。然而，这一区分无法把偏好押注公平硬币合理化为理性的。人们可以发展一种按弹性加权的期望值，并主张这才是你应当最大化的东西；但这样做偏离正统概率主义的程度，与 IP 不相上下。若有人发展出这样的理论，其优劣便可与 IP 型模型相较量。
     step2: |-
       面对权重／平衡之分的论证，精确概率主义者可以转而指出 *resiliency*（弹性，Skyrms 2011）[^skyrms-2011] 或 *stability*（稳定性，Leitgeb 2014）[^leitgeb-2014] 这一性质：由证据权重确定的概率，遇到新证据时的变动小于仅由证据平衡确定的概率。也就是说，若你已看过硬币一百次抛掷，再见一次正面并不会让你的信念挪动多少；若你一次抛掷也没见过，见一次正面则影响大得多。于是，这一区分在精确概率框架内借条件概率得到了表征。然而，这一区分并不能把偏好押注公平硬币合理化。人们大可构造一种按弹性加权的期望值，并声称这才是你该最大化的东西；可这样一来，它偏离正统概率主义的程度便与 IP 相当。倘若真有人发展出这样的理论，自可将其优劣与 IP 型模型相较。
   - id: 70
@@ -674,9 +674,9 @@ segments:
     source: |-
       The committed precise probabilist would respond that setting $p(X)=0.5$ *is* suspending judgement. This *is* the maximally noncommittal credence in the case of a coin flip. More generally, suspending judgement should be understood in terms of maximising entropy (Jaynes 2003; Williamson 2010: 49–72)[^jaynes-2003][^williamson-2010]. The imprecise probabilist could argue that this only *seems* to be the right way to be noncommittal if you are wedded to the precise probabilist representation of belief. That is, the MaxEnt approach makes sense if you are already committed to representation of belief by a single precise probability, but loses its appeal if credal sets are available. Suspending judgement is something you do when the evidence doesn’t determine your credence. But for the precise probabilist, there is no way to signal the difference between suspension of judgement and strong evidence of probability half. This is just the weight/balance argument again.
     step1: |-
-      坚定的精确概率主义者会回应说：设定 $p(X)=0.5$ *就是* 悬置判断。在抛硬币的情形中，这 *正是* 最大程度不置可否的信度。更一般地说，悬置判断应当被理解为最大化熵（Jaynes 2003; Williamson 2010: 49–72）[^jaynes-2003][^williamson-2010]。非精确概率主义者可以论证说：只有当你已经固守于精确概率主义的信念表征时，这种做法才 *看来* 是不置可否的正确方式。也就是说，最大熵方法在你已经承诺用单一精确概率表征信念时才讲得通，而一旦手头有信度集可用，它便失去吸引力。悬置判断是你在证据并未确定你的信度时所做的事情。但对精确概率主义者而言，无法标示悬置判断与“概率为一半的有力证据”之间的区别。这又回到了权重／平衡的论证。
+      坚定的精确概率主义者会回应说：设定 $p(X)=0.5$ 就是 悬置判断。在抛硬币的情形中，这 正是 最大程度不置可否的信度。更一般地说，悬置判断应当被理解为最大化熵（Jaynes 2003; Williamson 2010: 49–72）[^jaynes-2003][^williamson-2010]。非精确概率主义者可以论证说：只有当你已经固守于精确概率主义的信念表征时，这种做法才 看来 是不置可否的正确方式。也就是说，最大熵方法在你已经承诺用单一精确概率表征信念时才讲得通，而一旦手头有信度集可用，它便失去吸引力。悬置判断是你在证据并未确定你的信度时所做的事情。但对精确概率主义者而言，无法标示悬置判断与“概率为一半的有力证据”之间的区别。这又回到了权重／平衡的论证。
     step2: |-
-      坚定的精确概率主义者会反驳说：令 $p(X)=0.5$ *就是* 悬置判断，在抛硬币的场合，这 *正是* 最不置可否的信度；更一般地，悬置判断应理解为熵的最大化（Jaynes 2003; Williamson 2010: 49–72）[^jaynes-2003][^williamson-2010]。非精确概率主义者则可以回应：只有当你已固守精确概率主义的信念表征时，这种做法才 *看来* 是“不置可否”的正解——最大熵进路在你已承诺以单一精确概率表征信念时才讲得通，一旦信度集可用，它便失去吸引力。悬置判断是证据未能确定信度时的作为；而在精确概率主义者那里，悬置判断与“有强证据支持概率为一半”之间的差别根本无从标示。这又落回权重／平衡的论证。
+      坚定的精确概率主义者会反驳说：令 $p(X)=0.5$ 就是 悬置判断，在抛硬币的场合，这 正是 最不置可否的信度；更一般地，悬置判断应理解为熵的最大化（Jaynes 2003; Williamson 2010: 49–72）[^jaynes-2003][^williamson-2010]。非精确概率主义者则可以回应：只有当你已固守精确概率主义的信念表征时，这种做法才 看来 是“不置可否”的正解——最大熵进路在你已承诺以单一精确概率表征信念时才讲得通，一旦信度集可用，它便失去吸引力。悬置判断是证据未能确定信度时的作为；而在精确概率主义者那里，悬置判断与“有强证据支持概率为一半”之间的差别根本无从标示。这又落回权重／平衡的论证。
   - id: 78
     kind: body
     source: |-
@@ -706,9 +706,9 @@ segments:
     source: |-
       Another response to this argument would be to take William James’ response to W.K. Clifford (Clifford 1901; James 1897)[^clifford-1901][^james-1897]. James argued that as long as your beliefs are consistent with the evidence, then you are free to believe what you like. So there is *no need* to ever suspend judgement. Thus, the precise probabilist’s inability to do so is no real flaw. This attitude, which is sometimes called *epistemic voluntarism*, is close to the sort of *subjectivism* espoused by Bruno de Finetti, Frank Ramsey and others.
     step1: |-
-      对这一论证的另一种回应，是采取 William James 对 W.K. Clifford 的回应（Clifford 1901; James 1897）[^clifford-1901][^james-1897]。James 论证说，只要你的信念与证据一致，你便可以自由地相信你所愿相信的。因此 *无需* 悬置判断。于是，精确概率主义者做不到这一点并不算真正的缺陷。这种态度有时被称为 *认知意志主义*，它与 Bruno de Finetti、Frank Ramsey 等人所主张的 *主观主义* 颇为相近。
+      对这一论证的另一种回应，是采取 William James 对 W.K. Clifford 的回应（Clifford 1901; James 1897）[^clifford-1901][^james-1897]。James 论证说，只要你的信念与证据一致，你便可以自由地相信你所愿相信的。因此 无需 悬置判断。于是，精确概率主义者做不到这一点并不算真正的缺陷。这种态度有时被称为 认知意志主义，它与 Bruno de Finetti、Frank Ramsey 等人所主张的 主观主义 颇为相近。
     step2: |-
-      对这一论证的另一种回应，是接过 William James 对 W.K. Clifford 的答复（Clifford 1901; James 1897）[^clifford-1901][^james-1897]：James 主张，只要信念与证据相容，你便尽可信你所愿信的，因而 *无需* 悬置判断；这样看来，精确概率主义者做不到悬置判断并不算真正的缺陷。这种态度有时称作 *epistemic voluntarism*（认知意志主义），与 Bruno de Finetti、Frank Ramsey 等人所持的 *subjectivism*（主观主义）颇为相近。
+      对这一论证的另一种回应，是接过 William James 对 W.K. Clifford 的答复（Clifford 1901; James 1897）[^clifford-1901][^james-1897]：James 主张，只要信念与证据相容，你便尽可信你所愿信的，因而 无需 悬置判断；这样看来，精确概率主义者做不到悬置判断并不算真正的缺陷。这种态度有时称作 *epistemic voluntarism*（认知意志主义），与 Bruno de Finetti、Frank Ramsey 等人所持的 *subjectivism*（主观主义）颇为相近。
   - id: 82
     kind: body
     source: |-
@@ -830,9 +830,9 @@ segments:
     source: |-
       Suppose we wanted our epistemology to apply not just to individuals, but to “group agents” like committees, governments, companies, and so on. Such agents may be made up of members who disagree. Levi (1986, 1999) has argued that representation of such conflict is better handled with sets of probabilities than with precise probabilities. There is a rich literature on combining or aggregating the (probabilistic) opinions of members of groups (Genest and Zidek 1986)[^genest-1986] but the outcome of such aggregation does not adequately represent the *disagreement* among the group. Some forms of aggregation also fail to respect plausible constraints on group belief. For example, if every member of the group agrees that $X$ and $Y$ are probabilistically independent, then it seems plausible to require that the group belief respects this unanimity. It is, however, well known that linear pooling—a simple and popular form of aggregation—does not respect this desideratum. Consider two probability functions $p, q$ such that $p(X) = p(Y) = 1/3$ and $p(X\mid Y)=p(X)$ while $q(X) = q(Y) = 2/3$ and $q(X\mid Y)=q(X)$. Consider aggregating these two probabilities by taking an unweighted average of them: $r = p/2 + q/2$. Now, calculation shows that $r(X\cap Y) = 5/18$ while $r(X)r(Y) = 1/4$, thus demonstrating that $r$ does not consider $X$ and $Y$ to be independent. So such an aggregation method does not satisfy the above desideratum (Kyburg and Pittarelli 1992; Cozman 2012)[^cozman-2012][^kyburg-1992]. For more on judgement aggregation in groups, see List and Pettit (2011), especially chapter 2.
     step1: |-
-      假定我们希望自己的认识论不仅适用于个体，也适用于“群体行动者”，如委员会、政府、公司等等。这类行动者可能由意见不一的成员组成。Levi（1986, 1999）论证说，对这种冲突的表征，用概率集比用精确概率处理得更好。关于如何组合或聚合群体成员之（概率）意见的文献很丰富（Genest and Zidek 1986）[^genest-1986]，但如此聚合的结果并不能充分表征群体内部的 *分歧*。某些形式的聚合也无法尊重对群体信念的合理约束。例如，若群体中每位成员都同意 $X$ 与 $Y$ 概率独立，那么要求群体信念尊重这一一致意见似乎合理。然而众所周知，线性池化——一种简单而流行的聚合方式——并不尊重这一要求。考虑两个概率函数 $p, q$，使得 $p(X) = p(Y) = 1/3$ 且 $p(X\mid Y)=p(X)$，而 $q(X) = q(Y) = 2/3$ 且 $q(X\mid Y)=q(X)$。考虑对这两个概率取不加权的平均来聚合它们：$r = p/2 + q/2$。计算表明 $r(X\cap Y) = 5/18$，而 $r(X)r(Y) = 1/4$，从而表明 $r$ 并不认为 $X$ 与 $Y$ 相互独立。所以这种聚合方法不满足上述要求（Kyburg and Pittarelli 1992; Cozman 2012）[^cozman-2012][^kyburg-1992]。关于群体判断聚合的更多内容，见 List and Pettit（2011），特别是第 2 章。
+      假定我们希望自己的认识论不仅适用于个体，也适用于“群体行动者”，如委员会、政府、公司等等。这类行动者可能由意见不一的成员组成。Levi（1986, 1999）论证说，对这种冲突的表征，用概率集比用精确概率处理得更好。关于如何组合或聚合群体成员之（概率）意见的文献很丰富（Genest and Zidek 1986）[^genest-1986]，但如此聚合的结果并不能充分表征群体内部的 分歧。某些形式的聚合也无法尊重对群体信念的合理约束。例如，若群体中每位成员都同意 $X$ 与 $Y$ 概率独立，那么要求群体信念尊重这一一致意见似乎合理。然而众所周知，线性池化——一种简单而流行的聚合方式——并不尊重这一要求。考虑两个概率函数 $p, q$，使得 $p(X) = p(Y) = 1/3$ 且 $p(X\mid Y)=p(X)$，而 $q(X) = q(Y) = 2/3$ 且 $q(X\mid Y)=q(X)$。考虑对这两个概率取不加权的平均来聚合它们：$r = p/2 + q/2$。计算表明 $r(X\cap Y) = 5/18$，而 $r(X)r(Y) = 1/4$，从而表明 $r$ 并不认为 $X$ 与 $Y$ 相互独立。所以这种聚合方法不满足上述要求（Kyburg and Pittarelli 1992; Cozman 2012）[^cozman-2012][^kyburg-1992]。关于群体判断聚合的更多内容，见 List and Pettit（2011），特别是第 2 章。
     step2: |-
-      倘若我们希望认识论不仅适用于个体，也适用于“群体行动者”——委员会、政府、公司等等，情形会怎样？这类行动者可能由意见相左的成员组成。Levi（1986, 1999）主张，对这种冲突的表征，用概率集比用精确概率处理得更好。关于如何组合或聚合群体成员之（概率）意见的文献十分丰富（Genest and Zidek 1986）[^genest-1986]，但聚合的结果并不能充分表征群体内部的 *分歧*；某些聚合方式还无法尊重对群体信念的合理约束。例如，若群体每位成员都认为 $X$ 与 $Y$ 概率独立，则要求群体信念尊重这一共识似乎合情合理。然而众所周知，线性池化——一种简单而流行的聚合方式——并不尊重这一要求：取两个概率函数 $p, q$，使 $p(X) = p(Y) = 1/3$ 且 $p(X\mid Y)=p(X)$，而 $q(X) = q(Y) = 2/3$ 且 $q(X\mid Y)=q(X)$，再以不加权的平均把它们聚合起来，即 $r = p/2 + q/2$；计算可得 $r(X\cap Y) = 5/18$，而 $r(X)r(Y) = 1/4$，可见 $r$ 并不认为 $X$ 与 $Y$ 相互独立。这种聚合方式由此不满足上述要求（Kyburg and Pittarelli 1992; Cozman 2012）[^cozman-2012][^kyburg-1992]。关于群体判断聚合的进一步讨论，见 List and Pettit（2011），尤其第 2 章。
+      倘若我们希望认识论不仅适用于个体，也适用于“群体行动者”——委员会、政府、公司等等，情形会怎样？这类行动者可能由意见相左的成员组成。Levi（1986, 1999）主张，对这种冲突的表征，用概率集比用精确概率处理得更好。关于如何组合或聚合群体成员之（概率）意见的文献十分丰富（Genest and Zidek 1986）[^genest-1986]，但聚合的结果并不能充分表征群体内部的 分歧；某些聚合方式还无法尊重对群体信念的合理约束。例如，若群体每位成员都认为 $X$ 与 $Y$ 概率独立，则要求群体信念尊重这一共识似乎合情合理。然而众所周知，线性池化——一种简单而流行的聚合方式——并不尊重这一要求：取两个概率函数 $p, q$，使 $p(X) = p(Y) = 1/3$ 且 $p(X\mid Y)=p(X)$，而 $q(X) = q(Y) = 2/3$ 且 $q(X\mid Y)=q(X)$，再以不加权的平均把它们聚合起来，即 $r = p/2 + q/2$；计算可得 $r(X\cap Y) = 5/18$，而 $r(X)r(Y) = 1/4$，可见 $r$ 并不认为 $X$ 与 $Y$ 相互独立。这种聚合方式由此不满足上述要求（Kyburg and Pittarelli 1992; Cozman 2012）[^cozman-2012][^kyburg-1992]。关于群体判断聚合的进一步讨论，见 List and Pettit（2011），尤其第 2 章。
   - id: 96
     kind: body
     source: |-
@@ -846,7 +846,7 @@ segments:
     source: |-
       If committee members have credences *and* utilities that differ among the group, then no precise probability-utility pair distinct from the probabilities and utilities of the agents can satisfy the *Pareto condition* (Seidenfeld, Kadane, and Schervish 1989). The Pareto condition requires that the group preference respect agreement of preference among the group. That is, if all members of the group prefer $A$ to $B$ (that is, if each group member finds that $A$ has higher expected utility than $B$) then the aggregate preference (as determined by the aggregate probability-utility pair) should satisfy that preference. Since this “consensus preservation” is a reasonable requirement on aggregation, this result shows that precise models of group agents are problematic. Walley discusses an example of a set of probabilities where each probability represents the beliefs of a member of a group, then $P$ is an incomplete description of the beliefs of each agent, in the sense that if all members of $P$ agree on something, then that thing is something each agent believes. Sets of probabilities allow us to represent an agent who is *conflicted* in their judgements (Levi 1986, 1999)[^levi-1986].
     step1: |-
-      若委员会成员的信度与效用各不相同，那么任何不同于各行动者之概率与效用的精确概率—效用配对，都无法满足 *帕累托条件*（Seidenfeld, Kadane, and Schervish 1989）。帕累托条件要求群体偏好尊重群体内部的偏好一致。也就是说，若群体中所有成员都偏好 $A$ 甚于 $B$（即每位成员都认为 $A$ 的期望效用高于 $B$），则聚合偏好（由聚合的概率—效用配对决定）应当满足这一偏好。既然这种“共识保持”是对聚合的合理要求，这一结果便表明，群体行动者的精确模型是有问题的。Walley 讨论了一个概率集的例子：其中每个概率代表群体一位成员的信念，于是 $P$ 是对每个行动者信念的不完备描述——其意义是：若 $P$ 中所有成员在某事上一致，则该事是每位行动者都相信的。概率集使我们得以表征一个在其判断上 *充满冲突* 的行动者（Levi 1986, 1999）[^levi-1986]。
+      若委员会成员的信度与效用各不相同，那么任何不同于各行动者之概率与效用的精确概率—效用配对，都无法满足 帕累托条件（Seidenfeld, Kadane, and Schervish 1989）。帕累托条件要求群体偏好尊重群体内部的偏好一致。也就是说，若群体中所有成员都偏好 $A$ 甚于 $B$（即每位成员都认为 $A$ 的期望效用高于 $B$），则聚合偏好（由聚合的概率—效用配对决定）应当满足这一偏好。既然这种“共识保持”是对聚合的合理要求，这一结果便表明，群体行动者的精确模型是有问题的。Walley 讨论了一个概率集的例子：其中每个概率代表群体一位成员的信念，于是 $P$ 是对每个行动者信念的不完备描述——其意义是：若 $P$ 中所有成员在某事上一致，则该事是每位行动者都相信的。概率集使我们得以表征一个在其判断上 充满冲突 的行动者（Levi 1986, 1999）[^levi-1986]。
     step2: |-
       倘若委员会成员的信度与效用彼此不一，那么任何有别于各行动者自身概率与效用的精确概率—效用配对，都无法满足 *Pareto condition*（帕累托条件，Seidenfeld, Kadane, and Schervish 1989）。帕累托条件要求群体偏好尊重群体内部的偏好一致：若群体所有成员都偏好 $A$ 甚于 $B$（即每位成员都认为 $A$ 的期望效用高于 $B$），则聚合偏好（由聚合的概率—效用配对决定）也应满足这一偏好。既然这种“共识保持”是对聚合的合理要求，该结果便表明群体行动者的精确模型有毛病。Walley 讨论过一个概率集之例：其中每个概率代表群体一位成员的信念，于是 $P$ 只是对各行动者信念的不完备描述——其义为：若 $P$ 中所有成员在某点上一致，该点便是每位行动者都相信的。概率集使我们能够表征一个在判断上 *conflicted*（充满冲突）的行动者（Levi 1986, 1999）[^levi-1986]。
   - id: 98
@@ -862,9 +862,9 @@ segments:
     source: |-
       Levi also argued that individual agents can be in conflict in the same way as groups, and thus that individuals’ credal states are also better represented by sets of probabilities. (Levi also argued for the *convexity* of credal states, which brings him into conflict with the above argument about independence (see historical appendix section 3).) One doesn’t need to buy the claim that groups and individuals must be modelled in the same way to take something away from this idea. One merely needs to accept the idea that an individual can be *conflicted* in such a way that a reasonable representation of her belief state—or belief and value state—is in terms of sets of functions. Bradley (2009) calls members of such sets “avatars”. This suggests that we interpret an individual’s credal set as a *credal committee* made up of her avatars. This interpretation of the representor is due to Joyce (2011), though Joyce attributes it Adam Elga. This committee represents all the possible prior probabilities you could have that are consistent with the evidence. Each credal committee member is a fully opinionated Jamesian voluntarist. The committee as a whole, collectively, is a Cliffordian objectivist.
     step1: |-
-      Levi 还论证说，个体行动者也可能像群体那样处于冲突之中，因而个体的信度状态也更宜用概率集来表征。（Levi 还主张信度状态具有 *凸性*，这使他与上述关于独立性的论证发生冲突（见历史附录第 3 节）。）人们不必接受“群体与个体必须以同样方式建模”这一主张，也能从这一想法中得到教益。只需接受：个体可能以这样的方式处于 *冲突* 之中，以致对其信念状态——或信念与价值状态——的合理表征是以函数集的形式给出的。Bradley（2009）称此类集合的成员为“化身”（avatars）。这提示我们把个体的信度集解释为一个由她的诸化身组成的 *信度委员会*。对表征集作这种解释，应归于 Joyce（2011），尽管 Joyce 将其归功于 Adam Elga。这个委员会代表你所能持有的、与证据相一致的一切可能先验概率。每位信度委员会成员都是完全有意见的詹姆斯式意志主义者；而委员会整体，则是一个克利福德式客观主义者。
+      Levi 还论证说，个体行动者也可能像群体那样处于冲突之中，因而个体的信度状态也更宜用概率集来表征。（Levi 还主张信度状态具有 凸性，这使他与上述关于独立性的论证发生冲突（见历史附录第 3 节）。）人们不必接受“群体与个体必须以同样方式建模”这一主张，也能从这一想法中得到教益。只需接受：个体可能以这样的方式处于 冲突 之中，以致对其信念状态——或信念与价值状态——的合理表征是以函数集的形式给出的。Bradley（2009）称此类集合的成员为“化身”（avatars）。这提示我们把个体的信度集解释为一个由她的诸化身组成的 信度委员会。对表征集作这种解释，应归于 Joyce（2011），尽管 Joyce 将其归功于 Adam Elga。这个委员会代表你所能持有的、与证据相一致的一切可能先验概率。每位信度委员会成员都是完全有意见的詹姆斯式意志主义者；而委员会整体，则是一个克利福德式客观主义者。
     step2: |-
-      Levi 还主张，个体行动者同样可能像群体那般处于冲突之中，因此个体的信度状态也更宜以概率集表征。（Levi 另主张信度状态具 *凸性*，这使他与上述关于独立性的论证相抵牾（见历史附录第 3 节）。）其实不必买下“群体与个体必须以同一方式建模”之说，也能从这一想法中有所得：只需承认，个体可能以某种方式处于 *冲突* 之中，以致对其信念状态——或信念与价值状态——的合理表征须取函数集的形式。Bradley（2009）称这类集合的成员为“化身”（avatars）。由此不妨把个体的信度集解释为一个由她的诸化身组成的 *信度委员会*——这一解释出自 Joyce（2011），而 Joyce 又将之归于 Adam Elga。该委员会代表你所能持有的、与证据相容的一切可能先验概率；每位成员都是意见周全的詹姆斯式意志主义者，而委员会整体则是克利福德式的客观主义者。
+      Levi 还主张，个体行动者同样可能像群体那般处于冲突之中，因此个体的信度状态也更宜以概率集表征。（Levi 另主张信度状态具 凸性，这使他与上述关于独立性的论证相抵牾（见历史附录第 3 节）。）其实不必买下“群体与个体必须以同一方式建模”之说，也能从这一想法中有所得：只需承认，个体可能以某种方式处于 冲突 之中，以致对其信念状态——或信念与价值状态——的合理表征须取函数集的形式。Bradley（2009）称这类集合的成员为“化身”（avatars）。由此不妨把个体的信度集解释为一个由她的诸化身组成的 信度委员会——这一解释出自 Joyce（2011），而 Joyce 又将之归于 Adam Elga。该委员会代表你所能持有的、与证据相容的一切可能先验概率；每位成员都是意见周全的詹姆斯式意志主义者，而委员会整体则是克利福德式的客观主义者。
   - id: 100
     kind: body
     source: |-
@@ -904,7 +904,7 @@ segments:
     step1: |-
       *Figure 1:*
     step2: |-
-      *图 1：*
+      图 1：
   - id: 105
     kind: body
     source: |-
@@ -934,7 +934,7 @@ segments:
     source: |-
       Let’s imagine you were given the above information, and took your representor to be the full set of probability functions that satisfied these constraints. Roger White suggested an intuitive gloss on how you might receive information about propositions so related and so constrained (White 2010)[^white-2010]. White’s puzzle goes like this. I have a proposition $X$, about which you know nothing at all. I have written whichever is true out of $X$ and $\neg X$ on the *Heads* side of a fair coin. I have painted over the coin so you can’t see which side is heads. I then flip the coin and it lands with the $X$ uppermost. $H$ is the proposition that the coin lands heads up. $Y$ is the proposition that the coin lands with the “$X$” side up.
     step1: |-
-      设想你获得了上述信息，并把表征集取为满足这些约束的全部概率函数。Roger White 就你可能如何获得关于如此相关、如此受约束的命题的信息，提出了一个直观的解释（White 2010）[^white-2010]。White 的谜题如下。我有一个命题 $X$，关于它你一无所知。我把 $X$ 与 $\neg X$ 中为真者写在了一枚公平硬币的 *正面* 一侧。我把硬币涂盖起来，使你看不出哪一面是正面。然后我抛掷硬币，它落地时 $X$ 朝上。$H$ 是硬币落地正面朝上这一命题。$Y$ 是硬币落地“$X$”一侧朝上这一命题。
+      设想你获得了上述信息，并把表征集取为满足这些约束的全部概率函数。Roger White 就你可能如何获得关于如此相关、如此受约束的命题的信息，提出了一个直观的解释（White 2010）[^white-2010]。White 的谜题如下。我有一个命题 $X$，关于它你一无所知。我把 $X$ 与 $\neg X$ 中为真者写在了一枚公平硬币的 正面 一侧。我把硬币涂盖起来，使你看不出哪一面是正面。然后我抛掷硬币，它落地时 $X$ 朝上。$H$ 是硬币落地正面朝上这一命题。$Y$ 是硬币落地“$X$”一侧朝上这一命题。
     step2: |-
       设想你获知了上述信息，并把表征集取为满足这些约束的全部概率函数。Roger White 就“你可能如何获得关于如此相关、如此受约束的命题的信息”给出过一个直观的说明（White 2010）[^white-2010]。White 的谜题是这样的：我手里有一个命题 $X$，你对它一无所知；我把 $X$ 与 $\neg X$ 中为真者写在一枚公平硬币的 *heads*（正面）一侧；再把硬币涂盖起来，使你看不出哪面是正面。随后我抛掷硬币，它落下时 $X$ 朝上。令 $H$ 为“硬币落地正面朝上”这一命题，$Y$ 为“硬币落地时写着 $X$ 的一面朝上”这一命题。
   - id: 109
@@ -942,17 +942,17 @@ segments:
     source: |-
       Imagine if you had a precise prior that made you certain of $X$ (this is compatible with the above constraints since $X$ was unconstrained). Seeing $X$ land uppermost now should be evidence that the coin has landed heads. The game set-up makes it such that these apparently irrelevant instances of evidence *can* carry information. Likewise, being very confident of $X$ makes $Y$ very good evidence for $H$. If instead you were sure $X$ was false, $Y$ would be solid gold evidence of $H$’s falsity. So it seems that $p(H\mid Y)$ is proportional to prior belief in $X$ (indeed, this can be proven rather easily). Given the way the events are related, observing whether $X$ or $\neg X$ landed uppermost is a noisy channel to learn about whether or not $H$ landed uppermost.
     step1: |-
-      设想你有一个精确先验，使你确信 $X$（这与上述约束相容，因为 $X$ 不受约束）。此时看到 $X$ 朝上落地，应当成为硬币落在正面的证据。博弈的设置使得这些看似无关的证据实例 *能够* 携带信息。同样，对 $X$ 极为确信会使 $Y$ 成为 $H$ 的极好证据。反之，若你确信 $X$ 为假，则 $Y$ 便是 $H$ 为假的铁证。于是看来 $p(H\mid Y)$ 与对 $X$ 的先验信念成正比（这其实很容易证明）。鉴于诸事件的关联方式，观察 $X$ 还是 $\neg X$ 朝上落地，是一条了解 $H$ 是否朝上落地的噪声信道。
+      设想你有一个精确先验，使你确信 $X$（这与上述约束相容，因为 $X$ 不受约束）。此时看到 $X$ 朝上落地，应当成为硬币落在正面的证据。博弈的设置使得这些看似无关的证据实例 能够 携带信息。同样，对 $X$ 极为确信会使 $Y$ 成为 $H$ 的极好证据。反之，若你确信 $X$ 为假，则 $Y$ 便是 $H$ 为假的铁证。于是看来 $p(H\mid Y)$ 与对 $X$ 的先验信念成正比（这其实很容易证明）。鉴于诸事件的关联方式，观察 $X$ 还是 $\neg X$ 朝上落地，是一条了解 $H$ 是否朝上落地的噪声信道。
     step2: |-
-      设想你持有一个精确先验，使你确信 $X$（这与上述约束相容，因为 $X$ 本无约束）。那么看到 $X$ 朝上落地，理应成为硬币落在正面的证据。博弈的设置恰恰让这些看似无关的证据实例 *能够* 携带信息：你对 $X$ 越是确信，$Y$ 便越是 $H$ 的好证据；反之，若你确信 $X$ 为假，$Y$ 便是 $H$ 为假的铁证。看来 $p(H\mid Y)$ 与对 $X$ 的先验信念成正比（这其实不难证明）。就诸事件的关联方式而言，观察落地朝上的是 $X$ 还是 $\neg X$，恰是一条探知 $H$ 是否朝上落地的噪声信道。
+      设想你持有一个精确先验，使你确信 $X$（这与上述约束相容，因为 $X$ 本无约束）。那么看到 $X$ 朝上落地，理应成为硬币落在正面的证据。博弈的设置恰恰让这些看似无关的证据实例 能够 携带信息：你对 $X$ 越是确信，$Y$ 便越是 $H$ 的好证据；反之，若你确信 $X$ 为假，$Y$ 便是 $H$ 为假的铁证。看来 $p(H\mid Y)$ 与对 $X$ 的先验信念成正比（这其实不难证明）。就诸事件的关联方式而言，观察落地朝上的是 $X$ 还是 $\neg X$，恰是一条探知 $H$ 是否朝上落地的噪声信道。
   - id: 110
     kind: body
     source: |-
       So let’s go back to the original imprecise case and consider what it means to have an imprecise belief in $X$. Among other things, it means considering possible that $X$ could be very likely. It is consistent with your belief state that $X$ is such that if you knew what proposition $X$ was, you would consider it very likely. In this case, $Y$ would be good evidence for $H$. Note that in this case learning that the coin landed $\neg X$ uppermost—call this $Y'$—would be just as good evidence against $H$. Likewise, $X$ might be a proposition that you would have very low credence in, and thus $Y$ would be evidence *against* $H$.
     step1: |-
-      那么回到最初的非精确情形，考虑对 $X$ 持有非精确信念意味着什么。除其他事项外，它意味着认为 $X$ 很可能这一点是可能的。与你的信念状态相一致的是：$X$ 是这样一种命题——倘若你知道 $X$ 是什么命题，你会认为它很可能。在这种情况下，$Y$ 将是 $H$ 的良好证据。注意，在这种情况下，得知硬币以 $\neg X$ 朝上落地——称之为 $Y'$——将同样成为反对 $H$ 的良好证据。同样，$X$ 也可能是你信度极低的命题，于是 $Y$ 会成为 *反对* $H$ 的证据。
+      那么回到最初的非精确情形，考虑对 $X$ 持有非精确信念意味着什么。除其他事项外，它意味着认为 $X$ 很可能这一点是可能的。与你的信念状态相一致的是：$X$ 是这样一种命题——倘若你知道 $X$ 是什么命题，你会认为它很可能。在这种情况下，$Y$ 将是 $H$ 的良好证据。注意，在这种情况下，得知硬币以 $\neg X$ 朝上落地——称之为 $Y'$——将同样成为反对 $H$ 的良好证据。同样，$X$ 也可能是你信度极低的命题，于是 $Y$ 会成为 反对 $H$ 的证据。
     step2: |-
-      那么回到最初的非精确情形，看看对 $X$ 持非精确信念意味着什么。其含义之一是：你认为“$X$ 很可能”是可能的——你的信念状态容许这样的情形：$X$ 是那样一个命题，倘若你知道 $X$ 究竟是哪个命题，你会认为它很可能。此时 $Y$ 便会是 $H$ 的好证据。也要注意，在这种情况下，得知硬币以 $\neg X$ 朝上落地——记作 $Y'$——同样会是反对 $H$ 的好证据。同理，$X$ 也可能是你信度极低的一个命题，此时 $Y$ 便成了 *反对* $H$ 的证据。
+      那么回到最初的非精确情形，看看对 $X$ 持非精确信念意味着什么。其含义之一是：你认为“$X$ 很可能”是可能的——你的信念状态容许这样的情形：$X$ 是那样一个命题，倘若你知道 $X$ 究竟是哪个命题，你会认为它很可能。此时 $Y$ 便会是 $H$ 的好证据。也要注意，在这种情况下，得知硬币以 $\neg X$ 朝上落地——记作 $Y'$——同样会是反对 $H$ 的好证据。同理，$X$ 也可能是你信度极低的一个命题，此时 $Y$ 便成了 反对 $H$ 的证据。
   - id: 111
     kind: body
     source: |-
@@ -966,7 +966,7 @@ segments:
     source: |-
       White considers dilation to be a problem since learning $Y$ doesn’t *seem* to be relevant to $H$. That is, since you are ignorant about $X$, learning whether or not the coin landed $X$ up doesn’t seem to tell you anything about whether the coin landed heads up. It seems strange to argue that your belief in $H$ should *dilate* from $1/2$ to $[0,1]$ upon learning $Y$. It feels as if this should just be irrelevant to $H$. However, $Y$ is only really irrelevant to $H$ when $p(X)=1/2$. Any other precise belief you might have in $X$ is such that $Y$ now affects your posterior belief in $H$. Figure 2 shows the situation for one particular belief about how likely $X$ is; for one particular $p\in P$. The horizontal line can shift up or down, depending on what the committee member we focus on believes about $X$. $p(H\mid Y)$ is a half only if the prior in $X$ is also a half. However, the imprecise probabilist takes into account *all the ways $Y$ might affect belief in $H$*.
     step1: |-
-      White 认为膨胀是个问题，因为得知 $Y$ *似乎* 与 $H$ 无关。也就是说，由于你对 $X$ 无知，得知硬币是否以 $X$ 朝上落地，似乎并不能告诉你硬币是否正面朝上落地。主张你在得知 $Y$ 之后对 $H$ 的信念应当从 $1/2$ *膨胀* 到 $[0,1]$，似乎很奇怪。感觉这应当与 $H$ 无关才对。然而，只有当 $p(X)=1/2$ 时，$Y$ 才真正与 $H$ 无关。你关于 $X$ 的任何其他精确信念，都会使 $Y$ 影响你对 $H$ 的后验信念。图 2 展示了关于 $X$ 之可能性的某一特定信念下的情形；对某个特定的 $p\in P$。水平线可以上移或下移，取决于我们所关注的那位委员会成员对 $X$ 持何信念。只有当对 $X$ 的先验也是一半时，$p(H\mid Y)$ 才是一半。然而，非精确概率主义者考虑了 *Y 影响 H 信念的所有可能方式*。
+      White 认为膨胀是个问题，因为得知 $Y$ 似乎 与 $H$ 无关。也就是说，由于你对 $X$ 无知，得知硬币是否以 $X$ 朝上落地，似乎并不能告诉你硬币是否正面朝上落地。主张你在得知 $Y$ 之后对 $H$ 的信念应当从 $1/2$ 膨胀 到 $[0,1]$，似乎很奇怪。感觉这应当与 $H$ 无关才对。然而，只有当 $p(X)=1/2$ 时，$Y$ 才真正与 $H$ 无关。你关于 $X$ 的任何其他精确信念，都会使 $Y$ 影响你对 $H$ 的后验信念。图 2 展示了关于 $X$ 之可能性的某一特定信念下的情形；对某个特定的 $p\in P$。水平线可以上移或下移，取决于我们所关注的那位委员会成员对 $X$ 持何信念。只有当对 $X$ 的先验也是一半时，$p(H\mid Y)$ 才是一半。然而，非精确概率主义者考虑了 Y 影响 H 信念的一切可能方式。
     step2: |-
       White 视膨胀为问题，因为得知 $Y$ *seems*（似乎）与 $H$ 无关：既然你对 $X$ 无知，那么得知硬币是否以 $X$ 朝上落地，似乎并不能告诉你硬币是否落在正面；说你在得知 $Y$ 之后对 $H$ 的信念会从 $1/2$ *dilate*（膨胀）到 $[0,1]$，未免离奇——感觉上这该与 $H$ 毫无干系才是。然而，唯有当 $p(X)=1/2$ 时，$Y$ 才真正与 $H$ 无关；你对 $X$ 持有的任何别的精确信念，都会让 $Y$ 影响你对 $H$ 的后验信念。图 2 就关于 $X$ 之可能性的某一特定看法展示了这一情形，对应某个特定的 $p\in P$：横线可上可下，取决于我们所注目的那位委员会成员对 $X$ 持何看法；只有当对 $X$ 的先验也恰为一半时，$p(H\mid Y)$ 才是一半。而非精确概率主义者所考虑的，是 *all the ways $Y$ might affect belief in $H$*（影响 其 信念之方式的一切可能）。
   - id: 113
@@ -976,7 +976,7 @@ segments:
     step1: |-
       *Figure 2:*
     step2: |-
-      *图 2：*
+      图 2：
   - id: 114
     kind: body
     source: |-
@@ -1014,9 +1014,9 @@ segments:
     source: |-
       Even if we accept dilation as a fact of life for the imprecise probabilist, it is still *weird*. Even if all of the above argument is accepted, it still seems strange to say that your belief in $H$ is dilated, *whatever you learn*. That is, whether you learn $Y$ or $Y'$, your posterior belief in $H$ looks the same: $[0,1]$. Or perhaps, what it shows to be weird is that your initial credence was precise.
     step1: |-
-      即便我们接受膨胀是非精确概率论者生活中无法回避的事实，它仍然 *很怪异*。即便上述论证全被接受，说你对 $H$ 的信念已经膨胀——*无论你学到什么*——仍然显得奇怪。也就是说，无论你得知 $Y$ 还是 $Y'$，你对 $H$ 的后验信念看起来都一样：$[0,1]$。又或者，这一现象所显示的怪异之处，其实在于你最初的信念是精确的。
+      即便我们接受膨胀是非精确概率论者生活中无法回避的事实，它仍然 很怪异。即便上述论证全被接受，说你对 $H$ 的信念已经膨胀——无论你学到什么——仍然显得奇怪。也就是说，无论你得知 $Y$ 还是 $Y'$，你对 $H$ 的后验信念看起来都一样：$[0,1]$。又或者，这一现象所显示的怪异之处，其实在于你最初的信念是精确的。
     step2: |-
-      即便承认膨胀是非精确概率论者躲不开的现实，它仍然 *很怪异*。纵使上述论证尽数接受，说你对 $H$ 的信念已经膨胀——*无论你学到什么*——仍显得离奇：无论得知的是 $Y$ 还是 $Y'$，你对 $H$ 的后验信念看去都一样，都是 $[0,1]$。又或者，这一现象所表明的怪异之处，其实在于你最初的信念竟是精确的。
+      即便承认膨胀是非精确概率论者躲不开的现实，它仍然 很怪异。纵使上述论证尽数接受，说你对 $H$ 的信念已经膨胀——无论你学到什么——仍显得离奇：无论得知的是 $Y$ 还是 $Y'$，你对 $H$ 的后验信念看去都一样，都是 $[0,1]$。又或者，这一现象所表明的怪异之处，其实在于你最初的信念竟是精确的。
   - id: 119
     kind: body
     source: |-
@@ -1030,283 +1030,381 @@ segments:
     source: |-
       Beyond this seeming strangeness, White suggests a specific way that being subject to dilation is an indicator of a defective epistemology. White suggests that dilation examples show that imprecise probabilities violate the *Reflection Principle* (van Fraassen 1984)[^fraassen-1984]. The argument goes as follows:
     step1: |-
-      除去这一表面上的怪异，White 还提出了一种具体方式，说明何以受膨胀影响是认知论有缺陷的标志。White 提出，膨胀的例子表明非精确概率违反了 *反思原则*（van Fraassen 1984）[^fraassen-1984]。论证如下：
+      除去这一表面上的怪异，White 还提出了一种具体方式，说明何以受膨胀影响是认知论有缺陷的标志。White 提出，膨胀的例子表明非精确概率违反了 反思原则（van Fraassen 1984）[^fraassen-1984]。论证如下：
     step2: |-
       除这层表面上的怪异之外，White 还提出了一个具体说法，指认受膨胀影响是认知论有缺陷的征兆：他认为膨胀之例表明，非精确概率违反了 *Reflection Principle*（反思原则，van Fraassen 1984）[^fraassen-1984]。论证如下：
   - id: 121
     kind: body
     source: |-
       > given that you know now that whether you learn $Y$ or you learn $Y'$ your credence in $H$ will be $[0,1]$ (and you will certainly learn one or the other), your current credence in $H$ should also be $[0,1]$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 既然你现在知道：无论你得知 $Y$ 还是得知 $Y'$，你对 $H$ 的信度都将是 $[0,1]$（而你必定会得知其中之一），那么你当前对 $H$ 的信度也应当是 $[0,1]$。
+    step2: |-
+      > 既然你现在就知道：无论得知的是 $Y$ 还是 $Y'$，你对 $H$ 的信度都会是 $[0,1]$（而两者之中你必得知其一），那么你当前对 $H$ 的信度也应当是 $[0,1]$。
   - id: 122
     kind: body
     source: |-
       The general idea is that you should set your credences to what you expect your credences to be in the future. More specifically, your credence in $X$ should be the expectation of your future possible credences in $X$ over the things you might learn. Given that, for all the things you might learn in this example your credence in $H$ would be the same, you should have that as your prior credence also. Your prior should be such that $P(H) = [0,1]$. So having a precise prior credence in $H$ to start with is irrational. That’s how the argument against dilation from reflection goes. Your prior $P$ is not fully precise though. Consider $P(H \cap Y)$. That is, the prior belief in the conjunction is imprecise. So the alleged problem with dilation and reflection is not as simple as “your precise belief becomes imprecise”. The problem is “your precise belief *in $H$* becomes imprecise”; or rather, your precise belief in $H$ *as represented by $P(H)$* becomes imprecise.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      总的想法是：你应当把自己的信度设为你所预期的未来信度。更具体地说，你对 $X$ 的信度，应当是你的未来可能信度在“你可能学到的东西”上的期望。既然在此例中，无论你学到什么，你对 $H$ 的信度都相同，那么这也应当是你的先验信度。你的先验应当使得 $P(H) = [0,1]$。所以，起初就持有关于 $H$ 的精确先验信度是非理性的。这就是从反思原则出发反对膨胀的论证。不过，你的先验 $P$ 并不完全精确。考虑 $P(H \cap Y)$：也就是说，关于合取的先验信念是非精确的。所以，所谓膨胀与反思的问题，并不像“你的精确信念变得非精确了”那样简单。问题在于“你 关于 $H$ 的 精确信念变得非精确了”；更确切地说，你关于 $H$ 由 $P(H)$ 所表征的 精确信念变得非精确了。
+    step2: |-
+      总的想法是：你应当把信度设为你所预期的未来信度；更具体地说，你对 $X$ 的信度，应是你未来对 $X$ 的可能信度在“你或将学到的东西”上的期望。既然在此例中，无论学到什么，你对 $H$ 的信度都相同，那它就该是你的先验。你的先验应使 $P(H) = [0,1]$；可见，一开始便持有关于 $H$ 的精确先验信度是非理性的。这就是从反思原则出发反对膨胀的论证。不过，你的先验 $P$ 并不完全精确：试看 $P(H \cap Y)$，即关于该合取的先验信念，它就是非精确的。所以，所谓膨胀与反思的麻烦，并不像“精确信念变得非精确”那么简单；问题在于“你 关于 $H$ 的 精确信念变得非精确了”，更确切地说，是你关于 $H$、由 $P(H)$ 所表征的 那份精确信念变得非精确了。
   - id: 123
     kind: body
     source: |-
       The issue with reflection is more basic. What exactly does reflection require of imprecise probabilists in this case? Now, it is obviously the case that each credal committee member’s prior credence is its expectation over the possible future evidence (this is a theorem of probability theory). But somehow, it is felt, the *credal state as a whole* isn’t sensitive to reflection in the way the principle requires. Each $p\in P$ satisfies the principle, but the awkward symmetries of the problem conspire to make $P$ as a whole violate the principle. This looks to be the case if we focus on $P(H)$ as an adequate representation of that part of the belief state. But as noted earlier, this is not an adequate way of understanding the credal state. Note that while learning $Y$ and learning $Y'$ both prompt revision to a state where the posterior belief in $H$ is represented as an interval by $[0,1]$, the credal states *as sets of probabilities* are not the same. Call the state after learning $Y$, $P'$ and the state after learning $Y'$, $P''$. So $P' = \{p(\cdot \mid Y), p\in P\}$ and $P'' = \{p(\cdot\mid Y'), p\in P\}$. While it is true that $P'(H) = P''(H)$, $P' \neq P''$ as sets of probabilities, since if $p\in P'$ then $p(Y) = 1$ whereas if $p\in P''$ then $p(Y) = 0$. So one lesson we should learn from dilation is that imprecise belief is represented by *sets of functions* rather than by a set-valued function (see also, Joyce 2011; Topey 2012; Bradley and Steele 2014b)[^bradley-2014b][^joyce-2011][^topey-2012].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      反思的问题更为基本：在此情形中，反思原则究竟要求非精确概率论者做什么？显然，每位信度委员会成员的先验信度，都是其关于未来可能证据的期望（这是概率论的一个定理）。但人们总觉得，作为整体的信度状态 并未按该原则所要求的方式对反思敏感。每个 $p\in P$ 都满足该原则，但问题中那些尴尬的对称性合起来使 $P$ 整体违反了该原则。若我们把 $P(H)$ 视为对该部分信念状态的充分表征，情形便显得如此。但如前所述，这并不是理解信度状态的恰当方式。注意，虽然得知 $Y$ 与得知 $Y'$ 都会把状态修正为“对 $H$ 的后验信念由 $[0,1]$ 所表征”的状态，但 作为概率集 的信度状态并不相同。把得知 $Y$ 之后的状态称为 $P'$，把得知 $Y'$ 之后的状态称为 $P''$。于是 $P' = \{p(\cdot \mid Y), p\in P\}$，$P'' = \{p(\cdot\mid Y'), p\in P\}$。虽然 $P'(H) = P''(H)$ 为真，但作为概率集，$P' \neq P''$：若 $p\in P'$，则 $p(Y) = 1$；而若 $p\in P''$，则 $p(Y) = 0$。所以，我们应当从膨胀中汲取的一条教训是：非精确信念由 函数集 表征，而非由集值函数表征（另见 Joyce 2011; Topey 2012; Bradley and Steele 2014b）[^bradley-2014b][^joyce-2011][^topey-2012]。
+    step2: |-
+      反思的问题其实更基本：在此情形中，反思原则究竟要求非精确概率论者做什么？当然，每位信度委员会成员的先验信度，都等于其关于未来可能证据的期望（这是概率论的一条定理）。但人们总觉得，作为整体的信度状态 并未按该原则所要求的方式对反思作出反应：每个 $p\in P$ 都满足该原则，可问题里那些尴尬的对称性合起来，却让 $P$ 整个地违反了它。只要我们仍把 $P(H)$ 当作该部分信念状态的充分表征，情形就显得如此；但前述已明，这并非理解信度状态的恰当方式。须注意：得知 $Y$ 与得知 $Y'$ 虽都把状态修正为“对 $H$ 的后验信念以 $[0,1]$ 表征”的状态，但 作为概率集 的信度状态并不相同。记得知 $Y$ 之后的状态为 $P'$，得知 $Y'$ 之后的状态为 $P''$，则 $P' = \{p(\cdot \mid Y), p\in P\}$，$P'' = \{p(\cdot\mid Y'), p\in P\}$。尽管 $P'(H) = P''(H)$ 成立，作为概率集却有 $P' \neq P''$：若 $p\in P'$，则 $p(Y) = 1$；若 $p\in P''$，则 $p(Y) = 0$。由此可汲取的教训是：非精确信念应由 函数集 来表征，而不是由集值函数来表征（另见 Joyce 2011; Topey 2012; Bradley and Steele 2014b）[^bradley-2014b][^joyce-2011][^topey-2012]。
   - id: 124
     kind: body
     source: |-
       So dilation can perhaps be tamed or rationalised, and the issue with reflection can be mitigated. But there is still a puzzle that dilation raises: in the precise context we have a nice result – due to Good (1967) – that says roughly that learning new information has positive expected value. Information has positive value. This result is, to some extent, undermined by dilation. Bradley and Steele (2016) suggest that there is some sense in which Good’s result can be partially salvaged in the IP setting.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，膨胀或许可以被驯服或合理化，反思的问题也可以被缓解。但膨胀仍引出一个谜题：在精确语境中，我们有一个漂亮的结果——归于 Good（1967）——它大致是说，学习新信息具有正的期望价值。信息具有正价值。膨胀在一定程度上削弱了这一结果。Bradley and Steele（2016）提出，在 IP 设定中，Good 的结果在某种意义上可以部分得到挽救。
+    step2: |-
+      如此看来，膨胀或许可以被驯服或合理化，反思的麻烦也可以缓解。但膨胀仍留下一个谜题：在精确语境中，我们有一个漂亮结果——归功于 Good（1967）——大意是说，学得新信息具有正的期望价值，信息自有其正价值。膨胀在某种程度上动摇了这一结果。Bradley and Steele（2016）主张，在 IP 的设定中，Good 的结果在某种意义上可以得到部分挽救。
   - id: 125
     kind: body
     source: |-
       It seems that examples of dilation undermine the earlier claim that imprecise probabilities allow you to represent the difference between the weight and balance of evidence (see section 2.3): learning $Y$ appears to give rise to a belief which one would consider as representing *less evidence* since it is more spread out. This is so because the prior credence in the dilation case is precise, not through weight of evidence, but through the symmetry discussed earlier. We cannot take narrowness of the interval $[\underline{P}(X), \overline{P}(X)]$ as a characterisation of weight of evidence since the interval can be narrow for reasons other than because lots of evidence has been accumulated. So my earlier remarks on weight/balance should not be read as the claim that imprecise probabilities can always represent the weight/balance distinction. What is true is that *there are* cases where imprecise probabilities can represent the distinction in a way that impacts on decision making. This issue is far from settled and more work needs to be done on this topic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      膨胀的例子似乎削弱了先前的说法：非精确概率使你得以表征证据权重与证据平衡之间的区别（见 2.3 节）。得知 $Y$ 似乎产生了一个会被视为表征 更少证据 的信念，因为它更为分散。之所以如此，是因为膨胀情形中的先验信度之所以精确，并非凭借证据权重，而是凭借前文讨论的对称性。我们不能把区间 $[\underline{P}(X), \overline{P}(X)]$ 的狭窄当作证据权重的刻画，因为区间之所以狭窄，可能出于别的原因，而非积累了大量的证据。所以我先前关于权重／平衡的评论，不应被读作“非精确概率总能表征权重／平衡之分”的主张。真实的情形是：确实存在 一些情形，非精确概率能以影响决策的方式表征这一区分。这一问题远未定论，尚需更多工作。
+    step2: |-
+      膨胀之例似乎动摇了先前的说法：非精确概率使你得以表征证据权重与证据平衡之别（见 2.3 节）。得知 $Y$ 之后，所得的信念看上去该被算作表征 更少的证据，因为它更为分散。个中缘由在于：膨胀情形中的先验之所以精确，靠的不是证据权重，而是前述的对称性。可见不能把区间 $[\underline{P}(X), \overline{P}(X)]$ 的狭窄当作证据权重的刻画——区间之所以窄，也可能出于别的原因，未必是证据积累得多。因此，前文关于权重／平衡的评论，不应读作“非精确概率总能表征权重／平衡之分”。真正成立的是：确有 一些情形，非精确概率能以影响决策的方式表征这一区分。此事远未定论，仍需更多工作。
   - id: 126
     kind: body
     source: |-
       ### 3.2 Belief inertia
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 Belief inertia
+    step2: |-
+      ### 3.2 信念惰性
   - id: 127
     kind: body
     source: |-
       Imagine there are two live hypotheses $H_1$ and $H_2$. You have no idea how likely they are, but they are mutually exclusive and exhaustive. Then you acquire some evidence $E$. Some simple probability theory shows that for every $p\in P$ we have the following relationship (using $p_i = p(E\mid H_i)$ for $i=1,2$).
 
       $$\begin{align} p(H_1\mid E) & = {{p(E\mid H_1)p(H_1)} \over {p_1 p(H_1) +p_2 p(H_2)}} \\ & = {{p_1 p(H_1)} \over {p_2 + (p_1 - p_2) p(H_1)}}\\ \end{align}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      设想有两个尚有可能的假说 $H_1$ 与 $H_2$。你对它们的可能性一无所知，但二者互斥且穷尽。然后你获得了一些证据 $E$。一些简单的概率论表明，对每个 $p\in P$ 都有如下关系（记 $p_i = p(E\mid H_i)$，$i=1,2$）。
+
+      $$\begin{align} p(H_1\mid E) & = {{p(E\mid H_1)p(H_1)} \over {p_1 p(H_1) +p_2 p(H_2)}} \\ & = {{p_1 p(H_1)} \over {p_2 + (p_1 - p_2) p(H_1)}}\\ \end{align}$$
+    step2: |-
+      设想有两个尚属可能的假说 $H_1$ 与 $H_2$：你对它们的可能性一无所知，而二者互斥且穷尽。接着你获得了一些证据 $E$。稍用概率论即可表明，对每个 $p\in P$ 均有如下关系（记 $p_i = p(E\mid H_i)$，$i=1,2$）。
+
+      $$\begin{align} p(H_1\mid E) & = {{p(E\mid H_1)p(H_1)} \over {p_1 p(H_1) +p_2 p(H_2)}} \\ & = {{p_1 p(H_1)} \over {p_2 + (p_1 - p_2) p(H_1)}}\\ \end{align}$$
   - id: 128
     kind: body
     source: |-
       If your prior in $H_1$ is *vacuous*—if $P(H_1) = [0,1]$—then the above equation shows that your posterior is vacuous as well. That is, if $p(H_1) = 0$ then $p(H_1\mid E) = 0$ and likewise for $p(H_1) = 1 = p(H_1\mid E)$, and since the right hand side of the above equation is a continuous function of $p(H_1)$, for every $r\in [0,1]$ there is some $p(H_1)$ such that $p(H_1\mid E) = r$. So $P(H_1\mid E)=[0,1]$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若你对 $H_1$ 的先验是 空洞的——即 $P(H_1) = [0,1]$——则上式表明你的后验同样是空洞的。也就是说，若 $p(H_1) = 0$，则 $p(H_1\mid E) = 0$；$p(H_1) = 1 = p(H_1\mid E)$ 亦然；而由于上式右端是 $p(H_1)$ 的连续函数，对每个 $r\in [0,1]$ 都存在某个 $p(H_1)$ 使 $p(H_1\mid E) = r$。于是 $P(H_1\mid E)=[0,1]$。
+    step2: |-
+      倘若你对 $H_1$ 的先验是 空洞的——即 $P(H_1) = [0,1]$——上式便表明你的后验同样空洞。也就是说，$p(H_1) = 0$ 时 $p(H_1\mid E) = 0$，$p(H_1) = 1 = p(H_1\mid E)$ 亦然；而上式右端是 $p(H_1)$ 的连续函数，故对每个 $r\in [0,1]$ 都有某个 $p(H_1)$ 使 $p(H_1\mid E) = r$。于是 $P(H_1\mid E)=[0,1]$。
   - id: 129
     kind: body
     source: |-
       It seems like the imprecise probabilist cannot learn from vacuous priors. This problem of belief inertia goes back at least as far as Levi (1980), chapter 13. Walley also discusses the issue, but appears unmoved by it: he says that vacuous posterior probabilities are just a consequence of adopting a vacuous prior:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      看来非精确概率论者无法从空洞先验中学到东西。这一信念惰性问题至少可以追溯到 Levi（1980）第 13 章。Walley 也讨论过这一问题，但似乎不为所动：他说空洞的后验概率不过是采纳空洞先验的结果：
+    step2: |-
+      看来非精确概率论者无从空洞的先验中学到任何东西。这一信念惰性问题至少可以上溯到 Levi（1980）第 13 章。Walley 也讨论过此事，却显得并不在意：在他看来，空洞的后验概率不过是采纳空洞先验的必然结果。
   - id: 130
     kind: body
     source: |-
       > The vacuous previsions really are rather trivial models. That seems appropriate for models of “complete ignorance” which is a rather trivial state of uncertainty. On the other hand, one cannot expect such models to be very useful in practical problems, notwithstanding their theoretical importance. If the vacuous previsions are used to model prior beliefs about a statistical parameter for instance, they give rise to vacuous posterior previsions… However, prior previsions that are close to vacuous and make nearly minimal claims about prior beliefs can lead to reasonable posterior previsions. (Walley 1991: 93)[^walley-1991]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 空洞的预现确实是相当平凡的模型。对于“完全无知”——一种相当平凡的不确定状态——的模型而言，这似乎是恰当的。另一方面，尽管这类模型具有理论上的重要性，却不能指望它们在实际问题中很有用。例如，若用空洞预现来建模关于某个统计参数的先验信念，它们便会产生空洞的后验预现……然而，接近空洞、对先验信念作出的主张近乎极小的先验预现，却可以引出合理的后验预现。（Walley 1991: 93）[^walley-1991]
+    step2: |-
+      > 空洞的预现确实是相当平凡的模型；作为“完全无知”这种平凡不确定状态的模型，这倒也算贴切。另一方面，尽管这类模型在理论上颇为要紧，却不能指望它们在实际问题中大有用处。譬如，若以空洞预现来建模关于某个统计参数的先验信念，它们便会产生空洞的后验预现……不过，那些接近空洞、对先验信念的主张近乎极小的先验预现，倒可以引出合理的后验预现。（Walley 1991: 93）[^walley-1991]
   - id: 131
     kind: body
     source: |-
       Joyce (2011) and Rinard (2013) have both discussed this problem. Rinard’s solution to it is to argue that this shows that the vacuous prior is never a legitimate state of belief. Or rather, that we only ever need to model your beliefs using non-vacuous priors, even if these are incomplete descriptions of your belief state. This is similar to Walley’s “non-exhaustive” representation of belief. Vallinder (2018) suggests that the problem of belief inertia is quite a general one. Castro and Hart (forthcoming) use the looming danger of belief inertia to argue against what I have called an "objectivist" interpretation of IP.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Joyce（2011）与 Rinard（2013）都讨论过这一问题。Rinard 的解决方案是论证：这表明空洞先验从来不是合法的信念状态；或者更确切地说，我们只需用非空洞的先验来建模你的信念，即便这些先验是对你信念状态的不完备描述。这与 Walley 的“非穷尽”信念表征相似。Vallinder（2018）提出，信念惰性问题相当普遍。Castro and Hart（即出）利用信念惰性这一迫近的危险，来反对我所谓的 IP 的“客观主义”解释。
+    step2: |-
+      Joyce（2011）与 Rinard（2013）都讨论过这一难题。Rinard 的解法是：由此可知，空洞的先验从来不是合法的信念状态；或者说，我们只需用非空洞的先验来建模你的信念，即便这些先验对你信念状态的描述本不完备。这与 Walley 的“非穷尽”表征相近。Vallinder（2018）认为，信念惰性是个相当普遍的问题。Castro and Hart（即出）则以信念惰性这重迫近的危险为据，反对我所谓 IP 的“客观主义”解释。
   - id: 132
     kind: body
     source: |-
       An alternative solution to this problem, (inspired by Wilson 2001; and Cattaneo 2008; 2014)[^cattaneo-2008][^wilson-2001], would modify the update rule in such a way that those extreme priors that give extremely small likelihoods to the evidence are excised from the representor. More work would need to be done to make this precise and show how exactly the response would go.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一问题的另一种解决方案（受 Wilson 2001 与 Cattaneo 2008、2014 启发）[^cattaneo-2008][^wilson-2001] 是修改更新规则，使那些对证据给出极小似然的极端先验被从表征集里剔除。要把这一点精确化，并说明这一回应究竟如何展开，还需要做更多工作。
+    step2: |-
+      另一种解法（受 Wilson 2001 与 Cattaneo 2008、2014 启发）[^cattaneo-2008][^wilson-2001] 是改动更新规则：把那些对证据给出极小似然的极端先验，从表征集里剔除出去。要把这一步做精确，并说明这一回应究竟如何展开，尚需更多工作。
   - id: 133
     kind: body
     source: |-
       ### 3.3 Decision making
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3 Decision making
+    step2: |-
+      ### 3.3 决策
   - id: 134
     kind: body
     source: |-
       One important use that models of belief can be put to is as part of a theory of rational decision. IP is no different. Decision making with imprecise probabilities has some problems, however.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      信念模型的一个重要用途，是作为理性决策理论的一部分。IP 也不例外。然而，用非精确概率作决策存在一些问题。
+    step2: |-
+      信念模型的一大用场，是充当理性决策理论的一环；IP 亦然。然而以非精确概率作决策，也有若干麻烦。
   - id: 135
     kind: body
     source: |-
       The problem for IP decision making, in short, is that your credal committee can disagree on what the best course of action is, and when they do, it is unclear how you should act (recall the definitions in section 1.1). Imagine betting on a coin of unknown bias. Consider the indicator gambles on heads and tails. Both bets have imprecise expectation $[0,1]$. How are you supposed to compare these expectations? The bets are incomparable. (If the coin case appears to have too much exploitable symmetry, consider unit bets on Elga pulling toothpaste or jellyfish from his bag.) This incomparability, argues Williamson, leads to decision making paralysis, and this highlights a flaw in the epistemology (2010: 70). This argument seems to be missing the point, however, if one of our motivations for IP is precisely to be able to represent such incompatibility of prospects (see section 2.2)! The incommensurability of options entailed by IP is not a bug, it’s a feature. Decision making with imprecise probabilities is discussed by Seidenfeld (2004), Troffaes (2007), Seidenfeld, Schervish, and Kadane (2010), Bradley (2015), Williams (2014), Huntley, Hable, and Troffaes (2014).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      简言之，IP 决策的问题在于：你的信度委员会可能就何为最佳行动方案意见不一；而当意见不一时，你该如何行动并不清楚（回想 1.1 节的定义）。设想对一枚偏向未知的硬币下注。考虑关于正面与反面的指示赌局。两种赌注的期望都是非精确的 $[0,1]$。你该如何比较这些期望？这些赌注是不可比的。（若硬币例子显得有太多可资利用的对称性，那就考虑对 Elga 从其袋中掏出牙膏或水母下单位注。）Williamson 论证说，这种不可比导致决策瘫痪，从而凸显了该认识论的一个缺陷（2010: 70）。然而，如果支持 IP 的动机之一正是要能够表征前景之间的这种不相容，那么这一论证似乎没有抓住要点（见 2.2 节）！IP 所蕴含的选项不可通约性不是缺陷，而是特征。关于非精确概率决策的讨论，见 Seidenfeld（2004）、Troffaes（2007）、Seidenfeld, Schervish, and Kadane（2010）、Bradley（2015）、Williams（2014）、Huntley, Hable, and Troffaes（2014）。
+    step2: |-
+      简言之，IP 决策的难处在于：你的信度委员会可能在何为最佳行动方案上意见不一，而一旦分歧出现，你该如何行动便不清楚了（回想 1.1 节的定义）。设想对一枚偏向未知的硬币下注，考虑关于正面与反面的指示赌局：两种赌注的期望都是非精确的 $[0,1]$。这样的两个期望该如何比较？它们不可比。（若嫌硬币一例的对称性太便于利用，不妨考虑对“Elga 从其袋中掏出牙膏或水母”下单位注。）Williamson 主张，这种不可比会导致决策瘫痪，从而暴露该认识论的一处缺陷（2010: 70）。然而，倘若支持 IP 的动机之一恰恰是要表征前景之间的这种不相容（见 2.2 节），这一论证便似乎未中肯綮：IP 所蕴含的选项不可通约性不是毛病，而是特色。关于非精确概率决策的讨论，见 Seidenfeld（2004）、Troffaes（2007）、Seidenfeld, Schervish, and Kadane（2010）、Bradley（2015）、Williams（2014）、Huntley, Hable, and Troffaes（2014）。
   - id: 136
     kind: body
     source: |-
       A more serious worry confronts IP when you have to make sequences of decisions. There is a rich literature in economics on sequences of decisions for agents who fail to be orthodox expected utility maximisers (Seidenfeld 1988; 1994; Machina 1989; Al-Najjar and Weinstein 2009, and the references therein)[^al-najjar-2009][^machina-1989][^seidenfeld-1988]. This topic was brought to the attention of philosophers again after the publication of Elga’s (2010) paper *Subjective Probabilities Should Be Sharp* which highlights the problem with a simple decision example, although a very similar example appears in Hammond (1988) in relation to Seidenfeld’s discussion of Levi’s decision rule “E-admissibility” (Seidenfeld 1988)[^seidenfeld-1988].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当你要作一连串决策时，IP 面临一个更严重的忧虑。经济学中关于未能成为正统期望效用最大化者的行动者之决策序列的文献很丰富（Seidenfeld 1988; 1994; Machina 1989; Al-Najjar and Weinstein 2009 及其中的参考文献）[^al-najjar-2009][^machina-1989][^seidenfeld-1988]。在 Elga（2010）的论文 *Subjective Probabilities Should Be Sharp* 发表后，这一话题再度引起哲学家的注意；该文以一个简单的决策例子突显了这一问题，尽管类似的例子已见于 Hammond（1988），与 Seidenfeld 对 Levi 的决策规则“E-可容许性”的讨论相关（Seidenfeld 1988）[^seidenfeld-1988]。
+    step2: |-
+      当决策须连续作出时，IP 便面临更严重的忧虑。经济学中关于“未能成为正统期望效用最大化者的行动者之决策序列”的文献十分丰富（Seidenfeld 1988; 1994; Machina 1989; Al-Najjar and Weinstein 2009 及其所引文献）[^al-najjar-2009][^machina-1989][^seidenfeld-1988]。Elga（2010）的论文 *Subjective Probabilities Should Be Sharp* 发表后，这个题目再度引起哲学家注意：该文以一个简单的决策例子点出问题，尽管类似例子已见于 Hammond（1988），与 Seidenfeld 对 Levi 之决策规则“E-可容许性”的讨论相关（Seidenfeld 1988）[^seidenfeld-1988]。
   - id: 137
     kind: body
     source: |-
       A version of the problem is as follows. You are about to be offered two bets on a coin of unknown bias, $A$ and $B$, one after the other. The bets pay out as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      该问题的一个版本如下。你即将接连获得两次对一枚偏向未知的硬币的赌注，$A$ 与 $B$。赌注的支付如下：
+    step2: |-
+      问题的一个版本如下：你即将先后接到两项关于一枚偏向未知硬币的赌注，$A$ 与 $B$，其支付如下：
   - id: 138
     kind: body
     source: |-
       - $A$ loses 10 if the coin lands heads and wins 15 otherwise
       - $B$ wins 15 if the coin lands heads and loses 10 otherwise
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 若硬币落在正面，$A$ 输 10，否则赢 15
+      - 若硬币落在正面，$B$ 赢 15，否则输 10
+    step2: |-
+      - 若硬币落在正面，$A$ 输 10，否则赢 15
+      - 若硬币落在正面，$B$ 赢 15，否则输 10
   - id: 139
     kind: body
     source: |-
       If we assume you have beliefs represented by $P(H)=[0,1]$, these bets have expectations of $[-10,15]$. Refusing each bet has expectation of 0. So accepting and refusing $A$ are incomparable with respect to your beliefs. Likewise for $B$. The problem is that refusing *both* bets seems to be irrational, since accepting both bets gets you a guaranteed payoff of 5. Elga argues that no decision rule for imprecise probabilities can rule out refusing both bets. He then argues that this shows that imprecise probabilities are bad epistemology. Neither argument works. Chandler (2014) and Sahlin and Weirich (2014) both point out that a certain kind of imprecise decision rule does make refusing both bets impermissible and Elga has acknowledged this in an erratum to his paper. Bradley and Steele (2014a) argue that decision rules that make refusing both bets merely permissible are legitimate ways to make imprecise decisions. They also point out that the rule that Chandler, and Sahlin and Weirich advocate has counterintuitive consequences in other decision problems.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若假定你的信念由 $P(H)=[0,1]$ 表征，则这些赌注的期望为 $[-10,15]$。拒绝每次赌注的期望为 0。因此，接受与拒绝 $A$ 在你的信念看来不可比。对 $B$ 亦然。问题在于：拒绝 两个 赌注似乎是非理性的，因为两个都接受可保证得到 5 的支付。Elga 论证说，没有任何针对非精确概率的决策规则能排除“两个都拒绝”。他进而论证，这表明非精确概率是糟糕的认识论。两个论证都不成立。Chandler（2014）以及 Sahlin and Weirich（2014）都指出，某一类非精确决策规则确实使“两个都拒绝”不被允许；Elga 已在其论文的勘误中承认了这一点。Bradley and Steele（2014a）论证说，把“两个都拒绝”仅视为许可的决策规则，是作出非精确决策的正当方式。他们还指出，Chandler 以及 Sahlin 与 Weirich 所主张的规则在其他决策问题中会有违反直觉的后果。
+    step2: |-
+      若假定你的信念由 $P(H)=[0,1]$ 表征，则两项赌注的期望都是 $[-10,15]$，而逐一拒绝的期望为 0。于是，在你的信念看来，接受与拒绝 $A$ 不可比；对 $B$ 亦然。麻烦在于：把 两个 都拒绝似乎是非理性的，因为两个都接受可稳得 5 的支付。Elga 主张，没有任何非精确概率的决策规则能排除“两个都拒绝”；他进而主张，这表露了非精确概率是一种糟糕的认识论。两个论证都不成立。Chandler（2014）以及 Sahlin and Weirich（2014）都指出，某一类非精确决策规则恰恰使“两个都拒绝”不被允许，Elga 也已在其论文勘误中承认这一点。Bradley and Steele（2014a）则主张，把“两个都拒绝”仅判为许可的决策规则，本身就是作出非精确决策的正当方式；他们还指出，Chandler 以及 Sahlin 与 Weirich 所推许的规则，在其他决策问题中会有违反直觉的后果。
   - id: 140
     kind: body
     source: |-
       Moss (2015) relates Elga-style IP decision problems to moral dilemmas and uses the analogy to explain the conflicting intuitions in Elga’s problem. Sud (2014) and Rinard (2015) both also offer alternative decision theories for imprecise probabilities. Bradley (2019) argues that all three struggle to accommodate a version of the Ellsberg decisions discussed above.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Moss（2015）把 Elga 式的 IP 决策问题与道德困境联系起来，并用这一类比解释 Elga 问题中相互冲突的直觉。Sud（2014）与 Rinard（2015）也都提出了针对非精确概率的替代决策理论。Bradley（2019）论证说，这三者都难以容纳前文讨论的 Ellsberg 决策的一个版本。
+    step2: |-
+      Moss（2015）把 Elga 式的 IP 决策问题与道德困境相勾连，借这一类比解释 Elga 问题中彼此冲突的直觉。Sud（2014）与 Rinard（2015）也各提出了适用于非精确概率的替代决策理论。Bradley（2019）主张，这三家之说都难以容纳前文所论 Ellsberg 决策的一个版本。
   - id: 141
     kind: body
     source: |-
       Even if Elga’s argument worked and there were no good imprecise decision rules, that wouldn’t show that IP was a faulty model of belief. We want to be able to represent the suspension of judgement on various things, including on the relative goodness of a number of options. Such incommensurability inevitably brings with it some problems for sequential decisions (see, for example, Broome 2000)[^broome-2000], but this is not an argument against the epistemology. As Bradley and Steele note, Elga’s argument—if it were valid—could *mutatis mutandis* be used as an argument that there are no incommensurable goods and this seems too strong.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即便 Elga 的论证成立、也确实没有好的非精确决策规则，那也不能表明 IP 是糟糕的信念模型。我们希望能够在各种事情上表征悬置判断，包括在若干选项的相对优劣上。这种不可通约性不可避免地会给序列决策带来一些问题（例如见 Broome 2000）[^broome-2000]，但这不是反对该认识论的论证。正如 Bradley 与 Steele 所指出的，Elga 的论证——若它有效——就可 *mutatis mutandis* 被用作“不存在不可通约的善”的论证，而这显然过强。
+    step2: |-
+      纵使 Elga 的论证成立，纵使确实没有好的非精确决策规则，那也不足以表明 IP 是糟糕的信念模型。我们本就想在各种事情上表征悬置判断，包括若干选项的相对优劣；而这种不可通约性难免给序列决策带来麻烦（例如见 Broome 2000）[^broome-2000]，但这并不构成反对该认识论的论证。正如 Bradley 与 Steele 所指出，Elga 的论证若能成立，便可 *mutatis mutandis* 用来论证“不存在不可通约的善”，而后者显然过强。
   - id: 142
     kind: body
     source: |-
       ### 3.4 Interpreting IP
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.4 Interpreting IP
+    step2: |-
+      ### 3.4 解释 IP
   - id: 143
     kind: body
     source: |-
       Imprecise probabilities aren’t a radically new theory. They are merely a slight modification of existing models of belief for situations of ambiguity. Often your credences will be precise enough, and your available actions will be such that you act more or less *as if* you were a strict Bayesian. One might analogize imprecise probabilities as the “Theory of Relativity” to the strict Bayesian “Newtonian Mechanics”: all but indistinguishable in all but the most extreme situations. This analogy goes deeper: in both cases, the theories are “empirically indistinguishable” in normal circumstances, but they both differ radically in some conceptual respects. Namely, the role of absolute space in Newtonian mechanics/GR; how to model ignorance in the strict/imprecise probabilist case. Howson (2012) makes a similar analogy between modelling belief and models in science. Both involve some requirement to be somewhat faithful to the target system, but in each case faithfulness must be weighed up against various theoretical virtues like simplicity, computational tractability and so on. Likewise Hosni (2014) argues that what model of belief is appropriate is somewhat dependent on context. There is of course an important disanalogy in that models of belief are supposed to be *normative* as well as descriptive, whereas models in science typically only have to play a descriptive role. Walley (1991) discusses a similar view but is generally sceptical of such an interpretation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      非精确概率并不是一种全新的理论。它们只是对既有信念模型作了一点修改，以适应歧义情境。你的信度往往足够精确，而你手头的行动会使你在行动上大致 仿佛 是个严格的贝叶斯主义者。人们可以把非精确概率比作“相对论”之于严格贝叶斯的“牛顿力学”：除了最极端的情形，二者几乎无从区分。这一类比还可以更深一层：在两种情形中，理论在正常情况下都“经验上无法区分”，但在某些概念方面却截然不同。具体说，就是牛顿力学／广义相对论中绝对空间的角色；以及严格／非精确概率论者情形中如何建模无知。Howson（2012）在信念建模与科学中的模型之间作了类似的类比：两者都要求在一定程度上忠实于目标系统，但忠实性都要与各种理论优点（如简单性、计算可行性等）相权衡。同样，Hosni（2014）论证说，何种信念模型恰当，多少取决于语境。当然也有一个重要的不类比之处：信念模型据说既是 规范性的 又是描述性的，而科学中的模型通常只需扮演描述角色。Walley（1991）讨论过类似观点，但总体上对这类解释持怀疑态度。
+    step2: |-
+      非精确概率并非全新的理论，只不过是对既有信念模型稍作修改，以适应歧义情境。你的信度往往已足够精确，手上的行动也会让你大体 *as if*（仿佛）是个严格贝叶斯主义者。不妨把非精确概率比作“相对论”、把严格贝叶斯比作“牛顿力学”：除了最极端的情形，两者几乎无从分辨。这一类比还可再进一层：两种情形中，理论在正常情况下都“经验上不可区分”，却在某些概念上截然不同——牛顿力学与广义相对论中绝对空间的地位，以及严格／非精确概率论者如何建模无知。Howson（2012）在信念建模与科学模型之间作过类似类比：两者都要求对目标系统保持一定忠实，而忠实又须与简单性、计算可行性等理论优点相权衡。Hosni（2014）同样主张，何种信念模型为恰当，多少取决于语境。当然，这里也有一处重要的不类比：信念模型据说兼为 规范性的 与描述性的，而科学模型通常只须承担描述角色。Walley（1991）讨论过类似看法，但对这类解释总体上持怀疑态度。
   - id: 144
     kind: body
     source: |-
       #### 3.4.1 What is a belief?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 3.4.1 What is a belief?
+    step2: |-
+      #### 3.4.1 信念是什么？
   - id: 145
     kind: body
     source: |-
       One standard interpretation of the probability calculus is that probabilities represent “degrees of belief” or “credences”. This is more or less the concept that under consideration so far. But what is a degree of belief? There are a number of ways of cashing out what it is that a representation of degree of belief is actually representing.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对概率演算的一种标准解释是：概率表征“置信度”或“信度”。这大体上就是迄今所考虑的概念。但什么是置信度？关于置信度的表征实际上在表征什么，有若干种兑现方式。
+    step2: |-
+      对概率演算的一种标准解释是：概率表征“置信度”或“信度”。这大体就是前文一直在谈的概念。但置信度究竟是什么？关于“置信度的表征究竟在表征什么”，有若干种交代方式。
   - id: 146
     kind: body
     source: |-
       One of the most straightforward understandings of degree of belief is that credences are interpreted in terms of an agent’s limiting willingness to bet. This is an idea which goes back to Ramsey (1926) and de Finetti (1964, 1990 [1974]). The idea is that your credence in $X$ is $\alpha$ just in case $\alpha$ is the value at which you are indifferent between the gambles:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对置信度最直接的理解之一，是用行动者下注意愿的极限来解释信度。这一想法可追溯到 Ramsey（1926）与 de Finetti（1964, 1990 [1974]）。其想法是：你对 $X$ 的信度为 $\alpha$，当且仅当 $\alpha$ 是使你在以下两个赌局之间无差异的值：
+    step2: |-
+      对置信度最直白的一种理解，是以行动者下注意愿的极限来解释信度。此说可追溯到 Ramsey（1926）与 de Finetti（1964, 1990 [1974]）：你对 $X$ 的信度为 $\alpha$，当且仅当 $\alpha$ 恰是使你在下面两个赌局之间无差异的数值——
   - id: 147
     kind: body
     source: |-
       - Win $1-\alpha$ if $X$, lose $\alpha$ otherwise
       - Lose $1- \alpha $ if $X$, win $\alpha$ otherwise
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 若 $X$ 则赢 $1-\alpha$，否则输 $\alpha$
+      - 若 $X$ 则输 $1- \alpha $，否则赢 $\alpha$
+    step2: |-
+      - 若 $X$ 则赢 $1-\alpha$，否则输 $\alpha$
+      - 若 $X$ 则输 $1- \alpha $，否则赢 $\alpha$
   - id: 148
     kind: body
     source: |-
       This is the “betting interpretation”. This is the interpretation behind Dutch book arguments: this interpretation of belief makes the link between betting quotients and belief strong enough to sanction the Dutch book theorem’s claim that *beliefs* must be probabilistic. Williamson in fact takes issue with IP because IP cannot be given this betting interpretation (2010: 68–72). He argues that Smith’s and Walley’s contributions notwithstanding (see [formal appendix](imprecise-probabilities.supplement-formal.md)), the single-value betting interpretation makes sense as a standard for credence in a way that the one-sided betting interpretation doesn’t. The idea is that you may refuse all bets unless they are at extremely favourable odds by your lights. Such behaviour doesn’t speak to your credences. However, *if you were to offer a single value* then this tells us something about your epistemic state. There is something to this idea, but it must be traded off against the worry that *forcing* agents to have such single numbers systematically misrepresents their epistemic states. As Kaplan puts it
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这就是“赌博解释”。这是荷兰赌论证背后的解释：这种信念解释使赌博商与信念之间的联系足够强，从而支持荷兰赌定理的主张：信念 必须是概率性的。Williamson 实际上正是因此对 IP 有异议：IP 无法被给予这种赌博解释（2010: 68–72）。他论证说，尽管有 Smith 与 Walley 的贡献（见 [形式附录](imprecise-probabilities.supplement-formal.md)），单值赌博解释作为一种信度标准是讲得通的，而单侧赌博解释则不然。其想法是：你可以拒绝一切赌局，除非按你的眼光赔率极为有利。这样的行为并不说明你的信度。然而，若你被要求给出一个单一数值，这便告诉了我们一些关于你认知状态的东西。这一想法有几分道理，但必须与另一重忧虑相权衡：强迫 行动者持有这样的单一数值，会系统性地错误表征其认知状态。正如 Kaplan 所说
+    step2: |-
+      这便是“赌博解释”，也是荷兰赌论证背后的解释：它把赌博商数与信念之间的联系绷得足够紧，从而支撑荷兰赌定理的主张——信念 必须是概率性的。Williamson 恰是据此对 IP 提出异议：IP 给不出这种赌博解释（2010: 68–72）。他主张，尽管有 Smith 与 Walley 的贡献（见 [形式附录](imprecise-probabilities.supplement-formal.md)），单值赌博解释作为一种信度标准仍讲得通，单侧赌博解释则不然。其想法是：你可以拒绝一切赌局，除非按你的眼光赔率极有利；这样的行为并不透露你的信度；然而 若你被要求给出一个单一数值，这个数值便透露了你的认知状态。此说有几分道理，但须与另一重忧虑相权衡：强迫 行动者持有这样的单一数值，会系统性地错绘其认知状态。一如 Kaplan 所言
   - id: 149
     kind: body
     source: |-
       > The mere fact that you nominate $0.8$ under the *compulsion* to choose some determinate value for [$p(X)$] hardly means that you have a *reason* to choose $0.8$. The orthodox Bayesian is, in short, guilty of advocating false precision. (Kaplan 1983: 569, Kaplan’s emphasis)[^kaplan-1983]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 你在 被迫 为 [$p(X)$] 选定某个确定值的压力下提名 $0.8$，这一单纯事实几乎不意味着你有 理由 选择 $0.8$。简言之，正统贝叶斯主义者犯有鼓吹虚假精确之罪。（Kaplan 1983: 569，Kaplan 原文强调）[^kaplan-1983]
+    step2: |-
+      > 你在 *compulsion*（强制）之下为 [$p(X)$] 选定某个确定值，因而提名 $0.8$——仅此一点，远不足以说明你有 理由 选择 $0.8$。简言之，正统贝叶斯主义者犯有鼓吹虚假精确之罪。（Kaplan 1983: 569，Kaplan 原文强调）[^kaplan-1983]
   - id: 150
     kind: body
     source: |-
       A related interpretation of credence is to understand credence as being just a representation of an agent’s dispositions to act. This interpretation sees credence as that function such that your elicited preferences and observed actions can be represented as those of an expected utility maximiser with respect to that probability function (Briggs 2014: section 2.2)[^briggs-2014]. Your credences *just are* that function that represents you as a rational agent. For precise probabilism, “rational agent” means “expected utility maximiser”. For imprecise probabilism, rational agent must mean something slightly different. A slightly more sophisticated version of this sort of idea is to understand credence to be exactly that component of the preference structure that the probability function represents in the representation theorem. Recall the discussion of incompleteness (section 2.2). IP represents you as the agent conflicted between all the $p \in P$ such that unless the $p$ agree that $X$ is better than $Y$ or vice versa, you find them incomparable. What a representation theorem actually proves is a matter of some dispute (see Zynda 2000; Hájek 2008; Meacham and Weisberg 2011)[^hájek-2008][^meacham-2011][^zynda-2000].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一种相关的信度解释，是把信度理解为仅仅是对行动者行动倾向的表征。这一解释把信度视为这样的函数：你被引出的偏好与观察到的行动，都可被表征为一个期望效用最大化者相对于该概率函数的偏好与行动（Briggs 2014: 第 2.2 节）[^briggs-2014]。你的信度 就是 那个把表征为理性行动者的函数。对精确概率主义而言，“理性行动者”意味着“期望效用最大化者”。对非精确概率主义而言，理性行动者必定意味着稍微不同的东西。这类想法的一个稍为精致的版本，是把信度理解成偏好结构中恰由表征定理中的概率函数所表征的那个成分。回想关于不完备性的讨论（2.2 节）。IP 把你表征为在所有 $p \in P$ 之间处于冲突的行动者：除非这些 $p$ 一致认为 $X$ 优于 $Y$（或反之），否则你觉得二者不可比。表征定理实际证明了什么，尚存争议（见 Zynda 2000; Hájek 2008; Meacham and Weisberg 2011）[^hájek-2008][^meacham-2011][^zynda-2000]。
+    step2: |-
+      一种相关的信度解释，是把信度径直理解为对行动者行动倾向的表征：信度即是那样一个函数，使你所引出的偏好与所观察到的行动，可被表征为一个相对于该概率函数的期望效用最大化者的偏好与行动（Briggs 2014: 第 2.2 节）[^briggs-2014]。你的信度 就是 那个把你表征为理性行动者的函数。在精确概率主义那里，“理性行动者”意为“期望效用最大化者”；在非精确概率主义那里，理性行动者则必另有稍异之义。这类想法稍精致一些的版本，是把信度理解为偏好结构中恰由表征定理里的概率函数所表征的那一份。回想 2.2 节关于不完备性的讨论：IP 把你表征为一个在两个以上 $p \in P$ 之间左右为难的行动者——除非这些 $p$ 一致认为 $X$ 优于 $Y$（或反之），否则你便觉得二者不可比。至于表征定理实际证明了什么，仍有争议（见 Zynda 2000; Hájek 2008; Meacham and Weisberg 2011）[^hájek-2008][^meacham-2011][^zynda-2000]。
   - id: 151
     kind: body
     source: |-
       One might take the view that credence is modelling some kind of mental or psychological quantity in the head. Strength of belief is a real psychological quantity and it is this that credence should measure. Unlike the above views, this interpretation of credence isn’t easy to operationalise. It also seems like this understanding of strength of belief distances credence from its role in understanding decision making. The above *behaviourist* views take belief’s role in decision making to be central to or even definitional of what belief is. This psychological interpretation seems to divorce belief from decision. Whether there are such stable neurological structures is also a matter of some controversy (Fumagalli 2013; Smithson and Pushkarskaya 2015)[^fumagalli-2013][^smithson-2015].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们可以采取这样的观点：信度是在建模头脑中某种心智或心理量。信念强度是一个真实的心理量，信度应当度量的正是它。与上述诸观点不同，这一信度解释不易操作化。这一关于信念强度的理解似乎还使信度与它在理解决策中的角色相疏离。上述 行为主义 观点把信念在决策中的角色视为信念之核心，甚至是其定义。这一心理学解释似乎把信念与决策割裂开来。是否存在这样稳定的神经结构，也仍有争议（Fumagalli 2013; Smithson and Pushkarskaya 2015）[^fumagalli-2013][^smithson-2015]。
+    step2: |-
+      也有人主张，信度所建模的是头脑中某种心智或心理的量：信念强度是一个真实的心理量，信度该度量的正是它。与上述诸说不同，这一解释不易操作化；它似乎还让信度与“信念在理解决策中的角色”相疏离——前述 行为主义 诸说恰恰把信念在决策中的角色看作信念的核心乃至定义。这一心理学解释则有把信念与决策割裂之嫌。至于是否存在这般稳定的神经结构，亦仍有争议（Fumagalli 2013; Smithson and Pushkarskaya 2015）[^fumagalli-2013][^smithson-2015]。
   - id: 152
     kind: body
     source: |-
       A compromise between the behaviourist views and the psychological views is to say that belief is characterised *in part* by its role in decision making. This leaves room for belief to play an important role in other things, like assertion or reasoning and inference. So the answer to the question “What is degree of belief?” is: “Degree of belief is whatever psychological factors play the role imputed to belief in decision making contexts, assertion behaviour, reasoning and inference”. There is room in this characterisation to understand credence as measuring some sort of psychological quantity that causally relates to action, assertion and so on. This is a sort of functionalist reading of what belief is. Eriksson and Hájek (2007) argue that “degree of belief” should just be taken as a primitive concept in epistemology. The above attempts to characterise degree of belief then fill in the picture of the role degree of belief plays.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      行为主义观点与心理学观点之间的一个折中方案是：信念 部分地 由其决策角色来刻画。这为信念在诸如断言、推理与推断等其他事情中扮演重要角色留出了余地。于是，“什么是置信度？”这一问题的答案是：“置信度就是那些在决策情境、断言行为、推理与推断中扮演归于信念之角色的心理因素。”这一刻画为如下理解留出余地：信度度量某种与行动、断言等有因果关联的心理量。这是一种关于“信念是什么”的功能主义解读。Eriksson and Hájek（2007）论证说，“置信度”应当径直被当作认识论中的一个初始概念。上述对置信度的刻画尝试，则填充了置信度所扮演角色的图景。
+    step2: |-
+      行为主义诸说与心理学诸说之间可有一折中：信念由其在决策中的角色 部分地 得到刻画。如此便为信念在断言、推理与推断等其他方面扮演要角留出余地。于是“什么是置信度？”的答案便是：“置信度即那些在决策情境、断言行为、推理与推断中扮演归于信念之角色的心理因素。”这一刻画容许我们把信度理解为某种与行动、断言等有因果关联的心理量，可谓关于“信念是什么”的功能主义读解。Eriksson and Hájek（2007）则主张，“置信度”本应径直当作认识论的一个初始概念；上述种种刻画，不过是在补绘置信度所扮角色的图景。
   - id: 153
     kind: body
     source: |-
       #### 3.4.2 What is a belief in $X$?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 3.4.2 What is a belief in $X$?
+    step2: |-
+      #### 3.4.2 对 $X$ 的信念是什么？
   - id: 154
     kind: body
     source: |-
       So now we have a better idea of what it is that a model of belief should do. But which part of our model of belief is representing which part of the belief state? The first thing to say is that $P(X)$ is *not* an adequate representation of the belief in $X$. That is, one of the values of the credal set approach is that it can capture certain kinds of non-logical relationships between propositions that are lost when focusing on, say, the associated set of probability values. For example, consider tossing a coin of unknown bias. $P(H)=P(T)=[0,1]$, but this fails to represent the important fact that $p(H)=1-p(T)$ for all $p\in P$. Or that getting a heads on the first toss is at least as likely as heads on two consecutive tosses. These facts that aren’t captured by the sets-of-values view can play an important role in reasoning and decision.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是我们现在对信念模型应当做什么有了更好的想法。但信念模型的哪一部分在表征信念状态的哪一部分？首先要说的是：$P(X)$ 并不 足以表征对 $X$ 的信念。也就是说，信度集进路的一项价值在于，它能捕捉命题之间某些非逻辑的关系，而只关注（比如说）相关的概率值集合时，这些关系便丢失了。例如，考虑抛掷一枚偏向未知的硬币。$P(H)=P(T)=[0,1]$，但这未能表征一个重要事实：对所有 $p\in P$，$p(H)=1-p(T)$。又如，第一次抛掷得到正面至少与连续两次得到正面一样可能。这些未被“值集”观点捕捉的事实，在推理与决策中可以扮演重要角色。
+    step2: |-
+      至此，我们对信念模型该做什么已有更清楚的想法。但模型的哪一部分在表征信念状态的哪一部分？首先要说的是：$P(X)$ 并不 足以表征对 $X$ 的信念。信度集进路的一项价值正在于此：它能捕捉命题之间某些非逻辑的关系，而这些关系一旦只盯着（比如）相关的概率值集合，便丢失了。例如抛掷一枚偏向未知的硬币，$P(H)=P(T)=[0,1]$，可这就没能表征一个重要事实：对所有 $p\in P$ 都有 $p(H)=1-p(T)$；又如“第一次抛掷得到正面”至少与“连续两次得到正面”一样可能。这些未被“值集”观点捕捉的事实，在推理与决策中都能扮演要角。
   - id: 155
     kind: body
     source: |-
       $P(X)$ might be a *good enough* representation of belief for some purposes. For example in the Ellsberg game these sets of probability values (and their associated sets of expectations) are enough to rationalise the non-probabilistic preferences. How good the representation needs to be depends on what it will be used for. Representing the sun as a point mass is a good enough representation for basic orbital calculations, but obviously inadequate if you are studying coronal mass ejections, solar flares or other phenomena that depend on details of the internal dynamics of the sun.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对某些目的而言，$P(X)$ 也许是 足够好 的信念表征。例如在 Ellsberg 博弈中，这些概率值集合（及其相关的期望集）足以把非概率的偏好合理化。表征需要多好，取决于它将用于何处。把太阳表征为一个质点，对于基本的轨道计算来说是足够好的表征；但若你要研究日冕物质抛射、太阳耀斑或其他依赖太阳内部动力学细节的现象，它显然不足以胜任。
+    step2: |-
+      对某些用途而言，$P(X)$ 或许是 *good enough*（足够好）的信念表征。例如在 Ellsberg 博弈中，这些概率值集合（连同相关的期望集）已足以把非概率偏好合理化。表征要有多好，取决于它将被用于何处：把太阳当作质点，对基本的轨道计算来说够用；可若你要研究日冕物质抛射、太阳耀斑之类依赖太阳内部动力学细节的现象，它显然不敷所需。
   - id: 156
     kind: body
     source: |-
       ### 3.5 Regress
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.5 Regress
+    step2: |-
+      ### 3.5 倒退
   - id: 157
     kind: body
     source: |-
       Imprecise probabilities is a theory born of our limitations as reasoning agents, and of limitations in our evidence base. If only we had better evidence, a single probability function would do. But since our evidence is weak, we must use a set. In a way, the same is true of precise probabilism. If only we knew the truth, we could represent belief with a truth-valuation function, or just a set of sentences that are fully believed. But since there are truths we don’t know, we must use a probability to represent our intermediate confidence. And indeed, the same problem arises for the imprecise probabilist. Is it reasonable to assume that we know what set of probabilities best represents the evidence? Perhaps we should have a set of sets of probabilities… Similar problems arise for theories of vagueness (Sorensen 2012)[^sorensen-2012]. We objected to precise values for degrees of belief, so why be content with sets-valued beliefs with precise boundaries? This is the problem of “higher-order vagueness” recast as a problem for imprecise probabilism. Why is sets of probabilities the right level to stop the regress at? Why not sets of sets? Why not second-order probabilities? Why not single probability functions? Williamson (2014) makes this point, and argues that a single precise probability is the correct level at which to get off the “uncertainty escalator”. Williamson advocates the betting interpretation of belief, and his argument here presupposes that interpretation. But the point is still worth addressing: for a particular interpretation of what belief is, what sort of level of uncertainty is appropriate. For the *functionalist* interpretation suggested above, this is something of a pragmatic choice. The further we allow this regress to continue, the harder it is to deal with these belief-representing objects. So let’s not go further than we need.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      非精确概率是一门源于我们作为推理行动者的局限、以及我们证据基础之局限的理论。倘若我们有更好的证据，单一概率函数就够了。但既然我们的证据薄弱，我们就必须用一个集合。在某种意义上，精确概率主义也是如此。倘若我们知道真相，我们便可以用真值赋值函数、或者仅仅用一组被完全相信的句子来表征信念。但既然有些真相我们并不知道，我们就必须用概率来表征我们居间的信心。而同样的问题确实也出现在非精确概率论者身上。假定我们知道哪个概率集最好地表征证据，这合理吗？或许我们应当有一个概率集的集合……类似的难题也出现在关于模糊性的理论中（Sorensen 2012）[^sorensen-2012]。我们既然反对用精确的置信度数值，又为何满足于边界精确的集值信念呢？这就是“高阶模糊性”问题，被改写为非精确概率主义的难题。为什么概率集是阻止这一倒退的恰当层级？为什么不是集合的集合？为什么不是二阶概率？为什么不是单一概率函数？Williamson（2014）提出这一点，并论证单一精确概率才是从“不确定性自动扶梯”上下来的正确层级。Williamson 主张信念的赌博解释，而他这里的论证以该解释为前提。但这一点仍值得回应：对于特定的信念解释，何种层级的不确定性才是恰当的。对于上文所提示的 功能主义 解释，这多少是个实用主义的选择。我们越让这一倒退继续下去，处理这些表征信念的对象就越困难。所以，不必走得比需要的更远。
+    step2: |-
+      非精确概率这门理论，生于我们身为推理行动者的局限，也生于证据基础的局限。若证据更好些，单一概率函数便已够用；既然证据薄弱，就只得动用集合。精确概率主义在某种意义上也是如此：若我们尽知真相，便可以用真值赋值函数、甚至只用一组被完全相信的句子来表征信念；正因有些真相我们并不知晓，才须以概率表征居间的信心。同样的问题其实也落到非精确概率论者头上：凭什么假定我们知道哪个概率集最好地表征了证据？也许我们该有一个概率集的集合……关于模糊性的理论也面临类似的难题（Sorensen 2012）[^sorensen-2012]。我们既已反对用精确的置信度数值，又何必满足于边界精确的集值信念？这正是“高阶模糊性”问题改换门庭，成了非精确概率主义的难题：为何概率集就是止住倒退的恰当层级？为何不是集合的集合？为何不是二阶概率？又为何不是单一概率函数？Williamson（2014）即提出此点，并主张单一精确概率才是从“不确定性自动扶梯”上下来时应停的正确层级。Williamson 持信念的赌博解释，其论证亦以该解释为前提。但此点仍值得应答：对于某种特定的信念解释，何种层级的不确定性才算恰当。就上文所提示的 功能主义 解释而言，这多少是个实用上的取舍。倒退放任得越远，处理这些表征信念的对象就越棘手。所以，不必走得比所需更远。
   - id: 158
     kind: body
     source: |-
       We have seen arguments above that IP does have some advantage over precise probabilism, in the capacity to represent suspending judgement, the difference between weight and balance of evidence and so on. So we must go *at least* this far up the uncertainty escalator. But for the sake of practicality we need not go any further, even though there are hierarchical Bayes models that would give us a well-defined theory of higher-order models of belief. This is, ultimately, a pragmatic argument. Actual human belief states are probably immensely complicated neurological patterns with all the attendant complexity, interactivity, reflexivity and vagueness. We are *modelling* belief, so it is about choosing a model at the right level of complexity. If you are working out the trajectory of a cannonball on earth, you can safely ignore the gravitational influence of the moon on the cannonball. Likewise, there will be contexts where simple models of belief are appropriate: perhaps your belief state is just a set of sentences of a language, or perhaps just a single probability function. If, however, you are modelling the tides, then the gravitational influence of the moon needs to be involved: the model needs to be more complex. This suggests that an adequate model of belief under severe uncertainty may need to move beyond the single probability paradigm. But a pragmatic argument says that we should only move as far as we need to. So while you need to model the moon to get the tides right, you can get away without having Venus in your model. This relates to the contextual nature of appropriateness for models of belief mentioned earlier. If one were attempting to provide a *complete* formal characterisation of the ontology of belief, then these regress worries would be significantly harder to avoid.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上文我们已经看到，IP 确有一些优于精确概率主义之处：在表征悬置判断、证据权重与平衡之别等等方面的能力。所以我们 至少 必须在这部不确定性自动扶梯上走到这一步。但为了实用，我们无需再往上走，尽管存在能给我们提供良定义的高阶信念模型理论的层次贝叶斯模型。归根到底，这是一个实用主义论证。现实的人类信念状态，大概极其复杂，是带有全部复杂性、互动性、反身性与模糊性的神经模式。我们在 建模 信念，因此问题在于选择恰当复杂层级的模型。若你在计算地球上炮弹的轨迹，你完全可以忽略月亮对炮弹的引力影响。同样，也会有一些语境，简单的信念模型是恰当的：或许你的信念状态不过是一组语言句子，或许不过是一个单一概率函数。然而，若你在建模潮汐，月亮的影响就必须纳入：模型需要更复杂。这提示，在严重不确定性下，恰当的信念模型可能需要超越单一概率范式。但实用主义论证说：我们只应走得与需要一样远。所以，要算准潮汐，你需要把月亮纳入模型，却可以不把金星算进去。这与前文提到的信念模型恰当性的语境性质相关。倘若有人试图为信念的本体论提供一套 完备的 形式刻画，那么这些倒退的忧虑就会难避开得多。
+    step2: |-
+      前文的论证已经表明，IP 在表征悬置判断、表征证据权重与平衡之别等方面确有胜于精确概率主义之处；所以这部“不确定性自动扶梯”，我们 至少 要乘到这一层。但出于实用，也无需再往上走——尽管层次贝叶斯模型本可提供一套良定义的高阶信念模型理论。归根到底，这是实用主义的论证。现实的人类信念状态，大概是极其复杂的神经模式，兼具纷繁的复杂性、互动性、反身性与模糊性。我们是在 建模 信念，因此关键在于选取复杂程度恰当的模型。计算地球上炮弹的轨迹时，尽可放心忽略月亮对炮弹的引力；同样，也总有语境宜用简单的信念模型：也许你的信念状态就是一组语言句子，也许就是一个单一概率函数。可若建模的是潮汐，月亮的影响便非纳入不可，模型也须更复杂。由此可见，严重不确定性下的恰当信念模型，也许须越出单一概率范式。但实用主义论证提醒我们：只该走到所需之处——要算准潮汐得把月亮算进去，却不必连金星也一并算。这与前文所述“信念模型是否恰当取决于语境”相通。倘若有人要为信念的本体论提供一套 完备的 形式刻画，这些倒退的忧虑就难得回避得多了。
   - id: 159
     kind: body
     source: |-
       Let’s imagine that we had a second order probability $\mu$ defined over the set of (first order) probabilities $P$. We could then reduce uncertainty to a single function by $p^*(X) = \sum_P \mu(p)p(X)$ (if $P$ is finite, in the interests of keeping things simple I discuss only this case). Now if $p^*(X)$ is what is used in decision making, then there is no real sense in which we have a genuine IP model, and it cannot rationalise the Ellsberg choice, nor can it give rise to incomparability. If there is some alternative use that $\mu$ is put to, a use that allows incomparability and that rationalises Ellsberg choices, then it might be a genuine rival to credal sets, but it represents just as much of a departure from the orthodox theory as IP does.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      设想我们有一个定义在（一阶）概率集 $P$ 上的二阶概率 $\mu$。那么我们便可以通过 $p^*(X) = \sum_P \mu(p)p(X)$ 把不确定性归约为单一函数（若 $P$ 有限；为简便计，我只讨论这种情形）。现在，若决策中所用的正是 $p^*(X)$，那么我们就并没有真正意义上的 IP 模型：它无法把 Ellsberg 选择合理化，也无法引出不可比性。若 $\mu$ 另有别的用场——一种允许不可比、并能合理化 Ellsberg 选择的用场——那么它或许可以成为信度集的真正对手，但它偏离正统理论的程度，与 IP 不相上下。
+    step2: |-
+      设想有一个定义在（一阶）概率集 $P$ 上的二阶概率 $\mu$。借 $p^*(X) = \sum_P \mu(p)p(X)$，我们便能把不确定性归约为单一函数（此处及下文只论 $P$ 为有限的情形，以求简便）。倘若决策中用的正是 $p^*(X)$，那就谈不上真正的 IP 模型：它既无法合理化 Ellsberg 选择，也不会引出不可比性。若 $\mu$ 另有他用——一种容许不可比、且能合理化 Ellsberg 选择之用——那么它或可成为信度集的真正对手，但其偏离正统理论的程度，与 IP 不相上下。
   - id: 160
     kind: body
     source: |-
       Gärdenfors and Sahlin’s *Unreliable Probabilities* model enriches a basic IP approach with a “reliability index” (see the [historical appendix](imprecise-probabilities.supplement-historical.md)). Lyon (2017) enriches the standard IP picture in a different way: he adds a privileged “best guess” probability. This modification allows for better aggregation of elicited IP estimates. How best to interpret such a model is still an open question. Other enriched IP models are no doubt available.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Gärdenfors 与 Sahlin 的 *Unreliable Probabilities* 模型用一个“可靠性指数”丰富了基本的 IP 进路（见 [历史附录](imprecise-probabilities.supplement-historical.md)）。Lyon（2017）以另一种方式丰富了标准的 IP 图景：他增添了一个享有特权的“最佳猜测”概率。这一修改使被引出的 IP 估计能更好地聚合。如何最好地解释这样一个模型，仍是开放问题。无疑还有其他丰富了 IP 的模型。
+    step2: |-
+      Gärdenfors 与 Sahlin 的 *Unreliable Probabilities* 模型以一个“可靠性指数”充实了基本的 IP 进路（见 [历史附录](imprecise-probabilities.supplement-historical.md)）。Lyon（2017）则从另一方向充实标准 IP 图景：他添入一个享有特权的“最佳猜测”概率，使被引出的 IP 估计得以更好地聚合。这类模型究竟该如何解释，仍是开放问题；可以想见，还有别的充实版 IP 模型。
   - id: 161
     kind: body
     source: |-
       ### 3.6 What makes a good imprecise belief?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.6 What makes a good imprecise belief?
+    step2: |-
+      ### 3.6 什么算好的非精确信念？
   - id: 162
     kind: body
     source: |-
       There are, as we have seen, certain structural properties that are necessary conditions on rational belief. What exactly these are depends on your views. However, there are further ways of assessing belief. Strongly believing true things and strongly believing the negations of false things seem like good-making-features of beliefs. For the case of precise credences, we can make this precise. There is a large literature on “scoring rules”: methods for measuring how good a probability is relative to the actual state of the world (Brier 1950; Savage 1971; Joyce 2009; Pettigrew 2011)[^brier-1950][^joyce-2009][^pettigrew-2011][^savage-1971]. These are numerical methods of measuring how good a probability is given the true state of the world.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如我们所见，理性信念有一些必要的结构性性质。这些性质究竟是什么，取决于你的观点。然而，评估信念还有别的方式。强烈地相信真的事物、强烈地相信假的事物的否定，似乎是信念的良好特征。对精确信度的情形，我们可以把这一点精确化。关于“评分规则”的文献很多：它们度量一个概率相对于实际世界状态有多好（Brier 1950; Savage 1971; Joyce 2009; Pettigrew 2011）[^brier-1950][^joyce-2009][^pettigrew-2011][^savage-1971]。这些是数值方法，用以度量在给定真实世界状态时一个概率有多好。
+    step2: |-
+      如前所见，理性信念须具备某些结构性质；这些性质究竟为何，则取决于你持何种观点。不过，评估信念尚有别的门径：强烈地相信真者、强烈地相信假者之否定，似乎是信念的加分特征。就精确信度而言，这一点可以精确化——“评分规则”文献甚多，所论即衡量一个概率相对实际世界状态有多好的方法（Brier 1950; Savage 1971; Joyce 2009; Pettigrew 2011）[^brier-1950][^joyce-2009][^pettigrew-2011][^savage-1971]。这些方法以数值刻画：给定真实世界状态，一个概率有多好。
   - id: 163
     kind: body
     source: |-
       For the case of imprecise probabilities, however, the situation looks bleak. No real valued scoring rule for imprecise probabilities can have the desirable property of being *strictly proper* (Seidenfeld, Schervish, and Kadane 2012). Schoenfield (2017) presents a simple version of the result. Since strict propriety is a desirable property of a scoring rule (Bröcker and Smith 2007; Joyce 2009; Pettigrew 2011)[^bröcker-2007][^joyce-2009][^pettigrew-2011], this failing is serious. So further work is needed to develop a well-grounded theory of how to assess imprecise probabilities. Mayo-Wilson and Wheeler (2016) provide a neater version of the proof, and offer a property weaker than strict propriety that an imprecise probability scoring rule can satisfy. Carr (2015) and Konek (forthcoming) both present positive suggestions for moving forward with imprecise scoring rules. Levinstein (forthcoming) suggests that the problem really only arises for determinately imprecise credences, but not for indeterminate credence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而对非精确概率而言，情形看起来黯淡。任何实值的非精确概率评分规则，都无法具备 严格正常（strictly proper）这一可欲性质（Seidenfeld, Schervish, and Kadane 2012）。Schoenfield（2017）给出了该结果的一个简单版本。既然严格正常性是评分规则的一项可欲性质（Bröcker and Smith 2007; Joyce 2009; Pettigrew 2011）[^bröcker-2007][^joyce-2009][^pettigrew-2011]，这一缺陷是严重的。因此，还需要进一步工作，才能发展出一套有充分根据的评估非精确概率的理论。Mayo-Wilson and Wheeler（2016）给出了该证明的一个更简洁版本，并提出了一种比严格正常性更弱的、非精确概率评分规则可以满足的性质。Carr（2015）与 Konek（即出）都提出了推进非精确评分规则的积极建议。Levinstein（即出）提出，问题其实只出现在确定地非精确的信度上，而不出现在非确定的信度上。
+    step2: |-
+      然而一到非精确概率，前景便显得黯淡：任何实值的非精确概率评分规则，都无法具备 *strictly proper*（严格正常）这一可欲性质（Seidenfeld, Schervish, and Kadane 2012）。Schoenfield（2017）给出了该结果的一个简版。严格正常性本是评分规则的可欲性质（Bröcker and Smith 2007; Joyce 2009; Pettigrew 2011）[^bröcker-2007][^joyce-2009][^pettigrew-2011]，这一缺陷因此不可小觑：要发展出有充分根据的非精确概率评估理论，仍需更多工作。Mayo-Wilson and Wheeler（2016）给出了该证明更简洁的版本，并提出一种弱于严格正常性、非精确概率评分规则可资满足的性质。Carr（2015）与 Konek（即出）均就如何推进非精确评分规则提出了积极构想；Levinstein（即出）则认为，问题其实只出现在确定地非精确的信度上，非确定的信度并无此虞。
   - id: 164
     kind: body
     source: |-
       ## 4. Summary
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. Summary
+    step2: |-
+      ## 4 总结
   - id: 165
     kind: body
     source: |-
       Imprecise probabilities offer a model of rational belief that does away with some of the idealisation required by the orthodox precise probability approach. Many motivations for such a move have been put forward, and many views on IP have been discussed. There are still several open philosophical questions relating to IP, and this is likely to be a rich field of research for years to come.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      非精确概率提供了一种理性信念模型，它去除了正统精确概率进路所要求的一些理想化。人们已提出支持这一转向的许多动机，也讨论过关于 IP 的许多观点。与 IP 相关的若干哲学问题仍然开放，这很可能在未来多年里是一个丰饶的研究领域。
+    step2: |-
+      非精确概率所提供的理性信念模型，免去了正统精确概率进路的一些理想化。支持这一转向的动机已提出不少，关于 IP 的种种观点也已多有讨论；而与 IP 相关的若干哲学问题至今仍然开放，未来多年里这很可能是一片丰饶的研究领域。
   - id: 166
     kind: oir
     source: |-
@@ -1314,11 +1412,21 @@ segments:
       - Cozman, Fabio, [An Informal Introduction to the Theory of Sets of Probabilities](http://www.cs.cmu.edu/~qbayes/Tutorial/)
       - [SIPTA: the Society for Imprecise Probability, Theory and Applications](http://www.sipta.org/)
       - [PhilPapers category Imprecise Credences](http://philpapers.org/browse/imprecise-credences)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - Bradley, Seamus, 2013, “[Weak rationality and imprecise choice](http://www.lse.ac.uk/CPNSS/research/currentResearchProjects/ChoiceGroup/PDF_files/bradleyS-ImpreciseChoice.pdf),” LSE Choice Group Working Paper.
+      - Cozman, Fabio, [An Informal Introduction to the Theory of Sets of Probabilities](http://www.cs.cmu.edu/~qbayes/Tutorial/)
+      - [SIPTA: the Society for Imprecise Probability, Theory and Applications](http://www.sipta.org/)
+      - [PhilPapers category Imprecise Credences](http://philpapers.org/browse/imprecise-credences)
+    step2: |-
+      - Bradley, Seamus, 2013, “[弱理性与非精确选择（Weak rationality and imprecise choice）](http://www.lse.ac.uk/CPNSS/research/currentResearchProjects/ChoiceGroup/PDF_files/bradleyS-ImpreciseChoice.pdf)”，LSE Choice Group 工作论文。
+      - Cozman, Fabio, [《概率集理论通俗导论》（An Informal Introduction to the Theory of Sets of Probabilities）](http://www.cs.cmu.edu/~qbayes/Tutorial/)
+      - [SIPTA：非精确概率理论及其应用学会（Society for Imprecise Probability, Theory and Applications）](http://www.sipta.org/)
+      - [PhilPapers 类别：非精确信度（Imprecise Credences）](http://philpapers.org/browse/imprecise-credences)
   - id: 167
     kind: ack
     source: |-
       Many thanks to Teddy Seidenfeld, Greg Wheeler, Paul Pedersen, Aidan Lyon, Catrin Campbell-Moore, Stephan Hartmann, the ANU Philosophy of Probability Reading Group, and an anonymous referee for helpful comments on drafts of this article.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      感谢 Teddy Seidenfeld、Greg Wheeler、Paul Pedersen、Aidan Lyon、Catrin Campbell-Moore、Stephan Hartmann、ANU 概率哲学读书小组，以及一位匿名审稿人，对本文各稿提出的有益意见。
+    step2: |-
+      感谢 Teddy Seidenfeld、Greg Wheeler、Paul Pedersen、Aidan Lyon、Catrin Campbell-Moore、Stephan Hartmann、ANU 概率哲学读书小组以及一位匿名审稿人，对本文各稿提出的宝贵意见。
