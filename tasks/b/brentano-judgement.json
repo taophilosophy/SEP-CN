@@ -2,7 +2,7 @@
   "slug": "brentano-judgement",
   "kind": "retranslate",
   "zh_doc": "b/brentano-judgement.md",
-  "state": "s1_checked",
+  "state": "s2_checked",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,13 @@
       "actor": "B-main-20261109b",
       "at": "2026-11-09T01:28:45Z",
       "evidence": "逐节回源核销：H2/H3 17:17（源多一转换器 Notes 包装标题，按模板不搬）；footnote defs 108:108 键集全等；正文脚注引注零缺；PES 页码引注 36:36、年份 274:274 全等；正文残留外文 7 处均为作者署名与德文术语（anerkennendes Urteil 等）；抽核 8 处高风险段逐句对照，实修 1 处（note-23「moods of the categorical syllogism」→「直言三段论的那些式（moods）」）；四检复跑全绿"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "B-main-20261109b",
+      "at": "2026-11-09T02:40:34Z",
+      "evidence": "二校语言：prose 48→26，实修 22 处（弱动词 11：作出说明/作出判断/加以比较/加以统一说明等；被动 1；长句拆 3；类名们 1；存在句 1；de-chain 5）。余 26 条逐条判读后豁免：均为块引源文直引（Stumpf 1919/PES 240/PES 221/PES 241 等）或术语枚举，中文按源文等长保留，ADR-0020 引文豁免。四检复跑 style 0/math 0/academic 0"
     }
   ],
   "blockers": [],
