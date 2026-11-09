@@ -1,0 +1,50 @@
+{
+  "slug": "logic-dynamic",
+  "kind": "retranslate",
+  "zh_doc": "l/logic-dynamic.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-09T19:50:13Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T20:57:17Z",
+      "evidence": "lq compose 186 段全填、守恒 HARD 0；l/logic-dynamic.md 34,554 字符；p1–p5 分批写 script/parts/（1–50/51–100/101–126/127–165/166–186）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T20:57:17Z",
+      "evidence": "check_style 0 issue（italic_to_bold_cjk 17 行）；check_prose 0 issue（两处 de-chain 改写：id 5 标记转移系统句、id 115 Hoare 推广句，改在账本 step2 后重 compose）；check_math missing 0；unbalanced 4 均为 yuanwen 镜像中 $0$/$1$ 数字起头公式触发货币启发式的已知假阳性（产物侧 lq 计数守恒）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T20:57:18Z",
+      "evidence": "check_academic --strict 0 硬错误；check_terms 硬错误 0（新增术语 31、人名 43，script/l_reg_logic_dynamic.py 登记；Pratt 登记为 Vaughan Pratt 新行，与既有经济学家 John W. Pratt 分列，check_terms 自洽 0）；check_summary H1 mismatch 0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T21:31:06Z",
+      "evidence": "对照 yuanwen/l/logic-dynamic.md 逐段回读 186 段：先修 9 处 $ 计数失配（44/54/78/97/106/125/127/138/158，step2 改写时丢了行内公式，逐处补回；158 第三处 pi ^{-1} 间距变体照录），lq 守恒 HARD 0（仅 段67 SOFT 斜体计数）；proof 表 4 张逐行核对编号/理由列；注意源文 'In one sentence' 段与 185 节结论照译"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-09T19:49:07Z",
+  "version_pin": {
+    "pubinfo_date": "Feb 16, 2023",
+    "archive_edition": "Fall 2023",
+    "sha256": "bb7c36ae9f82ba0c7e5bc8c15382ff1572a79e9e3f394bfbff59677efdb35cf9"
+  }
+}
