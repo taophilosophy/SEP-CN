@@ -49,3 +49,28 @@
 * DHCP 前提：地址若变，以当场 `ipconfig` 为准并回写 ADR 与本文。
 
 **并发实例（本次发生）**：本会话 `git add` 014 与规则文件后，另一并行会话先一步 `git add -A` 提交，本会话 commit 报 "no changes added"；核对 `git ls-files` 确认全部文件已入 9857e239 / 73a61548，按 `rules/06` 第 2 条不重复提交。这是双机双克隆后会更频繁的竞态，验证了「认领即推、生成物重生成」设计的必要性。
+
+## 2026-11-09 执行：cutover §1–§5（完成）
+
+**网络插曲**：本机直连 GitHub 失败（`CRYPT_E_REVOCATION_OFFLINE` + github.com 超时）；用户指定代理 `192.168.5.4:7890`（M2 上）。设 `git config --global http(s).proxy` 后 `ls-remote` 正常，origin/main = `94790df1`，与 D: HEAD 一致。
+
+| 步骤 | 实测 |
+| --- | --- |
+| SMB 克隆（先试） | **失败**：`.git` 停在 70 MB，16 s 无增长（源仓库被他机 git 操作占锁）→ 终止并删除半成品 |
+| origin 克隆 | **127 s**，7488 个文件（走代理） |
+| 配置 | `user.name/email`、`core.ignorecase=true`、`ykla.machine=pc6`、`autocrlf` 继承全局 `input` |
+| 本地相 robocopy | **27 s**：`en` 5434 文件/0.35 GB、`yuanwen` 4267/0.29 GB、`script` 7185/0.41 GB、`state` 58、`.secrets` 2 |
+| 两机比对 | en 顶层 1884:1884、递归 5434:5434；yuanwen 29:29、4267:4267 —— 零差异 |
+| `bun install` | 8 s，135 包，`node_modules` 99 项 |
+| `check_all --all` | **9/9 全绿**（冷启 44 s） |
+| `check_all`（7 项） | 冷 15 s / 温 13 s（D: 同项 27 s） |
+| `verify-clone.sh` | 全部 OK |
+
+**发现的两个噪声源（已还原，建议跟进）**
+
+* `bun.lock`：本机 bun 1.4.4 安装时补写 `"configVersion": 0`，与仓库现有 lock 有格式差；已 `git checkout --`。
+* `specs/001-sep-sync-pipeline/en-integrity-full.json`：`check_all --all` 每次都改写 `ran_at`（本次仅时间戳变，audited/clean/1879 与 hard=0 不变）→ **每次 `--all` 必脏一处**。建议让 `tools/en_integrity.py` 在结论未变时不改写该字段（或用 `--quiet` 抑制写回）。双机后这条会成为常态噪声。
+
+**记忆迁移（提前完成）**：反解出键算法 `sep-cn-` + `sha256(工作区路径小写、反斜杠形式)[:16]`（校验：`d:\sep-cn` → `33d65d943eb3eb8a`）。新键 `sep-cn-1f5dbdf5bb3376f8` 已预建并全量拷贝 20 个文件，新路径首次开会话即可召回，无需手工搬运。
+
+**新增约束（重要）**：M1 的 GitHub 访问**依赖 M2 上的代理** `192.168.5.4:7890`（本机直连因 TLS 吊销检查脱机不可用）。M2 关机时 M1 无法 push/pull——「唯一同步面」反而被单点化。缓解方向：本机自建代理／修复根证书吊销检查／或改用 SSH over 443。已记入 `spec.md` 风险表。

@@ -49,6 +49,7 @@
 * **机器身份以 IP 区分**（两机 git 用户名同为 `ykla`）：M1 `192.168.5.6` → `pc6`，M2 `192.168.5.4` → `pc4`；标签存各克隆本地配置 `git config --local ykla.machine`，会话 ID 前缀取之（`pc6-c-s3-20261109`）。当场取法：`ipconfig | grep -a IPv4 | head -1`。批次交接用 `campaign.py release <批> --note`，接手方重新 claim。
 * **生成物冲突不手工解**：`PROGRESS.md` 任取一侧后 `tools/progress.py` 重生成；`SUMMARY.md` 取并集后 `check_summary.py`；账本 rebase 后重放 `campaign.py advance`（幂等）；术语表／人名表／词汇表追加式书写，冲突取并集后 `check_terms.py`。
 * 两机尽量不同时开工同一字母批，压低 `SUMMARY.md` 与登记册的文本冲突面；本地相（`en/`、`yuanwen/`、`script/`、`state/`、`.secrets/`）各机自持，不入库不共享。
+* **M1 的 GitHub 访问经 M2 代理**（`192.168.5.4:7890`，本机直连因 TLS 吊销检查脱机不可用）；M2 关机时 M1 无法 push/pull，需等其上线或改用局域网直连仓库应急。`check_all --all` 每次会改写 `specs/001/en-integrity-full.json` 的 `ran_at`，提交前还原，别把时间戳当改动。
 
 ## 质量门与完成定义
 
