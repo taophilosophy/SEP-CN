@@ -11,74 +11,98 @@ segments:
     kind: body
     source: |-
       [*Editor’s Note: The following entry replaces and is based on the former entry titled [Scientific Explanation](https://plato.stanford.edu/archives/fall2025/entries/scientific-explanation/).*]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [*编者按：本条目取代原条目[科学解释](https://plato.stanford.edu/archives/fall2025/entries/scientific-explanation/)，并以其为基础。*]
+    step2: |-
+      [*编者按：本条目取代原条目[科学解释](https://plato.stanford.edu/archives/fall2025/entries/scientific-explanation/)，并以其为基础。*]
   - id: 2
     kind: body
     source: |-
       Issues concerning scientific explanation have been a focus of philosophical attention from Pre-Socratic times through the modern period. However, modern discussion really begins with the development of the Deductive-Nomological (*DN*) model. This model has had many advocates (including Popper 1959, Braithwaite 1953, Gardiner, 1959, Nagel 1961)[^braithwaite-1953][^nagel-1961][^popper-1959] but unquestionably the most detailed and influential statement is due to Carl Hempel (1942, 1965a, and Hempel & Oppenheim 1948)[^hempel-1948]. These papers and the reaction to them have structured subsequent discussion concerning scientific explanation to an extraordinary degree. After some general remarks by way of background and orientation (Section 1), this entry describes the *DN* model and its extensions, and then turns to some well-known objections (Section 2). It next describes a variety of subsequent attempts to develop alternative models of explanation, including Wesley Salmon’s *Statistical Relevance* (Section 3) and *Causal Mechanical* (Section 4) models, *Unificationist* models due to Michael Friedman and Philip Kitcher (Section 5), and *Pragmatic* theories found in the work of van Fraassen (Section 6). Section 7 provides a summary and briefly discusses the impact on more recent work. This entry thus discusses treatments of scientific explanation up to the end of the twentieth century. For a discussion of more recent work on scientific explanation, see the entry on causal approaches to scientific explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      自前苏格拉底时代直至现代，科学解释问题一直是哲学关注的焦点。不过，现代讨论真正始于演绎—律则（Deductive-Nomological，*DN*）模型的发展。该模型有许多拥护者（包括 Popper 1959, Braithwaite 1953, Gardiner 1959, Nagel 1961）[^braithwaite-1953][^nagel-1961][^popper-1959]，但无疑以卡尔·亨佩尔（Carl Hempel，1942, 1965a，及 Hempel & Oppenheim 1948）的表述最为详尽、最具影响[^hempel-1948]。这些论文及对它们的回应，在极大程度上塑造了此后关于科学解释的讨论。本条目先作若干背景与定向的一般说明（第 1 节），继而描述 *DN* 模型及其扩展，然后转向若干著名反驳（第 2 节）。接下来描述此后发展替代性解释模型的各种尝试，包括韦斯利·萨蒙的*统计相关性*模型（第 3 节）与*因果机制*模型（第 4 节）、迈克尔·弗里德曼与菲利普·基切尔提出的*统一论*模型（第 5 节），以及范弗拉森著作中的*语用*理论（第 6 节）。第 7 节作总结，并简要讨论其对晚近研究的影响。因此，本条目讨论的是截至 20 世纪末的科学解释研究。关于晚近科学解释工作的讨论，见「科学解释的因果进路」条目。
+    step2: |-
+      自前苏格拉底时代直至现代，科学解释问题一直是哲学关注的焦点。不过，现代讨论真正始于演绎—律则（Deductive-Nomological，*DN*）模型的发展。该模型拥护者甚众（包括 Popper 1959、Braithwaite 1953、Gardiner 1959、Nagel 1961）[^braithwaite-1953][^nagel-1961][^popper-1959]，而最详尽、最具影响的表述无疑出自卡尔·亨佩尔（Carl Hempel，1942、1965a，及 Hempel & Oppenheim 1948）[^hempel-1948]。这些论文及对它们的回应，极大程度地塑造了此后关于科学解释的讨论。本条目先作背景与定向的一般说明（第 1 节），继而描述 *DN* 模型及其扩展，再转向若干著名反驳（第 2 节）。随后描述此后发展替代模型的各种尝试：韦斯利·萨蒙的*统计相关性*模型（第 3 节）与*因果机制*模型（第 4 节），迈克尔·弗里德曼与菲利普·基切尔的*统一论*模型（第 5 节），以及范弗拉森著作中的*语用*理论（第 6 节）。第 7 节总结，并简述其对晚近研究的影响。故本条目讨论截至 20 世纪末的科学解释研究；晚近工作见「科学解释的因果进路」条目。
   - id: 3
     kind: body
     source: |-
       ## 1. Background and Introduction
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 背景与导论
+    step2: |-
+      ## 1 背景与导论
   - id: 4
     kind: body
     source: |-
       As will become apparent, “scientific explanation” is a topic that raises a number of interrelated issues. Some background orientation will be useful before turning to the details of competing models. A presupposition of most recent discussion has been that science sometimes provides explanations (rather than something that falls short of explanation—e.g., “mere description”) and that the task of a “theory” or “model” of scientific explanation is to characterize the structure of such explanations. It is thus assumed that there is (at some suitably abstract and general level of description) a single kind or form of explanation that is “scientific”. In fact, the notion of “scientific explanation” suggests at least two contrasts—first, a contrast between those “explanations” that are characteristic of “science” and those explanations that are not, and, second, a contrast between “explanation” and something else. However, with respect to the first contrast, much of the recent philosophical literature assumes that there is substantial continuity between explanations found in science and some forms of explanation found in ordinary, non-scientific contexts. It is further assumed that it is the task of a theory of explanation to capture what is common to both scientific and some ordinary, non-scientific forms of explanation. These assumptions help to explain (what may otherwise strike the reader as curious) why, as this entry will illustrate, discussions of scientific explanation often move back and forth between examples drawn from bona-fide science (e.g., explanations of the trajectories of the planets that appeal to Newtonian mechanics) and more homey examples (e.g., the tipping over of inkwells).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      下文将显示，“科学解释”是一个牵涉若干相互关联问题的论题。在进入各家模型的细节之前，先作背景定向是有益的。晚近讨论的一个预设是：科学有时提供解释（而非某种够不上解释的东西——例如“单纯描述”）；而“科学解释”的“理论”或“模型”的任务，就是刻画这类解释的结构。于是人们假定：在某种适当抽象、一般的描述层面上，存在单一一种“科学的”解释类型或形式。事实上，“科学解释”这一说法至少暗示两种对照：其一，“科学”所特有的那些“解释”与并非如此的“解释”之间的对照；其二，“解释”与别的东西之间的对照。然而，就第一种对照而言，晚近哲学文献大多假定：科学中的解释与日常非科学语境中的某些解释形式之间，存在实质连续性。人们进一步假定：解释理论的任务，就是把握科学解释与某些日常非科学解释形式的共同之处。这些假定有助于解释（否则读者可能觉得奇怪）：为什么如本条目所示，关于科学解释的讨论常在取自真正科学的例子（例如以牛顿力学解释行星轨道）与更家常的例子（例如墨水瓶打翻）之间来回摆动。
+    step2: |-
+      下文将显示，“科学解释”牵涉若干相互关联的问题。进入各家模型细节之前，先作背景定向有益。晚近讨论有一预设：科学有时确实提供解释（而非某种够不上解释的东西，如“单纯描述”）；而“科学解释”之“理论”或“模型”的任务，就是刻画这类解释的结构。于是人们假定：在足够抽象、一般的描述层面上，存在单一一种“科学的”解释类型或形式。“科学解释”这一说法至少暗示两种对照：一，“科学”特有的“解释”与并非如此的“解释”之别；二，“解释”与别的东西之别。就第一种对照而言，晚近文献大多假定：科学中的解释与日常非科学语境中的某些解释形式之间有实质连续性；并进一步假定，解释理论的任务是把握二者共同之处。这一假定有助于说明（否则读者会觉得奇怪）：为什么本条目所见的讨论，常在取自真正科学的例子（如以牛顿力学解释行星轨道）与更家常的例子（如墨水瓶打翻）之间来回摆动。
   - id: 5
     kind: body
     source: |-
       With respect to the second contrast, most models of explanation assume that it is possible for a set of claims to be true, accurate, supported by evidence, and so on and yet unexplanatory. For example, all of the accounts of scientific explanation described below would agree that an account of the appearance of a particular species of bird of the sort found in a bird guidebook is, however accurate, not an explanation of anything of interest to biologists (such as the development, characteristic features, or behavior of that species). Instead, such an account is “merely descriptive”. However, different models of explanation provide different accounts of what the contrast between the explanatory and merely descriptive consists in.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      就第二种对照而言，多数解释模型都假定：一组主张可以是真的、准确的、有证据支持的等等，却仍不是解释。例如，下文描述的各种科学解释理论都会同意：鸟类图鉴中关于某类鸟之外观的那种记述，无论多么准确，都不是生物学家所关心的任何东西（如该物种的发育、特征或行为）的解释；它只是“单纯描述”。然而，不同解释模型对“解释性的”与“单纯描述性的”之别究竟何在，给出了不同说法。
+    step2: |-
+      就第二种对照而言，多数解释模型假定：一组主张可以真、可以准确、可以有证据支持，却仍不构成解释。例如，下文各理论都会同意：鸟类图鉴中关于某类鸟外观的记述，不论多么准确，都不是生物学家所关心之物（该物种的发育、特征或行为）的解释，而只是“单纯描述”。但“解释性的”与“单纯描述性的”之别究竟何在，各家说法不同。
   - id: 6
     kind: body
     source: |-
       A related point is that, while most theorists of scientific explanation have proposed models that are intended to cover at least some cases of explanation that we would not think of as part of science, they have nonetheless assumed some implicit restriction on the kinds of explanation they have sought to reconstruct. It has often been noted that the word “explanation” is used in a wide variety of ways in ordinary English—we speak of explaining the meaning of a word, explaining how to bake a pie, explaining why one made a certain decision (where this is to offer a justification) and so on. Although the various models discussed below have sometimes been criticized for their failure to capture all of these forms of “explanation” (see, e.g., Scriven 1959)[^scriven-1959], it is clear that they were never intended to do this. Instead, their intended *explicandum* is, very roughly, explanations of *why* things happen, where the “things” in question can be either particular events or something more general—e.g., regularities or repeatable patterns in nature. Paradigms of this sort of explanation include: the explanation for the advance in the perihelion of mercury provided by General Relativity, the explanation of the extinction of the dinosaurs in terms of the impact of a large asteroid at the end of the Cretaceous period, the explanation provided by the police for why a traffic accident occurred (the driver was speeding and there was ice on the road), and the standard explanation provided in economics textbooks for why monopolies will, in comparison with firms in perfectly competitive markets, raise prices and reduce output.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与此相关的一点是：多数科学解释理论家所提出的模型，虽意在涵盖至少某些我们不会视为科学之一部分的解释，却都对他们要重构的解释种类作了某种隐含限制。“解释”一词在日常英语中用法繁多——我们说解释一个词的含义、解释如何烤馅饼、解释某人为何作某决定（这里是给出正当理由），等等。尽管下文各模型有时因未能涵盖所有这些“解释”形式而受批评（例如见 Scriven 1959）[^scriven-1959]，但很清楚，它们从来无意如此。它们所要阐释的（*explicandum*），粗略说来，是对*为何*事情发生的解释——其中“事情”可以是特定事件，也可以是更一般的东西，如自然中的规则性或可重复模式。这类解释的范例包括：广义相对论对水星近日点进动的解释；以白垩纪末一颗大行星撞击来解释恐龙的灭绝；警方对一起交通事故为何发生的解释（司机超速，路面有冰）；以及经济学教科书对垄断者为何相对于完全竞争市场中的企业提价减产的标准解释。
+    step2: |-
+      与此相关：多数科学解释理论家所提模型，虽意在涵盖某些我们并不视为科学之一部分的解释，却都对所要重构的解释种类设了隐含限制。“解释”在日常英语中用法极多——解释词义、解释如何烤馅饼、解释某人为何作某决定（即给出正当理由），等等。下文各模型常因未涵盖所有这些“解释”形式而受批评（如见 Scriven 1959）[^scriven-1959]，但它们显然从未打算如此。其意中的*阐释对象*（*explicandum*）粗略说来是对*为何*事情发生的解释——“事情”可以是特定事件，也可以是更一般者，如自然中的规则性或可重复模式。范例包括：广义相对论对水星近日点进动的解释；以白垩纪末大行星撞击解释恐龙灭绝；警方对一起交通事故的解释（司机超速，路面有冰）；经济学教科书对垄断者何以相对完全竞争企业提价减产的标准解释。
   - id: 7
     kind: body
     source: |-
       Finally, a few words about the broader epistemological and methodological background to the models described below. Many philosophers think of concepts like “explanation”, “law”, “cause”, and “support for counterfactuals” as part of an interrelated family of concepts that are “modal” in character. For familiar “empiricist” reasons, Hempel and many other early defenders of the *DN* model regarded these concepts as not well understood, at least prior to analysis. It was assumed that it would be “circular” to explain one concept from this family in terms of others from the same family and that they must instead be explicated in terms of other concepts from outside the modal family—concepts that more obviously satisfied (what were taken to be) empiricist standards of intelligibility and testability. For example, in Hempel’s version of the *DN* model, the notion of a “law” plays a key role in explicating the concept of “explanation”, and his assumption is that laws are just regularities that meet certain further conditions that are also acceptable to empiricists. As we shall see, these empiricist standards (and an accompanying unwillingness to employ modal concepts as primitives) have continued to play a central role in the models of explanation developed subsequent to the *DN* model.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，就下文各模型的更广认识论与方法论背景略作数语。许多哲学家把“解释”“律”“原因”“反事实支持”这类概念视为一个相互关联的概念家族，其性质是“模态的”。出于熟悉的“经验主义”理由，亨佩尔与许多 *DN* 模型的早期捍卫者认为，这些概念至少在被分析之前并未得到很好的理解。他们假定：用这一家族中的某些概念去解释同家族的其他概念会是“循环的”；必须转而用模态家族之外的其他概念来阐释它们——那些更显然满足（他们所理解的）经验主义可理解性与可检验性标准的概念。例如，在亨佩尔的 *DN* 模型版本中，“律”这一概念在阐释“解释”概念时起关键作用；他的假定是：律不过是满足某些进一步条件、且这些条件也为经验主义者接受的规则性。我们将看到，这些经验主义标准（连同不愿把模态概念当作初始概念的态度），在 *DN* 模型之后发展出的解释模型中继续扮演核心角色。
+    step2: |-
+      最后略说下文各模型的更广认识论与方法论背景。许多哲学家视“解释”“律”“原因”“反事实支持”为一个相互关联的概念家族，其性质是“模态的”。出于熟悉的“经验主义”理由，亨佩尔与许多 *DN* 模型早期捍卫者认为，这些概念至少在被分析之前未获良好理解。他们假定：用同家族概念互释会“循环”，故须用模态家族之外的概念来阐释——那些更显然符合（他们所理解的）经验主义可理解性与可检验性标准者。例如在亨佩尔的 *DN* 版本中，“律”在阐释“解释”时居关键地位；他假定律不过是满足某些进一步条件、且这些条件亦为经验主义者接受的规则性。我们将看到，这些经验主义标准（连同不愿以模态概念为初始项的态度），在 *DN* 之后的解释模型中继续居核心地位。
   - id: 8
     kind: body
     source: |-
       A related issue has to do with whether all scientific explanations are causal and if not, what distinguishes causal from non-causal explanations. Hempel recognized both causal and non-causal forms of explanation but held that both were captured by the *DN* model—in his view, causal explanations are simply *DN* explanations that cite causal laws (which he regarded as a proper subset of all laws). Many but not all of the accounts discussed below in effect assume that many of the problems with the DN model can be traced to its commitment to an inadequate account of causation; thus that getting clearer about causal notions would lead to more adequate accounts of explanation. By contrast, a substantial amount of recent discussion of explanation has moved away from this focus on causation and instead explores the possibility of non-causal forms of explanation.[^note-1]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个相关问题关涉：是否一切科学解释都是因果的；若非如此，因果解释与非因果解释之别何在。亨佩尔承认因果与非因果两种解释形式，但认为二者都被 *DN* 模型所涵盖——在他看来，因果解释不过是引述因果律（他视之为一切律的一个真子类）的 *DN* 解释。下文所论的许多（虽非全部）理论，实际上假定：*DN* 模型的许多问题可追溯到它对因果关系作了不充分的说明；因此，把因果概念弄清楚，会带来更充分的解释理论。相反，晚近大量关于解释的讨论已离开对因果的关注，转而探索非因果解释形式的可能性。[^note-1]
+    step2: |-
+      与此相关的问题是：是否一切科学解释都是因果的？若否，因果解释与非因果解释之别何在？亨佩尔兼认因果与非因果两种形式，但认为二者均被 *DN* 模型涵盖——在他看来，因果解释不过是引述因果律（他视之为一切律的真子类）的 *DN* 解释。下文许多（非全部）理论实际假定：*DN* 的许多问题可溯至其对因果的不充分说明，故厘清因果概念将带来更充分的解释理论。相反，晚近大量讨论已离开因果，转而探索非因果解释的可能。[^note-1]
   - id: 9
     kind: body
     source: |-
       **Suggested Readings**: Salmon (1989) is a superb critical survey of all the models of scientific explanation discussed in this entry. Kitcher and Salmon (1989), Pitt (1988), and Ruben (1993) are anthologies that contain a number of influential articles.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **推荐读物**：Salmon（1989）对本条目所论一切科学解释模型作了出色的批判性综述。Kitcher and Salmon（1989）、Pitt（1988）、Ruben（1993）是收录若干有影响论文的文集。
+    step2: |-
+      **推荐读物**：Salmon（1989）对本条目所论一切科学解释模型的批判性综述堪称出色。Kitcher and Salmon（1989）、Pitt（1988）、Ruben（1993）为收录多篇有影响论文的文集。
   - id: 10
     kind: body
     source: |-
       ## 2. The *DN* Model
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 *DN* 模型
+    step2: |-
+      ## 2 *DN* 模型
   - id: 11
     kind: body
     source: |-
       ### 2.1 The Basic Idea
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 基本观念
+    step2: |-
+      ### 2.1 基本观念
   - id: 12
     kind: body
     source: |-
       According to the Deductive-Nomological Model, a scientific explanation consists of two major “constituents”: an *explanandum*, which is a sentence “describing the phenomenon to be explained” and an *explanans*, “the class of those sentences which are adduced to account for the phenomenon” (Hempel & Oppenheim 1948 [1965: 247])[^hempel-1948]. For the explanans to successfully explain the explanandum several conditions must be met. First, “the explanandum must be a logical consequence of the explanans” and “the sentences constituting the explanans must be true” (Hempel 1948 [1965: 248])[^hempel-1948]. That is, the explanation should take the form of a sound deductive argument in which the explanandum follows as a conclusion from the premises in the explanans. This is the “deductive” component of the model. Second, the explanans must contain at least one “law of nature” and this must be an *essential* premise in the derivation in the sense that the derivation of the explanandum would not be valid if this premise were removed. This is the “nomological” component of the model—“nomological” being a philosophical term of art which, suppressing some niceties, means (roughly) “lawful”. In its most general formulation, the *DN* model is meant to apply both to the explanation of “general regularities” or “laws” such as (to use Hempel and Oppenheim’s examples) why light conforms to the law of refraction and also to the explanation of particular events, conceived as occurring at a particular time and place, such as the bent appearance of the partially submerged oars of a rowboat on a particular occasion of viewing. As an additional illustration of a *DN* explanation of a particular event, consider a derivation of the position of Mars at some future time from Newton’s laws of motion, the Newtonian inverse square law governing gravity, and information about the mass of the sun, the mass of Mars and the present position and velocity of each. In this derivation the various Newtonian laws figure as essential premises and they are used, in conjunction with appropriate information about initial conditions (the masses of Mars and the sun and so on), to derive the explanandum (the future position of Mars) via a deductively valid argument. The *DN* criteria are thus satisfied.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按演绎—律则模型，一个科学解释由两个主要“构件”组成：*被解释项*（*explanandum*），即“描述待解释现象”的语句；以及*解释项*（*explanans*），即“为说明该现象而援引的那类语句”（Hempel & Oppenheim 1948 [1965: 247]）[^hempel-1948]。解释项要成功解释被解释项，须满足若干条件。第一，“被解释项必须是解释项的逻辑后承”，且“构成解释项的语句必须为真”（Hempel 1948 [1965: 248]）[^hempel-1948]。也就是说，解释应采取可靠演绎论证的形式：被解释项作为结论从解释项中的前提推出。这是该模型的“演绎”成分。第二，解释项必须至少含有一条“自然律”，且该前提在推导中必须是*本质性的*——即若去掉该前提，对被解释项的推导便不成立。这是该模型的“律则”成分——“律则的”（nomological）是个哲学专门术语，略去若干细节，大意是“合乎律的”。在其最一般的表述中，*DN* 模型意在同时适用于“一般规则性”或“律”的解释（用亨佩尔与奥本海姆的例子：光为何遵循折射定律），以及特定事件的解释（设想发生于特定时间地点的事件：例如某次观看时，划艇部分没入水中的桨为何显得弯折）。作为 *DN* 解释特定事件的又一例证，试看由牛顿运动定律、支配引力的牛顿平方反比定律，以及关于太阳质量、火星质量及二者当前位置与速度的信息，推导火星在未来某时刻的位置。在此推导中，各条牛顿定律作为本质性前提，与关于初始条件的适当信息（火星与太阳的质量等）一起，经由演绎有效的论证推出被解释项（火星的未来位置）。*DN* 标准由此得到满足。
+    step2: |-
+      按演绎—律则模型，科学解释有两个主要“构件”：*被解释项*（*explanandum*），即“描述待解释现象”的语句；*解释项*（*explanans*），即“为说明该现象而援引的那类语句”（Hempel & Oppenheim 1948 [1965: 247]）[^hempel-1948]。解释项要成功解释被解释项，须满足若干条件。其一，“被解释项必须是解释项的逻辑后承”，且“构成解释项的语句必须为真”（Hempel 1948 [1965: 248]）[^hempel-1948]。也就是说，解释须采取可靠演绎论证的形式：被解释项作为结论，由解释项中的前提推出。此为模型的“演绎”成分。其二，解释项须至少含一条“自然律”，且该前提在推导中必须是*本质性的*——去掉它，推导即不成立。此为“律则”成分；“律则的”（nomological）是哲学专门术语，略去细节，大意即“合乎律的”。在最一般的表述中，*DN* 模型既适用于“一般规则性”或“律”的解释（如亨佩尔与奥本海姆之例：光为何遵循折射定律），也适用于特定事件的解释（设想发生于特定时空的事件：如某次观看时，划艇没入水中的桨何以显得弯折）。作为 *DN* 解释特定事件的又一例，试由牛顿运动定律、支配引力的平方反比定律，以及太阳与火星的质量、二者当前位置与速度，推导火星未来某时刻的位置：各条牛顿定律作为本质前提，与初始条件信息一起，经演绎有效的论证推出被解释项（火星的未来位置），*DN* 标准由此满足。
   - id: 13
     kind: body
     source: |-
